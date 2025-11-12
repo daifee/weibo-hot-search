@@ -1,0 +1,410 @@
+{
+  "runTime": 1762922784129,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1113667,
+        "num": 1178186,
+        "word": "陈天润新微博",
+        "onboard_time": 1762919721,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572652,
+        "num": 572652,
+        "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+        "onboard_time": 1762918581,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30950,
+        "num": 486468,
+        "word": "13岁小将打破沉寂13年纪录",
+        "onboard_time": 1762866681,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405471,
+        "num": 405471,
+        "word": "2025爱奇艺尖叫之夜官宣",
+        "onboard_time": 1762915400,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 353726,
+        "num": 353726,
+        "word": "解放军巷战演习旁边大鷄排摊位亮了",
+        "onboard_time": 1762918160,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 339367,
+        "num": 339367,
+        "word": "Viper BLG",
+        "onboard_time": 1762914381,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 281838,
+        "num": 281838,
+        "word": "BLG管理层力保ELK迫使ON离队",
+        "onboard_time": 1762919601,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 275944,
+        "num": 275944,
+        "word": "麻六记一门店被集体投诉",
+        "onboard_time": 1762918759,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 271079,
+        "num": 271079,
+        "word": "这届影帝影后竞争都好激烈",
+        "onboard_time": 1762915579,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117630,
+        "num": 266470,
+        "word": "男子暴打92岁母亲被刑拘",
+        "onboard_time": 1762921643,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415488,
+        "num": 262321,
+        "word": "陈天润工作室",
+        "onboard_time": 1762912999,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328675,
+        "num": 260148,
+        "word": "店主把小蛋糕的成本都写上了",
+        "onboard_time": 1762921820,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 299357,
+        "num": 256353,
+        "word": "国产剧终于癫成我想看的样子了",
+        "onboard_time": 1762919540,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 252506,
+        "num": 252506,
+        "word": "唐诡3把观众写进剧里",
+        "onboard_time": 1762917020,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226650,
+        "num": 226650,
+        "word": "华晨宇 0分一人一个",
+        "onboard_time": 1762921282,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212344,
+        "num": 212344,
+        "word": "韩国小朋友第一次见生烤盲鳗",
+        "onboard_time": 1762912699,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 198528,
+        "num": 198528,
+        "word": "徐志胜穿了沈羽洁的裙子",
+        "onboard_time": 1762916419,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193949,
+        "num": 193949,
+        "word": "秦昊把成毅认成陈坤",
+        "onboard_time": 1762921042,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193728,
+        "num": 193728,
+        "word": "库里职业生涯首次恶意犯规",
+        "onboard_time": 1762914679,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67037,
+        "num": 193612,
+        "word": "今年双十一首次延长至14日",
+        "onboard_time": 1762920260,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1442920,
+        "num": 193176,
+        "word": "乔欣淡圈后的生活",
+        "onboard_time": 1762919839,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 475716,
+        "num": 193026,
+        "word": "张雪峰晒戒指回应传闻",
+        "onboard_time": 1762918880,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 262997,
+        "num": 192660,
+        "word": "金价",
+        "onboard_time": 1762912819,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 235487,
+        "num": 192498,
+        "word": "关晓彤双眼皮",
+        "onboard_time": 1762922121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192200,
+        "num": 192200,
+        "word": "陈梦vs何卓佳",
+        "onboard_time": 1762920080,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168046,
+        "num": 168046,
+        "word": "黄梦莹疯批女主强制恨",
+        "onboard_time": 1762921760,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164056,
+        "num": 164056,
+        "word": "需要焯水才能吃的食物",
+        "onboard_time": 1762917859,
+        "rank": 26,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 158738,
+        "num": 158738,
+        "word": "真的建议停止碎片化护肤",
+        "onboard_time": 1762921643,
+        "rank": 27,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 155823,
+        "num": 155823,
+        "word": "offer主持人季冠军庞铮",
+        "onboard_time": 1762922180,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152680,
+        "num": 152680,
+        "word": "四川阿坝垮塌红旗桥今年1月才建成",
+        "onboard_time": 1762915099,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137926,
+        "num": 137926,
+        "word": "A股",
+        "onboard_time": 1762918581,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 135467,
+        "num": 135467,
+        "word": "小力士第一",
+        "onboard_time": 1762913899,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131361,
+        "num": 131361,
+        "word": "人就是会反反复复爱上同一个人",
+        "onboard_time": 1762922481,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128492,
+        "num": 128492,
+        "word": "新闻联播2秒展示什么叫领先全球",
+        "onboard_time": 1762920500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127840,
+        "num": 127840,
+        "word": "恭喜你发明了劳务派遣",
+        "onboard_time": 1762921100,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126536,
+        "num": 126536,
+        "word": "金鸡奖预测",
+        "onboard_time": 1762922423,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125365,
+        "num": 125365,
+        "word": "深圳已经发展成这样了吗",
+        "onboard_time": 1762922481,
+        "rank": 36,
+        "category": "民生新闻,休闲"
+      },
+      {
+        "raw_hot": 122435,
+        "num": 122435,
+        "word": "台当局警告转发大陆要抓沈伯洋违法",
+        "onboard_time": 1762917980,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77211,
+        "num": 122082,
+        "word": "2025金鸡奖颁奖典礼",
+        "onboard_time": 1762922423,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62631,
+        "num": 122040,
+        "word": "杨志刚 爽文男主",
+        "onboard_time": 1762922180,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123346,
+        "num": 122035,
+        "word": "剖腹产第一次下床时的真实状态",
+        "onboard_time": 1762919240,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 122028,
+        "num": 122028,
+        "word": "范丞丞宋雨琦互换衣服太精彩了",
+        "onboard_time": 1762918520,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122069,
+        "num": 121911,
+        "word": "孙燕姿两年前就预言了AI",
+        "onboard_time": 1762921042,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120992,
+        "num": 120992,
+        "word": "敖子逸没有工作室",
+        "onboard_time": 1762916600,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115132,
+        "num": 115132,
+        "word": "何炅 那英你搁这当艺统呢",
+        "onboard_time": 1762919120,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109159,
+        "num": 109159,
+        "word": "盛夏芬德拉女主回应火了",
+        "onboard_time": 1762908322,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106920,
+        "num": 106920,
+        "word": "朱一龙获最佳男主角提名",
+        "onboard_time": 1762909340,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104402,
+        "num": 104402,
+        "word": "凤凰台上官宣定档",
+        "onboard_time": 1762913899,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92265,
+        "num": 101808,
+        "word": "孙颖莎vs王晓彤",
+        "onboard_time": 1762918520,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72765,
+        "num": 101277,
+        "word": "勇士惨败雷霆",
+        "onboard_time": 1762922601,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#70秒看习近平的海南广东行#"
+    }
+  }
+}

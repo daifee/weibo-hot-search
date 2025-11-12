@@ -1,10 +1,10 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762921928366,
+  "endTime": 1762922784129,
   "band_list": [
     {
-      "raw_hot": 1349620,
-      "num": 169906,
+      "raw_hot": 1442920,
+      "num": 193176,
       "word": "乔欣淡圈后的生活",
       "onboard_time": 1762919839,
       "rank": 20,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 773787,
-      "num": 218417,
+      "num": 262321,
       "word": "陈天润工作室",
       "onboard_time": 1762912999,
       "rank": 20,
@@ -51,20 +51,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 572652,
+      "num": 572652,
+      "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
+      "onboard_time": 1762918581,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 555611,
       "num": 913954,
       "word": "英国海边出现巨型海怪",
       "onboard_time": 1762867521,
       "rank": 0,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 519451,
-      "num": 519451,
-      "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
-      "onboard_time": 1762918581,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 504496,
@@ -91,6 +91,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 475716,
+      "num": 193026,
+      "word": "张雪峰晒戒指回应传闻",
+      "onboard_time": 1762918880,
+      "rank": 21,
+      "category": "教育"
+    },
+    {
       "raw_hot": 463450,
       "num": 463450,
       "word": "湖南卫视接还珠回宫",
@@ -105,14 +113,6 @@
       "onboard_time": 1762860742,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 447478,
-      "num": 169264,
-      "word": "张雪峰晒戒指回应传闻",
-      "onboard_time": 1762918880,
-      "rank": 21,
-      "category": "教育"
     },
     {
       "raw_hot": 439886,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 391581,
-      "num": 168975,
+      "num": 192660,
       "word": "金价",
       "onboard_time": 1762912819,
       "rank": 24,
@@ -211,6 +211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 328675,
+      "num": 260148,
+      "word": "店主把小蛋糕的成本都写上了",
+      "onboard_time": 1762921820,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 326735,
       "num": 111729,
       "word": "何穗产后身材 像没生过",
@@ -249,6 +257,14 @@
       "onboard_time": 1762892353,
       "rank": 46,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 299357,
+      "num": 256353,
+      "word": "国产剧终于癫成我想看的样子了",
+      "onboard_time": 1762919540,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 294595,
@@ -291,6 +307,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 275944,
+      "num": 275944,
+      "word": "麻六记一门店被集体投诉",
+      "onboard_time": 1762918759,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 264477,
       "num": 170425,
       "word": "郭宇欣回应一条裙子穿了三次",
@@ -307,12 +331,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 236825,
-      "num": 203026,
+      "raw_hot": 252506,
+      "num": 252506,
       "word": "唐诡3把观众写进剧里",
       "onboard_time": 1762917020,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 235487,
+      "num": 192498,
+      "word": "关晓彤双眼皮",
+      "onboard_time": 1762922121,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 235455,
@@ -323,12 +355,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 226044,
-      "num": 124278,
-      "word": "店主把小蛋糕的成本都写上了",
-      "onboard_time": 1762921820,
-      "rank": 30,
-      "category": "美食"
+      "raw_hot": 226650,
+      "num": 226650,
+      "word": "华晨宇 0分一人一个",
+      "onboard_time": 1762921282,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 225068,
@@ -347,8 +379,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 211699,
-      "num": 201529,
+      "raw_hot": 212344,
+      "num": 212344,
       "word": "韩国小朋友第一次见生烤盲鳗",
       "onboard_time": 1762912699,
       "rank": 30,
@@ -379,22 +411,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200266,
-      "num": 200266,
-      "word": "华晨宇 0分一人一个",
-      "onboard_time": 1762921282,
-      "rank": 14,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 198221,
-      "num": 198221,
-      "word": "国产剧终于癫成我想看的样子了",
-      "onboard_time": 1762919540,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195741,
       "num": 195741,
       "word": "四川阿坝垮塌红旗桥今年1月才建成",
@@ -417,6 +433,14 @@
       "onboard_time": 1762875621,
       "rank": 6,
       "category": "剧集,游戏"
+    },
+    {
+      "raw_hot": 193949,
+      "num": 193949,
+      "word": "秦昊把成毅认成陈坤",
+      "onboard_time": 1762921042,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 191116,
@@ -467,20 +491,12 @@
       "category": "美食"
     },
     {
-      "raw_hot": 170579,
-      "num": 170579,
-      "word": "麻六记一门店被集体投诉",
-      "onboard_time": 1762918759,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 168635,
-      "num": 168635,
-      "word": "秦昊把成毅认成陈坤",
-      "onboard_time": 1762921042,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 168046,
+      "num": 168046,
+      "word": "黄梦莹疯批女主强制恨",
+      "onboard_time": 1762921760,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 166297,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 166239,
-      "num": 124129,
+      "num": 128492,
       "word": "新闻联播2秒展示什么叫领先全球",
       "onboard_time": 1762920500,
       "rank": 31,
@@ -507,8 +523,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163274,
-      "num": 163274,
+      "raw_hot": 164056,
+      "num": 164056,
       "word": "需要焯水才能吃的食物",
       "onboard_time": 1762917859,
       "rank": 33,
@@ -539,6 +555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158738,
+      "num": 158738,
+      "word": "真的建议停止碎片化护肤",
+      "onboard_time": 1762921643,
+      "rank": 44,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 158722,
       "num": 158722,
       "word": "双十一期间多名主播喊破了肺泡",
@@ -552,6 +576,14 @@
       "word": "弦子李茂两个人就是一个摄影团队",
       "onboard_time": 1762915940,
       "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155823,
+      "num": 155823,
+      "word": "offer主持人季冠军庞铮",
+      "onboard_time": 1762922180,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -579,8 +611,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136853,
-      "num": 123751,
+      "raw_hot": 137926,
+      "num": 137926,
       "word": "A股",
       "onboard_time": 1762918581,
       "rank": 33,
@@ -635,6 +667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131361,
+      "num": 131361,
+      "word": "人就是会反反复复爱上同一个人",
+      "onboard_time": 1762922481,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129060,
       "num": 129060,
       "word": "乒乓球男单前8号种子出局一半",
@@ -643,12 +683,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127840,
+      "num": 127840,
+      "word": "恭喜你发明了劳务派遣",
+      "onboard_time": 1762921100,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127519,
       "num": 123639,
       "word": "范丞丞宋雨琦互换衣服太精彩了",
       "onboard_time": 1762918520,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126536,
+      "num": 126536,
+      "word": "金鸡奖预测",
+      "onboard_time": 1762922423,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125365,
+      "num": 125365,
+      "word": "深圳已经发展成这样了吗",
+      "onboard_time": 1762922481,
+      "rank": 36,
+      "category": "民生新闻,休闲"
     },
     {
       "raw_hot": 124987,
@@ -667,6 +731,22 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123346,
+      "num": 122035,
+      "word": "剖腹产第一次下床时的真实状态",
+      "onboard_time": 1762919240,
+      "rank": 48,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 122069,
+      "num": 121911,
+      "word": "孙燕姿两年前就预言了AI",
+      "onboard_time": 1762921042,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 122050,
       "num": 122050,
       "word": "双11手机最终排名出炉",
@@ -683,6 +763,22 @@
       "category": "海外新闻,数码"
     },
     {
+      "raw_hot": 117630,
+      "num": 266470,
+      "word": "男子暴打92岁母亲被刑拘",
+      "onboard_time": 1762921643,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115132,
+      "num": 115132,
+      "word": "何炅 那英你搁这当艺统呢",
+      "onboard_time": 1762919120,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114186,
       "num": 114186,
       "word": "男子收割玉米突发意外抢救无效去世",
@@ -697,14 +793,6 @@
       "onboard_time": 1762908861,
       "rank": 26,
       "category": "美食"
-    },
-    {
-      "raw_hot": 112793,
-      "num": 112793,
-      "word": "何炅 那英你搁这当艺统呢",
-      "onboard_time": 1762919120,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 112648,
@@ -739,14 +827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 107748,
-      "num": 107748,
-      "word": "孙燕姿两年前就预言了AI",
-      "onboard_time": 1762921042,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 104752,
       "num": 104752,
       "word": "会长是女仆大人终于发糖了",
@@ -763,14 +843,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 103861,
-      "num": 103861,
-      "word": "真的建议停止碎片化护肤",
-      "onboard_time": 1762921643,
-      "rank": 44,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 103744,
       "num": 113954,
       "word": "iPhone18Pro升级工艺",
@@ -785,22 +857,6 @@
       "onboard_time": 1762915758,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102101,
-      "num": 102101,
-      "word": "黄梦莹疯批女主强制恨",
-      "onboard_time": 1762921760,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 100099,
-      "num": 164904,
-      "word": "男子暴打92岁母亲被刑拘",
-      "onboard_time": 1762921643,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99522,
@@ -851,14 +907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96839,
-      "num": 96839,
-      "word": "剖腹产第一次下床时的真实状态",
-      "onboard_time": 1762919240,
-      "rank": 48,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 95788,
       "num": 95788,
       "word": "全运会奖牌上也有大湾鸡",
@@ -889,6 +937,14 @@
       "onboard_time": 1762911919,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92265,
+      "num": 101808,
+      "word": "孙颖莎vs王晓彤",
+      "onboard_time": 1762918520,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 92184,
@@ -1027,6 +1083,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 77211,
+      "num": 122082,
+      "word": "2025金鸡奖颁奖典礼",
+      "onboard_time": 1762922423,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 76950,
       "num": 105114,
       "word": "陈飞宇西装daddy级别",
@@ -1036,7 +1100,7 @@
     },
     {
       "raw_hot": 75219,
-      "num": 170427,
+      "num": 193612,
       "word": "今年双十一首次延长至14日",
       "onboard_time": 1762920260,
       "rank": 19,
@@ -1073,6 +1137,14 @@
       "onboard_time": 1762909519,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 72765,
+      "num": 101277,
+      "word": "勇士惨败雷霆",
+      "onboard_time": 1762922601,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 71976,
@@ -1185,6 +1257,14 @@
       "onboard_time": 1762874302,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62631,
+      "num": 122040,
+      "word": "杨志刚 爽文男主",
+      "onboard_time": 1762922180,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 62069,
@@ -1395,7 +1475,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29118,
+      "raw_hot": 30950,
       "num": 494417,
       "word": "13岁小将打破沉寂13年纪录",
       "onboard_time": 1762866681,
