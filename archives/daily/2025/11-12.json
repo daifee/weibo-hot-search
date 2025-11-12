@@ -1,6 +1,6 @@
 {
   "startTime": 1762878857858,
-  "endTime": 1762943460108,
+  "endTime": 1762944419220,
   "band_list": [
     {
       "raw_hot": 1442920,
@@ -75,12 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 686818,
-      "num": 1109891,
+      "raw_hot": 695056,
+      "num": 1111209,
       "word": "苏州一寺庙发生火灾",
       "onboard_time": 1762939040,
       "rank": 13,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 673584,
+      "num": 439503,
+      "word": "江山为聘 拖欠工资",
+      "onboard_time": 1762939399,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 660717,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 580326,
-      "num": 230392,
+      "num": 234323,
       "word": "乔欣 现实版的曲筱绡",
       "onboard_time": 1762927701,
       "rank": 15,
@@ -129,14 +137,6 @@
       "onboard_time": 1762930880,
       "rank": 1,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 567373,
-      "num": 439503,
-      "word": "江山为聘 拖欠工资",
-      "onboard_time": 1762939399,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 565985,
@@ -203,20 +203,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 485681,
+      "num": 485681,
+      "word": "易烊千玺如果拿奖会打破刘烨的纪录",
+      "onboard_time": 1762939100,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 484621,
       "num": 484621,
       "word": "2025爱奇艺尖叫之夜官宣",
       "onboard_time": 1762915400,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 484210,
-      "num": 484210,
-      "word": "易烊千玺如果拿奖会打破刘烨的纪录",
-      "onboard_time": 1762939100,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 477330,
@@ -297,6 +297,14 @@
       "onboard_time": 1762874002,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 435527,
+      "num": 475798,
+      "word": "永庆寺 南朝四百八十寺",
+      "onboard_time": 1762942641,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 431108,
@@ -443,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 328477,
+      "num": 464933,
+      "word": "王鹤棣沈月时隔三年合体好六",
+      "onboard_time": 1762942823,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 326735,
       "num": 111729,
       "word": "何穗产后身材 像没生过",
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 270051,
+      "num": 270051,
+      "word": "煎蛋和炸鸡其实是一种东西",
+      "onboard_time": 1762938500,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 264477,
       "num": 170425,
       "word": "郭宇欣回应一条裙子穿了三次",
@@ -596,7 +620,7 @@
     },
     {
       "raw_hot": 262981,
-      "num": 262981,
+      "num": 288832,
       "word": "喜人奇妙夜 爱奇艺优酷",
       "onboard_time": 1762935440,
       "rank": 3,
@@ -625,14 +649,6 @@
       "onboard_time": 1762908981,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 253845,
-      "num": 253845,
-      "word": "煎蛋和炸鸡其实是一种东西",
-      "onboard_time": 1762938500,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 252506,
@@ -771,12 +787,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 197030,
-      "num": 464933,
-      "word": "王鹤棣沈月时隔三年合体好六",
-      "onboard_time": 1762942823,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 198220,
+      "num": 446253,
+      "word": "第一批金价下跌卖出的人后悔了",
+      "onboard_time": 1762943121,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 196873,
@@ -907,6 +923,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 173552,
+      "num": 173552,
+      "word": "方圆回应阿爆扮丑",
+      "onboard_time": 1762941023,
+      "rank": 26,
+      "category": "网红"
+    },
+    {
       "raw_hot": 172133,
       "num": 172133,
       "word": "孙颖莎11比7王晓彤",
@@ -969,14 +993,6 @@
       "onboard_time": 1762917859,
       "rank": 33,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 162711,
-      "num": 162711,
-      "word": "方圆回应阿爆扮丑",
-      "onboard_time": 1762941023,
-      "rank": 26,
-      "category": "网红"
     },
     {
       "raw_hot": 162472,
@@ -1123,14 +1139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142027,
-      "num": 475798,
-      "word": "永庆寺 南朝四百八十寺",
-      "onboard_time": 1762942641,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137926,
       "num": 137926,
       "word": "A股",
@@ -1243,8 +1251,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130385,
-      "num": 130385,
+      "raw_hot": 130804,
+      "num": 130804,
       "word": "西安多部门介入8岁女孩事件",
       "onboard_time": 1762940720,
       "rank": 30,
@@ -1435,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116602,
+      "num": 116602,
+      "word": "第一次看电影看到生理性幻痛",
+      "onboard_time": 1762943721,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115132,
       "num": 115132,
       "word": "何炅 那英你搁这当艺统呢",
@@ -1539,6 +1555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 107391,
+      "num": 110710,
+      "word": "遭毒蛇咬伤网红被警方行政拘留8日",
+      "onboard_time": 1762939340,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106279,
       "num": 106279,
       "word": "警方通报男子殴打92岁母亲",
@@ -1547,20 +1571,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106257,
+      "num": 106257,
+      "word": "唐朝诡事录",
+      "onboard_time": 1762943481,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106158,
       "num": 106158,
       "word": "成都混团世界杯参赛名单",
       "onboard_time": 1762931121,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105991,
-      "num": 446253,
-      "word": "第一批金价下跌卖出的人后悔了",
-      "onboard_time": 1762943121,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 105702,
@@ -2059,6 +2083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83660,
+      "num": 83660,
+      "word": "幽门螺杆菌或致1200万人患胃癌",
+      "onboard_time": 1762942160,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83194,
       "num": 103930,
       "word": "孙颖莎恭喜四川队",
@@ -2089,6 +2121,14 @@
       "onboard_time": 1762929501,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82027,
+      "num": 82027,
+      "word": "星辰大海活动",
+      "onboard_time": 1762944139,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 81616,
@@ -2129,6 +2169,14 @@
       "onboard_time": 1762875621,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79455,
+      "num": 79455,
+      "word": "100和1000元美甲的区别",
+      "onboard_time": 1762941561,
+      "rank": 46,
+      "category": "美妆"
     },
     {
       "raw_hot": 79000,
@@ -2219,6 +2267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 74230,
+      "num": 85186,
+      "word": "冬季护肤不要再花冤枉钱",
+      "onboard_time": 1762944080,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 73876,
       "num": 105092,
       "word": "金鸡奖",
@@ -2249,6 +2305,14 @@
       "onboard_time": 1762909519,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73187,
+      "num": 239893,
+      "word": "蒙牛儿童奶粉 篡改研究数据",
+      "onboard_time": 1762943240,
+      "rank": 21,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 72765,
@@ -2411,6 +2475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 59258,
+      "num": 240177,
+      "word": "全运会男篮四川夺铜牌",
+      "onboard_time": 1762943121,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59066,
       "num": 105216,
       "word": "年会不能停2 大鹏",
@@ -2441,14 +2513,6 @@
       "onboard_time": 1762903759,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 58330,
-      "num": 110710,
-      "word": "遭毒蛇咬伤网红被警方行政拘留8日",
-      "onboard_time": 1762939340,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57612,
@@ -2505,14 +2569,6 @@
       "onboard_time": 1762921222,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 50978,
-      "num": 240177,
-      "word": "全运会男篮四川夺铜牌",
-      "onboard_time": 1762943121,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 49001,
@@ -2603,14 +2659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43360,
-      "num": 227546,
-      "word": "蒙牛儿童奶粉 篡改研究数据",
-      "onboard_time": 1762943240,
-      "rank": 21,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 43035,
       "num": 163043,
       "word": "多部门介入救助穿拖鞋流浪女孩",
@@ -2628,7 +2676,7 @@
     },
     {
       "raw_hot": 42619,
-      "num": 244503,
+      "num": 268204,
       "word": "X300拍到的演唱会舞台巨出片",
       "onboard_time": 1762941921,
       "rank": 18,
@@ -2665,6 +2713,14 @@
       "onboard_time": 1762895894,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37539,
+      "num": 247876,
+      "word": "游客穿带吊牌的衣服拍完照再退",
+      "onboard_time": 1762943421,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35654,
@@ -2729,14 +2785,6 @@
       "onboard_time": 1762932020,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 31974,
-      "num": 114908,
-      "word": "游客穿带吊牌的衣服拍完照再退",
-      "onboard_time": 1762943421,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30950,
