@@ -1,0 +1,410 @@
+{
+  "runTime": 1762955449599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1238883,
+        "num": 1238883,
+        "word": "孙杨因犯规被取消成绩",
+        "onboard_time": 1762950323,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 957222,
+        "num": 957222,
+        "word": "小天才灰色产业链曝光",
+        "onboard_time": 1762945159,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 29703,
+        "num": 880262,
+        "word": "微观全运会",
+        "onboard_time": 1762934480,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 839609,
+        "num": 839609,
+        "word": "唐诡3第9集10分15秒",
+        "onboard_time": 1762951522,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 745780,
+        "num": 745780,
+        "word": "王楚钦vs黄镇廷",
+        "onboard_time": 1762952481,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 447613,
+        "num": 447613,
+        "word": "卢凌风 李奈儿",
+        "onboard_time": 1762950323,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319633,
+        "num": 319633,
+        "word": "无印良品 过度包装",
+        "onboard_time": 1762948341,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284357,
+        "num": 284357,
+        "word": "北京北部出现极光",
+        "onboard_time": 1762951461,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244276,
+        "num": 244276,
+        "word": "小学生每天花6小时运营小天才账号",
+        "onboard_time": 1762948581,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219850,
+        "num": 219850,
+        "word": "广东男篮金牌",
+        "onboard_time": 1762953501,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 667523,
+        "num": 219138,
+        "word": "男子溺亡被同伴运回家摆成睡姿",
+        "onboard_time": 1762949781,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 516875,
+        "num": 218763,
+        "word": "离婚证后面有囍字",
+        "onboard_time": 1762933941,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 298945,
+        "num": 217889,
+        "word": "黄友政14比12林诗栋",
+        "onboard_time": 1762953682,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 228847,
+        "num": 217019,
+        "word": "小孩试戴金镯子10秒被要求赔偿千元",
+        "onboard_time": 1762954582,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216130,
+        "num": 216130,
+        "word": "奔跑吧沙溢宋雨琦路透",
+        "onboard_time": 1762948880,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212376,
+        "num": 212376,
+        "word": "民政局回应离婚证后面有囍字",
+        "onboard_time": 1762946959,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208054,
+        "num": 208054,
+        "word": "敖子逸连发两百个不一样",
+        "onboard_time": 1762954041,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205649,
+        "num": 205649,
+        "word": "小天才电话手表已成社交硬通货",
+        "onboard_time": 1762954103,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178685,
+        "num": 200809,
+        "word": "王曼昱4比1战胜钱天一",
+        "onboard_time": 1762954882,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196939,
+        "num": 196939,
+        "word": "沙溢宋雨琦 塔吉克族礼仪",
+        "onboard_time": 1762954161,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 756074,
+        "num": 196842,
+        "word": "朱媛媛去世六个月辛柏青状态",
+        "onboard_time": 1762946959,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 613072,
+        "num": 195857,
+        "word": "梅尼耶要结婚了",
+        "onboard_time": 1762953141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 408023,
+        "num": 195521,
+        "word": "白鹿庆祝与呵呵十周年",
+        "onboard_time": 1762949781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 387684,
+        "num": 195168,
+        "word": "李克勤回应岳父和妻弟断绝关系",
+        "onboard_time": 1762953321,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14949,
+        "num": 194293,
+        "word": "男子鱼刺卡喉后身亡工伤诉求遭驳回",
+        "onboard_time": 1762955301,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167340,
+        "num": 193817,
+        "word": "王曼昱晋级八强",
+        "onboard_time": 1762954103,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 330923,
+        "num": 192948,
+        "word": "张艺兴全包眼线",
+        "onboard_time": 1762952121,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231695,
+        "num": 192714,
+        "word": "李连杰返老还童教程",
+        "onboard_time": 1762953321,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105617,
+        "num": 191924,
+        "word": "侯明昊遇到了最懂他的搭子",
+        "onboard_time": 1762949301,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161400,
+        "num": 191325,
+        "word": "奔跑吧回应路透",
+        "onboard_time": 1762954582,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191090,
+        "num": 191090,
+        "word": "张晚意染黄毛",
+        "onboard_time": 1762955425,
+        "rank": 30,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 172145,
+        "num": 172145,
+        "word": "狗咬人被摔死狗主人上门理论遭反杀",
+        "onboard_time": 1762933100,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165735,
+        "num": 165735,
+        "word": "王男王广",
+        "onboard_time": 1762954702,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149005,
+        "num": 149005,
+        "word": "穆祉丞 星辰大海",
+        "onboard_time": 1762953141,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144656,
+        "num": 144656,
+        "word": "狼队转会",
+        "onboard_time": 1762953441,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142515,
+        "num": 142515,
+        "word": "孙杨抢跳",
+        "onboard_time": 1762948761,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130490,
+        "num": 130490,
+        "word": "沈佳润把自己照顾得很好",
+        "onboard_time": 1762951703,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114249,
+        "num": 114249,
+        "word": "王曼昱11比1钱天一",
+        "onboard_time": 1762953682,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111760,
+        "num": 111760,
+        "word": "乔欣今年8月成立新公司",
+        "onboard_time": 1762945222,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104284,
+        "num": 111394,
+        "word": "金价飙升 金店关门",
+        "onboard_time": 1762954403,
+        "rank": 39,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 111332,
+        "num": 111332,
+        "word": "iPhone可以检测针孔摄像头",
+        "onboard_time": 1762932920,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 108332,
+        "num": 108332,
+        "word": "第一批金价下跌卖出的人后悔了",
+        "onboard_time": 1762943121,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103728,
+        "num": 103728,
+        "word": "王者拥有量最少的史诗皮肤",
+        "onboard_time": 1762952782,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102135,
+        "num": 102135,
+        "word": "易烊千玺如果拿奖会打破刘烨的纪录",
+        "onboard_time": 1762939100,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98718,
+        "num": 98718,
+        "word": "tws转发了四代的cha",
+        "onboard_time": 1762955301,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94771,
+        "num": 94771,
+        "word": "刘俊昊 陈天润下海吗",
+        "onboard_time": 1762929980,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94300,
+        "num": 94300,
+        "word": "唐诡3第3案一集下线3人",
+        "onboard_time": 1762951580,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92884,
+        "num": 92884,
+        "word": "江山为聘 拖欠工资",
+        "onboard_time": 1762939399,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92782,
+        "num": 92782,
+        "word": "眼镜应该戴戴停停还是长久戴",
+        "onboard_time": 1762955122,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 90776,
+        "num": 90776,
+        "word": "苹果回应输入法宁死不屈",
+        "onboard_time": 1762955244,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见西班牙国王费利佩六世#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 21:38:46
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/12 21:50:49
 </p>
 </blockquote>
 <p>
@@ -471,6 +471,12 @@ KT对战T1（热度：1348771）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%9B%A0%E7%8A%AF%E8%A7%84%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
+孙杨因犯规被取消成绩（热度：1238883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E5%AD%9F%E5%AD%90%E4%B9%89%E6%BC%94%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
 对接确认孟子义演将门毒后（热度：1236023）
 </a>
@@ -557,12 +563,6 @@ KT对战T1（热度：1348771）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23" target="weibo">
 比特币富婆钱志敏在床上被捕（热度：1147547）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E5%9B%A0%E7%8A%AF%E8%A7%84%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
-孙杨因犯规被取消成绩（热度：1147193）
 </a>
 </li>
 
@@ -1035,6 +1035,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC9%E9%9B%8610%E5%88%8615%E7%A7%92%23" target="weibo">
+唐诡3第9集10分15秒（热度：839609）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E7%94%B7%E5%AD%90%E5%A5%B8%E6%9D%80%E7%A2%8E%E5%B0%B8%E8%A2%AB%E6%8B%98%E7%A6%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
 两男子奸杀碎尸被拘禁女子被判死刑（热度：837343）
 </a>
@@ -1251,12 +1257,6 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC9%E9%9B%8610%E5%88%8615%E7%A7%92%23" target="weibo">
-唐诡3第9集10分15秒（热度：760449）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E6%96%87%E7%9C%9F%E7%9A%84%E6%98%AF%E6%BB%9E%E5%90%8E%E6%80%A7%E5%BE%88%E5%BC%BA%E7%9A%84%E4%B8%80%E9%97%A8%E5%AD%A6%E7%A7%91%23" target="weibo">
 语文真的是滞后性很强的一门学科（热度：756837）
 </a>
@@ -1277,6 +1277,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%89%8D%E7%9E%BB%23" target="weibo">
 iPhone18Pro前瞻（热度：752671）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%BB%84%E9%95%87%E5%BB%B7%23" target="weibo">
+王楚钦vs黄镇廷（热度：745780）
 </a>
 </li>
 
@@ -1953,6 +1959,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%B0%BC%E8%80%B6%E8%A6%81%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
+梅尼耶要结婚了（热度：613072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E8%8A%B1170%E4%B8%87%E4%B9%B0%E8%BF%88%E5%B7%B4%E8%B5%AB%E8%B7%91%E5%A9%9A%E8%BD%A6%23" target="weibo">
 小伙花170万买迈巴赫跑婚车（热度：612626）
 </a>
@@ -1985,12 +1997,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E7%BA%A2%E6%AF%AF%23" target="weibo">
 微博视界大会红毯（热度：609464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%BB%84%E9%95%87%E5%BB%B7%23" target="weibo">
-王楚钦vs黄镇廷（热度：608353）
 </a>
 </li>
 
@@ -2771,12 +2777,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%BA%A2%E9%9C%89%E7%B4%A0%E7%9C%BC%E8%86%8F%E6%98%AF%E8%BF%99%E4%B9%88%E6%B6%82%E7%9A%84%23" target="weibo">
 原来红霉素眼膏是这么涂的（热度：503837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%85%E5%B0%BC%E8%80%B6%E8%A6%81%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
-梅尼耶要结婚了（热度：503044）
 </a>
 </li>
 
@@ -3999,6 +3999,12 @@ ally因整容擤不出鼻涕（热度：402082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%8B%A4%E5%9B%9E%E5%BA%94%E5%B2%B3%E7%88%B6%E5%92%8C%E5%A6%BB%E5%BC%9F%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%23" target="weibo">
+李克勤回应岳父和妻弟断绝关系（热度：387684）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E7%8E%B0%E5%9C%BA%E6%89%8D%E7%9F%A5%E9%81%93%E9%83%AD%E6%99%B6%E6%99%B6%E6%98%AF%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
 霍震霆现场才知道郭晶晶是火炬手（热度：387663）
 </a>
@@ -4677,12 +4683,6 @@ Faker自拍配文成都（热度：342872）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%8B%E5%8B%A4%E5%9B%9E%E5%BA%94%E5%B2%B3%E7%88%B6%E5%92%8C%E5%A6%BB%E5%BC%9F%E6%96%AD%E7%BB%9D%E5%85%B3%E7%B3%BB%23" target="weibo">
-李克勤回应岳父和妻弟断绝关系（热度：341480）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%940%E8%83%9C%E5%91%A8%E9%9B%A8%23" target="weibo">
 樊振东4比0胜周雨（热度：341459）
 </a>
@@ -4881,6 +4881,12 @@ KK园区已被严重破坏（热度：332604）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%85%A8%E5%8C%85%E7%9C%BC%E7%BA%BF%23" target="weibo">
+张艺兴全包眼线（热度：330923）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%8F%B0%E5%8A%9E%E7%BB%99%E8%B5%96%E6%B8%85%E5%BE%B7%E5%BF%B5%E4%BA%86%E4%B8%A4%E9%81%8D%E8%B5%96%E5%AE%B6%E7%A5%96%E8%AE%AD%23" target="weibo">
 国台办给赖清德念了两遍赖家祖训（热度：330855）
 </a>
@@ -5045,12 +5051,6 @@ iPhone18Pro升级工艺（热度：325186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%8A%8A%E5%A4%A7%E9%BB%84%E6%90%82%E5%9C%A8%E6%80%80%E9%87%8C%E4%B8%BA%E5%A5%B9%E5%8F%96%E6%9A%96%23" target="weibo">
 肖战把大黄搂在怀里为她取暖（热度：320961）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E5%85%A8%E5%8C%85%E7%9C%BC%E7%BA%BF%23" target="weibo">
-张艺兴全包眼线（热度：320333）
 </a>
 </li>
 
@@ -5445,6 +5445,12 @@ Faker回应打LPL没输过（热度：302785）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%8F%8B%E6%94%BF14%E6%AF%9412%E6%9E%97%E8%AF%97%E6%A0%8B%23" target="weibo">
+黄友政14比12林诗栋（热度：298945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%20%E8%AE%A4%E7%9C%9F%E7%9A%84%E9%9B%AA%23" target="weibo">
 薛之谦 认真的雪（热度：298620）
 </a>
@@ -5745,6 +5751,12 @@ T1的BP（热度：291108）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%8C%97%E9%83%A8%E5%87%BA%E7%8E%B0%E6%9E%81%E5%85%89%23" target="weibo">
+北京北部出现极光（热度：284357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A64%E6%AF%940%E8%83%9C%E4%BD%95%E5%8D%93%E4%BD%B3%23" target="weibo">
 陈梦4比0胜何卓佳（热度：283912）
 </a>
@@ -5999,18 +6011,6 @@ Faker说Uzi是LPL最佳选手（热度：277726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90%E5%85%A8%E8%BF%90%E4%BC%9A%E7%AC%AC%E4%B8%80%E8%B7%B3%23" target="weibo">
 陈芋汐全运会第一跳（热度：272730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E5%90%BE%E4%B8%8D%E7%A6%81%E5%BC%80%E6%9C%BA%23" target="weibo">
-金吾不禁开机（热度：272636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23GAI%E5%BA%86%E5%8A%9F%E5%AE%B4%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%818%E4%B8%87%E7%BA%A2%E5%8C%85%23" target="weibo">
-GAI庆功宴王鹤棣送8万红包（热度：271480）
 </a>
 </li>
 

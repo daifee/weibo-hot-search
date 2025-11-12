@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1762954726928,
+  "endTime": 1762955449599,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -611,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1238883,
+      "num": 1238883,
+      "word": "孙杨因犯规被取消成绩",
+      "onboard_time": 1762950323,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1236023,
       "num": 1236023,
       "word": "对接确认孟子义演将门毒后",
@@ -729,14 +737,6 @@
       "onboard_time": 1762910540,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1147193,
-      "num": 1183550,
-      "word": "孙杨因犯规被取消成绩",
-      "onboard_time": 1762950323,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 1146228,
@@ -1124,7 +1124,7 @@
     },
     {
       "raw_hot": 926478,
-      "num": 194284,
+      "num": 196842,
       "word": "朱媛媛去世六个月辛柏青状态",
       "onboard_time": 1762946959,
       "rank": 35,
@@ -1361,6 +1361,14 @@
       "onboard_time": 1762791260,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 839609,
+      "num": 839609,
+      "word": "唐诡3第9集10分15秒",
+      "onboard_time": 1762951522,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 837343,
@@ -1651,14 +1659,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 760449,
-      "num": 760449,
-      "word": "唐诡3第9集10分15秒",
-      "onboard_time": 1762951522,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 756837,
       "num": 210098,
       "word": "语文真的是滞后性很强的一门学科",
@@ -1689,6 +1689,14 @@
       "onboard_time": 1761978860,
       "rank": 32,
       "category": "数码"
+    },
+    {
+      "raw_hot": 745780,
+      "num": 745780,
+      "word": "王楚钦vs黄镇廷",
+      "onboard_time": 1762952481,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 741062,
@@ -2587,6 +2595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 613072,
+      "num": 195857,
+      "word": "梅尼耶要结婚了",
+      "onboard_time": 1762953141,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 612626,
       "num": 194006,
       "word": "小伙花170万买迈巴赫跑婚车",
@@ -2633,14 +2649,6 @@
       "onboard_time": 1762153041,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 608353,
-      "num": 608353,
-      "word": "王楚钦vs黄镇廷",
-      "onboard_time": 1762952481,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 606252,
@@ -3004,7 +3012,7 @@
     },
     {
       "raw_hot": 565157,
-      "num": 192755,
+      "num": 195521,
       "word": "白鹿庆祝与呵呵十周年",
       "onboard_time": 1762949781,
       "rank": 22,
@@ -3681,14 +3689,6 @@
       "onboard_time": 1762392499,
       "rank": 24,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 503044,
-      "num": 191289,
-      "word": "梅尼耶要结婚了",
-      "onboard_time": 1762953141,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 502961,
@@ -5315,6 +5315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387684,
+      "num": 195168,
+      "word": "李克勤回应岳父和妻弟断绝关系",
+      "onboard_time": 1762953321,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 387663,
       "num": 387663,
       "word": "霍震霆现场才知道郭晶晶是火炬手",
@@ -6219,14 +6227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 341480,
-      "num": 188434,
-      "word": "李克勤回应岳父和妻弟断绝关系",
-      "onboard_time": 1762953321,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341459,
       "num": 341459,
       "word": "樊振东4比0胜周雨",
@@ -6491,6 +6491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330923,
+      "num": 192948,
+      "word": "张艺兴全包眼线",
+      "onboard_time": 1762952121,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330855,
       "num": 1052936,
       "word": "国台办给赖清德念了两遍赖家祖训",
@@ -6713,14 +6721,6 @@
       "onboard_time": 1762505840,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320333,
-      "num": 186822,
-      "word": "张艺兴全包眼线",
-      "onboard_time": 1762952121,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 320238,
@@ -7243,6 +7243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 298945,
+      "num": 217889,
+      "word": "黄友政14比12林诗栋",
+      "onboard_time": 1762953682,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298620,
       "num": 225549,
       "word": "薛之谦 认真的雪",
@@ -7641,6 +7649,14 @@
       "onboard_time": 1762830680,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 284357,
+      "num": 284357,
+      "word": "北京北部出现极光",
+      "onboard_time": 1762951461,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 283912,
@@ -8747,6 +8763,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 244276,
+      "num": 251807,
+      "word": "小学生每天花6小时运营小天才账号",
+      "onboard_time": 1762948581,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 243998,
       "num": 207023,
       "word": "TF家族都有六代了",
@@ -8897,14 +8921,6 @@
       "onboard_time": 1762836142,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 239997,
-      "num": 251807,
-      "word": "小学生每天花6小时运营小天才账号",
-      "onboard_time": 1762948581,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 239923,
@@ -9179,6 +9195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231695,
+      "num": 192714,
+      "word": "李连杰返老还童教程",
+      "onboard_time": 1762953321,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231673,
       "num": 231673,
       "word": "妻子说尿毒症丈夫生前一直为她做饭",
@@ -9273,6 +9297,14 @@
       "onboard_time": 1762316841,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228847,
+      "num": 217019,
+      "word": "小孩试戴金镯子10秒被要求赔偿千元",
+      "onboard_time": 1762954582,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 228591,
@@ -9731,6 +9763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 219850,
+      "num": 219850,
+      "word": "广东男篮金牌",
+      "onboard_time": 1762953501,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 219374,
       "num": 219374,
       "word": "KK园区2年扩大3倍",
@@ -10099,14 +10139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211970,
-      "num": 211970,
-      "word": "北京北部出现极光",
-      "onboard_time": 1762951461,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211843,
       "num": 162580,
       "word": "差点忘了房子住进来前是什么样",
@@ -10121,14 +10153,6 @@
       "onboard_time": 1762607422,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 211659,
-      "num": 186284,
-      "word": "李连杰返老还童教程",
-      "onboard_time": 1762953321,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 211416,
@@ -10339,6 +10363,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 208054,
+      "num": 208054,
+      "word": "敖子逸连发两百个不一样",
+      "onboard_time": 1762954041,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207882,
       "num": 207882,
       "word": "广东队跳水女团冠军",
@@ -10489,6 +10521,14 @@
       "onboard_time": 1762611622,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205649,
+      "num": 205649,
+      "word": "小天才电话手表已成社交硬通货",
+      "onboard_time": 1762954103,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 205605,
@@ -10721,14 +10761,6 @@
       "onboard_time": 1762487540,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 202887,
-      "num": 168778,
-      "word": "黄友政14比12林诗栋",
-      "onboard_time": 1762953682,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 202843,
@@ -11091,14 +11123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197940,
-      "num": 197940,
-      "word": "广东男篮金牌",
-      "onboard_time": 1762953501,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 197883,
       "num": 197883,
       "word": "崩铁",
@@ -11177,6 +11201,14 @@
       "onboard_time": 1762244120,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196939,
+      "num": 196939,
+      "word": "沙溢宋雨琦 塔吉克族礼仪",
+      "onboard_time": 1762954161,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 196873,
@@ -11699,6 +11731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 191090,
+      "num": 191090,
+      "word": "张晚意染黄毛",
+      "onboard_time": 1762955425,
+      "rank": 30,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 191072,
       "num": 208052,
       "word": "龚俊告别花儿与少年vlog",
@@ -11843,14 +11883,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 189935,
-      "num": 196034,
-      "word": "敖子逸连发两百个不一样",
-      "onboard_time": 1762954041,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189930,
       "num": 189930,
       "word": "成毅扛完你的扛你的",
@@ -11880,14 +11912,6 @@
       "word": "前有龚俊亲吻鲨鱼后有徐志胜美丽泡沫",
       "onboard_time": 1762665740,
       "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 189127,
-      "num": 194742,
-      "word": "沙溢宋雨琦 塔吉克族礼仪",
-      "onboard_time": 1762954161,
-      "rank": 16,
       "category": "综艺"
     },
     {
@@ -12737,6 +12761,14 @@
       "onboard_time": 1762420941,
       "rank": 23,
       "category": "运动健身,休闲"
+    },
+    {
+      "raw_hot": 178685,
+      "num": 200809,
+      "word": "王曼昱4比1战胜钱天一",
+      "onboard_time": 1762954882,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 178684,
@@ -13979,6 +14011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165735,
+      "num": 165735,
+      "word": "王男王广",
+      "onboard_time": 1762954702,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165710,
       "num": 165710,
       "word": "宋祖儿请粉丝吃烤梨和饭",
@@ -14497,6 +14537,14 @@
       "onboard_time": 1762011082,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161400,
+      "num": 191325,
+      "word": "奔跑吧回应路透",
+      "onboard_time": 1762954582,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 161363,
@@ -21395,14 +21443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118969,
-      "num": 118969,
-      "word": "奔跑吧回应路透",
-      "onboard_time": 1762954582,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118942,
       "num": 118942,
       "word": "孙东旭曾为多家东方甄选公司高管",
@@ -24211,14 +24251,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 107268,
-      "num": 107268,
-      "word": "小孩试戴金镯子10秒被要求赔偿千元",
-      "onboard_time": 1762954582,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 107232,
       "num": 150612,
       "word": "上班不许欺负同事",
@@ -25067,6 +25099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104284,
+      "num": 114400,
+      "word": "金价飙升 金店关门",
+      "onboard_time": 1762954403,
+      "rank": 39,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 104283,
       "num": 104283,
       "word": "Lehends说明年会是最后一年",
@@ -25873,14 +25913,6 @@
       "onboard_time": 1762871720,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 101988,
-      "num": 114400,
-      "word": "金价飙升 金店关门",
-      "onboard_time": 1762954403,
-      "rank": 39,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 101973,
@@ -26915,14 +26947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98921,
-      "num": 98921,
-      "word": "王男王广",
-      "onboard_time": 1762954702,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98920,
       "num": 98920,
       "word": "单独看就不认识的字",
@@ -26969,6 +26993,14 @@
       "onboard_time": 1761954438,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98718,
+      "num": 98718,
+      "word": "tws转发了四代的cha",
+      "onboard_time": 1762955301,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 98716,
@@ -29163,6 +29195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 92782,
+      "num": 92782,
+      "word": "眼镜应该戴戴停停还是长久戴",
+      "onboard_time": 1762955122,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 92767,
       "num": 92767,
       "word": "人民日报关注商业体检乱象",
@@ -29739,14 +29779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 90958,
-      "num": 194293,
-      "word": "小天才电话手表已成社交硬通货",
-      "onboard_time": 1762954103,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90947,
       "num": 90947,
       "word": "樊振东的第1条微博",
@@ -29849,6 +29881,14 @@
       "onboard_time": 1762485561,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90776,
+      "num": 90776,
+      "word": "苹果回应输入法宁死不屈",
+      "onboard_time": 1762955244,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 90760,
@@ -41283,6 +41323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29703,
+      "num": 880262,
+      "word": "微观全运会",
+      "onboard_time": 1762934480,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29693,
       "num": 132801,
       "word": "大批理工科人才要逃离韩国",
@@ -41569,14 +41617,6 @@
       "onboard_time": 1761984259,
       "rank": 12,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 27400,
-      "num": 827208,
-      "word": "微观全运会",
-      "onboard_time": 1762934480,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 27368,
@@ -42841,6 +42881,14 @@
       "onboard_time": 1762792339,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 14949,
+      "num": 194293,
+      "word": "男子鱼刺卡喉后身亡工伤诉求遭驳回",
+      "onboard_time": 1762955301,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14753,
