@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 19:24:54
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 19:38:53
 </p>
 </blockquote>
 <p>
@@ -2187,6 +2187,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
+王楚钦vs林高远（热度：592921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A3%85%E4%BF%AE%E5%B7%A5%E4%BA%BA%E8%A7%A6%E7%94%B5%E8%BA%AB%E4%BA%A1%E5%A9%9A%E6%88%BF%E5%8F%98%E5%87%B6%E5%AE%85%23" target="weibo">
 装修工人触电身亡婚房变凶宅（热度：592657）
 </a>
@@ -4125,12 +4131,6 @@ ally因整容擤不出鼻涕（热度：402082）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%9E%97%E9%AB%98%E8%BF%9C%23" target="weibo">
-王楚钦vs林高远（热度：398312）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%8D%AB%E7%94%9F%E7%BA%B8%E6%88%91%E4%BB%AC%E4%B8%80%E7%9B%B4%E9%83%BD%E7%94%A8%E9%94%99%E4%BA%86%23" target="weibo">
 原来卫生纸我们一直都用错了（热度：398176）
 </a>
@@ -4617,6 +4617,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E6%AD%8C%E6%89%8B%E9%98%BF%E7%8F%8D%E5%8E%BB%E4%B8%96%23" target="weibo">
+摇滚歌手阿珍去世（热度：365738）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E9%9C%86%E9%94%8B%E8%AE%B0%E4%B8%81%E7%9C%9F%E7%9A%84%E4%BB%87%E8%AE%B0%E5%9B%9B%E5%B9%B4%23" target="weibo">
 谢霆锋记丁真的仇记四年（热度：365717）
 </a>
@@ -5061,12 +5067,6 @@ Faker自拍配文成都（热度：342872）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E6%AD%8C%E6%89%8B%E9%98%BF%E7%8F%8D%E5%8E%BB%E4%B8%96%23" target="weibo">
-摇滚歌手阿珍去世（热度：337741）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%B4%E5%84%BF%E5%A4%B4%E6%9C%9D%E4%B8%8B%E6%91%94%E8%90%BD%E7%9E%AC%E9%97%B4%E8%A2%AB%E9%A1%BE%E5%AE%A2%E6%8E%A5%E4%BD%8F%23" target="weibo">
 婴儿头朝下摔落瞬间被顾客接住（热度：337154）
 </a>
@@ -5471,6 +5471,12 @@ iPhone18Pro升级工艺（热度：325186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23" target="weibo">
 凤凰台上官宣定档（热度：315467）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%99%8E%E6%92%9E%E9%A3%9E%E6%8C%81%E5%88%80%E7%94%B7%E5%AD%90%E4%B8%8D%E5%B1%9E%E4%BA%8E%E9%98%B2%E5%8D%AB%E8%BF%87%E5%BD%93%23" target="weibo">
+路虎撞飞持刀男子不属于防卫过当（热度：315459）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ BLG管理层力保ELK迫使ON离队（热度：294595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A8%81%E5%BB%89%E7%8E%8B%E5%AD%90%E4%B8%8D%E5%87%86%E5%AD%A9%E5%AD%90%E7%94%A8%E6%89%8B%E6%9C%BA%23" target="weibo">
 威廉王子不准孩子用手机（热度：291622）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E6%B2%88%E8%85%BE%20%E5%B2%81%E6%9C%88%E4%B8%8D%E8%B4%A5%E7%BE%8E%E4%BA%BA%E4%B9%9F%E4%B8%8D%E8%B4%A5%E5%86%9B%E8%89%BA%E6%A0%A1%E8%8D%89%23" target="weibo">
-杨幂沈腾 岁月不败美人也不败军艺校草（热度：291134）
 </a>
 </li>
 

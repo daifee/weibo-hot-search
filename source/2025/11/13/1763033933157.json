@@ -1,0 +1,410 @@
+{
+  "runTime": 1763033933157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 592921,
+        "num": 1094867,
+        "word": "王楚钦vs林高远",
+        "onboard_time": 1763030482,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221015,
+        "num": 577032,
+        "word": "明年购置税征收50%",
+        "onboard_time": 1763027661,
+        "rank": 1,
+        "category": "财经,汽车"
+      },
+      {
+        "raw_hot": 26313,
+        "num": 348849,
+        "word": "致敬全运会赛场上的老将",
+        "onboard_time": 1763025919,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315459,
+        "num": 315459,
+        "word": "路虎撞飞持刀男子不属于防卫过当",
+        "onboard_time": 1763031440,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255718,
+        "num": 255718,
+        "word": "孙颖莎削球好牛",
+        "onboard_time": 1763030721,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200830,
+        "num": 200830,
+        "word": "唐诡3大唐第一禁忌恋",
+        "onboard_time": 1763019680,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160547,
+        "num": 160547,
+        "word": "山西一医院从上到下集体骗保近千万",
+        "onboard_time": 1763031619,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156664,
+        "num": 156664,
+        "word": "倪妮 金鸡奖主持",
+        "onboard_time": 1763025201,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150055,
+        "num": 150055,
+        "word": "九阳股份涨停",
+        "onboard_time": 1763023520,
+        "rank": 8,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 143227,
+        "num": 143227,
+        "word": "王曼昱vs王艺迪",
+        "onboard_time": 1763033423,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 598434,
+        "num": 143213,
+        "word": "文科生的天塌了又塌",
+        "onboard_time": 1763028321,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365738,
+        "num": 143132,
+        "word": "摇滚歌手阿珍去世",
+        "onboard_time": 1763031861,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310339,
+        "num": 143005,
+        "word": "7397万体彩中奖者买彩票时衣着怪异",
+        "onboard_time": 1763026701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230064,
+        "num": 142928,
+        "word": "桂林一景区附近发现疑似人类头骨",
+        "onboard_time": 1763032161,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45695,
+        "num": 142850,
+        "word": "年度跨界影响力运动员",
+        "onboard_time": 1763032281,
+        "rank": 14,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 184693,
+        "num": 142803,
+        "word": "日本店员遭熊袭击浑身血继续做拉面",
+        "onboard_time": 1763025320,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 152803,
+        "num": 142755,
+        "word": "十五运会后再无众神归位了",
+        "onboard_time": 1763032581,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142682,
+        "num": 142682,
+        "word": "小胖年度进取运动员",
+        "onboard_time": 1763033661,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 137629,
+        "num": 137629,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95900,
+        "num": 137207,
+        "word": "水龙吟恨了33集发现恨错人了",
+        "onboard_time": 1763025261,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1295961,
+        "num": 136111,
+        "word": "Tim父亲 圆通总裁",
+        "onboard_time": 1763029161,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 368319,
+        "num": 135570,
+        "word": "徐艺洋用湿厕纸给黄子韬擦嘴",
+        "onboard_time": 1763027421,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311163,
+        "num": 134531,
+        "word": "LV品牌大使 温柔人设",
+        "onboard_time": 1763028681,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281021,
+        "num": 133364,
+        "word": "控糖到了80多岁的皮肤状态",
+        "onboard_time": 1763031501,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 242658,
+        "num": 132157,
+        "word": "高市早苗反省",
+        "onboard_time": 1763029401,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232746,
+        "num": 131522,
+        "word": "杨紫好瘦",
+        "onboard_time": 1763019140,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32758,
+        "num": 130316,
+        "word": "律师称狗咬人引发杀人案疑另有凶手",
+        "onboard_time": 1763033721,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129779,
+        "num": 129779,
+        "word": "孙颖莎4比0战胜刘斐",
+        "onboard_time": 1763031561,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178316,
+        "num": 129538,
+        "word": "陈建斌蒋勤勤大儿子身高",
+        "onboard_time": 1763027780,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173295,
+        "num": 127011,
+        "word": "曝王子豪宅屋主是昆凌",
+        "onboard_time": 1763020640,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132690,
+        "num": 126261,
+        "word": "孙颖莎11比1刘斐",
+        "onboard_time": 1763033180,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123727,
+        "num": 123727,
+        "word": "彭小苒工作室真进高手了",
+        "onboard_time": 1763032221,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 117708,
+        "num": 117708,
+        "word": "丞磊顶腮这下",
+        "onboard_time": 1763033180,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116664,
+        "num": 116664,
+        "word": "郭俊辰未修原图",
+        "onboard_time": 1763031262,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110508,
+        "num": 110508,
+        "word": "孙颖莎vs刘斐",
+        "onboard_time": 1763027302,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108101,
+        "num": 108101,
+        "word": "高市早苗疑称韩独岛是日固有领土",
+        "onboard_time": 1763027181,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 104858,
+        "num": 104858,
+        "word": "张展硕全运会第3金",
+        "onboard_time": 1763033661,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102761,
+        "num": 102761,
+        "word": "饺子皮上看到指纹的安心感",
+        "onboard_time": 1763031202,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18349,
+        "num": 102640,
+        "word": "街道为郑州路虎司机申报见义勇为",
+        "onboard_time": 1763033241,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66065,
+        "num": 102616,
+        "word": "女子带薪潜伏十年只为给姐姐报仇",
+        "onboard_time": 1763033061,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78081,
+        "num": 102610,
+        "word": "穆祉丞说祖师爷参加过星辰大海",
+        "onboard_time": 1763029881,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102610,
+        "num": 102609,
+        "word": "日本网友的暴饮暴食",
+        "onboard_time": 1763030601,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101991,
+        "num": 101991,
+        "word": "你俩亲脸都这样了亲嘴还得了",
+        "onboard_time": 1763028621,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102040,
+        "num": 100863,
+        "word": "张展硕全运会800自金牌",
+        "onboard_time": 1763033661,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99319,
+        "num": 99319,
+        "word": "在原神还原了撕名牌",
+        "onboard_time": 1763033601,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 92716,
+        "num": 92716,
+        "word": "别再关灯侧躺玩手机了",
+        "onboard_time": 1763029881,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91866,
+        "num": 91866,
+        "word": "杨雨潼 建桥女工",
+        "onboard_time": 1763032940,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90812,
+        "num": 90812,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 47,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 87852,
+        "num": 87852,
+        "word": "陈天润微博存档",
+        "onboard_time": 1763020280,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87432,
+        "num": 87432,
+        "word": "佘诗曼终于让床宝上位了",
+        "onboard_time": 1763027062,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信青年汉学家#"
+    }
+  }
+}

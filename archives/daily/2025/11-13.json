@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763033094023,
+  "endTime": 1763033933157,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 592921,
+      "num": 1094867,
+      "word": "王楚钦vs林高远",
+      "onboard_time": 1763030482,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551543,
       "num": 125407,
       "word": "续面事件老板回应被女顾客起诉",
@@ -291,14 +299,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 398312,
-      "num": 1063729,
-      "word": "王楚钦vs林高远",
-      "onboard_time": 1763030482,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 398176,
       "num": 254235,
       "word": "原来卫生纸我们一直都用错了",
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365738,
+      "num": 165973,
+      "word": "摇滚歌手阿珍去世",
+      "onboard_time": 1763031861,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358024,
       "num": 166056,
       "word": "于正回应赵樱子适合演小龙女",
@@ -425,14 +433,6 @@
       "onboard_time": 1763000538,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 337741,
-      "num": 165973,
-      "word": "摇滚歌手阿珍去世",
-      "onboard_time": 1763031861,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 334873,
@@ -483,6 +483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 315459,
+      "num": 315459,
+      "word": "路虎撞飞持刀男子不属于防卫过当",
+      "onboard_time": 1763031440,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 313221,
       "num": 244151,
       "word": "孙杨因犯规被取消成绩",
@@ -516,7 +524,7 @@
     },
     {
       "raw_hot": 303215,
-      "num": 120267,
+      "num": 133364,
       "word": "控糖到了80多岁的皮肤状态",
       "onboard_time": 1763031501,
       "rank": 23,
@@ -747,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230064,
+      "num": 142928,
+      "word": "桂林一景区附近发现疑似人类头骨",
+      "onboard_time": 1763032161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228648,
       "num": 224781,
       "word": "文淇 我的长相演不了孬种",
@@ -825,14 +841,6 @@
       "onboard_time": 1763020280,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210915,
-      "num": 210915,
-      "word": "路虎撞飞持刀男子不属于防卫过当",
-      "onboard_time": 1763031440,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207694,
@@ -1083,6 +1091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160547,
+      "num": 160547,
+      "word": "山西一医院从上到下集体骗保近千万",
+      "onboard_time": 1763031619,
+      "rank": 25,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 160432,
       "num": 169328,
       "word": "产后12个小时的真实感受",
@@ -1163,6 +1179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 152803,
+      "num": 142755,
+      "word": "十五运会后再无众神归位了",
+      "onboard_time": 1763032581,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152458,
       "num": 164291,
       "word": "奔跑吧天路篇定档直播",
@@ -1233,6 +1257,22 @@
       "onboard_time": 1763017820,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143227,
+      "num": 143227,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1763033423,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 142682,
+      "num": 142682,
+      "word": "小胖年度进取运动员",
+      "onboard_time": 1763033661,
+      "rank": 17,
+      "category": "电竞"
     },
     {
       "raw_hot": 141063,
@@ -1331,20 +1371,20 @@
       "category": "电竞,体育"
     },
     {
-      "raw_hot": 133101,
-      "num": 119013,
-      "word": "山西一医院从上到下集体骗保近千万",
-      "onboard_time": 1763031619,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 133001,
       "num": 133001,
       "word": "喜人喜团合作赛好红的底",
       "onboard_time": 1763016081,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132690,
+      "num": 126261,
+      "word": "孙颖莎11比1刘斐",
+      "onboard_time": 1763033180,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 131673,
@@ -1457,6 +1497,14 @@
       "onboard_time": 1763015720,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 123727,
+      "num": 123727,
+      "word": "彭小苒工作室真进高手了",
+      "onboard_time": 1763032221,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 123412,
@@ -1611,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117708,
+      "num": 117708,
+      "word": "丞磊顶腮这下",
+      "onboard_time": 1763033180,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117660,
       "num": 117660,
       "word": "花海体验了北京的秋天",
@@ -1675,14 +1731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114415,
-      "num": 114415,
-      "word": "彭小苒工作室真进高手了",
-      "onboard_time": 1763032221,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 114142,
       "num": 114142,
       "word": "九阳 哈基米南北绿豆浆",
@@ -1721,14 +1769,6 @@
       "onboard_time": 1763003961,
       "rank": 27,
       "category": "财经"
-    },
-    {
-      "raw_hot": 110949,
-      "num": 110949,
-      "word": "十五运会后再无众神归位了",
-      "onboard_time": 1763032581,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 110867,
@@ -1835,6 +1875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 104858,
+      "num": 104858,
+      "word": "张展硕全运会第3金",
+      "onboard_time": 1763033661,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103371,
       "num": 103371,
       "word": "小米汽车新奖项",
@@ -1867,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102610,
+      "num": 102609,
+      "word": "日本网友的暴饮暴食",
+      "onboard_time": 1763030601,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 102607,
       "num": 102607,
       "word": "四代进入赏味期",
@@ -1881,6 +1937,14 @@
       "onboard_time": 1763008701,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102040,
+      "num": 100863,
+      "word": "张展硕全运会800自金牌",
+      "onboard_time": 1763033661,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 101880,
@@ -1947,12 +2011,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100569,
-      "num": 100569,
-      "word": "日本网友的暴饮暴食",
-      "onboard_time": 1763030601,
-      "rank": 41,
-      "category": "海外新闻"
+      "raw_hot": 99319,
+      "num": 99319,
+      "word": "在原神还原了撕名牌",
+      "onboard_time": 1763033601,
+      "rank": 44,
+      "category": "游戏"
     },
     {
       "raw_hot": 98819,
@@ -2089,6 +2153,14 @@
       "onboard_time": 1762997419,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91866,
+      "num": 91866,
+      "word": "杨雨潼 建桥女工",
+      "onboard_time": 1763032940,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 91855,
@@ -2233,14 +2305,6 @@
       "onboard_time": 1762989318,
       "rank": 27,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 87279,
-      "num": 87279,
-      "word": "杨雨潼 建桥女工",
-      "onboard_time": 1763032940,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 87207,
@@ -2539,14 +2603,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77293,
-      "num": 122141,
-      "word": "桂林一景区附近发现疑似人类头骨",
-      "onboard_time": 1763032161,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76054,
       "num": 105746,
       "word": "张博恒全运会男团亚军",
@@ -2705,6 +2761,14 @@
       "onboard_time": 1763004739,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66065,
+      "num": 102616,
+      "word": "女子带薪潜伏十年只为给姐姐报仇",
+      "onboard_time": 1763033061,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 65562,
@@ -2947,14 +3011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45987,
-      "num": 102370,
-      "word": "女子带薪潜伏十年只为给姐姐报仇",
-      "onboard_time": 1763033061,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44123,
       "num": 89813,
       "word": "郑秀妍连续四年为王紫璇庆生",
@@ -3131,6 +3187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32758,
+      "num": 130316,
+      "word": "律师称狗咬人引发杀人案疑另有凶手",
+      "onboard_time": 1763033721,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32652,
       "num": 45914,
       "word": "张艺兴直播",
@@ -3273,6 +3337,14 @@
       "onboard_time": 1763022022,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18349,
+      "num": 102640,
+      "word": "街道为郑州路虎司机申报见义勇为",
+      "onboard_time": 1763033241,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17283,
