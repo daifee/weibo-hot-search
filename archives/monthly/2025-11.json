@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763015973327,
+  "endTime": 1763016749244,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1763,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 741865,
+      "num": 1118698,
+      "word": "奇瑞4次致歉也修复不了天梯之伤",
+      "onboard_time": 1763005820,
+      "rank": 15,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 741062,
       "num": 719427,
       "word": "19岁男生错付车费自杀案宣判",
@@ -2369,14 +2377,6 @@
       "onboard_time": 1761919463,
       "rank": 1,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 654671,
-      "num": 1084775,
-      "word": "奇瑞4次致歉也修复不了天梯之伤",
-      "onboard_time": 1763005820,
-      "rank": 15,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 654659,
@@ -3347,6 +3347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 546028,
+      "num": 430768,
+      "word": "狗主人被反杀妻子后悔闯入对方家中",
+      "onboard_time": 1763010201,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 545752,
       "num": 307063,
       "word": "老师我家田曦薇不能露秋裤吗",
@@ -4299,6 +4307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472995,
+      "num": 370164,
+      "word": "世界乒乓球冠军利用影响力受贿获刑",
+      "onboard_time": 1763013800,
+      "rank": 4,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 472896,
       "num": 472896,
       "word": "北京极光",
@@ -4536,6 +4552,14 @@
       "word": "无印良品 过度包装",
       "onboard_time": 1762948341,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 450562,
+      "num": 350534,
+      "word": "警方回应路虎撞飞持刀男子",
+      "onboard_time": 1763013500,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -4849,14 +4873,6 @@
       "onboard_time": 1762940001,
       "rank": 28,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 430768,
-      "num": 430768,
-      "word": "狗主人被反杀妻子后悔闯入对方家中",
-      "onboard_time": 1763010201,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 430759,
@@ -5611,6 +5627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 385374,
+      "num": 156991,
+      "word": "暗河传戏服卖掉了",
+      "onboard_time": 1763012061,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 384478,
       "num": 384478,
       "word": "汪苏泷章若楠合唱牵手了",
@@ -6145,14 +6169,6 @@
       "onboard_time": 1762092501,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 359566,
-      "num": 277809,
-      "word": "世界乒乓球冠军利用影响力受贿获刑",
-      "onboard_time": 1763013800,
-      "rank": 4,
-      "category": "民生新闻,体育"
     },
     {
       "raw_hot": 359475,
@@ -8115,6 +8131,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 280607,
+      "num": 154466,
+      "word": "李施嬅 再见爱人不是追女孩的节目",
+      "onboard_time": 1763012841,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 280478,
       "num": 226753,
       "word": "辛芷蕾 为什么给我运作而不是别人呢",
@@ -8625,14 +8649,6 @@
       "onboard_time": 1762235181,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 263601,
-      "num": 152015,
-      "word": "暗河传戏服卖掉了",
-      "onboard_time": 1763012061,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 263154,
@@ -9889,6 +9905,14 @@
       "onboard_time": 1762872322,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225797,
+      "num": 143612,
+      "word": "陈梦有望冲击超级大满贯",
+      "onboard_time": 1763015119,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 225512,
@@ -11243,6 +11267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 202685,
+      "num": 152129,
+      "word": "白鹿回应哭了",
+      "onboard_time": 1763015061,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202654,
       "num": 202654,
       "word": "田曦薇不喜欢追求情绪稳定",
@@ -12121,14 +12153,6 @@
       "onboard_time": 1762419802,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 191967,
-      "num": 135387,
-      "word": "李施嬅 再见爱人不是追女孩的节目",
-      "onboard_time": 1763012841,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 191895,
@@ -13321,14 +13345,6 @@
       "onboard_time": 1762333523,
       "rank": 6,
       "category": "体育"
-    },
-    {
-      "raw_hot": 179167,
-      "num": 179167,
-      "word": "警方回应路虎撞飞持刀男子",
-      "onboard_time": 1763013500,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 178879,
@@ -15339,14 +15355,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 160200,
-      "num": 96807,
-      "word": "陈梦有望冲击超级大满贯",
-      "onboard_time": 1763015119,
-      "rank": 25,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160093,
       "num": 160093,
       "word": "农民歌手李根离世",
@@ -15577,6 +15585,14 @@
       "onboard_time": 1762133060,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 157961,
+      "num": 150986,
+      "word": "李一桐方严正声明",
+      "onboard_time": 1763015240,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 157903,
@@ -16659,14 +16675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149888,
-      "num": 120893,
-      "word": "李一桐方严正声明",
-      "onboard_time": 1763015240,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 149688,
       "num": 149688,
       "word": "潘玮柏蒋梦婕 秀完你的秀我的",
@@ -17105,6 +17113,14 @@
       "onboard_time": 1762932439,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 146677,
+      "num": 142359,
+      "word": "陈梦曾说9个月没训练能力完全消失",
+      "onboard_time": 1763014701,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 146662,
@@ -19331,6 +19347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133001,
+      "num": 133001,
+      "word": "喜人喜团合作赛好红的底",
+      "onboard_time": 1763016081,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132963,
       "num": 132963,
       "word": "钎城发红包",
@@ -20137,6 +20161,14 @@
       "onboard_time": 1762835120,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128892,
+      "num": 128892,
+      "word": "韩国费列罗巧克力或全面换成中国产",
+      "onboard_time": 1763015362,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128779,
@@ -21203,6 +21235,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 124542,
+      "num": 124542,
+      "word": "我宣布高铁上不只是有熊孩子",
+      "onboard_time": 1763013922,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124514,
       "num": 124514,
       "word": "再见爱人",
@@ -21243,6 +21283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124360,
+      "num": 124360,
+      "word": "K总自曝被粉丝装惨骗钱",
+      "onboard_time": 1763015720,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 124304,
       "num": 124304,
       "word": "MRC对战Gr",
@@ -21273,6 +21321,14 @@
       "onboard_time": 1761970401,
       "rank": 37,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 124117,
+      "num": 124117,
+      "word": "六公主镜头下的素颜鹤男",
+      "onboard_time": 1763016140,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 124000,
@@ -22075,6 +22131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120825,
+      "num": 130836,
+      "word": "三人行",
+      "onboard_time": 1763015481,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120749,
       "num": 144623,
       "word": "王力宏演唱会模仿蝴蝶眨眼睛",
@@ -22145,14 +22209,6 @@
       "onboard_time": 1761985160,
       "rank": 38,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 120280,
-      "num": 120280,
-      "word": "白鹿回应哭了",
-      "onboard_time": 1763015061,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 120211,
@@ -22249,6 +22305,14 @@
       "onboard_time": 1762764680,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119412,
+      "num": 129311,
+      "word": "陈梦十五运4强",
+      "onboard_time": 1763015901,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 119411,
@@ -24139,6 +24203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111762,
+      "num": 111762,
+      "word": "一个普通县城家庭的35年",
+      "onboard_time": 1763012721,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 111754,
       "num": 146001,
       "word": "喜人奇妙夜官宣全国巡演",
@@ -25457,6 +25529,14 @@
       "onboard_time": 1762695622,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106897,
+      "num": 106897,
+      "word": "原来这是缺爱的表现",
+      "onboard_time": 1763014281,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 106849,
@@ -27264,14 +27344,6 @@
       "word": "樊振东希望自己更释放一些",
       "onboard_time": 1762758560,
       "rank": 44,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 101238,
-      "num": 84897,
-      "word": "陈梦曾说9个月没训练能力完全消失",
-      "onboard_time": 1763014701,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -30267,6 +30339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93158,
+      "num": 93158,
+      "word": "车崇健说世界不是围着李施嬅转的",
+      "onboard_time": 1763016559,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93108,
       "num": 93108,
       "word": "李施嬅 病态情感需求",
@@ -31243,14 +31323,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90483,
-      "num": 90483,
-      "word": "三人行",
-      "onboard_time": 1763015481,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90461,
       "num": 90461,
       "word": "黄金还要继续跌吗",
@@ -31747,6 +31819,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 89423,
+      "num": 89423,
+      "word": "3D打印发动机完成首次飞行",
+      "onboard_time": 1763016441,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89340,
       "num": 89340,
       "word": "国际乒联郑重声明",
@@ -31905,6 +31985,14 @@
       "onboard_time": 1762158501,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88854,
+      "num": 88854,
+      "word": "前世界冠军滕义受贿超1亿元",
+      "onboard_time": 1763016140,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88810,
@@ -32081,6 +32169,14 @@
       "onboard_time": 1762504701,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88451,
+      "num": 88451,
+      "word": "韩网爆料T1转会动态",
+      "onboard_time": 1763014521,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 88430,
@@ -32691,6 +32787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86932,
+      "num": 86932,
+      "word": "胡歌做奶皮子糖葫芦汗流浃背了",
+      "onboard_time": 1763013500,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86928,
       "num": 101362,
       "word": "丁禹兮你有如此音色进入山河枕",
@@ -33211,6 +33315,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 85786,
+      "num": 85786,
+      "word": "原来这些头像都是赵佳丽",
+      "onboard_time": 1763014580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85771,
       "num": 150651,
       "word": "基金新规来了",
@@ -33555,14 +33667,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84595,
-      "num": 84595,
-      "word": "韩国费列罗巧克力或全面换成中国产",
-      "onboard_time": 1763015362,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84591,
       "num": 84591,
       "word": "轻轻关门的无力感",
@@ -33608,6 +33712,14 @@
       "word": "李施嬅戏里戏外都在再见爱人",
       "onboard_time": 1762573641,
       "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 84485,
+      "num": 84485,
+      "word": "唐诡新闻女王 长剧存在是有意义的",
+      "onboard_time": 1763016621,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -33891,14 +34003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83642,
-      "num": 83642,
-      "word": "一个普通县城家庭的35年",
-      "onboard_time": 1763012721,
-      "rank": 33,
-      "category": "情感"
-    },
-    {
       "raw_hot": 83601,
       "num": 196146,
       "word": "张雨霏全运会100蝶冠军",
@@ -33945,6 +34049,14 @@
       "onboard_time": 1762169722,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83364,
+      "num": 99529,
+      "word": "82岁富豪将近25亿元股票分给两女",
+      "onboard_time": 1763015600,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83360,
@@ -34281,6 +34393,14 @@
       "onboard_time": 1762573641,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82309,
+      "num": 82309,
+      "word": "曝今晚LPL中下有关键选手要定了",
+      "onboard_time": 1763013320,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 82292,
@@ -35979,14 +36099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 76258,
-      "num": 76258,
-      "word": "韩网爆料T1转会动态",
-      "onboard_time": 1763014521,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 76250,
       "num": 178804,
       "word": "平替很好但我选奔驰",
@@ -36065,14 +36177,6 @@
       "onboard_time": 1762349781,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 76078,
-      "num": 76078,
-      "word": "我宣布高铁上不只是有熊孩子",
-      "onboard_time": 1763013922,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 76066,
@@ -37019,14 +37123,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 72379,
-      "num": 72379,
-      "word": "K总自曝被粉丝装惨骗钱",
-      "onboard_time": 1763015720,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 72317,
       "num": 72317,
       "word": "无限暖暖凌晨道歉",
@@ -37041,14 +37137,6 @@
       "onboard_time": 1762958061,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 72178,
-      "num": 72178,
-      "word": "陈梦十五运4强",
-      "onboard_time": 1763015901,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 72176,
@@ -37433,14 +37521,6 @@
       "onboard_time": 1762058961,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 70169,
-      "num": 70169,
-      "word": "原来这些头像都是赵佳丽",
-      "onboard_time": 1763014580,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 70168,
@@ -38195,14 +38275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66041,
-      "num": 66041,
-      "word": "原来这是缺爱的表现",
-      "onboard_time": 1763014281,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 66032,
       "num": 66032,
       "word": "十五运会限定版的广东已上线",
@@ -38504,14 +38576,6 @@
       "word": "警方回应男子拉6个液化气罐拦婚车",
       "onboard_time": 1761969081,
       "rank": 49,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64331,
-      "num": 75164,
-      "word": "82岁富豪将近25亿元股票分给两女",
-      "onboard_time": 1763015600,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -42491,6 +42555,14 @@
       "category": "民生新闻,时尚"
     },
     {
+      "raw_hot": 35134,
+      "num": 153344,
+      "word": "竞燃之夜好多冠军",
+      "onboard_time": 1763013680,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 35118,
       "num": 103716,
       "word": "五星级酒店剩菜盲盒",
@@ -42593,14 +42665,6 @@
       "onboard_time": 1762957404,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 34613,
-      "num": 131656,
-      "word": "竞燃之夜好多冠军",
-      "onboard_time": 1763013680,
-      "rank": 14,
-      "category": "电竞"
     },
     {
       "raw_hot": 34573,

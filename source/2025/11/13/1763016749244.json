@@ -1,0 +1,410 @@
+{
+  "runTime": 1763016749244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 741865,
+        "num": 1118698,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 398432,
+        "num": 398432,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 5898,
+        "num": 397915,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 546028,
+        "num": 385200,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 472995,
+        "num": 370164,
+        "word": "世界乒乓球冠军利用影响力受贿获刑",
+        "onboard_time": 1763013800,
+        "rank": 4,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 450562,
+        "num": 350534,
+        "word": "警方回应路虎撞飞持刀男子",
+        "onboard_time": 1763013500,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347598,
+        "num": 347598,
+        "word": "李晨在跑男那一套不管用了",
+        "onboard_time": 1763010740,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 234144,
+        "num": 234144,
+        "word": "不允许城镇居民到农村买农房",
+        "onboard_time": 1763007561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224315,
+        "num": 224315,
+        "word": "中国黄金回应试戴金镯10秒被索赔1000",
+        "onboard_time": 1763005461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157052,
+        "num": 157052,
+        "word": "星辰大海 曹骏",
+        "onboard_time": 1763008641,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 385374,
+        "num": 156991,
+        "word": "暗河传戏服卖掉了",
+        "onboard_time": 1763012061,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 284355,
+        "num": 155747,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281502,
+        "num": 155218,
+        "word": "小猫去世后猫厕所弹出的提示",
+        "onboard_time": 1763006240,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 280607,
+        "num": 154466,
+        "word": "李施嬅 再见爱人不是追女孩的节目",
+        "onboard_time": 1763012841,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35134,
+        "num": 153344,
+        "word": "竞燃之夜好多冠军",
+        "onboard_time": 1763013680,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 240162,
+        "num": 152708,
+        "word": "张凌赫带50只螃蟹来蘑菇屋",
+        "onboard_time": 1763008882,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202685,
+        "num": 152129,
+        "word": "白鹿回应哭了",
+        "onboard_time": 1763015061,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157961,
+        "num": 150986,
+        "word": "李一桐方严正声明",
+        "onboard_time": 1763015240,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150732,
+        "num": 150732,
+        "word": "李宏毅你知道我等了三年吗",
+        "onboard_time": 1763006361,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146589,
+        "num": 146589,
+        "word": "汪苏泷 抢票",
+        "onboard_time": 1763011042,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 758130,
+        "num": 146128,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 470372,
+        "num": 145463,
+        "word": "黄晓明48岁生日镜像成了84岁",
+        "onboard_time": 1763002340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 454687,
+        "num": 144523,
+        "word": "宋祖儿腿太细了",
+        "onboard_time": 1763005160,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225797,
+        "num": 143612,
+        "word": "陈梦有望冲击超级大满贯",
+        "onboard_time": 1763015119,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156295,
+        "num": 142932,
+        "word": "王一博换发型了",
+        "onboard_time": 1763010681,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146677,
+        "num": 142359,
+        "word": "陈梦曾说9个月没训练能力完全消失",
+        "onboard_time": 1763014701,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141872,
+        "num": 141872,
+        "word": "卢昱晓跪下和粉丝合照",
+        "onboard_time": 1763005940,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133001,
+        "num": 133001,
+        "word": "喜人喜团合作赛好红的底",
+        "onboard_time": 1763016081,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120825,
+        "num": 130836,
+        "word": "三人行",
+        "onboard_time": 1763015481,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119412,
+        "num": 129311,
+        "word": "陈梦十五运4强",
+        "onboard_time": 1763015901,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128892,
+        "num": 128892,
+        "word": "韩国费列罗巧克力或全面换成中国产",
+        "onboard_time": 1763015362,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124542,
+        "num": 124542,
+        "word": "我宣布高铁上不只是有熊孩子",
+        "onboard_time": 1763013922,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124360,
+        "num": 124360,
+        "word": "K总自曝被粉丝装惨骗钱",
+        "onboard_time": 1763015720,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124117,
+        "num": 124117,
+        "word": "六公主镜头下的素颜鹤男",
+        "onboard_time": 1763016140,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111762,
+        "num": 111762,
+        "word": "一个普通县城家庭的35年",
+        "onboard_time": 1763012721,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111718,
+        "num": 111718,
+        "word": "小时候感冒vs长大后感冒",
+        "onboard_time": 1763006421,
+        "rank": 35,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 107290,
+        "num": 107290,
+        "word": "白鹿直播",
+        "onboard_time": 1763012301,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106897,
+        "num": 106897,
+        "word": "原来这是缺爱的表现",
+        "onboard_time": 1763014281,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 106446,
+        "num": 106446,
+        "word": "樊振东十五运4强",
+        "onboard_time": 1763004801,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83364,
+        "num": 99529,
+        "word": "82岁富豪将近25亿元股票分给两女",
+        "onboard_time": 1763015600,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265495,
+        "num": 97176,
+        "word": "王楚钦说全运会爆冷是平常事",
+        "onboard_time": 1763008522,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93158,
+        "num": 93158,
+        "word": "车崇健说世界不是围着李施嬅转的",
+        "onboard_time": 1763016559,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89423,
+        "num": 89423,
+        "word": "3D打印发动机完成首次飞行",
+        "onboard_time": 1763016441,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88854,
+        "num": 88854,
+        "word": "前世界冠军滕义受贿超1亿元",
+        "onboard_time": 1763016140,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88451,
+        "num": 88451,
+        "word": "韩网爆料T1转会动态",
+        "onboard_time": 1763014521,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 86932,
+        "num": 86932,
+        "word": "胡歌做奶皮子糖葫芦汗流浃背了",
+        "onboard_time": 1763013500,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85786,
+        "num": 85786,
+        "word": "原来这些头像都是赵佳丽",
+        "onboard_time": 1763014580,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84640,
+        "num": 84640,
+        "word": "从KK园区逃离者被当货物转卖",
+        "onboard_time": 1763010920,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84485,
+        "num": 84485,
+        "word": "唐诡新闻女王 长剧存在是有意义的",
+        "onboard_time": 1763016621,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82309,
+        "num": 82309,
+        "word": "曝今晚LPL中下有关键选手要定了",
+        "onboard_time": 1763013320,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个个瞬间感受总书记的关切事#"
+    }
+  }
+}
