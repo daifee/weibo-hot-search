@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763059050437,
+  "endTime": 1763059840426,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -435,7 +435,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30357,
+      "raw_hot": 30981,
       "num": 35432,
       "word": "宋祖儿上午杀青下午进组",
       "onboard_time": 1763058015,

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763059050437,
+  "endTime": 1763059840426,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -45211,6 +45211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30981,
+      "num": 35432,
+      "word": "宋祖儿上午杀青下午进组",
+      "onboard_time": 1763058015,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30950,
       "num": 494417,
       "word": "13岁小将打破沉寂13年纪录",
@@ -45313,14 +45321,6 @@
       "onboard_time": 1762711336,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 30357,
-      "num": 35432,
-      "word": "宋祖儿上午杀青下午进组",
-      "onboard_time": 1763058015,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 30262,
