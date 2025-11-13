@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763023797032,
+  "endTime": 1763026257686,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 697538,
-      "num": 168660,
+      "num": 170923,
       "word": "杨紫好瘦",
       "onboard_time": 1763019140,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 680501,
+      "num": 311454,
+      "word": "赵丽颖杨紫新剧或对打",
+      "onboard_time": 1763025800,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 641544,
@@ -120,6 +128,14 @@
       "word": "续面事件老板回应被女顾客起诉",
       "onboard_time": 1762962800,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548217,
+      "num": 254429,
+      "word": "江苏一快递员因送错快递被杀",
+      "onboard_time": 1763024001,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -225,6 +241,14 @@
       "onboard_time": 1762997480,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 398176,
+      "num": 254235,
+      "word": "原来卫生纸我们一直都用错了",
+      "onboard_time": 1763021060,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 393883,
@@ -339,20 +363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324561,
+      "num": 324561,
+      "word": "外交部四问高市早苗",
+      "onboard_time": 1763023280,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 321283,
       "num": 179331,
       "word": "上海地铁",
       "onboard_time": 1762994840,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 320122,
-      "num": 199490,
-      "word": "原来卫生纸我们一直都用错了",
-      "onboard_time": 1763021060,
-      "rank": 13,
-      "category": "幽默"
     },
     {
       "raw_hot": 319135,
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302462,
+      "num": 302462,
+      "word": "倪妮 金鸡奖主持",
+      "onboard_time": 1763025201,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 302076,
       "num": 129839,
       "word": "梅尼耶要结婚了",
@@ -417,6 +449,14 @@
       "onboard_time": 1763005520,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295148,
+      "num": 163036,
+      "word": "影视飓风Tim 相亲简历",
+      "onboard_time": 1763024119,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 293029,
@@ -499,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 260223,
+      "num": 294993,
+      "word": "李昀锐跑男知名角落艺术家",
+      "onboard_time": 1763022560,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257843,
       "num": 192537,
       "word": "小时候感冒vs长大后感冒",
@@ -507,20 +555,20 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 257059,
-      "num": 294993,
-      "word": "李昀锐跑男知名角落艺术家",
-      "onboard_time": 1763022560,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 253739,
       "num": 253739,
       "word": "疯狂动物城2大先生爆改孙女奴",
       "onboard_time": 1763002640,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252787,
+      "num": 252787,
+      "word": "九阳股份涨停",
+      "onboard_time": 1763023520,
+      "rank": 36,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 250106,
@@ -667,6 +715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192900,
+      "num": 192900,
+      "word": "AG全员西装登场",
+      "onboard_time": 1763025981,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 192666,
       "num": 157996,
       "word": "四喜偏偏你最争气",
@@ -697,6 +753,14 @@
       "onboard_time": 1763007739,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188411,
+      "num": 188411,
+      "word": "水龙吟恨了33集发现恨错人了",
+      "onboard_time": 1763025261,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 187805,
@@ -745,6 +809,14 @@
       "onboard_time": 1763003120,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180465,
+      "num": 180465,
+      "word": "日本店员遭熊袭击浑身血继续做拉面",
+      "onboard_time": 1763025320,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 180307,
@@ -812,7 +884,7 @@
     },
     {
       "raw_hot": 164556,
-      "num": 152005,
+      "num": 157758,
       "word": "卢昱晓往那一站就出神图了",
       "onboard_time": 1763022380,
       "rank": 35,
@@ -963,14 +1035,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 147259,
-      "num": 147259,
-      "word": "九阳股份涨停",
-      "onboard_time": 1763023520,
-      "rank": 36,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 146677,
       "num": 142359,
       "word": "陈梦曾说9个月没训练能力完全消失",
@@ -1083,6 +1147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134138,
+      "num": 257535,
+      "word": "微博竞燃之夜红毯",
+      "onboard_time": 1763025021,
+      "rank": 8,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 133001,
       "num": 133001,
       "word": "喜人喜团合作赛好红的底",
@@ -1147,6 +1219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125957,
+      "num": 125957,
+      "word": "黄金拉升大涨",
+      "onboard_time": 1763025261,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 125554,
       "num": 125554,
       "word": "朱开爆料iG转会消息",
@@ -1185,6 +1265,14 @@
       "onboard_time": 1762954702,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 123216,
+      "num": 123216,
+      "word": "Viper被曝续约Shadow经纪公司",
+      "onboard_time": 1763024899,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 122758,
@@ -1265,6 +1353,14 @@
       "onboard_time": 1763004860,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119209,
+      "num": 172446,
+      "word": "宋雨琦说不看跑男会心疼giegie",
+      "onboard_time": 1763024841,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 119044,
@@ -1363,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110361,
+      "num": 110361,
+      "word": "一诺好闪的西装",
+      "onboard_time": 1763024182,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109860,
       "num": 109860,
       "word": "约基奇55分",
@@ -1435,6 +1539,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 105565,
+      "num": 105565,
+      "word": "贾玲晒黑了",
+      "onboard_time": 1763025021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105014,
+      "num": 152180,
+      "word": "正告日方在台湾问题上玩火必自焚",
+      "onboard_time": 1763023280,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 103371,
       "num": 103371,
       "word": "小米汽车新奖项",
@@ -1457,6 +1577,14 @@
       "onboard_time": 1762960400,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102607,
+      "num": 102607,
+      "word": "四代进入赏味期",
+      "onboard_time": 1763025201,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 102578,
@@ -1571,6 +1699,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96250,
+      "num": 96250,
+      "word": "凤凰台上全员熟人脸",
+      "onboard_time": 1763025681,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95902,
+      "num": 95902,
+      "word": "致谢 致恨",
+      "onboard_time": 1763024119,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95697,
       "num": 95697,
       "word": "仙侠剧也有从玉从女的女主",
@@ -1585,6 +1729,14 @@
       "onboard_time": 1763018420,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94211,
+      "num": 94211,
+      "word": "十个勤天 重赏之下必有莽夫",
+      "onboard_time": 1763025981,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 93684,
@@ -1681,6 +1833,14 @@
       "onboard_time": 1762997779,
       "rank": 39,
       "category": "美食"
+    },
+    {
+      "raw_hot": 88781,
+      "num": 88781,
+      "word": "你中意的车企兜底购置税了吗",
+      "onboard_time": 1763026223,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 88451,
@@ -1955,22 +2115,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77100,
-      "num": 152180,
-      "word": "正告日方在台湾问题上玩火必自焚",
-      "onboard_time": 1763023280,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 76539,
-      "num": 187456,
-      "word": "外交部四问高市早苗",
-      "onboard_time": 1763023280,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76054,
       "num": 105746,
       "word": "张博恒全运会男团亚军",
@@ -2219,6 +2363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55175,
+      "num": 106049,
+      "word": "男子称要在庭上问为何杀我一家五口",
+      "onboard_time": 1763025740,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54358,
       "num": 54358,
       "word": "台湾高雄议会现场爆发激烈冲突",
@@ -2337,6 +2489,14 @@
       "onboard_time": 1762965078,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43876,
+      "num": 112436,
+      "word": "全运会10后帅了一眼又一眼",
+      "onboard_time": 1763013261,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 43042,
@@ -2475,6 +2635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31601,
+      "num": 311492,
+      "word": "致敬全运会赛场上的老将",
+      "onboard_time": 1763025919,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28041,
       "num": 214341,
       "word": "竞燃之夜出发图好卷",
@@ -2585,6 +2753,14 @@
       "onboard_time": 1763022022,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18398,
+      "num": 198124,
+      "word": "竞燃红毯名场面",
+      "onboard_time": 1763025021,
+      "rank": 14,
+      "category": "电竞,体育"
     },
     {
       "raw_hot": 17283,
