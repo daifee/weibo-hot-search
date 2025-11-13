@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763051547205,
+  "endTime": 1763052547563,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -17,6 +17,14 @@
       "onboard_time": 1763040382,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 396457,
+      "num": 140764,
+      "word": "建议拆完快递的纸箱立马扔掉",
+      "onboard_time": 1763049500,
+      "rank": 13,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 278394,
@@ -81,14 +89,6 @@
       "onboard_time": 1763038941,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140764,
-      "num": 140764,
-      "word": "建议拆完快递的纸箱立马扔掉",
-      "onboard_time": 1763049500,
-      "rank": 13,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 137185,
@@ -179,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85866,
+      "num": 135312,
+      "word": "年轻女子与7旬老人生女后弃养给保姆",
+      "onboard_time": 1763051478,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84223,
       "num": 136366,
       "word": "长白头发可能是缺乏这3种营养",
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64676,
+      "num": 135777,
+      "word": "樊振东此前对阵王楚钦25胜7负",
+      "onboard_time": 1763047579,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62928,
       "num": 144270,
       "word": "覃海洋50蛙犯规被取消成绩",
@@ -259,20 +275,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62296,
-      "num": 135777,
-      "word": "樊振东此前对阵王楚钦25胜7负",
-      "onboard_time": 1763047579,
-      "rank": 30,
+      "raw_hot": 54349,
+      "num": 102758,
+      "word": "王楚钦说樊振东世界最强",
+      "onboard_time": 1763051419,
+      "rank": 33,
       "category": "体育"
     },
     {
-      "raw_hot": 53259,
+      "raw_hot": 53871,
       "num": 135144,
       "word": "唐诡 李隆基",
       "onboard_time": 1763036002,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 52829,
+      "num": 134433,
+      "word": "苹果腾讯敲定微信游戏抽成协议",
+      "onboard_time": 1763050580,
+      "rank": 41,
+      "category": "互联网,游戏"
     },
     {
       "raw_hot": 52070,
@@ -291,6 +315,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51291,
+      "num": 134703,
+      "word": "一诺教JackeyLove扫腿舞",
+      "onboard_time": 1763038281,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50613,
       "num": 134747,
       "word": "王凯沐卖完你的卖你的",
@@ -299,28 +331,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50395,
-      "num": 134703,
-      "word": "一诺教JackeyLove扫腿舞",
-      "onboard_time": 1763038281,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 49175,
       "num": 134472,
       "word": "中方回应印度网球选手称被中国拒签",
       "onboard_time": 1763039421,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47996,
-      "num": 134433,
-      "word": "苹果腾讯敲定微信游戏抽成协议",
-      "onboard_time": 1763050580,
-      "rank": 41,
-      "category": "互联网,游戏"
     },
     {
       "raw_hot": 46839,
@@ -363,20 +379,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 39633,
+      "num": 133525,
+      "word": "宋祖儿入局首套妆造",
+      "onboard_time": 1763037681,
+      "rank": 48,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 39600,
       "num": 133635,
       "word": "一诺说一起越来越好",
       "onboard_time": 1763045121,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 38338,
-      "num": 133525,
-      "word": "宋祖儿入局首套妆造",
-      "onboard_time": 1763037681,
-      "rank": 48,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 37265,
@@ -387,12 +403,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36687,
-      "num": 135312,
-      "word": "年轻女子与7旬老人生女后弃养给保姆",
-      "onboard_time": 1763051478,
-      "rank": 34,
-      "category": "民生新闻"
+      "raw_hot": 37226,
+      "num": 102695,
+      "word": "王楚钦说好好休息好好治疗好好睡觉",
+      "onboard_time": 1763051958,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 23257,

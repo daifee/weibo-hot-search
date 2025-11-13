@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 00:32:27
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 00:49:07
 </p>
 </blockquote>
 <p>
@@ -4239,6 +4239,12 @@ ally因整容擤不出鼻涕（热度：402082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8B%86%E5%AE%8C%E5%BF%AB%E9%80%92%E7%9A%84%E7%BA%B8%E7%AE%B1%E7%AB%8B%E9%A9%AC%E6%89%94%E6%8E%89%23" target="weibo">
+建议拆完快递的纸箱立马扔掉（热度：396457）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E8%AF%B4%E5%B8%A6%E5%AD%A9%E5%AD%90%E8%BE%9B%E8%8B%A6%E6%89%80%E4%BB%A5%E9%80%89%E6%8B%A9%E5%9C%A8%E5%A4%96%E5%B7%A5%E4%BD%9C%23" target="weibo">
 陈乔恩说带孩子辛苦所以选择在外工作（热度：395763）
 </a>
@@ -6005,12 +6011,6 @@ Faker回应打LPL没输过（热度：302785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E9%81%93%E5%BC%A0%E9%9F%B6%E6%B6%B5%E5%A4%A9%E5%9B%BD%E7%9A%84%E5%AB%81%E8%A1%A3%E5%94%AE%E5%90%8E%23" target="weibo">
 明道张韶涵天国的嫁衣售后（热度：298151）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%AF%8F%E5%A4%A9%E6%99%9A%E4%B8%8A%E9%99%AA%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AD%A6%E8%8B%B1%E8%AF%AD%23" target="weibo">
-黄子韬每天晚上陪徐艺洋学英语（热度：297694）
 </a>
 </li>
 
