@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763073751620,
+  "endTime": 1763076321989,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -27,6 +27,22 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 379593,
+      "num": 135312,
+      "word": "年轻女子与7旬老人生女后弃养给保姆",
+      "onboard_time": 1763051478,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 335251,
+      "num": 86396,
+      "word": "任嘉伦工作室手P错位了",
+      "onboard_time": 1763054596,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 278394,
       "num": 802893,
       "word": "山姆正跌落神坛",
@@ -35,11 +51,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 269385,
-      "num": 135312,
-      "word": "年轻女子与7旬老人生女后弃养给保姆",
-      "onboard_time": 1763051478,
-      "rank": 34,
+      "raw_hot": 277281,
+      "num": 766864,
+      "word": "王楚钦说樊振东世界最强",
+      "onboard_time": 1763051419,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 255195,
+      "num": 388181,
+      "word": "5年花25亿请明星没能讨好年轻人",
+      "onboard_time": 1763038941,
+      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -59,20 +83,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198529,
+      "num": 198529,
+      "word": "中方回应印度网球选手称被中国拒签",
+      "onboard_time": 1763039421,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176037,
       "num": 176037,
       "word": "网传不二之臣阵容",
       "onboard_time": 1763048241,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175754,
-      "num": 67564,
-      "word": "任嘉伦工作室手P错位了",
-      "onboard_time": 1763054596,
-      "rank": 13,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 169362,
@@ -91,14 +115,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163683,
-      "num": 481814,
-      "word": "王楚钦说樊振东世界最强",
-      "onboard_time": 1763051419,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 160408,
       "num": 141186,
       "word": "男子因朋友圈无人点赞患上抑郁症",
@@ -107,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 158207,
+      "num": 136707,
+      "word": "艾玛沃特森35岁状态",
+      "onboard_time": 1763041642,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155575,
-      "num": 67430,
+      "num": 85024,
       "word": "徐志胜 我家那小子",
       "onboard_time": 1763053517,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 151926,
-      "num": 388181,
-      "word": "5年花25亿请明星没能讨好年轻人",
-      "onboard_time": 1763038941,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137185,
@@ -139,14 +155,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 119218,
-      "num": 136707,
-      "word": "艾玛沃特森35岁状态",
-      "onboard_time": 1763041642,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
@@ -155,20 +163,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111051,
-      "num": 134472,
-      "word": "中方回应印度网球选手称被中国拒签",
-      "onboard_time": 1763039421,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110380,
       "num": 136571,
       "word": "控糖到了80多岁的皮肤状态",
       "onboard_time": 1763031501,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108575,
+      "num": 139490,
+      "word": "14岁男孩被误诊矮小症打了2940针",
+      "onboard_time": 1763034921,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107903,
@@ -187,20 +195,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 96654,
-      "num": 139490,
-      "word": "14岁男孩被误诊矮小症打了2940针",
-      "onboard_time": 1763034921,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 96164,
       "num": 138719,
       "word": "孟子义这下真成老公姐了",
       "onboard_time": 1763044102,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95525,
+      "num": 95525,
+      "word": "蔡徐坤新歌",
+      "onboard_time": 1763075478,
+      "rank": 7,
+      "category": "音乐"
     },
     {
       "raw_hot": 95103,
@@ -227,6 +235,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88400,
+      "num": 83841,
+      "word": "阿里已抽调上百名工程师秘密办公",
+      "onboard_time": 1763076258,
+      "rank": 18,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 88236,
+      "num": 71923,
+      "word": "巴基斯坦称已做好两线作战准备",
+      "onboard_time": 1763075297,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86923,
+      "num": 145762,
+      "word": "山西一医院从上到下集体骗保近千万",
+      "onboard_time": 1763031619,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 84223,
       "num": 136366,
       "word": "长白头发可能是缺乏这3种营养",
@@ -235,20 +267,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 83334,
-      "num": 145762,
-      "word": "山西一医院从上到下集体骗保近千万",
-      "onboard_time": 1763031619,
-      "rank": 8,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 83076,
       "num": 136333,
       "word": "张桂源 楼凌赫",
       "onboard_time": 1763036241,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82694,
+      "num": 135489,
+      "word": "高市早苗反省",
+      "onboard_time": 1763029401,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 79029,
@@ -267,6 +299,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 76771,
+      "num": 76771,
+      "word": "你俩亲脸都这样了亲嘴还得了",
+      "onboard_time": 1763028621,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 73836,
+      "num": 71852,
+      "word": "欧洲人民工资到1w是什么概念",
+      "onboard_time": 1763075417,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 73728,
       "num": 135853,
       "word": "不建议用猪肉记号笔标记新生儿",
@@ -283,12 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69349,
-      "num": 135489,
-      "word": "高市早苗反省",
-      "onboard_time": 1763029401,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 71778,
+      "num": 71778,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 67636,
+      "num": 77490,
+      "word": "华为Mate80系列机型曝光",
+      "onboard_time": 1763075237,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 64732,
@@ -339,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52002,
+      "num": 134186,
+      "word": "九阳豆业与九阳股份为同一实控人",
+      "onboard_time": 1763050399,
+      "rank": 43,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 51460,
       "num": 134846,
       "word": "日本店员遭熊袭击浑身血继续做拉面",
@@ -363,6 +427,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49504,
+      "num": 49504,
+      "word": "马龙看王楚钦林高远比赛看紧张了",
+      "onboard_time": 1763075958,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 47924,
+      "num": 47924,
+      "word": "iPhonePocket正式开售",
+      "onboard_time": 1763075958,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 46839,
       "num": 134279,
       "word": "穆祉丞说我的师兄和祖师爷都来过",
@@ -371,20 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46830,
-      "num": 134186,
-      "word": "九阳豆业与九阳股份为同一实控人",
-      "onboard_time": 1763050399,
-      "rank": 43,
-      "category": "财经,民生新闻"
+      "raw_hot": 46538,
+      "num": 77196,
+      "word": "宋祖儿上午杀青下午进组",
+      "onboard_time": 1763058015,
+      "rank": 24,
+      "category": "剧集"
     },
     {
-      "raw_hot": 44440,
-      "num": 35920,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
+      "raw_hot": 45874,
+      "num": 45874,
+      "word": "白敬亭 演完帅哥奖励自己一部黑土剧",
+      "onboard_time": 1763075359,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 44355,
@@ -395,12 +475,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44242,
+      "num": 44242,
+      "word": "张呈给雷淞然笑退烧了",
+      "onboard_time": 1763075417,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43058,
       "num": 133840,
       "word": "摩尔线程披露科创板上市招股意向书",
       "onboard_time": 1763050939,
       "rank": 45,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 41231,
+      "num": 44234,
+      "word": "心动的信号2吴沛官宣生娃",
+      "onboard_time": 1763060655,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 41074,
@@ -411,12 +507,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 40388,
-      "num": 35898,
-      "word": "宋祖儿上午杀青下午进组",
-      "onboard_time": 1763058015,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 39824,
+      "num": 44231,
+      "word": "金鸡影帝含金量",
+      "onboard_time": 1763075297,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 39633,
@@ -451,20 +547,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33934,
+      "num": 44198,
+      "word": "孙颖莎打削球累得嚼香蕉退场",
+      "onboard_time": 1763069294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 33672,
+      "num": 44193,
+      "word": "北京大学3元的早餐标准",
+      "onboard_time": 1763076258,
+      "rank": 47,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 33265,
+      "num": 44178,
+      "word": "白鹿手势官宣定档",
+      "onboard_time": 1763061254,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29029,
       "num": 67350,
       "word": "九阳豆业九阳股份已无股权关联",
       "onboard_time": 1763052257,
       "rank": 40,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 25720,
-      "num": 35321,
-      "word": "孙颖莎打削球累得嚼香蕉退场",
-      "onboard_time": 1763069294,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 24809,
@@ -481,14 +593,6 @@
       "onboard_time": 1763044583,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23355,
-      "num": 35271,
-      "word": "心动的信号2吴沛官宣生娃",
-      "onboard_time": 1763060655,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 23257,
@@ -521,14 +625,6 @@
       "onboard_time": 1763065573,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19023,
-      "num": 35703,
-      "word": "白鹿手势官宣定档",
-      "onboard_time": 1763061254,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 18731,
