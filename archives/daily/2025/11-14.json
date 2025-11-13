@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763069108594,
+  "endTime": 1763069795023,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 148491,
-      "num": 148491,
+      "num": 169989,
       "word": "5年花25亿请明星没能讨好年轻人",
       "onboard_time": 1763038941,
       "rank": 5,
@@ -499,6 +499,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 15795,
+      "num": 24666,
+      "word": "孙颖莎非常期待半决赛",
+      "onboard_time": 1763065813,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 14775,
       "num": 24918,
       "word": "心动的信号2吴沛官宣生娃",
@@ -507,7 +515,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14208,
+      "raw_hot": 14275,
       "num": 35775,
       "word": "一眼找到任嘉伦",
       "onboard_time": 1763056275,
@@ -515,11 +523,19 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 13704,
-      "num": 24666,
-      "word": "孙颖莎非常期待半决赛",
-      "onboard_time": 1763065813,
-      "rank": 47,
+      "raw_hot": 14001,
+      "num": 19880,
+      "word": "王楚钦樊振东已交手32次",
+      "onboard_time": 1763065573,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 13946,
+      "num": 24717,
+      "word": "孙颖莎晋级四强",
+      "onboard_time": 1763065333,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -531,15 +547,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13202,
-      "num": 24717,
-      "word": "孙颖莎晋级四强",
-      "onboard_time": 1763065333,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 12979,
+      "raw_hot": 13104,
       "num": 24760,
       "word": "女单四强神仙打架",
       "onboard_time": 1763065875,
@@ -555,14 +563,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 12764,
-      "num": 19880,
-      "word": "王楚钦樊振东已交手32次",
-      "onboard_time": 1763065573,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 12715,
       "num": 35703,
       "word": "白鹿手势官宣定档",
@@ -571,7 +571,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 12096,
+      "raw_hot": 12668,
       "num": 35670,
       "word": "快递员因送错快递被杀家属发声",
       "onboard_time": 1763060293,
