@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 07:39:38
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 10:00:07
 </p>
 </blockquote>
 <p>
@@ -2793,6 +2793,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%85%E4%BE%A3%E6%98%AF%E4%B8%80%E7%A7%8D%E5%BE%88%E8%AF%A1%E5%BC%82%E7%9A%84%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB%23" target="weibo">
+情侣是一种很诡异的亲密关系（热度：504410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E7%9A%84%E5%BB%BA%E8%AE%AE%E6%A3%80%E6%9F%A5%E4%B8%80%E4%B8%8B%E7%88%B8%E5%A6%88%E7%9A%84%E6%89%8B%E6%9C%BA%23" target="weibo">
 真的建议检查一下爸妈的手机（热度：504057）
 </a>
@@ -3035,6 +3041,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232025%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E5%AE%98%E5%AE%A3%23" target="weibo">
 2025爱奇艺尖叫之夜官宣（热度：484621）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E7%9B%B8%E4%BA%B2%E8%A2%AB%E5%AB%8C%E5%BC%83%E5%AD%A6%E5%8E%86%E4%BD%8E%23" target="weibo">
+影视飓风Tim相亲被嫌弃学历低（热度：484427）
 </a>
 </li>
 
@@ -4233,6 +4245,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E8%87%B4%E6%AD%89%23" target="weibo">
+奇瑞致歉（热度：373207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%91%9E%E5%85%B8%E5%85%8D%E7%AD%BE%23" target="weibo">
 中国对瑞典免签（热度：373193）
 </a>
@@ -4881,6 +4899,12 @@ AL在等一个不会来的人（热度：333411）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%98%93%E5%AD%99%E5%A4%A9%E5%AE%87%23" target="weibo">
+蒋易孙天宇（热度：332700）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23JackeyLove%E8%87%B4%E6%AD%89%23" target="weibo">
 JackeyLove致歉（热度：332632）
 </a>
@@ -5091,6 +5115,12 @@ iPhone18Pro升级工艺（热度：325186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%23" target="weibo">
+上海地铁（热度：321283）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%9B%9E%E5%BA%9460%25%E8%90%A5%E6%94%B6%E9%9D%A0%E7%8E%8B%E4%B8%80%E5%8D%9A%23" target="weibo">
 乐华回应60%营收靠王一博（热度：321134）
 </a>
@@ -5105,6 +5135,12 @@ iPhone18Pro升级工艺（热度：325186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E7%9F%A5%E9%81%93%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E4%BA%86%23" target="weibo">
 小猫知道爷爷去世了（热度：320238）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E6%99%AE%E6%8B%89%E8%BE%BE%E7%9A%84%E5%A5%B3%E7%8E%8B2%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23" target="weibo">
+穿普拉达的女王2首支预告（热度：319135）
 </a>
 </li>
 
@@ -5165,6 +5201,12 @@ iPhone18Pro升级工艺（热度：325186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%20%E5%AD%A6%E6%9C%8D%E8%A3%85%E8%AE%BE%E8%AE%A1%E4%B8%8D%E6%98%AF%E8%AE%A9%E4%BD%A0%E5%B9%B2%E8%BF%99%E4%B8%AA%E7%9A%84%23" target="weibo">
 卢昱晓 学服装设计不是让你干这个的（热度：313857）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B4%E6%92%AD%E6%94%B6%E5%85%A5%E5%85%A8%E9%83%A8%E6%8D%90%E7%BB%99%E4%B9%A1%E6%9D%91%E5%84%BF%E7%AB%A5%23" target="weibo">
+全红婵直播收入全部捐给乡村儿童（热度：313537）
 </a>
 </li>
 
@@ -5969,48 +6011,6 @@ Faker说Uzi是LPL最佳选手（热度：277726）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E6%BC%94%E6%8A%80%23" target="weibo">
 迪丽热巴演技（热度：276767）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E6%B8%AF%E5%8D%83%E5%B9%B4%E5%8F%A4%E5%AF%BA%E6%B0%B8%E5%BA%86%E5%AF%BA%E8%B5%B7%E7%81%AB%23" target="weibo">
-张家港千年古寺永庆寺起火（热度：276646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BA%BB%E5%85%AD%E8%AE%B0%E4%B8%80%E9%97%A8%E5%BA%97%E8%A2%AB%E9%9B%86%E4%BD%93%E6%8A%95%E8%AF%89%23" target="weibo">
-麻六记一门店被集体投诉（热度：275944）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E6%9C%80%E7%9B%B8%E4%BC%BC%E5%A4%AB%E5%A6%BB%E7%A7%B0%E5%88%9A%E8%AE%A4%E8%AF%86%E6%97%B6%E5%B9%B6%E4%B8%8D%E5%83%8F%23" target="weibo">
-史上最相似夫妻称刚认识时并不像（热度：275934）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E7%94%A8%E9%85%92%E5%BA%97%E7%9A%84%E6%B2%90%E6%B5%B4%E9%9C%B2%23" target="weibo">
-建议不要用酒店的沐浴露（热度：275930）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%953%E9%A6%96%E6%92%AD%E5%8F%8D%E9%A6%88%23" target="weibo">
-唐朝诡事录3首播反馈（热度：275774）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A5%B6%E9%9B%AA%E6%BC%AB%E6%8E%A8%E8%8D%90%E9%92%9F%E4%B8%BD%E4%B8%BD%E5%85%A5%E9%80%89%E6%98%9F%E8%BE%B0%E5%A4%A7%E6%B5%B7%23" target="weibo">
-饶雪漫推荐钟丽丽入选星辰大海（热度：275606）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-穆祉丞音乐节（热度：275502）
 </a>
 </li>
 

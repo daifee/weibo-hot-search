@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762990778501,
+  "endTime": 1762999207080,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1116,7 +1116,7 @@
     },
     {
       "raw_hot": 551543,
-      "num": 120080,
+      "num": 125407,
       "word": "续面事件老板回应被女顾客起诉",
       "onboard_time": 1762962800,
       "rank": 13,
@@ -1315,6 +1315,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 504410,
+      "num": 175070,
+      "word": "情侣是一种很诡异的亲密关系",
+      "onboard_time": 1762959443,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 500363,
       "num": 500363,
       "word": "秋假",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1762915400,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 484427,
+      "num": 174735,
+      "word": "影视飓风Tim相亲被嫌弃学历低",
+      "onboard_time": 1762995142,
+      "rank": 11,
+      "category": "互联网"
     },
     {
       "raw_hot": 480624,
@@ -2019,6 +2035,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 373207,
+      "num": 1059713,
+      "word": "奇瑞致歉",
+      "onboard_time": 1762989918,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 373007,
       "num": 283260,
       "word": "单依纯好争气",
@@ -2331,6 +2355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 332700,
+      "num": 172538,
+      "word": "蒋易孙天宇",
+      "onboard_time": 1762997239,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 332474,
       "num": 332474,
       "word": "剑来",
@@ -2483,12 +2515,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321283,
+      "num": 174106,
+      "word": "上海地铁",
+      "onboard_time": 1762994840,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320238,
       "num": 178436,
       "word": "小猫知道爷爷去世了",
       "onboard_time": 1762677801,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319135,
+      "num": 319135,
+      "word": "穿普拉达的女王2首支预告",
+      "onboard_time": 1762991659,
+      "rank": 1,
+      "category": "电影"
     },
     {
       "raw_hot": 318417,
@@ -2529,6 +2577,14 @@
       "onboard_time": 1762908322,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313537,
+      "num": 313537,
+      "word": "全红婵直播收入全部捐给乡村儿童",
+      "onboard_time": 1762995024,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 312860,
@@ -2836,7 +2892,7 @@
     },
     {
       "raw_hot": 285546,
-      "num": 113234,
+      "num": 148116,
       "word": "相亲第2天闪婚妻子考驾照一去不回",
       "onboard_time": 1762989197,
       "rank": 17,
@@ -3001,6 +3057,14 @@
       "onboard_time": 1762758019,
       "rank": 35,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 274052,
+      "num": 172287,
+      "word": "第一批爱熬夜的受害者出现了",
+      "onboard_time": 1762995081,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 273946,
@@ -3211,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253169,
+      "num": 253169,
+      "word": "孙颖莎陈梦同框",
+      "onboard_time": 1762997480,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 252506,
       "num": 252506,
       "word": "唐诡3把观众写进剧里",
@@ -3288,6 +3360,14 @@
       "word": "井柏然刘雯 商务共享",
       "onboard_time": 1762846460,
       "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 246988,
+      "num": 172074,
+      "word": "天天18岁了",
+      "onboard_time": 1762991780,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -4092,7 +4172,7 @@
     },
     {
       "raw_hot": 201003,
-      "num": 112884,
+      "num": 134817,
       "word": "青岛女子刷到丢失三个月的狗在长沙",
       "onboard_time": 1762989258,
       "rank": 30,
@@ -4547,6 +4627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187188,
+      "num": 187188,
+      "word": "韩网爆料zeus疑似来LPL",
+      "onboard_time": 1762991539,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186890,
       "num": 233721,
       "word": "成毅天地剑心豆瓣6.0",
@@ -4753,6 +4841,14 @@
       "onboard_time": 1762803494,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177984,
+      "num": 177984,
+      "word": "日本敢介入台海吗",
+      "onboard_time": 1762956024,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 177459,
@@ -4971,6 +5067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 171702,
+      "num": 171702,
+      "word": "女子称咖啡灌肠能清血毒",
+      "onboard_time": 1762994241,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171565,
       "num": 171565,
       "word": "张晚意一唱慢冷就哭",
@@ -5024,6 +5128,14 @@
       "word": "王鹤棣这是喝了多少",
       "onboard_time": 1762835720,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170268,
+      "num": 170268,
+      "word": "Psy.P向老婆道歉",
+      "onboard_time": 1762998440,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -5331,6 +5443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161025,
+      "num": 173488,
+      "word": "章泽天朱珠同框",
+      "onboard_time": 1762998261,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160842,
       "num": 160842,
       "word": "米哈游回应新角色大丽花争议",
@@ -5465,14 +5585,6 @@
       "onboard_time": 1762691904,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158311,
-      "num": 112783,
-      "word": "情侣是一种很诡异的亲密关系",
-      "onboard_time": 1762959443,
-      "rank": 43,
-      "category": "情感"
     },
     {
       "raw_hot": 158274,
@@ -5731,14 +5843,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 152555,
-      "num": 158358,
-      "word": "日本敢介入台海吗",
-      "onboard_time": 1762956024,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152502,
       "num": 152502,
       "word": "Faker笑了",
@@ -5897,6 +6001,14 @@
       "onboard_time": 1762952300,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148698,
+      "num": 148698,
+      "word": "西方多富豪被控付费射杀平民取乐",
+      "onboard_time": 1762996101,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 148680,
@@ -7307,6 +7419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124444,
+      "num": 124444,
+      "word": "严打一批买卖学术论文账号",
+      "onboard_time": 1762998621,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124412,
       "num": 241674,
       "word": "赵继伟受伤",
@@ -7499,6 +7619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121481,
+      "num": 173303,
+      "word": "肖战新剧紧张感拉满",
+      "onboard_time": 1762990339,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121445,
       "num": 121445,
       "word": "原来南方小土豆不是矮的意思",
@@ -7585,6 +7713,14 @@
       "onboard_time": 1762610422,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119950,
+      "num": 119950,
+      "word": "我没有教师资格证所以在下面讲",
+      "onboard_time": 1762996700,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 119941,
@@ -8001,6 +8137,14 @@
       "onboard_time": 1762844720,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114688,
+      "num": 132117,
+      "word": "易烊千玺4年4提金鸡奖最佳男主角",
+      "onboard_time": 1762995680,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 114645,
@@ -8481,14 +8625,6 @@
       "onboard_time": 1762669700,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 108050,
-      "num": 108050,
-      "word": "奇瑞致歉",
-      "onboard_time": 1762989918,
-      "rank": 33,
-      "category": "汽车"
     },
     {
       "raw_hot": 108033,
@@ -9179,6 +9315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101880,
+      "num": 101880,
+      "word": "孙颖莎王曼昱陈梦等冲4强",
+      "onboard_time": 1762994241,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101737,
       "num": 139420,
       "word": "新闻女王唐诡看完你的看你的",
@@ -9867,6 +10011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96784,
+      "num": 96784,
+      "word": "美众议院通过临时拨款法案",
+      "onboard_time": 1762998740,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96431,
       "num": 96431,
       "word": "徐嘉余全运会第13金",
@@ -10451,6 +10603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90880,
+      "num": 90880,
+      "word": "反杀狗主人女儿称父亲系自卫",
+      "onboard_time": 1762966876,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90874,
       "num": 90874,
       "word": "狗咖销冠营业中",
@@ -10819,6 +10979,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88116,
+      "num": 88116,
+      "word": "怪不得西餐又叫简餐",
+      "onboard_time": 1762997779,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88029,
       "num": 88029,
       "word": "高杨4比1陈垣宇",
@@ -10969,6 +11137,14 @@
       "onboard_time": 1762938321,
       "rank": 45,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 86973,
+      "num": 86973,
+      "word": "当你发现可以这样夹头发时",
+      "onboard_time": 1762997300,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 86960,
@@ -11244,7 +11420,7 @@
     },
     {
       "raw_hot": 84249,
-      "num": 89898,
+      "num": 173200,
       "word": "裴喜君情敌",
       "onboard_time": 1762959862,
       "rank": 46,
@@ -11547,6 +11723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80562,
+      "num": 80562,
+      "word": "比尔赛季报销",
+      "onboard_time": 1762994061,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80451,
       "num": 105468,
       "word": "关晓彤沈梦辰赤脚跳舞",
@@ -11675,20 +11859,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 79451,
+      "num": 79451,
+      "word": "张亮给天天庆生",
+      "onboard_time": 1762997419,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79436,
       "num": 79436,
       "word": "小鹏汽车大涨超16%",
       "onboard_time": 1762825521,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 79043,
-      "num": 113711,
-      "word": "肖战新剧紧张感拉满",
-      "onboard_time": 1762990339,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 79000,
@@ -11763,6 +11947,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 78183,
+      "num": 78183,
+      "word": "你用的手机壳可能有毒",
+      "onboard_time": 1762996820,
+      "rank": 45,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 78167,
       "num": 205581,
       "word": "福建舰为什么被子不叠豆腐块",
@@ -11811,12 +12003,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77555,
+      "num": 77555,
+      "word": "李昀锐看你的手就知道你努力了",
+      "onboard_time": 1762989437,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 77533,
+      "num": 77533,
+      "word": "特朗普致信以总统求赦免内塔尼亚胡",
+      "onboard_time": 1762994181,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 77527,
       "num": 77527,
       "word": "欧洲多国紧急往乌克兰送旧渔网",
       "onboard_time": 1762818441,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77522,
+      "num": 77522,
+      "word": "爱喝咖啡的人或更显年轻",
+      "onboard_time": 1762998920,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 77331,
@@ -12539,14 +12755,6 @@
       "category": "美食,民生新闻"
     },
     {
-      "raw_hot": 68778,
-      "num": 68778,
-      "word": "李昀锐看你的手就知道你努力了",
-      "onboard_time": 1762989437,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 68230,
       "num": 82353,
       "word": "孩子地铁内荡秋千家长在旁拍照",
@@ -12817,6 +13025,14 @@
       "onboard_time": 1762767319,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64157,
+      "num": 124839,
+      "word": "导演回应大湾鸡选武校娃",
+      "onboard_time": 1762998980,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 63907,
@@ -13281,14 +13497,6 @@
       "onboard_time": 1762675941,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55997,
-      "num": 72198,
-      "word": "反杀狗主人女儿称父亲系自卫",
-      "onboard_time": 1762966876,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55975,
@@ -14227,6 +14435,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 40178,
+      "num": 316298,
+      "word": "网警查处虚构事实扰乱公共秩序案",
+      "onboard_time": 1762994301,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40016,
       "num": 163923,
       "word": "李莎旻子音乐节后台吃上盐水鸭了",
@@ -14713,6 +14929,14 @@
       "onboard_time": 1762686079,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 30576,
+      "num": 172709,
+      "word": "全运会100自潘展乐轻松晋级",
+      "onboard_time": 1762998679,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 30395,
