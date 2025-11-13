@@ -1,0 +1,410 @@
+{
+  "runTime": 1763041868211,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 558412,
+        "num": 1089346,
+        "word": "历年爆剧",
+        "onboard_time": 1763035461,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 543581,
+        "num": 543581,
+        "word": "樊振东王楚钦会师半决赛",
+        "onboard_time": 1763036422,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133364,
+        "num": 398486,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599446,
+        "num": 394843,
+        "word": "李隆基 太平公主",
+        "onboard_time": 1763036661,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 369109,
+        "num": 369109,
+        "word": "覃海洋50蛙犯规被取消成绩",
+        "onboard_time": 1763036541,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265482,
+        "num": 265482,
+        "word": "一诺教JackeyLove扫腿舞",
+        "onboard_time": 1763038281,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 377455,
+        "num": 261530,
+        "word": "唐诡3拍出太平公主和上官婉儿",
+        "onboard_time": 1763040141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223195,
+        "num": 223195,
+        "word": "山西一医院从上到下集体骗保近千万",
+        "onboard_time": 1763031619,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 173788,
+        "num": 221168,
+        "word": "覃海洋回应成绩被取消",
+        "onboard_time": 1763038100,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159371,
+        "num": 220645,
+        "word": "山姆正跌落神坛",
+        "onboard_time": 1763038821,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711069,
+        "num": 217202,
+        "word": "黄晓明新签约艺人眼睛很大",
+        "onboard_time": 1763040382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376998,
+        "num": 214623,
+        "word": "14岁男孩被误诊矮小症打了2940针",
+        "onboard_time": 1763034921,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266268,
+        "num": 213593,
+        "word": "文科生的天塌了又塌",
+        "onboard_time": 1763028321,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212000,
+        "num": 212000,
+        "word": "王楚钦回应半决赛面对樊振东",
+        "onboard_time": 1763039061,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38649,
+        "num": 208705,
+        "word": "任嘉伦邓亚萍跨界联动",
+        "onboard_time": 1763038880,
+        "rank": 14,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 205653,
+        "num": 205653,
+        "word": "宋茜LV大秀",
+        "onboard_time": 1763039662,
+        "rank": 15,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 198997,
+        "num": 198997,
+        "word": "7397万体彩中奖者买彩票时衣着怪异",
+        "onboard_time": 1763026701,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178593,
+        "num": 178593,
+        "word": "男子因朋友圈无人点赞患上抑郁症",
+        "onboard_time": 1763037681,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175637,
+        "num": 175637,
+        "word": "唐诡 李隆基",
+        "onboard_time": 1763036002,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124817,
+        "num": 173664,
+        "word": "摇滚歌手阿珍去世",
+        "onboard_time": 1763031861,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1050856,
+        "num": 172483,
+        "word": "徐志胜家到底有多脏",
+        "onboard_time": 1763034801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484962,
+        "num": 169554,
+        "word": "Tim父亲 圆通总裁",
+        "onboard_time": 1763029161,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 311039,
+        "num": 167486,
+        "word": "李奈儿 上官婉儿",
+        "onboard_time": 1763034441,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305828,
+        "num": 165119,
+        "word": "张桂源 楼凌赫",
+        "onboard_time": 1763036241,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294287,
+        "num": 161352,
+        "word": "控糖到了80多岁的皮肤状态",
+        "onboard_time": 1763031501,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161222,
+        "num": 161222,
+        "word": "徐志胜 何脏之有",
+        "onboard_time": 1763040683,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158456,
+        "num": 158456,
+        "word": "王曼昱半决赛对战陈梦",
+        "onboard_time": 1763038522,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147260,
+        "num": 147260,
+        "word": "高市早苗反省",
+        "onboard_time": 1763029401,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138901,
+        "num": 138901,
+        "word": "钎城年度创新突破电竞选手",
+        "onboard_time": 1763041221,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135957,
+        "num": 135957,
+        "word": "杨紫好瘦",
+        "onboard_time": 1763019140,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182223,
+        "num": 135341,
+        "word": "用200块成本摆摊一天赚500",
+        "onboard_time": 1763041642,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134346,
+        "num": 134346,
+        "word": "尹子维徐冬冬 生理性喜欢",
+        "onboard_time": 1763039000,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130144,
+        "num": 130144,
+        "word": "王楚钦称艰难走到樊振东面前",
+        "onboard_time": 1763040501,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35630,
+        "num": 126992,
+        "word": "青海联通网络故障已修复",
+        "onboard_time": 1763041702,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126974,
+        "num": 126974,
+        "word": "毛线袜爆改苹果口袋",
+        "onboard_time": 1763041162,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124405,
+        "num": 124405,
+        "word": "徐艺洋用湿厕纸给黄子韬擦嘴",
+        "onboard_time": 1763027421,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112700,
+        "num": 112700,
+        "word": "土豆被八仙子除名",
+        "onboard_time": 1763041523,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112335,
+        "num": 112335,
+        "word": "5年花25亿请明星没能讨好年轻人",
+        "onboard_time": 1763038941,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112063,
+        "num": 112063,
+        "word": "艾玛沃特森35岁状态",
+        "onboard_time": 1763041642,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111410,
+        "num": 111410,
+        "word": "中方回应印度网球选手称被中国拒签",
+        "onboard_time": 1763039421,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109495,
+        "num": 109495,
+        "word": "王楚钦4比2战胜林高远",
+        "onboard_time": 1763035761,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105800,
+        "num": 105800,
+        "word": "宋祖儿入局首套妆造",
+        "onboard_time": 1763037681,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 105747,
+        "num": 105747,
+        "word": "孙颖莎谈河北恩师杨广弟",
+        "onboard_time": 1763039962,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103955,
+        "num": 103955,
+        "word": "孙颖莎说不吃香蕉要没劲了",
+        "onboard_time": 1763036482,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97551,
+        "num": 97551,
+        "word": "LV品牌大使 温柔人设",
+        "onboard_time": 1763028681,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97409,
+        "num": 97409,
+        "word": "妈妈很美 只是没有化过妆",
+        "onboard_time": 1763039179,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91601,
+        "num": 91601,
+        "word": "花海寻找人生第二答案",
+        "onboard_time": 1763040501,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91377,
+        "num": 91377,
+        "word": "18岁少年考取大学后病逝",
+        "onboard_time": 1763037800,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90254,
+        "num": 90254,
+        "word": "汪顺200混第一进决赛",
+        "onboard_time": 1763041702,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 89793,
+        "word": "蒯曼回应2比4陈梦",
+        "onboard_time": 1763040982,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信青年汉学家#"
+    }
+  }
+}

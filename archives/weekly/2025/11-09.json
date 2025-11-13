@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763041137994,
+  "endTime": 1763041868211,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -699,6 +699,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 711069,
+      "num": 217202,
+      "word": "黄晓明新签约艺人眼睛很大",
+      "onboard_time": 1763040382,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 708683,
       "num": 1113389,
       "word": "央视曝光被薅羊毛的医保卡",
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 653969,
-      "num": 187356,
+      "num": 213593,
       "word": "文科生的天塌了又塌",
       "onboard_time": 1763028321,
       "rank": 16,
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 608306,
-      "num": 184938,
+      "num": 198997,
       "word": "7397万体彩中奖者买彩票时衣着怪异",
       "onboard_time": 1763026701,
       "rank": 38,
@@ -1091,6 +1099,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 599446,
+      "num": 467950,
+      "word": "李隆基 太平公主",
+      "onboard_time": 1763036661,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 597245,
       "num": 350534,
       "word": "警方回应路虎撞飞持刀男子",
@@ -1104,14 +1120,6 @@
       "word": "卢凌风 李奈儿",
       "onboard_time": 1762950323,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 594843,
-      "num": 467950,
-      "word": "李隆基 太平公主",
-      "onboard_time": 1763036661,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -1265,6 +1273,14 @@
       "onboard_time": 1762693521,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558412,
+      "num": 1089346,
+      "word": "历年爆剧",
+      "onboard_time": 1763035461,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 555432,
@@ -1465,14 +1481,6 @@
       "onboard_time": 1762827980,
       "rank": 3,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 514248,
-      "num": 514248,
-      "word": "历年爆剧",
-      "onboard_time": 1763035461,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 512870,
@@ -1732,7 +1740,7 @@
     },
     {
       "raw_hot": 469610,
-      "num": 187494,
+      "num": 214623,
       "word": "14岁男孩被误诊矮小症打了2940针",
       "onboard_time": 1763034921,
       "rank": 11,
@@ -2401,6 +2409,14 @@
       "onboard_time": 1762757780,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 377455,
+      "num": 269879,
+      "word": "唐诡3拍出太平公主和上官婉儿",
+      "onboard_time": 1763040141,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 375657,
@@ -3379,14 +3395,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 289765,
-      "num": 178211,
-      "word": "黄晓明新签约艺人眼睛很大",
-      "onboard_time": 1763040382,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 289700,
       "num": 152120,
       "word": "高市早苗反省",
@@ -3731,14 +3739,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 269879,
-      "num": 269879,
-      "word": "唐诡3拍出太平公主和上官婉儿",
-      "onboard_time": 1763040141,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 267748,
       "num": 241605,
       "word": "梁靖崑给自己一巴掌",
@@ -3908,7 +3908,7 @@
     },
     {
       "raw_hot": 255824,
-      "num": 166256,
+      "num": 212000,
       "word": "王楚钦回应半决赛面对樊振东",
       "onboard_time": 1763039061,
       "rank": 30,
@@ -4732,7 +4732,7 @@
     },
     {
       "raw_hot": 208470,
-      "num": 156459,
+      "num": 205653,
       "word": "宋茜LV大秀",
       "onboard_time": 1763039662,
       "rank": 17,
@@ -5524,7 +5524,7 @@
     },
     {
       "raw_hot": 187332,
-      "num": 187332,
+      "num": 221168,
       "word": "覃海洋回应成绩被取消",
       "onboard_time": 1763038100,
       "rank": 43,
@@ -5699,6 +5699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 182223,
+      "num": 135341,
+      "word": "用200块成本摆摊一天赚500",
+      "onboard_time": 1763041642,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 182182,
       "num": 209266,
       "word": "狗咬人引发一死三伤案今日开庭",
@@ -5785,6 +5793,14 @@
       "onboard_time": 1762954882,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178593,
+      "num": 178593,
+      "word": "男子因朋友圈无人点赞患上抑郁症",
+      "onboard_time": 1763037681,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178541,
@@ -6451,6 +6467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161222,
+      "num": 161222,
+      "word": "徐志胜 何脏之有",
+      "onboard_time": 1763040683,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161046,
       "num": 161046,
       "word": "狼队转会",
@@ -6571,6 +6595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 159371,
+      "num": 220645,
+      "word": "山姆正跌落神坛",
+      "onboard_time": 1763038821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 159058,
       "num": 136396,
       "word": "黄金睡眠时间是这4个小时",
@@ -6609,6 +6641,14 @@
       "onboard_time": 1762852161,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 158456,
+      "num": 158456,
+      "word": "王曼昱半决赛对战陈梦",
+      "onboard_time": 1763038522,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 158351,
@@ -7635,6 +7675,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 138901,
+      "num": 138901,
+      "word": "钎城年度创新突破电竞选手",
+      "onboard_time": 1763041221,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138765,
       "num": 138765,
       "word": "于何一爆冷进16强",
@@ -7883,14 +7931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135518,
-      "num": 135518,
-      "word": "王曼昱半决赛对战陈梦",
-      "onboard_time": 1763038522,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 135288,
       "num": 168983,
       "word": "唐诡有自己的莞莞类卿",
@@ -8033,6 +8073,14 @@
       "onboard_time": 1762766060,
       "rank": 16,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 133364,
+      "num": 592198,
+      "word": "第十五届全运会",
+      "onboard_time": 1762612583,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 133188,
@@ -8219,6 +8267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130144,
+      "num": 130144,
+      "word": "王楚钦称艰难走到樊振东面前",
+      "onboard_time": 1763040501,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130058,
       "num": 130058,
       "word": "顾游推荐穆祉丞",
@@ -8305,14 +8361,6 @@
       "onboard_time": 1762950561,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129139,
-      "num": 134227,
-      "word": "男子因朋友圈无人点赞患上抑郁症",
-      "onboard_time": 1763037681,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129124,
@@ -8537,6 +8585,14 @@
       "onboard_time": 1762951461,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126974,
+      "num": 126974,
+      "word": "毛线袜爆改苹果口袋",
+      "onboard_time": 1763041162,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 126862,
@@ -9043,14 +9099,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 121867,
-      "num": 129311,
-      "word": "山姆正跌落神坛",
-      "onboard_time": 1763038821,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121853,
       "num": 121853,
       "word": "LOL第一人Faker也需要重新适应",
@@ -9161,14 +9209,6 @@
       "onboard_time": 1763015481,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 120791,
-      "num": 592198,
-      "word": "第十五届全运会",
-      "onboard_time": 1762612583,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 120691,
@@ -9385,14 +9425,6 @@
       "onboard_time": 1763026520,
       "rank": 29,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 118465,
-      "num": 118465,
-      "word": "徐志胜 何脏之有",
-      "onboard_time": 1763040683,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 118420,
@@ -9859,20 +9891,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112945,
-      "num": 112945,
-      "word": "王楚钦称艰难走到樊振东面前",
-      "onboard_time": 1763040501,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112822,
       "num": 112822,
       "word": "芒果TV食堂的免费员工餐",
       "onboard_time": 1762908861,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 112700,
+      "num": 112700,
+      "word": "土豆被八仙子除名",
+      "onboard_time": 1763041523,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 112688,
@@ -10009,6 +10041,14 @@
       "onboard_time": 1762853840,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 112063,
+      "num": 112063,
+      "word": "艾玛沃特森35岁状态",
+      "onboard_time": 1763041642,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 112010,
@@ -12833,6 +12873,14 @@
       "onboard_time": 1762853961,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90254,
+      "num": 90254,
+      "word": "汪顺200混第一进决赛",
+      "onboard_time": 1763041702,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 90217,
@@ -17203,6 +17251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38649,
+      "num": 208705,
+      "word": "任嘉伦邓亚萍跨界联动",
+      "onboard_time": 1763038880,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 38627,
       "num": 104355,
       "word": "医保卡变购物卡还有多少隐秘戏法",
@@ -17273,14 +17329,6 @@
       "onboard_time": 1763025919,
       "rank": 2,
       "category": "体育"
-    },
-    {
-      "raw_hot": 37215,
-      "num": 172432,
-      "word": "任嘉伦邓亚萍跨界联动",
-      "onboard_time": 1763038880,
-      "rank": 14,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 37187,
@@ -17377,6 +17425,14 @@
       "onboard_time": 1762876099,
       "rank": 31,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 35630,
+      "num": 126992,
+      "word": "青海联通网络故障已修复",
+      "onboard_time": 1763041702,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35582,
