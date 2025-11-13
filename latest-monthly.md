@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 10:23:04
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 11:22:54
 </p>
 </blockquote>
 <p>
@@ -347,6 +347,12 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%94%B1%23" target="weibo">
 假唱（热度：1435162）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E6%89%80%E4%BB%A5%E5%9C%A8%E4%B8%8B%E9%9D%A2%E8%AE%B2%23" target="weibo">
+我没有教师资格证所以在下面讲（热度：1429862）
 </a>
 </li>
 
@@ -1157,6 +1163,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%96%8A%E8%AF%9D%E5%BD%AD%E7%91%BE%23" target="weibo">
 白百何喊话彭瑾（热度：796447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E48%E5%B2%81%E7%94%9F%E6%97%A5%E9%95%9C%E5%83%8F%E6%88%90%E4%BA%8684%E5%B2%81%23" target="weibo">
+黄晓明48岁生日镜像成了84岁（热度：796355）
 </a>
 </li>
 
@@ -2051,6 +2063,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E9%93%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%88%98%E5%98%89%E7%8E%B2%E5%96%8A%E8%AF%9D%E4%BE%B5%E6%9D%83%23" target="weibo">
 店铺回应被刘嘉玲喊话侵权（热度：602605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%E6%9D%80%E9%9D%92%23" target="weibo">
+表妹万福杀青（热度：600248）
 </a>
 </li>
 
@@ -5151,6 +5169,12 @@ iPhone18Pro升级工艺（热度：325186）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AFvs%E8%A2%81%E5%8A%B1%E5%B2%91%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
+林高远刘诗雯vs袁励岑王艺迪（热度：319312）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E6%99%AE%E6%8B%89%E8%BE%BE%E7%9A%84%E5%A5%B3%E7%8E%8B2%E9%A6%96%E6%94%AF%E9%A2%84%E5%91%8A%23" target="weibo">
 穿普拉达的女王2首支预告（热度：319135）
 </a>
@@ -5367,6 +5391,12 @@ TES不敌T1后发文（热度：310623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E6%9C%B1%E7%8F%A0%E5%90%8C%E6%A1%86%23" target="weibo">
+章泽天朱珠同框（热度：305740）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E5%87%8F%E8%82%A5%E8%AE%A1%E5%88%92%E7%B2%BE%E7%A1%AE%E5%88%B0%E5%85%8B%23" target="weibo">
 全红婵的减肥计划精确到克（热度：305376）
 </a>
@@ -5381,12 +5411,6 @@ TES不敌T1后发文（热度：310623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E9%95%BF%E8%BE%88%E9%83%BD%E5%96%9C%E6%AC%A2%E5%A4%A7%E6%96%B9%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
 怪不得长辈都喜欢大方的孩子（热度：304788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%B2%A1%E6%9C%89%E6%95%99%E5%B8%88%E8%B5%84%E6%A0%BC%E8%AF%81%E6%89%80%E4%BB%A5%E5%9C%A8%E4%B8%8B%E9%9D%A2%E8%AE%B2%23" target="weibo">
-我没有教师资格证所以在下面讲（热度：304678）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ T1战胜AL（热度：279371）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E5%BA%86%E5%8A%9F%E5%AE%B4%20%E5%8D%96%E8%B4%A7%23" target="weibo">
 许我耀眼庆功宴 卖货（热度：278604）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E6%96%B0%E5%89%A7%E9%80%A0%E5%9E%8B%23" target="weibo">
-秦岚新剧造型（热度：278539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AE%A1%E6%B3%BD%E5%85%83%20BLG%E6%9D%A5%E7%9C%8B%E6%AF%94%E8%B5%9B%E4%BA%86%23" target="weibo">
-管泽元 BLG来看比赛了（热度：278173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%A7%82%E4%BC%97%E5%BD%93%E5%9C%BA%E6%95%99%E8%AE%AD%E4%BA%B5%E6%B8%8E%E5%9B%BD%E6%AD%8C%E8%80%85%23" target="weibo">
-俄罗斯观众当场教训亵渎国歌者（热度：278169）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E8%AF%B4Uzi%E6%98%AFLPL%E6%9C%80%E4%BD%B3%E9%80%89%E6%89%8B%23" target="weibo">
-Faker说Uzi是LPL最佳选手（热度：277726）
 </a>
 </li>
 

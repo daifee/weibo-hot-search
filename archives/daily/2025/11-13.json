@@ -1,7 +1,15 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763000584452,
+  "endTime": 1763004174116,
   "band_list": [
+    {
+      "raw_hot": 1429862,
+      "num": 213057,
+      "word": "我没有教师资格证所以在下面讲",
+      "onboard_time": 1762996700,
+      "rank": 34,
+      "category": "幽默"
+    },
     {
       "raw_hot": 800833,
       "num": 1128133,
@@ -11,12 +19,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 796355,
+      "num": 132513,
+      "word": "黄晓明48岁生日镜像成了84岁",
+      "onboard_time": 1763002340,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 641544,
       "num": 641544,
       "word": "小天才灰色产业链曝光",
       "onboard_time": 1762945159,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 600248,
+      "num": 1096039,
+      "word": "表妹万福杀青",
+      "onboard_time": 1763002759,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 551543,
@@ -99,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 319312,
+      "num": 319312,
+      "word": "林高远刘诗雯vs袁励岑王艺迪",
+      "onboard_time": 1763000538,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319135,
       "num": 319135,
       "word": "穿普拉达的女王2首支预告",
@@ -115,12 +147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304678,
-      "num": 213057,
-      "word": "我没有教师资格证所以在下面讲",
-      "onboard_time": 1762996700,
-      "rank": 34,
-      "category": "幽默"
+      "raw_hot": 305740,
+      "num": 207386,
+      "word": "章泽天朱珠同框",
+      "onboard_time": 1762998261,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 302076,
@@ -155,12 +187,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 277857,
+      "num": 277857,
+      "word": "内娱综艺收官濒临破产散伙",
+      "onboard_time": 1763002278,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 275506,
       "num": 191293,
       "word": "朱媛媛去世六个月辛柏青状态",
       "onboard_time": 1762946959,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267249,
+      "num": 267249,
+      "word": "导演回应大湾鸡选武校娃",
+      "onboard_time": 1762998980,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 262648,
@@ -171,7 +219,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 261478,
+      "raw_hot": 261540,
       "num": 192398,
       "word": "Psy.P向老婆道歉",
       "onboard_time": 1762998440,
@@ -179,12 +227,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250805,
-      "num": 207386,
-      "word": "章泽天朱珠同框",
-      "onboard_time": 1762998261,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 255064,
+      "num": 255064,
+      "word": "安妮海瑟薇连续变装的经典片段",
+      "onboard_time": 1763001980,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 250106,
@@ -211,20 +259,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 244379,
+      "num": 244379,
+      "word": "天门山景区回应汽车挑战天梯撞毁栏杆",
+      "onboard_time": 1763001920,
+      "rank": 7,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 240241,
       "num": 118024,
       "word": "南宁地铁站称已对涉事区域进行消杀",
       "onboard_time": 1762961361,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 237088,
-      "num": 237088,
-      "word": "导演回应大湾鸡选武校娃",
-      "onboard_time": 1762998980,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 207694,
@@ -241,6 +289,14 @@
       "onboard_time": 1762989258,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189268,
+      "num": 129692,
+      "word": "白鹿与助理就是现实版闺蜜你养我吧",
+      "onboard_time": 1763003059,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 187713,
@@ -273,6 +329,14 @@
       "onboard_time": 1762956024,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166520,
+      "num": 129053,
+      "word": "水果店便宜得像批发价走红",
+      "onboard_time": 1763002220,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 154745,
@@ -308,11 +372,19 @@
     },
     {
       "raw_hot": 147342,
-      "num": 111085,
+      "num": 132775,
       "word": "乌克兰停止与俄罗斯谈判",
       "onboard_time": 1762999460,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 134476,
+      "num": 126189,
+      "word": "Viper目前被LPL和LCK战队疯抢",
+      "onboard_time": 1763002519,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 134230,
@@ -321,6 +393,14 @@
       "onboard_time": 1762953321,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132454,
+      "num": 145794,
+      "word": "星辰大海",
+      "onboard_time": 1763000719,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 128661,
@@ -337,6 +417,14 @@
       "onboard_time": 1762960941,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125554,
+      "num": 125554,
+      "word": "朱开爆料iG转会消息",
+      "onboard_time": 1763001379,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 124444,
@@ -379,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118669,
+      "num": 118669,
+      "word": "武契奇称欧洲准备与俄罗斯打仗",
+      "onboard_time": 1763001379,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118502,
       "num": 118502,
       "word": "男子溺亡被同伴运回家摆成睡姿",
@@ -395,12 +491,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112980,
+      "num": 112980,
+      "word": "穆祉丞小跑着上课",
+      "onboard_time": 1763003059,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111095,
+      "num": 127973,
+      "word": "五年定存退场怎么理财",
+      "onboard_time": 1763003961,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109241,
       "num": 121665,
       "word": "缅甸亚太新城犯罪集团主犯引渡回国",
       "onboard_time": 1762958722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108505,
+      "num": 108505,
+      "word": "这是吉吉国王订婚吗",
+      "onboard_time": 1763001560,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 108109,
@@ -443,6 +563,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101153,
+      "num": 101153,
+      "word": "黄晓明48岁生日发博",
+      "onboard_time": 1763003361,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100595,
+      "num": 127716,
+      "word": "疯狂动物城2大先生爆改孙女奴",
+      "onboard_time": 1763002640,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 96784,
       "num": 96784,
       "word": "美众议院通过临时拨款法案",
@@ -465,6 +601,14 @@
       "onboard_time": 1762966876,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90845,
+      "num": 90845,
+      "word": "刘宇宁没有一个活是白干的",
+      "onboard_time": 1763002880,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 89516,
@@ -505,6 +649,14 @@
       "onboard_time": 1762997300,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 86847,
+      "num": 137659,
+      "word": "狗咬人引发一死三伤案今日开庭",
+      "onboard_time": 1763003120,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85888,
@@ -579,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78733,
+      "num": 78733,
+      "word": "人也是肉做的容易被调味",
+      "onboard_time": 1763003718,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78336,
       "num": 78336,
       "word": "苹果17系列强势霸榜前3",
@@ -619,12 +779,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77073,
+      "num": 77073,
+      "word": "金饰价格一夜上涨17元",
+      "onboard_time": 1763003839,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 76089,
+      "num": 76089,
+      "word": "孙杨说出发令与前两天不一样",
+      "onboard_time": 1763004020,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76054,
       "num": 105746,
       "word": "张博恒全运会男团亚军",
       "onboard_time": 1762960640,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73783,
+      "num": 73783,
+      "word": "爱凑热闹的除了人还有猫",
+      "onboard_time": 1763004079,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 72819,
@@ -657,6 +841,14 @@
       "onboard_time": 1762989559,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70621,
+      "num": 70621,
+      "word": "樊振东助力乒乓球运动在美国升温",
+      "onboard_time": 1763003418,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 70292,
@@ -763,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 49170,
+      "num": 133388,
+      "word": "Dior把包变成艺术藏品",
+      "onboard_time": 1763003180,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 49111,
       "num": 60656,
       "word": "孙杨工作室发文",
@@ -780,7 +980,7 @@
     },
     {
       "raw_hot": 48409,
-      "num": 316298,
+      "num": 359443,
       "word": "网警查处虚构事实扰乱公共秩序案",
       "onboard_time": 1762994301,
       "rank": 2,
@@ -873,6 +1073,14 @@
       "onboard_time": 1762954582,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 35423,
+      "num": 134727,
+      "word": "俄军空投劝降传单",
+      "onboard_time": 1763003418,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35276,
@@ -971,14 +1179,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20067,
-      "num": 89976,
-      "word": "林高远刘诗雯vs袁励岑王艺迪",
-      "onboard_time": 1763000538,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 19886,
       "num": 35326,
       "word": "失踪新手妈妈因担心孩子失眠严重",
@@ -1025,6 +1225,14 @@
       "onboard_time": 1762979593,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 9744,
+      "num": 94047,
+      "word": "未来3天还有极光",
+      "onboard_time": 1763003180,
+      "rank": 39,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763000584452,
+  "endTime": 1763004174116,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -449,6 +449,14 @@
       "onboard_time": 1762780280,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1429862,
+      "num": 213057,
+      "word": "我没有教师资格证所以在下面讲",
+      "onboard_time": 1762996700,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 1419425,
@@ -1529,6 +1537,14 @@
       "onboard_time": 1762428562,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 796355,
+      "num": 132513,
+      "word": "黄晓明48岁生日镜像成了84岁",
+      "onboard_time": 1763002340,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 793441,
@@ -2721,6 +2737,14 @@
       "onboard_time": 1762763421,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600248,
+      "num": 1096039,
+      "word": "表妹万福杀青",
+      "onboard_time": 1763002759,
+      "rank": 0,
+      "category": "剧集"
     },
     {
       "raw_hot": 599891,
@@ -6851,6 +6875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319312,
+      "num": 319312,
+      "word": "林高远刘诗雯vs袁励岑王艺迪",
+      "onboard_time": 1763000538,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 319135,
       "num": 319135,
       "word": "穿普拉达的女王2首支预告",
@@ -7139,6 +7171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 305740,
+      "num": 207386,
+      "word": "章泽天朱珠同框",
+      "onboard_time": 1762998261,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305376,
       "num": 305376,
       "word": "全红婵的减肥计划精确到克",
@@ -7161,14 +7201,6 @@
       "onboard_time": 1762572680,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 304678,
-      "num": 213057,
-      "word": "我没有教师资格证所以在下面讲",
-      "onboard_time": 1762996700,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 304580,
@@ -7995,6 +8027,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 277857,
+      "num": 277857,
+      "word": "内娱综艺收官濒临破产散伙",
+      "onboard_time": 1763002278,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277726,
       "num": 277726,
       "word": "Faker说Uzi是LPL最佳选手",
@@ -8283,6 +8323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 267249,
+      "num": 267249,
+      "word": "导演回应大湾鸡选武校娃",
+      "onboard_time": 1762998980,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267147,
       "num": 243593,
       "word": "怪不得刘嘉玲王菲那英是好朋友",
@@ -8443,7 +8491,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261478,
+      "raw_hot": 261540,
       "num": 192398,
       "word": "Psy.P向老婆道歉",
       "onboard_time": 1762998440,
@@ -8627,6 +8675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255064,
+      "num": 255064,
+      "word": "安妮海瑟薇连续变装的经典片段",
+      "onboard_time": 1763001980,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254969,
       "num": 254969,
       "word": "潘展乐全运会200自铜牌",
@@ -8753,14 +8809,6 @@
       "onboard_time": 1761966199,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250805,
-      "num": 207386,
-      "word": "章泽天朱珠同框",
-      "onboard_time": 1762998261,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 250656,
@@ -8961,6 +9009,14 @@
       "onboard_time": 1762349062,
       "rank": 24,
       "category": "体育,汽车"
+    },
+    {
+      "raw_hot": 244379,
+      "num": 244379,
+      "word": "天门山景区回应汽车挑战天梯撞毁栏杆",
+      "onboard_time": 1763001920,
+      "rank": 7,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 244276,
@@ -9217,14 +9273,6 @@
       "onboard_time": 1762610301,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 237088,
-      "num": 237088,
-      "word": "导演回应大湾鸡选武校娃",
-      "onboard_time": 1762998980,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 237070,
@@ -12147,6 +12195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 189268,
+      "num": 129692,
+      "word": "白鹿与助理就是现实版闺蜜你养我吧",
+      "onboard_time": 1763003059,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189061,
       "num": 189061,
       "word": "祖某某曾某生活作风问题基本属实",
@@ -14169,6 +14225,14 @@
       "onboard_time": 1762690283,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166520,
+      "num": 129053,
+      "word": "水果店便宜得像批发价走红",
+      "onboard_time": 1763002220,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166502,
@@ -16620,7 +16684,7 @@
     },
     {
       "raw_hot": 147342,
-      "num": 111085,
+      "num": 132775,
       "word": "乌克兰停止与俄罗斯谈判",
       "onboard_time": 1762999460,
       "rank": 30,
@@ -18619,6 +18683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 134476,
+      "num": 126189,
+      "word": "Viper目前被LPL和LCK战队疯抢",
+      "onboard_time": 1763002519,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134438,
       "num": 134438,
       "word": "郑钦文右肘关节未完全恢复",
@@ -18977,6 +19049,14 @@
       "onboard_time": 1762166601,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132454,
+      "num": 145794,
+      "word": "星辰大海",
+      "onboard_time": 1763000719,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 132451,
@@ -20417,6 +20497,14 @@
       "onboard_time": 1762404742,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125554,
+      "num": 125554,
+      "word": "朱开爆料iG转会消息",
+      "onboard_time": 1763001379,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 125499,
@@ -21947,6 +22035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118669,
+      "num": 118669,
+      "word": "武契奇称欧洲准备与俄罗斯打仗",
+      "onboard_time": 1763001379,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118637,
       "num": 118637,
       "word": "谁吃固体杨枝甘露是图省事",
@@ -23227,6 +23323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112980,
+      "num": 112980,
+      "word": "穆祉丞小跑着上课",
+      "onboard_time": 1763003059,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112973,
       "num": 112973,
       "word": "一诺明天见",
@@ -23745,6 +23849,14 @@
       "onboard_time": 1762871302,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111095,
+      "num": 127973,
+      "word": "五年定存退场怎么理财",
+      "onboard_time": 1763003961,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 111085,
@@ -24337,6 +24449,14 @@
       "onboard_time": 1762049119,
       "rank": 37,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 108505,
+      "num": 108505,
+      "word": "这是吉吉国王订婚吗",
+      "onboard_time": 1763001560,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 108498,
@@ -26683,6 +26803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101153,
+      "num": 101153,
+      "word": "黄晓明48岁生日发博",
+      "onboard_time": 1763003361,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101133,
       "num": 98649,
       "word": "黄景瑜指白敬亭王安宇喊帅哥",
@@ -26873,6 +27001,14 @@
       "onboard_time": 1762040958,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100595,
+      "num": 127716,
+      "word": "疯狂动物城2大先生爆改孙女奴",
+      "onboard_time": 1763002640,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 100579,
@@ -30387,6 +30523,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90845,
+      "num": 90845,
+      "word": "刘宇宁没有一个活是白干的",
+      "onboard_time": 1763002880,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 90837,
       "num": 90837,
       "word": "AL野辅已经续约",
@@ -32017,6 +32161,14 @@
       "onboard_time": 1762831641,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86847,
+      "num": 137659,
+      "word": "狗咬人引发一死三伤案今日开庭",
+      "onboard_time": 1763003120,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86803,
@@ -34467,6 +34619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78733,
+      "num": 78733,
+      "word": "人也是肉做的容易被调味",
+      "onboard_time": 1763003718,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78732,
       "num": 78732,
       "word": "我将掉进床缝里听一天",
@@ -34995,6 +35155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77073,
+      "num": 77073,
+      "word": "金饰价格一夜上涨17元",
+      "onboard_time": 1763003839,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 77025,
       "num": 105161,
       "word": "男子高铁请求让座被拒后怒骂畜生",
@@ -35249,6 +35417,14 @@
       "onboard_time": 1762349781,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76089,
+      "num": 76089,
+      "word": "孙杨说出发令与前两天不一样",
+      "onboard_time": 1763004020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 76066,
@@ -35761,6 +35937,14 @@
       "onboard_time": 1762694001,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73783,
+      "num": 73783,
+      "word": "爱凑热闹的除了人还有猫",
+      "onboard_time": 1763004079,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 73769,
@@ -36489,6 +36673,14 @@
       "onboard_time": 1762341623,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70621,
+      "num": 70621,
+      "word": "樊振东助力乒乓球运动在美国升温",
+      "onboard_time": 1763003418,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 70616,
@@ -39643,6 +39835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49170,
+      "num": 133388,
+      "word": "Dior把包变成艺术藏品",
+      "onboard_time": 1763003180,
+      "rank": 19,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 49137,
       "num": 115793,
       "word": "三变科技涨停",
@@ -39756,7 +39956,7 @@
     },
     {
       "raw_hot": 48409,
-      "num": 316298,
+      "num": 359443,
       "word": "网警查处虚构事实扰乱公共秩序案",
       "onboard_time": 1762994301,
       "rank": 2,
@@ -41441,6 +41641,14 @@
       "onboard_time": 1762209436,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 35423,
+      "num": 134727,
+      "word": "俄军空投劝降传单",
+      "onboard_time": 1763003418,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35335,
@@ -43371,14 +43579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20067,
-      "num": 89976,
-      "word": "林高远刘诗雯vs袁励岑王艺迪",
-      "onboard_time": 1763000538,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20019,
       "num": 20019,
       "word": "周深造物直拍",
@@ -44233,6 +44433,14 @@
       "onboard_time": 1762806314,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9744,
+      "num": 94047,
+      "word": "未来3天还有极光",
+      "onboard_time": 1763003180,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9620,
