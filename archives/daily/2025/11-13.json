@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763041868211,
+  "endTime": 1763043947901,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -19,8 +19,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1295328,
+      "num": 217202,
+      "word": "黄晓明新签约艺人眼睛很大",
+      "onboard_time": 1763040382,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1223204,
-      "num": 174376,
+      "num": 181381,
       "word": "徐志胜家到底有多脏",
       "onboard_time": 1763034801,
       "rank": 21,
@@ -91,14 +99,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 711069,
-      "num": 217202,
-      "word": "黄晓明新签约艺人眼睛很大",
-      "onboard_time": 1763040382,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 708558,
       "num": 1113369,
       "word": "樊振东王楚钦会师半决赛",
@@ -145,6 +145,14 @@
       "onboard_time": 1763006240,
       "rank": 11,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 611450,
+      "num": 181271,
+      "word": "一度君华求救",
+      "onboard_time": 1763041881,
+      "rank": 21,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 608306,
@@ -251,6 +259,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 500900,
+      "num": 500900,
+      "word": "山姆正跌落神坛",
+      "onboard_time": 1763038821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 485900,
+      "num": 269879,
+      "word": "唐诡3拍出太平公主和上官婉儿",
+      "onboard_time": 1763040141,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 484427,
       "num": 216848,
       "word": "影视飓风Tim相亲被嫌弃学历低",
@@ -321,6 +345,14 @@
       "onboard_time": 1763006361,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 447244,
+      "num": 197668,
+      "word": "男子因朋友圈无人点赞患上抑郁症",
+      "onboard_time": 1763037681,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 430074,
@@ -427,14 +459,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 377455,
-      "num": 269879,
-      "word": "唐诡3拍出太平公主和上官婉儿",
-      "onboard_time": 1763040141,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 375788,
       "num": 789726,
       "word": "唐诡3第9集10分15秒",
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 360223,
-      "num": 173483,
+      "num": 180966,
       "word": "张桂源 楼凌赫",
       "onboard_time": 1763036241,
       "rank": 24,
@@ -520,6 +544,14 @@
       "word": "蒋易孙天宇",
       "onboard_time": 1762997239,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 345646,
+      "num": 196150,
+      "word": "土豆被八仙子除名",
+      "onboard_time": 1763041523,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 303215,
-      "num": 173868,
+      "num": 181153,
       "word": "控糖到了80多岁的皮肤状态",
       "onboard_time": 1763031501,
       "rank": 23,
@@ -865,6 +897,14 @@
       "onboard_time": 1763001920,
       "rank": 7,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 241348,
+      "num": 181002,
+      "word": "脑控 精神分裂",
+      "onboard_time": 1763043321,
+      "rank": 23,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 240241,
@@ -1147,6 +1187,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 185508,
+      "num": 185508,
+      "word": "汪顺全运会第17金",
+      "onboard_time": 1763043321,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 182895,
       "num": 182895,
       "word": "朱雨玲4比2陈幸同",
@@ -1156,7 +1204,7 @@
     },
     {
       "raw_hot": 182223,
-      "num": 135341,
+      "num": 145791,
       "word": "用200块成本摆摊一天赚500",
       "onboard_time": 1763041642,
       "rank": 30,
@@ -1169,6 +1217,14 @@
       "onboard_time": 1763003120,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180851,
+      "num": 180851,
+      "word": "艾玛沃特森35岁状态",
+      "onboard_time": 1763041642,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 180307,
@@ -1193,14 +1249,6 @@
       "onboard_time": 1763021961,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 178593,
-      "num": 178593,
-      "word": "男子因朋友圈无人点赞患上抑郁症",
-      "onboard_time": 1763037681,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 177984,
@@ -1283,6 +1331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 163248,
+      "num": 163248,
+      "word": "彭小苒镂空鱼骨胸衣",
+      "onboard_time": 1763043382,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161515,
       "num": 161515,
       "word": "奔跑吧",
@@ -1313,14 +1369,6 @@
       "onboard_time": 1763018840,
       "rank": 27,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 159371,
-      "num": 220645,
-      "word": "山姆正跌落神坛",
-      "onboard_time": 1763038821,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 158969,
@@ -1489,6 +1537,14 @@
       "onboard_time": 1763017820,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 143848,
+      "num": 147716,
+      "word": "表妹万福",
+      "onboard_time": 1763042901,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 142682,
@@ -1720,6 +1776,14 @@
       "word": "黄景瑜在大孤山被阿姨团围住拍照",
       "onboard_time": 1762984453,
       "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 128058,
+      "num": 128058,
+      "word": "祝绪丹 超市小妹",
+      "onboard_time": 1763042782,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -2067,12 +2131,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 112700,
-      "num": 112700,
-      "word": "土豆被八仙子除名",
-      "onboard_time": 1763041523,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 112752,
+      "num": 112752,
+      "word": "十五运乒乓球男单四强对阵",
+      "onboard_time": 1763042601,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 112453,
@@ -2091,12 +2155,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112063,
-      "num": 112063,
-      "word": "艾玛沃特森35岁状态",
-      "onboard_time": 1763041642,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 111863,
+      "num": 182556,
+      "word": "开插混的松弛感是大电池给的",
+      "onboard_time": 1763043321,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 111762,
@@ -2451,6 +2515,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 97942,
+      "num": 97942,
+      "word": "丁宁和王楚钦打招呼",
+      "onboard_time": 1763042121,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97503,
+      "num": 97503,
+      "word": "浙江队全运会体操女团冠军",
+      "onboard_time": 1763043862,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97268,
       "num": 97268,
       "word": "21天狠人减肥食谱",
@@ -2531,6 +2611,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94381,
+      "num": 94381,
+      "word": "浙江队100米混接金牌",
+      "onboard_time": 1763043501,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94120,
       "num": 114470,
       "word": "穆祉丞想演反派",
@@ -2571,6 +2659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 92905,
+      "num": 92905,
+      "word": "我国完成第一阶段6G技术试验",
+      "onboard_time": 1763043682,
+      "rank": 46,
+      "category": "国内时政,互联网"
+    },
+    {
       "raw_hot": 92477,
       "num": 92477,
       "word": "张亮给天天庆生",
@@ -2592,6 +2688,22 @@
       "word": "唐朝诡事录",
       "onboard_time": 1763029941,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91773,
+      "num": 99325,
+      "word": "任嘉伦蒸汽朋克造型",
+      "onboard_time": 1763043262,
+      "rank": 39,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 91745,
+      "num": 91745,
+      "word": "黄梦莹恶女赛道太权威了",
+      "onboard_time": 1763042182,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -2625,6 +2737,14 @@
       "onboard_time": 1763031081,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90557,
+      "num": 99302,
+      "word": "惊天魔盗团3爆米花桶",
+      "onboard_time": 1763043742,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 90254,
@@ -3636,7 +3756,7 @@
     },
     {
       "raw_hot": 35630,
-      "num": 126992,
+      "num": 149177,
       "word": "青海联通网络故障已修复",
       "onboard_time": 1763041702,
       "rank": 33,
@@ -3705,6 +3825,14 @@
       "onboard_time": 1763037621,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28488,
+      "num": 189519,
+      "word": "竞燃之夜致敬老将",
+      "onboard_time": 1763042482,
+      "rank": 14,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 28041,
@@ -3932,6 +4060,9 @@
     },
     {
       "word": "#习近平复信青年汉学家#"
+    },
+    {
+      "word": "#汉学源自中国属于世界#"
     }
   ]
 }
