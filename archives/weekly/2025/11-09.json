@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1762999207080,
+  "endTime": 1763000584452,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -489,6 +489,14 @@
       "onboard_time": 1762677260,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 800833,
+      "num": 1128133,
+      "word": "全红婵直播收入全部捐给乡村儿童",
+      "onboard_time": 1762995024,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 798914,
@@ -1316,7 +1324,7 @@
     },
     {
       "raw_hot": 504410,
-      "num": 175070,
+      "num": 220021,
       "word": "情侣是一种很诡异的亲密关系",
       "onboard_time": 1762959443,
       "rank": 43,
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 484427,
-      "num": 174735,
+      "num": 216848,
       "word": "影视飓风Tim相亲被嫌弃学历低",
       "onboard_time": 1762995142,
       "rank": 11,
@@ -1883,6 +1891,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 400260,
+      "num": 400260,
+      "word": "孙颖莎陈梦同框",
+      "onboard_time": 1762997480,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 399015,
       "num": 169315,
       "word": "王一博代言UGG",
@@ -2259,6 +2275,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 347412,
+      "num": 196933,
+      "word": "蒋易孙天宇",
+      "onboard_time": 1762997239,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 344947,
       "num": 302121,
       "word": "特朗普亲吻去世盟友柯克的遗孀",
@@ -2353,14 +2377,6 @@
       "onboard_time": 1762872982,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332700,
-      "num": 172538,
-      "word": "蒋易孙天宇",
-      "onboard_time": 1762997239,
-      "rank": 20,
-      "category": "综艺"
     },
     {
       "raw_hot": 332474,
@@ -2516,7 +2532,7 @@
     },
     {
       "raw_hot": 321283,
-      "num": 174106,
+      "num": 179331,
       "word": "上海地铁",
       "onboard_time": 1762994840,
       "rank": 14,
@@ -2579,14 +2595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 313537,
-      "num": 313537,
-      "word": "全红婵直播收入全部捐给乡村儿童",
-      "onboard_time": 1762995024,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 312860,
       "num": 385966,
       "word": "阿坝大桥垮塌前已发现险情",
@@ -2641,6 +2649,14 @@
       "onboard_time": 1762648397,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 304678,
+      "num": 213057,
+      "word": "我没有教师资格证所以在下面讲",
+      "onboard_time": 1762996700,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 302476,
@@ -2769,6 +2785,14 @@
       "onboard_time": 1762615883,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 293029,
+      "num": 195079,
+      "word": "第一批爱熬夜的受害者出现了",
+      "onboard_time": 1762995081,
+      "rank": 21,
+      "category": "幽默"
     },
     {
       "raw_hot": 293015,
@@ -3059,14 +3083,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 274052,
-      "num": 172287,
-      "word": "第一批爱熬夜的受害者出现了",
-      "onboard_time": 1762995081,
-      "rank": 21,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 273946,
       "num": 273946,
       "word": "男子帮邻居关液化气瓶遇爆炸离世",
@@ -3195,6 +3211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261478,
+      "num": 192398,
+      "word": "Psy.P向老婆道歉",
+      "onboard_time": 1762998440,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261455,
       "num": 261455,
       "word": "银行App迎来关停潮",
@@ -3275,14 +3299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253169,
-      "num": 253169,
-      "word": "孙颖莎陈梦同框",
-      "onboard_time": 1762997480,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 252506,
       "num": 252506,
       "word": "唐诡3把观众写进剧里",
@@ -3305,6 +3321,14 @@
       "onboard_time": 1762649538,
       "rank": 0,
       "category": "体育,国内时政"
+    },
+    {
+      "raw_hot": 250805,
+      "num": 207386,
+      "word": "章泽天朱珠同框",
+      "onboard_time": 1762998261,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 250106,
@@ -3489,6 +3513,14 @@
       "onboard_time": 1762686920,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 237088,
+      "num": 237088,
+      "word": "导演回应大湾鸡选武校娃",
+      "onboard_time": 1762998980,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 236604,
@@ -4628,7 +4660,7 @@
     },
     {
       "raw_hot": 187188,
-      "num": 187188,
+      "num": 226353,
       "word": "韩网爆料zeus疑似来LPL",
       "onboard_time": 1762991539,
       "rank": 6,
@@ -4811,6 +4843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179908,
+      "num": 179908,
+      "word": "女子称咖啡灌肠能清血毒",
+      "onboard_time": 1762994241,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178865,
       "num": 191039,
       "word": "上海交大非全日制会计博士学费78万",
@@ -4844,7 +4884,7 @@
     },
     {
       "raw_hot": 177984,
-      "num": 177984,
+      "num": 225766,
       "word": "日本敢介入台海吗",
       "onboard_time": 1762956024,
       "rank": 29,
@@ -5067,14 +5107,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 171702,
-      "num": 171702,
-      "word": "女子称咖啡灌肠能清血毒",
-      "onboard_time": 1762994241,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 171565,
       "num": 171565,
       "word": "张晚意一唱慢冷就哭",
@@ -5128,14 +5160,6 @@
       "word": "王鹤棣这是喝了多少",
       "onboard_time": 1762835720,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 170268,
-      "num": 170268,
-      "word": "Psy.P向老婆道歉",
-      "onboard_time": 1762998440,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -5441,14 +5465,6 @@
       "onboard_time": 1762953441,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 161025,
-      "num": 173488,
-      "word": "章泽天朱珠同框",
-      "onboard_time": 1762998261,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 160842,
@@ -6073,6 +6089,14 @@
       "onboard_time": 1762960941,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147342,
+      "num": 111085,
+      "word": "乌克兰停止与俄罗斯谈判",
+      "onboard_time": 1762999460,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147049,
@@ -7620,7 +7644,7 @@
     },
     {
       "raw_hot": 121481,
-      "num": 173303,
+      "num": 204057,
       "word": "肖战新剧紧张感拉满",
       "onboard_time": 1762990339,
       "rank": 9,
@@ -7713,14 +7737,6 @@
       "onboard_time": 1762610422,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119950,
-      "num": 119950,
-      "word": "我没有教师资格证所以在下面讲",
-      "onboard_time": 1762996700,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 119941,
@@ -8083,6 +8099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115558,
+      "num": 132117,
+      "word": "易烊千玺4年4提金鸡奖最佳男主角",
+      "onboard_time": 1762995680,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115453,
       "num": 115475,
       "word": "新闻女王2港百",
@@ -8137,14 +8161,6 @@
       "onboard_time": 1762844720,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 114688,
-      "num": 132117,
-      "word": "易烊千玺4年4提金鸡奖最佳男主角",
-      "onboard_time": 1762995680,
-      "rank": 29,
-      "category": "电影"
     },
     {
       "raw_hot": 114645,
@@ -8625,6 +8641,14 @@
       "onboard_time": 1762669700,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108109,
+      "num": 108109,
+      "word": "爱喝咖啡的人或更显年轻",
+      "onboard_time": 1762998920,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108033,
@@ -9393,6 +9417,14 @@
       "onboard_time": 1762759400,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101158,
+      "num": 172709,
+      "word": "全运会100自潘展乐轻松晋级",
+      "onboard_time": 1762998679,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 101133,
@@ -10419,6 +10451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92477,
+      "num": 92477,
+      "word": "张亮给天天庆生",
+      "onboard_time": 1762997419,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92418,
       "num": 161503,
       "word": "背背佳和8848手机是同一个人创立",
@@ -10883,6 +10923,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 88799,
+      "num": 88799,
+      "word": "怪不得西餐又叫简餐",
+      "onboard_time": 1762997779,
+      "rank": 39,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88741,
       "num": 88741,
       "word": "继母虐待12岁女孩致死维持死刑",
@@ -10977,14 +11025,6 @@
       "onboard_time": 1762932800,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 88116,
-      "num": 88116,
-      "word": "怪不得西餐又叫简餐",
-      "onboard_time": 1762997779,
-      "rank": 39,
-      "category": "美食"
     },
     {
       "raw_hot": 88029,
@@ -11420,7 +11460,7 @@
     },
     {
       "raw_hot": 84249,
-      "num": 173200,
+      "num": 202123,
       "word": "裴喜君情敌",
       "onboard_time": 1762959862,
       "rank": 46,
@@ -11513,6 +11553,14 @@
       "onboard_time": 1762742959,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82904,
+      "num": 82904,
+      "word": "美政府关门43天后",
+      "onboard_time": 1763000480,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82853,
@@ -11723,6 +11771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 80613,
+      "num": 80613,
+      "word": "Steam主机公开",
+      "onboard_time": 1762999941,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 80562,
       "num": 80562,
       "word": "比尔赛季报销",
@@ -11859,14 +11915,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 79451,
-      "num": 79451,
-      "word": "张亮给天天庆生",
-      "onboard_time": 1762997419,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79436,
       "num": 79436,
       "word": "小鹏汽车大涨超16%",
@@ -11923,6 +11971,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78336,
+      "num": 78336,
+      "word": "苹果17系列强势霸榜前3",
+      "onboard_time": 1762999399,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78282,
       "num": 78282,
       "word": "英伟达市值一夜大增超1.8万亿",
@@ -11948,7 +12004,7 @@
     },
     {
       "raw_hot": 78183,
-      "num": 78183,
+      "num": 79332,
       "word": "你用的手机壳可能有毒",
       "onboard_time": 1762996820,
       "rank": 45,
@@ -12025,14 +12081,6 @@
       "onboard_time": 1762818441,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 77522,
-      "num": 77522,
-      "word": "爱喝咖啡的人或更显年轻",
-      "onboard_time": 1762998920,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 77331,
@@ -12459,6 +12507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72819,
+      "num": 72819,
+      "word": "勇士vs马刺",
+      "onboard_time": 1762999521,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72779,
       "num": 72779,
       "word": "肖战一定是昨晚没睡够",
@@ -12473,6 +12529,14 @@
       "onboard_time": 1762922601,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72728,
+      "num": 72728,
+      "word": "王者新匹配机制本周上线",
+      "onboard_time": 1762998021,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 72700,
@@ -13027,14 +13091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 64157,
-      "num": 124839,
-      "word": "导演回应大湾鸡选武校娃",
-      "onboard_time": 1762998980,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 63907,
       "num": 210084,
       "word": "空军微电影说有新家伙",
@@ -13449,6 +13505,14 @@
       "onboard_time": 1762903636,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 57002,
+      "num": 199982,
+      "word": "今天大降温天猫又发补贴了",
+      "onboard_time": 1762999640,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 56918,
@@ -13873,6 +13937,14 @@
       "onboard_time": 1762678639,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48409,
+      "num": 316298,
+      "word": "网警查处虚构事实扰乱公共秩序案",
+      "onboard_time": 1762994301,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48283,
@@ -14435,14 +14507,6 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 40178,
-      "num": 316298,
-      "word": "网警查处虚构事实扰乱公共秩序案",
-      "onboard_time": 1762994301,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40016,
       "num": 163923,
       "word": "李莎旻子音乐节后台吃上盐水鸭了",
@@ -14931,14 +14995,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 30576,
-      "num": 172709,
-      "word": "全运会100自潘展乐轻松晋级",
-      "onboard_time": 1762998679,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 30395,
       "num": 30205,
       "word": "非洲十二少",
@@ -15376,6 +15432,14 @@
       "word": "唐钱婷说自己和自己比",
       "onboard_time": 1762941921,
       "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 20067,
+      "num": 89976,
+      "word": "林高远刘诗雯vs袁励岑王艺迪",
+      "onboard_time": 1763000538,
+      "rank": 36,
       "category": "体育"
     },
     {

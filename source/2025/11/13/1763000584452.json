@@ -1,0 +1,410 @@
+{
+  "runTime": 1763000584452,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 800833,
+        "num": 1128133,
+        "word": "全红婵直播收入全部捐给乡村儿童",
+        "onboard_time": 1762995024,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 400260,
+        "num": 400260,
+        "word": "孙颖莎陈梦同框",
+        "onboard_time": 1762997480,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48409,
+        "num": 258329,
+        "word": "网警查处虚构事实扰乱公共秩序案",
+        "onboard_time": 1762994301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244760,
+        "num": 244760,
+        "word": "穿普拉达的女王2首支预告",
+        "onboard_time": 1762991659,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 237088,
+        "num": 237088,
+        "word": "导演回应大湾鸡选武校娃",
+        "onboard_time": 1762998980,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 231111,
+        "num": 231111,
+        "word": "高市早苗妄谈台海震惊日本舆论",
+        "onboard_time": 1762989258,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228168,
+        "num": 228168,
+        "word": "奇瑞致歉",
+        "onboard_time": 1762989918,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172048,
+        "num": 226353,
+        "word": "韩网爆料zeus疑似来LPL",
+        "onboard_time": 1762991539,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169394,
+        "num": 225766,
+        "word": "日本敢介入台海吗",
+        "onboard_time": 1762956024,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159460,
+        "num": 223236,
+        "word": "唐诡3第9集10分15秒",
+        "onboard_time": 1762951522,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 408804,
+        "num": 220021,
+        "word": "情侣是一种很诡异的亲密关系",
+        "onboard_time": 1762959443,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 400649,
+        "num": 216848,
+        "word": "影视飓风Tim相亲被嫌弃学历低",
+        "onboard_time": 1762995142,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324785,
+        "num": 214908,
+        "word": "小孩试戴金镯子10秒被要求赔偿千元",
+        "onboard_time": 1762954582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304678,
+        "num": 213057,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 289709,
+        "num": 211202,
+        "word": "丈夫结扎9个月后妻子又怀孕",
+        "onboard_time": 1762955664,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272514,
+        "num": 207572,
+        "word": "孙杨因犯规被取消成绩",
+        "onboard_time": 1762950323,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250805,
+        "num": 207386,
+        "word": "章泽天朱珠同框",
+        "onboard_time": 1762998261,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101344,
+        "num": 204057,
+        "word": "肖战新剧紧张感拉满",
+        "onboard_time": 1762990339,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76209,
+        "num": 202123,
+        "word": "裴喜君情敌",
+        "onboard_time": 1762959862,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57002,
+        "num": 199982,
+        "word": "今天大降温天猫又发补贴了",
+        "onboard_time": 1762999640,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347412,
+        "num": 196933,
+        "word": "蒋易孙天宇",
+        "onboard_time": 1762997239,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293029,
+        "num": 195079,
+        "word": "第一批爱熬夜的受害者出现了",
+        "onboard_time": 1762995081,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 261478,
+        "num": 192398,
+        "word": "Psy.P向老婆道歉",
+        "onboard_time": 1762998440,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191293,
+        "num": 191293,
+        "word": "朱媛媛去世六个月辛柏青状态",
+        "onboard_time": 1762946959,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179908,
+        "num": 179908,
+        "word": "女子称咖啡灌肠能清血毒",
+        "onboard_time": 1762994241,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179331,
+        "num": 179331,
+        "word": "上海地铁",
+        "onboard_time": 1762994840,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163497,
+        "num": 163497,
+        "word": "天天18岁了",
+        "onboard_time": 1762991780,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139811,
+        "num": 139811,
+        "word": "西方多富豪被控付费射杀平民取乐",
+        "onboard_time": 1762996101,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115558,
+        "num": 115558,
+        "word": "易烊千玺4年4提金鸡奖最佳男主角",
+        "onboard_time": 1762995680,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101158,
+        "num": 111903,
+        "word": "全运会100自潘展乐轻松晋级",
+        "onboard_time": 1762998679,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147342,
+        "num": 111085,
+        "word": "乌克兰停止与俄罗斯谈判",
+        "onboard_time": 1762999460,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108806,
+        "num": 108806,
+        "word": "相亲第2天闪婚妻子考驾照一去不回",
+        "onboard_time": 1762989197,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108109,
+        "num": 108109,
+        "word": "爱喝咖啡的人或更显年轻",
+        "onboard_time": 1762998920,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97371,
+        "num": 97371,
+        "word": "梅尼耶要结婚了",
+        "onboard_time": 1762953141,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95253,
+        "num": 95253,
+        "word": "青岛女子刷到丢失三个月的狗在长沙",
+        "onboard_time": 1762989258,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92477,
+        "num": 92477,
+        "word": "张亮给天天庆生",
+        "onboard_time": 1762997419,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20067,
+        "num": 89976,
+        "word": "林高远刘诗雯vs袁励岑王艺迪",
+        "onboard_time": 1763000538,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88799,
+        "num": 88799,
+        "word": "怪不得西餐又叫简餐",
+        "onboard_time": 1762997779,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87139,
+        "num": 87139,
+        "word": "续面事件老板回应被女顾客起诉",
+        "onboard_time": 1762962800,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82904,
+        "num": 82904,
+        "word": "美政府关门43天后",
+        "onboard_time": 1763000480,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80613,
+        "num": 80613,
+        "word": "Steam主机公开",
+        "onboard_time": 1762999941,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 79785,
+        "num": 79785,
+        "word": "反杀狗主人女儿称父亲系自卫",
+        "onboard_time": 1762966876,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77224,
+        "num": 79332,
+        "word": "你用的手机壳可能有毒",
+        "onboard_time": 1762996820,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 79282,
+        "num": 79282,
+        "word": "无印良品 过度包装",
+        "onboard_time": 1762948341,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78336,
+        "num": 78336,
+        "word": "苹果17系列强势霸榜前3",
+        "onboard_time": 1762999399,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 77943,
+        "num": 77943,
+        "word": "老人味的显性特征之一",
+        "onboard_time": 1762989318,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 74730,
+        "num": 74730,
+        "word": "章泽天尽量每天7点起床",
+        "onboard_time": 1762957404,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72819,
+        "num": 72819,
+        "word": "勇士vs马刺",
+        "onboard_time": 1762999521,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72728,
+        "num": 72728,
+        "word": "王者新匹配机制本周上线",
+        "onboard_time": 1762998021,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69176,
+        "num": 69176,
+        "word": "孙颖莎王曼昱陈梦等冲4强",
+        "onboard_time": 1762994241,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平欢迎西班牙国王访华#"
+    }
+  }
+}
