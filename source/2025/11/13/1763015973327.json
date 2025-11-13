@@ -1,0 +1,410 @@
+{
+  "runTime": 1763015973327,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 529849,
+        "num": 1084775,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 346874,
+        "num": 346874,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3951,
+        "num": 301143,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398358,
+        "num": 294227,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359566,
+        "num": 277809,
+        "word": "世界乒乓球冠军利用影响力受贿获刑",
+        "onboard_time": 1763013800,
+        "rank": 4,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 256448,
+        "num": 256448,
+        "word": "李晨在跑男那一套不管用了",
+        "onboard_time": 1763010740,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184299,
+        "num": 184299,
+        "word": "不允许城镇居民到农村买农房",
+        "onboard_time": 1763007561,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179167,
+        "num": 179167,
+        "word": "警方回应路虎撞飞持刀男子",
+        "onboard_time": 1763013500,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160378,
+        "num": 160378,
+        "word": "中国黄金回应试戴金镯10秒被索赔1000",
+        "onboard_time": 1763005461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 147283,
+        "num": 147283,
+        "word": "星辰大海 曹骏",
+        "onboard_time": 1763008641,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293460,
+        "num": 147025,
+        "word": "小猫去世后猫厕所弹出的提示",
+        "onboard_time": 1763006240,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 263601,
+        "num": 141169,
+        "word": "暗河传戏服卖掉了",
+        "onboard_time": 1763012061,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235770,
+        "num": 137782,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 191967,
+        "num": 135387,
+        "word": "李施嬅 再见爱人不是追女孩的节目",
+        "onboard_time": 1763012841,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 34613,
+        "num": 131656,
+        "word": "竞燃之夜好多冠军",
+        "onboard_time": 1763013680,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191434,
+        "num": 125162,
+        "word": "张凌赫带50只螃蟹来蘑菇屋",
+        "onboard_time": 1763008882,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149888,
+        "num": 120893,
+        "word": "李一桐方严正声明",
+        "onboard_time": 1763015240,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120280,
+        "num": 120280,
+        "word": "白鹿回应哭了",
+        "onboard_time": 1763015061,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113481,
+        "num": 113481,
+        "word": "李宏毅你知道我等了三年吗",
+        "onboard_time": 1763006361,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110914,
+        "num": 110914,
+        "word": "从KK园区逃离者被当货物转卖",
+        "onboard_time": 1763010920,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 578215,
+        "num": 107055,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 312980,
+        "num": 105099,
+        "word": "黄晓明48岁生日镜像成了84岁",
+        "onboard_time": 1763002340,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276272,
+        "num": 104010,
+        "word": "宋祖儿腿太细了",
+        "onboard_time": 1763005160,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100673,
+        "num": 100673,
+        "word": "汪苏泷 抢票",
+        "onboard_time": 1763011042,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201597,
+        "num": 98335,
+        "word": "王楚钦说全运会爆冷是平常事",
+        "onboard_time": 1763008522,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160200,
+        "num": 96807,
+        "word": "陈梦有望冲击超级大满贯",
+        "onboard_time": 1763015119,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132571,
+        "num": 93737,
+        "word": "卢昱晓跪下和粉丝合照",
+        "onboard_time": 1763005940,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118075,
+        "num": 91200,
+        "word": "王一博换发型了",
+        "onboard_time": 1763010681,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90483,
+        "num": 90483,
+        "word": "三人行",
+        "onboard_time": 1763015481,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73111,
+        "num": 85104,
+        "word": "樊振东十五运4强",
+        "onboard_time": 1763004801,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101238,
+        "num": 84897,
+        "word": "陈梦曾说9个月没训练能力完全消失",
+        "onboard_time": 1763014701,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84595,
+        "num": 84595,
+        "word": "韩国费列罗巧克力或全面换成中国产",
+        "onboard_time": 1763015362,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84186,
+        "num": 84186,
+        "word": "白鹿直播",
+        "onboard_time": 1763012301,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83642,
+        "num": 83642,
+        "word": "一个普通县城家庭的35年",
+        "onboard_time": 1763012721,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78800,
+        "num": 78800,
+        "word": "小时候感冒vs长大后感冒",
+        "onboard_time": 1763006421,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 76258,
+        "num": 76258,
+        "word": "韩网爆料T1转会动态",
+        "onboard_time": 1763014521,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76078,
+        "num": 76078,
+        "word": "我宣布高铁上不只是有熊孩子",
+        "onboard_time": 1763013922,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68361,
+        "num": 75171,
+        "word": "再见爱人",
+        "onboard_time": 1763014521,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64331,
+        "num": 75164,
+        "word": "82岁富豪将近25亿元股票分给两女",
+        "onboard_time": 1763015600,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75161,
+        "num": 75161,
+        "word": "韩网爆料Doran续约",
+        "onboard_time": 1763013320,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 22020,
+        "num": 74262,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1763015420,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73470,
+        "num": 73470,
+        "word": "陈梦说第4局处理差一点可能就输了",
+        "onboard_time": 1763015301,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72379,
+        "num": 72379,
+        "word": "K总自曝被粉丝装惨骗钱",
+        "onboard_time": 1763015720,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 72178,
+        "num": 72178,
+        "word": "陈梦十五运4强",
+        "onboard_time": 1763015901,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71251,
+        "num": 71251,
+        "word": "不要虐待胡歌了",
+        "onboard_time": 1763013980,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70169,
+        "num": 70169,
+        "word": "原来这些头像都是赵佳丽",
+        "onboard_time": 1763014580,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62384,
+        "num": 69315,
+        "word": "不锈钢勺子 售价1300元",
+        "onboard_time": 1763013621,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 69219,
+        "num": 69219,
+        "word": "女子捡到手机被抓后拒绝归还",
+        "onboard_time": 1763015841,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66768,
+        "num": 66768,
+        "word": "长隆回应女子带狗被拒崩溃打砸",
+        "onboard_time": 1763015901,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66041,
+        "num": 66041,
+        "word": "原来这是缺爱的表现",
+        "onboard_time": 1763014281,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个个瞬间感受总书记的关切事#"
+    }
+  }
+}

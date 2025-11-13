@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763012636372,
+  "endTime": 1763015973327,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 654671,
-      "num": 654671,
+      "num": 1084775,
       "word": "奇瑞4次致歉也修复不了天梯之伤",
       "onboard_time": 1763005820,
       "rank": 15,
@@ -235,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 359566,
+      "num": 277809,
+      "word": "世界乒乓球冠军利用影响力受贿获刑",
+      "onboard_time": 1763013800,
+      "rank": 4,
+      "category": "民生新闻,体育"
+    },
+    {
       "raw_hot": 356621,
       "num": 356621,
       "word": "内娱综艺收官濒临破产散伙",
@@ -379,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 263601,
+      "num": 152015,
+      "word": "暗河传戏服卖掉了",
+      "onboard_time": 1763012061,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 262648,
       "num": 237238,
       "word": "小天才电话手表已成社交硬通货",
@@ -499,6 +515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 191967,
+      "num": 135387,
+      "word": "李施嬅 再见爱人不是追女孩的节目",
+      "onboard_time": 1763012841,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188463,
       "num": 188463,
       "word": "李冰冰 状元郎",
@@ -552,6 +576,14 @@
       "word": "女子称咖啡灌肠能清血毒",
       "onboard_time": 1762994241,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179167,
+      "num": 179167,
+      "word": "警方回应路虎撞飞持刀男子",
+      "onboard_time": 1763013500,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -611,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160200,
+      "num": 96807,
+      "word": "陈梦有望冲击超级大满贯",
+      "onboard_time": 1763015119,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157155,
       "num": 157155,
       "word": "周冬雨张雅钦时隔4年居然还有售后",
@@ -659,20 +699,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 152015,
-      "num": 152015,
-      "word": "暗河传戏服卖掉了",
-      "onboard_time": 1763012061,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 150123,
       "num": 119481,
       "word": "离婚证后面有囍字",
       "onboard_time": 1762933941,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149888,
+      "num": 120893,
+      "word": "李一桐方严正声明",
+      "onboard_time": 1763015240,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 149605,
@@ -851,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120280,
+      "num": 120280,
+      "word": "白鹿回应哭了",
+      "onboard_time": 1763015061,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119312,
       "num": 119312,
       "word": "林高远刘诗雯4比3袁励岑王艺迪",
@@ -1019,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101238,
+      "num": 84897,
+      "word": "陈梦曾说9个月没训练能力完全消失",
+      "onboard_time": 1763014701,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101158,
       "num": 172709,
       "word": "全运会100自潘展乐轻松晋级",
@@ -1123,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90483,
+      "num": 90483,
+      "word": "三人行",
+      "onboard_time": 1763015481,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 89697,
       "num": 89697,
       "word": "王艺迪挑战林高远发球失败",
@@ -1209,6 +1273,22 @@
       "onboard_time": 1763004801,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 84595,
+      "num": 84595,
+      "word": "韩国费列罗巧克力或全面换成中国产",
+      "onboard_time": 1763015362,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83642,
+      "num": 83642,
+      "word": "一个普通县城家庭的35年",
+      "onboard_time": 1763012721,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 82904,
@@ -1355,6 +1435,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 76258,
+      "num": 76258,
+      "word": "韩网爆料T1转会动态",
+      "onboard_time": 1763014521,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 76078,
+      "num": 76078,
+      "word": "我宣布高铁上不只是有熊孩子",
+      "onboard_time": 1763013922,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 76054,
       "num": 105746,
       "word": "张博恒全运会男团亚军",
@@ -1363,12 +1459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75161,
+      "num": 75161,
+      "word": "韩网爆料Doran续约",
+      "onboard_time": 1763013320,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 73783,
       "num": 73783,
       "word": "爱凑热闹的除了人还有猫",
       "onboard_time": 1763004079,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73470,
+      "num": 73470,
+      "word": "陈梦说第4局处理差一点可能就输了",
+      "onboard_time": 1763015301,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 72819,
@@ -1387,12 +1499,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72379,
+      "num": 72379,
+      "word": "K总自曝被粉丝装惨骗钱",
+      "onboard_time": 1763015720,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 72178,
+      "num": 72178,
+      "word": "陈梦十五运4强",
+      "onboard_time": 1763015901,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71926,
       "num": 71926,
       "word": "现在的泡面都进化成这样了吗",
       "onboard_time": 1762989318,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 71251,
+      "num": 71251,
+      "word": "不要虐待胡歌了",
+      "onboard_time": 1763013980,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 71215,
@@ -1419,6 +1555,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 70169,
+      "num": 70169,
+      "word": "原来这些头像都是赵佳丽",
+      "onboard_time": 1763014580,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69936,
       "num": 75885,
       "word": "毛晓彤央视战绩可查",
@@ -1443,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69219,
+      "num": 69219,
+      "word": "女子捡到手机被抓后拒绝归还",
+      "onboard_time": 1763015841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68890,
       "num": 90413,
       "word": "白鹿庆祝与呵呵十周年",
@@ -1451,12 +1603,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68361,
+      "num": 75171,
+      "word": "再见爱人",
+      "onboard_time": 1763014521,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 68135,
       "num": 105562,
       "word": "开车叼牙线男子处罚被撤销",
       "onboard_time": 1763004739,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66768,
+      "num": 66768,
+      "word": "长隆回应女子带狗被拒崩溃打砸",
+      "onboard_time": 1763015901,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66041,
+      "num": 66041,
+      "word": "原来这是缺爱的表现",
+      "onboard_time": 1763014281,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 65190,
@@ -1475,12 +1651,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 64331,
+      "num": 75164,
+      "word": "82岁富豪将近25亿元股票分给两女",
+      "onboard_time": 1763015600,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62510,
       "num": 166349,
       "word": "少吃甜食就不会得糖尿病吗",
       "onboard_time": 1763010321,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62384,
+      "num": 69315,
+      "word": "不锈钢勺子 售价1300元",
+      "onboard_time": 1763013621,
+      "rank": 46,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 62146,
@@ -1715,6 +1907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34613,
+      "num": 131656,
+      "word": "竞燃之夜好多冠军",
+      "onboard_time": 1763013680,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 33895,
       "num": 72152,
       "word": "林一卢昱晓杀青视频",
@@ -1803,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 22020,
+      "num": 74262,
+      "word": "相约第十五届全运会",
+      "onboard_time": 1763015420,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20985,
       "num": 27881,
       "word": "网友偶遇陈冠希父亲说父子俩很像",
@@ -1886,6 +2094,9 @@
   "hotgov_list": [
     {
       "word": "#习近平欢迎西班牙国王访华#"
+    },
+    {
+      "word": "#一个个瞬间感受总书记的关切事#"
     }
   ]
 }
