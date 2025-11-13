@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763072788033,
+  "endTime": 1763073751620,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -14395,6 +14395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 175754,
+      "num": 67564,
+      "word": "任嘉伦工作室手P错位了",
+      "onboard_time": 1763054596,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 175698,
       "num": 175698,
       "word": "李兰迪获奖感言",
@@ -14889,14 +14897,6 @@
       "onboard_time": 1762333523,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 170793,
-      "num": 67564,
-      "word": "任嘉伦工作室手P错位了",
-      "onboard_time": 1763054596,
-      "rank": 13,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 170792,
@@ -15723,6 +15723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163683,
+      "num": 481814,
+      "word": "王楚钦说樊振东世界最强",
+      "onboard_time": 1763051419,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163662,
       "num": 163662,
       "word": "Faker感谢KT",
@@ -15753,14 +15761,6 @@
       "onboard_time": 1762859480,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 163555,
-      "num": 437905,
-      "word": "王楚钦说樊振东世界最强",
-      "onboard_time": 1763051419,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 163488,
@@ -43315,6 +43315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44440,
+      "num": 35920,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 44435,
       "num": 74957,
       "word": "朱开说AL全员续约很难",
@@ -43875,6 +43883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40388,
+      "num": 35898,
+      "word": "宋祖儿上午杀青下午进组",
+      "onboard_time": 1763058015,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40346,
       "num": 71522,
       "word": "原相机下的周冬雨马思纯",
@@ -44097,14 +44113,6 @@
       "onboard_time": 1762770501,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39055,
-      "num": 35920,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 38965,
@@ -45219,14 +45227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30981,
-      "num": 35898,
-      "word": "宋祖儿上午杀青下午进组",
-      "onboard_time": 1763058015,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 30950,
       "num": 494417,
       "word": "13岁小将打破沉寂13年纪录",
@@ -45971,6 +45971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25720,
+      "num": 35321,
+      "word": "孙颖莎打削球累得嚼香蕉退场",
+      "onboard_time": 1763069294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25639,
       "num": 87026,
       "word": "今年都有谁有效播剧了",
@@ -46081,6 +46089,14 @@
       "onboard_time": 1762522401,
       "rank": 42,
       "category": "美食"
+    },
+    {
+      "raw_hot": 24809,
+      "num": 35670,
+      "word": "快递员因送错快递被杀家属发声",
+      "onboard_time": 1763060293,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24714,
@@ -46219,14 +46235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 23635,
-      "num": 29265,
-      "word": "孙颖莎打削球累得嚼香蕉退场",
-      "onboard_time": 1763069294,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23593,
       "num": 319382,
       "word": "福建舰将成为南海的定海神针",
@@ -46273,6 +46281,14 @@
       "onboard_time": 1762342699,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23355,
+      "num": 35271,
+      "word": "心动的信号2吴沛官宣生娃",
+      "onboard_time": 1763060655,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 23335,
@@ -46547,14 +46563,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 20808,
-      "num": 35670,
-      "word": "快递员因送错快递被杀家属发声",
-      "onboard_time": 1763060293,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20717,
       "num": 188102,
       "word": "竞燃上分局",
@@ -46667,6 +46675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19771,
+      "num": 35197,
+      "word": "孙颖莎非常期待半决赛",
+      "onboard_time": 1763065813,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19750,
       "num": 103121,
       "word": "掉进李沁的魅力陷阱",
@@ -46715,12 +46731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19094,
+      "num": 35184,
+      "word": "王楚钦樊振东已交手32次",
+      "onboard_time": 1763065573,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 19090,
       "num": 29786,
       "word": "开幕式6棒火炬手",
       "onboard_time": 1762717934,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19023,
+      "num": 35703,
+      "word": "白鹿手势官宣定档",
+      "onboard_time": 1763061254,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 18987,
@@ -46747,14 +46779,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18933,
-      "num": 29251,
-      "word": "心动的信号2吴沛官宣生娃",
-      "onboard_time": 1763060655,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 18829,
       "num": 88131,
       "word": "北上广深开满咖啡主理人门店",
@@ -46779,14 +46803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 18703,
-      "num": 29246,
-      "word": "孙颖莎非常期待半决赛",
-      "onboard_time": 1763065813,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 18664,
       "num": 298381,
       "word": "音乐节也能抢红包",
@@ -46801,6 +46817,14 @@
       "onboard_time": 1762764321,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18578,
+      "num": 35165,
+      "word": "烫直头发真的很伤发质",
+      "onboard_time": 1763073436,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 18554,
@@ -46873,6 +46897,14 @@
       "onboard_time": 1762289114,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 18074,
+      "num": 35151,
+      "word": "小孩试金手镯被索赔1000实赔100",
+      "onboard_time": 1763071934,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18057,
@@ -47107,6 +47139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16483,
+      "num": 35108,
+      "word": "女单四强神仙打架",
+      "onboard_time": 1763065875,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 16367,
       "num": 706925,
       "word": "十五五规划纲要问计求策",
@@ -47115,18 +47155,10 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 16297,
-      "num": 29234,
-      "word": "王楚钦樊振东已交手32次",
-      "onboard_time": 1763065573,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 16253,
-      "num": 29231,
-      "word": "女单四强神仙打架",
-      "onboard_time": 1763065875,
+      "raw_hot": 16034,
+      "num": 35089,
+      "word": "孙颖莎晋级四强",
+      "onboard_time": 1763065333,
       "rank": 40,
       "category": "体育"
     },
@@ -47195,14 +47227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15323,
-      "num": 29216,
-      "word": "小孩试金手镯被索赔1000实赔100",
-      "onboard_time": 1763071934,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15299,
       "num": 123554,
       "word": "员工感叹卖79是不敬业还是说实话",
@@ -47233,14 +47257,6 @@
       "onboard_time": 1762792339,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 14823,
-      "num": 29215,
-      "word": "孙颖莎晋级四强",
-      "onboard_time": 1763065333,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 14753,
@@ -47473,14 +47489,6 @@
       "onboard_time": 1762283174,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12715,
-      "num": 35703,
-      "word": "白鹿手势官宣定档",
-      "onboard_time": 1763061254,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 12643,

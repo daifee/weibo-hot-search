@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/14 06:26:28
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/14 06:42:31
 </p>
 </blockquote>
 <p>
@@ -4533,6 +4533,12 @@ A股逾百股涨停（热度：186433）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%89%8BP%E9%94%99%E4%BD%8D%E4%BA%86%23" target="weibo">
+任嘉伦工作室手P错位了（热度：175754）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
 无限暖暖（热度：175711）
 </a>
@@ -4667,12 +4673,6 @@ Faker 岩雀神（热度：172009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E9%81%87%E5%88%B0%E4%BA%86%E6%9C%80%E6%87%82%E4%BB%96%E7%9A%84%E6%90%AD%E5%AD%90%23" target="weibo">
 侯明昊遇到了最懂他的搭子（热度：170822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%89%8BP%E9%94%99%E4%BD%8D%E4%BA%86%23" target="weibo">
-任嘉伦工作室手P错位了（热度：170793）
 </a>
 </li>
 
@@ -4899,6 +4899,12 @@ Bang回应被Gumayusi超越（热度：163952）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%23" target="weibo">
+王楚钦说樊振东世界最强（热度：163683）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E6%84%9F%E8%B0%A2KT%23" target="weibo">
 Faker感谢KT（热度：163662）
 </a>
@@ -4913,12 +4919,6 @@ Faker感谢KT（热度：163662）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%8F%AF%E5%AF%85%E7%9A%84%E7%BA%A2%E5%8C%85%23" target="weibo">
 谢可寅的红包（热度：163572）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%96%E7%95%8C%E6%9C%80%E5%BC%BA%23" target="weibo">
-王楚钦说樊振东世界最强（热度：163555）
 </a>
 </li>
 
@@ -12963,6 +12963,12 @@ Gumayusi趣评oner蒙多（热度：45899）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8A%A6%E7%94%B0%E7%88%B1%E8%8F%9C%E4%B8%BA%E6%8B%93%E5%AE%BD%E5%BD%A2%E8%B1%A1%E6%94%B9%E5%8F%98%E5%A6%86%E5%AE%B9%23" target="weibo">
+芦田爱菜为拓宽形象改变妆容（热度：44440）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%87%E8%80%B3%E5%85%89%E5%A4%A7%E8%B5%9B%E5%8F%97%E4%BC%A4%E4%B8%AD%E5%9B%BD%E9%80%89%E6%89%8B%E7%A7%B0%E9%9C%80%E6%89%8B%E6%9C%AF%23" target="weibo">
 扇耳光大赛受伤中国选手称需手术（热度：44356）
 </a>
@@ -13185,6 +13191,12 @@ Kkoma谈T1三连冠（热度：41736）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E4%B8%8A%E5%8D%88%E6%9D%80%E9%9D%92%E4%B8%8B%E5%8D%88%E8%BF%9B%E7%BB%84%23" target="weibo">
+宋祖儿上午杀青下午进组（热度：40388）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%9C%89%E5%9C%A8%E8%AE%A4%E7%9C%9F%E8%BF%87%E5%86%AC%E5%A4%A9%23" target="weibo">
 刘宇宁有在认真过冬天（热度：40340）
 </a>
@@ -13235,12 +13247,6 @@ LadyDior手袋十年艺术之旅（热度：40221）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%99%B6%E6%99%B6%E7%81%AB%E7%82%AC%E6%89%8B%E5%8F%91%E6%96%87%23" target="weibo">
 郭晶晶火炬手发文（热度：39059）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%A6%E7%94%B0%E7%88%B1%E8%8F%9C%E4%B8%BA%E6%8B%93%E5%AE%BD%E5%BD%A2%E8%B1%A1%E6%94%B9%E5%8F%98%E5%A6%86%E5%AE%B9%23" target="weibo">
-芦田爱菜为拓宽形象改变妆容（热度：39055）
 </a>
 </li>
 
@@ -13605,12 +13611,6 @@ F1（热度：32426）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E4%B8%8A%E5%8D%88%E6%9D%80%E9%9D%92%E4%B8%8B%E5%8D%88%E8%BF%9B%E7%BB%84%23" target="weibo">
-宋祖儿上午杀青下午进组（热度：30981）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2313%E5%B2%81%E5%B0%8F%E5%B0%86%E6%89%93%E7%A0%B4%E6%B2%89%E5%AF%8213%E5%B9%B4%E7%BA%AA%E5%BD%95%23" target="weibo">
 13岁小将打破沉寂13年纪录（热度：30950）
 </a>
@@ -13851,6 +13851,12 @@ Gumayusi晒奖杯照（热度：30905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%89%93%E5%89%8A%E7%90%83%E7%B4%AF%E5%BE%97%E5%9A%BC%E9%A6%99%E8%95%89%E9%80%80%E5%9C%BA%23" target="weibo">
+孙颖莎打削球累得嚼香蕉退场（热度：25720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%BF%E5%AE%9D%E6%98%8C%E9%80%9D%E4%B8%96%23" target="weibo">
 耿宝昌逝世（热度：25543）
 </a>
@@ -13877,6 +13883,12 @@ Gumayusi晒奖杯照（热度：30905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%B9%E9%BA%A6%E4%BA%BA%E7%9A%84%E5%A2%93%E5%9C%B0%23" target="weibo">
 丹麦人的墓地（热度：24883）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E5%9B%A0%E9%80%81%E9%94%99%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9D%80%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
+快递员因送错快递被杀家属发声（热度：24809）
 </a>
 </li>
 
@@ -13929,12 +13941,6 @@ Gumayusi晒奖杯照（热度：30905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%89%93%E5%89%8A%E7%90%83%E7%B4%AF%E5%BE%97%E5%9A%BC%E9%A6%99%E8%95%89%E9%80%80%E5%9C%BA%23" target="weibo">
-孙颖莎打削球累得嚼香蕉退场（热度：23635）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%A8%E5%88%86%E9%AB%98%E9%93%81%E5%8F%97%E5%8F%B0%E9%A3%8E%E5%BD%B1%E5%93%8D%E5%81%9C%E8%BF%90%23" target="weibo">
 部分高铁受台风影响停运（热度：23541）
 </a>
@@ -13943,6 +13949,12 @@ Gumayusi晒奖杯照（热度：30905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%88%B9%E8%88%B6%E4%B8%8E%E7%89%B9%E6%AE%8A%E5%86%9B%E8%BF%B7%E7%9A%84%E6%A2%A6%E5%B9%BB%E8%81%94%E5%8A%A8%23" target="weibo">
 中国船舶与特殊军迷的梦幻联动（热度：23517）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B72%E5%90%B4%E6%B2%9B%E5%AE%98%E5%AE%A3%E7%94%9F%E5%A8%83%23" target="weibo">
+心动的信号2吴沛官宣生娃（热度：23355）
 </a>
 </li>
 
@@ -13997,12 +14009,6 @@ Gumayusi晒奖杯照（热度：30905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%BF%E9%87%8C%E7%A7%98%E5%AF%86%E5%90%AF%E5%8A%A8%E5%8D%83%E9%97%AE%E9%A1%B9%E7%9B%AE%23" target="weibo">
 阿里秘密启动千问项目（热度：20872）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E5%9B%A0%E9%80%81%E9%94%99%E5%BF%AB%E9%80%92%E8%A2%AB%E6%9D%80%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
-快递员因送错快递被杀家属发声（热度：20808）
 </a>
 </li>
 
@@ -14067,6 +14073,12 @@ Gumayusi晒奖杯照（热度：30905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+孙颖莎非常期待半决赛（热度：19771）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%BC%9F%E9%9C%86%E6%99%92%E5%BA%86%E5%8A%9F%E5%AE%B4%E5%90%88%E7%85%A7%23" target="weibo">
 陈伟霆晒庆功宴合照（热度：19578）
 </a>
@@ -14085,8 +14097,20 @@ Gumayusi晒奖杯照（热度：30905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B7%B2%E4%BA%A4%E6%89%8B32%E6%AC%A1%23" target="weibo">
+王楚钦樊振东已交手32次（热度：19094）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E5%B9%95%E5%BC%8F6%E6%A3%92%E7%81%AB%E7%82%AC%E6%89%8B%23" target="weibo">
 开幕式6棒火炬手（热度：19090）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%89%8B%E5%8A%BF%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23" target="weibo">
+白鹿手势官宣定档（热度：19023）
 </a>
 </li>
 
@@ -14097,20 +14121,8 @@ Gumayusi晒奖杯照（热度：30905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%83%E5%8A%A8%E7%9A%84%E4%BF%A1%E5%8F%B72%E5%90%B4%E6%B2%9B%E5%AE%98%E5%AE%A3%E7%94%9F%E5%A8%83%23" target="weibo">
-心动的信号2吴沛官宣生娃（热度：18933）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A9%E5%AE%89%E9%BE%99%E9%81%93%E4%B8%80%E7%83%AD%E7%83%88%E7%9A%84%E5%B0%91%E5%B9%B4%23" target="weibo">
 早安龙道一热烈的少年（热度：18814）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%9D%9E%E5%B8%B8%E6%9C%9F%E5%BE%85%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
-孙颖莎非常期待半决赛（热度：18703）
 </a>
 </li>
 
@@ -14123,6 +14135,12 @@ Gumayusi晒奖杯照（热度：30905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%90%91%E6%AC%A7%E6%B4%B2%E8%AE%AE%E4%BC%9A%E6%8F%90%E5%87%BA%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%23" target="weibo">
 中方向欧洲议会提出严正交涉（热度：18652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%83%AB%E7%9B%B4%E5%A4%B4%E5%8F%91%E7%9C%9F%E7%9A%84%E5%BE%88%E4%BC%A4%E5%8F%91%E8%B4%A8%23" target="weibo">
+烫直头发真的很伤发质（热度：18578）
 </a>
 </li>
 
@@ -14147,6 +14165,12 @@ oner赛后发博（热度：18534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%B4%8B%E6%88%91%E7%9A%84%E7%A7%8B%E6%97%A5%E7%94%B7%E5%8F%8B%23" target="weibo">
 杨洋我的秋日男友（热度：18214）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%AF%95%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E7%B4%A2%E8%B5%941000%E5%AE%9E%E8%B5%94100%23" target="weibo">
+小孩试金手镯被索赔1000实赔100（热度：18074）
 </a>
 </li>
 
@@ -14223,20 +14247,20 @@ oner赛后发博（热度：18534）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%23" target="weibo">
+女单四强神仙打架（热度：16483）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E4%BA%94%E8%A7%84%E5%88%92%E7%BA%B2%E8%A6%81%E9%97%AE%E8%AE%A1%E6%B1%82%E7%AD%96%23" target="weibo">
 十五五规划纲要问计求策（热度：16367）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%B7%B2%E4%BA%A4%E6%89%8B32%E6%AC%A1%23" target="weibo">
-王楚钦樊振东已交手32次（热度：16297）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%8D%95%E5%9B%9B%E5%BC%BA%E7%A5%9E%E4%BB%99%E6%89%93%E6%9E%B6%23" target="weibo">
-女单四强神仙打架（热度：16253）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23" target="weibo">
+孙颖莎晋级四强（热度：16034）
 </a>
 </li>
 
@@ -14253,12 +14277,6 @@ oner赛后发博（热度：18534）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%AF%95%E9%87%91%E6%89%8B%E9%95%AF%E8%A2%AB%E7%B4%A2%E8%B5%941000%E5%AE%9E%E8%B5%94100%23" target="weibo">
-小孩试金手镯被索赔1000实赔100（热度：15323）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%232799%E5%85%83UGG%E9%95%BF%E6%AF%9B%E9%9B%AA%E5%9C%B0%E9%9D%B4%E9%85%B7%E4%BC%BC%E7%8E%B2%E5%A8%9C%E8%B4%9D%E5%84%BF%E8%84%9A%23" target="weibo">
 2799元UGG长毛雪地靴酷似玲娜贝儿脚（热度：15218）
 </a>
@@ -14267,12 +14285,6 @@ oner赛后发博（热度：18534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E5%A5%94%E8%B7%91%E5%90%A7%E8%B7%AF%E9%80%8F%23" target="weibo">
 白鹿奔跑吧路透（热度：15032）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA%23" target="weibo">
-孙颖莎晋级四强（热度：14823）
 </a>
 </li>
 
@@ -14333,12 +14345,6 @@ oner赛后发博（热度：18534）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%85%E6%B8%85%E5%B9%B4%E5%BA%A6%E7%9E%A9%E7%9B%AE%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
 清清年度瞩目运动员（热度：12906）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E6%89%8B%E5%8A%BF%E5%AE%98%E5%AE%A3%E5%AE%9A%E6%A1%A3%23" target="weibo">
-白鹿手势官宣定档（热度：12715）
 </a>
 </li>
 
