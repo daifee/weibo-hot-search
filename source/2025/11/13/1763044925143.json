@@ -1,0 +1,410 @@
+{
+  "runTime": 1763044925143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 725489,
+        "num": 1116078,
+        "word": "山姆正跌落神坛",
+        "onboard_time": 1763038821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 551700,
+        "num": 551700,
+        "word": "唐诡3拍出太平公主和上官婉儿",
+        "onboard_time": 1763040141,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40474,
+        "num": 514042,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 494875,
+        "num": 494875,
+        "word": "李隆基 太平公主",
+        "onboard_time": 1763036661,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 242071,
+        "num": 242071,
+        "word": "樊振东王楚钦会师半决赛",
+        "onboard_time": 1763036422,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188718,
+        "num": 240982,
+        "word": "山西一医院从上到下集体骗保近千万",
+        "onboard_time": 1763031619,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 421296,
+        "num": 238872,
+        "word": "历年爆剧",
+        "onboard_time": 1763035461,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177282,
+        "num": 234540,
+        "word": "覃海洋50蛙犯规被取消成绩",
+        "onboard_time": 1763036541,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130707,
+        "num": 233190,
+        "word": "王楚钦回应半决赛面对樊振东",
+        "onboard_time": 1763039061,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188967,
+        "num": 229477,
+        "word": "一诺教JackeyLove扫腿舞",
+        "onboard_time": 1763038281,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1320258,
+        "num": 228821,
+        "word": "黄晓明新签约艺人眼睛很大",
+        "onboard_time": 1763040382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350395,
+        "num": 224872,
+        "word": "男子因朋友圈无人点赞患上抑郁症",
+        "onboard_time": 1763037681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323763,
+        "num": 221900,
+        "word": "土豆被八仙子除名",
+        "onboard_time": 1763041523,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 270481,
+        "num": 220698,
+        "word": "14岁男孩被误诊矮小症打了2940针",
+        "onboard_time": 1763034921,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20143,
+        "num": 216636,
+        "word": "竞燃之夜致敬老将",
+        "onboard_time": 1763042482,
+        "rank": 14,
+        "category": "体育,电竞"
+      },
+      {
+        "raw_hot": 216581,
+        "num": 216581,
+        "word": "文科生的天塌了又塌",
+        "onboard_time": 1763028321,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149449,
+        "num": 216572,
+        "word": "宋茜LV大秀",
+        "onboard_time": 1763039662,
+        "rank": 16,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 139740,
+        "num": 213472,
+        "word": "用200块成本摆摊一天赚500",
+        "onboard_time": 1763041642,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75600,
+        "num": 212441,
+        "word": "开插混的松弛感是大电池给的",
+        "onboard_time": 1763043321,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 125698,
+        "num": 211346,
+        "word": "惊天魔盗团3爆米花桶",
+        "onboard_time": 1763043742,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 810857,
+        "num": 208383,
+        "word": "徐志胜家到底有多脏",
+        "onboard_time": 1763034801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585741,
+        "num": 206992,
+        "word": "脑控 精神分裂",
+        "onboard_time": 1763043321,
+        "rank": 21,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 471351,
+        "num": 204892,
+        "word": "一度君华求救",
+        "onboard_time": 1763041881,
+        "rank": 22,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 276887,
+        "num": 203653,
+        "word": "控糖到了80多岁的皮肤状态",
+        "onboard_time": 1763031501,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 202851,
+        "num": 202851,
+        "word": "孟子义这下真成老公姐了",
+        "onboard_time": 1763044102,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194025,
+        "num": 194025,
+        "word": "张桂源 楼凌赫",
+        "onboard_time": 1763036241,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185741,
+        "num": 185741,
+        "word": "艾玛沃特森35岁状态",
+        "onboard_time": 1763041642,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144267,
+        "num": 144267,
+        "word": "徐志胜 何脏之有",
+        "onboard_time": 1763040683,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135782,
+        "num": 135782,
+        "word": "彭小苒镂空鱼骨胸衣",
+        "onboard_time": 1763043382,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94725,
+        "num": 135708,
+        "word": "唐诡 李隆基",
+        "onboard_time": 1763036002,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135668,
+        "num": 135668,
+        "word": "高市早苗反省",
+        "onboard_time": 1763029401,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129045,
+        "num": 129045,
+        "word": "李奈儿 上官婉儿",
+        "onboard_time": 1763034441,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125317,
+        "num": 125317,
+        "word": "祝绪丹 超市小妹",
+        "onboard_time": 1763042782,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110938,
+        "num": 110938,
+        "word": "汪顺全运会第17金",
+        "onboard_time": 1763043321,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108042,
+        "num": 110299,
+        "word": "华晨宇音乐节出场时间调整",
+        "onboard_time": 1763044583,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109986,
+        "num": 109986,
+        "word": "中方回应印度网球选手称被中国拒签",
+        "onboard_time": 1763039421,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 15613,
+        "num": 109807,
+        "word": "狗咬人犬主被反杀案律师回应",
+        "onboard_time": 1763044883,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109793,
+        "num": 109793,
+        "word": "表妹万福",
+        "onboard_time": 1763042901,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101751,
+        "num": 101751,
+        "word": "十五运乒乓球男单四强对阵",
+        "onboard_time": 1763042601,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14444,
+        "num": 101013,
+        "word": "张展硕800自夺冠后对镜头比了个OK",
+        "onboard_time": 1763044822,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100380,
+        "num": 100380,
+        "word": "唐诡这集怎么拿了花少剧本",
+        "onboard_time": 1763044402,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100160,
+        "num": 100160,
+        "word": "妈妈很美 只是没有化过妆",
+        "onboard_time": 1763039179,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96459,
+        "num": 96459,
+        "word": "5年花25亿请明星没能讨好年轻人",
+        "onboard_time": 1763038941,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96313,
+        "num": 96313,
+        "word": "徐艺洋用湿厕纸给黄子韬擦嘴",
+        "onboard_time": 1763027421,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93848,
+        "num": 93848,
+        "word": "浙江队全运会体操女团冠军",
+        "onboard_time": 1763043862,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93673,
+        "num": 93673,
+        "word": "杨紫好瘦",
+        "onboard_time": 1763019140,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82436,
+        "num": 82436,
+        "word": "我国完成第一阶段6G技术试验",
+        "onboard_time": 1763043682,
+        "rank": 46,
+        "category": "国内时政,互联网"
+      },
+      {
+        "raw_hot": 80639,
+        "num": 80639,
+        "word": "王曼昱半决赛对战陈梦",
+        "onboard_time": 1763038522,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78046,
+        "num": 78046,
+        "word": "日本店员遭熊袭击浑身血继续做拉面",
+        "onboard_time": 1763025320,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77623,
+        "num": 77623,
+        "word": "郭晶晶霍启刚观赛全运会游泳",
+        "onboard_time": 1763044883,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
