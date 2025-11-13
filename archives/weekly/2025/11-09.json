@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763019652825,
+  "endTime": 1763022909011,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -721,6 +721,14 @@
       "onboard_time": 1762949781,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 697538,
+      "num": 168660,
+      "word": "杨紫好瘦",
+      "onboard_time": 1763019140,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 695056,
@@ -1619,6 +1627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 468706,
+      "num": 468706,
+      "word": "路虎撞飞持刀男子属正当防卫",
+      "onboard_time": 1763020339,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468411,
       "num": 202266,
       "word": "邓超晒照为儿子庆生",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1762691904,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 467699,
+      "num": 167090,
+      "word": "曝王子豪宅屋主是昆凌",
+      "onboard_time": 1763020640,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 467608,
@@ -2396,7 +2420,7 @@
     },
     {
       "raw_hot": 358024,
-      "num": 157227,
+      "num": 166056,
       "word": "于正回应赵樱子适合演小龙女",
       "onboard_time": 1763017640,
       "rank": 27,
@@ -2564,7 +2588,7 @@
     },
     {
       "raw_hot": 334873,
-      "num": 156201,
+      "num": 165554,
       "word": "辛芷蕾回鹤岗撸串了",
       "onboard_time": 1763018420,
       "rank": 25,
@@ -3259,6 +3283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 278803,
+      "num": 278803,
+      "word": "原来美甲也是轮回",
+      "onboard_time": 1763018240,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 278667,
       "num": 207198,
       "word": "将门毒后 黄羿",
@@ -3924,7 +3956,7 @@
     },
     {
       "raw_hot": 230117,
-      "num": 152069,
+      "num": 164262,
       "word": "陆虎嘘嘘十周年再拍婚纱照",
       "onboard_time": 1763017400,
       "rank": 24,
@@ -3940,7 +3972,7 @@
     },
     {
       "raw_hot": 228648,
-      "num": 164288,
+      "num": 224781,
       "word": "文淇 我的长相演不了孬种",
       "onboard_time": 1763018182,
       "rank": 33,
@@ -4201,6 +4233,14 @@
       "onboard_time": 1762749261,
       "rank": 5,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 214865,
+      "num": 164722,
+      "word": "陈天润微博存档",
+      "onboard_time": 1763020280,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 214851,
@@ -4603,6 +4643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199490,
+      "num": 199490,
+      "word": "原来卫生纸我们一直都用错了",
+      "onboard_time": 1763021060,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 199334,
       "num": 114331,
       "word": "赤裸小孩生长发育正常",
@@ -4649,14 +4697,6 @@
       "onboard_time": 1762769540,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197530,
-      "num": 153595,
-      "word": "杨紫好瘦",
-      "onboard_time": 1763019140,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 197179,
@@ -4939,6 +4979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189455,
+      "num": 165247,
+      "word": "唐诡3大唐第一禁忌恋",
+      "onboard_time": 1763019680,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189300,
       "num": 163386,
       "word": "易烊千玺厦门路透",
@@ -5017,6 +5065,14 @@
       "onboard_time": 1762953141,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187656,
+      "num": 187656,
+      "word": "章泽天 高配版晚晚",
+      "onboard_time": 1763022320,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 187499,
@@ -5249,6 +5305,14 @@
       "onboard_time": 1762994241,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179450,
+      "num": 179450,
+      "word": "黄景瑜抽完血吃了八碗米饭",
+      "onboard_time": 1763021961,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 178865,
@@ -5883,6 +5947,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 161485,
+      "num": 298122,
+      "word": "清融今天是纯白西装",
+      "onboard_time": 1763022799,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161400,
       "num": 191325,
       "word": "奔跑吧回应路透",
@@ -5905,6 +5977,14 @@
       "onboard_time": 1762953441,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160950,
+      "num": 294993,
+      "word": "李昀锐跑男知名角落艺术家",
+      "onboard_time": 1763022560,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 160842,
@@ -6227,6 +6307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 155030,
+      "num": 287962,
+      "word": "钎城纯白流光造型",
+      "onboard_time": 1763021779,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154828,
       "num": 149348,
       "word": "羊驼送洗后因毛发未吹干致失温死亡",
@@ -6371,6 +6459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152005,
+      "num": 152005,
+      "word": "卢昱晓往那一站就出神图了",
+      "onboard_time": 1763022380,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151853,
       "num": 151853,
       "word": "山东100自女子接力金牌",
@@ -6465,6 +6561,14 @@
       "onboard_time": 1763011042,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 149392,
+      "num": 169328,
+      "word": "产后12个小时的真实感受",
+      "onboard_time": 1763017880,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 149311,
@@ -6700,7 +6804,7 @@
     },
     {
       "raw_hot": 144848,
-      "num": 164983,
+      "num": 167746,
       "word": "奇瑞天门山测试无需文旅部门审批",
       "onboard_time": 1763017820,
       "rank": 9,
@@ -6979,6 +7083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139758,
+      "num": 139758,
+      "word": "无畏这一笑给我甜晕了",
+      "onboard_time": 1763022560,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 139344,
       "num": 151363,
       "word": "小米汽车10月零售销量48654辆",
@@ -7017,6 +7129,14 @@
       "onboard_time": 1762825340,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138615,
+      "num": 138615,
+      "word": "曝369和Flandre疑将互换东家",
+      "onboard_time": 1763021599,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 138593,
@@ -7241,6 +7361,14 @@
       "onboard_time": 1762933701,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135288,
+      "num": 168983,
+      "word": "唐诡有自己的莞莞类卿",
+      "onboard_time": 1763021420,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 134831,
@@ -7475,6 +7603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131673,
+      "num": 168031,
+      "word": "暖阳真换装达人",
+      "onboard_time": 1763021779,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 131488,
       "num": 131488,
       "word": "刘俊昊 祝这位弟弟星途璀璨",
@@ -7641,6 +7777,14 @@
       "onboard_time": 1763015362,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128865,
+      "num": 156283,
+      "word": "白敬亭让范丞丞在东北吃上怀柔烤肉",
+      "onboard_time": 1763022440,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 128726,
@@ -8363,20 +8507,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 121014,
-      "num": 121014,
-      "word": "原来美甲也是轮回",
-      "onboard_time": 1763018240,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 120946,
       "num": 148978,
       "word": "贵州省贵阳市副市长高杨主动投案",
       "onboard_time": 1762753461,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120924,
+      "num": 120924,
+      "word": "全红婵自嘲玩不懂像老年人",
+      "onboard_time": 1763018660,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 120832,
@@ -8555,14 +8699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118805,
-      "num": 118805,
-      "word": "产后12个小时的真实感受",
-      "onboard_time": 1763017880,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 118766,
       "num": 205227,
       "word": "75岁刘晓庆喊姥姥结果对方才74岁",
@@ -8648,6 +8784,14 @@
       "word": "Kael疑似与AL续约",
       "onboard_time": 1762852401,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 117660,
+      "num": 117660,
+      "word": "花海体验了北京的秋天",
+      "onboard_time": 1763022799,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -9267,6 +9411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109912,
+      "num": 109912,
+      "word": "无畏玫瑰魔术师",
+      "onboard_time": 1763022860,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109860,
       "num": 109860,
       "word": "约基奇55分",
@@ -9659,6 +9811,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 106263,
+      "num": 106263,
+      "word": "A股逾百股涨停",
+      "onboard_time": 1763022860,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
       "raw_hot": 106158,
       "num": 106158,
       "word": "成都混团世界杯参赛名单",
@@ -9769,6 +9929,14 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105055,
+      "num": 105055,
+      "word": "苹果回应1899元手机包定价",
+      "onboard_time": 1763021540,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 105034,
@@ -9905,6 +10073,14 @@
       "onboard_time": 1762754300,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103819,
+      "num": 103819,
+      "word": "是灵珠是魔丸一眼就认出来了",
+      "onboard_time": 1763022860,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 103809,
@@ -10345,14 +10521,6 @@
       "onboard_time": 1762855641,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100719,
-      "num": 100719,
-      "word": "全红婵自嘲玩不懂像老年人",
-      "onboard_time": 1763018660,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 100700,
@@ -11899,6 +12067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88812,
+      "num": 166706,
+      "word": "李施嬅粤语吵架这段张家妍上身",
+      "onboard_time": 1763021599,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 88799,
       "num": 88799,
       "word": "怪不得西餐又叫简餐",
@@ -12697,6 +12873,14 @@
       "onboard_time": 1762989437,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82117,
+      "num": 167333,
+      "word": "张家港回应文昌阁火灾",
+      "onboard_time": 1763021481,
+      "rank": 23,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82068,
@@ -16723,6 +16907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20717,
+      "num": 188102,
+      "word": "竞燃上分局",
+      "onboard_time": 1763020881,
+      "rank": 14,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 20539,
       "num": 93996,
       "word": "记者调查网红水暖毯乱象",
@@ -16769,6 +16961,14 @@
       "onboard_time": 1762972515,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 19787,
+      "num": 138686,
+      "word": "王楚钦接受采访头摇成拨浪鼓",
+      "onboard_time": 1763022022,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 19578,
