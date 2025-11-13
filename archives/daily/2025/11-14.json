@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763065808831,
+  "endTime": 1763066611974,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -499,8 +499,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14343,
-      "num": 23961,
+      "raw_hot": 14775,
+      "num": 24918,
       "word": "心动的信号2吴沛官宣生娃",
       "onboard_time": 1763060655,
       "rank": 29,
@@ -547,20 +547,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11686,
+      "num": 24760,
+      "word": "女单四强神仙打架",
+      "onboard_time": 1763065875,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 11633,
-      "num": 23940,
+      "num": 24717,
       "word": "孙颖莎晋级四强",
       "onboard_time": 1763065333,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 10942,
-      "num": 23926,
+      "raw_hot": 11511,
+      "num": 24728,
       "word": "鬼灭的零点场我是忍不柱",
       "onboard_time": 1763063293,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 10459,
+      "num": 24666,
+      "word": "孙颖莎非常期待半决赛",
+      "onboard_time": 1763065813,
+      "rank": 47,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
