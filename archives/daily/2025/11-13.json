@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763004174116,
+  "endTime": 1763004978250,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -11,20 +11,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 882610,
+      "num": 209188,
+      "word": "黄晓明48岁生日镜像成了84岁",
+      "onboard_time": 1763002340,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 800833,
       "num": 1128133,
       "word": "全红婵直播收入全部捐给乡村儿童",
       "onboard_time": 1762995024,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 796355,
-      "num": 132513,
-      "word": "黄晓明48岁生日镜像成了84岁",
-      "onboard_time": 1763002340,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 641544,
@@ -107,6 +107,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 356621,
+      "num": 356621,
+      "word": "内娱综艺收官濒临破产散伙",
+      "onboard_time": 1763002278,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 347412,
       "num": 196933,
       "word": "蒋易孙天宇",
@@ -115,20 +123,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 344586,
+      "num": 344586,
+      "word": "林高远刘诗雯vs袁励岑王艺迪",
+      "onboard_time": 1763000538,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 321283,
       "num": 179331,
       "word": "上海地铁",
       "onboard_time": 1762994840,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 319312,
-      "num": 319312,
-      "word": "林高远刘诗雯vs袁励岑王艺迪",
-      "onboard_time": 1763000538,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 319135,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 305740,
-      "num": 207386,
+      "num": 211064,
       "word": "章泽天朱珠同框",
       "onboard_time": 1762998261,
       "rank": 16,
@@ -161,6 +169,14 @@
       "onboard_time": 1762953141,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 299375,
+      "num": 255064,
+      "word": "安妮海瑟薇连续变装的经典片段",
+      "onboard_time": 1763001980,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 293029,
@@ -185,14 +201,6 @@
       "onboard_time": 1762989258,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 277857,
-      "num": 277857,
-      "word": "内娱综艺收官濒临破产散伙",
-      "onboard_time": 1763002278,
-      "rank": 4,
-      "category": "综艺"
     },
     {
       "raw_hot": 275506,
@@ -220,19 +228,11 @@
     },
     {
       "raw_hot": 261540,
-      "num": 192398,
+      "num": 208920,
       "word": "Psy.P向老婆道歉",
       "onboard_time": 1762998440,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 255064,
-      "num": 255064,
-      "word": "安妮海瑟薇连续变装的经典片段",
-      "onboard_time": 1763001980,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 250106,
@@ -275,6 +275,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 211856,
+      "num": 211856,
+      "word": "乌克兰停止与俄罗斯谈判",
+      "onboard_time": 1762999460,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 208771,
+      "num": 208771,
+      "word": "白鹿与助理就是现实版闺蜜你养我吧",
+      "onboard_time": 1763003059,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "北京极光",
@@ -291,14 +307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189268,
-      "num": 129692,
-      "word": "白鹿与助理就是现实版闺蜜你养我吧",
-      "onboard_time": 1763003059,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187713,
       "num": 187713,
       "word": "穆祉丞 星辰大海",
@@ -313,6 +321,14 @@
       "onboard_time": 1762991539,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182182,
+      "num": 209266,
+      "word": "狗咬人引发一死三伤案今日开庭",
+      "onboard_time": 1763003120,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 179908,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 166520,
-      "num": 129053,
+      "num": 153682,
       "word": "水果店便宜得像批发价走红",
       "onboard_time": 1763002220,
       "rank": 26,
@@ -355,6 +371,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152456,
+      "num": 210714,
+      "word": "星辰大海",
+      "onboard_time": 1763000719,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150839,
+      "num": 150839,
+      "word": "林高远刘诗雯晋级混双金牌赛",
+      "onboard_time": 1763004560,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150123,
       "num": 119481,
       "word": "离婚证后面有囍字",
@@ -371,16 +403,16 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 147342,
-      "num": 132775,
-      "word": "乌克兰停止与俄罗斯谈判",
-      "onboard_time": 1762999460,
-      "rank": 30,
-      "category": "国际时政"
+      "raw_hot": 146679,
+      "num": 146679,
+      "word": "樊振东十五运4强",
+      "onboard_time": 1763004801,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 134476,
-      "num": 126189,
+      "num": 131835,
       "word": "Viper目前被LPL和LCK战队疯抢",
       "onboard_time": 1763002519,
       "rank": 30,
@@ -393,14 +425,6 @@
       "onboard_time": 1762953321,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 132454,
-      "num": 145794,
-      "word": "星辰大海",
-      "onboard_time": 1763000719,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 128661,
@@ -417,6 +441,14 @@
       "onboard_time": 1762960941,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127745,
+      "num": 210389,
+      "word": "疯狂动物城2大先生爆改孙女奴",
+      "onboard_time": 1763002640,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 125554,
@@ -467,12 +499,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 118669,
-      "num": 118669,
+      "raw_hot": 121266,
+      "num": 121266,
       "word": "武契奇称欧洲准备与俄罗斯打仗",
       "onboard_time": 1763001379,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119312,
+      "num": 119312,
+      "word": "林高远刘诗雯4比3袁励岑王艺迪",
+      "onboard_time": 1763004860,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119044,
+      "num": 209798,
+      "word": "樊振东vs孙正",
+      "onboard_time": 1763004500,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 118502,
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 115558,
-      "num": 132117,
+      "num": 149873,
       "word": "易烊千玺4年4提金鸡奖最佳男主角",
       "onboard_time": 1762995680,
       "rank": 29,
@@ -571,12 +619,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 100595,
-      "num": 127716,
-      "word": "疯狂动物城2大先生爆改孙女奴",
-      "onboard_time": 1763002640,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 100613,
+      "num": 100613,
+      "word": "孙杨说出发令与前两天不一样",
+      "onboard_time": 1763004020,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 96784,
@@ -651,14 +699,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 86847,
-      "num": 137659,
-      "word": "狗咬人引发一死三伤案今日开庭",
-      "onboard_time": 1763003120,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 85888,
       "num": 114038,
       "word": "唐朝诡事录之长安22.9%",
@@ -673,6 +713,14 @@
       "onboard_time": 1762969516,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84913,
+      "num": 84913,
+      "word": "加拿大人的反义词",
+      "onboard_time": 1763004801,
+      "rank": 44,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 82904,
@@ -713,6 +761,22 @@
       "onboard_time": 1762994061,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80201,
+      "num": 80201,
+      "word": "快来检查一下自己穿的是不是塑料",
+      "onboard_time": 1763004801,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 79940,
+      "num": 79940,
+      "word": "金饰价格一夜上涨17元",
+      "onboard_time": 1763003839,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 79602,
@@ -777,22 +841,6 @@
       "onboard_time": 1762994181,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 77073,
-      "num": 77073,
-      "word": "金饰价格一夜上涨17元",
-      "onboard_time": 1763003839,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 76089,
-      "num": 76089,
-      "word": "孙杨说出发令与前两天不一样",
-      "onboard_time": 1763004020,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 76054,
@@ -883,12 +931,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68135,
+      "num": 105562,
+      "word": "开车叼牙线男子处罚被撤销",
+      "onboard_time": 1763004739,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65190,
       "num": 89700,
       "word": "敖子逸连发两百个不一样",
       "onboard_time": 1762954041,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64740,
+      "num": 210210,
+      "word": "美国史上最长政府停摆正式结束",
+      "onboard_time": 1763004619,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62146,
@@ -931,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55716,
+      "num": 165428,
+      "word": "俄军空投劝降传单",
+      "onboard_time": 1763003418,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54358,
       "num": 54358,
       "word": "台湾高雄议会现场爆发激烈冲突",
@@ -956,7 +1028,7 @@
     },
     {
       "raw_hot": 49170,
-      "num": 133388,
+      "num": 209636,
       "word": "Dior把包变成艺术藏品",
       "onboard_time": 1763003180,
       "rank": 19,
@@ -1035,6 +1107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43042,
+      "num": 105143,
+      "word": "金灿荣直言日本挑衅就是找死",
+      "onboard_time": 1763004619,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42130,
       "num": 89254,
       "word": "沙溢宋雨琦 塔吉克族礼仪",
@@ -1049,6 +1129,14 @@
       "onboard_time": 1762953501,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 41966,
+      "num": 111063,
+      "word": "柬警方逮捕207名涉电诈中国公民",
+      "onboard_time": 1763004380,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39429,
@@ -1073,14 +1161,6 @@
       "onboard_time": 1762954582,
       "rank": 49,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 35423,
-      "num": 134727,
-      "word": "俄军空投劝降传单",
-      "onboard_time": 1763003418,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 35276,
