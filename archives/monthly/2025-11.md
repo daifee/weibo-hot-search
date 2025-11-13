@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 23:29:23
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 23:41:58
 </p>
 </blockquote>
 <p>
@@ -5277,6 +5277,12 @@ AL在等一个不会来的人（热度：333411）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%99%88%E8%8A%8B%E6%B1%90%E5%BC%A0%E5%AE%B6%E9%BD%90%E9%83%BD%E6%98%AF%E7%91%9C%23" target="weibo">
+全红婵陈芋汐张家齐都是瑜（热度：332864）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%9111%E6%9C%88%E7%94%B5%E8%A7%86%E5%89%A7%E7%89%87%E5%8D%95%23" target="weibo">
 腾讯视频11月电视剧片单（热度：332808）
 </a>
@@ -6005,12 +6011,6 @@ Faker回应打LPL没输过（热度：302785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E6%AF%8F%E5%A4%A9%E6%99%9A%E4%B8%8A%E9%99%AA%E5%BE%90%E8%89%BA%E6%B4%8B%E5%AD%A6%E8%8B%B1%E8%AF%AD%23" target="weibo">
 黄子韬每天晚上陪徐艺洋学英语（热度：297694）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BB%85%E6%9C%89%E4%B8%80%E5%90%8D%E5%8A%A9%E7%90%86%23" target="weibo">
-迪丽热巴仅有一名助理（热度：296710）
 </a>
 </li>
 

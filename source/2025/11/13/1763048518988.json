@@ -1,0 +1,410 @@
+{
+  "runTime": 1763048518988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 516521,
+        "num": 1082643,
+        "word": "山姆正跌落神坛",
+        "onboard_time": 1763038821,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 347978,
+        "num": 347978,
+        "word": "唐诡3拍出太平公主和上官婉儿",
+        "onboard_time": 1763040141,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32572,
+        "num": 302284,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283224,
+        "num": 283224,
+        "word": "李隆基 太平公主",
+        "onboard_time": 1763036661,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194207,
+        "num": 194207,
+        "word": "5年花25亿请明星没能讨好年轻人",
+        "onboard_time": 1763038941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150974,
+        "num": 193660,
+        "word": "樊振东王楚钦会师半决赛",
+        "onboard_time": 1763036422,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227105,
+        "num": 192117,
+        "word": "历年爆剧",
+        "onboard_time": 1763035461,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130777,
+        "num": 190376,
+        "word": "山西一医院从上到下集体骗保近千万",
+        "onboard_time": 1763031619,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 332864,
+        "num": 189701,
+        "word": "全红婵陈芋汐张家齐都是瑜",
+        "onboard_time": 1763046500,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114005,
+        "num": 189078,
+        "word": "多款App摇一摇 跳转广告",
+        "onboard_time": 1763046622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711160,
+        "num": 186555,
+        "word": "黄晓明新签约艺人眼睛很大",
+        "onboard_time": 1763040382,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249579,
+        "num": 185758,
+        "word": "男子因朋友圈无人点赞患上抑郁症",
+        "onboard_time": 1763037681,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113589,
+        "num": 184076,
+        "word": "覃海洋50蛙犯规被取消成绩",
+        "onboard_time": 1763036541,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211113,
+        "num": 183739,
+        "word": "土豆被八仙子除名",
+        "onboard_time": 1763041523,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53937,
+        "num": 181982,
+        "word": "竞燃之夜荣誉名单",
+        "onboard_time": 1763046082,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181394,
+        "num": 181394,
+        "word": "文科生的天塌了又塌",
+        "onboard_time": 1763028321,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179778,
+        "num": 179778,
+        "word": "惊天魔盗团3爆米花桶",
+        "onboard_time": 1763043742,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 174056,
+        "num": 174056,
+        "word": "14岁男孩被误诊矮小症打了2940针",
+        "onboard_time": 1763034921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167062,
+        "num": 167062,
+        "word": "银行4年3次采购工作服花619万",
+        "onboard_time": 1763046140,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155554,
+        "num": 155554,
+        "word": "网传不二之臣阵容",
+        "onboard_time": 1763048241,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 760874,
+        "num": 153247,
+        "word": "脑控 精神分裂",
+        "onboard_time": 1763043321,
+        "rank": 20,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 601122,
+        "num": 149948,
+        "word": "徐志胜家到底有多脏",
+        "onboard_time": 1763034801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 129649,
+        "num": 143798,
+        "word": "孟子义这下真成老公姐了",
+        "onboard_time": 1763044102,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206400,
+        "num": 140977,
+        "word": "一度君华求救",
+        "onboard_time": 1763041881,
+        "rank": 23,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 162682,
+        "num": 136047,
+        "word": "控糖到了80多岁的皮肤状态",
+        "onboard_time": 1763031501,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134624,
+        "num": 134624,
+        "word": "不建议用猪肉记号笔标记新生儿",
+        "onboard_time": 1763046681,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141297,
+        "num": 134508,
+        "word": "影视飓风Tim称今年开始不接所有电话",
+        "onboard_time": 1763046562,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 134319,
+        "num": 134319,
+        "word": "长白头发可能是缺乏这3种营养",
+        "onboard_time": 1763045302,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 128500,
+        "num": 128500,
+        "word": "艾玛沃特森35岁状态",
+        "onboard_time": 1763041642,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124251,
+        "num": 124251,
+        "word": "为什么十年前没让我刷到这句话",
+        "onboard_time": 1763046021,
+        "rank": 29,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 121462,
+        "num": 121462,
+        "word": "无限暖暖",
+        "onboard_time": 1763046380,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118296,
+        "num": 118296,
+        "word": "高市早苗反省",
+        "onboard_time": 1763029401,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113199,
+        "num": 118283,
+        "word": "张桂源 楼凌赫",
+        "onboard_time": 1763036241,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103050,
+        "num": 118255,
+        "word": "祝绪丹 超市小妹",
+        "onboard_time": 1763042782,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93044,
+        "num": 118250,
+        "word": "徐志胜 何脏之有",
+        "onboard_time": 1763040683,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89018,
+        "num": 118222,
+        "word": "日本店员遭熊袭击浑身血继续做拉面",
+        "onboard_time": 1763025320,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 84726,
+        "num": 118197,
+        "word": "樊振东此前对阵王楚钦25胜7负",
+        "onboard_time": 1763047579,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82707,
+        "num": 118167,
+        "word": "用200块成本摆摊一天赚500",
+        "onboard_time": 1763041642,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 81792,
+        "num": 118141,
+        "word": "一诺教JackeyLove扫腿舞",
+        "onboard_time": 1763038281,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80199,
+        "num": 118127,
+        "word": "覃海洋预料到犯规后在水里笑了",
+        "onboard_time": 1763046801,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36457,
+        "num": 118112,
+        "word": "开插混的松弛感是大电池给的",
+        "onboard_time": 1763043321,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 76750,
+        "num": 118092,
+        "word": "唐诡 李隆基",
+        "onboard_time": 1763036002,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72949,
+        "num": 118072,
+        "word": "中方回应印度网球选手称被中国拒签",
+        "onboard_time": 1763039421,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70079,
+        "num": 118037,
+        "word": "猫咪害怕到不敢看医生一眼",
+        "onboard_time": 1763047821,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68145,
+        "num": 118017,
+        "word": "狗咬人引发杀人案起诉书详情披露",
+        "onboard_time": 1763046082,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67056,
+        "num": 118001,
+        "word": "唐钱婷领衔00后努力实践诺言",
+        "onboard_time": 1763047341,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64542,
+        "num": 117975,
+        "word": "Fly年度榜样电竞人物",
+        "onboard_time": 1763047282,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61483,
+        "num": 117944,
+        "word": "一辈子在做平板支撑的西高地",
+        "onboard_time": 1763047521,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 61139,
+        "num": 117919,
+        "word": "京东第3季度财报",
+        "onboard_time": 1763047220,
+        "rank": 48,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54842,
+        "num": 117912,
+        "word": "表妹万福",
+        "onboard_time": 1763042901,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
