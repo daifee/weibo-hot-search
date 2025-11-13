@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763039417121,
+  "endTime": 1763041137994,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1107,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 594843,
+      "num": 467950,
+      "word": "李隆基 太平公主",
+      "onboard_time": 1763036661,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 592921,
       "num": 1094867,
       "word": "王楚钦vs林高远",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1762827980,
       "rank": 3,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 514248,
+      "num": 514248,
+      "word": "历年爆剧",
+      "onboard_time": 1763035461,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 512870,
@@ -1960,14 +1976,6 @@
       "word": "蒋欣终于又演了一次被爱",
       "onboard_time": 1762866681,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 436535,
-      "num": 436535,
-      "word": "李隆基 太平公主",
-      "onboard_time": 1763036661,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -2963,6 +2971,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321995,
+      "num": 321995,
+      "word": "一诺教JackeyLove扫腿舞",
+      "onboard_time": 1763038281,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321842,
       "num": 181826,
       "word": "胡歌带女儿逛乐高乐园",
@@ -3363,8 +3379,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289765,
+      "num": 178211,
+      "word": "黄晓明新签约艺人眼睛很大",
+      "onboard_time": 1763040382,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289700,
-      "num": 144840,
+      "num": 152120,
       "word": "高市早苗反省",
       "onboard_time": 1763029401,
       "rank": 32,
@@ -3707,6 +3731,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269879,
+      "num": 269879,
+      "word": "唐诡3拍出太平公主和上官婉儿",
+      "onboard_time": 1763040141,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267748,
       "num": 241605,
       "word": "梁靖崑给自己一巴掌",
@@ -3873,6 +3905,14 @@
       "onboard_time": 1763006421,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255824,
+      "num": 166256,
+      "word": "王楚钦回应半决赛面对樊振东",
+      "onboard_time": 1763039061,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 255616,
@@ -4691,6 +4731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208470,
+      "num": 156459,
+      "word": "宋茜LV大秀",
+      "onboard_time": 1763039662,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 208442,
       "num": 222871,
       "word": "日方紧急找补称涉台立场没变",
@@ -4841,22 +4889,6 @@
       "onboard_time": 1762688480,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203685,
-      "num": 203685,
-      "word": "一诺教JackeyLove扫腿舞",
-      "onboard_time": 1763038281,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 203610,
-      "num": 147865,
-      "word": "王楚钦回应半决赛面对樊振东",
-      "onboard_time": 1763039061,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 203541,
@@ -5491,6 +5523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187332,
+      "num": 187332,
+      "word": "覃海洋回应成绩被取消",
+      "onboard_time": 1763038100,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187188,
       "num": 226353,
       "word": "韩网爆料zeus疑似来LPL",
@@ -6027,14 +6067,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171083,
-      "num": 172459,
-      "word": "历年爆剧",
-      "onboard_time": 1763035461,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 170851,
       "num": 170851,
       "word": "奶皮子酸奶",
@@ -6568,14 +6600,6 @@
       "word": "大湾鸡跳舞太猛倒地被抢救",
       "onboard_time": 1762945222,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 158491,
-      "num": 158491,
-      "word": "覃海洋回应成绩被取消",
-      "onboard_time": 1763038100,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -7507,6 +7531,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 140535,
+      "num": 155410,
+      "word": "孙颖莎谈河北恩师杨广弟",
+      "onboard_time": 1763039962,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140509,
       "num": 140509,
       "word": "罗云熙认为自己没有综艺效果",
@@ -7545,6 +7577,14 @@
       "onboard_time": 1762759221,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139964,
+      "num": 154788,
+      "word": "无畏感谢大家的支持",
+      "onboard_time": 1763039721,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 139914,
@@ -7843,8 +7883,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 135317,
-      "num": 135317,
+      "raw_hot": 135518,
+      "num": 135518,
       "word": "王曼昱半决赛对战陈梦",
       "onboard_time": 1763038522,
       "rank": 35,
@@ -8187,6 +8227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130040,
+      "num": 168564,
+      "word": "5年花25亿请明星没能讨好年轻人",
+      "onboard_time": 1763038941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129711,
       "num": 129711,
       "word": "宋茜亮片露背裙",
@@ -8257,6 +8305,14 @@
       "onboard_time": 1762950561,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129139,
+      "num": 134227,
+      "word": "男子因朋友圈无人点赞患上抑郁症",
+      "onboard_time": 1763037681,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129124,
@@ -8987,6 +9043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121867,
+      "num": 129311,
+      "word": "山姆正跌落神坛",
+      "onboard_time": 1763038821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121853,
       "num": 121853,
       "word": "LOL第一人Faker也需要重新适应",
@@ -9099,6 +9163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120791,
+      "num": 592198,
+      "word": "第十五届全运会",
+      "onboard_time": 1762612583,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120691,
       "num": 205308,
       "word": "女子生产大出血孩子爷爷将娃送人",
@@ -9137,6 +9209,14 @@
       "onboard_time": 1762683379,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119747,
+      "num": 119747,
+      "word": "中方回应印度网球选手称被中国拒签",
+      "onboard_time": 1763039421,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119538,
@@ -9307,6 +9387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118465,
+      "num": 118465,
+      "word": "徐志胜 何脏之有",
+      "onboard_time": 1763040683,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118420,
       "num": 118420,
       "word": "李煜东 智力不详但心地善良",
@@ -9376,6 +9464,14 @@
       "word": "Kael疑似与AL续约",
       "onboard_time": 1762852401,
       "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 117762,
+      "num": 117762,
+      "word": "JackeyLove舞台首秀",
+      "onboard_time": 1763040740,
+      "rank": 39,
       "category": "电竞"
     },
     {
@@ -9473,14 +9569,6 @@
       "onboard_time": 1762943721,
       "rank": 32,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116581,
-      "num": 134227,
-      "word": "男子因朋友圈无人点赞患上抑郁症",
-      "onboard_time": 1763037681,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116578,
@@ -9771,6 +9859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112945,
+      "num": 112945,
+      "word": "王楚钦称艰难走到樊振东面前",
+      "onboard_time": 1763040501,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112822,
       "num": 112822,
       "word": "芒果TV食堂的免费员工餐",
@@ -9953,6 +10049,14 @@
       "onboard_time": 1762669160,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 111677,
+      "num": 115156,
+      "word": "宋祖儿入局首套妆造",
+      "onboard_time": 1763037681,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111512,
@@ -10499,6 +10603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106370,
+      "num": 106370,
+      "word": "一个适合戴眼镜的万能妆容公式",
+      "onboard_time": 1763040562,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 106317,
       "num": 161439,
       "word": "大湾鸡也不想加班",
@@ -10713,6 +10825,14 @@
       "onboard_time": 1762660460,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104290,
+      "num": 104290,
+      "word": "花海寻找人生第二答案",
+      "onboard_time": 1763040501,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 104284,
@@ -11227,6 +11347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101003,
+      "num": 101003,
+      "word": "刘诗诗逛了labubu展",
+      "onboard_time": 1763039843,
+      "rank": 45,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 100979,
       "num": 100979,
       "word": "极具侵略性的坐姿",
@@ -11393,14 +11521,6 @@
       "onboard_time": 1762761799,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 100195,
-      "num": 115156,
-      "word": "宋祖儿入局首套妆造",
-      "onboard_time": 1763037681,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 100129,
@@ -11969,6 +12089,14 @@
       "onboard_time": 1763024119,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95829,
+      "num": 95829,
+      "word": "蒯曼回应2比4陈梦",
+      "onboard_time": 1763040982,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95797,
@@ -13747,6 +13875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82329,
+      "num": 82329,
+      "word": "没有脚脖子的萨摩耶",
+      "onboard_time": 1763041041,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82309,
       "num": 82309,
       "word": "曝今晚LPL中下有关键选手要定了",
@@ -15179,14 +15315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67777,
-      "num": 592198,
-      "word": "第十五届全运会",
-      "onboard_time": 1762612583,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 67578,
       "num": 78144,
       "word": "唐朝诡事录 成佛寺的哭声",
@@ -16019,14 +16147,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 55215,
-      "num": 168564,
-      "word": "5年花25亿请明星没能讨好年轻人",
-      "onboard_time": 1763038941,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55092,
       "num": 105378,
       "word": "于文文音乐节",
@@ -16265,14 +16385,6 @@
       "onboard_time": 1762669220,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 50881,
-      "num": 129311,
-      "word": "山姆正跌落神坛",
-      "onboard_time": 1763038821,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50576,
@@ -17163,6 +17275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37215,
+      "num": 172432,
+      "word": "任嘉伦邓亚萍跨界联动",
+      "onboard_time": 1763038880,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 37187,
       "num": 98740,
       "word": "何穗怎么恢复的",
@@ -17761,14 +17881,6 @@
       "onboard_time": 1762693761,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27420,
-      "num": 172432,
-      "word": "任嘉伦邓亚萍跨界联动",
-      "onboard_time": 1763038880,
-      "rank": 14,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 27368,

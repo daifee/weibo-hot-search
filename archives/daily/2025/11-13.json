@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763039417121,
+  "endTime": 1763041137994,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 594843,
+      "num": 467950,
+      "word": "李隆基 太平公主",
+      "onboard_time": 1763036661,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 592921,
       "num": 1094867,
       "word": "王楚钦vs林高远",
@@ -209,6 +217,14 @@
       "onboard_time": 1763010201,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 514248,
+      "num": 514248,
+      "word": "历年爆剧",
+      "onboard_time": 1763035461,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 504410,
@@ -296,14 +312,6 @@
       "word": "李宏毅你知道我等了三年吗",
       "onboard_time": 1763006361,
       "rank": 12,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 436535,
-      "num": 436535,
-      "word": "李隆基 太平公主",
-      "onboard_time": 1763036661,
-      "rank": 6,
       "category": "剧集"
     },
     {
@@ -539,6 +547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 321995,
+      "num": 321995,
+      "word": "一诺教JackeyLove扫腿舞",
+      "onboard_time": 1763038281,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 321283,
       "num": 179331,
       "word": "上海地铁",
@@ -651,8 +667,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289765,
+      "num": 178211,
+      "word": "黄晓明新签约艺人眼睛很大",
+      "onboard_time": 1763040382,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 289700,
-      "num": 144840,
+      "num": 152120,
       "word": "高市早苗反省",
       "onboard_time": 1763029401,
       "rank": 32,
@@ -731,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269879,
+      "num": 269879,
+      "word": "唐诡3拍出太平公主和上官婉儿",
+      "onboard_time": 1763040141,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267249,
       "num": 267249,
       "word": "导演回应大湾鸡选武校娃",
@@ -785,6 +817,14 @@
       "onboard_time": 1763006421,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 255824,
+      "num": 166256,
+      "word": "王楚钦回应半决赛面对樊振东",
+      "onboard_time": 1763039061,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 253739,
@@ -939,6 +979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208470,
+      "num": 156459,
+      "word": "宋茜LV大秀",
+      "onboard_time": 1763039662,
+      "rank": 17,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "北京极光",
@@ -953,22 +1001,6 @@
       "onboard_time": 1763019680,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203685,
-      "num": 203685,
-      "word": "一诺教JackeyLove扫腿舞",
-      "onboard_time": 1763038281,
-      "rank": 16,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 203610,
-      "num": 147865,
-      "word": "王楚钦回应半决赛面对樊振东",
-      "onboard_time": 1763039061,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 203541,
@@ -1083,6 +1115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187332,
+      "num": 187332,
+      "word": "覃海洋回应成绩被取消",
+      "onboard_time": 1763038100,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187188,
       "num": 226353,
       "word": "韩网爆料zeus疑似来LPL",
@@ -1171,14 +1211,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171083,
-      "num": 172459,
-      "word": "历年爆剧",
-      "onboard_time": 1763035461,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168084,
       "num": 209940,
       "word": "唐诡尸兄含量极高的一集",
@@ -1265,14 +1297,6 @@
       "onboard_time": 1763018480,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 158491,
-      "num": 158491,
-      "word": "覃海洋回应成绩被取消",
-      "onboard_time": 1763038100,
-      "rank": 43,
-      "category": "体育"
     },
     {
       "raw_hot": 157463,
@@ -1443,12 +1467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140535,
+      "num": 155410,
+      "word": "孙颖莎谈河北恩师杨广弟",
+      "onboard_time": 1763039962,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140175,
       "num": 140175,
       "word": "山东队夺乒乓球U18女团银牌",
       "onboard_time": 1763023040,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139964,
+      "num": 154788,
+      "word": "无畏感谢大家的支持",
+      "onboard_time": 1763039721,
+      "rank": 20,
+      "category": "电竞"
     },
     {
       "raw_hot": 139009,
@@ -1491,8 +1531,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 135317,
-      "num": 135317,
+      "raw_hot": 135518,
+      "num": 135518,
       "word": "王曼昱半决赛对战陈梦",
       "onboard_time": 1763038522,
       "rank": 35,
@@ -1587,12 +1627,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 130040,
+      "num": 168564,
+      "word": "5年花25亿请明星没能讨好年轻人",
+      "onboard_time": 1763038941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129360,
       "num": 129360,
       "word": "蒯曼12比14陈梦",
       "onboard_time": 1763009181,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129139,
+      "num": 134227,
+      "word": "男子因朋友圈无人点赞患上抑郁症",
+      "onboard_time": 1763037681,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 128892,
@@ -1723,6 +1779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121867,
+      "num": 129311,
+      "word": "山姆正跌落神坛",
+      "onboard_time": 1763038821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121817,
       "num": 121817,
       "word": "卢凌风 李奈儿",
@@ -1771,12 +1835,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120791,
+      "num": 469608,
+      "word": "第十五届全运会",
+      "onboard_time": 1763040982,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120106,
       "num": 120106,
       "word": "黄金",
       "onboard_time": 1763028259,
       "rank": 34,
       "category": "财经"
+    },
+    {
+      "raw_hot": 119747,
+      "num": 119747,
+      "word": "中方回应印度网球选手称被中国拒签",
+      "onboard_time": 1763039421,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119490,
@@ -1843,6 +1923,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118465,
+      "num": 118465,
+      "word": "徐志胜 何脏之有",
+      "onboard_time": 1763040683,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117762,
+      "num": 117762,
+      "word": "JackeyLove舞台首秀",
+      "onboard_time": 1763040740,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117708,
       "num": 117708,
       "word": "丞磊顶腮这下",
@@ -1873,14 +1969,6 @@
       "onboard_time": 1763028140,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 116581,
-      "num": 134227,
-      "word": "男子因朋友圈无人点赞患上抑郁症",
-      "onboard_time": 1763037681,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 115604,
@@ -1947,6 +2035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112945,
+      "num": 112945,
+      "word": "王楚钦称艰难走到樊振东面前",
+      "onboard_time": 1763040501,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112453,
       "num": 112453,
       "word": "贾玲晒黑了",
@@ -1969,6 +2065,14 @@
       "onboard_time": 1763012721,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111677,
+      "num": 115156,
+      "word": "宋祖儿入局首套妆造",
+      "onboard_time": 1763037681,
+      "rank": 47,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 111512,
@@ -2107,6 +2211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 106370,
+      "num": 106370,
+      "word": "一个适合戴眼镜的万能妆容公式",
+      "onboard_time": 1763040562,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 105014,
       "num": 152180,
       "word": "正告日方在台湾问题上玩火必自焚",
@@ -2121,6 +2233,14 @@
       "onboard_time": 1763033661,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104290,
+      "num": 104290,
+      "word": "花海寻找人生第二答案",
+      "onboard_time": 1763040501,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 103371,
@@ -2235,6 +2355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101003,
+      "num": 101003,
+      "word": "刘诗诗逛了labubu展",
+      "onboard_time": 1763039843,
+      "rank": 45,
+      "category": "艺人,休闲"
+    },
+    {
       "raw_hot": 100979,
       "num": 100979,
       "word": "极具侵略性的坐姿",
@@ -2257,14 +2385,6 @@
       "onboard_time": 1763004020,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100195,
-      "num": 115156,
-      "word": "宋祖儿入局首套妆造",
-      "onboard_time": 1763037681,
-      "rank": 47,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 99319,
@@ -2345,6 +2465,14 @@
       "onboard_time": 1763024119,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 95829,
+      "num": 95829,
+      "word": "蒯曼回应2比4陈梦",
+      "onboard_time": 1763040982,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 95697,
@@ -2697,6 +2825,14 @@
       "onboard_time": 1763019501,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82329,
+      "num": 82329,
+      "word": "没有脚脖子的萨摩耶",
+      "onboard_time": 1763041041,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82309,
@@ -3155,14 +3291,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55215,
-      "num": 168564,
-      "word": "5年花25亿请明星没能讨好年轻人",
-      "onboard_time": 1763038941,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54358,
       "num": 54358,
       "word": "台湾高雄议会现场爆发激烈冲突",
@@ -3209,14 +3337,6 @@
       "onboard_time": 1762964360,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 50881,
-      "num": 129311,
-      "word": "山姆正跌落神坛",
-      "onboard_time": 1763038821,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 49770,
@@ -3435,6 +3555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37215,
+      "num": 172432,
+      "word": "任嘉伦邓亚萍跨界联动",
+      "onboard_time": 1763038880,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 36714,
       "num": 169035,
       "word": "竞燃之夜人手一台iQOO15",
@@ -3537,14 +3665,6 @@
       "onboard_time": 1762981272,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27420,
-      "num": 172432,
-      "word": "任嘉伦邓亚萍跨界联动",
-      "onboard_time": 1763038880,
-      "rank": 14,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 26852,
