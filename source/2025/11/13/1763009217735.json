@@ -1,0 +1,410 @@
+{
+  "runTime": 1763009217735,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 748044,
+        "num": 1119687,
+        "word": "蒯曼11比5陈梦",
+        "onboard_time": 1763007082,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 725307,
+        "num": 725307,
+        "word": "中国黄金回应试戴金镯10秒被索赔1000",
+        "onboard_time": 1763005461,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41228,
+        "num": 591043,
+        "word": "网警查处虚构事实扰乱公共秩序案",
+        "onboard_time": 1762994301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488823,
+        "num": 488823,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 3,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 321203,
+        "num": 321203,
+        "word": "樊振东十五运4强",
+        "onboard_time": 1763004801,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314084,
+        "num": 314084,
+        "word": "不允许城镇居民到农村买农房",
+        "onboard_time": 1763007561,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253373,
+        "num": 253373,
+        "word": "疯狂动物城2大先生爆改孙女奴",
+        "onboard_time": 1763002640,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 244919,
+        "num": 244919,
+        "word": "林高远刘诗雯晋级混双金牌赛",
+        "onboard_time": 1763004560,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226211,
+        "num": 226211,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34573,
+        "num": 226128,
+        "word": "蒯曼vs陈梦",
+        "onboard_time": 1762989258,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 898734,
+        "num": 222557,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 616359,
+        "num": 217548,
+        "word": "小猫去世后猫厕所弹出的提示",
+        "onboard_time": 1763006240,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 388475,
+        "num": 215480,
+        "word": "李宏毅你知道我等了三年吗",
+        "onboard_time": 1763006361,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214119,
+        "num": 214119,
+        "word": "表妹万福杀青",
+        "onboard_time": 1763002759,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16804,
+        "num": 213227,
+        "word": "竞燃之夜今晚见",
+        "onboard_time": 1763006481,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186044,
+        "num": 211951,
+        "word": "星辰大海 曹骏",
+        "onboard_time": 1763008641,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162503,
+        "num": 209940,
+        "word": "唐诡尸兄含量极高的一集",
+        "onboard_time": 1763006421,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44668,
+        "num": 208404,
+        "word": "荣耀提前出了iPhoneAir2",
+        "onboard_time": 1763008402,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 109468,
+        "num": 207133,
+        "word": "林诗栋4比1赵子豪",
+        "onboard_time": 1763008462,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102578,
+        "num": 205120,
+        "word": "韩国学生集体磕头应援参加高考前辈",
+        "onboard_time": 1763008701,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 341431,
+        "num": 203559,
+        "word": "男子开车精准撞倒持刀歹徒",
+        "onboard_time": 1763005580,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1001499,
+        "num": 202210,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 729939,
+        "num": 200491,
+        "word": "宋祖儿腿太细了",
+        "onboard_time": 1763005160,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683113,
+        "num": 199269,
+        "word": "黄晓明48岁生日镜像成了84岁",
+        "onboard_time": 1763002340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463851,
+        "num": 198190,
+        "word": "卢昱晓跪下和粉丝合照",
+        "onboard_time": 1763005940,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321234,
+        "num": 196090,
+        "word": "白鹿与助理就是现实版闺蜜你养我吧",
+        "onboard_time": 1763003059,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274655,
+        "num": 193964,
+        "word": "黄子韬每天晚上陪徐艺洋学英语",
+        "onboard_time": 1763005520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229180,
+        "num": 192537,
+        "word": "小时候感冒vs长大后感冒",
+        "onboard_time": 1763006421,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 192050,
+        "num": 192050,
+        "word": "全红婵直播收入全部捐给乡村儿童",
+        "onboard_time": 1762995024,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131146,
+        "num": 190110,
+        "word": "乌合麒麟新作福建舰接81192返航",
+        "onboard_time": 1763006121,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199180,
+        "num": 189912,
+        "word": "陈梦14比12蒯曼",
+        "onboard_time": 1763008882,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188463,
+        "num": 188463,
+        "word": "李冰冰 状元郎",
+        "onboard_time": 1763007739,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182895,
+        "num": 182895,
+        "word": "朱雨玲4比2陈幸同",
+        "onboard_time": 1763009000,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145352,
+        "num": 182425,
+        "word": "内娱综艺收官濒临破产散伙",
+        "onboard_time": 1763002278,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153661,
+        "num": 182265,
+        "word": "特朗普问叙利亚领导人有几个老婆",
+        "onboard_time": 1763007261,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182257,
+        "num": 182257,
+        "word": "张凌赫带50只螃蟹来蘑菇屋",
+        "onboard_time": 1763008882,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181984,
+        "num": 181984,
+        "word": "乌克兰停止与俄罗斯谈判",
+        "onboard_time": 1762999460,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161515,
+        "num": 161515,
+        "word": "奔跑吧",
+        "onboard_time": 1763008941,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72302,
+        "num": 153210,
+        "word": "王楚钦说全运会爆冷是平常事",
+        "onboard_time": 1763008522,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77663,
+        "num": 150369,
+        "word": "家长都在请马丁喝奶茶",
+        "onboard_time": 1763008342,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122758,
+        "num": 149417,
+        "word": "特朗普罕见为中国留学生辩护",
+        "onboard_time": 1763007320,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149154,
+        "num": 149154,
+        "word": "抛开高叶不谈",
+        "onboard_time": 1763007141,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163577,
+        "num": 149010,
+        "word": "惹一个喜君会冒出来三个犟种",
+        "onboard_time": 1763008641,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144345,
+        "num": 144345,
+        "word": "小孩试戴金镯子10秒被要求赔偿千元",
+        "onboard_time": 1762954582,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141063,
+        "num": 141063,
+        "word": "白鹿说友谊超过七年将持续一生",
+        "onboard_time": 1763008462,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136375,
+        "num": 136375,
+        "word": "詹姆斯被下放",
+        "onboard_time": 1763005400,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133429,
+        "num": 133429,
+        "word": "第一批爱熬夜的受害者出现了",
+        "onboard_time": 1762995081,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129360,
+        "num": 129360,
+        "word": "蒯曼12比14陈梦",
+        "onboard_time": 1763009181,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116447,
+        "num": 116447,
+        "word": "安妮海瑟薇连续变装的经典片段",
+        "onboard_time": 1763001980,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120832,
+        "num": 116400,
+        "word": "库里爆砍46分",
+        "onboard_time": 1763008882,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平欢迎西班牙国王访华#"
+    }
+  }
+}
