@@ -1,0 +1,410 @@
+{
+  "runTime": 1763077171904,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 261313,
+        "num": 874466,
+        "word": "5年花25亿请明星没能讨好年轻人",
+        "onboard_time": 1763038941,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254272,
+        "num": 254272,
+        "word": "王楚钦说樊振东世界最强",
+        "onboard_time": 1763051419,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15737,
+        "num": 224039,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215098,
+        "num": 215098,
+        "word": "中方回应印度网球选手称被中国拒签",
+        "onboard_time": 1763039421,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195372,
+        "num": 195372,
+        "word": "美股",
+        "onboard_time": 1763076439,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 172190,
+        "num": 172190,
+        "word": "山姆正跌落神坛",
+        "onboard_time": 1763038821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163598,
+        "num": 163598,
+        "word": "唐诡3拍出太平公主和上官婉儿",
+        "onboard_time": 1763040141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98505,
+        "num": 163113,
+        "word": "李隆基 太平公主",
+        "onboard_time": 1763036661,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88217,
+        "num": 162982,
+        "word": "星巴克 依云矿泉水22元",
+        "onboard_time": 1763054237,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80959,
+        "num": 161934,
+        "word": "蔡徐坤新歌",
+        "onboard_time": 1763075478,
+        "rank": 9,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 337805,
+        "num": 161878,
+        "word": "任嘉伦工作室手P错位了",
+        "onboard_time": 1763054596,
+        "rank": 10,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 329079,
+        "num": 160777,
+        "word": "年轻女子与7旬老人生女后弃养给保姆",
+        "onboard_time": 1763051478,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312890,
+        "num": 160453,
+        "word": "黄晓明新签约艺人眼睛很大",
+        "onboard_time": 1763040382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227666,
+        "num": 159860,
+        "word": "建议拆完快递的纸箱立马扔掉",
+        "onboard_time": 1763049500,
+        "rank": 13,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 165733,
+        "num": 159489,
+        "word": "银行4年3次采购工作服花619万",
+        "onboard_time": 1763046140,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159036,
+        "num": 159036,
+        "word": "巴基斯坦称已做好两线作战准备",
+        "onboard_time": 1763075297,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134558,
+        "num": 134558,
+        "word": "男子因朋友圈无人点赞患上抑郁症",
+        "onboard_time": 1763037681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96513,
+        "num": 132415,
+        "word": "徐志胜 我家那小子",
+        "onboard_time": 1763053517,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77945,
+        "num": 127358,
+        "word": "金鸡影帝含金量",
+        "onboard_time": 1763075297,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 59146,
+        "num": 115976,
+        "word": "历年爆剧",
+        "onboard_time": 1763035461,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171297,
+        "num": 111703,
+        "word": "艾玛沃特森35岁状态",
+        "onboard_time": 1763041642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109138,
+        "num": 109138,
+        "word": "欧洲人民工资到1w是什么概念",
+        "onboard_time": 1763075417,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 436166,
+        "num": 106633,
+        "word": "徐志胜家到底有多脏",
+        "onboard_time": 1763034801,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103401,
+        "num": 103401,
+        "word": "高市早苗反省",
+        "onboard_time": 1763029401,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100079,
+        "num": 100079,
+        "word": "14岁男孩被误诊矮小症打了2940针",
+        "onboard_time": 1763034921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98795,
+        "num": 98795,
+        "word": "李阳说董宇辉英语差发音怪",
+        "onboard_time": 1763076439,
+        "rank": 25,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 98165,
+        "num": 98165,
+        "word": "阿里已抽调上百名工程师秘密办公",
+        "onboard_time": 1763076258,
+        "rank": 26,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 94529,
+        "num": 94529,
+        "word": "影视飓风Tim称今年开始不接所有电话",
+        "onboard_time": 1763046562,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87204,
+        "num": 87204,
+        "word": "控糖到了80多岁的皮肤状态",
+        "onboard_time": 1763031501,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77164,
+        "num": 77164,
+        "word": "C罗肘击染红",
+        "onboard_time": 1763076439,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79909,
+        "num": 76782,
+        "word": "华为Mate80系列机型曝光",
+        "onboard_time": 1763075237,
+        "rank": 30,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 75424,
+        "num": 75424,
+        "word": "山西一医院从上到下集体骗保近千万",
+        "onboard_time": 1763031619,
+        "rank": 31,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 74155,
+        "num": 74155,
+        "word": "芦田爱菜为拓宽形象改变妆容",
+        "onboard_time": 1763061493,
+        "rank": 32,
+        "category": "艺人,美妆"
+      },
+      {
+        "raw_hot": 69390,
+        "num": 69390,
+        "word": "你俩亲脸都这样了亲嘴还得了",
+        "onboard_time": 1763028621,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68694,
+        "num": 68694,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763049919,
+        "rank": 34,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 68222,
+        "num": 68222,
+        "word": "iPhonePocket正式开售",
+        "onboard_time": 1763075958,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 67575,
+        "num": 67575,
+        "word": "马龙看王楚钦林高远比赛看紧张了",
+        "onboard_time": 1763075958,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66676,
+        "num": 66676,
+        "word": "白敬亭 演完帅哥奖励自己一部黑土剧",
+        "onboard_time": 1763075359,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63182,
+        "num": 63182,
+        "word": "长白头发可能是缺乏这3种营养",
+        "onboard_time": 1763045302,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 60031,
+        "num": 60031,
+        "word": "为什么十年前没让我刷到这句话",
+        "onboard_time": 1763046021,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 58833,
+        "num": 60030,
+        "word": "AppStore抽成降至15%",
+        "onboard_time": 1763076499,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50916,
+        "num": 60030,
+        "word": "BBC向特朗普道歉但不赔偿",
+        "onboard_time": 1763076679,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50859,
+        "num": 60030,
+        "word": "微信10个隐藏级功能",
+        "onboard_time": 1763076918,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50010,
+        "num": 60029,
+        "word": "不建议用猪肉记号笔标记新生儿",
+        "onboard_time": 1763046681,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48209,
+        "num": 60029,
+        "word": "俄动物园十余只负鼠遭惊吓齐装死",
+        "onboard_time": 1763076379,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47376,
+        "num": 60029,
+        "word": "不二之臣",
+        "onboard_time": 1763077040,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46652,
+        "num": 60029,
+        "word": "宋祖儿上午杀青下午进组",
+        "onboard_time": 1763058015,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45877,
+        "num": 60028,
+        "word": "张呈给雷淞然笑退烧了",
+        "onboard_time": 1763075417,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45343,
+        "num": 60028,
+        "word": "心动的信号2吴沛官宣生娃",
+        "onboard_time": 1763060655,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43881,
+        "num": 60027,
+        "word": "覃海洋预料到犯规后在水里笑了",
+        "onboard_time": 1763046801,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763076321989,
+  "endTime": 1763077171904,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -2268,7 +2268,7 @@
     },
     {
       "raw_hot": 396457,
-      "num": 140764,
+      "num": 159860,
       "word": "建议拆完快递的纸箱立马扔掉",
       "onboard_time": 1763049500,
       "rank": 13,
@@ -2460,7 +2460,7 @@
     },
     {
       "raw_hot": 379593,
-      "num": 135312,
+      "num": 160777,
       "word": "年轻女子与7旬老人生女后弃养给保姆",
       "onboard_time": 1763051478,
       "rank": 34,
@@ -2843,20 +2843,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 337805,
+      "num": 161878,
+      "word": "任嘉伦工作室手P错位了",
+      "onboard_time": 1763054596,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 335927,
       "num": 206602,
       "word": "只有女生才懂的暴爽瞬间",
       "onboard_time": 1762652659,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 335251,
-      "num": 86396,
-      "word": "任嘉伦工作室手P错位了",
-      "onboard_time": 1763054596,
-      "rank": 13,
-      "category": "艺人,电竞"
     },
     {
       "raw_hot": 334873,
@@ -3931,6 +3931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261313,
+      "num": 874466,
+      "word": "5年花25亿请明星没能讨好年轻人",
+      "onboard_time": 1763038941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 260847,
       "num": 223397,
       "word": "李福贵直播间卖小米上架秒空",
@@ -4001,14 +4009,6 @@
       "onboard_time": 1762778841,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 255195,
-      "num": 388181,
-      "word": "5年花25亿请明星没能讨好年轻人",
-      "onboard_time": 1763038941,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 254969,
@@ -4707,6 +4707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 215098,
+      "num": 215098,
+      "word": "中方回应印度网球选手称被中国拒签",
+      "onboard_time": 1763039421,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 214865,
       "num": 164722,
       "word": "陈天润微博存档",
@@ -5203,14 +5211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198529,
-      "num": 198529,
-      "word": "中方回应印度网球选手称被中国拒签",
-      "onboard_time": 1763039421,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 198165,
       "num": 198165,
       "word": "无畏机车造型",
@@ -5321,6 +5321,14 @@
       "onboard_time": 1762862182,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195372,
+      "num": 195372,
+      "word": "美股",
+      "onboard_time": 1763076439,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 194994,
@@ -6763,6 +6771,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159036,
+      "num": 159036,
+      "word": "巴基斯坦称已做好两线作战准备",
+      "onboard_time": 1763075297,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158969,
       "num": 158969,
       "word": "孙天宇 我心里这就是第一名",
@@ -6972,7 +6988,7 @@
     },
     {
       "raw_hot": 155575,
-      "num": 85024,
+      "num": 132415,
       "word": "徐志胜 我家那小子",
       "onboard_time": 1763053517,
       "rank": 30,
@@ -10507,6 +10523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109138,
+      "num": 109138,
+      "word": "欧洲人民工资到1w是什么概念",
+      "onboard_time": 1763075417,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 109121,
       "num": 109121,
       "word": "常华森年底也要赶KPI",
@@ -10660,7 +10684,7 @@
     },
     {
       "raw_hot": 107903,
-      "num": 136865,
+      "num": 162982,
       "word": "星巴克 依云矿泉水22元",
       "onboard_time": 1763054237,
       "rank": 19,
@@ -11939,6 +11963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98795,
+      "num": 98795,
+      "word": "李阳说董宇辉英语差发音怪",
+      "onboard_time": 1763076439,
+      "rank": 25,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 98718,
       "num": 98718,
       "word": "tws转发了四代的cha",
@@ -11993,6 +12025,14 @@
       "onboard_time": 1762936941,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 98165,
+      "num": 98165,
+      "word": "阿里已抽调上百名工程师秘密办公",
+      "onboard_time": 1763076258,
+      "rank": 18,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 98101,
@@ -12428,7 +12468,7 @@
     },
     {
       "raw_hot": 95525,
-      "num": 95525,
+      "num": 161934,
       "word": "蔡徐坤新歌",
       "onboard_time": 1763075478,
       "rank": 7,
@@ -13451,14 +13491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 88400,
-      "num": 83841,
-      "word": "阿里已抽调上百名工程师秘密办公",
-      "onboard_time": 1763076258,
-      "rank": 18,
-      "category": "互联网,民生新闻"
-    },
-    {
       "raw_hot": 88395,
       "num": 145388,
       "word": "一群乒乓球世界冠军争一个全国冠军",
@@ -13505,14 +13537,6 @@
       "onboard_time": 1762653380,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88236,
-      "num": 71923,
-      "word": "巴基斯坦称已做好两线作战准备",
-      "onboard_time": 1763075297,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 88172,
@@ -14531,6 +14555,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 79909,
+      "num": 77490,
+      "word": "华为Mate80系列机型曝光",
+      "onboard_time": 1763075237,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79853,
       "num": 79853,
       "word": "李荣浩现在去申请加场",
@@ -14747,6 +14779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 77945,
+      "num": 127358,
+      "word": "金鸡影帝含金量",
+      "onboard_time": 1763075297,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77905,
       "num": 77905,
       "word": "福建舰入列震撼全球",
@@ -14833,6 +14873,14 @@
       "onboard_time": 1762866021,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 77164,
+      "num": 77164,
+      "word": "C罗肘击染红",
+      "onboard_time": 1763076439,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 76950,
@@ -15123,6 +15171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74155,
+      "num": 74155,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 74063,
       "num": 74063,
       "word": "范丞丞鸡翅会抢哥哥的风头",
@@ -15137,14 +15193,6 @@
       "onboard_time": 1762783403,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 73836,
-      "num": 71852,
-      "word": "欧洲人民工资到1w是什么概念",
-      "onboard_time": 1763075417,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 73786,
@@ -15385,14 +15433,6 @@
       "onboard_time": 1762594759,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 71778,
-      "num": 71778,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 71771,
@@ -15683,6 +15723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68222,
+      "num": 68222,
+      "word": "iPhonePocket正式开售",
+      "onboard_time": 1763075958,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 68218,
       "num": 68218,
       "word": "DOTA2联动怪物猎人",
@@ -15747,20 +15795,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 67636,
-      "num": 77490,
-      "word": "华为Mate80系列机型曝光",
-      "onboard_time": 1763075237,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 67578,
       "num": 78144,
       "word": "唐朝诡事录 成佛寺的哭声",
       "onboard_time": 1762882156,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 67575,
+      "num": 67575,
+      "word": "马龙看王楚钦林高远比赛看紧张了",
+      "onboard_time": 1763075958,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 67211,
@@ -15809,6 +15857,14 @@
       "onboard_time": 1762938741,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66676,
+      "num": 66676,
+      "word": "白敬亭 演完帅哥奖励自己一部黑土剧",
+      "onboard_time": 1763075359,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 66466,
@@ -16363,6 +16419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 58833,
+      "num": 60030,
+      "word": "AppStore抽成降至15%",
+      "onboard_time": 1763076499,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 58792,
       "num": 105173,
       "word": "帕里斯声明",
@@ -16851,6 +16915,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50916,
+      "num": 60030,
+      "word": "BBC向特朗普道歉但不赔偿",
+      "onboard_time": 1763076679,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50859,
+      "num": 60030,
+      "word": "微信10个隐藏级功能",
+      "onboard_time": 1763076918,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50613,
       "num": 134747,
       "word": "王凯沐卖完你的卖你的",
@@ -16912,14 +16992,6 @@
       "word": "松岛辉空男单夺冠",
       "onboard_time": 1762731319,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 49504,
-      "num": 49504,
-      "word": "马龙看王楚钦林高远比赛看紧张了",
-      "onboard_time": 1763075958,
-      "rank": 34,
       "category": "体育"
     },
     {
@@ -17003,6 +17075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48209,
+      "num": 60029,
+      "word": "俄动物园十余只负鼠遭惊吓齐装死",
+      "onboard_time": 1763076379,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48195,
       "num": 312454,
       "word": "总要来趟高淳吧",
@@ -17025,14 +17105,6 @@
       "onboard_time": 1762773560,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 47924,
-      "num": 47924,
-      "word": "iPhonePocket正式开售",
-      "onboard_time": 1763075958,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 47920,
@@ -17089,6 +17161,14 @@
       "onboard_time": 1763017221,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 47376,
+      "num": 60029,
+      "word": "不二之臣",
+      "onboard_time": 1763077040,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 47375,
@@ -17163,20 +17243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 46652,
+      "num": 77196,
+      "word": "宋祖儿上午杀青下午进组",
+      "onboard_time": 1763058015,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46565,
       "num": 53913,
       "word": "王楚钦说林高远这次状态非常好",
       "onboard_time": 1762990038,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46538,
-      "num": 77196,
-      "word": "宋祖儿上午杀青下午进组",
-      "onboard_time": 1763058015,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 46296,
@@ -17227,20 +17307,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 45877,
+      "num": 60028,
+      "word": "张呈给雷淞然笑退烧了",
+      "onboard_time": 1763075417,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 45875,
       "num": 55142,
       "word": "日本外相欲替高市发言遭制止",
       "onboard_time": 1762903878,
       "rank": 42,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45874,
-      "num": 45874,
-      "word": "白敬亭 演完帅哥奖励自己一部黑土剧",
-      "onboard_time": 1763075359,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 45782,
@@ -17273,6 +17353,14 @@
       "onboard_time": 1762684639,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 45343,
+      "num": 60028,
+      "word": "心动的信号2吴沛官宣生娃",
+      "onboard_time": 1763060655,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 45284,
@@ -17361,14 +17449,6 @@
       "onboard_time": 1762675040,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44242,
-      "num": 44242,
-      "word": "张呈给雷淞然笑退烧了",
-      "onboard_time": 1763075417,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 44181,
@@ -17611,14 +17691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41231,
-      "num": 44234,
-      "word": "心动的信号2吴沛官宣生娃",
-      "onboard_time": 1763060655,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41207,
       "num": 45052,
       "word": "中国默默炫了一次技术",
@@ -17681,14 +17753,6 @@
       "onboard_time": 1762676180,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 39824,
-      "num": 44231,
-      "word": "金鸡影帝含金量",
-      "onboard_time": 1763075297,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 39691,

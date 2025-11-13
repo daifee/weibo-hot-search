@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763076321989,
+  "endTime": 1763077171904,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 435412,
-      "num": 144061,
+      "num": 160453,
       "word": "黄晓明新签约艺人眼睛很大",
       "onboard_time": 1763040382,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 396457,
-      "num": 140764,
+      "num": 159860,
       "word": "建议拆完快递的纸箱立马扔掉",
       "onboard_time": 1763049500,
       "rank": 13,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 379593,
-      "num": 135312,
+      "num": 160777,
       "word": "年轻女子与7旬老人生女后弃养给保姆",
       "onboard_time": 1763051478,
       "rank": 34,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 335251,
-      "num": 86396,
+      "raw_hot": 337805,
+      "num": 161878,
       "word": "任嘉伦工作室手P错位了",
       "onboard_time": 1763054596,
       "rank": 13,
@@ -59,8 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 255195,
-      "num": 388181,
+      "raw_hot": 261313,
+      "num": 874466,
       "word": "5年花25亿请明星没能讨好年轻人",
       "onboard_time": 1763038941,
       "rank": 5,
@@ -83,12 +83,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 198529,
-      "num": 198529,
+      "raw_hot": 215098,
+      "num": 215098,
       "word": "中方回应印度网球选手称被中国拒签",
       "onboard_time": 1763039421,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 195372,
+      "num": 195372,
+      "word": "美股",
+      "onboard_time": 1763076439,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 176037,
@@ -99,8 +107,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171297,
+      "num": 136707,
+      "word": "艾玛沃特森35岁状态",
+      "onboard_time": 1763041642,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169362,
-      "num": 147629,
+      "num": 163113,
       "word": "李隆基 太平公主",
       "onboard_time": 1763036661,
       "rank": 6,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 167704,
-      "num": 142165,
+      "num": 159489,
       "word": "银行4年3次采购工作服花619万",
       "onboard_time": 1763046140,
       "rank": 11,
@@ -123,16 +139,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 158207,
-      "num": 136707,
-      "word": "艾玛沃特森35岁状态",
-      "onboard_time": 1763041642,
-      "rank": 23,
-      "category": "艺人"
+      "raw_hot": 159036,
+      "num": 159036,
+      "word": "巴基斯坦称已做好两线作战准备",
+      "onboard_time": 1763075297,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 155575,
-      "num": 85024,
+      "num": 132415,
       "word": "徐志胜 我家那小子",
       "onboard_time": 1763053517,
       "rank": 30,
@@ -171,6 +187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109138,
+      "num": 109138,
+      "word": "欧洲人民工资到1w是什么概念",
+      "onboard_time": 1763075417,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108575,
       "num": 139490,
       "word": "14岁男孩被误诊矮小症打了2940针",
@@ -180,11 +204,19 @@
     },
     {
       "raw_hot": 107903,
-      "num": 136865,
+      "num": 162982,
       "word": "星巴克 依云矿泉水22元",
       "onboard_time": 1763054237,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103401,
+      "num": 135489,
+      "word": "高市早苗反省",
+      "onboard_time": 1763029401,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99785,
@@ -193,6 +225,22 @@
       "onboard_time": 1763043742,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98795,
+      "num": 98795,
+      "word": "李阳说董宇辉英语差发音怪",
+      "onboard_time": 1763076439,
+      "rank": 25,
+      "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 98165,
+      "num": 98165,
+      "word": "阿里已抽调上百名工程师秘密办公",
+      "onboard_time": 1763076258,
+      "rank": 18,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 96164,
@@ -204,7 +252,7 @@
     },
     {
       "raw_hot": 95525,
-      "num": 95525,
+      "num": 161934,
       "word": "蔡徐坤新歌",
       "onboard_time": 1763075478,
       "rank": 7,
@@ -235,22 +283,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88400,
-      "num": 83841,
-      "word": "阿里已抽调上百名工程师秘密办公",
-      "onboard_time": 1763076258,
-      "rank": 18,
-      "category": "互联网,民生新闻"
-    },
-    {
-      "raw_hot": 88236,
-      "num": 71923,
-      "word": "巴基斯坦称已做好两线作战准备",
-      "onboard_time": 1763075297,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 86923,
       "num": 145762,
       "word": "山西一医院从上到下集体骗保近千万",
@@ -275,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 82694,
-      "num": 135489,
-      "word": "高市早苗反省",
-      "onboard_time": 1763029401,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 79909,
+      "num": 77490,
+      "word": "华为Mate80系列机型曝光",
+      "onboard_time": 1763075237,
+      "rank": 23,
+      "category": "数码"
     },
     {
       "raw_hot": 79029,
@@ -291,12 +323,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77945,
+      "num": 127358,
+      "word": "金鸡影帝含金量",
+      "onboard_time": 1763075297,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 77759,
       "num": 135985,
       "word": "为什么十年前没让我刷到这句话",
       "onboard_time": 1763046021,
       "rank": 28,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 77164,
+      "num": 77164,
+      "word": "C罗肘击染红",
+      "onboard_time": 1763076439,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 76771,
@@ -307,12 +355,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73836,
-      "num": 71852,
-      "word": "欧洲人民工资到1w是什么概念",
-      "onboard_time": 1763075417,
-      "rank": 31,
-      "category": "幽默"
+      "raw_hot": 74155,
+      "num": 74155,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
     },
     {
       "raw_hot": 73728,
@@ -331,20 +379,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 71778,
-      "num": 71778,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
+      "raw_hot": 68222,
+      "num": 68222,
+      "word": "iPhonePocket正式开售",
+      "onboard_time": 1763075958,
+      "rank": 37,
+      "category": "数码"
     },
     {
-      "raw_hot": 67636,
-      "num": 77490,
-      "word": "华为Mate80系列机型曝光",
-      "onboard_time": 1763075237,
-      "rank": 23,
-      "category": "数码"
+      "raw_hot": 67575,
+      "num": 67575,
+      "word": "马龙看王楚钦林高远比赛看紧张了",
+      "onboard_time": 1763075958,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66676,
+      "num": 66676,
+      "word": "白敬亭 演完帅哥奖励自己一部黑土剧",
+      "onboard_time": 1763075359,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 64732,
@@ -369,6 +425,14 @@
       "onboard_time": 1763036541,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58833,
+      "num": 60030,
+      "word": "AppStore抽成降至15%",
+      "onboard_time": 1763076499,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 53871,
@@ -419,6 +483,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50916,
+      "num": 60030,
+      "word": "BBC向特朗普道歉但不赔偿",
+      "onboard_time": 1763076679,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50859,
+      "num": 60030,
+      "word": "微信10个隐藏级功能",
+      "onboard_time": 1763076918,
+      "rank": 42,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 50613,
       "num": 134747,
       "word": "王凯沐卖完你的卖你的",
@@ -427,20 +507,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49504,
-      "num": 49504,
-      "word": "马龙看王楚钦林高远比赛看紧张了",
-      "onboard_time": 1763075958,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 48209,
+      "num": 60029,
+      "word": "俄动物园十余只负鼠遭惊吓齐装死",
+      "onboard_time": 1763076379,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 47924,
-      "num": 47924,
-      "word": "iPhonePocket正式开售",
-      "onboard_time": 1763075958,
-      "rank": 37,
-      "category": "数码"
+      "raw_hot": 47376,
+      "num": 60029,
+      "word": "不二之臣",
+      "onboard_time": 1763077040,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 46839,
@@ -451,7 +531,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 46538,
+      "raw_hot": 46652,
       "num": 77196,
       "word": "宋祖儿上午杀青下午进组",
       "onboard_time": 1763058015,
@@ -459,12 +539,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45874,
-      "num": 45874,
-      "word": "白敬亭 演完帅哥奖励自己一部黑土剧",
-      "onboard_time": 1763075359,
-      "rank": 38,
-      "category": "剧集"
+      "raw_hot": 45877,
+      "num": 60028,
+      "word": "张呈给雷淞然笑退烧了",
+      "onboard_time": 1763075417,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 45343,
+      "num": 60028,
+      "word": "心动的信号2吴沛官宣生娃",
+      "onboard_time": 1763060655,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 44355,
@@ -475,14 +563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44242,
-      "num": 44242,
-      "word": "张呈给雷淞然笑退烧了",
-      "onboard_time": 1763075417,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 43058,
       "num": 133840,
       "word": "摩尔线程披露科创板上市招股意向书",
@@ -491,28 +571,12 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 41231,
-      "num": 44234,
-      "word": "心动的信号2吴沛官宣生娃",
-      "onboard_time": 1763060655,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41074,
       "num": 133788,
       "word": "猫咪害怕到不敢看医生一眼",
       "onboard_time": 1763047821,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 39824,
-      "num": 44231,
-      "word": "金鸡影帝含金量",
-      "onboard_time": 1763075297,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 39633,
