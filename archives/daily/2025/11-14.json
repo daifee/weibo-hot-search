@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763052547563,
+  "endTime": 1763054799203,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -32,6 +32,14 @@
       "word": "山姆正跌落神坛",
       "onboard_time": 1763038821,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 269385,
+      "num": 135312,
+      "word": "年轻女子与7旬老人生女后弃养给保姆",
+      "onboard_time": 1763051478,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163555,
+      "num": 437905,
+      "word": "王楚钦说樊振东世界最强",
+      "onboard_time": 1763051419,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160408,
       "num": 141186,
       "word": "男子因朋友圈无人点赞患上抑郁症",
@@ -107,20 +123,20 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 119218,
+      "num": 136707,
+      "word": "艾玛沃特森35岁状态",
+      "onboard_time": 1763041642,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
       "onboard_time": 1763041523,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110555,
-      "num": 136707,
-      "word": "艾玛沃特森35岁状态",
-      "onboard_time": 1763041642,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 110380,
@@ -137,6 +153,14 @@
       "onboard_time": 1763043742,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 97845,
+      "num": 67430,
+      "word": "徐志胜 我家那小子",
+      "onboard_time": 1763053517,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 96654,
@@ -177,14 +201,6 @@
       "onboard_time": 1763035461,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 85866,
-      "num": 135312,
-      "word": "年轻女子与7旬老人生女后弃养给保姆",
-      "onboard_time": 1763051478,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84223,
@@ -243,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71608,
+      "num": 67564,
+      "word": "任嘉伦工作室手P错位了",
+      "onboard_time": 1763054596,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 69349,
       "num": 135489,
       "word": "高市早苗反省",
@@ -272,14 +296,6 @@
       "word": "覃海洋50蛙犯规被取消成绩",
       "onboard_time": 1763036541,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 54349,
-      "num": 102758,
-      "word": "王楚钦说樊振东世界最强",
-      "onboard_time": 1763051419,
-      "rank": 33,
       "category": "体育"
     },
     {
@@ -409,6 +425,22 @@
       "onboard_time": 1763051958,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29029,
+      "num": 67350,
+      "word": "九阳豆业九阳股份已无股权关联",
+      "onboard_time": 1763052257,
+      "rank": 40,
+      "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 23307,
+      "num": 67519,
+      "word": "星巴克 依云矿泉水22元",
+      "onboard_time": 1763054237,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23257,
