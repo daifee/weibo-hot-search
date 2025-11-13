@@ -1,0 +1,410 @@
+{
+  "runTime": 1763029906699,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 408759,
+        "num": 1065401,
+        "word": "九阳股份涨停",
+        "onboard_time": 1763023520,
+        "rank": 0,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 20872,
+        "num": 533448,
+        "word": "阿里秘密启动千问项目",
+        "onboard_time": 1763024661,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32398,
+        "num": 346439,
+        "word": "致敬全运会赛场上的老将",
+        "onboard_time": 1763025919,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269933,
+        "num": 269933,
+        "word": "倪妮 金鸡奖主持",
+        "onboard_time": 1763025201,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 218590,
+        "num": 218590,
+        "word": "孙颖莎vs刘斐",
+        "onboard_time": 1763027302,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51577,
+        "num": 216356,
+        "word": "你中意的车企兜底购置税了吗",
+        "onboard_time": 1763026223,
+        "rank": 5,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 243734,
+        "num": 216014,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215311,
+        "num": 215311,
+        "word": "水龙吟恨了33集发现恨错人了",
+        "onboard_time": 1763025261,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198165,
+        "num": 198165,
+        "word": "无畏机车造型",
+        "onboard_time": 1763029401,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186540,
+        "num": 186540,
+        "word": "九尾金发西装启动",
+        "onboard_time": 1763028980,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 608306,
+        "num": 184938,
+        "word": "7397万体彩中奖者买彩票时衣着怪异",
+        "onboard_time": 1763026701,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 387561,
+        "num": 180470,
+        "word": "日本店员遭熊袭击浑身血继续做拉面",
+        "onboard_time": 1763025320,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300695,
+        "num": 179710,
+        "word": "高市早苗疑称韩独岛是日固有领土",
+        "onboard_time": 1763027181,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174723,
+        "num": 174723,
+        "word": "外交部四问高市早苗",
+        "onboard_time": 1763023280,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 39500,
+        "num": 174009,
+        "word": "柯洁新歌舞台首秀",
+        "onboard_time": 1763028081,
+        "rank": 14,
+        "category": "体育,作品衍生"
+      },
+      {
+        "raw_hot": 282751,
+        "num": 173052,
+        "word": "佘诗曼终于让床宝上位了",
+        "onboard_time": 1763027062,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219310,
+        "num": 171510,
+        "word": "文科生的天塌了又塌",
+        "onboard_time": 1763028321,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126081,
+        "num": 170863,
+        "word": "唐诡3大唐第一禁忌恋",
+        "onboard_time": 1763019680,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117561,
+        "num": 169713,
+        "word": "李昀锐跑男知名角落艺术家",
+        "onboard_time": 1763022560,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36714,
+        "num": 169035,
+        "word": "竞燃之夜人手一台iQOO15",
+        "onboard_time": 1763028259,
+        "rank": 19,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 203137,
+        "num": 166843,
+        "word": "这个转场够我学一辈子",
+        "onboard_time": 1763026341,
+        "rank": 20,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 467611,
+        "num": 166508,
+        "word": "徐艺洋用湿厕纸给黄子韬擦嘴",
+        "onboard_time": 1763027421,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380690,
+        "num": 165681,
+        "word": "影视飓风Tim 相亲简历",
+        "onboard_time": 1763024119,
+        "rank": 22,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 359558,
+        "num": 164093,
+        "word": "LV品牌大使 温柔人设",
+        "onboard_time": 1763028681,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308535,
+        "num": 162382,
+        "word": "杨紫好瘦",
+        "onboard_time": 1763019140,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 248221,
+        "num": 161604,
+        "word": "曝王子豪宅屋主是昆凌",
+        "onboard_time": 1763020640,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246324,
+        "num": 160439,
+        "word": "Tim父亲 圆通总裁",
+        "onboard_time": 1763029161,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 203541,
+        "num": 159895,
+        "word": "你俩亲脸都这样了亲嘴还得了",
+        "onboard_time": 1763028621,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199689,
+        "num": 158240,
+        "word": "陈建斌蒋勤勤大儿子身高",
+        "onboard_time": 1763027780,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182800,
+        "num": 157654,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 29,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 156653,
+        "num": 156653,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 155581,
+        "num": 155581,
+        "word": "今年双11为何不火了",
+        "onboard_time": 1763017760,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144840,
+        "num": 144840,
+        "word": "高市早苗反省",
+        "onboard_time": 1763029401,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123199,
+        "num": 123199,
+        "word": "卢昱晓往那一站就出神图了",
+        "onboard_time": 1763022380,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120106,
+        "num": 120106,
+        "word": "黄金",
+        "onboard_time": 1763028259,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 415406,
+        "num": 120044,
+        "word": "江苏一快递员因送错快递被杀",
+        "onboard_time": 1763024001,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119490,
+        "num": 119490,
+        "word": "TF四代进入最佳赏味期",
+        "onboard_time": 1763029099,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62158,
+        "num": 115835,
+        "word": "大湾鸡主理人开通微博",
+        "onboard_time": 1763028802,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55359,
+        "num": 115702,
+        "word": "穆祉丞说祖师爷参加过星辰大海",
+        "onboard_time": 1763029881,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115571,
+        "num": 115571,
+        "word": "全运会哭妃",
+        "onboard_time": 1763027601,
+        "rank": 39,
+        "category": "体育,休闲"
+      },
+      {
+        "raw_hot": 116950,
+        "num": 109932,
+        "word": "曝JackeyLove续约TES",
+        "onboard_time": 1763028140,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103356,
+        "num": 103356,
+        "word": "腾讯三季度净利润631.3亿",
+        "onboard_time": 1763029220,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94946,
+        "num": 94946,
+        "word": "别再关灯侧躺玩手机了",
+        "onboard_time": 1763029881,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93241,
+        "num": 93241,
+        "word": "老岳爆料Knight正在观望",
+        "onboard_time": 1763028681,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89055,
+        "num": 89055,
+        "word": "香港海关缉毒遭黑社会成员刀斩",
+        "onboard_time": 1763027181,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90912,
+        "num": 89050,
+        "word": "白鹿回应哭了",
+        "onboard_time": 1763015061,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65562,
+        "num": 88930,
+        "word": "369带JackeyLove和Creme摆造型",
+        "onboard_time": 1763028380,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88913,
+        "num": 88913,
+        "word": "咪 不敢睁开眼希望是我的幻觉",
+        "onboard_time": 1763029760,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86838,
+        "num": 88384,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88132,
+        "num": 88132,
+        "word": "黄景瑜抽完血吃了八碗米饭",
+        "onboard_time": 1763021961,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信青年汉学家#"
+    }
+  }
+}
