@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763069795023,
+  "endTime": 1763072788033,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 148491,
-      "num": 169989,
+      "num": 388181,
       "word": "5年花25亿请明星没能讨好年轻人",
       "onboard_time": 1763038941,
       "rank": 5,
@@ -217,6 +217,14 @@
       "onboard_time": 1763035461,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86306,
+      "num": 134472,
+      "word": "中方回应印度网球选手称被中国拒签",
+      "onboard_time": 1763039421,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84223,
@@ -355,14 +363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 49175,
-      "num": 134472,
-      "word": "中方回应印度网球选手称被中国拒签",
-      "onboard_time": 1763039421,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 46839,
       "num": 134279,
       "word": "穆祉丞说我的师兄和祖师爷都来过",
@@ -419,6 +419,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39055,
+      "num": 35920,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 37265,
       "num": 133426,
       "word": "唐诡这集怎么拿了花少剧本",
@@ -433,14 +441,6 @@
       "onboard_time": 1763051958,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33483,
-      "num": 35920,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 30981,
@@ -459,12 +459,28 @@
       "category": "财经,民生新闻"
     },
     {
+      "raw_hot": 23635,
+      "num": 29265,
+      "word": "孙颖莎打削球累得嚼香蕉退场",
+      "onboard_time": 1763069294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23257,
       "num": 226490,
       "word": "第十五届全运会",
       "onboard_time": 1763040982,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20808,
+      "num": 35670,
+      "word": "快递员因送错快递被杀家属发声",
+      "onboard_time": 1763060293,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20134,
@@ -475,12 +491,44 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 19722,
+      "num": 35956,
+      "word": "华晨宇音乐节出场时间调整",
+      "onboard_time": 1763044583,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18933,
+      "num": 29251,
+      "word": "心动的信号2吴沛官宣生娃",
+      "onboard_time": 1763060655,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18731,
       "num": 55571,
       "word": "无限暖暖",
       "onboard_time": 1763046380,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 18703,
+      "num": 29246,
+      "word": "孙颖莎非常期待半决赛",
+      "onboard_time": 1763065813,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17836,
+      "num": 35775,
+      "word": "一眼找到任嘉伦",
+      "onboard_time": 1763056275,
+      "rank": 48,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 16952,
@@ -491,67 +539,43 @@
       "category": "体育"
     },
     {
-      "raw_hot": 15939,
-      "num": 35956,
-      "word": "华晨宇音乐节出场时间调整",
-      "onboard_time": 1763044583,
-      "rank": 46,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 15795,
-      "num": 24666,
-      "word": "孙颖莎非常期待半决赛",
-      "onboard_time": 1763065813,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 14775,
-      "num": 24918,
-      "word": "心动的信号2吴沛官宣生娃",
-      "onboard_time": 1763060655,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14275,
-      "num": 35775,
-      "word": "一眼找到任嘉伦",
-      "onboard_time": 1763056275,
-      "rank": 48,
-      "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 14001,
-      "num": 19880,
+      "raw_hot": 16297,
+      "num": 29234,
       "word": "王楚钦樊振东已交手32次",
       "onboard_time": 1763065573,
       "rank": 39,
       "category": "体育"
     },
     {
-      "raw_hot": 13946,
-      "num": 24717,
+      "raw_hot": 16253,
+      "num": 29231,
+      "word": "女单四强神仙打架",
+      "onboard_time": 1763065875,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 15323,
+      "num": 29216,
+      "word": "小孩试金手镯被索赔1000实赔100",
+      "onboard_time": 1763071934,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14823,
+      "num": 29215,
       "word": "孙颖莎晋级四强",
       "onboard_time": 1763065333,
       "rank": 40,
       "category": "体育"
     },
     {
-      "raw_hot": 13640,
+      "raw_hot": 13902,
       "num": 35738,
       "word": "王楚钦眼中的樊振东",
       "onboard_time": 1763060355,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 13104,
-      "num": 24760,
-      "word": "女单四强神仙打架",
-      "onboard_time": 1763065875,
-      "rank": 40,
       "category": "体育"
     },
     {
@@ -569,14 +593,6 @@
       "onboard_time": 1763061254,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12668,
-      "num": 35670,
-      "word": "快递员因送错快递被杀家属发声",
-      "onboard_time": 1763060293,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11511,

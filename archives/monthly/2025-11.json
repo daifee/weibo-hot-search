@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763069795023,
+  "endTime": 1763072788033,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -12580,7 +12580,7 @@
     },
     {
       "raw_hot": 194207,
-      "num": 194207,
+      "num": 388181,
       "word": "5年花25亿请明星没能讨好年轻人",
       "onboard_time": 1763038941,
       "rank": 19,
@@ -44099,6 +44099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39055,
+      "num": 35920,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 38965,
       "num": 96075,
       "word": "穆祉丞自由演唱会纪录片",
@@ -44881,14 +44889,6 @@
       "onboard_time": 1762605381,
       "rank": 29,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 33483,
-      "num": 35920,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 33455,
@@ -46219,6 +46219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23635,
+      "num": 29265,
+      "word": "孙颖莎打削球累得嚼香蕉退场",
+      "onboard_time": 1763069294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23593,
       "num": 319382,
       "word": "福建舰将成为南海的定海神针",
@@ -46539,6 +46547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 20808,
+      "num": 35670,
+      "word": "快递员因送错快递被杀家属发声",
+      "onboard_time": 1763060293,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20717,
       "num": 188102,
       "word": "竞燃上分局",
@@ -46731,6 +46747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18933,
+      "num": 29251,
+      "word": "心动的信号2吴沛官宣生娃",
+      "onboard_time": 1763060655,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18829,
       "num": 88131,
       "word": "北上广深开满咖啡主理人门店",
@@ -46753,6 +46777,14 @@
       "onboard_time": 1762111094,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18703,
+      "num": 29246,
+      "word": "孙颖莎非常期待半决赛",
+      "onboard_time": 1763065813,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 18664,
@@ -46897,6 +46929,14 @@
       "onboard_time": 1762489942,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 17836,
+      "num": 35775,
+      "word": "一眼找到任嘉伦",
+      "onboard_time": 1763056275,
+      "rank": 48,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 17790,
@@ -47075,11 +47115,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15795,
-      "num": 24666,
-      "word": "孙颖莎非常期待半决赛",
-      "onboard_time": 1763065813,
-      "rank": 47,
+      "raw_hot": 16297,
+      "num": 29234,
+      "word": "王楚钦樊振东已交手32次",
+      "onboard_time": 1763065573,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16253,
+      "num": 29231,
+      "word": "女单四强神仙打架",
+      "onboard_time": 1763065875,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -47147,6 +47195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15323,
+      "num": 29216,
+      "word": "小孩试金手镯被索赔1000实赔100",
+      "onboard_time": 1763071934,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15299,
       "num": 123554,
       "word": "员工感叹卖79是不敬业还是说实话",
@@ -47179,12 +47235,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14775,
-      "num": 24918,
-      "word": "心动的信号2吴沛官宣生娃",
-      "onboard_time": 1763060655,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 14823,
+      "num": 29215,
+      "word": "孙颖莎晋级四强",
+      "onboard_time": 1763065333,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 14753,
@@ -47235,14 +47291,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14275,
-      "num": 35775,
-      "word": "一眼找到任嘉伦",
-      "onboard_time": 1763056275,
-      "rank": 48,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 14039,
       "num": 50035,
       "word": "2026年国庆拼假能休17天",
@@ -47259,28 +47307,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14001,
-      "num": 19880,
-      "word": "王楚钦樊振东已交手32次",
-      "onboard_time": 1763065573,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 13946,
-      "num": 24717,
-      "word": "孙颖莎晋级四强",
-      "onboard_time": 1763065333,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13902,
       "num": 196464,
       "word": "神21过境北京太美了",
       "onboard_time": 1761978621,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13902,
+      "num": 35738,
+      "word": "王楚钦眼中的樊振东",
+      "onboard_time": 1763060355,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 13836,
@@ -47305,14 +47345,6 @@
       "onboard_time": 1762027636,
       "rank": 49,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13640,
-      "num": 35738,
-      "word": "王楚钦眼中的樊振东",
-      "onboard_time": 1763060355,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 13524,
@@ -47395,14 +47427,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 13104,
-      "num": 24760,
-      "word": "女单四强神仙打架",
-      "onboard_time": 1763065875,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 13077,
       "num": 85030,
       "word": "美女法医健身不为美是为搬动遗体",
@@ -47457,14 +47481,6 @@
       "onboard_time": 1763061254,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12668,
-      "num": 35670,
-      "word": "快递员因送错快递被杀家属发声",
-      "onboard_time": 1763060293,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12643,

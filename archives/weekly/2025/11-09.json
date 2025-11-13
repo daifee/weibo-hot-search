@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763069795023,
+  "endTime": 1763072788033,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -5324,7 +5324,7 @@
     },
     {
       "raw_hot": 194207,
-      "num": 194207,
+      "num": 388181,
       "word": "5年花25亿请明星没能讨好年轻人",
       "onboard_time": 1763038941,
       "rank": 19,
@@ -17635,6 +17635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39055,
+      "num": 35920,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 38965,
       "num": 96075,
       "word": "穆祉丞自由演唱会纪录片",
@@ -17953,14 +17961,6 @@
       "onboard_time": 1762946421,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33483,
-      "num": 35920,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
     },
     {
       "raw_hot": 33455,
@@ -18555,6 +18555,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23635,
+      "num": 29265,
+      "word": "孙颖莎打削球累得嚼香蕉退场",
+      "onboard_time": 1763069294,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23541,
       "num": 130712,
       "word": "部分高铁受台风影响停运",
@@ -18641,6 +18649,14 @@
       "onboard_time": 1763024661,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 20808,
+      "num": 35670,
+      "word": "快递员因送错快递被杀家属发声",
+      "onboard_time": 1763060293,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20741,
@@ -18763,12 +18779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18933,
+      "num": 29251,
+      "word": "心动的信号2吴沛官宣生娃",
+      "onboard_time": 1763060655,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 18814,
       "num": 176146,
       "word": "早安龙道一热烈的少年",
       "onboard_time": 1763035281,
       "rank": 14,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 18703,
+      "num": 29246,
+      "word": "孙颖莎非常期待半决赛",
+      "onboard_time": 1763065813,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 18664,
@@ -18825,6 +18857,14 @@
       "onboard_time": 1762727656,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 17836,
+      "num": 35775,
+      "word": "一眼找到任嘉伦",
+      "onboard_time": 1763056275,
+      "rank": 48,
+      "category": "艺人,电竞"
     },
     {
       "raw_hot": 17612,
@@ -18915,11 +18955,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15795,
-      "num": 24666,
-      "word": "孙颖莎非常期待半决赛",
-      "onboard_time": 1763065813,
-      "rank": 47,
+      "raw_hot": 16297,
+      "num": 29234,
+      "word": "王楚钦樊振东已交手32次",
+      "onboard_time": 1763065573,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16253,
+      "num": 29231,
+      "word": "女单四强神仙打架",
+      "onboard_time": 1763065875,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -18939,6 +18987,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15323,
+      "num": 29216,
+      "word": "小孩试金手镯被索赔1000实赔100",
+      "onboard_time": 1763071934,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15218,
       "num": 28284,
       "word": "2799元UGG长毛雪地靴酷似玲娜贝儿脚",
@@ -18955,12 +19011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 14775,
-      "num": 24918,
-      "word": "心动的信号2吴沛官宣生娃",
-      "onboard_time": 1763060655,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 14823,
+      "num": 29215,
+      "word": "孙颖莎晋级四强",
+      "onboard_time": 1763065333,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 14710,
@@ -18979,14 +19035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 14275,
-      "num": 35775,
-      "word": "一眼找到任嘉伦",
-      "onboard_time": 1763056275,
-      "rank": 48,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 14037,
       "num": 32445,
       "word": "狼队抢先一个蓝BUFF",
@@ -18995,19 +19043,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 14001,
-      "num": 19880,
-      "word": "王楚钦樊振东已交手32次",
-      "onboard_time": 1763065573,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 13946,
-      "num": 24717,
-      "word": "孙颖莎晋级四强",
-      "onboard_time": 1763065333,
-      "rank": 40,
+      "raw_hot": 13902,
+      "num": 35738,
+      "word": "王楚钦眼中的樊振东",
+      "onboard_time": 1763060355,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -19017,14 +19057,6 @@
       "onboard_time": 1762726935,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 13640,
-      "num": 35738,
-      "word": "王楚钦眼中的樊振东",
-      "onboard_time": 1763060355,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 13486,
@@ -19051,14 +19083,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 13104,
-      "num": 24760,
-      "word": "女单四强神仙打架",
-      "onboard_time": 1763065875,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 12976,
       "num": 23365,
       "word": "周深单依纯开幕式现场演唱主题歌",
@@ -19081,14 +19105,6 @@
       "onboard_time": 1763061254,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12668,
-      "num": 35670,
-      "word": "快递员因送错快递被杀家属发声",
-      "onboard_time": 1763060293,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11777,
