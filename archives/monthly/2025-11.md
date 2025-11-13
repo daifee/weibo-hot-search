@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 22:42:05
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 23:29:23
 </p>
 </blockquote>
 <p>
@@ -851,6 +851,12 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%A4%A9%E6%89%8D%E7%81%B0%E8%89%B2%E4%BA%A7%E4%B8%9A%E9%93%BE%E6%9B%9D%E5%85%89%23" target="weibo">
 小天才灰色产业链曝光（热度：959671）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%84%91%E6%8E%A7%20%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%23" target="weibo">
+脑控 精神分裂（热度：958539）
 </a>
 </li>
 
@@ -2303,12 +2309,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%87%BA%E7%94%9F%E5%90%8E%E6%BB%A1%E8%BA%AB%E5%85%BD%E7%9A%AE%E7%97%A3%23" target="weibo">
 宝宝产检正常出生后满身兽皮痣（热度：585848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%84%91%E6%8E%A7%20%E7%B2%BE%E7%A5%9E%E5%88%86%E8%A3%82%23" target="weibo">
-脑控 精神分裂（热度：585741）
 </a>
 </li>
 

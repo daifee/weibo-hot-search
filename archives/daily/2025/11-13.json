@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763044925143,
+  "endTime": 1763047763771,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -49,6 +49,14 @@
       "onboard_time": 1763007440,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 958539,
+      "num": 206992,
+      "word": "脑控 精神分裂",
+      "onboard_time": 1763043321,
+      "rank": 23,
+      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 882610,
@@ -209,14 +217,6 @@
       "onboard_time": 1763030482,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 585741,
-      "num": 206992,
-      "word": "脑控 精神分裂",
-      "onboard_time": 1763043321,
-      "rank": 23,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 558412,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272760,
+      "num": 272760,
+      "word": "全红婵陈芋汐张家齐都是瑜",
+      "onboard_time": 1763046500,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 272112,
       "num": 187656,
       "word": "章泽天 高配版晚晚",
@@ -1123,6 +1131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190038,
+      "num": 190038,
+      "word": "5年花25亿请明星没能讨好年轻人",
+      "onboard_time": 1763038941,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 189300,
       "num": 163386,
       "word": "易烊千玺厦门路透",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1763022860,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 186268,
+      "num": 211346,
+      "word": "惊天魔盗团3爆米花桶",
+      "onboard_time": 1763043742,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 185741,
@@ -1323,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164281,
+      "num": 153738,
+      "word": "影视飓风Tim称今年开始不接所有电话",
+      "onboard_time": 1763046562,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 163808,
       "num": 163808,
       "word": "孙颖莎说不吃香蕉要没劲了",
@@ -1361,6 +1393,14 @@
       "onboard_time": 1763040683,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161104,
+      "num": 161104,
+      "word": "银行4年3次采购工作服花619万",
+      "onboard_time": 1763046140,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160432,
@@ -1563,6 +1603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142096,
+      "num": 142096,
+      "word": "长白头发可能是缺乏这3种营养",
+      "onboard_time": 1763045302,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 141063,
       "num": 141063,
       "word": "白鹿说友谊超过七年将持续一生",
@@ -1747,14 +1795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130040,
-      "num": 168564,
-      "word": "5年花25亿请明星没能讨好年轻人",
-      "onboard_time": 1763038941,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129360,
       "num": 129360,
       "word": "蒯曼12比14陈梦",
@@ -1811,20 +1851,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 126895,
+      "num": 126895,
+      "word": "无限暖暖",
+      "onboard_time": 1763046380,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 125957,
       "num": 125957,
       "word": "黄金拉升大涨",
       "onboard_time": 1763025261,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 125698,
-      "num": 211346,
-      "word": "惊天魔盗团3爆米花桶",
-      "onboard_time": 1763043742,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 125554,
@@ -2081,6 +2121,14 @@
       "onboard_time": 1763028140,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115713,
+      "num": 115713,
+      "word": "为什么十年前没让我刷到这句话",
+      "onboard_time": 1763046021,
+      "rank": 34,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 115604,
@@ -2521,6 +2569,14 @@
       "onboard_time": 1763044402,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100262,
+      "num": 159426,
+      "word": "不建议用猪肉记号笔标记新生儿",
+      "onboard_time": 1763046681,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99319,
@@ -3059,6 +3115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80664,
+      "num": 80664,
+      "word": "唐钱婷领衔00后努力实践诺言",
+      "onboard_time": 1763047341,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80613,
       "num": 80613,
       "word": "Steam主机公开",
@@ -3203,6 +3267,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75924,
+      "num": 75924,
+      "word": "樊振东此前对阵王楚钦25胜7负",
+      "onboard_time": 1763047579,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75161,
       "num": 75161,
       "word": "韩网爆料Doran续约",
@@ -3211,12 +3283,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 74609,
+      "num": 153254,
+      "word": "狗咬人引发杀人案起诉书详情披露",
+      "onboard_time": 1763046082,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73783,
       "num": 73783,
       "word": "爱凑热闹的除了人还有猫",
       "onboard_time": 1763004079,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73635,
+      "num": 73635,
+      "word": "Fly年度榜样电竞人物",
+      "onboard_time": 1763047282,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 73470,
@@ -3243,12 +3331,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72225,
+      "num": 72225,
+      "word": "全场高呼子豪子豪地动山摇",
+      "onboard_time": 1763046622,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72162,
       "num": 89034,
       "word": "男子雪山滑坠重伤爬行10小时求救",
       "onboard_time": 1763017221,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72110,
+      "num": 72110,
+      "word": "京东第3季度财报",
+      "onboard_time": 1763047220,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 71926,
@@ -3273,6 +3377,14 @@
       "onboard_time": 1762989559,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71203,
+      "num": 71203,
+      "word": "一辈子在做平板支撑的西高地",
+      "onboard_time": 1763047521,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 70621,
@@ -3449,6 +3561,22 @@
       "onboard_time": 1763023341,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 59563,
+      "num": 160617,
+      "word": "多款App摇一摇 跳转广告",
+      "onboard_time": 1763046622,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59362,
+      "num": 164280,
+      "word": "竞燃之夜荣誉名单",
+      "onboard_time": 1763046082,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 57291,
