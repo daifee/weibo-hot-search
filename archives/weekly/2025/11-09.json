@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763026257686,
+  "endTime": 1763026991770,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -2051,6 +2051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 402628,
+      "num": 302462,
+      "word": "倪妮 金鸡奖主持",
+      "onboard_time": 1763025201,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 402509,
       "num": 372961,
       "word": "男子暴打92岁母亲被刑拘",
@@ -2827,6 +2835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 319238,
+      "num": 163036,
+      "word": "影视飓风Tim 相亲简历",
+      "onboard_time": 1763024119,
+      "rank": 23,
+      "category": "数码"
+    },
+    {
       "raw_hot": 319135,
       "num": 319135,
       "word": "穿普拉达的女王2首支预告",
@@ -2963,14 +2979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 302462,
-      "num": 302462,
-      "word": "倪妮 金鸡奖主持",
-      "onboard_time": 1763025201,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 301940,
       "num": 206127,
       "word": "男子喉咙痛1个月咽喉长满雪花",
@@ -3075,14 +3083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 295148,
-      "num": 163036,
-      "word": "影视飓风Tim 相亲简历",
-      "onboard_time": 1763024119,
-      "rank": 23,
-      "category": "数码"
-    },
-    {
       "raw_hot": 294650,
       "num": 160572,
       "word": "印度警察把轮奸案名单变为创收项目",
@@ -3144,6 +3144,14 @@
       "word": "威廉王子不准孩子用手机",
       "onboard_time": 1762846280,
       "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 291535,
+      "num": 197052,
+      "word": "日本店员遭熊袭击浑身血继续做拉面",
+      "onboard_time": 1763025320,
+      "rank": 17,
       "category": "海外新闻"
     },
     {
@@ -3313,6 +3321,14 @@
       "onboard_time": 1762850601,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 279237,
+      "num": 279237,
+      "word": "九阳股份涨停",
+      "onboard_time": 1763023520,
+      "rank": 36,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 279230,
@@ -3681,14 +3697,6 @@
       "onboard_time": 1762689802,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 252787,
-      "num": 252787,
-      "word": "九阳股份涨停",
-      "onboard_time": 1763023520,
-      "rank": 36,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 252506,
@@ -4731,6 +4739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 199392,
+      "num": 199392,
+      "word": "AG全员西装登场",
+      "onboard_time": 1763025981,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199334,
       "num": 114331,
       "word": "赤裸小孩生长发育正常",
@@ -4801,6 +4817,14 @@
       "onboard_time": 1762957883,
       "rank": 25,
       "category": "演出"
+    },
+    {
+      "raw_hot": 196550,
+      "num": 196550,
+      "word": "这个转场够我学一辈子",
+      "onboard_time": 1763026341,
+      "rank": 13,
+      "category": "幽默"
     },
     {
       "raw_hot": 196408,
@@ -4905,14 +4929,6 @@
       "onboard_time": 1762921042,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192900,
-      "num": 192900,
-      "word": "AG全员西装登场",
-      "onboard_time": 1763025981,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 192696,
@@ -5385,14 +5401,6 @@
       "onboard_time": 1762959862,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 180465,
-      "num": 180465,
-      "word": "日本店员遭熊袭击浑身血继续做拉面",
-      "onboard_time": 1763025320,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 180307,
@@ -5923,6 +5931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 165253,
+      "num": 157758,
+      "word": "卢昱晓往那一站就出神图了",
+      "onboard_time": 1763022380,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165216,
       "num": 165216,
       "word": "男子带猪肉记号笔陪产怕孩子抱错",
@@ -5937,14 +5953,6 @@
       "onboard_time": 1762673240,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 164556,
-      "num": 157758,
-      "word": "卢昱晓往那一站就出神图了",
-      "onboard_time": 1763022380,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 164549,
@@ -8235,6 +8243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 125128,
+      "num": 120234,
+      "word": "十个勤天 重赏之下必有莽夫",
+      "onboard_time": 1763025981,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125096,
       "num": 125096,
       "word": "Shanji要自费去T1打上单",
@@ -8859,6 +8875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118472,
+      "num": 118472,
+      "word": "奔跑吧天路篇定档",
+      "onboard_time": 1763026520,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118420,
       "num": 118420,
       "word": "李煜东 智力不详但心地善良",
@@ -9347,6 +9371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 112453,
+      "num": 112453,
+      "word": "贾玲晒黑了",
+      "onboard_time": 1763025021,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112428,
       "num": 112428,
       "word": "白敬亭 你愿不愿意和我牙齐走",
@@ -9707,6 +9739,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 108393,
+      "num": 108393,
+      "word": "U18女团决赛少女们幸福的泪水",
+      "onboard_time": 1763026760,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108241,
       "num": 108241,
       "word": "女子在建行存款近30年却无法取出",
@@ -10017,14 +10057,6 @@
       "onboard_time": 1762744700,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105565,
-      "num": 105565,
-      "word": "贾玲晒黑了",
-      "onboard_time": 1763025021,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 105499,
@@ -11569,14 +11601,6 @@
       "onboard_time": 1762836681,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 94211,
-      "num": 94211,
-      "word": "十个勤天 重赏之下必有莽夫",
-      "onboard_time": 1763025981,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 94205,
@@ -13323,6 +13347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 79790,
+      "num": 106049,
+      "word": "男子称要在庭上问为何杀我一家五口",
+      "onboard_time": 1763025740,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79776,
       "num": 135539,
       "word": "神20返回任务有序推进",
@@ -14515,6 +14547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66860,
+      "num": 94096,
+      "word": "7397万体彩中奖者买彩票时衣着怪异",
+      "onboard_time": 1763026701,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66466,
       "num": 66466,
       "word": "人生最好的节奏是什么",
@@ -15243,14 +15283,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 55175,
-      "num": 106049,
-      "word": "男子称要在庭上问为何杀我一家五口",
-      "onboard_time": 1763025740,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55092,
       "num": 105378,
       "word": "于文文音乐节",
@@ -15369,6 +15401,14 @@
       "onboard_time": 1762778901,
       "rank": 34,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 52973,
+      "num": 93197,
+      "word": "王楚钦为了头发也是拼了",
+      "onboard_time": 1763026520,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 52914,
@@ -16331,6 +16371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37360,
+      "num": 311492,
+      "word": "致敬全运会赛场上的老将",
+      "onboard_time": 1763025919,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 37187,
       "num": 98740,
       "word": "何穗怎么恢复的",
@@ -16633,14 +16681,6 @@
       "onboard_time": 1762666340,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31601,
-      "num": 311492,
-      "word": "致敬全运会赛场上的老将",
-      "onboard_time": 1763025919,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 31105,
@@ -16979,6 +17019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25403,
+      "num": 198124,
+      "word": "竞燃红毯名场面",
+      "onboard_time": 1763025021,
+      "rank": 14,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 25286,
       "num": 64764,
       "word": "王一博宣传环保VCR",
@@ -17265,14 +17313,6 @@
       "onboard_time": 1762757180,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 18398,
-      "num": 198124,
-      "word": "竞燃红毯名场面",
-      "onboard_time": 1763025021,
-      "rank": 14,
-      "category": "电竞,体育"
     },
     {
       "raw_hot": 18257,
