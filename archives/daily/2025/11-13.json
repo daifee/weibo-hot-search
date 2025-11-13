@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763018794889,
+  "endTime": 1763019652825,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 385374,
-      "num": 159113,
+      "num": 163318,
       "word": "暗河传戏服卖掉了",
       "onboard_time": 1763012061,
       "rank": 30,
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358024,
+      "num": 157227,
+      "word": "于正回应赵樱子适合演小龙女",
+      "onboard_time": 1763017640,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356621,
       "num": 356621,
       "word": "内娱综艺收官濒临破产散伙",
@@ -289,6 +297,14 @@
       "onboard_time": 1763000538,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334873,
+      "num": 156201,
+      "word": "辛芷蕾回鹤岗撸串了",
+      "onboard_time": 1763018420,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 332744,
@@ -332,7 +348,7 @@
     },
     {
       "raw_hot": 306487,
-      "num": 161763,
+      "num": 164796,
       "word": "白鹿回应哭了",
       "onboard_time": 1763015061,
       "rank": 17,
@@ -500,31 +516,31 @@
     },
     {
       "raw_hot": 230117,
-      "num": 147594,
+      "num": 152069,
       "word": "陆虎嘘嘘十周年再拍婚纱照",
       "onboard_time": 1763017400,
       "rank": 24,
       "category": "艺人"
     },
     {
+      "raw_hot": 228648,
+      "num": 164288,
+      "word": "文淇 我的长相演不了孬种",
+      "onboard_time": 1763018182,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 225797,
-      "num": 144577,
+      "num": 150637,
       "word": "陈梦有望冲击超级大满贯",
       "onboard_time": 1763015119,
       "rank": 25,
       "category": "体育"
     },
     {
-      "raw_hot": 223305,
-      "num": 146279,
-      "word": "辛芷蕾回鹤岗撸串了",
-      "onboard_time": 1763018420,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223073,
-      "num": 157250,
+      "num": 163691,
       "word": "李一桐方严正声明",
       "onboard_time": 1763015240,
       "rank": 16,
@@ -532,7 +548,7 @@
     },
     {
       "raw_hot": 220546,
-      "num": 156654,
+      "num": 163110,
       "word": "六公主镜头下的素颜鹤男",
       "onboard_time": 1763016140,
       "rank": 33,
@@ -571,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197530,
+      "num": 153595,
+      "word": "杨紫好瘦",
+      "onboard_time": 1763019140,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192666,
       "num": 157996,
       "word": "四喜偏偏你最争气",
       "onboard_time": 1763011520,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 189300,
+      "num": 163386,
+      "word": "易烊千玺厦门路透",
+      "onboard_time": 1763017281,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 188463,
@@ -627,14 +659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 180183,
-      "num": 143969,
-      "word": "于正回应赵樱子适合演小龙女",
-      "onboard_time": 1763017640,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 179908,
       "num": 179908,
       "word": "女子称咖啡灌肠能清血毒",
@@ -683,14 +707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165325,
-      "num": 154181,
-      "word": "易烊千玺厦门路透",
-      "onboard_time": 1763017281,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163577,
       "num": 149010,
       "word": "惹一个喜君会冒出来三个犟种",
@@ -704,6 +720,22 @@
       "word": "奔跑吧",
       "onboard_time": 1763008941,
       "rank": 37,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 159569,
+      "num": 151636,
+      "word": "33西装daddy级别",
+      "onboard_time": 1763018840,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 158969,
+      "num": 158969,
+      "word": "孙天宇 我心里这就是第一名",
+      "onboard_time": 1763018480,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -811,6 +843,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 144848,
+      "num": 164983,
+      "word": "奇瑞天门山测试无需文旅部门审批",
+      "onboard_time": 1763017820,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141063,
       "num": 141063,
       "word": "白鹿说友谊超过七年将持续一生",
@@ -851,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 134645,
-      "num": 134645,
-      "word": "文淇 我的长相演不了孬种",
-      "onboard_time": 1763018182,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 134476,
       "num": 131835,
       "word": "Viper目前被LPL和LCK战队疯抢",
@@ -889,6 +921,14 @@
       "onboard_time": 1763016081,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131274,
+      "num": 131274,
+      "word": "压力大时要吃甜品的原因",
+      "onboard_time": 1763018480,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 129360,
@@ -1003,6 +1043,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121014,
+      "num": 121014,
+      "word": "原来美甲也是轮回",
+      "onboard_time": 1763018240,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 120832,
       "num": 116400,
       "word": "库里爆砍46分",
@@ -1017,14 +1065,6 @@
       "onboard_time": 1763015481,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119947,
-      "num": 119947,
-      "word": "压力大时要吃甜品的原因",
-      "onboard_time": 1763018480,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 119412,
@@ -1051,19 +1091,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118805,
+      "num": 118805,
+      "word": "产后12个小时的真实感受",
+      "onboard_time": 1763017880,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 118502,
       "num": 118502,
       "word": "男子溺亡被同伴运回家摆成睡姿",
       "onboard_time": 1762949781,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117738,
-      "num": 162845,
-      "word": "奇瑞天门山测试无需文旅部门审批",
-      "onboard_time": 1763017820,
-      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -1163,14 +1203,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 108232,
-      "num": 108232,
-      "word": "产后12个小时的真实感受",
-      "onboard_time": 1763017880,
-      "rank": 37,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108109,
       "num": 108109,
       "word": "爱喝咖啡的人或更显年轻",
@@ -1267,20 +1299,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 100922,
-      "num": 100922,
-      "word": "孙天宇 我心里这就是第一名",
-      "onboard_time": 1763018480,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 100780,
       "num": 100780,
       "word": "无期迷途",
       "onboard_time": 1763010801,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100719,
+      "num": 100719,
+      "word": "全红婵自嘲玩不懂像老年人",
+      "onboard_time": 1763018660,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 100613,
@@ -1315,6 +1347,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 96914,
+      "num": 96914,
+      "word": "发明全运会小烧鹅的人是天才",
+      "onboard_time": 1763019321,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96784,
       "num": 96784,
       "word": "美众议院通过临时拨款法案",
@@ -1339,6 +1379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95107,
+      "num": 106460,
+      "word": "杨幂女人中的女人",
+      "onboard_time": 1763018420,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 93684,
       "num": 89006,
       "word": "各国大学发offer的态度",
@@ -1353,14 +1401,6 @@
       "onboard_time": 1763016559,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 93027,
-      "num": 93027,
-      "word": "原来美甲也是轮回",
-      "onboard_time": 1763018240,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 92477,
@@ -1459,6 +1499,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 87099,
+      "num": 87099,
+      "word": "第一次见球形的猫",
+      "onboard_time": 1763019501,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86973,
       "num": 86973,
       "word": "当你发现可以这样夹头发时",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1762955122,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 82537,
+      "num": 82537,
+      "word": "汪顺反应时0.14",
+      "onboard_time": 1763019501,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 82309,
@@ -1923,14 +1979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 54878,
-      "num": 106460,
-      "word": "杨幂女人中的女人",
-      "onboard_time": 1763018420,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 54358,
       "num": 54358,
       "word": "台湾高雄议会现场爆发激烈冲突",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1762994301,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48257,
+      "num": 105846,
+      "word": "李在明开会时3名官员轮流自拍",
+      "onboard_time": 1763018720,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47464,
@@ -2052,7 +2108,7 @@
     },
     {
       "raw_hot": 42966,
-      "num": 157970,
+      "num": 163863,
       "word": "微博竞燃之夜直播",
       "onboard_time": 1763017221,
       "rank": 14,
@@ -2083,12 +2139,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41034,
-      "num": 96754,
-      "word": "李在明开会时3名官员轮流自拍",
-      "onboard_time": 1763018720,
-      "rank": 44,
-      "category": "国际时政"
+      "raw_hot": 41375,
+      "num": 98512,
+      "word": "黄景瑜陪爸妈吃饭",
+      "onboard_time": 1763019620,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 40615,
@@ -2236,7 +2292,7 @@
     },
     {
       "raw_hot": 22020,
-      "num": 74262,
+      "num": 217929,
       "word": "相约第十五届全运会",
       "onboard_time": 1763015420,
       "rank": 40,

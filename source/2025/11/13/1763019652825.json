@@ -1,0 +1,410 @@
+{
+  "runTime": 1763019652825,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 529596,
+        "num": 1084735,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 218125,
+        "num": 218125,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18140,
+        "num": 217929,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1763015420,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 590539,
+        "num": 207921,
+        "word": "警方回应路虎撞飞持刀男子",
+        "onboard_time": 1763013500,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 330092,
+        "num": 196046,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318230,
+        "num": 185233,
+        "word": "世界乒乓球冠军利用影响力受贿获刑",
+        "onboard_time": 1763013800,
+        "rank": 5,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 178761,
+        "num": 178761,
+        "word": "不允许城镇居民到农村买农房",
+        "onboard_time": 1763007561,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165257,
+        "num": 165257,
+        "word": "李晨在跑男那一套不管用了",
+        "onboard_time": 1763010740,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145214,
+        "num": 165065,
+        "word": "中国黄金回应试戴金镯10秒被索赔1000",
+        "onboard_time": 1763005461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144848,
+        "num": 164983,
+        "word": "奇瑞天门山测试无需文旅部门审批",
+        "onboard_time": 1763017820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292771,
+        "num": 164796,
+        "word": "白鹿回应哭了",
+        "onboard_time": 1763015061,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282592,
+        "num": 164477,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 228648,
+        "num": 164288,
+        "word": "文淇 我的长相演不了孬种",
+        "onboard_time": 1763018182,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223389,
+        "num": 164072,
+        "word": "小猫去世后猫厕所弹出的提示",
+        "onboard_time": 1763006240,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37450,
+        "num": 163863,
+        "word": "微博竞燃之夜直播",
+        "onboard_time": 1763017221,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195549,
+        "num": 163691,
+        "word": "李一桐方严正声明",
+        "onboard_time": 1763015240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189300,
+        "num": 163386,
+        "word": "易烊千玺厦门路透",
+        "onboard_time": 1763017281,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175535,
+        "num": 163318,
+        "word": "暗河传戏服卖掉了",
+        "onboard_time": 1763012061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163110,
+        "num": 163110,
+        "word": "六公主镜头下的素颜鹤男",
+        "onboard_time": 1763016140,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158969,
+        "num": 158969,
+        "word": "孙天宇 我心里这就是第一名",
+        "onboard_time": 1763018480,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 501022,
+        "num": 158278,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 358024,
+        "num": 157227,
+        "word": "于正回应赵樱子适合演小龙女",
+        "onboard_time": 1763017640,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334873,
+        "num": 156201,
+        "word": "辛芷蕾回鹤岗撸串了",
+        "onboard_time": 1763018420,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311484,
+        "num": 155047,
+        "word": "黄晓明48岁生日镜像成了84岁",
+        "onboard_time": 1763002340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259015,
+        "num": 154190,
+        "word": "宋祖儿腿太细了",
+        "onboard_time": 1763005160,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197530,
+        "num": 153595,
+        "word": "杨紫好瘦",
+        "onboard_time": 1763019140,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191342,
+        "num": 152069,
+        "word": "陆虎嘘嘘十周年再拍婚纱照",
+        "onboard_time": 1763017400,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159569,
+        "num": 151636,
+        "word": "33西装daddy级别",
+        "onboard_time": 1763018840,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150637,
+        "num": 150637,
+        "word": "陈梦有望冲击超级大满贯",
+        "onboard_time": 1763015119,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81111,
+        "num": 132422,
+        "word": "星辰大海 曹骏",
+        "onboard_time": 1763008641,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131274,
+        "num": 131274,
+        "word": "压力大时要吃甜品的原因",
+        "onboard_time": 1763018480,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 130054,
+        "num": 130054,
+        "word": "李施嬅 再见爱人不是追女孩的节目",
+        "onboard_time": 1763012841,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126234,
+        "num": 126234,
+        "word": "张凌赫带50只螃蟹来蘑菇屋",
+        "onboard_time": 1763008882,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121014,
+        "num": 121014,
+        "word": "原来美甲也是轮回",
+        "onboard_time": 1763018240,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 120620,
+        "num": 120620,
+        "word": "原来很久以前就流行腿套了",
+        "onboard_time": 1763016799,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 119263,
+        "num": 119263,
+        "word": "今年双11为何不火了",
+        "onboard_time": 1763017760,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118805,
+        "num": 118805,
+        "word": "产后12个小时的真实感受",
+        "onboard_time": 1763017880,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 112760,
+        "num": 112760,
+        "word": "原来这是缺爱的表现",
+        "onboard_time": 1763014281,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108922,
+        "num": 108922,
+        "word": "王一博换发型了",
+        "onboard_time": 1763010681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48257,
+        "num": 105846,
+        "word": "李在明开会时3名官员轮流自拍",
+        "onboard_time": 1763018720,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95107,
+        "num": 104748,
+        "word": "杨幂女人中的女人",
+        "onboard_time": 1763018420,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104520,
+        "num": 104520,
+        "word": "约基奇55分",
+        "onboard_time": 1763018000,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100719,
+        "num": 100719,
+        "word": "全红婵自嘲玩不懂像老年人",
+        "onboard_time": 1763018660,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41375,
+        "num": 98512,
+        "word": "黄景瑜陪爸妈吃饭",
+        "onboard_time": 1763019620,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96914,
+        "num": 96914,
+        "word": "发明全运会小烧鹅的人是天才",
+        "onboard_time": 1763019321,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92059,
+        "num": 92059,
+        "word": "长隆回应女子带狗被拒崩溃打砸",
+        "onboard_time": 1763015901,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88656,
+        "num": 88656,
+        "word": "吃着特甜但含糖量很低的水果",
+        "onboard_time": 1763018300,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 87099,
+        "num": 87099,
+        "word": "第一次见球形的猫",
+        "onboard_time": 1763019501,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82537,
+        "num": 82537,
+        "word": "汪顺反应时0.14",
+        "onboard_time": 1763019501,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73646,
+        "num": 81487,
+        "word": "汪苏泷 抢票",
+        "onboard_time": 1763011042,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个个瞬间感受总书记的关切事#"
+    }
+  }
+}
