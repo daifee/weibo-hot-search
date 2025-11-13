@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763033933157,
+  "endTime": 1763038550134,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 1346310,
-      "num": 160439,
+      "num": 174164,
       "word": "Tim父亲 圆通总裁",
       "onboard_time": 1763029161,
       "rank": 26,
@@ -208,6 +208,14 @@
       "word": "黄晓明带小海绵参加周岁宴",
       "onboard_time": 1762844420,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1223204,
+      "num": 174376,
+      "word": "徐志胜家到底有多脏",
+      "onboard_time": 1763034801,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -699,6 +707,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 708558,
+      "num": 1113369,
+      "word": "樊振东王楚钦会师半决赛",
+      "onboard_time": 1763036422,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 703194,
       "num": 1112511,
       "word": "汉堡王中国也被卖了",
@@ -876,7 +892,7 @@
     },
     {
       "raw_hot": 653969,
-      "num": 171510,
+      "num": 175769,
       "word": "文科生的天塌了又塌",
       "onboard_time": 1763028321,
       "rank": 16,
@@ -1177,6 +1193,14 @@
       "onboard_time": 1762918581,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571511,
+      "num": 571511,
+      "word": "覃海洋50蛙犯规被取消成绩",
+      "onboard_time": 1763036541,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 569968,
@@ -1483,6 +1507,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 501572,
+      "num": 501572,
+      "word": "王楚钦4比2战胜林高远",
+      "onboard_time": 1763035761,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 500363,
       "num": 500363,
       "word": "秋假",
@@ -1497,6 +1529,14 @@
       "onboard_time": 1762774820,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 498000,
+      "num": 177089,
+      "word": "快递员送错快递被当场刺伤身亡",
+      "onboard_time": 1763036840,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 496356,
@@ -1708,7 +1748,7 @@
     },
     {
       "raw_hot": 467611,
-      "num": 166508,
+      "num": 172661,
       "word": "徐艺洋用湿厕纸给黄子韬擦嘴",
       "onboard_time": 1763027421,
       "rank": 21,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1762749021,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 459821,
+      "num": 176881,
+      "word": "14岁男孩被误诊矮小症打了2940针",
+      "onboard_time": 1763034921,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 458467,
@@ -2420,7 +2468,7 @@
     },
     {
       "raw_hot": 365738,
-      "num": 165973,
+      "num": 173443,
       "word": "摇滚歌手阿珍去世",
       "onboard_time": 1763031861,
       "rank": 12,
@@ -2705,6 +2753,14 @@
       "onboard_time": 1763018420,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334741,
+      "num": 273317,
+      "word": "李奈儿 上官婉儿",
+      "onboard_time": 1763034441,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 333908,
@@ -3060,7 +3116,7 @@
     },
     {
       "raw_hot": 303215,
-      "num": 133364,
+      "num": 173868,
       "word": "控糖到了80多岁的皮肤状态",
       "onboard_time": 1763031501,
       "rank": 23,
@@ -3283,6 +3339,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 289868,
+      "num": 289868,
+      "word": "唐诡 李隆基",
+      "onboard_time": 1763036002,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289700,
       "num": 144840,
       "word": "高市早苗反省",
@@ -3401,6 +3465,14 @@
       "onboard_time": 1762912340,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 283728,
+      "num": 283728,
+      "word": "山西一医院从上到下集体骗保近千万",
+      "onboard_time": 1763031619,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 282751,
@@ -3555,6 +3627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 273459,
+      "num": 273459,
+      "word": "李隆基 太平公主",
+      "onboard_time": 1763036661,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 273334,
       "num": 273334,
       "word": "唐朝诡事录3开分8.1",
@@ -3632,6 +3712,14 @@
       "word": "导演回应大湾鸡选武校娃",
       "onboard_time": 1762998980,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267193,
+      "num": 267193,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1763033423,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -3825,6 +3913,14 @@
       "onboard_time": 1762917020,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252311,
+      "num": 173483,
+      "word": "张桂源 楼凌赫",
+      "onboard_time": 1763036241,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 251784,
@@ -4987,6 +5083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196740,
+      "num": 172956,
+      "word": "王曼昱晋级全运会四强",
+      "onboard_time": 1763037382,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196648,
       "num": 196648,
       "word": "时代少年团 花车",
@@ -5667,6 +5771,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177148,
+      "num": 177148,
+      "word": "一诺获年度竞耀电竞选手",
+      "onboard_time": 1763038522,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176953,
       "num": 185697,
       "word": "石凯 真让我在观众席发现你了",
@@ -5833,6 +5945,14 @@
       "onboard_time": 1762691842,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172244,
+      "num": 172244,
+      "word": "李现人生这一刻属于赛里木湖",
+      "onboard_time": 1763036781,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 172133,
@@ -6091,6 +6211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165752,
+      "num": 175476,
+      "word": "一诺教JackeyLove扫腿舞",
+      "onboard_time": 1763038281,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165710,
       "num": 165710,
       "word": "宋祖儿请粉丝吃烤梨和饭",
@@ -6177,6 +6305,14 @@
       "onboard_time": 1762745539,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163808,
+      "num": 163808,
+      "word": "孙颖莎说不吃香蕉要没劲了",
+      "onboard_time": 1763036482,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 163662,
@@ -6289,14 +6425,6 @@
       "onboard_time": 1762848920,
       "rank": 18,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 160547,
-      "num": 160547,
-      "word": "山西一医院从上到下集体骗保近千万",
-      "onboard_time": 1763031619,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 160440,
@@ -6835,6 +6963,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 150479,
+      "num": 150479,
+      "word": "张展硕全运会800自金牌",
+      "onboard_time": 1763033661,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150382,
       "num": 126212,
       "word": "孙杨说心态崩了",
@@ -7209,14 +7345,6 @@
       "onboard_time": 1762832781,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 143227,
-      "num": 143227,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1763033423,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 143196,
@@ -7683,6 +7811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135317,
+      "num": 135317,
+      "word": "王曼昱半决赛对战陈梦",
+      "onboard_time": 1763038522,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135288,
       "num": 168983,
       "word": "唐诡有自己的莞莞类卿",
@@ -7857,6 +7993,14 @@
       "onboard_time": 1762956743,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132831,
+      "num": 175103,
+      "word": "王建华直播",
+      "onboard_time": 1763036181,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 132830,
@@ -8611,6 +8755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124180,
+      "num": 111874,
+      "word": "覃海洋回应成绩被取消",
+      "onboard_time": 1763038100,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124169,
       "num": 124169,
       "word": "终于明白外国人看李子柒的感觉了",
@@ -8769,6 +8921,14 @@
       "onboard_time": 1762932200,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122358,
+      "num": 172459,
+      "word": "历年爆剧",
+      "onboard_time": 1763035461,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 122242,
@@ -9683,6 +9843,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112213,
+      "num": 112213,
+      "word": "王楚钦连追7分",
+      "onboard_time": 1763035040,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112156,
       "num": 112156,
       "word": "这些食物竟然比喝油还长肉",
@@ -9904,6 +10072,22 @@
       "word": "向鹏爆冷出局",
       "onboard_time": 1762785684,
       "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109597,
+      "num": 109597,
+      "word": "王楚钦展臂拥抱胜利",
+      "onboard_time": 1763036961,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109560,
+      "num": 109560,
+      "word": "徐放200米蝶金牌",
+      "onboard_time": 1763038460,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -10691,6 +10875,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 103125,
+      "num": 103125,
+      "word": "松天硕直播",
+      "onboard_time": 1763038222,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103095,
       "num": 103095,
       "word": "樊振东回应用反手发球",
@@ -10819,14 +11011,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102040,
-      "num": 100863,
-      "word": "张展硕全运会800自金牌",
-      "onboard_time": 1763033661,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 102022,
       "num": 102022,
       "word": "流浪清融手势舞",
@@ -10889,6 +11073,14 @@
       "onboard_time": 1762834401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101550,
+      "num": 101550,
+      "word": "王楚钦说现在是为未来做积淀",
+      "onboard_time": 1763038400,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 101506,
@@ -13483,6 +13675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82451,
+      "num": 134227,
+      "word": "男子因朋友圈无人点赞患上抑郁症",
+      "onboard_time": 1763037681,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82359,
       "num": 82359,
       "word": "浙江男篮爆冷晋级决赛",
@@ -14361,6 +14561,14 @@
       "onboard_time": 1762669401,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73933,
+      "num": 176656,
+      "word": "200亩白菜被哄抢谁来赔",
+      "onboard_time": 1763037201,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73862,
@@ -15843,6 +16051,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 53508,
+      "num": 132848,
+      "word": "多益网络招聘打死流浪狗的高校保安",
+      "onboard_time": 1763037440,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53433,
       "num": 226128,
       "word": "蒯曼vs陈梦",
@@ -16008,6 +16224,14 @@
       "word": "为吸粉引流直播谩骂三人被行拘",
       "onboard_time": 1762735100,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49770,
+      "num": 100999,
+      "word": "孩子救命药纳入医保后却遇断供",
+      "onboard_time": 1763036122,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -16289,6 +16513,14 @@
       "onboard_time": 1762700182,
       "rank": 48,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 46022,
+      "num": 174833,
+      "word": "18岁少年考取大学后病逝",
+      "onboard_time": 1763037800,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45994,
@@ -16852,7 +17084,7 @@
     },
     {
       "raw_hot": 37360,
-      "num": 451825,
+      "num": 529178,
       "word": "致敬全运会赛场上的老将",
       "onboard_time": 1763025919,
       "rank": 2,
@@ -17193,6 +17425,14 @@
       "onboard_time": 1762817898,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31069,
+      "num": 132066,
+      "word": "男子和母亲吵架从14楼扔菜刀",
+      "onboard_time": 1763037621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31057,
@@ -17803,6 +18043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18995,
+      "num": 174607,
+      "word": "马库斯创办的和平小屋遭无端破坏",
+      "onboard_time": 1763037320,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18987,
       "num": 125486,
       "word": "多付车费轻生家属称司机庭上拒道歉",
@@ -17811,12 +18059,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18814,
+      "num": 176146,
+      "word": "早安龙道一热烈的少年",
+      "onboard_time": 1763035281,
+      "rank": 14,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 18664,
       "num": 298381,
       "word": "音乐节也能抢红包",
       "onboard_time": 1762690584,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18658,
+      "num": 134446,
+      "word": "寄拍模特下单千元后商家闭店",
+      "onboard_time": 1763038522,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18652,

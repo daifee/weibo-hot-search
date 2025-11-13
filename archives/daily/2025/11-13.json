@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763033933157,
+  "endTime": 1763038550134,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1346310,
-      "num": 160439,
+      "num": 174164,
       "word": "Tim父亲 圆通总裁",
       "onboard_time": 1763029161,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1223204,
+      "num": 174376,
+      "word": "徐志胜家到底有多脏",
+      "onboard_time": 1763034801,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1193684,
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 708558,
+      "num": 1113369,
+      "word": "樊振东王楚钦会师半决赛",
+      "onboard_time": 1763036422,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 697538,
       "num": 170923,
       "word": "杨紫好瘦",
@@ -100,7 +116,7 @@
     },
     {
       "raw_hot": 653969,
-      "num": 171510,
+      "num": 175769,
       "word": "文科生的天塌了又塌",
       "onboard_time": 1763028321,
       "rank": 16,
@@ -155,6 +171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 571511,
+      "num": 571511,
+      "word": "覃海洋50蛙犯规被取消成绩",
+      "onboard_time": 1763036541,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 551543,
       "num": 125407,
       "word": "续面事件老板回应被女顾客起诉",
@@ -185,6 +209,22 @@
       "onboard_time": 1762959443,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 501572,
+      "num": 501572,
+      "word": "王楚钦4比2战胜林高远",
+      "onboard_time": 1763035761,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 498000,
+      "num": 177089,
+      "word": "快递员送错快递被当场刺伤身亡",
+      "onboard_time": 1763036840,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 484427,
@@ -228,7 +268,7 @@
     },
     {
       "raw_hot": 467611,
-      "num": 166508,
+      "num": 172661,
       "word": "徐艺洋用湿厕纸给黄子韬擦嘴",
       "onboard_time": 1763027421,
       "rank": 21,
@@ -241,6 +281,14 @@
       "onboard_time": 1763005940,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459821,
+      "num": 176881,
+      "word": "14岁男孩被误诊矮小症打了2940针",
+      "onboard_time": 1763034921,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 452756,
@@ -388,7 +436,7 @@
     },
     {
       "raw_hot": 365738,
-      "num": 165973,
+      "num": 173443,
       "word": "摇滚歌手阿珍去世",
       "onboard_time": 1763031861,
       "rank": 12,
@@ -441,6 +489,14 @@
       "onboard_time": 1763018420,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 334741,
+      "num": 273317,
+      "word": "李奈儿 上官婉儿",
+      "onboard_time": 1763034441,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 332744,
@@ -524,7 +580,7 @@
     },
     {
       "raw_hot": 303215,
-      "num": 133364,
+      "num": 173868,
       "word": "控糖到了80多岁的皮肤状态",
       "onboard_time": 1763031501,
       "rank": 23,
@@ -571,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 289868,
+      "num": 289868,
+      "word": "唐诡 李隆基",
+      "onboard_time": 1763036002,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 289700,
       "num": 144840,
       "word": "高市早苗反省",
@@ -585,6 +649,14 @@
       "onboard_time": 1762989197,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 283728,
+      "num": 283728,
+      "word": "山西一医院从上到下集体骗保近千万",
+      "onboard_time": 1763031619,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 282751,
@@ -627,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 273459,
+      "num": 273459,
+      "word": "李隆基 太平公主",
+      "onboard_time": 1763036661,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272112,
       "num": 187656,
       "word": "章泽天 高配版晚晚",
@@ -648,6 +728,14 @@
       "word": "导演回应大湾鸡选武校娃",
       "onboard_time": 1762998980,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267193,
+      "num": 267193,
+      "word": "王曼昱vs王艺迪",
+      "onboard_time": 1763033423,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -697,6 +785,14 @@
       "onboard_time": 1763002640,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 252311,
+      "num": 173483,
+      "word": "张桂源 楼凌赫",
+      "onboard_time": 1763036241,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 250106,
@@ -907,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196740,
+      "num": 172956,
+      "word": "王曼昱晋级全运会四强",
+      "onboard_time": 1763037382,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196420,
       "num": 165932,
       "word": "孙颖莎vs朱雨玲",
@@ -1027,6 +1131,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 177148,
+      "num": 177148,
+      "word": "一诺获年度竞耀电竞选手",
+      "onboard_time": 1763038522,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 172244,
+      "num": 172244,
+      "word": "李现人生这一刻属于赛里木湖",
+      "onboard_time": 1763036781,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171688,
       "num": 270243,
       "word": "从KK园区逃离者被当货物转卖",
@@ -1067,12 +1187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165752,
+      "num": 175476,
+      "word": "一诺教JackeyLove扫腿舞",
+      "onboard_time": 1763038281,
+      "rank": 16,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165253,
       "num": 157758,
       "word": "卢昱晓往那一站就出神图了",
       "onboard_time": 1763022380,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163808,
+      "num": 163808,
+      "word": "孙颖莎说不吃香蕉要没劲了",
+      "onboard_time": 1763036482,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 163577,
@@ -1089,14 +1225,6 @@
       "onboard_time": 1763008941,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160547,
-      "num": 160547,
-      "word": "山西一医院从上到下集体骗保近千万",
-      "onboard_time": 1763031619,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 160432,
@@ -1203,6 +1331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150479,
+      "num": 150479,
+      "word": "张展硕全运会800自金牌",
+      "onboard_time": 1763033661,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150123,
       "num": 119481,
       "word": "离婚证后面有囍字",
@@ -1257,14 +1393,6 @@
       "onboard_time": 1763017820,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143227,
-      "num": 143227,
-      "word": "王曼昱vs王艺迪",
-      "onboard_time": 1763033423,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 142682,
@@ -1331,6 +1459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 135317,
+      "num": 135317,
+      "word": "王曼昱半决赛对战陈梦",
+      "onboard_time": 1763038522,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135288,
       "num": 168983,
       "word": "唐诡有自己的莞莞类卿",
@@ -1376,6 +1512,14 @@
       "word": "喜人喜团合作赛好红的底",
       "onboard_time": 1763016081,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132831,
+      "num": 175103,
+      "word": "王建华直播",
+      "onboard_time": 1763036181,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -1499,6 +1643,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 124180,
+      "num": 111874,
+      "word": "覃海洋回应成绩被取消",
+      "onboard_time": 1763038100,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123727,
       "num": 123727,
       "word": "彭小苒工作室真进高手了",
@@ -1537,6 +1689,14 @@
       "onboard_time": 1762989318,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122358,
+      "num": 172459,
+      "word": "历年爆剧",
+      "onboard_time": 1763035461,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 121817,
@@ -1755,6 +1915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112213,
+      "num": 112213,
+      "word": "王楚钦连追7分",
+      "onboard_time": 1763035040,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111762,
       "num": 111762,
       "word": "一个普通县城家庭的35年",
@@ -1792,6 +1960,22 @@
       "word": "约基奇55分",
       "onboard_time": 1763018000,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109597,
+      "num": 109597,
+      "word": "王楚钦展臂拥抱胜利",
+      "onboard_time": 1763036961,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109560,
+      "num": 109560,
+      "word": "徐放200米蝶金牌",
+      "onboard_time": 1763038460,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -1907,6 +2091,14 @@
       "category": "汽车,民生新闻"
     },
     {
+      "raw_hot": 103125,
+      "num": 103125,
+      "word": "松天硕直播",
+      "onboard_time": 1763038222,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102951,
       "num": 102951,
       "word": "孙杨说心态崩了",
@@ -1939,19 +2131,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 102040,
-      "num": 100863,
-      "word": "张展硕全运会800自金牌",
-      "onboard_time": 1763033661,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101880,
       "num": 101880,
       "word": "孙颖莎王曼昱陈梦等冲4强",
       "onboard_time": 1762994241,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101550,
+      "num": 101550,
+      "word": "王楚钦说现在是为未来做积淀",
+      "onboard_time": 1763038400,
+      "rank": 47,
       "category": "体育"
     },
     {
@@ -2443,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 82451,
+      "num": 134227,
+      "word": "男子因朋友圈无人点赞患上抑郁症",
+      "onboard_time": 1763037681,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82309,
       "num": 82309,
       "word": "曝今晚LPL中下有关键选手要定了",
@@ -2617,6 +2817,14 @@
       "onboard_time": 1763013320,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73933,
+      "num": 176656,
+      "word": "200亩白菜被哄抢谁来赔",
+      "onboard_time": 1763037201,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73783,
@@ -2899,6 +3107,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 53508,
+      "num": 132848,
+      "word": "多益网络招聘打死流浪狗的高校保安",
+      "onboard_time": 1763037440,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53433,
       "num": 226128,
       "word": "蒯曼vs陈梦",
@@ -2921,6 +3137,14 @@
       "onboard_time": 1762964360,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 49770,
+      "num": 100999,
+      "word": "孩子救命药纳入医保后却遇断供",
+      "onboard_time": 1763036122,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49170,
@@ -3009,6 +3233,14 @@
       "onboard_time": 1762990038,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46022,
+      "num": 174833,
+      "word": "18岁少年考取大学后病逝",
+      "onboard_time": 1763037800,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44123,
@@ -3124,7 +3356,7 @@
     },
     {
       "raw_hot": 37360,
-      "num": 451825,
+      "num": 529178,
       "word": "致敬全运会赛场上的老将",
       "onboard_time": 1763025919,
       "rank": 2,
@@ -3201,6 +3433,14 @@
       "onboard_time": 1762969096,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 31069,
+      "num": 132066,
+      "word": "男子和母亲吵架从14楼扔菜刀",
+      "onboard_time": 1763037621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28041,
@@ -3337,6 +3577,30 @@
       "onboard_time": 1763022022,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18995,
+      "num": 174607,
+      "word": "马库斯创办的和平小屋遭无端破坏",
+      "onboard_time": 1763037320,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18814,
+      "num": 176146,
+      "word": "早安龙道一热烈的少年",
+      "onboard_time": 1763035281,
+      "rank": 14,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 18658,
+      "num": 134446,
+      "word": "寄拍模特下单千元后商家闭店",
+      "onboard_time": 1763038522,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18349,
