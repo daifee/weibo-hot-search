@@ -1,0 +1,410 @@
+{
+  "runTime": 1763059050437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 107903,
+        "num": 136865,
+        "word": "星巴克 依云矿泉水22元",
+        "onboard_time": 1763054237,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80971,
+        "num": 80971,
+        "word": "王楚钦说樊振东世界最强",
+        "onboard_time": 1763051419,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9140,
+        "num": 63860,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47816,
+        "num": 47816,
+        "word": "李隆基 太平公主",
+        "onboard_time": 1763036661,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41613,
+        "num": 41613,
+        "word": "5年花25亿请明星没能讨好年轻人",
+        "onboard_time": 1763038941,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38112,
+        "num": 38112,
+        "word": "山姆正跌落神坛",
+        "onboard_time": 1763038821,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34573,
+        "num": 38011,
+        "word": "唐诡3拍出太平公主和上官婉儿",
+        "onboard_time": 1763040141,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30643,
+        "num": 37838,
+        "word": "历年爆剧",
+        "onboard_time": 1763035461,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28199,
+        "num": 37769,
+        "word": "九阳豆业与九阳股份为同一实控人",
+        "onboard_time": 1763050399,
+        "rank": 8,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 22740,
+        "num": 37635,
+        "word": "多款App摇一摇 跳转广告",
+        "onboard_time": 1763046622,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170793,
+        "num": 37327,
+        "word": "任嘉伦工作室手P错位了",
+        "onboard_time": 1763054596,
+        "rank": 10,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 94128,
+        "num": 37178,
+        "word": "徐志胜 我家那小子",
+        "onboard_time": 1763053517,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92941,
+        "num": 37049,
+        "word": "黄晓明新签约艺人眼睛很大",
+        "onboard_time": 1763040382,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75632,
+        "num": 37008,
+        "word": "年轻女子与7旬老人生女后弃养给保姆",
+        "onboard_time": 1763051478,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64169,
+        "num": 36849,
+        "word": "建议拆完快递的纸箱立马扔掉",
+        "onboard_time": 1763049500,
+        "rank": 14,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 30744,
+        "num": 36677,
+        "word": "男子因朋友圈无人点赞患上抑郁症",
+        "onboard_time": 1763037681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28470,
+        "num": 36507,
+        "word": "中方回应印度网球选手称被中国拒签",
+        "onboard_time": 1763039421,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26897,
+        "num": 36326,
+        "word": "14岁男孩被误诊矮小症打了2940针",
+        "onboard_time": 1763034921,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23454,
+        "num": 36081,
+        "word": "土豆被八仙子除名",
+        "onboard_time": 1763041523,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23012,
+        "num": 36020,
+        "word": "网传不二之臣阵容",
+        "onboard_time": 1763048241,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125363,
+        "num": 35878,
+        "word": "徐志胜家到底有多脏",
+        "onboard_time": 1763034801,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 60483,
+        "num": 35644,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763049919,
+        "rank": 21,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 60217,
+        "num": 35511,
+        "word": "艾玛沃特森35岁状态",
+        "onboard_time": 1763041642,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35438,
+        "num": 35438,
+        "word": "影视飓风Tim称今年开始不接所有电话",
+        "onboard_time": 1763046562,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30357,
+        "num": 35432,
+        "word": "宋祖儿上午杀青下午进组",
+        "onboard_time": 1763058015,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 26555,
+        "num": 35422,
+        "word": "控糖到了80多岁的皮肤状态",
+        "onboard_time": 1763031501,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24282,
+        "num": 35422,
+        "word": "张桂源 楼凌赫",
+        "onboard_time": 1763036241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24110,
+        "num": 35412,
+        "word": "高市早苗反省",
+        "onboard_time": 1763029401,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21779,
+        "num": 35401,
+        "word": "苹果腾讯敲定微信游戏抽成协议",
+        "onboard_time": 1763050580,
+        "rank": 28,
+        "category": "互联网,游戏"
+      },
+      {
+        "raw_hot": 18199,
+        "num": 35392,
+        "word": "唐诡 李隆基",
+        "onboard_time": 1763036002,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20272,
+        "num": 35384,
+        "word": "长白头发可能是缺乏这3种营养",
+        "onboard_time": 1763045302,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19443,
+        "num": 35383,
+        "word": "为什么十年前没让我刷到这句话",
+        "onboard_time": 1763046021,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 19196,
+        "num": 35371,
+        "word": "日本店员遭熊袭击浑身血继续做拉面",
+        "onboard_time": 1763025320,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 17246,
+        "num": 35361,
+        "word": "银行4年3次采购工作服花619万",
+        "onboard_time": 1763046140,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16969,
+        "num": 35354,
+        "word": "孟子义这下真成老公姐了",
+        "onboard_time": 1763044102,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 16952,
+        "num": 35346,
+        "word": "陈梦谈逆转进四强",
+        "onboard_time": 1763057895,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16774,
+        "num": 35338,
+        "word": "文科生的天塌了又塌",
+        "onboard_time": 1763028321,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16722,
+        "num": 35328,
+        "word": "山西一医院从上到下集体骗保近千万",
+        "onboard_time": 1763031619,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 16651,
+        "num": 35321,
+        "word": "LV品牌大使 温柔人设",
+        "onboard_time": 1763028681,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16347,
+        "num": 35313,
+        "word": "福建一化工厂起火多部门到场处置",
+        "onboard_time": 1763057595,
+        "rank": 39,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 16273,
+        "num": 35304,
+        "word": "不建议用猪肉记号笔标记新生儿",
+        "onboard_time": 1763046681,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16116,
+        "num": 35299,
+        "word": "无限暖暖",
+        "onboard_time": 1763046380,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 15730,
+        "num": 35291,
+        "word": "覃海洋预料到犯规后在水里笑了",
+        "onboard_time": 1763046801,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15120,
+        "num": 35288,
+        "word": "覃海洋50蛙犯规被取消成绩",
+        "onboard_time": 1763036541,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15044,
+        "num": 35279,
+        "word": "樊振东王楚钦会师半决赛",
+        "onboard_time": 1763036422,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14828,
+        "num": 35267,
+        "word": "徐艺洋用湿厕纸给黄子韬擦嘴",
+        "onboard_time": 1763027421,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14792,
+        "num": 35258,
+        "word": "华晨宇音乐节出场时间调整",
+        "onboard_time": 1763044583,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14635,
+        "num": 35249,
+        "word": "一诺教JackeyLove扫腿舞",
+        "onboard_time": 1763038281,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 14208,
+        "num": 35249,
+        "word": "一眼找到任嘉伦",
+        "onboard_time": 1763056275,
+        "rank": 48,
+        "category": "艺人,电竞"
+      },
+      {
+        "raw_hot": 12906,
+        "num": 35240,
+        "word": "清清年度瞩目运动员",
+        "onboard_time": 1763059034,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}

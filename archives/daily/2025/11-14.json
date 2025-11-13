@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763055798616,
+  "endTime": 1763059050437,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -67,6 +67,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170793,
+      "num": 67564,
+      "word": "任嘉伦工作室手P错位了",
+      "onboard_time": 1763054596,
+      "rank": 13,
+      "category": "艺人,电竞"
+    },
+    {
       "raw_hot": 169362,
       "num": 147629,
       "word": "李隆基 太平公主",
@@ -131,14 +139,6 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 133090,
-      "num": 67564,
-      "word": "任嘉伦工作室手P错位了",
-      "onboard_time": 1763054596,
-      "rank": 13,
-      "category": "艺人,电竞"
-    },
-    {
       "raw_hot": 119218,
       "num": 136707,
       "word": "艾玛沃特森35岁状态",
@@ -161,6 +161,14 @@
       "onboard_time": 1763031501,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 107903,
+      "num": 136865,
+      "word": "星巴克 依云矿泉水22元",
+      "onboard_time": 1763054237,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99785,
@@ -233,14 +241,6 @@
       "onboard_time": 1763036241,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 82159,
-      "num": 82159,
-      "word": "星巴克 依云矿泉水22元",
-      "onboard_time": 1763054237,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79029,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30357,
+      "num": 35432,
+      "word": "宋祖儿上午杀青下午进组",
+      "onboard_time": 1763058015,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29029,
       "num": 67350,
       "word": "九阳豆业九阳股份已无股权关联",
@@ -457,6 +465,46 @@
       "onboard_time": 1763046380,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 16952,
+      "num": 35346,
+      "word": "陈梦谈逆转进四强",
+      "onboard_time": 1763057895,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16347,
+      "num": 35313,
+      "word": "福建一化工厂起火多部门到场处置",
+      "onboard_time": 1763057595,
+      "rank": 39,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 14792,
+      "num": 35258,
+      "word": "华晨宇音乐节出场时间调整",
+      "onboard_time": 1763044583,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 14208,
+      "num": 35249,
+      "word": "一眼找到任嘉伦",
+      "onboard_time": 1763056275,
+      "rank": 48,
+      "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 12906,
+      "num": 35240,
+      "word": "清清年度瞩目运动员",
+      "onboard_time": 1763059034,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [
