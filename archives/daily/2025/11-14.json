@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763061730837,
+  "endTime": 1763062578810,
   "band_list": [
     {
       "raw_hot": 512135,
@@ -435,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33483,
+      "num": 35920,
+      "word": "芦田爱菜为拓宽形象改变妆容",
+      "onboard_time": 1763061493,
+      "rank": 23,
+      "category": "艺人,美妆"
+    },
+    {
       "raw_hot": 30981,
       "num": 35898,
       "word": "宋祖儿上午杀青下午进组",
@@ -451,20 +459,20 @@
       "category": "财经,民生新闻"
     },
     {
-      "raw_hot": 27779,
-      "num": 35920,
-      "word": "芦田爱菜为拓宽形象改变妆容",
-      "onboard_time": 1763061493,
-      "rank": 23,
-      "category": "艺人,美妆"
-    },
-    {
       "raw_hot": 23257,
       "num": 226490,
       "word": "第十五届全运会",
       "onboard_time": 1763040982,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20134,
+      "num": 35913,
+      "word": "福建一化工厂起火多部门到场处置",
+      "onboard_time": 1763057595,
+      "rank": 39,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 18731,
@@ -483,15 +491,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 16347,
-      "num": 35913,
-      "word": "福建一化工厂起火多部门到场处置",
-      "onboard_time": 1763057595,
-      "rank": 39,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 14792,
+      "raw_hot": 15214,
       "num": 35956,
       "word": "华晨宇音乐节出场时间调整",
       "onboard_time": 1763044583,
@@ -507,7 +507,7 @@
       "category": "艺人,电竞"
     },
     {
-      "raw_hot": 13246,
+      "raw_hot": 13640,
       "num": 35738,
       "word": "王楚钦眼中的樊振东",
       "onboard_time": 1763060355,
@@ -523,7 +523,7 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 12208,
+      "raw_hot": 12715,
       "num": 35703,
       "word": "白鹿手势官宣定档",
       "onboard_time": 1763061254,
@@ -531,7 +531,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11967,
+      "raw_hot": 12057,
       "num": 35670,
       "word": "快递员因送错快递被杀家属发声",
       "onboard_time": 1763060293,
