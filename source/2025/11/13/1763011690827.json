@@ -1,0 +1,410 @@
+{
+  "runTime": 1763011690827,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1193684,
+        "num": 1193684,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 654671,
+        "num": 654671,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 1,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 32261,
+        "num": 508176,
+        "word": "网警查处虚构事实扰乱公共秩序案",
+        "onboard_time": 1762994301,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 471591,
+        "num": 471591,
+        "word": "不允许城镇居民到农村买农房",
+        "onboard_time": 1763007561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405966,
+        "num": 405966,
+        "word": "星辰大海 曹骏",
+        "onboard_time": 1763008641,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 345603,
+        "num": 345603,
+        "word": "中国黄金回应试戴金镯10秒被索赔1000",
+        "onboard_time": 1763005461,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321226,
+        "num": 321226,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202156,
+        "num": 202156,
+        "word": "王楚钦说全运会爆冷是平常事",
+        "onboard_time": 1763008522,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195224,
+        "num": 195224,
+        "word": "樊振东十五运4强",
+        "onboard_time": 1763004801,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156979,
+        "num": 156979,
+        "word": "朱雨玲4比2陈幸同",
+        "onboard_time": 1763009000,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 603702,
+        "num": 156701,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156385,
+        "num": 156385,
+        "word": "李晨在跑男那一套不管用了",
+        "onboard_time": 1763010740,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 149605,
+        "num": 149605,
+        "word": "汪苏泷 抢票",
+        "onboard_time": 1763011042,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152458,
+        "num": 149473,
+        "word": "奔跑吧天路篇定档直播",
+        "onboard_time": 1763010561,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28041,
+        "num": 149410,
+        "word": "竞燃之夜出发图好卷",
+        "onboard_time": 1763010082,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142653,
+        "num": 149209,
+        "word": "疯狂动物城2大先生爆改孙女奴",
+        "onboard_time": 1763002640,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79158,
+        "num": 149017,
+        "word": "荣耀提前出了iPhoneAir2",
+        "onboard_time": 1763008402,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27506,
+        "num": 148833,
+        "word": "从KK园区逃离者被当货物转卖",
+        "onboard_time": 1763010920,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 551265,
+        "num": 148766,
+        "word": "小猫去世后猫厕所弹出的提示",
+        "onboard_time": 1763006240,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 53947,
+        "num": 148613,
+        "word": "少吃甜食就不会得糖尿病吗",
+        "onboard_time": 1763010321,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 1086673,
+        "num": 148422,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 523294,
+        "num": 148302,
+        "word": "宋祖儿腿太细了",
+        "onboard_time": 1763005160,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467608,
+        "num": 148033,
+        "word": "卢昱晓跪下和粉丝合照",
+        "onboard_time": 1763005940,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463954,
+        "num": 147929,
+        "word": "黄晓明48岁生日镜像成了84岁",
+        "onboard_time": 1763002340,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375531,
+        "num": 147690,
+        "word": "张凌赫带50只螃蟹来蘑菇屋",
+        "onboard_time": 1763008882,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 323406,
+        "num": 147628,
+        "word": "李宏毅你知道我等了三年吗",
+        "onboard_time": 1763006361,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238677,
+        "num": 147401,
+        "word": "王一博换发型了",
+        "onboard_time": 1763010681,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222805,
+        "num": 147317,
+        "word": "小时候感冒vs长大后感冒",
+        "onboard_time": 1763006421,
+        "rank": 27,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 215567,
+        "num": 147114,
+        "word": "男子开车精准撞倒持刀歹徒",
+        "onboard_time": 1763005580,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184725,
+        "num": 146865,
+        "word": "黄子韬每天晚上陪徐艺洋学英语",
+        "onboard_time": 1763005520,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146864,
+        "num": 146864,
+        "word": "白鹿与助理就是现实版闺蜜你养我吧",
+        "onboard_time": 1763003059,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145412,
+        "num": 145412,
+        "word": "胡歌文淇跳企鹅舞",
+        "onboard_time": 1763010740,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135704,
+        "num": 135704,
+        "word": "林高远刘诗雯晋级混双金牌赛",
+        "onboard_time": 1763004560,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126687,
+        "num": 126687,
+        "word": "惹一个喜君会冒出来三个犟种",
+        "onboard_time": 1763008641,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114180,
+        "num": 114180,
+        "word": "乌合麒麟新作福建舰接81192返航",
+        "onboard_time": 1763006121,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108088,
+        "num": 108088,
+        "word": "刘敏涛居然在我眼前挖蛤蜊",
+        "onboard_time": 1763010022,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107070,
+        "num": 107070,
+        "word": "四喜偏偏你最争气",
+        "onboard_time": 1763011520,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64830,
+        "num": 104199,
+        "word": "高市早苗上台21天狂踩中国红线",
+        "onboard_time": 1763011220,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 24340,
+        "num": 103716,
+        "word": "五星级酒店剩菜盲盒",
+        "onboard_time": 1763011280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103425,
+        "num": 103425,
+        "word": "詹姆斯被下放",
+        "onboard_time": 1763005400,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102090,
+        "num": 102090,
+        "word": "周冬雨张雅钦时隔4年居然还有售后",
+        "onboard_time": 1763011520,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100780,
+        "num": 100780,
+        "word": "无期迷途",
+        "onboard_time": 1763010801,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 97268,
+        "num": 97268,
+        "word": "21天狠人减肥食谱",
+        "onboard_time": 1763011100,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 96797,
+        "num": 96797,
+        "word": "抛开高叶不谈",
+        "onboard_time": 1763007141,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95876,
+        "num": 95876,
+        "word": "韩国学生集体磕头应援参加高考前辈",
+        "onboard_time": 1763008701,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 95819,
+        "num": 95819,
+        "word": "李冰冰 状元郎",
+        "onboard_time": 1763007739,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89697,
+        "num": 89697,
+        "word": "王艺迪挑战林高远发球失败",
+        "onboard_time": 1763009840,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88392,
+        "num": 88392,
+        "word": "表妹万福杀青",
+        "onboard_time": 1763002759,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82306,
+        "num": 88298,
+        "word": "唐诡尸兄含量极高的一集",
+        "onboard_time": 1763006421,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88278,
+        "num": 88278,
+        "word": "考研人静音小零食",
+        "onboard_time": 1763011640,
+        "rank": 49,
+        "category": "美食"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平欢迎西班牙国王访华#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763009217735,
+  "endTime": 1763011690827,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193684,
+      "num": 1193684,
+      "word": "陈梦4比2逆转蒯曼",
+      "onboard_time": 1763009181,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1193507,
       "num": 801859,
       "word": "张颂文聚餐救人获赠锦旗",
@@ -249,6 +257,14 @@
       "onboard_time": 1762689380,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1086673,
+      "num": 202210,
+      "word": "韦雪秦奋带儿子聚餐",
+      "onboard_time": 1763007440,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 1081653,
@@ -305,14 +321,6 @@
       "onboard_time": 1762870583,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1001499,
-      "num": 202210,
-      "word": "韦雪秦奋带儿子聚餐",
-      "onboard_time": 1763007440,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 990681,
@@ -833,6 +841,14 @@
       "onboard_time": 1762914381,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 654671,
+      "num": 654671,
+      "word": "奇瑞4次致歉也修复不了天梯之伤",
+      "onboard_time": 1763005820,
+      "rank": 15,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 653238,
@@ -1451,14 +1467,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 488823,
-      "num": 488823,
-      "word": "奇瑞4次致歉也修复不了天梯之伤",
-      "onboard_time": 1763005820,
-      "rank": 15,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 487018,
       "num": 487018,
       "word": "朱一龙获最佳男主角提名",
@@ -1579,6 +1587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 471591,
+      "num": 471591,
+      "word": "不允许城镇居民到农村买农房",
+      "onboard_time": 1763007561,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 468411,
       "num": 202266,
       "word": "邓超晒照为儿子庆生",
@@ -1595,6 +1611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 467608,
+      "num": 198190,
+      "word": "卢昱晓跪下和粉丝合照",
+      "onboard_time": 1763005940,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 464840,
       "num": 168453,
       "word": "商家已删除梁朝伟照片",
@@ -1609,14 +1633,6 @@
       "onboard_time": 1762782382,
       "rank": 34,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 463851,
-      "num": 198190,
-      "word": "卢昱晓跪下和粉丝合照",
-      "onboard_time": 1763005940,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 463450,
@@ -1931,6 +1947,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 405966,
+      "num": 405966,
+      "word": "星辰大海 曹骏",
+      "onboard_time": 1763008641,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404318,
       "num": 223712,
       "word": "王男王广",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1762662020,
       "rank": 30,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 375531,
+      "num": 182257,
+      "word": "张凌赫带50只螃蟹来蘑菇屋",
+      "onboard_time": 1763008882,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 373207,
@@ -2667,6 +2699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 321226,
+      "num": 321226,
+      "word": "狗主人被反杀妻子后悔闯入对方家中",
+      "onboard_time": 1763010201,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320238,
       "num": 178436,
       "word": "小猫知道爷爷去世了",
@@ -2705,14 +2745,6 @@
       "onboard_time": 1762913899,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 314084,
-      "num": 314084,
-      "word": "不允许城镇居民到农村买农房",
-      "onboard_time": 1763007561,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314067,
@@ -3691,6 +3723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238677,
+      "num": 147401,
+      "word": "王一博换发型了",
+      "onboard_time": 1763010681,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 237697,
       "num": 237697,
       "word": "世上再无王权富贵",
@@ -3849,14 +3889,6 @@
       "onboard_time": 1762921042,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 226211,
-      "num": 226211,
-      "word": "陈梦4比2逆转蒯曼",
-      "onboard_time": 1763009181,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 226142,
@@ -4352,6 +4384,14 @@
       "word": "这就是今晚的广州",
       "onboard_time": 1762688841,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202156,
+      "num": 202156,
+      "word": "王楚钦说全运会爆冷是平常事",
+      "onboard_time": 1763008522,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -4915,14 +4955,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186044,
-      "num": 211951,
-      "word": "星辰大海 曹骏",
-      "onboard_time": 1763008641,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 185438,
       "num": 172617,
       "word": "真的建议停止碎片化护肤",
@@ -5025,14 +5057,6 @@
       "onboard_time": 1762762939,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182257,
-      "num": 182257,
-      "word": "张凌赫带50只螃蟹来蘑菇屋",
-      "onboard_time": 1763008882,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 182182,
@@ -5979,6 +6003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156385,
+      "num": 156385,
+      "word": "李晨在跑男那一套不管用了",
+      "onboard_time": 1763010740,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 156278,
       "num": 156278,
       "word": "在滑雪场看到什么都不奇怪",
@@ -6147,6 +6179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152458,
+      "num": 149473,
+      "word": "奔跑吧天路篇定档直播",
+      "onboard_time": 1763010561,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152456,
       "num": 210714,
       "word": "星辰大海",
@@ -6249,6 +6289,14 @@
       "onboard_time": 1762785441,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 149605,
+      "num": 149605,
+      "word": "汪苏泷 抢票",
+      "onboard_time": 1763011042,
+      "rank": 12,
+      "category": "演出"
     },
     {
       "raw_hot": 149311,
@@ -6433,6 +6481,14 @@
       "onboard_time": 1762773141,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145412,
+      "num": 145412,
+      "word": "胡歌文淇跳企鹅舞",
+      "onboard_time": 1763010740,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 145361,
@@ -9091,6 +9147,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108088,
+      "num": 108088,
+      "word": "刘敏涛居然在我眼前挖蛤蜊",
+      "onboard_time": 1763010022,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108033,
       "num": 108033,
       "word": "宋雨琦 回来关水",
@@ -9177,6 +9241,14 @@
       "onboard_time": 1762841839,
       "rank": 37,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 107070,
+      "num": 107070,
+      "word": "四喜偏偏你最争气",
+      "onboard_time": 1763011520,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 107069,
@@ -9779,6 +9851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102090,
+      "num": 102090,
+      "word": "周冬雨张雅钦时隔4年居然还有售后",
+      "onboard_time": 1763011520,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102069,
       "num": 102069,
       "word": "Mai婚礼照",
@@ -9961,6 +10041,14 @@
       "onboard_time": 1762842679,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 100780,
+      "num": 100780,
+      "word": "无期迷途",
+      "onboard_time": 1763010801,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 100775,
@@ -10449,6 +10537,14 @@
       "onboard_time": 1762945521,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 97268,
+      "num": 97268,
+      "word": "21天狠人减肥食谱",
+      "onboard_time": 1763011100,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 97147,
@@ -11347,6 +11443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89697,
+      "num": 89697,
+      "word": "王艺迪挑战林高远发球失败",
+      "onboard_time": 1763009840,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89611,
       "num": 106214,
       "word": "梁伟铿回应当全运会火炬手",
@@ -11513,6 +11617,14 @@
       "onboard_time": 1762740859,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 88278,
+      "num": 88278,
+      "word": "考研人静音小零食",
+      "onboard_time": 1763011640,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 88256,
@@ -12459,6 +12571,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79158,
+      "num": 208404,
+      "word": "荣耀提前出了iPhoneAir2",
+      "onboard_time": 1763008402,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79000,
       "num": 172848,
       "word": "美媒称英美情报共享出现重大决裂",
@@ -13107,14 +13227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 72302,
-      "num": 153210,
-      "word": "王楚钦说全运会爆冷是平常事",
-      "onboard_time": 1763008522,
-      "rank": 38,
-      "category": "体育"
-    },
-    {
       "raw_hot": 72183,
       "num": 198616,
       "word": "智己LS9上市25分钟大定破5000台",
@@ -13625,6 +13737,14 @@
       "onboard_time": 1762737140,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 64830,
+      "num": 104199,
+      "word": "高市早苗上台21天狂踩中国红线",
+      "onboard_time": 1763011220,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64740,
@@ -14315,6 +14435,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 53947,
+      "num": 148613,
+      "word": "少吃甜食就不会得糖尿病吗",
+      "onboard_time": 1763010321,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 53433,
       "num": 226128,
       "word": "蒯曼vs陈梦",
@@ -14865,14 +14993,6 @@
       "onboard_time": 1762764321,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44668,
-      "num": 208404,
-      "word": "荣耀提前出了iPhoneAir2",
-      "onboard_time": 1763008402,
-      "rank": 17,
-      "category": "数码"
     },
     {
       "raw_hot": 44356,
@@ -15771,6 +15891,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 28041,
+      "num": 149410,
+      "word": "竞燃之夜出发图好卷",
+      "onboard_time": 1763010082,
+      "rank": 14,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 27797,
       "num": 35380,
       "word": "潘展乐曾回应张展硕状态火热",
@@ -15785,6 +15913,14 @@
       "onboard_time": 1762658718,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27506,
+      "num": 148833,
+      "word": "从KK园区逃离者被当货物转卖",
+      "onboard_time": 1763010920,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27433,
@@ -15913,6 +16049,14 @@
       "onboard_time": 1762672399,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 24340,
+      "num": 103716,
+      "word": "五星级酒店剩菜盲盒",
+      "onboard_time": 1763011280,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24182,
