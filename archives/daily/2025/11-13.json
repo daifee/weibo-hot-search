@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763030842230,
+  "endTime": 1763033094023,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -9,6 +9,14 @@
       "onboard_time": 1762996700,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1346310,
+      "num": 160439,
+      "word": "Tim父亲 圆通总裁",
+      "onboard_time": 1763029161,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 1193684,
@@ -33,14 +41,6 @@
       "onboard_time": 1763002340,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 870671,
-      "num": 160439,
-      "word": "Tim父亲 圆通总裁",
-      "onboard_time": 1763029161,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 800833,
@@ -97,6 +97,14 @@
       "onboard_time": 1763025800,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 653969,
+      "num": 171510,
+      "word": "文科生的天塌了又塌",
+      "onboard_time": 1763028321,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 641544,
@@ -251,14 +259,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 410569,
-      "num": 171510,
-      "word": "文科生的天塌了又塌",
-      "onboard_time": 1763028321,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 408759,
       "num": 1065401,
       "word": "九阳股份涨停",
@@ -288,6 +288,14 @@
       "word": "孙颖莎陈梦同框",
       "onboard_time": 1762997480,
       "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 398312,
+      "num": 1063729,
+      "word": "王楚钦vs林高远",
+      "onboard_time": 1763030482,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -419,6 +427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 337741,
+      "num": 165973,
+      "word": "摇滚歌手阿珍去世",
+      "onboard_time": 1763031861,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334873,
       "num": 165554,
       "word": "辛芷蕾回鹤岗撸串了",
@@ -432,6 +448,14 @@
       "word": "王楚钦说全运会爆冷是平常事",
       "onboard_time": 1763008522,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 332096,
+      "num": 332096,
+      "word": "孙颖莎削球好牛",
+      "onboard_time": 1763030721,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -491,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 303215,
+      "num": 120267,
+      "word": "控糖到了80多岁的皮肤状态",
+      "onboard_time": 1763031501,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 302076,
       "num": 129839,
       "word": "梅尼耶要结婚了",
@@ -529,6 +561,14 @@
       "onboard_time": 1762995081,
       "rank": 21,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 289700,
+      "num": 144840,
+      "word": "高市早苗反省",
+      "onboard_time": 1763029401,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 285546,
@@ -715,6 +755,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 227325,
+      "num": 601563,
+      "word": "明年购置税征收50%",
+      "onboard_time": 1763027661,
+      "rank": 15,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 225797,
       "num": 150637,
       "word": "陈梦有望冲击超级大满贯",
@@ -779,12 +827,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210915,
+      "num": 210915,
+      "word": "路虎撞飞持刀男子不属于防卫过当",
+      "onboard_time": 1763031440,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207694,
       "num": 207694,
       "word": "北京极光",
       "onboard_time": 1762957701,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207368,
+      "num": 207368,
+      "word": "唐诡3大唐第一禁忌恋",
+      "onboard_time": 1763019680,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 203541,
@@ -835,19 +899,19 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 196420,
+      "num": 165932,
+      "word": "孙颖莎vs朱雨玲",
+      "onboard_time": 1763032521,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192666,
       "num": 157996,
       "word": "四喜偏偏你最争气",
       "onboard_time": 1763011520,
       "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 189455,
-      "num": 170863,
-      "word": "唐诡3大唐第一禁忌恋",
-      "onboard_time": 1763019680,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -987,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165824,
+      "num": 165824,
+      "word": "孙颖莎4比0战胜刘斐",
+      "onboard_time": 1763031561,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165253,
       "num": 157758,
       "word": "卢昱晓往那一站就出神图了",
@@ -1049,14 +1121,6 @@
       "onboard_time": 1763011520,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 156918,
-      "num": 144840,
-      "word": "高市早苗反省",
-      "onboard_time": 1763029401,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155030,
@@ -1179,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 140913,
-      "num": 140913,
-      "word": "王楚钦vs林高远",
-      "onboard_time": 1763030482,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140175,
       "num": 140175,
       "word": "山东队夺乒乓球U18女团银牌",
@@ -1217,14 +1273,6 @@
       "onboard_time": 1763016799,
       "rank": 32,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 136669,
-      "num": 136669,
-      "word": "明年购置税征收50%",
-      "onboard_time": 1763027661,
-      "rank": 15,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 136169,
@@ -1281,6 +1329,14 @@
       "onboard_time": 1763025021,
       "rank": 8,
       "category": "电竞,体育"
+    },
+    {
+      "raw_hot": 133101,
+      "num": 119013,
+      "word": "山西一医院从上到下集体骗保近千万",
+      "onboard_time": 1763031619,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 133001,
@@ -1344,14 +1400,6 @@
       "word": "全运会乒乓球男单八强对阵",
       "onboard_time": 1762960941,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 127550,
-      "num": 127550,
-      "word": "孙颖莎削球好牛",
-      "onboard_time": 1763030721,
-      "rank": 28,
       "category": "体育"
     },
     {
@@ -1571,6 +1619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116974,
+      "num": 116974,
+      "word": "郭俊辰未修原图",
+      "onboard_time": 1763031262,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116950,
       "num": 109932,
       "word": "曝JackeyLove续约TES",
@@ -1603,12 +1659,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114894,
+      "num": 114894,
+      "word": "饺子皮上看到指纹的安心感",
+      "onboard_time": 1763031202,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114681,
       "num": 114681,
       "word": "勿扰飞升定档11月15日",
       "onboard_time": 1763006240,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114415,
+      "num": 114415,
+      "word": "彭小苒工作室真进高手了",
+      "onboard_time": 1763032221,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 114142,
@@ -1649,6 +1721,14 @@
       "onboard_time": 1763003961,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 110949,
+      "num": 110949,
+      "word": "十五运会后再无众神归位了",
+      "onboard_time": 1763032581,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 110867,
@@ -1811,6 +1891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101506,
+      "num": 101506,
+      "word": "李昀锐高反",
+      "onboard_time": 1763030781,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101171,
       "num": 101171,
       "word": "长隆回应女子带狗被拒崩溃打砸",
@@ -1859,6 +1947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100569,
+      "num": 100569,
+      "word": "日本网友的暴饮暴食",
+      "onboard_time": 1763030601,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98819,
       "num": 98819,
       "word": "樊振东4比0孙正",
@@ -1899,6 +1995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 96733,
+      "num": 96733,
+      "word": "警方介入地铁未打码不雅视频传播事件",
+      "onboard_time": 1763031380,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96513,
       "num": 96513,
       "word": "曝另一位LCK顶尖ADC有可能来LPL",
@@ -1937,6 +2041,14 @@
       "onboard_time": 1763018420,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 94120,
+      "num": 114470,
+      "word": "穆祉丞想演反派",
+      "onboard_time": 1763031919,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 93684,
@@ -2009,6 +2121,14 @@
       "onboard_time": 1763002880,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90698,
+      "num": 90698,
+      "word": "iPhone卖1899元的一块布",
+      "onboard_time": 1763031081,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 89697,
@@ -2115,6 +2235,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 87279,
+      "num": 87279,
+      "word": "杨雨潼 建桥女工",
+      "onboard_time": 1763032940,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87207,
       "num": 87207,
       "word": "宋祖儿完全老公来的",
@@ -2219,12 +2347,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82949,
-      "num": 82949,
-      "word": "李昀锐高反",
-      "onboard_time": 1763030781,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 83356,
+      "num": 83356,
+      "word": "我国将推出动力电池专项规划",
+      "onboard_time": 1763032281,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 82904,
@@ -2411,6 +2539,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77293,
+      "num": 122141,
+      "word": "桂林一景区附近发现疑似人类头骨",
+      "onboard_time": 1763032161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76054,
       "num": 105746,
       "word": "张博恒全运会男团亚军",
@@ -2595,6 +2731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62656,
+      "num": 84365,
+      "word": "3d打印发动机完成首次飞行",
+      "onboard_time": 1763030961,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 62510,
       "num": 166349,
       "word": "少吃甜食就不会得糖尿病吗",
@@ -2665,6 +2809,14 @@
       "onboard_time": 1762967597,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56721,
+      "num": 165873,
+      "word": "年度跨界影响力运动员",
+      "onboard_time": 1763032281,
+      "rank": 14,
+      "category": "体育,电竞"
     },
     {
       "raw_hot": 55716,
@@ -2795,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45987,
+      "num": 102370,
+      "word": "女子带薪潜伏十年只为给姐姐报仇",
+      "onboard_time": 1763033061,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44123,
       "num": 89813,
       "word": "郑秀妍连续四年为王紫璇庆生",
@@ -2908,7 +3068,7 @@
     },
     {
       "raw_hot": 37360,
-      "num": 346439,
+      "num": 451825,
       "word": "致敬全运会赛场上的老将",
       "onboard_time": 1763025919,
       "rank": 2,
@@ -2921,6 +3081,14 @@
       "onboard_time": 1763028259,
       "rank": 19,
       "category": "体育,数码"
+    },
+    {
+      "raw_hot": 36042,
+      "num": 83537,
+      "word": "Doinb和微笑谈小捏",
+      "onboard_time": 1763031440,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 35276,
@@ -3001,6 +3169,14 @@
       "onboard_time": 1763025021,
       "rank": 14,
       "category": "电竞,体育"
+    },
+    {
+      "raw_hot": 24883,
+      "num": 101704,
+      "word": "丹麦人的墓地",
+      "onboard_time": 1763032340,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24714,
