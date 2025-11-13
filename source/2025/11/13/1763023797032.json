@@ -1,0 +1,410 @@
+{
+  "runTime": 1763023797032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 462404,
+        "num": 1073984,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 450375,
+        "num": 450375,
+        "word": "路虎撞飞持刀男子属正当防卫",
+        "onboard_time": 1763020339,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20086,
+        "num": 326697,
+        "word": "相约第十五届全运会",
+        "onboard_time": 1763015420,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 257059,
+        "num": 257059,
+        "word": "李昀锐跑男知名角落艺术家",
+        "onboard_time": 1763022560,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223397,
+        "num": 223397,
+        "word": "无畏这一笑给我甜晕了",
+        "onboard_time": 1763022560,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 433941,
+        "num": 221806,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217824,
+        "num": 217824,
+        "word": "无畏玫瑰魔术师",
+        "onboard_time": 1763022860,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191130,
+        "num": 191130,
+        "word": "世界乒乓球冠军利用影响力受贿获刑",
+        "onboard_time": 1763013800,
+        "rank": 7,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 187805,
+        "num": 187805,
+        "word": "清融今天是纯白西装",
+        "onboard_time": 1763022799,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76539,
+        "num": 187456,
+        "word": "外交部四问高市早苗",
+        "onboard_time": 1763023280,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320122,
+        "num": 185279,
+        "word": "原来卫生纸我们一直都用错了",
+        "onboard_time": 1763021060,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 270882,
+        "num": 180755,
+        "word": "原来美甲也是轮回",
+        "onboard_time": 1763018240,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194050,
+        "num": 180395,
+        "word": "文淇 我的长相演不了孬种",
+        "onboard_time": 1763018182,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178256,
+        "num": 178256,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 19940,
+        "num": 172696,
+        "word": "竞燃上分局",
+        "onboard_time": 1763020881,
+        "rank": 14,
+        "category": "电竞,体育"
+      },
+      {
+        "raw_hot": 172472,
+        "num": 172472,
+        "word": "黄景瑜抽完血吃了八碗米饭",
+        "onboard_time": 1763021961,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 160432,
+        "num": 160432,
+        "word": "产后12个小时的真实感受",
+        "onboard_time": 1763017880,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154032,
+        "num": 154032,
+        "word": "小猫去世后猫厕所弹出的提示",
+        "onboard_time": 1763006240,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121394,
+        "num": 152503,
+        "word": "白敬亭让范丞丞在东北吃上怀柔烤肉",
+        "onboard_time": 1763022440,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77100,
+        "num": 152180,
+        "word": "正告日方在台湾问题上玩火必自焚",
+        "onboard_time": 1763023280,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 673063,
+        "num": 152171,
+        "word": "杨紫好瘦",
+        "onboard_time": 1763019140,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152082,
+        "num": 152082,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 423565,
+        "num": 151925,
+        "word": "曝王子豪宅屋主是昆凌",
+        "onboard_time": 1763020640,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377637,
+        "num": 151537,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 234747,
+        "num": 151215,
+        "word": "于正回应赵樱子适合演小龙女",
+        "onboard_time": 1763017640,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272112,
+        "num": 150782,
+        "word": "章泽天 高配版晚晚",
+        "onboard_time": 1763022320,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212104,
+        "num": 150521,
+        "word": "辛芷蕾回鹤岗撸串了",
+        "onboard_time": 1763018420,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208675,
+        "num": 150187,
+        "word": "陈天润微博存档",
+        "onboard_time": 1763020280,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170099,
+        "num": 149953,
+        "word": "唐诡3大唐第一禁忌恋",
+        "onboard_time": 1763019680,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119037,
+        "num": 149411,
+        "word": "金鸡奖颁奖典礼主持阵容",
+        "onboard_time": 1763022980,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84362,
+        "num": 149212,
+        "word": "李施嬅粤语吵架这段张家妍上身",
+        "onboard_time": 1763021599,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186433,
+        "num": 148640,
+        "word": "A股逾百股涨停",
+        "onboard_time": 1763022860,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 173696,
+        "num": 148454,
+        "word": "陆虎嘘嘘十周年再拍婚纱照",
+        "onboard_time": 1763017400,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164556,
+        "num": 148065,
+        "word": "卢昱晓往那一站就出神图了",
+        "onboard_time": 1763022380,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93893,
+        "num": 147702,
+        "word": "星辰大海 曹骏",
+        "onboard_time": 1763008641,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154558,
+        "num": 147502,
+        "word": "狼队樱花道歉",
+        "onboard_time": 1763023640,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147259,
+        "num": 147259,
+        "word": "九阳股份涨停",
+        "onboard_time": 1763023520,
+        "rank": 36,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 140175,
+        "num": 140175,
+        "word": "山东队夺乒乓球U18女团银牌",
+        "onboard_time": 1763023040,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39492,
+        "num": 134716,
+        "word": "41岁男子为自己举办半个葬礼",
+        "onboard_time": 1763023400,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60006,
+        "num": 134633,
+        "word": "2万页爱泼斯坦邮件曝光",
+        "onboard_time": 1763023341,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134610,
+        "num": 134610,
+        "word": "今年双11为何不火了",
+        "onboard_time": 1763017760,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 129714,
+        "num": 129714,
+        "word": "黄晓明48岁生日镜像成了84岁",
+        "onboard_time": 1763002340,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123813,
+        "num": 123813,
+        "word": "曝369和Flandre疑将互换东家",
+        "onboard_time": 1763021599,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123800,
+        "num": 123800,
+        "word": "不允许城镇居民到农村买农房",
+        "onboard_time": 1763007561,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115604,
+        "num": 115604,
+        "word": "是灵珠是魔丸一眼就认出来了",
+        "onboard_time": 1763022860,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38546,
+        "num": 113550,
+        "word": "张家港回应文昌阁火灾",
+        "onboard_time": 1763021481,
+        "rank": 45,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 112226,
+        "num": 112226,
+        "word": "白鹿回应哭了",
+        "onboard_time": 1763015061,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110119,
+        "num": 110119,
+        "word": "宋祖儿腿太细了",
+        "onboard_time": 1763005160,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106464,
+        "num": 106464,
+        "word": "苹果回应1899元手机包定价",
+        "onboard_time": 1763021540,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101193,
+        "num": 101193,
+        "word": "花海体验了北京的秋天",
+        "onboard_time": 1763022799,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平复信青年汉学家#"
+    }
+  }
+}

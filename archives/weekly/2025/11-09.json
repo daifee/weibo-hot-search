@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763022909011,
+  "endTime": 1763023797032,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -2795,6 +2795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320122,
+      "num": 199490,
+      "word": "原来卫生纸我们一直都用错了",
+      "onboard_time": 1763021060,
+      "rank": 13,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 319135,
       "num": 319135,
       "word": "穿普拉达的女王2首支预告",
@@ -3403,6 +3411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 272112,
+      "num": 187656,
+      "word": "章泽天 高配版晚晚",
+      "onboard_time": 1763022320,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 271480,
       "num": 187469,
       "word": "GAI庆功宴王鹤棣送8万红包",
@@ -3577,6 +3593,14 @@
       "onboard_time": 1763006421,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 257059,
+      "num": 294993,
+      "word": "李昀锐跑男知名角落艺术家",
+      "onboard_time": 1763022560,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 255616,
@@ -4083,6 +4107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 223397,
+      "num": 223397,
+      "word": "无畏这一笑给我甜晕了",
+      "onboard_time": 1763022560,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223073,
       "num": 163691,
       "word": "李一桐方严正声明",
@@ -4201,6 +4233,14 @@
       "onboard_time": 1762742180,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217824,
+      "num": 217824,
+      "word": "无畏玫瑰魔术师",
+      "onboard_time": 1763022860,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 216943,
@@ -4643,14 +4683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 199490,
-      "num": 199490,
-      "word": "原来卫生纸我们一直都用错了",
-      "onboard_time": 1763021060,
-      "rank": 13,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 199334,
       "num": 114331,
       "word": "赤裸小孩生长发育正常",
@@ -5051,6 +5083,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 187805,
+      "num": 298122,
+      "word": "清融今天是纯白西装",
+      "onboard_time": 1763022799,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187733,
       "num": 139997,
       "word": "王灿成功增肥15斤",
@@ -5065,14 +5105,6 @@
       "onboard_time": 1762953141,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 187656,
-      "num": 187656,
-      "word": "章泽天 高配版晚晚",
-      "onboard_time": 1763022320,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 187499,
@@ -5113,6 +5145,14 @@
       "onboard_time": 1762874182,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186433,
+      "num": 148640,
+      "word": "A股逾百股涨停",
+      "onboard_time": 1763022860,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 186385,
@@ -5827,6 +5867,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164556,
+      "num": 152005,
+      "word": "卢昱晓往那一站就出神图了",
+      "onboard_time": 1763022380,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164549,
       "num": 172189,
       "word": "富贵少爷万水千山我替你看到了",
@@ -5947,14 +5995,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 161485,
-      "num": 298122,
-      "word": "清融今天是纯白西装",
-      "onboard_time": 1763022799,
-      "rank": 6,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 161400,
       "num": 191325,
       "word": "奔跑吧回应路透",
@@ -5979,14 +6019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 160950,
-      "num": 294993,
-      "word": "李昀锐跑男知名角落艺术家",
-      "onboard_time": 1763022560,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 160842,
       "num": 160842,
       "word": "米哈游回应新角色大丽花争议",
@@ -6009,6 +6041,14 @@
       "onboard_time": 1762906041,
       "rank": 23,
       "category": "财经"
+    },
+    {
+      "raw_hot": 160432,
+      "num": 169328,
+      "word": "产后12个小时的真实感受",
+      "onboard_time": 1763017880,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 160387,
@@ -6331,6 +6371,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 154558,
+      "num": 147502,
+      "word": "狼队樱花道歉",
+      "onboard_time": 1763023640,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154557,
       "num": 154557,
       "word": "谢娜王鹤棣自拍",
@@ -6459,14 +6507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 152005,
-      "num": 152005,
-      "word": "卢昱晓往那一站就出神图了",
-      "onboard_time": 1763022380,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 151853,
       "num": 151853,
       "word": "山东100自女子接力金牌",
@@ -6561,14 +6601,6 @@
       "onboard_time": 1763011042,
       "rank": 12,
       "category": "演出"
-    },
-    {
-      "raw_hot": 149392,
-      "num": 169328,
-      "word": "产后12个小时的真实感受",
-      "onboard_time": 1763017880,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 149311,
@@ -6705,6 +6737,14 @@
       "onboard_time": 1762960941,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147259,
+      "num": 147259,
+      "word": "九阳股份涨停",
+      "onboard_time": 1763023520,
+      "rank": 36,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 147049,
@@ -7051,6 +7091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 140175,
+      "num": 140175,
+      "word": "山东队夺乒乓球U18女团银牌",
+      "onboard_time": 1763023040,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140107,
       "num": 120323,
       "word": "现实版QQ农场",
@@ -7081,14 +7129,6 @@
       "onboard_time": 1762859480,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139758,
-      "num": 139758,
-      "word": "无畏这一笑给我甜晕了",
-      "onboard_time": 1763022560,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 139344,
@@ -8675,6 +8715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119037,
+      "num": 149411,
+      "word": "金鸡奖颁奖典礼主持阵容",
+      "onboard_time": 1763022980,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118996,
       "num": 118996,
       "word": "唐诡3最累的受害者出现了",
@@ -8937,6 +8985,14 @@
       "onboard_time": 1762713194,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115604,
+      "num": 115604,
+      "word": "是灵珠是魔丸一眼就认出来了",
+      "onboard_time": 1763022860,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 115601,
@@ -9411,14 +9467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109912,
-      "num": 109912,
-      "word": "无畏玫瑰魔术师",
-      "onboard_time": 1763022860,
-      "rank": 43,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 109860,
       "num": 109860,
       "word": "约基奇55分",
@@ -9763,6 +9811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106464,
+      "num": 106464,
+      "word": "苹果回应1899元手机包定价",
+      "onboard_time": 1763021540,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 106455,
       "num": 106455,
       "word": "导演亲自辟谣汪铎确实是演的",
@@ -9809,14 +9865,6 @@
       "onboard_time": 1762927220,
       "rank": 37,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 106263,
-      "num": 106263,
-      "word": "A股逾百股涨停",
-      "onboard_time": 1763022860,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 106158,
@@ -9929,14 +9977,6 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105055,
-      "num": 105055,
-      "word": "苹果回应1899元手机包定价",
-      "onboard_time": 1763021540,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 105034,
@@ -10073,14 +10113,6 @@
       "onboard_time": 1762754300,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103819,
-      "num": 103819,
-      "word": "是灵珠是魔丸一眼就认出来了",
-      "onboard_time": 1763022860,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 103809,
@@ -13411,6 +13443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 77100,
+      "num": 152180,
+      "word": "正告日方在台湾问题上玩火必自焚",
+      "onboard_time": 1763023280,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76950,
       "num": 105114,
       "word": "陈飞宇西装daddy级别",
@@ -13441,6 +13481,14 @@
       "onboard_time": 1762937781,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76539,
+      "num": 187456,
+      "word": "外交部四问高市早苗",
+      "onboard_time": 1763023280,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76529,
@@ -14739,6 +14787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60006,
+      "num": 134633,
+      "word": "2万页爱泼斯坦邮件曝光",
+      "onboard_time": 1763023341,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60005,
       "num": 60005,
       "word": "闪迪涨价50%",
@@ -16009,6 +16065,14 @@
       "onboard_time": 1762682958,
       "rank": 19,
       "category": "综艺,互联网"
+    },
+    {
+      "raw_hot": 39492,
+      "num": 134716,
+      "word": "41岁男子为自己举办半个葬礼",
+      "onboard_time": 1763023400,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39429,
@@ -17374,6 +17438,9 @@
     },
     {
       "word": "#一个个瞬间感受总书记的关切事#"
+    },
+    {
+      "word": "#习近平复信青年汉学家#"
     }
   ]
 }
