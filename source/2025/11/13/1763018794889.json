@@ -1,0 +1,410 @@
+{
+  "runTime": 1763018794889,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 572156,
+        "num": 1091544,
+        "word": "奇瑞4次致歉也修复不了天梯之伤",
+        "onboard_time": 1763005820,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 255456,
+        "num": 255456,
+        "word": "陈梦4比2逆转蒯曼",
+        "onboard_time": 1763009181,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4007,
+        "num": 245504,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 597245,
+        "num": 240410,
+        "word": "警方回应路虎撞飞持刀男子",
+        "onboard_time": 1763013500,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375399,
+        "num": 225962,
+        "word": "狗主人被反杀妻子后悔闯入对方家中",
+        "onboard_time": 1763010201,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327517,
+        "num": 218184,
+        "word": "世界乒乓球冠军利用影响力受贿获刑",
+        "onboard_time": 1763013800,
+        "rank": 5,
+        "category": "民生新闻,体育"
+      },
+      {
+        "raw_hot": 211469,
+        "num": 211469,
+        "word": "李晨在跑男那一套不管用了",
+        "onboard_time": 1763010740,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196425,
+        "num": 196425,
+        "word": "不允许城镇居民到农村买农房",
+        "onboard_time": 1763007561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163607,
+        "num": 163607,
+        "word": "中国黄金回应试戴金镯10秒被索赔1000",
+        "onboard_time": 1763005461,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117738,
+        "num": 162845,
+        "word": "奇瑞天门山测试无需文旅部门审批",
+        "onboard_time": 1763017820,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306487,
+        "num": 161763,
+        "word": "白鹿回应哭了",
+        "onboard_time": 1763015061,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 287774,
+        "num": 161237,
+        "word": "我没有教师资格证所以在下面讲",
+        "onboard_time": 1762996700,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 264493,
+        "num": 160600,
+        "word": "小猫去世后猫厕所弹出的提示",
+        "onboard_time": 1763006240,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 231294,
+        "num": 159113,
+        "word": "暗河传戏服卖掉了",
+        "onboard_time": 1763012061,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42966,
+        "num": 157970,
+        "word": "微博竞燃之夜直播",
+        "onboard_time": 1763017221,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 223073,
+        "num": 157250,
+        "word": "李一桐方严正声明",
+        "onboard_time": 1763015240,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220546,
+        "num": 156654,
+        "word": "六公主镜头下的素颜鹤男",
+        "onboard_time": 1763016140,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175074,
+        "num": 154845,
+        "word": "李施嬅 再见爱人不是追女孩的节目",
+        "onboard_time": 1763012841,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165325,
+        "num": 154181,
+        "word": "易烊千玺厦门路透",
+        "onboard_time": 1763017281,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153840,
+        "num": 153840,
+        "word": "张凌赫带50只螃蟹来蘑菇屋",
+        "onboard_time": 1763008882,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107946,
+        "num": 153519,
+        "word": "星辰大海 曹骏",
+        "onboard_time": 1763008641,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 558426,
+        "num": 152085,
+        "word": "韦雪秦奋带儿子聚餐",
+        "onboard_time": 1763007440,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 369765,
+        "num": 150925,
+        "word": "黄晓明48岁生日镜像成了84岁",
+        "onboard_time": 1763002340,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304287,
+        "num": 148901,
+        "word": "宋祖儿腿太细了",
+        "onboard_time": 1763005160,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230117,
+        "num": 147594,
+        "word": "陆虎嘘嘘十周年再拍婚纱照",
+        "onboard_time": 1763017400,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223305,
+        "num": 146279,
+        "word": "辛芷蕾回鹤岗撸串了",
+        "onboard_time": 1763018420,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186936,
+        "num": 144577,
+        "word": "陈梦有望冲击超级大满贯",
+        "onboard_time": 1763015119,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180183,
+        "num": 143969,
+        "word": "于正回应赵樱子适合演小龙女",
+        "onboard_time": 1763017640,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85372,
+        "num": 142810,
+        "word": "汪苏泷 抢票",
+        "onboard_time": 1763011042,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 84646,
+        "num": 141019,
+        "word": "樊振东十五运4强",
+        "onboard_time": 1763004801,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157463,
+        "num": 139234,
+        "word": "今年双11为何不火了",
+        "onboard_time": 1763017760,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139009,
+        "num": 139009,
+        "word": "原来这是缺爱的表现",
+        "onboard_time": 1763014281,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138054,
+        "num": 138054,
+        "word": "原来很久以前就流行腿套了",
+        "onboard_time": 1763016799,
+        "rank": 32,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 134645,
+        "num": 134645,
+        "word": "文淇 我的长相演不了孬种",
+        "onboard_time": 1763018182,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122134,
+        "num": 122134,
+        "word": "王一博换发型了",
+        "onboard_time": 1763010681,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119947,
+        "num": 119947,
+        "word": "压力大时要吃甜品的原因",
+        "onboard_time": 1763018480,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 109860,
+        "num": 109860,
+        "word": "约基奇55分",
+        "onboard_time": 1763018000,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108232,
+        "num": 108232,
+        "word": "产后12个小时的真实感受",
+        "onboard_time": 1763017880,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 68150,
+        "num": 106919,
+        "word": "彩票店回应网友称中1200万被骗光",
+        "onboard_time": 1763017760,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54878,
+        "num": 106460,
+        "word": "杨幂女人中的女人",
+        "onboard_time": 1763018420,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 106335,
+        "num": 106335,
+        "word": "我宣布高铁上不只是有熊孩子",
+        "onboard_time": 1763013922,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101171,
+        "num": 101171,
+        "word": "长隆回应女子带狗被拒崩溃打砸",
+        "onboard_time": 1763015901,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100922,
+        "num": 100922,
+        "word": "孙天宇 我心里这就是第一名",
+        "onboard_time": 1763018480,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98381,
+        "num": 98381,
+        "word": "吃着特甜但含糖量很低的水果",
+        "onboard_time": 1763018300,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 41034,
+        "num": 96754,
+        "word": "李在明开会时3名官员轮流自拍",
+        "onboard_time": 1763018720,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47397,
+        "num": 95957,
+        "word": "朱雨玲赛后采访金句不断",
+        "onboard_time": 1763017221,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95576,
+        "num": 95576,
+        "word": "李宏毅你知道我等了三年吗",
+        "onboard_time": 1763006361,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93027,
+        "num": 93027,
+        "word": "原来美甲也是轮回",
+        "onboard_time": 1763018240,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 72162,
+        "num": 89034,
+        "word": "男子雪山滑坠重伤爬行10小时求救",
+        "onboard_time": 1763017221,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93684,
+        "num": 89006,
+        "word": "各国大学发offer的态度",
+        "onboard_time": 1763017460,
+        "rank": 49,
+        "category": "教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#一个个瞬间感受总书记的关切事#"
+    }
+  }
+}
