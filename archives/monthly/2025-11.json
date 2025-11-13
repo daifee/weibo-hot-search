@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763029906699,
+  "endTime": 1763030842230,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1297,6 +1297,14 @@
       "onboard_time": 1762936099,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 870671,
+      "num": 160439,
+      "word": "Tim父亲 圆通总裁",
+      "onboard_time": 1763029161,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 869920,
@@ -5219,6 +5227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 410569,
+      "num": 171510,
+      "word": "文科生的天塌了又塌",
+      "onboard_time": 1763028321,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 410134,
       "num": 410134,
       "word": "安世中国不存在违约行为",
@@ -5763,6 +5779,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 382333,
+      "num": 164093,
+      "word": "LV品牌大使 温柔人设",
+      "onboard_time": 1763028681,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382301,
       "num": 206396,
       "word": "TF二三四代物料观看人数",
@@ -6264,14 +6288,6 @@
       "word": "杨紫直播",
       "onboard_time": 1762092501,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 359558,
-      "num": 164093,
-      "word": "LV品牌大使 温柔人设",
-      "onboard_time": 1763028681,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -8603,6 +8619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271232,
+      "num": 271232,
+      "word": "孙颖莎vs刘斐",
+      "onboard_time": 1763027302,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 270955,
       "num": 270955,
       "word": "宁静10年了还没走出花少阴影",
@@ -8855,6 +8879,14 @@
       "num": 179775,
       "word": "杨紫看着满屏张一山 吆京少",
       "onboard_time": 1762930819,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 261682,
+      "num": 158240,
+      "word": "陈建斌蒋勤勤大儿子身高",
+      "onboard_time": 1763027780,
       "rank": 28,
       "category": "艺人"
     },
@@ -9345,14 +9377,6 @@
       "onboard_time": 1762395201,
       "rank": 4,
       "category": "正能量"
-    },
-    {
-      "raw_hot": 246324,
-      "num": 160439,
-      "word": "Tim父亲 圆通总裁",
-      "onboard_time": 1763029161,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 246218,
@@ -10483,14 +10507,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 219310,
-      "num": 171510,
-      "word": "文科生的天塌了又塌",
-      "onboard_time": 1763028321,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219276,
       "num": 127219,
       "word": "杨紫珍珠高定",
@@ -10513,14 +10529,6 @@
       "onboard_time": 1762011862,
       "rank": 19,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 218590,
-      "num": 218590,
-      "word": "孙颖莎vs刘斐",
-      "onboard_time": 1763027302,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 218494,
@@ -11809,14 +11817,6 @@
       "onboard_time": 1762950742,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199689,
-      "num": 158240,
-      "word": "陈建斌蒋勤勤大儿子身高",
-      "onboard_time": 1763027780,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 199492,
@@ -16139,6 +16139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156918,
+      "num": 144840,
+      "word": "高市早苗反省",
+      "onboard_time": 1763029401,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156770,
       "num": 156770,
       "word": "oner谈S赛对LPL连胜",
@@ -17747,14 +17755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144840,
-      "num": 144840,
-      "word": "高市早苗反省",
-      "onboard_time": 1763029401,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 144823,
       "num": 208949,
       "word": "ale谈Uzi",
@@ -18321,6 +18321,14 @@
       "onboard_time": 1762771040,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 140913,
+      "num": 140913,
+      "word": "王楚钦vs林高远",
+      "onboard_time": 1763030482,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 140909,
@@ -19177,6 +19185,14 @@
       "onboard_time": 1762059620,
       "rank": 30,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136669,
+      "num": 136669,
+      "word": "明年购置税征收50%",
+      "onboard_time": 1763027661,
+      "rank": 15,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 136660,
@@ -20963,6 +20979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 127550,
+      "num": 127550,
+      "word": "孙颖莎削球好牛",
+      "onboard_time": 1763030721,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127537,
       "num": 119567,
       "word": "李晨白鹿范丞丞新疆聚餐",
@@ -21657,6 +21681,14 @@
       "onboard_time": 1762656979,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124707,
+      "num": 124707,
+      "word": "别再关灯侧躺玩手机了",
+      "onboard_time": 1763029881,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 124697,
@@ -30355,14 +30387,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94946,
-      "num": 94946,
-      "word": "别再关灯侧躺玩手机了",
-      "onboard_time": 1763029881,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 94907,
       "num": 93258,
       "word": "水龙吟",
@@ -30889,6 +30913,14 @@
       "onboard_time": 1762842259,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93583,
+      "num": 91546,
+      "word": "王者哪个段位最难打",
+      "onboard_time": 1763030000,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 93581,
@@ -31785,6 +31817,14 @@
       "onboard_time": 1762657759,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 115702,
+      "word": "穆祉丞说祖师爷参加过星辰大海",
+      "onboard_time": 1763029881,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 90947,
@@ -33387,6 +33427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87207,
+      "num": 87207,
+      "word": "宋祖儿完全老公来的",
+      "onboard_time": 1763030423,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87198,
       "num": 87198,
       "word": "原来小猫咪也会吐口水",
@@ -33731,6 +33779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 86501,
+      "num": 86501,
+      "word": "陈垣宇蒯曼vs徐海东陈幸同",
+      "onboard_time": 1763030660,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86495,
       "num": 86495,
       "word": "利物浦1比0皇马",
@@ -33777,6 +33833,14 @@
       "onboard_time": 1762352362,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86432,
+      "num": 86432,
+      "word": "粉丝想让Gumayusi六天内续约",
+      "onboard_time": 1763030660,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 86429,
@@ -34907,6 +34971,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82949,
+      "num": 82949,
+      "word": "李昀锐高反",
+      "onboard_time": 1763030781,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82947,
       "num": 82947,
       "word": "老鹰vs快船",
@@ -35609,6 +35681,14 @@
       "onboard_time": 1761996083,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80721,
+      "num": 80721,
+      "word": "李施嬅生病车崇健让她去健身房",
+      "onboard_time": 1763030781,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 80613,
@@ -40731,14 +40811,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 55359,
-      "num": 115702,
-      "word": "穆祉丞说祖师爷参加过星辰大海",
-      "onboard_time": 1763029881,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 55307,
       "num": 189327,
       "word": "双11决赛圈72h倒计时",
@@ -42531,6 +42603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42291,
+      "num": 174009,
+      "word": "柯洁新歌舞台首秀",
+      "onboard_time": 1763028081,
+      "rank": 14,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 42255,
       "num": 195721,
       "word": "谢霆锋你让我怎么戒断",
@@ -42873,14 +42953,6 @@
       "onboard_time": 1762682958,
       "rank": 19,
       "category": "综艺,互联网"
-    },
-    {
-      "raw_hot": 39500,
-      "num": 174009,
-      "word": "柯洁新歌舞台首秀",
-      "onboard_time": 1763028081,
-      "rank": 14,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 39492,

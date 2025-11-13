@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763029906699,
+  "endTime": 1763030842230,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -33,6 +33,14 @@
       "onboard_time": 1763002340,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 870671,
+      "num": 160439,
+      "word": "Tim父亲 圆通总裁",
+      "onboard_time": 1763029161,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 800833,
@@ -243,6 +251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410569,
+      "num": 171510,
+      "word": "文科生的天塌了又塌",
+      "onboard_time": 1763028321,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408759,
       "num": 1065401,
       "word": "九阳股份涨停",
@@ -307,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 382333,
+      "num": 164093,
+      "word": "LV品牌大使 温柔人设",
+      "onboard_time": 1763028681,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380690,
       "num": 165681,
       "word": "影视飓风Tim 相亲简历",
@@ -353,14 +377,6 @@
       "onboard_time": 1763004801,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359558,
-      "num": 164093,
-      "word": "LV品牌大使 温柔人设",
-      "onboard_time": 1763028681,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 358024,
@@ -571,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271232,
+      "num": 271232,
+      "word": "孙颖莎vs刘斐",
+      "onboard_time": 1763027302,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267249,
       "num": 267249,
       "word": "导演回应大湾鸡选武校娃",
@@ -585,6 +609,14 @@
       "onboard_time": 1762954103,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 261682,
+      "num": 158240,
+      "word": "陈建斌蒋勤勤大儿子身高",
+      "onboard_time": 1763027780,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 261540,
@@ -641,14 +673,6 @@
       "onboard_time": 1762991780,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246324,
-      "num": 160439,
-      "word": "Tim父亲 圆通总裁",
-      "onboard_time": 1763029161,
-      "rank": 26,
-      "category": "数码"
     },
     {
       "raw_hot": 244379,
@@ -723,22 +747,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 219310,
-      "num": 171510,
-      "word": "文科生的天塌了又塌",
-      "onboard_time": 1763028321,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 218590,
-      "num": 218590,
-      "word": "孙颖莎vs刘斐",
-      "onboard_time": 1763027302,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 217824,
       "num": 217824,
       "word": "无畏玫瑰魔术师",
@@ -801,14 +809,6 @@
       "onboard_time": 1762989258,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 199689,
-      "num": 158240,
-      "word": "陈建斌蒋勤勤大儿子身高",
-      "onboard_time": 1763027780,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 199392,
@@ -1051,6 +1051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156918,
+      "num": 144840,
+      "word": "高市早苗反省",
+      "onboard_time": 1763029401,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 155030,
       "num": 287962,
       "word": "钎城纯白流光造型",
@@ -1163,20 +1171,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144840,
-      "num": 144840,
-      "word": "高市早苗反省",
-      "onboard_time": 1763029401,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141063,
       "num": 141063,
       "word": "白鹿说友谊超过七年将持续一生",
       "onboard_time": 1763008462,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140913,
+      "num": 140913,
+      "word": "王楚钦vs林高远",
+      "onboard_time": 1763030482,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 140175,
@@ -1209,6 +1217,14 @@
       "onboard_time": 1763016799,
       "rank": 32,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 136669,
+      "num": 136669,
+      "word": "明年购置税征收50%",
+      "onboard_time": 1763027661,
+      "rank": 15,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 136169,
@@ -1331,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127550,
+      "num": 127550,
+      "word": "孙颖莎削球好牛",
+      "onboard_time": 1763030721,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125957,
       "num": 125957,
       "word": "黄金拉升大涨",
@@ -1353,6 +1377,14 @@
       "onboard_time": 1763025981,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124707,
+      "num": 124707,
+      "word": "别再关灯侧躺玩手机了",
+      "onboard_time": 1763029881,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 124542,
@@ -1907,20 +1939,20 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94946,
-      "num": 94946,
-      "word": "别再关灯侧躺玩手机了",
-      "onboard_time": 1763029881,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 93684,
       "num": 89006,
       "word": "各国大学发offer的态度",
       "onboard_time": 1763017460,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 93583,
+      "num": 91546,
+      "word": "王者哪个段位最难打",
+      "onboard_time": 1763030000,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 93241,
@@ -1945,6 +1977,22 @@
       "onboard_time": 1762997419,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91855,
+      "num": 91855,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763029941,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91003,
+      "num": 115702,
+      "word": "穆祉丞说祖师爷参加过星辰大海",
+      "onboard_time": 1763029881,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 90880,
@@ -2067,6 +2115,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 87207,
+      "num": 87207,
+      "word": "宋祖儿完全老公来的",
+      "onboard_time": 1763030423,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 87099,
       "num": 87099,
       "word": "第一次见球形的猫",
@@ -2089,6 +2145,22 @@
       "onboard_time": 1763013500,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 86501,
+      "num": 86501,
+      "word": "陈垣宇蒯曼vs徐海东陈幸同",
+      "onboard_time": 1763030660,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 86432,
+      "num": 86432,
+      "word": "粉丝想让Gumayusi六天内续约",
+      "onboard_time": 1763030660,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 85888,
@@ -2147,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82949,
+      "num": 82949,
+      "word": "李昀锐高反",
+      "onboard_time": 1763030781,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82904,
       "num": 82904,
       "word": "美政府关门43天后",
@@ -2193,6 +2273,14 @@
       "onboard_time": 1763021481,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 80721,
+      "num": 80721,
+      "word": "李施嬅生病车崇健让她去健身房",
+      "onboard_time": 1763030781,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 80613,
@@ -2587,14 +2675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 55359,
-      "num": 115702,
-      "word": "穆祉丞说祖师爷参加过星辰大海",
-      "onboard_time": 1763029881,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 54358,
       "num": 54358,
       "word": "台湾高雄议会现场爆发激烈冲突",
@@ -2747,6 +2827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42291,
+      "num": 174009,
+      "word": "柯洁新歌舞台首秀",
+      "onboard_time": 1763028081,
+      "rank": 14,
+      "category": "体育,作品衍生"
+    },
+    {
       "raw_hot": 42130,
       "num": 89254,
       "word": "沙溢宋雨琦 塔吉克族礼仪",
@@ -2785,14 +2873,6 @@
       "onboard_time": 1763012181,
       "rank": 39,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 39500,
-      "num": 174009,
-      "word": "柯洁新歌舞台首秀",
-      "onboard_time": 1763028081,
-      "rank": 14,
-      "category": "体育,作品衍生"
     },
     {
       "raw_hot": 39492,
