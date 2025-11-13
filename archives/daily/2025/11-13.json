@@ -1,6 +1,6 @@
 {
   "startTime": 1762965368264,
-  "endTime": 1763004978250,
+  "endTime": 1763008368484,
   "band_list": [
     {
       "raw_hot": 1429862,
@@ -27,6 +27,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 750907,
+      "num": 153077,
+      "word": "宋祖儿腿太细了",
+      "onboard_time": 1763005160,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 677763,
+      "num": 1108442,
+      "word": "中国黄金回应试戴金镯10秒被索赔1000",
+      "onboard_time": 1763005461,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 651625,
+      "num": 152907,
+      "word": "韦雪秦奋带儿子聚餐",
+      "onboard_time": 1763007440,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 641544,
       "num": 641544,
       "word": "小天才灰色产业链曝光",
@@ -35,12 +59,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 611907,
+      "num": 611907,
+      "word": "蒯曼11比5陈梦",
+      "onboard_time": 1763007082,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 600248,
       "num": 1096039,
       "word": "表妹万福杀青",
       "onboard_time": 1763002759,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 585478,
+      "num": 178374,
+      "word": "小猫去世后猫厕所弹出的提示",
+      "onboard_time": 1763006240,
+      "rank": 11,
+      "category": "幽默"
     },
     {
       "raw_hot": 551543,
@@ -67,6 +107,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 452756,
+      "num": 176743,
+      "word": "李宏毅你知道我等了三年吗",
+      "onboard_time": 1763006361,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 430074,
       "num": 214908,
       "word": "小孩试戴金镯子10秒被要求赔偿千元",
@@ -81,6 +129,14 @@
       "onboard_time": 1762997480,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 393883,
+      "num": 208771,
+      "word": "白鹿与助理就是现实版闺蜜你养我吧",
+      "onboard_time": 1763003059,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 375788,
@@ -107,12 +163,28 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 370876,
+      "num": 370876,
+      "word": "樊振东十五运4强",
+      "onboard_time": 1763004801,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 356621,
       "num": 356621,
       "word": "内娱综艺收官濒临破产散伙",
       "onboard_time": 1763002278,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356096,
+      "num": 174143,
+      "word": "男子开车精准撞倒持刀歹徒",
+      "onboard_time": 1763005580,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347412,
@@ -155,6 +227,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 312336,
+      "num": 312336,
+      "word": "林高远刘诗雯晋级混双金牌赛",
+      "onboard_time": 1763004560,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 305959,
+      "num": 152657,
+      "word": "卢昱晓跪下和粉丝合照",
+      "onboard_time": 1763005940,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305740,
       "num": 211064,
       "word": "章泽天朱珠同框",
@@ -177,6 +265,14 @@
       "onboard_time": 1763001980,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 297694,
+      "num": 152597,
+      "word": "黄子韬每天晚上陪徐艺洋学英语",
+      "onboard_time": 1763005520,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 293029,
@@ -211,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 274501,
+      "num": 168595,
+      "word": "奇瑞4次致歉也修复不了天梯之伤",
+      "onboard_time": 1763005820,
+      "rank": 15,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 267249,
       "num": 267249,
       "word": "导演回应大湾鸡选武校娃",
@@ -233,6 +337,22 @@
       "onboard_time": 1762998440,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 257843,
+      "num": 152460,
+      "word": "小时候感冒vs长大后感冒",
+      "onboard_time": 1763006421,
+      "rank": 27,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 253739,
+      "num": 253739,
+      "word": "疯狂动物城2大先生爆改孙女奴",
+      "onboard_time": 1763002640,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 250106,
@@ -275,20 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 211856,
-      "num": 211856,
+      "raw_hot": 216564,
+      "num": 216564,
       "word": "乌克兰停止与俄罗斯谈判",
       "onboard_time": 1762999460,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 208771,
-      "num": 208771,
-      "word": "白鹿与助理就是现实版闺蜜你养我吧",
-      "onboard_time": 1763003059,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 207694,
@@ -331,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180307,
+      "num": 152405,
+      "word": "詹姆斯被下放",
+      "onboard_time": 1763005400,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179908,
       "num": 179908,
       "word": "女子称咖啡灌肠能清血毒",
@@ -345,6 +465,14 @@
       "onboard_time": 1762956024,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 168084,
+      "num": 168084,
+      "word": "唐诡尸兄含量极高的一集",
+      "onboard_time": 1763006421,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 166520,
@@ -371,20 +499,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153170,
+      "num": 153170,
+      "word": "不允许城镇居民到农村买农房",
+      "onboard_time": 1763007561,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152456,
       "num": 210714,
       "word": "星辰大海",
       "onboard_time": 1763000719,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150839,
-      "num": 150839,
-      "word": "林高远刘诗雯晋级混双金牌赛",
-      "onboard_time": 1763004560,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 150123,
@@ -403,11 +531,27 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 146679,
-      "num": 146679,
-      "word": "樊振东十五运4强",
-      "onboard_time": 1763004801,
-      "rank": 31,
+      "raw_hot": 137141,
+      "num": 137141,
+      "word": "李冰冰 状元郎",
+      "onboard_time": 1763007739,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 136346,
+      "num": 153158,
+      "word": "特朗普问叙利亚领导人有几个老婆",
+      "onboard_time": 1763007261,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 136169,
+      "num": 136169,
+      "word": "库里单节22分",
+      "onboard_time": 1763007201,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -419,10 +563,26 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134465,
+      "num": 152290,
+      "word": "乌合麒麟新作福建舰接81192返航",
+      "onboard_time": 1763006121,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134230,
       "num": 111842,
       "word": "李克勤回应岳父和妻弟断绝关系",
       "onboard_time": 1762953321,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 130767,
+      "num": 130767,
+      "word": "抛开高叶不谈",
+      "onboard_time": 1763007141,
       "rank": 35,
       "category": "艺人"
     },
@@ -441,14 +601,6 @@
       "onboard_time": 1762960941,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127745,
-      "num": 210389,
-      "word": "疯狂动物城2大先生爆改孙女奴",
-      "onboard_time": 1763002640,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 125554,
@@ -539,6 +691,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114681,
+      "num": 114681,
+      "word": "勿扰飞升定档11月15日",
+      "onboard_time": 1763006240,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 114142,
+      "num": 114142,
+      "word": "九阳 哈基米南北绿豆浆",
+      "onboard_time": 1763006962,
+      "rank": 40,
+      "category": "美食"
+    },
+    {
       "raw_hot": 112980,
       "num": 112980,
       "word": "穆祉丞小跑着上课",
@@ -555,12 +723,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110867,
+      "num": 110867,
+      "word": "林诗栋11比2赵子豪",
+      "onboard_time": 1763008102,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109241,
       "num": 121665,
       "word": "缅甸亚太新城犯罪集团主犯引渡回国",
       "onboard_time": 1762958722,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109072,
+      "num": 109072,
+      "word": "白鹿不愧是横店鹰眼",
+      "onboard_time": 1763007261,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 108505,
@@ -577,6 +761,30 @@
       "onboard_time": 1762998920,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 107543,
+      "num": 107543,
+      "word": "男子养6只万能血犬每毫升收15元",
+      "onboard_time": 1763005281,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104569,
+      "num": 114191,
+      "word": "特朗普罕见为中国留学生辩护",
+      "onboard_time": 1763007320,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 103371,
+      "num": 103371,
+      "word": "小米汽车新奖项",
+      "onboard_time": 1763007981,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 103129,
@@ -619,11 +827,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100979,
+      "num": 100979,
+      "word": "极具侵略性的坐姿",
+      "onboard_time": 1763008102,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100613,
       "num": 100613,
       "word": "孙杨说出发令与前两天不一样",
       "onboard_time": 1763004020,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98819,
+      "num": 98819,
+      "word": "樊振东4比0孙正",
+      "onboard_time": 1763004980,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -633,6 +857,14 @@
       "onboard_time": 1762998740,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95697,
+      "num": 95697,
+      "word": "仙侠剧也有从玉从女的女主",
+      "onboard_time": 1763006061,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 92477,
@@ -1019,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 52906,
+      "num": 114328,
+      "word": "家长都在请马丁喝奶茶",
+      "onboard_time": 1763008342,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52201,
       "num": 112443,
       "word": "六公主镜头下的李柯以韩雨彤",
@@ -1052,7 +1292,7 @@
     },
     {
       "raw_hot": 48409,
-      "num": 359443,
+      "num": 431663,
       "word": "网警查处虚构事实扰乱公共秩序案",
       "onboard_time": 1762994301,
       "rank": 2,
@@ -1281,6 +1521,14 @@
       "onboard_time": 1762969995,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16930,
+      "num": 171174,
+      "word": "竞燃之夜今晚见",
+      "onboard_time": 1763006481,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 12014,
