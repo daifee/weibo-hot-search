@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 20:55:50
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/13 21:10:17
 </p>
 </blockquote>
 <p>
@@ -2145,6 +2145,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B50%E8%9B%99%E7%8A%AF%E8%A7%84%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
+覃海洋50蛙犯规被取消成绩（热度：602921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E9%93%BA%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%88%98%E5%98%89%E7%8E%B2%E5%96%8A%E8%AF%9D%E4%BE%B5%E6%9D%83%23" target="weibo">
 店铺回应被刘嘉玲喊话侵权（热度：602605）
 </a>
@@ -2333,12 +2339,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%968%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%86%AC%E5%A4%A9%E7%A9%BF%E6%8B%96%E9%9E%8B%E6%B5%81%E6%B5%AA%23" target="weibo">
 妈妈去世8岁女孩冬天穿拖鞋流浪（热度：572652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B50%E8%9B%99%E7%8A%AF%E8%A7%84%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
-覃海洋50蛙犯规被取消成绩（热度：571511）
 </a>
 </li>
 
@@ -2549,6 +2549,12 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E5%AE%9D%E9%A9%AC%E8%BD%A6%E4%B8%8B%E4%B9%A1%E6%94%B6%E9%9B%86%E6%9D%91%E6%B0%91%E8%BA%AB%E4%BB%BD%E8%AF%81%E4%BF%A1%E6%81%AF%23" target="weibo">
 男子开宝马车下乡收集村民身份证信息（热度：550870）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E9%80%81%E9%94%99%E5%BF%AB%E9%80%92%E8%A2%AB%E5%BD%93%E5%9C%BA%E5%88%BA%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
+快递员送错快递被当场刺伤身亡（热度：550388）
 </a>
 </li>
 
@@ -3015,12 +3021,6 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E5%91%98%E9%80%81%E9%94%99%E5%BF%AB%E9%80%92%E8%A2%AB%E5%BD%93%E5%9C%BA%E5%88%BA%E4%BC%A4%E8%BA%AB%E4%BA%A1%23" target="weibo">
-快递员送错快递被当场刺伤身亡（热度：498000）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E8%BE%9F%E8%B0%A3%E6%92%92%E8%B4%9D%E5%AE%81%E5%9B%9E%E5%BD%92%E5%A4%A7%E4%BE%A6%E6%8E%A2%23" target="weibo">
 芒果辟谣撒贝宁回归大侦探（热度：496356）
 </a>
@@ -3345,6 +3345,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%AF%AF%E8%AF%8A%E7%9F%AE%E5%B0%8F%E7%97%87%E6%89%93%E4%BA%862940%E9%92%88%23" target="weibo">
+14岁男孩被误诊矮小症打了2940针（热度：469610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E8%99%8E%E6%92%9E%E9%A3%9E%E6%8C%81%E5%88%80%E7%94%B7%E5%AD%90%E5%B1%9E%E6%AD%A3%E5%BD%93%E9%98%B2%E5%8D%AB%23" target="weibo">
 路虎撞飞持刀男子属正当防卫（热度：468706）
 </a>
@@ -3443,12 +3449,6 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%91%A8%E9%9B%A8%23" target="weibo">
 樊振东vs周雨（热度：460374）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%AF%AF%E8%AF%8A%E7%9F%AE%E5%B0%8F%E7%97%87%E6%89%93%E4%BA%862940%E9%92%88%23" target="weibo">
-14岁男孩被误诊矮小症打了2940针（热度：459821）
 </a>
 </li>
 
@@ -3725,6 +3725,12 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E7%BB%88%E4%BA%8E%E5%8F%88%E6%BC%94%E4%BA%86%E4%B8%80%E6%AC%A1%E8%A2%AB%E7%88%B1%23" target="weibo">
 蒋欣终于又演了一次被爱（热度：437495）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E9%9A%86%E5%9F%BA%20%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB%23" target="weibo">
+李隆基 太平公主（热度：436535）
 </a>
 </li>
 
@@ -4275,6 +4281,12 @@ ally因整容擤不出鼻涕（热度：402082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A5%88%E5%84%BF%20%E4%B8%8A%E5%AE%98%E5%A9%89%E5%84%BF%23" target="weibo">
+李奈儿 上官婉儿（热度：388810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E6%9D%BE%E9%9F%B5%E5%88%98%E6%98%8A%E7%84%B6%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%91%E4%BB%AC%E5%94%AE%E5%90%8E%23" target="weibo">
 谭松韵刘昊然最好的我们售后（热度：388196）
 </a>
@@ -4761,6 +4773,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%20%E6%A5%BC%E5%87%8C%E8%B5%AB%23" target="weibo">
+张桂源 楼凌赫（热度：360223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%8D%95%E5%89%8D8%E5%8F%B7%E7%A7%8D%E5%AD%90%E5%87%BA%E5%B1%80%E4%B8%80%E5%8D%8A%23" target="weibo">
 乒乓球男单前8号种子出局一半（热度：360171）
 </a>
@@ -5153,12 +5171,6 @@ AG剧透（热度：335473）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E7%A5%A8%E4%B9%B0%E5%88%B019%E6%8E%92%E4%BD%86%E8%BD%A6%E5%8E%A2%E5%8F%AA%E6%9C%8917%E6%8E%92%23" target="weibo">
 高铁票买到19排但车厢只有17排（热度：334810）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A5%88%E5%84%BF%20%E4%B8%8A%E5%AE%98%E5%A9%89%E5%84%BF%23" target="weibo">
-李奈儿 上官婉儿（热度：334741）
 </a>
 </li>
 
@@ -5601,6 +5613,12 @@ TES不敌T1后发文（热度：310623）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A1%20%E6%9D%8E%E9%9A%86%E5%9F%BA%23" target="weibo">
+唐诡 李隆基（热度：310080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%BB%E6%97%A5%E7%BE%8E%E5%86%9B%E5%9C%A8%E5%86%B2%E7%BB%B3%E8%A1%97%E5%A4%B4%E9%A6%96%E6%AC%A1%E5%8D%95%E7%8B%AC%E5%B7%A1%E9%80%BB%23" target="weibo">
 驻日美军在冲绳街头首次单独巡逻（热度：309812）
 </a>
@@ -5993,24 +6011,6 @@ BLG管理层力保ELK迫使ON离队（热度：294595）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E6%83%B3%E6%9D%A5%E8%B6%85%E5%B8%82%E7%A7%B03%E5%B2%81%E5%B9%BC%E7%AB%A5%E5%81%B7%E7%9B%97%E5%8D%83%E5%85%83%E5%95%86%E5%93%81%23" target="weibo">
 好想来超市称3岁幼童偷盗千元商品（热度：294439）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E7%BB%93%E5%A9%9A%E5%89%8D%E6%B2%A1%E6%9C%89%E6%9C%8B%E5%8F%8B%E5%9C%88%23" target="weibo">
-陈乔恩结婚前没有朋友圈（热度：294426）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E6%98%95%E5%BE%AE%E4%BF%A1%E5%87%A0%E4%B9%8E%E4%B8%8D%E7%95%99%E8%81%8A%E5%A4%A9%E8%AE%B0%E5%BD%95%23" target="weibo">
-吴昕微信几乎不留聊天记录（热度：294380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%20%E6%98%AF%E5%85%AC%E4%B8%BB%E4%B9%9F%E6%98%AF%E8%87%AA%E5%B7%B1%E7%9A%84%E9%AA%91%E5%A3%AB%23" target="weibo">
-沈月 是公主也是自己的骑士（热度：294162）
 </a>
 </li>
 
