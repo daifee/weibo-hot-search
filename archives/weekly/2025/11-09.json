@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763105204599,
+  "endTime": 1763106012120,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1515,6 +1515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 542574,
+      "num": 239911,
+      "word": "九阳豆浆 虐猫梗",
+      "onboard_time": 1763104941,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541307,
       "num": 541307,
       "word": "樊振东vs孙闻",
@@ -2361,6 +2369,14 @@
       "onboard_time": 1763008641,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 404901,
+      "num": 404901,
+      "word": "周润发张学友不参加综艺的原因",
+      "onboard_time": 1763103440,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 404318,
@@ -3587,6 +3603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299393,
+      "num": 116571,
+      "word": "蓝战非车祸伤口感染",
+      "onboard_time": 1763105600,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 299375,
       "num": 255064,
       "word": "安妮海瑟薇连续变装的经典片段",
@@ -4299,6 +4323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260426,
+      "num": 260426,
+      "word": "神舟二十号航天员乘组返回",
+      "onboard_time": 1763103980,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260223,
       "num": 294993,
       "word": "李昀锐跑男知名角落艺术家",
@@ -4337,14 +4369,6 @@
       "onboard_time": 1763080460,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 258198,
-      "num": 258198,
-      "word": "周润发张学友不参加综艺的原因",
-      "onboard_time": 1763103440,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 257998,
@@ -4521,6 +4545,14 @@
       "onboard_time": 1762781842,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245852,
+      "num": 187583,
+      "word": "艾米五官长开了",
+      "onboard_time": 1763103320,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 245471,
@@ -5089,6 +5121,14 @@
       "onboard_time": 1762742180,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218828,
+      "num": 218828,
+      "word": "上0休7 年薪000w",
+      "onboard_time": 1763104701,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 217824,
@@ -5683,14 +5723,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 197862,
-      "num": 197862,
-      "word": "上0休7 年薪000w",
-      "onboard_time": 1763104701,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197179,
       "num": 206959,
       "word": "枭起青壤",
@@ -5905,14 +5937,6 @@
       "onboard_time": 1762932501,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 192136,
-      "num": 254691,
-      "word": "神舟二十号航天员乘组返回",
-      "onboard_time": 1763103980,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 191552,
@@ -6155,14 +6179,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 187583,
-      "num": 187583,
-      "word": "艾米五官长开了",
-      "onboard_time": 1763103320,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187499,
       "num": 280400,
       "word": "五星红旗在粤港澳同时升起",
@@ -6329,6 +6345,14 @@
       "onboard_time": 1763094081,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184066,
+      "num": 166437,
+      "word": "派出所副所长带队扫黄私放卖淫女",
+      "onboard_time": 1763105721,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183815,
@@ -6961,6 +6985,14 @@
       "onboard_time": 1762698624,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166323,
+      "num": 166323,
+      "word": "彭昱畅第一次见张凌赫",
+      "onboard_time": 1763104881,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 166297,
@@ -8747,6 +8779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137325,
+      "num": 137325,
+      "word": "冷美人参赛37天瘦到脱相",
+      "onboard_time": 1763105900,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137322,
       "num": 137322,
       "word": "白鹿拍了好多漂亮的图",
@@ -10385,14 +10425,6 @@
       "onboard_time": 1762822941,
       "rank": 21,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 119335,
-      "num": 96091,
-      "word": "九阳豆浆 虐猫梗",
-      "onboard_time": 1763104941,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119312,
@@ -12995,14 +13027,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99570,
-      "num": 99570,
-      "word": "彭昱畅第一次见张凌赫",
-      "onboard_time": 1763104881,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99522,
       "num": 118100,
       "word": "全红婵全运会收官发文",
@@ -13507,6 +13531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96471,
+      "num": 193513,
+      "word": "国企光明集团临时接管484校学生餐",
+      "onboard_time": 1763104821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96431,
       "num": 96431,
       "word": "徐嘉余全运会第13金",
@@ -13675,6 +13707,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 95362,
+      "num": 95362,
+      "word": "樊振东被击到胸口后的反应",
+      "onboard_time": 1763105959,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95169,
       "num": 95169,
       "word": "林高远晋级全运会八强",
@@ -13745,6 +13785,14 @@
       "onboard_time": 1762936581,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94788,
+      "num": 94788,
+      "word": "龚俊新剧一剑封神",
+      "onboard_time": 1763105000,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94765,
@@ -14387,6 +14435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90555,
+      "num": 90555,
+      "word": "徐梦桃切除70%半月板仍在备战",
+      "onboard_time": 1763103800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90485,
       "num": 101023,
       "word": "在王源演唱会拍到了人生镜头",
@@ -14827,6 +14883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87951,
+      "num": 87951,
+      "word": "心理委员我不得劲",
+      "onboard_time": 1763105481,
+      "rank": 38,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 87871,
       "num": 87871,
       "word": "马龙全运会目标填补生涯唯一空缺",
@@ -14953,14 +15017,6 @@
       "onboard_time": 1762871602,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87261,
-      "num": 87261,
-      "word": "徐梦桃切除70%半月板仍在备战",
-      "onboard_time": 1763103800,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 87207,
@@ -15257,6 +15313,14 @@
       "onboard_time": 1763098881,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85733,
+      "num": 85733,
+      "word": "蹭衣拍照 退货",
+      "onboard_time": 1763105120,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85702,
@@ -15931,14 +15995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80011,
-      "num": 80011,
-      "word": "龚俊新剧一剑封神",
-      "onboard_time": 1763105000,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79963,
       "num": 151257,
       "word": "内娱来了个影视名妈组合",
@@ -16227,14 +16283,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 77720,
-      "num": 77720,
-      "word": "蹭衣拍照 退货",
-      "onboard_time": 1763105120,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77663,
       "num": 150369,
       "word": "家长都在请马丁喝奶茶",
@@ -16281,6 +16329,14 @@
       "onboard_time": 1762818441,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 77498,
+      "num": 77498,
+      "word": "心动原来是可以演出来的",
+      "onboard_time": 1763105061,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 77331,
@@ -16569,6 +16625,14 @@
       "onboard_time": 1762856962,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74694,
+      "num": 74694,
+      "word": "朱珠拿得出手的岂止是两个梨涡",
+      "onboard_time": 1763105841,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 74609,
@@ -17232,6 +17296,14 @@
       "word": "开车叼牙线男子处罚被撤销",
       "onboard_time": 1763004739,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68007,
+      "num": 75623,
+      "word": "绿捷公司存在串通投标行为",
+      "onboard_time": 1763105900,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -20145,14 +20217,6 @@
       "onboard_time": 1762982415,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 26519,
-      "num": 193513,
-      "word": "国企光明集团临时接管484校学生餐",
-      "onboard_time": 1763104821,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26192,

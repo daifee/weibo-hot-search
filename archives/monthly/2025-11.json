@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763105204599,
+  "endTime": 1763106012120,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -3659,6 +3659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 542574,
+      "num": 239911,
+      "word": "九阳豆浆 虐猫梗",
+      "onboard_time": 1763104941,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 541307,
       "num": 541307,
       "word": "樊振东vs孙闻",
@@ -5641,6 +5649,14 @@
       "onboard_time": 1763008641,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 404901,
+      "num": 404901,
+      "word": "周润发张学友不参加综艺的原因",
+      "onboard_time": 1763103440,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 404318,
@@ -8235,6 +8251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 299393,
+      "num": 116571,
+      "word": "蓝战非车祸伤口感染",
+      "onboard_time": 1763105600,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 299375,
       "num": 255064,
       "word": "安妮海瑟薇连续变装的经典片段",
@@ -9539,6 +9563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 260426,
+      "num": 260426,
+      "word": "神舟二十号航天员乘组返回",
+      "onboard_time": 1763103980,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260223,
       "num": 294993,
       "word": "李昀锐跑男知名角落艺术家",
@@ -9641,14 +9673,6 @@
       "onboard_time": 1762050979,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 258198,
-      "num": 258198,
-      "word": "周润发张学友不参加综艺的原因",
-      "onboard_time": 1763103440,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 258190,
@@ -10041,6 +10065,14 @@
       "onboard_time": 1762781842,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 245852,
+      "num": 187583,
+      "word": "艾米五官长开了",
+      "onboard_time": 1763103320,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 245803,
@@ -11249,6 +11281,14 @@
       "onboard_time": 1762742180,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218828,
+      "num": 218828,
+      "word": "上0休7 年薪000w",
+      "onboard_time": 1763104701,
+      "rank": 15,
+      "category": "幽默"
     },
     {
       "raw_hot": 218661,
@@ -12739,14 +12779,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 197862,
-      "num": 197862,
-      "word": "上0休7 年薪000w",
-      "onboard_time": 1763104701,
-      "rank": 15,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 197735,
       "num": 197735,
       "word": "迪丽热巴新剧路透梦回关小迪",
@@ -13281,14 +13313,6 @@
       "onboard_time": 1761967281,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 192136,
-      "num": 254691,
-      "word": "神舟二十号航天员乘组返回",
-      "onboard_time": 1763103980,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 192089,
@@ -13843,14 +13867,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 187583,
-      "num": 187583,
-      "word": "艾米五官长开了",
-      "onboard_time": 1763103320,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 187499,
       "num": 280400,
       "word": "五星红旗在粤港澳同时升起",
@@ -14249,6 +14265,14 @@
       "onboard_time": 1762432402,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 184066,
+      "num": 166437,
+      "word": "派出所副所长带队扫黄私放卖淫女",
+      "onboard_time": 1763105721,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183896,
@@ -15920,6 +15944,14 @@
       "word": "视界大会cp奖给了向往的生活的狗",
       "onboard_time": 1762249881,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 166323,
+      "num": 166323,
+      "word": "彭昱畅第一次见张凌赫",
+      "onboard_time": 1763104881,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -20371,6 +20403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137325,
+      "num": 137325,
+      "word": "冷美人参赛37天瘦到脱相",
+      "onboard_time": 1763105900,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137322,
       "num": 137322,
       "word": "白鹿拍了好多漂亮的图",
@@ -24361,14 +24401,6 @@
       "onboard_time": 1762822941,
       "rank": 21,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 119335,
-      "num": 96091,
-      "word": "九阳豆浆 虐猫梗",
-      "onboard_time": 1763104941,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119333,
@@ -30563,14 +30595,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 99570,
-      "num": 99570,
-      "word": "彭昱畅第一次见张凌赫",
-      "onboard_time": 1763104881,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 99543,
       "num": 144756,
       "word": "俄方回应委内瑞拉求援",
@@ -31867,6 +31891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96471,
+      "num": 193513,
+      "word": "国企光明集团临时接管484校学生餐",
+      "onboard_time": 1763104821,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96431,
       "num": 96431,
       "word": "徐嘉余全运会第13金",
@@ -32299,6 +32331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95362,
+      "num": 95362,
+      "word": "樊振东被击到胸口后的反应",
+      "onboard_time": 1763105959,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95313,
       "num": 95313,
       "word": "浙大食堂8.8元一只螃蟹馋哭网友",
@@ -32457,6 +32497,14 @@
       "onboard_time": 1762936581,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 94788,
+      "num": 94788,
+      "word": "龚俊新剧一剑封神",
+      "onboard_time": 1763105000,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 94774,
@@ -34203,6 +34251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90555,
+      "num": 90555,
+      "word": "徐梦桃切除70%半月板仍在备战",
+      "onboard_time": 1763103800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90485,
       "num": 101023,
       "word": "在王源演唱会拍到了人生镜头",
@@ -35307,6 +35363,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 87951,
+      "num": 87951,
+      "word": "心理委员我不得劲",
+      "onboard_time": 1763105481,
+      "rank": 38,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 87884,
       "num": 87884,
       "word": "再也不怕上学迟到了",
@@ -35601,14 +35665,6 @@
       "onboard_time": 1762217841,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87261,
-      "num": 87261,
-      "word": "徐梦桃切除70%半月板仍在备战",
-      "onboard_time": 1763103800,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 87242,
@@ -36385,6 +36441,14 @@
       "onboard_time": 1762573099,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85733,
+      "num": 85733,
+      "word": "蹭衣拍照 退货",
+      "onboard_time": 1763105120,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85702,
@@ -38243,14 +38307,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 80011,
-      "num": 80011,
-      "word": "龚俊新剧一剑封神",
-      "onboard_time": 1763105000,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 79993,
       "num": 122433,
       "word": "全红婵跳水慢动作看不够",
@@ -38931,14 +38987,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77720,
-      "num": 77720,
-      "word": "蹭衣拍照 退货",
-      "onboard_time": 1763105120,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 77698,
       "num": 214845,
       "word": "老人感冒医生多看一眼片子救了一命",
@@ -39057,6 +39105,14 @@
       "onboard_time": 1762058359,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 77498,
+      "num": 77498,
+      "word": "心动原来是可以演出来的",
+      "onboard_time": 1763105061,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 77460,
@@ -39801,6 +39857,14 @@
       "onboard_time": 1762856962,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74694,
+      "num": 74694,
+      "word": "朱珠拿得出手的岂止是两个梨涡",
+      "onboard_time": 1763105841,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 74625,
@@ -41297,6 +41361,14 @@
       "onboard_time": 1762497620,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68007,
+      "num": 75623,
+      "word": "绿捷公司存在串通投标行为",
+      "onboard_time": 1763105900,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67997,
@@ -47592,14 +47664,6 @@
       "word": "丈夫病亡两天后妻子也离世家属发声",
       "onboard_time": 1762414223,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26519,
-      "num": 193513,
-      "word": "国企光明集团临时接管484校学生餐",
-      "onboard_time": 1763104821,
-      "rank": 19,
       "category": "民生新闻"
     },
     {

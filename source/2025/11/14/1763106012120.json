@@ -1,0 +1,410 @@
+{
+  "runTime": 1763106012120,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1458606,
+        "num": 1458606,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496248,
+        "num": 496248,
+        "word": "上海绿捷8人被逮捕",
+        "onboard_time": 1763101400,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 32557,
+        "num": 435321,
+        "word": "网警从严查处编造散布公共领域谣言",
+        "onboard_time": 1763096720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 589736,
+        "num": 434103,
+        "word": "何赛飞因行李箱被踹坏爆哭",
+        "onboard_time": 1763097560,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 432669,
+        "num": 432669,
+        "word": "日本有事就是日本有事",
+        "onboard_time": 1763083701,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 404901,
+        "num": 404901,
+        "word": "周润发张学友不参加综艺的原因",
+        "onboard_time": 1763103440,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 338255,
+        "num": 338255,
+        "word": "易烊千玺康熙海报",
+        "onboard_time": 1763102361,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 260426,
+        "num": 260426,
+        "word": "神舟二十号航天员乘组返回",
+        "onboard_time": 1763103980,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241844,
+        "num": 241844,
+        "word": "超六成糖尿病前期患者自己没感觉",
+        "onboard_time": 1763096241,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 239957,
+        "num": 239957,
+        "word": "樊振东3比1获胜",
+        "onboard_time": 1763091740,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542574,
+        "num": 239911,
+        "word": "九阳豆浆 虐猫梗",
+        "onboard_time": 1763104941,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308453,
+        "num": 239733,
+        "word": "21岁大学生帮人跨省取快递获刑无期",
+        "onboard_time": 1763099422,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254205,
+        "num": 239008,
+        "word": "怪不得实体店的衣服网购不到",
+        "onboard_time": 1763091499,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 218828,
+        "num": 218828,
+        "word": "上0休7 年薪000w",
+        "onboard_time": 1763104701,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 213838,
+        "num": 213838,
+        "word": "鹿晗唱baby怎么没通知我",
+        "onboard_time": 1763098760,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 212227,
+        "num": 212227,
+        "word": "三个影后吐槽流量演员扰乱影视业态",
+        "onboard_time": 1763094261,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211631,
+        "num": 211631,
+        "word": "三亚回应潜水员水下关女潜友气瓶",
+        "onboard_time": 1763097020,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204497,
+        "num": 204497,
+        "word": "场馆回应阿珍被电动座椅挤压去世",
+        "onboard_time": 1763100681,
+        "rank": 17,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 169773,
+        "num": 169773,
+        "word": "易烊千玺出席金鸡奖提名者表彰",
+        "onboard_time": 1763104220,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96471,
+        "num": 169543,
+        "word": "国企光明集团临时接管484校学生餐",
+        "onboard_time": 1763104821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336691,
+        "num": 168904,
+        "word": "k总老婆因经常喝热水食道被灼伤",
+        "onboard_time": 1763098760,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 245852,
+        "num": 167920,
+        "word": "艾米五官长开了",
+        "onboard_time": 1763103320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217609,
+        "num": 167562,
+        "word": "葛夕瘦了20多斤",
+        "onboard_time": 1763097740,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184066,
+        "num": 166437,
+        "word": "派出所副所长带队扫黄私放卖淫女",
+        "onboard_time": 1763105721,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166323,
+        "num": 166323,
+        "word": "彭昱畅第一次见张凌赫",
+        "onboard_time": 1763104881,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159578,
+        "num": 159578,
+        "word": "猫 不管脚多脏都有脸上床",
+        "onboard_time": 1763094380,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137325,
+        "num": 137325,
+        "word": "冷美人参赛37天瘦到脱相",
+        "onboard_time": 1763105900,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131650,
+        "num": 131650,
+        "word": "以为是爷孙结果是夫妻",
+        "onboard_time": 1763095701,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118745,
+        "num": 118745,
+        "word": "JackeyLove说LPL终将战胜Faker",
+        "onboard_time": 1763096601,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118493,
+        "num": 118493,
+        "word": "张凌赫把偶遇都拍成了情侣照",
+        "onboard_time": 1763099300,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299393,
+        "num": 116571,
+        "word": "蓝战非车祸伤口感染",
+        "onboard_time": 1763105600,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 106373,
+        "num": 106373,
+        "word": "韩国高考",
+        "onboard_time": 1763101041,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106255,
+        "num": 106255,
+        "word": "樊振东对战王楚钦时间确定",
+        "onboard_time": 1763103980,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95362,
+        "num": 95362,
+        "word": "樊振东被击到胸口后的反应",
+        "onboard_time": 1763105959,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95161,
+        "num": 95161,
+        "word": "孩子王 复活",
+        "onboard_time": 1763089880,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94788,
+        "num": 94788,
+        "word": "龚俊新剧一剑封神",
+        "onboard_time": 1763105000,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91496,
+        "num": 91496,
+        "word": "陈梦李晓霞热聊",
+        "onboard_time": 1763103861,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90555,
+        "num": 90555,
+        "word": "徐梦桃切除70%半月板仍在备战",
+        "onboard_time": 1763103800,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87951,
+        "num": 87951,
+        "word": "心理委员我不得劲",
+        "onboard_time": 1763105481,
+        "rank": 38,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 85733,
+        "num": 85733,
+        "word": "蹭衣拍照 退货",
+        "onboard_time": 1763105120,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83170,
+        "num": 83170,
+        "word": "7个艺人跳舞打了十几辆车",
+        "onboard_time": 1763104522,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82812,
+        "num": 82812,
+        "word": "唐诡三季了还是这么懂我",
+        "onboard_time": 1763103440,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81377,
+        "num": 81377,
+        "word": "华晨宇 再好萌的话我穿深V",
+        "onboard_time": 1763104580,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82764,
+        "num": 81077,
+        "word": "邓紫棋是真把我当外人",
+        "onboard_time": 1763104821,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79544,
+        "num": 79544,
+        "word": "食欲 基因",
+        "onboard_time": 1763105120,
+        "rank": 44,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 77498,
+        "num": 77498,
+        "word": "心动原来是可以演出来的",
+        "onboard_time": 1763105061,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 77401,
+        "num": 77401,
+        "word": "长期吃沥米饭可能造成营养素缺乏",
+        "onboard_time": 1763097680,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 68007,
+        "num": 75623,
+        "word": "绿捷公司存在串通投标行为",
+        "onboard_time": 1763105900,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74694,
+        "num": 74694,
+        "word": "朱珠拿得出手的岂止是两个梨涡",
+        "onboard_time": 1763105841,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74273,
+        "num": 74273,
+        "word": "独身女子钱在银行却无法拿来救命",
+        "onboard_time": 1763100020,
+        "rank": 49,
+        "category": "议题讨论"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
