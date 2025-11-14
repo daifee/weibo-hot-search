@@ -1,10 +1,10 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763094678934,
+  "endTime": 1763095523097,
   "band_list": [
     {
       "raw_hot": 2901099,
-      "num": 183370,
+      "num": 184986,
       "word": "周峻纬道歉",
       "onboard_time": 1763087778,
       "rank": 20,
@@ -28,15 +28,15 @@
     },
     {
       "raw_hot": 877132,
-      "num": 220023,
+      "num": 256030,
       "word": "孩子王 复活",
       "onboard_time": 1763089880,
       "rank": 10,
       "category": "艺人"
     },
     {
-      "raw_hot": 860742,
-      "num": 225411,
+      "raw_hot": 876282,
+      "num": 265702,
       "word": "怪不得实体店的衣服网购不到",
       "onboard_time": 1763091499,
       "rank": 10,
@@ -91,8 +91,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463620,
+      "num": 259526,
+      "word": "三个影后吐槽流量演员扰乱影视业态",
+      "onboard_time": 1763094261,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463506,
-      "num": 216840,
+      "num": 252524,
       "word": "第二杯半价不是一个人喝两杯",
       "onboard_time": 1763080401,
       "rank": 15,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 327613,
+      "num": 327613,
+      "word": "泰国国王及王后抵达北京现场画面",
+      "onboard_time": 1763091441,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324698,
       "num": 324698,
       "word": "日本自卫队要恢复大佐军衔",
@@ -188,11 +204,19 @@
     },
     {
       "raw_hot": 298221,
-      "num": 205675,
+      "num": 253683,
       "word": "中国军号警告日本",
       "onboard_time": 1763090240,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 287834,
+      "num": 287834,
+      "word": "全运会陈梦的指导员戴的啥",
+      "onboard_time": 1763094501,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 280825,
@@ -243,8 +267,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 265328,
-      "num": 265328,
+      "raw_hot": 269482,
+      "num": 269482,
       "word": "神二十继续留轨开展相关试验",
       "onboard_time": 1763092520,
       "rank": 6,
@@ -275,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 255589,
+      "num": 184833,
+      "word": "曾舜晞内娱赚钱内娱花",
+      "onboard_time": 1763094322,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254075,
       "num": 189275,
       "word": "孩子王回应复活",
@@ -283,8 +315,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 245988,
-      "num": 197360,
+      "raw_hot": 248047,
+      "num": 248047,
       "word": "武艺理想型原来是沈月",
       "onboard_time": 1763089940,
       "rank": 33,
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 242563,
-      "num": 242563,
+      "num": 266422,
       "word": "李柯以余茵新剧演母女",
       "onboard_time": 1763089819,
       "rank": 24,
@@ -305,14 +337,6 @@
       "onboard_time": 1763089161,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 233365,
-      "num": 233365,
-      "word": "泰国国王及王后抵达北京现场画面",
-      "onboard_time": 1763091441,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 231217,
@@ -339,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222078,
+      "num": 222078,
+      "word": "宁静身份证丢了",
+      "onboard_time": 1763094141,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 215098,
       "num": 215098,
       "word": "中方回应印度网球选手称被中国拒签",
@@ -353,6 +385,22 @@
       "onboard_time": 1763090061,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201743,
+      "num": 182847,
+      "word": "百万网红妈妈舍不得接200块的睫毛",
+      "onboard_time": 1763094322,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 195886,
+      "num": 195886,
+      "word": "银河左岸官宣无锡",
+      "onboard_time": 1763094261,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 195372,
@@ -403,20 +451,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182828,
-      "num": 160232,
-      "word": "银河左岸官宣无锡",
-      "onboard_time": 1763094261,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 184503,
+      "num": 184503,
+      "word": "柯淳自曝压力过大时有狂躁症",
+      "onboard_time": 1763094081,
+      "rank": 19,
+      "category": "综艺"
     },
     {
-      "raw_hot": 182268,
-      "num": 182268,
-      "word": "三个影后吐槽流量演员扰乱影视业态",
-      "onboard_time": 1763094261,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 179942,
+      "num": 179942,
+      "word": "许昕3比1陈亚轩",
+      "onboard_time": 1763094981,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 178487,
+      "num": 178487,
+      "word": "猫 不管脚多脏都有脸上床",
+      "onboard_time": 1763094380,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 176037,
@@ -507,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 159762,
-      "num": 159762,
-      "word": "百万网红妈妈舍不得接200块的睫毛",
-      "onboard_time": 1763094322,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 159036,
       "num": 159036,
       "word": "巴基斯坦称已做好两线作战准备",
@@ -531,12 +579,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157017,
-      "num": 182511,
-      "word": "宁静身份证丢了",
-      "onboard_time": 1763094141,
-      "rank": 22,
-      "category": "综艺"
+      "raw_hot": 156310,
+      "num": 156310,
+      "word": "华为MateX7外观曝光",
+      "onboard_time": 1763095102,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 155575,
@@ -561,6 +609,14 @@
       "onboard_time": 1763093361,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148770,
+      "num": 148770,
+      "word": "仅用0秒就确认这是杨洋",
+      "onboard_time": 1763094861,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 146073,
@@ -593,14 +649,6 @@
       "onboard_time": 1763083701,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 137716,
-      "num": 137716,
-      "word": "曾舜晞内娱赚钱内娱花",
-      "onboard_time": 1763094322,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 137486,
@@ -643,12 +691,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 134616,
-      "num": 134616,
-      "word": "全运会陈梦的指导员戴的啥",
-      "onboard_time": 1763094501,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 132519,
+      "num": 185038,
+      "word": "宁静 女生谈恋爱都会先装几天",
+      "onboard_time": 1763094261,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 131903,
@@ -699,14 +747,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 120854,
-      "num": 120854,
-      "word": "猫 不管脚多脏都有脸上床",
-      "onboard_time": 1763094380,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120359,
       "num": 120359,
       "word": "鬼灭之刃票房破亿",
@@ -747,6 +787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115702,
+      "num": 115702,
+      "word": "王牌对王牌9今日收官",
+      "onboard_time": 1763095041,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115035,
       "num": 115035,
       "word": "年轻人你离糖尿病有多远",
@@ -785,6 +833,14 @@
       "onboard_time": 1763093600,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111192,
+      "num": 111192,
+      "word": "大湾鸡导演竟是00后",
+      "onboard_time": 1763094922,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 110859,
@@ -883,12 +939,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103086,
+      "num": 103086,
+      "word": "S15全球总决赛奖金分配",
+      "onboard_time": 1763094801,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 102552,
       "num": 102552,
       "word": "马龙全运会首秀",
       "onboard_time": 1763088980,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101033,
+      "num": 101033,
+      "word": "彭小苒接档彭小苒",
+      "onboard_time": 1763095461,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100581,
+      "num": 100581,
+      "word": "iPhonePocket开箱",
+      "onboard_time": 1763095461,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 99785,
@@ -1171,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67287,
-      "num": 184276,
-      "word": "柯淳自曝压力过大时有狂躁症",
-      "onboard_time": 1763094081,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 66676,
       "num": 66676,
       "word": "白敬亭 演完帅哥奖励自己一部黑土剧",
@@ -1209,14 +1281,6 @@
       "onboard_time": 1763089880,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 63634,
-      "num": 184807,
-      "word": "宁静 女生谈恋爱都会先装几天",
-      "onboard_time": 1763094261,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 63319,
@@ -1444,7 +1508,7 @@
     },
     {
       "raw_hot": 33326,
-      "num": 186068,
+      "num": 248159,
       "word": "双11最后一天大额券你用了吗",
       "onboard_time": 1763093001,
       "rank": 16,
@@ -1577,6 +1641,14 @@
       "onboard_time": 1763065333,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15960,
+      "num": 118750,
+      "word": "下半年首场寒潮天气来袭",
+      "onboard_time": 1763094680,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13902,

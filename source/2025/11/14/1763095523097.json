@@ -1,0 +1,410 @@
+{
+  "runTime": 1763095523097,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1176674,
+        "num": 1188267,
+        "word": "日本有事就是日本有事",
+        "onboard_time": 1763083701,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1050262,
+        "num": 1050262,
+        "word": "樊振东3比1获胜",
+        "onboard_time": 1763091740,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1356,
+        "num": 704072,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 562771,
+        "num": 562771,
+        "word": "多方退出银河酷娱股东行列",
+        "onboard_time": 1763088739,
+        "rank": 3,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 391826,
+        "num": 391826,
+        "word": "比苦果亦是果更带劲的台词出现了",
+        "onboard_time": 1763090601,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 352407,
+        "num": 352407,
+        "word": "中国军号用日语发文",
+        "onboard_time": 1763088920,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327613,
+        "num": 327613,
+        "word": "泰国国王及王后抵达北京现场画面",
+        "onboard_time": 1763091441,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 287834,
+        "num": 287834,
+        "word": "全运会陈梦的指导员戴的啥",
+        "onboard_time": 1763094501,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 269482,
+        "num": 269482,
+        "word": "神二十继续留轨开展相关试验",
+        "onboard_time": 1763092520,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207484,
+        "num": 266422,
+        "word": "李柯以余茵新剧演母女",
+        "onboard_time": 1763089819,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 876282,
+        "num": 265702,
+        "word": "怪不得实体店的衣服网购不到",
+        "onboard_time": 1763091499,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 463620,
+        "num": 259526,
+        "word": "三个影后吐槽流量演员扰乱影视业态",
+        "onboard_time": 1763094261,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 448946,
+        "num": 256030,
+        "word": "孩子王 复活",
+        "onboard_time": 1763089880,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280589,
+        "num": 253683,
+        "word": "中国军号警告日本",
+        "onboard_time": 1763090240,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 252524,
+        "num": 252524,
+        "word": "第二杯半价不是一个人喝两杯",
+        "onboard_time": 1763080401,
+        "rank": 14,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 24738,
+        "num": 248159,
+        "word": "双11最后一天大额券你用了吗",
+        "onboard_time": 1763093001,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206384,
+        "num": 248088,
+        "word": "四川舰",
+        "onboard_time": 1763084539,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248047,
+        "num": 248047,
+        "word": "武艺理想型原来是沈月",
+        "onboard_time": 1763089940,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222078,
+        "num": 222078,
+        "word": "宁静身份证丢了",
+        "onboard_time": 1763094141,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195886,
+        "num": 195886,
+        "word": "银河左岸官宣无锡",
+        "onboard_time": 1763094261,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132519,
+        "num": 185038,
+        "word": "宁静 女生谈恋爱都会先装几天",
+        "onboard_time": 1763094261,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1462781,
+        "num": 184986,
+        "word": "周峻纬道歉",
+        "onboard_time": 1763087778,
+        "rank": 21,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 255589,
+        "num": 184833,
+        "word": "曾舜晞内娱赚钱内娱花",
+        "onboard_time": 1763094322,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184503,
+        "num": 184503,
+        "word": "柯淳自曝压力过大时有狂躁症",
+        "onboard_time": 1763094081,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201743,
+        "num": 182847,
+        "word": "百万网红妈妈舍不得接200块的睫毛",
+        "onboard_time": 1763094322,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 179942,
+        "num": 179942,
+        "word": "许昕3比1陈亚轩",
+        "onboard_time": 1763094981,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178487,
+        "num": 178487,
+        "word": "猫 不管脚多脏都有脸上床",
+        "onboard_time": 1763094380,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163361,
+        "num": 163361,
+        "word": "日本自卫队要恢复大佐军衔",
+        "onboard_time": 1763082681,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156310,
+        "num": 156310,
+        "word": "华为MateX7外观曝光",
+        "onboard_time": 1763095102,
+        "rank": 28,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125108,
+        "num": 155711,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1763093901,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155514,
+        "num": 155514,
+        "word": "张颜齐看见杨紫喊夏雨",
+        "onboard_time": 1763090061,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148770,
+        "num": 148770,
+        "word": "仅用0秒就确认这是杨洋",
+        "onboard_time": 1763094861,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146944,
+        "num": 146944,
+        "word": "乒乓球男团上海3比0江苏",
+        "onboard_time": 1763094501,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143147,
+        "num": 143147,
+        "word": "董宇辉致歉口语多个语法错误",
+        "onboard_time": 1763079260,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 135884,
+        "num": 135884,
+        "word": "iPhonePocket正式开售",
+        "onboard_time": 1763075958,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 138567,
+        "num": 133917,
+        "word": "杨紫爸爸去看了张一山话剧",
+        "onboard_time": 1763091021,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131814,
+        "num": 131814,
+        "word": "前时代峰峻三代同堂",
+        "onboard_time": 1763088980,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125506,
+        "num": 125506,
+        "word": "俄罗斯猛批高市早苗",
+        "onboard_time": 1763092520,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122314,
+        "num": 122314,
+        "word": "桃黑黑要入手一辆小电驴",
+        "onboard_time": 1763092520,
+        "rank": 38,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 15960,
+        "num": 118750,
+        "word": "下半年首场寒潮天气来袭",
+        "onboard_time": 1763094680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116597,
+        "num": 116597,
+        "word": "王曼昱说陈梦再返赛场优势非常强",
+        "onboard_time": 1763088440,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115702,
+        "num": 115702,
+        "word": "王牌对王牌9今日收官",
+        "onboard_time": 1763095041,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111192,
+        "num": 111192,
+        "word": "大湾鸡导演竟是00后",
+        "onboard_time": 1763094922,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108894,
+        "num": 108894,
+        "word": "辛巴徒弟蛋蛋称长期遭职场暴力",
+        "onboard_time": 1763091979,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 107778,
+        "num": 107778,
+        "word": "女子被发现已婚拒退10.8万彩礼",
+        "onboard_time": 1763092821,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103086,
+        "num": 103086,
+        "word": "S15全球总决赛奖金分配",
+        "onboard_time": 1763094801,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102799,
+        "num": 102799,
+        "word": "DK 许秀",
+        "onboard_time": 1763080401,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102272,
+        "num": 102272,
+        "word": "鬼灭之刃票房破亿",
+        "onboard_time": 1763091860,
+        "rank": 47,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 101033,
+        "num": 101033,
+        "word": "彭小苒接档彭小苒",
+        "onboard_time": 1763095461,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100581,
+        "num": 100581,
+        "word": "iPhonePocket开箱",
+        "onboard_time": 1763095461,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}

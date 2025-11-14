@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763094678934,
+  "endTime": 1763095523097,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2901099,
-      "num": 183370,
+      "num": 184986,
       "word": "周峻纬道歉",
       "onboard_time": 1763087778,
       "rank": 20,
@@ -476,11 +476,19 @@
     },
     {
       "raw_hot": 877132,
-      "num": 220023,
+      "num": 256030,
       "word": "孩子王 复活",
       "onboard_time": 1763089880,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 876282,
+      "num": 265702,
+      "word": "怪不得实体店的衣服网购不到",
+      "onboard_time": 1763091499,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 873165,
@@ -505,14 +513,6 @@
       "onboard_time": 1762776200,
       "rank": 14,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 860742,
-      "num": 225411,
-      "word": "怪不得实体店的衣服网购不到",
-      "onboard_time": 1763091499,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 854064,
@@ -1923,8 +1923,16 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 463620,
+      "num": 259526,
+      "word": "三个影后吐槽流量演员扰乱影视业态",
+      "onboard_time": 1763094261,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 463506,
-      "num": 216840,
+      "num": 252524,
       "word": "第二杯半价不是一个人喝两杯",
       "onboard_time": 1763080401,
       "rank": 15,
@@ -3091,6 +3099,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 327613,
+      "num": 327613,
+      "word": "泰国国王及王后抵达北京现场画面",
+      "onboard_time": 1763091441,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 325858,
       "num": 169228,
       "word": "长沙地铁内一女生衣服自燃",
@@ -3492,7 +3508,7 @@
     },
     {
       "raw_hot": 298221,
-      "num": 205675,
+      "num": 253683,
       "word": "中国军号警告日本",
       "onboard_time": 1763090240,
       "rank": 40,
@@ -3649,6 +3665,14 @@
       "onboard_time": 1762831340,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 287834,
+      "num": 287834,
+      "word": "全运会陈梦的指导员戴的啥",
+      "onboard_time": 1763094501,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 287012,
@@ -4003,6 +4027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 269482,
+      "num": 269482,
+      "word": "神二十继续留轨开展相关试验",
+      "onboard_time": 1763092520,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 267748,
       "num": 241605,
       "word": "梁靖崑给自己一巴掌",
@@ -4041,14 +4073,6 @@
       "onboard_time": 1762756338,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 265328,
-      "num": 265328,
-      "word": "神二十继续留轨开展相关试验",
-      "onboard_time": 1763092520,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 264477,
@@ -4219,6 +4243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255589,
+      "num": 184833,
+      "word": "曾舜晞内娱赚钱内娱花",
+      "onboard_time": 1763094322,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254969,
       "num": 254969,
       "word": "潘展乐全运会200自铜牌",
@@ -4315,6 +4347,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 248047,
+      "num": 248047,
+      "word": "武艺理想型原来是沈月",
+      "onboard_time": 1763089940,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247581,
       "num": 247581,
       "word": "武契奇方未参与批准轰炸旧址造酒店",
@@ -4355,14 +4395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 245988,
-      "num": 197360,
-      "word": "武艺理想型原来是沈月",
-      "onboard_time": 1763089940,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 245471,
       "num": 245471,
       "word": "陈梦vs何卓佳",
@@ -4396,7 +4428,7 @@
     },
     {
       "raw_hot": 242563,
-      "num": 242563,
+      "num": 266422,
       "word": "李柯以余茵新剧演母女",
       "onboard_time": 1763089819,
       "rank": 24,
@@ -4569,14 +4601,6 @@
       "onboard_time": 1762775060,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233365,
-      "num": 233365,
-      "word": "泰国国王及王后抵达北京现场画面",
-      "onboard_time": 1763091441,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 232570,
@@ -4832,6 +4856,14 @@
       "word": "沈梦辰怎么端庄成这样",
       "onboard_time": 1762734320,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 222078,
+      "num": 222078,
+      "word": "宁静身份证丢了",
+      "onboard_time": 1763094141,
+      "rank": 22,
       "category": "综艺"
     },
     {
@@ -5331,6 +5363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 201743,
+      "num": 182847,
+      "word": "百万网红妈妈舍不得接200块的睫毛",
+      "onboard_time": 1763094322,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 201593,
       "num": 513929,
       "word": "惊天魔盗团把我当自己人宠了",
@@ -5553,6 +5593,14 @@
       "onboard_time": 1762762281,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 195886,
+      "num": 195886,
+      "word": "银河左岸官宣无锡",
+      "onboard_time": 1763094261,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 195741,
@@ -6075,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184503,
+      "num": 184503,
+      "word": "柯淳自曝压力过大时有狂躁症",
+      "onboard_time": 1763094081,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183815,
       "num": 169857,
       "word": "八仙子",
@@ -6139,28 +6195,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182828,
-      "num": 160232,
-      "word": "银河左岸官宣无锡",
-      "onboard_time": 1763094261,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 182464,
       "num": 230852,
       "word": "六公主报道杨紫国色芳华研讨会",
       "onboard_time": 1762762939,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 182268,
-      "num": 182268,
-      "word": "三个影后吐槽流量演员扰乱影视业态",
-      "onboard_time": 1763094261,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 182223,
@@ -6227,6 +6267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 179942,
+      "num": 179942,
+      "word": "许昕3比1陈亚轩",
+      "onboard_time": 1763094981,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179908,
       "num": 179908,
       "word": "女子称咖啡灌肠能清血毒",
@@ -6265,6 +6313,14 @@
       "onboard_time": 1762676781,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178487,
+      "num": 178487,
+      "word": "猫 不管脚多脏都有脸上床",
+      "onboard_time": 1763094380,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 178418,
@@ -7091,14 +7147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159762,
-      "num": 159762,
-      "word": "百万网红妈妈舍不得接200块的睫毛",
-      "onboard_time": 1763094322,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 159684,
       "num": 159684,
       "word": "孟子义cos阿精",
@@ -7299,14 +7347,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 157017,
-      "num": 182511,
-      "word": "宁静身份证丢了",
-      "onboard_time": 1763094141,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 156676,
       "num": 199472,
       "word": "陈艺文铜牌",
@@ -7329,6 +7369,14 @@
       "onboard_time": 1762653259,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156310,
+      "num": 156310,
+      "word": "华为MateX7外观曝光",
+      "onboard_time": 1763095102,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 156278,
@@ -7745,6 +7793,14 @@
       "onboard_time": 1762952300,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 148770,
+      "num": 148770,
+      "word": "仅用0秒就确认这是杨洋",
+      "onboard_time": 1763094861,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 148698,
@@ -8387,14 +8443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 137716,
-      "num": 137716,
-      "word": "曾舜晞内娱赚钱内娱花",
-      "onboard_time": 1763094322,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 137712,
       "num": 122100,
       "word": "何炅金龟子亲爱的小孩你辛苦了",
@@ -8643,14 +8691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 134616,
-      "num": 134616,
-      "word": "全运会陈梦的指导员戴的啥",
-      "onboard_time": 1763094501,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134476,
       "num": 131835,
       "word": "Viper目前被LPL和LCK战队疯抢",
@@ -8840,6 +8880,14 @@
       "word": "田曦薇最甜的脸开最猛的车",
       "onboard_time": 1762840581,
       "rank": 34,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 132519,
+      "num": 185038,
+      "word": "宁静 女生谈恋爱都会先装几天",
+      "onboard_time": 1763094261,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -9931,14 +9979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 120854,
-      "num": 120854,
-      "word": "猫 不管脚多脏都有脸上床",
-      "onboard_time": 1763094380,
-      "rank": 43,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 120832,
       "num": 116400,
       "word": "库里爆砍46分",
@@ -10451,6 +10491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115702,
+      "num": 115702,
+      "word": "王牌对王牌9今日收官",
+      "onboard_time": 1763095041,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115666,
       "num": 115666,
       "word": "44岁短剧导演突发心梗去世",
@@ -10945,6 +10993,14 @@
       "onboard_time": 1762915400,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111192,
+      "num": 111192,
+      "word": "大湾鸡导演竟是00后",
+      "onboard_time": 1763094922,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 111121,
@@ -11995,6 +12051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103086,
+      "num": 103086,
+      "word": "S15全球总决赛奖金分配",
+      "onboard_time": 1763094801,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103011,
       "num": 120507,
       "word": "河南115岁老人出生于清朝已五世同堂",
@@ -12283,6 +12347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101033,
+      "num": 101033,
+      "word": "彭小苒接档彭小苒",
+      "onboard_time": 1763095461,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101003,
       "num": 101003,
       "word": "刘诗诗逛了labubu展",
@@ -12377,6 +12449,14 @@
       "onboard_time": 1763004020,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100581,
+      "num": 100581,
+      "word": "iPhonePocket开箱",
+      "onboard_time": 1763095461,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 100572,
@@ -16579,14 +16659,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 67287,
-      "num": 184276,
-      "word": "柯淳自曝压力过大时有狂躁症",
-      "onboard_time": 1763094081,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 67211,
       "num": 118361,
       "word": "荒野求生冷美人透露又面临生理期",
@@ -16849,14 +16921,6 @@
       "onboard_time": 1762658181,
       "rank": 48,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 63634,
-      "num": 184807,
-      "word": "宁静 女生谈恋爱都会先装几天",
-      "onboard_time": 1763094261,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 63591,
@@ -18956,7 +19020,7 @@
     },
     {
       "raw_hot": 33326,
-      "num": 186068,
+      "num": 248159,
       "word": "双11最后一天大额券你用了吗",
       "onboard_time": 1763093001,
       "rank": 16,
@@ -19977,6 +20041,14 @@
       "onboard_time": 1763065333,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 15960,
+      "num": 118750,
+      "word": "下半年首场寒潮天气来袭",
+      "onboard_time": 1763094680,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15749,
