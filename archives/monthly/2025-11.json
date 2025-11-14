@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763113381362,
+  "endTime": 1763116186863,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1883,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 746686,
+      "num": 199825,
+      "word": "陈昊宇 满头白发",
+      "onboard_time": 1763114242,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 745780,
       "num": 745780,
       "word": "王楚钦vs黄镇廷",
@@ -3212,7 +3220,7 @@
     },
     {
       "raw_hot": 583295,
-      "num": 172132,
+      "num": 180555,
       "word": "面试官问抽不抽烟",
       "onboard_time": 1763107342,
       "rank": 24,
@@ -3596,7 +3604,7 @@
     },
     {
       "raw_hot": 548970,
-      "num": 170753,
+      "num": 198199,
       "word": "曝柯淳被长剧退货",
       "onboard_time": 1763110581,
       "rank": 10,
@@ -3748,7 +3756,7 @@
     },
     {
       "raw_hot": 538602,
-      "num": 169739,
+      "num": 193500,
       "word": "足浴店卖淫被查多位民警遭指控",
       "onboard_time": 1763108181,
       "rank": 22,
@@ -3816,6 +3824,14 @@
       "word": "赤裸小孩姥爷发声",
       "onboard_time": 1762827740,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533770,
+      "num": 195154,
+      "word": "92岁母亲被儿打后想用500元保子",
+      "onboard_time": 1763112741,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -4067,6 +4083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 510607,
+      "num": 286854,
+      "word": "九阳豆浆回应被指玩虐猫梗",
+      "onboard_time": 1763111542,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 510057,
       "num": 510057,
       "word": "接孙尚香FMVP",
@@ -4228,7 +4252,7 @@
     },
     {
       "raw_hot": 499086,
-      "num": 169051,
+      "num": 176030,
       "word": "温峥嵘带货 微商产品",
       "onboard_time": 1763110400,
       "rank": 11,
@@ -5465,6 +5489,14 @@
       "onboard_time": 1762413802,
       "rank": 43,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 417164,
+      "num": 188970,
+      "word": "第一次感受到智性恋的魅力",
+      "onboard_time": 1763109680,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 416933,
@@ -8659,6 +8691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 288899,
+      "num": 177229,
+      "word": "肖战卷毛男大",
+      "onboard_time": 1763114781,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288606,
       "num": 131040,
       "word": "向太回应李连杰状态回春",
@@ -9545,6 +9585,14 @@
       "onboard_time": 1762429522,
       "rank": 7,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263674,
+      "num": 172973,
+      "word": "若若手机界面",
+      "onboard_time": 1763115261,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 263631,
@@ -11763,6 +11811,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212238,
+      "num": 172294,
+      "word": "桥本可以考公了",
+      "onboard_time": 1763114841,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212140,
       "num": 207215,
       "word": "敖瑞鹏演艺圈第一高人",
@@ -11977,6 +12033,14 @@
       "onboard_time": 1763039662,
       "rank": 17,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 208457,
+      "num": 208457,
+      "word": "时代峰峻旗下公司经营异常",
+      "onboard_time": 1763112861,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 208442,
@@ -15491,6 +15555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171402,
+      "num": 159636,
+      "word": "新闻联播三分钟警告高市早苗",
+      "onboard_time": 1763115741,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171387,
       "num": 164885,
       "word": "惊喜之夜节目单",
@@ -15753,6 +15825,14 @@
       "onboard_time": 1761991880,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168647,
+      "num": 168647,
+      "word": "大湾鸡被拎走",
+      "onboard_time": 1763110880,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 168604,
@@ -16795,6 +16875,14 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 161055,
+      "num": 161055,
+      "word": "老外在中国待久了以后",
+      "onboard_time": 1763114902,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 161046,
       "num": 161046,
       "word": "狼队转会",
@@ -17459,6 +17547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156394,
+      "num": 156394,
+      "word": "冷美人1分钟视频报价50元",
+      "onboard_time": 1763113101,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156310,
       "num": 156310,
       "word": "华为MateX7外观曝光",
@@ -17841,14 +17937,6 @@
       "onboard_time": 1763007261,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 153598,
-      "num": 153598,
-      "word": "第一次感受到智性恋的魅力",
-      "onboard_time": 1763109680,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 153546,
@@ -19411,14 +19499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 143228,
-      "num": 175671,
-      "word": "时代峰峻旗下公司经营异常",
-      "onboard_time": 1763112861,
-      "rank": 6,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 143196,
       "num": 276393,
       "word": "成毅的滞空兽化步",
@@ -20609,6 +20689,14 @@
       "onboard_time": 1762147701,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136871,
+      "num": 205459,
+      "word": "水龙吟",
+      "onboard_time": 1762082361,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 136849,
@@ -22843,6 +22931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126399,
+      "num": 126399,
+      "word": "FPX.ZQ对战Gr",
+      "onboard_time": 1763115080,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126390,
       "num": 130576,
       "word": "李兰迪素颜健身",
@@ -23387,6 +23483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124507,
+      "num": 124507,
+      "word": "马龙黄友政vs牛冠凯夏易正",
+      "onboard_time": 1763115141,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124444,
       "num": 124444,
       "word": "严打一批买卖学术论文账号",
@@ -23867,6 +23971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122612,
+      "num": 160604,
+      "word": "王源郑州跨年演唱会过审",
+      "onboard_time": 1763114000,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122603,
       "num": 140255,
       "word": "中方连发三问驳斥日方",
@@ -23937,6 +24049,14 @@
       "onboard_time": 1762577540,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122186,
+      "num": 170190,
+      "word": "场外的郑钦文原来是这样的",
+      "onboard_time": 1763115501,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 122183,
@@ -24491,6 +24611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119423,
+      "num": 202122,
+      "word": "陈冬说感谢伟大祖国我们回来了",
+      "onboard_time": 1763115200,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119412,
       "num": 129311,
       "word": "陈梦十五运4强",
@@ -24779,6 +24907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118514,
+      "num": 186830,
+      "word": "周深说对得起每一首歌",
+      "onboard_time": 1763115141,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118489,
       "num": 148746,
       "word": "樊振东回应4比0周雨",
@@ -24825,6 +24961,14 @@
       "onboard_time": 1762349902,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 118322,
+      "num": 192476,
+      "word": "JackeyLove和花海合影",
+      "onboard_time": 1763115922,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 118321,
@@ -25803,14 +25947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114760,
-      "num": 90192,
-      "word": "冷美人1分钟视频报价50元",
-      "onboard_time": 1763113101,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 114714,
       "num": 114714,
       "word": "彭小苒双剧联播含金量",
@@ -26017,6 +26153,14 @@
       "onboard_time": 1762742718,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 113640,
+      "num": 181987,
+      "word": "母亲称怀孕女儿被骗柬埔寨遭囚禁",
+      "onboard_time": 1763115141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113596,
@@ -26411,20 +26555,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112574,
-      "num": 112574,
-      "word": "九阳豆浆回应被指玩虐猫梗",
-      "onboard_time": 1763111542,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 112540,
       "num": 184856,
       "word": "入青云今日收官",
       "onboard_time": 1762055481,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112519,
+      "num": 112519,
+      "word": "颜值焦虑大多从头开始",
+      "onboard_time": 1763115980,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 112491,
@@ -27123,6 +27267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110168,
+      "num": 110168,
+      "word": "胡先煦冲上台的救赎感",
+      "onboard_time": 1763115080,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110156,
       "num": 164339,
       "word": "张展硕全运会400自金牌",
@@ -27217,6 +27369,14 @@
       "onboard_time": 1762420521,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109677,
+      "num": 109677,
+      "word": "鬼灭之刃制作组的厨力有多强",
+      "onboard_time": 1763116042,
+      "rank": 45,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 109651,
@@ -27841,14 +28001,6 @@
       "onboard_time": 1762073242,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 107716,
-      "num": 90089,
-      "word": "大湾鸡被拎走",
-      "onboard_time": 1763110880,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 107672,
@@ -29689,6 +29841,14 @@
       "onboard_time": 1763088980,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102546,
+      "num": 102546,
+      "word": "金饰价格结束三连涨",
+      "onboard_time": 1763115501,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 102545,
@@ -32659,14 +32819,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 94907,
-      "num": 93258,
-      "word": "水龙吟",
-      "onboard_time": 1762082361,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 94876,
       "num": 94876,
       "word": "天地剑心36集神场面",
@@ -32921,6 +33073,14 @@
       "onboard_time": 1762605741,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94295,
+      "num": 100515,
+      "word": "女子退手机壳白嫖千元羽绒服",
+      "onboard_time": 1763114480,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94286,
@@ -35968,6 +36128,14 @@
       "word": "疯狂好六夜官宣得拿放大镜看",
       "onboard_time": 1762073121,
       "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 87115,
+      "num": 123201,
+      "word": "刘宇宁心生一计",
+      "onboard_time": 1763115741,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -40273,6 +40441,14 @@
       "onboard_time": 1762152802,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74409,
+      "num": 103594,
+      "word": "张维伊戴耳机的原因找到了",
+      "onboard_time": 1763114540,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 74390,
@@ -44755,6 +44931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48997,
+      "num": 112905,
+      "word": "检方建议杀害一家五口的邻居死刑",
+      "onboard_time": 1763113941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48994,
       "num": 95357,
       "word": "刘宇宁那朵花",
@@ -46203,6 +46387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39473,
+      "num": 182743,
+      "word": "华为影像XMAGE重返巴黎大皇宫",
+      "onboard_time": 1763115561,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 39429,
       "num": 53978,
       "word": "张集骏回应被嘲三年入围金鸡奖",
@@ -46673,14 +46865,6 @@
       "onboard_time": 1762509621,
       "rank": 48,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 35850,
-      "num": 151876,
-      "word": "92岁母亲被儿打后想用500元保子",
-      "onboard_time": 1763112741,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35833,
@@ -47307,6 +47491,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 31925,
+      "num": 123790,
+      "word": "提倡零彩礼1年后于东来晒成绩单",
+      "onboard_time": 1763116161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31904,
       "num": 120098,
       "word": "官方称8岁流浪女孩暂不需捐赠",
@@ -47345,6 +47537,14 @@
       "onboard_time": 1762446979,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 31679,
+      "num": 120805,
+      "word": "学校发放过期28天蛋糕",
+      "onboard_time": 1763115680,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31641,
@@ -48761,6 +48961,14 @@
       "onboard_time": 1762275138,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21094,
+      "num": 119546,
+      "word": "唐钱婷想继续灿烂微笑",
+      "onboard_time": 1763114480,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 20985,

@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763113381362,
+  "endTime": 1763116186863,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 746686,
+      "num": 199825,
+      "word": "陈昊宇 满头白发",
+      "onboard_time": 1763114242,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 696520,
       "num": 696520,
       "word": "董宇辉致歉口语多个语法错误",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 583295,
-      "num": 172132,
+      "num": 180555,
       "word": "面试官问抽不抽烟",
       "onboard_time": 1763107342,
       "rank": 24,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 548970,
-      "num": 170753,
+      "num": 198199,
       "word": "曝柯淳被长剧退货",
       "onboard_time": 1763110581,
       "rank": 10,
@@ -164,10 +172,18 @@
     },
     {
       "raw_hot": 538602,
-      "num": 169739,
+      "num": 193500,
       "word": "足浴店卖淫被查多位民警遭指控",
       "onboard_time": 1763108181,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 533770,
+      "num": 195154,
+      "word": "92岁母亲被儿打后想用500元保子",
+      "onboard_time": 1763112741,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -187,8 +203,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 510607,
+      "num": 286854,
+      "word": "九阳豆浆回应被指玩虐猫梗",
+      "onboard_time": 1763111542,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 499086,
-      "num": 169051,
+      "num": 176030,
       "word": "温峥嵘带货 微商产品",
       "onboard_time": 1763110400,
       "rank": 11,
@@ -233,6 +257,14 @@
       "onboard_time": 1763090601,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417164,
+      "num": 188970,
+      "word": "第一次感受到智性恋的魅力",
+      "onboard_time": 1763109680,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 414084,
@@ -427,6 +459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 288899,
+      "num": 177229,
+      "word": "肖战卷毛男大",
+      "onboard_time": 1763114781,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286489,
       "num": 166939,
       "word": "蹭衣拍照 退货",
@@ -513,6 +553,14 @@
       "onboard_time": 1763106200,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 263674,
+      "num": 172973,
+      "word": "若若手机界面",
+      "onboard_time": 1763115261,
+      "rank": 23,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 262157,
@@ -659,11 +707,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212238,
+      "num": 172294,
+      "word": "桥本可以考公了",
+      "onboard_time": 1763114841,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211089,
       "num": 207197,
       "word": "赵樱子说于正真说过",
       "onboard_time": 1763096180,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208457,
+      "num": 208457,
+      "word": "时代峰峻旗下公司经营异常",
+      "onboard_time": 1763112861,
+      "rank": 6,
       "category": "艺人"
     },
     {
@@ -795,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171402,
+      "num": 159636,
+      "word": "新闻联播三分钟警告高市早苗",
+      "onboard_time": 1763115741,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171297,
       "num": 136707,
       "word": "艾玛沃特森35岁状态",
@@ -817,6 +889,14 @@
       "onboard_time": 1763036661,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 168647,
+      "num": 168647,
+      "word": "大湾鸡被拎走",
+      "onboard_time": 1763110880,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 167704,
@@ -875,6 +955,14 @@
       "category": "幽默,剧集"
     },
     {
+      "raw_hot": 161055,
+      "num": 161055,
+      "word": "老外在中国待久了以后",
+      "onboard_time": 1763114902,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 160825,
       "num": 127116,
       "word": "王一博刷粉丝发的赛车视频",
@@ -931,6 +1019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156394,
+      "num": 156394,
+      "word": "冷美人1分钟视频报价50元",
+      "onboard_time": 1763113101,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156310,
       "num": 156310,
       "word": "华为MateX7外观曝光",
@@ -945,14 +1041,6 @@
       "onboard_time": 1763053517,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 153598,
-      "num": 153598,
-      "word": "第一次感受到智性恋的魅力",
-      "onboard_time": 1763109680,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 152486,
@@ -995,6 +1083,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145347,
+      "num": 206972,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763115561,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144056,
       "num": 154811,
       "word": "国产剧有了60岁的豹豹猫猫",
@@ -1017,14 +1113,6 @@
       "onboard_time": 1763101041,
       "rank": 41,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 143228,
-      "num": 175671,
-      "word": "时代峰峻旗下公司经营异常",
-      "onboard_time": 1763112861,
-      "rank": 6,
-      "category": "艺人"
     },
     {
       "raw_hot": 142415,
@@ -1099,6 +1187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 136871,
+      "num": 205459,
+      "word": "水龙吟",
+      "onboard_time": 1763115141,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136725,
       "num": 143202,
       "word": "鬼灭之刃",
@@ -1171,6 +1267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126399,
+      "num": 126399,
+      "word": "FPX.ZQ对战Gr",
+      "onboard_time": 1763115080,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125239,
       "num": 125239,
       "word": "紫藤花雨的花语是晚安小忍",
@@ -1187,12 +1291,36 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 124507,
+      "num": 124507,
+      "word": "马龙黄友政vs牛冠凯夏易正",
+      "onboard_time": 1763115141,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123457,
       "num": 123457,
       "word": "海军四川舰开展首次航行试验",
       "onboard_time": 1763083579,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122612,
+      "num": 160604,
+      "word": "王源郑州跨年演唱会过审",
+      "onboard_time": 1763114000,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 122186,
+      "num": 170190,
+      "word": "场外的郑钦文原来是这样的",
+      "onboard_time": 1763115501,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 121478,
@@ -1209,6 +1337,30 @@
       "onboard_time": 1763091860,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 119423,
+      "num": 202122,
+      "word": "陈冬说感谢伟大祖国我们回来了",
+      "onboard_time": 1763115200,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 118514,
+      "num": 186830,
+      "word": "周深说对得起每一首歌",
+      "onboard_time": 1763115141,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118322,
+      "num": 192476,
+      "word": "JackeyLove和花海合影",
+      "onboard_time": 1763115922,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 118215,
@@ -1291,20 +1443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114760,
-      "num": 90192,
-      "word": "冷美人1分钟视频报价50元",
-      "onboard_time": 1763113101,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
       "onboard_time": 1763041523,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113640,
+      "num": 181987,
+      "word": "母亲称怀孕女儿被骗柬埔寨遭囚禁",
+      "onboard_time": 1763115141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113174,
@@ -1331,12 +1483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112574,
-      "num": 112574,
-      "word": "九阳豆浆回应被指玩虐猫梗",
-      "onboard_time": 1763111542,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 112519,
+      "num": 112519,
+      "word": "颜值焦虑大多从头开始",
+      "onboard_time": 1763115980,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 112265,
@@ -1395,12 +1547,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110168,
+      "num": 110168,
+      "word": "胡先煦冲上台的救赎感",
+      "onboard_time": 1763115080,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110019,
       "num": 110019,
       "word": "洗衣店老板说羽绒服别买军绿色卡其色",
       "onboard_time": 1763097020,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109677,
+      "num": 109677,
+      "word": "鬼灭之刃制作组的厨力有多强",
+      "onboard_time": 1763116042,
+      "rank": 45,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 109348,
@@ -1433,14 +1601,6 @@
       "onboard_time": 1763109081,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107716,
-      "num": 90089,
-      "word": "大湾鸡被拎走",
-      "onboard_time": 1763110880,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 105643,
@@ -1521,6 +1681,14 @@
       "onboard_time": 1763088980,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 102546,
+      "num": 102546,
+      "word": "金饰价格结束三连涨",
+      "onboard_time": 1763115501,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 101033,
@@ -1707,6 +1875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94295,
+      "num": 100515,
+      "word": "女子退手机壳白嫖千元羽绒服",
+      "onboard_time": 1763114480,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94212,
       "num": 94212,
       "word": "李施嬅新剧这段以为在看TVB新闻",
@@ -1865,6 +2041,14 @@
       "onboard_time": 1763088800,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87115,
+      "num": 123201,
+      "word": "刘宇宁心生一计",
+      "onboard_time": 1763115741,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 87076,
@@ -2227,6 +2411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74409,
+      "num": 103594,
+      "word": "张维伊戴耳机的原因找到了",
+      "onboard_time": 1763114540,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74155,
       "num": 74155,
       "word": "芦田爱菜为拓宽形象改变妆容",
@@ -2499,6 +2691,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 48997,
+      "num": 112905,
+      "word": "检方建议杀害一家五口的邻居死刑",
+      "onboard_time": 1763113941,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48209,
       "num": 60029,
       "word": "俄动物园十余只负鼠遭惊吓齐装死",
@@ -2611,6 +2811,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39473,
+      "num": 182743,
+      "word": "华为影像XMAGE重返巴黎大皇宫",
+      "onboard_time": 1763115561,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 37265,
       "num": 133426,
       "word": "唐诡这集怎么拿了花少剧本",
@@ -2625,14 +2833,6 @@
       "onboard_time": 1763051958,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35850,
-      "num": 151876,
-      "word": "92岁母亲被儿打后想用500元保子",
-      "onboard_time": 1763112741,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34759,
@@ -2689,6 +2889,22 @@
       "onboard_time": 1763061254,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31925,
+      "num": 123790,
+      "word": "提倡零彩礼1年后于东来晒成绩单",
+      "onboard_time": 1763116161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31679,
+      "num": 120805,
+      "word": "学校发放过期28天蛋糕",
+      "onboard_time": 1763115680,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31557,
@@ -2761,6 +2977,14 @@
       "onboard_time": 1763044583,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21094,
+      "num": 119546,
+      "word": "唐钱婷想继续灿烂微笑",
+      "onboard_time": 1763114480,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 20134,
