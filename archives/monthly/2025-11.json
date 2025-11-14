@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763102360015,
+  "endTime": 1763103134929,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -179,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2159884,
+      "num": 2159884,
+      "word": "冷美人退赛",
+      "onboard_time": 1763099242,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2146340,
       "num": 229636,
       "word": "南宁二中星轨",
@@ -193,14 +201,6 @@
       "onboard_time": 1762000102,
       "rank": 30,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 2039664,
-      "num": 2039664,
-      "word": "冷美人退赛",
-      "onboard_time": 1763099242,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 2000373,
@@ -4035,6 +4035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 507418,
+      "num": 507418,
+      "word": "上海绿捷8人被逮捕",
+      "onboard_time": 1763101400,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 507369,
       "num": 210497,
       "word": "发完分手宣言的人结婚了",
@@ -5187,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431857,
+      "num": 180043,
+      "word": "k总老婆因经常喝热水食道被灼伤",
+      "onboard_time": 1763098760,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 431700,
       "num": 431700,
       "word": "潘展乐全运会400自第五",
@@ -6051,6 +6067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 383494,
+      "num": 344525,
+      "word": "一家5口遇害案男子抱3岁儿子火化",
+      "onboard_time": 1763098582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 383454,
       "num": 205791,
       "word": "朱珠英语主持",
@@ -6323,14 +6347,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 372185,
-      "num": 169416,
-      "word": "k总老婆因经常喝热水食道被灼伤",
-      "onboard_time": 1763098760,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 371856,
       "num": 349894,
       "word": "朱孝天方回应F4变F3",
@@ -6353,6 +6369,14 @@
       "onboard_time": 1762870583,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 370928,
+      "num": 277849,
+      "word": "21岁大学生帮人跨省取快递获刑无期",
+      "onboard_time": 1763099422,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370876,
@@ -6977,14 +7001,6 @@
       "onboard_time": 1763000538,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 344525,
-      "num": 344525,
-      "word": "一家5口遇害案男子抱3岁儿子火化",
-      "onboard_time": 1763098582,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 343422,
@@ -8081,14 +8097,6 @@
       "onboard_time": 1761961159,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 302483,
-      "num": 277849,
-      "word": "21岁大学生帮人跨省取快递获刑无期",
-      "onboard_time": 1763099422,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 302476,
@@ -12963,6 +12971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 194902,
+      "num": 194902,
+      "word": "易烊千玺康熙海报",
+      "onboard_time": 1763102361,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194898,
       "num": 233105,
       "word": "王鹤棣资源好牛",
@@ -13771,6 +13787,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187614,
+      "num": 248072,
+      "word": "上海对校园餐问题零容忍",
+      "onboard_time": 1763102661,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 187499,
       "num": 280400,
       "word": "五星红旗在粤港澳同时升起",
@@ -14209,6 +14233,14 @@
       "onboard_time": 1762686199,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183717,
+      "num": 183717,
+      "word": "场馆回应阿珍被电动座椅挤压去世",
+      "onboard_time": 1763100681,
+      "rank": 24,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 183610,
@@ -15427,6 +15459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 170710,
+      "num": 170710,
+      "word": "张凌赫把偶遇都拍成了情侣照",
+      "onboard_time": 1763099300,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170477,
       "num": 125716,
       "word": "王源25岁的舞台",
@@ -15569,14 +15609,6 @@
       "onboard_time": 1762345581,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168433,
-      "num": 168433,
-      "word": "张凌赫把偶遇都拍成了情侣照",
-      "onboard_time": 1763099300,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 168315,
@@ -17667,14 +17699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153180,
-      "num": 153180,
-      "word": "场馆回应阿珍被电动座椅挤压去世",
-      "onboard_time": 1763100681,
-      "rank": 24,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 153125,
       "num": 153125,
       "word": "柯淳误伤邵子恒眼睛好自责",
@@ -17897,6 +17921,14 @@
       "onboard_time": 1762602681,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 152007,
+      "num": 152007,
+      "word": "鬼灭之刃无限城篇零点场口碑",
+      "onboard_time": 1763101821,
+      "rank": 26,
+      "category": "动漫"
     },
     {
       "raw_hot": 151879,
@@ -19051,6 +19083,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 144056,
+      "num": 154811,
+      "word": "国产剧有了60岁的豹豹猫猫",
+      "onboard_time": 1763102841,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144008,
       "num": 144008,
       "word": "新人结婚当天在婚车上睡着了",
@@ -19153,6 +19193,14 @@
       "onboard_time": 1763079260,
       "rank": 16,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 143447,
+      "num": 143447,
+      "word": "韩国高考",
+      "onboard_time": 1763101041,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 143394,
@@ -19425,6 +19473,14 @@
       "onboard_time": 1762618280,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 141348,
+      "num": 152878,
+      "word": "吴昕 十字诛心",
+      "onboard_time": 1763101821,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 141151,
@@ -19833,14 +19889,6 @@
       "onboard_time": 1762141882,
       "rank": 32,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139123,
-      "num": 169572,
-      "word": "上海绿捷8人被逮捕",
-      "onboard_time": 1763101400,
-      "rank": 19,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 139104,
@@ -21945,14 +21993,6 @@
       "onboard_time": 1763015362,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 128867,
-      "num": 128867,
-      "word": "鬼灭之刃无限城篇零点场口碑",
-      "onboard_time": 1763101821,
-      "rank": 26,
-      "category": "动漫"
     },
     {
       "raw_hot": 128865,
@@ -25395,6 +25435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 115423,
+      "num": 115423,
+      "word": "长期吃沥米饭可能造成营养素缺乏",
+      "onboard_time": 1763097680,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115350,
       "num": 115350,
       "word": "张展硕回应200自夺冠",
@@ -26227,6 +26275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 112265,
+      "num": 112265,
+      "word": "无畏揭晓一下昨天彩蛋",
+      "onboard_time": 1763102181,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 112232,
       "num": 112232,
       "word": "孙颖莎本赛季胜率百分之94",
@@ -26523,14 +26579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111191,
-      "num": 111191,
-      "word": "长期吃沥米饭可能造成营养素缺乏",
-      "onboard_time": 1763097680,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 111121,
       "num": 111121,
       "word": "张凌赫沈阳",
@@ -26617,6 +26665,14 @@
       "onboard_time": 1762002441,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110899,
+      "num": 110899,
+      "word": "一诺邵子恒重拳出击",
+      "onboard_time": 1763102902,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 110867,
@@ -29851,6 +29907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101008,
+      "num": 101008,
+      "word": "鸡冠洞大爷说景区奖了2000亿",
+      "onboard_time": 1763102541,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101003,
       "num": 101003,
       "word": "梁洁看得出她是公主",
@@ -30419,6 +30483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99597,
+      "num": 99597,
+      "word": "胡先煦黄景瑜不愧都是演过林臻东的",
+      "onboard_time": 1763102721,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99587,
       "num": 99587,
       "word": "原来素颜也能当主播",
@@ -30729,6 +30801,14 @@
       "onboard_time": 1761954438,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98756,
+      "num": 98756,
+      "word": "宁静自曝曾有30套戏服被分给别人",
+      "onboard_time": 1763099960,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 98718,
@@ -31691,14 +31771,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96688,
-      "num": 96688,
-      "word": "吴昕 十字诛心",
-      "onboard_time": 1763101821,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96632,
       "num": 99857,
       "word": "墨西哥一火山口惊现UFO",
@@ -32153,14 +32225,6 @@
       "onboard_time": 1762406001,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95301,
-      "num": 95301,
-      "word": "无畏揭晓一下昨天彩蛋",
-      "onboard_time": 1763102181,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 95191,
@@ -32873,14 +32937,6 @@
       "onboard_time": 1762661960,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93434,
-      "num": 95467,
-      "word": "韩国高考",
-      "onboard_time": 1763101041,
-      "rank": 41,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 93414,
@@ -33601,14 +33657,6 @@
       "onboard_time": 1762225760,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 91612,
-      "num": 95789,
-      "word": "宁静自曝曾有30套戏服被分给别人",
-      "onboard_time": 1763099960,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 91549,
@@ -34579,6 +34627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89402,
+      "num": 96908,
+      "word": "Faker两冠贷六冠",
+      "onboard_time": 1763100921,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 89340,
       "num": 89340,
       "word": "国际乒联郑重声明",
@@ -34945,6 +35001,14 @@
       "onboard_time": 1762316121,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88520,
+      "num": 88520,
+      "word": "刘嘉玲帮邵子恒成功追星梁朝伟",
+      "onboard_time": 1763102961,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 88519,
@@ -35907,14 +35971,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86357,
-      "num": 96908,
-      "word": "Faker两冠贷六冠",
-      "onboard_time": 1763100921,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 86356,
       "num": 86356,
       "word": "如果发朋友圈还要在乎别人的感受",
@@ -36649,6 +36705,14 @@
       "onboard_time": 1762098500,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84341,
+      "num": 84341,
+      "word": "唐诡最新一案诡味升级",
+      "onboard_time": 1763102421,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 84321,
@@ -38652,7 +38716,7 @@
     },
     {
       "raw_hot": 77879,
-      "num": 96126,
+      "num": 102079,
       "word": "这一球给场下的樊振东看呆了",
       "onboard_time": 1763102121,
       "rank": 39,
@@ -39897,6 +39961,14 @@
       "onboard_time": 1762911320,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73319,
+      "num": 168982,
+      "word": "一个农村女儿艰难的房产官司",
+      "onboard_time": 1763101041,
+      "rank": 21,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 73297,
@@ -43739,14 +43811,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50987,
-      "num": 168982,
-      "word": "一个农村女儿艰难的房产官司",
-      "onboard_time": 1763101041,
-      "rank": 21,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 50955,
       "num": 212057,
       "word": "红旗为孙颖莎许下生日祝福",
@@ -43953,6 +44017,14 @@
       "onboard_time": 1762731319,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49624,
+      "num": 96627,
+      "word": "国产自杀式无人机只卖1万美元",
+      "onboard_time": 1763101640,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 49484,
@@ -45065,14 +45137,6 @@
       "onboard_time": 1763017221,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42878,
-      "num": 96627,
-      "word": "国产自杀式无人机只卖1万美元",
-      "onboard_time": 1763101640,
-      "rank": 38,
-      "category": "军事"
     },
     {
       "raw_hot": 42785,

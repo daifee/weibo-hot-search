@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 14:39:20
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 14:52:14
 </p>
 </blockquote>
 <p>
@@ -147,6 +147,12 @@ KT战胜GEN（热度：2334332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E9%80%80%E8%B5%9B%23" target="weibo">
+冷美人退赛（热度：2159884）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%BA%8C%E4%B8%AD%E6%98%9F%E8%BD%A8%23" target="weibo">
 南宁二中星轨（热度：2146340）
 </a>
@@ -155,12 +161,6 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%20%E4%BB%8E%E6%AD%A4%E5%9C%A8%E8%80%81%E5%A9%86%E9%9D%A2%E5%89%8D%E6%B2%A1%E6%9C%89%E4%BA%86%E8%87%AA%E4%BF%A1%23" target="weibo">
 刘强东 从此在老婆面前没有了自信（热度：2062571）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E9%80%80%E8%B5%9B%23" target="weibo">
-冷美人退赛（热度：2039664）
 </a>
 </li>
 
@@ -3039,6 +3039,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E7%BB%BF%E6%8D%B78%E4%BA%BA%E8%A2%AB%E9%80%AE%E6%8D%95%23" target="weibo">
+上海绿捷8人被逮捕（热度：507418）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%AE%8C%E5%88%86%E6%89%8B%E5%AE%A3%E8%A8%80%E7%9A%84%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
 发完分手宣言的人结婚了（热度：507369）
 </a>
@@ -3903,6 +3909,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23k%E6%80%BB%E8%80%81%E5%A9%86%E5%9B%A0%E7%BB%8F%E5%B8%B8%E5%96%9D%E7%83%AD%E6%B0%B4%E9%A3%9F%E9%81%93%E8%A2%AB%E7%81%BC%E4%BC%A4%23" target="weibo">
+k总老婆因经常喝热水食道被灼伤（热度：431857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E5%85%A8%E8%BF%90%E4%BC%9A400%E8%87%AA%E7%AC%AC%E4%BA%94%23" target="weibo">
 潘展乐全运会400自第五（热度：431700）
 </a>
@@ -4551,6 +4563,12 @@ ally因整容擤不出鼻涕（热度：402082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E7%94%B7%E5%AD%90%E6%8A%B13%E5%B2%81%E5%84%BF%E5%AD%90%E7%81%AB%E5%8C%96%23" target="weibo">
+一家5口遇害案男子抱3岁儿子火化（热度：383494）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E8%8B%B1%E8%AF%AD%E4%B8%BB%E6%8C%81%23" target="weibo">
 朱珠英语主持（热度：383454）
 </a>
@@ -4755,12 +4773,6 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23k%E6%80%BB%E8%80%81%E5%A9%86%E5%9B%A0%E7%BB%8F%E5%B8%B8%E5%96%9D%E7%83%AD%E6%B0%B4%E9%A3%9F%E9%81%93%E8%A2%AB%E7%81%BC%E4%BC%A4%23" target="weibo">
-k总老婆因经常喝热水食道被灼伤（热度：372185）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E6%96%B9%E5%9B%9E%E5%BA%94F4%E5%8F%98F3%23" target="weibo">
 朱孝天方回应F4变F3（热度：371856）
 </a>
@@ -4775,6 +4787,12 @@ k总老婆因经常喝热水食道被灼伤（热度：372185）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%99%E5%8D%8E%E4%BD%A0%E7%9F%A5%E9%81%93%E4%BD%A0%E8%BF%99%E5%8F%A5%E8%AF%9D%E6%95%91%E4%BA%86%E5%A4%9A%E5%B0%91%E4%BA%BA%E5%90%97%23" target="weibo">
 余华你知道你这句话救了多少人吗（热度：371055）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%B8%AE%E4%BA%BA%E8%B7%A8%E7%9C%81%E5%8F%96%E5%BF%AB%E9%80%92%E8%8E%B7%E5%88%91%E6%97%A0%E6%9C%9F%23" target="weibo">
+21岁大学生帮人跨省取快递获刑无期（热度：370928）
 </a>
 </li>
 
@@ -5243,12 +5261,6 @@ iPhone18Pro系列前瞻（热度：345250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AFvs%E8%A2%81%E5%8A%B1%E5%B2%91%E7%8E%8B%E8%89%BA%E8%BF%AA%23" target="weibo">
 林高远刘诗雯vs袁励岑王艺迪（热度：344586）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E7%94%B7%E5%AD%90%E6%8A%B13%E5%B2%81%E5%84%BF%E5%AD%90%E7%81%AB%E5%8C%96%23" target="weibo">
-一家5口遇害案男子抱3岁儿子火化（热度：344525）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ TES不敌T1后发文（热度：310623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9A%84%E5%87%8F%E8%82%A5%E8%AE%A1%E5%88%92%E7%B2%BE%E7%A1%AE%E5%88%B0%E5%85%8B%23" target="weibo">
 全红婵的减肥计划精确到克（热度：305376）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%A6%81%E7%95%99%E5%A4%AA%E9%95%BF%E7%9A%84%E5%A4%B4%E5%8F%91%23" target="weibo">
-建议气血不足的人不要留太长的头发（热度：304882）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E9%95%BF%E8%BE%88%E9%83%BD%E5%96%9C%E6%AC%A2%E5%A4%A7%E6%96%B9%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
-怪不得长辈都喜欢大方的孩子（热度：304788）
 </a>
 </li>
 
