@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763120308037,
+  "endTime": 1763124810306,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1585,6 +1585,14 @@
       "onboard_time": 1762749802,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 822699,
+      "num": 291099,
+      "word": "易烊千玺段奥娟同桌",
+      "onboard_time": 1763122459,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 820934,
@@ -3283,6 +3291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 573406,
+      "num": 177570,
+      "word": "站姐把王宝强拍成王一博了",
+      "onboard_time": 1763118261,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 572934,
       "num": 572934,
       "word": "全运会主火炬点燃",
@@ -3817,14 +3833,6 @@
       "onboard_time": 1762065319,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 534583,
-      "num": 177570,
-      "word": "站姐把王宝强拍成王一博了",
-      "onboard_time": 1763118261,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 534346,
@@ -4377,6 +4385,14 @@
       "onboard_time": 1762773501,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 492528,
+      "num": 166042,
+      "word": "于正说整个行业都在看笑话",
+      "onboard_time": 1763121382,
+      "rank": 11,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 491678,
@@ -7291,6 +7307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 336167,
+      "num": 336167,
+      "word": "潘展乐100自冠军",
+      "onboard_time": 1763120963,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 336019,
       "num": 468811,
       "word": "春节调休凑9天是福利还是负担",
@@ -9163,6 +9187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 278117,
+      "num": 278117,
+      "word": "36岁快男中国唱将逆袭成功",
+      "onboard_time": 1763119641,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277726,
       "num": 277726,
       "word": "Faker说Uzi是LPL最佳选手",
@@ -9521,6 +9553,14 @@
       "onboard_time": 1761993800,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267141,
+      "num": 152774,
+      "word": "彭小苒内娱赚钱内娱花",
+      "onboard_time": 1763124022,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 266967,
@@ -11587,6 +11627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215815,
+      "num": 215815,
+      "word": "范闲爹妈变政敌",
+      "onboard_time": 1763121022,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 215670,
       "num": 215670,
       "word": "白鹿说我不是第一次一年播三部剧",
@@ -11961,6 +12009,14 @@
       "onboard_time": 1762956323,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 210732,
+      "num": 165048,
+      "word": "彭昱畅都想去时代峰峻了",
+      "onboard_time": 1763122342,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 210561,
@@ -13409,6 +13465,14 @@
       "onboard_time": 1762213400,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 192860,
+      "num": 152132,
+      "word": "教师讲日军罪行被中日混血家长举报",
+      "onboard_time": 1763121622,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192815,
@@ -15731,6 +15795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170544,
+      "num": 170544,
+      "word": "汪顺全运会第18金",
+      "onboard_time": 1763120182,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 170477,
       "num": 125716,
       "word": "王源25岁的舞台",
@@ -17235,6 +17307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158620,
+      "num": 158620,
+      "word": "惠英红 我很贪婪我不会放弃",
+      "onboard_time": 1763114242,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158617,
       "num": 158617,
       "word": "赵晴发了新剧开机照",
@@ -17827,6 +17907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 155039,
+      "num": 155039,
+      "word": "裴喜君 富婆",
+      "onboard_time": 1763123242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155030,
       "num": 287962,
       "word": "钎城纯白流光造型",
@@ -17913,14 +18001,6 @@
       "onboard_time": 1762689441,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154499,
-      "num": 154499,
-      "word": "36岁快男中国唱将逆袭成功",
-      "onboard_time": 1763119641,
-      "rank": 8,
-      "category": "综艺"
     },
     {
       "raw_hot": 154442,
@@ -18299,6 +18379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151840,
+      "num": 151840,
+      "word": "宋亚轩想抱穆祉丞拦都拦不住",
+      "onboard_time": 1763124441,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 151814,
       "num": 151814,
       "word": "王者荣耀能不能加个英雄叫甄嬛",
@@ -18465,6 +18553,14 @@
       "onboard_time": 1762337962,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150319,
+      "num": 142237,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763123960,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 150266,
@@ -19169,6 +19265,14 @@
       "onboard_time": 1762773141,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145516,
+      "num": 145516,
+      "word": "易烊千玺说继续用作品说话",
+      "onboard_time": 1763121081,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 145459,
@@ -20459,6 +20563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 138391,
+      "num": 138391,
+      "word": "家长视频复活27岁女儿后再添新丁",
+      "onboard_time": 1763124681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138373,
       "num": 138373,
       "word": "咖啡店员小票写满红字回怼顾客要求",
@@ -20563,6 +20675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137843,
+      "num": 133781,
+      "word": "朱婷球权",
+      "onboard_time": 1763123841,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137773,
       "num": 144127,
       "word": "电视剧顶流演员还得是90后",
@@ -20601,6 +20721,14 @@
       "onboard_time": 1762501101,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137631,
+      "num": 137631,
+      "word": "潘展乐48秒01",
+      "onboard_time": 1763122522,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 137594,
@@ -21163,6 +21291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 134808,
+      "num": 169078,
+      "word": "河南女排vs江苏女排",
+      "onboard_time": 1763123303,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134749,
       "num": 134749,
       "word": "逐梦十五运活力粤港澳",
@@ -21177,6 +21313,14 @@
       "onboard_time": 1762841302,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 134695,
+      "num": 134695,
+      "word": "张雨霏200蝶季军",
+      "onboard_time": 1763123362,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 134676,
@@ -21267,6 +21411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134375,
+      "num": 134375,
+      "word": "凤凰台上开播",
+      "onboard_time": 1763120301,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134361,
       "num": 134361,
       "word": "林允珍珠围脖",
@@ -21321,6 +21473,14 @@
       "onboard_time": 1763025021,
       "rank": 8,
       "category": "电竞,体育"
+    },
+    {
+      "raw_hot": 133945,
+      "num": 133945,
+      "word": "成毅说观众的建议指引我做得更好",
+      "onboard_time": 1763121501,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133944,
@@ -21392,6 +21552,14 @@
       "word": "日本地下偶像因饮料上人的倒影退团",
       "onboard_time": 1762335801,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133602,
+      "num": 133602,
+      "word": "王俊凯和沈腾撞衫",
+      "onboard_time": 1763123960,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -21625,6 +21793,14 @@
       "onboard_time": 1762573161,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132611,
+      "num": 132611,
+      "word": "马龙王楚钦带领北京队开门红",
+      "onboard_time": 1763123542,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 132534,
@@ -22003,14 +22179,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 130862,
-      "num": 130862,
-      "word": "汪顺全运会第18金",
-      "onboard_time": 1763120182,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 130634,
       "num": 127849,
       "word": "GAI的嘉宾是王鹤棣",
@@ -22089,6 +22257,14 @@
       "onboard_time": 1762614621,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130190,
+      "num": 130190,
+      "word": "固体杨枝甘露在韩推上引起讨论",
+      "onboard_time": 1763123781,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 130155,
@@ -24715,6 +24891,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 119573,
+      "num": 119573,
+      "word": "白鹿怼脸自拍",
+      "onboard_time": 1763122941,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119538,
       "num": 171318,
       "word": "后台T1教练组有人已在吸氧",
@@ -26707,6 +26891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112510,
+      "num": 112510,
+      "word": "2025金鸡奖提名者表彰仪式",
+      "onboard_time": 1763106260,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112491,
       "num": 112491,
       "word": "窦骁戴婚戒参加活动",
@@ -28145,6 +28337,14 @@
       "onboard_time": 1762767441,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107793,
+      "num": 107793,
+      "word": "彭小苒好美",
+      "onboard_time": 1763123482,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 107759,
@@ -31867,6 +32067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97868,
+      "num": 97868,
+      "word": "孙颖莎一眨眼赢了",
+      "onboard_time": 1763124022,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97857,
       "num": 232789,
       "word": "李峋和朱韵三周年了",
@@ -33171,14 +33379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94654,
-      "num": 93680,
-      "word": "惠英红 我很贪婪我不会放弃",
-      "onboard_time": 1763114242,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 94626,
       "num": 94626,
       "word": "德国驻华大使馆回应德国正统在太仓",
@@ -34025,6 +34225,14 @@
       "onboard_time": 1762135400,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92730,
+      "num": 92730,
+      "word": "黄友政3比1夏易正",
+      "onboard_time": 1763124622,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 92716,
@@ -35475,6 +35683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89365,
+      "num": 89365,
+      "word": "孙颖莎vs魏闻声",
+      "onboard_time": 1763124562,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89340,
       "num": 89340,
       "word": "国际乒联郑重声明",
@@ -35649,6 +35865,14 @@
       "onboard_time": 1763118201,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88870,
+      "num": 88870,
+      "word": "凤凰台上 强制爱",
+      "onboard_time": 1763124622,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 88869,
@@ -36667,6 +36891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 86634,
+      "num": 86634,
+      "word": "唐诡喜君不语只是一味出钱",
+      "onboard_time": 1763124622,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86632,
       "num": 142442,
       "word": "国防部正告赖清德之流",
@@ -37361,14 +37593,6 @@
       "onboard_time": 1762049660,
       "rank": 34,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 84958,
-      "num": 106348,
-      "word": "2025金鸡奖提名者表彰仪式",
-      "onboard_time": 1763106260,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 84956,
@@ -42915,6 +43139,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 64456,
+      "num": 122114,
+      "word": "德州坠河男女系离异夫妻育有幼子",
+      "onboard_time": 1763124022,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64388,
       "num": 64388,
       "word": "建议注销手机号前多做这一步",
@@ -46227,6 +46459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43061,
+      "num": 154755,
+      "word": "荣耀Magic8新型饭搭子",
+      "onboard_time": 1763121921,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 43060,
       "num": 99221,
       "word": "女子70元卖7盒精神药品被判贩毒",
@@ -46929,6 +47169,14 @@
       "onboard_time": 1762088422,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37991,
+      "num": 158932,
+      "word": "华为手机拍到的非遗在巴黎上大分",
+      "onboard_time": 1763120362,
+      "rank": 16,
+      "category": "数码"
     },
     {
       "raw_hot": 37941,
@@ -48819,6 +49067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25179,
+      "num": 133633,
+      "word": "洋品牌卖给中资之后怎样了",
+      "onboard_time": 1763122821,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25069,
       "num": 98911,
       "word": "迎咀水库两年前也有人放生猫",
@@ -49529,6 +49785,14 @@
       "onboard_time": 1762871900,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19287,
+      "num": 120255,
+      "word": "陈赫叫张子萱老张的原因",
+      "onboard_time": 1763124622,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 19094,
