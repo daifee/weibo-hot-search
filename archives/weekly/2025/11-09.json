@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763098021251,
+  "endTime": 1763098991448,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1076,7 +1076,7 @@
     },
     {
       "raw_hot": 625546,
-      "num": 189188,
+      "num": 214755,
       "word": "以为是爷孙结果是夫妻",
       "onboard_time": 1763095701,
       "rank": 12,
@@ -1164,7 +1164,7 @@
     },
     {
       "raw_hot": 605215,
-      "num": 187461,
+      "num": 214720,
       "word": "猫 不管脚多脏都有脸上床",
       "onboard_time": 1763094380,
       "rank": 43,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1762933100,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 526082,
+      "num": 526082,
+      "word": "何赛飞因行李箱被踹坏爆哭",
+      "onboard_time": 1763097560,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 525293,
@@ -2867,6 +2875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353288,
+      "num": 211158,
+      "word": "百万网红妈妈舍不得接200块的睫毛",
+      "onboard_time": 1763094322,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 349527,
       "num": 349527,
       "word": "库里职业生涯首次恶意犯规",
@@ -2905,6 +2921,14 @@
       "onboard_time": 1763041523,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 345561,
+      "num": 345561,
+      "word": "超六成糖尿病前期患者自己没感觉",
+      "onboard_time": 1763096241,
+      "rank": 16,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 344947,
@@ -3075,14 +3099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 331770,
-      "num": 182847,
-      "word": "百万网红妈妈舍不得接200块的睫毛",
-      "onboard_time": 1763094322,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 331052,
       "num": 154604,
       "word": "61岁关咏荷状态",
@@ -3137,6 +3153,14 @@
       "onboard_time": 1763091441,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 326215,
+      "num": 209576,
+      "word": "葛夕瘦了20多斤",
+      "onboard_time": 1763097740,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 325858,
@@ -3276,7 +3300,7 @@
     },
     {
       "raw_hot": 318624,
-      "num": 184833,
+      "num": 207462,
       "word": "曾舜晞内娱赚钱内娱花",
       "onboard_time": 1763094322,
       "rank": 35,
@@ -3955,14 +3979,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 276470,
-      "num": 182501,
-      "word": "超六成糖尿病前期患者自己没感觉",
-      "onboard_time": 1763096241,
-      "rank": 16,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 275944,
       "num": 275944,
       "word": "麻六记一门店被集体投诉",
@@ -4465,6 +4481,14 @@
       "onboard_time": 1762744459,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242862,
+      "num": 242862,
+      "word": "JackeyLove说LPL终将战胜Faker",
+      "onboard_time": 1763096601,
+      "rank": 18,
+      "category": "电竞"
     },
     {
       "raw_hot": 242563,
@@ -5059,6 +5083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214607,
+      "num": 214607,
+      "word": "张家妍离职",
+      "onboard_time": 1763097500,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 214414,
       "num": 171304,
       "word": "气虚vs血虚vs气血两虚",
@@ -5132,7 +5164,7 @@
     },
     {
       "raw_hot": 211089,
-      "num": 161116,
+      "num": 207197,
       "word": "赵樱子说于正真说过",
       "onboard_time": 1763096180,
       "rank": 25,
@@ -5499,6 +5531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200002,
+      "num": 200002,
+      "word": "三亚回应潜水员水下关女潜友气瓶",
+      "onboard_time": 1763097020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199492,
       "num": 199492,
       "word": "Gumayusi说我是世上最好的ADC",
@@ -5553,14 +5593,6 @@
       "onboard_time": 1762780761,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 198543,
-      "num": 179229,
-      "word": "JackeyLove说LPL终将战胜Faker",
-      "onboard_time": 1763096601,
-      "rank": 18,
-      "category": "电竞"
     },
     {
       "raw_hot": 198165,
@@ -6203,6 +6235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 183610,
+      "num": 214833,
+      "word": "难哄动画广播剧原班人马回归",
+      "onboard_time": 1763098461,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 183513,
       "num": 151480,
       "word": "王嘉尔被错认成日本人的反应",
@@ -6385,14 +6425,6 @@
       "onboard_time": 1762916600,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177423,
-      "num": 177423,
-      "word": "何赛飞因行李箱被踹坏爆哭",
-      "onboard_time": 1763097560,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 177335,
@@ -6691,14 +6723,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 169903,
-      "num": 159963,
-      "word": "三亚回应潜水员水下关女潜友气瓶",
-      "onboard_time": 1763097020,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 169886,
       "num": 169886,
       "word": "锤娜丽莎李川牵手走红毯",
@@ -6777,14 +6801,6 @@
       "onboard_time": 1763012600,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166624,
-      "num": 166624,
-      "word": "张家妍离职",
-      "onboard_time": 1763097500,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 166555,
@@ -8225,14 +8241,6 @@
       "onboard_time": 1763078181,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 142260,
-      "num": 142260,
-      "word": "葛夕瘦了20多斤",
-      "onboard_time": 1763097740,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 142096,
@@ -9987,6 +9995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121478,
+      "num": 121478,
+      "word": "狂野时代预售",
+      "onboard_time": 1763098340,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121445,
       "num": 121445,
       "word": "原来南方小土豆不是矮的意思",
@@ -10033,6 +10049,14 @@
       "onboard_time": 1763001379,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121114,
+      "num": 121114,
+      "word": "k总老婆因经常喝热水食道被灼伤",
+      "onboard_time": 1763098760,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 121107,
@@ -11091,6 +11115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111191,
+      "num": 111191,
+      "word": "长期吃沥米饭可能造成营养素缺乏",
+      "onboard_time": 1763097680,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 111121,
       "num": 111121,
       "word": "张凌赫沈阳",
@@ -12051,14 +12083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103442,
-      "num": 101120,
-      "word": "长期吃沥米饭可能造成营养素缺乏",
-      "onboard_time": 1763097680,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 103394,
       "num": 103394,
       "word": "杨天真瘦到撞脸杨笠",
@@ -12161,6 +12185,14 @@
       "onboard_time": 1763094801,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103071,
+      "num": 121255,
+      "word": "冷不丁梆梆就两拳",
+      "onboard_time": 1763098280,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 103011,
@@ -12667,6 +12699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100061,
+      "num": 100061,
+      "word": "樊振东眼睛都笑小了",
+      "onboard_time": 1763097861,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 100034,
       "num": 121738,
       "word": "韩国群山近海一中国渔船倾覆",
@@ -12897,6 +12937,14 @@
       "onboard_time": 1762750703,
       "rank": 43,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 98097,
+      "num": 89411,
+      "word": "鹿晗唱baby怎么没通知我",
+      "onboard_time": 1763098760,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 98005,
@@ -13363,14 +13411,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 95243,
-      "num": 95243,
-      "word": "樊振东眼睛都笑小了",
-      "onboard_time": 1763097861,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95169,
       "num": 95169,
       "word": "林高远晋级全运会八强",
@@ -13465,6 +13505,14 @@
       "onboard_time": 1762874781,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94560,
+      "num": 89777,
+      "word": "柯淳竟然没亲过初恋",
+      "onboard_time": 1763098220,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 94538,
@@ -14889,6 +14937,14 @@
       "onboard_time": 1762660639,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85754,
+      "num": 85754,
+      "word": "鹭卓王一珩溢出屏幕的父子味",
+      "onboard_time": 1763098881,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 85702,
@@ -17308,7 +17364,7 @@
     },
     {
       "raw_hot": 60955,
-      "num": 181132,
+      "num": 214626,
       "word": "王一博羊毛卷松弛感",
       "onboard_time": 1763095760,
       "rank": 17,
@@ -18292,7 +18348,7 @@
     },
     {
       "raw_hot": 46322,
-      "num": 441515,
+      "num": 531063,
       "word": "网警从严查处编造散布公共领域谣言",
       "onboard_time": 1763096720,
       "rank": 2,
@@ -18675,6 +18731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42159,
+      "num": 100997,
+      "word": "高市早苗扯眼皮诉苦称每天睡2小时",
+      "onboard_time": 1763097740,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41977,
       "num": 54881,
       "word": "田曦薇体制内女友风",
@@ -18977,14 +19041,6 @@
       "onboard_time": 1763028259,
       "rank": 19,
       "category": "体育,数码"
-    },
-    {
-      "raw_hot": 36653,
-      "num": 100997,
-      "word": "高市早苗扯眼皮诉苦称每天睡2小时",
-      "onboard_time": 1763097740,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 36541,
@@ -20035,6 +20091,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 18687,
+      "num": 213503,
+      "word": "一家5口遇害案男子抱3岁儿子火化",
+      "onboard_time": 1763098582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18664,
       "num": 298381,
       "word": "音乐节也能抢红包",
@@ -20337,6 +20401,14 @@
       "onboard_time": 1763059034,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12373,
+      "num": 214679,
+      "word": "男子雇4人到自然保护区砍上百棵树",
+      "onboard_time": 1763098641,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11777,
