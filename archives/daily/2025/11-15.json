@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763160152684,
+  "endTime": 1763162669601,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -139,12 +139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202300,
+      "num": 80532,
+      "word": "过去一年有5千多短剧总裁被下药",
+      "onboard_time": 1763141777,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 201519,
       "num": 201519,
       "word": "诗与远方扳回一局",
       "onboard_time": 1763134460,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195404,
+      "num": 195404,
+      "word": "教育局回应小学生穿裙装敬礼",
+      "onboard_time": 1763137821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168282,
@@ -179,6 +195,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 142329,
+      "num": 142329,
+      "word": "刘诗雯卫冕全运会混双冠军",
+      "onboard_time": 1763141176,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137043,
       "num": 137043,
       "word": "于正说整个行业都在看笑话",
@@ -193,6 +217,22 @@
       "onboard_time": 1763127382,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134946,
+      "num": 66331,
+      "word": "日本共产党要求高市早苗撤回表态",
+      "onboard_time": 1763161697,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 131923,
+      "num": 131923,
+      "word": "刘诗雯6战全运会摘金",
+      "onboard_time": 1763141357,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 127843,
@@ -211,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112230,
+      "num": 76907,
+      "word": "冷美人33天暴瘦20斤涨粉近20万",
+      "onboard_time": 1763149154,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111679,
       "num": 125481,
       "word": "小学要求家长填写可提供社会资源",
       "onboard_time": 1763130922,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 109907,
-      "num": 109907,
-      "word": "刘诗雯卫冕全运会混双冠军",
-      "onboard_time": 1763141176,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 109465,
@@ -243,14 +283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 104579,
-      "num": 46383,
-      "word": "过去一年有5千多短剧总裁被下药",
-      "onboard_time": 1763141777,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 101186,
       "num": 129430,
       "word": "92岁老人父亲节睡梦中被邻居杀害",
@@ -259,28 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99518,
-      "num": 99518,
-      "word": "刘诗雯6战全运会摘金",
-      "onboard_time": 1763141357,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 98081,
       "num": 126607,
       "word": "Ella发长文",
       "onboard_time": 1763126961,
       "rank": 29,
       "category": "演出"
-    },
-    {
-      "raw_hot": 93493,
-      "num": 125027,
-      "word": "教育局回应小学生穿裙装敬礼",
-      "onboard_time": 1763137821,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88754,
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 88586,
-      "num": 61225,
+      "num": 66327,
       "word": "日本2位前首相反对高市早苗言论",
       "onboard_time": 1763140818,
       "rank": 39,
@@ -387,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62807,
-      "num": 45630,
-      "word": "冷美人33天暴瘦20斤涨粉近20万",
-      "onboard_time": 1763149154,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 66472,
+      "num": 66472,
+      "word": "70%的糖尿病前期早干预可逆转",
+      "onboard_time": 1763140098,
+      "rank": 32,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 60065,
@@ -427,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 56568,
+      "num": 66396,
+      "word": "陈赫叫张子萱老张的原因",
+      "onboard_time": 1763124622,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 56029,
       "num": 124875,
       "word": "宋亚轩想抱穆祉丞拦都拦不住",
       "onboard_time": 1763124441,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54897,
+      "num": 66378,
+      "word": "马龙职业生涯仅缺全运男团金牌",
+      "onboard_time": 1763161697,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 54101,
@@ -443,20 +475,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47339,
-      "num": 61227,
-      "word": "70%的糖尿病前期早干预可逆转",
-      "onboard_time": 1763140098,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 46447,
+      "num": 66361,
+      "word": "留几手说影视飓风tim遭罪只是刚开始",
+      "onboard_time": 1763158575,
+      "rank": 45,
+      "category": "网红,数码"
     },
     {
       "raw_hot": 42711,
-      "num": 61226,
+      "num": 66254,
       "word": "冷美人1分钟视频报价50元",
       "onboard_time": 1763113101,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40377,
+      "num": 66309,
+      "word": "神20航天员平安抵京",
+      "onboard_time": 1763141596,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 35961,
+      "num": 66286,
+      "word": "王安宇经常请吃饭的帅气老板",
+      "onboard_time": 1763156594,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 34329,
@@ -483,12 +531,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 32247,
-      "num": 43716,
-      "word": "神20航天员平安抵京",
-      "onboard_time": 1763141596,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 31016,
+      "num": 66240,
+      "word": "谁能认出来这是张凌赫",
+      "onboard_time": 1763145435,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 26246,
@@ -499,20 +547,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25206,
+      "num": 66149,
+      "word": "潘展乐没认出徐嘉余",
+      "onboard_time": 1763162599,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23432,
       "num": 38623,
       "word": "林更新李幼斌新片集齐两个魔丸",
       "onboard_time": 1763145075,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 22615,
-      "num": 36853,
-      "word": "王安宇经常请吃饭的帅气老板",
-      "onboard_time": 1763156594,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 22563,
@@ -523,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20019,
-      "num": 36841,
-      "word": "留几手说影视飓风tim遭罪只是刚开始",
-      "onboard_time": 1763158575,
-      "rank": 45,
-      "category": "网红,数码"
+      "raw_hot": 22057,
+      "num": 66139,
+      "word": "任嘉伦2分钟打戏",
+      "onboard_time": 1763162417,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 19999,
@@ -552,14 +600,6 @@
       "word": "周深象人舞台表现力好强",
       "onboard_time": 1763147294,
       "rank": 29,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 17841,
-      "num": 38440,
-      "word": "谁能认出来这是张凌赫",
-      "onboard_time": 1763145435,
-      "rank": 46,
       "category": "综艺"
     },
     {
