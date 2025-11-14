@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/15 00:34:35 ~ 2025/11/15 02:37:06
+本榜单时间：2025/11/15 00:34:35 ~ 2025/11/15 02:50:38
 </p>
 </blockquote>
 <p>
@@ -267,6 +267,12 @@ Ella发长文（热度：98081）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E6%9C%895%E5%8D%83%E5%A4%9A%E7%9F%AD%E5%89%A7%E6%80%BB%E8%A3%81%E8%A2%AB%E4%B8%8B%E8%8D%AF%23" target="weibo">
+过去一年有5千多短剧总裁被下药（热度：70048）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E4%B8%8D%E8%AF%AD%E5%8F%AA%E6%98%AF%E4%B8%80%E5%91%B3%E4%BA%AB%E5%8F%97%E5%B0%96%E5%8F%AB%23" target="weibo">
 汪苏泷不语只是一味享受尖叫（热度：69432）
 </a>
@@ -345,12 +351,6 @@ Ella发长文（热度：98081）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%8E%BB%E4%B8%80%E5%B9%B4%E6%9C%895%E5%8D%83%E5%A4%9A%E7%9F%AD%E5%89%A7%E6%80%BB%E8%A3%81%E8%A2%AB%E4%B8%8B%E8%8D%AF%23" target="weibo">
-过去一年有5千多短剧总裁被下药（热度：40219）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E6%BC%94%E5%94%B1%E4%BC%9A%E5%9B%9E%E5%88%B0%E6%B5%B7%E5%8F%A3%23" target="weibo">
 华晨宇演唱会回到海口（热度：34329）
 </a>
@@ -376,13 +376,25 @@ Ella发长文（热度：98081）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E6%9B%B4%E6%96%B0%E6%9D%8E%E5%B9%BC%E6%96%8C%E6%96%B0%E7%89%87%E9%9B%86%E9%BD%90%E4%B8%A4%E4%B8%AA%E9%AD%94%E4%B8%B8%23" target="weibo">
-林更新李幼斌新片集齐两个魔丸（热度：21158）
+林更新李幼斌新片集齐两个魔丸（热度：23432）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E4%B8%8A%E5%BC%A6%E4%B8%89%E7%9A%84%E7%AE%80%E8%A6%81%E6%A6%82%E6%8B%AC%23" target="weibo">
 鬼灭之刃上弦三的简要概括（热度：19999）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E8%83%BD%E8%AE%A4%E5%87%BA%E6%9D%A5%E8%BF%99%E6%98%AF%E5%BC%A0%E5%87%8C%E8%B5%AB%23" target="weibo">
+谁能认出来这是张凌赫（热度：17060）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%23" target="weibo">
+新闻女王2（热度：15910）
 </a>
 </li>
 
