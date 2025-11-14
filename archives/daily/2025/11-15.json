@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763156339697,
+  "endTime": 1763159194499,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 80089,
+      "num": 46383,
+      "word": "过去一年有5千多短剧总裁被下药",
+      "onboard_time": 1763141777,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78920,
       "num": 125284,
       "word": "金价",
@@ -315,12 +323,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 78422,
-      "num": 46383,
-      "word": "过去一年有5千多短剧总裁被下药",
-      "onboard_time": 1763141777,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 76968,
+      "num": 125027,
+      "word": "教育局回应小学生穿裙装敬礼",
+      "onboard_time": 1763137821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76004,
@@ -377,14 +385,6 @@
       "onboard_time": 1763134222,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 63101,
-      "num": 125027,
-      "word": "教育局回应小学生穿裙装敬礼",
-      "onboard_time": 1763137821,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60065,
@@ -451,20 +451,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38222,
+      "num": 38222,
+      "word": "冷美人33天暴瘦20斤涨粉近20万",
+      "onboard_time": 1763149154,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34329,
       "num": 61223,
       "word": "华晨宇演唱会回到海口",
       "onboard_time": 1763126001,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 33666,
-      "num": 31056,
-      "word": "冷美人33天暴瘦20斤涨粉近20万",
-      "onboard_time": 1763149154,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33336,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 18000,
-      "num": 28586,
+      "num": 29744,
       "word": "周深象人舞台表现力好强",
       "onboard_time": 1763147294,
       "rank": 29,
@@ -539,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17432,
+      "num": 30841,
+      "word": "人工智能",
+      "onboard_time": 1763134222,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 15910,
       "num": 38416,
       "word": "新闻女王2",
@@ -547,20 +555,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15555,
-      "num": 30841,
-      "word": "人工智能",
-      "onboard_time": 1763134222,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 14661,
       "num": 30858,
       "word": "中国人民不惧任何挑衅",
       "onboard_time": 1763150713,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14588,
+      "num": 29748,
+      "word": "王安宇经常请吃饭的帅气老板",
+      "onboard_time": 1763156594,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14064,
+      "num": 29746,
+      "word": "留几手说影视飓风tim遭罪只是刚开始",
+      "onboard_time": 1763158575,
+      "rank": 45,
+      "category": "网红,数码"
     },
     {
       "raw_hot": 13106,
