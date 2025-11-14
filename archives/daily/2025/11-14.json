@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763090426351,
+  "endTime": 1763091304364,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 877132,
-      "num": 190187,
+      "num": 219231,
       "word": "孩子王 复活",
       "onboard_time": 1763089880,
       "rank": 10,
@@ -43,6 +43,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 541307,
+      "num": 541307,
+      "word": "樊振东vs孙闻",
+      "onboard_time": 1763088800,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 520802,
+      "num": 520802,
+      "word": "中国军号用日语发文",
+      "onboard_time": 1763088920,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 512135,
       "num": 142801,
       "word": "徐志胜家到底有多脏",
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 463506,
-      "num": 190114,
+      "num": 216840,
       "word": "第二杯半价不是一个人喝两杯",
       "onboard_time": 1763080401,
       "rank": 15,
@@ -65,6 +81,14 @@
       "onboard_time": 1763040382,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 399068,
+      "num": 399068,
+      "word": "多方退出银河酷娱股东行列",
+      "onboard_time": 1763088739,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 396457,
@@ -83,28 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 382714,
-      "num": 382714,
-      "word": "樊振东vs孙闻",
-      "onboard_time": 1763088800,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 379593,
       "num": 160777,
       "word": "年轻女子与7旬老人生女后弃养给保姆",
       "onboard_time": 1763051478,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 362703,
-      "num": 362703,
-      "word": "中国军号用日语发文",
-      "onboard_time": 1763088920,
-      "rank": 4,
-      "category": "国内时政"
     },
     {
       "raw_hot": 337805,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 336598,
-      "num": 189409,
+      "num": 216312,
       "word": "宋祖儿夺回失去的那一年",
       "onboard_time": 1763087181,
       "rank": 14,
@@ -163,6 +171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 279627,
+      "num": 279627,
+      "word": "外交部召见日本大使提出严正交涉",
+      "onboard_time": 1763088980,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 278394,
       "num": 802893,
       "word": "山姆正跌落神坛",
@@ -203,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 260361,
-      "num": 260361,
-      "word": "多方退出银河酷娱股东行列",
-      "onboard_time": 1763088739,
-      "rank": 6,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 258675,
       "num": 258675,
       "word": "段奥娟首次提名金鸡奖",
@@ -225,6 +233,14 @@
       "onboard_time": 1763085921,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 237695,
+      "num": 237695,
+      "word": "徐晟津就星辰大海睡觉道歉",
+      "onboard_time": 1763089161,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 231217,
@@ -259,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 214062,
+      "num": 214062,
+      "word": "张颜齐看见杨紫喊夏雨",
+      "onboard_time": 1763090061,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195372,
       "num": 195372,
       "word": "美股",
@@ -267,20 +291,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 191740,
-      "num": 191740,
-      "word": "徐晟津就星辰大海睡觉道歉",
-      "onboard_time": 1763089161,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 190333,
       "num": 190333,
       "word": "新闻女王2全员呕吐手势舞",
       "onboard_time": 1763086220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188993,
+      "num": 188993,
+      "word": "杨舒予 我到底要不要过去扶",
+      "onboard_time": 1763087841,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 188569,
@@ -307,12 +331,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175617,
+      "num": 161197,
+      "word": "武艺理想型原来是沈月",
+      "onboard_time": 1763089940,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171297,
       "num": 136707,
       "word": "艾玛沃特森35岁状态",
       "onboard_time": 1763041642,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169857,
+      "num": 119290,
+      "word": "中国军号警告日本",
+      "onboard_time": 1763090240,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 169362,
@@ -323,20 +363,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 168871,
-      "num": 127449,
-      "word": "杨舒予 我到底要不要过去扶",
-      "onboard_time": 1763087841,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 167704,
       "num": 159489,
       "word": "银行4年3次采购工作服花619万",
       "onboard_time": 1763046140,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167149,
+      "num": 167149,
+      "word": "陈乔恩梁雪峰这段一秒都不用剪",
+      "onboard_time": 1763090300,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 165491,
@@ -371,12 +411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159141,
+      "num": 159141,
+      "word": "比苦果亦是果更带劲的台词出现了",
+      "onboard_time": 1763090601,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159036,
       "num": 159036,
       "word": "巴基斯坦称已做好两线作战准备",
       "onboard_time": 1763075297,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 156804,
+      "num": 156804,
+      "word": "李柯以余茵新剧演母女",
+      "onboard_time": 1763089819,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 155575,
@@ -387,20 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154035,
-      "num": 126480,
-      "word": "武艺理想型原来是沈月",
-      "onboard_time": 1763089940,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152486,
       "num": 142424,
       "word": "一度君华",
       "onboard_time": 1763083879,
       "rank": 23,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 149023,
+      "num": 149023,
+      "word": "王曼昱说陈梦再返赛场优势非常强",
+      "onboard_time": 1763088440,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 143480,
@@ -427,14 +483,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 138034,
-      "num": 138034,
-      "word": "李柯以余茵新剧演母女",
-      "onboard_time": 1763089819,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137185,
       "num": 137185,
       "word": "影视飓风Tim称今年开始不接所有电话",
@@ -444,7 +492,7 @@
     },
     {
       "raw_hot": 137052,
-      "num": 128209,
+      "num": 135564,
       "word": "小鹏X9超级增程动态评测全网首发",
       "onboard_time": 1763089880,
       "rank": 27,
@@ -467,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132578,
+      "num": 116094,
+      "word": "前时代峰峻三代同堂",
+      "onboard_time": 1763088980,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131903,
       "num": 131903,
       "word": "我国探明首个千吨级金矿",
@@ -483,22 +539,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 130410,
-      "num": 174185,
-      "word": "张颜齐看见杨紫喊夏雨",
-      "onboard_time": 1763090061,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 128240,
-      "num": 128240,
-      "word": "王曼昱说陈梦再返赛场优势非常强",
-      "onboard_time": 1763088440,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125239,
       "num": 125239,
       "word": "紫藤花雨的花语是晚安小忍",
@@ -513,14 +553,6 @@
       "onboard_time": 1763083579,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 119290,
-      "num": 119290,
-      "word": "中国军号警告日本",
-      "onboard_time": 1763090240,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 118215,
@@ -555,12 +587,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 114982,
+      "num": 114982,
+      "word": "饼狗心火烧",
+      "onboard_time": 1763090120,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
       "onboard_time": 1763041523,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113524,
+      "num": 113524,
+      "word": "杨紫爸爸去看了张一山话剧",
+      "onboard_time": 1763091021,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 110859,
+      "num": 110859,
+      "word": "第一次吃竹薯",
+      "onboard_time": 1763089760,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110476,
+      "num": 110476,
+      "word": "日本设想在中国家门口打潜艇战",
+      "onboard_time": 1763088800,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110380,
@@ -579,14 +643,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108991,
-      "num": 108991,
-      "word": "饼狗心火烧",
-      "onboard_time": 1763090120,
-      "rank": 42,
-      "category": "动漫"
-    },
-    {
       "raw_hot": 108575,
       "num": 139490,
       "word": "14岁男孩被误诊矮小症打了2940针",
@@ -601,6 +657,14 @@
       "onboard_time": 1763054237,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105643,
+      "num": 105643,
+      "word": "小狗突然意识到在去医院体检",
+      "onboard_time": 1763090480,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 105031,
@@ -649,14 +713,6 @@
       "onboard_time": 1763043742,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 99300,
-      "num": 99300,
-      "word": "第一次吃竹薯",
-      "onboard_time": 1763089760,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 99009,
@@ -731,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 91742,
-      "num": 189638,
-      "word": "外交部召见日本大使提出严正交涉",
-      "onboard_time": 1763088980,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 89485,
       "num": 89485,
       "word": "生活可以甜但身体可不兴太甜",
@@ -761,6 +809,14 @@
       "onboard_time": 1763088800,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87076,
+      "num": 93710,
+      "word": "地表最难乒乓球赛四强出炉",
+      "onboard_time": 1763088260,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 86923,
@@ -803,14 +859,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84446,
-      "num": 105238,
-      "word": "前时代峰峻三代同堂",
-      "onboard_time": 1763088980,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84223,
       "num": 136366,
       "word": "长白头发可能是缺乏这3种营养",
@@ -841,14 +889,6 @@
       "onboard_time": 1763085260,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82315,
-      "num": 119320,
-      "word": "陈乔恩梁雪峰这段一秒都不用剪",
-      "onboard_time": 1763090300,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 79909,
@@ -977,6 +1017,14 @@
       "onboard_time": 1763089880,
       "rank": 19,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63319,
+      "num": 119398,
+      "word": "醉驾男举报洗浴中心容留卖淫获轻判",
+      "onboard_time": 1763090061,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62928,
@@ -1163,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 34507,
-      "num": 119398,
-      "word": "醉驾男举报洗浴中心容留卖淫获轻判",
-      "onboard_time": 1763090061,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34147,
       "num": 100874,
       "word": "网红称坐国际航班丢失350万元首饰",
@@ -1225,6 +1265,14 @@
       "onboard_time": 1763060293,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24772,
+      "num": 119518,
+      "word": "中国打碎日本小算盘",
+      "onboard_time": 1763090061,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23654,
@@ -1331,14 +1379,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 11688,
-      "num": 119518,
-      "word": "中国打碎日本小算盘",
-      "onboard_time": 1763090061,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 11511,
       "num": 24728,
       "word": "鬼灭的零点场我是忍不柱",
@@ -1347,8 +1387,16 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 931,
-      "num": 414762,
+      "raw_hot": 11474,
+      "num": 110925,
+      "word": "地方国资扎堆出售房产",
+      "onboard_time": 1763090840,
+      "rank": 38,
+      "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 1328,
+      "num": 547051,
       "word": "十五五规划纲要问计求策",
       "onboard_time": 1762957824,
       "rank": 2,
