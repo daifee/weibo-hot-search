@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763142113953,
+  "endTime": 1763145426914,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -251,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99518,
+      "num": 99518,
+      "word": "刘诗雯6战全运会摘金",
+      "onboard_time": 1763141357,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98081,
       "num": 126607,
       "word": "Ella发长文",
@@ -419,14 +427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50796,
-      "num": 50796,
-      "word": "刘诗雯6战全运会摘金",
-      "onboard_time": 1763141357,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 47339,
       "num": 61227,
       "word": "70%的糖尿病前期早干预可逆转",
@@ -441,6 +441,14 @@
       "onboard_time": 1763113101,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40219,
+      "num": 43707,
+      "word": "过去一年有5千多短剧总裁被下药",
+      "onboard_time": 1763141777,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 34329,
@@ -475,12 +483,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 28233,
-      "num": 43707,
-      "word": "过去一年有5千多短剧总裁被下药",
-      "onboard_time": 1763141777,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 21158,
+      "num": 29774,
+      "word": "林更新李幼斌新片集齐两个魔丸",
+      "onboard_time": 1763145075,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 19999,
+      "num": 29761,
+      "word": "鬼灭之刃上弦三的简要概括",
+      "onboard_time": 1763144595,
+      "rank": 46,
+      "category": "动漫"
     },
     {
       "raw_hot": 3119,
