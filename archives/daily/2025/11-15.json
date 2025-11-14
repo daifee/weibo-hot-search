@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763162669601,
+  "endTime": 1763163549687,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -40,6 +40,14 @@
       "word": "彭小苒 初恋死了",
       "onboard_time": 1763129723,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 390872,
+      "num": 76944,
+      "word": "贾乃亮直播中奖名单",
+      "onboard_time": 1763163259,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -107,12 +115,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 256897,
+      "num": 67221,
+      "word": "日本共产党要求高市早苗撤回表态",
+      "onboard_time": 1763161697,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 239617,
       "num": 239617,
       "word": "鬼灭之刃",
       "onboard_time": 1763127262,
       "rank": 8,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 239154,
+      "num": 85278,
+      "word": "过去一年有5千多短剧总裁被下药",
+      "onboard_time": 1763141777,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 229243,
@@ -139,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202300,
-      "num": 80532,
-      "word": "过去一年有5千多短剧总裁被下药",
-      "onboard_time": 1763141777,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 203980,
+      "num": 203980,
+      "word": "教育局回应小学生穿裙装敬礼",
+      "onboard_time": 1763137821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201519,
@@ -153,14 +177,6 @@
       "onboard_time": 1763134460,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 195404,
-      "num": 195404,
-      "word": "教育局回应小学生穿裙装敬礼",
-      "onboard_time": 1763137821,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 168282,
@@ -219,14 +235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 134946,
-      "num": 66331,
-      "word": "日本共产党要求高市早苗撤回表态",
-      "onboard_time": 1763161697,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 131923,
       "num": 131923,
       "word": "刘诗雯6战全运会摘金",
@@ -251,8 +259,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113521,
+      "num": 85113,
+      "word": "70%的糖尿病前期早干预可逆转",
+      "onboard_time": 1763140098,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 112230,
-      "num": 76907,
+      "num": 85011,
       "word": "冷美人33天暴瘦20斤涨粉近20万",
       "onboard_time": 1763149154,
       "rank": 31,
@@ -291,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98822,
+      "num": 98822,
+      "word": "吴彤真让三个少年上王牌了",
+      "onboard_time": 1763163318,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98081,
       "num": 126607,
       "word": "Ella发长文",
@@ -308,7 +332,7 @@
     },
     {
       "raw_hot": 88586,
-      "num": 66327,
+      "num": 67114,
       "word": "日本2位前首相反对高市早苗言论",
       "onboard_time": 1763140818,
       "rank": 39,
@@ -321,6 +345,14 @@
       "onboard_time": 1763128821,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84884,
+      "num": 84884,
+      "word": "骑手送6台iPhone17半路失联",
+      "onboard_time": 1763162719,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83779,
@@ -339,6 +371,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81216,
+      "num": 81216,
+      "word": "睡前饥饿感频发可能是胰岛素抵抗",
+      "onboard_time": 1763162837,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 79594,
+      "num": 75228,
+      "word": "马龙职业生涯仅缺全运男团金牌",
+      "onboard_time": 1763161697,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 78920,
       "num": 125284,
       "word": "金价",
@@ -352,6 +400,14 @@
       "word": "左奇函 左医生",
       "onboard_time": 1763135181,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 74998,
+      "num": 74998,
+      "word": "陈赫叫张子萱老张的原因",
+      "onboard_time": 1763124622,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -403,12 +459,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 66472,
-      "num": 66472,
-      "word": "70%的糖尿病前期早干预可逆转",
-      "onboard_time": 1763140098,
-      "rank": 32,
-      "category": "健康医疗"
+      "raw_hot": 61942,
+      "num": 61942,
+      "word": "女子网购睡衣到货试穿竟掏出秋裤",
+      "onboard_time": 1763162719,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60065,
@@ -427,6 +483,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58084,
+      "num": 58084,
+      "word": "冷美人坚持37天获8666元",
+      "onboard_time": 1763162658,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58053,
+      "num": 66361,
+      "word": "留几手说影视飓风tim遭罪只是刚开始",
+      "onboard_time": 1763158575,
+      "rank": 45,
+      "category": "网红,数码"
+    },
+    {
+      "raw_hot": 57753,
+      "num": 57753,
+      "word": "日本喊停为韩国军机加油计划",
+      "onboard_time": 1763162719,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57735,
       "num": 124971,
       "word": "陈昊宇 满头白发",
@@ -443,28 +523,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 56568,
-      "num": 66396,
-      "word": "陈赫叫张子萱老张的原因",
-      "onboard_time": 1763124622,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 56029,
       "num": 124875,
       "word": "宋亚轩想抱穆祉丞拦都拦不住",
       "onboard_time": 1763124441,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 54897,
-      "num": 66378,
-      "word": "马龙职业生涯仅缺全运男团金牌",
-      "onboard_time": 1763161697,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 54101,
@@ -475,12 +539,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 46447,
-      "num": 66361,
-      "word": "留几手说影视飓风tim遭罪只是刚开始",
-      "onboard_time": 1763158575,
-      "rank": 45,
-      "category": "网红,数码"
+      "raw_hot": 49691,
+      "num": 49691,
+      "word": "最好的气血补药是睡觉和多出去玩",
+      "onboard_time": 1763163018,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44905,
+      "num": 70399,
+      "word": "神20航天员平安抵京",
+      "onboard_time": 1763141596,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44585,
+      "num": 44585,
+      "word": "4只太空鼠回地球已吃上果冻",
+      "onboard_time": 1763162837,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 44027,
+      "num": 44027,
+      "word": "长期缺觉会让全身处于炎症状态",
+      "onboard_time": 1763162658,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 42711,
@@ -491,12 +579,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40377,
-      "num": 66309,
-      "word": "神20航天员平安抵京",
-      "onboard_time": 1763141596,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 42217,
+      "num": 42217,
+      "word": "黄金直线暴跌",
+      "onboard_time": 1763163499,
+      "rank": 44,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 41538,
+      "num": 41538,
+      "word": "王珞丹好素的毛衣好贵的气质",
+      "onboard_time": 1763163198,
+      "rank": 45,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 40926,
+      "num": 40926,
+      "word": "92岁老人被儿子殴打视频系孙子发现",
+      "onboard_time": 1763162719,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35961,
@@ -505,6 +609,14 @@
       "onboard_time": 1763156594,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 34873,
+      "num": 66139,
+      "word": "任嘉伦2分钟打戏",
+      "onboard_time": 1763162417,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 34329,
@@ -569,14 +681,6 @@
       "onboard_time": 1763148914,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22057,
-      "num": 66139,
-      "word": "任嘉伦2分钟打戏",
-      "onboard_time": 1763162417,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 19999,
