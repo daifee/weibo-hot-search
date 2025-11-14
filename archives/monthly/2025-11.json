@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763077171904,
+  "endTime": 1763085556500,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -457,6 +457,14 @@
       "onboard_time": 1762996700,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 1429223,
+      "num": 1429223,
+      "word": "日本有事就是日本有事",
+      "onboard_time": 1763083701,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1419425,
@@ -2129,6 +2137,14 @@
       "onboard_time": 1762152921,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 696520,
+      "num": 696520,
+      "word": "董宇辉致歉口语多个语法错误",
+      "onboard_time": 1763079260,
+      "rank": 1,
+      "category": "互联网"
     },
     {
       "raw_hot": 696178,
@@ -7915,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300153,
+      "num": 300153,
+      "word": "女子泄露国家秘密讨好外籍男友",
+      "onboard_time": 1763077640,
+      "rank": 3,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 299925,
       "num": 205403,
       "word": "30岁小伙长期熬夜智力退回3岁",
@@ -8009,6 +8033,22 @@
       "onboard_time": 1762699762,
       "rank": 15,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 298579,
+      "num": 142994,
+      "word": "DK 许秀",
+      "onboard_time": 1763080401,
+      "rank": 20,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 298463,
+      "num": 298463,
+      "word": "日本自卫队要恢复大佐军衔",
+      "onboard_time": 1763082681,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 298151,
@@ -8537,6 +8577,14 @@
       "onboard_time": 1762175602,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 280782,
+      "num": 280782,
+      "word": "iPhonePocket正式开售",
+      "onboard_time": 1763075958,
+      "rank": 37,
+      "category": "数码"
     },
     {
       "raw_hot": 280607,
@@ -9123,6 +9171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 262157,
+      "num": 262157,
+      "word": "星辰大海谁睡着了",
+      "onboard_time": 1763077640,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 261860,
       "num": 199792,
       "word": "每天喝咖啡vs从来不喝咖啡",
@@ -9227,6 +9283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259748,
+      "num": 259748,
+      "word": "苹果AppleStore全新图标上线",
+      "onboard_time": 1763081901,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 259607,
       "num": 259607,
       "word": "Cat即将回归赛场",
@@ -9249,6 +9313,14 @@
       "onboard_time": 1762577241,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258675,
+      "num": 258675,
+      "word": "段奥娟首次提名金鸡奖",
+      "onboard_time": 1763080460,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 258662,
@@ -9465,6 +9537,14 @@
       "onboard_time": 1762082311,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 251439,
+      "num": 142594,
+      "word": "影视飓风Tim相亲被指很不真诚",
+      "onboard_time": 1763083579,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 251238,
@@ -10193,6 +10273,14 @@
       "onboard_time": 1762700303,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231217,
+      "num": 231217,
+      "word": "宋丹丹看张一山话剧哭了",
+      "onboard_time": 1763081300,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 230454,
@@ -11979,6 +12067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201592,
+      "num": 201592,
+      "word": "四川舰",
+      "onboard_time": 1763084539,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 201516,
       "num": 181468,
       "word": "周深品尝奶皮子糖葫芦连吃带拿",
@@ -13425,6 +13521,14 @@
       "onboard_time": 1763028980,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186540,
+      "num": 186540,
+      "word": "库里与安德玛分道扬镳",
+      "onboard_time": 1763081362,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 186521,
@@ -15483,6 +15587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 165491,
+      "num": 165491,
+      "word": "不二之臣",
+      "onboard_time": 1763077040,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165434,
       "num": 165434,
       "word": "属于冬天的情绪价值",
@@ -15913,6 +16025,14 @@
       "onboard_time": 1762482020,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162131,
+      "num": 162131,
+      "word": "C罗肘击染红",
+      "onboard_time": 1763076439,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 162130,
@@ -16481,6 +16601,14 @@
       "onboard_time": 1762174222,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157591,
+      "num": 157591,
+      "word": "第二杯半价不是一个人喝两杯",
+      "onboard_time": 1763080401,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 157529,
@@ -17579,6 +17707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149670,
+      "num": 142424,
+      "word": "一度君华",
+      "onboard_time": 1763083879,
+      "rank": 23,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 149605,
       "num": 165727,
       "word": "汪苏泷 抢票",
@@ -18531,6 +18667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 143480,
+      "num": 143480,
+      "word": "神22飞船择机发射",
+      "onboard_time": 1763079260,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143394,
       "num": 114542,
       "word": "用生命扳倒安德鲁王子的女人",
@@ -18665,6 +18809,14 @@
       "onboard_time": 1762745539,
       "rank": 33,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 142415,
+      "num": 142415,
+      "word": "石破茂反对高市早苗涉台挑衅言论",
+      "onboard_time": 1763078181,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142412,
@@ -19716,7 +19868,7 @@
     },
     {
       "raw_hot": 136725,
-      "num": 136725,
+      "num": 143202,
       "word": "鬼灭之刃",
       "onboard_time": 1762212438,
       "rank": 44,
@@ -20619,6 +20771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131903,
+      "num": 131903,
+      "word": "我国探明首个千吨级金矿",
+      "onboard_time": 1763082380,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131895,
       "num": 206048,
       "word": "中国核力量同美俄不在一个量级",
@@ -20641,6 +20801,14 @@
       "onboard_time": 1762338501,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131810,
+      "num": 143430,
+      "word": "穆祉丞把徐晟津哄睡了",
+      "onboard_time": 1763078660,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 131801,
@@ -22579,6 +22747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123457,
+      "num": 123457,
+      "word": "海军四川舰开展首次航行试验",
+      "onboard_time": 1763083579,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123346,
       "num": 122035,
       "word": "剖腹产第一次下床时的真实状态",
@@ -23835,6 +24011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 118215,
+      "num": 118215,
+      "word": "欧洲人民工资到1w是什么概念",
+      "onboard_time": 1763075417,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 118071,
       "num": 118071,
       "word": "考公人设",
@@ -24033,6 +24217,14 @@
       "onboard_time": 1762229600,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 117528,
+      "num": 117528,
+      "word": "白头发是身体发出的压力警告",
+      "onboard_time": 1763083701,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 117514,
@@ -24441,6 +24633,14 @@
       "onboard_time": 1762165941,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 115784,
+      "num": 115784,
+      "word": "独家视频看076首舰四川舰",
+      "onboard_time": 1763084960,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115772,
@@ -26155,14 +26355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109138,
-      "num": 109138,
-      "word": "欧洲人民工资到1w是什么概念",
-      "onboard_time": 1763075417,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 109121,
       "num": 109121,
       "word": "常华森年底也要赶KPI",
@@ -27715,6 +27907,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 104210,
+      "num": 104210,
+      "word": "卢昱晓LV千金风",
+      "onboard_time": 1763080100,
+      "rank": 35,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 104138,
       "num": 104138,
       "word": "具俊晔每周会去小S家吃饭",
@@ -28113,6 +28313,14 @@
       "onboard_time": 1762779382,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103135,
+      "num": 122375,
+      "word": "宋祖儿上午杀青下午进组",
+      "onboard_time": 1763058015,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 103129,
@@ -29633,6 +29841,14 @@
       "onboard_time": 1761994282,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99009,
+      "num": 99009,
+      "word": "神舟二十二号飞船安排上了",
+      "onboard_time": 1763084299,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 99008,
@@ -31803,6 +32019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93565,
+      "num": 93565,
+      "word": "从严整治AI仿冒公众人物直播",
+      "onboard_time": 1763084479,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93476,
       "num": 93476,
       "word": "这狗像个千层蛋糕一样",
@@ -32057,6 +32281,14 @@
       "onboard_time": 1762087641,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 92860,
+      "num": 92860,
+      "word": "阿里烧鸭饭",
+      "onboard_time": 1763084419,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 92859,
@@ -32441,6 +32673,14 @@
       "onboard_time": 1762079840,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91874,
+      "num": 91874,
+      "word": "泰国国王抵达北京",
+      "onboard_time": 1763085380,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91866,
@@ -34891,6 +35131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86068,
+      "num": 86068,
+      "word": "乐队否认阿珍汽车电动座椅挤压去世",
+      "onboard_time": 1763084720,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86006,
       "num": 86006,
       "word": "孙颖莎依旧糯米团子",
@@ -35041,6 +35289,14 @@
       "onboard_time": 1763014580,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85776,
+      "num": 85776,
+      "word": "B站月活3.76亿",
+      "onboard_time": 1763082560,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 85771,
@@ -35963,6 +36219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82896,
+      "num": 82896,
+      "word": "专家提醒慎用电子咖啡手环",
+      "onboard_time": 1763078540,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82880,
       "num": 82880,
       "word": "谁敢听龚俊常华森唱五子棋",
@@ -36112,6 +36376,14 @@
       "word": "商家回应给羽绒服上锁防蹭穿",
       "onboard_time": 1762441583,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82467,
+      "num": 82467,
+      "word": "一家五口遇害案家中血迹还在",
+      "onboard_time": 1763085260,
+      "rank": 46,
       "category": "民生新闻"
     },
     {
@@ -37115,6 +37387,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 78985,
+      "num": 78985,
+      "word": "唐诡3千年万岁椒花颂声",
+      "onboard_time": 1763085501,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78984,
       "num": 78984,
       "word": "考公一定要有强大的信念感",
@@ -37443,6 +37723,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77828,
+      "num": 77828,
+      "word": "将门毒后制片人",
+      "onboard_time": 1763085439,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77819,
       "num": 503802,
       "word": "海底捞回应家长就餐区给孩子接尿",
@@ -37713,14 +38001,6 @@
       "onboard_time": 1762866021,
       "rank": 39,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 77164,
-      "num": 77164,
-      "word": "C罗肘击染红",
-      "onboard_time": 1763076439,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 77148,
@@ -38065,6 +38345,14 @@
       "onboard_time": 1762398320,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 75778,
+      "num": 75778,
+      "word": "上海一车辆冲入长江有人员身亡",
+      "onboard_time": 1763085199,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75772,
@@ -39761,14 +40049,6 @@
       "onboard_time": 1762664298,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 68222,
-      "num": 68222,
-      "word": "iPhonePocket正式开售",
-      "onboard_time": 1763075958,
-      "rank": 37,
-      "category": "数码"
     },
     {
       "raw_hot": 68218,
@@ -41491,6 +41771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57941,
+      "num": 143150,
+      "word": "河北邢台一家五口遇害案开庭",
+      "onboard_time": 1763084900,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57938,
       "num": 67989,
       "word": "孙颖莎教科书式敏捷性训练",
@@ -43035,14 +43323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 47376,
-      "num": 60029,
-      "word": "不二之臣",
-      "onboard_time": 1763077040,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 47375,
       "num": 105378,
       "word": "于何一战胜梁靖崑后直播抽樊A球板",
@@ -43177,14 +43457,6 @@
       "onboard_time": 1762406122,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 46652,
-      "num": 77196,
-      "word": "宋祖儿上午杀青下午进组",
-      "onboard_time": 1763058015,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 46639,
@@ -43785,6 +44057,14 @@
       "onboard_time": 1761952818,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 42631,
+      "num": 92270,
+      "word": "狗咬人引杀人狗主人方认同防卫过当",
+      "onboard_time": 1763084599,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42616,
