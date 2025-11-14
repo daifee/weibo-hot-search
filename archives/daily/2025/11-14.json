@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763116186863,
+  "endTime": 1763117121792,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -83,6 +83,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 786372,
+      "num": 199825,
+      "word": "陈昊宇 满头白发",
+      "onboard_time": 1763114242,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 783263,
       "num": 783263,
       "word": "四川舰",
@@ -97,14 +105,6 @@
       "onboard_time": 1763094501,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 746686,
-      "num": 199825,
-      "word": "陈昊宇 满头白发",
-      "onboard_time": 1763114242,
-      "rank": 10,
-      "category": "综艺"
     },
     {
       "raw_hot": 696520,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 510607,
-      "num": 286854,
+      "num": 323628,
       "word": "九阳豆浆回应被指玩虐猫梗",
       "onboard_time": 1763111542,
       "rank": 33,
@@ -273,6 +273,14 @@
       "onboard_time": 1763097020,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 406988,
+      "num": 177229,
+      "word": "肖战卷毛男大",
+      "onboard_time": 1763114781,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 404901,
@@ -419,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318439,
+      "num": 318439,
+      "word": "桥本可以考公了",
+      "onboard_time": 1763114841,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309907,
       "num": 309907,
       "word": "彭昱畅第一次见张凌赫",
@@ -457,14 +473,6 @@
       "onboard_time": 1763090240,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 288899,
-      "num": 177229,
-      "word": "肖战卷毛男大",
-      "onboard_time": 1763114781,
-      "rank": 21,
-      "category": "剧集"
     },
     {
       "raw_hot": 286489,
@@ -627,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236580,
+      "num": 159636,
+      "word": "新闻联播三分钟警告高市早苗",
+      "onboard_time": 1763115741,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 231217,
       "num": 231217,
       "word": "宋丹丹看张一山话剧哭了",
@@ -707,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212238,
-      "num": 172294,
-      "word": "桥本可以考公了",
-      "onboard_time": 1763114841,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211089,
       "num": 207197,
       "word": "赵樱子说于正真说过",
@@ -723,8 +731,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 208457,
-      "num": 208457,
+      "raw_hot": 209923,
+      "num": 209923,
       "word": "时代峰峻旗下公司经营异常",
       "onboard_time": 1763112861,
       "rank": 6,
@@ -785,6 +793,14 @@
       "onboard_time": 1763085439,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188537,
+      "num": 188537,
+      "word": "母亲称怀孕女儿被骗柬埔寨遭囚禁",
+      "onboard_time": 1763115141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187614,
@@ -859,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 171402,
-      "num": 159636,
-      "word": "新闻联播三分钟警告高市早苗",
-      "onboard_time": 1763115741,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 171297,
       "num": 136707,
       "word": "艾玛沃特森35岁状态",
@@ -929,6 +937,14 @@
       "onboard_time": 1763077040,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165123,
+      "num": 156394,
+      "word": "冷美人1分钟视频报价50元",
+      "onboard_time": 1763113101,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 163083,
@@ -1019,14 +1035,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156394,
-      "num": 156394,
-      "word": "冷美人1分钟视频报价50元",
-      "onboard_time": 1763113101,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 156310,
       "num": 156310,
       "word": "华为MateX7外观曝光",
@@ -1067,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148849,
+      "num": 206972,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763115561,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148770,
       "num": 148770,
       "word": "仅用0秒就确认这是杨洋",
@@ -1081,14 +1097,6 @@
       "onboard_time": 1763091021,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 145347,
-      "num": 206972,
-      "word": "唐朝诡事录",
-      "onboard_time": 1763115561,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 144056,
@@ -1264,6 +1272,14 @@
       "word": "T1冠军奖金100万美元",
       "onboard_time": 1763091441,
       "rank": 41,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 126690,
+      "num": 126690,
+      "word": "33打卡点",
+      "onboard_time": 1763117060,
+      "rank": 27,
       "category": "电竞"
     },
     {
@@ -1451,14 +1467,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 113640,
-      "num": 181987,
-      "word": "母亲称怀孕女儿被骗柬埔寨遭囚禁",
-      "onboard_time": 1763115141,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113174,
       "num": 113174,
       "word": "辛巴徒弟蛋蛋称长期遭职场暴力",
@@ -1564,7 +1572,7 @@
     },
     {
       "raw_hot": 109677,
-      "num": 109677,
+      "num": 145020,
       "word": "鬼灭之刃制作组的厨力有多强",
       "onboard_time": 1763116042,
       "rank": 45,
@@ -1643,6 +1651,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 103980,
+      "num": 103980,
+      "word": "任嘉伦时隔八年再演皇帝",
+      "onboard_time": 1763116700,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103401,
       "num": 135489,
       "word": "高市早苗反省",
@@ -1713,6 +1729,14 @@
       "onboard_time": 1763095461,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 100355,
+      "num": 117304,
+      "word": "差点没认出这是闫妮",
+      "onboard_time": 1763116402,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 100061,
@@ -1787,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97241,
+      "num": 97241,
+      "word": "辛芷蕾 你整个本干啥",
+      "onboard_time": 1763114000,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 97025,
       "num": 97025,
       "word": "iPhonePocket柑橘色售罄",
@@ -1801,6 +1833,14 @@
       "onboard_time": 1763104821,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96382,
+      "num": 96382,
+      "word": "iPhonePocket平替 袜子",
+      "onboard_time": 1763116461,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 96306,
@@ -1897,6 +1937,14 @@
       "onboard_time": 1763106021,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93710,
+      "num": 93710,
+      "word": "包上恩古风美成啥样了",
+      "onboard_time": 1763117000,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 93565,
@@ -2131,6 +2179,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 85441,
+      "num": 99143,
+      "word": "联合国敌国条款仍然有效",
+      "onboard_time": 1763116342,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85074,
       "num": 85074,
       "word": "邓紫棋是真把我当外人",
@@ -2217,6 +2273,14 @@
       "onboard_time": 1763036241,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83034,
+      "num": 115625,
+      "word": "4只航天鼠完成任务回地球",
+      "onboard_time": 1763116342,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 82896,
@@ -2739,6 +2803,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46105,
+      "num": 182743,
+      "word": "华为影像XMAGE重返巴黎大皇宫",
+      "onboard_time": 1763115561,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 45877,
       "num": 60028,
       "word": "张呈给雷淞然笑退烧了",
@@ -2811,14 +2883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 39473,
-      "num": 182743,
-      "word": "华为影像XMAGE重返巴黎大皇宫",
-      "onboard_time": 1763115561,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 37265,
       "num": 133426,
       "word": "唐诡这集怎么拿了花少剧本",
@@ -2875,6 +2939,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 33615,
+      "num": 123790,
+      "word": "提倡零彩礼1年后于东来晒成绩单",
+      "onboard_time": 1763116161,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33487,
       "num": 93027,
       "word": "大牌尾货竟是按吨回收的二手衣服",
@@ -2889,14 +2961,6 @@
       "onboard_time": 1763061254,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 31925,
-      "num": 123790,
-      "word": "提倡零彩礼1年后于东来晒成绩单",
-      "onboard_time": 1763116161,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31679,
@@ -2995,6 +3059,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 19789,
+      "num": 98466,
+      "word": "美国的人情世故",
+      "onboard_time": 1763116941,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19771,
       "num": 35197,
       "word": "孙颖莎非常期待半决赛",
@@ -3081,6 +3153,14 @@
       "onboard_time": 1763094680,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15056,
+      "num": 143008,
+      "word": "日本流感病例激增",
+      "onboard_time": 1763116342,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 13902,

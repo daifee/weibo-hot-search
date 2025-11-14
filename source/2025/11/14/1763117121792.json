@@ -1,0 +1,410 @@
+{
+  "runTime": 1763117121792,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 477808,
+        "num": 1076449,
+        "word": "神20乘组成功返回地球",
+        "onboard_time": 1763111061,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 439668,
+        "num": 439668,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1380,
+        "num": 326141,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510465,
+        "num": 323628,
+        "word": "九阳豆浆回应被指玩虐猫梗",
+        "onboard_time": 1763111542,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318439,
+        "num": 318439,
+        "word": "桥本可以考公了",
+        "onboard_time": 1763114841,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255687,
+        "num": 255687,
+        "word": "日本有事就是日本有事",
+        "onboard_time": 1763083701,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 209923,
+        "num": 209923,
+        "word": "时代峰峻旗下公司经营异常",
+        "onboard_time": 1763112861,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188537,
+        "num": 188537,
+        "word": "母亲称怀孕女儿被骗柬埔寨遭囚禁",
+        "onboard_time": 1763115141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148849,
+        "num": 148849,
+        "word": "唐朝诡事录",
+        "onboard_time": 1763115561,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116584,
+        "num": 148501,
+        "word": "超六成糖尿病前期患者自己没感觉",
+        "onboard_time": 1763096241,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 786372,
+        "num": 147729,
+        "word": "陈昊宇 满头白发",
+        "onboard_time": 1763114242,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 493645,
+        "num": 147536,
+        "word": "曝柯淳被长剧退货",
+        "onboard_time": 1763110581,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 474469,
+        "num": 146866,
+        "word": "92岁母亲被儿打后想用500元保子",
+        "onboard_time": 1763112741,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 407143,
+        "num": 146198,
+        "word": "足浴店卖淫被查多位民警遭指控",
+        "onboard_time": 1763108181,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406988,
+        "num": 145393,
+        "word": "肖战卷毛男大",
+        "onboard_time": 1763114781,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106468,
+        "num": 145020,
+        "word": "鬼灭之刃制作组的厨力有多强",
+        "onboard_time": 1763116042,
+        "rank": 15,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 101453,
+        "num": 144459,
+        "word": "周深说对得起每一首歌",
+        "onboard_time": 1763115141,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46105,
+        "num": 143664,
+        "word": "华为影像XMAGE重返巴黎大皇宫",
+        "onboard_time": 1763115561,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 15056,
+        "num": 143008,
+        "word": "日本流感病例激增",
+        "onboard_time": 1763116342,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345263,
+        "num": 142853,
+        "word": "第一次感受到智性恋的魅力",
+        "onboard_time": 1763109680,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 430724,
+        "num": 142120,
+        "word": "何赛飞因行李箱被踹坏爆哭",
+        "onboard_time": 1763097560,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245643,
+        "num": 141512,
+        "word": "面试官问抽不抽烟",
+        "onboard_time": 1763107342,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 236580,
+        "num": 140858,
+        "word": "新闻联播三分钟警告高市早苗",
+        "onboard_time": 1763115741,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206580,
+        "num": 140275,
+        "word": "温峥嵘带货 微商产品",
+        "onboard_time": 1763110400,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165123,
+        "num": 139730,
+        "word": "冷美人1分钟视频报价50元",
+        "onboard_time": 1763113101,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139348,
+        "num": 139348,
+        "word": "大湾鸡被拎走",
+        "onboard_time": 1763110880,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133600,
+        "num": 133600,
+        "word": "迪丽热巴看到了啥",
+        "onboard_time": 1763111361,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126690,
+        "num": 126690,
+        "word": "33打卡点",
+        "onboard_time": 1763117060,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100355,
+        "num": 117304,
+        "word": "差点没认出这是闫妮",
+        "onboard_time": 1763116402,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83034,
+        "num": 115625,
+        "word": "4只航天鼠完成任务回地球",
+        "onboard_time": 1763116342,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 95041,
+        "num": 115019,
+        "word": "场外的郑钦文原来是这样的",
+        "onboard_time": 1763115501,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114983,
+        "num": 114983,
+        "word": "彭昱畅第一次见张凌赫",
+        "onboard_time": 1763104881,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114055,
+        "num": 114055,
+        "word": "马龙黄友政vs牛冠凯夏易正",
+        "onboard_time": 1763115141,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111735,
+        "num": 111735,
+        "word": "老外在中国待久了以后",
+        "onboard_time": 1763114902,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103980,
+        "num": 103980,
+        "word": "任嘉伦时隔八年再演皇帝",
+        "onboard_time": 1763116700,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100010,
+        "num": 100010,
+        "word": "蓝战非车祸伤口感染",
+        "onboard_time": 1763105600,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33615,
+        "num": 99811,
+        "word": "提倡零彩礼1年后于东来晒成绩单",
+        "onboard_time": 1763116161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85441,
+        "num": 99143,
+        "word": "联合国敌国条款仍然有效",
+        "onboard_time": 1763116342,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19789,
+        "num": 98466,
+        "word": "美国的人情世故",
+        "onboard_time": 1763116941,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 12327,
+        "num": 97433,
+        "word": "唐钱婷想继续灿烂微笑",
+        "onboard_time": 1763114480,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97241,
+        "num": 97241,
+        "word": "辛芷蕾 你整个本干啥",
+        "onboard_time": 1763114000,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94327,
+        "num": 97142,
+        "word": "颜值焦虑大多从头开始",
+        "onboard_time": 1763115980,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97131,
+        "num": 97131,
+        "word": "蹭衣拍照 退货",
+        "onboard_time": 1763105120,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65962,
+        "num": 96387,
+        "word": "刘宇宁心生一计",
+        "onboard_time": 1763115741,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96382,
+        "num": 96382,
+        "word": "iPhonePocket平替 袜子",
+        "onboard_time": 1763116461,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 96304,
+        "num": 96304,
+        "word": "艾米五官长开了",
+        "onboard_time": 1763103320,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95671,
+        "num": 95671,
+        "word": "JackeyLove和花海合影",
+        "onboard_time": 1763115922,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93710,
+        "num": 93710,
+        "word": "包上恩古风美成啥样了",
+        "onboard_time": 1763117000,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92971,
+        "num": 92971,
+        "word": "女子退手机壳白嫖千元羽绒服",
+        "onboard_time": 1763114480,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86378,
+        "num": 91172,
+        "word": "王源郑州跨年演唱会过审",
+        "onboard_time": 1763114000,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见泰国国王#"
+    }
+  }
+}
