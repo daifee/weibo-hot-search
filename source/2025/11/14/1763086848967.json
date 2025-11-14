@@ -1,0 +1,410 @@
+{
+  "runTime": 1763086848967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1583422,
+        "num": 1583422,
+        "word": "日本有事就是日本有事",
+        "onboard_time": 1763083701,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783263,
+        "num": 783263,
+        "word": "四川舰",
+        "onboard_time": 1763084539,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20304,
+        "num": 542577,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 511078,
+        "num": 511078,
+        "word": "董宇辉致歉口语多个语法错误",
+        "onboard_time": 1763079260,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 324698,
+        "num": 324698,
+        "word": "日本自卫队要恢复大佐军衔",
+        "onboard_time": 1763082681,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271963,
+        "num": 271963,
+        "word": "苹果AppleStore全新图标上线",
+        "onboard_time": 1763081901,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228457,
+        "num": 228457,
+        "word": "星辰大海谁睡着了",
+        "onboard_time": 1763077640,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 219482,
+        "num": 219482,
+        "word": "女子泄露国家秘密讨好外籍男友",
+        "onboard_time": 1763077640,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188546,
+        "num": 188546,
+        "word": "宋丹丹看张一山话剧哭了",
+        "onboard_time": 1763081300,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187238,
+        "num": 187238,
+        "word": "段奥娟首次提名金鸡奖",
+        "onboard_time": 1763080460,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 321892,
+        "num": 185934,
+        "word": "第二杯半价不是一个人喝两杯",
+        "onboard_time": 1763080401,
+        "rank": 10,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 234454,
+        "num": 185572,
+        "word": "iPhonePocket正式开售",
+        "onboard_time": 1763075958,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 228140,
+        "num": 184470,
+        "word": "孩子王回应复活",
+        "onboard_time": 1763085921,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183195,
+        "num": 183195,
+        "word": "狗咬人引杀人狗主人方认同防卫过当",
+        "onboard_time": 1763084599,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179179,
+        "num": 179179,
+        "word": "将门毒后制片人",
+        "onboard_time": 1763085439,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166042,
+        "num": 166042,
+        "word": "库里与安德玛分道扬镳",
+        "onboard_time": 1763081362,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130054,
+        "num": 130054,
+        "word": "C罗肘击染红",
+        "onboard_time": 1763076439,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122366,
+        "num": 122366,
+        "word": "不二之臣",
+        "onboard_time": 1763077040,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121004,
+        "num": 121004,
+        "word": "建议拆完快递的纸箱立马扔掉",
+        "onboard_time": 1763049500,
+        "rank": 18,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 113895,
+        "num": 113895,
+        "word": "唐诡3千年万岁椒花颂声",
+        "onboard_time": 1763085501,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 307990,
+        "num": 112633,
+        "word": "影视飓风Tim相亲被指很不真诚",
+        "onboard_time": 1763083579,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 290773,
+        "num": 111704,
+        "word": "徐志胜家到底有多脏",
+        "onboard_time": 1763034801,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269917,
+        "num": 110230,
+        "word": "黄晓明新签约艺人眼睛很大",
+        "onboard_time": 1763040382,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234212,
+        "num": 109779,
+        "word": "DK 许秀",
+        "onboard_time": 1763080401,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108765,
+        "num": 108765,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763049919,
+        "rank": 24,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 152486,
+        "num": 107909,
+        "word": "一度君华",
+        "onboard_time": 1763083879,
+        "rank": 25,
+        "category": "读书作家,作品衍生"
+      },
+      {
+        "raw_hot": 101714,
+        "num": 101714,
+        "word": "王楚钦说樊振东世界最强",
+        "onboard_time": 1763051419,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93565,
+        "num": 93565,
+        "word": "穆祉丞把徐晟津哄睡了",
+        "onboard_time": 1763078660,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88475,
+        "num": 93458,
+        "word": "新闻女王2全员呕吐手势舞",
+        "onboard_time": 1763086220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87189,
+        "num": 93376,
+        "word": "宋祖儿上午杀青下午进组",
+        "onboard_time": 1763058015,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139556,
+        "num": 93293,
+        "word": "白头发是身体发出的压力警告",
+        "onboard_time": 1763083701,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110258,
+        "num": 93090,
+        "word": "泰国国王抵达北京",
+        "onboard_time": 1763085380,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93081,
+        "num": 93081,
+        "word": "神22飞船择机发射",
+        "onboard_time": 1763079260,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92957,
+        "num": 92957,
+        "word": "石破茂反对高市早苗涉台挑衅言论",
+        "onboard_time": 1763078181,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 89485,
+        "num": 89485,
+        "word": "生活可以甜但身体可不兴太甜",
+        "onboard_time": 1763085800,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88564,
+        "num": 88564,
+        "word": "我国探明首个千吨级金矿",
+        "onboard_time": 1763082380,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87798,
+        "num": 87798,
+        "word": "年轻女子与7旬老人生女后弃养给保姆",
+        "onboard_time": 1763051478,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85066,
+        "num": 85066,
+        "word": "微信小程序将在iOS端接入虚拟支付",
+        "onboard_time": 1763085859,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 54634,
+        "num": 84580,
+        "word": "河北邢台一家五口遇害案开庭",
+        "onboard_time": 1763084900,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84509,
+        "num": 84509,
+        "word": "特朗普用AI生成逮捕奥巴马视频",
+        "onboard_time": 1763086039,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82481,
+        "num": 82481,
+        "word": "女子为过年赚差价囤大量烟花",
+        "onboard_time": 1763085980,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77207,
+        "num": 77207,
+        "word": "桃黑黑出演绣春刀",
+        "onboard_time": 1763086699,
+        "rank": 41,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 76719,
+        "num": 76719,
+        "word": "上海一车辆冲入长江有人员身亡",
+        "onboard_time": 1763085199,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75758,
+        "num": 75758,
+        "word": "欧洲人民工资到1w是什么概念",
+        "onboard_time": 1763075417,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75710,
+        "num": 75710,
+        "word": "一家五口遇害案家中血迹还在",
+        "onboard_time": 1763085260,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75433,
+        "num": 75433,
+        "word": "阿里烧鸭饭",
+        "onboard_time": 1763084419,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 73779,
+        "num": 73779,
+        "word": "库里回应与安德玛分道扬镳",
+        "onboard_time": 1763086699,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70703,
+        "num": 70703,
+        "word": "卢昱晓LV千金风",
+        "onboard_time": 1763080100,
+        "rank": 47,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 69723,
+        "num": 69723,
+        "word": "唐诡3拍出太平公主和上官婉儿",
+        "onboard_time": 1763040141,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68979,
+        "num": 68979,
+        "word": "海军四川舰开展首次航行试验",
+        "onboard_time": 1763083579,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763085556500,
+  "endTime": 1763086848967,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -65,6 +65,14 @@
       "onboard_time": 1762690584,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1583422,
+      "num": 1583422,
+      "word": "日本有事就是日本有事",
+      "onboard_time": 1763083701,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1582542,
@@ -137,14 +145,6 @@
       "onboard_time": 1762996700,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1429223,
-      "num": 1429223,
-      "word": "日本有事就是日本有事",
-      "onboard_time": 1763083701,
-      "rank": 0,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1348771,
@@ -593,6 +593,14 @@
       "onboard_time": 1762837462,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 783263,
+      "num": 783263,
+      "word": "四川舰",
+      "onboard_time": 1763084539,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 782857,
@@ -3027,6 +3035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 324698,
+      "num": 324698,
+      "word": "日本自卫队要恢复大佐军衔",
+      "onboard_time": 1763082681,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 324651,
       "num": 249190,
       "word": "蔡徐坤音乐节",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1763038281,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 321892,
+      "num": 185934,
+      "word": "第二杯半价不是一个人喝两杯",
+      "onboard_time": 1763080401,
+      "rank": 15,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 321842,
@@ -3217,6 +3241,14 @@
       "onboard_time": 1762780822,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307990,
+      "num": 142594,
+      "word": "影视飓风Tim相亲被指很不真诚",
+      "onboard_time": 1763083579,
+      "rank": 22,
+      "category": "互联网"
     },
     {
       "raw_hot": 307331,
@@ -3377,14 +3409,6 @@
       "onboard_time": 1763080401,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 298463,
-      "num": 298463,
-      "word": "日本自卫队要恢复大佐军衔",
-      "onboard_time": 1763082681,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 297694,
@@ -3827,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271963,
+      "num": 271963,
+      "word": "苹果AppleStore全新图标上线",
+      "onboard_time": 1763081901,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 271480,
       "num": 187469,
       "word": "GAI庆功宴王鹤棣送8万红包",
@@ -4027,14 +4059,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259748,
-      "num": 259748,
-      "word": "苹果AppleStore全新图标上线",
-      "onboard_time": 1763081901,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 258903,
       "num": 169200,
       "word": "树莓复出",
@@ -4129,14 +4153,6 @@
       "onboard_time": 1762924221,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 251439,
-      "num": 142594,
-      "word": "影视飓风Tim相亲被指很不真诚",
-      "onboard_time": 1763083579,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 251235,
@@ -4513,6 +4529,14 @@
       "onboard_time": 1762689740,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228140,
+      "num": 184470,
+      "word": "孩子王回应复活",
+      "onboard_time": 1763085921,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 227556,
@@ -5161,14 +5185,6 @@
       "onboard_time": 1762650679,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201592,
-      "num": 201592,
-      "word": "四川舰",
-      "onboard_time": 1763084539,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 201516,
@@ -5915,6 +5931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183195,
+      "num": 183195,
+      "word": "狗咬人引杀人狗主人方认同防卫过当",
+      "onboard_time": 1763084599,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183032,
       "num": 178740,
       "word": "时代峰峻 双十一活动",
@@ -6025,6 +6049,14 @@
       "onboard_time": 1763021961,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179179,
+      "num": 179179,
+      "word": "将门毒后制片人",
+      "onboard_time": 1763085439,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 178865,
@@ -6979,14 +7011,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157591,
-      "num": 157591,
-      "word": "第二杯半价不是一个人喝两杯",
-      "onboard_time": 1763080401,
-      "rank": 15,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 157521,
       "num": 204096,
       "word": "孙颖莎4比0胜刘炜珊",
@@ -7275,6 +7299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152486,
+      "num": 142424,
+      "word": "一度君华",
+      "onboard_time": 1763083879,
+      "rank": 23,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 152458,
       "num": 164291,
       "word": "奔跑吧天路篇定档直播",
@@ -7393,14 +7425,6 @@
       "onboard_time": 1762785441,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 149670,
-      "num": 142424,
-      "word": "一度君华",
-      "onboard_time": 1763083879,
-      "rank": 23,
-      "category": "读书作家,作品衍生"
     },
     {
       "raw_hot": 149605,
@@ -7993,6 +8017,14 @@
       "onboard_time": 1762859480,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139556,
+      "num": 117528,
+      "word": "白头发是身体发出的压力警告",
+      "onboard_time": 1763083701,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139344,
@@ -9915,14 +9947,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 117528,
-      "num": 117528,
-      "word": "白头发是身体发出的压力警告",
-      "onboard_time": 1763083701,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 117482,
       "num": 117482,
       "word": "肖战上了锦州英语试卷",
@@ -10249,6 +10273,14 @@
       "onboard_time": 1762832961,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113895,
+      "num": 113895,
+      "word": "唐诡3千年万岁椒花颂声",
+      "onboard_time": 1763085501,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 113640,
@@ -10617,6 +10649,14 @@
       "onboard_time": 1762592720,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110258,
+      "num": 93090,
+      "word": "泰国国王抵达北京",
+      "onboard_time": 1763085380,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110257,
@@ -13163,14 +13203,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91874,
-      "num": 91874,
-      "word": "泰国国王抵达北京",
-      "onboard_time": 1763085380,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91866,
       "num": 91866,
       "word": "杨雨潼 建桥女工",
@@ -13579,6 +13611,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89485,
+      "num": 89485,
+      "word": "生活可以甜但身体可不兴太甜",
+      "onboard_time": 1763085800,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 89449,
       "num": 89449,
       "word": "孙颖莎低头一看拉开挡板",
@@ -13721,6 +13761,14 @@
       "onboard_time": 1762666519,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88475,
+      "num": 93458,
+      "word": "新闻女王2全员呕吐手势舞",
+      "onboard_time": 1763086220,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 88451,
@@ -14243,6 +14291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85066,
+      "num": 85066,
+      "word": "微信小程序将在iOS端接入虚拟支付",
+      "onboard_time": 1763085859,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 84926,
       "num": 118397,
       "word": "小酒窝最近迷上了拼豆",
@@ -14297,6 +14353,14 @@
       "onboard_time": 1762916540,
       "rank": 49,
       "category": "美食"
+    },
+    {
+      "raw_hot": 84509,
+      "num": 84509,
+      "word": "特朗普用AI生成逮捕奥巴马视频",
+      "onboard_time": 1763086039,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 84485,
@@ -14497,6 +14561,14 @@
       "onboard_time": 1763019501,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82481,
+      "num": 82481,
+      "word": "女子为过年赚差价囤大量烟花",
+      "onboard_time": 1763085980,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82467,
@@ -14931,14 +15003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 78985,
-      "num": 78985,
-      "word": "唐诡3千年万岁椒花颂声",
-      "onboard_time": 1763085501,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78911,
       "num": 151312,
       "word": "同手同脚大湾鸡",
@@ -15075,14 +15139,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 77828,
-      "num": 77828,
-      "word": "将门毒后制片人",
-      "onboard_time": 1763085439,
-      "rank": 48,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77663,
       "num": 150369,
       "word": "家长都在请马丁喝奶茶",
@@ -15155,6 +15211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77207,
+      "num": 77207,
+      "word": "桃黑黑出演绣春刀",
+      "onboard_time": 1763086699,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 77205,
       "num": 101600,
       "word": "京东青春采销成团送大奖",
@@ -15185,6 +15249,14 @@
       "onboard_time": 1762657400,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 76719,
+      "num": 76719,
+      "word": "上海一车辆冲入长江有人员身亡",
+      "onboard_time": 1763085199,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76556,
@@ -15273,14 +15345,6 @@
       "onboard_time": 1762657460,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 75778,
-      "num": 75778,
-      "word": "上海一车辆冲入长江有人员身亡",
-      "onboard_time": 1763085199,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75612,
@@ -15497,6 +15561,14 @@
       "onboard_time": 1763004079,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 73779,
+      "num": 73779,
+      "word": "库里回应与安德玛分道扬镳",
+      "onboard_time": 1763086699,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 73732,
@@ -17865,14 +17937,6 @@
       "onboard_time": 1763017221,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42631,
-      "num": 92270,
-      "word": "狗咬人引杀人狗主人方认同防卫过当",
-      "onboard_time": 1763084599,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 42477,

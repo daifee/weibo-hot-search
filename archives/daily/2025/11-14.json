@@ -1,13 +1,21 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763085556500,
+  "endTime": 1763086848967,
   "band_list": [
     {
-      "raw_hot": 1429223,
-      "num": 1429223,
+      "raw_hot": 1583422,
+      "num": 1583422,
       "word": "日本有事就是日本有事",
       "onboard_time": 1763083701,
       "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 783263,
+      "num": 783263,
+      "word": "四川舰",
+      "onboard_time": 1763084539,
+      "rank": 10,
       "category": "国内时政"
     },
     {
@@ -59,6 +67,30 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 324698,
+      "num": 324698,
+      "word": "日本自卫队要恢复大佐军衔",
+      "onboard_time": 1763082681,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 321892,
+      "num": 185934,
+      "word": "第二杯半价不是一个人喝两杯",
+      "onboard_time": 1763080401,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 307990,
+      "num": 142594,
+      "word": "影视飓风Tim相亲被指很不真诚",
+      "onboard_time": 1763083579,
+      "rank": 22,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 300153,
       "num": 300153,
       "word": "女子泄露国家秘密讨好外籍男友",
@@ -73,14 +105,6 @@
       "onboard_time": 1763080401,
       "rank": 20,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 298463,
-      "num": 298463,
-      "word": "日本自卫队要恢复大佐军衔",
-      "onboard_time": 1763082681,
-      "rank": 4,
-      "category": "国际时政"
     },
     {
       "raw_hot": 280782,
@@ -107,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271963,
+      "num": 271963,
+      "word": "苹果AppleStore全新图标上线",
+      "onboard_time": 1763081901,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 262157,
       "num": 262157,
       "word": "星辰大海谁睡着了",
@@ -123,28 +155,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259748,
-      "num": 259748,
-      "word": "苹果AppleStore全新图标上线",
-      "onboard_time": 1763081901,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 258675,
       "num": 258675,
       "word": "段奥娟首次提名金鸡奖",
       "onboard_time": 1763080460,
       "rank": 8,
       "category": "电影"
-    },
-    {
-      "raw_hot": 251439,
-      "num": 142594,
-      "word": "影视飓风Tim相亲被指很不真诚",
-      "onboard_time": 1763083579,
-      "rank": 22,
-      "category": "互联网"
     },
     {
       "raw_hot": 231217,
@@ -163,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228140,
+      "num": 184470,
+      "word": "孩子王回应复活",
+      "onboard_time": 1763085921,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223767,
       "num": 223767,
       "word": "唐诡3拍出太平公主和上官婉儿",
@@ -179,14 +203,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 201592,
-      "num": 201592,
-      "word": "四川舰",
-      "onboard_time": 1763084539,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 195372,
       "num": 195372,
       "word": "美股",
@@ -201,6 +217,22 @@
       "onboard_time": 1763081362,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 183195,
+      "num": 183195,
+      "word": "狗咬人引杀人狗主人方认同防卫过当",
+      "onboard_time": 1763084599,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 179179,
+      "num": 179179,
+      "word": "将门毒后制片人",
+      "onboard_time": 1763085439,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 176037,
@@ -267,14 +299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157591,
-      "num": 157591,
-      "word": "第二杯半价不是一个人喝两杯",
-      "onboard_time": 1763080401,
-      "rank": 15,
-      "category": "幽默,情感"
-    },
-    {
       "raw_hot": 155575,
       "num": 132415,
       "word": "徐志胜 我家那小子",
@@ -283,7 +307,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 149670,
+      "raw_hot": 152486,
       "num": 142424,
       "word": "一度君华",
       "onboard_time": 1763083879,
@@ -305,6 +329,14 @@
       "onboard_time": 1763078181,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139556,
+      "num": 117528,
+      "word": "白头发是身体发出的压力警告",
+      "onboard_time": 1763083701,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 137185,
@@ -355,14 +387,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117528,
-      "num": 117528,
-      "word": "白头发是身体发出的压力警告",
-      "onboard_time": 1763083701,
-      "rank": 33,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 115784,
       "num": 115784,
       "word": "独家视频看076首舰四川舰",
@@ -379,12 +403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113895,
+      "num": 113895,
+      "word": "唐诡3千年万岁椒花颂声",
+      "onboard_time": 1763085501,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 110380,
       "num": 136571,
       "word": "控糖到了80多岁的皮肤状态",
       "onboard_time": 1763031501,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110258,
+      "num": 93090,
+      "word": "泰国国王抵达北京",
+      "onboard_time": 1763085380,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108575,
@@ -499,14 +539,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 91874,
-      "num": 91874,
-      "word": "泰国国王抵达北京",
-      "onboard_time": 1763085380,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 91770,
       "num": 138593,
       "word": "文科生的天塌了又塌",
@@ -515,11 +547,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89485,
+      "num": 89485,
+      "word": "生活可以甜但身体可不兴太甜",
+      "onboard_time": 1763085800,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88789,
       "num": 137881,
       "word": "历年爆剧",
       "onboard_time": 1763035461,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 88475,
+      "num": 93458,
+      "word": "新闻女王2全员呕吐手势舞",
+      "onboard_time": 1763086220,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -547,6 +595,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 85066,
+      "num": 85066,
+      "word": "微信小程序将在iOS端接入虚拟支付",
+      "onboard_time": 1763085859,
+      "rank": 37,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 84509,
+      "num": 84509,
+      "word": "特朗普用AI生成逮捕奥巴马视频",
+      "onboard_time": 1763086039,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84223,
       "num": 136366,
       "word": "长白头发可能是缺乏这3种营养",
@@ -568,6 +632,14 @@
       "word": "专家提醒慎用电子咖啡手环",
       "onboard_time": 1763078540,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82481,
+      "num": 82481,
+      "word": "女子为过年赚差价囤大量烟花",
+      "onboard_time": 1763085980,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -595,28 +667,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 78985,
-      "num": 78985,
-      "word": "唐诡3千年万岁椒花颂声",
-      "onboard_time": 1763085501,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77945,
       "num": 127358,
       "word": "金鸡影帝含金量",
       "onboard_time": 1763075297,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 77828,
-      "num": 77828,
-      "word": "将门毒后制片人",
-      "onboard_time": 1763085439,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 77759,
@@ -627,6 +683,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 77207,
+      "num": 77207,
+      "word": "桃黑黑出演绣春刀",
+      "onboard_time": 1763086699,
+      "rank": 41,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 76771,
       "num": 76771,
       "word": "你俩亲脸都这样了亲嘴还得了",
@@ -635,8 +699,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 75778,
-      "num": 75778,
+      "raw_hot": 76719,
+      "num": 76719,
       "word": "上海一车辆冲入长江有人员身亡",
       "onboard_time": 1763085199,
       "rank": 49,
@@ -649,6 +713,14 @@
       "onboard_time": 1763061493,
       "rank": 23,
       "category": "艺人,美妆"
+    },
+    {
+      "raw_hot": 73779,
+      "num": 73779,
+      "word": "库里回应与安德玛分道扬镳",
+      "onboard_time": 1763086699,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 73728,
@@ -843,14 +915,6 @@
       "category": "互联网,财经"
     },
     {
-      "raw_hot": 42631,
-      "num": 92270,
-      "word": "狗咬人引杀人狗主人方认同防卫过当",
-      "onboard_time": 1763084599,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 41074,
       "num": 133788,
       "word": "猫咪害怕到不敢看医生一眼",
@@ -924,7 +988,7 @@
     },
     {
       "raw_hot": 27890,
-      "num": 379280,
+      "num": 542577,
       "word": "第十五届全运会",
       "onboard_time": 1763040982,
       "rank": 2,
