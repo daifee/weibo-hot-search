@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 10:20:48
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 11:20:26
 </p>
 </blockquote>
 <p>
@@ -89,6 +89,12 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%9B%9E%E5%BA%94%E4%B8%9C%E4%BA%AC%E7%94%B5%E5%BD%B1%E8%8A%82%E4%BA%89%E8%AE%AE%23" target="weibo">
 白百何回应东京电影节争议（热度：2901190）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%B3%BB%E7%BA%AC%E9%81%93%E6%AD%89%23" target="weibo">
+周峻纬道歉（热度：2901099）
 </a>
 </li>
 
@@ -995,6 +1001,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E4%BA%8C%E5%A5%B3%E5%84%BF%E8%B0%88%E5%85%B7%E4%BF%8A%E6%99%94%E6%9A%B4%E7%98%A6%23" target="weibo">
 小S二女儿谈具俊晔暴瘦（热度：881192）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%8E%8B%20%E5%A4%8D%E6%B4%BB%23" target="weibo">
+孩子王 复活（热度：877132）
 </a>
 </li>
 
@@ -3489,6 +3501,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E6%9D%AF%E5%8D%8A%E4%BB%B7%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%96%9D%E4%B8%A4%E6%9D%AF%23" target="weibo">
+第二杯半价不是一个人喝两杯（热度：463506）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%8E%A5%E8%BF%98%E7%8F%A0%E5%9B%9E%E5%AE%AB%23" target="weibo">
 湖南卫视接还珠回宫（热度：463450）
 </a>
@@ -4437,6 +4455,12 @@ ally因整容擤不出鼻涕（热度：402082）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%92%AC%E4%BA%BA%E5%BC%95%E6%9D%80%E4%BA%BA%E7%8B%97%E4%B8%BB%E4%BA%BA%E6%96%B9%E8%AE%A4%E5%90%8C%E9%98%B2%E5%8D%AB%E8%BF%87%E5%BD%93%23" target="weibo">
+狗咬人引杀人狗主人方认同防卫过当（热度：384865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E7%AB%A0%E8%8B%A5%E6%A5%A0%E5%90%88%E5%94%B1%E7%89%B5%E6%89%8B%E4%BA%86%23" target="weibo">
 汪苏泷章若楠合唱牵手了（热度：384478）
 </a>
@@ -4463,6 +4487,12 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%89%8B%E9%87%8C%E6%8B%BF%E7%9A%84%E6%98%AF%E5%A4%A7%E6%B9%BE%E9%B8%A1%23" target="weibo">
 肖战手里拿的是大湾鸡（热度：382969）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%AD%99%E9%97%BB%23" target="weibo">
+樊振东vs孙闻（热度：382714）
 </a>
 </li>
 
@@ -4805,6 +4835,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E5%86%A0%E5%86%9B%E5%A5%96%E5%8A%B1%23" target="weibo">
 苏超冠军奖励（热度：363139）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%86%9B%E5%8F%B7%E7%94%A8%E6%97%A5%E8%AF%AD%E5%8F%91%E6%96%87%23" target="weibo">
+中国军号用日语发文（热度：362703）
 </a>
 </li>
 
@@ -5211,6 +5247,12 @@ Faker自拍配文成都（热度：342872）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E7%A5%96%E5%84%BF%E5%A4%BA%E5%9B%9E%E5%A4%B1%E5%8E%BB%E7%9A%84%E9%82%A3%E4%B8%80%E5%B9%B4%23" target="weibo">
+宋祖儿夺回失去的那一年（热度：336598）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%E6%96%B0%E5%B7%A5%E6%9C%8D%20%E8%B5%9B%E8%BD%A6%E6%9C%8D%23" target="weibo">
 饿了么骑手新工服 赛车服（热度：336482）
 </a>
@@ -5543,12 +5585,6 @@ iPhone18Pro升级工艺（热度：325186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E6%95%99JackeyLove%E6%89%AB%E8%85%BF%E8%88%9E%23" target="weibo">
 一诺教JackeyLove扫腿舞（热度：321995）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E6%9D%AF%E5%8D%8A%E4%BB%B7%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%96%9D%E4%B8%A4%E6%9D%AF%23" target="weibo">
-第二杯半价不是一个人喝两杯（热度：321892）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ Faker回应打LPL没输过（热度：302785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%96%91%E7%A7%B0%E9%9F%A9%E7%8B%AC%E5%B2%9B%E6%98%AF%E6%97%A5%E5%9B%BA%E6%9C%89%E9%A2%86%E5%9C%9F%23" target="weibo">
 高市早苗疑称韩独岛是日固有领土（热度：300695）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%A6%8D%E5%81%9A%E9%A5%AD%E6%98%AF%E6%9C%89%E4%BB%80%E4%B9%88KPI%E5%90%97%23" target="weibo">
-姜妍做饭是有什么KPI吗（热度：300684）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B3%84%E9%9C%B2%E5%9B%BD%E5%AE%B6%E7%A7%98%E5%AF%86%E8%AE%A8%E5%A5%BD%E5%A4%96%E7%B1%8D%E7%94%B7%E5%8F%8B%23" target="weibo">
-女子泄露国家秘密讨好外籍男友（热度：300153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2330%E5%B2%81%E5%B0%8F%E4%BC%99%E9%95%BF%E6%9C%9F%E7%86%AC%E5%A4%9C%E6%99%BA%E5%8A%9B%E9%80%80%E5%9B%9E3%E5%B2%81%23" target="weibo">
-30岁小伙长期熬夜智力退回3岁（热度：299925）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E6%B9%BE%E4%BB%94%E9%99%88%E5%B0%8F%E6%98%A5%E5%BF%AB%E5%85%A5%E7%BC%96%E4%BA%86%E5%90%A7%23" target="weibo">
-大湾仔陈小春快入编了吧（热度：299864）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E7%A5%96%E6%AF%8D%E7%BB%BF%E9%AB%98%E7%8F%A0%23" target="weibo">
-张婧仪祖母绿高珠（热度：299738）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%A3%8A%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E7%88%B1%E8%AF%B4%E6%95%99%23" target="weibo">
-黄磊回应被指爱说教（热度：299530）
 </a>
 </li>
 

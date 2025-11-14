@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763086848967,
+  "endTime": 1763090426351,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -17,6 +17,14 @@
       "onboard_time": 1762690403,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2901099,
+      "num": 172967,
+      "word": "周峻纬道歉",
+      "onboard_time": 1763087778,
+      "rank": 20,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 2209751,
@@ -457,6 +465,14 @@
       "onboard_time": 1762675759,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 877132,
+      "num": 190187,
+      "word": "孩子王 复活",
+      "onboard_time": 1763089880,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 873165,
@@ -1867,6 +1883,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 463506,
+      "num": 190114,
+      "word": "第二杯半价不是一个人喝两杯",
+      "onboard_time": 1763080401,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 463450,
       "num": 463450,
       "word": "湖南卫视接还珠回宫",
@@ -2419,6 +2443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 384865,
+      "num": 189918,
+      "word": "狗咬人引杀人狗主人方认同防卫过当",
+      "onboard_time": 1763084599,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 384478,
       "num": 384478,
       "word": "汪苏泷章若楠合唱牵手了",
@@ -2441,6 +2473,14 @@
       "onboard_time": 1762936401,
       "rank": 34,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 382714,
+      "num": 382714,
+      "word": "樊振东vs孙闻",
+      "onboard_time": 1763088800,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 382333,
@@ -2617,6 +2657,14 @@
       "onboard_time": 1762657100,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 362703,
+      "num": 362703,
+      "word": "中国军号用日语发文",
+      "onboard_time": 1763088920,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 362601,
@@ -2875,6 +2923,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 336598,
+      "num": 189409,
+      "word": "宋祖儿夺回失去的那一年",
+      "onboard_time": 1763087181,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 335927,
       "num": 206602,
       "word": "只有女生才懂的暴爽瞬间",
@@ -3097,14 +3153,6 @@
       "onboard_time": 1763038281,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 321892,
-      "num": 185934,
-      "word": "第二杯半价不是一个人喝两杯",
-      "onboard_time": 1763080401,
-      "rank": 15,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 321842,
@@ -4035,6 +4083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260361,
+      "num": 260361,
+      "word": "多方退出银河酷娱股东行列",
+      "onboard_time": 1763088739,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 260223,
       "num": 294993,
       "word": "李昀锐跑男知名角落艺术家",
@@ -4113,6 +4169,14 @@
       "onboard_time": 1762947201,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 254075,
+      "num": 189275,
+      "word": "孩子王回应复活",
+      "onboard_time": 1763085921,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 253796,
@@ -4529,14 +4593,6 @@
       "onboard_time": 1762689740,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 228140,
-      "num": 184470,
-      "word": "孩子王回应复活",
-      "onboard_time": 1763085921,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 227556,
@@ -5531,6 +5587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191740,
+      "num": 191740,
+      "word": "徐晟津就星辰大海睡觉道歉",
+      "onboard_time": 1763089161,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191552,
       "num": 191552,
       "word": "郎平红包",
@@ -5611,6 +5675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190333,
+      "num": 190333,
+      "word": "新闻女王2全员呕吐手势舞",
+      "onboard_time": 1763086220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190248,
       "num": 185012,
       "word": "谢霆锋带着丁真翻车了",
@@ -5664,6 +5736,14 @@
       "word": "爱奇艺2025破万剧",
       "onboard_time": 1762873881,
       "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188569,
+      "num": 179179,
+      "word": "将门毒后制片人",
+      "onboard_time": 1763085439,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -5931,14 +6011,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183195,
-      "num": 183195,
-      "word": "狗咬人引杀人狗主人方认同防卫过当",
-      "onboard_time": 1763084599,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183032,
       "num": 178740,
       "word": "时代峰峻 双十一活动",
@@ -6049,14 +6121,6 @@
       "onboard_time": 1763021961,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 179179,
-      "num": 179179,
-      "word": "将门毒后制片人",
-      "onboard_time": 1763085439,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 178865,
@@ -6417,6 +6481,14 @@
       "onboard_time": 1762863621,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168871,
+      "num": 127449,
+      "word": "杨舒予 我到底要不要过去扶",
+      "onboard_time": 1763087841,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 168084,
@@ -6809,6 +6881,14 @@
       "onboard_time": 1762659680,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160825,
+      "num": 127116,
+      "word": "王一博刷粉丝发的赛车视频",
+      "onboard_time": 1763089760,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 160588,
@@ -7217,6 +7297,14 @@
       "onboard_time": 1762662141,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154035,
+      "num": 126480,
+      "word": "武艺理想型原来是沈月",
+      "onboard_time": 1763089940,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 153736,
@@ -8020,7 +8108,7 @@
     },
     {
       "raw_hot": 139556,
-      "num": 117528,
+      "num": 120199,
       "word": "白头发是身体发出的压力警告",
       "onboard_time": 1763083701,
       "rank": 33,
@@ -8115,6 +8203,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 138034,
+      "num": 138034,
+      "word": "李柯以余茵新剧演母女",
+      "onboard_time": 1763089819,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 137926,
       "num": 137926,
       "word": "A股",
@@ -8201,6 +8297,14 @@
       "onboard_time": 1762869683,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 137052,
+      "num": 128209,
+      "word": "小鹏X9超级增程动态评测全网首发",
+      "onboard_time": 1763089880,
+      "rank": 27,
+      "category": "汽车"
     },
     {
       "raw_hot": 137017,
@@ -8321,6 +8425,14 @@
       "onboard_time": 1763021420,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135108,
+      "num": 135108,
+      "word": "许昕周恺3比1曹彦涛陈亚轩",
+      "onboard_time": 1763089819,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 135048,
@@ -8667,6 +8779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130410,
+      "num": 174185,
+      "word": "张颜齐看见杨紫喊夏雨",
+      "onboard_time": 1763090061,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 130316,
       "num": 151337,
       "word": "贺峻霖还没忘记连赢谢娜14局",
@@ -8873,6 +8993,14 @@
       "onboard_time": 1762874002,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 128240,
+      "num": 128240,
+      "word": "王曼昱说陈梦再返赛场优势非常强",
+      "onboard_time": 1763088440,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 128217,
@@ -9145,6 +9273,14 @@
       "onboard_time": 1762770560,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125239,
+      "num": 125239,
+      "word": "紫藤花雨的花语是晚安小忍",
+      "onboard_time": 1763090061,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 125183,
@@ -9731,6 +9867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119290,
+      "num": 119290,
+      "word": "中国军号警告日本",
+      "onboard_time": 1763090240,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119261,
       "num": 163113,
       "word": "淘宝抽奖",
@@ -9987,6 +10131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117076,
+      "num": 127921,
+      "word": "唐诡3千年万岁椒花颂声",
+      "onboard_time": 1763085501,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 116974,
       "num": 116974,
       "word": "郭俊辰未修原图",
@@ -10203,6 +10355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115035,
+      "num": 115035,
+      "word": "年轻人你离糖尿病有多远",
+      "onboard_time": 1763088020,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 114975,
       "num": 114975,
       "word": "邓恩熙扭这一下",
@@ -10273,14 +10433,6 @@
       "onboard_time": 1762832961,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 113895,
-      "num": 113895,
-      "word": "唐诡3千年万岁椒花颂声",
-      "onboard_time": 1763085501,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 113640,
@@ -10652,7 +10804,7 @@
     },
     {
       "raw_hot": 110258,
-      "num": 93090,
+      "num": 127708,
       "word": "泰国国王抵达北京",
       "onboard_time": 1763085380,
       "rank": 40,
@@ -10801,6 +10953,14 @@
       "onboard_time": 1762859721,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108991,
+      "num": 108991,
+      "word": "饼狗心火烧",
+      "onboard_time": 1763090120,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 108577,
@@ -11267,6 +11427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105031,
+      "num": 105031,
+      "word": "女子为过年赚差价囤大量烟花",
+      "onboard_time": 1763085980,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105014,
       "num": 152180,
       "word": "正告日方在台湾问题上玩火必自焚",
@@ -11665,6 +11833,14 @@
       "onboard_time": 1763008701,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 102552,
+      "num": 102552,
+      "word": "马龙全运会首秀",
+      "onboard_time": 1763088980,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102545,
@@ -12153,6 +12329,14 @@
       "onboard_time": 1763033601,
       "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99300,
+      "num": 99300,
+      "word": "第一次吃竹薯",
+      "onboard_time": 1763089760,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99262,
@@ -13235,6 +13419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91742,
+      "num": 189638,
+      "word": "外交部召见日本大使提出严正交涉",
+      "onboard_time": 1763088980,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 91735,
       "num": 91735,
       "word": "李逗逗这段看爽了",
@@ -13763,14 +13955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 88475,
-      "num": 93458,
-      "word": "新闻女王2全员呕吐手势舞",
-      "onboard_time": 1763086220,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88451,
       "num": 88451,
       "word": "韩网爆料T1转会动态",
@@ -13937,6 +14121,14 @@
       "onboard_time": 1762827380,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 87522,
+      "num": 126770,
+      "word": "南京地铁辟谣安保因化妆被离职",
+      "onboard_time": 1763088800,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87451,
@@ -14371,6 +14563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84446,
+      "num": 105238,
+      "word": "前时代峰峻三代同堂",
+      "onboard_time": 1763088980,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84321,
       "num": 84321,
       "word": "T1对阵海报",
@@ -14563,14 +14763,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82481,
-      "num": 82481,
-      "word": "女子为过年赚差价囤大量烟花",
-      "onboard_time": 1763085980,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82467,
       "num": 82467,
       "word": "一家五口遇害案家中血迹还在",
@@ -14593,6 +14785,14 @@
       "onboard_time": 1763041041,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82315,
+      "num": 119320,
+      "word": "陈乔恩梁雪峰这段一秒都不用剪",
+      "onboard_time": 1763090300,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 82309,
@@ -16409,6 +16609,14 @@
       "onboard_time": 1762672700,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 63769,
+      "num": 173719,
+      "word": "糖尿病人群患带状疱疹风险更高",
+      "onboard_time": 1763089880,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 63731,
@@ -18443,12 +18651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34507,
+      "num": 119398,
+      "word": "醉驾男举报洗浴中心容留卖淫获轻判",
+      "onboard_time": 1763090061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34270,
       "num": 54763,
       "word": "丁禹兮山河枕卫视收视第一",
       "onboard_time": 1762899075,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34147,
+      "num": 100874,
+      "word": "网红称坐国际航班丢失350万元首饰",
+      "onboard_time": 1763088859,
+      "rank": 48,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 33934,
@@ -19625,6 +19849,14 @@
       "onboard_time": 1762979593,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 11688,
+      "num": 119518,
+      "word": "中国打碎日本小算盘",
+      "onboard_time": 1763090061,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11630,

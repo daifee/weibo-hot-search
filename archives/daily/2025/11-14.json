@@ -1,7 +1,15 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763086848967,
+  "endTime": 1763090426351,
   "band_list": [
+    {
+      "raw_hot": 2901099,
+      "num": 172967,
+      "word": "周峻纬道歉",
+      "onboard_time": 1763087778,
+      "rank": 20,
+      "category": "艺人,游戏"
+    },
     {
       "raw_hot": 1583422,
       "num": 1583422,
@@ -9,6 +17,14 @@
       "onboard_time": 1763083701,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 877132,
+      "num": 190187,
+      "word": "孩子王 复活",
+      "onboard_time": 1763089880,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 783263,
@@ -35,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 463506,
+      "num": 190114,
+      "word": "第二杯半价不是一个人喝两杯",
+      "onboard_time": 1763080401,
+      "rank": 15,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 435412,
       "num": 201340,
       "word": "黄晓明新签约艺人眼睛很大",
@@ -51,12 +75,36 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 384865,
+      "num": 189918,
+      "word": "狗咬人引杀人狗主人方认同防卫过当",
+      "onboard_time": 1763084599,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382714,
+      "num": 382714,
+      "word": "樊振东vs孙闻",
+      "onboard_time": 1763088800,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 379593,
       "num": 160777,
       "word": "年轻女子与7旬老人生女后弃养给保姆",
       "onboard_time": 1763051478,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362703,
+      "num": 362703,
+      "word": "中国军号用日语发文",
+      "onboard_time": 1763088920,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 337805,
@@ -67,20 +115,20 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 336598,
+      "num": 189409,
+      "word": "宋祖儿夺回失去的那一年",
+      "onboard_time": 1763087181,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 324698,
       "num": 324698,
       "word": "日本自卫队要恢复大佐军衔",
       "onboard_time": 1763082681,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 321892,
-      "num": 185934,
-      "word": "第二杯半价不是一个人喝两杯",
-      "onboard_time": 1763080401,
-      "rank": 15,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 307990,
@@ -155,12 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260361,
+      "num": 260361,
+      "word": "多方退出银河酷娱股东行列",
+      "onboard_time": 1763088739,
+      "rank": 6,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 258675,
       "num": 258675,
       "word": "段奥娟首次提名金鸡奖",
       "onboard_time": 1763080460,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254075,
+      "num": 189275,
+      "word": "孩子王回应复活",
+      "onboard_time": 1763085921,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 231217,
@@ -177,14 +241,6 @@
       "onboard_time": 1763046622,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228140,
-      "num": 184470,
-      "word": "孩子王回应复活",
-      "onboard_time": 1763085921,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 223767,
@@ -211,28 +267,36 @@
       "category": "财经"
     },
     {
+      "raw_hot": 191740,
+      "num": 191740,
+      "word": "徐晟津就星辰大海睡觉道歉",
+      "onboard_time": 1763089161,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 190333,
+      "num": 190333,
+      "word": "新闻女王2全员呕吐手势舞",
+      "onboard_time": 1763086220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188569,
+      "num": 179179,
+      "word": "将门毒后制片人",
+      "onboard_time": 1763085439,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186540,
       "num": 186540,
       "word": "库里与安德玛分道扬镳",
       "onboard_time": 1763081362,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 183195,
-      "num": 183195,
-      "word": "狗咬人引杀人狗主人方认同防卫过当",
-      "onboard_time": 1763084599,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 179179,
-      "num": 179179,
-      "word": "将门毒后制片人",
-      "onboard_time": 1763085439,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 176037,
@@ -259,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168871,
+      "num": 127449,
+      "word": "杨舒予 我到底要不要过去扶",
+      "onboard_time": 1763087841,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167704,
       "num": 159489,
       "word": "银行4年3次采购工作服花619万",
@@ -283,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160825,
+      "num": 127116,
+      "word": "王一博刷粉丝发的赛车视频",
+      "onboard_time": 1763089760,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160408,
       "num": 141186,
       "word": "男子因朋友圈无人点赞患上抑郁症",
@@ -304,6 +384,14 @@
       "word": "徐志胜 我家那小子",
       "onboard_time": 1763053517,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 154035,
+      "num": 126480,
+      "word": "武艺理想型原来是沈月",
+      "onboard_time": 1763089940,
+      "rank": 33,
       "category": "综艺"
     },
     {
@@ -332,11 +420,19 @@
     },
     {
       "raw_hot": 139556,
-      "num": 117528,
+      "num": 120199,
       "word": "白头发是身体发出的压力警告",
       "onboard_time": 1763083701,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138034,
+      "num": 138034,
+      "word": "李柯以余茵新剧演母女",
+      "onboard_time": 1763089819,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 137185,
@@ -347,12 +443,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 137052,
+      "num": 128209,
+      "word": "小鹏X9超级增程动态评测全网首发",
+      "onboard_time": 1763089880,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 136725,
       "num": 143202,
       "word": "鬼灭之刃",
       "onboard_time": 1763049919,
       "rank": 22,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 135108,
+      "num": 135108,
+      "word": "许昕周恺3比1曹彦涛陈亚轩",
+      "onboard_time": 1763089819,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 131903,
@@ -371,12 +483,44 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130410,
+      "num": 174185,
+      "word": "张颜齐看见杨紫喊夏雨",
+      "onboard_time": 1763090061,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128240,
+      "num": 128240,
+      "word": "王曼昱说陈梦再返赛场优势非常强",
+      "onboard_time": 1763088440,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 125239,
+      "num": 125239,
+      "word": "紫藤花雨的花语是晚安小忍",
+      "onboard_time": 1763090061,
+      "rank": 35,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123457,
       "num": 123457,
       "word": "海军四川舰开展首次航行试验",
       "onboard_time": 1763083579,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119290,
+      "num": 119290,
+      "word": "中国军号警告日本",
+      "onboard_time": 1763090240,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 118215,
@@ -387,6 +531,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 117076,
+      "num": 127921,
+      "word": "唐诡3千年万岁椒花颂声",
+      "onboard_time": 1763085501,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115784,
       "num": 115784,
       "word": "独家视频看076首舰四川舰",
@@ -395,20 +547,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115035,
+      "num": 115035,
+      "word": "年轻人你离糖尿病有多远",
+      "onboard_time": 1763088020,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
       "onboard_time": 1763041523,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113895,
-      "num": 113895,
-      "word": "唐诡3千年万岁椒花颂声",
-      "onboard_time": 1763085501,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 110380,
@@ -420,11 +572,19 @@
     },
     {
       "raw_hot": 110258,
-      "num": 93090,
+      "num": 127708,
       "word": "泰国国王抵达北京",
       "onboard_time": 1763085380,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108991,
+      "num": 108991,
+      "word": "饼狗心火烧",
+      "onboard_time": 1763090120,
+      "rank": 42,
+      "category": "动漫"
     },
     {
       "raw_hot": 108575,
@@ -440,6 +600,14 @@
       "word": "星巴克 依云矿泉水22元",
       "onboard_time": 1763054237,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105031,
+      "num": 105031,
+      "word": "女子为过年赚差价囤大量烟花",
+      "onboard_time": 1763085980,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -467,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102552,
+      "num": 102552,
+      "word": "马龙全运会首秀",
+      "onboard_time": 1763088980,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99785,
       "num": 140116,
       "word": "惊天魔盗团3爆米花桶",
       "onboard_time": 1763043742,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99300,
+      "num": 99300,
+      "word": "第一次吃竹薯",
+      "onboard_time": 1763089760,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 99009,
@@ -547,6 +731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91742,
+      "num": 189638,
+      "word": "外交部召见日本大使提出严正交涉",
+      "onboard_time": 1763088980,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89485,
       "num": 89485,
       "word": "生活可以甜但身体可不兴太甜",
@@ -563,12 +755,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 88475,
-      "num": 93458,
-      "word": "新闻女王2全员呕吐手势舞",
-      "onboard_time": 1763086220,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 87522,
+      "num": 126770,
+      "word": "南京地铁辟谣安保因化妆被离职",
+      "onboard_time": 1763088800,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86923,
@@ -611,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84446,
+      "num": 105238,
+      "word": "前时代峰峻三代同堂",
+      "onboard_time": 1763088980,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84223,
       "num": 136366,
       "word": "长白头发可能是缺乏这3种营养",
@@ -635,20 +835,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82481,
-      "num": 82481,
-      "word": "女子为过年赚差价囤大量烟花",
-      "onboard_time": 1763085980,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82467,
       "num": 82467,
       "word": "一家五口遇害案家中血迹还在",
       "onboard_time": 1763085260,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82315,
+      "num": 119320,
+      "word": "陈乔恩梁雪峰这段一秒都不用剪",
+      "onboard_time": 1763090300,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 79909,
@@ -769,6 +969,14 @@
       "onboard_time": 1763047579,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63769,
+      "num": 173719,
+      "word": "糖尿病人群患带状疱疹风险更高",
+      "onboard_time": 1763089880,
+      "rank": 19,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 62928,
@@ -955,6 +1163,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34507,
+      "num": 119398,
+      "word": "醉驾男举报洗浴中心容留卖淫获轻判",
+      "onboard_time": 1763090061,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34147,
+      "num": 100874,
+      "word": "网红称坐国际航班丢失350万元首饰",
+      "onboard_time": 1763088859,
+      "rank": 48,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 33934,
       "num": 44198,
       "word": "孙颖莎打削球累得嚼香蕉退场",
@@ -1107,12 +1331,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 11688,
+      "num": 119518,
+      "word": "中国打碎日本小算盘",
+      "onboard_time": 1763090061,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11511,
       "num": 24728,
       "word": "鬼灭的零点场我是忍不柱",
       "onboard_time": 1763063293,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 931,
+      "num": 414762,
+      "word": "十五五规划纲要问计求策",
+      "onboard_time": 1762957824,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
