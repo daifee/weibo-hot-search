@@ -1,0 +1,410 @@
+{
+  "runTime": 1763105204599,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1611130,
+        "num": 1611130,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652621,
+        "num": 652621,
+        "word": "上海绿捷8人被逮捕",
+        "onboard_time": 1763101400,
+        "rank": 1,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34282,
+        "num": 524087,
+        "word": "网警从严查处编造散布公共领域谣言",
+        "onboard_time": 1763096720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 657437,
+        "num": 506122,
+        "word": "何赛飞因行李箱被踹坏爆哭",
+        "onboard_time": 1763097560,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 436385,
+        "num": 436385,
+        "word": "日本有事就是日本有事",
+        "onboard_time": 1763083701,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 378954,
+        "num": 378954,
+        "word": "易烊千玺康熙海报",
+        "onboard_time": 1763102361,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 293592,
+        "num": 293592,
+        "word": "超六成糖尿病前期患者自己没感觉",
+        "onboard_time": 1763096241,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 262457,
+        "num": 262457,
+        "word": "樊振东3比1获胜",
+        "onboard_time": 1763091740,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 258198,
+        "num": 258198,
+        "word": "周润发张学友不参加综艺的原因",
+        "onboard_time": 1763103440,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192136,
+        "num": 254691,
+        "word": "神舟二十号航天员乘组返回",
+        "onboard_time": 1763103980,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341553,
+        "num": 254647,
+        "word": "21岁大学生帮人跨省取快递获刑无期",
+        "onboard_time": 1763099422,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262411,
+        "num": 254362,
+        "word": "怪不得实体店的衣服网购不到",
+        "onboard_time": 1763091499,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 253863,
+        "num": 253863,
+        "word": "鹿晗唱baby怎么没通知我",
+        "onboard_time": 1763098760,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 241942,
+        "num": 241942,
+        "word": "三亚回应潜水员水下关女潜友气瓶",
+        "onboard_time": 1763097020,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220528,
+        "num": 220528,
+        "word": "场馆回应阿珍被电动座椅挤压去世",
+        "onboard_time": 1763100681,
+        "rank": 14,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 197862,
+        "num": 197862,
+        "word": "上0休7 年薪000w",
+        "onboard_time": 1763104701,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 196271,
+        "num": 196271,
+        "word": "易烊千玺出席金鸡奖提名者表彰",
+        "onboard_time": 1763104220,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 195850,
+        "num": 195850,
+        "word": "樊振东对战王楚钦时间确定",
+        "onboard_time": 1763103980,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194791,
+        "num": 194791,
+        "word": "三个影后吐槽流量演员扰乱影视业态",
+        "onboard_time": 1763094261,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26519,
+        "num": 193513,
+        "word": "国企光明集团临时接管484校学生餐",
+        "onboard_time": 1763104821,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405912,
+        "num": 191744,
+        "word": "k总老婆因经常喝热水食道被灼伤",
+        "onboard_time": 1763098760,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 456073,
+        "num": 189666,
+        "word": "一家5口遇害案男子抱3岁儿子火化",
+        "onboard_time": 1763098582,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 243850,
+        "num": 188601,
+        "word": "葛夕瘦了20多斤",
+        "onboard_time": 1763097740,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187583,
+        "num": 187583,
+        "word": "艾米五官长开了",
+        "onboard_time": 1763103320,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174826,
+        "num": 174826,
+        "word": "猫 不管脚多脏都有脸上床",
+        "onboard_time": 1763094380,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 167816,
+        "num": 167816,
+        "word": "张凌赫把偶遇都拍成了情侣照",
+        "onboard_time": 1763099300,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149897,
+        "num": 149897,
+        "word": "JackeyLove说LPL终将战胜Faker",
+        "onboard_time": 1763096601,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146310,
+        "num": 146310,
+        "word": "以为是爷孙结果是夫妻",
+        "onboard_time": 1763095701,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99570,
+        "num": 99570,
+        "word": "彭昱畅第一次见张凌赫",
+        "onboard_time": 1763104881,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96306,
+        "num": 96306,
+        "word": "华晨宇 再好萌的话我穿深V",
+        "onboard_time": 1763104580,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119335,
+        "num": 96091,
+        "word": "九阳豆浆 虐猫梗",
+        "onboard_time": 1763104941,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118033,
+        "num": 95942,
+        "word": "孩子王 复活",
+        "onboard_time": 1763089880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95773,
+        "num": 95773,
+        "word": "绿捷公司非法中标86个校园餐项目",
+        "onboard_time": 1763104280,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93146,
+        "num": 93146,
+        "word": "陈梦李晓霞热聊",
+        "onboard_time": 1763103861,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93144,
+        "num": 93144,
+        "word": "张钧甯又要杀了",
+        "onboard_time": 1763104040,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91688,
+        "num": 91688,
+        "word": "韩国高考",
+        "onboard_time": 1763101041,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91480,
+        "num": 91480,
+        "word": "7个艺人跳舞打了十几辆车",
+        "onboard_time": 1763104522,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87261,
+        "num": 87261,
+        "word": "徐梦桃切除70%半月板仍在备战",
+        "onboard_time": 1763103800,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87066,
+        "num": 87066,
+        "word": "上海通报绿捷食安事件",
+        "onboard_time": 1763101282,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 83243,
+        "num": 86346,
+        "word": "唐诡三季了还是这么懂我",
+        "onboard_time": 1763103440,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86166,
+        "num": 86166,
+        "word": "长期吃沥米饭可能造成营养素缺乏",
+        "onboard_time": 1763097680,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 85074,
+        "num": 85074,
+        "word": "邓紫棋是真把我当外人",
+        "onboard_time": 1763104821,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83234,
+        "num": 83234,
+        "word": "食欲 基因",
+        "onboard_time": 1763105120,
+        "rank": 42,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83173,
+        "num": 83173,
+        "word": "王俊凯话剧官宣",
+        "onboard_time": 1763096001,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82614,
+        "num": 82614,
+        "word": "多方退出银河酷娱股东行列",
+        "onboard_time": 1763088739,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 80011,
+        "num": 80011,
+        "word": "龚俊新剧一剑封神",
+        "onboard_time": 1763105000,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69807,
+        "num": 79912,
+        "word": "周深演唱会免费红糖姜茶",
+        "onboard_time": 1763103621,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 79866,
+        "num": 79866,
+        "word": "独身女子钱在银行却无法拿来救命",
+        "onboard_time": 1763100020,
+        "rank": 47,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 77720,
+        "num": 77720,
+        "word": "蹭衣拍照 退货",
+        "onboard_time": 1763105120,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76279,
+        "num": 76279,
+        "word": "从小到大我妈都这么夸我",
+        "onboard_time": 1763104701,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}

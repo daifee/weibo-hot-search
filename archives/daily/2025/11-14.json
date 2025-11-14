@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763103134929,
+  "endTime": 1763105204599,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -91,6 +91,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 652621,
+      "num": 652621,
+      "word": "上海绿捷8人被逮捕",
+      "onboard_time": 1763101400,
+      "rank": 19,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 633023,
       "num": 633023,
       "word": "多方退出银河酷娱股东行列",
@@ -139,20 +147,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 507418,
-      "num": 507418,
-      "word": "上海绿捷8人被逮捕",
-      "onboard_time": 1763101400,
-      "rank": 19,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 463506,
       "num": 252524,
       "word": "第二杯半价不是一个人喝两杯",
       "onboard_time": 1763080401,
       "rank": 15,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 456073,
+      "num": 344525,
+      "word": "一家5口遇害案男子抱3岁儿子火化",
+      "onboard_time": 1763098582,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 435412,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 431857,
-      "num": 180043,
+      "num": 191744,
       "word": "k总老婆因经常喝热水食道被灼伤",
       "onboard_time": 1763098760,
       "rank": 31,
@@ -203,20 +211,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383494,
-      "num": 344525,
-      "word": "一家5口遇害案男子抱3岁儿子火化",
-      "onboard_time": 1763098582,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 379593,
       "num": 160777,
       "word": "年轻女子与7旬老人生女后弃养给保姆",
       "onboard_time": 1763051478,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 378954,
+      "num": 378954,
+      "word": "易烊千玺康熙海报",
+      "onboard_time": 1763102361,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 370928,
@@ -419,6 +427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 258198,
+      "num": 258198,
+      "word": "周润发张学友不参加综艺的原因",
+      "onboard_time": 1763103440,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 254075,
       "num": 189275,
       "word": "孩子王回应复活",
@@ -491,6 +507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 220528,
+      "num": 220528,
+      "word": "场馆回应阿珍被电动座椅挤压去世",
+      "onboard_time": 1763100681,
+      "rank": 24,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 215098,
       "num": 215098,
       "word": "中方回应印度网球选手称被中国拒签",
@@ -523,12 +547,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197862,
+      "num": 197862,
+      "word": "上0休7 年薪000w",
+      "onboard_time": 1763104701,
+      "rank": 15,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 196271,
+      "num": 196271,
+      "word": "易烊千玺出席金鸡奖提名者表彰",
+      "onboard_time": 1763104220,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195886,
       "num": 195886,
       "word": "银河左岸官宣无锡",
       "onboard_time": 1763094261,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195850,
+      "num": 195850,
+      "word": "樊振东对战王楚钦时间确定",
+      "onboard_time": 1763103980,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 195372,
@@ -539,12 +587,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194902,
-      "num": 194902,
-      "word": "易烊千玺康熙海报",
-      "onboard_time": 1763102361,
-      "rank": 17,
-      "category": "电影"
+      "raw_hot": 192136,
+      "num": 254691,
+      "word": "神舟二十号航天员乘组返回",
+      "onboard_time": 1763103980,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190333,
@@ -579,6 +627,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 187583,
+      "num": 187583,
+      "word": "艾米五官长开了",
+      "onboard_time": 1763103320,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186540,
       "num": 186540,
       "word": "库里与安德玛分道扬镳",
@@ -601,14 +657,6 @@
       "onboard_time": 1763094081,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 183717,
-      "num": 183717,
-      "word": "场馆回应阿珍被电动座椅挤压去世",
-      "onboard_time": 1763100681,
-      "rank": 24,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 183610,
@@ -1003,6 +1051,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 119335,
+      "num": 96091,
+      "word": "九阳豆浆 虐猫梗",
+      "onboard_time": 1763104941,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118215,
       "num": 118215,
       "word": "欧洲人民工资到1w是什么概念",
@@ -1291,6 +1347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99570,
+      "num": 99570,
+      "word": "彭昱畅第一次见张凌赫",
+      "onboard_time": 1763104881,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99009,
       "num": 99009,
       "word": "神舟二十二号飞船安排上了",
@@ -1347,12 +1411,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96306,
+      "num": 96306,
+      "word": "华晨宇 再好萌的话我穿深V",
+      "onboard_time": 1763104580,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96164,
       "num": 138719,
       "word": "孟子义这下真成老公姐了",
       "onboard_time": 1763044102,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95773,
+      "num": 95773,
+      "word": "绿捷公司非法中标86个校园餐项目",
+      "onboard_time": 1763104280,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95525,
@@ -1395,6 +1475,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93146,
+      "num": 93146,
+      "word": "陈梦李晓霞热聊",
+      "onboard_time": 1763103861,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 93144,
+      "num": 93144,
+      "word": "张钧甯又要杀了",
+      "onboard_time": 1763104040,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 92860,
       "num": 92860,
       "word": "阿里烧鸭饭",
@@ -1409,6 +1505,14 @@
       "onboard_time": 1763028321,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91480,
+      "num": 91480,
+      "word": "7个艺人跳舞打了十几辆车",
+      "onboard_time": 1763104522,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 90485,
@@ -1459,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87261,
+      "num": 87261,
+      "word": "徐梦桃切除70%半月板仍在备战",
+      "onboard_time": 1763103800,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 87076,
       "num": 93710,
       "word": "地表最难乒乓球赛四强出炉",
@@ -1507,6 +1619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85074,
+      "num": 85074,
+      "word": "邓紫棋是真把我当外人",
+      "onboard_time": 1763104821,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 85066,
       "num": 85066,
       "word": "微信小程序将在iOS端接入虚拟支付",
@@ -1547,6 +1667,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83243,
+      "num": 86346,
+      "word": "唐诡三季了还是这么懂我",
+      "onboard_time": 1763103440,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 83234,
+      "num": 83234,
+      "word": "食欲 基因",
+      "onboard_time": 1763105120,
+      "rank": 42,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 83076,
       "num": 136333,
       "word": "张桂源 楼凌赫",
@@ -1569,6 +1705,14 @@
       "onboard_time": 1763085260,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80011,
+      "num": 80011,
+      "word": "龚俊新剧一剑封神",
+      "onboard_time": 1763105000,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 79909,
@@ -1635,6 +1779,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 77720,
+      "num": 77720,
+      "word": "蹭衣拍照 退货",
+      "onboard_time": 1763105120,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77207,
       "num": 77207,
       "word": "桃黑黑出演绣春刀",
@@ -1657,6 +1809,14 @@
       "onboard_time": 1763085199,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76279,
+      "num": 76279,
+      "word": "从小到大我妈都这么夸我",
+      "onboard_time": 1763104701,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 74155,
@@ -1697,6 +1857,14 @@
       "onboard_time": 1763101041,
       "rank": 21,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 69807,
+      "num": 79912,
+      "word": "周深演唱会免费红糖姜茶",
+      "onboard_time": 1763103621,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 67575,
@@ -2033,6 +2201,14 @@
       "onboard_time": 1763040982,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26519,
+      "num": 193513,
+      "word": "国企光明集团临时接管484校学生餐",
+      "onboard_time": 1763104821,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24809,
