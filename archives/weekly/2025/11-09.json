@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763119379393,
+  "endTime": 1763120308037,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -1601,6 +1601,14 @@
       "onboard_time": 1762958061,
       "rank": 15,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 534583,
+      "num": 177570,
+      "word": "站姐把王宝强拍成王一博了",
+      "onboard_time": 1763118261,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 533857,
@@ -3619,14 +3627,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 307827,
-      "num": 177570,
-      "word": "站姐把王宝强拍成王一博了",
-      "onboard_time": 1763118261,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 307331,
       "num": 168988,
       "word": "葛夕回应复合传闻",
@@ -3947,6 +3947,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 287251,
+      "num": 287251,
+      "word": "王楚钦vs于何一",
+      "onboard_time": 1763117841,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287012,
       "num": 173262,
       "word": "原来这就是抑郁躯体化",
@@ -4073,6 +4081,14 @@
       "onboard_time": 1763096001,
       "rank": 4,
       "category": "演出"
+    },
+    {
+      "raw_hot": 281041,
+      "num": 253407,
+      "word": "母亲称怀孕女儿被骗柬埔寨遭囚禁",
+      "onboard_time": 1763115141,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280825,
@@ -4313,14 +4329,6 @@
       "onboard_time": 1762928899,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 270231,
-      "num": 270231,
-      "word": "王楚钦vs于何一",
-      "onboard_time": 1763117841,
-      "rank": 5,
-      "category": "体育"
     },
     {
       "raw_hot": 270051,
@@ -4593,14 +4601,6 @@
       "onboard_time": 1763002640,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253407,
-      "num": 253407,
-      "word": "母亲称怀孕女儿被骗柬埔寨遭囚禁",
-      "onboard_time": 1763115141,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253366,
@@ -5883,6 +5883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198528,
+      "num": 152949,
+      "word": "王楚钦11比9于何一",
+      "onboard_time": 1763120001,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198165,
       "num": 198165,
       "word": "无畏机车造型",
@@ -7139,6 +7147,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 166689,
+      "num": 141355,
+      "word": "马龙王楚钦再次携手",
+      "onboard_time": 1763120182,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166676,
       "num": 166676,
       "word": "伞兵雪景氛围感大片",
@@ -7987,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154499,
+      "num": 154499,
+      "word": "36岁快男中国唱将逆袭成功",
+      "onboard_time": 1763119641,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154319,
       "num": 154319,
       "word": "全运会吉祥物",
@@ -8219,6 +8243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 149668,
+      "num": 149668,
+      "word": "秦牛正威回应转行做直播",
+      "onboard_time": 1763117182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 149605,
       "num": 165727,
       "word": "汪苏泷 抢票",
@@ -8428,7 +8460,7 @@
     },
     {
       "raw_hot": 146144,
-      "num": 146144,
+      "num": 153368,
       "word": "孙颖莎3比0李仁思佳",
       "onboard_time": 1763119041,
       "rank": 28,
@@ -8737,6 +8769,14 @@
       "onboard_time": 1762643536,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 141449,
+      "num": 141449,
+      "word": "你说这是王宝强吗",
+      "onboard_time": 1763118742,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 141441,
@@ -9579,12 +9619,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 130762,
-      "num": 130762,
-      "word": "秦牛正威回应转行做直播",
-      "onboard_time": 1763117182,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 130862,
+      "num": 130862,
+      "word": "汪顺全运会第18金",
+      "onboard_time": 1763120182,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 130316,
@@ -11667,6 +11707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111973,
+      "num": 102080,
+      "word": "孙正感谢恩师张继科",
+      "onboard_time": 1763117902,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111878,
       "num": 111878,
       "word": "陈梦还是那个陈梦",
@@ -11825,6 +11873,14 @@
       "onboard_time": 1762668440,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 110632,
+      "num": 655724,
+      "word": "神20航天员刷新1项纪录",
+      "onboard_time": 1763118742,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 110476,
@@ -12329,14 +12385,6 @@
       "onboard_time": 1762784785,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 106483,
-      "num": 106483,
-      "word": "你说这是王宝强吗",
-      "onboard_time": 1763118742,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 106464,
@@ -13539,6 +13587,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99479,
+      "num": 144682,
+      "word": "颜安的人生实况是六公主给的",
+      "onboard_time": 1763119762,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99319,
       "num": 99319,
       "word": "在原神还原了撕名牌",
@@ -14035,6 +14091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96683,
+      "num": 142650,
+      "word": "唐诡长安唐犟宗也得下基层",
+      "onboard_time": 1763120061,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96553,
       "num": 96553,
       "word": "圆头耄耋",
@@ -14249,6 +14313,14 @@
       "onboard_time": 1763109322,
       "rank": 42,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 95276,
+      "num": 153268,
+      "word": "美国务院批准3.3亿美元对台军售",
+      "onboard_time": 1763120001,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95169,
@@ -14643,14 +14715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 92832,
-      "num": 92832,
-      "word": "孙正感谢恩师张继科",
-      "onboard_time": 1763117902,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92820,
       "num": 92820,
       "word": "中国第四艘航母或为核动力",
@@ -14859,6 +14923,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 91456,
+      "num": 113502,
+      "word": "14亿中国人民对此绝不答应",
+      "onboard_time": 1763119163,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91446,
       "num": 91446,
       "word": "亲密关系里尺度最大的是",
@@ -14937,6 +15009,14 @@
       "onboard_time": 1762942160,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90900,
+      "num": 92255,
+      "word": "罗云熙内娱古装痛剧第一人",
+      "onboard_time": 1763120121,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 90880,
@@ -15331,6 +15411,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88870,
+      "num": 88870,
+      "word": "王楚钦毛巾被裁判拿走了",
+      "onboard_time": 1763118201,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88854,
       "num": 88854,
       "word": "前世界冠军滕义受贿超1亿元",
@@ -15401,6 +15489,14 @@
       "onboard_time": 1762666519,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 88590,
+      "num": 99143,
+      "word": "联合国敌国条款仍然有效",
+      "onboard_time": 1763116342,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 88520,
@@ -15995,14 +16091,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 85441,
-      "num": 99143,
-      "word": "联合国敌国条款仍然有效",
-      "onboard_time": 1763116342,
-      "rank": 37,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 85302,
       "num": 85302,
       "word": "宋亚轩爱你爱我演唱会概念预告片",
@@ -16057,22 +16145,6 @@
       "onboard_time": 1763004801,
       "rank": 44,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 84885,
-      "num": 113502,
-      "word": "14亿中国人民对此绝不答应",
-      "onboard_time": 1763119163,
-      "rank": 34,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 84732,
-      "num": 84732,
-      "word": "王楚钦毛巾被裁判拿走了",
-      "onboard_time": 1763118201,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 84726,
@@ -17971,14 +18043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69435,
-      "num": 655724,
-      "word": "神20航天员刷新1项纪录",
-      "onboard_time": 1763118742,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 69350,
       "num": 69350,
       "word": "这不是刻进我DNA的暗号吗",
@@ -18275,6 +18339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 65639,
+      "num": 178417,
+      "word": "男子打赏16万彩礼遭拉黑后仅退5000",
+      "onboard_time": 1763118381,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 65598,
       "num": 65598,
       "word": "菲律宾全国超百万人撤离",
@@ -18353,6 +18425,14 @@
       "onboard_time": 1762668381,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 64643,
+      "num": 95314,
+      "word": "一家六口昏迷被领导催上班电话救回",
+      "onboard_time": 1763119941,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64592,
@@ -20195,14 +20275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40286,
-      "num": 178417,
-      "word": "男子打赏16万彩礼遭拉黑后仅退5000",
-      "onboard_time": 1763118381,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40221,
       "num": 196108,
       "word": "LadyDior手袋十年艺术之旅",
@@ -21195,6 +21267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24948,
+      "num": 103208,
+      "word": "何炅不知道马頔爷们要脸的梗",
+      "onboard_time": 1763119341,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 24883,
       "num": 101704,
       "word": "丹麦人的墓地",
@@ -21241,14 +21321,6 @@
       "onboard_time": 1762672399,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24369,
-      "num": 103208,
-      "word": "何炅不知道马頔爷们要脸的梗",
-      "onboard_time": 1763119341,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 24182,
@@ -21483,6 +21555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 19664,
+      "num": 153544,
+      "word": "柳州一中专称文身是心理变态",
+      "onboard_time": 1763119462,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19578,
       "num": 42923,
       "word": "陈伟霆晒庆功宴合照",
@@ -21601,6 +21681,14 @@
       "onboard_time": 1762712174,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18204,
+      "num": 153487,
+      "word": "6国联合打击跨国电诈",
+      "onboard_time": 1763119941,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18074,
