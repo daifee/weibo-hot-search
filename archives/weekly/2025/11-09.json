@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763148152045,
+  "endTime": 1763148996423,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -22451,6 +22451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22563,
+      "num": 26768,
+      "word": "刘宇宁唱完脑子里全都是你啊",
+      "onboard_time": 1763148914,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22238,
       "num": 113412,
       "word": "专家称特朗普是黄金上涨最大推手",
@@ -23017,6 +23025,14 @@
       "onboard_time": 1762744580,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 13106,
+      "num": 26700,
+      "word": "凤凰台上今日开播",
+      "onboard_time": 1763143456,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 12976,

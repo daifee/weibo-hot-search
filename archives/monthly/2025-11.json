@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763148152045,
+  "endTime": 1763148996423,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -50203,6 +50203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22563,
+      "num": 26768,
+      "word": "刘宇宁唱完脑子里全都是你啊",
+      "onboard_time": 1763148914,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22552,
       "num": 148309,
       "word": "淘趣猫到底藏在哪",
@@ -51345,6 +51353,14 @@
       "onboard_time": 1762105576,
       "rank": 49,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 13106,
+      "num": 26700,
+      "word": "凤凰台上今日开播",
+      "onboard_time": 1763143456,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 13077,

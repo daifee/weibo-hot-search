@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763148152045,
+  "endTime": 1763148996423,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -499,6 +499,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22563,
+      "num": 26768,
+      "word": "刘宇宁唱完脑子里全都是你啊",
+      "onboard_time": 1763148914,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19999,
       "num": 38505,
       "word": "鬼灭之刃上弦三的简要概括",
@@ -537,6 +545,14 @@
       "onboard_time": 1763134222,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 13106,
+      "num": 26700,
+      "word": "凤凰台上今日开播",
+      "onboard_time": 1763143456,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 3119,

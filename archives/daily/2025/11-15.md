@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/15 00:34:35 ~ 2025/11/15 03:22:32
+本榜单时间：2025/11/15 00:34:35 ~ 2025/11/15 03:36:36
 </p>
 </blockquote>
 <p>
@@ -387,6 +387,12 @@ Ella发长文（热度：98081）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%94%B1%E5%AE%8C%E8%84%91%E5%AD%90%E9%87%8C%E5%85%A8%E9%83%BD%E6%98%AF%E4%BD%A0%E5%95%8A%23" target="weibo">
+刘宇宁唱完脑子里全都是你啊（热度：22563）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E4%B8%8A%E5%BC%A6%E4%B8%89%E7%9A%84%E7%AE%80%E8%A6%81%E6%A6%82%E6%8B%AC%23" target="weibo">
 鬼灭之刃上弦三的简要概括（热度：19999）
 </a>
@@ -413,6 +419,12 @@ Ella发长文（热度：98081）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%23" target="weibo">
 人工智能（热度：14159）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%E4%BB%8A%E6%97%A5%E5%BC%80%E6%92%AD%23" target="weibo">
+凤凰台上今日开播（热度：13106）
 </a>
 </li>
 

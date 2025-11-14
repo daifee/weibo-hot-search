@@ -1,0 +1,410 @@
+{
+  "runTime": 1763148996423,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 207283,
+        "num": 207283,
+        "word": "提醒中国公民近期避免前往日本",
+        "onboard_time": 1763134401,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 78379,
+        "num": 78379,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763127262,
+        "rank": 1,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 1664,
+        "num": 59070,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57450,
+        "num": 57450,
+        "word": "日本若碰红线新账旧账一起清算",
+        "onboard_time": 1763127022,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55857,
+        "num": 55857,
+        "word": "刘诗雯6战全运会摘金",
+        "onboard_time": 1763141357,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 46030,
+        "num": 46030,
+        "word": "刘诗雯卫冕全运会混双冠军",
+        "onboard_time": 1763141176,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38052,
+        "num": 38052,
+        "word": "外交部提醒中国公民近期避免赴日",
+        "onboard_time": 1763133922,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35604,
+        "num": 35604,
+        "word": "教育局回应小学生穿裙装敬礼",
+        "onboard_time": 1763137821,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35222,
+        "num": 35222,
+        "word": "林高远刘诗雯逆转夺冠",
+        "onboard_time": 1763135781,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31709,
+        "num": 31709,
+        "word": "Ella发长文",
+        "onboard_time": 1763126961,
+        "rank": 9,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83400,
+        "num": 31647,
+        "word": "新闻联播三分钟警告高市早苗",
+        "onboard_time": 1763115741,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67243,
+        "num": 31373,
+        "word": "秦彻",
+        "onboard_time": 1763134702,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64182,
+        "num": 31256,
+        "word": "过去一年有5千多短剧总裁被下药",
+        "onboard_time": 1763141777,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34555,
+        "num": 30999,
+        "word": "家长视频复活27岁女儿后再添新丁",
+        "onboard_time": 1763124681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30853,
+        "num": 30853,
+        "word": "赛琳娜说不会再上台表演",
+        "onboard_time": 1763135421,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29246,
+        "num": 29246,
+        "word": "于正说整个行业都在看笑话",
+        "onboard_time": 1763121382,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 28255,
+        "num": 28255,
+        "word": "惊天魔盗团",
+        "onboard_time": 1763129782,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28084,
+        "num": 28084,
+        "word": "汪苏泷唱了只想把你偷偷藏好",
+        "onboard_time": 1763137640,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 27317,
+        "num": 27317,
+        "word": "鬼灭之刃票房",
+        "onboard_time": 1763133982,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 26797,
+        "num": 26797,
+        "word": "外交部连发6张日英双语海报",
+        "onboard_time": 1763133861,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122395,
+        "num": 26797,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 63905,
+        "num": 26790,
+        "word": "彭小苒 初恋死了",
+        "onboard_time": 1763129723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59036,
+        "num": 26787,
+        "word": "站姐把王宝强拍成王一博了",
+        "onboard_time": 1763118261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26277,
+        "num": 26786,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763123960,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24255,
+        "num": 26779,
+        "word": "易烊千玺段奥娟同桌",
+        "onboard_time": 1763122459,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23500,
+        "num": 26777,
+        "word": "固体杨枝甘露在韩推上引起讨论",
+        "onboard_time": 1763123781,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22981,
+        "num": 26771,
+        "word": "周深演唱会好暖",
+        "onboard_time": 1763147715,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 22563,
+        "num": 26768,
+        "word": "刘宇宁唱完脑子里全都是你啊",
+        "onboard_time": 1763148914,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21720,
+        "num": 26767,
+        "word": "高市早苗拒绝表态会否坚持无核三原则",
+        "onboard_time": 1763134521,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21659,
+        "num": 26764,
+        "word": "92岁老人父亲节睡梦中被邻居杀害",
+        "onboard_time": 1763130442,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40759,
+        "num": 26758,
+        "word": "日本2位前首相反对高市早苗言论",
+        "onboard_time": 1763140818,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21376,
+        "num": 26757,
+        "word": "林高远刘诗雯混双金牌",
+        "onboard_time": 1763135781,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20074,
+        "num": 26752,
+        "word": "金价",
+        "onboard_time": 1763128283,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19805,
+        "num": 26746,
+        "word": "张博恒全运会全能银牌",
+        "onboard_time": 1763128821,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18744,
+        "num": 26743,
+        "word": "广东队诗与远方夺冠",
+        "onboard_time": 1763135602,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18523,
+        "num": 26742,
+        "word": "70%的糖尿病前期早干预可逆转",
+        "onboard_time": 1763140098,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 18388,
+        "num": 26736,
+        "word": "神20航天员平安抵京",
+        "onboard_time": 1763141596,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18241,
+        "num": 26731,
+        "word": "左奇函 左医生",
+        "onboard_time": 1763135181,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17501,
+        "num": 26729,
+        "word": "冷美人1分钟视频报价50元",
+        "onboard_time": 1763113101,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17038,
+        "num": 26728,
+        "word": "诗与远方扳回一局",
+        "onboard_time": 1763134460,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16868,
+        "num": 26724,
+        "word": "谁能认出来这是张凌赫",
+        "onboard_time": 1763145435,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14958,
+        "num": 26718,
+        "word": "黄子韬被徐艺洋扇脸后暗爽了",
+        "onboard_time": 1763138779,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14708,
+        "num": 26717,
+        "word": "陈昊宇 满头白发",
+        "onboard_time": 1763114242,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14263,
+        "num": 26711,
+        "word": "裴喜君 富婆",
+        "onboard_time": 1763123242,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13540,
+        "num": 26707,
+        "word": "鬼灭之刃上弦三的简要概括",
+        "onboard_time": 1763144595,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 13485,
+        "num": 26704,
+        "word": "人工智能",
+        "onboard_time": 1763134222,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 13106,
+        "num": 26700,
+        "word": "凤凰台上今日开播",
+        "onboard_time": 1763143456,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12804,
+        "num": 26695,
+        "word": "刘诗雯打球好看",
+        "onboard_time": 1763133023,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12417,
+        "num": 26691,
+        "word": "林高远刘诗雯vs陈垣宇蒯曼",
+        "onboard_time": 1763131582,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12229,
+        "num": 26691,
+        "word": "周深象人舞台表现力好强",
+        "onboard_time": 1763147294,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}
