@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 13:43:11
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 14:39:20
 </p>
 </blockquote>
 <p>
@@ -155,6 +155,12 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BC%BA%E4%B8%9C%20%E4%BB%8E%E6%AD%A4%E5%9C%A8%E8%80%81%E5%A9%86%E9%9D%A2%E5%89%8D%E6%B2%A1%E6%9C%89%E4%BA%86%E8%87%AA%E4%BF%A1%23" target="weibo">
 刘强东 从此在老婆面前没有了自信（热度：2062571）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E9%80%80%E8%B5%9B%23" target="weibo">
+冷美人退赛（热度：2039664）
 </a>
 </li>
 
@@ -581,6 +587,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E4%BD%8F%E5%B8%8C%E5%B0%94%E9%A1%BF%E9%85%92%E5%BA%97%E5%8D%8A%E5%A4%9C%E9%81%AD%E8%B5%A4%E8%BA%AB%E7%94%B7%E9%97%AF%E5%85%A5%23" target="weibo">
 夫妻入住希尔顿酒店半夜遭赤身男闯入（热度：1180605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%9B%A0%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%A2%AB%E8%B8%B9%E5%9D%8F%E7%88%86%E5%93%AD%23" target="weibo">
+何赛飞因行李箱被踹坏爆哭（热度：1178324）
 </a>
 </li>
 
@@ -2877,12 +2889,6 @@ iPhone背面还可以这样用（热度：532950）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E5%9B%A0%E8%A1%8C%E6%9D%8E%E7%AE%B1%E8%A2%AB%E8%B8%B9%E5%9D%8F%E7%88%86%E5%93%AD%23" target="weibo">
-何赛飞因行李箱被踹坏爆哭（热度：526082）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%E6%8E%A5%E8%BF%910%E7%9A%84%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%B8%82%E5%90%8E%E6%9D%A5%E6%80%8E%E6%A0%B7%E4%BA%86%23" target="weibo">
 出生率接近0的日本城市后来怎样了（热度：525342）
 </a>
@@ -4095,6 +4101,12 @@ Faker发博晒经典夺冠表情（热度：418029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%BA%9A%E5%9B%9E%E5%BA%94%E6%BD%9C%E6%B0%B4%E5%91%98%E6%B0%B4%E4%B8%8B%E5%85%B3%E5%A5%B3%E6%BD%9C%E5%8F%8B%E6%B0%94%E7%93%B6%23" target="weibo">
+三亚回应潜水员水下关女潜友气瓶（热度：414084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E4%B8%AD%E7%94%9F%E8%AE%B2%E8%BF%B0%E7%BC%85%E5%8C%9751%E5%A4%A9%E7%BB%8F%E5%8E%86%23" target="weibo">
 高中生讲述缅北51天经历（热度：413722）
 </a>
@@ -4743,6 +4755,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23k%E6%80%BB%E8%80%81%E5%A9%86%E5%9B%A0%E7%BB%8F%E5%B8%B8%E5%96%9D%E7%83%AD%E6%B0%B4%E9%A3%9F%E9%81%93%E8%A2%AB%E7%81%BC%E4%BC%A4%23" target="weibo">
+k总老婆因经常喝热水食道被灼伤（热度：372185）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%AD%9D%E5%A4%A9%E6%96%B9%E5%9B%9E%E5%BA%94F4%E5%8F%98F3%23" target="weibo">
 朱孝天方回应F4变F3（热度：371856）
 </a>
@@ -5229,6 +5247,12 @@ iPhone18Pro系列前瞻（热度：345250）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%AE%B65%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E7%94%B7%E5%AD%90%E6%8A%B13%E5%B2%81%E5%84%BF%E5%AD%90%E7%81%AB%E5%8C%96%23" target="weibo">
+一家5口遇害案男子抱3岁儿子火化（热度：344525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23" target="weibo">
 特朗普70分钟采访提及中国41次（热度：343422）
 </a>
@@ -5303,6 +5327,12 @@ Faker自拍配文成都（热度：342872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%89%8BP%E9%94%99%E4%BD%8D%E4%BA%86%23" target="weibo">
 任嘉伦工作室手P错位了（热度：337805）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B9%BF%E6%99%97%E5%94%B1baby%E6%80%8E%E4%B9%88%E6%B2%A1%E9%80%9A%E7%9F%A5%E6%88%91%23" target="weibo">
+鹿晗唱baby怎么没通知我（热度：337671）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ TES不敌T1后发文（热度：310623）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E9%95%BF%E8%BE%88%E9%83%BD%E5%96%9C%E6%AC%A2%E5%A4%A7%E6%96%B9%E7%9A%84%E5%AD%A9%E5%AD%90%23" target="weibo">
 怪不得长辈都喜欢大方的孩子（热度：304788）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BD%BB%E6%96%AD%E9%A3%9F%E4%BB%8E116%E6%96%A4%E7%98%A6%E5%88%B094%E6%96%A4%23" target="weibo">
-轻断食从116斤瘦到94斤（热度：304580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%85%E7%8C%9B%E9%BE%99%E8%87%AA%E6%9B%9D%E4%B8%8D%E5%8F%82%E5%8A%A0%E6%81%8B%E7%BB%BC%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
-迅猛龙自曝不参加恋综的原因（热度：304271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%BA%AF%E9%A9%AC%E9%A0%94%E4%B8%80%E7%9C%8B%E5%B0%B1%E5%BE%88%E4%BC%9A%E8%BF%87%E6%97%A5%E5%AD%90%23" target="weibo">
-李纯马頔一看就很会过日子（热度：303923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%9D%92%E9%9C%9E71%E5%B2%81%E5%BA%86%E7%94%9F%E7%85%A7%23" target="weibo">
-林青霞71岁庆生照（热度：303580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B8%BD%E6%96%87%E5%B0%B1%E8%81%8C%E9%A9%AC%E8%8B%B1%E4%B9%9D%E5%93%AD%E4%BA%86%23" target="weibo">
-郑丽文就职马英九哭了（热度：303555）
 </a>
 </li>
 

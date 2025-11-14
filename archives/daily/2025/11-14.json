@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763098991448,
+  "endTime": 1763102360015,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -11,6 +11,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 2039664,
+      "num": 2039664,
+      "word": "冷美人退赛",
+      "onboard_time": 1763099242,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1583422,
       "num": 1583422,
       "word": "日本有事就是日本有事",
@@ -19,8 +27,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1178324,
+      "num": 526082,
+      "word": "何赛飞因行李箱被踹坏爆哭",
+      "onboard_time": 1763097560,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1172560,
-      "num": 259526,
+      "num": 298549,
       "word": "三个影后吐槽流量演员扰乱影视业态",
       "onboard_time": 1763094261,
       "rank": 23,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 876282,
-      "num": 265702,
+      "num": 277338,
       "word": "怪不得实体店的衣服网购不到",
       "onboard_time": 1763091499,
       "rank": 10,
@@ -84,7 +100,7 @@
     },
     {
       "raw_hot": 625546,
-      "num": 214755,
+      "num": 247561,
       "word": "以为是爷孙结果是夫妻",
       "onboard_time": 1763095701,
       "rank": 12,
@@ -105,14 +121,6 @@
       "onboard_time": 1763088800,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 526082,
-      "num": 526082,
-      "word": "何赛飞因行李箱被踹坏爆哭",
-      "onboard_time": 1763097560,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 520802,
@@ -155,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 414084,
+      "num": 277994,
+      "word": "三亚回应潜水员水下关女潜友气瓶",
+      "onboard_time": 1763097020,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396457,
       "num": 159860,
       "word": "建议拆完快递的纸箱立马扔掉",
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 372185,
+      "num": 169416,
+      "word": "k总老婆因经常喝热水食道被灼伤",
+      "onboard_time": 1763098760,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 353288,
       "num": 211158,
       "word": "百万网红妈妈舍不得接200块的睫毛",
@@ -195,12 +219,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 344525,
+      "num": 344525,
+      "word": "一家5口遇害案男子抱3岁儿子火化",
+      "onboard_time": 1763098582,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 337805,
       "num": 161878,
       "word": "任嘉伦工作室手P错位了",
       "onboard_time": 1763054596,
       "rank": 13,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 337671,
+      "num": 337671,
+      "word": "鹿晗唱baby怎么没通知我",
+      "onboard_time": 1763098760,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 336598,
@@ -249,6 +289,14 @@
       "onboard_time": 1763083579,
       "rank": 22,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 302483,
+      "num": 277849,
+      "word": "21岁大学生帮人跨省取快递获刑无期",
+      "onboard_time": 1763099422,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300153,
@@ -467,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 200002,
-      "num": 200002,
-      "word": "三亚回应潜水员水下关女潜友气瓶",
-      "onboard_time": 1763097020,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195886,
       "num": 195886,
       "word": "银河左岸官宣无锡",
@@ -587,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168433,
+      "num": 168433,
+      "word": "张凌赫把偶遇都拍成了情侣照",
+      "onboard_time": 1763099300,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167704,
       "num": 159489,
       "word": "银行4年3次采购工作服花619万",
@@ -609,6 +657,14 @@
       "onboard_time": 1763077040,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 163083,
+      "num": 278207,
+      "word": "上海通报绿捷食安事件",
+      "onboard_time": 1763101282,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 162131,
@@ -683,6 +739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153180,
+      "num": 153180,
+      "word": "场馆回应阿珍被电动座椅挤压去世",
+      "onboard_time": 1763100681,
+      "rank": 24,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 152486,
       "num": 142424,
       "word": "一度君华",
@@ -731,12 +795,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140979,
+      "num": 170497,
+      "word": "陈楚生金鸡奖唱获奖之作",
+      "onboard_time": 1763100742,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139556,
       "num": 120199,
       "word": "白头发是身体发出的压力警告",
       "onboard_time": 1763083701,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139123,
+      "num": 169572,
+      "word": "上海绿捷8人被逮捕",
+      "onboard_time": 1763101400,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 137486,
@@ -803,12 +883,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 128867,
+      "num": 128867,
+      "word": "鬼灭之刃无限城篇零点场口碑",
+      "onboard_time": 1763101821,
+      "rank": 26,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 128213,
       "num": 128213,
       "word": "俄罗斯猛批高市早苗",
       "onboard_time": 1763092520,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127401,
+      "num": 127401,
+      "word": "荒野求生冷美人被紧急送医",
+      "onboard_time": 1763101282,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127378,
@@ -835,6 +931,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125230,
+      "num": 125230,
+      "word": "独身女子钱在银行却无法拿来救命",
+      "onboard_time": 1763100020,
+      "rank": 30,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 123457,
       "num": 123457,
       "word": "海军四川舰开展首次航行试验",
@@ -849,14 +953,6 @@
       "onboard_time": 1763098340,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 121114,
-      "num": 121114,
-      "word": "k总老婆因经常喝热水食道被灼伤",
-      "onboard_time": 1763098760,
-      "rank": 31,
-      "category": "网红"
     },
     {
       "raw_hot": 120359,
@@ -1131,6 +1227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98892,
+      "num": 98892,
+      "word": "吊销绿捷公司双证",
+      "onboard_time": 1763102061,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98795,
       "num": 98795,
       "word": "李阳说董宇辉英语差发音怪",
@@ -1147,12 +1251,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 98097,
-      "num": 89411,
-      "word": "鹿晗唱baby怎么没通知我",
-      "onboard_time": 1763098760,
-      "rank": 42,
-      "category": "演出"
+      "raw_hot": 97522,
+      "num": 97522,
+      "word": "喜人出租屋文学",
+      "onboard_time": 1763101519,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 97025,
@@ -1161,6 +1265,14 @@
       "onboard_time": 1763096541,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96688,
+      "num": 96688,
+      "word": "吴昕 十字诛心",
+      "onboard_time": 1763101821,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 96164,
@@ -1177,6 +1289,14 @@
       "onboard_time": 1763075478,
       "rank": 7,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 95301,
+      "num": 95301,
+      "word": "无畏揭晓一下昨天彩蛋",
+      "onboard_time": 1763102181,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 95103,
@@ -1211,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93434,
+      "num": 95467,
+      "word": "韩国高考",
+      "onboard_time": 1763101041,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92860,
       "num": 92860,
       "word": "阿里烧鸭饭",
@@ -1225,6 +1353,14 @@
       "onboard_time": 1763028321,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91612,
+      "num": 95789,
+      "word": "宁静自曝曾有30套戏服被分给别人",
+      "onboard_time": 1763099960,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 90485,
@@ -1275,6 +1411,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 86357,
+      "num": 96908,
+      "word": "Faker两冠贷六冠",
+      "onboard_time": 1763100921,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86068,
       "num": 86068,
       "word": "乐队否认阿珍汽车电动座椅挤压去世",
@@ -1313,6 +1457,14 @@
       "onboard_time": 1763085859,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 84602,
+      "num": 84602,
+      "word": "苹果三宅一生",
+      "onboard_time": 1763100981,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 84509,
@@ -1363,6 +1515,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79903,
+      "num": 79903,
+      "word": "孙闻说想给樊振东制造些困难",
+      "onboard_time": 1763100260,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79540,
+      "num": 79540,
+      "word": "曝iPhone17系列激活量本周破千万",
+      "onboard_time": 1763101101,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 79029,
       "num": 136200,
       "word": "覃海洋预料到犯规后在水里笑了",
@@ -1371,12 +1539,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78683,
+      "num": 78683,
+      "word": "李施嬅建议车崇健多看书",
+      "onboard_time": 1763102301,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 77945,
       "num": 127358,
       "word": "金鸡影帝含金量",
       "onboard_time": 1763075297,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77879,
+      "num": 96126,
+      "word": "这一球给场下的樊振东看呆了",
+      "onboard_time": 1763102121,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 77759,
@@ -1587,6 +1771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 50987,
+      "num": 168982,
+      "word": "一个农村女儿艰难的房产官司",
+      "onboard_time": 1763101041,
+      "rank": 21,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 50916,
       "num": 60030,
       "word": "BBC向特朗普道歉但不赔偿",
@@ -1673,6 +1865,14 @@
       "onboard_time": 1763050939,
       "rank": 45,
       "category": "互联网,财经"
+    },
+    {
+      "raw_hot": 42878,
+      "num": 96627,
+      "word": "国产自杀式无人机只卖1万美元",
+      "onboard_time": 1763101640,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 42159,
@@ -1825,14 +2025,6 @@
       "onboard_time": 1763046380,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18687,
-      "num": 213503,
-      "word": "一家5口遇害案男子抱3岁儿子火化",
-      "onboard_time": 1763098582,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18578,
