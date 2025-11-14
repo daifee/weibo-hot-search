@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763133942879,
+  "endTime": 1763134835711,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -739,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 770443,
+      "num": 107278,
+      "word": "诗与远方扳回一局",
+      "onboard_time": 1763134460,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 767270,
       "num": 188353,
       "word": "彭小苒 初恋死了",
@@ -761,6 +769,14 @@
       "onboard_time": 1762649060,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 754324,
+      "num": 1120691,
+      "word": "林高远刘诗雯vs陈垣宇蒯曼",
+      "onboard_time": 1763131582,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 750907,
@@ -856,6 +872,14 @@
       "word": "中国黄金回应试戴金镯10秒被索赔1000",
       "onboard_time": 1763005461,
       "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 714449,
+      "num": 259648,
+      "word": "印度人疑在庐山景区洗澡",
+      "onboard_time": 1763130502,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -1065,14 +1089,6 @@
       "onboard_time": 1762671320,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 663358,
-      "num": 259648,
-      "word": "印度人疑在庐山景区洗澡",
-      "onboard_time": 1763130502,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 661834,
@@ -3403,14 +3419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 332107,
-      "num": 332107,
-      "word": "林高远刘诗雯vs陈垣宇蒯曼",
-      "onboard_time": 1763131582,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 332096,
       "num": 332096,
       "word": "孙颖莎削球好牛",
@@ -4675,6 +4683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259523,
+      "num": 259523,
+      "word": "提醒中国公民近期避免前往日本",
+      "onboard_time": 1763134401,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 258903,
       "num": 169200,
       "word": "树莓复出",
@@ -4896,6 +4912,14 @@
       "word": "小学生每天花6小时运营小天才账号",
       "onboard_time": 1762948581,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 244073,
+      "num": 215480,
+      "word": "92岁老人父亲节睡梦中被邻居杀害",
+      "onboard_time": 1763130442,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5339,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223014,
+      "num": 275382,
+      "word": "小学要求家长填写可提供社会资源",
+      "onboard_time": 1763130922,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 222870,
       "num": 586731,
       "word": "人民咖啡馆更名",
@@ -5505,14 +5537,6 @@
       "onboard_time": 1762999460,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 215480,
-      "num": 215480,
-      "word": "92岁老人父亲节睡梦中被邻居杀害",
-      "onboard_time": 1763130442,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 215311,
@@ -5691,6 +5715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 209658,
+      "num": 146455,
+      "word": "张铎不介意陈松伶年龄",
+      "onboard_time": 1763130683,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 208889,
       "num": 208889,
       "word": "赵子豪晋级全运会男单八强",
@@ -5833,6 +5865,14 @@
       "onboard_time": 1762783882,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 205043,
+      "num": 205043,
+      "word": "外交部提醒中国公民近期避免赴日",
+      "onboard_time": 1763133922,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 204906,
@@ -7003,14 +7043,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 178389,
-      "num": 275382,
-      "word": "小学要求家长填写可提供社会资源",
-      "onboard_time": 1763130922,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177984,
       "num": 225766,
       "word": "日本敢介入台海吗",
@@ -7201,6 +7233,14 @@
       "onboard_time": 1762785202,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172847,
+      "num": 105420,
+      "word": "秦彻",
+      "onboard_time": 1763134702,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 172514,
@@ -7619,6 +7659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165032,
+      "num": 128820,
+      "word": "业内称易烊千玺金鸡奖得奖胜算极大",
+      "onboard_time": 1763133742,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 164804,
       "num": 133541,
       "word": "iG全员给wei庆生",
@@ -7745,6 +7793,14 @@
       "onboard_time": 1762785143,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162630,
+      "num": 103184,
+      "word": "刘诗雯打球好看",
+      "onboard_time": 1763133023,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 162472,
@@ -8787,14 +8843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 146577,
-      "num": 116384,
-      "word": "业内称易烊千玺金鸡奖得奖胜算极大",
-      "onboard_time": 1763133742,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 146435,
       "num": 113355,
       "word": "李纯马頔婚后首同框",
@@ -9273,14 +9321,6 @@
       "onboard_time": 1762859480,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139749,
-      "num": 139749,
-      "word": "张铎不介意陈松伶年龄",
-      "onboard_time": 1763130683,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 139556,
@@ -10225,6 +10265,14 @@
       "onboard_time": 1762768880,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128495,
+      "num": 128495,
+      "word": "鬼灭之刃票房",
+      "onboard_time": 1763133982,
+      "rank": 27,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 128456,
@@ -13827,6 +13875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101116,
+      "num": 101116,
+      "word": "张凌赫工作室出图",
+      "onboard_time": 1763134282,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101107,
       "num": 159522,
       "word": "孙杨今晚出战两项决赛",
@@ -14403,6 +14459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97942,
+      "num": 97942,
+      "word": "谁把汪苏泷头P厦门体育场上了",
+      "onboard_time": 1763133801,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97887,
       "num": 97887,
       "word": "为什么健身房容易倒闭",
@@ -14617,6 +14681,14 @@
       "onboard_time": 1762853782,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97036,
+      "num": 97036,
+      "word": "高市早苗拒绝表态会否坚持无核三原则",
+      "onboard_time": 1763134521,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97025,
@@ -15883,6 +15955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89928,
+      "num": 89928,
+      "word": "王楚钦当弟弟肉眼可见的开心",
+      "onboard_time": 1763133202,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89865,
       "num": 101421,
       "word": "邱党从1比9追到19比17",
@@ -15921,6 +16001,14 @@
       "onboard_time": 1762844120,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89772,
+      "num": 89772,
+      "word": "人工智能",
+      "onboard_time": 1763134222,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 89697,
@@ -16264,6 +16352,14 @@
       "word": "马龙全运会目标填补生涯唯一空缺",
       "onboard_time": 1762730179,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87843,
+      "num": 87843,
+      "word": "大湾鸡真的是两只鸡",
+      "onboard_time": 1763134222,
+      "rank": 40,
       "category": "体育"
     },
     {
@@ -16667,6 +16763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85909,
+      "num": 85909,
+      "word": "多家手机厂商暂缓采购存储芯片",
+      "onboard_time": 1763134401,
+      "rank": 41,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85879,
       "num": 85879,
       "word": "刘宇宁唱初恋",
@@ -16809,6 +16913,14 @@
       "onboard_time": 1763004801,
       "rank": 44,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 84829,
+      "num": 84829,
+      "word": "原来动画片真的没骗人",
+      "onboard_time": 1763132603,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 84726,
@@ -17019,12 +17131,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82956,
-      "num": 82956,
-      "word": "刘诗雯打球好看",
-      "onboard_time": 1763133023,
-      "rank": 42,
-      "category": "体育"
+      "raw_hot": 82996,
+      "num": 82996,
+      "word": "外交部连发6张日英双语海报",
+      "onboard_time": 1763133861,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82947,
@@ -17843,14 +17955,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 77521,
-      "num": 77521,
-      "word": "谁把汪苏泷头P厦门体育场上了",
-      "onboard_time": 1763133801,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 77498,
       "num": 77498,
       "word": "心动原来是可以演出来的",
@@ -17873,14 +17977,6 @@
       "onboard_time": 1762652180,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 77255,
-      "num": 77255,
-      "word": "原来动画片真的没骗人",
-      "onboard_time": 1763132603,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 77248,
@@ -18081,14 +18177,6 @@
       "onboard_time": 1762936941,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 75453,
-      "num": 75453,
-      "word": "外交部连发6张日英双语海报",
-      "onboard_time": 1763133861,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 75366,

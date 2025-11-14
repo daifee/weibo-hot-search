@@ -1,0 +1,410 @@
+{
+  "runTime": 1763134835711,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 754324,
+        "num": 1120691,
+        "word": "林高远刘诗雯vs陈垣宇蒯曼",
+        "onboard_time": 1763131582,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 660841,
+        "num": 660841,
+        "word": "日本若碰红线新账旧账一起清算",
+        "onboard_time": 1763127022,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4431,
+        "num": 369876,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264163,
+        "num": 264163,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763127262,
+        "rank": 3,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 259523,
+        "num": 259523,
+        "word": "提醒中国公民近期避免前往日本",
+        "onboard_time": 1763134401,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250916,
+        "num": 250916,
+        "word": "Ella发长文",
+        "onboard_time": 1763126961,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205043,
+        "num": 205043,
+        "word": "外交部提醒中国公民近期避免赴日",
+        "onboard_time": 1763133922,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199765,
+        "num": 199765,
+        "word": "凤凰台上热度",
+        "onboard_time": 1763127382,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179523,
+        "num": 179523,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156412,
+        "num": 156412,
+        "word": "张博恒全运会全能银牌",
+        "onboard_time": 1763128821,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 714449,
+        "num": 155420,
+        "word": "印度人疑在庐山景区洗澡",
+        "onboard_time": 1763130502,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380369,
+        "num": 153933,
+        "word": "新闻联播三分钟警告高市早苗",
+        "onboard_time": 1763115741,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262036,
+        "num": 151988,
+        "word": "固体杨枝甘露在韩推上引起讨论",
+        "onboard_time": 1763123781,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 244073,
+        "num": 150747,
+        "word": "92岁老人父亲节睡梦中被邻居杀害",
+        "onboard_time": 1763130442,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223014,
+        "num": 147612,
+        "word": "小学要求家长填写可提供社会资源",
+        "onboard_time": 1763130922,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209658,
+        "num": 146455,
+        "word": "张铎不介意陈松伶年龄",
+        "onboard_time": 1763130683,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209580,
+        "num": 143842,
+        "word": "家长视频复活27岁女儿后再添新丁",
+        "onboard_time": 1763124681,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174268,
+        "num": 142526,
+        "word": "于正说整个行业都在看笑话",
+        "onboard_time": 1763121382,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 141611,
+        "num": 141611,
+        "word": "王楚钦打趣让马龙珍惜采访机会",
+        "onboard_time": 1763127623,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132899,
+        "num": 132899,
+        "word": "肖战卷毛男大",
+        "onboard_time": 1763114781,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1164185,
+        "num": 132404,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 713128,
+        "num": 131777,
+        "word": "彭小苒 初恋死了",
+        "onboard_time": 1763129723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 570511,
+        "num": 131044,
+        "word": "易烊千玺段奥娟同桌",
+        "onboard_time": 1763122459,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 403479,
+        "num": 130868,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763123960,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 388180,
+        "num": 130229,
+        "word": "站姐把王宝强拍成王一博了",
+        "onboard_time": 1763118261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194654,
+        "num": 129551,
+        "word": "金价",
+        "onboard_time": 1763128283,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 165032,
+        "num": 128820,
+        "word": "业内称易烊千玺金鸡奖得奖胜算极大",
+        "onboard_time": 1763133742,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128495,
+        "num": 128495,
+        "word": "鬼灭之刃票房",
+        "onboard_time": 1763133982,
+        "rank": 27,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 117091,
+        "num": 117091,
+        "word": "惊天魔盗团",
+        "onboard_time": 1763129782,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108769,
+        "num": 108769,
+        "word": "惠英红 我很贪婪我不会放弃",
+        "onboard_time": 1763114242,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 770443,
+        "num": 107278,
+        "word": "诗与远方扳回一局",
+        "onboard_time": 1763134460,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172847,
+        "num": 105420,
+        "word": "秦彻",
+        "onboard_time": 1763134702,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162630,
+        "num": 103184,
+        "word": "刘诗雯打球好看",
+        "onboard_time": 1763133023,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110438,
+        "num": 101432,
+        "word": "19.9元原切牛肉被指是合成肉",
+        "onboard_time": 1763131642,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101116,
+        "num": 101116,
+        "word": "张凌赫工作室出图",
+        "onboard_time": 1763134282,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97942,
+        "num": 97942,
+        "word": "谁把汪苏泷头P厦门体育场上了",
+        "onboard_time": 1763133801,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97036,
+        "num": 97036,
+        "word": "高市早苗拒绝表态会否坚持无核三原则",
+        "onboard_time": 1763134521,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89928,
+        "num": 89928,
+        "word": "王楚钦当弟弟肉眼可见的开心",
+        "onboard_time": 1763133202,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69858,
+        "num": 89836,
+        "word": "刘宇宁西安站回顾",
+        "onboard_time": 1763133382,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89772,
+        "num": 89772,
+        "word": "人工智能",
+        "onboard_time": 1763134222,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 87843,
+        "num": 87843,
+        "word": "大湾鸡真的是两只鸡",
+        "onboard_time": 1763134222,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85909,
+        "num": 85909,
+        "word": "多家手机厂商暂缓采购存储芯片",
+        "onboard_time": 1763134401,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84829,
+        "num": 84829,
+        "word": "原来动画片真的没骗人",
+        "onboard_time": 1763132603,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82996,
+        "num": 82996,
+        "word": "外交部连发6张日英双语海报",
+        "onboard_time": 1763133861,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82790,
+        "num": 82790,
+        "word": "吕严 碳水大王",
+        "onboard_time": 1763131942,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82023,
+        "num": 82023,
+        "word": "桥本可以考公了",
+        "onboard_time": 1763114841,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82394,
+        "num": 80946,
+        "word": "成毅鼓掌",
+        "onboard_time": 1763131763,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79595,
+        "num": 79595,
+        "word": "裴喜君 富婆",
+        "onboard_time": 1763123242,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 79439,
+        "num": 79439,
+        "word": "陈昊宇 满头白发",
+        "onboard_time": 1763114242,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78409,
+        "num": 78409,
+        "word": "陈天润直播",
+        "onboard_time": 1763131223,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}
