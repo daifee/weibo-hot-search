@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763128010258,
+  "endTime": 1763130423062,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -19,6 +19,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1761248,
+      "num": 193851,
+      "word": "痞幼官宣分手",
+      "onboard_time": 1763126842,
+      "rank": 24,
+      "category": "网红"
+    },
+    {
       "raw_hot": 1583422,
       "num": 1583422,
       "word": "日本有事就是日本有事",
@@ -33,14 +41,6 @@
       "onboard_time": 1763115741,
       "rank": 30,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1375324,
-      "num": 193851,
-      "word": "痞幼官宣分手",
-      "onboard_time": 1763126842,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 1199284,
@@ -139,6 +139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 701491,
+      "num": 1112238,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763123960,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 696520,
       "num": 696520,
       "word": "董宇辉致歉口语多个语法错误",
@@ -227,14 +235,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 523103,
-      "num": 1083696,
-      "word": "卢凌风气死我了",
-      "onboard_time": 1763123960,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 520802,
       "num": 520802,
       "word": "中国军号用日语发文",
@@ -299,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 450753,
+      "num": 450753,
+      "word": "日本若碰红线新账旧账一起清算",
+      "onboard_time": 1763127022,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 435412,
       "num": 201340,
       "word": "黄晓明新签约艺人眼睛很大",
@@ -353,6 +361,14 @@
       "onboard_time": 1763114781,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 411880,
+      "num": 233105,
+      "word": "固体杨枝甘露在韩推上引起讨论",
+      "onboard_time": 1763123781,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 404901,
@@ -483,6 +499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 326623,
+      "num": 234766,
+      "word": "Ella发长文",
+      "onboard_time": 1763126961,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 326215,
       "num": 209576,
       "word": "葛夕瘦了20多斤",
@@ -595,14 +619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 281703,
-      "num": 233105,
-      "word": "固体杨枝甘露在韩推上引起讨论",
-      "onboard_time": 1763123781,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 281431,
       "num": 281431,
       "word": "裴喜君 富婆",
@@ -643,6 +659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 280160,
+      "num": 162501,
+      "word": "金价",
+      "onboard_time": 1763128283,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 279627,
       "num": 279627,
       "word": "外交部召见日本大使提出严正交涉",
@@ -673,6 +697,14 @@
       "onboard_time": 1763051419,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 277036,
+      "num": 213418,
+      "word": "鬼灭之刃",
+      "onboard_time": 1763049919,
+      "rank": 22,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 271963,
@@ -779,6 +811,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 236485,
+      "num": 209923,
+      "word": "凤凰台上热度",
+      "onboard_time": 1763127382,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 231217,
       "num": 231217,
       "word": "宋丹丹看张一山话剧哭了",
@@ -875,14 +915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210910,
-      "num": 210910,
-      "word": "鬼灭之刃",
-      "onboard_time": 1763049919,
-      "rank": 22,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 210732,
       "num": 169228,
       "word": "彭昱畅都想去时代峰峻了",
@@ -897,6 +929,22 @@
       "onboard_time": 1763112861,
       "rank": 6,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209173,
+      "num": 162484,
+      "word": "彭小苒 初恋死了",
+      "onboard_time": 1763129723,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 207486,
+      "num": 207486,
+      "word": "徐海东陈幸同vs袁励岑王艺迪",
+      "onboard_time": 1763129242,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 202000,
@@ -961,6 +1009,14 @@
       "onboard_time": 1763086220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190158,
+      "num": 230310,
+      "word": "王楚钦打趣让马龙珍惜采访机会",
+      "onboard_time": 1763127623,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 188993,
@@ -1123,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 170145,
+      "num": 170145,
+      "word": "惊天魔盗团",
+      "onboard_time": 1763129782,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 169362,
       "num": 163113,
       "word": "李隆基 太平公主",
@@ -1209,6 +1273,14 @@
       "onboard_time": 1763101282,
       "rank": 9,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 162582,
+      "num": 162582,
+      "word": "张博恒全运会全能银牌",
+      "onboard_time": 1763128821,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 162248,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1763083879,
       "rank": 23,
       "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 152243,
+      "num": 152243,
+      "word": "张雨霏赛前与教练发生分歧",
+      "onboard_time": 1763127983,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 152007,
@@ -1587,6 +1667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134282,
+      "num": 134282,
+      "word": "离婚后孩子随母姓男方拒付抚养费",
+      "onboard_time": 1763127983,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133945,
       "num": 133945,
       "word": "成毅说观众的建议指引我做得更好",
@@ -1617,14 +1705,6 @@
       "onboard_time": 1763127142,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 132274,
-      "num": 132274,
-      "word": "凤凰台上热度",
-      "onboard_time": 1763127382,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 131903,
@@ -1771,6 +1851,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 120187,
+      "num": 120187,
+      "word": "王力宏在演唱会公开摸鱼",
+      "onboard_time": 1763129063,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119981,
       "num": 119981,
       "word": "2025金鸡奖提名者表彰仪式",
@@ -1915,6 +2003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114489,
+      "num": 114489,
+      "word": "女子因生下女婴遭公婆侮辱打骂",
+      "onboard_time": 1763126481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114159,
       "num": 114159,
       "word": "河北女子200米自由泳接力金牌",
@@ -1929,14 +2025,6 @@
       "onboard_time": 1763041523,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 113987,
-      "num": 113987,
-      "word": "王楚钦打趣让马龙珍惜采访机会",
-      "onboard_time": 1763127623,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 113174,
@@ -2139,14 +2227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106747,
-      "num": 106747,
-      "word": "张雨霏赛前与教练发生分歧",
-      "onboard_time": 1763127983,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 106086,
       "num": 106086,
       "word": "黄友政3比1夏易正",
@@ -2177,6 +2257,14 @@
       "onboard_time": 1763093001,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105526,
+      "num": 105526,
+      "word": "王曼昱回应时隔四年再战陈梦",
+      "onboard_time": 1763129964,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 105414,
@@ -2387,14 +2475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98364,
-      "num": 114198,
-      "word": "Ella发长文",
-      "onboard_time": 1763126961,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 98165,
       "num": 98165,
       "word": "阿里已抽调上百名工程师秘密办公",
@@ -2409,6 +2489,14 @@
       "onboard_time": 1763124022,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97628,
+      "num": 97628,
+      "word": "神20乘组换乘飞船回家是惊天壮举",
+      "onboard_time": 1763128883,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97522,
@@ -2441,6 +2529,14 @@
       "onboard_time": 1763096541,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96986,
+      "num": 96986,
+      "word": "朕的皇后 你醒了",
+      "onboard_time": 1763128102,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 96683,
@@ -2529,14 +2625,6 @@
       "onboard_time": 1763109322,
       "rank": 42,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 95410,
-      "num": 112730,
-      "word": "女子因生下女婴遭公婆侮辱打骂",
-      "onboard_time": 1763126481,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 95276,
@@ -2779,6 +2867,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88056,
+      "num": 88056,
+      "word": "韩网爆料Zeus和Viper疑似续约",
+      "onboard_time": 1763128042,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 88008,
+      "num": 88008,
+      "word": "现发3豆瓣开分创新纪录8.2",
+      "onboard_time": 1763130262,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 87951,
       "num": 87951,
       "word": "心理委员我不得劲",
@@ -3017,6 +3121,14 @@
       "onboard_time": 1763112201,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81752,
+      "num": 81752,
+      "word": "汪顺回应潘展乐三天没接受采访",
+      "onboard_time": 1763129663,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 80921,
@@ -3331,14 +3443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 64543,
-      "num": 211890,
-      "word": "日本若碰红线新账旧账一起清算",
-      "onboard_time": 1763127022,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 63769,
       "num": 173719,
       "word": "糖尿病人群患带状疱疹风险更高",
@@ -3505,6 +3609,14 @@
       "onboard_time": 1763113941,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48443,
+      "num": 98228,
+      "word": "孙颖莎出场自带尖叫",
+      "onboard_time": 1763129782,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 48427,
@@ -3875,14 +3987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19217,
-      "num": 114177,
-      "word": "离婚后孩子随母姓男方拒付抚养费",
-      "onboard_time": 1763127983,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19094,
       "num": 35184,
       "word": "王楚钦樊振东已交手32次",
@@ -4049,6 +4153,9 @@
     },
     {
       "word": "#习近平会见泰国国王#"
+    },
+    {
+      "word": "#共同书写中泰友好的新篇章#"
     }
   ]
 }
