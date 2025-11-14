@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 11:35:04
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/14 12:31:18
 </p>
 </blockquote>
 <p>
@@ -603,6 +603,12 @@ Tim父亲 圆通总裁（热度：1346310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E8%8E%B7%E8%83%9C%23" target="weibo">
+樊振东3比1获胜（热度：1157348）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E7%89%B9%E5%B8%81%E5%AF%8C%E5%A9%86%E9%92%B1%E5%BF%97%E6%95%8F%E5%9C%A8%E5%BA%8A%E4%B8%8A%E8%A2%AB%E6%8D%95%23" target="weibo">
 比特币富婆钱志敏在床上被捕（热度：1147547）
 </a>
@@ -1055,6 +1061,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%BA%8C%E4%B8%AD%20%E5%92%AF%E5%99%94%23" target="weibo">
 南宁二中 咯噔（热度：861213）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E5%AE%9E%E4%BD%93%E5%BA%97%E7%9A%84%E8%A1%A3%E6%9C%8D%E7%BD%91%E8%B4%AD%E4%B8%8D%E5%88%B0%23" target="weibo">
+怪不得实体店的衣服网购不到（热度：860742）
 </a>
 </li>
 
@@ -2009,6 +2021,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%90%85%E5%8D%8A%E5%A4%A9%E4%B8%80%E5%8F%A3%E6%B2%A1%E5%90%83%23" target="weibo">
 关晓彤搅半天一口没吃（热度：634010）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E9%80%80%E5%87%BA%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%E8%82%A1%E4%B8%9C%E8%A1%8C%E5%88%97%23" target="weibo">
+多方退出银河酷娱股东行列（热度：633023）
 </a>
 </li>
 
@@ -3915,6 +3933,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%94%E8%8B%A6%E6%9E%9C%E4%BA%A6%E6%98%AF%E6%9E%9C%E6%9B%B4%E5%B8%A6%E5%8A%B2%E7%9A%84%E5%8F%B0%E8%AF%8D%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
+比苦果亦是果更带劲的台词出现了（热度：426958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%86%B0%E7%AE%B1%E5%86%B7%E8%97%8F%E4%B8%80%E5%A4%9C%E7%9A%84%E8%9B%8B%E7%B3%95%23" target="weibo">
 在冰箱冷藏一夜的蛋糕（热度：426570）
 </a>
@@ -4247,12 +4271,6 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232007%E5%B9%B4%E5%90%8E%E5%87%BA%E7%94%9F%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%90%B8%E7%83%9F%23" target="weibo">
 2007年后出生的人不能在马尔代夫吸烟（热度：399271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E9%80%80%E5%87%BA%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%E8%82%A1%E4%B8%9C%E8%A1%8C%E5%88%97%23" target="weibo">
-多方退出银河酷娱股东行列（热度：399068）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Faker回应打LPL没输过（热度：302785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%AB%E5%BC%8B%E5%8D%9A%23" target="weibo">
 王一博工作室叫弋博（热度：301599）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B6%B5%E8%89%BA%E7%88%86%E6%96%99RNG%E5%92%8CFPX%E9%80%80%E5%87%BALPL%23" target="weibo">
-涵艺爆料RNG和FPX退出LPL（热度：300919）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%9D%8E%E5%AE%9B%E5%A6%B2%E5%89%91%E6%9D%A5%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%23" target="weibo">
-吴磊李宛妲剑来领衔主演（热度：300896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E6%83%85%E4%BE%A3%E6%89%8B%E6%9C%BA%E9%93%BE%23" target="weibo">
-井柏然刘雯情侣手机链（热度：300744）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763091304364,
+  "endTime": 1763094678934,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2901099,
-      "num": 172967,
+      "num": 183370,
       "word": "周峻纬道歉",
       "onboard_time": 1763087778,
       "rank": 20,
@@ -267,6 +267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1157348,
+      "num": 1157348,
+      "word": "樊振东3比1获胜",
+      "onboard_time": 1763091740,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1147547,
       "num": 171280,
       "word": "比特币富婆钱志敏在床上被捕",
@@ -468,7 +476,7 @@
     },
     {
       "raw_hot": 877132,
-      "num": 219231,
+      "num": 220023,
       "word": "孩子王 复活",
       "onboard_time": 1763089880,
       "rank": 10,
@@ -497,6 +505,14 @@
       "onboard_time": 1762776200,
       "rank": 14,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 860742,
+      "num": 225411,
+      "word": "怪不得实体店的衣服网购不到",
+      "onboard_time": 1763091499,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 854064,
@@ -1025,6 +1041,14 @@
       "onboard_time": 1762771400,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 633023,
+      "num": 633023,
+      "word": "多方退出银河酷娱股东行列",
+      "onboard_time": 1763088739,
+      "rank": 6,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 628924,
@@ -2147,6 +2171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 426958,
+      "num": 426958,
+      "word": "比苦果亦是果更带劲的台词出现了",
+      "onboard_time": 1763090601,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425138,
       "num": 175082,
       "word": "王安宇高中毕业照",
@@ -2313,14 +2345,6 @@
       "onboard_time": 1762997480,
       "rank": 5,
       "category": "体育"
-    },
-    {
-      "raw_hot": 399068,
-      "num": 399068,
-      "word": "多方退出银河酷娱股东行列",
-      "onboard_time": 1763088739,
-      "rank": 6,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 399015,
@@ -3467,6 +3491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 298221,
+      "num": 205675,
+      "word": "中国军号警告日本",
+      "onboard_time": 1763090240,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 297694,
       "num": 193964,
       "word": "黄子韬每天晚上陪徐艺洋学英语",
@@ -3721,6 +3753,14 @@
       "onboard_time": 1763027062,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 280825,
+      "num": 183206,
+      "word": "桃黑黑要入手一辆小电驴",
+      "onboard_time": 1763092520,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 280782,
@@ -4001,6 +4041,14 @@
       "onboard_time": 1762756338,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265328,
+      "num": 265328,
+      "word": "神二十继续留轨开展相关试验",
+      "onboard_time": 1763092520,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 264477,
@@ -4307,6 +4355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245988,
+      "num": 197360,
+      "word": "武艺理想型原来是沈月",
+      "onboard_time": 1763089940,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245471,
       "num": 245471,
       "word": "陈梦vs何卓佳",
@@ -4336,6 +4392,14 @@
       "word": "陈乔恩梁雪峰长达9分钟的对峙戏",
       "onboard_time": 1762744459,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 242563,
+      "num": 242563,
+      "word": "李柯以余茵新剧演母女",
+      "onboard_time": 1763089819,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -4505,6 +4569,14 @@
       "onboard_time": 1762775060,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 233365,
+      "num": 233365,
+      "word": "泰国国王及王后抵达北京现场画面",
+      "onboard_time": 1763091441,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 232570,
@@ -5987,6 +6059,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 184831,
+      "num": 184831,
+      "word": "乒乓球男团上海3比0江苏",
+      "onboard_time": 1763094501,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184551,
       "num": 184551,
       "word": "云南赤裸小孩父母致歉",
@@ -6059,12 +6139,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182828,
+      "num": 160232,
+      "word": "银河左岸官宣无锡",
+      "onboard_time": 1763094261,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 182464,
       "num": 230852,
       "word": "六公主报道杨紫国色芳华研讨会",
       "onboard_time": 1762762939,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182268,
+      "num": 182268,
+      "word": "三个影后吐槽流量演员扰乱影视业态",
+      "onboard_time": 1763094261,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 182223,
@@ -6291,14 +6387,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175617,
-      "num": 161197,
-      "word": "武艺理想型原来是沈月",
-      "onboard_time": 1763089940,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 175395,
       "num": 175395,
       "word": "T1战胜KT",
@@ -6505,14 +6593,6 @@
       "onboard_time": 1762696401,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 169857,
-      "num": 119290,
-      "word": "中国军号警告日本",
-      "onboard_time": 1763090240,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 169507,
@@ -6939,6 +7019,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 160509,
+      "num": 160509,
+      "word": "王曼昱说陈梦再返赛场优势非常强",
+      "onboard_time": 1763088440,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160440,
       "num": 131135,
       "word": "黄金开始大反攻",
@@ -7003,6 +7091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159762,
+      "num": 159762,
+      "word": "百万网红妈妈舍不得接200块的睫毛",
+      "onboard_time": 1763094322,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 159684,
       "num": 159684,
       "word": "孟子义cos阿精",
@@ -7033,14 +7129,6 @@
       "onboard_time": 1762934840,
       "rank": 16,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 159141,
-      "num": 159141,
-      "word": "比苦果亦是果更带劲的台词出现了",
-      "onboard_time": 1763090601,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 159058,
@@ -7139,6 +7227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157599,
+      "num": 148388,
+      "word": "前时代峰峻三代同堂",
+      "onboard_time": 1763088980,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 157521,
       "num": 204096,
       "word": "孙颖莎4比0胜刘炜珊",
@@ -7203,12 +7299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 156804,
-      "num": 156804,
-      "word": "李柯以余茵新剧演母女",
-      "onboard_time": 1763089819,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 157017,
+      "num": 182511,
+      "word": "宁静身份证丢了",
+      "onboard_time": 1763094141,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 156676,
@@ -7571,6 +7667,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 149426,
+      "num": 149426,
+      "word": "时代少年团六年同行",
+      "onboard_time": 1763093361,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 149389,
       "num": 149389,
       "word": "尹子维徐冬冬 生理性喜欢",
@@ -7617,14 +7721,6 @@
       "onboard_time": 1762756160,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149023,
-      "num": 149023,
-      "word": "王曼昱说陈梦再返赛场优势非常强",
-      "onboard_time": 1763088440,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 148964,
@@ -7761,6 +7857,14 @@
       "onboard_time": 1762838060,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146073,
+      "num": 146073,
+      "word": "杨紫爸爸去看了张一山话剧",
+      "onboard_time": 1763091021,
+      "rank": 36,
+      "category": "演出"
     },
     {
       "raw_hot": 146062,
@@ -8283,6 +8387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 137716,
+      "num": 137716,
+      "word": "曾舜晞内娱赚钱内娱花",
+      "onboard_time": 1763094322,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137712,
       "num": 122100,
       "word": "何炅金龟子亲爱的小孩你辛苦了",
@@ -8305,6 +8417,14 @@
       "onboard_time": 1762671679,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137486,
+      "num": 137486,
+      "word": "女子被发现已婚拒退10.8万彩礼",
+      "onboard_time": 1763092821,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137407,
@@ -8523,6 +8643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134616,
+      "num": 134616,
+      "word": "全运会陈梦的指导员戴的啥",
+      "onboard_time": 1763094501,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134476,
       "num": 131835,
       "word": "Viper目前被LPL和LCK战队疯抢",
@@ -8705,14 +8833,6 @@
       "onboard_time": 1762673359,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 132578,
-      "num": 116094,
-      "word": "前时代峰峻三代同堂",
-      "onboard_time": 1763088980,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 132534,
@@ -9051,6 +9171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128213,
+      "num": 128213,
+      "word": "俄罗斯猛批高市早苗",
+      "onboard_time": 1763092520,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128058,
       "num": 128058,
       "word": "祝绪丹 超市小妹",
@@ -9177,6 +9305,14 @@
       "onboard_time": 1762780941,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126712,
+      "num": 126712,
+      "word": "T1冠军奖金100万美元",
+      "onboard_time": 1763091441,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 126613,
@@ -9795,6 +9931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120854,
+      "num": 120854,
+      "word": "猫 不管脚多脏都有脸上床",
+      "onboard_time": 1763094380,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120832,
       "num": 116400,
       "word": "库里爆砍46分",
@@ -9825,6 +9969,14 @@
       "onboard_time": 1762925660,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120359,
+      "num": 120359,
+      "word": "鬼灭之刃票房破亿",
+      "onboard_time": 1763091860,
+      "rank": 45,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 120006,
@@ -10275,6 +10427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115901,
+      "num": 115901,
+      "word": "神21飞船撤离空间站组合体",
+      "onboard_time": 1763093301,
+      "rank": 46,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115784,
       "num": 115784,
       "word": "独家视频看076首舰四川舰",
@@ -10491,14 +10651,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113524,
-      "num": 113524,
-      "word": "杨紫爸爸去看了张一山话剧",
-      "onboard_time": 1763091021,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113486,
       "num": 113486,
       "word": "智利车厘子果农说谢谢中国",
@@ -10513,6 +10665,22 @@
       "onboard_time": 1762665920,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 113174,
+      "num": 113174,
+      "word": "辛巴徒弟蛋蛋称长期遭职场暴力",
+      "onboard_time": 1763091979,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 113114,
+      "num": 113114,
+      "word": "看你好种地少年笑脱臼了",
+      "onboard_time": 1763093600,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 113027,
@@ -11417,6 +11585,14 @@
       "onboard_time": 1762744700,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105553,
+      "num": 105553,
+      "word": "红白歌会名单",
+      "onboard_time": 1763093001,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 105499,
@@ -16403,6 +16579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67287,
+      "num": 184276,
+      "word": "柯淳自曝压力过大时有狂躁症",
+      "onboard_time": 1763094081,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 67211,
       "num": 118361,
       "word": "荒野求生冷美人透露又面临生理期",
@@ -16665,6 +16849,14 @@
       "onboard_time": 1762658181,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 63634,
+      "num": 184807,
+      "word": "宁静 女生谈恋爱都会先装几天",
+      "onboard_time": 1763094261,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 63591,
@@ -17843,6 +18035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46813,
+      "num": 120601,
+      "word": "神20航天员踏上回家之旅",
+      "onboard_time": 1763092520,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46809,
       "num": 89404,
       "word": "王楚钦给高杨签名",
@@ -18753,6 +18953,14 @@
       "onboard_time": 1762640534,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 33326,
+      "num": 186068,
+      "word": "双11最后一天大额券你用了吗",
+      "onboard_time": 1763093001,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 33265,
@@ -19756,7 +19964,7 @@
     },
     {
       "raw_hot": 16367,
-      "num": 706925,
+      "num": 836289,
       "word": "十五五规划纲要问计求策",
       "onboard_time": 1762957824,
       "rank": 2,
