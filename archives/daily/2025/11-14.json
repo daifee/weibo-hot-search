@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763112579920,
+  "endTime": 1763113381362,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -139,6 +139,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 583295,
+      "num": 172132,
+      "word": "面试官问抽不抽烟",
+      "onboard_time": 1763107342,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 548970,
+      "num": 170753,
+      "word": "曝柯淳被长剧退货",
+      "onboard_time": 1763110581,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541307,
       "num": 541307,
       "word": "樊振东vs孙闻",
@@ -147,12 +163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 536870,
-      "num": 167218,
-      "word": "曝柯淳被长剧退货",
-      "onboard_time": 1763110581,
-      "rank": 10,
-      "category": "剧集"
+      "raw_hot": 538602,
+      "num": 169739,
+      "word": "足浴店卖淫被查多位民警遭指控",
+      "onboard_time": 1763108181,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 520802,
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 499086,
-      "num": 166823,
+      "num": 169051,
       "word": "温峥嵘带货 微商产品",
       "onboard_time": 1763110400,
       "rank": 11,
@@ -283,28 +299,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 376588,
-      "num": 165682,
-      "word": "足浴店卖淫被查多位民警遭指控",
-      "onboard_time": 1763108181,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 370928,
       "num": 277849,
       "word": "21岁大学生帮人跨省取快递获刑无期",
       "onboard_time": 1763099422,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 369816,
-      "num": 165779,
-      "word": "面试官问抽不抽烟",
-      "onboard_time": 1763107342,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 353288,
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 286489,
-      "num": 165121,
+      "num": 166939,
       "word": "蹭衣拍照 退货",
       "onboard_time": 1763105120,
       "rank": 48,
@@ -835,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165914,
+      "num": 165914,
+      "word": "迪丽热巴看到了啥",
+      "onboard_time": 1763111361,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 165491,
       "num": 165491,
       "word": "不二之臣",
@@ -939,12 +947,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 154264,
-      "num": 154264,
-      "word": "迪丽热巴看到了啥",
-      "onboard_time": 1763111361,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 153598,
+      "num": 153598,
+      "word": "第一次感受到智性恋的魅力",
+      "onboard_time": 1763109680,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 152486,
@@ -987,14 +995,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 145208,
-      "num": 145208,
-      "word": "第一次感受到智性恋的魅力",
-      "onboard_time": 1763109680,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 144056,
       "num": 154811,
       "word": "国产剧有了60岁的豹豹猫猫",
@@ -1017,6 +1017,14 @@
       "onboard_time": 1763101041,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143228,
+      "num": 175671,
+      "word": "时代峰峻旗下公司经营异常",
+      "onboard_time": 1763112861,
+      "rank": 6,
+      "category": "艺人"
     },
     {
       "raw_hot": 142415,
@@ -1049,6 +1057,14 @@
       "onboard_time": 1763083701,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139350,
+      "num": 160245,
+      "word": "一家五口遇害案家属崩溃喊他认罪了",
+      "onboard_time": 1763111542,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137486,
@@ -1275,6 +1291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114760,
+      "num": 90192,
+      "word": "冷美人1分钟视频报价50元",
+      "onboard_time": 1763113101,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
@@ -1304,6 +1328,14 @@
       "word": "冷美人体重暴瘦至84.5斤",
       "onboard_time": 1763107402,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112574,
+      "num": 112574,
+      "word": "九阳豆浆回应被指玩虐猫梗",
+      "onboard_time": 1763111542,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1401,6 +1433,14 @@
       "onboard_time": 1763109081,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107716,
+      "num": 90089,
+      "word": "大湾鸡被拎走",
+      "onboard_time": 1763110880,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 105643,
@@ -1563,14 +1603,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98572,
-      "num": 98572,
-      "word": "九阳豆浆回应被指玩虐猫梗",
-      "onboard_time": 1763111542,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98165,
       "num": 98165,
       "word": "阿里已抽调上百名工程师秘密办公",
@@ -1617,6 +1649,14 @@
       "onboard_time": 1763044102,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95953,
+      "num": 89912,
+      "word": "神20航天员了不起",
+      "onboard_time": 1763113101,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95773,
@@ -1723,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 91639,
+      "num": 91639,
+      "word": "也就蒋欣但凡换个人都演不出这劲儿",
+      "onboard_time": 1763112380,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91480,
       "num": 91480,
       "word": "7个艺人跳舞打了十几辆车",
@@ -1747,12 +1795,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90256,
+      "num": 90256,
+      "word": "任嘉伦彭小苒新剧梦回周生辰小枫",
+      "onboard_time": 1763112260,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90106,
       "num": 90106,
       "word": "大肠灌绿豆",
       "onboard_time": 1763106920,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 89955,
+      "num": 151685,
+      "word": "神20航天员说我们回来了",
+      "onboard_time": 1763113040,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 89485,
@@ -1777,14 +1841,6 @@
       "onboard_time": 1763035461,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 88565,
-      "num": 88564,
-      "word": "大湾鸡被拎走",
-      "onboard_time": 1763110880,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 88520,
@@ -2019,14 +2075,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 80998,
-      "num": 77223,
-      "word": "任嘉伦彭小苒新剧梦回周生辰小枫",
-      "onboard_time": 1763112260,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 80208,
       "num": 80208,
       "word": "女子引产遭拒诞下女婴已回归原生家庭",
@@ -2155,14 +2203,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75829,
-      "num": 75829,
-      "word": "也就蒋欣但凡换个人都演不出这劲儿",
-      "onboard_time": 1763112380,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75817,
       "num": 75817,
       "word": "外交部回应美3.3亿美元对台军售",
@@ -2175,6 +2215,14 @@
       "num": 74694,
       "word": "朱珠拿得出手的岂止是两个梨涡",
       "onboard_time": 1763105841,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 74678,
+      "num": 74678,
+      "word": "短剧顶流说很难演长剧",
+      "onboard_time": 1763113040,
       "rank": 48,
       "category": "剧集"
     },
@@ -2233,14 +2281,6 @@
       "onboard_time": 1763103621,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 69379,
-      "num": 160245,
-      "word": "一家五口遇害案家属崩溃喊他认罪了",
-      "onboard_time": 1763111542,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69244,
@@ -2467,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46867,
+      "num": 84468,
+      "word": "易烊千玺刘昊然坐一桌",
+      "onboard_time": 1763113340,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46839,
       "num": 134279,
       "word": "穆祉丞说我的师兄和祖师爷都来过",
@@ -2579,6 +2627,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 35850,
+      "num": 151876,
+      "word": "92岁母亲被儿打后想用500元保子",
+      "onboard_time": 1763112741,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34759,
+      "num": 88576,
+      "word": "灭门案凶手认赔900万但无能力偿还",
+      "onboard_time": 1763112081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34147,
       "num": 100874,
       "word": "网红称坐国际航班丢失350万元首饰",
@@ -2633,6 +2697,14 @@
       "onboard_time": 1763109141,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30251,
+      "num": 83205,
+      "word": "王楚钦问这么多记者是一波吗",
+      "onboard_time": 1763113340,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 29029,
@@ -2715,14 +2787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 18873,
-      "num": 88576,
-      "word": "灭门案凶手认赔900万但无能力偿还",
-      "onboard_time": 1763112081,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18731,
       "num": 55571,
       "word": "无限暖暖",
@@ -2737,6 +2801,14 @@
       "onboard_time": 1763073436,
       "rank": 43,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 18228,
+      "num": 84632,
+      "word": "汽修厂勾结客户碰瓷骗保",
+      "onboard_time": 1763113281,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 18074,
