@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763148996423,
+  "endTime": 1763152203097,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 22563,
-      "num": 26768,
+      "num": 26846,
       "word": "刘宇宁唱完脑子里全都是你啊",
       "onboard_time": 1763148914,
       "rank": 27,
@@ -513,6 +513,14 @@
       "onboard_time": 1763144595,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 18066,
+      "num": 26862,
+      "word": "冷美人33天暴瘦20斤涨粉近20万",
+      "onboard_time": 1763149154,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18000,
@@ -539,7 +547,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 14159,
+      "raw_hot": 15555,
       "num": 28476,
       "word": "人工智能",
       "onboard_time": 1763134222,
@@ -548,11 +556,27 @@
     },
     {
       "raw_hot": 13106,
-      "num": 26700,
+      "num": 26847,
       "word": "凤凰台上今日开播",
       "onboard_time": 1763143456,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 12453,
+      "num": 26844,
+      "word": "周深雨季又来临入耳又入心",
+      "onboard_time": 1763142136,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 12106,
+      "num": 26848,
+      "word": "中国人民不惧任何挑衅",
+      "onboard_time": 1763150713,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 3119,
