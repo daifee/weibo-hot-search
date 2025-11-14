@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763139013624,
+  "endTime": 1763141063678,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -3140,7 +3140,7 @@
     },
     {
       "raw_hot": 357159,
-      "num": 127094,
+      "num": 129438,
       "word": "秦彻",
       "onboard_time": 1763134702,
       "rank": 31,
@@ -4633,6 +4633,14 @@
       "onboard_time": 1763077640,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261982,
+      "num": 261982,
+      "word": "外交部连发6张日英双语海报",
+      "onboard_time": 1763133861,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 261860,
@@ -6225,14 +6233,6 @@
       "onboard_time": 1762957883,
       "rank": 25,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196639,
-      "num": 196639,
-      "word": "外交部连发6张日英双语海报",
-      "onboard_time": 1763133861,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 196420,
@@ -8371,6 +8371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154912,
+      "num": 154912,
+      "word": "汪苏泷唱了只想把你偷偷藏好",
+      "onboard_time": 1763137640,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 154828,
       "num": 149348,
       "word": "羊驼送洗后因毛发未吹干致失温死亡",
@@ -8993,14 +9001,6 @@
       "onboard_time": 1762643475,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 144798,
-      "num": 144798,
-      "word": "汪苏泷唱了只想把你偷偷藏好",
-      "onboard_time": 1763137640,
-      "rank": 16,
-      "category": "演出"
     },
     {
       "raw_hot": 144784,
@@ -10369,6 +10369,14 @@
       "onboard_time": 1762855280,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 127843,
+      "num": 127843,
+      "word": "赛琳娜说不会再上台表演",
+      "onboard_time": 1763135421,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 127728,
@@ -16035,14 +16043,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 89792,
-      "num": 125542,
-      "word": "赛琳娜说不会再上台表演",
-      "onboard_time": 1763135421,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89772,
       "num": 89772,
       "word": "人工智能",
@@ -19427,6 +19427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63101,
+      "num": 125027,
+      "word": "教育局回应小学生穿裙装敬礼",
+      "onboard_time": 1763137821,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63002,
       "num": 92003,
       "word": "拜登炮轰特朗普",
@@ -19585,6 +19593,14 @@
       "onboard_time": 1762658718,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61228,
+      "num": 124786,
+      "word": "黄子韬被徐艺洋扇脸后暗爽了",
+      "onboard_time": 1763138779,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 61216,
@@ -20009,14 +20025,6 @@
       "onboard_time": 1763003418,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 55519,
-      "num": 125027,
-      "word": "教育局回应小学生穿裙装敬礼",
-      "onboard_time": 1763137821,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55450,
@@ -20603,6 +20611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47339,
+      "num": 61227,
+      "word": "70%的糖尿病前期早干预可逆转",
+      "onboard_time": 1763140098,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 47311,
       "num": 157649,
       "word": "大湾鸡冰墩墩来自一个设计团队",
@@ -20745,14 +20761,6 @@
       "onboard_time": 1762903759,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 45962,
-      "num": 124786,
-      "word": "黄子韬被徐艺洋扇脸后暗爽了",
-      "onboard_time": 1763138779,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 45899,
@@ -21347,6 +21355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 37997,
+      "num": 61225,
+      "word": "日本2位前首相反对高市早苗言论",
+      "onboard_time": 1763140818,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37991,
       "num": 158932,
       "word": "华为手机拍到的非遗在巴黎上大分",
@@ -21681,6 +21697,14 @@
       "onboard_time": 1762640534,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 33336,
+      "num": 61223,
+      "word": "鸭力不山大花絮照",
+      "onboard_time": 1763140877,
+      "rank": 46,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 33265,
