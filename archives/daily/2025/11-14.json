@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763125633037,
+  "endTime": 1763127365960,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 841777,
-      "num": 291099,
+      "num": 375580,
       "word": "易烊千玺段奥娟同桌",
       "onboard_time": 1763122459,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 638776,
+      "num": 224611,
+      "word": "陈梦队医发文辟谣",
+      "onboard_time": 1763125882,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 633023,
       "num": 633023,
       "word": "多方退出银河酷娱股东行列",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 573406,
-      "num": 177956,
+      "num": 211472,
       "word": "站姐把王宝强拍成王一博了",
       "onboard_time": 1763118261,
       "rank": 23,
@@ -249,6 +257,22 @@
       "onboard_time": 1763121382,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 467940,
+      "num": 1074870,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763123960,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 463713,
+      "num": 193851,
+      "word": "痞幼官宣分手",
+      "onboard_time": 1763126842,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 463506,
@@ -331,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 402107,
+      "num": 220292,
+      "word": "家长视频复活27岁女儿后再添新丁",
+      "onboard_time": 1763124681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396457,
       "num": 159860,
       "word": "建议拆完快递的纸箱立马扔掉",
@@ -403,6 +435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 351683,
+      "num": 351683,
+      "word": "张博恒 全能决赛",
+      "onboard_time": 1763124981,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345561,
       "num": 345561,
       "word": "超六成糖尿病前期患者自己没感觉",
@@ -468,7 +508,7 @@
     },
     {
       "raw_hot": 318695,
-      "num": 174477,
+      "num": 190994,
       "word": "彭小苒内娱赚钱内娱花",
       "onboard_time": 1763124022,
       "rank": 21,
@@ -667,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259740,
+      "num": 231616,
+      "word": "裴喜君 富婆",
+      "onboard_time": 1763123242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 258675,
       "num": 258675,
       "word": "段奥娟首次提名金鸡奖",
@@ -688,6 +736,14 @@
       "word": "武艺理想型原来是沈月",
       "onboard_time": 1763089940,
       "rank": 33,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 243332,
+      "num": 219798,
+      "word": "宋亚轩想抱穆祉丞拦都拦不住",
+      "onboard_time": 1763124441,
+      "rank": 23,
       "category": "综艺"
     },
     {
@@ -795,6 +851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 213213,
+      "num": 213213,
+      "word": "华晨宇演唱会回到海口",
+      "onboard_time": 1763126001,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 211089,
       "num": 207197,
       "word": "赵樱子说于正真说过",
@@ -811,14 +875,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210200,
-      "num": 210200,
-      "word": "卢凌风气死我了",
-      "onboard_time": 1763123960,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 209923,
       "num": 209923,
       "word": "时代峰峻旗下公司经营异常",
@@ -827,12 +883,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199655,
-      "num": 199655,
-      "word": "宋亚轩想抱穆祉丞拦都拦不住",
-      "onboard_time": 1763124441,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 203803,
+      "num": 194761,
+      "word": "固体杨枝甘露在韩推上引起讨论",
+      "onboard_time": 1763123781,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 198528,
@@ -873,6 +929,14 @@
       "onboard_time": 1763076439,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 195067,
+      "num": 195067,
+      "word": "鬼灭之刃",
+      "onboard_time": 1763049919,
+      "rank": 22,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 192860,
@@ -923,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185752,
-      "num": 185752,
-      "word": "裴喜君 富婆",
-      "onboard_time": 1763123242,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185376,
       "num": 163418,
       "word": "吴艳妮全运会证件照延续奥运风格",
@@ -955,20 +1011,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 184351,
+      "num": 184351,
+      "word": "毛晓彤体制内的美",
+      "onboard_time": 1763125401,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 183610,
       "num": 214833,
       "word": "难哄动画广播剧原班人马回归",
       "onboard_time": 1763098461,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 183076,
-      "num": 183076,
-      "word": "家长视频复活27岁女儿后再添新丁",
-      "onboard_time": 1763124681,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 183060,
@@ -1083,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166932,
+      "num": 166932,
+      "word": "任嘉伦演帝王",
+      "onboard_time": 1763126362,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 166689,
       "num": 141355,
       "word": "马龙王楚钦再次携手",
@@ -1105,6 +1169,14 @@
       "onboard_time": 1763077040,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165262,
+      "num": 152267,
+      "word": "彭小苒 我有什么资格说辛苦",
+      "onboard_time": 1763126542,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 165123,
@@ -1283,6 +1355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150826,
+      "num": 150826,
+      "word": "马龙指导王楚钦",
+      "onboard_time": 1763125280,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149668,
       "num": 149668,
       "word": "秦牛正威回应转行做直播",
@@ -1451,28 +1531,12 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 136930,
-      "num": 136930,
-      "word": "固体杨枝甘露在韩推上引起讨论",
-      "onboard_time": 1763123781,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 136871,
       "num": 205459,
       "word": "水龙吟",
       "onboard_time": 1763115141,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136725,
-      "num": 143202,
-      "word": "鬼灭之刃",
-      "onboard_time": 1763049919,
-      "rank": 22,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 135108,
@@ -1537,14 +1601,6 @@
       "onboard_time": 1763078660,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 131062,
-      "num": 131062,
-      "word": "张博恒 全能决赛",
-      "onboard_time": 1763124981,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 128213,
@@ -1619,20 +1675,20 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 124726,
+      "num": 124726,
+      "word": "汪苏泷厦门演唱会",
+      "onboard_time": 1763127142,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 124507,
       "num": 124507,
       "word": "马龙黄友政vs牛冠凯夏易正",
       "onboard_time": 1763115141,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123960,
-      "num": 123960,
-      "word": "毛晓彤体制内的美",
-      "onboard_time": 1763125401,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 123489,
@@ -1819,14 +1875,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114342,
-      "num": 114342,
-      "word": "马龙指导王楚钦",
-      "onboard_time": 1763125280,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
@@ -1865,6 +1913,22 @@
       "onboard_time": 1763115980,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112485,
+      "num": 227026,
+      "word": "鸣潮2.8版本前瞻",
+      "onboard_time": 1763127322,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 112483,
+      "num": 112483,
+      "word": "王曼昱3比0周倩婷",
+      "onboard_time": 1763125942,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 112336,
@@ -2043,6 +2107,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105563,
+      "num": 105563,
+      "word": "河北女子200米自由泳接力金牌",
+      "onboard_time": 1763127322,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105553,
       "num": 105553,
       "word": "红白歌会名单",
@@ -2113,6 +2185,14 @@
       "onboard_time": 1763098280,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102994,
+      "num": 102994,
+      "word": "国际级裁判解读王楚钦毛巾被拿走",
+      "onboard_time": 1763125701,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 102552,
@@ -2243,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98364,
+      "num": 112533,
+      "word": "Ella发长文",
+      "onboard_time": 1763126961,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 98165,
       "num": 98165,
       "word": "阿里已抽调上百名工程师秘密办公",
@@ -2345,6 +2433,14 @@
       "onboard_time": 1763113101,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 95873,
+      "num": 95873,
+      "word": "7个不知不觉患上糖尿病的习惯",
+      "onboard_time": 1763126721,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95773,
@@ -3235,6 +3331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55309,
+      "num": 112730,
+      "word": "女子因生下女婴遭公婆侮辱打骂",
+      "onboard_time": 1763126481,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53871,
       "num": 135144,
       "word": "唐诡 李隆基",
@@ -3563,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30416,
+      "num": 217855,
+      "word": "鼠鼠我啊回地球了",
+      "onboard_time": 1763127022,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30251,
       "num": 83205,
       "word": "王楚钦问这么多记者是一波吗",
@@ -3827,8 +3939,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10457,
+      "num": 211890,
+      "word": "日本若碰红线新账旧账一起清算",
+      "onboard_time": 1763127022,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8693,
-      "num": 153902,
+      "num": 398340,
       "word": "用赛事热度点燃全民运动热情",
       "onboard_time": 1763109742,
       "rank": 7,
