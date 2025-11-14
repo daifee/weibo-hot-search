@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763134835711,
+  "endTime": 1763138075539,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -81,6 +81,14 @@
       "onboard_time": 1763126842,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1672025,
+      "num": 1672025,
+      "word": "提醒中国公民近期避免前往日本",
+      "onboard_time": 1763134401,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1654581,
@@ -265,6 +273,14 @@
       "onboard_time": 1763034801,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1202025,
+      "num": 1202025,
+      "word": "林高远刘诗雯逆转夺冠",
+      "onboard_time": 1763135781,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1199284,
@@ -531,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 880511,
+      "num": 880511,
+      "word": "外交部提醒中国公民近期避免赴日",
+      "onboard_time": 1763133922,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 877132,
       "num": 256030,
       "word": "孩子王 复活",
@@ -740,7 +764,7 @@
     },
     {
       "raw_hot": 770443,
-      "num": 107278,
+      "num": 201519,
       "word": "诗与远方扳回一局",
       "onboard_time": 1763134460,
       "rank": 30,
@@ -3115,6 +3139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357159,
+      "num": 108244,
+      "word": "秦彻",
+      "onboard_time": 1763134702,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 356806,
       "num": 356806,
       "word": "每天1个苹果身体有什么变化",
@@ -4683,14 +4715,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259523,
-      "num": 259523,
-      "word": "提醒中国公民近期避免前往日本",
-      "onboard_time": 1763134401,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 258903,
       "num": 169200,
       "word": "树莓复出",
@@ -5219,6 +5243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229243,
+      "num": 229243,
+      "word": "鬼灭之刃票房",
+      "onboard_time": 1763133982,
+      "rank": 27,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 228648,
       "num": 224781,
       "word": "文淇 我的长相演不了孬种",
@@ -5425,6 +5457,14 @@
       "onboard_time": 1762930761,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 221125,
+      "num": 221125,
+      "word": "刘诗雯打球好看",
+      "onboard_time": 1763133023,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 220908,
@@ -5865,14 +5905,6 @@
       "onboard_time": 1762783882,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205043,
-      "num": 205043,
-      "word": "外交部提醒中国公民近期避免赴日",
-      "onboard_time": 1763133922,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 204906,
@@ -7235,14 +7267,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172847,
-      "num": 105420,
-      "word": "秦彻",
-      "onboard_time": 1763134702,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 172514,
       "num": 157640,
       "word": "拜登强烈批评特朗普称其家族赚了18亿",
@@ -7795,14 +7819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 162630,
-      "num": 103184,
-      "word": "刘诗雯打球好看",
-      "onboard_time": 1763133023,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 162472,
       "num": 136617,
       "word": "林静居然是汉武大帝的卫子夫",
@@ -8065,6 +8081,14 @@
       "onboard_time": 1763018480,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158789,
+      "num": 107194,
+      "word": "高市早苗拒绝表态会否坚持无核三原则",
+      "onboard_time": 1763134521,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158722,
@@ -9860,7 +9884,7 @@
     },
     {
       "raw_hot": 133364,
-      "num": 592198,
+      "num": 1033973,
       "word": "第十五届全运会",
       "onboard_time": 1762612583,
       "rank": 2,
@@ -10265,14 +10289,6 @@
       "onboard_time": 1762768880,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 128495,
-      "num": 128495,
-      "word": "鬼灭之刃票房",
-      "onboard_time": 1763133982,
-      "rank": 27,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 128456,
@@ -11027,6 +11043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122411,
+      "num": 122411,
+      "word": "汪苏泷唱了只想把你偷偷藏好",
+      "onboard_time": 1763137640,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 122242,
       "num": 122242,
       "word": "白鹿宋雨琦贴面礼",
@@ -11411,6 +11435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118849,
+      "num": 118849,
+      "word": "外交部连发6张日英双语海报",
+      "onboard_time": 1763133861,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118837,
       "num": 126810,
       "word": "新还珠剧组回应争议",
@@ -11777,6 +11809,14 @@
       "onboard_time": 1762713194,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 115627,
+      "num": 106594,
+      "word": "张凌赫工作室出图",
+      "onboard_time": 1763134282,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 115604,
@@ -12592,6 +12632,14 @@
       "word": "林诗栋4比1赵子豪",
       "onboard_time": 1763008462,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109465,
+      "num": 109465,
+      "word": "广东队诗与远方夺冠",
+      "onboard_time": 1763135602,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -13875,14 +13923,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101116,
-      "num": 101116,
-      "word": "张凌赫工作室出图",
-      "onboard_time": 1763134282,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101107,
       "num": 159522,
       "word": "孙杨今晚出战两项决赛",
@@ -14681,14 +14721,6 @@
       "onboard_time": 1762853782,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97036,
-      "num": 97036,
-      "word": "高市早苗拒绝表态会否坚持无核三原则",
-      "onboard_time": 1763134521,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 97025,
@@ -16003,6 +16035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89792,
+      "num": 89792,
+      "word": "赛琳娜说不会再上台表演",
+      "onboard_time": 1763135421,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89772,
       "num": 89772,
       "word": "人工智能",
@@ -17043,6 +17083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 83779,
+      "num": 83779,
+      "word": "没想到张弛这么会唱",
+      "onboard_time": 1763137221,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83601,
       "num": 196146,
       "word": "张雨霏全运会100蝶冠军",
@@ -17129,14 +17177,6 @@
       "onboard_time": 1763116342,
       "rank": 29,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 82996,
-      "num": 82996,
-      "word": "外交部连发6张日英双语海报",
-      "onboard_time": 1763133861,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82947,
@@ -17385,6 +17425,14 @@
       "onboard_time": 1762943121,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81595,
+      "num": 81595,
+      "word": "林高远刘诗雯混双金牌",
+      "onboard_time": 1763135781,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 81422,
@@ -18147,6 +18195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76004,
+      "num": 76004,
+      "word": "左奇函 左医生",
+      "onboard_time": 1763135181,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75817,
       "num": 75817,
       "word": "外交部回应美3.3亿美元对台军售",
@@ -18865,6 +18921,14 @@
       "onboard_time": 1762964899,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69432,
+      "num": 69432,
+      "word": "汪苏泷不语只是一味享受尖叫",
+      "onboard_time": 1763137520,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 69350,
@@ -19715,6 +19779,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59063,
+      "num": 68093,
+      "word": "邓亚萍解说混双金牌赛",
+      "onboard_time": 1763136621,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58833,
       "num": 60030,
       "word": "AppStore抽成降至15%",
@@ -20009,6 +20081,14 @@
       "onboard_time": 1762851981,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54596,
+      "num": 68054,
+      "word": "教育局回应小学生穿裙装敬礼",
+      "onboard_time": 1763137821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54576,

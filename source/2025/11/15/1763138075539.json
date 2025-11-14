@@ -1,0 +1,410 @@
+{
+  "runTime": 1763138075539,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1672025,
+        "num": 1672025,
+        "word": "提醒中国公民近期避免前往日本",
+        "onboard_time": 1763134401,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1202025,
+        "num": 1202025,
+        "word": "林高远刘诗雯逆转夺冠",
+        "onboard_time": 1763135781,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3119,
+        "num": 1033973,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 880511,
+        "num": 880511,
+        "word": "外交部提醒中国公民近期避免赴日",
+        "onboard_time": 1763133922,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384791,
+        "num": 384791,
+        "word": "日本若碰红线新账旧账一起清算",
+        "onboard_time": 1763127022,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 318073,
+        "num": 318073,
+        "word": "林高远刘诗雯vs陈垣宇蒯曼",
+        "onboard_time": 1763131582,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 229243,
+        "num": 229243,
+        "word": "鬼灭之刃票房",
+        "onboard_time": 1763133982,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 221125,
+        "num": 221125,
+        "word": "刘诗雯打球好看",
+        "onboard_time": 1763133023,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159063,
+        "num": 219799,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763127262,
+        "rank": 8,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 136374,
+        "num": 213387,
+        "word": "凤凰台上热度",
+        "onboard_time": 1763127382,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319370,
+        "num": 207508,
+        "word": "新闻联播三分钟警告高市早苗",
+        "onboard_time": 1763115741,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 294823,
+        "num": 201539,
+        "word": "印度人疑在庐山景区洗澡",
+        "onboard_time": 1763130502,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201519,
+        "num": 201519,
+        "word": "诗与远方扳回一局",
+        "onboard_time": 1763134460,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168282,
+        "num": 168282,
+        "word": "家长视频复活27岁女儿后再添新丁",
+        "onboard_time": 1763124681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153170,
+        "num": 153170,
+        "word": "固体杨枝甘露在韩推上引起讨论",
+        "onboard_time": 1763123781,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 137043,
+        "num": 137043,
+        "word": "于正说整个行业都在看笑话",
+        "onboard_time": 1763121382,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 122411,
+        "num": 122411,
+        "word": "汪苏泷唱了只想把你偷偷藏好",
+        "onboard_time": 1763137640,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118849,
+        "num": 118849,
+        "word": "外交部连发6张日英双语海报",
+        "onboard_time": 1763133861,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111679,
+        "num": 111679,
+        "word": "小学要求家长填写可提供社会资源",
+        "onboard_time": 1763130922,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109465,
+        "num": 109465,
+        "word": "广东队诗与远方夺冠",
+        "onboard_time": 1763135602,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 871727,
+        "num": 109310,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 468378,
+        "num": 109058,
+        "word": "彭小苒 初恋死了",
+        "onboard_time": 1763129723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 375159,
+        "num": 108448,
+        "word": "易烊千玺段奥娟同桌",
+        "onboard_time": 1763122459,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 357159,
+        "num": 108244,
+        "word": "秦彻",
+        "onboard_time": 1763134702,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 270887,
+        "num": 107669,
+        "word": "站姐把王宝强拍成王一博了",
+        "onboard_time": 1763118261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227184,
+        "num": 107453,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763123960,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158789,
+        "num": 107194,
+        "word": "高市早苗拒绝表态会否坚持无核三原则",
+        "onboard_time": 1763134521,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115627,
+        "num": 106594,
+        "word": "张凌赫工作室出图",
+        "onboard_time": 1763134282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106513,
+        "num": 106513,
+        "word": "张铎不介意陈松伶年龄",
+        "onboard_time": 1763130683,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98081,
+        "num": 98081,
+        "word": "Ella发长文",
+        "onboard_time": 1763126961,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 101186,
+        "num": 95064,
+        "word": "92岁老人父亲节睡梦中被邻居杀害",
+        "onboard_time": 1763130442,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89792,
+        "num": 89792,
+        "word": "赛琳娜说不会再上台表演",
+        "onboard_time": 1763135421,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88754,
+        "num": 88754,
+        "word": "肖战卷毛男大",
+        "onboard_time": 1763114781,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86419,
+        "num": 86419,
+        "word": "张博恒全运会全能银牌",
+        "onboard_time": 1763128821,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83779,
+        "num": 83779,
+        "word": "没想到张弛这么会唱",
+        "onboard_time": 1763137221,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81595,
+        "num": 81595,
+        "word": "林高远刘诗雯混双金牌",
+        "onboard_time": 1763135781,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78920,
+        "num": 78920,
+        "word": "金价",
+        "onboard_time": 1763128283,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 76004,
+        "num": 76004,
+        "word": "左奇函 左医生",
+        "onboard_time": 1763135181,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72586,
+        "num": 72586,
+        "word": "惊天魔盗团",
+        "onboard_time": 1763129782,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69432,
+        "num": 69432,
+        "word": "汪苏泷不语只是一味享受尖叫",
+        "onboard_time": 1763137520,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 68892,
+        "num": 68892,
+        "word": "王楚钦当弟弟肉眼可见的开心",
+        "onboard_time": 1763133202,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68207,
+        "num": 68207,
+        "word": "业内称易烊千玺金鸡奖得奖胜算极大",
+        "onboard_time": 1763133742,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 68107,
+        "num": 68107,
+        "word": "大湾鸡真的是两只鸡",
+        "onboard_time": 1763134222,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60065,
+        "num": 68107,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59063,
+        "num": 68093,
+        "word": "邓亚萍解说混双金牌赛",
+        "onboard_time": 1763136621,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57735,
+        "num": 68084,
+        "word": "陈昊宇 满头白发",
+        "onboard_time": 1763114242,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57090,
+        "num": 68074,
+        "word": "吕严 碳水大王",
+        "onboard_time": 1763131942,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56029,
+        "num": 68063,
+        "word": "宋亚轩想抱穆祉丞拦都拦不住",
+        "onboard_time": 1763124441,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54596,
+        "num": 68054,
+        "word": "教育局回应小学生穿裙装敬礼",
+        "onboard_time": 1763137821,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54101,
+        "num": 68040,
+        "word": "裴喜君 富婆",
+        "onboard_time": 1763123242,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}
