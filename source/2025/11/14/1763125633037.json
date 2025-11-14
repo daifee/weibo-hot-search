@@ -1,0 +1,410 @@
+{
+  "runTime": 1763125633037,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 468997,
+        "num": 1075039,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351863,
+        "num": 351863,
+        "word": "潘展乐100自冠军",
+        "onboard_time": 1763120963,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1300,
+        "num": 284137,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 841777,
+        "num": 283473,
+        "word": "易烊千玺段奥娟同桌",
+        "onboard_time": 1763122459,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282773,
+        "num": 282773,
+        "word": "范闲爹妈变政敌",
+        "onboard_time": 1763121022,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 245028,
+        "num": 245028,
+        "word": "桥本可以考公了",
+        "onboard_time": 1763114841,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216398,
+        "num": 244816,
+        "word": "36岁快男中国唱将逆袭成功",
+        "onboard_time": 1763119641,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161747,
+        "num": 242713,
+        "word": "汪顺全运会第18金",
+        "onboard_time": 1763120182,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154288,
+        "num": 241667,
+        "word": "王楚钦vs于何一",
+        "onboard_time": 1763117841,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151789,
+        "num": 241294,
+        "word": "河南女排vs江苏女排",
+        "onboard_time": 1763123303,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 822536,
+        "num": 239390,
+        "word": "新闻联播三分钟警告高市早苗",
+        "onboard_time": 1763115741,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471122,
+        "num": 238936,
+        "word": "于正说整个行业都在看笑话",
+        "onboard_time": 1763121382,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 238026,
+        "num": 238026,
+        "word": "肖战卷毛男大",
+        "onboard_time": 1763114781,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 227681,
+        "num": 227681,
+        "word": "陈昊宇 满头白发",
+        "onboard_time": 1763114242,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210200,
+        "num": 210200,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763123960,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199655,
+        "num": 199655,
+        "word": "宋亚轩想抱穆祉丞拦都拦不住",
+        "onboard_time": 1763124441,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185752,
+        "num": 185752,
+        "word": "裴喜君 富婆",
+        "onboard_time": 1763123242,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183076,
+        "num": 183076,
+        "word": "家长视频复活27岁女儿后再添新丁",
+        "onboard_time": 1763124681,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181584,
+        "num": 181584,
+        "word": "惠英红 我很贪婪我不会放弃",
+        "onboard_time": 1763114242,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41489,
+        "num": 178732,
+        "word": "荣耀Magic8新型饭搭子",
+        "onboard_time": 1763121921,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 546669,
+        "num": 177956,
+        "word": "站姐把王宝强拍成王一博了",
+        "onboard_time": 1763118261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318695,
+        "num": 174477,
+        "word": "彭小苒内娱赚钱内娱花",
+        "onboard_time": 1763124022,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183300,
+        "num": 172040,
+        "word": "教师讲日军罪行被中日混血家长举报",
+        "onboard_time": 1763121622,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169228,
+        "num": 169228,
+        "word": "彭昱畅都想去时代峰峻了",
+        "onboard_time": 1763122342,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162248,
+        "num": 162248,
+        "word": "凤凰台上 强制爱",
+        "onboard_time": 1763124622,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151060,
+        "num": 151060,
+        "word": "王俊凯和沈腾撞衫",
+        "onboard_time": 1763123960,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149830,
+        "num": 149830,
+        "word": "曝柯淳被长剧退货",
+        "onboard_time": 1763110581,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 136930,
+        "num": 136930,
+        "word": "固体杨枝甘露在韩推上引起讨论",
+        "onboard_time": 1763123781,
+        "rank": 27,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 131062,
+        "num": 131062,
+        "word": "张博恒 全能决赛",
+        "onboard_time": 1763124981,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130796,
+        "num": 130796,
+        "word": "冷美人1分钟视频报价50元",
+        "onboard_time": 1763113101,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179026,
+        "num": 130418,
+        "word": "王曼昱vs周倩婷",
+        "onboard_time": 1763124981,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128889,
+        "num": 128889,
+        "word": "朱婷球权",
+        "onboard_time": 1763123841,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123960,
+        "num": 123960,
+        "word": "毛晓彤体制内的美",
+        "onboard_time": 1763125401,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119981,
+        "num": 119981,
+        "word": "2025金鸡奖提名者表彰仪式",
+        "onboard_time": 1763106260,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116449,
+        "num": 116449,
+        "word": "季肖冰唐诡3自己吓自己",
+        "onboard_time": 1763124562,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115450,
+        "num": 115450,
+        "word": "凤凰台上开播",
+        "onboard_time": 1763120301,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114399,
+        "num": 114399,
+        "word": "潘展乐48秒01",
+        "onboard_time": 1763122522,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114342,
+        "num": 114342,
+        "word": "马龙指导王楚钦",
+        "onboard_time": 1763125280,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11240,
+        "num": 108258,
+        "word": "男子徒步失联14天被猎户在悬崖发现",
+        "onboard_time": 1763125280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57045,
+        "num": 107922,
+        "word": "陈赫叫张子萱老张的原因",
+        "onboard_time": 1763124622,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107793,
+        "num": 107793,
+        "word": "石宇奇逆转孙超",
+        "onboard_time": 1763124922,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109666,
+        "num": 107643,
+        "word": "易烊千玺说继续用作品说话",
+        "onboard_time": 1763121081,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107420,
+        "num": 107420,
+        "word": "成毅说观众的建议指引我做得更好",
+        "onboard_time": 1763121501,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106086,
+        "num": 106086,
+        "word": "黄友政3比1夏易正",
+        "onboard_time": 1763124622,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105156,
+        "num": 105156,
+        "word": "第一次感受到智性恋的魅力",
+        "onboard_time": 1763109680,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104758,
+        "num": 104758,
+        "word": "马龙王楚钦再次携手",
+        "onboard_time": 1763120182,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99182,
+        "num": 99182,
+        "word": "鬼灭之刃 运镜",
+        "onboard_time": 1763125460,
+        "rank": 46,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 80773,
+        "num": 98707,
+        "word": "德州坠河男女系离异夫妻育有幼子",
+        "onboard_time": 1763124022,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98635,
+        "num": 98635,
+        "word": "张雨霏200蝶季军",
+        "onboard_time": 1763123362,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94516,
+        "num": 94516,
+        "word": "刘昊然快乐下班",
+        "onboard_time": 1763125581,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见泰国国王#"
+    }
+  }
+}
