@@ -1,0 +1,410 @@
+{
+  "runTime": 1763133942879,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 691492,
+        "num": 1110638,
+        "word": "日本若碰红线新账旧账一起清算",
+        "onboard_time": 1763127022,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345696,
+        "num": 345696,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763127262,
+        "rank": 1,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 3397,
+        "num": 334291,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332107,
+        "num": 332107,
+        "word": "林高远刘诗雯vs陈垣宇蒯曼",
+        "onboard_time": 1763131582,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305254,
+        "num": 305254,
+        "word": "Ella发长文",
+        "onboard_time": 1763126961,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191725,
+        "num": 300063,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214865,
+        "num": 292489,
+        "word": "凤凰台上热度",
+        "onboard_time": 1763127382,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183620,
+        "num": 281230,
+        "word": "王楚钦打趣让马龙珍惜采访机会",
+        "onboard_time": 1763127623,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178389,
+        "num": 275382,
+        "word": "小学要求家长填写可提供社会资源",
+        "onboard_time": 1763130922,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134197,
+        "num": 267691,
+        "word": "张博恒全运会全能银牌",
+        "onboard_time": 1763128821,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 663358,
+        "num": 259648,
+        "word": "印度人疑在庐山景区洗澡",
+        "onboard_time": 1763130502,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405628,
+        "num": 249218,
+        "word": "新闻联播三分钟警告高市早苗",
+        "onboard_time": 1763115741,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245595,
+        "num": 245595,
+        "word": "家长视频复活27岁女儿后再添新丁",
+        "onboard_time": 1763124681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215480,
+        "num": 215480,
+        "word": "92岁老人父亲节睡梦中被邻居杀害",
+        "onboard_time": 1763130442,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197112,
+        "num": 197112,
+        "word": "固体杨枝甘露在韩推上引起讨论",
+        "onboard_time": 1763123781,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 186559,
+        "num": 186559,
+        "word": "于正说整个行业都在看笑话",
+        "onboard_time": 1763121382,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 153239,
+        "num": 153239,
+        "word": "肖战卷毛男大",
+        "onboard_time": 1763114781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127443,
+        "num": 127443,
+        "word": "19.9元原切牛肉被指是合成肉",
+        "onboard_time": 1763131642,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125178,
+        "num": 125178,
+        "word": "张铎不介意陈松伶年龄",
+        "onboard_time": 1763130683,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120671,
+        "num": 120671,
+        "word": "周深刘宇宁说薛之谦影响了很多人",
+        "onboard_time": 1763132902,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1259688,
+        "num": 120032,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 767270,
+        "num": 119692,
+        "word": "彭小苒 初恋死了",
+        "onboard_time": 1763129723,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 500452,
+        "num": 118959,
+        "word": "易烊千玺段奥娟同桌",
+        "onboard_time": 1763122459,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 480363,
+        "num": 117519,
+        "word": "站姐把王宝强拍成王一博了",
+        "onboard_time": 1763118261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 448128,
+        "num": 117042,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763123960,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146577,
+        "num": 116384,
+        "word": "业内称易烊千玺金鸡奖得奖胜算极大",
+        "onboard_time": 1763133742,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115677,
+        "num": 115677,
+        "word": "惊天魔盗团",
+        "onboard_time": 1763129782,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108604,
+        "num": 108604,
+        "word": "惠英红 我很贪婪我不会放弃",
+        "onboard_time": 1763114242,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101875,
+        "num": 101875,
+        "word": "刘宇宁西安站回顾",
+        "onboard_time": 1763133382,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83230,
+        "num": 100971,
+        "word": "潘展乐100自冠军",
+        "onboard_time": 1763120963,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271985,
+        "num": 100850,
+        "word": "金价",
+        "onboard_time": 1763128283,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104583,
+        "num": 100622,
+        "word": "桥本可以考公了",
+        "onboard_time": 1763114841,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100367,
+        "num": 100367,
+        "word": "吕严 碳水大王",
+        "onboard_time": 1763131942,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98975,
+        "num": 98975,
+        "word": "裴喜君 富婆",
+        "onboard_time": 1763123242,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96986,
+        "num": 96986,
+        "word": "张博恒 全能决赛",
+        "onboard_time": 1763124981,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96784,
+        "num": 96784,
+        "word": "这才是面包的正常价格",
+        "onboard_time": 1763127623,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95164,
+        "num": 95164,
+        "word": "陈昊宇 满头白发",
+        "onboard_time": 1763114242,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93200,
+        "num": 93200,
+        "word": "成毅鼓掌",
+        "onboard_time": 1763131763,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90682,
+        "num": 90682,
+        "word": "陈天润直播",
+        "onboard_time": 1763131223,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85639,
+        "num": 85639,
+        "word": "张雨霏赛前与教练发生分歧",
+        "onboard_time": 1763127983,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84228,
+        "num": 84228,
+        "word": "冷美人1分钟视频报价50元",
+        "onboard_time": 1763113101,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84204,
+        "num": 84204,
+        "word": "宋亚轩想抱穆祉丞拦都拦不住",
+        "onboard_time": 1763124441,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82956,
+        "num": 82956,
+        "word": "刘诗雯打球好看",
+        "onboard_time": 1763133023,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81962,
+        "num": 81962,
+        "word": "井胧井迪上演争家产",
+        "onboard_time": 1763131582,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81333,
+        "num": 81333,
+        "word": "马龙成球场上最忙的人",
+        "onboard_time": 1763133382,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81127,
+        "num": 81127,
+        "word": "神20乘组换乘飞船回家是惊天壮举",
+        "onboard_time": 1763128883,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80528,
+        "num": 80528,
+        "word": "1890元国际航班机票改签费24400元",
+        "onboard_time": 1763131223,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77521,
+        "num": 77521,
+        "word": "谁把汪苏泷头P厦门体育场上了",
+        "onboard_time": 1763133801,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77255,
+        "num": 77255,
+        "word": "原来动画片真的没骗人",
+        "onboard_time": 1763132603,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 75453,
+        "num": 75453,
+        "word": "外交部连发6张日英双语海报",
+        "onboard_time": 1763133861,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向泰国国王介绍北京中轴线#"
+    }
+  }
+}
