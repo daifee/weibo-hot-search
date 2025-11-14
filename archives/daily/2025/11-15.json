@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763146238728,
+  "endTime": 1763148152045,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -315,6 +315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 78422,
+      "num": 46383,
+      "word": "过去一年有5千多短剧总裁被下药",
+      "onboard_time": 1763141777,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76004,
       "num": 125325,
       "word": "左奇函 左医生",
@@ -337,14 +345,6 @@
       "onboard_time": 1763129782,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 70048,
-      "num": 46383,
-      "word": "过去一年有5千多短剧总裁被下药",
-      "onboard_time": 1763141777,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 69432,
@@ -483,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26246,
+      "num": 28610,
+      "word": "周深演唱会好暖",
+      "onboard_time": 1763147715,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23432,
       "num": 38623,
       "word": "林更新李幼斌新片集齐两个魔丸",
@@ -499,7 +507,15 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 17060,
+      "raw_hot": 18000,
+      "num": 28586,
+      "word": "周深象人舞台表现力好强",
+      "onboard_time": 1763147294,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17841,
       "num": 38440,
       "word": "谁能认出来这是张凌赫",
       "onboard_time": 1763145435,
@@ -513,6 +529,14 @@
       "onboard_time": 1763146215,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14159,
+      "num": 28476,
+      "word": "人工智能",
+      "onboard_time": 1763134222,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 3119,
