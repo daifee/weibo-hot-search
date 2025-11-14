@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763159194499,
+  "endTime": 1763160152684,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -243,6 +243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 104579,
+      "num": 46383,
+      "word": "过去一年有5千多短剧总裁被下药",
+      "onboard_time": 1763141777,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101186,
       "num": 129430,
       "word": "92岁老人父亲节睡梦中被邻居杀害",
@@ -265,6 +273,14 @@
       "onboard_time": 1763126961,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93493,
+      "num": 125027,
+      "word": "教育局回应小学生穿裙装敬礼",
+      "onboard_time": 1763137821,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88754,
@@ -307,28 +323,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80089,
-      "num": 46383,
-      "word": "过去一年有5千多短剧总裁被下药",
-      "onboard_time": 1763141777,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 78920,
       "num": 125284,
       "word": "金价",
       "onboard_time": 1763128283,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 76968,
-      "num": 125027,
-      "word": "教育局回应小学生穿裙装敬礼",
-      "onboard_time": 1763137821,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 76004,
@@ -385,6 +385,14 @@
       "onboard_time": 1763134222,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62807,
+      "num": 45630,
+      "word": "冷美人33天暴瘦20斤涨粉近20万",
+      "onboard_time": 1763149154,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 60065,
@@ -451,14 +459,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 38222,
-      "num": 38222,
-      "word": "冷美人33天暴瘦20斤涨粉近20万",
-      "onboard_time": 1763149154,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34329,
       "num": 61223,
       "word": "华晨宇演唱会回到海口",
@@ -483,7 +483,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 29948,
+      "raw_hot": 32247,
       "num": 43716,
       "word": "神20航天员平安抵京",
       "onboard_time": 1763141596,
@@ -507,12 +507,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 22615,
+      "num": 36853,
+      "word": "王安宇经常请吃饭的帅气老板",
+      "onboard_time": 1763156594,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 22563,
-      "num": 30807,
+      "num": 36822,
       "word": "刘宇宁唱完脑子里全都是你啊",
       "onboard_time": 1763148914,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20019,
+      "num": 36841,
+      "word": "留几手说影视飓风tim遭罪只是刚开始",
+      "onboard_time": 1763158575,
+      "rank": 45,
+      "category": "网红,数码"
     },
     {
       "raw_hot": 19999,
@@ -523,8 +539,16 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 19447,
+      "num": 36835,
+      "word": "人工智能",
+      "onboard_time": 1763134222,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 18000,
-      "num": 29744,
+      "num": 36819,
       "word": "周深象人舞台表现力好强",
       "onboard_time": 1763147294,
       "rank": 29,
@@ -537,14 +561,6 @@
       "onboard_time": 1763145435,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 17432,
-      "num": 30841,
-      "word": "人工智能",
-      "onboard_time": 1763134222,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 15910,
@@ -561,22 +577,6 @@
       "onboard_time": 1763150713,
       "rank": 45,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 14588,
-      "num": 29748,
-      "word": "王安宇经常请吃饭的帅气老板",
-      "onboard_time": 1763156594,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14064,
-      "num": 29746,
-      "word": "留几手说影视飓风tim遭罪只是刚开始",
-      "onboard_time": 1763158575,
-      "rank": 45,
-      "category": "网红,数码"
     },
     {
       "raw_hot": 13106,
