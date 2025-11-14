@@ -1,0 +1,410 @@
+{
+  "runTime": 1763112579920,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1115414,
+        "num": 1178466,
+        "word": "神20乘组成功返回地球",
+        "onboard_time": 1763111061,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 610300,
+        "num": 610300,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1515,
+        "num": 446758,
+        "word": "十五五规划纲要问计求策",
+        "onboard_time": 1762957824,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379119,
+        "num": 379119,
+        "word": "何赛飞因行李箱被踹坏爆哭",
+        "onboard_time": 1763097560,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 336897,
+        "num": 336897,
+        "word": "日本有事就是日本有事",
+        "onboard_time": 1763083701,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213530,
+        "num": 213530,
+        "word": "彭昱畅第一次见张凌赫",
+        "onboard_time": 1763104881,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175177,
+        "num": 175177,
+        "word": "神舟二十号航天员乘组返回",
+        "onboard_time": 1763103980,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146577,
+        "num": 169622,
+        "word": "樊振东3比1获胜",
+        "onboard_time": 1763091740,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168346,
+        "num": 168346,
+        "word": "柯淳回应踹坏何赛飞行李箱",
+        "onboard_time": 1763106505,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 168311,
+        "word": "超六成糖尿病前期患者自己没感觉",
+        "onboard_time": 1763096241,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 536870,
+        "num": 167218,
+        "word": "曝柯淳被长剧退货",
+        "onboard_time": 1763110581,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 499086,
+        "num": 166823,
+        "word": "温峥嵘带货 微商产品",
+        "onboard_time": 1763110400,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369816,
+        "num": 165779,
+        "word": "面试官问抽不抽烟",
+        "onboard_time": 1763107342,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 351137,
+        "num": 165682,
+        "word": "足浴店卖淫被查多位民警遭指控",
+        "onboard_time": 1763108181,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189354,
+        "num": 164545,
+        "word": "蹭衣拍照 退货",
+        "onboard_time": 1763105120,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69244,
+        "num": 164357,
+        "word": "欢迎神20航天员回地球",
+        "onboard_time": 1763111061,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 185376,
+        "num": 163418,
+        "word": "吴艳妮全运会证件照延续奥运风格",
+        "onboard_time": 1763110282,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163165,
+        "num": 163165,
+        "word": "21岁大学生帮人跨省取快递获刑无期",
+        "onboard_time": 1763099422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104324,
+        "num": 162014,
+        "word": "易烊千玺康熙海报",
+        "onboard_time": 1763102361,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69379,
+        "num": 160245,
+        "word": "一家五口遇害案家属崩溃喊他认罪了",
+        "onboard_time": 1763111542,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230283,
+        "num": 156606,
+        "word": "蓝战非车祸伤口感染",
+        "onboard_time": 1763105600,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 169908,
+        "num": 154814,
+        "word": "艾米五官长开了",
+        "onboard_time": 1763103320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154264,
+        "num": 154264,
+        "word": "迪丽热巴看到了啥",
+        "onboard_time": 1763111361,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153371,
+        "num": 153371,
+        "word": "白鹿看升旗哭了",
+        "onboard_time": 1763106200,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145208,
+        "num": 145208,
+        "word": "第一次感受到智性恋的魅力",
+        "onboard_time": 1763109680,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120731,
+        "num": 120731,
+        "word": "樊振东被击到胸口后的反应",
+        "onboard_time": 1763105959,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117342,
+        "num": 117342,
+        "word": "怪不得实体店的衣服网购不到",
+        "onboard_time": 1763091499,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109348,
+        "num": 109348,
+        "word": "钎城普罗米乐队现场太燃了",
+        "onboard_time": 1763112022,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84958,
+        "num": 106348,
+        "word": "2025金鸡奖提名者表彰仪式",
+        "onboard_time": 1763106260,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81808,
+        "num": 105717,
+        "word": "浪姐6在彭小苒评论区团建",
+        "onboard_time": 1763112201,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105414,
+        "num": 105414,
+        "word": "人人人人黄景瑜人人人人",
+        "onboard_time": 1763110880,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103750,
+        "num": 103750,
+        "word": "上0休7 年薪000w",
+        "onboard_time": 1763104701,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101505,
+        "num": 101505,
+        "word": "k总老婆因经常喝热水食道被灼伤",
+        "onboard_time": 1763098760,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 98572,
+        "num": 98572,
+        "word": "九阳豆浆回应被指玩虐猫梗",
+        "onboard_time": 1763111542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96870,
+        "num": 96870,
+        "word": "猫 不管脚多脏都有脸上床",
+        "onboard_time": 1763094380,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95493,
+        "num": 95493,
+        "word": "三亚回应潜水员水下关女潜友气瓶",
+        "onboard_time": 1763097020,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93649,
+        "num": 93649,
+        "word": "冷美人体重暴瘦至84.5斤",
+        "onboard_time": 1763107402,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89286,
+        "num": 89286,
+        "word": "巩俐已经60了",
+        "onboard_time": 1763109141,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18873,
+        "num": 88576,
+        "word": "灭门案凶手认赔900万但无能力偿还",
+        "onboard_time": 1763112081,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41827,
+        "num": 88569,
+        "word": "郭宇欣想当演员是因为赵丽颖",
+        "onboard_time": 1763111780,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 73855,
+        "num": 88565,
+        "word": "早知道你俩私下这样我就不哭了",
+        "onboard_time": 1763111121,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88565,
+        "num": 88564,
+        "word": "大湾鸡被拎走",
+        "onboard_time": 1763110880,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81978,
+        "num": 81978,
+        "word": "返回舱开伞",
+        "onboard_time": 1763111839,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 80208,
+        "num": 80208,
+        "word": "女子引产遭拒诞下女婴已回归原生家庭",
+        "onboard_time": 1763110342,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77247,
+        "num": 77247,
+        "word": "C罗或错过世界杯正赛",
+        "onboard_time": 1763110581,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80998,
+        "num": 77223,
+        "word": "任嘉伦彭小苒新剧梦回周生辰小枫",
+        "onboard_time": 1763112260,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75829,
+        "num": 75829,
+        "word": "也就蒋欣但凡换个人都演不出这劲儿",
+        "onboard_time": 1763112380,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75817,
+        "num": 75817,
+        "word": "外交部回应美3.3亿美元对台军售",
+        "onboard_time": 1763111901,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75725,
+        "num": 75725,
+        "word": "三个影后吐槽流量演员扰乱影视业态",
+        "onboard_time": 1763094261,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61038,
+        "num": 75723,
+        "word": "世界之外顾时夜凤凰于飞",
+        "onboard_time": 1763111721,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见泰国国王#"
+    }
+  }
+}

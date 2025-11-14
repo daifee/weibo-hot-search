@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763110095469,
+  "endTime": 1763112579920,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -329,6 +329,14 @@
       "onboard_time": 1762919721,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1115414,
+      "num": 1178466,
+      "word": "神20乘组成功返回地球",
+      "onboard_time": 1763111061,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1098639,
@@ -1547,6 +1555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 536870,
+      "num": 167218,
+      "word": "曝柯淳被长剧退货",
+      "onboard_time": 1763110581,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 535268,
       "num": 325203,
       "word": "这才是可以生孩子的家庭",
@@ -1729,6 +1745,14 @@
       "onboard_time": 1762867342,
       "rank": 17,
       "category": "教育,民生新闻"
+    },
+    {
+      "raw_hot": 499086,
+      "num": 166823,
+      "word": "温峥嵘带货 微商产品",
+      "onboard_time": 1763110400,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 499022,
@@ -2692,7 +2716,7 @@
     },
     {
       "raw_hot": 376588,
-      "num": 155857,
+      "num": 165682,
       "word": "足浴店卖淫被查多位民警遭指控",
       "onboard_time": 1763108181,
       "rank": 22,
@@ -2777,6 +2801,14 @@
       "onboard_time": 1763004801,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 369816,
+      "num": 165779,
+      "word": "面试官问抽不抽烟",
+      "onboard_time": 1763107342,
+      "rank": 24,
+      "category": "情感"
     },
     {
       "raw_hot": 366258,
@@ -6363,6 +6395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 185376,
+      "num": 163418,
+      "word": "吴艳妮全运会证件照延续奥运风格",
+      "onboard_time": 1763110282,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185337,
       "num": 185337,
       "word": "饼狗趴趴",
@@ -6929,14 +6969,6 @@
       "onboard_time": 1762863621,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169117,
-      "num": 154018,
-      "word": "面试官问抽不抽烟",
-      "onboard_time": 1763107342,
-      "rank": 24,
-      "category": "情感"
     },
     {
       "raw_hot": 168084,
@@ -7803,6 +7835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154264,
+      "num": 154264,
+      "word": "迪丽热巴看到了啥",
+      "onboard_time": 1763111361,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154070,
       "num": 154070,
       "word": "网红博主建议对明星祛魅",
@@ -8281,6 +8321,14 @@
       "onboard_time": 1762917980,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145208,
+      "num": 145208,
+      "word": "第一次感受到智性恋的魅力",
+      "onboard_time": 1763109680,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 144876,
@@ -11643,6 +11691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109348,
+      "num": 109348,
+      "word": "钎城普罗米乐队现场太燃了",
+      "onboard_time": 1763112022,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109202,
       "num": 151568,
       "word": "大湾鸡会变色",
@@ -11729,14 +11785,6 @@
       "onboard_time": 1762767260,
       "rank": 37,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 108399,
-      "num": 108399,
-      "word": "第一次感受到智性恋的魅力",
-      "onboard_time": 1763109680,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 108393,
@@ -12137,6 +12185,14 @@
       "onboard_time": 1762850781,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105414,
+      "num": 105414,
+      "word": "人人人人黄景瑜人人人人",
+      "onboard_time": 1763110880,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 105402,
@@ -13264,6 +13320,14 @@
       "word": "老凤詳足金项链到手竟是金包银",
       "onboard_time": 1762866021,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98572,
+      "num": 98572,
+      "word": "九阳豆浆回应被指玩虐猫梗",
+      "onboard_time": 1763111542,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -14907,6 +14971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88565,
+      "num": 88564,
+      "word": "大湾鸡被拎走",
+      "onboard_time": 1763110880,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88520,
       "num": 88520,
       "word": "刘嘉玲帮邵子恒成功追星梁朝伟",
@@ -15523,6 +15595,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 84958,
+      "num": 106348,
+      "word": "2025金鸡奖提名者表彰仪式",
+      "onboard_time": 1763106260,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 84926,
       "num": 118397,
       "word": "小酒窝最近迷上了拼豆",
@@ -15915,6 +15995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81978,
+      "num": 81978,
+      "word": "返回舱开伞",
+      "onboard_time": 1763111839,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 81850,
       "num": 98154,
       "word": "曝美国Meta公司靠诈骗广告赚大钱",
@@ -15929,6 +16017,14 @@
       "onboard_time": 1763110041,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81808,
+      "num": 105717,
+      "word": "浪姐6在彭小苒评论区团建",
+      "onboard_time": 1763112201,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 81804,
@@ -16009,6 +16105,14 @@
       "onboard_time": 1762787721,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80998,
+      "num": 77223,
+      "word": "任嘉伦彭小苒新剧梦回周生辰小枫",
+      "onboard_time": 1763112260,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 80961,
@@ -16105,6 +16209,14 @@
       "onboard_time": 1762753639,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 80208,
+      "num": 80208,
+      "word": "女子引产遭拒诞下女婴已回归原生家庭",
+      "onboard_time": 1763110342,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80201,
@@ -16515,6 +16627,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 77247,
+      "num": 77247,
+      "word": "C罗或错过世界杯正赛",
+      "onboard_time": 1763110581,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77211,
       "num": 122082,
       "word": "2025金鸡奖颁奖典礼",
@@ -16664,6 +16784,22 @@
       "word": "新人一入职就设计航母舰载机",
       "onboard_time": 1762657460,
       "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 75829,
+      "num": 75829,
+      "word": "也就蒋欣但凡换个人都演不出这劲儿",
+      "onboard_time": 1763112380,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 75817,
+      "num": 75817,
+      "word": "外交部回应美3.3亿美元对台军售",
+      "onboard_time": 1763111901,
+      "rank": 47,
       "category": "国内时政"
     },
     {
@@ -16873,6 +17009,14 @@
       "onboard_time": 1762783403,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 73855,
+      "num": 88565,
+      "word": "早知道你俩私下这样我就不哭了",
+      "onboard_time": 1763111121,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 73786,
@@ -17355,6 +17499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69379,
+      "num": 160245,
+      "word": "一家五口遇害案家属崩溃喊他认罪了",
+      "onboard_time": 1763111542,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69350,
       "num": 69350,
       "word": "这不是刻进我DNA的暗号吗",
@@ -17369,6 +17521,14 @@
       "onboard_time": 1762839319,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69244,
+      "num": 164357,
+      "word": "欢迎神20航天员回地球",
+      "onboard_time": 1763111061,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69219,
@@ -18017,6 +18177,14 @@
       "onboard_time": 1762737500,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 61038,
+      "num": 75723,
+      "word": "世界之外顾时夜凤凰于飞",
+      "onboard_time": 1763111721,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 60955,
@@ -19435,6 +19603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41827,
+      "num": 88569,
+      "word": "郭宇欣想当演员是因为赵丽颖",
+      "onboard_time": 1763111780,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 41736,
       "num": 68797,
       "word": "Kkoma谈T1三连冠",
@@ -20800,6 +20976,14 @@
       "word": "多付车费轻生家属称司机庭上拒道歉",
       "onboard_time": 1762857441,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18873,
+      "num": 88576,
+      "word": "灭门案凶手认赔900万但无能力偿还",
+      "onboard_time": 1763112081,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
