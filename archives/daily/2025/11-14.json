@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763106012120,
+  "endTime": 1763109285944,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -25,6 +25,14 @@
       "onboard_time": 1763083701,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1199284,
+      "num": 239911,
+      "word": "九阳豆浆 虐猫梗",
+      "onboard_time": 1763104941,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1178324,
@@ -123,14 +131,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 542574,
-      "num": 239911,
-      "word": "九阳豆浆 虐猫梗",
-      "onboard_time": 1763104941,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 541307,
       "num": 541307,
       "word": "樊振东vs孙闻",
@@ -219,11 +219,27 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 390923,
+      "num": 157355,
+      "word": "蓝战非车祸伤口感染",
+      "onboard_time": 1763105600,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 384865,
       "num": 189918,
       "word": "狗咬人引杀人狗主人方认同防卫过当",
       "onboard_time": 1763084599,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 379769,
+      "num": 166452,
+      "word": "派出所副所长带队扫黄私放卖淫女",
+      "onboard_time": 1763105721,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -315,6 +331,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 323338,
+      "num": 187583,
+      "word": "艾米五官长开了",
+      "onboard_time": 1763103320,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318624,
       "num": 207462,
       "word": "曾舜晞内娱赚钱内娱花",
@@ -339,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 299393,
-      "num": 116571,
-      "word": "蓝战非车祸伤口感染",
-      "onboard_time": 1763105600,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 298579,
       "num": 142994,
       "word": "DK 许秀",
@@ -361,6 +377,14 @@
       "onboard_time": 1763090240,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 286489,
+      "num": 165121,
+      "word": "蹭衣拍照 退货",
+      "onboard_time": 1763105120,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 281314,
@@ -403,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278184,
+      "num": 278184,
+      "word": "彭昱畅第一次见张凌赫",
+      "onboard_time": 1763104881,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277281,
       "num": 766864,
       "word": "王楚钦说樊振东世界最强",
@@ -419,12 +451,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 271421,
+      "num": 271421,
+      "word": "神舟二十号航天员乘组返回",
+      "onboard_time": 1763103980,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 269482,
       "num": 269482,
       "word": "神二十继续留轨开展相关试验",
       "onboard_time": 1763092520,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 269116,
+      "num": 163727,
+      "word": "白鹿看升旗哭了",
+      "onboard_time": 1763106200,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 262157,
@@ -441,14 +489,6 @@
       "onboard_time": 1763038941,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260426,
-      "num": 260426,
-      "word": "神舟二十号航天员乘组返回",
-      "onboard_time": 1763103980,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 258675,
@@ -473,14 +513,6 @@
       "onboard_time": 1763089940,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245852,
-      "num": 187583,
-      "word": "艾米五官长开了",
-      "onboard_time": 1763103320,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 242862,
@@ -521,6 +553,22 @@
       "onboard_time": 1763046622,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 224817,
+      "num": 155857,
+      "word": "足浴店卖淫被查多位民警遭指控",
+      "onboard_time": 1763108181,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223888,
+      "num": 168662,
+      "word": "柯淳回应踹坏何赛飞行李箱",
+      "onboard_time": 1763106505,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 223767,
@@ -675,14 +723,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184066,
-      "num": 166437,
-      "word": "派出所副所长带队扫黄私放卖淫女",
-      "onboard_time": 1763105721,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183610,
       "num": 214833,
       "word": "难哄动画广播剧原班人马回归",
@@ -739,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 169117,
+      "num": 154018,
+      "word": "面试官问抽不抽烟",
+      "onboard_time": 1763107342,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167704,
       "num": 159489,
       "word": "银行4年3次采购工作服花619万",
@@ -753,14 +801,6 @@
       "onboard_time": 1763090300,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166323,
-      "num": 166323,
-      "word": "彭昱畅第一次见张凌赫",
-      "onboard_time": 1763104881,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 165491,
@@ -867,6 +907,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 150081,
+      "num": 150081,
+      "word": "高雅人士跳的是惊鸿舞",
+      "onboard_time": 1763108961,
+      "rank": 26,
+      "category": "幽默,剧集"
+    },
+    {
       "raw_hot": 149426,
       "num": 149426,
       "word": "时代少年团六年同行",
@@ -881,6 +929,14 @@
       "onboard_time": 1763094861,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148363,
+      "num": 148363,
+      "word": "樊振东被击到胸口后的反应",
+      "onboard_time": 1763105959,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 146073,
@@ -1179,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113038,
+      "num": 113038,
+      "word": "冷美人体重暴瘦至84.5斤",
+      "onboard_time": 1763107402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 112265,
       "num": 112265,
       "word": "无畏揭晓一下昨天彩蛋",
@@ -1475,14 +1539,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 95362,
-      "num": 95362,
-      "word": "樊振东被击到胸口后的反应",
-      "onboard_time": 1763105959,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95103,
       "num": 146869,
       "word": "樊振东王楚钦会师半决赛",
@@ -1515,6 +1571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93739,
+      "num": 93739,
+      "word": "国防部回应高市早苗涉台言论",
+      "onboard_time": 1763106021,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93565,
       "num": 93565,
       "word": "从严整治AI仿冒公众人物直播",
@@ -1537,6 +1601,14 @@
       "onboard_time": 1763104040,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92889,
+      "num": 92889,
+      "word": "娱乐圈结婚的高学历男明星",
+      "onboard_time": 1763109081,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 92860,
@@ -1577,6 +1649,14 @@
       "onboard_time": 1763097020,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 89952,
+      "num": 89952,
+      "word": "巩俐已经60了",
+      "onboard_time": 1763109141,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 89485,
@@ -1643,6 +1723,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 86578,
+      "num": 86578,
+      "word": "澎湃炮轰腾讯不该成为媒体总编辑",
+      "onboard_time": 1763108902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86372,
+      "num": 86372,
+      "word": "中国唱将",
+      "onboard_time": 1763108720,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86068,
       "num": 86068,
       "word": "乐队否认阿珍汽车电动座椅挤压去世",
@@ -1675,12 +1771,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85733,
-      "num": 85733,
-      "word": "蹭衣拍照 退货",
-      "onboard_time": 1763105120,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 85732,
+      "num": 85732,
+      "word": "公司女职员陪酒后死亡公安局不予立案",
+      "onboard_time": 1763107701,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85074,
@@ -1721,6 +1817,14 @@
       "onboard_time": 1763102421,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84300,
+      "num": 92929,
+      "word": "日本离沦落为印本真的不远了吗",
+      "onboard_time": 1763108181,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84223,
@@ -1843,6 +1947,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77351,
+      "num": 77351,
+      "word": "外交部敦促日方深刻反省侵略历史",
+      "onboard_time": 1763108841,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77207,
       "num": 77207,
       "word": "桃黑黑出演绣春刀",
@@ -1868,7 +1980,7 @@
     },
     {
       "raw_hot": 76279,
-      "num": 76279,
+      "num": 87632,
       "word": "从小到大我妈都这么夸我",
       "onboard_time": 1763104701,
       "rank": 49,
@@ -2107,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49785,
+      "num": 158309,
+      "word": "生发没有狠活得靠科技",
+      "onboard_time": 1763107583,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 49624,
       "num": 96627,
       "word": "国产自杀式无人机只卖1万美元",
@@ -2259,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30567,
+      "num": 93027,
+      "word": "大牌尾货竟是按吨回收的二手衣服",
+      "onboard_time": 1763108601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29029,
       "num": 67350,
       "word": "九阳豆业九阳股份已无股权关联",
@@ -2272,6 +2400,14 @@
       "word": "第十五届全运会",
       "onboard_time": 1763040982,
       "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27865,
+      "num": 162434,
+      "word": "唐钱婷徐嘉余谈后浪运动员",
+      "onboard_time": 1763107281,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -2408,6 +2544,14 @@
       "word": "男子雇4人到自然保护区砍上百棵树",
       "onboard_time": 1763098641,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12274,
+      "num": 142109,
+      "word": "中国游客印尼车祸5人遇难8人伤",
+      "onboard_time": 1763109141,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

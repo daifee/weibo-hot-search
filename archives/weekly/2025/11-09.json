@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763106012120,
+  "endTime": 1763109285944,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -249,6 +249,14 @@
       "onboard_time": 1763034801,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1199284,
+      "num": 239911,
+      "word": "九阳豆浆 虐猫梗",
+      "onboard_time": 1763104941,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1193684,
@@ -1515,14 +1523,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 542574,
-      "num": 239911,
-      "word": "九阳豆浆 虐猫梗",
-      "onboard_time": 1763104941,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 541307,
       "num": 541307,
       "word": "樊振东vs孙闻",
@@ -2507,6 +2507,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 390923,
+      "num": 157355,
+      "word": "蓝战非车祸伤口感染",
+      "onboard_time": 1763105600,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 390102,
       "num": 722804,
       "word": "台湾民众高喊我们都是中国人",
@@ -2657,6 +2665,14 @@
       "onboard_time": 1762757780,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379769,
+      "num": 166452,
+      "word": "派出所副所长带队扫黄私放卖淫女",
+      "onboard_time": 1763105721,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379593,
@@ -3299,6 +3315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 323338,
+      "num": 187583,
+      "word": "艾米五官长开了",
+      "onboard_time": 1763103320,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323299,
       "num": 193334,
       "word": "许我耀眼回应庆功宴卖货",
@@ -3603,14 +3627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 299393,
-      "num": 116571,
-      "word": "蓝战非车祸伤口感染",
-      "onboard_time": 1763105600,
-      "rank": 30,
-      "category": "网红"
-    },
-    {
       "raw_hot": 299375,
       "num": 255064,
       "word": "安妮海瑟薇连续变装的经典片段",
@@ -3851,6 +3867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 286489,
+      "num": 165121,
+      "word": "蹭衣拍照 退货",
+      "onboard_time": 1763105120,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 286203,
       "num": 847956,
       "word": "小胖状态",
@@ -4019,6 +4043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 278184,
+      "num": 278184,
+      "word": "彭昱畅第一次见张凌赫",
+      "onboard_time": 1763104881,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 278173,
       "num": 278173,
       "word": "管泽元 BLG来看比赛了",
@@ -4155,6 +4187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 271421,
+      "num": 271421,
+      "word": "神舟二十号航天员乘组返回",
+      "onboard_time": 1763103980,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 271232,
       "num": 271232,
       "word": "孙颖莎vs刘斐",
@@ -4185,6 +4225,14 @@
       "onboard_time": 1763092520,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 269116,
+      "num": 163727,
+      "word": "白鹿看升旗哭了",
+      "onboard_time": 1763106200,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 267748,
@@ -4321,14 +4369,6 @@
       "onboard_time": 1762649419,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 260426,
-      "num": 260426,
-      "word": "神舟二十号航天员乘组返回",
-      "onboard_time": 1763103980,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 260223,
@@ -4545,14 +4585,6 @@
       "onboard_time": 1762781842,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 245852,
-      "num": 187583,
-      "word": "艾米五官长开了",
-      "onboard_time": 1763103320,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 245471,
@@ -4963,12 +4995,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224817,
+      "num": 155857,
+      "word": "足浴店卖淫被查多位民警遭指控",
+      "onboard_time": 1763108181,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 224720,
       "num": 224720,
       "word": "唐朝诡事录热度",
       "onboard_time": 1762594822,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223888,
+      "num": 168662,
+      "word": "柯淳回应踹坏何赛飞行李箱",
+      "onboard_time": 1763106505,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 223819,
@@ -6347,14 +6395,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 184066,
-      "num": 166437,
-      "word": "派出所副所长带队扫黄私放卖淫女",
-      "onboard_time": 1763105721,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 183815,
       "num": 169857,
       "word": "八仙子",
@@ -6891,6 +6931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169117,
+      "num": 154018,
+      "word": "面试官问抽不抽烟",
+      "onboard_time": 1763107342,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 168084,
       "num": 209940,
       "word": "唐诡尸兄含量极高的一集",
@@ -6985,14 +7033,6 @@
       "onboard_time": 1762698624,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166323,
-      "num": 166323,
-      "word": "彭昱畅第一次见张凌赫",
-      "onboard_time": 1763104881,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 166297,
@@ -7963,6 +8003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150081,
+      "num": 150081,
+      "word": "高雅人士跳的是惊鸿舞",
+      "onboard_time": 1763108961,
+      "rank": 26,
+      "category": "幽默,剧集"
+    },
+    {
       "raw_hot": 149934,
       "num": 149934,
       "word": "张真源开场pose",
@@ -8113,6 +8161,14 @@
       "onboard_time": 1762939760,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148363,
+      "num": 148363,
+      "word": "樊振东被击到胸口后的反应",
+      "onboard_time": 1763105959,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 148263,
@@ -11075,6 +11131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113038,
+      "num": 113038,
+      "word": "冷美人体重暴瘦至84.5斤",
+      "onboard_time": 1763107402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113027,
       "num": 113027,
       "word": "陆毅说陈乔恩海盗造型像戴了秃头头套",
@@ -13707,14 +13771,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 95362,
-      "num": 95362,
-      "word": "樊振东被击到胸口后的反应",
-      "onboard_time": 1763105959,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95169,
       "num": 95169,
       "word": "林高远晋级全运会八强",
@@ -13923,6 +13979,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93739,
+      "num": 93739,
+      "word": "国防部回应高市早苗涉台言论",
+      "onboard_time": 1763106021,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 93716,
       "num": 93716,
       "word": "何穗产后身材",
@@ -14057,6 +14121,14 @@
       "onboard_time": 1763043682,
       "rank": 46,
       "category": "国内时政,互联网"
+    },
+    {
+      "raw_hot": 92889,
+      "num": 92889,
+      "word": "娱乐圈结婚的高学历男明星",
+      "onboard_time": 1763109081,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 92860,
@@ -14545,6 +14617,14 @@
       "onboard_time": 1762665079,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89952,
+      "num": 89952,
+      "word": "巩俐已经60了",
+      "onboard_time": 1763109141,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 89865,
@@ -15163,6 +15243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86578,
+      "num": 86578,
+      "word": "澎湃炮轰腾讯不该成为媒体总编辑",
+      "onboard_time": 1763108902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86501,
       "num": 86501,
       "word": "陈垣宇蒯曼vs徐海东陈幸同",
@@ -15185,6 +15273,14 @@
       "onboard_time": 1763030660,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 86372,
+      "num": 86372,
+      "word": "中国唱将",
+      "onboard_time": 1763108720,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 86356,
@@ -15315,12 +15411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85733,
-      "num": 85733,
-      "word": "蹭衣拍照 退货",
-      "onboard_time": 1763105120,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 85732,
+      "num": 85732,
+      "word": "公司女职员陪酒后死亡公安局不予立案",
+      "onboard_time": 1763107701,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85702,
@@ -15489,6 +15585,14 @@
       "onboard_time": 1762941620,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84300,
+      "num": 92929,
+      "word": "日本离沦落为印本真的不远了吗",
+      "onboard_time": 1763108181,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84249,
@@ -16339,6 +16443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77351,
+      "num": 77351,
+      "word": "外交部敦促日方深刻反省侵略历史",
+      "onboard_time": 1763108841,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 77331,
       "num": 238452,
       "word": "一诺我们又是冠军",
@@ -16452,7 +16564,7 @@
     },
     {
       "raw_hot": 76279,
-      "num": 76279,
+      "num": 87632,
       "word": "从小到大我妈都这么夸我",
       "onboard_time": 1763104701,
       "rank": 49,
@@ -18563,6 +18675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49785,
+      "num": 158309,
+      "word": "生发没有狠活得靠科技",
+      "onboard_time": 1763107583,
+      "rank": 19,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 49770,
       "num": 100999,
       "word": "孩子救命药纳入医保后却遇断供",
@@ -19979,6 +20099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 30567,
+      "num": 93027,
+      "word": "大牌尾货竟是按吨回收的二手衣服",
+      "onboard_time": 1763108601,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30395,
       "num": 30205,
       "word": "非洲十二少",
@@ -20145,6 +20273,14 @@
       "onboard_time": 1763010082,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 27865,
+      "num": 162434,
+      "word": "唐钱婷徐嘉余谈后浪运动员",
+      "onboard_time": 1763107281,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 27797,
@@ -20904,6 +21040,14 @@
       "word": "男子雇4人到自然保护区砍上百棵树",
       "onboard_time": 1763098641,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12274,
+      "num": 142109,
+      "word": "中国游客印尼车祸5人遇难8人伤",
+      "onboard_time": 1763109141,
+      "rank": 29,
       "category": "民生新闻"
     },
     {

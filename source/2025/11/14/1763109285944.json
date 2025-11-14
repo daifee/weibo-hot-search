@@ -1,0 +1,410 @@
+{
+  "runTime": 1763109285944,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 818181,
+        "num": 1130909,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 486551,
+        "num": 486551,
+        "word": "日本有事就是日本有事",
+        "onboard_time": 1763083701,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31960,
+        "num": 472107,
+        "word": "网警从严查处编造散布公共领域谣言",
+        "onboard_time": 1763096720,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471300,
+        "num": 471300,
+        "word": "何赛飞因行李箱被踹坏爆哭",
+        "onboard_time": 1763097560,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278184,
+        "num": 278184,
+        "word": "彭昱畅第一次见张凌赫",
+        "onboard_time": 1763104881,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271421,
+        "num": 271421,
+        "word": "神舟二十号航天员乘组返回",
+        "onboard_time": 1763103980,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 180441,
+        "num": 180441,
+        "word": "超六成糖尿病前期患者自己没感觉",
+        "onboard_time": 1763096241,
+        "rank": 6,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 168821,
+        "num": 168821,
+        "word": "樊振东3比1获胜",
+        "onboard_time": 1763091740,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 223888,
+        "num": 168662,
+        "word": "柯淳回应踹坏何赛飞行李箱",
+        "onboard_time": 1763106505,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130672,
+        "num": 167192,
+        "word": "上海绿捷8人被逮捕",
+        "onboard_time": 1763101400,
+        "rank": 9,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 379769,
+        "num": 166452,
+        "word": "派出所副所长带队扫黄私放卖淫女",
+        "onboard_time": 1763105721,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1199284,
+        "num": 165148,
+        "word": "九阳豆浆 虐猫梗",
+        "onboard_time": 1763104941,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286489,
+        "num": 165121,
+        "word": "蹭衣拍照 退货",
+        "onboard_time": 1763105120,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269116,
+        "num": 163727,
+        "word": "白鹿看升旗哭了",
+        "onboard_time": 1763106200,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27865,
+        "num": 162434,
+        "word": "唐钱婷徐嘉余谈后浪运动员",
+        "onboard_time": 1763107281,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201804,
+        "num": 161918,
+        "word": "21岁大学生帮人跨省取快递获刑无期",
+        "onboard_time": 1763099422,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196463,
+        "num": 160536,
+        "word": "周润发张学友不参加综艺的原因",
+        "onboard_time": 1763103440,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144307,
+        "num": 159706,
+        "word": "易烊千玺康熙海报",
+        "onboard_time": 1763102361,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120960,
+        "num": 158870,
+        "word": "三个影后吐槽流量演员扰乱影视业态",
+        "onboard_time": 1763094261,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49785,
+        "num": 158309,
+        "word": "生发没有狠活得靠科技",
+        "onboard_time": 1763107583,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 390923,
+        "num": 157355,
+        "word": "蓝战非车祸伤口感染",
+        "onboard_time": 1763105600,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 323338,
+        "num": 156570,
+        "word": "艾米五官长开了",
+        "onboard_time": 1763103320,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224817,
+        "num": 155857,
+        "word": "足浴店卖淫被查多位民警遭指控",
+        "onboard_time": 1763108181,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187106,
+        "num": 154578,
+        "word": "怪不得实体店的衣服网购不到",
+        "onboard_time": 1763091499,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 169117,
+        "num": 154018,
+        "word": "面试官问抽不抽烟",
+        "onboard_time": 1763107342,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153155,
+        "num": 153155,
+        "word": "k总老婆因经常喝热水食道被灼伤",
+        "onboard_time": 1763098760,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150081,
+        "num": 150081,
+        "word": "高雅人士跳的是惊鸿舞",
+        "onboard_time": 1763108961,
+        "rank": 26,
+        "category": "幽默,剧集"
+      },
+      {
+        "raw_hot": 148363,
+        "num": 148363,
+        "word": "樊振东被击到胸口后的反应",
+        "onboard_time": 1763105959,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100942,
+        "num": 143063,
+        "word": "鹿晗唱baby怎么没通知我",
+        "onboard_time": 1763098760,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12274,
+        "num": 142109,
+        "word": "中国游客印尼车祸5人遇难8人伤",
+        "onboard_time": 1763109141,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141350,
+        "num": 141350,
+        "word": "三亚回应潜水员水下关女潜友气瓶",
+        "onboard_time": 1763097020,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124383,
+        "num": 124383,
+        "word": "上0休7 年薪000w",
+        "onboard_time": 1763104701,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113038,
+        "num": 113038,
+        "word": "冷美人体重暴瘦至84.5斤",
+        "onboard_time": 1763107402,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102710,
+        "num": 102710,
+        "word": "猫 不管脚多脏都有脸上床",
+        "onboard_time": 1763094380,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99606,
+        "num": 99606,
+        "word": "场馆回应阿珍被电动座椅挤压去世",
+        "onboard_time": 1763100681,
+        "rank": 34,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 99548,
+        "num": 99548,
+        "word": "葛夕瘦了20多斤",
+        "onboard_time": 1763097740,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95408,
+        "num": 95408,
+        "word": "樊振东对战王楚钦时间确定",
+        "onboard_time": 1763103980,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93739,
+        "num": 93739,
+        "word": "国防部回应高市早苗涉台言论",
+        "onboard_time": 1763106021,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30567,
+        "num": 93027,
+        "word": "大牌尾货竟是按吨回收的二手衣服",
+        "onboard_time": 1763108601,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84300,
+        "num": 92929,
+        "word": "日本离沦落为印本真的不远了吗",
+        "onboard_time": 1763108181,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81049,
+        "num": 92893,
+        "word": "易烊千玺出席金鸡奖提名者表彰",
+        "onboard_time": 1763104220,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92889,
+        "num": 92889,
+        "word": "娱乐圈结婚的高学历男明星",
+        "onboard_time": 1763109081,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89952,
+        "num": 89952,
+        "word": "巩俐已经60了",
+        "onboard_time": 1763109141,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88969,
+        "num": 88969,
+        "word": "国企光明集团临时接管484校学生餐",
+        "onboard_time": 1763104821,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20199,
+        "num": 87632,
+        "word": "从小到大我妈都这么夸我",
+        "onboard_time": 1763104701,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 86578,
+        "num": 86578,
+        "word": "澎湃炮轰腾讯不该成为媒体总编辑",
+        "onboard_time": 1763108902,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86372,
+        "num": 86372,
+        "word": "中国唱将",
+        "onboard_time": 1763108720,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85732,
+        "num": 85732,
+        "word": "公司女职员陪酒后死亡公安局不予立案",
+        "onboard_time": 1763107701,
+        "rank": 47,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 84585,
+        "num": 84585,
+        "word": "以为是爷孙结果是夫妻",
+        "onboard_time": 1763095701,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 77351,
+        "num": 77351,
+        "word": "外交部敦促日方深刻反省侵略历史",
+        "onboard_time": 1763108841,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
