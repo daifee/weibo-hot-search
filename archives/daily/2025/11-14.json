@@ -1,6 +1,6 @@
 {
   "startTime": 1763051547205,
-  "endTime": 1763127365960,
+  "endTime": 1763128010258,
   "band_list": [
     {
       "raw_hot": 2901099,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 1382007,
-      "num": 239390,
+      "num": 252057,
       "word": "新闻联播三分钟警告高市早苗",
       "onboard_time": 1763115741,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1375324,
+      "num": 193851,
+      "word": "痞幼官宣分手",
+      "onboard_time": 1763126842,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 1199284,
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 841777,
-      "num": 375580,
+      "num": 399053,
       "word": "易烊千玺段奥娟同桌",
       "onboard_time": 1763122459,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 809941,
+      "num": 255482,
+      "word": "陈梦队医发文辟谣",
+      "onboard_time": 1763125882,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 786372,
@@ -137,14 +153,6 @@
       "onboard_time": 1763101400,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 638776,
-      "num": 224611,
-      "word": "陈梦队医发文辟谣",
-      "onboard_time": 1763125882,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 633023,
@@ -219,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523103,
+      "num": 1083696,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763123960,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520802,
       "num": 520802,
       "word": "中国军号用日语发文",
@@ -252,27 +268,11 @@
     },
     {
       "raw_hot": 492528,
-      "num": 238936,
+      "num": 239754,
       "word": "于正说整个行业都在看笑话",
       "onboard_time": 1763121382,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 467940,
-      "num": 1074870,
-      "word": "卢凌风气死我了",
-      "onboard_time": 1763123960,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 463713,
-      "num": 193851,
-      "word": "痞幼官宣分手",
-      "onboard_time": 1763126842,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 463506,
@@ -323,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 417952,
+      "num": 241779,
+      "word": "家长视频复活27岁女儿后再添新丁",
+      "onboard_time": 1763124681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417164,
       "num": 188970,
       "word": "第一次感受到智性恋的魅力",
@@ -353,14 +361,6 @@
       "onboard_time": 1763103440,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 402107,
-      "num": 220292,
-      "word": "家长视频复活27岁女儿后再添新丁",
-      "onboard_time": 1763124681,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 396457,
@@ -595,6 +595,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 281703,
+      "num": 233105,
+      "word": "固体杨枝甘露在韩推上引起讨论",
+      "onboard_time": 1763123781,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 281431,
+      "num": 281431,
+      "word": "裴喜君 富婆",
+      "onboard_time": 1763123242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281314,
       "num": 281314,
       "word": "王俊凯话剧官宣",
@@ -707,14 +723,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 259740,
-      "num": 231616,
-      "word": "裴喜君 富婆",
-      "onboard_time": 1763123242,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258675,
       "num": 258675,
       "word": "段奥娟首次提名金鸡奖",
@@ -740,7 +748,7 @@
     },
     {
       "raw_hot": 243332,
-      "num": 219798,
+      "num": 228015,
       "word": "宋亚轩想抱穆祉丞拦都拦不住",
       "onboard_time": 1763124441,
       "rank": 23,
@@ -867,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210910,
+      "num": 210910,
+      "word": "鬼灭之刃",
+      "onboard_time": 1763049919,
+      "rank": 22,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 210732,
       "num": 169228,
       "word": "彭昱畅都想去时代峰峻了",
@@ -883,12 +899,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 203803,
-      "num": 194761,
-      "word": "固体杨枝甘露在韩推上引起讨论",
-      "onboard_time": 1763123781,
-      "rank": 35,
-      "category": "美食"
+      "raw_hot": 202000,
+      "num": 133627,
+      "word": "肖若腾卫冕全运会全能冠军",
+      "onboard_time": 1763127441,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 198528,
@@ -929,14 +945,6 @@
       "onboard_time": 1763076439,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "鬼灭之刃",
-      "onboard_time": 1763049919,
-      "rank": 22,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 192860,
@@ -1065,6 +1073,14 @@
       "onboard_time": 1763124981,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 177112,
+      "num": 272760,
+      "word": "鸣潮2.8版本前瞻",
+      "onboard_time": 1763127322,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 176037,
@@ -1225,6 +1241,14 @@
       "onboard_time": 1763114902,
       "rank": 27,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 160854,
+      "num": 160854,
+      "word": "这才是面包的正常价格",
+      "onboard_time": 1763127623,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 160825,
@@ -1587,6 +1611,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 132390,
+      "num": 132390,
+      "word": "汪苏泷厦门演唱会",
+      "onboard_time": 1763127142,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 132274,
+      "num": 132274,
+      "word": "凤凰台上热度",
+      "onboard_time": 1763127382,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131903,
       "num": 131903,
       "word": "我国探明首个千吨级金矿",
@@ -1673,14 +1713,6 @@
       "onboard_time": 1763100020,
       "rank": 30,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 124726,
-      "num": 124726,
-      "word": "汪苏泷厦门演唱会",
-      "onboard_time": 1763127142,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 124507,
@@ -1819,6 +1851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115834,
+      "num": 115834,
+      "word": "马东应该收胡先煦门票",
+      "onboard_time": 1763127563,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115784,
       "num": 115784,
       "word": "独家视频看076首舰四川舰",
@@ -1875,12 +1915,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114159,
+      "num": 114159,
+      "word": "河北女子200米自由泳接力金牌",
+      "onboard_time": 1763127322,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113988,
       "num": 140458,
       "word": "土豆被八仙子除名",
       "onboard_time": 1763041523,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113987,
+      "num": 113987,
+      "word": "王楚钦打趣让马龙珍惜采访机会",
+      "onboard_time": 1763127623,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 113174,
@@ -1913,14 +1969,6 @@
       "onboard_time": 1763115980,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112485,
-      "num": 227026,
-      "word": "鸣潮2.8版本前瞻",
-      "onboard_time": 1763127322,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 112483,
@@ -2083,6 +2131,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107104,
+      "num": 107104,
+      "word": "江苏女排3比0河南女排",
+      "onboard_time": 1763127742,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 106747,
+      "num": 106747,
+      "word": "张雨霏赛前与教练发生分歧",
+      "onboard_time": 1763127983,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106086,
       "num": 106086,
       "word": "黄友政3比1夏易正",
@@ -2105,14 +2169,6 @@
       "onboard_time": 1763090480,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 105563,
-      "num": 105563,
-      "word": "河北女子200米自由泳接力金牌",
-      "onboard_time": 1763127322,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 105553,
@@ -2169,6 +2225,14 @@
       "onboard_time": 1763058015,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103102,
+      "num": 103102,
+      "word": "邵子恒为踢坏何赛飞箱子道歉",
+      "onboard_time": 1763127441,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103086,
@@ -2324,7 +2388,7 @@
     },
     {
       "raw_hot": 98364,
-      "num": 112533,
+      "num": 114198,
       "word": "Ella发长文",
       "onboard_time": 1763126961,
       "rank": 39,
@@ -2465,6 +2529,14 @@
       "onboard_time": 1763109322,
       "rank": 42,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 95410,
+      "num": 112730,
+      "word": "女子因生下女婴遭公婆侮辱打骂",
+      "onboard_time": 1763126481,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95276,
@@ -3259,6 +3331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64543,
+      "num": 211890,
+      "word": "日本若碰红线新账旧账一起清算",
+      "onboard_time": 1763127022,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 63769,
       "num": 173719,
       "word": "糖尿病人群患带状疱疹风险更高",
@@ -3329,14 +3409,6 @@
       "onboard_time": 1763124622,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55309,
-      "num": 112730,
-      "word": "女子因生下女婴遭公婆侮辱打骂",
-      "onboard_time": 1763126481,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53871,
@@ -3433,6 +3505,14 @@
       "onboard_time": 1763113941,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48427,
+      "num": 266761,
+      "word": "鼠鼠我啊回地球了",
+      "onboard_time": 1763127022,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48209,
@@ -3563,6 +3643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38732,
+      "num": 178980,
+      "word": "小学生冬天穿裙装站校门口敬礼",
+      "onboard_time": 1763127682,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37991,
       "num": 158932,
       "word": "华为手机拍到的非遗在巴黎上大分",
@@ -3665,14 +3753,6 @@
       "onboard_time": 1763109141,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30416,
-      "num": 217855,
-      "word": "鼠鼠我啊回地球了",
-      "onboard_time": 1763127022,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30251,
@@ -3792,6 +3872,14 @@
       "word": "柳州一中专称文身是心理变态",
       "onboard_time": 1763119462,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19217,
+      "num": 114177,
+      "word": "离婚后孩子随母姓男方拒付抚养费",
+      "onboard_time": 1763127983,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3937,14 +4025,6 @@
       "onboard_time": 1763125280,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10457,
-      "num": 211890,
-      "word": "日本若碰红线新账旧账一起清算",
-      "onboard_time": 1763127022,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8693,

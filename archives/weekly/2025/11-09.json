@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763127365960,
+  "endTime": 1763128010258,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -164,11 +164,19 @@
     },
     {
       "raw_hot": 1382007,
-      "num": 239390,
+      "num": 252057,
       "word": "新闻联播三分钟警告高市早苗",
       "onboard_time": 1763115741,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1375324,
+      "num": 193851,
+      "word": "痞幼官宣分手",
+      "onboard_time": 1763126842,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 1348771,
@@ -580,7 +588,7 @@
     },
     {
       "raw_hot": 841777,
-      "num": 375580,
+      "num": 399053,
       "word": "易烊千玺段奥娟同桌",
       "onboard_time": 1763122459,
       "rank": 3,
@@ -649,6 +657,14 @@
       "onboard_time": 1762677260,
       "rank": 20,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 809941,
+      "num": 255482,
+      "word": "陈梦队医发文辟谣",
+      "onboard_time": 1763125882,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 800833,
@@ -1081,14 +1097,6 @@
       "onboard_time": 1762839980,
       "rank": 11,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 638776,
-      "num": 224611,
-      "word": "陈梦队医发文辟谣",
-      "onboard_time": 1763125882,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 638710,
@@ -1683,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 523103,
+      "num": 1083696,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763123960,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 520802,
       "num": 520802,
       "word": "中国军号用日语发文",
@@ -1852,7 +1868,7 @@
     },
     {
       "raw_hot": 492528,
-      "num": 238936,
+      "num": 239754,
       "word": "于正说整个行业都在看笑话",
       "onboard_time": 1763121382,
       "rank": 11,
@@ -2051,14 +2067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 467940,
-      "num": 1074870,
-      "word": "卢凌风气死我了",
-      "onboard_time": 1763123960,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 467699,
       "num": 167090,
       "word": "曝王子豪宅屋主是昆凌",
@@ -2097,14 +2105,6 @@
       "onboard_time": 1762782382,
       "rank": 34,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 463713,
-      "num": 193851,
-      "word": "痞幼官宣分手",
-      "onboard_time": 1763126842,
-      "rank": 24,
-      "category": "网红"
     },
     {
       "raw_hot": 463506,
@@ -2427,6 +2427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 417952,
+      "num": 241779,
+      "word": "家长视频复活27岁女儿后再添新丁",
+      "onboard_time": 1763124681,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 417164,
       "num": 188970,
       "word": "第一次感受到智性恋的魅力",
@@ -2560,14 +2568,6 @@
       "word": "男子暴打92岁母亲被刑拘",
       "onboard_time": 1762921643,
       "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 402107,
-      "num": 220292,
-      "word": "家长视频复活27岁女儿后再添新丁",
-      "onboard_time": 1763124681,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -4155,6 +4155,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 281703,
+      "num": 233105,
+      "word": "固体杨枝甘露在韩推上引起讨论",
+      "onboard_time": 1763123781,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 281431,
+      "num": 281431,
+      "word": "裴喜君 富婆",
+      "onboard_time": 1763123242,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281314,
       "num": 281314,
       "word": "王俊凯话剧官宣",
@@ -4611,14 +4627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259740,
-      "num": 231616,
-      "word": "裴喜君 富婆",
-      "onboard_time": 1763123242,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258903,
       "num": 169200,
       "word": "树莓复出",
@@ -4836,7 +4844,7 @@
     },
     {
       "raw_hot": 243332,
-      "num": 219798,
+      "num": 228015,
       "word": "宋亚轩想抱穆祉丞拦都拦不住",
       "onboard_time": 1763124441,
       "rank": 23,
@@ -5579,6 +5587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 210910,
+      "num": 210910,
+      "word": "鬼灭之刃",
+      "onboard_time": 1763049919,
+      "rank": 22,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 210895,
       "num": 1033743,
       "word": "暗河传HE得很彻底",
@@ -5787,14 +5803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203803,
-      "num": 194761,
-      "word": "固体杨枝甘露在韩推上引起讨论",
-      "onboard_time": 1763123781,
-      "rank": 35,
-      "category": "美食"
-    },
-    {
       "raw_hot": 203541,
       "num": 159895,
       "word": "你俩亲脸都这样了亲嘴还得了",
@@ -5865,6 +5873,14 @@
       "onboard_time": 1762744818,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202000,
+      "num": 133627,
+      "word": "肖若腾卫冕全运会全能冠军",
+      "onboard_time": 1763127441,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 201593,
@@ -6161,14 +6177,6 @@
       "onboard_time": 1763076439,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 195067,
-      "num": 195067,
-      "word": "鬼灭之刃",
-      "onboard_time": 1763049919,
-      "rank": 22,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 194994,
@@ -6945,6 +6953,14 @@
       "onboard_time": 1762680860,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177112,
+      "num": 272760,
+      "word": "鸣潮2.8版本前瞻",
+      "onboard_time": 1763127322,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 176953,
@@ -7729,6 +7745,14 @@
       "onboard_time": 1762953441,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 160854,
+      "num": 160854,
+      "word": "这才是面包的正常价格",
+      "onboard_time": 1763127623,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 160842,
@@ -9779,12 +9803,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132390,
+      "num": 132390,
+      "word": "汪苏泷厦门演唱会",
+      "onboard_time": 1763127142,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 132374,
       "num": 192573,
       "word": "苏新皓一开口触发全场尖叫声",
       "onboard_time": 1762693222,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 132274,
+      "num": 132274,
+      "word": "凤凰台上热度",
+      "onboard_time": 1763127382,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 132095,
@@ -10513,14 +10553,6 @@
       "onboard_time": 1762856120,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 124726,
-      "num": 124726,
-      "word": "汪苏泷厦门演唱会",
-      "onboard_time": 1763127142,
-      "rank": 35,
-      "category": "演出"
     },
     {
       "raw_hot": 124708,
@@ -11507,6 +11539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115834,
+      "num": 115834,
+      "word": "马东应该收胡先煦门票",
+      "onboard_time": 1763127563,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115784,
       "num": 115784,
       "word": "独家视频看076首舰四川舰",
@@ -11723,12 +11763,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 114159,
+      "num": 114159,
+      "word": "河北女子200米自由泳接力金牌",
+      "onboard_time": 1763127322,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114142,
       "num": 114142,
       "word": "九阳 哈基米南北绿豆浆",
       "onboard_time": 1763006962,
       "rank": 40,
       "category": "美食"
+    },
+    {
+      "raw_hot": 113987,
+      "num": 113987,
+      "word": "王楚钦打趣让马龙珍惜采访机会",
+      "onboard_time": 1763127623,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 113918,
@@ -11897,14 +11953,6 @@
       "onboard_time": 1763115980,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112485,
-      "num": 227026,
-      "word": "鸣潮2.8版本前瞻",
-      "onboard_time": 1763127322,
-      "rank": 9,
-      "category": "游戏"
     },
     {
       "raw_hot": 112483,
@@ -12619,6 +12667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107104,
+      "num": 107104,
+      "word": "江苏女排3比0河南女排",
+      "onboard_time": 1763127742,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107101,
       "num": 107101,
       "word": "小米回应SU7改款涨价",
@@ -12673,6 +12729,14 @@
       "onboard_time": 1762753101,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106747,
+      "num": 106747,
+      "word": "张雨霏赛前与教练发生分歧",
+      "onboard_time": 1763127983,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 106646,
@@ -12841,14 +12905,6 @@
       "onboard_time": 1762744700,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105563,
-      "num": 105563,
-      "word": "河北女子200米自由泳接力金牌",
-      "onboard_time": 1763127322,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 105553,
@@ -13265,6 +13321,14 @@
       "onboard_time": 1763038222,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103102,
+      "num": 103102,
+      "word": "邵子恒为踢坏何赛飞箱子道歉",
+      "onboard_time": 1763127441,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 103095,
@@ -14084,7 +14148,7 @@
     },
     {
       "raw_hot": 98364,
-      "num": 112533,
+      "num": 114198,
       "word": "Ella发长文",
       "onboard_time": 1763126961,
       "rank": 39,
@@ -14689,6 +14753,14 @@
       "onboard_time": 1763109322,
       "rank": 42,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 95410,
+      "num": 112730,
+      "word": "女子因生下女婴遭公婆侮辱打骂",
+      "onboard_time": 1763126481,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95276,
@@ -18835,6 +18907,14 @@
       "category": "艺人,时尚"
     },
     {
+      "raw_hot": 64543,
+      "num": 211890,
+      "word": "日本若碰红线新账旧账一起清算",
+      "onboard_time": 1763127022,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64529,
       "num": 64529,
       "word": "嫁金钗 董思成",
@@ -19531,14 +19611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55309,
-      "num": 112730,
-      "word": "女子因生下女婴遭公婆侮辱打骂",
-      "onboard_time": 1763126481,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55307,
       "num": 189327,
       "word": "双11决赛圈72h倒计时",
@@ -19961,6 +20033,14 @@
       "onboard_time": 1762678639,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 48427,
+      "num": 266761,
+      "word": "鼠鼠我啊回地球了",
+      "onboard_time": 1763127022,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48409,
@@ -20771,6 +20851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38732,
+      "num": 178980,
+      "word": "小学生冬天穿裙装站校门口敬礼",
+      "onboard_time": 1763127682,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38649,
       "num": 208705,
       "word": "任嘉伦邓亚萍跨界联动",
@@ -21377,14 +21465,6 @@
       "onboard_time": 1762686079,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 30416,
-      "num": 217855,
-      "word": "鼠鼠我啊回地球了",
-      "onboard_time": 1763127022,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30395,
@@ -22027,6 +22107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19217,
+      "num": 114177,
+      "word": "离婚后孩子随母姓男方拒付抚养费",
+      "onboard_time": 1763127983,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19094,
       "num": 35184,
       "word": "王楚钦樊振东已交手32次",
@@ -22449,14 +22537,6 @@
       "onboard_time": 1762785562,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10457,
-      "num": 211890,
-      "word": "日本若碰红线新账旧账一起清算",
-      "onboard_time": 1763127022,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 9871,

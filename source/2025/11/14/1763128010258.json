@@ -1,0 +1,410 @@
+{
+  "runTime": 1763128010258,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 523103,
+        "num": 1083696,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763123960,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 484099,
+        "num": 484099,
+        "word": "冷美人退赛",
+        "onboard_time": 1763099242,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5808,
+        "num": 399657,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626243,
+        "num": 399053,
+        "word": "易烊千玺段奥娟同桌",
+        "onboard_time": 1763122459,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342932,
+        "num": 342932,
+        "word": "张博恒 全能决赛",
+        "onboard_time": 1763124981,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192650,
+        "num": 300123,
+        "word": "潘展乐100自冠军",
+        "onboard_time": 1763120963,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281431,
+        "num": 281431,
+        "word": "裴喜君 富婆",
+        "onboard_time": 1763123242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187041,
+        "num": 279618,
+        "word": "桥本可以考公了",
+        "onboard_time": 1763114841,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177112,
+        "num": 272760,
+        "word": "鸣潮2.8版本前瞻",
+        "onboard_time": 1763127322,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 48427,
+        "num": 266761,
+        "word": "鼠鼠我啊回地球了",
+        "onboard_time": 1763127022,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 809941,
+        "num": 255482,
+        "word": "陈梦队医发文辟谣",
+        "onboard_time": 1763125882,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 683468,
+        "num": 252057,
+        "word": "新闻联播三分钟警告高市早苗",
+        "onboard_time": 1763115741,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 417952,
+        "num": 241779,
+        "word": "家长视频复活27岁女儿后再添新丁",
+        "onboard_time": 1763124681,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362884,
+        "num": 239754,
+        "word": "于正说整个行业都在看笑话",
+        "onboard_time": 1763121382,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 281703,
+        "num": 233105,
+        "word": "固体杨枝甘露在韩推上引起讨论",
+        "onboard_time": 1763123781,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 228015,
+        "num": 228015,
+        "word": "宋亚轩想抱穆祉丞拦都拦不住",
+        "onboard_time": 1763124441,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220254,
+        "num": 220254,
+        "word": "肖战卷毛男大",
+        "onboard_time": 1763114781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210910,
+        "num": 210910,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763127262,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 181663,
+        "num": 181663,
+        "word": "华晨宇演唱会回到海口",
+        "onboard_time": 1763126001,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 64543,
+        "num": 181094,
+        "word": "日本若碰红线新账旧账一起清算",
+        "onboard_time": 1763127022,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1375324,
+        "num": 179810,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38732,
+        "num": 178980,
+        "word": "小学生冬天穿裙装站校门口敬礼",
+        "onboard_time": 1763127682,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481579,
+        "num": 178329,
+        "word": "站姐把王宝强拍成王一博了",
+        "onboard_time": 1763118261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183905,
+        "num": 177478,
+        "word": "毛晓彤体制内的美",
+        "onboard_time": 1763125401,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176445,
+        "num": 176445,
+        "word": "范闲爹妈变政敌",
+        "onboard_time": 1763121022,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173763,
+        "num": 173763,
+        "word": "彭小苒内娱赚钱内娱花",
+        "onboard_time": 1763124022,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160854,
+        "num": 160854,
+        "word": "这才是面包的正常价格",
+        "onboard_time": 1763127623,
+        "rank": 26,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 157175,
+        "num": 157175,
+        "word": "惠英红 我很贪婪我不会放弃",
+        "onboard_time": 1763114242,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152977,
+        "num": 152977,
+        "word": "陈昊宇 满头白发",
+        "onboard_time": 1763114242,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133718,
+        "num": 133718,
+        "word": "王俊凯和沈腾撞衫",
+        "onboard_time": 1763123960,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202000,
+        "num": 133627,
+        "word": "肖若腾卫冕全运会全能冠军",
+        "onboard_time": 1763127441,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132390,
+        "num": 132390,
+        "word": "汪苏泷厦门演唱会",
+        "onboard_time": 1763127142,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 132274,
+        "num": 132274,
+        "word": "凤凰台上热度",
+        "onboard_time": 1763127382,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131023,
+        "num": 131023,
+        "word": "教师讲日军罪行被中日混血家长举报",
+        "onboard_time": 1763121622,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122236,
+        "num": 122236,
+        "word": "马龙指导王楚钦",
+        "onboard_time": 1763125280,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119017,
+        "num": 119017,
+        "word": "冷美人1分钟视频报价50元",
+        "onboard_time": 1763113101,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118144,
+        "num": 118144,
+        "word": "曝柯淳被长剧退货",
+        "onboard_time": 1763110581,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 115834,
+        "num": 115834,
+        "word": "马东应该收胡先煦门票",
+        "onboard_time": 1763127563,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88593,
+        "num": 114198,
+        "word": "Ella发长文",
+        "onboard_time": 1763126961,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19217,
+        "num": 114177,
+        "word": "离婚后孩子随母姓男方拒付抚养费",
+        "onboard_time": 1763127983,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114159,
+        "num": 114159,
+        "word": "河北女子200米自由泳接力金牌",
+        "onboard_time": 1763127322,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115632,
+        "num": 114142,
+        "word": "2025金鸡奖提名者表彰仪式",
+        "onboard_time": 1763106260,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113987,
+        "num": 113987,
+        "word": "王楚钦打趣让马龙珍惜采访机会",
+        "onboard_time": 1763127623,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110065,
+        "num": 110065,
+        "word": "潘展乐48秒01",
+        "onboard_time": 1763122522,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107104,
+        "num": 107104,
+        "word": "江苏女排3比0河南女排",
+        "onboard_time": 1763127742,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106747,
+        "num": 106747,
+        "word": "张雨霏赛前与教练发生分歧",
+        "onboard_time": 1763127983,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95410,
+        "num": 105685,
+        "word": "女子因生下女婴遭公婆侮辱打骂",
+        "onboard_time": 1763126481,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105520,
+        "num": 105520,
+        "word": "彭小苒 我有什么资格说辛苦",
+        "onboard_time": 1763126542,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103102,
+        "num": 103102,
+        "word": "邵子恒为踢坏何赛飞箱子道歉",
+        "onboard_time": 1763127441,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101720,
+        "num": 101720,
+        "word": "国际级裁判解读王楚钦毛巾被拿走",
+        "onboard_time": 1763125701,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见泰国国王#"
+    }
+  }
+}
