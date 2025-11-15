@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763192187990,
+  "endTime": 1763195495249,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -2211,6 +2211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719654,
+      "num": 214375,
+      "word": "中国人对于晒被子的执念",
+      "onboard_time": 1763189781,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 718896,
       "num": 249666,
       "word": "苹果喊话iPhone13和14用户换新机",
@@ -3347,6 +3355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590377,
+      "num": 590377,
+      "word": "王楚钦回应樊振东评价",
+      "onboard_time": 1763192660,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 590238,
       "num": 1089680,
       "word": "邢菲拿奖导播切杨幂秦海璐",
@@ -3929,6 +3945,14 @@
       "onboard_time": 1762764379,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 542511,
+      "num": 214054,
+      "word": "全运会樊振东王楚钦打得披头散发",
+      "onboard_time": 1763190501,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 541307,
@@ -4971,6 +4995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 470486,
+      "num": 169966,
+      "word": "炎亚纶回应取关鬼鬼",
+      "onboard_time": 1763192181,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469610,
       "num": 220698,
       "word": "14岁男孩被误诊矮小症打了2940针",
@@ -5635,6 +5667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428443,
+      "num": 191030,
+      "word": "何卓佳快哭了",
+      "onboard_time": 1763190981,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 428412,
       "num": 190936,
       "word": "马龙妻子夏露分享舞蹈视频",
@@ -6219,6 +6259,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 397475,
+      "num": 397475,
+      "word": "宁静跟繁花团吐槽花少",
+      "onboard_time": 1763190682,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 397058,
       "num": 189287,
       "word": "郭宇欣一条裙子穿了三次",
@@ -6713,14 +6761,6 @@
       "onboard_time": 1763008882,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 375512,
-      "num": 191030,
-      "word": "何卓佳快哭了",
-      "onboard_time": 1763190981,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 374178,
@@ -8171,6 +8211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 321978,
+      "num": 188808,
+      "word": "王楚然疑似生病",
+      "onboard_time": 1763189600,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321842,
       "num": 181826,
       "word": "胡歌带女儿逛乐高乐园",
@@ -8385,6 +8433,14 @@
       "onboard_time": 1763004560,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 311877,
+      "num": 213581,
+      "word": "迪丽热巴给主持人打伞",
+      "onboard_time": 1763190920,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 311661,
@@ -8657,6 +8713,14 @@
       "onboard_time": 1763189061,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304376,
+      "num": 304376,
+      "word": "中国媒体罕见严厉警告日本",
+      "onboard_time": 1763192841,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 304271,
@@ -9499,14 +9563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 282235,
-      "num": 203388,
-      "word": "迪丽热巴给主持人打伞",
-      "onboard_time": 1763190920,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 281685,
       "num": 281685,
       "word": "全红婵赛后采访差点哭了",
@@ -10347,14 +10403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259717,
-      "num": 188808,
-      "word": "王楚然疑似生病",
-      "onboard_time": 1763189600,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 259607,
       "num": 259607,
       "word": "Cat即将回归赛场",
@@ -10801,14 +10849,6 @@
       "onboard_time": 1762072460,
       "rank": 7,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 247248,
-      "num": 247248,
-      "word": "宁静跟繁花团吐槽花少",
-      "onboard_time": 1763190682,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 247206,
@@ -14715,6 +14755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189692,
+      "num": 151429,
+      "word": "钟嘉欣回应婚变传闻",
+      "onboard_time": 1763195060,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -15771,6 +15819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 179960,
+      "num": 213416,
+      "word": "日本野心逐渐清晰",
+      "onboard_time": 1763194040,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 179942,
       "num": 179942,
       "word": "许昕3比1陈亚轩",
@@ -16315,6 +16371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174373,
+      "num": 174373,
+      "word": "娜扎 我素颜也很美",
+      "onboard_time": 1763193201,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 174148,
       "num": 174148,
       "word": "永庆寺",
@@ -16449,6 +16513,14 @@
       "onboard_time": 1763163499,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172618,
+      "num": 172618,
+      "word": "关晓彤金鸡奖造型图",
+      "onboard_time": 1763194642,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 172607,
@@ -17699,6 +17771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 163612,
+      "num": 163612,
+      "word": "医生让625度远视娃每天看手机",
+      "onboard_time": 1763193381,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 163590,
       "num": 163590,
       "word": "安徽肥东县3.3级地震",
@@ -17905,14 +17985,6 @@
       "onboard_time": 1762337482,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161980,
-      "num": 161980,
-      "word": "中国人对于晒被子的执念",
-      "onboard_time": 1763189781,
-      "rank": 33,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 161970,
@@ -18441,6 +18513,14 @@
       "onboard_time": 1763038522,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158401,
+      "num": 158401,
+      "word": "胡歌都快哭了",
+      "onboard_time": 1763194040,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 158351,
@@ -21449,6 +21529,14 @@
       "onboard_time": 1762761079,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 139848,
+      "num": 139848,
+      "word": "樊振东王楚钦把球打坏了",
+      "onboard_time": 1763193682,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 139846,
@@ -27051,6 +27139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117452,
+      "num": 117452,
+      "word": "女子花5000买秒回师服务母亲不解",
+      "onboard_time": 1763192360,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117432,
       "num": 165607,
       "word": "陈梦请教邓亚萍如何学好英语",
@@ -27169,6 +27265,14 @@
       "onboard_time": 1763028140,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 116897,
+      "num": 116897,
+      "word": "何卓佳赛点被罚分",
+      "onboard_time": 1763193921,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 116850,
@@ -27577,6 +27681,14 @@
       "onboard_time": 1763027601,
       "rank": 39,
       "category": "体育,休闲"
+    },
+    {
+      "raw_hot": 115569,
+      "num": 115569,
+      "word": "王楚钦说各方面他稍微有些下滑",
+      "onboard_time": 1763195301,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115558,
@@ -28072,6 +28184,14 @@
       "word": "智利车厘子果农说谢谢中国",
       "onboard_time": 1762852641,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113475,
+      "num": 122677,
+      "word": "多位中国游客借记卡遭跨国盗刷",
+      "onboard_time": 1763193201,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -32336,6 +32456,14 @@
       "word": "江苏电力回应张凌赫",
       "onboard_time": 1762386680,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101390,
+      "num": 101390,
+      "word": "李琳吐槽经超结过婚的人怎么傻了",
+      "onboard_time": 1763195420,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -46171,6 +46299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59847,
+      "num": 123059,
+      "word": "婆媳上厕所被指造成3到5万元损失",
+      "onboard_time": 1763194822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59827,
       "num": 74230,
       "word": "王楚钦训练笑笑算了",
@@ -48593,6 +48729,14 @@
       "onboard_time": 1762794618,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44138,
+      "num": 173487,
+      "word": "多家银行在拍卖平台挂牌卖房",
+      "onboard_time": 1763194401,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 44123,
@@ -52897,6 +53041,14 @@
       "onboard_time": 1762280475,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14740,
+      "num": 602638,
+      "word": "被中国健儿鼓舞到了",
+      "onboard_time": 1763194760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14710,

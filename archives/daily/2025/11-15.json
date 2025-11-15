@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763192187990,
+  "endTime": 1763195495249,
   "band_list": [
     {
       "raw_hot": 7358127,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 719654,
+      "num": 214375,
+      "word": "中国人对于晒被子的执念",
+      "onboard_time": 1763189781,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 669046,
       "num": 211720,
       "word": "朱珠白发",
@@ -139,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 590377,
+      "num": 590377,
+      "word": "王楚钦回应樊振东评价",
+      "onboard_time": 1763192660,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 566199,
       "num": 163439,
       "word": "晋江回应星落凝成糖作者求救",
@@ -153,6 +169,14 @@
       "onboard_time": 1763178740,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 542511,
+      "num": 214054,
+      "word": "全运会樊振东王楚钦打得披头散发",
+      "onboard_time": 1763190501,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 532489,
@@ -187,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 470486,
+      "num": 169966,
+      "word": "炎亚纶回应取关鬼鬼",
+      "onboard_time": 1763192181,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 468378,
       "num": 143604,
       "word": "彭小苒 初恋死了",
@@ -219,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 428443,
+      "num": 191030,
+      "word": "何卓佳快哭了",
+      "onboard_time": 1763190981,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 426515,
       "num": 426515,
       "word": "王楚钦止步全运会四强",
@@ -243,6 +283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 397475,
+      "num": 397475,
+      "word": "宁静跟繁花团吐槽花少",
+      "onboard_time": 1763190682,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 384791,
       "num": 384791,
       "word": "日本若碰红线新账旧账一起清算",
@@ -264,14 +312,6 @@
       "word": "林诗栋vs袁励岑",
       "onboard_time": 1763182942,
       "rank": 9,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 375512,
-      "num": 191030,
-      "word": "何卓佳快哭了",
-      "onboard_time": 1763190981,
-      "rank": 24,
       "category": "体育"
     },
     {
@@ -347,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 321978,
+      "num": 188808,
+      "word": "王楚然疑似生病",
+      "onboard_time": 1763189600,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 318073,
       "num": 318073,
       "word": "林高远刘诗雯vs陈垣宇蒯曼",
@@ -371,6 +419,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311877,
+      "num": 213581,
+      "word": "迪丽热巴给主持人打伞",
+      "onboard_time": 1763190920,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310824,
       "num": 308000,
       "word": "日本国民批高市早苗不适合担任首相",
@@ -393,6 +449,14 @@
       "onboard_time": 1763189061,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 304376,
+      "num": 304376,
+      "word": "中国媒体罕见严厉警告日本",
+      "onboard_time": 1763192841,
+      "rank": 7,
+      "category": "国内时政"
     },
     {
       "raw_hot": 302917,
@@ -425,14 +489,6 @@
       "onboard_time": 1763174900,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 282235,
-      "num": 203388,
-      "word": "迪丽热巴给主持人打伞",
-      "onboard_time": 1763190920,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 276481,
@@ -491,14 +547,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 259717,
-      "num": 188808,
-      "word": "王楚然疑似生病",
-      "onboard_time": 1763189600,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 256897,
       "num": 168283,
       "word": "日本共产党要求高市早苗撤回表态",
@@ -529,14 +577,6 @@
       "onboard_time": 1763163918,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 247248,
-      "num": 247248,
-      "word": "宁静跟繁花团吐槽花少",
-      "onboard_time": 1763190682,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 240711,
@@ -787,6 +827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189692,
+      "num": 151429,
+      "word": "钟嘉欣回应婚变传闻",
+      "onboard_time": 1763195060,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 188944,
       "num": 188944,
       "word": "网传唐诡奇谭12月12日播出",
@@ -819,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179960,
+      "num": 213416,
+      "word": "日本野心逐渐清晰",
+      "onboard_time": 1763194040,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175637,
       "num": 175637,
       "word": "马拉松",
@@ -835,6 +891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174373,
+      "num": 174373,
+      "word": "娜扎 我素颜也很美",
+      "onboard_time": 1763193201,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173956,
       "num": 136892,
       "word": "高市早苗叫嚣出兵台海网友反应亮了",
@@ -849,6 +913,14 @@
       "onboard_time": 1763163499,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 172618,
+      "num": 172618,
+      "word": "关晓彤金鸡奖造型图",
+      "onboard_time": 1763194642,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 171107,
@@ -899,12 +971,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 161980,
-      "num": 161980,
-      "word": "中国人对于晒被子的执念",
-      "onboard_time": 1763189781,
-      "rank": 33,
-      "category": "幽默,情感"
+      "raw_hot": 163612,
+      "num": 163612,
+      "word": "医生让625度远视娃每天看手机",
+      "onboard_time": 1763193381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 160994,
@@ -937,6 +1009,14 @@
       "onboard_time": 1763134521,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 158401,
+      "num": 158401,
+      "word": "胡歌都快哭了",
+      "onboard_time": 1763194040,
+      "rank": 29,
+      "category": "电影"
     },
     {
       "raw_hot": 157094,
@@ -1064,6 +1144,14 @@
       "word": "刘诗雯卫冕全运会混双冠军",
       "onboard_time": 1763141176,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139848,
+      "num": 139848,
+      "word": "樊振东王楚钦把球打坏了",
+      "onboard_time": 1763193682,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -1339,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117452,
+      "num": 117452,
+      "word": "女子花5000买秒回师服务母亲不解",
+      "onboard_time": 1763192360,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116973,
       "num": 116973,
       "word": "干噎酸奶",
@@ -1347,12 +1443,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116897,
+      "num": 116897,
+      "word": "何卓佳赛点被罚分",
+      "onboard_time": 1763193921,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115627,
       "num": 125612,
       "word": "张凌赫工作室出图",
       "onboard_time": 1763134282,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115569,
+      "num": 115569,
+      "word": "王楚钦说各方面他稍微有些下滑",
+      "onboard_time": 1763195301,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 115386,
@@ -1369,6 +1481,14 @@
       "onboard_time": 1763140098,
       "rank": 32,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 113475,
+      "num": 122677,
+      "word": "多位中国游客借记卡遭跨国盗刷",
+      "onboard_time": 1763193201,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112881,
@@ -1529,6 +1649,14 @@
       "onboard_time": 1763188223,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101390,
+      "num": 101390,
+      "word": "李琳吐槽经超结过婚的人怎么傻了",
+      "onboard_time": 1763195420,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 101186,
@@ -2019,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59847,
+      "num": 123059,
+      "word": "婆媳上厕所被指造成3到5万元损失",
+      "onboard_time": 1763194822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59063,
       "num": 124834,
       "word": "邓亚萍解说混双金牌赛",
@@ -2113,6 +2249,14 @@
       "onboard_time": 1763180419,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44138,
+      "num": 173487,
+      "word": "多家银行在拍卖平台挂牌卖房",
+      "onboard_time": 1763194401,
+      "rank": 18,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 42711,
@@ -2345,6 +2489,14 @@
       "onboard_time": 1763146215,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14740,
+      "num": 602638,
+      "word": "被中国健儿鼓舞到了",
+      "onboard_time": 1763194760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14661,
