@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763214101662,
+  "endTime": 1763216592483,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -169,6 +169,14 @@
       "onboard_time": 1742040988,
       "rank": 1,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 20744103,
+      "num": 20744103,
+      "word": "易烊千玺金鸡影帝",
+      "onboard_time": 1763214210,
+      "rank": 0,
+      "category": "电影"
     },
     {
       "raw_hot": 20713802,
@@ -1145,6 +1153,14 @@
       "onboard_time": 1753412543,
       "rank": 0,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 10721568,
+      "num": 10721568,
+      "word": "宋佳金鸡影后",
+      "onboard_time": 1763214998,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 10705430,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1742052569,
       "rank": 20,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 5557391,
-      "num": 5557391,
-      "word": "沈腾马丽小品",
-      "onboard_time": 1738076680,
-      "rank": 1,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 5336614,
-      "num": 4513174,
-      "word": "祝贺哪吒2票房破100亿",
-      "onboard_time": 1739437641,
-      "rank": 0,
-      "category": "电影"
     }
   ],
   "hotgov_list": [

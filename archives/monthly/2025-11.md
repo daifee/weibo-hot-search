@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/15 21:41:41
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/15 22:23:12
 </p>
 </blockquote>
 <p>
@@ -15,6 +15,12 @@
 <ol>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%23" target="weibo">
+易烊千玺金鸡影帝（热度：20744103）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
 金鸡奖（热度：13526426）
 </a>
@@ -23,6 +29,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E6%98%A5%E8%8A%82%E6%94%BE9%E5%A4%A9%E5%81%87%23" target="weibo">
 2026春节放9天假（热度：12384593）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E9%87%91%E9%B8%A1%E5%BD%B1%E5%90%8E%23" target="weibo">
+宋佳金鸡影后（热度：10721568）
 </a>
 </li>
 
@@ -699,6 +711,12 @@ Tim父亲 圆通总裁（热度：1346310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%AC%E5%88%B0%E5%B0%96%E5%8F%AB%E5%A3%B0%E6%B2%A1%E6%86%8B%E4%BD%8F%E7%AC%91%E4%BA%86%23" target="weibo">
+易烊千玺听到尖叫声没憋住笑了（热度：1178004）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E4%B8%AA%E5%BD%B1%E5%90%8E%E5%90%90%E6%A7%BD%E6%B5%81%E9%87%8F%E6%BC%94%E5%91%98%E6%89%B0%E4%B9%B1%E5%BD%B1%E8%A7%86%E4%B8%9A%E6%80%81%23" target="weibo">
 三个影后吐槽流量演员扰乱影视业态（热度：1172560）
 </a>
@@ -731,12 +749,6 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E8%8E%B7%E8%83%9C%23" target="weibo">
 樊振东3比1获胜（热度：1157348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%AC%E5%88%B0%E5%B0%96%E5%8F%AB%E5%A3%B0%E6%B2%A1%E6%86%8B%E4%BD%8F%E7%AC%91%E4%BA%86%23" target="weibo">
-易烊千玺听到尖叫声没憋住笑了（热度：1152705）
 </a>
 </li>
 
@@ -1677,6 +1689,12 @@ iPhone18Pro前瞻（热度：752671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%23" target="weibo">
+狂野时代（热度：743066）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E4%E6%AC%A1%E8%87%B4%E6%AD%89%E4%B9%9F%E4%BF%AE%E5%A4%8D%E4%B8%8D%E4%BA%86%E5%A4%A9%E6%A2%AF%E4%B9%8B%E4%BC%A4%23" target="weibo">
 奇瑞4次致歉也修复不了天梯之伤（热度：741865）
 </a>
@@ -2063,6 +2081,12 @@ Guma FMVP（热度：688837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Uzi%E9%A2%81%E5%A5%96%23" target="weibo">
 Uzi颁奖（热度：677194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%9C%B1%E9%9B%A8%E7%8E%B2%E7%88%86%E5%88%86%23" target="weibo">
+孙颖莎朱雨玲爆分（热度：676977）
 </a>
 </li>
 
@@ -2457,6 +2481,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B2%A1%E6%9D%A5%E9%A2%86%E5%A5%96%23" target="weibo">
+哪吒没来领奖（热度：623778）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8C%82%E8%87%AA%E6%9B%9D%E8%A2%AB%E4%BA%B2%E6%88%9A%E9%AA%97%E5%85%89%E6%89%80%E6%9C%89%E7%A7%AF%E8%93%84%23" target="weibo">
 李茂自曝被亲戚骗光所有积蓄（热度：621968）
 </a>
@@ -2465,6 +2495,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%9B%BD%E6%83%B3%E6%B6%A8%E4%BB%B7%E5%B0%B1%E6%B6%A8%E5%A6%82%E4%BB%8A%E6%88%90%E5%8A%9F%E5%9B%BD%E4%BA%A7%23" target="weibo">
 外国想涨价就涨如今成功国产（热度：621419）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E4%B8%89%E9%87%91%E5%BD%B1%E5%90%8E%E5%A5%B3%E9%85%8D%E9%83%BD%E5%8F%AA%E5%B7%AE%E9%87%91%E9%B8%A1%23" target="weibo">
+惠英红三金影后女配都只差金鸡（热度：619284）
 </a>
 </li>
 
@@ -2555,12 +2591,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E7%BA%A2%E6%AF%AF%23" target="weibo">
 微博视界大会红毯（热度：609464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E4%B8%89%E9%87%91%E5%BD%B1%E5%90%8E%E5%A5%B3%E9%85%8D%E9%83%BD%E5%8F%AA%E5%B7%AE%E9%87%91%E9%B8%A1%23" target="weibo">
-惠英红三金影后女配都只差金鸡（热度：608516）
 </a>
 </li>
 
@@ -3453,6 +3483,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E4%B8%9C%E8%A5%BF%23" target="weibo">
+好东西（热度：511203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E9%98%B3%E8%B1%86%E6%B5%86%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E7%8E%A9%E8%99%90%E7%8C%AB%E6%A2%97%23" target="weibo">
 九阳豆浆回应被指玩虐猫梗（热度：510607）
 </a>
@@ -3683,6 +3719,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E5%8F%B0%E4%B8%8B%E6%A8%A1%E4%BB%BF%E4%B9%96%E4%B9%96%E5%A5%B3%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 王鹤棣白鹿台下模仿乖乖女名场面（热度：491202）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E5%BC%98%20%E5%B8%9D%E5%90%8E%23" target="weibo">
+袁弘 帝后（热度：491058）
 </a>
 </li>
 
@@ -4641,6 +4683,12 @@ Faker发博晒经典夺冠表情（热度：418029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%E4%B8%BB%E6%8C%81%E5%A5%BD%E5%A4%A7%E6%B0%94%23" target="weibo">
+倪妮主持好大气（热度：414448）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%BA%BA%E7%B4%A0%E8%B4%A8%E5%A4%AA%E9%AB%98%E4%BA%86%23" target="weibo">
 中国人素质太高了（热度：414398）
 </a>
@@ -4679,6 +4727,12 @@ Faker发博晒经典夺冠表情（热度：418029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E9%80%9A%E6%8A%A5%E7%A5%96%E6%9F%90%E6%9F%90%E6%9B%BE%E6%9F%90%E7%94%9F%E6%B4%BB%E4%BD%9C%E9%A3%8E%E9%97%AE%E9%A2%98%23" target="weibo">
 湖南通报祖某某曾某生活作风问题（热度：412819）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%92%8F%E6%A2%85%20%E9%99%AA%E8%B7%91%23" target="weibo">
+咏梅 陪跑（热度：412398）
 </a>
 </li>
 
@@ -4901,6 +4955,12 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232007%E5%B9%B4%E5%90%8E%E5%87%BA%E7%94%9F%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%90%B8%E7%83%9F%23" target="weibo">
 2007年后出生的人不能在马尔代夫吸烟（热度：399271）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%23" target="weibo">
+影帝背后的男人（热度：399060）
 </a>
 </li>
 
@@ -5951,66 +6011,6 @@ Faker自拍配文成都（热度：342872）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E7%AD%8914%E5%B2%81%E4%BA%86%23" target="weibo">
 等等14岁了（热度：342507）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C4%E6%AF%940%E8%83%9C%E5%91%A8%E9%9B%A8%23" target="weibo">
-樊振东4比0胜周雨（热度：341459）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%E9%A6%96%E5%8F%91%E6%A6%82%E5%BF%B5%E7%89%87%23" target="weibo">
-剑来首发概念片（热度：341028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%23" target="weibo">
-影帝背后的男人（热度：340943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%8A%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E%E7%AB%9E%E4%BA%89%E9%83%BD%E5%A5%BD%E6%BF%80%E7%83%88%23" target="weibo">
-这届影帝影后竞争都好激烈（热度：340843）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BA%AC%E6%B3%BD%E4%BA%BA%E8%AE%BE%23" target="weibo">
-周京泽人设（热度：340050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E4%B8%8A%E7%A0%94%E7%A9%B6%E7%94%9F%E6%98%AF%E5%AF%B9%E6%B7%B7%E5%AD%90%E7%9A%84%E6%9C%80%E5%A4%A7%E6%83%A9%E7%BD%9A%23" target="weibo">
-考上研究生是对混子的最大惩罚（热度：339656）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E6%9C%88%E9%83%BD%E8%8A%B1%E8%90%BD%23" target="weibo">
-丁禹兮李兰迪 月都花落（热度：339508）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%88%96%E5%B0%86%E7%A9%BA%E6%A1%A3%E5%9B%9B%E4%B8%AA%E6%9C%88%23" target="weibo">
-王鹤棣或将空档四个月（热度：338373）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B4%BA%E5%B3%BB%E9%9C%96%20%E5%88%AB%E8%AE%A9%E7%A0%94%E7%A9%B6%E7%94%9F%E6%8B%8D%E8%BF%99%E4%BA%9B%23" target="weibo">
-贺峻霖 别让研究生拍这些（热度：337975）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%BB%E5%98%89%E4%BC%A6%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%89%8BP%E9%94%99%E4%BD%8D%E4%BA%86%23" target="weibo">
-任嘉伦工作室手P错位了（热度：337805）
 </a>
 </li>
 

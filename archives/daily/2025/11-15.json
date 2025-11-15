@@ -1,13 +1,29 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763214101662,
+  "endTime": 1763216592483,
   "band_list": [
+    {
+      "raw_hot": 20744103,
+      "num": 20744103,
+      "word": "易烊千玺金鸡影帝",
+      "onboard_time": 1763214210,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 13526426,
       "num": 13526426,
       "word": "金鸡奖",
       "onboard_time": 1763207482,
       "rank": 0,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 10721568,
+      "num": 10721568,
+      "word": "宋佳金鸡影后",
+      "onboard_time": 1763214998,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -115,19 +131,19 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1178004,
+      "num": 840179,
+      "word": "易烊千玺听到尖叫声没憋住笑了",
+      "onboard_time": 1763212708,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1157416,
       "num": 1157416,
       "word": "祖峰金鸡奖提名没了",
       "onboard_time": 1763202802,
       "rank": 8,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1152705,
-      "num": 840179,
-      "word": "易烊千玺听到尖叫声没憋住笑了",
-      "onboard_time": 1763212708,
-      "rank": 14,
       "category": "电影"
     },
     {
@@ -275,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 743066,
+      "num": 422805,
+      "word": "狂野时代",
+      "onboard_time": 1763215291,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 719654,
       "num": 293795,
       "word": "中国人对于晒被子的执念",
@@ -304,6 +328,14 @@
       "word": "许昕0比3王楚钦",
       "onboard_time": 1763212587,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 676977,
+      "num": 676977,
+      "word": "孙颖莎朱雨玲爆分",
+      "onboard_time": 1763214210,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -355,7 +387,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 608516,
+      "raw_hot": 623778,
+      "num": 438704,
+      "word": "哪吒没来领奖",
+      "onboard_time": 1763214149,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 619284,
       "num": 608516,
       "word": "惠英红三金影后女配都只差金鸡",
       "onboard_time": 1763212526,
@@ -435,12 +475,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 511203,
+      "num": 432482,
+      "word": "好东西",
+      "onboard_time": 1763209345,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 496331,
       "num": 282406,
       "word": "迪丽热巴直播",
       "onboard_time": 1763185701,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 491058,
+      "num": 417335,
+      "word": "袁弘 帝后",
+      "onboard_time": 1763216068,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 482292,
@@ -555,6 +611,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 414448,
+      "num": 414448,
+      "word": "倪妮主持好大气",
+      "onboard_time": 1763214514,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 412398,
+      "num": 412398,
+      "word": "咏梅 陪跑",
+      "onboard_time": 1763216310,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 412021,
       "num": 412021,
       "word": "朱一龙帮宋佳摘掉黏在背上的姓名贴",
@@ -577,6 +649,14 @@
       "onboard_time": 1763204723,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 399060,
+      "num": 399060,
+      "word": "影帝背后的男人",
+      "onboard_time": 1763208624,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 397475,
@@ -667,14 +747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 340943,
-      "num": 340943,
-      "word": "影帝背后的男人",
-      "onboard_time": 1763208624,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 340428,
       "num": 207508,
       "word": "新闻联播三分钟警告高市早苗",
@@ -753,6 +825,14 @@
       "onboard_time": 1763131582,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316846,
+      "num": 316846,
+      "word": "上拉如酒后肇事逃逸被刑拘",
+      "onboard_time": 1763215352,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 316534,
@@ -883,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287969,
+      "num": 287969,
+      "word": "孙杨自由泳接力",
+      "onboard_time": 1763213548,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 283530,
       "num": 283530,
       "word": "王楚钦13比11赵子豪",
@@ -912,6 +1000,14 @@
       "word": "蒋梦婕金鸡女神造型",
       "onboard_time": 1763197582,
       "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 274857,
+      "num": 225189,
+      "word": "陈思诚戴墨金鸡奖最佳导演",
+      "onboard_time": 1763216430,
+      "rank": 40,
       "category": "电影"
     },
     {
@@ -1059,11 +1155,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 235248,
-      "num": 235248,
-      "word": "好东西",
-      "onboard_time": 1763209345,
-      "rank": 23,
+      "raw_hot": 238883,
+      "num": 217155,
+      "word": "金鸡奖最佳男主角颁奖嘉宾",
+      "onboard_time": 1763213067,
+      "rank": 43,
       "category": "电影"
     },
     {
@@ -1291,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201273,
+      "num": 201273,
+      "word": "王楚钦3比0许昕",
+      "onboard_time": 1763215352,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201198,
       "num": 201198,
       "word": "睡前饥饿感频发可能是胰岛素抵抗",
@@ -1411,6 +1515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 194089,
+      "num": 378970,
+      "word": "原来六公主也在关注华为新机",
+      "onboard_time": 1763213667,
+      "rank": 29,
+      "category": "电影,数码"
+    },
+    {
       "raw_hot": 193846,
       "num": 193846,
       "word": "周恺1比3马龙",
@@ -1475,6 +1587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 190461,
+      "num": 201160,
+      "word": "杨力维哭了",
+      "onboard_time": 1763216251,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190104,
       "num": 201445,
       "word": "短剧女演员也是给内娱上强度了",
@@ -1521,14 +1641,6 @@
       "onboard_time": 1763200821,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 187876,
-      "num": 187876,
-      "word": "金鸡奖最佳男主角颁奖嘉宾",
-      "onboard_time": 1763213067,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 186259,
@@ -1584,14 +1696,6 @@
       "word": "王楚钦说半决赛很精彩",
       "onboard_time": 1763190981,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 178688,
-      "num": 178688,
-      "word": "孙杨自由泳接力",
-      "onboard_time": 1763213548,
-      "rank": 46,
       "category": "体育"
     },
     {
@@ -1739,6 +1843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160938,
+      "num": 201018,
+      "word": "方糕居然有这么多口味",
+      "onboard_time": 1763216549,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 160668,
       "num": 160668,
       "word": "迪丽热巴南京线下活动人气",
@@ -1761,6 +1873,14 @@
       "onboard_time": 1763202562,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159746,
+      "num": 381517,
+      "word": "日方某些人撒泡尿照照自己几斤几两",
+      "onboard_time": 1763214871,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 158789,
@@ -1905,6 +2025,14 @@
       "onboard_time": 1763199321,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147786,
+      "num": 234603,
+      "word": "华晨宇 社交太难了",
+      "onboard_time": 1763216131,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 147741,
@@ -2169,14 +2297,6 @@
       "onboard_time": 1763206463,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 134907,
-      "num": 266119,
-      "word": "原来六公主也在关注华为新机",
-      "onboard_time": 1763213667,
-      "rank": 29,
-      "category": "电影,数码"
     },
     {
       "raw_hot": 134775,
@@ -3531,12 +3651,36 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 40093,
+      "num": 228655,
+      "word": "辛芷蕾工作室 爱正主",
+      "onboard_time": 1763216007,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 39038,
+      "num": 2529123,
+      "word": "十五运会赛场外步步生花",
+      "onboard_time": 1763213367,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 38658,
       "num": 104923,
       "word": "奔跑吧天路篇录制收官大合影",
       "onboard_time": 1763180720,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37948,
+      "num": 446626,
+      "word": "日本民众围堵首相官邸要求高市下台",
+      "onboard_time": 1763216131,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36596,
@@ -3651,14 +3795,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 27992,
-      "num": 2529123,
-      "word": "十五运会赛场外步步生花",
-      "onboard_time": 1763213367,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 26850,
       "num": 104959,
       "word": "夏之光你接的是正经活吗",
@@ -3689,6 +3825,14 @@
       "onboard_time": 1763162599,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24958,
+      "num": 424712,
+      "word": "长崎欲修改南京大屠杀表述",
+      "onboard_time": 1763216251,
+      "rank": 20,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23432,
