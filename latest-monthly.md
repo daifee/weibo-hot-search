@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/15 18:26:09
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/15 18:41:45
 </p>
 </blockquote>
 <p>
@@ -249,6 +249,12 @@ T1对战TES（热度：1793569）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%8F%91%E7%9A%84%E4%B8%AD%E6%97%A5%E5%86%9B%E5%8A%9B%E6%AF%94%E8%BE%83%23" target="weibo">
+日本网友发的中日军力比较（热度：1770076）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%84%A4%E6%80%92%E6%AD%A3%E5%9C%A8%E5%8D%87%E7%BA%A7%23" target="weibo">
 中方愤怒正在升级（热度：1763806）
 </a>
@@ -281,12 +287,6 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%85%AD%E5%86%A0%E7%8E%8B%23" target="weibo">
 Faker六冠王（热度：1654581）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%8F%91%E7%9A%84%E4%B8%AD%E6%97%A5%E5%86%9B%E5%8A%9B%E6%AF%94%E8%BE%83%23" target="weibo">
-日本网友发的中日军力比较（热度：1645086）
 </a>
 </li>
 
@@ -1059,6 +1059,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%8E%E7%90%B3%E5%90%A6%E8%AE%A4%E4%B8%8E%E7%BB%8F%E8%B6%85%E7%9B%B8%E5%B7%AE6%E5%B2%81%23" target="weibo">
+小李琳否认与经超相差6岁（热度：908410）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%B9%E7%BA%A2%E5%8D%AB%E8%A2%AB%E6%9F%A5%23" target="weibo">
 西安市委书记方红卫被查（热度：905693）
 </a>
@@ -1247,6 +1253,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E7%94%B7%E5%AD%90%E5%A5%B8%E6%9D%80%E7%A2%8E%E5%B0%B8%E8%A2%AB%E6%8B%98%E7%A6%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E5%88%A4%E6%AD%BB%E5%88%91%23" target="weibo">
 两男子奸杀碎尸被拘禁女子被判死刑（热度：837343）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8F%91%E5%A3%B0%23" target="weibo">
+日本3位前首相发声（热度：835674）
 </a>
 </li>
 
@@ -1529,12 +1541,6 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E6%96%87%E7%9C%9F%E7%9A%84%E6%98%AF%E6%BB%9E%E5%90%8E%E6%80%A7%E5%BE%88%E5%BC%BA%E7%9A%84%E4%B8%80%E9%97%A8%E5%AD%A6%E7%A7%91%23" target="weibo">
 语文真的是滞后性很强的一门学科（热度：756837）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%8E%E7%90%B3%E5%90%A6%E8%AE%A4%E4%B8%8E%E7%BB%8F%E8%B6%85%E7%9B%B8%E5%B7%AE6%E5%B2%81%23" target="weibo">
-小李琳否认与经超相差6岁（热度：756311）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ KK园区已被严重破坏（热度：332604）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%91%E6%9D%A5%23" target="weibo">
 剑来（热度：332474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC%E4%BA%8C%E6%A1%88%E6%96%AD%E6%9B%B4%E7%82%B9%E6%98%AF%E8%A6%81%E6%88%91%E5%91%BD%E5%90%97%23" target="weibo">
-唐诡3第二案断更点是要我命吗（热度：332205）
 </a>
 </li>
 

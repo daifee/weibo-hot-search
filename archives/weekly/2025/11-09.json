@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763202369386,
+  "endTime": 1763203305186,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -99,6 +99,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1770076,
+      "num": 274757,
+      "word": "日本网友发的中日军力比较",
+      "onboard_time": 1763200821,
+      "rank": 10,
+      "category": "军事"
+    },
+    {
       "raw_hot": 1763806,
       "num": 1763806,
       "word": "中方愤怒正在升级",
@@ -137,14 +145,6 @@
       "onboard_time": 1762690584,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 1645086,
-      "num": 274757,
-      "word": "日本网友发的中日军力比较",
-      "onboard_time": 1763200821,
-      "rank": 10,
-      "category": "军事"
     },
     {
       "raw_hot": 1583422,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 908410,
+      "num": 203419,
+      "word": "小李琳否认与经超相差6岁",
+      "onboard_time": 1763201302,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 893653,
       "num": 190891,
       "word": "李连杰状态",
@@ -721,6 +729,14 @@
       "onboard_time": 1762860742,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 835674,
+      "num": 835674,
+      "word": "日本3位前首相发声",
+      "onboard_time": 1763201721,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 830554,
@@ -889,14 +905,6 @@
       "onboard_time": 1762833141,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 756311,
-      "num": 196912,
-      "word": "小李琳否认与经超相差6岁",
-      "onboard_time": 1763201302,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 755616,
@@ -2724,7 +2732,7 @@
     },
     {
       "raw_hot": 427722,
-      "num": 194087,
+      "num": 200939,
       "word": "樊振东回应赢后没有庆祝动作",
       "onboard_time": 1763201603,
       "rank": 22,
@@ -3889,6 +3897,14 @@
       "onboard_time": 1762676361,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 327732,
+      "num": 327732,
+      "word": "祖峰金鸡奖提名没了",
+      "onboard_time": 1763202802,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 327690,
@@ -5131,6 +5147,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264375,
+      "num": 264375,
+      "word": "辛芷蕾紫色花朵高定",
+      "onboard_time": 1763200821,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264082,
       "num": 180290,
       "word": "长沙地铁内一女生衣物起火",
@@ -5419,14 +5443,6 @@
       "category": "体育,国内时政"
     },
     {
-      "raw_hot": 251050,
-      "num": 251050,
-      "word": "日本3位前首相发声",
-      "onboard_time": 1763201721,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 250106,
       "num": 143445,
       "word": "章泽天尽量每天7点起床",
@@ -5705,14 +5721,6 @@
       "onboard_time": 1762706059,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 235791,
-      "num": 235791,
-      "word": "辛芷蕾紫色花朵高定",
-      "onboard_time": 1763200821,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 235455,
@@ -6099,6 +6107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 221654,
+      "num": 221654,
+      "word": "关晓彤盎然绿玫瑰",
+      "onboard_time": 1763202082,
+      "rank": 45,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221125,
       "num": 221125,
       "word": "刘诗雯打球好看",
@@ -6321,6 +6337,14 @@
       "onboard_time": 1762955842,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 213023,
+      "num": 200117,
+      "word": "金鸡影帝影后终极预测",
+      "onboard_time": 1763202322,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 212747,
@@ -7795,14 +7819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 181897,
-      "num": 181897,
-      "word": "金鸡影帝影后终极预测",
-      "onboard_time": 1763202322,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
       "raw_hot": 181823,
       "num": 181823,
       "word": "吴宣仪玫瑰权杖",
@@ -7985,6 +8001,14 @@
       "onboard_time": 1762616182,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 176373,
+      "num": 169054,
+      "word": "马英九发声",
+      "onboard_time": 1763202862,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 176246,
@@ -8377,6 +8401,14 @@
       "onboard_time": 1763187802,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167819,
+      "num": 167819,
+      "word": "中方已做好对日实质反制准备",
+      "onboard_time": 1763203222,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 167704,
@@ -9011,6 +9043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159971,
+      "num": 159971,
+      "word": "王楚钦退场",
+      "onboard_time": 1763202562,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159953,
       "num": 159953,
       "word": "陈天润疑似离开时代峰峻",
@@ -9257,6 +9297,14 @@
       "onboard_time": 1763011520,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157147,
+      "num": 157147,
+      "word": "3外籍男子无视景区警告脱衣洗澡",
+      "onboard_time": 1763203222,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157094,
@@ -9905,6 +9953,14 @@
       "onboard_time": 1762939760,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 148347,
+      "num": 148347,
+      "word": "日本这次的借口与侵华时如出一辙",
+      "onboard_time": 1763203222,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 148263,
@@ -12035,14 +12091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125323,
-      "num": 125323,
-      "word": "关晓彤盎然绿玫瑰",
-      "onboard_time": 1763202082,
-      "rank": 45,
-      "category": "电影"
-    },
-    {
       "raw_hot": 125239,
       "num": 125239,
       "word": "紫藤花雨的花语是晚安小忍",
@@ -13099,6 +13147,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117748,
+      "num": 117748,
+      "word": "彭昱畅张子枫亲兄妹也不过如此了吧",
+      "onboard_time": 1763202382,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117708,
       "num": 117708,
       "word": "丞磊顶腮这下",
@@ -13531,6 +13587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114588,
+      "num": 114588,
+      "word": "菠萝蜜夹酸奶",
+      "onboard_time": 1763203282,
+      "rank": 48,
+      "category": "美食"
+    },
+    {
       "raw_hot": 114489,
       "num": 114489,
       "word": "女子因生下女婴遭公婆侮辱打骂",
@@ -13649,6 +13713,14 @@
       "onboard_time": 1763091979,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 113173,
+      "num": 113173,
+      "word": "金鸡奖闭幕式主持",
+      "onboard_time": 1763203102,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 113114,
@@ -15209,6 +15281,14 @@
       "onboard_time": 1762772240,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103450,
+      "num": 1065389,
+      "word": "航天鼠回地球吃超大果冻",
+      "onboard_time": 1763202621,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103394,
