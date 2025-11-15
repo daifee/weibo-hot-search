@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/16 07:24:00
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/16 07:37:07
 </p>
 </blockquote>
 <p>
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%99%E6%AC%A1%E7%9A%84%E5%80%9F%E5%8F%A3%E4%B8%8E%E4%BE%B5%E5%8D%8E%E6%97%B6%E5%A6%82%E5%87%BA%E4%B8%80%E8%BE%99%23" target="weibo">
+日本这次的借口与侵华时如出一辙（热度：372499）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%91%BC%E5%90%81%E7%90%83%E8%BF%B7%E7%B2%89%E4%B8%9D%E7%90%86%E6%80%A7%E8%A7%82%E8%B5%9B%23" target="weibo">
 孙颖莎呼吁球迷粉丝理性观赛（热度：359179）
 </a>
@@ -119,12 +125,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
 金鸡奖获奖名单（热度：348164）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%BF%99%E6%AC%A1%E7%9A%84%E5%80%9F%E5%8F%A3%E4%B8%8E%E4%BE%B5%E5%8D%8E%E6%97%B6%E5%A6%82%E5%87%BA%E4%B8%80%E8%BE%99%23" target="weibo">
-日本这次的借口与侵华时如出一辙（热度：319150）
 </a>
 </li>
 
@@ -167,6 +167,12 @@ Doinb不建议Uzi复出（热度：258043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%91%E5%B9%B4%E7%9A%84%E4%BD%A0%23" target="weibo">
 少年的你（热度：192118）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E8%BF%994%E4%B8%AA%E8%AF%8D%E7%9A%84%E5%A5%B6%E8%8C%B6%E5%B0%BD%E9%87%8F%E5%88%AB%E7%82%B9%23" target="weibo">
+带这4个词的奶茶尽量别点（热度：184844）
 </a>
 </li>
 
@@ -225,12 +231,6 @@ Doinb不建议Uzi复出（热度：258043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%A6%E8%BF%994%E4%B8%AA%E8%AF%8D%E7%9A%84%E5%A5%B6%E8%8C%B6%E5%B0%BD%E9%87%8F%E5%88%AB%E7%82%B9%23" target="weibo">
-带这4个词的奶茶尽量别点（热度：143263）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%9C%B1%E9%9B%A8%E7%8E%B2%E7%88%86%E5%88%86%23" target="weibo">
 孙颖莎朱雨玲爆分（热度：138418）
 </a>
@@ -279,6 +279,12 @@ Doinb不建议Uzi复出（热度：258043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E9%87%91%E9%B8%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
+短剧演员金鸡红毯（热度：117146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%23" target="weibo">
 现在就出发（热度：110577）
 </a>
@@ -303,6 +309,12 @@ Doinb不建议Uzi复出（热度：258043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E6%89%B6%E4%BD%8F%E4%BA%86%E5%B7%AE%E7%82%B9%E8%A2%AB%E7%BB%8A%E5%80%92%E7%9A%84%E8%92%8B%E5%8B%A4%E5%8B%A4%23" target="weibo">
+陈建斌扶住了差点被绊倒的蒋勤勤（热度：95746）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4%23" target="weibo">
 国际金价深夜跳水（热度：93134）
 </a>
@@ -315,20 +327,8 @@ Doinb不建议Uzi复出（热度：258043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E6%BC%94%E5%91%98%E9%87%91%E9%B8%A1%E7%BA%A2%E6%AF%AF%23" target="weibo">
-短剧演员金鸡红毯（热度：85182）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%8E%E6%B9%96%E6%B5%B7%E6%88%98%23" target="weibo">
 澎湖海战（热度：82674）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%BB%BA%E6%96%8C%E6%89%B6%E4%BD%8F%E4%BA%86%E5%B7%AE%E7%82%B9%E8%A2%AB%E7%BB%8A%E5%80%92%E7%9A%84%E8%92%8B%E5%8B%A4%E5%8B%A4%23" target="weibo">
-陈建斌扶住了差点被绊倒的蒋勤勤（热度：79501）
 </a>
 </li>
 
@@ -341,6 +341,12 @@ Doinb不建议Uzi复出（热度：258043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%87%BA%E5%9B%BE%23" target="weibo">
 迪丽热巴工作室出图（热度：73029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E5%AD%90%E5%BC%B9%E7%88%86%E7%82%B8%E5%B9%B8%E5%AD%98%E8%80%85%E6%89%B9%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
+原子弹爆炸幸存者批高市早苗（热度：66425）
 </a>
 </li>
 
@@ -363,6 +369,24 @@ Doinb不建议Uzi复出（热度：258043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E5%8F%91%E7%94%9F%E5%A4%A7%E5%B1%A0%E6%9D%80%E4%B8%8A%E5%8D%83%E5%90%8D%E5%B9%B3%E6%B0%91%E9%81%87%E5%AE%B3%23" target="weibo">
+非洲发生大屠杀上千名平民遇害（热度：56308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%A1%8C%E5%BC%95%E5%8F%91%E4%B8%AD%E4%BF%84%E6%9C%9D%E9%9F%A9%E5%9B%9B%E5%9B%BD%E4%B8%8D%E6%BB%A1%23" target="weibo">
+高市早苗言行引发中俄朝韩四国不满（热度：53048）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E5%87%8C%E9%A3%8E%E6%88%8F%E9%87%8C%E6%88%8F%E5%A4%96%E9%83%BD%E6%98%AF%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
+卢凌风戏里戏外都是太平公主的儿子（热度：51631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%BA%BF%E7%A5%A8%E6%88%BF%20%E7%BE%8E%E6%9C%AF%E5%A5%96%23" target="weibo">
 百亿票房 美术奖（热度：49469）
 </a>
@@ -375,26 +399,14 @@ Doinb不建议Uzi复出（热度：258043）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%A1%8C%E5%BC%95%E5%8F%91%E4%B8%AD%E4%BF%84%E6%9C%9D%E9%9F%A9%E5%9B%9B%E5%9B%BD%E4%B8%8D%E6%BB%A1%23" target="weibo">
-高市早苗言行引发中俄朝韩四国不满（热度：45264）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%98%89%E6%AC%A3%E5%B0%86%E5%92%8C%E8%80%81%E5%85%AC%E5%BA%86%E7%A5%9D%E7%BB%93%E5%A9%9A%E5%8D%81%E5%91%A8%E5%B9%B4%23" target="weibo">
-钟嘉欣将和老公庆祝结婚十周年（热度：43514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E5%87%8C%E9%A3%8E%E6%88%8F%E9%87%8C%E6%88%8F%E5%A4%96%E9%83%BD%E6%98%AF%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
-卢凌风戏里戏外都是太平公主的儿子（热度：43488）
+钟嘉欣将和老公庆祝结婚十周年（热度：44709）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E5%91%8A%E8%AF%89%E6%88%91%E8%BF%99%E6%98%AF%E6%AF%9B%E6%99%93%E5%BD%A4%23" target="weibo">
-你告诉我这是毛晓彤（热度：42109）
+你告诉我这是毛晓彤（热度：43908）
 </a>
 </li>
 
@@ -411,8 +423,14 @@ Doinb不建议Uzi复出（热度：258043）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BE%9B%E6%9A%96%23" target="weibo">
+供暖（热度：35568）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B9%B4%E8%BD%BB%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%23" target="weibo">
-易烊千玺史上最年轻金鸡影帝（热度：32695）
+易烊千玺史上最年轻金鸡影帝（热度：32984）
 </a>
 </li>
 
@@ -425,12 +443,6 @@ Doinb不建议Uzi复出（热度：258043）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E7%9C%BC%E7%9D%AB%E6%AF%9B%E8%BF%98%E5%8F%AF%E4%BB%A5%E6%9F%93%E8%89%B2%23" target="weibo">
 原来眼睫毛还可以染色（热度：32101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BE%9B%E6%9A%96%23" target="weibo">
-供暖（热度：30647）
 </a>
 </li>
 

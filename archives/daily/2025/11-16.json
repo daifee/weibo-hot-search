@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763249040540,
+  "endTime": 1763249827600,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 764439,
-      "num": 789520,
+      "num": 892701,
       "word": "高市早苗让日本国家承担代价",
       "onboard_time": 1763206825,
       "rank": 1,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 372499,
+      "num": 319150,
+      "word": "日本这次的借口与侵华时如出一辙",
+      "onboard_time": 1763203222,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 359179,
       "num": 553932,
       "word": "孙颖莎呼吁球迷粉丝理性观赛",
@@ -145,14 +153,6 @@
       "onboard_time": 1763207422,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 319150,
-      "num": 319150,
-      "word": "日本这次的借口与侵华时如出一辙",
-      "onboard_time": 1763203222,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 296495,
@@ -209,6 +209,14 @@
       "onboard_time": 1763217987,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184844,
+      "num": 89833,
+      "word": "带这4个词的奶茶尽量别点",
+      "onboard_time": 1763248817,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 181728,
@@ -283,14 +291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143263,
-      "num": 79710,
-      "word": "带这4个词的奶茶尽量别点",
-      "onboard_time": 1763248817,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 138418,
       "num": 138418,
       "word": "孙颖莎朱雨玲爆分",
@@ -355,6 +355,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 117146,
+      "num": 91139,
+      "word": "短剧演员金鸡红毯",
+      "onboard_time": 1763245454,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110577,
       "num": 110577,
       "word": "现在就出发",
@@ -387,6 +395,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 95746,
+      "num": 90216,
+      "word": "陈建斌扶住了差点被绊倒的蒋勤勤",
+      "onboard_time": 1763234115,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 93134,
       "num": 93134,
       "word": "国际金价深夜跳水",
@@ -403,27 +419,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 85182,
-      "num": 80054,
-      "word": "短剧演员金鸡红毯",
-      "onboard_time": 1763245454,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82674,
       "num": 82674,
       "word": "澎湖海战",
       "onboard_time": 1763224880,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 79501,
-      "num": 79501,
-      "word": "陈建斌扶住了差点被绊倒的蒋勤勤",
-      "onboard_time": 1763234115,
-      "rank": 48,
       "category": "电影"
     },
     {
@@ -441,6 +441,14 @@
       "onboard_time": 1763226320,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66425,
+      "num": 58051,
+      "word": "原子弹爆炸幸存者批高市早苗",
+      "onboard_time": 1763249779,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 65833,
@@ -467,6 +475,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 56308,
+      "num": 56308,
+      "word": "非洲发生大屠杀上千名平民遇害",
+      "onboard_time": 1763204723,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 53048,
+      "num": 53048,
+      "word": "高市早苗言行引发中俄朝韩四国不满",
+      "onboard_time": 1763235494,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 51631,
+      "num": 51631,
+      "word": "卢凌风戏里戏外都是太平公主的儿子",
+      "onboard_time": 1763247617,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 49469,
       "num": 65412,
       "word": "百亿票房 美术奖",
@@ -483,32 +515,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 45264,
-      "num": 45264,
-      "word": "高市早苗言行引发中俄朝韩四国不满",
-      "onboard_time": 1763235494,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 43514,
-      "num": 43514,
+      "raw_hot": 44709,
+      "num": 44709,
       "word": "钟嘉欣将和老公庆祝结婚十周年",
       "onboard_time": 1763242573,
       "rank": 36,
       "category": "艺人"
     },
     {
-      "raw_hot": 43488,
-      "num": 43488,
-      "word": "卢凌风戏里戏外都是太平公主的儿子",
-      "onboard_time": 1763247617,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 42109,
-      "num": 43478,
+      "raw_hot": 43908,
+      "num": 44703,
       "word": "你告诉我这是毛晓彤",
       "onboard_time": 1763238075,
       "rank": 49,
@@ -531,8 +547,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 32695,
-      "num": 43459,
+      "raw_hot": 35568,
+      "num": 44679,
+      "word": "供暖",
+      "onboard_time": 1763231715,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32984,
+      "num": 44670,
       "word": "易烊千玺史上最年轻金鸡影帝",
       "onboard_time": 1763239333,
       "rank": 24,
@@ -553,14 +577,6 @@
       "onboard_time": 1763228957,
       "rank": 47,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 30647,
-      "num": 43454,
-      "word": "供暖",
-      "onboard_time": 1763231715,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27644,
