@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763188582876,
+  "endTime": 1763189288339,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -939,6 +939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 731958,
+      "num": 180910,
+      "word": "女生要帅哥微信回家发现是宋威龙",
+      "onboard_time": 1763185947,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 731496,
       "num": 731496,
       "word": "AG奖金",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1763101400,
       "rank": 19,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 648761,
-      "num": 180910,
-      "word": "女生要帅哥微信回家发现是宋威龙",
-      "onboard_time": 1763185947,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 645057,
@@ -2044,7 +2044,7 @@
     },
     {
       "raw_hot": 496331,
-      "num": 213935,
+      "num": 216008,
       "word": "迪丽热巴直播",
       "onboard_time": 1763185701,
       "rank": 11,
@@ -2267,6 +2267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 468139,
+      "num": 468139,
+      "word": "美国将拒绝胖子入境",
+      "onboard_time": 1763183181,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 467699,
       "num": 167090,
       "word": "曝王子豪宅屋主是昆凌",
@@ -2289,14 +2297,6 @@
       "onboard_time": 1763005940,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 467310,
-      "num": 467310,
-      "word": "美国将拒绝胖子入境",
-      "onboard_time": 1763183181,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 464840,
@@ -2609,6 +2609,14 @@
       "onboard_time": 1763090601,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 426515,
+      "num": 426515,
+      "word": "王楚钦止步全运会四强",
+      "onboard_time": 1763187742,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 425935,
@@ -3481,6 +3489,14 @@
       "onboard_time": 1762913840,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 344693,
+      "num": 207968,
+      "word": "王楚钦说樊振东更强了",
+      "onboard_time": 1763188822,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 344586,
@@ -4851,14 +4867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 267594,
-      "num": 267594,
-      "word": "王楚钦止步全运会四强",
-      "onboard_time": 1763187742,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 267249,
       "num": 267249,
       "word": "导演回应大湾鸡选武校娃",
@@ -5177,6 +5185,14 @@
       "onboard_time": 1762924221,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251756,
+      "num": 251756,
+      "word": "新闻女王 承认观众是成年人",
+      "onboard_time": 1763187921,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 251235,
@@ -6379,6 +6395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203843,
+      "num": 177080,
+      "word": "樊王大战6局只差10分",
+      "onboard_time": 1763188401,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203541,
       "num": 159895,
       "word": "你俩亲脸都这样了亲嘴还得了",
@@ -6440,6 +6464,14 @@
       "word": "这就是今晚的广州",
       "onboard_time": 1762688841,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202407,
+      "num": 202407,
+      "word": "王楚钦心态起伏有点大",
+      "onboard_time": 1763188822,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -6601,6 +6633,14 @@
       "onboard_time": 1762954161,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 199183,
+      "num": 179898,
+      "word": "樊振东连续四届晋级全运会决赛",
+      "onboard_time": 1763188223,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 199180,
@@ -6833,6 +6873,22 @@
       "onboard_time": 1762921042,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193778,
+      "num": 176164,
+      "word": "王楚钦回应2比4樊振东",
+      "onboard_time": 1763188702,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193118,
+      "num": 175231,
+      "word": "樊振东王者还是王者",
+      "onboard_time": 1763188761,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 192860,
@@ -7523,14 +7579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 179898,
-      "num": 179898,
-      "word": "樊振东连续四届晋级全运会决赛",
-      "onboard_time": 1763188223,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 179450,
       "num": 179450,
       "word": "黄景瑜抽完血吃了八碗米饭",
@@ -7707,20 +7755,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175545,
-      "num": 181284,
-      "word": "新闻女王 承认观众是成年人",
-      "onboard_time": 1763187921,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175395,
       "num": 175395,
       "word": "T1战胜KT",
       "onboard_time": 1762694661,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 175024,
+      "num": 175024,
+      "word": "王楚钦说樊振东打得非常精彩",
+      "onboard_time": 1763188941,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 174711,
@@ -7977,6 +8025,14 @@
       "onboard_time": 1762863621,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 169344,
+      "num": 169344,
+      "word": "樊振东采访",
+      "onboard_time": 1763189061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 168647,
@@ -8515,6 +8571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160668,
+      "num": 160668,
+      "word": "迪丽热巴南京线下活动人气",
+      "onboard_time": 1763189241,
+      "rank": 35,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 160588,
       "num": 160588,
       "word": "为什么洗澡时会产生唱歌好听的错觉",
@@ -8585,6 +8649,14 @@
       "onboard_time": 1762780822,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160034,
+      "num": 180955,
+      "word": "花儿与少年同心季",
+      "onboard_time": 1763188162,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 159953,
@@ -9227,14 +9299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 151030,
-      "num": 180955,
-      "word": "花儿与少年同心季",
-      "onboard_time": 1763188162,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150920,
       "num": 240347,
       "word": "河北燕郊7死27伤爆燃事故调查报告",
@@ -9523,6 +9587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146504,
+      "num": 146504,
+      "word": "刘浩存像考上村官的大学生",
+      "onboard_time": 1763188342,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146435,
       "num": 113355,
       "word": "李纯马頔婚后首同框",
@@ -9793,6 +9865,14 @@
       "onboard_time": 1762784004,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142858,
+      "num": 142858,
+      "word": "雷军回应小米6G成果",
+      "onboard_time": 1763188641,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 142682,
@@ -10113,6 +10193,14 @@
       "onboard_time": 1762783762,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 138514,
+      "num": 138514,
+      "word": "光夜萧逸失焦漫游",
+      "onboard_time": 1763188702,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 138513,
@@ -11339,14 +11427,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 126182,
-      "num": 126182,
-      "word": "刘浩存像考上村官的大学生",
-      "onboard_time": 1763188342,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 126122,
       "num": 132218,
       "word": "何炅嘎巴一下躺那了",
@@ -11699,6 +11779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123831,
+      "num": 176016,
+      "word": "刘宇宁演唱会花篮比人还高",
+      "onboard_time": 1763189002,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 123727,
       "num": 123727,
       "word": "彭小苒工作室真进高手了",
@@ -11740,7 +11828,7 @@
     },
     {
       "raw_hot": 123217,
-      "num": 123217,
+      "num": 166272,
       "word": "内娱终于拍了成年人的暖昧拉扯",
       "onboard_time": 1763185041,
       "rank": 42,
@@ -13291,14 +13379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111475,
-      "num": 111475,
-      "word": "樊王大战6局只差10分",
-      "onboard_time": 1763188401,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111469,
       "num": 111469,
       "word": "于谦舔了下嘴唇把自己毒死了",
@@ -14801,6 +14881,14 @@
       "onboard_time": 1763188223,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101881,
+      "num": 149690,
+      "word": "易烊千玺走路还是这么臭屁",
+      "onboard_time": 1763189181,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 101880,
@@ -19971,6 +20059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71898,
+      "num": 149422,
+      "word": "王橹杰你每天就这样梳头吗",
+      "onboard_time": 1763188040,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71771,
       "num": 71771,
       "word": "人民日报曝光AI培训坑老骗局",
@@ -22227,6 +22323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44929,
+      "num": 149813,
+      "word": "明星金鸡奖出图",
+      "onboard_time": 1763189241,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 44905,
       "num": 70399,
       "word": "神20航天员平安抵京",
@@ -23499,6 +23603,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28690,
+      "num": 150002,
+      "word": "美国男子险些被宠物狗击毙",
+      "onboard_time": 1763188521,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28646,
       "num": 212340,
       "word": "华科大推出8.8元螃蟹食堂大排长龙",
@@ -23569,14 +23681,6 @@
       "onboard_time": 1763107281,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27826,
-      "num": 121965,
-      "word": "美国男子险些被宠物狗击毙",
-      "onboard_time": 1763188521,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 27797,
@@ -23809,14 +23913,6 @@
       "onboard_time": 1762672399,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 24389,
-      "num": 124468,
-      "word": "王橹杰你每天就这样梳头吗",
-      "onboard_time": 1763188040,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 24182,
