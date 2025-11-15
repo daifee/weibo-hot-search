@@ -1,10 +1,10 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763181035551,
+  "endTime": 1763181819995,
   "band_list": [
     {
-      "raw_hot": 1676293,
-      "num": 1676293,
+      "raw_hot": 1763806,
+      "num": 1763806,
       "word": "中方愤怒正在升级",
       "onboard_time": 1763177542,
       "rank": 1,
@@ -17,6 +17,14 @@
       "onboard_time": 1763134401,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1510088,
+      "num": 1510088,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763180301,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1202025,
@@ -91,8 +99,8 @@
       "category": "读书作家,作品衍生"
     },
     {
-      "raw_hot": 534485,
-      "num": 534485,
+      "raw_hot": 550014,
+      "num": 550014,
       "word": "日本同时被四国痛批",
       "onboard_time": 1763178740,
       "rank": 37,
@@ -115,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454088,
+      "num": 164086,
+      "word": "这是张馨予还是迪丽热巴",
+      "onboard_time": 1763175920,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 425935,
       "num": 425935,
       "word": "何赛飞说不要错怪了两位弟弟",
@@ -129,14 +145,6 @@
       "onboard_time": 1763168000,
       "rank": 10,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 394543,
-      "num": 164086,
-      "word": "这是张馨予还是迪丽热巴",
-      "onboard_time": 1763175920,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 384791,
@@ -161,6 +169,14 @@
       "onboard_time": 1763122459,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 371378,
+      "num": 196935,
+      "word": "曝上拉如肇事逃逸",
+      "onboard_time": 1763180240,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 357159,
@@ -203,16 +219,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316485,
+      "num": 316485,
+      "word": "王赫野化妆师天要塌了",
+      "onboard_time": 1763179941,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 310824,
-      "num": 299835,
+      "num": 308000,
       "word": "日本国民批高市早苗不适合担任首相",
       "onboard_time": 1763177961,
       "rank": 11,
       "category": "国际时政"
     },
     {
-      "raw_hot": 304347,
-      "num": 304347,
+      "raw_hot": 306020,
+      "num": 306020,
       "word": "光与夜之恋",
       "onboard_time": 1763179880,
       "rank": 4,
@@ -241,14 +265,6 @@
       "onboard_time": 1763174900,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 285924,
-      "num": 285924,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1763180301,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 276481,
@@ -347,14 +363,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 232331,
-      "num": 232331,
-      "word": "王赫野化妆师天要塌了",
-      "onboard_time": 1763179941,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 229243,
       "num": 229243,
       "word": "鬼灭之刃票房",
@@ -380,7 +388,7 @@
     },
     {
       "raw_hot": 223438,
-      "num": 514864,
+      "num": 995769,
       "word": "航天员带回近100斤太空特产",
       "onboard_time": 1763165119,
       "rank": 5,
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 203636,
-      "num": 146600,
+      "num": 188776,
       "word": "五个严重日本听懂了吗",
       "onboard_time": 1763178919,
       "rank": 30,
@@ -459,20 +467,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192913,
+      "num": 192913,
+      "word": "现在就出发",
+      "onboard_time": 1763180841,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 188944,
       "num": 188944,
       "word": "网传唐诡奇谭12月12日播出",
       "onboard_time": 1763170340,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 181013,
-      "num": 181013,
-      "word": "曝上拉如肇事逃逸",
-      "onboard_time": 1763180240,
-      "rank": 15,
-      "category": "网红"
     },
     {
       "raw_hot": 175637,
@@ -499,6 +507,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171968,
+      "num": 154111,
+      "word": "短剧女演员也是给内娱上强度了",
+      "onboard_time": 1763181079,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 171107,
       "num": 160110,
       "word": "丁禹兮你衣服呢",
@@ -523,12 +539,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163353,
-      "num": 163353,
-      "word": "现在就出发",
-      "onboard_time": 1763180841,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 160994,
+      "num": 143242,
+      "word": "王楚钦爸爸现场来看比赛",
+      "onboard_time": 1763180960,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 158789,
@@ -603,6 +619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 137444,
+      "num": 137444,
+      "word": "王楚钦林诗栋赛前一起训练",
+      "onboard_time": 1763180481,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137043,
       "num": 137043,
       "word": "于正说整个行业都在看笑话",
@@ -643,6 +667,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131674,
+      "num": 149886,
+      "word": "任嘉伦演过虐的没演过穷的",
+      "onboard_time": 1763180781,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128951,
+      "num": 128951,
+      "word": "原来妈妈才是初代甜妹",
+      "onboard_time": 1763180601,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127843,
       "num": 127843,
       "word": "赛琳娜说不会再上台表演",
@@ -660,7 +700,7 @@
     },
     {
       "raw_hot": 126013,
-      "num": 147235,
+      "num": 152310,
       "word": "极氪9X执行神舟返回保障任务画面曝光",
       "onboard_time": 1763179640,
       "rank": 28,
@@ -691,8 +731,8 @@
       "category": "财经"
     },
     {
-      "raw_hot": 120229,
-      "num": 120229,
+      "raw_hot": 121548,
+      "num": 148113,
       "word": "杨瀚森这一扣久违了",
       "onboard_time": 1763177600,
       "rank": 35,
@@ -763,12 +803,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110283,
-      "num": 110283,
-      "word": "王楚钦林诗栋赛前一起训练",
-      "onboard_time": 1763180481,
+      "raw_hot": 110343,
+      "num": 110343,
+      "word": "钟嘉欣曾说不要因为结婚而结婚",
+      "onboard_time": 1763179821,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109802,
+      "num": 109802,
+      "word": "一个贪财一个图色凑上了",
+      "onboard_time": 1763181620,
       "rank": 36,
-      "category": "体育"
+      "category": "剧集"
     },
     {
       "raw_hot": 109465,
@@ -827,12 +875,28 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 103553,
-      "num": 103553,
-      "word": "钟嘉欣曾说不要因为结婚而结婚",
-      "onboard_time": 1763179821,
+      "raw_hot": 104270,
+      "num": 104270,
+      "word": "优酷综艺又给明星认人上强度了",
+      "onboard_time": 1763181379,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102808,
+      "num": 102808,
+      "word": "宋亚轩你晓彤姐不用长高了",
+      "onboard_time": 1763180841,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102154,
+      "num": 102154,
+      "word": "高市涉华错误言行严重后果正在显现",
+      "onboard_time": 1763181740,
       "rank": 42,
-      "category": "艺人"
+      "category": "国内时政"
     },
     {
       "raw_hot": 101797,
@@ -849,6 +913,22 @@
       "onboard_time": 1763130442,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101139,
+      "num": 101139,
+      "word": "很重要的社会化能力",
+      "onboard_time": 1763181620,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 100050,
+      "num": 100050,
+      "word": "穆祉丞成年之际入选优秀学员",
+      "onboard_time": 1763181500,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 99755,
@@ -889,22 +969,6 @@
       "onboard_time": 1763179400,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95543,
-      "num": 95543,
-      "word": "任嘉伦演过虐的没演过穷的",
-      "onboard_time": 1763180781,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 95205,
-      "num": 95205,
-      "word": "王楚钦爸爸现场来看比赛",
-      "onboard_time": 1763180960,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 92591,
@@ -1457,6 +1521,14 @@
       "onboard_time": 1763145435,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30674,
+      "num": 105104,
+      "word": "女明星审美超前的耳骨钉",
+      "onboard_time": 1763181260,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26850,
