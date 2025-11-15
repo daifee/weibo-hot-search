@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763220278721,
+  "endTime": 1763221133918,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -107,19 +107,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1611296,
+      "num": 438704,
+      "word": "哪吒没来领奖",
+      "onboard_time": 1763214149,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1434848,
       "num": 468171,
       "word": "袁弘 帝后",
       "onboard_time": 1763216068,
       "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 1408691,
-      "num": 438704,
-      "word": "哪吒没来领奖",
-      "onboard_time": 1763214149,
-      "rank": 14,
       "category": "电影"
     },
     {
@@ -612,7 +612,7 @@
     },
     {
       "raw_hot": 438879,
-      "num": 258099,
+      "num": 259100,
       "word": "陈思诚戴墨金鸡奖最佳导演",
       "onboard_time": 1763216430,
       "rank": 40,
@@ -681,6 +681,14 @@
       "onboard_time": 1763193201,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 406854,
+      "num": 261820,
+      "word": "饺子导演",
+      "onboard_time": 1763220206,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 404255,
@@ -892,7 +900,7 @@
     },
     {
       "raw_hot": 315451,
-      "num": 243847,
+      "num": 253831,
       "word": "少年的你",
       "onboard_time": 1763217987,
       "rank": 28,
@@ -1163,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252491,
+      "num": 252491,
+      "word": "出走的决心 颗粒无收",
+      "onboard_time": 1763220504,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 249856,
       "num": 184755,
       "word": "茶百道回应固体杨枝甘露单点不送",
@@ -1273,6 +1289,14 @@
       "onboard_time": 1763213607,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225095,
+      "num": 225095,
+      "word": "青春痘疫苗来了",
+      "onboard_time": 1763218888,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 223438,
@@ -1457,14 +1481,6 @@
       "onboard_time": 1763184261,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202443,
-      "num": 202443,
-      "word": "青春痘疫苗来了",
-      "onboard_time": 1763218888,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 202407,
@@ -1883,14 +1899,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167837,
-      "num": 167837,
-      "word": "饺子导演",
-      "onboard_time": 1763220206,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167456,
       "num": 178359,
       "word": "陈都灵亮相金鸡奖闭幕式",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1763172859,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164072,
+      "num": 169991,
+      "word": "陈思诚感谢王宝强",
+      "onboard_time": 1763219605,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 163612,
@@ -2033,6 +2049,14 @@
       "onboard_time": 1763194040,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 157559,
+      "num": 157559,
+      "word": "王楚钦回应队里不让上",
+      "onboard_time": 1763220803,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157326,
@@ -2163,6 +2187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 148447,
+      "num": 148447,
+      "word": "苏有朋主持",
+      "onboard_time": 1763221045,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 147786,
       "num": 234603,
       "word": "华晨宇 社交太难了",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1763177120,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143435,
+      "num": 143435,
+      "word": "Doinb不建议Uzi复出",
+      "onboard_time": 1763221045,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 142858,
@@ -2641,14 +2681,6 @@
       "onboard_time": 1763187022,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 122695,
-      "num": 169991,
-      "word": "陈思诚感谢王宝强",
-      "onboard_time": 1763219605,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 121749,
@@ -3139,6 +3171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 94695,
+      "num": 262413,
+      "word": "孙颖莎王曼昱今年到处交手",
+      "onboard_time": 1763219784,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92591,
       "num": 92591,
       "word": "黄金",
@@ -3459,14 +3499,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 72262,
-      "num": 246547,
-      "word": "孙颖莎王曼昱今年到处交手",
-      "onboard_time": 1763219784,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 71898,
       "num": 149422,
       "word": "王橹杰你每天就这样梳头吗",
@@ -3659,6 +3691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59792,
+      "num": 179508,
+      "word": "孙颖莎展望女单决赛对阵王曼昱",
+      "onboard_time": 1763220803,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59063,
       "num": 124834,
       "word": "邓亚萍解说混双金牌赛",
@@ -3705,6 +3745,14 @@
       "onboard_time": 1763124441,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54691,
+      "num": 245699,
+      "word": "母亲为见义勇为儿子争取公开报道",
+      "onboard_time": 1763218825,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54101,
@@ -3785,14 +3833,6 @@
       "onboard_time": 1763141596,
       "rank": 47,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 44587,
-      "num": 245699,
-      "word": "母亲为见义勇为儿子争取公开报道",
-      "onboard_time": 1763218825,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44585,
@@ -3971,6 +4011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 30419,
+      "num": 262891,
+      "word": "第一个发现红旗桥裂缝货车司机发声",
+      "onboard_time": 1763220384,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29790,
       "num": 253194,
       "word": "网友扎堆晒赴日机票退票成功记录",
@@ -4099,6 +4147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17379,
+      "num": 178995,
+      "word": "淄博苹果哥火了后各地商贩纷纷模仿",
+      "onboard_time": 1763220384,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16501,
       "num": 102695,
       "word": "曝TheShy和Rookie续约iG",
@@ -4120,6 +4176,14 @@
       "word": "中国人民不惧任何挑衅",
       "onboard_time": 1763150713,
       "rank": 45,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 14218,
+      "num": 262733,
+      "word": "馆长提醒台同胞别和日本人站在一起",
+      "onboard_time": 1763220384,
+      "rank": 18,
       "category": "国内时政"
     },
     {

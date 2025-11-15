@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763220278721,
+  "endTime": 1763221133918,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -195,6 +195,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1611296,
+      "num": 438704,
+      "word": "哪吒没来领奖",
+      "onboard_time": 1763214149,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1583422,
       "num": 1583422,
       "word": "日本有事就是日本有事",
@@ -281,14 +289,6 @@
       "onboard_time": 1762996700,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 1408691,
-      "num": 438704,
-      "word": "哪吒没来领奖",
-      "onboard_time": 1763214149,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 1382007,
@@ -2908,7 +2908,7 @@
     },
     {
       "raw_hot": 438879,
-      "num": 258099,
+      "num": 259100,
       "word": "陈思诚戴墨金鸡奖最佳导演",
       "onboard_time": 1763216430,
       "rank": 40,
@@ -3217,6 +3217,14 @@
       "onboard_time": 1762772240,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 406854,
+      "num": 261820,
+      "word": "饺子导演",
+      "onboard_time": 1763220206,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 405966,
@@ -4516,7 +4524,7 @@
     },
     {
       "raw_hot": 315451,
-      "num": 243847,
+      "num": 253831,
       "word": "少年的你",
       "onboard_time": 1763217987,
       "rank": 28,
@@ -5875,6 +5883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 252491,
+      "num": 252491,
+      "word": "出走的决心 颗粒无收",
+      "onboard_time": 1763220504,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 251784,
       "num": 177001,
       "word": "樊振东11比2薛飞",
@@ -6465,6 +6481,14 @@
       "onboard_time": 1762936281,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225095,
+      "num": 225095,
+      "word": "青春痘疫苗来了",
+      "onboard_time": 1763218888,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225068,
@@ -7305,14 +7329,6 @@
       "onboard_time": 1762688841,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202443,
-      "num": 202443,
-      "word": "青春痘疫苗来了",
-      "onboard_time": 1763218888,
-      "rank": 36,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 202407,
@@ -9155,14 +9171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 167837,
-      "num": 167837,
-      "word": "饺子导演",
-      "onboard_time": 1763220206,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 167704,
       "num": 167062,
       "word": "银行4年3次采购工作服花619万",
@@ -9497,6 +9505,14 @@
       "onboard_time": 1762697722,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164072,
+      "num": 169991,
+      "word": "陈思诚感谢王宝强",
+      "onboard_time": 1763219605,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 164056,
@@ -10017,6 +10033,14 @@
       "onboard_time": 1763088980,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 157559,
+      "num": 157559,
+      "word": "王楚钦回应队里不让上",
+      "onboard_time": 1763220803,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 157521,
@@ -10755,6 +10779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148447,
+      "num": 148447,
+      "word": "苏有朋主持",
+      "onboard_time": 1763221045,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148436,
       "num": 167494,
       "word": "日本海啸",
@@ -11121,6 +11153,14 @@
       "onboard_time": 1763101041,
       "rank": 41,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143435,
+      "num": 143435,
+      "word": "Doinb不建议Uzi复出",
+      "onboard_time": 1763221045,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 143303,
@@ -13425,14 +13465,6 @@
       "onboard_time": 1762856661,
       "rank": 41,
       "category": "数码"
-    },
-    {
-      "raw_hot": 122695,
-      "num": 169991,
-      "word": "陈思诚感谢王宝强",
-      "onboard_time": 1763219605,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 122612,
@@ -18003,6 +18035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94695,
+      "num": 262413,
+      "word": "孙颖莎王曼昱今年到处交手",
+      "onboard_time": 1763219784,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94572,
       "num": 125954,
       "word": "西安8岁女孩冬天穿拖鞋流浪",
@@ -21707,14 +21747,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 72262,
-      "num": 246547,
-      "word": "孙颖莎王曼昱今年到处交手",
-      "onboard_time": 1763219784,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 72225,
       "num": 72225,
       "word": "全场高呼子豪子豪地动山摇",
@@ -22963,6 +22995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59792,
+      "num": 179508,
+      "word": "孙颖莎展望女单决赛对阵王曼昱",
+      "onboard_time": 1763220803,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59600,
       "num": 103860,
       "word": "KK园区148栋建筑将被拆除",
@@ -23329,6 +23369,14 @@
       "onboard_time": 1762851981,
       "rank": 19,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 54691,
+      "num": 245699,
+      "word": "母亲为见义勇为儿子争取公开报道",
+      "onboard_time": 1763218825,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54576,
@@ -24192,14 +24240,6 @@
       "word": "幼儿园园长贪污千万一审被判11年",
       "onboard_time": 1762764321,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 44587,
-      "num": 245699,
-      "word": "母亲为见义勇为儿子争取公开报道",
-      "onboard_time": 1763218825,
-      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -25387,6 +25427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 30419,
+      "num": 262891,
+      "word": "第一个发现红旗桥裂缝货车司机发声",
+      "onboard_time": 1763220384,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30395,
       "num": 30205,
       "word": "非洲十二少",
@@ -26299,6 +26347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17379,
+      "num": 178995,
+      "word": "淄博苹果哥火了后各地商贩纷纷模仿",
+      "onboard_time": 1763220384,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17289,
       "num": 106300,
       "word": "卸货时误操作16筐鸡蛋瞬间摔碎",
@@ -26473,6 +26529,14 @@
       "onboard_time": 1763044822,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14218,
+      "num": 262733,
+      "word": "馆长提醒台同胞别和日本人站在一起",
+      "onboard_time": 1763220384,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14037,
