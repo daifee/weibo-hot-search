@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763198720047,
+  "endTime": 1763199465335,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -795,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 791654,
+      "num": 791654,
+      "word": "日本机票免费退改",
+      "onboard_time": 1763196382,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 786372,
       "num": 227681,
       "word": "陈昊宇 满头白发",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1762691483,
       "rank": 10,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 684541,
-      "num": 684541,
-      "word": "日本机票免费退改",
-      "onboard_time": 1763196382,
-      "rank": 4,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 681969,
@@ -1819,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 544522,
+      "num": 544522,
+      "word": "三大航急发中日航线免费退改签",
+      "onboard_time": 1763195721,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 544357,
       "num": 1087097,
       "word": "中国单方面免签不存在吃亏",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1762691363,
       "rank": 16,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 529672,
-      "num": 529672,
-      "word": "三大航急发中日航线免费退改签",
-      "onboard_time": 1763195721,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 527440,
@@ -2835,6 +2835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 410553,
+      "num": 284264,
+      "word": "娜扎 我素颜也很美",
+      "onboard_time": 1763193201,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 409941,
       "num": 409941,
       "word": "解放军巷战演习旁边大鷄排摊位亮了",
@@ -3145,14 +3153,6 @@
       "onboard_time": 1762616662,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 382233,
-      "num": 284264,
-      "word": "娜扎 我素颜也很美",
-      "onboard_time": 1763193201,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 381827,
@@ -4001,6 +4001,14 @@
       "onboard_time": 1762681760,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321729,
+      "num": 268177,
+      "word": "婆媳上厕所被指造成3到5万元损失",
+      "onboard_time": 1763194822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 321608,
@@ -5299,6 +5307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 254916,
+      "num": 254916,
+      "word": "五个严重日本听懂了吗",
+      "onboard_time": 1763178919,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 254075,
       "num": 189275,
       "word": "孩子王回应复活",
@@ -5321,14 +5337,6 @@
       "onboard_time": 1763002640,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 253384,
-      "num": 249672,
-      "word": "五个严重日本听懂了吗",
-      "onboard_time": 1763178919,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 253366,
@@ -6019,14 +6027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221991,
-      "num": 221991,
-      "word": "婆媳上厕所被指造成3到5万元损失",
-      "onboard_time": 1763194822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 221806,
       "num": 180605,
       "word": "经超说李琳当年玩命追自己",
@@ -6041,6 +6041,14 @@
       "onboard_time": 1763133023,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220916,
+      "num": 220916,
+      "word": "蒋梦婕金鸡女神造型",
+      "onboard_time": 1763197582,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 220908,
@@ -7313,6 +7321,14 @@
       "onboard_time": 1763170340,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188597,
+      "num": 188597,
+      "word": "易烊千玺金鸡奖造型",
+      "onboard_time": 1763199201,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 188569,
@@ -8659,14 +8675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 163200,
-      "num": 219668,
-      "word": "蒋梦婕金鸡女神造型",
-      "onboard_time": 1763197582,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 163083,
       "num": 278207,
       "word": "上海通报绿捷食安事件",
@@ -9841,6 +9849,14 @@
       "onboard_time": 1763190981,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147308,
+      "num": 147308,
+      "word": "中日线机票不含税100元",
+      "onboard_time": 1763198843,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 147049,
@@ -11171,6 +11187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132045,
+      "num": 132045,
+      "word": "琉球原住民说琉球不属于日本",
+      "onboard_time": 1763199321,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 132027,
       "num": 132027,
       "word": "Faker认领LOL第一人",
@@ -11249,6 +11273,14 @@
       "onboard_time": 1762952600,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 131393,
+      "num": 131393,
+      "word": "张雅琪一辈子的账都在花少算了",
+      "onboard_time": 1763198302,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 131361,
@@ -12243,14 +12275,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 123065,
-      "num": 123065,
-      "word": "张雅琪一辈子的账都在花少算了",
-      "onboard_time": 1763198302,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 123031,
       "num": 123031,
       "word": "蔡徐坤浴袍舞台",
@@ -12393,6 +12417,14 @@
       "onboard_time": 1762749980,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121796,
+      "num": 121796,
+      "word": "她3个月干了我一辈子的工作",
+      "onboard_time": 1763198481,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 121749,
@@ -12633,6 +12665,14 @@
       "onboard_time": 1762683379,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 119586,
+      "num": 119586,
+      "word": "全省唯一乒乓球队员进了决赛",
+      "onboard_time": 1763199201,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 119573,
@@ -13137,14 +13177,6 @@
       "onboard_time": 1762780881,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 115931,
-      "num": 115931,
-      "word": "她3个月干了我一辈子的工作",
-      "onboard_time": 1763198481,
-      "rank": 44,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 115901,
@@ -14547,6 +14579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106504,
+      "num": 106504,
+      "word": "每天1个苹果能帮身体抗炎",
+      "onboard_time": 1763199142,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106464,
       "num": 106464,
       "word": "苹果回应1899元手机包定价",
@@ -15307,6 +15347,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102140,
+      "num": 102140,
+      "word": "惊天魔盗团3这把太喜人了",
+      "onboard_time": 1763198780,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 102096,
       "num": 102096,
       "word": "王曼昱回应险胜范思琦",
@@ -16025,6 +16073,14 @@
       "onboard_time": 1763166380,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98673,
+      "num": 98673,
+      "word": "决赛樊振东vs林诗栋",
+      "onboard_time": 1763198780,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98606,
@@ -21283,6 +21339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64077,
+      "num": 123119,
+      "word": "刘诗诗歪头那一下",
+      "onboard_time": 1763198542,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 63999,
+      "num": 217250,
+      "word": "12306回应普通乘客买到残疾人专座",
+      "onboard_time": 1763198001,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63907,
       "num": 210084,
       "word": "空军微电影说有新家伙",
@@ -22635,6 +22707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46822,
+      "num": 1116188,
+      "word": "被中国健儿鼓舞到了",
+      "onboard_time": 1763194760,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 46813,
       "num": 120601,
       "word": "神20航天员踏上回家之旅",
@@ -22977,14 +23057,6 @@
       "onboard_time": 1762759221,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 43336,
-      "num": 1000225,
-      "word": "被中国健儿鼓舞到了",
-      "onboard_time": 1763194760,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 43332,
@@ -23377,14 +23449,6 @@
       "onboard_time": 1762608321,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38084,
-      "num": 217250,
-      "word": "12306回应普通乘客买到残疾人专座",
-      "onboard_time": 1763198001,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37991,
@@ -24481,14 +24545,6 @@
       "onboard_time": 1762967597,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 23791,
-      "num": 123119,
-      "word": "刘诗诗歪头那一下",
-      "onboard_time": 1763198542,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 23675,
