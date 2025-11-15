@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763163549687,
+  "endTime": 1763171693161,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1537,6 +1537,14 @@
       "onboard_time": 1762700781,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 841884,
+      "num": 1134701,
+      "word": "日本自卫队配合高市早苗亮刀",
+      "onboard_time": 1763165238,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 841777,
@@ -3193,6 +3201,14 @@
       "onboard_time": 1762950323,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 595392,
+      "num": 146549,
+      "word": "贾乃亮直播中奖名单",
+      "onboard_time": 1763163259,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 595176,
@@ -5675,6 +5691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415051,
+      "num": 178568,
+      "word": "影视飓风Tim回应相亲争议",
+      "onboard_time": 1763168000,
+      "rank": 10,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 414398,
       "num": 323896,
       "word": "中国人素质太高了",
@@ -6153,14 +6177,6 @@
       "onboard_time": 1763105600,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 390872,
-      "num": 76944,
-      "word": "贾乃亮直播中奖名单",
-      "onboard_time": 1763163259,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 390102,
@@ -6956,7 +6972,7 @@
     },
     {
       "raw_hot": 357159,
-      "num": 129438,
+      "num": 146113,
       "word": "秦彻",
       "onboard_time": 1763134702,
       "rank": 31,
@@ -8027,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318311,
+      "num": 318311,
+      "word": "何赛飞说不要错怪了两位弟弟",
+      "onboard_time": 1763169859,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 315626,
       "num": 152610,
       "word": "彭小苒 姐妹这太过火了",
@@ -8675,6 +8699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295932,
+      "num": 178008,
+      "word": "骑手送6台iPhone17半路失联",
+      "onboard_time": 1763162719,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -8873,6 +8905,14 @@
       "onboard_time": 1762471098,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289841,
+      "num": 289841,
+      "word": "半决赛樊振东vs王楚钦",
+      "onboard_time": 1763167160,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 289776,
@@ -10100,7 +10140,7 @@
     },
     {
       "raw_hot": 256897,
-      "num": 67221,
+      "num": 149460,
       "word": "日本共产党要求高市早苗撤回表态",
       "onboard_time": 1763161697,
       "rank": 30,
@@ -10321,6 +10361,14 @@
       "onboard_time": 1762078940,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 249856,
+      "num": 177178,
+      "word": "茶百道回应固体杨枝甘露单点不送",
+      "onboard_time": 1763163918,
+      "rank": 12,
+      "category": "美食"
     },
     {
       "raw_hot": 249387,
@@ -10748,7 +10796,7 @@
     },
     {
       "raw_hot": 239154,
-      "num": 85278,
+      "num": 151745,
       "word": "过去一年有5千多短剧总裁被下药",
       "onboard_time": 1763141777,
       "rank": 49,
@@ -11432,6 +11480,14 @@
       "word": "歼20空空导弹发射瞬间气场拉满",
       "onboard_time": 1762837221,
       "rank": 17,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 223438,
+      "num": 223438,
+      "word": "航天员带回近100斤太空特产",
+      "onboard_time": 1763165119,
+      "rank": 5,
       "category": "国内时政"
     },
     {
@@ -13011,6 +13067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 201198,
+      "num": 201198,
+      "word": "睡前饥饿感频发可能是胰岛素抵抗",
+      "onboard_time": 1763162837,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 201128,
       "num": 504208,
       "word": "Gumayusi回应淘汰AL",
@@ -13265,6 +13329,14 @@
       "onboard_time": 1763029401,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 198093,
+      "num": 198093,
+      "word": "冷美人坚持37天获8666元",
+      "onboard_time": 1763162658,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 198015,
@@ -15243,6 +15315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178997,
+      "num": 178997,
+      "word": "网传唐诡奇谭12月12日播出",
+      "onboard_time": 1763170340,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 178879,
       "num": 178879,
       "word": "陈赫做综艺是真有效果",
@@ -15619,6 +15699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 175637,
+      "num": 175637,
+      "word": "马拉松",
+      "onboard_time": 1763170280,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175442,
       "num": 175442,
       "word": "单依纯献唱日掛中天主题曲",
@@ -15801,6 +15889,14 @@
       "onboard_time": 1762569560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172704,
+      "num": 142619,
+      "word": "黄金直线暴跌",
+      "onboard_time": 1763163499,
+      "rank": 44,
+      "category": "财经"
     },
     {
       "raw_hot": 172607,
@@ -16121,6 +16217,14 @@
       "onboard_time": 1762601360,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 170435,
+      "num": 136892,
+      "word": "高市早苗叫嚣出兵台海网友反应亮了",
+      "onboard_time": 1763165179,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170393,
@@ -18891,6 +18995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 150529,
+      "num": 150529,
+      "word": "全运会历史首个跨境马拉松何杰夺冠",
+      "onboard_time": 1763170520,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150525,
       "num": 246302,
       "word": "上海可以夜间领证结婚了",
@@ -19137,6 +19249,14 @@
       "onboard_time": 1762085541,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 148912,
+      "num": 148912,
+      "word": "吴彤真让三个少年上王牌了",
+      "onboard_time": 1763163318,
+      "rank": 7,
+      "category": "综艺"
     },
     {
       "raw_hot": 148893,
@@ -23483,6 +23603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126744,
+      "num": 126744,
+      "word": "喜欢用iPhone一半的原因是配件",
+      "onboard_time": 1763169859,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 126722,
       "num": 126722,
       "word": "侯明昊演技",
@@ -23697,6 +23825,14 @@
       "onboard_time": 1763025261,
       "rank": 29,
       "category": "财经"
+    },
+    {
+      "raw_hot": 125955,
+      "num": 125955,
+      "word": "喝奶茶也要配货了",
+      "onboard_time": 1763170222,
+      "rank": 28,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 125929,
@@ -27193,6 +27329,14 @@
       "onboard_time": 1761999681,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 112881,
+      "num": 112881,
+      "word": "最好的气血补药是睡觉和多出去玩",
+      "onboard_time": 1763163018,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 112875,
@@ -31395,6 +31539,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 100745,
+      "num": 100745,
+      "word": "为什么劝你别空腹吃主食",
+      "onboard_time": 1763169080,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100707,
       "num": 154517,
       "word": "侯明昊卢昱晓看吻戏名场面",
@@ -31875,6 +32027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99755,
+      "num": 99755,
+      "word": "长期缺觉会让全身处于炎症状态",
+      "onboard_time": 1763162658,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99650,
       "num": 99650,
       "word": "我们神舟太出片了",
@@ -32187,14 +32347,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98822,
-      "num": 98822,
-      "word": "吴彤真让三个少年上王牌了",
-      "onboard_time": 1763163318,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98820,
       "num": 98820,
       "word": "日本应深刻反省历史汲取教训",
@@ -32257,6 +32409,14 @@
       "onboard_time": 1762921581,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 98698,
+      "num": 147323,
+      "word": "林允 谁来赔阿谁这一生好光景",
+      "onboard_time": 1763166380,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 98657,
@@ -35963,6 +36123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90086,
+      "num": 90086,
+      "word": "涵艺爆料BLG转会消息",
+      "onboard_time": 1763169320,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90081,
       "num": 90081,
       "word": "高市早苗手搭澳大利亚总理桌子上",
@@ -38323,14 +38491,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 84884,
-      "num": 84884,
-      "word": "骑手送6台iPhone17半路失联",
-      "onboard_time": 1763162719,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84829,
       "num": 84829,
       "word": "原来动画片真的没骗人",
@@ -39483,6 +39643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81782,
+      "num": 81782,
+      "word": "2岁幼童跑向马路奶奶不追反锁门回屋",
+      "onboard_time": 1763167940,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81752,
       "num": 81752,
       "word": "汪顺回应潘展乐三天没接受采访",
@@ -39641,14 +39809,6 @@
       "onboard_time": 1762506981,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81216,
-      "num": 81216,
-      "word": "睡前饥饿感频发可能是胰岛素抵抗",
-      "onboard_time": 1763162837,
-      "rank": 17,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 81204,
@@ -40299,6 +40459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79211,
+      "num": 79211,
+      "word": "洪金宝儿子哽咽感谢妻子",
+      "onboard_time": 1763164221,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79178,
       "num": 79178,
       "word": "宋亚轩这下把压力给到了李飞",
@@ -40313,6 +40481,14 @@
       "onboard_time": 1763008402,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 79153,
+      "num": 120255,
+      "word": "陈赫叫张子萱老张的原因",
+      "onboard_time": 1763124622,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 79139,
@@ -40385,6 +40561,14 @@
       "onboard_time": 1762047018,
       "rank": 38,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78886,
+      "num": 78886,
+      "word": "早睡是一件回报率超高的事",
+      "onboard_time": 1763166920,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 78740,
@@ -41299,6 +41483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 76104,
+      "num": 76104,
+      "word": "宁德时代股东拟转让184亿元股份",
+      "onboard_time": 1763171480,
+      "rank": 42,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 76066,
       "num": 76066,
       "word": "俄罗斯新核潜艇出坞",
@@ -41609,14 +41801,6 @@
       "onboard_time": 1762512261,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 74998,
-      "num": 120255,
-      "word": "陈赫叫张子萱老张的原因",
-      "onboard_time": 1763124622,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 74977,
@@ -43507,6 +43691,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 66494,
+      "num": 66494,
+      "word": "潘展乐夺冠后发文",
+      "onboard_time": 1763171119,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66466,
       "num": 66466,
       "word": "人生最好的节奏是什么",
@@ -44147,6 +44339,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 62726,
+      "num": 62726,
+      "word": "林高远说混双金牌分量很重",
+      "onboard_time": 1763165540,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62693,
       "num": 72500,
       "word": "泰州队复刻阿根廷队夺冠世界杯动作",
@@ -44441,6 +44641,14 @@
       "onboard_time": 1762540275,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61371,
+      "num": 61371,
+      "word": "全运会烧鹅甚至还配了个厨师",
+      "onboard_time": 1763171240,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 61316,
@@ -44969,14 +45177,6 @@
       "onboard_time": 1762307600,
       "rank": 12,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58084,
-      "num": 58084,
-      "word": "冷美人坚持37天获8666元",
-      "onboard_time": 1763162658,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58053,
@@ -45875,6 +46075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51883,
+      "num": 61264,
+      "word": "成毅说每部新剧上映时会紧张",
+      "onboard_time": 1763167100,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51860,
       "num": 960475,
       "word": "相约第十五届全运会",
@@ -46177,14 +46385,6 @@
       "onboard_time": 1762064899,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 49691,
-      "num": 49691,
-      "word": "最好的气血补药是睡觉和多出去玩",
-      "onboard_time": 1763163018,
-      "rank": 40,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 49688,
@@ -47131,14 +47331,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 44027,
-      "num": 44027,
-      "word": "长期缺觉会让全身处于炎症状态",
-      "onboard_time": 1763162658,
-      "rank": 42,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 43957,
       "num": 99840,
       "word": "电商在衣服上挂密码锁防蹭穿退货",
@@ -47473,14 +47665,6 @@
       "onboard_time": 1762675881,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 42217,
-      "num": 42217,
-      "word": "黄金直线暴跌",
-      "onboard_time": 1763163499,
-      "rank": 44,
-      "category": "财经"
     },
     {
       "raw_hot": 42186,
