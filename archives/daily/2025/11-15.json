@@ -1,7 +1,15 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763181819995,
+  "endTime": 1763184363515,
   "band_list": [
+    {
+      "raw_hot": 3976644,
+      "num": 3976644,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763180301,
+      "rank": 7,
+      "category": "体育"
+    },
     {
       "raw_hot": 1763806,
       "num": 1763806,
@@ -17,14 +25,6 @@
       "onboard_time": 1763134401,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1510088,
-      "num": 1510088,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1763180301,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 1202025,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1026678,
-      "num": 164879,
+      "num": 209677,
       "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
       "onboard_time": 1763174540,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 871727,
-      "num": 163681,
+      "num": 206512,
       "word": "痞幼官宣分手",
       "onboard_time": 1763126842,
       "rank": 20,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 669046,
-      "num": 164271,
+      "num": 210334,
       "word": "朱珠白发",
       "onboard_time": 1763176459,
       "rank": 25,
@@ -115,6 +115,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 516768,
+      "num": 209021,
+      "word": "向太自曝想改遗嘱",
+      "onboard_time": 1763182520,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 477223,
+      "num": 208305,
+      "word": "程晓玥做了羊水穿刺",
+      "onboard_time": 1763183482,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 471519,
+      "num": 230526,
+      "word": "曝上拉如肇事逃逸",
+      "onboard_time": 1763180240,
+      "rank": 15,
+      "category": "网红"
+    },
+    {
       "raw_hot": 468378,
       "num": 143604,
       "word": "彭小苒 初恋死了",
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 454088,
-      "num": 164086,
+      "num": 207393,
       "word": "这是张馨予还是迪丽热巴",
       "onboard_time": 1763175920,
       "rank": 33,
@@ -171,20 +195,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 371378,
-      "num": 196935,
-      "word": "曝上拉如肇事逃逸",
-      "onboard_time": 1763180240,
-      "rank": 15,
-      "category": "网红"
-    },
-    {
       "raw_hot": 357159,
       "num": 146113,
       "word": "秦彻",
       "onboard_time": 1763134702,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 350966,
+      "num": 350966,
+      "word": "现在就出发",
+      "onboard_time": 1763180841,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 340428,
@@ -201,6 +225,14 @@
       "onboard_time": 1763167160,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 324560,
+      "num": 227280,
+      "word": "原来妈妈才是初代甜妹",
+      "onboard_time": 1763180601,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 318073,
@@ -225,6 +257,14 @@
       "onboard_time": 1763179941,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 311930,
+      "num": 311930,
+      "word": "乒乓球",
+      "onboard_time": 1763182460,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 310824,
@@ -331,6 +371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253384,
+      "num": 226797,
+      "word": "五个严重日本听懂了吗",
+      "onboard_time": 1763178919,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 249856,
       "num": 184755,
       "word": "茶百道回应固体杨枝甘露单点不送",
@@ -395,11 +443,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 222806,
+      "num": 205230,
+      "word": "关晓彤生吃尖椒解饿",
+      "onboard_time": 1763179581,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221125,
       "num": 221125,
       "word": "刘诗雯打球好看",
       "onboard_time": 1763133023,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 211845,
+      "num": 161828,
+      "word": "樊振东7比11王楚钦",
+      "onboard_time": 1763183419,
+      "rank": 31,
       "category": "体育"
     },
     {
@@ -425,14 +489,6 @@
       "onboard_time": 1763137821,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203636,
-      "num": 188776,
-      "word": "五个严重日本听懂了吗",
-      "onboard_time": 1763178919,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 201966,
@@ -467,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192913,
-      "num": 192913,
-      "word": "现在就出发",
-      "onboard_time": 1763180841,
-      "rank": 24,
-      "category": "综艺"
+      "raw_hot": 196178,
+      "num": 196178,
+      "word": "王睡睡说张硕恋爱期间频繁联系前任",
+      "onboard_time": 1763183060,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 188944,
@@ -481,6 +537,14 @@
       "onboard_time": 1763170340,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181743,
+      "num": 181743,
+      "word": "王楚钦首局11比7",
+      "onboard_time": 1763183841,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 175637,
@@ -508,7 +572,7 @@
     },
     {
       "raw_hot": 171968,
-      "num": 154111,
+      "num": 164945,
       "word": "短剧女演员也是给内娱上强度了",
       "onboard_time": 1763181079,
       "rank": 24,
@@ -563,11 +627,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155949,
+      "num": 155949,
+      "word": "王楚钦第一局胜",
+      "onboard_time": 1763184261,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 155328,
+      "num": 155328,
+      "word": "全运会",
+      "onboard_time": 1763184261,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154912,
       "num": 154912,
       "word": "汪苏泷唱了只想把你偷偷藏好",
       "onboard_time": 1763137640,
       "rank": 16,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 154304,
+      "num": 220672,
+      "word": "染色体家族跨年狂欢夜",
+      "onboard_time": 1763183841,
+      "rank": 14,
       "category": "演出"
     },
     {
@@ -579,20 +667,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 152179,
+      "num": 152179,
+      "word": "樊振东第二局11比9",
+      "onboard_time": 1763184261,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150291,
+      "num": 238584,
+      "word": "林诗栋vs袁励岑",
+      "onboard_time": 1763182942,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 148912,
       "num": 148912,
       "word": "吴彤真让三个少年上王牌了",
       "onboard_time": 1763163318,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 147176,
-      "num": 147176,
-      "word": "关晓彤生吃尖椒解饿",
-      "onboard_time": 1763179581,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 146783,
@@ -617,6 +713,14 @@
       "onboard_time": 1763141176,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138168,
+      "num": 138168,
+      "word": "邝玲玲到达武汉",
+      "onboard_time": 1763183001,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 137444,
@@ -651,6 +755,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 134775,
+      "num": 134775,
+      "word": "库里开启乱穿鞋时代",
+      "onboard_time": 1763175200,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133021,
       "num": 133021,
       "word": "林高远说很荣幸和刘诗雯并肩作战",
@@ -675,14 +787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128951,
-      "num": 128951,
-      "word": "原来妈妈才是初代甜妹",
-      "onboard_time": 1763180601,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 127843,
       "num": 127843,
       "word": "赛琳娜说不会再上台表演",
@@ -700,7 +804,7 @@
     },
     {
       "raw_hot": 126013,
-      "num": 152310,
+      "num": 156807,
       "word": "极氪9X执行神舟返回保障任务画面曝光",
       "onboard_time": 1763179640,
       "rank": 28,
@@ -739,6 +843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121137,
+      "num": 243041,
+      "word": "高市早苗七宗罪",
+      "onboard_time": 1763183181,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118552,
       "num": 118552,
       "word": "工作人员帮卢昱晓挡胸口",
@@ -753,6 +865,14 @@
       "onboard_time": 1763179460,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116615,
+      "num": 116615,
+      "word": "一个贪财一个图色凑上了",
+      "onboard_time": 1763181620,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 115627,
@@ -795,12 +915,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111733,
+      "num": 111733,
+      "word": "买保险10年后患恶性肿瘤遭拒赔",
+      "onboard_time": 1763182161,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 111679,
       "num": 125481,
       "word": "小学要求家长填写可提供社会资源",
       "onboard_time": 1763130922,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111107,
+      "num": 111107,
+      "word": "哈登41分三双",
+      "onboard_time": 1763184142,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 110343,
@@ -811,20 +947,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 109802,
-      "num": 109802,
-      "word": "一个贪财一个图色凑上了",
-      "onboard_time": 1763181620,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109465,
       "num": 128923,
       "word": "广东队诗与远方夺冠",
       "onboard_time": 1763135602,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108969,
+      "num": 211655,
+      "word": "张晚意录制第一天就想关监控",
+      "onboard_time": 1763183782,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 108875,
@@ -849,6 +985,14 @@
       "onboard_time": 1763175019,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106549,
+      "num": 106549,
+      "word": "高市涉华错误言行严重后果正在显现",
+      "onboard_time": 1763181740,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 106513,
@@ -891,22 +1035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102154,
-      "num": 102154,
-      "word": "高市涉华错误言行严重后果正在显现",
-      "onboard_time": 1763181740,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 101797,
-      "num": 101797,
-      "word": "库里开启乱穿鞋时代",
-      "onboard_time": 1763175200,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 101186,
       "num": 129430,
       "word": "92岁老人父亲节睡梦中被邻居杀害",
@@ -921,6 +1049,14 @@
       "onboard_time": 1763181620,
       "rank": 43,
       "category": "情感"
+    },
+    {
+      "raw_hot": 100098,
+      "num": 100098,
+      "word": "苹果水原来这么养人",
+      "onboard_time": 1763181560,
+      "rank": 49,
+      "category": "美食"
     },
     {
       "raw_hot": 100050,
@@ -1283,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67093,
+      "num": 126773,
+      "word": "美国将拒绝胖子入境",
+      "onboard_time": 1763183181,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66494,
       "num": 66494,
       "word": "潘展乐夺冠后发文",
@@ -1385,6 +1529,14 @@
       "onboard_time": 1763124441,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54182,
+      "num": 212205,
+      "word": "央美抄袭学生奖学金公示不予通过",
+      "onboard_time": 1763183181,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54101,
@@ -1547,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 25648,
+      "num": 125280,
+      "word": "你告诉我这是文淇",
+      "onboard_time": 1763183782,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25206,
       "num": 66149,
       "word": "潘展乐没认出徐嘉余",
@@ -1657,6 +1817,14 @@
       "onboard_time": 1763040982,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2062,
+      "num": 125276,
+      "word": "论生活中避谶的重要性",
+      "onboard_time": 1763183121,
+      "rank": 40,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
