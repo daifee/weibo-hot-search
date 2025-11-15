@@ -1,0 +1,410 @@
+{
+  "runTime": 1763173029870,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 779931,
+        "num": 1124789,
+        "word": "日本自卫队配合高市早苗亮刀",
+        "onboard_time": 1763165238,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 555408,
+        "num": 555408,
+        "word": "提醒中国公民近期避免前往日本",
+        "onboard_time": 1763134401,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7971,
+        "num": 439375,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 425935,
+        "num": 425935,
+        "word": "何赛飞说不要错怪了两位弟弟",
+        "onboard_time": 1763169859,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334188,
+        "num": 334188,
+        "word": "半决赛樊振东vs王楚钦",
+        "onboard_time": 1763167160,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265968,
+        "num": 265968,
+        "word": "喜欢用iPhone一半的原因是配件",
+        "onboard_time": 1763169859,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 263616,
+        "num": 263616,
+        "word": "全运会历史首个跨境马拉松何杰夺冠",
+        "onboard_time": 1763170520,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211320,
+        "num": 211320,
+        "word": "冷美人坚持37天获8666元",
+        "onboard_time": 1763162658,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188944,
+        "num": 188944,
+        "word": "网传唐诡奇谭12月12日播出",
+        "onboard_time": 1763170340,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185452,
+        "num": 185452,
+        "word": "航天员带回近100斤太空特产",
+        "onboard_time": 1763165119,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384934,
+        "num": 185316,
+        "word": "影视飓风Tim回应相亲争议",
+        "onboard_time": 1763168000,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 277412,
+        "num": 184794,
+        "word": "骑手送6台iPhone17半路失联",
+        "onboard_time": 1763162719,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228944,
+        "num": 184755,
+        "word": "茶百道回应固体杨枝甘露单点不送",
+        "onboard_time": 1763163918,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 184158,
+        "num": 184158,
+        "word": "睡前饥饿感频发可能是胰岛素抵抗",
+        "onboard_time": 1763162837,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 176179,
+        "num": 176179,
+        "word": "日本若碰红线新账旧账一起清算",
+        "onboard_time": 1763127022,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 168283,
+        "num": 168283,
+        "word": "日本共产党要求高市早苗撤回表态",
+        "onboard_time": 1763161697,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131707,
+        "num": 131707,
+        "word": "过去一年有5千多短剧总裁被下药",
+        "onboard_time": 1763141777,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122862,
+        "num": 122862,
+        "word": "马拉松",
+        "onboard_time": 1763170280,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118745,
+        "num": 118745,
+        "word": "吴彤真让三个少年上王牌了",
+        "onboard_time": 1763163318,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112519,
+        "num": 112519,
+        "word": "倪妮短发帅成啥样了",
+        "onboard_time": 1763172680,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 577603,
+        "num": 112515,
+        "word": "贾乃亮直播中奖名单",
+        "onboard_time": 1763163259,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518204,
+        "num": 112512,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 335092,
+        "num": 112500,
+        "word": "彭小苒 初恋死了",
+        "onboard_time": 1763129723,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173956,
+        "num": 112495,
+        "word": "高市早苗叫嚣出兵台海网友反应亮了",
+        "onboard_time": 1763165179,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141578,
+        "num": 112486,
+        "word": "黄金直线暴跌",
+        "onboard_time": 1763163499,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99628,
+        "num": 112483,
+        "word": "鬼灭之刃票房",
+        "onboard_time": 1763133982,
+        "rank": 25,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 122837,
+        "num": 112471,
+        "word": "韩美娟吐槽某明星带货质量差",
+        "onboard_time": 1763172560,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113167,
+        "num": 112467,
+        "word": "喝奶茶也要配货了",
+        "onboard_time": 1763170222,
+        "rank": 27,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 112465,
+        "num": 112465,
+        "word": "最好的气血补药是睡觉和多出去玩",
+        "onboard_time": 1763163018,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109418,
+        "num": 109418,
+        "word": "秦彻",
+        "onboard_time": 1763134702,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108875,
+        "num": 108875,
+        "word": "为什么劝你别空腹吃主食",
+        "onboard_time": 1763169080,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 101065,
+        "num": 101065,
+        "word": "丁禹兮你衣服呢",
+        "onboard_time": 1763172619,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97224,
+        "num": 97224,
+        "word": "家长视频复活27岁女儿后再添新丁",
+        "onboard_time": 1763124681,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95211,
+        "num": 95211,
+        "word": "长期缺觉会让全身处于炎症状态",
+        "onboard_time": 1763162658,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 76103,
+        "num": 89777,
+        "word": "王俊凯官宣话剧趁世界还年青",
+        "onboard_time": 1763172859,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88539,
+        "num": 88539,
+        "word": "早睡是一件回报率超高的事",
+        "onboard_time": 1763166920,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 88526,
+        "num": 88526,
+        "word": "林高远刘诗雯逆转夺冠",
+        "onboard_time": 1763135781,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80006,
+        "num": 80006,
+        "word": "涵艺爆料BLG转会消息",
+        "onboard_time": 1763169320,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78260,
+        "num": 78260,
+        "word": "2岁幼童跑向马路奶奶不追反锁门回屋",
+        "onboard_time": 1763167940,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62544,
+        "num": 75678,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763127262,
+        "rank": 39,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 74484,
+        "num": 74484,
+        "word": "林允 谁来赔阿谁这一生好光景",
+        "onboard_time": 1763166380,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70972,
+        "num": 70972,
+        "word": "学校要求家长填写可提供资源致歉",
+        "onboard_time": 1763172141,
+        "rank": 41,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 70770,
+        "num": 70770,
+        "word": "外交部连发6张日英双语海报",
+        "onboard_time": 1763133861,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 69323,
+        "num": 69323,
+        "word": "黄油红薯",
+        "onboard_time": 1763170159,
+        "rank": 43,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68742,
+        "num": 68742,
+        "word": "全运会女子马拉松",
+        "onboard_time": 1763172741,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68334,
+        "num": 68334,
+        "word": "刘诗雯6战全运会摘金",
+        "onboard_time": 1763141357,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67196,
+        "num": 67196,
+        "word": "冷美人33天暴瘦20斤涨粉近20万",
+        "onboard_time": 1763149154,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66490,
+        "num": 66490,
+        "word": "29年前的结婚录像",
+        "onboard_time": 1763172320,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66737,
+        "num": 65840,
+        "word": "女子称住酒店借剪刀遭保安质问",
+        "onboard_time": 1763171840,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 61726,
+        "num": 61726,
+        "word": "如果你感觉很累不妨看看早年的全红婵",
+        "onboard_time": 1763172979,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}

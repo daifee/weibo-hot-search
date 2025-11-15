@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763171693161,
+  "endTime": 1763173029870,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -59,8 +59,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 425935,
+      "num": 425935,
+      "word": "何赛飞说不要错怪了两位弟弟",
+      "onboard_time": 1763169859,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415051,
-      "num": 178568,
+      "num": 185316,
       "word": "影视飓风Tim回应相亲争议",
       "onboard_time": 1763168000,
       "rank": 10,
@@ -99,12 +107,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 318311,
-      "num": 318311,
-      "word": "何赛飞说不要错怪了两位弟弟",
-      "onboard_time": 1763169859,
-      "rank": 3,
-      "category": "综艺"
+      "raw_hot": 334188,
+      "num": 334188,
+      "word": "半决赛樊振东vs王楚钦",
+      "onboard_time": 1763167160,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 318073,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 295932,
-      "num": 178008,
+      "num": 184794,
       "word": "骑手送6台iPhone17半路失联",
       "onboard_time": 1763162719,
       "rank": 16,
@@ -131,20 +139,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289841,
-      "num": 289841,
-      "word": "半决赛樊振东vs王楚钦",
-      "onboard_time": 1763167160,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 273890,
       "num": 126319,
       "word": "站姐把王宝强拍成王一博了",
       "onboard_time": 1763118261,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 265968,
+      "num": 265968,
+      "word": "喜欢用iPhone一半的原因是配件",
+      "onboard_time": 1763169859,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 263616,
+      "num": 263616,
+      "word": "全运会历史首个跨境马拉松何杰夺冠",
+      "onboard_time": 1763170520,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 261982,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 256897,
-      "num": 149460,
+      "num": 168283,
       "word": "日本共产党要求高市早苗撤回表态",
       "onboard_time": 1763161697,
       "rank": 30,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 249856,
-      "num": 177178,
+      "num": 184755,
       "word": "茶百道回应固体杨枝甘露单点不送",
       "onboard_time": 1763163918,
       "rank": 12,
@@ -219,6 +235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211320,
+      "num": 211320,
+      "word": "冷美人坚持37天获8666元",
+      "onboard_time": 1763162658,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203980,
       "num": 203980,
       "word": "教育局回应小学生穿裙装敬礼",
@@ -243,16 +267,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 198093,
-      "num": 198093,
-      "word": "冷美人坚持37天获8666元",
-      "onboard_time": 1763162658,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178997,
-      "num": 178997,
+      "raw_hot": 188944,
+      "num": 188944,
       "word": "网传唐诡奇谭12月12日播出",
       "onboard_time": 1763170340,
       "rank": 9,
@@ -267,20 +283,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173956,
+      "num": 136892,
+      "word": "高市早苗叫嚣出兵台海网友反应亮了",
+      "onboard_time": 1763165179,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 172704,
       "num": 142619,
       "word": "黄金直线暴跌",
       "onboard_time": 1763163499,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 170435,
-      "num": 136892,
-      "word": "高市早苗叫嚣出兵台海网友反应亮了",
-      "onboard_time": 1763165179,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 168282,
@@ -313,14 +329,6 @@
       "onboard_time": 1763123781,
       "rank": 14,
       "category": "美食"
-    },
-    {
-      "raw_hot": 150529,
-      "num": 150529,
-      "word": "全运会历史首个跨境马拉松何杰夺冠",
-      "onboard_time": 1763170520,
-      "rank": 15,
-      "category": "体育"
     },
     {
       "raw_hot": 148912,
@@ -371,20 +379,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 126744,
-      "num": 126744,
-      "word": "喜欢用iPhone一半的原因是配件",
-      "onboard_time": 1763169859,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125955,
       "num": 125955,
       "word": "喝奶茶也要配货了",
       "onboard_time": 1763170222,
       "rank": 28,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 122837,
+      "num": 112471,
+      "word": "韩美娟吐槽某明星带货质量差",
+      "onboard_time": 1763172560,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 115627,
@@ -411,6 +419,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 112519,
+      "num": 112519,
+      "word": "倪妮短发帅成啥样了",
+      "onboard_time": 1763172680,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 112230,
       "num": 85011,
       "word": "冷美人33天暴瘦20斤涨粉近20万",
@@ -435,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108875,
+      "num": 108875,
+      "word": "为什么劝你别空腹吃主食",
+      "onboard_time": 1763169080,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106513,
       "num": 125513,
       "word": "张铎不介意陈松伶年龄",
@@ -451,12 +475,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100745,
-      "num": 100745,
-      "word": "为什么劝你别空腹吃主食",
-      "onboard_time": 1763169080,
-      "rank": 30,
-      "category": "健康医疗"
+      "raw_hot": 101065,
+      "num": 101065,
+      "word": "丁禹兮你衣服呢",
+      "onboard_time": 1763172619,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 99755,
@@ -513,6 +537,14 @@
       "onboard_time": 1763140818,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88539,
+      "num": 88539,
+      "word": "早睡是一件回报率超高的事",
+      "onboard_time": 1763166920,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 86419,
@@ -579,20 +611,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 78886,
-      "num": 78886,
-      "word": "早睡是一件回报率超高的事",
-      "onboard_time": 1763166920,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 76104,
       "num": 76104,
       "word": "宁德时代股东拟转让184亿元股份",
       "onboard_time": 1763171480,
       "rank": 42,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 76103,
+      "num": 89777,
+      "word": "王俊凯官宣话剧趁世界还年青",
+      "onboard_time": 1763172859,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 76004,
@@ -619,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 70972,
+      "num": 70972,
+      "word": "学校要求家长填写可提供资源致歉",
+      "onboard_time": 1763172141,
+      "rank": 41,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 69432,
       "num": 69432,
       "word": "汪苏泷不语只是一味享受尖叫",
@@ -627,11 +667,27 @@
       "category": "演出"
     },
     {
+      "raw_hot": 69323,
+      "num": 69323,
+      "word": "黄油红薯",
+      "onboard_time": 1763170159,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 68892,
       "num": 125200,
       "word": "王楚钦当弟弟肉眼可见的开心",
       "onboard_time": 1763133202,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 68742,
+      "num": 68742,
+      "word": "全运会女子马拉松",
+      "onboard_time": 1763172741,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -651,12 +707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66737,
+      "num": 65840,
+      "word": "女子称住酒店借剪刀遭保安质问",
+      "onboard_time": 1763171840,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66494,
       "num": 66494,
       "word": "潘展乐夺冠后发文",
       "onboard_time": 1763171119,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66490,
+      "num": 66490,
+      "word": "29年前的结婚录像",
+      "onboard_time": 1763172320,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 62726,
@@ -673,6 +745,14 @@
       "onboard_time": 1763162719,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61726,
+      "num": 61726,
+      "word": "如果你感觉很累不妨看看早年的全红婵",
+      "onboard_time": 1763172979,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 61371,
