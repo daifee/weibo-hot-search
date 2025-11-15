@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763246331001,
+  "endTime": 1763249040540,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 764439,
-      "num": 764439,
+      "num": 789520,
       "word": "高市早苗让日本国家承担代价",
       "onboard_time": 1763206825,
       "rank": 1,
@@ -283,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143263,
+      "num": 79710,
+      "word": "带这4个词的奶茶尽量别点",
+      "onboard_time": 1763248817,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 138418,
       "num": 138418,
       "word": "孙颖莎朱雨玲爆分",
@@ -395,11 +403,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85182,
+      "num": 80054,
+      "word": "短剧演员金鸡红毯",
+      "onboard_time": 1763245454,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 82674,
       "num": 82674,
       "word": "澎湖海战",
       "onboard_time": 1763224880,
       "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 79501,
+      "num": 79501,
+      "word": "陈建斌扶住了差点被绊倒的蒋勤勤",
+      "onboard_time": 1763234115,
+      "rank": 48,
       "category": "电影"
     },
     {
@@ -451,12 +475,44 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49128,
-      "num": 49128,
-      "word": "陈建斌扶住了差点被绊倒的蒋勤勤",
-      "onboard_time": 1763234115,
-      "rank": 48,
+      "raw_hot": 45595,
+      "num": 45595,
+      "word": "辛芷蕾金鸡奖红毯笑得好开心",
+      "onboard_time": 1763243294,
+      "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45264,
+      "num": 45264,
+      "word": "高市早苗言行引发中俄朝韩四国不满",
+      "onboard_time": 1763235494,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43514,
+      "num": 43514,
+      "word": "钟嘉欣将和老公庆祝结婚十周年",
+      "onboard_time": 1763242573,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 43488,
+      "num": 43488,
+      "word": "卢凌风戏里戏外都是太平公主的儿子",
+      "onboard_time": 1763247617,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 42109,
+      "num": 43478,
+      "word": "你告诉我这是毛晓彤",
+      "onboard_time": 1763238075,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 37782,
@@ -475,11 +531,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33441,
-      "num": 33441,
-      "word": "辛芷蕾金鸡奖红毯笑得好开心",
-      "onboard_time": 1763243294,
-      "rank": 34,
+      "raw_hot": 32695,
+      "num": 43459,
+      "word": "易烊千玺史上最年轻金鸡影帝",
+      "onboard_time": 1763239333,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -499,12 +555,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 29520,
-      "num": 34151,
-      "word": "易烊千玺史上最年轻金鸡影帝",
-      "onboard_time": 1763239333,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 30647,
+      "num": 43454,
+      "word": "供暖",
+      "onboard_time": 1763231715,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27644,
@@ -513,30 +569,6 @@
       "onboard_time": 1763240894,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26781,
-      "num": 29622,
-      "word": "钟嘉欣将和老公庆祝结婚十周年",
-      "onboard_time": 1763242573,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 26178,
-      "num": 32039,
-      "word": "供暖",
-      "onboard_time": 1763231715,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24769,
-      "num": 29579,
-      "word": "高市早苗言行引发中俄朝韩四国不满",
-      "onboard_time": 1763235494,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 24684,
@@ -555,14 +587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23437,
-      "num": 29553,
-      "word": "你告诉我这是毛晓彤",
-      "onboard_time": 1763238075,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20533,
       "num": 25367,
       "word": "刘宇宁开场爆闪",
@@ -577,14 +601,6 @@
       "onboard_time": 1763234474,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19688,
-      "num": 26774,
-      "word": "短剧演员金鸡红毯",
-      "onboard_time": 1763245454,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 18307,
