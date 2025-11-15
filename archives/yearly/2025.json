@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763213426526,
+  "endTime": 1763214101662,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 13526426,
+      "num": 13526426,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 13516718,
       "num": 13516718,
       "word": "赵露思取关",
@@ -785,14 +793,6 @@
       "onboard_time": 1753942884,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 12640231,
-      "num": 12640231,
-      "word": "金鸡奖",
-      "onboard_time": 1762855220,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 12629127,

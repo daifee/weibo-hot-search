@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/15 00:34:35 ~ 2025/11/15 21:30:26
+本榜单时间：2025/11/15 00:34:35 ~ 2025/11/15 21:41:41
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
-金鸡奖（热度：12640231）
+金鸡奖（热度：13526426）
 </a>
 </li>
 
@@ -35,6 +35,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E8%8E%B7%E5%A5%96%E5%90%8D%E5%8D%95%23" target="weibo">
 金鸡奖获奖名单（热度：3990046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%940%E9%99%88%E6%A2%A6%23" target="weibo">
+王曼昱4比0陈梦（热度：2898923）
 </a>
 </li>
 
@@ -99,14 +105,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E6%82%A8%E5%A5%BD%20%E6%88%91%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%83%B3%E5%9B%9E%E5%A4%A7%E9%99%86%23" target="weibo">
-警察您好 我在台湾想回大陆（热度：1049555）
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%AC%E5%88%B0%E5%B0%96%E5%8F%AB%E5%A3%B0%E6%B2%A1%E6%86%8B%E4%BD%8F%E7%AC%91%E4%BA%86%23" target="weibo">
+易烊千玺听到尖叫声没憋住笑了（热度：1152705）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B14%E6%AF%940%E9%99%88%E6%A2%A6%23" target="weibo">
-王曼昱4比0陈梦（热度：1046046）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E6%82%A8%E5%A5%BD%20%E6%88%91%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%83%B3%E5%9B%9E%E5%A4%A7%E9%99%86%23" target="weibo">
+警察您好 我在台湾想回大陆（热度：1049555）
 </a>
 </li>
 
@@ -153,6 +159,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9C%B1%E9%9B%A8%E7%8E%B2%23" target="weibo">
+孙颖莎vs朱雨玲（热度：897850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B7%B2%E5%81%9A%E5%A5%BD%E5%AF%B9%E6%97%A5%E5%AE%9E%E8%B4%A8%E5%8F%8D%E5%88%B6%E5%87%86%E5%A4%87%23" target="weibo">
 中方已做好对日实质反制准备（热度：887223）
 </a>
@@ -165,12 +177,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8Evs%E6%9C%B1%E9%9B%A8%E7%8E%B2%23" target="weibo">
-孙颖莎vs朱雨玲（热度：874466）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B%23" target="weibo">
 痞幼官宣分手（热度：871727）
 </a>
@@ -179,12 +185,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E9%85%8D%E5%90%88%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%AE%E5%88%80%23" target="weibo">
 日本自卫队配合高市早苗亮刀（热度：841884）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%AC%E5%88%B0%E5%B0%96%E5%8F%AB%E5%A3%B0%E6%B2%A1%E6%86%8B%E4%BD%8F%E7%AC%91%E4%BA%86%23" target="weibo">
-易烊千玺听到尖叫声没憋住笑了（热度：840179）
 </a>
 </li>
 
@@ -207,6 +207,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%85%AC%E5%8E%95%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%99%BD%E8%A1%80%E7%97%85%23" target="weibo">
+浙江公厕被打女孩确诊白血病（热度：785136）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%E9%87%91%E9%B8%A1%E6%9C%80%E4%BD%B3%E5%A5%B3%E9%85%8D%E8%A7%92%23" target="weibo">
 钟楚曦金鸡最佳女配角（热度：765572）
 </a>
@@ -225,14 +231,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%956%E6%AF%9411%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
-许昕6比11王楚钦（热度：676891）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%A8%E7%8E%B211%E6%AF%949%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
+朱雨玲11比9孙颖莎（热度：695548）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%85%AC%E5%8E%95%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E7%A1%AE%E8%AF%8A%E7%99%BD%E8%A1%80%E7%97%85%23" target="weibo">
-浙江公厕被打女孩确诊白血病（热度：674023）
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%950%E6%AF%943%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+许昕0比3王楚钦（热度：686971）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%956%E6%AF%9411%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+许昕6比11王楚钦（热度：676891）
 </a>
 </li>
 
@@ -263,6 +275,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%9B%B4%E5%BC%BA%E4%BA%86%23" target="weibo">
 王楚钦说樊振东更强了（热度：631936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E4%B8%89%E9%87%91%E5%BD%B1%E5%90%8E%E5%A5%B3%E9%85%8D%E9%83%BD%E5%8F%AA%E5%B7%AE%E9%87%91%E9%B8%A1%23" target="weibo">
+惠英红三金影后女配都只差金鸡（热度：608516）
 </a>
 </li>
 
@@ -363,6 +381,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%A5%BA%E7%9A%87%E5%90%8E%20%E7%B3%96%E6%B0%B4%E4%BC%AF%23" target="weibo">
+水饺皇后 糖水伯（热度：457304）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%BC%A0%E9%A6%A8%E4%BA%88%E8%BF%98%E6%98%AF%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 这是张馨予还是迪丽热巴（热度：454088）
 </a>
@@ -395,18 +419,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E8%B5%9B%E9%A3%9E%E8%AF%B4%E4%B8%8D%E8%A6%81%E9%94%99%E6%80%AA%E4%BA%86%E4%B8%A4%E4%BD%8D%E5%BC%9F%E5%BC%9F%23" target="weibo">
 何赛飞说不要错怪了两位弟弟（热度：425935）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%A5%BA%E7%9A%87%E5%90%8E%20%E7%B3%96%E6%B0%B4%E4%BC%AF%23" target="weibo">
-水饺皇后 糖水伯（热度：423390）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%83%A0%E8%8B%B1%E7%BA%A2%E4%B8%89%E9%87%91%E5%BD%B1%E5%90%8E%E5%A5%B3%E9%85%8D%E9%83%BD%E5%8F%AA%E5%B7%AE%E9%87%91%E9%B8%A1%23" target="weibo">
-惠英红三金影后女配都只差金鸡（热度：418518）
 </a>
 </li>
 
@@ -497,6 +509,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E5%98%89%E6%AC%A3%E5%9B%9E%E5%BA%94%E5%A9%9A%E5%8F%98%E4%BC%A0%E9%97%BB%23" target="weibo">
 钟嘉欣回应婚变传闻（热度：342642）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%23" target="weibo">
+影帝背后的男人（热度：340943）
 </a>
 </li>
 
@@ -609,6 +627,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%89%93%E5%BE%97%E8%A7%A3%E8%AF%B4%E7%9B%B4%E5%8F%B9%E6%97%A0%E8%A7%A3%23" target="weibo">
+樊振东打得解说直叹无解（热度：303457）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E9%A6%96%E8%BF%9B%E5%85%A8%E8%BF%90%E4%BC%9A%E5%86%B3%E8%B5%9B%23" target="weibo">
 林诗栋首进全运会决赛（热度：302917）
 </a>
@@ -641,12 +665,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%96%91%E5%9C%A8%E5%BA%90%E5%B1%B1%E6%99%AF%E5%8C%BA%E6%B4%97%E6%BE%A1%23" target="weibo">
 印度人疑在庐山景区洗澡（热度：294823）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%950%E6%AF%943%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
-许昕0比3王楚钦（热度：292320）
 </a>
 </li>
 
@@ -705,12 +723,6 @@ qko说赵磊婚礼离场20分钟专门感谢粉丝（热度：289433）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%23" target="weibo">
-影帝背后的男人（热度：266163）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%B4%AB%E8%89%B2%E8%8A%B1%E6%9C%B5%E9%AB%98%E5%AE%9A%23" target="weibo">
 辛芷蕾紫色花朵高定（热度：264375）
 </a>
@@ -725,12 +737,6 @@ qko说赵磊婚礼离场20分钟专门感谢粉丝（热度：289433）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E8%BF%9E%E5%8F%916%E5%BC%A0%E6%97%A5%E8%8B%B1%E5%8F%8C%E8%AF%AD%E6%B5%B7%E6%8A%A5%23" target="weibo">
 外交部连发6张日英双语海报（热度：261982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%89%93%E5%BE%97%E8%A7%A3%E8%AF%B4%E7%9B%B4%E5%8F%B9%E6%97%A0%E8%A7%A3%23" target="weibo">
-樊振东打得解说直叹无解（热度：260994）
 </a>
 </li>
 
@@ -773,6 +779,12 @@ Uzi训练量堪比职业（热度：259754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%23" target="weibo">
 金鸡奖提名（热度：247248）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
+丁禹兮音乐节（热度：241435）
 </a>
 </li>
 
@@ -821,6 +833,12 @@ Uzi训练量堪比职业（热度：259754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%20%E4%BA%8C%E5%BC%80%23" target="weibo">
 时代少年团 二开（热度：226227）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%86%B2%E5%8F%8D%E4%B9%B0%23" target="weibo">
+刘冲反买（热度：226013）
 </a>
 </li>
 
@@ -971,12 +989,6 @@ Uzi训练量堪比职业（热度：259754）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A611%E6%AF%942%E8%AE%B8%E6%98%95%23" target="weibo">
 王楚钦11比2许昕（热度：201014）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A6%B9%E5%85%AE%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
-丁禹兮音乐节（热度：200083）
 </a>
 </li>
 
@@ -1143,6 +1155,12 @@ Faker复盘iG打T1（热度：188318）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E9%A2%81%E5%A5%96%E5%98%89%E5%AE%BE%23" target="weibo">
+金鸡奖最佳男主角颁奖嘉宾（热度：187876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%8D%E5%87%BA%E6%88%98%E5%9B%A2%E4%BD%93%E8%B5%9B%23" target="weibo">
 樊振东不出战团体赛（热度：186259）
 </a>
@@ -1181,6 +1199,12 @@ desire4团综（热度：184484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E5%8D%8A%E5%86%B3%E8%B5%9B%E5%BE%88%E7%B2%BE%E5%BD%A9%23" target="weibo">
 王楚钦说半决赛很精彩（热度：181304）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E8%87%AA%E7%94%B1%E6%B3%B3%E6%8E%A5%E5%8A%9B%23" target="weibo">
+孙杨自由泳接力（热度：178688）
 </a>
 </li>
 
@@ -1617,6 +1641,12 @@ MRC对战WBG（热度：136151）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%AD%E5%85%AC%E4%B8%BB%E4%B9%9F%E5%9C%A8%E5%85%B3%E6%B3%A8%E5%8D%8E%E4%B8%BA%E6%96%B0%E6%9C%BA%23" target="weibo">
+原来六公主也在关注华为新机（热度：134907）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%93%E9%87%8C%E5%BC%80%E5%90%AF%E4%B9%B1%E7%A9%BF%E9%9E%8B%E6%97%B6%E4%BB%A3%23" target="weibo">
 库里开启乱穿鞋时代（热度：134775）
 </a>
@@ -1715,6 +1745,12 @@ MRC对战WBG（热度：136151）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E5%A5%B6%E8%8C%B6%E4%B9%9F%E8%A6%81%E9%85%8D%E8%B4%A7%E4%BA%86%23" target="weibo">
 喝奶茶也要配货了（热度：125955）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%A6%84%E6%83%B3%E6%8B%9B%E9%AD%82%23" target="weibo">
+高市早苗妄想招魂（热度：124995）
 </a>
 </li>
 
@@ -2277,12 +2313,6 @@ Ella发长文（热度：98081）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%A6%84%E6%83%B3%E6%8B%9B%E9%AD%82%23" target="weibo">
-高市早苗妄想招魂（热度：79430）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E8%A1%A8%E6%9C%80%E5%BC%BA%E4%B9%92%E4%B9%93%E7%90%83%E5%8D%8A%E5%86%B3%E8%B5%9B%E6%9D%A5%E4%BA%86%23" target="weibo">
 地表最强乒乓球半决赛来了（热度：79355）
 </a>
@@ -2433,6 +2463,12 @@ Ella发长文（热度：98081）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%9F%BA%E7%B1%B3%E5%8D%97%E5%8C%97%E7%BB%BF%E8%B1%86%E6%B5%86%E5%8C%85%E8%A3%85%E8%A2%AB%E6%8A%84%E8%A2%AD%23" target="weibo">
+哈基米南北绿豆浆包装被抄袭（热度：65993）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%8B%8D%E7%9A%84%E9%87%91%E9%B8%A1%E7%BA%A2%E6%AF%AF%E6%9C%89%E5%A4%9A%E7%BB%9D%23" target="weibo">
 华为手机拍的金鸡红毯有多绝（热度：65376）
 </a>
@@ -2477,12 +2513,6 @@ Ella发长文（热度：98081）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%82%E6%9E%9C%E4%BD%A0%E6%84%9F%E8%A7%89%E5%BE%88%E7%B4%AF%E4%B8%8D%E5%A6%A8%E7%9C%8B%E7%9C%8B%E6%97%A9%E5%B9%B4%E7%9A%84%E5%85%A8%E7%BA%A2%E5%A9%B5%23" target="weibo">
 如果你感觉很累不妨看看早年的全红婵（热度：61726）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%88%E5%9F%BA%E7%B1%B3%E5%8D%97%E5%8C%97%E7%BB%BF%E8%B1%86%E6%B5%86%E5%8C%85%E8%A3%85%E8%A2%AB%E6%8A%84%E8%A2%AD%23" target="weibo">
-哈基米南北绿豆浆包装被抄袭（热度：61447）
 </a>
 </li>
 
@@ -2721,6 +2751,12 @@ Ella发长文（热度：98081）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E8%B5%9B%E5%9C%BA%E5%A4%96%E6%AD%A5%E6%AD%A5%E7%94%9F%E8%8A%B1%23" target="weibo">
+十五运会赛场外步步生花（热度：27992）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%8F%E4%B9%8B%E5%85%89%E4%BD%A0%E6%8E%A5%E7%9A%84%E6%98%AF%E6%AD%A3%E7%BB%8F%E6%B4%BB%E5%90%97%23" target="weibo">
 夏之光你接的是正经活吗（热度：26850）
 </a>
@@ -2825,12 +2861,6 @@ Ella发长文（热度：98081）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E5%8D%81%E4%BA%94%E5%B1%8A%E5%85%A8%E8%BF%90%E4%BC%9A%23" target="weibo">
 第十五届全运会（热度：11690）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E4%BA%94%E8%BF%90%E4%BC%9A%E8%B5%9B%E5%9C%BA%E5%A4%96%E6%AD%A5%E6%AD%A5%E7%94%9F%E8%8A%B1%23" target="weibo">
-十五运会赛场外步步生花（热度：7023）
 </a>
 </li>
 
