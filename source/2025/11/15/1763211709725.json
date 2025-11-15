@@ -1,0 +1,410 @@
+{
+  "runTime": 1763211709725,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12640231,
+        "num": 12640231,
+        "word": "金鸡奖",
+        "onboard_time": 1763207482,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1245423,
+        "num": 1245423,
+        "word": "高市早苗让日本国家承担代价",
+        "onboard_time": 1763206825,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33959,
+        "num": 1057076,
+        "word": "被中国健儿鼓舞到了",
+        "onboard_time": 1763194760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3435251,
+        "num": 1056590,
+        "word": "金鸡奖获奖名单",
+        "onboard_time": 1763207422,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 980143,
+        "num": 980143,
+        "word": "陈梦vs王曼昱",
+        "onboard_time": 1763210846,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 642249,
+        "num": 642249,
+        "word": "樊振东4比2王楚钦",
+        "onboard_time": 1763186006,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 874990,
+        "num": 601428,
+        "word": "金鸡奖红毯",
+        "onboard_time": 1763195481,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 499937,
+        "num": 499937,
+        "word": "孙颖莎vs朱雨玲",
+        "onboard_time": 1763211026,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 490909,
+        "num": 490909,
+        "word": "中方已做好对日实质反制准备",
+        "onboard_time": 1763203222,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51771,
+        "num": 452466,
+        "word": "郑丽文 一个中国才能确保台湾生存",
+        "onboard_time": 1763211145,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 644742,
+        "num": 451503,
+        "word": "钟楚曦哭了",
+        "onboard_time": 1763207843,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 450352,
+        "num": 450352,
+        "word": "小小的我",
+        "onboard_time": 1763210785,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 425394,
+        "num": 425394,
+        "word": "日本3位前首相发声",
+        "onboard_time": 1763201721,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 422236,
+        "num": 422236,
+        "word": "警察您好 我在台湾想回大陆",
+        "onboard_time": 1763205022,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412021,
+        "num": 412021,
+        "word": "朱一龙帮宋佳摘掉黏在背上的姓名贴",
+        "onboard_time": 1763209406,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518169,
+        "num": 382345,
+        "word": "钟楚曦金鸡最佳女配角",
+        "onboard_time": 1763207303,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 330088,
+        "num": 330088,
+        "word": "非洲发生大屠杀上千名平民遇害",
+        "onboard_time": 1763204723,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 321362,
+        "num": 321362,
+        "word": "日本这次的借口与侵华时如出一辙",
+        "onboard_time": 1763203222,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35468,
+        "num": 321188,
+        "word": "入室抢婴案主犯认为被判死缓过重",
+        "onboard_time": 1763210965,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65376,
+        "num": 317156,
+        "word": "华为手机拍的金鸡红毯有多绝",
+        "onboard_time": 1763208262,
+        "rank": 19,
+        "category": "电影,数码"
+      },
+      {
+        "raw_hot": 362536,
+        "num": 314952,
+        "word": "怜爱惠英红",
+        "onboard_time": 1763211565,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63973,
+        "num": 312244,
+        "word": "高市搞事怎么看",
+        "onboard_time": 1763209946,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323147,
+        "num": 308683,
+        "word": "陈都灵关晓彤一起走红毯",
+        "onboard_time": 1763207902,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 252919,
+        "num": 305405,
+        "word": "借贷13万要还1260万",
+        "onboard_time": 1763210306,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305161,
+        "num": 305161,
+        "word": "马龙许昕男双大战",
+        "onboard_time": 1763204482,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302081,
+        "num": 302081,
+        "word": "金鸡奖座位",
+        "onboard_time": 1763210066,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283530,
+        "num": 283530,
+        "word": "王楚钦13比11赵子豪",
+        "onboard_time": 1763207603,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 283074,
+        "num": 283074,
+        "word": "女生要帅哥微信回家发现是宋威龙",
+        "onboard_time": 1763185947,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259773,
+        "num": 259773,
+        "word": "水饺皇后 糖水伯",
+        "onboard_time": 1763210186,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255382,
+        "num": 255382,
+        "word": "易烊千玺金鸡奖造型",
+        "onboard_time": 1763199201,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241652,
+        "num": 241652,
+        "word": "影帝背后的男人",
+        "onboard_time": 1763208624,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230443,
+        "num": 230443,
+        "word": "好东西",
+        "onboard_time": 1763209345,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81808,
+        "num": 227391,
+        "word": "赴日本游客考虑退改",
+        "onboard_time": 1763209766,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226016,
+        "num": 226016,
+        "word": "中方愤怒正在升级",
+        "onboard_time": 1763177542,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213415,
+        "num": 213415,
+        "word": "小李琳否认与经超相差6岁",
+        "onboard_time": 1763201302,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 208375,
+        "num": 208375,
+        "word": "金鸡奖 处女作",
+        "onboard_time": 1763211446,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207343,
+        "num": 207343,
+        "word": "马英九发声",
+        "onboard_time": 1763202862,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202638,
+        "num": 202638,
+        "word": "金鸡奖节目单",
+        "onboard_time": 1763207964,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202020,
+        "num": 202020,
+        "word": "王楚钦一日三赛",
+        "onboard_time": 1763211446,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74012,
+        "num": 200974,
+        "word": "浙江公厕被打女孩确诊白血病",
+        "onboard_time": 1763211207,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200080,
+        "num": 200080,
+        "word": "双高胎 抢票",
+        "onboard_time": 1763210007,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199853,
+        "num": 199853,
+        "word": "难哄动画首支预告",
+        "onboard_time": 1763211266,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 193229,
+        "num": 193229,
+        "word": "中国奇谭2",
+        "onboard_time": 1763211026,
+        "rank": 42,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 191888,
+        "num": 191888,
+        "word": "易烊千玺希望不辜负大家",
+        "onboard_time": 1763206825,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189528,
+        "num": 189528,
+        "word": "徐嘉余200米仰泳金牌",
+        "onboard_time": 1763211145,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 191450,
+        "num": 189507,
+        "word": "罗小黑战记",
+        "onboard_time": 1763211026,
+        "rank": 45,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 189426,
+        "num": 189426,
+        "word": "赵子豪3比0黄友政",
+        "onboard_time": 1763211506,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172613,
+        "num": 189059,
+        "word": "全运会",
+        "onboard_time": 1763210365,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188928,
+        "num": 188928,
+        "word": "王楚钦男团比赛",
+        "onboard_time": 1763211627,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184484,
+        "num": 184484,
+        "word": "desire4团综",
+        "onboard_time": 1763211386,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}

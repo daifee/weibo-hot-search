@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763210849673,
+  "endTime": 1763211709725,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -787,6 +787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 12640231,
+      "num": 12640231,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 12629127,
       "num": 12629127,
       "word": "建议岳云鹏别上春晚",
@@ -897,14 +905,6 @@
       "onboard_time": 1736081009,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11922703,
-      "num": 11922703,
-      "word": "金鸡奖",
-      "onboard_time": 1762855220,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 11918137,
