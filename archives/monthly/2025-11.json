@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763206659522,
+  "endTime": 1763210849673,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -9,6 +9,14 @@
       "onboard_time": 1762247421,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11922703,
+      "num": 11922703,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 9324816,
@@ -73,6 +81,14 @@
       "onboard_time": 1762004724,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3990046,
+      "num": 908619,
+      "word": "金鸡奖获奖名单",
+      "onboard_time": 1763207422,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 3905506,
@@ -737,6 +753,14 @@
       "onboard_time": 1762950323,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1237432,
+      "num": 1237432,
+      "word": "高市早苗让日本国家承担代价",
+      "onboard_time": 1763206825,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1236023,
@@ -1420,7 +1444,7 @@
     },
     {
       "raw_hot": 908410,
-      "num": 220019,
+      "num": 229273,
       "word": "小李琳否认与经超相差6岁",
       "onboard_time": 1763201302,
       "rank": 20,
@@ -1484,7 +1508,7 @@
     },
     {
       "raw_hot": 887223,
-      "num": 518347,
+      "num": 531761,
       "word": "中方已做好对日实质反制准备",
       "onboard_time": 1763203222,
       "rank": 31,
@@ -2033,6 +2057,14 @@
       "onboard_time": 1762164681,
       "rank": 0,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 765572,
+      "num": 411653,
+      "word": "钟楚曦金鸡最佳女配角",
+      "onboard_time": 1763207303,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 763232,
@@ -2753,6 +2785,14 @@
       "onboard_time": 1762567399,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 663403,
+      "num": 344657,
+      "word": "钟楚曦哭了",
+      "onboard_time": 1763207843,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 662387,
@@ -4273,14 +4313,6 @@
       "onboard_time": 1762933459,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 525000,
-      "num": 525000,
-      "word": "金鸡奖",
-      "onboard_time": 1762855220,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 524846,
@@ -6259,6 +6291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404255,
+      "num": 404255,
+      "word": "非洲发生大屠杀上千名平民遇害",
+      "onboard_time": 1763204723,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 404196,
       "num": 160967,
       "word": "何穗产后身材 像没生过",
@@ -7009,6 +7049,14 @@
       "onboard_time": 1762771099,
       "rank": 33,
       "category": "艺人,电影"
+    },
+    {
+      "raw_hot": 371783,
+      "num": 371783,
+      "word": "朱一龙帮宋佳摘掉黏在背上的姓名贴",
+      "onboard_time": 1763209406,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 371599,
@@ -7873,6 +7921,14 @@
       "onboard_time": 1762346662,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336019,
+      "num": 248208,
+      "word": "陈都灵关晓彤一起走红毯",
+      "onboard_time": 1763207902,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 335963,
@@ -10803,6 +10859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254186,
+      "num": 207022,
+      "word": "王楚钦13比11赵子豪",
+      "onboard_time": 1763207603,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254075,
       "num": 189275,
       "word": "孩子王回应复活",
@@ -11515,6 +11579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235248,
+      "num": 235248,
+      "word": "好东西",
+      "onboard_time": 1763209345,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235227,
       "num": 219957,
       "word": "日本这次的借口与侵华时如出一辙",
@@ -11825,6 +11897,14 @@
       "onboard_time": 1762246341,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228422,
+      "num": 228422,
+      "word": "金鸡奖节目单",
+      "onboard_time": 1763207964,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 228371,
@@ -12259,6 +12339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221567,
+      "num": 221567,
+      "word": "影帝背后的男人",
+      "onboard_time": 1763208624,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221125,
       "num": 221125,
       "word": "刘诗雯打球好看",
@@ -12593,6 +12681,14 @@
       "onboard_time": 1762143621,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 215379,
+      "num": 215379,
+      "word": "周恺vs马龙",
+      "onboard_time": 1763207482,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 215311,
@@ -13251,6 +13347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 207085,
+      "num": 207085,
+      "word": "双高胎 抢票",
+      "onboard_time": 1763210007,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207006,
       "num": 160394,
       "word": "孙颖莎生日",
@@ -13811,6 +13915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200880,
+      "num": 200880,
+      "word": "金鸡奖座位",
+      "onboard_time": 1763210066,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 200857,
       "num": 200857,
       "word": "肖战问奶牛们住的地方还有位置吗",
@@ -13913,6 +14025,14 @@
       "onboard_time": 1762157361,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200042,
+      "num": 200042,
+      "word": "水饺皇后 糖水伯",
+      "onboard_time": 1763210186,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 200011,
@@ -14523,6 +14643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 193846,
+      "num": 193846,
+      "word": "周恺1比3马龙",
+      "onboard_time": 1763209826,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193778,
       "num": 176164,
       "word": "王楚钦回应2比4樊振东",
@@ -14545,6 +14673,14 @@
       "onboard_time": 1762090643,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193381,
+      "num": 200052,
+      "word": "哪吒2金鸡奖最佳美术片",
+      "onboard_time": 1763210426,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 193160,
@@ -15089,6 +15225,14 @@
       "onboard_time": 1761977060,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188736,
+      "num": 188736,
+      "word": "易烊千玺希望不辜负大家",
+      "onboard_time": 1763206825,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 188680,
@@ -18499,14 +18643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 160565,
-      "num": 160565,
-      "word": "非洲发生大屠杀上千名平民遇害",
-      "onboard_time": 1763204723,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160509,
       "num": 160509,
       "word": "王曼昱说陈梦再返赛场优势非常强",
@@ -19043,12 +19179,28 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 157326,
+      "num": 157326,
+      "word": "朝鲜狠批日本",
+      "onboard_time": 1763210426,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157310,
       "num": 157310,
       "word": "2025全球总决赛",
       "onboard_time": 1762668620,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 157292,
+      "num": 157292,
+      "word": "袁富华金鸡奖最佳男配角",
+      "onboard_time": 1763207783,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 157224,
@@ -20867,6 +21019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 145911,
+      "num": 145911,
+      "word": "日本共产党再发声",
+      "onboard_time": 1763210186,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 145817,
       "num": 145817,
       "word": "徐志胜让8个顶流歌手没招了",
@@ -21811,6 +21971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140231,
+      "num": 140231,
+      "word": "终于知道银杏为啥叫银杏了",
+      "onboard_time": 1763206283,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140221,
       "num": 167100,
       "word": "赵丽娜红包",
@@ -22041,6 +22209,14 @@
       "onboard_time": 1762517480,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139231,
+      "num": 139231,
+      "word": "小小的我",
+      "onboard_time": 1763210785,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 139230,
@@ -22377,6 +22553,14 @@
       "onboard_time": 1762489040,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138035,
+      "num": 138035,
+      "word": "女子续费才知认养东北虎已死亡数月",
+      "onboard_time": 1763205322,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137943,
@@ -23377,14 +23561,6 @@
       "onboard_time": 1762059381,
       "rank": 28,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 133448,
-      "num": 133448,
-      "word": "女子续费才知认养东北虎已死亡数月",
-      "onboard_time": 1763205322,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133400,
@@ -29443,14 +29619,6 @@
       "category": "海外新闻,汽车"
     },
     {
-      "raw_hot": 111628,
-      "num": 111628,
-      "word": "终于知道银杏为啥叫银杏了",
-      "onboard_time": 1763206283,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111623,
       "num": 154983,
       "word": "大学生网购钥匙关掉百部电梯广告",
@@ -29857,6 +30025,14 @@
       "onboard_time": 1762403662,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110288,
+      "num": 248671,
+      "word": "借贷13万要还1260万",
+      "onboard_time": 1763210306,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110258,
@@ -47091,6 +47267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59200,
+      "num": 248783,
+      "word": "赴日本游客考虑退改",
+      "onboard_time": 1763209766,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59063,
       "num": 124834,
       "word": "邓亚萍解说混双金牌赛",
@@ -47193,6 +47377,14 @@
       "onboard_time": 1762398260,
       "rank": 18,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 58285,
+      "num": 248447,
+      "word": "华为手机拍的金鸡红毯有多绝",
+      "onboard_time": 1763208262,
+      "rank": 19,
+      "category": "电影,数码"
     },
     {
       "raw_hot": 58265,
@@ -51515,6 +51707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30821,
+      "num": 415594,
+      "word": "高市搞事怎么看",
+      "onboard_time": 1763209946,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30738,
       "num": 123304,
       "word": "女子丧夫出车祸被PUA克子散财体质",
@@ -51913,6 +52113,14 @@
       "onboard_time": 1762881136,
       "rank": 28,
       "category": "军事"
+    },
+    {
+      "raw_hot": 28273,
+      "num": 171309,
+      "word": "日本的熊学会装死了",
+      "onboard_time": 1763210007,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28174,

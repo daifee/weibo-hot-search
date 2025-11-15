@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763206659522,
+  "endTime": 1763210849673,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -897,6 +897,14 @@
       "onboard_time": 1736081009,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11922703,
+      "num": 11922703,
+      "word": "金鸡奖",
+      "onboard_time": 1762855220,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 11918137,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1739437641,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 5303428,
-      "num": 5303428,
-      "word": "肖战 主唱大人",
-      "onboard_time": 1759073545,
-      "rank": 3,
-      "category": "演出"
     }
   ],
   "hotgov_list": [

@@ -1,7 +1,15 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763206659522,
+  "endTime": 1763210849673,
   "band_list": [
+    {
+      "raw_hot": 11922703,
+      "num": 11922703,
+      "word": "金鸡奖",
+      "onboard_time": 1763207482,
+      "rank": 0,
+      "category": "电影"
+    },
     {
       "raw_hot": 7358127,
       "num": 7358127,
@@ -17,6 +25,14 @@
       "onboard_time": 1763186006,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3990046,
+      "num": 908619,
+      "word": "金鸡奖获奖名单",
+      "onboard_time": 1763207422,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1774306,
@@ -57,6 +73,14 @@
       "onboard_time": 1763134401,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1237432,
+      "num": 1237432,
+      "word": "高市早苗让日本国家承担代价",
+      "onboard_time": 1763206825,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1202025,
@@ -116,7 +140,7 @@
     },
     {
       "raw_hot": 908410,
-      "num": 220019,
+      "num": 229273,
       "word": "小李琳否认与经超相差6岁",
       "onboard_time": 1763201302,
       "rank": 20,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 887223,
-      "num": 518347,
+      "num": 531761,
       "word": "中方已做好对日实质反制准备",
       "onboard_time": 1763203222,
       "rank": 31,
@@ -179,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 765572,
+      "num": 411653,
+      "word": "钟楚曦金鸡最佳女配角",
+      "onboard_time": 1763207303,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 719654,
       "num": 293795,
       "word": "中国人对于晒被子的执念",
@@ -201,6 +233,14 @@
       "onboard_time": 1763176459,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 663403,
+      "num": 344657,
+      "word": "钟楚曦哭了",
+      "onboard_time": 1763207843,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 660100,
@@ -419,6 +459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 404255,
+      "num": 404255,
+      "word": "非洲发生大屠杀上千名平民遇害",
+      "onboard_time": 1763204723,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 397475,
       "num": 397475,
       "word": "宁静跟繁花团吐槽花少",
@@ -456,6 +504,14 @@
       "word": "易烊千玺段奥娟同桌",
       "onboard_time": 1763122459,
       "rank": 22,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 371783,
+      "num": 371783,
+      "word": "朱一龙帮宋佳摘掉黏在背上的姓名贴",
+      "onboard_time": 1763209406,
+      "rank": 14,
       "category": "电影"
     },
     {
@@ -497,6 +553,14 @@
       "onboard_time": 1763115741,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 336019,
+      "num": 248208,
+      "word": "陈都灵关晓彤一起走红毯",
+      "onboard_time": 1763207902,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 334188,
@@ -763,6 +827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254186,
+      "num": 207022,
+      "word": "王楚钦13比11赵子豪",
+      "onboard_time": 1763207603,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 249856,
       "num": 184755,
       "word": "茶百道回应固体杨枝甘露单点不送",
@@ -803,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 235248,
+      "num": 235248,
+      "word": "好东西",
+      "onboard_time": 1763209345,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 235227,
       "num": 219957,
       "word": "日本这次的借口与侵华时如出一辙",
@@ -817,6 +897,14 @@
       "onboard_time": 1763133982,
       "rank": 6,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 228422,
+      "num": 228422,
+      "word": "金鸡奖节目单",
+      "onboard_time": 1763207964,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 227184,
@@ -856,6 +944,14 @@
       "word": "关晓彤盎然绿玫瑰",
       "onboard_time": 1763202082,
       "rank": 45,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 221567,
+      "num": 221567,
+      "word": "影帝背后的男人",
+      "onboard_time": 1763208624,
+      "rank": 26,
       "category": "电影"
     },
     {
@@ -899,6 +995,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 215379,
+      "num": 215379,
+      "word": "周恺vs马龙",
+      "onboard_time": 1763207482,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213514,
       "num": 243041,
       "word": "高市早苗七宗罪",
@@ -931,6 +1035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207085,
+      "num": 207085,
+      "word": "双高胎 抢票",
+      "onboard_time": 1763210007,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204535,
       "num": 255127,
       "word": "白敬亭 黑敬亭",
@@ -945,6 +1057,14 @@
       "onboard_time": 1763137821,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203216,
+      "num": 203216,
+      "word": "全运会",
+      "onboard_time": 1763184261,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 202407,
@@ -971,20 +1091,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 201415,
-      "num": 201415,
-      "word": "全运会",
-      "onboard_time": 1763184261,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 201198,
       "num": 201198,
       "word": "睡前饥饿感频发可能是胰岛素抵抗",
       "onboard_time": 1763162837,
       "rank": 17,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 200880,
+      "num": 200880,
+      "word": "金鸡奖座位",
+      "onboard_time": 1763210066,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 200042,
+      "num": 200042,
+      "word": "水饺皇后 糖水伯",
+      "onboard_time": 1763210186,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 199183,
@@ -1051,12 +1179,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193846,
+      "num": 193846,
+      "word": "周恺1比3马龙",
+      "onboard_time": 1763209826,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193778,
       "num": 176164,
       "word": "王楚钦回应2比4樊振东",
       "onboard_time": 1763188702,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193381,
+      "num": 200052,
+      "word": "哪吒2金鸡奖最佳美术片",
+      "onboard_time": 1763210426,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 193118,
@@ -1089,6 +1233,14 @@
       "onboard_time": 1763170340,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 188736,
+      "num": 188736,
+      "word": "易烊千玺希望不辜负大家",
+      "onboard_time": 1763206825,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 188318,
@@ -1299,14 +1451,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 160565,
-      "num": 160565,
-      "word": "非洲发生大屠杀上千名平民遇害",
-      "onboard_time": 1763204723,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 160034,
       "num": 180955,
       "word": "花儿与少年同心季",
@@ -1336,6 +1480,22 @@
       "word": "胡歌都快哭了",
       "onboard_time": 1763194040,
       "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 157326,
+      "num": 157326,
+      "word": "朝鲜狠批日本",
+      "onboard_time": 1763210426,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 157292,
+      "num": 157292,
+      "word": "袁富华金鸡奖最佳男配角",
+      "onboard_time": 1763207783,
+      "rank": 43,
       "category": "电影"
     },
     {
@@ -1491,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 145911,
+      "num": 145911,
+      "word": "日本共产党再发声",
+      "onboard_time": 1763210186,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 144757,
       "num": 144757,
       "word": "就算你是皇帝也得受岳父的气",
@@ -1547,6 +1715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140231,
+      "num": 140231,
+      "word": "终于知道银杏为啥叫银杏了",
+      "onboard_time": 1763206283,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140147,
       "num": 140147,
       "word": "养了两年终于能伺候我了",
@@ -1561,6 +1737,14 @@
       "onboard_time": 1763193682,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139231,
+      "num": 139231,
+      "word": "小小的我",
+      "onboard_time": 1763210785,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 139176,
@@ -1617,6 +1801,14 @@
       "onboard_time": 1763206522,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 138035,
+      "num": 138035,
+      "word": "女子续费才知认养东北虎已死亡数月",
+      "onboard_time": 1763205322,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137444,
@@ -1713,14 +1905,6 @@
       "onboard_time": 1763203582,
       "rank": 26,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 133448,
-      "num": 133448,
-      "word": "女子续费才知认养东北虎已死亡数月",
-      "onboard_time": 1763205322,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133021,
@@ -2099,20 +2283,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 111628,
-      "num": 111628,
-      "word": "终于知道银杏为啥叫银杏了",
-      "onboard_time": 1763206283,
-      "rank": 49,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110343,
       "num": 110343,
       "word": "钟嘉欣曾说不要因为结婚而结婚",
       "onboard_time": 1763179821,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110288,
+      "num": 248671,
+      "word": "借贷13万要还1260万",
+      "onboard_time": 1763210306,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109617,
@@ -2827,12 +3011,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59200,
+      "num": 248783,
+      "word": "赴日本游客考虑退改",
+      "onboard_time": 1763209766,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59063,
       "num": 124834,
       "word": "邓亚萍解说混双金牌赛",
       "onboard_time": 1763136621,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58285,
+      "num": 248447,
+      "word": "华为手机拍的金鸡红毯有多绝",
+      "onboard_time": 1763208262,
+      "rank": 19,
+      "category": "电影,数码"
     },
     {
       "raw_hot": 58053,
@@ -3067,6 +3267,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30821,
+      "num": 415594,
+      "word": "高市搞事怎么看",
+      "onboard_time": 1763209946,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 30674,
       "num": 105104,
       "word": "女明星审美超前的耳骨钉",
@@ -3089,6 +3297,14 @@
       "onboard_time": 1763184921,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28273,
+      "num": 171309,
+      "word": "日本的熊学会装死了",
+      "onboard_time": 1763210007,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 26850,

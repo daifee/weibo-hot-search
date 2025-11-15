@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/15 19:37:39
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/15 20:47:29
 </p>
 </blockquote>
 <p>
@@ -683,6 +683,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8E%E5%BE%B7%E7%9B%B4%E6%92%AD%23" target="weibo">
 李明德直播（热度：11923856）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%A5%96%23" target="weibo">
+金鸡奖（热度：11922703）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9D%E8%B4%BA%E5%93%AA%E5%90%922%E7%A5%A8%E6%88%BF%E7%A0%B4100%E4%BA%BF%23" target="weibo">
 祝贺哪吒2票房破100亿（热度：5336614）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%20%E4%B8%BB%E5%94%B1%E5%A4%A7%E4%BA%BA%23" target="weibo">
-肖战 主唱大人（热度：5303428）
 </a>
 </li>
 
