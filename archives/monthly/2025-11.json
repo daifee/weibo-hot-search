@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763176421577,
+  "endTime": 1763177398553,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1075,6 +1075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1026678,
+      "num": 139491,
+      "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
+      "onboard_time": 1763174540,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1021876,
       "num": 280600,
       "word": "蒲熠星回应通告费",
@@ -1145,14 +1153,6 @@
       "onboard_time": 1762045100,
       "rank": 0,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 993481,
-      "num": 139491,
-      "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
-      "onboard_time": 1763174540,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 990681,
@@ -5724,7 +5724,7 @@
     },
     {
       "raw_hot": 415051,
-      "num": 185316,
+      "num": 188986,
       "word": "影视飓风Tim回应相亲争议",
       "onboard_time": 1763168000,
       "rank": 10,
@@ -6459,6 +6459,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 380549,
+      "num": 135943,
+      "word": "马天宇被外国美女搭讪",
+      "onboard_time": 1763174119,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 380192,
       "num": 208469,
       "word": "陈妍希谈怀孕妊娠纹",
@@ -6864,6 +6872,14 @@
       "word": "白鹿cha香水有毒",
       "onboard_time": 1762657100,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 363982,
+      "num": 135665,
+      "word": "朱珠白发",
+      "onboard_time": 1763176459,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -8083,6 +8099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 316534,
+      "num": 316534,
+      "word": "张继科说全运会谁赢都一样",
+      "onboard_time": 1763173340,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315626,
       "num": 152610,
       "word": "彭小苒 姐妹这太过火了",
@@ -8201,14 +8225,6 @@
       "onboard_time": 1762083561,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 310208,
-      "num": 131785,
-      "word": "马天宇被外国美女搭讪",
-      "onboard_time": 1763174119,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 310115,
@@ -8817,14 +8833,6 @@
       "onboard_time": 1762349302,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 294214,
-      "num": 294214,
-      "word": "张继科说全运会谁赢都一样",
-      "onboard_time": 1763173340,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 294162,
@@ -9755,6 +9763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 269039,
+      "num": 269039,
+      "word": "倪妮短发帅成啥样了",
+      "onboard_time": 1763172680,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 268896,
       "num": 268896,
       "word": "东京电影节",
@@ -9937,6 +9953,14 @@
       "onboard_time": 1763170520,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 263235,
+      "num": 263235,
+      "word": "qko说赵磊婚礼离场20分钟专门感谢粉丝",
+      "onboard_time": 1763174900,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 263154,
@@ -10280,6 +10304,14 @@
       "word": "孩子王回应复活",
       "onboard_time": 1763085921,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254038,
+      "num": 135442,
+      "word": "这是张馨予还是迪丽热巴",
+      "onboard_time": 1763175920,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -11243,14 +11275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 229221,
-      "num": 229221,
-      "word": "倪妮短发帅成啥样了",
-      "onboard_time": 1763172680,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 229110,
       "num": 194796,
       "word": "巧克力 孟子义嫡长狗",
@@ -11401,6 +11425,14 @@
       "onboard_time": 1762921042,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 226227,
+      "num": 189536,
+      "word": "时代少年团 二开",
+      "onboard_time": 1763175501,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 226142,
@@ -13409,6 +13441,14 @@
       "onboard_time": 1762769540,
       "rank": 6,
       "category": "演出"
+    },
+    {
+      "raw_hot": 197965,
+      "num": 197965,
+      "word": "谁给王安宇买的站票",
+      "onboard_time": 1763175800,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 197943,
@@ -16339,14 +16379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 170097,
-      "num": 157743,
-      "word": "时代少年团 二开",
-      "onboard_time": 1763175501,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 169886,
       "num": 169886,
       "word": "锤娜丽莎李川牵手走红毯",
@@ -16505,14 +16537,6 @@
       "onboard_time": 1762921760,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167965,
-      "num": 128132,
-      "word": "qko说赵磊婚礼离场20分钟专门感谢粉丝",
-      "onboard_time": 1763174900,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 167704,
@@ -19707,14 +19731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 146592,
-      "num": 146592,
-      "word": "谁给王安宇买的站票",
-      "onboard_time": 1763175800,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 146489,
       "num": 146489,
       "word": "原来这就是大家拼命要上岸的原因",
@@ -20195,6 +20211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143797,
+      "num": 134150,
+      "word": "刘诗雯混双夺冠后发文",
+      "onboard_time": 1763177120,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143773,
       "num": 143773,
       "word": "王嘉尔演唱会 日本名流圈团建",
@@ -20353,6 +20377,14 @@
       "onboard_time": 1762485739,
       "rank": 28,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 142813,
+      "num": 142813,
+      "word": "林高远夺冠后发文",
+      "onboard_time": 1763176942,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 142736,
@@ -24443,6 +24475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124270,
+      "num": 124270,
+      "word": "林高远继续为粤队战斗",
+      "onboard_time": 1763177120,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124251,
       "num": 135985,
       "word": "为什么十年前没让我刷到这句话",
@@ -26737,6 +26777,14 @@
       "onboard_time": 1762947081,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115584,
+      "num": 115584,
+      "word": "税务师",
+      "onboard_time": 1763177059,
+      "rank": 35,
+      "category": "教育"
     },
     {
       "raw_hot": 115571,
@@ -29907,14 +29955,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 105342,
-      "num": 105342,
-      "word": "这是张馨予还是迪丽热巴",
-      "onboard_time": 1763175920,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105327,
       "num": 105327,
       "word": "雀骨杀青",
@@ -29977,6 +30017,14 @@
       "onboard_time": 1762752859,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105115,
+      "num": 105115,
+      "word": "她是真的想教会你化妆",
+      "onboard_time": 1763177301,
+      "rank": 37,
+      "category": "美妆"
     },
     {
       "raw_hot": 105034,
@@ -37931,6 +37979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86549,
+      "num": 134566,
+      "word": "朱一龙易烊千玺刘昊然角逐金鸡影帝",
+      "onboard_time": 1763176700,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 86525,
       "num": 86525,
       "word": "原来米和米之间的差别这么大",
@@ -38811,6 +38867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84471,
+      "num": 84471,
+      "word": "全球媒体转发玉渊谭天评论",
+      "onboard_time": 1763176942,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 84467,
       "num": 161097,
       "word": "上海网友称91元买1根甘蔗",
@@ -39465,6 +39529,14 @@
       "onboard_time": 1761984439,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82679,
+      "num": 82679,
+      "word": "大湾鸡已入驻广东省博物馆",
+      "onboard_time": 1763176820,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 82664,
@@ -43385,6 +43457,14 @@
       "onboard_time": 1762336222,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69203,
+      "num": 80380,
+      "word": "陈紫函回应姐弟恋争议",
+      "onboard_time": 1763176521,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 69170,
@@ -50827,6 +50907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21767,
+      "num": 91562,
+      "word": "县环卫所招聘博士监管垃圾转运站",
+      "onboard_time": 1763175920,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21738,
       "num": 102560,
       "word": "林永健林大俊像从古代穿过来的",
@@ -51587,6 +51675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16501,
+      "num": 102695,
+      "word": "曝TheShy和Rookie续约iG",
+      "onboard_time": 1763177120,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 16483,
       "num": 35108,
       "word": "女单四强神仙打架",
@@ -52193,14 +52289,6 @@
       "onboard_time": 1762054100,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 9148,
-      "num": 91562,
-      "word": "县环卫所招聘博士监管垃圾转运站",
-      "onboard_time": 1763175920,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 8693,
