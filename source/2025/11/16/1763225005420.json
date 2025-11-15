@@ -1,0 +1,410 @@
+{
+  "runTime": 1763225005420,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1801325,
+        "num": 1801325,
+        "word": "易烊千玺金鸡影帝",
+        "onboard_time": 1763214210,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 745790,
+        "num": 745790,
+        "word": "高市早苗让日本国家承担代价",
+        "onboard_time": 1763206825,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24586,
+        "num": 719395,
+        "word": "十五运会赛场外步步生花",
+        "onboard_time": 1763213367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 716533,
+        "num": 716533,
+        "word": "袁弘 帝后",
+        "onboard_time": 1763216068,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 484494,
+        "num": 484494,
+        "word": "日本民众围堵首相官邸要求高市下台",
+        "onboard_time": 1763216131,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351843,
+        "num": 470050,
+        "word": "孙颖莎呼吁球迷粉丝理性观赛",
+        "onboard_time": 1763221164,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 650933,
+        "num": 469994,
+        "word": "宋佳金鸡影后",
+        "onboard_time": 1763214998,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 469125,
+        "num": 469125,
+        "word": "青春痘疫苗来了",
+        "onboard_time": 1763218888,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 331384,
+        "num": 331384,
+        "word": "浙江公厕被打女孩确诊白血病",
+        "onboard_time": 1763211207,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297324,
+        "num": 297324,
+        "word": "日本这次的借口与侵华时如出一辙",
+        "onboard_time": 1763203222,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1352969,
+        "num": 295944,
+        "word": "穆祉丞",
+        "onboard_time": 1763223861,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 809492,
+        "num": 294333,
+        "word": "饺子导演",
+        "onboard_time": 1763220206,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 687202,
+        "num": 291540,
+        "word": "陈思诚 邵艺辉",
+        "onboard_time": 1763222184,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 537554,
+        "num": 291150,
+        "word": "张子枫",
+        "onboard_time": 1763222423,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 466483,
+        "num": 288978,
+        "word": "出走的决心 颗粒无收",
+        "onboard_time": 1763220504,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 448794,
+        "num": 285777,
+        "word": "张艺谋说易烊千玺很难得",
+        "onboard_time": 1763223443,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340108,
+        "num": 284526,
+        "word": "金鸡奖",
+        "onboard_time": 1763207482,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283626,
+        "num": 283626,
+        "word": "金鸡奖获奖名单",
+        "onboard_time": 1763207422,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 197375,
+        "num": 240852,
+        "word": "许昕0比3王楚钦",
+        "onboard_time": 1763212587,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165653,
+        "num": 229263,
+        "word": "钟楚曦坚持自己拿奖杯",
+        "onboard_time": 1763223383,
+        "rank": 19,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 694937,
+        "num": 228788,
+        "word": "哪吒没来领奖",
+        "onboard_time": 1763214149,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227546,
+        "num": 227546,
+        "word": "Doinb不建议Uzi复出",
+        "onboard_time": 1763221045,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 213828,
+        "num": 213828,
+        "word": "王楚钦说男单输了情绪不高",
+        "onboard_time": 1763223143,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 210856,
+        "num": 210856,
+        "word": "杨紫工作室审美",
+        "onboard_time": 1763221284,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242844,
+        "num": 203427,
+        "word": "钟楚曦 我现在就是昂首挺胸的",
+        "onboard_time": 1763212407,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 179478,
+        "num": 179478,
+        "word": "咏梅 陪跑",
+        "onboard_time": 1763216310,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170943,
+        "num": 170943,
+        "word": "中方已做好对日实质反制准备",
+        "onboard_time": 1763203222,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 165272,
+        "num": 165272,
+        "word": "陈思诚感谢王宝强",
+        "onboard_time": 1763219605,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144614,
+        "num": 159029,
+        "word": "王曼昱4比0陈梦",
+        "onboard_time": 1763213307,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137871,
+        "num": 157446,
+        "word": "樊振东4比2王楚钦",
+        "onboard_time": 1763186006,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156243,
+        "num": 156243,
+        "word": "水饺皇后 糖水伯",
+        "onboard_time": 1763210186,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151108,
+        "num": 151108,
+        "word": "好东西",
+        "onboard_time": 1763209345,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149083,
+        "num": 149083,
+        "word": "少年的你",
+        "onboard_time": 1763217987,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148397,
+        "num": 148397,
+        "word": "霍思燕说朵朵早晚接陈思诚的班",
+        "onboard_time": 1763217149,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143594,
+        "num": 143594,
+        "word": "惊天魔盗团3",
+        "onboard_time": 1763223922,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135278,
+        "num": 135278,
+        "word": "上拉如酒后肇事逃逸被刑拘",
+        "onboard_time": 1763215352,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132074,
+        "num": 132074,
+        "word": "日本3位前首相发声",
+        "onboard_time": 1763201721,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117786,
+        "num": 117786,
+        "word": "孙颖莎朱雨玲爆分",
+        "onboard_time": 1763214210,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117249,
+        "num": 117249,
+        "word": "倪妮主持好大气",
+        "onboard_time": 1763214514,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116481,
+        "num": 116481,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763213726,
+        "rank": 39,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 110537,
+        "num": 110537,
+        "word": "凡人修仙传",
+        "onboard_time": 1763217688,
+        "rank": 40,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 110175,
+        "num": 110175,
+        "word": "好东西金鸡最佳故事片",
+        "onboard_time": 1763216789,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107834,
+        "num": 107834,
+        "word": "热心市民朱一龙",
+        "onboard_time": 1763222123,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99723,
+        "num": 99723,
+        "word": "现在就出发",
+        "onboard_time": 1763215472,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95159,
+        "num": 95159,
+        "word": "枭起青壤",
+        "onboard_time": 1763221224,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88546,
+        "num": 88546,
+        "word": "孙杨对甲鱼哥说我游得眼睛都黑了",
+        "onboard_time": 1763222543,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85308,
+        "num": 85308,
+        "word": "黄海海域将进行实弹射击禁止驶入",
+        "onboard_time": 1763224161,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82674,
+        "num": 82674,
+        "word": "澎湖海战",
+        "onboard_time": 1763224880,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 80252,
+        "num": 80252,
+        "word": "电影蛮荒禁地",
+        "onboard_time": 1763221585,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78282,
+        "num": 78282,
+        "word": "许嵩音乐节",
+        "onboard_time": 1763223742,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}

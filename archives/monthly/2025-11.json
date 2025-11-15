@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763224184412,
+  "endTime": 1763225005420,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -596,7 +596,7 @@
     },
     {
       "raw_hot": 1434848,
-      "num": 639274,
+      "num": 716533,
       "word": "袁弘 帝后",
       "onboard_time": 1763216068,
       "rank": 23,
@@ -641,6 +641,14 @@
       "onboard_time": 1761992661,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1352969,
+      "num": 318350,
+      "word": "穆祉丞",
+      "onboard_time": 1763223861,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 1348771,
@@ -1337,14 +1345,6 @@
       "onboard_time": 1762045100,
       "rank": 0,
       "category": "数码,互联网"
-    },
-    {
-      "raw_hot": 991028,
-      "num": 318350,
-      "word": "穆祉丞",
-      "onboard_time": 1763223861,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 990681,
@@ -2779,6 +2779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 687202,
+      "num": 314390,
+      "word": "陈思诚 邵艺辉",
+      "onboard_time": 1763222184,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 686971,
       "num": 686971,
       "word": "许昕0比3王楚钦",
@@ -3667,14 +3675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 592708,
-      "num": 314390,
-      "word": "陈思诚 邵艺辉",
-      "onboard_time": 1763222184,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 592657,
       "num": 302436,
       "word": "装修工人触电身亡婚房变凶宅",
@@ -4385,6 +4385,14 @@
       "onboard_time": 1762311500,
       "rank": 20,
       "category": "体育"
+    },
+    {
+      "raw_hot": 537554,
+      "num": 307766,
+      "word": "张子枫",
+      "onboard_time": 1763222423,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 537026,
@@ -6241,14 +6249,6 @@
       "onboard_time": 1762762699,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 417985,
-      "num": 307766,
-      "word": "张子枫",
-      "onboard_time": 1763222423,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 417981,
@@ -13283,6 +13283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213828,
+      "num": 213828,
+      "word": "王楚钦说男单输了情绪不高",
+      "onboard_time": 1763223143,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213786,
       "num": 197597,
       "word": "张博恒解说T1对战TES",
@@ -13873,14 +13881,6 @@
       "onboard_time": 1762079481,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 206238,
-      "num": 206238,
-      "word": "王楚钦说男单输了情绪不高",
-      "onboard_time": 1763223143,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 206108,
@@ -18467,6 +18467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165653,
+      "num": 229263,
+      "word": "钟楚曦坚持自己拿奖杯",
+      "onboard_time": 1763223383,
+      "rank": 34,
+      "category": "体育,综艺"
+    },
+    {
       "raw_hot": 165604,
       "num": 151176,
       "word": "AL中单不理解Faker高龄依旧强大",
@@ -18505,6 +18513,14 @@
       "onboard_time": 1762169061,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165272,
+      "num": 169991,
+      "word": "陈思诚感谢王宝强",
+      "onboard_time": 1763219605,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 165262,
@@ -18737,14 +18753,6 @@
       "onboard_time": 1762565118,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164072,
-      "num": 169991,
-      "word": "陈思诚感谢王宝强",
-      "onboard_time": 1763219605,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 164056,
@@ -22075,6 +22083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143594,
+      "num": 143594,
+      "word": "惊天魔盗团3",
+      "onboard_time": 1763223922,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 143530,
       "num": 182966,
       "word": "新闻女王2没有徐晓薇",
@@ -22305,14 +22321,6 @@
       "onboard_time": 1762417401,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 142312,
-      "num": 138303,
-      "word": "钟楚曦坚持自己拿奖杯",
-      "onboard_time": 1763223383,
-      "rank": 34,
-      "category": "体育,综艺"
     },
     {
       "raw_hot": 142096,
@@ -34187,14 +34195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100779,
-      "num": 100779,
-      "word": "惊天魔盗团3",
-      "onboard_time": 1763223922,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 100775,
       "num": 100775,
       "word": "水煮菜",
@@ -41139,6 +41139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85308,
+      "num": 92753,
+      "word": "黄海海域将进行实弹射击禁止驶入",
+      "onboard_time": 1763224161,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85302,
       "num": 85302,
       "word": "宋亚轩爱你爱我演唱会概念预告片",
@@ -42121,6 +42129,14 @@
       "onboard_time": 1761984439,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82674,
+      "num": 82674,
+      "word": "澎湖海战",
+      "onboard_time": 1763224880,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 82664,
@@ -43585,6 +43601,14 @@
       "onboard_time": 1762830140,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 78282,
+      "num": 78282,
+      "word": "许嵩音乐节",
+      "onboard_time": 1763223742,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 78225,
@@ -46025,14 +46049,6 @@
       "onboard_time": 1762271001,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 69500,
-      "num": 92753,
-      "word": "黄海海域将进行实弹射击禁止驶入",
-      "onboard_time": 1763224161,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69493,
