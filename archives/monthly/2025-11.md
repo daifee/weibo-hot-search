@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/15 22:40:25
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/15 23:24:38
 </p>
 </blockquote>
 <p>
@@ -467,6 +467,12 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E5%A4%A7%E8%B7%8C%23" target="weibo">
 泡泡玛特大跌（热度：1419425）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B2%A1%E6%9D%A5%E9%A2%86%E5%A5%96%23" target="weibo">
+哪吒没来领奖（热度：1408691）
 </a>
 </li>
 
@@ -1017,6 +1023,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%89%93%E7%A0%B4%E5%88%98%E7%83%A8%E7%BA%AA%E5%BD%95%23" target="weibo">
+易烊千玺打破刘烨纪录（热度：989574）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%BF%E4%B8%BB%E4%BB%BB%E6%90%82%E7%9D%80%E6%9D%A8%E5%B9%82%E7%BB%99%E5%A5%B3%E5%84%BF%E5%BD%95%E8%A7%86%E9%A2%91%23" target="weibo">
 房主任搂着杨幂给女儿录视频（热度：984131）
 </a>
@@ -1559,12 +1571,6 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%B7%B4%E5%85%8B%E8%A2%AB%E5%90%90%E6%A7%BD%E7%88%86%E6%94%B9%E6%88%90%E5%8E%BF%E5%9F%8E%E5%A5%B6%E8%8C%B6%E5%BA%97%23" target="weibo">
 星巴克被吐槽爆改成县城奶茶店（热度：782857）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%92%E6%B2%A1%E6%9D%A5%E9%A2%86%E5%A5%96%23" target="weibo">
-哪吒没来领奖（热度：777243）
 </a>
 </li>
 
@@ -2201,6 +2207,12 @@ S15决赛唯一中国人（热度：665452）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E9%AB%98%E5%BA%A6%E5%85%B3%E6%B3%A8%E5%A4%AE%E8%A7%86%E8%B5%B7%E5%BA%95%E6%B2%88%E4%BC%AF%E6%B4%8B%23" target="weibo">
 台湾高度关注央视起底沈伯洋（热度：665164）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E5%9B%B4%E5%A0%B5%E9%A6%96%E7%9B%B8%E5%AE%98%E9%82%B8%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0%23" target="weibo">
+日本民众围堵首相官邸要求高市下台（热度：664762）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ iPhone18Pro系列前瞻（热度：345250）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Ella%E5%8F%91%E9%95%BF%E6%96%87%23" target="weibo">
 Ella发长文（热度：344319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE70%E5%88%86%E9%92%9F%E9%87%87%E8%AE%BF%E6%8F%90%E5%8F%8A%E4%B8%AD%E5%9B%BD41%E6%AC%A1%23" target="weibo">
-特朗普70分钟采访提及中国41次（热度：343422）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E8%87%AA%E6%8B%8D%E9%85%8D%E6%96%87%E6%88%90%E9%83%BD%23" target="weibo">
-Faker自拍配文成都（热度：342872）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763217625212,
+  "endTime": 1763220278721,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 1434848,
-      "num": 417335,
+      "num": 468171,
       "word": "袁弘 帝后",
       "onboard_time": 1763216068,
       "rank": 23,
@@ -609,6 +609,14 @@
       "onboard_time": 1762485260,
       "rank": 26,
       "category": "财经,休闲"
+    },
+    {
+      "raw_hot": 1408691,
+      "num": 438704,
+      "word": "哪吒没来领奖",
+      "onboard_time": 1763214149,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 1404444,
@@ -1339,6 +1347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 989574,
+      "num": 314866,
+      "word": "易烊千玺打破刘烨纪录",
+      "onboard_time": 1763219427,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 984131,
       "num": 287891,
       "word": "房主任搂着杨幂给女儿录视频",
@@ -2065,14 +2081,6 @@
       "onboard_time": 1762843100,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 777243,
-      "num": 438704,
-      "word": "哪吒没来领奖",
-      "onboard_time": 1763214149,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 775494,
@@ -2921,6 +2929,14 @@
       "onboard_time": 1762735760,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 664762,
+      "num": 664762,
+      "word": "日本民众围堵首相官邸要求高市下台",
+      "onboard_time": 1763216131,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 664490,
@@ -8507,14 +8523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 325562,
-      "num": 446626,
-      "word": "日本民众围堵首相官邸要求高市下台",
-      "onboard_time": 1763216131,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 325186,
       "num": 325186,
       "word": "iPhone18Pro升级工艺",
@@ -8827,6 +8835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315451,
+      "num": 243847,
+      "word": "少年的你",
+      "onboard_time": 1763217987,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 315309,
       "num": 315309,
       "word": "老枪斩获金鸡奖最佳导演处女作奖",
@@ -9121,6 +9137,14 @@
       "onboard_time": 1761959361,
       "rank": 0,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 305983,
+      "num": 305983,
+      "word": "凡人修仙传",
+      "onboard_time": 1763217688,
+      "rank": 16,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 305886,
@@ -11579,6 +11603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 241891,
+      "num": 241891,
+      "word": "孙颖莎连续2届全运会女单进决赛",
+      "onboard_time": 1763217747,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 241886,
       "num": 193917,
       "word": "Faker说这一冠不为任何人",
@@ -12657,6 +12689,14 @@
       "onboard_time": 1762404442,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 221201,
+      "num": 221201,
+      "word": "岁岁平安",
+      "onboard_time": 1763218286,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 221125,
@@ -14105,6 +14145,14 @@
       "onboard_time": 1762046300,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202443,
+      "num": 202443,
+      "word": "青春痘疫苗来了",
+      "onboard_time": 1763218888,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 202407,
@@ -17923,6 +17971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167837,
+      "num": 167837,
+      "word": "饺子导演",
+      "onboard_time": 1763220206,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167704,
       "num": 167062,
       "word": "银行4年3次采购工作服花619万",
@@ -18073,6 +18129,14 @@
       "onboard_time": 1762309699,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166847,
+      "num": 166847,
+      "word": "你可能真的不会iPhone截图",
+      "onboard_time": 1763216968,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 166811,
@@ -19065,6 +19129,14 @@
       "onboard_time": 1762659680,
       "rank": 26,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 160834,
+      "num": 160834,
+      "word": "惊蛰无声",
+      "onboard_time": 1762061841,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 160825,
@@ -26923,6 +26995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122695,
+      "num": 169991,
+      "word": "陈思诚感谢王宝强",
+      "onboard_time": 1763219605,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 122688,
       "num": 149170,
       "word": "男子50元买狗退款遭拒摔死狗",
@@ -29347,6 +29427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113636,
+      "num": 137819,
+      "word": "汪顺尽力了",
+      "onboard_time": 1763216007,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113596,
       "num": 113596,
       "word": "内娱长公主101",
@@ -30641,6 +30729,14 @@
       "onboard_time": 1762845861,
       "rank": 45,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109795,
+      "num": 137665,
+      "word": "U22国足2比0韩国U22",
+      "onboard_time": 1763218165,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 109786,
@@ -38931,14 +39027,6 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 89549,
-      "num": 89549,
-      "word": "惊蛰无声",
-      "onboard_time": 1762061841,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 89516,
       "num": 89516,
       "word": "曝LPL中单工资帽评级",
@@ -45171,6 +45259,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72262,
+      "num": 246547,
+      "word": "孙颖莎王曼昱今年到处交手",
+      "onboard_time": 1763219784,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72225,
       "num": 72225,
       "word": "全场高呼子豪子豪地动山摇",
@@ -50075,6 +50171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44587,
+      "num": 245699,
+      "word": "母亲为见义勇为儿子争取公开报道",
+      "onboard_time": 1763218825,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44585,
       "num": 44585,
       "word": "4只太空鼠回地球已吃上果冻",
@@ -50835,6 +50939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39679,
+      "num": 273902,
+      "word": "周翊然白马王子既视感",
+      "onboard_time": 1763216968,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39600,
       "num": 133635,
       "word": "一诺说一起越来越好",
@@ -51457,14 +51569,6 @@
       "onboard_time": 1762846280,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35333,
-      "num": 273902,
-      "word": "周翊然白马王子既视感",
-      "onboard_time": 1763216968,
-      "rank": 19,
-      "category": "艺人"
     },
     {
       "raw_hot": 35276,
