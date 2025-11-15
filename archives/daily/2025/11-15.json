@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763205654125,
+  "endTime": 1763206659522,
   "band_list": [
     {
       "raw_hot": 7358127,
@@ -83,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1049555,
+      "num": 1049555,
+      "word": "警察您好 我在台湾想回大陆",
+      "onboard_time": 1763205022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1026678,
       "num": 210991,
       "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 887223,
-      "num": 256023,
+      "num": 518347,
       "word": "中方已做好对日实质反制准备",
       "onboard_time": 1763203222,
       "rank": 31,
@@ -203,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 639370,
+      "num": 639370,
+      "word": "马龙许昕男双大战",
+      "onboard_time": 1763204482,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 631936,
       "num": 631936,
       "word": "王楚钦说樊振东更强了",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 603586,
-      "num": 251527,
+      "num": 500390,
       "word": "马英九发声",
       "onboard_time": 1763202862,
       "rank": 30,
@@ -300,7 +316,7 @@
     },
     {
       "raw_hot": 472705,
-      "num": 248143,
+      "num": 408848,
       "word": "金鸡奖主持",
       "onboard_time": 1763203642,
       "rank": 13,
@@ -523,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 320577,
-      "num": 245799,
-      "word": "马龙许昕男双大战",
-      "onboard_time": 1763204482,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 319974,
       "num": 273632,
       "word": "赵子豪vs王楚钦",
@@ -641,6 +649,14 @@
       "onboard_time": 1763174900,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278364,
+      "num": 278364,
+      "word": "金鸡影帝影后终极预测",
+      "onboard_time": 1763202322,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 276481,
@@ -755,6 +771,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 247248,
+      "num": 247248,
+      "word": "金鸡奖提名",
+      "onboard_time": 1763202082,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 240711,
       "num": 240711,
       "word": "税务师",
@@ -851,14 +875,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220059,
-      "num": 220059,
-      "word": "金鸡奖提名",
-      "onboard_time": 1763202082,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 219944,
       "num": 219944,
       "word": "肖战新剧角色明星主任",
@@ -875,20 +891,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216679,
+      "num": 216679,
+      "word": "无期迷途",
+      "onboard_time": 1763206044,
+      "rank": 17,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 213514,
       "num": 243041,
       "word": "高市早苗七宗罪",
       "onboard_time": 1763183181,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 213023,
-      "num": 200117,
-      "word": "金鸡影帝影后终极预测",
-      "onboard_time": 1763202322,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 211845,
@@ -1011,6 +1027,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195395,
+      "num": 195395,
+      "word": "刘宇宁北京演唱会",
+      "onboard_time": 1763205982,
+      "rank": 24,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 195311,
+      "num": 195311,
+      "word": "朱一龙金鸡奖怼脸拍",
+      "onboard_time": 1763205683,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194490,
       "num": 194490,
       "word": "张艺兴问染色体嘉宾请谁",
@@ -1033,6 +1065,14 @@
       "onboard_time": 1763188761,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192672,
+      "num": 192672,
+      "word": "王男你太会写了",
+      "onboard_time": 1763205922,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 190104,
@@ -1259,6 +1299,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 160565,
+      "num": 160565,
+      "word": "非洲发生大屠杀上千名平民遇害",
+      "onboard_time": 1763204723,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 160034,
       "num": 180955,
       "word": "花儿与少年同心季",
@@ -1475,6 +1523,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 142751,
+      "num": 142751,
+      "word": "许昕周恺3比2马龙黄友政",
+      "onboard_time": 1763205562,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142329,
       "num": 142329,
       "word": "刘诗雯卫冕全运会混双冠军",
@@ -1515,6 +1571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138951,
+      "num": 138951,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763205623,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138797,
       "num": 138797,
       "word": "国创动画发布会你是懂预告的",
@@ -1547,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138156,
+      "num": 138156,
+      "word": "丁禹兮音乐节造型",
+      "onboard_time": 1763206522,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 137444,
       "num": 137444,
       "word": "王楚钦林诗栋赛前一起训练",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1763189961,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 136750,
+      "num": 136750,
+      "word": "陈都灵 优雅矜贵的黑天鹅",
+      "onboard_time": 1763206522,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 136419,
@@ -1603,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134920,
+      "num": 125976,
+      "word": "毕雯珺演唱会",
+      "onboard_time": 1763206463,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 134775,
       "num": 134775,
       "word": "库里开启乱穿鞋时代",
@@ -1625,6 +1713,14 @@
       "onboard_time": 1763203582,
       "rank": 26,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 133448,
+      "num": 133448,
+      "word": "女子续费才知认养东北虎已死亡数月",
+      "onboard_time": 1763205322,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133021,
@@ -1667,20 +1763,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131194,
-      "num": 220036,
-      "word": "警察您好 我在台湾想回大陆",
-      "onboard_time": 1763205022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 130308,
       "num": 130308,
       "word": "痞幼牙套戴了10年",
       "onboard_time": 1763191642,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 128312,
+      "num": 124699,
+      "word": "国漫第一白月光师姐",
+      "onboard_time": 1763206225,
+      "rank": 43,
+      "category": "动漫"
     },
     {
       "raw_hot": 128205,
@@ -1737,22 +1833,6 @@
       "onboard_time": 1763170222,
       "rank": 28,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 124684,
-      "num": 124684,
-      "word": "许昕周恺3比2马龙黄友政",
-      "onboard_time": 1763205562,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124557,
-      "num": 124557,
-      "word": "女子续费才知认养东北虎已死亡数月",
-      "onboard_time": 1763205322,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 124270,
@@ -1947,14 +2027,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 114811,
-      "num": 114811,
-      "word": "唐朝诡事录",
-      "onboard_time": 1763205623,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114588,
       "num": 114588,
       "word": "菠萝蜜夹酸奶",
@@ -2025,6 +2097,14 @@
       "onboard_time": 1763130922,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111628,
+      "num": 111628,
+      "word": "终于知道银杏为啥叫银杏了",
+      "onboard_time": 1763206283,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 110343,
@@ -2387,14 +2467,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 86947,
-      "num": 137023,
-      "word": "非洲发生大屠杀上千名平民遇害",
-      "onboard_time": 1763204723,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 86845,
       "num": 121813,
       "word": "你好星期六",
@@ -2563,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 73553,
+      "num": 1246281,
+      "word": "3.2公斤航天医学实验样本顺利交接",
+      "onboard_time": 1763204423,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73353,
       "num": 124786,
       "word": "黄子韬被徐艺洋扇脸后暗爽了",
@@ -2683,14 +2763,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 65276,
-      "num": 1246281,
-      "word": "3.2公斤航天医学实验样本顺利交接",
-      "onboard_time": 1763204423,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 64077,
       "num": 123119,
       "word": "刘诗诗歪头那一下",
@@ -2713,6 +2785,14 @@
       "onboard_time": 1763165540,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62569,
+      "num": 1106695,
+      "word": "第9批空间科学实验样品交付科学家",
+      "onboard_time": 1763206225,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61942,
@@ -3089,6 +3169,14 @@
       "onboard_time": 1763134222,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 18686,
+      "num": 129759,
+      "word": "韩国流感病例激增",
+      "onboard_time": 1763205922,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 18000,

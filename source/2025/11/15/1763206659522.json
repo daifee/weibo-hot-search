@@ -1,0 +1,410 @@
+{
+  "runTime": 1763206659522,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1753756,
+        "num": 1753756,
+        "word": "金鸡奖红毯",
+        "onboard_time": 1763195481,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62569,
+        "num": 1106695,
+        "word": "第9批空间科学实验样品交付科学家",
+        "onboard_time": 1763206225,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 36611,
+        "num": 1056564,
+        "word": "被中国健儿鼓舞到了",
+        "onboard_time": 1763194760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1049555,
+        "num": 1049555,
+        "word": "警察您好 我在台湾想回大陆",
+        "onboard_time": 1763205022,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1043164,
+        "num": 1043164,
+        "word": "祖峰金鸡奖提名没了",
+        "onboard_time": 1763202802,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 954646,
+        "num": 954646,
+        "word": "日本3位前首相发声",
+        "onboard_time": 1763201721,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 673547,
+        "num": 673547,
+        "word": "易烊千玺金鸡奖造型",
+        "onboard_time": 1763199201,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 666405,
+        "num": 666405,
+        "word": "樊振东4比2王楚钦",
+        "onboard_time": 1763186006,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639370,
+        "num": 639370,
+        "word": "马龙许昕男双大战",
+        "onboard_time": 1763204482,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 529872,
+        "num": 529872,
+        "word": "中方愤怒正在升级",
+        "onboard_time": 1763177542,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 816573,
+        "num": 518347,
+        "word": "中方已做好对日实质反制准备",
+        "onboard_time": 1763203222,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 500390,
+        "num": 500390,
+        "word": "马英九发声",
+        "onboard_time": 1763202862,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 408848,
+        "num": 408848,
+        "word": "金鸡奖主持",
+        "onboard_time": 1763203642,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278364,
+        "num": 278364,
+        "word": "金鸡影帝影后终极预测",
+        "onboard_time": 1763202322,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247248,
+        "num": 247248,
+        "word": "金鸡奖提名",
+        "onboard_time": 1763202082,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239785,
+        "num": 239785,
+        "word": "日本机票免费退改",
+        "onboard_time": 1763196382,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237267,
+        "num": 237267,
+        "word": "暗河传2要来了",
+        "onboard_time": 1763203702,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216679,
+        "num": 216679,
+        "word": "无期迷途",
+        "onboard_time": 1763206044,
+        "rank": 17,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 214215,
+        "num": 214215,
+        "word": "赵子豪vs王楚钦",
+        "onboard_time": 1763200523,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207548,
+        "num": 207548,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763180301,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 686674,
+        "num": 206111,
+        "word": "小李琳否认与经超相差6岁",
+        "onboard_time": 1763201302,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 527600,
+        "num": 203452,
+        "word": "女生要帅哥微信回家发现是宋威龙",
+        "onboard_time": 1763185947,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239817,
+        "num": 198854,
+        "word": "樊振东回应赢后没有庆祝动作",
+        "onboard_time": 1763201603,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235102,
+        "num": 196241,
+        "word": "日本这次的借口与侵华时如出一辙",
+        "onboard_time": 1763203222,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 195395,
+        "num": 195395,
+        "word": "刘宇宁北京演唱会",
+        "onboard_time": 1763205982,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195311,
+        "num": 195311,
+        "word": "朱一龙金鸡奖怼脸拍",
+        "onboard_time": 1763205683,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192672,
+        "num": 192672,
+        "word": "王男你太会写了",
+        "onboard_time": 1763205922,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175219,
+        "num": 175219,
+        "word": "婆媳上厕所被指造成3到5万元损失",
+        "onboard_time": 1763194822,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160820,
+        "num": 160820,
+        "word": "肖战小城良方刘铮亮明星主任",
+        "onboard_time": 1763205442,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160565,
+        "num": 160565,
+        "word": "非洲发生大屠杀上千名平民遇害",
+        "onboard_time": 1763204723,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150121,
+        "num": 150121,
+        "word": "日本野心逐渐清晰",
+        "onboard_time": 1763194040,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146272,
+        "num": 146272,
+        "word": "樊振东不出战团体赛",
+        "onboard_time": 1763204362,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144578,
+        "num": 144578,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1763185701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142751,
+        "num": 142751,
+        "word": "许昕周恺3比2马龙黄友政",
+        "onboard_time": 1763205562,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138951,
+        "num": 138951,
+        "word": "唐朝诡事录",
+        "onboard_time": 1763205623,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138156,
+        "num": 138156,
+        "word": "丁禹兮音乐节造型",
+        "onboard_time": 1763206522,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136750,
+        "num": 136750,
+        "word": "陈都灵 优雅矜贵的黑天鹅",
+        "onboard_time": 1763206522,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135074,
+        "num": 135074,
+        "word": "琉球原住民说琉球不属于日本",
+        "onboard_time": 1763199321,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133448,
+        "num": 133448,
+        "word": "女子续费才知认养东北虎已死亡数月",
+        "onboard_time": 1763205322,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18686,
+        "num": 129759,
+        "word": "韩国流感病例激增",
+        "onboard_time": 1763205922,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 73553,
+        "num": 128087,
+        "word": "3.2公斤航天医学实验样本顺利交接",
+        "onboard_time": 1763204423,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128024,
+        "num": 128024,
+        "word": "易烊千玺展出一枝春信",
+        "onboard_time": 1763205142,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 134920,
+        "num": 125976,
+        "word": "毕雯珺演唱会",
+        "onboard_time": 1763206463,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128312,
+        "num": 124699,
+        "word": "国漫第一白月光师姐",
+        "onboard_time": 1763206225,
+        "rank": 43,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122801,
+        "num": 122801,
+        "word": "3外籍男子无视景区警告脱衣洗澡",
+        "onboard_time": 1763203222,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122247,
+        "num": 122247,
+        "word": "养了两年终于能伺候我了",
+        "onboard_time": 1763204302,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120164,
+        "num": 120164,
+        "word": "王楚钦回应樊振东评价",
+        "onboard_time": 1763192660,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116929,
+        "num": 116929,
+        "word": "钟嘉欣回应婚变传闻",
+        "onboard_time": 1763195060,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116071,
+        "num": 116071,
+        "word": "Faker复盘iG打T1",
+        "onboard_time": 1763200821,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111628,
+        "num": 111628,
+        "word": "终于知道银杏为啥叫银杏了",
+        "onboard_time": 1763206283,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}
