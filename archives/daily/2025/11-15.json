@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763195495249,
+  "endTime": 1763196264000,
   "band_list": [
     {
       "raw_hot": 7358127,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 942644,
-      "num": 192192,
+      "num": 251011,
       "word": "女生要帅哥微信回家发现是宋威龙",
       "onboard_time": 1763185947,
       "rank": 20,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 785805,
-      "num": 211869,
+      "num": 249609,
       "word": "程晓玥做了羊水穿刺",
       "onboard_time": 1763183482,
       "rank": 23,
@@ -108,11 +108,19 @@
     },
     {
       "raw_hot": 719654,
-      "num": 214375,
+      "num": 293795,
       "word": "中国人对于晒被子的执念",
       "onboard_time": 1763189781,
       "rank": 33,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 715140,
+      "num": 295322,
+      "word": "全运会樊振东王楚钦打得披头散发",
+      "onboard_time": 1763190501,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 669046,
@@ -129,6 +137,14 @@
       "onboard_time": 1763189419,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 642803,
+      "num": 642803,
+      "word": "金鸡奖红毯",
+      "onboard_time": 1763195481,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 631936,
@@ -171,14 +187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 542511,
-      "num": 214054,
-      "word": "全运会樊振东王楚钦打得披头散发",
-      "onboard_time": 1763190501,
-      "rank": 11,
-      "category": "体育"
-    },
-    {
       "raw_hot": 532489,
       "num": 142821,
       "word": "韩美娟吐槽某明星带货质量差",
@@ -193,6 +201,14 @@
       "onboard_time": 1763182520,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 513491,
+      "num": 513491,
+      "word": "日本野心逐渐清晰",
+      "onboard_time": 1763194040,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 496331,
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 470486,
-      "num": 169966,
+      "num": 248867,
       "word": "炎亚纶回应取关鬼鬼",
       "onboard_time": 1763192181,
       "rank": 22,
@@ -379,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324655,
+      "num": 246833,
+      "word": "钟嘉欣回应婚变传闻",
+      "onboard_time": 1763195060,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 323392,
       "num": 323392,
       "word": "乒乓球",
@@ -388,7 +412,7 @@
     },
     {
       "raw_hot": 321978,
-      "num": 188808,
+      "num": 246060,
       "word": "王楚然疑似生病",
       "onboard_time": 1763189600,
       "rank": 23,
@@ -420,7 +444,7 @@
     },
     {
       "raw_hot": 311877,
-      "num": 213581,
+      "num": 285235,
       "word": "迪丽热巴给主持人打伞",
       "onboard_time": 1763190920,
       "rank": 15,
@@ -643,6 +667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 221991,
+      "num": 257209,
+      "word": "关晓彤金鸡奖造型图",
+      "onboard_time": 1763194642,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 221125,
       "num": 221125,
       "word": "刘诗雯打球好看",
@@ -700,7 +732,7 @@
     },
     {
       "raw_hot": 204535,
-      "num": 204535,
+      "num": 255127,
       "word": "白敬亭 黑敬亭",
       "onboard_time": 1763190081,
       "rank": 16,
@@ -761,6 +793,14 @@
       "onboard_time": 1763188223,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 199124,
+      "num": 257092,
+      "word": "娜扎 我素颜也很美",
+      "onboard_time": 1763193201,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 198199,
@@ -827,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 189692,
-      "num": 151429,
-      "word": "钟嘉欣回应婚变传闻",
-      "onboard_time": 1763195060,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188944,
       "num": 188944,
       "word": "网传唐诡奇谭12月12日播出",
@@ -867,19 +899,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 179960,
-      "num": 213416,
-      "word": "日本野心逐渐清晰",
-      "onboard_time": 1763194040,
-      "rank": 13,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175637,
       "num": 175637,
       "word": "马拉松",
       "onboard_time": 1763170280,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 175032,
+      "num": 148975,
+      "word": "林诗栋展望对阵樊振东",
+      "onboard_time": 1763195660,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -889,14 +921,6 @@
       "onboard_time": 1763188941,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174373,
-      "num": 174373,
-      "word": "娜扎 我素颜也很美",
-      "onboard_time": 1763193201,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 173956,
@@ -913,14 +937,6 @@
       "onboard_time": 1763163499,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172618,
-      "num": 172618,
-      "word": "关晓彤金鸡奖造型图",
-      "onboard_time": 1763194642,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 171107,
@@ -1075,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149580,
+      "num": 173487,
+      "word": "多家银行在拍卖平台挂牌卖房",
+      "onboard_time": 1763194401,
+      "rank": 18,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 149348,
       "num": 149348,
       "word": "樊振东打进决赛",
@@ -1171,6 +1195,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 138386,
+      "num": 138386,
+      "word": "王楚钦主动邀约林诗栋合练",
+      "onboard_time": 1763195840,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138168,
       "num": 138168,
       "word": "邝玲玲到达武汉",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1763177779,
       "rank": 28,
       "category": "教育"
+    },
+    {
+      "raw_hot": 136151,
+      "num": 136151,
+      "word": "MRC对战WBG",
+      "onboard_time": 1763196081,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 134775,
@@ -1289,6 +1329,14 @@
       "onboard_time": 1763178019,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127171,
+      "num": 127171,
+      "word": "王楚钦说各方面他稍微有些下滑",
+      "onboard_time": 1763195301,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 126013,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1763134282,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115569,
-      "num": 115569,
-      "word": "王楚钦说各方面他稍微有些下滑",
-      "onboard_time": 1763195301,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 115386,
@@ -1827,6 +1867,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 87777,
+      "num": 123059,
+      "word": "婆媳上厕所被指造成3到5万元损失",
+      "onboard_time": 1763194822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86845,
       "num": 121813,
       "word": "你好星期六",
@@ -1985,6 +2033,14 @@
       "onboard_time": 1763135181,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 74718,
+      "num": 127584,
+      "word": "倪妮只需轻轻出手",
+      "onboard_time": 1763195602,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 73353,
@@ -2147,14 +2203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59847,
-      "num": 123059,
-      "word": "婆媳上厕所被指造成3到5万元损失",
-      "onboard_time": 1763194822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59063,
       "num": 124834,
       "word": "邓亚萍解说混双金牌赛",
@@ -2227,6 +2275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45493,
+      "num": 252639,
+      "word": "还原入侵住宅狗主被反杀过程",
+      "onboard_time": 1763195602,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44905,
       "num": 70399,
       "word": "神20航天员平安抵京",
@@ -2249,14 +2305,6 @@
       "onboard_time": 1763180419,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 44138,
-      "num": 173487,
-      "word": "多家银行在拍卖平台挂牌卖房",
-      "onboard_time": 1763194401,
-      "rank": 18,
-      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 42711,
@@ -2355,12 +2403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 31173,
+      "num": 128138,
+      "word": "00后女子花5000元购买秒回师服务",
+      "onboard_time": 1763196021,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31016,
       "num": 66240,
       "word": "谁能认出来这是张凌赫",
       "onboard_time": 1763145435,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30987,
+      "num": 644265,
+      "word": "被中国健儿鼓舞到了",
+      "onboard_time": 1763194760,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30674,
@@ -2393,6 +2457,14 @@
       "onboard_time": 1763180060,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26389,
+      "num": 296273,
+      "word": "三大航急发中日航线免费退改签",
+      "onboard_time": 1763195721,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26246,
@@ -2489,14 +2561,6 @@
       "onboard_time": 1763146215,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14740,
-      "num": 602638,
-      "word": "被中国健儿鼓舞到了",
-      "onboard_time": 1763194760,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 14661,
