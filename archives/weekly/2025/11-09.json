@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763196264000,
+  "endTime": 1763198720047,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -89,6 +89,14 @@
       "onboard_time": 1762824619,
       "rank": 1,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 1774306,
+      "num": 1774306,
+      "word": "金鸡奖红毯",
+      "onboard_time": 1763195481,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 1763806,
@@ -1115,6 +1123,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 684541,
+      "num": 684541,
+      "word": "日本机票免费退改",
+      "onboard_time": 1763196382,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 681969,
       "num": 278288,
       "word": "AG夺冠",
@@ -1265,14 +1281,6 @@
       "onboard_time": 1762825102,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 642803,
-      "num": 642803,
-      "word": "金鸡奖红毯",
-      "onboard_time": 1763195481,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 640170,
@@ -1889,6 +1897,14 @@
       "onboard_time": 1762691363,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 529672,
+      "num": 529672,
+      "word": "三大航急发中日航线免费退改签",
+      "onboard_time": 1763195721,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 527440,
@@ -3131,6 +3147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382233,
+      "num": 284264,
+      "word": "娜扎 我素颜也很美",
+      "onboard_time": 1763193201,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 381827,
       "num": 265523,
       "word": "早睡真的会失去很多",
@@ -3595,6 +3619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 342642,
+      "num": 246833,
+      "word": "钟嘉欣回应婚变传闻",
+      "onboard_time": 1763195060,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 342507,
       "num": 181621,
       "word": "等等14岁了",
@@ -3881,14 +3913,6 @@
       "onboard_time": 1763082681,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 324655,
-      "num": 246833,
-      "word": "钟嘉欣回应婚变传闻",
-      "onboard_time": 1763195060,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 324651,
@@ -4257,6 +4281,14 @@
       "onboard_time": 1762613484,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 302324,
+      "num": 302324,
+      "word": "关晓彤金鸡奖造型图",
+      "onboard_time": 1763194642,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 301940,
@@ -5988,11 +6020,11 @@
     },
     {
       "raw_hot": 221991,
-      "num": 257209,
-      "word": "关晓彤金鸡奖造型图",
-      "onboard_time": 1763194642,
-      "rank": 19,
-      "category": "电影"
+      "num": 221991,
+      "word": "婆媳上厕所被指造成3到5万元损失",
+      "onboard_time": 1763194822,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 221806,
@@ -6801,14 +6833,6 @@
       "onboard_time": 1763008882,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 199124,
-      "num": 257092,
-      "word": "娜扎 我素颜也很美",
-      "onboard_time": 1763193201,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 198947,
@@ -8051,6 +8075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 172663,
+      "num": 172663,
+      "word": "时代少年团退票回流通知",
+      "onboard_time": 1763197400,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172514,
       "num": 157640,
       "word": "拜登强烈批评特朗普称其家族赚了18亿",
@@ -8627,6 +8659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 163200,
+      "num": 219668,
+      "word": "蒋梦婕金鸡女神造型",
+      "onboard_time": 1763197582,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 163083,
       "num": 278207,
       "word": "上海通报绿捷食安事件",
@@ -8721,6 +8761,14 @@
       "onboard_time": 1763040683,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161159,
+      "num": 148847,
+      "word": "实体店女装",
+      "onboard_time": 1763196742,
+      "rank": 30,
+      "category": "时尚"
     },
     {
       "raw_hot": 161087,
@@ -9491,6 +9539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 151273,
+      "num": 151273,
+      "word": "穆祉丞金鸡奖造型出图",
+      "onboard_time": 1763197701,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 151223,
       "num": 151223,
       "word": "百色2公职人员性侵女性被免职",
@@ -10187,6 +10243,14 @@
       "category": "演出,教育"
     },
     {
+      "raw_hot": 141599,
+      "num": 141599,
+      "word": "Flandre一诺合影拍立得",
+      "onboard_time": 1763198241,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 141475,
       "num": 141475,
       "word": "医生眼中无意识变胖的行为",
@@ -10673,6 +10737,14 @@
       "onboard_time": 1762826362,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136419,
+      "num": 136419,
+      "word": "雷军祝贺樊振东",
+      "onboard_time": 1763197521,
+      "rank": 35,
+      "category": "体育,互联网"
     },
     {
       "raw_hot": 136350,
@@ -12123,6 +12195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123296,
+      "num": 122916,
+      "word": "飞天茅台价格腰斩",
+      "onboard_time": 1763198424,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123217,
       "num": 166272,
       "word": "内娱终于拍了成年人的暖昧拉扯",
@@ -12161,6 +12241,14 @@
       "onboard_time": 1762697782,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123065,
+      "num": 123065,
+      "word": "张雅琪一辈子的账都在花少算了",
+      "onboard_time": 1763198302,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 123031,
@@ -13049,6 +13137,14 @@
       "onboard_time": 1762780881,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115931,
+      "num": 115931,
+      "word": "她3个月干了我一辈子的工作",
+      "onboard_time": 1763198481,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 115901,
@@ -13963,6 +14059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109617,
+      "num": 109617,
+      "word": "国产剧拍了妈妈辈困境",
+      "onboard_time": 1763198601,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109597,
       "num": 109597,
       "word": "王楚钦展臂拥抱胜利",
@@ -14049,6 +14153,14 @@
       "onboard_time": 1762836261,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109121,
+      "num": 109121,
+      "word": "刘宇宁演唱会歌词灯牌都在卷",
+      "onboard_time": 1763197821,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 109114,
@@ -14529,6 +14641,14 @@
       "onboard_time": 1762609402,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105962,
+      "num": 105962,
+      "word": "钟丽丽 复古美人从画框里走出来了",
+      "onboard_time": 1763198122,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 105895,
@@ -16531,6 +16651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95656,
+      "num": 123227,
+      "word": "祝绪丹金鸡造型",
+      "onboard_time": 1763196801,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95624,
       "num": 133634,
       "word": "吹牛老爹入狱照",
@@ -17225,6 +17353,14 @@
       "onboard_time": 1762938440,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91405,
+      "num": 138411,
+      "word": "台湾有没有事都不关日本的事",
+      "onboard_time": 1763196801,
+      "rank": 34,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91368,
@@ -17993,14 +18129,6 @@
       "onboard_time": 1762989318,
       "rank": 27,
       "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 87777,
-      "num": 123059,
-      "word": "婆媳上厕所被指造成3到5万元损失",
-      "onboard_time": 1763194822,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87760,
@@ -22851,6 +22979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43336,
+      "num": 1000225,
+      "word": "被中国健儿鼓舞到了",
+      "onboard_time": 1763194760,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43332,
       "num": 176336,
       "word": "西藏航空回应36周孕妇登机后被劝下",
@@ -23241,6 +23377,14 @@
       "onboard_time": 1762608321,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38084,
+      "num": 217250,
+      "word": "12306回应普通乘客买到残疾人专座",
+      "onboard_time": 1763198001,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37991,
@@ -23819,14 +23963,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30987,
-      "num": 644265,
-      "word": "被中国健儿鼓舞到了",
-      "onboard_time": 1763194760,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 30950,
       "num": 494417,
       "word": "13岁小将打破沉寂13年纪录",
@@ -24171,14 +24307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 26389,
-      "num": 296273,
-      "word": "三大航急发中日航线免费退改签",
-      "onboard_time": 1763195721,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 26246,
       "num": 30928,
       "word": "周深演唱会好暖",
@@ -24353,6 +24481,14 @@
       "onboard_time": 1762967597,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23791,
+      "num": 123119,
+      "word": "刘诗诗歪头那一下",
+      "onboard_time": 1763198542,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23675,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1763198720047,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1774306,
+        "num": 1774306,
+        "word": "金鸡奖红毯",
+        "onboard_time": 1763195481,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1157458,
+        "num": 1157458,
+        "word": "樊振东4比2王楚钦",
+        "onboard_time": 1763186006,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43336,
+        "num": 1000225,
+        "word": "被中国健儿鼓舞到了",
+        "onboard_time": 1763194760,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 999580,
+        "num": 999580,
+        "word": "中方愤怒正在升级",
+        "onboard_time": 1763177542,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 684541,
+        "num": 684541,
+        "word": "日本机票免费退改",
+        "onboard_time": 1763196382,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 529672,
+        "num": 529672,
+        "word": "三大航急发中日航线免费退改签",
+        "onboard_time": 1763195721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455549,
+        "num": 455549,
+        "word": "日本野心逐渐清晰",
+        "onboard_time": 1763194040,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 450774,
+        "num": 450774,
+        "word": "王楚钦回应樊振东评价",
+        "onboard_time": 1763192660,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302324,
+        "num": 302324,
+        "word": "关晓彤金鸡奖造型图",
+        "onboard_time": 1763194642,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296747,
+        "num": 296747,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763180301,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382233,
+        "num": 284264,
+        "word": "娜扎 我素颜也很美",
+        "onboard_time": 1763193201,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361419,
+        "num": 280144,
+        "word": "中国人对于晒被子的执念",
+        "onboard_time": 1763189781,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 266932,
+        "num": 266932,
+        "word": "全运会樊振东王楚钦打得披头散发",
+        "onboard_time": 1763190501,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255635,
+        "num": 255635,
+        "word": "中国媒体罕见严厉警告日本",
+        "onboard_time": 1763192841,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243782,
+        "num": 243782,
+        "word": "五个严重日本听懂了吗",
+        "onboard_time": 1763178919,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237306,
+        "num": 237306,
+        "word": "樊振东说王楚钦是男乒绝对领军人物",
+        "onboard_time": 1763189419,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221991,
+        "num": 221991,
+        "word": "婆媳上厕所被指造成3到5万元损失",
+        "onboard_time": 1763194822,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173793,
+        "num": 220662,
+        "word": "现在就出发",
+        "onboard_time": 1763180841,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163200,
+        "num": 219668,
+        "word": "蒋梦婕金鸡女神造型",
+        "onboard_time": 1763197582,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38084,
+        "num": 217250,
+        "word": "12306回应普通乘客买到残疾人专座",
+        "onboard_time": 1763198001,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 775949,
+        "num": 215561,
+        "word": "女生要帅哥微信回家发现是宋威龙",
+        "onboard_time": 1763185947,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385814,
+        "num": 213331,
+        "word": "程晓玥做了羊水穿刺",
+        "onboard_time": 1763183482,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342642,
+        "num": 211440,
+        "word": "钟嘉欣回应婚变传闻",
+        "onboard_time": 1763195060,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323935,
+        "num": 208904,
+        "word": "宁静跟繁花团吐槽花少",
+        "onboard_time": 1763190682,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224579,
+        "num": 207697,
+        "word": "炎亚纶回应取关鬼鬼",
+        "onboard_time": 1763192181,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206610,
+        "num": 206610,
+        "word": "迪丽热巴给主持人打伞",
+        "onboard_time": 1763190920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189996,
+        "num": 189996,
+        "word": "美国将拒绝胖子入境",
+        "onboard_time": 1763183181,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172663,
+        "num": 172663,
+        "word": "时代少年团退票回流通知",
+        "onboard_time": 1763197400,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154957,
+        "num": 154957,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763178919,
+        "rank": 28,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 151273,
+        "num": 151273,
+        "word": "穆祉丞金鸡奖造型出图",
+        "onboard_time": 1763197701,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161159,
+        "num": 148847,
+        "word": "实体店女装",
+        "onboard_time": 1763196742,
+        "rank": 30,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 145269,
+        "num": 145269,
+        "word": "易烊千玺走路还是这么臭屁",
+        "onboard_time": 1763189181,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143983,
+        "num": 143983,
+        "word": "日本同时被四国痛批",
+        "onboard_time": 1763178740,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141599,
+        "num": 141599,
+        "word": "Flandre一诺合影拍立得",
+        "onboard_time": 1763198241,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91405,
+        "num": 138411,
+        "word": "台湾有没有事都不关日本的事",
+        "onboard_time": 1763196801,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136419,
+        "num": 136419,
+        "word": "雷军祝贺樊振东",
+        "onboard_time": 1763197521,
+        "rank": 35,
+        "category": "体育,互联网"
+      },
+      {
+        "raw_hot": 123771,
+        "num": 123771,
+        "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
+        "onboard_time": 1763174540,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95656,
+        "num": 123227,
+        "word": "祝绪丹金鸡造型",
+        "onboard_time": 1763196801,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23791,
+        "num": 123119,
+        "word": "刘诗诗歪头那一下",
+        "onboard_time": 1763198542,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123065,
+        "num": 123065,
+        "word": "张雅琪一辈子的账都在花少算了",
+        "onboard_time": 1763198302,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123296,
+        "num": 122916,
+        "word": "飞天茅台价格腰斩",
+        "onboard_time": 1763198424,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120668,
+        "num": 120668,
+        "word": "时代少年团 二开",
+        "onboard_time": 1763175501,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120062,
+        "num": 120062,
+        "word": "林诗栋展望对阵樊振东",
+        "onboard_time": 1763195660,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119069,
+        "num": 119069,
+        "word": "迪丽热巴直播",
+        "onboard_time": 1763185701,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115931,
+        "num": 115931,
+        "word": "她3个月干了我一辈子的工作",
+        "onboard_time": 1763198481,
+        "rank": 44,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 112806,
+        "num": 112806,
+        "word": "王楚钦说各方面他稍微有些下滑",
+        "onboard_time": 1763195301,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109617,
+        "num": 109617,
+        "word": "国产剧拍了妈妈辈困境",
+        "onboard_time": 1763198601,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109121,
+        "num": 109121,
+        "word": "刘宇宁演唱会歌词灯牌都在卷",
+        "onboard_time": 1763197821,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105962,
+        "num": 105962,
+        "word": "钟丽丽 复古美人从画框里走出来了",
+        "onboard_time": 1763198122,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104196,
+        "num": 104196,
+        "word": "日本国民批高市早苗不适合担任首相",
+        "onboard_time": 1763177961,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}
