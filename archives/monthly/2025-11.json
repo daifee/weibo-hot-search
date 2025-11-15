@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763238392735,
+  "endTime": 1763239161420,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -54859,6 +54859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 15506,
+      "num": 24354,
+      "word": "你告诉我这是毛晓彤",
+      "onboard_time": 1763238075,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 15463,
       "num": 38962,
       "word": "张馨予用0秒接受了自己是布偶猫",
@@ -54969,14 +54977,6 @@
       "onboard_time": 1762454534,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14221,
-      "num": 24354,
-      "word": "你告诉我这是毛晓彤",
-      "onboard_time": 1763238075,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 14218,
