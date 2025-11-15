@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763211709725,
+  "endTime": 1763213426526,
   "band_list": [
     {
       "raw_hot": 12640231,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 3990046,
-      "num": 1056590,
+      "num": 1107166,
       "word": "金鸡奖获奖名单",
       "onboard_time": 1763207422,
       "rank": 3,
@@ -153,6 +153,14 @@
       "onboard_time": 1762601360,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2751680,
+      "num": 2751680,
+      "word": "陈梦vs王曼昱",
+      "onboard_time": 1763210846,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2664851,
@@ -1147,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1046046,
+      "num": 1046046,
+      "word": "王曼昱4比0陈梦",
+      "onboard_time": 1763213307,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1038708,
       "num": 208424,
       "word": "迪丽热巴身体状况",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1762524141,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1019255,
+      "num": 980601,
+      "word": "怜爱惠英红",
+      "onboard_time": 1763211565,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 1014012,
@@ -1243,6 +1267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1000161,
+      "num": 871731,
+      "word": "小小的我",
+      "onboard_time": 1763210785,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 997576,
       "num": 206934,
       "word": "曝某女星采访到一半崩溃大哭",
@@ -1289,14 +1321,6 @@
       "onboard_time": 1762223599,
       "rank": 0,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 980143,
-      "num": 980143,
-      "word": "陈梦vs王曼昱",
-      "onboard_time": 1763210846,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 979092,
@@ -1393,6 +1417,14 @@
       "onboard_time": 1762577840,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 933587,
+      "num": 870230,
+      "word": "钟楚曦 我现在就是昂首挺胸的",
+      "onboard_time": 1763212407,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 926640,
@@ -1571,6 +1603,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 874466,
+      "num": 874466,
+      "word": "孙颖莎vs朱雨玲",
+      "onboard_time": 1763032521,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 873165,
       "num": 1139706,
       "word": "睡眠超9小时也可能有害",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1762791260,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 840179,
+      "num": 840179,
+      "word": "易烊千玺听到尖叫声没憋住笑了",
+      "onboard_time": 1763212708,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 839609,
@@ -2667,6 +2715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 676891,
+      "num": 265301,
+      "word": "许昕6比11王楚钦",
+      "onboard_time": 1763212467,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675805,
       "num": 1108128,
       "word": "大奉打更人官宣第二季",
@@ -2680,6 +2736,14 @@
       "word": "女儿养了3个月出院记录显示是男婴",
       "onboard_time": 1762762160,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 674023,
+      "num": 872179,
+      "word": "浙江公厕被打女孩确诊白血病",
+      "onboard_time": 1763211207,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -4651,14 +4715,6 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 499937,
-      "num": 499937,
-      "word": "孙颖莎vs朱雨玲",
-      "onboard_time": 1763032521,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 499771,
       "num": 461009,
       "word": "范丞丞出国回来买到关不上后备箱了",
@@ -5459,14 +5515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 450352,
-      "num": 450352,
-      "word": "小小的我",
-      "onboard_time": 1763210785,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 450273,
       "num": 181392,
       "word": "湖南省人民医院网传出轨医生无号可挂",
@@ -5963,6 +6011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 423390,
+      "num": 423390,
+      "word": "水饺皇后 糖水伯",
+      "onboard_time": 1763210186,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 422885,
       "num": 422885,
       "word": "KK园区电诈人员已开始再就业",
@@ -5993,6 +6049,14 @@
       "onboard_time": 1761981501,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 418518,
+      "num": 418518,
+      "word": "惠英红三金影后女配都只差金鸡",
+      "onboard_time": 1763212526,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 418289,
@@ -7123,6 +7187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 368785,
+      "num": 368785,
+      "word": "日本这次的借口与侵华时如出一辙",
+      "onboard_time": 1763203222,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 368101,
       "num": 368101,
       "word": "孙乐言主持界首个拿下奥斯卡的人",
@@ -7305,14 +7377,6 @@
       "onboard_time": 1762663220,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 362536,
-      "num": 314952,
-      "word": "怜爱惠英红",
-      "onboard_time": 1763211565,
-      "rank": 20,
-      "category": "电影"
     },
     {
       "raw_hot": 362532,
@@ -7561,6 +7625,14 @@
       "onboard_time": 1762477819,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 352354,
+      "num": 352354,
+      "word": "陈楚生金鸡奖获奖之作舞台",
+      "onboard_time": 1763212948,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 351863,
@@ -8219,6 +8291,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 330339,
+      "num": 264364,
+      "word": "许昕4比11王楚钦",
+      "onboard_time": 1763212467,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 330296,
       "num": 330296,
       "word": "疯狂动物城",
@@ -8475,14 +8555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321362,
-      "num": 321362,
-      "word": "日本这次的借口与侵华时如出一辙",
-      "onboard_time": 1763203222,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 321283,
       "num": 179331,
       "word": "上海地铁",
@@ -8617,6 +8689,14 @@
       "onboard_time": 1763031440,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 315309,
+      "num": 315309,
+      "word": "老枪斩获金鸡奖最佳导演处女作奖",
+      "onboard_time": 1763211446,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 314535,
@@ -9107,6 +9187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300924,
+      "num": 300924,
+      "word": "广东女篮冠军",
+      "onboard_time": 1763213128,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300919,
       "num": 205792,
       "word": "涵艺爆料RNG和FPX退出LPL",
@@ -9441,6 +9529,14 @@
       "onboard_time": 1762675881,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292320,
+      "num": 292320,
+      "word": "许昕0比3王楚钦",
+      "onboard_time": 1763212587,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 291622,
@@ -10459,6 +10555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266163,
+      "num": 266163,
+      "word": "影帝背后的男人",
+      "onboard_time": 1763208624,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265674,
       "num": 265674,
       "word": "捐款140元给国家造航母当事人发声",
@@ -10643,6 +10747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 260994,
+      "num": 260994,
+      "word": "樊振东打得解说直叹无解",
+      "onboard_time": 1763212646,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 260847,
       "num": 223397,
       "word": "李福贵直播间卖小米上架秒空",
@@ -10697,14 +10809,6 @@
       "onboard_time": 1762075760,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259773,
-      "num": 259773,
-      "word": "水饺皇后 糖水伯",
-      "onboard_time": 1763210186,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 259754,
@@ -11401,14 +11505,6 @@
       "onboard_time": 1762076002,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 241652,
-      "num": 241652,
-      "word": "影帝背后的男人",
-      "onboard_time": 1763208624,
-      "rank": 26,
-      "category": "电影"
     },
     {
       "raw_hot": 241592,
@@ -13331,6 +13427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 208147,
+      "num": 208147,
+      "word": "王曼昱11比4陈梦",
+      "onboard_time": 1763213307,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208099,
       "num": 149694,
       "word": "年轻人有自己的扣扣搜搜",
@@ -13979,6 +14083,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 201014,
+      "num": 201014,
+      "word": "王楚钦11比2许昕",
+      "onboard_time": 1763213307,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201003,
       "num": 134817,
       "word": "青岛女子刷到丢失三个月的狗在长沙",
@@ -14089,6 +14201,14 @@
       "onboard_time": 1762157361,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200083,
+      "num": 200083,
+      "word": "丁禹兮音乐节",
+      "onboard_time": 1763213186,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 200011,
@@ -14339,6 +14459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197059,
+      "num": 195735,
+      "word": "乒乓球男团北京3比2上海",
+      "onboard_time": 1763212467,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197000,
       "num": 197000,
       "word": "樊振东出发全运会",
@@ -14449,6 +14577,14 @@
       "onboard_time": 1763103980,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195806,
+      "num": 195806,
+      "word": "刘宇宁这完全是邀请",
+      "onboard_time": 1763212887,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 195774,
@@ -14579,6 +14715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 194815,
+      "num": 194815,
+      "word": "展轩音乐节",
+      "onboard_time": 1763212768,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194802,
       "num": 194802,
       "word": "罗云熙水龙吟布达拉宫热度双破万",
@@ -14601,6 +14745,14 @@
       "onboard_time": 1762593441,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 194719,
+      "num": 194719,
+      "word": "还有明天获金鸡奖最佳外语片",
+      "onboard_time": 1763213307,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 194686,
@@ -26865,6 +27017,14 @@
       "onboard_time": 1762680140,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121397,
+      "num": 419478,
+      "word": "新一代奶爸神车确认",
+      "onboard_time": 1763212887,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 121385,
@@ -42627,6 +42787,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79430,
+      "num": 873704,
+      "word": "高市早苗妄想招魂",
+      "onboard_time": 1763212347,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79423,
       "num": 79423,
       "word": "炅娜",
@@ -44259,14 +44427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 74012,
-      "num": 200974,
-      "word": "浙江公厕被打女孩确诊白血病",
-      "onboard_time": 1763211207,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73953,
       "num": 90673,
       "word": "时代峰峻热度标识",
@@ -45433,6 +45593,14 @@
       "onboard_time": 1762739658,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69350,
+      "num": 264376,
+      "word": "郑丽文称一个中国才能确保台湾生存",
+      "onboard_time": 1763211145,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69323,
@@ -46977,6 +47145,14 @@
       "onboard_time": 1762658718,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 61447,
+      "num": 418817,
+      "word": "哈基米南北绿豆浆包装被抄袭",
+      "onboard_time": 1763212169,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 61396,
@@ -49131,6 +49307,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47646,
+      "num": 321188,
+      "word": "入室抢婴案主犯认为被判死缓过重",
+      "onboard_time": 1763210965,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47526,
       "num": 47526,
       "word": "杨瀚森连续4场被DNP",
@@ -50267,6 +50451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40367,
+      "num": 208810,
+      "word": "越来越多大学生从大一卷绩点",
+      "onboard_time": 1763212407,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 40346,
       "num": 71522,
       "word": "原相机下的周冬雨马思纯",
@@ -50993,14 +51185,6 @@
       "onboard_time": 1762776200,
       "rank": 26,
       "category": "数码"
-    },
-    {
-      "raw_hot": 35468,
-      "num": 321188,
-      "word": "入室抢婴案主犯认为被判死缓过重",
-      "onboard_time": 1763210965,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35445,
@@ -54527,6 +54711,14 @@
       "num": 572424,
       "word": "神21入轨后约3.5小时后到空间站",
       "onboard_time": 1761790039,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 7023,
+      "num": 1146275,
+      "word": "十五运会赛场外步步生花",
+      "onboard_time": 1763213367,
       "rank": 2,
       "category": "国内时政"
     },

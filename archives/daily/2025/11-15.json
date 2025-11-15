@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763211709725,
+  "endTime": 1763213426526,
   "band_list": [
     {
       "raw_hot": 12640231,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 3990046,
-      "num": 1056590,
+      "num": 1107166,
       "word": "金鸡奖获奖名单",
       "onboard_time": 1763207422,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2751680,
+      "num": 2751680,
+      "word": "陈梦vs王曼昱",
+      "onboard_time": 1763210846,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1774306,
@@ -115,12 +123,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1046046,
+      "num": 1046046,
+      "word": "王曼昱4比0陈梦",
+      "onboard_time": 1763213307,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1026678,
       "num": 210991,
       "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
       "onboard_time": 1763174540,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1019255,
+      "num": 980601,
+      "word": "怜爱惠英红",
+      "onboard_time": 1763211565,
+      "rank": 20,
+      "category": "电影"
     },
     {
       "raw_hot": 1014012,
@@ -131,12 +155,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 980143,
-      "num": 980143,
-      "word": "陈梦vs王曼昱",
-      "onboard_time": 1763210846,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 1000161,
+      "num": 871731,
+      "word": "小小的我",
+      "onboard_time": 1763210785,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 942644,
@@ -145,6 +169,14 @@
       "onboard_time": 1763185947,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 933587,
+      "num": 870230,
+      "word": "钟楚曦 我现在就是昂首挺胸的",
+      "onboard_time": 1763212407,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 908410,
@@ -171,6 +203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 874466,
+      "num": 874466,
+      "word": "孙颖莎vs朱雨玲",
+      "onboard_time": 1763211026,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 871727,
       "num": 210262,
       "word": "痞幼官宣分手",
@@ -185,6 +225,14 @@
       "onboard_time": 1763165238,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 840179,
+      "num": 840179,
+      "word": "易烊千玺听到尖叫声没憋住笑了",
+      "onboard_time": 1763212708,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 791654,
@@ -233,6 +281,22 @@
       "onboard_time": 1763190501,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 676891,
+      "num": 265301,
+      "word": "许昕6比11王楚钦",
+      "onboard_time": 1763212467,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 674023,
+      "num": 872179,
+      "word": "浙江公厕被打女孩确诊白血病",
+      "onboard_time": 1763211207,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 669046,
@@ -347,14 +411,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 499937,
-      "num": 499937,
-      "word": "孙颖莎vs朱雨玲",
-      "onboard_time": 1763211026,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 496331,
       "num": 282406,
       "word": "迪丽热巴直播",
@@ -419,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 450352,
-      "num": 450352,
-      "word": "小小的我",
-      "onboard_time": 1763210785,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 446489,
       "num": 227280,
       "word": "原来妈妈才是初代甜妹",
@@ -465,6 +513,22 @@
       "onboard_time": 1763169859,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 423390,
+      "num": 423390,
+      "word": "水饺皇后 糖水伯",
+      "onboard_time": 1763210186,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 418518,
+      "num": 418518,
+      "word": "惠英红三金影后女配都只差金鸡",
+      "onboard_time": 1763212526,
+      "rank": 21,
+      "category": "电影"
     },
     {
       "raw_hot": 415051,
@@ -547,12 +611,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 362536,
-      "num": 314952,
-      "word": "怜爱惠英红",
-      "onboard_time": 1763211565,
-      "rank": 20,
-      "category": "电影"
+      "raw_hot": 368785,
+      "num": 368785,
+      "word": "日本这次的借口与侵华时如出一辙",
+      "onboard_time": 1763203222,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 357159,
@@ -561,6 +625,14 @@
       "onboard_time": 1763134702,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 352354,
+      "num": 352354,
+      "word": "陈楚生金鸡奖获奖之作舞台",
+      "onboard_time": 1763212948,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 350966,
@@ -619,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 330339,
+      "num": 264364,
+      "word": "许昕4比11王楚钦",
+      "onboard_time": 1763212467,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 323392,
       "num": 323392,
       "word": "乒乓球",
@@ -633,14 +713,6 @@
       "onboard_time": 1763189600,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321362,
-      "num": 321362,
-      "word": "日本这次的借口与侵华时如出一辙",
-      "onboard_time": 1763203222,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 319974,
@@ -673,6 +745,14 @@
       "onboard_time": 1763179941,
       "rank": 13,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 315309,
+      "num": 315309,
+      "word": "老枪斩获金鸡奖最佳导演处女作奖",
+      "onboard_time": 1763211446,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 311877,
@@ -739,6 +819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 300924,
+      "num": 300924,
+      "word": "广东女篮冠军",
+      "onboard_time": 1763213128,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 295932,
       "num": 184794,
       "word": "骑手送6台iPhone17半路失联",
@@ -753,6 +841,14 @@
       "onboard_time": 1763130502,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 292320,
+      "num": 292320,
+      "word": "许昕0比3王楚钦",
+      "onboard_time": 1763212587,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 289433,
@@ -827,6 +923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 266163,
+      "num": 266163,
+      "word": "影帝背后的男人",
+      "onboard_time": 1763208624,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 264375,
       "num": 264375,
       "word": "辛芷蕾紫色花朵高定",
@@ -851,12 +955,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 259773,
-      "num": 259773,
-      "word": "水饺皇后 糖水伯",
-      "onboard_time": 1763210186,
+      "raw_hot": 260994,
+      "num": 260994,
+      "word": "樊振东打得解说直叹无解",
+      "onboard_time": 1763212646,
       "rank": 34,
-      "category": "电影"
+      "category": "体育"
     },
     {
       "raw_hot": 259754,
@@ -912,14 +1016,6 @@
       "word": "金鸡奖提名",
       "onboard_time": 1763202082,
       "rank": 47,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 241652,
-      "num": 241652,
-      "word": "影帝背后的男人",
-      "onboard_time": 1763208624,
-      "rank": 26,
       "category": "电影"
     },
     {
@@ -1099,6 +1195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208147,
+      "num": 208147,
+      "word": "王曼昱11比4陈梦",
+      "onboard_time": 1763213307,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207085,
       "num": 207085,
       "word": "双高胎 抢票",
@@ -1171,6 +1275,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 201014,
+      "num": 201014,
+      "word": "王楚钦11比2许昕",
+      "onboard_time": 1763213307,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 200083,
+      "num": 200083,
+      "word": "丁禹兮音乐节",
+      "onboard_time": 1763213186,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 199853,
       "num": 199853,
       "word": "难哄动画首支预告",
@@ -1203,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197059,
+      "num": 195735,
+      "word": "乒乓球男团北京3比2上海",
+      "onboard_time": 1763212467,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196178,
       "num": 196178,
       "word": "王睡睡说张硕恋爱期间频繁联系前任",
@@ -1219,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195806,
+      "num": 195806,
+      "word": "刘宇宁这完全是邀请",
+      "onboard_time": 1763212887,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 195395,
       "num": 195395,
       "word": "刘宇宁北京演唱会",
@@ -1232,6 +1368,22 @@
       "word": "朱一龙金鸡奖怼脸拍",
       "onboard_time": 1763205683,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 194815,
+      "num": 194815,
+      "word": "展轩音乐节",
+      "onboard_time": 1763212768,
+      "rank": 48,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 194719,
+      "num": 194719,
+      "word": "还有明天获金鸡奖最佳外语片",
+      "onboard_time": 1763213307,
+      "rank": 49,
       "category": "电影"
     },
     {
@@ -2219,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121397,
+      "num": 419478,
+      "word": "新一代奶爸神车确认",
+      "onboard_time": 1763212887,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 121195,
       "num": 149813,
       "word": "明星金鸡奖出图",
@@ -2859,6 +3019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79430,
+      "num": 873704,
+      "word": "高市早苗妄想招魂",
+      "onboard_time": 1763212347,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79355,
       "num": 79355,
       "word": "地表最强乒乓球半决赛来了",
@@ -2923,14 +3091,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 74012,
-      "num": 200974,
-      "word": "浙江公厕被打女孩确诊白血病",
-      "onboard_time": 1763211207,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73553,
       "num": 1246281,
       "word": "3.2公斤航天医学实验样本顺利交接",
@@ -2993,6 +3153,14 @@
       "onboard_time": 1763137520,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 69350,
+      "num": 264376,
+      "word": "郑丽文称一个中国才能确保台湾生存",
+      "onboard_time": 1763211145,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 69323,
@@ -3123,6 +3291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61447,
+      "num": 418817,
+      "word": "哈基米南北绿豆浆包装被抄袭",
+      "onboard_time": 1763212169,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61371,
       "num": 61371,
       "word": "全运会烧鹅甚至还配了个厨师",
@@ -3219,6 +3395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 47646,
+      "num": 321188,
+      "word": "入室抢婴案主犯认为被判死缓过重",
+      "onboard_time": 1763210965,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46822,
       "num": 1187873,
       "word": "被中国健儿鼓舞到了",
@@ -3299,6 +3483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40367,
+      "num": 208810,
+      "word": "越来越多大学生从大一卷绩点",
+      "onboard_time": 1763212407,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 38658,
       "num": 104923,
       "word": "奔跑吧天路篇录制收官大合影",
@@ -3321,14 +3513,6 @@
       "onboard_time": 1763156594,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35468,
-      "num": 321188,
-      "word": "入室抢婴案主犯认为被判死缓过重",
-      "onboard_time": 1763210965,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34873,
@@ -3571,6 +3755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 7023,
+      "num": 1146275,
+      "word": "十五运会赛场外步步生花",
+      "onboard_time": 1763213367,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 2062,
       "num": 125276,
       "word": "论生活中避谶的重要性",
@@ -3585,6 +3777,9 @@
     },
     {
       "word": "#习近平向泰国国王介绍北京中轴线#"
+    },
+    {
+      "word": "#汉学源自中国属于世界#"
     }
   ]
 }
