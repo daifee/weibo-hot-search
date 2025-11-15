@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763184363515,
+  "endTime": 1763185314461,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -59,8 +59,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 3976644,
-      "num": 3976644,
+      "raw_hot": 4619266,
+      "num": 4619266,
       "word": "王楚钦vs樊振东",
       "onboard_time": 1763180301,
       "rank": 7,
@@ -308,7 +308,7 @@
     },
     {
       "raw_hot": 1761248,
-      "num": 206512,
+      "num": 210262,
       "word": "痞幼官宣分手",
       "onboard_time": 1763126842,
       "rank": 24,
@@ -1100,7 +1100,7 @@
     },
     {
       "raw_hot": 1026678,
-      "num": 209677,
+      "num": 210991,
       "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
       "onboard_time": 1763174540,
       "rank": 20,
@@ -1811,6 +1811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 785805,
+      "num": 211869,
+      "word": "程晓玥做了羊水穿刺",
+      "onboard_time": 1763183482,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 784821,
       "num": 784821,
       "word": "区委书记沉迷游戏区长沉迷高尔夫",
@@ -2475,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 682221,
+      "num": 682221,
+      "word": "李晓霞高菡解说",
+      "onboard_time": 1763184680,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 681840,
       "num": 312481,
       "word": "鬼灭之刃无限城篇定档",
@@ -2564,7 +2580,7 @@
     },
     {
       "raw_hot": 669046,
-      "num": 210334,
+      "num": 211720,
       "word": "朱珠白发",
       "onboard_time": 1763176459,
       "rank": 25,
@@ -4188,7 +4204,7 @@
     },
     {
       "raw_hot": 516768,
-      "num": 209021,
+      "num": 210662,
       "word": "向太自曝想改遗嘱",
       "onboard_time": 1763182520,
       "rank": 22,
@@ -4803,14 +4819,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 477223,
-      "num": 208305,
-      "word": "程晓玥做了羊水穿刺",
-      "onboard_time": 1763183482,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 477030,
       "num": 477030,
       "word": "全红婵十五运首金",
@@ -5132,7 +5140,7 @@
     },
     {
       "raw_hot": 454088,
-      "num": 207393,
+      "num": 210513,
       "word": "这是张馨予还是迪丽热巴",
       "onboard_time": 1763175920,
       "rank": 33,
@@ -5297,6 +5305,14 @@
       "onboard_time": 1762166061,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446489,
+      "num": 227280,
+      "word": "原来妈妈才是初代甜妹",
+      "onboard_time": 1763180601,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 444305,
@@ -7979,14 +7995,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 324560,
-      "num": 227280,
-      "word": "原来妈妈才是初代甜妹",
-      "onboard_time": 1763180601,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 324151,
       "num": 192529,
       "word": "程潇被刀划伤手",
@@ -8009,6 +8017,14 @@
       "onboard_time": 1762235960,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 323392,
+      "num": 323392,
+      "word": "乒乓球",
+      "onboard_time": 1763182460,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 323338,
@@ -8280,14 +8296,6 @@
       "word": "林高远刘诗雯晋级混双金牌赛",
       "onboard_time": 1763004560,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 311930,
-      "num": 311930,
-      "word": "乒乓球",
-      "onboard_time": 1763182460,
-      "rank": 5,
       "category": "体育"
     },
     {
@@ -10715,6 +10723,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 245897,
+      "num": 245897,
+      "word": "张晚意录制第一天就想关监控",
+      "onboard_time": 1763183782,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 245803,
       "num": 186984,
       "word": "王传君获奖是五个评委一致通过的",
@@ -12337,6 +12353,14 @@
       "onboard_time": 1762065560,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213514,
+      "num": 243041,
+      "word": "高市早苗七宗罪",
+      "onboard_time": 1763183181,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 213334,
@@ -14435,6 +14459,14 @@
       "category": "体育,汽车"
     },
     {
+      "raw_hot": 190104,
+      "num": 201445,
+      "word": "短剧女演员也是给内娱上强度了",
+      "onboard_time": 1763181079,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190058,
       "num": 190058,
       "word": "好大的Doinb",
@@ -15145,6 +15177,14 @@
       "onboard_time": 1762223539,
       "rank": 24,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 184439,
+      "num": 184439,
+      "word": "樊振东第二局11比9",
+      "onboard_time": 1763184261,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 184351,
@@ -16315,14 +16355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 171968,
-      "num": 164945,
-      "word": "短剧女演员也是给内娱上强度了",
-      "onboard_time": 1763181079,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 171749,
       "num": 171749,
       "word": "就差Chovy了",
@@ -16561,6 +16593,14 @@
       "onboard_time": 1763129782,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169916,
+      "num": 238584,
+      "word": "林诗栋vs袁励岑",
+      "onboard_time": 1763182942,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 169886,
@@ -17513,6 +17553,14 @@
       "onboard_time": 1762785143,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 162670,
+      "num": 162670,
+      "word": "美国将拒绝胖子入境",
+      "onboard_time": 1763183181,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 162523,
@@ -19123,14 +19171,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152179,
-      "num": 152179,
-      "word": "樊振东第二局11比9",
-      "onboard_time": 1763184261,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152140,
       "num": 185586,
       "word": "佘诗曼一说港普气场就对了",
@@ -19259,6 +19299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151190,
+      "num": 151190,
+      "word": "勇士vs马刺",
+      "onboard_time": 1762999521,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151124,
       "num": 151124,
       "word": "TES将交手T1",
@@ -19377,14 +19425,6 @@
       "onboard_time": 1762337962,
       "rank": 14,
       "category": "数码"
-    },
-    {
-      "raw_hot": 150291,
-      "num": 238584,
-      "word": "林诗栋vs袁励岑",
-      "onboard_time": 1763182942,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 150266,
@@ -20249,6 +20289,14 @@
       "onboard_time": 1762423941,
       "rank": 9,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 144757,
+      "num": 144757,
+      "word": "就算你是皇帝也得受岳父的气",
+      "onboard_time": 1763184680,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 144661,
@@ -24835,6 +24883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123913,
+      "num": 144891,
+      "word": "惊天魔盗团 替天行盗",
+      "onboard_time": 1763185221,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123846,
       "num": 123846,
       "word": "姜潮还在吃麦迪娜15年前的醋",
@@ -24993,6 +25049,14 @@
       "onboard_time": 1762321282,
       "rank": 37,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123217,
+      "num": 123217,
+      "word": "内娱终于拍了成年人的暖昧拉扯",
+      "onboard_time": 1763185041,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 123216,
@@ -25451,6 +25515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121590,
+      "num": 121590,
+      "word": "哈登41分三双",
+      "onboard_time": 1763184142,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121576,
       "num": 242606,
       "word": "山河枕13集亲密戏",
@@ -25593,14 +25665,6 @@
       "onboard_time": 1762261401,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121137,
-      "num": 243041,
-      "word": "高市早苗七宗罪",
-      "onboard_time": 1763183181,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121107,
@@ -25793,6 +25857,14 @@
       "onboard_time": 1761985160,
       "rank": 38,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120273,
+      "num": 120273,
+      "word": "一个贪财一个图色凑上了",
+      "onboard_time": 1763181620,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 120211,
@@ -26761,14 +26833,6 @@
       "onboard_time": 1762326020,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116615,
-      "num": 116615,
-      "word": "一个贪财一个图色凑上了",
-      "onboard_time": 1763181620,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 116614,
@@ -28435,14 +28499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 111107,
-      "num": 111107,
-      "word": "哈登41分三双",
-      "onboard_time": 1763184142,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111095,
       "num": 127973,
       "word": "五年定存退场怎么理财",
@@ -29057,14 +29113,6 @@
       "onboard_time": 1762859721,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108969,
-      "num": 211655,
-      "word": "张晚意录制第一天就想关监控",
-      "onboard_time": 1763183782,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 108943,
@@ -30481,6 +30529,14 @@
       "onboard_time": 1763033661,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104804,
+      "num": 212205,
+      "word": "央美抄袭学生奖学金公示不予通过",
+      "onboard_time": 1763183181,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104780,
@@ -33083,6 +33139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98476,
+      "num": 98476,
+      "word": "小米分享6G研究成果",
+      "onboard_time": 1763185281,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98452,
       "num": 98452,
       "word": "车管所回应选中6646号牌被作废",
@@ -34537,6 +34601,14 @@
       "onboard_time": 1763120001,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95200,
+      "num": 228139,
+      "word": "公务员录用体检标准放宽",
+      "onboard_time": 1763184382,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95191,
@@ -43003,6 +43075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 73080,
+      "num": 212563,
+      "word": "数字复活女儿58岁父亲迎来二胎",
+      "onboard_time": 1763184382,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73076,
       "num": 73076,
       "word": "和恶魔做了一桩交易",
@@ -43065,14 +43145,6 @@
       "onboard_time": 1762328239,
       "rank": 25,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 72819,
-      "num": 72819,
-      "word": "勇士vs马刺",
-      "onboard_time": 1762999521,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 72800,
@@ -44297,14 +44369,6 @@
       "onboard_time": 1762919721,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 67093,
-      "num": 126773,
-      "word": "美国将拒绝胖子入境",
-      "onboard_time": 1763183181,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 67041,
@@ -46537,14 +46601,6 @@
       "onboard_time": 1762928241,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 54182,
-      "num": 212205,
-      "word": "央美抄袭学生奖学金公示不予通过",
-      "onboard_time": 1763183181,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 54170,
@@ -49971,6 +50027,14 @@
       "category": "艺人,互联网"
     },
     {
+      "raw_hot": 31920,
+      "num": 144792,
+      "word": "胡先煦 沈腾化成灰都能认出来",
+      "onboard_time": 1763184741,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 31904,
       "num": 120098,
       "word": "官方称8岁流浪女孩暂不需捐赠",
@@ -50512,6 +50576,14 @@
       "word": "被网友求链接的温州铁锅厂复工复产了",
       "onboard_time": 1762057700,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28646,
+      "num": 212340,
+      "word": "华科大推出8.8元螃蟹食堂大排长龙",
+      "onboard_time": 1763184921,
+      "rank": 19,
       "category": "民生新闻"
     },
     {

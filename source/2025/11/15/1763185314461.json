@@ -1,0 +1,410 @@
+{
+  "runTime": 1763185314461,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4619266,
+        "num": 4619266,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763180301,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1204559,
+        "num": 1204559,
+        "word": "中方愤怒正在升级",
+        "onboard_time": 1763177542,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69384,
+        "num": 861965,
+        "word": "航天员带回近100斤太空特产",
+        "onboard_time": 1763165119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 682221,
+        "num": 682221,
+        "word": "李晓霞高菡解说",
+        "onboard_time": 1763184680,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 397929,
+        "num": 397929,
+        "word": "日本同时被四国痛批",
+        "onboard_time": 1763178740,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 323392,
+        "num": 323392,
+        "word": "乒乓球",
+        "onboard_time": 1763182460,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 302467,
+        "num": 302467,
+        "word": "现在就出发",
+        "onboard_time": 1763180841,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 245897,
+        "num": 245897,
+        "word": "张晚意录制第一天就想关监控",
+        "onboard_time": 1763183782,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231414,
+        "num": 231414,
+        "word": "日本国民批高市早苗不适合担任首相",
+        "onboard_time": 1763177961,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 95200,
+        "num": 228139,
+        "word": "公务员录用体检标准放宽",
+        "onboard_time": 1763184382,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575494,
+        "num": 226469,
+        "word": "卢昱晓LV官宣",
+        "onboard_time": 1763177661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446489,
+        "num": 222649,
+        "word": "原来妈妈才是初代甜妹",
+        "onboard_time": 1763180601,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 357611,
+        "num": 218854,
+        "word": "曝上拉如肇事逃逸",
+        "onboard_time": 1763180240,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 233968,
+        "num": 214216,
+        "word": "五个严重日本听懂了吗",
+        "onboard_time": 1763178919,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213514,
+        "num": 213514,
+        "word": "高市早苗七宗罪",
+        "onboard_time": 1763183181,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176024,
+        "num": 213259,
+        "word": "王赫野化妆师天要塌了",
+        "onboard_time": 1763179941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142516,
+        "num": 213225,
+        "word": "染色体家族跨年狂欢夜",
+        "onboard_time": 1763183841,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 124666,
+        "num": 212679,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763178919,
+        "rank": 17,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 73080,
+        "num": 212563,
+        "word": "数字复活女儿58岁父亲迎来二胎",
+        "onboard_time": 1763184382,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28646,
+        "num": 212340,
+        "word": "华科大推出8.8元螃蟹食堂大排长龙",
+        "onboard_time": 1763184921,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 785805,
+        "num": 211869,
+        "word": "程晓玥做了羊水穿刺",
+        "onboard_time": 1763183482,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 515051,
+        "num": 211720,
+        "word": "朱珠白发",
+        "onboard_time": 1763176459,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109220,
+        "num": 211320,
+        "word": "qko说赵磊婚礼离场20分钟专门感谢粉丝",
+        "onboard_time": 1763174900,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 487337,
+        "num": 210991,
+        "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
+        "onboard_time": 1763174540,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445042,
+        "num": 210662,
+        "word": "向太自曝想改遗嘱",
+        "onboard_time": 1763182520,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 273616,
+        "num": 210513,
+        "word": "这是张馨予还是迪丽热巴",
+        "onboard_time": 1763175920,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221362,
+        "num": 210262,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 26,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 210079,
+        "num": 210079,
+        "word": "日本自卫队配合高市早苗亮刀",
+        "onboard_time": 1763165238,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 201518,
+        "num": 201518,
+        "word": "关晓彤生吃尖椒解饿",
+        "onboard_time": 1763179581,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190104,
+        "num": 201445,
+        "word": "短剧女演员也是给内娱上强度了",
+        "onboard_time": 1763181079,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201415,
+        "num": 201415,
+        "word": "全运会",
+        "onboard_time": 1763184261,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188792,
+        "num": 188792,
+        "word": "王睡睡说张硕恋爱期间频繁联系前任",
+        "onboard_time": 1763183060,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184439,
+        "num": 184439,
+        "word": "樊振东第二局11比9",
+        "onboard_time": 1763184261,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169916,
+        "num": 169916,
+        "word": "林诗栋vs袁励岑",
+        "onboard_time": 1763182942,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164552,
+        "num": 164552,
+        "word": "Uzi训练量堪比职业",
+        "onboard_time": 1763178919,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162670,
+        "num": 162670,
+        "word": "美国将拒绝胖子入境",
+        "onboard_time": 1763183181,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151190,
+        "num": 151190,
+        "word": "勇士vs马刺",
+        "onboard_time": 1763184921,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104804,
+        "num": 146864,
+        "word": "央美抄袭学生奖学金公示不予通过",
+        "onboard_time": 1763183181,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123913,
+        "num": 144891,
+        "word": "惊天魔盗团 替天行盗",
+        "onboard_time": 1763185221,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31920,
+        "num": 144792,
+        "word": "胡先煦 沈腾化成灰都能认出来",
+        "onboard_time": 1763184741,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144757,
+        "num": 144757,
+        "word": "就算你是皇帝也得受岳父的气",
+        "onboard_time": 1763184680,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128320,
+        "num": 128320,
+        "word": "库里开启乱穿鞋时代",
+        "onboard_time": 1763175200,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123217,
+        "num": 123217,
+        "word": "内娱终于拍了成年人的暖昧拉扯",
+        "onboard_time": 1763185041,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121590,
+        "num": 121590,
+        "word": "哈登41分三双",
+        "onboard_time": 1763184142,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120936,
+        "num": 120936,
+        "word": "半决赛樊振东vs王楚钦",
+        "onboard_time": 1763167160,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120273,
+        "num": 120273,
+        "word": "一个贪财一个图色凑上了",
+        "onboard_time": 1763181620,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105593,
+        "num": 105593,
+        "word": "影视飓风Tim回应相亲争议",
+        "onboard_time": 1763168000,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 101326,
+        "num": 101326,
+        "word": "时代少年团 二开",
+        "onboard_time": 1763175501,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98566,
+        "num": 98566,
+        "word": "王楚钦爸爸现场来看比赛",
+        "onboard_time": 1763180960,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98476,
+        "num": 98476,
+        "word": "小米分享6G研究成果",
+        "onboard_time": 1763185281,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}
