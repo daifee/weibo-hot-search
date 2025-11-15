@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763185314461,
+  "endTime": 1763188582876,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2003,6 +2003,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7358127,
+      "num": 7358127,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763180301,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 7289283,
       "num": 7289283,
       "word": "印度坠机事故中发现一名幸存者",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1738663943,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 6990507,
+      "num": 6990507,
+      "word": "樊振东4比2王楚钦",
+      "onboard_time": 1763186006,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 6975199,
@@ -2385,22 +2401,6 @@
       "onboard_time": 1759073545,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 5278509,
-      "num": 3677090,
-      "word": "赵雅芝叶童太配了",
-      "onboard_time": 1738067987,
-      "rank": 7,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 5151427,
-      "num": 1693005,
-      "word": "吴佩慈医院送大S最后一程",
-      "onboard_time": 1738577307,
-      "rank": 10,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

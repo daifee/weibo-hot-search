@@ -1,13 +1,21 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763185314461,
+  "endTime": 1763188582876,
   "band_list": [
     {
-      "raw_hot": 4619266,
-      "num": 4619266,
+      "raw_hot": 7358127,
+      "num": 7358127,
       "word": "王楚钦vs樊振东",
       "onboard_time": 1763180301,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 6990507,
+      "num": 6990507,
+      "word": "樊振东4比2王楚钦",
+      "onboard_time": 1763186006,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -17,6 +25,14 @@
       "onboard_time": 1763177542,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1702680,
+      "num": 682221,
+      "word": "李晓霞高菡解说",
+      "onboard_time": 1763184680,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1672025,
@@ -83,19 +99,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 682221,
-      "num": 682221,
-      "word": "李晓霞高菡解说",
-      "onboard_time": 1763184680,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 669046,
       "num": 211720,
       "word": "朱珠白发",
       "onboard_time": 1763176459,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 648761,
+      "num": 180910,
+      "word": "女生要帅哥微信回家发现是宋威龙",
+      "onboard_time": 1763185947,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 496331,
+      "num": 213935,
+      "word": "迪丽热巴直播",
+      "onboard_time": 1763185701,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 471519,
       "num": 230526,
       "word": "曝上拉如肇事逃逸",
@@ -153,6 +177,14 @@
       "onboard_time": 1763129723,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467310,
+      "num": 467310,
+      "word": "美国将拒绝胖子入境",
+      "onboard_time": 1763183181,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 454088,
@@ -203,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 378355,
+      "num": 378355,
+      "word": "林诗栋vs袁励岑",
+      "onboard_time": 1763182942,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 375159,
       "num": 127582,
       "word": "易烊千玺段奥娟同桌",
@@ -240,6 +280,14 @@
       "word": "半决赛樊振东vs王楚钦",
       "onboard_time": 1763167160,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 331672,
+      "num": 331672,
+      "word": "樊振东坚定眼神是定海神针",
+      "onboard_time": 1763186662,
+      "rank": 6,
       "category": "体育"
     },
     {
@@ -347,6 +395,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 267594,
+      "num": 267594,
+      "word": "王楚钦止步全运会四强",
+      "onboard_time": 1763187742,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 263616,
       "num": 263616,
       "word": "全运会历史首个跨境马拉松何杰夺冠",
@@ -379,6 +435,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 255673,
+      "num": 255673,
+      "word": "张晚意录制第一天就想关监控",
+      "onboard_time": 1763183782,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 253384,
       "num": 226797,
       "word": "五个严重日本听懂了吗",
@@ -393,14 +457,6 @@
       "onboard_time": 1763163918,
       "rank": 12,
       "category": "美食"
-    },
-    {
-      "raw_hot": 245897,
-      "num": 245897,
-      "word": "张晚意录制第一天就想关监控",
-      "onboard_time": 1763183782,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 240711,
@@ -452,7 +508,7 @@
     },
     {
       "raw_hot": 223438,
-      "num": 995769,
+      "num": 3834987,
       "word": "航天员带回近100斤太空特产",
       "onboard_time": 1763165119,
       "rank": 5,
@@ -595,12 +651,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179898,
+      "num": 179898,
+      "word": "樊振东连续四届晋级全运会决赛",
+      "onboard_time": 1763188223,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175637,
       "num": 175637,
       "word": "马拉松",
       "onboard_time": 1763170280,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175545,
+      "num": 181284,
+      "word": "新闻女王 承认观众是成年人",
+      "onboard_time": 1763187921,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 173956,
@@ -627,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 169916,
-      "num": 238584,
-      "word": "林诗栋vs袁励岑",
-      "onboard_time": 1763182942,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168282,
       "num": 168282,
       "word": "家长视频复活27岁女儿后再添新丁",
@@ -643,20 +707,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 167935,
+      "num": 167935,
+      "word": "王楚钦樊振东都去换球衣了",
+      "onboard_time": 1763187802,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 165596,
+      "num": 165596,
+      "word": "日方切莫误判中方发出的严正警告",
+      "onboard_time": 1763185581,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164183,
       "num": 164183,
       "word": "王俊凯官宣话剧趁世界还年青",
       "onboard_time": 1763172859,
       "rank": 34,
       "category": "演出"
-    },
-    {
-      "raw_hot": 162670,
-      "num": 162670,
-      "word": "美国将拒绝胖子入境",
-      "onboard_time": 1763183181,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 160994,
@@ -707,6 +779,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 153599,
+      "num": 228139,
+      "word": "公务员录用体检标准放宽",
+      "onboard_time": 1763184382,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153170,
       "num": 153170,
       "word": "固体杨枝甘露在韩推上引起讨论",
@@ -720,6 +800,22 @@
       "word": "勇士vs马刺",
       "onboard_time": 1763184921,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151030,
+      "num": 180955,
+      "word": "花儿与少年同心季",
+      "onboard_time": 1763188162,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 149348,
+      "num": 149348,
+      "word": "樊振东打进决赛",
+      "onboard_time": 1763187144,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -761,6 +857,14 @@
       "onboard_time": 1763141176,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 138797,
+      "num": 138797,
+      "word": "国创动画发布会你是懂预告的",
+      "onboard_time": 1763187802,
+      "rank": 35,
+      "category": "动漫"
     },
     {
       "raw_hot": 138168,
@@ -819,6 +923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132002,
+      "num": 180310,
+      "word": "姜潮想让儿子在婚礼上打架子鼓",
+      "onboard_time": 1763187981,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131923,
       "num": 131923,
       "word": "刘诗雯6战全运会摘金",
@@ -851,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126182,
+      "num": 126182,
+      "word": "刘浩存像考上村官的大学生",
+      "onboard_time": 1763188342,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126013,
       "num": 156807,
       "word": "极氪9X执行神舟返回保障任务画面曝光",
@@ -875,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124115,
+      "num": 180628,
+      "word": "央视起底2名台独打手",
+      "onboard_time": 1763186783,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123913,
       "num": 144891,
       "word": "惊天魔盗团 替天行盗",
@@ -891,12 +1019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123182,
+      "num": 123182,
+      "word": "樊振东赢了王楚钦",
+      "onboard_time": 1763187022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121749,
       "num": 121749,
       "word": "金饰克价跌破1300元",
       "onboard_time": 1763173040,
       "rank": 30,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121693,
+      "num": 121693,
+      "word": "多特教练希望樊振东夺冠",
+      "onboard_time": 1763186604,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 121590,
@@ -995,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111475,
+      "num": 111475,
+      "word": "樊王大战6局只差10分",
+      "onboard_time": 1763188401,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110343,
       "num": 110343,
       "word": "钟嘉欣曾说不要因为结婚而结婚",
@@ -1008,6 +1160,22 @@
       "word": "广东队诗与远方夺冠",
       "onboard_time": 1763135602,
       "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 109406,
+      "num": 109406,
+      "word": "夏磊给许墨庆生",
+      "onboard_time": 1763188223,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 109133,
+      "num": 109133,
+      "word": "库里49分",
+      "onboard_time": 1763185641,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -1091,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101898,
+      "num": 107778,
+      "word": "王玉雯 美人鱼塑",
+      "onboard_time": 1763188223,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 101186,
       "num": 129430,
       "word": "92岁老人父亲节睡梦中被邻居杀害",
@@ -1169,14 +1345,6 @@
       "onboard_time": 1763179400,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95200,
-      "num": 228139,
-      "word": "公务员录用体检标准放宽",
-      "onboard_time": 1763184382,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92591,
@@ -1337,6 +1505,14 @@
       "onboard_time": 1763135781,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79785,
+      "num": 121797,
+      "word": "斥资1亿打造人造月亮停运5年",
+      "onboard_time": 1763186422,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79594,
@@ -1763,6 +1939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27826,
+      "num": 121965,
+      "word": "美国男子险些被宠物狗击毙",
+      "onboard_time": 1763188521,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26850,
       "num": 104959,
       "word": "夏之光你接的是正经活吗",
@@ -1793,6 +1977,14 @@
       "onboard_time": 1763162599,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 24389,
+      "num": 124468,
+      "word": "王橹杰你每天就这样梳头吗",
+      "onboard_time": 1763188040,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 23432,
