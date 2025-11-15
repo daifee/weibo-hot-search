@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763239161420,
+  "endTime": 1763241724139,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -491,6 +491,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 27644,
+      "num": 27644,
+      "word": "易烊千玺获奖感言",
+      "onboard_time": 1763240894,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26178,
       "num": 32039,
       "word": "供暖",
@@ -515,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20533,
+      "num": 25367,
+      "word": "刘宇宁开场爆闪",
+      "onboard_time": 1763241074,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19986,
       "num": 32022,
       "word": "上海男团1比0北京男团",
@@ -524,11 +540,19 @@
     },
     {
       "raw_hot": 19953,
-      "num": 24367,
+      "num": 25348,
       "word": "高市早苗言行引发中俄朝韩四国不满",
       "onboard_time": 1763235494,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18433,
+      "num": 25344,
+      "word": "你告诉我这是毛晓彤",
+      "onboard_time": 1763238075,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 18307,
@@ -540,7 +564,7 @@
     },
     {
       "raw_hot": 16110,
-      "num": 24359,
+      "num": 25276,
       "word": "王一博探索新境2官宣节奏",
       "onboard_time": 1763237474,
       "rank": 44,
@@ -548,19 +572,11 @@
     },
     {
       "raw_hot": 16109,
-      "num": 24356,
+      "num": 25296,
       "word": "出走的决心",
       "onboard_time": 1763217328,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15506,
-      "num": 24354,
-      "word": "你告诉我这是毛晓彤",
-      "onboard_time": 1763238075,
-      "rank": 49,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
