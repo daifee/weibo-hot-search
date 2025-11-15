@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763216592483,
+  "endTime": 1763217625212,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -585,6 +585,14 @@
       "onboard_time": 1762780280,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1434848,
+      "num": 417335,
+      "word": "袁弘 帝后",
+      "onboard_time": 1763216068,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 1429862,
@@ -1185,6 +1193,14 @@
       "onboard_time": 1762670000,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1044252,
+      "num": 337876,
+      "word": "好东西金鸡最佳故事片",
+      "onboard_time": 1763216789,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 1038708,
@@ -1987,6 +2003,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 786404,
+      "num": 412398,
+      "word": "咏梅 陪跑",
+      "onboard_time": 1763216310,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 786372,
       "num": 227681,
       "word": "陈昊宇 满头白发",
@@ -2041,6 +2065,14 @@
       "onboard_time": 1762843100,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 777243,
+      "num": 438704,
+      "word": "哪吒没来领奖",
+      "onboard_time": 1763214149,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 775494,
@@ -2747,6 +2779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 677806,
+      "num": 432482,
+      "word": "好东西",
+      "onboard_time": 1763209345,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 677715,
       "num": 252763,
       "word": "关晓彤掉了好多头发",
@@ -3289,14 +3329,6 @@
       "onboard_time": 1762782682,
       "rank": 20,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 623778,
-      "num": 438704,
-      "word": "哪吒没来领奖",
-      "onboard_time": 1763214149,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 621968,
@@ -4627,14 +4659,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 511203,
-      "num": 432482,
-      "word": "好东西",
-      "onboard_time": 1763209345,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 510607,
       "num": 323628,
       "word": "九阳豆浆回应被指玩虐猫梗",
@@ -4769,6 +4793,14 @@
       "onboard_time": 1763035761,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 500947,
+      "num": 265739,
+      "word": "霍思燕说朵朵早晚接陈思诚的班",
+      "onboard_time": 1763217149,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 500363,
@@ -4945,14 +4977,6 @@
       "onboard_time": 1762172003,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 491058,
-      "num": 417335,
-      "word": "袁弘 帝后",
-      "onboard_time": 1763216068,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 490416,
@@ -5835,6 +5859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 438879,
+      "num": 258099,
+      "word": "陈思诚戴墨金鸡奖最佳导演",
+      "onboard_time": 1763216430,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 438867,
       "num": 181281,
       "word": "最好吃的苹果方式",
@@ -6289,14 +6321,6 @@
       "onboard_time": 1762419322,
       "rank": 9,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 412398,
-      "num": 412398,
-      "word": "咏梅 陪跑",
-      "onboard_time": 1763216310,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 412026,
@@ -8051,6 +8075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339182,
+      "num": 321964,
+      "word": "上拉如酒后肇事逃逸被刑拘",
+      "onboard_time": 1763215352,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 338373,
       "num": 272718,
       "word": "王鹤棣或将空档四个月",
@@ -8475,6 +8507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 325562,
+      "num": 446626,
+      "word": "日本民众围堵首相官邸要求高市下台",
+      "onboard_time": 1763216131,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 325186,
       "num": 325186,
       "word": "iPhone18Pro升级工艺",
@@ -8745,14 +8785,6 @@
       "onboard_time": 1762695982,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 316846,
-      "num": 316846,
-      "word": "上拉如酒后肇事逃逸被刑拘",
-      "onboard_time": 1763215352,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 316534,
@@ -10347,20 +10379,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 274857,
-      "num": 225189,
-      "word": "陈思诚戴墨金鸡奖最佳导演",
-      "onboard_time": 1763216430,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 274854,
       "num": 178277,
       "word": "老外眼中的安卓手机",
       "onboard_time": 1762407801,
       "rank": 17,
       "category": "数码"
+    },
+    {
+      "raw_hot": 274681,
+      "num": 274681,
+      "word": "孙颖莎4比1战胜朱雨玲",
+      "onboard_time": 1763217388,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 274411,
@@ -12211,6 +12243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227800,
+      "num": 227800,
+      "word": "朱雨玲vs陈梦",
+      "onboard_time": 1763216908,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227795,
       "num": 111041,
       "word": "男子回家发现床上躺着陌生男女",
@@ -13243,6 +13283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211923,
+      "num": 211923,
+      "word": "豆瓣崩了",
+      "onboard_time": 1763217328,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 211845,
       "num": 161828,
       "word": "樊振东7比11王楚钦",
@@ -13683,6 +13731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206567,
+      "num": 206567,
+      "word": "破地狱",
+      "onboard_time": 1763217566,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 206424,
       "num": 206424,
       "word": "新闻女王2李施嬅饰演的张家妍",
@@ -13833,6 +13889,14 @@
       "onboard_time": 1762396101,
       "rank": 26,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 204687,
+      "num": 204687,
+      "word": "杨力维哭了",
+      "onboard_time": 1763216251,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 204535,
@@ -14129,6 +14193,14 @@
       "onboard_time": 1762335801,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 201630,
+      "num": 201630,
+      "word": "出走的决心",
+      "onboard_time": 1763217328,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 201607,
@@ -15393,14 +15465,6 @@
       "onboard_time": 1762744999,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 190461,
-      "num": 201160,
-      "word": "杨力维哭了",
-      "onboard_time": 1763216251,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 190410,
@@ -42371,6 +42435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81066,
+      "num": 228791,
+      "word": "刘宇宁话筒粘手套上了",
+      "onboard_time": 1763217388,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 81050,
       "num": 81050,
       "word": "当留子回国还没换算汇率",
@@ -47219,6 +47291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61807,
+      "num": 229889,
+      "word": "周深被臭鳜鱼困住了",
+      "onboard_time": 1763217208,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 61792,
       "num": 61792,
       "word": "这一刻广东没有主客场",
@@ -49723,6 +49803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 46248,
+      "num": 424712,
+      "word": "长崎欲修改南京大屠杀表述",
+      "onboard_time": 1763216251,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46238,
       "num": 112637,
       "word": "被大自然的调色盘惊艳到了",
@@ -51019,14 +51107,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 37948,
-      "num": 446626,
-      "word": "日本民众围堵首相官邸要求高市下台",
-      "onboard_time": 1763216131,
-      "rank": 10,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 37941,
       "num": 50996,
       "word": "369致歉",
@@ -51377,6 +51457,14 @@
       "onboard_time": 1762846280,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35333,
+      "num": 273902,
+      "word": "周翊然白马王子既视感",
+      "onboard_time": 1763216968,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 35276,
@@ -52323,6 +52411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29790,
+      "num": 253194,
+      "word": "网友扎堆晒赴日机票退票成功记录",
+      "onboard_time": 1763217448,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29720,
       "num": 106885,
       "word": "南京一初中生疑运动会跑200米猝死",
@@ -53073,14 +53169,6 @@
       "onboard_time": 1762859060,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24958,
-      "num": 424712,
-      "word": "长崎欲修改南京大屠杀表述",
-      "onboard_time": 1763216251,
-      "rank": 20,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 24948,

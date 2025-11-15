@@ -1,0 +1,410 @@
+{
+  "runTime": 1763217625212,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 12542349,
+        "num": 12542349,
+        "word": "易烊千玺金鸡影帝",
+        "onboard_time": 1763214210,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1249585,
+        "num": 1249585,
+        "word": "王曼昱4比0陈梦",
+        "onboard_time": 1763213307,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32443,
+        "num": 1017649,
+        "word": "十五运会赛场外步步生花",
+        "onboard_time": 1763213367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7491117,
+        "num": 7491117,
+        "word": "宋佳金鸡影后",
+        "onboard_time": 1763214998,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 838494,
+        "num": 838494,
+        "word": "高市早苗让日本国家承担代价",
+        "onboard_time": 1763206825,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 587353,
+        "num": 587353,
+        "word": "浙江公厕被打女孩确诊白血病",
+        "onboard_time": 1763211207,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4697662,
+        "num": 587063,
+        "word": "金鸡奖",
+        "onboard_time": 1763207482,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 582341,
+        "num": 582341,
+        "word": "孙颖莎朱雨玲爆分",
+        "onboard_time": 1763214210,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 433635,
+        "num": 433635,
+        "word": "许昕0比3王楚钦",
+        "onboard_time": 1763212587,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 350586,
+        "num": 350586,
+        "word": "樊振东4比2王楚钦",
+        "onboard_time": 1763186006,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1646844,
+        "num": 346155,
+        "word": "金鸡奖获奖名单",
+        "onboard_time": 1763207422,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1434848,
+        "num": 338845,
+        "word": "袁弘 帝后",
+        "onboard_time": 1763216068,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1044252,
+        "num": 337876,
+        "word": "好东西金鸡最佳故事片",
+        "onboard_time": 1763216789,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 945321,
+        "num": 329766,
+        "word": "易烊千玺听到尖叫声没憋住笑了",
+        "onboard_time": 1763212708,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325562,
+        "num": 325562,
+        "word": "日本民众围堵首相官邸要求高市下台",
+        "onboard_time": 1763216131,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 786404,
+        "num": 323990,
+        "word": "咏梅 陪跑",
+        "onboard_time": 1763216310,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 339182,
+        "num": 321964,
+        "word": "上拉如酒后肇事逃逸被刑拘",
+        "onboard_time": 1763215352,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285258,
+        "num": 285258,
+        "word": "日本这次的借口与侵华时如出一辙",
+        "onboard_time": 1763203222,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274681,
+        "num": 274681,
+        "word": "孙颖莎4比1战胜朱雨玲",
+        "onboard_time": 1763217388,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35333,
+        "num": 273902,
+        "word": "周翊然白马王子既视感",
+        "onboard_time": 1763216968,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 777243,
+        "num": 272539,
+        "word": "哪吒没来领奖",
+        "onboard_time": 1763214149,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 677806,
+        "num": 269545,
+        "word": "好东西",
+        "onboard_time": 1763209345,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46248,
+        "num": 268682,
+        "word": "长崎欲修改南京大屠杀表述",
+        "onboard_time": 1763216251,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 592118,
+        "num": 266857,
+        "word": "小小的我",
+        "onboard_time": 1763210785,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 500947,
+        "num": 265739,
+        "word": "霍思燕说朵朵早晚接陈思诚的班",
+        "onboard_time": 1763217149,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 474562,
+        "num": 264110,
+        "word": "狂野时代",
+        "onboard_time": 1763215291,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468206,
+        "num": 260829,
+        "word": "惠英红三金影后女配都只差金鸡",
+        "onboard_time": 1763212526,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 463218,
+        "num": 260679,
+        "word": "钟楚曦 我现在就是昂首挺胸的",
+        "onboard_time": 1763212407,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 438879,
+        "num": 258099,
+        "word": "陈思诚戴墨金鸡奖最佳导演",
+        "onboard_time": 1763216430,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 353945,
+        "num": 256511,
+        "word": "倪妮主持好大气",
+        "onboard_time": 1763214514,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 332984,
+        "num": 254201,
+        "word": "朱一龙帮宋佳摘掉黏在背上的姓名贴",
+        "onboard_time": 1763209406,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29790,
+        "num": 253194,
+        "word": "网友扎堆晒赴日机票退票成功记录",
+        "onboard_time": 1763217448,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 316631,
+        "num": 251478,
+        "word": "水饺皇后 糖水伯",
+        "onboard_time": 1763210186,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 312100,
+        "num": 249751,
+        "word": "怜爱惠英红",
+        "onboard_time": 1763211565,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176834,
+        "num": 247126,
+        "word": "原来六公主也在关注华为新机",
+        "onboard_time": 1763213667,
+        "rank": 34,
+        "category": "电影,数码"
+      },
+      {
+        "raw_hot": 309536,
+        "num": 246635,
+        "word": "影帝背后的男人",
+        "onboard_time": 1763208624,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 245004,
+        "num": 245004,
+        "word": "陈梦vs王曼昱",
+        "onboard_time": 1763210846,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241349,
+        "num": 241349,
+        "word": "孙颖莎vs朱雨玲",
+        "onboard_time": 1763211026,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61807,
+        "num": 229889,
+        "word": "周深被臭鳜鱼困住了",
+        "onboard_time": 1763217208,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81066,
+        "num": 228791,
+        "word": "刘宇宁话筒粘手套上了",
+        "onboard_time": 1763217388,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227800,
+        "num": 227800,
+        "word": "朱雨玲vs陈梦",
+        "onboard_time": 1763216908,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 222693,
+        "num": 222693,
+        "word": "钟楚曦哭了",
+        "onboard_time": 1763207843,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220622,
+        "num": 220622,
+        "word": "许昕4比11王楚钦",
+        "onboard_time": 1763212467,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217797,
+        "num": 217797,
+        "word": "中方已做好对日实质反制准备",
+        "onboard_time": 1763203222,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214767,
+        "num": 214767,
+        "word": "现在就出发",
+        "onboard_time": 1763215472,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211923,
+        "num": 211923,
+        "word": "豆瓣崩了",
+        "onboard_time": 1763217328,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 206567,
+        "num": 206567,
+        "word": "破地狱",
+        "onboard_time": 1763217566,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204958,
+        "num": 204958,
+        "word": "孙杨自由泳接力",
+        "onboard_time": 1763213548,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204687,
+        "num": 204687,
+        "word": "杨力维哭了",
+        "onboard_time": 1763216251,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201630,
+        "num": 201630,
+        "word": "出走的决心",
+        "onboard_time": 1763217328,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
