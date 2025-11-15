@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/09 00:30:16 ~ 2025/11/15 17:37:45
+本榜单时间：2025/11/09 00:30:16 ~ 2025/11/15 18:26:09
 </p>
 </blockquote>
 <p>
@@ -113,6 +113,12 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%85%AD%E5%86%A0%E7%8E%8B%23" target="weibo">
 Faker六冠王（热度：1654581）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E5%8F%91%E7%9A%84%E4%B8%AD%E6%97%A5%E5%86%9B%E5%8A%9B%E6%AF%94%E8%BE%83%23" target="weibo">
+日本网友发的中日军力比较（热度：1645086）
 </a>
 </li>
 
@@ -627,6 +633,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%A5%96%E9%80%A0%E5%9E%8B%23" target="weibo">
+易烊千玺金鸡奖造型（热度：785525）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E8%88%B0%23" target="weibo">
 四川舰（热度：783263）
 </a>
@@ -665,6 +677,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%AD%E6%96%87%E7%9C%9F%E7%9A%84%E6%98%AF%E6%BB%9E%E5%90%8E%E6%80%A7%E5%BE%88%E5%BC%BA%E7%9A%84%E4%B8%80%E9%97%A8%E5%AD%A6%E7%A7%91%23" target="weibo">
 语文真的是滞后性很强的一门学科（热度：756837）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%8E%E7%90%B3%E5%90%A6%E8%AE%A4%E4%B8%8E%E7%BB%8F%E8%B6%85%E7%9B%B8%E5%B7%AE6%E5%B2%81%23" target="weibo">
+小李琳否认与经超相差6岁（热度：756311）
 </a>
 </li>
 
@@ -1677,6 +1695,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%AA%B3%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E6%8C%87%E9%80%A0%E6%88%903%E5%88%B05%E4%B8%87%E5%85%83%E6%8D%9F%E5%A4%B1%23" target="weibo">
+婆媳上厕所被指造成3到5万元损失（热度：482292）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B6%E7%9A%AE%E5%AD%90%E8%9B%8B%E7%B3%95%23" target="weibo">
 奶皮子蛋糕（热度：480624）
 </a>
@@ -2027,6 +2051,12 @@ k总老婆因经常喝热水食道被灼伤（热度：431857）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%BF%97%E8%83%9C%E7%A9%BF%E4%BA%86%E6%B2%88%E7%BE%BD%E6%B4%81%E7%9A%84%E8%A3%99%E5%AD%90%23" target="weibo">
 徐志胜穿了沈羽洁的裙子（热度：427761）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%9B%9E%E5%BA%94%E8%B5%A2%E5%90%8E%E6%B2%A1%E6%9C%89%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%23" target="weibo">
+樊振东回应赢后没有庆祝动作（热度：427722）
 </a>
 </li>
 
@@ -3015,12 +3045,6 @@ iPhone18Pro升级工艺（热度：325186）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%AA%B3%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E6%8C%87%E9%80%A0%E6%88%903%E5%88%B05%E4%B8%87%E5%85%83%E6%8D%9F%E5%A4%B1%23" target="weibo">
-婆媳上厕所被指造成3到5万元损失（热度：321729）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E5%8D%96%E5%A5%B6%E8%8C%B6%E8%A2%8B%E5%AD%90%E8%B5%9A%E4%BA%86%E4%B8%8A%E5%8D%83%E5%85%83%23" target="weibo">
 有人卖奶茶袋子赚了上千元（热度：321608）
 </a>
@@ -3035,6 +3059,12 @@ iPhone18Pro升级工艺（热度：325186）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8C%AB%E7%9F%A5%E9%81%93%E7%88%B7%E7%88%B7%E5%8E%BB%E4%B8%96%E4%BA%86%23" target="weibo">
 小猫知道爷爷去世了（热度：320238）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E5%AD%90%E8%B1%AAvs%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+赵子豪vs王楚钦（热度：319974）
 </a>
 </li>
 
@@ -3693,6 +3723,12 @@ Faker说Uzi是LPL最佳选手（热度：277726）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%A2%A6%E5%A9%95%E9%87%91%E9%B8%A1%E5%A5%B3%E7%A5%9E%E9%80%A0%E5%9E%8B%23" target="weibo">
+蒋梦婕金鸡女神造型（热度：275564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%E9%9F%B3%E4%B9%90%E8%8A%82%23" target="weibo">
 穆祉丞音乐节（热度：275502）
 </a>
@@ -4041,6 +4077,12 @@ Uzi训练量堪比职业（热度：259754）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8F%91%E5%A3%B0%23" target="weibo">
+日本3位前首相发声（热度：251050）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%A0%E6%B3%BD%E5%A4%A9%E5%B0%BD%E9%87%8F%E6%AF%8F%E5%A4%A97%E7%82%B9%E8%B5%B7%E5%BA%8A%23" target="weibo">
 章泽天尽量每天7点起床（热度：250106）
 </a>
@@ -4247,6 +4289,12 @@ Faker说这一冠不为任何人（热度：241886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E8%A2%AB%E4%B8%BB%E7%AE%A1%E6%80%A7%E4%BE%B5%E5%8F%88%E9%81%AD%E5%85%AC%E5%8F%B8%E7%B4%A2%E8%B5%9410%E4%B8%87%23" target="weibo">
 女主播被主管性侵又遭公司索赔10万（热度：236604）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E8%8A%B7%E8%95%BE%E7%B4%AB%E8%89%B2%E8%8A%B1%E6%9C%B5%E9%AB%98%E5%AE%9A%23" target="weibo">
+辛芷蕾紫色花朵高定（热度：235791）
 </a>
 </li>
 
@@ -4541,12 +4589,6 @@ KT对战T1决胜局（热度：222375）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E9%9B%AF%E6%89%93%E7%90%83%E5%A5%BD%E7%9C%8B%23" target="weibo">
 刘诗雯打球好看（热度：221125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%A2%A6%E5%A9%95%E9%87%91%E9%B8%A1%E5%A5%B3%E7%A5%9E%E9%80%A0%E5%9E%8B%23" target="weibo">
-蒋梦婕金鸡女神造型（热度：220916）
 </a>
 </li>
 
@@ -5505,12 +5547,6 @@ T1说未来继续向新的纪录发起挑战（热度：190777）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E9%87%91%E9%B8%A1%E5%A5%96%E9%80%A0%E5%9E%8B%23" target="weibo">
-易烊千玺金鸡奖造型（热度：188597）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E5%88%B6%E7%89%87%E4%BA%BA%23" target="weibo">
 将门毒后制片人（热度：188569）
 </a>
@@ -5525,6 +5561,12 @@ T1说未来继续向新的纪录发起挑战（热度：190777）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%86%B0%E5%86%B0%20%E7%8A%B6%E5%85%83%E9%83%8E%23" target="weibo">
 李冰冰 状元郎（热度：188463）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Faker%E5%A4%8D%E7%9B%98iG%E6%89%93T1%23" target="weibo">
+Faker复盘iG打T1（热度：188318）
 </a>
 </li>
 
@@ -5727,6 +5769,12 @@ A股逾百股涨停（热度：186433）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B93%E4%B8%AA%E6%9C%88%E5%B9%B2%E4%BA%86%E6%88%91%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
+她3个月干了我一辈子的工作（热度：184130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AB%E4%BB%99%E5%AD%90%23" target="weibo">
 八仙子（热度：183815）
 </a>
@@ -5807,6 +5855,12 @@ A股逾百股涨停（热度：186433）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC3%E6%A1%88%E4%B8%80%E9%9B%86%E4%B8%8B%E7%BA%BF3%E4%BA%BA%23" target="weibo">
 唐诡3第3案一集下线3人（热度：181936）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%B8%A1%E5%BD%B1%E5%B8%9D%E5%BD%B1%E5%90%8E%E7%BB%88%E6%9E%81%E9%A2%84%E6%B5%8B%23" target="weibo">
+金鸡影帝影后终极预测（热度：181897）
 </a>
 </li>
 
@@ -5979,6 +6033,12 @@ A股逾百股涨停（热度：186433）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%80%80%E7%A5%A8%E5%9B%9E%E6%B5%81%E9%80%9A%E7%9F%A5%23" target="weibo">
+时代少年团退票回流通知（热度：175966）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E9%BB%98%E4%B8%8D%E5%BE%97%E4%BA%86%E4%BA%86%E5%A4%A7%E5%AB%82%E9%83%BD%E6%95%A2%E8%BF%BD%23" target="weibo">
 老默不得了了大嫂都敢追（热度：175933）
 </a>
@@ -6077,12 +6137,6 @@ T1战胜KT（热度：175395）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%87%91%E7%9B%B4%E7%BA%BF%E6%9A%B4%E8%B7%8C%23" target="weibo">
 黄金直线暴跌（热度：172704）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E9%80%80%E7%A5%A8%E5%9B%9E%E6%B5%81%E9%80%9A%E7%9F%A5%23" target="weibo">
-时代少年团退票回流通知（热度：172663）
 </a>
 </li>
 
@@ -6255,6 +6309,12 @@ Faker 岩雀神（热度：172009）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%83%BD%E7%81%B5%E4%BA%AE%E7%9B%B8%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%23" target="weibo">
+陈都灵亮相金鸡奖闭幕式（热度：167456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B9%94%E6%81%A9%E6%A2%81%E9%9B%AA%E5%B3%B0%E8%BF%99%E6%AE%B5%E4%B8%80%E7%A7%92%E9%83%BD%E4%B8%8D%E7%94%A8%E5%89%AA%23" target="weibo">
 陈乔恩梁雪峰这段一秒都不用剪（热度：167149）
 </a>
@@ -6293,6 +6353,12 @@ Faker 岩雀神（热度：172009）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BC%9E%E5%85%B5%E9%9B%AA%E6%99%AF%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%A4%A7%E7%89%87%23" target="weibo">
 伞兵雪景氛围感大片（热度：166676）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E6%98%8E%E6%98%AFHE%E4%B8%BA%E4%BB%80%E4%B9%88%E6%AF%94BE%E8%BF%98%E9%9A%BE%E5%8F%97%23" target="weibo">
+明明是HE为什么比BE还难受（热度：166602）
 </a>
 </li>
 
@@ -7395,6 +7461,12 @@ iPhonePocket适配所有iPhone（热度：148025）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%8A%8A%E9%99%88%E5%8D%93%E7%92%87%E7%9A%84%E5%90%8D%E6%A2%97%E5%88%BB%E9%AA%A8%E5%AD%90%E9%87%8C%E4%BA%86%23" target="weibo">
+周深把陈卓璇的名梗刻骨子里了（热度：147741）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%87%A0%E5%B0%8F%E6%97%B6%E5%90%8E%E6%88%96%E5%86%8D%E6%AC%A1%E4%BA%A4%E6%89%8B%23" target="weibo">
 王楚钦樊振东几小时后或再次交手（热度：147719）
 </a>
@@ -7647,6 +7719,12 @@ Tabe力挺Shanks（热度：144427）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BA%E6%9C%AA%E6%9D%A5%E4%B9%9F%E8%A6%81%E7%BB%A7%E7%BB%AD%E5%8A%AA%E5%8A%9B%E5%86%B2%23" target="weibo">
+一诺未来也要继续努力冲（热度：142765）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E8%83%96%E5%B9%B4%E5%BA%A6%E8%BF%9B%E5%8F%96%E8%BF%90%E5%8A%A8%E5%91%98%23" target="weibo">
 小胖年度进取运动员（热度：142682）
 </a>
@@ -7847,6 +7925,12 @@ Flandre一诺合影拍立得（热度：141599）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E6%B1%BD%E8%BD%A610%E6%9C%88%E9%9B%B6%E5%94%AE%E9%94%80%E9%87%8F48654%E8%BE%86%23" target="weibo">
 小米汽车10月零售销量48654辆（热度：139344）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%98%95%E5%91%A8%E6%81%BAvs%E9%A9%AC%E9%BE%99%E9%BB%84%E5%8F%8B%E6%94%BF%23" target="weibo">
+许昕周恺vs马龙黄友政（热度：139176）
 </a>
 </li>
 
@@ -8145,6 +8229,12 @@ Milkyway 泄露BP（热度：135982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%90%89%E7%90%83%E5%8E%9F%E4%BD%8F%E6%B0%91%E8%AF%B4%E7%90%89%E7%90%83%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%97%A5%E6%9C%AC%23" target="weibo">
+琉球原住民说琉球不属于日本（热度：135467）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A1%E6%9C%89%E8%87%AA%E5%B7%B1%E7%9A%84%E8%8E%9E%E8%8E%9E%E7%B1%BB%E5%8D%BF%23" target="weibo">
 唐诡有自己的莞莞类卿（热度：135288）
 </a>
@@ -8399,12 +8489,6 @@ Viper目前被LPL和LCK战队疯抢（热度：134476）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%8E%E4%BB%B7%E9%93%B6%E8%A1%8C%E7%9B%B4%E4%BE%9B%E6%88%BF%E6%95%B0%E9%87%8F%E6%BF%80%E5%A2%9E%23" target="weibo">
 低价银行直供房数量激增（热度：132095）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%90%89%E7%90%83%E5%8E%9F%E4%BD%8F%E6%B0%91%E8%AF%B4%E7%90%89%E7%90%83%E4%B8%8D%E5%B1%9E%E4%BA%8E%E6%97%A5%E6%9C%AC%23" target="weibo">
-琉球原住民说琉球不属于日本（热度：132045）
 </a>
 </li>
 
@@ -8823,6 +8907,12 @@ T1冠军奖金100万美元（热度：126712）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E8%B5%9B%E7%A8%8B%23" target="weibo">
+全运会赛程（热度：126670）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%83%E7%91%9E%E5%90%89vs%E5%B8%83%E7%91%9E%E5%90%89%23" target="weibo">
 布瑞吉vs布瑞吉（热度：126613）
 </a>
@@ -8945,6 +9035,12 @@ FPX.ZQ对战Gr（热度：126399）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%B0%9A%E6%B4%99%E9%80%80%E5%BD%B9%23" target="weibo">
 李尚洙退役（热度：125412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E7%9B%8E%E7%84%B6%E7%BB%BF%E7%8E%AB%E7%91%B0%23" target="weibo">
+关晓彤盎然绿玫瑰（热度：125323）
 </a>
 </li>
 
@@ -9323,12 +9419,6 @@ iPhone新配件1299元起售（热度：122716）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23LOL%E7%AC%AC%E4%B8%80%E4%BA%BAFaker%E4%B9%9F%E9%9C%80%E8%A6%81%E9%87%8D%E6%96%B0%E9%80%82%E5%BA%94%23" target="weibo">
 LOL第一人Faker也需要重新适应（热度：121853）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B93%E4%B8%AA%E6%9C%88%E5%B9%B2%E4%BA%86%E6%88%91%E4%B8%80%E8%BE%88%E5%AD%90%E7%9A%84%E5%B7%A5%E4%BD%9C%23" target="weibo">
-她3个月干了我一辈子的工作（热度：121796）
 </a>
 </li>
 
@@ -17663,6 +17753,12 @@ Faker回应三连冠（热度：36772）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%9E%E7%87%83%E4%B9%8B%E5%A4%9C%E4%BA%BA%E6%89%8B%E4%B8%80%E5%8F%B0iQOO15%23" target="weibo">
 竞燃之夜人手一台iQOO15（热度：36714）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BA%8C%E5%8D%81%E4%B9%98%E7%BB%84204%E5%A4%A9%E5%A4%AA%E7%A9%BA%E4%B9%8B%E6%97%85%E5%85%A8%E5%9B%9E%E9%A1%BE%23" target="weibo">
+神二十乘组204天太空之旅全回顾（热度：36596）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1762619416269,
-  "endTime": 1763199465335,
+  "endTime": 1763202369386,
   "band_list": [
     {
       "raw_hot": 9324816,
@@ -137,6 +137,14 @@
       "onboard_time": 1762690584,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1645086,
+      "num": 274757,
+      "word": "日本网友发的中日军力比较",
+      "onboard_time": 1763200821,
+      "rank": 10,
+      "category": "军事"
     },
     {
       "raw_hot": 1583422,
@@ -819,6 +827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 785525,
+      "num": 785525,
+      "word": "易烊千玺金鸡奖造型",
+      "onboard_time": 1763199201,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 783263,
       "num": 783263,
       "word": "四川舰",
@@ -873,6 +889,14 @@
       "onboard_time": 1762833141,
       "rank": 15,
       "category": "教育"
+    },
+    {
+      "raw_hot": 756311,
+      "num": 196912,
+      "word": "小李琳否认与经超相差6岁",
+      "onboard_time": 1763201302,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 755616,
@@ -2219,6 +2243,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 482292,
+      "num": 274635,
+      "word": "婆媳上厕所被指造成3到5万元损失",
+      "onboard_time": 1763194822,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480624,
       "num": 480624,
       "word": "奶皮子蛋糕",
@@ -2689,6 +2721,14 @@
       "onboard_time": 1762916419,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 427722,
+      "num": 194087,
+      "word": "樊振东回应赢后没有庆祝动作",
+      "onboard_time": 1763201603,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 426958,
@@ -4003,14 +4043,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 321729,
-      "num": 268177,
-      "word": "婆媳上厕所被指造成3到5万元损失",
-      "onboard_time": 1763194822,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 321608,
       "num": 248304,
       "word": "有人卖奶茶袋子赚了上千元",
@@ -4033,6 +4065,14 @@
       "onboard_time": 1762677801,
       "rank": 15,
       "category": "情感"
+    },
+    {
+      "raw_hot": 319974,
+      "num": 273632,
+      "word": "赵子豪vs王楚钦",
+      "onboard_time": 1763200523,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 319135,
@@ -4907,6 +4947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275564,
+      "num": 275564,
+      "word": "蒋梦婕金鸡女神造型",
+      "onboard_time": 1763197582,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 275502,
       "num": 275502,
       "word": "穆祉丞音乐节",
@@ -5371,6 +5419,14 @@
       "category": "体育,国内时政"
     },
     {
+      "raw_hot": 251050,
+      "num": 251050,
+      "word": "日本3位前首相发声",
+      "onboard_time": 1763201721,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 250106,
       "num": 143445,
       "word": "章泽天尽量每天7点起床",
@@ -5649,6 +5705,14 @@
       "onboard_time": 1762706059,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235791,
+      "num": 235791,
+      "word": "辛芷蕾紫色花朵高定",
+      "onboard_time": 1763200821,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 235455,
@@ -6041,14 +6105,6 @@
       "onboard_time": 1763133023,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 220916,
-      "num": 220916,
-      "word": "蒋梦婕金鸡女神造型",
-      "onboard_time": 1763197582,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 220908,
@@ -7323,14 +7379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 188597,
-      "num": 188597,
-      "word": "易烊千玺金鸡奖造型",
-      "onboard_time": 1763199201,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 188569,
       "num": 179179,
       "word": "将门毒后制片人",
@@ -7353,6 +7401,14 @@
       "onboard_time": 1763007739,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188318,
+      "num": 188318,
+      "word": "Faker复盘iG打T1",
+      "onboard_time": 1763200821,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 188300,
@@ -7619,6 +7675,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184130,
+      "num": 184130,
+      "word": "她3个月干了我一辈子的工作",
+      "onboard_time": 1763198481,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 183815,
       "num": 169857,
       "word": "八仙子",
@@ -7729,6 +7793,14 @@
       "onboard_time": 1762951580,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181897,
+      "num": 181897,
+      "word": "金鸡影帝影后终极预测",
+      "onboard_time": 1763202322,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 181823,
@@ -7955,6 +8027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175966,
+      "num": 175966,
+      "word": "时代少年团退票回流通知",
+      "onboard_time": 1763197400,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
       "raw_hot": 175933,
       "num": 169968,
       "word": "老默不得了了大嫂都敢追",
@@ -8089,14 +8169,6 @@
       "onboard_time": 1763163499,
       "rank": 44,
       "category": "财经"
-    },
-    {
-      "raw_hot": 172663,
-      "num": 172663,
-      "word": "时代少年团退票回流通知",
-      "onboard_time": 1763197400,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 172514,
@@ -8323,6 +8395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167456,
+      "num": 178359,
+      "word": "陈都灵亮相金鸡奖闭幕式",
+      "onboard_time": 1763200161,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167149,
       "num": 167149,
       "word": "陈乔恩梁雪峰这段一秒都不用剪",
@@ -8377,6 +8457,14 @@
       "onboard_time": 1763012600,
       "rank": 16,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166602,
+      "num": 166602,
+      "word": "明明是HE为什么比BE还难受",
+      "onboard_time": 1763201603,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 166555,
@@ -8772,7 +8860,7 @@
     },
     {
       "raw_hot": 161159,
-      "num": 148847,
+      "num": 157844,
       "word": "实体店女装",
       "onboard_time": 1763196742,
       "rank": 30,
@@ -9843,6 +9931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147741,
+      "num": 147741,
+      "word": "周深把陈卓璇的名梗刻骨子里了",
+      "onboard_time": 1763201721,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147719,
       "num": 147719,
       "word": "王楚钦樊振东几小时后或再次交手",
@@ -10179,6 +10275,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142765,
+      "num": 142765,
+      "word": "一诺未来也要继续努力冲",
+      "onboard_time": 1763201603,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 142682,
       "num": 142682,
       "word": "小胖年度进取运动员",
@@ -10449,6 +10553,14 @@
       "onboard_time": 1762785503,
       "rank": 32,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139176,
+      "num": 139176,
+      "word": "许昕周恺vs马龙黄友政",
+      "onboard_time": 1763201002,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 139009,
@@ -10843,6 +10955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135467,
+      "num": 135467,
+      "word": "琉球原住民说琉球不属于日本",
+      "onboard_time": 1763199321,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 135288,
       "num": 168983,
       "word": "唐诡有自己的莞莞类卿",
@@ -11185,14 +11305,6 @@
       "onboard_time": 1762743858,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 132045,
-      "num": 132045,
-      "word": "琉球原住民说琉球不属于日本",
-      "onboard_time": 1763199321,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 132027,
@@ -11747,6 +11859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126670,
+      "num": 126670,
+      "word": "全运会赛程",
+      "onboard_time": 1763200882,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "布瑞吉vs布瑞吉",
@@ -11913,6 +12033,14 @@
       "onboard_time": 1762770560,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125323,
+      "num": 125323,
+      "word": "关晓彤盎然绿玫瑰",
+      "onboard_time": 1763202082,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 125239,
@@ -12417,14 +12545,6 @@
       "onboard_time": 1762749980,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 121796,
-      "num": 121796,
-      "word": "她3个月干了我一辈子的工作",
-      "onboard_time": 1763198481,
-      "rank": 44,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 121749,
@@ -23537,6 +23657,14 @@
       "onboard_time": 1763028259,
       "rank": 19,
       "category": "体育,数码"
+    },
+    {
+      "raw_hot": 36596,
+      "num": 1058335,
+      "word": "神二十乘组204天太空之旅全回顾",
+      "onboard_time": 1763201541,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 36541,
