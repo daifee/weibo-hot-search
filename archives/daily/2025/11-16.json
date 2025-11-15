@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763234368988,
+  "endTime": 1763235408294,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -483,8 +483,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 30542,
+      "num": 32037,
+      "word": "陈建斌扶住了差点被绊倒的蒋勤勤",
+      "onboard_time": 1763234115,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26178,
-      "num": 30244,
+      "num": 32039,
       "word": "供暖",
       "onboard_time": 1763231715,
       "rank": 34,
@@ -507,12 +515,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23109,
-      "num": 30148,
-      "word": "陈建斌扶住了差点被绊倒的蒋勤勤",
-      "onboard_time": 1763234115,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 19986,
+      "num": 32022,
+      "word": "上海男团1比0北京男团",
+      "onboard_time": 1763234474,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18307,
+      "num": 32021,
+      "word": "鹤男 公主从隧道跑到了轮渡",
+      "onboard_time": 1763235074,
+      "rank": 47,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
