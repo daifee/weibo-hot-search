@@ -1,0 +1,410 @@
+{
+  "runTime": 1763234368988,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 217538,
+        "num": 217538,
+        "word": "易烊千玺金鸡影帝",
+        "onboard_time": 1763214210,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 199216,
+        "num": 199216,
+        "word": "高市早苗让日本国家承担代价",
+        "onboard_time": 1763206825,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11128,
+        "num": 124396,
+        "word": "十五运会赛场外步步生花",
+        "onboard_time": 1763213367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106392,
+        "num": 106392,
+        "word": "钟楚曦坚持自己拿奖杯",
+        "onboard_time": 1763223383,
+        "rank": 3,
+        "category": "体育,综艺"
+      },
+      {
+        "raw_hot": 105012,
+        "num": 105012,
+        "word": "日本这次的借口与侵华时如出一辙",
+        "onboard_time": 1763203222,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98438,
+        "num": 98438,
+        "word": "袁弘 帝后",
+        "onboard_time": 1763216068,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 88207,
+        "num": 88207,
+        "word": "宋佳金鸡影后",
+        "onboard_time": 1763214998,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87078,
+        "num": 87078,
+        "word": "日本民众围堵首相官邸要求高市下台",
+        "onboard_time": 1763216131,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70548,
+        "num": 70548,
+        "word": "浙江公厕被打女孩确诊白血病",
+        "onboard_time": 1763211207,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60983,
+        "num": 60983,
+        "word": "日本3位前首相发声",
+        "onboard_time": 1763201721,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 239926,
+        "num": 60813,
+        "word": "穆祉丞",
+        "onboard_time": 1763223861,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203842,
+        "num": 60608,
+        "word": "饺子导演",
+        "onboard_time": 1763220206,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189515,
+        "num": 60491,
+        "word": "陈思诚 邵艺辉",
+        "onboard_time": 1763222184,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76989,
+        "num": 60293,
+        "word": "张子枫",
+        "onboard_time": 1763222423,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67719,
+        "num": 60128,
+        "word": "金鸡奖",
+        "onboard_time": 1763207482,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 62447,
+        "num": 59855,
+        "word": "出走的决心 颗粒无收",
+        "onboard_time": 1763220504,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61454,
+        "num": 59576,
+        "word": "金鸡奖获奖名单",
+        "onboard_time": 1763207422,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61330,
+        "num": 59315,
+        "word": "易烊千玺罗一舟同框",
+        "onboard_time": 1763230755,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38859,
+        "num": 59226,
+        "word": "樊振东4比2王楚钦",
+        "onboard_time": 1763186006,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37752,
+        "num": 58916,
+        "word": "孙颖莎呼吁球迷粉丝理性观赛",
+        "onboard_time": 1763221164,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86407,
+        "num": 58693,
+        "word": "杨紫工作室审美",
+        "onboard_time": 1763221284,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67239,
+        "num": 58516,
+        "word": "哪吒没来领奖",
+        "onboard_time": 1763214149,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 58426,
+        "num": 58426,
+        "word": "Doinb不建议Uzi复出",
+        "onboard_time": 1763221045,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 39821,
+        "num": 39821,
+        "word": "上拉如酒后肇事逃逸被刑拘",
+        "onboard_time": 1763215352,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38528,
+        "num": 38528,
+        "word": "好东西",
+        "onboard_time": 1763209345,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34317,
+        "num": 34317,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763213726,
+        "rank": 25,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 33147,
+        "num": 33147,
+        "word": "青春痘疫苗来了",
+        "onboard_time": 1763218888,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 33061,
+        "num": 33061,
+        "word": "中方已做好对日实质反制准备",
+        "onboard_time": 1763203222,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32300,
+        "num": 32300,
+        "word": "惊天魔盗团3",
+        "onboard_time": 1763223922,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31020,
+        "num": 31020,
+        "word": "许昕0比3王楚钦",
+        "onboard_time": 1763212587,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32450,
+        "num": 30988,
+        "word": "王楚钦说男单输了情绪不高",
+        "onboard_time": 1763223143,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30258,
+        "num": 30258,
+        "word": "霍思燕说朵朵早晚接陈思诚的班",
+        "onboard_time": 1763217149,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28783,
+        "num": 30253,
+        "word": "好东西金鸡最佳故事片",
+        "onboard_time": 1763216789,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28746,
+        "num": 30249,
+        "word": "少年的你",
+        "onboard_time": 1763217987,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26178,
+        "num": 30244,
+        "word": "供暖",
+        "onboard_time": 1763231715,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28576,
+        "num": 30236,
+        "word": "水饺皇后 糖水伯",
+        "onboard_time": 1763210186,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27594,
+        "num": 30227,
+        "word": "黄海海域将进行实弹射击禁止驶入",
+        "onboard_time": 1763224161,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26952,
+        "num": 30220,
+        "word": "百亿票房 美术奖",
+        "onboard_time": 1763227877,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26790,
+        "num": 30216,
+        "word": "咏梅 陪跑",
+        "onboard_time": 1763216310,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26732,
+        "num": 30210,
+        "word": "你好星期六下期迎初雪",
+        "onboard_time": 1763231775,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25853,
+        "num": 30201,
+        "word": "王曼昱4比0陈梦",
+        "onboard_time": 1763213307,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26537,
+        "num": 30194,
+        "word": "钟楚曦 我现在就是昂首挺胸的",
+        "onboard_time": 1763212407,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25872,
+        "num": 30193,
+        "word": "迪丽热巴工作室出图",
+        "onboard_time": 1763226320,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25695,
+        "num": 30186,
+        "word": "现在就出发",
+        "onboard_time": 1763215472,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 24824,
+        "num": 30176,
+        "word": "王安宇去看了张一山话剧",
+        "onboard_time": 1763229137,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23921,
+        "num": 30170,
+        "word": "宋佳金鸡造型",
+        "onboard_time": 1763233635,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23721,
+        "num": 30167,
+        "word": "凡人修仙传",
+        "onboard_time": 1763217688,
+        "rank": 46,
+        "category": "动漫,作品衍生"
+      },
+      {
+        "raw_hot": 23621,
+        "num": 30154,
+        "word": "枭起青壤",
+        "onboard_time": 1763221224,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23109,
+        "num": 30148,
+        "word": "陈建斌扶住了差点被绊倒的蒋勤勤",
+        "onboard_time": 1763234115,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22833,
+        "num": 30147,
+        "word": "孙颖莎朱雨玲爆分",
+        "onboard_time": 1763214210,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
