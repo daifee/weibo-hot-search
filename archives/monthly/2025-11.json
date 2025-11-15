@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763173029870,
+  "endTime": 1763176421577,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -1145,6 +1145,14 @@
       "onboard_time": 1762045100,
       "rank": 0,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 993481,
+      "num": 139491,
+      "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
+      "onboard_time": 1763174540,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 990681,
@@ -3507,6 +3515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 566199,
+      "num": 163439,
+      "word": "晋江回应星落凝成糖作者求救",
+      "onboard_time": 1763175200,
+      "rank": 10,
+      "category": "读书作家,作品衍生"
+    },
+    {
       "raw_hot": 565985,
       "num": 260148,
       "word": "店主把小蛋糕的成本都写上了",
@@ -3969,6 +3985,14 @@
       "onboard_time": 1761990439,
       "rank": 15,
       "category": "数码"
+    },
+    {
+      "raw_hot": 532489,
+      "num": 139017,
+      "word": "韩美娟吐槽某明星带货质量差",
+      "onboard_time": 1763172560,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 532074,
@@ -8179,6 +8203,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 310208,
+      "num": 131785,
+      "word": "马天宇被外国美女搭讪",
+      "onboard_time": 1763174119,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 310115,
       "num": 222342,
       "word": "王安宇戴冷帽vs李诞戴冷帽",
@@ -8785,6 +8817,14 @@
       "onboard_time": 1762349302,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 294214,
+      "num": 294214,
+      "word": "张继科说全运会谁赢都一样",
+      "onboard_time": 1763173340,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 294162,
@@ -9723,6 +9763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268837,
+      "num": 265968,
+      "word": "喜欢用iPhone一半的原因是配件",
+      "onboard_time": 1763169859,
+      "rank": 27,
+      "category": "数码"
+    },
+    {
       "raw_hot": 268346,
       "num": 239485,
       "word": "王传君工作室回应获奖",
@@ -9801,14 +9849,6 @@
       "onboard_time": 1762427543,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 265968,
-      "num": 265968,
-      "word": "喜欢用iPhone一半的原因是配件",
-      "onboard_time": 1763169859,
-      "rank": 27,
-      "category": "数码"
     },
     {
       "raw_hot": 265674,
@@ -11201,6 +11241,14 @@
       "onboard_time": 1762577900,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 229221,
+      "num": 229221,
+      "word": "倪妮短发帅成啥样了",
+      "onboard_time": 1763172680,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 229110,
@@ -16147,6 +16195,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 171107,
+      "num": 160110,
+      "word": "丁禹兮你衣服呢",
+      "onboard_time": 1763172619,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171084,
       "num": 144214,
       "word": "易烊千玺回应提名金鸡奖",
@@ -16281,6 +16337,14 @@
       "onboard_time": 1763129782,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170097,
+      "num": 157743,
+      "word": "时代少年团 二开",
+      "onboard_time": 1763175501,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 169886,
@@ -16441,6 +16505,14 @@
       "onboard_time": 1762921760,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167965,
+      "num": 128132,
+      "word": "qko说赵磊婚礼离场20分钟专门感谢粉丝",
+      "onboard_time": 1763174900,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 167704,
@@ -17049,6 +17121,14 @@
       "onboard_time": 1762125258,
       "rank": 22,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164183,
+      "num": 164183,
+      "word": "王俊凯官宣话剧趁世界还年青",
+      "onboard_time": 1763172859,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 164152,
@@ -19625,6 +19705,14 @@
       "onboard_time": 1762336943,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 146592,
+      "num": 146592,
+      "word": "谁给王安宇买的站票",
+      "onboard_time": 1763175800,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 146489,
@@ -24731,14 +24819,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 122837,
-      "num": 112471,
-      "word": "韩美娟吐槽某明星带货质量差",
-      "onboard_time": 1763172560,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 122791,
       "num": 122791,
       "word": "33这一集全是腹肌",
@@ -25025,6 +25105,14 @@
       "onboard_time": 1762401621,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121749,
+      "num": 121749,
+      "word": "金饰克价跌破1300元",
+      "onboard_time": 1763173040,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 121642,
@@ -27523,14 +27611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 112519,
-      "num": 112519,
-      "word": "倪妮短发帅成啥样了",
-      "onboard_time": 1763172680,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112491,
       "num": 112491,
       "word": "窦骁戴婚戒参加活动",
@@ -28907,6 +28987,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 108026,
+      "num": 108026,
+      "word": "杨瀚森G联赛首秀",
+      "onboard_time": 1763175019,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107996,
       "num": 107996,
       "word": "内娱真有正主嗑自己cp",
@@ -29817,6 +29905,14 @@
       "onboard_time": 1762245441,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 105342,
+      "num": 105342,
+      "word": "这是张馨予还是迪丽热巴",
+      "onboard_time": 1763175920,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 105327,
@@ -31163,6 +31259,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 101797,
+      "num": 101797,
+      "word": "库里开启乱穿鞋时代",
+      "onboard_time": 1763175200,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101737,
       "num": 139420,
       "word": "新闻女王唐诡看完你的看你的",
@@ -31425,14 +31529,6 @@
       "onboard_time": 1762751180,
       "rank": 10,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101065,
-      "num": 101065,
-      "word": "丁禹兮你衣服呢",
-      "onboard_time": 1763172619,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 101058,
@@ -36587,6 +36683,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 89152,
+      "num": 89152,
+      "word": "高铁站偶遇陈伟霆",
+      "onboard_time": 1763173820,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 89116,
       "num": 89116,
       "word": "配偶是唯一可以自己选择的家人",
@@ -38715,6 +38819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84449,
+      "num": 84449,
+      "word": "女子称住酒店借剪刀遭保安质问",
+      "onboard_time": 1763171840,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 84375,
       "num": 84375,
       "word": "全红婵拿着金牌摸了又摸",
@@ -39537,6 +39649,14 @@
       "onboard_time": 1763021481,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 82103,
+      "num": 82103,
+      "word": "突然发现开车通勤其实是提前上班",
+      "onboard_time": 1763174359,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 82100,
@@ -40459,6 +40579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 79355,
+      "num": 79355,
+      "word": "地表最强乒乓球半决赛来了",
+      "onboard_time": 1763174181,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79324,
       "num": 101477,
       "word": "Doinb谈JackeyLove",
@@ -41131,6 +41259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77387,
+      "num": 77387,
+      "word": "吉林45岁卡车司机在俄罗斯遇难",
+      "onboard_time": 1763175679,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77366,
       "num": 107217,
       "word": "空气炸锅烤苹果干",
@@ -41513,14 +41649,6 @@
       "onboard_time": 1763171480,
       "rank": 42,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 76103,
-      "num": 89777,
-      "word": "王俊凯官宣话剧趁世界还年青",
-      "onboard_time": 1763172859,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 76066,
@@ -43713,14 +43841,6 @@
       "onboard_time": 1762504761,
       "rank": 46,
       "category": "美食"
-    },
-    {
-      "raw_hot": 66737,
-      "num": 65840,
-      "word": "女子称住酒店借剪刀遭保安质问",
-      "onboard_time": 1763171840,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66693,
@@ -50875,6 +50995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20407,
+      "num": 89901,
+      "word": "何赛飞 避谶",
+      "onboard_time": 1763175260,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 20279,
       "num": 94559,
       "word": "男子暴打93岁母亲事发于常州",
@@ -52065,6 +52193,14 @@
       "onboard_time": 1762054100,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9148,
+      "num": 91562,
+      "word": "县环卫所招聘博士监管垃圾转运站",
+      "onboard_time": 1763175920,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8693,

@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763173029870,
+  "endTime": 1763176421577,
   "band_list": [
     {
       "raw_hot": 1672025,
@@ -17,6 +17,14 @@
       "onboard_time": 1763135781,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 993481,
+      "num": 139491,
+      "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
+      "onboard_time": 1763174540,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 880511,
@@ -48,6 +56,22 @@
       "word": "贾乃亮直播中奖名单",
       "onboard_time": 1763163259,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 566199,
+      "num": 163439,
+      "word": "晋江回应星落凝成糖作者求救",
+      "onboard_time": 1763175200,
+      "rank": 10,
+      "category": "读书作家,作品衍生"
+    },
+    {
+      "raw_hot": 532489,
+      "num": 139017,
+      "word": "韩美娟吐槽某明星带货质量差",
+      "onboard_time": 1763172560,
+      "rank": 26,
       "category": "艺人"
     },
     {
@@ -123,6 +147,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 310208,
+      "num": 131785,
+      "word": "马天宇被外国美女搭讪",
+      "onboard_time": 1763174119,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295932,
       "num": 184794,
       "word": "骑手送6台iPhone17半路失联",
@@ -139,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 294214,
+      "num": 294214,
+      "word": "张继科说全运会谁赢都一样",
+      "onboard_time": 1763173340,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 273890,
       "num": 126319,
       "word": "站姐把王宝强拍成王一博了",
@@ -147,7 +187,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 265968,
+      "raw_hot": 268837,
       "num": 265968,
       "word": "喜欢用iPhone一半的原因是配件",
       "onboard_time": 1763169859,
@@ -209,6 +249,14 @@
       "onboard_time": 1763133982,
       "rank": 6,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 229221,
+      "num": 229221,
+      "word": "倪妮短发帅成啥样了",
+      "onboard_time": 1763172680,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 227184,
@@ -299,12 +347,44 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171107,
+      "num": 160110,
+      "word": "丁禹兮你衣服呢",
+      "onboard_time": 1763172619,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 170097,
+      "num": 157743,
+      "word": "时代少年团 二开",
+      "onboard_time": 1763175501,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168282,
       "num": 168282,
       "word": "家长视频复活27岁女儿后再添新丁",
       "onboard_time": 1763124681,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167965,
+      "num": 128132,
+      "word": "qko说赵磊婚礼离场20分钟专门感谢粉丝",
+      "onboard_time": 1763174900,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 164183,
+      "num": 164183,
+      "word": "王俊凯官宣话剧趁世界还年青",
+      "onboard_time": 1763172859,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 158789,
@@ -336,6 +416,14 @@
       "word": "吴彤真让三个少年上王牌了",
       "onboard_time": 1763163318,
       "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 146592,
+      "num": 146592,
+      "word": "谁给王安宇买的站票",
+      "onboard_time": 1763175800,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -387,12 +475,12 @@
       "category": "民生新闻,美食"
     },
     {
-      "raw_hot": 122837,
-      "num": 112471,
-      "word": "韩美娟吐槽某明星带货质量差",
-      "onboard_time": 1763172560,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 121749,
+      "num": 121749,
+      "word": "金饰克价跌破1300元",
+      "onboard_time": 1763173040,
+      "rank": 30,
+      "category": "财经"
     },
     {
       "raw_hot": 115627,
@@ -417,14 +505,6 @@
       "onboard_time": 1763163018,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112519,
-      "num": 112519,
-      "word": "倪妮短发帅成啥样了",
-      "onboard_time": 1763172680,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 112230,
@@ -459,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 108026,
+      "num": 108026,
+      "word": "杨瀚森G联赛首秀",
+      "onboard_time": 1763175019,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106513,
       "num": 125513,
       "word": "张铎不介意陈松伶年龄",
@@ -467,20 +555,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105342,
+      "num": 105342,
+      "word": "这是张馨予还是迪丽热巴",
+      "onboard_time": 1763175920,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 101797,
+      "num": 101797,
+      "word": "库里开启乱穿鞋时代",
+      "onboard_time": 1763175200,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101186,
       "num": 129430,
       "word": "92岁老人父亲节睡梦中被邻居杀害",
       "onboard_time": 1763130442,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101065,
-      "num": 101065,
-      "word": "丁禹兮你衣服呢",
-      "onboard_time": 1763172619,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 99755,
@@ -523,6 +619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 89152,
+      "num": 89152,
+      "word": "高铁站偶遇陈伟霆",
+      "onboard_time": 1763173820,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 88754,
       "num": 125400,
       "word": "肖战卷毛男大",
@@ -547,6 +651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86845,
+      "num": 121813,
+      "word": "你好星期六",
+      "onboard_time": 1763175260,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86419,
       "num": 125403,
       "word": "张博恒全运会全能银牌",
@@ -555,12 +667,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84449,
+      "num": 84449,
+      "word": "女子称住酒店借剪刀遭保安质问",
+      "onboard_time": 1763171840,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83779,
       "num": 125103,
       "word": "没想到张弛这么会唱",
       "onboard_time": 1763137221,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 82103,
+      "num": 82103,
+      "word": "突然发现开车通勤其实是提前上班",
+      "onboard_time": 1763174359,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 81782,
@@ -584,6 +712,14 @@
       "word": "马龙职业生涯仅缺全运男团金牌",
       "onboard_time": 1763161697,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 79355,
+      "num": 79355,
+      "word": "地表最强乒乓球半决赛来了",
+      "onboard_time": 1763174181,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -611,20 +747,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 77387,
+      "num": 77387,
+      "word": "吉林45岁卡车司机在俄罗斯遇难",
+      "onboard_time": 1763175679,
+      "rank": 46,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 76104,
       "num": 76104,
       "word": "宁德时代股东拟转让184亿元股份",
       "onboard_time": 1763171480,
       "rank": 42,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 76103,
-      "num": 89777,
-      "word": "王俊凯官宣话剧趁世界还年青",
-      "onboard_time": 1763172859,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 76004,
@@ -705,14 +841,6 @@
       "onboard_time": 1763134222,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66737,
-      "num": 65840,
-      "word": "女子称住酒店借剪刀遭保安质问",
-      "onboard_time": 1763171840,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 66494,
@@ -955,6 +1083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20407,
+      "num": 89901,
+      "word": "何赛飞 避谶",
+      "onboard_time": 1763175260,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 19999,
       "num": 38505,
       "word": "鬼灭之刃上弦三的简要概括",
@@ -1017,6 +1153,14 @@
       "onboard_time": 1763040982,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9148,
+      "num": 91562,
+      "word": "县环卫所招聘博士监管垃圾转运站",
+      "onboard_time": 1763175920,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
