@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763231609329,
+  "endTime": 1763232375444,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -449,6 +449,14 @@
       "onboard_time": 1763227877,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 37782,
+      "num": 37782,
+      "word": "你好星期六下期迎初雪",
+      "onboard_time": 1763231775,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 35974,
