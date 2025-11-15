@@ -1,0 +1,410 @@
+{
+  "runTime": 1763178770278,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 648257,
+        "num": 1103721,
+        "word": "日本自卫队配合高市早苗亮刀",
+        "onboard_time": 1763165238,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 600810,
+        "num": 600810,
+        "word": "中方愤怒正在升级",
+        "onboard_time": 1763177542,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 4071,
+        "num": 410424,
+        "word": "第十五届全运会",
+        "onboard_time": 1763040982,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 359639,
+        "num": 359639,
+        "word": "提醒中国公民近期避免前往日本",
+        "onboard_time": 1763134401,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289433,
+        "num": 289433,
+        "word": "qko说赵磊婚礼离场20分钟专门感谢粉丝",
+        "onboard_time": 1763174900,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276481,
+        "num": 276481,
+        "word": "林高远夺冠后发文",
+        "onboard_time": 1763176942,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 240711,
+        "num": 240711,
+        "word": "税务师",
+        "onboard_time": 1763177059,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236633,
+        "num": 236633,
+        "word": "半决赛樊振东vs王楚钦",
+        "onboard_time": 1763167160,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261824,
+        "num": 230783,
+        "word": "张继科说全运会谁赢都一样",
+        "onboard_time": 1763173340,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211559,
+        "num": 211559,
+        "word": "鹤男金鸡奖第一个出图",
+        "onboard_time": 1763177661,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1139970,
+        "num": 209728,
+        "word": "卢昱晓LV官宣",
+        "onboard_time": 1763177661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310824,
+        "num": 207664,
+        "word": "日本国民批高市早苗不适合担任首相",
+        "onboard_time": 1763177961,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204931,
+        "num": 204931,
+        "word": "时代少年团 二开",
+        "onboard_time": 1763175501,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 201966,
+        "num": 201966,
+        "word": "你好星期六全员CPU告急",
+        "onboard_time": 1763177779,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189117,
+        "num": 189117,
+        "word": "喜欢用iPhone一半的原因是配件",
+        "onboard_time": 1763169859,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 185902,
+        "num": 185902,
+        "word": "倪妮短发帅成啥样了",
+        "onboard_time": 1763172680,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177993,
+        "num": 177993,
+        "word": "影视飓风Tim回应相亲争议",
+        "onboard_time": 1763168000,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 162633,
+        "num": 162633,
+        "word": "谁给王安宇买的站票",
+        "onboard_time": 1763175800,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146783,
+        "num": 146783,
+        "word": "林高远说刘诗雯在他不慌",
+        "onboard_time": 1763177840,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127807,
+        "num": 146209,
+        "word": "汪苏泷一句话吓飞薛之谦周深小尼",
+        "onboard_time": 1763178019,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42120,
+        "num": 145836,
+        "word": "有白酒经销商一年亏3000万",
+        "onboard_time": 1763177542,
+        "rank": 20,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 938582,
+        "num": 144148,
+        "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
+        "onboard_time": 1763174540,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 669046,
+        "num": 143819,
+        "word": "朱珠白发",
+        "onboard_time": 1763176459,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 427159,
+        "num": 142466,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 393551,
+        "num": 141736,
+        "word": "这是张馨予还是迪丽热巴",
+        "onboard_time": 1763175920,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270951,
+        "num": 140493,
+        "word": "韩美娟吐槽某明星带货质量差",
+        "onboard_time": 1763172560,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245266,
+        "num": 139767,
+        "word": "马天宇被外国美女搭讪",
+        "onboard_time": 1763174119,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139373,
+        "num": 139373,
+        "word": "骑手送6台iPhone17半路失联",
+        "onboard_time": 1763162719,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136231,
+        "num": 136231,
+        "word": "税务师考试",
+        "onboard_time": 1763177779,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133021,
+        "num": 133021,
+        "word": "林高远说很荣幸和刘诗雯并肩作战",
+        "onboard_time": 1763178082,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118956,
+        "num": 118956,
+        "word": "刘诗雯混双夺冠后发文",
+        "onboard_time": 1763177120,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118552,
+        "num": 118552,
+        "word": "工作人员帮卢昱晓挡胸口",
+        "onboard_time": 1763177661,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113487,
+        "num": 113487,
+        "word": "丁禹兮你衣服呢",
+        "onboard_time": 1763172619,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112458,
+        "num": 112458,
+        "word": "章若楠哭了",
+        "onboard_time": 1763178201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111548,
+        "num": 111548,
+        "word": "高市早苗叫嚣出兵台海网友反应亮了",
+        "onboard_time": 1763165179,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108385,
+        "num": 108385,
+        "word": "杨瀚森这一扣久违了",
+        "onboard_time": 1763177600,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106173,
+        "num": 106173,
+        "word": "茶百道回应固体杨枝甘露单点不送",
+        "onboard_time": 1763163918,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67972,
+        "num": 105694,
+        "word": "日本同时被四国痛批",
+        "onboard_time": 1763178740,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31255,
+        "num": 105314,
+        "word": "白翊汝 魔女幼熙",
+        "onboard_time": 1763178319,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105277,
+        "num": 105277,
+        "word": "彭小苒 初恋死了",
+        "onboard_time": 1763129723,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104274,
+        "num": 104274,
+        "word": "网传唐诡奇谭12月12日播出",
+        "onboard_time": 1763170340,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102384,
+        "num": 102384,
+        "word": "金饰克价跌破1300元",
+        "onboard_time": 1763173040,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98588,
+        "num": 98588,
+        "word": "黄金直线暴跌",
+        "onboard_time": 1763163499,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97809,
+        "num": 97809,
+        "word": "她是真的想教会你化妆",
+        "onboard_time": 1763177301,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 97029,
+        "num": 97029,
+        "word": "大湾鸡已入驻广东省博物馆",
+        "onboard_time": 1763176820,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95767,
+        "num": 95767,
+        "word": "冷美人坚持37天获8666元",
+        "onboard_time": 1763162658,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92883,
+        "num": 92883,
+        "word": "最好的气血补药是睡觉和多出去玩",
+        "onboard_time": 1763163018,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 91997,
+        "num": 91997,
+        "word": "日本熊害石破茂吃熊肉叉烧",
+        "onboard_time": 1763177721,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91624,
+        "num": 91624,
+        "word": "中方对荷兰经济大臣言论强烈不满",
+        "onboard_time": 1763177961,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91055,
+        "num": 91055,
+        "word": "凤凰台上一晚上走完内娱古偶前半生",
+        "onboard_time": 1763178561,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平向泰国国王介绍北京中轴线#"
+    }
+  }
+}
