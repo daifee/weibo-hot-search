@@ -1,0 +1,410 @@
+{
+  "runTime": 1763181035551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1676293,
+        "num": 1676293,
+        "word": "中方愤怒正在升级",
+        "onboard_time": 1763177542,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 534485,
+        "num": 534485,
+        "word": "日本同时被四国痛批",
+        "onboard_time": 1763178740,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41317,
+        "num": 514864,
+        "word": "航天员带回近100斤太空特产",
+        "onboard_time": 1763165119,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500472,
+        "num": 500472,
+        "word": "日本自卫队配合高市早苗亮刀",
+        "onboard_time": 1763165238,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304347,
+        "num": 304347,
+        "word": "光与夜之恋",
+        "onboard_time": 1763179880,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 299835,
+        "num": 299835,
+        "word": "日本国民批高市早苗不适合担任首相",
+        "onboard_time": 1763177961,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296486,
+        "num": 296486,
+        "word": "半决赛樊振东vs王楚钦",
+        "onboard_time": 1763167160,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 285924,
+        "num": 285924,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763180301,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 265856,
+        "num": 265856,
+        "word": "qko说赵磊婚礼离场20分钟专门感谢粉丝",
+        "onboard_time": 1763174900,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244137,
+        "num": 244137,
+        "word": "林高远夺冠后发文",
+        "onboard_time": 1763176942,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1198967,
+        "num": 242614,
+        "word": "卢昱晓LV官宣",
+        "onboard_time": 1763177661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259754,
+        "num": 242310,
+        "word": "Uzi训练量堪比职业",
+        "onboard_time": 1763178919,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44485,
+        "num": 232701,
+        "word": "一人一句为全运健儿加油",
+        "onboard_time": 1763180419,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232331,
+        "num": 232331,
+        "word": "王赫野化妆师天要塌了",
+        "onboard_time": 1763179941,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192689,
+        "num": 192689,
+        "word": "时代少年团 二开",
+        "onboard_time": 1763175501,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181013,
+        "num": 181013,
+        "word": "曝上拉如肇事逃逸",
+        "onboard_time": 1763180240,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 176498,
+        "num": 176498,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763178919,
+        "rank": 16,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 165765,
+        "num": 165765,
+        "word": "税务师",
+        "onboard_time": 1763177059,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 157094,
+        "num": 165463,
+        "word": "三滴血",
+        "onboard_time": 1763180060,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152385,
+        "num": 165052,
+        "word": "谁给王安宇买的站票",
+        "onboard_time": 1763175800,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 754171,
+        "num": 164879,
+        "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
+        "onboard_time": 1763174540,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 641937,
+        "num": 164271,
+        "word": "朱珠白发",
+        "onboard_time": 1763176459,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394543,
+        "num": 164086,
+        "word": "这是张馨予还是迪丽热巴",
+        "onboard_time": 1763175920,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 358289,
+        "num": 163681,
+        "word": "痞幼官宣分手",
+        "onboard_time": 1763126842,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163353,
+        "num": 163353,
+        "word": "现在就出发",
+        "onboard_time": 1763180841,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158913,
+        "num": 158913,
+        "word": "提醒中国公民近期避免前往日本",
+        "onboard_time": 1763134401,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150923,
+        "num": 150923,
+        "word": "影视飓风Tim回应相亲争议",
+        "onboard_time": 1763168000,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149827,
+        "num": 149827,
+        "word": "马天宇被外国美女搭讪",
+        "onboard_time": 1763174119,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126013,
+        "num": 147235,
+        "word": "极氪9X执行神舟返回保障任务画面曝光",
+        "onboard_time": 1763179640,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 147176,
+        "num": 147176,
+        "word": "关晓彤生吃尖椒解饿",
+        "onboard_time": 1763179581,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203636,
+        "num": 146600,
+        "word": "五个严重日本听懂了吗",
+        "onboard_time": 1763178919,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142821,
+        "num": 142821,
+        "word": "韩美娟吐槽某明星带货质量差",
+        "onboard_time": 1763172560,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120229,
+        "num": 120229,
+        "word": "杨瀚森这一扣久违了",
+        "onboard_time": 1763177600,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116973,
+        "num": 116973,
+        "word": "干噎酸奶",
+        "onboard_time": 1763179460,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 112211,
+        "num": 112211,
+        "word": "倪妮短发帅成啥样了",
+        "onboard_time": 1763172680,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111501,
+        "num": 111501,
+        "word": "喜欢用iPhone一半的原因是配件",
+        "onboard_time": 1763169859,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110283,
+        "num": 110283,
+        "word": "王楚钦林诗栋赛前一起训练",
+        "onboard_time": 1763180481,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105304,
+        "num": 105304,
+        "word": "鹤男金鸡奖第一个出图",
+        "onboard_time": 1763177661,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26850,
+        "num": 104959,
+        "word": "夏之光你接的是正经活吗",
+        "onboard_time": 1763180060,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38658,
+        "num": 104923,
+        "word": "奔跑吧天路篇录制收官大合影",
+        "onboard_time": 1763180720,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108161,
+        "num": 104912,
+        "word": "彭小苒亲自公布获奖粉丝名单",
+        "onboard_time": 1763179941,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104898,
+        "num": 104898,
+        "word": "第一次知道兔子能这么大",
+        "onboard_time": 1763179220,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103553,
+        "num": 103553,
+        "word": "钟嘉欣曾说不要因为结婚而结婚",
+        "onboard_time": 1763179821,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90847,
+        "num": 102038,
+        "word": "男子退租不成反被扇四巴掌进展",
+        "onboard_time": 1763178859,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101212,
+        "num": 101212,
+        "word": "章若楠哭了",
+        "onboard_time": 1763178201,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95900,
+        "num": 95900,
+        "word": "温峥嵘说黄磊爱加课影响自己谈恋爱",
+        "onboard_time": 1763179400,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72687,
+        "num": 95555,
+        "word": "陈道明确实是极品",
+        "onboard_time": 1763179518,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95543,
+        "num": 95543,
+        "word": "任嘉伦演过虐的没演过穷的",
+        "onboard_time": 1763180781,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95205,
+        "num": 95205,
+        "word": "王楚钦爸爸现场来看比赛",
+        "onboard_time": 1763180960,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84247,
+        "num": 95132,
+        "word": "杨瀚森半场6分5篮板",
+        "onboard_time": 1763180841,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同书写中泰友好的新篇章#"
+    }
+  }
+}

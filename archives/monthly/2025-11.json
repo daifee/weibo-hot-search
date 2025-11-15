@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763178770278,
+  "endTime": 1763181035551,
   "band_list": [
     {
       "raw_hot": 12384593,
@@ -305,6 +305,14 @@
       "onboard_time": 1762076362,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1676293,
+      "num": 1676293,
+      "word": "中方愤怒正在升级",
+      "onboard_time": 1763177542,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1672025,
@@ -771,6 +779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1198967,
+      "num": 242614,
+      "word": "卢昱晓LV官宣",
+      "onboard_time": 1763177661,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1198254,
       "num": 289020,
       "word": "讨好型人格走路",
@@ -881,14 +897,6 @@
       "onboard_time": 1762855280,
       "rank": 0,
       "category": "数码"
-    },
-    {
-      "raw_hot": 1139970,
-      "num": 209728,
-      "word": "卢昱晓LV官宣",
-      "onboard_time": 1763177661,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1138596,
@@ -1084,7 +1092,7 @@
     },
     {
       "raw_hot": 1026678,
-      "num": 144148,
+      "num": 164879,
       "word": "港媒曝钟嘉欣在加拿大起诉丈夫",
       "onboard_time": 1763174540,
       "rank": 20,
@@ -2548,7 +2556,7 @@
     },
     {
       "raw_hot": 669046,
-      "num": 143819,
+      "num": 164271,
       "word": "朱珠白发",
       "onboard_time": 1763176459,
       "rank": 25,
@@ -3169,14 +3177,6 @@
       "onboard_time": 1762763421,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 600810,
-      "num": 600810,
-      "word": "中方愤怒正在升级",
-      "onboard_time": 1763177542,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 600248,
@@ -3979,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 534485,
+      "num": 534485,
+      "word": "日本同时被四国痛批",
+      "onboard_time": 1763178740,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 534346,
       "num": 837275,
       "word": "神二十一发射升空",
@@ -4012,7 +4020,7 @@
     },
     {
       "raw_hot": 532489,
-      "num": 140493,
+      "num": 142821,
       "word": "韩美娟吐槽某明星带货质量差",
       "onboard_time": 1763172560,
       "rank": 26,
@@ -6163,6 +6171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 394543,
+      "num": 164086,
+      "word": "这是张馨予还是迪丽热巴",
+      "onboard_time": 1763175920,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 393970,
       "num": 504114,
       "word": "奔跑吧",
@@ -6176,14 +6192,6 @@
       "word": "白鹿与助理就是现实版闺蜜你养我吧",
       "onboard_time": 1763003059,
       "rank": 25,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 393551,
-      "num": 141736,
-      "word": "这是张馨予还是迪丽热巴",
-      "onboard_time": 1763175920,
-      "rank": 33,
       "category": "艺人"
     },
     {
@@ -6492,7 +6500,7 @@
     },
     {
       "raw_hot": 380549,
-      "num": 139767,
+      "num": 149827,
       "word": "马天宇被外国美女搭讪",
       "onboard_time": 1763174119,
       "rank": 23,
@@ -8236,7 +8244,7 @@
     },
     {
       "raw_hot": 310824,
-      "num": 207664,
+      "num": 299835,
       "word": "日本国民批高市早苗不适合担任首相",
       "onboard_time": 1763177961,
       "rank": 11,
@@ -8473,6 +8481,14 @@
       "onboard_time": 1762125317,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304347,
+      "num": 1044062,
+      "word": "光与夜之恋",
+      "onboard_time": 1761959361,
+      "rank": 0,
+      "category": "游戏"
     },
     {
       "raw_hot": 304271,
@@ -9155,6 +9171,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 285924,
+      "num": 285924,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763180301,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285774,
       "num": 285774,
       "word": "全红婵陈芋汐仅差0.9分",
@@ -9593,14 +9617,6 @@
       "onboard_time": 1762685422,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 275391,
-      "num": 1044062,
-      "word": "光与夜之恋",
-      "onboard_time": 1761959361,
-      "rank": 0,
-      "category": "游戏"
     },
     {
       "raw_hot": 274854,
@@ -10145,6 +10161,14 @@
       "onboard_time": 1762075760,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 259754,
+      "num": 242310,
+      "word": "Uzi训练量堪比职业",
+      "onboard_time": 1763178919,
+      "rank": 11,
+      "category": "电竞"
     },
     {
       "raw_hot": 259607,
@@ -11155,6 +11179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232331,
+      "num": 232331,
+      "word": "王赫野化妆师天要塌了",
+      "onboard_time": 1763179941,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 232215,
       "num": 232215,
       "word": "马天宇演技",
@@ -11620,7 +11652,7 @@
     },
     {
       "raw_hot": 223438,
-      "num": 223438,
+      "num": 514864,
       "word": "航天员带回近100斤太空特产",
       "onboard_time": 1763165119,
       "rank": 5,
@@ -12977,6 +13009,14 @@
       "onboard_time": 1762316962,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203636,
+      "num": 146600,
+      "word": "五个严重日本听懂了吗",
+      "onboard_time": 1763178919,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203585,
@@ -15337,6 +15377,14 @@
       "onboard_time": 1761915504,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181013,
+      "num": 181013,
+      "word": "曝上拉如肇事逃逸",
+      "onboard_time": 1763180240,
+      "rank": 15,
+      "category": "网红"
     },
     {
       "raw_hot": 180860,
@@ -18259,6 +18307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157094,
+      "num": 165463,
+      "word": "三滴血",
+      "onboard_time": 1763180060,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156938,
       "num": 179727,
       "word": "惠英红回应金鸡奖提名",
@@ -19712,6 +19768,14 @@
       "word": "香港地铁偶遇费曼杨阳洋",
       "onboard_time": 1762055359,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 147176,
+      "num": 147176,
+      "word": "关晓彤生吃尖椒解饿",
+      "onboard_time": 1763179581,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -24011,6 +24075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126013,
+      "num": 147235,
+      "word": "极氪9X执行神舟返回保障任务画面曝光",
+      "onboard_time": 1763179640,
+      "rank": 28,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 126002,
       "num": 126002,
       "word": "曝Viper想回LPL",
@@ -25571,6 +25643,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120229,
+      "num": 120229,
+      "word": "杨瀚森这一扣久违了",
+      "onboard_time": 1763177600,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120211,
       "num": 120211,
       "word": "灰原哀病弱坚韧美人感",
@@ -26457,6 +26537,14 @@
       "onboard_time": 1763031262,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116973,
+      "num": 116973,
+      "word": "干噎酸奶",
+      "onboard_time": 1763179460,
+      "rank": 33,
+      "category": "美食"
     },
     {
       "raw_hot": 116950,
@@ -28451,6 +28539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110283,
+      "num": 110283,
+      "word": "王楚钦林诗栋赛前一起训练",
+      "onboard_time": 1763180481,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110258,
       "num": 127708,
       "word": "泰国国王抵达北京",
@@ -29011,14 +29107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 108385,
-      "num": 108385,
-      "word": "杨瀚森这一扣久违了",
-      "onboard_time": 1763177600,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108316,
       "num": 103096,
       "word": "黄景瑜 人怎么能聪明成胡先煦这样",
@@ -29065,6 +29153,14 @@
       "onboard_time": 1762522401,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108161,
+      "num": 104912,
+      "word": "彭小苒亲自公布获奖粉丝名单",
+      "onboard_time": 1763179941,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 108131,
@@ -30171,6 +30267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104898,
+      "num": 104898,
+      "word": "第一次知道兔子能这么大",
+      "onboard_time": 1763179220,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 104875,
       "num": 104875,
       "word": "宋亚轩笑到一半发现还在录节目",
@@ -30673,6 +30777,14 @@
       "onboard_time": 1762915758,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103553,
+      "num": 103553,
+      "word": "钟嘉欣曾说不要因为结婚而结婚",
+      "onboard_time": 1763179821,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 103547,
@@ -33891,6 +34003,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95900,
+      "num": 95900,
+      "word": "温峥嵘说黄磊爱加课影响自己谈恋爱",
+      "onboard_time": 1763179400,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95882,
       "num": 95882,
       "word": "Uzi每一次都选择了Ruler",
@@ -34091,6 +34211,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95543,
+      "num": 95543,
+      "word": "任嘉伦演过虐的没演过穷的",
+      "onboard_time": 1763180781,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95496,
       "num": 95496,
       "word": "8个信号是身体在疯狂暗示气血不足",
@@ -34209,6 +34337,14 @@
       "onboard_time": 1763120001,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95205,
+      "num": 95205,
+      "word": "王楚钦爸爸现场来看比赛",
+      "onboard_time": 1763180960,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 95191,
@@ -36025,6 +36161,14 @@
       "onboard_time": 1762665501,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 90847,
+      "num": 102038,
+      "word": "男子退租不成反被扇四巴掌进展",
+      "onboard_time": 1763178859,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90845,
@@ -39097,6 +39241,14 @@
       "onboard_time": 1762959862,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84247,
+      "num": 95132,
+      "word": "杨瀚森半场6分5篮板",
+      "onboard_time": 1763180841,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 84218,
@@ -42795,6 +42947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72687,
+      "num": 95555,
+      "word": "陈道明确实是极品",
+      "onboard_time": 1763179518,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 72678,
       "num": 72678,
       "word": "不知道朋友过生日送什么好的",
@@ -43817,14 +43977,6 @@
       "onboard_time": 1762961720,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67972,
-      "num": 105694,
-      "word": "日本同时被四国痛批",
-      "onboard_time": 1763178740,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67928,
@@ -48555,6 +48707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38658,
+      "num": 104923,
+      "word": "奔跑吧天路篇录制收官大合影",
+      "onboard_time": 1763180720,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 38651,
       "num": 1244334,
       "word": "2025乌镇峰会",
@@ -50393,6 +50553,14 @@
       "onboard_time": 1762982415,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 26850,
+      "num": 104959,
+      "word": "夏之光你接的是正经活吗",
+      "onboard_time": 1763180060,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26819,
