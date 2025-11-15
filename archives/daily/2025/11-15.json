@@ -1,6 +1,6 @@
 {
   "startTime": 1763138075539,
-  "endTime": 1763189288339,
+  "endTime": 1763191428264,
   "band_list": [
     {
       "raw_hot": 7358127,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 942644,
+      "num": 180910,
+      "word": "女生要帅哥微信回家发现是宋威龙",
+      "onboard_time": 1763185947,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 880511,
       "num": 880511,
       "word": "外交部提醒中国公民近期避免赴日",
@@ -99,14 +107,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 731958,
-      "num": 180910,
-      "word": "女生要帅哥微信回家发现是宋威龙",
-      "onboard_time": 1763185947,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 669046,
       "num": 211720,
       "word": "朱珠白发",
@@ -115,12 +115,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631936,
+      "num": 631936,
+      "word": "王楚钦说樊振东更强了",
+      "onboard_time": 1763188822,
+      "rank": 12,
+      "category": "体育"
+    },
+    {
       "raw_hot": 595392,
       "num": 146549,
       "word": "贾乃亮直播中奖名单",
       "onboard_time": 1763163259,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 582958,
+      "num": 582958,
+      "word": "樊振东说王楚钦是男乒绝对领军人物",
+      "onboard_time": 1763189419,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 566199,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 496331,
-      "num": 216008,
+      "num": 265043,
       "word": "迪丽热巴直播",
       "onboard_time": 1763185701,
       "rank": 11,
@@ -259,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 371599,
+      "num": 371599,
+      "word": "新闻女王 承认观众是成年人",
+      "onboard_time": 1763187921,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 357159,
       "num": 146113,
       "word": "秦彻",
@@ -273,14 +297,6 @@
       "onboard_time": 1763180841,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 344693,
-      "num": 207968,
-      "word": "王楚钦说樊振东更强了",
-      "onboard_time": 1763188822,
-      "rank": 12,
-      "category": "体育"
     },
     {
       "raw_hot": 340428,
@@ -353,6 +369,14 @@
       "onboard_time": 1763179880,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 304410,
+      "num": 304410,
+      "word": "樊振东采访",
+      "onboard_time": 1763189061,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 295932,
@@ -435,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 259717,
+      "num": 157145,
+      "word": "王楚然疑似生病",
+      "onboard_time": 1763189600,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 256897,
       "num": 168283,
       "word": "日本共产党要求高市早苗撤回表态",
@@ -452,19 +484,11 @@
     },
     {
       "raw_hot": 253384,
-      "num": 226797,
+      "num": 241831,
       "word": "五个严重日本听懂了吗",
       "onboard_time": 1763178919,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 251756,
-      "num": 251756,
-      "word": "新闻女王 承认观众是成年人",
-      "onboard_time": 1763187921,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 249856,
@@ -473,6 +497,14 @@
       "onboard_time": 1763163918,
       "rank": 12,
       "category": "美食"
+    },
+    {
+      "raw_hot": 242800,
+      "num": 154766,
+      "word": "何卓佳快哭了",
+      "onboard_time": 1763190981,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 240711,
@@ -497,6 +529,14 @@
       "onboard_time": 1763141777,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 236124,
+      "num": 236124,
+      "word": "全运会樊振东王楚钦打的披头散发",
+      "onboard_time": 1763190501,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 229243,
@@ -539,11 +579,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 222779,
+      "num": 191288,
+      "word": "迪丽热巴给主持人打伞",
+      "onboard_time": 1763190920,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 221125,
       "num": 221125,
       "word": "刘诗雯打球好看",
       "onboard_time": 1763133023,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220261,
+      "num": 177080,
+      "word": "樊王大战6局只差10分",
+      "onboard_time": 1763188401,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -585,14 +641,6 @@
       "onboard_time": 1763137821,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203843,
-      "num": 177080,
-      "word": "樊王大战6局只差10分",
-      "onboard_time": 1763188401,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 202407,
@@ -659,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195978,
+      "num": 153816,
+      "word": "易烊千玺走路还是这么臭屁",
+      "onboard_time": 1763189181,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193778,
       "num": 176164,
       "word": "王楚钦回应2比4樊振东",
@@ -675,6 +731,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191438,
+      "num": 191438,
+      "word": "宁静跟繁花团吐槽花少",
+      "onboard_time": 1763190682,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 190186,
+      "num": 190186,
+      "word": "白敬亭 黑敬亭",
+      "onboard_time": 1763190081,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190104,
       "num": 201445,
       "word": "短剧女演员也是给内娱上强度了",
@@ -689,6 +761,14 @@
       "onboard_time": 1763170340,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185595,
+      "num": 185595,
+      "word": "张艺兴问染色体嘉宾请谁",
+      "onboard_time": 1763191401,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 184439,
@@ -745,14 +825,6 @@
       "onboard_time": 1763172619,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 169344,
-      "num": 169344,
-      "word": "樊振东采访",
-      "onboard_time": 1763189061,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 168282,
@@ -859,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153514,
+      "num": 153514,
+      "word": "中国人对于晒被子的执念",
+      "onboard_time": 1763189781,
+      "rank": 33,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 153170,
       "num": 153170,
       "word": "固体杨枝甘露在韩推上引起讨论",
@@ -872,6 +952,22 @@
       "word": "勇士vs马刺",
       "onboard_time": 1763184921,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150139,
+      "num": 150139,
+      "word": "王楚钦说半决赛很精彩",
+      "onboard_time": 1763190981,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150006,
+      "num": 199883,
+      "word": "林诗栋首进全运会决赛",
+      "onboard_time": 1763191040,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -905,6 +1001,14 @@
       "onboard_time": 1763188342,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 145591,
+      "num": 145591,
+      "word": "吴敬平谈樊振东对战王楚钦",
+      "onboard_time": 1763191343,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 144757,
@@ -953,6 +1057,14 @@
       "onboard_time": 1763188702,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 138177,
+      "num": 138177,
+      "word": "王楚钦樊振东几小时后或再次交手",
+      "onboard_time": 1763190981,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 138168,
@@ -1033,6 +1145,14 @@
       "onboard_time": 1763180781,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128205,
+      "num": 128205,
+      "word": "王安宇 我在东北玩泥巴",
+      "onboard_time": 1763190382,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 127843,
@@ -1147,6 +1267,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120850,
+      "num": 120850,
+      "word": "陈熠vs何卓佳",
+      "onboard_time": 1763190742,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 120468,
+      "num": 149813,
+      "word": "明星金鸡奖出图",
+      "onboard_time": 1763189241,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 120273,
       "num": 120273,
       "word": "一个贪财一个图色凑上了",
@@ -1177,6 +1313,14 @@
       "onboard_time": 1763134282,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115386,
+      "num": 115386,
+      "word": "人上班后小猫在干什么",
+      "onboard_time": 1763190860,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 113521,
@@ -1347,14 +1491,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 101881,
-      "num": 149690,
-      "word": "易烊千玺走路还是这么臭屁",
-      "onboard_time": 1763189181,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101186,
       "num": 129430,
       "word": "92岁老人父亲节睡梦中被邻居杀害",
@@ -1427,6 +1563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96942,
+      "num": 154311,
+      "word": "恢复大佐日本意欲何为",
+      "onboard_time": 1763189961,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95900,
       "num": 95900,
       "word": "温峥嵘说黄磊爱加课影响自己谈恋爱",
@@ -1481,6 +1625,14 @@
       "onboard_time": 1763169320,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89313,
+      "num": 145607,
+      "word": "李沁最后要笑着跟大家说再见",
+      "onboard_time": 1763190382,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 89152,
@@ -1891,14 +2043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44929,
-      "num": 149813,
-      "word": "明星金鸡奖出图",
-      "onboard_time": 1763189241,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 44905,
       "num": 70399,
       "word": "神20航天员平安抵京",
@@ -1945,6 +2089,14 @@
       "onboard_time": 1763163198,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 41257,
+      "num": 154105,
+      "word": "在福彩爱心驿站实现硬核反诈",
+      "onboard_time": 1763191221,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40926,
@@ -2033,6 +2185,14 @@
       "onboard_time": 1763181260,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28949,
+      "num": 145883,
+      "word": "男子街头猥亵女子一审获刑8个月",
+      "onboard_time": 1763191040,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28690,
