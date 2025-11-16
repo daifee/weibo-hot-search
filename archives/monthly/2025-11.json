@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763303988258,
+  "endTime": 1763306690178,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -9,6 +9,14 @@
       "onboard_time": 1763214210,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 20536323,
+      "num": 20536323,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1763298261,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 13526426,
@@ -115,14 +123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 4766017,
-      "num": 4766017,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1763298261,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 3990046,
       "num": 2442077,
       "word": "金鸡奖获奖名单",
@@ -145,6 +145,14 @@
       "onboard_time": 1762509500,
       "rank": 0,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 3429724,
+      "num": 251436,
+      "word": "王曼昱冠军",
+      "onboard_time": 1763306186,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 3308875,
@@ -281,6 +289,14 @@
       "onboard_time": 1762768160,
       "rank": 11,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 2086417,
+      "num": 246706,
+      "word": "孙颖莎亚军",
+      "onboard_time": 1763306186,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 2062571,
@@ -4676,7 +4692,7 @@
     },
     {
       "raw_hot": 536263,
-      "num": 237180,
+      "num": 243866,
       "word": "朱雨玲陈梦无关胜负满是情怀",
       "onboard_time": 1763301443,
       "rank": 11,
@@ -7483,6 +7499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 385073,
+      "num": 385073,
+      "word": "刘宇宁演唱会内娱大佬团建",
+      "onboard_time": 1763304564,
+      "rank": 3,
+      "category": "演出"
+    },
+    {
       "raw_hot": 384865,
       "num": 189918,
       "word": "狗咬人引杀人狗主人方认同防卫过当",
@@ -8848,6 +8872,14 @@
       "word": "王楚钦向球迷竖大拇指",
       "onboard_time": 1763274443,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 335078,
+      "num": 247320,
+      "word": "陈梦朱雨玲一个时代结束了",
+      "onboard_time": 1763304143,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -12155,6 +12187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 252560,
+      "num": 252560,
+      "word": "央视曝光6666元包教包会养伤人蜂",
+      "onboard_time": 1763302342,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 252506,
       "num": 252506,
       "word": "唐诡3把观众写进剧里",
@@ -12371,20 +12411,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 247310,
-      "num": 247310,
-      "word": "央视曝光6666元包教包会养伤人蜂",
-      "onboard_time": 1763302342,
-      "rank": 9,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 247206,
       "num": 247206,
       "word": "井柏然刘雯 商务共享",
       "onboard_time": 1762846460,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247039,
+      "num": 247039,
+      "word": "文淇 羡慕中女祝福中女",
+      "onboard_time": 1763304805,
+      "rank": 9,
+      "category": "电影"
     },
     {
       "raw_hot": 246988,
@@ -14913,6 +14953,14 @@
       "onboard_time": 1762334662,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 205436,
+      "num": 185154,
+      "word": "巩立姣泪洒全运会",
+      "onboard_time": 1763304023,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 205342,
@@ -17659,6 +17707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 183971,
+      "num": 170462,
+      "word": "黄子弘凡直播",
+      "onboard_time": 1763305645,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183896,
       "num": 183896,
       "word": "杨超越 红与黑",
@@ -17968,6 +18024,14 @@
       "word": "王楚钦说半决赛很精彩",
       "onboard_time": 1763190981,
       "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 181209,
+      "num": 170111,
+      "word": "孙颖莎与王曼昱交手记录",
+      "onboard_time": 1763304203,
+      "rank": 24,
       "category": "体育"
     },
     {
@@ -19003,6 +19067,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 171508,
+      "num": 171508,
+      "word": "宋雨琦教陈信宏跳舞",
+      "onboard_time": 1763301684,
+      "rank": 45,
+      "category": "演出"
+    },
+    {
       "raw_hot": 171460,
       "num": 171460,
       "word": "王鹤棣毛晓彤cha了新歌",
@@ -19209,6 +19281,14 @@
       "onboard_time": 1763129782,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 169913,
+      "num": 169913,
+      "word": "陈梦回应铜牌",
+      "onboard_time": 1763305464,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 169886,
@@ -20729,6 +20809,14 @@
       "onboard_time": 1762780822,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160086,
+      "num": 160086,
+      "word": "减肥对圆脸的面部影响有多大",
+      "onboard_time": 1763304264,
+      "rank": 27,
+      "category": "运动健身"
     },
     {
       "raw_hot": 160057,
@@ -23027,6 +23115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147358,
+      "num": 147358,
+      "word": "给张晚意拍成五五分了",
+      "onboard_time": 1763305583,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 147355,
       "num": 504258,
       "word": "科学家研发能治病的毒液机器人",
@@ -23265,6 +23361,14 @@
       "onboard_time": 1763091021,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 146070,
+      "num": 142619,
+      "word": "华晨宇灭梦导师来了",
+      "onboard_time": 1763306366,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 146062,
@@ -23913,6 +24017,14 @@
       "onboard_time": 1763279960,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 142622,
+      "num": 142622,
+      "word": "T1转会期",
+      "onboard_time": 1763304385,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 142595,
@@ -25577,6 +25689,14 @@
       "onboard_time": 1763021420,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135225,
+      "num": 135225,
+      "word": "曝张诗尧爆红后不回旧友信息",
+      "onboard_time": 1763303963,
+      "rank": 48,
+      "category": "网红"
     },
     {
       "raw_hot": 135108,
@@ -28315,14 +28435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 124777,
-      "num": 124777,
-      "word": "宋雨琦教陈信宏跳舞",
-      "onboard_time": 1763301684,
-      "rank": 45,
-      "category": "演出"
-    },
-    {
       "raw_hot": 124768,
       "num": 124768,
       "word": "孙杨想要游得更久",
@@ -29801,6 +29913,14 @@
       "onboard_time": 1762413139,
       "rank": 35,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 120132,
+      "num": 120132,
+      "word": "让脸变好看的8个动作",
+      "onboard_time": 1763306546,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 120040,
@@ -31731,6 +31851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113888,
+      "num": 113888,
+      "word": "葡萄牙vs亚美尼亚",
+      "onboard_time": 1763306005,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113664,
       "num": 113664,
       "word": "莆田银河左岸音乐节",
@@ -33451,6 +33579,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108741,
+      "num": 108741,
+      "word": "中央戏剧学院祝贺易烊千玺",
+      "onboard_time": 1763303841,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 108723,
       "num": 144409,
       "word": "陈靖可今晚做梦都会笑醒吧",
@@ -34409,6 +34545,14 @@
       "onboard_time": 1761979159,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106333,
+      "num": 120543,
+      "word": "第一批退订日本机票旅客已到账",
+      "onboard_time": 1763303004,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106317,
@@ -35371,6 +35515,14 @@
       "category": "演出,体育"
     },
     {
+      "raw_hot": 103801,
+      "num": 103801,
+      "word": "张怡宁 意大利记者",
+      "onboard_time": 1763306664,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103796,
       "num": 102337,
       "word": "邱鼎杰 冒险家puka",
@@ -35843,6 +35995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 102851,
+      "num": 102851,
+      "word": "高市早苗被喊话向中国道歉",
+      "onboard_time": 1763306246,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 102843,
       "num": 102843,
       "word": "庄达菲敷着面膜吃东西",
@@ -36115,14 +36275,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 102132,
-      "num": 102132,
-      "word": "中央戏剧学院祝贺易烊千玺",
-      "onboard_time": 1763303841,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 102096,
       "num": 102096,
       "word": "王曼昱回应险胜范思琦",
@@ -36161,14 +36313,6 @@
       "onboard_time": 1762871720,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 102001,
-      "num": 102001,
-      "word": "曝张诗尧爆红后不回旧友信息",
-      "onboard_time": 1763303963,
-      "rank": 48,
-      "category": "网红"
     },
     {
       "raw_hot": 101973,
@@ -47803,14 +47947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 73340,
-      "num": 120543,
-      "word": "第一批退订日本机票旅客已到账",
-      "onboard_time": 1763303004,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73329,
       "num": 72298,
       "word": "6岁妹妹把我的遗憾记了12年",
@@ -53291,6 +53427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44710,
+      "num": 114405,
+      "word": "日政客甩锅涉台提问者",
+      "onboard_time": 1763305405,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44709,
       "num": 44709,
       "word": "钟嘉欣将和老公庆祝结婚十周年",
@@ -55220,7 +55364,7 @@
     },
     {
       "raw_hot": 33532,
-      "num": 455412,
+      "num": 461029,
       "word": "沉浸式感受十五运精彩瞬间",
       "onboard_time": 1763303242,
       "rank": 2,
