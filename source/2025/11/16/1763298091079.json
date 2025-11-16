@@ -1,0 +1,410 @@
+{
+  "runTime": 1763298091079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 580247,
+        "num": 1092839,
+        "word": "朱雨玲vs陈梦",
+        "onboard_time": 1763295801,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 566831,
+        "num": 566831,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5781,
+        "num": 519956,
+        "word": "一场场比赛展示大湾区融合发展成果",
+        "onboard_time": 1763282902,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 507709,
+        "num": 507709,
+        "word": "唐诡3纯坏但纯爱的一对",
+        "onboard_time": 1763292803,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 440306,
+        "num": 440306,
+        "word": "徐嘉余打破全国纪录",
+        "onboard_time": 1763296279,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 627745,
+        "num": 416433,
+        "word": "高市早苗早年叫板视频曝光",
+        "onboard_time": 1763294481,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 575941,
+        "num": 405904,
+        "word": "樊振东冠军",
+        "onboard_time": 1763274203,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 381895,
+        "num": 381895,
+        "word": "南京一公园被私人占有十年",
+        "onboard_time": 1763288481,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 322841,
+        "num": 322841,
+        "word": "华为Mate80",
+        "onboard_time": 1763292202,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 300052,
+        "num": 300052,
+        "word": "卢凌风人设",
+        "onboard_time": 1763295922,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100902,
+        "num": 280324,
+        "word": "航拍南京一公园被私人占有数年现状",
+        "onboard_time": 1763296824,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274836,
+        "num": 274836,
+        "word": "霍尊音乐节状态",
+        "onboard_time": 1763294002,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 4970,
+        "num": 272009,
+        "word": "全运会首个跨境马拉松",
+        "onboard_time": 1763264180,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 271275,
+        "num": 271275,
+        "word": "韩国宣布中国排日本前面",
+        "onboard_time": 1763281403,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253431,
+        "num": 253431,
+        "word": "日本针对中国公民违法犯罪多发",
+        "onboard_time": 1763286683,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 236330,
+        "num": 236330,
+        "word": "易烊千玺与他的金鸡奖杯",
+        "onboard_time": 1763297423,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235975,
+        "num": 235975,
+        "word": "迪丽热巴给刘宇宁送花篮",
+        "onboard_time": 1763295801,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 205342,
+        "num": 205342,
+        "word": "侯明昊音乐节",
+        "onboard_time": 1763294362,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89683,
+        "num": 205124,
+        "word": "日本不需要煽动战争的首相",
+        "onboard_time": 1763297241,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49655,
+        "num": 203783,
+        "word": "刘雨昕Dior矜贵范",
+        "onboard_time": 1763296942,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727280,
+        "num": 202825,
+        "word": "blue露脸",
+        "onboard_time": 1763293461,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 480098,
+        "num": 201559,
+        "word": "向佑在美国遭歧视向佐打断对方的手",
+        "onboard_time": 1763275461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315742,
+        "num": 200432,
+        "word": "郑朋我需要心理医生",
+        "onboard_time": 1763289261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251736,
+        "num": 198766,
+        "word": "下下下个月今天就是除夕",
+        "onboard_time": 1763296641,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198629,
+        "num": 198629,
+        "word": "曝佘诗曼斥资3000万港元买豪宅",
+        "onboard_time": 1763281822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198417,
+        "num": 198417,
+        "word": "长期熬夜的人都去做4件事",
+        "onboard_time": 1763288841,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186317,
+        "num": 186317,
+        "word": "林诗栋靠化缘走到了决赛",
+        "onboard_time": 1763290102,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169838,
+        "num": 177744,
+        "word": "陈数在挪威海上起舞",
+        "onboard_time": 1763297003,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49551,
+        "num": 176504,
+        "word": "周翊然微博红毯生图",
+        "onboard_time": 1763296942,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 175693,
+        "num": 175693,
+        "word": "王俊凯蟹钳",
+        "onboard_time": 1763293941,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174664,
+        "num": 174664,
+        "word": "樊振东将重返德甲赛场",
+        "onboard_time": 1763289861,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160999,
+        "num": 160999,
+        "word": "丁禹兮 正宫就得有正宫的大度",
+        "onboard_time": 1763296521,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159583,
+        "num": 159583,
+        "word": "四喜",
+        "onboard_time": 1763298023,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153729,
+        "num": 153729,
+        "word": "成都大哥卖血旺",
+        "onboard_time": 1763295922,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152151,
+        "num": 152151,
+        "word": "展轩晒与许嵩合照",
+        "onboard_time": 1763293701,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 147956,
+        "num": 147956,
+        "word": "枭起青壤 此图暗藏玄机",
+        "onboard_time": 1763287881,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131965,
+        "num": 131965,
+        "word": "Bin双眼皮",
+        "onboard_time": 1763285781,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 26435,
+        "num": 130306,
+        "word": "酒店回应顾客借剪刀被保安限时并威胁",
+        "onboard_time": 1763297003,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59664,
+        "num": 130156,
+        "word": "公厕被打女孩打人者已刑满释放",
+        "onboard_time": 1763296824,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41933,
+        "num": 130049,
+        "word": "70万元奔驰天窗破洞车主质疑纸糊",
+        "onboard_time": 1763298023,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130025,
+        "num": 130025,
+        "word": "新闻女王2大大方方的真诚",
+        "onboard_time": 1763297361,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44336,
+        "num": 127896,
+        "word": "军舰上摆出从从容容游刃有余",
+        "onboard_time": 1763296041,
+        "rank": 41,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 127130,
+        "num": 127130,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1763294362,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121812,
+        "num": 121812,
+        "word": "张博恒状态",
+        "onboard_time": 1763296402,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37622,
+        "num": 113167,
+        "word": "我也是跟童年男神吃上饭了",
+        "onboard_time": 1763294661,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112976,
+        "num": 112976,
+        "word": "日本扩军备战套路与二战前高度相似",
+        "onboard_time": 1763295621,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112823,
+        "num": 112823,
+        "word": "比吃药更有效的防流感习惯",
+        "onboard_time": 1763296641,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111347,
+        "num": 111347,
+        "word": "沈羽洁发了范丞丞",
+        "onboard_time": 1763283082,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106649,
+        "num": 106649,
+        "word": "目前无法根治的10种病",
+        "onboard_time": 1763292500,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102983,
+        "num": 102983,
+        "word": "钟楚曦晒金鸡奖杯证书",
+        "onboard_time": 1763290161,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#办一项跨三地的赛事有多硬核#"
+    }
+  }
+}

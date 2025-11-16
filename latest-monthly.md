@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 20:47:38
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 21:01:31
 </p>
 </blockquote>
 <p>
@@ -2649,6 +2649,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%97%A9%E5%B9%B4%E5%8F%AB%E6%9D%BF%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
+高市早苗早年叫板视频曝光（热度：627745）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%811A%E5%BA%A7%E8%A2%AB%E6%8C%87%E9%9D%A2%E5%A3%81%E5%BA%A7%23" target="weibo">
 12306回应高铁1A座被指面壁座（热度：626933）
 </a>
@@ -3011,6 +3017,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%20%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9A%84%E6%9B%B2%E7%AD%B1%E7%BB%A1%23" target="weibo">
 乔欣 现实版的曲筱绡（热度：580326）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%A8%E7%8E%B2vs%E9%99%88%E6%A2%A6%23" target="weibo">
+朱雨玲vs陈梦（热度：580247）
 </a>
 </li>
 
@@ -3849,12 +3861,6 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%A8%E7%8E%B2vs%E9%99%88%E6%A2%A6%23" target="weibo">
-朱雨玲vs陈梦（热度：500589）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%81%87%23" target="weibo">
 秋假（热度：500363）
 </a>
@@ -4467,12 +4473,6 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%97%A9%E5%B9%B4%E5%8F%AB%E6%9D%BF%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
-高市早苗早年叫板视频曝光（热度：454120）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%BC%A0%E9%A6%A8%E4%BA%88%E8%BF%98%E6%98%AF%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 这是张馨予还是迪丽热巴（热度：454088）
 </a>
@@ -4691,6 +4691,12 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D%20%E6%92%A4%E6%A1%A3%23" target="weibo">
 唐嫣爱情没有神话 撤档（热度：440325）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%98%89%E4%BD%99%E6%89%93%E7%A0%B4%E5%85%A8%E5%9B%BD%E7%BA%AA%E5%BD%95%23" target="weibo">
+徐嘉余打破全国纪录（热度：440306）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TVB演员众筹150万给妻子治病（热度：375657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E4%B8%80%E5%A4%9C%E5%BA%97%E5%8F%AF%E7%8E%B0%E5%9C%BA%E7%99%BB%E8%AE%B0%E7%BB%93%E5%A9%9A%23" target="weibo">
 上海一夜店可现场登记结婚（热度：364214）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%AB%A5%E7%91%B6%E8%92%8B%E6%AC%A3%20%E4%B8%89%E5%BC%A0%E6%9D%83%E5%A8%81%E7%9A%84%E8%84%B8%23" target="weibo">
-杨幂童瑶蒋欣 三张权威的脸（热度：364060）
 </a>
 </li>
 
