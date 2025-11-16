@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 23:24:50
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 23:38:52
 </p>
 </blockquote>
 <p>
@@ -81,6 +81,12 @@ T1三连冠（热度：8192449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B%23" target="weibo">
+王曼昱冠军（热度：6805837）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E6%9E%97%E8%AF%97%E6%A0%8B%23" target="weibo">
 樊振东vs林诗栋（热度：6748763）
 </a>
@@ -119,12 +125,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E5%83%A7%E6%89%AE%E6%BC%94%E8%80%85%E5%88%98%E5%A4%A7%E5%88%9A%E7%97%85%E9%80%9D%23" target="weibo">
 沙僧扮演者刘大刚病逝（热度：3648101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E5%86%A0%E5%86%9B%23" target="weibo">
-王曼昱冠军（热度：3429724）
 </a>
 </li>
 
