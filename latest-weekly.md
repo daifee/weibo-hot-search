@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/17 05:37:02
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/17 06:24:26
 </p>
 </blockquote>
 <p>
@@ -3237,6 +3237,12 @@ WTT祝贺樊振东夺冠（热度：107525）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E6%8E%A8%E5%8D%B8%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
+日本政客推卸涉台言论责任（热度：18491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%A4%E7%94%B7%20%E5%85%AC%E4%B8%BB%E4%BB%8E%E9%9A%A7%E9%81%93%E8%B7%91%E5%88%B0%E4%BA%86%E8%BD%AE%E6%B8%A1%23" target="weibo">
 鹤男 公主从隧道跑到了轮渡（热度：18307）
 </a>
@@ -3263,12 +3269,6 @@ WTT祝贺樊振东夺冠（热度：107525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%B5%B0%E7%9A%84%E5%86%B3%E5%BF%83%23" target="weibo">
 出走的决心（热度：16385）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E6%8E%A8%E5%8D%B8%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
-日本政客推卸涉台言论责任（热度：15027）
 </a>
 </li>
 
