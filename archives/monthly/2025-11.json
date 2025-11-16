@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763300496558,
+  "endTime": 1763302997391,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -203,6 +203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2733185,
+      "num": 2733185,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1763298261,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2664851,
       "num": 2664851,
       "word": "欧豪在看马思纯吗",
@@ -345,6 +353,14 @@
       "onboard_time": 1762470618,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1815500,
+      "num": 246206,
+      "word": "霍尊 复出",
+      "onboard_time": 1763300122,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 1797747,
@@ -539,14 +555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1509682,
-      "num": 1509682,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1763298261,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 1505297,
       "num": 334287,
       "word": "请6休17",
@@ -737,6 +745,14 @@
       "onboard_time": 1763029161,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1324104,
+      "num": 1324104,
+      "word": "陈梦铜牌",
+      "onboard_time": 1763300543,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1323471,
@@ -3835,6 +3851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 599526,
+      "num": 590318,
+      "word": "日本不需要煽动战争的首相",
+      "onboard_time": 1763297241,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 599446,
       "num": 494875,
       "word": "李隆基 太平公主",
@@ -3929,14 +3953,6 @@
       "onboard_time": 1763192660,
       "rank": 3,
       "category": "体育"
-    },
-    {
-      "raw_hot": 590318,
-      "num": 590318,
-      "word": "日本不需要煽动战争的首相",
-      "onboard_time": 1763297241,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 590238,
@@ -4657,6 +4673,14 @@
       "onboard_time": 1762343961,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 536263,
+      "num": 237180,
+      "word": "朱雨玲陈梦无关胜负满是情怀",
+      "onboard_time": 1763301443,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 536051,
@@ -6483,6 +6507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428111,
+      "num": 679781,
+      "word": "易烊千玺与他的金鸡奖杯",
+      "onboard_time": 1763297423,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 427959,
       "num": 264829,
       "word": "赵丽颖连包10场支持辛芷蕾新片",
@@ -6553,14 +6585,6 @@
       "onboard_time": 1762748901,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 425018,
-      "num": 679781,
-      "word": "易烊千玺与他的金鸡奖杯",
-      "onboard_time": 1763297423,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 424880,
@@ -9907,6 +9931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 304334,
+      "num": 235894,
+      "word": "樊振东剑指双圈全满贯",
+      "onboard_time": 1763301382,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304271,
       "num": 160138,
       "word": "迅猛龙自曝不参加恋综的原因",
@@ -11451,6 +11483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 267961,
+      "num": 234712,
+      "word": "倪萍提到金鸡奖",
+      "onboard_time": 1763300244,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 267748,
       "num": 241605,
       "word": "梁靖崑给自己一巴掌",
@@ -12363,14 +12403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246206,
-      "num": 246206,
-      "word": "霍尊 复出",
-      "onboard_time": 1763300122,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 245803,
       "num": 186984,
       "word": "王传君获奖是五个评委一致通过的",
@@ -12619,6 +12651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240304,
+      "num": 240304,
+      "word": "华晨宇 没什么问题也是挺大的问题",
+      "onboard_time": 1763299642,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 240259,
       "num": 240259,
       "word": "全体搜救队员静候航天员凯旋",
@@ -12857,6 +12897,14 @@
       "onboard_time": 1762145721,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233891,
+      "num": 233891,
+      "word": "那英没见到父亲最后一面",
+      "onboard_time": 1763301743,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 233886,
@@ -14649,6 +14697,14 @@
       "onboard_time": 1763274503,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208020,
+      "num": 170488,
+      "word": "杨博文刘海怎么越跳越长",
+      "onboard_time": 1763302163,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 207882,
@@ -17707,28 +17763,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182773,
-      "num": 182773,
-      "word": "华晨宇 没什么问题也是挺大的问题",
-      "onboard_time": 1763299642,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 182735,
       "num": 252045,
       "word": "陈梦回应为何参加全运会",
       "onboard_time": 1762413081,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 182647,
-      "num": 155288,
-      "word": "倪萍提到金鸡奖",
-      "onboard_time": 1763300244,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 182567,
@@ -19619,6 +19659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166201,
+      "num": 188624,
+      "word": "中国游客近期避免前往日本旅游",
+      "onboard_time": 1763300603,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 166148,
       "num": 156747,
       "word": "前央视最帅主持人亚宁复出",
@@ -19649,6 +19697,14 @@
       "onboard_time": 1761961640,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 166055,
+      "num": 166055,
+      "word": "小学教师减少小班化教学该推进了",
+      "onboard_time": 1763302283,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 166044,
@@ -19753,6 +19809,14 @@
       "onboard_time": 1763185581,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165546,
+      "num": 165546,
+      "word": "张函瑞 牛油果巴旦木奶昔",
+      "onboard_time": 1763302764,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 165491,
@@ -20835,6 +20899,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 158755,
+      "num": 158755,
+      "word": "樊振东肯定自己全运会单项表现",
+      "onboard_time": 1763302342,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 158722,
       "num": 158722,
       "word": "双十一期间多名主播喊破了肺泡",
@@ -21611,6 +21683,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 154812,
+      "num": 154812,
+      "word": "睡前这样躺一会儿养气血",
+      "onboard_time": 1763301982,
+      "rank": 32,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154784,
       "num": 149338,
       "word": "孟子义3秒消失术",
@@ -21875,6 +21955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 152715,
+      "num": 152715,
+      "word": "陈梦朱雨玲赛后相拥",
+      "onboard_time": 1763302583,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152706,
       "num": 152706,
       "word": "TES主教练回应输给T1",
@@ -22129,6 +22217,14 @@
       "onboard_time": 1762060821,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 151684,
+      "num": 151684,
+      "word": "朱珠霍建华意外的好嗑",
+      "onboard_time": 1763301263,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 151461,
@@ -24819,6 +24915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137885,
+      "num": 137885,
+      "word": "957爆料peyz去冠军队",
+      "onboard_time": 1763300963,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137862,
       "num": 137862,
       "word": "陈楚生被还烫小手整沉默了",
@@ -25939,6 +26043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133040,
+      "num": 133040,
+      "word": "陈伟霆唱跳",
+      "onboard_time": 1763302042,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133021,
       "num": 133021,
       "word": "林高远说很荣幸和刘诗雯并肩作战",
@@ -26915,6 +27027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128996,
+      "num": 128996,
+      "word": "张奕然放秋假",
+      "onboard_time": 1763302764,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128995,
       "num": 128995,
       "word": "天地剑心打戏是前菜哭戏是大餐",
@@ -27457,6 +27577,14 @@
       "onboard_time": 1762327039,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127078,
+      "num": 127078,
+      "word": "朱雨玲陈梦爆分",
+      "onboard_time": 1763302103,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 127054,
@@ -28137,6 +28265,14 @@
       "onboard_time": 1762009283,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124777,
+      "num": 124777,
+      "word": "宋雨琦教陈信宏跳舞",
+      "onboard_time": 1763301684,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 124768,
@@ -29481,6 +29617,14 @@
       "onboard_time": 1763132902,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120642,
+      "num": 120642,
+      "word": "央视曝美发店免费抽奖实为套路充",
+      "onboard_time": 1763300603,
+      "rank": 47,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 120557,
@@ -50139,6 +50283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61823,
+      "num": 239981,
+      "word": "央视曝光6666元包教包会养伤人蜂",
+      "onboard_time": 1763302342,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 61807,
       "num": 229889,
       "word": "周深被臭鳜鱼困住了",
@@ -53819,6 +53971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40150,
+      "num": 134367,
+      "word": "女子称司机还手机3公里索要150元",
+      "onboard_time": 1763302702,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40120,
       "num": 290734,
       "word": "芝麻800亮相微博视界大会",
@@ -54809,6 +54969,14 @@
       "onboard_time": 1762603701,
       "rank": 10,
       "category": "电竞,数码"
+    },
+    {
+      "raw_hot": 34212,
+      "num": 126647,
+      "word": "借网贷算塔罗转运被骗180万",
+      "onboard_time": 1763301622,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34204,
