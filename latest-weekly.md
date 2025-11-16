@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/17 03:20:45
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/17 03:37:09
 </p>
 </blockquote>
 <p>
@@ -3249,20 +3249,20 @@ WTT祝贺樊振东夺冠（热度：107525）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E6%8E%A8%E5%8D%B8%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
+日本政客推卸涉台言论责任（热度：15027）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%BB%E6%88%92%E8%BF%98%E6%98%AF%E8%A6%81%E6%88%B4%E7%9A%84%E5%85%B3%E9%94%AE%E6%97%B6%E5%88%BB%E8%83%BD%E6%95%91%E5%91%BD%23" target="weibo">
 钻戒还是要戴的关键时刻能救命（热度：14874）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%94%BF%E5%AE%A2%E6%8E%A8%E5%8D%B8%E6%B6%89%E5%8F%B0%E8%A8%80%E8%AE%BA%E8%B4%A3%E4%BB%BB%23" target="weibo">
-日本政客推卸涉台言论责任（热度：14062）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BD%A6%E7%9C%9F%E7%9A%84%E8%83%BD%E6%8F%90%E5%8D%87%E7%94%9F%E6%B4%BB%E8%B4%A8%E9%87%8F%23" target="weibo">
-原来车真的能提升生活质量（热度：13342）
+原来车真的能提升生活质量（热度：13802）
 </a>
 </li>
 
