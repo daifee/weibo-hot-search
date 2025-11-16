@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763282706779,
+  "endTime": 1763285149265,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -553,6 +553,14 @@
       "onboard_time": 1762477879,
       "rank": 3,
       "category": "休闲,民生新闻"
+    },
+    {
+      "raw_hot": 1483323,
+      "num": 1483323,
+      "word": "韩国宣布中国排日本前面",
+      "onboard_time": 1763281403,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1482571,
@@ -1313,14 +1321,6 @@
       "onboard_time": 1762408461,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1035420,
-      "num": 244643,
-      "word": "韩国宣布中国排日本前面",
-      "onboard_time": 1763281403,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1031397,
@@ -4467,6 +4467,14 @@
       "category": "财经,艺人"
     },
     {
+      "raw_hot": 545444,
+      "num": 199950,
+      "word": "卢昱晓收到老鼠干开心成这样",
+      "onboard_time": 1763276364,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 544522,
       "num": 544522,
       "word": "三大航急发中日航线免费退改签",
@@ -5779,14 +5787,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 462086,
-      "num": 199950,
-      "word": "卢昱晓收到老鼠干开心成这样",
-      "onboard_time": 1763276364,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 461960,
       "num": 176125,
       "word": "本周做什么都顺的星座",
@@ -6993,6 +6993,14 @@
       "onboard_time": 1762913840,
       "rank": 22,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 398391,
+      "num": 159042,
+      "word": "曝佘诗曼斥资3000万港元买豪宅",
+      "onboard_time": 1763281822,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 398176,
@@ -8275,6 +8283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349822,
+      "num": 249157,
+      "word": "中国大陆至日本航班量大幅下滑",
+      "onboard_time": 1763278882,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349527,
       "num": 349527,
       "word": "库里职业生涯首次恶意犯规",
@@ -9243,6 +9259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 318035,
+      "num": 158956,
+      "word": "沈羽洁发了范丞丞",
+      "onboard_time": 1763283082,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317079,
       "num": 226834,
       "word": "关晓彤骨相",
@@ -9987,6 +10011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 298770,
+      "num": 194973,
+      "word": "樊振东感谢国家培养",
+      "onboard_time": 1763282542,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 298620,
       "num": 225549,
       "word": "薛之谦 认真的雪",
@@ -10257,6 +10289,14 @@
       "onboard_time": 1762329681,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 290592,
+      "num": 290592,
+      "word": "二手奶茶袋已卖到几十元",
+      "onboard_time": 1763272641,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290062,
@@ -10811,14 +10851,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277838,
-      "num": 277838,
-      "word": "二手奶茶袋已卖到几十元",
-      "onboard_time": 1763272641,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 277726,
       "num": 277726,
       "word": "Faker说Uzi是LPL最佳选手",
@@ -11033,6 +11065,14 @@
       "onboard_time": 1762139419,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 272411,
+      "num": 272411,
+      "word": "Uzi否认复出",
+      "onboard_time": 1763284641,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 272112,
@@ -11811,6 +11851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253340,
+      "num": 180936,
+      "word": "医生建议每周素颜一天",
+      "onboard_time": 1763281822,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 253129,
       "num": 253129,
       "word": "杨紫生命树收官文被网友做成歌了",
@@ -12411,14 +12459,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 239066,
-      "num": 247099,
-      "word": "中国大陆至日本航班量大幅下滑",
-      "onboard_time": 1763278882,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 239062,
       "num": 194641,
       "word": "折月亮",
@@ -12481,6 +12521,14 @@
       "onboard_time": 1763089161,
       "rank": 8,
       "category": "电影"
+    },
+    {
+      "raw_hot": 237639,
+      "num": 237639,
+      "word": "T1 Guma",
+      "onboard_time": 1763282662,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 237426,
@@ -12801,6 +12849,14 @@
       "onboard_time": 1763263761,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229351,
+      "num": 159256,
+      "word": "樊振东谈下一个目标",
+      "onboard_time": 1763282002,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 229276,
@@ -13987,6 +14043,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 212152,
+      "num": 193362,
+      "word": "男子彩票中奖群里分享被邻居冒领",
+      "onboard_time": 1763283382,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212140,
       "num": 207215,
       "word": "敖瑞鹏演艺圈第一高人",
@@ -14184,6 +14248,14 @@
       "word": "就说爆改还珠格格会出大事吧",
       "onboard_time": 1762487360,
       "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 209986,
+      "num": 209986,
+      "word": "枭起青壤官宣节奏",
+      "onboard_time": 1763281642,
+      "rank": 29,
       "category": "剧集"
     },
     {
@@ -17187,14 +17259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184154,
-      "num": 145143,
-      "word": "樊振东谈下一个目标",
-      "onboard_time": 1763282002,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 184130,
       "num": 184130,
       "word": "她3个月干了我一辈子的工作",
@@ -17523,14 +17587,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 180936,
-      "num": 180936,
-      "word": "医生建议每周素颜一天",
-      "onboard_time": 1763281822,
-      "rank": 34,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 180860,
       "num": 282026,
       "word": "你好星期六下期张凌赫",
@@ -17609,6 +17665,14 @@
       "onboard_time": 1762425862,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 179810,
+      "num": 179810,
+      "word": "惠英红谈金鸡奖是各花入各眼",
+      "onboard_time": 1763282842,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 179747,
@@ -18803,6 +18867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 168676,
+      "num": 145451,
+      "word": "樊振东谈全运会收获",
+      "onboard_time": 1763284941,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 168647,
       "num": 168647,
       "word": "大湾鸡被拎走",
@@ -18864,14 +18936,6 @@
       "word": "黄梦莹疯批女主强制恨",
       "onboard_time": 1762921760,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 167947,
-      "num": 197958,
-      "word": "枭起青壤官宣节奏",
-      "onboard_time": 1763281642,
-      "rank": 29,
       "category": "剧集"
     },
     {
@@ -19715,6 +19779,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 163012,
+      "num": 144284,
+      "word": "佟丽娅 早知道我为你化个妆了",
+      "onboard_time": 1763283262,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163004,
       "num": 163004,
       "word": "Ning为Tarzan鸣不平",
@@ -20321,6 +20393,14 @@
       "onboard_time": 1762934840,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159358,
+      "num": 159358,
+      "word": "倪萍为章子怡一代宗师感到惋惜",
+      "onboard_time": 1763283622,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 159296,
@@ -21547,14 +21627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 152151,
-      "num": 138723,
-      "word": "樊振东感谢国家培养",
-      "onboard_time": 1763282542,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152140,
       "num": 185586,
       "word": "佘诗曼一说港普气场就对了",
@@ -21673,6 +21745,14 @@
       "onboard_time": 1762320741,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151333,
+      "num": 151333,
+      "word": "黄觉跨界导演首个作品就获奖",
+      "onboard_time": 1763284042,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 151273,
@@ -26403,6 +26483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128766,
+      "num": 128766,
+      "word": "王楚钦喊话马龙打好团体赛",
+      "onboard_time": 1763284882,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128733,
       "num": 128733,
       "word": "短剧里居然有穿越不开挂的男主",
@@ -27795,6 +27883,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 124192,
+      "num": 124192,
+      "word": "上海队合影樊振东",
+      "onboard_time": 1763284582,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124169,
       "num": 124169,
       "word": "终于明白外国人看李子柒的感觉了",
@@ -28955,6 +29051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120266,
+      "num": 120266,
+      "word": "五月天广州官宣",
+      "onboard_time": 1763284222,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120211,
       "num": 120211,
       "word": "灰原哀病弱坚韧美人感",
@@ -29153,6 +29257,14 @@
       "onboard_time": 1762822941,
       "rank": 21,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 119364,
+      "num": 119364,
+      "word": "德国名将盛赞好兄弟樊振东",
+      "onboard_time": 1763284162,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 119333,
@@ -32737,6 +32849,14 @@
       "onboard_time": 1762850300,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108217,
+      "num": 105148,
+      "word": "樊振东成全运会男单历史最佳",
+      "onboard_time": 1763283262,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 108209,
@@ -36371,6 +36491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99055,
+      "num": 99055,
+      "word": "这居然是47岁的颜丹晨",
+      "onboard_time": 1763285121,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "Uzi预测比分",
@@ -36609,14 +36737,6 @@
       "onboard_time": 1761902303,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98523,
-      "num": 98523,
-      "word": "T1 Guma",
-      "onboard_time": 1763282662,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 98504,
@@ -37169,6 +37289,14 @@
       "onboard_time": 1762399822,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97483,
+      "num": 97483,
+      "word": "邪恶大鼠标",
+      "onboard_time": 1763283801,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 97441,
@@ -41195,6 +41323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 88476,
+      "num": 88476,
+      "word": "中方对日迎头痛击如何击有多痛",
+      "onboard_time": 1763284882,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88451,
       "num": 88451,
       "word": "韩网爆料T1转会动态",
@@ -41881,14 +42017,6 @@
       "onboard_time": 1762654219,
       "rank": 46,
       "category": "演出"
-    },
-    {
-      "raw_hot": 86947,
-      "num": 125797,
-      "word": "曝佘诗曼斥资3000万港元买豪宅",
-      "onboard_time": 1763281822,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 86946,
@@ -52443,6 +52571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42297,
+      "num": 120314,
+      "word": "南京地铁回应安保人员因化妆被辞退",
+      "onboard_time": 1763284762,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42291,
       "num": 174009,
       "word": "柯洁新歌舞台首秀",
@@ -53465,6 +53601,14 @@
       "onboard_time": 1763229137,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35965,
+      "num": 159311,
+      "word": "高市早苗之前曾多次窜访台湾",
+      "onboard_time": 1763284762,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35961,
@@ -55275,6 +55419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25590,
+      "num": 120963,
+      "word": "名创优品 过期零食",
+      "onboard_time": 1763284762,
+      "rank": 38,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 25557,
       "num": 144771,
       "word": "辛纳首夺巴黎大师赛冠军",
@@ -55497,6 +55649,14 @@
       "onboard_time": 1762871661,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24059,
+      "num": 350712,
+      "word": "全运会首个跨境马拉松",
+      "onboard_time": 1763264180,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 23982,
@@ -56257,6 +56417,14 @@
       "onboard_time": 1762757180,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 18381,
+      "num": 179993,
+      "word": "日本战败80年后似乎想回到从前",
+      "onboard_time": 1763284762,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18380,
@@ -57271,14 +57439,6 @@
       "num": 803493,
       "word": "粤港澳联队全运会首次夺冠",
       "onboard_time": 1762957522,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 5639,
-      "num": 350712,
-      "word": "全运会首个跨境马拉松",
-      "onboard_time": 1763264180,
       "rank": 2,
       "category": "体育"
     },
