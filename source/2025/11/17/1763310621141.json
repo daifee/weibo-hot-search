@@ -1,0 +1,410 @@
+{
+  "runTime": 1763310621141,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3792579,
+        "num": 3792579,
+        "word": "王曼昱冠军",
+        "onboard_time": 1763306186,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 582952,
+        "num": 582952,
+        "word": "孙颖莎亚军",
+        "onboard_time": 1763306186,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16989,
+        "num": 540010,
+        "word": "沉浸式感受十五运精彩瞬间",
+        "onboard_time": 1763303242,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251663,
+        "num": 527259,
+        "word": "刘宇宁演唱会内娱大佬团建",
+        "onboard_time": 1763304564,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195946,
+        "num": 493240,
+        "word": "文淇 羡慕中女祝福中女",
+        "onboard_time": 1763304805,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1055628,
+        "num": 413826,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1763298261,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404734,
+        "num": 404734,
+        "word": "日本不需要煽动战争的首相",
+        "onboard_time": 1763297241,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159113,
+        "num": 404518,
+        "word": "侯明昊音乐节",
+        "onboard_time": 1763294362,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136348,
+        "num": 403691,
+        "word": "央视曝光6666元包教包会养伤人蜂",
+        "onboard_time": 1763302342,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 130116,
+        "num": 402489,
+        "word": "日本针对中国公民违法犯罪多发",
+        "onboard_time": 1763286683,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 616522,
+        "num": 401574,
+        "word": "张怡宁 意大利记者",
+        "onboard_time": 1763306664,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 401319,
+        "num": 401319,
+        "word": "何炅这是我活该的",
+        "onboard_time": 1763308702,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386604,
+        "num": 386604,
+        "word": "王曼昱比肩邓亚萍张怡宁",
+        "onboard_time": 1763308761,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237771,
+        "num": 373012,
+        "word": "Faker冠军皮肤想选冰鸟",
+        "onboard_time": 1763307682,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 205001,
+        "num": 357425,
+        "word": "高市早苗被喊话向中国道歉",
+        "onboard_time": 1763306246,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161621,
+        "num": 338278,
+        "word": "周深 李健老师没写过这句",
+        "onboard_time": 1763306903,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133109,
+        "num": 323955,
+        "word": "那英上期查票这期改赛制",
+        "onboard_time": 1763308822,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129834,
+        "num": 310504,
+        "word": "撒贝宁何炅老也能老到一块去",
+        "onboard_time": 1763307981,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120028,
+        "num": 295429,
+        "word": "宋雨琦教陈信宏跳舞",
+        "onboard_time": 1763301684,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 114516,
+        "num": 270121,
+        "word": "白桃星座",
+        "onboard_time": 1763304985,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 473099,
+        "num": 257795,
+        "word": "霍尊 复出",
+        "onboard_time": 1763300122,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 242789,
+        "num": 242789,
+        "word": "樊振东冠军",
+        "onboard_time": 1763274203,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239207,
+        "num": 239207,
+        "word": "孙颖莎王曼昱收视率打法",
+        "onboard_time": 1763307502,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167129,
+        "num": 239182,
+        "word": "乒乓球女单颁奖",
+        "onboard_time": 1763309001,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121542,
+        "num": 239148,
+        "word": "陈梦铜牌",
+        "onboard_time": 1763300543,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115860,
+        "num": 239139,
+        "word": "王曼昱全运会第4金",
+        "onboard_time": 1763307623,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108350,
+        "num": 239102,
+        "word": "向佑在美国遭歧视向佐打断对方的手",
+        "onboard_time": 1763275461,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105312,
+        "num": 239055,
+        "word": "张凌赫金靖去看刘宇宁演唱会",
+        "onboard_time": 1763298081,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 103969,
+        "num": 239018,
+        "word": "长期熬夜的人都去做4件事",
+        "onboard_time": 1763288841,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103437,
+        "num": 238985,
+        "word": "陈梦回应铜牌",
+        "onboard_time": 1763305464,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103702,
+        "num": 238952,
+        "word": "孙颖莎全运会女单银牌",
+        "onboard_time": 1763309240,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103279,
+        "num": 238936,
+        "word": "blue露脸",
+        "onboard_time": 1763293461,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101414,
+        "num": 238907,
+        "word": "减肥对圆脸的面部影响有多大",
+        "onboard_time": 1763304264,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 97014,
+        "num": 238852,
+        "word": "曝张诗尧爆红后不回旧友信息",
+        "onboard_time": 1763303963,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 386850,
+        "num": 238831,
+        "word": "张杰陈楚生实绩",
+        "onboard_time": 1763308880,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95065,
+        "num": 238805,
+        "word": "朱雨玲vs陈梦",
+        "onboard_time": 1763295801,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91431,
+        "num": 238752,
+        "word": "王俊凯蟹钳",
+        "onboard_time": 1763293941,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90642,
+        "num": 238742,
+        "word": "全峰峻最钢铁的直男都在TF三代了",
+        "onboard_time": 1763307921,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85748,
+        "num": 238694,
+        "word": "来咪咕看全运为家乡队打call",
+        "onboard_time": 1763310139,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83160,
+        "num": 238676,
+        "word": "让脸变好看的8个动作",
+        "onboard_time": 1763306546,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 78378,
+        "num": 238649,
+        "word": "唐诡3纯坏但纯爱的一对",
+        "onboard_time": 1763292803,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76916,
+        "num": 238592,
+        "word": "中央戏剧学院祝贺易烊千玺",
+        "onboard_time": 1763303841,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73672,
+        "num": 238570,
+        "word": "第一批退订日本机票旅客已到账",
+        "onboard_time": 1763303004,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73349,
+        "num": 238537,
+        "word": "林诗栋发文告别全运会",
+        "onboard_time": 1763307441,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71928,
+        "num": 238507,
+        "word": "T1转会期",
+        "onboard_time": 1763304385,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71712,
+        "num": 238454,
+        "word": "樊振东剑指双圈全满贯",
+        "onboard_time": 1763301382,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 71130,
+        "num": 238453,
+        "word": "朱松玮等4名队员停赛1个月",
+        "onboard_time": 1763309780,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70139,
+        "num": 238417,
+        "word": "葡萄牙vs亚美尼亚",
+        "onboard_time": 1763306005,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67609,
+        "num": 238356,
+        "word": "陈梦说赛场的快乐无关输赢",
+        "onboard_time": 1763307682,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66412,
+        "num": 238342,
+        "word": "新款iPad路线图曝光",
+        "onboard_time": 1763306903,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}

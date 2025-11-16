@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763307532891,
+  "endTime": 1763310621141,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -315,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 616522,
+      "num": 401574,
+      "word": "张怡宁 意大利记者",
+      "onboard_time": 1763306664,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 599824,
       "num": 349060,
       "word": "罗一舟提问易烊千玺这段",
@@ -563,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 401319,
+      "num": 401319,
+      "word": "何炅这是我活该的",
+      "onboard_time": 1763308702,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 400039,
       "num": 160879,
       "word": "方家翊自曝被某艺人偷衣服",
@@ -601,6 +617,22 @@
       "onboard_time": 1763251580,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 386850,
+      "num": 238831,
+      "word": "张杰陈楚生实绩",
+      "onboard_time": 1763308880,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386604,
+      "num": 386604,
+      "word": "王曼昱比肩邓亚萍张怡宁",
+      "onboard_time": 1763308761,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 385073,
@@ -1083,6 +1115,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 239207,
+      "num": 334696,
+      "word": "孙颖莎王曼昱收视率打法",
+      "onboard_time": 1763307502,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 237771,
+      "num": 373012,
+      "word": "Faker冠军皮肤想选冰鸟",
+      "onboard_time": 1763307682,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236255,
       "num": 236255,
       "word": "钟楚曦晒金鸡奖杯证书",
@@ -1097,14 +1145,6 @@
       "onboard_time": 1763304985,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 232773,
-      "num": 334788,
-      "word": "张怡宁 意大利记者",
-      "onboard_time": 1763306664,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 232016,
@@ -1203,14 +1243,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 211233,
-      "num": 334696,
-      "word": "孙颖莎王曼昱收视率打法",
-      "onboard_time": 1763307502,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 209986,
       "num": 209986,
       "word": "枭起青壤官宣节奏",
@@ -1260,11 +1292,19 @@
     },
     {
       "raw_hot": 205342,
-      "num": 348060,
+      "num": 404518,
       "word": "侯明昊音乐节",
       "onboard_time": 1763294362,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 205001,
+      "num": 357425,
+      "word": "高市早苗被喊话向中国道歉",
+      "onboard_time": 1763306246,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 204069,
@@ -1761,6 +1801,14 @@
       "onboard_time": 1763302764,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167129,
+      "num": 239182,
+      "word": "乒乓球女单颁奖",
+      "onboard_time": 1763309001,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 166731,
@@ -2331,6 +2379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133109,
+      "num": 323955,
+      "word": "那英上期查票这期改赛制",
+      "onboard_time": 1763308822,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133040,
       "num": 133040,
       "word": "陈伟霆唱跳",
@@ -2393,6 +2449,14 @@
       "onboard_time": 1763249958,
       "rank": 33,
       "category": "国际时政,互联网"
+    },
+    {
+      "raw_hot": 129834,
+      "num": 310504,
+      "word": "撒贝宁何炅老也能老到一块去",
+      "onboard_time": 1763307981,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 129675,
@@ -2787,6 +2851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115860,
+      "num": 239139,
+      "word": "王曼昱全运会第4金",
+      "onboard_time": 1763307623,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115451,
       "num": 160516,
       "word": "UFC",
@@ -2804,7 +2876,7 @@
     },
     {
       "raw_hot": 113888,
-      "num": 113888,
+      "num": 238417,
       "word": "葡萄牙vs亚美尼亚",
       "onboard_time": 1763306005,
       "rank": 42,
@@ -3075,6 +3147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103702,
+      "num": 238952,
+      "word": "孙颖莎全运会女单银牌",
+      "onboard_time": 1763309240,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103614,
       "num": 103614,
       "word": "樊振东说跟自己想象中有点出入",
@@ -3089,14 +3169,6 @@
       "onboard_time": 1763303663,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102851,
-      "num": 331328,
-      "word": "高市早苗被喊话向中国道歉",
-      "onboard_time": 1763306246,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 102790,
@@ -3259,6 +3331,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 90642,
+      "num": 238742,
+      "word": "全峰峻最钢铁的直男都在TF三代了",
+      "onboard_time": 1763307921,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90283,
       "num": 139457,
       "word": "字母哥一人打一片",
@@ -3329,6 +3409,14 @@
       "onboard_time": 1763303905,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85748,
+      "num": 238694,
+      "word": "来咪咕看全运为家乡队打call",
+      "onboard_time": 1763310139,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 85731,
@@ -3419,6 +3507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71130,
+      "num": 238453,
+      "word": "朱松玮等4名队员停赛1个月",
+      "onboard_time": 1763309780,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71126,
       "num": 115810,
       "word": "张展硕当记者上瘾了",
@@ -3435,12 +3531,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 67609,
+      "num": 238356,
+      "word": "陈梦说赛场的快乐无关输赢",
+      "onboard_time": 1763307682,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 66659,
       "num": 150423,
       "word": "日本毒土必然长出毒苗",
       "onboard_time": 1763280081,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66412,
+      "num": 238342,
+      "word": "新款iPad路线图曝光",
+      "onboard_time": 1763306903,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 65833,
