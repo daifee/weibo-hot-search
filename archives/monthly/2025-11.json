@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763275026181,
+  "endTime": 1763275774741,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -49,6 +49,14 @@
       "onboard_time": 1762690403,
       "rank": 5,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 8170972,
+      "num": 8170972,
+      "word": "樊振东冠军",
+      "onboard_time": 1763274203,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 7358127,
@@ -104,14 +112,6 @@
       "word": "苏超泰州队冠军",
       "onboard_time": 1762004724,
       "rank": 0,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4697683,
-      "num": 4697683,
-      "word": "樊振东冠军",
-      "onboard_time": 1763274203,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -665,6 +665,14 @@
       "onboard_time": 1763115741,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1380854,
+      "num": 216650,
+      "word": "樊振东全运会第6金",
+      "onboard_time": 1763275162,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 1374766,
@@ -4001,6 +4009,14 @@
       "onboard_time": 1762918581,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571345,
+      "num": 571345,
+      "word": "王楚钦回应全运会铜牌",
+      "onboard_time": 1763274742,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 570709,
@@ -7713,6 +7729,14 @@
       "onboard_time": 1762299018,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 365848,
+      "num": 206210,
+      "word": "张伟丽道歉",
+      "onboard_time": 1763274263,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 365738,
@@ -11571,6 +11595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 255478,
+      "num": 242752,
+      "word": "易烊千玺 一个镜头让广告商花钱",
+      "onboard_time": 1763273361,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255221,
       "num": 179231,
       "word": "医生眼中的生理性厌恶",
@@ -11736,14 +11768,6 @@
       "word": "朱珠 气血足到头顶",
       "onboard_time": 1762610422,
       "rank": 33,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 251057,
-      "num": 242752,
-      "word": "易烊千玺 一个镜头让广告商花钱",
-      "onboard_time": 1763273361,
-      "rank": 13,
       "category": "艺人"
     },
     {
@@ -12049,14 +12073,6 @@
       "onboard_time": 1763089819,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 242387,
-      "num": 242387,
-      "word": "王楚钦回应全运会铜牌",
-      "onboard_time": 1763274742,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 242184,
@@ -12371,6 +12387,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 235835,
+      "num": 187640,
+      "word": "向佑在美国遭歧视向佐打断对方的手",
+      "onboard_time": 1763275461,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 235753,
       "num": 235753,
       "word": "湖南省人民医院出轨医生停职",
@@ -12649,6 +12673,14 @@
       "onboard_time": 1763263761,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 229356,
+      "num": 229356,
+      "word": "樊振东庆祝动作太帅了",
+      "onboard_time": 1763275582,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 229276,
@@ -13035,6 +13067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223060,
+      "num": 187218,
+      "word": "高中时期的Angelababy",
+      "onboard_time": 1763273183,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223032,
       "num": 223032,
       "word": "满蒙八旗不及华妃凤仪万千",
@@ -13057,6 +13097,14 @@
       "onboard_time": 1763179581,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 222666,
+      "num": 222666,
+      "word": "邓亚萍说樊振东林诗栋强强对抗",
+      "onboard_time": 1763274923,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 222640,
@@ -16107,14 +16155,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190314,
-      "num": 190314,
-      "word": "张伟丽道歉",
-      "onboard_time": 1763274263,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190248,
       "num": 185012,
       "word": "谢霆锋带着丁真翻车了",
@@ -16728,6 +16768,14 @@
       "word": "陈芋汐十五运会首金",
       "onboard_time": 1762427842,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 185777,
+      "num": 185777,
+      "word": "雷军祝贺樊振东夺冠",
+      "onboard_time": 1763275402,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -17665,14 +17713,6 @@
       "onboard_time": 1762693222,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 176745,
-      "num": 176745,
-      "word": "邓亚萍说樊振东林诗栋强强对抗",
-      "onboard_time": 1763274923,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 176610,
@@ -19267,14 +19307,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 164277,
-      "num": 164277,
-      "word": "高中时期的Angelababy",
-      "onboard_time": 1763273183,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 164250,
       "num": 133226,
       "word": "经常视奸自己的朋友圈",
@@ -20081,6 +20113,14 @@
       "onboard_time": 1762411521,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 159062,
+      "num": 159062,
+      "word": "文淇痛失大学生优惠",
+      "onboard_time": 1763275402,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 159058,
@@ -22147,12 +22187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 147214,
+      "num": 147214,
+      "word": "妈妈十几年前的QQ空间",
+      "onboard_time": 1763275522,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 147086,
       "num": 147086,
       "word": "中国军工知道你们已经等两天了",
       "onboard_time": 1762431623,
       "rank": 25,
       "category": "军事"
+    },
+    {
+      "raw_hot": 147080,
+      "num": 178786,
+      "word": "张艺谋新片四个影帝一个影后",
+      "onboard_time": 1763271441,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 147078,
@@ -22481,14 +22537,6 @@
       "onboard_time": 1762917980,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 145060,
-      "num": 145060,
-      "word": "张艺谋新片四个影帝一个影后",
-      "onboard_time": 1763271441,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 145057,
@@ -24065,6 +24113,14 @@
       "onboard_time": 1762501101,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 137668,
+      "num": 137668,
+      "word": "原来高跟鞋是这样做出来的",
+      "onboard_time": 1763275042,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 137631,
@@ -28203,6 +28259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121780,
+      "num": 184412,
+      "word": "沈腾的破梗只有胡先煦听懂了",
+      "onboard_time": 1763274383,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121749,
       "num": 121749,
       "word": "金饰克价跌破1300元",
@@ -29745,6 +29809,14 @@
       "onboard_time": 1761963021,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116368,
+      "num": 182563,
+      "word": "邓超41秒演了一出戏",
+      "onboard_time": 1763274742,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 116357,
@@ -31611,14 +31683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 110623,
-      "num": 151666,
-      "word": "沈腾的破梗只有胡先煦听懂了",
-      "onboard_time": 1763274383,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110526,
       "num": 110526,
       "word": "日本抗议者要求高市赶快道歉",
@@ -32753,14 +32817,6 @@
       "onboard_time": 1761963081,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107157,
-      "num": 153351,
-      "word": "邓超41秒演了一出戏",
-      "onboard_time": 1763274742,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 107153,
@@ -39337,6 +39393,14 @@
       "onboard_time": 1762577420,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 91339,
+      "num": 245937,
+      "word": "央视起底电加热衣乱象",
+      "onboard_time": 1763273842,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91309,
@@ -48627,14 +48691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62272,
-      "num": 245937,
-      "word": "央视起底电加热衣乱象",
-      "onboard_time": 1763273842,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62265,
       "num": 95673,
       "word": "网红大熊猫渝可从树上跌落",
@@ -52011,6 +52067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 42169,
+      "num": 222105,
+      "word": "台海的事关日本人什么事",
+      "onboard_time": 1763275282,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 42159,
       "num": 100997,
       "word": "高市早苗扯眼皮诉苦称每天睡2小时",
@@ -52057,6 +52121,14 @@
       "onboard_time": 1763004380,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41964,
+      "num": 222301,
+      "word": "日参议员喊话高市早苗撤回涉台言论",
+      "onboard_time": 1763275282,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41827,
@@ -53683,6 +53755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31906,
+      "num": 180844,
+      "word": "服刑期犯罪供出新案2人无期变死刑",
+      "onboard_time": 1763275343,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31904,
       "num": 120098,
       "word": "官方称8岁流浪女孩暂不需捐赠",
@@ -53985,6 +54065,14 @@
       "onboard_time": 1762711336,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 30300,
+      "num": 2048121,
+      "word": "十五运今日看点",
+      "onboard_time": 1763264422,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 30262,
@@ -54392,14 +54480,6 @@
       "word": "唐钱婷徐嘉余谈后浪运动员",
       "onboard_time": 1763107281,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 27811,
-      "num": 1974884,
-      "word": "十五运今日看点",
-      "onboard_time": 1763264422,
-      "rank": 2,
       "category": "体育"
     },
     {

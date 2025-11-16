@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/16 14:37:06
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/16 14:49:34
 </p>
 </blockquote>
 <p>
@@ -1365,6 +1365,12 @@ T1三连冠（热度：8192449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%86%A0%E5%86%9B%23" target="weibo">
+樊振东冠军（热度：8170972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E7%A6%B9%E7%86%B9%E7%A7%B0%E8%8D%A3%E6%A2%93%E6%9D%89%E5%87%BA%E8%BD%A8%E6%89%93%E4%BA%BA%23" target="weibo">
 李禹熹称荣梓杉出轨打人（热度：8137930）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%A0%E7%81%BE%E6%AD%BB%E4%BA%A130%E4%BA%BA%23" target="weibo">
 北京因灾死亡30人（热度：5818302）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%85%BE%E7%A7%B0%E6%B2%A1%E6%9C%89%E7%AA%83%E5%8F%96%E5%85%AC%E5%8F%B8%E6%9C%BA%E5%AF%86%E5%87%BA%E5%94%AE%23" target="weibo">
-王腾称没有窃取公司机密出售（热度：5747195）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 14:37:06
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 14:49:34
 </p>
 </blockquote>
 <p>
@@ -51,6 +51,12 @@ T1三连冠（热度：8192449）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%86%A0%E5%86%9B%23" target="weibo">
+樊振东冠军（热度：8170972）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 王楚钦vs樊振东（热度：7358127）
 </a>
@@ -89,12 +95,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%E6%B3%B0%E5%B7%9E%E9%98%9F%E5%86%A0%E5%86%9B%23" target="weibo">
 苏超泰州队冠军（热度：5959028）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%86%A0%E5%86%9B%23" target="weibo">
-樊振东冠军（热度：4697683）
 </a>
 </li>
 
@@ -509,6 +509,12 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E8%81%94%E6%92%AD%E4%B8%89%E5%88%86%E9%92%9F%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
 新闻联播三分钟警告高市早苗（热度：1382007）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%85%A8%E8%BF%90%E4%BC%9A%E7%AC%AC6%E9%87%91%23" target="weibo">
+樊振东全运会第6金（热度：1380854）
 </a>
 </li>
 
@@ -3011,6 +3017,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%968%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%86%AC%E5%A4%A9%E7%A9%BF%E6%8B%96%E9%9E%8B%E6%B5%81%E6%B5%AA%23" target="weibo">
 妈妈去世8岁女孩冬天穿拖鞋流浪（热度：572652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%94%E5%85%A8%E8%BF%90%E4%BC%9A%E9%93%9C%E7%89%8C%23" target="weibo">
+王楚钦回应全运会铜牌（热度：571345）
 </a>
 </li>
 
@@ -5799,6 +5811,12 @@ TVB演员众筹150万给妻子治病（热度：375657）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BC%9F%E4%B8%BD%E9%81%93%E6%AD%89%23" target="weibo">
+张伟丽道歉（热度：365848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%91%87%E6%BB%9A%E6%AD%8C%E6%89%8B%E9%98%BF%E7%8F%8D%E5%8E%BB%E4%B8%96%23" target="weibo">
 摇滚歌手阿珍去世（热度：365738）
 </a>
@@ -5993,24 +6011,6 @@ AL（热度：358116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E8%AF%B4%E5%BC%A0%E5%BE%8B%E5%8D%96%E6%83%A8%23" target="weibo">
 白百何说张律卖惨（热度：356805）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%BB%BC%E8%89%BA%E6%94%B6%E5%AE%98%E6%BF%92%E4%B8%B4%E7%A0%B4%E4%BA%A7%E6%95%A3%E4%BC%99%23" target="weibo">
-内娱综艺收官濒临破产散伙（热度：356621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%BC%80%E8%BD%A6%E7%B2%BE%E5%87%86%E6%92%9E%E5%80%92%E6%8C%81%E5%88%80%E6%AD%B9%E5%BE%92%23" target="weibo">
-男子开车精准撞倒持刀歹徒（热度：356096）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%BA%9B%E5%85%AC%E5%8A%A1%E5%91%98%E4%B8%8D%E8%83%BD%E8%BE%9E%E8%81%8C%23" target="weibo">
-这些公务员不能辞职（热度：355771）
 </a>
 </li>
 

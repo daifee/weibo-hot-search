@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763275026181,
+  "endTime": 1763275774741,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1803,6 +1803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8170972,
+      "num": 8170972,
+      "word": "樊振东冠军",
+      "onboard_time": 1763274203,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 8137930,
       "num": 8137930,
       "word": "李禹熹称荣梓杉出轨打人",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1753744518,
       "rank": 1,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5747195,
-      "num": 5747195,
-      "word": "王腾称没有窃取公司机密出售",
-      "onboard_time": 1757383400,
-      "rank": 0,
-      "category": "数码,互联网"
     }
   ],
   "hotgov_list": [

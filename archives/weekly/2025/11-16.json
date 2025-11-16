@@ -1,21 +1,21 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763275026181,
+  "endTime": 1763275774741,
   "band_list": [
+    {
+      "raw_hot": 8170972,
+      "num": 8170972,
+      "word": "樊振东冠军",
+      "onboard_time": 1763274203,
+      "rank": 1,
+      "category": "体育"
+    },
     {
       "raw_hot": 6748763,
       "num": 6748763,
       "word": "樊振东vs林诗栋",
       "onboard_time": 1763269522,
       "rank": 4,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 4697683,
-      "num": 4697683,
-      "word": "樊振东冠军",
-      "onboard_time": 1763274203,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -41,6 +41,14 @@
       "onboard_time": 1763253560,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1380854,
+      "num": 216650,
+      "word": "樊振东全运会第6金",
+      "onboard_time": 1763275162,
+      "rank": 22,
+      "category": "体育"
     },
     {
       "raw_hot": 1352969,
@@ -193,6 +201,14 @@
       "onboard_time": 1763257641,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 571345,
+      "num": 571345,
+      "word": "王楚钦回应全运会铜牌",
+      "onboard_time": 1763274742,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 570709,
@@ -371,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365848,
+      "num": 206210,
+      "word": "张伟丽道歉",
+      "onboard_time": 1763274263,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359179,
       "num": 553932,
       "word": "孙颖莎呼吁球迷粉丝理性观赛",
@@ -523,20 +547,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255478,
+      "num": 242752,
+      "word": "易烊千玺 一个镜头让广告商花钱",
+      "onboard_time": 1763273361,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251126,
       "num": 236782,
       "word": "泰国男子被女友砍头反手拥抱拒报案",
       "onboard_time": 1763265981,
       "rank": 18,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 251057,
-      "num": 242752,
-      "word": "易烊千玺 一个镜头让广告商花钱",
-      "onboard_time": 1763273361,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 247529,
@@ -547,12 +571,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 242387,
-      "num": 242387,
-      "word": "王楚钦回应全运会铜牌",
-      "onboard_time": 1763274742,
-      "rank": 14,
-      "category": "体育"
+      "raw_hot": 235835,
+      "num": 187640,
+      "word": "向佑在美国遭歧视向佐打断对方的手",
+      "onboard_time": 1763275461,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 232016,
@@ -579,6 +603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 229356,
+      "num": 229356,
+      "word": "樊振东庆祝动作太帅了",
+      "onboard_time": 1763275582,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223912,
       "num": 302170,
       "word": "许昕0比3王楚钦",
@@ -593,6 +625,22 @@
       "onboard_time": 1763258721,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223060,
+      "num": 187218,
+      "word": "高中时期的Angelababy",
+      "onboard_time": 1763273183,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 222666,
+      "num": 222666,
+      "word": "邓亚萍说樊振东林诗栋强强对抗",
+      "onboard_time": 1763274923,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 215747,
@@ -699,14 +747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190314,
-      "num": 190314,
-      "word": "张伟丽道歉",
-      "onboard_time": 1763274263,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 188835,
       "num": 188835,
       "word": "花少7顶级淡人内核",
@@ -715,12 +755,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188756,
+      "num": 188756,
+      "word": "全运会",
+      "onboard_time": 1763275282,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 186418,
       "num": 235650,
       "word": "台湾又被美敲诈至少3500亿美元",
       "onboard_time": 1763256860,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185777,
+      "num": 185777,
+      "word": "雷军祝贺樊振东夺冠",
+      "onboard_time": 1763275402,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 185261,
@@ -769,14 +825,6 @@
       "onboard_time": 1763262861,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 176745,
-      "num": 176745,
-      "word": "邓亚萍说樊振东林诗栋强强对抗",
-      "onboard_time": 1763274923,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 173163,
@@ -835,14 +883,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164277,
-      "num": 164277,
-      "word": "高中时期的Angelababy",
-      "onboard_time": 1763273183,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 160782,
       "num": 160782,
       "word": "迪丽热巴新剧枭起青壤花絮",
@@ -864,6 +904,14 @@
       "word": "朵朵是缩小版陈思诚",
       "onboard_time": 1763253140,
       "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 159062,
+      "num": 159062,
+      "word": "文淇痛失大学生优惠",
+      "onboard_time": 1763275402,
+      "rank": 42,
       "category": "电影"
     },
     {
@@ -955,6 +1003,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 147214,
+      "num": 147214,
+      "word": "妈妈十几年前的QQ空间",
+      "onboard_time": 1763275522,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 147080,
+      "num": 178786,
+      "word": "张艺谋新片四个影帝一个影后",
+      "onboard_time": 1763271441,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 146859,
       "num": 146859,
       "word": "张伟丽舍甫琴科地面缠斗",
@@ -992,14 +1056,6 @@
       "word": "倪妮主持好大气",
       "onboard_time": 1763214514,
       "rank": 32,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 145060,
-      "num": 145060,
-      "word": "张艺谋新片四个影帝一个影后",
-      "onboard_time": 1763271441,
-      "rank": 49,
       "category": "电影"
     },
     {
@@ -1073,6 +1129,14 @@
       "onboard_time": 1763263821,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137668,
+      "num": 137668,
+      "word": "原来高跟鞋是这样做出来的",
+      "onboard_time": 1763275042,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 136831,
@@ -1219,6 +1283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121780,
+      "num": 184412,
+      "word": "沈腾的破梗只有胡先煦听懂了",
+      "onboard_time": 1763274383,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121537,
       "num": 121537,
       "word": "雷军说网上有不少人断章取义歪曲抹黑",
@@ -1315,6 +1387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116368,
+      "num": 182563,
+      "word": "邓超41秒演了一出戏",
+      "onboard_time": 1763274742,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115451,
       "num": 160516,
       "word": "UFC",
@@ -1339,14 +1419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110623,
-      "num": 151666,
-      "word": "沈腾的破梗只有胡先煦听懂了",
-      "onboard_time": 1763274383,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110577,
       "num": 110577,
       "word": "现在就出发",
@@ -1368,14 +1440,6 @@
       "word": "金鸡奖影帝影后都在拍惊蛰无声",
       "onboard_time": 1763251821,
       "rank": 37,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 107157,
-      "num": 153351,
-      "word": "邓超41秒演了一出戏",
-      "onboard_time": 1763274742,
-      "rank": 38,
       "category": "电影"
     },
     {
@@ -1465,6 +1529,14 @@
       "onboard_time": 1763220745,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 91339,
+      "num": 245937,
+      "word": "央视起底电加热衣乱象",
+      "onboard_time": 1763273842,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90283,
@@ -1611,14 +1683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 62272,
-      "num": 245937,
-      "word": "央视起底电加热衣乱象",
-      "onboard_time": 1763273842,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62244,
       "num": 72875,
       "word": "孙颖莎感谢大家对乒乓球的关注",
@@ -1689,6 +1753,22 @@
       "onboard_time": 1763238075,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42169,
+      "num": 222105,
+      "word": "台海的事关日本人什么事",
+      "onboard_time": 1763275282,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 41964,
+      "num": 222301,
+      "word": "日参议员喊话高市早苗撤回涉台言论",
+      "onboard_time": 1763275282,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41464,
@@ -1787,6 +1867,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 31906,
+      "num": 180844,
+      "word": "服刑期犯罪供出新案2人无期变死刑",
+      "onboard_time": 1763275343,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30429,
       "num": 160783,
       "word": "专家建议持续对日增强军事威慑",
@@ -1795,20 +1883,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 30300,
+      "num": 2048121,
+      "word": "十五运今日看点",
+      "onboard_time": 1763264422,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 30043,
       "num": 155321,
       "word": "多名游客将车开进阿尔山不冻河打卡",
       "onboard_time": 1763273842,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27811,
-      "num": 1974884,
-      "word": "十五运今日看点",
-      "onboard_time": 1763264422,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 27644,
