@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763268416205,
+  "endTime": 1763270740456,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 808832,
+      "num": 808832,
+      "word": "舍甫琴科vs张伟丽",
+      "onboard_time": 1763265381,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 789324,
       "num": 241344,
       "word": "易烊千玺称谈恋爱看缘分",
@@ -97,6 +105,14 @@
       "onboard_time": 1763214998,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 755052,
+      "num": 755052,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1763269522,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 687202,
@@ -131,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 639986,
+      "num": 270005,
+      "word": "陈紫函拒绝回应做12次试管",
+      "onboard_time": 1763265981,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 628901,
       "num": 267824,
       "word": "朱一龙上金鸡奖撕名牌来了",
@@ -147,20 +171,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 590697,
-      "num": 270005,
-      "word": "陈紫函拒绝回应做12次试管",
-      "onboard_time": 1763265981,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 570709,
       "num": 570709,
       "word": "青春痘疫苗来了",
       "onboard_time": 1763218888,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 550102,
+      "num": 550102,
+      "word": "王楚钦vs袁励岑",
+      "onboard_time": 1763267422,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 543185,
@@ -184,6 +208,14 @@
       "word": "出走的决心 颗粒无收",
       "onboard_time": 1763220504,
       "rank": 13,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 495030,
+      "num": 256245,
+      "word": "陈思诚听到朵朵接班的反应",
+      "onboard_time": 1763267482,
+      "rank": 34,
       "category": "电影"
     },
     {
@@ -227,12 +259,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 419112,
-      "num": 419112,
-      "word": "舍甫琴科vs张伟丽",
-      "onboard_time": 1763265381,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 420550,
+      "num": 420550,
+      "word": "雷军连发多条微博辟谣",
+      "onboard_time": 1763267001,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 407544,
@@ -411,20 +443,28 @@
       "category": "情感"
     },
     {
-      "raw_hot": 256245,
-      "num": 256245,
-      "word": "陈思诚听到朵朵接班的反应",
-      "onboard_time": 1763267482,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 251126,
       "num": 236782,
       "word": "泰国男子被女友砍头反手拥抱拒报案",
       "onboard_time": 1763265981,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 247529,
+      "num": 276208,
+      "word": "解放军轰炸机编队位南海例行巡航",
+      "onboard_time": 1763265921,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 233096,
+      "num": 233096,
+      "word": "左航 猫图",
+      "onboard_time": 1763270301,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 232016,
@@ -491,14 +531,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204561,
-      "num": 276208,
-      "word": "解放军轰炸机编队位南海例行巡航",
-      "onboard_time": 1763265921,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 203199,
       "num": 227041,
       "word": "金鸡奖名单",
@@ -523,6 +555,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 199303,
+      "num": 192231,
+      "word": "二妞妈发文",
+      "onboard_time": 1763269822,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194065,
+      "num": 235648,
+      "word": "公主小妹 短剧鼻祖",
+      "onboard_time": 1763268802,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "少年的你",
@@ -537,6 +585,14 @@
       "onboard_time": 1763217149,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190738,
+      "num": 190738,
+      "word": "王楚钦11比9袁励岑",
+      "onboard_time": 1763270421,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 188835,
@@ -563,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181100,
+      "num": 234489,
+      "word": "何美延 被偷了飞衣的织女",
+      "onboard_time": 1763267001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 179747,
       "num": 179747,
       "word": "字是真的丑马是真的好",
@@ -585,6 +649,14 @@
       "onboard_time": 1763262861,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 174459,
+      "num": 174459,
+      "word": "樊振东主动陪林诗栋练球",
+      "onboard_time": 1763270361,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 173163,
@@ -611,12 +683,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 170134,
-      "num": 170134,
-      "word": "雷军连发多条微博辟谣",
-      "onboard_time": 1763267001,
-      "rank": 33,
-      "category": "汽车"
+      "raw_hot": 169510,
+      "num": 169510,
+      "word": "王一博五官很英俊还带点婴儿肥",
+      "onboard_time": 1763269042,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 167950,
@@ -651,6 +723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 159974,
+      "num": 159974,
+      "word": "陪紫幻共赴生辰之约",
+      "onboard_time": 1763270301,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159296,
       "num": 159296,
       "word": "朵朵是缩小版陈思诚",
@@ -667,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 156430,
-      "num": 274043,
-      "word": "王楚钦vs袁励岑",
-      "onboard_time": 1763267422,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 156286,
+      "num": 156286,
+      "word": "49元一杯中产酸奶翻车",
+      "onboard_time": 1763267961,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 155971,
@@ -681,6 +761,22 @@
       "onboard_time": 1763262620,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 152648,
+      "num": 152648,
+      "word": "毛利兰画风断崖式下降",
+      "onboard_time": 1763270542,
+      "rank": 40,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 152612,
+      "num": 252351,
+      "word": "军事专家称中国综合实力碾压日本",
+      "onboard_time": 1763267961,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152048,
@@ -715,12 +811,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 146859,
+      "num": 146859,
+      "word": "张伟丽舍甫琴科地面缠斗",
+      "onboard_time": 1763270602,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146784,
       "num": 146784,
       "word": "永远不要做这个房间最聪明的人",
       "onboard_time": 1763264361,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146174,
+      "num": 194858,
+      "word": "差点没认出来这是汪卓成",
+      "onboard_time": 1763270181,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 145964,
@@ -787,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 136041,
-      "num": 224329,
-      "word": "何美延 被偷了飞衣的织女",
-      "onboard_time": 1763267001,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 135867,
       "num": 135867,
       "word": "王宝强发文祝贺陈思诚戴墨",
@@ -833,14 +937,6 @@
       "onboard_time": 1763201721,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131134,
-      "num": 131134,
-      "word": "49元一杯中产酸奶翻车",
-      "onboard_time": 1763267961,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130730,
@@ -995,6 +1091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111740,
+      "num": 111740,
+      "word": "雷军说网上有不少人断章取义歪曲抹黑",
+      "onboard_time": 1763270721,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 110577,
       "num": 110577,
       "word": "现在就出发",
@@ -1032,6 +1136,14 @@
       "word": "孙杨对甲鱼哥说我游得眼睛都黑了",
       "onboard_time": 1763222543,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105265,
+      "num": 246827,
+      "word": "张伟丽判定不敌舍甫琴科",
+      "onboard_time": 1763270241,
+      "rank": 9,
       "category": "体育"
     },
     {
@@ -1227,6 +1339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 64491,
+      "num": 208661,
+      "word": "男子刺死打人者被判死刑将上诉",
+      "onboard_time": 1763269281,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63698,
       "num": 139566,
       "word": "神秘培训机构学员拉够人头才能毕业",
@@ -1331,14 +1451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37505,
-      "num": 252351,
-      "word": "军事专家称中国综合实力碾压日本",
-      "onboard_time": 1763267961,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 37273,
       "num": 205280,
       "word": "高市早苗叫嚣只会把日本引向歧途",
@@ -1420,7 +1532,7 @@
     },
     {
       "raw_hot": 27220,
-      "num": 625866,
+      "num": 793773,
       "word": "十五运今日看点",
       "onboard_time": 1763264422,
       "rank": 2,
@@ -1481,6 +1593,14 @@
       "onboard_time": 1763235074,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 17682,
+      "num": 154383,
+      "word": "乌遭袭时高官商量提升防御工程回扣",
+      "onboard_time": 1763269703,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17183,

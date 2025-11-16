@@ -1,0 +1,410 @@
+{
+  "runTime": 1763270740456,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1160952,
+        "num": 1185752,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 808832,
+        "num": 808832,
+        "word": "舍甫琴科vs张伟丽",
+        "onboard_time": 1763265381,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23361,
+        "num": 793773,
+        "word": "十五运今日看点",
+        "onboard_time": 1763264422,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 792174,
+        "num": 792174,
+        "word": "释永信被批捕",
+        "onboard_time": 1763266221,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 755052,
+        "num": 755052,
+        "word": "樊振东vs林诗栋",
+        "onboard_time": 1763269522,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 550102,
+        "num": 550102,
+        "word": "王楚钦vs袁励岑",
+        "onboard_time": 1763267422,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 420550,
+        "num": 420550,
+        "word": "雷军连发多条微博辟谣",
+        "onboard_time": 1763267001,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 321593,
+        "num": 321593,
+        "word": "TFBOYS发文恭喜刘春和",
+        "onboard_time": 1763259741,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247529,
+        "num": 247529,
+        "word": "解放军轰炸机编队位南海例行巡航",
+        "onboard_time": 1763265921,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105265,
+        "num": 246827,
+        "word": "张伟丽判定不敌舍甫琴科",
+        "onboard_time": 1763270241,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 639986,
+        "num": 245935,
+        "word": "陈紫函拒绝回应做12次试管",
+        "onboard_time": 1763265981,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 532884,
+        "num": 245094,
+        "word": "印度女子遭6人轮奸拦警车求助",
+        "onboard_time": 1763257339,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 515620,
+        "num": 242976,
+        "word": "饺子导演太勇了",
+        "onboard_time": 1763258361,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 495030,
+        "num": 241555,
+        "word": "陈思诚听到朵朵接班的反应",
+        "onboard_time": 1763267482,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 415243,
+        "num": 240747,
+        "word": "陈思诚 表情",
+        "onboard_time": 1763264961,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 305380,
+        "num": 239399,
+        "word": "朱一龙上金鸡奖撕名牌来了",
+        "onboard_time": 1763264721,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296161,
+        "num": 238567,
+        "word": "86年39岁未婚未育女性的真实感受",
+        "onboard_time": 1763260580,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 248018,
+        "num": 237211,
+        "word": "易烊千玺称谈恋爱看缘分",
+        "onboard_time": 1763253261,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 194065,
+        "num": 235648,
+        "word": "公主小妹 短剧鼻祖",
+        "onboard_time": 1763268802,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181100,
+        "num": 234489,
+        "word": "何美延 被偷了飞衣的织女",
+        "onboard_time": 1763267001,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 555329,
+        "num": 233661,
+        "word": "哪吒没人来领奖",
+        "onboard_time": 1763253560,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 233096,
+        "num": 233096,
+        "word": "左航 猫图",
+        "onboard_time": 1763270301,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219962,
+        "num": 219962,
+        "word": "舒淇自曝很想生小孩",
+        "onboard_time": 1763263163,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210390,
+        "num": 210390,
+        "word": "Uzi被曝加入iG",
+        "onboard_time": 1763251160,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 64491,
+        "num": 208661,
+        "word": "男子刺死打人者被判死刑将上诉",
+        "onboard_time": 1763269281,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207729,
+        "num": 207729,
+        "word": "第一次看易烊千玺翻白眼",
+        "onboard_time": 1763249958,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196829,
+        "num": 196829,
+        "word": "高市早苗让日本国家承担代价",
+        "onboard_time": 1763206825,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161241,
+        "num": 195417,
+        "word": "张艺谋 金鸡",
+        "onboard_time": 1763253801,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146174,
+        "num": 194858,
+        "word": "差点没认出来这是汪卓成",
+        "onboard_time": 1763270181,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138468,
+        "num": 193265,
+        "word": "王源官宣客厅狂欢跨年场",
+        "onboard_time": 1763263461,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 199303,
+        "num": 192231,
+        "word": "二妞妈发文",
+        "onboard_time": 1763269822,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190738,
+        "num": 190738,
+        "word": "王楚钦11比9袁励岑",
+        "onboard_time": 1763270421,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174459,
+        "num": 174459,
+        "word": "樊振东主动陪林诗栋练球",
+        "onboard_time": 1763270361,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174258,
+        "num": 174258,
+        "word": "泰国男子被女友砍头反手拥抱拒报案",
+        "onboard_time": 1763265981,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169510,
+        "num": 169510,
+        "word": "王一博五官很英俊还带点婴儿肥",
+        "onboard_time": 1763269042,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161456,
+        "num": 161456,
+        "word": "宋佳 咏梅",
+        "onboard_time": 1763254099,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159974,
+        "num": 159974,
+        "word": "陪紫幻共赴生辰之约",
+        "onboard_time": 1763270301,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158765,
+        "num": 158765,
+        "word": "喝奶茶尽量选这4种",
+        "onboard_time": 1763263761,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156286,
+        "num": 156286,
+        "word": "49元一杯中产酸奶翻车",
+        "onboard_time": 1763267961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17682,
+        "num": 154383,
+        "word": "乌遭袭时高官商量提升防御工程回扣",
+        "onboard_time": 1763269703,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152648,
+        "num": 152648,
+        "word": "毛利兰画风断崖式下降",
+        "onboard_time": 1763270542,
+        "rank": 40,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152612,
+        "num": 152612,
+        "word": "军事专家称中国综合实力碾压日本",
+        "onboard_time": 1763267961,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146859,
+        "num": 146859,
+        "word": "张伟丽舍甫琴科地面缠斗",
+        "onboard_time": 1763270602,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131430,
+        "num": 131430,
+        "word": "和王安宇打上视频了",
+        "onboard_time": 1763260040,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130805,
+        "num": 130805,
+        "word": "金鸡奖名单",
+        "onboard_time": 1763253380,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121576,
+        "num": 121576,
+        "word": "爷爷临终前开了一个玩笑",
+        "onboard_time": 1763259561,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114493,
+        "num": 114493,
+        "word": "女子退手机壳白嫖千元羽绒服",
+        "onboard_time": 1763261361,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111740,
+        "num": 111740,
+        "word": "雷军说网上有不少人断章取义歪曲抹黑",
+        "onboard_time": 1763270721,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94986,
+        "num": 108050,
+        "word": "惊蛰无声 金鸡拼图",
+        "onboard_time": 1763260759,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86288,
+        "num": 107458,
+        "word": "惠英红 我相信人定胜天",
+        "onboard_time": 1763252360,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终高度重视发展实体经济#"
+    }
+  }
+}
