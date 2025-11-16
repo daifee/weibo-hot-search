@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763277898250,
+  "endTime": 1763278635914,
   "band_list": [
     {
       "raw_hot": 8170972,
@@ -43,6 +43,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1407623,
+      "num": 385793,
+      "word": "樊振东庆祝动作太帅了",
+      "onboard_time": 1763275582,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1380854,
       "num": 427180,
       "word": "樊振东全运会第6金",
@@ -65,14 +73,6 @@
       "onboard_time": 1763258601,
       "rank": 36,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1208850,
-      "num": 385793,
-      "word": "樊振东庆祝动作太帅了",
-      "onboard_time": 1763275582,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 1191887,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 291758,
-      "num": 227094,
+      "num": 234433,
       "word": "赵子豪祝贺樊振东夺冠",
       "onboard_time": 1763277081,
       "rank": 16,
@@ -683,12 +683,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220759,
+      "num": 213079,
+      "word": "许昕透露要给樊振东减压",
+      "onboard_time": 1763277742,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215747,
       "num": 215747,
       "word": "财务与会计",
       "onboard_time": 1763265201,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 214007,
+      "num": 199950,
+      "word": "卢昱晓收到老鼠干开心成这样",
+      "onboard_time": 1763276364,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 213828,
@@ -707,12 +723,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 212058,
-      "num": 199950,
-      "word": "卢昱晓收到老鼠干开心成这样",
-      "onboard_time": 1763276364,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 210996,
+      "num": 210996,
+      "word": "咏梅 新的一天该有的都有",
+      "onboard_time": 1763277981,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 209093,
@@ -728,14 +744,6 @@
       "word": "樊振东4比1胜林诗栋",
       "onboard_time": 1763274503,
       "rank": 26,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 207819,
-      "num": 207819,
-      "word": "许昕透露要给樊振东减压",
-      "onboard_time": 1763277742,
-      "rank": 17,
       "category": "体育"
     },
     {
@@ -763,20 +771,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201700,
+      "num": 200824,
+      "word": "樊振东一二三手势庆祝",
+      "onboard_time": 1763277742,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 201127,
       "num": 201127,
       "word": "惠英红 我相信人定胜天",
       "onboard_time": 1763252360,
       "rank": 23,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200824,
-      "num": 200824,
-      "word": "樊振东一二三手势庆祝",
-      "onboard_time": 1763277742,
-      "rank": 22,
-      "category": "体育"
     },
     {
       "raw_hot": 199490,
@@ -792,6 +800,22 @@
       "word": "二妞妈发文",
       "onboard_time": 1763269822,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199273,
+      "num": 199273,
+      "word": "内娱明星的脸还是太权威了",
+      "onboard_time": 1763277561,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197529,
+      "num": 178250,
+      "word": "南宁一男子在地铁当众做不雅动作",
+      "onboard_time": 1763277382,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1000,14 +1024,6 @@
       "word": "二手奶茶袋已卖到几十元",
       "onboard_time": 1763272641,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156998,
-      "num": 156998,
-      "word": "南宁一男子在地铁当众做不雅动作",
-      "onboard_time": 1763277382,
-      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -1283,6 +1299,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131509,
+      "num": 131509,
+      "word": "美军对委内瑞拉动手了",
+      "onboard_time": 1763276544,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130730,
       "num": 130730,
       "word": "第一次这么直面感受到be",
@@ -1363,14 +1387,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123176,
-      "num": 123176,
-      "word": "内娱明星的脸还是太权威了",
-      "onboard_time": 1763277561,
-      "rank": 41,
-      "category": "电影"
-    },
-    {
       "raw_hot": 123047,
       "num": 123047,
       "word": "原子弹爆炸幸存者批高市早苗",
@@ -1425,6 +1441,14 @@
       "onboard_time": 1763264901,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120000,
+      "num": 178641,
+      "word": "辛芷蕾点赞易烊千玺",
+      "onboard_time": 1763278341,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 119893,
@@ -1563,6 +1587,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110467,
+      "num": 110467,
+      "word": "张伟丽称已壮成电冰箱",
+      "onboard_time": 1763278580,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 110342,
+      "num": 110342,
+      "word": "王楚钦说3届进入半决赛已经不容易",
+      "onboard_time": 1763277681,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108583,
       "num": 108583,
       "word": "金鸡奖影帝影后都在拍惊蛰无声",
@@ -1579,12 +1619,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 106266,
+      "num": 106266,
+      "word": "秋冬养生C位水果",
+      "onboard_time": 1763277622,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106198,
       "num": 106198,
       "word": "孙杨对甲鱼哥说我游得眼睛都黑了",
       "onboard_time": 1763222543,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105545,
+      "num": 105545,
+      "word": "1分钟我要这只熊猫的全部信息",
+      "onboard_time": 1763278403,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 104089,
@@ -1665,14 +1721,6 @@
       "onboard_time": 1763273842,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91099,
-      "num": 120157,
-      "word": "美军对委内瑞拉动手了",
-      "onboard_time": 1763276544,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 90283,
@@ -1827,6 +1875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59751,
+      "num": 201337,
+      "word": "开门杀 索赔",
+      "onboard_time": 1763276842,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56308,
       "num": 56308,
       "word": "非洲发生大屠杀上千名平民遇害",
@@ -1841,14 +1897,6 @@
       "onboard_time": 1763235494,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 51807,
-      "num": 201337,
-      "word": "开门杀 索赔",
-      "onboard_time": 1763276842,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51631,
@@ -1916,7 +1964,7 @@
     },
     {
       "raw_hot": 41815,
-      "num": 126512,
+      "num": 130033,
       "word": "孙颖莎朱雨玲暖心拥抱",
       "onboard_time": 1763277742,
       "rank": 39,
@@ -1945,6 +1993,14 @@
       "onboard_time": 1763263102,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 39372,
+      "num": 130547,
+      "word": "赵昭仪出妆为什么哭了",
+      "onboard_time": 1763277921,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 37782,

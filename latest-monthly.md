@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 15:24:58
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/16 15:37:15
 </p>
 </blockquote>
 <p>
@@ -501,6 +501,12 @@ Uzi 拿奖杯（热度：1474589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%E5%A4%AA%E5%B8%85%E4%BA%86%23" target="weibo">
+樊振东庆祝动作太帅了（热度：1407623）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%20%E8%8D%92%E8%B0%AC%23" target="weibo">
 杜华 荒谬（热度：1404444）
 </a>
@@ -695,12 +701,6 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B8%85%E9%87%8E%E5%8F%B2%23" target="weibo">
 满清野史（热度：1220113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%BA%86%E7%A5%9D%E5%8A%A8%E4%BD%9C%E5%A4%AA%E5%B8%85%E4%BA%86%23" target="weibo">
-樊振东庆祝动作太帅了（热度：1208850）
 </a>
 </li>
 
