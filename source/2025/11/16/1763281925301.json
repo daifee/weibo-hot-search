@@ -1,0 +1,410 @@
+{
+  "runTime": 1763281925301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3625672,
+        "num": 3625672,
+        "word": "樊振东冠军",
+        "onboard_time": 1763274203,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 602661,
+        "num": 602661,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15965,
+        "num": 376100,
+        "word": "十五运今日看点",
+        "onboard_time": 1763264422,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 305475,
+        "num": 305475,
+        "word": "咏梅 新的一天该有的都有",
+        "onboard_time": 1763277981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282780,
+        "num": 282780,
+        "word": "美军对委内瑞拉动手了",
+        "onboard_time": 1763276544,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 248053,
+        "num": 248053,
+        "word": "王楚钦回应全运会铜牌",
+        "onboard_time": 1763274742,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212844,
+        "num": 247211,
+        "word": "二手奶茶袋已卖到几十元",
+        "onboard_time": 1763272641,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191777,
+        "num": 247099,
+        "word": "中国大陆至日本航班量大幅下滑",
+        "onboard_time": 1763278882,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176770,
+        "num": 245713,
+        "word": "张歆艺看易烊千玺的眼神",
+        "onboard_time": 1763278942,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136315,
+        "num": 245388,
+        "word": "王楚钦说不知道有没有下一届全运会",
+        "onboard_time": 1763281403,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 656839,
+        "num": 244643,
+        "word": "韩国宣布中国排日本前面",
+        "onboard_time": 1763281403,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 461829,
+        "num": 243750,
+        "word": "邓亚萍说王楚钦真的不容易",
+        "onboard_time": 1763276242,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 392854,
+        "num": 242911,
+        "word": "许昕透露要给樊振东减压",
+        "onboard_time": 1763277742,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 965129,
+        "num": 241866,
+        "word": "黄觉 易烊千玺唯一的站哥",
+        "onboard_time": 1763279541,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 253358,
+        "num": 240504,
+        "word": "上海交大发文祝贺樊振东",
+        "onboard_time": 1763279541,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251974,
+        "num": 239817,
+        "word": "王楚钦还是选了粉色大湾鸡",
+        "onboard_time": 1763281281,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 239590,
+        "num": 239590,
+        "word": "印度女子遭6人轮奸拦警车求助",
+        "onboard_time": 1763257339,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 214574,
+        "num": 214574,
+        "word": "樊振东全运会第6金",
+        "onboard_time": 1763275162,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183139,
+        "num": 211315,
+        "word": "王楚钦说很遗憾三届止步半决赛",
+        "onboard_time": 1763279241,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27569,
+        "num": 208031,
+        "word": "出发团全员化身人型奥利奥",
+        "onboard_time": 1763279361,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 913154,
+        "num": 204923,
+        "word": "向佑在美国遭歧视向佐打断对方的手",
+        "onboard_time": 1763275461,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588832,
+        "num": 201397,
+        "word": "左航 恋爱",
+        "onboard_time": 1763271022,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243007,
+        "num": 197384,
+        "word": "卢昱晓收到老鼠干开心成这样",
+        "onboard_time": 1763276364,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195303,
+        "num": 195303,
+        "word": "樊振东继马龙后实现卫冕",
+        "onboard_time": 1763281581,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135532,
+        "num": 190288,
+        "word": "释永信被批捕",
+        "onboard_time": 1763266221,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188919,
+        "num": 188919,
+        "word": "南宁一男子在地铁当众做不雅动作",
+        "onboard_time": 1763277382,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171361,
+        "num": 171361,
+        "word": "樊振东连胜世界排名前二",
+        "onboard_time": 1763281101,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170436,
+        "num": 170436,
+        "word": "张伟丽道歉",
+        "onboard_time": 1763274263,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159745,
+        "num": 159745,
+        "word": "饺子导演太勇了",
+        "onboard_time": 1763258361,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118800,
+        "num": 153140,
+        "word": "枭起青壤官宣节奏",
+        "onboard_time": 1763281642,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66659,
+        "num": 150423,
+        "word": "日本毒土必然长出毒苗",
+        "onboard_time": 1763280081,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 208522,
+        "num": 150381,
+        "word": "樊振东回应庆祝动作",
+        "onboard_time": 1763281581,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150227,
+        "num": 150227,
+        "word": "内娱明星的脸还是太权威了",
+        "onboard_time": 1763277561,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143067,
+        "num": 143067,
+        "word": "关晓彤骨相",
+        "onboard_time": 1763271741,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137005,
+        "num": 137005,
+        "word": "医生建议每周素颜一天",
+        "onboard_time": 1763281822,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129139,
+        "num": 129139,
+        "word": "时代峰峻否认左航恋爱",
+        "onboard_time": 1763276544,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126627,
+        "num": 126627,
+        "word": "赵昭仪出妆为什么哭了",
+        "onboard_time": 1763277921,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142661,
+        "num": 125190,
+        "word": "樊振东6枚全运金牌破纪录",
+        "onboard_time": 1763279960,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37028,
+        "num": 118553,
+        "word": "曝佘诗曼斥资3000万港元买豪宅",
+        "onboard_time": 1763281822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72298,
+        "num": 118252,
+        "word": "闫妮你别这样我害怕",
+        "onboard_time": 1763281522,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118073,
+        "num": 118073,
+        "word": "高中时期的Angelababy",
+        "onboard_time": 1763273183,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114858,
+        "num": 114858,
+        "word": "陈思诚听到朵朵接班的反应",
+        "onboard_time": 1763267482,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110558,
+        "num": 110558,
+        "word": "顾时夜生日卡",
+        "onboard_time": 1763281162,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 109537,
+        "num": 109537,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763272520,
+        "rank": 43,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 102506,
+        "num": 102506,
+        "word": "出师表翻译成日语再翻回来",
+        "onboard_time": 1763280202,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99949,
+        "num": 99949,
+        "word": "蔡徐坤美国版GQ采访",
+        "onboard_time": 1763280921,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99175,
+        "num": 99175,
+        "word": "严浩翔给topbarry送定制麦克风",
+        "onboard_time": 1763281882,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71114,
+        "num": 97257,
+        "word": "日网友要求日本政客冷静",
+        "onboard_time": 1763280320,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96975,
+        "num": 96975,
+        "word": "86年39岁未婚未育女性的真实感受",
+        "onboard_time": 1763260580,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 94424,
+        "num": 94424,
+        "word": "张雅钦摔倒",
+        "onboard_time": 1763271741,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记始终高度重视发展实体经济#"
+    }
+  }
+}
