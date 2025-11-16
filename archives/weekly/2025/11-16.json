@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763264283487,
+  "endTime": 1763265202126,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -27,8 +27,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1197656,
-      "num": 1197656,
+      "raw_hot": 1205679,
+      "num": 1205679,
       "word": "解放军报发文日本全国都可能沦为战场",
       "onboard_time": 1763258601,
       "rank": 36,
@@ -179,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464116,
+      "num": 207335,
+      "word": "舒淇自曝很想生小孩",
+      "onboard_time": 1763263163,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 454951,
       "num": 223709,
       "word": "难怪我的粉底液一直用不完",
@@ -193,6 +201,14 @@
       "onboard_time": 1763252060,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 401869,
+      "num": 225051,
+      "word": "王源官宣客厅狂欢跨年场",
+      "onboard_time": 1763263461,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 398089,
@@ -267,14 +283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 337950,
-      "num": 207335,
-      "word": "舒淇自曝很想生小孩",
-      "onboard_time": 1763263163,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334851,
       "num": 216448,
       "word": "Uzi被曝加入iG",
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 287527,
-      "num": 208080,
+      "num": 211097,
       "word": "全运会乒乓球单打铜牌赛",
       "onboard_time": 1763262201,
       "rank": 16,
@@ -321,14 +329,6 @@
       "onboard_time": 1763248817,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 268464,
-      "num": 207814,
-      "word": "王源官宣客厅狂欢跨年场",
-      "onboard_time": 1763263461,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 267970,
@@ -347,6 +347,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 256386,
+      "num": 207256,
+      "word": "爷爷临终前开了一个玩笑",
+      "onboard_time": 1763259561,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 232016,
       "num": 232016,
       "word": "咏梅 陪跑",
@@ -361,14 +369,6 @@
       "onboard_time": 1763221284,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224646,
-      "num": 207256,
-      "word": "爷爷临终前开了一个玩笑",
-      "onboard_time": 1763259561,
-      "rank": 41,
-      "category": "情感"
     },
     {
       "raw_hot": 223912,
@@ -416,6 +416,14 @@
       "word": "惠英红 我相信人定胜天",
       "onboard_time": 1763252360,
       "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199032,
+      "num": 199032,
+      "word": "朱一龙上金鸡奖撕名牌来了",
+      "onboard_time": 1763264721,
+      "rank": 24,
       "category": "电影"
     },
     {
@@ -467,6 +475,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177609,
+      "num": 208965,
+      "word": "我在废土世界扫垃圾动画首曝",
+      "onboard_time": 1763262861,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 173163,
+      "num": 173163,
+      "word": "何美延曝梁淞曾和岳母大吵",
+      "onboard_time": 1763264061,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172650,
+      "num": 172650,
+      "word": "王安宇金晨在旅综拍恋综",
+      "onboard_time": 1763263939,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 170943,
       "num": 170943,
       "word": "中方已做好对日实质反制准备",
@@ -505,14 +537,6 @@
       "onboard_time": 1763219605,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 164231,
-      "num": 208965,
-      "word": "我在废土世界扫垃圾动画首曝",
-      "onboard_time": 1763262861,
-      "rank": 9,
-      "category": "动漫"
     },
     {
       "raw_hot": 159296,
@@ -555,6 +579,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 147663,
+      "num": 147663,
+      "word": "张韶涵这套高定上有80万颗水晶",
+      "onboard_time": 1763264601,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146784,
+      "num": 146784,
+      "word": "永远不要做这个房间最聪明的人",
+      "onboard_time": 1763264361,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 145964,
       "num": 145964,
       "word": "倪妮主持好大气",
@@ -595,12 +635,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138758,
-      "num": 138758,
-      "word": "王安宇金晨在旅综拍恋综",
-      "onboard_time": 1763263939,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 141650,
+      "num": 141650,
+      "word": "陈思诚 表情",
+      "onboard_time": 1763264961,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 138418,
@@ -651,6 +691,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130730,
+      "num": 130730,
+      "word": "第一次这么直面感受到be",
+      "onboard_time": 1763264601,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 130021,
       "num": 130021,
       "word": "美国似乎破防了",
@@ -675,6 +723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128985,
+      "num": 150174,
+      "word": "王者荣耀",
+      "onboard_time": 1763264661,
+      "rank": 30,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127036,
       "num": 127036,
       "word": "惠英红咏梅蒋勤勤 陪跑",
@@ -683,12 +739,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126435,
+      "num": 126435,
+      "word": "熬夜和睡眠不足是两回事",
+      "onboard_time": 1763264002,
+      "rank": 47,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 123047,
       "num": 123047,
       "word": "原子弹爆炸幸存者批高市早苗",
       "onboard_time": 1763249779,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121082,
+      "num": 121082,
+      "word": "上镜美的女明星现实得美成啥样",
+      "onboard_time": 1763265081,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 120304,
+      "num": 120304,
+      "word": "国产剧出现比品如还狠的复仇女主",
+      "onboard_time": 1763264901,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 119893,
@@ -739,12 +819,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114967,
-      "num": 114967,
-      "word": "何美延曝梁淞曾和岳母大吵",
-      "onboard_time": 1763264061,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 116465,
+      "num": 138435,
+      "word": "田曦薇胡一天求婚吻戏路透",
+      "onboard_time": 1763264301,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 113101,
@@ -753,6 +833,14 @@
       "onboard_time": 1763263761,
       "rank": 44,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112482,
+      "num": 142455,
+      "word": "高市早苗首相之旅的天崩开局",
+      "onboard_time": 1763263821,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111273,
@@ -777,14 +865,6 @@
       "onboard_time": 1763258240,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 109704,
-      "num": 109704,
-      "word": "熬夜和睡眠不足是两回事",
-      "onboard_time": 1763264002,
-      "rank": 47,
-      "category": "科学科普"
     },
     {
       "raw_hot": 108583,
@@ -833,6 +913,14 @@
       "onboard_time": 1763259860,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 98055,
+      "num": 120094,
+      "word": "日本樱岛火山连续喷发",
+      "onboard_time": 1763265020,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95746,
@@ -889,14 +977,6 @@
       "onboard_time": 1763257282,
       "rank": 47,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86869,
-      "num": 107704,
-      "word": "高市早苗首相之旅的天崩开局",
-      "onboard_time": 1763263821,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 86357,
@@ -1139,12 +1219,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25760,
+      "num": 201295,
+      "word": "做人不能太BBC又应验了",
+      "onboard_time": 1763264361,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24684,
       "num": 719395,
       "word": "十五运会赛场外步步生花",
       "onboard_time": 1763213367,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24636,
+      "num": 234049,
+      "word": "十五运今日看点",
+      "onboard_time": 1763264422,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 23921,
@@ -1214,6 +1310,9 @@
   "hotgov_list": [
     {
       "word": "#汉学源自中国属于世界#"
+    },
+    {
+      "word": "#总书记始终高度重视发展实体经济#"
     }
   ]
 }
