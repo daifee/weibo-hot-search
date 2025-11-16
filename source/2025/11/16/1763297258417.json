@@ -1,0 +1,410 @@
+{
+  "runTime": 1763297258417,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 579043,
+        "num": 1092646,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 532820,
+        "num": 532820,
+        "word": "唐诡3纯坏但纯爱的一对",
+        "onboard_time": 1763292803,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 4530,
+        "num": 502960,
+        "word": "全运会首个跨境马拉松",
+        "onboard_time": 1763264180,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500589,
+        "num": 500589,
+        "word": "朱雨玲vs陈梦",
+        "onboard_time": 1763295801,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 394157,
+        "num": 394157,
+        "word": "南京一公园被私人占有十年",
+        "onboard_time": 1763288481,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 589030,
+        "num": 390526,
+        "word": "樊振东冠军",
+        "onboard_time": 1763274203,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454120,
+        "num": 390507,
+        "word": "高市早苗早年叫板视频曝光",
+        "onboard_time": 1763294481,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 354574,
+        "num": 354574,
+        "word": "华为Mate80",
+        "onboard_time": 1763292202,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 293557,
+        "num": 293557,
+        "word": "韩国宣布中国排日本前面",
+        "onboard_time": 1763281403,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43261,
+        "num": 279189,
+        "word": "航拍南京一公园被私人占有数年现状",
+        "onboard_time": 1763296824,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272454,
+        "num": 272454,
+        "word": "卢凌风人设",
+        "onboard_time": 1763295922,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268479,
+        "num": 268479,
+        "word": "霍尊音乐节状态",
+        "onboard_time": 1763294002,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 266984,
+        "num": 266984,
+        "word": "日本针对中国公民违法犯罪多发",
+        "onboard_time": 1763286683,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257463,
+        "num": 257463,
+        "word": "徐嘉余打破全国纪录",
+        "onboard_time": 1763296279,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221268,
+        "num": 221268,
+        "word": "林诗栋靠化缘走到了决赛",
+        "onboard_time": 1763290102,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196822,
+        "num": 196822,
+        "word": "侯明昊音乐节",
+        "onboard_time": 1763294362,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 187041,
+        "num": 187041,
+        "word": "樊振东将重返德甲赛场",
+        "onboard_time": 1763289861,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185449,
+        "num": 185449,
+        "word": "陈数在挪威海上起舞",
+        "onboard_time": 1763297003,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176361,
+        "num": 176361,
+        "word": "刘宇宁演唱会",
+        "onboard_time": 1763290161,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26189,
+        "num": 175957,
+        "word": "刘雨昕Dior矜贵范",
+        "onboard_time": 1763296942,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44033,
+        "num": 175506,
+        "word": "军舰上摆出从从容容游刃有余",
+        "onboard_time": 1763296041,
+        "rank": 20,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 935788,
+        "num": 175063,
+        "word": "blue露脸",
+        "onboard_time": 1763293461,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 543543,
+        "num": 174631,
+        "word": "向佑在美国遭歧视向佐打断对方的手",
+        "onboard_time": 1763275461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338168,
+        "num": 174166,
+        "word": "郑朋我需要心理医生",
+        "onboard_time": 1763289261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228620,
+        "num": 173776,
+        "word": "曝佘诗曼斥资3000万港元买豪宅",
+        "onboard_time": 1763281822,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213397,
+        "num": 173165,
+        "word": "长期熬夜的人都去做4件事",
+        "onboard_time": 1763288841,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 185671,
+        "num": 172586,
+        "word": "王俊凯蟹钳",
+        "onboard_time": 1763293941,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172438,
+        "num": 172438,
+        "word": "迪丽热巴给刘宇宁送花篮",
+        "onboard_time": 1763295801,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169760,
+        "num": 169760,
+        "word": "枭起青壤 此图暗藏玄机",
+        "onboard_time": 1763287881,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54008,
+        "num": 155410,
+        "word": "周翊然微博红毯生图",
+        "onboard_time": 1763296942,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 154925,
+        "num": 154925,
+        "word": "丁禹兮 正宫就得有正宫的大度",
+        "onboard_time": 1763296521,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143461,
+        "num": 143461,
+        "word": "下下下个月今天就是除夕",
+        "onboard_time": 1763296641,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141096,
+        "num": 141096,
+        "word": "Bin双眼皮",
+        "onboard_time": 1763285781,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123716,
+        "num": 123716,
+        "word": "成都大哥卖血旺",
+        "onboard_time": 1763295922,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122603,
+        "num": 122603,
+        "word": "钟楚曦晒金鸡奖杯证书",
+        "onboard_time": 1763290161,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 11507,
+        "num": 121929,
+        "word": "酒店回应顾客借剪刀被保安限时并威胁",
+        "onboard_time": 1763297003,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39305,
+        "num": 121525,
+        "word": "公厕被打女孩打人者已刑满释放",
+        "onboard_time": 1763296824,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121398,
+        "num": 121398,
+        "word": "比吃药更有效的防流感习惯",
+        "onboard_time": 1763296641,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51100,
+        "num": 121020,
+        "word": "日本不需要煽动战争的首相",
+        "onboard_time": 1763297241,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25787,
+        "num": 120789,
+        "word": "我也是跟童年男神吃上饭了",
+        "onboard_time": 1763294661,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119412,
+        "num": 120771,
+        "word": "日本扩军备战套路与二战前高度相似",
+        "onboard_time": 1763295621,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120769,
+        "num": 120769,
+        "word": "张博恒状态",
+        "onboard_time": 1763296402,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119970,
+        "num": 119970,
+        "word": "目前无法根治的10种病",
+        "onboard_time": 1763292500,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 115978,
+        "num": 115978,
+        "word": "沈羽洁发了范丞丞",
+        "onboard_time": 1763283082,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114379,
+        "num": 114379,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1763294362,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111828,
+        "num": 111828,
+        "word": "央视起底AI仿冒名人营销乱象",
+        "onboard_time": 1763294541,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 110143,
+        "num": 110143,
+        "word": "唐朝诡事录",
+        "onboard_time": 1763289261,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105366,
+        "num": 105366,
+        "word": "气血不足到底有多累",
+        "onboard_time": 1763291361,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105201,
+        "num": 105201,
+        "word": "孙杨发文总结全运会",
+        "onboard_time": 1763294242,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103786,
+        "num": 103786,
+        "word": "展轩晒与许嵩合照",
+        "onboard_time": 1763293701,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#办一项跨三地的赛事有多硬核#"
+    }
+  }
+}

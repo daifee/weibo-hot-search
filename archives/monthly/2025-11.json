@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763293013975,
+  "endTime": 1763297258417,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1762948761,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 935788,
+      "num": 175063,
+      "word": "blue露脸",
+      "onboard_time": 1763293461,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 934283,
@@ -4667,6 +4675,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 532820,
+      "num": 532820,
+      "word": "唐诡3纯坏但纯爱的一对",
+      "onboard_time": 1763292803,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 532489,
       "num": 142821,
       "word": "韩美娟吐槽某明星带货质量差",
@@ -5097,6 +5113,14 @@
       "onboard_time": 1763217149,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 500589,
+      "num": 500589,
+      "word": "朱雨玲vs陈梦",
+      "onboard_time": 1763216908,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 500363,
@@ -5915,6 +5939,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 454120,
+      "num": 390507,
+      "word": "高市早苗早年叫板视频曝光",
+      "onboard_time": 1763294481,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 454088,
       "num": 210513,
       "word": "这是张馨予还是迪丽热巴",
@@ -6004,7 +6036,7 @@
     },
     {
       "raw_hot": 449899,
-      "num": 169191,
+      "num": 173776,
       "word": "曝佘诗曼斥资3000万港元买豪宅",
       "onboard_time": 1763281822,
       "rank": 38,
@@ -6220,7 +6252,7 @@
     },
     {
       "raw_hot": 439407,
-      "num": 164678,
+      "num": 174166,
       "word": "郑朋我需要心理医生",
       "onboard_time": 1763289261,
       "rank": 29,
@@ -6756,7 +6788,7 @@
     },
     {
       "raw_hot": 410649,
-      "num": 241355,
+      "num": 394157,
       "word": "南京一公园被私人占有十年",
       "onboard_time": 1763288481,
       "rank": 37,
@@ -8201,6 +8233,14 @@
       "onboard_time": 1762253540,
       "rank": 30,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 354574,
+      "num": 354574,
+      "word": "华为Mate80",
+      "onboard_time": 1763292202,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 354467,
@@ -10452,7 +10492,7 @@
     },
     {
       "raw_hot": 289289,
-      "num": 162331,
+      "num": 173165,
       "word": "长期熬夜的人都去做4件事",
       "onboard_time": 1763288841,
       "rank": 27,
@@ -11179,6 +11219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 272454,
+      "num": 272454,
+      "word": "卢凌风人设",
+      "onboard_time": 1763295922,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272112,
       "num": 187656,
       "word": "章泽天 高配版晚晚",
@@ -11321,6 +11369,14 @@
       "onboard_time": 1763169859,
       "rank": 27,
       "category": "数码"
+    },
+    {
+      "raw_hot": 268479,
+      "num": 268479,
+      "word": "霍尊音乐节状态",
+      "onboard_time": 1763294002,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 268346,
@@ -11785,6 +11841,14 @@
       "onboard_time": 1763006421,
       "rank": 27,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 257463,
+      "num": 257463,
+      "word": "徐嘉余打破全国纪录",
+      "onboard_time": 1763296279,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 257404,
@@ -13073,14 +13137,6 @@
       "onboard_time": 1762148600,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 227800,
-      "num": 227800,
-      "word": "朱雨玲vs陈梦",
-      "onboard_time": 1763216908,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 227795,
@@ -15675,6 +15731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196822,
+      "num": 196822,
+      "word": "侯明昊音乐节",
+      "onboard_time": 1763294362,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196740,
       "num": 172956,
       "word": "王曼昱晋级全运会四强",
@@ -17171,6 +17235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185671,
+      "num": 172586,
+      "word": "王俊凯蟹钳",
+      "onboard_time": 1763293941,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185562,
       "num": 185562,
       "word": "唐朝诡事录 无代餐",
@@ -17217,6 +17289,14 @@
       "onboard_time": 1762334061,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 185449,
+      "num": 185449,
+      "word": "陈数在挪威海上起舞",
+      "onboard_time": 1763297003,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 185438,
@@ -18155,6 +18235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176361,
+      "num": 176361,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1763290161,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 176251,
       "num": 170511,
       "word": "患癌男子8万救命钱全打赏主播",
@@ -18593,6 +18681,14 @@
       "onboard_time": 1762489821,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 172438,
+      "num": 172438,
+      "word": "迪丽热巴给刘宇宁送花篮",
+      "onboard_time": 1763295801,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 172423,
@@ -21331,6 +21427,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154925,
+      "num": 154925,
+      "word": "丁禹兮 正宫就得有正宫的大度",
+      "onboard_time": 1763296521,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154924,
       "num": 154924,
       "word": "美军机连续坠入南海最新调查曝光",
@@ -23379,6 +23483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 143461,
+      "num": 143461,
+      "word": "下下下个月今天就是除夕",
+      "onboard_time": 1763296641,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143447,
       "num": 143447,
       "word": "韩国高考",
@@ -23729,14 +23841,6 @@
       "onboard_time": 1763273541,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141381,
-      "num": 142951,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1763290161,
-      "rank": 34,
-      "category": "演出"
     },
     {
       "raw_hot": 141348,
@@ -24441,14 +24545,6 @@
       "onboard_time": 1762230801,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 138193,
-      "num": 138193,
-      "word": "华为Mate80",
-      "onboard_time": 1763292202,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 138168,
@@ -28171,6 +28267,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 123716,
+      "num": 123716,
+      "word": "成都大哥卖血旺",
+      "onboard_time": 1763295922,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123713,
       "num": 87321,
       "word": "马思纯工作室写给马思纯的信",
@@ -28947,6 +29051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 121398,
+      "num": 121398,
+      "word": "比吃药更有效的防流感习惯",
+      "onboard_time": 1763296641,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121397,
       "num": 457308,
       "word": "新一代奶爸神车确认",
@@ -29153,6 +29265,14 @@
       "onboard_time": 1763015481,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120769,
+      "num": 120769,
+      "word": "张博恒状态",
+      "onboard_time": 1763296402,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 120749,
@@ -29441,6 +29561,14 @@
       "onboard_time": 1763015901,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119412,
+      "num": 120771,
+      "word": "日本扩军备战套路与二战前高度相似",
+      "onboard_time": 1763295621,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119411,
@@ -29873,14 +30001,6 @@
       "onboard_time": 1762929681,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118277,
-      "num": 118277,
-      "word": "唐诡3纯坏但纯爱的一对",
-      "onboard_time": 1763292803,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 118244,
@@ -31969,6 +32089,14 @@
       "onboard_time": 1762337602,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 111828,
+      "num": 111828,
+      "word": "央视起底AI仿冒名人营销乱象",
+      "onboard_time": 1763294541,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 111813,
@@ -34291,6 +34419,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 105201,
+      "num": 105201,
+      "word": "孙杨发文总结全运会",
+      "onboard_time": 1763294242,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105173,
       "num": 105173,
       "word": "湖人险胜马刺",
@@ -34849,6 +34985,14 @@
       "onboard_time": 1762510220,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103786,
+      "num": 103786,
+      "word": "展轩晒与许嵩合照",
+      "onboard_time": 1763293701,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 103755,
@@ -51107,6 +51251,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54008,
+      "num": 155410,
+      "word": "周翊然微博红毯生图",
+      "onboard_time": 1763296942,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53987,
       "num": 275593,
       "word": "大眼音乐节舞台",
@@ -51505,6 +51657,14 @@
       "onboard_time": 1762400301,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51100,
+      "num": 121020,
+      "word": "日本不需要煽动战争的首相",
+      "onboard_time": 1763297241,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51025,
@@ -52747,6 +52907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 44033,
+      "num": 175506,
+      "word": "军舰上摆出从从容容游刃有余",
+      "onboard_time": 1763296041,
+      "rank": 20,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 43957,
       "num": 99840,
       "word": "电商在衣服上挂密码锁防蹭穿退货",
@@ -52904,6 +53072,14 @@
       "word": "西藏航空回应36周孕妇登机后被劝下",
       "onboard_time": 1762845740,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43261,
+      "num": 279189,
+      "word": "航拍南京一公园被私人占有数年现状",
+      "onboard_time": 1763296824,
+      "rank": 9,
       "category": "民生新闻"
     },
     {
@@ -53585,6 +53761,14 @@
       "onboard_time": 1762591760,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39305,
+      "num": 121525,
+      "word": "公厕被打女孩打人者已刑满释放",
+      "onboard_time": 1763296824,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39215,
@@ -55851,6 +56035,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26189,
+      "num": 175957,
+      "word": "刘雨昕Dior矜贵范",
+      "onboard_time": 1763296942,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26167,
       "num": 115816,
       "word": "医保卡变购物卡引发关注",
@@ -55897,6 +56089,14 @@
       "onboard_time": 1762284014,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25787,
+      "num": 120789,
+      "word": "我也是跟童年男神吃上饭了",
+      "onboard_time": 1763294661,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 25760,
@@ -57785,6 +57985,14 @@
       "onboard_time": 1763063293,
       "rank": 46,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 11507,
+      "num": 121929,
+      "word": "酒店回应顾客借剪刀被保安限时并威胁",
+      "onboard_time": 1763297003,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11474,

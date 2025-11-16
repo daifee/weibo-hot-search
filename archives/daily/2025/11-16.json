@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763293013975,
+  "endTime": 1763297258417,
   "band_list": [
     {
       "raw_hot": 8170972,
@@ -121,6 +121,14 @@
       "onboard_time": 1763214149,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 935788,
+      "num": 175063,
+      "word": "blue露脸",
+      "onboard_time": 1763293461,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 909207,
@@ -299,6 +307,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 532820,
+      "num": 532820,
+      "word": "唐诡3纯坏但纯爱的一对",
+      "onboard_time": 1763292803,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 526722,
       "num": 526722,
       "word": "日本针对中国公民违法犯罪多发",
@@ -329,6 +345,14 @@
       "onboard_time": 1763220504,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 500589,
+      "num": 500589,
+      "word": "朱雨玲vs陈梦",
+      "onboard_time": 1763295801,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 495030,
@@ -403,8 +427,16 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 454120,
+      "num": 390507,
+      "word": "高市早苗早年叫板视频曝光",
+      "onboard_time": 1763294481,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 449899,
-      "num": 169191,
+      "num": 173776,
       "word": "曝佘诗曼斥资3000万港元买豪宅",
       "onboard_time": 1763281822,
       "rank": 38,
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 439407,
-      "num": 164678,
+      "num": 174166,
       "word": "郑朋我需要心理医生",
       "onboard_time": 1763289261,
       "rank": 29,
@@ -428,7 +460,7 @@
     },
     {
       "raw_hot": 410649,
-      "num": 241355,
+      "num": 394157,
       "word": "南京一公园被私人占有十年",
       "onboard_time": 1763288481,
       "rank": 37,
@@ -569,6 +601,14 @@
       "onboard_time": 1763249958,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 354574,
+      "num": 354574,
+      "word": "华为Mate80",
+      "onboard_time": 1763292202,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 354467,
@@ -756,7 +796,7 @@
     },
     {
       "raw_hot": 289289,
-      "num": 162331,
+      "num": 173165,
       "word": "长期熬夜的人都去做4件事",
       "onboard_time": 1763288841,
       "rank": 27,
@@ -777,6 +817,22 @@
       "onboard_time": 1763248817,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272454,
+      "num": 272454,
+      "word": "卢凌风人设",
+      "onboard_time": 1763295922,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268479,
+      "num": 268479,
+      "word": "霍尊音乐节状态",
+      "onboard_time": 1763294002,
+      "rank": 11,
+      "category": "演出"
     },
     {
       "raw_hot": 267970,
@@ -809,6 +865,14 @@
       "onboard_time": 1763221045,
       "rank": 22,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 257463,
+      "num": 257463,
+      "word": "徐嘉余打破全国纪录",
+      "onboard_time": 1763296279,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 256386,
@@ -1075,6 +1139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196822,
+      "num": 196822,
+      "word": "侯明昊音乐节",
+      "onboard_time": 1763294362,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 196715,
       "num": 159647,
       "word": "原来大黄鱼会变色",
@@ -1161,6 +1233,22 @@
       "onboard_time": 1763256860,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 185671,
+      "num": 172586,
+      "word": "王俊凯蟹钳",
+      "onboard_time": 1763293941,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 185449,
+      "num": 185449,
+      "word": "陈数在挪威海上起舞",
+      "onboard_time": 1763297003,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 185261,
@@ -1251,6 +1339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 176361,
+      "num": 176361,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1763290161,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 173163,
       "num": 173163,
       "word": "何美延曝梁淞曾和岳母大吵",
@@ -1273,6 +1369,14 @@
       "onboard_time": 1763263939,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 172438,
+      "num": 172438,
+      "word": "迪丽热巴给刘宇宁送花篮",
+      "onboard_time": 1763295801,
+      "rank": 27,
+      "category": "演出"
     },
     {
       "raw_hot": 172223,
@@ -1417,6 +1521,14 @@
       "onboard_time": 1763289561,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154925,
+      "num": 154925,
+      "word": "丁禹兮 正宫就得有正宫的大度",
+      "onboard_time": 1763296521,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 154090,
@@ -1571,6 +1683,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143461,
+      "num": 143461,
+      "word": "下下下个月今天就是除夕",
+      "onboard_time": 1763296641,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142661,
       "num": 125190,
       "word": "樊振东6枚全运金牌破纪录",
@@ -1595,14 +1715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 141381,
-      "num": 142951,
-      "word": "刘宇宁演唱会",
-      "onboard_time": 1763290161,
-      "rank": 34,
-      "category": "演出"
-    },
-    {
       "raw_hot": 141262,
       "num": 141262,
       "word": "谁惹张艺兴生气了",
@@ -1617,14 +1729,6 @@
       "onboard_time": 1763214210,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 138193,
-      "num": 138193,
-      "word": "华为Mate80",
-      "onboard_time": 1763292202,
-      "rank": 25,
-      "category": "数码"
     },
     {
       "raw_hot": 137957,
@@ -1827,6 +1931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123716,
+      "num": 123716,
+      "word": "成都大哥卖血旺",
+      "onboard_time": 1763295922,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 123244,
       "num": 123244,
       "word": "中方对日迎头痛击如何击有多痛",
@@ -1883,6 +1995,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 121398,
+      "num": 121398,
+      "word": "比吃药更有效的防流感习惯",
+      "onboard_time": 1763296641,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121082,
       "num": 184368,
       "word": "上镜美的女明星现实得美成啥样",
@@ -1897,6 +2017,14 @@
       "onboard_time": 1763286201,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 120769,
+      "num": 120769,
+      "word": "张博恒状态",
+      "onboard_time": 1763296402,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 120304,
@@ -1937,6 +2065,14 @@
       "onboard_time": 1763292380,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119412,
+      "num": 120771,
+      "word": "日本扩军备战套路与二战前高度相似",
+      "onboard_time": 1763295621,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119397,
@@ -1985,14 +2121,6 @@
       "onboard_time": 1763266821,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118277,
-      "num": 118277,
-      "word": "唐诡3纯坏但纯爱的一对",
-      "onboard_time": 1763292803,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 118040,
@@ -2091,6 +2219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114379,
+      "num": 114379,
+      "word": "声鸣远扬直播",
+      "onboard_time": 1763294362,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 113655,
       "num": 113655,
       "word": "顾时夜生日卡",
@@ -2113,6 +2249,14 @@
       "onboard_time": 1763280202,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 111828,
+      "num": 111828,
+      "word": "央视起底AI仿冒名人营销乱象",
+      "onboard_time": 1763294541,
+      "rank": 45,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 111519,
@@ -2275,6 +2419,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105201,
+      "num": 105201,
+      "word": "孙杨发文总结全运会",
+      "onboard_time": 1763294242,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104727,
       "num": 104727,
       "word": "樊振东感谢上海队的理解和支持",
@@ -2305,6 +2457,14 @@
       "onboard_time": 1763288661,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103786,
+      "num": 103786,
+      "word": "展轩晒与许嵩合照",
+      "onboard_time": 1763293701,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 103755,
@@ -2739,6 +2899,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54008,
+      "num": 155410,
+      "word": "周翊然微博红毯生图",
+      "onboard_time": 1763296942,
+      "rank": 29,
+      "category": "演出"
+    },
+    {
       "raw_hot": 53048,
       "num": 53048,
       "word": "高市早苗言行引发中俄朝韩四国不满",
@@ -2753,6 +2921,14 @@
       "onboard_time": 1763247617,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51100,
+      "num": 121020,
+      "word": "日本不需要煽动战争的首相",
+      "onboard_time": 1763297241,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 49787,
@@ -2795,12 +2971,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44033,
+      "num": 175506,
+      "word": "军舰上摆出从从容容游刃有余",
+      "onboard_time": 1763296041,
+      "rank": 20,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 43908,
       "num": 44703,
       "word": "你告诉我这是毛晓彤",
       "onboard_time": 1763238075,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 43261,
+      "num": 279189,
+      "word": "航拍南京一公园被私人占有数年现状",
+      "onboard_time": 1763296824,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42169,
@@ -2873,6 +3065,14 @@
       "onboard_time": 1763289021,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39305,
+      "num": 121525,
+      "word": "公厕被打女孩打人者已刑满释放",
+      "onboard_time": 1763296824,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37782,
@@ -3027,6 +3227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26189,
+      "num": 175957,
+      "word": "刘雨昕Dior矜贵范",
+      "onboard_time": 1763296942,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25787,
+      "num": 120789,
+      "word": "我也是跟童年男神吃上饭了",
+      "onboard_time": 1763294661,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25760,
       "num": 201295,
       "word": "做人不能太BBC又应验了",
@@ -3129,6 +3345,14 @@
       "onboard_time": 1763292500,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 11507,
+      "num": 121929,
+      "word": "酒店回应顾客借剪刀被保安限时并威胁",
+      "onboard_time": 1763297003,
+      "rank": 35,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
