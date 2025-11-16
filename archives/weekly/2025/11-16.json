@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763321829406,
+  "endTime": 1763324885545,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -4275,6 +4275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19431,
+      "num": 23500,
+      "word": "蓝战非自曝立过遗嘱了",
+      "onboard_time": 1763322615,
+      "rank": 28,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 18307,
       "num": 32021,
       "word": "鹤男 公主从隧道跑到了轮渡",
@@ -4331,12 +4339,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 13802,
+      "raw_hot": 14288,
       "num": 29359,
       "word": "原来车真的能提升生活质量",
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13403,
+      "num": 23475,
+      "word": "古人用龟壳占卜的原因",
+      "onboard_time": 1763322734,
+      "rank": 41,
+      "category": "科学科普"
     }
   ],
   "hotgov_list": [
