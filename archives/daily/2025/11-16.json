@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763265202126,
+  "endTime": 1763267542169,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -27,8 +27,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 1205679,
-      "num": 1205679,
+      "raw_hot": 1278549,
+      "num": 1278549,
       "word": "解放军报发文日本全国都可能沦为战场",
       "onboard_time": 1763258601,
       "rank": 36,
@@ -49,6 +49,14 @@
       "onboard_time": 1763214149,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 940892,
+      "num": 940892,
+      "word": "释永信被批捕",
+      "onboard_time": 1763266221,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 828655,
@@ -115,6 +123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 628901,
+      "num": 199032,
+      "word": "朱一龙上金鸡奖撕名牌来了",
+      "onboard_time": 1763264721,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 599824,
       "num": 349060,
       "word": "罗一舟提问易烊千玺这段",
@@ -129,6 +145,14 @@
       "onboard_time": 1763218888,
       "rank": 4,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 548957,
+      "num": 191876,
+      "word": "陈思诚 表情",
+      "onboard_time": 1763264961,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 543185,
@@ -164,7 +188,7 @@
     },
     {
       "raw_hot": 466139,
-      "num": 350238,
+      "num": 392022,
       "word": "TFBOYS发文恭喜刘春和",
       "onboard_time": 1763259741,
       "rank": 26,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 401869,
-      "num": 225051,
+      "num": 281553,
       "word": "王源官宣客厅狂欢跨年场",
       "onboard_time": 1763263461,
       "rank": 18,
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358922,
+      "num": 186969,
+      "word": "第一次看易烊千玺翻白眼",
+      "onboard_time": 1763249958,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 354467,
       "num": 350237,
       "word": "钟楚曦坚持自己拿奖杯",
@@ -283,12 +315,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345673,
+      "num": 345673,
+      "word": "舍甫琴科vs张伟丽",
+      "onboard_time": 1763265381,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334851,
       "num": 216448,
       "word": "Uzi被曝加入iG",
       "onboard_time": 1763251160,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 315293,
+      "num": 190295,
+      "word": "陈紫函拒绝回应做12次试管",
+      "onboard_time": 1763265981,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 307084,
@@ -387,6 +435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215747,
+      "num": 215747,
+      "word": "财务与会计",
+      "onboard_time": 1763265201,
+      "rank": 7,
+      "category": "教育"
+    },
+    {
       "raw_hot": 213828,
       "num": 213828,
       "word": "王楚钦说男单输了情绪不高",
@@ -395,12 +451,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213332,
+      "num": 188942,
+      "word": "泰国男子被女友砍头反手拥抱拒报案",
+      "onboard_time": 1763265981,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 210526,
+      "num": 183408,
+      "word": "喝奶茶尽量选这4种",
+      "onboard_time": 1763263761,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 209093,
       "num": 232222,
       "word": "中国海警舰艇在我钓鱼岛领海巡航",
       "onboard_time": 1763256261,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204991,
+      "num": 183127,
+      "word": "辣椒炒肉太费米饭了",
+      "onboard_time": 1763266701,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 203199,
@@ -419,12 +499,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 199032,
-      "num": 199032,
-      "word": "朱一龙上金鸡奖撕名牌来了",
-      "onboard_time": 1763264721,
-      "rank": 24,
-      "category": "电影"
+      "raw_hot": 192934,
+      "num": 192934,
+      "word": "解放军轰炸机编队位南海例行巡航",
+      "onboard_time": 1763265921,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192118,
@@ -467,6 +547,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179747,
+      "num": 179747,
+      "word": "字是真的丑马是真的好",
+      "onboard_time": 1763265801,
+      "rank": 33,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 178336,
       "num": 178336,
       "word": "水饺皇后 糖水伯",
@@ -492,7 +580,7 @@
     },
     {
       "raw_hot": 172650,
-      "num": 172650,
+      "num": 184077,
       "word": "王安宇金晨在旅综拍恋综",
       "onboard_time": 1763263939,
       "rank": 39,
@@ -539,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 161254,
+      "num": 161254,
+      "word": "陈思诚听到朵朵接班的反应",
+      "onboard_time": 1763267482,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159296,
       "num": 159296,
       "word": "朵朵是缩小版陈思诚",
@@ -577,6 +673,14 @@
       "onboard_time": 1763263221,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 148206,
+      "num": 148206,
+      "word": "梁靖崑1比3林兆恒",
+      "onboard_time": 1763265621,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 147663,
@@ -635,20 +739,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141650,
-      "num": 141650,
-      "word": "陈思诚 表情",
-      "onboard_time": 1763264961,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 138418,
       "num": 138418,
       "word": "孙颖莎朱雨玲爆分",
       "onboard_time": 1763214210,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137953,
+      "num": 142455,
+      "word": "高市早苗首相之旅的天崩开局",
+      "onboard_time": 1763263821,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136831,
@@ -715,8 +819,8 @@
       "category": "动漫,作品衍生"
     },
     {
-      "raw_hot": 129259,
-      "num": 129259,
+      "raw_hot": 129581,
+      "num": 129581,
       "word": "公厕被打女生确诊白血最新发声",
       "onboard_time": 1763262802,
       "rank": 40,
@@ -729,6 +833,14 @@
       "onboard_time": 1763264661,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 127422,
+      "num": 185186,
+      "word": "田曦薇胡一天求婚吻戏路透",
+      "onboard_time": 1763264301,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 127036,
@@ -756,7 +868,7 @@
     },
     {
       "raw_hot": 121082,
-      "num": 121082,
+      "num": 184368,
       "word": "上镜美的女明星现实得美成啥样",
       "onboard_time": 1763265081,
       "rank": 47,
@@ -785,6 +897,14 @@
       "onboard_time": 1763259260,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119179,
+      "num": 119179,
+      "word": "梁靖崑11比1林兆恒",
+      "onboard_time": 1763266821,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 117616,
@@ -817,30 +937,6 @@
       "onboard_time": 1763245454,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 116465,
-      "num": 138435,
-      "word": "田曦薇胡一天求婚吻戏路透",
-      "onboard_time": 1763264301,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 113101,
-      "num": 113101,
-      "word": "喝奶茶尽量选这4种",
-      "onboard_time": 1763263761,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 112482,
-      "num": 142455,
-      "word": "高市早苗首相之旅的天崩开局",
-      "onboard_time": 1763263821,
-      "rank": 48,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111273,
@@ -915,6 +1011,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 98633,
+      "num": 158313,
+      "word": "张展硕全运会杀疯了",
+      "onboard_time": 1763265981,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98068,
+      "num": 130400,
+      "word": "男子中6亿日元瞒着家人独自享乐",
+      "onboard_time": 1763266101,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 98055,
       "num": 120094,
       "word": "日本樱岛火山连续喷发",
@@ -961,6 +1073,14 @@
       "onboard_time": 1763257520,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88973,
+      "num": 157572,
+      "word": "何美延 被偷了飞衣的织女",
+      "onboard_time": 1763267001,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 88389,
@@ -1011,6 +1131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 78202,
+      "num": 159632,
+      "word": "王楚钦vs袁励岑",
+      "onboard_time": 1763267422,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76894,
       "num": 110423,
       "word": "日本5公斤装大米均价约198元",
@@ -1025,6 +1153,14 @@
       "onboard_time": 1763258422,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75520,
+      "num": 188413,
+      "word": "释永信涉嫌挪用资金罪",
+      "onboard_time": 1763266762,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73029,
@@ -1057,6 +1193,14 @@
       "onboard_time": 1763230755,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 63698,
+      "num": 139566,
+      "word": "神秘培训机构学员拉够人头才能毕业",
+      "onboard_time": 1763265560,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62244,
@@ -1219,6 +1363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 27220,
+      "num": 625866,
+      "word": "十五运今日看点",
+      "onboard_time": 1763264422,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 25760,
       "num": 201295,
       "word": "做人不能太BBC又应验了",
@@ -1233,14 +1385,6 @@
       "onboard_time": 1763213367,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 24636,
-      "num": 234049,
-      "word": "十五运今日看点",
-      "onboard_time": 1763264422,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 23921,
@@ -1273,6 +1417,14 @@
       "onboard_time": 1763234474,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19419,
+      "num": 160783,
+      "word": "专家建议持续对日增强军事威慑",
+      "onboard_time": 1763267300,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18307,
