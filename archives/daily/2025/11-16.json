@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763299834454,
+  "endTime": 1763300496558,
   "band_list": [
     {
       "raw_hot": 8170972,
@@ -43,20 +43,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1509682,
+      "num": 1509682,
+      "word": "孙颖莎vs王曼昱",
+      "onboard_time": 1763298261,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1483323,
       "num": 1483323,
       "word": "韩国宣布中国排日本前面",
       "onboard_time": 1763281403,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1443354,
-      "num": 1443354,
-      "word": "孙颖莎vs王曼昱",
-      "onboard_time": 1763298261,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 1407623,
@@ -72,6 +72,14 @@
       "word": "樊振东全运会第6金",
       "onboard_time": 1763275162,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1363515,
+      "num": 1363515,
+      "word": "朱雨玲vs陈梦",
+      "onboard_time": 1763295801,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -113,14 +121,6 @@
       "onboard_time": 1763258361,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1083160,
-      "num": 1092839,
-      "word": "朱雨玲vs陈梦",
-      "onboard_time": 1763295801,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 980237,
@@ -291,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 590318,
+      "num": 590318,
+      "word": "日本不需要煽动战争的首相",
+      "onboard_time": 1763297241,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 571345,
       "num": 571345,
       "word": "王楚钦回应全运会铜牌",
@@ -395,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 472125,
-      "num": 472125,
-      "word": "日本不需要煽动战争的首相",
-      "onboard_time": 1763297241,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 466139,
       "num": 399380,
       "word": "TFBOYS发文恭喜刘春和",
@@ -483,7 +483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 423871,
+      "raw_hot": 425018,
       "num": 679781,
       "word": "易烊千玺与他的金鸡奖杯",
       "onboard_time": 1763297423,
@@ -715,20 +715,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 331354,
+      "num": 331354,
+      "word": "迪丽热巴给刘宇宁送花篮",
+      "onboard_time": 1763295801,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 325112,
+      "num": 198766,
+      "word": "下下下个月今天就是除夕",
+      "onboard_time": 1763296641,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 322331,
       "num": 239817,
       "word": "王楚钦还是选了粉色大湾鸡",
       "onboard_time": 1763281281,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 320546,
-      "num": 320546,
-      "word": "迪丽热巴给刘宇宁送花篮",
-      "onboard_time": 1763295801,
-      "rank": 27,
-      "category": "演出"
     },
     {
       "raw_hot": 317079,
@@ -752,14 +760,6 @@
       "word": "男子彩票中奖群里分享被邻居冒领",
       "onboard_time": 1763283382,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 308663,
-      "num": 198766,
-      "word": "下下下个月今天就是除夕",
-      "onboard_time": 1763296641,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -979,6 +979,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246206,
+      "num": 246206,
+      "word": "霍尊 复出",
+      "onboard_time": 1763300122,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 236255,
       "num": 236255,
       "word": "钟楚曦晒金鸡奖杯证书",
@@ -1147,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201782,
+      "num": 184579,
+      "word": "卢昱晓无框镜",
+      "onboard_time": 1763299882,
+      "rank": 23,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201700,
       "num": 200824,
       "word": "樊振东一二三手势庆祝",
@@ -1211,6 +1227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195097,
+      "num": 195097,
+      "word": "文旅部发布赴日旅游提示",
+      "onboard_time": 1763299763,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 192118,
       "num": 192118,
       "word": "少年的你",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1763276842,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189159,
+      "num": 175762,
+      "word": "舒淇曾否认冯德伦是丁克",
+      "onboard_time": 1763299582,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 188835,
@@ -1323,6 +1355,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182773,
+      "num": 182773,
+      "word": "华晨宇 没什么问题也是挺大的问题",
+      "onboard_time": 1763299642,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 182647,
+      "num": 155288,
+      "word": "倪萍提到金鸡奖",
+      "onboard_time": 1763300244,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182567,
       "num": 158307,
       "word": "这居然是47岁的颜丹晨",
@@ -1345,6 +1393,14 @@
       "onboard_time": 1763298563,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 179942,
+      "num": 159034,
+      "word": "樊振东夺冠登上新闻联播",
+      "onboard_time": 1763299163,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 179810,
@@ -1595,6 +1651,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155562,
+      "num": 155562,
+      "word": "那英魔丸造型",
+      "onboard_time": 1763299222,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155473,
       "num": 155473,
       "word": "偶遇鹿晗吃牛肉面",
@@ -1617,14 +1681,6 @@
       "onboard_time": 1763276902,
       "rank": 34,
       "category": "教育,科学科普"
-    },
-    {
-      "raw_hot": 153401,
-      "num": 153401,
-      "word": "樊振东夺冠登上新闻联播",
-      "onboard_time": 1763299163,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 152648,
@@ -1681,14 +1737,6 @@
       "onboard_time": 1763273722,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148861,
-      "num": 148861,
-      "word": "文旅部发布赴日旅游提示",
-      "onboard_time": 1763299763,
-      "rank": 33,
-      "category": "国内时政"
     },
     {
       "raw_hot": 148306,
@@ -1843,6 +1891,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140065,
+      "num": 140065,
+      "word": "巩立姣全运会5连冠",
+      "onboard_time": 1763299823,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139199,
+      "num": 139199,
+      "word": "张博恒状态",
+      "onboard_time": 1763296402,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138418,
       "num": 138418,
       "word": "孙颖莎朱雨玲爆分",
@@ -1881,14 +1945,6 @@
       "onboard_time": 1763299282,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 136836,
-      "num": 136836,
-      "word": "张博恒状态",
-      "onboard_time": 1763296402,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 136831,
@@ -1987,14 +2043,6 @@
       "category": "国际时政,互联网"
     },
     {
-      "raw_hot": 129850,
-      "num": 128548,
-      "word": "舒淇曾否认冯德伦是丁克",
-      "onboard_time": 1763299582,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 129675,
       "num": 129675,
       "word": "凡人修仙传",
@@ -2028,7 +2076,7 @@
     },
     {
       "raw_hot": 127685,
-      "num": 127685,
+      "num": 134787,
       "word": "巴厘岛车祸幸存亲历者发声",
       "onboard_time": 1763298202,
       "rank": 44,
@@ -2081,14 +2129,6 @@
       "onboard_time": 1763276302,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 125276,
-      "num": 136858,
-      "word": "那英魔丸造型",
-      "onboard_time": 1763299222,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 124958,
@@ -2419,6 +2459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111201,
+      "num": 111201,
+      "word": "甲流H3N2四个重症前兆要警惕",
+      "onboard_time": 1763298381,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110577,
       "num": 110577,
       "word": "现在就出发",
@@ -2707,14 +2755,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96754,
-      "num": 136845,
-      "word": "华晨宇 没什么问题也是挺大的问题",
-      "onboard_time": 1763299642,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 95937,
       "num": 133417,
       "word": "美军花4.7万 购买造价15美元旋钮",
@@ -2833,6 +2873,14 @@
       "onboard_time": 1763257282,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86578,
+      "num": 139526,
+      "word": "外籍华人百万遗产无人继承",
+      "onboard_time": 1763299403,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86357,
@@ -3099,14 +3147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50159,
-      "num": 136956,
-      "word": "外籍华人百万遗产无人继承",
-      "onboard_time": 1763299403,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49787,
       "num": 108218,
       "word": "12306回应乘客在火车内吸烟",
@@ -3129,6 +3169,14 @@
       "onboard_time": 1763273121,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 48581,
+      "num": 139309,
+      "word": "日本731部队问题专家谈高市谬论",
+      "onboard_time": 1763300302,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45595,
@@ -3483,6 +3531,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 17710,
+      "num": 1048092,
+      "word": "一场场比赛展示大湾区融合发展成果",
+      "onboard_time": 1763282902,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17682,
       "num": 154383,
       "word": "乌遭袭时高官商量提升防御工程回扣",
@@ -3513,14 +3569,6 @@
       "onboard_time": 1763292500,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 13091,
-      "num": 972352,
-      "word": "一场场比赛展示大湾区融合发展成果",
-      "onboard_time": 1763282902,
-      "rank": 2,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
