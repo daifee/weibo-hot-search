@@ -1,0 +1,410 @@
+{
+  "runTime": 1763264283487,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1197656,
+        "num": 1197656,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 391770,
+        "num": 391770,
+        "word": "高市早苗让日本国家承担代价",
+        "onboard_time": 1763206825,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5639,
+        "num": 350712,
+        "word": "全运会首个跨境马拉松",
+        "onboard_time": 1763264180,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 466139,
+        "num": 350238,
+        "word": "TFBOYS发文恭喜刘春和",
+        "onboard_time": 1763259741,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349060,
+        "num": 349060,
+        "word": "罗一舟提问易烊千玺这段",
+        "onboard_time": 1763257641,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232487,
+        "num": 232487,
+        "word": "网红小英曾回应丈夫上拉如开奔驰",
+        "onboard_time": 1763253681,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298597,
+        "num": 227640,
+        "word": "张艺谋 金鸡",
+        "onboard_time": 1763253801,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 209093,
+        "num": 209093,
+        "word": "中国海警舰艇在我钓鱼岛领海巡航",
+        "onboard_time": 1763256261,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169503,
+        "num": 209076,
+        "word": "流感H3N2毒株严重可致呼吸衰竭",
+        "onboard_time": 1763250439,
+        "rank": 8,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 164231,
+        "num": 208965,
+        "word": "我在废土世界扫垃圾动画首曝",
+        "onboard_time": 1763262861,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1157259,
+        "num": 208766,
+        "word": "饺子导演太勇了",
+        "onboard_time": 1763258361,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 674331,
+        "num": 208666,
+        "word": "86年39岁未婚未育女性的真实感受",
+        "onboard_time": 1763260580,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 616741,
+        "num": 208577,
+        "word": "易烊千玺称谈恋爱看缘分",
+        "onboard_time": 1763253261,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18786,
+        "num": 208394,
+        "word": "十五运会赛场外步步生花",
+        "onboard_time": 1763213367,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 398089,
+        "num": 208376,
+        "word": "女子退手机壳白嫖千元羽绒服",
+        "onboard_time": 1763261361,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 297219,
+        "num": 208269,
+        "word": "Uzi被曝加入iG",
+        "onboard_time": 1763251160,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 287527,
+        "num": 208080,
+        "word": "全运会乒乓球单打铜牌赛",
+        "onboard_time": 1763262201,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 280064,
+        "num": 207969,
+        "word": "宋佳 咏梅",
+        "onboard_time": 1763254099,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 268464,
+        "num": 207814,
+        "word": "王源官宣客厅狂欢跨年场",
+        "onboard_time": 1763263461,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 267970,
+        "num": 207783,
+        "word": "惊蛰无声 金鸡拼图",
+        "onboard_time": 1763260759,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1117542,
+        "num": 207578,
+        "word": "哪吒没人来领奖",
+        "onboard_time": 1763253560,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 511224,
+        "num": 207509,
+        "word": "印度女子遭6人轮奸拦警车求助",
+        "onboard_time": 1763257339,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337950,
+        "num": 207335,
+        "word": "舒淇自曝很想生小孩",
+        "onboard_time": 1763263163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224646,
+        "num": 207256,
+        "word": "爷爷临终前开了一个玩笑",
+        "onboard_time": 1763259561,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207211,
+        "num": 207211,
+        "word": "好东西三个女人三座金鸡奖杯",
+        "onboard_time": 1763252060,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 204290,
+        "num": 204290,
+        "word": "袁弘 帝后",
+        "onboard_time": 1763216068,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188835,
+        "num": 188835,
+        "word": "花少7顶级淡人内核",
+        "onboard_time": 1763262380,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162444,
+        "num": 162444,
+        "word": "金鸡奖名单",
+        "onboard_time": 1763253380,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142117,
+        "num": 161077,
+        "word": "律师称小英丈夫或被判3至7年",
+        "onboard_time": 1763258480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111273,
+        "num": 160516,
+        "word": "UFC",
+        "onboard_time": 1763258361,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168067,
+        "num": 160428,
+        "word": "带这4个词的奶茶尽量别点",
+        "onboard_time": 1763248817,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160289,
+        "num": 160289,
+        "word": "日本民众围堵首相官邸要求高市下台",
+        "onboard_time": 1763216131,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158466,
+        "num": 158466,
+        "word": "和王安宇打上视频了",
+        "onboard_time": 1763260040,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155971,
+        "num": 155971,
+        "word": "女生自学化妆1个月的变化",
+        "onboard_time": 1763262620,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 148240,
+        "num": 148240,
+        "word": "内娱不去姐现在乖得不像话",
+        "onboard_time": 1763263221,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40794,
+        "num": 145458,
+        "word": "风电叶片与大巴相撞致3伤",
+        "onboard_time": 1763262260,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143705,
+        "num": 143705,
+        "word": "枭起青壤",
+        "onboard_time": 1763221224,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90283,
+        "num": 139457,
+        "word": "字母哥一人打一片",
+        "onboard_time": 1763263341,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40430,
+        "num": 138953,
+        "word": "李沁花了好几个晚上制作的旅行回忆录",
+        "onboard_time": 1763263102,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138758,
+        "num": 138758,
+        "word": "王安宇金晨在旅综拍恋综",
+        "onboard_time": 1763263939,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129259,
+        "num": 129259,
+        "word": "公厕被打女生确诊白血最新发声",
+        "onboard_time": 1763262802,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123115,
+        "num": 123115,
+        "word": "台湾网红街头大肆叫嚣上战场",
+        "onboard_time": 1763251580,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120747,
+        "num": 120747,
+        "word": "金鸡奖",
+        "onboard_time": 1763207482,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114967,
+        "num": 114967,
+        "word": "何美延曝梁淞曾和岳母大吵",
+        "onboard_time": 1763264061,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113101,
+        "num": 113101,
+        "word": "喝奶茶尽量选这4种",
+        "onboard_time": 1763263761,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 112438,
+        "num": 112438,
+        "word": "惠英红 我相信人定胜天",
+        "onboard_time": 1763252360,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76894,
+        "num": 110423,
+        "word": "日本5公斤装大米均价约198元",
+        "onboard_time": 1763262620,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 109704,
+        "num": 109704,
+        "word": "熬夜和睡眠不足是两回事",
+        "onboard_time": 1763264002,
+        "rank": 47,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 86869,
+        "num": 107704,
+        "word": "高市早苗首相之旅的天崩开局",
+        "onboard_time": 1763263821,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86357,
+        "num": 106371,
+        "word": "全运会乒乓球单打终极之战来了",
+        "onboard_time": 1763264061,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
