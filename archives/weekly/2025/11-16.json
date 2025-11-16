@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763288770975,
+  "endTime": 1763289723625,
   "band_list": [
     {
       "raw_hot": 8170972,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 909207,
-      "num": 909207,
+      "num": 1145246,
       "word": "枭起青壤 此图暗藏玄机",
       "onboard_time": 1763287881,
       "rank": 3,
@@ -294,7 +294,7 @@
       "raw_hot": 513103,
       "num": 200182,
       "word": "时代峰峻否认左航恋爱",
-      "onboard_time": 1763276544,
+      "onboard_time": 1763271022,
       "rank": 26,
       "category": "艺人"
     },
@@ -364,7 +364,7 @@
     },
     {
       "raw_hot": 455933,
-      "num": 142558,
+      "num": 152846,
       "word": "Bin双眼皮",
       "onboard_time": 1763285781,
       "rank": 35,
@@ -409,6 +409,14 @@
       "onboard_time": 1763263461,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 400039,
+      "num": 153244,
+      "word": "方家翊自曝被某艺人偷衣服",
+      "onboard_time": 1763286081,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 398089,
@@ -467,6 +475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 379196,
+      "num": 193603,
+      "word": "王楚钦喊话马龙打好团体赛",
+      "onboard_time": 1763284882,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 376192,
       "num": 305466,
       "word": "金鸡奖",
@@ -521,14 +537,6 @@
       "onboard_time": 1763223383,
       "rank": 34,
       "category": "体育,综艺"
-    },
-    {
-      "raw_hot": 350268,
-      "num": 142211,
-      "word": "方家翊自曝被某艺人偷衣服",
-      "onboard_time": 1763286081,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 349822,
@@ -673,6 +681,14 @@
       "onboard_time": 1763212407,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 292177,
+      "num": 184667,
+      "word": "日本针对中国公民违法犯罪多发",
+      "onboard_time": 1763286683,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 291758,
@@ -824,14 +840,6 @@
       "word": "樊振东谈下一个目标",
       "onboard_time": 1763282002,
       "rank": 32,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 228688,
-      "num": 193603,
-      "word": "王楚钦喊话马龙打好团体赛",
-      "onboard_time": 1763284882,
-      "rank": 36,
       "category": "体育"
     },
     {
@@ -1004,7 +1012,7 @@
     },
     {
       "raw_hot": 194587,
-      "num": 135637,
+      "num": 149353,
       "word": "樊振东4届全运会代表3个队",
       "onboard_time": 1763287581,
       "rank": 30,
@@ -1036,7 +1044,7 @@
     },
     {
       "raw_hot": 190639,
-      "num": 138859,
+      "num": 150167,
       "word": "边伯贤品鉴固体杨枝甘露",
       "onboard_time": 1763287702,
       "rank": 26,
@@ -1089,14 +1097,6 @@
       "onboard_time": 1763274803,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 184667,
-      "num": 184667,
-      "word": "日本针对中国公民违法犯罪多发",
-      "onboard_time": 1763286683,
-      "rank": 14,
-      "category": "国内时政"
     },
     {
       "raw_hot": 183139,
@@ -1193,6 +1193,14 @@
       "onboard_time": 1763263939,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 170953,
+      "num": 150799,
+      "word": "长期熬夜的人都去做4件事",
+      "onboard_time": 1763288841,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 170943,
@@ -1361,6 +1369,14 @@
       "onboard_time": 1763273722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 149942,
+      "num": 149942,
+      "word": "郑朋我需要心理医生",
+      "onboard_time": 1763289261,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 148240,
@@ -1835,6 +1851,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118453,
+      "num": 154509,
+      "word": "易烊千玺回座位的姿势",
+      "onboard_time": 1763286321,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 118040,
+      "num": 152315,
+      "word": "德州网友吐槽超市几乎全是印度人",
+      "onboard_time": 1763287941,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 117616,
       "num": 117616,
       "word": "电影蛮荒禁地",
@@ -1860,7 +1892,7 @@
     },
     {
       "raw_hot": 116621,
-      "num": 116621,
+      "num": 118810,
       "word": "乒坛现役最强三人组",
       "onboard_time": 1763288601,
       "rank": 34,
@@ -1923,6 +1955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113268,
+      "num": 113686,
+      "word": "南京一公园被私人占有十年",
+      "onboard_time": 1763288481,
+      "rank": 37,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 112093,
       "num": 112093,
       "word": "出师表翻译成日语再翻回来",
@@ -1931,20 +1971,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 111837,
-      "num": 111837,
-      "word": "德州网友吐槽超市几乎全是印度人",
-      "onboard_time": 1763287941,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 111519,
       "num": 139956,
       "word": "王楚钦4比1袁励岑",
       "onboard_time": 1763271622,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110667,
+      "num": 154387,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763289261,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 110577,
@@ -2003,14 +2043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107479,
-      "num": 107479,
-      "word": "易烊千玺回座位的姿势",
-      "onboard_time": 1763286321,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 106535,
       "num": 106535,
       "word": "刘昊然说没准备获奖感言",
@@ -2041,6 +2073,14 @@
       "onboard_time": 1763278403,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105526,
+      "num": 105526,
+      "word": "偶遇鹿晗吃牛肉面",
+      "onboard_time": 1763289561,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 105443,
@@ -2083,6 +2123,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 103895,
+      "num": 104119,
+      "word": "陈伟霆喜提王安宇竞品",
+      "onboard_time": 1763288661,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 103755,
       "num": 103755,
       "word": "00后卷到金鸡奖了",
@@ -2105,6 +2153,14 @@
       "onboard_time": 1763259860,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101199,
+      "num": 101199,
+      "word": "竞技体育柔情的一面",
+      "onboard_time": 1763289021,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 101047,
@@ -2131,6 +2187,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 99442,
+      "num": 99442,
+      "word": "樊振东说每届全运会都是新节点",
+      "onboard_time": 1763289680,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98633,
       "num": 158313,
       "word": "张展硕全运会杀疯了",
@@ -2153,14 +2217,6 @@
       "onboard_time": 1763265020,
       "rank": 49,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 95835,
-      "num": 104119,
-      "word": "陈伟霆喜提王安宇竞品",
-      "onboard_time": 1763288661,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 95746,
@@ -2193,6 +2249,14 @@
       "onboard_time": 1763286382,
       "rank": 33,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 93410,
+      "num": 113822,
+      "word": "张天爱的腰",
+      "onboard_time": 1763288901,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 93134,
@@ -2276,7 +2340,7 @@
     },
     {
       "raw_hot": 85731,
-      "num": 111967,
+      "num": 114728,
       "word": "沈腾 什么时候放因为爱情",
       "onboard_time": 1763288239,
       "rank": 39,
@@ -2329,6 +2393,14 @@
       "onboard_time": 1763266762,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75362,
+      "num": 98726,
+      "word": "刘宇宁KAZE竟然还有售后",
+      "onboard_time": 1763289081,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 73029,
@@ -2491,14 +2563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 47978,
-      "num": 113686,
-      "word": "南京一公园被私人占有十年",
-      "onboard_time": 1763288481,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 45595,
       "num": 45595,
       "word": "辛芷蕾金鸡奖红毯笑得好开心",
@@ -2585,6 +2649,14 @@
       "onboard_time": 1763263102,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40040,
+      "num": 700195,
+      "word": "嫦娥六号月背样品研究成果再上新",
+      "onboard_time": 1763289021,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37782,
