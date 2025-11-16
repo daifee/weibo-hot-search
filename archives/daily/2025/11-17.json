@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763331866844,
+  "endTime": 1763332871245,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -211,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 118122,
+      "num": 118122,
+      "word": "孙颖莎16比14王曼昱",
+      "onboard_time": 1763317575,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115860,
       "num": 258462,
       "word": "王曼昱全运会第4金",
@@ -249,14 +257,6 @@
       "onboard_time": 1763275461,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 105767,
-      "num": 105767,
-      "word": "孙颖莎16比14王曼昱",
-      "onboard_time": 1763317575,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 105312,
@@ -443,20 +443,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 64522,
+      "num": 249053,
+      "word": "舒淇曾否认冯德伦是丁克",
+      "onboard_time": 1763299582,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55209,
       "num": 250228,
       "word": "大黄鱼怎么哼唧哼唧的",
       "onboard_time": 1763310919,
       "rank": 46,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 53768,
-      "num": 249053,
-      "word": "舒淇曾否认冯德伦是丁克",
-      "onboard_time": 1763299582,
-      "rank": 48,
-      "category": "电影"
     },
     {
       "raw_hot": 42588,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 35567,
-      "num": 43954,
+      "num": 48671,
       "word": "精彩全运会",
       "onboard_time": 1763325374,
       "rank": 8,
@@ -500,7 +500,7 @@
     },
     {
       "raw_hot": 34266,
-      "num": 43556,
+      "num": 48724,
       "word": "孙颖莎8比11王曼昱",
       "onboard_time": 1763325614,
       "rank": 15,
@@ -516,7 +516,7 @@
     },
     {
       "raw_hot": 31219,
-      "num": 44266,
+      "num": 48831,
       "word": "陈思诚 不抛弃不放弃",
       "onboard_time": 1763315416,
       "rank": 28,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 27123,
-      "num": 43625,
+      "num": 48630,
       "word": "好东西真是好东西",
       "onboard_time": 1763316856,
       "rank": 29,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 25990,
-      "num": 43864,
+      "num": 48770,
       "word": "樊振东王楚钦握手都笑了",
       "onboard_time": 1763316794,
       "rank": 37,
@@ -587,16 +587,24 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22399,
+      "num": 48750,
+      "word": "日本政客推卸涉台言论责任",
+      "onboard_time": 1763320334,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 22345,
-      "num": 43737,
+      "num": 48641,
       "word": "珍惜那个凡事不用猜的人",
       "onboard_time": 1763308822,
       "rank": 43,
       "category": "科学科普"
     },
     {
-      "raw_hot": 20919,
-      "num": 44064,
+      "raw_hot": 21204,
+      "num": 48721,
       "word": "王曼昱成功卫冕",
       "onboard_time": 1763307203,
       "rank": 48,
@@ -617,14 +625,6 @@
       "onboard_time": 1763322615,
       "rank": 28,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 18491,
-      "num": 43856,
-      "word": "日本政客推卸涉台言论责任",
-      "onboard_time": 1763320334,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 16989,
