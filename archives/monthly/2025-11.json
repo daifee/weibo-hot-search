@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763258683014,
+  "endTime": 1763260031190,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1280,6 +1280,14 @@
       "word": "怜爱惠英红",
       "onboard_time": 1763211565,
       "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 1018737,
+      "num": 210023,
+      "word": "饺子导演太勇了",
+      "onboard_time": 1763258361,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -2939,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 666019,
+      "num": 204642,
+      "word": "印度女子遭6人轮奸拦警车求助",
+      "onboard_time": 1763257339,
+      "rank": 20,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 665452,
       "num": 1106472,
       "word": "S15决赛唯一中国人",
@@ -3467,14 +3483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 613206,
-      "num": 204642,
-      "word": "印度女子遭6人轮奸拦警车求助",
-      "onboard_time": 1763257339,
-      "rank": 20,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 613072,
       "num": 197837,
       "word": "梅尼耶要结婚了",
@@ -3636,7 +3644,7 @@
     },
     {
       "raw_hot": 599824,
-      "num": 302928,
+      "num": 340247,
       "word": "罗一舟提问易烊千玺这段",
       "onboard_time": 1763257641,
       "rank": 3,
@@ -5532,7 +5540,7 @@
     },
     {
       "raw_hot": 465006,
-      "num": 302540,
+      "num": 336256,
       "word": "网红小英曾回应丈夫上拉如开奔驰",
       "onboard_time": 1763253681,
       "rank": 4,
@@ -7163,6 +7171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 381413,
+      "num": 220133,
+      "word": "宋佳 咏梅",
+      "onboard_time": 1763254099,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 380690,
       "num": 165681,
       "word": "影视飓风Tim 相亲简历",
@@ -7401,14 +7417,6 @@
       "onboard_time": 1762313721,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 371954,
-      "num": 220133,
-      "word": "宋佳 咏梅",
-      "onboard_time": 1763254099,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 371856,
@@ -7673,6 +7681,14 @@
       "onboard_time": 1762942823,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 360678,
+      "num": 126047,
+      "word": "解放军报发文日本全国都可能沦为战场",
+      "onboard_time": 1763258601,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 360524,
@@ -8355,6 +8371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334851,
+      "num": 216448,
+      "word": "Uzi被曝加入iG",
+      "onboard_time": 1763251160,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 334810,
       "num": 186339,
       "word": "高铁票买到19排但车厢只有17排",
@@ -8649,14 +8673,6 @@
       "onboard_time": 1761919642,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 326917,
-      "num": 216448,
-      "word": "Uzi被曝加入iG",
-      "onboard_time": 1763251160,
-      "rank": 15,
-      "category": "电竞"
     },
     {
       "raw_hot": 326215,
@@ -10643,6 +10659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273104,
+      "num": 204044,
+      "word": "带这4个词的奶茶尽量别点",
+      "onboard_time": 1763248817,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 272995,
       "num": 247229,
       "word": "乔欣今年8月成立新公司",
@@ -10809,14 +10833,6 @@
       "onboard_time": 1763169859,
       "rank": 27,
       "category": "数码"
-    },
-    {
-      "raw_hot": 268777,
-      "num": 204044,
-      "word": "带这4个词的奶茶尽量别点",
-      "onboard_time": 1763248817,
-      "rank": 20,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 268346,
@@ -12715,6 +12731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 223741,
+      "num": 124419,
+      "word": "好想来事件后3岁孩子未上学",
+      "onboard_time": 1763258721,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 223438,
       "num": 3834987,
       "word": "航天员带回近100斤太空特产",
@@ -13697,14 +13721,6 @@
       "onboard_time": 1762340601,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210023,
-      "num": 210023,
-      "word": "饺子导演太勇了",
-      "onboard_time": 1763258361,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 209993,
@@ -16275,6 +16291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 186418,
+      "num": 235650,
+      "word": "台湾又被美敲诈至少3500亿美元",
+      "onboard_time": 1763256860,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 186385,
       "num": 256090,
       "word": "张展硕全运会200自冠军",
@@ -17065,6 +17089,14 @@
       "onboard_time": 1762143380,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178704,
+      "num": 232222,
+      "word": "中国海警舰艇在我钓鱼岛领海巡航",
+      "onboard_time": 1763256261,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178694,
@@ -18473,6 +18505,14 @@
       "onboard_time": 1762870462,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 166258,
+      "num": 166258,
+      "word": "律师称小英丈夫或被判3至7年",
+      "onboard_time": 1763258480,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166239,
@@ -20147,14 +20187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 156047,
-      "num": 235650,
-      "word": "台湾又被美敲诈至少3500亿美元",
-      "onboard_time": 1763256860,
-      "rank": 8,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 156016,
       "num": 156016,
       "word": "在乌镇偶遇张艺兴",
@@ -20345,14 +20377,6 @@
       "onboard_time": 1763021779,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 154949,
-      "num": 232222,
-      "word": "中国海警舰艇在我钓鱼岛领海巡航",
-      "onboard_time": 1763256261,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154924,
@@ -20953,6 +20977,14 @@
       "onboard_time": 1763123960,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150993,
+      "num": 150993,
+      "word": "TFBOYS发文恭喜刘春和",
+      "onboard_time": 1763259741,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 150920,
@@ -22529,6 +22561,14 @@
       "onboard_time": 1762298421,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 141827,
+      "num": 123107,
+      "word": "日本民众集会高喊高市早苗下台",
+      "onboard_time": 1763259442,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141712,
@@ -28107,6 +28147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 119397,
+      "num": 119397,
+      "word": "现在就出发3",
+      "onboard_time": 1763259260,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119384,
       "num": 109857,
       "word": "原来这就是你们嚷嚷着要回的家啊",
@@ -28803,6 +28851,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117244,
+      "num": 117244,
+      "word": "曝Zeka确定加入DNF",
+      "onboard_time": 1763258660,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117229,
       "num": 117229,
       "word": "没想到短剧让我恶补了历史知识",
@@ -28929,14 +28985,6 @@
       "onboard_time": 1762171823,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 116779,
-      "num": 116779,
-      "word": "解放军报发文日本全国都可能沦为战场",
-      "onboard_time": 1763258601,
-      "rank": 36,
-      "category": "国内时政"
     },
     {
       "raw_hot": 116708,
@@ -29939,6 +29987,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 113147,
+      "num": 113147,
+      "word": "爷爷临终前开了一个玩笑",
+      "onboard_time": 1763259561,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113141,
       "num": 113141,
       "word": "王权富贵终于要去淮水竹亭了",
@@ -30857,6 +30913,14 @@
       "onboard_time": 1763118742,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110526,
+      "num": 110526,
+      "word": "日本抗议者要求高市赶快道歉",
+      "onboard_time": 1763258240,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110500,
@@ -33691,6 +33755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102790,
+      "num": 102790,
+      "word": "檀健次被喷到四脚朝天太萌了",
+      "onboard_time": 1763259860,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102773,
       "num": 342436,
       "word": "五星红旗入场BGM是歌唱祖国",
@@ -34785,14 +34857,6 @@
       "onboard_time": 1762145182,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 100109,
-      "num": 100109,
-      "word": "日本抗议者要求高市赶快道歉",
-      "onboard_time": 1763258240,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100102,
@@ -36083,6 +36147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 97193,
+      "num": 145804,
+      "word": "UFC",
+      "onboard_time": 1763258361,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97179,
       "num": 97179,
       "word": "长沙垮塌致2死2伤店铺被指装修猛烈",
@@ -37371,28 +37443,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 94157,
-      "num": 145804,
-      "word": "UFC",
-      "onboard_time": 1763258361,
-      "rank": 28,
-      "category": "体育"
-    },
-    {
       "raw_hot": 94154,
       "num": 164526,
       "word": "小鹏科技日",
       "onboard_time": 1762404381,
       "rank": 42,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 94149,
-      "num": 94149,
-      "word": "曝Zeka确定加入DNF",
-      "onboard_time": 1763258660,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 94120,
@@ -40065,14 +40121,6 @@
       "onboard_time": 1762653380,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88253,
-      "num": 106755,
-      "word": "律师称小英丈夫或被判3至7年",
-      "onboard_time": 1763258480,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88242,
@@ -44779,6 +44827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 75626,
+      "num": 107096,
+      "word": "蒋勤勤鼓掌都快哭了",
+      "onboard_time": 1763258422,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 75612,
       "num": 75612,
       "word": "真正的亲密关系不是撒娇和宠溺",
@@ -46001,6 +46057,14 @@
       "onboard_time": 1762748000,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 71126,
+      "num": 115810,
+      "word": "张展硕当记者上瘾了",
+      "onboard_time": 1763259380,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 71116,
@@ -51275,6 +51339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41464,
+      "num": 108649,
+      "word": "澳门警方通报女子酒店遇袭身亡案",
+      "onboard_time": 1763258660,
+      "rank": 38,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 41375,
       "num": 98512,
       "word": "黄景瑜陪爸妈吃饭",
@@ -52545,6 +52617,14 @@
       "onboard_time": 1762640534,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 33449,
+      "num": 156328,
+      "word": "张伟丽已做好万全准备",
+      "onboard_time": 1763259860,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 33422,
@@ -53859,14 +53939,6 @@
       "category": "电竞,体育"
     },
     {
-      "raw_hot": 25392,
-      "num": 107269,
-      "word": "澳门警方通报女子酒店遇袭身亡案",
-      "onboard_time": 1763258660,
-      "rank": 38,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 25324,
       "num": 219437,
       "word": "北京秋游太舒服了",
@@ -54337,14 +54409,6 @@
       "onboard_time": 1761988522,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21774,
-      "num": 107096,
-      "word": "蒋勤勤鼓掌都快哭了",
-      "onboard_time": 1763258422,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 21767,
