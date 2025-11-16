@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763324885545,
+  "endTime": 1763325652493,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -3987,12 +3987,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35567,
+      "num": 35567,
+      "word": "精彩全运会",
+      "onboard_time": 1763325374,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 35279,
       "num": 107833,
       "word": "生意不好先打个窝",
       "onboard_time": 1763311639,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34266,
+      "num": 23479,
+      "word": "孙颖莎8比11王曼昱",
+      "onboard_time": 1763325614,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 34212,
@@ -4339,20 +4355,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14540,
+      "num": 23475,
+      "word": "古人用龟壳占卜的原因",
+      "onboard_time": 1763322734,
+      "rank": 41,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 14288,
       "num": 29359,
       "word": "原来车真的能提升生活质量",
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13403,
-      "num": 23475,
-      "word": "古人用龟壳占卜的原因",
-      "onboard_time": 1763322734,
-      "rank": 41,
-      "category": "科学科普"
     }
   ],
   "hotgov_list": [
