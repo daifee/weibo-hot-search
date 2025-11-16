@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763271714978,
+  "endTime": 1763275026181,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 6748763,
+      "num": 6748763,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1763269522,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 6617734,
       "num": 6617734,
       "word": "王传君东京电影节影帝",
@@ -96,6 +104,14 @@
       "word": "苏超泰州队冠军",
       "onboard_time": 1762004724,
       "rank": 0,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 4697683,
+      "num": 4697683,
+      "word": "樊振东冠军",
+      "onboard_time": 1763274203,
+      "rank": 1,
       "category": "体育"
     },
     {
@@ -267,14 +283,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2015650,
-      "num": 2015650,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1763269522,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 2000373,
       "num": 2000373,
       "word": "十五运开幕式直播",
@@ -289,6 +297,14 @@
       "onboard_time": 1762757599,
       "rank": 44,
       "category": "艺人,互联网"
+    },
+    {
+      "raw_hot": 1924085,
+      "num": 232223,
+      "word": "左航 恋爱",
+      "onboard_time": 1763271022,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1912168,
@@ -952,14 +968,6 @@
       "word": "张颂文聚餐救人获赠锦旗",
       "onboard_time": 1762844840,
       "rank": 5,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1187409,
-      "num": 211185,
-      "word": "左航 恋爱",
-      "onboard_time": 1763271022,
-      "rank": 20,
       "category": "艺人"
     },
     {
@@ -5627,6 +5635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 465852,
+      "num": 230781,
+      "word": "张雅钦摔倒",
+      "onboard_time": 1763271741,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 465643,
       "num": 192756,
       "word": "刘若英谈44岁怀孕经历",
@@ -7259,6 +7275,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 382884,
+      "num": 229173,
+      "word": "樊振东主动陪林诗栋练球",
+      "onboard_time": 1763270361,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 382333,
       "num": 164093,
       "word": "LV品牌大使 温柔人设",
@@ -8507,6 +8531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 335272,
+      "num": 228377,
+      "word": "王楚钦向球迷竖大拇指",
+      "onboard_time": 1763274443,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 334873,
       "num": 165554,
       "word": "辛芷蕾回鹤岗撸串了",
@@ -9105,6 +9137,14 @@
       "onboard_time": 1762695982,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 317079,
+      "num": 226834,
+      "word": "关晓彤骨相",
+      "onboard_time": 1763271741,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 316534,
@@ -9721,6 +9761,14 @@
       "onboard_time": 1762232840,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300510,
+      "num": 300510,
+      "word": "蒋依依从TF一代搭到三代",
+      "onboard_time": 1763271622,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 300153,
@@ -11691,6 +11739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251057,
+      "num": 242752,
+      "word": "易烊千玺 一个镜头让广告商花钱",
+      "onboard_time": 1763273361,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 251016,
       "num": 228055,
       "word": "严屹宽还在穿20年前的衣服",
@@ -11993,6 +12049,14 @@
       "onboard_time": 1763089819,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242387,
+      "num": 242387,
+      "word": "王楚钦回应全运会铜牌",
+      "onboard_time": 1763274742,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 242184,
@@ -13539,14 +13603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 214469,
-      "num": 208599,
-      "word": "樊振东主动陪林诗栋练球",
-      "onboard_time": 1763270361,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 214414,
       "num": 171304,
       "word": "气虚vs血虚vs气血两虚",
@@ -14113,6 +14169,14 @@
       "onboard_time": 1762330881,
       "rank": 30,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 208084,
+      "num": 208084,
+      "word": "樊振东4比1胜林诗栋",
+      "onboard_time": 1763274503,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 207882,
@@ -16043,6 +16107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190314,
+      "num": 190314,
+      "word": "张伟丽道歉",
+      "onboard_time": 1763274263,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190248,
       "num": 185012,
       "word": "谢霆锋带着丁真翻车了",
@@ -16763,6 +16835,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 185261,
+      "num": 185261,
+      "word": "周深 手提行李超重",
+      "onboard_time": 1763273842,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 185162,
       "num": 185162,
       "word": "河南女排3比0天津女排",
@@ -16832,6 +16912,14 @@
       "word": "乒乓球男团上海3比0江苏",
       "onboard_time": 1763094501,
       "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 184692,
+      "num": 184692,
+      "word": "王楚钦谈全运会收获",
+      "onboard_time": 1763274803,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -17577,6 +17665,14 @@
       "onboard_time": 1762693222,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176745,
+      "num": 176745,
+      "word": "邓亚萍说樊振东林诗栋强强对抗",
+      "onboard_time": 1763274923,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 176610,
@@ -19171,6 +19267,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 164277,
+      "num": 164277,
+      "word": "高中时期的Angelababy",
+      "onboard_time": 1763273183,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164250,
       "num": 133226,
       "word": "经常视奸自己的朋友圈",
@@ -20145,6 +20249,14 @@
       "onboard_time": 1762950921,
       "rank": 30,
       "category": "数码"
+    },
+    {
+      "raw_hot": 158013,
+      "num": 158013,
+      "word": "二手奶茶袋已卖到几十元",
+      "onboard_time": 1763272641,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157995,
@@ -21363,6 +21475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150719,
+      "num": 150719,
+      "word": "樊振东首局11比9林诗栋",
+      "onboard_time": 1763273722,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150662,
       "num": 148556,
       "word": "于谦见证Faker鸟巢执念得偿",
@@ -22155,6 +22275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146443,
+      "num": 146443,
+      "word": "Faker看自己S7决赛痛哭",
+      "onboard_time": 1763274742,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146435,
       "num": 113355,
       "word": "李纯马頔婚后首同框",
@@ -22353,6 +22481,14 @@
       "onboard_time": 1762917980,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 145060,
+      "num": 145060,
+      "word": "张艺谋新片四个影帝一个影后",
+      "onboard_time": 1763271441,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 145057,
@@ -23059,12 +23195,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 141438,
+      "num": 234520,
+      "word": "那英把花少7的灵魂说出来了",
+      "onboard_time": 1763273541,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141348,
       "num": 152878,
       "word": "吴昕 十字诛心",
       "onboard_time": 1763101821,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141262,
+      "num": 141262,
+      "word": "谁惹张艺兴生气了",
+      "onboard_time": 1763270782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 141151,
@@ -23827,6 +23979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137957,
+      "num": 137957,
+      "word": "田嘉瑞一眼认出肖战的魏无羡",
+      "onboard_time": 1763271921,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137953,
       "num": 142455,
       "word": "高市早苗首相之旅的天崩开局",
@@ -24577,6 +24737,14 @@
       "onboard_time": 1762837762,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 134634,
+      "num": 134634,
+      "word": "樊振东赛场眼神气场全开",
+      "onboard_time": 1763274803,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 134631,
@@ -25792,6 +25960,14 @@
       "word": "郑钦文亮相全运会开幕式",
       "onboard_time": 1762692262,
       "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 129271,
+      "num": 232966,
+      "word": "樊振东第一局连得7分",
+      "onboard_time": 1763274083,
+      "rank": 19,
       "category": "体育"
     },
     {
@@ -27971,6 +28147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121958,
+      "num": 146500,
+      "word": "宁静评价最像明楼的短剧演员",
+      "onboard_time": 1763273301,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121949,
       "num": 334906,
       "word": "缅甸亚太新城犯罪集团主犯引渡回国",
@@ -28216,14 +28400,6 @@
       "word": "水龙吟一部剧情拉满的饱和剧",
       "onboard_time": 1762261401,
       "rank": 34,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 121125,
-      "num": 121125,
-      "word": "蒋依依从TF一代搭到三代",
-      "onboard_time": 1763271622,
-      "rank": 45,
       "category": "剧集"
     },
     {
@@ -28660,7 +28836,7 @@
     },
     {
       "raw_hot": 119281,
-      "num": 141793,
+      "num": 157780,
       "word": "领克七年九冠",
       "onboard_time": 1763270902,
       "rank": 36,
@@ -30211,14 +30387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114287,
-      "num": 114287,
-      "word": "张艺谋新片四个影帝一个影后",
-      "onboard_time": 1763271441,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 114246,
       "num": 114246,
       "word": "第五人格",
@@ -31443,6 +31611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 110623,
+      "num": 151666,
+      "word": "沈腾的破梗只有胡先煦听懂了",
+      "onboard_time": 1763274383,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 110526,
       "num": 110526,
       "word": "日本抗议者要求高市赶快道歉",
@@ -32577,6 +32753,14 @@
       "onboard_time": 1761963081,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107157,
+      "num": 153351,
+      "word": "邓超41秒演了一出戏",
+      "onboard_time": 1763274742,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 107153,
@@ -34923,6 +35107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101047,
+      "num": 147496,
+      "word": "爱泼斯坦2万份文件揭了特朗普哪些短",
+      "onboard_time": 1763272881,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101045,
       "num": 104607,
       "word": "王艺迪4比2朱芊曦",
@@ -35457,14 +35649,6 @@
       "onboard_time": 1762824619,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 99963,
-      "num": 137191,
-      "word": "谁惹张艺兴生气了",
-      "onboard_time": 1763270782,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 99947,
@@ -48443,6 +48627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 62272,
+      "num": 245937,
+      "word": "央视起底电加热衣乱象",
+      "onboard_time": 1763273842,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62265,
       "num": 95673,
       "word": "网红大熊猫渝可从树上跌落",
@@ -50609,6 +50801,14 @@
       "onboard_time": 1762246160,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48833,
+      "num": 146569,
+      "word": "张伟丽太顽强了",
+      "onboard_time": 1763273121,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 48815,
@@ -53811,6 +54011,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 30043,
+      "num": 155321,
+      "word": "多名游客将车开进阿尔山不冻河打卡",
+      "onboard_time": 1763273842,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30010,
       "num": 49526,
       "word": "考古陈都灵南航时期日常",
@@ -54187,6 +54395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27811,
+      "num": 1974884,
+      "word": "十五运今日看点",
+      "onboard_time": 1763264422,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27797,
       "num": 35380,
       "word": "潘展乐曾回应张展硕状态火热",
@@ -54265,14 +54481,6 @@
       "onboard_time": 1762516881,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27220,
-      "num": 859519,
-      "word": "十五运今日看点",
-      "onboard_time": 1763264422,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 27173,
