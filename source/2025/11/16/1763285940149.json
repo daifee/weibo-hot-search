@@ -1,0 +1,410 @@
+{
+  "runTime": 1763285940149,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1427579,
+        "num": 1427579,
+        "word": "韩国宣布中国排日本前面",
+        "onboard_time": 1763281403,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 703365,
+        "num": 703365,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31602,
+        "num": 457165,
+        "word": "全运会首个跨境马拉松",
+        "onboard_time": 1763264180,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 382785,
+        "num": 382785,
+        "word": "Uzi否认复出",
+        "onboard_time": 1763284641,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 274115,
+        "num": 274115,
+        "word": "二手奶茶袋已卖到几十元",
+        "onboard_time": 1763272641,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1388046,
+        "num": 272663,
+        "word": "樊振东冠军",
+        "onboard_time": 1763274203,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279794,
+        "num": 271737,
+        "word": "中国大陆至日本航班量大幅下滑",
+        "onboard_time": 1763278882,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250008,
+        "num": 250008,
+        "word": "T1 Guma",
+        "onboard_time": 1763282662,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197439,
+        "num": 197439,
+        "word": "美军对委内瑞拉动手了",
+        "onboard_time": 1763276544,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63978,
+        "num": 197128,
+        "word": "日本战败80年后似乎想回到从前",
+        "onboard_time": 1763284762,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 855623,
+        "num": 197054,
+        "word": "黄觉 易烊千玺唯一的站哥",
+        "onboard_time": 1763279541,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276854,
+        "num": 196782,
+        "word": "樊振东感谢国家培养",
+        "onboard_time": 1763282542,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268397,
+        "num": 196344,
+        "word": "王楚钦还是选了粉色大湾鸡",
+        "onboard_time": 1763281281,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196196,
+        "num": 196196,
+        "word": "枭起青壤官宣节奏",
+        "onboard_time": 1763281642,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230139,
+        "num": 195634,
+        "word": "男子彩票中奖群里分享被邻居冒领",
+        "onboard_time": 1763283382,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170153,
+        "num": 170153,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763272520,
+        "rank": 15,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 150218,
+        "num": 170051,
+        "word": "咏梅 新的一天该有的都有",
+        "onboard_time": 1763277981,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139450,
+        "num": 169961,
+        "word": "惠英红谈金鸡奖是各花入各眼",
+        "onboard_time": 1763282842,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 63440,
+        "num": 169945,
+        "word": "高市早苗之前曾多次窜访台湾",
+        "onboard_time": 1763284762,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29706,
+        "num": 169791,
+        "word": "律师谈美国没收12.7万枚被盗比特币",
+        "onboard_time": 1763285721,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211523,
+        "num": 169663,
+        "word": "倪萍为章子怡一代宗师感到惋惜",
+        "onboard_time": 1763283622,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 196620,
+        "num": 169645,
+        "word": "樊振东谈下一个目标",
+        "onboard_time": 1763282002,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 665324,
+        "num": 169470,
+        "word": "向佑在美国遭歧视向佐打断对方的手",
+        "onboard_time": 1763275461,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496592,
+        "num": 169376,
+        "word": "左航 恋爱",
+        "onboard_time": 1763271022,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460473,
+        "num": 169328,
+        "word": "卢昱晓收到老鼠干开心成这样",
+        "onboard_time": 1763276364,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 449899,
+        "num": 169191,
+        "word": "曝佘诗曼斥资3000万港元买豪宅",
+        "onboard_time": 1763281822,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392729,
+        "num": 169108,
+        "word": "沈羽洁发了范丞丞",
+        "onboard_time": 1763283082,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178049,
+        "num": 168962,
+        "word": "樊振东连胜世界排名前二",
+        "onboard_time": 1763281101,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168935,
+        "num": 168935,
+        "word": "樊振东全运会第6金",
+        "onboard_time": 1763275162,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121466,
+        "num": 159638,
+        "word": "公主小妹 短剧鼻祖",
+        "onboard_time": 1763268802,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230015,
+        "num": 158672,
+        "word": "医生建议每周素颜一天",
+        "onboard_time": 1763281822,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 182567,
+        "num": 158307,
+        "word": "这居然是47岁的颜丹晨",
+        "onboard_time": 1763285121,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154865,
+        "num": 154865,
+        "word": "佟丽娅 早知道我为你化个妆了",
+        "onboard_time": 1763283262,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149672,
+        "num": 149672,
+        "word": "王楚钦喊话马龙打好团体赛",
+        "onboard_time": 1763284882,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141821,
+        "num": 141821,
+        "word": "张伟丽道歉",
+        "onboard_time": 1763274263,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136247,
+        "num": 136247,
+        "word": "Bin双眼皮",
+        "onboard_time": 1763285781,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92418,
+        "num": 136216,
+        "word": "五月天广州官宣",
+        "onboard_time": 1763284222,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59763,
+        "num": 134838,
+        "word": "名创优品 过期零食",
+        "onboard_time": 1763284762,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 23561,
+        "num": 134054,
+        "word": "王星越车又坏了",
+        "onboard_time": 1763285301,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63262,
+        "num": 133177,
+        "word": "南京地铁回应安保人员因化妆被辞退",
+        "onboard_time": 1763284762,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133130,
+        "num": 133130,
+        "word": "印度女子遭6人轮奸拦警车求助",
+        "onboard_time": 1763257339,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129095,
+        "num": 129095,
+        "word": "樊振东说庆祝动作是自创的",
+        "onboard_time": 1763285541,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123244,
+        "num": 123244,
+        "word": "中方对日迎头痛击如何击有多痛",
+        "onboard_time": 1763284882,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121519,
+        "num": 121519,
+        "word": "樊振东谈全运会收获",
+        "onboard_time": 1763284941,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105302,
+        "num": 105302,
+        "word": "邪恶大鼠标",
+        "onboard_time": 1763283801,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111832,
+        "num": 105041,
+        "word": "上海队合影樊振东",
+        "onboard_time": 1763284582,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104286,
+        "num": 104286,
+        "word": "税务师实务",
+        "onboard_time": 1763285181,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 105443,
+        "num": 101989,
+        "word": "樊振东生涯第114冠",
+        "onboard_time": 1763285541,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95299,
+        "num": 95299,
+        "word": "袁励岑回应不敌王楚钦",
+        "onboard_time": 1763285842,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93904,
+        "num": 93904,
+        "word": "出师表翻译成日语再翻回来",
+        "onboard_time": 1763280202,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#办一项跨三地的赛事有多硬核#"
+    }
+  }
+}
