@@ -1,0 +1,410 @@
+{
+  "runTime": 1763299834454,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1443354,
+        "num": 1443354,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1763298261,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1083160,
+        "num": 1083160,
+        "word": "朱雨玲vs陈梦",
+        "onboard_time": 1763295801,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13091,
+        "num": 972352,
+        "word": "一场场比赛展示大湾区融合发展成果",
+        "onboard_time": 1763282902,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 910593,
+        "num": 910593,
+        "word": "张凌赫金靖去看刘宇宁演唱会",
+        "onboard_time": 1763298081,
+        "rank": 3,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 423871,
+        "num": 679781,
+        "word": "易烊千玺与他的金鸡奖杯",
+        "onboard_time": 1763297423,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 531630,
+        "num": 531630,
+        "word": "樊振东冠军",
+        "onboard_time": 1763274203,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 524923,
+        "num": 524923,
+        "word": "高市早苗早年叫板视频曝光",
+        "onboard_time": 1763294481,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 472125,
+        "num": 472125,
+        "word": "日本不需要煽动战争的首相",
+        "onboard_time": 1763297241,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 387198,
+        "num": 387198,
+        "word": "唐诡3纯坏但纯爱的一对",
+        "onboard_time": 1763292803,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 371563,
+        "num": 371563,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 358735,
+        "num": 358735,
+        "word": "徐嘉余打破全国纪录",
+        "onboard_time": 1763296279,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320546,
+        "num": 320546,
+        "word": "迪丽热巴给刘宇宁送花篮",
+        "onboard_time": 1763295801,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 306140,
+        "num": 306140,
+        "word": "日本针对中国公民违法犯罪多发",
+        "onboard_time": 1763286683,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297755,
+        "num": 297755,
+        "word": "卢凌风人设",
+        "onboard_time": 1763295922,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253660,
+        "num": 253660,
+        "word": "南京一公园被私人占有十年",
+        "onboard_time": 1763288481,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 229363,
+        "num": 229363,
+        "word": "韩国宣布中国排日本前面",
+        "onboard_time": 1763281403,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 228734,
+        "num": 228734,
+        "word": "华为Mate80",
+        "onboard_time": 1763292202,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 186817,
+        "num": 186817,
+        "word": "霍尊音乐节状态",
+        "onboard_time": 1763294002,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178132,
+        "num": 178132,
+        "word": "航拍南京一公园被私人占有数年现状",
+        "onboard_time": 1763296824,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51725,
+        "num": 177618,
+        "word": "刘雨昕Dior矜贵范",
+        "onboard_time": 1763296942,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 529297,
+        "num": 173752,
+        "word": "blue露脸",
+        "onboard_time": 1763293461,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 486553,
+        "num": 172804,
+        "word": "向佑在美国遭歧视向佐打断对方的手",
+        "onboard_time": 1763275461,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308663,
+        "num": 169455,
+        "word": "下下下个月今天就是除夕",
+        "onboard_time": 1763296641,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201655,
+        "num": 167835,
+        "word": "长期熬夜的人都去做4件事",
+        "onboard_time": 1763288841,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192597,
+        "num": 164151,
+        "word": "郑朋我需要心理医生",
+        "onboard_time": 1763289261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163038,
+        "num": 163038,
+        "word": "四喜",
+        "onboard_time": 1763298023,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152374,
+        "num": 162488,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1763294362,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148306,
+        "num": 160525,
+        "word": "季肖冰唐诡3唯一事业脑",
+        "onboard_time": 1763298922,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30126,
+        "num": 159128,
+        "word": "周翊然微博红毯生图",
+        "onboard_time": 1763296942,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169822,
+        "num": 158257,
+        "word": "成都大哥卖血旺",
+        "onboard_time": 1763295922,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181400,
+        "num": 156410,
+        "word": "Faker和oner为韩国考生送祝福",
+        "onboard_time": 1763298563,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 155078,
+        "num": 155078,
+        "word": "徐嘉余回应打破全国纪录",
+        "onboard_time": 1763299763,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153401,
+        "num": 153401,
+        "word": "樊振东夺冠登上新闻联播",
+        "onboard_time": 1763299163,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148861,
+        "num": 148861,
+        "word": "文旅部发布赴日旅游提示",
+        "onboard_time": 1763299763,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142524,
+        "num": 142524,
+        "word": "王俊凯蟹钳",
+        "onboard_time": 1763293941,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141401,
+        "num": 141401,
+        "word": "70岁奶奶磨20年豆腐后改行写作",
+        "onboard_time": 1763299282,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137087,
+        "num": 137087,
+        "word": "易烊千玺 拍立得的神",
+        "onboard_time": 1763299282,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50159,
+        "num": 136956,
+        "word": "外籍华人百万遗产无人继承",
+        "onboard_time": 1763299403,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125276,
+        "num": 136858,
+        "word": "那英魔丸造型",
+        "onboard_time": 1763299222,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96754,
+        "num": 136845,
+        "word": "华晨宇 没什么问题也是挺大的问题",
+        "onboard_time": 1763299642,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 136836,
+        "num": 136836,
+        "word": "张博恒状态",
+        "onboard_time": 1763296402,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134498,
+        "num": 134498,
+        "word": "林诗栋靠化缘走到了决赛",
+        "onboard_time": 1763290102,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128891,
+        "num": 128891,
+        "word": "侯明昊音乐节",
+        "onboard_time": 1763294362,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 129850,
+        "num": 128548,
+        "word": "舒淇曾否认冯德伦是丁克",
+        "onboard_time": 1763299582,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127685,
+        "num": 127685,
+        "word": "巴厘岛车祸幸存亲历者发声",
+        "onboard_time": 1763298202,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124958,
+        "num": 124958,
+        "word": "36岁巩立姣全运会铅球5连冠",
+        "onboard_time": 1763298563,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122617,
+        "num": 122617,
+        "word": "Bin双眼皮",
+        "onboard_time": 1763285781,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121251,
+        "num": 121251,
+        "word": "枭起青壤 此图暗藏玄机",
+        "onboard_time": 1763287881,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72237,
+        "num": 119061,
+        "word": "校方回应学生买演出服穿完集体退货",
+        "onboard_time": 1763298081,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117632,
+        "num": 117632,
+        "word": "展轩晒与许嵩合照",
+        "onboard_time": 1763293701,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#办一项跨三地的赛事有多硬核#"
+    }
+  }
+}
