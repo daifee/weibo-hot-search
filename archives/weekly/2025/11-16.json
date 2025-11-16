@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763267542169,
+  "endTime": 1763268416205,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1912168,
-      "num": 230460,
+      "num": 252125,
       "word": "哪吒没人来领奖",
       "onboard_time": 1763253560,
       "rank": 10,
@@ -35,8 +35,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1166462,
+      "num": 1166462,
+      "word": "释永信被批捕",
+      "onboard_time": 1763266221,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1157259,
-      "num": 210023,
+      "num": 272602,
       "word": "饺子导演太勇了",
       "onboard_time": 1763258361,
       "rank": 18,
@@ -49,14 +57,6 @@
       "onboard_time": 1763214149,
       "rank": 20,
       "category": "电影"
-    },
-    {
-      "raw_hot": 940892,
-      "num": 940892,
-      "word": "释永信被批捕",
-      "onboard_time": 1763266221,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 828655,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 789324,
-      "num": 227360,
+      "num": 241344,
       "word": "易烊千玺称谈恋爱看缘分",
       "onboard_time": 1763253261,
       "rank": 11,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 674331,
-      "num": 208666,
+      "num": 263841,
       "word": "86年39岁未婚未育女性的真实感受",
       "onboard_time": 1763260580,
       "rank": 11,
@@ -116,15 +116,23 @@
     },
     {
       "raw_hot": 666019,
-      "num": 207509,
+      "num": 265629,
       "word": "印度女子遭6人轮奸拦警车求助",
       "onboard_time": 1763257339,
       "rank": 20,
       "category": "海外新闻"
     },
     {
+      "raw_hot": 652461,
+      "num": 270381,
+      "word": "陈思诚 表情",
+      "onboard_time": 1763264961,
+      "rank": 36,
+      "category": "电影"
+    },
+    {
       "raw_hot": 628901,
-      "num": 199032,
+      "num": 267824,
       "word": "朱一龙上金鸡奖撕名牌来了",
       "onboard_time": 1763264721,
       "rank": 24,
@@ -139,20 +147,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 590697,
+      "num": 270005,
+      "word": "陈紫函拒绝回应做12次试管",
+      "onboard_time": 1763265981,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 570709,
       "num": 570709,
       "word": "青春痘疫苗来了",
       "onboard_time": 1763218888,
       "rank": 4,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 548957,
-      "num": 191876,
-      "word": "陈思诚 表情",
-      "onboard_time": 1763264961,
-      "rank": 36,
-      "category": "电影"
     },
     {
       "raw_hot": 543185,
@@ -188,7 +196,7 @@
     },
     {
       "raw_hot": 466139,
-      "num": 392022,
+      "num": 399380,
       "word": "TFBOYS发文恭喜刘春和",
       "onboard_time": 1763259741,
       "rank": 26,
@@ -204,7 +212,7 @@
     },
     {
       "raw_hot": 464116,
-      "num": 207335,
+      "num": 252013,
       "word": "舒淇自曝很想生小孩",
       "onboard_time": 1763263163,
       "rank": 22,
@@ -217,6 +225,14 @@
       "onboard_time": 1763251220,
       "rank": 12,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 419112,
+      "num": 419112,
+      "word": "舍甫琴科vs张伟丽",
+      "onboard_time": 1763265381,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 407544,
@@ -236,7 +252,7 @@
     },
     {
       "raw_hot": 398089,
-      "num": 208376,
+      "num": 213424,
       "word": "女子退手机壳白嫖千元羽绒服",
       "onboard_time": 1763261361,
       "rank": 14,
@@ -284,7 +300,7 @@
     },
     {
       "raw_hot": 358922,
-      "num": 186969,
+      "num": 262514,
       "word": "第一次看易烊千玺翻白眼",
       "onboard_time": 1763249958,
       "rank": 23,
@@ -315,32 +331,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 345673,
-      "num": 345673,
-      "word": "舍甫琴科vs张伟丽",
-      "onboard_time": 1763265381,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 334851,
-      "num": 216448,
+      "num": 251086,
       "word": "Uzi被曝加入iG",
       "onboard_time": 1763251160,
       "rank": 15,
       "category": "电竞"
     },
     {
-      "raw_hot": 315293,
-      "num": 190295,
-      "word": "陈紫函拒绝回应做12次试管",
-      "onboard_time": 1763265981,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307084,
-      "num": 227640,
+      "num": 278409,
       "word": "张艺谋 金鸡",
       "onboard_time": 1763253801,
       "rank": 16,
@@ -380,11 +380,19 @@
     },
     {
       "raw_hot": 267970,
-      "num": 207783,
+      "num": 219493,
       "word": "惊蛰无声 金鸡拼图",
       "onboard_time": 1763260759,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 261044,
+      "num": 261044,
+      "word": "辣椒炒肉太费米饭了",
+      "onboard_time": 1763266701,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 258043,
@@ -403,6 +411,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 256245,
+      "num": 256245,
+      "word": "陈思诚听到朵朵接班的反应",
+      "onboard_time": 1763267482,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 251126,
+      "num": 236782,
+      "word": "泰国男子被女友砍头反手拥抱拒报案",
+      "onboard_time": 1763265981,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 232016,
       "num": 232016,
       "word": "咏梅 陪跑",
@@ -417,6 +441,14 @@
       "onboard_time": 1763221284,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229362,
+      "num": 229362,
+      "word": "喝奶茶尽量选这4种",
+      "onboard_time": 1763263761,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 223912,
@@ -451,22 +483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213332,
-      "num": 188942,
-      "word": "泰国男子被女友砍头反手拥抱拒报案",
-      "onboard_time": 1763265981,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 210526,
-      "num": 183408,
-      "word": "喝奶茶尽量选这4种",
-      "onboard_time": 1763263761,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 209093,
       "num": 232222,
       "word": "中国海警舰艇在我钓鱼岛领海巡航",
@@ -475,16 +491,16 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 204991,
-      "num": 183127,
-      "word": "辣椒炒肉太费米饭了",
-      "onboard_time": 1763266701,
-      "rank": 31,
-      "category": "美食"
+      "raw_hot": 204561,
+      "num": 276208,
+      "word": "解放军轰炸机编队位南海例行巡航",
+      "onboard_time": 1763265921,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 203199,
-      "num": 203199,
+      "num": 227041,
       "word": "金鸡奖名单",
       "onboard_time": 1763253380,
       "rank": 22,
@@ -499,12 +515,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 192934,
-      "num": 192934,
-      "word": "解放军轰炸机编队位南海例行巡航",
-      "onboard_time": 1763265921,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 199490,
+      "num": 199490,
+      "word": "四川姑娘做出上万个褶的裙子",
+      "onboard_time": 1763268021,
+      "rank": 32,
+      "category": "休闲"
     },
     {
       "raw_hot": 192118,
@@ -580,7 +596,7 @@
     },
     {
       "raw_hot": 172650,
-      "num": 184077,
+      "num": 215350,
       "word": "王安宇金晨在旅综拍恋综",
       "onboard_time": 1763263939,
       "rank": 39,
@@ -593,6 +609,14 @@
       "onboard_time": 1763203222,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170134,
+      "num": 170134,
+      "word": "雷军连发多条微博辟谣",
+      "onboard_time": 1763267001,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 167950,
@@ -627,14 +651,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161254,
-      "num": 161254,
-      "word": "陈思诚听到朵朵接班的反应",
-      "onboard_time": 1763267482,
-      "rank": 34,
-      "category": "电影"
-    },
-    {
       "raw_hot": 159296,
       "num": 159296,
       "word": "朵朵是缩小版陈思诚",
@@ -649,6 +665,14 @@
       "onboard_time": 1763260040,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156430,
+      "num": 274043,
+      "word": "王楚钦vs袁励岑",
+      "onboard_time": 1763267422,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 155971,
@@ -763,12 +787,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136041,
+      "num": 224329,
+      "word": "何美延 被偷了飞衣的织女",
+      "onboard_time": 1763267001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 135867,
       "num": 135867,
       "word": "王宝强发文祝贺陈思诚戴墨",
       "onboard_time": 1763258480,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 134943,
+      "num": 134943,
+      "word": "公厕被打女生确诊白血最新发声",
+      "onboard_time": 1763262802,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -795,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 131134,
+      "num": 131134,
+      "word": "49元一杯中产酸奶翻车",
+      "onboard_time": 1763267961,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130730,
       "num": 130730,
       "word": "第一次这么直面感受到be",
@@ -817,14 +865,6 @@
       "onboard_time": 1763217688,
       "rank": 39,
       "category": "动漫,作品衍生"
-    },
-    {
-      "raw_hot": 129581,
-      "num": 129581,
-      "word": "公厕被打女生确诊白血最新发声",
-      "onboard_time": 1763262802,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 128985,
@@ -899,6 +939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119210,
+      "num": 119210,
+      "word": "檀健次爆炸头",
+      "onboard_time": 1763268141,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119179,
       "num": 119179,
       "word": "梁靖崑11比1林兆恒",
@@ -939,7 +987,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 111273,
+      "raw_hot": 115451,
       "num": 160516,
       "word": "UFC",
       "onboard_time": 1763258361,
@@ -1075,14 +1123,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88973,
-      "num": 157572,
-      "word": "何美延 被偷了飞衣的织女",
-      "onboard_time": 1763267001,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 88389,
       "num": 88389,
       "word": "杨舒予杨力维夺冠后与妈妈相拥而泣",
@@ -1129,14 +1169,6 @@
       "onboard_time": 1763223742,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78202,
-      "num": 159632,
-      "word": "王楚钦vs袁励岑",
-      "onboard_time": 1763267422,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 76894,
@@ -1299,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37505,
+      "num": 252351,
+      "word": "军事专家称中国综合实力碾压日本",
+      "onboard_time": 1763267961,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 37273,
       "num": 205280,
       "word": "高市早苗叫嚣只会把日本引向歧途",
@@ -1321,6 +1361,14 @@
       "onboard_time": 1763231715,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33944,
+      "num": 150468,
+      "word": "谢娜回应张杰金鸡奖闭幕式演唱",
+      "onboard_time": 1763267661,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 33449,
@@ -1353,6 +1401,14 @@
       "onboard_time": 1763228957,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 30429,
+      "num": 160783,
+      "word": "专家建议持续对日增强军事威慑",
+      "onboard_time": 1763267300,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 27644,
@@ -1417,14 +1473,6 @@
       "onboard_time": 1763234474,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19419,
-      "num": 160783,
-      "word": "专家建议持续对日增强军事威慑",
-      "onboard_time": 1763267300,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18307,
