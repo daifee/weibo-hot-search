@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 06:41:11
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 07:24:19
 </p>
 </blockquote>
 <p>
@@ -4839,6 +4839,12 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%23" target="weibo">
+高市早苗被喊话向中国道歉（热度：434592）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E7%BB%99%E6%AC%A7%E9%98%B3%E5%A6%AE%E5%A6%AE%E9%97%AA%E9%80%81%E4%BA%866%E4%B8%AA%E6%B2%99%E5%8F%91%23" target="weibo">
 欧阳娜娜给欧阳妮妮闪送了6个沙发（热度：433690）
 </a>
@@ -6005,12 +6011,6 @@ TVB演员众筹150万给妻子治病（热度：375657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%E5%8F%91%E8%A8%80%E6%88%91%E9%83%BD%E6%9C%89%E7%82%B9%E6%99%BA%E6%80%A7%E6%81%8B%E4%BA%86%23" target="weibo">
 李兰迪发言我都有点智性恋了（热度：366416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E5%8D%A1%E4%BE%AC%E5%9B%9E%E5%BA%94%E9%A1%BE%E5%AE%A2%E8%AF%AF%E8%AE%A4%E9%80%8F%E6%B0%94%E5%AD%94%E5%BC%84%E4%B8%A2%E6%89%8B%E6%9C%BA%23" target="weibo">
-迪卡侬回应顾客误认透气孔弄丢手机（热度：366385）
 </a>
 </li>
 

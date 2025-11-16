@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763332871245,
+  "endTime": 1763335459957,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -59,6 +59,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 434592,
+      "num": 357425,
+      "word": "高市早苗被喊话向中国道歉",
+      "onboard_time": 1763306246,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 404734,
       "num": 404734,
       "word": "日本不需要煽动战争的首相",
@@ -75,12 +83,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 269647,
-      "num": 357425,
-      "word": "高市早苗被喊话向中国道歉",
-      "onboard_time": 1763306246,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 280713,
+      "num": 118122,
+      "word": "孙颖莎16比14王曼昱",
+      "onboard_time": 1763317575,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 269340,
@@ -131,6 +139,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 184489,
+      "num": 403691,
+      "word": "央视曝光6666元包教包会养伤人蜂",
+      "onboard_time": 1763302342,
+      "rank": 8,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 179921,
       "num": 323955,
       "word": "那英上期查票这期改赛制",
@@ -155,12 +171,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 136348,
-      "num": 403691,
-      "word": "央视曝光6666元包教包会养伤人蜂",
-      "onboard_time": 1763302342,
-      "rank": 8,
-      "category": "舆论监督"
+      "raw_hot": 154834,
+      "num": 108017,
+      "word": "孙颖莎说王曼昱是最尊敬的对手",
+      "onboard_time": 1763312178,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 131226,
@@ -195,6 +211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124176,
+      "num": 108076,
+      "word": "王曼昱孙颖莎陈梦都拿了粉色大湾鸡",
+      "onboard_time": 1763312778,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121542,
       "num": 259788,
       "word": "陈梦铜牌",
@@ -209,14 +233,6 @@
       "onboard_time": 1763301684,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 118122,
-      "num": 118122,
-      "word": "孙颖莎16比14王曼昱",
-      "onboard_time": 1763317575,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 115860,
@@ -243,12 +259,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 109206,
-      "num": 108017,
-      "word": "孙颖莎说王曼昱是最尊敬的对手",
-      "onboard_time": 1763312178,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 110437,
+      "num": 249053,
+      "word": "舒淇曾否认冯德伦是丁克",
+      "onboard_time": 1763299582,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 108350,
@@ -347,20 +363,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83845,
-      "num": 108076,
-      "word": "王曼昱孙颖莎陈梦都拿了粉色大湾鸡",
-      "onboard_time": 1763312778,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83160,
       "num": 254205,
       "word": "让脸变好看的8个动作",
       "onboard_time": 1763306546,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 79910,
+      "num": 107909,
+      "word": "浙江公厕被打女孩说我真的想活下来",
+      "onboard_time": 1763312837,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78378,
@@ -443,14 +459,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 64522,
-      "num": 249053,
-      "word": "舒淇曾否认冯德伦是丁克",
-      "onboard_time": 1763299582,
-      "rank": 48,
-      "category": "电影"
-    },
-    {
       "raw_hot": 55209,
       "num": 250228,
       "word": "大黄鱼怎么哼唧哼唧的",
@@ -459,12 +467,12 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 42588,
-      "num": 107909,
-      "word": "浙江公厕被打女孩说我真的想活下来",
-      "onboard_time": 1763312837,
-      "rank": 40,
-      "category": "民生新闻"
+      "raw_hot": 54097,
+      "num": 74906,
+      "word": "陈思诚 不抛弃不放弃",
+      "onboard_time": 1763315416,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 39316,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 38633,
-      "num": 44084,
+      "num": 73126,
       "word": "孙颖莎10比12王曼昱",
       "onboard_time": 1763317095,
       "rank": 24,
@@ -499,8 +507,16 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 34657,
+      "num": 73973,
+      "word": "日本政客推卸涉台言论责任",
+      "onboard_time": 1763320334,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34266,
-      "num": 48724,
+      "num": 73017,
       "word": "孙颖莎8比11王曼昱",
       "onboard_time": 1763325614,
       "rank": 15,
@@ -515,12 +531,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 31219,
-      "num": 48831,
-      "word": "陈思诚 不抛弃不放弃",
-      "onboard_time": 1763315416,
+      "raw_hot": 33087,
+      "num": 73834,
+      "word": "蓝战非自曝立过遗嘱了",
+      "onboard_time": 1763322615,
       "rank": 28,
-      "category": "电影"
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 30971,
@@ -529,6 +545,14 @@
       "onboard_time": 1763313858,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 30926,
+      "num": 73714,
+      "word": "枭起青壤",
+      "onboard_time": 1763335158,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 30753,
@@ -571,8 +595,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25990,
-      "num": 48770,
+      "raw_hot": 27018,
+      "num": 73482,
       "word": "樊振东王楚钦握手都笑了",
       "onboard_time": 1763316794,
       "rank": 37,
@@ -587,16 +611,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 22399,
-      "num": 48750,
-      "word": "日本政客推卸涉台言论责任",
-      "onboard_time": 1763320334,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 22345,
-      "num": 48641,
+      "num": 73240,
       "word": "珍惜那个凡事不用猜的人",
       "onboard_time": 1763308822,
       "rank": 43,
@@ -619,12 +635,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 19431,
-      "num": 23500,
-      "word": "蓝战非自曝立过遗嘱了",
-      "onboard_time": 1763322615,
-      "rank": 28,
-      "category": "游戏,网红"
+      "raw_hot": 20258,
+      "num": 73214,
+      "word": "田曦薇天才女友路透",
+      "onboard_time": 1763335099,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 16989,
