@@ -1,0 +1,410 @@
+{
+  "runTime": 1763258683014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 598797,
+        "num": 1095807,
+        "word": "高市早苗让日本国家承担代价",
+        "onboard_time": 1763206825,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407544,
+        "num": 407544,
+        "word": "好东西三个女人三座金鸡奖杯",
+        "onboard_time": 1763252060,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22594,
+        "num": 307034,
+        "word": "十五运会赛场外步步生花",
+        "onboard_time": 1763213367,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 599824,
+        "num": 302928,
+        "word": "罗一舟提问易烊千玺这段",
+        "onboard_time": 1763257641,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 465006,
+        "num": 302540,
+        "word": "网红小英曾回应丈夫上拉如开奔驰",
+        "onboard_time": 1763253681,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298576,
+        "num": 298576,
+        "word": "流感H3N2毒株严重可致呼吸衰竭",
+        "onboard_time": 1763250439,
+        "rank": 5,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 343546,
+        "num": 275649,
+        "word": "袁弘 帝后",
+        "onboard_time": 1763216068,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 236885,
+        "num": 236885,
+        "word": "日本民众围堵首相官邸要求高市下台",
+        "onboard_time": 1763216131,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 156047,
+        "num": 235650,
+        "word": "台湾又被美敲诈至少3500亿美元",
+        "onboard_time": 1763256860,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154949,
+        "num": 232222,
+        "word": "中国海警舰艇在我钓鱼岛领海巡航",
+        "onboard_time": 1763256261,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1912168,
+        "num": 230460,
+        "word": "哪吒没人来领奖",
+        "onboard_time": 1763253560,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 789324,
+        "num": 227360,
+        "word": "易烊千玺称谈恋爱看缘分",
+        "onboard_time": 1763253261,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 454951,
+        "num": 223709,
+        "word": "难怪我的粉底液一直用不完",
+        "onboard_time": 1763251220,
+        "rank": 12,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 387278,
+        "num": 222282,
+        "word": "台湾网红街头大肆叫嚣上战场",
+        "onboard_time": 1763251580,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 371954,
+        "num": 220133,
+        "word": "宋佳 咏梅",
+        "onboard_time": 1763254099,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 326917,
+        "num": 216448,
+        "word": "Uzi被曝加入iG",
+        "onboard_time": 1763251160,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 307084,
+        "num": 214741,
+        "word": "张艺谋 金鸡",
+        "onboard_time": 1763253801,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 296144,
+        "num": 211882,
+        "word": "饺子导演",
+        "onboard_time": 1763220206,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210023,
+        "num": 210023,
+        "word": "饺子导演太勇了",
+        "onboard_time": 1763258361,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37273,
+        "num": 205280,
+        "word": "高市早苗叫嚣只会把日本引向歧途",
+        "onboard_time": 1763257520,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 613206,
+        "num": 204642,
+        "word": "印度女子遭6人轮奸拦警车求助",
+        "onboard_time": 1763257339,
+        "rank": 20,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268777,
+        "num": 204044,
+        "word": "带这4个词的奶茶尽量别点",
+        "onboard_time": 1763248817,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203199,
+        "num": 203199,
+        "word": "金鸡奖名单",
+        "onboard_time": 1763253380,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201127,
+        "num": 201127,
+        "word": "惠英红 我相信人定胜天",
+        "onboard_time": 1763252360,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191203,
+        "num": 191203,
+        "word": "霍思燕说朵朵早晚接陈思诚的班",
+        "onboard_time": 1763217149,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159296,
+        "num": 159296,
+        "word": "朵朵是缩小版陈思诚",
+        "onboard_time": 1763253140,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 152048,
+        "num": 152048,
+        "word": "宋佳奖运",
+        "onboard_time": 1763255120,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147586,
+        "num": 147586,
+        "word": "金鸡奖",
+        "onboard_time": 1763207482,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94157,
+        "num": 145804,
+        "word": "UFC",
+        "onboard_time": 1763258361,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89658,
+        "num": 144634,
+        "word": "湖人vs雄鹿",
+        "onboard_time": 1763257520,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144622,
+        "num": 144622,
+        "word": "七旬老人因悔牌将牌友打成重伤身亡",
+        "onboard_time": 1763253681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135867,
+        "num": 135867,
+        "word": "王宝强发文祝贺陈思诚戴墨",
+        "onboard_time": 1763258480,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132497,
+        "num": 132497,
+        "word": "陈梦回应半决赛不敌王曼昱",
+        "onboard_time": 1763256622,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130021,
+        "num": 130021,
+        "word": "美国似乎破防了",
+        "onboard_time": 1763249958,
+        "rank": 33,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 127036,
+        "num": 127036,
+        "word": "惠英红咏梅蒋勤勤 陪跑",
+        "onboard_time": 1763256021,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123047,
+        "num": 123047,
+        "word": "原子弹爆炸幸存者批高市早苗",
+        "onboard_time": 1763249779,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116779,
+        "num": 116779,
+        "word": "解放军报发文日本全国都可能沦为战场",
+        "onboard_time": 1763258601,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108583,
+        "num": 108583,
+        "word": "金鸡奖影帝影后都在拍惊蛰无声",
+        "onboard_time": 1763251821,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25392,
+        "num": 107269,
+        "word": "澳门警方通报女子酒店遇袭身亡案",
+        "onboard_time": 1763258660,
+        "rank": 38,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 21774,
+        "num": 107096,
+        "word": "蒋勤勤鼓掌都快哭了",
+        "onboard_time": 1763258422,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22258,
+        "num": 107020,
+        "word": "男子想做全球生意半年被骗160万",
+        "onboard_time": 1763257460,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107014,
+        "num": 107014,
+        "word": "杨紫工作室审美",
+        "onboard_time": 1763221284,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88253,
+        "num": 106755,
+        "word": "律师称小英丈夫或被判3至7年",
+        "onboard_time": 1763258480,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106535,
+        "num": 106535,
+        "word": "刘昊然说没准备获奖感言",
+        "onboard_time": 1763250019,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104089,
+        "num": 104089,
+        "word": "第一次当酸奶有点紧张",
+        "onboard_time": 1763257401,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100109,
+        "num": 100109,
+        "word": "日本抗议者要求高市赶快道歉",
+        "onboard_time": 1763258240,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 94149,
+        "num": 94149,
+        "word": "曝Zeka确定加入DNF",
+        "onboard_time": 1763258660,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87346,
+        "num": 91767,
+        "word": "今天乒乓球单打决赛日",
+        "onboard_time": 1763257282,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89941,
+        "num": 89941,
+        "word": "女子续费才知认养东北虎已死亡数月",
+        "onboard_time": 1763205322,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88389,
+        "num": 88389,
+        "word": "杨舒予杨力维夺冠后与妈妈相拥而泣",
+        "onboard_time": 1763257761,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#汉学源自中国属于世界#"
+    }
+  }
+}
