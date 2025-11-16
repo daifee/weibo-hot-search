@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763270740456,
+  "endTime": 1763271714978,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -265,6 +265,14 @@
       "onboard_time": 1762000102,
       "rank": 30,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 2015650,
+      "num": 2015650,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1763269522,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 2000373,
@@ -944,6 +952,14 @@
       "word": "张颂文聚餐救人获赠锦旗",
       "onboard_time": 1762844840,
       "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1187409,
+      "num": 211185,
+      "word": "左航 恋爱",
+      "onboard_time": 1763271022,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -2043,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 792746,
+      "num": 792746,
+      "word": "王楚钦vs袁励岑",
+      "onboard_time": 1763267422,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 791912,
       "num": 203138,
       "word": "彭小苒连发100个问号",
@@ -2297,14 +2321,6 @@
       "onboard_time": 1762649060,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 755052,
-      "num": 755052,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1763269522,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 754324,
@@ -4147,6 +4163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559361,
+      "num": 559361,
+      "word": "雷军连发多条微博辟谣",
+      "onboard_time": 1763267001,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 559041,
       "num": 1089446,
       "word": "缅北白家5人死刑",
@@ -4297,14 +4321,6 @@
       "onboard_time": 1763036840,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 550102,
-      "num": 550102,
-      "word": "王楚钦vs袁励岑",
-      "onboard_time": 1763267422,
-      "rank": 36,
-      "category": "体育"
     },
     {
       "raw_hot": 550014,
@@ -6371,14 +6387,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420550,
-      "num": 420550,
-      "word": "雷军连发多条微博辟谣",
-      "onboard_time": 1763267001,
-      "rank": 33,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 419301,
       "num": 1043219,
       "word": "塞尔维亚拆北约轰炸遗址建特朗普酒店",
@@ -6521,6 +6529,14 @@
       "onboard_time": 1763097020,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414045,
+      "num": 233096,
+      "word": "左航 猫图",
+      "onboard_time": 1763270301,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 413722,
@@ -7657,6 +7673,14 @@
       "onboard_time": 1762441282,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 366207,
+      "num": 366207,
+      "word": "张伟丽判定不敌舍甫琴科",
+      "onboard_time": 1763270241,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 365877,
@@ -11131,6 +11155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 263767,
+      "num": 263767,
+      "word": "公主小妹 短剧鼻祖",
+      "onboard_time": 1763268802,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 263674,
       "num": 172973,
       "word": "若若手机界面",
@@ -12387,14 +12419,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 233096,
-      "num": 233096,
-      "word": "左航 猫图",
-      "onboard_time": 1763270301,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232570,
       "num": 226650,
       "word": "华晨宇 0分一人一个",
@@ -13515,6 +13539,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214469,
+      "num": 208599,
+      "word": "樊振东主动陪林诗栋练球",
+      "onboard_time": 1763270361,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 214414,
       "num": 171304,
       "word": "气虚vs血虚vs气血两虚",
@@ -13625,6 +13657,14 @@
       "onboard_time": 1762065560,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 213629,
+      "num": 234489,
+      "word": "何美延 被偷了飞衣的织女",
+      "onboard_time": 1763267001,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 213514,
@@ -14433,6 +14473,14 @@
       "onboard_time": 1762010303,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 203872,
+      "num": 203872,
+      "word": "王一博五官很英俊还带点婴儿肥",
+      "onboard_time": 1763269042,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 203851,
@@ -15521,14 +15569,6 @@
       "onboard_time": 1763213667,
       "rank": 29,
       "category": "电影,数码"
-    },
-    {
-      "raw_hot": 194065,
-      "num": 235648,
-      "word": "公主小妹 短剧鼻祖",
-      "onboard_time": 1763268802,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 194012,
@@ -17163,14 +17203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181100,
-      "num": 234489,
-      "word": "何美延 被偷了飞衣的织女",
-      "onboard_time": 1763267001,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 180860,
       "num": 282026,
       "word": "你好星期六下期张凌赫",
@@ -17787,14 +17819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174459,
-      "num": 174459,
-      "word": "樊振东主动陪林诗栋练球",
-      "onboard_time": 1763270361,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 174405,
       "num": 174405,
       "word": "父亲称被害护士开始不知男友已婚已育",
@@ -18361,14 +18385,6 @@
       "onboard_time": 1762214240,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169510,
-      "num": 169510,
-      "word": "王一博五官很英俊还带点婴儿肥",
-      "onboard_time": 1763269042,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 169507,
@@ -19689,6 +19705,14 @@
       "onboard_time": 1763089760,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160782,
+      "num": 160782,
+      "word": "迪丽热巴新剧枭起青壤花絮",
+      "onboard_time": 1763271022,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 160668,
@@ -26515,6 +26539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126616,
+      "num": 126616,
+      "word": "黄景瑜你跟我说这是金晨",
+      "onboard_time": 1763271201,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126613,
       "num": 126613,
       "word": "布瑞吉vs布瑞吉",
@@ -28043,6 +28075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121537,
+      "num": 121537,
+      "word": "雷军说网上有不少人断章取义歪曲抹黑",
+      "onboard_time": 1763270721,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 121481,
       "num": 204057,
       "word": "肖战新剧紧张感拉满",
@@ -28176,6 +28216,14 @@
       "word": "水龙吟一部剧情拉满的饱和剧",
       "onboard_time": 1762261401,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 121125,
+      "num": 121125,
+      "word": "蒋依依从TF一代搭到三代",
+      "onboard_time": 1763271622,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -28608,6 +28656,14 @@
       "word": "林高远刘诗雯4比3袁励岑王艺迪",
       "onboard_time": 1763004860,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 119281,
+      "num": 141793,
+      "word": "领克七年九冠",
+      "onboard_time": 1763270902,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -29867,6 +29923,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 115423,
+      "num": 115423,
+      "word": "澳门酒店一女子身中30多刀死亡",
+      "onboard_time": 1763270782,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115386,
       "num": 115386,
       "word": "人上班后小猫在干什么",
@@ -30145,6 +30209,14 @@
       "onboard_time": 1762918520,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 114287,
+      "num": 114287,
+      "word": "张艺谋新片四个影帝一个影后",
+      "onboard_time": 1763271441,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 114246,
@@ -30995,14 +31067,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 111740,
-      "num": 111740,
-      "word": "雷军说网上有不少人断章取义歪曲抹黑",
-      "onboard_time": 1763270721,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 111733,
       "num": 111733,
       "word": "买保险10年后患恶性肿瘤遭拒赔",
@@ -31073,6 +31137,14 @@
       "onboard_time": 1762008263,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111519,
+      "num": 139956,
+      "word": "王楚钦4比1袁励岑",
+      "onboard_time": 1763271622,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 111517,
@@ -33153,14 +33225,6 @@
       "onboard_time": 1762319961,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 105265,
-      "num": 246827,
-      "word": "张伟丽判定不敌舍甫琴科",
-      "onboard_time": 1763270241,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 105228,
@@ -35393,6 +35457,14 @@
       "onboard_time": 1762824619,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99963,
+      "num": 137191,
+      "word": "谁惹张艺兴生气了",
+      "onboard_time": 1763270782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 99947,
@@ -54196,7 +54268,7 @@
     },
     {
       "raw_hot": 27220,
-      "num": 793773,
+      "num": 859519,
       "word": "十五运今日看点",
       "onboard_time": 1763264422,
       "rank": 2,
@@ -54329,6 +54401,14 @@
       "onboard_time": 1762228760,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26718,
+      "num": 134573,
+      "word": "邪恶谢霆花",
+      "onboard_time": 1763270841,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 26690,

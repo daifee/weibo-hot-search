@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763270740456,
+  "endTime": 1763271714978,
   "band_list": [
     {
       "raw_hot": 2467412,
@@ -9,6 +9,14 @@
       "onboard_time": 1763214210,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2015650,
+      "num": 2015650,
+      "word": "樊振东vs林诗栋",
+      "onboard_time": 1763269522,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1912168,
@@ -33,6 +41,14 @@
       "onboard_time": 1763258601,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1187409,
+      "num": 211185,
+      "word": "左航 恋爱",
+      "onboard_time": 1763271022,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1166462,
@@ -83,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 792746,
+      "num": 792746,
+      "word": "王楚钦vs袁励岑",
+      "onboard_time": 1763267422,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 789324,
       "num": 241344,
       "word": "易烊千玺称谈恋爱看缘分",
@@ -105,14 +129,6 @@
       "onboard_time": 1763214998,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 755052,
-      "num": 755052,
-      "word": "樊振东vs林诗栋",
-      "onboard_time": 1763269522,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 687202,
@@ -179,12 +195,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 550102,
-      "num": 550102,
-      "word": "王楚钦vs袁励岑",
-      "onboard_time": 1763267422,
-      "rank": 36,
-      "category": "体育"
+      "raw_hot": 559361,
+      "num": 559361,
+      "word": "雷军连发多条微博辟谣",
+      "onboard_time": 1763267001,
+      "rank": 33,
+      "category": "汽车"
     },
     {
       "raw_hot": 543185,
@@ -259,12 +275,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 420550,
-      "num": 420550,
-      "word": "雷军连发多条微博辟谣",
-      "onboard_time": 1763267001,
-      "rank": 33,
-      "category": "汽车"
+      "raw_hot": 414045,
+      "num": 233096,
+      "word": "左航 猫图",
+      "onboard_time": 1763270301,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 407544,
@@ -321,6 +337,14 @@
       "onboard_time": 1763203222,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 366207,
+      "num": 366207,
+      "word": "张伟丽判定不敌舍甫琴科",
+      "onboard_time": 1763270241,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 359179,
@@ -419,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 263767,
+      "num": 263767,
+      "word": "公主小妹 短剧鼻祖",
+      "onboard_time": 1763268802,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261044,
       "num": 261044,
       "word": "辣椒炒肉太费米饭了",
@@ -457,14 +489,6 @@
       "onboard_time": 1763265921,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 233096,
-      "num": 233096,
-      "word": "左航 猫图",
-      "onboard_time": 1763270301,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 232016,
@@ -515,6 +539,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 214469,
+      "num": 208599,
+      "word": "樊振东主动陪林诗栋练球",
+      "onboard_time": 1763270361,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213828,
       "num": 213828,
       "word": "王楚钦说男单输了情绪不高",
@@ -523,12 +555,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213629,
+      "num": 234489,
+      "word": "何美延 被偷了飞衣的织女",
+      "onboard_time": 1763267001,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 209093,
       "num": 232222,
       "word": "中国海警舰艇在我钓鱼岛领海巡航",
       "onboard_time": 1763256261,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 203872,
+      "num": 203872,
+      "word": "王一博五官很英俊还带点婴儿肥",
+      "onboard_time": 1763269042,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 203199,
@@ -561,14 +609,6 @@
       "onboard_time": 1763269822,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 194065,
-      "num": 235648,
-      "word": "公主小妹 短剧鼻祖",
-      "onboard_time": 1763268802,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 192118,
@@ -619,14 +659,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 181100,
-      "num": 234489,
-      "word": "何美延 被偷了飞衣的织女",
-      "onboard_time": 1763267001,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179747,
       "num": 179747,
       "word": "字是真的丑马是真的好",
@@ -651,14 +683,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 174459,
-      "num": 174459,
-      "word": "樊振东主动陪林诗栋练球",
-      "onboard_time": 1763270361,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 173163,
       "num": 173163,
       "word": "何美延曝梁淞曾和岳母大吵",
@@ -681,14 +705,6 @@
       "onboard_time": 1763203222,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 169510,
-      "num": 169510,
-      "word": "王一博五官很英俊还带点婴儿肥",
-      "onboard_time": 1763269042,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 167950,
@@ -721,6 +737,14 @@
       "onboard_time": 1763219605,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 160782,
+      "num": 160782,
+      "word": "迪丽热巴新剧枭起青壤花絮",
+      "onboard_time": 1763271022,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 159974,
@@ -987,6 +1011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126616,
+      "num": 126616,
+      "word": "黄景瑜你跟我说这是金晨",
+      "onboard_time": 1763271201,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126435,
       "num": 126435,
       "word": "熬夜和睡眠不足是两回事",
@@ -1001,6 +1033,22 @@
       "onboard_time": 1763249779,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 121537,
+      "num": 121537,
+      "word": "雷军说网上有不少人断章取义歪曲抹黑",
+      "onboard_time": 1763270721,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 121125,
+      "num": 121125,
+      "word": "蒋依依从TF一代搭到三代",
+      "onboard_time": 1763271622,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 121082,
@@ -1033,6 +1081,14 @@
       "onboard_time": 1763259260,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119281,
+      "num": 141793,
+      "word": "领克七年九冠",
+      "onboard_time": 1763270902,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 119210,
@@ -1091,12 +1147,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 111740,
-      "num": 111740,
-      "word": "雷军说网上有不少人断章取义歪曲抹黑",
-      "onboard_time": 1763270721,
-      "rank": 47,
-      "category": "互联网"
+      "raw_hot": 115423,
+      "num": 115423,
+      "word": "澳门酒店一女子身中30多刀死亡",
+      "onboard_time": 1763270782,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114287,
+      "num": 114287,
+      "word": "张艺谋新片四个影帝一个影后",
+      "onboard_time": 1763271441,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111519,
+      "num": 139956,
+      "word": "王楚钦4比1袁励岑",
+      "onboard_time": 1763271622,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 110577,
@@ -1139,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105265,
-      "num": 246827,
-      "word": "张伟丽判定不敌舍甫琴科",
-      "onboard_time": 1763270241,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 104089,
       "num": 104089,
       "word": "第一次当酸奶有点紧张",
@@ -1169,6 +1233,14 @@
       "onboard_time": 1763259860,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99963,
+      "num": 137191,
+      "word": "谁惹张艺兴生气了",
+      "onboard_time": 1763270782,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 98633,
@@ -1532,11 +1604,19 @@
     },
     {
       "raw_hot": 27220,
-      "num": 793773,
+      "num": 859519,
       "word": "十五运今日看点",
       "onboard_time": 1763264422,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26718,
+      "num": 134573,
+      "word": "邪恶谢霆花",
+      "onboard_time": 1763270841,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 25760,
