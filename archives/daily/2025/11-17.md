@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/17 00:30:21 ~ 2025/11/17 07:24:19
+本榜单时间：2025/11/17 00:30:21 ~ 2025/11/17 07:39:01
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%23" target="weibo">
+高市早苗被喊话向中国道歉（热度：488815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%20%E5%A4%8D%E5%87%BA%23" target="weibo">
 霍尊 复出（热度：473099）
 </a>
@@ -57,14 +63,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%23" target="weibo">
-高市早苗被喊话向中国道歉（热度：434592）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E7%85%BD%E5%8A%A8%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8%23" target="weibo">
-日本不需要煽动战争的首相（热度：404734）
+日本不需要煽动战争的首相（热度：439704）
 </a>
 </li>
 
@@ -118,7 +118,7 @@ Faker冠军皮肤想选冰鸟（热度：263720）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%896666%E5%85%83%E5%8C%85%E6%95%99%E5%8C%85%E4%BC%9A%E5%85%BB%E4%BC%A4%E4%BA%BA%E8%9C%82%23" target="weibo">
-央视曝光6666元包教包会养伤人蜂（热度：184489）
+央视曝光6666元包教包会养伤人蜂（热度：184993）
 </a>
 </li>
 
@@ -155,6 +155,12 @@ Faker冠军皮肤想选冰鸟（热度：263720）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A1%E8%90%84%E7%89%99%E6%99%8B%E7%BA%A72026%E4%B8%96%E7%95%8C%E6%9D%AF%23" target="weibo">
 葡萄牙晋级2026世界杯（热度：130331）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E6%9B%BE%E5%90%A6%E8%AE%A4%E5%86%AF%E5%BE%B7%E4%BC%A6%E6%98%AF%E4%B8%81%E5%85%8B%23" target="weibo">
+舒淇曾否认冯德伦是丁克（热度：130127）
 </a>
 </li>
 
@@ -207,14 +213,20 @@ Faker冠军皮肤想选冰鸟（热度：263720）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%88%92%E6%B7%87%E6%9B%BE%E5%90%A6%E8%AE%A4%E5%86%AF%E5%BE%B7%E4%BC%A6%E6%98%AF%E4%B8%81%E5%85%8B%23" target="weibo">
-舒淇曾否认冯德伦是丁克（热度：110437）
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%91%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%81%AD%E6%AD%A7%E8%A7%86%E5%90%91%E4%BD%90%E6%89%93%E6%96%AD%E5%AF%B9%E6%96%B9%E7%9A%84%E6%89%8B%23" target="weibo">
+向佑在美国遭歧视向佐打断对方的手（热度：108350）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E4%BD%91%E5%9C%A8%E7%BE%8E%E5%9B%BD%E9%81%AD%E6%AD%A7%E8%A7%86%E5%90%91%E4%BD%90%E6%89%93%E6%96%AD%E5%AF%B9%E6%96%B9%E7%9A%84%E6%89%8B%23" target="weibo">
-向佑在美国遭歧视向佐打断对方的手（热度：108350）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E6%96%B0%E6%AD%8CSAUCE%23" target="weibo">
+刘耀文新歌SAUCE（热度：107703）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%85%AC%E5%8E%95%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E8%AF%B4%E6%88%91%E7%9C%9F%E7%9A%84%E6%83%B3%E6%B4%BB%E4%B8%8B%E6%9D%A5%23" target="weibo">
+浙江公厕被打女孩说我真的想活下来（热度：106172）
 </a>
 </li>
 
@@ -291,12 +303,6 @@ blue露脸（热度：103279）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E5%85%AC%E5%8E%95%E8%A2%AB%E6%89%93%E5%A5%B3%E5%AD%A9%E8%AF%B4%E6%88%91%E7%9C%9F%E7%9A%84%E6%83%B3%E6%B4%BB%E4%B8%8B%E6%9D%A5%23" target="weibo">
-浙江公厕被打女孩说我真的想活下来（热度：79910）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%BA%AF%E5%9D%8F%E4%BD%86%E7%BA%AF%E7%88%B1%E7%9A%84%E4%B8%80%E5%AF%B9%23" target="weibo">
 唐诡3纯坏但纯爱的一对（热度：78378）
 </a>
@@ -317,6 +323,12 @@ blue露脸（热度：103279）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E8%AF%97%E6%A0%8B%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB%E5%85%A8%E8%BF%90%E4%BC%9A%23" target="weibo">
 林诗栋发文告别全运会（热度：73349）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
+枭起青壤（热度：72616）
 </a>
 </li>
 
@@ -345,6 +357,18 @@ T1转会期（热度：71928）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E8%AF%B4%E6%88%91%E4%BB%AC%E9%83%BD%E4%BC%9A%E7%A5%9D%E7%A6%8F%E5%86%A0%E5%86%9B%23" target="weibo">
+陈梦说我们都会祝福冠军（热度：68845）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E7%BA%B3%E5%8D%AB%E5%86%95%E6%80%BB%E5%86%B3%E8%B5%9B%E5%86%A0%E5%86%9B%23" target="weibo">
+辛纳卫冕总决赛冠军（热度：68808）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E8%AF%B4%E8%B5%9B%E5%9C%BA%E7%9A%84%E5%BF%AB%E4%B9%90%E6%97%A0%E5%85%B3%E8%BE%93%E8%B5%A2%23" target="weibo">
 陈梦说赛场的快乐无关输赢（热度：67609）
 </a>
@@ -353,6 +377,12 @@ T1转会期（热度：71928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E6%AC%BEiPad%E8%B7%AF%E7%BA%BF%E5%9B%BE%E6%9B%9D%E5%85%89%23" target="weibo">
 新款iPad路线图曝光（热度：66412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%8B%89%E5%A6%82%E6%88%96%E9%9D%A2%E4%B8%B4%E7%BB%88%E7%94%9F%E7%A6%81%E9%A9%BE%23" target="weibo">
+上拉如或面临终生禁驾（热度：63245）
 </a>
 </li>
 
@@ -369,6 +399,30 @@ T1转会期（热度：71928）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E9%AA%91%E8%BD%A6%E8%A2%AB%E6%9C%AA%E6%8B%B4%E7%BB%B3%E7%8B%97%E7%BB%8A%E5%80%92%E6%8A%BD%E6%90%90%23" target="weibo">
+女生骑车被未拴绳狗绊倒抽搐（热度：53563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88%E5%87%8F%E5%B0%91%E5%B0%8F%E7%8F%AD%E5%8C%96%E6%95%99%E5%AD%A6%E8%AF%A5%E6%8E%A8%E8%BF%9B%E4%BA%86%23" target="weibo">
+小学教师减少小班化教学该推进了（热度：52585）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E5%80%BC%E5%BE%97%E6%80%BB%E7%BB%93%E7%9A%84%E4%B8%80%E5%9C%BA%E7%90%83%23" target="weibo">
+王曼昱说值得总结的一场球（热度：41270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E8%A7%A3%E5%86%BB75%25%23" target="weibo">
+刘德华解冻75%（热度：39485）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%A8%E7%8E%B2%E9%99%88%E6%A2%A6%E4%BA%94%E5%B1%8A%E5%90%8C%E8%A1%8C%E9%9A%BE%E8%AF%B4%E5%86%8D%E8%A7%81%23" target="weibo">
 朱雨玲陈梦五届同行难说再见（热度：39316）
 </a>
@@ -377,6 +431,18 @@ T1转会期（热度：71928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E10%E6%AF%9412%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 孙颖莎10比12王曼昱（热度：38633）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E8%87%AA%E6%9B%9D%E7%AB%8B%E8%BF%87%E9%81%97%E5%98%B1%E4%BA%86%23" target="weibo">
+蓝战非自曝立过遗嘱了（热度：37458）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9A%84%E7%9F%9B%E5%A4%B4%E5%B0%B1%E6%98%AF%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%23" target="weibo">
+高市早苗的矛头就是对准中国（热度：36628）
 </a>
 </li>
 
@@ -411,20 +477,14 @@ T1转会期（热度：71928）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E8%87%AA%E6%9B%9D%E7%AB%8B%E8%BF%87%E9%81%97%E5%98%B1%E4%BA%86%23" target="weibo">
-蓝战非自曝立过遗嘱了（热度：33087）
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E8%B7%AF%E9%80%8F%23" target="weibo">
+田曦薇天才女友路透（热度：33042）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%97%B6%E9%9A%9415%E5%B9%B4%E7%9A%84%E7%BB%86%E8%8A%82%E5%88%80%23" target="weibo">
 王力宏时隔15年的细节刀（热度：30971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
-枭起青壤（热度：30926）
 </a>
 </li>
 
@@ -485,12 +545,6 @@ T1转会期（热度：71928）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E8%BF%99%E6%AC%A1%E7%9C%9F%E4%BA%B2%E9%BE%99%E8%99%BE%E4%BA%86%23" target="weibo">
 汪苏泷这次真亲龙虾了（热度：20748）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B0%E6%9B%A6%E8%96%87%E5%A4%A9%E6%89%8D%E5%A5%B3%E5%8F%8B%E8%B7%AF%E9%80%8F%23" target="weibo">
-田曦薇天才女友路透（热度：20258）
 </a>
 </li>
 

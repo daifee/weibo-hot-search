@@ -1,0 +1,410 @@
+{
+  "runTime": 1763336341620,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 623974,
+        "num": 924905,
+        "word": "王曼昱冠军",
+        "onboard_time": 1763306186,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 184993,
+        "num": 184993,
+        "word": "央视曝光6666元包教包会养伤人蜂",
+        "onboard_time": 1763302342,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 12342,
+        "num": 178607,
+        "word": "沉浸式感受十五运精彩瞬间",
+        "onboard_time": 1763303242,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 323659,
+        "num": 168181,
+        "word": "何炅这是我活该的",
+        "onboard_time": 1763308702,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243119,
+        "num": 163119,
+        "word": "刘宇宁演唱会内娱大佬团建",
+        "onboard_time": 1763304564,
+        "rank": 4,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 488815,
+        "num": 151364,
+        "word": "高市早苗被喊话向中国道歉",
+        "onboard_time": 1763306246,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 439704,
+        "num": 141816,
+        "word": "日本不需要煽动战争的首相",
+        "onboard_time": 1763297241,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224610,
+        "num": 130290,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1763298261,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125062,
+        "num": 125062,
+        "word": "日本针对中国公民违法犯罪多发",
+        "onboard_time": 1763286683,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115996,
+        "num": 115996,
+        "word": "孙颖莎亚军",
+        "onboard_time": 1763306186,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264517,
+        "num": 112368,
+        "word": "孙颖莎16比14王曼昱",
+        "onboard_time": 1763317575,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247328,
+        "num": 112037,
+        "word": "张怡宁 意大利记者",
+        "onboard_time": 1763306664,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131145,
+        "num": 111332,
+        "word": "孙颖莎说王曼昱是最尊敬的对手",
+        "onboard_time": 1763312178,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107703,
+        "num": 107703,
+        "word": "刘耀文新歌SAUCE",
+        "onboard_time": 1763335459,
+        "rank": 13,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 106172,
+        "num": 106172,
+        "word": "浙江公厕被打女孩说我真的想活下来",
+        "onboard_time": 1763312837,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95367,
+        "num": 95367,
+        "word": "王曼昱孙颖莎陈梦都拿了粉色大湾鸡",
+        "onboard_time": 1763312778,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92960,
+        "num": 92960,
+        "word": "王曼昱说希望和莎莎一起变得更好",
+        "onboard_time": 1763312477,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76405,
+        "num": 92897,
+        "word": "文淇 羡慕中女祝福中女",
+        "onboard_time": 1763304805,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 72616,
+        "num": 92670,
+        "word": "枭起青壤",
+        "onboard_time": 1763335158,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63339,
+        "num": 92572,
+        "word": "唐诡3纯坏但纯爱的一对",
+        "onboard_time": 1763292803,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 311718,
+        "num": 92436,
+        "word": "霍尊 复出",
+        "onboard_time": 1763300122,
+        "rank": 20,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 130127,
+        "num": 92193,
+        "word": "舒淇曾否认冯德伦是丁克",
+        "onboard_time": 1763299582,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96698,
+        "num": 92017,
+        "word": "曝张诗尧爆红后不回旧友信息",
+        "onboard_time": 1763303963,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 91914,
+        "num": 91914,
+        "word": "减肥对圆脸的面部影响有多大",
+        "onboard_time": 1763304264,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 89750,
+        "num": 89750,
+        "word": "Faker冠军皮肤想选冰鸟",
+        "onboard_time": 1763307682,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82850,
+        "num": 82850,
+        "word": "长期熬夜的人都去做4件事",
+        "onboard_time": 1763288841,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 78591,
+        "num": 78591,
+        "word": "乒乓球女单颁奖",
+        "onboard_time": 1763309001,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68845,
+        "num": 68845,
+        "word": "陈梦说我们都会祝福冠军",
+        "onboard_time": 1763335819,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 68808,
+        "num": 68808,
+        "word": "辛纳卫冕总决赛冠军",
+        "onboard_time": 1763335759,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63245,
+        "num": 63245,
+        "word": "上拉如或面临终生禁驾",
+        "onboard_time": 1763301082,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 62307,
+        "num": 62307,
+        "word": "樊振东冠军",
+        "onboard_time": 1763274203,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59837,
+        "num": 59837,
+        "word": "葡萄牙晋级2026世界杯",
+        "onboard_time": 1763311639,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59835,
+        "num": 59835,
+        "word": "向佑在美国遭歧视向佐打断对方的手",
+        "onboard_time": 1763275461,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53563,
+        "num": 59832,
+        "word": "女生骑车被未拴绳狗绊倒抽搐",
+        "onboard_time": 1763336239,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52865,
+        "num": 59819,
+        "word": "陈梦铜牌",
+        "onboard_time": 1763300543,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52585,
+        "num": 59807,
+        "word": "小学教师减少小班化教学该推进了",
+        "onboard_time": 1763302283,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 50892,
+        "num": 59790,
+        "word": "撒贝宁何炅老也能老到一块去",
+        "onboard_time": 1763307981,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48494,
+        "num": 59785,
+        "word": "张凌赫金靖去看刘宇宁演唱会",
+        "onboard_time": 1763298081,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 47721,
+        "num": 59773,
+        "word": "陈思诚 不抛弃不放弃",
+        "onboard_time": 1763315416,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45401,
+        "num": 59759,
+        "word": "让脸变好看的8个动作",
+        "onboard_time": 1763306546,
+        "rank": 39,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 41270,
+        "num": 59751,
+        "word": "王曼昱说值得总结的一场球",
+        "onboard_time": 1763335580,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38950,
+        "num": 59742,
+        "word": "侯明昊音乐节",
+        "onboard_time": 1763294362,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41110,
+        "num": 59727,
+        "word": "blue露脸",
+        "onboard_time": 1763293461,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40307,
+        "num": 59713,
+        "word": "朱松玮等4名队员停赛1个月",
+        "onboard_time": 1763309780,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39485,
+        "num": 59708,
+        "word": "刘德华解冻75%",
+        "onboard_time": 1763303063,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 37999,
+        "num": 59696,
+        "word": "孙颖莎王曼昱收视率打法",
+        "onboard_time": 1763307502,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37458,
+        "num": 59687,
+        "word": "蓝战非自曝立过遗嘱了",
+        "onboard_time": 1763322615,
+        "rank": 46,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 36628,
+        "num": 59678,
+        "word": "高市早苗的矛头就是对准中国",
+        "onboard_time": 1763336059,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33042,
+        "num": 59663,
+        "word": "田曦薇天才女友路透",
+        "onboard_time": 1763335099,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28326,
+        "num": 59652,
+        "word": "那英上期查票这期改赛制",
+        "onboard_time": 1763308822,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}

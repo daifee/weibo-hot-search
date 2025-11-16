@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 07:24:19
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 07:39:01
 </p>
 </blockquote>
 <p>
@@ -4083,6 +4083,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%23" target="weibo">
+高市早苗被喊话向中国道歉（热度：488815）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%9A%84%E7%8E%8B%E6%BA%90%23" target="weibo">
 25岁的王源（热度：488403）
 </a>
@@ -4835,12 +4841,6 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%8D%83%E4%B8%9E188%E7%94%B7%E5%9B%A2%E5%B0%86%E5%BD%B1%E8%A7%86%E5%8C%96%23" target="weibo">
 水千丞188男团将影视化（热度：435890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%23" target="weibo">
-高市早苗被喊话向中国道歉（热度：434592）
 </a>
 </li>
 

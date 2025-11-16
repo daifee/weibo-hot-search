@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763335459957,
+  "endTime": 1763336341620,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -5427,6 +5427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 488815,
+      "num": 357425,
+      "word": "高市早苗被喊话向中国道歉",
+      "onboard_time": 1763306246,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 488403,
       "num": 121792,
       "word": "25岁的王源",
@@ -6433,14 +6441,6 @@
       "onboard_time": 1762517841,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434592,
-      "num": 357425,
-      "word": "高市早苗被喊话向中国道歉",
-      "onboard_time": 1763306246,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 433690,
@@ -21916,7 +21916,7 @@
     },
     {
       "raw_hot": 154834,
-      "num": 108017,
+      "num": 111332,
       "word": "孙颖莎说王曼昱是最尊敬的对手",
       "onboard_time": 1763312178,
       "rank": 31,
@@ -34195,6 +34195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107703,
+      "num": 107703,
+      "word": "刘耀文新歌SAUCE",
+      "onboard_time": 1763335459,
+      "rank": 13,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107668,
       "num": 107668,
       "word": "华晨宇效应",
@@ -34785,6 +34793,14 @@
       "onboard_time": 1763222543,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106172,
+      "num": 107909,
+      "word": "浙江公厕被打女孩说我真的想活下来",
+      "onboard_time": 1763312837,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106158,
@@ -46107,14 +46123,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 79910,
-      "num": 107909,
-      "word": "浙江公厕被打女孩说我真的想活下来",
-      "onboard_time": 1763312837,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79909,
       "num": 77490,
       "word": "华为Mate80系列机型曝光",
@@ -49299,12 +49307,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68845,
+      "num": 68845,
+      "word": "陈梦说我们都会祝福冠军",
+      "onboard_time": 1763335819,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68842,
       "num": 68842,
       "word": "金价突涨水贝商家遭大量退单",
       "onboard_time": 1762299440,
       "rank": 33,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 68808,
+      "num": 68808,
+      "word": "辛纳卫冕总决赛冠军",
+      "onboard_time": 1763335759,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 68772,
@@ -50433,6 +50457,14 @@
       "onboard_time": 1763284762,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63245,
+      "num": 63245,
+      "word": "上拉如或面临终生禁驾",
+      "onboard_time": 1763301082,
+      "rank": 29,
+      "category": "网红"
     },
     {
       "raw_hot": 63121,
@@ -52120,6 +52152,14 @@
       "word": "网吧老板多次喝厕所坑水自证干净",
       "onboard_time": 1763038821,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53563,
+      "num": 59832,
+      "word": "女生骑车被未拴绳狗绊倒抽搐",
+      "onboard_time": 1763336239,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -54291,6 +54331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41270,
+      "num": 59751,
+      "word": "王曼昱说值得总结的一场球",
+      "onboard_time": 1763335580,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41249,
       "num": 42243,
       "word": "女子回应遭陌生男子搭讪并留下丝袜",
@@ -54931,6 +54979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37458,
+      "num": 73834,
+      "word": "蓝战非自曝立过遗嘱了",
+      "onboard_time": 1763322615,
+      "rank": 28,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 37416,
       "num": 90939,
       "word": "家长上来推搡别人孩子",
@@ -55049,6 +55105,14 @@
       "onboard_time": 1762102220,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36628,
+      "num": 59678,
+      "word": "高市早苗的矛头就是对准中国",
+      "onboard_time": 1763336059,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36596,
@@ -55707,14 +55771,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 33087,
-      "num": 73834,
-      "word": "蓝战非自曝立过遗嘱了",
-      "onboard_time": 1763322615,
-      "rank": 28,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 33082,
       "num": 166715,
       "word": "穿拖鞋捡食8岁女孩将准备上学",
@@ -55729,6 +55785,14 @@
       "onboard_time": 1762685480,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33042,
+      "num": 73214,
+      "word": "田曦薇天才女友路透",
+      "onboard_time": 1763335099,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 33030,
@@ -57817,14 +57881,6 @@
       "onboard_time": 1762843401,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20258,
-      "num": 73214,
-      "word": "田曦薇天才女友路透",
-      "onboard_time": 1763335099,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 20232,
