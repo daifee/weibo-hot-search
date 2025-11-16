@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/17 02:34:22
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/17 02:46:30
 </p>
 </blockquote>
 <p>
@@ -2409,6 +2409,12 @@ WTT祝贺樊振东夺冠（热度：107525）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E16%E6%AF%9414%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
+孙颖莎16比14王曼昱（热度：103037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E8%A2%AB%E5%96%B7%E5%88%B0%E5%9B%9B%E8%84%9A%E6%9C%9D%E5%A4%A9%E5%A4%AA%E8%90%8C%E4%BA%86%23" target="weibo">
 檀健次被喷到四脚朝天太萌了（热度：102790）
 </a>
@@ -2753,12 +2759,6 @@ WTT祝贺樊振东夺冠（热度：107525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E6%84%9F%E8%B0%A2%E5%A4%A7%E5%AE%B6%E5%AF%B9%E4%B9%92%E4%B9%93%E7%90%83%E7%9A%84%E5%85%B3%E6%B3%A8%23" target="weibo">
 孙颖莎感谢大家对乒乓球的关注（热度：62244）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E16%E6%AF%9414%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
-孙颖莎16比14王曼昱（热度：61676）
 </a>
 </li>
 
