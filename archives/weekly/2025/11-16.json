@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763289723625,
+  "endTime": 1763292051901,
   "band_list": [
     {
       "raw_hot": 8170972,
@@ -129,6 +129,14 @@
       "onboard_time": 1763287881,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 842015,
+      "num": 165736,
+      "word": "原来这就是排卵期啊",
+      "onboard_time": 1763289861,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 828655,
@@ -299,12 +307,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 502210,
+      "num": 239794,
+      "word": "林诗栋靠化缘走到了决赛",
+      "onboard_time": 1763290102,
+      "rank": 10,
+      "category": "体育"
+    },
+    {
       "raw_hot": 501363,
       "num": 311441,
       "word": "出走的决心 颗粒无收",
       "onboard_time": 1763220504,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 497033,
+      "num": 497033,
+      "word": "日本针对中国公民违法犯罪多发",
+      "onboard_time": 1763286683,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 495030,
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 455933,
-      "num": 152846,
+      "num": 162516,
       "word": "Bin双眼皮",
       "onboard_time": 1763285781,
       "rank": 35,
@@ -384,6 +408,14 @@
       "word": "曝佘诗曼斥资3000万港元买豪宅",
       "onboard_time": 1763281822,
       "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 435046,
+      "num": 164678,
+      "word": "郑朋我需要心理医生",
+      "onboard_time": 1763289261,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -412,7 +444,7 @@
     },
     {
       "raw_hot": 400039,
-      "num": 153244,
+      "num": 160879,
       "word": "方家翊自曝被某艺人偷衣服",
       "onboard_time": 1763286081,
       "rank": 23,
@@ -476,7 +508,7 @@
     },
     {
       "raw_hot": 379196,
-      "num": 193603,
+      "num": 220630,
       "word": "王楚钦喊话马龙打好团体赛",
       "onboard_time": 1763284882,
       "rank": 36,
@@ -497,6 +529,14 @@
       "onboard_time": 1763203222,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 371615,
+      "num": 228064,
+      "word": "南京一公园被私人占有十年",
+      "onboard_time": 1763288481,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 366207,
@@ -585,6 +625,14 @@
       "onboard_time": 1763251160,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 331326,
+      "num": 226272,
+      "word": "樊振东将重返德甲赛场",
+      "onboard_time": 1763289861,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 322331,
@@ -683,14 +731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 292177,
-      "num": 184667,
-      "word": "日本针对中国公民违法犯罪多发",
-      "onboard_time": 1763286683,
-      "rank": 14,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 291758,
       "num": 234433,
       "word": "赵子豪祝贺樊振东夺冠",
@@ -705,6 +745,14 @@
       "onboard_time": 1763272641,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289289,
+      "num": 162331,
+      "word": "长期熬夜的人都去做4件事",
+      "onboard_time": 1763288841,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 287527,
@@ -785,6 +833,14 @@
       "onboard_time": 1763281822,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 251657,
+      "num": 251657,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763289261,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 251126,
@@ -873,6 +929,14 @@
       "onboard_time": 1763274923,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 220872,
+      "num": 220872,
+      "word": "钟楚曦晒金鸡奖杯证书",
+      "onboard_time": 1763290161,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 215747,
@@ -1003,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196715,
+      "num": 159647,
+      "word": "原来大黄鱼会变色",
+      "onboard_time": 1763291361,
+      "rank": 28,
+      "category": "科学科普,美食"
+    },
+    {
       "raw_hot": 195303,
       "num": 195303,
       "word": "樊振东继马龙后实现卫冕",
@@ -1012,7 +1084,7 @@
     },
     {
       "raw_hot": 194587,
-      "num": 149353,
+      "num": 193950,
       "word": "樊振东4届全运会代表3个队",
       "onboard_time": 1763287581,
       "rank": 30,
@@ -1131,6 +1203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 179764,
+      "num": 157312,
+      "word": "胡歌生图也太生了",
+      "onboard_time": 1763291002,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 179747,
       "num": 179747,
       "word": "字是真的丑马是真的好",
@@ -1195,12 +1275,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 170953,
-      "num": 150799,
-      "word": "长期熬夜的人都去做4件事",
-      "onboard_time": 1763288841,
-      "rank": 27,
-      "category": "健康医疗"
+      "raw_hot": 172223,
+      "num": 172223,
+      "word": "易烊千玺回座位的姿势",
+      "onboard_time": 1763286321,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 170943,
@@ -1307,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156895,
+      "num": 156895,
+      "word": "颜安发言时吴希泽的表情",
+      "onboard_time": 1763291002,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156286,
       "num": 156286,
       "word": "49元一杯中产酸奶翻车",
@@ -1321,6 +1409,14 @@
       "onboard_time": 1763262620,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 155473,
+      "num": 155473,
+      "word": "偶遇鹿晗吃牛肉面",
+      "onboard_time": 1763289561,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 154090,
@@ -1369,14 +1465,6 @@
       "onboard_time": 1763273722,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 149942,
-      "num": 149942,
-      "word": "郑朋我需要心理医生",
-      "onboard_time": 1763289261,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 148240,
@@ -1507,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 141381,
+      "num": 141381,
+      "word": "刘宇宁演唱会",
+      "onboard_time": 1763290161,
+      "rank": 34,
+      "category": "演出"
+    },
+    {
       "raw_hot": 141262,
       "num": 141262,
       "word": "谁惹张艺兴生气了",
@@ -1585,6 +1681,22 @@
       "onboard_time": 1763216789,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133398,
+      "num": 133398,
+      "word": "凤凰台上差点就大结局了",
+      "onboard_time": 1763291361,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132975,
+      "num": 132975,
+      "word": "仙逆",
+      "onboard_time": 1763290402,
+      "rank": 40,
+      "category": "动漫"
     },
     {
       "raw_hot": 132497,
@@ -1851,20 +1963,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118453,
-      "num": 154509,
-      "word": "易烊千玺回座位的姿势",
-      "onboard_time": 1763286321,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118040,
       "num": 152315,
       "word": "德州网友吐槽超市几乎全是印度人",
       "onboard_time": 1763287941,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 118036,
+      "num": 118036,
+      "word": "张天爱的腰",
+      "onboard_time": 1763288901,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 117616,
@@ -1955,14 +2067,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113268,
-      "num": 113686,
-      "word": "南京一公园被私人占有十年",
-      "onboard_time": 1763288481,
-      "rank": 37,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 112093,
       "num": 112093,
       "word": "出师表翻译成日语再翻回来",
@@ -1977,14 +2081,6 @@
       "onboard_time": 1763271622,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 110667,
-      "num": 154387,
-      "word": "唐朝诡事录",
-      "onboard_time": 1763289261,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 110577,
@@ -2043,6 +2139,30 @@
       "category": "体育"
     },
     {
+      "raw_hot": 108179,
+      "num": 108179,
+      "word": "邓亚萍说孙颖莎王曼昱超一流选手",
+      "onboard_time": 1763291960,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107564,
+      "num": 107564,
+      "word": "刘国梁女儿首战全运会还带作业",
+      "onboard_time": 1763289741,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107525,
+      "num": 107525,
+      "word": "WTT祝贺樊振东夺冠",
+      "onboard_time": 1763290280,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106535,
       "num": 106535,
       "word": "刘昊然说没准备获奖感言",
@@ -2067,20 +2187,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106036,
+      "num": 106036,
+      "word": "气血不足到底有多累",
+      "onboard_time": 1763291361,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105545,
       "num": 105545,
       "word": "1分钟我要这只熊猫的全部信息",
       "onboard_time": 1763278403,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105526,
-      "num": 105526,
-      "word": "偶遇鹿晗吃牛肉面",
-      "onboard_time": 1763289561,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 105443,
@@ -2251,14 +2371,6 @@
       "category": "国际时政,军事"
     },
     {
-      "raw_hot": 93410,
-      "num": 113822,
-      "word": "张天爱的腰",
-      "onboard_time": 1763288901,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 93134,
       "num": 93134,
       "word": "国际金价深夜跳水",
@@ -2411,6 +2523,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 71932,
+      "num": 752202,
+      "word": "首次揭示黑洞在宇宙线起源中的作用",
+      "onboard_time": 1763290821,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71126,
       "num": 115810,
       "word": "张展硕当记者上瘾了",
@@ -2539,12 +2659,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 52444,
+      "num": 158033,
+      "word": "周翊然第一章白月光出国",
+      "onboard_time": 1763291482,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51631,
       "num": 51631,
       "word": "卢凌风戏里戏外都是太平公主的儿子",
       "onboard_time": 1763247617,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 49787,
+      "num": 108218,
+      "word": "12306回应乘客在火车内吸烟",
+      "onboard_time": 1763290580,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49469,
@@ -2563,6 +2699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48465,
+      "num": 133417,
+      "word": "美军花4.7万 购买造价15美元旋钮",
+      "onboard_time": 1763291302,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45595,
       "num": 45595,
       "word": "辛芷蕾金鸡奖红毯笑得好开心",
@@ -2577,6 +2721,14 @@
       "onboard_time": 1763242573,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 44608,
+      "num": 133482,
+      "word": "高校演出买40件衣服穿完集体退货",
+      "onboard_time": 1763291781,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43908,
