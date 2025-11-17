@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763375525076,
+  "endTime": 1763376461777,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1475,6 +1475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 1011990,
+      "num": 198538,
+      "word": "宁波妇幼",
+      "onboard_time": 1763373201,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 1010857,
       "num": 1151280,
       "word": "小巷人家剧组聊太嗨忘走红毯",
@@ -1633,6 +1641,14 @@
       "onboard_time": 1762778361,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 963886,
+      "num": 212640,
+      "word": "宋佳白玉兰 击败甄嬛传",
+      "onboard_time": 1763372241,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 959671,
@@ -1865,14 +1881,6 @@
       "onboard_time": 1762657519,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 891642,
-      "num": 212640,
-      "word": "宋佳白玉兰 击败甄嬛传",
-      "onboard_time": 1763372241,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 889369,
@@ -2657,14 +2665,6 @@
       "onboard_time": 1762822941,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 740491,
-      "num": 198538,
-      "word": "宁波妇幼",
-      "onboard_time": 1763373201,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 740040,
@@ -5209,6 +5209,14 @@
       "onboard_time": 1762699343,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 519757,
+      "num": 519757,
+      "word": "鬼灭之刃票房",
+      "onboard_time": 1763133982,
+      "rank": 27,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 518998,
@@ -8763,6 +8771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 358190,
+      "num": 197664,
+      "word": "迪丽热巴边吃零食边摸蛇",
+      "onboard_time": 1763373561,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358116,
       "num": 358116,
       "word": "AL",
@@ -9049,14 +9065,6 @@
       "onboard_time": 1762320622,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347776,
-      "num": 197664,
-      "word": "迪丽热巴边吃零食边摸蛇",
-      "onboard_time": 1763373561,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 347670,
@@ -11705,14 +11713,6 @@
       "onboard_time": 1762856900,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 278579,
-      "num": 278579,
-      "word": "鬼灭之刃票房",
-      "onboard_time": 1763133982,
-      "rank": 27,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 278539,
@@ -16707,6 +16707,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 197648,
+      "num": 197648,
+      "word": "影院回应网传鬼灭之刃下映",
+      "onboard_time": 1763375301,
+      "rank": 43,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 197593,
       "num": 210273,
       "word": "杨瀚森超远三分神奇命中",
@@ -19739,6 +19747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174896,
+      "num": 174896,
+      "word": "日本网民吵成一团",
+      "onboard_time": 1763372061,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174804,
       "num": 207187,
       "word": "武汉大学原校长刘道玉逝世",
@@ -19881,14 +19897,6 @@
       "onboard_time": 1762941023,
       "rank": 26,
       "category": "网红"
-    },
-    {
-      "raw_hot": 173474,
-      "num": 173474,
-      "word": "日本网民吵成一团",
-      "onboard_time": 1763372061,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173388,
@@ -22153,6 +22161,14 @@
       "onboard_time": 1762933159,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 159037,
+      "num": 181231,
+      "word": "中方对韩方表示赞赏和衷心感谢",
+      "onboard_time": 1763372903,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 159036,
@@ -25457,14 +25473,6 @@
       "onboard_time": 1763354482,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 142114,
-      "num": 142114,
-      "word": "中方对韩方表示赞赏和衷心感谢",
-      "onboard_time": 1763372903,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142096,
@@ -30187,6 +30195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124371,
+      "num": 185923,
+      "word": "医院回应5月龄女婴心脏手术离世",
+      "onboard_time": 1763376261,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124360,
       "num": 124360,
       "word": "K总自曝被粉丝装惨骗钱",
@@ -30265,14 +30281,6 @@
       "onboard_time": 1763186783,
       "rank": 22,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124024,
-      "num": 124024,
-      "word": "影院回应网传鬼灭之刃下映",
-      "onboard_time": 1763375301,
-      "rank": 43,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 124008,
@@ -30841,6 +30849,14 @@
       "onboard_time": 1762932200,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122450,
+      "num": 178938,
+      "word": "长城军工一字涨停",
+      "onboard_time": 1763375481,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 122408,
@@ -31491,6 +31507,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120237,
+      "num": 120237,
+      "word": "靠这个火把四川凉山赚了142亿",
+      "onboard_time": 1763376021,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120211,
       "num": 120211,
       "word": "灰原哀病弱坚韧美人感",
@@ -31625,14 +31649,6 @@
       "onboard_time": 1763122941,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 119551,
-      "num": 119551,
-      "word": "长城军工一字涨停",
-      "onboard_time": 1763375481,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 119538,
@@ -32460,7 +32476,7 @@
     },
     {
       "raw_hot": 117401,
-      "num": 196962,
+      "num": 197650,
       "word": "比亚迪成海外红毯常客",
       "onboard_time": 1763372601,
       "rank": 30,
@@ -33329,6 +33345,14 @@
       "onboard_time": 1762579639,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114711,
+      "num": 114711,
+      "word": "R1SE要合体了吗",
+      "onboard_time": 1763375782,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 114701,
@@ -35019,6 +35043,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 109782,
+      "num": 109782,
+      "word": "小洛熙妈妈",
+      "onboard_time": 1763376081,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109744,
       "num": 109744,
       "word": "LCK缩短赛程为了备战亚运会",
@@ -35305,6 +35337,14 @@
       "onboard_time": 1763169080,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108792,
+      "num": 108792,
+      "word": "日本外务省高官低头一言不发",
+      "onboard_time": 1763372841,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108784,
@@ -36705,6 +36745,14 @@
       "onboard_time": 1762319961,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105230,
+      "num": 105230,
+      "word": "从不请假的同事被120拉走了",
+      "onboard_time": 1763376081,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 105228,
@@ -42297,6 +42345,14 @@
       "onboard_time": 1762662379,
       "rank": 40,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 92789,
+      "num": 103559,
+      "word": "中方回应韩国向日本强烈抗议",
+      "onboard_time": 1763376081,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92782,
@@ -53323,6 +53379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58900,
+      "num": 695752,
+      "word": "C919和C909首次亮相中东",
+      "onboard_time": 1763375423,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58833,
       "num": 60030,
       "word": "AppStore抽成降至15%",
@@ -54177,6 +54241,14 @@
       "onboard_time": 1762503920,
       "rank": 39,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 53469,
+      "num": 120463,
+      "word": "JackeyLove对十年前说的话",
+      "onboard_time": 1763375841,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 53433,
@@ -57283,20 +57355,20 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 36238,
-      "num": 695752,
-      "word": "C919和C909首次亮相中东",
-      "onboard_time": 1763375423,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 36185,
       "num": 80966,
       "word": "郭焱说王艺迪扛起国乒的希望",
       "onboard_time": 1762168941,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36110,
+      "num": 129734,
+      "word": "高市早苗能撑多久",
+      "onboard_time": 1763374941,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 36055,
@@ -59241,14 +59313,6 @@
       "onboard_time": 1762256301,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 25987,
-      "num": 129734,
-      "word": "高市早苗能撑多久",
-      "onboard_time": 1763374941,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 25968,
@@ -61416,6 +61480,14 @@
       "word": "一段视频跟航天员出征",
       "onboard_time": 1762054100,
       "rank": 8,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 8974,
+      "num": 184178,
+      "word": "中方反制日本还有很多牌可打",
+      "onboard_time": 1763376261,
+      "rank": 25,
       "category": "国内时政"
     },
     {

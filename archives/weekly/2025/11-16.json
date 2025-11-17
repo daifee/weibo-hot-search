@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763375525076,
+  "endTime": 1763376461777,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -203,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1011990,
+      "num": 198538,
+      "word": "宁波妇幼",
+      "onboard_time": 1763373201,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 981221,
       "num": 447674,
       "word": "学习通崩了",
@@ -233,6 +241,14 @@
       "onboard_time": 1763345959,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 963886,
+      "num": 212640,
+      "word": "宋佳白玉兰 击败甄嬛传",
+      "onboard_time": 1763372241,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 955169,
@@ -281,14 +297,6 @@
       "onboard_time": 1763287881,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 891642,
-      "num": 212640,
-      "word": "宋佳白玉兰 击败甄嬛传",
-      "onboard_time": 1763372241,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 877865,
@@ -401,14 +409,6 @@
       "onboard_time": 1763342541,
       "rank": 3,
       "category": "数码"
-    },
-    {
-      "raw_hot": 740491,
-      "num": 198538,
-      "word": "宁波妇幼",
-      "onboard_time": 1763373201,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 705697,
@@ -713,6 +713,14 @@
       "onboard_time": 1763286683,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 519757,
+      "num": 519757,
+      "word": "鬼灭之刃票房",
+      "onboard_time": 1763374581,
+      "rank": 7,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 513103,
@@ -1219,6 +1227,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 358190,
+      "num": 197664,
+      "word": "迪丽热巴边吃零食边摸蛇",
+      "onboard_time": 1763373561,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 354574,
       "num": 354574,
       "word": "华为Mate80",
@@ -1257,14 +1273,6 @@
       "onboard_time": 1763207422,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 347776,
-      "num": 197664,
-      "word": "迪丽热巴边吃零食边摸蛇",
-      "onboard_time": 1763373561,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 346845,
@@ -1569,14 +1577,6 @@
       "onboard_time": 1763317575,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278579,
-      "num": 278579,
-      "word": "鬼灭之刃票房",
-      "onboard_time": 1763374581,
-      "rank": 7,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 276532,
@@ -2227,6 +2227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197648,
+      "num": 197648,
+      "word": "影院回应网传鬼灭之刃下映",
+      "onboard_time": 1763375301,
+      "rank": 43,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 197529,
       "num": 197454,
       "word": "南宁一男子在地铁当众做不雅动作",
@@ -2691,20 +2699,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174896,
+      "num": 174896,
+      "word": "日本网民吵成一团",
+      "onboard_time": 1763372061,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 174292,
       "num": 155193,
       "word": "王楚钦回应三届止步半决赛",
       "onboard_time": 1763343623,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 173474,
-      "num": 173474,
-      "word": "日本网民吵成一团",
-      "onboard_time": 1763372061,
-      "rank": 35,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 173388,
@@ -3009,6 +3017,14 @@
       "onboard_time": 1763275402,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159037,
+      "num": 181231,
+      "word": "中方对韩方表示赞赏和衷心感谢",
+      "onboard_time": 1763372903,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 158968,
@@ -3521,14 +3537,6 @@
       "onboard_time": 1763354482,
       "rank": 46,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 142114,
-      "num": 142114,
-      "word": "中方对韩方表示赞赏和衷心感谢",
-      "onboard_time": 1763372903,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 141965,
@@ -4051,6 +4059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124371,
+      "num": 185923,
+      "word": "医院回应5月龄女婴心脏手术离世",
+      "onboard_time": 1763376261,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124192,
       "num": 124192,
       "word": "上海队合影樊振东",
@@ -4065,14 +4081,6 @@
       "onboard_time": 1763312778,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 124024,
-      "num": 124024,
-      "word": "影院回应网传鬼灭之刃下映",
-      "onboard_time": 1763375301,
-      "rank": 43,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 124008,
@@ -4121,6 +4129,14 @@
       "onboard_time": 1763361501,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122450,
+      "num": 178938,
+      "word": "长城军工一字涨停",
+      "onboard_time": 1763375481,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 121958,
@@ -4211,6 +4227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120237,
+      "num": 120237,
+      "word": "靠这个火把四川凉山赚了142亿",
+      "onboard_time": 1763376021,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120095,
       "num": 120095,
       "word": "樊振东指导上线",
@@ -4241,14 +4265,6 @@
       "onboard_time": 1763292380,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119551,
-      "num": 119551,
-      "word": "长城军工一字涨停",
-      "onboard_time": 1763375481,
-      "rank": 45,
-      "category": "财经"
     },
     {
       "raw_hot": 119412,
@@ -4356,7 +4372,7 @@
     },
     {
       "raw_hot": 117401,
-      "num": 196962,
+      "num": 197650,
       "word": "比亚迪成海外红毯常客",
       "onboard_time": 1763372601,
       "rank": 30,
@@ -4473,6 +4489,14 @@
       "onboard_time": 1763359821,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114711,
+      "num": 114711,
+      "word": "R1SE要合体了吗",
+      "onboard_time": 1763375782,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 114453,
@@ -4635,12 +4659,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109782,
+      "num": 109782,
+      "word": "小洛熙妈妈",
+      "onboard_time": 1763376081,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109213,
       "num": 109213,
       "word": "何冰娇0比2陈雨菲",
       "onboard_time": 1763288121,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108792,
+      "num": 108792,
+      "word": "日本外务省高官低头一言不发",
+      "onboard_time": 1763372841,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108741,
@@ -4793,6 +4833,14 @@
       "onboard_time": 1763283801,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105230,
+      "num": 105230,
+      "word": "从不请假的同事被120拉走了",
+      "onboard_time": 1763376081,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 105201,
@@ -5081,6 +5129,14 @@
       "onboard_time": 1763220745,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92789,
+      "num": 103559,
+      "word": "中方回应韩国向日本强烈抗议",
+      "onboard_time": 1763376081,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91865,
@@ -5779,6 +5835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58900,
+      "num": 695752,
+      "word": "C919和C909首次亮相中东",
+      "onboard_time": 1763375423,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 56308,
       "num": 56308,
       "word": "非洲发生大屠杀上千名平民遇害",
@@ -5833,6 +5897,14 @@
       "onboard_time": 1763336239,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53469,
+      "num": 120463,
+      "word": "JackeyLove对十年前说的话",
+      "onboard_time": 1763375841,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 53324,
@@ -6195,12 +6267,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 36238,
-      "num": 695752,
-      "word": "C919和C909首次亮相中东",
-      "onboard_time": 1763375423,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 36110,
+      "num": 129734,
+      "word": "高市早苗能撑多久",
+      "onboard_time": 1763374941,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35974,
@@ -6483,14 +6555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25987,
-      "num": 129734,
-      "word": "高市早苗能撑多久",
-      "onboard_time": 1763374941,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 25905,
       "num": 105621,
       "word": "那英现场改规则",
@@ -6729,6 +6793,14 @@
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8974,
+      "num": 184178,
+      "word": "中方反制日本还有很多牌可打",
+      "onboard_time": 1763376261,
+      "rank": 25,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

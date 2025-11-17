@@ -1,0 +1,410 @@
+{
+  "runTime": 1763376461777,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1230635,
+        "num": 1230635,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58900,
+        "num": 594098,
+        "word": "C919和C909首次亮相中东",
+        "onboard_time": 1763375423,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 46727,
+        "num": 553023,
+        "word": "美被曝伪造证据黑吃黑窃取巨额比特币",
+        "onboard_time": 1763364202,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519757,
+        "num": 519757,
+        "word": "鬼灭之刃票房",
+        "onboard_time": 1763374581,
+        "rank": 3,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 352418,
+        "num": 352418,
+        "word": "FPX退出LPL",
+        "onboard_time": 1763363901,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 289087,
+        "num": 289087,
+        "word": "疯狂动物城2",
+        "onboard_time": 1763367561,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286817,
+        "num": 286817,
+        "word": "部分日本电影撤档",
+        "onboard_time": 1763367381,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279485,
+        "num": 279485,
+        "word": "河南鹅毛大雪",
+        "onboard_time": 1763367801,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226459,
+        "num": 226459,
+        "word": "外交部再回应高市早苗涉台言论",
+        "onboard_time": 1763366181,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197905,
+        "num": 197905,
+        "word": "我国死亡率最高的恶性肿瘤",
+        "onboard_time": 1763358681,
+        "rank": 9,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 963886,
+        "num": 197801,
+        "word": "宋佳白玉兰 击败甄嬛传",
+        "onboard_time": 1763372241,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468704,
+        "num": 197785,
+        "word": "日本电影",
+        "onboard_time": 1763370021,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34435,
+        "num": 197650,
+        "word": "比亚迪成海外红毯常客",
+        "onboard_time": 1763372601,
+        "rank": 12,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 197648,
+        "num": 197648,
+        "word": "影院回应网传鬼灭之刃下映",
+        "onboard_time": 1763375301,
+        "rank": 13,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 358190,
+        "num": 196934,
+        "word": "迪丽热巴边吃零食边摸蛇",
+        "onboard_time": 1763373561,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 274861,
+        "num": 195704,
+        "word": "孙颖莎忘记还有团体赛要打",
+        "onboard_time": 1763369902,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215835,
+        "num": 194474,
+        "word": "原来身份证里的芯片长这样",
+        "onboard_time": 1763366062,
+        "rank": 16,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 207492,
+        "num": 193415,
+        "word": "宋佳 章子怡",
+        "onboard_time": 1763368521,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 192347,
+        "num": 192347,
+        "word": "张维伊叫小酒窝窝子的原因",
+        "onboard_time": 1763364681,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141371,
+        "num": 191305,
+        "word": "A股反制日本概念大涨",
+        "onboard_time": 1763370021,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 5146,
+        "num": 190883,
+        "word": "有必要带长辈打带状疱疹疫苗吗",
+        "onboard_time": 1763371942,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 38406,
+        "num": 188834,
+        "word": "希尔顿带四个保镖扫货",
+        "onboard_time": 1763372241,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1011990,
+        "num": 188612,
+        "word": "宁波妇幼",
+        "onboard_time": 1763373201,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 813931,
+        "num": 186363,
+        "word": "小海绵身高到baby肩膀了",
+        "onboard_time": 1763371282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124371,
+        "num": 185923,
+        "word": "医院回应5月龄女婴心脏手术离世",
+        "onboard_time": 1763376261,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8974,
+        "num": 184178,
+        "word": "中方反制日本还有很多牌可打",
+        "onboard_time": 1763376261,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 759268,
+        "num": 183300,
+        "word": "女婴心脏手术去世涉事医生已停诊",
+        "onboard_time": 1763370143,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160157,
+        "num": 181926,
+        "word": "卢凌风 没有接路人的义务",
+        "onboard_time": 1763372661,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159037,
+        "num": 181231,
+        "word": "中方对韩方表示赞赏和衷心感谢",
+        "onboard_time": 1763372903,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122450,
+        "num": 178938,
+        "word": "长城军工一字涨停",
+        "onboard_time": 1763375481,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248183,
+        "num": 178906,
+        "word": "霍启仁在玉龙雪山举办婚礼",
+        "onboard_time": 1763368162,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229954,
+        "num": 176517,
+        "word": "何洁前夫回应离婚",
+        "onboard_time": 1763362880,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199241,
+        "num": 176104,
+        "word": "宋茜瘦到穿24码的裤子",
+        "onboard_time": 1763372241,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 175248,
+        "num": 175248,
+        "word": "5月龄早产女婴心脏手术期间离世",
+        "onboard_time": 1763366721,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174896,
+        "num": 174896,
+        "word": "日本网民吵成一团",
+        "onboard_time": 1763372061,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 160972,
+        "num": 160972,
+        "word": "日媒叫嚣击沉福建舰",
+        "onboard_time": 1763359761,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136625,
+        "num": 136625,
+        "word": "曾轶可",
+        "onboard_time": 1763352801,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130505,
+        "num": 130505,
+        "word": "肖战新加坡活动入场原高清视频",
+        "onboard_time": 1763374702,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100219,
+        "num": 120885,
+        "word": "东部战区发布若一去不回",
+        "onboard_time": 1763369362,
+        "rank": 38,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 53469,
+        "num": 120463,
+        "word": "JackeyLove对十年前说的话",
+        "onboard_time": 1763375841,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120237,
+        "num": 120237,
+        "word": "靠这个火把四川凉山赚了142亿",
+        "onboard_time": 1763376021,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114711,
+        "num": 114711,
+        "word": "R1SE要合体了吗",
+        "onboard_time": 1763375782,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109782,
+        "num": 109782,
+        "word": "小洛熙妈妈",
+        "onboard_time": 1763376081,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108792,
+        "num": 108792,
+        "word": "日本外务省高官低头一言不发",
+        "onboard_time": 1763372841,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 108387,
+        "num": 108387,
+        "word": "蜡笔小新撤档",
+        "onboard_time": 1763367142,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107199,
+        "num": 107199,
+        "word": "RNG",
+        "onboard_time": 1763367680,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36110,
+        "num": 105837,
+        "word": "高市早苗能撑多久",
+        "onboard_time": 1763374941,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105230,
+        "num": 105230,
+        "word": "从不请假的同事被120拉走了",
+        "onboard_time": 1763376081,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92789,
+        "num": 103559,
+        "word": "中方回应韩国向日本强烈抗议",
+        "onboard_time": 1763376081,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103452,
+        "num": 103452,
+        "word": "邵艺辉能不能找惠英红咏梅张子枫拍",
+        "onboard_time": 1763371942,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#传统产业改造升级也能发展新质生产力#"
+    }
+  }
+}
