@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763368675591,
+  "endTime": 1763369490566,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1121246,
-      "num": 244177,
+      "num": 279271,
       "word": "何洁前夫回应离婚",
       "onboard_time": 1763362880,
       "rank": 20,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 801928,
-      "num": 270194,
+      "num": 311061,
       "word": "原来身份证里的芯片长这样",
       "onboard_time": 1763366062,
       "rank": 10,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 615557,
-      "num": 264522,
+      "num": 291642,
       "word": "谁家cp刚圆房就be啊",
       "onboard_time": 1763362640,
       "rank": 11,
@@ -201,6 +201,14 @@
       "onboard_time": 1763361501,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 583980,
+      "num": 583980,
+      "word": "蜡笔小新撤档",
+      "onboard_time": 1763367142,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 582952,
@@ -251,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 527235,
+      "num": 279287,
+      "word": "沈佳润是不是偷吃零食了",
+      "onboard_time": 1763366782,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 499605,
       "num": 238601,
       "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
@@ -265,6 +281,14 @@
       "onboard_time": 1763350942,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 492609,
+      "num": 361261,
+      "word": "部分日本电影撤档",
+      "onboard_time": 1763367381,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 488815,
@@ -347,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450386,
+      "num": 304232,
+      "word": "5月龄早产女婴心脏手术期间离世",
+      "onboard_time": 1763366721,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 450267,
       "num": 450267,
       "word": "驻日美军基地出现大量毒蜘蛛",
@@ -368,6 +400,14 @@
       "word": "沈腾你也在嗑吧",
       "onboard_time": 1763352322,
       "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 425073,
+      "num": 300440,
+      "word": "董璇回应投资墨雨云间",
+      "onboard_time": 1763367202,
+      "rank": 13,
       "category": "综艺"
     },
     {
@@ -395,12 +435,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 397582,
-      "num": 266104,
-      "word": "5月龄早产女婴心脏手术期间离世",
-      "onboard_time": 1763366721,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 399017,
+      "num": 279223,
+      "word": "霍启仁在玉龙雪山举办婚礼",
+      "onboard_time": 1763368162,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 395878,
@@ -427,14 +467,6 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 383221,
-      "num": 383221,
-      "word": "蜡笔小新撤档",
-      "onboard_time": 1763367142,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 382962,
       "num": 450430,
       "word": "天才女友官宣杀青",
@@ -443,8 +475,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 367759,
-      "num": 367759,
+      "raw_hot": 368674,
+      "num": 368674,
       "word": "外交部再回应高市早苗涉台言论",
       "onboard_time": 1763366181,
       "rank": 5,
@@ -452,7 +484,7 @@
     },
     {
       "raw_hot": 364314,
-      "num": 322742,
+      "num": 353595,
       "word": "我国死亡率最高的恶性肿瘤",
       "onboard_time": 1763358681,
       "rank": 23,
@@ -483,22 +515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341522,
-      "num": 261560,
-      "word": "董璇回应投资墨雨云间",
-      "onboard_time": 1763367202,
-      "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 334588,
-      "num": 243862,
-      "word": "沈佳润是不是偷吃零食了",
-      "onboard_time": 1763366782,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 334399,
       "num": 334399,
       "word": "胡一天杀回现偶的含金量",
@@ -515,12 +531,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326881,
+      "num": 296508,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763367561,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 320030,
       "num": 185787,
       "word": "曾轶可演唱会 迟到打碟一小时",
       "onboard_time": 1763363239,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315280,
+      "num": 315280,
+      "word": "河南鹅毛大雪",
+      "onboard_time": 1763367801,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 310034,
@@ -537,14 +569,6 @@
       "onboard_time": 1763346560,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 304915,
-      "num": 258376,
-      "word": "部分日本电影撤档",
-      "onboard_time": 1763367381,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 300697,
@@ -577,6 +601,14 @@
       "onboard_time": 1763317575,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 279351,
+      "num": 279351,
+      "word": "宋佳 章子怡",
+      "onboard_time": 1763368521,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 276532,
@@ -707,14 +739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225202,
-      "num": 225202,
-      "word": "霍启仁在玉龙雪山举办婚礼",
-      "onboard_time": 1763368162,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 223921,
       "num": 223921,
       "word": "日本拥有核弹头负2枚",
@@ -745,6 +769,14 @@
       "onboard_time": 1763349201,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213666,
+      "num": 213666,
+      "word": "女婴疑在宁波妇幼做微创手术去世",
+      "onboard_time": 1763369302,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208882,
@@ -795,14 +827,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 196657,
-      "num": 196657,
-      "word": "疯狂动物城2",
-      "onboard_time": 1763367561,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 195946,
       "num": 493240,
       "word": "文淇 羡慕中女祝福中女",
@@ -825,6 +849,14 @@
       "onboard_time": 1763353163,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191458,
+      "num": 191458,
+      "word": "工作细胞",
+      "onboard_time": 1763368340,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 190683,
@@ -907,6 +939,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180176,
+      "num": 180176,
+      "word": "RNG",
+      "onboard_time": 1763367680,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 179921,
       "num": 323955,
       "word": "那英上期查票这期改赛制",
@@ -961,14 +1001,6 @@
       "onboard_time": 1763348421,
       "rank": 38,
       "category": "情感"
-    },
-    {
-      "raw_hot": 170298,
-      "num": 170298,
-      "word": "RNG",
-      "onboard_time": 1763367680,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 169935,
@@ -1035,6 +1067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 160180,
+      "num": 185357,
+      "word": "东部战区发布若一去不回",
+      "onboard_time": 1763369362,
+      "rank": 28,
+      "category": "军事"
+    },
+    {
       "raw_hot": 159835,
       "num": 159835,
       "word": "马龙vs陈垣宇",
@@ -1065,14 +1105,6 @@
       "onboard_time": 1763294362,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 158596,
-      "num": 175444,
-      "word": "工作细胞",
-      "onboard_time": 1763368340,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 158162,
@@ -1140,7 +1172,7 @@
     },
     {
       "raw_hot": 154652,
-      "num": 273057,
+      "num": 279860,
       "word": "官方回应村民盗水吸金年入百万",
       "onboard_time": 1763366542,
       "rank": 9,
@@ -1156,7 +1188,7 @@
     },
     {
       "raw_hot": 153064,
-      "num": 260825,
+      "num": 294856,
       "word": "阿里巴巴回应千问崩了",
       "onboard_time": 1763364381,
       "rank": 43,
@@ -1259,6 +1291,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 141791,
+      "num": 141791,
+      "word": "石宇奇坐轮椅离场",
+      "onboard_time": 1763369302,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141665,
       "num": 141665,
       "word": "张艺谋新电影",
@@ -1273,14 +1313,6 @@
       "onboard_time": 1763350462,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140650,
-      "num": 254234,
-      "word": "河南鹅毛大雪",
-      "onboard_time": 1763367801,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138777,
@@ -1387,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126866,
-      "num": 126866,
-      "word": "宋佳 章子怡",
-      "onboard_time": 1763368521,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 126829,
       "num": 126829,
       "word": "A股成交1.91万亿缩量473亿",
@@ -1449,6 +1473,14 @@
       "onboard_time": 1763336539,
       "rank": 16,
       "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 122532,
+      "num": 122532,
+      "word": "朱婷冲击四强失败拒绝采访",
+      "onboard_time": 1763369061,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 122524,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1763343379,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114003,
+      "num": 114003,
+      "word": "陈建斌搂蒋勤勤 像便衣抓小偷",
+      "onboard_time": 1763368943,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 113811,
@@ -1713,6 +1753,14 @@
       "onboard_time": 1763362821,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 98891,
+      "num": 98891,
+      "word": "这居然是16岁的文淇",
+      "onboard_time": 1763369423,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 98282,
@@ -2003,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74416,
+      "num": 143767,
+      "word": "刘宇宁被门框夹住了",
+      "onboard_time": 1763368340,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 73672,
       "num": 253016,
       "word": "第一批退订日本机票旅客已到账",
@@ -2044,7 +2100,7 @@
     },
     {
       "raw_hot": 70445,
-      "num": 130443,
+      "num": 145464,
       "word": "日本在野党向民众科普敌国条款",
       "onboard_time": 1763368641,
       "rank": 40,
@@ -2155,14 +2211,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 60534,
-      "num": 132205,
-      "word": "刘宇宁被门框夹住了",
-      "onboard_time": 1763368340,
-      "rank": 39,
-      "category": "演出"
-    },
-    {
       "raw_hot": 59213,
       "num": 145119,
       "word": "大湾鸡史上最正经演出",
@@ -2172,7 +2220,7 @@
     },
     {
       "raw_hot": 56388,
-      "num": 247705,
+      "num": 281545,
       "word": "新势力燃油车跑分排行榜",
       "onboard_time": 1763366962,
       "rank": 19,
@@ -2185,6 +2233,14 @@
       "onboard_time": 1763310919,
       "rank": 46,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 54812,
+      "num": 146710,
+      "word": "韩国残疾人学校再现熔炉情节",
+      "onboard_time": 1763369302,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54097,
@@ -2411,6 +2467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 31277,
+      "num": 279343,
+      "word": "台湾34个团体严正抗议日本",
+      "onboard_time": 1763368462,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30971,
       "num": 61234,
       "word": "王力宏时隔15年的细节刀",
@@ -2499,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24453,
+      "num": 771719,
+      "word": "全运会闭幕式剧透来了",
+      "onboard_time": 1763343141,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22865,
       "num": 189864,
       "word": "起底快通门票套餐陷阱",
@@ -2539,12 +2611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20142,
-      "num": 771719,
-      "word": "全运会闭幕式剧透来了",
-      "onboard_time": 1763343141,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 19229,
+      "num": 148088,
+      "word": "公厕被打3年后女孩患白血病求助",
+      "onboard_time": 1763368822,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18603,
@@ -2593,14 +2665,6 @@
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 13971,
-      "num": 238721,
-      "word": "台湾34个团体严正抗议日本",
-      "onboard_time": 1763368462,
-      "rank": 22,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
