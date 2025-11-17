@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 11:38:26
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 12:33:56
 </p>
 </blockquote>
 <p>
@@ -1413,6 +1413,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%A7%E8%AF%89%E6%9B%BE%E8%BD%B6%E5%8F%AF%23" target="weibo">
+前工作人员控诉曾轶可（热度：877865）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E7%8E%8B%20%E5%A4%8D%E6%B4%BB%23" target="weibo">
 孩子王 复活（热度：877132）
 </a>
@@ -1655,6 +1661,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%9B%B4%E6%92%AD%E6%94%B6%E5%85%A5%E5%85%A8%E9%83%A8%E6%8D%90%E7%BB%99%E4%B9%A1%E6%9D%91%E5%84%BF%E7%AB%A5%23" target="weibo">
 全红婵直播收入全部捐给乡村儿童（热度：800833）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%89%A9%E5%86%9B%23" target="weibo">
+高市早苗扩军（热度：799479）
 </a>
 </li>
 
@@ -3255,6 +3267,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E4%BB%85%E6%84%A4%E6%80%92%E8%BF%98%E6%9C%89%E8%A1%8C%E5%8A%A8%23" target="weibo">
+中方不仅愤怒还有行动（热度：567607）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E6%A8%B1%E5%AD%90%E8%A2%AB%E6%9F%90%E5%88%B6%E4%BD%9C%E4%BA%BA%E8%AE%A4%E5%BD%93%E5%B9%B2%E5%A5%B3%E5%84%BF%23" target="weibo">
 曝赵樱子被某制作人认当干女儿（热度：567436）
 </a>
@@ -3425,6 +3443,12 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E6%8B%8D%E5%87%BA%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB%E5%92%8C%E4%B8%8A%E5%AE%98%E5%A9%89%E5%84%BF%23" target="weibo">
 唐诡3拍出太平公主和上官婉儿（热度：551700）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E9%97%AE%E9%9F%A9%E9%9B%A8%E5%BD%A4%E6%9B%BE%E8%BE%89%E6%98%AF%E4%B8%80%E5%AF%B9%E5%90%97%23" target="weibo">
+宋佳问韩雨彤曾辉是一对吗（热度：551563）
 </a>
 </li>
 
@@ -4341,6 +4365,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A9%E7%AB%8B%E5%A7%A3%E5%AE%98%E5%AE%A3%E9%80%80%E5%BD%B9%23" target="weibo">
+巩立姣官宣退役（热度：474761）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%AD%8F%E4%B8%96%E7%9A%93%23" target="weibo">
 王楚钦vs魏世皓（热度：474391）
 </a>
@@ -4613,12 +4643,6 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Bin%E5%8F%8C%E7%9C%BC%E7%9A%AE%23" target="weibo">
 Bin双眼皮（热度：455933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E4%BB%85%E6%84%A4%E6%80%92%E8%BF%98%E6%9C%89%E8%A1%8C%E5%8A%A8%23" target="weibo">
-中方不仅愤怒还有行动（热度：455561）
 </a>
 </li>
 
@@ -5397,6 +5421,12 @@ Faker发博晒经典夺冠表情（热度：418029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E4%B8%8D%E6%94%B6%E7%A4%BC%E9%99%A4%E9%9D%9E%E6%98%AF%E5%A4%A7%E6%B9%BE%E9%B8%A1%23" target="weibo">
+胡歌不收礼除非是大湾鸡（热度：405964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B6%A6%E5%8F%91%E5%BC%A0%E5%AD%A6%E5%8F%8B%E4%B8%8D%E5%8F%82%E5%8A%A0%E7%BB%BC%E8%89%BA%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 周润发张学友不参加综艺的原因（热度：404901）
 </a>
@@ -5567,6 +5597,12 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E6%8B%86%E5%AE%8C%E5%BF%AB%E9%80%92%E7%9A%84%E7%BA%B8%E7%AE%B1%E7%AB%8B%E9%A9%AC%E6%89%94%E6%8E%89%23" target="weibo">
 建议拆完快递的纸箱立马扔掉（热度：396457）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E7%9F%AD%E5%89%A7%E8%B4%A8%E6%84%9F%E7%9A%84%E9%95%BF%E5%89%A7%E7%81%AB%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
+为什么短剧质感的长剧火起来了（热度：395878）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ TVB演员众筹150万给妻子治病（热度：375657）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B8%A650%E5%8F%AA%E8%9E%83%E8%9F%B9%E6%9D%A5%E8%98%91%E8%8F%87%E5%B1%8B%23" target="weibo">
 张凌赫带50只螃蟹来蘑菇屋（热度：375531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E6%A0%91%E5%AF%BC%E6%BC%94%E5%88%B6%E7%89%87%E4%BA%BA%E5%9B%9E%E5%BA%94%E4%BA%89%E8%AE%AE%23" target="weibo">
-春树导演制片人回应争议（热度：374178）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%80%E9%AA%A8%23" target="weibo">
-雀骨（热度：374128）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23" target="weibo">
-抖音回应温峥嵘被AI盗播（热度：373894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%9B%9E%E5%BA%94%E8%8E%B7%E5%BE%97%E7%AC%AC%E4%BA%94%23" target="weibo">
-全红婵回应获得第五（热度：373254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%87%E7%91%9E%E8%87%B4%E6%AD%89%23" target="weibo">
-奇瑞致歉（热度：373207）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%AF%B9%E7%91%9E%E5%85%B8%E5%85%8D%E7%AD%BE%23" target="weibo">
-中国对瑞典免签（热度：373193）
 </a>
 </li>
 

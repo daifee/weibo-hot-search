@@ -1,0 +1,410 @@
+{
+  "runTime": 1763354036654,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1053862,
+        "num": 1168618,
+        "word": "日本高官来华解释高市言论",
+        "onboard_time": 1763345600,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 994074,
+        "num": 994074,
+        "word": "日媒称中方措施超出日本预期",
+        "onboard_time": 1763336900,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30551,
+        "num": 773166,
+        "word": "一起看全运会",
+        "onboard_time": 1763314216,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 567607,
+        "num": 567607,
+        "word": "中方不仅愤怒还有行动",
+        "onboard_time": 1763346620,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 474761,
+        "num": 474761,
+        "word": "巩立姣官宣退役",
+        "onboard_time": 1763350942,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 799479,
+        "num": 474032,
+        "word": "高市早苗扩军",
+        "onboard_time": 1763352862,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 466218,
+        "num": 466218,
+        "word": "余承东官宣华为Mate80发布会",
+        "onboard_time": 1763342541,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 398683,
+        "num": 398683,
+        "word": "枭起青壤定档",
+        "onboard_time": 1763345959,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297215,
+        "num": 398365,
+        "word": "樊振东vs于何一",
+        "onboard_time": 1763348240,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405964,
+        "num": 398105,
+        "word": "胡歌不收礼除非是大湾鸡",
+        "onboard_time": 1763349801,
+        "rank": 9,
+        "category": "电影,体育"
+      },
+      {
+        "raw_hot": 76085,
+        "num": 397261,
+        "word": "Mate80或采用全金属机身设计",
+        "onboard_time": 1763350401,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 794571,
+        "num": 396479,
+        "word": "学习通崩了",
+        "onboard_time": 1763349201,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 551563,
+        "num": 396236,
+        "word": "宋佳问韩雨彤曾辉是一对吗",
+        "onboard_time": 1763352082,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 395878,
+        "num": 395878,
+        "word": "为什么短剧质感的长剧火起来了",
+        "onboard_time": 1763350042,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343920,
+        "num": 343920,
+        "word": "22岁帮家里卖完12万副眼镜",
+        "onboard_time": 1763347040,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333358,
+        "num": 333358,
+        "word": "沈腾你也在嗑吧",
+        "onboard_time": 1763352322,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274778,
+        "num": 274778,
+        "word": "众星送别悼念甄志强",
+        "onboard_time": 1763347640,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 267309,
+        "num": 267309,
+        "word": "华晨宇 是我把你捞回来的",
+        "onboard_time": 1763350822,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206457,
+        "num": 267163,
+        "word": "成龙去世谣言系AI生成",
+        "onboard_time": 1763353402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193300,
+        "num": 266004,
+        "word": "马龙3比1胜陈垣宇",
+        "onboard_time": 1763353163,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37325,
+        "num": 265091,
+        "word": "马龙黄友政3比2陈垣宇曹彦涛",
+        "onboard_time": 1763352801,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33637,
+        "num": 264668,
+        "word": "肖战荣耀500动就动真格",
+        "onboard_time": 1763352263,
+        "rank": 21,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 877865,
+        "num": 263820,
+        "word": "前工作人员控诉曾轶可",
+        "onboard_time": 1763350881,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284087,
+        "num": 262268,
+        "word": "英国连环强奸案受害者或多达数百人",
+        "onboard_time": 1763351841,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 174436,
+        "num": 261577,
+        "word": "王楚钦vs孙闻",
+        "onboard_time": 1763348780,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261409,
+        "num": 261409,
+        "word": "雷军辟谣",
+        "onboard_time": 1763341401,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 257192,
+        "num": 257192,
+        "word": "张继科谈全运会男单女单卫冕",
+        "onboard_time": 1763347580,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 221763,
+        "num": 221763,
+        "word": "张继科说我没拿过全运会冠军",
+        "onboard_time": 1763351063,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164753,
+        "num": 221743,
+        "word": "新闻女王2断更",
+        "onboard_time": 1763353522,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161990,
+        "num": 221564,
+        "word": "天才女友官宣杀青",
+        "onboard_time": 1763345661,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 362930,
+        "num": 221369,
+        "word": "曾轶可",
+        "onboard_time": 1763352801,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223710,
+        "num": 221180,
+        "word": "美国一人独中70亿元彩票",
+        "onboard_time": 1763345661,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 221062,
+        "num": 221062,
+        "word": "男生眼里的漂亮饭",
+        "onboard_time": 1763352022,
+        "rank": 32,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 219817,
+        "num": 219817,
+        "word": "日本的三个没想到",
+        "onboard_time": 1763344881,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204008,
+        "num": 204008,
+        "word": "当易烊千玺听到有人喊自己烊烊",
+        "onboard_time": 1763351120,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178782,
+        "num": 178782,
+        "word": "穿袜子睡觉居然有这么多好处",
+        "onboard_time": 1763353163,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 178155,
+        "num": 178155,
+        "word": "日本被首相拖入国家危机",
+        "onboard_time": 1763337861,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164650,
+        "num": 164650,
+        "word": "下雪",
+        "onboard_time": 1763352622,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163561,
+        "num": 163561,
+        "word": "赵梁州男子400混弃权",
+        "onboard_time": 1763353702,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159835,
+        "num": 159835,
+        "word": "马龙vs陈垣宇",
+        "onboard_time": 1763351602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27654,
+        "num": 159512,
+        "word": "高市早苗惹事有人甩锅给提问的议员",
+        "onboard_time": 1763354002,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83551,
+        "num": 159388,
+        "word": "生育津贴无需结婚证直发个人",
+        "onboard_time": 1763352801,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159350,
+        "num": 159350,
+        "word": "杨瀚森G联赛21分创新高",
+        "onboard_time": 1763352683,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158162,
+        "num": 158162,
+        "word": "杨雨潼中戏颜选",
+        "onboard_time": 1763353641,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111188,
+        "num": 158117,
+        "word": "造谣林允沈腾恋情网友致歉",
+        "onboard_time": 1763352562,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158103,
+        "num": 158103,
+        "word": "A股三六零涨停",
+        "onboard_time": 1763353942,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156405,
+        "num": 156405,
+        "word": "浙江队无缘4x100混合泳决赛",
+        "onboard_time": 1763353462,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149362,
+        "num": 149362,
+        "word": "穿秋裤",
+        "onboard_time": 1763353882,
+        "rank": 47,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 148441,
+        "num": 148441,
+        "word": "唐诡全员科班出身的含金量",
+        "onboard_time": 1763353822,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145778,
+        "num": 145778,
+        "word": "张艺谋曾说金鸡奖是全世界最难拿的奖",
+        "onboard_time": 1763342000,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#传统产业改造升级也能发展新质生产力#"
+    }
+  }
+}
