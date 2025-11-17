@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763419373007,
+  "endTime": 1763421910928,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 732656,
-      "num": 732656,
+      "num": 836062,
       "word": "日方称向中方提抗议",
       "onboard_time": 1763388504,
       "rank": 31,
@@ -665,6 +665,14 @@
       "onboard_time": 1763341401,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 581491,
+      "num": 140838,
+      "word": "朵朵知道小酒窝轩轩指腹为婚大哭",
+      "onboard_time": 1763421018,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 581387,
@@ -1220,7 +1228,7 @@
     },
     {
       "raw_hot": 395432,
-      "num": 250476,
+      "num": 350854,
       "word": "曝iPhone17 Pro Max被湿巾擦掉色",
       "onboard_time": 1763388262,
       "rank": 24,
@@ -2147,6 +2155,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234512,
+      "num": 186858,
+      "word": "新东方员工吐槽俞敏洪内部信",
+      "onboard_time": 1763381661,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 234047,
       "num": 234047,
       "word": "日媒叫嚣击沉福建舰",
@@ -2225,6 +2241,14 @@
       "onboard_time": 1763212587,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 223843,
+      "num": 140197,
+      "word": "业主卖房时发现地下室被人占用多年",
+      "onboard_time": 1763413814,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223741,
@@ -2891,14 +2915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186858,
-      "num": 186858,
-      "word": "新东方员工吐槽俞敏洪内部信",
-      "onboard_time": 1763381661,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 186623,
       "num": 370480,
       "word": "陈梦回应铜牌",
@@ -3067,14 +3083,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 180002,
-      "num": 39137,
-      "word": "业主卖房时发现地下室被人占用多年",
-      "onboard_time": 1763413814,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 179942,
       "num": 159034,
       "word": "樊振东夺冠登上新闻联播",
@@ -3169,6 +3177,14 @@
       "onboard_time": 1763290161,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 176009,
+      "num": 176009,
+      "word": "暂缓日本进口影片上映",
+      "onboard_time": 1763412493,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 175667,
@@ -4035,6 +4051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145764,
+      "num": 139951,
+      "word": "董璇回应张维伊喊小酒窝窝子",
+      "onboard_time": 1763415914,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145639,
       "num": 145639,
       "word": "光遇",
@@ -4296,6 +4320,14 @@
       "word": "上拉如酒后肇事逃逸被刑拘",
       "onboard_time": 1763215352,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136161,
+      "num": 136161,
+      "word": "男子炫耀妻子把袜子叠成蘑菇状",
+      "onboard_time": 1763421198,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -5275,14 +5307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112656,
-      "num": 112656,
-      "word": "暂缓日本进口影片上映",
-      "onboard_time": 1763412493,
-      "rank": 10,
-      "category": "电影"
-    },
-    {
       "raw_hot": 112093,
       "num": 112093,
       "word": "出师表翻译成日语再翻回来",
@@ -6027,6 +6051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 89876,
+      "num": 89876,
+      "word": "联合国至今未承认日本对琉球主权",
+      "onboard_time": 1763421619,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89658,
       "num": 144634,
       "word": "湖人vs雄鹿",
@@ -6411,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73663,
+      "num": 77147,
+      "word": "孙颖莎1比3落后出去换了件衣服",
+      "onboard_time": 1763400556,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73053,
       "num": 164965,
       "word": "野猪被堵路中跳桥当场摔死",
@@ -6433,6 +6473,14 @@
       "onboard_time": 1763378662,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 72517,
+      "num": 72517,
+      "word": "江苏4岁女童腹痛就医后缺氧去世",
+      "onboard_time": 1763421557,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72237,
@@ -6491,6 +6539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 70771,
+      "num": 70771,
+      "word": "山姆回复被吐槽选品像普通超市",
+      "onboard_time": 1763421739,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70445,
       "num": 145464,
       "word": "日本在野党向民众科普敌国条款",
@@ -6531,6 +6587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68120,
+      "num": 139655,
+      "word": "任嘉伦哭戏已经下一个level",
+      "onboard_time": 1763420898,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67609,
       "num": 248759,
       "word": "陈梦说赛场的快乐无关输赢",
@@ -6563,12 +6627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 66293,
+      "num": 77218,
+      "word": "谁能想到这个小男孩长大后会是影帝呢",
+      "onboard_time": 1763416753,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 65833,
       "num": 65833,
       "word": "展轩金发狼尾",
       "onboard_time": 1763227399,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 65434,
+      "num": 139553,
+      "word": "好东西2 陈思诚提问邵艺辉",
+      "onboard_time": 1763408594,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 65402,
@@ -6633,6 +6713,14 @@
       "onboard_time": 1763284762,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63310,
+      "num": 63310,
+      "word": "中国多部门对日打出组合拳",
+      "onboard_time": 1763421679,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 63262,
@@ -6747,20 +6835,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 58237,
-      "num": 58237,
-      "word": "董璇回应张维伊喊小酒窝窝子",
-      "onboard_time": 1763415914,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 57436,
-      "num": 57436,
-      "word": "孙颖莎1比3落后出去换了件衣服",
-      "onboard_time": 1763400556,
-      "rank": 37,
-      "category": "体育"
+      "raw_hot": 57105,
+      "num": 57105,
+      "word": "燃气热水器竟然是明火加热",
+      "onboard_time": 1763421619,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 56308,
@@ -6891,12 +6971,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50396,
+      "num": 50396,
+      "word": "中方回应日本外务省高官访华",
+      "onboard_time": 1763405295,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 50127,
       "num": 134367,
       "word": "女子称司机还手机3公里索要150元",
       "onboard_time": 1763302702,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49959,
+      "num": 49959,
+      "word": "多支LPL队伍已与Gumayusi接触",
+      "onboard_time": 1763421739,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 49787,
@@ -7049,14 +7145,6 @@
       "onboard_time": 1763275282,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 42023,
-      "num": 39050,
-      "word": "好东西2 陈思诚提问邵艺辉",
-      "onboard_time": 1763408594,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 41964,
@@ -7259,6 +7347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35745,
+      "num": 139126,
+      "word": "刘宇宁一口气演了六个角色",
+      "onboard_time": 1763421318,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 35568,
       "num": 44679,
       "word": "供暖",
@@ -7273,6 +7369,14 @@
       "onboard_time": 1763325374,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35344,
+      "num": 40489,
+      "word": "王菲说窦靖童像她一样拧",
+      "onboard_time": 1763419516,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 35279,
@@ -7355,14 +7459,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 33365,
-      "num": 39353,
-      "word": "谁能想到这个小男孩长大后会是影帝呢",
-      "onboard_time": 1763416753,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
       "raw_hot": 33042,
       "num": 73214,
       "word": "田曦薇天才女友路透",
@@ -7379,12 +7475,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 32531,
-      "num": 39043,
-      "word": "中方回应日本外务省高官访华",
-      "onboard_time": 1763405295,
-      "rank": 32,
-      "category": "国际时政"
+      "raw_hot": 32776,
+      "num": 53142,
+      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
+      "onboard_time": 1763403855,
+      "rank": 44,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 32478,
@@ -7499,20 +7595,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30105,
+      "num": 50528,
+      "word": "王一博探索新境2北美攀岩总宣",
+      "onboard_time": 1763401875,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30043,
       "num": 155321,
       "word": "多名游客将车开进阿尔山不冻河打卡",
       "onboard_time": 1763273842,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29889,
-      "num": 53142,
-      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
-      "onboard_time": 1763403855,
-      "rank": 44,
-      "category": "电影,动漫"
     },
     {
       "raw_hot": 29730,
@@ -7691,14 +7787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23471,
-      "num": 50528,
-      "word": "王一博探索新境2北美攀岩总宣",
-      "onboard_time": 1763401875,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 22865,
       "num": 189864,
       "word": "起底快通门票套餐陷阱",
@@ -7713,6 +7801,14 @@
       "onboard_time": 1763308822,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22295,
+      "num": 40486,
+      "word": "巩立姣五连冠谢幕",
+      "onboard_time": 1763421078,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 22258,

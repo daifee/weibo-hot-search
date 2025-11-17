@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 06:42:53
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 07:25:10
 </p>
 </blockquote>
 <p>
@@ -3309,6 +3309,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B5%E6%9C%B5%E7%9F%A5%E9%81%93%E5%B0%8F%E9%85%92%E7%AA%9D%E8%BD%A9%E8%BD%A9%E6%8C%87%E8%85%B9%E4%B8%BA%E5%A9%9A%E5%A4%A7%E5%93%AD%23" target="weibo">
+朵朵知道小酒窝轩轩指腹为婚大哭（热度：581491）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E6%9C%B1%E7%8E%B2%E7%8E%B2%E9%9C%8D%E5%90%AF%E5%88%9A%E7%8E%B0%E8%BA%AB%E9%9C%8D%E5%90%AF%E4%BB%81%E5%A9%9A%E7%A4%BC%23" target="weibo">
 霍震霆朱玲玲霍启刚现身霍启仁婚礼（热度：581387）
 </a>
@@ -6005,12 +6011,6 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E8%BD%A6%E7%A5%B8%E4%BC%A4%E5%8F%A3%E6%84%9F%E6%9F%93%23" target="weibo">
 蓝战非车祸伤口感染（热度：390923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B0%91%E4%BC%97%E9%AB%98%E5%96%8A%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E4%B8%AD%E5%9B%BD%E4%BA%BA%23" target="weibo">
-台湾民众高喊我们都是中国人（热度：390102）
 </a>
 </li>
 
