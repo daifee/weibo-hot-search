@@ -1,0 +1,410 @@
+{
+  "runTime": 1763405469646,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 108160,
+        "num": 108160,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 76664,
+        "num": 76664,
+        "word": "奥特曼扮演者发文质问高市早苗",
+        "onboard_time": 1763391863,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8624,
+        "num": 74850,
+        "word": "C919和C909首次亮相中东",
+        "onboard_time": 1763375423,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74497,
+        "num": 74497,
+        "word": "日方称向中方提抗议",
+        "onboard_time": 1763388504,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67078,
+        "num": 67078,
+        "word": "T1官宣Gumayusi离队",
+        "onboard_time": 1763381481,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 58711,
+        "num": 58711,
+        "word": "中方已向美方提严正交涉",
+        "onboard_time": 1763386403,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57512,
+        "num": 57512,
+        "word": "高市早苗搞事已遭反噬",
+        "onboard_time": 1763376560,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 55512,
+        "num": 55512,
+        "word": "日本扩军剑指中国",
+        "onboard_time": 1763390483,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52149,
+        "num": 52149,
+        "word": "日本酒店退订潮",
+        "onboard_time": 1763383582,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36837,
+        "num": 36837,
+        "word": "南京下雪",
+        "onboard_time": 1763390362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77017,
+        "num": 36654,
+        "word": "不要删掉讨厌的人的微信",
+        "onboard_time": 1763370802,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 58650,
+        "num": 35941,
+        "word": "70后户外网红博主坠崖身亡",
+        "onboard_time": 1763393721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47218,
+        "num": 34765,
+        "word": "湖南一婴儿一出生就15岁",
+        "onboard_time": 1763378422,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46180,
+        "num": 34129,
+        "word": "中国代表联大发言让日本破大防",
+        "onboard_time": 1763384602,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 33710,
+        "num": 33710,
+        "word": "孙颖莎1比3落后出去换了件衣服",
+        "onboard_time": 1763400556,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32200,
+        "num": 32200,
+        "word": "Gumayusi HLE",
+        "onboard_time": 1763383402,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31862,
+        "num": 31862,
+        "word": "现在就出发 神经特效",
+        "onboard_time": 1763403195,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30303,
+        "num": 30303,
+        "word": "Viper去哪儿",
+        "onboard_time": 1763383402,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 27402,
+        "num": 30277,
+        "word": "两部日本电影撤档影城正陆续退票",
+        "onboard_time": 1763387422,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22891,
+        "num": 30191,
+        "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
+        "onboard_time": 1763403855,
+        "rank": 19,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 51884,
+        "num": 30106,
+        "word": "小海绵身高到baby肩膀了",
+        "onboard_time": 1763371282,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47210,
+        "num": 30091,
+        "word": "曝iPhone17 Pro Max被湿巾擦掉色",
+        "onboard_time": 1763388262,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 34291,
+        "num": 30028,
+        "word": "新东方员工吐槽俞敏洪内部信",
+        "onboard_time": 1763381661,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 29962,
+        "num": 29962,
+        "word": "宁波妇幼",
+        "onboard_time": 1763373201,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 19780,
+        "num": 29549,
+        "word": "现在就出发",
+        "onboard_time": 1763403555,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29545,
+        "num": 29545,
+        "word": "BLG转会",
+        "onboard_time": 1763388442,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29108,
+        "num": 29108,
+        "word": "朝鲜媒体警告日本",
+        "onboard_time": 1763387003,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27673,
+        "num": 29108,
+        "word": "只有没结婚的才知道她说的有多真",
+        "onboard_time": 1763389642,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 26945,
+        "num": 29107,
+        "word": "T1管理层",
+        "onboard_time": 1763382620,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25206,
+        "num": 29107,
+        "word": "外交部明确表态不会见高市早苗",
+        "onboard_time": 1763387543,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26141,
+        "num": 29107,
+        "word": "森林北公布体检结果",
+        "onboard_time": 1763380041,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24627,
+        "num": 29106,
+        "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+        "onboard_time": 1763382441,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24471,
+        "num": 29106,
+        "word": "女婴心脏手术去世涉事医生已停诊",
+        "onboard_time": 1763370143,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23605,
+        "num": 29106,
+        "word": "T1 Peyz",
+        "onboard_time": 1763383041,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23484,
+        "num": 29105,
+        "word": "宋佳白玉兰 击败甄嬛传",
+        "onboard_time": 1763372241,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 23279,
+        "num": 29105,
+        "word": "中国驻日大使馆再发帖",
+        "onboard_time": 1763393002,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22747,
+        "num": 29105,
+        "word": "李雪琴早就知道董璇张维伊在一起",
+        "onboard_time": 1763394023,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21395,
+        "num": 29104,
+        "word": "zeus",
+        "onboard_time": 1763387182,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20990,
+        "num": 29104,
+        "word": "全运会体操收官",
+        "onboard_time": 1763397978,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20656,
+        "num": 29103,
+        "word": "张博恒全运会单杠金牌",
+        "onboard_time": 1763390782,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20469,
+        "num": 29103,
+        "word": "宋佳 章子怡",
+        "onboard_time": 1763368521,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 18222,
+        "num": 29103,
+        "word": "彭小苒 我努力做个好妈妈",
+        "onboard_time": 1763390903,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18028,
+        "num": 29102,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763377942,
+        "rank": 42,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 17347,
+        "num": 29101,
+        "word": "长大的感受",
+        "onboard_time": 1763400436,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 17320,
+        "num": 29101,
+        "word": "霍尊回应复出",
+        "onboard_time": 1763387182,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16974,
+        "num": 29101,
+        "word": "国防部回应美对台军售",
+        "onboard_time": 1763402834,
+        "rank": 45,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 16764,
+        "num": 29100,
+        "word": "刘宇宁丝绒真空西装",
+        "onboard_time": 1763405174,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16265,
+        "num": 29100,
+        "word": "李冰洁现学蛙泳",
+        "onboard_time": 1763395760,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16142,
+        "num": 29099,
+        "word": "汪顺400混4连冠",
+        "onboard_time": 1763382142,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15926,
+        "num": 29099,
+        "word": "迪丽热巴边吃零食边摸蛇",
+        "onboard_time": 1763373561,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}

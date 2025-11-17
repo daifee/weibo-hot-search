@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763404658070,
+  "endTime": 1763405469646,
   "band_list": [
     {
       "raw_hot": 628933,
@@ -435,6 +435,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 31862,
+      "num": 37147,
+      "word": "现在就出发 神经特效",
+      "onboard_time": 1763403195,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 29730,
       "num": 41717,
       "word": "川渝人才知道她演的有多真实",
@@ -443,12 +451,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 26702,
-      "num": 37147,
-      "word": "现在就出发 神经特效",
-      "onboard_time": 1763403195,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 22891,
+      "num": 31792,
+      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
+      "onboard_time": 1763403855,
+      "rank": 44,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 22738,
@@ -467,14 +475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19403,
-      "num": 31792,
-      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
-      "onboard_time": 1763403855,
-      "rank": 44,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 19050,
       "num": 31772,
       "word": "网传刘耀文新歌有十六套造型",
@@ -489,6 +489,14 @@
       "onboard_time": 1763402834,
       "rank": 46,
       "category": "国际时政,国内时政"
+    },
+    {
+      "raw_hot": 16764,
+      "num": 29100,
+      "word": "刘宇宁丝绒真空西装",
+      "onboard_time": 1763405174,
+      "rank": 46,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

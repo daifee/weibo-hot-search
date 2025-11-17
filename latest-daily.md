@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/18 00:36:38 ~ 2025/11/18 02:37:38
+本榜单时间：2025/11/18 00:36:38 ~ 2025/11/18 02:51:09
 </p>
 </blockquote>
 <p>
@@ -339,14 +339,20 @@ T1 Peyz（热度：69226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%20%E7%A5%9E%E7%BB%8F%E7%89%B9%E6%95%88%23" target="weibo">
+现在就出发 神经特效（热度：31862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%9D%E6%B8%9D%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E5%A5%B9%E6%BC%94%E7%9A%84%E6%9C%89%E5%A4%9A%E7%9C%9F%E5%AE%9E%23" target="weibo">
 川渝人才知道她演的有多真实（热度：29730）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%20%E7%A5%9E%E7%BB%8F%E7%89%B9%E6%95%88%23" target="weibo">
-现在就出发 神经特效（热度：26702）
+<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E5%89%A7%E5%9C%BA%E7%89%88%E6%9A%82%E5%B1%85%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E6%A6%9C%E7%AC%AC5%23" target="weibo">
+鬼灭之刃剧场版暂居全球票房年榜第5（热度：22891）
 </a>
 </li>
 
@@ -363,12 +369,6 @@ C919和C909首次亮相中东（热度：22738）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E5%89%A7%E5%9C%BA%E7%89%88%E6%9A%82%E5%B1%85%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E6%A6%9C%E7%AC%AC5%23" target="weibo">
-鬼灭之刃剧场版暂居全球票房年榜第5（热度：19403）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E5%88%98%E8%80%80%E6%96%87%E6%96%B0%E6%AD%8C%E6%9C%89%E5%8D%81%E5%85%AD%E5%A5%97%E9%80%A0%E5%9E%8B%23" target="weibo">
 网传刘耀文新歌有十六套造型（热度：19050）
 </a>
@@ -377,6 +377,12 @@ C919和C909首次亮相中东（热度：22738）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%98%B2%E9%83%A8%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%AF%B9%E5%8F%B0%E5%86%9B%E5%94%AE%23" target="weibo">
 国防部回应美对台军售（热度：18174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%9D%E7%BB%92%E7%9C%9F%E7%A9%BA%E8%A5%BF%E8%A3%85%23" target="weibo">
+刘宇宁丝绒真空西装（热度：16764）
 </a>
 </li>
 
