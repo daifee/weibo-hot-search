@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763398267445,
+  "endTime": 1763400390952,
   "band_list": [
     {
       "raw_hot": 628933,
@@ -123,6 +123,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167702,
+      "num": 107031,
+      "word": "不要删掉讨厌的人的微信",
+      "onboard_time": 1763370802,
+      "rank": 28,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 165190,
       "num": 123341,
       "word": "曝iPhone17 Pro Max被湿巾擦掉色",
@@ -201,14 +209,6 @@
       "onboard_time": 1763396358,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107031,
-      "num": 107031,
-      "word": "不要删掉讨厌的人的微信",
-      "onboard_time": 1763370802,
-      "rank": 28,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 103193,
@@ -417,6 +417,14 @@
       "onboard_time": 1763382741,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 29730,
+      "num": 41717,
+      "word": "川渝人才知道她演的有多真实",
+      "onboard_time": 1763399836,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 22738,

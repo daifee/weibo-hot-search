@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763398267445,
+  "endTime": 1763400390952,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -59561,6 +59561,14 @@
       "onboard_time": 1763217448,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29730,
+      "num": 41717,
+      "word": "川渝人才知道她演的有多真实",
+      "onboard_time": 1763399836,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 29720,
