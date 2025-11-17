@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763384973244,
+  "endTime": 1763386687808,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -187,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 770820,
+      "num": 278641,
+      "word": "湖南一婴儿一出生就15岁",
+      "onboard_time": 1763378422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768523,
       "num": 768523,
       "word": "枭起青壤",
@@ -217,14 +225,6 @@
       "onboard_time": 1763364681,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 692737,
-      "num": 278641,
-      "word": "湖南一婴儿一出生就15岁",
-      "onboard_time": 1763378422,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 655210,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 542403,
+      "num": 263167,
+      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+      "onboard_time": 1763382441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 532669,
       "num": 257312,
       "word": "医院回应5月龄女婴心脏手术离世",
@@ -403,6 +411,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 517671,
+      "num": 233127,
+      "word": "日本酒店退订潮",
+      "onboard_time": 1763383582,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 499605,
       "num": 238601,
       "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
@@ -427,14 +443,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 487406,
-      "num": 263167,
-      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
-      "onboard_time": 1763382441,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 480793,
       "num": 261984,
       "word": "张凌赫 我不是人啊",
@@ -449,6 +457,14 @@
       "onboard_time": 1763367561,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 476338,
+      "num": 476338,
+      "word": "Gumayusi HLE",
+      "onboard_time": 1763383402,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 473261,
@@ -497,14 +513,6 @@
       "onboard_time": 1763349801,
       "rank": 42,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 460327,
-      "num": 345079,
-      "word": "Gumayusi HLE",
-      "onboard_time": 1763383402,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 453553,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 342176,
-      "num": 206058,
+      "num": 224617,
       "word": "Viper去哪儿",
       "onboard_time": 1763383402,
       "rank": 35,
@@ -875,6 +883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 261685,
+      "num": 168317,
+      "word": "中国代表联大发言让日本破大防",
+      "onboard_time": 1763384602,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 258066,
       "num": 258066,
       "word": "被通缉台独网红叫嚣悬赏金太少",
@@ -931,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 237482,
+      "num": 151048,
+      "word": "T1 谁拿FMVP谁走",
+      "onboard_time": 1763386282,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 236341,
       "num": 263018,
       "word": "乒乓球女单颁奖",
@@ -953,6 +977,14 @@
       "onboard_time": 1763359761,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233894,
+      "num": 274279,
+      "word": "枭起青壤能救鹅吗",
+      "onboard_time": 1763382741,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 231429,
@@ -1017,14 +1049,6 @@
       "onboard_time": 1763369302,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 210727,
-      "num": 204771,
-      "word": "日本酒店退订潮",
-      "onboard_time": 1763383582,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 208882,
@@ -1211,14 +1235,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 189442,
-      "num": 274279,
-      "word": "枭起青壤能救鹅吗",
-      "onboard_time": 1763382741,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 188727,
       "num": 188727,
       "word": "有个不太健康的习惯叫穷思竭虑",
@@ -1233,6 +1249,14 @@
       "onboard_time": 1763361080,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188193,
+      "num": 150916,
+      "word": "中方已向美方提严正交涉",
+      "onboard_time": 1763386403,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188067,
@@ -1459,6 +1483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166741,
+      "num": 166741,
+      "word": "新东方员工吐槽俞敏洪内部信",
+      "onboard_time": 1763381661,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 165785,
       "num": 165785,
       "word": "宋茜私下不化妆的样子分明是妹妹",
@@ -1515,6 +1547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161901,
+      "num": 150569,
+      "word": "张继科谈王曼昱新技术",
+      "onboard_time": 1763386581,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161621,
       "num": 338278,
       "word": "周深 李健老师没写过这句",
@@ -1531,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 160122,
+      "num": 176863,
+      "word": "任嘉伦哭戏",
+      "onboard_time": 1763385864,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159835,
       "num": 159835,
       "word": "马龙vs陈垣宇",
@@ -1545,14 +1593,6 @@
       "onboard_time": 1763350222,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 159658,
-      "num": 159658,
-      "word": "中国代表联大发言让日本破大防",
-      "onboard_time": 1763384602,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159350,
@@ -1676,7 +1716,7 @@
     },
     {
       "raw_hot": 153717,
-      "num": 159842,
+      "num": 232196,
       "word": "我们都是旅行者",
       "onboard_time": 1763384902,
       "rank": 40,
@@ -1715,6 +1755,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 151176,
+      "num": 151176,
+      "word": "赤峰通报免费采捡白菜事件",
+      "onboard_time": 1763386102,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 151036,
       "num": 151036,
       "word": "曝369和JackeyLove疑似一起休息",
@@ -1737,14 +1785,6 @@
       "onboard_time": 1763353882,
       "rank": 47,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 148735,
-      "num": 148735,
-      "word": "新东方员工吐槽俞敏洪内部信",
-      "onboard_time": 1763381661,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 148534,
@@ -1857,6 +1897,14 @@
       "onboard_time": 1763354604,
       "rank": 47,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 137403,
+      "num": 137403,
+      "word": "guria再也不会输了",
+      "onboard_time": 1763385562,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 137081,
@@ -2001,6 +2049,30 @@
       "onboard_time": 1763307981,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 129439,
+      "num": 151138,
+      "word": "彭小苒新剧演出了周杰伦的歌词",
+      "onboard_time": 1763386102,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 128761,
+      "num": 143224,
+      "word": "汪顺400混夺金后力竭",
+      "onboard_time": 1763386042,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 126984,
+      "num": 126984,
+      "word": "十五运乒乓男团第二阶段签表",
+      "onboard_time": 1763386343,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126829,
@@ -2323,6 +2395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 109913,
+      "num": 109913,
+      "word": "高杨樊振东迷弟实锤了",
+      "onboard_time": 1763386343,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109782,
       "num": 109782,
       "word": "小洛熙妈妈",
@@ -2339,6 +2419,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108758,
+      "num": 150680,
+      "word": "惠英红想要三金大满贯",
+      "onboard_time": 1763385202,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108350,
       "num": 255690,
       "word": "向佑在美国遭歧视向佐打断对方的手",
@@ -2353,6 +2441,14 @@
       "onboard_time": 1763335459,
       "rank": 13,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 107450,
+      "num": 107450,
+      "word": "冷雨桐0比3陈梦",
+      "onboard_time": 1763385622,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 106758,
@@ -3475,6 +3571,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 26726,
+      "num": 157678,
+      "word": "男子CT报告显示子宫未见异常",
+      "onboard_time": 1763386463,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26525,
       "num": 209132,
       "word": "有必要带长辈打带状疱疹疫苗吗",
@@ -3561,6 +3665,14 @@
       "onboard_time": 1763316375,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20288,
+      "num": 137525,
+      "word": "日本有重蹈军国主义覆辙的危险",
+      "onboard_time": 1763385622,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19229,

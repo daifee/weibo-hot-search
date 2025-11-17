@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763384973244,
+  "endTime": 1763386687808,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2507,6 +2507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 770820,
+      "num": 278641,
+      "word": "湖南一婴儿一出生就15岁",
+      "onboard_time": 1763378422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 770443,
       "num": 201519,
       "word": "诗与远方扳回一局",
@@ -3113,14 +3121,6 @@
       "onboard_time": 1762228640,
       "rank": 10,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 692737,
-      "num": 278641,
-      "word": "湖南一婴儿一出生就15岁",
-      "onboard_time": 1763378422,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 692247,
@@ -4939,6 +4939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 542403,
+      "num": 263167,
+      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+      "onboard_time": 1763382441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 541307,
       "num": 541307,
       "word": "樊振东vs孙闻",
@@ -5289,6 +5297,14 @@
       "onboard_time": 1762788320,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 517671,
+      "num": 233127,
+      "word": "日本酒店退订潮",
+      "onboard_time": 1763383582,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 517558,
@@ -5827,14 +5843,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 487406,
-      "num": 263167,
-      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
-      "onboard_time": 1763382441,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 487309,
       "num": 487309,
       "word": "嘎子哥及妻子被限消",
@@ -6049,6 +6057,14 @@
       "onboard_time": 1762667179,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 476338,
+      "num": 476338,
+      "word": "Gumayusi HLE",
+      "onboard_time": 1763383402,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 475716,
@@ -6401,14 +6417,6 @@
       "onboard_time": 1762749021,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 460327,
-      "num": 345079,
-      "word": "Gumayusi HLE",
-      "onboard_time": 1763383402,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 459764,
@@ -9348,7 +9356,7 @@
     },
     {
       "raw_hot": 342176,
-      "num": 206058,
+      "num": 224617,
       "word": "Viper去哪儿",
       "onboard_time": 1763383402,
       "rank": 35,
@@ -12595,6 +12603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261685,
+      "num": 168317,
+      "word": "中国代表联大发言让日本破大防",
+      "onboard_time": 1763384602,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 261682,
       "num": 158240,
       "word": "陈建斌蒋勤勤大儿子身高",
@@ -13707,6 +13723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 237482,
+      "num": 151048,
+      "word": "T1 谁拿FMVP谁走",
+      "onboard_time": 1763386282,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 237426,
       "num": 297220,
       "word": "付辛博演技",
@@ -13833,6 +13857,14 @@
       "onboard_time": 1763359761,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 233894,
+      "num": 274279,
+      "word": "枭起青壤能救鹅吗",
+      "onboard_time": 1763382741,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 233886,
@@ -15449,14 +15481,6 @@
       "onboard_time": 1763122342,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 210727,
-      "num": 204771,
-      "word": "日本酒店退订潮",
-      "onboard_time": 1763383582,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 210561,
@@ -18035,14 +18059,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 189442,
-      "num": 274279,
-      "word": "枭起青壤能救鹅吗",
-      "onboard_time": 1763382741,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 189426,
       "num": 189426,
       "word": "赵子豪3比0黄友政",
@@ -18249,6 +18265,14 @@
       "onboard_time": 1762660460,
       "rank": 41,
       "category": "美食"
+    },
+    {
+      "raw_hot": 188193,
+      "num": 150916,
+      "word": "中方已向美方提严正交涉",
+      "onboard_time": 1763386403,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 188160,
@@ -21027,6 +21051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166741,
+      "num": 166741,
+      "word": "新东方员工吐槽俞敏洪内部信",
+      "onboard_time": 1763381661,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 166731,
       "num": 334172,
       "word": "王曼昱成功卫冕",
@@ -21939,6 +21971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161901,
+      "num": 150569,
+      "word": "张继科谈王曼昱新技术",
+      "onboard_time": 1763386581,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161787,
       "num": 161787,
       "word": "苹果酸奶夹",
@@ -22243,6 +22283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160122,
+      "num": 176863,
+      "word": "任嘉伦哭戏",
+      "onboard_time": 1763385864,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 160093,
       "num": 160093,
       "word": "农民歌手李根离世",
@@ -22353,14 +22401,6 @@
       "onboard_time": 1762745480,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 159658,
-      "num": 159658,
-      "word": "中国代表联大发言让日本破大防",
-      "onboard_time": 1763384602,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 159632,
@@ -23532,7 +23572,7 @@
     },
     {
       "raw_hot": 153717,
-      "num": 159842,
+      "num": 232196,
       "word": "我们都是旅行者",
       "onboard_time": 1763384902,
       "rank": 40,
@@ -24043,6 +24083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151176,
+      "num": 151176,
+      "word": "赤峰通报免费采捡白菜事件",
+      "onboard_time": 1763386102,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 151124,
       "num": 151124,
       "word": "TES将交手T1",
@@ -24449,14 +24497,6 @@
       "onboard_time": 1763094861,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 148735,
-      "num": 148735,
-      "word": "新东方员工吐槽俞敏洪内部信",
-      "onboard_time": 1763381661,
-      "rank": 43,
-      "category": "教育"
     },
     {
       "raw_hot": 148730,
@@ -27003,6 +27043,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137403,
+      "num": 137403,
+      "word": "guria再也不会输了",
+      "onboard_time": 1763385562,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137351,
       "num": 137351,
       "word": "范丞丞掌握了王安宇的正确使用方法",
@@ -28947,6 +28995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129439,
+      "num": 151138,
+      "word": "彭小苒新剧演出了周杰伦的歌词",
+      "onboard_time": 1763386102,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129430,
       "num": 129430,
       "word": "中国航天员烧烤外国网友看呆了",
@@ -29137,6 +29193,14 @@
       "onboard_time": 1762418661,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128761,
+      "num": 143224,
+      "word": "汪顺400混夺金后力竭",
+      "onboard_time": 1763386042,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 128733,
@@ -29673,6 +29737,14 @@
       "onboard_time": 1762951461,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126984,
+      "num": 126984,
+      "word": "十五运乒乓男团第二阶段签表",
+      "onboard_time": 1763386343,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 126974,
@@ -35363,6 +35435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109913,
+      "num": 109913,
+      "word": "高杨樊振东迷弟实锤了",
+      "onboard_time": 1763386343,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109860,
       "num": 109860,
       "word": "约基奇55分",
@@ -35737,6 +35817,14 @@
       "onboard_time": 1762519461,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 108758,
+      "num": 150680,
+      "word": "惠英红想要三金大满贯",
+      "onboard_time": 1763385202,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 108741,
@@ -36273,6 +36361,14 @@
       "onboard_time": 1762568660,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107450,
+      "num": 107450,
+      "word": "冷雨桐0比3陈梦",
+      "onboard_time": 1763385622,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107441,
@@ -59715,6 +59811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26726,
+      "num": 157678,
+      "word": "男子CT报告显示子宫未见异常",
+      "onboard_time": 1763386463,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26718,
       "num": 134573,
       "word": "邪恶谢霆花",
@@ -60657,6 +60761,14 @@
       "onboard_time": 1763175260,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20288,
+      "num": 137525,
+      "word": "日本有重蹈军国主义覆辙的危险",
+      "onboard_time": 1763385622,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20279,
