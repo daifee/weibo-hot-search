@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763346132349,
+  "endTime": 1763349864826,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1351443,
+      "num": 1351443,
+      "word": "日本高官来华解释高市言论",
+      "onboard_time": 1763345600,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1324104,
       "num": 1324104,
       "word": "陈梦铜牌",
@@ -171,6 +179,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 970570,
+      "num": 970570,
+      "word": "枭起青壤定档",
+      "onboard_time": 1763345959,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 955169,
       "num": 296731,
       "word": "哪吒没来领奖",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 857992,
-      "num": 268957,
+      "num": 375893,
       "word": "张艺谋曾说金鸡奖是全世界最难拿的奖",
       "onboard_time": 1763342000,
       "rank": 10,
@@ -355,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 621631,
+      "num": 385492,
+      "word": "22岁帮家里卖完12万副眼镜",
+      "onboard_time": 1763347040,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616522,
       "num": 401574,
       "word": "张怡宁 意大利记者",
@@ -425,6 +449,14 @@
       "onboard_time": 1763267001,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 551154,
+      "num": 376779,
+      "word": "学习通崩了",
+      "onboard_time": 1763349201,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 545444,
@@ -595,6 +627,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 453553,
+      "num": 376146,
+      "word": "美国一人独中70亿元彩票",
+      "onboard_time": 1763345661,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 449899,
       "num": 198629,
       "word": "曝佘诗曼斥资3000万港元买豪宅",
@@ -617,6 +657,14 @@
       "onboard_time": 1763289261,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 439131,
+      "num": 439131,
+      "word": "日本的三个没想到",
+      "onboard_time": 1763344881,
+      "rank": 20,
+      "category": "国际时政"
     },
     {
       "raw_hot": 428111,
@@ -649,6 +697,14 @@
       "onboard_time": 1763252060,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 403087,
+      "num": 375938,
+      "word": "张继科谈全运会男单女单卫冕",
+      "onboard_time": 1763347580,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 401869,
@@ -707,12 +763,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 385404,
+      "num": 385404,
+      "word": "众星送别悼念甄志强",
+      "onboard_time": 1763347640,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 385073,
       "num": 2104566,
       "word": "刘宇宁演唱会内娱大佬团建",
       "onboard_time": 1763304564,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 382962,
+      "num": 382962,
+      "word": "天才女友官宣杀青",
+      "onboard_time": 1763345661,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 382884,
@@ -744,6 +816,14 @@
       "word": "王楚钦喊话马龙打好团体赛",
       "onboard_time": 1763284882,
       "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 377567,
+      "num": 377567,
+      "word": "樊振东vs于何一",
+      "onboard_time": 1763348240,
+      "rank": 13,
       "category": "体育"
     },
     {
@@ -881,6 +961,14 @@
       "onboard_time": 1763295801,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 328158,
+      "num": 328158,
+      "word": "中方不仅愤怒还有行动",
+      "onboard_time": 1763346620,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 325112,
@@ -1044,7 +1132,7 @@
     },
     {
       "raw_hot": 288475,
-      "num": 288475,
+      "num": 377294,
       "word": "杨超越备菜像开了倍速",
       "onboard_time": 1763342361,
       "rank": 8,
@@ -1057,6 +1145,14 @@
       "onboard_time": 1763262201,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286033,
+      "num": 286033,
+      "word": "韩笑生子",
+      "onboard_time": 1763346560,
+      "rank": 30,
+      "category": "网红"
     },
     {
       "raw_hot": 283735,
@@ -1187,6 +1283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254255,
+      "num": 254255,
+      "word": "兽皮痣无法通过产检提前发现",
+      "onboard_time": 1763345600,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 253358,
       "num": 240504,
       "word": "上海交大发文祝贺樊振东",
@@ -1273,6 +1377,14 @@
       "onboard_time": 1763221284,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 229726,
+      "num": 229726,
+      "word": "无限暖暖",
+      "onboard_time": 1763349141,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 229362,
@@ -1507,8 +1619,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199133,
+      "num": 199133,
+      "word": "孙颖莎缺席团体赛",
+      "onboard_time": 1763346860,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 198629,
-      "num": 198629,
+      "num": 306590,
       "word": "王一博探索新境2定档",
       "onboard_time": 1763344520,
       "rank": 24,
@@ -1531,14 +1651,6 @@
       "category": "科学科普,美食"
     },
     {
-      "raw_hot": 195527,
-      "num": 195527,
-      "word": "天才女友官宣杀青",
-      "onboard_time": 1763345661,
-      "rank": 14,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195303,
       "num": 195303,
       "word": "樊振东继马龙后实现卫冕",
@@ -1553,6 +1665,14 @@
       "onboard_time": 1763299763,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194010,
+      "num": 194010,
+      "word": "恋与深空",
+      "onboard_time": 1763349201,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 193806,
@@ -1747,6 +1867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182714,
+      "num": 182714,
+      "word": "日本介入台海即是侵略",
+      "onboard_time": 1763345541,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 182567,
       "num": 158307,
       "word": "这居然是47岁的颜丹晨",
@@ -1891,6 +2019,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172326,
+      "num": 172326,
+      "word": "一代人有一代人的馋嘴",
+      "onboard_time": 1763348421,
+      "rank": 38,
+      "category": "情感"
+    },
+    {
       "raw_hot": 172223,
       "num": 172223,
       "word": "易烊千玺回座位的姿势",
@@ -1915,6 +2051,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 169935,
+      "num": 316420,
+      "word": "王一博攀岩倒挂金钩",
+      "onboard_time": 1763348540,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169822,
       "num": 158257,
       "word": "成都大哥卖血旺",
@@ -1929,14 +2073,6 @@
       "onboard_time": 1763284941,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168096,
-      "num": 168096,
-      "word": "枭起青壤定档",
-      "onboard_time": 1763345959,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 167950,
@@ -2011,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162212,
+      "num": 162212,
+      "word": "孙颖莎说输掉比赛多少有点失落",
+      "onboard_time": 1763345361,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160999,
       "num": 160999,
       "word": "丁禹兮 正宫就得有正宫的大度",
@@ -2025,14 +2169,6 @@
       "onboard_time": 1763271022,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 160606,
-      "num": 160606,
-      "word": "日本的三个没想到",
-      "onboard_time": 1763344881,
-      "rank": 20,
-      "category": "国际时政"
     },
     {
       "raw_hot": 160086,
@@ -2184,6 +2320,14 @@
       "word": "陈梦朱雨玲赛后相拥",
       "onboard_time": 1763302583,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 152698,
+      "num": 377098,
+      "word": "王楚钦vs孙闻",
+      "onboard_time": 1763348780,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -2363,6 +2507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145149,
+      "num": 145149,
+      "word": "吃货老了之后还是吃货",
+      "onboard_time": 1763348720,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 144622,
       "num": 144622,
       "word": "七旬老人因悔牌将牌友打成重伤身亡",
@@ -2393,6 +2545,14 @@
       "onboard_time": 1763304385,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142020,
+      "num": 142020,
+      "word": "张凌赫看到刘宇宁腹肌了吗",
+      "onboard_time": 1763347699,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 141827,
@@ -3163,14 +3323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 110545,
-      "num": 160868,
-      "word": "日本介入台海即是侵略",
-      "onboard_time": 1763345541,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110526,
       "num": 110526,
       "word": "日本抗议者要求高市赶快道歉",
@@ -3217,6 +3369,14 @@
       "onboard_time": 1763251821,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108386,
+      "num": 108386,
+      "word": "陈梦回应是否会参加下届全运会",
+      "onboard_time": 1763349742,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 108285,
@@ -3387,6 +3547,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 104128,
+      "num": 294697,
+      "word": "魔术vs火箭",
+      "onboard_time": 1763349261,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104089,
       "num": 104089,
       "word": "第一次当酸奶有点紧张",
@@ -3451,14 +3619,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101505,
-      "num": 104894,
-      "word": "美国一人独中70亿元彩票",
-      "onboard_time": 1763345661,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 101199,
       "num": 101199,
       "word": "竞技体育柔情的一面",
@@ -3521,14 +3681,6 @@
       "onboard_time": 1763265981,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98526,
-      "num": 98526,
-      "word": "兽皮痣无法通过产检提前发现",
-      "onboard_time": 1763345600,
-      "rank": 42,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 98068,
@@ -3713,6 +3865,14 @@
       "onboard_time": 1763281522,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 88040,
+      "num": 187507,
+      "word": "乒乓球男团北京vs江苏",
+      "onboard_time": 1763347940,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 87346,
@@ -4115,6 +4275,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 55080,
+      "num": 376708,
+      "word": "高市早苗4天3上新闻联播",
+      "onboard_time": 1763348841,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54097,
       "num": 74906,
       "word": "陈思诚 不抛弃不放弃",
@@ -4139,6 +4307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 53642,
+      "num": 130674,
+      "word": "高志凯建议禁止向日本出口稀土",
+      "onboard_time": 1763349801,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53563,
       "num": 59832,
       "word": "女生骑车被未拴绳狗绊倒抽搐",
@@ -4147,12 +4323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 53163,
-      "num": 202933,
-      "word": "日本高官来华解释高市言论",
-      "onboard_time": 1763345600,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 53049,
+      "num": 377564,
+      "word": "横扫硅谷的千问杀回国内",
+      "onboard_time": 1763348421,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 53048,
@@ -4227,12 +4403,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48162,
+      "num": 385492,
+      "word": "日本各界人士批评高市错误言论",
+      "onboard_time": 1763349081,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 45595,
       "num": 45595,
       "word": "辛芷蕾金鸡奖红毯笑得好开心",
       "onboard_time": 1763243294,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 44933,
+      "num": 142809,
+      "word": "胡歌不收礼除非是大湾鸡",
+      "onboard_time": 1763349801,
+      "rank": 42,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 44710,
@@ -4612,7 +4804,7 @@
     },
     {
       "raw_hot": 28466,
-      "num": 61228,
+      "num": 884352,
       "word": "一起看全运会",
       "onboard_time": 1763314216,
       "rank": 47,
@@ -4721,6 +4913,22 @@
       "onboard_time": 1763285301,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23307,
+      "num": 376454,
+      "word": "声鸣远扬淘汰金钟奖第一名",
+      "onboard_time": 1763349201,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 22418,
+      "num": 166525,
+      "word": "中国公民若在日本遭遇不法侵害怎么办",
+      "onboard_time": 1763349081,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22345,
@@ -4855,6 +5063,9 @@
     },
     {
       "word": "#总书记引领法治中国建设阔步前行#"
+    },
+    {
+      "word": "#传统产业改造升级也能发展新质生产力#"
     }
   ]
 }
