@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763418398880,
+  "endTime": 1763419373007,
   "band_list": [
     {
       "raw_hot": 628933,
@@ -51,20 +51,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 319712,
+      "num": 506778,
+      "word": "日方称向中方提抗议",
+      "onboard_time": 1763388504,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 308670,
       "num": 155041,
       "word": "70后户外网红博主坠崖身亡",
       "onboard_time": 1763393721,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 307212,
-      "num": 407937,
-      "word": "日方称向中方提抗议",
-      "onboard_time": 1763388504,
-      "rank": 6,
-      "category": "国际时政"
     },
     {
       "raw_hot": 261742,
@@ -115,6 +115,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 180002,
+      "num": 39137,
+      "word": "业主卖房时发现地下室被人占用多年",
+      "onboard_time": 1763413814,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173871,
       "num": 107031,
       "word": "不要删掉讨厌的人的微信",
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 165190,
-      "num": 123341,
+      "num": 159239,
       "word": "曝iPhone17 Pro Max被湿巾擦掉色",
       "onboard_time": 1763388262,
       "rank": 23,
@@ -187,14 +195,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126447,
-      "num": 31074,
-      "word": "业主卖房时发现地下室被人占用多年",
-      "onboard_time": 1763413814,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122741,
       "num": 122741,
       "word": "李雪琴早就知道董璇张维伊在一起",
@@ -211,20 +211,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 112656,
+      "num": 112656,
+      "word": "暂缓日本进口影片上映",
+      "onboard_time": 1763412493,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111781,
       "num": 111781,
       "word": "张博恒总结全运会",
       "onboard_time": 1763396358,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105189,
-      "num": 105189,
-      "word": "暂缓日本进口影片上映",
-      "onboard_time": 1763412493,
-      "rank": 10,
-      "category": "电影"
     },
     {
       "raw_hot": 103193,
@@ -403,6 +403,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 58237,
+      "num": 58237,
+      "word": "董璇回应张维伊喊小酒窝窝子",
+      "onboard_time": 1763415914,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 57436,
+      "num": 57436,
+      "word": "孙颖莎1比3落后出去换了件衣服",
+      "onboard_time": 1763400556,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57308,
       "num": 61831,
       "word": "汪顺400混4连冠",
@@ -436,27 +452,11 @@
     },
     {
       "raw_hot": 42023,
-      "num": 31074,
+      "num": 39050,
       "word": "好东西2 陈思诚提问邵艺辉",
       "onboard_time": 1763408594,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 41826,
-      "num": 41826,
-      "word": "孙颖莎1比3落后出去换了件衣服",
-      "onboard_time": 1763400556,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 37012,
-      "num": 37012,
-      "word": "董璇回应张维伊喊小酒窝窝子",
-      "onboard_time": 1763415914,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 34140,
@@ -465,6 +465,22 @@
       "onboard_time": 1763400436,
       "rank": 38,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 33365,
+      "num": 39353,
+      "word": "谁能想到这个小男孩长大后会是影帝呢",
+      "onboard_time": 1763416753,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 32531,
+      "num": 39043,
+      "word": "中方回应日本外务省高官访华",
+      "onboard_time": 1763405295,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31862,
@@ -476,7 +492,7 @@
     },
     {
       "raw_hot": 29889,
-      "num": 36919,
+      "num": 53142,
       "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
       "onboard_time": 1763403855,
       "rank": 44,
@@ -491,19 +507,19 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 29360,
-      "num": 31074,
-      "word": "中方回应日本外务省高官访华",
-      "onboard_time": 1763405295,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 25723,
-      "num": 37068,
+      "raw_hot": 29002,
+      "num": 55190,
       "word": "现在就出发",
       "onboard_time": 1763403555,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 23471,
+      "num": 50528,
+      "word": "王一博探索新境2北美攀岩总宣",
+      "onboard_time": 1763401875,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -515,24 +531,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21909,
-      "num": 36935,
-      "word": "王一博探索新境2北美攀岩总宣",
-      "onboard_time": 1763401875,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 21568,
-      "num": 31074,
-      "word": "谁能想到这个小男孩长大后会是影帝呢",
-      "onboard_time": 1763416753,
-      "rank": 29,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 20206,
-      "num": 31073,
+      "raw_hot": 20949,
+      "num": 39036,
       "word": "曾轶可团队怒怼前员工双标",
       "onboard_time": 1763408894,
       "rank": 27,
@@ -540,7 +540,7 @@
     },
     {
       "raw_hot": 19175,
-      "num": 31073,
+      "num": 39029,
       "word": "王一博活出生命的极致",
       "onboard_time": 1763417715,
       "rank": 38,
@@ -564,7 +564,7 @@
     },
     {
       "raw_hot": 18344,
-      "num": 31073,
+      "num": 39028,
       "word": "高市早苗在涉台问题上劣迹斑斑",
       "onboard_time": 1763406674,
       "rank": 39,
@@ -572,7 +572,7 @@
     },
     {
       "raw_hot": 18174,
-      "num": 31770,
+      "num": 39031,
       "word": "国防部回应美对台军售",
       "onboard_time": 1763402834,
       "rank": 46,
@@ -587,8 +587,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 13644,
-      "num": 20096,
+      "raw_hot": 15628,
+      "num": 39025,
       "word": "医生称冻胚理论上可无限期保存",
       "onboard_time": 1763412073,
       "rank": 38,
