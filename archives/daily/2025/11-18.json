@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763405469646,
+  "endTime": 1763407331513,
   "band_list": [
     {
       "raw_hot": 628933,
@@ -443,6 +443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29889,
+      "num": 31792,
+      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
+      "onboard_time": 1763403855,
+      "rank": 44,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 29730,
       "num": 41717,
       "word": "川渝人才知道她演的有多真实",
@@ -451,12 +459,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 22891,
-      "num": 31792,
-      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
-      "onboard_time": 1763403855,
-      "rank": 44,
-      "category": "电影,动漫"
+      "raw_hot": 25723,
+      "num": 37068,
+      "word": "现在就出发",
+      "onboard_time": 1763403555,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 22738,
@@ -467,12 +475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 21521,
-      "num": 37068,
-      "word": "现在就出发",
-      "onboard_time": 1763403555,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 21392,
+      "num": 21392,
+      "word": "中方回应日本外务省高官访华",
+      "onboard_time": 1763405295,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19050,
@@ -496,6 +504,30 @@
       "word": "刘宇宁丝绒真空西装",
       "onboard_time": 1763405174,
       "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 16611,
+      "num": 18919,
+      "word": "高市早苗在涉台问题上劣迹斑斑",
+      "onboard_time": 1763406674,
+      "rank": 39,
+      "category": "民生新闻,国内时政"
+    },
+    {
+      "raw_hot": 15355,
+      "num": 28900,
+      "word": "迪丽热巴真的好勇",
+      "onboard_time": 1763406555,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12751,
+      "num": 18863,
+      "word": "周深演唱会唱了许嵩的庐州月",
+      "onboard_time": 1763401456,
+      "rank": 49,
       "category": "演出"
     }
   ],

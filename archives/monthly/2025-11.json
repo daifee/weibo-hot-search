@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763405469646,
+  "endTime": 1763407331513,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -59563,6 +59563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29889,
+      "num": 31792,
+      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
+      "onboard_time": 1763403855,
+      "rank": 44,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 29884,
       "num": 203602,
       "word": "黄子弘凡演唱会后台小法宝",
@@ -60827,14 +60835,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 22891,
-      "num": 31792,
-      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
-      "onboard_time": 1763403855,
-      "rank": 44,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 22865,
       "num": 189864,
       "word": "起底快通门票套餐陷阱",
@@ -61001,6 +61001,14 @@
       "onboard_time": 1762226900,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21392,
+      "num": 21392,
+      "word": "中方回应日本外务省高官访华",
+      "onboard_time": 1763405295,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21383,
@@ -61851,6 +61859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16611,
+      "num": 18919,
+      "word": "高市早苗在涉台问题上劣迹斑斑",
+      "onboard_time": 1763406674,
+      "rank": 39,
+      "category": "民生新闻,国内时政"
+    },
+    {
       "raw_hot": 16501,
       "num": 102695,
       "word": "曝TheShy和Rookie续约iG",
@@ -61945,6 +61961,14 @@
       "onboard_time": 1762459994,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15355,
+      "num": 28900,
+      "word": "迪丽热巴真的好勇",
+      "onboard_time": 1763406555,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 15327,
@@ -62297,6 +62321,14 @@
       "onboard_time": 1762283174,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12751,
+      "num": 18863,
+      "word": "周深演唱会唱了许嵩的庐州月",
+      "onboard_time": 1763401456,
+      "rank": 49,
+      "category": "演出"
     },
     {
       "raw_hot": 12643,

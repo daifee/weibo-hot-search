@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/18 02:51:09
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/18 03:22:11
 </p>
 </blockquote>
 <p>
@@ -5607,6 +5607,12 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E5%89%A7%E5%9C%BA%E7%89%88%E6%9A%82%E5%B1%85%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E6%A6%9C%E7%AC%AC5%23" target="weibo">
+鬼灭之刃剧场版暂居全球票房年榜第5（热度：29889）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%9D%E6%B8%9D%E4%BA%BA%E6%89%8D%E7%9F%A5%E9%81%93%E5%A5%B9%E6%BC%94%E7%9A%84%E6%9C%89%E5%A4%9A%E7%9C%9F%E5%AE%9E%23" target="weibo">
 川渝人才知道她演的有多真实（热度：29730）
 </a>
@@ -5739,12 +5745,6 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E5%89%A7%E5%9C%BA%E7%89%88%E6%9A%82%E5%B1%85%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E6%A6%9C%E7%AC%AC5%23" target="weibo">
-鬼灭之刃剧场版暂居全球票房年榜第5（热度：22891）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E5%BF%AB%E9%80%9A%E9%97%A8%E7%A5%A8%E5%A5%97%E9%A4%90%E9%99%B7%E9%98%B1%23" target="weibo">
 起底快通门票套餐陷阱（热度：22865）
 </a>
@@ -5759,6 +5759,12 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%83%B3%E5%81%9A%E5%85%A8%E7%90%83%E7%94%9F%E6%84%8F%E5%8D%8A%E5%B9%B4%E8%A2%AB%E9%AA%97160%E4%B8%87%23" target="weibo">
 男子想做全球生意半年被骗160万（热度：22258）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E9%AB%98%E5%AE%98%E8%AE%BF%E5%8D%8E%23" target="weibo">
+中方回应日本外务省高官访华（热度：21392）
 </a>
 </li>
 
@@ -5859,8 +5865,20 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9C%A8%E6%B6%89%E5%8F%B0%E9%97%AE%E9%A2%98%E4%B8%8A%E5%8A%A3%E8%BF%B9%E6%96%91%E6%96%91%23" target="weibo">
+高市早苗在涉台问题上劣迹斑斑（热度：16611）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E8%B5%B0%E7%9A%84%E5%86%B3%E5%BF%83%23" target="weibo">
 出走的决心（热度：16385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E7%9C%9F%E7%9A%84%E5%A5%BD%E5%8B%87%23" target="weibo">
+迪丽热巴真的好勇（热度：15355）
 </a>
 </li>
 
@@ -5897,6 +5915,12 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%B8%E5%85%B3%E9%83%A8%E9%97%A8%E5%9B%9E%E5%BA%94%E7%A6%8F%E5%BB%BA%E4%B8%80%E5%B8%82%E5%9C%BA%E7%8E%B0%E5%AE%B0%E6%B4%BB%E7%8C%AB%E5%94%AE%E5%8D%96%23" target="weibo">
 相关部门回应福建一市场现宰活猫售卖（热度：13467）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E6%BC%94%E5%94%B1%E4%BC%9A%E5%94%B1%E4%BA%86%E8%AE%B8%E5%B5%A9%E7%9A%84%E5%BA%90%E5%B7%9E%E6%9C%88%23" target="weibo">
+周深演唱会唱了许嵩的庐州月（热度：12751）
 </a>
 </li>
 
