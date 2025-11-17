@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763361618482,
+  "endTime": 1763362411042,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -379,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 655038,
+      "num": 655038,
+      "word": "中国强烈回应震动日本",
+      "onboard_time": 1763360483,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 652461,
       "num": 270381,
       "word": "陈思诚 表情",
@@ -596,7 +604,7 @@
     },
     {
       "raw_hot": 499605,
-      "num": 232451,
+      "num": 238601,
       "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
       "onboard_time": 1763358321,
       "rank": 21,
@@ -633,6 +641,14 @@
       "onboard_time": 1763223443,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 480793,
+      "num": 261984,
+      "word": "张凌赫 我不是人啊",
+      "onboard_time": 1763356942,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 473261,
@@ -753,14 +769,6 @@
       "onboard_time": 1763281822,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 446277,
-      "num": 261984,
-      "word": "张凌赫 我不是人啊",
-      "onboard_time": 1763356942,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 440306,
@@ -995,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 364314,
+      "num": 237145,
+      "word": "我国死亡率最高的恶性肿瘤",
+      "onboard_time": 1763358681,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 362930,
       "num": 221369,
       "word": "曾轶可",
@@ -1105,14 +1121,6 @@
       "onboard_time": 1763356042,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334194,
-      "num": 231976,
-      "word": "我国死亡率最高的恶性肿瘤",
-      "onboard_time": 1763358681,
-      "rank": 23,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 331354,
@@ -1323,14 +1331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 287658,
-      "num": 287658,
-      "word": "中国强烈回应震动日本",
-      "onboard_time": 1763360483,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 287527,
       "num": 211097,
       "word": "全运会乒乓球单打铜牌赛",
@@ -1433,6 +1433,14 @@
       "onboard_time": 1763350822,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267108,
+      "num": 244336,
+      "word": "陈梦回应戴项链参加比赛",
+      "onboard_time": 1763359882,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 266608,
@@ -1587,12 +1595,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235070,
+      "num": 237627,
+      "word": "尾号11111111手机靓号120万起拍",
+      "onboard_time": 1763360540,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 235035,
       "num": 392315,
       "word": "白桃星座",
       "onboard_time": 1763304985,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234047,
+      "num": 234047,
+      "word": "日媒叫嚣击沉福建舰",
+      "onboard_time": 1763359761,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 232016,
@@ -1633,14 +1657,6 @@
       "onboard_time": 1763282002,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 225783,
-      "num": 225783,
-      "word": "日媒叫嚣击沉福建舰",
-      "onboard_time": 1763359761,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223912,
@@ -1729,14 +1745,6 @@
       "onboard_time": 1763267001,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211605,
-      "num": 211605,
-      "word": "陈梦回应戴项链参加比赛",
-      "onboard_time": 1763359882,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 209986,
@@ -1963,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195139,
+      "num": 195139,
+      "word": "下下下个月的今天就是大年初一",
+      "onboard_time": 1763357840,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195097,
       "num": 195097,
       "word": "文旅部发布赴日旅游提示",
@@ -1995,6 +2011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192892,
+      "num": 192892,
+      "word": "林允 天亮了",
+      "onboard_time": 1763361501,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 192414,
       "num": 151817,
       "word": "孙颖莎首局11比7",
@@ -2009,14 +2033,6 @@
       "onboard_time": 1763217987,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 191322,
-      "num": 191322,
-      "word": "下下下个月的今天就是大年初一",
-      "onboard_time": 1763357840,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191203,
@@ -2971,12 +2987,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 145639,
+      "num": 145639,
+      "word": "光遇",
+      "onboard_time": 1763362221,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145149,
       "num": 145149,
       "word": "吃货老了之后还是吃货",
       "onboard_time": 1763348720,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 144987,
+      "num": 144987,
+      "word": "卫健委回应5月龄女婴心脏手术离世",
+      "onboard_time": 1763361982,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144932,
@@ -3443,14 +3475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125343,
-      "num": 125343,
-      "word": "林允 天亮了",
-      "onboard_time": 1763361501,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 125058,
       "num": 147556,
       "word": "张博恒是发烧了",
@@ -3507,6 +3531,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 123733,
+      "num": 123733,
+      "word": "沈佳润带爸爸玩偶打卡音银楼梯",
+      "onboard_time": 1763361982,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 123244,
       "num": 123244,
       "word": "中方对日迎头痛击如何击有多痛",
@@ -3531,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122524,
+      "num": 122524,
+      "word": "Gala回应LCK集训",
+      "onboard_time": 1763361501,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 121958,
       "num": 146500,
       "word": "宁静评价最像明楼的短剧演员",
@@ -3545,14 +3585,6 @@
       "onboard_time": 1763292500,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 121917,
-      "num": 121917,
-      "word": "Gala回应LCK集训",
-      "onboard_time": 1763361501,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 121780,
@@ -3889,6 +3921,14 @@
       "onboard_time": 1763282302,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113544,
+      "num": 241876,
+      "word": "专家回应村民盗水吸金年入百万",
+      "onboard_time": 1763360783,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112093,
@@ -4507,14 +4547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87838,
-      "num": 241876,
-      "word": "专家回应村民盗水吸金年入百万",
-      "onboard_time": 1763360783,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87346,
       "num": 91767,
       "word": "今天乒乓球单打决赛日",
@@ -4619,6 +4651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84926,
+      "num": 145251,
+      "word": "上海女排3比0河南女排",
+      "onboard_time": 1763362101,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84426,
       "num": 91081,
       "word": "巴厘岛车祸租车公司老板失联",
@@ -4712,6 +4752,14 @@
       "word": "日本5公斤装大米均价约198元",
       "onboard_time": 1763262620,
       "rank": 46,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 76111,
+      "num": 144992,
+      "word": "23岁美国男大疑被AI诱导自杀",
+      "onboard_time": 1763362161,
+      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -4924,7 +4972,7 @@
     },
     {
       "raw_hot": 61283,
-      "num": 235551,
+      "num": 239060,
       "word": "荣耀500为什么叫超级标准版",
       "onboard_time": 1763359402,
       "rank": 19,
@@ -4961,6 +5009,14 @@
       "onboard_time": 1763296824,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59213,
+      "num": 145119,
+      "word": "大湾鸡史上最正经演出",
+      "onboard_time": 1763361201,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 56308,
@@ -5008,14 +5064,6 @@
       "word": "女生骑车被未拴绳狗绊倒抽搐",
       "onboard_time": 1763336239,
       "rank": 33,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53133,
-      "num": 237627,
-      "word": "尾号11111111手机靓号120万起拍",
-      "onboard_time": 1763360540,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5347,6 +5395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36627,
+      "num": 240220,
+      "word": "特朗普支持公布爱泼斯坦文件",
+      "onboard_time": 1763361740,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36240,
       "num": 97157,
       "word": "景区回应驴友挂在南太行山绝壁打卡",
@@ -5417,14 +5473,6 @@
       "onboard_time": 1763301622,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34152,
-      "num": 140290,
-      "word": "大湾鸡史上最正经演出",
-      "onboard_time": 1763361201,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 33944,
