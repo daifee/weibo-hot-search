@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763336341620,
+  "endTime": 1763344816577,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -155,6 +155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1093728,
+      "num": 1174996,
+      "word": "日媒称中方措施超出日本预期",
+      "onboard_time": 1763336900,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 980237,
       "num": 241866,
       "word": "黄觉 易烊千玺唯一的站哥",
@@ -169,6 +177,14 @@
       "onboard_time": 1763214149,
       "rank": 20,
       "category": "电影"
+    },
+    {
+      "raw_hot": 943106,
+      "num": 943106,
+      "word": "日本被首相拖入国家危机",
+      "onboard_time": 1763337861,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 935788,
@@ -193,6 +209,14 @@
       "onboard_time": 1763287881,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 857992,
+      "num": 268957,
+      "word": "张艺谋曾说金鸡奖是全世界最难拿的奖",
+      "onboard_time": 1763342000,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 842015,
@@ -257,6 +281,14 @@
       "onboard_time": 1763214998,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 758109,
+      "num": 758109,
+      "word": "余承东官宣华为Mate80发布会",
+      "onboard_time": 1763342541,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 687202,
@@ -345,6 +377,22 @@
       "onboard_time": 1763297241,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 592523,
+      "num": 592523,
+      "word": "高市早苗鼓吹日本人优先",
+      "onboard_time": 1763337079,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 581955,
+      "num": 581955,
+      "word": "雷军辟谣",
+      "onboard_time": 1763341401,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 571345,
@@ -467,6 +515,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 473261,
+      "num": 583908,
+      "word": "东京突发持刀伤人事件1人受伤",
+      "onboard_time": 1763340562,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 471280,
       "num": 471280,
       "word": "王曼昱比肩邓亚萍张怡宁",
@@ -585,6 +641,14 @@
       "onboard_time": 1763252060,
       "rank": 1,
       "category": "电影"
+    },
+    {
+      "raw_hot": 404384,
+      "num": 404384,
+      "word": "枭起青壤",
+      "onboard_time": 1763221224,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 401869,
@@ -979,12 +1043,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 288475,
+      "num": 288475,
+      "word": "杨超越备菜像开了倍速",
+      "onboard_time": 1763342361,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 287527,
       "num": 211097,
       "word": "全运会乒乓球单打铜牌赛",
       "onboard_time": 1763262201,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 283735,
+      "num": 102850,
+      "word": "章子怡带孩子们聚餐",
+      "onboard_time": 1763341521,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 280713,
@@ -1065,6 +1145,14 @@
       "onboard_time": 1763266701,
       "rank": 31,
       "category": "美食"
+    },
+    {
+      "raw_hot": 258066,
+      "num": 258066,
+      "word": "被通缉台独网红叫嚣悬赏金太少",
+      "onboard_time": 1763337500,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 258043,
@@ -1497,6 +1585,14 @@
       "onboard_time": 1763270421,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190683,
+      "num": 102114,
+      "word": "华为Mate80系列11月25日发布",
+      "onboard_time": 1763344401,
+      "rank": 22,
+      "category": "数码"
     },
     {
       "raw_hot": 190654,
@@ -1995,6 +2091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155256,
+      "num": 101447,
+      "word": "iPhone内存你可能一直清理错了",
+      "onboard_time": 1763342000,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 155078,
       "num": 155078,
       "word": "徐嘉余回应打破全国纪录",
@@ -2107,6 +2211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148534,
+      "num": 148534,
+      "word": "李晨穿了白鹿的衣服",
+      "onboard_time": 1763337198,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 148306,
       "num": 160525,
       "word": "季肖冰唐诡3唯一事业脑",
@@ -2209,14 +2321,6 @@
       "onboard_time": 1763253681,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143705,
-      "num": 143705,
-      "word": "枭起青壤",
-      "onboard_time": 1763221224,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 143594,
@@ -2603,6 +2707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124483,
+      "num": 101306,
+      "word": "美航母打击群进入加勒比海",
+      "onboard_time": 1763340921,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124192,
       "num": 124192,
       "word": "上海队合影樊振东",
@@ -2617,6 +2729,14 @@
       "onboard_time": 1763312778,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124008,
+      "num": 124008,
+      "word": "喜人奇妙夜 鬼灭之刃",
+      "onboard_time": 1763336539,
+      "rank": 16,
+      "category": "综艺,动漫"
     },
     {
       "raw_hot": 123244,
@@ -2713,6 +2833,14 @@
       "onboard_time": 1763300603,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120444,
+      "num": 100679,
+      "word": "王楚钦回应三届止步半决赛",
+      "onboard_time": 1763343623,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 120304,
@@ -2969,6 +3097,14 @@
       "onboard_time": 1763298381,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111130,
+      "num": 100515,
+      "word": "人生中第一次摸了100条狗",
+      "onboard_time": 1763342241,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 110577,
@@ -3235,6 +3371,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102087,
+      "num": 100327,
+      "word": "陈梦说可能是和朱雨玲最后一次交手",
+      "onboard_time": 1763340441,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101460,
+      "num": 101460,
+      "word": "王一博探索新境2定档",
+      "onboard_time": 1763344520,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101199,
       "num": 101199,
       "word": "竞技体育柔情的一面",
@@ -3259,12 +3411,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100273,
+      "num": 100273,
+      "word": "打工人是会哄自己上班的",
+      "onboard_time": 1763342720,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99949,
       "num": 99949,
       "word": "蔡徐坤美国版GQ采访",
       "onboard_time": 1763280921,
       "rank": 45,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99447,
+      "num": 99447,
+      "word": "高市早苗探讨修改无核三原则",
+      "onboard_time": 1763344760,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99442,
@@ -3313,6 +3481,14 @@
       "onboard_time": 1763291781,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96647,
+      "num": 96647,
+      "word": "经常喝奶茶会让血管长斑",
+      "onboard_time": 1763336599,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95937,
@@ -3395,6 +3571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90513,
+      "num": 90513,
+      "word": "金灿荣称中国在大国里脾气是最好的",
+      "onboard_time": 1763337681,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 90283,
       "num": 139457,
       "word": "字母哥一人打一片",
@@ -3435,11 +3619,51 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87965,
+      "num": 87965,
+      "word": "南北方吃油条的差异",
+      "onboard_time": 1763343559,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 87536,
+      "num": 87536,
+      "word": "防窥膜 伤眼睛",
+      "onboard_time": 1763343379,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 87346,
       "num": 91767,
       "word": "今天乒乓球单打决赛日",
       "onboard_time": 1763257282,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87308,
+      "num": 87308,
+      "word": "汪顺张展硕张雨霏等再出战",
+      "onboard_time": 1763344520,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87184,
+      "num": 87184,
+      "word": "若中国游客减少将影响日本经济",
+      "onboard_time": 1763344700,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86583,
+      "num": 99083,
+      "word": "勇士vs鹈鹕",
+      "onboard_time": 1763344640,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3465,6 +3689,14 @@
       "onboard_time": 1763264061,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86079,
+      "num": 86079,
+      "word": "苹果未来2年产品发布节奏",
+      "onboard_time": 1763344580,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 85899,
@@ -3499,12 +3731,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 85090,
+      "num": 85090,
+      "word": "王曼昱说我和莎莎都比上一个四年更好了",
+      "onboard_time": 1763339901,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84426,
+      "num": 91081,
+      "word": "巴厘岛车祸租车公司老板失联",
+      "onboard_time": 1763342779,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82674,
       "num": 82674,
       "word": "澎湖海战",
       "onboard_time": 1763224880,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81323,
+      "num": 81323,
+      "word": "Kael蹲在角落发呆",
+      "onboard_time": 1763341521,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 78526,
@@ -3707,6 +3963,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61570,
+      "num": 96682,
+      "word": "高市早苗31年前质问村山富市",
+      "onboard_time": 1763343981,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60731,
+      "num": 829350,
+      "word": "任性宣泄不可取两名当事人被行政拘留",
+      "onboard_time": 1763343441,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60646,
       "num": 158033,
       "word": "周翊然第一章白月光出国",
@@ -3793,6 +4065,14 @@
       "onboard_time": 1763235494,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52936,
+      "num": 97798,
+      "word": "交警回应儿童坐在行驶汽车车顶",
+      "onboard_time": 1763343981,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51725,
@@ -4409,6 +4689,14 @@
       "onboard_time": 1763217328,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14914,
+      "num": 98263,
+      "word": "高市早苗闹剧将如何收场",
+      "onboard_time": 1763344161,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14874,

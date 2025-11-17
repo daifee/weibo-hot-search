@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763336341620,
+  "endTime": 1763344816577,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -11,12 +11,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1093728,
+      "num": 1174996,
+      "word": "日媒称中方措施超出日本预期",
+      "onboard_time": 1763336900,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1055628,
       "num": 413826,
       "word": "孙颖莎vs王曼昱",
       "onboard_time": 1763298261,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 943106,
+      "num": 943106,
+      "word": "日本被首相拖入国家危机",
+      "onboard_time": 1763337861,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 857992,
+      "num": 268957,
+      "word": "张艺谋曾说金鸡奖是全世界最难拿的奖",
+      "onboard_time": 1763342000,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 758109,
+      "num": 758109,
+      "word": "余承东官宣华为Mate80发布会",
+      "onboard_time": 1763342541,
+      "rank": 3,
+      "category": "数码"
     },
     {
       "raw_hot": 616522,
@@ -35,6 +67,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 592523,
+      "num": 592523,
+      "word": "高市早苗鼓吹日本人优先",
+      "onboard_time": 1763337079,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 582952,
       "num": 582952,
       "word": "孙颖莎亚军",
@@ -43,12 +83,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 581955,
+      "num": 581955,
+      "word": "雷军辟谣",
+      "onboard_time": 1763341401,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 488815,
       "num": 357425,
       "word": "高市早苗被喊话向中国道歉",
       "onboard_time": 1763306246,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 473261,
+      "num": 583908,
+      "word": "东京突发持刀伤人事件1人受伤",
+      "onboard_time": 1763340562,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 473099,
@@ -75,12 +131,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 404384,
+      "num": 404384,
+      "word": "枭起青壤",
+      "onboard_time": 1763335158,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 386850,
       "num": 238831,
       "word": "张杰陈楚生实绩",
       "onboard_time": 1763308880,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 288475,
+      "num": 288475,
+      "word": "杨超越备菜像开了倍速",
+      "onboard_time": 1763342361,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 283735,
+      "num": 102850,
+      "word": "章子怡带孩子们聚餐",
+      "onboard_time": 1763341521,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 280713,
@@ -105,6 +185,14 @@
       "onboard_time": 1763307682,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 258066,
+      "num": 258066,
+      "word": "被通缉台独网红叫嚣悬赏金太少",
+      "onboard_time": 1763337500,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 251663,
@@ -139,6 +227,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 190683,
+      "num": 102114,
+      "word": "华为Mate80系列11月25日发布",
+      "onboard_time": 1763344401,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
       "raw_hot": 184993,
       "num": 403691,
       "word": "央视曝光6666元包教包会养伤人蜂",
@@ -171,12 +267,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 155256,
+      "num": 101447,
+      "word": "iPhone内存你可能一直清理错了",
+      "onboard_time": 1763342000,
+      "rank": 25,
+      "category": "数码"
+    },
+    {
       "raw_hot": 154834,
       "num": 111332,
       "word": "孙颖莎说王曼昱是最尊敬的对手",
       "onboard_time": 1763312178,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 148534,
+      "num": 148534,
+      "word": "李晨穿了白鹿的衣服",
+      "onboard_time": 1763337198,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 131226,
@@ -219,12 +331,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 124483,
+      "num": 101306,
+      "word": "美航母打击群进入加勒比海",
+      "onboard_time": 1763340921,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 124176,
       "num": 108076,
       "word": "王曼昱孙颖莎陈梦都拿了粉色大湾鸡",
       "onboard_time": 1763312778,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124008,
+      "num": 124008,
+      "word": "喜人奇妙夜 鬼灭之刃",
+      "onboard_time": 1763336539,
+      "rank": 16,
+      "category": "综艺,动漫"
     },
     {
       "raw_hot": 121542,
@@ -235,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 120444,
+      "num": 100679,
+      "word": "王楚钦回应三届止步半决赛",
+      "onboard_time": 1763343623,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120028,
       "num": 295429,
       "word": "宋雨琦教陈信宏跳舞",
       "onboard_time": 1763301684,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 118900,
+      "num": 257552,
+      "word": "减肥对圆脸的面部影响有多大",
+      "onboard_time": 1763304264,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 115860,
@@ -265,6 +409,14 @@
       "onboard_time": 1763288841,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111130,
+      "num": 100515,
+      "word": "人生中第一次摸了100条狗",
+      "onboard_time": 1763342241,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 108350,
@@ -323,12 +475,44 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 101414,
-      "num": 257552,
-      "word": "减肥对圆脸的面部影响有多大",
-      "onboard_time": 1763304264,
-      "rank": 32,
-      "category": "运动健身"
+      "raw_hot": 103155,
+      "num": 103155,
+      "word": "刘德华解冻75%",
+      "onboard_time": 1763303063,
+      "rank": 44,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102087,
+      "num": 100327,
+      "word": "陈梦说可能是和朱雨玲最后一次交手",
+      "onboard_time": 1763340441,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101460,
+      "num": 101460,
+      "word": "王一博探索新境2定档",
+      "onboard_time": 1763344520,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100273,
+      "num": 100273,
+      "word": "打工人是会哄自己上班的",
+      "onboard_time": 1763342720,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 99447,
+      "num": 99447,
+      "word": "高市早苗探讨修改无核三原则",
+      "onboard_time": 1763344760,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97014,
@@ -337,6 +521,14 @@
       "onboard_time": 1763303963,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 96647,
+      "num": 96647,
+      "word": "经常喝奶茶会让血管长斑",
+      "onboard_time": 1763336599,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 95065,
@@ -363,12 +555,68 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90513,
+      "num": 90513,
+      "word": "金灿荣称中国在大国里脾气是最好的",
+      "onboard_time": 1763337681,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 87965,
+      "num": 87965,
+      "word": "南北方吃油条的差异",
+      "onboard_time": 1763343559,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 87536,
+      "num": 87536,
+      "word": "防窥膜 伤眼睛",
+      "onboard_time": 1763343379,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 87308,
+      "num": 87308,
+      "word": "汪顺张展硕张雨霏等再出战",
+      "onboard_time": 1763344520,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87184,
+      "num": 87184,
+      "word": "若中国游客减少将影响日本经济",
+      "onboard_time": 1763344700,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86583,
+      "num": 99083,
+      "word": "勇士vs鹈鹕",
+      "onboard_time": 1763344640,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86545,
       "num": 257787,
       "word": "刘耀文新歌SAUCE预告",
       "onboard_time": 1763310979,
       "rank": 28,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 86079,
+      "num": 86079,
+      "word": "苹果未来2年产品发布节奏",
+      "onboard_time": 1763344580,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 85748,
@@ -379,6 +627,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85090,
+      "num": 85090,
+      "word": "王曼昱说我和莎莎都比上一个四年更好了",
+      "onboard_time": 1763339901,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84426,
+      "num": 91081,
+      "word": "巴厘岛车祸租车公司老板失联",
+      "onboard_time": 1763342779,
+      "rank": 41,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 83160,
       "num": 254205,
       "word": "让脸变好看的8个动作",
@@ -387,20 +651,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 81323,
+      "num": 81323,
+      "word": "Kael蹲在角落发呆",
+      "onboard_time": 1763341521,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 81117,
+      "num": 251980,
+      "word": "中央戏剧学院祝贺易烊千玺",
+      "onboard_time": 1763303841,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 78378,
       "num": 252269,
       "word": "唐诡3纯坏但纯爱的一对",
       "onboard_time": 1763292803,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76916,
-      "num": 251980,
-      "word": "中央戏剧学院祝贺易烊千玺",
-      "onboard_time": 1763303841,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 73672,
@@ -417,14 +689,6 @@
       "onboard_time": 1763307441,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72616,
-      "num": 92670,
-      "word": "枭起青壤",
-      "onboard_time": 1763335158,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 71928,
@@ -499,6 +763,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 61570,
+      "num": 96682,
+      "word": "高市早苗31年前质问村山富市",
+      "onboard_time": 1763343981,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 60731,
+      "num": 829350,
+      "word": "任性宣泄不可取两名当事人被行政拘留",
+      "onboard_time": 1763343441,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55209,
       "num": 250228,
       "word": "大黄鱼怎么哼唧哼唧的",
@@ -523,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52936,
+      "num": 97798,
+      "word": "交警回应儿童坐在行驶汽车车顶",
+      "onboard_time": 1763343981,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52585,
       "num": 59807,
       "word": "小学教师减少小班化教学该推进了",
@@ -537,14 +825,6 @@
       "onboard_time": 1763335580,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39485,
-      "num": 59708,
-      "word": "刘德华解冻75%",
-      "onboard_time": 1763303063,
-      "rank": 44,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 39316,
@@ -721,6 +1001,14 @@
       "onboard_time": 1763303242,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14914,
+      "num": 98263,
+      "word": "高市早苗闹剧将如何收场",
+      "onboard_time": 1763344161,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14540,
