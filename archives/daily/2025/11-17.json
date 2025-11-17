@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763384082069,
+  "endTime": 1763384973244,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -235,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 653404,
+      "num": 653404,
+      "word": "T1 Peyz",
+      "onboard_time": 1763383041,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 626723,
       "num": 446141,
       "word": "22岁帮家里卖完12万副眼镜",
@@ -419,6 +427,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 487406,
+      "num": 263167,
+      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+      "onboard_time": 1763382441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 480793,
       "num": 261984,
       "word": "张凌赫 我不是人啊",
@@ -460,7 +476,7 @@
     },
     {
       "raw_hot": 471183,
-      "num": 471183,
+      "num": 609351,
       "word": "张展硕退赛",
       "onboard_time": 1763381601,
       "rank": 5,
@@ -481,6 +497,14 @@
       "onboard_time": 1763349801,
       "rank": 42,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 460327,
+      "num": 345079,
+      "word": "Gumayusi HLE",
+      "onboard_time": 1763383402,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 453553,
@@ -561,14 +585,6 @@
       "onboard_time": 1763347580,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 412099,
-      "num": 263167,
-      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
-      "onboard_time": 1763382441,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 407495,
@@ -659,14 +675,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 359647,
-      "num": 359647,
-      "word": "T1 Peyz",
-      "onboard_time": 1763383041,
-      "rank": 7,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 358190,
       "num": 276199,
       "word": "迪丽热巴边吃零食边摸蛇",
@@ -675,11 +683,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 345079,
-      "num": 345079,
-      "word": "Gumayusi HLE",
+      "raw_hot": 342176,
+      "num": 206058,
+      "word": "Viper去哪儿",
       "onboard_time": 1763383402,
-      "rank": 8,
+      "rank": 35,
       "category": "电竞"
     },
     {
@@ -1011,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 210727,
+      "num": 204771,
+      "word": "日本酒店退订潮",
+      "onboard_time": 1763383582,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 208882,
       "num": 208882,
       "word": "当易烊千玺听到有人喊自己烊烊",
@@ -1123,6 +1139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194005,
+      "num": 194005,
+      "word": "OFGK",
+      "onboard_time": 1763383282,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 193482,
+      "num": 193482,
+      "word": "于子迪400混冠军",
+      "onboard_time": 1763384301,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 193300,
       "num": 321741,
       "word": "马龙3比1胜陈垣宇",
@@ -1179,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189442,
+      "num": 274279,
+      "word": "枭起青壤能救鹅吗",
+      "onboard_time": 1763382741,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188727,
       "num": 188727,
       "word": "有个不太健康的习惯叫穷思竭虑",
@@ -1209,22 +1249,6 @@
       "onboard_time": 1763377821,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187339,
-      "num": 187339,
-      "word": "Viper去哪儿",
-      "onboard_time": 1763383402,
-      "rank": 35,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 187144,
-      "num": 274279,
-      "word": "枭起青壤能救鹅吗",
-      "onboard_time": 1763382741,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 186471,
@@ -1363,6 +1387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 174173,
+      "num": 187002,
+      "word": "流星雨",
+      "onboard_time": 1763384480,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 172563,
       "num": 172563,
       "word": "沈佳润带爸爸玩偶打卡音银楼梯",
@@ -1403,14 +1435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168658,
-      "num": 168658,
-      "word": "OFGK",
-      "onboard_time": 1763383282,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 168133,
       "num": 168133,
       "word": "不要删掉讨厌的人的微信",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1763378301,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165775,
+      "num": 257417,
+      "word": "小酒窝 全家最有事业心的人",
+      "onboard_time": 1763383402,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 165511,
@@ -1491,6 +1523,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 161021,
+      "num": 161021,
+      "word": "FMVP 轮换",
+      "onboard_time": 1763383881,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 159835,
       "num": 159835,
       "word": "马龙vs陈垣宇",
@@ -1505,6 +1545,14 @@
       "onboard_time": 1763350222,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 159658,
+      "num": 159658,
+      "word": "中国代表联大发言让日本破大防",
+      "onboard_time": 1763384602,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159350,
@@ -1545,6 +1593,14 @@
       "onboard_time": 1763353641,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 158134,
+      "num": 158134,
+      "word": "LPL最有希望的一年",
+      "onboard_time": 1763384241,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 158103,
@@ -1617,6 +1673,14 @@
       "onboard_time": 1763367922,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 153717,
+      "num": 159842,
+      "word": "我们都是旅行者",
+      "onboard_time": 1763384902,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 153229,
@@ -1747,6 +1811,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142696,
+      "num": 142696,
+      "word": "买车你会拒绝父辈审美吗",
+      "onboard_time": 1763384662,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 142218,
       "num": 142218,
       "word": "学习通回应崩了",
@@ -1803,6 +1875,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135343,
+      "num": 269467,
+      "word": "他为什么依然单身",
+      "onboard_time": 1763380882,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134879,
+      "num": 134879,
+      "word": "鞠婧祎摸头发完全偶像剧",
+      "onboard_time": 1763384241,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134318,
       "num": 134318,
       "word": "固体版杨枝甘露又又进化了",
@@ -1841,14 +1929,6 @@
       "onboard_time": 1763349742,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 132211,
-      "num": 257417,
-      "word": "小酒窝 全家最有事业心的人",
-      "onboard_time": 1763383402,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 131837,
@@ -1913,14 +1993,6 @@
       "onboard_time": 1763286683,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 130037,
-      "num": 269467,
-      "word": "他为什么依然单身",
-      "onboard_time": 1763380882,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 129834,
@@ -2009,14 +2081,6 @@
       "onboard_time": 1763375481,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 121726,
-      "num": 121726,
-      "word": "FMVP 轮换",
-      "onboard_time": 1763383881,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 121638,
@@ -2161,14 +2225,6 @@
       "onboard_time": 1763375782,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114547,
-      "num": 185913,
-      "word": "日本酒店退订潮",
-      "onboard_time": 1763383582,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 114516,
@@ -2811,6 +2867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 72229,
+      "num": 267418,
+      "word": "大润发未开封鸡蛋面有多条活虫",
+      "onboard_time": 1763383102,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71924,
       "num": 281545,
       "word": "新势力燃油车跑分排行榜",
@@ -2915,6 +2979,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 66361,
+      "num": 159960,
+      "word": "古偶又有男女主反复扑倒的戏码了",
+      "onboard_time": 1763384480,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63776,
       "num": 127869,
       "word": "张呈雷淞然 天王老子来了",
@@ -2993,14 +3065,6 @@
       "onboard_time": 1763375423,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56169,
-      "num": 267418,
-      "word": "大润发未开封鸡蛋面有多条活虫",
-      "onboard_time": 1763383102,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55209,
@@ -3144,6 +3208,14 @@
       "word": "高市早苗惹事有人甩锅给提问的议员",
       "onboard_time": 1763354002,
       "rank": 40,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 43334,
+      "num": 268759,
+      "word": "早苗晚苗都不如中国的火苗",
+      "onboard_time": 1763383642,
+      "rank": 18,
       "category": "国际时政"
     },
     {
@@ -3315,6 +3387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31185,
+      "num": 160336,
+      "word": "代办退订日本酒店20元一单提供录音",
+      "onboard_time": 1763384420,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31043,
       "num": 207630,
       "word": "央视起底黄牛抢号黑产链",
@@ -3481,14 +3561,6 @@
       "onboard_time": 1763316375,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 20025,
-      "num": 268759,
-      "word": "早苗晚苗都不如中国的火苗",
-      "onboard_time": 1763383642,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19229,

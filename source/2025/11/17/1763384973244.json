@@ -1,0 +1,410 @@
+{
+  "runTime": 1763384973244,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2870604,
+        "num": 2870604,
+        "word": "T1官宣Gumayusi离队",
+        "onboard_time": 1763381481,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 882238,
+        "num": 882238,
+        "word": "T1管理层",
+        "onboard_time": 1763382620,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36701,
+        "num": 737104,
+        "word": "美被曝伪造证据黑吃黑窃取巨额比特币",
+        "onboard_time": 1763364202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 722407,
+        "num": 722407,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 653404,
+        "num": 653404,
+        "word": "T1 Peyz",
+        "onboard_time": 1763383041,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 369918,
+        "num": 609351,
+        "word": "张展硕退赛",
+        "onboard_time": 1763381601,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 599774,
+        "num": 599774,
+        "word": "高市早苗搞事已遭反噬",
+        "onboard_time": 1763376560,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281090,
+        "num": 281090,
+        "word": "汪顺400混4连冠",
+        "onboard_time": 1763382142,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 260402,
+        "num": 260402,
+        "word": "唐诡3终于等到毛林林出场了",
+        "onboard_time": 1763382022,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209961,
+        "num": 209961,
+        "word": "张展硕第5金",
+        "onboard_time": 1763381301,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59219,
+        "num": 209656,
+        "word": "宋雨琦的出圈实况绝美",
+        "onboard_time": 1763383642,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 639856,
+        "num": 208905,
+        "word": "湖南一婴儿一出生就15岁",
+        "onboard_time": 1763378422,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460327,
+        "num": 207047,
+        "word": "Gumayusi HLE",
+        "onboard_time": 1763383402,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 342176,
+        "num": 206058,
+        "word": "Viper去哪儿",
+        "onboard_time": 1763383402,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266329,
+        "num": 205714,
+        "word": "宋佳白玉兰 击败甄嬛传",
+        "onboard_time": 1763372241,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210727,
+        "num": 204771,
+        "word": "日本酒店退订潮",
+        "onboard_time": 1763383582,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189442,
+        "num": 202986,
+        "word": "枭起青壤能救鹅吗",
+        "onboard_time": 1763382741,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168967,
+        "num": 202689,
+        "word": "疯狂动物城2",
+        "onboard_time": 1763367561,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143003,
+        "num": 201641,
+        "word": "影院回应网传鬼灭之刃下映",
+        "onboard_time": 1763375301,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 135343,
+        "num": 200046,
+        "word": "他为什么依然单身",
+        "onboard_time": 1763380882,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 826374,
+        "num": 199703,
+        "word": "森林北公布体检结果",
+        "onboard_time": 1763380041,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43334,
+        "num": 198219,
+        "word": "早苗晚苗都不如中国的火苗",
+        "onboard_time": 1763383642,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 601470,
+        "num": 197557,
+        "word": "小海绵身高到baby肩膀了",
+        "onboard_time": 1763371282,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 487406,
+        "num": 196004,
+        "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+        "onboard_time": 1763382441,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310815,
+        "num": 195321,
+        "word": "宁波妇幼",
+        "onboard_time": 1763373201,
+        "rank": 24,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 254558,
+        "num": 194608,
+        "word": "迪丽热巴边吃零食边摸蛇",
+        "onboard_time": 1763373561,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194005,
+        "num": 194005,
+        "word": "OFGK",
+        "onboard_time": 1763383282,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 193482,
+        "num": 193482,
+        "word": "于子迪400混冠军",
+        "onboard_time": 1763384301,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174173,
+        "num": 187002,
+        "word": "流星雨",
+        "onboard_time": 1763384480,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165775,
+        "num": 186111,
+        "word": "小酒窝 全家最有事业心的人",
+        "onboard_time": 1763383402,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 185932,
+        "num": 185932,
+        "word": "女婴心脏手术去世涉事医生已停诊",
+        "onboard_time": 1763370143,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174354,
+        "num": 174354,
+        "word": "双高胎迟到",
+        "onboard_time": 1763379501,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169665,
+        "num": 169665,
+        "word": "郑思维错穿黄雅琼球衣",
+        "onboard_time": 1763382441,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130989,
+        "num": 167755,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763377942,
+        "rank": 33,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 166082,
+        "num": 166082,
+        "word": "T1要干啥",
+        "onboard_time": 1763383041,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161021,
+        "num": 161021,
+        "word": "FMVP 轮换",
+        "onboard_time": 1763383881,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 72229,
+        "num": 160869,
+        "word": "大润发未开封鸡蛋面有多条活虫",
+        "onboard_time": 1763383102,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136174,
+        "num": 160524,
+        "word": "河南鹅毛大雪",
+        "onboard_time": 1763367801,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31185,
+        "num": 160336,
+        "word": "代办退订日本酒店20元一单提供录音",
+        "onboard_time": 1763384420,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66361,
+        "num": 159960,
+        "word": "古偶又有男女主反复扑倒的戏码了",
+        "onboard_time": 1763384480,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153717,
+        "num": 159842,
+        "word": "我们都是旅行者",
+        "onboard_time": 1763384902,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 159658,
+        "num": 159658,
+        "word": "中国代表联大发言让日本破大防",
+        "onboard_time": 1763384602,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158134,
+        "num": 158134,
+        "word": "LPL最有希望的一年",
+        "onboard_time": 1763384241,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 147018,
+        "num": 147018,
+        "word": "宋茜瘦到穿24码的裤子",
+        "onboard_time": 1763372241,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145792,
+        "num": 145792,
+        "word": "新东方员工吐槽俞敏洪内部信",
+        "onboard_time": 1763381661,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 143161,
+        "num": 143161,
+        "word": "医院回应5月龄女婴心脏手术离世",
+        "onboard_time": 1763376261,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142696,
+        "num": 142696,
+        "word": "买车你会拒绝父辈审美吗",
+        "onboard_time": 1763384662,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134879,
+        "num": 134879,
+        "word": "鞠婧祎摸头发完全偶像剧",
+        "onboard_time": 1763384241,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123274,
+        "num": 123274,
+        "word": "FPX退出LPL",
+        "onboard_time": 1763363901,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112670,
+        "num": 123120,
+        "word": "张展硕1500米自由泳夺冠",
+        "onboard_time": 1763381902,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#传统产业改造升级也能发展新质生产力#"
+    }
+  }
+}

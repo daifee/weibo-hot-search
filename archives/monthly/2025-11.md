@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 20:54:42
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/17 21:09:33
 </p>
 </blockquote>
 <p>
@@ -2655,6 +2655,12 @@ Viper BLG（热度：660717）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23T1%20Peyz%23" target="weibo">
+T1 Peyz（热度：653404）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%82%E6%B2%88%E6%9C%88%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%90%88%E4%BD%9C%20%E4%BD%86%E4%B8%8D%E6%98%AF%E8%BF%99%E4%B8%AA%E6%B2%88%E6%9C%88%23" target="weibo">
 求沈月张凌赫合作 但不是这个沈月（热度：653238）
 </a>
@@ -4377,6 +4383,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E6%9C%B1%E7%8E%B2%E7%8E%B2%E9%9C%8D%E5%90%AF%E5%88%9A%E7%8E%B0%E8%BA%AB%E9%9C%8D%E5%90%AF%E4%BB%81%E5%A9%9A%E7%A4%BC%23" target="weibo">
+霍震霆朱玲玲霍启刚现身霍启仁婚礼（热度：487406）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%8E%E5%AD%90%E5%93%A5%E5%8F%8A%E5%A6%BB%E5%AD%90%E8%A2%AB%E9%99%90%E6%B6%88%23" target="weibo">
 嘎子哥及妻子被限消（热度：487309）
 </a>
@@ -4799,6 +4811,12 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%91%A8%E9%9B%A8%23" target="weibo">
 樊振东vs周雨（热度：460374）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Gumayusi%20HLE%23" target="weibo">
+Gumayusi HLE（热度：460327）
 </a>
 </li>
 
@@ -5523,12 +5541,6 @@ Faker发博晒经典夺冠表情（热度：418029）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E6%9C%B1%E7%8E%B2%E7%8E%B2%E9%9C%8D%E5%90%AF%E5%88%9A%E7%8E%B0%E8%BA%AB%E9%9C%8D%E5%90%AF%E4%BB%81%E5%A9%9A%E7%A4%BC%23" target="weibo">
-霍震霆朱玲玲霍启刚现身霍启仁婚礼（热度：412099）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E8%BE%93%E5%8D%8E%23" target="weibo">
 中方回应日本水产品输华（热度：412026）
 </a>
@@ -5999,18 +6011,6 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%BA%97%E5%91%98%E9%81%AD%E7%86%8A%E8%A2%AD%E5%87%BB%E6%B5%91%E8%BA%AB%E8%A1%80%E7%BB%A7%E7%BB%AD%E5%81%9A%E6%8B%89%E9%9D%A2%23" target="weibo">
 日本店员遭熊袭击浑身血继续做拉面（热度：387561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%8B%B1%E9%9B%84%E8%81%94%E7%9B%9F2%E6%9C%89%E6%9C%9B%E6%98%8E%E5%B9%B4%E4%B8%8A%E7%BA%BF%23" target="weibo">
-曝英雄联盟2有望明年上线（热度：387556）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E7%82%AE%E8%BD%B0%E7%8E%8B%E5%AE%B6%E5%8D%AB%E7%83%A7%E9%92%B1%E5%BC%8F%E6%8B%8D%E6%91%84%E4%B8%8D%E9%81%93%E5%BE%B7%23" target="weibo">
-向太炮轰王家卫烧钱式拍摄不道德（热度：387505）
 </a>
 </li>
 
