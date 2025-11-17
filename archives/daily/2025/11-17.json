@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763386687808,
+  "endTime": 1763387384275,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -171,6 +171,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 821969,
+      "num": 278641,
+      "word": "湖南一婴儿一出生就15岁",
+      "onboard_time": 1763378422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 801928,
       "num": 311061,
       "word": "原来身份证里的芯片长这样",
@@ -184,14 +192,6 @@
       "word": "女婴心脏手术去世涉事医生已停诊",
       "onboard_time": 1763370143,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 770820,
-      "num": 278641,
-      "word": "湖南一婴儿一出生就15岁",
-      "onboard_time": 1763378422,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -331,6 +331,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 581387,
+      "num": 263167,
+      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+      "onboard_time": 1763382441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 576295,
       "num": 261104,
       "word": "日本电影",
@@ -371,14 +379,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 542403,
-      "num": 263167,
-      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
-      "onboard_time": 1763382441,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 532669,
       "num": 257312,
       "word": "医院回应5月龄女婴心脏手术离世",
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 517671,
-      "num": 233127,
+      "num": 497384,
       "word": "日本酒店退订潮",
       "onboard_time": 1763383582,
       "rank": 37,
@@ -771,6 +771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 298514,
+      "num": 298514,
+      "word": "唐诡3终于等到毛林林出场了",
+      "onboard_time": 1763382022,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 296155,
       "num": 296155,
       "word": "叠纸心意",
@@ -801,14 +809,6 @@
       "onboard_time": 1763317575,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279872,
-      "num": 279872,
-      "word": "唐诡3终于等到毛林林出场了",
-      "onboard_time": 1763382022,
-      "rank": 9,
-      "category": "剧集"
     },
     {
       "raw_hot": 276532,
@@ -884,7 +884,7 @@
     },
     {
       "raw_hot": 261685,
-      "num": 168317,
+      "num": 196999,
       "word": "中国代表联大发言让日本破大防",
       "onboard_time": 1763384602,
       "rank": 41,
@@ -948,7 +948,7 @@
     },
     {
       "raw_hot": 237482,
-      "num": 151048,
+      "num": 191049,
       "word": "T1 谁拿FMVP谁走",
       "onboard_time": 1763386282,
       "rank": 30,
@@ -995,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228276,
+      "num": 191355,
+      "word": "中方已向美方提严正交涉",
+      "onboard_time": 1763386403,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227873,
       "num": 190916,
       "word": "宋茜瘦到穿24码的裤子",
@@ -1035,6 +1043,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215275,
+      "num": 215275,
+      "word": "张继科谈王曼昱新技术",
+      "onboard_time": 1763386581,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 215034,
       "num": 215034,
       "word": "恋与深空",
@@ -1049,6 +1065,14 @@
       "onboard_time": 1763369302,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 209179,
+      "num": 209179,
+      "word": "陈妤颉女子100米金牌",
+      "onboard_time": 1763386942,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 208882,
@@ -1137,6 +1161,14 @@
       "onboard_time": 1763344520,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "樊振东试探直播镜头",
+      "onboard_time": 1763387362,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 196078,
@@ -1251,14 +1283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 188193,
-      "num": 150916,
-      "word": "中方已向美方提严正交涉",
-      "onboard_time": 1763386403,
-      "rank": 31,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 188067,
       "num": 188067,
       "word": "小狗这个人怎么不通狗性",
@@ -1273,6 +1297,22 @@
       "onboard_time": 1763377821,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187134,
+      "num": 196249,
+      "word": "霍尊回应复出",
+      "onboard_time": 1763387182,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186858,
+      "num": 186858,
+      "word": "新东方员工吐槽俞敏洪内部信",
+      "onboard_time": 1763381661,
+      "rank": 43,
+      "category": "教育"
     },
     {
       "raw_hot": 186471,
@@ -1337,6 +1377,14 @@
       "onboard_time": 1763345541,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 181670,
+      "num": 194247,
+      "word": "赤峰通报免费采捡白菜事件",
+      "onboard_time": 1763386102,
+      "rank": 28,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 180737,
@@ -1483,14 +1531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 166741,
-      "num": 166741,
-      "word": "新东方员工吐槽俞敏洪内部信",
-      "onboard_time": 1763381661,
-      "rank": 43,
-      "category": "教育"
-    },
-    {
       "raw_hot": 165785,
       "num": 165785,
       "word": "宋茜私下不化妆的样子分明是妹妹",
@@ -1547,14 +1587,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 161901,
-      "num": 150569,
-      "word": "张继科谈王曼昱新技术",
-      "onboard_time": 1763386581,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 161621,
       "num": 338278,
       "word": "周深 李健老师没写过这句",
@@ -1572,7 +1604,7 @@
     },
     {
       "raw_hot": 160122,
-      "num": 176863,
+      "num": 192505,
       "word": "任嘉伦哭戏",
       "onboard_time": 1763385864,
       "rank": 19,
@@ -1675,6 +1707,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 156721,
+      "num": 156721,
+      "word": "zeus",
+      "onboard_time": 1763387182,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155403,
       "num": 155403,
       "word": "睡前五分钟玩了十小时手机",
@@ -1753,14 +1793,6 @@
       "onboard_time": 1763371942,
       "rank": 46,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 151176,
-      "num": 151176,
-      "word": "赤峰通报免费采捡白菜事件",
-      "onboard_time": 1763386102,
-      "rank": 28,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 151036,
@@ -1849,6 +1881,14 @@
       "onboard_time": 1763350401,
       "rank": 20,
       "category": "数码"
+    },
+    {
+      "raw_hot": 142860,
+      "num": 142860,
+      "word": "朝鲜媒体警告日本",
+      "onboard_time": 1763387003,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142696,
@@ -2051,6 +2091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129505,
+      "num": 129505,
+      "word": "十五运乒乓男团第二阶段签表",
+      "onboard_time": 1763386343,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129439,
       "num": 151138,
       "word": "彭小苒新剧演出了周杰伦的歌词",
@@ -2064,14 +2112,6 @@
       "word": "汪顺400混夺金后力竭",
       "onboard_time": 1763386042,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126984,
-      "num": 126984,
-      "word": "十五运乒乓男团第二阶段签表",
-      "onboard_time": 1763386343,
-      "rank": 43,
       "category": "体育"
     },
     {
@@ -2097,6 +2137,14 @@
       "onboard_time": 1763357602,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124771,
+      "num": 124771,
+      "word": "Gumayusi漫画",
+      "onboard_time": 1763386822,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 124640,
@@ -2339,6 +2387,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 113475,
+      "num": 113475,
+      "word": "高杨樊振东迷弟实锤了",
+      "onboard_time": 1763386343,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112939,
       "num": 112939,
       "word": "学中医前的冬天vs学中医后的冬天",
@@ -2395,11 +2451,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 109913,
-      "num": 109913,
-      "word": "高杨樊振东迷弟实锤了",
-      "onboard_time": 1763386343,
-      "rank": 46,
+      "raw_hot": 110487,
+      "num": 108896,
+      "word": "V观全运会",
+      "onboard_time": 1763386942,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -2539,6 +2595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99613,
+      "num": 134355,
+      "word": "vivoX300拍到海洋最温柔的巨兽",
+      "onboard_time": 1763387122,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 99447,
       "num": 99447,
       "word": "高市早苗探讨修改无核三原则",
@@ -2609,6 +2673,14 @@
       "onboard_time": 1763344700,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 93344,
+      "num": 277889,
+      "word": "宋雨琦的出圈实况绝美",
+      "onboard_time": 1763383642,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 92905,
@@ -3019,14 +3091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69392,
-      "num": 277889,
-      "word": "宋雨琦的出圈实况绝美",
-      "onboard_time": 1763383642,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69130,
       "num": 128168,
       "word": "周深是怎么忍住不笑的",
@@ -3281,6 +3345,14 @@
       "onboard_time": 1763355681,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 47363,
+      "num": 204584,
+      "word": "男子CT报告显示子宫未见异常",
+      "onboard_time": 1763386463,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 46668,
@@ -3569,14 +3641,6 @@
       "onboard_time": 1763355202,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 26726,
-      "num": 157678,
-      "word": "男子CT报告显示子宫未见异常",
-      "onboard_time": 1763386463,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26525,
