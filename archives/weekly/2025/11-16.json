@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763379554254,
+  "endTime": 1763384082069,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -33,6 +33,14 @@
       "onboard_time": 1763269522,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 3390474,
+      "num": 3390474,
+      "word": "T1官宣Gumayusi离队",
+      "onboard_time": 1763381481,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 2467412,
@@ -84,7 +92,7 @@
     },
     {
       "raw_hot": 1513567,
-      "num": 239023,
+      "num": 262266,
       "word": "宁波妇幼",
       "onboard_time": 1763373201,
       "rank": 12,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 999897,
+      "num": 999897,
+      "word": "T1管理层",
+      "onboard_time": 1763382620,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 981221,
       "num": 447674,
       "word": "学习通崩了",
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 937651,
-      "num": 231864,
+      "num": 264219,
       "word": "小海绵身高到baby肩膀了",
       "onboard_time": 1763371282,
       "rank": 20,
@@ -321,6 +337,14 @@
       "onboard_time": 1763342000,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 847739,
+      "num": 266167,
+      "word": "森林北公布体检结果",
+      "onboard_time": 1763380041,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 842015,
@@ -433,6 +457,14 @@
       "onboard_time": 1763364681,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 692737,
+      "num": 278641,
+      "word": "湖南一婴儿一出生就15岁",
+      "onboard_time": 1763378422,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 687202,
@@ -835,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 471183,
+      "num": 471183,
+      "word": "张展硕退赛",
+      "onboard_time": 1763381601,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 467747,
       "num": 467747,
       "word": "日本的三个没想到",
@@ -1019,6 +1059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 412099,
+      "num": 263167,
+      "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+      "onboard_time": 1763382441,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 410649,
       "num": 394157,
       "word": "南京一公园被私人占有十年",
@@ -1057,6 +1105,14 @@
       "onboard_time": 1763263461,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 401729,
+      "num": 401729,
+      "word": "汪顺400混4连冠",
+      "onboard_time": 1763382142,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 400039,
@@ -1235,6 +1291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359647,
+      "num": 359647,
+      "word": "T1 Peyz",
+      "onboard_time": 1763383041,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 359179,
       "num": 553932,
       "word": "孙颖莎呼吁球迷粉丝理性观赛",
@@ -1252,7 +1316,7 @@
     },
     {
       "raw_hot": 358190,
-      "num": 250981,
+      "num": 276199,
       "word": "迪丽热巴边吃零食边摸蛇",
       "onboard_time": 1763373561,
       "rank": 14,
@@ -1305,6 +1369,14 @@
       "onboard_time": 1763304143,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 345079,
+      "num": 345079,
+      "word": "Gumayusi HLE",
+      "onboard_time": 1763383402,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 343840,
@@ -1444,7 +1516,7 @@
     },
     {
       "raw_hot": 309280,
-      "num": 204566,
+      "num": 231845,
       "word": "双高胎迟到",
       "onboard_time": 1763379501,
       "rank": 23,
@@ -1489,14 +1561,6 @@
       "onboard_time": 1763301382,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 303611,
-      "num": 203886,
-      "word": "湖南一婴儿一出生就15岁",
-      "onboard_time": 1763378422,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 300697,
@@ -1627,6 +1691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279872,
+      "num": 279872,
+      "word": "唐诡3终于等到毛林林出场了",
+      "onboard_time": 1763382022,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 276532,
       "num": 276532,
       "word": "张继科说我没拿过全运会冠军",
@@ -1715,6 +1787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266678,
+      "num": 266678,
+      "word": "张展硕第5金",
+      "onboard_time": 1763381301,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 266608,
       "num": 266608,
       "word": "华为Mate80全系直屏设计",
@@ -1785,6 +1865,14 @@
       "onboard_time": 1763304805,
       "rank": 9,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254364,
+      "num": 254364,
+      "word": "T1要干啥",
+      "onboard_time": 1763383041,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 254255,
@@ -2115,6 +2203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207392,
+      "num": 275659,
+      "word": "汪顺全运第19金",
+      "onboard_time": 1763382862,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205496,
       "num": 205496,
       "word": "唢呐一响热巴女王登场",
@@ -2308,7 +2404,7 @@
     },
     {
       "raw_hot": 196078,
-      "num": 248697,
+      "num": 256552,
       "word": "鬼灭之刃",
       "onboard_time": 1763213726,
       "rank": 42,
@@ -2539,6 +2635,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187339,
+      "num": 187339,
+      "word": "Viper去哪儿",
+      "onboard_time": 1763383402,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 187144,
+      "num": 274279,
+      "word": "枭起青壤能救鹅吗",
+      "onboard_time": 1763382741,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186623,
       "num": 370480,
       "word": "陈梦回应铜牌",
@@ -2561,6 +2673,14 @@
       "onboard_time": 1763256860,
       "rank": 8,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186054,
+      "num": 186054,
+      "word": "Gumayusi的T1纪录片",
+      "onboard_time": 1763382862,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 185671,
@@ -2603,6 +2723,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 184285,
+      "num": 184285,
+      "word": "郑思维错穿黄雅琼球衣",
+      "onboard_time": 1763382441,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183971,
       "num": 170462,
       "word": "黄子弘凡直播",
@@ -2617,6 +2745,14 @@
       "onboard_time": 1763357541,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183352,
+      "num": 259602,
+      "word": "张展硕1500米自由泳夺冠",
+      "onboard_time": 1763381902,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 183139,
@@ -2905,6 +3041,14 @@
       "onboard_time": 1763284941,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168658,
+      "num": 168658,
+      "word": "OFGK",
+      "onboard_time": 1763383282,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 168133,
@@ -3451,6 +3595,14 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 148735,
+      "num": 148735,
+      "word": "新东方员工吐槽俞敏洪内部信",
+      "onboard_time": 1763381661,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 148534,
       "num": 148534,
       "word": "李晨穿了白鹿的衣服",
@@ -3923,6 +4075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132211,
+      "num": 257417,
+      "word": "小酒窝 全家最有事业心的人",
+      "onboard_time": 1763383402,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132074,
       "num": 132074,
       "word": "日本3位前首相发声",
@@ -3993,6 +4153,14 @@
       "onboard_time": 1763311639,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 130037,
+      "num": 269467,
+      "word": "他为什么依然单身",
+      "onboard_time": 1763380882,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 130025,
@@ -4265,6 +4433,14 @@
       "onboard_time": 1763274383,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121726,
+      "num": 121726,
+      "word": "FMVP 轮换",
+      "onboard_time": 1763383881,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 121638,
@@ -4617,6 +4793,14 @@
       "onboard_time": 1763375782,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114547,
+      "num": 185913,
+      "word": "日本酒店退订潮",
+      "onboard_time": 1763383582,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 114453,
@@ -5596,7 +5780,7 @@
     },
     {
       "raw_hot": 78115,
-      "num": 732420,
+      "num": 797366,
       "word": "美被曝伪造证据黑吃黑窃取巨额比特币",
       "onboard_time": 1763364202,
       "rank": 2,
@@ -5641,6 +5825,14 @@
       "onboard_time": 1763378241,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76797,
+      "num": 184748,
+      "word": "山西省会GDP被江苏县级市昆山超过",
+      "onboard_time": 1763383041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76111,
@@ -5785,6 +5977,14 @@
       "onboard_time": 1763368641,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 69392,
+      "num": 277889,
+      "word": "宋雨琦的出圈实况绝美",
+      "onboard_time": 1763383642,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 69130,
@@ -5939,6 +6139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62051,
+      "num": 254595,
+      "word": "男子称未成年时无故被记录9个案底",
+      "onboard_time": 1763382441,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61570,
       "num": 96682,
       "word": "高市早苗31年前质问村山富市",
@@ -6017,6 +6225,14 @@
       "onboard_time": 1763204723,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56169,
+      "num": 267418,
+      "word": "大润发未开封鸡蛋面有多条活虫",
+      "onboard_time": 1763383102,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55209,
@@ -6211,6 +6427,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 46668,
+      "num": 184443,
+      "word": "高志凯建议取消日本护照免签待遇",
+      "onboard_time": 1763382803,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45595,
       "num": 45595,
       "word": "辛芷蕾金鸡奖红毯笑得好开心",
@@ -6353,6 +6577,14 @@
       "onboard_time": 1763289021,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39901,
+      "num": 185593,
+      "word": "北大口腔回应博士后被写成学历",
+      "onboard_time": 1763383222,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39316,
@@ -6881,6 +7113,14 @@
       "onboard_time": 1763241074,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20025,
+      "num": 268759,
+      "word": "早苗晚苗都不如中国的火苗",
+      "onboard_time": 1763383642,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19986,
