@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763349864826,
+  "endTime": 1763350706945,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -169,6 +169,14 @@
       "onboard_time": 1763258361,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 981221,
+      "num": 447674,
+      "word": "学习通崩了",
+      "onboard_time": 1763349201,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 980237,
@@ -371,8 +379,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 621631,
-      "num": 385492,
+      "raw_hot": 626723,
+      "num": 446141,
       "word": "22岁帮家里卖完12万副眼镜",
       "onboard_time": 1763347040,
       "rank": 10,
@@ -443,20 +451,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 562355,
+      "num": 562355,
+      "word": "樊振东vs于何一",
+      "onboard_time": 1763348240,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 559361,
       "num": 559361,
       "word": "雷军连发多条微博辟谣",
       "onboard_time": 1763267001,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 551154,
-      "num": 376779,
-      "word": "学习通崩了",
-      "onboard_time": 1763349201,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 545444,
@@ -571,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 467747,
+      "num": 467747,
+      "word": "日本的三个没想到",
+      "onboard_time": 1763344881,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 466139,
       "num": 399380,
       "word": "TFBOYS发文恭喜刘春和",
@@ -619,6 +635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 455561,
+      "num": 444594,
+      "word": "中方不仅愤怒还有行动",
+      "onboard_time": 1763346620,
+      "rank": 23,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 454951,
       "num": 223709,
       "word": "难怪我的粉底液一直用不完",
@@ -628,11 +652,19 @@
     },
     {
       "raw_hot": 453553,
-      "num": 376146,
+      "num": 436844,
       "word": "美国一人独中70亿元彩票",
       "onboard_time": 1763345661,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 450721,
+      "num": 450721,
+      "word": "众星送别悼念甄志强",
+      "onboard_time": 1763347640,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 449899,
@@ -659,20 +691,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 439131,
-      "num": 439131,
-      "word": "日本的三个没想到",
-      "onboard_time": 1763344881,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 428111,
       "num": 679781,
       "word": "易烊千玺与他的金鸡奖杯",
       "onboard_time": 1763297423,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 416467,
+      "num": 416467,
+      "word": "张继科谈全运会男单女单卫冕",
+      "onboard_time": 1763347580,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 414045,
@@ -697,14 +729,6 @@
       "onboard_time": 1763252060,
       "rank": 1,
       "category": "电影"
-    },
-    {
-      "raw_hot": 403087,
-      "num": 375938,
-      "word": "张继科谈全运会男单女单卫冕",
-      "onboard_time": 1763347580,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 401869,
@@ -763,14 +787,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 385404,
-      "num": 385404,
-      "word": "众星送别悼念甄志强",
-      "onboard_time": 1763347640,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 385073,
       "num": 2104566,
       "word": "刘宇宁演唱会内娱大佬团建",
@@ -780,7 +796,7 @@
     },
     {
       "raw_hot": 382962,
-      "num": 382962,
+      "num": 450430,
       "word": "天才女友官宣杀青",
       "onboard_time": 1763345661,
       "rank": 14,
@@ -816,14 +832,6 @@
       "word": "王楚钦喊话马龙打好团体赛",
       "onboard_time": 1763284882,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 377567,
-      "num": 377567,
-      "word": "樊振东vs于何一",
-      "onboard_time": 1763348240,
-      "rank": 13,
       "category": "体育"
     },
     {
@@ -963,14 +971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 328158,
-      "num": 328158,
-      "word": "中方不仅愤怒还有行动",
-      "onboard_time": 1763346620,
-      "rank": 23,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 325112,
       "num": 198766,
       "word": "下下下个月今天就是除夕",
@@ -1019,6 +1019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308592,
+      "num": 308592,
+      "word": "韩笑生子",
+      "onboard_time": 1763346560,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 307594,
       "num": 307594,
       "word": "唐朝诡事录",
@@ -1049,6 +1057,14 @@
       "onboard_time": 1763301382,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300697,
+      "num": 300697,
+      "word": "无限暖暖",
+      "onboard_time": 1763349141,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 300510,
@@ -1132,7 +1148,7 @@
     },
     {
       "raw_hot": 288475,
-      "num": 377294,
+      "num": 440036,
       "word": "杨超越备菜像开了倍速",
       "onboard_time": 1763342361,
       "rank": 8,
@@ -1145,14 +1161,6 @@
       "onboard_time": 1763262201,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 286033,
-      "num": 286033,
-      "word": "韩笑生子",
-      "onboard_time": 1763346560,
-      "rank": 30,
-      "category": "网红"
     },
     {
       "raw_hot": 283735,
@@ -1193,6 +1201,14 @@
       "onboard_time": 1763248817,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 272173,
+      "num": 448300,
+      "word": "王楚钦vs孙闻",
+      "onboard_time": 1763348780,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 269340,
@@ -1379,14 +1395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229726,
-      "num": 229726,
-      "word": "无限暖暖",
-      "onboard_time": 1763349141,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 229362,
       "num": 229362,
       "word": "喝奶茶尽量选这4种",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1763265201,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 215034,
+      "num": 215034,
+      "word": "恋与深空",
+      "onboard_time": 1763349201,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 213828,
@@ -1537,6 +1553,14 @@
       "onboard_time": 1763269042,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203871,
+      "num": 439221,
+      "word": "汪顺递补进入400混决赛",
+      "onboard_time": 1763350401,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 203199,
@@ -1667,14 +1691,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 194010,
-      "num": 194010,
-      "word": "恋与深空",
-      "onboard_time": 1763349201,
-      "rank": 34,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 193806,
       "num": 193806,
       "word": "张凌赫听刘宇宁寻一个你的反应",
@@ -1755,6 +1771,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 189635,
+      "num": 189635,
+      "word": "入冬如何3分钟暖被窝",
+      "onboard_time": 1763349980,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 189172,
       "num": 385791,
       "word": "华晨宇灭梦导师来了",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1763275282,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188733,
+      "num": 438119,
+      "word": "为什么短剧质感的长剧火起来了",
+      "onboard_time": 1763350042,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 187885,
@@ -2187,6 +2219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 159831,
+      "num": 299923,
+      "word": "尾鱼宇宙颜选女主上新了",
+      "onboard_time": 1763350222,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 159296,
       "num": 159296,
       "word": "朵朵是缩小版陈思诚",
@@ -2323,14 +2363,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152698,
-      "num": 377098,
-      "word": "王楚钦vs孙闻",
-      "onboard_time": 1763348780,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 152648,
       "num": 152648,
       "word": "毛利兰画风断崖式下降",
@@ -2451,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147305,
+      "num": 147305,
+      "word": "张凌赫看到刘宇宁腹肌了吗",
+      "onboard_time": 1763347699,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 147214,
       "num": 147214,
       "word": "妈妈十几年前的QQ空间",
@@ -2515,6 +2555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144932,
+      "num": 144932,
+      "word": "周翊然帮女嘉宾装手机",
+      "onboard_time": 1763349861,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 144622,
       "num": 144622,
       "word": "七旬老人因悔牌将牌友打成重伤身亡",
@@ -2529,6 +2577,14 @@
       "onboard_time": 1763223922,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143362,
+      "num": 353959,
+      "word": "Mate80或采用全金属机身设计",
+      "onboard_time": 1763350401,
+      "rank": 20,
+      "category": "数码"
     },
     {
       "raw_hot": 142661,
@@ -2547,20 +2603,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142020,
-      "num": 142020,
-      "word": "张凌赫看到刘宇宁腹肌了吗",
-      "onboard_time": 1763347699,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 141827,
       "num": 123107,
       "word": "日本民众集会高喊高市早苗下台",
       "onboard_time": 1763259442,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 141665,
+      "num": 141665,
+      "word": "张艺谋新电影",
+      "onboard_time": 1763350522,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 141438,
@@ -2585,6 +2641,14 @@
       "onboard_time": 1763270782,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141095,
+      "num": 141095,
+      "word": "曝HLE和GEN争夺Canyon",
+      "onboard_time": 1763350462,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 140065,
@@ -2731,6 +2795,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 132870,
+      "num": 132870,
+      "word": "陈梦回应是否会参加下届全运会",
+      "onboard_time": 1763349742,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132497,
       "num": 132497,
       "word": "陈梦回应半决赛不敌王曼昱",
@@ -2769,6 +2841,14 @@
       "onboard_time": 1763264601,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 130599,
+      "num": 148439,
+      "word": "胡歌不收礼除非是大湾鸡",
+      "onboard_time": 1763349801,
+      "rank": 42,
+      "category": "电影,体育"
     },
     {
       "raw_hot": 130331,
@@ -2905,6 +2985,14 @@
       "onboard_time": 1763276302,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 126143,
+      "num": 254780,
+      "word": "2026世界杯已确定32席",
+      "onboard_time": 1763346980,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 124958,
@@ -3155,6 +3243,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 117973,
+      "num": 132981,
+      "word": "杨瀚森出战南湾湖人",
+      "onboard_time": 1763347459,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117616,
       "num": 117616,
       "word": "电影蛮荒禁地",
@@ -3369,14 +3465,6 @@
       "onboard_time": 1763251821,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108386,
-      "num": 108386,
-      "word": "陈梦回应是否会参加下届全运会",
-      "onboard_time": 1763349742,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 108285,
@@ -3699,6 +3787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97561,
+      "num": 376454,
+      "word": "声鸣远扬淘汰金钟奖第一名",
+      "onboard_time": 1763349201,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 97129,
       "num": 133482,
       "word": "高校演出买40件衣服穿完集体退货",
@@ -3835,6 +3931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89409,
+      "num": 376708,
+      "word": "高市早苗4天3上新闻联播",
+      "onboard_time": 1763348841,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88958,
       "num": 88958,
       "word": "50%上呼吸道感染由鼻病毒引起",
@@ -3955,6 +4059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85605,
+      "num": 385492,
+      "word": "日本各界人士批评高市错误言论",
+      "onboard_time": 1763349081,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85308,
       "num": 92753,
       "word": "黄海海域将进行实弹射击禁止驶入",
@@ -4009,6 +4121,14 @@
       "onboard_time": 1763341521,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 78977,
+      "num": 149584,
+      "word": "高志凯建议禁止向日本出口稀土",
+      "onboard_time": 1763349801,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78526,
@@ -4275,14 +4395,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 55080,
-      "num": 376708,
-      "word": "高市早苗4天3上新闻联播",
-      "onboard_time": 1763348841,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54097,
       "num": 74906,
       "word": "陈思诚 不抛弃不放弃",
@@ -4307,14 +4419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53642,
-      "num": 130674,
-      "word": "高志凯建议禁止向日本出口稀土",
-      "onboard_time": 1763349801,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 53563,
       "num": 59832,
       "word": "女生骑车被未拴绳狗绊倒抽搐",
@@ -4324,7 +4428,7 @@
     },
     {
       "raw_hot": 53049,
-      "num": 377564,
+      "num": 441124,
       "word": "横扫硅谷的千问杀回国内",
       "onboard_time": 1763348421,
       "rank": 14,
@@ -4379,6 +4483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49523,
+      "num": 166525,
+      "word": "中国公民若在日本遭遇不法侵害怎么办",
+      "onboard_time": 1763349081,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49469,
       "num": 65412,
       "word": "百亿票房 美术奖",
@@ -4403,28 +4515,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48162,
-      "num": 385492,
-      "word": "日本各界人士批评高市错误言论",
-      "onboard_time": 1763349081,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45595,
       "num": 45595,
       "word": "辛芷蕾金鸡奖红毯笑得好开心",
       "onboard_time": 1763243294,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 44933,
-      "num": 142809,
-      "word": "胡歌不收礼除非是大湾鸡",
-      "onboard_time": 1763349801,
-      "rank": 42,
-      "category": "电影,体育"
     },
     {
       "raw_hot": 44710,
@@ -4913,22 +5009,6 @@
       "onboard_time": 1763285301,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23307,
-      "num": 376454,
-      "word": "声鸣远扬淘汰金钟奖第一名",
-      "onboard_time": 1763349201,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 22418,
-      "num": 166525,
-      "word": "中国公民若在日本遭遇不法侵害怎么办",
-      "onboard_time": 1763349081,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22345,
