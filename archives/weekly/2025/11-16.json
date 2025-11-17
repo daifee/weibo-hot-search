@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763358243743,
+  "endTime": 1763361618482,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -185,6 +185,14 @@
       "onboard_time": 1763349201,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 980755,
+      "num": 1156920,
+      "word": "韩国叫停韩日联合演习",
+      "onboard_time": 1763357840,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 980237,
@@ -587,6 +595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 499605,
+      "num": 232451,
+      "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
+      "onboard_time": 1763358321,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496303,
       "num": 496303,
       "word": "巩立姣官宣退役",
@@ -739,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446277,
+      "num": 261984,
+      "word": "张凌赫 我不是人啊",
+      "onboard_time": 1763356942,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 440306,
       "num": 440306,
       "word": "徐嘉余打破全国纪录",
@@ -881,6 +905,14 @@
       "onboard_time": 1763308880,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 386841,
+      "num": 257281,
+      "word": "迪丽热巴已美到不知天地为何物了",
+      "onboard_time": 1763356881,
+      "rank": 34,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 385073,
@@ -1075,6 +1107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334194,
+      "num": 231976,
+      "word": "我国死亡率最高的恶性肿瘤",
+      "onboard_time": 1763358681,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 331354,
       "num": 331354,
       "word": "迪丽热巴给刘宇宁送花篮",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1763346560,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 307783,
+      "num": 307783,
+      "word": "向往的生活",
+      "onboard_time": 1763358861,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 307594,
@@ -1275,6 +1323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287658,
+      "num": 287658,
+      "word": "中国强烈回应震动日本",
+      "onboard_time": 1763360483,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 287527,
       "num": 211097,
       "word": "全运会乒乓球单打铜牌赛",
@@ -1289,14 +1345,6 @@
       "onboard_time": 1763341521,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281703,
-      "num": 245210,
-      "word": "迪丽热巴已美到不知天地为何物了",
-      "onboard_time": 1763356881,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280713,
@@ -1385,6 +1433,14 @@
       "onboard_time": 1763350822,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266608,
+      "num": 266608,
+      "word": "华为Mate80全系直屏设计",
+      "onboard_time": 1763354301,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 263767,
@@ -1555,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231429,
+      "num": 324212,
+      "word": "生育津贴无需结婚证直发个人",
+      "onboard_time": 1763352801,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 229362,
       "num": 229362,
       "word": "喝奶茶尽量选这4种",
@@ -1569,6 +1633,14 @@
       "onboard_time": 1763282002,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225783,
+      "num": 225783,
+      "word": "日媒叫嚣击沉福建舰",
+      "onboard_time": 1763359761,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223912,
@@ -1619,12 +1691,12 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 219877,
-      "num": 324212,
-      "word": "生育津贴无需结婚证直发个人",
-      "onboard_time": 1763352801,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 216937,
+      "num": 265636,
+      "word": "台湾民众坦然说出我是中国人",
+      "onboard_time": 1763357662,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215747,
@@ -1659,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 211605,
+      "num": 211605,
+      "word": "陈梦回应戴项链参加比赛",
+      "onboard_time": 1763359882,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209986,
       "num": 209986,
       "word": "枭起青壤官宣节奏",
@@ -1673,14 +1753,6 @@
       "onboard_time": 1763256261,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 208980,
-      "num": 208980,
-      "word": "华为Mate80全系直屏设计",
-      "onboard_time": 1763354301,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 208882,
@@ -1939,6 +2011,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191322,
+      "num": 191322,
+      "word": "下下下个月的今天就是大年初一",
+      "onboard_time": 1763357840,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191203,
       "num": 191203,
       "word": "霍思燕说朵朵早晚接陈思诚的班",
@@ -2035,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188404,
+      "num": 188404,
+      "word": "原来张凌赫也是扁头",
+      "onboard_time": 1763361080,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 187885,
       "num": 157312,
       "word": "胡歌生图也太生了",
@@ -2105,6 +2193,14 @@
       "onboard_time": 1763305645,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183836,
+      "num": 183836,
+      "word": "Gala谈LPL与LCK差距",
+      "onboard_time": 1763357541,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 183139,
@@ -2217,14 +2313,6 @@
       "onboard_time": 1763281101,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 177674,
-      "num": 177674,
-      "word": "张凌赫 我不是人啊",
-      "onboard_time": 1763356942,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 177609,
@@ -2347,14 +2435,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169825,
-      "num": 169825,
-      "word": "Gala谈LPL与LCK差距",
-      "onboard_time": 1763357541,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 169822,
       "num": 158257,
       "word": "成都大哥卖血旺",
@@ -2417,6 +2497,14 @@
       "onboard_time": 1763300603,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 165511,
+      "num": 165511,
+      "word": "易烊千玺将要触到一轮新朝阳",
+      "onboard_time": 1763360120,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 165272,
@@ -3355,6 +3443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125343,
+      "num": 125343,
+      "word": "林允 天亮了",
+      "onboard_time": 1763361501,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125058,
       "num": 147556,
       "word": "张博恒是发烧了",
@@ -3449,6 +3545,14 @@
       "onboard_time": 1763292500,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121917,
+      "num": 121917,
+      "word": "Gala回应LCK集训",
+      "onboard_time": 1763361501,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 121780,
@@ -3745,6 +3849,14 @@
       "onboard_time": 1763270782,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115052,
+      "num": 115052,
+      "word": "唐诡拍出了爱人流泪说狠话",
+      "onboard_time": 1763359821,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114453,
@@ -4251,14 +4363,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95442,
-      "num": 177680,
-      "word": "下下下个月的今天就是大年初一",
-      "onboard_time": 1763357840,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95299,
       "num": 95299,
       "word": "袁励岑回应不敌王楚钦",
@@ -4401,6 +4505,14 @@
       "onboard_time": 1763347940,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87838,
+      "num": 241876,
+      "word": "专家回应村民盗水吸金年入百万",
+      "onboard_time": 1763360783,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87346,
@@ -4577,6 +4689,22 @@
       "onboard_time": 1763223742,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 77938,
+      "num": 121958,
+      "word": "戴兰兰惊天魔盗团第一魅魔",
+      "onboard_time": 1763360002,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 77662,
+      "num": 139796,
+      "word": "陈梦戴着喜欢的项链征战赛场",
+      "onboard_time": 1763360960,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 76894,
@@ -4795,6 +4923,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61283,
+      "num": 235551,
+      "word": "荣耀500为什么叫超级标准版",
+      "onboard_time": 1763359402,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 60646,
       "num": 158033,
       "word": "周翊然第一章白月光出国",
@@ -4872,6 +5008,14 @@
       "word": "女生骑车被未拴绳狗绊倒抽搐",
       "onboard_time": 1763336239,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53133,
+      "num": 237627,
+      "word": "尾号11111111手机靓号120万起拍",
+      "onboard_time": 1763360540,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5219,14 +5363,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35752,
-      "num": 147840,
-      "word": "台湾民众坦然说出我是中国人",
-      "onboard_time": 1763357662,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35568,
       "num": 44679,
       "word": "供暖",
@@ -5281,6 +5417,14 @@
       "onboard_time": 1763301622,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34152,
+      "num": 140290,
+      "word": "大湾鸡史上最正经演出",
+      "onboard_time": 1763361201,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 33944,
@@ -5411,14 +5555,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 29927,
-      "num": 327325,
-      "word": "韩国叫停韩日联合演习",
-      "onboard_time": 1763357840,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 29706,
       "num": 169791,
       "word": "律师谈美国没收12.7万枚被盗比特币",
@@ -5507,12 +5643,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25358,
+      "num": 113659,
+      "word": "一年57亿次门诊背后的监管难题",
+      "onboard_time": 1763359821,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24684,
       "num": 719395,
       "word": "十五运会赛场外步步生花",
       "onboard_time": 1763213367,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24680,
+      "num": 141809,
+      "word": "9岁女童术后成植物人一审开庭",
+      "onboard_time": 1763361021,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23921,

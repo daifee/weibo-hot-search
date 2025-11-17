@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763358243743,
+  "endTime": 1763361618482,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -49,6 +49,14 @@
       "onboard_time": 1763349201,
       "rank": 17,
       "category": "教育"
+    },
+    {
+      "raw_hot": 980755,
+      "num": 1156920,
+      "word": "韩国叫停韩日联合演习",
+      "onboard_time": 1763357840,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 970570,
@@ -187,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 499605,
+      "num": 232451,
+      "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
+      "onboard_time": 1763358321,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 496303,
       "num": 496303,
       "word": "巩立姣官宣退役",
@@ -267,6 +283,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 446277,
+      "num": 261984,
+      "word": "张凌赫 我不是人啊",
+      "onboard_time": 1763356942,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 439704,
       "num": 404734,
       "word": "日本不需要煽动战争的首相",
@@ -323,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 386841,
+      "num": 257281,
+      "word": "迪丽热巴已美到不知天地为何物了",
+      "onboard_time": 1763356881,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 382962,
       "num": 450430,
       "word": "天才女友官宣杀青",
@@ -347,6 +379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334194,
+      "num": 231976,
+      "word": "我国死亡率最高的恶性肿瘤",
+      "onboard_time": 1763358681,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 310034,
       "num": 310034,
       "word": "下雪",
@@ -361,6 +401,14 @@
       "onboard_time": 1763346560,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 307783,
+      "num": 307783,
+      "word": "向往的生活",
+      "onboard_time": 1763358861,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 300697,
@@ -379,20 +427,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 287658,
+      "num": 287658,
+      "word": "中国强烈回应震动日本",
+      "onboard_time": 1763360483,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283735,
       "num": 157240,
       "word": "章子怡带孩子们聚餐",
       "onboard_time": 1763341521,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 281703,
-      "num": 245210,
-      "word": "迪丽热巴已美到不知天地为何物了",
-      "onboard_time": 1763356881,
-      "rank": 34,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 280713,
@@ -441,6 +489,14 @@
       "onboard_time": 1763350822,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266608,
+      "num": 266608,
+      "word": "华为Mate80全系直屏设计",
+      "onboard_time": 1763354301,
+      "rank": 33,
+      "category": "数码"
     },
     {
       "raw_hot": 263720,
@@ -499,6 +555,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 231429,
+      "num": 324212,
+      "word": "生育津贴无需结婚证直发个人",
+      "onboard_time": 1763352801,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225783,
+      "num": 225783,
+      "word": "日媒叫嚣击沉福建舰",
+      "onboard_time": 1763359761,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 221062,
       "num": 221062,
       "word": "男生眼里的漂亮饭",
@@ -507,12 +579,12 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 219877,
-      "num": 324212,
-      "word": "生育津贴无需结婚证直发个人",
-      "onboard_time": 1763352801,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 216937,
+      "num": 265636,
+      "word": "台湾民众坦然说出我是中国人",
+      "onboard_time": 1763357662,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 215034,
@@ -523,12 +595,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 208980,
-      "num": 208980,
-      "word": "华为Mate80全系直屏设计",
-      "onboard_time": 1763354301,
-      "rank": 33,
-      "category": "数码"
+      "raw_hot": 211605,
+      "num": 211605,
+      "word": "陈梦回应戴项链参加比赛",
+      "onboard_time": 1763359882,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 208882,
@@ -595,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191322,
+      "num": 191322,
+      "word": "下下下个月的今天就是大年初一",
+      "onboard_time": 1763357840,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190683,
       "num": 127262,
       "word": "华为Mate80系列11月25日发布",
@@ -619,6 +699,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 188404,
+      "num": 188404,
+      "word": "原来张凌赫也是扁头",
+      "onboard_time": 1763361080,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186471,
       "num": 186471,
       "word": "探索新境2",
@@ -633,6 +721,14 @@
       "onboard_time": 1763302342,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 183836,
+      "num": 183836,
+      "word": "Gala谈LPL与LCK差距",
+      "onboard_time": 1763357541,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 182714,
@@ -665,14 +761,6 @@
       "onboard_time": 1763353822,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 177674,
-      "num": 177674,
-      "word": "张凌赫 我不是人啊",
-      "onboard_time": 1763356942,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 175667,
@@ -715,12 +803,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 169825,
-      "num": 169825,
-      "word": "Gala谈LPL与LCK差距",
-      "onboard_time": 1763357541,
-      "rank": 32,
-      "category": "电竞"
+      "raw_hot": 165511,
+      "num": 165511,
+      "word": "易烊千玺将要触到一轮新朝阳",
+      "onboard_time": 1763360120,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 165154,
@@ -987,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125343,
+      "num": 125343,
+      "word": "林允 天亮了",
+      "onboard_time": 1763361501,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125058,
       "num": 147556,
       "word": "张博恒是发烧了",
@@ -1025,6 +1121,14 @@
       "onboard_time": 1763336539,
       "rank": 16,
       "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 121917,
+      "num": 121917,
+      "word": "Gala回应LCK集训",
+      "onboard_time": 1763361501,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 121542,
@@ -1105,6 +1209,14 @@
       "onboard_time": 1763307623,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115052,
+      "num": 115052,
+      "word": "唐诡拍出了爱人流泪说狠话",
+      "onboard_time": 1763359821,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 114516,
@@ -1275,14 +1387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 95442,
-      "num": 177680,
-      "word": "下下下个月的今天就是大年初一",
-      "onboard_time": 1763357840,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95065,
       "num": 255117,
       "word": "朱雨玲vs陈梦",
@@ -1353,6 +1457,14 @@
       "onboard_time": 1763347940,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87838,
+      "num": 241876,
+      "word": "专家回应村民盗水吸金年入百万",
+      "onboard_time": 1763360783,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87308,
@@ -1483,6 +1595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77938,
+      "num": 121958,
+      "word": "戴兰兰惊天魔盗团第一魅魔",
+      "onboard_time": 1763360002,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 77662,
+      "num": 139796,
+      "word": "陈梦戴着喜欢的项链征战赛场",
+      "onboard_time": 1763360960,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74919,
       "num": 153213,
       "word": "男子取90万给骗子说是彩礼",
@@ -1595,6 +1723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61283,
+      "num": 235551,
+      "word": "荣耀500为什么叫超级标准版",
+      "onboard_time": 1763359402,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 55209,
       "num": 250228,
       "word": "大黄鱼怎么哼唧哼唧的",
@@ -1616,6 +1752,14 @@
       "word": "女生骑车被未拴绳狗绊倒抽搐",
       "onboard_time": 1763336239,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53133,
+      "num": 237627,
+      "word": "尾号11111111手机靓号120万起拍",
+      "onboard_time": 1763360540,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -1747,14 +1891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 35752,
-      "num": 147840,
-      "word": "台湾民众坦然说出我是中国人",
-      "onboard_time": 1763357662,
-      "rank": 38,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 35567,
       "num": 48671,
       "word": "精彩全运会",
@@ -1803,6 +1939,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34152,
+      "num": 140290,
+      "word": "大湾鸡史上最正经演出",
+      "onboard_time": 1763361201,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 33552,
       "num": 884352,
       "word": "一起看全运会",
@@ -1841,14 +1985,6 @@
       "onboard_time": 1763356640,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29927,
-      "num": 327325,
-      "word": "韩国叫停韩日联合演习",
-      "onboard_time": 1763357840,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29884,
@@ -1897,6 +2033,22 @@
       "onboard_time": 1763345181,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25358,
+      "num": 113659,
+      "word": "一年57亿次门诊背后的监管难题",
+      "onboard_time": 1763359821,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24680,
+      "num": 141809,
+      "word": "9岁女童术后成植物人一审开庭",
+      "onboard_time": 1763361021,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22646,
