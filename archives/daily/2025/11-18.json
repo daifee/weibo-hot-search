@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763401396875,
+  "endTime": 1763404658070,
   "band_list": [
     {
       "raw_hot": 628933,
@@ -419,8 +419,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 34969,
-      "num": 40978,
+      "raw_hot": 41826,
+      "num": 41826,
       "word": "孙颖莎1比3落后出去换了件衣服",
       "onboard_time": 1763400556,
       "rank": 37,
@@ -443,12 +443,52 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 26702,
+      "num": 37147,
+      "word": "现在就出发 神经特效",
+      "onboard_time": 1763403195,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 22738,
       "num": 392054,
       "word": "C919和C909首次亮相中东",
       "onboard_time": 1763375423,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 21521,
+      "num": 37068,
+      "word": "现在就出发",
+      "onboard_time": 1763403555,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 19403,
+      "num": 31792,
+      "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
+      "onboard_time": 1763403855,
+      "rank": 44,
+      "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 19050,
+      "num": 31772,
+      "word": "网传刘耀文新歌有十六套造型",
+      "onboard_time": 1763403495,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 18174,
+      "num": 31770,
+      "word": "国防部回应美对台军售",
+      "onboard_time": 1763402834,
+      "rank": 46,
+      "category": "国际时政,国内时政"
     }
   ],
   "hotgov_list": [

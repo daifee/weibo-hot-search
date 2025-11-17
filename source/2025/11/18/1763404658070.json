@@ -1,0 +1,410 @@
+{
+  "runTime": 1763404658070,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 117889,
+        "num": 138462,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93394,
+        "num": 93394,
+        "word": "奥特曼扮演者发文质问高市早苗",
+        "onboard_time": 1763391863,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9125,
+        "num": 89174,
+        "word": "C919和C909首次亮相中东",
+        "onboard_time": 1763375423,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 85944,
+        "num": 85944,
+        "word": "T1官宣Gumayusi离队",
+        "onboard_time": 1763381481,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82836,
+        "num": 82836,
+        "word": "日方称向中方提抗议",
+        "onboard_time": 1763388504,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68085,
+        "num": 68085,
+        "word": "中方已向美方提严正交涉",
+        "onboard_time": 1763386403,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65356,
+        "num": 65356,
+        "word": "日本扩军剑指中国",
+        "onboard_time": 1763390483,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65184,
+        "num": 65184,
+        "word": "高市早苗搞事已遭反噬",
+        "onboard_time": 1763376560,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54821,
+        "num": 54821,
+        "word": "日本酒店退订潮",
+        "onboard_time": 1763383582,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 45702,
+        "num": 45702,
+        "word": "南京下雪",
+        "onboard_time": 1763390362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92151,
+        "num": 45029,
+        "word": "不要删掉讨厌的人的微信",
+        "onboard_time": 1763370802,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 68320,
+        "num": 44729,
+        "word": "70后户外网红博主坠崖身亡",
+        "onboard_time": 1763393721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52281,
+        "num": 43328,
+        "word": "湖南一婴儿一出生就15岁",
+        "onboard_time": 1763378422,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51495,
+        "num": 42696,
+        "word": "中国代表联大发言让日本破大防",
+        "onboard_time": 1763384602,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41826,
+        "num": 41826,
+        "word": "孙颖莎1比3落后出去换了件衣服",
+        "onboard_time": 1763400556,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37328,
+        "num": 37328,
+        "word": "Gumayusi HLE",
+        "onboard_time": 1763383402,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30733,
+        "num": 37309,
+        "word": "两部日本电影撤档影城正陆续退票",
+        "onboard_time": 1763387422,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 26702,
+        "num": 37147,
+        "word": "现在就出发 神经特效",
+        "onboard_time": 1763403195,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21521,
+        "num": 37068,
+        "word": "现在就出发",
+        "onboard_time": 1763403555,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20242,
+        "num": 36868,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763377942,
+        "rank": 19,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 58234,
+        "num": 36777,
+        "word": "小海绵身高到baby肩膀了",
+        "onboard_time": 1763371282,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54461,
+        "num": 36699,
+        "word": "曝iPhone17 Pro Max被湿巾擦掉色",
+        "onboard_time": 1763388262,
+        "rank": 21,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 36589,
+        "num": 36589,
+        "word": "新东方员工吐槽俞敏洪内部信",
+        "onboard_time": 1763381661,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 34900,
+        "num": 34900,
+        "word": "T1管理层",
+        "onboard_time": 1763382620,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33721,
+        "num": 33721,
+        "word": "BLG转会",
+        "onboard_time": 1763388442,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 33096,
+        "num": 33096,
+        "word": "宁波妇幼",
+        "onboard_time": 1763373201,
+        "rank": 25,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 33005,
+        "num": 33005,
+        "word": "Viper去哪儿",
+        "onboard_time": 1763383402,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 32830,
+        "num": 32830,
+        "word": "只有没结婚的才知道她说的有多真",
+        "onboard_time": 1763389642,
+        "rank": 27,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 32002,
+        "num": 32002,
+        "word": "朝鲜媒体警告日本",
+        "onboard_time": 1763387003,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 26681,
+        "num": 32001,
+        "word": "外交部明确表态不会见高市早苗",
+        "onboard_time": 1763387543,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29498,
+        "num": 31984,
+        "word": "森林北公布体检结果",
+        "onboard_time": 1763380041,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 26896,
+        "num": 31966,
+        "word": "霍震霆朱玲玲霍启刚现身霍启仁婚礼",
+        "onboard_time": 1763382441,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26457,
+        "num": 31958,
+        "word": "宋佳白玉兰 击败甄嬛传",
+        "onboard_time": 1763372241,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 25413,
+        "num": 31935,
+        "word": "T1 Peyz",
+        "onboard_time": 1763383041,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 25154,
+        "num": 31929,
+        "word": "女婴心脏手术去世涉事医生已停诊",
+        "onboard_time": 1763370143,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24292,
+        "num": 31921,
+        "word": "中国驻日大使馆再发帖",
+        "onboard_time": 1763393002,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23606,
+        "num": 31900,
+        "word": "汪顺400混4连冠",
+        "onboard_time": 1763382142,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23563,
+        "num": 31894,
+        "word": "李雪琴早就知道董璇张维伊在一起",
+        "onboard_time": 1763394023,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23463,
+        "num": 31878,
+        "word": "宋佳 章子怡",
+        "onboard_time": 1763368521,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 22072,
+        "num": 31866,
+        "word": "张博恒全运会单杠金牌",
+        "onboard_time": 1763390782,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21371,
+        "num": 31844,
+        "word": "zeus",
+        "onboard_time": 1763387182,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19856,
+        "num": 31829,
+        "word": "霍尊回应复出",
+        "onboard_time": 1763387182,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19852,
+        "num": 31823,
+        "word": "全运会体操收官",
+        "onboard_time": 1763397978,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19524,
+        "num": 31807,
+        "word": "彭小苒 我努力做个好妈妈",
+        "onboard_time": 1763390903,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19403,
+        "num": 31792,
+        "word": "鬼灭之刃剧场版暂居全球票房年榜第5",
+        "onboard_time": 1763403855,
+        "rank": 44,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 19050,
+        "num": 31772,
+        "word": "网传刘耀文新歌有十六套造型",
+        "onboard_time": 1763403495,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 18174,
+        "num": 31770,
+        "word": "国防部回应美对台军售",
+        "onboard_time": 1763402834,
+        "rank": 46,
+        "category": "国际时政,国内时政"
+      },
+      {
+        "raw_hot": 18171,
+        "num": 31753,
+        "word": "李冰洁现学蛙泳",
+        "onboard_time": 1763395760,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17998,
+        "num": 31740,
+        "word": "张继科调侃樊振东分一个全运冠军",
+        "onboard_time": 1763396181,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15949,
+        "num": 31728,
+        "word": "唐诡3终于等到毛林林出场了",
+        "onboard_time": 1763382022,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}
