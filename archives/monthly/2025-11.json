@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763344816577,
+  "endTime": 1763346132349,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -971,6 +971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1221057,
+      "num": 1221057,
+      "word": "日媒称中方措施超出日本预期",
+      "onboard_time": 1763336900,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1220113,
       "num": 184569,
       "word": "满清野史",
@@ -1225,14 +1233,6 @@
       "onboard_time": 1762689380,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 1093728,
-      "num": 1174996,
-      "word": "日媒称中方措施超出日本预期",
-      "onboard_time": 1763336900,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1087235,
@@ -2376,6 +2376,14 @@
       "word": "央视撤档爱情没有神话",
       "onboard_time": 1762325720,
       "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 768523,
+      "num": 768523,
+      "word": "枭起青壤",
+      "onboard_time": 1762233380,
+      "rank": 23,
       "category": "剧集"
     },
     {
@@ -7099,14 +7107,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 404384,
-      "num": 404384,
-      "word": "枭起青壤",
-      "onboard_time": 1762233380,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 404318,
       "num": 223712,
       "word": "王男王广",
@@ -10972,7 +10972,7 @@
     },
     {
       "raw_hot": 283735,
-      "num": 102850,
+      "num": 157240,
       "word": "章子怡带孩子们聚餐",
       "onboard_time": 1763341521,
       "rank": 20,
@@ -15923,6 +15923,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198629,
+      "num": 198629,
+      "word": "王一博探索新境2定档",
+      "onboard_time": 1763344520,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198528,
       "num": 152949,
       "word": "王楚钦11比9于何一",
@@ -16232,6 +16240,14 @@
       "word": "唐嫣新剧编剧秦雯",
       "onboard_time": 1762218680,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 195527,
+      "num": 195527,
+      "word": "天才女友官宣杀青",
+      "onboard_time": 1763345661,
+      "rank": 14,
       "category": "剧集"
     },
     {
@@ -16916,7 +16932,7 @@
     },
     {
       "raw_hot": 190683,
-      "num": 102114,
+      "num": 127262,
       "word": "华为Mate80系列11月25日发布",
       "onboard_time": 1763344401,
       "rank": 22,
@@ -17545,6 +17561,14 @@
       "onboard_time": 1762874182,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186471,
+      "num": 186471,
+      "word": "探索新境2",
+      "onboard_time": 1763344942,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 186433,
@@ -18939,6 +18963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174292,
+      "num": 155193,
+      "word": "王楚钦回应三届止步半决赛",
+      "onboard_time": 1763343623,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 174148,
       "num": 174148,
       "word": "永庆寺",
@@ -19641,6 +19673,14 @@
       "onboard_time": 1761970401,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168096,
+      "num": 168096,
+      "word": "枭起青壤定档",
+      "onboard_time": 1763345959,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 168084,
@@ -20915,6 +20955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 160606,
+      "num": 160606,
+      "word": "日本的三个没想到",
+      "onboard_time": 1763344881,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 160588,
       "num": 160588,
       "word": "为什么洗澡时会产生唱歌好听的错觉",
@@ -21948,7 +21996,7 @@
     },
     {
       "raw_hot": 155256,
-      "num": 101447,
+      "num": 150403,
       "word": "iPhone内存你可能一直清理错了",
       "onboard_time": 1763342000,
       "rank": 25,
@@ -28860,7 +28908,7 @@
     },
     {
       "raw_hot": 124483,
-      "num": 101306,
+      "num": 119178,
       "word": "美航母打击群进入加勒比海",
       "onboard_time": 1763340921,
       "rank": 26,
@@ -30121,14 +30169,6 @@
       "onboard_time": 1762925660,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120444,
-      "num": 100679,
-      "word": "王楚钦回应三届止步半决赛",
-      "onboard_time": 1763343623,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 120421,
@@ -31995,6 +32035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114453,
+      "num": 114453,
+      "word": "防窥膜 伤眼睛",
+      "onboard_time": 1763343379,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114443,
       "num": 114443,
       "word": "妈妈很美 只是没有化过妆",
@@ -33124,7 +33172,7 @@
     },
     {
       "raw_hot": 111130,
-      "num": 100515,
+      "num": 109035,
       "word": "人生中第一次摸了100条狗",
       "onboard_time": 1763342241,
       "rank": 32,
@@ -33321,6 +33369,14 @@
       "onboard_time": 1763118742,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 110545,
+      "num": 160868,
+      "word": "日本介入台海即是侵略",
+      "onboard_time": 1763345541,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 110526,
@@ -34675,6 +34731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106758,
+      "num": 106758,
+      "word": "打工人是会哄自己上班的",
+      "onboard_time": 1763342720,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 106757,
       "num": 127709,
       "word": "时代少年团六周年应援棒中控模式",
@@ -35441,6 +35505,14 @@
       "onboard_time": 1762596861,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 104657,
+      "num": 104657,
+      "word": "情绪成熟的9个表现",
+      "onboard_time": 1763346081,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 104656,
@@ -36835,20 +36907,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101505,
+      "num": 104894,
+      "word": "美国一人独中70亿元彩票",
+      "onboard_time": 1763345661,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101492,
       "num": 101492,
       "word": "女孩被虐亡案生父为继母哭泣求情",
       "onboard_time": 1762862780,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101460,
-      "num": 101460,
-      "word": "王一博探索新境2定档",
-      "onboard_time": 1763344520,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 101443,
@@ -37433,14 +37505,6 @@
       "onboard_time": 1762221800,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 100273,
-      "num": 100273,
-      "word": "打工人是会哄自己上班的",
-      "onboard_time": 1763342720,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 100247,
@@ -38161,6 +38225,14 @@
       "onboard_time": 1761902303,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98526,
+      "num": 98526,
+      "word": "兽皮痣无法通过产检提前发现",
+      "onboard_time": 1763345600,
+      "rank": 42,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 98504,
@@ -40313,6 +40385,14 @@
       "onboard_time": 1762149140,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93786,
+      "num": 93786,
+      "word": "若中国游客减少将影响日本经济",
+      "onboard_time": 1763344700,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 93763,
@@ -42555,6 +42635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 88958,
+      "num": 88958,
+      "word": "50%上呼吸道感染由鼻病毒引起",
+      "onboard_time": 1763345000,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 88913,
       "num": 88913,
       "word": "咪 不敢睁开眼希望是我的幻觉",
@@ -42947,6 +43035,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 88159,
+      "num": 87965,
+      "word": "南北方吃油条的差异",
+      "onboard_time": 1763343559,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 88139,
       "num": 88139,
       "word": "快递已由小猫代收",
@@ -43017,14 +43113,6 @@
       "onboard_time": 1762529541,
       "rank": 44,
       "category": "演出"
-    },
-    {
-      "raw_hot": 87965,
-      "num": 87965,
-      "word": "南北方吃油条的差异",
-      "onboard_time": 1763343559,
-      "rank": 43,
-      "category": "美食"
     },
     {
       "raw_hot": 87951,
@@ -43209,14 +43297,6 @@
       "onboard_time": 1762503861,
       "rank": 33,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 87536,
-      "num": 87536,
-      "word": "防窥膜 伤眼睛",
-      "onboard_time": 1763343379,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 87535,
@@ -43409,14 +43489,6 @@
       "onboard_time": 1762676061,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 87184,
-      "num": 87184,
-      "word": "若中国游客减少将影响日本经济",
-      "onboard_time": 1763344700,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 87158,
@@ -45107,6 +45179,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 83376,
+      "num": 83376,
+      "word": "wps崩了",
+      "onboard_time": 1763345721,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83364,
       "num": 99529,
       "word": "82岁富豪将近25亿元股票分给两女",
@@ -45313,6 +45393,14 @@
       "onboard_time": 1763000480,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82904,
+      "num": 82904,
+      "word": "刘宇宁说回去给张凌赫看腹肌",
+      "onboard_time": 1763346022,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 82896,
@@ -50643,6 +50731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63667,
+      "num": 829350,
+      "word": "任性宣泄不可取两名当事人被行政拘留",
+      "onboard_time": 1763343441,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63591,
       "num": 63591,
       "word": "59岁男子把有毒垂序商陆当人参吃",
@@ -51273,14 +51369,6 @@
       "onboard_time": 1762151780,
       "rank": 37,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 60731,
-      "num": 829350,
-      "word": "任性宣泄不可取两名当事人被行政拘留",
-      "onboard_time": 1763343441,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60710,
@@ -52513,6 +52601,14 @@
       "onboard_time": 1761975201,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53163,
+      "num": 202933,
+      "word": "日本高官来华解释高市言论",
+      "onboard_time": 1763345600,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53048,
@@ -55291,6 +55387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37378,
+      "num": 106565,
+      "word": "交付不到一年新房外墙大面积脱落",
+      "onboard_time": 1763345361,
+      "rank": 36,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 37360,
       "num": 529178,
       "word": "致敬全运会赛场上的老将",
@@ -55345,6 +55449,14 @@
       "onboard_time": 1762691363,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 36989,
+      "num": 105999,
+      "word": "上报阿坝垮塌大桥裂缝司机发声",
+      "onboard_time": 1763345959,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36834,
@@ -57385,6 +57497,14 @@
       "onboard_time": 1762284014,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 25905,
+      "num": 105621,
+      "word": "那英现场改规则",
+      "onboard_time": 1763345181,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 25760,

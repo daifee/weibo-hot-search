@@ -1,0 +1,410 @@
+{
+  "runTime": 1763346132349,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1221057,
+        "num": 1221057,
+        "word": "日媒称中方措施超出日本预期",
+        "onboard_time": 1763336900,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 782020,
+        "num": 782020,
+        "word": "日本被首相拖入国家危机",
+        "onboard_time": 1763337861,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63667,
+        "num": 774386,
+        "word": "任性宣泄不可取两名当事人被行政拘留",
+        "onboard_time": 1763343441,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 768523,
+        "num": 768523,
+        "word": "枭起青壤",
+        "onboard_time": 1763335158,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 732298,
+        "num": 732298,
+        "word": "余承东官宣华为Mate80发布会",
+        "onboard_time": 1763342541,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 401625,
+        "num": 576503,
+        "word": "东京突发持刀伤人事件1人受伤",
+        "onboard_time": 1763340562,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 572273,
+        "num": 572273,
+        "word": "雷军辟谣",
+        "onboard_time": 1763341401,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 369774,
+        "num": 369774,
+        "word": "高市早苗鼓吹日本人优先",
+        "onboard_time": 1763337079,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 206398,
+        "num": 206398,
+        "word": "王曼昱冠军",
+        "onboard_time": 1763306186,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53163,
+        "num": 202933,
+        "word": "日本高官来华解释高市言论",
+        "onboard_time": 1763345600,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 811279,
+        "num": 202179,
+        "word": "张艺谋曾说金鸡奖是全世界最难拿的奖",
+        "onboard_time": 1763342000,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 284725,
+        "num": 202099,
+        "word": "杨超越备菜像开了倍速",
+        "onboard_time": 1763342361,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 201119,
+        "num": 201119,
+        "word": "张怡宁 意大利记者",
+        "onboard_time": 1763306664,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 198629,
+        "num": 198629,
+        "word": "王一博探索新境2定档",
+        "onboard_time": 1763344520,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195527,
+        "num": 195527,
+        "word": "天才女友官宣杀青",
+        "onboard_time": 1763345661,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190640,
+        "num": 190640,
+        "word": "被通缉台独网红叫嚣悬赏金太少",
+        "onboard_time": 1763337500,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186471,
+        "num": 186471,
+        "word": "探索新境2",
+        "onboard_time": 1763344942,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 168096,
+        "num": 168096,
+        "word": "枭起青壤定档",
+        "onboard_time": 1763345959,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161957,
+        "num": 161957,
+        "word": "孙颖莎vs王曼昱",
+        "onboard_time": 1763298261,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110545,
+        "num": 160868,
+        "word": "日本介入台海即是侵略",
+        "onboard_time": 1763345541,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160606,
+        "num": 160606,
+        "word": "日本的三个没想到",
+        "onboard_time": 1763344881,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224377,
+        "num": 157240,
+        "word": "章子怡带孩子们聚餐",
+        "onboard_time": 1763341521,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174292,
+        "num": 155193,
+        "word": "王楚钦回应三届止步半决赛",
+        "onboard_time": 1763343623,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170554,
+        "num": 153626,
+        "word": "霍尊 复出",
+        "onboard_time": 1763300122,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 150403,
+        "num": 150403,
+        "word": "iPhone内存你可能一直清理错了",
+        "onboard_time": 1763342000,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 148996,
+        "num": 148996,
+        "word": "高市早苗被喊话向中国道歉",
+        "onboard_time": 1763306246,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127262,
+        "num": 127262,
+        "word": "华为Mate80系列11月25日发布",
+        "onboard_time": 1763344401,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 110422,
+        "num": 124704,
+        "word": "央视曝光6666元包教包会养伤人蜂",
+        "onboard_time": 1763302342,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 105661,
+        "num": 123519,
+        "word": "孙颖莎亚军",
+        "onboard_time": 1763306186,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105323,
+        "num": 122922,
+        "word": "喜人奇妙夜 鬼灭之刃",
+        "onboard_time": 1763336539,
+        "rank": 29,
+        "category": "综艺,动漫"
+      },
+      {
+        "raw_hot": 122867,
+        "num": 122867,
+        "word": "刘宇宁演唱会内娱大佬团建",
+        "onboard_time": 1763304564,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 119178,
+        "num": 119178,
+        "word": "美航母打击群进入加勒比海",
+        "onboard_time": 1763340921,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114453,
+        "num": 114453,
+        "word": "防窥膜 伤眼睛",
+        "onboard_time": 1763343379,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109765,
+        "num": 109765,
+        "word": "李晨穿了白鹿的衣服",
+        "onboard_time": 1763337198,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109035,
+        "num": 109035,
+        "word": "人生中第一次摸了100条狗",
+        "onboard_time": 1763342241,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 106758,
+        "num": 106758,
+        "word": "打工人是会哄自己上班的",
+        "onboard_time": 1763342720,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 37378,
+        "num": 106565,
+        "word": "交付不到一年新房外墙大面积脱落",
+        "onboard_time": 1763345361,
+        "rank": 36,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 36989,
+        "num": 105999,
+        "word": "上报阿坝垮塌大桥裂缝司机发声",
+        "onboard_time": 1763345959,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25905,
+        "num": 105621,
+        "word": "那英现场改规则",
+        "onboard_time": 1763345181,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101505,
+        "num": 104894,
+        "word": "美国一人独中70亿元彩票",
+        "onboard_time": 1763345661,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104657,
+        "num": 104657,
+        "word": "情绪成熟的9个表现",
+        "onboard_time": 1763346081,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 103873,
+        "num": 103873,
+        "word": "减肥对圆脸的面部影响有多大",
+        "onboard_time": 1763304264,
+        "rank": 41,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 98526,
+        "num": 98526,
+        "word": "兽皮痣无法通过产检提前发现",
+        "onboard_time": 1763345600,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 93786,
+        "num": 93786,
+        "word": "若中国游客减少将影响日本经济",
+        "onboard_time": 1763344700,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88958,
+        "num": 88958,
+        "word": "50%上呼吸道感染由鼻病毒引起",
+        "onboard_time": 1763345000,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83713,
+        "num": 83713,
+        "word": "何炅这是我活该的",
+        "onboard_time": 1763308702,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88159,
+        "num": 83636,
+        "word": "南北方吃油条的差异",
+        "onboard_time": 1763343559,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 83376,
+        "num": 83376,
+        "word": "wps崩了",
+        "onboard_time": 1763345721,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82904,
+        "num": 82904,
+        "word": "刘宇宁说回去给张凌赫看腹肌",
+        "onboard_time": 1763346022,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81869,
+        "num": 81869,
+        "word": "高市早苗探讨修改无核三原则",
+        "onboard_time": 1763344760,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}
