@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763362411042,
+  "endTime": 1763364455535,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -19,6 +19,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1268238,
+      "num": 1268238,
+      "word": "中国强烈回应震动日本",
+      "onboard_time": 1763360483,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1241019,
       "num": 474032,
       "word": "高市早苗扩军",
@@ -33,6 +41,14 @@
       "onboard_time": 1763336900,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1121246,
+      "num": 189516,
+      "word": "何洁前夫回应离婚",
+      "onboard_time": 1763362880,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1055628,
@@ -115,14 +131,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 655038,
-      "num": 655038,
-      "word": "中国强烈回应震动日本",
-      "onboard_time": 1763360483,
-      "rank": 7,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 626723,
       "num": 446141,
       "word": "22岁帮家里卖完12万副眼镜",
@@ -169,6 +177,14 @@
       "onboard_time": 1763341401,
       "rank": 6,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 570062,
+      "num": 207254,
+      "word": "林允 天亮了",
+      "onboard_time": 1763361501,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 567607,
@@ -283,6 +299,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 451334,
+      "num": 244336,
+      "word": "陈梦回应戴项链参加比赛",
+      "onboard_time": 1763359882,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 450721,
       "num": 450721,
       "word": "众星送别悼念甄志强",
@@ -339,6 +363,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 396759,
+      "num": 396759,
+      "word": "FPX退出LPL",
+      "onboard_time": 1763363901,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 395878,
       "num": 438119,
       "word": "为什么短剧质感的长剧火起来了",
@@ -371,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 381269,
+      "num": 206206,
+      "word": "谁家cp刚圆房就be啊",
+      "onboard_time": 1763362640,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 364314,
       "num": 237145,
       "word": "我国死亡率最高的恶性肿瘤",
@@ -385,6 +425,14 @@
       "onboard_time": 1763352801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361246,
+      "num": 361246,
+      "word": "向往的生活",
+      "onboard_time": 1763358861,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 334399,
@@ -411,12 +459,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 307783,
-      "num": 307783,
-      "word": "向往的生活",
-      "onboard_time": 1763358861,
-      "rank": 6,
-      "category": "综艺"
+      "raw_hot": 303334,
+      "num": 185787,
+      "word": "曾轶可演唱会 迟到打碟一小时",
+      "onboard_time": 1763363239,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 300697,
@@ -425,6 +473,14 @@
       "onboard_time": 1763349141,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 299336,
+      "num": 204720,
+      "word": "董璇张维伊一开始没打算结婚",
+      "onboard_time": 1763363421,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 288475,
@@ -489,14 +545,6 @@
       "onboard_time": 1763350822,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 267108,
-      "num": 244336,
-      "word": "陈梦回应戴项链参加比赛",
-      "onboard_time": 1763359882,
-      "rank": 26,
-      "category": "体育"
     },
     {
       "raw_hot": 266608,
@@ -596,7 +644,7 @@
     },
     {
       "raw_hot": 216937,
-      "num": 265636,
+      "num": 299102,
       "word": "台湾民众坦然说出我是中国人",
       "onboard_time": 1763357662,
       "rank": 38,
@@ -683,14 +731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192892,
-      "num": 192892,
-      "word": "林允 天亮了",
-      "onboard_time": 1763361501,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190683,
       "num": 127262,
       "word": "华为Mate80系列11月25日发布",
@@ -704,6 +744,14 @@
       "word": "白血病女孩回应用苹果手机",
       "onboard_time": 1763357001,
       "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189807,
+      "num": 241876,
+      "word": "专家回应村民盗水吸金年入百万",
+      "onboard_time": 1763360783,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -803,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 172563,
+      "num": 172563,
+      "word": "沈佳润带爸爸玩偶打卡音银楼梯",
+      "onboard_time": 1763361982,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 172326,
       "num": 172326,
       "word": "一代人有一代人的馋嘴",
@@ -817,6 +873,14 @@
       "onboard_time": 1763348540,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169046,
+      "num": 169046,
+      "word": "卫健委回应5月龄女婴心脏手术离世",
+      "onboard_time": 1763361982,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 165511,
@@ -907,6 +971,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157419,
+      "num": 185008,
+      "word": "中国游客减少冲击日本GDP",
+      "onboard_time": 1763362943,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 156758,
+      "num": 156758,
+      "word": "难怪小时候我妈说我电视瘾大",
+      "onboard_time": 1763362761,
+      "rank": 41,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 155403,
       "num": 155403,
       "word": "睡前五分钟玩了十小时手机",
@@ -979,14 +1059,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 144987,
-      "num": 144987,
-      "word": "卫健委回应5月龄女婴心脏手术离世",
-      "onboard_time": 1763361982,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 144932,
       "num": 144932,
       "word": "周翊然帮女嘉宾装手机",
@@ -1035,6 +1107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140213,
+      "num": 140213,
+      "word": "阿里巴巴回应千问崩了",
+      "onboard_time": 1763364381,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138777,
       "num": 138777,
       "word": "给绝交的好朋友发了条信息",
@@ -1051,12 +1131,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 134318,
+      "num": 134318,
+      "word": "固体版杨枝甘露又又进化了",
+      "onboard_time": 1763363481,
+      "rank": 45,
+      "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 133708,
+      "num": 169007,
+      "word": "日本旅游消费股遭遇黑色周一",
+      "onboard_time": 1763363782,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 132870,
       "num": 132870,
       "word": "陈梦回应是否会参加下届全运会",
       "onboard_time": 1763349742,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131837,
+      "num": 182032,
+      "word": "董璇回应张维伊耳机",
+      "onboard_time": 1763363180,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 131226,
@@ -1107,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125369,
+      "num": 125369,
+      "word": "日官员称高市早苗不会再有此类发言",
+      "onboard_time": 1763363360,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125058,
       "num": 147556,
       "word": "张博恒是发烧了",
@@ -1145,14 +1257,6 @@
       "onboard_time": 1763336539,
       "rank": 16,
       "category": "综艺,动漫"
-    },
-    {
-      "raw_hot": 123733,
-      "num": 123733,
-      "word": "沈佳润带爸爸玩偶打卡音银楼梯",
-      "onboard_time": 1763361982,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 122524,
@@ -1275,14 +1379,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 113544,
-      "num": 241876,
-      "word": "专家回应村民盗水吸金年入百万",
-      "onboard_time": 1763360783,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 111188,
       "num": 158117,
       "word": "造谣林允沈腾恋情网友致歉",
@@ -1401,6 +1497,14 @@
       "onboard_time": 1763344760,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99158,
+      "num": 198471,
+      "word": "硬刚ChatGPT的千问国内可下载",
+      "onboard_time": 1763362821,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 97561,
@@ -1595,6 +1699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 81793,
+      "num": 162111,
+      "word": "日本拥有核弹头负2枚",
+      "onboard_time": 1763364381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81323,
       "num": 81323,
       "word": "Kael蹲在角落发呆",
@@ -1649,6 +1761,14 @@
       "onboard_time": 1763360960,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77393,
+      "num": 445623,
+      "word": "美被曝伪造证据黑吃黑窃取巨额比特币",
+      "onboard_time": 1763364202,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76111,
@@ -1771,6 +1891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61543,
+      "num": 123697,
+      "word": "23岁失联留学生父母已赴美寻女",
+      "onboard_time": 1763362821,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61283,
       "num": 239060,
       "word": "荣耀500为什么叫超级标准版",
@@ -1785,6 +1913,14 @@
       "onboard_time": 1763361201,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58963,
+      "num": 163959,
+      "word": "黄宗泽称佘诗曼片酬最高",
+      "onboard_time": 1763363901,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 55209,
@@ -1851,6 +1987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 49267,
+      "num": 193358,
+      "word": "一不小心成了赛季百事通",
+      "onboard_time": 1763363061,
+      "rank": 17,
+      "category": "体育,数码"
+    },
+    {
       "raw_hot": 47602,
       "num": 310137,
       "word": "阿里千问的发版文案是弹幕吧",
@@ -1873,6 +2017,14 @@
       "onboard_time": 1763354002,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43615,
+      "num": 164965,
+      "word": "野猪被堵路中跳桥当场摔死",
+      "onboard_time": 1763364141,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41270,
@@ -2145,6 +2297,14 @@
       "onboard_time": 1763344161,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14697,
+      "num": 189864,
+      "word": "起底快通门票套餐陷阱",
+      "onboard_time": 1763364141,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 14540,
