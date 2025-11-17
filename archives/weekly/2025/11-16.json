@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763372005836,
+  "endTime": 1763372782046,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -249,6 +249,14 @@
       "onboard_time": 1763337861,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 937651,
+      "num": 208766,
+      "word": "小海绵身高到baby肩膀了",
+      "onboard_time": 1763371282,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 935788,
@@ -579,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 564051,
+      "num": 261104,
+      "word": "日本电影",
+      "onboard_time": 1763370021,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 562355,
       "num": 562355,
       "word": "樊振东vs于何一",
@@ -699,14 +715,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 500697,
-      "num": 203365,
-      "word": "小海绵身高到baby肩膀了",
-      "onboard_time": 1763371282,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 499605,
       "num": 238601,
       "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
@@ -753,6 +761,14 @@
       "onboard_time": 1763356942,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 480247,
+      "num": 254742,
+      "word": "女婴心脏手术去世涉事医生已停诊",
+      "onboard_time": 1763370143,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 478137,
@@ -907,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 434243,
+      "num": 279223,
+      "word": "霍启仁在玉龙雪山举办婚礼",
+      "onboard_time": 1763368162,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 433652,
       "num": 433652,
       "word": "沈腾你也在嗑吧",
@@ -915,28 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 429057,
-      "num": 261104,
-      "word": "日本电影",
-      "onboard_time": 1763370021,
-      "rank": 12,
-      "category": "电影"
-    },
-    {
       "raw_hot": 428111,
       "num": 679781,
       "word": "易烊千玺与他的金鸡奖杯",
       "onboard_time": 1763297423,
       "rank": 15,
       "category": "电影"
-    },
-    {
-      "raw_hot": 425581,
-      "num": 254742,
-      "word": "女婴心脏手术去世涉事医生已停诊",
-      "onboard_time": 1763370143,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 425073,
@@ -953,14 +961,6 @@
       "onboard_time": 1763347580,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 415441,
-      "num": 279223,
-      "word": "霍启仁在玉龙雪山举办婚礼",
-      "onboard_time": 1763368162,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 414045,
@@ -1307,6 +1307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 329024,
+      "num": 244587,
+      "word": "孙颖莎忘记还有团体赛要打",
+      "onboard_time": 1763369902,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 327486,
       "num": 327486,
       "word": "唐诡3弥补了仵作之死的遗憾",
@@ -1352,14 +1360,6 @@
       "word": "樊振东大湾区的王",
       "onboard_time": 1763276603,
       "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 315816,
-      "num": 244587,
-      "word": "孙颖莎忘记还有团体赛要打",
-      "onboard_time": 1763369902,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -1699,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255081,
+      "num": 212640,
+      "word": "宋佳白玉兰 击败甄嬛传",
+      "onboard_time": 1763372241,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254820,
       "num": 1979682,
       "word": "文淇 羡慕中女祝福中女",
@@ -2035,6 +2043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 204641,
+      "num": 204641,
+      "word": "RNG",
+      "onboard_time": 1763367680,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204112,
       "num": 204112,
       "word": "邓超 小鹿本来就天天开心",
@@ -2137,14 +2153,6 @@
       "onboard_time": 1763268021,
       "rank": 32,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 199446,
-      "num": 199446,
-      "word": "RNG",
-      "onboard_time": 1763367680,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 199303,
@@ -2619,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175443,
+      "num": 175443,
+      "word": "历任工作人员集体发声力挺曾轶可",
+      "onboard_time": 1763371702,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175350,
       "num": 181449,
       "word": "胡先煦 哥还记得咱们是一队的吗",
@@ -2633,6 +2649,14 @@
       "onboard_time": 1763343623,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173474,
+      "num": 173474,
+      "word": "日本网民吵成一团",
+      "onboard_time": 1763372061,
+      "rank": 35,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173388,
@@ -2753,6 +2777,14 @@
       "onboard_time": 1763213307,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167631,
+      "num": 167631,
+      "word": "台湾老百姓向高市早苗扔鸡蛋壳",
+      "onboard_time": 1763370981,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167615,
@@ -3147,6 +3179,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152402,
+      "num": 152402,
+      "word": "邵艺辉能不能找惠英红咏梅张子枫拍",
+      "onboard_time": 1763371942,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152374,
       "num": 331357,
       "word": "声鸣远扬直播",
@@ -3307,14 +3347,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146897,
-      "num": 142365,
-      "word": "历任工作人员集体发声力挺曾轶可",
-      "onboard_time": 1763371702,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146859,
       "num": 146859,
       "word": "张伟丽舍甫琴科地面缠斗",
@@ -3393,14 +3425,6 @@
       "onboard_time": 1763253681,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 143732,
-      "num": 143732,
-      "word": "台湾老百姓向高市早苗扔鸡蛋壳",
-      "onboard_time": 1763370981,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 143594,
@@ -3609,14 +3633,6 @@
       "onboard_time": 1763356822,
       "rank": 47,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135011,
-      "num": 135011,
-      "word": "邵艺辉能不能找惠英红咏梅张子枫拍",
-      "onboard_time": 1763371942,
-      "rank": 46,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 134943,
@@ -3995,6 +4011,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 123267,
+      "num": 123267,
+      "word": "卢凌风 没有接路人的义务",
+      "onboard_time": 1763372661,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123244,
       "num": 123244,
       "word": "中方对日迎头痛击如何击有多痛",
@@ -4259,6 +4283,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117401,
+      "num": 182566,
+      "word": "比亚迪成海外红毯常客",
+      "onboard_time": 1763372601,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 117244,
       "num": 117244,
       "word": "曝Zeka确定加入DNF",
@@ -4427,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111244,
+      "num": 111244,
+      "word": "狂野时代",
+      "onboard_time": 1763372181,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 111201,
       "num": 111201,
       "word": "甲流H3N2四个重症前兆要警惕",
@@ -4457,6 +4497,14 @@
       "onboard_time": 1763368222,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110614,
+      "num": 110614,
+      "word": "重庆一野猪在桥上突然跳桥死亡",
+      "onboard_time": 1763372481,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110577,
@@ -5171,6 +5219,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 84347,
+      "num": 210795,
+      "word": "希尔顿带四个保镖扫货",
+      "onboard_time": 1763372241,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 83720,
+      "num": 161767,
+      "word": "宋茜瘦到穿24码的裤子",
+      "onboard_time": 1763372241,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83376,
       "num": 83376,
       "word": "wps崩了",
@@ -5665,6 +5729,14 @@
       "onboard_time": 1763336239,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 53324,
+      "num": 161274,
+      "word": "迪丽热巴亲自完成百分之九十打戏",
+      "onboard_time": 1763372540,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 53109,
@@ -6284,7 +6356,7 @@
     },
     {
       "raw_hot": 26525,
-      "num": 142462,
+      "num": 209132,
       "word": "有必要带长辈打带状疱疹疫苗吗",
       "onboard_time": 1763371942,
       "rank": 41,
@@ -6320,6 +6392,14 @@
       "word": "一年57亿次门诊背后的监管难题",
       "onboard_time": 1763359821,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25142,
+      "num": 163784,
+      "word": "贵阳一溶洞堆放数米高垃圾含注射器",
+      "onboard_time": 1763372122,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -6465,6 +6545,14 @@
       "onboard_time": 1763269703,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17561,
+      "num": 211182,
+      "word": "网传孚日股份涉日言论引热议",
+      "onboard_time": 1763372241,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17183,
