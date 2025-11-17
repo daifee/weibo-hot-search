@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763389696227,
+  "endTime": 1763390737071,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -452,7 +452,7 @@
     },
     {
       "raw_hot": 712659,
-      "num": 255022,
+      "num": 271125,
       "word": "中方已向美方提严正交涉",
       "onboard_time": 1763386403,
       "rank": 31,
@@ -971,8 +971,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463745,
-      "num": 254775,
+      "raw_hot": 463983,
+      "num": 271064,
       "word": "樊振东试探直播镜头",
       "onboard_time": 1763387362,
       "rank": 25,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1763373561,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 355698,
+      "num": 355698,
+      "word": "外交部明确表态不会见高市早苗",
+      "onboard_time": 1763387543,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 354574,
@@ -1795,6 +1803,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 271736,
+      "num": 271736,
+      "word": "全运会奖牌榜",
+      "onboard_time": 1763387902,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269896,
+      "num": 269896,
+      "word": "张继科谈王曼昱新技术",
+      "onboard_time": 1763386581,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 269340,
       "num": 334696,
       "word": "孙颖莎王曼昱收视率打法",
@@ -1892,7 +1916,7 @@
     },
     {
       "raw_hot": 260946,
-      "num": 254648,
+      "num": 255378,
       "word": "BLG转会",
       "onboard_time": 1763388442,
       "rank": 15,
@@ -1931,14 +1955,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 255055,
-      "num": 255055,
-      "word": "外交部明确表态不会见高市早苗",
-      "onboard_time": 1763387543,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 254820,
       "num": 1979682,
       "word": "文淇 羡慕中女祝福中女",
@@ -1953,14 +1969,6 @@
       "onboard_time": 1763388023,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 254504,
-      "num": 254504,
-      "word": "张继科谈王曼昱新技术",
-      "onboard_time": 1763386581,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 254364,
@@ -2107,14 +2115,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233488,
-      "num": 254726,
-      "word": "全运会奖牌榜",
-      "onboard_time": 1763387902,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 232016,
       "num": 232016,
       "word": "咏梅 陪跑",
@@ -2233,6 +2233,14 @@
       "onboard_time": 1763357662,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 215804,
+      "num": 215804,
+      "word": "T1官宣Doran续约",
+      "onboard_time": 1763389464,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 215747,
@@ -2627,6 +2635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191860,
+      "num": 191860,
+      "word": "不要删掉讨厌的人的微信",
+      "onboard_time": 1763370802,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 191458,
       "num": 191458,
       "word": "工作细胞",
@@ -2779,6 +2795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187973,
+      "num": 254506,
+      "word": "山姆卖海飞丝被指选品像普通超市",
+      "onboard_time": 1763388563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187885,
       "num": 157312,
       "word": "胡歌生图也太生了",
@@ -2833,6 +2857,14 @@
       "onboard_time": 1763382862,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185918,
+      "num": 185918,
+      "word": "只有没结婚的才知道她说的有多真",
+      "onboard_time": 1763389642,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 185671,
@@ -3227,14 +3259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 168133,
-      "num": 168133,
-      "word": "不要删掉讨厌的人的微信",
-      "onboard_time": 1763370802,
-      "rank": 32,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 167950,
       "num": 300262,
       "word": "王曼昱4比0陈梦",
@@ -3329,14 +3353,6 @@
       "onboard_time": 1763356342,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 164071,
-      "num": 164071,
-      "word": "T1官宣Doran续约",
-      "onboard_time": 1763389464,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 163561,
@@ -3457,14 +3473,6 @@
       "onboard_time": 1763253140,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 159086,
-      "num": 159086,
-      "word": "只有没结婚的才知道她说的有多真",
-      "onboard_time": 1763389642,
-      "rank": 41,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 159062,
@@ -4003,6 +4011,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "南京下雪",
+      "onboard_time": 1763390362,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142696,
       "num": 142696,
       "word": "买车你会拒绝父辈审美吗",
@@ -4193,6 +4209,14 @@
       "onboard_time": 1763215352,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135999,
+      "num": 135999,
+      "word": "张博恒双杠银牌",
+      "onboard_time": 1763390243,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 135867,
@@ -4632,6 +4656,14 @@
       "word": "王曼昱孙颖莎陈梦都拿了粉色大湾鸡",
       "onboard_time": 1763312778,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "汪顺透露腰动不了",
+      "onboard_time": 1763388802,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -6027,14 +6059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84326,
-      "num": 254506,
-      "word": "山姆卖海飞丝被指选品像普通超市",
-      "onboard_time": 1763388563,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 83979,
       "num": 247579,
       "word": "Reno15潮流爆品",
@@ -6265,6 +6289,14 @@
       "onboard_time": 1763383102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71953,
+      "num": 221388,
+      "word": "日本扩军剑指中国",
+      "onboard_time": 1763390483,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71924,
@@ -7601,6 +7633,14 @@
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13467,
+      "num": 222121,
+      "word": "相关部门回应福建一市场现宰活猫售卖",
+      "onboard_time": 1763389882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 9334,

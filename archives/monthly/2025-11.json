@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763389696227,
+  "endTime": 1763390737071,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2916,7 +2916,7 @@
     },
     {
       "raw_hot": 712659,
-      "num": 255022,
+      "num": 271125,
       "word": "中方已向美方提严正交涉",
       "onboard_time": 1763386403,
       "rank": 31,
@@ -6379,8 +6379,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 463745,
-      "num": 254775,
+      "raw_hot": 463983,
+      "num": 271064,
       "word": "樊振东试探直播镜头",
       "onboard_time": 1763387362,
       "rank": 25,
@@ -8985,6 +8985,14 @@
       "onboard_time": 1761981681,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355698,
+      "num": 355698,
+      "word": "外交部明确表态不会见高市早苗",
+      "onboard_time": 1763387543,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 355082,
@@ -12195,6 +12203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 271736,
+      "num": 271736,
+      "word": "全运会奖牌榜",
+      "onboard_time": 1763387902,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271480,
       "num": 187469,
       "word": "GAI庆功宴王鹤棣送8万红包",
@@ -12249,6 +12265,14 @@
       "onboard_time": 1762938500,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269896,
+      "num": 269896,
+      "word": "张继科谈王曼昱新技术",
+      "onboard_time": 1763386581,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 269811,
@@ -12955,14 +12979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255055,
-      "num": 255055,
-      "word": "外交部明确表态不会见高市早苗",
-      "onboard_time": 1763387543,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 254969,
       "num": 254969,
       "word": "潘展乐全运会200自铜牌",
@@ -13009,14 +13025,6 @@
       "onboard_time": 1762519279,
       "rank": 34,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 254504,
-      "num": 254504,
-      "word": "张继科谈王曼昱新技术",
-      "onboard_time": 1763386581,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 254364,
@@ -13961,14 +13969,6 @@
       "onboard_time": 1762775060,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 233488,
-      "num": 254726,
-      "word": "全运会奖牌榜",
-      "onboard_time": 1763387902,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 233461,
@@ -15089,6 +15089,14 @@
       "onboard_time": 1762347321,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215804,
+      "num": 215804,
+      "word": "T1官宣Doran续约",
+      "onboard_time": 1763389464,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 215747,
@@ -17755,6 +17763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 191860,
+      "num": 191860,
+      "word": "不要删掉讨厌的人的微信",
+      "onboard_time": 1763370802,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 191787,
       "num": 163287,
       "word": "易烊千玺演刘春和每天都要做复健",
@@ -18395,6 +18411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187973,
+      "num": 254506,
+      "word": "山姆卖海飞丝被指选品像普通超市",
+      "onboard_time": 1763388563,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187948,
       "num": 182705,
       "word": "张柏芝 为什么你听得懂我的普通话",
@@ -18761,6 +18785,14 @@
       "onboard_time": 1763382862,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185918,
+      "num": 185918,
+      "word": "只有没结婚的才知道她说的有多真",
+      "onboard_time": 1763389642,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 185746,
@@ -20939,14 +20971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168133,
-      "num": 168133,
-      "word": "不要删掉讨厌的人的微信",
-      "onboard_time": 1763370802,
-      "rank": 32,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 168084,
       "num": 209940,
       "word": "唐诡尸兄含量极高的一集",
@@ -21737,14 +21761,6 @@
       "onboard_time": 1762565118,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 164071,
-      "num": 164071,
-      "word": "T1官宣Doran续约",
-      "onboard_time": 1763389464,
-      "rank": 39,
-      "category": "电竞"
     },
     {
       "raw_hot": 164056,
@@ -22585,14 +22601,6 @@
       "onboard_time": 1762411521,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 159086,
-      "num": 159086,
-      "word": "只有没结婚的才知道她说的有多真",
-      "onboard_time": 1763389642,
-      "rank": 41,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 159062,
@@ -25851,6 +25859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "南京下雪",
+      "onboard_time": 1763390362,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 142736,
       "num": 142736,
       "word": "网传瑞幸团建店员饮酒过量致死",
@@ -27545,6 +27561,14 @@
       "onboard_time": 1762845321,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 135999,
+      "num": 135999,
+      "word": "张博恒双杠银牌",
+      "onboard_time": 1763390243,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 135982,
@@ -30817,6 +30841,14 @@
       "onboard_time": 1761970401,
       "rank": 37,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 124145,
+      "num": 124145,
+      "word": "汪顺透露腰动不了",
+      "onboard_time": 1763388802,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124115,
@@ -46995,14 +47027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84326,
-      "num": 254506,
-      "word": "山姆卖海飞丝被指选品像普通超市",
-      "onboard_time": 1763388563,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 84321,
       "num": 84321,
       "word": "T1对阵海报",
@@ -51241,6 +51265,14 @@
       "onboard_time": 1762912940,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71953,
+      "num": 221388,
+      "word": "日本扩军剑指中国",
+      "onboard_time": 1763390483,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71937,
@@ -61937,6 +61969,14 @@
       "onboard_time": 1762115534,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 13467,
+      "num": 222121,
+      "word": "相关部门回应福建一市场现宰活猫售卖",
+      "onboard_time": 1763389882,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13436,
