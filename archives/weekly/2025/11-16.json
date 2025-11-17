@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763394261263,
+  "endTime": 1763397398403,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 655836,
-      "num": 655836,
+      "num": 823129,
       "word": "奥特曼扮演者发文质问高市早苗",
       "onboard_time": 1763391863,
       "rank": 7,
@@ -1659,6 +1659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303113,
+      "num": 155041,
+      "word": "70后户外网红博主坠崖身亡",
+      "onboard_time": 1763393721,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 300697,
       "num": 300697,
       "word": "无限暖暖",
@@ -2617,6 +2625,14 @@
       "onboard_time": 1763299763,
       "rank": 33,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 195074,
+      "num": 102944,
+      "word": "李冰洁现学蛙泳",
+      "onboard_time": 1763395760,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 194005,
@@ -3867,6 +3883,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149488,
+      "num": 149488,
+      "word": "朝雪录竟是00后在追",
+      "onboard_time": 1763391322,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149362,
       "num": 149362,
       "word": "穿秋裤",
@@ -4755,6 +4779,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122741,
+      "num": 122741,
+      "word": "李雪琴早就知道董璇张维伊在一起",
+      "onboard_time": 1763394023,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122532,
       "num": 122532,
       "word": "朱婷冲击四强失败拒绝采访",
@@ -5243,20 +5275,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112041,
-      "num": 142016,
-      "word": "朝雪录竟是00后在追",
-      "onboard_time": 1763391322,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111828,
       "num": 111828,
       "word": "央视起底AI仿冒名人营销乱象",
       "onboard_time": 1763294541,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 111781,
+      "num": 111781,
+      "word": "张博恒总结全运会",
+      "onboard_time": 1763396358,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 111519,
@@ -5963,14 +5995,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90343,
-      "num": 90343,
-      "word": "70后户外网红博主坠崖身亡",
-      "onboard_time": 1763393721,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90283,
       "num": 139457,
       "word": "字母哥一人打一片",
@@ -6145,14 +6169,6 @@
       "onboard_time": 1763339901,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84959,
-      "num": 84959,
-      "word": "李雪琴早就知道董璇张维伊在一起",
-      "onboard_time": 1763394023,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 84926,
@@ -6409,6 +6425,14 @@
       "onboard_time": 1763383102,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71958,
+      "num": 78168,
+      "word": "张继科调侃樊振东分一个全运冠军",
+      "onboard_time": 1763396181,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 71924,
