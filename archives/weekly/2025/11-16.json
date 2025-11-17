@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763354863208,
+  "endTime": 1763357327799,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -355,6 +355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 672488,
+      "num": 259558,
+      "word": "曾轶可现任助理发朋友圈对质",
+      "onboard_time": 1763356521,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 666019,
       "num": 316015,
       "word": "印度女子遭6人轮奸拦警车求助",
@@ -489,6 +497,14 @@
       "onboard_time": 1763267001,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 553942,
+      "num": 241371,
+      "word": "曝曾轶可职场霸凌",
+      "onboard_time": 1763354722,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 551563,
@@ -779,6 +795,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 407495,
+      "num": 407495,
+      "word": "赵丽颖工作室辟谣网传电影",
+      "onboard_time": 1763355382,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 404837,
+      "num": 306400,
+      "word": "英国连环强奸案受害者或多达数百人",
+      "onboard_time": 1763351841,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 401869,
       "num": 281553,
       "word": "王源官宣客厅狂欢跨年场",
@@ -851,12 +883,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 384507,
-      "num": 241371,
-      "word": "曝曾轶可职场霸凌",
-      "onboard_time": 1763354722,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 384120,
+      "num": 384120,
+      "word": "驻日美军基地出现大量毒蜘蛛",
+      "onboard_time": 1763354663,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 382962,
@@ -1115,14 +1147,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 306400,
-      "num": 306400,
-      "word": "英国连环强奸案受害者或多达数百人",
-      "onboard_time": 1763351841,
-      "rank": 23,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 305475,
       "num": 305475,
       "word": "咏梅 新的一天该有的都有",
@@ -1259,6 +1283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 279029,
+      "num": 260333,
+      "word": "下雪",
+      "onboard_time": 1763352622,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276532,
       "num": 276532,
       "word": "张继科说我没拿过全运会冠军",
@@ -1307,6 +1339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269214,
+      "num": 330911,
+      "word": "成龙去世谣言系AI生成",
+      "onboard_time": 1763353402,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267970,
       "num": 219493,
       "word": "惊蛰无声 金鸡拼图",
@@ -1329,14 +1369,6 @@
       "onboard_time": 1763350822,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 266897,
-      "num": 330911,
-      "word": "成龙去世谣言系AI生成",
-      "onboard_time": 1763353402,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 263767,
@@ -1483,6 +1515,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 234109,
+      "num": 261804,
+      "word": "新闻女王2断更",
+      "onboard_time": 1763353522,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 232016,
       "num": 232016,
       "word": "咏梅 陪跑",
@@ -1513,14 +1553,6 @@
       "onboard_time": 1763282002,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224224,
-      "num": 224224,
-      "word": "下雪",
-      "onboard_time": 1763352622,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 223912,
@@ -1569,6 +1601,14 @@
       "onboard_time": 1763352022,
       "rank": 32,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 219877,
+      "num": 324212,
+      "word": "生育津贴无需结婚证直发个人",
+      "onboard_time": 1763352801,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 215747,
@@ -1667,12 +1707,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205358,
+      "num": 205358,
+      "word": "华为Mate80全系直屏设计",
+      "onboard_time": 1763354301,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 205342,
       "num": 404518,
       "word": "侯明昊音乐节",
       "onboard_time": 1763294362,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204112,
+      "num": 204112,
+      "word": "邓超 小鹿本来就天天开心",
+      "onboard_time": 1763355083,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 204069,
@@ -1697,14 +1753,6 @@
       "onboard_time": 1763350401,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203715,
-      "num": 203715,
-      "word": "华为Mate80全系直屏设计",
-      "onboard_time": 1763354301,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 203199,
@@ -1817,14 +1865,6 @@
       "onboard_time": 1763291361,
       "rank": 28,
       "category": "科学科普,美食"
-    },
-    {
-      "raw_hot": 195654,
-      "num": 228900,
-      "word": "新闻女王2断更",
-      "onboard_time": 1763353522,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 195303,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1763299582,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189005,
+      "num": 261100,
+      "word": "胡一天杀回现偶的含金量",
+      "onboard_time": 1763356042,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 188835,
@@ -2155,14 +2203,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177840,
-      "num": 324212,
-      "word": "生育津贴无需结婚证直发个人",
-      "onboard_time": 1763352801,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 177609,
       "num": 208965,
       "word": "我在废土世界扫垃圾动画首曝",
@@ -2347,6 +2387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 165154,
+      "num": 165154,
+      "word": "常华森有效播剧",
+      "onboard_time": 1763356342,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163561,
       "num": 163561,
       "word": "赵梁州男子400混弃权",
@@ -2515,6 +2563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156205,
+      "num": 156205,
+      "word": "迪丽热巴已美到不知天地为何物了",
+      "onboard_time": 1763356881,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 155971,
       "num": 155971,
       "word": "女生自学化妆1个月的变化",
@@ -2537,6 +2593,14 @@
       "onboard_time": 1763289561,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155403,
+      "num": 155403,
+      "word": "睡前五分钟玩了十小时手机",
+      "onboard_time": 1763355262,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 155256,
@@ -2843,14 +2907,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 142213,
-      "num": 182077,
-      "word": "驻日美军基地出现大量毒蜘蛛",
-      "onboard_time": 1763354663,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 141827,
       "num": 123107,
       "word": "日本民众集会高喊高市早苗下台",
@@ -2889,6 +2945,14 @@
       "onboard_time": 1763270782,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 141101,
+      "num": 165597,
+      "word": "马龙为救球摔倒",
+      "onboard_time": 1763356702,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 141095,
@@ -3011,6 +3075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 134629,
+      "num": 134629,
+      "word": "白血病女孩回应用苹果手机",
+      "onboard_time": 1763357001,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134575,
       "num": 134575,
       "word": "好东西金鸡最佳故事片",
@@ -3073,6 +3145,14 @@
       "onboard_time": 1763201721,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131542,
+      "num": 131542,
+      "word": "张凌赫 我不是人啊",
+      "onboard_time": 1763356942,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 131226,
@@ -3219,6 +3299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126583,
+      "num": 126583,
+      "word": "胡先煦 哥还记得咱们是一队的吗",
+      "onboard_time": 1763357181,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126435,
       "num": 126435,
       "word": "熬夜和睡眠不足是两回事",
@@ -3257,6 +3345,14 @@
       "onboard_time": 1763340921,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 124226,
+      "num": 124226,
+      "word": "贾静雯叶童两代人的赵敏",
+      "onboard_time": 1763357181,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 124192,
@@ -3395,6 +3491,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120095,
+      "num": 120095,
+      "word": "樊振东指导上线",
+      "onboard_time": 1763355323,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 120000,
       "num": 178641,
       "word": "辛芷蕾点赞易烊千玺",
@@ -3475,6 +3579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118546,
+      "num": 118546,
+      "word": "突然的不理人冷淡都是有原因",
+      "onboard_time": 1763357001,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 118040,
       "num": 152315,
       "word": "德州网友吐槽超市几乎全是印度人",
@@ -3507,12 +3619,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117450,
+      "num": 117450,
+      "word": "日本外务省高官来华说明高市早苗言论",
+      "onboard_time": 1763356822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117244,
       "num": 117244,
       "word": "曝Zeka确定加入DNF",
       "onboard_time": 1763258660,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117148,
+      "num": 117148,
+      "word": "易烊千玺说观众认可是最大礼物",
+      "onboard_time": 1763355502,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 117146,
@@ -3561,6 +3689,14 @@
       "onboard_time": 1763274742,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 116059,
+      "num": 116059,
+      "word": "低精力人 高精力人",
+      "onboard_time": 1763356222,
+      "rank": 49,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 115860,
@@ -4379,6 +4515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 80885,
+      "num": 152062,
+      "word": "两魔丸大战邪恶栀子花",
+      "onboard_time": 1763356402,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78977,
       "num": 149584,
       "word": "高志凯建议禁止向日本出口稀土",
@@ -4747,6 +4891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 49588,
+      "num": 153213,
+      "word": "男子取90万给骗子说是彩礼",
+      "onboard_time": 1763356521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49523,
       "num": 166525,
       "word": "中国公民若在日本遭遇不法侵害怎么办",
@@ -4779,12 +4931,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 47602,
+      "num": 262354,
+      "word": "阿里千问的发版文案是弹幕吧",
+      "onboard_time": 1763355681,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 45595,
       "num": 45595,
       "word": "辛芷蕾金鸡奖红毯笑得好开心",
       "onboard_time": 1763243294,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 45592,
+      "num": 260112,
+      "word": "王楚钦3比1战胜孙闻",
+      "onboard_time": 1763356402,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 44710,
@@ -4915,20 +5083,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 39535,
+      "num": 367377,
+      "word": "肖战荣耀500动就动真格",
+      "onboard_time": 1763352263,
+      "rank": 21,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 39316,
       "num": 107855,
       "word": "朱雨玲陈梦五届同行难说再见",
       "onboard_time": 1763313017,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38730,
-      "num": 367377,
-      "word": "肖战荣耀500动就动真格",
-      "onboard_time": 1763352263,
-      "rank": 21,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 38633,
@@ -5243,6 +5411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26788,
+      "num": 154376,
+      "word": "日本GDP现负增长",
+      "onboard_time": 1763355202,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 26718,
       "num": 134573,
       "word": "邪恶谢霆花",
@@ -5321,6 +5497,14 @@
       "onboard_time": 1763257460,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22043,
+      "num": 154295,
+      "word": "巴厘岛车祸幸存者讲述事发情形",
+      "onboard_time": 1763356640,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 20748,
