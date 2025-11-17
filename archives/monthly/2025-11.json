@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763364455535,
+  "endTime": 1763365248726,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -771,6 +771,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 1324462,
+      "num": 1324462,
+      "word": "中国强烈回应震动日本",
+      "onboard_time": 1763360483,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1324104,
       "num": 1324104,
       "word": "陈梦铜牌",
@@ -889,14 +897,6 @@
       "onboard_time": 1762314261,
       "rank": 3,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1268238,
-      "num": 1268238,
-      "word": "中国强烈回应震动日本",
-      "onboard_time": 1763360483,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 1263831,
@@ -1113,6 +1113,14 @@
       "onboard_time": 1763212708,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1177968,
+      "num": 1177968,
+      "word": "FPX退出LPL",
+      "onboard_time": 1763363901,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 1172560,
@@ -3819,6 +3827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 615557,
+      "num": 206206,
+      "word": "谁家cp刚圆房就be啊",
+      "onboard_time": 1763362640,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 614588,
       "num": 248000,
       "word": "张凯丽回应63岁穿黑丝",
@@ -4147,6 +4163,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 588632,
+      "num": 207254,
+      "word": "林允 天亮了",
+      "onboard_time": 1763361501,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 588587,
       "num": 220296,
       "word": "女婴出生3天被爸爸外婆120元卖掉",
@@ -4313,14 +4337,6 @@
       "onboard_time": 1762099039,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 570062,
-      "num": 207254,
-      "word": "林允 天亮了",
-      "onboard_time": 1763361501,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 569968,
@@ -7531,14 +7547,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 396759,
-      "num": 396759,
-      "word": "FPX退出LPL",
-      "onboard_time": 1763363901,
-      "rank": 3,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 396607,
       "num": 396607,
       "word": "必胜客要被卖了",
@@ -7985,14 +7993,6 @@
       "onboard_time": 1763254099,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 381269,
-      "num": 206206,
-      "word": "谁家cp刚圆房就be啊",
-      "onboard_time": 1763362640,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 380690,
@@ -9099,6 +9099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 342039,
+      "num": 204720,
+      "word": "董璇张维伊一开始没打算结婚",
+      "onboard_time": 1763363421,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 341459,
       "num": 341459,
       "word": "樊振东4比0胜周雨",
@@ -9843,6 +9851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 320030,
+      "num": 185787,
+      "word": "曾轶可演唱会 迟到打碟一小时",
+      "onboard_time": 1763363239,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 319974,
       "num": 273632,
       "word": "赵子豪vs王楚钦",
@@ -10443,14 +10459,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 303334,
-      "num": 185787,
-      "word": "曾轶可演唱会 迟到打碟一小时",
-      "onboard_time": 1763363239,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303215,
       "num": 203653,
       "word": "控糖到了80多岁的皮肤状态",
@@ -10673,14 +10681,6 @@
       "onboard_time": 1762919540,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 299336,
-      "num": 204720,
-      "word": "董璇张维伊一开始没打算结婚",
-      "onboard_time": 1763363421,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 299207,
@@ -11561,6 +11561,14 @@
       "onboard_time": 1763202322,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278285,
+      "num": 167251,
+      "word": "张维伊叫小酒窝窝子的原因",
+      "onboard_time": 1763364681,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 278173,
@@ -20363,6 +20371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 167393,
+      "num": 167393,
+      "word": "建议王一博和陈烁学一下洗车技术",
+      "onboard_time": 1763364861,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167367,
       "num": 135481,
       "word": "张奕然放秋假",
@@ -22971,6 +22987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153064,
+      "num": 140213,
+      "word": "阿里巴巴回应千问崩了",
+      "onboard_time": 1763364381,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 152963,
       "num": 152963,
       "word": "我的宝宝也有了宝宝",
@@ -25131,6 +25155,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 141965,
+      "num": 167116,
+      "word": "2026第一部动画是中国奇谭2",
+      "onboard_time": 1763364501,
+      "rank": 21,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 141892,
       "num": 141892,
       "word": "孟子义拍完尚公主将无缝进组",
@@ -25473,14 +25505,6 @@
       "onboard_time": 1762845199,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 140213,
-      "num": 140213,
-      "word": "阿里巴巴回应千问崩了",
-      "onboard_time": 1763364381,
-      "rank": 43,
-      "category": "互联网"
     },
     {
       "raw_hot": 140209,
@@ -27731,6 +27755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131410,
+      "num": 131410,
+      "word": "唐诡3弥补了仵作之死的遗憾",
+      "onboard_time": 1763365042,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131393,
       "num": 131393,
       "word": "张雅琪一辈子的账都在花少算了",
@@ -27825,6 +27857,14 @@
       "onboard_time": 1762239742,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 131041,
+      "num": 131041,
+      "word": "日官员称高市早苗不会再有此类发言",
+      "onboard_time": 1763363360,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131037,
@@ -28931,6 +28971,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126829,
+      "num": 126829,
+      "word": "A股成交1.91万亿缩量473亿",
+      "onboard_time": 1763365102,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126795,
       "num": 62325,
       "word": "黄金裔明天见",
@@ -29369,14 +29417,6 @@
       "onboard_time": 1762770560,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125369,
-      "num": 125369,
-      "word": "日官员称高市早苗不会再有此类发言",
-      "onboard_time": 1763363360,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 125341,
@@ -30955,6 +30995,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 120696,
+      "num": 162111,
+      "word": "日本拥有核弹头负2枚",
+      "onboard_time": 1763364381,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120671,
       "num": 120671,
       "word": "周深刘宇宁说薛之谦影响了很多人",
@@ -31961,6 +32009,14 @@
       "onboard_time": 1762229600,
       "rank": 41,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 117558,
+      "num": 126692,
+      "word": "A股全市场百股涨停",
+      "onboard_time": 1763365161,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 117514,
@@ -46763,14 +46819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81793,
-      "num": 162111,
-      "word": "日本拥有核弹头负2枚",
-      "onboard_time": 1763364381,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81782,
       "num": 81782,
       "word": "2岁幼童跑向马路奶奶不追反锁门回屋",
@@ -47995,6 +48043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78115,
+      "num": 732420,
+      "word": "美被曝伪造证据黑吃黑窃取巨额比特币",
+      "onboard_time": 1763364202,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78111,
       "num": 78111,
       "word": "什么塑料袋啊 一系上就来钱",
@@ -48313,14 +48369,6 @@
       "onboard_time": 1762347442,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 77393,
-      "num": 445623,
-      "word": "美被曝伪造证据黑吃黑窃取巨额比特币",
-      "onboard_time": 1763364202,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 77387,
@@ -49611,6 +49659,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73053,
+      "num": 164965,
+      "word": "野猪被堵路中跳桥当场摔死",
+      "onboard_time": 1763364141,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73029,
       "num": 73029,
       "word": "迪丽热巴工作室出图",
@@ -50737,6 +50793,14 @@
       "onboard_time": 1762136241,
       "rank": 19,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 68266,
+      "num": 163959,
+      "word": "黄宗泽称佘诗曼片酬最高",
+      "onboard_time": 1763363901,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 68242,
@@ -52705,14 +52769,6 @@
       "onboard_time": 1762410440,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 58963,
-      "num": 163959,
-      "word": "黄宗泽称佘诗曼片酬最高",
-      "onboard_time": 1763363901,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 58954,
@@ -55337,14 +55393,6 @@
       "onboard_time": 1762769300,
       "rank": 25,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 43615,
-      "num": 164965,
-      "word": "野猪被堵路中跳桥当场摔死",
-      "onboard_time": 1763364141,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43611,
@@ -59123,6 +59171,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 22865,
+      "num": 189864,
+      "word": "起底快通门票套餐陷阱",
+      "onboard_time": 1763364141,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 22849,
       "num": 169444,
       "word": "寄拍模特下单千元后商家闭店",
@@ -60241,14 +60297,6 @@
       "onboard_time": 1762624096,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 14697,
-      "num": 189864,
-      "word": "起底快通门票套餐陷阱",
-      "onboard_time": 1763364141,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 14661,

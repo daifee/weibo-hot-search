@@ -1,0 +1,410 @@
+{
+  "runTime": 1763365248726,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1324462,
+        "num": 1324462,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1177968,
+        "num": 1177968,
+        "word": "FPX退出LPL",
+        "onboard_time": 1763363901,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78115,
+        "num": 732420,
+        "word": "美被曝伪造证据黑吃黑窃取巨额比特币",
+        "onboard_time": 1763364202,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 420528,
+        "num": 420528,
+        "word": "韩国叫停韩日联合演习",
+        "onboard_time": 1763357840,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302298,
+        "num": 302298,
+        "word": "向往的生活",
+        "onboard_time": 1763358861,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182203,
+        "num": 239004,
+        "word": "台湾民众坦然说出我是中国人",
+        "onboard_time": 1763357662,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 436917,
+        "num": 230778,
+        "word": "高市早苗扩军",
+        "onboard_time": 1763352862,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220874,
+        "num": 220874,
+        "word": "日媒称中方措施超出日本预期",
+        "onboard_time": 1763336900,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180503,
+        "num": 180503,
+        "word": "华为Mate80全系直屏设计",
+        "onboard_time": 1763354301,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 173725,
+        "num": 173725,
+        "word": "驻日美军基地出现大量毒蜘蛛",
+        "onboard_time": 1763354663,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 615557,
+        "num": 172906,
+        "word": "谁家cp刚圆房就be啊",
+        "onboard_time": 1763362640,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 588632,
+        "num": 171343,
+        "word": "林允 天亮了",
+        "onboard_time": 1763361501,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342039,
+        "num": 170878,
+        "word": "董璇张维伊一开始没打算结婚",
+        "onboard_time": 1763363421,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257977,
+        "num": 169543,
+        "word": "迪丽热巴已美到不知天地为何物了",
+        "onboard_time": 1763356881,
+        "rank": 13,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 61978,
+        "num": 167721,
+        "word": "硬刚ChatGPT的千问国内可下载",
+        "onboard_time": 1763362821,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 167393,
+        "num": 167393,
+        "word": "建议王一博和陈烁学一下洗车技术",
+        "onboard_time": 1763364861,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231938,
+        "num": 167361,
+        "word": "张凌赫 我不是人啊",
+        "onboard_time": 1763356942,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26205,
+        "num": 167315,
+        "word": "一不小心成了赛季百事通",
+        "onboard_time": 1763363061,
+        "rank": 17,
+        "category": "体育,数码"
+      },
+      {
+        "raw_hot": 278285,
+        "num": 167251,
+        "word": "张维伊叫小酒窝窝子的原因",
+        "onboard_time": 1763364681,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22865,
+        "num": 167222,
+        "word": "起底快通门票套餐陷阱",
+        "onboard_time": 1763364141,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1097279,
+        "num": 167187,
+        "word": "何洁前夫回应离婚",
+        "onboard_time": 1763362880,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141965,
+        "num": 167116,
+        "word": "2026第一部动画是中国奇谭2",
+        "onboard_time": 1763364501,
+        "rank": 21,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 320030,
+        "num": 167044,
+        "word": "曾轶可演唱会 迟到打碟一小时",
+        "onboard_time": 1763363239,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276202,
+        "num": 167008,
+        "word": "我国死亡率最高的恶性肿瘤",
+        "onboard_time": 1763358681,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 253855,
+        "num": 166971,
+        "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
+        "onboard_time": 1763358321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199648,
+        "num": 166919,
+        "word": "日媒叫嚣击沉福建舰",
+        "onboard_time": 1763359761,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172164,
+        "num": 166857,
+        "word": "专家回应村民盗水吸金年入百万",
+        "onboard_time": 1763360783,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166834,
+        "num": 166834,
+        "word": "原来张凌赫也是扁头",
+        "onboard_time": 1763361080,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139151,
+        "num": 162098,
+        "word": "成龙去世谣言系AI生成",
+        "onboard_time": 1763353402,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137599,
+        "num": 161738,
+        "word": "胡一天杀回现偶的含金量",
+        "onboard_time": 1763356042,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161642,
+        "num": 161642,
+        "word": "宋佳问韩雨彤曾辉是一对吗",
+        "onboard_time": 1763352082,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158192,
+        "num": 158192,
+        "word": "曾轶可现任助理发朋友圈对质",
+        "onboard_time": 1763356521,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149191,
+        "num": 149191,
+        "word": "沈佳润带爸爸玩偶打卡音银楼梯",
+        "onboard_time": 1763361982,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142921,
+        "num": 142921,
+        "word": "中国游客减少冲击日本GDP",
+        "onboard_time": 1763362943,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134956,
+        "num": 134956,
+        "word": "难怪小时候我妈说我电视瘾大",
+        "onboard_time": 1763362761,
+        "rank": 34,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 131410,
+        "num": 131410,
+        "word": "唐诡3弥补了仵作之死的遗憾",
+        "onboard_time": 1763365042,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131041,
+        "num": 131041,
+        "word": "日官员称高市早苗不会再有此类发言",
+        "onboard_time": 1763363360,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125275,
+        "num": 130608,
+        "word": "日本旅游消费股遭遇黑色周一",
+        "onboard_time": 1763363782,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120696,
+        "num": 130364,
+        "word": "日本拥有核弹头负2枚",
+        "onboard_time": 1763364381,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73053,
+        "num": 129696,
+        "word": "野猪被堵路中跳桥当场摔死",
+        "onboard_time": 1763364141,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120030,
+        "num": 129179,
+        "word": "下下下个月的今天就是大年初一",
+        "onboard_time": 1763357840,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129107,
+        "num": 129107,
+        "word": "固体版杨枝甘露又又进化了",
+        "onboard_time": 1763363481,
+        "rank": 41,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 68266,
+        "num": 127795,
+        "word": "黄宗泽称佘诗曼片酬最高",
+        "onboard_time": 1763363901,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153064,
+        "num": 127722,
+        "word": "阿里巴巴回应千问崩了",
+        "onboard_time": 1763364381,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 127285,
+        "num": 127285,
+        "word": "卫健委回应5月龄女婴心脏手术离世",
+        "onboard_time": 1763361982,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126829,
+        "num": 126829,
+        "word": "A股成交1.91万亿缩量473亿",
+        "onboard_time": 1763365102,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 108361,
+        "num": 126794,
+        "word": "新闻女王2断更",
+        "onboard_time": 1763353522,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96660,
+        "num": 126775,
+        "word": "沈腾你也在嗑吧",
+        "onboard_time": 1763352322,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91959,
+        "num": 126718,
+        "word": "枭起青壤定档",
+        "onboard_time": 1763345959,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117558,
+        "num": 126692,
+        "word": "A股全市场百股涨停",
+        "onboard_time": 1763365161,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#传统产业改造升级也能发展新质生产力#"
+    }
+  }
+}
