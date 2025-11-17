@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763387384275,
+  "endTime": 1763389696227,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -211,6 +211,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 712659,
+      "num": 255022,
+      "word": "中方已向美方提严正交涉",
+      "onboard_time": 1763386403,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 705697,
       "num": 259558,
       "word": "曾轶可现任助理发朋友圈对质",
@@ -412,7 +420,7 @@
     },
     {
       "raw_hot": 517671,
-      "num": 497384,
+      "num": 514121,
       "word": "日本酒店退订潮",
       "onboard_time": 1763383582,
       "rank": 37,
@@ -424,6 +432,14 @@
       "word": "小酒窝朵朵轩轩是青梅竹马文学吧",
       "onboard_time": 1763358321,
       "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 498900,
+      "num": 498900,
+      "word": "小酒窝 全家最有事业心的人",
+      "onboard_time": 1763383402,
+      "rank": 28,
       "category": "综艺"
     },
     {
@@ -513,6 +529,14 @@
       "onboard_time": 1763349801,
       "rank": 42,
       "category": "电影,体育"
+    },
+    {
+      "raw_hot": 463745,
+      "num": 254775,
+      "word": "樊振东试探直播镜头",
+      "onboard_time": 1763387362,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 453553,
@@ -625,6 +649,14 @@
       "onboard_time": 1763350042,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395432,
+      "num": 250476,
+      "word": "曝iPhone17 Pro Max被湿巾擦掉色",
+      "onboard_time": 1763388262,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 386850,
@@ -883,12 +915,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263117,
+      "num": 244062,
+      "word": "朝鲜媒体警告日本",
+      "onboard_time": 1763387003,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 261685,
-      "num": 196999,
+      "num": 225643,
       "word": "中国代表联大发言让日本破大防",
       "onboard_time": 1763384602,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 260946,
+      "num": 254648,
+      "word": "BLG转会",
+      "onboard_time": 1763388442,
+      "rank": 15,
+      "category": "电竞"
     },
     {
       "raw_hot": 258066,
@@ -897,6 +945,30 @@
       "onboard_time": 1763337500,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 255055,
+      "num": 255055,
+      "word": "外交部明确表态不会见高市早苗",
+      "onboard_time": 1763387543,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 254590,
+      "num": 254590,
+      "word": "三家医院4次体检查乙肝结果相悖",
+      "onboard_time": 1763388023,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254504,
+      "num": 254504,
+      "word": "张继科谈王曼昱新技术",
+      "onboard_time": 1763386581,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 254364,
@@ -921,6 +993,14 @@
       "onboard_time": 1763304564,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 243265,
+      "num": 243265,
+      "word": "日方称向中方提抗议",
+      "onboard_time": 1763388504,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242789,
@@ -987,20 +1067,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233488,
+      "num": 254726,
+      "word": "全运会奖牌榜",
+      "onboard_time": 1763387902,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231429,
       "num": 324212,
       "word": "生育津贴无需结婚证直发个人",
       "onboard_time": 1763352801,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228276,
-      "num": 191355,
-      "word": "中方已向美方提严正交涉",
-      "onboard_time": 1763386403,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 227873,
@@ -1041,14 +1121,6 @@
       "onboard_time": 1763357662,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 215275,
-      "num": 215275,
-      "word": "张继科谈王曼昱新技术",
-      "onboard_time": 1763386581,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 215034,
@@ -1161,14 +1233,6 @@
       "onboard_time": 1763344520,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196477,
-      "num": 196477,
-      "word": "樊振东试探直播镜头",
-      "onboard_time": 1763387362,
-      "rank": 25,
-      "category": "体育"
     },
     {
       "raw_hot": 196078,
@@ -1300,7 +1364,7 @@
     },
     {
       "raw_hot": 187134,
-      "num": 196249,
+      "num": 246611,
       "word": "霍尊回应复出",
       "onboard_time": 1763387182,
       "rank": 26,
@@ -1371,6 +1435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183299,
+      "num": 183299,
+      "word": "zeus",
+      "onboard_time": 1763387182,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 182714,
       "num": 182714,
       "word": "日本介入台海即是侵略",
@@ -1409,6 +1481,14 @@
       "onboard_time": 1763353822,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 176854,
+      "num": 176854,
+      "word": "Gumayusi回应离队T1",
+      "onboard_time": 1763389642,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 175667,
@@ -1539,14 +1619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165775,
-      "num": 257417,
-      "word": "小酒窝 全家最有事业心的人",
-      "onboard_time": 1763383402,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 165511,
       "num": 165511,
       "word": "易烊千玺将要触到一轮新朝阳",
@@ -1561,6 +1633,14 @@
       "onboard_time": 1763356342,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164071,
+      "num": 164071,
+      "word": "T1官宣Doran续约",
+      "onboard_time": 1763389464,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 163561,
@@ -1643,6 +1723,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 159086,
+      "num": 159086,
+      "word": "只有没结婚的才知道她说的有多真",
+      "onboard_time": 1763389642,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 159037,
       "num": 181231,
       "word": "中方对韩方表示赞赏和衷心感谢",
@@ -1707,14 +1795,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 156721,
-      "num": 156721,
-      "word": "zeus",
-      "onboard_time": 1763387182,
-      "rank": 36,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 155403,
       "num": 155403,
       "word": "睡前五分钟玩了十小时手机",
@@ -1756,7 +1836,7 @@
     },
     {
       "raw_hot": 153717,
-      "num": 232196,
+      "num": 254945,
       "word": "我们都是旅行者",
       "onboard_time": 1763384902,
       "rank": 40,
@@ -1817,6 +1897,14 @@
       "onboard_time": 1763353882,
       "rank": 47,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 148809,
+      "num": 158242,
+      "word": "刘强东回应当咖啡主理人",
+      "onboard_time": 1763388322,
+      "rank": 42,
+      "category": "互联网"
     },
     {
       "raw_hot": 148534,
@@ -1881,14 +1969,6 @@
       "onboard_time": 1763350401,
       "rank": 20,
       "category": "数码"
-    },
-    {
-      "raw_hot": 142860,
-      "num": 142860,
-      "word": "朝鲜媒体警告日本",
-      "onboard_time": 1763387003,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 142696,
@@ -2115,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127207,
+      "num": 127207,
+      "word": "樊振东18日赛程预告",
+      "onboard_time": 1763388743,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126829,
       "num": 126829,
       "word": "A股成交1.91万亿缩量473亿",
@@ -2169,6 +2257,14 @@
       "onboard_time": 1763312778,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124027,
+      "num": 244461,
+      "word": "赴山海三季度微博热度最高",
+      "onboard_time": 1763389223,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 124008,
@@ -2596,7 +2692,7 @@
     },
     {
       "raw_hot": 99613,
-      "num": 134355,
+      "num": 183597,
       "word": "vivoX300拍到海洋最温柔的巨兽",
       "onboard_time": 1763387122,
       "rank": 40,
@@ -2841,6 +2937,14 @@
       "onboard_time": 1763372241,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84326,
+      "num": 254506,
+      "word": "山姆卖海飞丝被指选品像普通超市",
+      "onboard_time": 1763388563,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83979,
@@ -3809,6 +3913,14 @@
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9334,
+      "num": 338499,
+      "word": "全运会这群小海豚出圈了",
+      "onboard_time": 1763389402,
+      "rank": 7,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
