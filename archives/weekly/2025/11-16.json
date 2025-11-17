@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763357327799,
+  "endTime": 1763358243743,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -339,6 +339,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 705697,
+      "num": 259558,
+      "word": "曾轶可现任助理发朋友圈对质",
+      "onboard_time": 1763356521,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 687202,
       "num": 314390,
       "word": "陈思诚 邵艺辉",
@@ -353,14 +361,6 @@
       "onboard_time": 1763260580,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 672488,
-      "num": 259558,
-      "word": "曾轶可现任助理发朋友圈对质",
-      "onboard_time": 1763356521,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 666019,
@@ -723,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 450267,
+      "num": 450267,
+      "word": "驻日美军基地出现大量毒蜘蛛",
+      "onboard_time": 1763354663,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 449899,
       "num": 198629,
       "word": "曝佘诗曼斥资3000万港元买豪宅",
@@ -804,7 +812,7 @@
     },
     {
       "raw_hot": 404837,
-      "num": 306400,
+      "num": 313392,
       "word": "英国连环强奸案受害者或多达数百人",
       "onboard_time": 1763351841,
       "rank": 23,
@@ -881,14 +889,6 @@
       "onboard_time": 1763304564,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 384120,
-      "num": 384120,
-      "word": "驻日美军基地出现大量毒蜘蛛",
-      "onboard_time": 1763354663,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 382962,
@@ -1067,6 +1067,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 334399,
+      "num": 334399,
+      "word": "胡一天杀回现偶的含金量",
+      "onboard_time": 1763356042,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 331354,
       "num": 331354,
       "word": "迪丽热巴给刘宇宁送花篮",
@@ -1120,6 +1128,14 @@
       "word": "男子彩票中奖群里分享被邻居冒领",
       "onboard_time": 1763283382,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310034,
+      "num": 310034,
+      "word": "下雪",
+      "onboard_time": 1763352622,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1275,20 +1291,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281703,
+      "num": 245210,
+      "word": "迪丽热巴已美到不知天地为何物了",
+      "onboard_time": 1763356881,
+      "rank": 34,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 280713,
       "num": 118122,
       "word": "孙颖莎16比14王曼昱",
       "onboard_time": 1763317575,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 279029,
-      "num": 260333,
-      "word": "下雪",
-      "onboard_time": 1763352622,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276532,
@@ -1491,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241123,
+      "num": 261804,
+      "word": "新闻女王2断更",
+      "onboard_time": 1763353522,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236341,
       "num": 263018,
       "word": "乒乓球女单颁奖",
@@ -1513,14 +1537,6 @@
       "onboard_time": 1763304985,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 234109,
-      "num": 261804,
-      "word": "新闻女王2断更",
-      "onboard_time": 1763353522,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 232016,
@@ -1659,6 +1675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 208980,
+      "num": 208980,
+      "word": "华为Mate80全系直屏设计",
+      "onboard_time": 1763354301,
+      "rank": 33,
+      "category": "数码"
+    },
+    {
       "raw_hot": 208882,
       "num": 208882,
       "word": "当易烊千玺听到有人喊自己烊烊",
@@ -1705,14 +1729,6 @@
       "onboard_time": 1763304023,
       "rank": 16,
       "category": "体育"
-    },
-    {
-      "raw_hot": 205358,
-      "num": 205358,
-      "word": "华为Mate80全系直屏设计",
-      "onboard_time": 1763354301,
-      "rank": 33,
-      "category": "数码"
     },
     {
       "raw_hot": 205342,
@@ -1947,6 +1963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 190672,
+      "num": 190672,
+      "word": "白血病女孩回应用苹果手机",
+      "onboard_time": 1763357001,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190654,
       "num": 334404,
       "word": "孙颖莎与王曼昱交手记录",
@@ -1993,14 +2017,6 @@
       "onboard_time": 1763299582,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 189005,
-      "num": 261100,
-      "word": "胡一天杀回现偶的含金量",
-      "onboard_time": 1763356042,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 188835,
@@ -2203,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 177674,
+      "num": 177674,
+      "word": "张凌赫 我不是人啊",
+      "onboard_time": 1763356942,
+      "rank": 42,
+      "category": "演出"
+    },
+    {
       "raw_hot": 177609,
       "num": 208965,
       "word": "我在废土世界扫垃圾动画首曝",
@@ -2233,6 +2257,14 @@
       "onboard_time": 1763353462,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175350,
+      "num": 181449,
+      "word": "胡先煦 哥还记得咱们是一队的吗",
+      "onboard_time": 1763357181,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 174292,
@@ -2313,6 +2345,14 @@
       "onboard_time": 1763348540,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 169825,
+      "num": 169825,
+      "word": "Gala谈LPL与LCK差距",
+      "onboard_time": 1763357541,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 169822,
@@ -2563,14 +2603,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156205,
-      "num": 156205,
-      "word": "迪丽热巴已美到不知天地为何物了",
-      "onboard_time": 1763356881,
-      "rank": 34,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 155971,
       "num": 155971,
       "word": "女生自学化妆1个月的变化",
@@ -2779,6 +2811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147330,
+      "num": 147330,
+      "word": "黄景瑜空中截停金晨",
+      "onboard_time": 1763357782,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147305,
       "num": 147305,
       "word": "张凌赫看到刘宇宁腹肌了吗",
@@ -2857,6 +2897,14 @@
       "onboard_time": 1763349861,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 144843,
+      "num": 252960,
+      "word": "马龙为救球摔倒",
+      "onboard_time": 1763356702,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 144622,
@@ -2945,14 +2993,6 @@
       "onboard_time": 1763270782,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 141101,
-      "num": 165597,
-      "word": "马龙为救球摔倒",
-      "onboard_time": 1763356702,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 141095,
@@ -3059,6 +3099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 135623,
+      "num": 135623,
+      "word": "日本外务省高官来华说明高市早苗言论",
+      "onboard_time": 1763356822,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 134943,
       "num": 134943,
       "word": "公厕被打女生确诊白血最新发声",
@@ -3073,14 +3121,6 @@
       "onboard_time": 1763274803,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 134629,
-      "num": 134629,
-      "word": "白血病女孩回应用苹果手机",
-      "onboard_time": 1763357001,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134575,
@@ -3145,14 +3185,6 @@
       "onboard_time": 1763201721,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131542,
-      "num": 131542,
-      "word": "张凌赫 我不是人啊",
-      "onboard_time": 1763356942,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 131226,
@@ -3299,14 +3331,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 126583,
-      "num": 126583,
-      "word": "胡先煦 哥还记得咱们是一队的吗",
-      "onboard_time": 1763357181,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126435,
       "num": 126435,
       "word": "熬夜和睡眠不足是两回事",
@@ -3331,6 +3355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125058,
+      "num": 147556,
+      "word": "张博恒是发烧了",
+      "onboard_time": 1763357602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124958,
       "num": 124958,
       "word": "36岁巩立姣全运会铅球5连冠",
@@ -3339,20 +3371,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124640,
+      "num": 124640,
+      "word": "贾静雯叶童两代人的赵敏",
+      "onboard_time": 1763357181,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 124483,
       "num": 119178,
       "word": "美航母打击群进入加勒比海",
       "onboard_time": 1763340921,
       "rank": 26,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 124226,
-      "num": 124226,
-      "word": "贾静雯叶童两代人的赵敏",
-      "onboard_time": 1763357181,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 124192,
@@ -3617,14 +3649,6 @@
       "onboard_time": 1763221585,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 117450,
-      "num": 117450,
-      "word": "日本外务省高官来华说明高市早苗言论",
-      "onboard_time": 1763356822,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117244,
@@ -4227,6 +4251,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 95442,
+      "num": 177680,
+      "word": "下下下个月的今天就是大年初一",
+      "onboard_time": 1763357840,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95299,
       "num": 95299,
       "word": "袁励岑回应不敌王楚钦",
@@ -4579,6 +4611,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74919,
+      "num": 153213,
+      "word": "男子取90万给骗子说是彩礼",
+      "onboard_time": 1763356521,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73029,
       "num": 73029,
       "word": "迪丽热巴工作室出图",
@@ -4729,6 +4769,14 @@
       "onboard_time": 1763301082,
       "rank": 29,
       "category": "网红"
+    },
+    {
+      "raw_hot": 62838,
+      "num": 367377,
+      "word": "肖战荣耀500动就动真格",
+      "onboard_time": 1763352263,
+      "rank": 21,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 62244,
@@ -4891,14 +4939,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49588,
-      "num": 153213,
-      "word": "男子取90万给骗子说是彩礼",
-      "onboard_time": 1763356521,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49523,
       "num": 166525,
       "word": "中国公民若在日本遭遇不法侵害怎么办",
@@ -4932,7 +4972,7 @@
     },
     {
       "raw_hot": 47602,
-      "num": 262354,
+      "num": 310137,
       "word": "阿里千问的发版文案是弹幕吧",
       "onboard_time": 1763355681,
       "rank": 14,
@@ -5083,14 +5123,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 39535,
-      "num": 367377,
-      "word": "肖战荣耀500动就动真格",
-      "onboard_time": 1763352263,
-      "rank": 21,
-      "category": "艺人,数码"
-    },
-    {
       "raw_hot": 39316,
       "num": 107855,
       "word": "朱雨玲陈梦五届同行难说再见",
@@ -5185,6 +5217,14 @@
       "onboard_time": 1763229137,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35752,
+      "num": 147840,
+      "word": "台湾民众坦然说出我是中国人",
+      "onboard_time": 1763357662,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35568,
@@ -5339,6 +5379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30654,
+      "num": 154295,
+      "word": "巴厘岛车祸幸存者讲述事发情形",
+      "onboard_time": 1763356640,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 30429,
       "num": 160783,
       "word": "专家建议持续对日增强军事威慑",
@@ -5361,6 +5409,14 @@
       "onboard_time": 1763273842,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29927,
+      "num": 327325,
+      "word": "韩国叫停韩日联合演习",
+      "onboard_time": 1763357840,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29706,
@@ -5497,14 +5553,6 @@
       "onboard_time": 1763257460,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22043,
-      "num": 154295,
-      "word": "巴厘岛车祸幸存者讲述事发情形",
-      "onboard_time": 1763356640,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 20748,

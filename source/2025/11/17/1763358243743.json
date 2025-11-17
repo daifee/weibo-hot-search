@@ -1,0 +1,410 @@
+{
+  "runTime": 1763358243743,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 650102,
+        "num": 1104016,
+        "word": "日媒称中方措施超出日本预期",
+        "onboard_time": 1763336900,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 450267,
+        "num": 450267,
+        "word": "驻日美军基地出现大量毒蜘蛛",
+        "onboard_time": 1763354663,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24699,
+        "num": 400845,
+        "word": "一起看全运会",
+        "onboard_time": 1763314216,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 376024,
+        "num": 376024,
+        "word": "赵丽颖工作室辟谣网传电影",
+        "onboard_time": 1763355382,
+        "rank": 3,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354221,
+        "num": 354221,
+        "word": "沈腾你也在嗑吧",
+        "onboard_time": 1763352322,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1003480,
+        "num": 353880,
+        "word": "高市早苗扩军",
+        "onboard_time": 1763352862,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352606,
+        "num": 352606,
+        "word": "日本高官来华解释高市言论",
+        "onboard_time": 1763345600,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 334399,
+        "num": 334399,
+        "word": "胡一天杀回现偶的含金量",
+        "onboard_time": 1763356042,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220727,
+        "num": 334179,
+        "word": "巩立姣官宣退役",
+        "onboard_time": 1763350942,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29927,
+        "num": 327325,
+        "word": "韩国叫停韩日联合演习",
+        "onboard_time": 1763357840,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 798748,
+        "num": 324293,
+        "word": "学习通崩了",
+        "onboard_time": 1763349201,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 440173,
+        "num": 319601,
+        "word": "宋佳问韩雨彤曾辉是一对吗",
+        "onboard_time": 1763352082,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315078,
+        "num": 315078,
+        "word": "枭起青壤定档",
+        "onboard_time": 1763345959,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 313392,
+        "num": 313392,
+        "word": "英国连环强奸案受害者或多达数百人",
+        "onboard_time": 1763351841,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38415,
+        "num": 310137,
+        "word": "阿里千问的发版文案是弹幕吧",
+        "onboard_time": 1763355681,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 255837,
+        "num": 310045,
+        "word": "中方不仅愤怒还有行动",
+        "onboard_time": 1763346620,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310034,
+        "num": 310034,
+        "word": "下雪",
+        "onboard_time": 1763352622,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259752,
+        "num": 259752,
+        "word": "成龙去世谣言系AI生成",
+        "onboard_time": 1763353402,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170668,
+        "num": 257647,
+        "word": "生育津贴无需结婚证直发个人",
+        "onboard_time": 1763352801,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144843,
+        "num": 252960,
+        "word": "马龙为救球摔倒",
+        "onboard_time": 1763356702,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 705697,
+        "num": 248163,
+        "word": "曾轶可现任助理发朋友圈对质",
+        "onboard_time": 1763356521,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281703,
+        "num": 245210,
+        "word": "迪丽热巴已美到不知天地为何物了",
+        "onboard_time": 1763356881,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 241123,
+        "num": 241123,
+        "word": "新闻女王2断更",
+        "onboard_time": 1763353522,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218210,
+        "num": 218210,
+        "word": "余承东官宣华为Mate80发布会",
+        "onboard_time": 1763342541,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 208980,
+        "num": 208980,
+        "word": "华为Mate80全系直屏设计",
+        "onboard_time": 1763354301,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395672,
+        "num": 200556,
+        "word": "曝曾轶可职场霸凌",
+        "onboard_time": 1763354722,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190672,
+        "num": 190672,
+        "word": "白血病女孩回应用苹果手机",
+        "onboard_time": 1763357001,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175350,
+        "num": 181449,
+        "word": "胡先煦 哥还记得咱们是一队的吗",
+        "onboard_time": 1763357181,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158272,
+        "num": 177722,
+        "word": "张继科说我没拿过全运会冠军",
+        "onboard_time": 1763351063,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95442,
+        "num": 177680,
+        "word": "下下下个月的今天就是大年初一",
+        "onboard_time": 1763357840,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177674,
+        "num": 177674,
+        "word": "张凌赫 我不是人啊",
+        "onboard_time": 1763356942,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 176783,
+        "num": 176783,
+        "word": "邓超 小鹿本来就天天开心",
+        "onboard_time": 1763355083,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169825,
+        "num": 169825,
+        "word": "Gala谈LPL与LCK差距",
+        "onboard_time": 1763357541,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 163929,
+        "num": 163929,
+        "word": "穿袜子睡觉居然有这么多好处",
+        "onboard_time": 1763353163,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 152763,
+        "num": 152763,
+        "word": "雷军辟谣",
+        "onboard_time": 1763341401,
+        "rank": 34,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149294,
+        "num": 149294,
+        "word": "睡前五分钟玩了十小时手机",
+        "onboard_time": 1763355262,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 42670,
+        "num": 149100,
+        "word": "王楚钦3比1战胜孙闻",
+        "onboard_time": 1763356402,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62838,
+        "num": 148520,
+        "word": "肖战荣耀500动就动真格",
+        "onboard_time": 1763352263,
+        "rank": 37,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 35752,
+        "num": 147840,
+        "word": "台湾民众坦然说出我是中国人",
+        "onboard_time": 1763357662,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125058,
+        "num": 147556,
+        "word": "张博恒是发烧了",
+        "onboard_time": 1763357602,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147330,
+        "num": 147330,
+        "word": "黄景瑜空中截停金晨",
+        "onboard_time": 1763357782,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144526,
+        "num": 144526,
+        "word": "当易烊千玺听到有人喊自己烊烊",
+        "onboard_time": 1763351120,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135623,
+        "num": 135623,
+        "word": "日本外务省高官来华说明高市早苗言论",
+        "onboard_time": 1763356822,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128357,
+        "num": 128357,
+        "word": "男生眼里的漂亮饭",
+        "onboard_time": 1763352022,
+        "rank": 43,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 128048,
+        "num": 128048,
+        "word": "22岁帮家里卖完12万副眼镜",
+        "onboard_time": 1763347040,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30654,
+        "num": 126832,
+        "word": "巴厘岛车祸幸存者讲述事发情形",
+        "onboard_time": 1763356640,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125961,
+        "num": 125961,
+        "word": "为什么短剧质感的长剧火起来了",
+        "onboard_time": 1763350042,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124640,
+        "num": 124640,
+        "word": "贾静雯叶童两代人的赵敏",
+        "onboard_time": 1763357181,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112793,
+        "num": 112793,
+        "word": "易烊千玺说观众认可是最大礼物",
+        "onboard_time": 1763355502,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 74919,
+        "num": 106332,
+        "word": "男子取90万给骗子说是彩礼",
+        "onboard_time": 1763356521,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#传统产业改造升级也能发展新质生产力#"
+    }
+  }
+}
