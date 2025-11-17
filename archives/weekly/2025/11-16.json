@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763408273611,
+  "endTime": 1763411431012,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -7019,6 +7019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42023,
+      "num": 17282,
+      "word": "好东西2 陈思诚提问邵艺辉",
+      "onboard_time": 1763408594,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 41964,
       "num": 222301,
       "word": "日参议员喊话高市早苗撤回涉台言论",
@@ -7723,6 +7731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19067,
+      "num": 19067,
+      "word": "曾轶可团队怒怼前员工双标",
+      "onboard_time": 1763408894,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19050,
       "num": 31772,
       "word": "网传刘耀文新歌有十六套造型",
@@ -7875,10 +7891,34 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13187,
+      "num": 15082,
+      "word": "LOL传奇五人组只剩三位了",
+      "onboard_time": 1763408414,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 12751,
       "num": 18863,
       "word": "周深演唱会唱了许嵩的庐州月",
       "onboard_time": 1763401456,
+      "rank": 49,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 11908,
+      "num": 15064,
+      "word": "王一博探索新境2北美攀岩总宣",
+      "onboard_time": 1763401875,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 10964,
+      "num": 15058,
+      "word": "张兴朝是听过汪苏泷梆梆吧",
+      "onboard_time": 1763410273,
       "rank": 49,
       "category": "演出"
     },
