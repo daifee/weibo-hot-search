@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763369490566,
+  "endTime": 1763372005836,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -155,12 +155,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 655210,
+      "num": 655210,
+      "word": "部分日本电影撤档",
+      "onboard_time": 1763367381,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 626723,
       "num": 446141,
       "word": "22岁帮家里卖完12万副眼镜",
       "onboard_time": 1763347040,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 618058,
+      "num": 279351,
+      "word": "宋佳 章子怡",
+      "onboard_time": 1763368521,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 616522,
@@ -185,6 +201,14 @@
       "onboard_time": 1763308702,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 609799,
+      "num": 609799,
+      "word": "河南鹅毛大雪",
+      "onboard_time": 1763367801,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 592523,
@@ -259,11 +283,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 531875,
+      "num": 304232,
+      "word": "5月龄早产女婴心脏手术期间离世",
+      "onboard_time": 1763366721,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 527235,
       "num": 279287,
       "word": "沈佳润是不是偷吃零食了",
       "onboard_time": 1763366782,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 500697,
+      "num": 203365,
+      "word": "小海绵身高到baby肩膀了",
+      "onboard_time": 1763371282,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -283,14 +323,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 492609,
-      "num": 361261,
-      "word": "部分日本电影撤档",
-      "onboard_time": 1763367381,
-      "rank": 15,
-      "category": "电影"
-    },
-    {
       "raw_hot": 488815,
       "num": 357425,
       "word": "高市早苗被喊话向中国道歉",
@@ -305,6 +337,14 @@
       "onboard_time": 1763356942,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 478137,
+      "num": 478137,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763367561,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 473261,
@@ -371,14 +411,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 450386,
-      "num": 304232,
-      "word": "5月龄早产女婴心脏手术期间离世",
-      "onboard_time": 1763366721,
-      "rank": 11,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 450267,
       "num": 450267,
       "word": "驻日美军基地出现大量毒蜘蛛",
@@ -403,6 +435,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 429057,
+      "num": 261104,
+      "word": "日本电影",
+      "onboard_time": 1763370021,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 425581,
+      "num": 254742,
+      "word": "女婴心脏手术去世涉事医生已停诊",
+      "onboard_time": 1763370143,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425073,
       "num": 300440,
       "word": "董璇回应投资墨雨云间",
@@ -419,6 +467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 415441,
+      "num": 279223,
+      "word": "霍启仁在玉龙雪山举办婚礼",
+      "onboard_time": 1763368162,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407495,
       "num": 407495,
       "word": "赵丽颖工作室辟谣网传电影",
@@ -433,14 +489,6 @@
       "onboard_time": 1763351841,
       "rank": 23,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 399017,
-      "num": 279223,
-      "word": "霍启仁在玉龙雪山举办婚礼",
-      "onboard_time": 1763368162,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 395878,
@@ -531,14 +579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 326881,
-      "num": 296508,
-      "word": "疯狂动物城2",
-      "onboard_time": 1763367561,
-      "rank": 26,
-      "category": "电影"
-    },
-    {
       "raw_hot": 320030,
       "num": 185787,
       "word": "曾轶可演唱会 迟到打碟一小时",
@@ -547,12 +587,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 315280,
-      "num": 315280,
-      "word": "河南鹅毛大雪",
-      "onboard_time": 1763367801,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 315816,
+      "num": 244587,
+      "word": "孙颖莎忘记还有团体赛要打",
+      "onboard_time": 1763369902,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 310034,
@@ -603,19 +643,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 279351,
-      "num": 279351,
-      "word": "宋佳 章子怡",
-      "onboard_time": 1763368521,
-      "rank": 43,
-      "category": "电影"
-    },
-    {
       "raw_hot": 276532,
       "num": 276532,
       "word": "张继科说我没拿过全运会冠军",
       "onboard_time": 1763351063,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 272300,
+      "num": 272300,
+      "word": "石宇奇坐轮椅离场",
+      "onboard_time": 1763369302,
+      "rank": 41,
       "category": "体育"
     },
     {
@@ -705,6 +745,14 @@
       "onboard_time": 1763353522,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240820,
+      "num": 240820,
+      "word": "A股反制日本概念大涨",
+      "onboard_time": 1763370021,
+      "rank": 17,
+      "category": "财经"
     },
     {
       "raw_hot": 236341,
@@ -811,6 +859,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199804,
+      "num": 199804,
+      "word": "余茵厚底高跟鞋",
+      "onboard_time": 1763369601,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 199446,
+      "num": 199446,
+      "word": "RNG",
+      "onboard_time": 1763367680,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199133,
       "num": 199133,
       "word": "孙颖莎缺席团体赛",
@@ -899,6 +963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188067,
+      "num": 188067,
+      "word": "小狗这个人怎么不通狗性",
+      "onboard_time": 1763371462,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186471,
       "num": 186471,
       "word": "探索新境2",
@@ -913,6 +985,14 @@
       "onboard_time": 1763302342,
       "rank": 8,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 184369,
+      "num": 199484,
+      "word": "东部战区发布若一去不回",
+      "onboard_time": 1763369362,
+      "rank": 28,
+      "category": "军事"
     },
     {
       "raw_hot": 183836,
@@ -937,14 +1017,6 @@
       "onboard_time": 1763353163,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 180176,
-      "num": 180176,
-      "word": "RNG",
-      "onboard_time": 1763367680,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 179921,
@@ -1019,6 +1091,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 168133,
+      "num": 168133,
+      "word": "不要删掉讨厌的人的微信",
+      "onboard_time": 1763370802,
+      "rank": 32,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 167393,
       "num": 167393,
       "word": "建议王一博和陈烁学一下洗车技术",
@@ -1065,14 +1145,6 @@
       "onboard_time": 1763306903,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 160180,
-      "num": 185357,
-      "word": "东部战区发布若一去不回",
-      "onboard_time": 1763369362,
-      "rank": 28,
-      "category": "军事"
     },
     {
       "raw_hot": 159835,
@@ -1187,6 +1259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 153229,
+      "num": 199455,
+      "word": "唐诡三季三对苦瓜夫妻",
+      "onboard_time": 1763371342,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 153064,
       "num": 294856,
       "word": "阿里巴巴回应千问崩了",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1763366481,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 150275,
+      "num": 150275,
+      "word": "王宝强 主流奖项",
+      "onboard_time": 1763370860,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 149362,
@@ -1235,6 +1323,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 146897,
+      "num": 142365,
+      "word": "历任工作人员集体发声力挺曾轶可",
+      "onboard_time": 1763371702,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145639,
       "num": 145639,
       "word": "光遇",
@@ -1267,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 143732,
+      "num": 143732,
+      "word": "台湾老百姓向高市早苗扔鸡蛋壳",
+      "onboard_time": 1763370981,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 143362,
       "num": 397261,
       "word": "Mate80或采用全金属机身设计",
@@ -1289,14 +1393,6 @@
       "onboard_time": 1763364501,
       "rank": 21,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 141791,
-      "num": 141791,
-      "word": "石宇奇坐轮椅离场",
-      "onboard_time": 1763369302,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 141665,
@@ -1323,6 +1419,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 137081,
+      "num": 137081,
+      "word": "易烊千玺第一部戏是铁梨花",
+      "onboard_time": 1763369722,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 135623,
       "num": 135623,
       "word": "日本外务省高官来华说明高市早苗言论",
@@ -1331,12 +1435,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135011,
+      "num": 135011,
+      "word": "邵艺辉能不能找惠英红咏梅张子枫拍",
+      "onboard_time": 1763371942,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 134318,
       "num": 134318,
       "word": "固体版杨枝甘露又又进化了",
       "onboard_time": 1763363481,
       "rank": 45,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 133896,
+      "num": 142643,
+      "word": "宋佳影后视后必备战衣",
+      "onboard_time": 1763371042,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133708,
@@ -1371,6 +1491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131419,
+      "num": 142296,
+      "word": "刘耀文贺峻霖不愧是团内难哄TOP2",
+      "onboard_time": 1763370741,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131226,
       "num": 108034,
       "word": "王曼昱说希望和莎莎一起变得更好",
@@ -1385,6 +1513,14 @@
       "onboard_time": 1763363360,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130511,
+      "num": 142485,
+      "word": "vivoX300拍到了川剧绝活",
+      "onboard_time": 1763369662,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 130331,
@@ -2059,6 +2195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74375,
+      "num": 143103,
+      "word": "翁泓阳晋级全运会四强",
+      "onboard_time": 1763371222,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 73672,
       "num": 253016,
       "word": "第一批退订日本机票旅客已到账",
@@ -2081,6 +2225,22 @@
       "onboard_time": 1763364141,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71924,
+      "num": 281545,
+      "word": "新势力燃油车跑分排行榜",
+      "onboard_time": 1763366962,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 71924,
+      "num": 123075,
+      "word": "石宇奇因伤退赛",
+      "onboard_time": 1763369963,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 71712,
@@ -2217,14 +2377,6 @@
       "onboard_time": 1763361201,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 56388,
-      "num": 281545,
-      "word": "新势力燃油车跑分排行榜",
-      "onboard_time": 1763366962,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 55209,
@@ -2537,6 +2689,14 @@
       "onboard_time": 1763355202,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26525,
+      "num": 142462,
+      "word": "有必要带长辈打带状疱疹疫苗吗",
+      "onboard_time": 1763371942,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 25905,
