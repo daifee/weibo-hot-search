@@ -1,0 +1,410 @@
+{
+  "runTime": 1763368675591,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1138128,
+        "num": 1182100,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 869490,
+        "num": 869490,
+        "word": "FPX退出LPL",
+        "onboard_time": 1763363901,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20142,
+        "num": 771719,
+        "word": "全运会闭幕式剧透来了",
+        "onboard_time": 1763343141,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 697962,
+        "num": 697962,
+        "word": "张维伊叫小酒窝窝子的原因",
+        "onboard_time": 1763364681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383221,
+        "num": 383221,
+        "word": "蜡笔小新撤档",
+        "onboard_time": 1763367142,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 367759,
+        "num": 367759,
+        "word": "外交部再回应高市早苗涉台言论",
+        "onboard_time": 1763366181,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 327486,
+        "num": 327486,
+        "word": "唐诡3弥补了仵作之死的遗憾",
+        "onboard_time": 1763365042,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322742,
+        "num": 322742,
+        "word": "我国死亡率最高的恶性肿瘤",
+        "onboard_time": 1763358681,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 273087,
+        "num": 273087,
+        "word": "高市早苗扩军",
+        "onboard_time": 1763352862,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154652,
+        "num": 273057,
+        "word": "官方回应村民盗水吸金年入百万",
+        "onboard_time": 1763366542,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 801928,
+        "num": 270194,
+        "word": "原来身份证里的芯片长这样",
+        "onboard_time": 1763366062,
+        "rank": 10,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 397582,
+        "num": 266104,
+        "word": "5月龄早产女婴心脏手术期间离世",
+        "onboard_time": 1763366721,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372592,
+        "num": 264522,
+        "word": "谁家cp刚圆房就be啊",
+        "onboard_time": 1763362640,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341522,
+        "num": 261560,
+        "word": "董璇回应投资墨雨云间",
+        "onboard_time": 1763367202,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 36309,
+        "num": 260825,
+        "word": "阿里巴巴回应千问崩了",
+        "onboard_time": 1763364381,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 304915,
+        "num": 258376,
+        "word": "部分日本电影撤档",
+        "onboard_time": 1763367381,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256254,
+        "num": 256254,
+        "word": "林允 天亮了",
+        "onboard_time": 1763361501,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140650,
+        "num": 254234,
+        "word": "河南鹅毛大雪",
+        "onboard_time": 1763367801,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112728,
+        "num": 250882,
+        "word": "A股全市场百股涨停",
+        "onboard_time": 1763365161,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56388,
+        "num": 247705,
+        "word": "新势力燃油车跑分排行榜",
+        "onboard_time": 1763366962,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 553573,
+        "num": 244177,
+        "word": "何洁前夫回应离婚",
+        "onboard_time": 1763362880,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334588,
+        "num": 243862,
+        "word": "沈佳润是不是偷吃零食了",
+        "onboard_time": 1763366782,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13971,
+        "num": 238721,
+        "word": "台湾34个团体严正抗议日本",
+        "onboard_time": 1763368462,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238078,
+        "num": 238078,
+        "word": "韩国叫停韩日联合演习",
+        "onboard_time": 1763357840,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 225202,
+        "num": 225202,
+        "word": "霍启仁在玉龙雪山举办婚礼",
+        "onboard_time": 1763368162,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223921,
+        "num": 223921,
+        "word": "日本拥有核弹头负2枚",
+        "onboard_time": 1763364381,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 196657,
+        "num": 196657,
+        "word": "疯狂动物城2",
+        "onboard_time": 1763367561,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183550,
+        "num": 183550,
+        "word": "迪丽热巴已美到不知天地为何物了",
+        "onboard_time": 1763356881,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 158596,
+        "num": 175444,
+        "word": "工作细胞",
+        "onboard_time": 1763368340,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130065,
+        "num": 172317,
+        "word": "下下下个月的今天就是大年初一",
+        "onboard_time": 1763357840,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170298,
+        "num": 170298,
+        "word": "RNG",
+        "onboard_time": 1763367680,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158938,
+        "num": 158938,
+        "word": "曾轶可",
+        "onboard_time": 1763352801,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157172,
+        "num": 157172,
+        "word": "我爷爷买了一百多米快递",
+        "onboard_time": 1763366001,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 153754,
+        "num": 153754,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1763367922,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151036,
+        "num": 151036,
+        "word": "曝369和JackeyLove疑似一起休息",
+        "onboard_time": 1763366481,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140847,
+        "num": 140847,
+        "word": "董璇张维伊一开始没打算结婚",
+        "onboard_time": 1763363421,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138604,
+        "num": 138604,
+        "word": "日媒叫嚣击沉福建舰",
+        "onboard_time": 1763359761,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133705,
+        "num": 133705,
+        "word": "中方回应提醒公民近期避免赴日",
+        "onboard_time": 1763368340,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 18603,
+        "num": 133322,
+        "word": "一起劝阻吸烟致死案的判决背后",
+        "onboard_time": 1763367623,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60534,
+        "num": 132205,
+        "word": "刘宇宁被门框夹住了",
+        "onboard_time": 1763368340,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 70445,
+        "num": 130443,
+        "word": "日本在野党向民众科普敌国条款",
+        "onboard_time": 1763368641,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75706,
+        "num": 129034,
+        "word": "外交部敦促日方停止越线玩火",
+        "onboard_time": 1763367022,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63776,
+        "num": 127869,
+        "word": "张呈雷淞然 天王老子来了",
+        "onboard_time": 1763366782,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126866,
+        "num": 126866,
+        "word": "宋佳 章子怡",
+        "onboard_time": 1763368521,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121414,
+        "num": 121414,
+        "word": "卫健委回应5月龄女婴心脏手术离世",
+        "onboard_time": 1763361982,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117525,
+        "num": 117525,
+        "word": "原来张凌赫也是扁头",
+        "onboard_time": 1763361080,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112486,
+        "num": 112486,
+        "word": "曾轶可演唱会 迟到打碟一小时",
+        "onboard_time": 1763363239,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110830,
+        "num": 110830,
+        "word": "朱雨玲因病退队陈梦第一个发消息",
+        "onboard_time": 1763368222,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104084,
+        "num": 104084,
+        "word": "华为Mate80全系直屏设计",
+        "onboard_time": 1763354301,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98282,
+        "num": 98282,
+        "word": "高市早苗暗示研发核动力潜艇",
+        "onboard_time": 1763364861,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#传统产业改造升级也能发展新质生产力#"
+    }
+  }
+}

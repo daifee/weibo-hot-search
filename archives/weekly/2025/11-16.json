@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763365248726,
+  "endTime": 1763368675591,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 1121246,
-      "num": 189516,
+      "num": 244177,
       "word": "何洁前夫回应离婚",
       "onboard_time": 1763362880,
       "rank": 20,
@@ -323,6 +323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 801928,
+      "num": 270194,
+      "word": "原来身份证里的芯片长这样",
+      "onboard_time": 1763366062,
+      "rank": 10,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 792746,
       "num": 792746,
       "word": "王楚钦vs袁励岑",
@@ -377,6 +385,14 @@
       "onboard_time": 1763356521,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 697962,
+      "num": 697962,
+      "word": "张维伊叫小酒窝窝子的原因",
+      "onboard_time": 1763364681,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 687202,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 615557,
-      "num": 206206,
+      "num": 264522,
       "word": "谁家cp刚圆房就be啊",
       "onboard_time": 1763362640,
       "rank": 11,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 588632,
-      "num": 207254,
+      "num": 256254,
       "word": "林允 天亮了",
       "onboard_time": 1763361501,
       "rank": 44,
@@ -915,6 +931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397582,
+      "num": 266104,
+      "word": "5月龄早产女婴心脏手术期间离世",
+      "onboard_time": 1763366721,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 395878,
       "num": 438119,
       "word": "为什么短剧质感的长剧火起来了",
@@ -969,6 +993,14 @@
       "onboard_time": 1763304564,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 383221,
+      "num": 383221,
+      "word": "蜡笔小新撤档",
+      "onboard_time": 1763367142,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 382962,
@@ -1027,6 +1059,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 367759,
+      "num": 367759,
+      "word": "外交部再回应高市早苗涉台言论",
+      "onboard_time": 1763366181,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 366207,
       "num": 366207,
       "word": "张伟丽判定不敌舍甫琴科",
@@ -1044,7 +1084,7 @@
     },
     {
       "raw_hot": 364314,
-      "num": 237145,
+      "num": 322742,
       "word": "我国死亡率最高的恶性肿瘤",
       "onboard_time": 1763358681,
       "rank": 23,
@@ -1147,6 +1187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341522,
+      "num": 261560,
+      "word": "董璇回应投资墨雨云间",
+      "onboard_time": 1763367202,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 338727,
       "num": 238339,
       "word": "樊振东将重返德甲赛场",
@@ -1171,6 +1219,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 334588,
+      "num": 243862,
+      "word": "沈佳润是不是偷吃零食了",
+      "onboard_time": 1763366782,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334399,
       "num": 334399,
       "word": "胡一天杀回现偶的含金量",
@@ -1185,6 +1241,14 @@
       "onboard_time": 1763295801,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 327486,
+      "num": 327486,
+      "word": "唐诡3弥补了仵作之死的遗憾",
+      "onboard_time": 1763365042,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 325112,
@@ -1280,6 +1344,14 @@
       "word": "咏梅 新的一天该有的都有",
       "onboard_time": 1763277981,
       "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 304915,
+      "num": 258376,
+      "word": "部分日本电影撤档",
+      "onboard_time": 1763367381,
+      "rank": 15,
       "category": "电影"
     },
     {
@@ -1409,14 +1481,6 @@
       "onboard_time": 1763317575,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 278285,
-      "num": 167251,
-      "word": "张维伊叫小酒窝窝子的原因",
-      "onboard_time": 1763364681,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 276532,
@@ -1713,6 +1777,22 @@
       "onboard_time": 1763282002,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225202,
+      "num": 225202,
+      "word": "霍启仁在玉龙雪山举办婚礼",
+      "onboard_time": 1763368162,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 223921,
+      "num": 223921,
+      "word": "日本拥有核弹头负2枚",
+      "onboard_time": 1763364381,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223912,
@@ -2017,6 +2097,14 @@
       "onboard_time": 1763291361,
       "rank": 28,
       "category": "科学科普,美食"
+    },
+    {
+      "raw_hot": 196657,
+      "num": 196657,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763367561,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 195303,
@@ -2499,6 +2587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170298,
+      "num": 170298,
+      "word": "RNG",
+      "onboard_time": 1763367680,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170153,
       "num": 170153,
       "word": "鬼灭之刃",
@@ -2731,6 +2827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158596,
+      "num": 175444,
+      "word": "工作细胞",
+      "onboard_time": 1763368340,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "和王安宇打上视频了",
@@ -2777,6 +2881,14 @@
       "onboard_time": 1763307383,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 157172,
+      "num": 157172,
+      "word": "我爷爷买了一百多米快递",
+      "onboard_time": 1763366001,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 156895,
@@ -2867,6 +2979,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154652,
+      "num": 273057,
+      "word": "官方回应村民盗水吸金年入百万",
+      "onboard_time": 1763366542,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154090,
       "num": 154090,
       "word": "英语里的shanghai不是指上海",
@@ -2875,8 +2995,16 @@
       "category": "教育,科学科普"
     },
     {
+      "raw_hot": 153754,
+      "num": 153754,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1763367922,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153064,
-      "num": 140213,
+      "num": 260825,
       "word": "阿里巴巴回应千问崩了",
       "onboard_time": 1763364381,
       "rank": 43,
@@ -2953,6 +3081,14 @@
       "onboard_time": 1763284042,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 151036,
+      "num": 151036,
+      "word": "曝369和JackeyLove疑似一起休息",
+      "onboard_time": 1763366481,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 150719,
@@ -3227,6 +3363,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140650,
+      "num": 254234,
+      "word": "河南鹅毛大雪",
+      "onboard_time": 1763367801,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140065,
       "num": 140065,
       "word": "巩立姣全运会5连冠",
@@ -3379,6 +3523,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 133705,
+      "num": 133705,
+      "word": "中方回应提醒公民近期避免赴日",
+      "onboard_time": 1763368340,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133398,
       "num": 136129,
       "word": "凤凰台上差点就大结局了",
@@ -3433,14 +3585,6 @@
       "onboard_time": 1763363180,
       "rank": 28,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131410,
-      "num": 131410,
-      "word": "唐诡3弥补了仵作之死的遗憾",
-      "onboard_time": 1763365042,
-      "rank": 35,
-      "category": "剧集"
     },
     {
       "raw_hot": 131226,
@@ -3576,6 +3720,14 @@
       "word": "惠英红咏梅蒋勤勤 陪跑",
       "onboard_time": 1763256021,
       "rank": 34,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 126866,
+      "num": 126866,
+      "word": "宋佳 章子怡",
+      "onboard_time": 1763368521,
+      "rank": 43,
       "category": "电影"
     },
     {
@@ -3779,14 +3931,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120696,
-      "num": 162111,
-      "word": "日本拥有核弹头负2枚",
-      "onboard_time": 1763364381,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 120642,
       "num": 120642,
       "word": "央视曝美发店免费抽奖实为套路充",
@@ -3940,7 +4084,7 @@
     },
     {
       "raw_hot": 117558,
-      "num": 126692,
+      "num": 250882,
       "word": "A股全市场百股涨停",
       "onboard_time": 1763365161,
       "rank": 49,
@@ -4129,6 +4273,14 @@
       "onboard_time": 1763342241,
       "rank": 32,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110830,
+      "num": 110830,
+      "word": "朱雨玲因病退队陈梦第一个发消息",
+      "onboard_time": 1763368222,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 110577,
@@ -4497,6 +4649,14 @@
       "onboard_time": 1763265981,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98282,
+      "num": 98282,
+      "word": "高市早苗暗示研发核动力潜艇",
+      "onboard_time": 1763364861,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 98068,
@@ -4931,6 +5091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75706,
+      "num": 129034,
+      "word": "外交部敦促日方停止越线玩火",
+      "onboard_time": 1763367022,
+      "rank": 41,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 75626,
       "num": 107096,
       "word": "蒋勤勤鼓掌都快哭了",
@@ -5008,6 +5176,14 @@
       "word": "日网友要求日本政客冷静",
       "onboard_time": 1763280320,
       "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 70445,
+      "num": 130443,
+      "word": "日本在野党向民众科普敌国条款",
+      "onboard_time": 1763368641,
+      "rank": 40,
       "category": "海外新闻"
     },
     {
@@ -5089,6 +5265,14 @@
       "onboard_time": 1763284762,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63776,
+      "num": 127869,
+      "word": "张呈雷淞然 天王老子来了",
+      "onboard_time": 1763366782,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 63698,
@@ -5179,6 +5363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60534,
+      "num": 132205,
+      "word": "刘宇宁被门框夹住了",
+      "onboard_time": 1763368340,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 59763,
       "num": 134838,
       "word": "名创优品 过期零食",
@@ -5209,6 +5401,14 @@
       "onboard_time": 1763361201,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 56388,
+      "num": 247705,
+      "word": "新势力燃油车跑分排行榜",
+      "onboard_time": 1763366962,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 56308,
@@ -5979,6 +6179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20142,
+      "num": 771719,
+      "word": "全运会闭幕式剧透来了",
+      "onboard_time": 1763343141,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19986,
       "num": 32022,
       "word": "上海男团1比0北京男团",
@@ -5992,6 +6200,14 @@
       "word": "女子自称汤某回应13个娃3亿纠纷",
       "onboard_time": 1763303304,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18603,
+      "num": 133322,
+      "word": "一起劝阻吸烟致死案的判决背后",
+      "onboard_time": 1763367623,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -6073,6 +6289,14 @@
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 13971,
+      "num": 238721,
+      "word": "台湾34个团体严正抗议日本",
+      "onboard_time": 1763368462,
+      "rank": 22,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
