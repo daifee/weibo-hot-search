@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763407331513,
+  "endTime": 1763408273611,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -7731,12 +7731,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 18748,
+      "num": 28900,
+      "word": "迪丽热巴真的好勇",
+      "onboard_time": 1763406555,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18603,
       "num": 133322,
       "word": "一起劝阻吸烟致死案的判决背后",
       "onboard_time": 1763367623,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18344,
+      "num": 18919,
+      "word": "高市早苗在涉台问题上劣迹斑斑",
+      "onboard_time": 1763406674,
+      "rank": 39,
+      "category": "民生新闻,国内时政"
     },
     {
       "raw_hot": 18307,
@@ -7803,28 +7819,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 16611,
-      "num": 18919,
-      "word": "高市早苗在涉台问题上劣迹斑斑",
-      "onboard_time": 1763406674,
-      "rank": 39,
-      "category": "民生新闻,国内时政"
-    },
-    {
       "raw_hot": 16385,
       "num": 29474,
       "word": "出走的决心",
       "onboard_time": 1763217328,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 15355,
-      "num": 28900,
-      "word": "迪丽热巴真的好勇",
-      "onboard_time": 1763406555,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 14914,
