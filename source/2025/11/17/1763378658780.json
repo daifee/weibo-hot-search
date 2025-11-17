@@ -1,0 +1,410 @@
+{
+  "runTime": 1763378658780,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1076328,
+        "num": 1172212,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 51983,
+        "num": 737262,
+        "word": "中国团队研究基孔肯雅病毒获新进展",
+        "onboard_time": 1763377222,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8514,
+        "num": 675662,
+        "word": "全运会闭幕式剧透来了",
+        "onboard_time": 1763343141,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616688,
+        "num": 616688,
+        "word": "高市早苗搞事已遭反噬",
+        "onboard_time": 1763376560,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363787,
+        "num": 363787,
+        "word": "影院回应网传鬼灭之刃下映",
+        "onboard_time": 1763375301,
+        "rank": 4,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 360035,
+        "num": 360035,
+        "word": "鬼灭之刃票房",
+        "onboard_time": 1763374581,
+        "rank": 5,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 290102,
+        "num": 290102,
+        "word": "疯狂动物城2",
+        "onboard_time": 1763367561,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279149,
+        "num": 279149,
+        "word": "FPX退出LPL",
+        "onboard_time": 1763363901,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 233343,
+        "num": 275941,
+        "word": "河南鹅毛大雪",
+        "onboard_time": 1763367801,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122464,
+        "num": 267934,
+        "word": "日本极右翼人物批高市早苗乱说话",
+        "onboard_time": 1763377461,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 734663,
+        "num": 266372,
+        "word": "宋佳白玉兰 击败甄嬛传",
+        "onboard_time": 1763372241,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 532669,
+        "num": 257312,
+        "word": "医院回应5月龄女婴心脏手术离世",
+        "onboard_time": 1763376261,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326974,
+        "num": 250981,
+        "word": "迪丽热巴边吃零食边摸蛇",
+        "onboard_time": 1763373561,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 249176,
+        "num": 249176,
+        "word": "日本电影",
+        "onboard_time": 1763370021,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 208740,
+        "num": 248804,
+        "word": "中方反制日本还有很多牌可打",
+        "onboard_time": 1763376261,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 199307,
+        "num": 248726,
+        "word": "唐诡3两集开席2次一口没吃上",
+        "onboard_time": 1763377821,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196078,
+        "num": 248697,
+        "word": "鬼灭之刃",
+        "onboard_time": 1763377942,
+        "rank": 16,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 248694,
+        "num": 248694,
+        "word": "张维伊叫小酒窝窝子的原因",
+        "onboard_time": 1763364681,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83979,
+        "num": 247579,
+        "word": "Reno15潮流爆品",
+        "onboard_time": 1763378182,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98811,
+        "num": 240319,
+        "word": "南京一公园被私人占有数年后续",
+        "onboard_time": 1763377461,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1513567,
+        "num": 239023,
+        "word": "宁波妇幼",
+        "onboard_time": 1763373201,
+        "rank": 20,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 775450,
+        "num": 231864,
+        "word": "小海绵身高到baby肩膀了",
+        "onboard_time": 1763371282,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 638223,
+        "num": 226830,
+        "word": "女婴心脏手术去世涉事医生已停诊",
+        "onboard_time": 1763370143,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226829,
+        "num": 226829,
+        "word": "叠纸心意",
+        "onboard_time": 1763377942,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 211731,
+        "num": 211731,
+        "word": "何洁前夫回应离婚",
+        "onboard_time": 1763362880,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199122,
+        "num": 199122,
+        "word": "孙颖莎忘记还有团体赛要打",
+        "onboard_time": 1763369902,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187981,
+        "num": 187981,
+        "word": "吴昕自曝小号内容",
+        "onboard_time": 1763377821,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169042,
+        "num": 169042,
+        "word": "徐嘉余50仰冠军",
+        "onboard_time": 1763378182,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159893,
+        "num": 159893,
+        "word": "霍启仁在玉龙雪山举办婚礼",
+        "onboard_time": 1763368162,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158102,
+        "num": 158102,
+        "word": "外交部再回应高市早苗涉台言论",
+        "onboard_time": 1763366181,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190923,
+        "num": 156926,
+        "word": "GEN疑似接触Daeny",
+        "onboard_time": 1763377942,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 153185,
+        "num": 153185,
+        "word": "复旦的麻辣烫窗口太权威了",
+        "onboard_time": 1763376560,
+        "rank": 31,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 153102,
+        "num": 153102,
+        "word": "宋茜瘦到穿24码的裤子",
+        "onboard_time": 1763372241,
+        "rank": 32,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 145702,
+        "num": 145702,
+        "word": "原来身份证里的芯片长这样",
+        "onboard_time": 1763366062,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 143148,
+        "num": 143148,
+        "word": "宋佳 章子怡",
+        "onboard_time": 1763368521,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22637,
+        "num": 130529,
+        "word": "女子出差睡梦中被男客户进房猥亵",
+        "onboard_time": 1763378541,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105598,
+        "num": 129316,
+        "word": "中方对韩方表示赞赏和衷心感谢",
+        "onboard_time": 1763372903,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129068,
+        "num": 129068,
+        "word": "湖南一婴儿一出生就15岁",
+        "onboard_time": 1763378422,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101969,
+        "num": 125520,
+        "word": "贾斐和张小玲",
+        "onboard_time": 1763377702,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20267,
+        "num": 123570,
+        "word": "惠英红拿金像奖以后片酬涨到5万",
+        "onboard_time": 1763378241,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137169,
+        "num": 123550,
+        "word": "我国死亡率最高的恶性肿瘤",
+        "onboard_time": 1763358681,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123138,
+        "num": 123138,
+        "word": "日本网民吵成一团",
+        "onboard_time": 1763372061,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122796,
+        "num": 122796,
+        "word": "部分日本电影撤档",
+        "onboard_time": 1763367381,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114531,
+        "num": 114531,
+        "word": "曾轶可",
+        "onboard_time": 1763352801,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32478,
+        "num": 111179,
+        "word": "环卫大爷疑被批评后躺地哭诉",
+        "onboard_time": 1763377222,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111096,
+        "num": 111096,
+        "word": "5月龄早产女婴心脏手术期间离世",
+        "onboard_time": 1763366721,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110036,
+        "num": 110036,
+        "word": "肖战新加坡活动入场原高清视频",
+        "onboard_time": 1763374702,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108772,
+        "num": 108772,
+        "word": "宋茜私下不化妆的样子分明是妹妹",
+        "onboard_time": 1763378301,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107549,
+        "num": 107549,
+        "word": "易烊千玺新电影预售票房突破2000万",
+        "onboard_time": 1763378361,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92905,
+        "num": 106755,
+        "word": "福建女排3比1天津女排",
+        "onboard_time": 1763377520,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#传统产业改造升级也能发展新质生产力#"
+    }
+  }
+}

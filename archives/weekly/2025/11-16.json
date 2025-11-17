@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763376461777,
+  "endTime": 1763378658780,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -73,6 +73,14 @@
       "onboard_time": 1763300122,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 1513567,
+      "num": 239023,
+      "word": "宁波妇幼",
+      "onboard_time": 1763373201,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 1483323,
@@ -203,14 +211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1011990,
-      "num": 198538,
-      "word": "宁波妇幼",
-      "onboard_time": 1763373201,
-      "rank": 12,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 981221,
       "num": 447674,
       "word": "学习通崩了",
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 963886,
-      "num": 212640,
+      "num": 266372,
       "word": "宋佳白玉兰 击败甄嬛传",
       "onboard_time": 1763372241,
       "rank": 17,
@@ -268,7 +268,7 @@
     },
     {
       "raw_hot": 937651,
-      "num": 208766,
+      "num": 231864,
       "word": "小海绵身高到baby肩膀了",
       "onboard_time": 1763371282,
       "rank": 20,
@@ -507,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 616688,
+      "num": 616688,
+      "word": "高市早苗搞事已遭反噬",
+      "onboard_time": 1763376560,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 616522,
       "num": 401574,
       "word": "张怡宁 意大利记者",
@@ -689,6 +697,14 @@
       "onboard_time": 1763292803,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 532669,
+      "num": 257312,
+      "word": "医院回应5月龄女婴心脏手术离世",
+      "onboard_time": 1763376261,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 531875,
@@ -1195,6 +1211,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 363787,
+      "num": 363787,
+      "word": "影院回应网传鬼灭之刃下映",
+      "onboard_time": 1763375301,
+      "rank": 43,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 362930,
       "num": 221369,
       "word": "曾轶可",
@@ -1228,7 +1252,7 @@
     },
     {
       "raw_hot": 358190,
-      "num": 197664,
+      "num": 250981,
       "word": "迪丽热巴边吃零食边摸蛇",
       "onboard_time": 1763373561,
       "rank": 14,
@@ -1899,6 +1923,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 226829,
+      "num": 226829,
+      "word": "叠纸心意",
+      "onboard_time": 1763377942,
+      "rank": 23,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 223921,
       "num": 223921,
       "word": "日本拥有核弹头负2枚",
@@ -2025,6 +2057,14 @@
       "onboard_time": 1763351120,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 208740,
+      "num": 248804,
+      "word": "中方反制日本还有很多牌可打",
+      "onboard_time": 1763376261,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 208522,
@@ -2195,6 +2235,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 199307,
+      "num": 248726,
+      "word": "唐诡3两集开席2次一口没吃上",
+      "onboard_time": 1763377821,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199303,
       "num": 192231,
       "word": "二妞妈发文",
@@ -2227,14 +2275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 197648,
-      "num": 197648,
-      "word": "影院回应网传鬼灭之刃下映",
-      "onboard_time": 1763375301,
-      "rank": 43,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 197529,
       "num": 197454,
       "word": "南宁一男子在地铁当众做不雅动作",
@@ -2249,6 +2289,14 @@
       "onboard_time": 1763291361,
       "rank": 28,
       "category": "科学科普,美食"
+    },
+    {
+      "raw_hot": 196078,
+      "num": 248697,
+      "word": "鬼灭之刃",
+      "onboard_time": 1763213726,
+      "rank": 42,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 195303,
@@ -2329,6 +2377,14 @@
       "onboard_time": 1763217149,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 190923,
+      "num": 156926,
+      "word": "GEN疑似接触Daeny",
+      "onboard_time": 1763377942,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 190738,
@@ -2449,6 +2505,14 @@
       "onboard_time": 1763371462,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 187981,
+      "num": 187981,
+      "word": "吴昕自曝小号内容",
+      "onboard_time": 1763377821,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 187885,
@@ -2779,14 +2843,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 170153,
-      "num": 170153,
-      "word": "鬼灭之刃",
-      "onboard_time": 1763213726,
-      "rank": 42,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 169935,
       "num": 316420,
       "word": "王一博攀岩倒挂金钩",
@@ -2809,6 +2865,14 @@
       "onboard_time": 1763361982,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 169042,
+      "num": 169042,
+      "word": "徐嘉余50仰冠军",
+      "onboard_time": 1763378182,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 168676,
@@ -3217,6 +3281,14 @@
       "onboard_time": 1763371342,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153185,
+      "num": 153185,
+      "word": "复旦的麻辣烫窗口太权威了",
+      "onboard_time": 1763376560,
+      "rank": 31,
+      "category": "美食"
     },
     {
       "raw_hot": 153064,
@@ -3931,6 +4003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129068,
+      "num": 129068,
+      "word": "湖南一婴儿一出生就15岁",
+      "onboard_time": 1763378422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129067,
       "num": 129067,
       "word": "刘德华解冻75%",
@@ -4059,14 +4139,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 124371,
-      "num": 185923,
-      "word": "医院回应5月龄女婴心脏手术离世",
-      "onboard_time": 1763376261,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124192,
       "num": 124192,
       "word": "上海队合影樊振东",
@@ -4129,6 +4201,14 @@
       "onboard_time": 1763361501,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122464,
+      "num": 267934,
+      "word": "日本极右翼人物批高市早苗乱说话",
+      "onboard_time": 1763377461,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122450,
@@ -4683,6 +4763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108772,
+      "num": 108772,
+      "word": "宋茜私下不化妆的样子分明是妹妹",
+      "onboard_time": 1763378301,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108741,
       "num": 331592,
       "word": "中央戏剧学院祝贺易烊千玺",
@@ -4737,6 +4825,14 @@
       "onboard_time": 1763289741,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107549,
+      "num": 107549,
+      "word": "易烊千玺新电影预售票房突破2000万",
+      "onboard_time": 1763378361,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 107525,
@@ -4947,6 +5043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101969,
+      "num": 125520,
+      "word": "贾斐和张小玲",
+      "onboard_time": 1763377702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101199,
       "num": 101199,
       "word": "竞技体育柔情的一面",
@@ -5017,6 +5121,14 @@
       "onboard_time": 1763369423,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98811,
+      "num": 240319,
+      "word": "南京一公园被私人占有数年后续",
+      "onboard_time": 1763377461,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98633,
@@ -5129,6 +5241,14 @@
       "onboard_time": 1763220745,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 92905,
+      "num": 106755,
+      "word": "福建女排3比1天津女排",
+      "onboard_time": 1763377520,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 92789,
@@ -5377,6 +5497,14 @@
       "onboard_time": 1763372241,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83979,
+      "num": 247579,
+      "word": "Reno15潮流爆品",
+      "onboard_time": 1763378182,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 83376,
@@ -5947,6 +6075,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51983,
+      "num": 737262,
+      "word": "中国团队研究基孔肯雅病毒获新进展",
+      "onboard_time": 1763377222,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51725,
       "num": 203783,
       "word": "刘雨昕Dior矜贵范",
@@ -6387,6 +6523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32478,
+      "num": 111179,
+      "word": "环卫大爷疑被批评后躺地哭诉",
+      "onboard_time": 1763377222,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32254,
       "num": 39591,
       "word": "金鸡奖颁奖顺序",
@@ -6643,6 +6787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 22637,
+      "num": 130529,
+      "word": "女子出差睡梦中被男客户进房猥亵",
+      "onboard_time": 1763378541,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22345,
       "num": 73240,
       "word": "珍惜那个凡事不用猜的人",
@@ -6673,6 +6825,14 @@
       "onboard_time": 1763241074,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 20267,
+      "num": 123570,
+      "word": "惠英红拿金像奖以后片酬涨到5万",
+      "onboard_time": 1763378241,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 19986,
@@ -6793,14 +6953,6 @@
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 8974,
-      "num": 184178,
-      "word": "中方反制日本还有很多牌可打",
-      "onboard_time": 1763376261,
-      "rank": 25,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
