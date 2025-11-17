@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763372782046,
+  "endTime": 1763375525076,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -107,6 +107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 891642,
+      "num": 212640,
+      "word": "宋佳白玉兰 击败甄嬛传",
+      "onboard_time": 1763372241,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 877865,
       "num": 308073,
       "word": "前工作人员控诉曾轶可",
@@ -131,6 +139,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 776195,
+      "num": 254742,
+      "word": "女婴心脏手术去世涉事医生已停诊",
+      "onboard_time": 1763370143,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 768523,
       "num": 768523,
       "word": "枭起青壤",
@@ -145,6 +161,14 @@
       "onboard_time": 1763342541,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 740491,
+      "num": 198538,
+      "word": "宁波妇幼",
+      "onboard_time": 1763373201,
+      "rank": 12,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 705697,
@@ -259,20 +283,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 576295,
+      "num": 261104,
+      "word": "日本电影",
+      "onboard_time": 1763370021,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 567607,
       "num": 567607,
       "word": "中方不仅愤怒还有行动",
       "onboard_time": 1763346620,
       "rank": 23,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 564051,
-      "num": 261104,
-      "word": "日本电影",
-      "onboard_time": 1763370021,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 562355,
@@ -345,14 +369,6 @@
       "onboard_time": 1763356942,
       "rank": 42,
       "category": "演出"
-    },
-    {
-      "raw_hot": 480247,
-      "num": 254742,
-      "word": "女婴心脏手术去世涉事医生已停诊",
-      "onboard_time": 1763370143,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 478137,
@@ -555,6 +571,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 347776,
+      "num": 197664,
+      "word": "迪丽热巴边吃零食边摸蛇",
+      "onboard_time": 1763373561,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 342039,
       "num": 204720,
       "word": "董璇张维伊一开始没打算结婚",
@@ -643,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 278579,
+      "num": 278579,
+      "word": "鬼灭之刃票房",
+      "onboard_time": 1763374581,
+      "rank": 7,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 276532,
       "num": 276532,
       "word": "张继科说我没拿过全运会冠军",
@@ -715,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 255081,
-      "num": 212640,
-      "word": "宋佳白玉兰 击败甄嬛传",
-      "onboard_time": 1763372241,
-      "rank": 17,
-      "category": "电影"
-    },
-    {
       "raw_hot": 254255,
       "num": 254255,
       "word": "兽皮痣无法通过产检提前发现",
@@ -793,6 +817,14 @@
       "onboard_time": 1763352801,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227873,
+      "num": 190916,
+      "word": "宋茜瘦到穿24码的裤子",
+      "onboard_time": 1763372241,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 223921,
@@ -873,6 +905,14 @@
       "onboard_time": 1763350401,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200684,
+      "num": 196339,
+      "word": "卢凌风 没有接路人的义务",
+      "onboard_time": 1763372661,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 199804,
@@ -961,6 +1001,14 @@
       "onboard_time": 1763349980,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188727,
+      "num": 188727,
+      "word": "有个不太健康的习惯叫穷思竭虑",
+      "onboard_time": 1763374881,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 188404,
@@ -1211,6 +1259,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158968,
+      "num": 158968,
+      "word": "肖战新加坡活动入场原高清视频",
+      "onboard_time": 1763374702,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 158162,
       "num": 158162,
       "word": "杨雨潼中戏颜选",
@@ -1409,6 +1465,14 @@
       "onboard_time": 1763354482,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 142114,
+      "num": 142114,
+      "word": "中方对韩方表示赞赏和衷心感谢",
+      "onboard_time": 1763372903,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141965,
@@ -1619,20 +1683,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124024,
+      "num": 124024,
+      "word": "影院回应网传鬼灭之刃下映",
+      "onboard_time": 1763375301,
+      "rank": 43,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 124008,
       "num": 124008,
       "word": "喜人奇妙夜 鬼灭之刃",
       "onboard_time": 1763336539,
       "rank": 16,
       "category": "综艺,动漫"
-    },
-    {
-      "raw_hot": 123267,
-      "num": 123267,
-      "word": "卢凌风 没有接路人的义务",
-      "onboard_time": 1763372661,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 122532,
@@ -1673,6 +1737,14 @@
       "onboard_time": 1763301684,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119551,
+      "num": 119551,
+      "word": "长城军工一字涨停",
+      "onboard_time": 1763375481,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 118900,
@@ -1716,11 +1788,19 @@
     },
     {
       "raw_hot": 117401,
-      "num": 182566,
+      "num": 196962,
       "word": "比亚迪成海外红毯常客",
       "onboard_time": 1763372601,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117211,
+      "num": 198773,
+      "word": "第一视角冲向返回舱开门是啥体验",
+      "onboard_time": 1763374040,
+      "rank": 11,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117148,
@@ -1771,6 +1851,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114324,
+      "num": 177979,
+      "word": "A股两大利好引爆两大主题",
+      "onboard_time": 1763374822,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 114003,
       "num": 114003,
       "word": "陈建斌搂蒋勤勤 像便衣抓小偷",
@@ -1785,6 +1873,14 @@
       "onboard_time": 1763288841,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112939,
+      "num": 112939,
+      "word": "学中医前的冬天vs学中医后的冬天",
+      "onboard_time": 1763374102,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 111244,
@@ -2131,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 83720,
-      "num": 161767,
-      "word": "宋茜瘦到穿24码的裤子",
-      "onboard_time": 1763372241,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 83376,
       "num": 83376,
       "word": "wps崩了",
@@ -2217,6 +2305,14 @@
       "onboard_time": 1763360002,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77930,
+      "num": 129028,
+      "word": "王楚钦耐心等待与马龙击掌",
+      "onboard_time": 1763374641,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 77662,
@@ -2337,6 +2433,14 @@
       "onboard_time": 1763306005,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69130,
+      "num": 128168,
+      "word": "周深是怎么忍住不笑的",
+      "onboard_time": 1763373740,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 68845,
@@ -2627,6 +2731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36238,
+      "num": 695752,
+      "word": "C919和C909首次亮相中东",
+      "onboard_time": 1763375423,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35567,
       "num": 48671,
       "word": "精彩全运会",
@@ -2769,6 +2881,14 @@
       "onboard_time": 1763371942,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 25987,
+      "num": 129734,
+      "word": "高市早苗能撑多久",
+      "onboard_time": 1763374941,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25905,
