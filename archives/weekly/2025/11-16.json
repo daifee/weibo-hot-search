@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763393444172,
+  "endTime": 1763394261263,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -451,8 +451,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 728846,
-      "num": 728846,
+      "raw_hot": 732656,
+      "num": 732656,
       "word": "日方称向中方提抗议",
       "onboard_time": 1763388504,
       "rank": 31,
@@ -505,6 +505,14 @@
       "onboard_time": 1763257339,
       "rank": 20,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 655836,
+      "num": 655836,
+      "word": "奥特曼扮演者发文质问高市早苗",
+      "onboard_time": 1763391863,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 655210,
@@ -627,20 +635,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 590299,
+      "num": 590299,
+      "word": "日本扩军剑指中国",
+      "onboard_time": 1763390483,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 588632,
       "num": 256254,
       "word": "林允 天亮了",
       "onboard_time": 1763361501,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 587424,
-      "num": 587424,
-      "word": "日本扩军剑指中国",
-      "onboard_time": 1763390483,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 583980,
@@ -745,6 +753,14 @@
       "onboard_time": 1763216131,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 541767,
+      "num": 541767,
+      "word": "南京下雪",
+      "onboard_time": 1763390362,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 537554,
@@ -1315,14 +1331,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 369538,
-      "num": 369538,
-      "word": "南京下雪",
-      "onboard_time": 1763390362,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 368674,
       "num": 368674,
       "word": "外交部再回应高市早苗涉台言论",
@@ -1489,14 +1497,6 @@
       "onboard_time": 1763274443,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 335183,
-      "num": 335183,
-      "word": "奥特曼扮演者发文质问高市早苗",
-      "onboard_time": 1763391863,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 334851,
@@ -2699,6 +2699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190966,
+      "num": 173289,
+      "word": "彭小苒 我努力做个好妈妈",
+      "onboard_time": 1763390903,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190923,
       "num": 156926,
       "word": "GEN疑似接触Daeny",
@@ -3201,14 +3209,6 @@
       "onboard_time": 1763302283,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 173289,
-      "num": 173289,
-      "word": "彭小苒 我努力做个好妈妈",
-      "onboard_time": 1763390903,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 173163,
@@ -5244,7 +5244,7 @@
     },
     {
       "raw_hot": 112041,
-      "num": 140722,
+      "num": 142016,
       "word": "朝雪录竟是00后在追",
       "onboard_time": 1763391322,
       "rank": 33,
@@ -5361,6 +5361,14 @@
       "onboard_time": 1763277681,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110211,
+      "num": 110211,
+      "word": "中国驻日大使馆再发帖",
+      "onboard_time": 1763393002,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109782,
@@ -5859,6 +5867,14 @@
       "category": "国际时政,军事"
     },
     {
+      "raw_hot": 94533,
+      "num": 94533,
+      "word": "十五运乒乓女团第二阶段签表",
+      "onboard_time": 1763393661,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93786,
       "num": 93786,
       "word": "若中国游客减少将影响日本经济",
@@ -5945,6 +5961,14 @@
       "onboard_time": 1763337681,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 90343,
+      "num": 90343,
+      "word": "70后户外网红博主坠崖身亡",
+      "onboard_time": 1763393721,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90283,
@@ -6121,6 +6145,14 @@
       "onboard_time": 1763339901,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84959,
+      "num": 84959,
+      "word": "李雪琴早就知道董璇张维伊在一起",
+      "onboard_time": 1763394023,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 84926,
