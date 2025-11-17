@@ -1,6 +1,6 @@
 {
   "startTime": 1763310621141,
-  "endTime": 1763390737071,
+  "endTime": 1763393444172,
   "band_list": [
     {
       "raw_hot": 3792579,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 821969,
-      "num": 278641,
+      "num": 304770,
       "word": "湖南一婴儿一出生就15岁",
       "onboard_time": 1763378422,
       "rank": 37,
@@ -211,8 +211,16 @@
       "category": "数码"
     },
     {
+      "raw_hot": 728846,
+      "num": 728846,
+      "word": "日方称向中方提抗议",
+      "onboard_time": 1763388504,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 712659,
-      "num": 271125,
+      "num": 303107,
       "word": "中方已向美方提严正交涉",
       "onboard_time": 1763386403,
       "rank": 31,
@@ -313,6 +321,14 @@
       "onboard_time": 1763361501,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 587424,
+      "num": 587424,
+      "word": "日本扩军剑指中国",
+      "onboard_time": 1763390483,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 583980,
@@ -683,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 369538,
+      "num": 369538,
+      "word": "南京下雪",
+      "onboard_time": 1763390362,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 368674,
       "num": 368674,
       "word": "外交部再回应高市早苗涉台言论",
@@ -747,6 +771,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 335183,
+      "num": 335183,
+      "word": "奥特曼扮演者发文质问高市早苗",
+      "onboard_time": 1763391863,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 334399,
       "num": 334399,
       "word": "胡一天杀回现偶的含金量",
@@ -795,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 308815,
+      "num": 308815,
+      "word": "张博恒全运会单杠金牌",
+      "onboard_time": 1763390782,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 308592,
       "num": 308592,
       "word": "韩笑生子",
@@ -817,6 +857,14 @@
       "onboard_time": 1763382022,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298161,
+      "num": 188508,
+      "word": "只有没结婚的才知道她说的有多真",
+      "onboard_time": 1763389642,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 296155,
@@ -1001,14 +1049,6 @@
       "onboard_time": 1763304564,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 243265,
-      "num": 243265,
-      "word": "日方称向中方提抗议",
-      "onboard_time": 1763388504,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 242789,
@@ -1347,6 +1387,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189353,
+      "num": 189353,
+      "word": "两部日本电影撤档影城正陆续退票",
+      "onboard_time": 1763387422,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188727,
       "num": 188727,
       "word": "有个不太健康的习惯叫穷思竭虑",
@@ -1417,14 +1465,6 @@
       "onboard_time": 1763382862,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185918,
-      "num": 185918,
-      "word": "只有没结婚的才知道她说的有多真",
-      "onboard_time": 1763389642,
-      "rank": 41,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 184993,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1763384480,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173289,
+      "num": 173289,
+      "word": "彭小苒 我努力做个好妈妈",
+      "onboard_time": 1763390903,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 172563,
@@ -1979,14 +2027,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 142747,
-      "num": 142747,
-      "word": "南京下雪",
-      "onboard_time": 1763390362,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 142696,
       "num": 142696,
       "word": "买车你会拒绝父辈审美吗",
@@ -2025,6 +2065,22 @@
       "onboard_time": 1763350462,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139681,
+      "num": 139681,
+      "word": "曝Viper和ON联手",
+      "onboard_time": 1763392283,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 138809,
+      "num": 138809,
+      "word": "李冰洁 赛前真的有在努力了",
+      "onboard_time": 1763391382,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 138777,
@@ -2387,6 +2443,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 118747,
+      "num": 118747,
+      "word": "汪顺全运会19金成史上第一人",
+      "onboard_time": 1763391621,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 118546,
       "num": 118546,
       "word": "突然的不理人冷淡都是有原因",
@@ -2531,6 +2595,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112041,
+      "num": 140722,
+      "word": "朝雪录竟是00后在追",
+      "onboard_time": 1763391322,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 111244,
       "num": 111244,
       "word": "狂野时代",
@@ -2592,6 +2664,14 @@
       "word": "小洛熙妈妈",
       "onboard_time": 1763376081,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109194,
+      "num": 109194,
+      "word": "免费采捡白菜涉事种植户补偿已到位",
+      "onboard_time": 1763392402,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2760,6 +2840,14 @@
       "word": "高市早苗暗示研发核动力潜艇",
       "onboard_time": 1763364861,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 97923,
+      "num": 97923,
+      "word": "奥特曼演员发帖质问高市早苗",
+      "onboard_time": 1763391203,
+      "rank": 44,
       "category": "国际时政"
     },
     {
@@ -3169,14 +3257,6 @@
       "onboard_time": 1763383102,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 71953,
-      "num": 221388,
-      "word": "日本扩军剑指中国",
-      "onboard_time": 1763390483,
-      "rank": 21,
-      "category": "国内时政"
     },
     {
       "raw_hot": 71924,
