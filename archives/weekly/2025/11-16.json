@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763465996961,
+  "endTime": 1763470482636,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 729347,
-      "num": 131910,
+      "num": 209113,
       "word": "这一亲把央视解说干沉默了",
       "onboard_time": 1763464522,
       "rank": 30,
@@ -820,7 +820,7 @@
     },
     {
       "raw_hot": 596953,
-      "num": 147302,
+      "num": 197900,
       "word": "曝三字二字流量和原公司续约",
       "onboard_time": 1763464162,
       "rank": 23,
@@ -1404,7 +1404,7 @@
     },
     {
       "raw_hot": 443108,
-      "num": 131604,
+      "num": 196341,
       "word": "王一博 老板发言我抠手",
       "onboard_time": 1763462721,
       "rank": 44,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1763347580,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 414240,
+      "num": 414240,
+      "word": "中方佩戴国徽同日本官员见面",
+      "onboard_time": 1763465541,
+      "rank": 15,
+      "category": "国内时政"
     },
     {
       "raw_hot": 414045,
@@ -1851,6 +1859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 359681,
+      "num": 205007,
+      "word": "被樊振东的核心吓到",
+      "onboard_time": 1763468723,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 359179,
       "num": 553932,
       "word": "孙颖莎呼吁球迷粉丝理性观赛",
@@ -1913,6 +1929,14 @@
       "onboard_time": 1763223383,
       "rank": 34,
       "category": "体育,综艺"
+    },
+    {
+      "raw_hot": 352118,
+      "num": 352118,
+      "word": "樊振东许昕晋级",
+      "onboard_time": 1763467164,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 350376,
@@ -2771,6 +2795,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 250496,
+      "num": 204275,
+      "word": "官方回应张博恒失误时裁判鼓掌大笑",
+      "onboard_time": 1763469144,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 250008,
       "num": 250008,
       "word": "T1 Guma",
@@ -2905,6 +2937,14 @@
       "onboard_time": 1763216310,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231760,
+      "num": 231760,
+      "word": "AL官宣Tabe离队",
+      "onboard_time": 1763467164,
+      "rank": 5,
+      "category": "电竞"
     },
     {
       "raw_hot": 231506,
@@ -3099,6 +3139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213728,
+      "num": 213728,
+      "word": "霍建华演完如懿传终于疯了",
+      "onboard_time": 1763469024,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213666,
       "num": 213666,
       "word": "女婴疑在宁波妇幼做微创手术去世",
@@ -3113,6 +3161,14 @@
       "onboard_time": 1763267001,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210404,
+      "num": 210404,
+      "word": "疯狂动物城2中国首映礼",
+      "onboard_time": 1763463682,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 209986,
@@ -3417,6 +3473,14 @@
       "onboard_time": 1763291361,
       "rank": 28,
       "category": "科学科普,美食"
+    },
+    {
+      "raw_hot": 196404,
+      "num": 196404,
+      "word": "王楚钦一对一指导马龙",
+      "onboard_time": 1763468905,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 196281,
@@ -4051,6 +4115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 180121,
+      "num": 203656,
+      "word": "推特崩了",
+      "onboard_time": 1763468003,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 179942,
       "num": 159034,
       "word": "樊振东夺冠登上新闻联播",
@@ -4387,6 +4459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168763,
+      "num": 196389,
+      "word": "唐嫣罗晋前段时间被偶遇一起带娃",
+      "onboard_time": 1763469624,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168676,
       "num": 145451,
       "word": "樊振东谈全运会收获",
@@ -4505,14 +4585,6 @@
       "onboard_time": 1763436682,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164148,
-      "num": 164148,
-      "word": "中方佩戴国徽同日本官员见面",
-      "onboard_time": 1763465541,
-      "rank": 15,
-      "category": "国内时政"
     },
     {
       "raw_hot": 163561,
@@ -4777,6 +4849,14 @@
       "onboard_time": 1763442441,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 157827,
+      "num": 206372,
+      "word": "陈梦vs陈熠",
+      "onboard_time": 1763463621,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 157419,
@@ -5347,6 +5427,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145334,
+      "num": 196365,
+      "word": "黑龙江体育感谢王曼昱",
+      "onboard_time": 1763469984,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 145179,
       "num": 145179,
       "word": "冷美人 奖金",
@@ -5521,6 +5609,14 @@
       "onboard_time": 1763436501,
       "rank": 34,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 140379,
+      "num": 201638,
+      "word": "唐诡3今天上当的只有我",
+      "onboard_time": 1763465423,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 140255,
@@ -6027,6 +6123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129159,
+      "num": 197129,
+      "word": "2026马年纪念币",
+      "onboard_time": 1763468905,
+      "rank": 23,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 129095,
       "num": 129095,
       "word": "樊振东说庆祝动作是自创的",
@@ -6081,6 +6185,14 @@
       "onboard_time": 1763298202,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 127588,
+      "num": 196337,
+      "word": "医生眼中无意识控糖的行为",
+      "onboard_time": 1763469262,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127490,
@@ -6179,12 +6291,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125953,
-      "num": 125953,
-      "word": "唐诡3今天上当的只有我",
-      "onboard_time": 1763465423,
-      "rank": 18,
-      "category": "剧集"
+      "raw_hot": 125560,
+      "num": 196316,
+      "word": "乒乓球男团决赛北京vs上海",
+      "onboard_time": 1763469324,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 125425,
@@ -6233,6 +6345,14 @@
       "onboard_time": 1763386822,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124691,
+      "num": 196311,
+      "word": "歼15DT在福建舰上成功弹射",
+      "onboard_time": 1763467403,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124640,
@@ -6859,6 +6979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 116080,
+      "num": 196194,
+      "word": "陈熠11比4陈梦",
+      "onboard_time": 1763467944,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116059,
       "num": 116059,
       "word": "低精力人 高精力人",
@@ -6891,14 +7019,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 115744,
-      "num": 115744,
-      "word": "陈梦vs陈熠",
-      "onboard_time": 1763463621,
-      "rank": 37,
-      "category": "体育"
-    },
-    {
       "raw_hot": 115708,
       "num": 115708,
       "word": "姜思达穿婚纱",
@@ -6921,6 +7041,14 @@
       "onboard_time": 1763270782,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115103,
+      "num": 196177,
+      "word": "教大家如何把移动套餐改成8元",
+      "onboard_time": 1763469923,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 115052,
@@ -6987,6 +7115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 113885,
+      "num": 196167,
+      "word": "王者后悔没买的皮肤",
+      "onboard_time": 1763470104,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113655,
       "num": 113655,
       "word": "顾时夜生日卡",
@@ -7025,14 +7161,6 @@
       "onboard_time": 1763374102,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 112915,
-      "num": 125295,
-      "word": "疯狂动物城2中国首映礼",
-      "onboard_time": 1763463682,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 112757,
@@ -7219,12 +7347,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110131,
+      "num": 196157,
+      "word": "林高远0比3黄友政",
+      "onboard_time": 1763468124,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109782,
       "num": 109782,
       "word": "小洛熙妈妈",
       "onboard_time": 1763376081,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109366,
+      "num": 196227,
+      "word": "孙颖莎带领河北进决赛",
+      "onboard_time": 1763469024,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 109213,
@@ -7347,6 +7491,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107596,
+      "num": 196141,
+      "word": "爱笑 新教练组一天就搞定了",
+      "onboard_time": 1763470403,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107564,
       "num": 107564,
       "word": "刘国梁女儿首战全运会还带作业",
@@ -7433,6 +7585,14 @@
       "onboard_time": 1763277622,
       "rank": 46,
       "category": "美食"
+    },
+    {
+      "raw_hot": 106259,
+      "num": 196404,
+      "word": "凤凰台上",
+      "onboard_time": 1763468723,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 106198,
@@ -7913,6 +8073,14 @@
       "onboard_time": 1763336599,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 96232,
+      "num": 196211,
+      "word": "曝iG有意Elk和呼吸哥",
+      "onboard_time": 1763469144,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 95937,
@@ -8795,6 +8963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66860,
+      "num": 440411,
+      "word": "315晚会图片竟成美扣押巨额比特币证据",
+      "onboard_time": 1763468363,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66659,
       "num": 150423,
       "word": "日本毒土必然长出毒苗",
@@ -8937,6 +9113,14 @@
       "onboard_time": 1763225300,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62084,
+      "num": 196261,
+      "word": "74岁老太杀73岁老太藏尸案将开庭",
+      "onboard_time": 1763469444,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62051,
@@ -9179,6 +9363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 51767,
+      "num": 206859,
+      "word": "陈小春找到自己在家里的位置",
+      "onboard_time": 1763467524,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51725,
       "num": 203783,
       "word": "刘雨昕Dior矜贵范",
@@ -9369,6 +9561,14 @@
       "onboard_time": 1763447001,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46276,
+      "num": 196258,
+      "word": "网友称贾乃亮直播间护肤品鉴定为假",
+      "onboard_time": 1763470403,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 45789,
@@ -9819,6 +10019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34191,
+      "num": 196221,
+      "word": "刘耀文哥们儿千变万化",
+      "onboard_time": 1763469203,
+      "rank": 41,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 34140,
       "num": 40966,
       "word": "长大的感受",
@@ -10017,6 +10225,14 @@
       "onboard_time": 1763314575,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 30672,
+      "num": 196244,
+      "word": "美国外卖员偷拍裸睡顾客称遭性骚扰",
+      "onboard_time": 1763469864,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 30654,
