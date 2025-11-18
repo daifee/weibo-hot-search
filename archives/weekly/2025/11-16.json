@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763471350500,
+  "endTime": 1763473078728,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -651,6 +651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 657859,
+      "num": 224554,
+      "word": "推特崩了",
+      "onboard_time": 1763468003,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 655836,
       "num": 823129,
       "word": "奥特曼扮演者发文质问高市早苗",
@@ -820,7 +828,7 @@
     },
     {
       "raw_hot": 596953,
-      "num": 202940,
+      "num": 219093,
       "word": "曝三字二字流量和原公司续约",
       "onboard_time": 1763464162,
       "rank": 23,
@@ -1675,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 389789,
+      "num": 225234,
+      "word": "官方回应张博恒失误时裁判鼓掌大笑",
+      "onboard_time": 1763469144,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 387278,
       "num": 222282,
       "word": "台湾网红街头大肆叫嚣上战场",
@@ -1753,6 +1769,14 @@
       "onboard_time": 1763463802,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376262,
+      "num": 376262,
+      "word": "张艺兴直播",
+      "onboard_time": 1763472683,
+      "rank": 3,
+      "category": "艺人"
     },
     {
       "raw_hot": 376192,
@@ -1865,6 +1889,14 @@
       "onboard_time": 1763468723,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359602,
+      "num": 218929,
+      "word": "王菊再瘦就认不出来了",
+      "onboard_time": 1763470464,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 359179,
@@ -2107,20 +2139,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 320201,
-      "num": 225234,
-      "word": "官方回应张博恒失误时裁判鼓掌大笑",
-      "onboard_time": 1763469144,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 320030,
       "num": 185787,
       "word": "曾轶可演唱会 迟到打碟一小时",
       "onboard_time": 1763363239,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 317382,
+      "num": 317382,
+      "word": "霍建华演完如懿传终于疯了",
+      "onboard_time": 1763469024,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 317079,
@@ -2451,12 +2483,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 280684,
+      "num": 280684,
+      "word": "乒乓球男团决赛北京vs上海",
+      "onboard_time": 1763469324,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 280561,
       "num": 221925,
       "word": "龚俊说迪丽热巴可爱的含金量还在上升",
       "onboard_time": 1763443641,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278991,
+      "num": 219926,
+      "word": "74岁老太杀73岁老太藏尸案将开庭",
+      "onboard_time": 1763469444,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276532,
@@ -2569,14 +2617,6 @@
       "onboard_time": 1763353402,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 268550,
-      "num": 268550,
-      "word": "霍建华演完如懿传终于疯了",
-      "onboard_time": 1763469024,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 267970,
@@ -2699,6 +2739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 260792,
+      "num": 260792,
+      "word": "canyon续约",
+      "onboard_time": 1763470523,
+      "rank": 24,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 260244,
       "num": 195893,
       "word": "无限暖暖一箭封神",
@@ -2817,6 +2865,14 @@
       "onboard_time": 1763265981,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 250956,
+      "num": 219749,
+      "word": "南宁动物园一大猩猩坐石头上抽烟",
+      "onboard_time": 1763471183,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250008,
@@ -2979,6 +3035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230503,
+      "num": 218791,
+      "word": "张博恒失误时鼓掌的裁判被终止执裁",
+      "onboard_time": 1763470523,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230023,
       "num": 230023,
       "word": "孙颖莎vs陈幸同",
@@ -3025,14 +3089,6 @@
       "onboard_time": 1763430500,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 224554,
-      "num": 224554,
-      "word": "推特崩了",
-      "onboard_time": 1763468003,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 223977,
@@ -3113,6 +3169,22 @@
       "onboard_time": 1763460742,
       "rank": 26,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 218707,
+      "num": 218707,
+      "word": "王楚钦一对一指导马龙",
+      "onboard_time": 1763468905,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 218269,
+      "num": 218269,
+      "word": "Meiko宣布休息一段时间",
+      "onboard_time": 1763472743,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 217302,
@@ -3209,6 +3281,14 @@
       "onboard_time": 1763256261,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 209037,
+      "num": 209037,
+      "word": "王曼昱结束全运会抵达北京",
+      "onboard_time": 1763472804,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 208882,
@@ -3347,12 +3427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202242,
-      "num": 202242,
-      "word": "王菊再瘦就认不出来了",
-      "onboard_time": 1763470464,
-      "rank": 22,
-      "category": "艺人"
+      "raw_hot": 202324,
+      "num": 220590,
+      "word": "中方穿五四青年服见日本官员",
+      "onboard_time": 1763471423,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 202060,
@@ -3419,14 +3499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 199844,
-      "num": 199844,
-      "word": "canyon续约",
-      "onboard_time": 1763470523,
-      "rank": 24,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 199804,
       "num": 199804,
       "word": "余茵厚底高跟鞋",
@@ -3491,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 197700,
+      "num": 197700,
+      "word": "近视手术五年后的真实感受",
+      "onboard_time": 1763470824,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 197529,
       "num": 197454,
       "word": "南宁一男子在地铁当众做不雅动作",
@@ -3505,14 +3585,6 @@
       "onboard_time": 1763291361,
       "rank": 28,
       "category": "科学科普,美食"
-    },
-    {
-      "raw_hot": 196404,
-      "num": 196404,
-      "word": "王楚钦一对一指导马龙",
-      "onboard_time": 1763468905,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 196281,
@@ -3755,6 +3827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189993,
+      "num": 189993,
+      "word": "陈乔恩没想到宋茜吃得这么好",
+      "onboard_time": 1763471664,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189930,
       "num": 194555,
       "word": "枭起青壤OST超前试听",
@@ -3817,6 +3897,14 @@
       "onboard_time": 1763299582,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188946,
+      "num": 220225,
+      "word": "北大教授因三生三世入坑网文",
+      "onboard_time": 1763471903,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 188835,
@@ -3963,14 +4051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 185707,
-      "num": 196261,
-      "word": "74岁老太杀73岁老太藏尸案将开庭",
-      "onboard_time": 1763469444,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 185671,
       "num": 331894,
       "word": "王俊凯蟹钳",
@@ -4083,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183135,
+      "num": 219558,
+      "word": "狂野时代映前观看指南",
+      "onboard_time": 1763472084,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182714,
       "num": 182714,
       "word": "日本介入台海即是侵略",
@@ -4123,12 +4211,28 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 181464,
+      "num": 196389,
+      "word": "唐嫣罗晋前段时间被偶遇一起带娃",
+      "onboard_time": 1763469624,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181400,
       "num": 156410,
       "word": "Faker和oner为韩国考生送祝福",
       "onboard_time": 1763298563,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 181206,
+      "num": 181206,
+      "word": "林北女友已经赶往张家界七星山",
+      "onboard_time": 1763471423,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180737,
@@ -4177,6 +4281,14 @@
       "onboard_time": 1763282842,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 179772,
+      "num": 196194,
+      "word": "陈熠11比4陈梦",
+      "onboard_time": 1763467944,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 179747,
@@ -4451,14 +4563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 170860,
-      "num": 235334,
-      "word": "乒乓球男团决赛北京vs上海",
-      "onboard_time": 1763469324,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 169935,
       "num": 316420,
       "word": "王一博攀岩倒挂金钩",
@@ -4505,14 +4609,6 @@
       "onboard_time": 1763378182,
       "rank": 27,
       "category": "体育"
-    },
-    {
-      "raw_hot": 168763,
-      "num": 196389,
-      "word": "唐嫣罗晋前段时间被偶遇一起带娃",
-      "onboard_time": 1763469624,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 168676,
@@ -4651,14 +4747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163362,
-      "num": 196194,
-      "word": "陈熠11比4陈梦",
-      "onboard_time": 1763467944,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 163221,
       "num": 238609,
       "word": "琉球曾是中国藩属国",
@@ -4729,6 +4817,14 @@
       "onboard_time": 1763439263,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 161667,
+      "num": 161667,
+      "word": "cloudflare崩了",
+      "onboard_time": 1763471603,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 161021,
@@ -5049,14 +5145,6 @@
       "onboard_time": 1763299763,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154850,
-      "num": 154850,
-      "word": "近视手术五年后的真实感受",
-      "onboard_time": 1763470824,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 154834,
@@ -5793,14 +5881,6 @@
       "onboard_time": 1763455762,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137324,
-      "num": 137324,
-      "word": "张博恒失误时鼓掌的裁判被终止执裁",
-      "onboard_time": 1763470523,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 137087,
@@ -7420,7 +7500,7 @@
     },
     {
       "raw_hot": 109391,
-      "num": 211139,
+      "num": 219824,
       "word": "深蓝董事长称安全比速度更重要",
       "onboard_time": 1763470464,
       "rank": 19,
@@ -7595,12 +7675,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107327,
-      "num": 107327,
-      "word": "南宁动物园一大猩猩坐石头上抽烟",
-      "onboard_time": 1763471183,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 107230,
+      "num": 160192,
+      "word": "AG爱笑回应Tabe离队",
+      "onboard_time": 1763472863,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 106874,
@@ -7875,6 +7955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102187,
+      "num": 163037,
+      "word": "凤凰台上好虐",
+      "onboard_time": 1763472383,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102171,
       "num": 102171,
       "word": "江苏4岁女童腹痛就医后缺氧去世",
@@ -7889,6 +7977,14 @@
       "onboard_time": 1763340441,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 101555,
+      "num": 160115,
+      "word": "当代年轻人的过冬新方式",
+      "onboard_time": 1763471544,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 101199,
@@ -8240,6 +8336,14 @@
       "word": "宋雨琦的出圈实况绝美",
       "onboard_time": 1763383642,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 93173,
+      "num": 218418,
+      "word": "刘浩存称深蓝L06是新手司机福音",
+      "onboard_time": 1763472985,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -10704,6 +10808,14 @@
       "word": "一起劝阻吸烟致死案的判决背后",
       "onboard_time": 1763367623,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18586,
+      "num": 162199,
+      "word": "被偷倒闭老板称法官弄丢关键材料",
+      "onboard_time": 1763472743,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

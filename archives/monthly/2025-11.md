@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 21:09:10
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 21:37:58
 </p>
 </blockquote>
 <p>
@@ -2735,6 +2735,12 @@ Viper BLG（热度：660717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AF%B4%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%98%AF%E7%94%B7%E4%B9%92%E7%BB%9D%E5%AF%B9%E9%A2%86%E5%86%9B%E4%BA%BA%E7%89%A9%23" target="weibo">
 樊振东说王楚钦是男乒绝对领军人物（热度：660100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8E%A8%E7%89%B9%E5%B4%A9%E4%BA%86%23" target="weibo">
+推特崩了（热度：657859）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ papi酱怀孕时也会抓着老公吵架（热度：410927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%BE%9F%E8%B0%A3%E7%BD%91%E4%BC%A0%E7%94%B5%E5%BD%B1%23" target="weibo">
 赵丽颖工作室辟谣网传电影（热度：407495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
-台风（热度：407348）
 </a>
 </li>
 
