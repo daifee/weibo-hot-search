@@ -1,0 +1,410 @@
+{
+  "runTime": 1763465139842,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 777679,
+        "num": 1124428,
+        "word": "中方不接受日方提出的无理交涉",
+        "onboard_time": 1763452582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79324,
+        "num": 560772,
+        "word": "嫦娥六号月壤首现晶质赤铁矿和磁赤铁矿",
+        "onboard_time": 1763463682,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32291,
+        "num": 433354,
+        "word": "北京全新坐标",
+        "onboard_time": 1763460862,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 418112,
+        "num": 418112,
+        "word": "冷美人获超38000元奖金",
+        "onboard_time": 1763460622,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 378021,
+        "num": 378021,
+        "word": "日本官员低头听中方讲话",
+        "onboard_time": 1763454442,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279765,
+        "num": 279765,
+        "word": "AL教练",
+        "onboard_time": 1763463322,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278656,
+        "num": 278656,
+        "word": "逐玉",
+        "onboard_time": 1763459182,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 276810,
+        "num": 276810,
+        "word": "姜妍 混成这样都不找你去",
+        "onboard_time": 1763451624,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 272581,
+        "num": 272581,
+        "word": "樊振东vs徐瑛彬",
+        "onboard_time": 1763463802,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207514,
+        "num": 207514,
+        "word": "迪丽热巴 绝美ending",
+        "onboard_time": 1763463923,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 458816,
+        "num": 206338,
+        "word": "女子买骆驼牌外套却在口袋掏出机票",
+        "onboard_time": 1763462123,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429163,
+        "num": 200777,
+        "word": "明年的年龄有点严肃了",
+        "onboard_time": 1763447422,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 380885,
+        "num": 194060,
+        "word": "王曼昱缺阵女团半决赛",
+        "onboard_time": 1763460922,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261628,
+        "num": 188095,
+        "word": "韩国警告日本绝对无法容忍",
+        "onboard_time": 1763458104,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187336,
+        "num": 187336,
+        "word": "中方依法保护在华外国公民安全",
+        "onboard_time": 1763462302,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186814,
+        "num": 186814,
+        "word": "王安宇疯狂动物城配音",
+        "onboard_time": 1763457323,
+        "rank": 15,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 176088,
+        "num": 176088,
+        "word": "日本飞出黑天鹅突袭全球市场",
+        "onboard_time": 1763451681,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160777,
+        "num": 160777,
+        "word": "林高远vs黄友政",
+        "onboard_time": 1763462842,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153638,
+        "num": 153638,
+        "word": "原来娇奴在唐诡1就出现过了",
+        "onboard_time": 1763459361,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104347,
+        "num": 153545,
+        "word": "邵明峰说大六座就看泰山和M9",
+        "onboard_time": 1763464461,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1238548,
+        "num": 151867,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763444363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 679041,
+        "num": 149815,
+        "word": "曝二字女星录节目迟到不回消息",
+        "onboard_time": 1763461225,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156718,
+        "num": 148506,
+        "word": "樊振东铁打的一单",
+        "onboard_time": 1763463802,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365109,
+        "num": 147302,
+        "word": "曝三字二字流量和原公司续约",
+        "onboard_time": 1763464162,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196281,
+        "num": 146349,
+        "word": "建议大家嘴馋了要这样吃",
+        "onboard_time": 1763460742,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 144987,
+        "num": 144987,
+        "word": "孙颖莎3比0张缤月",
+        "onboard_time": 1763464522,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136801,
+        "num": 136801,
+        "word": "曾轶可曾大闹机场",
+        "onboard_time": 1763448680,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135859,
+        "num": 135859,
+        "word": "孙颖莎vs张缤月",
+        "onboard_time": 1763463743,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134979,
+        "num": 134979,
+        "word": "喻恩泰史林子共同好友发声",
+        "onboard_time": 1763464282,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132629,
+        "num": 132629,
+        "word": "高市早苗不思悔改拒不撤回",
+        "onboard_time": 1763443581,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 416878,
+        "num": 131910,
+        "word": "这一亲把央视解说干沉默了",
+        "onboard_time": 1763464522,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 341668,
+        "num": 131604,
+        "word": "王一博 老板发言我抠手",
+        "onboard_time": 1763462721,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190631,
+        "num": 131523,
+        "word": "刘劲松与日本外务省官员会面",
+        "onboard_time": 1763461102,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 130666,
+        "num": 130666,
+        "word": "中国外交部发声",
+        "onboard_time": 1763461642,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125189,
+        "num": 125189,
+        "word": "深圳一凶宅30人争抢699.8万元拍出",
+        "onboard_time": 1763450482,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120436,
+        "num": 120436,
+        "word": "中国已经不是甲午战争后的中国",
+        "onboard_time": 1763445021,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120342,
+        "num": 120342,
+        "word": "单身但倒欠两个孩子",
+        "onboard_time": 1763462422,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115744,
+        "num": 115744,
+        "word": "陈梦vs陈熠",
+        "onboard_time": 1763463621,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47296,
+        "num": 113782,
+        "word": "玩偶眼睛藏摄像头不能只是下架了事",
+        "onboard_time": 1763462842,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113166,
+        "num": 113166,
+        "word": "小米研发人员总数再创新高",
+        "onboard_time": 1763464702,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111422,
+        "num": 111422,
+        "word": "他错了题但做对了人生",
+        "onboard_time": 1763463862,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110244,
+        "num": 110244,
+        "word": "唐嫣曾谈和罗晋分居两地",
+        "onboard_time": 1763462243,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108944,
+        "num": 108944,
+        "word": "王一博直播",
+        "onboard_time": 1763452403,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79508,
+        "num": 104377,
+        "word": "疯狂动物城2中国首映礼",
+        "onboard_time": 1763463682,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103539,
+        "num": 103539,
+        "word": "Tabe JDG",
+        "onboard_time": 1763450242,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 101092,
+        "num": 101092,
+        "word": "前工作人员晒曾轶可证据截图",
+        "onboard_time": 1763464400,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100727,
+        "num": 100727,
+        "word": "小米汽车首次单季度经营盈利",
+        "onboard_time": 1763463682,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 98046,
+        "num": 98046,
+        "word": "易烊千玺李庚希咬脖戏",
+        "onboard_time": 1763444422,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95067,
+        "num": 95067,
+        "word": "复刻唐代冰淇淋酥山",
+        "onboard_time": 1763465002,
+        "rank": 48,
+        "category": "美食,剧集"
+      },
+      {
+        "raw_hot": 91251,
+        "num": 91251,
+        "word": "时代峰峻发声明否认张极私联",
+        "onboard_time": 1763456963,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
