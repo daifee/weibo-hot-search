@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763450840346,
+  "endTime": 1763451645816,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1065564,
-      "num": 236690,
+      "raw_hot": 1122807,
+      "num": 265261,
       "word": "明年的年龄有点严肃了",
       "onboard_time": 1763447422,
       "rank": 23,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 656024,
+      "num": 259421,
+      "word": "日本外务省官员离开中国外交部",
+      "onboard_time": 1763450302,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 652940,
       "num": 218246,
       "word": "王中磊夫妇 短视频",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 596163,
-      "num": 244640,
+      "num": 248353,
       "word": "易烊千玺李庚希咬脖戏",
       "onboard_time": 1763444422,
       "rank": 13,
@@ -175,6 +183,14 @@
       "num": 565425,
       "word": "高市早苗同时得罪四国",
       "onboard_time": 1763427802,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 525669,
+      "num": 525669,
+      "word": "高市早苗令日本外交天崩开局",
+      "onboard_time": 1763449581,
       "rank": 10,
       "category": "国际时政"
     },
@@ -219,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 453999,
+      "num": 205203,
+      "word": "孙怡董子健女儿长这么大了",
+      "onboard_time": 1763449462,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434347,
       "num": 407320,
       "word": "确认暂缓日本进口片上映",
@@ -233,6 +257,14 @@
       "onboard_time": 1763388262,
       "rank": 23,
       "category": "数码"
+    },
+    {
+      "raw_hot": 432430,
+      "num": 432430,
+      "word": "Tabe JDG",
+      "onboard_time": 1763450242,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 410927,
@@ -339,14 +371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 335690,
-      "num": 205203,
-      "word": "孙怡董子健女儿长这么大了",
-      "onboard_time": 1763449462,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 335280,
       "num": 213008,
       "word": "潘展乐晒一床大湾鸡",
@@ -363,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329815,
+      "num": 329815,
+      "word": "顶流难寻 待爆永远待爆",
+      "onboard_time": 1763449223,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 326757,
       "num": 326757,
       "word": "T1官宣Gumayusi离队",
       "onboard_time": 1763381481,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 313400,
-      "num": 206106,
-      "word": "日本外务省官员离开中国外交部",
-      "onboard_time": 1763450302,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 309933,
@@ -401,6 +425,14 @@
       "onboard_time": 1763444664,
       "rank": 5,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 291630,
+      "num": 237058,
+      "word": "陈梦暂停场外指导集体安静",
+      "onboard_time": 1763448741,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 288378,
@@ -484,7 +516,7 @@
     },
     {
       "raw_hot": 265337,
-      "num": 275606,
+      "num": 376470,
       "word": "高市早苗成为日本危机",
       "onboard_time": 1763443401,
       "rank": 43,
@@ -497,14 +529,6 @@
       "onboard_time": 1763442862,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 253711,
-      "num": 205161,
-      "word": "陈梦暂停场外指导集体安静",
-      "onboard_time": 1763448741,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 252051,
@@ -555,6 +579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 227695,
+      "num": 192725,
+      "word": "Amy姐曝潘玮柏宣云恋爱内幕",
+      "onboard_time": 1763450842,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226094,
       "num": 210675,
       "word": "王大陆鞠躬道歉",
@@ -585,14 +617,6 @@
       "onboard_time": 1763376560,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 216802,
-      "num": 216802,
-      "word": "顶流难寻 待爆永远待爆",
-      "onboard_time": 1763449223,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 216579,
@@ -641,14 +665,6 @@
       "onboard_time": 1763431640,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198574,
-      "num": 198574,
-      "word": "Tabe JDG",
-      "onboard_time": 1763450242,
-      "rank": 30,
-      "category": "电竞"
     },
     {
       "raw_hot": 198483,
@@ -705,14 +721,6 @@
       "onboard_time": 1763440943,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 194476,
-      "num": 206401,
-      "word": "高市早苗令日本外交天崩开局",
-      "onboard_time": 1763449581,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 192601,
@@ -817,6 +825,14 @@
       "onboard_time": 1763437281,
       "rank": 35,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 181567,
+      "num": 181567,
+      "word": "深圳一凶宅30人争抢699.8万元拍出",
+      "onboard_time": 1763450482,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180601,
@@ -945,6 +961,14 @@
       "onboard_time": 1763447182,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 162127,
+      "num": 162127,
+      "word": "肖战扶车",
+      "onboard_time": 1763438662,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 161967,
@@ -1097,6 +1121,14 @@
       "onboard_time": 1763415914,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145552,
+      "num": 145552,
+      "word": "一台手机在出厂前都经历了什么",
+      "onboard_time": 1763450901,
+      "rank": 34,
+      "category": "数码"
     },
     {
       "raw_hot": 141483,
@@ -1267,14 +1299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122163,
-      "num": 122163,
-      "word": "肖战扶车",
-      "onboard_time": 1763438662,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 121049,
       "num": 121049,
       "word": "时代峰峻包场易烊千玺电影",
@@ -1292,11 +1316,19 @@
     },
     {
       "raw_hot": 120517,
-      "num": 205965,
+      "num": 212846,
       "word": "彭小苒 导演不喊卡就接着演",
       "onboard_time": 1763448563,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 119255,
+      "num": 133228,
+      "word": "梁靖崑11比6樊振东",
+      "onboard_time": 1763450662,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 118785,
@@ -1395,6 +1427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 111601,
+      "num": 111601,
+      "word": "突然降温的穿衣方法",
+      "onboard_time": 1763450063,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108668,
       "num": 108668,
       "word": "考研人的背书方式",
@@ -1417,6 +1457,14 @@
       "onboard_time": 1763447602,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107850,
+      "num": 205841,
+      "word": "全运会乒乓球女团四强对阵",
+      "onboard_time": 1763450363,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 105820,
@@ -1449,6 +1497,14 @@
       "onboard_time": 1763421679,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 103872,
+      "num": 142026,
+      "word": "垫底辣孩 中国百年婚礼图鉴",
+      "onboard_time": 1763450662,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 103659,
@@ -1513,6 +1569,14 @@
       "onboard_time": 1763445501,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98398,
+      "num": 98398,
+      "word": "她甚至是躺着的姿势在弹琴",
+      "onboard_time": 1763451562,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 97559,
@@ -1627,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 89874,
+      "num": 204939,
+      "word": "超市被员工偷倒闭案老板维权5年",
+      "onboard_time": 1763449282,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89764,
       "num": 89764,
       "word": "外交部明确表态不会见高市早苗",
@@ -1708,7 +1780,7 @@
     },
     {
       "raw_hot": 81131,
-      "num": 205535,
+      "num": 208092,
       "word": "荣耀机器人手机首次线下曝光",
       "onboard_time": 1763449462,
       "rank": 19,
@@ -1736,14 +1808,6 @@
       "word": "汪顺全运会19金成史上第一人",
       "onboard_time": 1763391621,
       "rank": 40,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 78629,
-      "num": 205841,
-      "word": "全运会乒乓球女团四强对阵",
-      "onboard_time": 1763450363,
-      "rank": 16,
       "category": "体育"
     },
     {
@@ -1801,14 +1865,6 @@
       "onboard_time": 1763408594,
       "rank": 30,
       "category": "电影"
-    },
-    {
-      "raw_hot": 72525,
-      "num": 204939,
-      "word": "超市被员工偷倒闭案老板维权5年",
-      "onboard_time": 1763449282,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69226,
@@ -1947,6 +2003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 51049,
+      "num": 143279,
+      "word": "宁波妇幼医生6月份也曾被举报",
+      "onboard_time": 1763450421,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50396,
       "num": 50396,
       "word": "中方回应日本外务省高官访华",
@@ -1963,20 +2027,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 48978,
+      "num": 126242,
+      "word": "姜妍 混成这样都不找你去",
+      "onboard_time": 1763451624,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48425,
       "num": 223260,
       "word": "华为乾崑x东风全新品牌即将发布",
       "onboard_time": 1763444003,
       "rank": 19,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 48374,
-      "num": 145361,
-      "word": "深圳一凶宅30人争抢699.8万元拍出",
-      "onboard_time": 1763450482,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47730,
@@ -2011,6 +2075,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41979,
+      "num": 275252,
+      "word": "5年内韩十大产业将被中国全面赶超",
+      "onboard_time": 1763450782,
+      "rank": 36,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 41154,
       "num": 221494,
       "word": "黄执中沈奕斐谈再见爱人保险事件",
@@ -2043,11 +2115,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36729,
-      "num": 143279,
-      "word": "宁波妇幼医生6月份也曾被举报",
-      "onboard_time": 1763450421,
-      "rank": 38,
+      "raw_hot": 36402,
+      "num": 209138,
+      "word": "准大学生26年前遇害仍未破案",
+      "onboard_time": 1763450482,
+      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -2083,20 +2155,12 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 32470,
-      "num": 146429,
-      "word": "5年内韩十大产业将被中国全面赶超",
-      "onboard_time": 1763450782,
-      "rank": 36,
-      "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 32212,
-      "num": 205389,
-      "word": "准大学生26年前遇害仍未破案",
-      "onboard_time": 1763450482,
-      "rank": 21,
-      "category": "民生新闻"
+      "raw_hot": 32127,
+      "num": 663956,
+      "word": "十五运今日看点",
+      "onboard_time": 1763437342,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 31862,
@@ -2155,14 +2219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26459,
-      "num": 663956,
-      "word": "十五运今日看点",
-      "onboard_time": 1763437342,
-      "rank": 2,
-      "category": "体育"
-    },
-    {
       "raw_hot": 23186,
       "num": 671779,
       "word": "C919和C909首次亮相中东",
@@ -2209,14 +2265,6 @@
       "onboard_time": 1763403495,
       "rank": 45,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 18862,
-      "num": 142026,
-      "word": "垫底辣孩 中国百年婚礼图鉴",
-      "onboard_time": 1763450662,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 18759,
