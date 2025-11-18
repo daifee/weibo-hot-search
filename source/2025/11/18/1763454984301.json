@@ -1,0 +1,410 @@
+{
+  "runTime": 1763454984301,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 712682,
+        "num": 1114029,
+        "word": "中方不接受日方提出的无理交涉",
+        "onboard_time": 1763452582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 659115,
+        "num": 659115,
+        "word": "高市早苗不思悔改拒不撤回",
+        "onboard_time": 1763443581,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19126,
+        "num": 602902,
+        "word": "十五运今日看点",
+        "onboard_time": 1763437342,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 752634,
+        "num": 602313,
+        "word": "日本外务省官员离开中国外交部",
+        "onboard_time": 1763450302,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 570509,
+        "num": 570509,
+        "word": "高市早苗令日本外交天崩开局",
+        "onboard_time": 1763449581,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 556970,
+        "num": 556970,
+        "word": "姜妍 混成这样都不找你去",
+        "onboard_time": 1763451624,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 413226,
+        "num": 413226,
+        "word": "樊振东3比2胜梁靖崑",
+        "onboard_time": 1763450662,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 410721,
+        "num": 410721,
+        "word": "Tabe JDG",
+        "onboard_time": 1763450242,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 341449,
+        "num": 341449,
+        "word": "日本飞出黑天鹅突袭全球市场",
+        "onboard_time": 1763451681,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 298319,
+        "num": 298319,
+        "word": "王一博直播",
+        "onboard_time": 1763452403,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 819144,
+        "num": 282366,
+        "word": "明年的年龄有点严肃了",
+        "onboard_time": 1763447422,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 480899,
+        "num": 281592,
+        "word": "深圳一凶宅30人争抢699.8万元拍出",
+        "onboard_time": 1763450482,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 423749,
+        "num": 264331,
+        "word": "顶流难寻 待爆永远待爆",
+        "onboard_time": 1763449223,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 311138,
+        "num": 242628,
+        "word": "日本官员低头听中方讲话",
+        "onboard_time": 1763454442,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232938,
+        "num": 232938,
+        "word": "中国已经不是甲午战争后的中国",
+        "onboard_time": 1763445021,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231697,
+        "num": 231697,
+        "word": "易烊千玺李庚希咬脖戏",
+        "onboard_time": 1763444422,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 220689,
+        "num": 220689,
+        "word": "中国游客不来了让人不安",
+        "onboard_time": 1763426422,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133415,
+        "num": 216762,
+        "word": "何炅 捞完你的捞你的",
+        "onboard_time": 1763448622,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131212,
+        "num": 213435,
+        "word": "蒋欣 干嘛假孕争宠啊",
+        "onboard_time": 1763440643,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17096,
+        "num": 210250,
+        "word": "女子家门口被害案一审将重新开庭",
+        "onboard_time": 1763454083,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1817117,
+        "num": 205190,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763444363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 476597,
+        "num": 202375,
+        "word": "曾轶可曾大闹机场",
+        "onboard_time": 1763448680,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417677,
+        "num": 197906,
+        "word": "Amy姐曝潘玮柏宣云恋爱内幕",
+        "onboard_time": 1763450842,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319161,
+        "num": 195441,
+        "word": "孙怡董子健女儿长这么大了",
+        "onboard_time": 1763449462,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192710,
+        "num": 192710,
+        "word": "董璇说张维伊从来没有给她做过饭",
+        "onboard_time": 1763453483,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 868347,
+        "num": 192599,
+        "word": "唐嫣曾说罗晋半年提了6次分手",
+        "onboard_time": 1763452224,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255574,
+        "num": 192570,
+        "word": "女婴心脏手术去世外婆担心女儿",
+        "onboard_time": 1763440164,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214498,
+        "num": 192529,
+        "word": "女婴手术离世舅舅发声",
+        "onboard_time": 1763452403,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192469,
+        "num": 192469,
+        "word": "日方必须给中国人民一个交代",
+        "onboard_time": 1763451982,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156104,
+        "num": 156104,
+        "word": "外交部回应日本拟恢复大佐军阶",
+        "onboard_time": 1763453303,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151528,
+        "num": 151528,
+        "word": "8小时工作制是包含午休在内的",
+        "onboard_time": 1763452942,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145748,
+        "num": 145748,
+        "word": "许绍雄出殡众星现身送别",
+        "onboard_time": 1763444664,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144049,
+        "num": 144049,
+        "word": "高市早苗成为日本危机",
+        "onboard_time": 1763443401,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137801,
+        "num": 137801,
+        "word": "陈梦暂停场外指导集体安静",
+        "onboard_time": 1763448741,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133617,
+        "num": 133617,
+        "word": "我发现落落大方的性格真的很加分",
+        "onboard_time": 1763453784,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26185,
+        "num": 124961,
+        "word": "公厕被打女孩称患白血病最新发声",
+        "onboard_time": 1763452882,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123718,
+        "num": 123718,
+        "word": "钓鱼岛及其附属岛屿是中国固有领土",
+        "onboard_time": 1763454501,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 7996,
+        "num": 123229,
+        "word": "台湾民众高喊是堂堂正正的中国人",
+        "onboard_time": 1763454442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38171,
+        "num": 123080,
+        "word": "看完疯狂动物城我就这么发朋友圈",
+        "onboard_time": 1763454023,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12920,
+        "num": 123071,
+        "word": "TF四代聊天记录 刻板印象",
+        "onboard_time": 1763454802,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123071,
+        "num": 123070,
+        "word": "肖战扶车",
+        "onboard_time": 1763438662,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122315,
+        "num": 122315,
+        "word": "朱婷太累了",
+        "onboard_time": 1763452703,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43935,
+        "num": 121184,
+        "word": "花少在我心中成为第一的理由",
+        "onboard_time": 1763453603,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120920,
+        "num": 120920,
+        "word": "绝不允许任何人挑战战后国际秩序",
+        "onboard_time": 1763454863,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120702,
+        "num": 120702,
+        "word": "葱枝甘露",
+        "onboard_time": 1763453603,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 118641,
+        "num": 118641,
+        "word": "冷美人恢复良好只是头发缠成块",
+        "onboard_time": 1763453902,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116508,
+        "num": 116508,
+        "word": "垫底辣孩 中国百年婚礼图鉴",
+        "onboard_time": 1763450662,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 115429,
+        "num": 115429,
+        "word": "王中磊夫妇 短视频",
+        "onboard_time": 1763442023,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111078,
+        "num": 111078,
+        "word": "J人老了后的床头",
+        "onboard_time": 1763453784,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110877,
+        "num": 110877,
+        "word": "北京队掌握了王楚钦使用手册",
+        "onboard_time": 1763454203,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视文化建设#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763451645816,
+  "endTime": 1763454984301,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 1122807,
-      "num": 265261,
+      "num": 282366,
       "word": "明年的年龄有点严肃了",
       "onboard_time": 1763447422,
       "rank": 23,
@@ -395,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 868347,
+      "num": 192599,
+      "word": "唐嫣曾说罗晋半年提了6次分手",
+      "onboard_time": 1763452224,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 857992,
       "num": 375893,
       "word": "张艺谋曾说金鸡奖是全世界最难拿的奖",
@@ -531,6 +539,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 752634,
+      "num": 602313,
+      "word": "日本外务省官员离开中国外交部",
+      "onboard_time": 1763450302,
+      "rank": 13,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 712682,
+      "num": 1114029,
+      "word": "中方不接受日方提出的无理交涉",
+      "onboard_time": 1763452582,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 712659,
       "num": 303107,
       "word": "中方已向美方提严正交涉",
@@ -585,14 +609,6 @@
       "onboard_time": 1763257339,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 656024,
-      "num": 259421,
-      "word": "日本外务省官员离开中国外交部",
-      "onboard_time": 1763450302,
-      "rank": 13,
-      "category": "国际时政"
     },
     {
       "raw_hot": 655836,
@@ -859,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 570509,
+      "num": 570509,
+      "word": "高市早苗令日本外交天崩开局",
+      "onboard_time": 1763449581,
+      "rank": 10,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 567607,
       "num": 567607,
       "word": "中方不仅愤怒还有行动",
@@ -889,6 +913,14 @@
       "onboard_time": 1763267001,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 556970,
+      "num": 556970,
+      "word": "姜妍 混成这样都不找你去",
+      "onboard_time": 1763451624,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 553942,
@@ -985,14 +1017,6 @@
       "onboard_time": 1763286683,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 525669,
-      "num": 525669,
-      "word": "高市早苗令日本外交天崩开局",
-      "onboard_time": 1763449581,
-      "rank": 10,
-      "category": "国际时政"
     },
     {
       "raw_hot": 519757,
@@ -1112,6 +1136,14 @@
       "word": "60岁孕妇剖腹产生下男婴",
       "onboard_time": 1763437221,
       "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 480899,
+      "num": 281592,
+      "word": "深圳一凶宅30人争抢699.8万元拍出",
+      "onboard_time": 1763450482,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1363,6 +1395,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 423749,
+      "num": 329815,
+      "word": "顶流难寻 待爆永远待爆",
+      "onboard_time": 1763449223,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 417677,
+      "num": 197906,
+      "word": "Amy姐曝潘玮柏宣云恋爱内幕",
+      "onboard_time": 1763450842,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 417535,
       "num": 417535,
       "word": "影院回应网传鬼灭之刃下映",
@@ -1385,6 +1433,14 @@
       "onboard_time": 1763270301,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 413226,
+      "num": 413226,
+      "word": "樊振东3比2胜梁靖崑",
+      "onboard_time": 1763438122,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 410927,
@@ -1787,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341449,
+      "num": 341449,
+      "word": "日本飞出黑天鹅突袭全球市场",
+      "onboard_time": 1763451681,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 340874,
       "num": 340874,
       "word": "女子网购玩偶发现眼睛内疑有摄像头",
@@ -1849,14 +1913,6 @@
       "onboard_time": 1763295801,
       "rank": 27,
       "category": "演出"
-    },
-    {
-      "raw_hot": 329815,
-      "num": 329815,
-      "word": "顶流难寻 待爆永远待爆",
-      "onboard_time": 1763449223,
-      "rank": 8,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 329024,
@@ -1929,6 +1985,14 @@
       "onboard_time": 1763283382,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311138,
+      "num": 242628,
+      "word": "日本官员低头听中方讲话",
+      "onboard_time": 1763454442,
+      "rank": 13,
+      "category": "国内时政"
     },
     {
       "raw_hot": 310034,
@@ -2057,6 +2121,14 @@
       "onboard_time": 1763382022,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 298319,
+      "num": 298319,
+      "word": "王一博直播",
+      "onboard_time": 1763452403,
+      "rank": 9,
+      "category": "艺人"
     },
     {
       "raw_hot": 298200,
@@ -2707,14 +2779,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227695,
-      "num": 192725,
-      "word": "Amy姐曝潘玮柏宣云恋爱内幕",
-      "onboard_time": 1763450842,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226094,
       "num": 210675,
       "word": "王大陆鞠躬道歉",
@@ -2811,14 +2875,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216579,
-      "num": 216579,
-      "word": "樊振东3比2胜梁靖崑",
-      "onboard_time": 1763438122,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 215804,
       "num": 215804,
       "word": "T1官宣Doran续约",
@@ -2841,6 +2897,14 @@
       "onboard_time": 1763349201,
       "rank": 34,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 214498,
+      "num": 192529,
+      "word": "女婴手术离世舅舅发声",
+      "onboard_time": 1763452403,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 213828,
@@ -3283,12 +3347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192710,
+      "num": 192710,
+      "word": "董璇说张维伊从来没有给她做过饭",
+      "onboard_time": 1763453483,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192601,
       "num": 192601,
       "word": "王俊凯趁世界还年青定档",
       "onboard_time": 1763443762,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192469,
+      "num": 192469,
+      "word": "日方必须给中国人民一个交代",
+      "onboard_time": 1763451982,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192414,
@@ -3745,14 +3825,6 @@
       "onboard_time": 1763386102,
       "rank": 28,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 181567,
-      "num": 181567,
-      "word": "深圳一凶宅30人争抢699.8万元拍出",
-      "onboard_time": 1763450482,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181400,
@@ -4523,6 +4595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156104,
+      "num": 156104,
+      "word": "外交部回应日本拟恢复大佐军阶",
+      "onboard_time": 1763453303,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 155971,
       "num": 155971,
       "word": "女生自学化妆1个月的变化",
@@ -4769,6 +4849,14 @@
       "onboard_time": 1763440103,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151528,
+      "num": 151528,
+      "word": "8小时工作制是包含午休在内的",
+      "onboard_time": 1763452942,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 151333,
@@ -5411,6 +5499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133617,
+      "num": 133617,
+      "word": "我发现落落大方的性格真的很加分",
+      "onboard_time": 1763453784,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 133578,
       "num": 133578,
       "word": "韩媒曝Gumayusi离队内部早已确定",
@@ -5851,6 +5947,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 123718,
+      "num": 123718,
+      "word": "钓鱼岛及其附属岛屿是中国固有领土",
+      "onboard_time": 1763454501,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123667,
       "num": 174044,
       "word": "全球资产集体大跌",
@@ -5913,6 +6017,14 @@
       "onboard_time": 1763375481,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 122315,
+      "num": 122315,
+      "word": "朱婷太累了",
+      "onboard_time": 1763452703,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 121958,
@@ -6009,6 +6121,22 @@
       "onboard_time": 1763444483,
       "rank": 46,
       "category": "财经,汽车"
+    },
+    {
+      "raw_hot": 120920,
+      "num": 120920,
+      "word": "绝不允许任何人挑战战后国际秩序",
+      "onboard_time": 1763454863,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 120702,
+      "num": 120702,
+      "word": "葱枝甘露",
+      "onboard_time": 1763453603,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 120642,
@@ -6171,6 +6299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 118641,
+      "num": 118641,
+      "word": "冷美人恢复良好只是头发缠成块",
+      "onboard_time": 1763453902,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118546,
       "num": 118546,
       "word": "突然的不理人冷淡都是有原因",
@@ -6313,6 +6449,14 @@
       "onboard_time": 1763288661,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116508,
+      "num": 142026,
+      "word": "垫底辣孩 中国百年婚礼图鉴",
+      "onboard_time": 1763450662,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 116390,
@@ -6555,12 +6699,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 111078,
+      "num": 111078,
+      "word": "J人老了后的床头",
+      "onboard_time": 1763453784,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 111014,
       "num": 111014,
       "word": "易烊千玺新电影预售票房突破2000万",
       "onboard_time": 1763378361,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110877,
+      "num": 110877,
+      "word": "北京队掌握了王楚钦使用手册",
+      "onboard_time": 1763454203,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 110830,
@@ -6953,14 +7113,6 @@
       "onboard_time": 1763288661,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 103872,
-      "num": 142026,
-      "word": "垫底辣孩 中国百年婚礼图鉴",
-      "onboard_time": 1763450662,
-      "rank": 39,
-      "category": "网红"
     },
     {
       "raw_hot": 103755,
@@ -8515,14 +8667,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 48978,
-      "num": 126242,
-      "word": "姜妍 混成这样都不找你去",
-      "onboard_time": 1763451624,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 48833,
       "num": 146569,
       "word": "张伟丽太顽强了",
@@ -8641,6 +8785,14 @@
       "onboard_time": 1763296041,
       "rank": 20,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 43935,
+      "num": 121184,
+      "word": "花少在我心中成为第一的理由",
+      "onboard_time": 1763453603,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 43908,
@@ -8801,6 +8953,14 @@
       "onboard_time": 1763317095,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38171,
+      "num": 123080,
+      "word": "看完疯狂动物城我就这么发朋友圈",
+      "onboard_time": 1763454023,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 37956,
@@ -9307,6 +9467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26185,
+      "num": 124961,
+      "word": "公厕被打女孩称患白血病最新发声",
+      "onboard_time": 1763452882,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25905,
       "num": 105621,
       "word": "那英现场改规则",
@@ -9587,6 +9755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17096,
+      "num": 210250,
+      "word": "女子家门口被害案一审将重新开庭",
+      "onboard_time": 1763454083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16764,
       "num": 29100,
       "word": "刘宇宁丝绒真空西装",
@@ -9675,6 +9851,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 12920,
+      "num": 123071,
+      "word": "TF四代聊天记录 刻板印象",
+      "onboard_time": 1763454802,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 12751,
       "num": 18863,
       "word": "周深演唱会唱了许嵩的庐州月",
@@ -9697,6 +9881,14 @@
       "onboard_time": 1763389402,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7996,
+      "num": 123229,
+      "word": "台湾民众高喊是堂堂正正的中国人",
+      "onboard_time": 1763454442,
+      "rank": 37,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
