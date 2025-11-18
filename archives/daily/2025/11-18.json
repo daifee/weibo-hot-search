@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763476094341,
+  "endTime": 1763477136750,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2158508,
+      "raw_hot": 2178127,
       "num": 217139,
       "word": "曝唐嫣罗晋分居一年半了",
       "onboard_time": 1763473165,
@@ -91,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 879798,
+      "num": 207127,
+      "word": "王橹杰发博",
+      "onboard_time": 1763475085,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 871748,
       "num": 251147,
       "word": "推特崩了",
@@ -163,14 +171,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 722828,
-      "num": 191588,
-      "word": "王橹杰发博",
-      "onboard_time": 1763475085,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 676656,
       "num": 1108264,
       "word": "高市早苗不思悔改拒不撤回",
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 602434,
-      "num": 202842,
+      "num": 219088,
       "word": "近视手术五年后的真实感受",
       "onboard_time": 1763470824,
       "rank": 31,
@@ -369,6 +369,14 @@
       "onboard_time": 1763450482,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 470284,
+      "num": 219008,
+      "word": "金鸡奖 奖金",
+      "onboard_time": 1763475623,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 458816,
@@ -675,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333380,
+      "num": 333380,
+      "word": "中方穿五四青年服见日本官员",
+      "onboard_time": 1763471423,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 326757,
       "num": 326757,
       "word": "T1官宣Gumayusi离队",
@@ -737,14 +753,6 @@
       "onboard_time": 1763453902,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298638,
-      "num": 298638,
-      "word": "中方穿五四青年服见日本官员",
-      "onboard_time": 1763471423,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 297077,
@@ -1059,6 +1067,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213780,
+      "num": 191517,
+      "word": "王菊瘦成少女时代泰妍了",
+      "onboard_time": 1763475265,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 210558,
+      "num": 173094,
+      "word": "王楚钦这我能告诉你吗",
+      "onboard_time": 1763476825,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 210404,
       "num": 236158,
       "word": "疯狂动物城2中国首映礼",
@@ -1084,7 +1108,7 @@
     },
     {
       "raw_hot": 202340,
-      "num": 202340,
+      "num": 219244,
       "word": "陈梦vs杨屹韵",
       "onboard_time": 1763474065,
       "rank": 17,
@@ -1403,14 +1427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175482,
-      "num": 198639,
-      "word": "金鸡奖 奖金",
-      "onboard_time": 1763475623,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 174780,
       "num": 174780,
       "word": "唐嫣曾谈和罗晋分居两地",
@@ -1489,6 +1505,14 @@
       "onboard_time": 1763443641,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 168158,
+      "num": 168158,
+      "word": "纪念币",
+      "onboard_time": 1763475925,
+      "rank": 37,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 167308,
@@ -1577,14 +1601,6 @@
       "onboard_time": 1763474785,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 160213,
-      "num": 160213,
-      "word": "王菊瘦成少女时代泰妍了",
-      "onboard_time": 1763475265,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 157953,
@@ -1739,6 +1755,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147434,
+      "num": 147434,
+      "word": "韩国外交部发表声明",
+      "onboard_time": 1763476763,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 147241,
       "num": 147241,
       "word": "哇唧唧哇男团说进公司是为了追老板",
@@ -1793,14 +1817,6 @@
       "onboard_time": 1763464522,
       "rank": 25,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 141669,
-      "num": 141669,
-      "word": "纪念币",
-      "onboard_time": 1763475925,
-      "rank": 37,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 141483,
@@ -2060,7 +2076,7 @@
     },
     {
       "raw_hot": 124367,
-      "num": 124367,
+      "num": 127322,
       "word": "孙颖莎都给你安排的妥妥的",
       "onboard_time": 1763475024,
       "rank": 43,
@@ -2419,6 +2435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109079,
+      "num": 175688,
+      "word": "唐朝诡事录 去天尺五",
+      "onboard_time": 1763476583,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108668,
       "num": 108668,
       "word": "考研人的背书方式",
@@ -2547,6 +2571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 103596,
+      "num": 127322,
+      "word": "官方回应王曼昱缺席女团半决赛",
+      "onboard_time": 1763473105,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103193,
       "num": 103193,
       "word": "宁波妇幼",
@@ -2577,6 +2609,14 @@
       "onboard_time": 1763421557,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101861,
+      "num": 127321,
+      "word": "福建舰入列后组成航母编队",
+      "onboard_time": 1763476883,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101555,
@@ -2729,6 +2769,14 @@
       "onboard_time": 1763469144,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95516,
+      "num": 127321,
+      "word": "分享一个制作眼镜的全过程",
+      "onboard_time": 1763477064,
+      "rank": 49,
+      "category": "美妆,时尚"
     },
     {
       "raw_hot": 95067,
@@ -3259,6 +3307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50164,
+      "num": 218800,
+      "word": "百万超跑驾控深蓝L06价格13.29万",
+      "onboard_time": 1763474905,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 49225,
       "num": 49225,
       "word": "美国男博主因变帅教学走红",
@@ -3353,14 +3409,6 @@
       "onboard_time": 1763382741,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 42212,
-      "num": 202602,
-      "word": "百万超跑驾控深蓝L06价格13.29万",
-      "onboard_time": 1763474905,
-      "rank": 13,
-      "category": "汽车"
     },
     {
       "raw_hot": 41979,
@@ -3639,6 +3687,14 @@
       "num": 135347,
       "word": "男子术后截肢家属称医院多次改病历",
       "onboard_time": 1763475144,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24122,
+      "num": 147401,
+      "word": "闪婚多月后离婚男子要求退彩礼",
+      "onboard_time": 1763476344,
       "rank": 39,
       "category": "民生新闻"
     },
