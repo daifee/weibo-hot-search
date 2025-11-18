@@ -1,0 +1,410 @@
+{
+  "runTime": 1763484733568,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 378057,
+        "num": 680645,
+        "word": "普京称中国公民免签政策近期生效",
+        "onboard_time": 1763480303,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372024,
+        "num": 372024,
+        "word": "约49.1万张飞往日本机票取消",
+        "onboard_time": 1763478504,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39157,
+        "num": 281472,
+        "word": "福建舰入列后首次海上实兵训练",
+        "onboard_time": 1763458703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256518,
+        "num": 256518,
+        "word": "中方不接受日方提出的无理交涉",
+        "onboard_time": 1763452582,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 162407,
+        "num": 162407,
+        "word": "专家称日本高官来华碰得头破血流",
+        "onboard_time": 1763479883,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154180,
+        "num": 154180,
+        "word": "王安宇回应疯狂动物城2配音",
+        "onboard_time": 1763479283,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113724,
+        "num": 152783,
+        "word": "中方穿五四青年服见日本官员",
+        "onboard_time": 1763471423,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107974,
+        "num": 151466,
+        "word": "日本官员低头听中方讲话",
+        "onboard_time": 1763454442,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107466,
+        "num": 149210,
+        "word": "Doinb宣布明年不打LPL",
+        "onboard_time": 1763478444,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90844,
+        "num": 145868,
+        "word": "张艺兴直播",
+        "onboard_time": 1763472683,
+        "rank": 9,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361026,
+        "num": 143401,
+        "word": "中方说了三个绝不允许",
+        "onboard_time": 1763481680,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 308192,
+        "num": 141120,
+        "word": "韩国外交部发表声明",
+        "onboard_time": 1763476763,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171322,
+        "num": 138774,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1763478624,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137903,
+        "num": 137903,
+        "word": "近视手术五年后的真实感受",
+        "onboard_time": 1763470824,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 106934,
+        "num": 137140,
+        "word": "明年的年龄有点严肃了",
+        "onboard_time": 1763447422,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94855,
+        "num": 136108,
+        "word": "王楚钦这我能告诉你吗",
+        "onboard_time": 1763476825,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78717,
+        "num": 135052,
+        "word": "王晶说易烊千玺可能是下一个周润发",
+        "onboard_time": 1763483599,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 70975,
+        "num": 133682,
+        "word": "霍建华演完如懿传终于疯了",
+        "onboard_time": 1763469024,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69835,
+        "num": 133306,
+        "word": "四喜",
+        "onboard_time": 1763481200,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67797,
+        "num": 132570,
+        "word": "唐朝诡事录 去天尺五",
+        "onboard_time": 1763476583,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 514389,
+        "num": 131431,
+        "word": "曝唐嫣罗晋分居一年半了",
+        "onboard_time": 1763473165,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299943,
+        "num": 130366,
+        "word": "王橹杰发博",
+        "onboard_time": 1763475085,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122651,
+        "num": 128691,
+        "word": "王菊瘦成少女时代泰妍了",
+        "onboard_time": 1763475265,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93820,
+        "num": 128121,
+        "word": "74岁老太杀73岁老太藏尸案将开庭",
+        "onboard_time": 1763469444,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85711,
+        "num": 126504,
+        "word": "曝三字二字流量和原公司续约",
+        "onboard_time": 1763464162,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126289,
+        "num": 126289,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763444363,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78868,
+        "num": 126268,
+        "word": "这一亲把央视解说干沉默了",
+        "onboard_time": 1763464522,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72293,
+        "num": 126250,
+        "word": "张博恒失误时鼓掌的裁判被终止执裁",
+        "onboard_time": 1763470523,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69668,
+        "num": 126238,
+        "word": "王菊再瘦就认不出来了",
+        "onboard_time": 1763470464,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58209,
+        "num": 126214,
+        "word": "骑车被狗绊倒女生已做开颅手术",
+        "onboard_time": 1763484378,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56362,
+        "num": 126200,
+        "word": "南宁动物园一大猩猩坐石头上抽烟",
+        "onboard_time": 1763471183,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56153,
+        "num": 126172,
+        "word": "canyon续约",
+        "onboard_time": 1763470523,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54548,
+        "num": 126148,
+        "word": "广州长隆飞车表演撞上铁笼演员摔倒",
+        "onboard_time": 1763482641,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53728,
+        "num": 126130,
+        "word": "王一博 老板发言我抠手",
+        "onboard_time": 1763462721,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53713,
+        "num": 126099,
+        "word": "AL官宣Tabe离队",
+        "onboard_time": 1763467164,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 53352,
+        "num": 126082,
+        "word": "陈乔恩没想到宋茜吃得这么好",
+        "onboard_time": 1763471664,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52350,
+        "num": 126067,
+        "word": "中方对日反制组合拳精准到位",
+        "onboard_time": 1763479883,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 52176,
+        "num": 126029,
+        "word": "林北女友已经赶往张家界七星山",
+        "onboard_time": 1763471423,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50227,
+        "num": 126013,
+        "word": "Meiko宣布休息一段时间",
+        "onboard_time": 1763472743,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49578,
+        "num": 126007,
+        "word": "迪丽热巴 绝美ending",
+        "onboard_time": 1763463923,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49450,
+        "num": 125975,
+        "word": "中国公民赴俄免签将生效",
+        "onboard_time": 1763480782,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48628,
+        "num": 125953,
+        "word": "南京市市长调整",
+        "onboard_time": 1763474785,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46898,
+        "num": 125936,
+        "word": "阴阳师",
+        "onboard_time": 1763470464,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46064,
+        "num": 125906,
+        "word": "中方佩戴国徽同日本官员见面",
+        "onboard_time": 1763465541,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45285,
+        "num": 125893,
+        "word": "彭小苒哭出了漫画里才有的泪眼",
+        "onboard_time": 1763473105,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45987,
+        "num": 125865,
+        "word": "广州塔庆祝张博恒单杠夺冠",
+        "onboard_time": 1763481620,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45178,
+        "num": 125839,
+        "word": "陈熠11比4陈梦",
+        "onboard_time": 1763467944,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44465,
+        "num": 125811,
+        "word": "AG爱笑回应Tabe离队",
+        "onboard_time": 1763472863,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 41600,
+        "num": 125803,
+        "word": "俞敏洪回应南极游",
+        "onboard_time": 1763478382,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39198,
+        "num": 125786,
+        "word": "AL教练",
+        "onboard_time": 1763463322,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}

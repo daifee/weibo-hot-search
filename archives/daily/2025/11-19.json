@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763483841365,
+  "endTime": 1763484733568,
   "band_list": [
     {
       "raw_hot": 592220,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 435319,
-      "num": 435319,
+      "num": 680645,
       "word": "普京称中国公民免签政策近期生效",
       "onboard_time": 1763480303,
       "rank": 1,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 373599,
-      "num": 140648,
+      "num": 141120,
       "word": "韩国外交部发表声明",
       "onboard_time": 1763476763,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1763475085,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361026,
+      "num": 143401,
+      "word": "中方说了三个绝不允许",
+      "onboard_time": 1763481680,
+      "rank": 12,
+      "category": "国内时政"
     },
     {
       "raw_hot": 359032,
@@ -75,14 +83,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 182043,
-      "num": 139880,
-      "word": "中方说了三个绝不允许",
-      "onboard_time": 1763481680,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 165743,
       "num": 139451,
       "word": "近视手术五年后的真实感受",
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 142288,
-      "num": 142288,
+      "num": 149210,
       "word": "Doinb宣布明年不打LPL",
       "onboard_time": 1763478444,
       "rank": 6,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 136292,
-      "num": 142180,
+      "num": 152783,
       "word": "中方穿五四青年服见日本官员",
       "onboard_time": 1763471423,
       "rank": 7,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 115919,
-      "num": 136538,
+      "num": 137140,
       "word": "明年的年龄有点严肃了",
       "onboard_time": 1763447422,
       "rank": 16,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 115511,
-      "num": 141684,
+      "num": 151466,
       "word": "日本官员低头听中方讲话",
       "onboard_time": 1763454442,
       "rank": 8,
@@ -160,6 +160,14 @@
       "word": "曝三字二字流量和原公司续约",
       "onboard_time": 1763464162,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90844,
+      "num": 145868,
+      "word": "张艺兴直播",
+      "onboard_time": 1763472683,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -179,20 +187,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 81758,
-      "num": 135848,
-      "word": "张艺兴直播",
-      "onboard_time": 1763472683,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 80800,
       "num": 128462,
       "word": "张博恒失误时鼓掌的裁判被终止执裁",
       "onboard_time": 1763470523,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78717,
+      "num": 135052,
+      "word": "王晶说易烊千玺可能是下一个周润发",
+      "onboard_time": 1763483599,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 77173,
@@ -225,6 +233,14 @@
       "onboard_time": 1763481200,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69668,
+      "num": 127951,
+      "word": "王菊再瘦就认不出来了",
+      "onboard_time": 1763470464,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 65831,
@@ -275,6 +291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 58209,
+      "num": 126214,
+      "word": "骑车被狗绊倒女生已做开颅手术",
+      "onboard_time": 1763484378,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57179,
       "num": 128151,
       "word": "中方佩戴国徽同日本官员见面",
@@ -291,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56362,
+      "num": 128069,
+      "word": "南宁动物园一大猩猩坐石头上抽烟",
+      "onboard_time": 1763471183,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55879,
       "num": 128369,
       "word": "彭小苒哭出了漫画里才有的泪眼",
@@ -299,28 +331,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55789,
-      "num": 128069,
-      "word": "南宁动物园一大猩猩坐石头上抽烟",
-      "onboard_time": 1763471183,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55755,
       "num": 128055,
       "word": "Meiko宣布休息一段时间",
       "onboard_time": 1763472743,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 55205,
-      "num": 128127,
-      "word": "王晶说易烊千玺可能是下一个周润发",
-      "onboard_time": 1763483599,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 54843,
@@ -339,12 +355,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 54278,
-      "num": 127951,
-      "word": "王菊再瘦就认不出来了",
-      "onboard_time": 1763470464,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 54548,
+      "num": 128106,
+      "word": "广州长隆飞车表演撞上铁笼演员摔倒",
+      "onboard_time": 1763482641,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53463,
@@ -387,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 44465,
+      "num": 125811,
+      "word": "AG爱笑回应Tabe离队",
+      "onboard_time": 1763472863,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44419,
       "num": 127815,
       "word": "菲律宾总统被亲姐指控吸毒成瘾",
@@ -395,12 +419,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41237,
-      "num": 128106,
-      "word": "广州长隆飞车表演撞上铁笼演员摔倒",
-      "onboard_time": 1763482641,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 39198,
+      "num": 125786,
+      "word": "AL教练",
+      "onboard_time": 1763463322,
+      "rank": 49,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

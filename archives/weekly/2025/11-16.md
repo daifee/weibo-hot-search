@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/19 00:37:21
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/19 00:52:13
 </p>
 </blockquote>
 <p>
@@ -1481,6 +1481,12 @@ Uzi否认复出（热度：382785）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%23" target="weibo">
 向往的生活（热度：361246）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%AF%B4%E4%BA%86%E4%B8%89%E4%B8%AA%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%23" target="weibo">
+中方说了三个绝不允许（热度：361026）
 </a>
 </li>
 
@@ -3239,12 +3245,6 @@ zeus（热度：183299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B798%E5%85%83%E4%B8%80%E6%A0%B9%E7%9A%84%E8%90%9D%E5%8D%9C%23" target="weibo">
 上海98元一根的萝卜（热度：182298）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%AF%B4%E4%BA%86%E4%B8%89%E4%B8%AA%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%23" target="weibo">
-中方说了三个绝不允许（热度：182043）
 </a>
 </li>
 
@@ -6813,6 +6813,12 @@ Kael蹲在角落发呆（热度：81323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B6%A6%E5%8F%91%23" target="weibo">
+王晶说易烊千玺可能是下一个周润发（热度：78717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%96%E6%AC%A1%E6%8F%AD%E7%A4%BA%E9%BB%91%E6%B4%9E%E5%9C%A8%E5%AE%87%E5%AE%99%E7%BA%BF%E8%B5%B7%E6%BA%90%E4%B8%AD%E7%9A%84%E4%BD%9C%E7%94%A8%23" target="weibo">
 首次揭示黑洞在宇宙线起源中的作用（热度：78526）
 </a>
@@ -7287,6 +7293,12 @@ C919和C909首次亮相中东（热度：58900）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E8%A2%AB%E7%8B%97%E7%BB%8A%E5%80%92%E5%A5%B3%E7%94%9F%E5%B7%B2%E5%81%9A%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%23" target="weibo">
+骑车被狗绊倒女生已做开颅手术（热度：58209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E6%9C%80%E4%BD%B3%E6%8B%8D%E6%A1%A3%23" target="weibo">
 谁是郑钦文的最佳拍档（热度：57591）
 </a>
@@ -7317,12 +7329,6 @@ C919和C909首次亮相中东（热度：58900）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B6%A6%E5%8F%91%23" target="weibo">
-王晶说易烊千玺可能是下一个周润发（热度：55205）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%AE%8B%E7%96%BE%E4%BA%BA%E5%AD%A6%E6%A0%A1%E5%86%8D%E7%8E%B0%E7%86%94%E7%82%89%E6%83%85%E8%8A%82%23" target="weibo">
 韩国残疾人学校再现熔炉情节（热度：54812）
 </a>
@@ -7331,6 +7337,12 @@ C919和C909首次亮相中东（热度：58900）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%B5%B4%E4%BF%84%E5%85%8D%E7%AD%BE%E5%B0%86%E7%94%9F%E6%95%88%23" target="weibo">
 中国公民赴俄免签将生效（热度：54734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%A3%9E%E8%BD%A6%E8%A1%A8%E6%BC%94%E6%92%9E%E4%B8%8A%E9%93%81%E7%AC%BC%E6%BC%94%E5%91%98%E6%91%94%E5%80%92%23" target="weibo">
+广州长隆飞车表演撞上铁笼演员摔倒（热度：54548）
 </a>
 </li>
 
@@ -7703,12 +7715,6 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E5%80%BC%E5%BE%97%E6%80%BB%E7%BB%93%E7%9A%84%E4%B8%80%E5%9C%BA%E7%90%83%23" target="weibo">
 王曼昱说值得总结的一场球（热度：41270）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%A3%9E%E8%BD%A6%E8%A1%A8%E6%BC%94%E6%92%9E%E4%B8%8A%E9%93%81%E7%AC%BC%E6%BC%94%E5%91%98%E6%91%94%E5%80%92%23" target="weibo">
-广州长隆飞车表演撞上铁笼演员摔倒（热度：41237）
 </a>
 </li>
 

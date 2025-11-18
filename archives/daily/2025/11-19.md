@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/19 00:37:21 ~ 2025/11/19 00:37:21
+本榜单时间：2025/11/19 00:37:21 ~ 2025/11/19 00:52:13
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%AF%B4%E4%BA%86%E4%B8%89%E4%B8%AA%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%23" target="weibo">
+中方说了三个绝不允许（热度：361026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%97%A5%E6%96%B9%E6%8F%90%E5%87%BA%E7%9A%84%E6%97%A0%E7%90%86%E4%BA%A4%E6%B6%89%23" target="weibo">
 中方不接受日方提出的无理交涉（热度：359032）
 </a>
@@ -65,12 +71,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%9B%9E%E5%BA%94%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%85%8D%E9%9F%B3%23" target="weibo">
 王安宇回应疯狂动物城2配音（热度：207406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%AF%B4%E4%BA%86%E4%B8%89%E4%B8%AA%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%23" target="weibo">
-中方说了三个绝不允许（热度：182043）
 </a>
 </li>
 
@@ -135,6 +135,12 @@ Doinb宣布明年不打LPL（热度：142288）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%9B%B4%E6%92%AD%23" target="weibo">
+张艺兴直播（热度：90844）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%20%E5%8E%BB%E5%A4%A9%E5%B0%BA%E4%BA%94%23" target="weibo">
 唐朝诡事录 去天尺五（热度：84716）
 </a>
@@ -147,14 +153,14 @@ Doinb宣布明年不打LPL（热度：142288）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%9B%B4%E6%92%AD%23" target="weibo">
-张艺兴直播（热度：81758）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E5%A4%B1%E8%AF%AF%E6%97%B6%E9%BC%93%E6%8E%8C%E7%9A%84%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BB%88%E6%AD%A2%E6%89%A7%E8%A3%81%23" target="weibo">
+张博恒失误时鼓掌的裁判被终止执裁（热度：80800）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E5%A4%B1%E8%AF%AF%E6%97%B6%E9%BC%93%E6%8E%8C%E7%9A%84%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BB%88%E6%AD%A2%E6%89%A7%E8%A3%81%23" target="weibo">
-张博恒失误时鼓掌的裁判被终止执裁（热度：80800）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B6%A6%E5%8F%91%23" target="weibo">
+王晶说易烊千玺可能是下一个周润发（热度：78717）
 </a>
 </li>
 
@@ -179,6 +185,12 @@ Doinb宣布明年不打LPL（热度：142288）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C%23" target="weibo">
 四喜（热度：73526）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%8A%E5%86%8D%E7%98%A6%E5%B0%B1%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+王菊再瘦就认不出来了（热度：69668）
 </a>
 </li>
 
@@ -219,6 +231,12 @@ AL官宣Tabe离队（热度：60596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E8%A2%AB%E7%8B%97%E7%BB%8A%E5%80%92%E5%A5%B3%E7%94%9F%E5%B7%B2%E5%81%9A%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%23" target="weibo">
+骑车被狗绊倒女生已做开颅手术（热度：58209）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%BD%A9%E6%88%B4%E5%9B%BD%E5%BE%BD%E5%90%8C%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E8%A7%81%E9%9D%A2%23" target="weibo">
 中方佩戴国徽同日本官员见面（热度：57179）
 </a>
@@ -231,26 +249,20 @@ AL官宣Tabe离队（热度：60596）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E5%A4%A7%E7%8C%A9%E7%8C%A9%E5%9D%90%E7%9F%B3%E5%A4%B4%E4%B8%8A%E6%8A%BD%E7%83%9F%23" target="weibo">
+南宁动物园一大猩猩坐石头上抽烟（热度：56362）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E5%93%AD%E5%87%BA%E4%BA%86%E6%BC%AB%E7%94%BB%E9%87%8C%E6%89%8D%E6%9C%89%E7%9A%84%E6%B3%AA%E7%9C%BC%23" target="weibo">
 彭小苒哭出了漫画里才有的泪眼（热度：55879）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E5%A4%A7%E7%8C%A9%E7%8C%A9%E5%9D%90%E7%9F%B3%E5%A4%B4%E4%B8%8A%E6%8A%BD%E7%83%9F%23" target="weibo">
-南宁动物园一大猩猩坐石头上抽烟（热度：55789）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Meiko%E5%AE%A3%E5%B8%83%E4%BC%91%E6%81%AF%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%23" target="weibo">
 Meiko宣布休息一段时间（热度：55755）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B6%A6%E5%8F%91%23" target="weibo">
-王晶说易烊千玺可能是下一个周润发（热度：55205）
 </a>
 </li>
 
@@ -267,8 +279,8 @@ Meiko宣布休息一段时间（热度：55755）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%8F%8A%E5%86%8D%E7%98%A6%E5%B0%B1%E8%AE%A4%E4%B8%8D%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
-王菊再瘦就认不出来了（热度：54278）
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%A3%9E%E8%BD%A6%E8%A1%A8%E6%BC%94%E6%92%9E%E4%B8%8A%E9%93%81%E7%AC%BC%E6%BC%94%E5%91%98%E6%91%94%E5%80%92%23" target="weibo">
+广州长隆飞车表演撞上铁笼演员摔倒（热度：54548）
 </a>
 </li>
 
@@ -303,14 +315,20 @@ Meiko宣布休息一段时间（热度：55755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AG%E7%88%B1%E7%AC%91%E5%9B%9E%E5%BA%94Tabe%E7%A6%BB%E9%98%9F%23" target="weibo">
+AG爱笑回应Tabe离队（热度：44465）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E8%A2%AB%E4%BA%B2%E5%A7%90%E6%8C%87%E6%8E%A7%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE%23" target="weibo">
 菲律宾总统被亲姐指控吸毒成瘾（热度：44419）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%A3%9E%E8%BD%A6%E8%A1%A8%E6%BC%94%E6%92%9E%E4%B8%8A%E9%93%81%E7%AC%BC%E6%BC%94%E5%91%98%E6%91%94%E5%80%92%23" target="weibo">
-广州长隆飞车表演撞上铁笼演员摔倒（热度：41237）
+<a href="https://s.weibo.com/weibo?q=%23AL%E6%95%99%E7%BB%83%23" target="weibo">
+AL教练（热度：39198）
 </a>
 </li>
 
