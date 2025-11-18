@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763493768056,
+  "endTime": 1763494588467,
   "band_list": [
     {
       "raw_hot": 592220,
@@ -508,11 +508,19 @@
     },
     {
       "raw_hot": 13787,
-      "num": 26375,
+      "num": 27780,
       "word": "周深戏曲唱腔",
       "onboard_time": 1763492534,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 11088,
+      "num": 27769,
+      "word": "刘浩存称深蓝L06是新手司机福音",
+      "onboard_time": 1763472985,
+      "rank": 49,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
