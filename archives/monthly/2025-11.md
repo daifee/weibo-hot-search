@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 16:36:24
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 16:49:46
 </p>
 </blockquote>
 <p>
@@ -707,6 +707,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E5%A5%B6%E7%9A%AE%E5%AD%90%E7%B3%96%E8%91%AB%E8%8A%A6%E5%8F%97%E5%AE%B3%E8%80%85%E7%8E%B0%E8%BA%AB%23" target="weibo">
 第一批奶皮子糖葫芦受害者现身（热度：1273997）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%97%A5%E6%96%B9%E6%8F%90%E5%87%BA%E7%9A%84%E6%97%A0%E7%90%86%E4%BA%A4%E6%B6%89%23" target="weibo">
+中方不接受日方提出的无理交涉（热度：1271154）
 </a>
 </li>
 
@@ -2271,12 +2277,6 @@ AG对战狼队（热度：725111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%97%A5%E6%96%B9%E6%8F%90%E5%87%BA%E7%9A%84%E6%97%A0%E7%90%86%E4%BA%A4%E6%B6%89%23" target="weibo">
-中方不接受日方提出的无理交涉（热度：712682）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%B7%B2%E5%90%91%E7%BE%8E%E6%96%B9%E6%8F%90%E4%B8%A5%E6%AD%A3%E4%BA%A4%E6%B6%89%23" target="weibo">
 中方已向美方提严正交涉（热度：712659）
 </a>
@@ -2291,6 +2291,12 @@ AG对战狼队（热度：725111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B%23" target="weibo">
 印度一女警怀胎七月参加举重比赛（热度：711829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E4%BD%8E%E5%A4%B4%E5%90%AC%E4%B8%AD%E6%96%B9%E8%AE%B2%E8%AF%9D%23" target="weibo">
+日本官员低头听中方讲话（热度：710595）
 </a>
 </li>
 
@@ -4491,6 +4497,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A3%9E%E5%87%BA%E9%BB%91%E5%A4%A9%E9%B9%85%E7%AA%81%E8%A2%AD%E5%85%A8%E7%90%83%E5%B8%82%E5%9C%BA%23" target="weibo">
+日本飞出黑天鹅突袭全球市场（热度：494326）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E4%B8%96%E7%BA%AA%E5%90%88%E4%BD%93%23" target="weibo">
 武林外传世纪合体（热度：494254）
 </a>
@@ -5427,6 +5439,12 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Amy%E5%A7%90%E6%9B%9D%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%AE%A3%E4%BA%91%E6%81%8B%E7%88%B1%E5%86%85%E5%B9%95%23" target="weibo">
+Amy姐曝潘玮柏宣云恋爱内幕（热度：436484）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%8D%83%E4%B8%9E188%E7%94%B7%E5%9B%A2%E5%B0%86%E5%BD%B1%E8%A7%86%E5%8C%96%23" target="weibo">
 水千丞188男团将影视化（热度：435890）
 </a>
@@ -5681,12 +5699,6 @@ Faker发博晒经典夺冠表情（热度：418029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E8%A7%86%E9%A2%91%E5%A4%8D%E6%B4%BB27%E5%B2%81%E5%A5%B3%E5%84%BF%E5%90%8E%E5%86%8D%E6%B7%BB%E6%96%B0%E4%B8%81%23" target="weibo">
 家长视频复活27岁女儿后再添新丁（热度：417952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Amy%E5%A7%90%E6%9B%9D%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%AE%A3%E4%BA%91%E6%81%8B%E7%88%B1%E5%86%85%E5%B9%95%23" target="weibo">
-Amy姐曝潘玮柏宣云恋爱内幕（热度：417677）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Ruler失利之后哭了（热度：403914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E9%9D%93%E9%9D%93%E4%BA%86%23" target="weibo">
 终于知道她为什么叫靓靓了（热度：402982）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%80%AA%E5%A6%AE%20%E9%87%91%E9%B8%A1%E5%A5%96%E4%B8%BB%E6%8C%81%23" target="weibo">
-倪妮 金鸡奖主持（热度：402628）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9A%B4%E6%89%9392%E5%B2%81%E6%AF%8D%E4%BA%B2%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-男子暴打92岁母亲被刑拘（热度：402509）
 </a>
 </li>
 

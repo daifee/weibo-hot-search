@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763454984301,
+  "endTime": 1763455786987,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -9,6 +9,14 @@
       "onboard_time": 1763444363,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1271154,
+      "num": 1271154,
+      "word": "中方不接受日方提出的无理交涉",
+      "onboard_time": 1763452582,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1122807,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 1053120,
-      "num": 205321,
+      "num": 206162,
       "word": "曾轶可曾大闹机场",
       "onboard_time": 1763448680,
       "rank": 49,
@@ -99,11 +107,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 712682,
-      "num": 1114029,
-      "word": "中方不接受日方提出的无理交涉",
-      "onboard_time": 1763452582,
-      "rank": 0,
+      "raw_hot": 710595,
+      "num": 242628,
+      "word": "日本官员低头听中方讲话",
+      "onboard_time": 1763454442,
+      "rank": 13,
       "category": "国内时政"
     },
     {
@@ -243,6 +251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 494326,
+      "num": 494326,
+      "word": "日本飞出黑天鹅突袭全球市场",
+      "onboard_time": 1763451681,
+      "rank": 8,
+      "category": "财经"
+    },
+    {
       "raw_hot": 490717,
       "num": 490717,
       "word": "中国已经不是甲午战争后的中国",
@@ -272,6 +288,14 @@
       "word": "孙怡董子健女儿长这么大了",
       "onboard_time": 1763449462,
       "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 436484,
+      "num": 207707,
+      "word": "Amy姐曝潘玮柏宣云恋爱内幕",
+      "onboard_time": 1763450842,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -305,14 +329,6 @@
       "onboard_time": 1763449223,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 417677,
-      "num": 197906,
-      "word": "Amy姐曝潘玮柏宣云恋爱内幕",
-      "onboard_time": 1763450842,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 413226,
@@ -411,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 341449,
-      "num": 341449,
-      "word": "日本飞出黑天鹅突袭全球市场",
-      "onboard_time": 1763451681,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 340874,
       "num": 340874,
       "word": "女子网购玩偶发现眼睛内疑有摄像头",
@@ -459,19 +467,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 311138,
-      "num": 242628,
-      "word": "日本官员低头听中方讲话",
-      "onboard_time": 1763454442,
-      "rank": 13,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 309933,
       "num": 309933,
       "word": "王大陆出庭",
       "onboard_time": 1763434520,
       "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309077,
+      "num": 309077,
+      "word": "王一博直播",
+      "onboard_time": 1763452403,
+      "rank": 9,
       "category": "艺人"
     },
     {
@@ -481,14 +489,6 @@
       "onboard_time": 1763393721,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 298319,
-      "num": 298319,
-      "word": "王一博直播",
-      "onboard_time": 1763452403,
-      "rank": 9,
-      "category": "艺人"
     },
     {
       "raw_hot": 293094,
@@ -603,6 +603,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 253771,
+      "num": 218915,
+      "word": "女婴手术离世舅舅发声",
+      "onboard_time": 1763452403,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 252051,
       "num": 252051,
       "word": "何炅 捞完你的捞你的",
@@ -683,14 +691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 214498,
-      "num": 192529,
-      "word": "女婴手术离世舅舅发声",
-      "onboard_time": 1763452403,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207642,
       "num": 207642,
       "word": "日本酒店退订潮",
@@ -705,6 +705,14 @@
       "onboard_time": 1763436323,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 205038,
+      "num": 205038,
+      "word": "董璇说张维伊从来没有给她做过饭",
+      "onboard_time": 1763453483,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 202060,
@@ -787,14 +795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192710,
-      "num": 192710,
-      "word": "董璇说张维伊从来没有给她做过饭",
-      "onboard_time": 1763453483,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 192601,
       "num": 192601,
       "word": "王俊凯趁世界还年青定档",
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 192469,
-      "num": 192469,
+      "num": 217588,
       "word": "日方必须给中国人民一个交代",
       "onboard_time": 1763451982,
       "rank": 28,
@@ -849,6 +849,14 @@
       "onboard_time": 1763441842,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188435,
+      "num": 188435,
+      "word": "冷美人恢复良好只是头发缠成块",
+      "onboard_time": 1763453902,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187827,
@@ -1092,7 +1100,7 @@
     },
     {
       "raw_hot": 156104,
-      "num": 156104,
+      "num": 177088,
       "word": "外交部回应日本拟恢复大佐军阶",
       "onboard_time": 1763453303,
       "rank": 29,
@@ -1105,6 +1113,14 @@
       "onboard_time": 1763443762,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155338,
+      "num": 155338,
+      "word": "北京队掌握了王楚钦使用手册",
+      "onboard_time": 1763454203,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 154323,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1763452942,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151286,
+      "num": 151286,
+      "word": "王一博喜欢钓鱼",
+      "onboard_time": 1763454743,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 150286,
@@ -1475,14 +1499,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118641,
-      "num": 118641,
-      "word": "冷美人恢复良好只是头发缠成块",
-      "onboard_time": 1763453902,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 118451,
       "num": 118451,
       "word": "马龙王楚钦3比0袁励岑侯英超",
@@ -1523,12 +1539,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 116057,
+      "num": 116057,
+      "word": "樊振东在德甲学到反手体系",
+      "onboard_time": 1763455582,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115834,
       "num": 119839,
       "word": "日经225指数跌破49000点",
       "onboard_time": 1763442800,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 115708,
+      "num": 115708,
+      "word": "姜思达穿婚纱",
+      "onboard_time": 1763452823,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 114308,
@@ -1587,14 +1619,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 110877,
-      "num": 110877,
-      "word": "北京队掌握了王楚钦使用手册",
-      "onboard_time": 1763454203,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108668,
       "num": 108668,
       "word": "考研人的背书方式",
@@ -1649,6 +1673,14 @@
       "onboard_time": 1763421619,
       "rank": 38,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 104170,
+      "num": 104170,
+      "word": "四喜 沈明珠公公被气死",
+      "onboard_time": 1763455762,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 104074,
@@ -2203,6 +2235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45789,
+      "num": 210250,
+      "word": "女子家门口被害案一审将重新开庭",
+      "onboard_time": 1763454083,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45492,
       "num": 119417,
       "word": "菲律宾持续爆发超大规模游行",
@@ -2243,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40825,
+      "num": 123071,
+      "word": "TF四代聊天记录 刻板印象",
+      "onboard_time": 1763454802,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 40347,
       "num": 139781,
       "word": "博主摸进妙瓦底诈骗园区",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1763454023,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38061,
+      "num": 123229,
+      "word": "台湾民众高喊是堂堂正正的中国人",
+      "onboard_time": 1763454442,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37956,
@@ -2305,6 +2361,14 @@
       "onboard_time": 1763400436,
       "rank": 38,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 33629,
+      "num": 211475,
+      "word": "高市早苗与岛内台独势力勾连已久",
+      "onboard_time": 1763455162,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32776,
@@ -2467,14 +2531,6 @@
       "category": "国际时政,国内时政"
     },
     {
-      "raw_hot": 17096,
-      "num": 210250,
-      "word": "女子家门口被害案一审将重新开庭",
-      "onboard_time": 1763454083,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16764,
       "num": 29100,
       "word": "刘宇宁丝绒真空西装",
@@ -2489,6 +2545,14 @@
       "onboard_time": 1763412073,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15609,
+      "num": 517530,
+      "word": "鼓励化妆品新品中国首发",
+      "onboard_time": 1763434221,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13187,
@@ -2507,14 +2571,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 12920,
-      "num": 123071,
-      "word": "TF四代聊天记录 刻板印象",
-      "onboard_time": 1763454802,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 12751,
       "num": 18863,
       "word": "周深演唱会唱了许嵩的庐州月",
@@ -2531,11 +2587,11 @@
       "category": "演出"
     },
     {
-      "raw_hot": 7996,
-      "num": 123229,
-      "word": "台湾民众高喊是堂堂正正的中国人",
-      "onboard_time": 1763454442,
-      "rank": 37,
+      "raw_hot": 10940,
+      "num": 212975,
+      "word": "3.29亿老人日均上网超4小时",
+      "onboard_time": 1763455283,
+      "rank": 18,
       "category": "民生新闻"
     }
   ],
