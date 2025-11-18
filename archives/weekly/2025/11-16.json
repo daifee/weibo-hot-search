@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763440362322,
+  "endTime": 1763441157614,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -611,6 +611,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 628032,
+      "num": 628032,
+      "word": "我国人口发展出现了新特征",
+      "onboard_time": 1763439323,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 627745,
       "num": 524923,
       "word": "高市早苗早年叫板视频曝光",
@@ -1011,6 +1019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 481965,
+      "num": 316261,
+      "word": "60岁孕妇剖腹产生下男婴",
+      "onboard_time": 1763437221,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 480793,
       "num": 261984,
       "word": "张凌赫 我不是人啊",
@@ -1225,14 +1241,6 @@
       "onboard_time": 1763388262,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 430660,
-      "num": 316261,
-      "word": "60岁孕妇剖腹产生下男婴",
-      "onboard_time": 1763437221,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 428111,
@@ -1475,20 +1483,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 375326,
+      "num": 375326,
+      "word": "对不起胡歌这我真看不了",
+      "onboard_time": 1763437702,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 373949,
+      "num": 242940,
+      "word": "女婴心脏手术去世外婆担心女儿",
+      "onboard_time": 1763440164,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 372499,
       "num": 319150,
       "word": "日本这次的借口与侵华时如出一辙",
       "onboard_time": 1763203222,
       "rank": 9,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 371908,
-      "num": 371908,
-      "word": "对不起胡歌这我真看不了",
-      "onboard_time": 1763437702,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 368674,
@@ -2099,6 +2115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 269532,
+      "num": 307741,
+      "word": "白敬亭 别让举铁的人玩这些",
+      "onboard_time": 1763438844,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 269340,
       "num": 334696,
       "word": "孙颖莎王曼昱收视率打法",
@@ -2323,14 +2347,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 245050,
-      "num": 301530,
-      "word": "我国人口发展出现了新特征",
-      "onboard_time": 1763439323,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241266,
       "num": 241266,
       "word": "户外博主坠亡遗体被无人机运下山",
@@ -2475,14 +2491,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 227610,
-      "num": 307741,
-      "word": "白敬亭 别让举铁的人玩这些",
-      "onboard_time": 1763438844,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224920,
       "num": 192810,
       "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
@@ -2537,6 +2545,14 @@
       "onboard_time": 1763274923,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221657,
+      "num": 265157,
+      "word": "蒋欣 干嘛假孕争宠啊",
+      "onboard_time": 1763440643,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 221136,
@@ -2995,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194663,
+      "num": 182558,
+      "word": "乒乓男团北京上海携手晋级",
+      "onboard_time": 1763440943,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194005,
       "num": 194005,
       "word": "OFGK",
@@ -3188,7 +3212,7 @@
     },
     {
       "raw_hot": 189352,
-      "num": 207596,
+      "num": 241857,
       "word": "易烊千玺李庚希对手戏",
       "onboard_time": 1763438722,
       "rank": 26,
@@ -3315,6 +3339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186204,
+      "num": 182465,
+      "word": "Scout疑似重返LCK",
+      "onboard_time": 1763440823,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 186054,
       "num": 186054,
       "word": "Gumayusi的T1纪录片",
@@ -3433,6 +3465,14 @@
       "onboard_time": 1763285121,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182298,
+      "num": 182298,
+      "word": "上海98元一根的萝卜",
+      "onboard_time": 1763437281,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 181728,
@@ -3707,12 +3747,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171674,
-      "num": 171674,
-      "word": "上海98元一根的萝卜",
-      "onboard_time": 1763437281,
-      "rank": 35,
-      "category": "情感,幽默"
+      "raw_hot": 171676,
+      "num": 171676,
+      "word": "广东你还是太超前了",
+      "onboard_time": 1763438962,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 170943,
@@ -3721,14 +3761,6 @@
       "onboard_time": 1763203222,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 170843,
-      "num": 170843,
-      "word": "广东你还是太超前了",
-      "onboard_time": 1763438962,
-      "rank": 36,
-      "category": "情感"
     },
     {
       "raw_hot": 169935,
@@ -3859,14 +3891,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 165508,
-      "num": 165508,
-      "word": "女婴心脏手术去世外婆担心女儿",
-      "onboard_time": 1763440164,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 165272,
       "num": 165272,
       "word": "陈思诚感谢王宝强",
@@ -3929,6 +3953,14 @@
       "onboard_time": 1763345361,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161701,
+      "num": 161701,
+      "word": "泰国国王与王后现身故宫",
+      "onboard_time": 1763439263,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161021,
@@ -4347,14 +4379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151747,
-      "num": 151747,
-      "word": "泰国国王与王后现身故宫",
-      "onboard_time": 1763439263,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151684,
       "num": 151684,
       "word": "朱珠霍建华意外的好嗑",
@@ -4369,6 +4393,22 @@
       "onboard_time": 1763429241,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151536,
+      "num": 205997,
+      "word": "周恺3比1梁俨苧",
+      "onboard_time": 1763440103,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151497,
+      "num": 151497,
+      "word": "彭小苒隐形眼镜滑片了",
+      "onboard_time": 1763441002,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 151333,
@@ -4673,14 +4713,6 @@
       "onboard_time": 1763350522,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 141481,
-      "num": 205997,
-      "word": "周恺3比1梁俨苧",
-      "onboard_time": 1763440103,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 141438,
@@ -6947,6 +6979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85644,
+      "num": 251836,
+      "word": "日本多行业股价断崖式下跌",
+      "onboard_time": 1763440523,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85605,
       "num": 385492,
       "word": "日本各界人士批评高市错误言论",
@@ -7579,6 +7619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 59669,
+      "num": 165745,
+      "word": "49岁教授学术会议后突发疾病去世",
+      "onboard_time": 1763439624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59664,
       "num": 130156,
       "word": "公厕被打女孩打人者已刑满释放",
@@ -7723,6 +7771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52263,
+      "num": 160941,
+      "word": "河南女子隐瞒婚病史被退婚拒退彩礼",
+      "onboard_time": 1763440823,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51983,
       "num": 737262,
       "word": "中国团队研究基孔肯雅病毒获新进展",
@@ -7843,6 +7899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46954,
+      "num": 249455,
+      "word": "冰岛未来可能真要变冰岛",
+      "onboard_time": 1763440583,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 46668,
       "num": 184443,
       "word": "高志凯建议取消日本护照免签待遇",
@@ -7881,14 +7945,6 @@
       "onboard_time": 1763242573,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44479,
-      "num": 165745,
-      "word": "49岁教授学术会议后突发疾病去世",
-      "onboard_time": 1763439624,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44336,

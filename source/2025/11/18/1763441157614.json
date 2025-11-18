@@ -1,0 +1,410 @@
+{
+  "runTime": 1763441157614,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 837822,
+        "num": 1134051,
+        "word": "梁靖崑vs樊振东",
+        "onboard_time": 1763434460,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 801003,
+        "num": 801003,
+        "word": "中国游客不来了让人不安",
+        "onboard_time": 1763426422,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 24044,
+        "num": 634278,
+        "word": "十五运今日看点",
+        "onboard_time": 1763437342,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 628032,
+        "num": 628032,
+        "word": "我国人口发展出现了新特征",
+        "onboard_time": 1763439323,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511833,
+        "num": 511833,
+        "word": "联合国立场是台湾是中国一个省",
+        "onboard_time": 1763436262,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378662,
+        "num": 378662,
+        "word": "12306回应列车停站292分钟",
+        "onboard_time": 1763435721,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375326,
+        "num": 375326,
+        "word": "对不起胡歌这我真看不了",
+        "onboard_time": 1763437702,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 342999,
+        "num": 342999,
+        "word": "唐诡3昨晚真是乱成一锅粥了",
+        "onboard_time": 1763438423,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 323603,
+        "num": 323603,
+        "word": "高市早苗同时得罪四国",
+        "onboard_time": 1763427802,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269532,
+        "num": 269532,
+        "word": "白敬亭 别让举铁的人玩这些",
+        "onboard_time": 1763438844,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 524379,
+        "num": 269077,
+        "word": "全职宝妈打赏男主播67万丈夫痛哭",
+        "onboard_time": 1763434881,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481965,
+        "num": 268764,
+        "word": "60岁孕妇剖腹产生下男婴",
+        "onboard_time": 1763437221,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266246,
+        "num": 266246,
+        "word": "疯狂动物城",
+        "onboard_time": 1763434399,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221657,
+        "num": 265157,
+        "word": "蒋欣 干嘛假孕争宠啊",
+        "onboard_time": 1763440643,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 5199,
+        "num": 262305,
+        "word": "阿里千问全网求问",
+        "onboard_time": 1763438483,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 214086,
+        "num": 261392,
+        "word": "确认暂缓日本进口片上映",
+        "onboard_time": 1763426842,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44103,
+        "num": 258035,
+        "word": "华为MateX7或将采用全新云锦材质",
+        "onboard_time": 1763436863,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 421025,
+        "num": 255230,
+        "word": "肖战扶车倒一排",
+        "onboard_time": 1763438662,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85644,
+        "num": 251836,
+        "word": "日本多行业股价断崖式下跌",
+        "onboard_time": 1763440523,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 46954,
+        "num": 249455,
+        "word": "冰岛未来可能真要变冰岛",
+        "onboard_time": 1763440583,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 711992,
+        "num": 248255,
+        "word": "迪丽热巴陈星旭坐腿吻",
+        "onboard_time": 1763435060,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 406760,
+        "num": 246282,
+        "word": "papi酱怀孕时也会抓着老公吵架",
+        "onboard_time": 1763436323,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 373949,
+        "num": 242940,
+        "word": "女婴心脏手术去世外婆担心女儿",
+        "onboard_time": 1763440164,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242060,
+        "num": 242060,
+        "word": "王楚钦马龙3比0速胜",
+        "onboard_time": 1763434041,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182878,
+        "num": 241857,
+        "word": "易烊千玺李庚希对手戏",
+        "onboard_time": 1763438722,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241654,
+        "num": 241654,
+        "word": "13999元华为手机掉火坑后还能用",
+        "onboard_time": 1763433200,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 222349,
+        "num": 222349,
+        "word": "高市早苗招惹韩国",
+        "onboard_time": 1763424201,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192582,
+        "num": 192582,
+        "word": "女子同事群八卦领导私生活被开除",
+        "onboard_time": 1763431161,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183593,
+        "num": 183593,
+        "word": "金锁一款很新的还珠大女主",
+        "onboard_time": 1763435480,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182583,
+        "num": 182583,
+        "word": "俞敏洪连发6条南极游视频",
+        "onboard_time": 1763436323,
+        "rank": 29,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 194663,
+        "num": 182558,
+        "word": "乒乓男团北京上海携手晋级",
+        "onboard_time": 1763440943,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 186204,
+        "num": 182465,
+        "word": "Scout疑似重返LCK",
+        "onboard_time": 1763440823,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182298,
+        "num": 182298,
+        "word": "上海98元一根的萝卜",
+        "onboard_time": 1763437281,
+        "rank": 32,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 179730,
+        "num": 179730,
+        "word": "王大陆出庭",
+        "onboard_time": 1763434520,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171676,
+        "num": 171676,
+        "word": "广东你还是太超前了",
+        "onboard_time": 1763438962,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170748,
+        "num": 170748,
+        "word": "该和日本聊聊琉球了",
+        "onboard_time": 1763427982,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161701,
+        "num": 161701,
+        "word": "泰国国王与王后现身故宫",
+        "onboard_time": 1763439263,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52263,
+        "num": 160941,
+        "word": "河南女子隐瞒婚病史被退婚拒退彩礼",
+        "onboard_time": 1763440823,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78374,
+        "num": 160731,
+        "word": "哈登两次错失绝杀",
+        "onboard_time": 1763440343,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148779,
+        "num": 160716,
+        "word": "黄金",
+        "onboard_time": 1763439503,
+        "rank": 39,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160709,
+        "num": 160709,
+        "word": "女子把洗好的袜子通通叠成蘑菇状",
+        "onboard_time": 1763431041,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158897,
+        "num": 158897,
+        "word": "樊振东3比2胜梁靖崑",
+        "onboard_time": 1763438122,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153477,
+        "num": 153477,
+        "word": "子阳结婚",
+        "onboard_time": 1763438302,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59669,
+        "num": 152091,
+        "word": "49岁教授学术会议后突发疾病去世",
+        "onboard_time": 1763439624,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151536,
+        "num": 151536,
+        "word": "周恺3比1梁俨苧",
+        "onboard_time": 1763440103,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151497,
+        "num": 151497,
+        "word": "彭小苒隐形眼镜滑片了",
+        "onboard_time": 1763441002,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148360,
+        "num": 148360,
+        "word": "董璇说朵朵小酒窝长大后就是杨紫和张一山",
+        "onboard_time": 1763433320,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145974,
+        "num": 145974,
+        "word": "租的房间很小又要请朋友做客时",
+        "onboard_time": 1763437403,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 141134,
+        "num": 141134,
+        "word": "蓝溪镇",
+        "onboard_time": 1763435601,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 132287,
+        "num": 132287,
+        "word": "终于有剧拍出女演员极致的美与狠",
+        "onboard_time": 1763439323,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}

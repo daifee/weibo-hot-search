@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763440362322,
+  "endTime": 1763441157614,
   "band_list": [
     {
       "raw_hot": 1052179,
@@ -75,6 +75,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 628032,
+      "num": 628032,
+      "word": "我国人口发展出现了新特征",
+      "onboard_time": 1763439323,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610727,
       "num": 610727,
       "word": "联合国立场是台湾是中国一个省",
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 481965,
+      "num": 316261,
+      "word": "60岁孕妇剖腹产生下男婴",
+      "onboard_time": 1763437221,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434347,
       "num": 407320,
       "word": "确认暂缓日本进口片上映",
@@ -145,14 +161,6 @@
       "onboard_time": 1763388262,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 430660,
-      "num": 316261,
-      "word": "60岁孕妇剖腹产生下男婴",
-      "onboard_time": 1763437221,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 410927,
@@ -195,12 +203,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 371908,
-      "num": 371908,
+      "raw_hot": 375326,
+      "num": 375326,
       "word": "对不起胡歌这我真看不了",
       "onboard_time": 1763437702,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 373949,
+      "num": 242940,
+      "word": "女婴心脏手术去世外婆担心女儿",
+      "onboard_time": 1763440164,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366799,
@@ -299,6 +315,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 269532,
+      "num": 307741,
+      "word": "白敬亭 别让举铁的人玩这些",
+      "onboard_time": 1763438844,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 267854,
       "num": 168111,
       "word": "湖南一婴儿一出生就15岁",
@@ -313,14 +337,6 @@
       "onboard_time": 1763432421,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 245050,
-      "num": 301530,
-      "word": "我国人口发展出现了新特征",
-      "onboard_time": 1763439323,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 241266,
@@ -347,14 +363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 227610,
-      "num": 307741,
-      "word": "白敬亭 别让举铁的人玩这些",
-      "onboard_time": 1763438844,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224920,
       "num": 192810,
       "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
@@ -369,6 +377,14 @@
       "onboard_time": 1763427982,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 221657,
+      "num": 265157,
+      "word": "蒋欣 干嘛假孕争宠啊",
+      "onboard_time": 1763440643,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 218889,
@@ -475,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194663,
+      "num": 182558,
+      "word": "乒乓男团北京上海携手晋级",
+      "onboard_time": 1763440943,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190186,
       "num": 310480,
       "word": "金锁一款很新的还珠大女主",
@@ -500,7 +524,7 @@
     },
     {
       "raw_hot": 189352,
-      "num": 207596,
+      "num": 241857,
       "word": "易烊千玺李庚希对手戏",
       "onboard_time": 1763438722,
       "rank": 26,
@@ -523,12 +547,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186204,
+      "num": 182465,
+      "word": "Scout疑似重返LCK",
+      "onboard_time": 1763440823,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185265,
       "num": 185265,
       "word": "GenG官宣Canyon离队",
       "onboard_time": 1763428041,
       "rank": 14,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 182298,
+      "num": 182298,
+      "word": "上海98元一根的萝卜",
+      "onboard_time": 1763437281,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 180601,
@@ -571,16 +611,8 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 171674,
-      "num": 171674,
-      "word": "上海98元一根的萝卜",
-      "onboard_time": 1763437281,
-      "rank": 35,
-      "category": "情感,幽默"
-    },
-    {
-      "raw_hot": 170843,
-      "num": 170843,
+      "raw_hot": 171676,
+      "num": 171676,
       "word": "广东你还是太超前了",
       "onboard_time": 1763438962,
       "rank": 36,
@@ -603,20 +635,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 165508,
-      "num": 165508,
-      "word": "女婴心脏手术去世外婆担心女儿",
-      "onboard_time": 1763440164,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164348,
       "num": 164348,
       "word": "陈幸同王艺迪2比3何卓佳王添艺",
       "onboard_time": 1763436682,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 161701,
+      "num": 161701,
+      "word": "泰国国王与王后现身故宫",
+      "onboard_time": 1763439263,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 156787,
@@ -667,20 +699,28 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151747,
-      "num": 151747,
-      "word": "泰国国王与王后现身故宫",
-      "onboard_time": 1763439263,
-      "rank": 42,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 151644,
       "num": 151644,
       "word": "刚走到门口店员已经开始倒美式了",
       "onboard_time": 1763429241,
       "rank": 24,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 151536,
+      "num": 205997,
+      "word": "周恺3比1梁俨苧",
+      "onboard_time": 1763440103,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 151497,
+      "num": 151497,
+      "word": "彭小苒隐形眼镜滑片了",
+      "onboard_time": 1763441002,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 149488,
@@ -705,14 +745,6 @@
       "onboard_time": 1763415914,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 141481,
-      "num": 205997,
-      "word": "周恺3比1梁俨苧",
-      "onboard_time": 1763440103,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 140961,
@@ -1099,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85644,
+      "num": 251836,
+      "word": "日本多行业股价断崖式下跌",
+      "onboard_time": 1763440523,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
       "raw_hot": 85552,
       "num": 85552,
       "word": "沙特小伙救下2名中国人",
@@ -1259,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59669,
+      "num": 165745,
+      "word": "49岁教授学术会议后突发疾病去世",
+      "onboard_time": 1763439624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57591,
       "num": 227035,
       "word": "谁是郑钦文的最佳拍档",
@@ -1299,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52263,
+      "num": 160941,
+      "word": "河南女子隐瞒婚病史被退婚拒退彩礼",
+      "onboard_time": 1763440823,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50396,
       "num": 50396,
       "word": "中方回应日本外务省高官访华",
@@ -1315,12 +1371,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 44479,
-      "num": 165745,
-      "word": "49岁教授学术会议后突发疾病去世",
-      "onboard_time": 1763439624,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 46954,
+      "num": 249455,
+      "word": "冰岛未来可能真要变冰岛",
+      "onboard_time": 1763440583,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 43041,
