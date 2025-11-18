@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763436891347,
+  "endTime": 1763440362322,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 937629,
+      "num": 1150020,
+      "word": "梁靖崑vs樊振东",
+      "onboard_time": 1763434460,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 935788,
       "num": 332538,
       "word": "blue露脸",
@@ -491,14 +499,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 755601,
-      "num": 755601,
-      "word": "梁靖崑vs樊振东",
-      "onboard_time": 1763434460,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 752979,
       "num": 239092,
       "word": "朵朵知道小酒窝轩轩指腹为婚大哭",
@@ -659,6 +659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 610727,
+      "num": 610727,
+      "word": "联合国立场是台湾是中国一个省",
+      "onboard_time": 1763436262,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 609799,
       "num": 609799,
       "word": "河南鹅毛大雪",
@@ -745,6 +753,14 @@
       "onboard_time": 1763370021,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 572043,
+      "num": 323836,
+      "word": "全职宝妈打赏男主播67万丈夫痛哭",
+      "onboard_time": 1763434881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 571345,
@@ -923,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 501870,
+      "num": 320777,
+      "word": "肖战扶车倒一排",
+      "onboard_time": 1763438662,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 501363,
       "num": 311441,
       "word": "出走的决心 颗粒无收",
@@ -969,14 +993,6 @@
       "onboard_time": 1763267482,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 493182,
-      "num": 320282,
-      "word": "全职宝妈打赏男主播67万丈夫痛哭",
-      "onboard_time": 1763434881,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 488815,
@@ -1211,6 +1227,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 430660,
+      "num": 316261,
+      "word": "60岁孕妇剖腹产生下男婴",
+      "onboard_time": 1763437221,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428111,
       "num": 679781,
       "word": "易烊千玺与他的金鸡奖杯",
@@ -1249,6 +1273,14 @@
       "onboard_time": 1763270301,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 410927,
+      "num": 314341,
+      "word": "papi酱怀孕时也会抓着老公吵架",
+      "onboard_time": 1763436323,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 410649,
@@ -1331,6 +1363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 393659,
+      "num": 393659,
+      "word": "12306回应列车停站292分钟",
+      "onboard_time": 1763435721,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 392854,
       "num": 242911,
       "word": "许昕透露要给樊振东减压",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1763283082,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 392676,
+      "num": 392676,
+      "word": "唐诡3昨晚真是乱成一锅粥了",
+      "onboard_time": 1763438423,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 387278,
@@ -1433,6 +1481,14 @@
       "onboard_time": 1763203222,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 371908,
+      "num": 371908,
+      "word": "对不起胡歌这我真看不了",
+      "onboard_time": 1763437702,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 368674,
@@ -1627,6 +1683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 336883,
+      "num": 336883,
+      "word": "疯狂动物城",
+      "onboard_time": 1763434399,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 335272,
       "num": 228377,
       "word": "王楚钦向球迷竖大拇指",
@@ -1649,14 +1713,6 @@
       "onboard_time": 1763356042,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332454,
-      "num": 332454,
-      "word": "疯狂动物城",
-      "onboard_time": 1763434399,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 331354,
@@ -2267,6 +2323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 245050,
+      "num": 301530,
+      "word": "我国人口发展出现了新特征",
+      "onboard_time": 1763439323,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 241266,
       "num": 241266,
       "word": "户外博主坠亡遗体被无人机运下山",
@@ -2411,6 +2475,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227610,
+      "num": 307741,
+      "word": "白敬亭 别让举铁的人玩这些",
+      "onboard_time": 1763438844,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224920,
       "num": 192810,
       "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
@@ -2483,6 +2555,14 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 218049,
+      "num": 218049,
+      "word": "子阳结婚",
+      "onboard_time": 1763438302,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 217302,
       "num": 248726,
       "word": "唐诡3两集开席2次一口没吃上",
@@ -2497,6 +2577,14 @@
       "onboard_time": 1763357662,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216579,
+      "num": 216579,
+      "word": "樊振东3比2胜梁靖崑",
+      "onboard_time": 1763438122,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 215804,
@@ -2617,6 +2705,14 @@
       "onboard_time": 1763382862,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205769,
+      "num": 205769,
+      "word": "俞敏洪连发6条南极游视频",
+      "onboard_time": 1763436323,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 205496,
@@ -3091,6 +3187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189352,
+      "num": 207596,
+      "word": "易烊千玺李庚希对手戏",
+      "onboard_time": 1763438722,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189172,
       "num": 385791,
       "word": "华晨宇灭梦导师来了",
@@ -3363,6 +3467,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 180601,
+      "num": 180601,
+      "word": "黄金",
+      "onboard_time": 1763439503,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 180426,
       "num": 180426,
       "word": "暂缓日本进口影片上映",
@@ -3475,6 +3587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176136,
+      "num": 206268,
+      "word": "终于有剧拍出女演员极致的美与狠",
+      "onboard_time": 1763439323,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 175667,
       "num": 225744,
       "word": "浙江队无缘4x100混合泳决赛",
@@ -3555,14 +3675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172807,
-      "num": 242460,
-      "word": "12306回应列车停站292分钟",
-      "onboard_time": 1763435721,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172650,
       "num": 215350,
       "word": "王安宇金晨在旅综拍恋综",
@@ -3595,12 +3707,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 172006,
-      "num": 172006,
-      "word": "papi酱怀孕时也会抓着老公吵架",
-      "onboard_time": 1763436323,
-      "rank": 30,
-      "category": "综艺"
+      "raw_hot": 171674,
+      "num": 171674,
+      "word": "上海98元一根的萝卜",
+      "onboard_time": 1763437281,
+      "rank": 35,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 170943,
@@ -3609,6 +3721,14 @@
       "onboard_time": 1763203222,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170843,
+      "num": 170843,
+      "word": "广东你还是太超前了",
+      "onboard_time": 1763438962,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 169935,
@@ -3737,6 +3857,14 @@
       "onboard_time": 1763360120,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165508,
+      "num": 165508,
+      "word": "女婴心脏手术去世外婆担心女儿",
+      "onboard_time": 1763440164,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165272,
@@ -4083,6 +4211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154323,
+      "num": 154323,
+      "word": "租的房间很小又要请朋友做客时",
+      "onboard_time": 1763437403,
+      "rank": 41,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 154090,
       "num": 154090,
       "word": "英语里的shanghai不是指上海",
@@ -4209,6 +4345,14 @@
       "onboard_time": 1763307441,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151747,
+      "num": 151747,
+      "word": "泰国国王与王后现身故宫",
+      "onboard_time": 1763439263,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151684,
@@ -4531,6 +4675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141481,
+      "num": 205997,
+      "word": "周恺3比1梁俨苧",
+      "onboard_time": 1763440103,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141438,
       "num": 234520,
       "word": "那英把花少7的灵魂说出来了",
@@ -4561,6 +4713,14 @@
       "onboard_time": 1763350462,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140961,
+      "num": 140961,
+      "word": "范丞丞王安宇怎么扒拉宋亚轩",
+      "onboard_time": 1763437521,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 140470,
@@ -5035,6 +5195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128238,
+      "num": 128238,
+      "word": "彭小苒一家三口颜值",
+      "onboard_time": 1763436981,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127827,
       "num": 127827,
       "word": "中国对日反制三个新特点",
@@ -5051,12 +5219,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 127490,
+      "num": 127490,
+      "word": "卢凌风也是到了人见人嫌的年龄了",
+      "onboard_time": 1763438662,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127422,
       "num": 185186,
       "word": "田曦薇胡一天求婚吻戏路透",
       "onboard_time": 1763264301,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 127336,
+      "num": 132489,
+      "word": "iPhone17先天试衣圣体",
+      "onboard_time": 1763436741,
+      "rank": 48,
+      "category": "数码"
     },
     {
       "raw_hot": 127207,
@@ -5363,14 +5547,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 120635,
-      "num": 120635,
-      "word": "俞敏洪连发6条南极游视频",
-      "onboard_time": 1763436323,
-      "rank": 44,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 120304,
       "num": 120304,
       "word": "国产剧出现比品如还狠的复仇女主",
@@ -5481,6 +5657,14 @@
       "onboard_time": 1763266821,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118785,
+      "num": 127419,
+      "word": "结了一种很新的婚",
+      "onboard_time": 1763439743,
+      "rank": 49,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 118747,
@@ -5913,14 +6097,6 @@
       "onboard_time": 1763392402,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108896,
-      "num": 108896,
-      "word": "iPhone17先天试衣圣体",
-      "onboard_time": 1763436741,
-      "rank": 48,
-      "category": "数码"
     },
     {
       "raw_hot": 108792,
@@ -6587,6 +6763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90418,
+      "num": 165579,
+      "word": "哈登两次错失绝杀",
+      "onboard_time": 1763440343,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90292,
       "num": 90292,
       "word": "霍家只剩情路坎坷的霍启山了",
@@ -6780,7 +6964,7 @@
     },
     {
       "raw_hot": 85403,
-      "num": 139032,
+      "num": 305734,
       "word": "华为MateX7或将采用全新云锦材质",
       "onboard_time": 1763436863,
       "rank": 35,
@@ -7699,6 +7883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44479,
+      "num": 165745,
+      "word": "49岁教授学术会议后突发疾病去世",
+      "onboard_time": 1763439624,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44336,
       "num": 175506,
       "word": "军舰上摆出从从容容游刃有余",
@@ -7992,14 +8184,6 @@
       "word": "日本政客推卸涉台言论责任",
       "onboard_time": 1763320334,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 34357,
-      "num": 320839,
-      "word": "联合国立场是台湾是中国一个省",
-      "onboard_time": 1763436262,
-      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -8665,6 +8849,14 @@
       "onboard_time": 1763408414,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 12944,
+      "num": 310415,
+      "word": "阿里千问全网求问",
+      "onboard_time": 1763438483,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 12751,
