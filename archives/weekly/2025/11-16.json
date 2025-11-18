@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763461899249,
+  "endTime": 1763462833785,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -577,6 +577,14 @@
       "onboard_time": 1763450302,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 742154,
+      "num": 215855,
+      "word": "曝二字女星录节目迟到不回消息",
+      "onboard_time": 1763461225,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 712659,
@@ -1451,6 +1459,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 418145,
+      "num": 418145,
+      "word": "逐玉",
+      "onboard_time": 1763459182,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 417535,
       "num": 417535,
       "word": "影院回应网传鬼灭之刃下映",
@@ -1465,14 +1481,6 @@
       "onboard_time": 1763347580,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 415146,
-      "num": 415146,
-      "word": "逐玉",
-      "onboard_time": 1763459182,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 414045,
@@ -1779,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 361366,
+      "num": 218404,
+      "word": "曝顶流明星曾边上厕所边吃饭",
+      "onboard_time": 1763460443,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361246,
       "num": 361246,
       "word": "向往的生活",
@@ -2027,6 +2043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 317497,
+      "num": 252296,
+      "word": "冷美人获超38000元奖金",
+      "onboard_time": 1763460622,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 317079,
       "num": 226834,
       "word": "关晓彤骨相",
@@ -2113,14 +2137,6 @@
       "onboard_time": 1763346560,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 307746,
-      "num": 218404,
-      "word": "曝顶流明星曾边上厕所边吃饭",
-      "onboard_time": 1763460443,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 307594,
@@ -2280,14 +2296,6 @@
       "word": "二手奶茶袋已卖到几十元",
       "onboard_time": 1763272641,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289840,
-      "num": 250215,
-      "word": "冷美人获超38000元奖金",
-      "onboard_time": 1763460622,
-      "rank": 13,
       "category": "民生新闻"
     },
     {
@@ -2569,14 +2577,6 @@
       "onboard_time": 1763384602,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 261073,
-      "num": 215855,
-      "word": "曝二字女星录节目迟到不回消息",
-      "onboard_time": 1763461225,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 261044,
@@ -3835,6 +3835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184405,
+      "num": 184405,
+      "word": "彭小苒 内娱女菩萨",
+      "onboard_time": 1763461762,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184369,
       "num": 199484,
       "word": "东部战区发布若一去不回",
@@ -4145,6 +4153,14 @@
       "onboard_time": 1763372061,
       "rank": 35,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 174780,
+      "num": 174780,
+      "word": "唐嫣曾谈和罗晋分居两地",
+      "onboard_time": 1763462243,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 174292,
@@ -5235,6 +5251,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145179,
+      "num": 145179,
+      "word": "冷美人 奖金",
+      "onboard_time": 1763462181,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 145149,
       "num": 145149,
       "word": "吃货老了之后还是吃货",
@@ -5531,6 +5555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136412,
+      "num": 136412,
+      "word": "中国外交部发声",
+      "onboard_time": 1763461642,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 135999,
       "num": 135999,
       "word": "张博恒双杠银牌",
@@ -5771,20 +5803,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 131188,
+      "num": 131188,
+      "word": "时代峰峻发声明否认张极私联",
+      "onboard_time": 1763456963,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131041,
       "num": 131041,
       "word": "日官员称高市早苗不会再有此类发言",
       "onboard_time": 1763363360,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 131029,
-      "num": 131029,
-      "word": "时代峰峻发声明否认张极私联",
-      "onboard_time": 1763456963,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 130732,
@@ -5961,6 +5993,14 @@
       "onboard_time": 1763388743,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127158,
+      "num": 182128,
+      "word": "女子买骆驼牌外套却在口袋掏出机票",
+      "onboard_time": 1763462123,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127078,
@@ -6635,14 +6675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116579,
-      "num": 116579,
-      "word": "彭小苒 内娱女菩萨",
-      "onboard_time": 1763461762,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116566,
       "num": 116566,
       "word": "樊振东经历了要崩溃的低谷时刻",
@@ -7139,6 +7171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107541,
+      "num": 107541,
+      "word": "小米三季度净利润113.11亿",
+      "onboard_time": 1763459663,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107525,
       "num": 107525,
       "word": "WTT祝贺樊振东夺冠",
@@ -7241,6 +7281,14 @@
       "onboard_time": 1763278403,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105489,
+      "num": 105489,
+      "word": "王一博 老板发言我抠手",
+      "onboard_time": 1763462721,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 105443,
@@ -7427,14 +7475,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102048,
-      "num": 102048,
-      "word": "小米三季度净利润113.11亿",
-      "onboard_time": 1763459663,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 101199,
       "num": 101199,
       "word": "竞技体育柔情的一面",
@@ -7505,6 +7545,14 @@
       "onboard_time": 1763289680,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99436,
+      "num": 99436,
+      "word": "我家离学校只有50米",
+      "onboard_time": 1763462542,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 99184,
@@ -7587,14 +7635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 98151,
-      "num": 98151,
-      "word": "中国外交部发声",
-      "onboard_time": 1763461642,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 98068,
       "num": 130400,
       "word": "男子中6亿日元瞒着家人独自享乐",
@@ -7649,6 +7689,14 @@
       "onboard_time": 1763421739,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96804,
+      "num": 96804,
+      "word": "河南话 古风",
+      "onboard_time": 1763462721,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 96647,
@@ -8459,6 +8507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69624,
+      "num": 219312,
+      "word": "中日陷入外交危机责任完全在日方",
+      "onboard_time": 1763460742,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69130,
       "num": 128168,
       "word": "周深是怎么忍住不笑的",
@@ -8481,6 +8537,14 @@
       "onboard_time": 1763335759,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68550,
+      "num": 636245,
+      "word": "用AI打开神秘三星堆",
+      "onboard_time": 1763461822,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68266,
@@ -8641,14 +8705,6 @@
       "onboard_time": 1763352263,
       "rank": 21,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 62612,
-      "num": 219312,
-      "word": "中日陷入外交危机责任完全在日方",
-      "onboard_time": 1763460742,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62244,
@@ -9099,6 +9155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 45561,
+      "num": 254266,
+      "word": "中方依法保护在华外国公民安全",
+      "onboard_time": 1763462302,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45492,
       "num": 119417,
       "word": "菲律宾持续爆发超大规模游行",
@@ -9491,14 +9555,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 35239,
-      "num": 636245,
-      "word": "用AI打开神秘三星堆",
-      "onboard_time": 1763461822,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34657,
       "num": 73973,
       "word": "日本政客推卸涉台言论责任",
@@ -9601,6 +9657,14 @@
       "onboard_time": 1763403855,
       "rank": 44,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 32638,
+      "num": 114126,
+      "word": "王玉雯 我是个景点吗",
+      "onboard_time": 1763462243,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 32478,
@@ -9763,6 +9827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29893,
+      "num": 616148,
+      "word": "北京全新坐标",
+      "onboard_time": 1763460862,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29730,
       "num": 41717,
       "word": "川渝人才知道她演的有多真实",
@@ -9793,6 +9865,14 @@
       "onboard_time": 1763443462,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28931,
+      "num": 113316,
+      "word": "张桂源上车滑倒",
+      "onboard_time": 1763462181,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 28337,
@@ -9953,14 +10033,6 @@
       "onboard_time": 1763285301,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23048,
-      "num": 616148,
-      "word": "北京全新坐标",
-      "onboard_time": 1763460862,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 22865,

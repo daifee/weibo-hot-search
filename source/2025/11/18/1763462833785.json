@@ -1,0 +1,410 @@
+{
+  "runTime": 1763462833785,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 927317,
+        "num": 1148370,
+        "word": "中方不接受日方提出的无理交涉",
+        "onboard_time": 1763452582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68550,
+        "num": 623245,
+        "word": "用AI打开神秘三星堆",
+        "onboard_time": 1763461822,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29893,
+        "num": 560489,
+        "word": "北京全新坐标",
+        "onboard_time": 1763460862,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 524235,
+        "num": 524235,
+        "word": "日本官员低头听中方讲话",
+        "onboard_time": 1763454442,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 447409,
+        "num": 447409,
+        "word": "王曼昱缺阵女团半决赛",
+        "onboard_time": 1763460922,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418145,
+        "num": 418145,
+        "word": "逐玉",
+        "onboard_time": 1763459182,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339582,
+        "num": 339582,
+        "word": "王安宇疯狂动物城配音",
+        "onboard_time": 1763457323,
+        "rank": 6,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 337433,
+        "num": 337433,
+        "word": "姜妍 混成这样都不找你去",
+        "onboard_time": 1763451624,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269769,
+        "num": 269769,
+        "word": "日本飞出黑天鹅突袭全球市场",
+        "onboard_time": 1763451681,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45561,
+        "num": 254266,
+        "word": "中方依法保护在华外国公民安全",
+        "onboard_time": 1763462302,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 564922,
+        "num": 253353,
+        "word": "明年的年龄有点严肃了",
+        "onboard_time": 1763447422,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 317497,
+        "num": 252296,
+        "word": "冷美人获超38000元奖金",
+        "onboard_time": 1763460622,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249503,
+        "num": 249503,
+        "word": "高市早苗不思悔改拒不撤回",
+        "onboard_time": 1763443581,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214882,
+        "num": 214882,
+        "word": "深圳一凶宅30人争抢699.8万元拍出",
+        "onboard_time": 1763450482,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203526,
+        "num": 203526,
+        "word": "原来娇奴在唐诡1就出现过了",
+        "onboard_time": 1763459361,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184405,
+        "num": 184405,
+        "word": "彭小苒 内娱女菩萨",
+        "onboard_time": 1763461762,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183617,
+        "num": 183617,
+        "word": "王一博直播",
+        "onboard_time": 1763452403,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183003,
+        "num": 183003,
+        "word": "日本外务省官员离开中国外交部",
+        "onboard_time": 1763450302,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127158,
+        "num": 182128,
+        "word": "女子买骆驼牌外套却在口袋掏出机票",
+        "onboard_time": 1763462123,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44790,
+        "num": 181758,
+        "word": "奥迪开启赛车新征程",
+        "onboard_time": 1763460503,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1564180,
+        "num": 181152,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763444363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049583,
+        "num": 179773,
+        "word": "王大陆认罪",
+        "onboard_time": 1763455941,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 742154,
+        "num": 179067,
+        "word": "曝二字女星录节目迟到不回消息",
+        "onboard_time": 1763461225,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361366,
+        "num": 177565,
+        "word": "曝顶流明星曾边上厕所边吃饭",
+        "onboard_time": 1763460443,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218501,
+        "num": 176795,
+        "word": "韩国警告日本绝对无法容忍",
+        "onboard_time": 1763458104,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203871,
+        "num": 176499,
+        "word": "曾轶可曾大闹机场",
+        "onboard_time": 1763448680,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191218,
+        "num": 175120,
+        "word": "建议大家嘴馋了要这样吃",
+        "onboard_time": 1763460742,
+        "rank": 26,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 174780,
+        "num": 174780,
+        "word": "唐嫣曾谈和罗晋分居两地",
+        "onboard_time": 1763462243,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157344,
+        "num": 157344,
+        "word": "日方必须给中国人民一个交代",
+        "onboard_time": 1763451982,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 145249,
+        "num": 145249,
+        "word": "中国已经不是甲午战争后的中国",
+        "onboard_time": 1763445021,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145179,
+        "num": 145179,
+        "word": "冷美人 奖金",
+        "onboard_time": 1763462181,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144428,
+        "num": 144428,
+        "word": "Tabe JDG",
+        "onboard_time": 1763450242,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 136412,
+        "num": 136412,
+        "word": "中国外交部发声",
+        "onboard_time": 1763461642,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133135,
+        "num": 133135,
+        "word": "董璇说张维伊从来没有给她做过饭",
+        "onboard_time": 1763453483,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131188,
+        "num": 131188,
+        "word": "时代峰峻发声明否认张极私联",
+        "onboard_time": 1763456963,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 69624,
+        "num": 130178,
+        "word": "中日陷入外交危机责任完全在日方",
+        "onboard_time": 1763460742,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 129724,
+        "num": 129724,
+        "word": "Amy姐曝潘玮柏宣云恋爱内幕",
+        "onboard_time": 1763450842,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115984,
+        "num": 115984,
+        "word": "易烊千玺李庚希咬脖戏",
+        "onboard_time": 1763444422,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32638,
+        "num": 114126,
+        "word": "王玉雯 我是个景点吗",
+        "onboard_time": 1763462243,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28931,
+        "num": 113316,
+        "word": "张桂源上车滑倒",
+        "onboard_time": 1763462181,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112661,
+        "num": 112661,
+        "word": "儿童重症医生解读女婴手术去世",
+        "onboard_time": 1763456242,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112476,
+        "num": 112476,
+        "word": "冷美人恢复良好只是头发缠成块",
+        "onboard_time": 1763453902,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107541,
+        "num": 107541,
+        "word": "小米三季度净利润113.11亿",
+        "onboard_time": 1763459663,
+        "rank": 42,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 106937,
+        "num": 106937,
+        "word": "小米财报",
+        "onboard_time": 1763459723,
+        "rank": 43,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 105489,
+        "num": 105489,
+        "word": "王一博 老板发言我抠手",
+        "onboard_time": 1763462721,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103535,
+        "num": 103535,
+        "word": "刘劲松与日本外务省官员会面",
+        "onboard_time": 1763461102,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102467,
+        "num": 102467,
+        "word": "8小时工作制是包含午休在内的",
+        "onboard_time": 1763452942,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99436,
+        "num": 99436,
+        "word": "我家离学校只有50米",
+        "onboard_time": 1763462542,
+        "rank": 47,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 96804,
+        "num": 96804,
+        "word": "河南话 古风",
+        "onboard_time": 1763462721,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 84156,
+        "num": 89446,
+        "word": "美依礼芽中国是我第二故乡",
+        "onboard_time": 1763457862,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记始终高度重视文化建设#"
+    }
+  }
+}

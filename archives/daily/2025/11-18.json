@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763461899249,
+  "endTime": 1763462833785,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -129,6 +129,14 @@
       "onboard_time": 1763450302,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 742154,
+      "num": 215855,
+      "word": "曝二字女星录节目迟到不回消息",
+      "onboard_time": 1763461225,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 676656,
@@ -355,8 +363,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 415146,
-      "num": 415146,
+      "raw_hot": 418145,
+      "num": 418145,
       "word": "逐玉",
       "onboard_time": 1763459182,
       "rank": 5,
@@ -451,6 +459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 361366,
+      "num": 218404,
+      "word": "曝顶流明星曾边上厕所边吃饭",
+      "onboard_time": 1763460443,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358878,
       "num": 358878,
       "word": "日方必须给中国人民一个交代",
@@ -531,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317497,
+      "num": 252296,
+      "word": "冷美人获超38000元奖金",
+      "onboard_time": 1763460622,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309933,
       "num": 309933,
       "word": "王大陆出庭",
@@ -555,14 +579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307746,
-      "num": 218404,
-      "word": "曝顶流明星曾边上厕所边吃饭",
-      "onboard_time": 1763460443,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300116,
       "num": 253159,
       "word": "冷美人恢复良好只是头发缠成块",
@@ -585,14 +601,6 @@
       "onboard_time": 1763448741,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 289840,
-      "num": 250215,
-      "word": "冷美人获超38000元奖金",
-      "onboard_time": 1763460622,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288378,
@@ -689,14 +697,6 @@
       "onboard_time": 1763443401,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 261073,
-      "num": 215855,
-      "word": "曝二字女星录节目迟到不回消息",
-      "onboard_time": 1763461225,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 260244,
@@ -1003,6 +1003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 184405,
+      "num": 184405,
+      "word": "彭小苒 内娱女菩萨",
+      "onboard_time": 1763461762,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183190,
       "num": 201178,
       "word": "你家路由器旁有这种黑盒子吗",
@@ -1073,6 +1081,14 @@
       "onboard_time": 1763443101,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174780,
+      "num": 174780,
+      "word": "唐嫣曾谈和罗晋分居两地",
+      "onboard_time": 1763462243,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 173871,
@@ -1371,6 +1387,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 145179,
+      "num": 145179,
+      "word": "冷美人 奖金",
+      "onboard_time": 1763462181,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141483,
       "num": 249455,
       "word": "冰岛未来可能真要变冰岛",
@@ -1417,6 +1441,14 @@
       "onboard_time": 1763455762,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136412,
+      "num": 136412,
+      "word": "中国外交部发声",
+      "onboard_time": 1763461642,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135990,
@@ -1491,8 +1523,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 131029,
-      "num": 131029,
+      "raw_hot": 131188,
+      "num": 131188,
       "word": "时代峰峻发声明否认张极私联",
       "onboard_time": 1763456963,
       "rank": 37,
@@ -1537,6 +1569,14 @@
       "onboard_time": 1763390782,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127158,
+      "num": 182128,
+      "word": "女子买骆驼牌外套却在口袋掏出机票",
+      "onboard_time": 1763462123,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125425,
@@ -1707,14 +1747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116579,
-      "num": 116579,
-      "word": "彭小苒 内娱女菩萨",
-      "onboard_time": 1763461762,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116508,
       "num": 142026,
       "word": "垫底辣孩 中国百年婚礼图鉴",
@@ -1851,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107541,
+      "num": 107541,
+      "word": "小米三季度净利润113.11亿",
+      "onboard_time": 1763459663,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 106874,
       "num": 171398,
       "word": "日本部分酒店开始遭中国顾客退订",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1763425342,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105489,
+      "num": 105489,
+      "word": "王一博 老板发言我抠手",
+      "onboard_time": 1763462721,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 104253,
@@ -1931,14 +1979,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102048,
-      "num": 102048,
-      "word": "小米三季度净利润113.11亿",
-      "onboard_time": 1763459663,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 101191,
       "num": 101191,
       "word": "高德扫街榜发布四川top100餐厅",
@@ -1961,6 +2001,14 @@
       "onboard_time": 1763387003,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99436,
+      "num": 99436,
+      "word": "我家离学校只有50米",
+      "onboard_time": 1763462542,
+      "rank": 47,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 98924,
@@ -2003,14 +2051,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 98151,
-      "num": 98151,
-      "word": "中国外交部发声",
-      "onboard_time": 1763461642,
-      "rank": 49,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 97559,
       "num": 97559,
       "word": "赢风官宣阵容",
@@ -2041,6 +2081,14 @@
       "onboard_time": 1763383402,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96804,
+      "num": 96804,
+      "word": "河南话 古风",
+      "onboard_time": 1763462721,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 94530,
@@ -2315,12 +2363,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 69624,
+      "num": 219312,
+      "word": "中日陷入外交危机责任完全在日方",
+      "onboard_time": 1763460742,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69226,
       "num": 78168,
       "word": "T1 Peyz",
       "onboard_time": 1763383041,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 68550,
+      "num": 636245,
+      "word": "用AI打开神秘三星堆",
+      "onboard_time": 1763461822,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 67780,
@@ -2377,14 +2441,6 @@
       "onboard_time": 1763397978,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62612,
-      "num": 219312,
-      "word": "中日陷入外交危机责任完全在日方",
-      "onboard_time": 1763460742,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 59986,
@@ -2547,6 +2603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45561,
+      "num": 254266,
+      "word": "中方依法保护在华外国公民安全",
+      "onboard_time": 1763462302,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45492,
       "num": 119417,
       "word": "菲律宾持续爆发超大规模游行",
@@ -2667,14 +2731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 35239,
-      "num": 636245,
-      "word": "用AI打开神秘三星堆",
-      "onboard_time": 1763461822,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34140,
       "num": 40966,
       "word": "长大的感受",
@@ -2697,6 +2753,14 @@
       "onboard_time": 1763403855,
       "rank": 44,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 32638,
+      "num": 114126,
+      "word": "王玉雯 我是个景点吗",
+      "onboard_time": 1763462243,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 32390,
@@ -2755,6 +2819,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 29893,
+      "num": 616148,
+      "word": "北京全新坐标",
+      "onboard_time": 1763460862,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 29730,
       "num": 41717,
       "word": "川渝人才知道她演的有多真实",
@@ -2779,6 +2851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28931,
+      "num": 113316,
+      "word": "张桂源上车滑倒",
+      "onboard_time": 1763462181,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 26185,
       "num": 124961,
       "word": "公厕被打女孩称患白血病最新发声",
@@ -2791,14 +2871,6 @@
       "num": 671779,
       "word": "C919和C909首次亮相中东",
       "onboard_time": 1763375423,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 23048,
-      "num": 616148,
-      "word": "北京全新坐标",
-      "onboard_time": 1763460862,
       "rank": 2,
       "category": "国内时政"
     },
