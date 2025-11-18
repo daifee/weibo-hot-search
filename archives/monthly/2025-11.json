@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763448706264,
+  "endTime": 1763450840346,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1371,6 +1371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1065564,
+      "num": 236690,
+      "word": "明年的年龄有点严肃了",
+      "onboard_time": 1763447422,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1059335,
       "num": 1169493,
       "word": "杨幂 蓝孔雀女王",
@@ -1385,6 +1393,14 @@
       "onboard_time": 1762673719,
       "rank": 1,
       "category": "艺人,电竞"
+    },
+    {
+      "raw_hot": 1053120,
+      "num": 205321,
+      "word": "曾轶可曾大闹机场",
+      "onboard_time": 1763448680,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 1052179,
@@ -3331,6 +3347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 676656,
+      "num": 1108264,
+      "word": "高市早苗不思悔改拒不撤回",
+      "onboard_time": 1763443581,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 675805,
       "num": 1108128,
       "word": "大奉打更人官宣第二季",
@@ -4169,14 +4193,6 @@
       "onboard_time": 1762353024,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 606081,
-      "num": 250639,
-      "word": "高市早苗不思悔改拒不撤回",
-      "onboard_time": 1763443581,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 605215,
@@ -6233,14 +6249,6 @@
       "onboard_time": 1762080680,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 480399,
-      "num": 236690,
-      "word": "明年的年龄有点严肃了",
-      "onboard_time": 1763447422,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 479831,
@@ -9883,6 +9891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 335690,
+      "num": 205203,
+      "word": "孙怡董子健女儿长这么大了",
+      "onboard_time": 1763449462,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335473,
       "num": 335473,
       "word": "AG剧透",
@@ -10673,6 +10689,14 @@
       "onboard_time": 1763283382,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 313400,
+      "num": 206106,
+      "word": "日本外务省官员离开中国外交部",
+      "onboard_time": 1763450302,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 312860,
@@ -12940,7 +12964,7 @@
     },
     {
       "raw_hot": 265337,
-      "num": 265337,
+      "num": 275606,
       "word": "高市早苗成为日本危机",
       "onboard_time": 1763443401,
       "rank": 43,
@@ -13515,6 +13539,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 253711,
+      "num": 205161,
+      "word": "陈梦暂停场外指导集体安静",
+      "onboard_time": 1763448741,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 253366,
       "num": 310153,
       "word": "唐朝诡事录 韩栋",
@@ -13577,6 +13609,14 @@
       "onboard_time": 1762917020,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 252051,
+      "num": 252051,
+      "word": "何炅 捞完你的捞你的",
+      "onboard_time": 1763448622,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 251961,
@@ -15547,6 +15587,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216802,
+      "num": 216802,
+      "word": "顶流难寻 待爆永远待爆",
+      "onboard_time": 1763449223,
+      "rank": 8,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 216679,
       "num": 216679,
       "word": "无期迷途",
@@ -17451,6 +17499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198574,
+      "num": 198574,
+      "word": "Tabe JDG",
+      "onboard_time": 1763450242,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198528,
       "num": 152949,
       "word": "王楚钦11比9于何一",
@@ -18001,6 +18057,14 @@
       "onboard_time": 1763191401,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194476,
+      "num": 206401,
+      "word": "高市早苗令日本外交天崩开局",
+      "onboard_time": 1763449581,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 194433,
@@ -19865,6 +19929,14 @@
       "onboard_time": 1762232840,
       "rank": 21,
       "category": "情感"
+    },
+    {
+      "raw_hot": 183190,
+      "num": 201178,
+      "word": "你家路由器旁有这种黑盒子吗",
+      "onboard_time": 1763450302,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 183139,
@@ -22649,6 +22721,14 @@
       "onboard_time": 1763043382,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 163221,
+      "num": 238609,
+      "word": "琉球曾是中国藩属国",
+      "onboard_time": 1763448382,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163128,
@@ -27267,6 +27347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140255,
+      "num": 140255,
+      "word": "HLE关注所有T1选手",
+      "onboard_time": 1763449942,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 140231,
       "num": 140231,
       "word": "终于知道银杏为啥叫银杏了",
@@ -29681,14 +29769,6 @@
       "onboard_time": 1762922481,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 131310,
-      "num": 131310,
-      "word": "何炅 捞完你的捞你的",
-      "onboard_time": 1763448622,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 131297,
@@ -32547,6 +32627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122163,
+      "num": 122163,
+      "word": "肖战扶车",
+      "onboard_time": 1763438662,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122161,
       "num": 122161,
       "word": "敬山水",
@@ -33124,7 +33212,7 @@
     },
     {
       "raw_hot": 120517,
-      "num": 130590,
+      "num": 205965,
       "word": "彭小苒 导演不喊卡就接着演",
       "onboard_time": 1763448563,
       "rank": 36,
@@ -34489,14 +34577,6 @@
       "onboard_time": 1763288661,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 116507,
-      "num": 116507,
-      "word": "曾轶可曾大闹机场",
-      "onboard_time": 1763448680,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 116449,
@@ -35929,6 +36009,14 @@
       "onboard_time": 1763025021,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112452,
+      "num": 116541,
+      "word": "俞敏洪南极游",
+      "onboard_time": 1763449581,
+      "rank": 49,
+      "category": "互联网"
     },
     {
       "raw_hot": 112438,
@@ -41539,6 +41627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98694,
+      "num": 140284,
+      "word": "金饰克价跌到1289元",
+      "onboard_time": 1763447482,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 98673,
       "num": 98673,
       "word": "决赛樊振东vs林诗栋",
@@ -44385,14 +44481,6 @@
       "onboard_time": 1762416021,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92706,
-      "num": 138068,
-      "word": "金饰克价跌到1289元",
-      "onboard_time": 1763447482,
-      "rank": 37,
-      "category": "财经"
     },
     {
       "raw_hot": 92682,
@@ -49683,6 +49771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 81131,
+      "num": 205535,
+      "word": "荣耀机器人手机首次线下曝光",
+      "onboard_time": 1763449462,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81066,
       "num": 228791,
       "word": "刘宇宁话筒粘手套上了",
@@ -49721,6 +49817,14 @@
       "onboard_time": 1762787721,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81015,
+      "num": 199236,
+      "word": "为什么老外都来上海看豪华品牌",
+      "onboard_time": 1763449523,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 80974,
@@ -50513,6 +50617,14 @@
       "onboard_time": 1762312639,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 78629,
+      "num": 205841,
+      "word": "全运会乒乓球女团四强对阵",
+      "onboard_time": 1763450363,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 78587,
@@ -52593,6 +52705,14 @@
       "onboard_time": 1762312701,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 72525,
+      "num": 204939,
+      "word": "超市被员工偷倒闭案老板维权5年",
+      "onboard_time": 1763449282,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72510,
@@ -57459,6 +57579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48374,
+      "num": 145361,
+      "word": "深圳一凶宅30人争抢699.8万元拍出",
+      "onboard_time": 1763450482,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48283,
       "num": 49549,
       "word": "血糖控制不好会让眼睛受伤",
@@ -58963,6 +59091,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 40347,
+      "num": 139781,
+      "word": "博主摸进妙瓦底诈骗园区",
+      "onboard_time": 1763449462,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 40346,
       "num": 71522,
       "word": "原相机下的周冬雨马思纯",
@@ -59641,6 +59777,14 @@
       "onboard_time": 1762731379,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36729,
+      "num": 143279,
+      "word": "宁波妇幼医生6月份也曾被举报",
+      "onboard_time": 1763450421,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36714,
@@ -60523,6 +60667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 32470,
+      "num": 146429,
+      "word": "5年内韩十大产业将被中国全面赶超",
+      "onboard_time": 1763450782,
+      "rank": 36,
+      "category": "海外新闻,财经"
+    },
+    {
       "raw_hot": 32457,
       "num": 45048,
       "word": "蔡徐坤音乐节人气",
@@ -60561,6 +60713,14 @@
       "onboard_time": 1762447518,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32212,
+      "num": 205389,
+      "word": "准大学生26年前遇害仍未破案",
+      "onboard_time": 1763450482,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32180,
@@ -60873,6 +61033,14 @@
       "onboard_time": 1762779501,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30820,
+      "num": 117972,
+      "word": "日元对主要货币均下跌",
+      "onboard_time": 1763449282,
+      "rank": 46,
+      "category": "财经"
     },
     {
       "raw_hot": 30753,
@@ -62459,14 +62627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21844,
-      "num": 238609,
-      "word": "琉球曾是中国藩属国",
-      "onboard_time": 1763448382,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 21767,
       "num": 91562,
       "word": "县环卫所招聘博士监管垃圾转运站",
@@ -62921,6 +63081,14 @@
       "onboard_time": 1763130803,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18862,
+      "num": 142026,
+      "word": "垫底辣孩 中国百年婚礼图鉴",
+      "onboard_time": 1763450662,
+      "rank": 39,
+      "category": "网红"
     },
     {
       "raw_hot": 18829,

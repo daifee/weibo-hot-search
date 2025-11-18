@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 14:51:46
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 15:27:20
 </p>
 </blockquote>
 <p>
@@ -1041,6 +1041,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%9A%84%E5%B9%B4%E9%BE%84%E6%9C%89%E7%82%B9%E4%B8%A5%E8%82%83%E4%BA%86%23" target="weibo">
+明年的年龄有点严肃了（热度：1065564）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E8%93%9D%E5%AD%94%E9%9B%80%E5%A5%B3%E7%8E%8B%23" target="weibo">
 杨幂 蓝孔雀女王（热度：1059335）
 </a>
@@ -1049,6 +1055,12 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%94%B1%E5%BE%97%E5%A5%BD%E6%AD%8C%E4%B8%80%E8%88%AC%23" target="weibo">
 邓紫棋唱得好歌一般（热度：1055497）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BD%B6%E5%8F%AF%E6%9B%BE%E5%A4%A7%E9%97%B9%E6%9C%BA%E5%9C%BA%23" target="weibo">
+曾轶可曾大闹机场（热度：1053120）
 </a>
 </li>
 
@@ -2511,6 +2523,12 @@ Uzi颁奖（热度：677194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E6%80%9D%E6%82%94%E6%94%B9%E6%8B%92%E4%B8%8D%E6%92%A4%E5%9B%9E%23" target="weibo">
+高市早苗不思悔改拒不撤回（热度：676656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
 大奉打更人官宣第二季（热度：675805）
 </a>
@@ -3137,12 +3155,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%97%E5%9C%83%20%E8%87%B3%E4%BB%8A%E5%86%85%E5%A8%B1%E6%97%A0%E4%BB%A3%E9%A4%90%23" target="weibo">
 苗圃 至今内娱无代餐（热度：606252）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E6%80%9D%E6%82%94%E6%94%B9%E6%8B%92%E4%B8%8D%E6%92%A4%E5%9B%9E%23" target="weibo">
-高市早苗不思悔改拒不撤回（热度：606081）
 </a>
 </li>
 
@@ -4689,12 +4701,6 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%9A%84%E5%B9%B4%E9%BE%84%E6%9C%89%E7%82%B9%E4%B8%A5%E8%82%83%E4%BA%86%23" target="weibo">
-明年的年龄有点严肃了（热度：480399）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A0%8E%E9%91%AB%E5%90%B4%E9%9B%85%E5%A9%B7%E4%B8%80%E5%90%8C%E4%B8%BA%E5%A5%B3%E5%84%BF%E5%BA%86%E7%94%9F%23" target="weibo">
 王栎鑫吴雅婷一同为女儿庆生（热度：479831）
 </a>
@@ -6005,12 +6011,6 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%20daddy%E7%BA%A7%E5%88%AB%23" target="weibo">
 张凌赫 daddy级别（热度：399930）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232007%E5%B9%B4%E5%90%8E%E5%87%BA%E7%94%9F%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%90%B8%E7%83%9F%23" target="weibo">
-2007年后出生的人不能在马尔代夫吸烟（热度：399271）
 </a>
 </li>
 
