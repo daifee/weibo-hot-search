@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763487772198,
+  "endTime": 1763491164460,
   "band_list": [
     {
       "raw_hot": 592220,
@@ -463,6 +463,38 @@
       "num": 64843,
       "word": "枭起青壤预约量破400万",
       "onboard_time": 1763486957,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22721,
+      "num": 41329,
+      "word": "联合国重申第2758号决议",
+      "onboard_time": 1763489594,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21249,
+      "num": 41306,
+      "word": "近期避免前往日本旅游",
+      "onboard_time": 1763490734,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19997,
+      "num": 41279,
+      "word": "女儿说不喜欢黄一鸣了",
+      "onboard_time": 1763489594,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16894,
+      "num": 41234,
+      "word": "李昀锐剧本排到明年下半年了",
+      "onboard_time": 1763488756,
       "rank": 46,
       "category": "剧集"
     }
