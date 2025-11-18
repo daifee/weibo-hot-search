@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763473078728,
+  "endTime": 1763473792592,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 871748,
+      "num": 251147,
+      "word": "推特崩了",
+      "onboard_time": 1763468003,
+      "rank": 16,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 868347,
       "num": 192599,
       "word": "唐嫣曾说罗晋半年提了6次分手",
@@ -588,7 +596,7 @@
     },
     {
       "raw_hot": 729347,
-      "num": 230490,
+      "num": 245168,
       "word": "这一亲把央视解说干沉默了",
       "onboard_time": 1763464522,
       "rank": 30,
@@ -649,14 +657,6 @@
       "onboard_time": 1763257339,
       "rank": 20,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 657859,
-      "num": 224554,
-      "word": "推特崩了",
-      "onboard_time": 1763468003,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 655836,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 596953,
-      "num": 219093,
+      "num": 228754,
       "word": "曝三字二字流量和原公司续约",
       "onboard_time": 1763464162,
       "rank": 23,
@@ -977,6 +977,14 @@
       "onboard_time": 1763267001,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 558200,
+      "num": 217139,
+      "word": "曝唐嫣罗晋分居一年半了",
+      "onboard_time": 1763473165,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 556970,
@@ -1507,6 +1515,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 421481,
+      "num": 376262,
+      "word": "张艺兴直播",
+      "onboard_time": 1763472683,
+      "rank": 3,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418145,
       "num": 418145,
       "word": "逐玉",
@@ -1684,7 +1700,7 @@
     },
     {
       "raw_hot": 389789,
-      "num": 225234,
+      "num": 242421,
       "word": "官方回应张博恒失误时裁判鼓掌大笑",
       "onboard_time": 1763469144,
       "rank": 15,
@@ -1771,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 376262,
-      "num": 376262,
-      "word": "张艺兴直播",
-      "onboard_time": 1763472683,
-      "rank": 3,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 376192,
       "num": 305466,
       "word": "金鸡奖",
@@ -1819,6 +1827,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 368399,
+      "num": 249277,
+      "word": "74岁老太杀73岁老太藏尸案将开庭",
+      "onboard_time": 1763469444,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366799,
       "num": 319591,
       "word": "女子把洗好的袜子通通叠成蘑菇状",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1763358681,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 363490,
+      "num": 226814,
+      "word": "王菊再瘦就认不出来了",
+      "onboard_time": 1763470464,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 363412,
@@ -1889,14 +1913,6 @@
       "onboard_time": 1763468723,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 359602,
-      "num": 218929,
-      "word": "王菊再瘦就认不出来了",
-      "onboard_time": 1763470464,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 359179,
@@ -2267,6 +2283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304486,
+      "num": 288867,
+      "word": "北大教授因三生三世入坑网文",
+      "onboard_time": 1763471903,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304334,
       "num": 425307,
       "word": "樊振东剑指双圈全满贯",
@@ -2361,6 +2385,14 @@
       "onboard_time": 1763276544,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 297077,
+      "num": 297077,
+      "word": "乒乓球男团决赛北京vs上海",
+      "onboard_time": 1763469324,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 296495,
@@ -2483,28 +2515,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 280684,
-      "num": 280684,
-      "word": "乒乓球男团决赛北京vs上海",
-      "onboard_time": 1763469324,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 280561,
       "num": 221925,
       "word": "龚俊说迪丽热巴可爱的含金量还在上升",
       "onboard_time": 1763443641,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278991,
-      "num": 219926,
-      "word": "74岁老太杀73岁老太藏尸案将开庭",
-      "onboard_time": 1763469444,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 276532,
@@ -2521,6 +2537,14 @@
       "onboard_time": 1763463923,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 275553,
+      "num": 236967,
+      "word": "南宁动物园一大猩猩坐石头上抽烟",
+      "onboard_time": 1763471183,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274892,
@@ -2867,19 +2891,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 250956,
-      "num": 219749,
-      "word": "南宁动物园一大猩猩坐石头上抽烟",
-      "onboard_time": 1763471183,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 250008,
       "num": 250008,
       "word": "T1 Guma",
       "onboard_time": 1763282662,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 248351,
+      "num": 218269,
+      "word": "Meiko宣布休息一段时间",
+      "onboard_time": 1763472743,
+      "rank": 32,
       "category": "电竞"
     },
     {
@@ -2985,6 +3009,14 @@
       "onboard_time": 1763304985,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 234619,
+      "num": 234619,
+      "word": "王曼昱结束全运会抵达北京",
+      "onboard_time": 1763472804,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 234047,
@@ -3179,14 +3211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 218269,
-      "num": 218269,
-      "word": "Meiko宣布休息一段时间",
-      "onboard_time": 1763472743,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 217302,
       "num": 248726,
       "word": "唐诡3两集开席2次一口没吃上",
@@ -3252,7 +3276,7 @@
     },
     {
       "raw_hot": 210404,
-      "num": 232959,
+      "num": 236158,
       "word": "疯狂动物城2中国首映礼",
       "onboard_time": 1763463682,
       "rank": 43,
@@ -3283,12 +3307,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 209037,
-      "num": 209037,
-      "word": "王曼昱结束全运会抵达北京",
-      "onboard_time": 1763472804,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 209016,
+      "num": 197700,
+      "word": "近视手术五年后的真实感受",
+      "onboard_time": 1763470824,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 208882,
@@ -3428,7 +3452,7 @@
     },
     {
       "raw_hot": 202324,
-      "num": 220590,
+      "num": 252534,
       "word": "中方穿五四青年服见日本官员",
       "onboard_time": 1763471423,
       "rank": 9,
@@ -3561,14 +3585,6 @@
       "onboard_time": 1763429959,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197700,
-      "num": 197700,
-      "word": "近视手术五年后的真实感受",
-      "onboard_time": 1763470824,
-      "rank": 31,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 197529,
@@ -3899,14 +3915,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 188946,
-      "num": 220225,
-      "word": "北大教授因三生三世入坑网文",
-      "onboard_time": 1763471903,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 188835,
       "num": 188835,
       "word": "花少7顶级淡人内核",
@@ -4169,6 +4177,14 @@
       "onboard_time": 1763472084,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 183044,
+      "num": 183044,
+      "word": "彭小苒哭出了漫画里才有的泪眼",
+      "onboard_time": 1763473105,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 182714,
@@ -5907,6 +5923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 136683,
+      "num": 136683,
+      "word": "Cloudflare回应全球故障",
+      "onboard_time": 1763473223,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136412,
       "num": 136412,
       "word": "中国外交部发声",
@@ -6835,6 +6859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 119867,
+      "num": 160192,
+      "word": "AG爱笑回应Tabe离队",
+      "onboard_time": 1763472863,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119807,
       "num": 119807,
       "word": "山河枕大结局",
@@ -7144,6 +7176,14 @@
       "word": "王曼昱全运会第4金",
       "onboard_time": 1763307623,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115839,
+      "num": 115839,
+      "word": "孙铭阳3比2范思琦",
+      "onboard_time": 1763473584,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -7500,7 +7540,7 @@
     },
     {
       "raw_hot": 109391,
-      "num": 219824,
+      "num": 241605,
       "word": "深蓝董事长称安全比速度更重要",
       "onboard_time": 1763470464,
       "rank": 19,
@@ -7673,14 +7713,6 @@
       "onboard_time": 1763385622,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107230,
-      "num": 160192,
-      "word": "AG爱笑回应Tabe离队",
-      "onboard_time": 1763472863,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 106874,
@@ -8340,7 +8372,7 @@
     },
     {
       "raw_hot": 93173,
-      "num": 218418,
+      "num": 238473,
       "word": "刘浩存称深蓝L06是新手司机福音",
       "onboard_time": 1763472985,
       "rank": 30,
@@ -10315,6 +10347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32169,
+      "num": 151782,
+      "word": "黎子安观战樊振东",
+      "onboard_time": 1763473165,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32127,
       "num": 2048121,
       "word": "十五运今日看点",
@@ -10579,6 +10619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26199,
+      "num": 162199,
+      "word": "被偷倒闭老板称法官弄丢关键材料",
+      "onboard_time": 1763472743,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26185,
       "num": 124961,
       "word": "公厕被打女孩称患白血病最新发声",
@@ -10808,14 +10856,6 @@
       "word": "一起劝阻吸烟致死案的判决背后",
       "onboard_time": 1763367623,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18586,
-      "num": 162199,
-      "word": "被偷倒闭老板称法官弄丢关键材料",
-      "onboard_time": 1763472743,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
