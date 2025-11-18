@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/19 00:37:21 ~ 2025/11/19 06:42:55
+本榜单时间：2025/11/19 00:37:21 ~ 2025/11/19 07:25:29
 </p>
 </blockquote>
 <p>
@@ -21,6 +21,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23" target="weibo">
+韩国外交部发表声明（热度：537467）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A649.1%E4%B8%87%E5%BC%A0%E9%A3%9E%E5%BE%80%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%8F%96%E6%B6%88%23" target="weibo">
 约49.1万张飞往日本机票取消（热度：436396）
 </a>
@@ -29,12 +35,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E8%BF%91%E6%9C%9F%E7%94%9F%E6%95%88%23" target="weibo">
 普京称中国公民免签政策近期生效（热度：435319）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%A4%96%E4%BA%A4%E9%83%A8%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23" target="weibo">
-韩国外交部发表声明（热度：373599）
 </a>
 </li>
 
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E4%BA%B2%E6%8A%8A%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%B9%B2%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
+这一亲把央视解说干沉默了（热度：211396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E7%8B%97%E5%B1%8E%E8%BF%90%E6%9C%80%E6%97%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
 本周狗屎运最旺的星座（热度：208468）
 </a>
@@ -75,8 +81,32 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E6%8A%97%E8%AE%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0%23" target="weibo">
+日本民众集会抗议要求高市下台（热度：190068）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E8%A7%86%E6%89%8B%E6%9C%AF%E4%BA%94%E5%B9%B4%E5%90%8E%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97%23" target="weibo">
 近视手术五年后的真实感受（热度：165743）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E5%9D%90%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
+日方坐不住了（热度：163687）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E8%A2%AB%E7%8B%97%E7%BB%8A%E5%80%92%E5%A5%B3%E7%94%9F%E5%B7%B2%E5%81%9A%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%23" target="weibo">
+骑车被狗绊倒女生已做开颅手术（热度：151309）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B6%A6%E5%8F%91%23" target="weibo">
+王晶说易烊千玺可能是下一个周润发（热度：147249）
 </a>
 </li>
 
@@ -89,12 +119,6 @@ Doinb宣布明年不打LPL（热度：142288）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2374%E5%B2%81%E8%80%81%E5%A4%AA%E6%9D%8073%E5%B2%81%E8%80%81%E5%A4%AA%E8%97%8F%E5%B0%B8%E6%A1%88%E5%B0%86%E5%BC%80%E5%BA%AD%23" target="weibo">
 74岁老太杀73岁老太藏尸案将开庭（热度：139068）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%91%E8%BD%A6%E8%A2%AB%E7%8B%97%E7%BB%8A%E5%80%92%E5%A5%B3%E7%94%9F%E5%B7%B2%E5%81%9A%E5%BC%80%E9%A2%85%E6%89%8B%E6%9C%AF%23" target="weibo">
-骑车被狗绊倒女生已做开颅手术（热度：138967）
 </a>
 </li>
 
@@ -123,8 +147,8 @@ Doinb宣布明年不打LPL（热度：142288）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B6%A6%E5%8F%91%23" target="weibo">
-王晶说易烊千玺可能是下一个周润发（热度：124149）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E5%A4%B1%E8%AF%AF%E6%97%B6%E9%BC%93%E6%8E%8C%E7%9A%84%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BB%88%E6%AD%A2%E6%89%A7%E8%A3%81%23" target="weibo">
+张博恒失误时鼓掌的裁判被终止执裁（热度：126014）
 </a>
 </li>
 
@@ -141,12 +165,6 @@ Doinb宣布明年不打LPL（热度：142288）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E4%BA%B2%E6%8A%8A%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%B9%B2%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
-这一亲把央视解说干沉默了（热度：103929）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%89%E5%AD%97%E4%BA%8C%E5%AD%97%E6%B5%81%E9%87%8F%E5%92%8C%E5%8E%9F%E5%85%AC%E5%8F%B8%E7%BB%AD%E7%BA%A6%23" target="weibo">
 曝三字二字流量和原公司续约（热度：95359）
 </a>
@@ -159,14 +177,20 @@ Doinb宣布明年不打LPL（热度：142288）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%20%E5%8E%BB%E5%A4%A9%E5%B0%BA%E4%BA%94%23" target="weibo">
-唐朝诡事录 去天尺五（热度：84716）
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E7%A7%B0%E5%A4%B4%E5%8F%91%E5%83%8F%E7%9F%B3%E5%A4%B4%E5%89%AA%E4%B8%8D%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
+冷美人称头发像石头剪不下来了（热度：86435）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%8D%9A%E6%81%92%E5%A4%B1%E8%AF%AF%E6%97%B6%E9%BC%93%E6%8E%8C%E7%9A%84%E8%A3%81%E5%88%A4%E8%A2%AB%E7%BB%88%E6%AD%A2%E6%89%A7%E8%A3%81%23" target="weibo">
-张博恒失误时鼓掌的裁判被终止执裁（热度：80800）
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%23" target="weibo">
+美股（热度：85735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%95%20%E5%8E%BB%E5%A4%A9%E5%B0%BA%E4%BA%94%23" target="weibo">
+唐朝诡事录 去天尺五（热度：84716）
 </a>
 </li>
 
@@ -178,7 +202,7 @@ Doinb宣布明年不打LPL（热度：142288）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E6%BC%94%E5%AE%8C%E5%A6%82%E6%87%BF%E4%BC%A0%E7%BB%88%E4%BA%8E%E7%96%AF%E4%BA%86%23" target="weibo">
-霍建华演完如懿传终于疯了（热度：74945）
+霍建华演完如懿传终于疯了（热度：76290）
 </a>
 </li>
 
@@ -191,6 +215,12 @@ Doinb宣布明年不打LPL（热度：142288）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C%23" target="weibo">
 四喜（热度：73526）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E5%A4%A7%E7%8C%A9%E7%8C%A9%E5%9D%90%E7%9F%B3%E5%A4%B4%E4%B8%8A%E6%8A%BD%E7%83%9F%23" target="weibo">
+南宁动物园一大猩猩坐石头上抽烟（热度：70339）
 </a>
 </li>
 
@@ -255,12 +285,6 @@ AL官宣Tabe离队（热度：60596）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E5%8A%A8%E7%89%A9%E5%9B%AD%E4%B8%80%E5%A4%A7%E7%8C%A9%E7%8C%A9%E5%9D%90%E7%9F%B3%E5%A4%B4%E4%B8%8A%E6%8A%BD%E7%83%9F%23" target="weibo">
-南宁动物园一大猩猩坐石头上抽烟（热度：56362）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E5%93%AD%E5%87%BA%E4%BA%86%E6%BC%AB%E7%94%BB%E9%87%8C%E6%89%8D%E6%9C%89%E7%9A%84%E6%B3%AA%E7%9C%BC%23" target="weibo">
 彭小苒哭出了漫画里才有的泪眼（热度：55879）
 </a>
@@ -269,6 +293,12 @@ AL官宣Tabe离队（热度：60596）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Meiko%E5%AE%A3%E5%B8%83%E4%BC%91%E6%81%AF%E4%B8%80%E6%AE%B5%E6%97%B6%E9%97%B4%23" target="weibo">
 Meiko宣布休息一段时间（热度：55755）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%80%81%E5%A4%AA%E8%97%8F%E5%B0%B8%E6%A1%88%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+江西老太藏尸案被害人女儿发声（热度：55704）
 </a>
 </li>
 
@@ -327,6 +357,12 @@ Meiko宣布休息一段时间（热度：55755）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AF%B4%E4%B8%8D%E5%96%9C%E6%AC%A2%E9%BB%84%E4%B8%80%E9%B8%A3%E4%BA%86%23" target="weibo">
+女儿说不喜欢黄一鸣了（热度：45625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A6%8F%E5%BB%BA%E8%88%B0%E5%85%A5%E5%88%97%E5%90%8E%E9%A6%96%E6%AC%A1%E6%B5%B7%E4%B8%8A%E5%AE%9E%E5%85%B5%E8%AE%AD%E7%BB%83%23" target="weibo">
 福建舰入列后首次海上实兵训练（热度：45579）
 </a>
@@ -345,20 +381,38 @@ AG爱笑回应Tabe离队（热度：44465）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E7%A7%B0%E5%A4%B4%E5%8F%91%E5%83%8F%E7%9F%B3%E5%A4%B4%E5%89%AA%E4%B8%8D%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
-冷美人称头发像石头剪不下来了（热度：41918）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23AL%E6%95%99%E7%BB%83%23" target="weibo">
 AL教练（热度：39198）
 </a>
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E9%87%8D%E7%94%B3%E7%AC%AC2758%E5%8F%B7%E5%86%B3%E8%AE%AE%23" target="weibo">
+联合国重申第2758号决议（热度：35242）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E6%BA%A2%E5%87%BA%E5%B1%8F%E5%B9%95%E7%9A%84%E6%98%8E%E5%AA%9A%23" target="weibo">
+李兰迪 溢出屏幕的明媚（热度：33827）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E4%B8%8A%E9%97%A8%E6%8D%A1%E7%BA%B8%E5%A3%B3%E9%A1%BA%E8%B5%B0%E4%B8%9A%E4%B8%BB2000%E5%85%83%E6%96%B0%E9%9E%8B%23" target="weibo">
-老人上门捡纸壳顺走业主2000元新鞋（热度：33267）
+老人上门捡纸壳顺走业主2000元新鞋（热度：33349）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%9B%BD%E9%99%85%E6%A8%A1%E7%89%B9%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+广东国际模特大赛冠军引争议（热度：33240）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%89%8E%E6%A0%B9%E7%9A%84%E6%AF%92%E5%9C%9F%23" target="weibo">
+起底高市早苗扎根的毒土（热度：31144）
 </a>
 </li>
 
@@ -369,8 +423,8 @@ AL教练（热度：39198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%80%81%E5%A4%AA%E8%97%8F%E5%B0%B8%E6%A1%88%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
-江西老太藏尸案被害人女儿发声（热度：29567）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%90%AC%E5%88%B0%E6%98%AF%E4%B8%8D%E6%98%AF%E7%9C%9F%E7%88%AC%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
+王一博听到是不是真爬的反应（热度：28967）
 </a>
 </li>
 
@@ -381,38 +435,14 @@ AL教练（热度：39198）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%81%94%E5%90%88%E5%9B%BD%E9%87%8D%E7%94%B3%E7%AC%AC2758%E5%8F%B7%E5%86%B3%E8%AE%AE%23" target="weibo">
-联合国重申第2758号决议（热度：24636）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AF%B4%E4%B8%8D%E5%96%9C%E6%AC%A2%E9%BB%84%E4%B8%80%E9%B8%A3%E4%BA%86%23" target="weibo">
-女儿说不喜欢黄一鸣了（热度：23243）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E5%85%AC%E4%BD%BF%E4%B8%A5%E6%AD%A3%E6%8A%97%E8%AE%AE%23" target="weibo">
 韩国召见日本公使严正抗议（热度：21679）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%9B%BD%E9%99%85%E6%A8%A1%E7%89%B9%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-广东国际模特大赛冠军引争议（热度：21638）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%23" target="weibo">
 近期避免前往日本旅游（热度：21249）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E6%8A%97%E8%AE%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0%23" target="weibo">
-日本民众集会抗议要求高市下台（热度：21037）
 </a>
 </li>
 
@@ -425,18 +455,6 @@ AL教练（热度：39198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%89%A7%E6%9C%AC%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%86%23" target="weibo">
 李昀锐剧本排到明年下半年了（热度：16894）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E6%BA%A2%E5%87%BA%E5%B1%8F%E5%B9%95%E7%9A%84%E6%98%8E%E5%AA%9A%23" target="weibo">
-李兰迪 溢出屏幕的明媚（热度：15248）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%89%8E%E6%A0%B9%E7%9A%84%E6%AF%92%E5%9C%9F%23" target="weibo">
-起底高市早苗扎根的毒土（热度：15087）
 </a>
 </li>
 
