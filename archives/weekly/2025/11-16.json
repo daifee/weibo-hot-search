@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763458234436,
+  "endTime": 1763459026934,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1660744,
-      "num": 254163,
+      "num": 267963,
       "word": "王大陆认罪",
       "onboard_time": 1763455941,
       "rank": 10,
@@ -420,7 +420,7 @@
     },
     {
       "raw_hot": 866072,
-      "num": 253921,
+      "num": 774443,
       "word": "日本官员低头听中方讲话",
       "onboard_time": 1763454442,
       "rank": 13,
@@ -497,6 +497,14 @@
       "onboard_time": 1763267422,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 790021,
+      "num": 229743,
+      "word": "曝张极私联粉丝",
+      "onboard_time": 1763456963,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 789324,
@@ -1059,14 +1067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 512937,
-      "num": 229743,
-      "word": "曝张极私联粉丝",
-      "onboard_time": 1763456963,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 502210,
       "num": 249733,
       "word": "林诗栋靠化缘走到了决赛",
@@ -1561,6 +1561,14 @@
       "onboard_time": 1763350042,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 395614,
+      "num": 258947,
+      "word": "董璇说张维伊从来没有给她做过饭",
+      "onboard_time": 1763453483,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 393659,
@@ -2083,14 +2091,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 307934,
-      "num": 253439,
-      "word": "董璇说张维伊从来没有给她做过饭",
-      "onboard_time": 1763453483,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 307594,
       "num": 307594,
       "word": "唐朝诡事录",
@@ -2137,6 +2137,14 @@
       "onboard_time": 1763271622,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 300116,
+      "num": 253159,
+      "word": "冷美人恢复良好只是头发缠成块",
+      "onboard_time": 1763453902,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300052,
@@ -2209,14 +2217,6 @@
       "onboard_time": 1763377942,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 293420,
-      "num": 253159,
-      "word": "冷美人恢复良好只是头发缠成块",
-      "onboard_time": 1763453902,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293094,
@@ -3939,6 +3939,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178555,
+      "num": 178555,
+      "word": "葱枝甘露",
+      "onboard_time": 1763453603,
+      "rank": 44,
+      "category": "美食"
+    },
+    {
       "raw_hot": 178336,
       "num": 178336,
       "word": "水饺皇后 糖水伯",
@@ -4185,14 +4193,6 @@
       "onboard_time": 1763295922,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169538,
-      "num": 169538,
-      "word": "葱枝甘露",
-      "onboard_time": 1763453603,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 169311,
@@ -4667,6 +4667,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 155853,
+      "num": 192155,
+      "word": "王安宇疯狂动物城配音",
+      "onboard_time": 1763457323,
+      "rank": 28,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 155630,
       "num": 155630,
       "word": "最强吃货搭子找到了",
@@ -4881,6 +4889,14 @@
       "onboard_time": 1763255120,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152036,
+      "num": 152036,
+      "word": "韩国警告日本绝对无法容忍",
+      "onboard_time": 1763458104,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 151947,
@@ -5459,14 +5475,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 135658,
-      "num": 171402,
-      "word": "王安宇疯狂动物城配音",
-      "onboard_time": 1763457323,
-      "rank": 28,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 135623,
       "num": 135623,
       "word": "日本外务省高官来华说明高市早苗言论",
@@ -5971,6 +5979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 124778,
+      "num": 124778,
+      "word": "TF四代聊天记录 刻板印象",
+      "onboard_time": 1763454802,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124771,
       "num": 124771,
       "word": "Gumayusi漫画",
@@ -6201,6 +6217,14 @@
       "onboard_time": 1763436682,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121028,
+      "num": 157451,
+      "word": "福建舰入列后首次海上实兵训练",
+      "onboard_time": 1763458703,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121002,
@@ -7027,14 +7051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 106979,
-      "num": 106979,
-      "word": "韩国警告日本绝对无法容忍",
-      "onboard_time": 1763458104,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 106874,
       "num": 171398,
       "word": "日本部分酒店开始遭中国顾客退订",
@@ -7153,14 +7169,6 @@
       "onboard_time": 1763294242,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105004,
-      "num": 123071,
-      "word": "TF四代聊天记录 刻板印象",
-      "onboard_time": 1763454802,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 104727,
@@ -7387,6 +7395,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 98924,
+      "num": 98924,
+      "word": "石智勇宣布退役",
+      "onboard_time": 1763458882,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98891,
       "num": 98891,
       "word": "这居然是16岁的文淇",
@@ -7577,6 +7593,14 @@
       "onboard_time": 1763383642,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 93158,
+      "num": 93158,
+      "word": "谁能管管现在的视频会员",
+      "onboard_time": 1763458224,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 93134,
@@ -8315,6 +8339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68000,
+      "num": 141839,
+      "word": "河南疑似有无人配送车撞倒骑警",
+      "onboard_time": 1763457563,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67609,
       "num": 248759,
       "word": "陈梦说赛场的快乐无关输赢",
@@ -8731,7 +8763,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50659,
+      "raw_hot": 50727,
       "num": 135351,
       "word": "高杨说樊振东是学习的榜样",
       "onboard_time": 1763458041,
@@ -8803,6 +8835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 48831,
+      "num": 138603,
+      "word": "新型杀猪盘来袭",
+      "onboard_time": 1763457803,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 48581,
       "num": 139309,
       "word": "日本731部队问题专家谈高市谬论",
@@ -8865,14 +8905,6 @@
       "onboard_time": 1763382803,
       "rank": 40,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 46653,
-      "num": 138603,
-      "word": "新型杀猪盘来袭",
-      "onboard_time": 1763457803,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 46544,
@@ -9025,6 +9057,14 @@
       "onboard_time": 1763282062,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41490,
+      "num": 249966,
+      "word": "高市拿台湾搞事别怪中国谈琉球有事",
+      "onboard_time": 1763457444,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 41464,
@@ -9451,6 +9491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 31671,
+      "num": 530881,
+      "word": "全运会闭幕式怎么举行",
+      "onboard_time": 1763457743,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31602,
       "num": 918233,
       "word": "全运会首个跨境马拉松",
@@ -9811,14 +9859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 20312,
-      "num": 249966,
-      "word": "高市拿台湾搞事别怪中国谈琉球有事",
-      "onboard_time": 1763457444,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20288,
       "num": 137525,
       "word": "日本有重蹈军国主义覆辙的危险",
@@ -9839,14 +9879,6 @@
       "num": 120949,
       "word": "女子自称汤某回应13个娃3亿纠纷",
       "onboard_time": 1763303304,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19421,
-      "num": 141839,
-      "word": "河南疑似有无人配送车撞倒骑警",
-      "onboard_time": 1763457563,
       "rank": 37,
       "category": "民生新闻"
     },
@@ -10057,14 +10089,6 @@
       "onboard_time": 1763401456,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12336,
-      "num": 434731,
-      "word": "全运会闭幕式怎么举行",
-      "onboard_time": 1763457743,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10964,
