@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 09:58:42
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 10:20:33
 </p>
 </blockquote>
 <p>
@@ -1047,6 +1047,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5%E4%BA%86%E8%AE%A9%E4%BA%BA%E4%B8%8D%E5%AE%89%23" target="weibo">
+中国游客不来了让人不安（热度：1052179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E6%82%A8%E5%A5%BD%20%E6%88%91%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%83%B3%E5%9B%9E%E5%A4%A7%E9%99%86%23" target="weibo">
 警察您好 我在台湾想回大陆（热度：1049555）
 </a>
@@ -1145,12 +1151,6 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87%23" target="weibo">
 唐诡3热度破万（热度：1009227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5%E4%BA%86%E8%AE%A9%E4%BA%BA%E4%B8%8D%E5%AE%89%23" target="weibo">
-中国游客不来了让人不安（热度：1007701）
 </a>
 </li>
 
@@ -2727,6 +2727,12 @@ T1 Peyz（热度：653404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%A5%A8%E6%88%BF%E5%A4%A7%E8%B7%8C%23" target="weibo">
+鬼灭之刃票房大跌（热度：645367）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A9%86%E7%A5%89%E4%B8%9E%20TOP%23" target="weibo">
 穆祉丞 TOP（热度：645057）
 </a>
@@ -3405,12 +3411,6 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%A5%A8%E6%88%BF%E5%A4%A7%E8%B7%8C%23" target="weibo">
-鬼灭之刃票房大跌（热度：571982）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%94%E5%85%A8%E8%BF%90%E4%BC%9A%E9%93%9C%E7%89%8C%23" target="weibo">
 王楚钦回应全运会铜牌（热度：571345）
 </a>
@@ -3497,6 +3497,12 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E6%8A%8A%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E6%88%90%E6%9C%AC%E9%83%BD%E5%86%99%E4%B8%8A%E4%BA%86%23" target="weibo">
 店主把小蛋糕的成本都写上了（热度：565985）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD%23" target="weibo">
+高市早苗同时得罪四国（热度：565425）
 </a>
 </li>
 
@@ -4097,12 +4103,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9B%AF%E7%BC%96%E9%80%A0%E8%A2%AD%E8%AD%A6%E6%8D%9E%E4%BA%BA%E6%83%85%E8%8A%82%E4%B8%BA%E6%98%BE%E7%A4%BA%E4%BA%BA%E8%84%89%23" target="weibo">
 秦雯编造袭警捞人情节为显示人脉（热度：514705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD%23" target="weibo">
-高市早苗同时得罪四国（热度：514153）
 </a>
 </li>
 
@@ -5283,6 +5283,12 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AE%A4%E6%9A%82%E7%BC%93%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%89%87%E4%B8%8A%E6%98%A0%23" target="weibo">
+确认暂缓日本进口片上映（热度：434347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%90%AF%E4%BB%81%E5%9C%A8%E7%8E%89%E9%BE%99%E9%9B%AA%E5%B1%B1%E4%B8%BE%E5%8A%9E%E5%A9%9A%E7%A4%BC%23" target="weibo">
 霍启仁在玉龙雪山举办婚礼（热度：434243）
 </a>
@@ -5741,12 +5747,6 @@ Faker发博晒经典夺冠表情（热度：418029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E9%A3%8E%23" target="weibo">
 台风（热度：407348）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AE%A4%E6%9A%82%E7%BC%93%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%89%87%E4%B8%8A%E6%98%A0%23" target="weibo">
-确认暂缓日本进口片上映（热度：407320）
 </a>
 </li>
 

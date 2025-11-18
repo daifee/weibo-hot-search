@@ -1,0 +1,410 @@
+{
+  "runTime": 1763432433168,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052179,
+        "num": 1168348,
+        "word": "中国游客不来了让人不安",
+        "onboard_time": 1763426422,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 729081,
+        "num": 729081,
+        "word": "高市早苗招惹韩国",
+        "onboard_time": 1763424201,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13173,
+        "num": 670126,
+        "word": "C919和C909首次亮相中东",
+        "onboard_time": 1763375423,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 645367,
+        "num": 645367,
+        "word": "鬼灭之刃票房大跌",
+        "onboard_time": 1763429721,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 565425,
+        "num": 565425,
+        "word": "高市早苗同时得罪四国",
+        "onboard_time": 1763427802,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307098,
+        "num": 307098,
+        "word": "女子网购玩偶发现眼睛内疑有摄像头",
+        "onboard_time": 1763424682,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 434347,
+        "num": 301002,
+        "word": "确认暂缓日本进口片上映",
+        "onboard_time": 1763426842,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285428,
+        "num": 285428,
+        "word": "周润发官宣出席MAMA",
+        "onboard_time": 1763428701,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 276061,
+        "num": 276061,
+        "word": "网红博主坠亡两天前还在更新作品",
+        "onboard_time": 1763424261,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219723,
+        "num": 219723,
+        "word": "中国强烈回应震动日本",
+        "onboard_time": 1763360483,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 401550,
+        "num": 217314,
+        "word": "朵朵知道小酒窝轩轩指腹为婚大哭",
+        "onboard_time": 1763421018,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363023,
+        "num": 208557,
+        "word": "曝iPhone17 Pro Max被湿巾擦掉色",
+        "onboard_time": 1763388262,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 243106,
+        "num": 203576,
+        "word": "女子同事群八卦领导私生活被开除",
+        "onboard_time": 1763431161,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224920,
+        "num": 192810,
+        "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
+        "onboard_time": 1763430500,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189546,
+        "num": 189546,
+        "word": "赢风",
+        "onboard_time": 1763431281,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178849,
+        "num": 178849,
+        "word": "GenG官宣Canyon离队",
+        "onboard_time": 1763428041,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 175797,
+        "num": 175797,
+        "word": "该和日本聊聊琉球了",
+        "onboard_time": 1763427982,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168459,
+        "num": 168459,
+        "word": "专家称给日本100个胆都不敢进攻中国",
+        "onboard_time": 1763425401,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154304,
+        "num": 168266,
+        "word": "户外博主坠亡遗体被无人机运下山",
+        "onboard_time": 1763426962,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85400,
+        "num": 167951,
+        "word": "赵晴哭戏破碎感要溢出屏幕了",
+        "onboard_time": 1763424022,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 535581,
+        "num": 167691,
+        "word": "霍建华不愧是心如自留款",
+        "onboard_time": 1763426782,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196281,
+        "num": 167414,
+        "word": "朵朵和小酒窝天天粘一起",
+        "onboard_time": 1763428222,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167308,
+        "num": 167308,
+        "word": "降温后北方人的体面穿搭",
+        "onboard_time": 1763429061,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156534,
+        "num": 156534,
+        "word": "elk删除了清者自清的微博",
+        "onboard_time": 1763426122,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 151644,
+        "num": 151644,
+        "word": "刚走到门口店员已经开始倒美式了",
+        "onboard_time": 1763429241,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 141743,
+        "num": 141743,
+        "word": "迪丽热巴不停夸蛇好漂亮",
+        "onboard_time": 1763428281,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137321,
+        "num": 137321,
+        "word": "小米su7路面超车发生侧滑",
+        "onboard_time": 1763431640,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101043,
+        "num": 135312,
+        "word": "南京下雪",
+        "onboard_time": 1763390362,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93589,
+        "num": 135169,
+        "word": "王一博啥时候学武功了",
+        "onboard_time": 1763432000,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82102,
+        "num": 135136,
+        "word": "任嘉伦哭戏已经下一个level",
+        "onboard_time": 1763420898,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135130,
+        "num": 135130,
+        "word": "女子把洗好的袜子通通叠成蘑菇状",
+        "onboard_time": 1763431041,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133578,
+        "num": 133578,
+        "word": "韩媒曝Gumayusi离队内部早已确定",
+        "onboard_time": 1763430980,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128899,
+        "num": 128899,
+        "word": "只有没结婚的才知道她说的有多真",
+        "onboard_time": 1763389642,
+        "rank": 32,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 127645,
+        "num": 127645,
+        "word": "奥特曼扮演者发文质问高市早苗",
+        "onboard_time": 1763391863,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 122498,
+        "num": 122498,
+        "word": "957爆料Viper加入BLG",
+        "onboard_time": 1763422097,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115773,
+        "num": 115773,
+        "word": "王一博15次破亿是人气更是实力",
+        "onboard_time": 1763429959,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101788,
+        "num": 101788,
+        "word": "T1官宣Gumayusi离队",
+        "onboard_time": 1763381481,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100669,
+        "num": 100669,
+        "word": "70后户外网红博主坠崖身亡",
+        "onboard_time": 1763393721,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99721,
+        "num": 99721,
+        "word": "日本扩军剑指中国",
+        "onboard_time": 1763390483,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94004,
+        "num": 94004,
+        "word": "男子炫耀妻子把袜子叠成蘑菇状",
+        "onboard_time": 1763421198,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93275,
+        "num": 93275,
+        "word": "联合国至今未承认日本对琉球主权",
+        "onboard_time": 1763421619,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92600,
+        "num": 92600,
+        "word": "燃气热水器竟然是明火加热",
+        "onboard_time": 1763421619,
+        "rank": 41,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 90776,
+        "num": 90776,
+        "word": "宁波卫健委成立调查组",
+        "onboard_time": 1763428580,
+        "rank": 42,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 89093,
+        "num": 89093,
+        "word": "中国对日反制三个新特点",
+        "onboard_time": 1763430380,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88394,
+        "num": 88394,
+        "word": "HLE官宣Peanut离队",
+        "onboard_time": 1763428341,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85039,
+        "num": 85039,
+        "word": "全运会乒乓球男团八强对阵",
+        "onboard_time": 1763431342,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84807,
+        "num": 84807,
+        "word": "一个粉扑没笑五个粉扑绷不住了",
+        "onboard_time": 1763429901,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59517,
+        "num": 84801,
+        "word": "刘宇宁一口气演了六个角色",
+        "onboard_time": 1763421318,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 74167,
+        "num": 84800,
+        "word": "iPhone17Pro掉色门问题再发酵",
+        "onboard_time": 1763426361,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 84799,
+        "num": 84799,
+        "word": "高市早苗搞事已遭反噬",
+        "onboard_time": 1763376560,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}

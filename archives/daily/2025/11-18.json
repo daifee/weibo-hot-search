@@ -1,10 +1,10 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763431122437,
+  "endTime": 1763432433168,
   "band_list": [
     {
-      "raw_hot": 1007701,
-      "num": 1161232,
+      "raw_hot": 1052179,
+      "num": 1168348,
       "word": "中国游客不来了让人不安",
       "onboard_time": 1763426422,
       "rank": 0,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 752979,
-      "num": 191316,
+      "num": 217314,
       "word": "朵朵知道小酒窝轩轩指腹为婚大哭",
       "onboard_time": 1763421018,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 645367,
+      "num": 645367,
+      "word": "鬼灭之刃票房大跌",
+      "onboard_time": 1763429721,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 628933,
@@ -44,19 +52,19 @@
     },
     {
       "raw_hot": 585478,
-      "num": 162982,
+      "num": 167691,
       "word": "霍建华不愧是心如自留款",
       "onboard_time": 1763426782,
       "rank": 20,
       "category": "剧集"
     },
     {
-      "raw_hot": 571982,
-      "num": 571982,
-      "word": "鬼灭之刃票房大跌",
-      "onboard_time": 1763429721,
-      "rank": 3,
-      "category": "电影"
+      "raw_hot": 565425,
+      "num": 565425,
+      "word": "高市早苗同时得罪四国",
+      "onboard_time": 1763427802,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 525255,
@@ -67,12 +75,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 514153,
-      "num": 197088,
-      "word": "高市早苗同时得罪四国",
-      "onboard_time": 1763427802,
-      "rank": 10,
-      "category": "国际时政"
+      "raw_hot": 434347,
+      "num": 407320,
+      "word": "确认暂缓日本进口片上映",
+      "onboard_time": 1763426842,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 433495,
@@ -81,14 +89,6 @@
       "onboard_time": 1763388262,
       "rank": 23,
       "category": "数码"
-    },
-    {
-      "raw_hot": 407320,
-      "num": 407320,
-      "word": "确认暂缓日本进口片上映",
-      "onboard_time": 1763426842,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 386672,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 285428,
+      "num": 285428,
+      "word": "周润发官宣出席MAMA",
+      "onboard_time": 1763428701,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
       "raw_hot": 272926,
       "num": 138916,
       "word": "新东方员工吐槽俞敏洪内部信",
@@ -160,6 +168,14 @@
       "word": "湖南一婴儿一出生就15岁",
       "onboard_time": 1763378422,
       "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 243106,
+      "num": 203576,
+      "word": "女子同事群八卦领导私生活被开除",
+      "onboard_time": 1763431161,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -177,6 +193,14 @@
       "onboard_time": 1763425401,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 224920,
+      "num": 192810,
+      "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
+      "onboard_time": 1763430500,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 218889,
@@ -219,12 +243,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 197100,
-      "num": 197100,
-      "word": "周润发官宣出席MAMA",
-      "onboard_time": 1763428701,
-      "rank": 9,
-      "category": "演出"
+      "raw_hot": 196281,
+      "num": 167414,
+      "word": "朵朵和小酒窝天天粘一起",
+      "onboard_time": 1763428222,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 195074,
@@ -233,6 +257,14 @@
       "onboard_time": 1763395760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189546,
+      "num": 189546,
+      "word": "赢风",
+      "onboard_time": 1763431281,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 187827,
@@ -244,19 +276,11 @@
     },
     {
       "raw_hot": 186351,
-      "num": 158636,
+      "num": 175797,
       "word": "该和日本聊聊琉球了",
       "onboard_time": 1763427982,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 185950,
-      "num": 157574,
-      "word": "朵朵和小酒窝天天粘一起",
-      "onboard_time": 1763428222,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 185265,
@@ -265,14 +289,6 @@
       "onboard_time": 1763428041,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 184154,
-      "num": 184154,
-      "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
-      "onboard_time": 1763430500,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 180426,
@@ -307,6 +323,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 167308,
+      "num": 167308,
+      "word": "降温后北方人的体面穿搭",
+      "onboard_time": 1763429061,
+      "rank": 26,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156787,
       "num": 156787,
       "word": "迪丽热巴不停夸蛇好漂亮",
@@ -323,12 +347,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154304,
+      "num": 168266,
+      "word": "户外博主坠亡遗体被无人机运下山",
+      "onboard_time": 1763426962,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154150,
       "num": 123993,
       "word": "彭小苒 我努力做个好妈妈",
       "onboard_time": 1763390903,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151644,
+      "num": 151644,
+      "word": "刚走到门口店员已经开始倒美式了",
+      "onboard_time": 1763429241,
+      "rank": 24,
+      "category": "幽默"
     },
     {
       "raw_hot": 149488,
@@ -363,12 +403,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 137321,
+      "num": 137321,
+      "word": "小米su7路面超车发生侧滑",
+      "onboard_time": 1763431640,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 135990,
       "num": 135990,
       "word": "BLG转会",
       "onboard_time": 1763388442,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135130,
+      "num": 135130,
+      "word": "女子把洗好的袜子通通叠成蘑菇状",
+      "onboard_time": 1763431041,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133698,
@@ -379,12 +435,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 129760,
-      "num": 129760,
-      "word": "降温后北方人的体面穿搭",
-      "onboard_time": 1763429061,
-      "rank": 26,
-      "category": "幽默"
+      "raw_hot": 133578,
+      "num": 133578,
+      "word": "韩媒曝Gumayusi离队内部早已确定",
+      "onboard_time": 1763430980,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 127278,
@@ -451,14 +507,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 103327,
-      "num": 103327,
-      "word": "韩媒曝Gumayusi离队内部早已确定",
-      "onboard_time": 1763430980,
-      "rank": 38,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 103193,
       "num": 103193,
       "word": "宁波妇幼",
@@ -476,7 +524,7 @@
     },
     {
       "raw_hot": 100781,
-      "num": 166955,
+      "num": 167951,
       "word": "赵晴哭戏破碎感要溢出屏幕了",
       "onboard_time": 1763424022,
       "rank": 18,
@@ -523,6 +571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 93589,
+      "num": 135169,
+      "word": "王一博啥时候学武功了",
+      "onboard_time": 1763432000,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93438,
       "num": 93438,
       "word": "T1管理层",
@@ -537,6 +593,14 @@
       "onboard_time": 1763372241,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 90776,
+      "num": 90776,
+      "word": "宁波卫健委成立调查组",
+      "onboard_time": 1763428580,
+      "rank": 42,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 90292,
@@ -563,20 +627,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 89093,
+      "num": 89093,
+      "word": "中国对日反制三个新特点",
+      "onboard_time": 1763430380,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88381,
       "num": 139126,
       "word": "刘宇宁一口气演了六个角色",
       "onboard_time": 1763421318,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 88185,
-      "num": 88185,
-      "word": "户外博主坠亡遗体被无人机运下山",
-      "onboard_time": 1763426962,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86360,
@@ -609,6 +673,22 @@
       "onboard_time": 1763430022,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85039,
+      "num": 85039,
+      "word": "全运会乒乓球男团八强对阵",
+      "onboard_time": 1763431342,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 84807,
+      "num": 84807,
+      "word": "一个粉扑没笑五个粉扑绷不住了",
+      "onboard_time": 1763429901,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 81009,
@@ -651,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74167,
+      "num": 85086,
+      "word": "iPhone17Pro掉色门问题再发酵",
+      "onboard_time": 1763426361,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73663,
       "num": 77147,
       "word": "孙颖莎1比3落后出去换了件衣服",
@@ -673,14 +761,6 @@
       "onboard_time": 1763383041,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 66857,
-      "num": 85086,
-      "word": "iPhone17Pro掉色门问题再发酵",
-      "onboard_time": 1763426361,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 66732,
