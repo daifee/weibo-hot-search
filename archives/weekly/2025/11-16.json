@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763443673468,
+  "endTime": 1763444621797,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -611,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 636428,
+      "num": 457321,
+      "word": "蒋欣 干嘛假孕争宠啊",
+      "onboard_time": 1763440643,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628901,
       "num": 267824,
       "word": "朱一龙上金鸡奖撕名牌来了",
@@ -641,14 +649,6 @@
       "onboard_time": 1763347040,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 622158,
-      "num": 457321,
-      "word": "蒋欣 干嘛假孕争宠啊",
-      "onboard_time": 1763440643,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 618058,
@@ -771,6 +771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 580100,
+      "num": 242940,
+      "word": "女婴心脏手术去世外婆担心女儿",
+      "onboard_time": 1763440164,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576295,
       "num": 261104,
       "word": "日本电影",
@@ -857,14 +865,6 @@
       "onboard_time": 1763276364,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 544904,
-      "num": 242940,
-      "word": "女婴心脏手术去世外婆担心女儿",
-      "onboard_time": 1763440164,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 543185,
@@ -1883,6 +1883,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 308195,
+      "num": 173333,
+      "word": "梁靖崑坐下去都困难",
+      "onboard_time": 1763443762,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 307594,
       "num": 307594,
       "word": "唐朝诡事录",
@@ -2059,12 +2067,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281166,
+      "num": 281166,
+      "word": "王俊凯王源包场易烊千玺新片",
+      "onboard_time": 1763441183,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 280713,
       "num": 118122,
       "word": "孙颖莎16比14王曼昱",
       "onboard_time": 1763317575,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 280561,
+      "num": 202980,
+      "word": "龚俊说迪丽热巴可爱的含金量还在上升",
+      "onboard_time": 1763443641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277509,
+      "num": 193578,
+      "word": "易烊千玺李庚希咬脖戏",
+      "onboard_time": 1763444422,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 276532,
@@ -2129,6 +2161,14 @@
       "onboard_time": 1763387902,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 269951,
+      "num": 205245,
+      "word": "彭小苒隐形眼镜滑片了",
+      "onboard_time": 1763441002,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 269896,
@@ -2227,6 +2267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262281,
+      "num": 218049,
+      "word": "子阳结婚",
+      "onboard_time": 1763438302,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 261685,
       "num": 225643,
       "word": "中国代表联大发言让日本破大防",
@@ -2251,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 260244,
+      "num": 195893,
+      "word": "无限暖暖一箭封神",
+      "onboard_time": 1763442862,
+      "rank": 22,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 258066,
       "num": 258066,
       "word": "被通缉台独网红叫嚣悬赏金太少",
@@ -2273,14 +2329,6 @@
       "onboard_time": 1763259561,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256104,
-      "num": 256104,
-      "word": "王俊凯王源包场易烊千玺新片",
-      "onboard_time": 1763441183,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 255478,
@@ -2321,14 +2369,6 @@
       "onboard_time": 1763345600,
       "rank": 42,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 253734,
-      "num": 205245,
-      "word": "彭小苒隐形眼镜滑片了",
-      "onboard_time": 1763441002,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 253358,
@@ -2409,14 +2449,6 @@
       "onboard_time": 1763370021,
       "rank": 17,
       "category": "财经"
-    },
-    {
-      "raw_hot": 240600,
-      "num": 195893,
-      "word": "无限暖暖一箭封神",
-      "onboard_time": 1763442862,
-      "rank": 22,
-      "category": "游戏"
     },
     {
       "raw_hot": 240292,
@@ -2515,6 +2547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230023,
+      "num": 230023,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1763442324,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229362,
       "num": 229362,
       "word": "喝奶茶尽量选这4种",
@@ -2531,12 +2571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229138,
+      "num": 178058,
+      "word": "唐嫣 罗晋",
+      "onboard_time": 1763444363,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227873,
       "num": 190916,
       "word": "宋茜瘦到穿24码的裤子",
       "onboard_time": 1763372241,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 226094,
+      "num": 169803,
+      "word": "王大陆鞠躬道歉",
+      "onboard_time": 1763443821,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 224920,
@@ -2609,22 +2665,6 @@
       "onboard_time": 1763352022,
       "rank": 32,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 220403,
-      "num": 220403,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1763442324,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 218049,
-      "num": 218049,
-      "word": "子阳结婚",
-      "onboard_time": 1763438302,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 217302,
@@ -2849,14 +2889,6 @@
       "onboard_time": 1763253380,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 202980,
-      "num": 202980,
-      "word": "龚俊说迪丽热巴可爱的含金量还在上升",
-      "onboard_time": 1763443641,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 202781,
@@ -3121,6 +3153,14 @@
       "onboard_time": 1763307083,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192601,
+      "num": 192601,
+      "word": "王俊凯趁世界还年青定档",
+      "onboard_time": 1763443762,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 192414,
@@ -3883,6 +3923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 169311,
+      "num": 169311,
+      "word": "穿卫衣就扎流苏丸子头",
+      "onboard_time": 1763443641,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 169046,
       "num": 169046,
       "word": "卫健委回应5月龄女婴心脏手术离世",
@@ -4059,6 +4107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161967,
+      "num": 161967,
+      "word": "孙颖莎为河北独得两分",
+      "onboard_time": 1763443702,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161701,
       "num": 161701,
       "word": "泰国国王与王后现身故宫",
@@ -4092,7 +4148,7 @@
     },
     {
       "raw_hot": 160736,
-      "num": 173669,
+      "num": 175579,
       "word": "乒乓女团河北3比1辽宁",
       "onboard_time": 1763442144,
       "rank": 29,
@@ -4297,6 +4353,14 @@
       "onboard_time": 1763262620,
       "rank": 33,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 155630,
+      "num": 155630,
+      "word": "最强吃货搭子找到了",
+      "onboard_time": 1763443762,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 155562,
@@ -5571,6 +5635,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 123667,
+      "num": 174044,
+      "word": "全球资产集体大跌",
+      "onboard_time": 1763443641,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 123244,
       "num": 123244,
       "word": "中方对日迎头痛击如何击有多痛",
@@ -5715,12 +5787,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 120897,
-      "num": 120897,
-      "word": "全球资产集体大跌",
-      "onboard_time": 1763443641,
+      "raw_hot": 120932,
+      "num": 120932,
+      "word": "小鹏汽车大跌10%",
+      "onboard_time": 1763444483,
       "rank": 46,
-      "category": "财经"
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 120642,
@@ -5729,14 +5801,6 @@
       "onboard_time": 1763300603,
       "rank": 47,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 120454,
-      "num": 120454,
-      "word": "穿卫衣就扎流苏丸子头",
-      "onboard_time": 1763443641,
-      "rank": 47,
-      "category": "美妆"
     },
     {
       "raw_hot": 120304,
@@ -6129,6 +6193,14 @@
       "onboard_time": 1763374102,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112757,
+      "num": 197539,
+      "word": "离世女婴家属称手术耗时7小时",
+      "onboard_time": 1763442922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112488,
@@ -7859,14 +7931,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 54413,
-      "num": 197539,
-      "word": "离世女婴家属称手术耗时7小时",
-      "onboard_time": 1763442922,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54097,
       "num": 74906,
       "word": "陈思诚 不抛弃不放弃",
@@ -8049,6 +8113,14 @@
       "onboard_time": 1763300302,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48425,
+      "num": 190654,
+      "word": "华为乾崑x东风全新品牌即将发布",
+      "onboard_time": 1763444003,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 48082,
@@ -8289,6 +8361,14 @@
       "onboard_time": 1763294661,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 37596,
+      "num": 155321,
+      "word": "美国女保洁开错房门被屋主枪杀",
+      "onboard_time": 1763444242,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37458,
@@ -8667,6 +8747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 29035,
+      "num": 155298,
+      "word": "降低生育负担不妨多一些直付模式",
+      "onboard_time": 1763443462,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28337,
       "num": 61228,
       "word": "白敬亭王安宇太好笑了",
@@ -8825,14 +8913,6 @@
       "onboard_time": 1763364141,
       "rank": 18,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 22863,
-      "num": 141509,
-      "word": "降低生育负担不妨多一些直付模式",
-      "onboard_time": 1763443462,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22345,

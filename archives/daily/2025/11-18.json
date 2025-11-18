@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763443673468,
+  "endTime": 1763444621797,
   "band_list": [
     {
       "raw_hot": 1052179,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 636428,
+      "num": 457321,
+      "word": "蒋欣 干嘛假孕争宠啊",
+      "onboard_time": 1763440643,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 628933,
       "num": 823129,
       "word": "奥特曼扮演者发文质问高市早苗",
@@ -89,14 +97,6 @@
       "onboard_time": 1763439323,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 622158,
-      "num": 457321,
-      "word": "蒋欣 干嘛假孕争宠啊",
-      "onboard_time": 1763440643,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 610727,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 580100,
+      "num": 242940,
+      "word": "女婴心脏手术去世外婆担心女儿",
+      "onboard_time": 1763440164,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 572043,
       "num": 323836,
       "word": "全职宝妈打赏男主播67万丈夫痛哭",
@@ -129,14 +137,6 @@
       "onboard_time": 1763427802,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 544904,
-      "num": 242940,
-      "word": "女婴心脏手术去世外婆担心女儿",
-      "onboard_time": 1763440164,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 525255,
@@ -323,6 +323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 308195,
+      "num": 173333,
+      "word": "梁靖崑坐下去都困难",
+      "onboard_time": 1763443762,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 285428,
       "num": 285428,
       "word": "周润发官宣出席MAMA",
@@ -331,12 +339,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 281166,
+      "num": 281166,
+      "word": "王俊凯王源包场易烊千玺新片",
+      "onboard_time": 1763441183,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 280561,
+      "num": 202980,
+      "word": "龚俊说迪丽热巴可爱的含金量还在上升",
+      "onboard_time": 1763443641,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 277509,
+      "num": 193578,
+      "word": "易烊千玺李庚希咬脖戏",
+      "onboard_time": 1763444422,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 272926,
       "num": 138916,
       "word": "新东方员工吐槽俞敏洪内部信",
       "onboard_time": 1763381661,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 269951,
+      "num": 205245,
+      "word": "彭小苒隐形眼镜滑片了",
+      "onboard_time": 1763441002,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 269532,
@@ -355,20 +395,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 256104,
-      "num": 256104,
-      "word": "王俊凯王源包场易烊千玺新片",
-      "onboard_time": 1763441183,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 262281,
+      "num": 218049,
+      "word": "子阳结婚",
+      "onboard_time": 1763438302,
+      "rank": 23,
+      "category": "电竞"
     },
     {
-      "raw_hot": 253734,
-      "num": 205245,
-      "word": "彭小苒隐形眼镜滑片了",
-      "onboard_time": 1763441002,
-      "rank": 45,
-      "category": "剧集"
+      "raw_hot": 260244,
+      "num": 195893,
+      "word": "无限暖暖一箭封神",
+      "onboard_time": 1763442862,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 251961,
@@ -387,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 240600,
-      "num": 195893,
-      "word": "无限暖暖一箭封神",
-      "onboard_time": 1763442862,
-      "rank": 22,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 240292,
       "num": 164989,
       "word": "业主卖房时发现地下室被人占用多年",
@@ -409,6 +441,30 @@
       "onboard_time": 1763425401,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 230023,
+      "num": 230023,
+      "word": "孙颖莎vs陈幸同",
+      "onboard_time": 1763442324,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 229138,
+      "num": 178058,
+      "word": "唐嫣 罗晋",
+      "onboard_time": 1763444363,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 226094,
+      "num": 169803,
+      "word": "王大陆鞠躬道歉",
+      "onboard_time": 1763443821,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 224920,
@@ -427,28 +483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 220403,
-      "num": 220403,
-      "word": "孙颖莎vs陈幸同",
-      "onboard_time": 1763442324,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 218889,
       "num": 218889,
       "word": "高市早苗搞事已遭反噬",
       "onboard_time": 1763376560,
       "rank": 8,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 218049,
-      "num": 218049,
-      "word": "子阳结婚",
-      "onboard_time": 1763438302,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 216579,
@@ -473,14 +513,6 @@
       "onboard_time": 1763436323,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 202980,
-      "num": 202980,
-      "word": "龚俊说迪丽热巴可爱的含金量还在上升",
-      "onboard_time": 1763443641,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 202060,
@@ -561,6 +593,14 @@
       "onboard_time": 1763440943,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192601,
+      "num": 192601,
+      "word": "王俊凯趁世界还年青定档",
+      "onboard_time": 1763443762,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 190186,
@@ -731,6 +771,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 169311,
+      "num": 169311,
+      "word": "穿卫衣就扎流苏丸子头",
+      "onboard_time": 1763443641,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 167308,
       "num": 167308,
       "word": "降温后北方人的体面穿搭",
@@ -747,6 +795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161967,
+      "num": 161967,
+      "word": "孙颖莎为河北独得两分",
+      "onboard_time": 1763443702,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161701,
       "num": 161701,
       "word": "泰国国王与王后现身故宫",
@@ -756,7 +812,7 @@
     },
     {
       "raw_hot": 160736,
-      "num": 173669,
+      "num": 175579,
       "word": "乒乓女团河北3比1辽宁",
       "onboard_time": 1763442144,
       "rank": 29,
@@ -785,6 +841,14 @@
       "onboard_time": 1763383402,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155630,
+      "num": 155630,
+      "word": "最强吃货搭子找到了",
+      "onboard_time": 1763443762,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 154323,
@@ -1003,6 +1067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123667,
+      "num": 174044,
+      "word": "全球资产集体大跌",
+      "onboard_time": 1763443641,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 122741,
       "num": 122741,
       "word": "李雪琴早就知道董璇张维伊在一起",
@@ -1019,20 +1091,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 120897,
-      "num": 120897,
-      "word": "全球资产集体大跌",
-      "onboard_time": 1763443641,
+      "raw_hot": 120932,
+      "num": 120932,
+      "word": "小鹏汽车大跌10%",
+      "onboard_time": 1763444483,
       "rank": 46,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 120454,
-      "num": 120454,
-      "word": "穿卫衣就扎流苏丸子头",
-      "onboard_time": 1763443641,
-      "rank": 47,
-      "category": "美妆"
+      "category": "财经,汽车"
     },
     {
       "raw_hot": 118785,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1763442800,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 112757,
+      "num": 197539,
+      "word": "离世女婴家属称手术耗时7小时",
+      "onboard_time": 1763442922,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 112488,
@@ -1515,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 54413,
-      "num": 197539,
-      "word": "离世女婴家属称手术耗时7小时",
-      "onboard_time": 1763442922,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52263,
       "num": 160941,
       "word": "河南女子隐瞒婚病史被退婚拒退彩礼",
@@ -1547,6 +1611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 48425,
+      "num": 190654,
+      "word": "华为乾崑x东风全新品牌即将发布",
+      "onboard_time": 1763444003,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45492,
       "num": 119417,
       "word": "菲律宾持续爆发超大规模游行",
@@ -1569,6 +1641,14 @@
       "onboard_time": 1763429959,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37596,
+      "num": 155321,
+      "word": "美国女保洁开错房门被屋主枪杀",
+      "onboard_time": 1763444242,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35420,
@@ -1635,6 +1715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29035,
+      "num": 155298,
+      "word": "降低生育负担不妨多一些直付模式",
+      "onboard_time": 1763443462,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29002,
       "num": 55190,
       "word": "现在就出发",
@@ -1657,14 +1745,6 @@
       "onboard_time": 1763375423,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 22863,
-      "num": 141509,
-      "word": "降低生育负担不妨多一些直付模式",
-      "onboard_time": 1763443462,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22295,
