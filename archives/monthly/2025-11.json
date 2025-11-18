@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763491946475,
+  "endTime": 1763493768056,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -63979,6 +63979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 24636,
+      "num": 41329,
+      "word": "联合国重申第2758号决议",
+      "onboard_time": 1763489594,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24613,
       "num": 107664,
       "word": "美政府停摆时长创纪录后现状",
@@ -64289,14 +64297,6 @@
       "onboard_time": 1763038522,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22721,
-      "num": 41329,
-      "word": "联合国重申第2758号决议",
-      "onboard_time": 1763489594,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22563,
@@ -65689,6 +65689,14 @@
       "onboard_time": 1762726935,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13787,
+      "num": 26375,
+      "word": "周深戏曲唱腔",
+      "onboard_time": 1763492534,
+      "rank": 34,
+      "category": "演出"
     },
     {
       "raw_hot": 13773,

@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763491946475,
+  "endTime": 1763493768056,
   "band_list": [
     {
       "raw_hot": 592220,
@@ -467,7 +467,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22721,
+      "raw_hot": 24636,
       "num": 41329,
       "word": "联合国重申第2758号决议",
       "onboard_time": 1763489594,
@@ -505,6 +505,14 @@
       "onboard_time": 1763488756,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13787,
+      "num": 26375,
+      "word": "周深戏曲唱腔",
+      "onboard_time": 1763492534,
+      "rank": 34,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
