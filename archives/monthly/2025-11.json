@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763422798121,
+  "endTime": 1763431122437,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1515,6 +1515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1007701,
+      "num": 1161232,
+      "word": "中国游客不来了让人不安",
+      "onboard_time": 1763426422,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1005771,
       "num": 413129,
       "word": "郭美美2次入狱又试图复出",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1762736060,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 948388,
+      "num": 948388,
+      "word": "高市早苗招惹韩国",
+      "onboard_time": 1763424201,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 943804,
@@ -2660,7 +2676,7 @@
     },
     {
       "raw_hot": 752979,
-      "num": 170158,
+      "num": 191316,
       "word": "朵朵知道小酒窝轩轩指腹为婚大哭",
       "onboard_time": 1763421018,
       "rank": 10,
@@ -4371,6 +4387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 585478,
+      "num": 162982,
+      "word": "霍建华不愧是心如自留款",
+      "onboard_time": 1763426782,
+      "rank": 20,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 584086,
       "num": 584086,
       "word": "超级月亮",
@@ -4497,6 +4521,14 @@
       "onboard_time": 1762918581,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571982,
+      "num": 571982,
+      "word": "鬼灭之刃票房大跌",
+      "onboard_time": 1763429721,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 571345,
@@ -5417,6 +5449,14 @@
       "onboard_time": 1762827980,
       "rank": 3,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 514153,
+      "num": 197088,
+      "word": "高市早苗同时得罪四国",
+      "onboard_time": 1763427802,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 513491,
@@ -7603,6 +7643,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 407320,
+      "num": 407320,
+      "word": "确认暂缓日本进口片上映",
+      "onboard_time": 1763426842,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 406873,
       "num": 191386,
       "word": "女孩发视频称父亲看其洗澡警方介入",
@@ -9227,6 +9275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350376,
+      "num": 350376,
+      "word": "网红博主坠亡两天前还在更新作品",
+      "onboard_time": 1763424261,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 349822,
       "num": 271737,
       "word": "中国大陆至日本航班量大幅下滑",
@@ -9465,6 +9521,14 @@
       "onboard_time": 1762742119,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 340874,
+      "num": 340874,
+      "word": "女子网购玩偶发现眼睛内疑有摄像头",
+      "onboard_time": 1763424682,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 340843,
@@ -13907,6 +13971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 236454,
+      "num": 236454,
+      "word": "专家称给日本100个胆都不敢进攻中国",
+      "onboard_time": 1763425401,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236413,
       "num": 236413,
       "word": "跳绳是减重排行榜第一名的运动",
@@ -16523,6 +16595,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 202060,
+      "num": 161913,
+      "word": "elk删除了清者自清的微博",
+      "onboard_time": 1763426122,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 202020,
       "num": 202020,
       "word": "王楚钦一日三赛",
@@ -16995,6 +17075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198483,
+      "num": 187241,
+      "word": "王一博15次破亿是人气更是实力",
+      "onboard_time": 1763429959,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198428,
       "num": 167729,
       "word": "这小马一看就是才参加工作",
@@ -17121,6 +17209,14 @@
       "onboard_time": 1762321219,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197100,
+      "num": 197100,
+      "word": "周润发官宣出席MAMA",
+      "onboard_time": 1763428701,
+      "rank": 9,
+      "category": "演出"
     },
     {
       "raw_hot": 197082,
@@ -18795,6 +18891,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186351,
+      "num": 158636,
+      "word": "该和日本聊聊琉球了",
+      "onboard_time": 1763427982,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186325,
       "num": 182806,
       "word": "周深新歌造物好强的爆发力",
@@ -18873,6 +18977,14 @@
       "onboard_time": 1763382862,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185950,
+      "num": 157574,
+      "word": "朵朵和小酒窝天天粘一起",
+      "onboard_time": 1763428222,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 185746,
@@ -18993,6 +19105,14 @@
       "onboard_time": 1762835781,
       "rank": 29,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 185265,
+      "num": 185265,
+      "word": "GenG官宣Canyon离队",
+      "onboard_time": 1763428041,
+      "rank": 14,
+      "category": "电竞"
     },
     {
       "raw_hot": 185261,
@@ -19145,6 +19265,14 @@
       "onboard_time": 1763382441,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 184154,
+      "num": 184154,
+      "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
+      "onboard_time": 1763430500,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 184130,
@@ -23227,6 +23355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 156787,
+      "num": 156787,
+      "word": "迪丽热巴不停夸蛇好漂亮",
+      "onboard_time": 1763428281,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156770,
       "num": 156770,
       "word": "oner谈S赛对LPL连胜",
@@ -24724,7 +24860,7 @@
     },
     {
       "raw_hot": 148768,
-      "num": 104138,
+      "num": 129620,
       "word": "联合国至今未承认日本对琉球主权",
       "onboard_time": 1763421619,
       "rank": 25,
@@ -28203,6 +28339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133698,
+      "num": 133698,
+      "word": "957爆料Viper加入BLG",
+      "onboard_time": 1763422097,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133639,
       "num": 133639,
       "word": "颖儿怎么把黄瓜香芋穿身上",
@@ -29169,6 +29313,14 @@
       "onboard_time": 1762038377,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 129760,
+      "num": 129760,
+      "word": "降温后北方人的体面穿搭",
+      "onboard_time": 1763429061,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 129745,
@@ -37347,6 +37499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105820,
+      "num": 129623,
+      "word": "韩国取代日本成为最热门目的地",
+      "onboard_time": 1763425342,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105702,
       "num": 105702,
       "word": "马頔一个肥字触到潘玮柏逆鳞",
@@ -37972,7 +38132,7 @@
     },
     {
       "raw_hot": 104253,
-      "num": 139655,
+      "num": 164842,
       "word": "任嘉伦哭戏已经下一个level",
       "onboard_time": 1763420898,
       "rank": 16,
@@ -37993,6 +38153,14 @@
       "onboard_time": 1763080100,
       "rank": 35,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 104171,
+      "num": 104171,
+      "word": "燃气热水器竟然是明火加热",
+      "onboard_time": 1763421619,
+      "rank": 38,
+      "category": "科学科普"
     },
     {
       "raw_hot": 104138,
@@ -38259,6 +38427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103659,
+      "num": 103659,
+      "word": "HLE官宣Peanut离队",
+      "onboard_time": 1763428341,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 103656,
       "num": 172518,
       "word": "双十一听劝式购物",
@@ -38385,6 +38561,14 @@
       "onboard_time": 1762058721,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103327,
+      "num": 103327,
+      "word": "韩媒曝Gumayusi离队内部早已确定",
+      "onboard_time": 1763430980,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 103323,
@@ -39488,6 +39672,14 @@
       "word": "韩雨彤演我只贪财不好色",
       "onboard_time": 1762842679,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100781,
+      "num": 166955,
+      "word": "赵晴哭戏破碎感要溢出屏幕了",
+      "onboard_time": 1763424022,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -43939,14 +44131,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 90969,
-      "num": 90969,
-      "word": "957爆料Viper加入BLG",
-      "onboard_time": 1763422097,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 90947,
       "num": 90947,
       "word": "樊振东的第1条微博",
@@ -45315,6 +45499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88381,
+      "num": 139126,
+      "word": "刘宇宁一口气演了六个角色",
+      "onboard_time": 1763421318,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 88357,
       "num": 129958,
       "word": "八仙子除名孙天宇张兴朝",
@@ -45393,6 +45585,14 @@
       "onboard_time": 1762223661,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88185,
+      "num": 88185,
+      "word": "户外博主坠亡遗体被无人机运下山",
+      "onboard_time": 1763426962,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88173,
@@ -46363,6 +46563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86360,
+      "num": 86360,
+      "word": "人类幼崽也接受不了周一",
+      "onboard_time": 1763431100,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 86357,
       "num": 144213,
       "word": "动物塑测试",
@@ -46801,6 +47009,14 @@
       "onboard_time": 1762499420,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85552,
+      "num": 85552,
+      "word": "沙特小伙救下2名中国人",
+      "onboard_time": 1763430022,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85527,
@@ -52187,14 +52403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 69177,
-      "num": 69177,
-      "word": "燃气热水器竟然是明火加热",
-      "onboard_time": 1763421619,
-      "rank": 38,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 69170,
       "num": 69170,
       "word": "T1和KT与冠军奖杯合影",
@@ -52641,6 +52849,14 @@
       "onboard_time": 1761926361,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66857,
+      "num": 85086,
+      "word": "iPhone17Pro掉色门问题再发酵",
+      "onboard_time": 1763426361,
+      "rank": 47,
+      "category": "数码"
     },
     {
       "raw_hot": 66825,
@@ -54793,6 +55009,14 @@
       "onboard_time": 1762530440,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 56137,
+      "num": 85009,
+      "word": "全运会历史上最年轻女子100米冠军",
+      "onboard_time": 1763428580,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 56094,
@@ -57059,14 +57283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43792,
-      "num": 139126,
-      "word": "刘宇宁一口气演了六个角色",
-      "onboard_time": 1763421318,
-      "rank": 19,
-      "category": "演出"
-    },
-    {
       "raw_hot": 43718,
       "num": 153264,
       "word": "欲结娃娃亲的发小杀害兄弟妻儿",
@@ -58113,6 +58329,14 @@
       "onboard_time": 1763120362,
       "rank": 16,
       "category": "数码"
+    },
+    {
+      "raw_hot": 37956,
+      "num": 84990,
+      "word": "快船vs76人",
+      "onboard_time": 1763429959,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 37941,

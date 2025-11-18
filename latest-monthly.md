@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 07:39:58
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 09:58:42
 </p>
 </blockquote>
 <p>
@@ -1149,6 +1149,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E4%B8%8D%E6%9D%A5%E4%BA%86%E8%AE%A9%E4%BA%BA%E4%B8%8D%E5%AE%89%23" target="weibo">
+中国游客不来了让人不安（热度：1007701）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%BE%8E%E7%BE%8E2%E6%AC%A1%E5%85%A5%E7%8B%B1%E5%8F%88%E8%AF%95%E5%9B%BE%E5%A4%8D%E5%87%BA%23" target="weibo">
 郭美美2次入狱又试图复出（热度：1005771）
 </a>
@@ -1283,6 +1289,12 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%BA%86%E7%94%9F%E7%85%A7%E5%B7%AE%E7%82%B9%E6%B2%A1%E7%9C%8B%E8%A7%81%E9%B9%BF%E6%99%97%23" target="weibo">
 陈赫庆生照差点没看见鹿晗（热度：949508）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%9F%A9%E5%9B%BD%23" target="weibo">
+高市早苗招惹韩国（热度：948388）
 </a>
 </li>
 
@@ -3291,6 +3303,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E4%B8%8D%E6%84%A7%E6%98%AF%E5%BF%83%E5%A6%82%E8%87%AA%E7%95%99%E6%AC%BE%23" target="weibo">
+霍建华不愧是心如自留款（热度：585478）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%23" target="weibo">
 超级月亮（热度：584086）
 </a>
@@ -3383,6 +3401,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%968%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%86%AC%E5%A4%A9%E7%A9%BF%E6%8B%96%E9%9E%8B%E6%B5%81%E6%B5%AA%23" target="weibo">
 妈妈去世8岁女孩冬天穿拖鞋流浪（热度：572652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%A5%A8%E6%88%BF%E5%A4%A7%E8%B7%8C%23" target="weibo">
+鬼灭之刃票房大跌（热度：571982）
 </a>
 </li>
 
@@ -4073,6 +4097,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9B%AF%E7%BC%96%E9%80%A0%E8%A2%AD%E8%AD%A6%E6%8D%9E%E4%BA%BA%E6%83%85%E8%8A%82%E4%B8%BA%E6%98%BE%E7%A4%BA%E4%BA%BA%E8%84%89%23" target="weibo">
 秦雯编造袭警捞人情节为显示人脉（热度：514705）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD%23" target="weibo">
+高市早苗同时得罪四国（热度：514153）
 </a>
 </li>
 
@@ -5715,6 +5745,12 @@ Faker发博晒经典夺冠表情（热度：418029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AE%A4%E6%9A%82%E7%BC%93%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%89%87%E4%B8%8A%E6%98%A0%23" target="weibo">
+确认暂缓日本进口片上映（热度：407320）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E7%88%B6%E4%BA%B2%E7%9C%8B%E5%85%B6%E6%B4%97%E6%BE%A1%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%23" target="weibo">
 女孩发视频称父亲看其洗澡警方介入（热度：406873）
 </a>
@@ -5975,42 +6011,6 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E7%BE%BD%E6%B4%81%E5%8F%91%E4%BA%86%E8%8C%83%E4%B8%9E%E4%B8%9E%23" target="weibo">
 沈羽洁发了范丞丞（热度：392729）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%AD%A6%E6%9C%9F%E9%97%B4%E6%B2%A1%E6%8E%A5%E6%88%8F%23" target="weibo">
-易烊千玺回应大学期间没接戏（热度：392420）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E6%A2%81%E6%B7%9E%E5%AE%B3%E6%80%95%E5%9B%9B%E8%83%8E%E8%80%83%E8%99%91%E7%BB%93%E6%89%8E%23" target="weibo">
-再见爱人梁淞害怕四胎考虑结扎（热度：392394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%9C%B0%E9%93%81%E8%B7%B3%E8%BD%AC%E5%B9%BF%E5%91%8A%23" target="weibo">
-广州地铁跳转广告（热度：392110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%94%B7%E5%AD%90%E4%B8%BA%E7%A0%B4%E6%9D%80%E5%A6%BB%E6%A1%88%E4%BF%9D%E5%AD%98%E7%8E%B0%E5%9C%BA26%E5%B9%B4%23" target="weibo">
-日本男子为破杀妻案保存现场26年（热度：392107）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%83%9C%E5%88%A9%E8%87%B4%E6%AD%89%23" target="weibo">
-黄胜利致歉（热度：390969）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E6%88%98%E9%9D%9E%E8%BD%A6%E7%A5%B8%E4%BC%A4%E5%8F%A3%E6%84%9F%E6%9F%93%23" target="weibo">
-蓝战非车祸伤口感染（热度：390923）
 </a>
 </li>
 
