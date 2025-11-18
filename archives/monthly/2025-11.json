@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763477136750,
+  "endTime": 1763479841474,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2163,6 +2163,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 860789,
+      "num": 219008,
+      "word": "金鸡奖 奖金",
+      "onboard_time": 1763475623,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 859960,
       "num": 859960,
       "word": "2026年节假日安排",
@@ -3721,6 +3729,14 @@
       "onboard_time": 1763383041,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 653343,
+      "num": 151469,
+      "word": "韩国外交部发表声明",
+      "onboard_time": 1763476763,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 653238,
@@ -6593,14 +6609,6 @@
       "onboard_time": 1763192181,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 470284,
-      "num": 219008,
-      "word": "金鸡奖 奖金",
-      "onboard_time": 1763475623,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 469610,
@@ -9875,6 +9883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 345878,
+      "num": 173094,
+      "word": "王楚钦这我能告诉你吗",
+      "onboard_time": 1763476825,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 345696,
       "num": 345696,
       "word": "鬼灭之刃",
@@ -10241,6 +10257,14 @@
       "onboard_time": 1763274443,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334944,
+      "num": 334944,
+      "word": "约49.1万张飞往日本机票取消",
+      "onboard_time": 1763478504,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334873,
@@ -15651,6 +15675,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 222362,
+      "num": 149242,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1763478624,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222355,
       "num": 222355,
       "word": "光伏",
@@ -16601,14 +16633,6 @@
       "onboard_time": 1762310961,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 210558,
-      "num": 173094,
-      "word": "王楚钦这我能告诉你吗",
-      "onboard_time": 1763476825,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 210405,
@@ -20467,6 +20491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183098,
+      "num": 183098,
+      "word": "Doinb宣布明年不打LPL",
+      "onboard_time": 1763478444,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183060,
       "num": 183060,
       "word": "马龙十五运开门红",
@@ -22344,6 +22376,14 @@
       "word": "陈靖可你小子吃这么好",
       "onboard_time": 1762345581,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 168456,
+      "num": 175688,
+      "word": "唐朝诡事录 去天尺五",
+      "onboard_time": 1763476583,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -26563,14 +26603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147434,
-      "num": 147434,
-      "word": "韩国外交部发表声明",
-      "onboard_time": 1763476763,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147408,
       "num": 186134,
       "word": "龚俊暗河传拿了一周榜1",
@@ -27912,6 +27944,14 @@
       "word": "白鹿说友谊超过七年将持续一生",
       "onboard_time": 1763008462,
       "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 141048,
+      "num": 141048,
+      "word": "张艺兴我的网课搭子",
+      "onboard_time": 1763478982,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -29937,6 +29977,14 @@
       "onboard_time": 1762004663,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133553,
+      "num": 147666,
+      "word": "王安宇回应疯狂动物城2配音",
+      "onboard_time": 1763479283,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 133474,
@@ -38227,14 +38275,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 109079,
-      "num": 175688,
-      "word": "唐朝诡事录 去天尺五",
-      "onboard_time": 1763476583,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109072,
       "num": 109072,
       "word": "白鹿不愧是横店鹰眼",
@@ -38257,6 +38297,14 @@
       "onboard_time": 1762859721,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109016,
+      "num": 109016,
+      "word": "俞敏洪回应南极游",
+      "onboard_time": 1763478382,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 108943,
@@ -42491,6 +42539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99381,
+      "num": 138493,
+      "word": "任嘉伦古装仪态",
+      "onboard_time": 1763478683,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99355,
       "num": 99355,
       "word": "朱开爆料FPX退出LPL",
@@ -45523,6 +45579,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93118,
+      "num": 93118,
+      "word": "山东女团晋级决赛",
+      "onboard_time": 1763479283,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93108,
       "num": 93108,
       "word": "李施嬅 病态情感需求",
@@ -45752,6 +45816,14 @@
       "word": "樊振东孙颖莎汪顺高能量壁纸",
       "onboard_time": 1762331060,
       "rank": 42,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92636,
+      "num": 92636,
+      "word": "乒乓球女团河北山东争冠",
+      "onboard_time": 1763479162,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -50607,6 +50679,14 @@
       "num": 82238,
       "word": "演员王一博的人生镜头",
       "onboard_time": 1761983059,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82223,
+      "num": 92594,
+      "word": "辛云来耳骨夹是弹簧做的",
+      "onboard_time": 1763479762,
       "rank": 49,
       "category": "艺人"
     },
@@ -57763,6 +57843,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 54515,
+      "num": 110368,
+      "word": "广东一茶水室惊现剧毒蛇",
+      "onboard_time": 1763479102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54507,
       "num": 174250,
       "word": "自驾西藏的easy模式",
@@ -58131,6 +58219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52562,
+      "num": 110368,
+      "word": "菲律宾总统被亲姐指控吸毒成瘾",
+      "onboard_time": 1763479224,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52532,
       "num": 109996,
       "word": "乐华娱乐今年只发了3次王一博",
@@ -58319,6 +58415,14 @@
       "num": 81903,
       "word": "脚手架垮塌遇难者父亲发声",
       "onboard_time": 1762270579,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51341,
+      "num": 109388,
+      "word": "速冻广东人",
+      "onboard_time": 1763478504,
       "rank": 41,
       "category": "民生新闻"
     },
@@ -62625,6 +62729,14 @@
       "onboard_time": 1762711336,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 30393,
+      "num": 110375,
+      "word": "公厕被打女孩转回老家医院治疗",
+      "onboard_time": 1763479043,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30262,

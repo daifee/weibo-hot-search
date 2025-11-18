@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763477136750,
+  "endTime": 1763479841474,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -123,6 +123,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 860789,
+      "num": 219008,
+      "word": "金鸡奖 奖金",
+      "onboard_time": 1763475623,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 790021,
       "num": 229743,
       "word": "曝张极私联粉丝",
@@ -176,6 +184,14 @@
       "word": "高市早苗不思悔改拒不撤回",
       "onboard_time": 1763443581,
       "rank": 44,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 653343,
+      "num": 151469,
+      "word": "韩国外交部发表声明",
+      "onboard_time": 1763476763,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -369,14 +385,6 @@
       "onboard_time": 1763450482,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 470284,
-      "num": 219008,
-      "word": "金鸡奖 奖金",
-      "onboard_time": 1763475623,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 458816,
@@ -651,6 +659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 345878,
+      "num": 173094,
+      "word": "王楚钦这我能告诉你吗",
+      "onboard_time": 1763476825,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 340874,
       "num": 340874,
       "word": "女子网购玩偶发现眼睛内疑有摄像头",
@@ -673,6 +689,14 @@
       "onboard_time": 1763441243,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 334944,
+      "num": 334944,
+      "word": "约49.1万张飞往日本机票取消",
+      "onboard_time": 1763478504,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 333798,
@@ -1043,6 +1067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 222362,
+      "num": 149242,
+      "word": "本周狗屎运最旺的星座",
+      "onboard_time": 1763478624,
+      "rank": 14,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220058,
       "num": 211247,
       "word": "建议大家嘴馋了要这样吃",
@@ -1073,14 +1105,6 @@
       "onboard_time": 1763475265,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 210558,
-      "num": 173094,
-      "word": "王楚钦这我能告诉你吗",
-      "onboard_time": 1763476825,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 210404,
@@ -1331,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 183098,
+      "num": 183098,
+      "word": "Doinb宣布明年不打LPL",
+      "onboard_time": 1763478444,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183044,
       "num": 183044,
       "word": "彭小苒哭出了漫画里才有的泪眼",
@@ -1505,6 +1537,14 @@
       "onboard_time": 1763443641,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 168456,
+      "num": 175688,
+      "word": "唐朝诡事录 去天尺五",
+      "onboard_time": 1763476583,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 168158,
@@ -1755,14 +1795,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 147434,
-      "num": 147434,
-      "word": "韩国外交部发表声明",
-      "onboard_time": 1763476763,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 147241,
       "num": 147241,
       "word": "哇唧唧哇男团说进公司是为了追老板",
@@ -1825,6 +1857,14 @@
       "onboard_time": 1763440583,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 141048,
+      "num": 141048,
+      "word": "张艺兴我的网课搭子",
+      "onboard_time": 1763478982,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 140961,
@@ -1953,6 +1993,14 @@
       "onboard_time": 1763430980,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133553,
+      "num": 147666,
+      "word": "王安宇回应疯狂动物城2配音",
+      "onboard_time": 1763479283,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 132026,
@@ -2435,12 +2483,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 109079,
-      "num": 175688,
-      "word": "唐朝诡事录 去天尺五",
-      "onboard_time": 1763476583,
-      "rank": 28,
-      "category": "剧集"
+      "raw_hot": 109016,
+      "num": 109016,
+      "word": "俞敏洪回应南极游",
+      "onboard_time": 1763478382,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 108668,
@@ -2683,6 +2731,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 99381,
+      "num": 138493,
+      "word": "任嘉伦古装仪态",
+      "onboard_time": 1763478683,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98924,
       "num": 98924,
       "word": "石智勇宣布退役",
@@ -2843,6 +2899,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 93118,
+      "num": 93118,
+      "word": "山东女团晋级决赛",
+      "onboard_time": 1763479283,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 92636,
+      "num": 92636,
+      "word": "乒乓球女团河北山东争冠",
+      "onboard_time": 1763479162,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92070,
       "num": 119340,
       "word": "黑龙江男团晋级四强",
@@ -2977,6 +3049,14 @@
       "onboard_time": 1763429901,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82223,
+      "num": 92594,
+      "word": "辛云来耳骨夹是弹簧做的",
+      "onboard_time": 1763479762,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 81131,
@@ -3251,12 +3331,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54515,
+      "num": 110368,
+      "word": "广东一茶水室惊现剧毒蛇",
+      "onboard_time": 1763479102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53424,
       "num": 94773,
       "word": "家属要求彻查女婴手术去世事件",
       "onboard_time": 1763445802,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52562,
+      "num": 110368,
+      "word": "菲律宾总统被亲姐指控吸毒成瘾",
+      "onboard_time": 1763479224,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52322,
@@ -3281,6 +3377,14 @@
       "onboard_time": 1763448022,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51341,
+      "num": 109388,
+      "word": "速冻广东人",
+      "onboard_time": 1763478504,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51049,
@@ -3601,6 +3705,14 @@
       "onboard_time": 1763449282,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 30393,
+      "num": 110375,
+      "word": "公厕被打女孩转回老家医院治疗",
+      "onboard_time": 1763479043,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30200,
