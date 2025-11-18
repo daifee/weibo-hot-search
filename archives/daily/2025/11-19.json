@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763486784090,
+  "endTime": 1763487772198,
   "band_list": [
     {
       "raw_hot": 592220,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 361026,
-      "num": 143401,
+      "num": 357243,
       "word": "中方说了三个绝不允许",
       "onboard_time": 1763481680,
       "rank": 12,
@@ -104,6 +104,14 @@
       "word": "74岁老太杀73岁老太藏尸案将开庭",
       "onboard_time": 1763469444,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138967,
+      "num": 126214,
+      "word": "骑车被狗绊倒女生已做开颅手术",
+      "onboard_time": 1763484378,
+      "rank": 29,
       "category": "民生新闻"
     },
     {
@@ -169,14 +177,6 @@
       "onboard_time": 1763464162,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95186,
-      "num": 126214,
-      "word": "骑车被狗绊倒女生已做开颅手术",
-      "onboard_time": 1763484378,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 90844,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49206,
+      "num": 65214,
+      "word": "曝双一线情侣还好着",
+      "onboard_time": 1763484799,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48151,
       "num": 127850,
       "word": "推特崩了",
@@ -395,16 +403,8 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 47628,
-      "num": 64309,
-      "word": "曝双一线情侣还好着",
-      "onboard_time": 1763484799,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 46185,
-      "num": 64232,
+      "num": 65024,
       "word": "这样的说话方式很旺自己",
       "onboard_time": 1763485217,
       "rank": 31,
@@ -444,11 +444,27 @@
     },
     {
       "raw_hot": 33267,
-      "num": 63904,
+      "num": 64876,
       "word": "老人上门捡纸壳顺走业主2000元新鞋",
       "onboard_time": 1763485938,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30296,
+      "num": 64924,
+      "word": "檀健次allblack也硬帅",
+      "onboard_time": 1763486836,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 26250,
+      "num": 64843,
+      "word": "枭起青壤预约量破400万",
+      "onboard_time": 1763486957,
+      "rank": 46,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
