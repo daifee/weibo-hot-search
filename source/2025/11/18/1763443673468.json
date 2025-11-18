@@ -1,0 +1,410 @@
+{
+  "runTime": 1763443673468,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 636605,
+        "num": 1101856,
+        "word": "中国游客不来了让人不安",
+        "onboard_time": 1763426422,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 608181,
+        "num": 608181,
+        "word": "我国人口发展出现了新特征",
+        "onboard_time": 1763439323,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20513,
+        "num": 503634,
+        "word": "十五运今日看点",
+        "onboard_time": 1763437342,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 622158,
+        "num": 457321,
+        "word": "蒋欣 干嘛假孕争宠啊",
+        "onboard_time": 1763440643,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 399146,
+        "num": 399146,
+        "word": "梁靖崑vs樊振东",
+        "onboard_time": 1763434460,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 279848,
+        "num": 279848,
+        "word": "联合国立场是台湾是中国一个省",
+        "onboard_time": 1763436262,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256104,
+        "num": 256104,
+        "word": "王俊凯王源包场易烊千玺新片",
+        "onboard_time": 1763441183,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223535,
+        "num": 223535,
+        "word": "唐诡3昨晚真是乱成一锅粥了",
+        "onboard_time": 1763438423,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 220403,
+        "num": 220403,
+        "word": "孙颖莎vs陈幸同",
+        "onboard_time": 1763442324,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 217630,
+        "num": 217630,
+        "word": "高市早苗同时得罪四国",
+        "onboard_time": 1763427802,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 544904,
+        "num": 216364,
+        "word": "女婴心脏手术去世外婆担心女儿",
+        "onboard_time": 1763440164,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 335280,
+        "num": 213008,
+        "word": "潘展乐晒一床大湾鸡",
+        "onboard_time": 1763441243,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301004,
+        "num": 211819,
+        "word": "肖战扶车倒一排",
+        "onboard_time": 1763438662,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289382,
+        "num": 210192,
+        "word": "全职宝妈打赏男主播67万丈夫痛哭",
+        "onboard_time": 1763434881,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274097,
+        "num": 206293,
+        "word": "60岁孕妇剖腹产生下男婴",
+        "onboard_time": 1763437221,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253734,
+        "num": 205245,
+        "word": "彭小苒隐形眼镜滑片了",
+        "onboard_time": 1763441002,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202980,
+        "num": 202980,
+        "word": "龚俊说迪丽热巴可爱的含金量还在上升",
+        "onboard_time": 1763443641,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198975,
+        "num": 198975,
+        "word": "papi酱怀孕时也会抓着老公吵架",
+        "onboard_time": 1763436323,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197919,
+        "num": 197919,
+        "word": "12306回应列车停站292分钟",
+        "onboard_time": 1763435721,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54413,
+        "num": 197539,
+        "word": "离世女婴家属称手术耗时7小时",
+        "onboard_time": 1763442922,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652940,
+        "num": 196949,
+        "word": "王中磊夫妇 短视频",
+        "onboard_time": 1763442023,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519859,
+        "num": 196847,
+        "word": "迪丽热巴陈星旭坐腿吻",
+        "onboard_time": 1763435060,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240600,
+        "num": 195893,
+        "word": "无限暖暖一箭封神",
+        "onboard_time": 1763442862,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 195823,
+        "num": 195823,
+        "word": "易烊千玺阿波罗预告",
+        "onboard_time": 1763442800,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193597,
+        "num": 193597,
+        "word": "白敬亭 别让举铁的人玩这些",
+        "onboard_time": 1763438844,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188502,
+        "num": 188502,
+        "word": "马吟吟做了子宫肌瘤开腹手术",
+        "onboard_time": 1763441842,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192726,
+        "num": 187852,
+        "word": "子阳结婚",
+        "onboard_time": 1763438302,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187201,
+        "num": 187201,
+        "word": "唐诡喜追风尺度最大一集",
+        "onboard_time": 1763442622,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175682,
+        "num": 175682,
+        "word": "孙颖莎3比0陈幸同",
+        "onboard_time": 1763443101,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160736,
+        "num": 173669,
+        "word": "乒乓女团河北3比1辽宁",
+        "onboard_time": 1763442144,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173449,
+        "num": 173449,
+        "word": "TF三代 打断骨头连着筋",
+        "onboard_time": 1763443041,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173161,
+        "num": 173161,
+        "word": "孙天宇高考成绩震惊张呈",
+        "onboard_time": 1763443101,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171289,
+        "num": 171289,
+        "word": "对不起胡歌这我真看不了",
+        "onboard_time": 1763437702,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161845,
+        "num": 161845,
+        "word": "俞敏洪连发6条南极游视频",
+        "onboard_time": 1763436323,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157953,
+        "num": 157953,
+        "word": "戒掉咖啡一个月的身体变化",
+        "onboard_time": 1763442441,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152210,
+        "num": 152210,
+        "word": "中日关系和普通人息息相关",
+        "onboard_time": 1763441724,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141896,
+        "num": 141896,
+        "word": "上海98元一根的萝卜",
+        "onboard_time": 1763437281,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 22863,
+        "num": 141509,
+        "word": "降低生育负担不妨多一些直付模式",
+        "onboard_time": 1763443462,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30200,
+        "num": 141496,
+        "word": "刘宇宁被叫顶流的反应",
+        "onboard_time": 1763443224,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 141483,
+        "num": 141483,
+        "word": "冰岛未来可能真要变冰岛",
+        "onboard_time": 1763440583,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 138928,
+        "num": 138928,
+        "word": "Scout疑似重返LCK",
+        "onboard_time": 1763440823,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138093,
+        "num": 138093,
+        "word": "确认暂缓日本进口片上映",
+        "onboard_time": 1763426842,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133524,
+        "num": 133524,
+        "word": "女子把洗好的袜子通通叠成蘑菇状",
+        "onboard_time": 1763431041,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125215,
+        "num": 125215,
+        "word": "高市早苗成为日本危机",
+        "onboard_time": 1763443401,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124336,
+        "num": 124336,
+        "word": "高市早苗不思悔改拒不撤回",
+        "onboard_time": 1763443581,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121706,
+        "num": 121706,
+        "word": "女子同事群八卦领导私生活被开除",
+        "onboard_time": 1763431161,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120897,
+        "num": 120897,
+        "word": "全球资产集体大跌",
+        "onboard_time": 1763443641,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 120454,
+        "num": 120454,
+        "word": "穿卫衣就扎流苏丸子头",
+        "onboard_time": 1763443641,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 115834,
+        "num": 119839,
+        "word": "日经225指数跌破49000点",
+        "onboard_time": 1763442800,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 45492,
+        "num": 119417,
+        "word": "菲律宾持续爆发超大规模游行",
+        "onboard_time": 1763442023,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记引领法治中国建设阔步前行#"
+    }
+  }
+}
