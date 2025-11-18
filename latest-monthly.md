@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 17:43:46
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 18:31:39
 </p>
 </blockquote>
 <p>
@@ -3225,6 +3225,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E7%BC%BA%E9%98%B5%E5%A5%B3%E5%9B%A2%E5%8D%8A%E5%86%B3%E8%B5%9B%23" target="weibo">
+王曼昱缺阵女团半决赛（热度：603532）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A6%83%E6%B5%B7%E6%B4%8B50%E8%9B%99%E7%8A%AF%E8%A7%84%E8%A2%AB%E5%8F%96%E6%B6%88%E6%88%90%E7%BB%A9%23" target="weibo">
 覃海洋50蛙犯规被取消成绩（热度：602921）
 </a>
@@ -5769,6 +5775,12 @@ Faker发博晒经典夺冠表情（热度：418029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%23" target="weibo">
+逐玉（热度：415146）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E5%9B%9E%E5%BA%94%E7%9B%B8%E4%BA%B2%E4%BA%89%E8%AE%AE%23" target="weibo">
 影视飓风Tim回应相亲争议（热度：415051）
 </a>
@@ -5999,18 +6011,6 @@ papi酱怀孕时也会抓着老公吵架（热度：410927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%94%B7%E7%8E%8B%E5%B9%BF%23" target="weibo">
 王男王广（热度：404318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9D%9E%E6%B4%B2%E5%8F%91%E7%94%9F%E5%A4%A7%E5%B1%A0%E6%9D%80%E4%B8%8A%E5%8D%83%E5%90%8D%E5%B9%B3%E6%B0%91%E9%81%87%E5%AE%B3%23" target="weibo">
-非洲发生大屠杀上千名平民遇害（热度：404255）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A9%97%E4%BA%A7%E5%90%8E%E8%BA%AB%E6%9D%90%20%E5%83%8F%E6%B2%A1%E7%94%9F%E8%BF%87%23" target="weibo">
-何穗产后身材 像没生过（热度：404196）
 </a>
 </li>
 

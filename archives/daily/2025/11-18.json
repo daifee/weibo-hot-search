@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763459026934,
+  "endTime": 1763461899249,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 603532,
+      "num": 603532,
+      "word": "王曼昱缺阵女团半决赛",
+      "onboard_time": 1763460922,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 596163,
       "num": 248353,
       "word": "易烊千玺李庚希咬脖戏",
@@ -347,6 +355,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 415146,
+      "num": 415146,
+      "word": "逐玉",
+      "onboard_time": 1763459182,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 413226,
       "num": 413226,
       "word": "樊振东3比2胜梁靖崑",
@@ -409,6 +425,14 @@
       "onboard_time": 1763437702,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 372187,
+      "num": 372187,
+      "word": "王安宇疯狂动物城配音",
+      "onboard_time": 1763457323,
+      "rank": 28,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 366799,
@@ -531,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307746,
+      "num": 218404,
+      "word": "曝顶流明星曾边上厕所边吃饭",
+      "onboard_time": 1763460443,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300116,
       "num": 253159,
       "word": "冷美人恢复良好只是头发缠成块",
@@ -553,6 +585,14 @@
       "onboard_time": 1763448741,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 289840,
+      "num": 250215,
+      "word": "冷美人获超38000元奖金",
+      "onboard_time": 1763460622,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 288378,
@@ -635,12 +675,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 265528,
+      "num": 216534,
+      "word": "韩国警告日本绝对无法容忍",
+      "onboard_time": 1763458104,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 265337,
       "num": 376470,
       "word": "高市早苗成为日本危机",
       "onboard_time": 1763443401,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 261073,
+      "num": 215855,
+      "word": "曝二字女星录节目迟到不回消息",
+      "onboard_time": 1763461225,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 260244,
@@ -683,6 +739,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 238431,
+      "num": 238431,
+      "word": "原来娇奴在唐诡1就出现过了",
+      "onboard_time": 1763459361,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236454,
       "num": 236454,
       "word": "专家称给日本100个胆都不敢进攻中国",
@@ -715,12 +779,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223977,
+      "num": 207328,
+      "word": "朱雨玲采访",
+      "onboard_time": 1763459902,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223563,
       "num": 223563,
       "word": "该和日本聊聊琉球了",
       "onboard_time": 1763427982,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 220058,
+      "num": 211247,
+      "word": "建议大家嘴馋了要这样吃",
+      "onboard_time": 1763460742,
+      "rank": 26,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 218889,
@@ -1155,14 +1235,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 155853,
-      "num": 192155,
-      "word": "王安宇疯狂动物城配音",
-      "onboard_time": 1763457323,
-      "rank": 28,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 155630,
       "num": 155630,
       "word": "最强吃货搭子找到了",
@@ -1216,14 +1288,6 @@
       "word": "中日关系和普通人息息相关",
       "onboard_time": 1763441724,
       "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 152036,
-      "num": 152036,
-      "word": "韩国警告日本绝对无法容忍",
-      "onboard_time": 1763458104,
-      "rank": 47,
       "category": "国际时政"
     },
     {
@@ -1281,6 +1345,14 @@
       "onboard_time": 1763446222,
       "rank": 36,
       "category": "数码"
+    },
+    {
+      "raw_hot": 145818,
+      "num": 145818,
+      "word": "小米财报",
+      "onboard_time": 1763459723,
+      "rank": 33,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 145764,
@@ -1417,6 +1489,14 @@
       "onboard_time": 1763435301,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131029,
+      "num": 131029,
+      "word": "时代峰峻发声明否认张极私联",
+      "onboard_time": 1763456963,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 128238,
@@ -1619,6 +1699,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117257,
+      "num": 115698,
+      "word": "王曼昱孙颖莎将再次巅峰对决",
+      "onboard_time": 1763460922,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 116579,
+      "num": 116579,
+      "word": "彭小苒 内娱女菩萨",
+      "onboard_time": 1763461762,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116508,
       "num": 142026,
       "word": "垫底辣孩 中国百年婚礼图鉴",
@@ -1648,6 +1744,14 @@
       "word": "姜思达穿婚纱",
       "onboard_time": 1763452823,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114964,
+      "num": 114964,
+      "word": "西安偶遇大唐男模杨旭文",
+      "onboard_time": 1763461399,
+      "rank": 42,
       "category": "艺人"
     },
     {
@@ -1771,6 +1875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104240,
+      "num": 104240,
+      "word": "刘劲松与日本外务省官员会面",
+      "onboard_time": 1763461102,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 104171,
       "num": 104171,
       "word": "燃气热水器竟然是明火加热",
@@ -1819,6 +1931,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 102048,
+      "num": 102048,
+      "word": "小米三季度净利润113.11亿",
+      "onboard_time": 1763459663,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 101191,
+      "num": 101191,
+      "word": "高德扫街榜发布四川top100餐厅",
+      "onboard_time": 1763460382,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 100781,
       "num": 167951,
       "word": "赵晴哭戏破碎感要溢出屏幕了",
@@ -1843,6 +1971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98733,
+      "num": 141839,
+      "word": "河南疑似有无人配送车撞倒骑警",
+      "onboard_time": 1763457563,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 98694,
       "num": 140284,
       "word": "金饰克价跌到1289元",
@@ -1865,6 +2001,14 @@
       "onboard_time": 1763451562,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 98151,
+      "num": 98151,
+      "word": "中国外交部发声",
+      "onboard_time": 1763461642,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 97559,
@@ -2115,6 +2259,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76443,
+      "num": 281219,
+      "word": "我国战机越来越好开了",
+      "onboard_time": 1763460862,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 76039,
       "num": 78172,
       "word": "李冰洁 赛前真的有在努力了",
@@ -2171,12 +2323,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 68000,
-      "num": 141839,
-      "word": "河南疑似有无人配送车撞倒骑警",
-      "onboard_time": 1763457563,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 67780,
+      "num": 218971,
+      "word": "奥迪开启赛车新征程",
+      "onboard_time": 1763460503,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 66732,
@@ -2225,6 +2377,14 @@
       "onboard_time": 1763397978,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62612,
+      "num": 219312,
+      "word": "中日陷入外交危机责任完全在日方",
+      "onboard_time": 1763460742,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59986,
@@ -2507,6 +2667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35239,
+      "num": 636245,
+      "word": "用AI打开神秘三星堆",
+      "onboard_time": 1763461822,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34140,
       "num": 40966,
       "word": "长大的感受",
@@ -2623,6 +2791,14 @@
       "num": 671779,
       "word": "C919和C909首次亮相中东",
       "onboard_time": 1763375423,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 23048,
+      "num": 616148,
+      "word": "北京全新坐标",
+      "onboard_time": 1763460862,
       "rank": 2,
       "category": "国内时政"
     },
