@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/18 23:45:35
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/19 00:37:21
 </p>
 </blockquote>
 <p>
@@ -1127,6 +1127,12 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Amy%E5%A7%90%E6%9B%9D%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%AE%A3%E4%BA%91%E6%81%8B%E7%88%B1%E5%86%85%E5%B9%95%23" target="weibo">
 Amy姐曝潘玮柏宣云恋爱内幕（热度：436484）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E8%BF%91%E6%9C%9F%E7%94%9F%E6%95%88%23" target="weibo">
+普京称中国公民免签政策近期生效（热度：435319）
 </a>
 </li>
 
@@ -2499,6 +2505,12 @@ T1官宣Doran续约（热度：215804）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E7%A2%B0%E5%BE%97%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23" target="weibo">
+专家称日本高官来华碰得头破血流（热度：214182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E8%AF%B4%E7%94%B7%E5%8D%95%E8%BE%93%E4%BA%86%E6%83%85%E7%BB%AA%E4%B8%8D%E9%AB%98%23" target="weibo">
 王楚钦说男单输了情绪不高（热度：213828）
 </a>
@@ -2573,6 +2585,12 @@ T1官宣Doran续约（热度：215804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%E5%88%98%E6%B5%B7%E6%80%8E%E4%B9%88%E8%B6%8A%E8%B7%B3%E8%B6%8A%E9%95%BF%23" target="weibo">
 杨博文刘海怎么越跳越长（热度：208020）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%9B%9E%E5%BA%94%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%85%8D%E9%9F%B3%23" target="weibo">
+王安宇回应疯狂动物城2配音（热度：207406）
 </a>
 </li>
 
@@ -3225,6 +3243,12 @@ zeus（热度：183299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E8%AF%B4%E4%BA%86%E4%B8%89%E4%B8%AA%E7%BB%9D%E4%B8%8D%E5%85%81%E8%AE%B8%23" target="weibo">
+中方说了三个绝不允许（热度：182043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E4%B8%9C%E8%A5%BF%23" target="weibo">
 好东西（热度：181728）
 </a>
@@ -3611,12 +3635,6 @@ TF三代 打断骨头连着筋（热度：173449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%23" target="weibo">
 中国游客近期避免前往日本旅游（热度：166201）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%9B%9E%E5%BA%94%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%85%8D%E9%9F%B3%23" target="weibo">
-王安宇回应疯狂动物城2配音（热度：166196）
 </a>
 </li>
 
@@ -6927,6 +6945,12 @@ iPhone17Pro掉色门问题再发酵（热度：74167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E5%8F%8D%E5%88%B6%E7%BB%84%E5%90%88%E6%8B%B3%E7%B2%BE%E5%87%86%E5%88%B0%E4%BD%8D%23" target="weibo">
+中方对日反制组合拳精准到位（热度：73727）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E1%E6%AF%943%E8%90%BD%E5%90%8E%E5%87%BA%E5%8E%BB%E6%8D%A2%E4%BA%86%E4%BB%B6%E8%A1%A3%E6%9C%8D%23" target="weibo">
 孙颖莎1比3落后出去换了件衣服（热度：73663）
 </a>
@@ -7125,6 +7149,12 @@ U22国足vs乌兹别克斯坦U22（热度：69158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E5%A1%94%E5%BA%86%E7%A5%9D%E5%BC%A0%E5%8D%9A%E6%81%92%E5%8D%95%E6%9D%A0%E5%A4%BA%E5%86%A0%23" target="weibo">
+广州塔庆祝张博恒单杠夺冠（热度：64299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%88%98%E8%B4%A580%E5%B9%B4%E5%90%8E%E4%BC%BC%E4%B9%8E%E6%83%B3%E5%9B%9E%E5%88%B0%E4%BB%8E%E5%89%8D%23" target="weibo">
 日本战败80年后似乎想回到从前（热度：63978）
 </a>
@@ -7257,12 +7287,6 @@ C919和C909首次亮相中东（热度：58900）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E7%A2%B0%E5%BE%97%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23" target="weibo">
-专家称日本高官来华碰得头破血流（热度：58375）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%81%E6%98%AF%E9%83%91%E9%92%A6%E6%96%87%E7%9A%84%E6%9C%80%E4%BD%B3%E6%8B%8D%E6%A1%A3%23" target="weibo">
 谁是郑钦文的最佳拍档（热度：57591）
 </a>
@@ -7293,14 +7317,20 @@ C919和C909首次亮相中东（热度：58900）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E8%BF%91%E6%9C%9F%E7%94%9F%E6%95%88%23" target="weibo">
-普京称中国公民免签政策近期生效（热度：55063）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%99%B6%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%8F%AF%E8%83%BD%E6%98%AF%E4%B8%8B%E4%B8%80%E4%B8%AA%E5%91%A8%E6%B6%A6%E5%8F%91%23" target="weibo">
+王晶说易烊千玺可能是下一个周润发（热度：55205）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%AE%8B%E7%96%BE%E4%BA%BA%E5%AD%A6%E6%A0%A1%E5%86%8D%E7%8E%B0%E7%86%94%E7%82%89%E6%83%85%E8%8A%82%23" target="weibo">
 韩国残疾人学校再现熔炉情节（热度：54812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%B5%B4%E4%BF%84%E5%85%8D%E7%AD%BE%E5%B0%86%E7%94%9F%E6%95%88%23" target="weibo">
+中国公民赴俄免签将生效（热度：54734）
 </a>
 </li>
 
@@ -7343,12 +7373,6 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E4%BA%B2%E8%87%AA%E5%AE%8C%E6%88%90%E7%99%BE%E5%88%86%E4%B9%8B%E4%B9%9D%E5%8D%81%E6%89%93%E6%88%8F%23" target="weibo">
 迪丽热巴亲自完成百分之九十打戏（热度：53324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E5%8F%8D%E5%88%B6%E7%BB%84%E5%90%88%E6%8B%B3%E7%B2%BE%E5%87%86%E5%88%B0%E4%BD%8D%23" target="weibo">
-中方对日反制组合拳精准到位（热度：53260）
 </a>
 </li>
 
@@ -7397,6 +7421,12 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E9%9B%A8%E6%98%95Dior%E7%9F%9C%E8%B4%B5%E8%8C%83%23" target="weibo">
 刘雨昕Dior矜贵范（热度：51725）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E5%B9%B4%E5%BA%A6%E5%BD%B1%E5%93%8D%E5%8A%9B%E7%B2%89%E4%B8%9D%E5%9B%A2%E8%AF%84%E9%80%89%23" target="weibo">
+微博年度影响力粉丝团评选（热度：51655）
 </a>
 </li>
 
@@ -7673,6 +7703,12 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%9B%BC%E6%98%B1%E8%AF%B4%E5%80%BC%E5%BE%97%E6%80%BB%E7%BB%93%E7%9A%84%E4%B8%80%E5%9C%BA%E7%90%83%23" target="weibo">
 王曼昱说值得总结的一场球（热度：41270）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E5%B7%9E%E9%95%BF%E9%9A%86%E9%A3%9E%E8%BD%A6%E8%A1%A8%E6%BC%94%E6%92%9E%E4%B8%8A%E9%93%81%E7%AC%BC%E6%BC%94%E5%91%98%E6%91%94%E5%80%92%23" target="weibo">
+广州长隆飞车表演撞上铁笼演员摔倒（热度：41237）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 23:45:35
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 00:37:21
 </p>
 </blockquote>
 <p>
@@ -5547,6 +5547,12 @@ Amy姐曝潘玮柏宣云恋爱内幕（热度：436484）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E8%BF%91%E6%9C%9F%E7%94%9F%E6%95%88%23" target="weibo">
+普京称中国公民免签政策近期生效（热度：435319）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A1%AE%E8%AE%A4%E6%9A%82%E7%BC%93%E6%97%A5%E6%9C%AC%E8%BF%9B%E5%8F%A3%E7%89%87%E4%B8%8A%E6%98%A0%23" target="weibo">
 确认暂缓日本进口片上映（热度：434347）
 </a>
@@ -6005,12 +6011,6 @@ papi酱怀孕时也会抓着老公吵架（热度：410927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%B7%B7%E6%88%98%E6%BC%94%E4%B9%A0%E6%97%81%E8%BE%B9%E5%A4%A7%E9%B7%84%E6%8E%92%E6%91%8A%E4%BD%8D%E4%BA%AE%E4%BA%86%23" target="weibo">
 解放军巷战演习旁边大鷄排摊位亮了（热度：409941）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%20%E6%80%80%E5%AD%95%E4%BA%86%E4%B8%80%E5%AE%9A%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E5%91%8A%E8%AF%89%E5%A4%A7%E5%AE%B6%23" target="weibo">
-徐冬冬 怀孕了一定大大方方告诉大家（热度：409618）
 </a>
 </li>
 
