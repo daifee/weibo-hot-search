@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 11:19:22
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 11:34:51
 </p>
 </blockquote>
 <p>
@@ -1827,6 +1827,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E6%98%9F%E6%97%AD%E5%9D%90%E8%85%BF%E5%90%BB%23" target="weibo">
+迪丽热巴陈星旭坐腿吻（热度：789276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%A6%E9%BE%99%E9%A3%9E%20%E5%8F%8C%E7%88%B9%E5%B8%A6%E5%A8%83%E7%9A%84%E4%B8%80%E5%A4%A9%23" target="weibo">
 符龙飞 双爹带娃的一天（热度：789045）
 </a>
@@ -2015,6 +2021,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%86%E5%90%8E%E5%87%BA%E7%89%87%E5%83%8F%E5%91%BC%E5%90%B8%E4%B8%80%E6%A0%B7%E7%AE%80%E5%8D%95%23" target="weibo">
 瘦了后出片像呼吸一样简单（热度：755616）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
+梁靖崑vs樊振东（热度：755601）
 </a>
 </li>
 
@@ -4407,6 +4419,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%81%8C%E5%AE%9D%E5%A6%88%E6%89%93%E8%B5%8F%E7%94%B7%E4%B8%BB%E6%92%AD67%E4%B8%87%E4%B8%88%E5%A4%AB%E7%97%9B%E5%93%AD%23" target="weibo">
+全职宝妈打赏男主播67万丈夫痛哭（热度：493182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%9B%9E%E5%BA%94%E5%A9%9A%E7%A4%BC%E9%A4%90%E6%A0%87%23" target="weibo">
 董璇回应婚礼餐标（热度：492972）
 </a>
@@ -4889,12 +4907,6 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%8E%A5%E8%BF%98%E7%8F%A0%E5%9B%9E%E5%AE%AB%23" target="weibo">
 湖南卫视接还珠回宫（热度：463450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
-梁靖崑vs樊振东（热度：462995）
 </a>
 </li>
 
@@ -5739,6 +5751,12 @@ Faker发博晒经典夺冠表情（热度：418029）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E8%AF%B4%E6%9C%B5%E6%9C%B5%E5%B0%8F%E9%85%92%E7%AA%9D%E9%95%BF%E5%A4%A7%E5%90%8E%E5%B0%B1%E6%98%AF%E6%9D%A8%E7%B4%AB%E5%92%8C%E5%BC%A0%E4%B8%80%E5%B1%B1%23" target="weibo">
+董璇说朵朵小酒窝长大后就是杨紫和张一山（热度：407629）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E8%8E%B7%E5%A5%96%E8%A1%A8%E6%83%85%23" target="weibo">
 王传君获奖表情（热度：407626）
 </a>
@@ -5993,24 +6011,6 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%BC%BA%E7%9A%84%E4%B8%8D%E6%98%AF%E5%8F%A3%E7%BA%A2%E8%80%8C%E6%98%AF%E5%8F%98%E7%BE%8E%E5%85%AC%E5%BC%8F%23" target="weibo">
 你缺的不是口红而是变美公式（热度：395036）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%88%91%E8%80%80%E7%9C%BC%E9%9B%86%E5%9D%876328%E4%B8%87%23" target="weibo">
-许我耀眼集均6328万（热度：394991）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
-奔跑吧（热度：393970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E4%B8%8E%E5%8A%A9%E7%90%86%E5%B0%B1%E6%98%AF%E7%8E%B0%E5%AE%9E%E7%89%88%E9%97%BA%E8%9C%9C%E4%BD%A0%E5%85%BB%E6%88%91%E5%90%A7%23" target="weibo">
-白鹿与助理就是现实版闺蜜你养我吧（热度：393883）
 </a>
 </li>
 

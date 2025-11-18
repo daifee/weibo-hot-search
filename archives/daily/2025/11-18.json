@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763435962008,
+  "endTime": 1763436891347,
   "band_list": [
     {
       "raw_hot": 1052179,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1007477,
-      "num": 240916,
+      "num": 320568,
       "word": "13999元华为手机掉火坑后还能用",
       "onboard_time": 1763433200,
       "rank": 10,
@@ -33,6 +33,22 @@
       "onboard_time": 1763388504,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 789276,
+      "num": 508196,
+      "word": "迪丽热巴陈星旭坐腿吻",
+      "onboard_time": 1763435060,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 755601,
+      "num": 755601,
+      "word": "梁靖崑vs樊振东",
+      "onboard_time": 1763434460,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 752979,
@@ -84,19 +100,19 @@
     },
     {
       "raw_hot": 495924,
-      "num": 240321,
+      "num": 319812,
       "word": "女子同事群八卦领导私生活被开除",
       "onboard_time": 1763431161,
       "rank": 12,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 462995,
-      "num": 462995,
-      "word": "梁靖崑vs樊振东",
-      "onboard_time": 1763434460,
-      "rank": 3,
-      "category": "体育"
+      "raw_hot": 493182,
+      "num": 320282,
+      "word": "全职宝妈打赏男主播67万丈夫痛哭",
+      "onboard_time": 1763434881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 434347,
@@ -115,6 +131,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 407629,
+      "num": 319895,
+      "word": "董璇说朵朵小酒窝长大后就是杨紫和张一山",
+      "onboard_time": 1763433320,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 386672,
       "num": 386672,
       "word": "日本扩军剑指中国",
@@ -123,28 +147,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 386151,
-      "num": 386151,
-      "word": "迪丽热巴陈星旭坐腿吻",
-      "onboard_time": 1763435060,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366799,
-      "num": 240179,
+      "num": 319591,
       "word": "女子把洗好的袜子通通叠成蘑菇状",
       "onboard_time": 1763431041,
       "rank": 30,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 361583,
-      "num": 239890,
-      "word": "董璇说朵朵小酒窝长大后就是杨紫和张一山",
-      "onboard_time": 1763433320,
-      "rank": 13,
-      "category": "综艺"
+      "raw_hot": 363412,
+      "num": 363412,
+      "word": "王楚钦马龙3比0速胜",
+      "onboard_time": 1763434041,
+      "rank": 6,
+      "category": "体育"
     },
     {
       "raw_hot": 353355,
@@ -179,6 +195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 332454,
+      "num": 332454,
+      "word": "疯狂动物城",
+      "onboard_time": 1763434399,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 326757,
       "num": 326757,
       "word": "T1官宣Gumayusi离队",
@@ -187,12 +211,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 314416,
-      "num": 314416,
-      "word": "王楚钦马龙3比0速胜",
-      "onboard_time": 1763434041,
-      "rank": 6,
-      "category": "体育"
+      "raw_hot": 309933,
+      "num": 309933,
+      "word": "王大陆出庭",
+      "onboard_time": 1763434520,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 308670,
@@ -200,14 +224,6 @@
       "word": "70后户外网红博主坠崖身亡",
       "onboard_time": 1763393721,
       "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289918,
-      "num": 239535,
-      "word": "全职宝妈打赏男主播67万丈夫痛哭",
-      "onboard_time": 1763434881,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -243,8 +259,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 240917,
-      "num": 240917,
+      "raw_hot": 241266,
+      "num": 241266,
       "word": "户外博主坠亡遗体被无人机运下山",
       "onboard_time": 1763426962,
       "rank": 44,
@@ -259,28 +275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 238902,
-      "num": 238902,
-      "word": "王大陆出庭",
-      "onboard_time": 1763434520,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236454,
       "num": 236454,
       "word": "专家称给日本100个胆都不敢进攻中国",
       "onboard_time": 1763425401,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 228494,
-      "num": 228494,
-      "word": "疯狂动物城",
-      "onboard_time": 1763434399,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 224920,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 190186,
-      "num": 195148,
+      "num": 310480,
       "word": "金锁一款很新的还珠大女主",
       "onboard_time": 1763435480,
       "rank": 28,
@@ -409,6 +409,14 @@
       "onboard_time": 1763386403,
       "rank": 13,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 186367,
+      "num": 186367,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1763435000,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 185265,
@@ -443,6 +451,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 172807,
+      "num": 242460,
+      "word": "12306回应列车停站292分钟",
+      "onboard_time": 1763435721,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172006,
+      "num": 172006,
+      "word": "papi酱怀孕时也会抓着老公吵架",
+      "onboard_time": 1763436323,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 169841,
       "num": 124531,
       "word": "森林北公布体检结果",
@@ -459,10 +483,10 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 157573,
-      "num": 157573,
-      "word": "蒯曼vs王曼昱",
-      "onboard_time": 1763435000,
+      "raw_hot": 164348,
+      "num": 164348,
+      "word": "陈幸同王艺迪2比3何卓佳王添艺",
+      "onboard_time": 1763436682,
       "rank": 32,
       "category": "体育"
     },
@@ -489,6 +513,14 @@
       "onboard_time": 1763390903,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153954,
+      "num": 153954,
+      "word": "中国军号全英文发文",
+      "onboard_time": 1763433500,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 153693,
@@ -531,6 +563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140470,
+      "num": 140470,
+      "word": "俞敏洪该思考为何能到南极看企鹅",
+      "onboard_time": 1763436501,
+      "rank": 34,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 138751,
       "num": 138751,
       "word": "只有没结婚的才知道她说的有多真",
@@ -547,6 +587,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135472,
+      "num": 135472,
+      "word": "谁家剧离婚证永远比结婚证多一本",
+      "onboard_time": 1763434580,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134901,
+      "num": 134901,
+      "word": "俞敏洪在南极发布全员信",
+      "onboard_time": 1763436323,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 133698,
       "num": 133698,
       "word": "957爆料Viper加入BLG",
@@ -555,20 +611,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133678,
-      "num": 133678,
-      "word": "谁家剧离婚证永远比结婚证多一本",
-      "onboard_time": 1763434580,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133578,
       "num": 133578,
       "word": "韩媒曝Gumayusi离队内部早已确定",
       "onboard_time": 1763430980,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131418,
+      "num": 131418,
+      "word": "吴敬平说樊振东在德甲取长补短",
+      "onboard_time": 1763435301,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 127827,
@@ -595,12 +651,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 122527,
-      "num": 122527,
-      "word": "吴敬平说樊振东在德甲取长补短",
-      "onboard_time": 1763435301,
-      "rank": 38,
-      "category": "体育"
+      "raw_hot": 121049,
+      "num": 121049,
+      "word": "时代峰峻包场易烊千玺电影",
+      "onboard_time": 1763436682,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 120635,
+      "num": 120635,
+      "word": "俞敏洪连发6条南极游视频",
+      "onboard_time": 1763436323,
+      "rank": 44,
+      "category": "互联网"
     },
     {
       "raw_hot": 118451,
@@ -633,6 +697,22 @@
       "onboard_time": 1763396358,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 108896,
+      "num": 108896,
+      "word": "iPhone17先天试衣圣体",
+      "onboard_time": 1763436741,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 108668,
+      "num": 108668,
+      "word": "考研人的背书方式",
+      "onboard_time": 1763436141,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 105820,
@@ -689,14 +769,6 @@
       "onboard_time": 1763421557,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101871,
-      "num": 101871,
-      "word": "中国军号全英文发文",
-      "onboard_time": 1763433500,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 100781,
@@ -849,6 +921,14 @@
       "onboard_time": 1763430022,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85403,
+      "num": 139032,
+      "word": "华为MateX7或将采用全新云锦材质",
+      "onboard_time": 1763436863,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 85039,
@@ -1083,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34357,
+      "num": 320839,
+      "word": "联合国立场是台湾是中国一个省",
+      "onboard_time": 1763436262,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 34140,
       "num": 40966,
       "word": "长大的感受",
@@ -1241,14 +1329,6 @@
       "onboard_time": 1763410273,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 6940,
-      "num": 224719,
-      "word": "12306回应列车停站292分钟",
-      "onboard_time": 1763435721,
-      "rank": 21,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
