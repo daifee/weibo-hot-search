@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763508329306,
+  "endTime": 1763509016169,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -708,7 +708,7 @@
     },
     {
       "raw_hot": 653343,
-      "num": 808494,
+      "num": 907589,
       "word": "韩国外交部发表声明",
       "onboard_time": 1763476763,
       "rank": 37,
@@ -2089,6 +2089,14 @@
       "onboard_time": 1763304143,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346383,
+      "num": 346383,
+      "word": "日方坐不住了",
+      "onboard_time": 1763508078,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 345878,
@@ -4851,6 +4859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165587,
+      "num": 165587,
+      "word": "王晶说易烊千玺可能是下一个周润发",
+      "onboard_time": 1763483599,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 165511,
       "num": 165511,
       "word": "易烊千玺将要触到一轮新朝阳",
@@ -4881,14 +4897,6 @@
       "onboard_time": 1763436682,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 163687,
-      "num": 163687,
-      "word": "日方坐不住了",
-      "onboard_time": 1763508078,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 163561,
@@ -5283,6 +5291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155349,
+      "num": 126214,
+      "word": "骑车被狗绊倒女生已做开颅手术",
+      "onboard_time": 1763484378,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155338,
       "num": 155338,
       "word": "北京队掌握了王楚钦使用手册",
@@ -5507,14 +5523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 151309,
-      "num": 126214,
-      "word": "骑车被狗绊倒女生已做开颅手术",
-      "onboard_time": 1763484378,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151286,
       "num": 151286,
       "word": "王一博喜欢钓鱼",
@@ -5649,14 +5657,6 @@
       "onboard_time": 1763347699,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 147249,
-      "num": 147249,
-      "word": "王晶说易烊千玺可能是下一个周润发",
-      "onboard_time": 1763483599,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 147241,
@@ -7715,6 +7715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110086,
+      "num": 120583,
+      "word": "美股",
+      "onboard_time": 1763508258,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 109782,
       "num": 109782,
       "word": "小洛熙妈妈",
@@ -8659,6 +8667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92633,
+      "num": 120657,
+      "word": "冷美人称头发像石头剪不下来了",
+      "onboard_time": 1763496494,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92117,
       "num": 124740,
       "word": "Doinb感谢FPX",
@@ -8875,14 +8891,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 86435,
-      "num": 120657,
-      "word": "冷美人称头发像石头剪不下来了",
-      "onboard_time": 1763496494,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86360,
       "num": 86360,
       "word": "人类幼崽也接受不了周一",
@@ -8915,20 +8923,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85873,
+      "num": 85873,
+      "word": "JDG老板爆料BLG签下Viper",
+      "onboard_time": 1763508620,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 85748,
       "num": 252641,
       "word": "来咪咕看全运为家乡队打call",
       "onboard_time": 1763310139,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85735,
-      "num": 120583,
-      "word": "美股",
-      "onboard_time": 1763508258,
-      "rank": 22,
-      "category": "财经"
     },
     {
       "raw_hot": 85731,
@@ -9113,6 +9121,14 @@
       "onboard_time": 1763349801,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78793,
+      "num": 78793,
+      "word": "深圳一模特比赛冠军引争议",
+      "onboard_time": 1763508738,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78526,
@@ -9507,6 +9523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 66599,
+      "num": 76014,
+      "word": "印度大学保安将脚伸进食堂米锅搅动",
+      "onboard_time": 1763508679,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 66412,
       "num": 238342,
       "word": "新款iPad路线图曝光",
@@ -9755,6 +9779,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57950,
+      "num": 120465,
+      "word": "江西老太藏尸案被害人女儿发声",
+      "onboard_time": 1763498233,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57591,
       "num": 227035,
       "word": "谁是郑钦文的最佳拍档",
@@ -9785,14 +9817,6 @@
       "onboard_time": 1763428580,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 55704,
-      "num": 120465,
-      "word": "江西老太藏尸案被害人女儿发声",
-      "onboard_time": 1763498233,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55209,
@@ -9849,6 +9873,14 @@
       "onboard_time": 1763296942,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53571,
+      "num": 120097,
+      "word": "女儿说不喜欢黄一鸣了",
+      "onboard_time": 1763489594,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 53563,
@@ -10115,6 +10147,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 47715,
+      "num": 75644,
+      "word": "马龙说一点不遗憾",
+      "onboard_time": 1763508920,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47602,
       "num": 310137,
       "word": "阿里千问的发版文案是弹幕吧",
@@ -10177,14 +10217,6 @@
       "onboard_time": 1763454083,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45625,
-      "num": 120097,
-      "word": "女儿说不喜欢黄一鸣了",
-      "onboard_time": 1763489594,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 45595,
@@ -10347,6 +10379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 41241,
+      "num": 119530,
+      "word": "李兰迪 溢出屏幕的明媚",
+      "onboard_time": 1763505736,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41154,
       "num": 221494,
       "word": "黄执中沈奕斐谈再见爱人保险事件",
@@ -10417,6 +10457,14 @@
       "onboard_time": 1763383222,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39407,
+      "num": 119309,
+      "word": "王一博听到是不是真爬的反应",
+      "onboard_time": 1763508258,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 39316,
@@ -10571,6 +10619,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35867,
+      "num": 119620,
+      "word": "联合国重申第2758号决议",
+      "onboard_time": 1763489594,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 35689,
+      "num": 119490,
+      "word": "老人上门捡纸壳顺走业主2000元新鞋",
+      "onboard_time": 1763485938,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35568,
       "num": 44679,
       "word": "供暖",
@@ -10609,14 +10673,6 @@
       "onboard_time": 1763311639,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 35242,
-      "num": 119620,
-      "word": "联合国重申第2758号决议",
-      "onboard_time": 1763489594,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34657,
@@ -10675,14 +10731,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 33827,
-      "num": 119530,
-      "word": "李兰迪 溢出屏幕的明媚",
-      "onboard_time": 1763505736,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 33629,
       "num": 211475,
       "word": "高市早苗与岛内台独势力勾连已久",
@@ -10713,14 +10761,6 @@
       "onboard_time": 1763259860,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 33349,
-      "num": 119490,
-      "word": "老人上门捡纸壳顺走业主2000元新鞋",
-      "onboard_time": 1763485938,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33240,
@@ -10985,14 +11025,6 @@
       "onboard_time": 1763443462,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28967,
-      "num": 119309,
-      "word": "王一博听到是不是真爬的反应",
-      "onboard_time": 1763508258,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 28931,

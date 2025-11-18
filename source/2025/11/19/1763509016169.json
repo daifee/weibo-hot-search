@@ -1,0 +1,410 @@
+{
+  "runTime": 1763509016169,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609935,
+        "num": 907589,
+        "word": "韩国外交部发表声明",
+        "onboard_time": 1763476763,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 346383,
+        "num": 346383,
+        "word": "日方坐不住了",
+        "onboard_time": 1763508078,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 42059,
+        "num": 338494,
+        "word": "福建舰入列后首次海上实兵训练",
+        "onboard_time": 1763458703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 338034,
+        "num": 338034,
+        "word": "约49.1万张飞往日本机票取消",
+        "onboard_time": 1763478504,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165587,
+        "num": 165587,
+        "word": "王晶说易烊千玺可能是下一个周润发",
+        "onboard_time": 1763483599,
+        "rank": 4,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 156541,
+        "num": 156541,
+        "word": "普京称中国公民免签政策近期生效",
+        "onboard_time": 1763480303,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137132,
+        "num": 137132,
+        "word": "中方不接受日方提出的无理交涉",
+        "onboard_time": 1763452582,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118302,
+        "num": 118302,
+        "word": "专家称日本高官来华碰得头破血流",
+        "onboard_time": 1763479883,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114555,
+        "num": 114555,
+        "word": "中方穿五四青年服见日本官员",
+        "onboard_time": 1763471423,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110086,
+        "num": 110086,
+        "word": "美股",
+        "onboard_time": 1763508258,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 246151,
+        "num": 110021,
+        "word": "这一亲把央视解说干沉默了",
+        "onboard_time": 1763464522,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 179949,
+        "num": 109327,
+        "word": "日本民众集会抗议要求高市下台",
+        "onboard_time": 1763505136,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155349,
+        "num": 108866,
+        "word": "骑车被狗绊倒女生已做开颅手术",
+        "onboard_time": 1763484378,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152074,
+        "num": 108436,
+        "word": "近视手术五年后的真实感受",
+        "onboard_time": 1763470824,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 139908,
+        "num": 108303,
+        "word": "74岁老太杀73岁老太藏尸案将开庭",
+        "onboard_time": 1763469444,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139552,
+        "num": 107619,
+        "word": "张博恒失误时鼓掌的裁判被终止执裁",
+        "onboard_time": 1763470523,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115369,
+        "num": 107435,
+        "word": "明年的年龄有点严肃了",
+        "onboard_time": 1763447422,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76202,
+        "num": 107067,
+        "word": "霍建华演完如懿传终于疯了",
+        "onboard_time": 1763469024,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68502,
+        "num": 106452,
+        "word": "王安宇回应疯狂动物城2配音",
+        "onboard_time": 1763479283,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53115,
+        "num": 106206,
+        "word": "唐朝诡事录 去天尺五",
+        "onboard_time": 1763476583,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105948,
+        "num": 105948,
+        "word": "中方说了三个绝不允许",
+        "onboard_time": 1763481680,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 523209,
+        "num": 104842,
+        "word": "曝唐嫣罗晋分居一年半了",
+        "onboard_time": 1763473165,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92633,
+        "num": 92633,
+        "word": "冷美人称头发像石头剪不下来了",
+        "onboard_time": 1763496494,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85873,
+        "num": 85873,
+        "word": "JDG老板爆料BLG签下Viper",
+        "onboard_time": 1763508620,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78793,
+        "num": 78793,
+        "word": "深圳一模特比赛冠军引争议",
+        "onboard_time": 1763508738,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76074,
+        "num": 76074,
+        "word": "南宁动物园一大猩猩坐石头上抽烟",
+        "onboard_time": 1763471183,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92636,
+        "num": 76024,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763444363,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66599,
+        "num": 76014,
+        "word": "印度大学保安将脚伸进食堂米锅搅动",
+        "onboard_time": 1763508679,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 61381,
+        "num": 75932,
+        "word": "彭小苒哭出了漫画里才有的泪眼",
+        "onboard_time": 1763473105,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57950,
+        "num": 75885,
+        "word": "江西老太藏尸案被害人女儿发声",
+        "onboard_time": 1763498233,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56353,
+        "num": 75823,
+        "word": "林北女友已经赶往张家界七星山",
+        "onboard_time": 1763471423,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53611,
+        "num": 75814,
+        "word": "中方佩戴国徽同日本官员见面",
+        "onboard_time": 1763465541,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53571,
+        "num": 75753,
+        "word": "女儿说不喜欢黄一鸣了",
+        "onboard_time": 1763489594,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51480,
+        "num": 75718,
+        "word": "王橹杰发博",
+        "onboard_time": 1763475085,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47715,
+        "num": 75644,
+        "word": "马龙说一点不遗憾",
+        "onboard_time": 1763508920,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44563,
+        "num": 75585,
+        "word": "日本官员低头听中方讲话",
+        "onboard_time": 1763454442,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44187,
+        "num": 75544,
+        "word": "央视主持人发文盛赞樊振东",
+        "onboard_time": 1763500513,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43459,
+        "num": 75515,
+        "word": "本周狗屎运最旺的星座",
+        "onboard_time": 1763478624,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41736,
+        "num": 75460,
+        "word": "广州长隆飞车表演撞上铁笼演员摔倒",
+        "onboard_time": 1763482641,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41241,
+        "num": 75411,
+        "word": "李兰迪 溢出屏幕的明媚",
+        "onboard_time": 1763505736,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41086,
+        "num": 75338,
+        "word": "陈乔恩没想到宋茜吃得这么好",
+        "onboard_time": 1763471664,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39407,
+        "num": 75310,
+        "word": "王一博听到是不是真爬的反应",
+        "onboard_time": 1763508258,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39369,
+        "num": 75233,
+        "word": "王菊瘦成少女时代泰妍了",
+        "onboard_time": 1763475265,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36062,
+        "num": 75207,
+        "word": "中方对日反制组合拳精准到位",
+        "onboard_time": 1763479883,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 35905,
+        "num": 75137,
+        "word": "陈熠11比4陈梦",
+        "onboard_time": 1763467944,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35867,
+        "num": 75080,
+        "word": "联合国重申第2758号决议",
+        "onboard_time": 1763489594,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35689,
+        "num": 75049,
+        "word": "老人上门捡纸壳顺走业主2000元新鞋",
+        "onboard_time": 1763485938,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32030,
+        "num": 75006,
+        "word": "王菊再瘦就认不出来了",
+        "onboard_time": 1763470464,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31884,
+        "num": 74933,
+        "word": "广东国际模特大赛冠军引争议",
+        "onboard_time": 1763502794,
+        "rank": 48,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 22458,
+        "num": 74917,
+        "word": "阴阳师",
+        "onboard_time": 1763470464,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
