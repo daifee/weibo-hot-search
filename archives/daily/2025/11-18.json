@@ -1,7 +1,15 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763444621797,
+  "endTime": 1763447934713,
   "band_list": [
+    {
+      "raw_hot": 2737200,
+      "num": 219778,
+      "word": "唐嫣 罗晋",
+      "onboard_time": 1763444363,
+      "rank": 25,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1052179,
       "num": 1168348,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 652940,
-      "num": 196949,
+      "num": 218246,
       "word": "王中磊夫妇 短视频",
       "onboard_time": 1763442023,
       "rank": 20,
@@ -137,6 +145,14 @@
       "onboard_time": 1763427802,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 542715,
+      "num": 223680,
+      "word": "易烊千玺李庚希咬脖戏",
+      "onboard_time": 1763444422,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 525255,
@@ -235,6 +251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 373414,
+      "num": 373414,
+      "word": "中国已经不是甲午战争后的中国",
+      "onboard_time": 1763445021,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 366799,
       "num": 319591,
       "word": "女子把洗好的袜子通通叠成蘑菇状",
@@ -248,6 +272,14 @@
       "word": "王楚钦马龙3比0速胜",
       "onboard_time": 1763434041,
       "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 356859,
+      "num": 226321,
+      "word": "梁靖崑坐下去都困难",
+      "onboard_time": 1763443762,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -323,12 +355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 308195,
-      "num": 173333,
-      "word": "梁靖崑坐下去都困难",
-      "onboard_time": 1763443762,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 293094,
+      "num": 293094,
+      "word": "许绍雄出殡众星现身送别",
+      "onboard_time": 1763444664,
+      "rank": 5,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288378,
+      "num": 224791,
+      "word": "Gumayusi直播谈离开T1",
+      "onboard_time": 1763445202,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 285428,
@@ -348,19 +388,11 @@
     },
     {
       "raw_hot": 280561,
-      "num": 202980,
+      "num": 221925,
       "word": "龚俊说迪丽热巴可爱的含金量还在上升",
       "onboard_time": 1763443641,
       "rank": 16,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 277509,
-      "num": 193578,
-      "word": "易烊千玺李庚希咬脖戏",
-      "onboard_time": 1763444422,
-      "rank": 13,
-      "category": "电影"
     },
     {
       "raw_hot": 272926,
@@ -369,6 +401,14 @@
       "onboard_time": 1763381661,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 270048,
+      "num": 224270,
+      "word": "高市早苗不思悔改拒不撤回",
+      "onboard_time": 1763443581,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 269951,
@@ -395,7 +435,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 262281,
+      "raw_hot": 267593,
       "num": 218049,
       "word": "子阳结婚",
       "onboard_time": 1763438302,
@@ -451,16 +491,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 229138,
-      "num": 178058,
-      "word": "唐嫣 罗晋",
-      "onboard_time": 1763444363,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 228029,
+      "num": 228029,
+      "word": "俞敏洪连发10条南极游视频",
+      "onboard_time": 1763445862,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 226094,
-      "num": 169803,
+      "num": 196681,
       "word": "王大陆鞠躬道歉",
       "onboard_time": 1763443821,
       "rank": 33,
@@ -497,6 +537,14 @@
       "onboard_time": 1763438122,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 216469,
+      "num": 216469,
+      "word": "明年的年龄有点严肃了",
+      "onboard_time": 1763447422,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 207642,
@@ -779,6 +827,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 167399,
+      "num": 167399,
+      "word": "男子腹部CT检出子宫",
+      "onboard_time": 1763445563,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167308,
       "num": 167308,
       "word": "降温后北方人的体面穿搭",
@@ -793,6 +849,14 @@
       "onboard_time": 1763436682,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162699,
+      "num": 162699,
+      "word": "会保暖的人提前享受冬天",
+      "onboard_time": 1763447182,
+      "rank": 32,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 161967,
@@ -921,6 +985,14 @@
       "onboard_time": 1763421619,
       "rank": 25,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 147215,
+      "num": 147215,
+      "word": "苹果回应iPhone17PM被湿巾擦掉色",
+      "onboard_time": 1763446222,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 145764,
@@ -1052,19 +1124,11 @@
     },
     {
       "raw_hot": 125215,
-      "num": 125215,
+      "num": 222356,
       "word": "高市早苗成为日本危机",
       "onboard_time": 1763443401,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 124336,
-      "num": 124336,
-      "word": "高市早苗不思悔改拒不撤回",
-      "onboard_time": 1763443581,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 123667,
@@ -1107,6 +1171,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 118688,
+      "num": 118688,
+      "word": "Bang称除了Faker没人会一直在T1",
+      "onboard_time": 1763446762,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118451,
       "num": 118451,
       "word": "马龙王楚钦3比0袁励岑侯英超",
@@ -1123,12 +1195,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 117955,
+      "num": 117955,
+      "word": "吴宣仪杨超越一起去韩国",
+      "onboard_time": 1763446462,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117616,
+      "num": 172512,
+      "word": "沈腾问范丞丞什么叫直拍",
+      "onboard_time": 1763446222,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 115834,
       "num": 119839,
       "word": "日经225指数跌破49000点",
       "onboard_time": 1763442800,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114308,
+      "num": 137499,
+      "word": "何炅 下班前被那英华晨宇整出工伤",
+      "onboard_time": 1763447062,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 112757,
@@ -1161,6 +1257,14 @@
       "onboard_time": 1763436141,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108336,
+      "num": 108336,
+      "word": "曝Gumayusi都是为T1着想",
+      "onboard_time": 1763447602,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 105820,
@@ -1211,6 +1315,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 102808,
+      "num": 171752,
+      "word": "A股福建板块全线下挫",
+      "onboard_time": 1763445142,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 102171,
       "num": 102171,
       "word": "江苏4岁女童腹痛就医后缺氧去世",
@@ -1233,6 +1345,14 @@
       "onboard_time": 1763387003,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 98479,
+      "num": 171066,
+      "word": "樊振东男团又赢了",
+      "onboard_time": 1763445501,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 97559,
@@ -1267,6 +1387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 94530,
+      "num": 94530,
+      "word": "木村拓哉回应在巅峰期公开婚讯",
+      "onboard_time": 1763447842,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94304,
       "num": 139353,
       "word": "两部日本电影撤档影城正陆续退票",
@@ -1297,6 +1425,22 @@
       "onboard_time": 1763372241,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 92706,
+      "num": 138068,
+      "word": "金饰克价跌到1289元",
+      "onboard_time": 1763447482,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 92070,
+      "num": 119340,
+      "word": "黑龙江男团晋级四强",
+      "onboard_time": 1763446642,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 90776,
@@ -1443,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75795,
+      "num": 123704,
+      "word": "谢可寅徐滨节目互动引争议",
+      "onboard_time": 1763446642,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74598,
       "num": 78168,
       "word": "张继科调侃樊振东分一个全运冠军",
@@ -1587,6 +1739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53424,
+      "num": 94773,
+      "word": "家属要求彻查女婴手术去世事件",
+      "onboard_time": 1763445802,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52263,
       "num": 160941,
       "word": "河南女子隐瞒婚病史被退婚拒退彩礼",
@@ -1612,11 +1772,19 @@
     },
     {
       "raw_hot": 48425,
-      "num": 190654,
+      "num": 223260,
       "word": "华为乾崑x东风全新品牌即将发布",
       "onboard_time": 1763444003,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 47730,
+      "num": 97377,
+      "word": "东京股市日经股指一度跌超3%",
+      "onboard_time": 1763445802,
+      "rank": 47,
+      "category": "财经,海外新闻"
     },
     {
       "raw_hot": 45492,
@@ -1633,6 +1801,22 @@
       "onboard_time": 1763382741,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42024,
+      "num": 137628,
+      "word": "小学生沉迷外国山海经每天念咒语",
+      "onboard_time": 1763447001,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41154,
+      "num": 221494,
+      "word": "黄执中沈奕斐谈再见爱人保险事件",
+      "onboard_time": 1763447422,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 37956,
@@ -1862,6 +2046,9 @@
   "hotgov_list": [
     {
       "word": "#总书记引领法治中国建设阔步前行#"
+    },
+    {
+      "word": "#习近平总书记始终高度重视文化建设#"
     }
   ]
 }
