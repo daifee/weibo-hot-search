@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763484733568,
+  "endTime": 1763486784090,
   "band_list": [
     {
       "raw_hot": 592220,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124149,
+      "num": 135052,
+      "word": "王晶说易烊千玺可能是下一个周润发",
+      "onboard_time": 1763483599,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 115919,
       "num": 137140,
       "word": "明年的年龄有点严肃了",
@@ -161,6 +169,14 @@
       "onboard_time": 1763464162,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95186,
+      "num": 126214,
+      "word": "骑车被狗绊倒女生已做开颅手术",
+      "onboard_time": 1763484378,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90844,
@@ -193,14 +209,6 @@
       "onboard_time": 1763470523,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 78717,
-      "num": 135052,
-      "word": "王晶说易烊千玺可能是下一个周润发",
-      "onboard_time": 1763483599,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 77173,
@@ -289,14 +297,6 @@
       "onboard_time": 1763478382,
       "rank": 36,
       "category": "教育"
-    },
-    {
-      "raw_hot": 58209,
-      "num": 126214,
-      "word": "骑车被狗绊倒女生已做开颅手术",
-      "onboard_time": 1763484378,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57179,
@@ -395,6 +395,22 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 47628,
+      "num": 64309,
+      "word": "曝双一线情侣还好着",
+      "onboard_time": 1763484799,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 46185,
+      "num": 64232,
+      "word": "这样的说话方式很旺自己",
+      "onboard_time": 1763485217,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 45579,
       "num": 374094,
       "word": "福建舰入列后首次海上实兵训练",
@@ -425,6 +441,14 @@
       "onboard_time": 1763463322,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33267,
+      "num": 63904,
+      "word": "老人上门捡纸壳顺走业主2000元新鞋",
+      "onboard_time": 1763485938,
+      "rank": 45,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
