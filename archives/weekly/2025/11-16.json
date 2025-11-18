@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763432433168,
+  "endTime": 1763435962008,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -233,6 +233,14 @@
       "onboard_time": 1763426422,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1007477,
+      "num": 240916,
+      "word": "13999元华为手机掉火坑后还能用",
+      "onboard_time": 1763433200,
+      "rank": 10,
+      "category": "数码"
     },
     {
       "raw_hot": 999897,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 752979,
-      "num": 217314,
+      "num": 239092,
       "word": "朵朵知道小酒窝轩轩指腹为婚大哭",
       "onboard_time": 1763421018,
       "rank": 10,
@@ -684,7 +692,7 @@
     },
     {
       "raw_hot": 585478,
-      "num": 167691,
+      "num": 226496,
       "word": "霍建华不愧是心如自留款",
       "onboard_time": 1763426782,
       "rank": 20,
@@ -931,6 +939,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 495924,
+      "num": 240321,
+      "word": "女子同事群八卦领导私生活被开除",
+      "onboard_time": 1763431161,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 495030,
       "num": 256245,
       "word": "陈思诚听到朵朵接班的反应",
@@ -1056,6 +1072,14 @@
       "word": "樊振东试探直播镜头",
       "onboard_time": 1763387362,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 462995,
+      "num": 462995,
+      "word": "梁靖崑vs樊振东",
+      "onboard_time": 1763434460,
+      "rank": 3,
       "category": "体育"
     },
     {
@@ -1323,6 +1347,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 386151,
+      "num": 386151,
+      "word": "迪丽热巴陈星旭坐腿吻",
+      "onboard_time": 1763435060,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385073,
       "num": 2104566,
       "word": "刘宇宁演唱会内娱大佬团建",
@@ -1395,6 +1427,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 366799,
+      "num": 240179,
+      "word": "女子把洗好的袜子通通叠成蘑菇状",
+      "onboard_time": 1763431041,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366207,
       "num": 366207,
       "word": "张伟丽判定不敌舍甫琴科",
@@ -1425,6 +1465,14 @@
       "onboard_time": 1763352801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361583,
+      "num": 239890,
+      "word": "董璇说朵朵小酒窝长大后就是杨紫和张一山",
+      "onboard_time": 1763433320,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 361246,
@@ -1659,6 +1707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 314416,
+      "num": 314416,
+      "word": "王楚钦马龙3比0速胜",
+      "onboard_time": 1763434041,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 313613,
       "num": 200708,
       "word": "男子彩票中奖群里分享被邻居冒领",
@@ -1840,6 +1896,14 @@
       "word": "二手奶茶袋已卖到几十元",
       "onboard_time": 1763272641,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289918,
+      "num": 239535,
+      "word": "全职宝妈打赏男主播67万丈夫痛哭",
+      "onboard_time": 1763434881,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -2155,6 +2219,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 251961,
+      "num": 251961,
+      "word": "王楚钦马龙vs袁励岑侯英超",
+      "onboard_time": 1763432421,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251126,
       "num": 236782,
       "word": "泰国男子被女友砍头反手拥抱拒报案",
@@ -2179,20 +2251,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 243106,
-      "num": 203576,
-      "word": "女子同事群八卦领导私生活被开除",
-      "onboard_time": 1763431161,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 241123,
       "num": 261804,
       "word": "新闻女王2断更",
       "onboard_time": 1763353522,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 240917,
+      "num": 240917,
+      "word": "户外博主坠亡遗体被无人机运下山",
+      "onboard_time": 1763426962,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240820,
@@ -2209,6 +2281,14 @@
       "onboard_time": 1763413814,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 238902,
+      "num": 238902,
+      "word": "王大陆出庭",
+      "onboard_time": 1763434520,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 237482,
@@ -2315,6 +2395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228494,
+      "num": 228494,
+      "word": "疯狂动物城",
+      "onboard_time": 1763434399,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 227873,
       "num": 190916,
       "word": "宋茜瘦到穿24码的裤子",
@@ -2353,6 +2441,14 @@
       "onboard_time": 1763258721,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 223563,
+      "num": 223563,
+      "word": "该和日本聊聊琉球了",
+      "onboard_time": 1763427982,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223060,
@@ -2643,6 +2739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 201427,
+      "num": 201427,
+      "word": "蓝溪镇",
+      "onboard_time": 1763435601,
+      "rank": 24,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 201127,
       "num": 201127,
       "word": "惠英红 我相信人定胜天",
@@ -2691,6 +2795,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199163,
+      "num": 195968,
+      "word": "小米su7路面超车发生侧滑",
+      "onboard_time": 1763431640,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199133,
       "num": 199133,
       "word": "孙颖莎缺席团体赛",
@@ -2737,6 +2849,14 @@
       "onboard_time": 1763428222,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 196181,
+      "num": 196181,
+      "word": "迪丽热巴从零成为聂九罗的记录",
+      "onboard_time": 1763435422,
+      "rank": 26,
+      "category": "电影"
     },
     {
       "raw_hot": 196078,
@@ -2923,6 +3043,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190186,
+      "num": 195148,
+      "word": "金锁一款很新的还珠大女主",
+      "onboard_time": 1763435480,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 189930,
+      "num": 194555,
+      "word": "枭起青壤OST超前试听",
+      "onboard_time": 1763435541,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189807,
       "num": 241876,
       "word": "专家回应村民盗水吸金年入百万",
@@ -3065,14 +3201,6 @@
       "onboard_time": 1763256860,
       "rank": 8,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 186351,
-      "num": 175797,
-      "word": "该和日本聊聊琉球了",
-      "onboard_time": 1763427982,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 186054,
@@ -3795,6 +3923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 157573,
+      "num": 157573,
+      "word": "蒯曼vs王曼昱",
+      "onboard_time": 1763435000,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157419,
       "num": 185008,
       "word": "中国游客减少冲击日本GDP",
@@ -3923,14 +4059,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154304,
-      "num": 168266,
-      "word": "户外博主坠亡遗体被无人机运下山",
-      "onboard_time": 1763426962,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 154090,
       "num": 154090,
       "word": "英语里的shanghai不是指上海",
@@ -3953,6 +4081,14 @@
       "onboard_time": 1763384902,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 153693,
+      "num": 153693,
+      "word": "央视镜头下的房琪",
+      "onboard_time": 1763435422,
+      "rank": 33,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 153229,
@@ -4491,14 +4627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 137321,
-      "num": 137321,
-      "word": "小米su7路面超车发生侧滑",
-      "onboard_time": 1763431640,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 137087,
       "num": 137087,
       "word": "易烊千玺 拍立得的神",
@@ -4553,14 +4681,6 @@
       "onboard_time": 1763380882,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135130,
-      "num": 135130,
-      "word": "女子把洗好的袜子通通叠成蘑菇状",
-      "onboard_time": 1763431041,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134943,
@@ -4641,6 +4761,14 @@
       "onboard_time": 1763422097,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133678,
+      "num": 133678,
+      "word": "谁家剧离婚证永远比结婚证多一本",
+      "onboard_time": 1763434580,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 133578,
@@ -4851,6 +4979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127827,
+      "num": 127827,
+      "word": "中国对日反制三个新特点",
+      "onboard_time": 1763430380,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127685,
       "num": 134787,
       "word": "巴厘岛车祸幸存亲历者发声",
@@ -5057,6 +5193,14 @@
       "onboard_time": 1763276603,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122527,
+      "num": 122527,
+      "word": "吴敬平说樊振东在德甲取长补短",
+      "onboard_time": 1763435301,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 122524,
@@ -5291,6 +5435,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 118451,
+      "num": 118451,
+      "word": "马龙王楚钦3比0袁励岑侯英超",
+      "onboard_time": 1763434640,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 118260,
+      "num": 118260,
+      "word": "森林北自曝因情绪问题出现较严重结节",
+      "onboard_time": 1763435422,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 118040,
       "num": 152315,
       "word": "德州网友吐槽超市几乎全是印度人",
@@ -5521,6 +5681,14 @@
       "onboard_time": 1763374102,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 112488,
+      "num": 112488,
+      "word": "朝中社警告日本",
+      "onboard_time": 1763433320,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112093,
@@ -6019,6 +6187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 101871,
+      "num": 101871,
+      "word": "中国军号全英文发文",
+      "onboard_time": 1763433500,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 101199,
       "num": 101199,
       "word": "竞技体育柔情的一面",
@@ -6153,6 +6329,14 @@
       "onboard_time": 1763349201,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97559,
+      "num": 97559,
+      "word": "赢风官宣阵容",
+      "onboard_time": 1763433500,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 97129,
@@ -6368,14 +6552,6 @@
       "word": "高市早苗4天3上新闻联播",
       "onboard_time": 1763348841,
       "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 89093,
-      "num": 89093,
-      "word": "中国对日反制三个新特点",
-      "onboard_time": 1763430380,
-      "rank": 43,
       "category": "国际时政"
     },
     {
@@ -7161,6 +7337,14 @@
       "onboard_time": 1763375423,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 57591,
+      "num": 227035,
+      "word": "谁是郑钦文的最佳拍档",
+      "onboard_time": 1763435060,
+      "rank": 19,
+      "category": "体育,汽车"
     },
     {
       "raw_hot": 56308,
@@ -8417,6 +8601,14 @@
       "onboard_time": 1763389402,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 6940,
+      "num": 224719,
+      "word": "12306回应列车停站292分钟",
+      "onboard_time": 1763435721,
+      "rank": 21,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
