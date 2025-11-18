@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 19:25:39
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 19:39:56
 </p>
 </blockquote>
 <p>
@@ -2217,6 +2217,12 @@ AG奖金（热度：731496）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E4%BA%B2%E6%8A%8A%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%B9%B2%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
+这一亲把央视解说干沉默了（热度：729347）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E6%AD%A3%E8%B7%8C%E8%90%BD%E7%A5%9E%E5%9D%9B%23" target="weibo">
 山姆正跌落神坛（热度：725489）
 </a>
@@ -3299,6 +3305,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E5%87%8C%E9%A3%8E%20%E6%9D%8E%E5%A5%88%E5%84%BF%23" target="weibo">
 卢凌风 李奈儿（热度：597001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E4%B8%89%E5%AD%97%E4%BA%8C%E5%AD%97%E6%B5%81%E9%87%8F%E5%92%8C%E5%8E%9F%E5%85%AC%E5%8F%B8%E7%BB%AD%E7%BA%A6%23" target="weibo">
+曝三字二字流量和原公司续约（热度：596953）
 </a>
 </li>
 
@@ -4389,6 +4401,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E8%8E%B7%E8%B6%8538000%E5%85%83%E5%A5%96%E9%87%91%23" target="weibo">
+冷美人获超38000元奖金（热度：502121）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%89%B6%E8%BD%A6%E5%80%92%E4%B8%80%E6%8E%92%23" target="weibo">
 肖战扶车倒一排（热度：501870）
 </a>
@@ -5343,6 +5361,12 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E8%80%81%E6%9D%BF%E5%8F%91%E8%A8%80%E6%88%91%E6%8A%A0%E6%89%8B%23" target="weibo">
+王一博 老板发言我抠手（热度：443108）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%BF%E6%AF%92%E7%97%87%E5%A4%AB%E5%A6%87%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%96%23" target="weibo">
 网红尿毒症夫妇丈夫离世（热度：442766）
 </a>
@@ -5721,12 +5745,6 @@ KK园区电诈人员已开始再就业（热度：422885）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E8%8E%B7%E8%B6%8538000%E5%85%83%E5%A5%96%E9%87%91%23" target="weibo">
-冷美人获超38000元奖金（热度：418112）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E5%8F%91%E5%8D%9A%E6%99%92%E7%BB%8F%E5%85%B8%E5%A4%BA%E5%86%A0%E8%A1%A8%E6%83%85%23" target="weibo">
 Faker发博晒经典夺冠表情（热度：418029）
 </a>
@@ -5765,12 +5783,6 @@ Faker发博晒经典夺冠表情（热度：418029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%B7%B7%E4%BA%BA%E5%AE%B6%23" target="weibo">
 小巷人家（热度：416933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E4%B8%80%E4%BA%B2%E6%8A%8A%E5%A4%AE%E8%A7%86%E8%A7%A3%E8%AF%B4%E5%B9%B2%E6%B2%89%E9%BB%98%E4%BA%86%23" target="weibo">
-这一亲把央视解说干沉默了（热度：416878）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ papi酱怀孕时也会抓着老公吵架（热度：410927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%A9%E5%8F%91%E8%A7%86%E9%A2%91%E7%A7%B0%E7%88%B6%E4%BA%B2%E7%9C%8B%E5%85%B6%E6%B4%97%E6%BE%A1%E8%AD%A6%E6%96%B9%E4%BB%8B%E5%85%A5%23" target="weibo">
 女孩发视频称父亲看其洗澡警方介入（热度：406873）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E8%A1%A3%E6%9C%8D%E6%AF%94%E6%88%91%E4%BA%BA%E8%BF%98%E9%95%BF%23" target="weibo">
-刘宇宁衣服比我人还长（热度：406609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%B2%88%E8%85%BE%E4%B8%80%E7%B1%B3%E5%85%AB%E6%9C%89%E4%BA%86%E5%AE%9E%E6%84%9F%23" target="weibo">
-对沈腾一米八有了实感（热度：406156）
 </a>
 </li>
 
