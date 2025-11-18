@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763447934713,
+  "endTime": 1763448706264,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -707,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 606081,
+      "num": 250639,
+      "word": "高市早苗不思悔改拒不撤回",
+      "onboard_time": 1763443581,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 599824,
       "num": 349060,
       "word": "罗一舟提问易烊千玺这段",
@@ -721,6 +729,14 @@
       "onboard_time": 1763297241,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 596163,
+      "num": 244640,
+      "word": "易烊千玺李庚希咬脖戏",
+      "onboard_time": 1763444422,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 592523,
@@ -883,14 +899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 542715,
-      "num": 223680,
-      "word": "易烊千玺李庚希咬脖戏",
-      "onboard_time": 1763444422,
-      "rank": 13,
-      "category": "电影"
-    },
-    {
       "raw_hot": 541767,
       "num": 541767,
       "word": "南京下雪",
@@ -1043,6 +1051,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 490717,
+      "num": 490717,
+      "word": "中国已经不是甲午战争后的中国",
+      "onboard_time": 1763445021,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 488815,
       "num": 357425,
       "word": "高市早苗被喊话向中国道歉",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1763356942,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 480399,
+      "num": 236690,
+      "word": "明年的年龄有点严肃了",
+      "onboard_time": 1763447422,
+      "rank": 23,
+      "category": "幽默"
     },
     {
       "raw_hot": 478137,
@@ -1531,14 +1555,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 373414,
-      "num": 373414,
-      "word": "中国已经不是甲午战争后的中国",
-      "onboard_time": 1763445021,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 372499,
       "num": 319150,
       "word": "日本这次的借口与侵华时如出一辙",
@@ -1636,7 +1652,7 @@
     },
     {
       "raw_hot": 356859,
-      "num": 226321,
+      "num": 231492,
       "word": "梁靖崑坐下去都困难",
       "onboard_time": 1763443762,
       "rank": 30,
@@ -2195,14 +2211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 270048,
-      "num": 224270,
-      "word": "高市早苗不思悔改拒不撤回",
-      "onboard_time": 1763443581,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 269951,
       "num": 205245,
       "word": "彭小苒隐形眼镜滑片了",
@@ -2289,6 +2297,22 @@
       "onboard_time": 1763354301,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 265698,
+      "num": 265698,
+      "word": "俞敏洪连发10条南极游视频",
+      "onboard_time": 1763445862,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 265337,
+      "num": 265337,
+      "word": "高市早苗成为日本危机",
+      "onboard_time": 1763443401,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 263767,
@@ -2611,14 +2635,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228029,
-      "num": 228029,
-      "word": "俞敏洪连发10条南极游视频",
-      "onboard_time": 1763445862,
-      "rank": 6,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 227873,
       "num": 190916,
       "word": "宋茜瘦到穿24码的裤子",
@@ -2628,7 +2644,7 @@
     },
     {
       "raw_hot": 226094,
-      "num": 196681,
+      "num": 210675,
       "word": "王大陆鞠躬道歉",
       "onboard_time": 1763443821,
       "rank": 33,
@@ -2729,14 +2745,6 @@
       "onboard_time": 1763438122,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 216469,
-      "num": 216469,
-      "word": "明年的年龄有点严肃了",
-      "onboard_time": 1763447422,
-      "rank": 23,
-      "category": "幽默"
     },
     {
       "raw_hot": 215804,
@@ -3723,6 +3731,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 179026,
+      "num": 179026,
+      "word": "男子腹部CT检出子宫",
+      "onboard_time": 1763445563,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 178713,
       "num": 178713,
       "word": "唐诡全员科班出身的含金量",
@@ -4025,14 +4041,6 @@
       "onboard_time": 1763186006,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167399,
-      "num": 167399,
-      "word": "男子腹部CT检出子宫",
-      "onboard_time": 1763445563,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 167393,
@@ -4681,6 +4689,14 @@
       "onboard_time": 1763273722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150286,
+      "num": 150286,
+      "word": "我的天选饭搭子出现了",
+      "onboard_time": 1763448022,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 150275,
@@ -5339,6 +5355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131701,
+      "num": 126219,
+      "word": "张远当经纪人婚礼的证婚人",
+      "onboard_time": 1763448324,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131419,
       "num": 142296,
       "word": "刘耀文贺峻霖不愧是团内难哄TOP2",
@@ -5353,6 +5377,14 @@
       "onboard_time": 1763435301,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131310,
+      "num": 131310,
+      "word": "何炅 捞完你的捞你的",
+      "onboard_time": 1763448622,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 131226,
@@ -5611,12 +5643,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125215,
-      "num": 222356,
-      "word": "高市早苗成为日本危机",
-      "onboard_time": 1763443401,
+      "raw_hot": 125425,
+      "num": 125425,
+      "word": "FPS美术天花板再添一员",
+      "onboard_time": 1763448563,
       "rank": 43,
-      "category": "国内时政"
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 125207,
+      "num": 125207,
+      "word": "王楚钦龙队虔诚的打水工",
+      "onboard_time": 1763447962,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 125058,
@@ -5865,6 +5905,14 @@
       "onboard_time": 1763300603,
       "rank": 47,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 120517,
+      "num": 130590,
+      "word": "彭小苒 导演不喊卡就接着演",
+      "onboard_time": 1763448563,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 120304,
@@ -6145,6 +6193,14 @@
       "onboard_time": 1763288661,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 116507,
+      "num": 116507,
+      "word": "曾轶可曾大闹机场",
+      "onboard_time": 1763448680,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 116390,
@@ -6505,6 +6561,14 @@
       "onboard_time": 1763251821,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108413,
+      "num": 130323,
+      "word": "唐朝诡事录3",
+      "onboard_time": 1763448022,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 108336,
@@ -8203,6 +8267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51515,
+      "num": 128167,
+      "word": "许昕再现背后击球绝技",
+      "onboard_time": 1763448022,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50396,
       "num": 50396,
       "word": "中方回应日本外务省高官访华",
@@ -8323,6 +8395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46544,
+      "num": 137628,
+      "word": "小学生沉迷外国山海经每天念咒语",
+      "onboard_time": 1763447001,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45595,
       "num": 45595,
       "word": "辛芷蕾金鸡奖红毯笑得好开心",
@@ -8401,14 +8481,6 @@
       "onboard_time": 1763275282,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 42024,
-      "num": 137628,
-      "word": "小学生沉迷外国山海经每天念咒语",
-      "onboard_time": 1763447001,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 41964,
@@ -9121,6 +9193,22 @@
       "onboard_time": 1763257460,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21854,
+      "num": 129598,
+      "word": "王冰冰晒年假plog",
+      "onboard_time": 1763448262,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21844,
+      "num": 238609,
+      "word": "琉球曾是中国藩属国",
+      "onboard_time": 1763448382,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20949,

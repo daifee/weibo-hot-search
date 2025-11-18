@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 14:38:54
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 14:51:46
 </p>
 </blockquote>
 <p>
@@ -3141,6 +3141,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B8%8D%E6%80%9D%E6%82%94%E6%94%B9%E6%8B%92%E4%B8%8D%E6%92%A4%E5%9B%9E%23" target="weibo">
+高市早苗不思悔改拒不撤回（热度：606081）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%20%E4%B8%8D%E7%AE%A1%E8%84%9A%E5%A4%9A%E8%84%8F%E9%83%BD%E6%9C%89%E8%84%B8%E4%B8%8A%E5%BA%8A%23" target="weibo">
 猫 不管脚多脏都有脸上床（热度：605215）
 </a>
@@ -3233,6 +3239,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E5%87%8C%E9%A3%8E%20%E6%9D%8E%E5%A5%88%E5%84%BF%23" target="weibo">
 卢凌风 李奈儿（热度：597001）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%92%AC%E8%84%96%E6%88%8F%23" target="weibo">
+易烊千玺李庚希咬脖戏（热度：596163）
 </a>
 </li>
 
@@ -3839,12 +3851,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%90%83%E4%BA%8F%23" target="weibo">
 中国单方面免签不存在吃亏（热度：544357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9D%8E%E5%BA%9A%E5%B8%8C%E5%92%AC%E8%84%96%E6%88%8F%23" target="weibo">
-易烊千玺李庚希咬脖戏（热度：542715）
 </a>
 </li>
 
@@ -4503,6 +4509,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AF%E7%94%B2%E5%8D%88%E6%88%98%E4%BA%89%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
+中国已经不是甲午战争后的中国（热度：490717）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E8%A7%82%E4%BC%97%E7%9A%84%E5%A8%83%E5%A8%83%E9%9B%A8%E6%B7%B9%E6%B2%A1%E4%BA%86%23" target="weibo">
 全红婵被观众的娃娃雨淹没了（热度：490416）
 </a>
@@ -4673,6 +4685,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%BE%80%E7%9A%84%E7%94%9F%E6%B4%BB%E4%B8%80%E5%AE%B6%E5%85%AD%E5%8F%A3%E4%B8%96%E7%BA%AA%E5%90%8C%E6%A1%86%23" target="weibo">
 向往的生活一家六口世纪同框（热度：480550）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%8E%E5%B9%B4%E7%9A%84%E5%B9%B4%E9%BE%84%E6%9C%89%E7%82%B9%E4%B8%A5%E8%82%83%E4%BA%86%23" target="weibo">
+明年的年龄有点严肃了（热度：480399）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ ally因整容擤不出鼻涕（热度：402082）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232007%E5%B9%B4%E5%90%8E%E5%87%BA%E7%94%9F%E7%9A%84%E4%BA%BA%E4%B8%8D%E8%83%BD%E5%9C%A8%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%90%B8%E7%83%9F%23" target="weibo">
 2007年后出生的人不能在马尔代夫吸烟（热度：399271）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E5%B8%9D%E8%83%8C%E5%90%8E%E7%9A%84%E7%94%B7%E4%BA%BA%23" target="weibo">
-影帝背后的男人（热度：399060）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%87%BA%E6%BC%94%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
-对接确认王鹤棣出演将门毒后（热度：399055）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BB%A3%E8%A8%80UGG%23" target="weibo">
-王一博代言UGG（热度：399015）
 </a>
 </li>
 
