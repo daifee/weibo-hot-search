@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763479841474,
+  "endTime": 1763480735494,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -387,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 472061,
+      "num": 472061,
+      "word": "约49.1万张飞往日本机票取消",
+      "onboard_time": 1763478504,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458816,
       "num": 262070,
       "word": "女子买骆驼牌外套却在口袋掏出机票",
@@ -689,14 +697,6 @@
       "onboard_time": 1763441243,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 334944,
-      "num": 334944,
-      "word": "约49.1万张飞往日本机票取消",
-      "onboard_time": 1763478504,
-      "rank": 1,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 333798,
@@ -1291,6 +1291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 187784,
+      "num": 187784,
+      "word": "Doinb宣布明年不打LPL",
+      "onboard_time": 1763478444,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187336,
       "num": 267007,
       "word": "中方依法保护在华外国公民安全",
@@ -1353,14 +1361,6 @@
       "onboard_time": 1763472084,
       "rank": 18,
       "category": "电影"
-    },
-    {
-      "raw_hot": 183098,
-      "num": 183098,
-      "word": "Doinb宣布明年不打LPL",
-      "onboard_time": 1763478444,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 183044,
@@ -1561,6 +1561,14 @@
       "onboard_time": 1763429061,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166196,
+      "num": 147666,
+      "word": "王安宇回应疯狂动物城2配音",
+      "onboard_time": 1763479283,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 164348,
@@ -1995,14 +2003,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133553,
-      "num": 147666,
-      "word": "王安宇回应疯狂动物城2配音",
-      "onboard_time": 1763479283,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132026,
       "num": 132026,
       "word": "十五运乒乓团体半决赛赛程更改",
@@ -2188,7 +2188,7 @@
     },
     {
       "raw_hot": 121028,
-      "num": 310540,
+      "num": 318579,
       "word": "福建舰入列后首次海上实兵训练",
       "onboard_time": 1763458703,
       "rank": 28,
@@ -2763,6 +2763,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 98620,
+      "num": 98620,
+      "word": "辛云来耳骨夹是弹簧做的",
+      "onboard_time": 1763479762,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 98479,
       "num": 171066,
       "word": "樊振东男团又赢了",
@@ -3051,12 +3059,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82223,
-      "num": 92594,
-      "word": "辛云来耳骨夹是弹簧做的",
-      "onboard_time": 1763479762,
-      "rank": 49,
-      "category": "艺人"
+      "raw_hot": 82905,
+      "num": 110368,
+      "word": "菲律宾总统被亲姐指控吸毒成瘾",
+      "onboard_time": 1763479224,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81131,
@@ -3113,6 +3121,14 @@
       "onboard_time": 1763460862,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76380,
+      "num": 95668,
+      "word": "千纸鹤最有用的一集",
+      "onboard_time": 1763480602,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 76039,
@@ -3185,6 +3201,14 @@
       "onboard_time": 1763383041,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 69158,
+      "num": 95471,
+      "word": "U22国足vs乌兹别克斯坦U22",
+      "onboard_time": 1763477544,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 68550,
@@ -3267,6 +3291,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 63355,
+      "num": 110368,
+      "word": "广东一茶水室惊现剧毒蛇",
+      "onboard_time": 1763479102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59986,
       "num": 78160,
       "word": "曝Viper和ON联手",
@@ -3281,6 +3313,14 @@
       "onboard_time": 1763439624,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58375,
+      "num": 139701,
+      "word": "专家称日本高官来华碰得头破血流",
+      "onboard_time": 1763479883,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 57591,
@@ -3323,20 +3363,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55063,
+      "num": 139669,
+      "word": "普京称中国公民免签政策近期生效",
+      "onboard_time": 1763480303,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54924,
       "num": 78157,
       "word": "霍尊回应复出",
       "onboard_time": 1763387182,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54515,
-      "num": 110368,
-      "word": "广东一茶水室惊现剧毒蛇",
-      "onboard_time": 1763479102,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 53424,
@@ -3347,12 +3387,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52562,
-      "num": 110368,
-      "word": "菲律宾总统被亲姐指控吸毒成瘾",
-      "onboard_time": 1763479224,
-      "rank": 39,
-      "category": "国际时政"
+      "raw_hot": 53260,
+      "num": 139735,
+      "word": "中方对日反制组合拳精准到位",
+      "onboard_time": 1763479883,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52322,

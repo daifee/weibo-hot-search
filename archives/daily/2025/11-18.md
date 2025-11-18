@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/18 00:36:38 ~ 2025/11/18 23:30:41
+本榜单时间：2025/11/18 00:36:38 ~ 2025/11/18 23:45:35
 </p>
 </blockquote>
 <p>
@@ -303,6 +303,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A649.1%E4%B8%87%E5%BC%A0%E9%A3%9E%E5%BE%80%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%8F%96%E6%B6%88%23" target="weibo">
+约49.1万张飞往日本机票取消（热度：472061）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B9%B0%E9%AA%86%E9%A9%BC%E7%89%8C%E5%A4%96%E5%A5%97%E5%8D%B4%E5%9C%A8%E5%8F%A3%E8%A2%8B%E6%8E%8F%E5%87%BA%E6%9C%BA%E7%A5%A8%23" target="weibo">
 女子买骆驼牌外套却在口袋掏出机票（热度：458816）
 </a>
@@ -527,12 +533,6 @@ papi酱怀孕时也会抓着老公吵架（热度：410927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BD%98%E5%B1%95%E4%B9%90%E6%99%92%E4%B8%80%E5%BA%8A%E5%A4%A7%E6%B9%BE%E9%B8%A1%23" target="weibo">
 潘展乐晒一床大湾鸡（热度：335280）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A649.1%E4%B8%87%E5%BC%A0%E9%A3%9E%E5%BE%80%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%8F%96%E6%B6%88%23" target="weibo">
-约49.1万张飞往日本机票取消（热度：334944）
 </a>
 </li>
 
@@ -981,6 +981,12 @@ elk删除了清者自清的微博（热度：202060）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Doinb%E5%AE%A3%E5%B8%83%E6%98%8E%E5%B9%B4%E4%B8%8D%E6%89%93LPL%23" target="weibo">
+Doinb宣布明年不打LPL（热度：187784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%BE%9D%E6%B3%95%E4%BF%9D%E6%8A%A4%E5%9C%A8%E5%8D%8E%E5%A4%96%E5%9B%BD%E5%85%AC%E6%B0%91%E5%AE%89%E5%85%A8%23" target="weibo">
 中方依法保护在华外国公民安全（热度：187336）
 </a>
@@ -1025,12 +1031,6 @@ GenG官宣Canyon离队（热度：185265）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E6%98%A0%E5%89%8D%E8%A7%82%E7%9C%8B%E6%8C%87%E5%8D%97%23" target="weibo">
 狂野时代映前观看指南（热度：183135）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Doinb%E5%AE%A3%E5%B8%83%E6%98%8E%E5%B9%B4%E4%B8%8D%E6%89%93LPL%23" target="weibo">
-Doinb宣布明年不打LPL（热度：183098）
 </a>
 </li>
 
@@ -1181,6 +1181,12 @@ TF三代 打断骨头连着筋（热度：173449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%8D%E6%B8%A9%E5%90%8E%E5%8C%97%E6%96%B9%E4%BA%BA%E7%9A%84%E4%BD%93%E9%9D%A2%E7%A9%BF%E6%90%AD%23" target="weibo">
 降温后北方人的体面穿搭（热度：167308）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%9B%9E%E5%BA%94%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%85%8D%E9%9F%B3%23" target="weibo">
+王安宇回应疯狂动物城2配音（热度：166196）
 </a>
 </li>
 
@@ -1505,12 +1511,6 @@ BLG转会（热度：135990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%AA%92%E6%9B%9DGumayusi%E7%A6%BB%E9%98%9F%E5%86%85%E9%83%A8%E6%97%A9%E5%B7%B2%E7%A1%AE%E5%AE%9A%23" target="weibo">
 韩媒曝Gumayusi离队内部早已确定（热度：133578）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%9B%9E%E5%BA%94%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%85%8D%E9%9F%B3%23" target="weibo">
-王安宇回应疯狂动物城2配音（热度：133553）
 </a>
 </li>
 
@@ -2085,6 +2085,12 @@ A股福建板块全线下挫（热度：102808）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E4%BA%91%E6%9D%A5%E8%80%B3%E9%AA%A8%E5%A4%B9%E6%98%AF%E5%BC%B9%E7%B0%A7%E5%81%9A%E7%9A%84%23" target="weibo">
+辛云来耳骨夹是弹簧做的（热度：98620）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%B7%E5%9B%A2%E5%8F%88%E8%B5%A2%E4%BA%86%23" target="weibo">
 樊振东男团又赢了（热度：98479）
 </a>
@@ -2301,8 +2307,8 @@ T1管理层（热度：93438）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E4%BA%91%E6%9D%A5%E8%80%B3%E9%AA%A8%E5%A4%B9%E6%98%AF%E5%BC%B9%E7%B0%A7%E5%81%9A%E7%9A%84%23" target="weibo">
-辛云来耳骨夹是弹簧做的（热度：82223）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E8%A2%AB%E4%BA%B2%E5%A7%90%E6%8C%87%E6%8E%A7%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE%23" target="weibo">
+菲律宾总统被亲姐指控吸毒成瘾（热度：82905）
 </a>
 </li>
 
@@ -2345,6 +2351,12 @@ zeus（热度：78172）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E6%88%98%E6%9C%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A5%BD%E5%BC%80%E4%BA%86%23" target="weibo">
 我国战机越来越好开了（热度：76443）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%83%E7%BA%B8%E9%B9%A4%E6%9C%80%E6%9C%89%E7%94%A8%E7%9A%84%E4%B8%80%E9%9B%86%23" target="weibo">
+千纸鹤最有用的一集（热度：76380）
 </a>
 </li>
 
@@ -2399,6 +2411,12 @@ iPhone17Pro掉色门问题再发酵（热度：74167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%20Peyz%23" target="weibo">
 T1 Peyz（热度：69226）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23U22%E5%9B%BD%E8%B6%B3vs%E4%B9%8C%E5%85%B9%E5%88%AB%E5%85%8B%E6%96%AF%E5%9D%A6U22%23" target="weibo">
+U22国足vs乌兹别克斯坦U22（热度：69158）
 </a>
 </li>
 
@@ -2463,6 +2481,12 @@ T1 Peyz（热度：69226）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E8%8C%B6%E6%B0%B4%E5%AE%A4%E6%83%8A%E7%8E%B0%E5%89%A7%E6%AF%92%E8%9B%87%23" target="weibo">
+广东一茶水室惊现剧毒蛇（热度：63355）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DViper%E5%92%8CON%E8%81%94%E6%89%8B%23" target="weibo">
 曝Viper和ON联手（热度：59986）
 </a>
@@ -2471,6 +2495,12 @@ T1 Peyz（热度：69226）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2349%E5%B2%81%E6%95%99%E6%8E%88%E5%AD%A6%E6%9C%AF%E4%BC%9A%E8%AE%AE%E5%90%8E%E7%AA%81%E5%8F%91%E7%96%BE%E7%97%85%E5%8E%BB%E4%B8%96%23" target="weibo">
 49岁教授学术会议后突发疾病去世（热度：59669）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%93%E5%AE%B6%E7%A7%B0%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E7%A2%B0%E5%BE%97%E5%A4%B4%E7%A0%B4%E8%A1%80%E6%B5%81%23" target="weibo">
+专家称日本高官来华碰得头破血流（热度：58375）
 </a>
 </li>
 
@@ -2505,14 +2535,14 @@ T1 Peyz（热度：69226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%23" target="weibo">
-霍尊回应复出（热度：54924）
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E8%BF%91%E6%9C%9F%E7%94%9F%E6%95%88%23" target="weibo">
+普京称中国公民免签政策近期生效（热度：55063）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E4%B8%80%E8%8C%B6%E6%B0%B4%E5%AE%A4%E6%83%8A%E7%8E%B0%E5%89%A7%E6%AF%92%E8%9B%87%23" target="weibo">
-广东一茶水室惊现剧毒蛇（热度：54515）
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%E5%9B%9E%E5%BA%94%E5%A4%8D%E5%87%BA%23" target="weibo">
+霍尊回应复出（热度：54924）
 </a>
 </li>
 
@@ -2523,8 +2553,8 @@ T1 Peyz（热度：69226）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E6%80%BB%E7%BB%9F%E8%A2%AB%E4%BA%B2%E5%A7%90%E6%8C%87%E6%8E%A7%E5%90%B8%E6%AF%92%E6%88%90%E7%98%BE%23" target="weibo">
-菲律宾总统被亲姐指控吸毒成瘾（热度：52562）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E5%8F%8D%E5%88%B6%E7%BB%84%E5%90%88%E6%8B%B3%E7%B2%BE%E5%87%86%E5%88%B0%E4%BD%8D%23" target="weibo">
+中方对日反制组合拳精准到位（热度：53260）
 </a>
 </li>
 

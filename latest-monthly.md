@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 23:30:41
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 23:45:35
 </p>
 </blockquote>
 <p>
@@ -4941,6 +4941,12 @@ Gumayusi HLE（热度：476338）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A649.1%E4%B8%87%E5%BC%A0%E9%A3%9E%E5%BE%80%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%8F%96%E6%B6%88%23" target="weibo">
+约49.1万张飞往日本机票取消（热度：472061）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%85%81%E8%AE%B8%E5%9F%8E%E9%95%87%E5%B1%85%E6%B0%91%E5%88%B0%E5%86%9C%E6%9D%91%E4%B9%B0%E5%86%9C%E6%88%BF%23" target="weibo">
 不允许城镇居民到农村买农房（热度：471591）
 </a>
@@ -6005,12 +6011,6 @@ papi酱怀孕时也会抓着老公吵架（热度：410927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%86%AC%E5%86%AC%20%E6%80%80%E5%AD%95%E4%BA%86%E4%B8%80%E5%AE%9A%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E5%91%8A%E8%AF%89%E5%A4%A7%E5%AE%B6%23" target="weibo">
 徐冬冬 怀孕了一定大大方方告诉大家（热度：409618）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD160%E4%B8%87%E5%85%83%E5%87%B6%E5%AE%8526.6%E4%B8%87%E6%8B%8D%E5%8D%96%23" target="weibo">
-成都160万元凶宅26.6万拍卖（热度：408854）
 </a>
 </li>
 
