@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763491164460,
+  "endTime": 1763491946475,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -64667,6 +64667,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 20113,
+      "num": 41279,
+      "word": "女儿说不喜欢黄一鸣了",
+      "onboard_time": 1763489594,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 20108,
       "num": 108007,
       "word": "唐钱婷说自己和自己比",
@@ -64683,20 +64691,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20005,
+      "num": 35674,
+      "word": "刘宇宁感谢家人们和伙伴们",
+      "onboard_time": 1763491334,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 19999,
       "num": 38505,
       "word": "鬼灭之刃上弦三的简要概括",
       "onboard_time": 1763144595,
       "rank": 46,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 19997,
-      "num": 41279,
-      "word": "女儿说不喜欢黄一鸣了",
-      "onboard_time": 1763489594,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 19986,
