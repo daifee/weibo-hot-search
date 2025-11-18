@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 16:49:46
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/18 17:30:34
 </p>
 </blockquote>
 <p>
@@ -377,6 +377,12 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23" target="weibo">
 提醒中国公民近期避免前往日本（热度：1672025）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%A4%A7%E9%99%86%E8%AE%A4%E7%BD%AA%23" target="weibo">
+王大陆认罪（热度：1660744）
 </a>
 </li>
 
@@ -1587,6 +1593,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E4%BD%8E%E5%A4%B4%E5%90%AC%E4%B8%AD%E6%96%B9%E8%AE%B2%E8%AF%9D%23" target="weibo">
+日本官员低头听中方讲话（热度：866072）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E6%B2%88%E5%A6%99%23" target="weibo">
 孟子义 沈妙（热度：865110）
 </a>
@@ -2291,12 +2303,6 @@ AG对战狼队（热度：725111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B%23" target="weibo">
 印度一女警怀胎七月参加举重比赛（热度：711829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E4%BD%8E%E5%A4%B4%E5%90%AC%E4%B8%AD%E6%96%B9%E8%AE%B2%E8%AF%9D%23" target="weibo">
-日本官员低头听中方讲话（热度：710595）
 </a>
 </li>
 
@@ -4239,6 +4245,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%BC%A0%E6%9E%81%E7%A7%81%E8%81%94%E7%B2%89%E4%B8%9D%23" target="weibo">
+曝张极私联粉丝（热度：512937）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B8%BB%E6%92%AD%E9%98%B4%E9%98%B3%E6%80%AA%E6%B0%94%E4%B8%AD%E5%9B%BD%E4%BA%BA%E9%81%AD%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E9%A9%B3%23" target="weibo">
 美主播阴阳怪气中国人遭特朗普反驳（热度：512870）
 </a>
@@ -5999,18 +6011,6 @@ papi酱怀孕时也会抓着老公吵架（热度：410927）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A9%97%E4%BA%A7%E5%90%8E%E8%BA%AB%E6%9D%90%20%E5%83%8F%E6%B2%A1%E7%94%9F%E8%BF%87%23" target="weibo">
 何穗产后身材 像没生过（热度：404196）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Ruler%E5%A4%B1%E5%88%A9%E4%B9%8B%E5%90%8E%E5%93%AD%E4%BA%86%23" target="weibo">
-Ruler失利之后哭了（热度：403914）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9F%A5%E9%81%93%E5%A5%B9%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E9%9D%93%E9%9D%93%E4%BA%86%23" target="weibo">
-终于知道她为什么叫靓靓了（热度：402982）
 </a>
 </li>
 

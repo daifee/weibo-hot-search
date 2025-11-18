@@ -1,13 +1,21 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763455786987,
+  "endTime": 1763458234436,
   "band_list": [
     {
       "raw_hot": 2737200,
-      "num": 219778,
+      "num": 235859,
       "word": "唐嫣 罗晋",
       "onboard_time": 1763444363,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1660744,
+      "num": 254163,
+      "word": "王大陆认罪",
+      "onboard_time": 1763455941,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1053120,
-      "num": 206162,
+      "num": 221069,
       "word": "曾轶可曾大闹机场",
       "onboard_time": 1763448680,
       "rank": 49,
@@ -83,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 866072,
+      "num": 253921,
+      "word": "日本官员低头听中方讲话",
+      "onboard_time": 1763454442,
+      "rank": 13,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 789276,
       "num": 508196,
       "word": "迪丽热巴陈星旭坐腿吻",
@@ -105,14 +121,6 @@
       "onboard_time": 1763450302,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 710595,
-      "num": 242628,
-      "word": "日本官员低头听中方讲话",
-      "onboard_time": 1763454442,
-      "rank": 13,
-      "category": "国内时政"
     },
     {
       "raw_hot": 676656,
@@ -235,6 +243,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 512937,
+      "num": 229743,
+      "word": "曝张极私联粉丝",
+      "onboard_time": 1763456963,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501870,
       "num": 320777,
       "word": "肖战扶车倒一排",
@@ -292,7 +308,7 @@
     },
     {
       "raw_hot": 436484,
-      "num": 207707,
+      "num": 216670,
       "word": "Amy姐曝潘玮柏宣云恋爱内幕",
       "onboard_time": 1763450842,
       "rank": 25,
@@ -403,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 358878,
+      "num": 358878,
+      "word": "日方必须给中国人民一个交代",
+      "onboard_time": 1763451982,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 356859,
       "num": 231492,
       "word": "梁靖崑坐下去都困难",
@@ -467,6 +491,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 325684,
+      "num": 253540,
+      "word": "女婴手术离世舅舅发声",
+      "onboard_time": 1763452403,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 309933,
       "num": 309933,
       "word": "王大陆出庭",
@@ -488,6 +520,22 @@
       "word": "70后户外网红博主坠崖身亡",
       "onboard_time": 1763393721,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 307934,
+      "num": 253439,
+      "word": "董璇说张维伊从来没有给她做过饭",
+      "onboard_time": 1763453483,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 293420,
+      "num": 253159,
+      "word": "冷美人恢复良好只是头发缠成块",
+      "onboard_time": 1763453902,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -603,14 +651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 253771,
-      "num": 218915,
-      "word": "女婴手术离世舅舅发声",
-      "onboard_time": 1763452403,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 252051,
       "num": 252051,
       "word": "何炅 捞完你的捞你的",
@@ -707,14 +747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 205038,
-      "num": 205038,
-      "word": "董璇说张维伊从来没有给她做过饭",
-      "onboard_time": 1763453483,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 202060,
       "num": 161913,
       "word": "elk删除了清者自清的微博",
@@ -803,12 +835,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192469,
-      "num": 217588,
-      "word": "日方必须给中国人民一个交代",
-      "onboard_time": 1763451982,
-      "rank": 28,
-      "category": "国内时政"
+      "raw_hot": 190901,
+      "num": 252945,
+      "word": "杜华去了王一博探索新境2首映会",
+      "onboard_time": 1763457142,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 190186,
@@ -849,14 +881,6 @@
       "onboard_time": 1763441842,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 188435,
-      "num": 188435,
-      "word": "冷美人恢复良好只是头发缠成块",
-      "onboard_time": 1763453902,
-      "rank": 45,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187827,
@@ -987,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 172448,
+      "num": 172448,
+      "word": "儿童重症医生解读女婴手术去世",
+      "onboard_time": 1763456242,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171676,
       "num": 171676,
       "word": "广东你还是太超前了",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1763380041,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 169538,
+      "num": 169538,
+      "word": "葱枝甘露",
+      "onboard_time": 1763453603,
+      "rank": 44,
+      "category": "美食"
     },
     {
       "raw_hot": 169311,
@@ -1033,6 +1073,14 @@
       "onboard_time": 1763448382,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 163147,
+      "num": 163147,
+      "word": "8小时工作制是包含午休在内的",
+      "onboard_time": 1763452942,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 162699,
@@ -1179,14 +1227,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151528,
-      "num": 151528,
-      "word": "8小时工作制是包含午休在内的",
-      "onboard_time": 1763452942,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 151286,
       "num": 151286,
       "word": "王一博喜欢钓鱼",
@@ -1283,12 +1323,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 137394,
+      "num": 171581,
+      "word": "四喜 沈明珠公公被气死",
+      "onboard_time": 1763455762,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135990,
       "num": 135990,
       "word": "BLG转会",
       "onboard_time": 1763388442,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135658,
+      "num": 171402,
+      "word": "王安宇疯狂动物城配音",
+      "onboard_time": 1763457323,
+      "rank": 28,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 135472,
@@ -1329,6 +1385,14 @@
       "onboard_time": 1763430980,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 132026,
+      "num": 132026,
+      "word": "十五运乒乓团体半决赛赛程更改",
+      "onboard_time": 1763456424,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 131701,
@@ -1435,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121731,
+      "num": 145206,
+      "word": "美依礼芽中国是我第二故乡",
+      "onboard_time": 1763457862,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121049,
       "num": 121049,
       "word": "时代峰峻包场易烊千玺电影",
@@ -1457,14 +1529,6 @@
       "onboard_time": 1763454863,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 120702,
-      "num": 120702,
-      "word": "葱枝甘露",
-      "onboard_time": 1763453603,
-      "rank": 44,
-      "category": "美食"
     },
     {
       "raw_hot": 120517,
@@ -1643,6 +1707,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 107961,
+      "num": 107961,
+      "word": "王耀庆在内娱的人缘",
+      "onboard_time": 1763457203,
+      "rank": 45,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 107850,
       "num": 205841,
       "word": "全运会乒乓球女团四强对阵",
@@ -1651,12 +1723,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106979,
+      "num": 106979,
+      "word": "韩国警告日本绝对无法容忍",
+      "onboard_time": 1763458104,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 106874,
+      "num": 171398,
+      "word": "日本部分酒店开始遭中国顾客退订",
+      "onboard_time": 1763456303,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105820,
       "num": 129623,
       "word": "韩国取代日本成为最热门目的地",
       "onboard_time": 1763425342,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105004,
+      "num": 123071,
+      "word": "TF四代聊天记录 刻板印象",
+      "onboard_time": 1763454802,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 104253,
@@ -1673,14 +1769,6 @@
       "onboard_time": 1763421619,
       "rank": 38,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 104170,
-      "num": 104170,
-      "word": "四喜 沈明珠公公被气死",
-      "onboard_time": 1763455762,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 104074,
@@ -2195,6 +2283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50659,
+      "num": 135351,
+      "word": "高杨说樊振东是学习的榜样",
+      "onboard_time": 1763458041,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50396,
       "num": 50396,
       "word": "中方回应日本外务省高官访华",
@@ -2225,6 +2321,22 @@
       "onboard_time": 1763445802,
       "rank": 47,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 47158,
+      "num": 517530,
+      "word": "鼓励化妆品新品中国首发",
+      "onboard_time": 1763434221,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 46653,
+      "num": 138603,
+      "word": "新型杀猪盘来袭",
+      "onboard_time": 1763457803,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 46544,
@@ -2259,6 +2371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43623,
+      "num": 135140,
+      "word": "冬日减负从轻暖开始",
+      "onboard_time": 1763457383,
+      "rank": 40,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 43041,
       "num": 78155,
       "word": "枭起青壤能救鹅吗",
@@ -2281,14 +2401,6 @@
       "onboard_time": 1763447422,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40825,
-      "num": 123071,
-      "word": "TF四代聊天记录 刻板印象",
-      "onboard_time": 1763454802,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 40347,
@@ -2379,6 +2491,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 32390,
+      "num": 111442,
+      "word": "吵翻天的空嫂招聘已婚女性也不买账",
+      "onboard_time": 1763456843,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32127,
       "num": 663956,
       "word": "十五运今日看点",
@@ -2467,6 +2587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21974,
+      "num": 242941,
+      "word": "诡迷心窍想吃辣",
+      "onboard_time": 1763456783,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 21854,
       "num": 129598,
       "word": "王冰冰晒年假plog",
@@ -2481,6 +2609,22 @@
       "onboard_time": 1763408894,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 20312,
+      "num": 249966,
+      "word": "高市拿台湾搞事别怪中国谈琉球有事",
+      "onboard_time": 1763457444,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 19421,
+      "num": 141839,
+      "word": "河南疑似有无人配送车撞倒骑警",
+      "onboard_time": 1763457563,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19175,
@@ -2547,14 +2691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15609,
-      "num": 517530,
-      "word": "鼓励化妆品新品中国首发",
-      "onboard_time": 1763434221,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13187,
       "num": 20088,
       "word": "LOL传奇五人组只剩三位了",
@@ -2577,6 +2713,14 @@
       "onboard_time": 1763401456,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12336,
+      "num": 434731,
+      "word": "全运会闭幕式怎么举行",
+      "onboard_time": 1763457743,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10964,
