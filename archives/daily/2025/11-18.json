@@ -1,6 +1,6 @@
 {
   "startTime": 1763397398403,
-  "endTime": 1763470482636,
+  "endTime": 1763471350500,
   "band_list": [
     {
       "raw_hot": 2737200,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 729347,
-      "num": 209113,
+      "num": 230490,
       "word": "这一亲把央视解说干沉默了",
       "onboard_time": 1763464522,
       "rank": 30,
@@ -212,7 +212,7 @@
     },
     {
       "raw_hot": 596953,
-      "num": 197900,
+      "num": 202940,
       "word": "曝三字二字流量和原公司续约",
       "onboard_time": 1763464162,
       "rank": 23,
@@ -524,7 +524,7 @@
     },
     {
       "raw_hot": 359681,
-      "num": 205007,
+      "num": 227365,
       "word": "被樊振东的核心吓到",
       "onboard_time": 1763468723,
       "rank": 14,
@@ -619,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320201,
+      "num": 225234,
+      "word": "官方回应张博恒失误时裁判鼓掌大笑",
+      "onboard_time": 1763469144,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 309933,
       "num": 309933,
       "word": "王大陆出庭",
@@ -641,6 +649,14 @@
       "onboard_time": 1763393721,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300311,
+      "num": 300311,
+      "word": "阴阳师",
+      "onboard_time": 1763470464,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 300116,
@@ -739,6 +755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268550,
+      "num": 268550,
+      "word": "霍建华演完如懿传终于疯了",
+      "onboard_time": 1763469024,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 267854,
       "num": 168111,
       "word": "湖南一婴儿一出生就15岁",
@@ -803,14 +827,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 250496,
-      "num": 204275,
-      "word": "官方回应张博恒失误时裁判鼓掌大笑",
-      "onboard_time": 1763469144,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 241266,
       "num": 241266,
       "word": "户外博主坠亡遗体被无人机运下山",
@@ -843,20 +859,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 235883,
+      "num": 235883,
+      "word": "AL官宣Tabe离队",
+      "onboard_time": 1763467164,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 233895,
       "num": 233895,
       "word": "刘劲松与日本外务省官员会面",
       "onboard_time": 1763461102,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 231760,
-      "num": 231760,
-      "word": "AL官宣Tabe离队",
-      "onboard_time": 1763467164,
-      "rank": 5,
-      "category": "电竞"
     },
     {
       "raw_hot": 230023,
@@ -881,6 +897,14 @@
       "onboard_time": 1763430500,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 224554,
+      "num": 224554,
+      "word": "推特崩了",
+      "onboard_time": 1763468003,
+      "rank": 16,
+      "category": "互联网"
     },
     {
       "raw_hot": 223977,
@@ -915,16 +939,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 213728,
-      "num": 213728,
-      "word": "霍建华演完如懿传终于疯了",
-      "onboard_time": 1763469024,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 210404,
-      "num": 210404,
+      "num": 232959,
       "word": "疯狂动物城2中国首映礼",
       "onboard_time": 1763463682,
       "rank": 43,
@@ -947,6 +963,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 202242,
+      "num": 202242,
+      "word": "王菊再瘦就认不出来了",
+      "onboard_time": 1763470464,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202060,
       "num": 161913,
       "word": "elk删除了清者自清的微博",
@@ -961,6 +985,14 @@
       "onboard_time": 1763435601,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 199844,
+      "num": 199844,
+      "word": "canyon续约",
+      "onboard_time": 1763470523,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 199163,
@@ -1131,6 +1163,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 185707,
+      "num": 196261,
+      "word": "74岁老太杀73岁老太藏尸案将开庭",
+      "onboard_time": 1763469444,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185265,
       "num": 185265,
       "word": "GenG官宣Canyon离队",
@@ -1177,14 +1217,6 @@
       "onboard_time": 1763412493,
       "rank": 10,
       "category": "电影"
-    },
-    {
-      "raw_hot": 180121,
-      "num": 203656,
-      "word": "推特崩了",
-      "onboard_time": 1763468003,
-      "rank": 16,
-      "category": "互联网"
     },
     {
       "raw_hot": 179026,
@@ -1275,12 +1307,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 170860,
+      "num": 235334,
+      "word": "乒乓球男团决赛北京vs上海",
+      "onboard_time": 1763469324,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 169841,
       "num": 124531,
       "word": "森林北公布体检结果",
       "onboard_time": 1763380041,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 169629,
+      "num": 196365,
+      "word": "黑龙江体育感谢王曼昱",
+      "onboard_time": 1763469984,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 169311,
@@ -1312,6 +1360,14 @@
       "word": "陈幸同王艺迪2比3何卓佳王添艺",
       "onboard_time": 1763436682,
       "rank": 32,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 163362,
+      "num": 196194,
+      "word": "陈熠11比4陈梦",
+      "onboard_time": 1763467944,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1443,6 +1499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 154850,
+      "num": 154850,
+      "word": "近视手术五年后的真实感受",
+      "onboard_time": 1763470824,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 154323,
       "num": 154323,
       "word": "租的房间很小又要请朋友做客时",
@@ -1531,6 +1595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147241,
+      "num": 147241,
+      "word": "哇唧唧哇男团说进公司是为了追老板",
+      "onboard_time": 1763470763,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147215,
       "num": 147215,
       "word": "苹果回应iPhone17PM被湿巾擦掉色",
@@ -1561,14 +1633,6 @@
       "onboard_time": 1763450901,
       "rank": 34,
       "category": "数码"
-    },
-    {
-      "raw_hot": 145334,
-      "num": 196365,
-      "word": "黑龙江体育感谢王曼昱",
-      "onboard_time": 1763469984,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 145179,
@@ -1612,7 +1676,7 @@
     },
     {
       "raw_hot": 140379,
-      "num": 201638,
+      "num": 220241,
       "word": "唐诡3今天上当的只有我",
       "onboard_time": 1763465423,
       "rank": 18,
@@ -1641,6 +1705,14 @@
       "onboard_time": 1763455762,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137324,
+      "num": 137324,
+      "word": "张博恒失误时鼓掌的裁判被终止执裁",
+      "onboard_time": 1763470523,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 136412,
@@ -1800,14 +1872,6 @@
       "word": "张博恒全运会单杠金牌",
       "onboard_time": 1763390782,
       "rank": 16,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 125560,
-      "num": 196316,
-      "word": "乒乓球男团决赛北京vs上海",
-      "onboard_time": 1763469324,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -2027,14 +2091,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 116080,
-      "num": 196194,
-      "word": "陈熠11比4陈梦",
-      "onboard_time": 1763467944,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 116057,
       "num": 116057,
       "word": "樊振东在德甲学到反手体系",
@@ -2163,6 +2219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109391,
+      "num": 211139,
+      "word": "深蓝董事长称安全比速度更重要",
+      "onboard_time": 1763470464,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 109366,
       "num": 196227,
       "word": "孙颖莎带领河北进决赛",
@@ -2177,6 +2241,14 @@
       "onboard_time": 1763436141,
       "rank": 49,
       "category": "教育"
+    },
+    {
+      "raw_hot": 108441,
+      "num": 196141,
+      "word": "爱笑 新教练组一天就搞定了",
+      "onboard_time": 1763470403,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 108413,
@@ -2211,20 +2283,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 107596,
-      "num": 196141,
-      "word": "爱笑 新教练组一天就搞定了",
-      "onboard_time": 1763470403,
-      "rank": 48,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 107541,
       "num": 107541,
       "word": "小米三季度净利润113.11亿",
       "onboard_time": 1763459663,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 107327,
+      "num": 107327,
+      "word": "南宁动物园一大猩猩坐石头上抽烟",
+      "onboard_time": 1763471183,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106874,
@@ -2531,6 +2603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92046,
+      "num": 92046,
+      "word": "周恺3比1魏世皓",
+      "onboard_time": 1763470523,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90776,
       "num": 90776,
       "word": "宁波卫健委成立调查组",
@@ -2755,6 +2835,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 72483,
+      "num": 196258,
+      "word": "网友称贾乃亮直播间护肤品鉴定为假",
+      "onboard_time": 1763470403,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69624,
       "num": 219312,
       "word": "中日陷入外交危机责任完全在日方",
@@ -2843,12 +2931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 62084,
-      "num": 196261,
-      "word": "74岁老太杀73岁老太藏尸案将开庭",
-      "onboard_time": 1763469444,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 63693,
+      "num": 196244,
+      "word": "美国外卖员偷拍裸睡顾客称遭性骚扰",
+      "onboard_time": 1763469864,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 59986,
@@ -2923,20 +3011,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52322,
+      "num": 232331,
+      "word": "陈小春找到自己在家里的位置",
+      "onboard_time": 1763467524,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 52263,
       "num": 160941,
       "word": "河南女子隐瞒婚病史被退婚拒退彩礼",
       "onboard_time": 1763440823,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51767,
-      "num": 206859,
-      "word": "陈小春找到自己在家里的位置",
-      "onboard_time": 1763467524,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 51515,
@@ -3025,14 +3113,6 @@
       "onboard_time": 1763447001,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46276,
-      "num": 196258,
-      "word": "网友称贾乃亮直播间护肤品鉴定为假",
-      "onboard_time": 1763470403,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 45789,
@@ -3243,14 +3323,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 30672,
-      "num": 196244,
-      "word": "美国外卖员偷拍裸睡顾客称遭性骚扰",
-      "onboard_time": 1763469864,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 30200,
       "num": 141496,
       "word": "刘宇宁被叫顶流的反应",
@@ -3297,6 +3369,14 @@
       "onboard_time": 1763462181,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26545,
+      "num": 118242,
+      "word": "保安超48小时抢救无效工伤遭拒",
+      "onboard_time": 1763470644,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26270,

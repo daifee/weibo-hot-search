@@ -1,0 +1,410 @@
+{
+  "runTime": 1763471350500,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 886481,
+        "num": 1141837,
+        "word": "中方不接受日方提出的无理交涉",
+        "onboard_time": 1763452582,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 453779,
+        "num": 453779,
+        "word": "日本官员低头听中方讲话",
+        "onboard_time": 1763454442,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53637,
+        "num": 382423,
+        "word": "315晚会图片竟成美扣押巨额比特币证据",
+        "onboard_time": 1763468363,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 375409,
+        "num": 375409,
+        "word": "中方佩戴国徽同日本官员见面",
+        "onboard_time": 1763465541,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300311,
+        "num": 300311,
+        "word": "阴阳师",
+        "onboard_time": 1763470464,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 277404,
+        "num": 277404,
+        "word": "樊振东许昕晋级",
+        "onboard_time": 1763467164,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 268550,
+        "num": 268550,
+        "word": "霍建华演完如懿传终于疯了",
+        "onboard_time": 1763469024,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235883,
+        "num": 235883,
+        "word": "AL官宣Tabe离队",
+        "onboard_time": 1763467164,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 170860,
+        "num": 235334,
+        "word": "乒乓球男团决赛北京vs上海",
+        "onboard_time": 1763469324,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170015,
+        "num": 232959,
+        "word": "疯狂动物城2中国首映礼",
+        "onboard_time": 1763463682,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52322,
+        "num": 232331,
+        "word": "陈小春找到自己在家里的位置",
+        "onboard_time": 1763467524,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548842,
+        "num": 230490,
+        "word": "这一亲把央视解说干沉默了",
+        "onboard_time": 1763464522,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 369733,
+        "num": 228239,
+        "word": "明年的年龄有点严肃了",
+        "onboard_time": 1763447422,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 322843,
+        "num": 227365,
+        "word": "被樊振东的核心吓到",
+        "onboard_time": 1763468723,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320201,
+        "num": 225234,
+        "word": "官方回应张博恒失误时裁判鼓掌大笑",
+        "onboard_time": 1763469144,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224554,
+        "num": 224554,
+        "word": "推特崩了",
+        "onboard_time": 1763468003,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 134168,
+        "num": 223439,
+        "word": "迪丽热巴 绝美ending",
+        "onboard_time": 1763463923,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126981,
+        "num": 220241,
+        "word": "唐诡3今天上当的只有我",
+        "onboard_time": 1763465423,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109547,
+        "num": 214551,
+        "word": "王安宇疯狂动物城配音",
+        "onboard_time": 1763457323,
+        "rank": 18,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 109391,
+        "num": 211139,
+        "word": "深蓝董事长称安全比速度更重要",
+        "onboard_time": 1763470464,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 974247,
+        "num": 207684,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763444363,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 523678,
+        "num": 202940,
+        "word": "曝三字二字流量和原公司续约",
+        "onboard_time": 1763464162,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202242,
+        "num": 202242,
+        "word": "王菊再瘦就认不出来了",
+        "onboard_time": 1763470464,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164123,
+        "num": 200574,
+        "word": "AL教练",
+        "onboard_time": 1763463322,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 199844,
+        "num": 199844,
+        "word": "canyon续约",
+        "onboard_time": 1763470523,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185707,
+        "num": 185707,
+        "word": "74岁老太杀73岁老太藏尸案将开庭",
+        "onboard_time": 1763469444,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173968,
+        "num": 173968,
+        "word": "王楚钦一对一指导马龙",
+        "onboard_time": 1763468905,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169629,
+        "num": 169629,
+        "word": "黑龙江体育感谢王曼昱",
+        "onboard_time": 1763469984,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163362,
+        "num": 163362,
+        "word": "陈熠11比4陈梦",
+        "onboard_time": 1763467944,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157175,
+        "num": 157175,
+        "word": "冷美人获超38000元奖金",
+        "onboard_time": 1763460622,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219254,
+        "num": 156020,
+        "word": "王一博 老板发言我抠手",
+        "onboard_time": 1763462721,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154850,
+        "num": 154850,
+        "word": "近视手术五年后的真实感受",
+        "onboard_time": 1763470824,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 153797,
+        "num": 153797,
+        "word": "唐嫣罗晋前段时间被偶遇一起带娃",
+        "onboard_time": 1763469624,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147241,
+        "num": 147241,
+        "word": "哇唧唧哇男团说进公司是为了追老板",
+        "onboard_time": 1763470763,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137324,
+        "num": 137324,
+        "word": "张博恒失误时鼓掌的裁判被终止执裁",
+        "onboard_time": 1763470523,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135487,
+        "num": 135487,
+        "word": "女子买骆驼牌外套却在口袋掏出机票",
+        "onboard_time": 1763462123,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127985,
+        "num": 127985,
+        "word": "刘劲松与日本外务省官员会面",
+        "onboard_time": 1763461102,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121293,
+        "num": 121293,
+        "word": "歼15DT在福建舰上成功弹射",
+        "onboard_time": 1763467403,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26545,
+        "num": 118242,
+        "word": "保安超48小时抢救无效工伤遭拒",
+        "onboard_time": 1763470644,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72483,
+        "num": 118109,
+        "word": "网友称贾乃亮直播间护肤品鉴定为假",
+        "onboard_time": 1763470403,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118037,
+        "num": 118037,
+        "word": "姜妍 混成这样都不找你去",
+        "onboard_time": 1763451624,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116866,
+        "num": 116866,
+        "word": "陈梦vs陈熠",
+        "onboard_time": 1763463621,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113995,
+        "num": 113995,
+        "word": "韩国警告日本绝对无法容忍",
+        "onboard_time": 1763458104,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112843,
+        "num": 112843,
+        "word": "医生眼中无意识控糖的行为",
+        "onboard_time": 1763469262,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108441,
+        "num": 108441,
+        "word": "爱笑 新教练组一天就搞定了",
+        "onboard_time": 1763470403,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107327,
+        "num": 107327,
+        "word": "南宁动物园一大猩猩坐石头上抽烟",
+        "onboard_time": 1763471183,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100840,
+        "num": 100840,
+        "word": "曝二字女星录节目迟到不回消息",
+        "onboard_time": 1763461225,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 63693,
+        "num": 98922,
+        "word": "美国外卖员偷拍裸睡顾客称遭性骚扰",
+        "onboard_time": 1763469864,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98179,
+        "num": 98179,
+        "word": "王曼昱缺阵女团半决赛",
+        "onboard_time": 1763460922,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92046,
+        "num": 92046,
+        "word": "周恺3比1魏世皓",
+        "onboard_time": 1763470523,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
