@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763473792592,
+  "endTime": 1763476094341,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -297,6 +297,14 @@
       "onboard_time": 1763099242,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2158508,
+      "num": 217139,
+      "word": "曝唐嫣罗晋分居一年半了",
+      "onboard_time": 1763473165,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 2146340,
@@ -3003,6 +3011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 722828,
+      "num": 191588,
+      "word": "王橹杰发博",
+      "onboard_time": 1763475085,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 719654,
       "num": 293795,
       "word": "中国人对于晒被子的执念",
@@ -4331,6 +4347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 602434,
+      "num": 202842,
+      "word": "近视手术五年后的真实感受",
+      "onboard_time": 1763470824,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 600248,
       "num": 1096039,
       "word": "表妹万福杀青",
@@ -4977,14 +5001,6 @@
       "onboard_time": 1763035461,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 558200,
-      "num": 217139,
-      "word": "曝唐嫣罗晋分居一年半了",
-      "onboard_time": 1763473165,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 556970,
@@ -7739,6 +7755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416218,
+      "num": 416218,
+      "word": "北大教授因三生三世入坑网文",
+      "onboard_time": 1763471903,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 415794,
       "num": 194133,
       "word": "向太称子女敢去美国就捐光家产",
@@ -8723,6 +8747,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 382286,
+      "num": 249277,
+      "word": "74岁老太杀73岁老太藏尸案将开庭",
+      "onboard_time": 1763469444,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 382266,
       "num": 474008,
       "word": "山姆在争议声中再更新APP",
@@ -9089,14 +9121,6 @@
       "onboard_time": 1763366181,
       "rank": 5,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 368399,
-      "num": 249277,
-      "word": "74岁老太杀73岁老太藏尸案将开庭",
-      "onboard_time": 1763469444,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 368101,
@@ -11379,14 +11403,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 304486,
-      "num": 288867,
-      "word": "北大教授因三生三世入坑网文",
-      "onboard_time": 1763471903,
-      "rank": 12,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304410,
       "num": 304410,
       "word": "樊振东采访",
@@ -11737,6 +11753,14 @@
       "onboard_time": 1763282542,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 298638,
+      "num": 298638,
+      "word": "中方穿五四青年服见日本官员",
+      "onboard_time": 1763471423,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 298620,
@@ -16675,14 +16699,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 209016,
-      "num": 197700,
-      "word": "近视手术五年后的真实感受",
-      "onboard_time": 1763470824,
-      "rank": 31,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 208889,
       "num": 208889,
       "word": "赵子豪晋级全运会男单八强",
@@ -17435,12 +17451,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 202324,
-      "num": 252534,
-      "word": "中方穿五四青年服见日本官员",
-      "onboard_time": 1763471423,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 202340,
+      "num": 202340,
+      "word": "陈梦vs杨屹韵",
+      "onboard_time": 1763474065,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 202230,
@@ -18177,6 +18193,14 @@
       "onboard_time": 1762779202,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 196309,
+      "num": 196309,
+      "word": "陈乔恩没想到宋茜吃得这么好",
+      "onboard_time": 1763471664,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 196281,
@@ -19217,14 +19241,6 @@
       "onboard_time": 1762614802,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 189993,
-      "num": 189993,
-      "word": "陈乔恩没想到宋茜吃得这么好",
-      "onboard_time": 1763471664,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 189968,
@@ -21403,6 +21419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175482,
+      "num": 198639,
+      "word": "金鸡奖 奖金",
+      "onboard_time": 1763475623,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 175443,
       "num": 175443,
       "word": "历任工作人员集体发声力挺曾轶可",
@@ -21601,6 +21625,14 @@
       "onboard_time": 1762244241,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173857,
+      "num": 173857,
+      "word": "cloudflare崩了",
+      "onboard_time": 1763471603,
+      "rank": 40,
+      "category": "互联网"
     },
     {
       "raw_hot": 173801,
@@ -23539,14 +23571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 161667,
-      "num": 161667,
-      "word": "cloudflare崩了",
-      "onboard_time": 1763471603,
-      "rank": 40,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161560,
       "num": 161560,
       "word": "上海最贵的面vs上海最便宜的面",
@@ -23819,6 +23843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160384,
+      "num": 160384,
+      "word": "南京市市长调整",
+      "onboard_time": 1763474785,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 160353,
       "num": 160353,
       "word": "郭宇欣回应粉丝让少接吻戏",
@@ -23840,6 +23872,14 @@
       "word": "黄景瑜像王安宇保镖",
       "onboard_time": 1762675040,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160213,
+      "num": 160213,
+      "word": "王菊瘦成少女时代泰妍了",
+      "onboard_time": 1763475265,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -27697,6 +27737,14 @@
       "onboard_time": 1762768820,
       "rank": 35,
       "category": "演出,教育"
+    },
+    {
+      "raw_hot": 141669,
+      "num": 141669,
+      "word": "纪念币",
+      "onboard_time": 1763475925,
+      "rank": 37,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 141665,
@@ -32651,6 +32699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124367,
+      "num": 124367,
+      "word": "孙颖莎都给你安排的妥妥的",
+      "onboard_time": 1763475024,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124360,
       "num": 124360,
       "word": "K总自曝被粉丝装惨骗钱",
@@ -33828,7 +33884,7 @@
     },
     {
       "raw_hot": 121028,
-      "num": 157451,
+      "num": 310540,
       "word": "福建舰入列后首次海上实兵训练",
       "onboard_time": 1763458703,
       "rank": 28,
@@ -34139,6 +34195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120009,
+      "num": 160192,
+      "word": "AG爱笑回应Tabe离队",
+      "onboard_time": 1763472863,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 120000,
       "num": 178641,
       "word": "辛芷蕾点赞易烊千玺",
@@ -34176,14 +34240,6 @@
       "word": "狼队坐着握手",
       "onboard_time": 1762683379,
       "rank": 40,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 119867,
-      "num": 160192,
-      "word": "AG爱笑回应Tabe离队",
-      "onboard_time": 1763472863,
-      "rank": 47,
       "category": "电竞"
     },
     {
@@ -36537,6 +36593,14 @@
       "onboard_time": 1762245801,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113181,
+      "num": 113181,
+      "word": "穿秋裤的人vs不穿秋裤的人",
+      "onboard_time": 1763475685,
+      "rank": 47,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 113174,
@@ -60051,6 +60115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 42212,
+      "num": 202602,
+      "word": "百万超跑驾控深蓝L06价格13.29万",
+      "onboard_time": 1763474905,
+      "rank": 13,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 42186,
       "num": 241586,
       "word": "司马光跳猫猫舞",
@@ -60291,6 +60363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 41020,
+      "num": 114853,
+      "word": "迪卡侬回应误认顾客偷衣服并报警",
+      "onboard_time": 1763474603,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41014,
       "num": 183545,
       "word": "习惯每一年有奔驰的S赛",
@@ -60345,6 +60425,14 @@
       "onboard_time": 1763012181,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 40507,
+      "num": 133158,
+      "word": "广州长隆回应摩托车撞上铁笼",
+      "onboard_time": 1763474785,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40453,
@@ -63457,6 +63545,14 @@
       "onboard_time": 1762495280,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25304,
+      "num": 135347,
+      "word": "男子术后截肢家属称医院多次改病历",
+      "onboard_time": 1763475144,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25298,
