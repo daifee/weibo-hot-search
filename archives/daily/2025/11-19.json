@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763504844845,
+  "endTime": 1763505775353,
   "band_list": [
     {
       "raw_hot": 592220,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 373599,
-      "num": 392984,
+      "num": 495777,
       "word": "韩国外交部发表声明",
       "onboard_time": 1763476763,
       "rank": 10,
@@ -171,6 +171,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 103929,
+      "num": 128764,
+      "word": "这一亲把央视解说干沉默了",
+      "onboard_time": 1763464522,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95359,
       "num": 130289,
       "word": "曝三字二字流量和原公司续约",
@@ -193,14 +201,6 @@
       "onboard_time": 1763476583,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 83216,
-      "num": 128764,
-      "word": "这一亲把央视解说干沉默了",
-      "onboard_time": 1763464522,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 80800,
@@ -249,6 +249,14 @@
       "onboard_time": 1763470464,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67539,
+      "num": 42837,
+      "word": "央视主持人发文盛赞樊振东",
+      "onboard_time": 1763500513,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 65831,
@@ -387,14 +395,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50660,
-      "num": 34349,
-      "word": "央视主持人发文盛赞樊振东",
-      "onboard_time": 1763500513,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 49206,
       "num": 65214,
       "word": "曝双一线情侣还好着",
@@ -443,20 +443,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41918,
+      "num": 41918,
+      "word": "冷美人称头发像石头剪不下来了",
+      "onboard_time": 1763496494,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39198,
       "num": 125786,
       "word": "AL教练",
       "onboard_time": 1763463322,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 33598,
-      "num": 33598,
-      "word": "冷美人称头发像石头剪不下来了",
-      "onboard_time": 1763496494,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33267,
@@ -475,8 +475,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28323,
-      "num": 33087,
+      "raw_hot": 29567,
+      "num": 36211,
       "word": "江西老太藏尸案被害人女儿发声",
       "onboard_time": 1763498233,
       "rank": 28,
@@ -499,6 +499,30 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23243,
+      "num": 41279,
+      "word": "女儿说不喜欢黄一鸣了",
+      "onboard_time": 1763489594,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21679,
+      "num": 36073,
+      "word": "韩国召见日本公使严正抗议",
+      "onboard_time": 1763499433,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21638,
+      "num": 36065,
+      "word": "广东国际模特大赛冠军引争议",
+      "onboard_time": 1763502794,
+      "rank": 45,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 21249,
       "num": 41306,
       "word": "近期避免前往日本旅游",
@@ -507,12 +531,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20113,
-      "num": 41279,
-      "word": "女儿说不喜欢黄一鸣了",
-      "onboard_time": 1763489594,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 21037,
+      "num": 36060,
+      "word": "日本民众集会抗议要求高市下台",
+      "onboard_time": 1763505136,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20005,
@@ -523,14 +547,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 17916,
-      "num": 33067,
-      "word": "韩国召见日本公使严正抗议",
-      "onboard_time": 1763499433,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16894,
       "num": 41234,
       "word": "李昀锐剧本排到明年下半年了",
@@ -539,12 +555,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15381,
-      "num": 33062,
-      "word": "广东国际模特大赛冠军引争议",
-      "onboard_time": 1763502794,
-      "rank": 45,
-      "category": "时尚"
+      "raw_hot": 15248,
+      "num": 36036,
+      "word": "李兰迪 溢出屏幕的明媚",
+      "onboard_time": 1763505736,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 15087,

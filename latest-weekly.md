@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/19 06:27:24
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/19 06:42:55
 </p>
 </blockquote>
 <p>
@@ -7101,6 +7101,12 @@ U22国足vs乌兹别克斯坦U22（热度：69158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E6%96%87%E7%9B%9B%E8%B5%9E%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
+央视主持人发文盛赞樊振东（热度：67539）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23315%E6%99%9A%E4%BC%9A%E5%9B%BE%E7%89%87%E7%AB%9F%E6%88%90%E7%BE%8E%E6%89%A3%E6%8A%BC%E5%B7%A8%E9%A2%9D%E6%AF%94%E7%89%B9%E5%B8%81%E8%AF%81%E6%8D%AE%23" target="weibo">
 315晚会图片竟成美扣押巨额比特币证据（热度：66860）
 </a>
@@ -7473,12 +7479,6 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E5%8F%91%E6%96%87%E7%9B%9B%E8%B5%9E%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
-央视主持人发文盛赞樊振东（热度：50660）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E9%AB%98%E5%AE%98%E8%AE%BF%E5%8D%8E%23" target="weibo">
 中方回应日本外务省高官访华（热度：50396）
 </a>
@@ -7703,6 +7703,12 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2370%E4%B8%87%E5%85%83%E5%A5%94%E9%A9%B0%E5%A4%A9%E7%AA%97%E7%A0%B4%E6%B4%9E%E8%BD%A6%E4%B8%BB%E8%B4%A8%E7%96%91%E7%BA%B8%E7%B3%8A%23" target="weibo">
 70万元奔驰天窗破洞车主质疑纸糊（热度：41933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E7%A7%B0%E5%A4%B4%E5%8F%91%E5%83%8F%E7%9F%B3%E5%A4%B4%E5%89%AA%E4%B8%8D%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
+冷美人称头发像石头剪不下来了（热度：41918）
 </a>
 </li>
 
@@ -7983,12 +7989,6 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E7%A7%B0%E5%A4%B4%E5%8F%91%E5%83%8F%E7%9F%B3%E5%A4%B4%E5%89%AA%E4%B8%8D%E4%B8%8B%E6%9D%A5%E4%BA%86%23" target="weibo">
-冷美人称头发像石头剪不下来了（热度：33598）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%B5%B7%E7%9C%8B%E5%85%A8%E8%BF%90%E4%BC%9A%23" target="weibo">
 一起看全运会（热度：33552）
 </a>
@@ -8187,6 +8187,12 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%80%81%E5%A4%AA%E8%97%8F%E5%B0%B8%E6%A1%88%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+江西老太藏尸案被害人女儿发声（热度：29567）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%B4%A2%E8%A7%A3%E5%BC%80%E9%87%8D%E5%A4%A7%E8%B0%9C%E9%A2%98%23" target="weibo">
 中国拉索解开重大谜题（热度：29074）
 </a>
@@ -8207,12 +8213,6 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%AA%E5%A5%BD%E7%AC%91%E4%BA%86%23" target="weibo">
 白敬亭王安宇太好笑了（热度：28337）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%80%81%E5%A4%AA%E8%97%8F%E5%B0%B8%E6%A1%88%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
-江西老太藏尸案被害人女儿发声（热度：28323）
 </a>
 </li>
 
@@ -8373,6 +8373,12 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AF%B4%E4%B8%8D%E5%96%9C%E6%AC%A2%E9%BB%84%E4%B8%80%E9%B8%A3%E4%BA%86%23" target="weibo">
+女儿说不喜欢黄一鸣了（热度：23243）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B7%E5%BA%95%E5%BF%AB%E9%80%9A%E9%97%A8%E7%A5%A8%E5%A5%97%E9%A4%90%E9%99%B7%E9%98%B1%23" target="weibo">
 起底快通门票套餐陷阱（热度：22865）
 </a>
@@ -8409,8 +8415,26 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E5%85%AC%E4%BD%BF%E4%B8%A5%E6%AD%A3%E6%8A%97%E8%AE%AE%23" target="weibo">
+韩国召见日本公使严正抗议（热度：21679）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%9B%BD%E9%99%85%E6%A8%A1%E7%89%B9%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+广东国际模特大赛冠军引争议（热度：21638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%23" target="weibo">
 近期避免前往日本旅游（热度：21249）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E9%9B%86%E4%BC%9A%E6%8A%97%E8%AE%AE%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E4%B8%8B%E5%8F%B0%23" target="weibo">
+日本民众集会抗议要求高市下台（热度：21037）
 </a>
 </li>
 
@@ -8435,12 +8459,6 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%89%E9%87%8D%E8%B9%88%E5%86%9B%E5%9B%BD%E4%B8%BB%E4%B9%89%E8%A6%86%E8%BE%99%E7%9A%84%E5%8D%B1%E9%99%A9%23" target="weibo">
 日本有重蹈军国主义覆辙的危险（热度：20288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%84%BF%E8%AF%B4%E4%B8%8D%E5%96%9C%E6%AC%A2%E9%BB%84%E4%B8%80%E9%B8%A3%E4%BA%86%23" target="weibo">
-女儿说不喜欢黄一鸣了（热度：20113）
 </a>
 </li>
 
@@ -8523,12 +8541,6 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E5%8F%AC%E8%A7%81%E6%97%A5%E6%9C%AC%E5%85%AC%E4%BD%BF%E4%B8%A5%E6%AD%A3%E6%8A%97%E8%AE%AE%23" target="weibo">
-韩国召见日本公使严正抗议（热度：17916）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%9C%BA%E5%9C%BA%E6%AF%94%E8%B5%9B%E5%B1%95%E7%A4%BA%E5%A4%A7%E6%B9%BE%E5%8C%BA%E8%9E%8D%E5%90%88%E5%8F%91%E5%B1%95%E6%88%90%E6%9E%9C%23" target="weibo">
 一场场比赛展示大湾区融合发展成果（热度：17710）
 </a>
@@ -8577,8 +8589,8 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E5%9B%BD%E9%99%85%E6%A8%A1%E7%89%B9%E5%A4%A7%E8%B5%9B%E5%86%A0%E5%86%9B%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-广东国际模特大赛冠军引争议（热度：15381）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%85%B0%E8%BF%AA%20%E6%BA%A2%E5%87%BA%E5%B1%8F%E5%B9%95%E7%9A%84%E6%98%8E%E5%AA%9A%23" target="weibo">
+李兰迪 溢出屏幕的明媚（热度：15248）
 </a>
 </li>
 
