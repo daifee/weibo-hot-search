@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763549177005,
+  "endTime": 1763551493800,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 1472332,
-      "num": 205647,
+      "num": 207605,
       "word": "唐嫣 罗晋",
       "onboard_time": 1763444363,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1364276,
+      "num": 260384,
+      "word": "朱志鑫直播",
+      "onboard_time": 1763550022,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -131,7 +139,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 641466,
+      "raw_hot": 661507,
+      "num": 220741,
+      "word": "俄罗斯警告高市早苗",
+      "onboard_time": 1763549003,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 659004,
       "num": 268779,
       "word": "AI假图 仅退款",
       "onboard_time": 1763545642,
@@ -259,6 +275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 531624,
+      "num": 531624,
+      "word": "T1官宣Peyz加入",
+      "onboard_time": 1763550561,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 523653,
       "num": 523653,
       "word": "朝鲜代表联大发言炮轰日本",
@@ -364,7 +388,7 @@
     },
     {
       "raw_hot": 446486,
-      "num": 203202,
+      "num": 203852,
       "word": "良田有女朋友了",
       "onboard_time": 1763545342,
       "rank": 49,
@@ -385,6 +409,14 @@
       "onboard_time": 1763521881,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 438396,
+      "num": 212291,
+      "word": "摄影届来了个天才",
+      "onboard_time": 1763548642,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 436981,
@@ -531,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 358105,
+      "num": 212106,
+      "word": "梦天拍的朱志鑫",
+      "onboard_time": 1763543782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353351,
       "num": 353351,
       "word": "杨瀚森9分5篮板3助攻",
@@ -571,6 +611,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 336044,
+      "num": 210165,
+      "word": "16人点5份披萨遭辱骂当事人发声",
+      "onboard_time": 1763547622,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332886,
+      "num": 332886,
+      "word": "网红橙子姐姐涉嫌诈骗及跨境贩运人口",
+      "onboard_time": 1763545042,
+      "rank": 36,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 332105,
       "num": 220832,
       "word": "羽绒服 涨价狂潮",
@@ -596,7 +652,7 @@
     },
     {
       "raw_hot": 322291,
-      "num": 209853,
+      "num": 213291,
       "word": "JDG官宣Peyz离队",
       "onboard_time": 1763548282,
       "rank": 11,
@@ -609,6 +665,14 @@
       "onboard_time": 1763533521,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 315094,
+      "num": 209037,
+      "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
+      "onboard_time": 1763545881,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 314392,
@@ -683,28 +747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 282159,
-      "num": 282159,
-      "word": "网红橙子姐姐涉嫌诈骗及跨境贩运人口",
-      "onboard_time": 1763545042,
-      "rank": 36,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 274839,
-      "num": 199547,
+      "num": 201921,
       "word": "霍启山娜然相差了14岁",
       "onboard_time": 1763545762,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 272700,
-      "num": 207484,
-      "word": "16人点5份披萨遭辱骂当事人发声",
-      "onboard_time": 1763547622,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 271438,
@@ -745,14 +793,6 @@
       "onboard_time": 1763546723,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 256345,
-      "num": 207854,
-      "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
-      "onboard_time": 1763545881,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 254062,
@@ -859,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223792,
+      "num": 223792,
+      "word": "乒乓球女团决赛河北vs山东",
+      "onboard_time": 1763550203,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223766,
       "num": 223766,
       "word": "曝Tabe离开AL原因",
@@ -939,14 +987,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 204675,
-      "num": 204675,
-      "word": "梦天拍的朱志鑫",
-      "onboard_time": 1763543782,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204072,
       "num": 212003,
       "word": "迪丽热巴新剧赶上两班倒了",
@@ -961,6 +1001,22 @@
       "onboard_time": 1763534540,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 202225,
+      "num": 202225,
+      "word": "日本间谍网曾在中国无孔不入",
+      "onboard_time": 1763548282,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 201641,
+      "num": 201641,
+      "word": "何卓佳王添艺0比3王晓彤陈梦",
+      "onboard_time": 1763550022,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 199638,
@@ -1001,6 +1057,22 @@
       "onboard_time": 1763528482,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 196312,
+      "num": 196312,
+      "word": "孙颖莎vs范思琦",
+      "onboard_time": 1763545822,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193029,
+      "num": 193029,
+      "word": "易烊千玺粉丝人均宣发鬼才",
+      "onboard_time": 1763549542,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 192977,
@@ -1195,14 +1267,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 163447,
-      "num": 195315,
-      "word": "摄影届来了个天才",
-      "onboard_time": 1763548642,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 162996,
       "num": 162996,
       "word": "狂野时代",
@@ -1273,14 +1337,6 @@
       "onboard_time": 1763484378,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 153565,
-      "num": 153565,
-      "word": "俄罗斯警告高市早苗",
-      "onboard_time": 1763549003,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 153302,
@@ -1441,6 +1497,14 @@
       "onboard_time": 1763519601,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139961,
+      "num": 139961,
+      "word": "王一博粉丝挺难 粉上只岩羊",
+      "onboard_time": 1763550803,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139909,
@@ -1683,12 +1747,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123885,
+      "num": 167818,
+      "word": "看R1SE蘑菇屋路透脸都要笑烂了",
+      "onboard_time": 1763550803,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123409,
       "num": 123409,
       "word": "狼来啦2收官走心了",
       "onboard_time": 1763543962,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123301,
+      "num": 123301,
+      "word": "孙颖莎11比5范思琦",
+      "onboard_time": 1763551461,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 123184,
@@ -1705,6 +1785,14 @@
       "onboard_time": 1763522841,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122964,
+      "num": 170013,
+      "word": "卢凌风阻止苏无名从商的原因",
+      "onboard_time": 1763550623,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 122557,
@@ -1753,6 +1841,14 @@
       "onboard_time": 1763534180,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 120405,
+      "num": 120405,
+      "word": "网传刘浩存去虎鲸",
+      "onboard_time": 1763551281,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 118357,
@@ -1857,6 +1953,14 @@
       "onboard_time": 1763527463,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115061,
+      "num": 115061,
+      "word": "何炅以后探店的话我是一家不去",
+      "onboard_time": 1763551222,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 114835,
@@ -2123,6 +2227,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 92722,
+      "num": 781683,
+      "word": "地下700米国之重器放大招",
+      "onboard_time": 1763550022,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92633,
       "num": 120657,
       "word": "冷美人称头发像石头剪不下来了",
@@ -2339,14 +2451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 68873,
-      "num": 194928,
-      "word": "日本间谍网曾在中国无孔不入",
-      "onboard_time": 1763548282,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 67801,
       "num": 210444,
       "word": "华为MateX7实拍样张首曝",
@@ -2385,6 +2489,14 @@
       "onboard_time": 1763462721,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64473,
+      "num": 208654,
+      "word": "女子产后大出血遇救护人员态度散漫",
+      "onboard_time": 1763551042,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64299,
@@ -2644,7 +2756,7 @@
     },
     {
       "raw_hot": 43430,
-      "num": 523307,
+      "num": 629653,
       "word": "第十五届全运会",
       "onboard_time": 1763545582,
       "rank": 2,

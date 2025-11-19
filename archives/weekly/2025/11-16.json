@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763549177005,
+  "endTime": 1763551493800,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -169,6 +169,14 @@
       "onboard_time": 1763275162,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1364276,
+      "num": 260384,
+      "word": "朱志鑫直播",
+      "onboard_time": 1763550022,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1363515,
@@ -803,6 +811,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 661507,
+      "num": 220741,
+      "word": "俄罗斯警告高市早苗",
+      "onboard_time": 1763549003,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 659004,
+      "num": 268779,
+      "word": "AI假图 仅退款",
+      "onboard_time": 1763545642,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 655836,
       "num": 823129,
       "word": "奥特曼扮演者发文质问高市早苗",
@@ -857,14 +881,6 @@
       "onboard_time": 1763429721,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 641466,
-      "num": 268779,
-      "word": "AI假图 仅退款",
-      "onboard_time": 1763545642,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 639986,
@@ -1339,6 +1355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531624,
+      "num": 531624,
+      "word": "T1官宣Peyz加入",
+      "onboard_time": 1763550561,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 527235,
       "num": 279287,
       "word": "沈佳润是不是偷吃零食了",
@@ -1796,7 +1820,7 @@
     },
     {
       "raw_hot": 446486,
-      "num": 203202,
+      "num": 203852,
       "word": "良田有女朋友了",
       "onboard_time": 1763545342,
       "rank": 49,
@@ -1841,6 +1865,14 @@
       "onboard_time": 1763521881,
       "rank": 24,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 438396,
+      "num": 212291,
+      "word": "摄影届来了个天才",
+      "onboard_time": 1763548642,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 436981,
@@ -2475,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358105,
+      "num": 212106,
+      "word": "梦天拍的朱志鑫",
+      "onboard_time": 1763543782,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 356859,
       "num": 231492,
       "word": "梁靖崑坐下去都困难",
@@ -2651,6 +2691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 336044,
+      "num": 210165,
+      "word": "16人点5份披萨遭辱骂当事人发声",
+      "onboard_time": 1763547622,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 335280,
       "num": 213008,
       "word": "潘展乐晒一床大湾鸡",
@@ -2689,6 +2737,14 @@
       "onboard_time": 1763471423,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 332886,
+      "num": 332886,
+      "word": "网红橙子姐姐涉嫌诈骗及跨境贩运人口",
+      "onboard_time": 1763545042,
+      "rank": 36,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 332105,
@@ -2764,7 +2820,7 @@
     },
     {
       "raw_hot": 322291,
-      "num": 209853,
+      "num": 213291,
       "word": "JDG官宣Peyz离队",
       "onboard_time": 1763548282,
       "rank": 11,
@@ -2809,6 +2865,14 @@
       "onboard_time": 1763533521,
       "rank": 12,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 315094,
+      "num": 209037,
+      "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
+      "onboard_time": 1763545881,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 314700,
@@ -3187,14 +3251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282159,
-      "num": 282159,
-      "word": "网红橙子姐姐涉嫌诈骗及跨境贩运人口",
-      "onboard_time": 1763545042,
-      "rank": 36,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 281166,
       "num": 281166,
       "word": "王俊凯王源包场易烊千玺新片",
@@ -3252,7 +3308,7 @@
     },
     {
       "raw_hot": 274839,
-      "num": 199547,
+      "num": 201921,
       "word": "霍启山娜然相差了14岁",
       "onboard_time": 1763545762,
       "rank": 33,
@@ -3281,14 +3337,6 @@
       "onboard_time": 1763381661,
       "rank": 43,
       "category": "教育"
-    },
-    {
-      "raw_hot": 272700,
-      "num": 207484,
-      "word": "16人点5份披萨遭辱骂当事人发声",
-      "onboard_time": 1763547622,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 272300,
@@ -3553,14 +3601,6 @@
       "onboard_time": 1763259561,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 256345,
-      "num": 207854,
-      "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
-      "onboard_time": 1763545881,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 255478,
@@ -4003,6 +4043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223792,
+      "num": 223792,
+      "word": "乒乓球女团决赛河北vs山东",
+      "onboard_time": 1763550203,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223766,
       "num": 223766,
       "word": "曝Tabe离开AL原因",
@@ -4323,14 +4371,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 204675,
-      "num": 204675,
-      "word": "梦天拍的朱志鑫",
-      "onboard_time": 1763543782,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204641,
       "num": 204641,
       "word": "RNG",
@@ -4411,6 +4451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202225,
+      "num": 202225,
+      "word": "日本间谍网曾在中国无孔不入",
+      "onboard_time": 1763548282,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 202060,
       "num": 161913,
       "word": "elk删除了清者自清的微博",
@@ -4440,6 +4488,14 @@
       "word": "樊振东一二三手势庆祝",
       "onboard_time": 1763277742,
       "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 201641,
+      "num": 201641,
+      "word": "何卓佳王添艺0比3王晓彤陈梦",
+      "onboard_time": 1763550022,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -4595,6 +4651,14 @@
       "category": "科学科普,美食"
     },
     {
+      "raw_hot": 196312,
+      "num": 196312,
+      "word": "孙颖莎vs范思琦",
+      "onboard_time": 1763545822,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196309,
       "num": 196309,
       "word": "陈乔恩没想到宋茜吃得这么好",
@@ -4713,6 +4777,14 @@
       "onboard_time": 1763307083,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193029,
+      "num": 193029,
+      "word": "易烊千玺粉丝人均宣发鬼才",
+      "onboard_time": 1763549542,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 192977,
@@ -5955,14 +6027,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163447,
-      "num": 195315,
-      "word": "摄影届来了个天才",
-      "onboard_time": 1763548642,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 163363,
       "num": 240319,
       "word": "南京一公园被私人占有数年后续",
@@ -6513,14 +6577,6 @@
       "onboard_time": 1763435422,
       "rank": 33,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 153565,
-      "num": 153565,
-      "word": "俄罗斯警告高市早苗",
-      "onboard_time": 1763549003,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 153302,
@@ -7241,6 +7297,14 @@
       "onboard_time": 1763299823,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139961,
+      "num": 139961,
+      "word": "王一博粉丝挺难 粉上只岩羊",
+      "onboard_time": 1763550803,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 139909,
@@ -8235,6 +8299,14 @@
       "category": "综艺,动漫"
     },
     {
+      "raw_hot": 123885,
+      "num": 167818,
+      "word": "看R1SE蘑菇屋路透脸都要笑烂了",
+      "onboard_time": 1763550803,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123743,
       "num": 123743,
       "word": "剖腹产真的和网上说的不一样",
@@ -8267,6 +8339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 123301,
+      "num": 123301,
+      "word": "孙颖莎11比5范思琦",
+      "onboard_time": 1763551461,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 123244,
       "num": 123244,
       "word": "中方对日迎头痛击如何击有多痛",
@@ -8297,6 +8377,14 @@
       "onboard_time": 1763522841,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122964,
+      "num": 170013,
+      "word": "卢凌风阻止苏无名从商的原因",
+      "onboard_time": 1763550623,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 122741,
@@ -8529,6 +8617,14 @@
       "onboard_time": 1763448563,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120405,
+      "num": 120405,
+      "word": "网传刘浩存去虎鲸",
+      "onboard_time": 1763551281,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 120342,
@@ -9041,6 +9137,14 @@
       "onboard_time": 1763469923,
       "rank": 45,
       "category": "数码"
+    },
+    {
+      "raw_hot": 115061,
+      "num": 115061,
+      "word": "何炅以后探店的话我是一家不去",
+      "onboard_time": 1763551222,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 115052,
@@ -10539,6 +10643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92722,
+      "num": 781683,
+      "word": "地下700米国之重器放大招",
+      "onboard_time": 1763550022,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 92636,
       "num": 92636,
       "word": "乒乓球女团河北山东争冠",
@@ -11459,14 +11571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 68873,
-      "num": 194928,
-      "word": "日本间谍网曾在中国无孔不入",
-      "onboard_time": 1763548282,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 68845,
       "num": 68845,
       "word": "陈梦说我们都会祝福冠军",
@@ -11608,6 +11712,14 @@
       "word": "男子刺死打人者被判死刑将上诉",
       "onboard_time": 1763269281,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 64473,
+      "num": 208654,
+      "word": "女子产后大出血遇救护人员态度散漫",
+      "onboard_time": 1763551042,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -12396,7 +12508,7 @@
     },
     {
       "raw_hot": 43430,
-      "num": 523307,
+      "num": 629653,
       "word": "第十五届全运会",
       "onboard_time": 1763545582,
       "rank": 2,
