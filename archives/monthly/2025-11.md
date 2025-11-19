@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 18:30:42
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 18:46:17
 </p>
 </blockquote>
 <p>
@@ -2961,6 +2961,12 @@ T1 Peyz（热度：653404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23AI%E5%81%87%E5%9B%BE%20%E4%BB%85%E9%80%80%E6%AC%BE%23" target="weibo">
+AI假图 仅退款（热度：641466）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%8B%AC%E8%B5%84%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 王一博已成立个人独资工作室（热度：641198）
 </a>
@@ -4558,7 +4564,7 @@ Faker谈多兰多次失误（热度：516116）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%9A%82%E5%81%9C%E5%B9%B2%E9%A2%84%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%23" target="weibo">
-荷兰暂停干预安世半导体（热度：508636）
+荷兰暂停干预安世半导体（热度：508777）
 </a>
 </li>
 
@@ -5679,14 +5685,14 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E7%BB%99%E8%B0%88%E8%8E%89%E5%A8%9C%E9%80%81%E4%BA%86%E6%96%B0%E5%A9%9A%E7%A5%9D%E7%A6%8F%23" target="weibo">
-张翰给谈莉娜送了新婚祝福（热度：442000）
+<a href="https://s.weibo.com/weibo?q=%23Kanavi%20HLE%23" target="weibo">
+Kanavi HLE（热度：442015）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23AI%E5%81%87%E5%9B%BE%20%E4%BB%85%E9%80%80%E6%AC%BE%23" target="weibo">
-AI假图 仅退款（热度：441920）
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E7%BB%99%E8%B0%88%E8%8E%89%E5%A8%9C%E9%80%81%E4%BA%86%E6%96%B0%E5%A9%9A%E7%A5%9D%E7%A6%8F%23" target="weibo">
+张翰给谈莉娜送了新婚祝福（热度：442000）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ k总老婆因经常喝热水食道被灼伤（热度：431857）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E9%AB%98%E4%B8%AD%E6%AF%95%E4%B8%9A%E7%85%A7%23" target="weibo">
 王安宇高中毕业照（热度：425138）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%9B%9E%E5%BA%94%E6%8A%95%E8%B5%84%E5%A2%A8%E9%9B%A8%E4%BA%91%E9%97%B4%23" target="weibo">
-董璇回应投资墨雨云间（热度：425073）
 </a>
 </li>
 

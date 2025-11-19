@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763548242257,
+  "endTime": 1763549177005,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -859,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 641466,
+      "num": 268779,
+      "word": "AI假图 仅退款",
+      "onboard_time": 1763545642,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 639986,
       "num": 270005,
       "word": "陈紫函拒绝回应做12次试管",
@@ -1411,8 +1419,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 508636,
-      "num": 508636,
+      "raw_hot": 508777,
+      "num": 508777,
       "word": "荷兰暂停干预安世半导体",
       "onboard_time": 1763545944,
       "rank": 3,
@@ -1803,12 +1811,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 441920,
-      "num": 268779,
-      "word": "AI假图 仅退款",
-      "onboard_time": 1763545642,
-      "rank": 10,
-      "category": "情感"
+      "raw_hot": 442015,
+      "num": 442015,
+      "word": "Kanavi HLE",
+      "onboard_time": 1763546302,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 440306,
@@ -1937,14 +1945,6 @@
       "onboard_time": 1763536041,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 424087,
-      "num": 424087,
-      "word": "Kanavi HLE",
-      "onboard_time": 1763546302,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 423749,
@@ -2763,6 +2763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322291,
+      "num": 209853,
+      "word": "JDG官宣Peyz离队",
+      "onboard_time": 1763548282,
+      "rank": 11,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 320030,
       "num": 185787,
       "word": "曾轶可演唱会 迟到打碟一小时",
@@ -3243,6 +3251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 274839,
+      "num": 199547,
+      "word": "霍启山娜然相差了14岁",
+      "onboard_time": 1763545762,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 274836,
       "num": 274836,
       "word": "霍尊音乐节状态",
@@ -3265,6 +3281,14 @@
       "onboard_time": 1763381661,
       "rank": 43,
       "category": "教育"
+    },
+    {
+      "raw_hot": 272700,
+      "num": 207484,
+      "word": "16人点5份披萨遭辱骂当事人发声",
+      "onboard_time": 1763547622,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 272300,
@@ -3451,14 +3475,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 262557,
-      "num": 199547,
-      "word": "霍启山娜然相差了14岁",
-      "onboard_time": 1763545762,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 261685,
       "num": 225643,
       "word": "中国代表联大发言让日本破大防",
@@ -3537,6 +3553,14 @@
       "onboard_time": 1763259561,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 256345,
+      "num": 207854,
+      "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
+      "onboard_time": 1763545881,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 255478,
@@ -3900,7 +3924,7 @@
     },
     {
       "raw_hot": 228279,
-      "num": 179092,
+      "num": 182628,
       "word": "你以为很卫生其实很脏的行为",
       "onboard_time": 1763540964,
       "rank": 32,
@@ -5499,14 +5523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175579,
-      "num": 207854,
-      "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
-      "onboard_time": 1763545881,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175443,
       "num": 175443,
       "word": "历任工作人员集体发声力挺曾轶可",
@@ -5939,6 +5955,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 163447,
+      "num": 195315,
+      "word": "摄影届来了个天才",
+      "onboard_time": 1763548642,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163363,
       "num": 240319,
       "word": "南京一公园被私人占有数年后续",
@@ -6187,6 +6211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158482,
+      "num": 158482,
+      "word": "时代少年团六周年联排花絮",
+      "onboard_time": 1763548341,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "和王安宇打上视频了",
@@ -6297,6 +6329,14 @@
       "onboard_time": 1763463802,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 156504,
+      "num": 156504,
+      "word": "九牧王6连板",
+      "onboard_time": 1763548222,
+      "rank": 36,
+      "category": "财经"
     },
     {
       "raw_hot": 156481,
@@ -6473,6 +6513,14 @@
       "onboard_time": 1763435422,
       "rank": 33,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 153565,
+      "num": 153565,
+      "word": "俄罗斯警告高市早苗",
+      "onboard_time": 1763549003,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 153302,
@@ -7051,6 +7099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 141885,
+      "num": 141885,
+      "word": "樊振东从欲言又止到疯狂输出",
+      "onboard_time": 1763549123,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141827,
       "num": 123107,
       "word": "日本民众集会高喊高市早苗下台",
@@ -7465,6 +7521,14 @@
       "onboard_time": 1763526563,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 134704,
+      "num": 206835,
+      "word": "日本大分市大火后堪比遭空袭战区",
+      "onboard_time": 1763547082,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 134634,
@@ -10075,6 +10139,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99112,
+      "num": 155352,
+      "word": "夏思凝放弃清北因担心毕不了业",
+      "onboard_time": 1763548282,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98924,
       "num": 98924,
       "word": "石智勇宣布退役",
@@ -10787,6 +10859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85877,
+      "num": 155415,
+      "word": "卢凌风一不小心顶级过废了",
+      "onboard_time": 1763548762,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85827,
       "num": 85827,
       "word": "哈登绝杀球被打手",
@@ -11187,6 +11267,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75001,
+      "num": 154742,
+      "word": "免费吃住玩的方法找到了",
+      "onboard_time": 1763548762,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74919,
       "num": 153213,
       "word": "男子取90万给骗子说是彩礼",
@@ -11355,14 +11443,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 69474,
-      "num": 206835,
-      "word": "日本大分市大火后堪比遭空袭战区",
-      "onboard_time": 1763547082,
-      "rank": 18,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 69158,
       "num": 95471,
       "word": "U22国足vs乌兹别克斯坦U22",
@@ -11377,6 +11457,14 @@
       "onboard_time": 1763373740,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68873,
+      "num": 194928,
+      "word": "日本间谍网曾在中国无孔不入",
+      "onboard_time": 1763548282,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68845,
@@ -11603,14 +11691,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 63036,
-      "num": 207484,
-      "word": "16人点5份披萨遭辱骂当事人发声",
-      "onboard_time": 1763547622,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62838,
       "num": 367377,
       "word": "肖战荣耀500动就动真格",
@@ -11769,6 +11849,14 @@
       "onboard_time": 1763465603,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56338,
+      "num": 564435,
+      "word": "我国再次成功发射一箭三星",
+      "onboard_time": 1763548222,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56308,
@@ -12321,6 +12409,14 @@
       "onboard_time": 1763383642,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 42916,
+      "num": 206480,
+      "word": "台军采购绳网毛竹造无人机防护网",
+      "onboard_time": 1763547622,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 42169,
@@ -13755,6 +13851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11747,
+      "num": 156146,
+      "word": "过山车被指悬停有学生徒步返回地面",
+      "onboard_time": 1763548583,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10964,
       "num": 15490,
       "word": "张兴朝是听过汪苏泷梆梆吧",
@@ -13776,14 +13880,6 @@
       "word": "封关不是封岛",
       "onboard_time": 1763438844,
       "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 9940,
-      "num": 206480,
-      "word": "台军采购绳网毛竹造无人机防护网",
-      "onboard_time": 1763547622,
-      "rank": 19,
       "category": "国内时政"
     },
     {

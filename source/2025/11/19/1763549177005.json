@@ -1,0 +1,410 @@
+{
+  "runTime": 1763549177005,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 634290,
+        "num": 1101486,
+        "word": "解放军警告日本",
+        "onboard_time": 1763536521,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56338,
+        "num": 564435,
+        "word": "我国再次成功发射一箭三星",
+        "onboard_time": 1763548222,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40784,
+        "num": 508788,
+        "word": "第十五届全运会",
+        "onboard_time": 1763545582,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 508777,
+        "num": 508777,
+        "word": "荷兰暂停干预安世半导体",
+        "onboard_time": 1763545944,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 442015,
+        "num": 442015,
+        "word": "Kanavi HLE",
+        "onboard_time": 1763546302,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 410735,
+        "num": 410735,
+        "word": "胡歌李沁 收山",
+        "onboard_time": 1763546602,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 378853,
+        "num": 378853,
+        "word": "日本水产品在华不会有市场",
+        "onboard_time": 1763538924,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324476,
+        "num": 324476,
+        "word": "日本经济绷不住了",
+        "onboard_time": 1763539464,
+        "rank": 7,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 274964,
+        "num": 274964,
+        "word": "网红橙子姐姐涉嫌诈骗及跨境贩运人口",
+        "onboard_time": 1763545042,
+        "rank": 8,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 212866,
+        "num": 212866,
+        "word": "Elk WBG",
+        "onboard_time": 1763544802,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 641466,
+        "num": 211786,
+        "word": "AI假图 仅退款",
+        "onboard_time": 1763545642,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 322291,
+        "num": 209853,
+        "word": "JDG官宣Peyz离队",
+        "onboard_time": 1763548282,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 278991,
+        "num": 208744,
+        "word": "我发现物业费比房贷可怕多了",
+        "onboard_time": 1763537181,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 272700,
+        "num": 205826,
+        "word": "16人点5份披萨遭辱骂当事人发声",
+        "onboard_time": 1763547622,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256345,
+        "num": 204441,
+        "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
+        "onboard_time": 1763545881,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 203205,
+        "num": 203205,
+        "word": "胖东来50万招聘国内仅8所高校符合",
+        "onboard_time": 1763544323,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195429,
+        "num": 195429,
+        "word": "银临声明",
+        "onboard_time": 1763541202,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 163447,
+        "num": 195315,
+        "word": "摄影届来了个天才",
+        "onboard_time": 1763548642,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161305,
+        "num": 195178,
+        "word": "科学家在地下700米捉鬼",
+        "onboard_time": 1763530581,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68873,
+        "num": 194928,
+        "word": "日本间谍网曾在中国无孔不入",
+        "onboard_time": 1763548282,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1402807,
+        "num": 194731,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763545222,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 480554,
+        "num": 194676,
+        "word": "罗志祥后悔",
+        "onboard_time": 1763546362,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412971,
+        "num": 194430,
+        "word": "良田有女朋友了",
+        "onboard_time": 1763545342,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 399188,
+        "num": 194268,
+        "word": "中方双手插兜见日方称天冷不便握手",
+        "onboard_time": 1763543121,
+        "rank": 23,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 380982,
+        "num": 194109,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219517,
+        "num": 193885,
+        "word": "唐嫣罗晋行程时间线",
+        "onboard_time": 1763539583,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154119,
+        "num": 193724,
+        "word": "时代少年团联排影像",
+        "onboard_time": 1763547681,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42916,
+        "num": 193498,
+        "word": "台军采购绳网毛竹造无人机防护网",
+        "onboard_time": 1763547622,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 193430,
+        "num": 193430,
+        "word": "日本网友看中方霸气插兜心碎了",
+        "onboard_time": 1763538143,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 274839,
+        "num": 193308,
+        "word": "霍启山娜然相差了14岁",
+        "onboard_time": 1763545762,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191777,
+        "num": 191777,
+        "word": "曝CFO中野加入JDG",
+        "onboard_time": 1763546723,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 191448,
+        "num": 191448,
+        "word": "松天硕回应爆料",
+        "onboard_time": 1763546962,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42039,
+        "num": 187011,
+        "word": "鸿蒙二合一全面融合电脑平板生态",
+        "onboard_time": 1763543062,
+        "rank": 32,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 182628,
+        "num": 182628,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1763540964,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 134704,
+        "num": 168869,
+        "word": "日本大分市大火后堪比遭空袭战区",
+        "onboard_time": 1763547082,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158482,
+        "num": 158482,
+        "word": "时代少年团六周年联排花絮",
+        "onboard_time": 1763548341,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 156504,
+        "num": 156504,
+        "word": "九牧王6连板",
+        "onboard_time": 1763548222,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11747,
+        "num": 156146,
+        "word": "过山车被指悬停有学生徒步返回地面",
+        "onboard_time": 1763548583,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85877,
+        "num": 155415,
+        "word": "卢凌风一不小心顶级过废了",
+        "onboard_time": 1763548762,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99112,
+        "num": 155352,
+        "word": "夏思凝放弃清北因担心毕不了业",
+        "onboard_time": 1763548282,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75001,
+        "num": 154742,
+        "word": "免费吃住玩的方法找到了",
+        "onboard_time": 1763548762,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 37526,
+        "num": 153666,
+        "word": "华为MatePadEdge是平板更是电脑",
+        "onboard_time": 1763543062,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153661,
+        "num": 153661,
+        "word": "梦天拍的朱志鑫",
+        "onboard_time": 1763543782,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153565,
+        "num": 153565,
+        "word": "俄罗斯警告高市早苗",
+        "onboard_time": 1763549003,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153442,
+        "num": 153442,
+        "word": "许玮甯邱泽婚纱照",
+        "onboard_time": 1763535801,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149004,
+        "num": 149004,
+        "word": "把一个33岁的宝妈面试哭了",
+        "onboard_time": 1763547144,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 144439,
+        "num": 144439,
+        "word": "玉渊谭天正面对线外媒旧图新用",
+        "onboard_time": 1763546362,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143198,
+        "num": 143198,
+        "word": "曝SM选人颜值要求",
+        "onboard_time": 1763543422,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64746,
+        "num": 141916,
+        "word": "成毅长安二十四计已过审下证了",
+        "onboard_time": 1763547144,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141885,
+        "num": 141885,
+        "word": "樊振东从欲言又止到疯狂输出",
+        "onboard_time": 1763549123,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
