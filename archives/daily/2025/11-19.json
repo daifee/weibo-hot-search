@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763531019267,
+  "endTime": 1763534359277,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -25,6 +25,14 @@
       "onboard_time": 1763515821,
       "rank": 20,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1283359,
+      "num": 1283359,
+      "word": "中方向日方通报暂停进口日本水产品",
+      "onboard_time": 1763531480,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1143356,
@@ -83,6 +91,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 603630,
+      "num": 188484,
+      "word": "丁泽仁再谈唯一的姐",
+      "onboard_time": 1763530523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 594359,
       "num": 207619,
       "word": "杨幂钟楚曦杂志撞衫",
@@ -104,6 +120,22 @@
       "word": "何炅 五旬了还要周考吗",
       "onboard_time": 1763522423,
       "rank": 14,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 548746,
+      "num": 160610,
+      "word": "丁泽仁称被唯一的姐要求结扎",
+      "onboard_time": 1763531901,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 544412,
+      "num": 336775,
+      "word": "范丞丞问陈伟霆当daddy什么感觉",
+      "onboard_time": 1763530221,
+      "rank": 17,
       "category": "综艺"
     },
     {
@@ -129,6 +161,14 @@
       "onboard_time": 1763524941,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 523653,
+      "num": 523653,
+      "word": "朝鲜代表联大发言炮轰日本",
+      "onboard_time": 1763528422,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 518464,
@@ -161,14 +201,6 @@
       "onboard_time": 1763523861,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 479676,
-      "num": 479676,
-      "word": "朝鲜代表联大发言炮轰日本",
-      "onboard_time": 1763528422,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 438570,
@@ -291,12 +323,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 346475,
+      "num": 346475,
+      "word": "因评论爸爸当家与前女友复合",
+      "onboard_time": 1763530763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346383,
       "num": 346383,
       "word": "日方坐不住了",
       "onboard_time": 1763508078,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 341336,
+      "num": 341336,
+      "word": "日本旅游 退票",
+      "onboard_time": 1763528123,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 339781,
@@ -331,14 +379,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 312726,
-      "num": 224111,
-      "word": "日本旅游 退票",
-      "onboard_time": 1763528123,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 308354,
       "num": 266175,
       "word": "宋威龙 虎鲸文娱",
@@ -348,7 +388,7 @@
     },
     {
       "raw_hot": 300261,
-      "num": 222735,
+      "num": 222941,
       "word": "陈熠哭了",
       "onboard_time": 1763529022,
       "rank": 18,
@@ -411,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 244105,
+      "num": 220029,
+      "word": "Shanks 真没劲儿",
+      "onboard_time": 1763533521,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 241886,
       "num": 241886,
       "word": "原神",
@@ -427,20 +475,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 223288,
-      "num": 188484,
-      "word": "丁泽仁再谈唯一的姐",
-      "onboard_time": 1763530523,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 226016,
+      "num": 214575,
+      "word": "中国军网在海外发布备战视频",
+      "onboard_time": 1763528482,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
-      "raw_hot": 219875,
-      "num": 219875,
-      "word": "范丞丞问陈伟霆当daddy什么感觉",
-      "onboard_time": 1763530221,
-      "rank": 17,
-      "category": "综艺"
+      "raw_hot": 225012,
+      "num": 236942,
+      "word": "杨瀚森高效得到4分",
+      "onboard_time": 1763529862,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 219193,
@@ -547,14 +595,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 192523,
-      "num": 236942,
-      "word": "杨瀚森高效得到4分",
-      "onboard_time": 1763529862,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190068,
       "num": 187110,
       "word": "日本民众集会抗议要求高市下台",
@@ -585,6 +625,14 @@
       "onboard_time": 1763528002,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182149,
+      "num": 136721,
+      "word": "日媒翻译脑袋被驴踢了是什么意思",
+      "onboard_time": 1763531001,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 180736,
@@ -627,14 +675,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 168200,
-      "num": 206430,
-      "word": "中国军网在海外发布备战视频",
-      "onboard_time": 1763528482,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 167679,
       "num": 167679,
       "word": "上海女团全运会铜牌",
@@ -657,6 +697,14 @@
       "onboard_time": 1763523263,
       "rank": 30,
       "category": "电影,数码"
+    },
+    {
+      "raw_hot": 165444,
+      "num": 165444,
+      "word": "杨瀚森披挂上阵",
+      "onboard_time": 1763531602,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 162996,
@@ -707,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 152018,
+      "num": 136048,
+      "word": "涵艺爆料AL新教练",
+      "onboard_time": 1763533462,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 150389,
       "num": 210541,
       "word": "爱泼斯坦案文件被批准强制公开",
@@ -721,6 +777,14 @@
       "onboard_time": 1763508738,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 145689,
+      "num": 145689,
+      "word": "怪不得现在女装动不动就预售",
+      "onboard_time": 1763533640,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 142288,
@@ -851,6 +915,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133016,
+      "num": 133016,
+      "word": "那英把华晨宇当百科全书用了",
+      "onboard_time": 1763533521,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132159,
       "num": 132159,
       "word": "95后男生写网文还清百万外债",
@@ -907,14 +979,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 127755,
-      "num": 127755,
-      "word": "因评论爸爸当家与前女友复合",
-      "onboard_time": 1763530763,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 126911,
       "num": 126911,
       "word": "怎么判断对方本身就是很好的人",
@@ -953,6 +1017,14 @@
       "onboard_time": 1763520200,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 118357,
+      "num": 118357,
+      "word": "无限暖暖伊赞之土",
+      "onboard_time": 1763534180,
+      "rank": 37,
+      "category": "游戏"
     },
     {
       "raw_hot": 118133,
@@ -1011,8 +1083,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112298,
-      "num": 112298,
+      "raw_hot": 113373,
+      "num": 113373,
       "word": "爵士vs湖人",
       "onboard_time": 1763521702,
       "rank": 36,
@@ -1027,12 +1099,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 111329,
+      "num": 111329,
+      "word": "贾跃亭称每天努力还清债务重归祖国",
+      "onboard_time": 1763532201,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 110857,
+      "num": 110857,
+      "word": "新买的衣服一定要洗了再穿",
+      "onboard_time": 1763534180,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 110086,
       "num": 120583,
       "word": "美股",
       "onboard_time": 1763508258,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109675,
+      "num": 109675,
+      "word": "失去中国游客日本百货恐怕要凉半截",
+      "onboard_time": 1763529441,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 108580,
@@ -1099,6 +1195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98786,
+      "num": 98786,
+      "word": "绝区零叶瞬光",
+      "onboard_time": 1763534061,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 97110,
       "num": 97110,
       "word": "日本一地发生大规模火灾",
@@ -1147,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94944,
+      "num": 94944,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1763533941,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94397,
       "num": 94397,
       "word": "世界厕所日",
@@ -1177,6 +1289,14 @@
       "onboard_time": 1763496494,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92179,
+      "num": 216638,
+      "word": "苏炳添谢幕战",
+      "onboard_time": 1763532081,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 91718,
@@ -1611,6 +1731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40977,
+      "num": 113792,
+      "word": "何老师原地崩溃",
+      "onboard_time": 1763533701,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39407,
       "num": 119309,
       "word": "王一博听到是不是真爬的反应",
@@ -1699,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21070,
+      "num": 115058,
+      "word": "杨紫琼有100多个labubu",
+      "onboard_time": 1763533640,
+      "rank": 38,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 20518,
       "num": 106642,
       "word": "女子被男友打骂后自杀男友被判无罪",
@@ -1755,7 +1891,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8016,
+      "raw_hot": 8720,
       "num": 420178,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,

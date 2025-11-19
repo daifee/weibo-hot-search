@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763531019267,
+  "endTime": 1763534359277,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -913,6 +913,14 @@
       "onboard_time": 1761959719,
       "rank": 3,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1283359,
+      "num": 1283359,
+      "word": "中方向日方通报暂停进口日本水产品",
+      "onboard_time": 1763531480,
+      "rank": 0,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1282973,
@@ -4403,6 +4411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 603630,
+      "num": 188484,
+      "word": "丁泽仁再谈唯一的姐",
+      "onboard_time": 1763530523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 603586,
       "num": 500390,
       "word": "马英九发声",
@@ -5275,6 +5291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 548746,
+      "num": 160610,
+      "word": "丁泽仁称被唯一的姐要求结扎",
+      "onboard_time": 1763531901,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 548566,
       "num": 383364,
       "word": "将门毒后女主原型是王艳",
@@ -5361,6 +5385,14 @@
       "onboard_time": 1762434861,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 544412,
+      "num": 336775,
+      "word": "范丞丞问陈伟霆当daddy什么感觉",
+      "onboard_time": 1763530221,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 544357,
@@ -5689,6 +5721,14 @@
       "onboard_time": 1762847363,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 523653,
+      "num": 523653,
+      "word": "朝鲜代表联大发言炮轰日本",
+      "onboard_time": 1763528422,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 521699,
@@ -6569,14 +6609,6 @@
       "onboard_time": 1762847840,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 479676,
-      "num": 479676,
-      "word": "朝鲜代表联大发言炮轰日本",
-      "onboard_time": 1763528422,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 478137,
@@ -10131,6 +10163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 346475,
+      "num": 346475,
+      "word": "因评论爸爸当家与前女友复合",
+      "onboard_time": 1763530763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 346383,
       "num": 346383,
       "word": "日方坐不住了",
@@ -10329,6 +10369,14 @@
       "onboard_time": 1762752679,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 341336,
+      "num": 341336,
+      "word": "日本旅游 退票",
+      "onboard_time": 1763528123,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 341028,
@@ -11355,14 +11403,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 312726,
-      "num": 224111,
-      "word": "日本旅游 退票",
-      "onboard_time": 1763528123,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 312670,
       "num": 312670,
       "word": "德军司令称柏林已做好开战准备",
@@ -11980,7 +12020,7 @@
     },
     {
       "raw_hot": 300261,
-      "num": 222735,
+      "num": 222941,
       "word": "陈熠哭了",
       "onboard_time": 1763529022,
       "rank": 18,
@@ -14731,6 +14771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 244105,
+      "num": 220029,
+      "word": "Shanks 真没劲儿",
+      "onboard_time": 1763533521,
+      "rank": 12,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 244073,
       "num": 215480,
       "word": "92岁老人父亲节睡梦中被邻居杀害",
@@ -15755,6 +15803,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 226016,
+      "num": 214575,
+      "word": "中国军网在海外发布备战视频",
+      "onboard_time": 1763528482,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 226013,
       "num": 226013,
       "word": "刘冲反买",
@@ -15841,6 +15897,14 @@
       "onboard_time": 1762059680,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225012,
+      "num": 236942,
+      "word": "杨瀚森高效得到4分",
+      "onboard_time": 1763529862,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 224920,
@@ -15953,14 +16017,6 @@
       "onboard_time": 1763022560,
       "rank": 37,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 223288,
-      "num": 188484,
-      "word": "丁泽仁再谈唯一的姐",
-      "onboard_time": 1763530523,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 223073,
@@ -16305,14 +16361,6 @@
       "onboard_time": 1762841659,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219875,
-      "num": 219875,
-      "word": "范丞丞问陈伟霆当daddy什么感觉",
-      "onboard_time": 1763530221,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 219850,
@@ -19339,14 +19387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 192523,
-      "num": 236942,
-      "word": "杨瀚森高效得到4分",
-      "onboard_time": 1763529862,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192461,
       "num": 192461,
       "word": "告五人只有三个人",
@@ -21145,6 +21185,14 @@
       "onboard_time": 1763003120,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 182149,
+      "num": 136721,
+      "word": "日媒翻译脑袋被驴踢了是什么意思",
+      "onboard_time": 1763531001,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 182078,
@@ -22963,14 +23011,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 168200,
-      "num": 206430,
-      "word": "中国军网在海外发布备战视频",
-      "onboard_time": 1763528482,
-      "rank": 25,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 168170,
       "num": 168170,
       "word": "Faker在第六冠与女友结婚之间选择夺冠",
@@ -23545,6 +23585,14 @@
       "onboard_time": 1763077040,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 165444,
+      "num": 165444,
+      "word": "杨瀚森披挂上阵",
+      "onboard_time": 1763531602,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 165434,
@@ -26323,6 +26371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 152018,
+      "num": 136048,
+      "word": "涵艺爆料AL新教练",
+      "onboard_time": 1763533462,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 152007,
       "num": 152007,
       "word": "鬼灭之刃无限城篇零点场口碑",
@@ -27617,6 +27673,14 @@
       "onboard_time": 1763415914,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 145689,
+      "num": 145689,
+      "word": "怪不得现在女装动不动就预售",
+      "onboard_time": 1763533640,
+      "rank": 28,
+      "category": "情感"
     },
     {
       "raw_hot": 145552,
@@ -30819,6 +30883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 133016,
+      "num": 133016,
+      "word": "那英把华晨宇当百科全书用了",
+      "onboard_time": 1763533521,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133001,
       "num": 133001,
       "word": "喜人喜团合作赛好红的底",
@@ -32345,14 +32417,6 @@
       "onboard_time": 1762086681,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127755,
-      "num": 127755,
-      "word": "因评论爸爸当家与前女友复合",
-      "onboard_time": 1763530763,
-      "rank": 46,
-      "category": "综艺"
     },
     {
       "raw_hot": 127730,
@@ -35683,6 +35747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118357,
+      "num": 118357,
+      "word": "无限暖暖伊赞之土",
+      "onboard_time": 1763534180,
+      "rank": 37,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 118322,
       "num": 192476,
       "word": "JackeyLove和花海合影",
@@ -37435,6 +37507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113373,
+      "num": 113373,
+      "word": "爵士vs湖人",
+      "onboard_time": 1763521702,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113355,
       "num": 113355,
       "word": "夜幕下的烟火官宣",
@@ -37947,14 +38027,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 112298,
-      "num": 112298,
-      "word": "爵士vs湖人",
-      "onboard_time": 1763521702,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112296,
       "num": 112296,
       "word": "BLG有Elk保底续约Knight才是首要做的",
@@ -38331,6 +38403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111329,
+      "num": 111329,
+      "word": "贾跃亭称每天努力还清债务重归祖国",
+      "onboard_time": 1763532201,
+      "rank": 41,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 111321,
       "num": 136352,
       "word": "嫁金钗",
@@ -38512,6 +38592,14 @@
       "word": "第一次吃竹薯",
       "onboard_time": 1763089760,
       "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110857,
+      "num": 110857,
+      "word": "新买的衣服一定要洗了再穿",
+      "onboard_time": 1763534180,
+      "rank": 42,
       "category": "情感"
     },
     {
@@ -38897,6 +38985,14 @@
       "onboard_time": 1762420521,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109675,
+      "num": 109675,
+      "word": "失去中国游客日本百货恐怕要凉半截",
+      "onboard_time": 1763529441,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 109651,
@@ -43755,6 +43851,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 98786,
+      "num": 98786,
+      "word": "绝区零叶瞬光",
+      "onboard_time": 1763534061,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 98769,
       "num": 98769,
       "word": "一觉醒来神20神21会师",
@@ -45691,6 +45795,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 94944,
+      "num": 94944,
+      "word": "毕业后唯一没还给老师的品质",
+      "onboard_time": 1763533941,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 94876,
       "num": 94876,
       "word": "天地剑心36集神场面",
@@ -47001,6 +47113,14 @@
       "onboard_time": 1762332020,
       "rank": 44,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 92179,
+      "num": 216638,
+      "word": "苏炳添谢幕战",
+      "onboard_time": 1763532081,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 92163,
@@ -61787,6 +61907,14 @@
       "category": "电竞,汽车"
     },
     {
+      "raw_hot": 40977,
+      "num": 113792,
+      "word": "何老师原地崩溃",
+      "onboard_time": 1763533701,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40926,
       "num": 40926,
       "word": "92岁老人被儿子殴打视频系孙子发现",
@@ -65699,6 +65827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 21070,
+      "num": 115058,
+      "word": "杨紫琼有100多个labubu",
+      "onboard_time": 1763533640,
+      "rank": 38,
+      "category": "艺人,作品衍生"
+    },
+    {
       "raw_hot": 20985,
       "num": 27881,
       "word": "网友偶遇陈冠希父亲说父子俩很像",
@@ -67331,6 +67467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8720,
+      "num": 420178,
+      "word": "封关不是封岛",
+      "onboard_time": 1763438844,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8693,
       "num": 398340,
       "word": "用赛事热度点燃全民运动热情",
@@ -67351,14 +67495,6 @@
       "num": 572424,
       "word": "神21入轨后约3.5小时后到空间站",
       "onboard_time": 1761790039,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 8016,
-      "num": 420178,
-      "word": "封关不是封岛",
-      "onboard_time": 1763438844,
       "rank": 2,
       "category": "国内时政"
     },
