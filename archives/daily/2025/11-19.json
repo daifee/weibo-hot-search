@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763556934027,
+  "endTime": 1763557748248,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -67,6 +67,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1052130,
+      "num": 1168340,
+      "word": "演戏自己不配音 却给动画配音",
+      "onboard_time": 1763553922,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1049156,
       "num": 208186,
       "word": "罗志祥收养经纪人两个小孩作伴",
@@ -107,14 +115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 821558,
-      "num": 1131449,
-      "word": "演戏自己不配音 却给动画配音",
-      "onboard_time": 1763553922,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 781025,
       "num": 200460,
       "word": "唐嫣罗晋行程时间线",
@@ -137,6 +137,14 @@
       "onboard_time": 1763513302,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 718357,
+      "num": 718357,
+      "word": "范思琦12比10孙颖莎",
+      "onboard_time": 1763553682,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 709251,
@@ -177,14 +185,6 @@
       "onboard_time": 1763523199,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 623786,
-      "num": 245513,
-      "word": "范思琦12比10孙颖莎",
-      "onboard_time": 1763553682,
-      "rank": 10,
-      "category": "体育"
     },
     {
       "raw_hot": 617746,
@@ -347,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 503764,
+      "num": 503764,
+      "word": "何卓佳vs范思琦",
+      "onboard_time": 1763553021,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 494144,
       "num": 268691,
       "word": "我发现物业费比房贷可怕多了",
@@ -395,20 +403,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 461822,
+      "num": 261821,
+      "word": "何炅以后探店的话我是一家不去",
+      "onboard_time": 1763551222,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 458704,
       "num": 458704,
       "word": "乒乓球女团决赛河北vs山东",
       "onboard_time": 1763550203,
       "rank": 11,
       "category": "体育"
-    },
-    {
-      "raw_hot": 456467,
-      "num": 245274,
-      "word": "何炅以后探店的话我是一家不去",
-      "onboard_time": 1763551222,
-      "rank": 49,
-      "category": "综艺"
     },
     {
       "raw_hot": 451907,
@@ -491,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 430139,
+      "num": 430139,
+      "word": "互相包场 互相点评 互相颁奖",
+      "onboard_time": 1763553802,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 424457,
       "num": 189318,
       "word": "陈冠希 法拉利老了也是拖拉机",
@@ -545,14 +561,6 @@
       "onboard_time": 1763517621,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 389216,
-      "num": 351671,
-      "word": "互相包场 互相点评 互相颁奖",
-      "onboard_time": 1763553802,
-      "rank": 6,
-      "category": "电影"
     },
     {
       "raw_hot": 388049,
@@ -763,14 +771,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 300583,
-      "num": 300583,
-      "word": "何卓佳vs范思琦",
-      "onboard_time": 1763553021,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 300261,
       "num": 222941,
       "word": "陈熠哭了",
@@ -804,7 +804,7 @@
     },
     {
       "raw_hot": 289156,
-      "num": 244015,
+      "num": 255086,
       "word": "日本火灾吓到日本人",
       "onboard_time": 1763551821,
       "rank": 30,
@@ -899,6 +899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 247253,
+      "num": 247253,
+      "word": "今年MAMA在云南办得了",
+      "onboard_time": 1763552482,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 246151,
       "num": 128764,
       "word": "这一亲把央视解说干沉默了",
@@ -929,14 +937,6 @@
       "onboard_time": 1763521281,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 229597,
-      "num": 229597,
-      "word": "今年MAMA在云南办得了",
-      "onboard_time": 1763552482,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 229073,
@@ -1115,6 +1115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 197883,
+      "num": 197883,
+      "word": "丁泽仁评论区 0人在意丁泽仁",
+      "onboard_time": 1763555302,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 197389,
       "num": 173134,
       "word": "丁禹兮出席联合国气候变化大会",
@@ -1249,14 +1257,6 @@
       "onboard_time": 1763531001,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 181484,
-      "num": 181484,
-      "word": "丁泽仁评论区 0人在意丁泽仁",
-      "onboard_time": 1763555302,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 180736,
@@ -1571,6 +1571,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 142505,
+      "num": 142505,
+      "word": "江苏女排全运会金牌",
+      "onboard_time": 1763556862,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142395,
       "num": 142395,
       "word": "曾轶可 不可以这三个字不要随便说",
@@ -1592,6 +1600,14 @@
       "word": "富二代为反杀灭门仇人潜伏多年",
       "onboard_time": 1763525842,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 141769,
+      "num": 141769,
+      "word": "唐诡 颜真卿",
+      "onboard_time": 1763556983,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2019,6 +2035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117941,
+      "num": 117941,
+      "word": "唐诡3第5案3集4个反转",
+      "onboard_time": 1763556743,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117857,
       "num": 131173,
       "word": "在全运会吃了一把狗粮",
@@ -2035,12 +2059,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 116984,
+      "num": 116984,
+      "word": "孙颖莎自己队友也要拍拍手",
+      "onboard_time": 1763556141,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116904,
       "num": 182237,
       "word": "日本对中国本就欠着血债",
       "onboard_time": 1763534540,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 116667,
+      "num": 116667,
+      "word": "迪丽热巴枭起青壤全是人生镜头",
+      "onboard_time": 1763557103,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 116634,
@@ -2065,6 +2105,14 @@
       "onboard_time": 1763447422,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115862,
+      "num": 115862,
+      "word": "沈佳润不准跟黄毛玩",
+      "onboard_time": 1763557462,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 115686,
@@ -2219,14 +2267,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 104729,
-      "num": 104729,
-      "word": "唐诡3第5案3集4个反转",
-      "onboard_time": 1763556743,
-      "rank": 43,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104491,
       "num": 104491,
       "word": "特斯拉起诉无忧传媒要求退还7761元",
@@ -2291,14 +2331,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 100192,
-      "num": 100192,
-      "word": "孙颖莎自己队友也要拍拍手",
-      "onboard_time": 1763556141,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 99112,
       "num": 155352,
       "word": "夏思凝放弃清北因担心毕不了业",
@@ -2320,14 +2352,6 @@
       "word": "苏炳添谢幕战",
       "onboard_time": 1763532081,
       "rank": 14,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 97157,
-      "num": 97157,
-      "word": "江苏女排全运会金牌",
-      "onboard_time": 1763556862,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -2353,6 +2377,14 @@
       "onboard_time": 1763522541,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96238,
+      "num": 96238,
+      "word": "付辛博直播",
+      "onboard_time": 1763557701,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 95897,
@@ -2731,6 +2763,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 59337,
+      "num": 111389,
+      "word": "韩国重大火灾超千万件衣鞋被毁",
+      "onboard_time": 1763556200,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 58980,
       "num": 176132,
       "word": "人民日报钟声评高市给中日关系投毒",
@@ -2851,8 +2891,8 @@
       "category": "数码"
     },
     {
-      "raw_hot": 52988,
-      "num": 192161,
+      "raw_hot": 53083,
+      "num": 193019,
       "word": "一汽丰田神车换代油电同强",
       "onboard_time": 1763554161,
       "rank": 19,
@@ -2907,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47248,
+      "num": 672429,
+      "word": "第十五届全运会",
+      "onboard_time": 1763545582,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46185,
       "num": 65024,
       "word": "这样的说话方式很旺自己",
@@ -2953,14 +3001,6 @@
       "onboard_time": 1763517141,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43430,
-      "num": 629653,
-      "word": "第十五届全运会",
-      "onboard_time": 1763545582,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 42916,
@@ -3249,14 +3289,6 @@
       "onboard_time": 1763472985,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10972,
-      "num": 111389,
-      "word": "韩国重大火灾超千万件衣鞋被毁",
-      "onboard_time": 1763556200,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 10381,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1763557748248,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052130,
+        "num": 1168340,
+        "word": "演戏自己不配音 却给动画配音",
+        "onboard_time": 1763553922,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 718357,
+        "num": 718357,
+        "word": "范思琦12比10孙颖莎",
+        "onboard_time": 1763553682,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47248,
+        "num": 672429,
+        "word": "第十五届全运会",
+        "onboard_time": 1763545582,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 631750,
+        "num": 631750,
+        "word": "俄罗斯警告高市早苗",
+        "onboard_time": 1763549003,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503764,
+        "num": 503764,
+        "word": "何卓佳vs范思琦",
+        "onboard_time": 1763553021,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444236,
+        "num": 444236,
+        "word": "乒乓球女团决赛河北vs山东",
+        "onboard_time": 1763550203,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 430139,
+        "num": 430139,
+        "word": "互相包场 互相点评 互相颁奖",
+        "onboard_time": 1763553802,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 389642,
+        "num": 389642,
+        "word": "声生不息华流季官宣",
+        "onboard_time": 1763555602,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304097,
+        "num": 304097,
+        "word": "女子产后大出血遇救护人员态度散漫",
+        "onboard_time": 1763551042,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261846,
+        "num": 261846,
+        "word": "日本经济绷不住了",
+        "onboard_time": 1763539464,
+        "rank": 9,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 461822,
+        "num": 261821,
+        "word": "何炅以后探店的话我是一家不去",
+        "onboard_time": 1763551222,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308757,
+        "num": 261733,
+        "word": "AI假图 仅退款",
+        "onboard_time": 1763545642,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 260692,
+        "num": 260692,
+        "word": "解放军警告日本",
+        "onboard_time": 1763536521,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 300741,
+        "num": 258955,
+        "word": "朱志鑫直播",
+        "onboard_time": 1763550022,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 270507,
+        "num": 255086,
+        "word": "日本火灾吓到日本人",
+        "onboard_time": 1763551821,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 247253,
+        "num": 247253,
+        "word": "今年MAMA在云南办得了",
+        "onboard_time": 1763552482,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 225121,
+        "num": 225121,
+        "word": "Kanavi HLE",
+        "onboard_time": 1763546302,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209764,
+        "num": 209764,
+        "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
+        "onboard_time": 1763545881,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197883,
+        "num": 197883,
+        "word": "丁泽仁评论区 0人在意丁泽仁",
+        "onboard_time": 1763555302,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53083,
+        "num": 193019,
+        "word": "一汽丰田神车换代油电同强",
+        "onboard_time": 1763554161,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1213133,
+        "num": 188288,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763545222,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405879,
+        "num": 179169,
+        "word": "罗志祥收养经纪人两个小孩作伴",
+        "onboard_time": 1763537842,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225654,
+        "num": 174453,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170097,
+        "num": 170097,
+        "word": "良田有女朋友了",
+        "onboard_time": 1763545342,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144604,
+        "num": 144604,
+        "word": "T1官宣Peyz加入",
+        "onboard_time": 1763550561,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169686,
+        "num": 144085,
+        "word": "唐嫣罗晋行程时间线",
+        "onboard_time": 1763539583,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237260,
+        "num": 143427,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142505,
+        "num": 142505,
+        "word": "江苏女排全运会金牌",
+        "onboard_time": 1763556862,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141769,
+        "num": 141769,
+        "word": "唐诡 颜真卿",
+        "onboard_time": 1763556983,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132867,
+        "num": 132867,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1763540964,
+        "rank": 29,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 132385,
+        "num": 132385,
+        "word": "曹骏侵略性好强的手臂",
+        "onboard_time": 1763552361,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131189,
+        "num": 131189,
+        "word": "易烊千玺粉丝人均宣发鬼才",
+        "onboard_time": 1763549542,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130088,
+        "num": 130088,
+        "word": "梦天拍的朱志鑫",
+        "onboard_time": 1763543782,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128611,
+        "num": 128611,
+        "word": "孙颖莎3比0王晓彤",
+        "onboard_time": 1763556021,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123096,
+        "num": 123096,
+        "word": "中方双手插兜见日方称天冷不便握手",
+        "onboard_time": 1763543121,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117941,
+        "num": 117941,
+        "word": "唐诡3第5案3集4个反转",
+        "onboard_time": 1763556743,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117013,
+        "num": 117013,
+        "word": "孙颖莎11比2王晓彤",
+        "onboard_time": 1763556261,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116984,
+        "num": 116984,
+        "word": "孙颖莎自己队友也要拍拍手",
+        "onboard_time": 1763556141,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116832,
+        "num": 116832,
+        "word": "霍启山 娜然",
+        "onboard_time": 1763544142,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116667,
+        "num": 116667,
+        "word": "迪丽热巴枭起青壤全是人生镜头",
+        "onboard_time": 1763557103,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115980,
+        "num": 115980,
+        "word": "曾轶可 不可以这三个字不要随便说",
+        "onboard_time": 1763552181,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115862,
+        "num": 115862,
+        "word": "沈佳润不准跟黄毛玩",
+        "onboard_time": 1763557462,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113965,
+        "num": 113965,
+        "word": "胡歌李沁 收山",
+        "onboard_time": 1763546602,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104015,
+        "num": 104015,
+        "word": "朋友圈令人很不爽的现象",
+        "onboard_time": 1763556261,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102755,
+        "num": 102755,
+        "word": "陈梦3比0胜王添艺",
+        "onboard_time": 1763554102,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101154,
+        "num": 101154,
+        "word": "鲜牛奶vs常温奶",
+        "onboard_time": 1763553862,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 100415,
+        "num": 100415,
+        "word": "日本网友看中方霸气插兜心碎了",
+        "onboard_time": 1763538143,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59337,
+        "num": 99478,
+        "word": "韩国重大火灾超千万件衣鞋被毁",
+        "onboard_time": 1763556200,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98656,
+        "num": 98656,
+        "word": "28元一个蛋挞是我两餐的费用",
+        "onboard_time": 1763554941,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96238,
+        "num": 96238,
+        "word": "付辛博直播",
+        "onboard_time": 1763557701,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}

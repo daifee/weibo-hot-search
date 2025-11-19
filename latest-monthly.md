@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 20:55:34
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 21:09:08
 </p>
 </blockquote>
 <p>
@@ -1131,6 +1131,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E6%88%8F%E8%87%AA%E5%B7%B1%E4%B8%8D%E9%85%8D%E9%9F%B3%20%E5%8D%B4%E7%BB%99%E5%8A%A8%E7%94%BB%E9%85%8D%E9%9F%B3%23" target="weibo">
+演戏自己不配音 却给动画配音（热度：1052130）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AD%A6%E5%AF%9F%E6%82%A8%E5%A5%BD%20%E6%88%91%E5%9C%A8%E5%8F%B0%E6%B9%BE%E6%83%B3%E5%9B%9E%E5%A4%A7%E9%99%86%23" target="weibo">
 警察您好 我在台湾想回大陆（热度：1049555）
 </a>
@@ -1851,12 +1857,6 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%BC%94%E6%88%8F%E8%87%AA%E5%B7%B1%E4%B8%8D%E9%85%8D%E9%9F%B3%20%E5%8D%B4%E7%BB%99%E5%8A%A8%E7%94%BB%E9%85%8D%E9%9F%B3%23" target="weibo">
-演戏自己不配音 却给动画配音（热度：821558）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%B7%E7%86%99%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B4%AA%E6%89%BF%E7%95%B4%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
 康熙不可能是洪承畴的儿子（热度：820934）
 </a>
@@ -2393,6 +2393,12 @@ AG对战狼队（热度：725111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%A5%E7%8C%AB%E6%89%AE%E6%BC%94%E8%80%85%E9%83%91%E5%88%99%E4%BB%95%E7%98%A6%E4%BA%86%E5%A5%BD%E5%A4%9A%23" target="weibo">
 肥猫扮演者郑则仕瘦了好多（热度：718493）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%80%9D%E7%90%A612%E6%AF%9410%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
+范思琦12比10孙颖莎（热度：718357）
 </a>
 </li>
 
@@ -3203,12 +3209,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%99%BD%E9%B9%BF%E8%B7%B3%E4%BA%86obsession%23" target="weibo">
 范丞丞白鹿跳了obsession（热度：624227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E6%80%9D%E7%90%A612%E6%AF%9410%E5%AD%99%E9%A2%96%E8%8E%8E%23" target="weibo">
-范思琦12比10孙颖莎（热度：623786）
 </a>
 </li>
 
@@ -4659,6 +4659,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%93%E4%BD%B3vs%E8%8C%83%E6%80%9D%E7%90%A6%23" target="weibo">
+何卓佳vs范思琦（热度：503764）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%20%E5%86%85%E5%A8%B1%E6%96%87%E5%8C%96%E5%86%B2%E5%87%BB%23" target="weibo">
 刘嘉玲 内娱文化冲击（热度：502961）
 </a>
@@ -5415,6 +5421,12 @@ TFBOYS发文恭喜刘春和（热度：466139）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E4%BB%A5%E5%90%8E%E6%8E%A2%E5%BA%97%E7%9A%84%E8%AF%9D%E6%88%91%E6%98%AF%E4%B8%80%E5%AE%B6%E4%B8%8D%E5%8E%BB%23" target="weibo">
+何炅以后探店的话我是一家不去（热度：461822）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%91%A8%E9%9B%A8%23" target="weibo">
 樊振东vs周雨（热度：460374）
 </a>
@@ -5459,12 +5471,6 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%A5%BA%E7%9A%87%E5%90%8E%20%E7%B3%96%E6%B0%B4%E4%BC%AF%23" target="weibo">
 水饺皇后 糖水伯（热度：457304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E4%BB%A5%E5%90%8E%E6%8E%A2%E5%BA%97%E7%9A%84%E8%AF%9D%E6%88%91%E6%98%AF%E4%B8%80%E5%AE%B6%E4%B8%8D%E5%8E%BB%23" target="weibo">
-何炅以后探店的话我是一家不去（热度：456467）
 </a>
 </li>
 
@@ -5961,6 +5967,12 @@ k总老婆因经常喝热水食道被灼伤（热度：431857）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%92%E7%9B%B8%E5%8C%85%E5%9C%BA%20%E4%BA%92%E7%9B%B8%E7%82%B9%E8%AF%84%20%E4%BA%92%E7%9B%B8%E9%A2%81%E5%A5%96%23" target="weibo">
+互相包场 互相点评 互相颁奖（热度：430139）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E6%88%8F%E4%BB%BD%23" target="weibo">
 常华森天地剑心戏份（热度：429845）
 </a>
@@ -5999,18 +6011,6 @@ k总老婆因经常喝热水食道被灼伤（热度：431857）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E9%BB%84%E5%AE%97%E6%B3%BD%E9%9D%A2%E7%9B%B8%E9%83%BD%E5%8F%98%E4%BA%86%23" target="weibo">
 新闻女王2黄宗泽面相都变了（热度：428226）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E4%B8%8E%E4%BB%96%E7%9A%84%E9%87%91%E9%B8%A1%E5%A5%96%E6%9D%AF%23" target="weibo">
-易烊千玺与他的金鸡奖杯（热度：428111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E4%B8%BD%E9%A2%96%E8%BF%9E%E5%8C%8510%E5%9C%BA%E6%94%AF%E6%8C%81%E8%BE%9B%E8%8A%B7%E8%95%BE%E6%96%B0%E7%89%87%23" target="weibo">
-赵丽颖连包10场支持辛芷蕾新片（热度：427959）
 </a>
 </li>
 
