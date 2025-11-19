@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763557748248,
+  "endTime": 1763559485569,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2835521,
-      "num": 211319,
+      "num": 212884,
       "word": "罗志祥立遗嘱",
       "onboard_time": 1763524702,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2737200,
-      "num": 235859,
+      "num": 238691,
       "word": "唐嫣 罗晋",
       "onboard_time": 1763444363,
       "rank": 25,
@@ -139,6 +139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1550321,
+      "num": 1550321,
+      "word": "何卓佳vs范思琦",
+      "onboard_time": 1763553021,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1513567,
       "num": 262266,
       "word": "宁波妇幼",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 1364276,
-      "num": 260384,
+      "num": 268531,
       "word": "朱志鑫直播",
       "onboard_time": 1763550022,
       "rank": 10,
@@ -323,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1055754,
+      "num": 1168340,
+      "word": "演戏自己不配音 却给动画配音",
+      "onboard_time": 1763553922,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1053120,
       "num": 221069,
       "word": "曾轶可曾大闹机场",
@@ -339,20 +355,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1052130,
-      "num": 1168340,
-      "word": "演戏自己不配音 却给动画配音",
-      "onboard_time": 1763553922,
-      "rank": 0,
-      "category": "电影"
-    },
-    {
       "raw_hot": 1049156,
-      "num": 208186,
+      "num": 237616,
       "word": "罗志祥收养经纪人两个小孩作伴",
       "onboard_time": 1763537842,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1047593,
+      "num": 718357,
+      "word": "范思琦12比10孙颖莎",
+      "onboard_time": 1763553682,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 1007477,
@@ -611,6 +627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 810063,
+      "num": 810063,
+      "word": "吴艳妮银牌",
+      "onboard_time": 1763558662,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 808832,
       "num": 808832,
       "word": "舍甫琴科vs张伟丽",
@@ -739,6 +763,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 743017,
+      "num": 743017,
+      "word": "乒乓球女团决赛河北vs山东",
+      "onboard_time": 1763550203,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 742154,
       "num": 215855,
       "word": "曝二字女星录节目迟到不回消息",
@@ -752,14 +784,6 @@
       "word": "这一亲把央视解说干沉默了",
       "onboard_time": 1763464522,
       "rank": 30,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 718357,
-      "num": 718357,
-      "word": "范思琦12比10孙颖莎",
-      "onboard_time": 1763553682,
-      "rank": 10,
       "category": "体育"
     },
     {
@@ -1097,6 +1121,14 @@
       "onboard_time": 1763390483,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 589620,
+      "num": 589620,
+      "word": "陈梦王晓彤范思琦冠军",
+      "onboard_time": 1763559384,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 588632,
@@ -1467,12 +1499,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 503764,
-      "num": 503764,
-      "word": "何卓佳vs范思琦",
-      "onboard_time": 1763553021,
-      "rank": 8,
-      "category": "体育"
+      "raw_hot": 504451,
+      "num": 352057,
+      "word": "丁泽仁评论区 0人在意丁泽仁",
+      "onboard_time": 1763555302,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 502210,
@@ -1747,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 463657,
+      "num": 463657,
+      "word": "陈梦3比0胜王添艺",
+      "onboard_time": 1763554102,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 462860,
       "num": 220830,
       "word": "怪不得现在女装动不动就预售",
@@ -1764,7 +1804,7 @@
     },
     {
       "raw_hot": 461822,
-      "num": 261821,
+      "num": 318143,
       "word": "何炅以后探店的话我是一家不去",
       "onboard_time": 1763551222,
       "rank": 49,
@@ -1777,14 +1817,6 @@
       "onboard_time": 1763462123,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 458704,
-      "num": 458704,
-      "word": "乒乓球女团决赛河北vs山东",
-      "onboard_time": 1763550203,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 455933,
@@ -2827,6 +2859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 331493,
+      "num": 331493,
+      "word": "孙颖莎3比1胜范思琦",
+      "onboard_time": 1763552722,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331354,
       "num": 331354,
       "word": "迪丽热巴给刘宇宁送花篮",
@@ -2921,6 +2961,14 @@
       "onboard_time": 1763276603,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 316358,
+      "num": 198363,
+      "word": "KT官宣Ghost以辅助位加入",
+      "onboard_time": 1763558183,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 315672,
@@ -3305,6 +3353,14 @@
       "onboard_time": 1763428701,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284443,
+      "num": 284443,
+      "word": "孙颖莎3比0王晓彤",
+      "onboard_time": 1763556021,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 284356,
@@ -3899,6 +3955,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 237170,
+      "num": 237170,
+      "word": "全运会",
+      "onboard_time": 1763275282,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236454,
       "num": 236454,
       "word": "专家称给日本100个胆都不敢进攻中国",
@@ -4091,6 +4155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224934,
+      "num": 194409,
+      "word": "孙颖莎11比2王晓彤",
+      "onboard_time": 1763556261,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224920,
       "num": 192810,
       "word": "朱珠说霍建华几乎每晚请剧组人员吃饭",
@@ -4217,6 +4289,14 @@
       "onboard_time": 1763468905,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 217857,
+      "num": 217857,
+      "word": "沈佳润不准跟黄毛玩",
+      "onboard_time": 1763557462,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 217302,
@@ -4427,6 +4507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205386,
+      "num": 193319,
+      "word": "田曦薇每顿都吃到发晕",
+      "onboard_time": 1763558844,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205342,
       "num": 404518,
       "word": "侯明昊音乐节",
@@ -4515,6 +4603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202517,
+      "num": 202517,
+      "word": "李诞劝大家不要算命",
+      "onboard_time": 1763558905,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 202340,
       "num": 219244,
       "word": "陈梦vs杨屹韵",
@@ -4529,14 +4625,6 @@
       "onboard_time": 1763548282,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 202127,
-      "num": 142720,
-      "word": "孙颖莎11比2王晓彤",
-      "onboard_time": 1763556261,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 202060,
@@ -4609,6 +4697,14 @@
       "onboard_time": 1763372661,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 200071,
+      "num": 200071,
+      "word": "河北山东进入决胜盘",
+      "onboard_time": 1763558784,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 199804,
@@ -4689,14 +4785,6 @@
       "onboard_time": 1763429959,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 197883,
-      "num": 197883,
-      "word": "丁泽仁评论区 0人在意丁泽仁",
-      "onboard_time": 1763555302,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 197529,
@@ -4899,14 +4987,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192482,
-      "num": 192482,
-      "word": "孙颖莎3比0王晓彤",
-      "onboard_time": 1763556021,
-      "rank": 18,
-      "category": "体育"
-    },
-    {
       "raw_hot": 192414,
       "num": 151817,
       "word": "孙颖莎首局11比7",
@@ -5051,6 +5131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 189881,
+      "num": 189881,
+      "word": "程晓玥晒二胎孕肚",
+      "onboard_time": 1763558004,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189807,
       "num": 241876,
       "word": "专家回应村民盗水吸金年入百万",
@@ -5121,14 +5209,6 @@
       "onboard_time": 1763262380,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188756,
-      "num": 188756,
-      "word": "全运会",
-      "onboard_time": 1763275282,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 188727,
@@ -5795,6 +5875,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 173388,
+      "num": 241518,
+      "word": "唐诡 颜真卿",
+      "onboard_time": 1763556983,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173163,
       "num": 173163,
       "word": "何美延曝梁淞曾和岳母大吵",
@@ -6451,6 +6539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157479,
+      "num": 157479,
+      "word": "陈妤颉女子200米冠军",
+      "onboard_time": 1763559084,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157419,
       "num": 185008,
       "word": "中国游客减少冲击日本GDP",
@@ -6737,6 +6833,14 @@
       "onboard_time": 1763364381,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 152757,
+      "num": 152757,
+      "word": "陈妤颉第2金",
+      "onboard_time": 1763558183,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 152715,
@@ -7315,14 +7419,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141769,
-      "num": 141769,
-      "word": "唐诡 颜真卿",
-      "onboard_time": 1763556983,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 141665,
       "num": 141665,
       "word": "张艺谋新电影",
@@ -7465,14 +7561,6 @@
       "onboard_time": 1763530882,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139742,
-      "num": 139742,
-      "word": "陈梦3比0胜王添艺",
-      "onboard_time": 1763554102,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 139681,
@@ -8129,6 +8217,14 @@
       "onboard_time": 1763468905,
       "rank": 23,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 129104,
+      "num": 129104,
+      "word": "看易烊千玺李庚希亲密戏需要心理委员",
+      "onboard_time": 1763559384,
+      "rank": 43,
+      "category": "电影"
     },
     {
       "raw_hot": 129095,
@@ -9243,14 +9339,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 115862,
-      "num": 115862,
-      "word": "沈佳润不准跟黄毛玩",
-      "onboard_time": 1763557462,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115860,
       "num": 258462,
       "word": "王曼昱全运会第4金",
@@ -10113,14 +10201,6 @@
       "onboard_time": 1763516541,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104473,
-      "num": 104473,
-      "word": "孙颖莎3比1胜范思琦",
-      "onboard_time": 1763552722,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 104347,
@@ -11939,6 +12019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64474,
+      "num": 833952,
+      "word": "第十五届全运会",
+      "onboard_time": 1763545582,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 64299,
       "num": 128238,
       "word": "广州塔庆祝张博恒单杠夺冠",
@@ -12009,6 +12097,14 @@
       "onboard_time": 1763284762,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63254,
+      "num": 240980,
+      "word": "安全背后大有乾崑",
+      "onboard_time": 1763558724,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 63245,
@@ -12201,6 +12297,14 @@
       "onboard_time": 1763204723,
       "rank": 34,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 56245,
+      "num": 187565,
+      "word": "乒乓球女团山东3比2河北",
+      "onboard_time": 1763559444,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 56137,
@@ -12609,14 +12713,6 @@
       "onboard_time": 1763462842,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 47248,
-      "num": 672429,
-      "word": "第十五届全运会",
-      "onboard_time": 1763545582,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 47158,
@@ -14240,6 +14336,14 @@
       "word": "全运会这群小海豚出圈了",
       "onboard_time": 1763389402,
       "rank": 7,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1015,
+      "num": 119807,
+      "word": "e法润京华",
+      "onboard_time": 1763545702,
+      "rank": 48,
       "category": "国内时政"
     }
   ],
