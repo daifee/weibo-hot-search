@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763526752775,
+  "endTime": 1763527587695,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -59,20 +59,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2645551,
+      "num": 209981,
+      "word": "曝霍启山娜然恋情",
+      "onboard_time": 1763525724,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2467412,
       "num": 2467412,
       "word": "易烊千玺金鸡影帝",
       "onboard_time": 1763214210,
       "rank": 0,
       "category": "电影"
-    },
-    {
-      "raw_hot": 2378457,
-      "num": 209981,
-      "word": "曝霍启山娜然恋情",
-      "onboard_time": 1763525724,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 2178127,
@@ -1155,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 539727,
+      "num": 1086356,
+      "word": "腾讯视频会员数不涨了",
+      "onboard_time": 1763519422,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 537554,
       "num": 307766,
       "word": "张子枫",
@@ -1235,12 +1243,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 515318,
-      "num": 1082451,
-      "word": "腾讯视频会员数不涨了",
-      "onboard_time": 1763519422,
-      "rank": 8,
-      "category": "互联网"
+      "raw_hot": 513769,
+      "num": 208197,
+      "word": "罗志祥自曝患微笑忧郁症",
+      "onboard_time": 1763525363,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 513103,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1763516722,
       "rank": 15,
       "category": "财经"
+    },
+    {
+      "raw_hot": 489203,
+      "num": 273658,
+      "word": "疑因发现姑姑偷玉米女子被姑父打死",
+      "onboard_time": 1763523861,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 488815,
@@ -1537,14 +1553,6 @@
       "onboard_time": 1763345661,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 453255,
-      "num": 273658,
-      "word": "疑因发现姑姑偷玉米女子被姑父打死",
-      "onboard_time": 1763523861,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 451334,
@@ -1931,14 +1939,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 387437,
-      "num": 208197,
-      "word": "罗志祥自曝患微笑忧郁症",
-      "onboard_time": 1763525363,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 387278,
       "num": 222282,
       "word": "台湾网红街头大肆叫嚣上战场",
@@ -2065,6 +2065,14 @@
       "onboard_time": 1763366181,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 367218,
+      "num": 367218,
+      "word": "日本网友要求高市向中国道歉",
+      "onboard_time": 1763522541,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 366799,
@@ -2203,14 +2211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 356390,
-      "num": 356390,
-      "word": "日本网友要求高市向中国道歉",
-      "onboard_time": 1763522541,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 355698,
       "num": 355698,
       "word": "外交部明确表态不会见高市早苗",
@@ -2337,6 +2337,14 @@
       "onboard_time": 1763424682,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339781,
+      "num": 263992,
+      "word": "黄锐对TFBOYS十周年演唱会还没释怀",
+      "onboard_time": 1763524041,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 338727,
@@ -2603,14 +2611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301616,
-      "num": 263992,
-      "word": "黄锐对TFBOYS十周年演唱会还没释怀",
-      "onboard_time": 1763524041,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 300697,
       "num": 300697,
       "word": "无限暖暖",
@@ -2649,6 +2649,14 @@
       "onboard_time": 1763295922,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 299927,
+      "num": 299927,
+      "word": "向往的生活好多人啊",
+      "onboard_time": 1763525482,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 298770,
@@ -2721,6 +2729,14 @@
       "onboard_time": 1763377942,
       "rank": 23,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 294507,
+      "num": 232526,
+      "word": "1吨鸭绒从17万涨到58万",
+      "onboard_time": 1763525783,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 293094,
@@ -2809,6 +2825,14 @@
       "onboard_time": 1763428701,
       "rank": 9,
       "category": "演出"
+    },
+    {
+      "raw_hot": 284356,
+      "num": 284356,
+      "word": "原来喜君那句萧郎被卢凌风记到现在",
+      "onboard_time": 1763525662,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 283735,
@@ -3137,14 +3161,6 @@
       "onboard_time": 1763304805,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254762,
-      "num": 254762,
-      "word": "原来喜君那句萧郎被卢凌风记到现在",
-      "onboard_time": 1763525662,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 254590,
@@ -3603,14 +3619,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216899,
-      "num": 216899,
-      "word": "向往的生活好多人啊",
-      "onboard_time": 1763525482,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215804,
       "num": 215804,
       "word": "T1官宣Doran续约",
@@ -3665,6 +3673,14 @@
       "onboard_time": 1763267001,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213341,
+      "num": 181222,
+      "word": "第一胎就生了月嫂",
+      "onboard_time": 1763527402,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 210404,
@@ -3747,14 +3763,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 207404,
-      "num": 207404,
-      "word": "1吨鸭绒从17万涨到58万",
-      "onboard_time": 1763525783,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 207392,
       "num": 275659,
       "word": "汪顺全运第19金",
@@ -3817,6 +3825,14 @@
       "onboard_time": 1763355083,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 204072,
+      "num": 212003,
+      "word": "迪丽热巴新剧赶上两班倒了",
+      "onboard_time": 1763525062,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 204069,
@@ -4115,14 +4131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 193875,
-      "num": 212003,
-      "word": "迪丽热巴新剧赶上两班倒了",
-      "onboard_time": 1763525062,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 193806,
       "num": 193806,
       "word": "张凌赫听刘宇宁寻一个你的反应",
@@ -4153,6 +4161,14 @@
       "onboard_time": 1763307083,
       "rank": 25,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192963,
+      "num": 192963,
+      "word": "想象的移动办公vs实际的移动办公",
+      "onboard_time": 1763526924,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 192601,
@@ -5163,6 +5179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 167679,
+      "num": 167679,
+      "word": "上海女团全运会铜牌",
+      "onboard_time": 1763526323,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167631,
       "num": 167631,
       "word": "台湾老百姓向高市早苗扔鸡蛋壳",
@@ -5227,20 +5251,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 166186,
-      "num": 166186,
-      "word": "上海女团全运会铜牌",
-      "onboard_time": 1763526323,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 165785,
       "num": 165785,
       "word": "宋茜私下不化妆的样子分明是妹妹",
       "onboard_time": 1763378301,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 165535,
+      "num": 200297,
+      "word": "金鸡最佳导演戴墨用Mate80拍电影",
+      "onboard_time": 1763523263,
+      "rank": 30,
+      "category": "电影,数码"
     },
     {
       "raw_hot": 165511,
@@ -5563,6 +5587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157582,
+      "num": 185348,
+      "word": "鬼灭之刃退票率大涨",
+      "onboard_time": 1763526683,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157419,
       "num": 185008,
       "word": "中国游客减少冲击日本GDP",
@@ -5705,14 +5737,6 @@
       "onboard_time": 1763342000,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 155165,
-      "num": 200297,
-      "word": "金鸡最佳导演戴墨用Mate80拍电影",
-      "onboard_time": 1763523263,
-      "rank": 30,
-      "category": "电影,数码"
     },
     {
       "raw_hot": 155078,
@@ -5953,6 +5977,14 @@
       "onboard_time": 1763273722,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150389,
+      "num": 210541,
+      "word": "爱泼斯坦案文件被批准强制公开",
+      "onboard_time": 1763525423,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 150286,
@@ -6515,6 +6547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137105,
+      "num": 182798,
+      "word": "华为双旗舰首发搭载第二代红枫",
+      "onboard_time": 1763526862,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 137087,
       "num": 137087,
       "word": "易烊千玺 拍立得的神",
@@ -6633,6 +6673,14 @@
       "onboard_time": 1763384241,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134732,
+      "num": 134732,
+      "word": "考研人穿搭",
+      "onboard_time": 1763526563,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 134634,
@@ -7123,20 +7171,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125223,
+      "num": 125223,
+      "word": "OBGG显示BLGViper",
+      "onboard_time": 1763527163,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125207,
       "num": 125207,
       "word": "王楚钦龙队虔诚的打水工",
       "onboard_time": 1763447962,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 125201,
-      "num": 125201,
-      "word": "考研人穿搭",
-      "onboard_time": 1763526563,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 125058,
@@ -7249,6 +7297,14 @@
       "onboard_time": 1763336539,
       "rank": 16,
       "category": "综艺,动漫"
+    },
+    {
+      "raw_hot": 123913,
+      "num": 123913,
+      "word": "法国夫妇害怕房子被强占不敢出远门",
+      "onboard_time": 1763526802,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123743,
@@ -7683,6 +7739,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 118133,
+      "num": 284699,
+      "word": "已收到举报台独打手帮凶邮件上万封",
+      "onboard_time": 1763526143,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 118040,
       "num": 152315,
       "word": "德州网友吐槽超市几乎全是印度人",
@@ -7899,14 +7963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 115500,
-      "num": 115500,
-      "word": "鬼灭之刃退票率大涨",
-      "onboard_time": 1763526683,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 115451,
       "num": 160516,
       "word": "UFC",
@@ -7921,6 +7977,14 @@
       "onboard_time": 1763270782,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115239,
+      "num": 115239,
+      "word": "吴艳妮12秒98预赛第一",
+      "onboard_time": 1763527463,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 115103,
@@ -9635,6 +9699,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 85889,
+      "num": 155908,
+      "word": "儿科医生降薪后兼职送外卖",
+      "onboard_time": 1763526382,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 85827,
       "num": 85827,
       "word": "哈登绝杀球被打手",
@@ -9827,6 +9899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81080,
+      "num": 148587,
+      "word": "爱奇艺第三季度的剧到底谁扑街了",
+      "onboard_time": 1763527223,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 81015,
       "num": 199236,
       "word": "为什么老外都来上海看豪华品牌",
@@ -9851,12 +9931,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 80239,
-      "num": 284699,
-      "word": "已收到举报台独打手帮凶邮件上万封",
-      "onboard_time": 1763526143,
-      "rank": 9,
-      "category": "国内时政"
+      "raw_hot": 80420,
+      "num": 206280,
+      "word": "詹姆斯NBA征战赛季最多的球员",
+      "onboard_time": 1763526623,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 80041,
@@ -10195,14 +10275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 69133,
-      "num": 155908,
-      "word": "儿科医生降薪后兼职送外卖",
-      "onboard_time": 1763526382,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69130,
       "num": 128168,
       "word": "周深是怎么忍住不笑的",
@@ -10241,14 +10313,6 @@
       "onboard_time": 1763363901,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 67867,
-      "num": 210541,
-      "word": "爱泼斯坦案文件被批准强制公开",
-      "onboard_time": 1763525423,
-      "rank": 21,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 67780,
@@ -10345,14 +10409,6 @@
       "onboard_time": 1763230755,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 64983,
-      "num": 206280,
-      "word": "詹姆斯NBA征战赛季最多的球员",
-      "onboard_time": 1763526623,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 64491,
@@ -10811,6 +10867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 50346,
+      "num": 258840,
+      "word": "苏炳添当年有多强",
+      "onboard_time": 1763524883,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 50164,
       "num": 218800,
       "word": "百万超跑驾控深蓝L06价格13.29万",
@@ -11241,14 +11305,6 @@
       "onboard_time": 1763383222,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39481,
-      "num": 258840,
-      "word": "苏炳添当年有多强",
-      "onboard_time": 1763524883,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 39407,
@@ -12435,7 +12491,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1587,
+      "raw_hot": 5312,
       "num": 420178,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,
@@ -12464,6 +12520,9 @@
     },
     {
       "word": "#合力开创法治中国建设新局面#"
+    },
+    {
+      "word": "#中国特色社会主义法治道路越走越宽广#"
     }
   ]
 }
