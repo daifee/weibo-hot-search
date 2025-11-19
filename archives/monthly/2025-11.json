@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763544676022,
+  "endTime": 1763545411868,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -8683,6 +8683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397739,
+      "num": 397739,
+      "word": "中方双手插兜见日方称天冷不便握手",
+      "onboard_time": 1763543121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 397475,
       "num": 397475,
       "word": "宁静跟繁花团吐槽花少",
@@ -13299,14 +13307,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 277939,
-      "num": 277939,
-      "word": "中方双手插兜见日方称天冷不便握手",
-      "onboard_time": 1763543121,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 277726,
       "num": 277726,
       "word": "Faker说Uzi是LPL最佳选手",
@@ -13691,6 +13691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 269570,
+      "num": 229303,
+      "word": "日本前首相岸田文雄明确表示反对",
+      "onboard_time": 1763540302,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 269532,
       "num": 307741,
       "word": "白敬亭 别让举铁的人玩这些",
@@ -14057,14 +14065,6 @@
       "onboard_time": 1763170520,
       "rank": 15,
       "category": "体育"
-    },
-    {
-      "raw_hot": 263329,
-      "num": 229303,
-      "word": "日本前首相岸田文雄明确表示反对",
-      "onboard_time": 1763540302,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 263154,
@@ -14491,6 +14491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254743,
+      "num": 254743,
+      "word": "Elk WBG",
+      "onboard_time": 1763544802,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 254697,
       "num": 263638,
       "word": "Chovy世界赛成绩 8884844",
@@ -14544,6 +14552,14 @@
       "word": "孩子王回应复活",
       "onboard_time": 1763085921,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 254062,
+      "num": 165940,
+      "word": "霍启山 娜然",
+      "onboard_time": 1763544142,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -14777,6 +14793,14 @@
       "onboard_time": 1762925000,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 248847,
+      "num": 229827,
+      "word": "曝SM选人颜值要求",
+      "onboard_time": 1763543422,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 248643,
@@ -15761,14 +15785,6 @@
       "onboard_time": 1763442324,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229827,
-      "num": 229827,
-      "word": "曝SM选人颜值要求",
-      "onboard_time": 1763543422,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 229646,
@@ -17729,14 +17745,6 @@
       "onboard_time": 1761976941,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 206692,
-      "num": 161386,
-      "word": "霍启山 娜然",
-      "onboard_time": 1763544142,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 206649,
@@ -30372,7 +30380,7 @@
     },
     {
       "raw_hot": 136488,
-      "num": 170502,
+      "num": 171599,
       "word": "鸿蒙二合一全面融合电脑平板生态",
       "onboard_time": 1763543062,
       "rank": 23,
@@ -30641,6 +30649,14 @@
       "onboard_time": 1763380882,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135342,
+      "num": 135342,
+      "word": "网红橙子姐姐涉嫌诈骗及跨境贩运人口",
+      "onboard_time": 1763545042,
+      "rank": 36,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 135288,
@@ -31257,6 +31273,14 @@
       "onboard_time": 1762877241,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 133174,
+      "num": 174107,
+      "word": "胖东来50万招聘国内仅8所高校符合",
+      "onboard_time": 1763544323,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133104,
@@ -33251,6 +33275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126527,
+      "num": 126527,
+      "word": "军工股大爆发了",
+      "onboard_time": 1763544023,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 126503,
       "num": 192840,
       "word": "请回答1988播出十周年",
@@ -34737,6 +34769,14 @@
       "onboard_time": 1762676302,
       "rank": 9,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 122557,
+      "num": 130288,
+      "word": "时代少年团六周年演唱会问答",
+      "onboard_time": 1763544802,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 122546,
@@ -37419,6 +37459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 115402,
+      "num": 115402,
+      "word": "陈星旭好多第一次给了枭起青壤",
+      "onboard_time": 1763545042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115386,
       "num": 115386,
       "word": "人上班后小猫在干什么",
@@ -39761,6 +39809,14 @@
       "onboard_time": 1762859721,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109032,
+      "num": 109032,
+      "word": "良田有女朋友了",
+      "onboard_time": 1763545342,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 109016,
@@ -58163,6 +58219,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 62674,
+      "num": 157410,
+      "word": "深夜开锁被索要4170元女生发声",
+      "onboard_time": 1763544202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62672,
       "num": 189302,
       "word": "杨幂回应获年度演员",
@@ -60499,14 +60563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 50367,
-      "num": 174107,
-      "word": "胖东来50万招聘国内仅8所高校符合",
-      "onboard_time": 1763544323,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50346,
       "num": 258840,
       "word": "苏炳添当年有多强",
@@ -61905,14 +61961,6 @@
       "onboard_time": 1763354002,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 43854,
-      "num": 157410,
-      "word": "深夜开锁被索要4170元女生发声",
-      "onboard_time": 1763544202,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43832,

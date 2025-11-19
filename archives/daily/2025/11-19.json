@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763544676022,
+  "endTime": 1763545411868,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -41,6 +41,14 @@
       "onboard_time": 1763531480,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1152496,
+      "num": 172907,
+      "word": "唐嫣 罗晋",
+      "onboard_time": 1763444363,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 1143356,
@@ -395,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397739,
+      "num": 397739,
+      "word": "中方双手插兜见日方称天冷不便握手",
+      "onboard_time": 1763543121,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 392488,
       "num": 392488,
       "word": "荒野求生选手饿了41天终于喝上鸡汤",
@@ -603,12 +619,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 277939,
-      "num": 277939,
-      "word": "中方双手插兜见日方称天冷不便握手",
-      "onboard_time": 1763543121,
-      "rank": 6,
-      "category": "国内时政"
+      "raw_hot": 269570,
+      "num": 229303,
+      "word": "日本前首相岸田文雄明确表示反对",
+      "onboard_time": 1763540302,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 268705,
@@ -619,14 +635,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 263329,
-      "num": 229303,
-      "word": "日本前首相岸田文雄明确表示反对",
-      "onboard_time": 1763540302,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 258738,
       "num": 258738,
       "word": "特朗普正式接见C罗",
@@ -635,12 +643,36 @@
       "category": "国际时政,体育"
     },
     {
+      "raw_hot": 254743,
+      "num": 254743,
+      "word": "Elk WBG",
+      "onboard_time": 1763544802,
+      "rank": 6,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 254062,
+      "num": 165940,
+      "word": "霍启山 娜然",
+      "onboard_time": 1763544142,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252728,
       "num": 252728,
       "word": "中国琉球学学科项目获批启动",
       "onboard_time": 1763519181,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 248847,
+      "num": 229827,
+      "word": "曝SM选人颜值要求",
+      "onboard_time": 1763543422,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 248643,
@@ -673,14 +705,6 @@
       "onboard_time": 1763521281,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 229827,
-      "num": 229827,
-      "word": "曝SM选人颜值要求",
-      "onboard_time": 1763543422,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 229073,
@@ -785,14 +809,6 @@
       "onboard_time": 1763479283,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 206692,
-      "num": 161386,
-      "word": "霍启山 娜然",
-      "onboard_time": 1763544142,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 204991,
@@ -1284,7 +1300,7 @@
     },
     {
       "raw_hot": 136488,
-      "num": 170502,
+      "num": 171599,
       "word": "鸿蒙二合一全面融合电脑平板生态",
       "onboard_time": 1763543062,
       "rank": 23,
@@ -1297,6 +1313,14 @@
       "onboard_time": 1763471423,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 135342,
+      "num": 135342,
+      "word": "网红橙子姐姐涉嫌诈骗及跨境贩运人口",
+      "onboard_time": 1763545042,
+      "rank": 36,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 134732,
@@ -1321,6 +1345,14 @@
       "onboard_time": 1763530342,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 133174,
+      "num": 174107,
+      "word": "胖东来50万招聘国内仅8所高校符合",
+      "onboard_time": 1763544323,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133016,
@@ -1395,14 +1427,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 128467,
-      "num": 128467,
-      "word": "唐嫣 罗晋",
-      "onboard_time": 1763444363,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 127757,
       "num": 127757,
       "word": "科学家在地下700米捉鬼",
@@ -1425,6 +1449,14 @@
       "onboard_time": 1763529441,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126527,
+      "num": 126527,
+      "word": "军工股大爆发了",
+      "onboard_time": 1763544023,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 125864,
@@ -1473,6 +1505,14 @@
       "onboard_time": 1763522841,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 122557,
+      "num": 130288,
+      "word": "时代少年团六周年演唱会问答",
+      "onboard_time": 1763544802,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 122333,
@@ -1595,6 +1635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115402,
+      "num": 115402,
+      "word": "陈星旭好多第一次给了枭起青壤",
+      "onboard_time": 1763545042,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115239,
       "num": 115239,
       "word": "吴艳妮12秒98预赛第一",
@@ -1641,6 +1689,14 @@
       "onboard_time": 1763508258,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 109032,
+      "num": 109032,
+      "word": "良田有女朋友了",
+      "onboard_time": 1763545342,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 108988,
@@ -2099,6 +2155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62674,
+      "num": 157410,
+      "word": "深夜开锁被索要4170元女生发声",
+      "onboard_time": 1763544202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 61381,
       "num": 128369,
       "word": "彭小苒哭出了漫画里才有的泪眼",
@@ -2251,14 +2315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 50367,
-      "num": 174107,
-      "word": "胖东来50万招聘国内仅8所高校符合",
-      "onboard_time": 1763544323,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 50346,
       "num": 258840,
       "word": "苏炳添当年有多强",
@@ -2328,14 +2384,6 @@
       "word": "家门口遇害女子妈妈曾与凶手对视",
       "onboard_time": 1763517141,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43854,
-      "num": 157410,
-      "word": "深夜开锁被索要4170元女生发声",
-      "onboard_time": 1763544202,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
