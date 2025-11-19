@@ -1,22 +1,38 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763594735813,
+  "endTime": 1763595519356,
   "band_list": [
     {
-      "raw_hot": 2743509,
-      "num": 84138,
+      "raw_hot": 3525851,
+      "num": 96050,
       "word": "疑似胡彦斌易梦玲恋情",
       "onboard_time": 1763593878,
       "rank": 20,
       "category": "艺人"
     },
     {
+      "raw_hot": 635706,
+      "num": 95345,
+      "word": "美国杀人魔因生殖器过小成破案关键",
+      "onboard_time": 1763594720,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 633839,
-      "num": 82571,
+      "num": 91894,
       "word": "胡彦斌",
       "onboard_time": 1763593999,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 516444,
+      "num": 907700,
+      "word": "日本多次不宣而战",
+      "onboard_time": 1763559983,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 444116,
@@ -25,14 +41,6 @@
       "onboard_time": 1763545222,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 439155,
-      "num": 798575,
-      "word": "日本多次不宣而战",
-      "onboard_time": 1763559983,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 422506,
@@ -75,6 +83,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 242014,
+      "num": 242014,
+      "word": "台当局竟要求民众绝不向大陆投降",
+      "onboard_time": 1763560103,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 236901,
       "num": 184119,
       "word": "孙颖莎说人生总要有遗憾",
@@ -89,14 +105,6 @@
       "onboard_time": 1763559924,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 218295,
-      "num": 218295,
-      "word": "台当局竟要求民众绝不向大陆投降",
-      "onboard_time": 1763560103,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 202947,
@@ -131,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189498,
+      "num": 189498,
+      "word": "羽绒服出厂价已逼近千元",
+      "onboard_time": 1763568920,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 182016,
       "num": 185139,
       "word": "网红橙子姐姐被封号",
@@ -139,19 +155,51 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 171362,
+      "num": 181624,
+      "word": "张一山没有不红 是红的太早了",
+      "onboard_time": 1763560643,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 167898,
+      "num": 167898,
+      "word": "英伟达财报",
+      "onboard_time": 1763594240,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 167183,
+      "num": 167183,
+      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
+      "onboard_time": 1763572757,
+      "rank": 34,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 163081,
+      "num": 121792,
+      "word": "清华美女研究生全运会冠军",
+      "onboard_time": 1763594359,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162712,
+      "num": 158872,
+      "word": "喻恩泰称因为孩子忍辱多年",
+      "onboard_time": 1763570780,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162102,
       "num": 181399,
       "word": "罗志祥立遗嘱",
       "onboard_time": 1763524702,
       "rank": 22,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 161533,
-      "num": 158872,
-      "word": "喻恩泰称因为孩子忍辱多年",
-      "onboard_time": 1763570780,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -163,44 +211,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 160289,
-      "num": 180975,
-      "word": "羽绒服出厂价已逼近千元",
-      "onboard_time": 1763568920,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157525,
       "num": 181665,
       "word": "丁泽仁评论区 0人在意丁泽仁",
       "onboard_time": 1763555302,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 152725,
-      "num": 181624,
-      "word": "张一山没有不红 是红的太早了",
-      "onboard_time": 1763560643,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 150992,
-      "num": 150992,
-      "word": "英伟达财报",
-      "onboard_time": 1763594240,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
-      "raw_hot": 142213,
-      "num": 142213,
-      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
-      "onboard_time": 1763572757,
-      "rank": 34,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 141486,
@@ -235,7 +251,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 122192,
+      "raw_hot": 122633,
       "num": 180838,
       "word": "中方将不得不采取严厉坚决的反制措施",
       "onboard_time": 1763562623,
@@ -243,8 +259,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 114010,
-      "num": 114010,
+      "raw_hot": 120969,
+      "num": 120969,
       "word": "员工偷150支钢笔被判7年",
       "onboard_time": 1763573057,
       "rank": 46,
@@ -265,6 +281,14 @@
       "onboard_time": 1763571677,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 103189,
+      "num": 81697,
+      "word": "中方奉劝英方停止贼喊捉贼",
+      "onboard_time": 1763595139,
+      "rank": 30,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 102730,
@@ -307,6 +331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88564,
+      "num": 180858,
+      "word": "何炅以后探店的话我是一家不去",
+      "onboard_time": 1763551222,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 86975,
       "num": 181045,
       "word": "洗澡前和洗澡后完全是两个人",
@@ -323,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82452,
+      "num": 98184,
+      "word": "短剧演员不用背台词的原因找到了",
+      "onboard_time": 1763593878,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82197,
       "num": 181020,
       "word": "孙颖莎何卓佳王添艺亚军",
@@ -331,20 +371,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82112,
-      "num": 82112,
-      "word": "清华美女研究生全运会冠军",
-      "onboard_time": 1763594359,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 79828,
+      "num": 79828,
+      "word": "母亲回应炫耀孩子招杀身之祸言论",
+      "onboard_time": 1763575156,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
-      "raw_hot": 81271,
-      "num": 180858,
-      "word": "何炅以后探店的话我是一家不去",
-      "onboard_time": 1763551222,
-      "rank": 36,
-      "category": "综艺"
+      "raw_hot": 78531,
+      "num": 78531,
+      "word": "何卓佳自责哭了",
+      "onboard_time": 1763594539,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 77478,
@@ -363,6 +403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72557,
+      "num": 72557,
+      "word": "她这一套下来我要躺到明年11月",
+      "onboard_time": 1763595439,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 71913,
       "num": 181185,
       "word": "互相包场 互相点评 互相颁奖",
@@ -371,28 +419,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 67776,
-      "num": 67776,
-      "word": "母亲回应炫耀孩子招杀身之祸言论",
-      "onboard_time": 1763575156,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66259,
-      "num": 66259,
+      "raw_hot": 67163,
+      "num": 67163,
       "word": "全运会两位解说打的披头散发",
       "onboard_time": 1763581514,
       "rank": 41,
       "category": "体育"
     },
     {
-      "raw_hot": 64251,
-      "num": 64251,
-      "word": "何卓佳自责哭了",
-      "onboard_time": 1763594539,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 64280,
+      "num": 64280,
+      "word": "东北男子穿睡衣取外卖被锁室外",
+      "onboard_time": 1763594598,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63214,
+      "num": 63214,
+      "word": "刘劲松司长平时脾气可好了",
+      "onboard_time": 1763594598,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 62780,
@@ -435,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58704,
+      "num": 63212,
+      "word": "高市证实与新纳粹组织党首合影",
+      "onboard_time": 1763574017,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58271,
       "num": 180535,
       "word": "孙颖莎3比1胜范思琦",
@@ -459,14 +515,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57610,
-      "num": 68895,
-      "word": "短剧演员不用背台词的原因找到了",
-      "onboard_time": 1763593878,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 56979,
       "num": 180513,
       "word": "日本电影在华红利或将终结",
@@ -484,7 +532,7 @@
     },
     {
       "raw_hot": 55082,
-      "num": 62729,
+      "num": 63201,
       "word": "中金公司A股11月20日起停牌",
       "onboard_time": 1763594359,
       "rank": 37,
@@ -515,20 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50461,
-      "num": 62716,
-      "word": "高市证实与新纳粹组织党首合影",
-      "onboard_time": 1763574017,
-      "rank": 42,
+      "raw_hot": 48866,
+      "num": 63207,
+      "word": "荷兰暂停针对安世半导体行政令",
+      "onboard_time": 1763574315,
+      "rank": 48,
       "category": "国际时政"
     },
     {
-      "raw_hot": 47440,
-      "num": 62684,
-      "word": "刘劲松司长平时脾气可好了",
-      "onboard_time": 1763594598,
-      "rank": 40,
-      "category": "国内时政"
+      "raw_hot": 47856,
+      "num": 63204,
+      "word": "乒乓球女团山东队战胜河北队",
+      "onboard_time": 1763594118,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 47092,
@@ -536,22 +584,6 @@
       "word": "荷兰经济大臣发表声明",
       "onboard_time": 1763586074,
       "rank": 42,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 46966,
-      "num": 62652,
-      "word": "东北男子穿睡衣取外卖被锁室外",
-      "onboard_time": 1763594598,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45338,
-      "num": 62649,
-      "word": "荷兰暂停针对安世半导体行政令",
-      "onboard_time": 1763574315,
-      "rank": 48,
       "category": "国际时政"
     },
     {

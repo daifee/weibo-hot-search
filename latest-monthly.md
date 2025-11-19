@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 07:25:35
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 07:38:39
 </p>
 </blockquote>
 <p>
@@ -129,6 +129,12 @@ AG夺冠（热度：6577239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%81%8B%E6%83%85%23" target="weibo">
+疑似胡彦斌易梦玲恋情（热度：3525851）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E5%AE%98%E5%AE%A3Gumayusi%E7%A6%BB%E9%98%9F%23" target="weibo">
 T1官宣Gumayusi离队（热度：3390474）
 </a>
@@ -185,12 +191,6 @@ T1官宣Gumayusi离队（热度：3390474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6vs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 陈梦vs王曼昱（热度：2751680）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%81%8B%E6%83%85%23" target="weibo">
-疑似胡彦斌易梦玲恋情（热度：2743509）
 </a>
 </li>
 
@@ -3135,6 +3135,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E6%9D%80%E4%BA%BA%E9%AD%94%E5%9B%A0%E7%94%9F%E6%AE%96%E5%99%A8%E8%BF%87%E5%B0%8F%E6%88%90%E7%A0%B4%E6%A1%88%E5%85%B3%E9%94%AE%23" target="weibo">
+美国杀人魔因生殖器过小成破案关键（热度：635706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A1%83%E9%BB%91%E9%BB%91%E5%A5%B3%E5%8F%8B%E8%87%AA%E6%9B%9D%E4%B8%8D%E6%95%B4%E5%AE%B9%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 桃黑黑女友自曝不整容的原因（热度：635537）
 </a>
@@ -6005,12 +6011,6 @@ Amy姐曝潘玮柏宣云恋爱内幕（热度：436484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%B4%E5%93%A5%E8%AF%B4%E8%BD%A6%E5%89%8D%E5%A6%BB%E4%B8%80%E5%AE%B6%E6%80%92%E6%96%A5%E5%B0%8F%E4%B8%89%23" target="weibo">
 猴哥说车前妻一家怒斥小三（热度：432801）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Tabe%20JDG%23" target="weibo">
-Tabe JDG（热度：432430）
 </a>
 </li>
 
