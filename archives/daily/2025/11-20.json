@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763588268324,
+  "endTime": 1763591196158,
   "band_list": [
     {
       "raw_hot": 444116,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60370,
+      "num": 43532,
+      "word": "高市早苗到底水有多深",
+      "onboard_time": 1763574855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 59823,
       "num": 180661,
       "word": "曝Peyz顶薪签约T1",
@@ -379,6 +387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 57888,
+      "num": 73316,
+      "word": "员工偷150支钢笔被判7年",
+      "onboard_time": 1763573057,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57619,
+      "num": 73435,
+      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
+      "onboard_time": 1763572757,
+      "rank": 34,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 56979,
       "num": 180513,
       "word": "日本电影在华红利或将终结",
@@ -393,14 +417,6 @@
       "onboard_time": 1763556021,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 54424,
-      "num": 73435,
-      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
-      "onboard_time": 1763572757,
-      "rank": 34,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 53696,
@@ -427,14 +443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43804,
-      "num": 35460,
-      "word": "高市早苗到底水有多深",
-      "onboard_time": 1763574855,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36959,
       "num": 158514,
       "word": "张弛象人舞台喜人亲友团全吻上来了",
@@ -443,12 +451,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35578,
-      "num": 73316,
-      "word": "员工偷150支钢笔被判7年",
-      "onboard_time": 1763573057,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 35136,
+      "num": 35136,
+      "word": "荷兰经济大臣发表声明",
+      "onboard_time": 1763586074,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 35104,
@@ -475,6 +483,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 30762,
+      "num": 33388,
+      "word": "荷兰暂停针对安世半导体行政令",
+      "onboard_time": 1763574315,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29466,
       "num": 57651,
       "word": "陈梦或最后一次参加全运会",
@@ -491,7 +507,31 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 24020,
+      "raw_hot": 26614,
+      "num": 30746,
+      "word": "全运会两位解说打的披头散发",
+      "onboard_time": 1763581514,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 26544,
+      "num": 30735,
+      "word": "乒乓球女团山东夺冠",
+      "onboard_time": 1763585173,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 24979,
+      "num": 34996,
+      "word": "母亲回应炫耀孩子招杀身之祸言论",
+      "onboard_time": 1763575156,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24315,
       "num": 34983,
       "word": "高市证实与新纳粹组织党首合影",
       "onboard_time": 1763574017,
@@ -505,22 +545,6 @@
       "onboard_time": 1763576594,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23633,
-      "num": 34996,
-      "word": "母亲回应炫耀孩子招杀身之祸言论",
-      "onboard_time": 1763575156,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21755,
-      "num": 27296,
-      "word": "乒乓球女团山东夺冠",
-      "onboard_time": 1763585173,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 21119,
@@ -555,36 +579,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17459,
-      "num": 33388,
-      "word": "荷兰暂停针对安世半导体行政令",
-      "onboard_time": 1763574315,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 17359,
-      "num": 27147,
-      "word": "全运会两位解说打的披头散发",
-      "onboard_time": 1763581514,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 17313,
       "num": 33373,
       "word": "凤凰台上",
       "onboard_time": 1763577854,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 16222,
-      "num": 27116,
-      "word": "荷兰经济大臣发表声明",
-      "onboard_time": 1763586074,
-      "rank": 42,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
