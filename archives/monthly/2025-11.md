@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 06:42:33
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 07:25:35
 </p>
 </blockquote>
 <p>
@@ -185,6 +185,12 @@ T1官宣Gumayusi离队（热度：3390474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6vs%E7%8E%8B%E6%9B%BC%E6%98%B1%23" target="weibo">
 陈梦vs王曼昱（热度：2751680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%81%8B%E6%83%85%23" target="weibo">
+疑似胡彦斌易梦玲恋情（热度：2743509）
 </a>
 </li>
 
@@ -3153,6 +3159,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%23" target="weibo">
+胡彦斌（热度：633839）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E9%80%80%E5%87%BA%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%E8%82%A1%E4%B8%9C%E8%A1%8C%E5%88%97%23" target="weibo">
 多方退出银河酷娱股东行列（热度：633023）
 </a>
@@ -5999,18 +6011,6 @@ Amy姐曝潘玮柏宣云恋爱内幕（热度：436484）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Tabe%20JDG%23" target="weibo">
 Tabe JDG（热度：432430）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E5%8F%AF%E4%BB%A5%E6%8E%A5%E5%8F%97%E4%B8%8D%E8%B7%B3%E7%9A%84%E4%BB%A3%E4%BB%B7%23" target="weibo">
-全红婵可以接受不跳的代价（热度：432343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23k%E6%80%BB%E8%80%81%E5%A9%86%E5%9B%A0%E7%BB%8F%E5%B8%B8%E5%96%9D%E7%83%AD%E6%B0%B4%E9%A3%9F%E9%81%93%E8%A2%AB%E7%81%BC%E4%BC%A4%23" target="weibo">
-k总老婆因经常喝热水食道被灼伤（热度：431857）
 </a>
 </li>
 
