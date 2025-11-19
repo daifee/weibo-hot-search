@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 14:39:19
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 14:52:04
 </p>
 </blockquote>
 <p>
@@ -3111,6 +3111,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E9%97%AE%E9%99%88%E4%BC%9F%E9%9C%86%E5%BD%93daddy%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23" target="weibo">
+范丞丞问陈伟霆当daddy什么感觉（热度：625840）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%98%AF%E7%88%B7%E5%AD%99%E7%BB%93%E6%9E%9C%E6%98%AF%E5%A4%AB%E5%A6%BB%23" target="weibo">
 以为是爷孙结果是夫妻（热度：625546）
 </a>
@@ -3137,6 +3143,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%99%BD%E9%B9%BF%E8%B7%B3%E4%BA%86obsession%23" target="weibo">
 范丞丞白鹿跳了obsession（热度：624227）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E6%B3%BD%E4%BB%81%E7%A7%B0%E8%A2%AB%E5%94%AF%E4%B8%80%E7%9A%84%E5%A7%90%E8%A6%81%E6%B1%82%E7%BB%93%E6%89%8E%23" target="weibo">
+丁泽仁称被唯一的姐要求结扎（热度：623087）
 </a>
 </li>
 
@@ -3981,12 +3993,6 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E6%B3%BD%E4%BB%81%E7%A7%B0%E8%A2%AB%E5%94%AF%E4%B8%80%E7%9A%84%E5%A7%90%E8%A6%81%E6%B1%82%E7%BB%93%E6%89%8E%23" target="weibo">
-丁泽仁称被唯一的姐要求结扎（热度：548746）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E5%A5%B3%E4%B8%BB%E5%8E%9F%E5%9E%8B%E6%98%AF%E7%8E%8B%E8%89%B3%23" target="weibo">
 将门毒后女主原型是王艳（热度：548566）
 </a>
@@ -4049,12 +4055,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E4%BC%A0%E9%9B%AA%E4%B8%AD%E6%82%8D%E5%88%80%E8%A1%8C2%E9%98%B5%E5%AE%B9%23" target="weibo">
 网传雪中悍刀行2阵容（热度：544503）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E9%97%AE%E9%99%88%E4%BC%9F%E9%9C%86%E5%BD%93daddy%E4%BB%80%E4%B9%88%E6%84%9F%E8%A7%89%23" target="weibo">
-范丞丞问陈伟霆当daddy什么感觉（热度：544412）
 </a>
 </li>
 
@@ -4223,6 +4223,12 @@ iPhone背面还可以这样用（热度：532950）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E7%BE%8E%E5%A8%9F%E5%90%90%E6%A7%BD%E6%9F%90%E6%98%8E%E6%98%9F%E5%B8%A6%E8%B4%A7%E8%B4%A8%E9%87%8F%E5%B7%AE%23" target="weibo">
 韩美娟吐槽某明星带货质量差（热度：532489）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23HLE%E5%AE%A3%E5%B8%83Viper%E7%A6%BB%E9%98%9F%23" target="weibo">
+HLE宣布Viper离队（热度：532079）
 </a>
 </li>
 
@@ -5187,6 +5193,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%AF%84%E8%AE%BA%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%A4%8D%E5%90%88%23" target="weibo">
+因评论爸爸当家与前女友复合（热度：466338）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%8F%91%E6%96%87%E6%81%AD%E5%96%9C%E5%88%98%E6%98%A5%E5%92%8C%23" target="weibo">
 TFBOYS发文恭喜刘春和（热度：466139）
 </a>
@@ -5999,18 +6011,6 @@ Faker发博晒经典夺冠表情（热度：418029）
 <li>
 <a href="https://s.weibo.com/weibo?q=%231%E5%90%A8%E9%B8%AD%E7%BB%92%E4%BB%8E17%E4%B8%87%E6%B6%A8%E5%88%B058%E4%B8%87%23" target="weibo">
 1吨鸭绒从17万涨到58万（热度：416539）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%B0%88%E5%85%A8%E8%BF%90%E4%BC%9A%E7%94%B7%E5%8D%95%E5%A5%B3%E5%8D%95%E5%8D%AB%E5%86%95%23" target="weibo">
-张继科谈全运会男单女单卫冕（热度：416467）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E6%95%99%E6%8E%88%E5%9B%A0%E4%B8%89%E7%94%9F%E4%B8%89%E4%B8%96%E5%85%A5%E5%9D%91%E7%BD%91%E6%96%87%23" target="weibo">
-北大教授因三生三世入坑网文（热度：416218）
 </a>
 </li>
 

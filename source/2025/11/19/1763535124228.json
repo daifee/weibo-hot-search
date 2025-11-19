@@ -1,0 +1,410 @@
+{
+  "runTime": 1763535124228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1283118,
+        "num": 1283118,
+        "word": "中方向日方通报暂停进口日本水产品",
+        "onboard_time": 1763531480,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 532079,
+        "num": 532079,
+        "word": "HLE宣布Viper离队",
+        "onboard_time": 1763534421,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10381,
+        "num": 487223,
+        "word": "封关不是封岛",
+        "onboard_time": 1763438844,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 466338,
+        "num": 466338,
+        "word": "因评论爸爸当家与前女友复合",
+        "onboard_time": 1763530763,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419008,
+        "num": 419008,
+        "word": "朝鲜代表联大发言炮轰日本",
+        "onboard_time": 1763528422,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 317111,
+        "num": 317111,
+        "word": "日本旅游 退票",
+        "onboard_time": 1763528123,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268702,
+        "num": 268702,
+        "word": "高市惹大祸日本人有苦头吃了",
+        "onboard_time": 1763524941,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212267,
+        "num": 212267,
+        "word": "日本网友要求高市向中国道歉",
+        "onboard_time": 1763522541,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209944,
+        "num": 209944,
+        "word": "杨瀚森高效得到4分",
+        "onboard_time": 1763529862,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193548,
+        "num": 193548,
+        "word": "陈熠哭了",
+        "onboard_time": 1763529022,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 625840,
+        "num": 192225,
+        "word": "范丞丞问陈伟霆当daddy什么感觉",
+        "onboard_time": 1763530221,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 394719,
+        "num": 190229,
+        "word": "韩雪直播卖12.9元棉拖引热议",
+        "onboard_time": 1763529802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315672,
+        "num": 189612,
+        "word": "Shanks 真没劲儿",
+        "onboard_time": 1763533521,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 284926,
+        "num": 187182,
+        "word": "1吨鸭绒从17万涨到58万",
+        "onboard_time": 1763525783,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97248,
+        "num": 186012,
+        "word": "苏炳添谢幕战",
+        "onboard_time": 1763532081,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203986,
+        "num": 183350,
+        "word": "确认出席爱奇艺尖叫之夜的明星",
+        "onboard_time": 1763534540,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182487,
+        "num": 182487,
+        "word": "白鹿张凌赫将出席尖叫之夜",
+        "onboard_time": 1763529741,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112047,
+        "num": 182447,
+        "word": "向往的生活好多人啊",
+        "onboard_time": 1763525482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 21407,
+        "num": 182328,
+        "word": "诚邀台胞来一场说走就走的旅行",
+        "onboard_time": 1763534540,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27339,
+        "num": 182237,
+        "word": "日本对中国本就欠着血债",
+        "onboard_time": 1763534540,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1417252,
+        "num": 182040,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1241501,
+        "num": 181973,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623087,
+        "num": 181799,
+        "word": "丁泽仁称被唯一的姐要求结扎",
+        "onboard_time": 1763531901,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 257742,
+        "num": 181725,
+        "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
+        "onboard_time": 1763529203,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215209,
+        "num": 181657,
+        "word": "上午喝咖啡 抗炎",
+        "onboard_time": 1763523199,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 197457,
+        "num": 181541,
+        "word": "何炅 五旬了还要周考吗",
+        "onboard_time": 1763522423,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190588,
+        "num": 181421,
+        "word": "疑因发现姑姑偷玉米女子被姑父打死",
+        "onboard_time": 1763523861,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 485742,
+        "num": 181218,
+        "word": "丁泽仁再谈唯一的姐",
+        "onboard_time": 1763530523,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181209,
+        "num": 181209,
+        "word": "怪不得现在女装动不动就预售",
+        "onboard_time": 1763533640,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178326,
+        "num": 178326,
+        "word": "杨瀚森披挂上阵",
+        "onboard_time": 1763531602,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176881,
+        "num": 176881,
+        "word": "中国军网在海外发布备战视频",
+        "onboard_time": 1763528482,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173248,
+        "num": 173248,
+        "word": "刘品言生女",
+        "onboard_time": 1763529262,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163993,
+        "num": 163993,
+        "word": "涵艺爆料AL新教练",
+        "onboard_time": 1763533462,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 161476,
+        "num": 161476,
+        "word": "孙乐言回应我现在不是一个普通人了",
+        "onboard_time": 1763534601,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142900,
+        "num": 142900,
+        "word": "梦引蝴蝶精",
+        "onboard_time": 1763534782,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 142716,
+        "num": 142716,
+        "word": "腾讯视频会员数不涨了",
+        "onboard_time": 1763519422,
+        "rank": 35,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 128595,
+        "num": 128595,
+        "word": "日媒翻译脑袋被驴踢了是什么意思",
+        "onboard_time": 1763531001,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127958,
+        "num": 127958,
+        "word": "曝Tabe离开AL原因",
+        "onboard_time": 1763534841,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 95020,
+        "num": 126025,
+        "word": "迪丽热巴比美貌先来的是演技",
+        "onboard_time": 1763534901,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124876,
+        "num": 124876,
+        "word": "台媒曝杨宗纬家人随地便溺",
+        "onboard_time": 1763530882,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123343,
+        "num": 123343,
+        "word": "那英把华晨宇当百科全书用了",
+        "onboard_time": 1763533521,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123184,
+        "num": 123184,
+        "word": "失去中国游客日本百货恐怕要凉半截",
+        "onboard_time": 1763529441,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120985,
+        "num": 120985,
+        "word": "新买的衣服一定要洗了再穿",
+        "onboard_time": 1763534180,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120358,
+        "num": 120358,
+        "word": "因为嫉妒关闭朋友圈半年多了",
+        "onboard_time": 1763528482,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119863,
+        "num": 119863,
+        "word": "灵隐寺取消门票",
+        "onboard_time": 1763521881,
+        "rank": 44,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 116048,
+        "num": 116048,
+        "word": "科学家在地下700米捉鬼",
+        "onboard_time": 1763530581,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 102012,
+        "num": 102012,
+        "word": "彭小苒凤凰台上没用原声的原因",
+        "onboard_time": 1763534962,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101860,
+        "num": 101860,
+        "word": "无限暖暖伊赞之土",
+        "onboard_time": 1763534180,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100490,
+        "num": 100490,
+        "word": "爱喝咖啡的建议反复观看",
+        "onboard_time": 1763531961,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97855,
+        "num": 97855,
+        "word": "黄锐对TFBOYS十周年演唱会还没释怀",
+        "onboard_time": 1763524041,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色社会主义法治道路越走越宽广#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763534359277,
+  "endTime": 1763535124228,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -75,12 +75,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 625840,
+      "num": 336775,
+      "word": "范丞丞问陈伟霆当daddy什么感觉",
+      "onboard_time": 1763530221,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 625428,
       "num": 277715,
       "word": "上午喝咖啡 抗炎",
       "onboard_time": 1763523199,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 623087,
+      "num": 181799,
+      "word": "丁泽仁称被唯一的姐要求结扎",
+      "onboard_time": 1763531901,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 609935,
@@ -123,22 +139,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 548746,
-      "num": 160610,
-      "word": "丁泽仁称被唯一的姐要求结扎",
-      "onboard_time": 1763531901,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 544412,
-      "num": 336775,
-      "word": "范丞丞问陈伟霆当daddy什么感觉",
-      "onboard_time": 1763530221,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 540387,
       "num": 236779,
       "word": "韩雪直播卖12.9元棉拖引热议",
@@ -161,6 +161,14 @@
       "onboard_time": 1763524941,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 532079,
+      "num": 532079,
+      "word": "HLE宣布Viper离队",
+      "onboard_time": 1763534421,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 523653,
@@ -201,6 +209,14 @@
       "onboard_time": 1763523861,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 466338,
+      "num": 466338,
+      "word": "因评论爸爸当家与前女友复合",
+      "onboard_time": 1763530763,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 438570,
@@ -323,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346475,
-      "num": 346475,
-      "word": "因评论爸爸当家与前女友复合",
-      "onboard_time": 1763530763,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 346383,
       "num": 346383,
       "word": "日方坐不住了",
@@ -361,6 +369,14 @@
       "onboard_time": 1763529262,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 315672,
+      "num": 220029,
+      "word": "Shanks 真没劲儿",
+      "onboard_time": 1763533521,
+      "rank": 12,
+      "category": "电竞"
     },
     {
       "raw_hot": 314392,
@@ -449,14 +465,6 @@
       "onboard_time": 1763464522,
       "rank": 24,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244105,
-      "num": 220029,
-      "word": "Shanks 真没劲儿",
-      "onboard_time": 1763533521,
-      "rank": 12,
-      "category": "电竞"
     },
     {
       "raw_hot": 241886,
@@ -555,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203986,
+      "num": 183350,
+      "word": "确认出席爱奇艺尖叫之夜的明星",
+      "onboard_time": 1763534540,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 199638,
       "num": 199638,
       "word": "贾乃亮工作室回应女子买到疑似假货",
@@ -635,12 +651,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181209,
+      "num": 181209,
+      "word": "怪不得现在女装动不动就预售",
+      "onboard_time": 1763533640,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 180736,
       "num": 180736,
       "word": "王晶说易烊千玺可能是下一个周润发",
       "onboard_time": 1763483599,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 178326,
+      "num": 178326,
+      "word": "杨瀚森披挂上阵",
+      "onboard_time": 1763531602,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 176096,
@@ -699,12 +731,12 @@
       "category": "电影,数码"
     },
     {
-      "raw_hot": 165444,
-      "num": 165444,
-      "word": "杨瀚森披挂上阵",
-      "onboard_time": 1763531602,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 163993,
+      "num": 163993,
+      "word": "涵艺爆料AL新教练",
+      "onboard_time": 1763533462,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 162996,
@@ -713,6 +745,14 @@
       "onboard_time": 1763517202,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161476,
+      "num": 161476,
+      "word": "孙乐言回应我现在不是一个普通人了",
+      "onboard_time": 1763534601,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 158536,
@@ -755,14 +795,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 152018,
-      "num": 136048,
-      "word": "涵艺爆料AL新教练",
-      "onboard_time": 1763533462,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 150389,
       "num": 210541,
       "word": "爱泼斯坦案文件被批准强制公开",
@@ -779,12 +811,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145689,
-      "num": 145689,
-      "word": "怪不得现在女装动不动就预售",
-      "onboard_time": 1763533640,
-      "rank": 28,
-      "category": "情感"
+      "raw_hot": 142900,
+      "num": 142900,
+      "word": "梦引蝴蝶精",
+      "onboard_time": 1763534782,
+      "rank": 34,
+      "category": "游戏"
     },
     {
       "raw_hot": 142288,
@@ -971,6 +1003,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127958,
+      "num": 127958,
+      "word": "曝Tabe离开AL原因",
+      "onboard_time": 1763534841,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127757,
       "num": 127757,
       "word": "科学家在地下700米捉鬼",
@@ -1003,6 +1043,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123184,
+      "num": 123184,
+      "word": "失去中国游客日本百货恐怕要凉半截",
+      "onboard_time": 1763529441,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123045,
       "num": 171371,
       "word": "陈伟霆老钱风吹到了现在就出发",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1763520200,
       "rank": 27,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 120985,
+      "num": 120985,
+      "word": "新买的衣服一定要洗了再穿",
+      "onboard_time": 1763534180,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 118357,
@@ -1107,28 +1163,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 110857,
-      "num": 110857,
-      "word": "新买的衣服一定要洗了再穿",
-      "onboard_time": 1763534180,
-      "rank": 42,
-      "category": "情感"
-    },
-    {
       "raw_hot": 110086,
       "num": 120583,
       "word": "美股",
       "onboard_time": 1763508258,
       "rank": 22,
       "category": "财经"
-    },
-    {
-      "raw_hot": 109675,
-      "num": 109675,
-      "word": "失去中国游客日本百货恐怕要凉半截",
-      "onboard_time": 1763529441,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 108580,
@@ -1195,12 +1235,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 102012,
+      "num": 102012,
+      "word": "彭小苒凤凰台上没用原声的原因",
+      "onboard_time": 1763534962,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 100490,
+      "num": 100490,
+      "word": "爱喝咖啡的建议反复观看",
+      "onboard_time": 1763531961,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98786,
       "num": 98786,
       "word": "绝区零叶瞬光",
       "onboard_time": 1763534061,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97248,
+      "num": 216638,
+      "word": "苏炳添谢幕战",
+      "onboard_time": 1763532081,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 97110,
@@ -1251,6 +1315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95020,
+      "num": 126025,
+      "word": "迪丽热巴比美貌先来的是演技",
+      "onboard_time": 1763534901,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94944,
       "num": 94944,
       "word": "毕业后唯一没还给老师的品质",
@@ -1289,14 +1361,6 @@
       "onboard_time": 1763496494,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92179,
-      "num": 216638,
-      "word": "苏炳添谢幕战",
-      "onboard_time": 1763532081,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 91718,
@@ -1803,6 +1867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27339,
+      "num": 182237,
+      "word": "日本对中国本就欠着血债",
+      "onboard_time": 1763534540,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26250,
       "num": 64843,
       "word": "枭起青壤预约量破400万",
@@ -1817,6 +1889,14 @@
       "onboard_time": 1763499433,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 21407,
+      "num": 182328,
+      "word": "诚邀台胞来一场说走就走的旅行",
+      "onboard_time": 1763534540,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 21249,
@@ -1891,8 +1971,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 8720,
-      "num": 420178,
+      "raw_hot": 10381,
+      "num": 487223,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,
       "rank": 2,
