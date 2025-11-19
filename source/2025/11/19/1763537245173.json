@@ -1,0 +1,410 @@
+{
+  "runTime": 1763537245173,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1114803,
+        "num": 1178368,
+        "word": "中方向日方通报暂停进口日本水产品",
+        "onboard_time": 1763531480,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 463450,
+        "num": 463450,
+        "word": "HLE宣布Viper离队",
+        "onboard_time": 1763534421,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10050,
+        "num": 393917,
+        "word": "封关不是封岛",
+        "onboard_time": 1763438844,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353351,
+        "num": 353351,
+        "word": "杨瀚森9分5篮板3助攻",
+        "onboard_time": 1763536101,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310405,
+        "num": 310405,
+        "word": "因评论爸爸当家与前女友复合",
+        "onboard_time": 1763530763,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279720,
+        "num": 279720,
+        "word": "朝鲜代表联大发言炮轰日本",
+        "onboard_time": 1763528422,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244916,
+        "num": 244916,
+        "word": "日本旅游 退票",
+        "onboard_time": 1763528123,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234821,
+        "num": 234821,
+        "word": "高市惹大祸日本人有苦头吃了",
+        "onboard_time": 1763524941,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 220475,
+        "num": 220475,
+        "word": "曝Tabe离开AL原因",
+        "onboard_time": 1763534841,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54063,
+        "num": 219152,
+        "word": "解放军警告日本",
+        "onboard_time": 1763536521,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 462860,
+        "num": 217106,
+        "word": "怪不得现在女装动不动就预售",
+        "onboard_time": 1763533640,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 364815,
+        "num": 214983,
+        "word": "韩雪直播卖12.9元棉拖引热议",
+        "onboard_time": 1763529802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274082,
+        "num": 212698,
+        "word": "Shanks 真没劲儿",
+        "onboard_time": 1763533521,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232842,
+        "num": 209426,
+        "word": "1吨鸭绒从17万涨到58万",
+        "onboard_time": 1763525783,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207824,
+        "num": 207824,
+        "word": "彭小苒凤凰台上没用原声的原因",
+        "onboard_time": 1763534962,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178258,
+        "num": 178258,
+        "word": "快手 登陆少年",
+        "onboard_time": 1763535320,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166785,
+        "num": 166785,
+        "word": "陈伟霆 我老家的人会取笑我的",
+        "onboard_time": 1763536461,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165470,
+        "num": 165470,
+        "word": "杨瀚森得分篮板助攻均创新高",
+        "onboard_time": 1763536700,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74869,
+        "num": 164638,
+        "word": "羽绒服 涨价狂潮",
+        "onboard_time": 1763536521,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53104,
+        "num": 164459,
+        "word": "中端机性能该不该妥协",
+        "onboard_time": 1763535801,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164457,
+        "num": 164457,
+        "word": "日本网友要求高市向中国道歉",
+        "onboard_time": 1763522541,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1183306,
+        "num": 164444,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1049637,
+        "num": 163843,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 961708,
+        "num": 163336,
+        "word": "丁泽仁称被唯一的姐要求结扎",
+        "onboard_time": 1763531901,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 723778,
+        "num": 162736,
+        "word": "许玮甯邱泽婚纱照",
+        "onboard_time": 1763535801,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617746,
+        "num": 162235,
+        "word": "安静公主肚子上全是刀口",
+        "onboard_time": 1763535382,
+        "rank": 25,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 529962,
+        "num": 162009,
+        "word": "范丞丞问陈伟霆当daddy什么感觉",
+        "onboard_time": 1763530221,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184072,
+        "num": 161400,
+        "word": "四喜又给国产剧上新梗了",
+        "onboard_time": 1763535922,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144028,
+        "num": 160960,
+        "word": "疯狂动物城2",
+        "onboard_time": 1763535980,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131913,
+        "num": 160664,
+        "word": "唐诡这位尸兄不敢看第二眼",
+        "onboard_time": 1763536101,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 341749,
+        "num": 160068,
+        "word": "陈冠希 法拉利老了也是拖拉机",
+        "onboard_time": 1763536041,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 299890,
+        "num": 159593,
+        "word": "丁泽仁再谈唯一的姐",
+        "onboard_time": 1763530523,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264410,
+        "num": 159488,
+        "word": "孙乐言回应我现在不是一个普通人了",
+        "onboard_time": 1763534601,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159104,
+        "num": 159104,
+        "word": "上午喝咖啡 抗炎",
+        "onboard_time": 1763523199,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 151853,
+        "num": 151853,
+        "word": "水产股多股涨停",
+        "onboard_time": 1763536281,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142899,
+        "num": 142899,
+        "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
+        "onboard_time": 1763529203,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19973,
+        "num": 140198,
+        "word": "灵隐寺预约通道下周一启用",
+        "onboard_time": 1763537001,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35492,
+        "num": 137834,
+        "word": "公厕标识抽象化",
+        "onboard_time": 1763536101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137716,
+        "num": 137716,
+        "word": "张博恒晒照总结全运会",
+        "onboard_time": 1763536222,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129234,
+        "num": 129234,
+        "word": "低于这个价格的羽绒服可能是假的",
+        "onboard_time": 1763536581,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126110,
+        "num": 126110,
+        "word": "我发现物业费比房贷可怕多了",
+        "onboard_time": 1763537181,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 118372,
+        "num": 118372,
+        "word": "白鹿张凌赫将出席尖叫之夜",
+        "onboard_time": 1763529741,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117506,
+        "num": 117506,
+        "word": "网传陈飞宇不打算接告白了",
+        "onboard_time": 1763536041,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116904,
+        "num": 116904,
+        "word": "日本对中国本就欠着血债",
+        "onboard_time": 1763534540,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115686,
+        "num": 115686,
+        "word": "这么好的冬季晴天我还得去上班",
+        "onboard_time": 1763537001,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 115078,
+        "num": 115078,
+        "word": "疑因发现姑姑偷玉米女子被姑父打死",
+        "onboard_time": 1763523861,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108416,
+        "num": 108416,
+        "word": "曾轶可助理回应私联",
+        "onboard_time": 1763535562,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104101,
+        "num": 104101,
+        "word": "日媒翻译脑袋被驴踢了是什么意思",
+        "onboard_time": 1763531001,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103769,
+        "num": 103769,
+        "word": "陈熠哭了",
+        "onboard_time": 1763529022,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102617,
+        "num": 102617,
+        "word": "孟子义复古油画里的摩登女郎",
+        "onboard_time": 1763537181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色社会主义法治道路越走越宽广#"
+    }
+  }
+}

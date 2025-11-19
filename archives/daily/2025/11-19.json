@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763535124228,
+  "endTime": 1763537245173,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -51,12 +51,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 961708,
+      "num": 181799,
+      "word": "丁泽仁称被唯一的姐要求结扎",
+      "onboard_time": 1763531901,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744525,
       "num": 1119124,
       "word": "叫停日中友好纪念活动",
       "onboard_time": 1763513302,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 723778,
+      "num": 162736,
+      "word": "许玮甯邱泽婚纱照",
+      "onboard_time": 1763535801,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 709251,
@@ -91,12 +107,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 623087,
-      "num": 181799,
-      "word": "丁泽仁称被唯一的姐要求结扎",
-      "onboard_time": 1763531901,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 617746,
+      "num": 162235,
+      "word": "安静公主肚子上全是刀口",
+      "onboard_time": 1763535382,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 609935,
@@ -219,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462860,
+      "num": 217106,
+      "word": "怪不得现在女装动不动就预售",
+      "onboard_time": 1763533640,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 438570,
       "num": 209414,
       "word": "灵隐寺取消门票",
@@ -331,6 +355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 353351,
+      "num": 353351,
+      "word": "杨瀚森9分5篮板3助攻",
+      "onboard_time": 1763536101,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 348797,
       "num": 242635,
       "word": "涉女婴手术死亡医生被曝过往纠纷",
@@ -345,6 +377,14 @@
       "onboard_time": 1763508078,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 341749,
+      "num": 160068,
+      "word": "陈冠希 法拉利老了也是拖拉机",
+      "onboard_time": 1763536041,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 341336,
@@ -443,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264410,
+      "num": 161476,
+      "word": "孙乐言回应我现在不是一个普通人了",
+      "onboard_time": 1763534601,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 252728,
       "num": 252728,
       "word": "中国琉球学学科项目获批启动",
@@ -499,6 +547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 220475,
+      "num": 220475,
+      "word": "曝Tabe离开AL原因",
+      "onboard_time": 1763534841,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 219193,
       "num": 219193,
       "word": "樊振东一个没站稳跪地上了",
@@ -537,6 +593,14 @@
       "onboard_time": 1763478624,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207824,
+      "num": 207824,
+      "word": "彭小苒凤凰台上没用原声的原因",
+      "onboard_time": 1763534962,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 207406,
@@ -643,20 +707,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 184072,
+      "num": 161400,
+      "word": "四喜又给国产剧上新梗了",
+      "onboard_time": 1763535922,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182149,
       "num": 136721,
       "word": "日媒翻译脑袋被驴踢了是什么意思",
       "onboard_time": 1763531001,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 181209,
-      "num": 181209,
-      "word": "怪不得现在女装动不动就预售",
-      "onboard_time": 1763533640,
-      "rank": 28,
-      "category": "情感"
     },
     {
       "raw_hot": 180736,
@@ -673,6 +737,14 @@
       "onboard_time": 1763531602,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178258,
+      "num": 178258,
+      "word": "快手 登陆少年",
+      "onboard_time": 1763535320,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 176096,
@@ -715,6 +787,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166785,
+      "num": 166785,
+      "word": "陈伟霆 我老家的人会取笑我的",
+      "onboard_time": 1763536461,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 165743,
       "num": 140740,
       "word": "近视手术五年后的真实感受",
@@ -731,6 +811,14 @@
       "category": "电影,数码"
     },
     {
+      "raw_hot": 165470,
+      "num": 165470,
+      "word": "杨瀚森得分篮板助攻均创新高",
+      "onboard_time": 1763536700,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163993,
       "num": 163993,
       "word": "涵艺爆料AL新教练",
@@ -745,14 +833,6 @@
       "onboard_time": 1763517202,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 161476,
-      "num": 161476,
-      "word": "孙乐言回应我现在不是一个普通人了",
-      "onboard_time": 1763534601,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 158536,
@@ -795,6 +875,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 151853,
+      "num": 151853,
+      "word": "水产股多股涨停",
+      "onboard_time": 1763536281,
+      "rank": 34,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150389,
       "num": 210541,
       "word": "爱泼斯坦案文件被批准强制公开",
@@ -809,6 +897,14 @@
       "onboard_time": 1763508738,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 144028,
+      "num": 160960,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763535980,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 142900,
@@ -907,6 +1003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137716,
+      "num": 137716,
+      "word": "张博恒晒照总结全运会",
+      "onboard_time": 1763536222,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 137105,
       "num": 205749,
       "word": "华为双旗舰首发搭载第二代红枫",
@@ -963,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131913,
+      "num": 160664,
+      "word": "唐诡这位尸兄不敢看第二眼",
+      "onboard_time": 1763536101,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131415,
       "num": 131415,
       "word": "JDG老板爆料BLG签下Viper",
@@ -987,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129234,
+      "num": 129234,
+      "word": "低于这个价格的羽绒服可能是假的",
+      "onboard_time": 1763536581,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128610,
       "num": 107796,
       "word": "女孩的棒棒糖阻止了一场持枪抢劫",
@@ -1003,14 +1123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127958,
-      "num": 127958,
-      "word": "曝Tabe离开AL原因",
-      "onboard_time": 1763534841,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 127757,
       "num": 127757,
       "word": "科学家在地下700米捉鬼",
@@ -1025,6 +1137,14 @@
       "onboard_time": 1763529441,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126110,
+      "num": 126110,
+      "word": "我发现物业费比房贷可怕多了",
+      "onboard_time": 1763537181,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 125223,
@@ -1091,6 +1211,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117506,
+      "num": 117506,
+      "word": "网传陈飞宇不打算接告白了",
+      "onboard_time": 1763536041,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 116904,
+      "num": 182237,
+      "word": "日本对中国本就欠着血债",
+      "onboard_time": 1763534540,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 116634,
       "num": 116634,
       "word": "霍建华在如懿传里每天被当面蛐蛐",
@@ -1113,6 +1249,14 @@
       "onboard_time": 1763447422,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115686,
+      "num": 115686,
+      "word": "这么好的冬季晴天我还得去上班",
+      "onboard_time": 1763537001,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 115511,
@@ -1179,6 +1323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108416,
+      "num": 108416,
+      "word": "曾轶可助理回应私联",
+      "onboard_time": 1763535562,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105867,
       "num": 105867,
       "word": "外交部回应德方称对台海局势担忧",
@@ -1227,20 +1379,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 102617,
+      "num": 102617,
+      "word": "孟子义复古油画里的摩登女郎",
+      "onboard_time": 1763537181,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102544,
       "num": 160403,
       "word": "马嘉祺卡点变装请continue",
       "onboard_time": 1763530581,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 102012,
-      "num": 102012,
-      "word": "彭小苒凤凰台上没用原声的原因",
-      "onboard_time": 1763534962,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 100490,
@@ -1523,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74869,
+      "num": 164638,
+      "word": "羽绒服 涨价狂潮",
+      "onboard_time": 1763536521,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73727,
       "num": 128350,
       "word": "中方对日反制组合拳精准到位",
@@ -1683,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54063,
+      "num": 219152,
+      "word": "解放军警告日本",
+      "onboard_time": 1763536521,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 53571,
       "num": 120097,
       "word": "女儿说不喜欢黄一鸣了",
@@ -1697,6 +1865,14 @@
       "onboard_time": 1763467944,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53104,
+      "num": 164459,
+      "word": "中端机性能该不该妥协",
+      "onboard_time": 1763535801,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 52090,
@@ -1835,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35492,
+      "num": 137834,
+      "word": "公厕标识抽象化",
+      "onboard_time": 1763536101,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33240,
       "num": 119448,
       "word": "广东国际模特大赛冠军引争议",
@@ -1864,14 +2048,6 @@
       "word": "记者提问爱泼斯坦案遭特朗普怒怼",
       "onboard_time": 1763518341,
       "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27339,
-      "num": 182237,
-      "word": "日本对中国本就欠着血债",
-      "onboard_time": 1763534540,
-      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -1929,6 +2105,14 @@
       "onboard_time": 1763491334,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 19973,
+      "num": 140198,
+      "word": "灵隐寺预约通道下周一启用",
+      "onboard_time": 1763537001,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19796,
