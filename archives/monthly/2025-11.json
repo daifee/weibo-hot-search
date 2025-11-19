@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763523263368,
+  "endTime": 1763526752775,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -211,6 +211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 2835521,
+      "num": 211319,
+      "word": "罗志祥立遗嘱",
+      "onboard_time": 1763524702,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2793987,
       "num": 560418,
       "word": "繁花剧组回应古二录音",
@@ -257,6 +265,14 @@
       "onboard_time": 1762472179,
       "rank": 30,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 2378457,
+      "num": 209981,
+      "word": "曝霍启山娜然恋情",
+      "onboard_time": 1763525724,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 2334332,
@@ -4115,6 +4131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 625428,
+      "num": 277715,
+      "word": "上午喝咖啡 抗炎",
+      "onboard_time": 1763523199,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 625250,
       "num": 215519,
       "word": "小米",
@@ -4524,7 +4548,7 @@
     },
     {
       "raw_hot": 594359,
-      "num": 174461,
+      "num": 207619,
       "word": "杨幂钟楚曦杂志撞衫",
       "onboard_time": 1763512881,
       "rank": 21,
@@ -4665,6 +4689,14 @@
       "onboard_time": 1762859361,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 587309,
+      "num": 414424,
+      "word": "何炅 五旬了还要周考吗",
+      "onboard_time": 1763522423,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 585848,
@@ -5761,6 +5793,14 @@
       "onboard_time": 1762519882,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515318,
+      "num": 1082451,
+      "word": "腾讯视频会员数不涨了",
+      "onboard_time": 1763519422,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 515010,
@@ -7035,6 +7075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 453255,
+      "num": 273658,
+      "word": "疑因发现姑姑偷玉米女子被姑父打死",
+      "onboard_time": 1763523861,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453007,
       "num": 1072481,
       "word": "中国愿意帮助印度",
@@ -7401,6 +7449,14 @@
       "onboard_time": 1761987980,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438570,
+      "num": 209414,
+      "word": "灵隐寺取消门票",
+      "onboard_time": 1763521881,
+      "rank": 24,
+      "category": "旅游"
     },
     {
       "raw_hot": 438417,
@@ -8579,6 +8635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 392218,
+      "num": 392218,
+      "word": "高市惹大祸日本人有苦头吃了",
+      "onboard_time": 1763524941,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 392110,
       "num": 205813,
       "word": "广州地铁跳转广告",
@@ -8712,6 +8776,14 @@
       "word": "向太炮轰王家卫烧钱式拍摄不道德",
       "onboard_time": 1762594759,
       "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 387437,
+      "num": 208197,
+      "word": "罗志祥自曝患微笑忧郁症",
+      "onboard_time": 1763525363,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -9395,14 +9467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 365299,
-      "num": 365299,
-      "word": "腾讯视频会员数不涨了",
-      "onboard_time": 1763519422,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 365282,
       "num": 365282,
       "word": "海魂衫 张晚意马思纯",
@@ -9737,6 +9801,14 @@
       "onboard_time": 1763002278,
       "rank": 4,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 356390,
+      "num": 356390,
+      "word": "日本网友要求高市向中国道歉",
+      "onboard_time": 1763522541,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 356096,
@@ -11011,14 +11083,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 320129,
-      "num": 175068,
-      "word": "灵隐寺取消门票",
-      "onboard_time": 1763521881,
-      "rank": 24,
-      "category": "旅游"
-    },
-    {
       "raw_hot": 320030,
       "num": 185787,
       "word": "曾轶可演唱会 迟到打碟一小时",
@@ -11209,6 +11273,14 @@
       "onboard_time": 1762908322,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 313869,
+      "num": 313869,
+      "word": "小米集团跌破40港元",
+      "onboard_time": 1763521341,
+      "rank": 16,
+      "category": "财经"
     },
     {
       "raw_hot": 313857,
@@ -11440,6 +11512,14 @@
       "word": "旺旺向金靖介绍自己男友",
       "onboard_time": 1762149861,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 308354,
+      "num": 266175,
+      "word": "宋威龙 虎鲸文娱",
+      "onboard_time": 1763524342,
+      "rank": 12,
       "category": "艺人"
     },
     {
@@ -11769,6 +11849,14 @@
       "onboard_time": 1762850061,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301616,
+      "num": 263992,
+      "word": "黄锐对TFBOYS十周年演唱会还没释怀",
+      "onboard_time": 1763524041,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 301599,
@@ -12345,6 +12433,14 @@
       "onboard_time": 1763029401,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 289491,
+      "num": 208662,
+      "word": "每天喝咖啡vs每天不喝咖啡",
+      "onboard_time": 1763525303,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 289433,
@@ -14067,6 +14163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 254762,
+      "num": 254762,
+      "word": "原来喜君那句萧郎被卢凌风记到现在",
+      "onboard_time": 1763525662,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254697,
       "num": 263638,
       "word": "Chovy世界赛成绩 8884844",
@@ -14881,14 +14985,6 @@
       "onboard_time": 1762739838,
       "rank": 22,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 238720,
-      "num": 238720,
-      "word": "何炅 五旬了还要周考吗",
-      "onboard_time": 1763522423,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 238677,
@@ -16171,6 +16267,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 218815,
+      "num": 200269,
+      "word": "他替13岁儿子还了20年的债",
+      "onboard_time": 1763525602,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 218707,
       "num": 218707,
       "word": "王楚钦一对一指导马龙",
@@ -16297,6 +16401,14 @@
       "onboard_time": 1763357662,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 216899,
+      "num": 216899,
+      "word": "向往的生活好多人啊",
+      "onboard_time": 1763525482,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 216679,
@@ -17099,14 +17211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 207909,
-      "num": 207909,
-      "word": "小米集团跌破40港元",
-      "onboard_time": 1763521341,
-      "rank": 16,
-      "category": "财经"
-    },
-    {
       "raw_hot": 207882,
       "num": 207882,
       "word": "广东队跳水女团冠军",
@@ -17145,6 +17249,14 @@
       "onboard_time": 1763479283,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 207404,
+      "num": 207404,
+      "word": "1吨鸭绒从17万涨到58万",
+      "onboard_time": 1763525783,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207397,
@@ -18107,6 +18219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 199638,
+      "num": 199638,
+      "word": "贾乃亮工作室回应女子买到疑似假货",
+      "onboard_time": 1763524580,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199492,
       "num": 199492,
       "word": "Gumayusi说我是世上最好的ADC",
@@ -18897,6 +19017,14 @@
       "onboard_time": 1762092262,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193875,
+      "num": 212003,
+      "word": "迪丽热巴新剧赶上两班倒了",
+      "onboard_time": 1763525062,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 193846,
@@ -21963,6 +22091,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 173848,
+      "num": 173848,
+      "word": "十几年前的女装真的很好看",
+      "onboard_time": 1763521341,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 173801,
       "num": 176859,
       "word": "文荣奖",
@@ -22345,14 +22481,6 @@
       "onboard_time": 1762295175,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171166,
-      "num": 163011,
-      "word": "十几年前的女装真的很好看",
-      "onboard_time": 1763521341,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 171130,
@@ -23097,6 +23225,14 @@
       "onboard_time": 1763300603,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 166186,
+      "num": 166186,
+      "word": "上海女团全运会铜牌",
+      "onboard_time": 1763526323,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 166148,
@@ -25187,6 +25323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155889,
+      "num": 155889,
+      "word": "十个勤天种地三周年",
+      "onboard_time": 1763526262,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 155859,
       "num": 155859,
       "word": "穆祉丞直播",
@@ -25369,6 +25513,14 @@
       "onboard_time": 1762151422,
       "rank": 23,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 155165,
+      "num": 200297,
+      "word": "金鸡最佳导演戴墨用Mate80拍电影",
+      "onboard_time": 1763523263,
+      "rank": 30,
+      "category": "电影,数码"
     },
     {
       "raw_hot": 155078,
@@ -28067,6 +28219,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 141963,
+      "num": 156541,
+      "word": "富二代为反杀灭门仇人潜伏多年",
+      "onboard_time": 1763525842,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141892,
       "num": 141892,
       "word": "孟子义拍完尚公主将无缝进组",
@@ -28907,6 +29067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 138616,
+      "num": 138616,
+      "word": "祁煜甜野极驰",
+      "onboard_time": 1763524941,
+      "rank": 42,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 138615,
       "num": 138615,
       "word": "曝369和Flandre疑将互换东家",
@@ -28929,6 +29097,14 @@
       "onboard_time": 1761996440,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 138555,
+      "num": 175875,
+      "word": "卢凌风又怎么了我的大小姐",
+      "onboard_time": 1763522600,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 138514,
@@ -31051,6 +31227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130970,
+      "num": 130970,
+      "word": "C罗参加白宫晚宴",
+      "onboard_time": 1763524041,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130945,
       "num": 180752,
       "word": "高市早苗被曝怂恿特朗普插手台海",
@@ -32107,14 +32291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 127268,
-      "num": 175875,
-      "word": "卢凌风又怎么了我的大小姐",
-      "onboard_time": 1763522600,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127240,
       "num": 150898,
       "word": "弦子连夜为李茂患心梗父亲安排就医",
@@ -32745,6 +32921,14 @@
       "onboard_time": 1763447962,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125201,
+      "num": 125201,
+      "word": "考研人穿搭",
+      "onboard_time": 1763526563,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 125183,
@@ -33569,6 +33753,14 @@
       "onboard_time": 1763249779,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123045,
+      "num": 171371,
+      "word": "陈伟霆老钱风吹到了现在就出发",
+      "onboard_time": 1763522841,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 123031,
@@ -36323,6 +36515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 115500,
+      "num": 115500,
+      "word": "鬼灭之刃退票率大涨",
+      "onboard_time": 1763526683,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 115485,
       "num": 115485,
       "word": "王力宏支持所有人亲嘴自由",
@@ -37355,14 +37555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 112569,
-      "num": 171371,
-      "word": "陈伟霆老钱风吹到了现在就出发",
-      "onboard_time": 1763522841,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112540,
       "num": 184856,
       "word": "入青云今日收官",
@@ -37737,14 +37929,6 @@
       "onboard_time": 1762669160,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 111681,
-      "num": 111681,
-      "word": "上午喝咖啡 抗炎",
-      "onboard_time": 1763523199,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 111677,
@@ -52059,6 +52243,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 80239,
+      "num": 284699,
+      "word": "已收到举报台独打手帮凶邮件上万封",
+      "onboard_time": 1763526143,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80208,
       "num": 80208,
       "word": "女子引产遭拒诞下女婴已回归原生家庭",
@@ -55563,6 +55755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69133,
+      "num": 155908,
+      "word": "儿科医生降薪后兼职送外卖",
+      "onboard_time": 1763526382,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 69130,
       "num": 128168,
       "word": "周深是怎么忍住不笑的",
@@ -55841,6 +56041,14 @@
       "onboard_time": 1762769119,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67867,
+      "num": 210541,
+      "word": "爱泼斯坦案文件被批准强制公开",
+      "onboard_time": 1763525423,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67780,
@@ -56473,6 +56681,14 @@
       "onboard_time": 1762178604,
       "rank": 29,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 64983,
+      "num": 206280,
+      "word": "詹姆斯NBA征战赛季最多的球员",
+      "onboard_time": 1763526623,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 64965,
@@ -59907,14 +60123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47781,
-      "num": 302710,
-      "word": "日本网友要求高市向中国道歉",
-      "onboard_time": 1763522541,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47746,
       "num": 202290,
       "word": "商务部回应安世半导体问题",
@@ -61585,6 +61793,14 @@
       "onboard_time": 1763023400,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39481,
+      "num": 258840,
+      "word": "苏炳添当年有多强",
+      "onboard_time": 1763524883,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 39429,
@@ -65435,6 +65651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19796,
+      "num": 155930,
+      "word": "蓬佩奥受聘乌军火商",
+      "onboard_time": 1763526143,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 19789,
       "num": 98466,
       "word": "美国的人情世故",
@@ -66921,6 +67145,14 @@
       "onboard_time": 1762761259,
       "rank": 35,
       "category": "民生新闻,体育"
+    },
+    {
+      "raw_hot": 1587,
+      "num": 420178,
+      "word": "封关不是封岛",
+      "onboard_time": 1763438844,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [

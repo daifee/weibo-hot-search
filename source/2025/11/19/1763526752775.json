@@ -1,0 +1,410 @@
+{
+  "runTime": 1763526752775,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 515318,
+        "num": 1082451,
+        "word": "腾讯视频会员数不涨了",
+        "onboard_time": 1763519422,
+        "rank": 0,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 501250,
+        "num": 501250,
+        "word": "首次赴陆台胞可免费畅游逾3000景区",
+        "onboard_time": 1763520081,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1587,
+        "num": 420178,
+        "word": "封关不是封岛",
+        "onboard_time": 1763438844,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 587309,
+        "num": 414424,
+        "word": "何炅 五旬了还要周考吗",
+        "onboard_time": 1763522423,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 392218,
+        "num": 392218,
+        "word": "高市惹大祸日本人有苦头吃了",
+        "onboard_time": 1763524941,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 356390,
+        "num": 356390,
+        "word": "日本网友要求高市向中国道歉",
+        "onboard_time": 1763522541,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 324112,
+        "num": 324112,
+        "word": "叫停日中友好纪念活动",
+        "onboard_time": 1763513302,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313869,
+        "num": 313869,
+        "word": "小米集团跌破40港元",
+        "onboard_time": 1763521341,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 288154,
+        "num": 288154,
+        "word": "唐诡3片尾特别鸣谢粉丝",
+        "onboard_time": 1763521101,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80239,
+        "num": 284699,
+        "word": "已收到举报台独打手帮凶邮件上万封",
+        "onboard_time": 1763526143,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 625428,
+        "num": 277715,
+        "word": "上午喝咖啡 抗炎",
+        "onboard_time": 1763523199,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 453255,
+        "num": 273658,
+        "word": "疑因发现姑姑偷玉米女子被姑父打死",
+        "onboard_time": 1763523861,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308354,
+        "num": 266175,
+        "word": "宋威龙 虎鲸文娱",
+        "onboard_time": 1763524342,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 301616,
+        "num": 263992,
+        "word": "黄锐对TFBOYS十周年演唱会还没释怀",
+        "onboard_time": 1763524041,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39481,
+        "num": 258840,
+        "word": "苏炳添当年有多强",
+        "onboard_time": 1763524883,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 254762,
+        "num": 254762,
+        "word": "原来喜君那句萧郎被卢凌风记到现在",
+        "onboard_time": 1763525662,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226533,
+        "num": 226533,
+        "word": "在小狗最生气的时候亲一口",
+        "onboard_time": 1763518821,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 216899,
+        "num": 216899,
+        "word": "向往的生活好多人啊",
+        "onboard_time": 1763525482,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212104,
+        "num": 212104,
+        "word": "郭某严重学术不端高校已报案",
+        "onboard_time": 1763510781,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193875,
+        "num": 212003,
+        "word": "迪丽热巴新剧赶上两班倒了",
+        "onboard_time": 1763525062,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2835521,
+        "num": 211319,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67867,
+        "num": 210541,
+        "word": "爱泼斯坦案文件被批准强制公开",
+        "onboard_time": 1763525423,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 2378457,
+        "num": 209981,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438570,
+        "num": 209414,
+        "word": "灵隐寺取消门票",
+        "onboard_time": 1763521881,
+        "rank": 23,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 289491,
+        "num": 208662,
+        "word": "每天喝咖啡vs每天不喝咖啡",
+        "onboard_time": 1763525303,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 387437,
+        "num": 208197,
+        "word": "罗志祥自曝患微笑忧郁症",
+        "onboard_time": 1763525363,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253967,
+        "num": 207619,
+        "word": "杨幂钟楚曦杂志撞衫",
+        "onboard_time": 1763512881,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 207404,
+        "num": 207404,
+        "word": "1吨鸭绒从17万涨到58万",
+        "onboard_time": 1763525783,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64983,
+        "num": 206280,
+        "word": "詹姆斯NBA征战赛季最多的球员",
+        "onboard_time": 1763526623,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205506,
+        "num": 205506,
+        "word": "爱奇艺由盈转亏",
+        "onboard_time": 1763516722,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155165,
+        "num": 200297,
+        "word": "金鸡最佳导演戴墨用Mate80拍电影",
+        "onboard_time": 1763523263,
+        "rank": 30,
+        "category": "电影,数码"
+      },
+      {
+        "raw_hot": 218815,
+        "num": 200269,
+        "word": "他替13岁儿子还了20年的债",
+        "onboard_time": 1763525602,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199638,
+        "num": 199638,
+        "word": "贾乃亮工作室回应女子买到疑似假货",
+        "onboard_time": 1763524580,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173848,
+        "num": 173848,
+        "word": "十几年前的女装真的很好看",
+        "onboard_time": 1763521341,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138555,
+        "num": 168052,
+        "word": "卢凌风又怎么了我的大小姐",
+        "onboard_time": 1763522600,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166186,
+        "num": 166186,
+        "word": "上海女团全运会铜牌",
+        "onboard_time": 1763526323,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159485,
+        "num": 159485,
+        "word": "恋与深空",
+        "onboard_time": 1763521822,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 141963,
+        "num": 156541,
+        "word": "富二代为反杀灭门仇人潜伏多年",
+        "onboard_time": 1763525842,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19796,
+        "num": 155930,
+        "word": "蓬佩奥受聘乌军火商",
+        "onboard_time": 1763526143,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 69133,
+        "num": 155908,
+        "word": "儿科医生降薪后兼职送外卖",
+        "onboard_time": 1763526382,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155889,
+        "num": 155889,
+        "word": "十个勤天种地三周年",
+        "onboard_time": 1763526262,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153427,
+        "num": 153427,
+        "word": "荒野求生选手饿了41天终于喝上鸡汤",
+        "onboard_time": 1763517621,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138616,
+        "num": 138616,
+        "word": "祁煜甜野极驰",
+        "onboard_time": 1763524941,
+        "rank": 42,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 131364,
+        "num": 131364,
+        "word": "14名荒野求生选手5天休整期住别墅",
+        "onboard_time": 1763516061,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130970,
+        "num": 130970,
+        "word": "C罗参加白宫晚宴",
+        "onboard_time": 1763524041,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125201,
+        "num": 125201,
+        "word": "考研人穿搭",
+        "onboard_time": 1763526563,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123045,
+        "num": 123045,
+        "word": "陈伟霆老钱风吹到了现在就出发",
+        "onboard_time": 1763522841,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118827,
+        "num": 118827,
+        "word": "中国飞往日本机票罕见退订潮",
+        "onboard_time": 1763512641,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118146,
+        "num": 118146,
+        "word": "日本自卫队战备全面提速",
+        "onboard_time": 1763519601,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115500,
+        "num": 115500,
+        "word": "鬼灭之刃退票率大涨",
+        "onboard_time": 1763526683,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
