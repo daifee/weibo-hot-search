@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763530079799,
+  "endTime": 1763531019267,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -1155,6 +1155,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 540387,
+      "num": 236779,
+      "word": "韩雪直播卖12.9元棉拖引热议",
+      "onboard_time": 1763529802,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539727,
       "num": 1086356,
       "word": "腾讯视频会员数不涨了",
@@ -1409,6 +1417,14 @@
       "onboard_time": 1763356942,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 479676,
+      "num": 479676,
+      "word": "朝鲜代表联大发言炮轰日本",
+      "onboard_time": 1763528422,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 478137,
@@ -1739,6 +1755,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 416539,
+      "num": 239897,
+      "word": "1吨鸭绒从17万涨到58万",
+      "onboard_time": 1763525783,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 416467,
       "num": 416467,
       "word": "张继科谈全运会男单女单卫冕",
@@ -1939,6 +1963,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 388049,
+      "num": 206704,
+      "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
+      "onboard_time": 1763529203,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 387278,
       "num": 222282,
       "word": "台湾网红街头大肆叫嚣上战场",
@@ -1969,14 +2001,6 @@
       "onboard_time": 1763304564,
       "rank": 3,
       "category": "演出"
-    },
-    {
-      "raw_hot": 383438,
-      "num": 239897,
-      "word": "1吨鸭绒从17万涨到58万",
-      "onboard_time": 1763525783,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 382962,
@@ -2323,14 +2347,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 343295,
-      "num": 343295,
-      "word": "朝鲜代表联大发言炮轰日本",
-      "onboard_time": 1763528422,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 342176,
       "num": 224617,
       "word": "Viper去哪儿",
@@ -2419,20 +2435,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 331850,
-      "num": 206704,
-      "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
-      "onboard_time": 1763529203,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 331354,
       "num": 331354,
       "word": "迪丽热巴给刘宇宁送花篮",
       "onboard_time": 1763295801,
       "rank": 27,
       "category": "演出"
+    },
+    {
+      "raw_hot": 329584,
+      "num": 206526,
+      "word": "刘品言生女",
+      "onboard_time": 1763529262,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 329024,
@@ -2536,6 +2552,14 @@
       "word": "男子彩票中奖群里分享被邻居冒领",
       "onboard_time": 1763283382,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 312726,
+      "num": 224111,
+      "word": "日本旅游 退票",
+      "onboard_time": 1763528123,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2657,6 +2681,14 @@
       "onboard_time": 1763470464,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300261,
+      "num": 222735,
+      "word": "陈熠哭了",
+      "onboard_time": 1763529022,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 300116,
@@ -3363,22 +3395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 237281,
-      "num": 206526,
-      "word": "刘品言生女",
-      "onboard_time": 1763529262,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 236779,
-      "num": 236779,
-      "word": "韩雪直播卖12.9元棉拖引热议",
-      "onboard_time": 1763529802,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 236454,
       "num": 236454,
       "word": "专家称给日本100个胆都不敢进攻中国",
@@ -3579,6 +3595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 223288,
+      "num": 188484,
+      "word": "丁泽仁再谈唯一的姐",
+      "onboard_time": 1763530523,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223060,
       "num": 199761,
       "word": "高中时期的Angelababy",
@@ -3625,6 +3649,14 @@
       "onboard_time": 1763460742,
       "rank": 26,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 219875,
+      "num": 219875,
+      "word": "范丞丞问陈伟霆当daddy什么感觉",
+      "onboard_time": 1763530221,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 219193,
@@ -3747,14 +3779,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209452,
-      "num": 209452,
-      "word": "日本旅游 退票",
-      "onboard_time": 1763528123,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 209179,
       "num": 209179,
       "word": "陈妤颉女子100米金牌",
@@ -3809,14 +3833,6 @@
       "onboard_time": 1763302163,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207469,
-      "num": 207469,
-      "word": "陈熠哭了",
-      "onboard_time": 1763529022,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 207406,
@@ -4235,6 +4251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192977,
+      "num": 206219,
+      "word": "白鹿张凌赫将出席尖叫之夜",
+      "onboard_time": 1763529741,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192963,
       "num": 192963,
       "word": "想象的移动办公vs实际的移动办公",
@@ -4249,6 +4273,14 @@
       "onboard_time": 1763443762,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192523,
+      "num": 236942,
+      "word": "杨瀚森高效得到4分",
+      "onboard_time": 1763529862,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 192414,
@@ -5179,6 +5211,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 170625,
+      "num": 170625,
+      "word": "汪苏泷杭州站点歌大转盘",
+      "onboard_time": 1763530822,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169935,
       "num": 316420,
       "word": "王一博攀岩倒挂金钩",
@@ -5385,14 +5425,6 @@
       "onboard_time": 1763436682,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 164288,
-      "num": 206219,
-      "word": "白鹿张凌赫将出席尖叫之夜",
-      "onboard_time": 1763529741,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 163561,
@@ -5931,6 +5963,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153115,
+      "num": 153115,
+      "word": "法国夫妇害怕房子被强占不敢出远门",
+      "onboard_time": 1763526802,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153064,
       "num": 294856,
       "word": "阿里巴巴回应千问崩了",
@@ -6251,14 +6291,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 146712,
-      "num": 146712,
-      "word": "法国夫妇害怕房子被强占不敢出远门",
-      "onboard_time": 1763526802,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 146443,
       "num": 146443,
       "word": "Faker看自己S7决赛痛哭",
@@ -6443,6 +6475,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141592,
+      "num": 170598,
+      "word": "何炅 看似慌慌张张实则游刃有余",
+      "onboard_time": 1763529862,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141483,
       "num": 249455,
       "word": "冰岛未来可能真要变冰岛",
@@ -6537,6 +6577,14 @@
       "onboard_time": 1763299823,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139909,
+      "num": 127757,
+      "word": "台媒曝杨宗纬家人随地便溺",
+      "onboard_time": 1763530882,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 139681,
@@ -6883,6 +6931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133192,
+      "num": 133192,
+      "word": "张萌说演戏最高级的是演生理反应",
+      "onboard_time": 1763530342,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133040,
       "num": 133040,
       "word": "陈伟霆唱跳",
@@ -7083,14 +7139,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129590,
-      "num": 129590,
-      "word": "何炅 看似慌慌张张实则游刃有余",
-      "onboard_time": 1763529862,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 129505,
       "num": 129505,
       "word": "十五运乒乓男团第二阶段签表",
@@ -7177,6 +7225,22 @@
       "onboard_time": 1763430380,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 127757,
+      "num": 127757,
+      "word": "科学家在地下700米捉鬼",
+      "onboard_time": 1763530581,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 127755,
+      "num": 127755,
+      "word": "因评论爸爸当家与前女友复合",
+      "onboard_time": 1763530763,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 127685,
@@ -7327,14 +7391,6 @@
       "num": 147556,
       "word": "张博恒是发烧了",
       "onboard_time": 1763357602,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 124990,
-      "num": 151522,
-      "word": "杨瀚森高效得到4分",
-      "onboard_time": 1763529862,
       "rank": 39,
       "category": "体育"
     },
@@ -9003,6 +9059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102544,
+      "num": 160403,
+      "word": "马嘉祺卡点变装请continue",
+      "onboard_time": 1763530581,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 102187,
       "num": 163037,
       "word": "凤凰台上好虐",
@@ -10139,6 +10203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77753,
+      "num": 126438,
+      "word": "陈梦展望女团决赛",
+      "onboard_time": 1763530942,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 77662,
       "num": 139796,
       "word": "陈梦戴着喜欢的项链征战赛场",
@@ -10785,6 +10857,14 @@
       "onboard_time": 1763428580,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55463,
+      "num": 241182,
+      "word": "别在台湾问题上玩火",
+      "onboard_time": 1763529623,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55209,
@@ -12235,14 +12315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23221,
-      "num": 241182,
-      "word": "别在台湾问题上玩火",
-      "onboard_time": 1763529623,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 22865,
       "num": 189864,
       "word": "起底快通门票套餐陷阱",
@@ -12635,7 +12707,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7511,
+      "raw_hot": 8016,
       "num": 420178,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,

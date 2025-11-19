@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763530079799,
+  "endTime": 1763531019267,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 540387,
+      "num": 236779,
+      "word": "韩雪直播卖12.9元棉拖引热议",
+      "onboard_time": 1763529802,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 539727,
       "num": 1086356,
       "word": "腾讯视频会员数不涨了",
@@ -155,6 +163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 479676,
+      "num": 479676,
+      "word": "朝鲜代表联大发言炮轰日本",
+      "onboard_time": 1763528422,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 438570,
       "num": 209414,
       "word": "灵隐寺取消门票",
@@ -187,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 416539,
+      "num": 239897,
+      "word": "1吨鸭绒从17万涨到58万",
+      "onboard_time": 1763525783,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 409890,
       "num": 299993,
       "word": "在小狗最生气的时候亲一口",
@@ -211,11 +235,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 383438,
-      "num": 239897,
-      "word": "1吨鸭绒从17万涨到58万",
-      "onboard_time": 1763525783,
-      "rank": 27,
+      "raw_hot": 388049,
+      "num": 206704,
+      "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
+      "onboard_time": 1763529203,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -275,14 +299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 343295,
-      "num": 343295,
-      "word": "朝鲜代表联大发言炮轰日本",
-      "onboard_time": 1763528422,
-      "rank": 3,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 339781,
       "num": 263992,
       "word": "黄锐对TFBOYS十周年演唱会还没释怀",
@@ -291,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 331850,
-      "num": 206704,
-      "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
-      "onboard_time": 1763529203,
-      "rank": 23,
-      "category": "民生新闻"
+      "raw_hot": 329584,
+      "num": 206526,
+      "word": "刘品言生女",
+      "onboard_time": 1763529262,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 314392,
@@ -315,12 +331,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 312726,
+      "num": 224111,
+      "word": "日本旅游 退票",
+      "onboard_time": 1763528123,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 308354,
       "num": 266175,
       "word": "宋威龙 虎鲸文娱",
       "onboard_time": 1763524342,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 300261,
+      "num": 222735,
+      "word": "陈熠哭了",
+      "onboard_time": 1763529022,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 299927,
@@ -395,20 +427,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 237281,
-      "num": 206526,
-      "word": "刘品言生女",
-      "onboard_time": 1763529262,
+      "raw_hot": 223288,
+      "num": 188484,
+      "word": "丁泽仁再谈唯一的姐",
+      "onboard_time": 1763530523,
       "rank": 24,
       "category": "艺人"
     },
     {
-      "raw_hot": 236779,
-      "num": 236779,
-      "word": "韩雪直播卖12.9元棉拖引热议",
-      "onboard_time": 1763529802,
-      "rank": 15,
-      "category": "艺人"
+      "raw_hot": 219875,
+      "num": 219875,
+      "word": "范丞丞问陈伟霆当daddy什么感觉",
+      "onboard_time": 1763530221,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 219193,
@@ -443,28 +475,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 209452,
-      "num": 209452,
-      "word": "日本旅游 退票",
-      "onboard_time": 1763528123,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 208468,
       "num": 140270,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1763478624,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 207469,
-      "num": 207469,
-      "word": "陈熠哭了",
-      "onboard_time": 1763529022,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 207406,
@@ -515,12 +531,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 192977,
+      "num": 206219,
+      "word": "白鹿张凌赫将出席尖叫之夜",
+      "onboard_time": 1763529741,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192963,
       "num": 192963,
       "word": "想象的移动办公vs实际的移动办公",
       "onboard_time": 1763526924,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192523,
+      "num": 236942,
+      "word": "杨瀚森高效得到4分",
+      "onboard_time": 1763529862,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 190068,
@@ -587,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170625,
+      "num": 170625,
+      "word": "汪苏泷杭州站点歌大转盘",
+      "onboard_time": 1763530822,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 168200,
       "num": 206430,
       "word": "中国军网在海外发布备战视频",
@@ -617,14 +657,6 @@
       "onboard_time": 1763523263,
       "rank": 30,
       "category": "电影,数码"
-    },
-    {
-      "raw_hot": 164288,
-      "num": 206219,
-      "word": "白鹿张凌赫将出席尖叫之夜",
-      "onboard_time": 1763529741,
-      "rank": 26,
-      "category": "综艺"
     },
     {
       "raw_hot": 162996,
@@ -659,6 +691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153115,
+      "num": 153115,
+      "word": "法国夫妇害怕房子被强占不敢出远门",
+      "onboard_time": 1763526802,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 152171,
       "num": 152171,
       "word": "扒一扒高市早苗黑历史",
@@ -681,14 +721,6 @@
       "onboard_time": 1763508738,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 146712,
-      "num": 146712,
-      "word": "法国夫妇害怕房子被强占不敢出远门",
-      "onboard_time": 1763526802,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 142288,
@@ -715,12 +747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141592,
+      "num": 170598,
+      "word": "何炅 看似慌慌张张实则游刃有余",
+      "onboard_time": 1763529862,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140382,
       "num": 140382,
       "word": "日本自卫队战备全面提速",
       "onboard_time": 1763519601,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 139909,
+      "num": 127757,
+      "word": "台媒曝杨宗纬家人随地便溺",
+      "onboard_time": 1763530882,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 139552,
@@ -795,6 +843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133192,
+      "num": 133192,
+      "word": "张萌说演戏最高级的是演生理反应",
+      "onboard_time": 1763530342,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132159,
       "num": 132159,
       "word": "95后男生写网文还清百万外债",
@@ -827,14 +883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 129590,
-      "num": 129590,
-      "word": "何炅 看似慌慌张张实则游刃有余",
-      "onboard_time": 1763529862,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 128610,
       "num": 107796,
       "word": "女孩的棒棒糖阻止了一场持枪抢劫",
@@ -851,6 +899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 127757,
+      "num": 127757,
+      "word": "科学家在地下700米捉鬼",
+      "onboard_time": 1763530581,
+      "rank": 44,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 127755,
+      "num": 127755,
+      "word": "因评论爸爸当家与前女友复合",
+      "onboard_time": 1763530763,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126911,
       "num": 126911,
       "word": "怎么判断对方本身就是很好的人",
@@ -865,14 +929,6 @@
       "onboard_time": 1763527163,
       "rank": 44,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124990,
-      "num": 151522,
-      "word": "杨瀚森高效得到4分",
-      "onboard_time": 1763529862,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 124497,
@@ -1033,6 +1089,14 @@
       "onboard_time": 1763522962,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 102544,
+      "num": 160403,
+      "word": "马嘉祺卡点变装请continue",
+      "onboard_time": 1763530581,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 97110,
@@ -1251,6 +1315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 77753,
+      "num": 126438,
+      "word": "陈梦展望女团决赛",
+      "onboard_time": 1763530942,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 76290,
       "num": 135213,
       "word": "霍建华演完如懿传终于疯了",
@@ -1393,6 +1465,14 @@
       "onboard_time": 1763472743,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55463,
+      "num": 241182,
+      "word": "别在台湾问题上玩火",
+      "onboard_time": 1763529623,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54843,
@@ -1603,14 +1683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23221,
-      "num": 241182,
-      "word": "别在台湾问题上玩火",
-      "onboard_time": 1763529623,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 21679,
       "num": 36073,
       "word": "韩国召见日本公使严正抗议",
@@ -1683,7 +1755,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 7511,
+      "raw_hot": 8016,
       "num": 420178,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,
