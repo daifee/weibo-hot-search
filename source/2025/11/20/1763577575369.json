@@ -1,0 +1,410 @@
+{
+  "runTime": 1763577575369,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 113510,
+        "num": 132067,
+        "word": "日本多次不宣而战",
+        "onboard_time": 1763559983,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 63855,
+        "num": 63855,
+        "word": "陈梦王晓彤范思琦冠军",
+        "onboard_time": 1763559384,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10294,
+        "num": 58029,
+        "word": "第十五届全运会",
+        "onboard_time": 1763545582,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 65306,
+        "num": 56635,
+        "word": "玄彬青龙影帝孙艺珍青龙影后",
+        "onboard_time": 1763571677,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52513,
+        "num": 52513,
+        "word": "看易烊千玺李庚希亲密戏需要心理委员",
+        "onboard_time": 1763559384,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50630,
+        "num": 50630,
+        "word": "俄罗斯警告高市早苗",
+        "onboard_time": 1763549003,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50580,
+        "num": 50580,
+        "word": "网红橙子姐姐曾邀女网友去柬埔寨",
+        "onboard_time": 1763572757,
+        "rank": 6,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 48781,
+        "num": 48781,
+        "word": "台当局竟要求民众绝不向大陆投降",
+        "onboard_time": 1763560103,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45631,
+        "num": 45631,
+        "word": "羽绒服出厂价已逼近千元",
+        "onboard_time": 1763568920,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41280,
+        "num": 41280,
+        "word": "曝TheShy新赛季休息",
+        "onboard_time": 1763567360,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 61768,
+        "num": 41189,
+        "word": "李诞劝大家不要算命",
+        "onboard_time": 1763558905,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56348,
+        "num": 41100,
+        "word": "喻恩泰称因为孩子忍辱多年",
+        "onboard_time": 1763570780,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53732,
+        "num": 41052,
+        "word": "丁泽仁评论区 0人在意丁泽仁",
+        "onboard_time": 1763555302,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52238,
+        "num": 40875,
+        "word": "吴艳妮看了眼银牌哭了",
+        "onboard_time": 1763565622,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 48751,
+        "num": 40822,
+        "word": "陈梦哭了",
+        "onboard_time": 1763559924,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43177,
+        "num": 40730,
+        "word": "杨芸晴工作室只剩下一个人",
+        "onboard_time": 1763561725,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40639,
+        "num": 40639,
+        "word": "网红橙子姐姐被封号",
+        "onboard_time": 1763561784,
+        "rank": 16,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 37017,
+        "num": 37017,
+        "word": "iG转会",
+        "onboard_time": 1763559805,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 36069,
+        "num": 36069,
+        "word": "被骗缅北儿子对母亲说就当没生过我",
+        "onboard_time": 1763566162,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34563,
+        "num": 35738,
+        "word": "疯狂动物城2中文配音阵容引争议",
+        "onboard_time": 1763565323,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96951,
+        "num": 35732,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763545222,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46760,
+        "num": 35694,
+        "word": "演戏自己不配音 却给动画配音",
+        "onboard_time": 1763553922,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35617,
+        "num": 35617,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33469,
+        "num": 35559,
+        "word": "孙颖莎说人生总要有遗憾",
+        "onboard_time": 1763565323,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32766,
+        "num": 35526,
+        "word": "演员配音 算票房",
+        "onboard_time": 1763561484,
+        "rank": 24,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 31558,
+        "num": 35460,
+        "word": "高市早苗到底水有多深",
+        "onboard_time": 1763574855,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31361,
+        "num": 35381,
+        "word": "感觉乔欣的面相变了",
+        "onboard_time": 1763560043,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31085,
+        "num": 35314,
+        "word": "陈梦3比0胜王添艺",
+        "onboard_time": 1763554102,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28780,
+        "num": 35214,
+        "word": "何炅以后探店的话我是一家不去",
+        "onboard_time": 1763551222,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23733,
+        "num": 35142,
+        "word": "互相包场 互相点评 互相颁奖",
+        "onboard_time": 1763553802,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35104,
+        "num": 35104,
+        "word": "方头明爆改可爱女人",
+        "onboard_time": 1763574436,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 31836,
+        "num": 35102,
+        "word": "员工偷150支钢笔被判7年",
+        "onboard_time": 1763573057,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26937,
+        "num": 35087,
+        "word": "女主播偷亲蓝战非",
+        "onboard_time": 1763570358,
+        "rank": 32,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 26618,
+        "num": 35075,
+        "word": "中方将不得不采取严厉坚决的反制措施",
+        "onboard_time": 1763562623,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 26103,
+        "num": 35069,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25947,
+        "num": 35053,
+        "word": "孙颖莎3比0王晓彤",
+        "onboard_time": 1763556021,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24960,
+        "num": 35044,
+        "word": "张一山没有不红 是红的太早了",
+        "onboard_time": 1763560643,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24443,
+        "num": 35043,
+        "word": "日本电影在华红利或将终结",
+        "onboard_time": 1763569999,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24221,
+        "num": 35031,
+        "word": "陈梦说想赢不怕输",
+        "onboard_time": 1763569099,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23790,
+        "num": 35015,
+        "word": "喻恩泰史林子婚变罗生门",
+        "onboard_time": 1763576594,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23656,
+        "num": 35012,
+        "word": "孙颖莎3比1胜范思琦",
+        "onboard_time": 1763552722,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23633,
+        "num": 34996,
+        "word": "母亲回应炫耀孩子招杀身之祸言论",
+        "onboard_time": 1763575156,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23471,
+        "num": 34983,
+        "word": "高市证实与新纳粹组织党首合影",
+        "onboard_time": 1763574017,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22284,
+        "num": 34981,
+        "word": "陈梦或最后一次参加全运会",
+        "onboard_time": 1763572217,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21220,
+        "num": 34970,
+        "word": "孙颖莎何卓佳王添艺亚军",
+        "onboard_time": 1763560643,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21119,
+        "num": 34955,
+        "word": "高市早苗对美国亦步亦趋",
+        "onboard_time": 1763574375,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21029,
+        "num": 34951,
+        "word": "吴艳妮银牌",
+        "onboard_time": 1763558662,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20064,
+        "num": 34937,
+        "word": "他要是不做张凌赫 早就是别人老公了",
+        "onboard_time": 1763563644,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19876,
+        "num": 34931,
+        "word": "孙颖莎回应河北队摘银",
+        "onboard_time": 1763566762,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15756,
+        "num": 34922,
+        "word": "疯狂动物城2配音",
+        "onboard_time": 1763565921,
+        "rank": 49,
+        "category": "电影,动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色社会主义法治道路越走越宽广#"
+    }
+  }
+}

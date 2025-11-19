@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763573966460,
+  "endTime": 1763577575369,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -13043,6 +13043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50580,
+      "num": 73435,
+      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
+      "onboard_time": 1763572757,
+      "rank": 34,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 50396,
       "num": 50396,
       "word": "中方回应日本外务省高官访华",
@@ -13369,14 +13377,6 @@
       "onboard_time": 1763547622,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 42682,
-      "num": 73435,
-      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
-      "onboard_time": 1763572757,
-      "rank": 34,
-      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 42169,
@@ -13803,6 +13803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 35104,
+      "num": 35104,
+      "word": "方头明爆改可爱女人",
+      "onboard_time": 1763574436,
+      "rank": 30,
+      "category": "网红"
+    },
+    {
       "raw_hot": 34657,
       "num": 73973,
       "word": "日本政客推卸涉台言论责任",
@@ -14033,6 +14041,14 @@
       "onboard_time": 1763264180,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31558,
+      "num": 35460,
+      "word": "高市早苗到底水有多深",
+      "onboard_time": 1763574855,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31554,
@@ -14427,12 +14443,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23790,
+      "num": 35015,
+      "word": "喻恩泰史林子婚变罗生门",
+      "onboard_time": 1763576594,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 23633,
+      "num": 34996,
+      "word": "母亲回应炫耀孩子招杀身之祸言论",
+      "onboard_time": 1763575156,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23561,
       "num": 134054,
       "word": "王星越车又坏了",
       "onboard_time": 1763285301,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23471,
+      "num": 34983,
+      "word": "高市证实与新纳粹组织党首合影",
+      "onboard_time": 1763574017,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22865,
@@ -14504,6 +14544,14 @@
       "word": "近期避免前往日本旅游",
       "onboard_time": 1763490734,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21119,
+      "num": 34955,
+      "word": "高市早苗对美国亦步亦趋",
+      "onboard_time": 1763574375,
+      "rank": 45,
       "category": "国际时政"
     },
     {
