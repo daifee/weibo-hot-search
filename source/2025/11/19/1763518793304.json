@@ -1,0 +1,410 @@
+{
+  "runTime": 1763518793304,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 744525,
+        "num": 1119124,
+        "word": "叫停日中友好纪念活动",
+        "onboard_time": 1763513302,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455211,
+        "num": 455211,
+        "word": "中国飞往日本机票罕见退订潮",
+        "onboard_time": 1763512641,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36560,
+        "num": 370992,
+        "word": "福建舰入列后首次海上实兵训练",
+        "onboard_time": 1763458703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 503690,
+        "num": 366069,
+        "word": "郭某严重学术不端高校已报案",
+        "onboard_time": 1763510781,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357037,
+        "num": 357037,
+        "word": "爱奇艺由盈转亏",
+        "onboard_time": 1763516722,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 318241,
+        "num": 318241,
+        "word": "日本根本没资格要求成为常任理事国",
+        "onboard_time": 1763510602,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202298,
+        "num": 202298,
+        "word": "约49.1万张飞往日本机票取消",
+        "onboard_time": 1763478504,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180736,
+        "num": 180736,
+        "word": "王晶说易烊千玺可能是下一个周润发",
+        "onboard_time": 1763483599,
+        "rank": 7,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 162996,
+        "num": 162996,
+        "word": "狂野时代",
+        "onboard_time": 1763517202,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 158344,
+        "num": 158344,
+        "word": "日本民众集会抗议要求高市下台",
+        "onboard_time": 1763505136,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 348797,
+        "num": 157880,
+        "word": "涉女婴手术死亡医生被曝过往纠纷",
+        "onboard_time": 1763517020,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334703,
+        "num": 157717,
+        "word": "14名荒野求生选手5天休整期住别墅",
+        "onboard_time": 1763516061,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194024,
+        "num": 156947,
+        "word": "丁禹兮出席联合国气候变化大会",
+        "onboard_time": 1763514322,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174354,
+        "num": 156591,
+        "word": "冷美人退赛后开启首场直播",
+        "onboard_time": 1763512523,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156327,
+        "num": 156327,
+        "word": "樊振东一个没站稳跪地上了",
+        "onboard_time": 1763511261,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125952,
+        "num": 125952,
+        "word": "74岁老太杀73岁老太藏尸案将开庭",
+        "onboard_time": 1763469444,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119512,
+        "num": 119512,
+        "word": "江苏科技大学通报郭某学术造假事件",
+        "onboard_time": 1763517020,
+        "rank": 16,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113345,
+        "num": 113345,
+        "word": "深圳一模特比赛冠军引争议",
+        "onboard_time": 1763508738,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110236,
+        "num": 110236,
+        "word": "叫妈妈这个风潮是从你好李焕英开始的",
+        "onboard_time": 1763516661,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94441,
+        "num": 110169,
+        "word": "王安宇回应疯狂动物城2配音",
+        "onboard_time": 1763479283,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 861355,
+        "num": 109972,
+        "word": "罗志祥疑似内涵极限男人帮",
+        "onboard_time": 1763515821,
+        "rank": 20,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 121908,
+        "num": 109667,
+        "word": "原来金鸡奖的含金量真的含金",
+        "onboard_time": 1763510541,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 523467,
+        "num": 109432,
+        "word": "曝唐嫣罗晋分居一年半了",
+        "onboard_time": 1763473165,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 506730,
+        "num": 109185,
+        "word": "杨幂钟楚曦杂志撞衫",
+        "onboard_time": 1763512881,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 314392,
+        "num": 109104,
+        "word": "韩国偶遇田曦薇逛街",
+        "onboard_time": 1763516302,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58980,
+        "num": 108798,
+        "word": "人民日报钟声评高市给中日关系投毒",
+        "onboard_time": 1763516722,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187768,
+        "num": 108638,
+        "word": "国安部破获日本间谍机关窃密案件",
+        "onboard_time": 1763517801,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143660,
+        "num": 108341,
+        "word": "16飞17飞18飞",
+        "onboard_time": 1763515881,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 138579,
+        "num": 108089,
+        "word": "王菊瘦成少女时代泰妍了",
+        "onboard_time": 1763475265,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128610,
+        "num": 107796,
+        "word": "女孩的棒棒糖阻止了一场持枪抢劫",
+        "onboard_time": 1763517141,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127255,
+        "num": 107545,
+        "word": "扒一扒高市早苗黑历史",
+        "onboard_time": 1763516962,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107539,
+        "num": 107539,
+        "word": "JDG老板爆料BLG签下Viper",
+        "onboard_time": 1763508620,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99004,
+        "num": 99004,
+        "word": "近视手术五年后的真实感受",
+        "onboard_time": 1763470824,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98299,
+        "num": 98299,
+        "word": "95后男生写网文还清百万外债",
+        "onboard_time": 1763509879,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97000,
+        "num": 97000,
+        "word": "peyz T1",
+        "onboard_time": 1763511743,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92794,
+        "num": 92794,
+        "word": "荒野求生选手饿了41天终于喝上鸡汤",
+        "onboard_time": 1763517621,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91403,
+        "num": 91403,
+        "word": "女车主狠踹划伤邻车被哨兵模式拍下",
+        "onboard_time": 1763517202,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89354,
+        "num": 89354,
+        "word": "女子被2岁孩子撞出脑震荡",
+        "onboard_time": 1763516541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88565,
+        "num": 88565,
+        "word": "在黄山看到了金色雾凇",
+        "onboard_time": 1763515641,
+        "rank": 38,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 29479,
+        "num": 88110,
+        "word": "记者提问爱泼斯坦案遭特朗普怒怼",
+        "onboard_time": 1763518341,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87730,
+        "num": 87730,
+        "word": "74岁老太因柴火归属争执杀人藏尸",
+        "onboard_time": 1763516901,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87044,
+        "num": 87044,
+        "word": "外交部回应德方称对台海局势担忧",
+        "onboard_time": 1763510963,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86058,
+        "num": 86058,
+        "word": "韩国外交部发表声明",
+        "onboard_time": 1763476763,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85827,
+        "num": 85827,
+        "word": "哈登绝杀球被打手",
+        "onboard_time": 1763517981,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84473,
+        "num": 84473,
+        "word": "小伙遭骗婚后被女方气笑",
+        "onboard_time": 1763512942,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81234,
+        "num": 81234,
+        "word": "印度大学保安将脚伸进食堂米锅搅动",
+        "onboard_time": 1763508679,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80041,
+        "num": 80041,
+        "word": "卢伟冰称明年小米手机可能涨价",
+        "onboard_time": 1763515101,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 44340,
+        "num": 75933,
+        "word": "家门口遇害女子妈妈曾与凶手对视",
+        "onboard_time": 1763517141,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75767,
+        "num": 75767,
+        "word": "王橹杰等你到下课",
+        "onboard_time": 1763512341,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75518,
+        "num": 75518,
+        "word": "杨旭文突发身体不适",
+        "onboard_time": 1763512043,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
