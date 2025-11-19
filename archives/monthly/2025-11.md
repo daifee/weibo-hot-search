@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 15:40:17
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 16:35:42
 </p>
 </blockquote>
 <p>
@@ -1095,6 +1095,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%A6%E8%AE%A4%E6%85%B0%E5%AE%89%E5%A6%87%E5%AD%98%E5%9C%A8%23" target="weibo">
+高市早苗否认慰安妇存在（热度：1064338）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E8%93%9D%E5%AD%94%E9%9B%80%E5%A5%B3%E7%8E%8B%23" target="weibo">
 杨幂 蓝孔雀女王（热度：1059335）
 </a>
@@ -1269,6 +1275,12 @@ T1管理层（热度：999897）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E6%94%B6%E5%85%BB%E7%BB%8F%E7%BA%AA%E4%BA%BA%E4%B8%A4%E4%B8%AA%E5%B0%8F%E5%AD%A9%E4%BD%9C%E4%BC%B4%23" target="weibo">
+罗志祥收养经纪人两个小孩作伴（热度：995925）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%B7%A5%E4%BD%9C%E5%AE%A4%E6%99%92%E6%97%B6%E9%97%B4%E7%BA%BF%23" target="weibo">
 白百何工作室晒时间线（热度：990681）
 </a>
@@ -1337,6 +1349,12 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BA%8C%E5%8D%81%E7%96%91%E9%81%AD%E7%A2%8E%E7%89%87%E6%92%9E%E5%87%BB%23" target="weibo">
 神二十疑遭碎片撞击（热度：969592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23" target="weibo">
+解放军警告日本（热度：967455）
 </a>
 </li>
 
@@ -2433,12 +2451,6 @@ AG对战狼队（热度：725111）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23" target="weibo">
-解放军警告日本（热度：707205）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23chovy%E7%8A%B6%E6%80%81%23" target="weibo">
 chovy状态（热度：706292）
 </a>
@@ -2573,6 +2585,12 @@ baby让小海绵带去了生日礼物（热度：698948）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%8B%A5%E7%A2%B0%E7%BA%A2%E7%BA%BF%E6%96%B0%E8%B4%A6%E6%97%A7%E8%B4%A6%E4%B8%80%E8%B5%B7%E6%B8%85%E7%AE%97%23" target="weibo">
 日本若碰红线新账旧账一起清算（热度：691492）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%BD%97%E6%99%8B%E8%A1%8C%E7%A8%8B%E6%97%B6%E9%97%B4%E7%BA%BF%23" target="weibo">
+唐嫣罗晋行程时间线（热度：691072）
 </a>
 </li>
 
@@ -3579,6 +3597,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%A9%99%E5%AD%90%E5%A7%90%E5%A7%90%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E8%AF%88%E8%A2%AB%E6%8A%93%23" target="weibo">
+网红橙子姐姐在柬埔寨涉诈被抓（热度：586835）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%9D%E5%AE%9D%E4%BA%A7%E6%A3%80%E6%AD%A3%E5%B8%B8%E5%87%BA%E7%94%9F%E5%90%8E%E6%BB%A1%E8%BA%AB%E5%85%BD%E7%9A%AE%E7%97%A3%23" target="weibo">
 宝宝产检正常出生后满身兽皮痣（热度：585848）
 </a>
@@ -4331,6 +4355,12 @@ HLE宣布Viper离队（热度：532079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E4%BB%A3%E8%A1%A8%E8%81%94%E5%A4%A7%E5%8F%91%E8%A8%80%E7%82%AE%E8%BD%B0%E6%97%A5%E6%9C%AC%23" target="weibo">
 朝鲜代表联大发言炮轰日本（热度：523653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%B4%E4%BA%A7%E5%93%81%E5%9C%A8%E5%8D%8E%E4%B8%8D%E4%BC%9A%E6%9C%89%E5%B8%82%E5%9C%BA%23" target="weibo">
+日本水产品在华不会有市场（热度：523462）
 </a>
 </li>
 
@@ -5135,6 +5165,12 @@ Gumayusi HLE（热度：476338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%9B%9E%E5%BA%94%E5%8F%96%E5%85%B3%E9%AC%BC%E9%AC%BC%23" target="weibo">
 炎亚纶回应取关鬼鬼（热度：470486）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%9C%8B%E4%B8%AD%E6%96%B9%E9%9C%B8%E6%B0%94%E6%8F%92%E5%85%9C%E5%BF%83%E7%A2%8E%E4%BA%86%23" target="weibo">
+日本网友看中方霸气插兜心碎了（热度：470057）
 </a>
 </li>
 
@@ -5975,42 +6011,6 @@ KK园区电诈人员已开始再就业（热度：422885）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%B1%E5%A4%A9%E4%B8%80%E7%8E%8B%E6%98%B6%E7%A7%80%E6%81%A9%E7%88%B1%23" target="weibo">
 钱天一王昶秀恩爱（热度：418838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E4%B9%B0%E9%AB%98%E9%93%81%E9%9D%A0%E7%AA%97%E5%BA%A7%E4%BD%8D%E5%8D%B4%E9%81%87%E9%9D%A2%E5%A3%81%E5%BA%A7%23" target="weibo">
-网友买高铁靠窗座位却遇面壁座（热度：418289）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%90%E7%8E%89%23" target="weibo">
-逐玉（热度：418145）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E5%8F%91%E5%8D%9A%E6%99%92%E7%BB%8F%E5%85%B8%E5%A4%BA%E5%86%A0%E8%A1%A8%E6%83%85%23" target="weibo">
-Faker发博晒经典夺冠表情（热度：418029）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E5%90%83%E7%93%9C%E7%9C%8B%E5%AD%9F%E5%AD%90%E4%B9%89%23" target="weibo">
-关晓彤吃瓜看孟子义（热度：417981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E8%A7%86%E9%A2%91%E5%A4%8D%E6%B4%BB27%E5%B2%81%E5%A5%B3%E5%84%BF%E5%90%8E%E5%86%8D%E6%B7%BB%E6%96%B0%E4%B8%81%23" target="weibo">
-家长视频复活27岁女儿后再添新丁（热度：417952）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E9%99%A2%E5%9B%9E%E5%BA%94%E7%BD%91%E4%BC%A0%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E4%B8%8B%E6%98%A0%23" target="weibo">
-影院回应网传鬼灭之刃下映（热度：417535）
 </a>
 </li>
 
