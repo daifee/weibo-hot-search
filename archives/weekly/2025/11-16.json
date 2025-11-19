@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763552349244,
+  "endTime": 1763556934027,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 821558,
+      "num": 1131449,
+      "word": "演戏自己不配音 却给动画配音",
+      "onboard_time": 1763553922,
+      "rank": 0,
+      "category": "电影"
+    },
+    {
       "raw_hot": 811504,
       "num": 716533,
       "word": "袁弘 帝后",
@@ -665,6 +673,14 @@
       "onboard_time": 1763370143,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 773492,
+      "num": 773492,
+      "word": "俄罗斯警告高市早苗",
+      "onboard_time": 1763549003,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 768523,
@@ -777,14 +793,6 @@
       "onboard_time": 1763222184,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 684360,
-      "num": 242224,
-      "word": "俄罗斯警告高市早苗",
-      "onboard_time": 1763549003,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 676656,
@@ -945,6 +953,14 @@
       "onboard_time": 1763523199,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 623786,
+      "num": 245513,
+      "word": "范思琦12比10孙颖莎",
+      "onboard_time": 1763553682,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 618058,
@@ -1747,20 +1763,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 458704,
+      "num": 458704,
+      "word": "乒乓球女团决赛河北vs山东",
+      "onboard_time": 1763550203,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 456467,
+      "num": 245274,
+      "word": "何炅以后探店的话我是一家不去",
+      "onboard_time": 1763551222,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 455933,
       "num": 162516,
       "word": "Bin双眼皮",
       "onboard_time": 1763285781,
       "rank": 35,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 455181,
-      "num": 455181,
-      "word": "乒乓球女团决赛河北vs山东",
-      "onboard_time": 1763550203,
-      "rank": 11,
-      "category": "体育"
     },
     {
       "raw_hot": 454951,
@@ -2075,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 412476,
+      "num": 412476,
+      "word": "声生不息华流季官宣",
+      "onboard_time": 1763555602,
+      "rank": 4,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410927,
       "num": 314341,
       "word": "papi酱怀孕时也会抓着老公吵架",
@@ -2233,6 +2265,14 @@
       "onboard_time": 1763469144,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 389216,
+      "num": 351671,
+      "word": "互相包场 互相点评 互相颁奖",
+      "onboard_time": 1763553802,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 388049,
@@ -2473,6 +2513,14 @@
       "onboard_time": 1763481680,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 359927,
+      "num": 359927,
+      "word": "女子产后大出血遇救护人员态度散漫",
+      "onboard_time": 1763551042,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359681,
@@ -3027,6 +3075,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 300583,
+      "num": 300583,
+      "word": "何卓佳vs范思琦",
+      "onboard_time": 1763553021,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300510,
       "num": 410941,
       "word": "蒋依依从TF一代搭到三代",
@@ -3209,6 +3265,14 @@
       "onboard_time": 1763288841,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 289156,
+      "num": 244015,
+      "word": "日本火灾吓到日本人",
+      "onboard_time": 1763551821,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 288475,
@@ -3819,14 +3883,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 237943,
-      "num": 237943,
-      "word": "女子产后大出血遇救护人员态度散漫",
-      "onboard_time": 1763551042,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 237482,
       "num": 191049,
       "word": "T1 谁拿FMVP谁走",
@@ -3953,6 +4009,14 @@
       "onboard_time": 1763442324,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 229597,
+      "num": 229597,
+      "word": "今年MAMA在云南办得了",
+      "onboard_time": 1763552482,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 229362,
@@ -4467,6 +4531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202127,
+      "num": 142720,
+      "word": "孙颖莎11比2王晓彤",
+      "onboard_time": 1763556261,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202060,
       "num": 161913,
       "word": "elk删除了清者自清的微博",
@@ -4817,6 +4889,14 @@
       "onboard_time": 1763443762,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 192482,
+      "num": 192482,
+      "word": "孙颖莎3比0王晓彤",
+      "onboard_time": 1763556021,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 192414,
@@ -5395,6 +5475,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 181484,
+      "num": 181484,
+      "word": "丁泽仁评论区 0人在意丁泽仁",
+      "onboard_time": 1763555302,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181464,
       "num": 196389,
       "word": "唐嫣罗晋前段时间被偶遇一起带娃",
@@ -5553,14 +5641,6 @@
       "onboard_time": 1763262861,
       "rank": 9,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 177475,
-      "num": 177475,
-      "word": "日本火灾吓到日本人",
-      "onboard_time": 1763551821,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 176854,
@@ -6571,14 +6651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 154473,
-      "num": 154473,
-      "word": "何炅以后探店的话我是一家不去",
-      "onboard_time": 1763551222,
-      "rank": 49,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154323,
       "num": 154323,
       "word": "租的房间很小又要请朋友做客时",
@@ -7107,6 +7179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144984,
+      "num": 144984,
+      "word": "曹骏侵略性好强的手臂",
+      "onboard_time": 1763552361,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144932,
       "num": 144932,
       "word": "周翊然帮女嘉宾装手机",
@@ -7315,6 +7395,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 140564,
+      "num": 140564,
+      "word": "朋友圈令人很不爽的现象",
+      "onboard_time": 1763556261,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 140470,
       "num": 140470,
       "word": "俞敏洪该思考为何能到南极看企鹅",
@@ -7361,6 +7449,14 @@
       "onboard_time": 1763530882,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 139742,
+      "num": 139742,
+      "word": "陈梦3比0胜王添艺",
+      "onboard_time": 1763554102,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 139681,
@@ -7665,6 +7761,14 @@
       "onboard_time": 1763363481,
       "rank": 45,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 134268,
+      "num": 134268,
+      "word": "肖战网络维权案有新进展",
+      "onboard_time": 1763556261,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 133999,
@@ -9451,12 +9555,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110990,
+      "num": 110990,
+      "word": "28元一个蛋挞是我两餐的费用",
+      "onboard_time": 1763554941,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110830,
       "num": 110830,
       "word": "朱雨玲因病退队陈梦第一个发消息",
       "onboard_time": 1763368222,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110827,
+      "num": 110827,
+      "word": "鲜牛奶vs常温奶",
+      "onboard_time": 1763553862,
+      "rank": 41,
+      "category": "科学科普"
     },
     {
       "raw_hot": 110614,
@@ -9915,6 +10035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104729,
+      "num": 104729,
+      "word": "唐诡3第5案3集4个反转",
+      "onboard_time": 1763556743,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104727,
       "num": 104727,
       "word": "樊振东感谢上海队的理解和支持",
@@ -9945,6 +10073,14 @@
       "onboard_time": 1763516541,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104473,
+      "num": 104473,
+      "word": "孙颖莎3比1胜范思琦",
+      "onboard_time": 1763552722,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 104347,
@@ -10211,6 +10347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 100192,
+      "num": 100192,
+      "word": "孙颖莎自己队友也要拍拍手",
+      "onboard_time": 1763556141,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99949,
       "num": 99949,
       "word": "蔡徐坤美国版GQ采访",
@@ -10416,6 +10560,14 @@
       "word": "苏炳添谢幕战",
       "onboard_time": 1763532081,
       "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97157,
+      "num": 97157,
+      "word": "江苏女排全运会金牌",
+      "onboard_time": 1763556862,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -12161,6 +12313,14 @@
       "onboard_time": 1763235494,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 52988,
+      "num": 192161,
+      "word": "一汽丰田神车换代油电同强",
+      "onboard_time": 1763554161,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 52936,
@@ -14009,6 +14169,14 @@
       "onboard_time": 1763548583,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10972,
+      "num": 111389,
+      "word": "韩国重大火灾超千万件衣鞋被毁",
+      "onboard_time": 1763556200,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 10964,
