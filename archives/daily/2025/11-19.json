@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763559485569,
+  "endTime": 1763560223835,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2266794,
+      "num": 2266794,
+      "word": "陈梦王晓彤范思琦冠军",
+      "onboard_time": 1763559384,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 2030569,
       "num": 147444,
       "word": "罗志祥疑似内涵极限男人帮",
@@ -35,8 +43,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1495149,
+      "num": 1495149,
+      "word": "吴艳妮银牌",
+      "onboard_time": 1763558662,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1472332,
-      "num": 238691,
+      "num": 285457,
       "word": "唐嫣 罗晋",
       "onboard_time": 1763444363,
       "rank": 25,
@@ -123,20 +139,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 899701,
+      "num": 321478,
+      "word": "喻恩泰回应",
+      "onboard_time": 1763559924,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 831206,
       "num": 196939,
       "word": "许玮甯邱泽婚纱照",
       "onboard_time": 1763535801,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 810063,
-      "num": 810063,
-      "word": "吴艳妮银牌",
-      "onboard_time": 1763558662,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 781025,
@@ -251,14 +267,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 589620,
-      "num": 589620,
-      "word": "陈梦王晓彤范思琦冠军",
-      "onboard_time": 1763559384,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 587309,
       "num": 414424,
       "word": "何炅 五旬了还要周考吗",
@@ -363,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513651,
+      "num": 352057,
+      "word": "丁泽仁评论区 0人在意丁泽仁",
+      "onboard_time": 1763555302,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 508844,
       "num": 508844,
       "word": "高市早苗是靖国神社常客",
@@ -379,20 +395,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 504451,
-      "num": 352057,
-      "word": "丁泽仁评论区 0人在意丁泽仁",
-      "onboard_time": 1763555302,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 494144,
       "num": 268691,
       "word": "我发现物业费比房贷可怕多了",
       "onboard_time": 1763537181,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 490493,
+      "num": 490493,
+      "word": "何卓佳2比3范思琦",
+      "onboard_time": 1763559683,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 489816,
@@ -587,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 397767,
+      "num": 294249,
+      "word": "陈梦哭了",
+      "onboard_time": 1763559924,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 392488,
       "num": 392488,
       "word": "荒野求生选手饿了41天终于喝上鸡汤",
@@ -691,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 344962,
+      "num": 283103,
+      "word": "感觉乔欣的面相变了",
+      "onboard_time": 1763560043,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 341336,
       "num": 341336,
       "word": "日本旅游 退票",
@@ -764,7 +796,7 @@
     },
     {
       "raw_hot": 316358,
-      "num": 198363,
+      "num": 279450,
       "word": "KT官宣Ghost以辅助位加入",
       "onboard_time": 1763558183,
       "rank": 30,
@@ -905,6 +937,22 @@
       "onboard_time": 1763540722,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268014,
+      "num": 268014,
+      "word": "陈梦全运第二金",
+      "onboard_time": 1763559683,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 267043,
+      "num": 267043,
+      "word": "李诞劝大家不要算命",
+      "onboard_time": 1763558905,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 258738,
@@ -1163,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 202517,
-      "num": 202517,
-      "word": "李诞劝大家不要算命",
-      "onboard_time": 1763558905,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202225,
       "num": 202225,
       "word": "日本间谍网曾在中国无孔不入",
@@ -1191,6 +1231,14 @@
       "num": 200071,
       "word": "河北山东进入决胜盘",
       "onboard_time": 1763558784,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199849,
+      "num": 199849,
+      "word": "刘景扬金牌",
+      "onboard_time": 1763559683,
       "rank": 29,
       "category": "体育"
     },
@@ -1347,6 +1395,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181474,
+      "num": 292641,
+      "word": "唐诡 颜真卿",
+      "onboard_time": 1763556983,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180736,
       "num": 180736,
       "word": "王晶说易烊千玺可能是下一个周润发",
@@ -1379,20 +1435,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 174865,
+      "num": 174865,
+      "word": "iG转会",
+      "onboard_time": 1763559805,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 173848,
       "num": 173848,
       "word": "十几年前的女装真的很好看",
       "onboard_time": 1763521341,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 173388,
-      "num": 241518,
-      "word": "唐诡 颜真卿",
-      "onboard_time": 1763556983,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 172933,
@@ -1523,6 +1579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157151,
+      "num": 155691,
+      "word": "看易烊千玺李庚希亲密戏需要心理委员",
+      "onboard_time": 1763559384,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156578,
       "num": 156578,
       "word": "樊振东从欲言又止到疯狂输出",
@@ -1545,6 +1609,14 @@
       "onboard_time": 1763543663,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156243,
+      "num": 156243,
+      "word": "何卓佳7比11范思琦",
+      "onboard_time": 1763559504,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 155889,
@@ -1953,14 +2025,6 @@
       "onboard_time": 1763536581,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129104,
-      "num": 129104,
-      "word": "看易烊千玺李庚希亲密戏需要心理委员",
-      "onboard_time": 1763559384,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 129017,
@@ -2755,12 +2819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69711,
+      "num": 323653,
+      "word": "乒乓球女团山东3比2河北",
+      "onboard_time": 1763559444,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69668,
       "num": 127951,
       "word": "王菊再瘦就认不出来了",
       "onboard_time": 1763470464,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69324,
+      "num": 289578,
+      "word": "安全背后大有乾崑",
+      "onboard_time": 1763558724,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 67801,
@@ -2804,7 +2884,7 @@
     },
     {
       "raw_hot": 64474,
-      "num": 833952,
+      "num": 987621,
       "word": "第十五届全运会",
       "onboard_time": 1763545582,
       "rank": 2,
@@ -2819,12 +2899,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63254,
-      "num": 240980,
-      "word": "安全背后大有乾崑",
-      "onboard_time": 1763558724,
-      "rank": 19,
-      "category": "汽车"
+      "raw_hot": 63414,
+      "num": 263779,
+      "word": "日本多次不宣而战",
+      "onboard_time": 1763559983,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62674,
@@ -2883,6 +2963,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58561,
+      "num": 177129,
+      "word": "男子砍杀女友后视频展示行凶现场",
+      "onboard_time": 1763559983,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58311,
       "num": 144525,
       "word": "车主回应开奥迪被婚车队当车头",
@@ -2921,14 +3009,6 @@
       "onboard_time": 1763548222,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 56245,
-      "num": 187565,
-      "word": "乒乓球女团山东3比2河北",
-      "onboard_time": 1763559444,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 55755,
@@ -3195,6 +3275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34502,
+      "num": 189916,
+      "word": "台当局竟要求民众绝不向大陆投降",
+      "onboard_time": 1763560103,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34470,
       "num": 189647,
       "word": "坚决阻击任何复活军国主义图谋",
@@ -3361,6 +3449,14 @@
       "onboard_time": 1763492534,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13607,
+      "num": 175640,
+      "word": "花少主创回应七老童心全员淡人",
+      "onboard_time": 1763560043,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 12972,

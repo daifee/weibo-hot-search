@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763559485569,
+  "endTime": 1763560223835,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 2737200,
-      "num": 238691,
+      "num": 285457,
       "word": "唐嫣 罗晋",
       "onboard_time": 1763444363,
       "rank": 25,
@@ -73,6 +73,14 @@
       "onboard_time": 1763214210,
       "rank": 0,
       "category": "电影"
+    },
+    {
+      "raw_hot": 2266794,
+      "num": 2266794,
+      "word": "陈梦王晓彤范思琦冠军",
+      "onboard_time": 1763559384,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 2178127,
@@ -153,6 +161,14 @@
       "onboard_time": 1763373201,
       "rank": 12,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 1495149,
+      "num": 1495149,
+      "word": "吴艳妮银牌",
+      "onboard_time": 1763558662,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1483323,
@@ -515,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 899701,
+      "num": 321478,
+      "word": "喻恩泰回应",
+      "onboard_time": 1763559924,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 896938,
       "num": 976166,
       "word": "日方称向中方提抗议",
@@ -625,14 +649,6 @@
       "onboard_time": 1763216068,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 810063,
-      "num": 810063,
-      "word": "吴艳妮银牌",
-      "onboard_time": 1763558662,
-      "rank": 3,
-      "category": "体育"
     },
     {
       "raw_hot": 808832,
@@ -1123,14 +1139,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 589620,
-      "num": 589620,
-      "word": "陈梦王晓彤范思琦冠军",
-      "onboard_time": 1763559384,
-      "rank": 5,
-      "category": "体育"
-    },
-    {
       "raw_hot": 588632,
       "num": 256254,
       "word": "林允 天亮了",
@@ -1475,6 +1483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 513651,
+      "num": 352057,
+      "word": "丁泽仁评论区 0人在意丁泽仁",
+      "onboard_time": 1763555302,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513103,
       "num": 200182,
       "word": "时代峰峻否认左航恋爱",
@@ -1497,14 +1513,6 @@
       "onboard_time": 1763545944,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 504451,
-      "num": 352057,
-      "word": "丁泽仁评论区 0人在意丁泽仁",
-      "onboard_time": 1763555302,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 502210,
@@ -1601,6 +1609,14 @@
       "onboard_time": 1763445021,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 490493,
+      "num": 490493,
+      "word": "何卓佳2比3范思琦",
+      "onboard_time": 1763559683,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 489816,
@@ -2251,6 +2267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 397767,
+      "num": 294249,
+      "word": "陈梦哭了",
+      "onboard_time": 1763559924,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 395878,
       "num": 438119,
       "word": "为什么短剧质感的长剧火起来了",
@@ -2723,6 +2747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 344962,
+      "num": 283103,
+      "word": "感觉乔欣的面相变了",
+      "onboard_time": 1763560043,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 343840,
       "num": 343840,
       "word": "雷军祝贺樊振东夺冠",
@@ -2964,7 +2996,7 @@
     },
     {
       "raw_hot": 316358,
-      "num": 198363,
+      "num": 279450,
       "word": "KT官宣Ghost以辅助位加入",
       "onboard_time": 1763558183,
       "rank": 30,
@@ -3555,6 +3587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268014,
+      "num": 268014,
+      "word": "陈梦全运第二金",
+      "onboard_time": 1763559683,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 267970,
       "num": 219493,
       "word": "惊蛰无声 金鸡拼图",
@@ -3585,6 +3625,14 @@
       "onboard_time": 1763350822,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267043,
+      "num": 267043,
+      "word": "李诞劝大家不要算命",
+      "onboard_time": 1763558905,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 266678,
@@ -4603,14 +4651,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 202517,
-      "num": 202517,
-      "word": "李诞劝大家不要算命",
-      "onboard_time": 1763558905,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 202340,
       "num": 219244,
       "word": "陈梦vs杨屹韵",
@@ -4703,6 +4743,14 @@
       "num": 200071,
       "word": "河北山东进入决胜盘",
       "onboard_time": 1763558784,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 199849,
+      "num": 199849,
+      "word": "刘景扬金牌",
+      "onboard_time": 1763559683,
       "rank": 29,
       "category": "体育"
     },
@@ -5563,6 +5611,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 181474,
+      "num": 292641,
+      "word": "唐诡 颜真卿",
+      "onboard_time": 1763556983,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 181464,
       "num": 196389,
       "word": "唐嫣罗晋前段时间被偶遇一起带娃",
@@ -5819,6 +5875,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174865,
+      "num": 174865,
+      "word": "iG转会",
+      "onboard_time": 1763559805,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 174780,
       "num": 174780,
       "word": "唐嫣曾谈和罗晋分居两地",
@@ -5873,14 +5937,6 @@
       "onboard_time": 1763302283,
       "rank": 27,
       "category": "教育"
-    },
-    {
-      "raw_hot": 173388,
-      "num": 241518,
-      "word": "唐诡 颜真卿",
-      "onboard_time": 1763556983,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 173163,
@@ -6571,6 +6627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 157151,
+      "num": 155691,
+      "word": "看易烊千玺李庚希亲密戏需要心理委员",
+      "onboard_time": 1763559384,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156895,
       "num": 156895,
       "word": "颜安发言时吴希泽的表情",
@@ -6633,6 +6697,14 @@
       "onboard_time": 1763267961,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156243,
+      "num": 156243,
+      "word": "何卓佳7比11范思琦",
+      "onboard_time": 1763559504,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 156104,
@@ -8217,14 +8289,6 @@
       "onboard_time": 1763468905,
       "rank": 23,
       "category": "财经,民生新闻"
-    },
-    {
-      "raw_hot": 129104,
-      "num": 129104,
-      "word": "看易烊千玺李庚希亲密戏需要心理委员",
-      "onboard_time": 1763559384,
-      "rank": 43,
-      "category": "电影"
     },
     {
       "raw_hot": 129095,
@@ -11851,12 +11915,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 69711,
+      "num": 323653,
+      "word": "乒乓球女团山东3比2河北",
+      "onboard_time": 1763559444,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 69624,
       "num": 219312,
       "word": "中日陷入外交危机责任完全在日方",
       "onboard_time": 1763460742,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 69324,
+      "num": 289578,
+      "word": "安全背后大有乾崑",
+      "onboard_time": 1763558724,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 69158,
@@ -12020,7 +12100,7 @@
     },
     {
       "raw_hot": 64474,
-      "num": 833952,
+      "num": 987621,
       "word": "第十五届全运会",
       "onboard_time": 1763545582,
       "rank": 2,
@@ -12083,6 +12163,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63414,
+      "num": 263779,
+      "word": "日本多次不宣而战",
+      "onboard_time": 1763559983,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63355,
       "num": 110368,
       "word": "广东一茶水室惊现剧毒蛇",
@@ -12097,14 +12185,6 @@
       "onboard_time": 1763284762,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 63254,
-      "num": 240980,
-      "word": "安全背后大有乾崑",
-      "onboard_time": 1763558724,
-      "rank": 19,
-      "category": "汽车"
     },
     {
       "raw_hot": 63245,
@@ -12251,6 +12331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 58561,
+      "num": 177129,
+      "word": "男子砍杀女友后视频展示行凶现场",
+      "onboard_time": 1763559983,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58311,
       "num": 144525,
       "word": "车主回应开奥迪被婚车队当车头",
@@ -12297,14 +12385,6 @@
       "onboard_time": 1763204723,
       "rank": 34,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 56245,
-      "num": 187565,
-      "word": "乒乓球女团山东3比2河北",
-      "onboard_time": 1763559444,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 56137,
@@ -13283,6 +13363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34502,
+      "num": 189916,
+      "word": "台当局竟要求民众绝不向大陆投降",
+      "onboard_time": 1763560103,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34470,
       "num": 189647,
       "word": "坚决阻击任何复活军国主义图谋",
@@ -14249,6 +14337,14 @@
       "onboard_time": 1763492534,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13607,
+      "num": 175640,
+      "word": "花少主创回应七老童心全员淡人",
+      "onboard_time": 1763560043,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 13467,
