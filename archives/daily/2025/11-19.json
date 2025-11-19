@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763537245173,
+  "endTime": 1763538017685,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 831206,
+      "num": 162736,
+      "word": "许玮甯邱泽婚纱照",
+      "onboard_time": 1763535801,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744525,
       "num": 1119124,
       "word": "叫停日中友好纪念活动",
@@ -67,20 +75,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 723778,
-      "num": 162736,
-      "word": "许玮甯邱泽婚纱照",
-      "onboard_time": 1763535801,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 709251,
       "num": 1113480,
       "word": "郭某严重学术不端高校已报案",
       "onboard_time": 1763510781,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707205,
+      "num": 707205,
+      "word": "解放军警告日本",
+      "onboard_time": 1763536521,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 671739,
@@ -275,6 +283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 424457,
+      "num": 160068,
+      "word": "陈冠希 法拉利老了也是拖拉机",
+      "onboard_time": 1763536041,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 416539,
       "num": 239897,
       "word": "1吨鸭绒从17万涨到58万",
@@ -379,14 +395,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 341749,
-      "num": 160068,
-      "word": "陈冠希 法拉利老了也是拖拉机",
-      "onboard_time": 1763536041,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341336,
       "num": 341336,
       "word": "日本旅游 退票",
@@ -401,6 +409,14 @@
       "onboard_time": 1763524041,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332105,
+      "num": 188399,
+      "word": "羽绒服 涨价狂潮",
+      "onboard_time": 1763536521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329584,
@@ -433,6 +449,14 @@
       "onboard_time": 1763521341,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 311169,
+      "num": 161476,
+      "word": "孙乐言回应我现在不是一个普通人了",
+      "onboard_time": 1763534601,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 308354,
@@ -475,20 +499,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 284853,
+      "num": 180865,
+      "word": "陈伟霆 我老家的人会取笑我的",
+      "onboard_time": 1763536461,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284356,
       "num": 284356,
       "word": "原来喜君那句萧郎被卢凌风记到现在",
       "onboard_time": 1763525662,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 264410,
-      "num": 161476,
-      "word": "孙乐言回应我现在不是一个普通人了",
-      "onboard_time": 1763534601,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 252728,
@@ -531,6 +555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 227678,
+      "num": 178258,
+      "word": "快手 登陆少年",
+      "onboard_time": 1763535320,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226016,
       "num": 214575,
       "word": "中国军网在海外发布备战视频",
@@ -547,8 +579,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 220475,
-      "num": 220475,
+      "raw_hot": 223766,
+      "num": 223766,
       "word": "曝Tabe离开AL原因",
       "onboard_time": 1763534841,
       "rank": 37,
@@ -683,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 188864,
+      "num": 151236,
+      "word": "高市早苗否认慰安妇存在",
+      "onboard_time": 1763537782,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 187768,
       "num": 168344,
       "word": "国安部破获日本间谍机关窃密案件",
@@ -739,14 +779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178258,
-      "num": 178258,
-      "word": "快手 登陆少年",
-      "onboard_time": 1763535320,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 176096,
       "num": 176096,
       "word": "叫妈妈这个风潮是从你好李焕英开始的",
@@ -785,14 +817,6 @@
       "onboard_time": 1763526323,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 166785,
-      "num": 166785,
-      "word": "陈伟霆 我老家的人会取笑我的",
-      "onboard_time": 1763536461,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 165743,
@@ -963,12 +987,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139604,
+      "num": 139604,
+      "word": "我发现物业费比房贷可怕多了",
+      "onboard_time": 1763537181,
+      "rank": 40,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 139552,
       "num": 128462,
       "word": "张博恒失误时鼓掌的裁判被终止执裁",
       "onboard_time": 1763470523,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139281,
+      "num": 139281,
+      "word": "罗志祥收养经纪人两个小孩作伴",
+      "onboard_time": 1763537842,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 138872,
@@ -1099,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129544,
+      "num": 129544,
+      "word": "孟子义复古油画里的摩登女郎",
+      "onboard_time": 1763537181,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129234,
       "num": 129234,
       "word": "低于这个价格的羽绒服可能是假的",
@@ -1139,12 +1187,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126110,
-      "num": 126110,
-      "word": "我发现物业费比房贷可怕多了",
-      "onboard_time": 1763537181,
-      "rank": 40,
-      "category": "情感,休闲"
+      "raw_hot": 125864,
+      "num": 125864,
+      "word": "阿勒泰雪假连休9天",
+      "onboard_time": 1763537722,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 125223,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1763522841,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121521,
+      "num": 121521,
+      "word": "有直角肩的小猫咪",
+      "onboard_time": 1763537241,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 120993,
@@ -1331,6 +1387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107868,
+      "num": 107868,
+      "word": "曝Helper加入AL",
+      "onboard_time": 1763537241,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105867,
       "num": 105867,
       "word": "外交部回应德方称对台海局势担忧",
@@ -1379,20 +1443,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102617,
-      "num": 102617,
-      "word": "孟子义复古油画里的摩登女郎",
-      "onboard_time": 1763537181,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102544,
       "num": 160403,
       "word": "马嘉祺卡点变装请continue",
       "onboard_time": 1763530581,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102463,
+      "num": 102463,
+      "word": "鸭绒涨价鹅绒大跌20%",
+      "onboard_time": 1763537661,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 100490,
@@ -1675,14 +1739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74869,
-      "num": 164638,
-      "word": "羽绒服 涨价狂潮",
-      "onboard_time": 1763536521,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73727,
       "num": 128350,
       "word": "中方对日反制组合拳精准到位",
@@ -1843,14 +1899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54063,
-      "num": 219152,
-      "word": "解放军警告日本",
-      "onboard_time": 1763536521,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 53571,
       "num": 120097,
       "word": "女儿说不喜欢黄一鸣了",
@@ -1995,6 +2043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 36012,
+      "num": 155097,
+      "word": "开国大将罗瑞卿之女罗点点去世",
+      "onboard_time": 1763537722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35867,
       "num": 119620,
       "word": "联合国重申第2758号决议",
@@ -2017,6 +2073,14 @@
       "onboard_time": 1763536101,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33318,
+      "num": 124689,
+      "word": "张子枫配合黄磊何炅给嘉宾下套",
+      "onboard_time": 1763537301,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 33240,
@@ -2091,6 +2155,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 20549,
+      "num": 140198,
+      "word": "灵隐寺预约通道下周一启用",
+      "onboard_time": 1763537001,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20518,
       "num": 106642,
       "word": "女子被男友打骂后自杀男友被判无罪",
@@ -2105,14 +2177,6 @@
       "onboard_time": 1763491334,
       "rank": 36,
       "category": "演出"
-    },
-    {
-      "raw_hot": 19973,
-      "num": 140198,
-      "word": "灵隐寺预约通道下周一启用",
-      "onboard_time": 1763537001,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19796,

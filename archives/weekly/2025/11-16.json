@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763537245173,
+  "endTime": 1763538017685,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -539,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 831206,
+      "num": 162736,
+      "word": "许玮甯邱泽婚纱照",
+      "onboard_time": 1763535801,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 828655,
       "num": 317087,
       "word": "饺子导演",
@@ -691,14 +699,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 723778,
-      "num": 162736,
-      "word": "许玮甯邱泽婚纱照",
-      "onboard_time": 1763535801,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 712659,
       "num": 303107,
       "word": "中方已向美方提严正交涉",
@@ -713,6 +713,14 @@
       "onboard_time": 1763510781,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 707205,
+      "num": 707205,
+      "word": "解放军警告日本",
+      "onboard_time": 1763536521,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 705697,
@@ -1795,6 +1803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 424457,
+      "num": 160068,
+      "word": "陈冠希 法拉利老了也是拖拉机",
+      "onboard_time": 1763536041,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 423749,
       "num": 329815,
       "word": "顶流难寻 待爆永远待爆",
@@ -2443,14 +2459,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 341749,
-      "num": 160068,
-      "word": "陈冠希 法拉利老了也是拖拉机",
-      "onboard_time": 1763536041,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 341336,
       "num": 341336,
       "word": "日本旅游 退票",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1763471423,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 332105,
+      "num": 188399,
+      "word": "羽绒服 涨价狂潮",
+      "onboard_time": 1763536521,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331354,
@@ -2657,6 +2673,14 @@
       "onboard_time": 1763283382,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311169,
+      "num": 161476,
+      "word": "孙乐言回应我现在不是一个普通人了",
+      "onboard_time": 1763534601,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 310034,
@@ -2979,6 +3003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 284853,
+      "num": 180865,
+      "word": "陈伟霆 我老家的人会取笑我的",
+      "onboard_time": 1763536461,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 284356,
       "num": 284356,
       "word": "原来喜君那句萧郎被卢凌风记到现在",
@@ -3209,14 +3241,6 @@
       "onboard_time": 1763443401,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 264410,
-      "num": 161476,
-      "word": "孙乐言回应我现在不是一个普通人了",
-      "onboard_time": 1763534601,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 263767,
@@ -3643,6 +3667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 227678,
+      "num": 178258,
+      "word": "快手 登陆少年",
+      "onboard_time": 1763535320,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 226094,
       "num": 210675,
       "word": "王大陆鞠躬道歉",
@@ -3699,6 +3731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 223766,
+      "num": 223766,
+      "word": "曝Tabe离开AL原因",
+      "onboard_time": 1763534841,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 223741,
       "num": 124419,
       "word": "好想来事件后3岁孩子未上学",
@@ -3753,14 +3793,6 @@
       "onboard_time": 1763352022,
       "rank": 32,
       "category": "幽默,美食"
-    },
-    {
-      "raw_hot": 220475,
-      "num": 220475,
-      "word": "曝Tabe离开AL原因",
-      "onboard_time": 1763534841,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 220058,
@@ -4595,6 +4627,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188864,
+      "num": 151236,
+      "word": "高市早苗否认慰安妇存在",
+      "onboard_time": 1763537782,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 188835,
       "num": 188835,
       "word": "花少7顶级淡人内核",
@@ -5091,14 +5131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178258,
-      "num": 178258,
-      "word": "快手 登陆少年",
-      "onboard_time": 1763535320,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 178132,
       "num": 280324,
       "word": "航拍南京一公园被私人占有数年现状",
@@ -5497,14 +5529,6 @@
       "onboard_time": 1763429061,
       "rank": 26,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 166785,
-      "num": 166785,
-      "word": "陈伟霆 我老家的人会取笑我的",
-      "onboard_time": 1763536461,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 166731,
@@ -6779,6 +6803,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139604,
+      "num": 139604,
+      "word": "我发现物业费比房贷可怕多了",
+      "onboard_time": 1763537181,
+      "rank": 40,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 139281,
+      "num": 139281,
+      "word": "罗志祥收养经纪人两个小孩作伴",
+      "onboard_time": 1763537842,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139199,
       "num": 139199,
       "word": "张博恒状态",
@@ -7347,6 +7387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129544,
+      "num": 129544,
+      "word": "孟子义复古油画里的摩登女郎",
+      "onboard_time": 1763537181,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129505,
       "num": 129505,
       "word": "十五运乒乓男团第二阶段签表",
@@ -7571,12 +7619,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126110,
-      "num": 126110,
-      "word": "我发现物业费比房贷可怕多了",
-      "onboard_time": 1763537181,
-      "rank": 40,
-      "category": "情感,休闲"
+      "raw_hot": 125864,
+      "num": 125864,
+      "word": "阿勒泰雪假连休9天",
+      "onboard_time": 1763537722,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 125425,
@@ -7873,6 +7921,14 @@
       "onboard_time": 1763270721,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 121521,
+      "num": 121521,
+      "word": "有直角肩的小猫咪",
+      "onboard_time": 1763537241,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 121398,
@@ -8963,6 +9019,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 107868,
+      "num": 107868,
+      "word": "曝Helper加入AL",
+      "onboard_time": 1763537241,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107850,
       "num": 205841,
       "word": "全运会乒乓球女团四强对阵",
@@ -9339,20 +9403,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102617,
-      "num": 102617,
-      "word": "孟子义复古油画里的摩登女郎",
-      "onboard_time": 1763537181,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102544,
       "num": 160403,
       "word": "马嘉祺卡点变装请continue",
       "onboard_time": 1763530581,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102463,
+      "num": 102463,
+      "word": "鸭绒涨价鹅绒大跌20%",
+      "onboard_time": 1763537661,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 102187,
@@ -10643,14 +10707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74869,
-      "num": 164638,
-      "word": "羽绒服 涨价狂潮",
-      "onboard_time": 1763536521,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74598,
       "num": 78168,
       "word": "张继科调侃樊振东分一个全运冠军",
@@ -11241,14 +11297,6 @@
       "onboard_time": 1763315416,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 54063,
-      "num": 219152,
-      "word": "解放军警告日本",
-      "onboard_time": 1763536521,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 54056,
@@ -12035,6 +12083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 36012,
+      "num": 155097,
+      "word": "开国大将罗瑞卿之女罗点点去世",
+      "onboard_time": 1763537722,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35974,
       "num": 39664,
       "word": "王安宇去看了张一山话剧",
@@ -12193,6 +12249,14 @@
       "onboard_time": 1763259860,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33318,
+      "num": 124689,
+      "word": "张子枫配合黄磊何炅给嘉宾下套",
+      "onboard_time": 1763537301,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 33240,
@@ -12779,6 +12843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 20549,
+      "num": 140198,
+      "word": "灵隐寺预约通道下周一启用",
+      "onboard_time": 1763537001,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20533,
       "num": 25367,
       "word": "刘宇宁开场爆闪",
@@ -12817,14 +12889,6 @@
       "onboard_time": 1763234474,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19973,
-      "num": 140198,
-      "word": "灵隐寺预约通道下周一启用",
-      "onboard_time": 1763537001,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19884,
