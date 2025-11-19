@@ -1,0 +1,410 @@
+{
+  "runTime": 1763523263368,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1071926,
+        "num": 1171508,
+        "word": "首次赴陆台胞可免费畅游逾3000景区",
+        "onboard_time": 1763520081,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 887090,
+        "num": 887090,
+        "word": "恋与深空",
+        "onboard_time": 1763521822,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 28154,
+        "num": 538374,
+        "word": "福建舰入列后首次海上实兵训练",
+        "onboard_time": 1763458703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423816,
+        "num": 423816,
+        "word": "叫停日中友好纪念活动",
+        "onboard_time": 1763513302,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402700,
+        "num": 402700,
+        "word": "爱奇艺由盈转亏",
+        "onboard_time": 1763516722,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400662,
+        "num": 400662,
+        "word": "唐诡3片尾特别鸣谢粉丝",
+        "onboard_time": 1763521101,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392488,
+        "num": 392488,
+        "word": "荒野求生选手饿了41天终于喝上鸡汤",
+        "onboard_time": 1763517621,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365299,
+        "num": 365299,
+        "word": "腾讯视频会员数不涨了",
+        "onboard_time": 1763519422,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 321221,
+        "num": 321221,
+        "word": "14名荒野求生选手5天休整期住别墅",
+        "onboard_time": 1763516061,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47781,
+        "num": 302710,
+        "word": "日本网友要求高市向中国道歉",
+        "onboard_time": 1763522541,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 409890,
+        "num": 299993,
+        "word": "在小狗最生气的时候亲一口",
+        "onboard_time": 1763518821,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 294961,
+        "num": 294961,
+        "word": "郭某严重学术不端高校已报案",
+        "onboard_time": 1763510781,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252728,
+        "num": 252728,
+        "word": "中国琉球学学科项目获批启动",
+        "onboard_time": 1763519181,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240590,
+        "num": 240590,
+        "word": "台湾居民来往大陆通行证签发口岸扩大",
+        "onboard_time": 1763521281,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238720,
+        "num": 238720,
+        "word": "何炅 五旬了还要周考吗",
+        "onboard_time": 1763522423,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209029,
+        "num": 209029,
+        "word": "中国飞往日本机票罕见退订潮",
+        "onboard_time": 1763512641,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207909,
+        "num": 207909,
+        "word": "小米集团跌破40港元",
+        "onboard_time": 1763521341,
+        "rank": 16,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 176096,
+        "num": 176096,
+        "word": "叫妈妈这个风潮是从你好李焕英开始的",
+        "onboard_time": 1763516661,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127268,
+        "num": 175875,
+        "word": "卢凌风又怎么了我的大小姐",
+        "onboard_time": 1763522600,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103722,
+        "num": 175545,
+        "word": "王晶说易烊千玺可能是下一个周润发",
+        "onboard_time": 1763483599,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 320129,
+        "num": 175068,
+        "word": "灵隐寺取消门票",
+        "onboard_time": 1763521881,
+        "rank": 20,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 300560,
+        "num": 174461,
+        "word": "杨幂钟楚曦杂志撞衫",
+        "onboard_time": 1763512881,
+        "rank": 21,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 241874,
+        "num": 173902,
+        "word": "涉女婴手术死亡医生被曝过往纠纷",
+        "onboard_time": 1763517020,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241524,
+        "num": 173749,
+        "word": "韩国偶遇田曦薇逛街",
+        "onboard_time": 1763516302,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 433536,
+        "num": 173091,
+        "word": "曝唐嫣罗晋分居一年半了",
+        "onboard_time": 1763473165,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124497,
+        "num": 172602,
+        "word": "谁家男女主打着打着就亲上了",
+        "onboard_time": 1763522061,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12906,
+        "num": 172305,
+        "word": "男子买到高铁上不存在的座位",
+        "onboard_time": 1763523019,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92821,
+        "num": 171970,
+        "word": "广汽昊铂首获时速120公里L3测试牌照",
+        "onboard_time": 1763520200,
+        "rank": 27,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 112569,
+        "num": 171371,
+        "word": "陈伟霆老钱风吹到了现在就出发",
+        "onboard_time": 1763522841,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96738,
+        "num": 171010,
+        "word": "周深加盟b站跨年晚会",
+        "onboard_time": 1763522541,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170710,
+        "num": 170710,
+        "word": "日本根本没资格要求成为常任理事国",
+        "onboard_time": 1763510602,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180769,
+        "num": 168344,
+        "word": "国安部破获日本间谍机关窃密案件",
+        "onboard_time": 1763517801,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171166,
+        "num": 163011,
+        "word": "十几年前的女装真的很好看",
+        "onboard_time": 1763521341,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 152171,
+        "num": 152171,
+        "word": "扒一扒高市早苗黑历史",
+        "onboard_time": 1763516962,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140382,
+        "num": 140382,
+        "word": "日本自卫队战备全面提速",
+        "onboard_time": 1763519601,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111681,
+        "num": 111681,
+        "word": "上午喝咖啡 抗炎",
+        "onboard_time": 1763523199,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108580,
+        "num": 108580,
+        "word": "成都遇害女子妈妈后悔在事发地买房",
+        "onboard_time": 1763523019,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20518,
+        "num": 106642,
+        "word": "女子被男友打骂后自杀男友被判无罪",
+        "onboard_time": 1763522541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106495,
+        "num": 106495,
+        "word": "16飞17飞18飞",
+        "onboard_time": 1763515881,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104491,
+        "num": 104491,
+        "word": "特斯拉起诉无忧传媒要求退还7761元",
+        "onboard_time": 1763523083,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102802,
+        "num": 102802,
+        "word": "剑网3NPC外观计划新品",
+        "onboard_time": 1763522962,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99238,
+        "num": 99238,
+        "word": "霍建华在如懿传里每天被当面蛐蛐",
+        "onboard_time": 1763519539,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1302886,
+        "num": 98438,
+        "word": "罗志祥疑似内涵极限男人帮",
+        "onboard_time": 1763515821,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 97017,
+        "num": 97017,
+        "word": "A股",
+        "onboard_time": 1763519780,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96607,
+        "num": 96607,
+        "word": "约49.1万张飞往日本机票取消",
+        "onboard_time": 1763478504,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95897,
+        "num": 95897,
+        "word": "樊振东回应是否期待再次对阵王楚钦",
+        "onboard_time": 1763521221,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95354,
+        "num": 95354,
+        "word": "惹怒中国难收场日本强拉美国入局",
+        "onboard_time": 1763521281,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93419,
+        "num": 93419,
+        "word": "冷美人退赛后开启首场直播",
+        "onboard_time": 1763512523,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93651,
+        "num": 92979,
+        "word": "存储芯片价格疯涨50%",
+        "onboard_time": 1763523019,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 79380,
+        "num": 92477,
+        "word": "父母辈追的明星开演唱会了",
+        "onboard_time": 1763520380,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
