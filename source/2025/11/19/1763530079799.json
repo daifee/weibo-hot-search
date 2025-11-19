@@ -1,0 +1,410 @@
+{
+  "runTime": 1763530079799,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 537496,
+        "num": 1085999,
+        "word": "高市惹大祸日本人有苦头吃了",
+        "onboard_time": 1763524941,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 385847,
+        "num": 385847,
+        "word": "腾讯视频会员数不涨了",
+        "onboard_time": 1763519422,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 7511,
+        "num": 363385,
+        "word": "封关不是封岛",
+        "onboard_time": 1763438844,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343295,
+        "num": 343295,
+        "word": "朝鲜代表联大发言炮轰日本",
+        "onboard_time": 1763528422,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296697,
+        "num": 296697,
+        "word": "小酒窝佟丽娅演母女",
+        "onboard_time": 1763527763,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 365263,
+        "num": 296000,
+        "word": "何炅 五旬了还要周考吗",
+        "onboard_time": 1763522423,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272770,
+        "num": 272770,
+        "word": "日本网友要求高市向中国道歉",
+        "onboard_time": 1763522541,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 264835,
+        "num": 264835,
+        "word": "向往的生活好多人啊",
+        "onboard_time": 1763525482,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241886,
+        "num": 241886,
+        "word": "原神",
+        "onboard_time": 1763528663,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 23221,
+        "num": 241182,
+        "word": "别在台湾问题上玩火",
+        "onboard_time": 1763529623,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 400383,
+        "num": 240227,
+        "word": "疑因发现姑姑偷玉米女子被姑父打死",
+        "onboard_time": 1763523861,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 383438,
+        "num": 239897,
+        "word": "1吨鸭绒从17万涨到58万",
+        "onboard_time": 1763525783,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 334315,
+        "num": 238937,
+        "word": "上午喝咖啡 抗炎",
+        "onboard_time": 1763523199,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 255696,
+        "num": 238311,
+        "word": "宋威龙 虎鲸文娱",
+        "onboard_time": 1763524342,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254152,
+        "num": 237109,
+        "word": "黄锐对TFBOYS十周年演唱会还没释怀",
+        "onboard_time": 1763524041,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236779,
+        "num": 236779,
+        "word": "韩雪直播卖12.9元棉拖引热议",
+        "onboard_time": 1763529802,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216748,
+        "num": 216748,
+        "word": "叫停日中友好纪念活动",
+        "onboard_time": 1763513302,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209452,
+        "num": 209452,
+        "word": "日本旅游 退票",
+        "onboard_time": 1763528123,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207469,
+        "num": 207469,
+        "word": "陈熠哭了",
+        "onboard_time": 1763529022,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178491,
+        "num": 207306,
+        "word": "原来喜君那句萧郎被卢凌风记到现在",
+        "onboard_time": 1763525662,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 184035,
+        "num": 207164,
+        "word": "首次赴陆台胞可免费畅游逾3000景区",
+        "onboard_time": 1763520081,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2695957,
+        "num": 207070,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1890016,
+        "num": 206797,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331850,
+        "num": 206704,
+        "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
+        "onboard_time": 1763529203,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237281,
+        "num": 206526,
+        "word": "刘品言生女",
+        "onboard_time": 1763529262,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168200,
+        "num": 206430,
+        "word": "中国军网在海外发布备战视频",
+        "onboard_time": 1763528482,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164288,
+        "num": 206219,
+        "word": "白鹿张凌赫将出席尖叫之夜",
+        "onboard_time": 1763529741,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158536,
+        "num": 206029,
+        "word": "鬼灭之刃退票率大涨",
+        "onboard_time": 1763526683,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138872,
+        "num": 205892,
+        "word": "迪丽热巴闭眼打戏帅爆了",
+        "onboard_time": 1763528422,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109824,
+        "num": 205749,
+        "word": "华为双旗舰首发搭载第二代红枫",
+        "onboard_time": 1763526862,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 214368,
+        "num": 205507,
+        "word": "每天喝咖啡vs每天不喝咖啡",
+        "onboard_time": 1763525303,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 395922,
+        "num": 205299,
+        "word": "罗志祥自曝患微笑忧郁症",
+        "onboard_time": 1763525363,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205281,
+        "num": 205281,
+        "word": "灵隐寺取消门票",
+        "onboard_time": 1763521881,
+        "rank": 32,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 196781,
+        "num": 196781,
+        "word": "因为嫉妒关闭朋友圈半年多了",
+        "onboard_time": 1763528482,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 184703,
+        "num": 184703,
+        "word": "杨宗纬被曝是恶邻",
+        "onboard_time": 1763528002,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171823,
+        "num": 171823,
+        "word": "第一胎就生了月嫂",
+        "onboard_time": 1763527402,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 170730,
+        "num": 170730,
+        "word": "杨幂钟楚曦杂志撞衫",
+        "onboard_time": 1763512881,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 124432,
+        "num": 157911,
+        "word": "郭某严重学术不端高校已报案",
+        "onboard_time": 1763510781,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152701,
+        "num": 152701,
+        "word": "爱奇艺由盈转亏",
+        "onboard_time": 1763516722,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124990,
+        "num": 151522,
+        "word": "杨瀚森高效得到4分",
+        "onboard_time": 1763529862,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151495,
+        "num": 151495,
+        "word": "他替13岁儿子还了20年的债",
+        "onboard_time": 1763525602,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146712,
+        "num": 146712,
+        "word": "法国夫妇害怕房子被强占不敢出远门",
+        "onboard_time": 1763526802,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130532,
+        "num": 130532,
+        "word": "十几年前的女装真的很好看",
+        "onboard_time": 1763521341,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129601,
+        "num": 129601,
+        "word": "爱奇艺第三季度的剧到底谁扑街了",
+        "onboard_time": 1763527223,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129590,
+        "num": 129590,
+        "word": "何炅 看似慌慌张张实则游刃有余",
+        "onboard_time": 1763529862,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126911,
+        "num": 126911,
+        "word": "怎么判断对方本身就是很好的人",
+        "onboard_time": 1763529441,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 116475,
+        "num": 116475,
+        "word": "上错花轿嫁对郎作者席绢封笔",
+        "onboard_time": 1763529141,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 113347,
+        "num": 113347,
+        "word": "考研人穿搭",
+        "onboard_time": 1763526563,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111900,
+        "num": 111900,
+        "word": "OBGG显示BLGViper",
+        "onboard_time": 1763527163,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108789,
+        "num": 108789,
+        "word": "迪丽热巴新剧赶上两班倒了",
+        "onboard_time": 1763525062,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色社会主义法治道路越走越宽广#"
+    }
+  }
+}

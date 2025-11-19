@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763527587695,
+  "endTime": 1763530079799,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -11,7 +11,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2645551,
+      "raw_hot": 2695957,
       "num": 209981,
       "word": "曝霍启山娜然恋情",
       "onboard_time": 1763525724,
@@ -115,6 +115,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 537496,
+      "num": 1085999,
+      "word": "高市惹大祸日本人有苦头吃了",
+      "onboard_time": 1763524941,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 518464,
       "num": 518464,
       "word": "中国飞往日本机票罕见退订潮",
@@ -203,12 +211,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392218,
-      "num": 392218,
-      "word": "高市惹大祸日本人有苦头吃了",
-      "onboard_time": 1763524941,
-      "rank": 4,
-      "category": "国内时政"
+      "raw_hot": 383438,
+      "num": 239897,
+      "word": "1吨鸭绒从17万涨到58万",
+      "onboard_time": 1763525783,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 373173,
@@ -267,12 +275,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 343295,
+      "num": 343295,
+      "word": "朝鲜代表联大发言炮轰日本",
+      "onboard_time": 1763528422,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 339781,
       "num": 263992,
       "word": "黄锐对TFBOYS十周年演唱会还没释怀",
       "onboard_time": 1763524041,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 331850,
+      "num": 206704,
+      "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
+      "onboard_time": 1763529203,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 314392,
@@ -307,12 +331,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 294507,
-      "num": 232526,
-      "word": "1吨鸭绒从17万涨到58万",
-      "onboard_time": 1763525783,
-      "rank": 27,
-      "category": "民生新闻"
+      "raw_hot": 296697,
+      "num": 296697,
+      "word": "小酒窝佟丽娅演母女",
+      "onboard_time": 1763527763,
+      "rank": 4,
+      "category": "电影"
     },
     {
       "raw_hot": 289491,
@@ -355,12 +379,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 241886,
+      "num": 241886,
+      "word": "原神",
+      "onboard_time": 1763528663,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 240590,
       "num": 244664,
       "word": "台湾居民来往大陆通行证签发口岸扩大",
       "onboard_time": 1763521281,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 237281,
+      "num": 206526,
+      "word": "刘品言生女",
+      "onboard_time": 1763529262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236779,
+      "num": 236779,
+      "word": "韩雪直播卖12.9元棉拖引热议",
+      "onboard_time": 1763529802,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 219193,
@@ -395,12 +443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 209452,
+      "num": 209452,
+      "word": "日本旅游 退票",
+      "onboard_time": 1763528123,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 208468,
       "num": 140270,
       "word": "本周狗屎运最旺的星座",
       "onboard_time": 1763478624,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 207469,
+      "num": 207469,
+      "word": "陈熠哭了",
+      "onboard_time": 1763529022,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 207406,
@@ -443,6 +507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196781,
+      "num": 196781,
+      "word": "因为嫉妒关闭朋友圈半年多了",
+      "onboard_time": 1763528482,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192963,
       "num": 192963,
       "word": "想象的移动办公vs实际的移动办公",
@@ -473,6 +545,14 @@
       "onboard_time": 1763515881,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 184703,
+      "num": 184703,
+      "word": "杨宗纬被曝是恶邻",
+      "onboard_time": 1763528002,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 180736,
@@ -507,6 +587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 168200,
+      "num": 206430,
+      "word": "中国军网在海外发布备战视频",
+      "onboard_time": 1763528482,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 167679,
       "num": 167679,
       "word": "上海女团全运会铜牌",
@@ -531,6 +619,14 @@
       "category": "电影,数码"
     },
     {
+      "raw_hot": 164288,
+      "num": 206219,
+      "word": "白鹿张凌赫将出席尖叫之夜",
+      "onboard_time": 1763529741,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 162996,
       "num": 162996,
       "word": "狂野时代",
@@ -539,8 +635,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 157582,
-      "num": 185348,
+      "raw_hot": 158536,
+      "num": 206029,
       "word": "鬼灭之刃退票率大涨",
       "onboard_time": 1763526683,
       "rank": 49,
@@ -587,6 +683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 146712,
+      "num": 146712,
+      "word": "法国夫妇害怕房子被强占不敢出远门",
+      "onboard_time": 1763526802,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142288,
       "num": 149210,
       "word": "Doinb宣布明年不打LPL",
@@ -627,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138872,
+      "num": 205892,
+      "word": "迪丽热巴闭眼打戏帅爆了",
+      "onboard_time": 1763528422,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138616,
       "num": 138616,
       "word": "祁煜甜野极驰",
@@ -652,7 +764,7 @@
     },
     {
       "raw_hot": 137105,
-      "num": 182798,
+      "num": 205749,
       "word": "华为双旗舰首发搭载第二代红枫",
       "onboard_time": 1763526862,
       "rank": 29,
@@ -707,6 +819,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 129601,
+      "num": 148587,
+      "word": "爱奇艺第三季度的剧到底谁扑街了",
+      "onboard_time": 1763527223,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129590,
+      "num": 129590,
+      "word": "何炅 看似慌慌张张实则游刃有余",
+      "onboard_time": 1763529862,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 128610,
       "num": 107796,
       "word": "女孩的棒棒糖阻止了一场持枪抢劫",
@@ -723,6 +851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 126911,
+      "num": 126911,
+      "word": "怎么判断对方本身就是很好的人",
+      "onboard_time": 1763529441,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125223,
       "num": 125223,
       "word": "OBGG显示BLGViper",
@@ -731,20 +867,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124990,
+      "num": 151522,
+      "word": "杨瀚森高效得到4分",
+      "onboard_time": 1763529862,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124497,
       "num": 172602,
       "word": "谁家男女主打着打着就亲上了",
       "onboard_time": 1763522061,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123913,
-      "num": 123913,
-      "word": "法国夫妇害怕房子被强占不敢出远门",
-      "onboard_time": 1763526802,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 123045,
@@ -777,6 +913,14 @@
       "onboard_time": 1763519539,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 116475,
+      "num": 116475,
+      "word": "上错花轿嫁对郎作者席绢封笔",
+      "onboard_time": 1763529141,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 115919,
@@ -1081,14 +1225,6 @@
       "onboard_time": 1763510000,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 81080,
-      "num": 148587,
-      "word": "爱奇艺第三季度的剧到底谁扑街了",
-      "onboard_time": 1763527223,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 80588,
@@ -1467,6 +1603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23221,
+      "num": 241182,
+      "word": "别在台湾问题上玩火",
+      "onboard_time": 1763529623,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 21679,
       "num": 36073,
       "word": "韩国召见日本公使严正抗议",
@@ -1539,7 +1683,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 5312,
+      "raw_hot": 7511,
       "num": 420178,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,

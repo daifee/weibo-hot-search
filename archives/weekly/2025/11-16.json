@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763527587695,
+  "endTime": 1763530079799,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -59,7 +59,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 2645551,
+      "raw_hot": 2695957,
       "num": 209981,
       "word": "曝霍启山娜然恋情",
       "onboard_time": 1763525724,
@@ -1171,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 537496,
+      "num": 1085999,
+      "word": "高市惹大祸日本人有苦头吃了",
+      "onboard_time": 1763524941,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 536263,
       "num": 414938,
       "word": "朱雨玲陈梦无关胜负满是情怀",
@@ -1923,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 392218,
-      "num": 392218,
-      "word": "高市惹大祸日本人有苦头吃了",
-      "onboard_time": 1763524941,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 389789,
       "num": 242421,
       "word": "官方回应张博恒失误时裁判鼓掌大笑",
@@ -1969,6 +1969,14 @@
       "onboard_time": 1763304564,
       "rank": 3,
       "category": "演出"
+    },
+    {
+      "raw_hot": 383438,
+      "num": 239897,
+      "word": "1吨鸭绒从17万涨到58万",
+      "onboard_time": 1763525783,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 382962,
@@ -2315,6 +2323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343295,
+      "num": 343295,
+      "word": "朝鲜代表联大发言炮轰日本",
+      "onboard_time": 1763528422,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 342176,
       "num": 224617,
       "word": "Viper去哪儿",
@@ -2401,6 +2417,14 @@
       "onboard_time": 1763471423,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 331850,
+      "num": 206704,
+      "word": "男孩爱打游戏被送戒网瘾学校遭性侵",
+      "onboard_time": 1763529203,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 331354,
@@ -2715,6 +2739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 296697,
+      "num": 296697,
+      "word": "小酒窝佟丽娅演母女",
+      "onboard_time": 1763527763,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 296495,
       "num": 296495,
       "word": "钟楚曦 我现在就是昂首挺胸的",
@@ -2729,14 +2761,6 @@
       "onboard_time": 1763377942,
       "rank": 23,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 294507,
-      "num": 232526,
-      "word": "1吨鸭绒从17万涨到58万",
-      "onboard_time": 1763525783,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 293094,
@@ -3275,6 +3299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 241886,
+      "num": 241886,
+      "word": "原神",
+      "onboard_time": 1763528663,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 241266,
       "num": 241266,
       "word": "户外博主坠亡遗体被无人机运下山",
@@ -3329,6 +3361,22 @@
       "onboard_time": 1763386282,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 237281,
+      "num": 206526,
+      "word": "刘品言生女",
+      "onboard_time": 1763529262,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 236779,
+      "num": 236779,
+      "word": "韩雪直播卖12.9元棉拖引热议",
+      "onboard_time": 1763529802,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 236454,
@@ -3699,6 +3747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209452,
+      "num": 209452,
+      "word": "日本旅游 退票",
+      "onboard_time": 1763528123,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 209179,
       "num": 209179,
       "word": "陈妤颉女子100米金牌",
@@ -3753,6 +3809,14 @@
       "onboard_time": 1763302163,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207469,
+      "num": 207469,
+      "word": "陈熠哭了",
+      "onboard_time": 1763529022,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 207406,
@@ -4033,6 +4097,14 @@
       "onboard_time": 1763514322,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196781,
+      "num": 196781,
+      "word": "因为嫉妒关闭朋友圈半年多了",
+      "onboard_time": 1763528482,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 196715,
@@ -4568,6 +4640,14 @@
       "word": "周深 手提行李超重",
       "onboard_time": 1763273842,
       "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 184703,
+      "num": 184703,
+      "word": "杨宗纬被曝是恶邻",
+      "onboard_time": 1763528002,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -5163,6 +5243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168200,
+      "num": 206430,
+      "word": "中国军网在海外发布备战视频",
+      "onboard_time": 1763528482,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 168158,
       "num": 168158,
       "word": "纪念币",
@@ -5297,6 +5385,14 @@
       "onboard_time": 1763436682,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164288,
+      "num": 206219,
+      "word": "白鹿张凌赫将出席尖叫之夜",
+      "onboard_time": 1763529741,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 163561,
@@ -5531,6 +5627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158536,
+      "num": 206029,
+      "word": "鬼灭之刃退票率大涨",
+      "onboard_time": 1763526683,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 158466,
       "num": 158466,
       "word": "和王安宇打上视频了",
@@ -5585,14 +5689,6 @@
       "onboard_time": 1763463621,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 157582,
-      "num": 185348,
-      "word": "鬼灭之刃退票率大涨",
-      "onboard_time": 1763526683,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 157419,
@@ -6155,6 +6251,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 146712,
+      "num": 146712,
+      "word": "法国夫妇害怕房子被强占不敢出远门",
+      "onboard_time": 1763526802,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 146443,
       "num": 146443,
       "word": "Faker看自己S7决赛痛哭",
@@ -6451,6 +6555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138872,
+      "num": 205892,
+      "word": "迪丽热巴闭眼打戏帅爆了",
+      "onboard_time": 1763528422,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138809,
       "num": 138809,
       "word": "李冰洁 赛前真的有在努力了",
@@ -6548,7 +6660,7 @@
     },
     {
       "raw_hot": 137105,
-      "num": 182798,
+      "num": 205749,
       "word": "华为双旗舰首发搭载第二代红枫",
       "onboard_time": 1763526862,
       "rank": 29,
@@ -6963,6 +7075,22 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 129601,
+      "num": 148587,
+      "word": "爱奇艺第三季度的剧到底谁扑街了",
+      "onboard_time": 1763527223,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 129590,
+      "num": 129590,
+      "word": "何炅 看似慌慌张张实则游刃有余",
+      "onboard_time": 1763529862,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129505,
       "num": 129505,
       "word": "十五运乒乓男团第二阶段签表",
@@ -7115,6 +7243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 126911,
+      "num": 126911,
+      "word": "怎么判断对方本身就是很好的人",
+      "onboard_time": 1763529441,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126829,
       "num": 126829,
       "word": "A股成交1.91万亿缩量473亿",
@@ -7191,6 +7327,14 @@
       "num": 147556,
       "word": "张博恒是发烧了",
       "onboard_time": 1763357602,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 124990,
+      "num": 151522,
+      "word": "杨瀚森高效得到4分",
+      "onboard_time": 1763529862,
       "rank": 39,
       "category": "体育"
     },
@@ -7297,14 +7441,6 @@
       "onboard_time": 1763336539,
       "rank": 16,
       "category": "综艺,动漫"
-    },
-    {
-      "raw_hot": 123913,
-      "num": 123913,
-      "word": "法国夫妇害怕房子被强占不敢出远门",
-      "onboard_time": 1763526802,
-      "rank": 45,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 123743,
@@ -7889,6 +8025,14 @@
       "onboard_time": 1763450662,
       "rank": 39,
       "category": "网红"
+    },
+    {
+      "raw_hot": 116475,
+      "num": 116475,
+      "word": "上错花轿嫁对郎作者席绢封笔",
+      "onboard_time": 1763529141,
+      "rank": 46,
+      "category": "读书作家"
     },
     {
       "raw_hot": 116390,
@@ -9897,14 +10041,6 @@
       "onboard_time": 1763449462,
       "rank": 19,
       "category": "数码"
-    },
-    {
-      "raw_hot": 81080,
-      "num": 148587,
-      "word": "爱奇艺第三季度的剧到底谁扑街了",
-      "onboard_time": 1763527223,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 81015,
@@ -12099,6 +12235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23221,
+      "num": 241182,
+      "word": "别在台湾问题上玩火",
+      "onboard_time": 1763529623,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22865,
       "num": 189864,
       "word": "起底快通门票套餐陷阱",
@@ -12491,7 +12635,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 5312,
+      "raw_hot": 7511,
       "num": 420178,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,
