@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763560223835,
+  "endTime": 1763562475032,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -33,6 +33,14 @@
       "onboard_time": 1763515821,
       "rank": 20,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1830171,
+      "num": 354181,
+      "word": "喻恩泰回应",
+      "onboard_time": 1763559924,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1550321,
@@ -81,6 +89,14 @@
       "onboard_time": 1763531480,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1216518,
+      "num": 354089,
+      "word": "陈梦哭了",
+      "onboard_time": 1763559924,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 1143356,
@@ -136,14 +152,6 @@
       "word": "丁泽仁称被唯一的姐要求结扎",
       "onboard_time": 1763531901,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 899701,
-      "num": 321478,
-      "word": "喻恩泰回应",
-      "onboard_time": 1763559924,
-      "rank": 10,
       "category": "艺人"
     },
     {
@@ -363,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 518343,
+      "num": 283103,
+      "word": "感觉乔欣的面相变了",
+      "onboard_time": 1763560043,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513769,
       "num": 208197,
       "word": "罗志祥自曝患微笑忧郁症",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 513651,
-      "num": 352057,
+      "num": 352125,
       "word": "丁泽仁评论区 0人在意丁泽仁",
       "onboard_time": 1763555302,
       "rank": 24,
@@ -579,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412674,
+      "num": 412674,
+      "word": "孙颖莎何卓佳王添艺亚军",
+      "onboard_time": 1763560643,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 412476,
       "num": 412476,
       "word": "声生不息华流季官宣",
@@ -603,11 +627,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 397767,
-      "num": 294249,
-      "word": "陈梦哭了",
-      "onboard_time": 1763559924,
-      "rank": 16,
+      "raw_hot": 399263,
+      "num": 353881,
+      "word": "孙颖莎安慰何卓佳",
+      "onboard_time": 1763560762,
+      "rank": 12,
       "category": "体育"
     },
     {
@@ -635,6 +659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 367259,
+      "num": 353733,
+      "word": "杨芸晴工作室只剩下一个人",
+      "onboard_time": 1763561725,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 367218,
       "num": 367218,
       "word": "日本网友要求高市向中国道歉",
@@ -649,6 +681,14 @@
       "onboard_time": 1763516061,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 365134,
+      "num": 355014,
+      "word": "陈梦全运第二金",
+      "onboard_time": 1763559683,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 362732,
@@ -691,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 353591,
+      "num": 353591,
+      "word": "张一山没有不红 是红的太早了",
+      "onboard_time": 1763560643,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 353351,
       "num": 353351,
       "word": "杨瀚森9分5篮板3助攻",
@@ -713,14 +761,6 @@
       "onboard_time": 1763508078,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 344962,
-      "num": 283103,
-      "word": "感觉乔欣的面相变了",
-      "onboard_time": 1763560043,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 341336,
@@ -867,6 +907,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 296969,
+      "num": 354776,
+      "word": "日本多次不宣而战",
+      "onboard_time": 1763559983,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 296697,
       "num": 296697,
       "word": "小酒窝佟丽娅演母女",
@@ -937,14 +985,6 @@
       "onboard_time": 1763540722,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 268014,
-      "num": 268014,
-      "word": "陈梦全运第二金",
-      "onboard_time": 1763559683,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 267043,
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215871,
+      "num": 354393,
+      "word": "iG转会",
+      "onboard_time": 1763559805,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 214182,
       "num": 214182,
       "word": "专家称日本高官来华碰得头破血流",
@@ -1209,6 +1257,14 @@
       "onboard_time": 1763534540,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203587,
+      "num": 203587,
+      "word": "中金",
+      "onboard_time": 1763562203,
+      "rank": 25,
+      "category": "财经"
     },
     {
       "raw_hot": 202225,
@@ -1299,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 192997,
+      "num": 192997,
+      "word": "中金公司将停牌",
+      "onboard_time": 1763562203,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 192977,
       "num": 206219,
       "word": "白鹿张凌赫将出席尖叫之夜",
@@ -1371,6 +1435,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185457,
+      "num": 185457,
+      "word": "演员配音 算票房",
+      "onboard_time": 1763561484,
+      "rank": 28,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 184703,
       "num": 184703,
       "word": "杨宗纬被曝是恶邻",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1763535922,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183475,
+      "num": 183475,
+      "word": "网红橙子姐姐被封号",
+      "onboard_time": 1763561784,
+      "rank": 31,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 182149,
@@ -1433,14 +1513,6 @@
       "onboard_time": 1763516661,
       "rank": 33,
       "category": "电影"
-    },
-    {
-      "raw_hot": 174865,
-      "num": 174865,
-      "word": "iG转会",
-      "onboard_time": 1763559805,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 173848,
@@ -1580,7 +1652,7 @@
     },
     {
       "raw_hot": 157151,
-      "num": 155691,
+      "num": 184567,
       "word": "看易烊千玺李庚希亲密戏需要心理委员",
       "onboard_time": 1763559384,
       "rank": 43,
@@ -1715,12 +1787,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 146671,
+      "num": 146671,
+      "word": "中金拟换股吸收合并东兴证券信达证券",
+      "onboard_time": 1763562263,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 146616,
       "num": 146616,
       "word": "王一博粉丝挺难 粉上只岩羊",
       "onboard_time": 1763550803,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 146252,
+      "num": 189916,
+      "word": "台当局竟要求民众绝不向大陆投降",
+      "onboard_time": 1763560103,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146189,
@@ -1745,6 +1833,14 @@
       "onboard_time": 1763540003,
       "rank": 42,
       "category": "国内时政,国际时政"
+    },
+    {
+      "raw_hot": 143300,
+      "num": 143300,
+      "word": "又一国产AI应用跻身AppStore前三",
+      "onboard_time": 1763562082,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 142900,
@@ -1809,6 +1905,22 @@
       "onboard_time": 1763538202,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141094,
+      "num": 141094,
+      "word": "孙颖莎丢球后把自己训了一顿",
+      "onboard_time": 1763560403,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140746,
+      "num": 140746,
+      "word": "感冒原来不是冻出来的",
+      "onboard_time": 1763561903,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 140625,
@@ -1923,6 +2035,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136164,
+      "num": 136164,
+      "word": "吴艳妮回应银牌",
+      "onboard_time": 1763561963,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134732,
       "num": 134732,
       "word": "考研人穿搭",
@@ -1979,12 +2099,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131983,
+      "num": 131983,
+      "word": "山东河北女团拼尽全力",
+      "onboard_time": 1763561363,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131913,
       "num": 160664,
       "word": "唐诡这位尸兄不敢看第二眼",
       "onboard_time": 1763536101,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131616,
+      "num": 131616,
+      "word": "徐卓一110米栏冠军",
+      "onboard_time": 1763561903,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 131452,
+      "num": 131452,
+      "word": "陈梦泪洒赛场",
+      "onboard_time": 1763561184,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 131415,
@@ -2065,6 +2209,14 @@
       "onboard_time": 1763544023,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126129,
+      "num": 126129,
+      "word": "芒果在声生不息建了条唐人街",
+      "onboard_time": 1763562441,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 125864,
@@ -2899,14 +3051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63414,
-      "num": 263779,
-      "word": "日本多次不宣而战",
-      "onboard_time": 1763559983,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 62674,
       "num": 157410,
       "word": "深夜开锁被索要4170元女生发声",
@@ -3273,14 +3417,6 @@
       "onboard_time": 1763536101,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34502,
-      "num": 189916,
-      "word": "台当局竟要求民众绝不向大陆投降",
-      "onboard_time": 1763560103,
-      "rank": 32,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34470,

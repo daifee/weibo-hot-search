@@ -1,0 +1,410 @@
+{
+  "runTime": 1763562475032,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1917335,
+        "num": 1917335,
+        "word": "陈梦王晓彤范思琦冠军",
+        "onboard_time": 1763559384,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1040155,
+        "num": 1040155,
+        "word": "吴艳妮银牌",
+        "onboard_time": 1763558662,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43483,
+        "num": 575646,
+        "word": "第十五届全运会",
+        "onboard_time": 1763545582,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 412674,
+        "num": 412674,
+        "word": "孙颖莎何卓佳王添艺亚军",
+        "onboard_time": 1763560643,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355103,
+        "num": 355103,
+        "word": "俄罗斯警告高市早苗",
+        "onboard_time": 1763549003,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365134,
+        "num": 355014,
+        "word": "陈梦全运第二金",
+        "onboard_time": 1763559683,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296969,
+        "num": 354776,
+        "word": "日本多次不宣而战",
+        "onboard_time": 1763559983,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226954,
+        "num": 354754,
+        "word": "互相包场 互相点评 互相颁奖",
+        "onboard_time": 1763553802,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223552,
+        "num": 354509,
+        "word": "何卓佳2比3范思琦",
+        "onboard_time": 1763559683,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 215871,
+        "num": 354393,
+        "word": "iG转会",
+        "onboard_time": 1763559805,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1830171,
+        "num": 354181,
+        "word": "喻恩泰回应",
+        "onboard_time": 1763559924,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1216518,
+        "num": 354089,
+        "word": "陈梦哭了",
+        "onboard_time": 1763559924,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 399263,
+        "num": 353881,
+        "word": "孙颖莎安慰何卓佳",
+        "onboard_time": 1763560762,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 367259,
+        "num": 353733,
+        "word": "杨芸晴工作室只剩下一个人",
+        "onboard_time": 1763561725,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353591,
+        "num": 353591,
+        "word": "张一山没有不红 是红的太早了",
+        "onboard_time": 1763560643,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352125,
+        "num": 352125,
+        "word": "丁泽仁评论区 0人在意丁泽仁",
+        "onboard_time": 1763555302,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264720,
+        "num": 264720,
+        "word": "李诞劝大家不要算命",
+        "onboard_time": 1763558905,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250357,
+        "num": 250357,
+        "word": "朱志鑫直播",
+        "onboard_time": 1763550022,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193447,
+        "num": 245411,
+        "word": "声生不息华流季官宣",
+        "onboard_time": 1763555602,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53546,
+        "num": 241272,
+        "word": "安全背后大有乾崑",
+        "onboard_time": 1763558724,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 914557,
+        "num": 237542,
+        "word": "唐嫣 罗晋",
+        "onboard_time": 1763545222,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596232,
+        "num": 229985,
+        "word": "演戏自己不配音 却给动画配音",
+        "onboard_time": 1763553922,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 518343,
+        "num": 228834,
+        "word": "感觉乔欣的面相变了",
+        "onboard_time": 1763560043,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223916,
+        "num": 223916,
+        "word": "何炅以后探店的话我是一家不去",
+        "onboard_time": 1763551222,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221652,
+        "num": 221652,
+        "word": "陈梦3比0胜王添艺",
+        "onboard_time": 1763554102,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 203587,
+        "num": 203587,
+        "word": "中金",
+        "onboard_time": 1763562203,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 192997,
+        "num": 192997,
+        "word": "中金公司将停牌",
+        "onboard_time": 1763562203,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 186990,
+        "num": 186990,
+        "word": "孙颖莎3比1胜范思琦",
+        "onboard_time": 1763552722,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185457,
+        "num": 185457,
+        "word": "演员配音 算票房",
+        "onboard_time": 1763561484,
+        "rank": 28,
+        "category": "电影,动漫"
+      },
+      {
+        "raw_hot": 126383,
+        "num": 184567,
+        "word": "看易烊千玺李庚希亲密戏需要心理委员",
+        "onboard_time": 1763559384,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 184470,
+        "num": 184470,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183475,
+        "num": 183475,
+        "word": "网红橙子姐姐被封号",
+        "onboard_time": 1763561784,
+        "rank": 31,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 124423,
+        "num": 170261,
+        "word": "唐诡 颜真卿",
+        "onboard_time": 1763556983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 169100,
+        "num": 169100,
+        "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
+        "onboard_time": 1763545881,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151253,
+        "num": 151253,
+        "word": "日本经济绷不住了",
+        "onboard_time": 1763539464,
+        "rank": 34,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 150492,
+        "num": 150492,
+        "word": "KT官宣Ghost以辅助位加入",
+        "onboard_time": 1763558183,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150126,
+        "num": 150126,
+        "word": "孙颖莎3比0王晓彤",
+        "onboard_time": 1763556021,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146671,
+        "num": 146671,
+        "word": "中金拟换股吸收合并东兴证券信达证券",
+        "onboard_time": 1763562263,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 146252,
+        "num": 146252,
+        "word": "台当局竟要求民众绝不向大陆投降",
+        "onboard_time": 1763560103,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143300,
+        "num": 143300,
+        "word": "又一国产AI应用跻身AppStore前三",
+        "onboard_time": 1763562082,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141094,
+        "num": 141094,
+        "word": "孙颖莎丢球后把自己训了一顿",
+        "onboard_time": 1763560403,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140746,
+        "num": 140746,
+        "word": "感冒原来不是冻出来的",
+        "onboard_time": 1763561903,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136164,
+        "num": 136164,
+        "word": "吴艳妮回应银牌",
+        "onboard_time": 1763561963,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135556,
+        "num": 135556,
+        "word": "孙颖莎11比2王晓彤",
+        "onboard_time": 1763556261,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133543,
+        "num": 133543,
+        "word": "梦天拍的朱志鑫",
+        "onboard_time": 1763543782,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131983,
+        "num": 131983,
+        "word": "山东河北女团拼尽全力",
+        "onboard_time": 1763561363,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131616,
+        "num": 131616,
+        "word": "徐卓一110米栏冠军",
+        "onboard_time": 1763561903,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131452,
+        "num": 131452,
+        "word": "陈梦泪洒赛场",
+        "onboard_time": 1763561184,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126320,
+        "num": 126320,
+        "word": "田曦薇每顿都吃到发晕",
+        "onboard_time": 1763558844,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126129,
+        "num": 126129,
+        "word": "芒果在声生不息建了条唐人街",
+        "onboard_time": 1763562441,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色社会主义法治道路越走越宽广#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 21:50:23
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/19 22:27:55
 </p>
 </blockquote>
 <p>
@@ -335,6 +335,12 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%23" target="weibo">
 立冬（热度：1842127）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E6%81%A9%E6%B3%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
+喻恩泰回应（热度：1830171）
 </a>
 </li>
 
@@ -863,6 +869,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BB%A1%E6%B8%85%E9%87%8E%E5%8F%B2%23" target="weibo">
 满清野史（热度：1220113）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%93%AD%E4%BA%86%23" target="weibo">
+陈梦哭了（热度：1216518）
 </a>
 </li>
 
@@ -1565,12 +1577,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B2%8D%E8%95%BE%E5%9B%A0%E8%B4%9D%E5%84%BF%E8%AF%BE%E4%B8%9A%E5%A5%94%E6%BA%83%E6%8B%8D%E6%A1%8C%E5%AD%90%23" target="weibo">
 鲍蕾因贝儿课业奔溃拍桌子（热度：902678）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E6%81%A9%E6%B3%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
-喻恩泰回应（热度：899701）
 </a>
 </li>
 
@@ -4497,6 +4503,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E4%B9%94%E6%AC%A3%E7%9A%84%E9%9D%A2%E7%9B%B8%E5%8F%98%E4%BA%86%23" target="weibo">
+感觉乔欣的面相变了（热度：518343）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%85%92%E5%BA%97%E9%80%80%E8%AE%A2%E6%BD%AE%23" target="weibo">
 日本酒店退订潮（热度：517671）
 </a>
@@ -5999,18 +6011,6 @@ k总老婆因经常喝热水食道被灼伤（热度：431857）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B170%E4%B8%87%E4%B9%B0%E4%BA%86%E4%B8%AA%E9%98%B3%E5%8F%B0%E9%87%8C%E7%9A%84%E4%B8%80%E5%AE%A4%E4%B8%80%E5%8E%85%23" target="weibo">
 花70万买了个阳台里的一室一厅（热度：430759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%92%E7%9B%B8%E5%8C%85%E5%9C%BA%20%E4%BA%92%E7%9B%B8%E7%82%B9%E8%AF%84%20%E4%BA%92%E7%9B%B8%E9%A2%81%E5%A5%96%23" target="weibo">
-互相包场 互相点评 互相颁奖（热度：430139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%B8%E5%8D%8E%E6%A3%AE%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E6%88%8F%E4%BB%BD%23" target="weibo">
-常华森天地剑心戏份（热度：429845）
 </a>
 </li>
 
