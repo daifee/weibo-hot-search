@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763591196158,
+  "endTime": 1763592153187,
   "band_list": [
     {
       "raw_hot": 444116,
@@ -187,6 +187,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 111557,
+      "num": 181261,
+      "word": "台当局竟要求民众绝不向大陆投降",
+      "onboard_time": 1763560103,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110226,
       "num": 181624,
       "word": "张一山没有不红 是红的太早了",
@@ -225,14 +233,6 @@
       "onboard_time": 1763554102,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98102,
-      "num": 181261,
-      "word": "台当局竟要求民众绝不向大陆投降",
-      "onboard_time": 1763560103,
-      "rank": 26,
-      "category": "国内时政"
     },
     {
       "raw_hot": 98092,
@@ -283,12 +283,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75407,
+      "num": 73316,
+      "word": "员工偷150支钢笔被判7年",
+      "onboard_time": 1763573057,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 73929,
+      "num": 73929,
+      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
+      "onboard_time": 1763572757,
+      "rank": 34,
+      "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 73597,
+      "num": 51291,
+      "word": "高市早苗到底水有多深",
+      "onboard_time": 1763574855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73018,
       "num": 180887,
       "word": "陈梦全运第二金",
       "onboard_time": 1763559683,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72324,
+      "num": 180838,
+      "word": "中方将不得不采取严厉坚决的反制措施",
+      "onboard_time": 1763562623,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 71073,
@@ -305,14 +337,6 @@
       "onboard_time": 1763553802,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 65741,
-      "num": 180838,
-      "word": "中方将不得不采取严厉坚决的反制措施",
-      "onboard_time": 1763562623,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62780,
@@ -337,14 +361,6 @@
       "onboard_time": 1763559683,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 60370,
-      "num": 43532,
-      "word": "高市早苗到底水有多深",
-      "onboard_time": 1763574855,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 59823,
@@ -387,22 +403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 57888,
-      "num": 73316,
-      "word": "员工偷150支钢笔被判7年",
-      "onboard_time": 1763573057,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 57619,
-      "num": 73435,
-      "word": "网红橙子姐姐曾邀女网友去柬埔寨",
-      "onboard_time": 1763572757,
-      "rank": 34,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 56979,
       "num": 180513,
       "word": "日本电影在华红利或将终结",
@@ -443,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45240,
+      "num": 45240,
+      "word": "荷兰经济大臣发表声明",
+      "onboard_time": 1763586074,
+      "rank": 42,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36959,
       "num": 158514,
       "word": "张弛象人舞台喜人亲友团全吻上来了",
@@ -451,16 +459,16 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 35136,
-      "num": 35136,
-      "word": "荷兰经济大臣发表声明",
-      "onboard_time": 1763586074,
-      "rank": 42,
+      "raw_hot": 36144,
+      "num": 45217,
+      "word": "荷兰暂停针对安世半导体行政令",
+      "onboard_time": 1763574315,
+      "rank": 48,
       "category": "国际时政"
     },
     {
       "raw_hot": 35104,
-      "num": 35104,
+      "num": 45168,
       "word": "方头明爆改可爱女人",
       "onboard_time": 1763574436,
       "rank": 30,
@@ -475,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 32970,
+      "num": 45213,
+      "word": "全运会两位解说打的披头散发",
+      "onboard_time": 1763581514,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32938,
       "num": 180366,
       "word": "疯狂动物城2配音",
@@ -483,11 +499,19 @@
       "category": "电影,动漫"
     },
     {
-      "raw_hot": 30762,
-      "num": 33388,
-      "word": "荷兰暂停针对安世半导体行政令",
-      "onboard_time": 1763574315,
-      "rank": 48,
+      "raw_hot": 32503,
+      "num": 45211,
+      "word": "母亲回应炫耀孩子招杀身之祸言论",
+      "onboard_time": 1763575156,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29853,
+      "num": 45198,
+      "word": "高市证实与新纳粹组织党首合影",
+      "onboard_time": 1763574017,
+      "rank": 42,
       "category": "国际时政"
     },
     {
@@ -507,36 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 26614,
-      "num": 30746,
-      "word": "全运会两位解说打的披头散发",
-      "onboard_time": 1763581514,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 26544,
-      "num": 30735,
+      "raw_hot": 27226,
+      "num": 45188,
       "word": "乒乓球女团山东夺冠",
       "onboard_time": 1763585173,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 24979,
-      "num": 34996,
-      "word": "母亲回应炫耀孩子招杀身之祸言论",
-      "onboard_time": 1763575156,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24315,
-      "num": 34983,
-      "word": "高市证实与新纳粹组织党首合影",
-      "onboard_time": 1763574017,
-      "rank": 42,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23790,
@@ -548,7 +548,7 @@
     },
     {
       "raw_hot": 21119,
-      "num": 34955,
+      "num": 45157,
       "word": "高市早苗对美国亦步亦趋",
       "onboard_time": 1763574375,
       "rank": 45,
@@ -585,6 +585,22 @@
       "onboard_time": 1763577854,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16938,
+      "num": 45151,
+      "word": "王欣瑜无缘全运会女单决赛",
+      "onboard_time": 1763591836,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 16544,
+      "num": 45149,
+      "word": "国际金银反弹",
+      "onboard_time": 1763592137,
+      "rank": 49,
+      "category": "财经"
     }
   ],
   "hotgov_list": [

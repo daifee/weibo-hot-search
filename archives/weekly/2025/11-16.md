@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/20 06:26:36
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/20 06:42:33
 </p>
 </blockquote>
 <p>
@@ -9111,6 +9111,12 @@ Kael蹲在角落发呆（热度：81323）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%81%B7150%E6%94%AF%E9%92%A2%E7%AC%94%E8%A2%AB%E5%88%A47%E5%B9%B4%23" target="weibo">
+员工偷150支钢笔被判7年（热度：75407）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81KAZE%E7%AB%9F%E7%84%B6%E8%BF%98%E6%9C%89%E5%94%AE%E5%90%8E%23" target="weibo">
 刘宇宁KAZE竟然还有售后（热度：75362）
 </a>
@@ -9153,6 +9159,12 @@ iPhone17Pro掉色门问题再发酵（热度：74167）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%A9%99%E5%AD%90%E5%A7%90%E5%A7%90%E6%9B%BE%E9%82%80%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%8E%BB%E6%9F%AC%E5%9F%94%E5%AF%A8%23" target="weibo">
+网红橙子姐姐曾邀女网友去柬埔寨（热度：73929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E5%8F%8D%E5%88%B6%E7%BB%84%E5%90%88%E6%8B%B3%E7%B2%BE%E5%87%86%E5%88%B0%E4%BD%8D%23" target="weibo">
 中方对日反制组合拳精准到位（热度：73727）
 </a>
@@ -9161,6 +9173,12 @@ iPhone17Pro掉色门问题再发酵（热度：74167）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E1%E6%AF%943%E8%90%BD%E5%90%8E%E5%87%BA%E5%8E%BB%E6%8D%A2%E4%BA%86%E4%BB%B6%E8%A1%A3%E6%9C%8D%23" target="weibo">
 孙颖莎1比3落后出去换了件衣服（热度：73663）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%B0%E5%BA%95%E6%B0%B4%E6%9C%89%E5%A4%9A%E6%B7%B1%23" target="weibo">
+高市早苗到底水有多深（热度：73597）
 </a>
 </li>
 
@@ -9507,12 +9525,6 @@ Viper告别视频（热度：61040）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%B0%E5%BA%95%E6%B0%B4%E6%9C%89%E5%A4%9A%E6%B7%B1%23" target="weibo">
-高市早苗到底水有多深（热度：60370）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9DPeyz%E9%A1%B6%E8%96%AA%E7%AD%BE%E7%BA%A6T1%23" target="weibo">
 曝Peyz顶薪签约T1（热度：59823）
 </a>
@@ -9575,18 +9587,6 @@ C919和C909首次亮相中东（热度：58900）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%A5%BF%E8%80%81%E5%A4%AA%E8%97%8F%E5%B0%B8%E6%A1%88%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%A5%B3%E5%84%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
 江西老太藏尸案被害人女儿发声（热度：57950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%98%E5%B7%A5%E5%81%B7150%E6%94%AF%E9%92%A2%E7%AC%94%E8%A2%AB%E5%88%A47%E5%B9%B4%23" target="weibo">
-员工偷150支钢笔被判7年（热度：57888）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%A9%99%E5%AD%90%E5%A7%90%E5%A7%90%E6%9B%BE%E9%82%80%E5%A5%B3%E7%BD%91%E5%8F%8B%E5%8E%BB%E6%9F%AC%E5%9F%94%E5%AF%A8%23" target="weibo">
-网红橙子姐姐曾邀女网友去柬埔寨（热度：57619）
 </a>
 </li>
 
@@ -9993,6 +9993,12 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%87%A3%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23" target="weibo">
+荷兰经济大臣发表声明（热度：45240）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%94%BF%E5%AE%A2%E7%94%A9%E9%94%85%E6%B6%89%E5%8F%B0%E6%8F%90%E9%97%AE%E8%80%85%23" target="weibo">
 日政客甩锅涉台提问者（热度：44710）
 </a>
@@ -10305,6 +10311,12 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%9A%82%E5%81%9C%E9%92%88%E5%AF%B9%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E6%94%BF%E4%BB%A4%23" target="weibo">
+荷兰暂停针对安世半导体行政令（热度：36144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%83%BD%E6%92%91%E5%A4%9A%E4%B9%85%23" target="weibo">
 高市早苗能撑多久（热度：36110）
 </a>
@@ -10367,12 +10379,6 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%84%8F%E4%B8%8D%E5%A5%BD%E5%85%88%E6%89%93%E4%B8%AA%E7%AA%9D%23" target="weibo">
 生意不好先打个窝（热度：35279）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E7%BB%8F%E6%B5%8E%E5%A4%A7%E8%87%A3%E5%8F%91%E8%A1%A8%E5%A3%B0%E6%98%8E%23" target="weibo">
-荷兰经济大臣发表声明（热度：35136）
 </a>
 </li>
 
@@ -10485,8 +10491,20 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%A4%E4%BD%8D%E8%A7%A3%E8%AF%B4%E6%89%93%E7%9A%84%E6%8A%AB%E5%A4%B4%E6%95%A3%E5%8F%91%23" target="weibo">
+全运会两位解说打的披头散发（热度：32970）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E5%89%A7%E5%9C%BA%E7%89%88%E6%9A%82%E5%B1%85%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E6%A6%9C%E7%AC%AC5%23" target="weibo">
 鬼灭之刃剧场版暂居全球票房年榜第5（热度：32776）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E7%82%AB%E8%80%80%E5%AD%A9%E5%AD%90%E6%8B%9B%E6%9D%80%E8%BA%AB%E4%B9%8B%E7%A5%B8%E8%A8%80%E8%AE%BA%23" target="weibo">
+母亲回应炫耀孩子招杀身之祸言论（热度：32503）
 </a>
 </li>
 
@@ -10599,12 +10617,6 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%9A%82%E5%81%9C%E9%92%88%E5%AF%B9%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%E8%A1%8C%E6%94%BF%E4%BB%A4%23" target="weibo">
-荷兰暂停针对安世半导体行政令（热度：30762）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%8A%8A%E8%87%AA%E5%B7%B1%E5%94%B1%E5%93%AD%E4%BA%86%23" target="weibo">
 刘宇宁把自己唱哭了（热度：30753）
 </a>
@@ -10649,6 +10661,12 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E6%B8%B8%E5%AE%A2%E5%B0%86%E8%BD%A6%E5%BC%80%E8%BF%9B%E9%98%BF%E5%B0%94%E5%B1%B1%E4%B8%8D%E5%86%BB%E6%B2%B3%E6%89%93%E5%8D%A1%23" target="weibo">
 多名游客将车开进阿尔山不冻河打卡（热度：30043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E8%AF%81%E5%AE%9E%E4%B8%8E%E6%96%B0%E7%BA%B3%E7%B2%B9%E7%BB%84%E7%BB%87%E5%85%9A%E9%A6%96%E5%90%88%E5%BD%B1%23" target="weibo">
+高市证实与新纳粹组织党首合影（热度：29853）
 </a>
 </li>
 
@@ -10719,6 +10737,12 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2%E5%B1%B1%E4%B8%9C%E5%A4%BA%E5%86%A0%23" target="weibo">
+乒乓球女团山东夺冠（热度：27226）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E4%B8%9C%E8%A5%BF%E7%9C%9F%E6%98%AF%E5%A5%BD%E4%B8%9C%E8%A5%BF%23" target="weibo">
 好东西真是好东西（热度：27123）
 </a>
@@ -10743,20 +10767,8 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%A4%E4%BD%8D%E8%A7%A3%E8%AF%B4%E6%89%93%E7%9A%84%E6%8A%AB%E5%A4%B4%E6%95%A3%E5%8F%91%23" target="weibo">
-全运会两位解说打的披头散发（热度：26614）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%9D%E5%AE%89%E8%B6%8548%E5%B0%8F%E6%97%B6%E6%8A%A2%E6%95%91%E6%97%A0%E6%95%88%E5%B7%A5%E4%BC%A4%E9%81%AD%E6%8B%92%23" target="weibo">
 保安超48小时抢救无效工伤遭拒（热度：26545）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2%E5%B1%B1%E4%B8%9C%E5%A4%BA%E5%86%A0%23" target="weibo">
-乒乓球女团山东夺冠（热度：26544）
 </a>
 </li>
 
@@ -10827,12 +10839,6 @@ JackeyLove对十年前说的话（热度：53469）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E5%9B%9E%E5%BA%94%E7%82%AB%E8%80%80%E5%AD%A9%E5%AD%90%E6%8B%9B%E6%9D%80%E8%BA%AB%E4%B9%8B%E7%A5%B8%E8%A8%80%E8%AE%BA%23" target="weibo">
-母亲回应炫耀孩子招杀身之祸言论（热度：24979）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E6%9F%90%E5%AD%A6%E6%9C%AF%E9%80%A0%E5%81%87%E6%9A%B4%E9%9C%B2%E9%AB%98%E6%A0%A1%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B%E6%BC%8F%E6%B4%9E%23" target="weibo">
 郭某学术造假暴露高校人才引进漏洞（热度：24738）
 </a>
@@ -10853,12 +10859,6 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E9%97%AD%E5%B9%95%E5%BC%8F%E5%89%A7%E9%80%8F%E6%9D%A5%E4%BA%86%23" target="weibo">
 全运会闭幕式剧透来了（热度：24453）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E8%AF%81%E5%AE%9E%E4%B8%8E%E6%96%B0%E7%BA%B3%E7%B2%B9%E7%BB%84%E7%BB%87%E5%85%9A%E9%A6%96%E5%90%88%E5%BD%B1%23" target="weibo">
-高市证实与新纳粹组织党首合影（热度：24315）
 </a>
 </li>
 
@@ -11115,6 +11115,12 @@ WTT恭喜河北乒乓女团亚军（热度：18708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%AC%A3%E7%91%9C%E6%97%A0%E7%BC%98%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%8D%95%E5%86%B3%E8%B5%9B%23" target="weibo">
+王欣瑜无缘全运会女单决赛（热度：16938）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E5%89%A7%E6%9C%AC%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4%E4%B8%8B%E5%8D%8A%E5%B9%B4%E4%BA%86%23" target="weibo">
 李昀锐剧本排到明年下半年了（热度：16894）
 </a>
@@ -11123,6 +11129,12 @@ WTT恭喜河北乒乓女团亚军（热度：18708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E4%B8%9D%E7%BB%92%E7%9C%9F%E7%A9%BA%E8%A5%BF%E8%A3%85%23" target="weibo">
 刘宇宁丝绒真空西装（热度：16764）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%BD%E9%99%85%E9%87%91%E9%93%B6%E5%8F%8D%E5%BC%B9%23" target="weibo">
+国际金银反弹（热度：16544）
 </a>
 </li>
 
