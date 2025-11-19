@@ -1,6 +1,6 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763541342903,
+  "endTime": 1763542152521,
   "band_list": [
     {
       "raw_hot": 2835521,
@@ -27,6 +27,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 1324532,
+      "num": 220958,
+      "word": "高市早苗否认慰安妇存在",
+      "onboard_time": 1763537782,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1283359,
       "num": 1283359,
       "word": "中方向日方通报暂停进口日本水产品",
@@ -43,12 +51,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1064338,
-      "num": 220958,
-      "word": "高市早苗否认慰安妇存在",
-      "onboard_time": 1763537782,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 1049156,
+      "num": 208186,
+      "word": "罗志祥收养经纪人两个小孩作伴",
+      "onboard_time": 1763537842,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 1002276,
@@ -57,14 +65,6 @@
       "onboard_time": 1763521822,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 995925,
-      "num": 208186,
-      "word": "罗志祥收养经纪人两个小孩作伴",
-      "onboard_time": 1763537842,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 967455,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 781025,
+      "num": 199530,
+      "word": "唐嫣罗晋行程时间线",
+      "onboard_time": 1763539583,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 744525,
       "num": 1119124,
       "word": "叫停日中友好纪念活动",
@@ -105,14 +113,6 @@
       "onboard_time": 1763510781,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 691072,
-      "num": 199530,
-      "word": "唐嫣罗晋行程时间线",
-      "onboard_time": 1763539583,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 671739,
@@ -195,6 +195,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 559807,
+      "num": 220911,
+      "word": "日本网友看中方霸气插兜心碎了",
+      "onboard_time": 1763538143,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 540387,
       "num": 236779,
       "word": "韩雪直播卖12.9元棉拖引热议",
@@ -273,14 +281,6 @@
       "onboard_time": 1763523861,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 470057,
-      "num": 220911,
-      "word": "日本网友看中方霸气插兜心碎了",
-      "onboard_time": 1763538143,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 466338,
@@ -571,6 +571,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 269349,
+      "num": 269349,
+      "word": "高市早苗是靖国神社常客",
+      "onboard_time": 1763540123,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 268705,
+      "num": 268705,
+      "word": "范丞丞 走吧腾腾冰冰霆霆",
+      "onboard_time": 1763540722,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263329,
       "num": 177242,
       "word": "日本前首相岸田文雄明确表示反对",
@@ -667,14 +683,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 220994,
-      "num": 220994,
-      "word": "范丞丞 走吧腾腾冰冰霆霆",
-      "onboard_time": 1763540722,
-      "rank": 8,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 219193,
       "num": 219193,
       "word": "樊振东一个没站稳跪地上了",
@@ -761,6 +769,14 @@
       "onboard_time": 1763534540,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 200625,
+      "num": 181812,
+      "word": "我发现物业费比房贷可怕多了",
+      "onboard_time": 1763537181,
+      "rank": 40,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 199638,
@@ -859,12 +875,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 180802,
+      "num": 180802,
+      "word": "银临声明",
+      "onboard_time": 1763541202,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 180736,
       "num": 180736,
       "word": "王晶说易烊千玺可能是下一个周润发",
       "onboard_time": 1763483599,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 180095,
+      "num": 220510,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763535980,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 178326,
@@ -897,14 +929,6 @@
       "onboard_time": 1763510541,
       "rank": 14,
       "category": "电影"
-    },
-    {
-      "raw_hot": 172150,
-      "num": 172150,
-      "word": "我发现物业费比房贷可怕多了",
-      "onboard_time": 1763537181,
-      "rank": 40,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 170625,
@@ -947,12 +971,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164408,
-      "num": 220976,
-      "word": "高市早苗是靖国神社常客",
-      "onboard_time": 1763540123,
-      "rank": 9,
-      "category": "国际时政"
+      "raw_hot": 165281,
+      "num": 215983,
+      "word": "娇兰回应假货争议",
+      "onboard_time": 1763540423,
+      "rank": 17,
+      "category": "民生新闻,美妆"
     },
     {
       "raw_hot": 163993,
@@ -969,6 +993,14 @@
       "onboard_time": 1763517202,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161808,
+      "num": 161808,
+      "word": "何炅自曝从没用过QQ",
+      "onboard_time": 1763540543,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 158536,
@@ -1027,6 +1059,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 149834,
+      "num": 149834,
+      "word": "日本网民说高市早苗愚蠢至极",
+      "onboard_time": 1763541923,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 149651,
       "num": 149651,
       "word": "深圳一模特比赛冠军引争议",
@@ -1035,12 +1075,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 145032,
-      "num": 220510,
-      "word": "疯狂动物城2",
-      "onboard_time": 1763535980,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 149230,
+      "num": 149230,
+      "word": "李茂弦子 生理性喜欢",
+      "onboard_time": 1763538322,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 143351,
@@ -1083,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141612,
+      "num": 141612,
+      "word": "特朗普正式接见C罗",
+      "onboard_time": 1763541862,
+      "rank": 42,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 141592,
       "num": 170598,
       "word": "何炅 看似慌慌张张实则游刃有余",
@@ -1099,6 +1147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140625,
+      "num": 140625,
+      "word": "16名台湾老人意大利受辱两岸网友回击",
+      "onboard_time": 1763539403,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 140382,
       "num": 140382,
       "word": "日本自卫队战备全面提速",
@@ -1113,14 +1169,6 @@
       "onboard_time": 1763530882,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139868,
-      "num": 139868,
-      "word": "李茂弦子 生理性喜欢",
-      "onboard_time": 1763538322,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 139552,
@@ -1201,6 +1249,14 @@
       "onboard_time": 1763526563,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133999,
+      "num": 133999,
+      "word": "HLE官宣Zeka续约",
+      "onboard_time": 1763542103,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 133192,
@@ -1299,14 +1355,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 127165,
-      "num": 127165,
-      "word": "16名台湾老人意大利受辱两岸网友回击",
-      "onboard_time": 1763539403,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 126911,
       "num": 126911,
       "word": "怎么判断对方本身就是很好的人",
@@ -1377,22 +1425,6 @@
       "onboard_time": 1763534180,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 118997,
-      "num": 164050,
-      "word": "银临声明",
-      "onboard_time": 1763541202,
-      "rank": 36,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 118478,
-      "num": 118478,
-      "word": "何炅自曝从没用过QQ",
-      "onboard_time": 1763540543,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 118357,
@@ -1683,14 +1715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 95144,
-      "num": 215983,
-      "word": "娇兰回应假货争议",
-      "onboard_time": 1763540423,
-      "rank": 17,
-      "category": "民生新闻,美妆"
-    },
-    {
       "raw_hot": 95020,
       "num": 126025,
       "word": "迪丽热巴比美貌先来的是演技",
@@ -1887,6 +1911,14 @@
       "num": 135213,
       "word": "霍建华演完如懿传终于疯了",
       "onboard_time": 1763469024,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 76106,
+      "num": 212494,
+      "word": "王楚然谁家大小姐出门了呀",
+      "onboard_time": 1763540123,
       "rank": 18,
       "category": "剧集"
     },
@@ -2115,14 +2147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49280,
-      "num": 212494,
-      "word": "王楚然谁家大小姐出门了呀",
-      "onboard_time": 1763540123,
-      "rank": 18,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 49206,
       "num": 65214,
       "word": "曝双一线情侣还好着",
@@ -2227,6 +2251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37087,
+      "num": 152539,
+      "word": "凶手父母致歉信让受害者妈妈愤怒",
+      "onboard_time": 1763541802,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36012,
       "num": 155097,
       "word": "开国大将罗瑞卿之女罗点点去世",
@@ -2257,6 +2289,14 @@
       "onboard_time": 1763536101,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34470,
+      "num": 189647,
+      "word": "坚决阻击任何复活军国主义图谋",
+      "onboard_time": 1763541325,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 33318,
@@ -2307,7 +2347,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22802,
+      "raw_hot": 24738,
       "num": 157135,
       "word": "郭某学术造假暴露高校人才引进漏洞",
       "onboard_time": 1763540602,
@@ -2379,6 +2419,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17515,
+      "num": 150442,
+      "word": "江苏科技大学博导疑似仅高中学历",
+      "onboard_time": 1763541443,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16894,
       "num": 41234,
       "word": "李昀锐剧本排到明年下半年了",
@@ -2393,6 +2441,14 @@
       "onboard_time": 1763492534,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12972,
+      "num": 167624,
+      "word": "快递员被收件人丈夫杀害知情者发声",
+      "onboard_time": 1763541923,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12906,

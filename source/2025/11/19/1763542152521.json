@@ -1,0 +1,410 @@
+{
+  "runTime": 1763542152521,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 866342,
+        "num": 1138614,
+        "word": "解放军警告日本",
+        "onboard_time": 1763536521,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 521498,
+        "num": 521498,
+        "word": "日本水产品在华不会有市场",
+        "onboard_time": 1763538924,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 8071,
+        "num": 352201,
+        "word": "封关不是封岛",
+        "onboard_time": 1763438844,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 329790,
+        "num": 329790,
+        "word": "中方向日方通报暂停进口日本水产品",
+        "onboard_time": 1763531480,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269349,
+        "num": 269349,
+        "word": "高市早苗是靖国神社常客",
+        "onboard_time": 1763540123,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268705,
+        "num": 268705,
+        "word": "范丞丞 走吧腾腾冰冰霆霆",
+        "onboard_time": 1763540722,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 227585,
+        "num": 227585,
+        "word": "朝鲜代表联大发言炮轰日本",
+        "onboard_time": 1763528422,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210917,
+        "num": 210917,
+        "word": "日本旅游 退票",
+        "onboard_time": 1763528123,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189860,
+        "num": 189860,
+        "word": "HLE宣布Viper离队",
+        "onboard_time": 1763534421,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 34470,
+        "num": 189647,
+        "word": "坚决阻击任何复活军国主义图谋",
+        "onboard_time": 1763541325,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1324532,
+        "num": 188197,
+        "word": "高市早苗否认慰安妇存在",
+        "onboard_time": 1763537782,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 559807,
+        "num": 187067,
+        "word": "日本网友看中方霸气插兜心碎了",
+        "onboard_time": 1763538143,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431987,
+        "num": 185910,
+        "word": "网红橙子姐姐在柬埔寨涉诈被抓",
+        "onboard_time": 1763538082,
+        "rank": 12,
+        "category": "网红,民生新闻"
+      },
+      {
+        "raw_hot": 302465,
+        "num": 184664,
+        "word": "陈伟霆 我老家的人会取笑我的",
+        "onboard_time": 1763536461,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263120,
+        "num": 183877,
+        "word": "羽绒服 涨价狂潮",
+        "onboard_time": 1763536521,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225959,
+        "num": 181978,
+        "word": "怪不得现在女装动不动就预售",
+        "onboard_time": 1763533640,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 200625,
+        "num": 181812,
+        "word": "我发现物业费比房贷可怕多了",
+        "onboard_time": 1763537181,
+        "rank": 16,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 180802,
+        "num": 180802,
+        "word": "银临声明",
+        "onboard_time": 1763541202,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180095,
+        "num": 180095,
+        "word": "疯狂动物城2",
+        "onboard_time": 1763535980,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64912,
+        "num": 179588,
+        "word": "华为MateX7实拍样张首曝",
+        "onboard_time": 1763539522,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1049156,
+        "num": 177925,
+        "word": "罗志祥收养经纪人两个小孩作伴",
+        "onboard_time": 1763537842,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 781025,
+        "num": 177031,
+        "word": "唐嫣罗晋行程时间线",
+        "onboard_time": 1763539583,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668098,
+        "num": 175517,
+        "word": "曝霍启山娜然恋情",
+        "onboard_time": 1763525724,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452575,
+        "num": 173510,
+        "word": "许玮甯邱泽婚纱照",
+        "onboard_time": 1763535801,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 415283,
+        "num": 172156,
+        "word": "丁泽仁称被唯一的姐要求结扎",
+        "onboard_time": 1763531901,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 599667,
+        "num": 170195,
+        "word": "罗志祥立遗嘱",
+        "onboard_time": 1763524702,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372399,
+        "num": 168404,
+        "word": "原来月经流的血不是废血",
+        "onboard_time": 1763540423,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 12972,
+        "num": 167624,
+        "word": "快递员被收件人丈夫杀害知情者发声",
+        "onboard_time": 1763541923,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 359857,
+        "num": 165615,
+        "word": "陈冠希 法拉利老了也是拖拉机",
+        "onboard_time": 1763536041,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165281,
+        "num": 165281,
+        "word": "娇兰回应假货争议",
+        "onboard_time": 1763540423,
+        "rank": 29,
+        "category": "民生新闻,美妆"
+      },
+      {
+        "raw_hot": 282297,
+        "num": 165028,
+        "word": "安静公主肚子上全是刀口",
+        "onboard_time": 1763535382,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 212551,
+        "num": 164647,
+        "word": "孙乐言回应我现在不是一个普通人了",
+        "onboard_time": 1763534601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179991,
+        "num": 164237,
+        "word": "外交部回应日本水产品",
+        "onboard_time": 1763538982,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 210665,
+        "num": 163453,
+        "word": "日本前首相岸田文雄明确表示反对",
+        "onboard_time": 1763540302,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204631,
+        "num": 163021,
+        "word": "你以为很卫生其实很脏的行为",
+        "onboard_time": 1763540964,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 189962,
+        "num": 162452,
+        "word": "日本经济绷不住了",
+        "onboard_time": 1763539464,
+        "rank": 35,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 183971,
+        "num": 161857,
+        "word": "高市曾说日本侵华战争是自卫",
+        "onboard_time": 1763538924,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161808,
+        "num": 161808,
+        "word": "何炅自曝从没用过QQ",
+        "onboard_time": 1763540543,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37087,
+        "num": 152539,
+        "word": "凶手父母致歉信让受害者妈妈愤怒",
+        "onboard_time": 1763541802,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17515,
+        "num": 150442,
+        "word": "江苏科技大学博导疑似仅高中学历",
+        "onboard_time": 1763541443,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149834,
+        "num": 149834,
+        "word": "日本网民说高市早苗愚蠢至极",
+        "onboard_time": 1763541923,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 149230,
+        "num": 149230,
+        "word": "李茂弦子 生理性喜欢",
+        "onboard_time": 1763538322,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141612,
+        "num": 141612,
+        "word": "特朗普正式接见C罗",
+        "onboard_time": 1763541862,
+        "rank": 42,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 140625,
+        "num": 140625,
+        "word": "16名台湾老人意大利受辱两岸网友回击",
+        "onboard_time": 1763539403,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 134224,
+        "num": 134224,
+        "word": "Shanks 真没劲儿",
+        "onboard_time": 1763533521,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24738,
+        "num": 134050,
+        "word": "郭某学术造假暴露高校人才引进漏洞",
+        "onboard_time": 1763540602,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133999,
+        "num": 133999,
+        "word": "HLE官宣Zeka续约",
+        "onboard_time": 1763542103,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76106,
+        "num": 131990,
+        "word": "王楚然谁家大小姐出门了呀",
+        "onboard_time": 1763540123,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130155,
+        "num": 130155,
+        "word": "曝Tabe离开AL原因",
+        "onboard_time": 1763534841,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116705,
+        "num": 129534,
+        "word": "杨瀚森9分5篮板3助攻",
+        "onboard_time": 1763536101,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#合力开创法治中国建设新局面#"
+    }
+  }
+}
