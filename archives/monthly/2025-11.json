@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763580196552,
+  "endTime": 1763581066953,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -63195,6 +63195,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 43804,
+      "num": 35460,
+      "word": "高市早苗到底水有多深",
+      "onboard_time": 1763574855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43798,
       "num": 947153,
       "word": "十五运今天开幕",
@@ -63489,14 +63497,6 @@
       "onboard_time": 1762274957,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 42341,
-      "num": 35460,
-      "word": "高市早苗到底水有多深",
-      "onboard_time": 1763574855,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42298,
@@ -68699,6 +68699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17165,
+      "num": 33388,
+      "word": "荷兰暂停针对安世半导体行政令",
+      "onboard_time": 1763574315,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16982,
       "num": 90512,
       "word": "中印航线正式复航",
@@ -68905,14 +68913,6 @@
       "onboard_time": 1762507220,
       "rank": 37,
       "category": "民生新闻,休闲"
-    },
-    {
-      "raw_hot": 15239,
-      "num": 33388,
-      "word": "荷兰暂停针对安世半导体行政令",
-      "onboard_time": 1763574315,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 15218,
