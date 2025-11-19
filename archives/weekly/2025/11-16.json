@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763578202749,
+  "endTime": 1763580196552,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -13379,6 +13379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42341,
+      "num": 35460,
+      "word": "高市早苗到底水有多深",
+      "onboard_time": 1763574855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42169,
       "num": 222105,
       "word": "台海的事关日本人什么事",
@@ -13961,14 +13969,6 @@
       "onboard_time": 1763377222,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32459,
-      "num": 35460,
-      "word": "高市早苗到底水有多深",
-      "onboard_time": 1763574855,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32390,
@@ -14801,6 +14801,14 @@
       "onboard_time": 1763412073,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15239,
+      "num": 33388,
+      "word": "荷兰暂停针对安世半导体行政令",
+      "onboard_time": 1763574315,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14914,

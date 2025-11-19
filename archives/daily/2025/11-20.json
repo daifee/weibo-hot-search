@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763578202749,
+  "endTime": 1763580196552,
   "band_list": [
     {
       "raw_hot": 444116,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 42341,
+      "num": 35460,
+      "word": "高市早苗到底水有多深",
+      "onboard_time": 1763574855,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36959,
       "num": 158514,
       "word": "张弛象人舞台喜人亲友团全吻上来了",
@@ -465,14 +473,6 @@
       "onboard_time": 1763565921,
       "rank": 49,
       "category": "电影,动漫"
-    },
-    {
-      "raw_hot": 32459,
-      "num": 35460,
-      "word": "高市早苗到底水有多深",
-      "onboard_time": 1763574855,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 29466,
@@ -548,11 +548,19 @@
     },
     {
       "raw_hot": 17313,
-      "num": 28602,
+      "num": 33373,
       "word": "凤凰台上",
       "onboard_time": 1763577854,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15239,
+      "num": 33388,
+      "word": "荷兰暂停针对安世半导体行政令",
+      "onboard_time": 1763574315,
+      "rank": 48,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
