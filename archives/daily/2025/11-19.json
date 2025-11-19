@@ -1,14 +1,30 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763518793304,
+  "endTime": 1763522332232,
   "band_list": [
     {
-      "raw_hot": 861355,
-      "num": 141411,
+      "raw_hot": 2030569,
+      "num": 147444,
       "word": "罗志祥疑似内涵极限男人帮",
       "onboard_time": 1763515821,
       "rank": 20,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1143356,
+      "num": 1182937,
+      "word": "首次赴陆台胞可免费畅游逾3000景区",
+      "onboard_time": 1763520081,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1002276,
+      "num": 1002276,
+      "word": "恋与深空",
+      "onboard_time": 1763521822,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 744525,
@@ -44,7 +60,7 @@
     },
     {
       "raw_hot": 594359,
-      "num": 141248,
+      "num": 144236,
       "word": "杨幂钟楚曦杂志撞衫",
       "onboard_time": 1763512881,
       "rank": 21,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 592220,
-      "num": 141164,
+      "num": 146209,
       "word": "曝唐嫣罗晋分居一年半了",
       "onboard_time": 1763473165,
       "rank": 20,
@@ -65,6 +81,14 @@
       "onboard_time": 1763512641,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 489816,
+      "num": 489816,
+      "word": "爱奇艺由盈转亏",
+      "onboard_time": 1763516722,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 436981,
@@ -99,6 +123,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 365409,
+      "num": 365409,
+      "word": "14名荒野求生选手5天休整期住别墅",
+      "onboard_time": 1763516061,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 361026,
       "num": 357243,
       "word": "中方说了三个绝不允许",
@@ -115,16 +147,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 357037,
-      "num": 357037,
-      "word": "爱奇艺由盈转亏",
-      "onboard_time": 1763516722,
-      "rank": 15,
-      "category": "财经"
-    },
-    {
       "raw_hot": 348797,
-      "num": 157880,
+      "num": 242635,
       "word": "涉女婴手术死亡医生被曝过往纠纷",
       "onboard_time": 1763517020,
       "rank": 19,
@@ -139,20 +163,36 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 334703,
-      "num": 174431,
-      "word": "14名荒野求生选手5天休整期住别墅",
-      "onboard_time": 1763516061,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 319390,
+      "num": 244562,
+      "word": "在小狗最生气的时候亲一口",
+      "onboard_time": 1763518821,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 314392,
-      "num": 141005,
+      "num": 142612,
       "word": "韩国偶遇田曦薇逛街",
       "onboard_time": 1763516302,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 310852,
+      "num": 310852,
+      "word": "唐诡3片尾特别鸣谢粉丝",
+      "onboard_time": 1763521101,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 300357,
+      "num": 300357,
+      "word": "腾讯视频会员数不涨了",
+      "onboard_time": 1763519422,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 248643,
@@ -169,6 +209,22 @@
       "onboard_time": 1763464522,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 221592,
+      "num": 221592,
+      "word": "中国琉球学学科项目获批启动",
+      "onboard_time": 1763519181,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 219297,
+      "num": 219297,
+      "word": "荒野求生选手饿了41天终于喝上鸡汤",
+      "onboard_time": 1763517621,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 219193,
@@ -203,6 +259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205331,
+      "num": 140649,
+      "word": "灵隐寺取消门票",
+      "onboard_time": 1763521881,
+      "rank": 24,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 204991,
       "num": 130404,
       "word": "江苏科技大学通报郭某学术造假事件",
@@ -228,7 +292,7 @@
     },
     {
       "raw_hot": 187768,
-      "num": 108638,
+      "num": 139249,
       "word": "国安部破获日本间谍机关窃密案件",
       "onboard_time": 1763517801,
       "rank": 26,
@@ -259,12 +323,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170864,
+      "num": 170864,
+      "word": "小米集团跌破40港元",
+      "onboard_time": 1763521341,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165743,
       "num": 140740,
       "word": "近视手术五年后的真实感受",
       "onboard_time": 1763470824,
       "rank": 13,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 164662,
+      "num": 164662,
+      "word": "叫妈妈这个风潮是从你好李焕英开始的",
+      "onboard_time": 1763516661,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 162996,
@@ -281,6 +361,14 @@
       "onboard_time": 1763484378,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150979,
+      "num": 150979,
+      "word": "扒一扒高市早苗黑历史",
+      "onboard_time": 1763516962,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 149651,
@@ -355,6 +443,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 128684,
+      "num": 128684,
+      "word": "十几年前的女装真的很好看",
+      "onboard_time": 1763521341,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128610,
       "num": 107796,
       "word": "女孩的棒棒糖阻止了一场持枪抢劫",
@@ -371,12 +467,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127255,
-      "num": 122786,
-      "word": "扒一扒高市早苗黑历史",
-      "onboard_time": 1763516962,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 128195,
+      "num": 128195,
+      "word": "日本自卫队战备全面提速",
+      "onboard_time": 1763519601,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 120993,
+      "num": 134177,
+      "word": "广汽昊铂首获时速120公里L3测试牌照",
+      "onboard_time": 1763520200,
+      "rank": 27,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 116634,
+      "num": 116634,
+      "word": "霍建华在如懿传里每天被当面蛐蛐",
+      "onboard_time": 1763519539,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 115919,
@@ -403,12 +515,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 114275,
-      "num": 114275,
-      "word": "叫妈妈这个风潮是从你好李焕英开始的",
-      "onboard_time": 1763516661,
-      "rank": 33,
-      "category": "电影"
+      "raw_hot": 112298,
+      "num": 112298,
+      "word": "爵士vs湖人",
+      "onboard_time": 1763521702,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 112052,
+      "num": 137167,
+      "word": "父母辈追的明星开演唱会了",
+      "onboard_time": 1763520380,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 110086,
@@ -451,6 +571,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101806,
+      "num": 244664,
+      "word": "台湾居民来往大陆通行证签发口岸扩大",
+      "onboard_time": 1763521281,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 97110,
+      "num": 97110,
+      "word": "日本一地发生大规模火灾",
+      "onboard_time": 1763519539,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96105,
+      "num": 133495,
+      "word": "谁家男女主打着打着就亲上了",
+      "onboard_time": 1763522061,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 95494,
+      "num": 95494,
+      "word": "惹怒中国难收场日本强拉美国入局",
+      "onboard_time": 1763521281,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95359,
       "num": 130289,
       "word": "曝三字二字流量和原公司续约",
@@ -459,20 +611,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94397,
+      "num": 94397,
+      "word": "世界厕所日",
+      "onboard_time": 1763522301,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94046,
       "num": 94046,
       "word": "印度大学保安将脚伸进食堂米锅搅动",
       "onboard_time": 1763508679,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 92794,
-      "num": 92794,
-      "word": "荒野求生选手饿了41天终于喝上鸡汤",
-      "onboard_time": 1763517621,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 92633,
@@ -523,12 +675,28 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 86699,
+      "num": 86699,
+      "word": "A股",
+      "onboard_time": 1763519780,
+      "rank": 45,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86581,
       "num": 86581,
       "word": "韩国人分享来上海旅游的花销",
       "onboard_time": 1763517262,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86489,
+      "num": 86489,
+      "word": "吴昕瞧不起无意义忙碌的自己",
+      "onboard_time": 1763519061,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 86205,
@@ -553,6 +721,22 @@
       "onboard_time": 1763476583,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84483,
+      "num": 84483,
+      "word": "小米手机收入与均价下滑",
+      "onboard_time": 1763519481,
+      "rank": 48,
+      "category": "财经,数码"
+    },
+    {
+      "raw_hot": 83838,
+      "num": 83838,
+      "word": "日本大分市发生大规模火灾1人失踪",
+      "onboard_time": 1763518940,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82310,
@@ -812,7 +996,7 @@
     },
     {
       "raw_hot": 45579,
-      "num": 545393,
+      "num": 731485,
       "word": "福建舰入列后首次海上实兵训练",
       "onboard_time": 1763458703,
       "rank": 2,
