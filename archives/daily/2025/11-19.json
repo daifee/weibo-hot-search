@@ -1,7 +1,39 @@
 {
   "startTime": 1763483841365,
-  "endTime": 1763509016169,
+  "endTime": 1763517502586,
   "band_list": [
+    {
+      "raw_hot": 846734,
+      "num": 141411,
+      "word": "罗志祥疑似内涵极限男人帮",
+      "onboard_time": 1763515821,
+      "rank": 20,
+      "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 709251,
+      "num": 1113480,
+      "word": "郭某严重学术不端高校已报案",
+      "onboard_time": 1763510781,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 694176,
+      "num": 694176,
+      "word": "叫停日中友好纪念活动",
+      "onboard_time": 1763513302,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 671739,
+      "num": 175336,
+      "word": "冷美人直播洗头蜂花成榜一",
+      "onboard_time": 1763515101,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 609935,
       "num": 907589,
@@ -11,12 +43,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 594359,
+      "num": 141248,
+      "word": "杨幂钟楚曦杂志撞衫",
+      "onboard_time": 1763512881,
+      "rank": 21,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 592220,
-      "num": 134036,
+      "num": 141164,
       "word": "曝唐嫣罗晋分居一年半了",
       "onboard_time": 1763473165,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 518464,
+      "num": 518464,
+      "word": "中国飞往日本机票罕见退订潮",
+      "onboard_time": 1763512641,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 436981,
+      "num": 436981,
+      "word": "日本根本没资格要求成为常任理事国",
+      "onboard_time": 1763510602,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 436396,
@@ -67,12 +123,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262953,
+      "num": 174431,
+      "word": "14名荒野求生选手5天休整期住别墅",
+      "onboard_time": 1763516061,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 248643,
+      "num": 174138,
+      "word": "冷美人退赛后开启首场直播",
+      "onboard_time": 1763512523,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246151,
       "num": 128764,
       "word": "这一亲把央视解说干沉默了",
       "onboard_time": 1763464522,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219193,
+      "num": 219193,
+      "word": "樊振东一个没站稳跪地上了",
+      "onboard_time": 1763511261,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 217277,
+      "num": 141005,
+      "word": "韩国偶遇田曦薇逛街",
+      "onboard_time": 1763516302,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 214182,
@@ -99,28 +187,68 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204991,
+      "num": 130404,
+      "word": "江苏科技大学通报郭某学术造假事件",
+      "onboard_time": 1763517020,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 197389,
+      "num": 173134,
+      "word": "丁禹兮出席联合国气候变化大会",
+      "onboard_time": 1763514322,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190068,
-      "num": 121164,
+      "num": 187110,
       "word": "日本民众集会抗议要求高市下台",
       "onboard_time": 1763505136,
       "rank": 45,
       "category": "国际时政"
     },
     {
+      "raw_hot": 187309,
+      "num": 140755,
+      "word": "16飞17飞18飞",
+      "onboard_time": 1763515881,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 176275,
+      "num": 176275,
+      "word": "王晶说易烊千玺可能是下一个周润发",
+      "onboard_time": 1763483599,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 172933,
+      "num": 172933,
+      "word": "原来金鸡奖的含金量真的含金",
+      "onboard_time": 1763510541,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 165743,
-      "num": 139451,
+      "num": 140740,
       "word": "近视手术五年后的真实感受",
       "onboard_time": 1763470824,
       "rank": 13,
       "category": "健康医疗"
     },
     {
-      "raw_hot": 165587,
-      "num": 165587,
-      "word": "王晶说易烊千玺可能是下一个周润发",
-      "onboard_time": 1763483599,
-      "rank": 38,
-      "category": "作品衍生"
+      "raw_hot": 163450,
+      "num": 163450,
+      "word": "爱奇艺由盈转亏",
+      "onboard_time": 1763516722,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 155349,
@@ -128,6 +256,14 @@
       "word": "骑车被狗绊倒女生已做开颅手术",
       "onboard_time": 1763484378,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149651,
+      "num": 149651,
+      "word": "深圳一模特比赛冠军引争议",
+      "onboard_time": 1763508738,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -139,8 +275,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 139908,
-      "num": 139068,
+      "raw_hot": 141681,
+      "num": 141681,
       "word": "74岁老太杀73岁老太藏尸案将开庭",
       "onboard_time": 1763469444,
       "rank": 14,
@@ -179,12 +315,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 132159,
+      "num": 132159,
+      "word": "95后男生写网文还清百万外债",
+      "onboard_time": 1763509879,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131415,
+      "num": 131415,
+      "word": "JDG老板爆料BLG签下Viper",
+      "onboard_time": 1763508620,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128467,
       "num": 128467,
       "word": "唐嫣 罗晋",
       "onboard_time": 1763444363,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127964,
+      "num": 140976,
+      "word": "狂野时代",
+      "onboard_time": 1763517202,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 122786,
+      "num": 122786,
+      "word": "扒一扒高市早苗黑历史",
+      "onboard_time": 1763516962,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 115919,
@@ -203,12 +371,60 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 114835,
+      "num": 114835,
+      "word": "peyz T1",
+      "onboard_time": 1763511743,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 114275,
+      "num": 114275,
+      "word": "叫妈妈这个风潮是从你好李焕英开始的",
+      "onboard_time": 1763516661,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 110086,
       "num": 120583,
       "word": "美股",
       "onboard_time": 1763508258,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 105867,
+      "num": 105867,
+      "word": "外交部回应德方称对台海局势担忧",
+      "onboard_time": 1763510963,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 105698,
+      "num": 105698,
+      "word": "女车主狠踹划伤邻车被哨兵模式拍下",
+      "onboard_time": 1763517202,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104481,
+      "num": 104481,
+      "word": "女子被2岁孩子撞出脑震荡",
+      "onboard_time": 1763516541,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103113,
+      "num": 103113,
+      "word": "小伙遭骗婚后被女方气笑",
+      "onboard_time": 1763512942,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95359,
@@ -219,11 +435,51 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94981,
+      "num": 94981,
+      "word": "女孩的棒棒糖阻止了一场持枪抢劫",
+      "onboard_time": 1763517141,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94046,
+      "num": 94046,
+      "word": "印度大学保安将脚伸进食堂米锅搅动",
+      "onboard_time": 1763508679,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 92633,
       "num": 120657,
       "word": "冷美人称头发像石头剪不下来了",
       "onboard_time": 1763496494,
       "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91718,
+      "num": 91718,
+      "word": "王橹杰等你到下课",
+      "onboard_time": 1763512341,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91636,
+      "num": 91636,
+      "word": "杨旭文突发身体不适",
+      "onboard_time": 1763512043,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 90986,
+      "num": 90986,
+      "word": "74岁老太因柴火归属争执杀人藏尸",
+      "onboard_time": 1763516901,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -235,12 +491,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85873,
-      "num": 85873,
-      "word": "JDG老板爆料BLG签下Viper",
-      "onboard_time": 1763508620,
-      "rank": 23,
-      "category": "电竞"
+      "raw_hot": 86581,
+      "num": 86581,
+      "word": "韩国人分享来上海旅游的花销",
+      "onboard_time": 1763517262,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 86205,
+      "num": 128431,
+      "word": "陈乔恩没想到宋茜吃得这么好",
+      "onboard_time": 1763471664,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 84716,
@@ -251,20 +515,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 78793,
-      "num": 78793,
-      "word": "深圳一模特比赛冠军引争议",
-      "onboard_time": 1763508738,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 82310,
+      "num": 82310,
+      "word": "唐嫣关联9家企业7家已注销",
+      "onboard_time": 1763510000,
+      "rank": 47,
+      "category": "艺人"
     },
     {
-      "raw_hot": 77173,
-      "num": 128431,
-      "word": "陈乔恩没想到宋茜吃得这么好",
-      "onboard_time": 1763471664,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 80588,
+      "num": 80588,
+      "word": "樊振东许昕决赛将对战王楚钦马龙",
+      "onboard_time": 1763510963,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 76290,
@@ -313,14 +577,6 @@
       "onboard_time": 1763500513,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 66599,
-      "num": 76014,
-      "word": "印度大学保安将脚伸进食堂米锅搅动",
-      "onboard_time": 1763508679,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 65831,
@@ -467,6 +723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 50199,
+      "num": 176132,
+      "word": "人民日报钟声评高市给中日关系投毒",
+      "onboard_time": 1763516722,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49206,
       "num": 65214,
       "word": "曝双一线情侣还好着",
@@ -500,7 +764,7 @@
     },
     {
       "raw_hot": 45579,
-      "num": 374094,
+      "num": 545393,
       "word": "福建舰入列后首次海上实兵训练",
       "onboard_time": 1763458703,
       "rank": 2,
@@ -625,6 +889,22 @@
       "onboard_time": 1763488756,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 15290,
+      "num": 141474,
+      "word": "涉女婴手术死亡医生被曝过往纠纷",
+      "onboard_time": 1763517020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14620,
+      "num": 98934,
+      "word": "家门口遇害女子妈妈曾与凶手对视",
+      "onboard_time": 1763517141,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13787,

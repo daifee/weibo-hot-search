@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763509016169,
+  "endTime": 1763517502586,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -475,6 +475,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 846734,
+      "num": 141411,
+      "word": "罗志祥疑似内涵极限男人帮",
+      "onboard_time": 1763515821,
+      "rank": 20,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 842015,
       "num": 165736,
       "word": "原来这就是排卵期啊",
@@ -635,6 +643,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 709251,
+      "num": 1113480,
+      "word": "郭某严重学术不端高校已报案",
+      "onboard_time": 1763510781,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 705697,
       "num": 259558,
       "word": "曾轶可现任助理发朋友圈对质",
@@ -649,6 +665,14 @@
       "onboard_time": 1763364681,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 694176,
+      "num": 694176,
+      "word": "叫停日中友好纪念活动",
+      "onboard_time": 1763513302,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 687202,
@@ -673,6 +697,14 @@
       "onboard_time": 1763260580,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 671739,
+      "num": 175336,
+      "word": "冷美人直播洗头蜂花成榜一",
+      "onboard_time": 1763515101,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 666019,
@@ -881,6 +913,14 @@
       "onboard_time": 1763444422,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 594359,
+      "num": 141248,
+      "word": "杨幂钟楚曦杂志撞衫",
+      "onboard_time": 1763512881,
+      "rank": 21,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 592523,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1763374581,
       "rank": 7,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 518464,
+      "num": 518464,
+      "word": "中国飞往日本机票罕见退订潮",
+      "onboard_time": 1763512641,
+      "rank": 3,
+      "category": "国际时政"
     },
     {
       "raw_hot": 517671,
@@ -1481,6 +1529,14 @@
       "onboard_time": 1763289261,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 436981,
+      "num": 436981,
+      "word": "日本根本没资格要求成为常任理事国",
+      "onboard_time": 1763510602,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 436484,
@@ -2819,6 +2875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 262953,
+      "num": 174431,
+      "word": "14名荒野求生选手5天休整期住别墅",
+      "onboard_time": 1763516061,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 261685,
       "num": 225643,
       "word": "中国代表联大发言让日本破大防",
@@ -2977,6 +3041,14 @@
       "onboard_time": 1763282662,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 248643,
+      "num": 174138,
+      "word": "冷美人退赛后开启首场直播",
+      "onboard_time": 1763512523,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 248351,
@@ -3291,6 +3363,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 219193,
+      "num": 219193,
+      "word": "樊振东一个没站稳跪地上了",
+      "onboard_time": 1763511261,
+      "rank": 6,
+      "category": "体育"
+    },
+    {
       "raw_hot": 218707,
       "num": 218707,
       "word": "王楚钦一对一指导马龙",
@@ -3305,6 +3385,14 @@
       "onboard_time": 1763377821,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 217277,
+      "num": 141005,
+      "word": "韩国偶遇田曦薇逛街",
+      "onboard_time": 1763516302,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 216937,
@@ -3497,6 +3585,14 @@
       "onboard_time": 1763294362,
       "rank": 15,
       "category": "演出"
+    },
+    {
+      "raw_hot": 204991,
+      "num": 130404,
+      "word": "江苏科技大学通报郭某学术造假事件",
+      "onboard_time": 1763517020,
+      "rank": 30,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 204641,
@@ -3697,6 +3793,14 @@
       "onboard_time": 1763277382,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197389,
+      "num": 173134,
+      "word": "丁禹兮出席联合国气候变化大会",
+      "onboard_time": 1763514322,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 196715,
@@ -3956,7 +4060,7 @@
     },
     {
       "raw_hot": 190068,
-      "num": 121164,
+      "num": 187110,
       "word": "日本民众集会抗议要求高市下台",
       "onboard_time": 1763505136,
       "rank": 45,
@@ -4112,6 +4216,14 @@
       "word": "中方依法保护在华外国公民安全",
       "onboard_time": 1763462302,
       "rank": 9,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 187309,
+      "num": 140755,
+      "word": "16飞17飞18飞",
+      "onboard_time": 1763515881,
+      "rank": 25,
       "category": "国内时政"
     },
     {
@@ -4523,6 +4635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176275,
+      "num": 176275,
+      "word": "王晶说易烊千玺可能是下一个周润发",
+      "onboard_time": 1763483599,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 176136,
       "num": 206268,
       "word": "终于有剧拍出女演员极致的美与狠",
@@ -4649,6 +4769,14 @@
       "onboard_time": 1763281403,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 172933,
+      "num": 172933,
+      "word": "原来金鸡奖的含金量真的含金",
+      "onboard_time": 1763510541,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 172650,
@@ -4859,14 +4987,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 165587,
-      "num": 165587,
-      "word": "王晶说易烊千玺可能是下一个周润发",
-      "onboard_time": 1763483599,
-      "rank": 38,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 165511,
       "num": 165511,
       "word": "易烊千玺将要触到一轮新朝阳",
@@ -4905,6 +5025,14 @@
       "onboard_time": 1763353702,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163450,
+      "num": 163450,
+      "word": "爱奇艺由盈转亏",
+      "onboard_time": 1763516722,
+      "rank": 15,
+      "category": "财经"
     },
     {
       "raw_hot": 163363,
@@ -5561,6 +5689,14 @@
       "onboard_time": 1763370860,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149651,
+      "num": 149651,
+      "word": "深圳一模特比赛冠军引争议",
+      "onboard_time": 1763508738,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149488,
@@ -6307,6 +6443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132159,
+      "num": 132159,
+      "word": "95后男生写网文还清百万外债",
+      "onboard_time": 1763509879,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132074,
       "num": 132074,
       "word": "日本3位前首相发声",
@@ -6353,6 +6497,14 @@
       "onboard_time": 1763435301,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131415,
+      "num": 131415,
+      "word": "JDG老板爆料BLG签下Viper",
+      "onboard_time": 1763508620,
+      "rank": 23,
+      "category": "电竞"
     },
     {
       "raw_hot": 131226,
@@ -6513,6 +6665,14 @@
       "onboard_time": 1763436981,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127964,
+      "num": 140976,
+      "word": "狂野时代",
+      "onboard_time": 1763372181,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 127827,
@@ -6795,6 +6955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 122786,
+      "num": 122786,
+      "word": "扒一扒高市早苗黑历史",
+      "onboard_time": 1763516962,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 122741,
       "num": 122741,
       "word": "李雪琴早就知道董璇张维伊在一起",
@@ -6932,7 +7100,7 @@
     },
     {
       "raw_hot": 121028,
-      "num": 374094,
+      "num": 545393,
       "word": "福建舰入列后首次海上实兵训练",
       "onboard_time": 1763458703,
       "rank": 28,
@@ -7419,6 +7587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114835,
+      "num": 114835,
+      "word": "peyz T1",
+      "onboard_time": 1763511743,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114711,
       "num": 114711,
       "word": "R1SE要合体了吗",
@@ -7449,6 +7625,14 @@
       "onboard_time": 1763447062,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 114275,
+      "num": 114275,
+      "word": "叫妈妈这个风潮是从你好李焕英开始的",
+      "onboard_time": 1763516661,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 114003,
@@ -7593,14 +7777,6 @@
       "onboard_time": 1763463862,
       "rank": 40,
       "category": "情感"
-    },
-    {
-      "raw_hot": 111244,
-      "num": 111244,
-      "word": "狂野时代",
-      "onboard_time": 1763372181,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 111201,
@@ -8003,12 +8179,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105867,
+      "num": 105867,
+      "word": "外交部回应德方称对台海局势担忧",
+      "onboard_time": 1763510963,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 105820,
       "num": 129623,
       "word": "韩国取代日本成为最热门目的地",
       "onboard_time": 1763425342,
       "rank": 27,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105698,
+      "num": 105698,
+      "word": "女车主狠踹划伤邻车被哨兵模式拍下",
+      "onboard_time": 1763517202,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105545,
@@ -8065,6 +8257,14 @@
       "onboard_time": 1763346081,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104481,
+      "num": 104481,
+      "word": "女子被2岁孩子撞出脑震荡",
+      "onboard_time": 1763516541,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104347,
@@ -8177,6 +8377,14 @@
       "onboard_time": 1763303663,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 103113,
+      "num": 103113,
+      "word": "小伙遭骗婚后被女方气笑",
+      "onboard_time": 1763512942,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102808,
@@ -8563,6 +8771,14 @@
       "category": "美食,剧集"
     },
     {
+      "raw_hot": 94981,
+      "num": 94981,
+      "word": "女孩的棒棒糖阻止了一场持枪抢劫",
+      "onboard_time": 1763517141,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 94736,
       "num": 118707,
       "word": "四川舰顺利完成首次航行试验",
@@ -8585,6 +8801,14 @@
       "onboard_time": 1763447842,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94046,
+      "num": 94046,
+      "word": "印度大学保安将脚伸进食堂米锅搅动",
+      "onboard_time": 1763508679,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 93786,
@@ -8707,6 +8931,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 91718,
+      "num": 91718,
+      "word": "王橹杰等你到下课",
+      "onboard_time": 1763512341,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91636,
+      "num": 91636,
+      "word": "杨旭文突发身体不适",
+      "onboard_time": 1763512043,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 91339,
       "num": 245937,
       "word": "央视起底电加热衣乱象",
@@ -8721,6 +8961,14 @@
       "onboard_time": 1763292202,
       "rank": 48,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 90986,
+      "num": 90986,
+      "word": "74岁老太因柴火归属争执杀人藏尸",
+      "onboard_time": 1763516901,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90776,
@@ -8875,6 +9123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86581,
+      "num": 86581,
+      "word": "韩国人分享来上海旅游的花销",
+      "onboard_time": 1763517262,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86578,
       "num": 139526,
       "word": "外籍华人百万遗产无人继承",
@@ -8921,14 +9177,6 @@
       "onboard_time": 1763303905,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 85873,
-      "num": 85873,
-      "word": "JDG老板爆料BLG签下Viper",
-      "onboard_time": 1763508620,
-      "rank": 23,
-      "category": "电竞"
     },
     {
       "raw_hot": 85748,
@@ -9075,6 +9323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 82310,
+      "num": 82310,
+      "word": "唐嫣关联9家企业7家已注销",
+      "onboard_time": 1763510000,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 81323,
       "num": 81323,
       "word": "Kael蹲在角落发呆",
@@ -9107,6 +9363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 80588,
+      "num": 80588,
+      "word": "樊振东许昕决赛将对战王楚钦马龙",
+      "onboard_time": 1763510963,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79324,
       "num": 560772,
       "word": "嫦娥六号月壤首现晶质赤铁矿和磁赤铁矿",
@@ -9121,14 +9385,6 @@
       "onboard_time": 1763349801,
       "rank": 44,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 78793,
-      "num": 78793,
-      "word": "深圳一模特比赛冠军引争议",
-      "onboard_time": 1763508738,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 78526,
@@ -9521,14 +9777,6 @@
       "onboard_time": 1763280081,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 66599,
-      "num": 76014,
-      "word": "印度大学保安将脚伸进食堂米锅搅动",
-      "onboard_time": 1763508679,
-      "rank": 27,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 66412,
@@ -10032,6 +10280,14 @@
       "word": "中方回应日本外务省高官访华",
       "onboard_time": 1763405295,
       "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 50199,
+      "num": 176132,
+      "word": "人民日报钟声评高市给中日关系投毒",
+      "onboard_time": 1763516722,
+      "rank": 9,
       "category": "国际时政"
     },
     {
@@ -11507,6 +11763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15290,
+      "num": 141474,
+      "word": "涉女婴手术死亡医生被曝过往纠纷",
+      "onboard_time": 1763517020,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14914,
       "num": 98263,
       "word": "高市早苗闹剧将如何收场",
@@ -11521,6 +11785,14 @@
       "onboard_time": 1763292500,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14620,
+      "num": 98934,
+      "word": "家门口遇害女子妈妈曾与凶手对视",
+      "onboard_time": 1763517141,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14540,
