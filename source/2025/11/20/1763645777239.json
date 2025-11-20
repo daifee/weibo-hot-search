@@ -1,0 +1,410 @@
+{
+  "runTime": 1763645777239,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6225776,
+        "num": 6225776,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763635883,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 661572,
+        "num": 661572,
+        "word": "苏炳添最后一舞",
+        "onboard_time": 1763639483,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23471,
+        "num": 510653,
+        "word": "00后10后闪耀十五运会",
+        "onboard_time": 1763630901,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500981,
+        "num": 500981,
+        "word": "苏炳添谢幕战接力第四",
+        "onboard_time": 1763642787,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 422875,
+        "num": 422875,
+        "word": "日本反对日本",
+        "onboard_time": 1763642905,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2782664,
+        "num": 414577,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 758580,
+        "num": 411522,
+        "word": "樊振东许昕周恺亚军",
+        "onboard_time": 1763643024,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 404598,
+        "num": 404598,
+        "word": "汪苏泷广州跨年演唱会",
+        "onboard_time": 1763637442,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 248732,
+        "num": 404308,
+        "word": "山姆盒马的酸奶是同一家工厂生产",
+        "onboard_time": 1763637502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189931,
+        "num": 403433,
+        "word": "四喜",
+        "onboard_time": 1763645185,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1126246,
+        "num": 402886,
+        "word": "罗晋父亲离世",
+        "onboard_time": 1763635763,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 670673,
+        "num": 401711,
+        "word": "马龙许昕拥抱",
+        "onboard_time": 1763643443,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 500615,
+        "num": 401077,
+        "word": "王楚钦vs许昕",
+        "onboard_time": 1763640743,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273835,
+        "num": 399719,
+        "word": "朱志鑫见面会",
+        "onboard_time": 1763643324,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238221,
+        "num": 398814,
+        "word": "张凌赫张婧仪 王子和公主",
+        "onboard_time": 1763638884,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 398627,
+        "num": 398627,
+        "word": "马龙全运会大满贯",
+        "onboard_time": 1763643923,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 378702,
+        "num": 378702,
+        "word": "王楚钦全运会第2金",
+        "onboard_time": 1763644584,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224166,
+        "num": 376222,
+        "word": "不让江山 陈哲远",
+        "onboard_time": 1763644703,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177893,
+        "num": 376102,
+        "word": "藏海传 小红豆",
+        "onboard_time": 1763633242,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80313,
+        "num": 376101,
+        "word": "烟台压死女老师渣土车司机被定全责",
+        "onboard_time": 1763644703,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 376101,
+        "num": 376100,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1763638763,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1123382,
+        "num": 363615,
+        "word": "胡彦斌 法庭上带着你的破视频",
+        "onboard_time": 1763640563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 615221,
+        "num": 359415,
+        "word": "韩安娜怀宝宝了",
+        "onboard_time": 1763642602,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99617,
+        "num": 344923,
+        "word": "小鹏X9下一代增程太强了",
+        "onboard_time": 1763640623,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 583919,
+        "num": 336015,
+        "word": "时代峰峻 签售",
+        "onboard_time": 1763643203,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 551297,
+        "num": 310741,
+        "word": "王楚钦头撞球桌",
+        "onboard_time": 1763641163,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461272,
+        "num": 300088,
+        "word": "赵雅芝孙女颜值",
+        "onboard_time": 1763638221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 443504,
+        "num": 290976,
+        "word": "胡彦斌 易梦玲",
+        "onboard_time": 1763633541,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283367,
+        "num": 283367,
+        "word": "樊振东强得可怕",
+        "onboard_time": 1763643684,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152789,
+        "num": 270853,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763645424,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 270820,
+        "num": 270820,
+        "word": "马龙圆满了",
+        "onboard_time": 1763644043,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 264591,
+        "num": 264591,
+        "word": "马龙还是马龙",
+        "onboard_time": 1763641823,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 255987,
+        "num": 255987,
+        "word": "这居然是江疏影",
+        "onboard_time": 1763633422,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242258,
+        "num": 242258,
+        "word": "樊振东十五运两胜王楚钦",
+        "onboard_time": 1763641343,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214929,
+        "num": 214929,
+        "word": "小鹏X9超级增程价格真香",
+        "onboard_time": 1763644524,
+        "rank": 34,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212196,
+        "num": 212196,
+        "word": "龙蟒",
+        "onboard_time": 1763644463,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208653,
+        "num": 208653,
+        "word": "乒乓球男团",
+        "onboard_time": 1763639663,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 204676,
+        "num": 204676,
+        "word": "彭小苒自曝过往感情经历",
+        "onboard_time": 1763645003,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203420,
+        "num": 203420,
+        "word": "马龙用男团金牌告别全运会",
+        "onboard_time": 1763645544,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 52878,
+        "num": 200308,
+        "word": "800元能买到精神病诊断和死亡证明",
+        "onboard_time": 1763644884,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196104,
+        "num": 199896,
+        "word": "陈思羽说永远可以相信樊振东",
+        "onboard_time": 1763645482,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199658,
+        "num": 199658,
+        "word": "马龙全运会第5金",
+        "onboard_time": 1763645603,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199576,
+        "num": 199576,
+        "word": "王楚钦樊振东拥抱",
+        "onboard_time": 1763645603,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105018,
+        "num": 194049,
+        "word": "三体公司CEO毒杀游族董事长林奇案始末",
+        "onboard_time": 1763643503,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191025,
+        "num": 191025,
+        "word": "隆冬",
+        "onboard_time": 1763645361,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187217,
+        "num": 187217,
+        "word": "王楚钦赢下许昕如释重负",
+        "onboard_time": 1763645603,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47130,
+        "num": 166516,
+        "word": "三体公司原CEO投毒案",
+        "onboard_time": 1763643503,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166018,
+        "num": 166018,
+        "word": "桃黑黑 大家不要冲动消费",
+        "onboard_time": 1763637742,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 148685,
+        "num": 148685,
+        "word": "王楚钦11比8许昕",
+        "onboard_time": 1763644463,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 146103,
+        "num": 146103,
+        "word": "安倍晋三遇袭身亡案今日继续庭审",
+        "onboard_time": 1763627482,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
