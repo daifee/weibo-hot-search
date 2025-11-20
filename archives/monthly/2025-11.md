@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 18:30:04
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 18:46:18
 </p>
 </blockquote>
 <p>
@@ -1887,6 +1887,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E6%B1%9F%E7%96%8F%E5%BD%B1%23" target="weibo">
+这居然是江疏影（热度：844276）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E6%8E%92%E5%8D%B5%E6%9C%9F%E5%95%8A%23" target="weibo">
 原来这就是排卵期啊（热度：842015）
 </a>
@@ -3675,6 +3681,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3%23" target="weibo">
+王楚钦樊振东一单对决（热度：599653）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%8D%E9%9C%80%E8%A6%81%E7%85%BD%E5%8A%A8%E6%88%98%E4%BA%89%E7%9A%84%E9%A6%96%E7%9B%B8%23" target="weibo">
 日本不需要煽动战争的首相（热度：599526）
 </a>
@@ -5307,12 +5319,6 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3%23" target="weibo">
-王楚钦樊振东一单对决（热度：482560）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A9%86%E5%AA%B3%E4%B8%8A%E5%8E%95%E6%89%80%E8%A2%AB%E6%8C%87%E9%80%A0%E6%88%903%E5%88%B05%E4%B8%87%E5%85%83%E6%8D%9F%E5%A4%B1%23" target="weibo">
 婆媳上厕所被指造成3到5万元损失（热度：482292）
 </a>
@@ -6005,12 +6011,6 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%BF%E6%AF%92%E7%97%87%E5%A4%AB%E5%A6%87%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%96%23" target="weibo">
 网红尿毒症夫妇丈夫离世（热度：442766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%98%93%E5%90%89%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%86%85%E9%9D%9E%E5%B8%B8%E5%8F%97%E6%AC%A2%E8%BF%8E%23" target="weibo">
-路易吉被曝在监狱内非常受欢迎（热度：442700）
 </a>
 </li>
 

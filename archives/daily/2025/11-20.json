@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763634604236,
+  "endTime": 1763635578361,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1042503,
-      "num": 268048,
+      "num": 272377,
       "word": "身份证照片 最接近别人看到的自己",
       "onboard_time": 1763623823,
       "rank": 35,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 892361,
-      "num": 154736,
+      "num": 171223,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763633541,
       "rank": 20,
@@ -120,6 +120,14 @@
       "word": "胡彦斌易梦玲情史",
       "onboard_time": 1763609662,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 844276,
+      "num": 175649,
+      "word": "这居然是江疏影",
+      "onboard_time": 1763633422,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 599653,
+      "num": 1095944,
+      "word": "王楚钦樊振东一单对决",
+      "onboard_time": 1763632342,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 576021,
       "num": 576021,
       "word": "何同学坦言今年公司亏损",
@@ -273,14 +289,6 @@
       "onboard_time": 1763559983,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 482560,
-      "num": 482560,
-      "word": "王楚钦樊振东一单对决",
-      "onboard_time": 1763632342,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 454394,
@@ -331,14 +339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 429817,
-      "num": 153755,
-      "word": "这居然是江疏影",
-      "onboard_time": 1763633422,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 422506,
       "num": 181382,
       "word": "朱婷直言没考虑过国家队",
@@ -356,7 +356,7 @@
     },
     {
       "raw_hot": 405636,
-      "num": 268061,
+      "num": 285473,
       "word": "中方回应赖清德晒日料午餐",
       "onboard_time": 1763629340,
       "rank": 31,
@@ -369,6 +369,14 @@
       "onboard_time": 1763628984,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393572,
+      "num": 393572,
+      "word": "安倍晋三遇袭身亡案今日继续庭审",
+      "onboard_time": 1763627482,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 384573,
@@ -393,6 +401,22 @@
       "onboard_time": 1763629041,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 375595,
+      "num": 375595,
+      "word": "藏海传 小红豆",
+      "onboard_time": 1763633242,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 374980,
+      "num": 374980,
+      "word": "黄友政马龙vs许昕周恺",
+      "onboard_time": 1763632762,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 371773,
@@ -475,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 325985,
-      "num": 325985,
-      "word": "安倍晋三遇袭身亡案今日继续庭审",
-      "onboard_time": 1763627482,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 320141,
       "num": 320141,
       "word": "中方对日反制层层加码",
@@ -505,14 +521,6 @@
       "onboard_time": 1763628322,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 304227,
-      "num": 304227,
-      "word": "藏海传 小红豆",
-      "onboard_time": 1763633242,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 294898,
@@ -561,14 +569,6 @@
       "onboard_time": 1763595620,
       "rank": 4,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 270162,
-      "num": 270162,
-      "word": "黄友政马龙vs许昕周恺",
-      "onboard_time": 1763632762,
-      "rank": 8,
-      "category": "体育"
     },
     {
       "raw_hot": 269708,
@@ -707,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 232632,
+      "num": 166288,
+      "word": "金宇彬回应申敏儿陪其挺过抗癌治疗",
+      "onboard_time": 1763633182,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231588,
       "num": 184230,
       "word": "陈梦哭了",
@@ -809,6 +817,22 @@
       "onboard_time": 1763559384,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 200991,
+      "num": 200991,
+      "word": "易烊千玺赵又廷尽管演 观众自有安排",
+      "onboard_time": 1763633422,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 200933,
+      "num": 200933,
+      "word": "越南劫囚女子遭两记者骚扰摸脸",
+      "onboard_time": 1763633843,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 200890,
@@ -1012,7 +1036,7 @@
     },
     {
       "raw_hot": 174255,
-      "num": 150923,
+      "num": 173152,
       "word": "30万级豪华轿车首选享界S9",
       "onboard_time": 1763632642,
       "rank": 23,
@@ -1065,6 +1089,14 @@
       "onboard_time": 1763622501,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 164816,
+      "num": 164816,
+      "word": "33成功闯进记者赛道",
+      "onboard_time": 1763634864,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 163081,
@@ -1259,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148002,
+      "num": 148002,
+      "word": "乒乓球男团决赛北京vs上海",
+      "onboard_time": 1763633722,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147749,
       "num": 147749,
       "word": "日本政府被判赔偿39亿日元",
@@ -1289,14 +1329,6 @@
       "onboard_time": 1763615541,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143682,
-      "num": 156282,
-      "word": "易烊千玺赵又廷尽管演 观众自有安排",
-      "onboard_time": 1763633422,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 143027,
@@ -1347,6 +1379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 136913,
+      "num": 231065,
+      "word": "iPhone下滑发现的新世界",
+      "onboard_time": 1763630541,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136001,
       "num": 136001,
       "word": "LPL全明星投票开启",
@@ -1363,14 +1403,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 135054,
-      "num": 135054,
-      "word": "乒乓球男团决赛北京vs上海",
-      "onboard_time": 1763633722,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 134663,
       "num": 149026,
       "word": "内娱01年居然就有巡回演唱会了",
@@ -1385,6 +1417,14 @@
       "onboard_time": 1763617281,
       "rank": 42,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 133418,
+      "num": 133418,
+      "word": "六点半与九点半下班的区别",
+      "onboard_time": 1763632342,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 133401,
@@ -1443,6 +1483,14 @@
       "category": "艺人,汽车"
     },
     {
+      "raw_hot": 129611,
+      "num": 129611,
+      "word": "陈雨菲亚军",
+      "onboard_time": 1763635521,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129114,
       "num": 129114,
       "word": "文在寅成韩国首位当博主前总统",
@@ -1475,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126727,
+      "num": 126727,
+      "word": "马龙称男团决赛越打越没谱",
+      "onboard_time": 1763634442,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126597,
       "num": 126597,
       "word": "妈妈借我 全不归还",
@@ -1483,20 +1539,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125927,
-      "num": 231065,
-      "word": "iPhone下滑发现的新世界",
-      "onboard_time": 1763630541,
-      "rank": 46,
-      "category": "数码"
-    },
-    {
       "raw_hot": 125765,
       "num": 164676,
       "word": "一村民3年拨打110电话1771次",
       "onboard_time": 1763618783,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125155,
+      "num": 189450,
+      "word": "迪丽热巴陈星旭演了两个小苦瓜",
+      "onboard_time": 1763634321,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 125081,
@@ -1579,14 +1635,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122593,
-      "num": 122593,
-      "word": "六点半与九点半下班的区别",
-      "onboard_time": 1763632342,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 122546,
       "num": 122546,
       "word": "中方回应是否接受日方的解释",
@@ -1609,6 +1657,14 @@
       "onboard_time": 1763573057,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118888,
+      "num": 118888,
+      "word": "王一博 小狗拍立得",
+      "onboard_time": 1763632223,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 118619,
@@ -1651,14 +1707,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 117030,
-      "num": 117030,
-      "word": "越南劫囚女子遭两记者骚扰摸脸",
-      "onboard_time": 1763633843,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 116793,
       "num": 232592,
       "word": "枭起青壤联名交通卡",
@@ -1691,14 +1739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114680,
-      "num": 149676,
-      "word": "迪丽热巴陈星旭演了两个小苦瓜",
-      "onboard_time": 1763634321,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 114570,
       "num": 168383,
       "word": "好久没见这么有质感的古装剧了",
@@ -1707,12 +1747,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113219,
-      "num": 113219,
-      "word": "王一博 小狗拍立得",
-      "onboard_time": 1763632223,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 113909,
+      "num": 135782,
+      "word": "狂野时代预售票房破9000万",
+      "onboard_time": 1763635460,
+      "rank": 35,
+      "category": "电影"
     },
     {
       "raw_hot": 113052,
@@ -1753,6 +1793,14 @@
       "onboard_time": 1763571677,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106256,
+      "num": 106256,
+      "word": "乒乓球男团决赛阵容",
+      "onboard_time": 1763635521,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 106091,
@@ -1796,7 +1844,7 @@
     },
     {
       "raw_hot": 105137,
-      "num": 147213,
+      "num": 167837,
       "word": "陈芋汐说要动就动真格",
       "onboard_time": 1763633481,
       "rank": 27,
@@ -1833,6 +1881,22 @@
       "onboard_time": 1763600245,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104272,
+      "num": 104272,
+      "word": "学术安陵容",
+      "onboard_time": 1763635162,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103826,
+      "num": 156085,
+      "word": "看上一个人就让他做儿子",
+      "onboard_time": 1763635162,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 103663,
@@ -1921,14 +1985,6 @@
       "onboard_time": 1763628142,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 100392,
-      "num": 100392,
-      "word": "马龙称男团决赛越打越没谱",
-      "onboard_time": 1763634442,
-      "rank": 44,
-      "category": "体育"
     },
     {
       "raw_hot": 100294,
@@ -2283,6 +2339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77844,
+      "num": 134217,
+      "word": "卜凡当道士也是F班水平",
+      "onboard_time": 1763634624,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 77478,
       "num": 180954,
       "word": "孙颖莎安慰何卓佳",
@@ -2305,6 +2369,14 @@
       "onboard_time": 1763599764,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 73408,
+      "num": 506499,
+      "word": "第2次青藏科考发布十大应用成果",
+      "onboard_time": 1763634624,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 73018,
@@ -2651,6 +2723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 41828,
+      "num": 178738,
+      "word": "小鹏X9超级增程续航突破1600公里",
+      "onboard_time": 1763634864,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 40728,
       "num": 205368,
       "word": "丰田全新威兰达全网首测",
@@ -2867,12 +2947,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23750,
+      "num": 588763,
+      "word": "十五运为大湾区带来了什么",
+      "onboard_time": 1763633661,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 23008,
       "num": 416952,
       "word": "北海舰队来吧敌人",
       "onboard_time": 1763623219,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 22058,
+      "num": 134632,
+      "word": "贷款中介倒卖信息产业链曝光",
+      "onboard_time": 1763634682,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 21263,
@@ -2915,6 +3011,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18075,
+      "num": 133563,
+      "word": "可能是最后一次同时看这四个人比赛",
+      "onboard_time": 1763634801,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17467,
+      "num": 177385,
+      "word": "产妇术后体内滞留纱布50天",
+      "onboard_time": 1763635221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17313,
       "num": 33373,
       "word": "凤凰台上",
@@ -2937,14 +3049,6 @@
       "onboard_time": 1763592137,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 14662,
-      "num": 588763,
-      "word": "十五运为大湾区带来了什么",
-      "onboard_time": 1763633661,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 12539,
