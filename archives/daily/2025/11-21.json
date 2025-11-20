@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763656530484,
+  "endTime": 1763657474915,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -89,6 +89,14 @@
       "onboard_time": 1763653580,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 231242,
+      "num": 146434,
+      "word": "杨宗纬报案",
+      "onboard_time": 1763654841,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 202193,
@@ -187,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124414,
-      "num": 133180,
-      "word": "杨宗纬报案",
-      "onboard_time": 1763654841,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123726,
       "num": 123726,
       "word": "美国对中日关系持谨慎态度",
@@ -203,8 +203,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 119868,
-      "num": 119868,
+      "raw_hot": 120734,
+      "num": 120734,
       "word": "Alin竟然瘦成这样了",
       "onboard_time": 1763651603,
       "rank": 27,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85888,
+      "num": 85888,
+      "word": "肥猫演员郑则仕已瘦70斤",
+      "onboard_time": 1763657239,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79126,
       "num": 79126,
       "word": "张凌赫张婧仪 王子和公主",
@@ -331,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69833,
+      "num": 69833,
+      "word": "罗志祥方发布声明",
+      "onboard_time": 1763656041,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66286,
       "num": 66286,
       "word": "朱志鑫见面会",
@@ -363,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61564,
-      "num": 64609,
-      "word": "罗志祥方发布声明",
-      "onboard_time": 1763656041,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61253,
       "num": 64609,
       "word": "全场送别苏炳添",
@@ -387,6 +395,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55161,
+      "num": 55161,
+      "word": "马龙希望和大家一起好好变老",
+      "onboard_time": 1763656819,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 52282,
+      "num": 52282,
+      "word": "大湾鸡是史上最成功的吉祥物",
+      "onboard_time": 1763657119,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 32599,
       "num": 74107,
       "word": "重庆知名幼儿园爆雷负责人被批捕",
@@ -395,7 +419,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16300,
+      "raw_hot": 16514,
       "num": 398497,
       "word": "一人一句为中国体育加油",
       "onboard_time": 1763650461,
