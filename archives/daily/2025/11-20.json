@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763624381523,
+  "endTime": 1763627818257,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1346518,
-      "num": 145058,
+      "num": 200515,
       "word": "易梦玲6月份疑似跟王勉在一起",
       "onboard_time": 1763601083,
       "rank": 25,
@@ -75,11 +75,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1042503,
+      "num": 222670,
+      "word": "身份证照片 最接近别人看到的自己",
+      "onboard_time": 1763623823,
+      "rank": 35,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 1040598,
       "num": 414426,
       "word": "肖战工作室评论回复小红豆",
       "onboard_time": 1763621303,
       "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 879427,
+      "num": 200762,
+      "word": "胡彦斌每一任都是美女",
+      "onboard_time": 1763626162,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -97,6 +113,14 @@
       "onboard_time": 1763609662,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 775972,
+      "num": 1124155,
+      "word": "请日方自重",
+      "onboard_time": 1763625441,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 765820,
@@ -291,6 +315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 376883,
+      "num": 218638,
+      "word": "曝清纯女演员深夜敲导演门",
+      "onboard_time": 1763627002,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371773,
       "num": 429356,
       "word": "44岁博主确诊胆囊癌仅1个月去世",
@@ -369,6 +401,14 @@
       "onboard_time": 1763602282,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 315822,
+      "num": 200078,
+      "word": "程晓玥回应生三胎",
+      "onboard_time": 1763626342,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 312780,
@@ -587,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212060,
+      "num": 245241,
+      "word": "2026高校毕业生预计1270万人",
+      "onboard_time": 1763625021,
+      "rank": 4,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 207542,
       "num": 185502,
       "word": "小海绵身高到baby肩膀了",
@@ -619,6 +667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200890,
+      "num": 200890,
+      "word": "警方回应两大叔夜间拖行女孩",
+      "onboard_time": 1763626281,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 200294,
       "num": 181446,
       "word": "演戏自己不配音 却给动画配音",
@@ -635,11 +691,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 199441,
+      "num": 199441,
+      "word": "花海钎城这很有冬天氛围",
+      "onboard_time": 1763626762,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 199323,
       "num": 181737,
       "word": "李诞劝大家不要算命",
       "onboard_time": 1763558905,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 198924,
+      "num": 198924,
+      "word": "85花关系网",
+      "onboard_time": 1763626222,
+      "rank": 34,
       "category": "艺人"
     },
     {
@@ -697,6 +769,14 @@
       "onboard_time": 1763613744,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 192430,
+      "num": 343223,
+      "word": "银行取消5年期存款对我们有何影响",
+      "onboard_time": 1763623101,
+      "rank": 37,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 191498,
@@ -795,12 +875,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171245,
-      "num": 171245,
-      "word": "身份证照片 最接近别人看到的自己",
-      "onboard_time": 1763623823,
-      "rank": 35,
-      "category": "情感,休闲"
+      "raw_hot": 175497,
+      "num": 175497,
+      "word": "金价",
+      "onboard_time": 1763623701,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 170370,
@@ -1131,12 +1211,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132162,
-      "num": 131262,
-      "word": "金价",
-      "onboard_time": 1763623701,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 132019,
+      "num": 132019,
+      "word": "霸王茶姬创始人与最美光二代联姻",
+      "onboard_time": 1763627782,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131316,
@@ -1155,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130567,
+      "num": 130567,
+      "word": "香港街头印度人",
+      "onboard_time": 1763622261,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129895,
       "num": 165075,
       "word": "张兴朝李嘉诚花式开尚界上街",
@@ -1171,12 +1259,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129097,
-      "num": 129097,
-      "word": "香港街头印度人",
-      "onboard_time": 1763622261,
-      "rank": 46,
-      "category": "民生新闻"
+      "raw_hot": 128434,
+      "num": 128434,
+      "word": "沈腾想让胡先煦上米兰大教堂",
+      "onboard_time": 1763627183,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 126901,
@@ -1219,6 +1307,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 124566,
+      "num": 225287,
+      "word": "何同学坦言今年公司亏损",
+      "onboard_time": 1763627362,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 124283,
       "num": 124283,
       "word": "林高远袁烜松3比1徐瑛彬曹巍",
@@ -1249,6 +1345,14 @@
       "onboard_time": 1763562623,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122546,
+      "num": 122546,
+      "word": "中方回应是否接受日方的解释",
+      "onboard_time": 1763626222,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122310,
@@ -1305,6 +1409,14 @@
       "onboard_time": 1763610983,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 116793,
+      "num": 224169,
+      "word": "枭起青壤联名交通卡",
+      "onboard_time": 1763625802,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 116642,
@@ -1385,14 +1497,6 @@
       "onboard_time": 1763611103,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 105859,
-      "num": 343223,
-      "word": "银行取消5年期存款对我们有何影响",
-      "onboard_time": 1763623101,
-      "rank": 37,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 104741,
@@ -1563,6 +1667,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92467,
+      "num": 199462,
+      "word": "日本广岛牡蛎出现大规模死亡",
+      "onboard_time": 1763626641,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 91381,
       "num": 166872,
       "word": "中国银行工商银行双双创历史新高",
@@ -1603,12 +1715,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 88947,
+      "num": 209064,
+      "word": "终于明白唐诡自我介绍的含金量",
+      "onboard_time": 1763624480,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 88564,
       "num": 180858,
       "word": "何炅以后探店的话我是一家不去",
       "onboard_time": 1763551222,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87845,
+      "num": 199765,
+      "word": "新款享界S9搭载华为旗舰顶配科技",
+      "onboard_time": 1763625982,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 87626,
@@ -1817,6 +1945,14 @@
       "onboard_time": 1763581514,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66215,
+      "num": 129399,
+      "word": "公园内40余只流浪猫惨遭剜眼",
+      "onboard_time": 1763626342,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 65479,
@@ -2043,6 +2179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 45768,
+      "num": 125401,
+      "word": "于正在剧组炒饭",
+      "onboard_time": 1763626342,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45514,
       "num": 280362,
       "word": "张佳宁拯救职场不开心",
@@ -2065,6 +2209,14 @@
       "onboard_time": 1763623882,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40728,
+      "num": 205368,
+      "word": "丰田全新威兰达全网首测",
+      "onboard_time": 1763625922,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 39162,
@@ -2137,6 +2289,14 @@
       "onboard_time": 1763612662,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31110,
+      "num": 120416,
+      "word": "全运会后将退役的老将们",
+      "onboard_time": 1763626222,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 30291,
@@ -2235,11 +2395,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 21263,
+      "num": 134772,
+      "word": "尾号7个5手机靓号59.8万元起拍",
+      "onboard_time": 1763626821,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21119,
       "num": 45157,
       "word": "高市早苗对美国亦步亦趋",
       "onboard_time": 1763574375,
       "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 20994,
+      "num": 202590,
+      "word": "安倍晋三遇袭身亡案今日继续庭审",
+      "onboard_time": 1763627482,
+      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -2291,6 +2467,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 16277,
+      "num": 134548,
+      "word": "会用AI就以为自己很厉害吗",
+      "onboard_time": 1763627543,
+      "rank": 39,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 12118,
       "num": 103513,
       "word": "拒绝熊猫表演 拒绝不了熊猫自己整活",
@@ -2299,7 +2483,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1106,
+      "raw_hot": 1664,
       "num": 442587,
       "word": "e法润京华",
       "onboard_time": 1763545702,

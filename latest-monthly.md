@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 15:39:41
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 16:36:58
 </p>
 </blockquote>
 <p>
@@ -1269,6 +1269,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BA%AB%E4%BB%BD%E8%AF%81%E7%85%A7%E7%89%87%20%E6%9C%80%E6%8E%A5%E8%BF%91%E5%88%AB%E4%BA%BA%E7%9C%8B%E5%88%B0%E7%9A%84%E8%87%AA%E5%B7%B1%23" target="weibo">
+身份证照片 最接近别人看到的自己（热度：1042503）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%B7%A5%E4%BD%9C%E5%AE%A4%E8%AF%84%E8%AE%BA%E5%9B%9E%E5%A4%8D%E5%B0%8F%E7%BA%A2%E8%B1%86%23" target="weibo">
 肖战工作室评论回复小红豆（热度：1040598）
 </a>
@@ -1719,6 +1725,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%AF%8F%E4%B8%80%E4%BB%BB%E9%83%BD%E6%98%AF%E7%BE%8E%E5%A5%B3%23" target="weibo">
+胡彦斌每一任都是美女（热度：879427）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8D%E5%B7%A5%E4%BD%9C%E4%BA%BA%E5%91%98%E6%8E%A7%E8%AF%89%E6%9B%BE%E8%BD%B6%E5%8F%AF%23" target="weibo">
 前工作人员控诉曾轶可（热度：877865）
 </a>
@@ -2165,6 +2177,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%BF%83%E8%84%8F%E6%89%8B%E6%9C%AF%E5%8E%BB%E4%B8%96%E6%B6%89%E4%BA%8B%E5%8C%BB%E7%94%9F%E5%B7%B2%E5%81%9C%E8%AF%8A%23" target="weibo">
 女婴心脏手术去世涉事医生已停诊（热度：776195）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%97%A5%E6%96%B9%E8%87%AA%E9%87%8D%23" target="weibo">
+请日方自重（热度：775972）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Kanavi HLE（热度：442015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AE%E8%A1%80400ml%E6%B2%A1%E4%BA%8B%E5%A4%B1%E8%A1%80400ml%E5%BE%88%E5%8D%B1%E9%99%A9%23" target="weibo">
 献血400ml没事失血400ml很危险（热度：440968）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AA%A8%E7%81%B0%E7%9B%92%E4%BB%B7%E6%A0%BC%23" target="weibo">
-骨灰盒价格（热度：440790）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D%20%E6%92%A4%E6%A1%A3%23" target="weibo">
-唐嫣爱情没有神话 撤档（热度：440325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%98%89%E4%BD%99%E6%89%93%E7%A0%B4%E5%85%A8%E5%9B%BD%E7%BA%AA%E5%BD%95%23" target="weibo">
-徐嘉余打破全国纪录（热度：440306）
 </a>
 </li>
 
