@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763664699836,
+  "endTime": 1763666587793,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -18515,6 +18515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16642,
+      "num": 31647,
+      "word": "研究称孕期压力大宝宝长牙更早",
+      "onboard_time": 1763664555,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 16544,
       "num": 45149,
       "word": "国际金银反弹",
@@ -18532,19 +18540,11 @@
     },
     {
       "raw_hot": 16211,
-      "num": 24641,
+      "num": 31809,
       "word": "电影狂野时代",
       "onboard_time": 1763660056,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16172,
-      "num": 24631,
-      "word": "研究称孕期压力大宝宝长牙更早",
-      "onboard_time": 1763664555,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 15958,
@@ -18609,6 +18609,14 @@
       "onboard_time": 1763492534,
       "rank": 34,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13739,
+      "num": 31384,
+      "word": "借台湾生事只会给日本找事",
+      "onboard_time": 1763666115,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13607,
