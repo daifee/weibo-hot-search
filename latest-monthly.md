@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 16:36:58
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 16:50:07
 </p>
 </blockquote>
 <p>
@@ -1995,6 +1995,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%97%A5%E6%96%B9%E8%87%AA%E9%87%8D%23" target="weibo">
+请日方自重（热度：813009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%E5%81%B6%E9%81%87%E4%BD%95%E8%B6%85%E8%8E%B2%E7%AA%A6%E9%AA%81%23" target="weibo">
 澳大利亚偶遇何超莲窦骁（热度：811661）
 </a>
@@ -2181,12 +2187,6 @@ iPhone可以检测针孔摄像头（热度：798914）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AF%B7%E6%97%A5%E6%96%B9%E8%87%AA%E9%87%8D%23" target="weibo">
-请日方自重（热度：775972）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E5%90%AC%E5%88%B0%E5%BC%A0%E5%BA%B7%E4%B9%90%E7%9A%84%E5%8F%8D%E5%BA%94%23" target="weibo">
 赵樱子听到张康乐的反应（热度：775494）
 </a>
@@ -2333,6 +2333,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%98%A6%E4%BA%86%E5%90%8E%E5%87%BA%E7%89%87%E5%83%8F%E5%91%BC%E5%90%B8%E4%B8%80%E6%A0%B7%E7%AE%80%E5%8D%95%23" target="weibo">
 瘦了后出片像呼吸一样简单（热度：755616）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%B8%85%E7%BA%AF%E5%A5%B3%E6%BC%94%E5%91%98%E6%B7%B1%E5%A4%9C%E6%95%B2%E5%AF%BC%E6%BC%94%E9%97%A8%23" target="weibo">
+曝清纯女演员深夜敲导演门（热度：754991）
 </a>
 </li>
 
@@ -4995,6 +5001,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA%E5%B7%B2%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%8B%E6%80%81%E5%8D%81%E5%88%86%E4%B8%A5%E9%87%8D%23" target="weibo">
+日本舆论已意识到事态十分严重（热度：498590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E8%BE%9F%E8%B0%A3%E6%92%92%E8%B4%9D%E5%AE%81%E5%9B%9E%E5%BD%92%E5%A4%A7%E4%BE%A6%E6%8E%A2%23" target="weibo">
 芒果辟谣撒贝宁回归大侦探（热度：496356）
 </a>
@@ -5999,18 +6011,6 @@ Kanavi HLE（热度：442015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%B7%B2%E7%BB%8F%E5%8F%91%E5%B1%95%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23" target="weibo">
 深圳已经发展成这样了吗（热度：441431）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B0%AD%E5%87%AF%E5%9B%9E%E5%A4%8D%23" target="weibo">
-谭凯回复（热度：441429）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AE%E8%A1%80400ml%E6%B2%A1%E4%BA%8B%E5%A4%B1%E8%A1%80400ml%E5%BE%88%E5%8D%B1%E9%99%A9%23" target="weibo">
-献血400ml没事失血400ml很危险（热度：440968）
 </a>
 </li>
 

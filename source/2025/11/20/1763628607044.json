@@ -1,0 +1,410 @@
+{
+  "runTime": 1763628607044,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 813009,
+        "num": 1130081,
+        "word": "请日方自重",
+        "onboard_time": 1763625441,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304856,
+        "num": 304856,
+        "word": "王者荣耀",
+        "onboard_time": 1763621422,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1329,
+        "num": 271499,
+        "word": "e法润京华",
+        "onboard_time": 1763545702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 498590,
+        "num": 270419,
+        "word": "日本舆论已意识到事态十分严重",
+        "onboard_time": 1763619682,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 268499,
+        "num": 268499,
+        "word": "何同学坦言今年公司亏损",
+        "onboard_time": 1763627362,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 211378,
+        "num": 211378,
+        "word": "中国对日本的施压正在逐渐上升",
+        "onboard_time": 1763614404,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 187531,
+        "num": 187531,
+        "word": "2026高校毕业生预计1270万人",
+        "onboard_time": 1763625021,
+        "rank": 6,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 171679,
+        "num": 171679,
+        "word": "郑大一附院西院区今起停诊",
+        "onboard_time": 1763620582,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170334,
+        "num": 170334,
+        "word": "雅思组合夺金谢幕",
+        "onboard_time": 1763628322,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148305,
+        "num": 148305,
+        "word": "雷军承诺做好三件事",
+        "onboard_time": 1763613084,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 987960,
+        "num": 146367,
+        "word": "身份证照片 最接近别人看到的自己",
+        "onboard_time": 1763623823,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 754991,
+        "num": 145254,
+        "word": "曝清纯女演员深夜敲导演门",
+        "onboard_time": 1763627002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196202,
+        "num": 143200,
+        "word": "44岁博主确诊胆囊癌仅1个月去世",
+        "onboard_time": 1763617402,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185426,
+        "num": 140755,
+        "word": "警方回应两大叔夜间拖行女孩",
+        "onboard_time": 1763626281,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179294,
+        "num": 138786,
+        "word": "印度想对华出口水产品",
+        "onboard_time": 1763613084,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138440,
+        "num": 138440,
+        "word": "何同学为网约车言论致歉",
+        "onboard_time": 1763627842,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112176,
+        "num": 112176,
+        "word": "枭起青壤联名交通卡",
+        "onboard_time": 1763625802,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39900,
+        "num": 111008,
+        "word": "新款享界S9搭载华为旗舰顶配科技",
+        "onboard_time": 1763625982,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 32996,
+        "num": 110270,
+        "word": "丰田全新威兰达全网首测",
+        "onboard_time": 1763625922,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 110053,
+        "num": 110053,
+        "word": "安倍晋三遇袭身亡案今日继续庭审",
+        "onboard_time": 1763627482,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1365426,
+        "num": 109164,
+        "word": "霸王茶姬创始人结婚",
+        "onboard_time": 1763622681,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 817762,
+        "num": 108703,
+        "word": "胡彦斌每一任都是美女",
+        "onboard_time": 1763626162,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 601812,
+        "num": 108146,
+        "word": "肖战工作室评论回复小红豆",
+        "onboard_time": 1763621303,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383362,
+        "num": 107181,
+        "word": "程晓玥回应生三胎",
+        "onboard_time": 1763626342,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207619,
+        "num": 106277,
+        "word": "银行取消5年期存款对我们有何影响",
+        "onboard_time": 1763623101,
+        "rank": 24,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 105574,
+        "num": 105574,
+        "word": "R1SE录个节目砍了100根甘蔗",
+        "onboard_time": 1763628382,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105569,
+        "num": 105569,
+        "word": "看完唐诡终于理解门第观念",
+        "onboard_time": 1763628441,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94745,
+        "num": 105533,
+        "word": "西安交大第一附属医院被举报",
+        "onboard_time": 1763628200,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87237,
+        "num": 105461,
+        "word": "终于明白唐诡自我介绍的含金量",
+        "onboard_time": 1763624480,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 363247,
+        "num": 105367,
+        "word": "易梦玲6月份疑似跟王勉在一起",
+        "onboard_time": 1763601083,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 294716,
+        "num": 105289,
+        "word": "朱朱小桃分手",
+        "onboard_time": 1763620642,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 223995,
+        "num": 105205,
+        "word": "85花关系网",
+        "onboard_time": 1763626222,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 218992,
+        "num": 105166,
+        "word": "董璇觉得自己老来得子",
+        "onboard_time": 1763616441,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190402,
+        "num": 105048,
+        "word": "金价",
+        "onboard_time": 1763623701,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 466568,
+        "num": 104977,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25594,
+        "num": 104911,
+        "word": "老漂族 父母还是保姆",
+        "onboard_time": 1763628441,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86972,
+        "num": 104782,
+        "word": "尖叫之夜 抢票",
+        "onboard_time": 1763617462,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42349,
+        "num": 104715,
+        "word": "德媒称德国无牌可打",
+        "onboard_time": 1763627902,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25494,
+        "num": 104639,
+        "word": "会用AI就以为自己很厉害吗",
+        "onboard_time": 1763627543,
+        "rank": 38,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 165597,
+        "num": 104524,
+        "word": "小黄豆整容",
+        "onboard_time": 1763616741,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 125081,
+        "num": 104460,
+        "word": "李茂对小李琳说我又不是你老公",
+        "onboard_time": 1763628322,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120894,
+        "num": 104378,
+        "word": "曝Viper时隔3年回归LPL",
+        "onboard_time": 1763628263,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104362,
+        "num": 104362,
+        "word": "花海钎城这很有冬天氛围",
+        "onboard_time": 1763626762,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107386,
+        "num": 103194,
+        "word": "A股",
+        "onboard_time": 1763622621,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 104842,
+        "num": 103087,
+        "word": "香港街头印度人",
+        "onboard_time": 1763622261,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91413,
+        "num": 102228,
+        "word": "孙杨潘展乐评价张展硕",
+        "onboard_time": 1763627962,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101450,
+        "num": 101450,
+        "word": "余承东官宣享界S9T大定突破三万台",
+        "onboard_time": 1763628142,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 101251,
+        "num": 101251,
+        "word": "20岁用一个月确诊了糖尿病",
+        "onboard_time": 1763624602,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97360,
+        "num": 97360,
+        "word": "霸王茶姬创始人与最美光二代联姻",
+        "onboard_time": 1763627782,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94618,
+        "num": 94618,
+        "word": "一奶茶去冰店员将被罚款",
+        "onboard_time": 1763624422,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}

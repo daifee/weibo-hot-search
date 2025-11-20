@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763627818257,
+  "endTime": 1763628607044,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -763,6 +763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 813009,
+      "num": 1130081,
+      "word": "请日方自重",
+      "onboard_time": 1763625441,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 811504,
       "num": 716533,
       "word": "袁弘 帝后",
@@ -835,14 +843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 775972,
-      "num": 1124155,
-      "word": "请日方自重",
-      "onboard_time": 1763625441,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 773492,
       "num": 773492,
       "word": "俄罗斯警告高市早苗",
@@ -905,6 +905,14 @@
       "onboard_time": 1763342541,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 754991,
+      "num": 218638,
+      "word": "曝清纯女演员深夜敲导演门",
+      "onboard_time": 1763627002,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 752979,
@@ -1819,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 498590,
+      "num": 396846,
+      "word": "日本舆论已意识到事态十分严重",
+      "onboard_time": 1763619682,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 496303,
       "num": 496303,
       "word": "巩立姣官宣退役",
@@ -2355,14 +2371,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 429238,
-      "num": 396846,
-      "word": "日本舆论已意识到事态十分严重",
-      "onboard_time": 1763619682,
-      "rank": 26,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 428111,
       "num": 679781,
       "word": "易烊千玺与他的金鸡奖杯",
@@ -2715,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383362,
+      "num": 200078,
+      "word": "程晓玥回应生三胎",
+      "onboard_time": 1763626342,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 382962,
       "num": 450430,
       "word": "天才女友官宣杀青",
@@ -2769,14 +2785,6 @@
       "onboard_time": 1763463802,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 376883,
-      "num": 218638,
-      "word": "曝清纯女演员深夜敲导演门",
-      "onboard_time": 1763627002,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 376192,
@@ -3435,14 +3443,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 315822,
-      "num": 200078,
-      "word": "程晓玥回应生三胎",
-      "onboard_time": 1763626342,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 315672,
       "num": 220029,
       "word": "Shanks 真没劲儿",
@@ -4089,6 +4089,14 @@
       "onboard_time": 1763540722,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268499,
+      "num": 268499,
+      "word": "何同学坦言今年公司亏损",
+      "onboard_time": 1763627362,
+      "rank": 8,
+      "category": "互联网"
     },
     {
       "raw_hot": 268209,
@@ -4843,6 +4851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 223995,
+      "num": 198924,
+      "word": "85花关系网",
+      "onboard_time": 1763626222,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223977,
       "num": 207328,
       "word": "朱雨玲采访",
@@ -5185,6 +5201,14 @@
       "onboard_time": 1763534962,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 207619,
+      "num": 343223,
+      "word": "银行取消5年期存款对我们有何影响",
+      "onboard_time": 1763623101,
+      "rank": 37,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 207406,
@@ -5539,14 +5563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 198924,
-      "num": 198924,
-      "word": "85花关系网",
-      "onboard_time": 1763626222,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 198870,
       "num": 267902,
       "word": "杨瀚森强硬单打",
@@ -5835,14 +5851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 192430,
-      "num": 343223,
-      "word": "银行取消5年期存款对我们有何影响",
-      "onboard_time": 1763623101,
-      "rank": 37,
-      "category": "财经,民生新闻"
-    },
-    {
       "raw_hot": 192414,
       "num": 151817,
       "word": "孙颖莎首局11比7",
@@ -5961,6 +5969,14 @@
       "onboard_time": 1763276842,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 190402,
+      "num": 175497,
+      "word": "金价",
+      "onboard_time": 1763623701,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 190186,
@@ -6731,14 +6747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 175497,
-      "num": 175497,
-      "word": "金价",
-      "onboard_time": 1763623701,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 175443,
       "num": 175443,
       "word": "历任工作人员集体发声力挺曾轶可",
@@ -6937,6 +6945,14 @@
       "onboard_time": 1763610263,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170334,
+      "num": 170334,
+      "word": "雅思组合夺金谢幕",
+      "onboard_time": 1763628322,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 169935,
@@ -8899,6 +8915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138440,
+      "num": 138440,
+      "word": "何同学为网约车言论致歉",
+      "onboard_time": 1763627842,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 138418,
       "num": 138418,
       "word": "孙颖莎朱雨玲爆分",
@@ -9875,6 +9899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125081,
+      "num": 104460,
+      "word": "李茂对小李琳说我又不是你老公",
+      "onboard_time": 1763628322,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 125058,
       "num": 147556,
       "word": "张博恒是发烧了",
@@ -9929,14 +9961,6 @@
       "onboard_time": 1763357181,
       "rank": 44,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124566,
-      "num": 225287,
-      "word": "何同学坦言今年公司亏损",
-      "onboard_time": 1763627362,
-      "rank": 8,
-      "category": "互联网"
     },
     {
       "raw_hot": 124497,
@@ -10361,6 +10385,14 @@
       "onboard_time": 1763454863,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 120894,
+      "num": 104378,
+      "word": "曝Viper时隔3年回归LPL",
+      "onboard_time": 1763628263,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 120642,
@@ -11379,6 +11411,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 110053,
+      "num": 202590,
+      "word": "安倍晋三遇袭身亡案今日继续庭审",
+      "onboard_time": 1763627482,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 109802,
       "num": 425120,
       "word": "A股缩量177亿调整",
@@ -11771,6 +11811,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105574,
+      "num": 105574,
+      "word": "R1SE录个节目砍了100根甘蔗",
+      "onboard_time": 1763628382,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 105569,
+      "num": 105569,
+      "word": "看完唐诡终于理解门第观念",
+      "onboard_time": 1763628441,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105545,
       "num": 105545,
       "word": "1分钟我要这只熊猫的全部信息",
@@ -12129,6 +12185,22 @@
       "onboard_time": 1763471544,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 101450,
+      "num": 101450,
+      "word": "余承东官宣享界S9T大定突破三万台",
+      "onboard_time": 1763628142,
+      "rank": 46,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 101251,
+      "num": 101251,
+      "word": "20岁用一个月确诊了糖尿病",
+      "onboard_time": 1763624602,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 101199,
@@ -12611,12 +12683,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94745,
+      "num": 105533,
+      "word": "西安交大第一附属医院被举报",
+      "onboard_time": 1763628200,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94736,
       "num": 118707,
       "word": "四川舰顺利完成首次航行试验",
       "onboard_time": 1763286382,
       "rank": 33,
       "category": "国际时政,军事"
+    },
+    {
+      "raw_hot": 94618,
+      "num": 94618,
+      "word": "一奶茶去冰店员将被罚款",
+      "onboard_time": 1763624422,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94533,
@@ -12825,6 +12913,14 @@
       "onboard_time": 1763512043,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 91413,
+      "num": 102228,
+      "word": "孙杨潘展乐评价张展硕",
+      "onboard_time": 1763627962,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 91381,
@@ -15123,6 +15219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42349,
+      "num": 104715,
+      "word": "德媒称德国无牌可打",
+      "onboard_time": 1763627902,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42169,
       "num": 222105,
       "word": "台海的事关日本人什么事",
@@ -16195,6 +16299,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25594,
+      "num": 104911,
+      "word": "老漂族 父母还是保姆",
+      "onboard_time": 1763628441,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25494,
+      "num": 134548,
+      "word": "会用AI就以为自己很厉害吗",
+      "onboard_time": 1763627543,
+      "rank": 39,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 25358,
       "num": 113659,
       "word": "一年57亿次门诊背后的监管难题",
@@ -16409,14 +16529,6 @@
       "onboard_time": 1763533640,
       "rank": 38,
       "category": "艺人,作品衍生"
-    },
-    {
-      "raw_hot": 20994,
-      "num": 202590,
-      "word": "安倍晋三遇袭身亡案今日继续庭审",
-      "onboard_time": 1763627482,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20949,
@@ -16665,14 +16777,6 @@
       "onboard_time": 1763217328,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 16277,
-      "num": 134548,
-      "word": "会用AI就以为自己很厉害吗",
-      "onboard_time": 1763627543,
-      "rank": 39,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 15628,
