@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763613877855,
+  "endTime": 1763616472445,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -121,6 +121,14 @@
       "onboard_time": 1763515821,
       "rank": 20,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 1996347,
+      "num": 179086,
+      "word": "胡彦斌和妈妈看了易梦玲话剧",
+      "onboard_time": 1763614223,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1924085,
@@ -1603,6 +1611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 521012,
+      "num": 1083361,
+      "word": "印度想对华出口水产品",
+      "onboard_time": 1763613084,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 519757,
       "num": 519757,
       "word": "鬼灭之刃票房",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1763540423,
       "rank": 28,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 433815,
+      "num": 433815,
+      "word": "中国对日本的施压正在逐渐上升",
+      "onboard_time": 1763614404,
+      "rank": 3,
+      "category": "国内时政"
     },
     {
       "raw_hot": 433652,
@@ -4003,6 +4027,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 263168,
+      "num": 292282,
+      "word": "再见爱人",
+      "onboard_time": 1763613384,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 263117,
       "num": 244062,
       "word": "朝鲜媒体警告日本",
@@ -4219,6 +4251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 251022,
+      "num": 211491,
+      "word": "杨超越 客厅沙发睡着了",
+      "onboard_time": 1763612484,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250008,
       "num": 250008,
       "word": "T1 Guma",
@@ -4427,6 +4467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 235444,
+      "num": 235444,
+      "word": "日本最大核电站将重启运行",
+      "onboard_time": 1763614824,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 235070,
       "num": 237627,
       "word": "尾号11111111手机靓号120万起拍",
@@ -4449,6 +4497,14 @@
       "onboard_time": 1763472804,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 234410,
+      "num": 279510,
+      "word": "什么剧集齐2个影后4个影帝",
+      "onboard_time": 1763613384,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 234047,
@@ -4779,14 +4835,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 216401,
-      "num": 292282,
-      "word": "再见爱人",
-      "onboard_time": 1763613384,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 215804,
       "num": 215804,
       "word": "T1官宣Doran续约",
@@ -4864,14 +4912,6 @@
       "word": "周翊然伸手扶孟子义下台阶",
       "onboard_time": 1763562623,
       "rank": 19,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 211491,
-      "num": 211491,
-      "word": "杨超越 客厅沙发睡着了",
-      "onboard_time": 1763612484,
-      "rank": 46,
       "category": "艺人"
     },
     {
@@ -5361,6 +5401,14 @@
       "onboard_time": 1763601024,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196921,
+      "num": 196921,
+      "word": "雷军承诺做好三件事",
+      "onboard_time": 1763613084,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 196781,
@@ -6059,6 +6107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 183767,
+      "num": 178962,
+      "word": "曝Keria的建议选择了Peyz",
+      "onboard_time": 1763615423,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 183352,
       "num": 259602,
       "word": "张展硕1500米自由泳夺冠",
@@ -6227,14 +6283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 180127,
-      "num": 180127,
-      "word": "雷军承诺做好三件事",
-      "onboard_time": 1763613084,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 179942,
       "num": 159034,
       "word": "樊振东夺冠登上新闻联播",
@@ -6275,12 +6323,28 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 179234,
+      "num": 179234,
+      "word": "凤凰台上离婚夫妻再见的第一面",
+      "onboard_time": 1763615962,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179026,
       "num": 179026,
       "word": "男子腹部CT检出子宫",
       "onboard_time": 1763445563,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178957,
+      "num": 178957,
+      "word": "考研最难上岸的三种同学",
+      "onboard_time": 1763615782,
+      "rank": 32,
+      "category": "教育"
     },
     {
       "raw_hot": 178713,
@@ -6505,6 +6569,14 @@
       "onboard_time": 1763302283,
       "rank": 27,
       "category": "教育"
+    },
+    {
+      "raw_hot": 173206,
+      "num": 173206,
+      "word": "王安宇看白敬亭李湘看王诗龄",
+      "onboard_time": 1763615842,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 173163,
@@ -7259,6 +7331,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157423,
+      "num": 157423,
+      "word": "陈梦感谢家人球迷",
+      "onboard_time": 1763616322,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 157419,
       "num": 185008,
       "word": "中国游客减少冲击日本GDP",
@@ -7289,6 +7369,14 @@
       "onboard_time": 1763291002,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 156795,
+      "num": 156795,
+      "word": "母亲赶到时女儿已盖白布手脚在外",
+      "onboard_time": 1763614824,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156787,
@@ -7547,6 +7635,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 153185,
+      "num": 152495,
+      "word": "流感停课",
+      "onboard_time": 1763615242,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153115,
       "num": 153115,
       "word": "法国夫妇害怕房子被强占不敢出远门",
@@ -7641,6 +7737,14 @@
       "onboard_time": 1763255120,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 152001,
+      "num": 152001,
+      "word": "陈梦说拿到金牌铜牌不可思议",
+      "onboard_time": 1763616203,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 151947,
@@ -7891,6 +7995,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 147748,
+      "num": 179100,
+      "word": "第五人格",
+      "onboard_time": 1763614223,
+      "rank": 20,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 147663,
       "num": 147663,
       "word": "张韶涵这套高定上有80万颗水晶",
@@ -7961,6 +8073,14 @@
       "onboard_time": 1763271441,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146980,
+      "num": 146980,
+      "word": "李纯1秒镜头梦回7年前狠女",
+      "onboard_time": 1763615541,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 146859,
@@ -8115,6 +8235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144235,
+      "num": 144235,
+      "word": "董璇觉得自己老来得子",
+      "onboard_time": 1763616441,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143628,
       "num": 194978,
       "word": "童瑶 挑选剧本眼光",
@@ -8153,6 +8281,14 @@
       "onboard_time": 1763562082,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 143027,
+      "num": 179010,
+      "word": "美国这次没敢公开偏袒日本",
+      "onboard_time": 1763614824,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142981,
@@ -8595,6 +8731,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136001,
+      "num": 136001,
+      "word": "LPL全明星投票开启",
+      "onboard_time": 1763616441,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 135999,
       "num": 135999,
       "word": "张博恒双杠银牌",
@@ -8617,6 +8761,14 @@
       "onboard_time": 1763463743,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135705,
+      "num": 208936,
+      "word": "董璇张维伊牵手走机场",
+      "onboard_time": 1763613502,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 135623,
@@ -10251,6 +10403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116960,
+      "num": 179001,
+      "word": "日本冲绳再曝驻日美军性暴力事件",
+      "onboard_time": 1763616084,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 116904,
       "num": 182237,
       "word": "日本对中国本就欠着血债",
@@ -10264,14 +10424,6 @@
       "word": "迪丽热巴枭起青壤全是人生镜头",
       "onboard_time": 1763557103,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 116657,
-      "num": 279510,
-      "word": "什么剧集齐2个影后4个影帝",
-      "onboard_time": 1763613384,
-      "rank": 18,
       "category": "剧集"
     },
     {
@@ -10393,14 +10545,6 @@
       "onboard_time": 1763452823,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115697,
-      "num": 278021,
-      "word": "印度想对华出口水产品",
-      "onboard_time": 1763613084,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115686,
@@ -11811,6 +11955,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98137,
+      "num": 152589,
+      "word": "Papi说爱妻人设是梁淞的造型需求",
+      "onboard_time": 1763616023,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98136,
       "num": 98136,
       "word": "俞敏洪辟谣坐邮轮花148万",
@@ -12923,6 +13075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77184,
+      "num": 152842,
+      "word": "能跟上王一博的不是站姐是战狼",
+      "onboard_time": 1763615962,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76894,
       "num": 110423,
       "word": "日本5公斤装大米均价约198元",
@@ -13297,14 +13457,6 @@
       "onboard_time": 1763461822,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 68426,
-      "num": 208936,
-      "word": "董璇张维伊牵手走机场",
-      "onboard_time": 1763613502,
-      "rank": 37,
-      "category": "艺人"
     },
     {
       "raw_hot": 68266,
@@ -14611,6 +14763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38425,
+      "num": 154319,
+      "word": "民警卧底传销组织曝光疯狂洗脑场面",
+      "onboard_time": 1763616441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38171,
       "num": 123080,
       "word": "看完疯狂动物城我就这么发朋友圈",
@@ -15099,6 +15259,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31222,
+      "num": 448065,
+      "word": "跟着全运逛湾区",
+      "onboard_time": 1763612662,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31185,
       "num": 160336,
       "word": "代办退订日本酒店20元一单提供录音",
@@ -15281,14 +15449,6 @@
       "onboard_time": 1763462181,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 28592,
-      "num": 448065,
-      "word": "跟着全运逛湾区",
-      "onboard_time": 1763612662,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 28337,
