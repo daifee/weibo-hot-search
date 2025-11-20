@@ -1,7 +1,15 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763637882720,
+  "endTime": 1763638724747,
   "band_list": [
+    {
+      "raw_hot": 5990359,
+      "num": 5990359,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763635883,
+      "rank": 0,
+      "category": "体育"
+    },
     {
       "raw_hot": 5484173,
       "num": 5484173,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 2938136,
-      "num": 195371,
+      "num": 198008,
       "word": "罗晋父亲离世",
       "onboard_time": 1763635763,
       "rank": 10,
@@ -25,14 +33,6 @@
       "onboard_time": 1763609902,
       "rank": 10,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 2579777,
-      "num": 2579777,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1763635883,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 2403933,
@@ -515,6 +515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 321194,
+      "num": 321194,
+      "word": "马龙黄友政3比1许昕周恺",
+      "onboard_time": 1763636484,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 320141,
       "num": 320141,
       "word": "中方对日反制层层加码",
@@ -537,6 +545,22 @@
       "onboard_time": 1763628322,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 300729,
+      "num": 166139,
+      "word": "桃黑黑 大家不要冲动消费",
+      "onboard_time": 1763637742,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 296172,
+      "num": 200933,
+      "word": "越南劫囚女子遭两记者骚扰摸脸",
+      "onboard_time": 1763633843,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 294898,
@@ -587,12 +611,12 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 271537,
-      "num": 200933,
-      "word": "越南劫囚女子遭两记者骚扰摸脸",
-      "onboard_time": 1763633843,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 272332,
+      "num": 223524,
+      "word": "汪苏泷广州跨年演唱会",
+      "onboard_time": 1763637442,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 269708,
@@ -691,14 +715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 242605,
-      "num": 242605,
-      "word": "马龙黄友政3比1许昕周恺",
-      "onboard_time": 1763636484,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 242014,
       "num": 242014,
       "word": "台当局竟要求民众绝不向大陆投降",
@@ -771,14 +787,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 223524,
-      "num": 223524,
-      "word": "汪苏泷广州跨年演唱会",
-      "onboard_time": 1763637442,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 223300,
       "num": 223300,
       "word": "人 你的小孩一直在响",
@@ -819,6 +827,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 208108,
+      "num": 170820,
+      "word": "王楚钦11比8樊振东",
+      "onboard_time": 1763638403,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 207619,
       "num": 343223,
       "word": "银行取消5年期存款对我们有何影响",
@@ -856,6 +872,14 @@
       "word": "陈梦王晓彤范思琦冠军",
       "onboard_time": 1763559384,
       "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 202198,
+      "num": 202198,
+      "word": "全运会",
+      "onboard_time": 1763637682,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -963,6 +987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194498,
+      "num": 194498,
+      "word": "乒乓球男团决赛北京vs上海",
+      "onboard_time": 1763633722,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191498,
       "num": 191498,
       "word": "张一山没有不红 是红的太早了",
@@ -1003,12 +1035,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186292,
+      "num": 186292,
+      "word": "陈雨菲亚军",
+      "onboard_time": 1763635521,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186280,
+      "num": 167138,
+      "word": "王楚钦7比11樊振东",
+      "onboard_time": 1763638281,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 183767,
       "num": 185477,
       "word": "曝Keria的建议选择了Peyz",
       "onboard_time": 1763615423,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183756,
+      "num": 183756,
+      "word": "张凌赫张婧仪 兰蔻",
+      "onboard_time": 1763638161,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 182869,
@@ -1051,12 +1107,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177350,
-      "num": 177350,
-      "word": "全运会",
-      "onboard_time": 1763637682,
-      "rank": 29,
-      "category": "体育"
+      "raw_hot": 176762,
+      "num": 190032,
+      "word": "四喜别看第四集",
+      "onboard_time": 1763637384,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 176679,
@@ -1091,12 +1147,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 172463,
-      "num": 178949,
-      "word": "陈雨菲亚军",
-      "onboard_time": 1763635521,
-      "rank": 41,
-      "category": "体育"
+      "raw_hot": 171874,
+      "num": 163106,
+      "word": "白敬亭你也love了",
+      "onboard_time": 1763638102,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 170370,
@@ -1169,6 +1225,14 @@
       "onboard_time": 1763634202,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162822,
+      "num": 162822,
+      "word": "关晓彤14岁的身材比例",
+      "onboard_time": 1763635822,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 162712,
@@ -1259,6 +1323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156337,
+      "num": 156337,
+      "word": "王楚钦3比11樊振东",
+      "onboard_time": 1763638463,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 156253,
       "num": 130341,
       "word": "日本很可能在进行某种舆论准备",
@@ -1273,6 +1345,14 @@
       "onboard_time": 1763603960,
       "rank": 8,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 154772,
+      "num": 187067,
+      "word": "山姆盒马的酸奶是同一家工厂生产",
+      "onboard_time": 1763637502,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152836,
@@ -1345,14 +1425,6 @@
       "onboard_time": 1763628441,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 148002,
-      "num": 148002,
-      "word": "乒乓球男团决赛北京vs上海",
-      "onboard_time": 1763633722,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 147749,
@@ -1441,6 +1513,14 @@
       "onboard_time": 1763630961,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 140099,
+      "num": 140099,
+      "word": "男团赛前马龙许昕罕见同台练球",
+      "onboard_time": 1763636963,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 139523,
@@ -1579,22 +1659,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127564,
-      "num": 127564,
-      "word": "关晓彤14岁的身材比例",
-      "onboard_time": 1763635822,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 126939,
-      "num": 190032,
-      "word": "四喜别看第四集",
-      "onboard_time": 1763637384,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126901,
       "num": 126901,
       "word": "婴儿独留屋内酒店帮醉汉开门闯入",
@@ -1627,12 +1691,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126336,
+      "num": 126336,
+      "word": "何同学回应今年亏了一两百万",
+      "onboard_time": 1763637862,
+      "rank": 37,
+      "category": "数码"
+    },
+    {
       "raw_hot": 125765,
       "num": 164676,
       "word": "一村民3年拨打110电话1771次",
       "onboard_time": 1763618783,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 125471,
+      "num": 924781,
+      "word": "一根不塞牙的甜玉米有多好吃",
+      "onboard_time": 1763636422,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 125155,
@@ -1665,14 +1745,6 @@
       "onboard_time": 1763635460,
       "rank": 35,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124657,
-      "num": 124657,
-      "word": "男团赛前马龙许昕罕见同台练球",
-      "onboard_time": 1763636963,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 124294,
@@ -1755,20 +1827,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 121263,
-      "num": 121263,
-      "word": "桃黑黑 大家不要冲动消费",
-      "onboard_time": 1763637742,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 120969,
       "num": 120969,
       "word": "员工偷150支钢笔被判7年",
       "onboard_time": 1763573057,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120651,
+      "num": 120651,
+      "word": "尼格买提路过捡了个通告",
+      "onboard_time": 1763638161,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 119229,
+      "num": 119229,
+      "word": "唐诡3橘娘持枪守家反差绝了",
+      "onboard_time": 1763638643,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 118888,
@@ -1865,14 +1945,6 @@
       "onboard_time": 1763619563,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113816,
-      "num": 924781,
-      "word": "一根不塞牙的甜玉米有多好吃",
-      "onboard_time": 1763636422,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113052,
@@ -2459,6 +2531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 79882,
+      "num": 125675,
+      "word": "赵雅芝孙女颜值",
+      "onboard_time": 1763638221,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79828,
       "num": 79828,
       "word": "母亲回应炫耀孩子招杀身之祸言论",
@@ -2755,6 +2835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 55082,
+      "num": 135905,
+      "word": "女子掏空积蓄给男友索要被威胁撞死",
+      "onboard_time": 1763637022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53696,
       "num": 180460,
       "word": "季新杰 愿我们终抵群星",
@@ -2793,14 +2881,6 @@
       "onboard_time": 1763634864,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 49404,
-      "num": 187067,
-      "word": "山姆盒马的酸奶是同一家工厂生产",
-      "onboard_time": 1763637502,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 48866,
@@ -2875,6 +2955,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 43505,
+      "num": 610878,
+      "word": "我国稀土研究有新突破",
+      "onboard_time": 1763638221,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 43080,
       "num": 417172,
       "word": "女子家门口遇害案凶手声称无辜",
@@ -2907,6 +2995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 38854,
+      "num": 136268,
+      "word": "迪拜人相亲",
+      "onboard_time": 1763637622,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38578,
       "num": 651824,
       "word": "中国航天从神一走到神二十一了",
@@ -2921,14 +3017,6 @@
       "onboard_time": 1763574436,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 37505,
-      "num": 135905,
-      "word": "女子掏空积蓄给男友索要被威胁撞死",
-      "onboard_time": 1763637022,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36959,
@@ -3105,14 +3193,6 @@
       "onboard_time": 1763627543,
       "rank": 39,
       "category": "民生新闻,科学科普"
-    },
-    {
-      "raw_hot": 24613,
-      "num": 136268,
-      "word": "迪拜人相亲",
-      "onboard_time": 1763637622,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 23876,
