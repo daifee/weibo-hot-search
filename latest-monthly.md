@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 17:29:18
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 17:42:47
 </p>
 </blockquote>
 <p>
@@ -5127,6 +5127,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%23" target="weibo">
+乒乓球男团决赛对阵（热度：491422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E5%8F%B0%E4%B8%8B%E6%A8%A1%E4%BB%BF%E4%B9%96%E4%B9%96%E5%A5%B3%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 王鹤棣白鹿台下模仿乖乖女名场面（热度：491202）
 </a>
@@ -6005,12 +6011,6 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Kanavi%20HLE%23" target="weibo">
 Kanavi HLE（热度：442015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BF%B0%E7%BB%99%E8%B0%88%E8%8E%89%E5%A8%9C%E9%80%81%E4%BA%86%E6%96%B0%E5%A9%9A%E7%A5%9D%E7%A6%8F%23" target="weibo">
-张翰给谈莉娜送了新婚祝福（热度：442000）
 </a>
 </li>
 

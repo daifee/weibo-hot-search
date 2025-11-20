@@ -1,0 +1,410 @@
+{
+  "runTime": 1763631767666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 596562,
+        "num": 1095449,
+        "word": "请日方自重",
+        "onboard_time": 1763625441,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 491422,
+        "num": 491422,
+        "word": "乒乓球男团决赛对阵",
+        "onboard_time": 1763630602,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12539,
+        "num": 490375,
+        "word": "00后10后闪耀十五运会",
+        "onboard_time": 1763630901,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 533296,
+        "num": 490327,
+        "word": "日本舆论已意识到事态十分严重",
+        "onboard_time": 1763619682,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 490230,
+        "num": 490230,
+        "word": "何同学坦言今年公司亏损",
+        "onboard_time": 1763627362,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 325985,
+        "num": 325985,
+        "word": "安倍晋三遇袭身亡案今日继续庭审",
+        "onboard_time": 1763627482,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 316212,
+        "num": 316212,
+        "word": "王者第一个五杀的英雄",
+        "onboard_time": 1763629041,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 233685,
+        "num": 233685,
+        "word": "雅思组合圆满了",
+        "onboard_time": 1763628922,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 233516,
+        "num": 233516,
+        "word": "雅思组合夺金谢幕",
+        "onboard_time": 1763628322,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 153748,
+        "num": 233493,
+        "word": "中国对日本的施压正在逐渐上升",
+        "onboard_time": 1763614404,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 597873,
+        "num": 233371,
+        "word": "身份证照片 最接近别人看到的自己",
+        "onboard_time": 1763623823,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 398077,
+        "num": 233255,
+        "word": "这居然是田震",
+        "onboard_time": 1763628984,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223764,
+        "num": 233163,
+        "word": "梁淞妈妈 何美延年纪轻轻嫁个老男人",
+        "onboard_time": 1763629282,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195265,
+        "num": 233112,
+        "word": "警方回应两大叔夜间拖行女孩",
+        "onboard_time": 1763626281,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172238,
+        "num": 233072,
+        "word": "44岁博主确诊胆囊癌仅1个月去世",
+        "onboard_time": 1763617402,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143460,
+        "num": 232902,
+        "word": "何同学为网约车言论致歉",
+        "onboard_time": 1763627842,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 132589,
+        "num": 232828,
+        "word": "看完唐诡终于理解门第观念",
+        "onboard_time": 1763628441,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123152,
+        "num": 232780,
+        "word": "汪苏泷杭州罗曼城",
+        "onboard_time": 1763631320,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117040,
+        "num": 232680,
+        "word": "丁禹兮偏偏你最争气",
+        "onboard_time": 1763629881,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89505,
+        "num": 232592,
+        "word": "枭起青壤联名交通卡",
+        "onboard_time": 1763625802,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 498248,
+        "num": 232488,
+        "word": "胡彦斌每一任都是美女",
+        "onboard_time": 1763626162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 469886,
+        "num": 232401,
+        "word": "肖战工作室评论回复小红豆",
+        "onboard_time": 1763621303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99268,
+        "num": 232296,
+        "word": "中方回应日高官称无意撤回高市言论",
+        "onboard_time": 1763630422,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264700,
+        "num": 232209,
+        "word": "程晓玥回应生三胎",
+        "onboard_time": 1763626342,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204899,
+        "num": 232137,
+        "word": "朱朱小桃分手",
+        "onboard_time": 1763620642,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 431141,
+        "num": 232029,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183564,
+        "num": 231963,
+        "word": "85花关系网",
+        "onboard_time": 1763626222,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145476,
+        "num": 231886,
+        "word": "银行取消5年期存款对我们有何影响",
+        "onboard_time": 1763623101,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 109381,
+        "num": 231807,
+        "word": "2026高校毕业生预计1270万人",
+        "onboard_time": 1763625021,
+        "rank": 28,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 125989,
+        "num": 231663,
+        "word": "董璇觉得自己老来得子",
+        "onboard_time": 1763616441,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 751703,
+        "num": 231651,
+        "word": "霸王茶姬创始人结婚",
+        "onboard_time": 1763622681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285263,
+        "num": 231499,
+        "word": "中方回应赖清德晒日料午餐",
+        "onboard_time": 1763629340,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153036,
+        "num": 231465,
+        "word": "易梦玲6月份疑似跟王勉在一起",
+        "onboard_time": 1763601083,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104693,
+        "num": 231373,
+        "word": "狂野时代预告大结局",
+        "onboard_time": 1763631620,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124786,
+        "num": 231251,
+        "word": "小黄豆整容",
+        "onboard_time": 1763616741,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140135,
+        "num": 231199,
+        "word": "曝Elk想和Meiko一起打",
+        "onboard_time": 1763630961,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125927,
+        "num": 231065,
+        "word": "iPhone下滑发现的新世界",
+        "onboard_time": 1763630541,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 115198,
+        "num": 230967,
+        "word": "谈莉娜自曝拍流星雨时交不起房租",
+        "onboard_time": 1763630541,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110824,
+        "num": 230949,
+        "word": "金价",
+        "onboard_time": 1763623701,
+        "rank": 38,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 107131,
+        "num": 230797,
+        "word": "曝Viper时隔3年回归LPL",
+        "onboard_time": 1763628263,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102820,
+        "num": 230725,
+        "word": "BeryL休息",
+        "onboard_time": 1763631382,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98295,
+        "num": 230671,
+        "word": "德国医疗展盒饭致200名中国人中毒",
+        "onboard_time": 1763631683,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96844,
+        "num": 230566,
+        "word": "下镜脸",
+        "onboard_time": 1763631262,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89484,
+        "num": 230447,
+        "word": "郑大一附院西院区今起停诊",
+        "onboard_time": 1763620582,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89411,
+        "num": 230389,
+        "word": "曝JDG下赛季阵容",
+        "onboard_time": 1763631561,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31709,
+        "num": 230318,
+        "word": "肺科医院楼道四处是烟头",
+        "onboard_time": 1763630241,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87263,
+        "num": 230193,
+        "word": "李茂对小李琳说我又不是你老公",
+        "onboard_time": 1763628322,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82741,
+        "num": 230108,
+        "word": "疯狂动物城2会因明星配音掉价吗",
+        "onboard_time": 1763619742,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 64403,
+        "num": 230010,
+        "word": "R1SE录个节目砍了100根甘蔗",
+        "onboard_time": 1763628382,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50479,
+        "num": 229963,
+        "word": "尖叫之夜 抢票",
+        "onboard_time": 1763617462,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
