@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 17:42:47
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 18:30:04
 </p>
 </blockquote>
 <p>
@@ -1679,6 +1679,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%BF%9E%E6%9D%B0%E7%8A%B6%E6%80%81%23" target="weibo">
 李连杰状态（热度：893653）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E6%98%93%E6%A2%A6%E7%8E%B2%23" target="weibo">
+胡彦斌 易梦玲（热度：892361）
 </a>
 </li>
 
@@ -3429,6 +3435,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%23" target="weibo">
+乒乓球男团决赛对阵（热度：618302）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232025%E7%8E%AF%E7%90%83%E5%B0%8F%E5%A7%90%E9%9B%86%E4%BD%93%E9%80%80%E8%B5%9B%23" target="weibo">
 2025环球小姐集体退赛（热度：618122）
 </a>
@@ -5127,12 +5139,6 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%E5%86%B3%E8%B5%9B%E5%AF%B9%E9%98%B5%23" target="weibo">
-乒乓球男团决赛对阵（热度：491422）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E5%8F%B0%E4%B8%8B%E6%A8%A1%E4%BB%BF%E4%B9%96%E4%B9%96%E5%A5%B3%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 王鹤棣白鹿台下模仿乖乖女名场面（热度：491202）
 </a>
@@ -5297,6 +5303,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E6%AC%A7%E5%BC%9F%E5%B0%86%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%23" target="weibo">
 台媒曝欧弟将移民日本（热度：483153）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3%23" target="weibo">
+王楚钦樊振东一单对决（热度：482560）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B7%AF%E6%98%93%E5%90%89%E8%A2%AB%E6%9B%9D%E5%9C%A8%E7%9B%91%E7%8B%B1%E5%86%85%E9%9D%9E%E5%B8%B8%E5%8F%97%E6%AC%A2%E8%BF%8E%23" target="weibo">
 路易吉被曝在监狱内非常受欢迎（热度：442700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%9B%B4%E6%94%B9%E5%8C%B9%E9%85%8D%E6%9C%BA%E5%88%B6%23" target="weibo">
-王者更改匹配机制（热度：442605）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Kanavi%20HLE%23" target="weibo">
-Kanavi HLE（热度：442015）
 </a>
 </li>
 
