@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763628607044,
+  "endTime": 1763630958016,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -5195,6 +5195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 576021,
+      "num": 576021,
+      "word": "何同学坦言今年公司亏损",
+      "onboard_time": 1763627362,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 575819,
       "num": 336504,
       "word": "卢浮宫失窃珠宝现身",
@@ -5521,6 +5529,14 @@
       "onboard_time": 1762502660,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 558595,
+      "num": 558595,
+      "word": "日本舆论已意识到事态十分严重",
+      "onboard_time": 1763619682,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 558452,
@@ -6649,14 +6665,6 @@
       "onboard_time": 1762052178,
       "rank": 12,
       "category": "情感"
-    },
-    {
-      "raw_hot": 498590,
-      "num": 396846,
-      "word": "日本舆论已意识到事态十分严重",
-      "onboard_time": 1763619682,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 496356,
@@ -10883,6 +10891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349752,
+      "num": 200274,
+      "word": "这居然是田震",
+      "onboard_time": 1763628984,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349713,
       "num": 194898,
       "word": "易梦玲 音乐才子",
@@ -12320,6 +12336,14 @@
       "word": "林高远刘诗雯晋级混双金牌赛",
       "onboard_time": 1763004560,
       "rank": 28,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 312177,
+      "num": 312177,
+      "word": "雅思组合夺金谢幕",
+      "onboard_time": 1763628322,
+      "rank": 8,
       "category": "体育"
     },
     {
@@ -14603,14 +14627,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268499,
-      "num": 268499,
-      "word": "何同学坦言今年公司亏损",
-      "onboard_time": 1763627362,
-      "rank": 8,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 268346,
       "num": 239485,
       "word": "王传君工作室回应获奖",
@@ -15875,6 +15891,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 244876,
+      "num": 244876,
+      "word": "王者第一个五杀的英雄",
+      "onboard_time": 1763629041,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 244489,
       "num": 218971,
       "word": "王楚钦奔驰磕到了",
@@ -16291,6 +16315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 237723,
+      "num": 237723,
+      "word": "安倍晋三遇袭身亡案今日继续庭审",
+      "onboard_time": 1763627482,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 237697,
       "num": 237697,
       "word": "世上再无王权富贵",
@@ -16385,6 +16417,14 @@
       "onboard_time": 1763290161,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236182,
+      "num": 138612,
+      "word": "中方回应赖清德晒日料午餐",
+      "onboard_time": 1763629340,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 236174,
@@ -21427,6 +21467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 189447,
+      "num": 189447,
+      "word": "乒乓球男团决赛对阵",
+      "onboard_time": 1763630602,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -24443,14 +24491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170334,
-      "num": 170334,
-      "word": "雅思组合夺金谢幕",
-      "onboard_time": 1763628322,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170315,
       "num": 157165,
       "word": "王鹤棣这是喝了多少",
@@ -26027,6 +26067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161900,
+      "num": 161900,
+      "word": "何同学为网约车言论致歉",
+      "onboard_time": 1763627842,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161808,
       "num": 161808,
       "word": "何炅自曝从没用过QQ",
@@ -26441,6 +26489,14 @@
       "onboard_time": 1763618002,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160018,
+      "num": 160018,
+      "word": "丁禹兮偏偏你最争气",
+      "onboard_time": 1763629881,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 159974,
@@ -29179,6 +29235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148089,
+      "num": 171778,
+      "word": "看完唐诡终于理解门第观念",
+      "onboard_time": 1763628441,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148025,
       "num": 148025,
       "word": "iPhonePocket适配所有iPhone",
@@ -30651,6 +30715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 141641,
+      "num": 141641,
+      "word": "雅思组合圆满了",
+      "onboard_time": 1763628922,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141599,
       "num": 141599,
       "word": "Flandre一诺合影拍立得",
@@ -31563,14 +31635,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 138440,
-      "num": 138440,
-      "word": "何同学为网约车言论致歉",
-      "onboard_time": 1763627842,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 138391,
       "num": 138391,
       "word": "杨紫还在用何惟芳手机壳",
@@ -31761,6 +31825,14 @@
       "onboard_time": 1763123841,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137806,
+      "num": 137806,
+      "word": "梁淞妈妈 何美延年纪轻轻嫁个老男人",
+      "onboard_time": 1763629282,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 137773,
@@ -35724,7 +35796,7 @@
     },
     {
       "raw_hot": 125081,
-      "num": 104460,
+      "num": 105883,
       "word": "李茂对小李琳说我又不是你老公",
       "onboard_time": 1763628322,
       "rank": 40,
@@ -36083,6 +36155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124294,
+      "num": 124294,
+      "word": "郑思维黄雅琼2比0周志宏魏雅欣",
+      "onboard_time": 1763630062,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124283,
       "num": 124283,
       "word": "林高远袁烜松3比1徐瑛彬曹巍",
@@ -36233,6 +36313,14 @@
       "onboard_time": 1763601264,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123892,
+      "num": 123892,
+      "word": "曝Viper时隔3年回归LPL",
+      "onboard_time": 1763628263,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 123885,
@@ -36665,6 +36753,14 @@
       "onboard_time": 1762521260,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 122860,
+      "num": 122860,
+      "word": "谈莉娜自曝拍流星雨时交不起房租",
+      "onboard_time": 1763630541,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 122854,
@@ -37457,14 +37553,6 @@
       "onboard_time": 1761959600,
       "rank": 25,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 120894,
-      "num": 104378,
-      "word": "曝Viper时隔3年回归LPL",
-      "onboard_time": 1763628263,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 120871,
@@ -41643,14 +41731,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110053,
-      "num": 202590,
-      "word": "安倍晋三遇袭身亡案今日继续庭审",
-      "onboard_time": 1763627482,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 110025,
       "num": 110025,
       "word": "赵子豪晋级全运会16强",
@@ -43435,6 +43515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105871,
+      "num": 105871,
+      "word": "何同学回应网约车言论争议",
+      "onboard_time": 1763630662,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105867,
       "num": 105867,
       "word": "外交部回应德方称对台海局势担忧",
@@ -43529,14 +43617,6 @@
       "onboard_time": 1763628382,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105569,
-      "num": 105569,
-      "word": "看完唐诡终于理解门第观念",
-      "onboard_time": 1763628441,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 105553,
@@ -43675,6 +43755,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105350,
+      "num": 105350,
+      "word": "郑雨贾一凡哭了",
+      "onboard_time": 1763628682,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105327,
       "num": 105327,
       "word": "雀骨杀青",
@@ -43729,6 +43817,14 @@
       "onboard_time": 1762782982,
       "rank": 48,
       "category": "数码"
+    },
+    {
+      "raw_hot": 105206,
+      "num": 134753,
+      "word": "周深 音综卷王",
+      "onboard_time": 1763629640,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 105201,
@@ -44089,6 +44185,14 @@
       "onboard_time": 1763464461,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 104320,
+      "num": 104320,
+      "word": "iPhone下滑发现的新世界",
+      "onboard_time": 1763630541,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 104316,
@@ -44569,6 +44673,14 @@
       "onboard_time": 1762064360,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103414,
+      "num": 103414,
+      "word": "20岁用一个月确诊了糖尿病",
+      "onboard_time": 1763624602,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 103394,
@@ -45609,14 +45721,6 @@
       "onboard_time": 1762613842,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 101251,
-      "num": 101251,
-      "word": "20岁用一个月确诊了糖尿病",
-      "onboard_time": 1763624602,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 101239,
@@ -46723,6 +46827,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 99036,
+      "num": 133161,
+      "word": "疯狂动物城2会因明星配音掉价吗",
+      "onboard_time": 1763619742,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99015,
       "num": 191233,
       "word": "上海新增带薪休假 最长7天",
@@ -47113,6 +47225,14 @@
       "onboard_time": 1762349722,
       "rank": 41,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 98348,
+      "num": 98348,
+      "word": "雅思组合回应全运会金牌",
+      "onboard_time": 1763630723,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 98343,
@@ -61891,6 +62011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59050,
+      "num": 153718,
+      "word": "中方回应日高官称无意撤回高市言论",
+      "onboard_time": 1763630422,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58986,
       "num": 105543,
       "word": "李宏毅谈长剧和短剧的区别",
@@ -69819,6 +69947,14 @@
       "category": "艺人,作品衍生"
     },
     {
+      "raw_hot": 21008,
+      "num": 124087,
+      "word": "肺科医院楼道四处是烟头",
+      "onboard_time": 1763630241,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20985,
       "num": 27881,
       "word": "网友偶遇陈冠希父亲说父子俩很像",
@@ -71513,6 +71649,14 @@
       "onboard_time": 1762806973,
       "rank": 45,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 9466,
+      "num": 562715,
+      "word": "00后10后闪耀十五运会",
+      "onboard_time": 1763630901,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 9334,

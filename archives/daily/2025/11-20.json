@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763628607044,
+  "endTime": 1763630958016,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 576021,
+      "num": 576021,
+      "word": "何同学坦言今年公司亏损",
+      "onboard_time": 1763627362,
+      "rank": 8,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 572228,
       "num": 337593,
       "word": "董璇觉得自己老来得子",
@@ -227,6 +235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 558595,
+      "num": 558595,
+      "word": "日本舆论已意识到事态十分严重",
+      "onboard_time": 1763619682,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 553379,
       "num": 284200,
       "word": "建议不要在网上买太便宜的水果",
@@ -240,14 +256,6 @@
       "word": "日本多次不宣而战",
       "onboard_time": 1763559983,
       "rank": 0,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 498590,
-      "num": 396846,
-      "word": "日本舆论已意识到事态十分严重",
-      "onboard_time": 1763619682,
-      "rank": 26,
       "category": "国际时政"
     },
     {
@@ -347,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349752,
+      "num": 200274,
+      "word": "这居然是田震",
+      "onboard_time": 1763628984,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349713,
       "num": 194898,
       "word": "易梦玲 音乐才子",
@@ -419,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 312177,
+      "num": 312177,
+      "word": "雅思组合夺金谢幕",
+      "onboard_time": 1763628322,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 294376,
       "num": 294376,
       "word": "大生意人定档",
@@ -464,14 +488,6 @@
       "word": "雷军承诺做好三件事",
       "onboard_time": 1763613084,
       "rank": 45,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 268499,
-      "num": 268499,
-      "word": "何同学坦言今年公司亏损",
-      "onboard_time": 1763627362,
-      "rank": 8,
       "category": "互联网"
     },
     {
@@ -547,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 244876,
+      "num": 244876,
+      "word": "王者第一个五杀的英雄",
+      "onboard_time": 1763629041,
+      "rank": 5,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 242014,
       "num": 242014,
       "word": "台当局竟要求民众绝不向大陆投降",
@@ -563,12 +587,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 237723,
+      "num": 237723,
+      "word": "安倍晋三遇袭身亡案今日继续庭审",
+      "onboard_time": 1763627482,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236901,
       "num": 184119,
       "word": "孙颖莎说人生总要有遗憾",
       "onboard_time": 1763565323,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 236182,
+      "num": 138612,
+      "word": "中方回应赖清德晒日料午餐",
+      "onboard_time": 1763629340,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 234410,
@@ -803,6 +843,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189447,
+      "num": 189447,
+      "word": "乒乓球男团决赛对阵",
+      "onboard_time": 1763630602,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188583,
       "num": 267160,
       "word": "疯狂动物城2想看新增数大幅下降",
@@ -899,14 +947,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170334,
-      "num": 170334,
-      "word": "雅思组合夺金谢幕",
-      "onboard_time": 1763628322,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 168270,
       "num": 242141,
       "word": "卢凌风到底偷偷报了几个班啊",
@@ -987,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161900,
+      "num": 161900,
+      "word": "何同学为网约车言论致歉",
+      "onboard_time": 1763627842,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 161233,
       "num": 161233,
       "word": "睡觉穿袜子vs不穿袜子",
@@ -1017,6 +1065,14 @@
       "onboard_time": 1763618002,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160018,
+      "num": 160018,
+      "word": "丁禹兮偏偏你最争气",
+      "onboard_time": 1763629881,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 157525,
@@ -1107,6 +1163,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148089,
+      "num": 171778,
+      "word": "看完唐诡终于理解门第观念",
+      "onboard_time": 1763628441,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 147749,
       "num": 147749,
       "word": "日本政府被判赔偿39亿日元",
@@ -1155,6 +1219,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 141641,
+      "num": 141641,
+      "word": "雅思组合圆满了",
+      "onboard_time": 1763628922,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 141486,
       "num": 184715,
       "word": "iG转会",
@@ -1179,12 +1251,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 138440,
-      "num": 138440,
-      "word": "何同学为网约车言论致歉",
-      "onboard_time": 1763627842,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 137806,
+      "num": 137806,
+      "word": "梁淞妈妈 何美延年纪轻轻嫁个老男人",
+      "onboard_time": 1763629282,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 136001,
@@ -1324,7 +1396,7 @@
     },
     {
       "raw_hot": 125081,
-      "num": 104460,
+      "num": 105883,
       "word": "李茂对小李琳说我又不是你老公",
       "onboard_time": 1763628322,
       "rank": 40,
@@ -1337,6 +1409,14 @@
       "onboard_time": 1763622923,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124294,
+      "num": 124294,
+      "word": "郑思维黄雅琼2比0周志宏魏雅欣",
+      "onboard_time": 1763630062,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 124283,
@@ -1355,12 +1435,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123892,
+      "num": 123892,
+      "word": "曝Viper时隔3年回归LPL",
+      "onboard_time": 1763628263,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 122884,
       "num": 122884,
       "word": "房地产",
       "onboard_time": 1763614524,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122860,
+      "num": 122860,
+      "word": "谈莉娜自曝拍流星雨时交不起房租",
+      "onboard_time": 1763630541,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 122633,
@@ -1393,14 +1489,6 @@
       "onboard_time": 1763573057,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120894,
-      "num": 104378,
-      "word": "曝Viper时隔3年回归LPL",
-      "onboard_time": 1763628263,
-      "rank": 41,
-      "category": "电竞"
     },
     {
       "raw_hot": 118619,
@@ -1491,14 +1579,6 @@
       "category": "幽默,情感"
     },
     {
-      "raw_hot": 110053,
-      "num": 202590,
-      "word": "安倍晋三遇袭身亡案今日继续庭审",
-      "onboard_time": 1763627482,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 109802,
       "num": 425120,
       "word": "A股缩量177亿调整",
@@ -1539,6 +1619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105871,
+      "num": 105871,
+      "word": "何同学回应网约车言论争议",
+      "onboard_time": 1763630662,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 105574,
       "num": 105574,
       "word": "R1SE录个节目砍了100根甘蔗",
@@ -1547,12 +1635,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105569,
-      "num": 105569,
-      "word": "看完唐诡终于理解门第观念",
-      "onboard_time": 1763628441,
-      "rank": 26,
-      "category": "剧集"
+      "raw_hot": 105350,
+      "num": 105350,
+      "word": "郑雨贾一凡哭了",
+      "onboard_time": 1763628682,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 105206,
+      "num": 134753,
+      "word": "周深 音综卷王",
+      "onboard_time": 1763629640,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 104741,
@@ -1571,6 +1667,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104320,
+      "num": 104320,
+      "word": "iPhone下滑发现的新世界",
+      "onboard_time": 1763630541,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 104296,
       "num": 104296,
       "word": "陈梦朱雨玲互戴奖牌",
@@ -1585,6 +1689,14 @@
       "onboard_time": 1763607442,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103414,
+      "num": 103414,
+      "word": "20岁用一个月确诊了糖尿病",
+      "onboard_time": 1763624602,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 103189,
@@ -1651,14 +1763,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 101251,
-      "num": 101251,
-      "word": "20岁用一个月确诊了糖尿病",
-      "onboard_time": 1763624602,
-      "rank": 47,
-      "category": "情感"
-    },
-    {
       "raw_hot": 100294,
       "num": 148930,
       "word": "妻子的白月光竟然是我小号",
@@ -1683,6 +1787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 99036,
+      "num": 133161,
+      "word": "疯狂动物城2会因明星配音掉价吗",
+      "onboard_time": 1763619742,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98943,
       "num": 98943,
       "word": "古人造完字自己笑了好久吧",
@@ -1696,6 +1808,14 @@
       "word": "张本美和成都见面会确认取消",
       "onboard_time": 1763603601,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 98348,
+      "num": 98348,
+      "word": "雅思组合回应全运会金牌",
+      "onboard_time": 1763630723,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2123,6 +2243,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59050,
+      "num": 153718,
+      "word": "中方回应日高官称无意撤回高市言论",
+      "onboard_time": 1763630422,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 58900,
       "num": 180615,
       "word": "男子砍杀女友后视频展示行凶现场",
@@ -2531,6 +2659,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 21008,
+      "num": 124087,
+      "word": "肺科医院楼道四处是烟头",
+      "onboard_time": 1763630241,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 20422,
       "num": 231472,
       "word": "第十五届全运会",
@@ -2585,6 +2721,14 @@
       "onboard_time": 1763621422,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9466,
+      "num": 562715,
+      "word": "00后10后闪耀十五运会",
+      "onboard_time": 1763630901,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 1664,

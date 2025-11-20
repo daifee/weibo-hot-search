@@ -1,0 +1,410 @@
+{
+  "runTime": 1763630958016,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 678663,
+        "num": 1108586,
+        "word": "请日方自重",
+        "onboard_time": 1763625441,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 576021,
+        "num": 576021,
+        "word": "何同学坦言今年公司亏损",
+        "onboard_time": 1763627362,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9466,
+        "num": 562715,
+        "word": "00后10后闪耀十五运会",
+        "onboard_time": 1763630901,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 558595,
+        "num": 558595,
+        "word": "日本舆论已意识到事态十分严重",
+        "onboard_time": 1763619682,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312177,
+        "num": 312177,
+        "word": "雅思组合夺金谢幕",
+        "onboard_time": 1763628322,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 244876,
+        "num": 244876,
+        "word": "王者第一个五杀的英雄",
+        "onboard_time": 1763629041,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 237723,
+        "num": 237723,
+        "word": "安倍晋三遇袭身亡案今日继续庭审",
+        "onboard_time": 1763627482,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1606,
+        "num": 235268,
+        "word": "e法润京华",
+        "onboard_time": 1763545702,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 178948,
+        "num": 227565,
+        "word": "中国对日本的施压正在逐渐上升",
+        "onboard_time": 1763614404,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151693,
+        "num": 220897,
+        "word": "2026高校毕业生预计1270万人",
+        "onboard_time": 1763625021,
+        "rank": 9,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 751060,
+        "num": 214114,
+        "word": "身份证照片 最接近别人看到的自己",
+        "onboard_time": 1763623823,
+        "rank": 10,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 349752,
+        "num": 200274,
+        "word": "这居然是田震",
+        "onboard_time": 1763628984,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199953,
+        "num": 199953,
+        "word": "警方回应两大叔夜间拖行女孩",
+        "onboard_time": 1763626281,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189447,
+        "num": 189447,
+        "word": "乒乓球男团决赛对阵",
+        "onboard_time": 1763630602,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148089,
+        "num": 171778,
+        "word": "看完唐诡终于理解门第观念",
+        "onboard_time": 1763628441,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193326,
+        "num": 169335,
+        "word": "44岁博主确诊胆囊癌仅1个月去世",
+        "onboard_time": 1763617402,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161900,
+        "num": 161900,
+        "word": "何同学为网约车言论致歉",
+        "onboard_time": 1763627842,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 160018,
+        "num": 160018,
+        "word": "丁禹兮偏偏你最争气",
+        "onboard_time": 1763629881,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100067,
+        "num": 159850,
+        "word": "枭起青壤联名交通卡",
+        "onboard_time": 1763625802,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 59050,
+        "num": 153718,
+        "word": "中方回应日高官称无意撤回高市言论",
+        "onboard_time": 1763630422,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 566289,
+        "num": 149677,
+        "word": "胡彦斌每一任都是美女",
+        "onboard_time": 1763626162,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 519104,
+        "num": 144653,
+        "word": "肖战工作室评论回复小红豆",
+        "onboard_time": 1763621303,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141641,
+        "num": 141641,
+        "word": "雅思组合圆满了",
+        "onboard_time": 1763628922,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 306458,
+        "num": 141463,
+        "word": "程晓玥回应生三胎",
+        "onboard_time": 1763626342,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232449,
+        "num": 141151,
+        "word": "朱朱小桃分手",
+        "onboard_time": 1763620642,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 426156,
+        "num": 140741,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185047,
+        "num": 140365,
+        "word": "85花关系网",
+        "onboard_time": 1763626222,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154778,
+        "num": 140059,
+        "word": "银行取消5年期存款对我们有何影响",
+        "onboard_time": 1763623101,
+        "rank": 27,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 139972,
+        "num": 139972,
+        "word": "董璇觉得自己老来得子",
+        "onboard_time": 1763616441,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 211632,
+        "num": 139089,
+        "word": "易梦玲6月份疑似跟王勉在一起",
+        "onboard_time": 1763601083,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 860977,
+        "num": 138787,
+        "word": "霸王茶姬创始人结婚",
+        "onboard_time": 1763622681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236182,
+        "num": 138612,
+        "word": "中方回应赖清德晒日料午餐",
+        "onboard_time": 1763629340,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137806,
+        "num": 137806,
+        "word": "梁淞妈妈 何美延年纪轻轻嫁个老男人",
+        "onboard_time": 1763629282,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105206,
+        "num": 134753,
+        "word": "周深 音综卷王",
+        "onboard_time": 1763629640,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99036,
+        "num": 133161,
+        "word": "疯狂动物城2会因明星配音掉价吗",
+        "onboard_time": 1763619742,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132196,
+        "num": 132196,
+        "word": "小黄豆整容",
+        "onboard_time": 1763616741,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 129065,
+        "num": 129065,
+        "word": "金价",
+        "onboard_time": 1763623701,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127202,
+        "num": 127202,
+        "word": "王者荣耀",
+        "onboard_time": 1763621422,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124294,
+        "num": 124294,
+        "word": "郑思维黄雅琼2比0周志宏魏雅欣",
+        "onboard_time": 1763630062,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21008,
+        "num": 124087,
+        "word": "肺科医院楼道四处是烟头",
+        "onboard_time": 1763630241,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123892,
+        "num": 123892,
+        "word": "曝Viper时隔3年回归LPL",
+        "onboard_time": 1763628263,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122860,
+        "num": 122860,
+        "word": "谈莉娜自曝拍流星雨时交不起房租",
+        "onboard_time": 1763630541,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110568,
+        "num": 110568,
+        "word": "郑大一附院西院区今起停诊",
+        "onboard_time": 1763620582,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105883,
+        "num": 105883,
+        "word": "李茂对小李琳说我又不是你老公",
+        "onboard_time": 1763628322,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105871,
+        "num": 105871,
+        "word": "何同学回应网约车言论争议",
+        "onboard_time": 1763630662,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105350,
+        "num": 105350,
+        "word": "郑雨贾一凡哭了",
+        "onboard_time": 1763628682,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104320,
+        "num": 104320,
+        "word": "iPhone下滑发现的新世界",
+        "onboard_time": 1763630541,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103414,
+        "num": 103414,
+        "word": "20岁用一个月确诊了糖尿病",
+        "onboard_time": 1763624602,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 98348,
+        "num": 98348,
+        "word": "雅思组合回应全运会金牌",
+        "onboard_time": 1763630723,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 82305,
+        "num": 96833,
+        "word": "R1SE录个节目砍了100根甘蔗",
+        "onboard_time": 1763628382,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
