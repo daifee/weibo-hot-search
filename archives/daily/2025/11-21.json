@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763657474915,
+  "endTime": 1763659328758,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -59,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334900,
+      "num": 146434,
+      "word": "杨宗纬报案",
+      "onboard_time": 1763654841,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 301592,
       "num": 263873,
       "word": "红果短剧推出演员分账",
@@ -89,14 +97,6 @@
       "onboard_time": 1763653580,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 231242,
-      "num": 146434,
-      "word": "杨宗纬报案",
-      "onboard_time": 1763654841,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 202193,
@@ -315,6 +315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74402,
+      "num": 74402,
+      "word": "大湾鸡是史上最成功的吉祥物",
+      "onboard_time": 1763657119,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74261,
       "num": 74261,
       "word": "王楚钦我也没那么老吧",
@@ -345,6 +353,14 @@
       "onboard_time": 1763656041,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66719,
+      "num": 66719,
+      "word": "谢谢你苏炳添",
+      "onboard_time": 1763657538,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 66286,
@@ -403,11 +419,27 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52282,
-      "num": 52282,
-      "word": "大湾鸡是史上最成功的吉祥物",
-      "onboard_time": 1763657119,
-      "rank": 49,
+      "raw_hot": 53377,
+      "num": 53377,
+      "word": "Gemini3",
+      "onboard_time": 1763657178,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 36963,
+      "num": 45856,
+      "word": "日本该认清自己更该认清中国",
+      "onboard_time": 1763658317,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 34899,
+      "num": 45849,
+      "word": "25岁的中年王楚钦",
+      "onboard_time": 1763657058,
+      "rank": 45,
       "category": "体育"
     },
     {

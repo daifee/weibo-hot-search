@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763657474915,
+  "endTime": 1763659328758,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -3611,6 +3611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 334900,
+      "num": 146434,
+      "word": "杨宗纬报案",
+      "onboard_time": 1763654841,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334862,
       "num": 981307,
       "word": "山姆盒马的酸奶是同一家工厂生产",
@@ -5249,14 +5257,6 @@
       "onboard_time": 1763352801,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231242,
-      "num": 146434,
-      "word": "杨宗纬报案",
-      "onboard_time": 1763654841,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 230503,
@@ -15187,6 +15187,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 74402,
+      "num": 74402,
+      "word": "大湾鸡是史上最成功的吉祥物",
+      "onboard_time": 1763657119,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74375,
       "num": 143103,
       "word": "翁泓阳晋级全运会四强",
@@ -15505,6 +15513,14 @@
       "onboard_time": 1763468363,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 66719,
+      "num": 66719,
+      "word": "谢谢你苏炳添",
+      "onboard_time": 1763657538,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 66659,
@@ -16131,6 +16147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53377,
+      "num": 53377,
+      "word": "Gemini3",
+      "onboard_time": 1763657178,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 53324,
       "num": 161274,
       "word": "迪丽热巴亲自完成百分之九十打戏",
@@ -16193,14 +16217,6 @@
       "onboard_time": 1763467524,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 52282,
-      "num": 52282,
-      "word": "大湾鸡是史上最成功的吉祥物",
-      "onboard_time": 1763657119,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 52263,
@@ -17075,6 +17091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36963,
+      "num": 45856,
+      "word": "日本该认清自己更该认清中国",
+      "onboard_time": 1763658317,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 36959,
       "num": 158514,
       "word": "张弛象人舞台喜人亲友团全吻上来了",
@@ -17193,6 +17217,14 @@
       "onboard_time": 1763311639,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 34899,
+      "num": 45849,
+      "word": "25岁的中年王楚钦",
+      "onboard_time": 1763657058,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 34722,
