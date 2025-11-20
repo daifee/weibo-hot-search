@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763638724747,
+  "endTime": 1763643232314,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1459,6 +1459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 9551582,
+      "num": 9551582,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763180301,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9522596,
       "num": 9522596,
       "word": "宗馥莉已经辞职",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1736573540,
       "rank": 0,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 7358127,
-      "num": 7358127,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1763180301,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 7289283,

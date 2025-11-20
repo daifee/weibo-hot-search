@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763638724747,
+  "endTime": 1763643232314,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -43,6 +43,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 9551582,
+      "num": 9551582,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763180301,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 9324816,
       "num": 10554731,
       "word": "云南通报赤裸小孩事件",
@@ -64,14 +72,6 @@
       "word": "樊振东冠军",
       "onboard_time": 1763274203,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 7358127,
-      "num": 7358127,
-      "word": "王楚钦vs樊振东",
-      "onboard_time": 1763180301,
-      "rank": 7,
       "category": "体育"
     },
     {
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 2938136,
-      "num": 198008,
+      "num": 837230,
       "word": "罗晋父亲离世",
       "onboard_time": 1763635763,
       "rank": 10,
@@ -515,6 +515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1792375,
+      "num": 926870,
+      "word": "王楚钦vs许昕",
+      "onboard_time": 1763640743,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1779276,
       "num": 1779276,
       "word": "全红婵王伟莹第五",
@@ -553,6 +561,14 @@
       "onboard_time": 1763126842,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 1705070,
+      "num": 318832,
+      "word": "胡彦斌 法庭上带着你的破视频",
+      "onboard_time": 1763640563,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1702680,
@@ -995,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1311672,
+      "num": 314014,
+      "word": "王楚钦头撞球桌",
+      "onboard_time": 1763641163,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1310167,
       "num": 182391,
       "word": "南宁二中 学霸文笔",
@@ -1161,6 +1185,14 @@
       "onboard_time": 1762419261,
       "rank": 0,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1234178,
+      "num": 1234178,
+      "word": "马龙王楚钦黄友政夺冠",
+      "onboard_time": 1763642905,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 1230908,
@@ -1353,6 +1385,14 @@
       "onboard_time": 1762695861,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1162393,
+      "num": 878314,
+      "word": "马龙3比0周恺",
+      "onboard_time": 1763641343,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 1161342,
@@ -1577,6 +1617,14 @@
       "onboard_time": 1762324040,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1067665,
+      "num": 1067665,
+      "word": "苏炳添最后一舞",
+      "onboard_time": 1763639483,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1059335,
@@ -2091,6 +2139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 929570,
+      "num": 929570,
+      "word": "樊振东许昕周恺亚军",
+      "onboard_time": 1763643024,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 926640,
       "num": 197793,
       "word": "娜扎经纪人",
@@ -2236,7 +2292,7 @@
     },
     {
       "raw_hot": 892361,
-      "num": 184255,
+      "num": 305690,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763633541,
       "rank": 20,
@@ -2332,7 +2388,7 @@
     },
     {
       "raw_hot": 873631,
-      "num": 185717,
+      "num": 301835,
       "word": "这居然是江疏影",
       "onboard_time": 1763633422,
       "rank": 21,
@@ -2617,6 +2673,14 @@
       "onboard_time": 1762525161,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 826875,
+      "num": 826875,
+      "word": "乒乓球男团",
+      "onboard_time": 1763639663,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 825191,
@@ -3787,6 +3851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 677853,
+      "num": 677853,
+      "word": "樊振东3比1胜王楚钦",
+      "onboard_time": 1763638763,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 677806,
       "num": 432482,
       "word": "好东西",
@@ -4457,6 +4529,14 @@
       "onboard_time": 1763264721,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 628603,
+      "num": 906470,
+      "word": "汪苏泷广州跨年演唱会",
+      "onboard_time": 1763637442,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 628124,
@@ -5593,6 +5673,14 @@
       "onboard_time": 1763035461,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 557358,
+      "num": 308164,
+      "word": "赵雅芝孙女颜值",
+      "onboard_time": 1763638221,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 556970,
@@ -7451,6 +7539,14 @@
       "category": "电影,体育"
     },
     {
+      "raw_hot": 466998,
+      "num": 466998,
+      "word": "苏炳添谢幕战接力第四",
+      "onboard_time": 1763642787,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 466338,
       "num": 466338,
       "word": "因评论爸爸当家与前女友复合",
@@ -8620,7 +8716,7 @@
     },
     {
       "raw_hot": 418017,
-      "num": 375595,
+      "num": 859255,
       "word": "藏海传 小红豆",
       "onboard_time": 1763633242,
       "rank": 7,
@@ -9404,7 +9500,7 @@
     },
     {
       "raw_hot": 393572,
-      "num": 393572,
+      "num": 683889,
       "word": "安倍晋三遇袭身亡案今日继续庭审",
       "onboard_time": 1763627482,
       "rank": 19,
@@ -10001,6 +10097,14 @@
       "onboard_time": 1763437702,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 375299,
+      "num": 375299,
+      "word": "樊振东十五运两胜王楚钦",
+      "onboard_time": 1763641343,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 374980,
@@ -11483,6 +11587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 334862,
+      "num": 876643,
+      "word": "山姆盒马的酸奶是同一家工厂生产",
+      "onboard_time": 1763637502,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334851,
       "num": 251086,
       "word": "Uzi被曝加入iG",
@@ -12025,6 +12137,14 @@
       "onboard_time": 1762954041,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 322899,
+      "num": 322899,
+      "word": "马龙还是马龙",
+      "onboard_time": 1763641823,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 322883,
@@ -12739,6 +12859,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 306067,
+      "num": 678058,
+      "word": "桃黑黑 大家不要冲动消费",
+      "onboard_time": 1763637742,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 306020,
       "num": 1044062,
       "word": "光与夜之恋",
@@ -12979,6 +13107,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 300936,
+      "num": 300936,
+      "word": "马龙vs周恺",
+      "onboard_time": 1763639663,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300924,
       "num": 300924,
       "word": "广东女篮冠军",
@@ -13003,20 +13139,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 300777,
+      "num": 300777,
+      "word": "队友回应苏炳添未参加预赛",
+      "onboard_time": 1763641884,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 300744,
       "num": 300744,
       "word": "井柏然刘雯情侣手机链",
       "onboard_time": 1762177644,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 300729,
-      "num": 166139,
-      "word": "桃黑黑 大家不要冲动消费",
-      "onboard_time": 1763637742,
-      "rank": 45,
-      "category": "游戏"
     },
     {
       "raw_hot": 300695,
@@ -13609,6 +13745,14 @@
       "onboard_time": 1763029401,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 289576,
+      "num": 289576,
+      "word": "张凌赫张婧仪 王子和公主",
+      "onboard_time": 1763638884,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 289491,
@@ -14507,14 +14651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 272332,
-      "num": 223524,
-      "word": "汪苏泷广州跨年演唱会",
-      "onboard_time": 1763637442,
-      "rank": 8,
-      "category": "演出"
-    },
-    {
       "raw_hot": 272300,
       "num": 272300,
       "word": "石宇奇坐轮椅离场",
@@ -14913,6 +15049,14 @@
       "onboard_time": 1762427543,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 265732,
+      "num": 265732,
+      "word": "韩安娜怀宝宝了",
+      "onboard_time": 1763642602,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 265698,
@@ -16883,6 +17027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 230070,
+      "num": 230070,
+      "word": "邓亚萍说樊振东是T0级选手",
+      "onboard_time": 1763639126,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 230064,
       "num": 142928,
       "word": "桂林一景区附近发现疑似人类头骨",
@@ -18328,6 +18480,14 @@
       "word": "杨瀚森首次被开拓者DNP",
       "onboard_time": 1761975080,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 213095,
+      "num": 213095,
+      "word": "只有王楚钦敢这么打",
+      "onboard_time": 1763640384,
+      "rank": 34,
       "category": "体育"
     },
     {
@@ -27891,6 +28051,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 155142,
+      "num": 155142,
+      "word": "樊振东纵情呐喊",
+      "onboard_time": 1763642062,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 155078,
       "num": 155078,
       "word": "徐嘉余回应打破全国纪录",
@@ -27977,14 +28145,6 @@
       "onboard_time": 1762240821,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 154772,
-      "num": 187067,
-      "word": "山姆盒马的酸奶是同一家工厂生产",
-      "onboard_time": 1763637502,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154669,
@@ -29499,6 +29659,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 147922,
+      "num": 610878,
+      "word": "我国稀土研究有新突破",
+      "onboard_time": 1763638221,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147904,
       "num": 135743,
       "word": "全运会乒乓球男单八强对阵",
@@ -29896,6 +30064,14 @@
       "word": "周雨预测全冠军",
       "onboard_time": 1762838060,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 146320,
+      "num": 148400,
+      "word": "邓亚萍感叹樊振东太强了",
+      "onboard_time": 1763639483,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -31827,6 +32003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138653,
+      "num": 138653,
+      "word": "狼队 清清",
+      "onboard_time": 1763640864,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 138644,
       "num": 138644,
       "word": "锤娜丽莎回应瘦了30斤",
@@ -32451,6 +32635,14 @@
       "category": "艺人,幽默"
     },
     {
+      "raw_hot": 136734,
+      "num": 136734,
+      "word": "男团巅峰对决",
+      "onboard_time": 1763643084,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136724,
       "num": 136724,
       "word": "这种泡泡馄饨到底是谁在爱吃",
@@ -32705,6 +32897,14 @@
       "onboard_time": 1762933701,
       "rank": 29,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135978,
+      "num": 135978,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135899,
@@ -38412,7 +38612,7 @@
     },
     {
       "raw_hot": 119229,
-      "num": 119229,
+      "num": 243288,
       "word": "唐诡3橘娘持枪守家反差绝了",
       "onboard_time": 1763638643,
       "rank": 44,
@@ -40331,6 +40531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114676,
+      "num": 311520,
+      "word": "小鹏X9下一代增程太强了",
+      "onboard_time": 1763640623,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 114645,
       "num": 154953,
       "word": "孟子义当铺主理人",
@@ -41193,6 +41401,14 @@
       "onboard_time": 1762842199,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 112416,
+      "num": 176952,
+      "word": "曝Jiejie与1xn或成队友",
+      "onboard_time": 1763642787,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 112387,
@@ -48081,6 +48297,14 @@
       "onboard_time": 1762771339,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97590,
+      "num": 294924,
+      "word": "内娱首个呕像综艺出现了",
+      "onboard_time": 1763641762,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 97588,
@@ -56667,14 +56891,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79882,
-      "num": 125675,
-      "word": "赵雅芝孙女颜值",
-      "onboard_time": 1763638221,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79875,
       "num": 79875,
       "word": "决不能让宝妈喂药上班的悲剧发生",
@@ -59267,6 +59483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 72517,
+      "num": 320556,
+      "word": "日本水产从业者集体破防",
+      "onboard_time": 1763642303,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72510,
       "num": 99909,
       "word": "业主说小区房价下跌后被造黄谣",
@@ -59513,6 +59737,14 @@
       "onboard_time": 1761984021,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71475,
+      "num": 149524,
+      "word": "日本一天爆发两场抗议集会",
+      "onboard_time": 1763641102,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 71444,
@@ -65715,14 +65947,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43505,
-      "num": 610878,
-      "word": "我国稀土研究有新突破",
-      "onboard_time": 1763638221,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 43499,
       "num": 109266,
       "word": "龚俊 不愧是暗河第一美人",
@@ -67025,6 +67249,14 @@
       "onboard_time": 1763025919,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 37352,
+      "num": 177290,
+      "word": "保姆3万元买房被雇主子女告上法庭",
+      "onboard_time": 1763642123,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 37325,
@@ -69259,6 +69491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27436,
+      "num": 1146943,
+      "word": "00后10后闪耀十五运会",
+      "onboard_time": 1763630901,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27433,
       "num": 181583,
       "word": "菜农二百亩待收白菜遭800人哄抢",
@@ -69481,6 +69721,14 @@
       "onboard_time": 1763270841,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 26704,
+      "num": 677899,
+      "word": "鲁豫发问千问",
+      "onboard_time": 1763640084,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 26690,
@@ -70377,6 +70625,14 @@
       "onboard_time": 1763175920,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21740,
+      "num": 176903,
+      "word": "百名十年好司机每人获滴滴万元奖金",
+      "onboard_time": 1763641163,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 21738,
@@ -71969,14 +72225,6 @@
       "onboard_time": 1762199593,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 12539,
-      "num": 562715,
-      "word": "00后10后闪耀十五运会",
-      "onboard_time": 1763630901,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 12453,

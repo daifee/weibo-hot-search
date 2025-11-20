@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 19:38:44
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 20:53:52
 </p>
 </blockquote>
 <p>
@@ -45,6 +45,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
+王楚钦vs樊振东（热度：9551582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6%23" target="weibo">
 云南通报赤裸小孩事件（热度：9324816）
 </a>
@@ -59,12 +65,6 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E5%86%A0%E5%86%9B%23" target="weibo">
 樊振东冠军（热度：8170972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
-王楚钦vs樊振东（热度：7358127）
 </a>
 </li>
 
@@ -399,6 +399,12 @@ T1对战TES（热度：1793569）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E8%AE%B8%E6%98%95%23" target="weibo">
+王楚钦vs许昕（热度：1792375）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E7%8E%8B%E4%BC%9F%E8%8E%B9%E7%AC%AC%E4%BA%94%23" target="weibo">
 全红婵王伟莹第五（热度：1779276）
 </a>
@@ -425,6 +431,12 @@ T1对战TES（热度：1793569）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%97%9E%E5%B9%BC%E5%AE%98%E5%AE%A3%E5%88%86%E6%89%8B%23" target="weibo">
 痞幼官宣分手（热度：1761248）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E6%B3%95%E5%BA%AD%E4%B8%8A%E5%B8%A6%E7%9D%80%E4%BD%A0%E7%9A%84%E7%A0%B4%E8%A7%86%E9%A2%91%23" target="weibo">
+胡彦斌 法庭上带着你的破视频（热度：1705070）
 </a>
 </li>
 
@@ -759,6 +771,12 @@ Tim父亲 圆通总裁（热度：1346310）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%A4%B4%E6%92%9E%E7%90%83%E6%A1%8C%23" target="weibo">
+王楚钦头撞球桌（热度：1311672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%BA%8C%E4%B8%AD%20%E5%AD%A6%E9%9C%B8%E6%96%87%E7%AC%94%23" target="weibo">
 南宁二中 学霸文笔（热度：1310167）
 </a>
@@ -881,6 +899,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E6%8E%A5%E7%A1%AE%E8%AE%A4%E5%AD%9F%E5%AD%90%E4%B9%89%E6%BC%94%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
 对接确认孟子义演将门毒后（热度：1236023）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E7%8E%8B%E6%A5%9A%E9%92%A6%E9%BB%84%E5%8F%8B%E6%94%BF%E5%A4%BA%E5%86%A0%23" target="weibo">
+马龙王楚钦黄友政夺冠（热度：1234178）
 </a>
 </li>
 
@@ -1025,6 +1049,12 @@ FPX退出LPL（热度：1177968）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E7%9B%B4%E6%92%AD%E8%B4%A8%E7%96%91%E7%A5%A8%E6%95%B0%23" target="weibo">
 那英直播质疑票数（热度：1165654）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%993%E6%AF%940%E5%91%A8%E6%81%BA%23" target="weibo">
+马龙3比0周恺（热度：1162393）
 </a>
 </li>
 
@@ -1193,6 +1223,12 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AD%90%E5%A5%87%E6%8B%92%E7%BB%9D%E5%89%A7%E5%AE%A3%E5%90%BB%E6%88%8F%23" target="weibo">
 王子奇拒绝剧宣吻戏（热度：1069598）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E6%9C%80%E5%90%8E%E4%B8%80%E8%88%9E%23" target="weibo">
+苏炳添最后一舞（热度：1067665）
 </a>
 </li>
 
@@ -1577,6 +1613,12 @@ blue露脸（热度：935788）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%A5%9A%E6%9B%A6%20%E6%88%91%E7%8E%B0%E5%9C%A8%E5%B0%B1%E6%98%AF%E6%98%82%E9%A6%96%E6%8C%BA%E8%83%B8%E7%9A%84%23" target="weibo">
 钟楚曦 我现在就是昂首挺胸的（热度：933587）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E8%AE%B8%E6%98%95%E5%91%A8%E6%81%BA%E4%BA%9A%E5%86%9B%23" target="weibo">
+樊振东许昕周恺亚军（热度：929570）
 </a>
 </li>
 
@@ -1973,6 +2015,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8D%E5%A6%A5%23" target="weibo">
 人民网评人民咖啡馆不妥（热度：828488）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%23" target="weibo">
+乒乓球男团（热度：826875）
 </a>
 </li>
 
@@ -2853,6 +2901,12 @@ Guma FMVP（热度：688837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C3%E6%AF%941%E8%83%9C%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+樊振东3比1胜王楚钦（热度：677853）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E4%B8%9C%E8%A5%BF%23" target="weibo">
 好东西（热度：677806）
 </a>
@@ -3353,6 +3407,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E4%B8%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%92%95%E5%90%8D%E7%89%8C%E6%9D%A5%E4%BA%86%23" target="weibo">
 朱一龙上金鸡奖撕名牌来了（热度：628901）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E5%B9%BF%E5%B7%9E%E8%B7%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
+汪苏泷广州跨年演唱会（热度：628603）
 </a>
 </li>
 
@@ -4205,6 +4265,12 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%B9%B4%E7%88%86%E5%89%A7%23" target="weibo">
 历年爆剧（热度：558412）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%AD%99%E5%A5%B3%E9%A2%9C%E5%80%BC%23" target="weibo">
+赵雅芝孙女颜值（热度：557358）
 </a>
 </li>
 
@@ -5601,6 +5667,12 @@ T1 宙斯（热度：468146）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%B0%A2%E5%B9%95%E6%88%98%E6%8E%A5%E5%8A%9B%E7%AC%AC%E5%9B%9B%23" target="weibo">
+苏炳添谢幕战接力第四（热度：466998）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%AF%84%E8%AE%BA%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%A4%8D%E5%90%88%23" target="weibo">
 因评论爸爸当家与前女友复合（热度：466338）
 </a>
@@ -5939,78 +6011,6 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2344%E5%B2%81%E5%AF%BC%E6%BC%94%E5%BF%83%E6%A2%97%E7%A6%BB%E4%B8%96%E4%BB%85%E8%8E%B7%E8%B5%941%E4%B8%87%E5%85%83%23" target="weibo">
 44岁导演心梗离世仅获赔1万元（热度：447045）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E8%B6%85%23" target="weibo">
-苏超（热度：446963）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%B8%8D%E7%BB%AD%E7%BA%A6%E4%B9%90%E5%8D%8E%23" target="weibo">
-曝王一博不续约乐华（热度：446688）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B9%BF%E7%AC%AC%E4%BA%8C%E5%A5%97%23" target="weibo">
-白鹿第二套（热度：446536）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%A6%88%E5%A6%88%E6%89%8D%E6%98%AF%E5%88%9D%E4%BB%A3%E7%94%9C%E5%A6%B9%23" target="weibo">
-原来妈妈才是初代甜妹（热度：446489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%89%AF%E7%94%B0%E6%9C%89%E5%A5%B3%E6%9C%8B%E5%8F%8B%E4%BA%86%23" target="weibo">
-良田有女朋友了（热度：446486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C37%E5%88%86%E9%92%9F%E6%94%B6%E8%A7%86%E7%8E%87%E7%A0%B43%23" target="weibo">
-四喜37分钟收视率破3（热度：444305）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23268%E6%96%A4%E7%94%B7%E5%AD%90%E5%81%9A%E5%88%87%E8%83%83%E6%89%8B%E6%9C%AF%E5%90%8E%E5%9C%A8ICU%E8%BA%AB%E4%BA%A1%23" target="weibo">
-268斤男子做切胃手术后在ICU身亡（热度：444288）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E7%BB%8F%E6%9C%895%E4%B8%AA%E8%A1%A8%E7%8E%B0%E8%AF%B4%E6%98%8E%E5%AD%90%E5%AE%AB%E5%BE%88%E5%81%A5%E5%BA%B7%23" target="weibo">
-月经有5个表现说明子宫很健康（热度：443652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%96%89%E5%92%99%E7%97%9B1%E4%B8%AA%E6%9C%88%E5%92%BD%E5%96%89%E9%95%BF%E6%BB%A1%E9%9B%AA%E8%8A%B1%23" target="weibo">
-男子喉咙痛1个月咽喉长满雪花（热度：443620）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%23" target="weibo">
-无限暖暖（热度：443472）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%8A%8B%E6%B1%90407C%E5%A4%B1%E8%AF%AF%23" target="weibo">
-陈芋汐407C失误（热度：443167）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E8%80%81%E6%9D%BF%E5%8F%91%E8%A8%80%E6%88%91%E6%8A%A0%E6%89%8B%23" target="weibo">
-王一博 老板发言我抠手（热度：443108）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/20 19:38:44
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/20 20:53:52
 </p>
 </blockquote>
 <p>
@@ -1107,6 +1107,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
+王楚钦vs樊振东（热度：9551582）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E5%B7%B2%E7%BB%8F%E8%BE%9E%E8%81%8C%23" target="weibo">
 宗馥莉已经辞职（热度：9522596）
 </a>
@@ -1541,12 +1547,6 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E4%B9%8B%E5%A4%9C%E7%BA%A2%E6%AF%AF%23" target="weibo">
 微博之夜红毯（热度：7367204）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
-王楚钦vs樊振东（热度：7358127）
 </a>
 </li>
 

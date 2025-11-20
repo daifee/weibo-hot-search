@@ -1,10 +1,10 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763638724747,
+  "endTime": 1763643232314,
   "band_list": [
     {
-      "raw_hot": 5990359,
-      "num": 5990359,
+      "raw_hot": 9551582,
+      "num": 9551582,
       "word": "王楚钦vs樊振东",
       "onboard_time": 1763635883,
       "rank": 0,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2938136,
-      "num": 198008,
+      "num": 837230,
       "word": "罗晋父亲离世",
       "onboard_time": 1763635763,
       "rank": 10,
@@ -51,6 +51,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1792375,
+      "num": 926870,
+      "word": "王楚钦vs许昕",
+      "onboard_time": 1763640743,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1705070,
+      "num": 318832,
+      "word": "胡彦斌 法庭上带着你的破视频",
+      "onboard_time": 1763640563,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1386580,
       "num": 275781,
       "word": "许晴",
@@ -75,6 +91,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1311672,
+      "num": 314014,
+      "word": "王楚钦头撞球桌",
+      "onboard_time": 1763641163,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1234178,
+      "num": 1234178,
+      "word": "马龙王楚钦黄友政夺冠",
+      "onboard_time": 1763642905,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 1162393,
+      "num": 878314,
+      "word": "马龙3比0周恺",
+      "onboard_time": 1763641343,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1115075,
       "num": 133593,
       "word": "老爹站重生版",
@@ -89,6 +129,14 @@
       "onboard_time": 1763602881,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1067665,
+      "num": 1067665,
+      "word": "苏炳添最后一舞",
+      "onboard_time": 1763639483,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 1042503,
@@ -107,8 +155,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 929570,
+      "num": 929570,
+      "word": "樊振东许昕周恺亚军",
+      "onboard_time": 1763643024,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 892361,
-      "num": 184255,
+      "num": 305690,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763633541,
       "rank": 20,
@@ -124,7 +180,7 @@
     },
     {
       "raw_hot": 873631,
-      "num": 185717,
+      "num": 301835,
       "word": "这居然是江疏影",
       "onboard_time": 1763633422,
       "rank": 21,
@@ -145,6 +201,14 @@
       "onboard_time": 1763609662,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 826875,
+      "num": 826875,
+      "word": "乒乓球男团",
+      "onboard_time": 1763639663,
+      "rank": 11,
+      "category": "体育"
     },
     {
       "raw_hot": 825185,
@@ -195,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 677853,
+      "num": 677853,
+      "word": "樊振东3比1胜王楚钦",
+      "onboard_time": 1763638763,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 675100,
       "num": 675100,
       "word": "央视曝光加油站作弊花招",
@@ -233,6 +305,14 @@
       "onboard_time": 1763593999,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 628603,
+      "num": 906470,
+      "word": "汪苏泷广州跨年演唱会",
+      "onboard_time": 1763637442,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 618302,
@@ -291,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 557358,
+      "num": 308164,
+      "word": "赵雅芝孙女颜值",
+      "onboard_time": 1763638221,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 553379,
       "num": 284200,
       "word": "建议不要在网上买太便宜的水果",
@@ -305,6 +393,14 @@
       "onboard_time": 1763559983,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 466998,
+      "num": 466998,
+      "word": "苏炳添谢幕战接力第四",
+      "onboard_time": 1763642787,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 454394,
@@ -364,7 +460,7 @@
     },
     {
       "raw_hot": 418017,
-      "num": 375595,
+      "num": 859255,
       "word": "藏海传 小红豆",
       "onboard_time": 1763633242,
       "rank": 7,
@@ -396,7 +492,7 @@
     },
     {
       "raw_hot": 393572,
-      "num": 393572,
+      "num": 683889,
       "word": "安倍晋三遇袭身亡案今日继续庭审",
       "onboard_time": 1763627482,
       "rank": 19,
@@ -425,6 +521,14 @@
       "onboard_time": 1763629041,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 375299,
+      "num": 375299,
+      "word": "樊振东十五运两胜王楚钦",
+      "onboard_time": 1763641343,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 374980,
@@ -483,6 +587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 334862,
+      "num": 876643,
+      "word": "山姆盒马的酸奶是同一家工厂生产",
+      "onboard_time": 1763637502,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 334319,
       "num": 334319,
       "word": "德国医疗展盒饭致200名中国人中毒",
@@ -513,6 +625,14 @@
       "onboard_time": 1763561725,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 322899,
+      "num": 322899,
+      "word": "马龙还是马龙",
+      "onboard_time": 1763641823,
+      "rank": 18,
+      "category": "体育"
     },
     {
       "raw_hot": 321194,
@@ -547,12 +667,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 300729,
-      "num": 166139,
+      "raw_hot": 306067,
+      "num": 678058,
       "word": "桃黑黑 大家不要冲动消费",
       "onboard_time": 1763637742,
       "rank": 45,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 300936,
+      "num": 300936,
+      "word": "马龙vs周恺",
+      "onboard_time": 1763639663,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 300777,
+      "num": 300777,
+      "word": "队友回应苏炳添未参加预赛",
+      "onboard_time": 1763641884,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 296172,
@@ -587,6 +723,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 289576,
+      "num": 289576,
+      "word": "张凌赫张婧仪 王子和公主",
+      "onboard_time": 1763638884,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280394,
       "num": 221215,
       "word": "被骗缅北儿子对母亲说就当没生过我",
@@ -609,14 +753,6 @@
       "onboard_time": 1763595620,
       "rank": 4,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 272332,
-      "num": 223524,
-      "word": "汪苏泷广州跨年演唱会",
-      "onboard_time": 1763637442,
-      "rank": 8,
-      "category": "演出"
     },
     {
       "raw_hot": 269708,
@@ -649,6 +785,14 @@
       "onboard_time": 1763607202,
       "rank": 14,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 265732,
+      "num": 265732,
+      "word": "韩安娜怀宝宝了",
+      "onboard_time": 1763642602,
+      "rank": 31,
+      "category": "网红"
     },
     {
       "raw_hot": 264417,
@@ -771,6 +915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230070,
+      "num": 230070,
+      "word": "邓亚萍说樊振东是T0级选手",
+      "onboard_time": 1763639126,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 227347,
       "num": 427985,
       "word": "郑大一附院西院区今起停诊",
@@ -819,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213095,
+      "num": 213095,
+      "word": "只有王楚钦敢这么打",
+      "onboard_time": 1763640384,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212060,
       "num": 245241,
       "word": "2026高校毕业生预计1270万人",
@@ -856,6 +1016,14 @@
       "word": "广东男团十五运铜牌",
       "onboard_time": 1763612363,
       "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 205761,
+      "num": 205761,
+      "word": "乒乓球男团决赛北京vs上海",
+      "onboard_time": 1763633722,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -984,14 +1152,6 @@
       "word": "吴易昺全运会男单金牌",
       "onboard_time": 1763613744,
       "rank": 36,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 194498,
-      "num": 194498,
-      "word": "乒乓球男团决赛北京vs上海",
-      "onboard_time": 1763633722,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -1347,12 +1507,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 154772,
-      "num": 187067,
-      "word": "山姆盒马的酸奶是同一家工厂生产",
-      "onboard_time": 1763637502,
-      "rank": 18,
-      "category": "民生新闻"
+      "raw_hot": 155142,
+      "num": 155142,
+      "word": "樊振东纵情呐喊",
+      "onboard_time": 1763642062,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 152836,
@@ -1427,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 147922,
+      "num": 610878,
+      "word": "我国稀土研究有新突破",
+      "onboard_time": 1763638221,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 147749,
       "num": 147749,
       "word": "日本政府被判赔偿39亿日元",
@@ -1457,6 +1625,14 @@
       "onboard_time": 1763615541,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146320,
+      "num": 148400,
+      "word": "邓亚萍感叹樊振东太强了",
+      "onboard_time": 1763639483,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 143141,
@@ -1531,6 +1707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138653,
+      "num": 138653,
+      "word": "狼队 清清",
+      "onboard_time": 1763640864,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136913,
       "num": 231065,
       "word": "iPhone下滑发现的新世界",
@@ -1539,12 +1723,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 136734,
+      "num": 136734,
+      "word": "男团巅峰对决",
+      "onboard_time": 1763643084,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136001,
       "num": 136001,
       "word": "LPL全明星投票开启",
       "onboard_time": 1763616441,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135978,
+      "num": 135978,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135899,
@@ -1844,7 +2044,7 @@
     },
     {
       "raw_hot": 119229,
-      "num": 119229,
+      "num": 243288,
       "word": "唐诡3橘娘持枪守家反差绝了",
       "onboard_time": 1763638643,
       "rank": 44,
@@ -1939,6 +2139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114676,
+      "num": 311520,
+      "word": "小鹏X9下一代增程太强了",
+      "onboard_time": 1763640623,
+      "rank": 23,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 114570,
       "num": 168383,
       "word": "好久没见这么有质感的古装剧了",
@@ -1953,6 +2161,14 @@
       "onboard_time": 1763610862,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 112416,
+      "num": 176952,
+      "word": "曝Jiejie与1xn或成队友",
+      "onboard_time": 1763642787,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 111650,
@@ -2283,6 +2499,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 97590,
+      "num": 294924,
+      "word": "内娱首个呕像综艺出现了",
+      "onboard_time": 1763641762,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96844,
       "num": 230566,
       "word": "下镜脸",
@@ -2531,14 +2755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 79882,
-      "num": 125675,
-      "word": "赵雅芝孙女颜值",
-      "onboard_time": 1763638221,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79828,
       "num": 79828,
       "word": "母亲回应炫耀孩子招杀身之祸言论",
@@ -2627,6 +2843,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 72517,
+      "num": 320556,
+      "word": "日本水产从业者集体破防",
+      "onboard_time": 1763642303,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72050,
       "num": 186927,
       "word": "何炅命中躲不开的劫是那英",
@@ -2641,6 +2865,14 @@
       "onboard_time": 1763553802,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 71475,
+      "num": 149524,
+      "word": "日本一天爆发两场抗议集会",
+      "onboard_time": 1763641102,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70336,
@@ -2955,14 +3187,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 43505,
-      "num": 610878,
-      "word": "我国稀土研究有新突破",
-      "onboard_time": 1763638221,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 43080,
       "num": 417172,
       "word": "女子家门口遇害案凶手声称无辜",
@@ -3017,6 +3241,14 @@
       "onboard_time": 1763574436,
       "rank": 30,
       "category": "网红"
+    },
+    {
+      "raw_hot": 37352,
+      "num": 177290,
+      "word": "保姆3万元买房被雇主子女告上法庭",
+      "onboard_time": 1763642123,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36959,
@@ -3155,6 +3387,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 27436,
+      "num": 1146943,
+      "word": "00后10后闪耀十五运会",
+      "onboard_time": 1763630901,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 27264,
       "num": 57548,
       "word": "李一桐感冒将近一个月了",
@@ -3169,6 +3409,14 @@
       "onboard_time": 1763585173,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 26704,
+      "num": 677899,
+      "word": "鲁豫发问千问",
+      "onboard_time": 1763640084,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 25802,
@@ -3233,6 +3481,14 @@
       "onboard_time": 1763634682,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 21740,
+      "num": 176903,
+      "word": "百名十年好司机每人获滴滴万元奖金",
+      "onboard_time": 1763641163,
+      "rank": 39,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 21263,
@@ -3305,14 +3561,6 @@
       "onboard_time": 1763592137,
       "rank": 49,
       "category": "财经"
-    },
-    {
-      "raw_hot": 12539,
-      "num": 562715,
-      "word": "00后10后闪耀十五运会",
-      "onboard_time": 1763630901,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 12118,
