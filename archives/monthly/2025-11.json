@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763646444659,
+  "endTime": 1763648867449,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2003,6 +2003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 967572,
+      "num": 967572,
+      "word": "马龙拿下生涯唯一空缺金牌",
+      "onboard_time": 1763647223,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 967455,
       "num": 1154792,
       "word": "解放军警告日本",
@@ -2292,7 +2300,7 @@
     },
     {
       "raw_hot": 892361,
-      "num": 305690,
+      "num": 315746,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763633541,
       "rank": 20,
@@ -5716,7 +5724,7 @@
     },
     {
       "raw_hot": 557358,
-      "num": 308164,
+      "num": 312691,
       "word": "赵雅芝孙女颜值",
       "onboard_time": 1763638221,
       "rank": 38,
@@ -5777,6 +5785,14 @@
       "onboard_time": 1762763239,
       "rank": 26,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 554064,
+      "num": 354050,
+      "word": "马龙圆满了",
+      "onboard_time": 1763644043,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 553942,
@@ -6457,6 +6473,14 @@
       "onboard_time": 1762168702,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 516460,
+      "num": 516460,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 516116,
@@ -7467,6 +7491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 470924,
+      "num": 410050,
+      "word": "红果短剧推出演员分账",
+      "onboard_time": 1763647644,
+      "rank": 6,
+      "category": "剧集,互联网"
+    },
+    {
       "raw_hot": 470486,
       "num": 248867,
       "word": "炎亚纶回应取关鬼鬼",
@@ -8089,14 +8121,6 @@
       "onboard_time": 1761981921,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 444157,
-      "num": 444157,
-      "word": "日本反对日本",
-      "onboard_time": 1763642905,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 443652,
@@ -9627,6 +9651,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 391860,
+      "num": 345259,
+      "word": "樊振东马龙寒暄",
+      "onboard_time": 1763645784,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 390969,
       "num": 179341,
       "word": "黄胜利致歉",
@@ -11131,6 +11163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 349912,
+      "num": 349912,
+      "word": "王橹杰 魅魔",
+      "onboard_time": 1763648243,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349822,
       "num": 271737,
       "word": "中国大陆至日本航班量大幅下滑",
@@ -11161,14 +11201,6 @@
       "onboard_time": 1763517020,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 347970,
-      "num": 270820,
-      "word": "马龙圆满了",
-      "onboard_time": 1763644043,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 347847,
@@ -12635,6 +12667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311420,
+      "num": 311420,
+      "word": "龙蟒",
+      "onboard_time": 1763644463,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 311169,
       "num": 179848,
       "word": "孙乐言回应我现在不是一个普通人了",
@@ -13537,6 +13577,14 @@
       "onboard_time": 1763638884,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295451,
+      "num": 295451,
+      "word": "王橹杰tears变装",
+      "onboard_time": 1763648125,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 295392,
@@ -14803,6 +14851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 270591,
+      "num": 348560,
+      "word": "时代峰峻 催氪",
+      "onboard_time": 1763647283,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 270471,
       "num": 180702,
       "word": "彭小苒换头像 端水大师",
@@ -15072,14 +15128,6 @@
       "word": "张展硕第5金",
       "onboard_time": 1763381301,
       "rank": 20,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 266670,
-      "num": 223396,
-      "word": "樊振东马龙寒暄",
-      "onboard_time": 1763645784,
-      "rank": 32,
       "category": "体育"
     },
     {
@@ -16113,6 +16161,14 @@
       "onboard_time": 1762130961,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247970,
+      "num": 247970,
+      "word": "马龙乒坛历史第一人",
+      "onboard_time": 1763646743,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 247700,
@@ -18332,7 +18388,7 @@
     },
     {
       "raw_hot": 214929,
-      "num": 223312,
+      "num": 253163,
       "word": "小鹏X9超级增程价格真香",
       "onboard_time": 1763644524,
       "rank": 34,
@@ -18491,6 +18547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213788,
+      "num": 213788,
+      "word": "王楚钦樊振东拥抱",
+      "onboard_time": 1763645603,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213786,
       "num": 197597,
       "word": "张博恒解说T1对战TES",
@@ -18641,14 +18705,6 @@
       "onboard_time": 1762912699,
       "rank": 30,
       "category": "美食"
-    },
-    {
-      "raw_hot": 212196,
-      "num": 212196,
-      "word": "龙蟒",
-      "onboard_time": 1763644463,
-      "rank": 35,
-      "category": "体育"
     },
     {
       "raw_hot": 212140,
@@ -19705,14 +19761,6 @@
       "onboard_time": 1763026341,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 203110,
-      "num": 203110,
-      "word": "王楚钦樊振东拥抱",
-      "onboard_time": 1763645603,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 203085,
@@ -21489,6 +21537,14 @@
       "onboard_time": 1763370802,
       "rank": 32,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 191812,
+      "num": 197035,
+      "word": "启境将推出华系首款猎装轿跑",
+      "onboard_time": 1763647524,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 191787,
@@ -23940,7 +23996,7 @@
     },
     {
       "raw_hot": 177456,
-      "num": 224589,
+      "num": 328565,
       "word": "华为乾崑第一境启境登场",
       "onboard_time": 1763645962,
       "rank": 23,
@@ -25643,6 +25699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166526,
+      "num": 325667,
+      "word": "华为乾崑有境界",
+      "onboard_time": 1763647524,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 166520,
       "num": 153682,
       "word": "水果店便宜得像批发价走红",
@@ -26033,6 +26097,14 @@
       "onboard_time": 1761966259,
       "rank": 25,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 164836,
+      "num": 164836,
+      "word": "王昶谢浩南亚军",
+      "onboard_time": 1763647344,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 164816,
@@ -26489,6 +26561,14 @@
       "onboard_time": 1762226900,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162271,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162259,
@@ -27209,6 +27289,14 @@
       "onboard_time": 1763253140,
       "rank": 25,
       "category": "电影"
+    },
+    {
+      "raw_hot": 159221,
+      "num": 159221,
+      "word": "在国产剧看到婚生女养非婚子了",
+      "onboard_time": 1763648365,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 159144,
@@ -35891,6 +35979,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 126788,
+      "num": 193413,
+      "word": "樊振东全运会十连胜",
+      "onboard_time": 1763648725,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126727,
       "num": 126727,
       "word": "马龙称男团决赛越打越没谱",
@@ -43601,14 +43697,6 @@
       "onboard_time": 1762096580,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107536,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107525,
@@ -59979,6 +60067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 71433,
+      "num": 336967,
+      "word": "找不着北又火到台湾",
+      "onboard_time": 1763647823,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71372,
       "num": 191587,
       "word": "杨紫新剧杀青后首个活动",
@@ -63947,6 +64043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 53735,
+      "num": 340620,
+      "word": "华为乾崑APP正式发布",
+      "onboard_time": 1763645903,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53696,
       "num": 180460,
       "word": "季新杰 愿我们终抵群星",
@@ -64161,6 +64265,14 @@
       "onboard_time": 1762482919,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52964,
+      "num": 319017,
+      "word": "美国对中日关系持谨慎态度",
+      "onboard_time": 1763648662,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 52936,
@@ -64403,14 +64515,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51616,
-      "num": 225438,
-      "word": "华为乾崑APP正式发布",
-      "onboard_time": 1763645903,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 51515,
       "num": 128167,
       "word": "许昕再现背后击球绝技",
@@ -64529,6 +64633,14 @@
       "onboard_time": 1763076679,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 50895,
+      "num": 302784,
+      "word": "如何重新定义人车关系",
+      "onboard_time": 1763648602,
+      "rank": 29,
+      "category": "汽车"
     },
     {
       "raw_hot": 50892,
@@ -68641,6 +68753,14 @@
       "onboard_time": 1763460862,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 32280,
+      "num": 335816,
+      "word": "开乾崑智驾还能保费打折",
+      "onboard_time": 1763646503,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 32254,

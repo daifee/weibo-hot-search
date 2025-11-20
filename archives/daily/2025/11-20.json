@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763646444659,
+  "endTime": 1763648867449,
   "band_list": [
     {
       "raw_hot": 9551582,
@@ -163,8 +163,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 967572,
+      "num": 967572,
+      "word": "马龙拿下生涯唯一空缺金牌",
+      "onboard_time": 1763647223,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 892361,
-      "num": 305690,
+      "num": 315746,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763633541,
       "rank": 20,
@@ -412,11 +420,19 @@
     },
     {
       "raw_hot": 557358,
-      "num": 308164,
+      "num": 312691,
       "word": "赵雅芝孙女颜值",
       "onboard_time": 1763638221,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 554064,
+      "num": 354050,
+      "word": "马龙圆满了",
+      "onboard_time": 1763644043,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 553379,
@@ -427,12 +443,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 516460,
+      "num": 516460,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 516444,
       "num": 907700,
       "word": "日本多次不宣而战",
       "onboard_time": 1763559983,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 470924,
+      "num": 410050,
+      "word": "红果短剧推出演员分账",
+      "onboard_time": 1763647644,
+      "rank": 6,
+      "category": "剧集,互联网"
     },
     {
       "raw_hot": 454394,
@@ -449,14 +481,6 @@
       "onboard_time": 1763621422,
       "rank": 6,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 444157,
-      "num": 444157,
-      "word": "日本反对日本",
-      "onboard_time": 1763642905,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 444116,
@@ -547,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 391860,
+      "num": 345259,
+      "word": "樊振东马龙寒暄",
+      "onboard_time": 1763645784,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 384573,
       "num": 264213,
       "word": "鹿晗先给哪个小猫吃",
@@ -611,20 +643,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349912,
+      "num": 349912,
+      "word": "王橹杰 魅魔",
+      "onboard_time": 1763648243,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 349713,
       "num": 194898,
       "word": "易梦玲 音乐才子",
       "onboard_time": 1763605102,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 347970,
-      "num": 270820,
-      "word": "马龙圆满了",
-      "onboard_time": 1763644043,
-      "rank": 42,
-      "category": "体育"
     },
     {
       "raw_hot": 347090,
@@ -723,6 +755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 311420,
+      "num": 311420,
+      "word": "龙蟒",
+      "onboard_time": 1763644463,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 306067,
       "num": 678058,
       "word": "桃黑黑 大家不要冲动消费",
@@ -769,6 +809,14 @@
       "onboard_time": 1763638884,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 295451,
+      "num": 295451,
+      "word": "王橹杰tears变装",
+      "onboard_time": 1763648125,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 294898,
@@ -827,6 +875,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 270591,
+      "num": 348560,
+      "word": "时代峰峻 催氪",
+      "onboard_time": 1763647283,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 269708,
       "num": 440732,
       "word": "雷军承诺做好三件事",
@@ -857,14 +913,6 @@
       "onboard_time": 1763607202,
       "rank": 14,
       "category": "财经,海外新闻"
-    },
-    {
-      "raw_hot": 266670,
-      "num": 223396,
-      "word": "樊振东马龙寒暄",
-      "onboard_time": 1763645784,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 264417,
@@ -929,6 +977,14 @@
       "onboard_time": 1763610381,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 247970,
+      "num": 247970,
+      "word": "马龙乒坛历史第一人",
+      "onboard_time": 1763646743,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 242014,
@@ -1052,7 +1108,7 @@
     },
     {
       "raw_hot": 214929,
-      "num": 223312,
+      "num": 253163,
       "word": "小鹏X9超级增程价格真香",
       "onboard_time": 1763644524,
       "rank": 34,
@@ -1067,19 +1123,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 213788,
+      "num": 213788,
+      "word": "王楚钦樊振东拥抱",
+      "onboard_time": 1763645603,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213095,
       "num": 213095,
       "word": "只有王楚钦敢这么打",
       "onboard_time": 1763640384,
       "rank": 34,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 212196,
-      "num": 212196,
-      "word": "龙蟒",
-      "onboard_time": 1763644463,
-      "rank": 35,
       "category": "体育"
     },
     {
@@ -1144,14 +1200,6 @@
       "word": "马龙用男团金牌告别全运会",
       "onboard_time": 1763645544,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 203110,
-      "num": 203110,
-      "word": "王楚钦樊振东拥抱",
-      "onboard_time": 1763645603,
-      "rank": 42,
       "category": "体育"
     },
     {
@@ -1316,7 +1364,7 @@
     },
     {
       "raw_hot": 193048,
-      "num": 270853,
+      "num": 344373,
       "word": "卢凌风气死我了",
       "onboard_time": 1763645424,
       "rank": 29,
@@ -1329,6 +1377,14 @@
       "onboard_time": 1763645844,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191812,
+      "num": 197035,
+      "word": "启境将推出华系首款猎装轿跑",
+      "onboard_time": 1763647524,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 191498,
@@ -1468,7 +1524,7 @@
     },
     {
       "raw_hot": 177456,
-      "num": 224589,
+      "num": 328565,
       "word": "华为乾崑第一境启境登场",
       "onboard_time": 1763645962,
       "rank": 23,
@@ -1571,6 +1627,22 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 166526,
+      "num": 325667,
+      "word": "华为乾崑有境界",
+      "onboard_time": 1763647524,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 164836,
+      "num": 164836,
+      "word": "王昶谢浩南亚军",
+      "onboard_time": 1763647344,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164816,
       "num": 164816,
       "word": "33成功闯进记者赛道",
@@ -1616,6 +1688,14 @@
       "word": "母亲带遇害女儿彩色遗像出庭",
       "onboard_time": 1763605702,
       "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162271,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1681,6 +1761,14 @@
       "onboard_time": 1763629881,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 159221,
+      "num": 159221,
+      "word": "在国产剧看到婚生女养非婚子了",
+      "onboard_time": 1763648365,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 157525,
@@ -2099,6 +2187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126788,
+      "num": 193413,
+      "word": "樊振东全运会十连胜",
+      "onboard_time": 1763648725,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126727,
       "num": 126727,
       "word": "马龙称男团决赛越打越没谱",
@@ -2433,14 +2529,6 @@
       "onboard_time": 1763620402,
       "rank": 47,
       "category": "演出"
-    },
-    {
-      "raw_hot": 107536,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106560,
@@ -3115,6 +3203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71433,
+      "num": 336967,
+      "word": "找不着北又火到台湾",
+      "onboard_time": 1763647823,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 70336,
       "num": 214521,
       "word": "家门口遇害女子妈妈称一秒记住凶手",
@@ -3331,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53735,
+      "num": 340620,
+      "word": "华为乾崑APP正式发布",
+      "onboard_time": 1763645903,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 53696,
       "num": 180460,
       "word": "季新杰 愿我们终抵群星",
@@ -3355,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52964,
+      "num": 319017,
+      "word": "美国对中日关系持谨慎态度",
+      "onboard_time": 1763648662,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51688,
       "num": 180385,
       "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
@@ -3363,11 +3475,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 51616,
-      "num": 225438,
-      "word": "华为乾崑APP正式发布",
-      "onboard_time": 1763645903,
-      "rank": 19,
+      "raw_hot": 50895,
+      "num": 302784,
+      "word": "如何重新定义人车关系",
+      "onboard_time": 1763648602,
+      "rank": 29,
       "category": "汽车"
     },
     {
@@ -3585,6 +3697,14 @@
       "onboard_time": 1763623942,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32280,
+      "num": 335816,
+      "word": "开乾崑智驾还能保费打折",
+      "onboard_time": 1763646503,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 31944,
