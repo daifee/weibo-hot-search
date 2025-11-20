@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 15:27:06
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 15:39:41
 </p>
 </blockquote>
 <p>
@@ -227,6 +227,12 @@ T1官宣Gumayusi离队（热度：3390474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%A1%E6%B3%A1%E7%8E%9B%E7%89%B9%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85%23" target="weibo">
 泡泡玛特直播事故（热度：2429969）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%BB%93%E5%A9%9A%23" target="weibo">
+霸王茶姬创始人结婚（热度：2403933）
 </a>
 </li>
 
@@ -911,12 +917,6 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E5%93%AD%E4%BA%86%23" target="weibo">
 陈梦哭了（热度：1216518）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%BB%93%E5%A9%9A%23" target="weibo">
-霸王茶姬创始人结婚（热度：1204701）
 </a>
 </li>
 
@@ -5841,6 +5841,12 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
+王者荣耀（热度：448472）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%A5%E4%BA%B5%E7%94%B7%E8%A2%AD%E8%83%B8%E5%90%8E%E7%A7%B0%E6%B2%A1%E6%84%9F%E8%A7%89%E5%B0%B1%E6%98%AF%E6%B2%A1%E6%91%B8%E5%88%B0%23" target="weibo">
 猥亵男袭胸后称没感觉就是没摸到（热度：448113）
 </a>
@@ -6005,12 +6011,6 @@ Kanavi HLE（热度：442015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%90%E5%98%89%E4%BD%99%E6%89%93%E7%A0%B4%E5%85%A8%E5%9B%BD%E7%BA%AA%E5%BD%95%23" target="weibo">
 徐嘉余打破全国纪录（热度：440306）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E5%8F%B0%E4%B8%80%E5%AE%B65%E5%8F%A3%E8%A2%AB%E5%AE%B3%E6%A1%88%E5%AE%B6%E5%B1%9E%E5%8F%91%E5%A3%B0%23" target="weibo">
-邢台一家5口被害案家属发声（热度：439886）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1763624381523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 448472,
+        "num": 1071755,
+        "word": "王者荣耀",
+        "onboard_time": 1763621422,
+        "rank": 0,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 444050,
+        "num": 444050,
+        "word": "印度想对华出口水产品",
+        "onboard_time": 1763613084,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1106,
+        "num": 442587,
+        "word": "e法润京华",
+        "onboard_time": 1763545702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 250988,
+        "num": 441606,
+        "word": "中国对日本的施压正在逐渐上升",
+        "onboard_time": 1763614404,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192695,
+        "num": 440732,
+        "word": "雷军承诺做好三件事",
+        "onboard_time": 1763613084,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 181820,
+        "num": 438361,
+        "word": "Tabe JDG",
+        "onboard_time": 1763623341,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 168726,
+        "num": 437209,
+        "word": "新闻女王2方太太患癌",
+        "onboard_time": 1763619442,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154747,
+        "num": 435323,
+        "word": "央视曝光加油站作弊花招",
+        "onboard_time": 1763609902,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 150787,
+        "num": 433627,
+        "word": "聂九罗的岛",
+        "onboard_time": 1763619922,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111737,
+        "num": 432750,
+        "word": "尖叫之夜 抢票",
+        "onboard_time": 1763617462,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2403933,
+        "num": 430749,
+        "word": "霸王茶姬创始人结婚",
+        "onboard_time": 1763622681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299337,
+        "num": 429356,
+        "word": "44岁博主确诊胆囊癌仅1个月去世",
+        "onboard_time": 1763617402,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222283,
+        "num": 427985,
+        "word": "郑大一附院西院区今起停诊",
+        "onboard_time": 1763620582,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109802,
+        "num": 425120,
+        "word": "A股缩量177亿调整",
+        "onboard_time": 1763623583,
+        "rank": 13,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 218812,
+        "num": 423785,
+        "word": "渣土车侧翻压死女子肇事车严重超载",
+        "onboard_time": 1763610023,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196513,
+        "num": 422479,
+        "word": "日本最大核电站将重启运行",
+        "onboard_time": 1763614824,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182502,
+        "num": 420782,
+        "word": "何美延教科书式自证",
+        "onboard_time": 1763618303,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57509,
+        "num": 419309,
+        "word": "迪拜富豪最新社交硬通货",
+        "onboard_time": 1763622261,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 43080,
+        "num": 417172,
+        "word": "女子家门口遇害案凶手声称无辜",
+        "onboard_time": 1763623882,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23008,
+        "num": 416952,
+        "word": "北海舰队来吧敌人",
+        "onboard_time": 1763623219,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 881778,
+        "num": 414426,
+        "word": "肖战工作室评论回复小红豆",
+        "onboard_time": 1763621303,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 754207,
+        "num": 412870,
+        "word": "朱朱小桃分手",
+        "onboard_time": 1763620642,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 736709,
+        "num": 410599,
+        "word": "胡彦斌和妈妈看了易梦玲话剧",
+        "onboard_time": 1763614223,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 410599,
+        "num": 410598,
+        "word": "胡彦斌易梦玲 郝蕾表演训练营",
+        "onboard_time": 1763617702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86235,
+        "num": 398363,
+        "word": "日本水产失去中国市场后找不到替补",
+        "onboard_time": 1763622923,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135798,
+        "num": 397177,
+        "word": "流感停课",
+        "onboard_time": 1763615242,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396846,
+        "num": 396846,
+        "word": "日本舆论已意识到事态十分严重",
+        "onboard_time": 1763619682,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 577259,
+        "num": 396732,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382551,
+        "num": 382551,
+        "word": "小黄豆整容",
+        "onboard_time": 1763616741,
+        "rank": 28,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 100859,
+        "num": 343223,
+        "word": "银行取消5年期存款对我们有何影响",
+        "onboard_time": 1763623101,
+        "rank": 29,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 80328,
+        "num": 339505,
+        "word": "若介入台海日本将沦为战场",
+        "onboard_time": 1763622621,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337593,
+        "num": 337593,
+        "word": "董璇觉得自己老来得子",
+        "onboard_time": 1763616441,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 333215,
+        "num": 333215,
+        "word": "A股",
+        "onboard_time": 1763622621,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 238854,
+        "num": 238854,
+        "word": "月经有5个表现说明子宫很健康",
+        "onboard_time": 1763611943,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215713,
+        "num": 215713,
+        "word": "许晴",
+        "onboard_time": 1763611103,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171245,
+        "num": 171245,
+        "word": "身份证照片 最接近别人看到的自己",
+        "onboard_time": 1763623823,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 161233,
+        "num": 161233,
+        "word": "睡觉穿袜子vs不穿袜子",
+        "onboard_time": 1763623521,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 87007,
+        "num": 139255,
+        "word": "日本冲绳再曝驻日美军性暴力事件",
+        "onboard_time": 1763616084,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83346,
+        "num": 132655,
+        "word": "林高远漏了4个字",
+        "onboard_time": 1763623823,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32561,
+        "num": 132270,
+        "word": "迪丽热巴聂九罗单手开车",
+        "onboard_time": 1763623942,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131945,
+        "num": 131945,
+        "word": "日本马上要没有大熊猫了",
+        "onboard_time": 1763599764,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132162,
+        "num": 131262,
+        "word": "金价",
+        "onboard_time": 1763623701,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 156253,
+        "num": 130341,
+        "word": "日本很可能在进行某种舆论准备",
+        "onboard_time": 1763620102,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129097,
+        "num": 129097,
+        "word": "香港街头印度人",
+        "onboard_time": 1763622261,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83720,
+        "num": 125502,
+        "word": "多名女子后厨跳辣舞被指影响卫生",
+        "onboard_time": 1763622022,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123503,
+        "num": 123503,
+        "word": "柬埔寨劫囚女子因高颜值引关注",
+        "onboard_time": 1763607262,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108765,
+        "num": 108765,
+        "word": "五种极寒水果和蔬菜",
+        "onboard_time": 1763622923,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 65479,
+        "num": 101117,
+        "word": "人类对霍建华的开发程度不足10%",
+        "onboard_time": 1763622742,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97964,
+        "num": 97964,
+        "word": "曝T1听Keria建议选择了Peyz",
+        "onboard_time": 1763615423,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 97612,
+        "num": 97612,
+        "word": "马思唯评论区乱成一锅",
+        "onboard_time": 1763602881,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
