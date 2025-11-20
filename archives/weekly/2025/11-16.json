@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763659328758,
+  "endTime": 1763660472533,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -14587,6 +14587,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 85934,
+      "num": 74402,
+      "word": "大湾鸡是史上最成功的吉祥物",
+      "onboard_time": 1763657119,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85899,
       "num": 120543,
       "word": "98版杨过小龙女重聚",
@@ -15185,14 +15193,6 @@
       "onboard_time": 1763368340,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 74402,
-      "num": 74402,
-      "word": "大湾鸡是史上最成功的吉祥物",
-      "onboard_time": 1763657119,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 74375,
@@ -16123,6 +16123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53510,
+      "num": 53510,
+      "word": "25岁的中年王楚钦",
+      "onboard_time": 1763657058,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53477,
       "num": 177458,
       "word": "华为MatePadEdge是平板更是电脑",
@@ -16739,6 +16747,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 42682,
+      "num": 59396,
+      "word": "声生不息华流金曲征集",
+      "onboard_time": 1763659456,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42349,
       "num": 104715,
       "word": "德媒称德国无牌可打",
@@ -16937,6 +16953,14 @@
       "onboard_time": 1763313017,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39232,
+      "num": 51519,
+      "word": "盛夏芬德拉剧里那道闪电是真的",
+      "onboard_time": 1763659696,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 39162,
@@ -17219,14 +17243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 34899,
-      "num": 45849,
-      "word": "25岁的中年王楚钦",
-      "onboard_time": 1763657058,
-      "rank": 45,
-      "category": "体育"
-    },
-    {
       "raw_hot": 34722,
       "num": 180729,
       "word": "日本右翼还在幻想往日荣光",
@@ -17273,6 +17289,14 @@
       "onboard_time": 1763541325,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34358,
+      "num": 37503,
+      "word": "汪苏泷官宣跨年场新年场收官场",
+      "onboard_time": 1763660295,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 34305,
@@ -17539,6 +17563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31318,
+      "num": 37497,
+      "word": "王楚钦十五运一金一铜收官",
+      "onboard_time": 1763659397,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31277,
       "num": 279343,
       "word": "台湾34个团体严正抗议日本",
@@ -17729,6 +17761,14 @@
       "onboard_time": 1763613862,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29380,
+      "num": 37481,
+      "word": "易梦玲穿搭像胡彦斌搭配的",
+      "onboard_time": 1763659936,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 29074,

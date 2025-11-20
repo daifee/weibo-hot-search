@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763659328758,
+  "endTime": 1763660472533,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -275,6 +275,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85934,
+      "num": 74402,
+      "word": "大湾鸡是史上最成功的吉祥物",
+      "onboard_time": 1763657119,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85888,
       "num": 85888,
       "word": "肥猫演员郑则仕已瘦70斤",
@@ -312,14 +320,6 @@
       "word": "樊振东马龙寒暄",
       "onboard_time": 1763645784,
       "rank": 38,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 74402,
-      "num": 74402,
-      "word": "大湾鸡是史上最成功的吉祥物",
-      "onboard_time": 1763657119,
-      "rank": 49,
       "category": "体育"
     },
     {
@@ -419,12 +419,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53510,
+      "num": 53510,
+      "word": "25岁的中年王楚钦",
+      "onboard_time": 1763657058,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53377,
       "num": 53377,
       "word": "Gemini3",
       "onboard_time": 1763657178,
       "rank": 31,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 42682,
+      "num": 59396,
+      "word": "声生不息华流金曲征集",
+      "onboard_time": 1763659456,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 39232,
+      "num": 51519,
+      "word": "盛夏芬德拉剧里那道闪电是真的",
+      "onboard_time": 1763659696,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 36963,
@@ -435,12 +459,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 34899,
-      "num": 45849,
-      "word": "25岁的中年王楚钦",
-      "onboard_time": 1763657058,
-      "rank": 45,
-      "category": "体育"
+      "raw_hot": 34358,
+      "num": 37503,
+      "word": "汪苏泷官宣跨年场新年场收官场",
+      "onboard_time": 1763660295,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 32599,
@@ -449,6 +473,22 @@
       "onboard_time": 1763655259,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31318,
+      "num": 37497,
+      "word": "王楚钦十五运一金一铜收官",
+      "onboard_time": 1763659397,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 29380,
+      "num": 37481,
+      "word": "易梦玲穿搭像胡彦斌搭配的",
+      "onboard_time": 1763659936,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 16514,
