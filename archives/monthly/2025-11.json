@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763643232314,
+  "endTime": 1763644105574,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -169,6 +169,14 @@
       "onboard_time": 1763381481,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3315042,
+      "num": 4130085,
+      "word": "马龙王楚钦黄友政夺冠",
+      "onboard_time": 1763642905,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 3308875,
@@ -564,7 +572,7 @@
     },
     {
       "raw_hot": 1705070,
-      "num": 318832,
+      "num": 327109,
       "word": "胡彦斌 法庭上带着你的破视频",
       "onboard_time": 1763640563,
       "rank": 20,
@@ -609,6 +617,14 @@
       "onboard_time": 1762690584,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1653695,
+      "num": 964149,
+      "word": "樊振东许昕周恺亚军",
+      "onboard_time": 1763643024,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1645066,
@@ -1012,7 +1028,7 @@
     },
     {
       "raw_hot": 1311672,
-      "num": 314014,
+      "num": 319907,
       "word": "王楚钦头撞球桌",
       "onboard_time": 1763641163,
       "rank": 22,
@@ -1185,14 +1201,6 @@
       "onboard_time": 1762419261,
       "rank": 0,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1234178,
-      "num": 1234178,
-      "word": "马龙王楚钦黄友政夺冠",
-      "onboard_time": 1763642905,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 1230908,
@@ -2137,14 +2145,6 @@
       "onboard_time": 1763212407,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 929570,
-      "num": 929570,
-      "word": "樊振东许昕周恺亚军",
-      "onboard_time": 1763643024,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 926640,
@@ -4283,6 +4283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 648455,
+      "num": 308840,
+      "word": "韩安娜怀宝宝了",
+      "onboard_time": 1763642602,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 645367,
       "num": 645367,
       "word": "鬼灭之刃票房大跌",
@@ -4633,6 +4641,14 @@
       "onboard_time": 1762782682,
       "rank": 20,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 622510,
+      "num": 622510,
+      "word": "苏炳添谢幕战接力第四",
+      "onboard_time": 1763642787,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 621968,
@@ -6539,6 +6555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 510435,
+      "num": 288825,
+      "word": "时代峰峻 签售",
+      "onboard_time": 1763643203,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510057,
       "num": 510057,
       "word": "接孙尚香FMVP",
@@ -7537,14 +7561,6 @@
       "onboard_time": 1763349801,
       "rank": 42,
       "category": "电影,体育"
-    },
-    {
-      "raw_hot": 466998,
-      "num": 466998,
-      "word": "苏炳添谢幕战接力第四",
-      "onboard_time": 1763642787,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 466338,
@@ -9500,7 +9516,7 @@
     },
     {
       "raw_hot": 393572,
-      "num": 683889,
+      "num": 684863,
       "word": "安倍晋三遇袭身亡案今日继续庭审",
       "onboard_time": 1763627482,
       "rank": 19,
@@ -10867,6 +10883,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 354786,
+      "num": 354786,
+      "word": "马龙还是马龙",
+      "onboard_time": 1763641823,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354574,
       "num": 354574,
       "word": "华为Mate80",
@@ -11588,7 +11612,7 @@
     },
     {
       "raw_hot": 334862,
-      "num": 876643,
+      "num": 981307,
       "word": "山姆盒马的酸奶是同一家工厂生产",
       "onboard_time": 1763637502,
       "rank": 18,
@@ -12137,14 +12161,6 @@
       "onboard_time": 1762954041,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 322899,
-      "num": 322899,
-      "word": "马龙还是马龙",
-      "onboard_time": 1763641823,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 322883,
@@ -12915,6 +12931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 304948,
+      "num": 510064,
+      "word": "朱志鑫见面会",
+      "onboard_time": 1763643324,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304882,
       "num": 208704,
       "word": "建议气血不足的人不要留太长的头发",
@@ -13467,6 +13491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295687,
+      "num": 499842,
+      "word": "张凌赫张婧仪 王子和公主",
+      "onboard_time": 1763638884,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 295392,
       "num": 295392,
       "word": "Tarzan发文致歉",
@@ -13745,14 +13777,6 @@
       "onboard_time": 1763029401,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 289576,
-      "num": 289576,
-      "word": "张凌赫张婧仪 王子和公主",
-      "onboard_time": 1763638884,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 289491,
@@ -15051,14 +15075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265732,
-      "num": 265732,
-      "word": "韩安娜怀宝宝了",
-      "onboard_time": 1763642602,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 265698,
       "num": 265698,
       "word": "俞敏洪连发10条南极游视频",
@@ -15137,6 +15153,14 @@
       "onboard_time": 1763200821,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 264131,
+      "num": 264131,
+      "word": "马龙许昕拥抱",
+      "onboard_time": 1763643443,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 264082,
@@ -19603,6 +19627,14 @@
       "category": "艺人,电竞"
     },
     {
+      "raw_hot": 202986,
+      "num": 202986,
+      "word": "乒乓球男团北京夺冠",
+      "onboard_time": 1763643623,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202925,
       "num": 202925,
       "word": "Angelababy直播素颜状态",
@@ -21755,6 +21787,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 189595,
+      "num": 189595,
+      "word": "樊振东强得可怕",
+      "onboard_time": 1763643684,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 189546,
       "num": 189546,
       "word": "赢风",
@@ -23803,6 +23843,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176953,
+      "num": 176953,
+      "word": "马龙全运会大满贯",
+      "onboard_time": 1763643923,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176854,
       "num": 176854,
       "word": "Gumayusi回应离队T1",
@@ -24601,6 +24649,14 @@
       "onboard_time": 1763638102,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171760,
+      "num": 171760,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 171749,
@@ -28747,6 +28803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151951,
+      "num": 151951,
+      "word": "马龙圆满了",
+      "onboard_time": 1763644043,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151947,
       "num": 333697,
       "word": "林诗栋发文告别全运会",
@@ -29104,6 +29168,14 @@
       "word": "泰州队主教练 苏超唯一女教练",
       "onboard_time": 1762009283,
       "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 150265,
+      "num": 150265,
+      "word": "精彩全运会",
+      "onboard_time": 1762444821,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -30569,6 +30641,14 @@
       "onboard_time": 1762300760,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 144153,
+      "num": 144153,
+      "word": "你参加微博研究生考试了吗",
+      "onboard_time": 1763643863,
+      "rank": 45,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 144056,
@@ -32897,14 +32977,6 @@
       "onboard_time": 1762933701,
       "rank": 29,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135978,
-      "num": 135978,
-      "word": "日本反对日本",
-      "onboard_time": 1763642905,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135899,
@@ -36396,7 +36468,7 @@
     },
     {
       "raw_hot": 124879,
-      "num": 188059,
+      "num": 199038,
       "word": "狂野时代预售票房破9000万",
       "onboard_time": 1763635460,
       "rank": 35,
@@ -40532,7 +40604,7 @@
     },
     {
       "raw_hot": 114676,
-      "num": 311520,
+      "num": 337867,
       "word": "小鹏X9下一代增程太强了",
       "onboard_time": 1763640623,
       "rank": 23,
@@ -46497,6 +46569,14 @@
       "onboard_time": 1763095461,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101018,
+      "num": 320556,
+      "word": "日本水产从业者集体破防",
+      "onboard_time": 1763642303,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 101008,
@@ -59483,14 +59563,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 72517,
-      "num": 320556,
-      "word": "日本水产从业者集体破防",
-      "onboard_time": 1763642303,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 72510,
       "num": 99909,
       "word": "业主说小区房价下跌后被造黄谣",
@@ -64291,6 +64363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 50866,
+      "num": 344403,
+      "word": "三体公司CEO毒杀游族董事长林奇案始末",
+      "onboard_time": 1763643503,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50859,
       "num": 60030,
       "word": "微信10个隐藏级功能",
@@ -67603,14 +67683,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35567,
-      "num": 105594,
-      "word": "精彩全运会",
-      "onboard_time": 1762444821,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 35535,
       "num": 200703,
       "word": "买手机会在意型号名字吗",
@@ -68256,6 +68328,14 @@
       "word": "免费黄金打卡位竟被揽拍霸占",
       "onboard_time": 1762006464,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32822,
+      "num": 349418,
+      "word": "三体公司原CEO投毒案",
+      "onboard_time": 1763643503,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -69492,7 +69572,7 @@
     },
     {
       "raw_hot": 27436,
-      "num": 1146943,
+      "num": 1899035,
       "word": "00后10后闪耀十五运会",
       "onboard_time": 1763630901,
       "rank": 2,

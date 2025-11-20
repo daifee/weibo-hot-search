@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763643232314,
+  "endTime": 1763644105574,
   "band_list": [
     {
       "raw_hot": 9551582,
@@ -17,6 +17,14 @@
       "onboard_time": 1763593878,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 3315042,
+      "num": 4130085,
+      "word": "马龙王楚钦黄友政夺冠",
+      "onboard_time": 1763642905,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 2938136,
@@ -60,11 +68,19 @@
     },
     {
       "raw_hot": 1705070,
-      "num": 318832,
+      "num": 327109,
       "word": "胡彦斌 法庭上带着你的破视频",
       "onboard_time": 1763640563,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1653695,
+      "num": 964149,
+      "word": "樊振东许昕周恺亚军",
+      "onboard_time": 1763643024,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 1386580,
@@ -92,18 +108,10 @@
     },
     {
       "raw_hot": 1311672,
-      "num": 314014,
+      "num": 319907,
       "word": "王楚钦头撞球桌",
       "onboard_time": 1763641163,
       "rank": 22,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 1234178,
-      "num": 1234178,
-      "word": "马龙王楚钦黄友政夺冠",
-      "onboard_time": 1763642905,
-      "rank": 1,
       "category": "体育"
     },
     {
@@ -153,14 +161,6 @@
       "onboard_time": 1763621303,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 929570,
-      "num": 929570,
-      "word": "樊振东许昕周恺亚军",
-      "onboard_time": 1763643024,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 892361,
@@ -283,6 +283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 648455,
+      "num": 308840,
+      "word": "韩安娜怀宝宝了",
+      "onboard_time": 1763642602,
+      "rank": 31,
+      "category": "网红"
+    },
+    {
       "raw_hot": 642137,
       "num": 216103,
       "word": "母亲赶到时女儿已盖白布手脚在外",
@@ -313,6 +321,14 @@
       "onboard_time": 1763637442,
       "rank": 8,
       "category": "演出"
+    },
+    {
+      "raw_hot": 622510,
+      "num": 622510,
+      "word": "苏炳添谢幕战接力第四",
+      "onboard_time": 1763642787,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 618302,
@@ -395,12 +411,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 466998,
-      "num": 466998,
-      "word": "苏炳添谢幕战接力第四",
-      "onboard_time": 1763642787,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 510435,
+      "num": 288825,
+      "word": "时代峰峻 签售",
+      "onboard_time": 1763643203,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 454394,
@@ -492,7 +508,7 @@
     },
     {
       "raw_hot": 393572,
-      "num": 683889,
+      "num": 684863,
       "word": "安倍晋三遇袭身亡案今日继续庭审",
       "onboard_time": 1763627482,
       "rank": 19,
@@ -555,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 354786,
+      "num": 354786,
+      "word": "马龙还是马龙",
+      "onboard_time": 1763641823,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 349713,
       "num": 194898,
       "word": "易梦玲 音乐才子",
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 334862,
-      "num": 876643,
+      "num": 981307,
       "word": "山姆盒马的酸奶是同一家工厂生产",
       "onboard_time": 1763637502,
       "rank": 18,
@@ -625,14 +649,6 @@
       "onboard_time": 1763561725,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 322899,
-      "num": 322899,
-      "word": "马龙还是马龙",
-      "onboard_time": 1763641823,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 321194,
@@ -675,6 +691,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 304948,
+      "num": 510064,
+      "word": "朱志鑫见面会",
+      "onboard_time": 1763643324,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300936,
       "num": 300936,
       "word": "马龙vs周恺",
@@ -699,6 +723,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 295687,
+      "num": 499842,
+      "word": "张凌赫张婧仪 王子和公主",
+      "onboard_time": 1763638884,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294898,
       "num": 268027,
       "word": "梁淞妈妈 何美延年纪轻轻嫁个老男人",
@@ -721,14 +753,6 @@
       "onboard_time": 1763603841,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 289576,
-      "num": 289576,
-      "word": "张凌赫张婧仪 王子和公主",
-      "onboard_time": 1763638884,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 280394,
@@ -787,20 +811,20 @@
       "category": "财经,海外新闻"
     },
     {
-      "raw_hot": 265732,
-      "num": 265732,
-      "word": "韩安娜怀宝宝了",
-      "onboard_time": 1763642602,
-      "rank": 31,
-      "category": "网红"
-    },
-    {
       "raw_hot": 264417,
       "num": 437209,
       "word": "新闻女王2方太太患癌",
       "onboard_time": 1763619442,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 264131,
+      "num": 264131,
+      "word": "马龙许昕拥抱",
+      "onboard_time": 1763643443,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 263168,
@@ -1035,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 202986,
+      "num": 202986,
+      "word": "乒乓球男团北京夺冠",
+      "onboard_time": 1763643623,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202947,
       "num": 202947,
       "word": "陈梦王晓彤范思琦冠军",
@@ -1171,6 +1203,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 189595,
+      "num": 189595,
+      "word": "樊振东强得可怕",
+      "onboard_time": 1763643684,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188583,
       "num": 267160,
       "word": "疯狂动物城2想看新增数大幅下降",
@@ -1267,6 +1307,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 176953,
+      "num": 176953,
+      "word": "马龙全运会大满贯",
+      "onboard_time": 1763643923,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176762,
       "num": 190032,
       "word": "四喜别看第四集",
@@ -1313,6 +1361,14 @@
       "onboard_time": 1763638102,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 171760,
+      "num": 171760,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 170370,
@@ -1531,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 151951,
+      "num": 151951,
+      "word": "马龙圆满了",
+      "onboard_time": 1763644043,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151645,
       "num": 151645,
       "word": "猫 冷不丁梆梆就两拳",
@@ -1561,6 +1625,14 @@
       "onboard_time": 1763598144,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 150265,
+      "num": 150265,
+      "word": "精彩全运会",
+      "onboard_time": 1763643863,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 150078,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1763639483,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144153,
+      "num": 144153,
+      "word": "你参加微博研究生考试了吗",
+      "onboard_time": 1763643863,
+      "rank": 45,
+      "category": "教育,互联网"
     },
     {
       "raw_hot": 143141,
@@ -1737,14 +1817,6 @@
       "onboard_time": 1763616441,
       "rank": 48,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 135978,
-      "num": 135978,
-      "word": "日本反对日本",
-      "onboard_time": 1763642905,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 135899,
@@ -1940,7 +2012,7 @@
     },
     {
       "raw_hot": 124879,
-      "num": 188059,
+      "num": 199038,
       "word": "狂野时代预售票房破9000万",
       "onboard_time": 1763635460,
       "rank": 35,
@@ -2140,7 +2212,7 @@
     },
     {
       "raw_hot": 114676,
-      "num": 311520,
+      "num": 337867,
       "word": "小鹏X9下一代增程太强了",
       "onboard_time": 1763640623,
       "rank": 23,
@@ -2409,6 +2481,14 @@
       "onboard_time": 1763628142,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101018,
+      "num": 320556,
+      "word": "日本水产从业者集体破防",
+      "onboard_time": 1763642303,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 100294,
@@ -2843,14 +2923,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 72517,
-      "num": 320556,
-      "word": "日本水产从业者集体破防",
-      "onboard_time": 1763642303,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 72050,
       "num": 186927,
       "word": "何炅命中躲不开的劫是那英",
@@ -3107,6 +3179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50866,
+      "num": 344403,
+      "word": "三体公司CEO毒杀游族董事长林奇案始末",
+      "onboard_time": 1763643503,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49404,
       "num": 189396,
       "word": "小鹏X9超级增程续航突破1600公里",
@@ -3299,6 +3379,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 32822,
+      "num": 349418,
+      "word": "三体公司原CEO投毒案",
+      "onboard_time": 1763643503,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32561,
       "num": 132270,
       "word": "迪丽热巴聂九罗单手开车",
@@ -3388,7 +3476,7 @@
     },
     {
       "raw_hot": 27436,
-      "num": 1146943,
+      "num": 1899035,
       "word": "00后10后闪耀十五运会",
       "onboard_time": 1763630901,
       "rank": 2,
