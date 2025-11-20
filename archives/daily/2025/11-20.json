@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763608599043,
+  "endTime": 1763609595712,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -36,14 +36,14 @@
     },
     {
       "raw_hot": 1076829,
-      "num": 147280,
+      "num": 149185,
       "word": "马思唯评论区乱成一锅",
       "onboard_time": 1763602881,
       "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 726100,
+      "raw_hot": 764026,
       "num": 176319,
       "word": "柬埔寨劫囚女子因高颜值引关注",
       "onboard_time": 1763607262,
@@ -67,20 +67,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 625427,
+      "num": 149136,
+      "word": "内娱顶级美人嗔怒",
+      "onboard_time": 1763607741,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 553379,
+      "num": 209786,
+      "word": "建议不要在网上买太便宜的水果",
+      "onboard_time": 1763596461,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 516444,
       "num": 907700,
       "word": "日本多次不宣而战",
       "onboard_time": 1763559983,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 488016,
-      "num": 209786,
-      "word": "建议不要在网上买太便宜的水果",
-      "onboard_time": 1763596461,
-      "rank": 10,
-      "category": "情感"
     },
     {
       "raw_hot": 444116,
@@ -99,6 +107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 371985,
+      "num": 172944,
+      "word": "男子在离婚冷静期毒杀儿子和女儿",
+      "onboard_time": 1763606842,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 358115,
       "num": 208101,
       "word": "吴艳妮看了眼银牌哭了",
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 349713,
-      "num": 146762,
+      "num": 149125,
       "word": "易梦玲 音乐才子",
       "onboard_time": 1763605102,
       "rank": 22,
@@ -121,6 +137,14 @@
       "onboard_time": 1763602163,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346091,
+      "num": 346091,
+      "word": "小米第50万辆整车正式下产线",
+      "onboard_time": 1763607802,
+      "rank": 6,
+      "category": "汽车"
     },
     {
       "raw_hot": 339937,
@@ -139,20 +163,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 317677,
-      "num": 146120,
-      "word": "内娱顶级美人嗔怒",
-      "onboard_time": 1763607741,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 291489,
       "num": 207675,
       "word": "俞敏洪说鼓励员工吐槽",
       "onboard_time": 1763603841,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 289692,
+      "num": 166569,
+      "word": "董璇和佟丽娅商量孩子去哪上学",
+      "onboard_time": 1763608041,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 280394,
@@ -195,8 +219,16 @@
       "category": "电影"
     },
     {
-      "raw_hot": 253346,
-      "num": 253346,
+      "raw_hot": 267894,
+      "num": 173151,
+      "word": "日本挑衅的代价不止股市三杀",
+      "onboard_time": 1763607202,
+      "rank": 14,
+      "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 261519,
+      "num": 261519,
       "word": "日本牛肉恢复对华出口磋商也停了",
       "onboard_time": 1763601144,
       "rank": 14,
@@ -211,16 +243,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 241682,
-      "num": 173151,
-      "word": "日本挑衅的代价不止股市三杀",
-      "onboard_time": 1763607202,
-      "rank": 14,
-      "category": "财经,海外新闻"
-    },
-    {
       "raw_hot": 240078,
-      "num": 144566,
+      "num": 148862,
       "word": "建议把早睡放在第一位",
       "onboard_time": 1763597243,
       "rank": 23,
@@ -251,20 +275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 213512,
-      "num": 172944,
-      "word": "男子在离婚冷静期毒杀儿子和女儿",
-      "onboard_time": 1763606842,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 204236,
-      "num": 204236,
-      "word": "小米第50万辆整车正式下产线",
-      "onboard_time": 1763607802,
-      "rank": 6,
-      "category": "汽车"
+      "raw_hot": 219535,
+      "num": 219535,
+      "word": "四喜死去的公公疯了的婆婆上门的小三",
+      "onboard_time": 1763596883,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 202947,
@@ -299,6 +315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 197728,
+      "num": 149091,
+      "word": "时代少年团答题",
+      "onboard_time": 1763608581,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196957,
       "num": 129242,
       "word": "日本东京一旅行社发声",
@@ -323,11 +347,11 @@
       "category": "民生新闻,网红"
     },
     {
-      "raw_hot": 178390,
-      "num": 178390,
-      "word": "四喜死去的公公疯了的婆婆上门的小三",
-      "onboard_time": 1763596883,
-      "rank": 17,
+      "raw_hot": 168270,
+      "num": 168270,
+      "word": "卢凌风到底偷偷报了几个班啊",
+      "onboard_time": 1763608882,
+      "rank": 13,
       "category": "剧集"
     },
     {
@@ -363,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 162584,
+      "num": 149041,
+      "word": "母亲带遇害女儿彩色遗像出庭",
+      "onboard_time": 1763605702,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 162102,
       "num": 181399,
       "word": "罗志祥立遗嘱",
@@ -395,16 +427,8 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 150917,
-      "num": 123253,
-      "word": "母亲带遇害女儿彩色遗像出庭",
-      "onboard_time": 1763605702,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 150316,
-      "num": 131040,
+      "num": 135372,
       "word": "日本首次出口爱国者导弹",
       "onboard_time": 1763598144,
       "rank": 26,
@@ -419,8 +443,24 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149272,
+      "num": 149272,
+      "word": "迪丽热巴播剧粉丝精神状态",
+      "onboard_time": 1763607681,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147429,
+      "num": 147429,
+      "word": "全剧尺度最大的戏是鹤男和张耀给的",
+      "onboard_time": 1763607081,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 144026,
-      "num": 144026,
+      "num": 148976,
       "word": "疯狂动物城2演员配音是抢活吗",
       "onboard_time": 1763605581,
       "rank": 27,
@@ -444,7 +484,7 @@
     },
     {
       "raw_hot": 134663,
-      "num": 134663,
+      "num": 149026,
       "word": "内娱01年居然就有巡回演唱会了",
       "onboard_time": 1763607622,
       "rank": 28,
@@ -491,14 +531,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 125397,
-      "num": 122667,
-      "word": "董璇和佟丽娅商量孩子去哪上学",
-      "onboard_time": 1763608041,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124283,
       "num": 124283,
       "word": "林高远袁烜松3比1徐瑛彬曹巍",
@@ -513,6 +545,14 @@
       "onboard_time": 1763601264,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123789,
+      "num": 123789,
+      "word": "日本多次兵棋推演台湾有事",
+      "onboard_time": 1763608461,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 122633,
@@ -531,8 +571,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119709,
+      "num": 119709,
+      "word": "狗狗嘴巴被人用扎带捆了一个月",
+      "onboard_time": 1763609361,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118619,
-      "num": 149007,
+      "num": 149272,
       "word": "短剧演员不用背台词的原因找到了",
       "onboard_time": 1763593878,
       "rank": 29,
@@ -571,6 +619,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108802,
+      "num": 108802,
+      "word": "Doran获2025电竞最佳高光时刻奖",
+      "onboard_time": 1763608161,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106560,
       "num": 106560,
       "word": "玄彬青龙影帝孙艺珍青龙影后",
@@ -579,12 +635,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 104741,
+      "num": 104741,
+      "word": "油炸面和非油炸面区别这么大",
+      "onboard_time": 1763609421,
+      "rank": 43,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 104296,
       "num": 104296,
       "word": "陈梦朱雨玲互戴奖牌",
       "onboard_time": 1763600245,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103663,
+      "num": 148965,
+      "word": "中国游客被多国争抢",
+      "onboard_time": 1763607442,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103189,
@@ -611,11 +683,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101936,
-      "num": 145583,
-      "word": "迪丽热巴播剧粉丝精神状态",
-      "onboard_time": 1763607681,
-      "rank": 24,
+      "raw_hot": 100294,
+      "num": 148930,
+      "word": "妻子的白月光竟然是我小号",
+      "onboard_time": 1763608282,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -627,20 +699,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 100075,
-      "num": 100075,
-      "word": "Doran获2025电竞最佳高光时刻奖",
-      "onboard_time": 1763608161,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 99195,
-      "num": 99195,
-      "word": "全剧尺度最大的戏是鹤男和张耀给的",
-      "onboard_time": 1763607081,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 99264,
+      "num": 99264,
+      "word": "中国军号发高市早苗玩火漫画",
+      "onboard_time": 1763606542,
+      "rank": 46,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98757,
@@ -651,14 +715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98180,
-      "num": 98180,
-      "word": "时代少年团答题",
-      "onboard_time": 1763608581,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 98136,
       "num": 98136,
       "word": "俞敏洪辟谣坐邮轮花148万",
@@ -667,36 +723,12 @@
       "category": "民生新闻,互联网"
     },
     {
-      "raw_hot": 96714,
-      "num": 96714,
-      "word": "日本多次兵棋推演台湾有事",
-      "onboard_time": 1763608461,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 96485,
       "num": 96485,
       "word": "周启豪vs魏世皓",
       "onboard_time": 1763608102,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 95744,
-      "num": 105648,
-      "word": "妻子的白月光竟然是我小号",
-      "onboard_time": 1763608282,
-      "rank": 36,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 93145,
-      "num": 93145,
-      "word": "中国军号发高市早苗玩火漫画",
-      "onboard_time": 1763606542,
-      "rank": 46,
-      "category": "国内时政"
     },
     {
       "raw_hot": 92822,
@@ -747,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87405,
-      "num": 87405,
-      "word": "中国游客被多国争抢",
-      "onboard_time": 1763607442,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 86975,
       "num": 181045,
       "word": "洗澡前和洗澡后完全是两个人",
@@ -769,6 +793,14 @@
       "onboard_time": 1763606542,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84892,
+      "num": 84892,
+      "word": "每天坚持早睡一个小时的变化",
+      "onboard_time": 1763605882,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 84877,
@@ -809,6 +841,14 @@
       "onboard_time": 1763604802,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 80498,
+      "num": 80498,
+      "word": "奔跑吧天路篇群像海报",
+      "onboard_time": 1763609541,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 79828,
@@ -857,6 +897,14 @@
       "onboard_time": 1763559683,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 72902,
+      "num": 142975,
+      "word": "全员短剧开播梦回大侦探",
+      "onboard_time": 1763608882,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 72557,
@@ -1083,12 +1131,28 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 29948,
+      "num": 120472,
+      "word": "有大学买存量房爆改学生宿舍",
+      "onboard_time": 1763608762,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29466,
       "num": 57651,
       "word": "陈梦或最后一次参加全运会",
       "onboard_time": 1763572217,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27440,
+      "num": 119801,
+      "word": "生在世界上最高的家庭是啥体验",
+      "onboard_time": 1763609242,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27264,
@@ -1182,6 +1246,9 @@
   "hotgov_list": [
     {
       "word": "#中国特色社会主义法治道路越走越宽广#"
+    },
+    {
+      "word": "#总书记关心的世界文化遗产#"
     }
   ]
 }

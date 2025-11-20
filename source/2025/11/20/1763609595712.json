@@ -1,0 +1,410 @@
+{
+  "runTime": 1763609595712,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 992214,
+        "num": 1158754,
+        "word": "日本马上要没有大熊猫了",
+        "onboard_time": 1763599764,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346091,
+        "num": 346091,
+        "word": "小米第50万辆整车正式下产线",
+        "onboard_time": 1763607802,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 68714,
+        "num": 325901,
+        "word": "网警提醒广大考生谨防公考陷阱",
+        "onboard_time": 1763601563,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 324439,
+        "num": 324439,
+        "word": "日本多次不宣而战",
+        "onboard_time": 1763559983,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284281,
+        "num": 284281,
+        "word": "高市早苗曾向身边人坦言说过头了",
+        "onboard_time": 1763597544,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 261519,
+        "num": 261519,
+        "word": "日本牛肉恢复对华出口磋商也停了",
+        "onboard_time": 1763601144,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 247117,
+        "num": 247117,
+        "word": "中方对日反制层层加码",
+        "onboard_time": 1763602282,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 219535,
+        "num": 219535,
+        "word": "四喜死去的公公疯了的婆婆上门的小三",
+        "onboard_time": 1763596883,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183029,
+        "num": 183029,
+        "word": "如果战斗就在今夜打响",
+        "onboard_time": 1763595620,
+        "rank": 8,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 173270,
+        "num": 173270,
+        "word": "羽绒服出厂价已逼近千元",
+        "onboard_time": 1763568920,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 764026,
+        "num": 171270,
+        "word": "柬埔寨劫囚女子因高颜值引关注",
+        "onboard_time": 1763607262,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 553379,
+        "num": 171146,
+        "word": "建议不要在网上买太便宜的水果",
+        "onboard_time": 1763596461,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 371985,
+        "num": 170426,
+        "word": "男子在离婚冷静期毒杀儿子和女儿",
+        "onboard_time": 1763606842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168270,
+        "num": 168270,
+        "word": "卢凌风到底偷偷报了几个班啊",
+        "onboard_time": 1763608882,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 289692,
+        "num": 166569,
+        "word": "董璇和佟丽娅商量孩子去哪上学",
+        "onboard_time": 1763608041,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 267894,
+        "num": 161287,
+        "word": "日本挑衅的代价不止股市三杀",
+        "onboard_time": 1763607202,
+        "rank": 15,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 243369,
+        "num": 158358,
+        "word": "吴艳妮回应女子100米栏摘银",
+        "onboard_time": 1763602163,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171746,
+        "num": 149520,
+        "word": "霍震霆主动求加入孙子旅行",
+        "onboard_time": 1763604022,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149272,
+        "num": 149272,
+        "word": "迪丽热巴播剧粉丝精神状态",
+        "onboard_time": 1763607681,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102214,
+        "num": 149272,
+        "word": "短剧演员不用背台词的原因找到了",
+        "onboard_time": 1763593878,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2723601,
+        "num": 149238,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 982197,
+        "num": 149185,
+        "word": "马思唯评论区乱成一锅",
+        "onboard_time": 1763602881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 625427,
+        "num": 149136,
+        "word": "内娱顶级美人嗔怒",
+        "onboard_time": 1763607741,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302665,
+        "num": 149125,
+        "word": "易梦玲 音乐才子",
+        "onboard_time": 1763605102,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197728,
+        "num": 149091,
+        "word": "时代少年团答题",
+        "onboard_time": 1763608581,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162584,
+        "num": 149041,
+        "word": "母亲带遇害女儿彩色遗像出庭",
+        "onboard_time": 1763605702,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113110,
+        "num": 149026,
+        "word": "内娱01年居然就有巡回演唱会了",
+        "onboard_time": 1763607622,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107568,
+        "num": 148976,
+        "word": "疯狂动物城2演员配音是抢活吗",
+        "onboard_time": 1763605581,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103663,
+        "num": 148965,
+        "word": "中国游客被多国争抢",
+        "onboard_time": 1763607442,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100294,
+        "num": 148930,
+        "word": "妻子的白月光竟然是我小号",
+        "onboard_time": 1763608282,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225384,
+        "num": 148890,
+        "word": "俞敏洪说鼓励员工吐槽",
+        "onboard_time": 1763603841,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 148862,
+        "num": 148862,
+        "word": "建议把早睡放在第一位",
+        "onboard_time": 1763597243,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147429,
+        "num": 147429,
+        "word": "全剧尺度最大的戏是鹤男和张耀给的",
+        "onboard_time": 1763607081,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72902,
+        "num": 142975,
+        "word": "全员短剧开播梦回大侦探",
+        "onboard_time": 1763608882,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139074,
+        "num": 139074,
+        "word": "我故意找茬都想不出来这种话",
+        "onboard_time": 1763600606,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135372,
+        "num": 135372,
+        "word": "日本首次出口爱国者导弹",
+        "onboard_time": 1763598144,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123789,
+        "num": 123789,
+        "word": "日本多次兵棋推演台湾有事",
+        "onboard_time": 1763608461,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29948,
+        "num": 120472,
+        "word": "有大学买存量房爆改学生宿舍",
+        "onboard_time": 1763608762,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27440,
+        "num": 119801,
+        "word": "生在世界上最高的家庭是啥体验",
+        "onboard_time": 1763609242,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119709,
+        "num": 119709,
+        "word": "狗狗嘴巴被人用扎带捆了一个月",
+        "onboard_time": 1763609361,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116837,
+        "num": 116837,
+        "word": "日本东京一旅行社发声",
+        "onboard_time": 1763601024,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113554,
+        "num": 113554,
+        "word": "俞敏洪称南极游费用为20至25万",
+        "onboard_time": 1763608402,
+        "rank": 41,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 108802,
+        "num": 108802,
+        "word": "Doran获2025电竞最佳高光时刻奖",
+        "onboard_time": 1763608161,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104741,
+        "num": 104741,
+        "word": "油炸面和非油炸面区别这么大",
+        "onboard_time": 1763609421,
+        "rank": 43,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 99264,
+        "num": 99264,
+        "word": "中国军号发高市早苗玩火漫画",
+        "onboard_time": 1763606542,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93612,
+        "num": 93612,
+        "word": "吴艳妮看了眼银牌哭了",
+        "onboard_time": 1763565622,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88608,
+        "num": 88608,
+        "word": "林高远袁烜松3比1徐瑛彬曹巍",
+        "onboard_time": 1763607741,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85768,
+        "num": 85768,
+        "word": "陈梦哭了",
+        "onboard_time": 1763559924,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84892,
+        "num": 84892,
+        "word": "每天坚持早睡一个小时的变化",
+        "onboard_time": 1763605882,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80498,
+        "num": 80498,
+        "word": "奔跑吧天路篇群像海报",
+        "onboard_time": 1763609541,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
