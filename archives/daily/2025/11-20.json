@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763635578361,
+  "endTime": 1763637882720,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -11,12 +11,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 2938136,
+      "num": 195371,
+      "word": "罗晋父亲离世",
+      "onboard_time": 1763635763,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2739252,
       "num": 2739252,
       "word": "日方竟要求中方解释",
       "onboard_time": 1763609902,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2579777,
+      "num": 2579777,
+      "word": "王楚钦vs樊振东",
+      "onboard_time": 1763635883,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 2403933,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 892361,
-      "num": 171223,
+      "num": 184255,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763633541,
       "rank": 20,
@@ -104,6 +120,14 @@
       "word": "胡彦斌每一任都是美女",
       "onboard_time": 1763626162,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 873631,
+      "num": 185717,
+      "word": "这居然是江疏影",
+      "onboard_time": 1763633422,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -123,12 +147,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 844276,
-      "num": 175649,
-      "word": "这居然是江疏影",
-      "onboard_time": 1763633422,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 825185,
+      "num": 1095944,
+      "word": "王楚钦樊振东一单对决",
+      "onboard_time": 1763632342,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 813009,
@@ -235,14 +259,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 599653,
-      "num": 1095944,
-      "word": "王楚钦樊振东一单对决",
-      "onboard_time": 1763632342,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 576021,
       "num": 576021,
       "word": "何同学坦言今年公司亏损",
@@ -347,6 +363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 418017,
+      "num": 375595,
+      "word": "藏海传 小红豆",
+      "onboard_time": 1763633242,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 407803,
       "num": 422479,
       "word": "日本最大核电站将重启运行",
@@ -401,14 +425,6 @@
       "onboard_time": 1763629041,
       "rank": 5,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 375595,
-      "num": 375595,
-      "word": "藏海传 小红豆",
-      "onboard_time": 1763633242,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 374980,
@@ -571,6 +587,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 271537,
+      "num": 200933,
+      "word": "越南劫囚女子遭两记者骚扰摸脸",
+      "onboard_time": 1763633843,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 269708,
       "num": 440732,
       "word": "雷军承诺做好三件事",
@@ -619,6 +643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 262501,
+      "num": 182388,
+      "word": "金宇彬回应申敏儿陪其挺过抗癌治疗",
+      "onboard_time": 1763633182,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 261519,
       "num": 261519,
       "word": "日本牛肉恢复对华出口磋商也停了",
@@ -657,6 +689,14 @@
       "onboard_time": 1763610381,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 242605,
+      "num": 242605,
+      "word": "马龙黄友政3比1许昕周恺",
+      "onboard_time": 1763636484,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 242014,
@@ -707,14 +747,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 232632,
-      "num": 166288,
-      "word": "金宇彬回应申敏儿陪其挺过抗癌治疗",
-      "onboard_time": 1763633182,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 231588,
       "num": 184230,
       "word": "陈梦哭了",
@@ -737,6 +769,14 @@
       "onboard_time": 1763626222,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223524,
+      "num": 223524,
+      "word": "汪苏泷广州跨年演唱会",
+      "onboard_time": 1763637442,
+      "rank": 8,
+      "category": "演出"
     },
     {
       "raw_hot": 223300,
@@ -825,14 +865,6 @@
       "onboard_time": 1763633422,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 200933,
-      "num": 200933,
-      "word": "越南劫囚女子遭两记者骚扰摸脸",
-      "onboard_time": 1763633843,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 200890,
@@ -1019,6 +1051,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 177350,
+      "num": 177350,
+      "word": "全运会",
+      "onboard_time": 1763637682,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176679,
       "num": 220242,
       "word": "日本冲绳再曝驻日美军性暴力事件",
@@ -1041,6 +1081,22 @@
       "onboard_time": 1763632642,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 173777,
+      "num": 183327,
+      "word": "北京男团1比0上海男团",
+      "onboard_time": 1763637322,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 172463,
+      "num": 178949,
+      "word": "陈雨菲亚军",
+      "onboard_time": 1763635521,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 170370,
@@ -1331,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143141,
+      "num": 177385,
+      "word": "产妇术后体内滞留纱布50天",
+      "onboard_time": 1763635221,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143027,
       "num": 179010,
       "word": "美国这次没敢公开偏袒日本",
@@ -1353,6 +1417,14 @@
       "onboard_time": 1763559805,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 141304,
+      "num": 141304,
+      "word": "张艺兴 装不了一点",
+      "onboard_time": 1763637802,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 140397,
@@ -1393,6 +1465,14 @@
       "onboard_time": 1763616441,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 135899,
+      "num": 135899,
+      "word": "陈梦晒全运会奖牌证书",
+      "onboard_time": 1763636842,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 135705,
@@ -1483,14 +1563,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 129611,
-      "num": 129611,
-      "word": "陈雨菲亚军",
-      "onboard_time": 1763635521,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129114,
       "num": 129114,
       "word": "文在寅成韩国首位当博主前总统",
@@ -1505,6 +1577,22 @@
       "onboard_time": 1763627183,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127564,
+      "num": 127564,
+      "word": "关晓彤14岁的身材比例",
+      "onboard_time": 1763635822,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 126939,
+      "num": 190032,
+      "word": "四喜别看第四集",
+      "onboard_time": 1763637384,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 126901,
@@ -1569,6 +1657,22 @@
       "onboard_time": 1763622923,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 124879,
+      "num": 188059,
+      "word": "狂野时代预售票房破9000万",
+      "onboard_time": 1763635460,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 124657,
+      "num": 124657,
+      "word": "男团赛前马龙许昕罕见同台练球",
+      "onboard_time": 1763636963,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 124294,
@@ -1651,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 121263,
+      "num": 121263,
+      "word": "桃黑黑 大家不要冲动消费",
+      "onboard_time": 1763637742,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 120969,
       "num": 120969,
       "word": "员工偷150支钢笔被判7年",
@@ -1673,6 +1785,14 @@
       "onboard_time": 1763593878,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118500,
+      "num": 118500,
+      "word": "郑思维说雅琼马上有大事要办",
+      "onboard_time": 1763636602,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 117988,
@@ -1747,12 +1867,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113909,
-      "num": 135782,
-      "word": "狂野时代预售票房破9000万",
-      "onboard_time": 1763635460,
-      "rank": 35,
-      "category": "电影"
+      "raw_hot": 113816,
+      "num": 924781,
+      "word": "一根不塞牙的甜玉米有多好吃",
+      "onboard_time": 1763636422,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113052,
@@ -1761,6 +1881,14 @@
       "onboard_time": 1763610862,
       "rank": 48,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 111650,
+      "num": 111650,
+      "word": "易烊千玺寸头限时返场",
+      "onboard_time": 1763636723,
+      "rank": 48,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 109802,
@@ -1777,6 +1905,14 @@
       "onboard_time": 1763608161,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 107823,
+      "num": 107823,
+      "word": "马龙黄友政赢首盘",
+      "onboard_time": 1763636723,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 107595,
@@ -1844,7 +1980,7 @@
     },
     {
       "raw_hot": 105137,
-      "num": 167837,
+      "num": 181878,
       "word": "陈芋汐说要动就动真格",
       "onboard_time": 1763633481,
       "rank": 27,
@@ -2339,6 +2475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78180,
+      "num": 141540,
+      "word": "谁家男主一出来就天崩开局啊",
+      "onboard_time": 1763636003,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 77844,
       "num": 134217,
       "word": "卜凡当道士也是F班水平",
@@ -2643,6 +2787,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49404,
+      "num": 189396,
+      "word": "小鹏X9超级增程续航突破1600公里",
+      "onboard_time": 1763634864,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 49404,
+      "num": 187067,
+      "word": "山姆盒马的酸奶是同一家工厂生产",
+      "onboard_time": 1763637502,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48866,
       "num": 63207,
       "word": "荷兰暂停针对安世半导体行政令",
@@ -2691,6 +2851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44866,
+      "num": 121952,
+      "word": "29岁失联男子遗体被找到家属跪谢",
+      "onboard_time": 1763636422,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44546,
       "num": 119019,
       "word": "易烊千玺五个角色剧照",
@@ -2721,14 +2889,6 @@
       "onboard_time": 1763627902,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 41828,
-      "num": 178738,
-      "word": "小鹏X9超级增程续航突破1600公里",
-      "onboard_time": 1763634864,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 40728,
@@ -2763,12 +2923,36 @@
       "category": "网红"
     },
     {
+      "raw_hot": 37505,
+      "num": 135905,
+      "word": "女子掏空积蓄给男友索要被威胁撞死",
+      "onboard_time": 1763637022,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36959,
       "num": 158514,
       "word": "张弛象人舞台喜人亲友团全吻上来了",
       "onboard_time": 1763567241,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34722,
+      "num": 180729,
+      "word": "日本右翼还在幻想往日荣光",
+      "onboard_time": 1763636422,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 34639,
+      "num": 588763,
+      "word": "十五运为大湾区带来了什么",
+      "onboard_time": 1763633661,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 34614,
@@ -2923,6 +3107,14 @@
       "category": "民生新闻,科学科普"
     },
     {
+      "raw_hot": 24613,
+      "num": 136268,
+      "word": "迪拜人相亲",
+      "onboard_time": 1763637622,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 23876,
       "num": 389079,
       "word": "视听中国看海南",
@@ -2945,14 +3137,6 @@
       "onboard_time": 1763576594,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 23750,
-      "num": 588763,
-      "word": "十五运为大湾区带来了什么",
-      "onboard_time": 1763633661,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 23008,
@@ -3017,14 +3201,6 @@
       "onboard_time": 1763634801,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 17467,
-      "num": 177385,
-      "word": "产妇术后体内滞留纱布50天",
-      "onboard_time": 1763635221,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17313,

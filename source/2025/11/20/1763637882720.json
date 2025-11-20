@@ -1,0 +1,410 @@
+{
+  "runTime": 1763637882720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2579777,
+        "num": 2579777,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763635883,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113816,
+        "num": 924781,
+        "word": "一根不塞牙的甜玉米有多好吃",
+        "onboard_time": 1763636422,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34639,
+        "num": 362519,
+        "word": "十五运为大湾区带来了什么",
+        "onboard_time": 1763633661,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 242605,
+        "num": 242605,
+        "word": "马龙黄友政3比1许昕周恺",
+        "onboard_time": 1763636484,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 230982,
+        "num": 230982,
+        "word": "iG Elk",
+        "onboard_time": 1763632762,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 825185,
+        "num": 227820,
+        "word": "王楚钦樊振东一单对决",
+        "onboard_time": 1763632342,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 418017,
+        "num": 226768,
+        "word": "藏海传 小红豆",
+        "onboard_time": 1763633242,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235162,
+        "num": 225273,
+        "word": "德国医疗展盒饭致200名中国人中毒",
+        "onboard_time": 1763631683,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223524,
+        "num": 223524,
+        "word": "汪苏泷广州跨年演唱会",
+        "onboard_time": 1763637442,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195392,
+        "num": 195392,
+        "word": "安倍晋三遇袭身亡案今日继续庭审",
+        "onboard_time": 1763627482,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2938136,
+        "num": 195371,
+        "word": "罗晋父亲离世",
+        "onboard_time": 1763635763,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271537,
+        "num": 193774,
+        "word": "越南劫囚女子遭两记者骚扰摸脸",
+        "onboard_time": 1763633843,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227338,
+        "num": 192390,
+        "word": "身份证照片 最接近别人看到的自己",
+        "onboard_time": 1763623823,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 208360,
+        "num": 190598,
+        "word": "中方回应赖清德晒日料午餐",
+        "onboard_time": 1763629340,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 190542,
+        "num": 190542,
+        "word": "黄友政马龙vs许昕周恺",
+        "onboard_time": 1763632762,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126939,
+        "num": 190032,
+        "word": "四喜别看第四集",
+        "onboard_time": 1763637384,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49404,
+        "num": 189396,
+        "word": "小鹏X9超级增程续航突破1600公里",
+        "onboard_time": 1763634864,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 124879,
+        "num": 188059,
+        "word": "狂野时代预售票房破9000万",
+        "onboard_time": 1763635460,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 49404,
+        "num": 187067,
+        "word": "山姆盒马的酸奶是同一家工厂生产",
+        "onboard_time": 1763637502,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123332,
+        "num": 185888,
+        "word": "易烊千玺赵又廷尽管演 观众自有安排",
+        "onboard_time": 1763633422,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 873631,
+        "num": 185717,
+        "word": "这居然是江疏影",
+        "onboard_time": 1763633422,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 653343,
+        "num": 184255,
+        "word": "胡彦斌 易梦玲",
+        "onboard_time": 1763633541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173777,
+        "num": 183327,
+        "word": "北京男团1比0上海男团",
+        "onboard_time": 1763637322,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262501,
+        "num": 182388,
+        "word": "金宇彬回应申敏儿陪其挺过抗癌治疗",
+        "onboard_time": 1763633182,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53164,
+        "num": 181878,
+        "word": "陈芋汐说要动就动真格",
+        "onboard_time": 1763633481,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34722,
+        "num": 180729,
+        "word": "日本右翼还在幻想往日荣光",
+        "onboard_time": 1763636422,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 396050,
+        "num": 179627,
+        "word": "胡彦斌和妈妈看了易梦玲话剧",
+        "onboard_time": 1763614223,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172463,
+        "num": 178949,
+        "word": "陈雨菲亚军",
+        "onboard_time": 1763635521,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 225875,
+        "num": 177979,
+        "word": "肖战工作室评论回复小红豆",
+        "onboard_time": 1763621303,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177350,
+        "num": 177350,
+        "word": "全运会",
+        "onboard_time": 1763637682,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 310525,
+        "num": 168779,
+        "word": "霸王茶姬创始人结婚",
+        "onboard_time": 1763622681,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149646,
+        "num": 149646,
+        "word": "乒乓球男团决赛对阵",
+        "onboard_time": 1763630602,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 148459,
+        "num": 148459,
+        "word": "王者第一个五杀的英雄",
+        "onboard_time": 1763629041,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143141,
+        "num": 143141,
+        "word": "产妇术后体内滞留纱布50天",
+        "onboard_time": 1763635221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78180,
+        "num": 141540,
+        "word": "谁家男主一出来就天崩开局啊",
+        "onboard_time": 1763636003,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83598,
+        "num": 141397,
+        "word": "30万级豪华轿车首选享界S9",
+        "onboard_time": 1763632642,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141304,
+        "num": 141304,
+        "word": "张艺兴 装不了一点",
+        "onboard_time": 1763637802,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136797,
+        "num": 136797,
+        "word": "乒乓球男团决赛北京vs上海",
+        "onboard_time": 1763633722,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24613,
+        "num": 136268,
+        "word": "迪拜人相亲",
+        "onboard_time": 1763637622,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 37505,
+        "num": 135905,
+        "word": "女子掏空积蓄给男友索要被威胁撞死",
+        "onboard_time": 1763637022,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135899,
+        "num": 135899,
+        "word": "陈梦晒全运会奖牌证书",
+        "onboard_time": 1763636842,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127564,
+        "num": 127564,
+        "word": "关晓彤14岁的身材比例",
+        "onboard_time": 1763635822,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124657,
+        "num": 124657,
+        "word": "男团赛前马龙许昕罕见同台练球",
+        "onboard_time": 1763636963,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123198,
+        "num": 123198,
+        "word": "朱朱小桃分手",
+        "onboard_time": 1763620642,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 44866,
+        "num": 121952,
+        "word": "29岁失联男子遗体被找到家属跪谢",
+        "onboard_time": 1763636422,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121263,
+        "num": 121263,
+        "word": "桃黑黑 大家不要冲动消费",
+        "onboard_time": 1763637742,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118500,
+        "num": 118500,
+        "word": "郑思维说雅琼马上有大事要办",
+        "onboard_time": 1763636602,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116128,
+        "num": 116128,
+        "word": "马龙称男团决赛越打越没谱",
+        "onboard_time": 1763634442,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111650,
+        "num": 111650,
+        "word": "易烊千玺寸头限时返场",
+        "onboard_time": 1763636723,
+        "rank": 48,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 107823,
+        "num": 107823,
+        "word": "马龙黄友政赢首盘",
+        "onboard_time": 1763636723,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}

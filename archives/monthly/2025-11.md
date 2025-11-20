@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 18:46:18
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 19:24:42
 </p>
 </blockquote>
 <p>
@@ -155,6 +155,12 @@ T1官宣Gumayusi离队（热度：3390474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E8%AF%BAFMVP%23" target="weibo">
 一诺FMVP（热度：3035361）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E6%99%8B%E7%88%B6%E4%BA%B2%E7%A6%BB%E4%B8%96%23" target="weibo">
+罗晋父亲离世（热度：2938136）
 </a>
 </li>
 
@@ -1755,6 +1761,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E6%B1%9F%E7%96%8F%E5%BD%B1%23" target="weibo">
+这居然是江疏影（热度：873631）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9D%A1%E7%9C%A0%E8%B6%859%E5%B0%8F%E6%97%B6%E4%B9%9F%E5%8F%AF%E8%83%BD%E6%9C%89%E5%AE%B3%23" target="weibo">
 睡眠超9小时也可能有害（热度：873165）
 </a>
@@ -1887,12 +1899,6 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E6%B1%9F%E7%96%8F%E5%BD%B1%23" target="weibo">
-这居然是江疏影（热度：844276）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E6%98%AF%E6%8E%92%E5%8D%B5%E6%9C%9F%E5%95%8A%23" target="weibo">
 原来这就是排卵期啊（热度：842015）
 </a>
@@ -1973,6 +1979,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E9%AA%97%E5%88%B0%E7%BC%85%E5%8C%97%E7%94%B7%E7%94%9F%E5%88%B7%E5%88%B0%E8%87%AA%E5%B7%B1%E6%96%B0%E9%97%BB%23" target="weibo">
 被骗到缅北男生刷到自己新闻（热度：825191）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3%23" target="weibo">
+王楚钦樊振东一单对决（热度：825185）
 </a>
 </li>
 
@@ -3677,12 +3689,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%B8%80%E8%88%9F%E6%8F%90%E9%97%AE%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%BF%99%E6%AE%B5%23" target="weibo">
 罗一舟提问易烊千玺这段（热度：599824）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E6%A8%8A%E6%8C%AF%E4%B8%9C%E4%B8%80%E5%8D%95%E5%AF%B9%E5%86%B3%23" target="weibo">
-王楚钦樊振东一单对决（热度：599653）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%20%E8%80%81%E6%9D%BF%E5%8F%91%E8%A8%80%E6%88%91%E6%8A%A0%E6%89%8B%23" target="weibo">
 王一博 老板发言我抠手（热度：443108）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E5%B0%BF%E6%AF%92%E7%97%87%E5%A4%AB%E5%A6%87%E4%B8%88%E5%A4%AB%E7%A6%BB%E4%B8%96%23" target="weibo">
-网红尿毒症夫妇丈夫离世（热度：442766）
 </a>
 </li>
 
