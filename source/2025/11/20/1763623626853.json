@@ -1,0 +1,410 @@
+{
+  "runTime": 1763623626853,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 501987,
+        "num": 1080317,
+        "word": "印度想对华出口水产品",
+        "onboard_time": 1763613084,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 338196,
+        "num": 338196,
+        "word": "王者荣耀",
+        "onboard_time": 1763621422,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 971,
+        "num": 293347,
+        "word": "e法润京华",
+        "onboard_time": 1763545702,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 264417,
+        "num": 264417,
+        "word": "新闻女王2方太太患癌",
+        "onboard_time": 1763619442,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250660,
+        "num": 250660,
+        "word": "中国对日本的施压正在逐渐上升",
+        "onboard_time": 1763614404,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204358,
+        "num": 249301,
+        "word": "雷军承诺做好三件事",
+        "onboard_time": 1763613084,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 146783,
+        "num": 245514,
+        "word": "聂九罗的岛",
+        "onboard_time": 1763619922,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146509,
+        "num": 243123,
+        "word": "央视曝光加油站作弊花招",
+        "onboard_time": 1763609902,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 136595,
+        "num": 242606,
+        "word": "Tabe JDG",
+        "onboard_time": 1763623341,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135242,
+        "num": 240163,
+        "word": "尖叫之夜 抢票",
+        "onboard_time": 1763617462,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1204701,
+        "num": 236196,
+        "word": "霸王茶姬创始人结婚",
+        "onboard_time": 1763622681,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371773,
+        "num": 233325,
+        "word": "44岁博主确诊胆囊癌仅1个月去世",
+        "onboard_time": 1763617402,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336510,
+        "num": 230281,
+        "word": "董璇觉得自己老来得子",
+        "onboard_time": 1763616441,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 261389,
+        "num": 228952,
+        "word": "日本最大核电站将重启运行",
+        "onboard_time": 1763614824,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227347,
+        "num": 227347,
+        "word": "郑大一附院西院区今起停诊",
+        "onboard_time": 1763620582,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241245,
+        "num": 227242,
+        "word": "渣土车侧翻压死女子肇事车严重超载",
+        "onboard_time": 1763610023,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47638,
+        "num": 226352,
+        "word": "迪拜富豪最新社交硬通货",
+        "onboard_time": 1763622261,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 19805,
+        "num": 226107,
+        "word": "北海舰队来吧敌人",
+        "onboard_time": 1763623219,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30303,
+        "num": 225793,
+        "word": "若介入台海日本将沦为战场",
+        "onboard_time": 1763622621,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52963,
+        "num": 225308,
+        "word": "日本水产失去中国市场后找不到替补",
+        "onboard_time": 1763622923,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1040598,
+        "num": 224363,
+        "word": "肖战工作室评论回复小红豆",
+        "onboard_time": 1763621303,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 856543,
+        "num": 224053,
+        "word": "朱朱小桃分手",
+        "onboard_time": 1763620642,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 774709,
+        "num": 223515,
+        "word": "胡彦斌和妈妈看了易梦玲话剧",
+        "onboard_time": 1763614223,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466813,
+        "num": 223013,
+        "word": "小黄豆整容",
+        "onboard_time": 1763616741,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 440345,
+        "num": 222440,
+        "word": "胡彦斌易梦玲 郝蕾表演训练营",
+        "onboard_time": 1763617702,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422292,
+        "num": 221995,
+        "word": "日本舆论已意识到事态十分严重",
+        "onboard_time": 1763619682,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 304862,
+        "num": 221272,
+        "word": "A股",
+        "onboard_time": 1763622621,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 87626,
+        "num": 220946,
+        "word": "多名女子后厨跳辣舞被指影响卫生",
+        "onboard_time": 1763622022,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 580860,
+        "num": 220585,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110767,
+        "num": 220242,
+        "word": "日本冲绳再曝驻日美军性暴力事件",
+        "onboard_time": 1763616084,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 249103,
+        "num": 219696,
+        "word": "月经有5个表现说明子宫很健康",
+        "onboard_time": 1763611943,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 219240,
+        "num": 219240,
+        "word": "许晴",
+        "onboard_time": 1763611103,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 182869,
+        "num": 182869,
+        "word": "何美延教科书式自证",
+        "onboard_time": 1763618303,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180732,
+        "num": 180732,
+        "word": "流感停课",
+        "onboard_time": 1763615242,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166909,
+        "num": 166909,
+        "word": "强者的拍照从不抱怨环境",
+        "onboard_time": 1763622501,
+        "rank": 34,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 91381,
+        "num": 166872,
+        "word": "中国银行工商银行双双创历史新高",
+        "onboard_time": 1763621003,
+        "rank": 35,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 78146,
+        "num": 165154,
+        "word": "武切维奇绝杀开拓者",
+        "onboard_time": 1763618002,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105859,
+        "num": 163943,
+        "word": "银行取消5年期存款对我们有何影响",
+        "onboard_time": 1763623101,
+        "rank": 37,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 61708,
+        "num": 162418,
+        "word": "75岁老人欲送房子全网求认干女儿",
+        "onboard_time": 1763622621,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59114,
+        "num": 161877,
+        "word": "人类对霍建华的开发程度不足10%",
+        "onboard_time": 1763622742,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160635,
+        "num": 160635,
+        "word": "日本马上要没有大熊猫了",
+        "onboard_time": 1763599764,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150502,
+        "num": 150502,
+        "word": "柬埔寨劫囚女子因高颜值引关注",
+        "onboard_time": 1763607262,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150464,
+        "num": 150464,
+        "word": "睡觉穿袜子vs不穿袜子",
+        "onboard_time": 1763623521,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 130126,
+        "num": 130126,
+        "word": "日本很可能在进行某种舆论准备",
+        "onboard_time": 1763620102,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 573673,
+        "num": 129615,
+        "word": "母亲赶到时女儿已盖白布手脚在外",
+        "onboard_time": 1763614824,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125046,
+        "num": 125046,
+        "word": "五种极寒水果和蔬菜",
+        "onboard_time": 1763622923,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 123337,
+        "num": 123337,
+        "word": "香港街头印度人",
+        "onboard_time": 1763622261,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106675,
+        "num": 106675,
+        "word": "马思唯评论区乱成一锅",
+        "onboard_time": 1763602881,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93970,
+        "num": 104157,
+        "word": "A股缩量177亿调整",
+        "onboard_time": 1763623583,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102947,
+        "num": 102947,
+        "word": "常华森鞋被踩掉",
+        "onboard_time": 1763622322,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
