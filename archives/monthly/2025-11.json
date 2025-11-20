@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763645777239,
+  "endTime": 1763646444659,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -3489,6 +3489,14 @@
       "onboard_time": 1762568358,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 717333,
+      "num": 717333,
+      "word": "王楚钦全运会第2金",
+      "onboard_time": 1763644584,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 715140,
@@ -8083,6 +8091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 444157,
+      "num": 444157,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 443652,
       "num": 272082,
       "word": "月经有5个表现说明子宫很健康",
@@ -8673,14 +8689,6 @@
       "onboard_time": 1762305680,
       "rank": 8,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 422875,
-      "num": 422875,
-      "word": "日本反对日本",
-      "onboard_time": 1763642905,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 422686,
@@ -10067,14 +10075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 378702,
-      "num": 378702,
-      "word": "王楚钦全运会第2金",
-      "onboard_time": 1763644584,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 378586,
       "num": 378586,
       "word": "八仙子团播迟到半小时",
@@ -11161,6 +11161,14 @@
       "onboard_time": 1763517020,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 347970,
+      "num": 270820,
+      "word": "马龙圆满了",
+      "onboard_time": 1763644043,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 347847,
@@ -14795,14 +14803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 270820,
-      "num": 270820,
-      "word": "马龙圆满了",
-      "onboard_time": 1763644043,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 270471,
       "num": 180702,
       "word": "彭小苒换头像 端水大师",
@@ -15072,6 +15072,14 @@
       "word": "张展硕第5金",
       "onboard_time": 1763381301,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266670,
+      "num": 223396,
+      "word": "樊振东马龙寒暄",
+      "onboard_time": 1763645784,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -17659,6 +17667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 223062,
+      "num": 223062,
+      "word": "彭小苒自曝过往感情经历",
+      "onboard_time": 1763645003,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223060,
       "num": 199761,
       "word": "高中时期的Angelababy",
@@ -18316,7 +18332,7 @@
     },
     {
       "raw_hot": 214929,
-      "num": 214929,
+      "num": 223312,
       "word": "小鹏X9超级增程价格真香",
       "onboard_time": 1763644524,
       "rank": 34,
@@ -19451,14 +19467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204676,
-      "num": 204676,
-      "word": "彭小苒自曝过往感情经历",
-      "onboard_time": 1763645003,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204641,
       "num": 204641,
       "word": "RNG",
@@ -19697,6 +19705,14 @@
       "onboard_time": 1763026341,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 203110,
+      "num": 203110,
+      "word": "王楚钦樊振东拥抱",
+      "onboard_time": 1763645603,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 203085,
@@ -20235,14 +20251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199576,
-      "num": 199576,
-      "word": "王楚钦樊振东拥抱",
-      "onboard_time": 1763645603,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199492,
       "num": 199492,
       "word": "Gumayusi说我是世上最好的ADC",
@@ -20393,6 +20401,14 @@
       "onboard_time": 1763612243,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198850,
+      "num": 195508,
+      "word": "彭小苒 翻车一定比翻红快",
+      "onboard_time": 1763646084,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 198760,
@@ -20747,6 +20763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196138,
+      "num": 199896,
+      "word": "陈思羽说永远可以相信樊振东",
+      "onboard_time": 1763645482,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196124,
       "num": 129342,
       "word": "杨紫连续三年说准MLB冠军",
@@ -20761,14 +20785,6 @@
       "onboard_time": 1762762281,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 196104,
-      "num": 199896,
-      "word": "陈思羽说永远可以相信樊振东",
-      "onboard_time": 1763645482,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 195978,
@@ -20841,6 +20857,14 @@
       "onboard_time": 1762218680,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195505,
+      "num": 195505,
+      "word": "隆冬",
+      "onboard_time": 1763645361,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 195486,
@@ -21307,6 +21331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 192892,
+      "num": 192892,
+      "word": "樊振东王楚钦击掌",
+      "onboard_time": 1763645844,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 192860,
       "num": 172040,
       "word": "教师讲日军罪行被中日混血家长举报",
@@ -21611,14 +21643,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191025,
-      "num": 191025,
-      "word": "隆冬",
-      "onboard_time": 1763645361,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190966,
       "num": 173289,
       "word": "彭小苒 我努力做个好妈妈",
@@ -21649,6 +21673,14 @@
       "onboard_time": 1762317141,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 190860,
+      "num": 190860,
+      "word": "苏炳添退役感言",
+      "onboard_time": 1763646023,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 190818,
@@ -22131,6 +22163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188450,
+      "num": 188450,
+      "word": "王楚钦赢下许昕如释重负",
+      "onboard_time": 1763645603,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188404,
       "num": 188404,
       "word": "原来张凌赫也是扁头",
@@ -22401,14 +22441,6 @@
       "onboard_time": 1763515881,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 187217,
-      "num": 187217,
-      "word": "王楚钦赢下许昕如释重负",
-      "onboard_time": 1763645603,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 187201,
@@ -23905,6 +23937,14 @@
       "onboard_time": 1762916600,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177456,
+      "num": 224589,
+      "word": "华为乾崑第一境启境登场",
+      "onboard_time": 1763645962,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 177351,
@@ -43563,6 +43603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107536,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107525,
       "num": 107525,
       "word": "WTT祝贺樊振东夺冠",
@@ -56899,14 +56947,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 80313,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80302,
       "num": 80302,
       "word": "流感真的要提前来了",
@@ -63291,6 +63331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56936,
+      "num": 195579,
+      "word": "大爷花2万多买卡宴没法上路",
+      "onboard_time": 1763646323,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56924,
       "num": 189604,
       "word": "985大学生患游戏障碍险被退学",
@@ -63353,6 +63401,14 @@
       "onboard_time": 1763032281,
       "rank": 14,
       "category": "体育,电竞"
+    },
+    {
+      "raw_hot": 56639,
+      "num": 200308,
+      "word": "800元能买到精神病诊断和死亡证明",
+      "onboard_time": 1763644884,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56614,
@@ -64131,14 +64187,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 52878,
-      "num": 200308,
-      "word": "800元能买到精神病诊断和死亡证明",
-      "onboard_time": 1763644884,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52838,
       "num": 200571,
       "word": "全运会正式开幕",
@@ -64353,6 +64401,14 @@
       "onboard_time": 1763247617,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51616,
+      "num": 225438,
+      "word": "华为乾崑APP正式发布",
+      "onboard_time": 1763645903,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 51515,
@@ -68056,6 +68112,14 @@
       "word": "女子遭男友持刀杀害9岁儿子仍不知情",
       "onboard_time": 1762518560,
       "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34502,
+      "num": 195511,
+      "word": "7000元黄金钻戒仅戴一周断裂",
+      "onboard_time": 1763646323,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -71936,6 +72000,14 @@
       "word": "下半年首场寒潮天气来袭",
       "onboard_time": 1763094680,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15958,
+      "num": 228444,
+      "word": "赴日游锐减俄罗斯捡漏",
+      "onboard_time": 1763645903,
+      "rank": 18,
       "category": "民生新闻"
     },
     {

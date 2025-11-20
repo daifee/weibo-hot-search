@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763645777239,
+  "endTime": 1763646444659,
   "band_list": [
     {
       "raw_hot": 9551582,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 717333,
+      "num": 717333,
+      "word": "王楚钦全运会第2金",
+      "onboard_time": 1763644584,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 698116,
       "num": 1111698,
       "word": "印度想对华出口水产品",
@@ -443,6 +451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 444157,
+      "num": 444157,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 444116,
       "num": 181482,
       "word": "唐嫣 罗晋",
@@ -472,14 +488,6 @@
       "word": "中国对日本的施压正在逐渐上升",
       "onboard_time": 1763614404,
       "rank": 3,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 422875,
-      "num": 422875,
-      "word": "日本反对日本",
-      "onboard_time": 1763642905,
-      "rank": 49,
       "category": "国内时政"
     },
     {
@@ -563,14 +571,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 378702,
-      "num": 378702,
-      "word": "王楚钦全运会第2金",
-      "onboard_time": 1763644584,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 375299,
       "num": 375299,
       "word": "樊振东十五运两胜王楚钦",
@@ -617,6 +617,14 @@
       "onboard_time": 1763605102,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 347970,
+      "num": 270820,
+      "word": "马龙圆满了",
+      "onboard_time": 1763644043,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 347090,
@@ -819,14 +827,6 @@
       "category": "国内时政,军事"
     },
     {
-      "raw_hot": 270820,
-      "num": 270820,
-      "word": "马龙圆满了",
-      "onboard_time": 1763644043,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269708,
       "num": 440732,
       "word": "雷军承诺做好三件事",
@@ -857,6 +857,14 @@
       "onboard_time": 1763607202,
       "rank": 14,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 266670,
+      "num": 223396,
+      "word": "樊振东马龙寒暄",
+      "onboard_time": 1763645784,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 264417,
@@ -1019,6 +1027,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 223062,
+      "num": 223062,
+      "word": "彭小苒自曝过往感情经历",
+      "onboard_time": 1763645003,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 219535,
       "num": 219535,
       "word": "四喜死去的公公疯了的婆婆上门的小三",
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 214929,
-      "num": 214929,
+      "num": 223312,
       "word": "小鹏X9超级增程价格真香",
       "onboard_time": 1763644524,
       "rank": 34,
@@ -1115,14 +1131,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 204676,
-      "num": 204676,
-      "word": "彭小苒自曝过往感情经历",
-      "onboard_time": 1763645003,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204066,
       "num": 232059,
       "word": "陈梦发文总结全运会",
@@ -1136,6 +1144,14 @@
       "word": "马龙用男团金牌告别全运会",
       "onboard_time": 1763645544,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 203110,
+      "num": 203110,
+      "word": "王楚钦樊振东拥抱",
+      "onboard_time": 1763645603,
+      "rank": 42,
       "category": "体育"
     },
     {
@@ -1203,14 +1219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 199576,
-      "num": 199576,
-      "word": "王楚钦樊振东拥抱",
-      "onboard_time": 1763645603,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199441,
       "num": 199441,
       "word": "花海钎城这很有冬天氛围",
@@ -1233,6 +1241,14 @@
       "onboard_time": 1763612243,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198850,
+      "num": 195508,
+      "word": "彭小苒 翻车一定比翻红快",
+      "onboard_time": 1763646084,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 198760,
@@ -1275,11 +1291,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 196104,
+      "raw_hot": 196138,
       "num": 199896,
       "word": "陈思羽说永远可以相信樊振东",
       "onboard_time": 1763645482,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 195505,
+      "num": 195505,
+      "word": "隆冬",
+      "onboard_time": 1763645361,
+      "rank": 44,
       "category": "体育"
     },
     {
@@ -1291,6 +1315,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193048,
+      "num": 270853,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763645424,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 192892,
+      "num": 192892,
+      "word": "樊振东王楚钦击掌",
+      "onboard_time": 1763645844,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191498,
       "num": 191498,
       "word": "张一山没有不红 是红的太早了",
@@ -1299,11 +1339,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 191025,
-      "num": 191025,
-      "word": "隆冬",
-      "onboard_time": 1763645361,
-      "rank": 44,
+      "raw_hot": 190860,
+      "num": 190860,
+      "word": "苏炳添退役感言",
+      "onboard_time": 1763646023,
+      "rank": 43,
       "category": "体育"
     },
     {
@@ -1315,7 +1355,7 @@
       "category": "财经"
     },
     {
-      "raw_hot": 189931,
+      "raw_hot": 190328,
       "num": 403433,
       "word": "四喜",
       "onboard_time": 1763645185,
@@ -1329,6 +1369,14 @@
       "onboard_time": 1763611462,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188450,
+      "num": 188450,
+      "word": "王楚钦赢下许昕如释重负",
+      "onboard_time": 1763645603,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 187787,
@@ -1345,14 +1393,6 @@
       "onboard_time": 1763616023,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187217,
-      "num": 187217,
-      "word": "王楚钦赢下许昕如释重负",
-      "onboard_time": 1763645603,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 186292,
@@ -1425,6 +1465,14 @@
       "onboard_time": 1763615782,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 177456,
+      "num": 224589,
+      "word": "华为乾崑第一境启境登场",
+      "onboard_time": 1763645962,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 176762,
@@ -1681,14 +1729,6 @@
       "onboard_time": 1763617224,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152789,
-      "num": 270853,
-      "word": "卢凌风气死我了",
-      "onboard_time": 1763645424,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 152001,
@@ -2395,6 +2435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 107536,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106560,
       "num": 106560,
       "word": "玄彬青龙影帝孙艺珍青龙影后",
@@ -2955,14 +3003,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80313,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79828,
       "num": 79828,
       "word": "母亲回应炫耀孩子招杀身之祸言论",
@@ -3235,11 +3275,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56936,
+      "num": 195579,
+      "word": "大爷花2万多买卡宴没法上路",
+      "onboard_time": 1763646323,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56924,
       "num": 189604,
       "word": "985大学生患游戏障碍险被退学",
       "onboard_time": 1763612484,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56639,
+      "num": 200308,
+      "word": "800元能买到精神病诊断和死亡证明",
+      "onboard_time": 1763644884,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3299,20 +3355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52878,
-      "num": 200308,
-      "word": "800元能买到精神病诊断和死亡证明",
-      "onboard_time": 1763644884,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51688,
       "num": 180385,
       "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
       "onboard_time": 1763545881,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51616,
+      "num": 225438,
+      "word": "华为乾崑APP正式发布",
+      "onboard_time": 1763645903,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 49404,
@@ -3496,6 +3552,14 @@
       "word": "家门口遇害女子最后一句话我被捅了",
       "onboard_time": 1763610082,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34502,
+      "num": 195511,
+      "word": "7000元黄金钻戒仅戴一周断裂",
+      "onboard_time": 1763646323,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3777,6 +3841,14 @@
       "onboard_time": 1763592137,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 15958,
+      "num": 228444,
+      "word": "赴日游锐减俄罗斯捡漏",
+      "onboard_time": 1763645903,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12118,

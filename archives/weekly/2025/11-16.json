@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763645777239,
+  "endTime": 1763646444659,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -1064,6 +1064,14 @@
       "word": "这一亲把央视解说干沉默了",
       "onboard_time": 1763464522,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 717333,
+      "num": 717333,
+      "word": "王楚钦全运会第2金",
+      "onboard_time": 1763644584,
+      "rank": 16,
       "category": "体育"
     },
     {
@@ -2387,6 +2395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 444157,
+      "num": 444157,
+      "word": "日本反对日本",
+      "onboard_time": 1763642905,
+      "rank": 49,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 443652,
       "num": 272082,
       "word": "月经有5个表现说明子宫很健康",
@@ -2577,14 +2593,6 @@
       "onboard_time": 1763449223,
       "rank": 8,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 422875,
-      "num": 422875,
-      "word": "日本反对日本",
-      "onboard_time": 1763642905,
-      "rank": 49,
-      "category": "国内时政"
     },
     {
       "raw_hot": 421481,
@@ -3011,14 +3019,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378702,
-      "num": 378702,
-      "word": "王楚钦全运会第2金",
-      "onboard_time": 1763644584,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 378571,
       "num": 378571,
       "word": "樊振东vs徐瑛彬",
@@ -3385,6 +3385,14 @@
       "onboard_time": 1763207422,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 347970,
+      "num": 270820,
+      "word": "马龙圆满了",
+      "onboard_time": 1763644043,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 347090,
@@ -4387,14 +4395,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 270820,
-      "num": 270820,
-      "word": "马龙圆满了",
-      "onboard_time": 1763644043,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 269951,
       "num": 205245,
       "word": "彭小苒隐形眼镜滑片了",
@@ -4520,6 +4520,14 @@
       "word": "张展硕第5金",
       "onboard_time": 1763381301,
       "rank": 20,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 266670,
+      "num": 223396,
+      "word": "樊振东马龙寒暄",
+      "onboard_time": 1763645784,
+      "rank": 32,
       "category": "体育"
     },
     {
@@ -5315,6 +5323,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 223062,
+      "num": 223062,
+      "word": "彭小苒自曝过往感情经历",
+      "onboard_time": 1763645003,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223060,
       "num": 199761,
       "word": "高中时期的Angelababy",
@@ -5444,7 +5460,7 @@
     },
     {
       "raw_hot": 214929,
-      "num": 214929,
+      "num": 223312,
       "word": "小鹏X9超级增程价格真香",
       "onboard_time": 1763644524,
       "rank": 34,
@@ -5715,14 +5731,6 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 204676,
-      "num": 204676,
-      "word": "彭小苒自曝过往感情经历",
-      "onboard_time": 1763645003,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204641,
       "num": 204641,
       "word": "RNG",
@@ -5809,6 +5817,14 @@
       "onboard_time": 1763253380,
       "rank": 22,
       "category": "电影"
+    },
+    {
+      "raw_hot": 203110,
+      "num": 203110,
+      "word": "王楚钦樊振东拥抱",
+      "onboard_time": 1763645603,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 202986,
@@ -5979,14 +5995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199576,
-      "num": 199576,
-      "word": "王楚钦樊振东拥抱",
-      "onboard_time": 1763645603,
-      "rank": 42,
-      "category": "体育"
-    },
-    {
       "raw_hot": 199490,
       "num": 199490,
       "word": "四川姑娘做出上万个褶的裙子",
@@ -6049,6 +6057,14 @@
       "onboard_time": 1763612243,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 198850,
+      "num": 195508,
+      "word": "彭小苒 翻车一定比翻红快",
+      "onboard_time": 1763646084,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 198760,
@@ -6179,7 +6195,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 196104,
+      "raw_hot": 196138,
       "num": 199896,
       "word": "陈思羽说永远可以相信樊振东",
       "onboard_time": 1763645482,
@@ -6201,6 +6217,14 @@
       "onboard_time": 1763442800,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 195505,
+      "num": 195505,
+      "word": "隆冬",
+      "onboard_time": 1763645361,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 195406,
@@ -6299,6 +6323,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193048,
+      "num": 270853,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763645424,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 193029,
       "num": 193029,
       "word": "易烊千玺粉丝人均宣发鬼才",
@@ -6329,6 +6361,14 @@
       "onboard_time": 1763526924,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 192892,
+      "num": 192892,
+      "word": "樊振东王楚钦击掌",
+      "onboard_time": 1763645844,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 192601,
@@ -6387,14 +6427,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191025,
-      "num": 191025,
-      "word": "隆冬",
-      "onboard_time": 1763645361,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 190966,
       "num": 173289,
       "word": "彭小苒 我努力做个好妈妈",
@@ -6417,6 +6449,14 @@
       "onboard_time": 1763457142,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190860,
+      "num": 190860,
+      "word": "苏炳添退役感言",
+      "onboard_time": 1763646023,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 190738,
@@ -6475,6 +6515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 190328,
+      "num": 403433,
+      "word": "四喜",
+      "onboard_time": 1763298023,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190186,
       "num": 310480,
       "word": "金锁一款很新的还珠大女主",
@@ -6489,14 +6537,6 @@
       "onboard_time": 1763505136,
       "rank": 45,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 189931,
-      "num": 403433,
-      "word": "四喜",
-      "onboard_time": 1763298023,
-      "rank": 32,
-      "category": "剧集"
     },
     {
       "raw_hot": 189930,
@@ -6611,6 +6651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 188450,
+      "num": 188450,
+      "word": "王楚钦赢下许昕如释重负",
+      "onboard_time": 1763645603,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188404,
       "num": 188404,
       "word": "原来张凌赫也是扁头",
@@ -6697,14 +6745,6 @@
       "onboard_time": 1763515881,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 187217,
-      "num": 187217,
-      "word": "王楚钦赢下许昕如释重负",
-      "onboard_time": 1763645603,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 187201,
@@ -7201,6 +7241,14 @@
       "onboard_time": 1763262861,
       "rank": 9,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 177456,
+      "num": 224589,
+      "word": "华为乾崑第一境启境登场",
+      "onboard_time": 1763645962,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 176854,
@@ -8561,14 +8609,6 @@
       "onboard_time": 1763617224,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 152789,
-      "num": 270853,
-      "word": "卢凌风气死我了",
-      "onboard_time": 1763645424,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 152757,
@@ -12507,6 +12547,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107536,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107525,
       "num": 107525,
       "word": "WTT祝贺樊振东夺冠",
@@ -14563,14 +14611,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 80313,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80041,
       "num": 80041,
       "word": "卢伟冰称明年小米手机可能涨价",
@@ -15547,6 +15587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 56936,
+      "num": 195579,
+      "word": "大爷花2万多买卡宴没法上路",
+      "onboard_time": 1763646323,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56924,
       "num": 189604,
       "word": "985大学生患游戏障碍险被退学",
@@ -15561,6 +15609,14 @@
       "onboard_time": 1763465603,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56639,
+      "num": 200308,
+      "word": "800元能买到精神病诊断和死亡证明",
+      "onboard_time": 1763644884,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 56338,
@@ -15787,14 +15843,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52878,
-      "num": 200308,
-      "word": "800元能买到精神病诊断和死亡证明",
-      "onboard_time": 1763644884,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52322,
       "num": 232331,
       "word": "陈小春找到自己在家里的位置",
@@ -15841,6 +15889,14 @@
       "onboard_time": 1763247617,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51616,
+      "num": 225438,
+      "word": "华为乾崑APP正式发布",
+      "onboard_time": 1763645903,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 51515,
@@ -16792,6 +16848,14 @@
       "word": "家门口遇害女子最后一句话我被捅了",
       "onboard_time": 1763610082,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 34502,
+      "num": 195511,
+      "word": "7000元黄金钻戒仅戴一周断裂",
+      "onboard_time": 1763646323,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -17945,6 +18009,14 @@
       "onboard_time": 1763217328,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 15958,
+      "num": 228444,
+      "word": "赴日游锐减俄罗斯捡漏",
+      "onboard_time": 1763645903,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15628,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 21:36:17
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 21:47:24
 </p>
 </blockquote>
 <p>
@@ -2627,6 +2627,12 @@ AG对战狼队（热度：725111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E7%BB%BC%E8%89%BA%E7%9A%84%E5%B0%BA%E5%BA%A6%E5%B7%B2%E7%BB%8F%E8%BF%99%E4%B9%88%E5%A4%A7%E4%BA%86%E5%90%97%23" target="weibo">
 内娱综艺的尺度已经这么大了吗（热度：718156）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%85%A8%E8%BF%90%E4%BC%9A%E7%AC%AC2%E9%87%91%23" target="weibo">
+王楚钦全运会第2金（热度：717333）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Bin双眼皮（热度：455933）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%A5%E4%BA%B5%E7%94%B7%E8%A2%AD%E8%83%B8%E5%90%8E%E7%A7%B0%E6%B2%A1%E6%84%9F%E8%A7%89%E5%B0%B1%E6%98%AF%E6%B2%A1%E6%91%B8%E5%88%B0%23" target="weibo">
 猥亵男袭胸后称没感觉就是没摸到（热度：448113）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B1%B3%E5%93%88%E6%B8%B8%20%E5%A4%A7%E4%B8%BD%E8%8A%B1%23" target="weibo">
-米哈游 大丽花（热度：447642）
 </a>
 </li>
 

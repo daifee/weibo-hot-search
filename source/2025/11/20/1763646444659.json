@@ -1,0 +1,410 @@
+{
+  "runTime": 1763646444659,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6002786,
+        "num": 6002786,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763635883,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 717333,
+        "num": 717333,
+        "word": "王楚钦全运会第2金",
+        "onboard_time": 1763644584,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21992,
+        "num": 631042,
+        "word": "00后10后闪耀十五运会",
+        "onboard_time": 1763630901,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 580696,
+        "num": 580696,
+        "word": "苏炳添最后一舞",
+        "onboard_time": 1763639483,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 444157,
+        "num": 444157,
+        "word": "日本反对日本",
+        "onboard_time": 1763642905,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2195812,
+        "num": 411097,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 653734,
+        "num": 408760,
+        "word": "樊振东许昕周恺亚军",
+        "onboard_time": 1763643024,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 373506,
+        "num": 373506,
+        "word": "汪苏泷广州跨年演唱会",
+        "onboard_time": 1763637442,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 263212,
+        "num": 263212,
+        "word": "山姆盒马的酸奶是同一家工厂生产",
+        "onboard_time": 1763637502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193048,
+        "num": 259736,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763645424,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1175305,
+        "num": 255221,
+        "word": "罗晋父亲离世",
+        "onboard_time": 1763635763,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 548744,
+        "num": 244507,
+        "word": "马龙许昕拥抱",
+        "onboard_time": 1763643443,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 479087,
+        "num": 237703,
+        "word": "苏炳添谢幕战接力第四",
+        "onboard_time": 1763642787,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236246,
+        "num": 236246,
+        "word": "张凌赫张婧仪 王子和公主",
+        "onboard_time": 1763638884,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190328,
+        "num": 235307,
+        "word": "四喜",
+        "onboard_time": 1763645185,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 403535,
+        "num": 232926,
+        "word": "王楚钦vs许昕",
+        "onboard_time": 1763640743,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 361025,
+        "num": 232098,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1763638763,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168166,
+        "num": 230302,
+        "word": "藏海传 小红豆",
+        "onboard_time": 1763633242,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15958,
+        "num": 228444,
+        "word": "赴日游锐减俄罗斯捡漏",
+        "onboard_time": 1763645903,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51616,
+        "num": 225438,
+        "word": "华为乾崑APP正式发布",
+        "onboard_time": 1763645903,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 224984,
+        "num": 224984,
+        "word": "朱志鑫见面会",
+        "onboard_time": 1763643324,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1201674,
+        "num": 224883,
+        "word": "胡彦斌 法庭上带着你的破视频",
+        "onboard_time": 1763640563,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636758,
+        "num": 224825,
+        "word": "韩安娜怀宝宝了",
+        "onboard_time": 1763642602,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 177456,
+        "num": 224589,
+        "word": "华为乾崑第一境启境登场",
+        "onboard_time": 1763645962,
+        "rank": 23,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 90985,
+        "num": 224457,
+        "word": "小鹏X9下一代增程太强了",
+        "onboard_time": 1763640623,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 535853,
+        "num": 224428,
+        "word": "时代峰峻 签售",
+        "onboard_time": 1763643203,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435803,
+        "num": 224281,
+        "word": "赵雅芝孙女颜值",
+        "onboard_time": 1763638221,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 414523,
+        "num": 224140,
+        "word": "胡彦斌 易梦玲",
+        "onboard_time": 1763633541,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413820,
+        "num": 224018,
+        "word": "王楚钦头撞球桌",
+        "onboard_time": 1763641163,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 347970,
+        "num": 223757,
+        "word": "马龙圆满了",
+        "onboard_time": 1763644043,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 320415,
+        "num": 223692,
+        "word": "马龙全运会大满贯",
+        "onboard_time": 1763643923,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107536,
+        "num": 223492,
+        "word": "烟台压死女老师渣土车司机被定全责",
+        "onboard_time": 1763644703,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266670,
+        "num": 223396,
+        "word": "樊振东马龙寒暄",
+        "onboard_time": 1763645784,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 176330,
+        "num": 223312,
+        "word": "小鹏X9超级增程价格真香",
+        "onboard_time": 1763644524,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 239789,
+        "num": 223065,
+        "word": "这居然是江疏影",
+        "onboard_time": 1763633422,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223062,
+        "num": 223062,
+        "word": "彭小苒自曝过往感情经历",
+        "onboard_time": 1763645003,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203110,
+        "num": 203110,
+        "word": "王楚钦樊振东拥抱",
+        "onboard_time": 1763645603,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 196138,
+        "num": 196138,
+        "word": "陈思羽说永远可以相信樊振东",
+        "onboard_time": 1763645482,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 56936,
+        "num": 195579,
+        "word": "大爷花2万多买卡宴没法上路",
+        "onboard_time": 1763646323,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34502,
+        "num": 195511,
+        "word": "7000元黄金钻戒仅戴一周断裂",
+        "onboard_time": 1763646323,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198850,
+        "num": 195508,
+        "word": "彭小苒 翻车一定比翻红快",
+        "onboard_time": 1763646084,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195505,
+        "num": 195505,
+        "word": "隆冬",
+        "onboard_time": 1763645361,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192892,
+        "num": 192892,
+        "word": "樊振东王楚钦击掌",
+        "onboard_time": 1763645844,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190860,
+        "num": 190860,
+        "word": "苏炳添退役感言",
+        "onboard_time": 1763646023,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195408,
+        "num": 190845,
+        "word": "樊振东强得可怕",
+        "onboard_time": 1763643684,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190631,
+        "num": 190631,
+        "word": "樊振东十五运两胜王楚钦",
+        "onboard_time": 1763641343,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190214,
+        "num": 190214,
+        "word": "马龙还是马龙",
+        "onboard_time": 1763641823,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125963,
+        "num": 188568,
+        "word": "不让江山 陈哲远",
+        "onboard_time": 1763644703,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 56639,
+        "num": 188500,
+        "word": "800元能买到精神病诊断和死亡证明",
+        "onboard_time": 1763644884,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188450,
+        "num": 188450,
+        "word": "王楚钦赢下许昕如释重负",
+        "onboard_time": 1763645603,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
