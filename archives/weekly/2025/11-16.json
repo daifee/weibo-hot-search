@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763648867449,
+  "endTime": 1763649824578,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -459,6 +459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1155636,
+      "num": 1155636,
+      "word": "马龙拿下生涯唯一空缺金牌",
+      "onboard_time": 1763647223,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 1143356,
       "num": 1182937,
       "word": "首次赴陆台胞可免费畅游逾3000景区",
@@ -617,14 +625,6 @@
       "onboard_time": 1763345959,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 967572,
-      "num": 967572,
-      "word": "马龙拿下生涯唯一空缺金牌",
-      "onboard_time": 1763647223,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 967455,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1763464522,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 719054,
+      "num": 410050,
+      "word": "红果短剧推出演员分账",
+      "onboard_time": 1763647644,
+      "rank": 6,
+      "category": "剧集,互联网"
     },
     {
       "raw_hot": 717333,
@@ -2211,14 +2219,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 470924,
-      "num": 410050,
-      "word": "红果短剧推出演员分账",
-      "onboard_time": 1763647644,
-      "rank": 6,
-      "category": "剧集,互联网"
-    },
-    {
       "raw_hot": 469279,
       "num": 202918,
       "word": "罗志祥曾考虑和经纪人登记结婚",
@@ -2635,6 +2635,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 419734,
+      "num": 349912,
+      "word": "王橹杰 魅魔",
+      "onboard_time": 1763648243,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 418440,
+      "num": 345259,
+      "word": "樊振东马龙寒暄",
+      "onboard_time": 1763645784,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 418145,
       "num": 418145,
       "word": "逐玉",
@@ -2921,14 +2937,6 @@
       "onboard_time": 1763517621,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 391860,
-      "num": 345259,
-      "word": "樊振东马龙寒暄",
-      "onboard_time": 1763645784,
-      "rank": 32,
-      "category": "体育"
     },
     {
       "raw_hot": 389789,
@@ -3219,6 +3227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361953,
+      "num": 348560,
+      "word": "时代峰峻 催氪",
+      "onboard_time": 1763647283,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 361366,
       "num": 218404,
       "word": "曝顶流明星曾边上厕所边吃饭",
@@ -3377,14 +3393,6 @@
       "onboard_time": 1763424261,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 349912,
-      "num": 349912,
-      "word": "王橹杰 魅魔",
-      "onboard_time": 1763648243,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 349822,
@@ -4443,14 +4451,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 270591,
-      "num": 348560,
-      "word": "时代峰峻 催氪",
-      "onboard_time": 1763647283,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 269951,
       "num": 205245,
       "word": "彭小苒隐形眼镜滑片了",
@@ -5377,6 +5377,14 @@
       "onboard_time": 1763613143,
       "rank": 34,
       "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 223213,
+      "num": 344373,
+      "word": "卢凌风气死我了",
+      "onboard_time": 1763645424,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 223062,
@@ -6371,12 +6379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 193048,
-      "num": 344373,
-      "word": "卢凌风气死我了",
-      "onboard_time": 1763645424,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 193127,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 193029,
@@ -6963,6 +6971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184268,
+      "num": 184268,
+      "word": "许昕马龙拥抱",
+      "onboard_time": 1763649503,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184072,
       "num": 161400,
       "word": "四喜又给国产剧上新梗了",
@@ -7057,6 +7073,14 @@
       "onboard_time": 1763473105,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182917,
+      "num": 182917,
+      "word": "马龙包丢在半路回来和王楚钦击掌",
+      "onboard_time": 1763648004,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 182869,
@@ -7305,6 +7329,14 @@
       "onboard_time": 1763645962,
       "rank": 23,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 177013,
+      "num": 319017,
+      "word": "美国对中日关系持谨慎态度",
+      "onboard_time": 1763648662,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176854,
@@ -7651,6 +7683,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 169505,
+      "num": 169505,
+      "word": "Ning携手宝蓝对抗LPL",
+      "onboard_time": 1763649083,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 169362,
       "num": 195125,
       "word": "芒果在声生不息建了条唐人街",
@@ -7824,6 +7864,14 @@
       "word": "王曼昱成功卫冕",
       "onboard_time": 1763307203,
       "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 166684,
+      "num": 193413,
+      "word": "樊振东全运会十连胜",
+      "onboard_time": 1763648725,
+      "rank": 39,
       "category": "体育"
     },
     {
@@ -8032,14 +8080,6 @@
       "word": "母亲带遇害女儿彩色遗像出庭",
       "onboard_time": 1763605702,
       "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162271,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -9265,6 +9305,14 @@
       "onboard_time": 1763450901,
       "rank": 34,
       "category": "数码"
+    },
+    {
+      "raw_hot": 145267,
+      "num": 184034,
+      "word": "声生不息在格局这块没输过",
+      "onboard_time": 1763649684,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 145179,
@@ -10655,14 +10703,6 @@
       "num": 126806,
       "word": "陈梦说山东队不张扬但努力",
       "onboard_time": 1763603601,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 126788,
-      "num": 193413,
-      "word": "樊振东全运会十连胜",
-      "onboard_time": 1763648725,
       "rank": 39,
       "category": "体育"
     },
@@ -12265,6 +12305,14 @@
       "onboard_time": 1763298381,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 111192,
+      "num": 336967,
+      "word": "找不着北又火到台湾",
+      "onboard_time": 1763647823,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 111188,
@@ -15099,14 +15147,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 71433,
-      "num": 336967,
-      "word": "找不着北又火到台湾",
-      "onboard_time": 1763647823,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 71130,
       "num": 250552,
       "word": "朱松玮等4名队员停赛1个月",
@@ -15531,6 +15571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 61322,
+      "num": 340620,
+      "word": "华为乾崑APP正式发布",
+      "onboard_time": 1763645903,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 61283,
       "num": 239060,
       "word": "荣耀500为什么叫超级标准版",
@@ -15827,14 +15875,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 53735,
-      "num": 340620,
-      "word": "华为乾崑APP正式发布",
-      "onboard_time": 1763645903,
-      "rank": 19,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 53696,
       "num": 180460,
       "word": "季新杰 愿我们终抵群星",
@@ -15936,14 +15976,6 @@
       "word": "高市早苗言行引发中俄朝韩四国不满",
       "onboard_time": 1763235494,
       "rank": 35,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 52964,
-      "num": 319017,
-      "word": "美国对中日关系持谨慎态度",
-      "onboard_time": 1763648662,
-      "rank": 25,
       "category": "国际时政"
     },
     {
