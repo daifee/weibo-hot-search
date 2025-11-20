@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 14:38:44
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 14:51:26
 </p>
 </blockquote>
 <p>
@@ -3123,6 +3123,12 @@ T1 Peyz（热度：653404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%B5%B6%E5%88%B0%E6%97%B6%E5%A5%B3%E5%84%BF%E5%B7%B2%E7%9B%96%E7%99%BD%E5%B8%83%E6%89%8B%E8%84%9A%E5%9C%A8%E5%A4%96%23" target="weibo">
+母亲赶到时女儿已盖白布手脚在外（热度：642137）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B7%B2%E6%88%90%E7%AB%8B%E4%B8%AA%E4%BA%BA%E7%8B%AC%E8%B5%84%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
 王一博已成立个人独资工作室（热度：641198）
 </a>
@@ -3305,12 +3311,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%97%A9%E5%B9%B4%E5%8F%AB%E6%9D%BF%E8%A7%86%E9%A2%91%E6%9B%9D%E5%85%89%23" target="weibo">
 高市早苗早年叫板视频曝光（热度：627745）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%8D%E4%BA%B2%E8%B5%B6%E5%88%B0%E6%97%B6%E5%A5%B3%E5%84%BF%E5%B7%B2%E7%9B%96%E7%99%BD%E5%B8%83%E6%89%8B%E8%84%9A%E5%9C%A8%E5%A4%96%23" target="weibo">
-母亲赶到时女儿已盖白布手脚在外（热度：627310）
 </a>
 </li>
 
@@ -5697,6 +5697,12 @@ Bin双眼皮（热度：455933）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%A4%AA%E5%A4%AA%E6%82%A3%E7%99%8C%23" target="weibo">
+方太太患癌（热度：454394）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%98%AF%E5%BC%A0%E9%A6%A8%E4%BA%88%E8%BF%98%E6%98%AF%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%23" target="weibo">
 这是张馨予还是迪丽热巴（热度：454088）
 </a>
@@ -6005,12 +6011,6 @@ Kanavi HLE（热度：442015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2305%E5%90%8E%E9%83%BD%E5%BC%80%E5%A7%8B%E4%B8%8A%E6%81%8B%E7%BB%BC%E4%BA%86%23" target="weibo">
 05后都开始上恋综了（热度：439013）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%E6%88%B4%E5%A2%A8%E9%87%91%E9%B8%A1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%AF%BC%E6%BC%94%23" target="weibo">
-陈思诚戴墨金鸡奖最佳导演（热度：438879）
 </a>
 </li>
 

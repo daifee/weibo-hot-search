@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763620724127,
+  "endTime": 1763621486838,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -115,6 +115,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 642137,
+      "num": 216103,
+      "word": "母亲赶到时女儿已盖白布手脚在外",
+      "onboard_time": 1763614824,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 635706,
       "num": 132816,
       "word": "美国杀人魔因生殖器过小成破案关键",
@@ -129,14 +137,6 @@
       "onboard_time": 1763593999,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 627310,
-      "num": 214262,
-      "word": "母亲赶到时女儿已盖白布手脚在外",
-      "onboard_time": 1763614824,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 611452,
@@ -187,6 +187,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 454394,
+      "num": 454394,
+      "word": "方太太患癌",
+      "onboard_time": 1763619442,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 444116,
       "num": 181482,
       "word": "唐嫣 罗晋",
@@ -219,6 +227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 429238,
+      "num": 165858,
+      "word": "日本舆论已意识到事态十分严重",
+      "onboard_time": 1763619682,
+      "rank": 26,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 422506,
       "num": 181382,
       "word": "朱婷直言没考虑过国家队",
@@ -227,20 +243,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 416545,
+      "num": 162216,
+      "word": "朱朱小桃分手",
+      "onboard_time": 1763620642,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 407803,
       "num": 407803,
       "word": "日本最大核电站将重启运行",
       "onboard_time": 1763614824,
       "rank": 5,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 385435,
-      "num": 165858,
-      "word": "日本舆论已意识到事态十分严重",
-      "onboard_time": 1763619682,
-      "rank": 26,
-      "category": "国际时政"
     },
     {
       "raw_hot": 384573,
@@ -315,12 +331,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 302249,
-      "num": 180800,
-      "word": "方太太患癌",
-      "onboard_time": 1763619442,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 312780,
+      "num": 312780,
+      "word": "疯狂动物城2因明星配音掉价吗",
+      "onboard_time": 1763619742,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 294376,
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 278518,
+      "num": 210043,
+      "word": "44岁博主确诊胆囊癌仅1个月去世",
+      "onboard_time": 1763617402,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276288,
       "num": 172319,
       "word": "霍震霆主动求加入孙子旅行",
@@ -361,6 +385,14 @@
       "onboard_time": 1763595620,
       "rank": 4,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 270709,
+      "num": 270709,
+      "word": "王者荣耀",
+      "onboard_time": 1763621422,
+      "rank": 6,
+      "category": "游戏"
     },
     {
       "raw_hot": 269708,
@@ -507,14 +539,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215579,
-      "num": 215579,
-      "word": "疯狂动物城2因明星配音掉价吗",
-      "onboard_time": 1763619742,
-      "rank": 5,
-      "category": "电影"
-    },
-    {
       "raw_hot": 214195,
       "num": 214195,
       "word": "狗狗嘴巴被人用扎带捆了一个月",
@@ -588,7 +612,7 @@
     },
     {
       "raw_hot": 198760,
-      "num": 198760,
+      "num": 221071,
       "word": "尖叫之夜 抢票",
       "onboard_time": 1763617462,
       "rank": 6,
@@ -691,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179152,
+      "num": 156630,
+      "word": "肖战工作室评论回复小红豆",
+      "onboard_time": 1763621303,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178957,
       "num": 178957,
       "word": "考研最难上岸的三种同学",
@@ -715,12 +747,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 175848,
-      "num": 175848,
-      "word": "44岁博主确诊胆囊癌仅1个月去世",
-      "onboard_time": 1763617402,
-      "rank": 48,
-      "category": "民生新闻"
+      "raw_hot": 173701,
+      "num": 173701,
+      "word": "何美延教科书式自证",
+      "onboard_time": 1763618303,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 170370,
@@ -729,14 +761,6 @@
       "onboard_time": 1763610263,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168698,
-      "num": 168698,
-      "word": "何美延教科书式自证",
-      "onboard_time": 1763618303,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 168270,
@@ -795,14 +819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 162216,
-      "num": 162216,
-      "word": "朱朱小桃分手",
-      "onboard_time": 1763620642,
-      "rank": 32,
-      "category": "网红"
-    },
-    {
       "raw_hot": 162156,
       "num": 162156,
       "word": "董璇 经济上行的美",
@@ -836,7 +852,7 @@
     },
     {
       "raw_hot": 160026,
-      "num": 186610,
+      "num": 211041,
       "word": "武切维奇绝杀开拓者",
       "onboard_time": 1763618002,
       "rank": 8,
@@ -972,7 +988,7 @@
     },
     {
       "raw_hot": 140397,
-      "num": 140397,
+      "num": 156847,
       "word": "吴昕一句话点破梁淞的空话",
       "onboard_time": 1763620341,
       "rank": 36,
@@ -1036,7 +1052,7 @@
     },
     {
       "raw_hot": 131743,
-      "num": 131743,
+      "num": 173344,
       "word": "聂九罗的岛",
       "onboard_time": 1763619922,
       "rank": 39,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1763598083,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 128897,
+      "num": 163345,
+      "word": "郑大一附院西院区今起停诊",
+      "onboard_time": 1763620582,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126901,
@@ -1121,6 +1145,14 @@
       "onboard_time": 1763601264,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 123483,
+      "num": 123483,
+      "word": "日本很可能在进行某种舆论准备",
+      "onboard_time": 1763620102,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122884,
@@ -1243,14 +1275,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 108700,
-      "num": 108700,
-      "word": "日本很可能在进行某种舆论准备",
-      "onboard_time": 1763620102,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 107595,
       "num": 107595,
       "word": "于适官宣合肥演唱会",
@@ -1315,6 +1339,14 @@
       "category": "国内时政,国际时政"
     },
     {
+      "raw_hot": 103100,
+      "num": 103100,
+      "word": "不好 我好像发现了商机",
+      "onboard_time": 1763621303,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 102951,
       "num": 243923,
       "word": "公牛vs开拓者",
@@ -1363,20 +1395,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99838,
-      "num": 99838,
-      "word": "郑大一附院西院区今起停诊",
-      "onboard_time": 1763620582,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 99264,
       "num": 99264,
       "word": "中国军号发高市早苗玩火漫画",
       "onboard_time": 1763606542,
       "rank": 46,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 98943,
+      "num": 98943,
+      "word": "古人造完字自己笑了好久吧",
+      "onboard_time": 1763621242,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 98757,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1763551222,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87300,
+      "num": 103384,
+      "word": "曝T1听Keria建议选择了Peyz",
+      "onboard_time": 1763615423,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 86975,
@@ -1899,6 +1939,14 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 31228,
+      "num": 132083,
+      "word": "队友排队和陈梦合照",
+      "onboard_time": 1763620102,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 31222,
       "num": 448065,
       "word": "跟着全运逛湾区",
@@ -1972,19 +2020,11 @@
     },
     {
       "raw_hot": 23876,
-      "num": 376564,
+      "num": 389079,
       "word": "视听中国看海南",
       "onboard_time": 1763610503,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23811,
-      "num": 132083,
-      "word": "队友排队和陈梦合照",
-      "onboard_time": 1763620102,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 23808,
@@ -2057,6 +2097,14 @@
       "onboard_time": 1763592137,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 12118,
+      "num": 103513,
+      "word": "拒绝熊猫表演 拒绝不了熊猫自己整活",
+      "onboard_time": 1763621422,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1014,
