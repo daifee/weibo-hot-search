@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 11:58:19
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 12:31:22
 </p>
 </blockquote>
 <p>
@@ -197,6 +197,12 @@ T1官宣Gumayusi离队（热度：3390474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%20%E7%BD%97%E6%99%8B%23" target="weibo">
 唐嫣 罗晋（热度：2737200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%AB%9F%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E8%A7%A3%E9%87%8A%23" target="weibo">
+日方竟要求中方解释（热度：2714781）
 </a>
 </li>
 
@@ -407,12 +413,6 @@ T1对战TES（热度：1793569）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E9%9C%9E%E9%AB%98%E8%8F%A1%E8%A7%A3%E8%AF%B4%23" target="weibo">
 李晓霞高菡解说（热度：1702680）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%AB%9F%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E8%A7%A3%E9%87%8A%23" target="weibo">
-日方竟要求中方解释（热度：1701344）
 </a>
 </li>
 
@@ -629,6 +629,12 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E5%8D%8E%20%E8%8D%92%E8%B0%AC%23" target="weibo">
 杜华 荒谬（热度：1404444）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E6%99%B4%23" target="weibo">
+许晴（热度：1386580）
 </a>
 </li>
 
@@ -1821,6 +1827,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%83%85%E5%8F%B2%23" target="weibo">
+胡彦斌易梦玲情史（热度：846551）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E9%80%89%E8%B0%A2%E6%99%AF%E8%A1%8C%E6%B2%88%E5%A8%87%E5%A8%87%23" target="weibo">
 天选谢景行沈娇娇（热度：846513）
 </a>
@@ -2183,12 +2195,6 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%92%A4%E6%A1%A3%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D%23" target="weibo">
 央视撤档爱情没有神话（热度：769325）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%83%85%E5%8F%B2%23" target="weibo">
-胡彦斌易梦玲情史（热度：768552）
 </a>
 </li>
 
@@ -2807,6 +2813,12 @@ Uzi颁奖（热度：677194）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
 大奉打更人官宣第二季（热度：675805）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E5%8A%A0%E6%B2%B9%E7%AB%99%E4%BD%9C%E5%BC%8A%E8%8A%B1%E6%8B%9B%23" target="weibo">
+央视曝光加油站作弊花招（热度：675100）
 </a>
 </li>
 
@@ -4007,6 +4019,12 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E4%BA%8E%E4%BD%95%E4%B8%80%23" target="weibo">
 樊振东vs于何一（热度：562355）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%92%8C%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%95%86%E9%87%8F%E5%AD%A9%E5%AD%90%E5%8E%BB%E5%93%AA%E4%B8%8A%E5%AD%A6%23" target="weibo">
+董璇和佟丽娅商量孩子去哪上学（热度：562181）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Kanavi HLE（热度：442015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%AE%B6%E4%B8%8D%E5%BB%BA%E8%AE%AE%E5%A4%A7%E5%AE%B6%E6%8F%90%E5%89%8D%E8%BF%98%E8%B4%B7%23" target="weibo">
 经济学家不建议大家提前还贷（热度：437580）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E7%BB%88%E4%BA%8E%E5%8F%88%E6%BC%94%E4%BA%86%E4%B8%80%E6%AC%A1%E8%A2%AB%E7%88%B1%23" target="weibo">
-蒋欣终于又演了一次被爱（热度：437495）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%A0%B9%E6%9C%AC%E6%B2%A1%E8%B5%84%E6%A0%BC%E8%A6%81%E6%B1%82%E6%88%90%E4%B8%BA%E5%B8%B8%E4%BB%BB%E7%90%86%E4%BA%8B%E5%9B%BD%23" target="weibo">
-日本根本没资格要求成为常任理事国（热度：436981）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Amy%E5%A7%90%E6%9B%9D%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%AE%A3%E4%BA%91%E6%81%8B%E7%88%B1%E5%86%85%E5%B9%95%23" target="weibo">
-Amy姐曝潘玮柏宣云恋爱内幕（热度：436484）
 </a>
 </li>
 

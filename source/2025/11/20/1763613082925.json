@@ -1,0 +1,410 @@
+{
+  "runTime": 1763613082925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2714781,
+        "num": 2714781,
+        "word": "日方竟要求中方解释",
+        "onboard_time": 1763609902,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 675100,
+        "num": 675100,
+        "word": "央视曝光加油站作弊花招",
+        "onboard_time": 1763609902,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 13843,
+        "num": 397662,
+        "word": "跟着全运逛湾区",
+        "onboard_time": 1763612662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317112,
+        "num": 317112,
+        "word": "中方对日反制层层加码",
+        "onboard_time": 1763602282,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193465,
+        "num": 277301,
+        "word": "疯狂动物城2演员配音是抢活吗",
+        "onboard_time": 1763605581,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247465,
+        "num": 247465,
+        "word": "日本挑衅的代价不止股市三杀",
+        "onboard_time": 1763607202,
+        "rank": 5,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 190562,
+        "num": 247368,
+        "word": "小米第50万辆整车正式下产线",
+        "onboard_time": 1763607802,
+        "rank": 6,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 185152,
+        "num": 246842,
+        "word": "大生意人定档",
+        "onboard_time": 1763612662,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 183476,
+        "num": 246450,
+        "word": "迪丽热巴播剧粉丝精神状态",
+        "onboard_time": 1763607681,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113011,
+        "num": 245956,
+        "word": "玩火者必自焚",
+        "onboard_time": 1763613023,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 895501,
+        "num": 245596,
+        "word": "日本马上要没有大熊猫了",
+        "onboard_time": 1763599764,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 562181,
+        "num": 245092,
+        "word": "董璇和佟丽娅商量孩子去哪上学",
+        "onboard_time": 1763608041,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 471321,
+        "num": 244415,
+        "word": "男子在离婚冷静期毒杀儿子和女儿",
+        "onboard_time": 1763606842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102951,
+        "num": 243923,
+        "word": "公牛vs开拓者",
+        "onboard_time": 1763611701,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 456210,
+        "num": 243810,
+        "word": "柬埔寨劫囚女子因高颜值引关注",
+        "onboard_time": 1763607262,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 397077,
+        "num": 243380,
+        "word": "建议不要在网上买太便宜的水果",
+        "onboard_time": 1763596461,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 242987,
+        "num": 242987,
+        "word": "高市早苗曾向身边人坦言说过头了",
+        "onboard_time": 1763597544,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137567,
+        "num": 242141,
+        "word": "卢凌风到底偷偷报了几个班啊",
+        "onboard_time": 1763608882,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44763,
+        "num": 241568,
+        "word": "快递未沟通默认放驿站最高罚3万元",
+        "onboard_time": 1763612424,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45514,
+        "num": 240347,
+        "word": "张佳宁拯救职场不开心",
+        "onboard_time": 1763611582,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204626,
+        "num": 239978,
+        "word": "渣土车侧翻压死女子肇事车严重超载",
+        "onboard_time": 1763610023,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2473785,
+        "num": 238612,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1386580,
+        "num": 237607,
+        "word": "许晴",
+        "onboard_time": 1763611103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 746970,
+        "num": 236703,
+        "word": "马思唯评论区乱成一锅",
+        "onboard_time": 1763602881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 598849,
+        "num": 236068,
+        "word": "内娱顶级美人嗔怒",
+        "onboard_time": 1763607741,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106091,
+        "num": 234692,
+        "word": "周边多国积极争取中国游客",
+        "onboard_time": 1763611103,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201406,
+        "num": 233572,
+        "word": "广东男团十五运铜牌",
+        "onboard_time": 1763612363,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 846551,
+        "num": 233079,
+        "word": "胡彦斌易梦玲情史",
+        "onboard_time": 1763609662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 384573,
+        "num": 231962,
+        "word": "鹿晗先给哪个小猫吃",
+        "onboard_time": 1763610023,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188583,
+        "num": 231523,
+        "word": "疯狂动物城2想看新增数大幅下降",
+        "onboard_time": 1763611462,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370309,
+        "num": 230158,
+        "word": "月经有5个表现说明子宫很健康",
+        "onboard_time": 1763611943,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 259544,
+        "num": 229543,
+        "word": "胡彦斌易梦玲手表",
+        "onboard_time": 1763611163,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254218,
+        "num": 228487,
+        "word": "中国人已经喝不动了吗",
+        "onboard_time": 1763611701,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 227818,
+        "num": 227818,
+        "word": "普京作出最新涉华表态",
+        "onboard_time": 1763610381,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 215387,
+        "num": 215387,
+        "word": "日本牛肉恢复对华出口磋商也停了",
+        "onboard_time": 1763601144,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70336,
+        "num": 214521,
+        "word": "家门口遇害女子妈妈称一秒记住凶手",
+        "onboard_time": 1763611223,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214195,
+        "num": 214195,
+        "word": "狗狗嘴巴被人用扎带捆了一个月",
+        "onboard_time": 1763609361,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190218,
+        "num": 190218,
+        "word": "杨瀚森强硬单打",
+        "onboard_time": 1763612243,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47056,
+        "num": 189604,
+        "word": "985大学生患游戏障碍险被退学",
+        "onboard_time": 1763612484,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19752,
+        "num": 187862,
+        "word": "以前没发现还珠格格这么颠",
+        "onboard_time": 1763612904,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72050,
+        "num": 186927,
+        "word": "何炅命中躲不开的劫是那英",
+        "onboard_time": 1763611823,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207542,
+        "num": 185502,
+        "word": "小海绵身高到baby肩膀了",
+        "onboard_time": 1763612123,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185151,
+        "num": 185151,
+        "word": "日本多次不宣而战",
+        "onboard_time": 1763559983,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176466,
+        "num": 176466,
+        "word": "王源HUG挂件售卖时间",
+        "onboard_time": 1763611883,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1014,
+        "num": 162035,
+        "word": "e法润京华",
+        "onboard_time": 1763545702,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 155615,
+        "num": 155615,
+        "word": "易梦玲 音乐才子",
+        "onboard_time": 1763605102,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151652,
+        "num": 151652,
+        "word": "杨超越 客厅沙发睡着了",
+        "onboard_time": 1763612484,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151645,
+        "num": 151645,
+        "word": "猫 冷不丁梆梆就两拳",
+        "onboard_time": 1763611943,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150078,
+        "num": 150078,
+        "word": "彭小苒你根本没喝中药",
+        "onboard_time": 1763612962,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145083,
+        "num": 145083,
+        "word": "王者语音 姐妹们",
+        "onboard_time": 1763612783,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
