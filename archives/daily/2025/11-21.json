@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763660472533,
+  "endTime": 1763663951465,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -395,6 +395,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62836,
+      "num": 62836,
+      "word": "Gemini3",
+      "onboard_time": 1763657178,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 61253,
       "num": 64609,
       "word": "全场送别苏炳添",
@@ -427,12 +435,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 53377,
-      "num": 53377,
-      "word": "Gemini3",
-      "onboard_time": 1763657178,
-      "rank": 31,
-      "category": "互联网"
+      "raw_hot": 43161,
+      "num": 46836,
+      "word": "易梦玲穿搭像胡彦斌搭配的",
+      "onboard_time": 1763659936,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 42682,
@@ -443,7 +451,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39232,
+      "raw_hot": 41566,
       "num": 51519,
       "word": "盛夏芬德拉剧里那道闪电是真的",
       "onboard_time": 1763659696,
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 36963,
-      "num": 45856,
+      "num": 46764,
       "word": "日本该认清自己更该认清中国",
       "onboard_time": 1763658317,
       "rank": 44,
@@ -483,12 +491,36 @@
       "category": "体育"
     },
     {
-      "raw_hot": 29380,
-      "num": 37481,
-      "word": "易梦玲穿搭像胡彦斌搭配的",
-      "onboard_time": 1763659936,
-      "rank": 49,
+      "raw_hot": 20654,
+      "num": 46700,
+      "word": "彭小苒 翻车一定比翻红快",
+      "onboard_time": 1763646084,
+      "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18519,
+      "num": 46670,
+      "word": "王楚钦丢球扇自己巴掌",
+      "onboard_time": 1763661255,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 18241,
+      "num": 46665,
+      "word": "李佳薇终于出来上音综了",
+      "onboard_time": 1763662875,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 17447,
+      "num": 46642,
+      "word": "苏炳添说不会离开田径",
+      "onboard_time": 1763663594,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 16514,

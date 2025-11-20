@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/21 01:41:12
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/21 02:39:11
 </p>
 </blockquote>
 <p>
@@ -11805,6 +11805,12 @@ U22国足vs乌兹别克斯坦U22（热度：69158）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Gemini3%23" target="weibo">
+Gemini3（热度：62836）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E4%B8%BB%E6%92%AD%E5%81%B7%E4%BA%B2%E8%93%9D%E6%88%98%E9%9D%9E%23" target="weibo">
 女主播偷亲蓝战非（热度：62780）
 </a>
@@ -12125,12 +12131,6 @@ JackeyLove对十年前说的话（热度：53469）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%B6%E5%B1%9E%E8%A6%81%E6%B1%82%E5%BD%BB%E6%9F%A5%E5%A5%B3%E5%A9%B4%E6%89%8B%E6%9C%AF%E5%8E%BB%E4%B8%96%E4%BA%8B%E4%BB%B6%23" target="weibo">
 家属要求彻查女婴手术去世事件（热度：53424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Gemini3%23" target="weibo">
-Gemini3（热度：53377）
 </a>
 </li>
 
@@ -12561,6 +12561,12 @@ Gemini3（热度：53377）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A9%BF%E6%90%AD%E5%83%8F%E8%83%A1%E5%BD%A6%E6%96%8C%E6%90%AD%E9%85%8D%E7%9A%84%23" target="weibo">
+易梦玲穿搭像胡彦斌搭配的（热度：43161）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E5%87%B6%E6%89%8B%E5%A3%B0%E7%A7%B0%E6%97%A0%E8%BE%9C%23" target="weibo">
 女子家门口遇害案凶手声称无辜（热度：43080）
 </a>
@@ -12617,6 +12623,12 @@ Gemini3（热度：53377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E5%AE%81%E6%8F%90%E9%86%92%E6%97%A5%E6%9C%AC%E5%BF%85%E9%A1%BB%E4%BF%A1%E5%AE%88%E6%89%BF%E8%AF%BA%23" target="weibo">
 毛宁提醒日本必须信守承诺（热度：41695）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E5%89%A7%E9%87%8C%E9%82%A3%E9%81%93%E9%97%AA%E7%94%B5%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
+盛夏芬德拉剧里那道闪电是真的（热度：41566）
 </a>
 </li>
 
@@ -12725,12 +12737,6 @@ Gemini3（热度：53377）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%A8%E7%8E%B2%E9%99%88%E6%A2%A6%E4%BA%94%E5%B1%8A%E5%90%8C%E8%A1%8C%E9%9A%BE%E8%AF%B4%E5%86%8D%E8%A7%81%23" target="weibo">
 朱雨玲陈梦五届同行难说再见（热度：39316）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%9B%E5%A4%8F%E8%8A%AC%E5%BE%B7%E6%8B%89%E5%89%A7%E9%87%8C%E9%82%A3%E9%81%93%E9%97%AA%E7%94%B5%E6%98%AF%E7%9C%9F%E7%9A%84%23" target="weibo">
-盛夏芬德拉剧里那道闪电是真的（热度：39232）
 </a>
 </li>
 
@@ -13335,12 +13341,6 @@ Gemini3（热度：53377）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E7%A9%BF%E6%90%AD%E5%83%8F%E8%83%A1%E5%BD%A6%E6%96%8C%E6%90%AD%E9%85%8D%E7%9A%84%23" target="weibo">
-易梦玲穿搭像胡彦斌搭配的（热度：29380）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E6%8B%89%E7%B4%A2%E8%A7%A3%E5%BC%80%E9%87%8D%E5%A4%A7%E8%B0%9C%E9%A2%98%23" target="weibo">
 中国拉索解开重大谜题（热度：29074）
 </a>
@@ -13803,6 +13803,12 @@ WTT恭喜河北乒乓女团亚军（热度：18708）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E4%B8%A2%E7%90%83%E6%89%87%E8%87%AA%E5%B7%B1%E5%B7%B4%E6%8E%8C%23" target="weibo">
+王楚钦丢球扇自己巴掌（热度：18519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9C%A8%E6%B6%89%E5%8F%B0%E9%97%AE%E9%A2%98%E4%B8%8A%E5%8A%A3%E8%BF%B9%E6%96%91%E6%96%91%23" target="weibo">
 高市早苗在涉台问题上劣迹斑斑（热度：18344）
 </a>
@@ -13811,6 +13817,12 @@ WTT恭喜河北乒乓女团亚军（热度：18708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%A4%E7%94%B7%20%E5%85%AC%E4%B8%BB%E4%BB%8E%E9%9A%A7%E9%81%93%E8%B7%91%E5%88%B0%E4%BA%86%E8%BD%AE%E6%B8%A1%23" target="weibo">
 鹤男 公主从隧道跑到了轮渡（热度：18307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%96%87%E7%BB%88%E4%BA%8E%E5%87%BA%E6%9D%A5%E4%B8%8A%E9%9F%B3%E7%BB%BC%E4%BA%86%23" target="weibo">
+李佳薇终于出来上音综了（热度：18241）
 </a>
 </li>
 
@@ -13853,6 +13865,12 @@ WTT恭喜河北乒乓女团亚军（热度：18708）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%9F%E8%8B%8F%E7%A7%91%E6%8A%80%E5%A4%A7%E5%AD%A6%E5%8D%9A%E5%AF%BC%E7%96%91%E4%BC%BC%E4%BB%85%E9%AB%98%E4%B8%AD%E5%AD%A6%E5%8E%86%23" target="weibo">
 江苏科技大学博导疑似仅高中学历（热度：17515）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%AF%B4%E4%B8%8D%E4%BC%9A%E7%A6%BB%E5%BC%80%E7%94%B0%E5%BE%84%23" target="weibo">
+苏炳添说不会离开田径（热度：17447）
 </a>
 </li>
 

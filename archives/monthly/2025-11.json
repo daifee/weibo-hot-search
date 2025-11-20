@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763660472533,
+  "endTime": 1763663951465,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -62403,6 +62403,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 62836,
+      "num": 62836,
+      "word": "Gemini3",
+      "onboard_time": 1763657178,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 62780,
       "num": 161319,
       "word": "女主播偷亲蓝战非",
@@ -64417,14 +64425,6 @@
       "onboard_time": 1762400301,
       "rank": 18,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 53377,
-      "num": 53377,
-      "word": "Gemini3",
-      "onboard_time": 1763657178,
-      "rank": 31,
-      "category": "互联网"
     },
     {
       "raw_hot": 53369,
@@ -66667,6 +66667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43161,
+      "num": 46836,
+      "word": "易梦玲穿搭像胡彦斌搭配的",
+      "onboard_time": 1763659936,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43148,
       "num": 195155,
       "word": "立冬京东送玄学秋裤",
@@ -67017,6 +67025,14 @@
       "onboard_time": 1762950921,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41566,
+      "num": 51519,
+      "word": "盛夏芬德拉剧里那道闪电是真的",
+      "onboard_time": 1763659696,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 41538,
@@ -67481,14 +67497,6 @@
       "onboard_time": 1763313017,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 39232,
-      "num": 51519,
-      "word": "盛夏芬德拉剧里那道闪电是真的",
-      "onboard_time": 1763659696,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 39215,
@@ -68004,7 +68012,7 @@
     },
     {
       "raw_hot": 36963,
-      "num": 45856,
+      "num": 46764,
       "word": "日本该认清自己更该认清中国",
       "onboard_time": 1763658317,
       "rank": 44,
@@ -69881,14 +69889,6 @@
       "onboard_time": 1763613862,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29380,
-      "num": 37481,
-      "word": "易梦玲穿搭像胡彦斌搭配的",
-      "onboard_time": 1763659936,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 29322,
@@ -72019,6 +72019,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 18519,
+      "num": 46670,
+      "word": "王楚钦丢球扇自己巴掌",
+      "onboard_time": 1763661255,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 18380,
       "num": 108485,
       "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
@@ -72065,6 +72073,14 @@
       "onboard_time": 1762856120,
       "rank": 37,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 18241,
+      "num": 46665,
+      "word": "李佳薇终于出来上音综了",
+      "onboard_time": 1763662875,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 18228,
@@ -72297,6 +72313,14 @@
       "onboard_time": 1763541443,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17447,
+      "num": 46642,
+      "word": "苏炳添说不会离开田径",
+      "onboard_time": 1763663594,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 17379,
