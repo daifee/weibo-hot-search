@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/20 09:56:54
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/20 10:18:24
 </p>
 </blockquote>
 <p>
@@ -40,7 +40,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%81%8B%E6%83%85%23" target="weibo">
-疑似胡彦斌易梦玲恋情（热度：5357322）
+疑似胡彦斌易梦玲恋情（热度：5484173）
 </a>
 </li>
 
@@ -1049,6 +1049,12 @@ T1 Peyz（热度：653404）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E9%97%AE%E9%9F%A9%E9%9B%A8%E5%BD%A4%E6%9B%BE%E8%BE%89%E6%98%AF%E4%B8%80%E5%AF%B9%E5%90%97%23" target="weibo">
 宋佳问韩雨彤曾辉是一对吗（热度：551563）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E5%94%AF%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%23" target="weibo">
+马思唯评论区乱成一锅（热度：546773）
 </a>
 </li>
 
@@ -2709,6 +2715,12 @@ Gumayusi直播谈离开T1（热度：288378）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E4%B8%BB%E5%8A%A8%E6%B1%82%E5%8A%A0%E5%85%A5%E5%AD%99%E5%AD%90%E6%97%85%E8%A1%8C%23" target="weibo">
+霍震霆主动求加入孙子旅行（热度：276288）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E7%BB%9D%E7%BE%8Eending%23" target="weibo">
 迪丽热巴 绝美ending（热度：275969）
 </a>
@@ -2927,6 +2939,12 @@ canyon续约（热度：260792）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A0%E9%99%90%E6%9A%96%E6%9A%96%E4%B8%80%E7%AE%AD%E5%B0%81%E7%A5%9E%23" target="weibo">
 无限暖暖一箭封神（热度：260244）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E6%91%98%E9%93%B6%23" target="weibo">
+吴艳妮回应女子100米栏摘银（热度：259688）
 </a>
 </li>
 
@@ -3309,12 +3327,6 @@ AL官宣Tabe离队（热度：235883）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%80%9D%E5%94%AF%E8%AF%84%E8%AE%BA%E5%8C%BA%E4%B9%B1%E6%88%90%E4%B8%80%E9%94%85%23" target="weibo">
-马思唯评论区乱成一锅（热度：225323）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%80%9A%E6%A3%AE%E9%AB%98%E6%95%88%E5%BE%97%E5%88%B04%E5%88%86%23" target="weibo">
 杨瀚森高效得到4分（热度：225012）
 </a>
@@ -3557,6 +3569,12 @@ T1官宣Doran续约（热度：215804）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%E6%B2%A1%E7%94%A8%E5%8E%9F%E5%A3%B0%E7%9A%84%E5%8E%9F%E5%9B%A0%23" target="weibo">
 彭小苒凤凰台上没用原声的原因（热度：207824）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%AF%B4%E9%BC%93%E5%8A%B1%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%23" target="weibo">
+俞敏洪说鼓励员工吐槽（热度：207675）
 </a>
 </li>
 
@@ -3827,6 +3845,12 @@ elk删除了清者自清的微博（热度：202060）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E9%93%81%E6%89%93%E7%9A%84%E4%B8%80%E5%8D%95%23" target="weibo">
 孙颖莎铁打的一单（热度：197262）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E4%B8%80%E6%97%85%E8%A1%8C%E7%A4%BE%E5%8F%91%E5%A3%B0%23" target="weibo">
+日本东京一旅行社发声（热度：196957）
 </a>
 </li>
 
@@ -4257,12 +4281,6 @@ Scout疑似重返LCK（热度：186204）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%AD%90100%E7%B1%B3%E6%A0%8F%E6%91%98%E9%93%B6%23" target="weibo">
-吴艳妮回应女子100米栏摘银（热度：186171）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Gumayusi%E7%9A%84T1%E7%BA%AA%E5%BD%95%E7%89%87%23" target="weibo">
 Gumayusi的T1纪录片（热度：186054）
 </a>
@@ -4619,12 +4637,6 @@ Gumayusi回应离队T1（热度：176854）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E6%B0%91%E5%90%B5%E6%88%90%E4%B8%80%E5%9B%A2%23" target="weibo">
 日本网民吵成一团（热度：174896）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%AC%E4%B8%80%E6%97%85%E8%A1%8C%E7%A4%BE%E5%8F%91%E5%A3%B0%23" target="weibo">
-日本东京一旅行社发声（热度：174815）
 </a>
 </li>
 
@@ -5321,6 +5333,12 @@ A股三六零涨停（热度：158103）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E9%B9%BF%E6%99%97%E5%90%83%E7%89%9B%E8%82%89%E9%9D%A2%23" target="weibo">
 偶遇鹿晗吃牛肉面（热度：155473）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%AF%B4%E6%98%8E%E5%B9%B4%E6%94%AF%E6%8C%81%E5%91%98%E5%B7%A5%E6%9D%A5%E5%8D%97%E6%9E%81%23" target="weibo">
+俞敏洪说明年支持员工来南极（热度：155457）
 </a>
 </li>
 
@@ -6195,6 +6213,12 @@ Cloudflare回应全球故障（热度：136683）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E5%8F%8D%E5%88%B6%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%23" target="weibo">
+中方对日反制层层加码（热度：135672）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%96%E5%8A%A1%E7%9C%81%E9%AB%98%E5%AE%98%E6%9D%A5%E5%8D%8E%E8%AF%B4%E6%98%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A8%80%E8%AE%BA%23" target="weibo">
 日本外务省高官来华说明高市早苗言论（热度：135623）
 </a>
@@ -6465,12 +6489,6 @@ C罗参加白宫晚宴（热度：130970）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%AF%B9%E6%97%A5%E5%8F%8D%E5%88%B6%E5%B1%82%E5%B1%82%E5%8A%A0%E7%A0%81%23" target="weibo">
-中方对日反制层层加码（热度：130874）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E8%8D%AF%20%E5%AD%9F%E4%B8%8D%E7%96%91%23" target="weibo">
 红药 孟不疑（热度：130732）
 </a>
@@ -6683,6 +6701,12 @@ iPhone17先天试衣圣体（热度：127336）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23A%E8%82%A1%E6%88%90%E4%BA%A41.91%E4%B8%87%E4%BA%BF%E7%BC%A9%E9%87%8F473%E4%BA%BF%23" target="weibo">
 A股成交1.91万亿缩量473亿（热度：126829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E8%AF%B4%E5%B1%B1%E4%B8%9C%E9%98%9F%E4%B8%8D%E5%BC%A0%E6%89%AC%E4%BD%86%E5%8A%AA%E5%8A%9B%23" target="weibo">
+陈梦说山东队不张扬但努力（热度：126806）
 </a>
 </li>
 
@@ -7389,6 +7413,12 @@ A股全市场百股涨停（热度：117558）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%80%E5%90%8E%E4%B8%A4%E5%8F%AA%E5%A4%A7%E7%86%8A%E7%8C%AB%E5%8D%B3%E5%B0%86%E5%9B%9E%E5%9B%BD%23" target="weibo">
+日本最后两只大熊猫即将回国（热度：116642）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%E5%9C%A8%E5%A6%82%E6%87%BF%E4%BC%A0%E9%87%8C%E6%AF%8F%E5%A4%A9%E8%A2%AB%E5%BD%93%E9%9D%A2%E8%9B%90%E8%9B%90%23" target="weibo">
 霍建华在如懿传里每天被当面蛐蛐（热度：116634）
 </a>
@@ -7929,6 +7959,12 @@ Junjia宣布离队（热度：108988）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%95%85%E6%84%8F%E6%89%BE%E8%8C%AC%E9%83%BD%E6%83%B3%E4%B8%8D%E5%87%BA%E6%9D%A5%E8%BF%99%E7%A7%8D%E8%AF%9D%23" target="weibo">
+我故意找茬都想不出来这种话（热度：107856）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B9%92%E4%B9%93%E7%90%83%E5%A5%B3%E5%9B%A2%E5%9B%9B%E5%BC%BA%E5%AF%B9%E9%98%B5%23" target="weibo">
 全运会乒乓球女团四强对阵（热度：107850）
 </a>
@@ -8093,12 +8129,6 @@ WTT祝贺樊振东夺冠（热度：107525）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E6%80%BB%E7%BB%93%E5%85%A8%E8%BF%90%E4%BC%9A%E5%A5%B3%E5%9B%A2%E5%A4%BA%E9%87%91%23" target="weibo">
 陈梦总结全运会女团夺金（热度：104916）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E6%95%85%E6%84%8F%E6%89%BE%E8%8C%AC%E9%83%BD%E6%83%B3%E4%B8%8D%E5%87%BA%E6%9D%A5%E8%BF%99%E7%A7%8D%E8%AF%9D%23" target="weibo">
-我故意找茬都想不出来这种话（热度：104908）
 </a>
 </li>
 
@@ -8451,12 +8481,6 @@ vivoX300拍到海洋最温柔的巨兽（热度：99613）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E8%AF%B4%E5%B1%B1%E4%B8%9C%E9%98%9F%E4%B8%8D%E5%BC%A0%E6%89%AC%E4%BD%86%E5%8A%AA%E5%8A%9B%23" target="weibo">
-陈梦说山东队不张扬但努力（热度：98571）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E7%94%B7%E5%9B%A2%E5%8F%88%E8%B5%A2%E4%BA%86%23" target="weibo">
 樊振东男团又赢了（热度：98479）
 </a>
@@ -8471,6 +8495,12 @@ vivoX300拍到海洋最温柔的巨兽（热度：99613）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9A%97%E7%A4%BA%E7%A0%94%E5%8F%91%E6%A0%B8%E5%8A%A8%E5%8A%9B%E6%BD%9C%E8%89%87%23" target="weibo">
 高市早苗暗示研发核动力潜艇（热度：98282）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BF%9E%E6%95%8F%E6%B4%AA%E8%BE%9F%E8%B0%A3%E5%9D%90%E9%82%AE%E8%BD%AE%E8%8A%B1148%E4%B8%87%23" target="weibo">
+俞敏洪辟谣坐邮轮花148万（热度：98136）
 </a>
 </li>
 
@@ -9165,6 +9195,12 @@ wps崩了（热度：83376）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E8%A2%81%E7%83%9C%E6%9D%BEvs%E5%BE%90%E7%91%9B%E5%BD%AC%E6%9B%B9%E5%B7%8D%23" target="weibo">
+林高远袁烜松vs徐瑛彬曹巍（热度：81863）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Kael%E8%B9%B2%E5%9C%A8%E8%A7%92%E8%90%BD%E5%8F%91%E5%91%86%23" target="weibo">
 Kael蹲在角落发呆（热度：81323）
 </a>
@@ -9329,6 +9365,12 @@ Kael蹲在角落发呆（热度：81323）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E4%BA%A4%E9%83%A8%E6%95%A6%E4%BF%83%E6%97%A5%E6%96%B9%E5%81%9C%E6%AD%A2%E8%B6%8A%E7%BA%BF%E7%8E%A9%E7%81%AB%23" target="weibo">
 外交部敦促日方停止越线玩火（热度：75706）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E4%B8%9C%E7%9C%81%E4%BD%93%E8%82%B2%E5%B1%80%E7%A5%9D%E8%B4%BA%E4%B9%92%E4%B9%93%E5%A5%B3%E5%9B%A2%E5%A4%BA%E5%86%A0%23" target="weibo">
+山东省体育局祝贺乒乓女团夺冠（热度：75676）
 </a>
 </li>
 
@@ -9875,6 +9917,12 @@ C919和C909首次亮相中东（热度：58900）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E5%8E%86%E5%8F%B2%E4%B8%8A%E6%9C%80%E5%B9%B4%E8%BD%BB%E5%A5%B3%E5%AD%90100%E7%B1%B3%E5%86%A0%E5%86%9B%23" target="weibo">
 全运会历史上最年轻女子100米冠军（热度：56137）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E9%83%BD%E5%A5%B3%E5%AD%90%E5%AE%B6%E9%97%A8%E5%8F%A3%E9%81%87%E5%AE%B3%E6%A1%88%E4%B8%80%E5%AE%A1%E5%BC%80%E5%BA%AD%23" target="weibo">
+成都女子家门口遇害案一审开庭（热度：55646）
 </a>
 </li>
 
