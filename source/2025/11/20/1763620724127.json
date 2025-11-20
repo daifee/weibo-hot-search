@@ -1,0 +1,410 @@
+{
+  "runTime": 1763620724127,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 509894,
+        "num": 1081583,
+        "word": "印度想对华出口水产品",
+        "onboard_time": 1763613084,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407803,
+        "num": 407803,
+        "word": "日本最大核电站将重启运行",
+        "onboard_time": 1763614824,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 9617,
+        "num": 376564,
+        "word": "视听中国看海南",
+        "onboard_time": 1763610503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351332,
+        "num": 351332,
+        "word": "中国对日本的施压正在逐渐上升",
+        "onboard_time": 1763614404,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 244709,
+        "num": 244709,
+        "word": "雷军承诺做好三件事",
+        "onboard_time": 1763613084,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 215579,
+        "num": 215579,
+        "word": "疯狂动物城2因明星配音掉价吗",
+        "onboard_time": 1763619742,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198760,
+        "num": 198760,
+        "word": "尖叫之夜 抢票",
+        "onboard_time": 1763617462,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187464,
+        "num": 187464,
+        "word": "央视曝光加油站作弊花招",
+        "onboard_time": 1763609902,
+        "rank": 7,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 160026,
+        "num": 186610,
+        "word": "武切维奇绝杀开拓者",
+        "onboard_time": 1763618002,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147490,
+        "num": 185477,
+        "word": "曝Keria的建议选择了Peyz",
+        "onboard_time": 1763615423,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 627310,
+        "num": 183644,
+        "word": "母亲赶到时女儿已盖白布手脚在外",
+        "onboard_time": 1763614824,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 572228,
+        "num": 182683,
+        "word": "董璇觉得自己老来得子",
+        "onboard_time": 1763616441,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 435652,
+        "num": 182277,
+        "word": "流感停课",
+        "onboard_time": 1763615242,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 302249,
+        "num": 180800,
+        "word": "方太太患癌",
+        "onboard_time": 1763619442,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219351,
+        "num": 179133,
+        "word": "柬埔寨劫囚女子因高颜值引关注",
+        "onboard_time": 1763607262,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216600,
+        "num": 177139,
+        "word": "日本马上要没有大熊猫了",
+        "onboard_time": 1763599764,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198204,
+        "num": 176678,
+        "word": "渣土车侧翻压死女子肇事车严重超载",
+        "onboard_time": 1763610023,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175848,
+        "num": 175848,
+        "word": "44岁博主确诊胆囊癌仅1个月去世",
+        "onboard_time": 1763617402,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168698,
+        "num": 168698,
+        "word": "何美延教科书式自证",
+        "onboard_time": 1763618303,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114570,
+        "num": 168383,
+        "word": "好久没见这么有质感的古装剧了",
+        "onboard_time": 1763619563,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 974442,
+        "num": 168317,
+        "word": "胡彦斌和妈妈看了易梦玲话剧",
+        "onboard_time": 1763614223,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 651054,
+        "num": 167849,
+        "word": "小黄豆整容",
+        "onboard_time": 1763616741,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 611452,
+        "num": 167509,
+        "word": "胡彦斌易梦玲 郝蕾表演训练营",
+        "onboard_time": 1763617702,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496968,
+        "num": 166991,
+        "word": "许晴",
+        "onboard_time": 1763611103,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26127,
+        "num": 166569,
+        "word": "跟着全运逛湾区",
+        "onboard_time": 1763612662,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844163,
+        "num": 166132,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385435,
+        "num": 165858,
+        "word": "日本舆论已意识到事态十分严重",
+        "onboard_time": 1763619682,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176679,
+        "num": 165409,
+        "word": "日本冲绳再曝驻日美军性暴力事件",
+        "onboard_time": 1763616084,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129895,
+        "num": 165075,
+        "word": "张兴朝李嘉诚花式开尚界上街",
+        "onboard_time": 1763618843,
+        "rank": 28,
+        "category": "艺人,汽车"
+      },
+      {
+        "raw_hot": 125765,
+        "num": 164676,
+        "word": "一村民3年拨打110电话1771次",
+        "onboard_time": 1763618783,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289134,
+        "num": 164355,
+        "word": "月经有5个表现说明子宫很健康",
+        "onboard_time": 1763611943,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 164186,
+        "num": 164186,
+        "word": "内娱顶级美人嗔怒",
+        "onboard_time": 1763607741,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162216,
+        "num": 162216,
+        "word": "朱朱小桃分手",
+        "onboard_time": 1763620642,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 160849,
+        "num": 160849,
+        "word": "马思唯评论区乱成一锅",
+        "onboard_time": 1763602881,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151019,
+        "num": 151019,
+        "word": "狗狗嘴巴被人用扎带捆了一个月",
+        "onboard_time": 1763609361,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141862,
+        "num": 141862,
+        "word": "王安宇看白敬亭李湘看王诗龄",
+        "onboard_time": 1763615842,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140397,
+        "num": 140397,
+        "word": "吴昕一句话点破梁淞的空话",
+        "onboard_time": 1763620341,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108750,
+        "num": 135079,
+        "word": "陈梦发文总结全运会",
+        "onboard_time": 1763616804,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23811,
+        "num": 132083,
+        "word": "队友排队和陈梦合照",
+        "onboard_time": 1763620102,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131743,
+        "num": 131743,
+        "word": "聂九罗的岛",
+        "onboard_time": 1763619922,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124423,
+        "num": 124423,
+        "word": "妈妈借我 全不归还",
+        "onboard_time": 1763617281,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 60494,
+        "num": 122989,
+        "word": "鸭鹅养殖户不看羽绒价看肉价",
+        "onboard_time": 1763619382,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122310,
+        "num": 122310,
+        "word": "朱雨玲称懂陈梦",
+        "onboard_time": 1763619862,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111396,
+        "num": 111396,
+        "word": "杨超越 客厅沙发睡着了",
+        "onboard_time": 1763612484,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108710,
+        "num": 108710,
+        "word": "男子在离婚冷静期毒杀儿子和女儿",
+        "onboard_time": 1763606842,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108700,
+        "num": 108700,
+        "word": "日本很可能在进行某种舆论准备",
+        "onboard_time": 1763620102,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67650,
+        "num": 107928,
+        "word": "传台积电老将携2nm机密赴任英特尔",
+        "onboard_time": 1763618362,
+        "rank": 46,
+        "category": "国内时政,数码"
+      },
+      {
+        "raw_hot": 107595,
+        "num": 107595,
+        "word": "于适官宣合肥演唱会",
+        "onboard_time": 1763620402,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 102118,
+        "num": 102118,
+        "word": "什么剧集齐2个影后4个影帝",
+        "onboard_time": 1763613384,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99838,
+        "num": 99838,
+        "word": "郑大一附院西院区今起停诊",
+        "onboard_time": 1763620582,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的世界文化遗产#"
+    }
+  }
+}
