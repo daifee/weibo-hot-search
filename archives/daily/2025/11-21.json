@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763678427183,
+  "endTime": 1763681136730,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -17,6 +17,14 @@
       "onboard_time": 1763640563,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 573994,
+      "num": 119165,
+      "word": "许昕说对不起家庭和同事",
+      "onboard_time": 1763680578,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 502798,
@@ -99,12 +107,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225544,
+      "num": 225544,
+      "word": "每一个近视眼都该控糖了",
+      "onboard_time": 1763653163,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202193,
       "num": 202193,
       "word": "许昕说我旁边还有个马龙",
       "onboard_time": 1763651362,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202135,
+      "num": 113820,
+      "word": "女孩巴厘岛身亡旅社曾用杀虫剂熏蒸",
+      "onboard_time": 1763652682,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 201546,
+      "num": 201546,
+      "word": "美股",
+      "onboard_time": 1763680458,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 199953,
@@ -171,14 +203,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 131015,
-      "num": 131015,
-      "word": "每一个近视眼都该控糖了",
-      "onboard_time": 1763653163,
-      "rank": 22,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130310,
       "num": 130310,
       "word": "赵雅芝孙女颜值",
@@ -193,6 +217,14 @@
       "onboard_time": 1763643203,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 124784,
+      "num": 107762,
+      "word": "大湾鸡是史上最成功的吉祥物",
+      "onboard_time": 1763657119,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 123726,
@@ -211,12 +243,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 107777,
-      "num": 107777,
-      "word": "女孩巴厘岛身亡旅社曾用杀虫剂熏蒸",
-      "onboard_time": 1763652682,
-      "rank": 28,
-      "category": "海外新闻"
+      "raw_hot": 119184,
+      "num": 119184,
+      "word": "山姆盒马的酸奶是同一家工厂生产",
+      "onboard_time": 1763637502,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105825,
@@ -227,12 +259,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104474,
+      "num": 81139,
+      "word": "胡彦斌曾有段感情因妈妈反对未能结婚",
+      "onboard_time": 1763680639,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "樊振东王楚钦此球只应天上有",
       "onboard_time": 1763650523,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97679,
+      "num": 97679,
+      "word": "满心期待当外婆女儿却在家门口被杀",
+      "onboard_time": 1763680819,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97102,
+      "num": 97102,
+      "word": "曝Knight曾放弃1.5亿大合同",
+      "onboard_time": 1763680458,
+      "rank": 21,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 95046,
+      "num": 95046,
+      "word": "纳斯达克",
+      "onboard_time": 1763680519,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 94997,
@@ -275,20 +339,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 85934,
-      "num": 74402,
-      "word": "大湾鸡是史上最成功的吉祥物",
-      "onboard_time": 1763657119,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85888,
       "num": 85888,
       "word": "肥猫演员郑则仕已瘦70斤",
       "onboard_time": 1763657239,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83889,
+      "num": 67714,
+      "word": "马龙紧急撤回一个王楚钦",
+      "onboard_time": 1763680578,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 79126,
@@ -320,6 +384,14 @@
       "word": "樊振东马龙寒暄",
       "onboard_time": 1763645784,
       "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 75609,
+      "num": 75609,
+      "word": "马龙发博称完美",
+      "onboard_time": 1763680158,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -355,12 +427,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67848,
+      "num": 67848,
+      "word": "易梦玲穿搭像胡彦斌搭配的",
+      "onboard_time": 1763659936,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 66719,
       "num": 66719,
       "word": "谢谢你苏炳添",
       "onboard_time": 1763657538,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66465,
+      "num": 66465,
+      "word": "中国人民解放军不动如山动如雷霆",
+      "onboard_time": 1763680639,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66286,
@@ -379,12 +467,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 64611,
-      "num": 64611,
-      "word": "山姆盒马的酸奶是同一家工厂生产",
-      "onboard_time": 1763637502,
-      "rank": 45,
-      "category": "民生新闻"
+      "raw_hot": 63883,
+      "num": 63883,
+      "word": "研究称孕期压力大宝宝长牙更早",
+      "onboard_time": 1763664555,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 63287,
@@ -419,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57806,
+      "num": 57806,
+      "word": "长沙一民办高中学生连夜转校",
+      "onboard_time": 1763650044,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55161,
       "num": 55161,
       "word": "马龙希望和大家一起好好变老",
@@ -428,26 +524,34 @@
     },
     {
       "raw_hot": 54374,
-      "num": 54374,
+      "num": 97337,
       "word": "盛夏芬德拉剧里那道闪电是真的",
       "onboard_time": 1763659696,
       "rank": 29,
       "category": "剧集"
     },
     {
-      "raw_hot": 53510,
-      "num": 53510,
+      "raw_hot": 53604,
+      "num": 53604,
       "word": "25岁的中年王楚钦",
       "onboard_time": 1763657058,
       "rank": 45,
       "category": "体育"
     },
     {
-      "raw_hot": 43161,
-      "num": 46836,
-      "word": "易梦玲穿搭像胡彦斌搭配的",
-      "onboard_time": 1763659936,
-      "rank": 49,
+      "raw_hot": 51185,
+      "num": 51185,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49307,
+      "num": 49307,
+      "word": "彭小苒 翻车一定比翻红快",
+      "onboard_time": 1763646084,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -460,11 +564,19 @@
     },
     {
       "raw_hot": 36963,
-      "num": 46764,
+      "num": 49283,
       "word": "日本该认清自己更该认清中国",
       "onboard_time": 1763658317,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 34631,
+      "num": 49272,
+      "word": "美股集体走强",
+      "onboard_time": 1763677756,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 34358,
@@ -491,24 +603,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27519,
-      "num": 35194,
-      "word": "研究称孕期压力大宝宝长牙更早",
-      "onboard_time": 1763664555,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 24529,
-      "num": 46700,
-      "word": "彭小苒 翻车一定比翻红快",
-      "onboard_time": 1763646084,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24066,
-      "num": 36701,
+      "raw_hot": 30843,
+      "num": 53706,
       "word": "电影狂野时代",
       "onboard_time": 1763660056,
       "rank": 46,
@@ -531,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 17818,
+      "num": 398497,
+      "word": "一人一句为中国体育加油",
+      "onboard_time": 1763650461,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17447,
       "num": 46642,
       "word": "苏炳添说不会离开田径",
@@ -545,14 +649,6 @@
       "onboard_time": 1763673553,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 16514,
-      "num": 398497,
-      "word": "一人一句为中国体育加油",
-      "onboard_time": 1763650461,
-      "rank": 2,
-      "category": "体育"
     },
     {
       "raw_hot": 13739,

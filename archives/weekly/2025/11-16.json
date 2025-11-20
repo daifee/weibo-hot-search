@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763678427183,
+  "endTime": 1763681136730,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -1657,6 +1657,14 @@
       "onboard_time": 1763627362,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 573994,
+      "num": 119165,
+      "word": "许昕说对不起家庭和同事",
+      "onboard_time": 1763680578,
+      "rank": 10,
+      "category": "体育"
     },
     {
       "raw_hot": 572228,
@@ -5355,6 +5363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 225544,
+      "num": 225544,
+      "word": "每一个近视眼都该控糖了",
+      "onboard_time": 1763653163,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 225012,
       "num": 236942,
       "word": "杨瀚森高效得到4分",
@@ -6003,6 +6019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202135,
+      "num": 136515,
+      "word": "女孩巴厘岛身亡旅社曾用杀虫剂熏蒸",
+      "onboard_time": 1763652682,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 202060,
       "num": 161913,
       "word": "elk删除了清者自清的微博",
@@ -6041,6 +6065,14 @@
       "onboard_time": 1763550022,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201546,
+      "num": 201546,
+      "word": "美股",
+      "onboard_time": 1763508258,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 201436,
@@ -10499,14 +10531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 131015,
-      "num": 131015,
-      "word": "每一个近视眼都该控糖了",
-      "onboard_time": 1763653163,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 130970,
       "num": 130970,
       "word": "C罗参加白宫晚宴",
@@ -11017,6 +11041,14 @@
       "onboard_time": 1763635460,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124784,
+      "num": 107762,
+      "word": "大湾鸡是史上最成功的吉祥物",
+      "onboard_time": 1763657119,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 124778,
@@ -12579,14 +12611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 110086,
-      "num": 120583,
-      "word": "美股",
-      "onboard_time": 1763508258,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 109802,
       "num": 425120,
       "word": "A股缩量177亿调整",
@@ -12801,14 +12825,6 @@
       "onboard_time": 1763636723,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107777,
-      "num": 136515,
-      "word": "女孩巴厘岛身亡旅社曾用杀虫剂熏蒸",
-      "onboard_time": 1763652682,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 107703,
@@ -13161,6 +13177,14 @@
       "onboard_time": 1763516541,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104474,
+      "num": 81139,
+      "word": "胡彦斌曾有段感情因妈妈反对未能结婚",
+      "onboard_time": 1763680639,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 104347,
@@ -13803,6 +13827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97679,
+      "num": 97679,
+      "word": "满心期待当外婆女儿却在家门口被杀",
+      "onboard_time": 1763680819,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97590,
       "num": 294924,
       "word": "内娱首个呕像综艺出现了",
@@ -13849,6 +13881,14 @@
       "onboard_time": 1763519539,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 97102,
+      "num": 97102,
+      "word": "曝Knight曾放弃1.5亿大合同",
+      "onboard_time": 1763680458,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 97050,
@@ -13985,6 +14025,14 @@
       "onboard_time": 1763465002,
       "rank": 48,
       "category": "美食,剧集"
+    },
+    {
+      "raw_hot": 95046,
+      "num": 95046,
+      "word": "纳斯达克",
+      "onboard_time": 1763680519,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 95020,
@@ -14587,14 +14635,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 85934,
-      "num": 74402,
-      "word": "大湾鸡是史上最成功的吉祥物",
-      "onboard_time": 1763657119,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
       "raw_hot": 85899,
       "num": 120543,
       "word": "98版杨过小龙女重聚",
@@ -14793,6 +14833,14 @@
       "onboard_time": 1763378182,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 83889,
+      "num": 67714,
+      "word": "马龙紧急撤回一个王楚钦",
+      "onboard_time": 1763680578,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 83838,
@@ -15139,6 +15187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 75609,
+      "num": 75609,
+      "word": "马龙发博称完美",
+      "onboard_time": 1763680158,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75520,
       "num": 188413,
       "word": "释永信涉嫌挪用资金罪",
@@ -15459,6 +15515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 67848,
+      "num": 67848,
+      "word": "易梦玲穿搭像胡彦斌搭配的",
+      "onboard_time": 1763659936,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67801,
       "num": 210444,
       "word": "华为MateX7实拍样张首曝",
@@ -15529,6 +15593,14 @@
       "onboard_time": 1763280081,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 66465,
+      "num": 66465,
+      "word": "中国人民解放军不动如山动如雷霆",
+      "onboard_time": 1763680639,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66412,
@@ -15641,6 +15713,14 @@
       "onboard_time": 1763284762,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63883,
+      "num": 63883,
+      "word": "研究称孕期压力大宝宝长牙更早",
+      "onboard_time": 1763664555,
+      "rank": 48,
+      "category": "科学科普"
     },
     {
       "raw_hot": 63776,
@@ -15923,6 +16003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 57806,
+      "num": 57806,
+      "word": "长沙一民办高中学生连夜转校",
+      "onboard_time": 1763650044,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57591,
       "num": 227035,
       "word": "谁是郑钦文的最佳拍档",
@@ -16076,7 +16164,7 @@
     },
     {
       "raw_hot": 54374,
-      "num": 54374,
+      "num": 97337,
       "word": "盛夏芬德拉剧里那道闪电是真的",
       "onboard_time": 1763659696,
       "rank": 29,
@@ -16115,6 +16203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53604,
+      "num": 53604,
+      "word": "25岁的中年王楚钦",
+      "onboard_time": 1763657058,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 53594,
       "num": 154319,
       "word": "民警卧底传销组织曝光疯狂洗脑场面",
@@ -16137,14 +16233,6 @@
       "onboard_time": 1763336239,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 53510,
-      "num": 53510,
-      "word": "25岁的中年王楚钦",
-      "onboard_time": 1763657058,
-      "rank": 45,
-      "category": "体育"
     },
     {
       "raw_hot": 53477,
@@ -16739,14 +16827,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 43161,
-      "num": 46836,
-      "word": "易梦玲穿搭像胡彦斌搭配的",
-      "onboard_time": 1763659936,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 43080,
       "num": 417172,
       "word": "女子家门口遇害案凶手声称无辜",
@@ -17124,7 +17204,7 @@
     },
     {
       "raw_hot": 36963,
-      "num": 46764,
+      "num": 49283,
       "word": "日本该认清自己更该认清中国",
       "onboard_time": 1763658317,
       "rank": 44,
@@ -17273,6 +17353,14 @@
       "onboard_time": 1763633661,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34631,
+      "num": 49272,
+      "word": "美股集体走强",
+      "onboard_time": 1763677756,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 34614,
@@ -17643,6 +17731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 30843,
+      "num": 53706,
+      "word": "电影狂野时代",
+      "onboard_time": 1763660056,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 30820,
       "num": 117972,
       "word": "日元对主要货币均下跌",
@@ -17817,14 +17913,6 @@
       "onboard_time": 1763279361,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 27519,
-      "num": 35194,
-      "word": "研究称孕期压力大宝宝长牙更早",
-      "onboard_time": 1763664555,
-      "rank": 48,
-      "category": "科学科普"
     },
     {
       "raw_hot": 27440,
@@ -18065,14 +18153,6 @@
       "onboard_time": 1763476344,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24066,
-      "num": 36701,
-      "word": "电影狂野时代",
-      "onboard_time": 1763660056,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 23921,
