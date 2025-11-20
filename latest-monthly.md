@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 23:44:07
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 00:35:30
 </p>
 </blockquote>
 <p>
@@ -1857,6 +1857,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B1%82%E9%94%A4%E5%BE%97%E9%94%A4%E4%BA%86%23" target="weibo">
+高市早苗求锤得锤了（热度：866194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%AE%98%E5%91%98%E4%BD%8E%E5%A4%B4%E5%90%AC%E4%B8%AD%E6%96%B9%E8%AE%B2%E8%AF%9D%23" target="weibo">
 日本官员低头听中方讲话（热度：866072）
 </a>
@@ -2975,12 +2981,6 @@ Uzi颁奖（热度：677194）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A5%89%E6%89%93%E6%9B%B4%E4%BA%BA%E5%AE%98%E5%AE%A3%E7%AC%AC%E4%BA%8C%E5%AD%A3%23" target="weibo">
 大奉打更人官宣第二季（热度：675805）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B1%82%E9%94%A4%E5%BE%97%E9%94%A4%E4%BA%86%23" target="weibo">
-高市早苗求锤得锤了（热度：675284）
 </a>
 </li>
 
