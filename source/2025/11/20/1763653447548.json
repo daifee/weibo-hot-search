@@ -1,0 +1,410 @@
+{
+  "runTime": 1763653447548,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 990629,
+        "num": 1158500,
+        "word": "马龙拿下生涯唯一空缺金牌",
+        "onboard_time": 1763647223,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 768604,
+        "num": 768604,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763635883,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24255,
+        "num": 708972,
+        "word": "一人一句为中国体育加油",
+        "onboard_time": 1763650461,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 675284,
+        "num": 675284,
+        "word": "高市早苗求锤得锤了",
+        "onboard_time": 1763650461,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 243060,
+        "num": 243060,
+        "word": "苏炳添最后一舞",
+        "onboard_time": 1763639483,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 648814,
+        "num": 243007,
+        "word": "红果短剧推出演员分账",
+        "onboard_time": 1763647644,
+        "rank": 5,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 311392,
+        "num": 242911,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291986,
+        "num": 242804,
+        "word": "日本反对日本",
+        "onboard_time": 1763642905,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 271325,
+        "num": 242688,
+        "word": "樊振东许昕周恺亚军",
+        "onboard_time": 1763643024,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 199501,
+        "num": 242665,
+        "word": "卢凌风气死我了",
+        "onboard_time": 1763645424,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 733318,
+        "num": 242522,
+        "word": "罗晋父亲离世",
+        "onboard_time": 1763635763,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191431,
+        "num": 242396,
+        "word": "50多万名中国游客取消原定日本行程",
+        "onboard_time": 1763651483,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 425199,
+        "num": 242302,
+        "word": "时代峰峻 催氪",
+        "onboard_time": 1763647283,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350731,
+        "num": 242270,
+        "word": "许昕说我旁边还有个马龙",
+        "onboard_time": 1763651362,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 309176,
+        "num": 242081,
+        "word": "美国对中日关系持谨慎态度",
+        "onboard_time": 1763648662,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 658294,
+        "num": 242043,
+        "word": "罗晋这一年都在北京照顾父亲",
+        "onboard_time": 1763650943,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274441,
+        "num": 241972,
+        "word": "王橹杰 魅魔",
+        "onboard_time": 1763648243,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50263,
+        "num": 241819,
+        "word": "张婧仪张凌赫神颜同框",
+        "onboard_time": 1763651123,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39884,
+        "num": 241775,
+        "word": "女子回应父亲花60万后离世举报医院",
+        "onboard_time": 1763652863,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38294,
+        "num": 241676,
+        "word": "日本谋划21万亿日元经济刺激计划",
+        "onboard_time": 1763652743,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 896070,
+        "num": 241559,
+        "word": "胡彦斌 法庭上带着你的破视频",
+        "onboard_time": 1763640563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275931,
+        "num": 241395,
+        "word": "韩安娜怀宝宝了",
+        "onboard_time": 1763642602,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 249902,
+        "num": 241319,
+        "word": "赵雅芝孙女颜值",
+        "onboard_time": 1763638221,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241297,
+        "num": 241297,
+        "word": "时代峰峻 签售",
+        "onboard_time": 1763643203,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209993,
+        "num": 209993,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1763638763,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 746210,
+        "num": 206283,
+        "word": "胡彦斌易梦玲还在马尔代夫",
+        "onboard_time": 1763651123,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192719,
+        "num": 192719,
+        "word": "Alin竟然瘦成这样了",
+        "onboard_time": 1763651603,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177533,
+        "num": 177533,
+        "word": "王楚钦回应头撞球桌",
+        "onboard_time": 1763649923,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 169975,
+        "num": 169975,
+        "word": "樊振东马龙寒暄",
+        "onboard_time": 1763645784,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 116706,
+        "num": 168629,
+        "word": "汪苏泷广州跨年演唱会",
+        "onboard_time": 1763637442,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19904,
+        "num": 167386,
+        "word": "毕宝文被查",
+        "onboard_time": 1763651662,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167334,
+        "num": 167334,
+        "word": "烟台压死女老师渣土车司机被定全责",
+        "onboard_time": 1763644703,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166725,
+        "num": 166725,
+        "word": "王楚钦我也没那么老吧",
+        "onboard_time": 1763651842,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160608,
+        "num": 160608,
+        "word": "这居然是江疏影",
+        "onboard_time": 1763633422,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157165,
+        "num": 157165,
+        "word": "樊振东全运会乒乓球奖牌榜第一",
+        "onboard_time": 1763650163,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143996,
+        "num": 143996,
+        "word": "王楚钦全运会第2金",
+        "onboard_time": 1763644584,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60920,
+        "num": 141637,
+        "word": "华为乾崑有境界",
+        "onboard_time": 1763647524,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 141600,
+        "num": 141600,
+        "word": "山姆盒马的酸奶是同一家工厂生产",
+        "onboard_time": 1763637502,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18836,
+        "num": 137491,
+        "word": "高校招聘会现养生会所招聘美容师",
+        "onboard_time": 1763652863,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84922,
+        "num": 136515,
+        "word": "女孩巴厘岛身亡旅社曾用杀虫剂熏蒸",
+        "onboard_time": 1763652682,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136336,
+        "num": 136336,
+        "word": "全场送别苏炳添",
+        "onboard_time": 1763649023,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135573,
+        "num": 135573,
+        "word": "王橹杰tears变装",
+        "onboard_time": 1763648125,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 134005,
+        "num": 134005,
+        "word": "樊振东王楚钦此球只应天上有",
+        "onboard_time": 1763650523,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133585,
+        "num": 133585,
+        "word": "马龙乒坛历史第一人",
+        "onboard_time": 1763646743,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130843,
+        "num": 130843,
+        "word": "龙蟒",
+        "onboard_time": 1763644463,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127711,
+        "num": 127711,
+        "word": "每一个近视眼都该控糖了",
+        "onboard_time": 1763653163,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126197,
+        "num": 126197,
+        "word": "杨博文飞无人机",
+        "onboard_time": 1763652382,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123930,
+        "num": 123930,
+        "word": "彭小苒 翻车一定比翻红快",
+        "onboard_time": 1763646084,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115592,
+        "num": 115592,
+        "word": "张凌赫张婧仪 王子和公主",
+        "onboard_time": 1763638884,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106433,
+        "num": 106433,
+        "word": "王楚钦vs许昕",
+        "onboard_time": 1763640743,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视体育强国建设#"
+    }
+  }
+}

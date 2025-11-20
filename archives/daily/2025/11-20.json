@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763652598362,
+  "endTime": 1763653447548,
   "band_list": [
     {
       "raw_hot": 9551582,
@@ -307,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 675284,
+      "num": 675284,
+      "word": "高市早苗求锤得锤了",
+      "onboard_time": 1763650461,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 675100,
       "num": 675100,
       "word": "央视曝光加油站作弊花招",
@@ -489,14 +497,6 @@
       "onboard_time": 1763619442,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 451163,
-      "num": 451163,
-      "word": "高市早苗求锤得锤了",
-      "onboard_time": 1763650461,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 450410,
@@ -688,6 +688,14 @@
       "word": "马龙还是马龙",
       "onboard_time": 1763641823,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 350731,
+      "num": 259319,
+      "word": "许昕说我旁边还有个马龙",
+      "onboard_time": 1763651362,
+      "rank": 14,
       "category": "体育"
     },
     {
@@ -985,14 +993,6 @@
       "onboard_time": 1763611163,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 259319,
-      "num": 259319,
-      "word": "许昕说我旁边还有个马龙",
-      "onboard_time": 1763651362,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 254218,
@@ -1443,6 +1443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192719,
+      "num": 192719,
+      "word": "Alin竟然瘦成这样了",
+      "onboard_time": 1763651603,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 191812,
       "num": 197035,
       "word": "启境将推出华系首款猎装轿跑",
@@ -1457,6 +1465,14 @@
       "onboard_time": 1763560643,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191431,
+      "num": 242396,
+      "word": "50多万名中国游客取消原定日本行程",
+      "onboard_time": 1763651483,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 190860,
@@ -1603,14 +1619,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 177615,
-      "num": 177615,
-      "word": "Alin竟然瘦成这样了",
-      "onboard_time": 1763651603,
-      "rank": 35,
-      "category": "演出"
-    },
-    {
       "raw_hot": 177456,
       "num": 328565,
       "word": "华为乾崑第一境启境登场",
@@ -1721,6 +1729,14 @@
       "onboard_time": 1763622501,
       "rank": 34,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 166725,
+      "num": 166725,
+      "word": "王楚钦我也没那么老吧",
+      "onboard_time": 1763651842,
+      "rank": 41,
+      "category": "体育"
     },
     {
       "raw_hot": 166684,
@@ -1841,14 +1857,6 @@
       "onboard_time": 1763549003,
       "rank": 7,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 160131,
-      "num": 160131,
-      "word": "王楚钦我也没那么老吧",
-      "onboard_time": 1763651842,
-      "rank": 41,
-      "category": "体育"
     },
     {
       "raw_hot": 160026,
@@ -2211,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134005,
+      "num": 134005,
+      "word": "樊振东王楚钦此球只应天上有",
+      "onboard_time": 1763650523,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133522,
       "num": 133522,
       "word": "短剧女主 忍无可忍边拍边骂",
@@ -2283,14 +2299,6 @@
       "category": "艺人,汽车"
     },
     {
-      "raw_hot": 129669,
-      "num": 129669,
-      "word": "樊振东王楚钦此球只应天上有",
-      "onboard_time": 1763650523,
-      "rank": 46,
-      "category": "体育"
-    },
-    {
       "raw_hot": 129114,
       "num": 129114,
       "word": "文在寅成韩国首位当博主前总统",
@@ -2305,6 +2313,14 @@
       "onboard_time": 1763627183,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127711,
+      "num": 127711,
+      "word": "每一个近视眼都该控糖了",
+      "onboard_time": 1763653163,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 127387,
@@ -2963,14 +2979,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98651,
-      "num": 233308,
-      "word": "50多万名中国游客取消原定日本行程",
-      "onboard_time": 1763651483,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 98348,
       "num": 98348,
       "word": "雅思组合回应全运会金牌",
@@ -3177,6 +3185,14 @@
       "onboard_time": 1763606542,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 84922,
+      "num": 136515,
+      "word": "女孩巴厘岛身亡旅社曾用杀虫剂熏蒸",
+      "onboard_time": 1763652682,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 84892,
@@ -3628,7 +3644,7 @@
     },
     {
       "raw_hot": 50830,
-      "num": 232688,
+      "num": 241819,
       "word": "张婧仪张凌赫神颜同框",
       "onboard_time": 1763651123,
       "rank": 19,
@@ -3755,6 +3771,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 39884,
+      "num": 241775,
+      "word": "女子回应父亲花60万后离世举报医院",
+      "onboard_time": 1763652863,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39162,
       "num": 208621,
       "word": "以前没发现还珠格格这么颠",
@@ -3777,6 +3801,14 @@
       "onboard_time": 1763632822,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 38294,
+      "num": 241676,
+      "word": "日本谋划21万亿日元经济刺激计划",
+      "onboard_time": 1763652743,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37676,
@@ -4004,7 +4036,7 @@
     },
     {
       "raw_hot": 24322,
-      "num": 474627,
+      "num": 708972,
       "word": "一人一句为中国体育加油",
       "onboard_time": 1763650461,
       "rank": 2,
@@ -4105,6 +4137,14 @@
       "onboard_time": 1763566762,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18836,
+      "num": 137491,
+      "word": "高校招聘会现养生会所招聘美容师",
+      "onboard_time": 1763652863,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18708,
