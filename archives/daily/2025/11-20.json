@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763616472445,
+  "endTime": 1763617437361,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1996347,
-      "num": 179086,
+      "num": 211448,
       "word": "胡彦斌和妈妈看了易梦玲话剧",
       "onboard_time": 1763614223,
       "rank": 21,
@@ -91,6 +91,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 698116,
+      "num": 1111698,
+      "word": "印度想对华出口水产品",
+      "onboard_time": 1763613084,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 675100,
       "num": 675100,
       "word": "央视曝光加油站作弊花招",
@@ -139,14 +147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 521012,
-      "num": 1083361,
-      "word": "印度想对华出口水产品",
-      "onboard_time": 1763613084,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 516444,
       "num": 907700,
       "word": "日本多次不宣而战",
@@ -187,12 +187,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 405177,
+      "num": 205823,
+      "word": "小黄豆整容",
+      "onboard_time": 1763616741,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 384573,
       "num": 264213,
       "word": "鹿晗先给哪个小猫吃",
       "onboard_time": 1763610023,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 380480,
+      "num": 380480,
+      "word": "日本最大核电站将重启运行",
+      "onboard_time": 1763614824,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 358115,
@@ -259,6 +275,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 316795,
+      "num": 226407,
+      "word": "董璇觉得自己老来得子",
+      "onboard_time": 1763616441,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 294376,
       "num": 294376,
       "word": "大生意人定档",
@@ -273,6 +297,14 @@
       "onboard_time": 1763603841,
       "rank": 5,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 285068,
+      "num": 221341,
+      "word": "流感停课",
+      "onboard_time": 1763615242,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 280394,
@@ -297,6 +329,14 @@
       "onboard_time": 1763595620,
       "rank": 4,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 269708,
+      "num": 269708,
+      "word": "雷军承诺做好三件事",
+      "onboard_time": 1763613084,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 268209,
@@ -387,14 +427,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 235444,
-      "num": 235444,
-      "word": "日本最大核电站将重启运行",
-      "onboard_time": 1763614824,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 234410,
       "num": 279510,
       "word": "什么剧集齐2个影后4个影帝",
@@ -443,6 +475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 214262,
+      "num": 214262,
+      "word": "母亲赶到时女儿已盖白布手脚在外",
+      "onboard_time": 1763614824,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214195,
       "num": 214195,
       "word": "狗狗嘴巴被人用扎带捆了一个月",
@@ -467,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 204066,
+      "num": 232059,
+      "word": "陈梦发文总结全运会",
+      "onboard_time": 1763616804,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202947,
       "num": 202947,
       "word": "陈梦王晓彤范思琦冠军",
@@ -481,6 +529,14 @@
       "onboard_time": 1763553922,
       "rank": 21,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200101,
+      "num": 200101,
+      "word": "王安宇看白敬亭李湘看王诗龄",
+      "onboard_time": 1763615842,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 199323,
@@ -531,14 +587,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 196921,
-      "num": 196921,
-      "word": "雷军承诺做好三件事",
-      "onboard_time": 1763613084,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 194885,
       "num": 210495,
       "word": "吴易昺全运会男单金牌",
@@ -571,6 +619,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187678,
+      "num": 200237,
+      "word": "Papi说爱妻人设是梁淞的造型需求",
+      "onboard_time": 1763616023,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183767,
       "num": 178962,
       "word": "曝Keria的建议选择了Peyz",
@@ -588,7 +644,7 @@
     },
     {
       "raw_hot": 179234,
-      "num": 179234,
+      "num": 229525,
       "word": "凤凰台上离婚夫妻再见的第一面",
       "onboard_time": 1763615962,
       "rank": 9,
@@ -609,14 +665,6 @@
       "onboard_time": 1763611883,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 173206,
-      "num": 173206,
-      "word": "王安宇看白敬亭李湘看王诗龄",
-      "onboard_time": 1763615842,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 170370,
@@ -659,6 +707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 166933,
+      "num": 200992,
+      "word": "日本冲绳再曝驻日美军性暴力事件",
+      "onboard_time": 1763616084,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 163081,
       "num": 228270,
       "word": "清华美女研究生全运会冠军",
@@ -699,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161012,
+      "num": 161012,
+      "word": "陈梦感谢家人球迷",
+      "onboard_time": 1763616322,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 160377,
       "num": 185436,
       "word": "俄罗斯警告高市早苗",
@@ -715,22 +779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 157423,
-      "num": 157423,
-      "word": "陈梦感谢家人球迷",
-      "onboard_time": 1763616322,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 156795,
-      "num": 156795,
-      "word": "母亲赶到时女儿已盖白布手脚在外",
-      "onboard_time": 1763614824,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 155457,
       "num": 155457,
       "word": "俞敏洪说明年支持员工来南极",
@@ -739,12 +787,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 153185,
-      "num": 152495,
-      "word": "流感停课",
-      "onboard_time": 1763615242,
-      "rank": 41,
-      "category": "民生新闻"
+      "raw_hot": 152836,
+      "num": 152836,
+      "word": "王楚然沈羽洁与徐公孰美",
+      "onboard_time": 1763617224,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 152001,
@@ -827,20 +875,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144235,
-      "num": 144235,
-      "word": "董璇觉得自己老来得子",
-      "onboard_time": 1763616441,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 143027,
       "num": 179010,
       "word": "美国这次没敢公开偏袒日本",
       "onboard_time": 1763614824,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 142161,
+      "num": 142161,
+      "word": "雷军到场见证第50万辆整车下产线",
+      "onboard_time": 1763616741,
+      "rank": 37,
+      "category": "汽车"
     },
     {
       "raw_hot": 141486,
@@ -881,6 +929,14 @@
       "onboard_time": 1763607622,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133522,
+      "num": 133522,
+      "word": "短剧女主 忍无可忍边拍边骂",
+      "onboard_time": 1763617281,
+      "rank": 42,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 133401,
@@ -939,6 +995,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126597,
+      "num": 126597,
+      "word": "妈妈借我 全不归还",
+      "onboard_time": 1763617281,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124283,
       "num": 124283,
       "word": "林高远袁烜松3比1徐瑛彬曹巍",
@@ -953,6 +1017,14 @@
       "onboard_time": 1763601264,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122884,
+      "num": 122884,
+      "word": "房地产",
+      "onboard_time": 1763614524,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122633,
@@ -977,6 +1049,14 @@
       "onboard_time": 1763593878,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118212,
+      "num": 118212,
+      "word": "44岁博主确诊胆囊癌仅1个月去世",
+      "onboard_time": 1763617402,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117988,
@@ -1009,14 +1089,6 @@
       "onboard_time": 1763610983,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116960,
-      "num": 179001,
-      "word": "日本冲绳再曝驻日美军性暴力事件",
-      "onboard_time": 1763616084,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 116642,
@@ -1179,14 +1251,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98137,
-      "num": 152589,
-      "word": "Papi说爱妻人设是梁淞的造型需求",
-      "onboard_time": 1763616023,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 98136,
       "num": 98136,
       "word": "俞敏洪辟谣坐邮轮花148万",
@@ -1201,6 +1265,14 @@
       "onboard_time": 1763608102,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94150,
+      "num": 152842,
+      "word": "能跟上王一博的不是站姐是战狼",
+      "onboard_time": 1763615962,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 92822,
@@ -1345,14 +1417,6 @@
       "onboard_time": 1763560762,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 77184,
-      "num": 152842,
-      "word": "能跟上王一博的不是站姐是战狼",
-      "onboard_time": 1763615962,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 75676,
@@ -1571,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53594,
+      "num": 154319,
+      "word": "民警卧底传销组织曝光疯狂洗脑场面",
+      "onboard_time": 1763616441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51688,
       "num": 180385,
       "word": "唐朝诡事录海报疑似叠图刘亦菲剧照",
@@ -1633,14 +1705,6 @@
       "onboard_time": 1763612904,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 38425,
-      "num": 154319,
-      "word": "民警卧底传销组织曝光疯狂洗脑场面",
-      "onboard_time": 1763616441,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37676,
