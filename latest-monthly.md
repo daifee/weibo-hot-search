@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 11:33:15
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/20 11:58:19
 </p>
 </blockquote>
 <p>
@@ -407,6 +407,12 @@ T1对战TES（热度：1793569）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%99%93%E9%9C%9E%E9%AB%98%E8%8F%A1%E8%A7%A3%E8%AF%B4%23" target="weibo">
 李晓霞高菡解说（热度：1702680）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E7%AB%9F%E8%A6%81%E6%B1%82%E4%B8%AD%E6%96%B9%E8%A7%A3%E9%87%8A%23" target="weibo">
+日方竟要求中方解释（热度：1701344）
 </a>
 </li>
 
@@ -2181,6 +2187,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%83%85%E5%8F%B2%23" target="weibo">
+胡彦斌易梦玲情史（热度：768552）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
 枭起青壤（热度：768523）
 </a>
@@ -2213,6 +2225,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E5%86%85%E5%9C%BA%23" target="weibo">
 微博视界大会内场（热度：766353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%A1%B6%E7%BA%A7%E7%BE%8E%E4%BA%BA%E5%97%94%E6%80%92%23" target="weibo">
+内娱顶级美人嗔怒（热度：765820）
 </a>
 </li>
 
@@ -3291,12 +3309,6 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E9%A1%B6%E7%BA%A7%E7%BE%8E%E4%BA%BA%E5%97%94%E6%80%92%23" target="weibo">
-内娱顶级美人嗔怒（热度：625427）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%23" target="weibo">
 小米（热度：625250）
 </a>
@@ -3473,6 +3485,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%97%E5%9C%83%20%E8%87%B3%E4%BB%8A%E5%86%85%E5%A8%B1%E6%97%A0%E4%BB%A3%E9%A4%90%23" target="weibo">
 苗圃 至今内娱无代餐（热度：606252）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E7%A6%BB%E5%A9%9A%E5%86%B7%E9%9D%99%E6%9C%9F%E6%AF%92%E6%9D%80%E5%84%BF%E5%AD%90%E5%92%8C%E5%A5%B3%E5%84%BF%23" target="weibo">
+男子在离婚冷静期毒杀儿子和女儿（热度：605949）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Kanavi HLE（热度：442015）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Amy%E5%A7%90%E6%9B%9D%E6%BD%98%E7%8E%AE%E6%9F%8F%E5%AE%A3%E4%BA%91%E6%81%8B%E7%88%B1%E5%86%85%E5%B9%95%23" target="weibo">
 Amy姐曝潘玮柏宣云恋爱内幕（热度：436484）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%8D%83%E4%B8%9E188%E7%94%B7%E5%9B%A2%E5%B0%86%E5%BD%B1%E8%A7%86%E5%8C%96%23" target="weibo">
-水千丞188男团将影视化（热度：435890）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BB%8F%E6%B5%8E%E7%BB%B7%E4%B8%8D%E4%BD%8F%E4%BA%86%23" target="weibo">
-日本经济绷不住了（热度：435526）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E7%A7%B0%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E5%85%8D%E7%AD%BE%E6%94%BF%E7%AD%96%E8%BF%91%E6%9C%9F%E7%94%9F%E6%95%88%23" target="weibo">
-普京称中国公民免签政策近期生效（热度：435319）
 </a>
 </li>
 

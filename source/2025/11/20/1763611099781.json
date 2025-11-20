@@ -1,0 +1,410 @@
+{
+  "runTime": 1763611099781,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 309644,
+        "num": 1049543,
+        "word": "小米第50万辆整车正式下产线",
+        "onboard_time": 1763607802,
+        "rank": 0,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 930142,
+        "num": 930142,
+        "word": "日本马上要没有大熊猫了",
+        "onboard_time": 1763599764,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23876,
+        "num": 330260,
+        "word": "视听中国看海南",
+        "onboard_time": 1763610503,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260483,
+        "num": 260483,
+        "word": "高市早苗曾向身边人坦言说过头了",
+        "onboard_time": 1763597544,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250439,
+        "num": 250439,
+        "word": "中方对日反制层层加码",
+        "onboard_time": 1763602282,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238204,
+        "num": 238204,
+        "word": "日本牛肉恢复对华出口磋商也停了",
+        "onboard_time": 1763601144,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 218585,
+        "num": 218585,
+        "word": "迪丽热巴播剧粉丝精神状态",
+        "onboard_time": 1763607681,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213773,
+        "num": 213773,
+        "word": "日本多次不宣而战",
+        "onboard_time": 1763559983,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198650,
+        "num": 198650,
+        "word": "疯狂动物城2演员配音是抢活吗",
+        "onboard_time": 1763605581,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 156399,
+        "num": 198575,
+        "word": "央视曝光加油站作弊花招",
+        "onboard_time": 1763609902,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1701344,
+        "num": 198308,
+        "word": "日方竟要求中方解释",
+        "onboard_time": 1763609902,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 682681,
+        "num": 198109,
+        "word": "柬埔寨劫囚女子因高颜值引关注",
+        "onboard_time": 1763607262,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 605949,
+        "num": 197760,
+        "word": "男子在离婚冷静期毒杀儿子和女儿",
+        "onboard_time": 1763606842,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477797,
+        "num": 197580,
+        "word": "建议不要在网上买太便宜的水果",
+        "onboard_time": 1763596461,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 392349,
+        "num": 197373,
+        "word": "董璇和佟丽娅商量孩子去哪上学",
+        "onboard_time": 1763608041,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230240,
+        "num": 197171,
+        "word": "日本挑衅的代价不止股市三杀",
+        "onboard_time": 1763607202,
+        "rank": 15,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 161384,
+        "num": 196799,
+        "word": "卢凌风到底偷偷报了几个班啊",
+        "onboard_time": 1763608882,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212207,
+        "num": 196625,
+        "word": "四喜死去的公公疯了的婆婆上门的小三",
+        "onboard_time": 1763596883,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48419,
+        "num": 196355,
+        "word": "加油站悄无声息一键偷油",
+        "onboard_time": 1763609902,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43719,
+        "num": 196232,
+        "word": "官方通报陌生人闯入熟睡婴儿房间",
+        "onboard_time": 1763610082,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2400364,
+        "num": 195979,
+        "word": "疑似胡彦斌易梦玲恋情",
+        "onboard_time": 1763593878,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 863515,
+        "num": 195615,
+        "word": "马思唯评论区乱成一锅",
+        "onboard_time": 1763602881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 765820,
+        "num": 195321,
+        "word": "内娱顶级美人嗔怒",
+        "onboard_time": 1763607741,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265259,
+        "num": 195155,
+        "word": "鹿晗先给哪个小猫吃",
+        "onboard_time": 1763610023,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247182,
+        "num": 194898,
+        "word": "易梦玲 音乐才子",
+        "onboard_time": 1763605102,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 768552,
+        "num": 194756,
+        "word": "胡彦斌易梦玲情史",
+        "onboard_time": 1763609662,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194598,
+        "num": 194598,
+        "word": "狗狗嘴巴被人用扎带捆了一个月",
+        "onboard_time": 1763609361,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170346,
+        "num": 170346,
+        "word": "如果战斗就在今夜打响",
+        "onboard_time": 1763595620,
+        "rank": 27,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 170370,
+        "num": 165370,
+        "word": "丁禹兮联合国气候大会全英文发言",
+        "onboard_time": 1763610263,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159596,
+        "num": 159596,
+        "word": "霍震霆主动求加入孙子旅行",
+        "onboard_time": 1763604022,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162936,
+        "num": 158432,
+        "word": "普京作出最新涉华表态",
+        "onboard_time": 1763610381,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 155484,
+        "num": 155484,
+        "word": "建议把早睡放在第一位",
+        "onboard_time": 1763597243,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147749,
+        "num": 147749,
+        "word": "日本政府被判赔偿39亿日元",
+        "onboard_time": 1763609783,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139558,
+        "num": 139558,
+        "word": "时代少年团答题",
+        "onboard_time": 1763608581,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138594,
+        "num": 138594,
+        "word": "母亲带遇害女儿彩色遗像出庭",
+        "onboard_time": 1763605702,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115467,
+        "num": 134628,
+        "word": "内娱邪恶垂耳兔家族又来新人了",
+        "onboard_time": 1763610983,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133401,
+        "num": 133401,
+        "word": "日本多次兵棋推演台湾有事",
+        "onboard_time": 1763608461,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 34614,
+        "num": 132306,
+        "word": "家门口遇害女子最后一句话我被捅了",
+        "onboard_time": 1763610082,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30291,
+        "num": 130812,
+        "word": "枫叶红了赴日游客退了",
+        "onboard_time": 1763610082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94159,
+        "num": 128631,
+        "word": "渣土车侧翻压死女子肇事车严重超载",
+        "onboard_time": 1763610023,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106054,
+        "num": 127621,
+        "word": "短剧演员不用背台词的原因找到了",
+        "onboard_time": 1763593878,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126901,
+        "num": 126901,
+        "word": "婴儿独留屋内酒店帮醉汉开门闯入",
+        "onboard_time": 1763610442,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126606,
+        "num": 126606,
+        "word": "全剧尺度最大的戏是鹤男和张耀给的",
+        "onboard_time": 1763607081,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124257,
+        "num": 124257,
+        "word": "吴艳妮回应女子100米栏摘银",
+        "onboard_time": 1763602163,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117767,
+        "num": 117767,
+        "word": "羽绒服出厂价已逼近千元",
+        "onboard_time": 1763568920,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117262,
+        "num": 117262,
+        "word": "南方人不要轻易去北方体验地暖",
+        "onboard_time": 1763610983,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137585,
+        "num": 116749,
+        "word": "日本首次出口爱国者导弹",
+        "onboard_time": 1763598144,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115619,
+        "num": 115619,
+        "word": "来中国之前我是素食主义者",
+        "onboard_time": 1763610983,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113052,
+        "num": 113052,
+        "word": "工作怎么能爽成这样",
+        "onboard_time": 1763610862,
+        "rank": 48,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 104614,
+        "num": 112913,
+        "word": "报告称纯靠降价难再刺激购车",
+        "onboard_time": 1763610624,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国特色社会主义法治道路越走越宽广#"
+    }
+  }
+}

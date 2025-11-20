@@ -1,6 +1,6 @@
 {
   "startTime": 1763570177800,
-  "endTime": 1763609595712,
+  "endTime": 1763611099781,
   "band_list": [
     {
       "raw_hot": 5484173,
@@ -9,6 +9,14 @@
       "onboard_time": 1763593878,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1701344,
+      "num": 198308,
+      "word": "日方竟要求中方解释",
+      "onboard_time": 1763609902,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1346518,
@@ -36,15 +44,31 @@
     },
     {
       "raw_hot": 1076829,
-      "num": 149185,
+      "num": 195615,
       "word": "马思唯评论区乱成一锅",
       "onboard_time": 1763602881,
       "rank": 30,
       "category": "艺人"
     },
     {
+      "raw_hot": 768552,
+      "num": 194756,
+      "word": "胡彦斌易梦玲情史",
+      "onboard_time": 1763609662,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 765820,
+      "num": 195321,
+      "word": "内娱顶级美人嗔怒",
+      "onboard_time": 1763607741,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 764026,
-      "num": 176319,
+      "num": 198109,
       "word": "柬埔寨劫囚女子因高颜值引关注",
       "onboard_time": 1763607262,
       "rank": 10,
@@ -67,12 +91,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 625427,
-      "num": 149136,
-      "word": "内娱顶级美人嗔怒",
-      "onboard_time": 1763607741,
-      "rank": 23,
-      "category": "剧集"
+      "raw_hot": 605949,
+      "num": 197760,
+      "word": "男子在离婚冷静期毒杀儿子和女儿",
+      "onboard_time": 1763606842,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 553379,
@@ -107,12 +131,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 371985,
-      "num": 172944,
-      "word": "男子在离婚冷静期毒杀儿子和女儿",
-      "onboard_time": 1763606842,
-      "rank": 15,
-      "category": "民生新闻"
+      "raw_hot": 392349,
+      "num": 197373,
+      "word": "董璇和佟丽娅商量孩子去哪上学",
+      "onboard_time": 1763608041,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 358115,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 349713,
-      "num": 149125,
+      "num": 194898,
       "word": "易梦玲 音乐才子",
       "onboard_time": 1763605102,
       "rank": 22,
@@ -140,7 +164,7 @@
     },
     {
       "raw_hot": 346091,
-      "num": 346091,
+      "num": 1049543,
       "word": "小米第50万辆整车正式下产线",
       "onboard_time": 1763607802,
       "rank": 6,
@@ -169,14 +193,6 @@
       "onboard_time": 1763603841,
       "rank": 5,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 289692,
-      "num": 166569,
-      "word": "董璇和佟丽娅商量孩子去哪上学",
-      "onboard_time": 1763608041,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 280394,
@@ -220,11 +236,19 @@
     },
     {
       "raw_hot": 267894,
-      "num": 173151,
+      "num": 197171,
       "word": "日本挑衅的代价不止股市三杀",
       "onboard_time": 1763607202,
       "rank": 14,
       "category": "财经,海外新闻"
+    },
+    {
+      "raw_hot": 265259,
+      "num": 195155,
+      "word": "鹿晗先给哪个小猫吃",
+      "onboard_time": 1763610023,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 261519,
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 240078,
-      "num": 148862,
+      "num": 155484,
       "word": "建议把早睡放在第一位",
       "onboard_time": 1763597243,
       "rank": 23,
@@ -283,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218585,
+      "num": 218585,
+      "word": "迪丽热巴播剧粉丝精神状态",
+      "onboard_time": 1763607681,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202947,
       "num": 202947,
       "word": "陈梦王晓彤范思琦冠军",
@@ -305,6 +337,14 @@
       "onboard_time": 1763558905,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 198650,
+      "num": 198650,
+      "word": "疯狂动物城2演员配音是抢活吗",
+      "onboard_time": 1763605581,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 198500,
@@ -331,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 194598,
+      "num": 194598,
+      "word": "狗狗嘴巴被人用扎带捆了一个月",
+      "onboard_time": 1763609361,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191498,
       "num": 191498,
       "word": "张一山没有不红 是红的太早了",
@@ -347,8 +395,16 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 170370,
+      "num": 165370,
+      "word": "丁禹兮联合国气候大会全英文发言",
+      "onboard_time": 1763610263,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168270,
-      "num": 168270,
+      "num": 196799,
       "word": "卢凌风到底偷偷报了几个班啊",
       "onboard_time": 1763608882,
       "rank": 13,
@@ -377,6 +433,14 @@
       "onboard_time": 1763594359,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 162936,
+      "num": 158432,
+      "word": "普京作出最新涉华表态",
+      "onboard_time": 1763610381,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162712,
@@ -419,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156399,
+      "num": 198575,
+      "word": "央视曝光加油站作弊花招",
+      "onboard_time": 1763609902,
+      "rank": 9,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 155457,
       "num": 155457,
       "word": "俞敏洪说明年支持员工来南极",
@@ -443,12 +515,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 149272,
-      "num": 149272,
-      "word": "迪丽热巴播剧粉丝精神状态",
-      "onboard_time": 1763607681,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 147749,
+      "num": 147749,
+      "word": "日本政府被判赔偿39亿日元",
+      "onboard_time": 1763609783,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 147429,
@@ -457,14 +529,6 @@
       "onboard_time": 1763607081,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144026,
-      "num": 148976,
-      "word": "疯狂动物城2演员配音是抢活吗",
-      "onboard_time": 1763605581,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 141486,
@@ -489,6 +553,14 @@
       "onboard_time": 1763607622,
       "rank": 28,
       "category": "演出"
+    },
+    {
+      "raw_hot": 133401,
+      "num": 133401,
+      "word": "日本多次兵棋推演台湾有事",
+      "onboard_time": 1763608461,
+      "rank": 42,
+      "category": "国内时政"
     },
     {
       "raw_hot": 132544,
@@ -523,6 +595,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126901,
+      "num": 126901,
+      "word": "婴儿独留屋内酒店帮醉汉开门闯入",
+      "onboard_time": 1763610442,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126806,
       "num": 126806,
       "word": "陈梦说山东队不张扬但努力",
@@ -547,14 +627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 123789,
-      "num": 123789,
-      "word": "日本多次兵棋推演台湾有事",
-      "onboard_time": 1763608461,
-      "rank": 42,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 122633,
       "num": 180838,
       "word": "中方将不得不采取严厉坚决的反制措施",
@@ -568,14 +640,6 @@
       "word": "员工偷150支钢笔被判7年",
       "onboard_time": 1763573057,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119709,
-      "num": 119709,
-      "word": "狗狗嘴巴被人用扎带捆了一个月",
-      "onboard_time": 1763609361,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -611,12 +675,44 @@
       "category": "电影,动漫"
     },
     {
+      "raw_hot": 117262,
+      "num": 117262,
+      "word": "南方人不要轻易去北方体验地暖",
+      "onboard_time": 1763610983,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 116642,
       "num": 116642,
       "word": "日本最后两只大熊猫即将回国",
       "onboard_time": 1763604742,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115619,
+      "num": 115619,
+      "word": "来中国之前我是素食主义者",
+      "onboard_time": 1763610983,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 115467,
+      "num": 134628,
+      "word": "内娱邪恶垂耳兔家族又来新人了",
+      "onboard_time": 1763610983,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 113052,
+      "num": 113052,
+      "word": "工作怎么能爽成这样",
+      "onboard_time": 1763610862,
+      "rank": 48,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 108802,
@@ -641,6 +737,14 @@
       "onboard_time": 1763609421,
       "rank": 43,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 104614,
+      "num": 112913,
+      "word": "报告称纯靠降价难再刺激购车",
+      "onboard_time": 1763610624,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 104296,
@@ -729,6 +833,14 @@
       "onboard_time": 1763608102,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94159,
+      "num": 128631,
+      "word": "渣土车侧翻压死女子肇事车严重超载",
+      "onboard_time": 1763610023,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92822,
@@ -1083,6 +1195,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48419,
+      "num": 196355,
+      "word": "加油站悄无声息一键偷油",
+      "onboard_time": 1763609902,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 47856,
       "num": 63204,
       "word": "乒乓球女团山东队战胜河北队",
@@ -1097,6 +1217,14 @@
       "onboard_time": 1763586074,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43719,
+      "num": 196232,
+      "word": "官方通报陌生人闯入熟睡婴儿房间",
+      "onboard_time": 1763610082,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 37676,
@@ -1115,6 +1243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34614,
+      "num": 132306,
+      "word": "家门口遇害女子最后一句话我被捅了",
+      "onboard_time": 1763610082,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33458,
       "num": 158422,
       "word": "唐诡 颜真卿",
@@ -1129,6 +1265,14 @@
       "onboard_time": 1763565921,
       "rank": 49,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 30291,
+      "num": 130812,
+      "word": "枫叶红了赴日游客退了",
+      "onboard_time": 1763610082,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29948,
@@ -1169,6 +1313,14 @@
       "onboard_time": 1763585173,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 23876,
+      "num": 330260,
+      "word": "视听中国看海南",
+      "onboard_time": 1763610503,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23808,
