@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763674617330,
+  "endTime": 1763677489660,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -18187,6 +18187,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 21739,
+      "num": 31647,
+      "word": "研究称孕期压力大宝宝长牙更早",
+      "onboard_time": 1763664555,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21679,
       "num": 36073,
       "word": "韩国召见日本公使严正抗议",
@@ -18321,6 +18329,14 @@
       "onboard_time": 1763526143,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19700,
+      "num": 31878,
+      "word": "电影狂野时代",
+      "onboard_time": 1763660056,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 19229,
@@ -18483,22 +18499,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17440,
-      "num": 31647,
-      "word": "研究称孕期压力大宝宝长牙更早",
-      "onboard_time": 1763664555,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
-      "raw_hot": 17362,
-      "num": 31809,
-      "word": "电影狂野时代",
-      "onboard_time": 1763660056,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 17183,
       "num": 29394,
       "word": "王一博探索新境2官宣节奏",
@@ -18561,6 +18561,14 @@
       "onboard_time": 1763412073,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15188,
+      "num": 30386,
+      "word": "美9月季调后非农就业人口增11.9万人",
+      "onboard_time": 1763673553,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14914,
@@ -18713,14 +18721,6 @@
       "onboard_time": 1763455283,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10809,
-      "num": 28653,
-      "word": "美9月季调后非农就业人口增11.9万人",
-      "onboard_time": 1763673553,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 10381,

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763674617330,
+  "endTime": 1763677489660,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -71371,6 +71371,14 @@
       "category": "民生新闻,互联网"
     },
     {
+      "raw_hot": 21739,
+      "num": 31647,
+      "word": "研究称孕期压力大宝宝长牙更早",
+      "onboard_time": 1763664555,
+      "rank": 48,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21738,
       "num": 102560,
       "word": "林永健林大俊像从古代穿过来的",
@@ -71785,6 +71793,14 @@
       "onboard_time": 1761978260,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19700,
+      "num": 31878,
+      "word": "电影狂野时代",
+      "onboard_time": 1763660056,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 19695,
@@ -72323,28 +72339,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 17440,
-      "num": 31647,
-      "word": "研究称孕期压力大宝宝长牙更早",
-      "onboard_time": 1763664555,
-      "rank": 48,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 17379,
       "num": 178995,
       "word": "淄博苹果哥火了后各地商贩纷纷模仿",
       "onboard_time": 1763220384,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17362,
-      "num": 31809,
-      "word": "电影狂野时代",
-      "onboard_time": 1763660056,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 17302,
@@ -72641,6 +72641,14 @@
       "onboard_time": 1762541775,
       "rank": 47,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 15188,
+      "num": 30386,
+      "word": "美9月季调后非农就业人口增11.9万人",
+      "onboard_time": 1763673553,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 15056,
@@ -73193,14 +73201,6 @@
       "onboard_time": 1763455283,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10809,
-      "num": 28653,
-      "word": "美9月季调后非农就业人口增11.9万人",
-      "onboard_time": 1763673553,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 10708,
