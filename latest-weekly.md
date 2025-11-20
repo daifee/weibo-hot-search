@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/21 03:37:07
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/21 04:31:18
 </p>
 </blockquote>
 <p>
@@ -14039,6 +14039,12 @@ LOL传奇五人组只剩三位了（热度：13187）
 <li>
 <a href="https://s.weibo.com/weibo?q=%233.29%E4%BA%BF%E8%80%81%E4%BA%BA%E6%97%A5%E5%9D%87%E4%B8%8A%E7%BD%91%E8%B6%854%E5%B0%8F%E6%97%B6%23" target="weibo">
 3.29亿老人日均上网超4小时（热度：10940）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%AF%B4%E5%9D%9A%E5%BC%BA%E4%B8%8D%E6%81%AF%E7%9A%84%E4%BA%BA%E4%BC%9A%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%23" target="weibo">
+苏炳添说坚强不息的人会梦想成真（热度：10697）
 </a>
 </li>
 

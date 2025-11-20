@@ -1,0 +1,410 @@
+{
+  "runTime": 1763670678470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 64234,
+        "num": 64234,
+        "word": "高市早苗求锤得锤了",
+        "onboard_time": 1763650461,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38648,
+        "num": 38648,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763635883,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8077,
+        "num": 30611,
+        "word": "一人一句为中国体育加油",
+        "onboard_time": 1763650461,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29875,
+        "num": 29875,
+        "word": "50多万名中国游客取消原定日本行程",
+        "onboard_time": 1763651483,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25805,
+        "num": 25805,
+        "word": "马龙拿下生涯唯一空缺金牌",
+        "onboard_time": 1763647223,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 31486,
+        "num": 25426,
+        "word": "红果短剧推出演员分账",
+        "onboard_time": 1763647644,
+        "rank": 5,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 25888,
+        "num": 25263,
+        "word": "得闲谨制",
+        "onboard_time": 1763653580,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24872,
+        "num": 24872,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22655,
+        "num": 22655,
+        "word": "日本反对日本",
+        "onboard_time": 1763642905,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21564,
+        "num": 21564,
+        "word": "Gemini3",
+        "onboard_time": 1763657178,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47226,
+        "num": 21488,
+        "word": "罗晋这一年都在北京照顾父亲",
+        "onboard_time": 1763650943,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33781,
+        "num": 21397,
+        "word": "杨宗纬报案",
+        "onboard_time": 1763654841,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30876,
+        "num": 21364,
+        "word": "女孩巴厘岛身亡旅社曾用杀虫剂熏蒸",
+        "onboard_time": 1763652682,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21207,
+        "num": 21207,
+        "word": "樊振东许昕周恺亚军",
+        "onboard_time": 1763643024,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23913,
+        "num": 21196,
+        "word": "Alin竟然瘦成这样了",
+        "onboard_time": 1763651603,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 26925,
+        "num": 21023,
+        "word": "罗晋父亲离世",
+        "onboard_time": 1763635763,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20845,
+        "num": 20845,
+        "word": "美国对中日关系持谨慎态度",
+        "onboard_time": 1763648662,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19490,
+        "num": 20842,
+        "word": "每一个近视眼都该控糖了",
+        "onboard_time": 1763653163,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 17577,
+        "num": 20832,
+        "word": "盛夏芬德拉剧里那道闪电是真的",
+        "onboard_time": 1763659696,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14738,
+        "num": 20821,
+        "word": "电影狂野时代",
+        "onboard_time": 1763660056,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 45577,
+        "num": 20803,
+        "word": "胡彦斌 法庭上带着你的破视频",
+        "onboard_time": 1763640563,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21652,
+        "num": 20797,
+        "word": "赵雅芝孙女颜值",
+        "onboard_time": 1763638221,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19149,
+        "num": 20786,
+        "word": "韩安娜怀宝宝了",
+        "onboard_time": 1763642602,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19110,
+        "num": 20776,
+        "word": "25岁的中年王楚钦",
+        "onboard_time": 1763657058,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 18043,
+        "num": 20762,
+        "word": "大湾鸡是史上最成功的吉祥物",
+        "onboard_time": 1763657119,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 40746,
+        "num": 20750,
+        "word": "胡彦斌易梦玲还在马尔代夫",
+        "onboard_time": 1763651123,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17436,
+        "num": 20738,
+        "word": "肥猫演员郑则仕已瘦70斤",
+        "onboard_time": 1763657239,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17048,
+        "num": 20723,
+        "word": "研究称孕期压力大宝宝长牙更早",
+        "onboard_time": 1763664555,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 17013,
+        "num": 20710,
+        "word": "时代峰峻 签售",
+        "onboard_time": 1763643203,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11217,
+        "num": 20700,
+        "word": "汪苏泷广州跨年演唱会",
+        "onboard_time": 1763637442,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15860,
+        "num": 20693,
+        "word": "日本该认清自己更该认清中国",
+        "onboard_time": 1763658317,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 15467,
+        "num": 20681,
+        "word": "樊振东3比1胜王楚钦",
+        "onboard_time": 1763638763,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15302,
+        "num": 20667,
+        "word": "山姆盒马的酸奶是同一家工厂生产",
+        "onboard_time": 1763637502,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15288,
+        "num": 20659,
+        "word": "易梦玲穿搭像胡彦斌搭配的",
+        "onboard_time": 1763659936,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14762,
+        "num": 20640,
+        "word": "谢谢你苏炳添",
+        "onboard_time": 1763657538,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14137,
+        "num": 20636,
+        "word": "马龙发布会调侃记者",
+        "onboard_time": 1763653822,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14121,
+        "num": 20624,
+        "word": "樊振东证明了自己",
+        "onboard_time": 1763654661,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13260,
+        "num": 20608,
+        "word": "龙蟒",
+        "onboard_time": 1763644463,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13132,
+        "num": 20593,
+        "word": "这居然是江疏影",
+        "onboard_time": 1763633422,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12184,
+        "num": 20581,
+        "word": "彭小苒 翻车一定比翻红快",
+        "onboard_time": 1763646084,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12034,
+        "num": 20577,
+        "word": "请允许自己好好休息",
+        "onboard_time": 1763655501,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 11617,
+        "num": 20563,
+        "word": "马龙乒坛历史第一人",
+        "onboard_time": 1763646743,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11403,
+        "num": 20557,
+        "word": "樊振东全运会乒乓球奖牌榜第一",
+        "onboard_time": 1763650163,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11373,
+        "num": 20542,
+        "word": "借台湾生事只会给日本找事",
+        "onboard_time": 1763666115,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 10697,
+        "num": 20528,
+        "word": "苏炳添说坚强不息的人会梦想成真",
+        "onboard_time": 1763667554,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10353,
+        "num": 20521,
+        "word": "王橹杰 魅魔",
+        "onboard_time": 1763648243,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10233,
+        "num": 20511,
+        "word": "声生不息华流金曲征集",
+        "onboard_time": 1763659456,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 10185,
+        "num": 20497,
+        "word": "苏炳添最后一舞",
+        "onboard_time": 1763639483,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10015,
+        "num": 20482,
+        "word": "罗志祥方发布声明",
+        "onboard_time": 1763656041,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 9746,
+        "num": 20477,
+        "word": "朱志鑫见面会",
+        "onboard_time": 1763643324,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视体育强国建设#"
+    }
+  }
+}

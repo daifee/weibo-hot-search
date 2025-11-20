@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/21 00:35:30 ~ 2025/11/21 03:37:07
+本榜单时间：2025/11/21 00:35:30 ~ 2025/11/21 04:31:18
 </p>
 </blockquote>
 <p>
@@ -425,6 +425,12 @@ Gemini3（热度：62836）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%80%9F%E5%8F%B0%E6%B9%BE%E7%94%9F%E4%BA%8B%E5%8F%AA%E4%BC%9A%E7%BB%99%E6%97%A5%E6%9C%AC%E6%89%BE%E4%BA%8B%23" target="weibo">
 借台湾生事只会给日本找事（热度：13739）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%AF%B4%E5%9D%9A%E5%BC%BA%E4%B8%8D%E6%81%AF%E7%9A%84%E4%BA%BA%E4%BC%9A%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%23" target="weibo">
+苏炳添说坚强不息的人会梦想成真（热度：10697）
 </a>
 </li>
 
