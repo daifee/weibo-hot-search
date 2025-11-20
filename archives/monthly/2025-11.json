@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763595519356,
+  "endTime": 1763603814406,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -131,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 5357322,
+      "num": 5357322,
+      "word": "疑似胡彦斌易梦玲恋情",
+      "onboard_time": 1763593878,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 3990046,
       "num": 2442077,
       "word": "金鸡奖获奖名单",
@@ -153,14 +161,6 @@
       "onboard_time": 1762509500,
       "rank": 0,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 3525851,
-      "num": 96050,
-      "word": "疑似胡彦斌易梦玲恋情",
-      "onboard_time": 1763593878,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 3390474,
@@ -883,6 +883,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 1346518,
+      "num": 125344,
+      "word": "易梦玲6月份疑似跟王勉在一起",
+      "onboard_time": 1763601083,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1346310,
       "num": 174164,
       "word": "Tim父亲 圆通总裁",
@@ -937,6 +945,14 @@
       "onboard_time": 1762562601,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1312037,
+      "num": 1312037,
+      "word": "日本马上要没有大熊猫了",
+      "onboard_time": 1763599764,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1310167,
@@ -1417,6 +1433,14 @@
       "onboard_time": 1763111061,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1115075,
+      "num": 127027,
+      "word": "老爹站重生版",
+      "onboard_time": 1763599645,
+      "rank": 21,
+      "category": "网红"
     },
     {
       "raw_hot": 1112743,
@@ -4164,7 +4188,7 @@
     },
     {
       "raw_hot": 635706,
-      "num": 95345,
+      "num": 126784,
       "word": "美国杀人魔因生殖器过小成破案关键",
       "onboard_time": 1763594720,
       "rank": 21,
@@ -6689,6 +6713,14 @@
       "onboard_time": 1763223443,
       "rank": 14,
       "category": "电影"
+    },
+    {
+      "raw_hot": 488016,
+      "num": 209786,
+      "word": "建议不要在网上买太便宜的水果",
+      "onboard_time": 1763596461,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 487309,
@@ -10883,6 +10915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 339937,
+      "num": 339937,
+      "word": "高市早苗曾向身边人坦言说过头了",
+      "onboard_time": 1763597544,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 339781,
       "num": 263992,
       "word": "黄锐对TFBOYS十周年演唱会还没释怀",
@@ -13971,6 +14011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 272717,
+      "num": 272717,
+      "word": "如果战斗就在今夜打响",
+      "onboard_time": 1763595620,
+      "rank": 4,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 272636,
       "num": 272636,
       "word": "金吾不禁开机",
@@ -15715,6 +15763,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240078,
+      "num": 126228,
+      "word": "建议把早睡放在第一位",
+      "onboard_time": 1763597243,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 239923,
       "num": 185831,
       "word": "董璇曝小酒窝请假理由",
@@ -16089,6 +16145,14 @@
       "onboard_time": 1762399580,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232929,
+      "num": 232929,
+      "word": "羽绒服出厂价已逼近千元",
+      "onboard_time": 1763568920,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 232570,
@@ -16561,6 +16625,14 @@
       "onboard_time": 1762265782,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225323,
+      "num": 122323,
+      "word": "马思唯评论区乱成一锅",
+      "onboard_time": 1763602881,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 225198,
@@ -20795,14 +20867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189498,
-      "num": 189498,
-      "word": "羽绒服出厂价已逼近千元",
-      "onboard_time": 1763568920,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 189445,
       "num": 189445,
       "word": "我妈买药vs我买药",
@@ -21497,6 +21561,14 @@
       "onboard_time": 1763440823,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 186171,
+      "num": 186171,
+      "word": "吴艳妮回应女子100米栏摘银",
+      "onboard_time": 1763602163,
+      "rank": 13,
+      "category": "体育"
     },
     {
       "raw_hot": 186119,
@@ -23091,6 +23163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 174815,
+      "num": 125851,
+      "word": "日本东京一旅行社发声",
+      "onboard_time": 1763601024,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 174804,
       "num": 207187,
       "word": "武汉大学原校长刘道玉逝世",
@@ -24180,7 +24260,7 @@
     },
     {
       "raw_hot": 167183,
-      "num": 167183,
+      "num": 213495,
       "word": "网红橙子姐姐曾邀女网友去柬埔寨",
       "onboard_time": 1763572757,
       "rank": 34,
@@ -25060,7 +25140,7 @@
     },
     {
       "raw_hot": 163081,
-      "num": 121792,
+      "num": 228270,
       "word": "清华美女研究生全运会冠军",
       "onboard_time": 1763594359,
       "rank": 26,
@@ -25729,6 +25809,14 @@
       "onboard_time": 1762003702,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 159784,
+      "num": 159784,
+      "word": "日本牛肉恢复对华出口磋商也停了",
+      "onboard_time": 1763601144,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159746,
@@ -27809,6 +27897,14 @@
       "onboard_time": 1762337962,
       "rank": 14,
       "category": "数码"
+    },
+    {
+      "raw_hot": 150316,
+      "num": 125226,
+      "word": "日本首次出口爱国者导弹",
+      "onboard_time": 1763598144,
+      "rank": 26,
+      "category": "国际时政"
     },
     {
       "raw_hot": 150286,
@@ -32915,6 +33011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130874,
+      "num": 121474,
+      "word": "中方对日反制层层加码",
+      "onboard_time": 1763602282,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 130732,
       "num": 130732,
       "word": "红药 孟不疑",
@@ -33377,6 +33481,14 @@
       "onboard_time": 1762074800,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 129114,
+      "num": 129114,
+      "word": "文在寅成韩国首位当博主前总统",
+      "onboard_time": 1763598083,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129095,
@@ -35193,6 +35305,14 @@
       "onboard_time": 1763185221,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123907,
+      "num": 123907,
+      "word": "孙颖莎谈十五运2银",
+      "onboard_time": 1763601264,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 123885,
@@ -37507,6 +37627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117772,
+      "num": 117772,
+      "word": "11月5年期1年期LPR利率维持不变",
+      "onboard_time": 1763603481,
+      "rank": 33,
+      "category": "财经"
+    },
+    {
       "raw_hot": 117771,
       "num": 146208,
       "word": "Uzi对选手的比赛风格影响太大了",
@@ -38129,6 +38257,14 @@
       "onboard_time": 1762845499,
       "rank": 42,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 116278,
+      "num": 128880,
+      "word": "四喜死去的公公疯了的婆婆上门的小三",
+      "onboard_time": 1763596883,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 116250,
@@ -42627,6 +42763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104908,
+      "num": 104908,
+      "word": "我故意找茬都想不出来这种话",
+      "onboard_time": 1763600606,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 104898,
       "num": 104898,
       "word": "第一次知道兔子能这么大",
@@ -42881,6 +43025,14 @@
       "onboard_time": 1762165221,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 104296,
+      "num": 104296,
+      "word": "陈梦朱雨玲互戴奖牌",
+      "onboard_time": 1763600245,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 104290,
@@ -45571,6 +45723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 98757,
+      "num": 98757,
+      "word": "张本美和成都见面会确认取消",
+      "onboard_time": 1763603601,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98756,
       "num": 98756,
       "word": "宁静自曝曾有30套戏服被分给别人",
@@ -45689,6 +45849,14 @@
       "onboard_time": 1762866021,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98571,
+      "num": 98571,
+      "word": "陈梦说山东队不张扬但努力",
+      "onboard_time": 1763603601,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 98568,
@@ -49643,6 +49811,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90641,
+      "num": 90641,
+      "word": "厦门大学的食堂建议本好可爱",
+      "onboard_time": 1763600425,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 90620,
+      "num": 90620,
+      "word": "猫如果蹲在水里不动",
+      "onboard_time": 1763602582,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 90599,
       "num": 90599,
       "word": "勇士vs步行者",
@@ -50227,12 +50411,28 @@
       "category": "时尚"
     },
     {
+      "raw_hot": 89571,
+      "num": 89571,
+      "word": "勇士vs热火",
+      "onboard_time": 1763603362,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89555,
       "num": 105384,
       "word": "国考超35岁考生担心体检难通过",
       "onboard_time": 1762140202,
       "rank": 39,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 89541,
+      "num": 89541,
+      "word": "侯明昊有点手段全使猕猴桃身上了",
+      "onboard_time": 1763602642,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 89516,
@@ -52355,6 +52555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85552,
+      "num": 127886,
+      "word": "短剧演员不用背台词的原因找到了",
+      "onboard_time": 1763593878,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85527,
       "num": 85527,
       "word": "全运会地表最强乒乓球比赛",
@@ -52897,6 +53105,14 @@
       "onboard_time": 1762569680,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 84279,
+      "num": 84279,
+      "word": "朱志鑫说打恶魔钉有点痛",
+      "onboard_time": 1763601083,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 84265,
@@ -53603,14 +53819,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 82452,
-      "num": 98184,
-      "word": "短剧演员不用背台词的原因找到了",
-      "onboard_time": 1763593878,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 82432,
       "num": 164299,
       "word": "京东直播比价贵3分也奖1万",
@@ -53785,6 +53993,14 @@
       "onboard_time": 1762944139,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 81996,
+      "num": 343320,
+      "word": "网警提醒广大考生谨防公考陷阱",
+      "onboard_time": 1763601563,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81990,
@@ -56401,6 +56617,14 @@
       "onboard_time": 1763113040,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74645,
+      "num": 84265,
+      "word": "T1确定2026年阵容",
+      "onboard_time": 1763599764,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 74625,
