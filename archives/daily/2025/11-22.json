@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763752967590,
+  "endTime": 1763753812928,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -475,7 +475,15 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27164,
+      "raw_hot": 30329,
+      "num": 42151,
+      "word": "美结束俄乌冲突28点计划曝光",
+      "onboard_time": 1763748436,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28417,
       "num": 96831,
       "word": "印度光辉战机表演时坠毁",
       "onboard_time": 1763723063,
@@ -491,12 +499,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23078,
-      "num": 38622,
-      "word": "美结束俄乌冲突28点计划曝光",
-      "onboard_time": 1763748436,
-      "rank": 16,
-      "category": "国际时政"
+      "raw_hot": 24248,
+      "num": 42166,
+      "word": "王源跨年演唱会",
+      "onboard_time": 1763753654,
+      "rank": 9,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23170,
+      "num": 42108,
+      "word": "中国唱将",
+      "onboard_time": 1763753355,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 19078,
@@ -524,7 +540,7 @@
     },
     {
       "raw_hot": 14096,
-      "num": 38290,
+      "num": 42058,
       "word": "张杰台州演唱会",
       "onboard_time": 1763752454,
       "rank": 33,
