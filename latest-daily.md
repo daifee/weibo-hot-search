@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/22 00:33:08 ~ 2025/11/22 06:26:29
+本榜单时间：2025/11/22 00:33:08 ~ 2025/11/22 06:42:04
 </p>
 </blockquote>
 <p>
@@ -87,6 +87,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B18%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%AD70%E5%B9%B3%E6%B5%B7%E6%99%AF%E6%88%BF%23" target="weibo">
+男子花8万元网购70平海景房（热度：164656）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A9%B9%E6%9D%B0%E9%AB%98%E4%BC%9A%23" target="weibo">
 王橹杰高会（热度：158688）
 </a>
@@ -119,12 +125,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B0%E7%AE%B1%E8%B4%B4%E5%B7%B2%E7%BB%8F%E8%BF%9B%E5%8C%96%E6%88%90%E8%BF%99%E6%A0%B7%E4%BA%86%E5%90%97%23" target="weibo">
 冰箱贴已经进化成这样了吗（热度：139738）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%8A%B18%E4%B8%87%E5%85%83%E7%BD%91%E8%B4%AD70%E5%B9%B3%E6%B5%B7%E6%99%AF%E6%88%BF%23" target="weibo">
-男子花8万元网购70平海景房（热度：128677）
 </a>
 </li>
 
@@ -237,6 +237,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E7%A9%BF%E8%A3%99%E6%88%B4%E5%81%87%E5%8F%91%E5%A4%BA%E5%86%A0%E6%88%90%E7%BB%A9%E6%97%A0%E6%95%88%23" target="weibo">
+多方回应男生穿裙戴假发夺冠成绩无效（热度：65571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%AF%B4%E6%9C%AC%E6%9D%A5%E6%B2%A1%E4%BA%8B%E9%83%BD%E6%80%AA%E9%AB%98%E5%B8%82%23" target="weibo">
 日本民众说本来没事都怪高市（热度：64933）
 </a>
@@ -267,6 +273,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%8128%E7%82%B9%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89%23" target="weibo">
+美结束俄乌冲突28点计划曝光（热度：59747）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A5%B3%E5%84%BF%E5%8F%AB%E7%AB%A0%E5%AD%90%E6%80%A1%E5%A6%88%E5%A6%88%23" target="weibo">
 葛荟婕回应女儿叫章子怡妈妈（热度：59496）
 </a>
@@ -281,6 +293,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Keria%E5%A4%B8%E8%B5%9EiG%23" target="weibo">
 Keria夸赞iG（热度：58258）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E4%B8%8E%E8%8B%B1%E5%9B%BD%E6%9C%80%E7%9F%AD%E5%91%BD%E9%A6%96%E7%9B%B8%E7%B1%BB%E6%AF%94%23" target="weibo">
+高市早苗被与英国最短命首相类比（热度：58254）
 </a>
 </li>
 
@@ -327,12 +345,6 @@ Keria夸赞iG（热度：58258）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E7%94%B7%E7%94%9F%E7%A9%BF%E8%A3%99%E6%88%B4%E5%81%87%E5%8F%91%E5%A4%BA%E5%86%A0%E6%88%90%E7%BB%A9%E6%97%A0%E6%95%88%23" target="weibo">
-多方回应男生穿裙戴假发夺冠成绩无效（热度：50912）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23kimi%E6%88%B4%E5%8F%A3%E7%BD%A9%E5%A5%BD%E5%83%8F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
 kimi戴口罩好像易烊千玺（热度：49024）
 </a>
@@ -345,14 +357,8 @@ Gumayusi与Zeus碰面（热度：48659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E4%B8%8E%E8%8B%B1%E5%9B%BD%E6%9C%80%E7%9F%AD%E5%91%BD%E9%A6%96%E7%9B%B8%E7%B1%BB%E6%AF%94%23" target="weibo">
-高市早苗被与英国最短命首相类比（热度：47818）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E7%BB%93%E6%9D%9F%E4%BF%84%E4%B9%8C%E5%86%B2%E7%AA%8128%E7%82%B9%E8%AE%A1%E5%88%92%E6%9B%9D%E5%85%89%23" target="weibo">
-美结束俄乌冲突28点计划曝光（热度：46769）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%9A%84%E5%8F%8D%E5%88%B6%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%BA%A7%E7%94%9F%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%23" target="weibo">
+中方的反制在日本产生连锁反应（热度：46179）
 </a>
 </li>
 
@@ -363,8 +369,8 @@ Gumayusi与Zeus碰面（热度：48659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%9A%84%E5%8F%8D%E5%88%B6%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%BA%A7%E7%94%9F%E8%BF%9E%E9%94%81%E5%8F%8D%E5%BA%94%23" target="weibo">
-中方的反制在日本产生连锁反应（热度：39736）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%85%89%E8%BE%89%E6%88%98%E6%9C%BA%E8%A1%A8%E6%BC%94%E6%97%B6%E5%9D%A0%E6%AF%81%23" target="weibo">
+印度光辉战机表演时坠毁（热度：38390）
 </a>
 </li>
 
@@ -387,14 +393,14 @@ Gumayusi与Zeus碰面（热度：48659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%85%89%E8%BE%89%E6%88%98%E6%9C%BA%E8%A1%A8%E6%BC%94%E6%97%B6%E5%9D%A0%E6%AF%81%23" target="weibo">
-印度光辉战机表演时坠毁（热度：32467）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%85%A8%E6%99%AF%E9%97%AD%E5%B9%95%E5%BC%8F%E7%9C%8B%E6%B7%B1%E5%9C%B3%23" target="weibo">
+全球首个城市全景闭幕式看深圳（热度：31384）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%90%83%E9%A6%96%E4%B8%AA%E5%9F%8E%E5%B8%82%E5%85%A8%E6%99%AF%E9%97%AD%E5%B9%95%E5%BC%8F%E7%9C%8B%E6%B7%B1%E5%9C%B3%23" target="weibo">
-全球首个城市全景闭幕式看深圳（热度：31384）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E8%8B%B1%E8%AF%AD%E5%9C%A8%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
+你的英语在外国人眼中的样子（热度：26861）
 </a>
 </li>
 
@@ -417,12 +423,6 @@ Gumayusi与Zeus碰面（热度：48659）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E8%8B%B1%E8%AF%AD%E5%9C%A8%E5%A4%96%E5%9B%BD%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E6%A0%B7%E5%AD%90%23" target="weibo">
-你的英语在外国人眼中的样子（热度：21100）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%9926%E7%A7%92%E7%A7%91%E6%8A%80%E6%84%9F%E7%9B%B4%E6%8E%A5%E6%8B%89%E6%BB%A1%23" target="weibo">
 这26秒科技感直接拉满（热度：19078）
 </a>
@@ -436,13 +436,19 @@ Gumayusi与Zeus碰面（热度：48659）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D%E6%B5%81%E8%A1%8C%E7%9A%84%E8%A3%85%E4%BF%AE%E7%8E%B0%E5%9C%A8%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23" target="weibo">
-十年前流行的装修现在怎么样了（热度：17676）
+十年前流行的装修现在怎么样了（热度：18066）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%BD%E4%B9%85%E6%B2%A1%E8%A7%81%E9%82%93%E8%B6%85%E5%94%B1%E6%AD%8C%E4%BA%86%23" target="weibo">
 好久没见邓超唱歌了（热度：16840）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%8A%AD%E6%AF%94%E8%BF%AA%E4%B8%BD%E6%8B%89%E8%A2%AB%E6%8C%87%E6%AC%A0%E8%96%AA%E5%B7%B2%E6%96%AD%E6%9B%B4%E4%B8%A4%E6%9C%88%23" target="weibo">
+网红芭比迪丽拉被指欠薪已断更两月（热度：15369）
 </a>
 </li>
 
