@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763718143724,
+  "endTime": 1763720948195,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -8,6 +8,14 @@
       "word": "易梦玲称和胡彦斌海边视频是AI",
       "onboard_time": 1763715441,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2484651,
+      "num": 219788,
+      "word": "易梦玲 好好笑哦",
+      "onboard_time": 1763718141,
+      "rank": 30,
       "category": "艺人"
     },
     {
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 689211,
-      "num": 173847,
+      "num": 228276,
       "word": "kimi戴口罩好像易烊千玺",
       "onboard_time": 1763715562,
       "rank": 21,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 600964,
-      "num": 255001,
+      "num": 369256,
       "word": "六烊千玺",
       "onboard_time": 1763716341,
       "rank": 12,
@@ -404,11 +412,19 @@
     },
     {
       "raw_hot": 366198,
-      "num": 366198,
+      "num": 817466,
       "word": "中国军网海外发布一切就绪",
       "onboard_time": 1763707700,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 366025,
+      "num": 366025,
+      "word": "北大自杀女生包丽案细节披露",
+      "onboard_time": 1763718082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365482,
@@ -539,8 +555,16 @@
       "category": "剧集,互联网"
     },
     {
+      "raw_hot": 300879,
+      "num": 226878,
+      "word": "明星AI澄清元年",
+      "onboard_time": 1763717782,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294415,
-      "num": 280596,
+      "num": 747863,
       "word": "NS官宣Scout加入",
       "onboard_time": 1763708421,
       "rank": 16,
@@ -561,6 +585,14 @@
       "onboard_time": 1763642905,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 286465,
+      "num": 225894,
+      "word": "小酒窝差点名叫小糖墩",
+      "onboard_time": 1763717544,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 285647,
@@ -587,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 273369,
+      "num": 273369,
+      "word": "日本将琉球改为冲绳县",
+      "onboard_time": 1763714540,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 267086,
       "num": 1008703,
       "word": "喜人奇妙夜",
@@ -609,14 +649,6 @@
       "onboard_time": 1763701102,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 255444,
-      "num": 244989,
-      "word": "日本将琉球改为冲绳县",
-      "onboard_time": 1763714540,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 253448,
@@ -657,6 +689,14 @@
       "onboard_time": 1763680639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242728,
+      "num": 242728,
+      "word": "以前最恨关系户",
+      "onboard_time": 1763716581,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 237159,
@@ -724,7 +764,7 @@
     },
     {
       "raw_hot": 206088,
-      "num": 293371,
+      "num": 645597,
       "word": "狂野时代",
       "onboard_time": 1763705962,
       "rank": 7,
@@ -795,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 195431,
+      "num": 219590,
+      "word": "DYG阵容官宣",
+      "onboard_time": 1763720541,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193792,
       "num": 170863,
       "word": "满心期待当外婆女儿却在家门口被杀",
@@ -860,11 +908,19 @@
     },
     {
       "raw_hot": 177127,
-      "num": 177127,
+      "num": 216407,
       "word": "李施嬅第一次选了不分手",
       "onboard_time": 1763715323,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 173666,
+      "num": 219241,
+      "word": "王化转岗到小米武汉总部",
+      "onboard_time": 1763720123,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 173623,
@@ -881,6 +937,14 @@
       "onboard_time": 1763705781,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172215,
+      "num": 233755,
+      "word": "俄罗斯对等反制日本",
+      "onboard_time": 1763716282,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 170170,
@@ -931,6 +995,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 165922,
+      "num": 699802,
+      "word": "汪苏泷1天官宣3演唱会1综艺",
+      "onboard_time": 1763719583,
+      "rank": 5,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164828,
       "num": 164828,
       "word": "樊振东被许昕的运气论笑喷",
@@ -979,14 +1051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 158531,
-      "num": 156490,
-      "word": "俄罗斯对等反制日本",
-      "onboard_time": 1763716282,
-      "rank": 33,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 156718,
       "num": 156718,
       "word": "周深 抢票",
@@ -1009,6 +1073,14 @@
       "onboard_time": 1763648243,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155421,
+      "num": 223392,
+      "word": "中方回应日本首次出口杀伤性武器",
+      "onboard_time": 1763718683,
+      "rank": 27,
+      "category": "国内时政"
     },
     {
       "raw_hot": 155180,
@@ -1092,7 +1164,7 @@
     },
     {
       "raw_hot": 142747,
-      "num": 142747,
+      "num": 217109,
       "word": "俄外交部发日本投降画面",
       "onboard_time": 1763713340,
       "rank": 45,
@@ -1211,12 +1283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130193,
+      "num": 982506,
+      "word": "13位女科学家当选两院院士",
+      "onboard_time": 1763718141,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129964,
       "num": 361110,
       "word": "中方就港口事宜回击美国",
       "onboard_time": 1763708840,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129249,
+      "num": 224441,
+      "word": "张靓颖广州车展天籁演唱会",
+      "onboard_time": 1763719642,
+      "rank": 26,
+      "category": "演出,汽车"
     },
     {
       "raw_hot": 128763,
@@ -1249,14 +1337,6 @@
       "onboard_time": 1763696961,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127723,
-      "num": 127723,
-      "word": "明星AI澄清元年",
-      "onboard_time": 1763717782,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 127388,
@@ -1371,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119158,
+      "num": 218773,
+      "word": "卢靖姗产后首晒照",
+      "onboard_time": 1763717843,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119132,
       "num": 119132,
       "word": "日本核爆记忆换不来和平主义",
@@ -1385,6 +1473,14 @@
       "onboard_time": 1763696901,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118138,
+      "num": 217784,
+      "word": "黄雅琼刘雨辰将举办婚礼",
+      "onboard_time": 1763720662,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 117707,
@@ -1499,14 +1595,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 108847,
-      "num": 108847,
-      "word": "以前最恨关系户",
-      "onboard_time": 1763716581,
-      "rank": 40,
-      "category": "情感"
-    },
-    {
       "raw_hot": 108786,
       "num": 108786,
       "word": "原来玉镯是这样生产的",
@@ -1537,6 +1625,14 @@
       "onboard_time": 1763685622,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 106700,
+      "num": 217414,
+      "word": "与钟汉良一起贴贴",
+      "onboard_time": 1763715922,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 106543,
@@ -1595,14 +1691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102521,
-      "num": 102521,
-      "word": "卢靖姗产后首晒照",
-      "onboard_time": 1763717843,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102334,
       "num": 132658,
       "word": "刘嘉玲被忽悠吃了生鸡血",
@@ -1617,6 +1705,14 @@
       "onboard_time": 1763703561,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102025,
+      "num": 216894,
+      "word": "原来撒娇就是感受到被爱的表现",
+      "onboard_time": 1763719223,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 101299,
@@ -1636,7 +1732,7 @@
     },
     {
       "raw_hot": 99901,
-      "num": 99901,
+      "num": 216340,
       "word": "原来小说里的家庭真的存在",
       "onboard_time": 1763717602,
       "rank": 43,
@@ -1779,20 +1875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92899,
-      "num": 92899,
-      "word": "北大自杀女生包丽案细节披露",
-      "onboard_time": 1763718082,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91876,
       "num": 91876,
       "word": "女子回应父亲花60万后离世举报医院",
       "onboard_time": 1763652863,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91798,
+      "num": 222472,
+      "word": "小鹏第100万台新车X9超级增程下线",
+      "onboard_time": 1763719642,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 91683,
@@ -1827,6 +1923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88374,
+      "num": 218862,
+      "word": "12306回应高铁不卖卫生巾",
+      "onboard_time": 1763719223,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 88355,
       "num": 88355,
       "word": "王楚钦回应头撞球桌",
@@ -1841,6 +1945,14 @@
       "onboard_time": 1763699063,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 86145,
+      "num": 577307,
+      "word": "古人给庐山写了1.6万首诗",
+      "onboard_time": 1763719343,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85888,
@@ -1953,6 +2065,14 @@
       "onboard_time": 1763710400,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76886,
+      "num": 218195,
+      "word": "张子枫猝不及防被叫姐",
+      "onboard_time": 1763720183,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 76627,
@@ -2203,14 +2323,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 59738,
-      "num": 176652,
-      "word": "与钟汉良一起贴贴",
-      "onboard_time": 1763715922,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59191,
       "num": 149758,
       "word": "酷滕 最会给天放写角色的人",
@@ -2347,6 +2459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 46222,
+      "num": 221502,
+      "word": "5万家庭票pick领克900双智进化",
+      "onboard_time": 1763719642,
+      "rank": 29,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 45349,
       "num": 137881,
       "word": "江南好风景",
@@ -2473,14 +2593,6 @@
       "onboard_time": 1763709382,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36322,
-      "num": 109133,
-      "word": "小酒窝差点名叫小糖墩",
-      "onboard_time": 1763717544,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 34962,
@@ -2627,6 +2739,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25686,
+      "num": 218008,
+      "word": "内娱男明星老了可以参考这个戏路",
+      "onboard_time": 1763720722,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24910,
+      "num": 218400,
+      "word": "网友在盒马买到被曝含苏丹红卸妆膏",
+      "onboard_time": 1763720422,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24384,
+      "num": 232373,
+      "word": "男子打印500页聊天记录欲起诉AI",
+      "onboard_time": 1763720422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24262,
       "num": 121112,
       "word": "儿子定位柬埔寨母亲称被要25万赎金",
@@ -2739,6 +2875,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8639,
+      "num": 894662,
+      "word": "踏浪新质潮",
+      "onboard_time": 1763720722,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7225,
       "num": 128499,
       "word": "求求萧焕能不能听完这段再走",
@@ -2753,6 +2897,9 @@
     },
     {
       "word": "#总书记勉励体育健儿的高频词#"
+    },
+    {
+      "word": "#重温总书记关于体育强国重要讲话#"
     }
   ]
 }
