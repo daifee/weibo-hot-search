@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763761119966,
+  "endTime": 1763763989975,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -147,6 +147,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128677,
+      "num": 45160,
+      "word": "男子花8万元网购70平海景房",
+      "onboard_time": 1763756713,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 127886,
       "num": 325482,
       "word": "不是AI是爱",
@@ -171,6 +179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 107315,
+      "num": 29394,
+      "word": "胡彦斌",
+      "onboard_time": 1763763374,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102480,
       "num": 339807,
       "word": "敌国条款称日本侵略五常可直接动武",
@@ -193,14 +209,6 @@
       "onboard_time": 1763743338,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 93847,
-      "num": 33244,
-      "word": "男子花8万元网购70平海景房",
-      "onboard_time": 1763756713,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 93604,
@@ -411,6 +419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50912,
+      "num": 96991,
+      "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+      "onboard_time": 1763732542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49024,
       "num": 202741,
       "word": "kimi戴口罩好像易烊千玺",
@@ -427,6 +443,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47818,
+      "num": 105811,
+      "word": "高市早苗被与英国最短命首相类比",
+      "onboard_time": 1763745318,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 46769,
+      "num": 46769,
+      "word": "美结束俄乌冲突28点计划曝光",
+      "onboard_time": 1763748436,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41637,
       "num": 208701,
       "word": "原神",
@@ -435,16 +467,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 38269,
-      "num": 42151,
-      "word": "美结束俄乌冲突28点计划曝光",
-      "onboard_time": 1763748436,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 38199,
-      "num": 32420,
+      "raw_hot": 39736,
+      "num": 36123,
       "word": "中方的反制在日本产生连锁反应",
       "onboard_time": 1763754734,
       "rank": 27,
@@ -475,20 +499,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33393,
-      "num": 105811,
-      "word": "高市早苗被与英国最短命首相类比",
-      "onboard_time": 1763745318,
-      "rank": 46,
+      "raw_hot": 32467,
+      "num": 96831,
+      "word": "印度光辉战机表演时坠毁",
+      "onboard_time": 1763723063,
+      "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 33348,
-      "num": 96991,
-      "word": "多方回应男生穿裙戴假发夺冠成绩无效",
-      "onboard_time": 1763732542,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 31384,
@@ -497,14 +513,6 @@
       "onboard_time": 1763740401,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28417,
-      "num": 96831,
-      "word": "印度光辉战机表演时坠毁",
-      "onboard_time": 1763723063,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 26731,
@@ -532,7 +540,7 @@
     },
     {
       "raw_hot": 21100,
-      "num": 28713,
+      "num": 29175,
       "word": "你的英语在外国人眼中的样子",
       "onboard_time": 1763755394,
       "rank": 42,
@@ -553,6 +561,14 @@
       "onboard_time": 1763733922,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17676,
+      "num": 29040,
+      "word": "十年前流行的装修现在怎么样了",
+      "onboard_time": 1763760375,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 16840,
