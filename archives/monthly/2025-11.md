@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 23:37:37
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 00:33:08
 </p>
 </blockquote>
 <p>
@@ -3459,6 +3459,12 @@ T1 Peyz（热度：653404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E9%AB%98%E9%99%A2%E9%80%9A%E6%8A%A52%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A5%B8%E6%9D%80%E6%95%99%E5%B8%88%E6%A1%88%23" target="weibo">
+湖南高院通报2高中生奸杀教师案（热度：640787）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23iPhone%E9%9D%A2%E5%AE%B9%E8%A7%A3%E9%94%81%E4%B8%8D%E9%9C%80%E8%A6%81%E6%91%84%E5%83%8F%E5%A4%B4%23" target="weibo">
 iPhone面容解锁不需要摄像头（热度：640462）
 </a>
@@ -5519,12 +5525,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%9B%9E%E5%BA%94%E5%A9%9A%E7%A4%BC%E9%A4%90%E6%A0%87%23" target="weibo">
 董璇回应婚礼餐标（热度：492972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E9%AB%98%E9%99%A2%E9%80%9A%E6%8A%A52%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A5%B8%E6%9D%80%E6%95%99%E5%B8%88%E6%A1%88%23" target="weibo">
-湖南高院通报2高中生奸杀教师案（热度：492630）
 </a>
 </li>
 
