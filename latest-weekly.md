@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/16 00:29:44 ~ 2025/11/22 01:24:31
+本榜单时间：2025/11/16 00:29:44 ~ 2025/11/22 01:41:16
 </p>
 </blockquote>
 <p>
@@ -15123,6 +15123,12 @@ KT确定2026年阵容（热度：46359）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E8%AF%B4%E5%A5%BD%E4%B8%8D%E5%A5%BD%E7%9C%8B%E8%A7%82%E4%BC%97%E8%87%AA%E6%9C%89%E5%88%A4%E6%96%AD%23" target="weibo">
+彭小苒说好不好看观众自有判断（热度：36945）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%9A%84%E7%9F%9B%E5%A4%B4%E5%B0%B1%E6%98%AF%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%23" target="weibo">
 高市早苗的矛头就是对准中国（热度：36628）
 </a>
@@ -15321,6 +15327,12 @@ KT确定2026年阵容（热度：46359）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E6%AC%A7%E9%98%B3%E5%A8%9C%E5%A8%9C%E8%A3%85%E8%B4%A7%E8%88%9E%E5%8F%B0%23" target="weibo">
+薛之谦欧阳娜娜装货舞台（热度：34014）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9B%9E%E5%BA%94%E5%BC%A0%E6%9D%B0%E9%87%91%E9%B8%A1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F%E6%BC%94%E5%94%B1%23" target="weibo">
 谢娜回应张杰金鸡奖闭幕式演唱（热度：33944）
 </a>
@@ -15405,6 +15417,12 @@ KT确定2026年阵容（热度：46359）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%98%E5%BD%A2%E8%AE%A1%E5%BC%A0%E8%BF%AA%E5%9B%9E%E5%BA%94%E6%8A%9B%E5%A6%BB%E5%BC%83%E5%AD%90%23" target="weibo">
+变形计张迪回应抛妻弃子（热度：32897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E7%A7%92%E8%BF%9B%E5%85%A5%E6%99%BA%E8%83%BD%E6%B8%A9%E6%9A%96%E7%BB%93%E7%95%8C%23" target="weibo">
 一秒进入智能温暖结界（热度：32814）
 </a>
@@ -15413,6 +15431,12 @@ KT确定2026年阵容（热度：46359）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E5%89%A7%E5%9C%BA%E7%89%88%E6%9A%82%E5%B1%85%E5%85%A8%E7%90%83%E7%A5%A8%E6%88%BF%E5%B9%B4%E6%A6%9C%E7%AC%AC5%23" target="weibo">
 鬼灭之刃剧场版暂居全球票房年榜第5（热度：32776）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E4%B8%8E%E8%8B%B1%E5%9B%BD%E6%9C%80%E7%9F%AD%E5%91%BD%E9%A6%96%E7%9B%B8%E7%B1%BB%E6%AF%94%23" target="weibo">
+高市早苗被与英国最短命首相类比（热度：32704）
 </a>
 </li>
 

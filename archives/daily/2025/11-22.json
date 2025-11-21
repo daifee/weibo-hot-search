@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763745871955,
+  "endTime": 1763746876301,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -419,12 +419,52 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 36945,
+      "num": 67986,
+      "word": "彭小苒说好不好看观众自有判断",
+      "onboard_time": 1763746037,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 34014,
+      "num": 67705,
+      "word": "薛之谦欧阳娜娜装货舞台",
+      "onboard_time": 1763745856,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 33476,
       "num": 213148,
       "word": "狙击蝴蝶",
       "onboard_time": 1763726301,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33348,
+      "num": 67649,
+      "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+      "onboard_time": 1763732542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32897,
+      "num": 67601,
+      "word": "变形计张迪回应抛妻弃子",
+      "onboard_time": 1763746576,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 32704,
+      "num": 67557,
+      "word": "高市早苗被与英国最短命首相类比",
+      "onboard_time": 1763745318,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31384,
