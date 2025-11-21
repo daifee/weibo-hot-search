@@ -1,0 +1,410 @@
+{
+  "runTime": 1763735212460,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 609937,
+        "num": 1097589,
+        "word": "敌国条款称日本侵略五常可直接动武",
+        "onboard_time": 1763727621,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 364296,
+        "num": 364296,
+        "word": "湖南承办2029全运会",
+        "onboard_time": 1763730622,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35882,
+        "num": 325390,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763717003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307366,
+        "num": 307366,
+        "word": "闭幕式 第九套广播体操",
+        "onboard_time": 1763727442,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202801,
+        "num": 304051,
+        "word": "狂野时代首映口碑",
+        "onboard_time": 1763733922,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185053,
+        "num": 301745,
+        "word": "印度光辉战机表演时坠毁",
+        "onboard_time": 1763723063,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182693,
+        "num": 301341,
+        "word": "马龙苏炳添潘展乐闭幕式献唱",
+        "onboard_time": 1763729121,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 301035,
+        "num": 301035,
+        "word": "凤凰台上 东宫",
+        "onboard_time": 1763732662,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149732,
+        "num": 298448,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1763726301,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148476,
+        "num": 294111,
+        "word": "樊振东展现中国水平中国力量",
+        "onboard_time": 1763727381,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 822702,
+        "num": 288635,
+        "word": "冰箱贴已经进化成这样了吗",
+        "onboard_time": 1763728581,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 385843,
+        "num": 284827,
+        "word": "彭小苒回应凤凰台上原著作者",
+        "onboard_time": 1763728281,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 375367,
+        "num": 276289,
+        "word": "更大更强的航母或出现在日本",
+        "onboard_time": 1763723422,
+        "rank": 12,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 314879,
+        "num": 273448,
+        "word": "买二手房一定要买别人住过的",
+        "onboard_time": 1763731641,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 270632,
+        "num": 270632,
+        "word": "卢凌风 苏无名",
+        "onboard_time": 1763729422,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205962,
+        "num": 205962,
+        "word": "北大自杀女生包丽案细节披露",
+        "onboard_time": 1763718082,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177734,
+        "num": 205677,
+        "word": "中方回应俄乌战场现中国武器",
+        "onboard_time": 1763726001,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164387,
+        "num": 205401,
+        "word": "女孩被撞身亡一周后收到录取书",
+        "onboard_time": 1763721683,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149101,
+        "num": 205174,
+        "word": "他为什么依然单身",
+        "onboard_time": 1763723481,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137931,
+        "num": 205057,
+        "word": "凤凰台上原著作者 女主",
+        "onboard_time": 1763735061,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2344629,
+        "num": 204622,
+        "word": "我AI的易梦玲胡彦斌",
+        "onboard_time": 1763725402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312287,
+        "num": 204326,
+        "word": "葛荟婕回应女儿叫章子怡妈妈",
+        "onboard_time": 1763725821,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204252,
+        "num": 204252,
+        "word": "毒唯只对真嫂子破防",
+        "onboard_time": 1763722642,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194679,
+        "num": 194679,
+        "word": "kimi戴口罩好像易烊千玺",
+        "onboard_time": 1763715562,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171830,
+        "num": 194670,
+        "word": "变形计张迪自曝没有生育能力",
+        "onboard_time": 1763730201,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1989921,
+        "num": 194473,
+        "word": "易梦玲称和胡彦斌海边视频是AI",
+        "onboard_time": 1763715441,
+        "rank": 25,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 137019,
+        "num": 194325,
+        "word": "Gumayusi与Zeus碰面",
+        "onboard_time": 1763731042,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 127280,
+        "num": 194292,
+        "word": "郭碧婷爸爸称看病时有女儿陪真好",
+        "onboard_time": 1763732602,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123432,
+        "num": 194100,
+        "word": "中国点穴式制裁日本",
+        "onboard_time": 1763730802,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111724,
+        "num": 194046,
+        "word": "王鹤棣沈月合体跳pretty",
+        "onboard_time": 1763721563,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175093,
+        "num": 193817,
+        "word": "高市早苗招惹马来西亚",
+        "onboard_time": 1763734522,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123149,
+        "num": 193716,
+        "word": "成毅你干什么去了",
+        "onboard_time": 1763727022,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122659,
+        "num": 193582,
+        "word": "周深3天4次以0票告终",
+        "onboard_time": 1763721202,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 116735,
+        "num": 193550,
+        "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+        "onboard_time": 1763732542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110707,
+        "num": 193408,
+        "word": "原神",
+        "onboard_time": 1763727802,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106184,
+        "num": 193183,
+        "word": "易烊千玺新片观后感还是太权威了",
+        "onboard_time": 1763732961,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72819,
+        "num": 193159,
+        "word": "全运湖南宣传片来了",
+        "onboard_time": 1763735061,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34338,
+        "num": 193002,
+        "word": "1万8请的月嫂疑喂奶致婴儿呛奶夭折",
+        "onboard_time": 1763734702,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76285,
+        "num": 192837,
+        "word": "司机急刹车致23岁男生高位截瘫",
+        "onboard_time": 1763734702,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69914,
+        "num": 192718,
+        "word": "106岁妈妈让80岁女儿不要太贪玩",
+        "onboard_time": 1763734702,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37959,
+        "num": 192634,
+        "word": "正宗日料店用料非日本水产品",
+        "onboard_time": 1763733202,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103435,
+        "num": 192461,
+        "word": "喜人奇妙夜 死亡教育",
+        "onboard_time": 1763729242,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101021,
+        "num": 192428,
+        "word": "日本将琉球改为冲绳县",
+        "onboard_time": 1763714540,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100268,
+        "num": 192226,
+        "word": "A股牛市有望持续",
+        "onboard_time": 1763723842,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 97136,
+        "num": 192092,
+        "word": "央妈还在帮我们保存童年",
+        "onboard_time": 1763734582,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 91400,
+        "num": 191983,
+        "word": "愿意再婚的人越来越多了",
+        "onboard_time": 1763728761,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89395,
+        "num": 191839,
+        "word": "原神FES全明星阵容",
+        "onboard_time": 1763733262,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88829,
+        "num": 191762,
+        "word": "分手夫妻嘴不诚实但身体诚实",
+        "onboard_time": 1763731821,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85240,
+        "num": 191668,
+        "word": "六烊千玺",
+        "onboard_time": 1763716341,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 29411,
+        "num": 191483,
+        "word": "回顾全运会乒乓球精彩瞬间",
+        "onboard_time": 1763735183,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
