@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763717354705,
+  "endTime": 1763718143724,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -153,6 +153,14 @@
       "onboard_time": 1763709260,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 600964,
+      "num": 255001,
+      "word": "六烊千玺",
+      "onboard_time": 1763716341,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 585658,
@@ -345,14 +353,6 @@
       "onboard_time": 1763692999,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 385826,
-      "num": 255001,
-      "word": "六烊千玺",
-      "onboard_time": 1763716341,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 380694,
@@ -611,6 +611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255444,
+      "num": 244989,
+      "word": "日本将琉球改为冲绳县",
+      "onboard_time": 1763714540,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 253448,
       "num": 405885,
       "word": "易烊千玺 这比赛就一个人报名吗",
@@ -633,14 +641,6 @@
       "onboard_time": 1763707641,
       "rank": 9,
       "category": "财经"
-    },
-    {
-      "raw_hot": 244989,
-      "num": 244989,
-      "word": "日本将琉球改为冲绳县",
-      "onboard_time": 1763714540,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 244261,
@@ -979,20 +979,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158531,
+      "num": 156490,
+      "word": "俄罗斯对等反制日本",
+      "onboard_time": 1763716282,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156718,
       "num": 156718,
       "word": "周深 抢票",
       "onboard_time": 1763701762,
       "rank": 26,
       "category": "演出"
-    },
-    {
-      "raw_hot": 156490,
-      "num": 156490,
-      "word": "俄罗斯对等反制日本",
-      "onboard_time": 1763716282,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 155747,
@@ -1091,6 +1091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "俄外交部发日本投降画面",
+      "onboard_time": 1763713340,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142419,
       "num": 142419,
       "word": "范丞丞说车里坐了4个摇子",
@@ -1121,14 +1129,6 @@
       "onboard_time": 1763699781,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140335,
-      "num": 140335,
-      "word": "俄外交部发日本投降画面",
-      "onboard_time": 1763713340,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 139588,
@@ -1251,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 127723,
+      "num": 127723,
+      "word": "明星AI澄清元年",
+      "onboard_time": 1763717782,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127388,
       "num": 127388,
       "word": "左眼跳财右眼跳相信科学",
@@ -1323,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 121349,
+      "num": 235769,
+      "word": "双高胎实体投影",
+      "onboard_time": 1763716884,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120734,
       "num": 120734,
       "word": "Alin竟然瘦成这样了",
@@ -1379,6 +1395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117693,
+      "num": 117693,
+      "word": "各省有各省自己的省饭",
+      "onboard_time": 1763717304,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 117602,
       "num": 117602,
       "word": "papi说梁淞38岁了还成长",
@@ -1427,14 +1451,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 112620,
-      "num": 166852,
-      "word": "双高胎实体投影",
-      "onboard_time": 1763716884,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 111805,
       "num": 111805,
       "word": "三滴血人贩子聊着天就把孩子卖了",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1763709919,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 108847,
+      "num": 108847,
+      "word": "以前最恨关系户",
+      "onboard_time": 1763716581,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 108786,
@@ -1571,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102521,
+      "num": 102521,
+      "word": "卢靖姗产后首晒照",
+      "onboard_time": 1763717843,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102334,
       "num": 132658,
       "word": "刘嘉玲被忽悠吃了生鸡血",
@@ -1587,12 +1619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101299,
+      "num": 101299,
+      "word": "允许小猫有自己的小爱好",
+      "onboard_time": 1763717903,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100919,
       "num": 100919,
       "word": "声生不息不愧是文案天花板",
       "onboard_time": 1763706382,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 99901,
+      "num": 99901,
+      "word": "原来小说里的家庭真的存在",
+      "onboard_time": 1763717602,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 99468,
@@ -1643,6 +1691,14 @@
       "category": "幽默,动漫"
     },
     {
+      "raw_hot": 97515,
+      "num": 97515,
+      "word": "恋猫脑",
+      "onboard_time": 1763717063,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97470,
       "num": 124016,
       "word": "李施嬅心疼车崇健",
@@ -1659,12 +1715,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96219,
-      "num": 96219,
-      "word": "恋猫脑",
-      "onboard_time": 1763717063,
-      "rank": 44,
-      "category": "幽默"
+      "raw_hot": 97110,
+      "num": 97110,
+      "word": "樊振东这届全运会没输过",
+      "onboard_time": 1763717963,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 96881,
+      "num": 144004,
+      "word": "奶皮子糖葫芦紧急撤回一颗山楂",
+      "onboard_time": 1763717661,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95218,
@@ -1699,12 +1763,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94015,
+      "num": 94015,
+      "word": "日本旅游业迎来自己种的果",
+      "onboard_time": 1763716823,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 93145,
       "num": 93145,
       "word": "樊振东全运会乒乓球奖牌榜第一",
       "onboard_time": 1763650163,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92899,
+      "num": 92899,
+      "word": "北大自杀女生包丽案细节披露",
+      "onboard_time": 1763718082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 91876,
@@ -1747,28 +1827,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 88905,
-      "num": 88905,
-      "word": "日本旅游业迎来自己种的果",
-      "onboard_time": 1763716823,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 88355,
       "num": 88355,
       "word": "王楚钦回应头撞球桌",
       "onboard_time": 1763649923,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 87768,
-      "num": 87768,
-      "word": "各省有各省自己的省饭",
-      "onboard_time": 1763717304,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 87327,
@@ -2131,6 +2195,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 60125,
+      "num": 110077,
+      "word": "1亿多年轻人正被这病虐待",
+      "onboard_time": 1763717363,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59738,
+      "num": 176652,
+      "word": "与钟汉良一起贴贴",
+      "onboard_time": 1763715922,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 59191,
       "num": 149758,
       "word": "酷滕 最会给天放写角色的人",
@@ -2275,14 +2355,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 44634,
-      "num": 176652,
-      "word": "与钟汉良一起贴贴",
-      "onboard_time": 1763715922,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44541,
       "num": 173447,
       "word": "近一半香港高才放弃续签",
@@ -2401,6 +2473,14 @@
       "onboard_time": 1763709382,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36322,
+      "num": 109133,
+      "word": "小酒窝差点名叫小糖墩",
+      "onboard_time": 1763717544,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 34962,
@@ -2569,6 +2649,14 @@
       "onboard_time": 1763695401,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 19681,
+      "num": 108946,
+      "word": "荒野求生14人人均获3.2万元奖金",
+      "onboard_time": 1763717661,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18519,

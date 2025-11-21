@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763717354705,
+  "endTime": 1763718143724,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -5163,6 +5163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 600964,
+      "num": 255001,
+      "word": "六烊千玺",
+      "onboard_time": 1763716341,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 600248,
       "num": 1096039,
       "word": "表妹万福杀青",
@@ -10201,14 +10209,6 @@
       "onboard_time": 1762085241,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 385826,
-      "num": 255001,
-      "word": "六烊千玺",
-      "onboard_time": 1763716341,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 385374,
@@ -16315,6 +16315,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255444,
+      "num": 244989,
+      "word": "日本将琉球改为冲绳县",
+      "onboard_time": 1763714540,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 255221,
       "num": 179231,
       "word": "医生眼中的生理性厌恶",
@@ -16881,14 +16889,6 @@
       "onboard_time": 1762920080,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 244989,
-      "num": 244989,
-      "word": "日本将琉球改为冲绳县",
-      "onboard_time": 1763714540,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 244943,
@@ -28363,6 +28363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 158531,
+      "num": 156490,
+      "word": "俄罗斯对等反制日本",
+      "onboard_time": 1763716282,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158497,
       "num": 158497,
       "word": "Wayward谈Kanavi琪亚娜",
@@ -28921,14 +28929,6 @@
       "onboard_time": 1763548222,
       "rank": 36,
       "category": "财经"
-    },
-    {
-      "raw_hot": 156490,
-      "num": 156490,
-      "word": "俄罗斯对等反制日本",
-      "onboard_time": 1763716282,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 156481,
@@ -32227,6 +32227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142747,
+      "num": 142747,
+      "word": "俄外交部发日本投降画面",
+      "onboard_time": 1763713340,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 142736,
       "num": 142736,
       "word": "网传瑞幸团建店员饮酒过量致死",
@@ -32857,14 +32865,6 @@
       "onboard_time": 1763465423,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 140335,
-      "num": 140335,
-      "word": "俄外交部发日本投降画面",
-      "onboard_time": 1763713340,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 140309,
@@ -36819,6 +36819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 127723,
+      "num": 127723,
+      "word": "明星AI澄清元年",
+      "onboard_time": 1763717782,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127700,
       "num": 145927,
       "word": "张艺兴KTV开超长4小时演唱会",
@@ -39427,6 +39435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121349,
+      "num": 235769,
+      "word": "双高胎实体投影",
+      "onboard_time": 1763716884,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121321,
       "num": 121321,
       "word": "感受老祖宗留下来的非遗魅力",
@@ -40889,6 +40905,14 @@
       "onboard_time": 1763703621,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117693,
+      "num": 117693,
+      "word": "各省有各省自己的省饭",
+      "onboard_time": 1763717304,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 117679,
@@ -42907,14 +42931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 112620,
-      "num": 166852,
-      "word": "双高胎实体投影",
-      "onboard_time": 1763716884,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 112613,
       "num": 110041,
       "word": "王鹤棣回复董璇小酒窝",
@@ -44441,6 +44457,14 @@
       "onboard_time": 1763169080,
       "rank": 30,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108847,
+      "num": 108847,
+      "word": "以前最恨关系户",
+      "onboard_time": 1763716581,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 108802,
@@ -47675,6 +47699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102521,
+      "num": 102521,
+      "word": "卢靖姗产后首晒照",
+      "onboard_time": 1763717843,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102514,
       "num": 137007,
       "word": "水库放生猫多只落水已救起3只",
@@ -48144,6 +48176,14 @@
       "word": "海豹的午休沉沉浮浮",
       "onboard_time": 1762601481,
       "rank": 41,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 101299,
+      "num": 101299,
+      "word": "允许小猫有自己的小爱好",
+      "onboard_time": 1763717903,
+      "rank": 42,
       "category": "幽默"
     },
     {
@@ -48929,6 +48969,14 @@
       "onboard_time": 1762146981,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99901,
+      "num": 99901,
+      "word": "原来小说里的家庭真的存在",
+      "onboard_time": 1763717602,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 99861,
@@ -50243,6 +50291,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97515,
+      "num": 97515,
+      "word": "恋猫脑",
+      "onboard_time": 1763717063,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97513,
       "num": 200132,
       "word": "京东拍卖千万分之一的龙虾奇迹",
@@ -50475,6 +50531,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97110,
+      "num": 97110,
+      "word": "樊振东这届全运会没输过",
+      "onboard_time": 1763717963,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97087,
       "num": 293428,
       "word": "我国打破核电对铀的依赖",
@@ -50633,6 +50697,14 @@
       "onboard_time": 1762593982,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 96881,
+      "num": 144004,
+      "word": "奶皮子糖葫芦紧急撤回一颗山楂",
+      "onboard_time": 1763717661,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96873,
@@ -50945,14 +51017,6 @@
       "onboard_time": 1763469144,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96219,
-      "num": 96219,
-      "word": "恋猫脑",
-      "onboard_time": 1763717063,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 96121,
@@ -52011,6 +52075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 94015,
+      "num": 94015,
+      "word": "日本旅游业迎来自己种的果",
+      "onboard_time": 1763716823,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94005,
       "num": 94005,
       "word": "跟汪顺一起期待全运会",
@@ -52601,6 +52673,14 @@
       "onboard_time": 1763377520,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92899,
+      "num": 92899,
+      "word": "北大自杀女生包丽案细节披露",
+      "onboard_time": 1763718082,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92894,
@@ -54675,14 +54755,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 88905,
-      "num": 88905,
-      "word": "日本旅游业迎来自己种的果",
-      "onboard_time": 1763716823,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 88885,
       "num": 90971,
       "word": "全红婵无论胖瘦都压住了水花",
@@ -55257,14 +55329,6 @@
       "onboard_time": 1762396340,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 87768,
-      "num": 87768,
-      "word": "各省有各省自己的省饭",
-      "onboard_time": 1763717304,
-      "rank": 46,
-      "category": "美食"
     },
     {
       "raw_hot": 87760,
@@ -64691,6 +64755,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 60125,
+      "num": 110077,
+      "word": "1亿多年轻人正被这病虐待",
+      "onboard_time": 1763717363,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60050,
       "num": 98508,
       "word": "抖音将整治茅台低价销售",
@@ -64825,6 +64897,14 @@
       "onboard_time": 1762139659,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59738,
+      "num": 176652,
+      "word": "与钟汉良一起贴贴",
+      "onboard_time": 1763715922,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 59729,
@@ -68115,14 +68195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44634,
-      "num": 176652,
-      "word": "与钟汉良一起贴贴",
-      "onboard_time": 1763715922,
-      "rank": 19,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44623,
       "num": 100511,
       "word": "男子回应妻儿3人被发小杀害",
@@ -70001,6 +70073,14 @@
       "onboard_time": 1761926303,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36322,
+      "num": 109133,
+      "word": "小酒窝差点名叫小糖墩",
+      "onboard_time": 1763717544,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 36317,
@@ -73793,6 +73873,14 @@
       "onboard_time": 1762376714,
       "rank": 48,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 19681,
+      "num": 108946,
+      "word": "荒野求生14人人均获3.2万元奖金",
+      "onboard_time": 1763717661,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19664,

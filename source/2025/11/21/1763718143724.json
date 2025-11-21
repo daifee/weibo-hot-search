@@ -1,0 +1,410 @@
+{
+  "runTime": 1763718143724,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 317531,
+        "num": 1050805,
+        "word": "CPA成绩",
+        "onboard_time": 1763705661,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 251821,
+        "num": 251821,
+        "word": "中国军网海外发布一切就绪",
+        "onboard_time": 1763707700,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44963,
+        "num": 249969,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 140791,
+        "num": 244160,
+        "word": "仅用0秒就嗑到的国漫cp",
+        "onboard_time": 1763716762,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 125107,
+        "num": 242191,
+        "word": "NS官宣Scout加入",
+        "onboard_time": 1763708421,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121349,
+        "num": 235769,
+        "word": "双高胎实体投影",
+        "onboard_time": 1763716884,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120206,
+        "num": 231559,
+        "word": "成毅暂无参加活动计划",
+        "onboard_time": 1763712500,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99011,
+        "num": 229521,
+        "word": "便宜30%的印度水产你敢吃吗",
+        "onboard_time": 1763697622,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 93876,
+        "num": 225776,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 85648,
+        "num": 220544,
+        "word": "全运会万米跑冠军被取消金牌",
+        "onboard_time": 1763701163,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 600964,
+        "num": 217543,
+        "word": "六烊千玺",
+        "onboard_time": 1763716341,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418333,
+        "num": 213555,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1763708901,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 362514,
+        "num": 208749,
+        "word": "纠结女友过往性经历辱骂致其自杀",
+        "onboard_time": 1763710701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 289636,
+        "num": 206001,
+        "word": "发个朋友圈680人不可见",
+        "onboard_time": 1763708180,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 255444,
+        "num": 198383,
+        "word": "日本将琉球改为冲绳县",
+        "onboard_time": 1763714540,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 255044,
+        "num": 198045,
+        "word": "王俊凯 熟男味",
+        "onboard_time": 1763712202,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194033,
+        "num": 194033,
+        "word": "汪苏泷信息量好大的一场直播",
+        "onboard_time": 1763709260,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59738,
+        "num": 174384,
+        "word": "与钟汉良一起贴贴",
+        "onboard_time": 1763715922,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118436,
+        "num": 173948,
+        "word": "罗云熙又给内娱古装拉平均线了",
+        "onboard_time": 1763715862,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173559,
+        "num": 173559,
+        "word": "原来11月也叫考研质变期",
+        "onboard_time": 1763716823,
+        "rank": 19,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 8460740,
+        "num": 8460740,
+        "word": "易梦玲称和胡彦斌海边视频是AI",
+        "onboard_time": 1763715441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 624866,
+        "num": 171708,
+        "word": "kimi戴口罩好像易烊千玺",
+        "onboard_time": 1763715562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 451557,
+        "num": 168363,
+        "word": "鹿晗 馒头真不能再吃了",
+        "onboard_time": 1763703681,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 426766,
+        "num": 167687,
+        "word": "女子一分钟内跳楼两次被救",
+        "onboard_time": 1763712141,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242845,
+        "num": 164675,
+        "word": "唐嫣",
+        "onboard_time": 1763697261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164520,
+        "num": 164520,
+        "word": "林宥嘉汪苏泷合照",
+        "onboard_time": 1763713521,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162082,
+        "num": 162082,
+        "word": "李施嬅第一次选了不分手",
+        "onboard_time": 1763715323,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144035,
+        "num": 144035,
+        "word": "杨紫又酷又辣",
+        "onboard_time": 1763708662,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100796,
+        "num": 144007,
+        "word": "全运会最后一枚金牌",
+        "onboard_time": 1763716162,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96881,
+        "num": 144004,
+        "word": "奶皮子糖葫芦紧急撤回一颗山楂",
+        "onboard_time": 1763717661,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158531,
+        "num": 144003,
+        "word": "俄罗斯对等反制日本",
+        "onboard_time": 1763716282,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144002,
+        "num": 144002,
+        "word": "梁淞说何美延又坏又蠢",
+        "onboard_time": 1763708662,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142747,
+        "num": 142747,
+        "word": "俄外交部发日本投降画面",
+        "onboard_time": 1763713340,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129064,
+        "num": 129064,
+        "word": "黄雅琼刘雨辰婚纱照",
+        "onboard_time": 1763707400,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127723,
+        "num": 127723,
+        "word": "明星AI澄清元年",
+        "onboard_time": 1763717782,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117693,
+        "num": 117693,
+        "word": "各省有各省自己的省饭",
+        "onboard_time": 1763717304,
+        "rank": 35,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 111380,
+        "num": 111380,
+        "word": "左眼跳财右眼跳相信科学",
+        "onboard_time": 1763712621,
+        "rank": 36,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 60125,
+        "num": 110077,
+        "word": "1亿多年轻人正被这病虐待",
+        "onboard_time": 1763717363,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36322,
+        "num": 109133,
+        "word": "小酒窝差点名叫小糖墩",
+        "onboard_time": 1763717544,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19681,
+        "num": 108946,
+        "word": "荒野求生14人人均获3.2万元奖金",
+        "onboard_time": 1763717661,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108847,
+        "num": 108847,
+        "word": "以前最恨关系户",
+        "onboard_time": 1763716581,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102521,
+        "num": 102521,
+        "word": "卢靖姗产后首晒照",
+        "onboard_time": 1763717843,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101299,
+        "num": 101299,
+        "word": "允许小猫有自己的小爱好",
+        "onboard_time": 1763717903,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99901,
+        "num": 99901,
+        "word": "原来小说里的家庭真的存在",
+        "onboard_time": 1763717602,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97515,
+        "num": 97515,
+        "word": "恋猫脑",
+        "onboard_time": 1763717063,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97130,
+        "num": 97130,
+        "word": "白鹿说去年许的愿老灵了",
+        "onboard_time": 1763716221,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97110,
+        "num": 97110,
+        "word": "樊振东这届全运会没输过",
+        "onboard_time": 1763717963,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94015,
+        "num": 94015,
+        "word": "日本旅游业迎来自己种的果",
+        "onboard_time": 1763716823,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92899,
+        "num": 92899,
+        "word": "北大自杀女生包丽案细节披露",
+        "onboard_time": 1763718082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71619,
+        "num": 91807,
+        "word": "狂野时代",
+        "onboard_time": 1763705962,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}

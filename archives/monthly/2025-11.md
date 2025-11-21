@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 17:29:14
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 17:42:23
 </p>
 </blockquote>
 <p>
@@ -3885,6 +3885,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
+六烊千玺（热度：600964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%A8%E5%A6%B9%E4%B8%87%E7%A6%8F%E6%9D%80%E9%9D%92%23" target="weibo">
 表妹万福杀青（热度：600248）
 </a>
@@ -6005,12 +6011,6 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E5%BA%9F%E5%BC%83%E5%85%AC%E5%9B%AD%E8%99%8E%E9%B2%B8%E6%AF%8D%E5%AD%90%E6%88%96%E9%9D%A2%E4%B8%B4%E5%AE%89%E4%B9%90%E6%AD%BB%23" target="weibo">
 法国废弃公园虎鲸母子或面临安乐死（热度：462313）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%AC%E5%91%A8%E5%81%9A%E4%BB%80%E4%B9%88%E9%83%BD%E9%A1%BA%E7%9A%84%E6%98%9F%E5%BA%A7%23" target="weibo">
-本周做什么都顺的星座（热度：461960）
 </a>
 </li>
 
