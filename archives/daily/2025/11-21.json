@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763695031961,
+  "endTime": 1763695983625,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 834240,
-      "num": 153647,
+      "num": 163905,
       "word": "A股",
       "onboard_time": 1763689460,
       "rank": 20,
@@ -28,15 +28,23 @@
     },
     {
       "raw_hot": 799671,
-      "num": 218096,
+      "num": 375095,
       "word": "实习生出差抽中显卡被公司要求上交",
       "onboard_time": 1763688140,
       "rank": 10,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 662916,
+      "num": 163942,
+      "word": "偶遇王岳伦和美女看展",
+      "onboard_time": 1763693360,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 642540,
-      "num": 148411,
+      "num": 162837,
       "word": "胡彦斌 法庭上带着你的破视频",
       "onboard_time": 1763640563,
       "rank": 20,
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 539892,
-      "num": 152871,
+      "num": 154181,
       "word": "胡彦斌易梦玲还在马尔代夫",
       "onboard_time": 1763651123,
       "rank": 25,
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 534116,
-      "num": 216985,
+      "num": 279858,
       "word": "面包界真的需要一个蜜雪冰城",
       "onboard_time": 1763684901,
       "rank": 11,
@@ -91,20 +99,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 460124,
-      "num": 147539,
-      "word": "偶遇王岳伦和美女看展",
-      "onboard_time": 1763693360,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 460085,
-      "num": 217920,
+      "num": 371587,
       "word": "彭小苒 能不能别比惨",
       "onboard_time": 1763692820,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 433972,
+      "num": 433972,
+      "word": "未来房价上涨的3大核心信号",
+      "onboard_time": 1763692581,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 425287,
@@ -115,24 +123,32 @@
       "category": "体育"
     },
     {
+      "raw_hot": 424073,
+      "num": 163806,
+      "word": "股市",
+      "onboard_time": 1763694740,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 409207,
-      "num": 338071,
+      "num": 392310,
       "word": "烟台压死女老师渣土车司机被定全责",
       "onboard_time": 1763644703,
       "rank": 41,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 405795,
-      "num": 145563,
-      "word": "未来房价上涨的3大核心信号",
-      "onboard_time": 1763692581,
-      "rank": 24,
-      "category": "财经"
+      "raw_hot": 396053,
+      "num": 396053,
+      "word": "米哈游新作31分钟实机",
+      "onboard_time": 1763692999,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 380694,
-      "num": 380694,
+      "num": 383573,
       "word": "144人当选两院院士",
       "onboard_time": 1763688561,
       "rank": 1,
@@ -164,19 +180,19 @@
     },
     {
       "raw_hot": 368868,
-      "num": 217584,
+      "num": 295166,
       "word": "致中方人员在德食物中毒餐馆致歉",
       "onboard_time": 1763688500,
       "rank": 17,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 366680,
-      "num": 366680,
-      "word": "米哈游新作31分钟实机",
-      "onboard_time": 1763692999,
-      "rank": 1,
-      "category": "游戏"
+      "raw_hot": 365442,
+      "num": 365442,
+      "word": "猫咪用敲击声回应民警救下主人",
+      "onboard_time": 1763690240,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345241,
@@ -188,7 +204,7 @@
     },
     {
       "raw_hot": 343524,
-      "num": 343524,
+      "num": 394800,
       "word": "每一个近视眼都该控糖了",
       "onboard_time": 1763653163,
       "rank": 22,
@@ -196,7 +212,7 @@
     },
     {
       "raw_hot": 342423,
-      "num": 332216,
+      "num": 381923,
       "word": "李维嘉吴昕湖南卫视再同台",
       "onboard_time": 1763687241,
       "rank": 6,
@@ -219,20 +235,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329432,
+      "num": 163730,
+      "word": "道崽女友",
+      "onboard_time": 1763693120,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 313311,
+      "num": 163599,
+      "word": "王橹杰买ccd被跑单",
+      "onboard_time": 1763691861,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304618,
       "num": 172741,
       "word": "马龙说着说着就快哭了",
       "onboard_time": 1763685680,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 302563,
-      "num": 143762,
-      "word": "王橹杰买ccd被跑单",
-      "onboard_time": 1763691861,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 301592,
@@ -251,12 +275,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 291944,
-      "num": 217146,
-      "word": "猫咪用敲击声回应民警救下主人",
-      "onboard_time": 1763690240,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 280502,
+      "num": 155769,
+      "word": "陈伟霆带着电梯神图又杀回来了",
+      "onboard_time": 1763693540,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 276505,
@@ -267,20 +291,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 255781,
-      "num": 142543,
-      "word": "道崽女友",
-      "onboard_time": 1763693120,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 248321,
       "num": 248321,
       "word": "得闲谨制",
       "onboard_time": 1763653580,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 245013,
+      "num": 245013,
+      "word": "女子水杯现不明液体警方锁定男同事",
+      "onboard_time": 1763693540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242778,
@@ -291,14 +315,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 208269,
-      "num": 141459,
-      "word": "陈伟霆带着电梯神图又杀回来了",
-      "onboard_time": 1763693540,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207432,
       "num": 207432,
       "word": "美股",
@@ -307,8 +323,16 @@
       "category": "财经"
     },
     {
+      "raw_hot": 205116,
+      "num": 388780,
+      "word": "电影狂野时代",
+      "onboard_time": 1763660056,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 203961,
-      "num": 140254,
+      "num": 161147,
       "word": "郭宇欣新剧看得人乳腺畅通",
       "onboard_time": 1763693840,
       "rank": 29,
@@ -347,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185586,
-      "num": 138999,
-      "word": "股市",
-      "onboard_time": 1763694740,
-      "rank": 31,
-      "category": "财经"
-    },
-    {
       "raw_hot": 185493,
       "num": 212683,
       "word": "樊振东许昕周恺亚军",
@@ -384,6 +400,14 @@
       "word": "樊振东3比1胜王楚钦",
       "onboard_time": 1763638763,
       "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 164083,
+      "num": 164083,
+      "word": "一单的位置樊振东一守就是十年",
+      "onboard_time": 1763695761,
+      "rank": 17,
       "category": "体育"
     },
     {
@@ -420,19 +444,11 @@
     },
     {
       "raw_hot": 151239,
-      "num": 219120,
+      "num": 377278,
       "word": "网传得闲谨制12月上映",
       "onboard_time": 1763692581,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 150687,
-      "num": 150687,
-      "word": "女子水杯现不明液体警方锁定男同事",
-      "onboard_time": 1763693540,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 148560,
@@ -459,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139121,
+      "num": 405174,
+      "word": "全运会闭幕式",
+      "onboard_time": 1763694620,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "日本反对日本",
@@ -473,6 +497,14 @@
       "onboard_time": 1763638221,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 129596,
+      "num": 129596,
+      "word": "李昀锐打球被一屁股撞飞路透",
+      "onboard_time": 1763695341,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 128763,
@@ -539,6 +571,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 119507,
+      "num": 119507,
+      "word": "确诊为迪丽热巴陈星旭走路粉",
+      "onboard_time": 1763693240,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 119215,
       "num": 119215,
       "word": "山姆盒马的酸奶是同一家工厂生产",
@@ -571,6 +611,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 108652,
+      "num": 108652,
+      "word": "央视曝造谣式起号",
+      "onboard_time": 1763693599,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108108,
       "num": 108108,
       "word": "新的睡午觉 醒午觉",
@@ -593,14 +641,6 @@
       "onboard_time": 1763693240,
       "rank": 40,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 105827,
-      "num": 105827,
-      "word": "确诊为迪丽热巴陈星旭走路粉",
-      "onboard_time": 1763693240,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 105825,
@@ -633,6 +673,22 @@
       "onboard_time": 1763650523,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98555,
+      "num": 98555,
+      "word": "哑巴新郎开口最稳重的一次",
+      "onboard_time": 1763695761,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 97662,
+      "num": 97662,
+      "word": "三滴血人贩子聊着天就把孩子卖了",
+      "onboard_time": 1763695640,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 97470,
@@ -739,14 +795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 80803,
-      "num": 149124,
-      "word": "全运会闭幕式",
-      "onboard_time": 1763694620,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 79153,
       "num": 79153,
       "word": "CPA查分",
@@ -817,14 +865,6 @@
       "onboard_time": 1763640743,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71672,
-      "num": 141322,
-      "word": "电影狂野时代",
-      "onboard_time": 1763660056,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 70017,
@@ -947,6 +987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55249,
+      "num": 163990,
+      "word": "日本正向核力量靠拢",
+      "onboard_time": 1763695460,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55161,
       "num": 55161,
       "word": "马龙希望和大家一起好好变老",
@@ -996,7 +1044,7 @@
     },
     {
       "raw_hot": 45349,
-      "num": 108136,
+      "num": 122087,
       "word": "江南好风景",
       "onboard_time": 1763694080,
       "rank": 39,
@@ -1019,12 +1067,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40229,
+      "num": 125317,
+      "word": "日本核食谁爱吃谁吃",
+      "onboard_time": 1763695460,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40068,
       "num": 70250,
       "word": "王楚钦加油",
       "onboard_time": 1763681119,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39143,
+      "num": 164063,
+      "word": "领馆介入上百名中国人在德食物中毒",
+      "onboard_time": 1763695041,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34962,
@@ -1049,6 +1113,14 @@
       "onboard_time": 1763660295,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 34193,
+      "num": 368446,
+      "word": "十五运会新华社出图",
+      "onboard_time": 1763694800,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 32599,
@@ -1091,12 +1163,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19960,
-      "num": 109959,
+      "raw_hot": 24262,
+      "num": 121112,
       "word": "儿子定位柬埔寨母亲称被要25万赎金",
       "onboard_time": 1763694740,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22395,
+      "num": 123913,
+      "word": "日本80年来拒不承认二战结果",
+      "onboard_time": 1763695401,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18519,
@@ -1147,12 +1227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 9630,
-      "num": 278260,
-      "word": "十五运会新华社出图",
-      "onboard_time": 1763694800,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 9614,
+      "num": 126533,
+      "word": "中介称普通人别碰捡漏房",
+      "onboard_time": 1763695941,
+      "rank": 36,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

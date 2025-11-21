@@ -1,0 +1,410 @@
+{
+  "runTime": 1763695983625,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 449845,
+        "num": 1071975,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 433972,
+        "num": 433972,
+        "word": "未来房价上涨的3大核心信号",
+        "onboard_time": 1763692581,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 139121,
+        "num": 405174,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396053,
+        "num": 396053,
+        "word": "米哈游新作31分钟实机",
+        "onboard_time": 1763692999,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 189430,
+        "num": 394800,
+        "word": "每一个近视眼都该控糖了",
+        "onboard_time": 1763653163,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227714,
+        "num": 392310,
+        "word": "烟台压死女老师渣土车司机被定全责",
+        "onboard_time": 1763644703,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205116,
+        "num": 388780,
+        "word": "电影狂野时代",
+        "onboard_time": 1763660056,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170179,
+        "num": 383573,
+        "word": "144人当选两院院士",
+        "onboard_time": 1763688561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160163,
+        "num": 381923,
+        "word": "李维嘉吴昕湖南卫视再同台",
+        "onboard_time": 1763687241,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146434,
+        "num": 377278,
+        "word": "网传得闲谨制12月上映",
+        "onboard_time": 1763692581,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 540092,
+        "num": 375095,
+        "word": "实习生出差抽中显卡被公司要求上交",
+        "onboard_time": 1763688140,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 415173,
+        "num": 371587,
+        "word": "彭小苒 能不能别比惨",
+        "onboard_time": 1763692820,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 34193,
+        "num": 368446,
+        "word": "十五运会新华社出图",
+        "onboard_time": 1763694800,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 365442,
+        "num": 365442,
+        "word": "猫咪用敲击声回应民警救下主人",
+        "onboard_time": 1763690240,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 295166,
+        "num": 295166,
+        "word": "致中方人员在德食物中毒餐馆致歉",
+        "onboard_time": 1763688500,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 279858,
+        "num": 279858,
+        "word": "面包界真的需要一个蜜雪冰城",
+        "onboard_time": 1763684901,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245013,
+        "num": 245013,
+        "word": "女子水杯现不明液体警方锁定男同事",
+        "onboard_time": 1763693540,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164083,
+        "num": 164083,
+        "word": "一单的位置樊振东一守就是十年",
+        "onboard_time": 1763695761,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39143,
+        "num": 164063,
+        "word": "领馆介入上百名中国人在德食物中毒",
+        "onboard_time": 1763695041,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55249,
+        "num": 163990,
+        "word": "日本正向核力量靠拢",
+        "onboard_time": 1763695460,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 662916,
+        "num": 163942,
+        "word": "偶遇王岳伦和美女看展",
+        "onboard_time": 1763693360,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647387,
+        "num": 163905,
+        "word": "A股",
+        "onboard_time": 1763689460,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 424073,
+        "num": 163806,
+        "word": "股市",
+        "onboard_time": 1763694740,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 375790,
+        "num": 163785,
+        "word": "王楚钦说樊振东实在太强了",
+        "onboard_time": 1763682321,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163745,
+        "num": 163745,
+        "word": "短剧群演工资这么高",
+        "onboard_time": 1763687001,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 329432,
+        "num": 163730,
+        "word": "道崽女友",
+        "onboard_time": 1763693120,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 313311,
+        "num": 163599,
+        "word": "王橹杰买ccd被跑单",
+        "onboard_time": 1763691861,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 312931,
+        "num": 162837,
+        "word": "胡彦斌 法庭上带着你的破视频",
+        "onboard_time": 1763640563,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161147,
+        "num": 161147,
+        "word": "郭宇欣新剧看得人乳腺畅通",
+        "onboard_time": 1763693840,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127506,
+        "num": 159969,
+        "word": "王某辱骂烈士遗孀被处罚",
+        "onboard_time": 1763681119,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159902,
+        "num": 159902,
+        "word": "日本机构24场在华活动被取消",
+        "onboard_time": 1763693599,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280502,
+        "num": 155769,
+        "word": "陈伟霆带着电梯神图又杀回来了",
+        "onboard_time": 1763693540,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271159,
+        "num": 154181,
+        "word": "胡彦斌易梦玲还在马尔代夫",
+        "onboard_time": 1763651123,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148795,
+        "num": 148795,
+        "word": "马龙说着说着就快哭了",
+        "onboard_time": 1763685680,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129596,
+        "num": 129596,
+        "word": "李昀锐打球被一屁股撞飞路透",
+        "onboard_time": 1763695341,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117759,
+        "num": 129539,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9614,
+        "num": 126533,
+        "word": "中介称普通人别碰捡漏房",
+        "onboard_time": 1763695941,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40229,
+        "num": 125317,
+        "word": "日本核食谁爱吃谁吃",
+        "onboard_time": 1763695460,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22395,
+        "num": 123913,
+        "word": "日本80年来拒不承认二战结果",
+        "onboard_time": 1763695401,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29960,
+        "num": 122087,
+        "word": "江南好风景",
+        "onboard_time": 1763694080,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 24262,
+        "num": 121112,
+        "word": "儿子定位柬埔寨母亲称被要25万赎金",
+        "onboard_time": 1763694740,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119616,
+        "num": 119616,
+        "word": "冬天穿羽绒服就扎这样的丸子头",
+        "onboard_time": 1763687301,
+        "rank": 41,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 119507,
+        "num": 119507,
+        "word": "确诊为迪丽热巴陈星旭走路粉",
+        "onboard_time": 1763693240,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115242,
+        "num": 115242,
+        "word": "罗晋单位在北京",
+        "onboard_time": 1763684182,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108652,
+        "num": 108652,
+        "word": "央视曝造谣式起号",
+        "onboard_time": 1763693599,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104341,
+        "num": 104341,
+        "word": "许昕说对不起家庭和同事",
+        "onboard_time": 1763680578,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98555,
+        "num": 98555,
+        "word": "哑巴新郎开口最稳重的一次",
+        "onboard_time": 1763695761,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97826,
+        "num": 97826,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763635883,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107081,
+        "num": 97787,
+        "word": "罗晋这一年都在北京照顾父亲",
+        "onboard_time": 1763650943,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97662,
+        "num": 97662,
+        "word": "三滴血人贩子聊着天就把孩子卖了",
+        "onboard_time": 1763695640,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
