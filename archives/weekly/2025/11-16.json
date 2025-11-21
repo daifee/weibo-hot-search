@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763750848464,
+  "endTime": 1763752967590,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -21323,6 +21323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23078,
+      "num": 38622,
+      "word": "美结束俄乌冲突28点计划曝光",
+      "onboard_time": 1763748436,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23008,
       "num": 416952,
       "word": "北海舰队来吧敌人",
@@ -21889,6 +21897,14 @@
       "onboard_time": 1763320754,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 14096,
+      "num": 38290,
+      "word": "张杰台州演唱会",
+      "onboard_time": 1763752454,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 13787,

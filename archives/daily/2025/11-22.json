@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763750848464,
+  "endTime": 1763752967590,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -475,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 27164,
+      "num": 96831,
+      "word": "印度光辉战机表演时坠毁",
+      "onboard_time": 1763723063,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 26731,
       "num": 105426,
       "word": "易烊千玺现身狂野时代北京首映礼",
@@ -483,11 +491,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 23956,
-      "num": 96831,
-      "word": "印度光辉战机表演时坠毁",
-      "onboard_time": 1763723063,
-      "rank": 41,
+      "raw_hot": 23078,
+      "num": 38622,
+      "word": "美结束俄乌冲突28点计划曝光",
+      "onboard_time": 1763748436,
+      "rank": 16,
       "category": "国际时政"
     },
     {
@@ -513,6 +521,14 @@
       "onboard_time": 1763750175,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 14096,
+      "num": 38290,
+      "word": "张杰台州演唱会",
+      "onboard_time": 1763752454,
+      "rank": 33,
+      "category": "演出"
     }
   ],
   "hotgov_list": [

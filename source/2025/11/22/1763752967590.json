@@ -1,0 +1,410 @@
+{
+  "runTime": 1763752967590,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 105349,
+        "num": 105349,
+        "word": "湖南高院通报2高中生奸杀教师案",
+        "onboard_time": 1763738303,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81026,
+        "num": 81026,
+        "word": "高市早苗招惹马来西亚",
+        "onboard_time": 1763734522,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 6889,
+        "num": 61575,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763717003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51587,
+        "num": 51587,
+        "word": "中国点穴式制裁日本",
+        "onboard_time": 1763730802,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42344,
+        "num": 42344,
+        "word": "中方回应俄乌战场现中国武器",
+        "onboard_time": 1763726001,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 29397,
+        "num": 42205,
+        "word": "敌国条款称日本侵略五常可直接动武",
+        "onboard_time": 1763727621,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28654,
+        "num": 41779,
+        "word": "闭幕式谁的铲子掉了",
+        "onboard_time": 1763739621,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27164,
+        "num": 40896,
+        "word": "印度光辉战机表演时坠毁",
+        "onboard_time": 1763723063,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 25099,
+        "num": 40289,
+        "word": "原神",
+        "onboard_time": 1763727802,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24861,
+        "num": 39751,
+        "word": "狂野时代",
+        "onboard_time": 1763743338,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90745,
+        "num": 39527,
+        "word": "父亲称1万8雇月嫂女儿被喂奶呛死",
+        "onboard_time": 1763741362,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48022,
+        "num": 39131,
+        "word": "男子在泳池溺亡近30分钟无人施救",
+        "onboard_time": 1763739683,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38689,
+        "num": 38689,
+        "word": "更大更强的航母或出现在日本",
+        "onboard_time": 1763723422,
+        "rank": 12,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 33114,
+        "num": 38681,
+        "word": "冰箱贴已经进化成这样了吗",
+        "onboard_time": 1763728581,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31217,
+        "num": 38656,
+        "word": "王橹杰高会",
+        "onboard_time": 1763739143,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26512,
+        "num": 38633,
+        "word": "司机急刹车致23岁男生高位截瘫",
+        "onboard_time": 1763734702,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23078,
+        "num": 38622,
+        "word": "美结束俄乌冲突28点计划曝光",
+        "onboard_time": 1763748436,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22349,
+        "num": 38592,
+        "word": "高市早苗被与英国最短命首相类比",
+        "onboard_time": 1763745318,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22167,
+        "num": 38581,
+        "word": "他为什么依然单身",
+        "onboard_time": 1763723481,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21864,
+        "num": 38558,
+        "word": "张凌赫回复全运会获奖运动员",
+        "onboard_time": 1763736684,
+        "rank": 19,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 275031,
+        "num": 38540,
+        "word": "胡彦斌 不是AI的",
+        "onboard_time": 1763736143,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21665,
+        "num": 38513,
+        "word": "揭秘日本造航母暗度陈仓之路",
+        "onboard_time": 1763727621,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60080,
+        "num": 38507,
+        "word": "凤凰台上原著作者 女主",
+        "onboard_time": 1763735061,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57024,
+        "num": 38484,
+        "word": "易梦玲1分钟视频广告报价100万",
+        "onboard_time": 1763738424,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33833,
+        "num": 38474,
+        "word": "彭小苒回应凤凰台上原著作者",
+        "onboard_time": 1763728281,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144409,
+        "num": 38451,
+        "word": "胡彦斌要名分",
+        "onboard_time": 1763738424,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32289,
+        "num": 38426,
+        "word": "变形计张迪回应抛妻弃子",
+        "onboard_time": 1763746576,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28941,
+        "num": 38408,
+        "word": "日元持续贬值日本发出最强烈警告",
+        "onboard_time": 1763740281,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13541,
+        "num": 38392,
+        "word": "闭幕式 第九套广播体操",
+        "onboard_time": 1763727442,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12495,
+        "num": 38367,
+        "word": "江科大回应骗子如何当上首席科学家",
+        "onboard_time": 1763737944,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21586,
+        "num": 38338,
+        "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+        "onboard_time": 1763732542,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20862,
+        "num": 38324,
+        "word": "毕赣给易烊千玺拍宝丽来",
+        "onboard_time": 1763740102,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19928,
+        "num": 38302,
+        "word": "变形计张迪自曝没有生育能力",
+        "onboard_time": 1763730201,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14096,
+        "num": 38290,
+        "word": "张杰台州演唱会",
+        "onboard_time": 1763752454,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 13665,
+        "num": 38268,
+        "word": "李安对狂野时代的评价",
+        "onboard_time": 1763737404,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19775,
+        "num": 38239,
+        "word": "日本民众说本来没事都怪高市",
+        "onboard_time": 1763738604,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19523,
+        "num": 38236,
+        "word": "Gumayusi与Zeus碰面",
+        "onboard_time": 1763731042,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19277,
+        "num": 38206,
+        "word": "买二手房一定要买别人住过的",
+        "onboard_time": 1763731641,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 19246,
+        "num": 38198,
+        "word": "北大自杀女生包丽案细节披露",
+        "onboard_time": 1763718082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 12391,
+        "num": 38169,
+        "word": "湖南承办2029全运会",
+        "onboard_time": 1763730622,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13447,
+        "num": 38157,
+        "word": "彭小苒说好不好看观众自有判断",
+        "onboard_time": 1763746037,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18911,
+        "num": 38141,
+        "word": "kimi戴口罩好像易烊千玺",
+        "onboard_time": 1763715562,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18572,
+        "num": 38104,
+        "word": "葛荟婕回应女儿叫章子怡妈妈",
+        "onboard_time": 1763725821,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18119,
+        "num": 38085,
+        "word": "葛荟婕说不喜欢森林北",
+        "onboard_time": 1763740582,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18068,
+        "num": 38080,
+        "word": "周深3天4次以0票告终",
+        "onboard_time": 1763721202,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 16871,
+        "num": 38052,
+        "word": "女孩被撞身亡一周后收到录取书",
+        "onboard_time": 1763721683,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15885,
+        "num": 38034,
+        "word": "毒唯只对真嫂子破防",
+        "onboard_time": 1763722642,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15285,
+        "num": 38008,
+        "word": "王一博脚趾头都肿了",
+        "onboard_time": 1763726902,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 10106,
+        "num": 37989,
+        "word": "全球首个城市全景闭幕式看深圳",
+        "onboard_time": 1763740401,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9516,
+        "num": 37973,
+        "word": "深圳小学生扮澳门蛋挞",
+        "onboard_time": 1763738542,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
