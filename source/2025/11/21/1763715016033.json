@@ -1,0 +1,410 @@
+{
+  "runTime": 1763715016033,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 491781,
+        "num": 1078684,
+        "word": "CPA成绩",
+        "onboard_time": 1763705661,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 361007,
+        "num": 361007,
+        "word": "中国军网海外发布一切就绪",
+        "onboard_time": 1763707700,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50820,
+        "num": 360929,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134562,
+        "num": 360185,
+        "word": "全运会万米跑冠军被取消金牌",
+        "onboard_time": 1763701163,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131805,
+        "num": 359801,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 197376,
+        "num": 359443,
+        "word": "成毅暂无参加活动计划",
+        "onboard_time": 1763712500,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173623,
+        "num": 359214,
+        "word": "狂野时代首映礼",
+        "onboard_time": 1763712861,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123316,
+        "num": 358566,
+        "word": "中方就港口事宜回击美国",
+        "onboard_time": 1763708840,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119950,
+        "num": 358253,
+        "word": "便宜30%的印度水产你敢吃吗",
+        "onboard_time": 1763697622,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102961,
+        "num": 357707,
+        "word": "奇葩说 回归",
+        "onboard_time": 1763700442,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 827707,
+        "num": 357583,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1763708901,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 538354,
+        "num": 356831,
+        "word": "发个朋友圈680人不可见",
+        "onboard_time": 1763708180,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 474219,
+        "num": 356693,
+        "word": "汪苏泷信息量好大的一场直播",
+        "onboard_time": 1763709260,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 455018,
+        "num": 356321,
+        "word": "纠结女友过往性经历辱骂致其自杀",
+        "onboard_time": 1763710701,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396968,
+        "num": 355576,
+        "word": "王俊凯 熟男味",
+        "onboard_time": 1763712202,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25413,
+        "num": 355147,
+        "word": "古天乐重现项少龙名场面",
+        "onboard_time": 1763710400,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105089,
+        "num": 355040,
+        "word": "沈腾包场易烊千玺狂野时代",
+        "onboard_time": 1763710461,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256405,
+        "num": 354566,
+        "word": "梁淞说何美延又坏又蠢",
+        "onboard_time": 1763708662,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232807,
+        "num": 353965,
+        "word": "林宥嘉汪苏泷合照",
+        "onboard_time": 1763713521,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32814,
+        "num": 353582,
+        "word": "一秒进入智能温暖结界",
+        "onboard_time": 1763712261,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 971880,
+        "num": 353119,
+        "word": "女子一分钟内跳楼两次被救",
+        "onboard_time": 1763712141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 820902,
+        "num": 352712,
+        "word": "鹿晗 馒头真不能再吃了",
+        "onboard_time": 1763703681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352600,
+        "num": 352600,
+        "word": "唐嫣",
+        "onboard_time": 1763697261,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178283,
+        "num": 304693,
+        "word": "男子请陪产假被开除公司说纯属算计",
+        "onboard_time": 1763705362,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53567,
+        "num": 287743,
+        "word": "华为乾崑智驾开启多城L3内测",
+        "onboard_time": 1763712261,
+        "rank": 24,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 274771,
+        "num": 274771,
+        "word": "胡彦斌100件小事易梦玲看进去了",
+        "onboard_time": 1763700622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 255779,
+        "num": 255779,
+        "word": "杨紫又酷又辣",
+        "onboard_time": 1763708662,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202732,
+        "num": 246199,
+        "word": "徐志胜气笑李诞名场面",
+        "onboard_time": 1763712442,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42310,
+        "num": 241484,
+        "word": "人们不禁要问日本意欲何为",
+        "onboard_time": 1763712321,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37694,
+        "num": 240708,
+        "word": "两千保省奖八千保国奖",
+        "onboard_time": 1763703382,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240652,
+        "num": 240652,
+        "word": "黄雅琼刘雨辰婚纱照",
+        "onboard_time": 1763707400,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39437,
+        "num": 209142,
+        "word": "在德中毒华人以为食物发酸是当地特色",
+        "onboard_time": 1763713281,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85010,
+        "num": 208286,
+        "word": "俄称日本走向军国主义结局已注定",
+        "onboard_time": 1763713281,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 207935,
+        "num": 207935,
+        "word": "易梦玲 胡彦斌",
+        "onboard_time": 1763696181,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190312,
+        "num": 190312,
+        "word": "日本将琉球改为冲绳县",
+        "onboard_time": 1763714540,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181044,
+        "num": 181044,
+        "word": "繁花团6个人吃了1826元",
+        "onboard_time": 1763704941,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153034,
+        "num": 153034,
+        "word": "NS官宣Scout加入",
+        "onboard_time": 1763708421,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78032,
+        "num": 152894,
+        "word": "苏炳添回应退役后生活",
+        "onboard_time": 1763714780,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42267,
+        "num": 152603,
+        "word": "山上彻也曾企图自杀",
+        "onboard_time": 1763714422,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81862,
+        "num": 151894,
+        "word": "Peyz换掉GEN头像",
+        "onboard_time": 1763714062,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31248,
+        "num": 151514,
+        "word": "父母高速上打架10岁娃报警求助",
+        "onboard_time": 1763713760,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151460,
+        "num": 151460,
+        "word": "张维伊 你们少上点网吧",
+        "onboard_time": 1763706919,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71859,
+        "num": 142072,
+        "word": "王一博岩究中",
+        "onboard_time": 1763712861,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39030,
+        "num": 140349,
+        "word": "广西回应江湖最后的大嫂传言",
+        "onboard_time": 1763714961,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139141,
+        "num": 139141,
+        "word": "何赛飞爆料有演员整容整到认不出来",
+        "onboard_time": 1763700682,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139105,
+        "num": 139105,
+        "word": "樊振东被许昕的运气论笑喷",
+        "onboard_time": 1763710580,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 137548,
+        "num": 137548,
+        "word": "俄外交部发日本投降画面",
+        "onboard_time": 1763713340,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133071,
+        "num": 133071,
+        "word": "A股中长期向好趋势未改",
+        "onboard_time": 1763713041,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92673,
+        "num": 131994,
+        "word": "唐诡3就这个提更加更爽",
+        "onboard_time": 1763711002,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88054,
+        "num": 131887,
+        "word": "狂野时代",
+        "onboard_time": 1763705962,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
