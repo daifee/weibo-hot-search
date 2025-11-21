@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763736242095,
+  "endTime": 1763738691079,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -11,8 +11,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 6186705,
-      "num": 6186705,
+      "raw_hot": 8437647,
+      "num": 8437647,
       "word": "胡彦斌 不是AI的",
       "onboard_time": 1763736143,
       "rank": 20,
@@ -24,6 +24,14 @@
       "word": "易梦玲 好好笑哦",
       "onboard_time": 1763718141,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2376648,
+      "num": 178729,
+      "word": "胡彦斌要名分",
+      "onboard_time": 1763738424,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -315,6 +323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 517201,
+      "num": 1082752,
+      "word": "高市早苗招惹马来西亚",
+      "onboard_time": 1763734522,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 503077,
       "num": 1080492,
       "word": "便宜30%的印度水产你敢吃吗",
@@ -459,6 +475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399569,
+      "num": 399569,
+      "word": "湖南高院通报2高中生奸杀教师案",
+      "onboard_time": 1763738303,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396968,
       "num": 355576,
       "word": "王俊凯 熟男味",
@@ -537,14 +561,6 @@
       "onboard_time": 1763688500,
       "rank": 17,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 367805,
-      "num": 193817,
-      "word": "高市早苗招惹马来西亚",
-      "onboard_time": 1763734522,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 366198,
@@ -779,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 277035,
+      "num": 178862,
+      "word": "易梦玲没否认恋情",
+      "onboard_time": 1763736143,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276505,
       "num": 276505,
       "word": "50多万名中国游客取消原定日本行程",
@@ -851,12 +875,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 253771,
+      "num": 253771,
+      "word": "凤凰台上原著作者 女主",
+      "onboard_time": 1763735061,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253448,
       "num": 405885,
       "word": "易烊千玺 这比赛就一个人报名吗",
       "onboard_time": 1763697021,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252507,
+      "num": 179628,
+      "word": "张凌赫回复全运会获奖运动员",
+      "onboard_time": 1763736684,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 251099,
@@ -977,14 +1017,6 @@
       "onboard_time": 1763699181,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 218106,
-      "num": 218106,
-      "word": "凤凰台上原著作者 女主",
-      "onboard_time": 1763735061,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 207855,
@@ -1115,6 +1147,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193272,
+      "num": 178803,
+      "word": "不是AI是爱",
+      "onboard_time": 1763737883,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 193214,
+      "num": 193214,
+      "word": "深圳小学生扮澳门蛋挞",
+      "onboard_time": 1763738542,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 190325,
+      "num": 190325,
+      "word": "李安对狂野时代的评价",
+      "onboard_time": 1763737404,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 189844,
       "num": 189844,
       "word": "原来减速带不光对车有用",
@@ -1176,6 +1232,14 @@
       "word": "Gumayusi与Zeus碰面",
       "onboard_time": 1763731042,
       "rank": 30,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "Keria复盘S15打AL",
+      "onboard_time": 1763737344,
+      "rank": 7,
       "category": "电竞"
     },
     {
@@ -1347,14 +1411,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 163270,
-      "num": 163270,
-      "word": "易梦玲没否认恋情",
-      "onboard_time": 1763736143,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163207,
       "num": 287111,
       "word": "日本机构24场在华活动被取消",
@@ -1441,6 +1497,14 @@
       "onboard_time": 1763702481,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154312,
+      "num": 178539,
+      "word": "易梦玲1分钟视频广告报价100万",
+      "onboard_time": 1763738424,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 154197,
@@ -1611,6 +1675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 134654,
+      "num": 192837,
+      "word": "司机急刹车致23岁男生高位截瘫",
+      "onboard_time": 1763734702,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "日本反对日本",
@@ -1683,14 +1755,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 129912,
-      "num": 192837,
-      "word": "司机急刹车致23岁男生高位截瘫",
-      "onboard_time": 1763734702,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129249,
       "num": 246640,
       "word": "张靓颖广州车展天籁演唱会",
@@ -1721,6 +1785,14 @@
       "onboard_time": 1763643203,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127892,
+      "num": 192092,
+      "word": "央妈还在帮我们保存童年",
+      "onboard_time": 1763734582,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 127857,
@@ -2044,7 +2116,7 @@
     },
     {
       "raw_hot": 114175,
-      "num": 114175,
+      "num": 177814,
       "word": "王一博脚趾头都肿了",
       "onboard_time": 1763726902,
       "rank": 43,
@@ -2185,6 +2257,14 @@
       "onboard_time": 1763730263,
       "rank": 43,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 107035,
+      "num": 192718,
+      "word": "106岁妈妈让80岁女儿不要太贪玩",
+      "onboard_time": 1763734702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106700,
@@ -2419,20 +2499,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97389,
+      "num": 177733,
+      "word": "马龙太嗨了",
+      "onboard_time": 1763737704,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97297,
       "num": 97297,
       "word": "时代少年团彩排",
       "onboard_time": 1763689581,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 97136,
-      "num": 192092,
-      "word": "央妈还在帮我们保存童年",
-      "onboard_time": 1763734582,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 97110,
@@ -2451,12 +2531,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96042,
-      "num": 192718,
-      "word": "106岁妈妈让80岁女儿不要太贪玩",
-      "onboard_time": 1763734702,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 95230,
+      "num": 177649,
+      "word": "Doinb透露有LPL战队找他组队",
+      "onboard_time": 1763738303,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 95218,
@@ -2507,6 +2587,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 93157,
+      "num": 177463,
+      "word": "Keria夸赞iG",
+      "onboard_time": 1763737644,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93145,
       "num": 93145,
       "word": "樊振东全运会乒乓球奖牌榜第一",
@@ -2545,6 +2633,14 @@
       "onboard_time": 1763645424,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91211,
+      "num": 177415,
+      "word": "张家齐安慰全红婵陈芋汐的话好暖",
+      "onboard_time": 1763737463,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 90503,
@@ -3019,6 +3115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58262,
+      "num": 177889,
+      "word": "日本民众说本来没事都怪高市",
+      "onboard_time": 1763738604,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57554,
       "num": 142733,
       "word": "23岁女儿索要抚养费遭拒起诉父亲",
@@ -3147,6 +3251,14 @@
       "category": "民生新闻,幽默"
     },
     {
+      "raw_hot": 48232,
+      "num": 179158,
+      "word": "荣耀500镜头下的鲜活瞬间",
+      "onboard_time": 1763736143,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 47127,
       "num": 138749,
       "word": "1879年日本如何强行吞并琉球",
@@ -3169,14 +3281,6 @@
       "onboard_time": 1763719642,
       "rank": 29,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 45700,
-      "num": 125485,
-      "word": "荣耀500镜头下的鲜活瞬间",
-      "onboard_time": 1763736143,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 45392,
@@ -3264,6 +3368,14 @@
       "word": "22元下单蕉内羽绒服却遭拒发",
       "onboard_time": 1763697141,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40898,
+      "num": 177990,
+      "word": "江科大回应骗子如何当上首席科学家",
+      "onboard_time": 1763737944,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -3491,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29828,
+      "num": 177604,
+      "word": "湖南高院通报冷水江强奸案复查情况",
+      "onboard_time": 1763738362,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29723,
       "num": 164070,
       "word": "日本首相官邸外抗议人数剧增",
@@ -3561,6 +3681,14 @@
       "onboard_time": 1763695401,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22086,
+      "num": 177919,
+      "word": "摄影师起诉视觉中国侵权获赔1.5万",
+      "onboard_time": 1763738424,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21175,

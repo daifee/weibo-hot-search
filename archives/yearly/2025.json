@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763736242095,
+  "endTime": 1763738691079,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1723,6 +1723,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 8437647,
+      "num": 8437647,
+      "word": "胡彦斌 不是AI的",
+      "onboard_time": 1763736143,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8423438,
       "num": 8423438,
       "word": "云南震感",
@@ -2361,14 +2369,6 @@
       "onboard_time": 1751632946,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6186705,
-      "num": 6186705,
-      "word": "胡彦斌 不是AI的",
-      "onboard_time": 1763736143,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 6171972,

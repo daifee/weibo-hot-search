@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/21 22:44:02
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/21 23:24:51
 </p>
 </blockquote>
 <p>
@@ -1305,6 +1305,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84%23" target="weibo">
+胡彦斌 不是AI的（热度：8437647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E9%9C%87%E6%84%9F%23" target="weibo">
 云南震感（热度：8423438）
 </a>
@@ -1781,12 +1787,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%96%87%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
 李佳薇太牛了（热度：6390116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84%23" target="weibo">
-胡彦斌 不是AI的（热度：6186705）
 </a>
 </li>
 

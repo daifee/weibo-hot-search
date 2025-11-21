@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763736242095,
+  "endTime": 1763738691079,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -67,6 +67,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 8437647,
+      "num": 8437647,
+      "word": "胡彦斌 不是AI的",
+      "onboard_time": 1763736143,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8192449,
       "num": 8192449,
       "word": "T1三连冠",
@@ -129,14 +137,6 @@
       "onboard_time": 1762611024,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 6186705,
-      "num": 6186705,
-      "word": "胡彦斌 不是AI的",
-      "onboard_time": 1763736143,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 5959028,
@@ -337,6 +337,14 @@
       "onboard_time": 1763622681,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2376648,
+      "num": 178729,
+      "word": "胡彦斌要名分",
+      "onboard_time": 1763738424,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 2344629,
@@ -6779,6 +6787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517201,
+      "num": 1082752,
+      "word": "高市早苗招惹马来西亚",
+      "onboard_time": 1763734522,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 516768,
       "num": 210662,
       "word": "向太自曝想改遗嘱",
@@ -9859,6 +9875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 399569,
+      "num": 399569,
+      "word": "湖南高院通报2高中生奸杀教师案",
+      "onboard_time": 1763738303,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 399271,
       "num": 399271,
       "word": "2007年后出生的人不能在马尔代夫吸烟",
@@ -10929,14 +10953,6 @@
       "onboard_time": 1762535117,
       "rank": 0,
       "category": "音乐,综艺"
-    },
-    {
-      "raw_hot": 367805,
-      "num": 193817,
-      "word": "高市早苗招惹马来西亚",
-      "onboard_time": 1763734522,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 367367,
@@ -15243,6 +15259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 277035,
+      "num": 178862,
+      "word": "易梦玲没否认恋情",
+      "onboard_time": 1763736143,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276944,
       "num": 203314,
       "word": "杨国福回应1斤豆芽28元",
@@ -16659,6 +16683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253771,
+      "num": 253771,
+      "word": "凤凰台上原著作者 女主",
+      "onboard_time": 1763735061,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253739,
       "num": 253739,
       "word": "疯狂动物城2大先生爆改孙女奴",
@@ -16737,6 +16769,14 @@
       "onboard_time": 1763302342,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 252507,
+      "num": 179628,
+      "word": "张凌赫回复全运会获奖运动员",
+      "onboard_time": 1763736684,
+      "rank": 11,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 252506,
@@ -19065,14 +19105,6 @@
       "onboard_time": 1762328480,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 218106,
-      "num": 218106,
-      "word": "凤凰台上原著作者 女主",
-      "onboard_time": 1763735061,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 218090,
@@ -22315,12 +22347,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 193272,
+      "num": 178803,
+      "word": "不是AI是爱",
+      "onboard_time": 1763737883,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193229,
       "num": 193229,
       "word": "中国奇谭2",
       "onboard_time": 1763211026,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 193214,
+      "num": 193214,
+      "word": "深圳小学生扮澳门蛋挞",
+      "onboard_time": 1763738542,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 193160,
@@ -22889,6 +22937,14 @@
       "onboard_time": 1763086220,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 190325,
+      "num": 190325,
+      "word": "李安对狂野时代的评价",
+      "onboard_time": 1763737404,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 190248,
@@ -24681,6 +24737,14 @@
       "onboard_time": 1762233920,
       "rank": 36,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 180445,
+      "num": 180445,
+      "word": "Keria复盘S15打AL",
+      "onboard_time": 1763737344,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 180426,
@@ -27675,14 +27739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163270,
-      "num": 163270,
-      "word": "易梦玲没否认恋情",
-      "onboard_time": 1763736143,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 163251,
       "num": 163251,
       "word": "人民咖啡馆发布声明",
@@ -29857,6 +29913,14 @@
       "onboard_time": 1762697662,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 154312,
+      "num": 178539,
+      "word": "易梦玲1分钟视频广告报价100万",
+      "onboard_time": 1763738424,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 154304,
@@ -35003,6 +35067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134654,
+      "num": 192837,
+      "word": "司机急刹车致23岁男生高位截瘫",
+      "onboard_time": 1763734702,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134634,
       "num": 134634,
       "word": "樊振东赛场眼神气场全开",
@@ -36491,14 +36563,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 129912,
-      "num": 192837,
-      "word": "司机急刹车致23岁男生高位截瘫",
-      "onboard_time": 1763734702,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 129895,
       "num": 165075,
       "word": "张兴朝李嘉诚花式开尚界上街",
@@ -37185,6 +37249,14 @@
       "onboard_time": 1762855762,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127892,
+      "num": 192092,
+      "word": "央妈还在帮我们保存童年",
+      "onboard_time": 1763734582,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 127884,
@@ -42868,7 +42940,7 @@
     },
     {
       "raw_hot": 114175,
-      "num": 114175,
+      "num": 177814,
       "word": "王一博脚趾头都肿了",
       "onboard_time": 1763726902,
       "rank": 43,
@@ -45977,6 +46049,14 @@
       "onboard_time": 1762169602,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 107035,
+      "num": 192718,
+      "word": "106岁妈妈让80岁女儿不要太贪玩",
+      "onboard_time": 1763734702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106995,
@@ -51027,6 +51107,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 97389,
+      "num": 177733,
+      "word": "马龙太嗨了",
+      "onboard_time": 1763737704,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97367,
       "num": 203827,
       "word": "最适合张凌赫的副业出现了",
@@ -51185,14 +51273,6 @@
       "onboard_time": 1762339942,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 97136,
-      "num": 192092,
-      "word": "央妈还在帮我们保存童年",
-      "onboard_time": 1763734582,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 97129,
@@ -51723,14 +51803,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 96042,
-      "num": 192718,
-      "word": "106岁妈妈让80岁女儿不要太贪玩",
-      "onboard_time": 1763734702,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 95970,
       "num": 95970,
       "word": "26岁女子回应撞脸全红婵",
@@ -52161,6 +52233,14 @@
       "onboard_time": 1763120001,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95230,
+      "num": 177649,
+      "word": "Doinb透露有LPL战队找他组队",
+      "onboard_time": 1763738303,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 95218,
@@ -53235,6 +53315,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 93157,
+      "num": 177463,
+      "word": "Keria夸赞iG",
+      "onboard_time": 1763737644,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 93146,
       "num": 93146,
       "word": "陈梦李晓霞热聊",
@@ -54185,6 +54273,14 @@
       "onboard_time": 1762437802,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91211,
+      "num": 177415,
+      "word": "张家齐安慰全红婵陈芋汐的话好暖",
+      "onboard_time": 1763737463,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 91201,
@@ -65947,6 +66043,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 58262,
+      "num": 177889,
+      "word": "日本民众说本来没事都怪高市",
+      "onboard_time": 1763738604,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58231,
       "num": 133302,
       "word": "双十一就是买完你的买你的",
@@ -68139,6 +68243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48232,
+      "num": 179158,
+      "word": "荣耀500镜头下的鲜活瞬间",
+      "onboard_time": 1763736143,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48209,
       "num": 60029,
       "word": "俄动物园十余只负鼠遭惊吓齐装死",
@@ -68753,14 +68865,6 @@
       "onboard_time": 1763626342,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 45700,
-      "num": 125485,
-      "word": "荣耀500镜头下的鲜活瞬间",
-      "onboard_time": 1763736143,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 45681,
@@ -69872,6 +69976,14 @@
       "word": "22元下单蕉内羽绒服却遭拒发",
       "onboard_time": 1763697141,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40898,
+      "num": 177990,
+      "word": "江科大回应骗子如何当上首席科学家",
+      "onboard_time": 1763737944,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -72643,6 +72755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29828,
+      "num": 177604,
+      "word": "湖南高院通报冷水江强奸案复查情况",
+      "onboard_time": 1763738362,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29790,
       "num": 253194,
       "word": "网友扎堆晒赴日机票退票成功记录",
@@ -74257,6 +74377,14 @@
       "onboard_time": 1762968618,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22086,
+      "num": 177919,
+      "word": "摄影师起诉视觉中国侵权获赔1.5万",
+      "onboard_time": 1763738424,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22058,

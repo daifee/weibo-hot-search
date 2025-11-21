@@ -1,0 +1,410 @@
+{
+  "runTime": 1763738691079,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 517201,
+        "num": 1082752,
+        "word": "高市早苗招惹马来西亚",
+        "onboard_time": 1763734522,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 399569,
+        "num": 399569,
+        "word": "湖南高院通报2高中生奸杀教师案",
+        "onboard_time": 1763738303,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28438,
+        "num": 325713,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763717003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 301970,
+        "num": 301970,
+        "word": "敌国条款称日本侵略五常可直接动武",
+        "onboard_time": 1763727621,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 253771,
+        "num": 253771,
+        "word": "凤凰台上原著作者 女主",
+        "onboard_time": 1763735061,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193214,
+        "num": 193214,
+        "word": "深圳小学生扮澳门蛋挞",
+        "onboard_time": 1763738542,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190325,
+        "num": 190325,
+        "word": "李安对狂野时代的评价",
+        "onboard_time": 1763737404,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180445,
+        "num": 180445,
+        "word": "Keria复盘S15打AL",
+        "onboard_time": 1763737344,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179787,
+        "num": 179787,
+        "word": "闭幕式 第九套广播体操",
+        "onboard_time": 1763727442,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142544,
+        "num": 179768,
+        "word": "中国点穴式制裁日本",
+        "onboard_time": 1763730802,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383079,
+        "num": 179662,
+        "word": "冰箱贴已经进化成这样了吗",
+        "onboard_time": 1763728581,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252507,
+        "num": 179628,
+        "word": "张凌赫回复全运会获奖运动员",
+        "onboard_time": 1763736684,
+        "rank": 11,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 231433,
+        "num": 179537,
+        "word": "更大更强的航母或出现在日本",
+        "onboard_time": 1763723422,
+        "rank": 12,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 227992,
+        "num": 179512,
+        "word": "中方回应俄乌战场现中国武器",
+        "onboard_time": 1763726001,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151114,
+        "num": 179413,
+        "word": "买二手房一定要买别人住过的",
+        "onboard_time": 1763731641,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 136867,
+        "num": 179399,
+        "word": "湖南承办2029全运会",
+        "onboard_time": 1763730622,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 131201,
+        "num": 179303,
+        "word": "狂野时代首映口碑",
+        "onboard_time": 1763733922,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105344,
+        "num": 179236,
+        "word": "他为什么依然单身",
+        "onboard_time": 1763723481,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96865,
+        "num": 179168,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1763726301,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 48232,
+        "num": 179158,
+        "word": "荣耀500镜头下的鲜活瞬间",
+        "onboard_time": 1763736143,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8437647,
+        "num": 8437647,
+        "word": "胡彦斌 不是AI的",
+        "onboard_time": 1763736143,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328021,
+        "num": 178993,
+        "word": "彭小苒回应凤凰台上原著作者",
+        "onboard_time": 1763728281,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302665,
+        "num": 178940,
+        "word": "凤凰台上 东宫",
+        "onboard_time": 1763732662,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277035,
+        "num": 178862,
+        "word": "易梦玲没否认恋情",
+        "onboard_time": 1763736143,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193272,
+        "num": 178803,
+        "word": "不是AI是爱",
+        "onboard_time": 1763737883,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 2376648,
+        "num": 178729,
+        "word": "胡彦斌要名分",
+        "onboard_time": 1763738424,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149200,
+        "num": 178665,
+        "word": "葛荟婕回应女儿叫章子怡妈妈",
+        "onboard_time": 1763725821,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134654,
+        "num": 178621,
+        "word": "司机急刹车致23岁男生高位截瘫",
+        "onboard_time": 1763734702,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154312,
+        "num": 178539,
+        "word": "易梦玲1分钟视频广告报价100万",
+        "onboard_time": 1763738424,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127892,
+        "num": 178493,
+        "word": "央妈还在帮我们保存童年",
+        "onboard_time": 1763734582,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122466,
+        "num": 178455,
+        "word": "北大自杀女生包丽案细节披露",
+        "onboard_time": 1763718082,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119662,
+        "num": 178341,
+        "word": "卢凌风 苏无名",
+        "onboard_time": 1763729422,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118365,
+        "num": 178308,
+        "word": "印度光辉战机表演时坠毁",
+        "onboard_time": 1763723063,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117859,
+        "num": 178235,
+        "word": "女孩被撞身亡一周后收到录取书",
+        "onboard_time": 1763721683,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107035,
+        "num": 178213,
+        "word": "106岁妈妈让80岁女儿不要太贪玩",
+        "onboard_time": 1763734702,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106549,
+        "num": 178123,
+        "word": "毒唯只对真嫂子破防",
+        "onboard_time": 1763722642,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81723,
+        "num": 178042,
+        "word": "王鹤棣沈月合体跳pretty",
+        "onboard_time": 1763721563,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40898,
+        "num": 177990,
+        "word": "江科大回应骗子如何当上首席科学家",
+        "onboard_time": 1763737944,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22086,
+        "num": 177919,
+        "word": "摄影师起诉视觉中国侵权获赔1.5万",
+        "onboard_time": 1763738424,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58262,
+        "num": 177889,
+        "word": "日本民众说本来没事都怪高市",
+        "onboard_time": 1763738604,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 101481,
+        "num": 177814,
+        "word": "王一博脚趾头都肿了",
+        "onboard_time": 1763726902,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97389,
+        "num": 177733,
+        "word": "马龙太嗨了",
+        "onboard_time": 1763737704,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95230,
+        "num": 177649,
+        "word": "Doinb透露有LPL战队找他组队",
+        "onboard_time": 1763738303,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 29828,
+        "num": 177604,
+        "word": "湖南高院通报冷水江强奸案复查情况",
+        "onboard_time": 1763738362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94469,
+        "num": 177526,
+        "word": "周深3天4次以0票告终",
+        "onboard_time": 1763721202,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93157,
+        "num": 177463,
+        "word": "Keria夸赞iG",
+        "onboard_time": 1763737644,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91211,
+        "num": 177415,
+        "word": "张家齐安慰全红婵陈芋汐的话好暖",
+        "onboard_time": 1763737463,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89501,
+        "num": 177346,
+        "word": "kimi戴口罩好像易烊千玺",
+        "onboard_time": 1763715562,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87468,
+        "num": 177311,
+        "word": "变形计张迪自曝没有生育能力",
+        "onboard_time": 1763730201,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83781,
+        "num": 177259,
+        "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+        "onboard_time": 1763732542,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}

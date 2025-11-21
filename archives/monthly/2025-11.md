@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 22:44:02
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 23:24:51
 </p>
 </blockquote>
 <p>
@@ -63,6 +63,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84%23" target="weibo">
+胡彦斌 不是AI的（热度：8437647）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E4%B8%89%E8%BF%9E%E5%86%A0%23" target="weibo">
 T1三连冠（热度：8192449）
 </a>
@@ -107,12 +113,6 @@ T1三连冠（热度：8192449）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E5%A4%BA%E5%86%A0%23" target="weibo">
 AG夺冠（热度：6577239）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84%23" target="weibo">
-胡彦斌 不是AI的（热度：6186705）
 </a>
 </li>
 
@@ -263,6 +263,12 @@ T1官宣Gumayusi离队（热度：3390474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%BB%93%E5%A9%9A%23" target="weibo">
 霸王茶姬创始人结婚（热度：2403933）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E8%A6%81%E5%90%8D%E5%88%86%23" target="weibo">
+胡彦斌要名分（热度：2376648）
 </a>
 </li>
 
@@ -5097,6 +5103,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23" target="weibo">
+高市早苗招惹马来西亚（热度：517201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E8%87%AA%E6%9B%9D%E6%83%B3%E6%94%B9%E9%81%97%E5%98%B1%23" target="weibo">
 向太自曝想改遗嘱（热度：516768）
 </a>
@@ -5999,18 +6011,6 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%8F%91%E6%96%87%E6%81%AD%E5%96%9C%E5%88%98%E6%98%A5%E5%92%8C%23" target="weibo">
 TFBOYS发文恭喜刘春和（热度：466139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9B%85%E9%92%A6%E6%91%94%E5%80%92%23" target="weibo">
-张雅钦摔倒（热度：465852）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%8B%A5%E8%8B%B1%E8%B0%8844%E5%B2%81%E6%80%80%E5%AD%95%E7%BB%8F%E5%8E%86%23" target="weibo">
-刘若英谈44岁怀孕经历（热度：465643）
 </a>
 </li>
 
