@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763691536768,
+  "endTime": 1763695031961,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -9,6 +9,14 @@
       "onboard_time": 1763650461,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 834240,
+      "num": 153647,
+      "word": "A股",
+      "onboard_time": 1763689460,
+      "rank": 20,
+      "category": "财经"
     },
     {
       "raw_hot": 832263,
@@ -20,19 +28,11 @@
     },
     {
       "raw_hot": 799671,
-      "num": 175119,
+      "num": 218096,
       "word": "实习生出差抽中显卡被公司要求上交",
       "onboard_time": 1763688140,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 714801,
-      "num": 153647,
-      "word": "A股",
-      "onboard_time": 1763689460,
-      "rank": 20,
-      "category": "财经"
     },
     {
       "raw_hot": 642540,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 534116,
-      "num": 174311,
+      "num": 216985,
       "word": "面包界真的需要一个蜜雪冰城",
       "onboard_time": 1763684901,
       "rank": 11,
@@ -91,12 +91,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 460124,
+      "num": 147539,
+      "word": "偶遇王岳伦和美女看展",
+      "onboard_time": 1763693360,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 460085,
+      "num": 217920,
+      "word": "彭小苒 能不能别比惨",
+      "onboard_time": 1763692820,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 425287,
+      "num": 177413,
+      "word": "王楚钦说樊振东实在太强了",
+      "onboard_time": 1763682321,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409207,
       "num": 338071,
       "word": "烟台压死女老师渣土车司机被定全责",
       "onboard_time": 1763644703,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 405795,
+      "num": 145563,
+      "word": "未来房价上涨的3大核心信号",
+      "onboard_time": 1763692581,
+      "rank": 24,
+      "category": "财经"
     },
     {
       "raw_hot": 380694,
@@ -108,7 +140,7 @@
     },
     {
       "raw_hot": 378916,
-      "num": 171520,
+      "num": 216672,
       "word": "短剧群演工资这么高",
       "onboard_time": 1763687001,
       "rank": 14,
@@ -129,6 +161,22 @@
       "onboard_time": 1763635763,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 368868,
+      "num": 217584,
+      "word": "致中方人员在德食物中毒餐馆致歉",
+      "onboard_time": 1763688500,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 366680,
+      "num": 366680,
+      "word": "米哈游新作31分钟实机",
+      "onboard_time": 1763692999,
+      "rank": 1,
+      "category": "游戏"
     },
     {
       "raw_hot": 345241,
@@ -179,12 +227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304555,
-      "num": 164260,
-      "word": "致中方人员在德食物中毒餐馆致歉",
-      "onboard_time": 1763688500,
-      "rank": 17,
-      "category": "海外新闻"
+      "raw_hot": 302563,
+      "num": 143762,
+      "word": "王橹杰买ccd被跑单",
+      "onboard_time": 1763691861,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 301592,
@@ -203,12 +251,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 291944,
+      "num": 217146,
+      "word": "猫咪用敲击声回应民警救下主人",
+      "onboard_time": 1763690240,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 276505,
       "num": 276505,
       "word": "50多万名中国游客取消原定日本行程",
       "onboard_time": 1763651483,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 255781,
+      "num": 142543,
+      "word": "道崽女友",
+      "onboard_time": 1763693120,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 248321,
@@ -227,12 +291,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208269,
+      "num": 141459,
+      "word": "陈伟霆带着电梯神图又杀回来了",
+      "onboard_time": 1763693540,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207432,
       "num": 207432,
       "word": "美股",
       "onboard_time": 1763680458,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 203961,
+      "num": 140254,
+      "word": "郭宇欣新剧看得人乳腺畅通",
+      "onboard_time": 1763693840,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 202193,
@@ -267,6 +347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 185586,
+      "num": 138999,
+      "word": "股市",
+      "onboard_time": 1763694740,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 185493,
       "num": 212683,
       "word": "樊振东许昕周恺亚军",
@@ -275,16 +363,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 177413,
-      "num": 177413,
-      "word": "王楚钦说樊振东实在太强了",
-      "onboard_time": 1763682321,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170018,
-      "num": 170018,
+      "num": 218506,
       "word": "王某辱骂烈士遗孀被处罚",
       "onboard_time": 1763681119,
       "rank": 48,
@@ -305,6 +385,14 @@
       "onboard_time": 1763638763,
       "rank": 13,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160028,
+      "num": 160028,
+      "word": "日本机构24场在华活动被取消",
+      "onboard_time": 1763693599,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159965,
@@ -329,6 +417,22 @@
       "onboard_time": 1763683582,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151239,
+      "num": 219120,
+      "word": "网传得闲谨制12月上映",
+      "onboard_time": 1763692581,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150687,
+      "num": 150687,
+      "word": "女子水杯现不明液体警方锁定男同事",
+      "onboard_time": 1763693540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148560,
@@ -393,6 +497,14 @@
       "onboard_time": 1763643203,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 125908,
+      "num": 125908,
+      "word": "高市早苗不是嘴瓢而是说漏了",
+      "onboard_time": 1763689040,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 124274,
@@ -475,6 +587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106543,
+      "num": 106543,
+      "word": "你告诉我这是肖顺尧",
+      "onboard_time": 1763693240,
+      "rank": 40,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 105827,
+      "num": 105827,
+      "word": "确诊为迪丽热巴陈星旭走路粉",
+      "onboard_time": 1763693240,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105825,
       "num": 105825,
       "word": "马龙发布会调侃记者",
@@ -505,6 +633,14 @@
       "onboard_time": 1763650523,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97470,
+      "num": 124016,
+      "word": "李施嬅心疼车崇健",
+      "onboard_time": 1763691200,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 97297,
@@ -539,12 +675,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 93594,
-      "num": 93594,
-      "word": "猫咪用敲击声回应民警救下主人",
-      "onboard_time": 1763690240,
-      "rank": 42,
-      "category": "民生新闻"
+      "raw_hot": 94279,
+      "num": 94279,
+      "word": "被母婴圈的物价震惊到了",
+      "onboard_time": 1763691081,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 93145,
@@ -553,14 +689,6 @@
       "onboard_time": 1763650163,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93073,
-      "num": 124016,
-      "word": "李施嬅心疼车崇健",
-      "onboard_time": 1763691200,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 91876,
@@ -611,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80803,
+      "num": 149124,
+      "word": "全运会闭幕式",
+      "onboard_time": 1763694620,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 79153,
       "num": 79153,
       "word": "CPA查分",
@@ -625,14 +761,6 @@
       "onboard_time": 1763638884,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 78954,
-      "num": 78954,
-      "word": "被母婴圈的物价震惊到了",
-      "onboard_time": 1763691081,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 78566,
@@ -795,14 +923,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 61627,
-      "num": 89007,
-      "word": "高市早苗不是嘴瓢而是说漏了",
-      "onboard_time": 1763689040,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 61253,
       "num": 64609,
       "word": "全场送别苏炳添",
@@ -851,6 +971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50069,
+      "num": 98135,
+      "word": "批发价4百的羽绒服商场零售卖3千",
+      "onboard_time": 1763693540,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 49678,
       "num": 89334,
       "word": "金摇杆年度最佳游戏",
@@ -865,6 +993,14 @@
       "onboard_time": 1763681479,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 45349,
+      "num": 108136,
+      "word": "江南好风景",
+      "onboard_time": 1763694080,
+      "rank": 39,
+      "category": "旅游"
     },
     {
       "raw_hot": 42682,
@@ -888,6 +1024,14 @@
       "word": "王楚钦加油",
       "onboard_time": 1763681119,
       "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 34962,
+      "num": 97700,
+      "word": "马龙回应未来是否参赛",
+      "onboard_time": 1763693599,
+      "rank": 45,
       "category": "体育"
     },
     {
@@ -947,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19960,
+      "num": 109959,
+      "word": "儿子定位柬埔寨母亲称被要25万赎金",
+      "onboard_time": 1763694740,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18519,
       "num": 46670,
       "word": "王楚钦丢球扇自己巴掌",
@@ -993,11 +1145,22 @@
       "onboard_time": 1763667554,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 9630,
+      "num": 278260,
+      "word": "十五运会新华社出图",
+      "onboard_time": 1763694800,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记高度重视体育强国建设#"
+    },
+    {
+      "word": "#总书记勉励体育健儿的高频词#"
     }
   ]
 }
