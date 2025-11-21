@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763753812928,
+  "endTime": 1763757023065,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -427,6 +427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38269,
+      "num": 42151,
+      "word": "美结束俄乌冲突28点计划曝光",
+      "onboard_time": 1763748436,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 36945,
       "num": 96663,
       "word": "彭小苒说好不好看观众自有判断",
@@ -473,14 +481,6 @@
       "onboard_time": 1763740401,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 30329,
-      "num": 42151,
-      "word": "美结束俄乌冲突28点计划曝光",
-      "onboard_time": 1763748436,
-      "rank": 16,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28417,
@@ -539,12 +539,44 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 16797,
+      "num": 27452,
+      "word": "中方的反制在日本产生连锁反应",
+      "onboard_time": 1763754734,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 16177,
+      "num": 27448,
+      "word": "男子花8万元网购70平海景房",
+      "onboard_time": 1763756713,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15301,
+      "num": 27445,
+      "word": "你的英语在外国人眼中的样子",
+      "onboard_time": 1763755394,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 14096,
       "num": 42058,
       "word": "张杰台州演唱会",
       "onboard_time": 1763752454,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10357,
+      "num": 27443,
+      "word": "中国反家暴典型案例三大特点",
+      "onboard_time": 1763755694,
+      "rank": 48,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
