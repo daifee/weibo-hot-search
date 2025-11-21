@@ -1,10 +1,10 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763697492847,
+  "endTime": 1763699517922,
   "band_list": [
     {
       "raw_hot": 1185156,
-      "num": 433972,
+      "num": 449258,
       "word": "未来房价上涨的3大核心信号",
       "onboard_time": 1763692581,
       "rank": 24,
@@ -36,15 +36,23 @@
     },
     {
       "raw_hot": 799671,
-      "num": 375095,
+      "num": 415977,
       "word": "实习生出差抽中显卡被公司要求上交",
       "onboard_time": 1763688140,
       "rank": 10,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 772804,
+      "num": 378660,
+      "word": "唐嫣",
+      "onboard_time": 1763697261,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703029,
-      "num": 279827,
+      "num": 370819,
       "word": "易梦玲 胡彦斌",
       "onboard_time": 1763696181,
       "rank": 21,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 662916,
-      "num": 279658,
+      "num": 315461,
       "word": "偶遇王岳伦和美女看展",
       "onboard_time": 1763693360,
       "rank": 22,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 534116,
-      "num": 290030,
+      "num": 400255,
       "word": "面包界真的需要一个蜜雪冰城",
       "onboard_time": 1763684901,
       "rank": 11,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 482681,
-      "num": 278178,
+      "num": 343462,
       "word": "道崽女友",
       "onboard_time": 1763693120,
       "rank": 27,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 481318,
-      "num": 297239,
+      "num": 448871,
       "word": "女子水杯现不明液体警方锁定男同事",
       "onboard_time": 1763693540,
       "rank": 18,
@@ -139,6 +147,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 459186,
+      "num": 331869,
+      "word": "唐嫣ip在上海",
+      "onboard_time": 1763696720,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 459136,
+      "num": 459136,
+      "word": "宁静爆料金鸡奖评奖内幕",
+      "onboard_time": 1763698583,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 425287,
       "num": 270622,
       "word": "王楚钦说樊振东实在太强了",
@@ -148,15 +172,23 @@
     },
     {
       "raw_hot": 424073,
-      "num": 272802,
+      "num": 362851,
       "word": "股市",
       "onboard_time": 1763694740,
       "rank": 31,
       "category": "财经"
     },
     {
+      "raw_hot": 417874,
+      "num": 417874,
+      "word": "一单的位置樊振东一守就是十年",
+      "onboard_time": 1763695761,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 409207,
-      "num": 392310,
+      "num": 395765,
       "word": "烟台压死女老师渣土车司机被定全责",
       "onboard_time": 1763644703,
       "rank": 41,
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 396053,
-      "num": 396053,
+      "num": 576081,
       "word": "米哈游新作31分钟实机",
       "onboard_time": 1763692999,
       "rank": 1,
@@ -172,7 +204,7 @@
     },
     {
       "raw_hot": 380694,
-      "num": 383573,
+      "num": 452509,
       "word": "144人当选两院院士",
       "onboard_time": 1763688561,
       "rank": 1,
@@ -204,7 +236,7 @@
     },
     {
       "raw_hot": 368868,
-      "num": 304871,
+      "num": 453289,
       "word": "致中方人员在德食物中毒餐馆致歉",
       "onboard_time": 1763688500,
       "rank": 17,
@@ -219,20 +251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 357285,
-      "num": 293521,
-      "word": "一单的位置樊振东一守就是十年",
-      "onboard_time": 1763695761,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 345241,
       "num": 345241,
       "word": "王楚钦回应再输樊振东",
       "onboard_time": 1763681539,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 343894,
+      "num": 708630,
+      "word": "日本经济界陷入集体焦虑",
+      "onboard_time": 1763697201,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 343524,
@@ -284,7 +316,7 @@
     },
     {
       "raw_hot": 302650,
-      "num": 302650,
+      "num": 457384,
       "word": "狂野时代预售票房破亿",
       "onboard_time": 1763696181,
       "rank": 6,
@@ -323,6 +355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 253448,
+      "num": 405885,
+      "word": "易烊千玺 这比赛就一个人报名吗",
+      "onboard_time": 1763697021,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248321,
       "num": 248321,
       "word": "得闲谨制",
@@ -337,6 +377,30 @@
       "onboard_time": 1763680639,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 234803,
+      "num": 455541,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1763698282,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 229724,
+      "num": 966012,
+      "word": "便宜30%的印度水产你敢吃吗",
+      "onboard_time": 1763697622,
+      "rank": 1,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 221964,
+      "num": 221964,
+      "word": "李沁刘浩存坐在一起",
+      "onboard_time": 1763697021,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 207432,
@@ -379,14 +443,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 200566,
-      "num": 200566,
-      "word": "唐嫣ip在上海",
-      "onboard_time": 1763696720,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 199953,
       "num": 199953,
       "word": "时代峰峻 催氪",
@@ -419,6 +475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183735,
+      "num": 183735,
+      "word": "五月天宋雨琦Radio舞台MV",
+      "onboard_time": 1763699181,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170018,
       "num": 218506,
       "word": "王某辱骂烈士遗孀被处罚",
@@ -443,6 +507,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165228,
+      "num": 165228,
+      "word": "发明请抬脚的人真是个天才",
+      "onboard_time": 1763699362,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 163207,
       "num": 287111,
       "word": "日本机构24场在华活动被取消",
@@ -451,12 +523,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 160965,
+      "num": 223858,
+      "word": "果然天才老了也是天才",
+      "onboard_time": 1763698221,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 159965,
       "num": 150937,
       "word": "冬天穿羽绒服就扎这样的丸子头",
       "onboard_time": 1763687301,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 157947,
+      "num": 157947,
+      "word": "小狗因为内耗一晚上都没闭眼",
+      "onboard_time": 1763698521,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 155543,
@@ -499,12 +587,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 144223,
-      "num": 136654,
-      "word": "易烊千玺 这比赛就一个人报名吗",
-      "onboard_time": 1763697021,
-      "rank": 42,
-      "category": "艺人"
+      "raw_hot": 148110,
+      "num": 148110,
+      "word": "朱珠真的不考虑开个穿搭班吗",
+      "onboard_time": 1763697380,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 142369,
@@ -532,19 +620,27 @@
     },
     {
       "raw_hot": 139121,
-      "num": 405174,
+      "num": 879301,
       "word": "全运会闭幕式",
       "onboard_time": 1763694620,
       "rank": 20,
       "category": "国内时政"
     },
     {
-      "raw_hot": 136157,
-      "num": 136157,
-      "word": "李沁刘浩存坐在一起",
-      "onboard_time": 1763697021,
-      "rank": 43,
-      "category": "作品衍生"
+      "raw_hot": 139107,
+      "num": 139107,
+      "word": "刘耀文眉毛上画的sauce",
+      "onboard_time": 1763699422,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 135974,
+      "num": 165032,
+      "word": "声生不息",
+      "onboard_time": 1763697741,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 133737,
@@ -587,20 +683,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128159,
+      "num": 164616,
+      "word": "许昕搞笑回应上海队不敌北京队",
+      "onboard_time": 1763698462,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127857,
       "num": 127857,
       "word": "枭起青壤",
       "onboard_time": 1763696961,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 126356,
-      "num": 126356,
-      "word": "唐嫣",
-      "onboard_time": 1763697261,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 125908,
@@ -619,6 +715,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 124173,
+      "num": 124173,
+      "word": "范丞丞狂野时代包场",
+      "onboard_time": 1763699482,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123726,
       "num": 123726,
       "word": "美国对中日关系持谨慎态度",
@@ -633,6 +737,14 @@
       "onboard_time": 1763685680,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122158,
+      "num": 163827,
+      "word": "比亚迪首席科学家当选院士",
+      "onboard_time": 1763699303,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120734,
@@ -683,14 +795,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 115238,
-      "num": 115238,
-      "word": "朱珠真的不考虑开个穿搭班吗",
-      "onboard_time": 1763697380,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 111805,
       "num": 111805,
       "word": "三滴血人贩子聊着天就把孩子卖了",
@@ -705,6 +809,14 @@
       "onboard_time": 1763682501,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110181,
+      "num": 130332,
+      "word": "王楚钦混团见",
+      "onboard_time": 1763697861,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 108786,
@@ -939,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75468,
+      "num": 408173,
+      "word": "千问该叫欠问",
+      "onboard_time": 1763697622,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74261,
       "num": 74261,
       "word": "王楚钦我也没那么老吧",
@@ -977,6 +1097,14 @@
       "onboard_time": 1763689879,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69046,
+      "num": 388230,
+      "word": "金标吉利银河V900全球首秀",
+      "onboard_time": 1763698342,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 67996,
@@ -1019,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 65479,
+      "num": 162394,
+      "word": "苏醒夫妇带大儿子游韩国",
+      "onboard_time": 1763699063,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63883,
       "num": 70308,
       "word": "研究称孕期压力大宝宝长牙更早",
@@ -1057,14 +1193,6 @@
       "onboard_time": 1763681660,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 62132,
-      "num": 273709,
-      "word": "日本经济界陷入集体焦虑",
-      "onboard_time": 1763697201,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 61253,
@@ -1112,6 +1240,14 @@
       "word": "全国每5人就有1人念过大学",
       "onboard_time": 1763696241,
       "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50721,
+      "num": 163706,
+      "word": "新人因拒绝帮同事打扫卫生被辞",
+      "onboard_time": 1763698342,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1203,6 +1339,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 38598,
+      "num": 162960,
+      "word": "古镇旅游为啥不香了",
+      "onboard_time": 1763698462,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34962,
       "num": 97700,
       "word": "马龙回应未来是否参赛",
@@ -1244,7 +1388,7 @@
     },
     {
       "raw_hot": 33535,
-      "num": 283016,
+      "num": 383118,
       "word": "星运花城精彩正奔驰",
       "onboard_time": 1763696482,
       "rank": 19,
@@ -1264,6 +1408,14 @@
       "word": "重庆知名幼儿园爆雷负责人被批捕",
       "onboard_time": 1763655259,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31943,
+      "num": 367722,
+      "word": "男子花14.8万迎娶假高官之女",
+      "onboard_time": 1763699243,
+      "rank": 22,
       "category": "民生新闻"
     },
     {

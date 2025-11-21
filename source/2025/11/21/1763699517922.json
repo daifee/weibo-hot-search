@@ -1,0 +1,410 @@
+{
+  "runTime": 1763699517922,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 478935,
+        "num": 1076629,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229724,
+        "num": 966012,
+        "word": "便宜30%的印度水产你敢吃吗",
+        "onboard_time": 1763697622,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 85753,
+        "num": 879301,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343894,
+        "num": 708630,
+        "word": "日本经济界陷入集体焦虑",
+        "onboard_time": 1763697201,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 213755,
+        "num": 576081,
+        "word": "米哈游新作31分钟实机",
+        "onboard_time": 1763692999,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 459136,
+        "num": 459136,
+        "word": "宁静爆料金鸡奖评奖内幕",
+        "onboard_time": 1763698583,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268191,
+        "num": 457384,
+        "word": "狂野时代预售票房破亿",
+        "onboard_time": 1763696181,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234803,
+        "num": 455541,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1763698282,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209647,
+        "num": 453289,
+        "word": "致中方人员在德食物中毒餐馆致歉",
+        "onboard_time": 1763688500,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 161680,
+        "num": 452509,
+        "word": "144人当选两院院士",
+        "onboard_time": 1763688561,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1066215,
+        "num": 449258,
+        "word": "未来房价上涨的3大核心信号",
+        "onboard_time": 1763692581,
+        "rank": 10,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 448871,
+        "num": 448871,
+        "word": "女子水杯现不明液体警方锁定男同事",
+        "onboard_time": 1763693540,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 417874,
+        "num": 417874,
+        "word": "一单的位置樊振东一守就是十年",
+        "onboard_time": 1763695761,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335444,
+        "num": 415977,
+        "word": "实习生出差抽中显卡被公司要求上交",
+        "onboard_time": 1763688140,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75468,
+        "num": 408173,
+        "word": "千问该叫欠问",
+        "onboard_time": 1763697622,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 253448,
+        "num": 405885,
+        "word": "易烊千玺 这比赛就一个人报名吗",
+        "onboard_time": 1763697021,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236039,
+        "num": 400255,
+        "word": "面包界真的需要一个蜜雪冰城",
+        "onboard_time": 1763684901,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128579,
+        "num": 395765,
+        "word": "烟台压死女老师渣土车司机被定全责",
+        "onboard_time": 1763644703,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69046,
+        "num": 388230,
+        "word": "金标吉利银河V900全球首秀",
+        "onboard_time": 1763698342,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29126,
+        "num": 383118,
+        "word": "星运花城精彩正奔驰",
+        "onboard_time": 1763696482,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 772804,
+        "num": 378660,
+        "word": "唐嫣",
+        "onboard_time": 1763697261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 693768,
+        "num": 370819,
+        "word": "易梦玲 胡彦斌",
+        "onboard_time": 1763696181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31943,
+        "num": 367722,
+        "word": "男子花14.8万迎娶假高官之女",
+        "onboard_time": 1763699243,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362851,
+        "num": 362851,
+        "word": "股市",
+        "onboard_time": 1763694740,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 343462,
+        "num": 343462,
+        "word": "道崽女友",
+        "onboard_time": 1763693120,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 459186,
+        "num": 331869,
+        "word": "唐嫣ip在上海",
+        "onboard_time": 1763696720,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315461,
+        "num": 315461,
+        "word": "偶遇王岳伦和美女看展",
+        "onboard_time": 1763693360,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246181,
+        "num": 246181,
+        "word": "A股",
+        "onboard_time": 1763689460,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160965,
+        "num": 223858,
+        "word": "果然天才老了也是天才",
+        "onboard_time": 1763698221,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103358,
+        "num": 222483,
+        "word": "央视曝造谣式起号",
+        "onboard_time": 1763693599,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221964,
+        "num": 221964,
+        "word": "李沁刘浩存坐在一起",
+        "onboard_time": 1763697021,
+        "rank": 30,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 183735,
+        "num": 183735,
+        "word": "五月天宋雨琦Radio舞台MV",
+        "onboard_time": 1763699181,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177490,
+        "num": 177490,
+        "word": "胡彦斌易梦玲还在马尔代夫",
+        "onboard_time": 1763651123,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165228,
+        "num": 165228,
+        "word": "发明请抬脚的人真是个天才",
+        "onboard_time": 1763699362,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 135974,
+        "num": 165032,
+        "word": "声生不息",
+        "onboard_time": 1763697741,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128159,
+        "num": 164616,
+        "word": "许昕搞笑回应上海队不敌北京队",
+        "onboard_time": 1763698462,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122158,
+        "num": 163827,
+        "word": "比亚迪首席科学家当选院士",
+        "onboard_time": 1763699303,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50721,
+        "num": 163706,
+        "word": "新人因拒绝帮同事打扫卫生被辞",
+        "onboard_time": 1763698342,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38598,
+        "num": 162960,
+        "word": "古镇旅游为啥不香了",
+        "onboard_time": 1763698462,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65479,
+        "num": 162394,
+        "word": "苏醒夫妇带大儿子游韩国",
+        "onboard_time": 1763699063,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162241,
+        "num": 162241,
+        "word": "猫咪用敲击声回应民警救下主人",
+        "onboard_time": 1763690240,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158083,
+        "num": 158083,
+        "word": "陈伟霆带着电梯神图又杀回来了",
+        "onboard_time": 1763693540,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157947,
+        "num": 157947,
+        "word": "小狗因为内耗一晚上都没闭眼",
+        "onboard_time": 1763698521,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156505,
+        "num": 156505,
+        "word": "彭小苒 能不能别比惨",
+        "onboard_time": 1763692820,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 148110,
+        "num": 148110,
+        "word": "朱珠真的不考虑开个穿搭班吗",
+        "onboard_time": 1763697380,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141727,
+        "num": 141727,
+        "word": "王橹杰买ccd被跑单",
+        "onboard_time": 1763691861,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139107,
+        "num": 139107,
+        "word": "刘耀文眉毛上画的sauce",
+        "onboard_time": 1763699422,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110181,
+        "num": 130332,
+        "word": "王楚钦混团见",
+        "onboard_time": 1763697861,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124173,
+        "num": 124173,
+        "word": "范丞丞狂野时代包场",
+        "onboard_time": 1763699482,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97924,
+        "num": 121472,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
