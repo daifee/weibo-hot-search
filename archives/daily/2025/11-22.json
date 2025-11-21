@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763757769074,
+  "endTime": 1763760258417,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -251,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 78371,
+      "num": 32105,
+      "word": "男子花8万元网购70平海景房",
+      "onboard_time": 1763756713,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71768,
       "num": 334312,
       "word": "深圳小学生扮澳门蛋挞",
@@ -443,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36715,
+      "num": 31585,
+      "word": "中方的反制在日本产生连锁反应",
+      "onboard_time": 1763754734,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34014,
       "num": 67705,
       "word": "薛之谦欧阳娜娜装货舞台",
@@ -515,12 +531,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 21252,
-      "num": 27448,
-      "word": "男子花8万元网购70平海景房",
-      "onboard_time": 1763756713,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 19649,
+      "num": 27445,
+      "word": "你的英语在外国人眼中的样子",
+      "onboard_time": 1763755394,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 19078,
@@ -531,28 +547,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 18704,
-      "num": 27452,
-      "word": "中方的反制在日本产生连锁反应",
-      "onboard_time": 1763754734,
-      "rank": 27,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 18635,
       "num": 96589,
       "word": "狂野时代首映口碑",
       "onboard_time": 1763733922,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 17965,
-      "num": 27445,
-      "word": "你的英语在外国人眼中的样子",
-      "onboard_time": 1763755394,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 16840,
