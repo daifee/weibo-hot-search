@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 23:24:51
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 23:37:37
 </p>
 </blockquote>
 <p>
@@ -243,6 +243,12 @@ T1官宣Gumayusi离队（热度：3390474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E8%A6%81%E5%90%8D%E5%88%86%23" target="weibo">
+胡彦斌要名分（热度：2535929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E9%A6%96%E7%A7%80%E7%AC%AC1%E8%B7%B3%E5%85%A8%E5%9C%BA%E6%9C%80%E9%AB%98%E5%88%86%23" target="weibo">
 全红婵首秀第1跳全场最高分（热度：2533325）
 </a>
@@ -263,12 +269,6 @@ T1官宣Gumayusi离队（热度：3390474）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%B8%E7%8E%8B%E8%8C%B6%E5%A7%AC%E5%88%9B%E5%A7%8B%E4%BA%BA%E7%BB%93%E5%A9%9A%23" target="weibo">
 霸王茶姬创始人结婚（热度：2403933）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E8%A6%81%E5%90%8D%E5%88%86%23" target="weibo">
-胡彦斌要名分（热度：2376648）
 </a>
 </li>
 
@@ -4737,6 +4737,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23" target="weibo">
+高市早苗招惹马来西亚（热度：545160）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E5%A4%A7%E8%88%AA%E6%80%A5%E5%8F%91%E4%B8%AD%E6%97%A5%E8%88%AA%E7%BA%BF%E5%85%8D%E8%B4%B9%E9%80%80%E6%94%B9%E7%AD%BE%23" target="weibo">
 三大航急发中日航线免费退改签（热度：544522）
 </a>
@@ -5099,12 +5105,6 @@ T1官宣Peyz加入（热度：531624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9D%8D%E5%A1%8C%E4%BA%8B%E6%95%85%E9%81%87%E9%9A%BE%E5%A5%B3%E5%AD%A9%E7%94%B7%E5%8F%8B%E5%8F%91%E5%A3%B0%E6%BE%84%E6%B8%85%23" target="weibo">
 坍塌事故遇难女孩男友发声澄清（热度：517558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23" target="weibo">
-高市早苗招惹马来西亚（热度：517201）
 </a>
 </li>
 
@@ -5519,6 +5519,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%9B%9E%E5%BA%94%E5%A9%9A%E7%A4%BC%E9%A4%90%E6%A0%87%23" target="weibo">
 董璇回应婚礼餐标（热度：492972）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E9%AB%98%E9%99%A2%E9%80%9A%E6%8A%A52%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A5%B8%E6%9D%80%E6%95%99%E5%B8%88%E6%A1%88%23" target="weibo">
+湖南高院通报2高中生奸杀教师案（热度：492630）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ T1 宙斯（热度：468146）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%A0%E8%AF%84%E8%AE%BA%E7%88%B8%E7%88%B8%E5%BD%93%E5%AE%B6%E4%B8%8E%E5%89%8D%E5%A5%B3%E5%8F%8B%E5%A4%8D%E5%90%88%23" target="weibo">
 因评论爸爸当家与前女友复合（热度：466338）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23TFBOYS%E5%8F%91%E6%96%87%E6%81%AD%E5%96%9C%E5%88%98%E6%98%A5%E5%92%8C%23" target="weibo">
-TFBOYS发文恭喜刘春和（热度：466139）
 </a>
 </li>
 
