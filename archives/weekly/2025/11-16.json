@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763721885910,
+  "endTime": 1763724224677,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -889,6 +889,14 @@
       "onboard_time": 1763475623,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 858773,
+      "num": 1137403,
+      "word": "印度光辉战机表演时坠毁",
+      "onboard_time": 1763723063,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 857992,
@@ -2763,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 438862,
+      "num": 246347,
+      "word": "女孩被撞身亡一周后收到录取书",
+      "onboard_time": 1763721683,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 438570,
       "num": 209414,
       "word": "灵隐寺取消门票",
@@ -3227,6 +3243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396097,
+      "num": 251065,
+      "word": "王鹤棣沈月合体跳pretty",
+      "onboard_time": 1763721563,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396053,
       "num": 1035274,
       "word": "米哈游新作31分钟实机",
@@ -3361,6 +3385,14 @@
       "onboard_time": 1763610023,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 384344,
+      "num": 877261,
+      "word": "周深3天4次以0票告终",
+      "onboard_time": 1763721202,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 383362,
@@ -4131,6 +4163,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 331416,
+      "num": 331416,
+      "word": "无限暖暖",
+      "onboard_time": 1763349141,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 331354,
       "num": 331354,
       "word": "迪丽热巴给刘宇宁送花篮",
@@ -4513,14 +4553,6 @@
       "onboard_time": 1763641884,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 300697,
-      "num": 300697,
-      "word": "无限暖暖",
-      "onboard_time": 1763349141,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 300510,
@@ -5371,6 +5403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254872,
+      "num": 254872,
+      "word": "毒唯只对真嫂子破防",
+      "onboard_time": 1763722642,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 254820,
       "num": 1979682,
       "word": "文淇 羡慕中女祝福中女",
@@ -5963,14 +6003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227220,
-      "num": 877261,
-      "word": "周深3天4次以0票告终",
-      "onboard_time": 1763721202,
-      "rank": 5,
-      "category": "演出"
-    },
-    {
       "raw_hot": 226094,
       "num": 210675,
       "word": "王大陆鞠躬道歉",
@@ -6355,6 +6387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 209931,
+      "num": 269467,
+      "word": "他为什么依然单身",
+      "onboard_time": 1763380882,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 209179,
       "num": 209179,
       "word": "陈妤颉女子100米金牌",
@@ -6443,6 +6483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 207769,
+      "num": 207769,
+      "word": "光辉",
+      "onboard_time": 1763723542,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 207619,
       "num": 343223,
       "word": "银行取消5年期存款对我们有何影响",
@@ -6497,14 +6545,6 @@
       "onboard_time": 1763436323,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 205546,
-      "num": 249376,
-      "word": "王鹤棣沈月合体跳pretty",
-      "onboard_time": 1763721563,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 205496,
@@ -8003,6 +8043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181443,
+      "num": 181443,
+      "word": "月经周期28天vs40天",
+      "onboard_time": 1763722399,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 181400,
       "num": 156410,
       "word": "Faker和oner为韩国考生送祝福",
@@ -8737,6 +8785,14 @@
       "onboard_time": 1763186006,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 167408,
+      "num": 167408,
+      "word": "更大更强的航母或出现在日本",
+      "onboard_time": 1763723422,
+      "rank": 28,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 167393,
@@ -11179,14 +11235,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135343,
-      "num": 269467,
-      "word": "他为什么依然单身",
-      "onboard_time": 1763380882,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 134979,
       "num": 134979,
       "word": "喻恩泰史林子共同好友发声",
@@ -11297,6 +11345,14 @@
       "onboard_time": 1763542103,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 133979,
+      "num": 133979,
+      "word": "葛荟婕说怀孕时不知道汪峰结过婚",
+      "onboard_time": 1763723842,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 133896,
@@ -11585,6 +11641,14 @@
       "onboard_time": 1763699962,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131091,
+      "num": 131091,
+      "word": "孔雪儿许佳琪睡衣外穿",
+      "onboard_time": 1763723122,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 131041,
@@ -12723,6 +12787,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 120638,
+      "num": 120637,
+      "word": "A股牛市有望持续",
+      "onboard_time": 1763723842,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 120517,
       "num": 212846,
       "word": "彭小苒 导演不喊卡就接着演",
@@ -13379,6 +13451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115837,
+      "num": 115837,
+      "word": "2025IVL秋季赛",
+      "onboard_time": 1763723962,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 115834,
       "num": 119839,
       "word": "日经225指数跌破49000点",
@@ -13689,6 +13769,14 @@
       "onboard_time": 1763520380,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 111878,
+      "num": 780466,
+      "word": "KPL转会期",
+      "onboard_time": 1763721621,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 111828,
@@ -14033,14 +14121,6 @@
       "onboard_time": 1763303841,
       "rank": 46,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108680,
-      "num": 780466,
-      "word": "KPL转会期",
-      "onboard_time": 1763721621,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 108668,
@@ -14769,6 +14849,14 @@
       "onboard_time": 1763621303,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 102996,
+      "num": 102996,
+      "word": "男装店主把吊牌做成鼠标垫意外爆火",
+      "onboard_time": 1763724024,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102951,
@@ -15785,6 +15873,14 @@
       "onboard_time": 1763626641,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 92210,
+      "num": 120638,
+      "word": "高市早苗不自重场面辣眼睛",
+      "onboard_time": 1763724024,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 92117,
@@ -17883,6 +17979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56443,
+      "num": 156702,
+      "word": "美团外卖小哥在骑手公寓排队选房",
+      "onboard_time": 1763723241,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56338,
       "num": 564435,
       "word": "我国再次成功发射一箭三星",
@@ -18139,6 +18243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52506,
+      "num": 245827,
+      "word": "科学家实现猪肾在猴体内存活一年",
+      "onboard_time": 1763722822,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 52322,
       "num": 232331,
       "word": "陈小春找到自己在家里的位置",
@@ -18193,14 +18305,6 @@
       "onboard_time": 1763448022,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51491,
-      "num": 246347,
-      "word": "女孩被撞身亡一周后收到录取书",
-      "onboard_time": 1763721683,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 51341,
@@ -18737,6 +18841,14 @@
       "onboard_time": 1763354002,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 43724,
+      "num": 116253,
+      "word": "奶皮子糖葫芦卖不动了",
+      "onboard_time": 1763722822,
+      "rank": 43,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 43719,
@@ -20632,6 +20744,14 @@
       "word": "高校招聘会现养生会所招聘美容师",
       "onboard_time": 1763652863,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18763,
+      "num": 119622,
+      "word": "北斗高精度定位技术变革",
+      "onboard_time": 1763722822,
+      "rank": 41,
       "category": "民生新闻"
     },
     {

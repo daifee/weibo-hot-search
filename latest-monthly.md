@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 18:44:45
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 19:23:44
 </p>
 </blockquote>
 <p>
@@ -1961,6 +1961,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%8A%82%E5%81%87%E6%97%A5%E5%AE%89%E6%8E%92%23" target="weibo">
 2026年节假日安排（热度：859960）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%85%89%E8%BE%89%E6%88%98%E6%9C%BA%E8%A1%A8%E6%BC%94%E6%97%B6%E5%9D%A0%E6%AF%81%23" target="weibo">
+印度光辉战机表演时坠毁（热度：858773）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%BA%8C%E6%9D%AF%E5%8D%8A%E4%BB%B7%E4%B8%8D%E6%98%AF%E4%B8%80%E4%B8%AA%E4%BA%BA%E5%96%9D%E4%B8%A4%E6%9D%AF%23" target="weibo">
 第二杯半价不是一个人喝两杯（热度：463506）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%8E%A5%E8%BF%98%E7%8F%A0%E5%9B%9E%E5%AE%AB%23" target="weibo">
-湖南卫视接还珠回宫（热度：463450）
 </a>
 </li>
 
