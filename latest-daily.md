@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/22 00:33:08 ~ 2025/11/22 00:46:15
+本榜单时间：2025/11/22 00:33:08 ~ 2025/11/22 01:24:31
 </p>
 </blockquote>
 <p>
@@ -41,6 +41,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9C%A8%E6%B3%B3%E6%B1%A0%E6%BA%BA%E4%BA%A1%E8%BF%9130%E5%88%86%E9%92%9F%E6%97%A0%E4%BA%BA%E6%96%BD%E6%95%91%23" target="weibo">
 男子在泳池溺亡近30分钟无人施救（热度：333762）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%A7%B01%E4%B8%878%E9%9B%87%E6%9C%88%E5%AB%82%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%96%82%E5%A5%B6%E5%91%9B%E6%AD%BB%23" target="weibo">
+父亲称1万8雇月嫂女儿被喂奶呛死（热度：277986）
 </a>
 </li>
 
@@ -101,12 +107,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%E6%B2%A1%E5%90%A6%E8%AE%A4%E6%81%8B%E6%83%85%23" target="weibo">
 易梦玲没否认恋情（热度：151658）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B6%E4%BA%B2%E7%A7%B01%E4%B8%878%E9%9B%87%E6%9C%88%E5%AB%82%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%96%82%E5%A5%B6%E5%91%9B%E6%AD%BB%23" target="weibo">
-父亲称1万8雇月嫂女儿被喂奶呛死（热度：147623）
 </a>
 </li>
 
@@ -316,7 +316,19 @@ kimi戴口罩好像易烊千玺（热度：49024）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Gumayusi%E4%B8%8EZeus%E7%A2%B0%E9%9D%A2%23" target="weibo">
-Gumayusi与Zeus碰面（热度：48527）
+Gumayusi与Zeus碰面（热度：48659）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%23" target="weibo">
+原神（热度：41637）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%23" target="weibo">
+狙击蝴蝶（热度：33476）
 </a>
 </li>
 

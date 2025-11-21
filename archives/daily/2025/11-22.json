@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763743575507,
+  "endTime": 1763745871955,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -40,6 +40,14 @@
       "word": "男子在泳池溺亡近30分钟无人施救",
       "onboard_time": 1763739683,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 277986,
+      "num": 328691,
+      "word": "父亲称1万8雇月嫂女儿被喂奶呛死",
+      "onboard_time": 1763741362,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -121,14 +129,6 @@
       "onboard_time": 1763736143,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147623,
-      "num": 328691,
-      "word": "父亲称1万8雇月嫂女儿被喂奶呛死",
-      "onboard_time": 1763741362,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146811,
@@ -396,19 +396,35 @@
     },
     {
       "raw_hot": 49024,
-      "num": 99785,
+      "num": 202741,
       "word": "kimi戴口罩好像易烊千玺",
       "onboard_time": 1763715562,
       "rank": 46,
       "category": "艺人"
     },
     {
-      "raw_hot": 48527,
-      "num": 99707,
+      "raw_hot": 48659,
+      "num": 219936,
       "word": "Gumayusi与Zeus碰面",
       "onboard_time": 1763731042,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 41637,
+      "num": 208701,
+      "word": "原神",
+      "onboard_time": 1763727802,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 33476,
+      "num": 213148,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1763726301,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 31384,
