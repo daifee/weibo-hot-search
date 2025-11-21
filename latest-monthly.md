@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 21:34:43
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 21:46:01
 </p>
 </blockquote>
 <p>
@@ -1881,6 +1881,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE%E7%A7%B0%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%E4%BA%94%E5%B8%B8%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%8A%A8%E6%AD%A6%23" target="weibo">
+敌国条款称日本侵略五常可直接动武（热度：876203）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E6%B1%9F%E7%96%8F%E5%BD%B1%23" target="weibo">
 这居然是江疏影（热度：873631）
 </a>
@@ -1955,12 +1961,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9C%88680%E4%BA%BA%E4%B8%8D%E5%8F%AF%E8%A7%81%23" target="weibo">
 发个朋友圈680人不可见（热度：863543）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%8C%E5%9B%BD%E6%9D%A1%E6%AC%BE%E7%A7%B0%E6%97%A5%E6%9C%AC%E4%BE%B5%E7%95%A5%E4%BA%94%E5%B8%B8%E5%8F%AF%E7%9B%B4%E6%8E%A5%E5%8A%A8%E6%AD%A6%23" target="weibo">
-敌国条款称日本侵略五常可直接动武（热度：861938）
 </a>
 </li>
 
@@ -3603,6 +3603,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%20%E7%AC%AC%E4%B9%9D%E5%A5%97%E5%B9%BF%E6%92%AD%E4%BD%93%E6%93%8D%23" target="weibo">
+闭幕式 第九套广播体操（热度：628041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E4%BA%BA%E5%8F%A3%E5%8F%91%E5%B1%95%E5%87%BA%E7%8E%B0%E4%BA%86%E6%96%B0%E7%89%B9%E5%BE%81%23" target="weibo">
 我国人口发展出现了新特征（热度：628032）
 </a>
@@ -4587,12 +4593,6 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%97%AD%E5%B9%95%E5%BC%8F%20%E7%AC%AC%E4%B9%9D%E5%A5%97%E5%B9%BF%E6%92%AD%E4%BD%93%E6%93%8D%23" target="weibo">
-闭幕式 第九套广播体操（热度：553089）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%9B%85%E7%90%BC%E5%88%98%E9%9B%A8%E8%BE%B0%E5%A9%9A%E7%BA%B1%E7%85%A7%23" target="weibo">
 黄雅琼刘雨辰婚纱照（热度：551901）
 </a>
@@ -5331,6 +5331,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E5%9B%9E%E5%BA%94%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%E5%8E%9F%E8%91%97%E4%BD%9C%E8%80%85%23" target="weibo">
+彭小苒回应凤凰台上原著作者（热度：500736）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%81%87%23" target="weibo">
 秋假（热度：500363）
 </a>
@@ -5339,12 +5345,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AE%89%E7%A7%B0%E5%B1%A0%E9%A2%96%E5%9B%A0%E9%85%92%E5%BA%97%E8%B7%91%E6%AD%A5%E6%9C%BA%E6%91%94%E8%B7%A4%E7%A6%BB%E4%B8%96%23" target="weibo">
 黄安称屠颖因酒店跑步机摔跤离世（热度：500155）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%AD%E5%B0%8F%E8%8B%92%E5%9B%9E%E5%BA%94%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%E5%8E%9F%E8%91%97%E4%BD%9C%E8%80%85%23" target="weibo">
-彭小苒回应凤凰台上原著作者（热度：499909）
 </a>
 </li>
 

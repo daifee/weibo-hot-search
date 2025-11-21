@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763732083690,
+  "endTime": 1763732761181,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 876203,
+      "num": 1140192,
+      "word": "敌国条款称日本侵略五常可直接动武",
+      "onboard_time": 1763727621,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 866194,
       "num": 949217,
       "word": "高市早苗求锤得锤了",
@@ -113,14 +121,6 @@
       "onboard_time": 1763708180,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 861938,
-      "num": 1137910,
-      "word": "敌国条款称日本侵略五常可直接动武",
-      "onboard_time": 1763727621,
-      "rank": 1,
-      "category": "国际时政"
     },
     {
       "raw_hot": 834240,
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 628041,
+      "num": 628041,
+      "word": "闭幕式 第九套广播体操",
+      "onboard_time": 1763727442,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 622469,
       "num": 877261,
       "word": "周深3天4次以0票告终",
@@ -251,14 +259,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 553089,
-      "num": 553089,
-      "word": "闭幕式 第九套广播体操",
-      "onboard_time": 1763727442,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 551901,
       "num": 255605,
       "word": "黄雅琼刘雨辰婚纱照",
@@ -307,7 +307,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 499909,
+      "raw_hot": 500736,
       "num": 281945,
       "word": "彭小苒回应凤凰台上原著作者",
       "onboard_time": 1763728281,
@@ -457,6 +457,14 @@
       "onboard_time": 1763692999,
       "rank": 1,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 383707,
+      "num": 383707,
+      "word": "湖南承办2029全运会",
+      "onboard_time": 1763730622,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 380694,
@@ -675,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297687,
-      "num": 297687,
-      "word": "湖南承办2029全运会",
-      "onboard_time": 1763730622,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 294415,
       "num": 747863,
       "word": "NS官宣Scout加入",
@@ -779,12 +779,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 258511,
+      "num": 206809,
+      "word": "冰箱贴已经进化成这样了吗",
+      "onboard_time": 1763728581,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 255948,
       "num": 255948,
       "word": "狙击蝴蝶",
       "onboard_time": 1763726301,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 255407,
+      "num": 255407,
+      "word": "樊振东展现中国水平中国力量",
+      "onboard_time": 1763727381,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 253448,
@@ -795,14 +811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 251337,
-      "num": 251337,
-      "word": "樊振东展现中国水平中国力量",
-      "onboard_time": 1763727381,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 251099,
       "num": 251099,
       "word": "以前最恨关系户",
@@ -811,12 +819,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 249573,
+      "num": 249573,
+      "word": "马龙苏炳添潘展乐闭幕式献唱",
+      "onboard_time": 1763729121,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 248321,
       "num": 248321,
       "word": "得闲谨制",
       "onboard_time": 1763653580,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 248289,
+      "num": 248289,
+      "word": "卢凌风 苏无名",
+      "onboard_time": 1763729422,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 247541,
@@ -867,14 +891,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 237422,
-      "num": 237422,
-      "word": "卢凌风 苏无名",
-      "onboard_time": 1763729422,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 237159,
       "num": 192605,
       "word": "樊振东一怒之下怒了一下",
@@ -907,12 +923,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229167,
-      "num": 229167,
-      "word": "马龙苏炳添潘展乐闭幕式献唱",
-      "onboard_time": 1763729121,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 230634,
+      "num": 167763,
+      "word": "买二手房一定要买别人住过的",
+      "onboard_time": 1763731641,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 222339,
@@ -1041,14 +1057,6 @@
       "onboard_time": 1763713041,
       "rank": 32,
       "category": "财经"
-    },
-    {
-      "raw_hot": 194626,
-      "num": 194626,
-      "word": "冰箱贴已经进化成这样了吗",
-      "onboard_time": 1763728581,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 193792,
@@ -1235,14 +1243,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 167763,
-      "num": 167763,
-      "word": "买二手房一定要买别人住过的",
-      "onboard_time": 1763731641,
-      "rank": 31,
-      "category": "情感"
-    },
-    {
       "raw_hot": 167604,
       "num": 167604,
       "word": "樊振东3比1胜王楚钦",
@@ -1257,6 +1257,14 @@
       "onboard_time": 1763716221,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166759,
+      "num": 166759,
+      "word": "变形计张迪自曝没有生育能力",
+      "onboard_time": 1763730201,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 166348,
@@ -1379,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 154197,
+      "num": 192983,
+      "word": "中国点穴式制裁日本",
+      "onboard_time": 1763730802,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 153796,
       "num": 284331,
       "word": "仅用0秒就嗑到的国漫cp",
@@ -1449,14 +1465,6 @@
       "onboard_time": 1763657119,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147972,
-      "num": 147972,
-      "word": "变形计张迪自曝没有生育能力",
-      "onboard_time": 1763730201,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 144199,
@@ -1819,6 +1827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 119036,
+      "num": 119036,
+      "word": "分手夫妻嘴不诚实但身体诚实",
+      "onboard_time": 1763731821,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118968,
       "num": 118968,
       "word": "养过狗的才知道她多会养",
@@ -2051,6 +2067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 108191,
+      "num": 108191,
+      "word": "凤凰台上 东宫",
+      "onboard_time": 1763732662,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108108,
       "num": 108108,
       "word": "新的睡午觉 醒午觉",
@@ -2065,6 +2089,14 @@
       "onboard_time": 1763685622,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107891,
+      "num": 107891,
+      "word": "汪苏泷没闭麦也没闭嘴",
+      "onboard_time": 1763732242,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 107643,
@@ -2131,28 +2163,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 104131,
-      "num": 104131,
-      "word": "分手夫妻嘴不诚实但身体诚实",
-      "onboard_time": 1763731821,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 104105,
       "num": 104105,
       "word": "花70万在广州买了个阳台房",
       "onboard_time": 1763709981,
       "rank": 49,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 103704,
-      "num": 192983,
-      "word": "中国点穴式制裁日本",
-      "onboard_time": 1763730802,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 103515,
@@ -2177,6 +2193,14 @@
       "onboard_time": 1763729842,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103034,
+      "num": 103034,
+      "word": "建议大家下班回家立刻洗漱",
+      "onboard_time": 1763729302,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 102334,
@@ -2217,14 +2241,6 @@
       "onboard_time": 1763706382,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100671,
-      "num": 100671,
-      "word": "建议大家下班回家立刻洗漱",
-      "onboard_time": 1763729302,
-      "rank": 49,
-      "category": "情感"
     },
     {
       "raw_hot": 100036,
@@ -2627,6 +2643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75695,
+      "num": 110943,
+      "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+      "onboard_time": 1763732542,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75604,
       "num": 166270,
       "word": "抽中显卡实习生被公司暗示另谋高就",
@@ -2939,6 +2963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52014,
+      "num": 123485,
+      "word": "印度坠机后L15A继续表演",
+      "onboard_time": 1763731102,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 51157,
       "num": 282010,
       "word": "全国每5人就有1人念过大学",
@@ -3163,14 +3195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 39261,
-      "num": 123485,
-      "word": "印度坠机后L15A继续表演",
-      "onboard_time": 1763731102,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39143,
       "num": 164063,
       "word": "领馆介入上百名中国人在德食物中毒",
@@ -3384,6 +3408,14 @@
       "word": "日本80年来拒不承认二战结果",
       "onboard_time": 1763695401,
       "rank": 38,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 21175,
+      "num": 188065,
+      "word": "求仁得仁求战得战",
+      "onboard_time": 1763732482,
+      "rank": 17,
       "category": "国际时政"
     },
     {
