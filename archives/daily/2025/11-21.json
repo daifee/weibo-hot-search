@@ -1,7 +1,15 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763695983625,
+  "endTime": 1763697492847,
   "band_list": [
+    {
+      "raw_hot": 1185156,
+      "num": 433972,
+      "word": "未来房价上涨的3大核心信号",
+      "onboard_time": 1763692581,
+      "rank": 24,
+      "category": "财经"
+    },
     {
       "raw_hot": 866194,
       "num": 949217,
@@ -12,7 +20,7 @@
     },
     {
       "raw_hot": 834240,
-      "num": 163905,
+      "num": 271032,
       "word": "A股",
       "onboard_time": 1763689460,
       "rank": 20,
@@ -35,8 +43,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 703029,
+      "num": 279827,
+      "word": "易梦玲 胡彦斌",
+      "onboard_time": 1763696181,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 662916,
-      "num": 163942,
+      "num": 279658,
       "word": "偶遇王岳伦和美女看展",
       "onboard_time": 1763693360,
       "rank": 22,
@@ -68,7 +84,7 @@
     },
     {
       "raw_hot": 539892,
-      "num": 154181,
+      "num": 230264,
       "word": "胡彦斌易梦玲还在马尔代夫",
       "onboard_time": 1763651123,
       "rank": 25,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 534116,
-      "num": 279858,
+      "num": 290030,
       "word": "面包界真的需要一个蜜雪冰城",
       "onboard_time": 1763684901,
       "rank": 11,
@@ -89,6 +105,22 @@
       "onboard_time": 1763647223,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 482681,
+      "num": 278178,
+      "word": "道崽女友",
+      "onboard_time": 1763693120,
+      "rank": 27,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 481318,
+      "num": 297239,
+      "word": "女子水杯现不明液体警方锁定男同事",
+      "onboard_time": 1763693540,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 465852,
@@ -107,16 +139,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 433972,
-      "num": 433972,
-      "word": "未来房价上涨的3大核心信号",
-      "onboard_time": 1763692581,
-      "rank": 24,
-      "category": "财经"
-    },
-    {
       "raw_hot": 425287,
-      "num": 177413,
+      "num": 270622,
       "word": "王楚钦说樊振东实在太强了",
       "onboard_time": 1763682321,
       "rank": 30,
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 424073,
-      "num": 163806,
+      "num": 272802,
       "word": "股市",
       "onboard_time": 1763694740,
       "rank": 31,
@@ -180,7 +204,7 @@
     },
     {
       "raw_hot": 368868,
-      "num": 295166,
+      "num": 304871,
       "word": "致中方人员在德食物中毒餐馆致歉",
       "onboard_time": 1763688500,
       "rank": 17,
@@ -193,6 +217,14 @@
       "onboard_time": 1763690240,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357285,
+      "num": 293521,
+      "word": "一单的位置樊振东一守就是十年",
+      "onboard_time": 1763695761,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 345241,
@@ -235,16 +267,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329432,
-      "num": 163730,
-      "word": "道崽女友",
-      "onboard_time": 1763693120,
-      "rank": 27,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 313311,
-      "num": 163599,
+      "num": 269194,
       "word": "王橹杰买ccd被跑单",
       "onboard_time": 1763691861,
       "rank": 26,
@@ -259,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 302650,
+      "num": 302650,
+      "word": "狂野时代预售票房破亿",
+      "onboard_time": 1763696181,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 301592,
       "num": 263873,
       "word": "红果短剧推出演员分账",
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 292741,
-      "num": 259292,
+      "num": 276709,
       "word": "马龙王楚钦黄友政夺冠",
       "onboard_time": 1763642905,
       "rank": 6,
@@ -276,7 +308,7 @@
     },
     {
       "raw_hot": 280502,
-      "num": 155769,
+      "num": 253145,
       "word": "陈伟霆带着电梯神图又杀回来了",
       "onboard_time": 1763693540,
       "rank": 28,
@@ -297,14 +329,6 @@
       "onboard_time": 1763653580,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 245013,
-      "num": 245013,
-      "word": "女子水杯现不明液体警方锁定男同事",
-      "onboard_time": 1763693540,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 242778,
@@ -355,6 +379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 200566,
+      "num": 200566,
+      "word": "唐嫣ip在上海",
+      "onboard_time": 1763696720,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 199953,
       "num": 199953,
       "word": "时代峰峻 催氪",
@@ -369,6 +401,14 @@
       "onboard_time": 1763680819,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188106,
+      "num": 288489,
+      "word": "罗小黑无限哪吒战况激烈海报",
+      "onboard_time": 1763696602,
+      "rank": 16,
+      "category": "动漫"
     },
     {
       "raw_hot": 185493,
@@ -403,16 +443,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164083,
-      "num": 164083,
-      "word": "一单的位置樊振东一守就是十年",
-      "onboard_time": 1763695761,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 160028,
-      "num": 160028,
+      "raw_hot": 163207,
+      "num": 287111,
       "word": "日本机构24场在华活动被取消",
       "onboard_time": 1763693599,
       "rank": 16,
@@ -451,12 +483,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150938,
+      "num": 150938,
+      "word": "李昀锐打球被一屁股撞飞路透",
+      "onboard_time": 1763695341,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148560,
       "num": 148560,
       "word": "大湾鸡是史上最成功的吉祥物",
       "onboard_time": 1763657119,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 144223,
+      "num": 136654,
+      "word": "易烊千玺 这比赛就一个人报名吗",
+      "onboard_time": 1763697021,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142369,
+      "num": 163990,
+      "word": "日本正向核力量靠拢",
+      "onboard_time": 1763695460,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140904,
@@ -483,6 +539,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 136157,
+      "num": 136157,
+      "word": "李沁刘浩存坐在一起",
+      "onboard_time": 1763697021,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "日本反对日本",
@@ -497,14 +561,6 @@
       "onboard_time": 1763638221,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 129596,
-      "num": 129596,
-      "word": "李昀锐打球被一屁股撞飞路透",
-      "onboard_time": 1763695341,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 128763,
@@ -528,6 +584,22 @@
       "word": "时代峰峻 签售",
       "onboard_time": 1763643203,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 127857,
+      "num": 127857,
+      "word": "枭起青壤",
+      "onboard_time": 1763696961,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 126356,
+      "num": 126356,
+      "word": "唐嫣",
+      "onboard_time": 1763697261,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -587,12 +659,44 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118968,
+      "num": 118968,
+      "word": "养过狗的才知道她多会养",
+      "onboard_time": 1763696901,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 117079,
+      "num": 269796,
+      "word": "央视曝造谣式起号",
+      "onboard_time": 1763693599,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115581,
       "num": 115581,
       "word": "惹恼中国后日本发现自己没朋友",
       "onboard_time": 1763687602,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 115238,
+      "num": 115238,
+      "word": "朱珠真的不考虑开个穿搭班吗",
+      "onboard_time": 1763697380,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 111805,
+      "num": 111805,
+      "word": "三滴血人贩子聊着天就把孩子卖了",
+      "onboard_time": 1763695640,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 111551,
@@ -609,14 +713,6 @@
       "onboard_time": 1763686461,
       "rank": 32,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 108652,
-      "num": 108652,
-      "word": "央视曝造谣式起号",
-      "onboard_time": 1763693599,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108108,
@@ -681,14 +777,6 @@
       "onboard_time": 1763695761,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 97662,
-      "num": 97662,
-      "word": "三滴血人贩子聊着天就把孩子卖了",
-      "onboard_time": 1763695640,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 97470,
@@ -891,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67996,
+      "num": 143526,
+      "word": "疯狂动物城2预售票房破亿",
+      "onboard_time": 1763696661,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67848,
       "num": 67848,
       "word": "易梦玲穿搭像胡彦斌搭配的",
@@ -963,6 +1059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 62132,
+      "num": 273709,
+      "word": "日本经济界陷入集体焦虑",
+      "onboard_time": 1763697201,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61253,
       "num": 64609,
       "word": "全场送别苏炳添",
@@ -987,14 +1091,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55249,
-      "num": 163990,
-      "word": "日本正向核力量靠拢",
-      "onboard_time": 1763695460,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 55161,
       "num": 55161,
       "word": "马龙希望和大家一起好好变老",
@@ -1009,6 +1105,14 @@
       "onboard_time": 1763657058,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51157,
+      "num": 282010,
+      "word": "全国每5人就有1人念过大学",
+      "onboard_time": 1763696241,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 50322,
@@ -1044,7 +1148,7 @@
     },
     {
       "raw_hot": 45349,
-      "num": 122087,
+      "num": 137881,
       "word": "江南好风景",
       "onboard_time": 1763694080,
       "rank": 39,
@@ -1065,6 +1169,14 @@
       "onboard_time": 1763658317,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40903,
+      "num": 147167,
+      "word": "22元下单蕉内羽绒服却遭拒发",
+      "onboard_time": 1763697141,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40229,
@@ -1099,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34759,
+      "num": 142541,
+      "word": "最懂中国菜的英国人",
+      "onboard_time": 1763696602,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 34631,
       "num": 49272,
       "word": "美股集体走强",
@@ -1121,6 +1241,22 @@
       "onboard_time": 1763694800,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33535,
+      "num": 283016,
+      "word": "星运花城精彩正奔驰",
+      "onboard_time": 1763696482,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 33499,
+      "num": 126533,
+      "word": "中介称普通人别碰捡漏房",
+      "onboard_time": 1763695941,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32599,
@@ -1225,14 +1361,6 @@
       "onboard_time": 1763667554,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 9614,
-      "num": 126533,
-      "word": "中介称普通人别碰捡漏房",
-      "onboard_time": 1763695941,
-      "rank": 36,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

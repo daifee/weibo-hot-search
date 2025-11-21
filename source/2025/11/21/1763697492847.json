@@ -1,0 +1,410 @@
+{
+  "runTime": 1763697492847,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 405141,
+        "num": 1064822,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 322611,
+        "num": 322611,
+        "word": "米哈游新作31分钟实机",
+        "onboard_time": 1763692999,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98994,
+        "num": 317630,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172923,
+        "num": 315358,
+        "word": "144人当选两院院士",
+        "onboard_time": 1763688561,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162003,
+        "num": 311325,
+        "word": "每一个近视眼都该控糖了",
+        "onboard_time": 1763653163,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 235057,
+        "num": 304871,
+        "word": "致中方人员在德食物中毒餐馆致歉",
+        "onboard_time": 1763688500,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 302650,
+        "num": 302650,
+        "word": "狂野时代预售票房破亿",
+        "onboard_time": 1763696181,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193563,
+        "num": 301831,
+        "word": "烟台压死女老师渣土车司机被定全责",
+        "onboard_time": 1763644703,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1185156,
+        "num": 300632,
+        "word": "未来房价上涨的3大核心信号",
+        "onboard_time": 1763692581,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 193160,
+        "num": 298464,
+        "word": "电影狂野时代",
+        "onboard_time": 1763660056,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 481318,
+        "num": 297239,
+        "word": "女子水杯现不明液体警方锁定男同事",
+        "onboard_time": 1763693540,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 462834,
+        "num": 296413,
+        "word": "实习生出差抽中显卡被公司要求上交",
+        "onboard_time": 1763688140,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 357285,
+        "num": 293521,
+        "word": "一单的位置樊振东一守就是十年",
+        "onboard_time": 1763695761,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 313386,
+        "num": 293135,
+        "word": "彭小苒 能不能别比惨",
+        "onboard_time": 1763692820,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 252037,
+        "num": 291315,
+        "word": "猫咪用敲击声回应民警救下主人",
+        "onboard_time": 1763690240,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 236134,
+        "num": 290030,
+        "word": "面包界真的需要一个蜜雪冰城",
+        "onboard_time": 1763684901,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 188106,
+        "num": 288489,
+        "word": "罗小黑无限哪吒战况激烈海报",
+        "onboard_time": 1763696602,
+        "rank": 16,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 163207,
+        "num": 287111,
+        "word": "日本机构24场在华活动被取消",
+        "onboard_time": 1763693599,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130367,
+        "num": 285396,
+        "word": "网传得闲谨制12月上映",
+        "onboard_time": 1763692581,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33535,
+        "num": 283016,
+        "word": "星运花城精彩正奔驰",
+        "onboard_time": 1763696482,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51157,
+        "num": 282010,
+        "word": "全国每5人就有1人念过大学",
+        "onboard_time": 1763696241,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 703029,
+        "num": 279827,
+        "word": "易梦玲 胡彦斌",
+        "onboard_time": 1763696181,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508423,
+        "num": 279658,
+        "word": "偶遇王岳伦和美女看展",
+        "onboard_time": 1763693360,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482681,
+        "num": 278178,
+        "word": "道崽女友",
+        "onboard_time": 1763693120,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106737,
+        "num": 276709,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 62132,
+        "num": 273709,
+        "word": "日本经济界陷入集体焦虑",
+        "onboard_time": 1763697201,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 402565,
+        "num": 272802,
+        "word": "股市",
+        "onboard_time": 1763694740,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400025,
+        "num": 271032,
+        "word": "A股",
+        "onboard_time": 1763689460,
+        "rank": 27,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270622,
+        "num": 270622,
+        "word": "王楚钦说樊振东实在太强了",
+        "onboard_time": 1763682321,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117079,
+        "num": 269796,
+        "word": "央视曝造谣式起号",
+        "onboard_time": 1763693599,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269194,
+        "num": 269194,
+        "word": "王橹杰买ccd被跑单",
+        "onboard_time": 1763691861,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253145,
+        "num": 253145,
+        "word": "陈伟霆带着电梯神图又杀回来了",
+        "onboard_time": 1763693540,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230264,
+        "num": 230264,
+        "word": "胡彦斌易梦玲还在马尔代夫",
+        "onboard_time": 1763651123,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200566,
+        "num": 200566,
+        "word": "唐嫣ip在上海",
+        "onboard_time": 1763696720,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150938,
+        "num": 150938,
+        "word": "李昀锐打球被一屁股撞飞路透",
+        "onboard_time": 1763695341,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82383,
+        "num": 148650,
+        "word": "王某辱骂烈士遗孀被处罚",
+        "onboard_time": 1763681119,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40903,
+        "num": 147167,
+        "word": "22元下单蕉内羽绒服却遭拒发",
+        "onboard_time": 1763697141,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67996,
+        "num": 143526,
+        "word": "疯狂动物城2预售票房破亿",
+        "onboard_time": 1763696661,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34759,
+        "num": 142541,
+        "word": "最懂中国菜的英国人",
+        "onboard_time": 1763696602,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25789,
+        "num": 137881,
+        "word": "江南好风景",
+        "onboard_time": 1763694080,
+        "rank": 39,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 137086,
+        "num": 137086,
+        "word": "郭宇欣新剧看得人乳腺畅通",
+        "onboard_time": 1763693840,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142369,
+        "num": 136964,
+        "word": "日本正向核力量靠拢",
+        "onboard_time": 1763695460,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144223,
+        "num": 136654,
+        "word": "易烊千玺 这比赛就一个人报名吗",
+        "onboard_time": 1763697021,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136157,
+        "num": 136157,
+        "word": "李沁刘浩存坐在一起",
+        "onboard_time": 1763697021,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 127857,
+        "num": 127857,
+        "word": "枭起青壤",
+        "onboard_time": 1763696961,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126356,
+        "num": 126356,
+        "word": "唐嫣",
+        "onboard_time": 1763697261,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118968,
+        "num": 118968,
+        "word": "养过狗的才知道她多会养",
+        "onboard_time": 1763696901,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115238,
+        "num": 115238,
+        "word": "朱珠真的不考虑开个穿搭班吗",
+        "onboard_time": 1763697380,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33499,
+        "num": 112712,
+        "word": "中介称普通人别碰捡漏房",
+        "onboard_time": 1763695941,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111805,
+        "num": 111805,
+        "word": "三滴血人贩子聊着天就把孩子卖了",
+        "onboard_time": 1763695640,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
