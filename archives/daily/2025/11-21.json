@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763729580711,
+  "endTime": 1763730401988,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -219,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 583980,
+      "num": 1093436,
+      "word": "敌国条款称日本侵略五常可直接动武",
+      "onboard_time": 1763727621,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 574639,
       "num": 1091942,
       "word": "日本多个行业为高市早苗买单",
@@ -321,6 +329,14 @@
       "onboard_time": 1763696720,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 471464,
+      "num": 281945,
+      "word": "彭小苒回应凤凰台上原著作者",
+      "onboard_time": 1763728281,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 465852,
@@ -507,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 361241,
-      "num": 361241,
-      "word": "敌国条款称日本侵略五常可直接动武",
-      "onboard_time": 1763727621,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 352368,
       "num": 275888,
       "word": "朱珠真的不考虑开个穿搭班吗",
@@ -593,6 +601,14 @@
       "onboard_time": 1763700442,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 323457,
+      "num": 323457,
+      "word": "闭幕式 第九套广播体操",
+      "onboard_time": 1763727442,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 322979,
@@ -699,14 +715,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 281945,
-      "num": 281945,
-      "word": "彭小苒回应凤凰台上原著作者",
-      "onboard_time": 1763728281,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 280502,
       "num": 253145,
       "word": "陈伟霆带着电梯神图又杀回来了",
@@ -763,6 +771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 255948,
+      "num": 255948,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1763726301,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 253448,
       "num": 405885,
       "word": "易烊千玺 这比赛就一个人报名吗",
@@ -801,6 +817,14 @@
       "onboard_time": 1763697021,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 244073,
+      "num": 244073,
+      "word": "樊振东展现中国水平中国力量",
+      "onboard_time": 1763727381,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 243117,
@@ -859,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 227508,
-      "num": 227508,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1763726301,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 222339,
       "num": 207464,
       "word": "宁静 我不喜欢",
@@ -881,14 +897,6 @@
       "onboard_time": 1763699181,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 213759,
-      "num": 213759,
-      "word": "樊振东展现中国水平中国力量",
-      "onboard_time": 1763727381,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 207855,
@@ -1003,6 +1011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 194170,
+      "num": 194170,
+      "word": "成毅你干什么去了",
+      "onboard_time": 1763727022,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193792,
       "num": 170863,
       "word": "满心期待当外婆女儿却在家门口被杀",
@@ -1051,12 +1067,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 183001,
-      "num": 183001,
-      "word": "闭幕式 第九套广播体操",
-      "onboard_time": 1763727442,
-      "rank": 15,
-      "category": "体育"
+      "raw_hot": 185202,
+      "num": 185202,
+      "word": "卢凌风 苏无名",
+      "onboard_time": 1763729422,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 182702,
+      "num": 182702,
+      "word": "任嘉伦凤凰台上豆瓣4.8分",
+      "onboard_time": 1763729362,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 181443,
@@ -1089,6 +1113,14 @@
       "onboard_time": 1763715323,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 174787,
+      "num": 174787,
+      "word": "马龙苏炳添潘展乐闭幕式献唱",
+      "onboard_time": 1763729121,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 174256,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1763716282,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 171471,
-      "num": 171471,
-      "word": "成毅你干什么去了",
-      "onboard_time": 1763727022,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 170170,
@@ -1217,6 +1241,14 @@
       "onboard_time": 1763719583,
       "rank": 5,
       "category": "演出"
+    },
+    {
+      "raw_hot": 164884,
+      "num": 164884,
+      "word": "原神兑换码",
+      "onboard_time": 1763729842,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 164828,
@@ -1323,6 +1355,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 151240,
+      "num": 145638,
+      "word": "棣月系",
+      "onboard_time": 1763725821,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 151239,
       "num": 377278,
       "word": "网传得闲谨制12月上映",
@@ -1403,12 +1443,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141039,
-      "num": 162980,
-      "word": "任嘉伦凤凰台上豆瓣4.8分",
-      "onboard_time": 1763729362,
-      "rank": 29,
-      "category": "剧集"
+      "raw_hot": 142013,
+      "num": 142013,
+      "word": "变形计张迪自曝没有生育能力",
+      "onboard_time": 1763730201,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 140904,
@@ -1427,6 +1467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140322,
+      "num": 140322,
+      "word": "冰箱贴已经进化成这样了吗",
+      "onboard_time": 1763728581,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 139588,
       "num": 203533,
       "word": "苏炳添最后一舞",
@@ -1441,14 +1489,6 @@
       "onboard_time": 1763710461,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 136835,
-      "num": 136835,
-      "word": "棣月系",
-      "onboard_time": 1763725821,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 136727,
@@ -1473,14 +1513,6 @@
       "onboard_time": 1763697741,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 135291,
-      "num": 135291,
-      "word": "马龙苏炳添潘展乐闭幕式献唱",
-      "onboard_time": 1763729121,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 133737,
@@ -1683,14 +1715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 122184,
-      "num": 122184,
-      "word": "卢凌风 苏无名",
-      "onboard_time": 1763729422,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122158,
       "num": 163827,
       "word": "比亚迪首席科学家当选院士",
@@ -1827,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116753,
+      "num": 116753,
+      "word": "机器人做上广播体操了",
+      "onboard_time": 1763729482,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 116145,
       "num": 116145,
       "word": "Scout第一个离队视频",
@@ -1857,14 +1889,6 @@
       "onboard_time": 1763727381,
       "rank": 40,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 114838,
-      "num": 114838,
-      "word": "冰箱贴已经进化成这样了吗",
-      "onboard_time": 1763728581,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 114598,
@@ -1971,14 +1995,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 108505,
-      "num": 108505,
-      "word": "机器人做上广播体操了",
-      "onboard_time": 1763729482,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 108317,
       "num": 108317,
       "word": "丁禹兮 联合国大会",
@@ -2001,6 +2017,14 @@
       "onboard_time": 1763685622,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107643,
+      "num": 107643,
+      "word": "原来商场里的车是这么进来的",
+      "onboard_time": 1763730263,
+      "rank": 43,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 106700,
@@ -2075,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103247,
+      "num": 103247,
+      "word": "偶遇陈伟霆带妈妈逛街",
+      "onboard_time": 1763729842,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102334,
       "num": 132658,
       "word": "刘嘉玲被忽悠吃了生鸡血",
@@ -2113,6 +2145,14 @@
       "onboard_time": 1763706382,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100671,
+      "num": 100671,
+      "word": "建议大家下班回家立刻洗漱",
+      "onboard_time": 1763729302,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 100036,
@@ -2531,6 +2571,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 74734,
+      "num": 169119,
+      "word": "葫芦岛多人往海里倾倒大米称放生",
+      "onboard_time": 1763728402,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74261,
       "num": 74261,
       "word": "王楚钦我也没那么老吧",
@@ -2769,14 +2817,6 @@
       "onboard_time": 1763646084,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 55873,
-      "num": 169119,
-      "word": "葫芦岛多人往海里倾倒大米称放生",
-      "onboard_time": 1763728402,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 55161,
