@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763724224677,
+  "endTime": 1763725067861,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -51,6 +51,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1123676,
+      "num": 1179788,
+      "word": "印度光辉战机表演时坠毁",
+      "onboard_time": 1763723063,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1033050,
       "num": 370819,
       "word": "易梦玲 胡彦斌",
@@ -99,14 +107,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 858773,
-      "num": 1137403,
-      "word": "印度光辉战机表演时坠毁",
-      "onboard_time": 1763723063,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 834240,
       "num": 271032,
       "word": "A股",
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 728580,
+      "num": 246347,
+      "word": "女孩被撞身亡一周后收到录取书",
+      "onboard_time": 1763721683,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 703036,
       "num": 703036,
       "word": "北大自杀女生包丽案细节披露",
@@ -169,6 +177,14 @@
       "onboard_time": 1763640563,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622469,
+      "num": 877261,
+      "word": "周深3天4次以0票告终",
+      "onboard_time": 1763721202,
+      "rank": 5,
+      "category": "演出"
     },
     {
       "raw_hot": 608604,
@@ -315,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 438862,
-      "num": 246347,
-      "word": "女孩被撞身亡一周后收到录取书",
-      "onboard_time": 1763721683,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 425287,
       "num": 270622,
       "word": "王楚钦说樊振东实在太强了",
@@ -393,14 +401,6 @@
       "onboard_time": 1763692999,
       "rank": 1,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 384344,
-      "num": 877261,
-      "word": "周深3天4次以0票告终",
-      "onboard_time": 1763721202,
-      "rank": 5,
-      "category": "演出"
     },
     {
       "raw_hot": 380694,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 279531,
+      "num": 238412,
+      "word": "更大更强的航母或出现在日本",
+      "onboard_time": 1763723422,
+      "rank": 28,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 276505,
       "num": 276505,
       "word": "50多万名中国游客取消原定日本行程",
@@ -665,6 +673,14 @@
       "onboard_time": 1763714540,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 267764,
+      "num": 267764,
+      "word": "他为什么依然单身",
+      "onboard_time": 1763723481,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 267086,
@@ -747,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 242311,
+      "num": 249957,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763722462,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 237159,
       "num": 192605,
       "word": "樊振东一怒之下怒了一下",
@@ -787,28 +811,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 221957,
-      "num": 249957,
-      "word": "唐朝诡事录",
-      "onboard_time": 1763722462,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220634,
       "num": 220634,
       "word": "五月天宋雨琦Radio舞台MV",
       "onboard_time": 1763699181,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 209931,
-      "num": 209931,
-      "word": "他为什么依然单身",
-      "onboard_time": 1763723481,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 207855,
@@ -873,6 +881,14 @@
       "onboard_time": 1763652682,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 201587,
+      "num": 189262,
+      "word": "葛荟婕说怀孕时不知道汪峰结过婚",
+      "onboard_time": 1763723842,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 200222,
@@ -995,6 +1011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174256,
+      "num": 156424,
+      "word": "A股牛市有望持续",
+      "onboard_time": 1763723842,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 173666,
       "num": 221432,
       "word": "王化转岗到小米武汉总部",
@@ -1073,14 +1097,6 @@
       "onboard_time": 1763638763,
       "rank": 13,
       "category": "体育"
-    },
-    {
-      "raw_hot": 167408,
-      "num": 167408,
-      "word": "更大更强的航母或出现在日本",
-      "onboard_time": 1763723422,
-      "rank": 28,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 167325,
@@ -1347,20 +1363,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 133979,
-      "num": 133979,
-      "word": "葛荟婕说怀孕时不知道汪峰结过婚",
-      "onboard_time": 1763723842,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 133737,
       "num": 133737,
       "word": "日本反对日本",
       "onboard_time": 1763642905,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133625,
+      "num": 241237,
+      "word": "狼队第五人格",
+      "onboard_time": 1763724260,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 132656,
@@ -1467,6 +1483,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 127285,
+      "num": 127285,
+      "word": "刘宇宁让黄誉博问张艺兴愿不愿意",
+      "onboard_time": 1763724442,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126975,
       "num": 222431,
       "word": "卢靖姗产后首晒照",
@@ -1547,14 +1571,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 120638,
-      "num": 120637,
-      "word": "A股牛市有望持续",
-      "onboard_time": 1763723842,
-      "rank": 40,
-      "category": "财经"
-    },
-    {
       "raw_hot": 120273,
       "num": 120273,
       "word": "时代少年团贵阳solo曲目",
@@ -1601,6 +1617,22 @@
       "onboard_time": 1763720662,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117962,
+      "num": 117962,
+      "word": "迅猛龙爱上方头明",
+      "onboard_time": 1763724323,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 117945,
+      "num": 780466,
+      "word": "KPL转会期",
+      "onboard_time": 1763721621,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 117707,
@@ -1673,14 +1705,6 @@
       "onboard_time": 1763711002,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111878,
-      "num": 780466,
-      "word": "KPL转会期",
-      "onboard_time": 1763721621,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 111805,
@@ -1763,6 +1787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106921,
+      "num": 106921,
+      "word": "男装店主把吊牌做成鼠标垫意外爆火",
+      "onboard_time": 1763724024,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106700,
       "num": 217414,
       "word": "与钟汉良一起贴贴",
@@ -1785,6 +1817,14 @@
       "onboard_time": 1763653822,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105758,
+      "num": 192542,
+      "word": "美团外卖小哥在骑手公寓排队选房",
+      "onboard_time": 1763723241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 105680,
@@ -1827,14 +1867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 102996,
-      "num": 102996,
-      "word": "男装店主把吊牌做成鼠标垫意外爆火",
-      "onboard_time": 1763724024,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102334,
       "num": 132658,
       "word": "刘嘉玲被忽悠吃了生鸡血",
@@ -1873,6 +1905,22 @@
       "onboard_time": 1763706382,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100036,
+      "num": 100036,
+      "word": "王俊凯名誉维权案件相关进展",
+      "onboard_time": 1763724742,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 99988,
+      "num": 190016,
+      "word": "唐诡3一年一度仵作大赛",
+      "onboard_time": 1763724622,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 99901,
@@ -2003,6 +2051,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 94163,
+      "num": 120638,
+      "word": "高市早苗不自重场面辣眼睛",
+      "onboard_time": 1763724024,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94015,
       "num": 94015,
       "word": "日本旅游业迎来自己种的果",
@@ -2017,14 +2073,6 @@
       "onboard_time": 1763650163,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 92210,
-      "num": 120638,
-      "word": "高市早苗不自重场面辣眼睛",
-      "onboard_time": 1763724024,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 91876,
@@ -2073,6 +2121,14 @@
       "onboard_time": 1763706260,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88796,
+      "num": 95637,
+      "word": "解决手机成瘾的办法",
+      "onboard_time": 1763725042,
+      "rank": 45,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 88374,
@@ -2499,14 +2555,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56443,
-      "num": 156702,
-      "word": "美团外卖小哥在骑手公寓排队选房",
-      "onboard_time": 1763723241,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56024,
       "num": 70365,
       "word": "彭小苒 翻车一定比翻红快",
@@ -2633,6 +2681,14 @@
       "onboard_time": 1763719642,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 45392,
+      "num": 95626,
+      "word": "王者十周年主线剧情新篇上线",
+      "onboard_time": 1763724260,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 45349,
@@ -2980,7 +3036,7 @@
     },
     {
       "raw_hot": 18763,
-      "num": 119622,
+      "num": 427506,
       "word": "北斗高精度定位技术变革",
       "onboard_time": 1763722822,
       "rank": 41,
