@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763764924422,
+  "endTime": 1763767520064,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 357328,
-      "num": 357328,
+      "num": 765013,
       "word": "高市早苗招惹马来西亚",
       "onboard_time": 1763734522,
       "rank": 1,
@@ -40,6 +40,14 @@
       "word": "男子在泳池溺亡近30分钟无人施救",
       "onboard_time": 1763739683,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294296,
+      "num": 76761,
+      "word": "男子花8万元网购70平海景房",
+      "onboard_time": 1763756713,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -75,6 +83,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 211464,
+      "num": 44046,
+      "word": "胡彦斌曾说爱20岁的女生太肤浅",
+      "onboard_time": 1763767037,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189596,
       "num": 327196,
       "word": "凤凰台上原著作者 女主",
@@ -99,12 +115,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 164656,
-      "num": 45160,
-      "word": "男子花8万元网购70平海景房",
-      "onboard_time": 1763756713,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 163266,
+      "num": 58868,
+      "word": "易梦玲采访录音公布",
+      "onboard_time": 1763767337,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 158688,
@@ -163,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 125759,
+      "num": 96991,
+      "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+      "onboard_time": 1763732542,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 124976,
       "num": 343180,
       "word": "李安对狂野时代的评价",
@@ -203,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 98383,
+      "num": 313595,
+      "word": "日本民众说本来没事都怪高市",
+      "onboard_time": 1763738604,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94352,
       "num": 312782,
       "word": "狂野时代",
@@ -235,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 85172,
+      "num": 75195,
+      "word": "中方的反制在日本产生连锁反应",
+      "onboard_time": 1763754734,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 84596,
       "num": 328996,
       "word": "女孩被撞身亡一周后收到录取书",
@@ -257,6 +297,14 @@
       "onboard_time": 1763727442,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 78670,
+      "num": 78670,
+      "word": "美结束俄乌冲突28点计划曝光",
+      "onboard_time": 1763748436,
+      "rank": 16,
+      "category": "国际时政"
     },
     {
       "raw_hot": 78391,
@@ -299,22 +347,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 65571,
-      "num": 96991,
-      "word": "多方回应男生穿裙戴假发夺冠成绩无效",
-      "onboard_time": 1763732542,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64933,
-      "num": 313595,
-      "word": "日本民众说本来没事都怪高市",
-      "onboard_time": 1763738604,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64805,
       "num": 317832,
       "word": "买二手房一定要买别人住过的",
@@ -329,6 +361,14 @@
       "onboard_time": 1763726902,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64083,
+      "num": 105811,
+      "word": "高市早苗被与英国最短命首相类比",
+      "onboard_time": 1763745318,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62944,
@@ -347,15 +387,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 59747,
-      "num": 59747,
-      "word": "美结束俄乌冲突28点计划曝光",
-      "onboard_time": 1763748436,
-      "rank": 16,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 59496,
+      "raw_hot": 61160,
       "num": 315064,
       "word": "葛荟婕回应女儿叫章子怡妈妈",
       "onboard_time": 1763725821,
@@ -371,20 +403,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58623,
+      "num": 96831,
+      "word": "印度光辉战机表演时坠毁",
+      "onboard_time": 1763723063,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58258,
       "num": 314002,
       "word": "Keria夸赞iG",
       "onboard_time": 1763737644,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 58254,
-      "num": 105811,
-      "word": "高市早苗被与英国最短命首相类比",
-      "onboard_time": 1763745318,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 55938,
@@ -443,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52019,
+      "num": 52019,
+      "word": "网红芭比迪丽拉被指欠薪已断更两月",
+      "onboard_time": 1763764456,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 49024,
       "num": 202741,
       "word": "kimi戴口罩好像易烊千玺",
@@ -459,12 +499,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 46179,
-      "num": 37966,
-      "word": "中方的反制在日本产生连锁反应",
-      "onboard_time": 1763754734,
-      "rank": 27,
-      "category": "国内时政"
+      "raw_hot": 43050,
+      "num": 44053,
+      "word": "造假教授被查学生称不意外",
+      "onboard_time": 1763766257,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42678,
+      "num": 44049,
+      "word": "迅猛龙爱上方头明",
+      "onboard_time": 1763724323,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 41637,
@@ -473,14 +521,6 @@
       "onboard_time": 1763727802,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 38390,
-      "num": 96831,
-      "word": "印度光辉战机表演时坠毁",
-      "onboard_time": 1763723063,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 36945,
@@ -515,8 +555,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 26861,
-      "num": 34093,
+      "raw_hot": 28826,
+      "num": 44026,
       "word": "你的英语在外国人眼中的样子",
       "onboard_time": 1763755394,
       "rank": 42,
@@ -540,7 +580,7 @@
     },
     {
       "raw_hot": 23170,
-      "num": 42108,
+      "num": 44020,
       "word": "中国唱将",
       "onboard_time": 1763753355,
       "rank": 27,
@@ -577,14 +617,6 @@
       "onboard_time": 1763750175,
       "rank": 46,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 15369,
-      "num": 33998,
-      "word": "网红芭比迪丽拉被指欠薪已断更两月",
-      "onboard_time": 1763764456,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 14096,
