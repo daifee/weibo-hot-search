@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763735212460,
+  "endTime": 1763736242095,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -129,6 +129,14 @@
       "onboard_time": 1762611024,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 6186705,
+      "num": 6186705,
+      "word": "胡彦斌 不是AI的",
+      "onboard_time": 1763736143,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 5959028,
@@ -361,6 +369,14 @@
       "onboard_time": 1763559384,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2262786,
+      "num": 132717,
+      "word": "易梦玲胡彦斌回国",
+      "onboard_time": 1763735662,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 2260781,
@@ -10915,6 +10931,14 @@
       "category": "音乐,综艺"
     },
     {
+      "raw_hot": 367805,
+      "num": 193817,
+      "word": "高市早苗招惹马来西亚",
+      "onboard_time": 1763734522,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 367367,
       "num": 209353,
       "word": "全世界都知道龚俊有三不接了",
@@ -11665,6 +11689,14 @@
       "onboard_time": 1761971360,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 350866,
+      "num": 301035,
+      "word": "凤凰台上 东宫",
+      "onboard_time": 1763732662,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 350841,
@@ -13865,14 +13897,6 @@
       "onboard_time": 1763528663,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301035,
-      "num": 301035,
-      "word": "凤凰台上 东宫",
-      "onboard_time": 1763732662,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 300936,
@@ -19041,6 +19065,14 @@
       "onboard_time": 1762328480,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218106,
+      "num": 218106,
+      "word": "凤凰台上原著作者 女主",
+      "onboard_time": 1763735061,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 218090,
@@ -25451,14 +25483,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175093,
-      "num": 193817,
-      "word": "高市早苗招惹马来西亚",
-      "onboard_time": 1763734522,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175032,
       "num": 148975,
       "word": "林诗栋展望对阵樊振东",
@@ -27649,6 +27673,14 @@
       "onboard_time": 1763377461,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163270,
+      "num": 163270,
+      "word": "易梦玲没否认恋情",
+      "onboard_time": 1763736143,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 163251,
@@ -33995,14 +34027,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 137931,
-      "num": 205057,
-      "word": "凤凰台上原著作者 女主",
-      "onboard_time": 1763735061,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137892,
       "num": 355040,
       "word": "沈腾包场易烊千玺狂野时代",
@@ -36465,6 +36489,14 @@
       "onboard_time": 1762513820,
       "rank": 22,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 129912,
+      "num": 192837,
+      "word": "司机急刹车致23岁男生高位截瘫",
+      "onboard_time": 1763734702,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129895,
@@ -45643,6 +45675,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 107732,
+      "num": 107732,
+      "word": "全运会闭幕式星辰大海",
+      "onboard_time": 1763736203,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107703,
       "num": 107703,
       "word": "刘耀文新歌SAUCE",
@@ -51681,6 +51721,14 @@
       "onboard_time": 1762397120,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 96042,
+      "num": 192718,
+      "word": "106岁妈妈让80岁女儿不要太贪玩",
+      "onboard_time": 1763734702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95970,
@@ -60987,14 +61035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76285,
-      "num": 192837,
-      "word": "司机急刹车致23岁男生高位截瘫",
-      "onboard_time": 1763734702,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76279,
       "num": 87632,
       "word": "从小到大我妈都这么夸我",
@@ -63065,14 +63105,6 @@
       "onboard_time": 1763012120,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 69914,
-      "num": 192718,
-      "word": "106岁妈妈让80岁女儿不要太贪玩",
-      "onboard_time": 1763734702,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69883,
@@ -65817,6 +65849,14 @@
       "onboard_time": 1762877361,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58742,
+      "num": 193002,
+      "word": "1万8请的月嫂疑喂奶致婴儿呛奶夭折",
+      "onboard_time": 1763734702,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58740,
@@ -68715,6 +68755,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45700,
+      "num": 125485,
+      "word": "荣耀500镜头下的鲜活瞬间",
+      "onboard_time": 1763736143,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45681,
       "num": 89688,
       "word": "梁伟铿用粤语接受采访",
@@ -71379,14 +71427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34338,
-      "num": 193002,
-      "word": "1万8请的月嫂疑喂奶致婴儿呛奶夭折",
-      "onboard_time": 1763734702,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34337,
       "num": 85374,
       "word": "全运会乒乓球明日开赛",
@@ -72617,6 +72657,14 @@
       "onboard_time": 1763399836,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29723,
+      "num": 164070,
+      "word": "日本首相官邸外抗议人数剧增",
+      "onboard_time": 1763735604,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29720,
@@ -76081,6 +76129,14 @@
       "onboard_time": 1762976593,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11771,
+      "num": 103225,
+      "word": "HLE官宣Delight续约",
+      "onboard_time": 1763736084,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 11747,

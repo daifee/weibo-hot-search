@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763735212460,
+  "endTime": 1763736242095,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -49,6 +49,14 @@
       "onboard_time": 1763269522,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 6186705,
+      "num": 6186705,
+      "word": "胡彦斌 不是AI的",
+      "onboard_time": 1763736143,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 5484173,
@@ -153,6 +161,14 @@
       "onboard_time": 1763559384,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 2262786,
+      "num": 132717,
+      "word": "易梦玲胡彦斌回国",
+      "onboard_time": 1763735662,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 2178127,
@@ -3643,6 +3659,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 367805,
+      "num": 193817,
+      "word": "高市早苗招惹马来西亚",
+      "onboard_time": 1763734522,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 367218,
       "num": 367218,
       "word": "日本网友要求高市向中国道歉",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1763467164,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350866,
+      "num": 301035,
+      "word": "凤凰台上 东宫",
+      "onboard_time": 1763732662,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 350731,
@@ -4625,14 +4657,6 @@
       "onboard_time": 1763528663,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301035,
-      "num": 301035,
-      "word": "凤凰台上 东宫",
-      "onboard_time": 1763732662,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 300936,
@@ -6368,6 +6392,14 @@
       "word": "迪丽热巴播剧粉丝精神状态",
       "onboard_time": 1763607681,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 218106,
+      "num": 218106,
+      "word": "凤凰台上原著作者 女主",
+      "onboard_time": 1763735061,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -8531,14 +8563,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175093,
-      "num": 193817,
-      "word": "高市早苗招惹马来西亚",
-      "onboard_time": 1763734522,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 175020,
       "num": 175020,
       "word": "吴艳妮12秒85",
@@ -9233,6 +9257,14 @@
       "onboard_time": 1763377461,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163270,
+      "num": 163270,
+      "word": "易梦玲没否认恋情",
+      "onboard_time": 1763736143,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 163221,
@@ -11243,14 +11275,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 137931,
-      "num": 205057,
-      "word": "凤凰台上原著作者 女主",
-      "onboard_time": 1763735061,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137892,
       "num": 355040,
       "word": "沈腾包场易烊千玺狂野时代",
@@ -11961,6 +11985,14 @@
       "onboard_time": 1763708840,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129912,
+      "num": 192837,
+      "word": "司机急刹车致23岁男生高位截瘫",
+      "onboard_time": 1763734702,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129895,
@@ -14627,6 +14659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107732,
+      "num": 107732,
+      "word": "全运会闭幕式星辰大海",
+      "onboard_time": 1763736203,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107703,
       "num": 107703,
       "word": "刘耀文新歌SAUCE",
@@ -15993,6 +16033,14 @@
       "onboard_time": 1763469144,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96042,
+      "num": 192718,
+      "word": "106岁妈妈让80岁女儿不要太贪玩",
+      "onboard_time": 1763734702,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95937,
@@ -17363,14 +17411,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 76285,
-      "num": 192837,
-      "word": "司机急刹车致23岁男生高位截瘫",
-      "onboard_time": 1763734702,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76111,
       "num": 144992,
       "word": "23岁美国男大疑被AI诱导自杀",
@@ -17728,14 +17768,6 @@
       "word": "家门口遇害女子妈妈称一秒记住凶手",
       "onboard_time": 1763611223,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 69914,
-      "num": 192718,
-      "word": "106岁妈妈让80岁女儿不要太贪玩",
-      "onboard_time": 1763734702,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -18361,6 +18393,14 @@
       "onboard_time": 1763375423,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 58742,
+      "num": 193002,
+      "word": "1万8请的月嫂疑喂奶致婴儿呛奶夭折",
+      "onboard_time": 1763734702,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58704,
@@ -19185,6 +19225,14 @@
       "onboard_time": 1763626342,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45700,
+      "num": 125485,
+      "word": "荣耀500镜头下的鲜活瞬间",
+      "onboard_time": 1763736143,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 45595,
@@ -20099,14 +20147,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34338,
-      "num": 193002,
-      "word": "1万8请的月嫂疑喂奶致婴儿呛奶夭折",
-      "onboard_time": 1763734702,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34305,
       "num": 150466,
       "word": "蔡少芬女儿长这么高了",
@@ -20593,6 +20633,14 @@
       "onboard_time": 1763399836,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 29723,
+      "num": 164070,
+      "word": "日本首相官邸外抗议人数剧增",
+      "onboard_time": 1763735604,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29706,
@@ -21665,6 +21713,14 @@
       "onboard_time": 1763667554,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11771,
+      "num": 103225,
+      "word": "HLE官宣Delight续约",
+      "onboard_time": 1763736084,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 11747,

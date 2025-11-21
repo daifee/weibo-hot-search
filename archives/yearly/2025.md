@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/21 22:26:52
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/21 22:44:02
 </p>
 </blockquote>
 <p>
@@ -1785,6 +1785,12 @@ AG夺冠（热度：6577239）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E4%B8%8D%E6%98%AFAI%E7%9A%84%23" target="weibo">
+胡彦斌 不是AI的（热度：6186705）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23ALin%E7%A7%92%E4%BA%86%23" target="weibo">
 ALin秒了（热度：6171972）
 </a>
@@ -1805,12 +1811,6 @@ ALin秒了（热度：6171972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%8C%97%E5%A4%A7%E6%8B%9F%E5%BD%95%E5%8F%96%23" target="weibo">
 王楚钦北大拟录取（热度：6115383）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9C%B2%E6%80%9D%E9%95%BF%E6%96%87%E8%B0%88%E6%8A%91%E9%83%81%E7%97%87%23" target="weibo">
-赵露思长文谈抑郁症（热度：6007866）
 </a>
 </li>
 

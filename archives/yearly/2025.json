@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763735212460,
+  "endTime": 1763736242095,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2363,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6186705,
+      "num": 6186705,
+      "word": "胡彦斌 不是AI的",
+      "onboard_time": 1763736143,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 6171972,
       "num": 6171972,
       "word": "ALin秒了",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1743576981,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 6007866,
-      "num": 6007866,
-      "word": "赵露思长文谈抑郁症",
-      "onboard_time": 1738151061,
-      "rank": 20,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [

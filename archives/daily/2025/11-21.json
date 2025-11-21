@@ -1,12 +1,20 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763735212460,
+  "endTime": 1763736242095,
   "band_list": [
     {
       "raw_hot": 8650521,
       "num": 8650521,
       "word": "易梦玲称和胡彦斌海边视频是AI",
       "onboard_time": 1763715441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 6186705,
+      "num": 6186705,
+      "word": "胡彦斌 不是AI的",
+      "onboard_time": 1763736143,
       "rank": 20,
       "category": "艺人"
     },
@@ -24,6 +32,14 @@
       "word": "我AI的易梦玲胡彦斌",
       "onboard_time": 1763725402,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2262786,
+      "num": 132717,
+      "word": "易梦玲胡彦斌回国",
+      "onboard_time": 1763735662,
+      "rank": 28,
       "category": "艺人"
     },
     {
@@ -523,6 +539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 367805,
+      "num": 193817,
+      "word": "高市早苗招惹马来西亚",
+      "onboard_time": 1763734522,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 366198,
       "num": 891930,
       "word": "中国军网海外发布一切就绪",
@@ -552,6 +576,14 @@
       "word": "朱珠真的不考虑开个穿搭班吗",
       "onboard_time": 1763697380,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 350866,
+      "num": 301035,
+      "word": "凤凰台上 东宫",
+      "onboard_time": 1763732662,
+      "rank": 44,
       "category": "剧集"
     },
     {
@@ -689,14 +721,6 @@
       "onboard_time": 1763727802,
       "rank": 4,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 301035,
-      "num": 301035,
-      "word": "凤凰台上 东宫",
-      "onboard_time": 1763732662,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 300879,
@@ -955,6 +979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 218106,
+      "num": 218106,
+      "word": "凤凰台上原著作者 女主",
+      "onboard_time": 1763735061,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 207855,
       "num": 279246,
       "word": "两千保省奖八千保国奖",
@@ -1171,14 +1203,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 175093,
-      "num": 193817,
-      "word": "高市早苗招惹马来西亚",
-      "onboard_time": 1763734522,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 174256,
       "num": 192226,
       "word": "A股牛市有望持续",
@@ -1321,6 +1345,14 @@
       "onboard_time": 1763710580,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 163270,
+      "num": 163270,
+      "word": "易梦玲没否认恋情",
+      "onboard_time": 1763736143,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 163207,
@@ -1547,14 +1579,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 137931,
-      "num": 205057,
-      "word": "凤凰台上原著作者 女主",
-      "onboard_time": 1763735061,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 137892,
       "num": 355040,
       "word": "沈腾包场易烊千玺狂野时代",
@@ -1657,6 +1681,14 @@
       "onboard_time": 1763708840,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129912,
+      "num": 192837,
+      "word": "司机急刹车致23岁男生高位截瘫",
+      "onboard_time": 1763734702,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129249,
@@ -2139,6 +2171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107732,
+      "num": 107732,
+      "word": "全运会闭幕式星辰大海",
+      "onboard_time": 1763736203,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107643,
       "num": 107643,
       "word": "原来商场里的车是这么进来的",
@@ -2408,6 +2448,14 @@
       "word": "奶皮子糖葫芦紧急撤回一颗山楂",
       "onboard_time": 1763717661,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96042,
+      "num": 192718,
+      "word": "106岁妈妈让80岁女儿不要太贪玩",
+      "onboard_time": 1763734702,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2699,14 +2747,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 76285,
-      "num": 192837,
-      "word": "司机急刹车致23岁男生高位截瘫",
-      "onboard_time": 1763734702,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 75976,
       "num": 75976,
       "word": "时代峰峻回应朱志鑫见面会",
@@ -2801,14 +2841,6 @@
       "onboard_time": 1763644463,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69914,
-      "num": 192718,
-      "word": "106岁妈妈让80岁女儿不要太贪玩",
-      "onboard_time": 1763734702,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69833,
@@ -2979,6 +3011,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 58742,
+      "num": 193002,
+      "word": "1万8请的月嫂疑喂奶致婴儿呛奶夭折",
+      "onboard_time": 1763734702,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57554,
       "num": 142733,
       "word": "23岁女儿索要抚养费遭拒起诉父亲",
@@ -3129,6 +3169,14 @@
       "onboard_time": 1763719642,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 45700,
+      "num": 125485,
+      "word": "荣耀500镜头下的鲜活瞬间",
+      "onboard_time": 1763736143,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 45392,
@@ -3371,14 +3419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 34338,
-      "num": 193002,
-      "word": "1万8请的月嫂疑喂奶致婴儿呛奶夭折",
-      "onboard_time": 1763734702,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 34193,
       "num": 368446,
       "word": "十五运会新华社出图",
@@ -3449,6 +3489,14 @@
       "onboard_time": 1763713760,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29723,
+      "num": 164070,
+      "word": "日本首相官邸外抗议人数剧增",
+      "onboard_time": 1763735604,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 29411,
@@ -3633,6 +3681,14 @@
       "onboard_time": 1763667554,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 11771,
+      "num": 103225,
+      "word": "HLE官宣Delight续约",
+      "onboard_time": 1763736084,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 7890,
