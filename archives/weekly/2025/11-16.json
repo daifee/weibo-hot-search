@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763703824062,
+  "endTime": 1763707215060,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -241,6 +241,14 @@
       "onboard_time": 1763553021,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1527554,
+      "num": 196885,
+      "word": "鹿晗 馒头真不能再吃了",
+      "onboard_time": 1763703681,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 1513567,
@@ -585,6 +593,14 @@
       "onboard_time": 1763621303,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014012,
+      "num": 1162241,
+      "word": "CPA成绩",
+      "onboard_time": 1763705661,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1007477,
@@ -1052,7 +1068,7 @@
     },
     {
       "raw_hot": 769784,
-      "num": 194230,
+      "num": 196109,
       "word": "胡彦斌100件小事易梦玲看进去了",
       "onboard_time": 1763700622,
       "rank": 22,
@@ -1939,6 +1955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 539128,
+      "num": 1082752,
+      "word": "全运会万米跑冠军被取消金牌",
+      "onboard_time": 1763701163,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 537554,
       "num": 307766,
       "word": "张子枫",
@@ -2073,14 +2097,6 @@
       "onboard_time": 1763383582,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 517205,
-      "num": 1082752,
-      "word": "全运会万米跑冠军被取消金牌",
-      "onboard_time": 1763701163,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 516460,
@@ -3027,6 +3043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 403621,
+      "num": 264099,
+      "word": "何赛飞爆料有演员整容整到认不出来",
+      "onboard_time": 1763700682,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 401869,
       "num": 281553,
       "word": "王源官宣客厅狂欢跨年场",
@@ -3401,6 +3425,14 @@
       "onboard_time": 1763522541,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 367028,
+      "num": 249768,
+      "word": "男子请陪产假被开除公司说纯属算计",
+      "onboard_time": 1763705362,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366799,
@@ -4012,7 +4044,7 @@
     },
     {
       "raw_hot": 324174,
-      "num": 252550,
+      "num": 299606,
       "word": "奇葩说 回归",
       "onboard_time": 1763700442,
       "rank": 6,
@@ -4041,6 +4073,14 @@
       "onboard_time": 1763636484,
       "rank": 3,
       "category": "体育"
+    },
+    {
+      "raw_hot": 321101,
+      "num": 321101,
+      "word": "繁花团6个人吃了1826元",
+      "onboard_time": 1763704941,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 320141,
@@ -4579,14 +4619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 288417,
-      "num": 207899,
-      "word": "何赛飞爆料有演员整容整到认不出来",
-      "onboard_time": 1763700682,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 288378,
       "num": 224791,
       "word": "Gumayusi直播谈离开T1",
@@ -4964,7 +4996,7 @@
     },
     {
       "raw_hot": 265833,
-      "num": 222276,
+      "num": 224434,
       "word": "猫咪以为烫头的主人是生气炸毛了",
       "onboard_time": 1763701102,
       "rank": 14,
@@ -6187,6 +6219,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 206088,
+      "num": 293371,
+      "word": "狂野时代",
+      "onboard_time": 1763372181,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205841,
       "num": 291832,
       "word": "广东男团十五运铜牌",
@@ -6347,20 +6387,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203073,
+      "num": 203073,
+      "word": "朱珠真的不考虑开个穿搭班吗",
+      "onboard_time": 1763697380,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 202986,
       "num": 202986,
       "word": "乒乓球男团北京夺冠",
       "onboard_time": 1763643623,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 202874,
-      "num": 202874,
-      "word": "朱珠真的不考虑开个穿搭班吗",
-      "onboard_time": 1763697380,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 202781,
@@ -6620,7 +6660,7 @@
     },
     {
       "raw_hot": 198699,
-      "num": 198699,
+      "num": 202417,
       "word": "易烊千玺主演电影预售票房全部破亿",
       "onboard_time": 1763700201,
       "rank": 46,
@@ -6995,14 +7035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 191117,
-      "num": 191117,
-      "word": "鹿晗 馒头真不能再吃了",
-      "onboard_time": 1763703681,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190966,
       "num": 173289,
       "word": "彭小苒 我努力做个好妈妈",
@@ -7251,6 +7283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188311,
+      "num": 188311,
+      "word": "胡先煦从offer嘉宾席到选手席",
+      "onboard_time": 1763705841,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188106,
       "num": 288489,
       "word": "罗小黑无限哪吒战况激烈海报",
@@ -7288,14 +7328,6 @@
       "word": "胡歌生图也太生了",
       "onboard_time": 1763291002,
       "rank": 31,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 187787,
-      "num": 290479,
-      "word": "狂野时代",
-      "onboard_time": 1763372181,
-      "rank": 46,
       "category": "电影"
     },
     {
@@ -8051,6 +8083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 173466,
+      "num": 192633,
+      "word": "王俊凯南京活动",
+      "onboard_time": 1763705781,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 173449,
       "num": 173449,
       "word": "TF三代 打断骨头连着筋",
@@ -8755,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160599,
+      "num": 160599,
+      "word": "宁静 我不喜欢",
+      "onboard_time": 1763704521,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160384,
       "num": 160384,
       "word": "南京市市长调整",
@@ -9129,6 +9177,14 @@
       "onboard_time": 1763526262,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "这么多人偏偏让他站了C位",
+      "onboard_time": 1763706800,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 155630,
@@ -11147,6 +11203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130156,
+      "num": 270131,
+      "word": "两千保省奖八千保国奖",
+      "onboard_time": 1763703382,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130025,
       "num": 130025,
       "word": "新闻女王2大大方方的真诚",
@@ -11529,6 +11593,14 @@
       "onboard_time": 1763346980,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125954,
+      "num": 125954,
+      "word": "何美延婆婆会说就多说",
+      "onboard_time": 1763703979,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 125908,
@@ -12363,6 +12435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 119132,
+      "num": 119132,
+      "word": "日本核爆记忆换不来和平主义",
+      "onboard_time": 1763703201,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118968,
       "num": 118968,
       "word": "养过狗的才知道她多会养",
@@ -12539,14 +12619,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117620,
-      "num": 117620,
-      "word": "日本核爆记忆换不来和平主义",
-      "onboard_time": 1763703201,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 117616,
       "num": 117616,
       "word": "电影蛮荒禁地",
@@ -12593,6 +12665,14 @@
       "onboard_time": 1763372601,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 117320,
+      "num": 117320,
+      "word": "唐诡3前一天不解后一天顿悟",
+      "onboard_time": 1763705422,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 117262,
@@ -12937,6 +13017,14 @@
       "onboard_time": 1763619563,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114466,
+      "num": 169214,
+      "word": "A股半日放量1975亿",
+      "onboard_time": 1763705302,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 114453,
@@ -13739,6 +13827,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105961,
+      "num": 105961,
+      "word": "张维伊 你们少上点网吧",
+      "onboard_time": 1763706919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105871,
       "num": 105871,
       "word": "何同学回应网约车言论争议",
@@ -14305,6 +14401,14 @@
       "onboard_time": 1763642303,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 100919,
+      "num": 100919,
+      "word": "声生不息不愧是文案天花板",
+      "onboard_time": 1763706382,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 100781,
@@ -15251,6 +15355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89635,
+      "num": 163256,
+      "word": "林高远全运会后发文",
+      "onboard_time": 1763706260,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89571,
       "num": 89571,
       "word": "勇士vs热火",
@@ -15689,6 +15801,14 @@
       "onboard_time": 1763623823,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83241,
+      "num": 83241,
+      "word": "我的哪吒与变形金刚定档",
+      "onboard_time": 1763705841,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 82905,
@@ -16204,7 +16324,7 @@
     },
     {
       "raw_hot": 72237,
-      "num": 198253,
+      "num": 224560,
       "word": "天籁12.99万起全系标配鸿蒙座舱5",
       "onboard_time": 1763703261,
       "rank": 16,
@@ -16240,6 +16360,14 @@
       "word": "石宇奇因伤退赛",
       "onboard_time": 1763369963,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 71645,
+      "num": 125772,
+      "word": "山东实现全运会五连冠",
+      "onboard_time": 1763705001,
+      "rank": 38,
       "category": "体育"
     },
     {
@@ -16769,6 +16897,14 @@
       "onboard_time": 1763362821,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61340,
+      "num": 200456,
+      "word": "在广州车展遇见会笑的车",
+      "onboard_time": 1763705060,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 61322,
@@ -18097,6 +18233,14 @@
       "onboard_time": 1763695041,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 39128,
+      "num": 209121,
+      "word": "丰田铂智7首次全量发布",
+      "onboard_time": 1763705060,
+      "rank": 16,
+      "category": "汽车"
     },
     {
       "raw_hot": 38854,
@@ -19499,6 +19643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20511,
+      "num": 161911,
+      "word": "日本共产党称高市只有撤回发言一条路",
+      "onboard_time": 1763706981,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20288,
       "num": 137525,
       "word": "日本有重蹈军国主义覆辙的危险",
@@ -19625,6 +19777,14 @@
       "onboard_time": 1763235074,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18290,
+      "num": 125768,
+      "word": "23岁女儿索要抚养费遭拒起诉父亲",
+      "onboard_time": 1763707041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18241,
@@ -19873,14 +20033,6 @@
       "onboard_time": 1763438483,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 12921,
-      "num": 196729,
-      "word": "两千保省奖八千保国奖",
-      "onboard_time": 1763703382,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12906,

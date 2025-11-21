@@ -1,7 +1,15 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763703824062,
+  "endTime": 1763707215060,
   "band_list": [
+    {
+      "raw_hot": 1527554,
+      "num": 196885,
+      "word": "鹿晗 馒头真不能再吃了",
+      "onboard_time": 1763703681,
+      "rank": 30,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1432674,
       "num": 1019599,
@@ -17,6 +25,14 @@
       "onboard_time": 1763692581,
       "rank": 24,
       "category": "财经"
+    },
+    {
+      "raw_hot": 1014012,
+      "num": 1162241,
+      "word": "CPA成绩",
+      "onboard_time": 1763705661,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 923150,
@@ -60,7 +76,7 @@
     },
     {
       "raw_hot": 769784,
-      "num": 194230,
+      "num": 196109,
       "word": "胡彦斌100件小事易梦玲看进去了",
       "onboard_time": 1763700622,
       "rank": 22,
@@ -115,20 +131,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 539128,
+      "num": 1082752,
+      "word": "全运会万米跑冠军被取消金牌",
+      "onboard_time": 1763701163,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 534116,
       "num": 400255,
       "word": "面包界真的需要一个蜜雪冰城",
       "onboard_time": 1763684901,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 517205,
-      "num": 1082752,
-      "word": "全运会万米跑冠军被取消金牌",
-      "onboard_time": 1763701163,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 503077,
@@ -227,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 403621,
+      "num": 264099,
+      "word": "何赛飞爆料有演员整容整到认不出来",
+      "onboard_time": 1763700682,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 396053,
       "num": 1035274,
       "word": "米哈游新作31分钟实机",
@@ -273,6 +297,14 @@
       "onboard_time": 1763688500,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 367028,
+      "num": 249768,
+      "word": "男子请陪产假被开除公司说纯属算计",
+      "onboard_time": 1763705362,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 365442,
@@ -332,10 +364,18 @@
     },
     {
       "raw_hot": 324174,
-      "num": 252550,
+      "num": 299606,
       "word": "奇葩说 回归",
       "onboard_time": 1763700442,
       "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321101,
+      "num": 321101,
+      "word": "繁花团6个人吃了1826元",
+      "onboard_time": 1763704941,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -379,14 +419,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288417,
-      "num": 207899,
-      "word": "何赛飞爆料有演员整容整到认不出来",
-      "onboard_time": 1763700682,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280502,
       "num": 253145,
       "word": "陈伟霆带着电梯神图又杀回来了",
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 265833,
-      "num": 222276,
+      "num": 224434,
       "word": "猫咪以为烫头的主人是生气炸毛了",
       "onboard_time": 1763701102,
       "rank": 14,
@@ -483,6 +515,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 206088,
+      "num": 293371,
+      "word": "狂野时代",
+      "onboard_time": 1763705962,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 205116,
       "num": 388780,
       "word": "电影狂野时代",
@@ -499,8 +539,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 202874,
-      "num": 202874,
+      "raw_hot": 203073,
+      "num": 203073,
       "word": "朱珠真的不考虑开个穿搭班吗",
       "onboard_time": 1763697380,
       "rank": 47,
@@ -532,7 +572,7 @@
     },
     {
       "raw_hot": 198699,
-      "num": 198699,
+      "num": 202417,
       "word": "易烊千玺主演电影预售票房全部破亿",
       "onboard_time": 1763700201,
       "rank": 46,
@@ -547,20 +587,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 191117,
-      "num": 191117,
-      "word": "鹿晗 馒头真不能再吃了",
-      "onboard_time": 1763703681,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188432,
       "num": 188432,
       "word": "发明请抬脚的人真是个天才",
       "onboard_time": 1763699362,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 188311,
+      "num": 188311,
+      "word": "胡先煦从offer嘉宾席到选手席",
+      "onboard_time": 1763705841,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 188106,
@@ -585,6 +625,14 @@
       "onboard_time": 1763699422,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173466,
+      "num": 192633,
+      "word": "王俊凯南京活动",
+      "onboard_time": 1763705781,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 170018,
@@ -627,6 +675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160599,
+      "num": 160599,
+      "word": "宁静 我不喜欢",
+      "onboard_time": 1763704521,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 160326,
       "num": 160326,
       "word": "曝Xun重回BLG原因",
@@ -657,6 +713,14 @@
       "onboard_time": 1763701762,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 155747,
+      "num": 155747,
+      "word": "这么多人偏偏让他站了C位",
+      "onboard_time": 1763706800,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 155543,
@@ -811,6 +875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 130156,
+      "num": 270131,
+      "word": "两千保省奖八千保国奖",
+      "onboard_time": 1763703382,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 128763,
       "num": 128763,
       "word": "辱骂烈士遗孀毛豆妈妈王某被处罚",
@@ -848,6 +920,14 @@
       "word": "奔跑吧解读天路含义好好哭",
       "onboard_time": 1763700082,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 125954,
+      "num": 125954,
+      "word": "何美延婆婆会说就多说",
+      "onboard_time": 1763703979,
+      "rank": 37,
       "category": "综艺"
     },
     {
@@ -923,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119132,
+      "num": 119132,
+      "word": "日本核爆记忆换不来和平主义",
+      "onboard_time": 1763703201,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 118968,
       "num": 118968,
       "word": "养过狗的才知道她多会养",
@@ -939,20 +1027,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 117620,
-      "num": 117620,
-      "word": "日本核爆记忆换不来和平主义",
-      "onboard_time": 1763703201,
-      "rank": 45,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 117602,
       "num": 117602,
       "word": "papi说梁淞38岁了还成长",
       "onboard_time": 1763703201,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117320,
+      "num": 117320,
+      "word": "唐诡3前一天不解后一天顿悟",
+      "onboard_time": 1763705422,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 117079,
@@ -969,6 +1057,14 @@
       "onboard_time": 1763687602,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114466,
+      "num": 169214,
+      "word": "A股半日放量1975亿",
+      "onboard_time": 1763705302,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 111805,
@@ -1035,6 +1131,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 105961,
+      "num": 105961,
+      "word": "张维伊 你们少上点网吧",
+      "onboard_time": 1763706919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105825,
       "num": 105825,
       "word": "马龙发布会调侃记者",
@@ -1080,6 +1184,14 @@
       "word": "宁静 不要批判别人搞医美",
       "onboard_time": 1763703561,
       "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100919,
+      "num": 100919,
+      "word": "声生不息不愧是文案天花板",
+      "onboard_time": 1763706382,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -1195,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89635,
+      "num": 163256,
+      "word": "林高远全运会后发文",
+      "onboard_time": 1763706260,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88355,
       "num": 88355,
       "word": "王楚钦回应头撞球桌",
@@ -1217,6 +1337,14 @@
       "onboard_time": 1763657239,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83241,
+      "num": 83241,
+      "word": "我的哪吒与变形金刚定档",
+      "onboard_time": 1763705841,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 79153,
@@ -1300,11 +1428,19 @@
     },
     {
       "raw_hot": 72237,
-      "num": 198253,
+      "num": 224560,
       "word": "天籁12.99万起全系标配鸿蒙座舱5",
       "onboard_time": 1763703261,
       "rank": 16,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 71645,
+      "num": 125772,
+      "word": "山东实现全运会五连冠",
+      "onboard_time": 1763705001,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 70017,
@@ -1433,6 +1569,14 @@
       "onboard_time": 1763681660,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 61340,
+      "num": 200456,
+      "word": "在广州车展遇见会笑的车",
+      "onboard_time": 1763705060,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 61253,
@@ -1635,6 +1779,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39128,
+      "num": 209121,
+      "word": "丰田铂智7首次全量发布",
+      "onboard_time": 1763705060,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 38598,
       "num": 162960,
       "word": "古镇旅游为啥不香了",
@@ -1771,12 +1923,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20511,
+      "num": 161911,
+      "word": "日本共产党称高市只有撤回发言一条路",
+      "onboard_time": 1763706981,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18519,
       "num": 46670,
       "word": "王楚钦丢球扇自己巴掌",
       "onboard_time": 1763661255,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 18290,
+      "num": 125768,
+      "word": "23岁女儿索要抚养费遭拒起诉父亲",
+      "onboard_time": 1763707041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18241,
@@ -1817,14 +1985,6 @@
       "onboard_time": 1763666115,
       "rank": 44,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 12921,
-      "num": 196729,
-      "word": "两千保省奖八千保国奖",
-      "onboard_time": 1763703382,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12709,
