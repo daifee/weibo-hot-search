@@ -1,0 +1,410 @@
+{
+  "runTime": 1763691536768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 574639,
+        "num": 1091942,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 380694,
+        "num": 380694,
+        "word": "144人当选两院院士",
+        "onboard_time": 1763688561,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20527,
+        "num": 279078,
+        "word": "一人一句为中国体育加油",
+        "onboard_time": 1763650461,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 411062,
+        "num": 275708,
+        "word": "何同学称当时被吓到了",
+        "onboard_time": 1763683822,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 270138,
+        "num": 270138,
+        "word": "每一个近视眼都该控糖了",
+        "onboard_time": 1763653163,
+        "rank": 4,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 409207,
+        "num": 251724,
+        "word": "烟台压死女老师渣土车司机被定全责",
+        "onboard_time": 1763644703,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342423,
+        "num": 239667,
+        "word": "李维嘉吴昕湖南卫视再同台",
+        "onboard_time": 1763687241,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202289,
+        "num": 202289,
+        "word": "马龙拿下生涯唯一空缺金牌",
+        "onboard_time": 1763647223,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177413,
+        "num": 177413,
+        "word": "王楚钦说樊振东实在太强了",
+        "onboard_time": 1763682321,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170018,
+        "num": 170018,
+        "word": "王某辱骂烈士遗孀被处罚",
+        "onboard_time": 1763681119,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799671,
+        "num": 168541,
+        "word": "实习生出差抽中显卡被公司要求上交",
+        "onboard_time": 1763688140,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450705,
+        "num": 166591,
+        "word": "面包界真的需要一个蜜雪冰城",
+        "onboard_time": 1763684901,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 378916,
+        "num": 165634,
+        "word": "短剧群演工资这么高",
+        "onboard_time": 1763687001,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164570,
+        "num": 164570,
+        "word": "马龙王楚钦黄友政夺冠",
+        "onboard_time": 1763642905,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304618,
+        "num": 164301,
+        "word": "马龙说着说着就快哭了",
+        "onboard_time": 1763685680,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 304555,
+        "num": 164260,
+        "word": "致中方人员在德食物中毒餐馆致歉",
+        "onboard_time": 1763688500,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236854,
+        "num": 159214,
+        "word": "许昕说对不起家庭和同事",
+        "onboard_time": 1763680578,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149592,
+        "num": 149592,
+        "word": "红果短剧推出演员分账",
+        "onboard_time": 1763647644,
+        "rank": 17,
+        "category": "剧集,互联网"
+      },
+      {
+        "raw_hot": 121010,
+        "num": 149290,
+        "word": "得闲谨制",
+        "onboard_time": 1763653580,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95211,
+        "num": 148877,
+        "word": "声生不息华流季阵容官宣",
+        "onboard_time": 1763682501,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 714801,
+        "num": 148201,
+        "word": "A股",
+        "onboard_time": 1763689460,
+        "rank": 20,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 164169,
+        "num": 147789,
+        "word": "满心期待当外婆女儿却在家门口被杀",
+        "onboard_time": 1763680819,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539892,
+        "num": 147334,
+        "word": "胡彦斌易梦玲还在马尔代夫",
+        "onboard_time": 1763651123,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261431,
+        "num": 147249,
+        "word": "罗晋单位在北京",
+        "onboard_time": 1763684182,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146791,
+        "num": 146791,
+        "word": "冬天穿羽绒服就扎这样的丸子头",
+        "onboard_time": 1763687301,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134072,
+        "num": 134072,
+        "word": "王楚钦vs樊振东",
+        "onboard_time": 1763635883,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50322,
+        "num": 133051,
+        "word": "家门口遇害案母亲出庭作证10分钟",
+        "onboard_time": 1763690000,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313213,
+        "num": 129828,
+        "word": "胡彦斌 法庭上带着你的破视频",
+        "onboard_time": 1763640563,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150338,
+        "num": 125657,
+        "word": "罗晋父亲离世",
+        "onboard_time": 1763635763,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93073,
+        "num": 124016,
+        "word": "李施嬅心疼车崇健",
+        "onboard_time": 1763691200,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122743,
+        "num": 122743,
+        "word": "衣服卖多了果然有点职业病",
+        "onboard_time": 1763685680,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 115581,
+        "num": 115581,
+        "word": "惹恼中国后日本发现自己没朋友",
+        "onboard_time": 1763687602,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110125,
+        "num": 110125,
+        "word": "WBG Elk",
+        "onboard_time": 1763683582,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 107237,
+        "num": 107237,
+        "word": "男子偷狗送餐馆主人找到时已扒皮",
+        "onboard_time": 1763685622,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101963,
+        "num": 101963,
+        "word": "原来玉镯是这样生产的",
+        "onboard_time": 1763686461,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 97297,
+        "num": 97297,
+        "word": "时代少年团彩排",
+        "onboard_time": 1763689581,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93594,
+        "num": 93594,
+        "word": "猫咪用敲击声回应民警救下主人",
+        "onboard_time": 1763690240,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92459,
+        "num": 92459,
+        "word": "郑则仕承认卖家当还债",
+        "onboard_time": 1763685501,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89408,
+        "num": 89408,
+        "word": "Alin竟然瘦成这样了",
+        "onboard_time": 1763651603,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 28133,
+        "num": 89361,
+        "word": "号码无故停机解封要提供工作证明",
+        "onboard_time": 1763690479,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 49678,
+        "num": 89334,
+        "word": "金摇杆年度最佳游戏",
+        "onboard_time": 1763690660,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 89314,
+        "num": 89314,
+        "word": "樊振东许昕周恺亚军",
+        "onboard_time": 1763643024,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 85276,
+        "num": 85276,
+        "word": "新的睡午觉 醒午觉",
+        "onboard_time": 1763685142,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82368,
+        "num": 82368,
+        "word": "湖人管理层大换血",
+        "onboard_time": 1763688023,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80051,
+        "num": 80051,
+        "word": "曝Knight曾放弃1.5亿大合同",
+        "onboard_time": 1763680458,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79153,
+        "num": 79153,
+        "word": "CPA查分",
+        "onboard_time": 1763690180,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 78954,
+        "num": 78954,
+        "word": "被母婴圈的物价震惊到了",
+        "onboard_time": 1763691081,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78382,
+        "num": 78382,
+        "word": "日本反对日本",
+        "onboard_time": 1763642905,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77311,
+        "num": 77311,
+        "word": "韩国炒鸡店偶遇林一",
+        "onboard_time": 1763691501,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66797,
+        "num": 76985,
+        "word": "电影狂野时代",
+        "onboard_time": 1763660056,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记高度重视体育强国建设#"
+    }
+  }
+}

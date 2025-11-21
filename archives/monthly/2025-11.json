@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763690269257,
+  "endTime": 1763691536768,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2851,6 +2851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 799671,
+      "num": 175119,
+      "word": "实习生出差抽中显卡被公司要求上交",
+      "onboard_time": 1763688140,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 798914,
       "num": 411283,
       "word": "iPhone可以检测针孔摄像头",
@@ -3451,14 +3459,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 729669,
-      "num": 175119,
-      "word": "实习生出差抽中显卡被公司要求上交",
-      "onboard_time": 1763688140,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 729347,
       "num": 245168,
       "word": "这一亲把央视解说干沉默了",
@@ -3561,6 +3561,14 @@
       "onboard_time": 1763190501,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714801,
+      "num": 333215,
+      "word": "A股",
+      "onboard_time": 1762136241,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 714663,
@@ -4835,14 +4843,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 615216,
-      "num": 333215,
-      "word": "A股",
-      "onboard_time": 1762136241,
-      "rank": 29,
-      "category": "财经"
-    },
-    {
       "raw_hot": 614588,
       "num": 248000,
       "word": "张凯丽回应63岁穿黑丝",
@@ -5449,6 +5449,14 @@
       "onboard_time": 1762483759,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 574639,
+      "num": 1091942,
+      "word": "日本多个行业为高市早苗买单",
+      "onboard_time": 1763685680,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 573406,
@@ -7305,14 +7313,6 @@
       "onboard_time": 1762332620,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482721,
-      "num": 1077235,
-      "word": "日本多个行业为高市早苗买单",
-      "onboard_time": 1763685680,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 482292,
@@ -9203,6 +9203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 409207,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 408854,
       "num": 271805,
       "word": "成都160万元凶宅26.6万拍卖",
@@ -9779,14 +9787,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 389812,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389789,
       "num": 242421,
       "word": "官方回应张博恒失误时裁判鼓掌大笑",
@@ -10131,6 +10131,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 380694,
+      "num": 380694,
+      "word": "144人当选两院院士",
+      "onboard_time": 1763688561,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 380690,
       "num": 165681,
       "word": "影视飓风Tim 相亲简历",
@@ -10209,6 +10217,14 @@
       "onboard_time": 1763102361,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 378916,
+      "num": 171520,
+      "word": "短剧群演工资这么高",
+      "onboard_time": 1763687001,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 378586,
@@ -11155,14 +11171,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 353039,
-      "num": 353039,
-      "word": "144人当选两院院士",
-      "onboard_time": 1763688561,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352354,
       "num": 352354,
       "word": "陈楚生金鸡奖获奖之作舞台",
@@ -11553,6 +11561,14 @@
       "onboard_time": 1762935022,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 342423,
+      "num": 332216,
+      "word": "李维嘉吴昕湖南卫视再同台",
+      "onboard_time": 1763687241,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 342176,
@@ -12025,14 +12041,6 @@
       "onboard_time": 1762334541,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 332216,
-      "num": 332216,
-      "word": "李维嘉吴昕湖南卫视再同台",
-      "onboard_time": 1763687241,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 332205,
@@ -13179,12 +13187,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304618,
+      "num": 172741,
+      "word": "马龙说着说着就快哭了",
+      "onboard_time": 1763685680,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304580,
       "num": 141963,
       "word": "轻断食从116斤瘦到94斤",
       "onboard_time": 1762125317,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 304555,
+      "num": 164260,
+      "word": "致中方人员在德食物中毒餐馆致歉",
+      "onboard_time": 1763688500,
+      "rank": 17,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 304410,
@@ -13963,14 +13987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290191,
-      "num": 172741,
-      "word": "马龙说着说着就快哭了",
-      "onboard_time": 1763685680,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 290062,
       "num": 276831,
       "word": "多兰 陌生",
@@ -14017,14 +14033,6 @@
       "onboard_time": 1763029401,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 289564,
-      "num": 171520,
-      "word": "短剧群演工资这么高",
-      "onboard_time": 1763687001,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 289491,
@@ -24235,6 +24243,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177413,
+      "num": 177413,
+      "word": "王楚钦说樊振东实在太强了",
+      "onboard_time": 1763682321,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177351,
       "num": 163314,
       "word": "他永远困在了女儿被害的雨夜",
@@ -25345,6 +25361,14 @@
       "onboard_time": 1763129782,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 170018,
+      "num": 170018,
+      "word": "王某辱骂烈士遗孀被处罚",
+      "onboard_time": 1763681119,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169935,
@@ -28593,14 +28617,6 @@
       "onboard_time": 1762151422,
       "rank": 23,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 155225,
-      "num": 155225,
-      "word": "致中方人员在德食物中毒餐馆致歉",
-      "onboard_time": 1763688500,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 155180,
@@ -32857,14 +32873,6 @@
       "onboard_time": 1763300963,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137879,
-      "num": 137879,
-      "word": "王楚钦说樊振东实在太强了",
-      "onboard_time": 1763682321,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 137862,
@@ -37987,6 +37995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122743,
+      "num": 122743,
+      "word": "衣服卖多了果然有点职业病",
+      "onboard_time": 1763685680,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122741,
       "num": 122741,
       "word": "李雪琴早就知道董璇张维伊在一起",
@@ -38457,14 +38473,6 @@
       "onboard_time": 1762990339,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121480,
-      "num": 121480,
-      "word": "衣服卖多了果然有点职业病",
-      "onboard_time": 1763685680,
-      "rank": 31,
-      "category": "幽默"
     },
     {
       "raw_hot": 121478,
@@ -40856,6 +40864,14 @@
       "word": "尹锡悦曾企图引发朝鲜军事挑衅",
       "onboard_time": 1762947081,
       "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 115581,
+      "num": 115581,
+      "word": "惹恼中国后日本发现自己没朋友",
+      "onboard_time": 1763687602,
+      "rank": 35,
       "category": "国际时政"
     },
     {
@@ -45083,14 +45099,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105326,
-      "num": 105326,
-      "word": "惹恼中国后日本发现自己没朋友",
-      "onboard_time": 1763687602,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105302,
       "num": 105302,
       "word": "邪恶大鼠标",
@@ -49235,6 +49243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97297,
+      "num": 97297,
+      "word": "时代少年团彩排",
+      "onboard_time": 1763689581,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97268,
       "num": 97268,
       "word": "21天狠人减肥食谱",
@@ -51091,6 +51107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 93594,
+      "num": 93594,
+      "word": "猫咪用敲击声回应民警救下主人",
+      "onboard_time": 1763690240,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93592,
       "num": 93592,
       "word": "低调务实的樊振东",
@@ -51369,6 +51393,14 @@
       "onboard_time": 1762911919,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93073,
+      "num": 124016,
+      "word": "李施嬅心疼车崇健",
+      "onboard_time": 1763691200,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 93056,
@@ -57299,14 +57331,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 80927,
-      "num": 80927,
-      "word": "猫咪用敲击声回应民警救下主人",
-      "onboard_time": 1763690240,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80921,
       "num": 85777,
       "word": "水龙吟大结局",
@@ -57843,14 +57867,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 79505,
-      "num": 79505,
-      "word": "时代少年团彩排",
-      "onboard_time": 1763689581,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 79469,
       "num": 125921,
       "word": "香港一对六旬兄弟陈尸家中",
@@ -57971,6 +57987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79153,
+      "num": 79153,
+      "word": "CPA查分",
+      "onboard_time": 1763690180,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 79139,
       "num": 165170,
       "word": "吴彤上自己节目一样被下黑手",
@@ -58025,6 +58049,14 @@
       "onboard_time": 1763349801,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78954,
+      "num": 78954,
+      "word": "被母婴圈的物价震惊到了",
+      "onboard_time": 1763691081,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 78917,
@@ -58689,6 +58721,14 @@
       "onboard_time": 1762652180,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 77311,
+      "num": 77311,
+      "word": "韩国炒鸡店偶遇林一",
+      "onboard_time": 1763691501,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 77259,
@@ -60217,14 +60257,6 @@
       "onboard_time": 1762922601,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 72737,
-      "num": 72737,
-      "word": "王某辱骂烈士遗孀被处罚",
-      "onboard_time": 1763681119,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72728,
@@ -65339,6 +65371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50322,
+      "num": 154309,
+      "word": "家门口遇害案母亲出庭作证10分钟",
+      "onboard_time": 1763690000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50264,
       "num": 119261,
       "word": "官方回应苏超奖励设置",
@@ -65497,6 +65537,14 @@
       "onboard_time": 1762653380,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49678,
+      "num": 89334,
+      "word": "金摇杆年度最佳游戏",
+      "onboard_time": 1763690660,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 49666,
@@ -70483,6 +70531,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 28133,
+      "num": 89361,
+      "word": "号码无故停机解封要提供工作证明",
+      "onboard_time": 1763690479,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28082,
       "num": 134668,
       "word": "上过太空的乌鸡",
@@ -72593,14 +72649,6 @@
       "onboard_time": 1762116793,
       "rank": 47,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 17736,
-      "num": 154309,
-      "word": "家门口遇害案母亲出庭作证10分钟",
-      "onboard_time": 1763690000,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17726,

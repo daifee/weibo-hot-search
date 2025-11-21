@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763690269257,
+  "endTime": 1763691536768,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -939,6 +939,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 799671,
+      "num": 175119,
+      "word": "实习生出差抽中显卡被公司要求上交",
+      "onboard_time": 1763688140,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 792746,
       "num": 792746,
       "word": "王楚钦vs袁励岑",
@@ -1107,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 729669,
-      "num": 175119,
-      "word": "实习生出差抽中显卡被公司要求上交",
-      "onboard_time": 1763688140,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 729347,
       "num": 245168,
       "word": "这一亲把央视解说干沉默了",
@@ -1129,6 +1129,14 @@
       "onboard_time": 1763644584,
       "rank": 16,
       "category": "体育"
+    },
+    {
+      "raw_hot": 714801,
+      "num": 333215,
+      "word": "A股",
+      "onboard_time": 1763519780,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 712659,
@@ -1467,14 +1475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 615216,
-      "num": 333215,
-      "word": "A股",
-      "onboard_time": 1763519780,
-      "rank": 45,
-      "category": "财经"
-    },
-    {
       "raw_hot": 614513,
       "num": 434129,
       "word": "何炅这是我活该的",
@@ -1681,6 +1681,14 @@
       "onboard_time": 1763627362,
       "rank": 8,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 574639,
+      "num": 1091942,
+      "word": "日本多个行业为高市早苗买单",
+      "onboard_time": 1763685680,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 572228,
@@ -2209,14 +2217,6 @@
       "onboard_time": 1763561725,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 482721,
-      "num": 1077235,
-      "word": "日本多个行业为高市早苗买单",
-      "onboard_time": 1763685680,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 481965,
@@ -2843,6 +2843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 409207,
+      "num": 376101,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407803,
       "num": 422479,
       "word": "日本最大核电站将重启运行",
@@ -3019,14 +3027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 389812,
-      "num": 376101,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 389789,
       "num": 242421,
       "word": "官方回应张博恒失误时裁判鼓掌大笑",
@@ -3147,12 +3147,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 380694,
+      "num": 380694,
+      "word": "144人当选两院院士",
+      "onboard_time": 1763688561,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 379196,
       "num": 220630,
       "word": "王楚钦喊话马龙打好团体赛",
       "onboard_time": 1763284882,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 378916,
+      "num": 171520,
+      "word": "短剧群演工资这么高",
+      "onboard_time": 1763687001,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 378571,
@@ -3467,14 +3483,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 353039,
-      "num": 353039,
-      "word": "144人当选两院院士",
-      "onboard_time": 1763688561,
-      "rank": 1,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 352118,
       "num": 352118,
       "word": "樊振东许昕晋级",
@@ -3601,6 +3609,14 @@
       "onboard_time": 1763653163,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 342423,
+      "num": 332216,
+      "word": "李维嘉吴昕湖南卫视再同台",
+      "onboard_time": 1763687241,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 342176,
@@ -3761,14 +3777,6 @@
       "onboard_time": 1763545042,
       "rank": 36,
       "category": "民生新闻,网红"
-    },
-    {
-      "raw_hot": 332216,
-      "num": 332216,
-      "word": "李维嘉吴昕湖南卫视再同台",
-      "onboard_time": 1763687241,
-      "rank": 6,
-      "category": "综艺"
     },
     {
       "raw_hot": 332105,
@@ -4099,6 +4107,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304618,
+      "num": 172741,
+      "word": "马龙说着说着就快哭了",
+      "onboard_time": 1763685680,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 304555,
+      "num": 164260,
+      "word": "致中方人员在德食物中毒餐馆致歉",
+      "onboard_time": 1763688500,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 304334,
       "num": 425307,
       "word": "樊振东剑指双圈全满贯",
@@ -4339,28 +4363,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 290191,
-      "num": 172741,
-      "word": "马龙说着说着就快哭了",
-      "onboard_time": 1763685680,
-      "rank": 13,
-      "category": "体育"
-    },
-    {
       "raw_hot": 289763,
       "num": 289763,
       "word": "AL教练",
       "onboard_time": 1763463322,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 289564,
-      "num": 171520,
-      "word": "短剧群演工资这么高",
-      "onboard_time": 1763687001,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 289491,
@@ -7547,6 +7555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 177413,
+      "num": 177413,
+      "word": "王楚钦说樊振东实在太强了",
+      "onboard_time": 1763682321,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 176854,
       "num": 176854,
       "word": "Gumayusi回应离队T1",
@@ -7857,6 +7873,14 @@
       "onboard_time": 1763610263,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170018,
+      "num": 170018,
+      "word": "王某辱骂烈士遗孀被处罚",
+      "onboard_time": 1763681119,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169935,
@@ -8833,14 +8857,6 @@
       "onboard_time": 1763342000,
       "rank": 25,
       "category": "数码"
-    },
-    {
-      "raw_hot": 155225,
-      "num": 155225,
-      "word": "致中方人员在德食物中毒餐馆致歉",
-      "onboard_time": 1763688500,
-      "rank": 17,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 155180,
@@ -10097,14 +10113,6 @@
       "onboard_time": 1763300963,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 137879,
-      "num": 137879,
-      "word": "王楚钦说樊振东实在太强了",
-      "onboard_time": 1763682321,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 137716,
@@ -11443,6 +11451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122743,
+      "num": 122743,
+      "word": "衣服卖多了果然有点职业病",
+      "onboard_time": 1763685680,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 122741,
       "num": 122741,
       "word": "李雪琴早就知道董璇张维伊在一起",
@@ -11592,14 +11608,6 @@
       "word": "有直角肩的小猫咪",
       "onboard_time": 1763537241,
       "rank": 41,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 121480,
-      "num": 121480,
-      "word": "衣服卖多了果然有点职业病",
-      "onboard_time": 1763685680,
-      "rank": 31,
       "category": "幽默"
     },
     {
@@ -12313,6 +12321,14 @@
       "onboard_time": 1763610983,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115581,
+      "num": 115581,
+      "word": "惹恼中国后日本发现自己没朋友",
+      "onboard_time": 1763687602,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 115530,
@@ -13259,14 +13275,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 105326,
-      "num": 105326,
-      "word": "惹恼中国后日本发现自己没朋友",
-      "onboard_time": 1763687602,
-      "rank": 35,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 105302,
       "num": 105302,
       "word": "邪恶大鼠标",
@@ -14059,6 +14067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97297,
+      "num": 97297,
+      "word": "时代少年团彩排",
+      "onboard_time": 1763689581,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
       "raw_hot": 97248,
       "num": 216638,
       "word": "苏炳添谢幕战",
@@ -14339,6 +14355,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 93594,
+      "num": 93594,
+      "word": "猫咪用敲击声回应民警救下主人",
+      "onboard_time": 1763690240,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93589,
       "num": 135169,
       "word": "王一博啥时候学武功了",
@@ -14393,6 +14417,14 @@
       "onboard_time": 1763479283,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93073,
+      "num": 124016,
+      "word": "李施嬅心疼车崇健",
+      "onboard_time": 1763691200,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 92905,
@@ -15155,14 +15187,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 80927,
-      "num": 80927,
-      "word": "猫咪用敲击声回应民警救下主人",
-      "onboard_time": 1763690240,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 80885,
       "num": 152062,
       "word": "两魔丸大战邪恶栀子花",
@@ -15219,14 +15243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 79505,
-      "num": 79505,
-      "word": "时代少年团彩排",
-      "onboard_time": 1763689581,
-      "rank": 43,
-      "category": "演出"
-    },
-    {
       "raw_hot": 79324,
       "num": 560772,
       "word": "嫦娥六号月壤首现晶质赤铁矿和磁赤铁矿",
@@ -15235,12 +15251,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79153,
+      "num": 79153,
+      "word": "CPA查分",
+      "onboard_time": 1763690180,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 78977,
       "num": 149584,
       "word": "高志凯建议禁止向日本出口稀土",
       "onboard_time": 1763349801,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 78954,
+      "num": 78954,
+      "word": "被母婴圈的物价震惊到了",
+      "onboard_time": 1763691081,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 78531,
@@ -15321,6 +15353,14 @@
       "onboard_time": 1763360960,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 77311,
+      "num": 77311,
+      "word": "韩国炒鸡店偶遇林一",
+      "onboard_time": 1763691501,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 76894,
@@ -15545,14 +15585,6 @@
       "onboard_time": 1763608882,
       "rank": 33,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 72737,
-      "num": 72737,
-      "word": "王某辱骂烈士遗孀被处罚",
-      "onboard_time": 1763681119,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72557,
@@ -16683,6 +16715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50322,
+      "num": 154309,
+      "word": "家门口遇害案母亲出庭作证10分钟",
+      "onboard_time": 1763690000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50164,
       "num": 218800,
       "word": "百万超跑驾控深蓝L06价格13.29万",
@@ -16705,6 +16745,14 @@
       "onboard_time": 1763290580,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49678,
+      "num": 89334,
+      "word": "金摇杆年度最佳游戏",
+      "onboard_time": 1763690660,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 49523,
@@ -18163,6 +18211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28133,
+      "num": 89361,
+      "word": "号码无故停机解封要提供工作证明",
+      "onboard_time": 1763690479,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27644,
       "num": 27644,
       "word": "易烊千玺获奖感言",
@@ -18801,14 +18857,6 @@
       "onboard_time": 1763379441,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 17736,
-      "num": 154309,
-      "word": "家门口遇害案母亲出庭作证10分钟",
-      "onboard_time": 1763690000,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17710,
