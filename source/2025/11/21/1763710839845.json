@@ -1,0 +1,410 @@
+{
+  "runTime": 1763710839845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 826199,
+        "num": 1132191,
+        "word": "CPA成绩",
+        "onboard_time": 1763705661,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303689,
+        "num": 303689,
+        "word": "全运会万米跑冠军被取消金牌",
+        "onboard_time": 1763701163,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53864,
+        "num": 260754,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 256872,
+        "num": 256872,
+        "word": "AG爱笑预测Uzi加入JDG或LNG",
+        "onboard_time": 1763707460,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179758,
+        "num": 231110,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 221507,
+        "num": 221507,
+        "word": "繁花团6个人吃了1826元",
+        "onboard_time": 1763704941,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 169342,
+        "num": 221303,
+        "word": "奇葩说 回归",
+        "onboard_time": 1763700442,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163984,
+        "num": 220250,
+        "word": "便宜30%的印度水产你敢吃吗",
+        "onboard_time": 1763697622,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 139546,
+        "num": 219362,
+        "word": "两千保省奖八千保国奖",
+        "onboard_time": 1763703382,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129411,
+        "num": 218338,
+        "word": "中方就港口事宜回击美国",
+        "onboard_time": 1763708840,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 863543,
+        "num": 217994,
+        "word": "发个朋友圈680人不可见",
+        "onboard_time": 1763708180,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 608604,
+        "num": 217255,
+        "word": "汪苏泷信息量好大的一场直播",
+        "onboard_time": 1763709260,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585658,
+        "num": 216461,
+        "word": "男子请陪产假被开除公司说纯属算计",
+        "onboard_time": 1763705362,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418939,
+        "num": 215486,
+        "word": "张维伊 你们少上点网吧",
+        "onboard_time": 1763706919,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77015,
+        "num": 214569,
+        "word": "古天乐重现项少龙名场面",
+        "onboard_time": 1763710400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 365482,
+        "num": 214080,
+        "word": "完播率200%的广告出现了",
+        "onboard_time": 1763709141,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 330838,
+        "num": 213181,
+        "word": "中国军网海外发布一切就绪",
+        "onboard_time": 1763707700,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 328949,
+        "num": 212173,
+        "word": "何赛飞爆料有演员整容整到认不出来",
+        "onboard_time": 1763700682,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 328901,
+        "num": 211745,
+        "word": "梁淞说何美延又坏又蠢",
+        "onboard_time": 1763708662,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 326795,
+        "num": 210965,
+        "word": "朱珠真的不考虑开个穿搭班吗",
+        "onboard_time": 1763697380,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1116500,
+        "num": 209580,
+        "word": "鹿晗 馒头真不能再吃了",
+        "onboard_time": 1763703681,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 524127,
+        "num": 209447,
+        "word": "黄雅琼刘雨辰婚纱照",
+        "onboard_time": 1763707400,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 458499,
+        "num": 208261,
+        "word": "胡彦斌100件小事易梦玲看进去了",
+        "onboard_time": 1763700622,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320585,
+        "num": 207494,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1763708901,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 304917,
+        "num": 206947,
+        "word": "A股",
+        "onboard_time": 1763689460,
+        "rank": 24,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 268695,
+        "num": 206113,
+        "word": "杨紫又酷又辣",
+        "onboard_time": 1763708662,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260017,
+        "num": 205581,
+        "word": "NS官宣Scout加入",
+        "onboard_time": 1763708421,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 204798,
+        "num": 204798,
+        "word": "易梦玲 胡彦斌",
+        "onboard_time": 1763696181,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38343,
+        "num": 196454,
+        "word": "投诉爱康国宾女子再发声",
+        "onboard_time": 1763709382,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99408,
+        "num": 193184,
+        "word": "A股中船系逆市走强",
+        "onboard_time": 1763709623,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 191126,
+        "num": 191126,
+        "word": "日本股债汇继续三杀",
+        "onboard_time": 1763707641,
+        "rank": 30,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 179958,
+        "num": 179958,
+        "word": "刘嘉玲 没钱也要优先刘晓庆吃肉",
+        "onboard_time": 1763709742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171090,
+        "num": 171090,
+        "word": "唐嫣",
+        "onboard_time": 1763697261,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160977,
+        "num": 160977,
+        "word": "股市",
+        "onboard_time": 1763694740,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 155177,
+        "num": 155177,
+        "word": "宁静 我不喜欢",
+        "onboard_time": 1763704521,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131640,
+        "num": 131640,
+        "word": "道崽女友",
+        "onboard_time": 1763693120,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 83301,
+        "num": 131149,
+        "word": "央视曝光用AI造假图骗退款乱象",
+        "onboard_time": 1763709382,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13141,
+        "num": 130532,
+        "word": "占地修排水沟遭拒砸死女邻居案开庭",
+        "onboard_time": 1763710640,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34671,
+        "num": 129984,
+        "word": "四个大人喜人第四赛段第一",
+        "onboard_time": 1763709861,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111880,
+        "num": 129321,
+        "word": "沈腾包场易烊千玺狂野时代",
+        "onboard_time": 1763710461,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128719,
+        "num": 128719,
+        "word": "未来房价上涨的3大核心信号",
+        "onboard_time": 1763692581,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 124569,
+        "num": 124569,
+        "word": "小狗因为内耗一晚上都没闭眼",
+        "onboard_time": 1763698521,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33156,
+        "num": 120462,
+        "word": "山东入室抢婴案主犯在法庭辱骂受害者",
+        "onboard_time": 1763709441,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120273,
+        "num": 120273,
+        "word": "时代少年团贵阳solo曲目",
+        "onboard_time": 1763709919,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117231,
+        "num": 117231,
+        "word": "纠结女友过往性经历辱骂致其自杀",
+        "onboard_time": 1763710701,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63774,
+        "num": 117191,
+        "word": "日本记者曾摔断三星堆文物",
+        "onboard_time": 1763709260,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 117183,
+        "num": 117183,
+        "word": "猫咪以为烫头的主人是生气炸毛了",
+        "onboard_time": 1763701102,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116145,
+        "num": 116145,
+        "word": "Scout第一个离队视频",
+        "onboard_time": 1763710461,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115419,
+        "num": 115419,
+        "word": "王俊凯南京活动",
+        "onboard_time": 1763705781,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81053,
+        "num": 112122,
+        "word": "比特币跌破86000美元",
+        "onboard_time": 1763710640,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}

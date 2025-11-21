@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763710041301,
+  "endTime": 1763710839845,
   "band_list": [
     {
       "raw_hot": 1589938,
@@ -49,6 +49,14 @@
       "onboard_time": 1763650461,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 863543,
+      "num": 278113,
+      "word": "发个朋友圈680人不可见",
+      "onboard_time": 1763708180,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 834240,
@@ -107,12 +115,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 579890,
-      "num": 278113,
-      "word": "发个朋友圈680人不可见",
-      "onboard_time": 1763708180,
-      "rank": 10,
-      "category": "幽默"
+      "raw_hot": 608604,
+      "num": 277767,
+      "word": "汪苏泷信息量好大的一场直播",
+      "onboard_time": 1763709260,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 585658,
+      "num": 277108,
+      "word": "男子请陪产假被开除公司说纯属算计",
+      "onboard_time": 1763705362,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 574639,
@@ -211,14 +227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 474695,
-      "num": 277767,
-      "word": "汪苏泷信息量好大的一场直播",
-      "onboard_time": 1763709260,
-      "rank": 11,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 465852,
       "num": 203061,
       "word": "罗晋这一年都在北京照顾父亲",
@@ -233,14 +241,6 @@
       "onboard_time": 1763692820,
       "rank": 11,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 453162,
-      "num": 277108,
-      "word": "男子请陪产假被开除公司说纯属算计",
-      "onboard_time": 1763705362,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 425287,
@@ -259,20 +259,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 418939,
+      "num": 276722,
+      "word": "张维伊 你们少上点网吧",
+      "onboard_time": 1763706919,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 417874,
       "num": 417874,
       "word": "一单的位置樊振东一守就是十年",
       "onboard_time": 1763695761,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 414432,
-      "num": 276722,
-      "word": "张维伊 你们少上点网吧",
-      "onboard_time": 1763706919,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 409207,
@@ -347,6 +347,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 365482,
+      "num": 214080,
+      "word": "完播率200%的广告出现了",
+      "onboard_time": 1763709141,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 365442,
       "num": 365442,
       "word": "猫咪用敲击声回应民警救下主人",
@@ -411,6 +419,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 330838,
+      "num": 275126,
+      "word": "中国军网海外发布一切就绪",
+      "onboard_time": 1763707700,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 328901,
+      "num": 274344,
+      "word": "梁淞说何美延又坏又蠢",
+      "onboard_time": 1763708662,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 324174,
       "num": 299606,
       "word": "奇葩说 回归",
@@ -425,6 +449,14 @@
       "onboard_time": 1763704941,
       "rank": 5,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 320585,
+      "num": 207494,
+      "word": "同事为了请假已经不择手段了",
+      "onboard_time": 1763708901,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 313311,
@@ -459,14 +491,6 @@
       "category": "剧集,互联网"
     },
     {
-      "raw_hot": 299160,
-      "num": 275126,
-      "word": "中国军网海外发布一切就绪",
-      "onboard_time": 1763707700,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 294415,
       "num": 274770,
       "word": "NS官宣Scout加入",
@@ -499,12 +523,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 274344,
-      "num": 274344,
-      "word": "梁淞说何美延又坏又蠢",
+      "raw_hot": 268695,
+      "num": 206113,
+      "word": "杨紫又酷又辣",
       "onboard_time": 1763708662,
-      "rank": 17,
-      "category": "综艺"
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 267086,
@@ -667,36 +691,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195478,
-      "num": 195478,
-      "word": "杨紫又酷又辣",
-      "onboard_time": 1763708662,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 193792,
       "num": 170863,
       "word": "满心期待当外婆女儿却在家门口被杀",
       "onboard_time": 1763680819,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190090,
-      "num": 190090,
-      "word": "同事为了请假已经不择手段了",
-      "onboard_time": 1763708901,
-      "rank": 27,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 189919,
-      "num": 185453,
-      "word": "完播率200%的广告出现了",
-      "onboard_time": 1763709141,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 188432,
@@ -729,6 +729,14 @@
       "onboard_time": 1763643024,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 179958,
+      "num": 179958,
+      "word": "刘嘉玲 没钱也要优先刘晓庆吃肉",
+      "onboard_time": 1763709742,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 179605,
@@ -1003,6 +1011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129411,
+      "num": 278907,
+      "word": "中方就港口事宜回击美国",
+      "onboard_time": 1763708840,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128763,
       "num": 128763,
       "word": "辱骂烈士遗孀毛豆妈妈王某被处罚",
@@ -1033,14 +1049,6 @@
       "onboard_time": 1763696961,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 127534,
-      "num": 127534,
-      "word": "刘嘉玲 没钱也要优先刘晓庆吃肉",
-      "onboard_time": 1763709742,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 126815,
@@ -1115,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 120273,
+      "num": 120273,
+      "word": "时代少年团贵阳solo曲目",
+      "onboard_time": 1763709919,
+      "rank": 46,
+      "category": "演出"
+    },
+    {
       "raw_hot": 119507,
       "num": 119507,
       "word": "确诊为迪丽热巴陈星旭走路粉",
@@ -1171,12 +1187,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 117231,
+      "num": 117231,
+      "word": "纠结女友过往性经历辱骂致其自杀",
+      "onboard_time": 1763710701,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117079,
       "num": 269796,
       "word": "央视曝造谣式起号",
       "onboard_time": 1763693599,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 116145,
+      "num": 116145,
+      "word": "Scout第一个离队视频",
+      "onboard_time": 1763710461,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 115581,
@@ -1187,12 +1219,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 112074,
-      "num": 112074,
-      "word": "时代少年团贵阳solo曲目",
-      "onboard_time": 1763709919,
-      "rank": 46,
-      "category": "演出"
+      "raw_hot": 111880,
+      "num": 129321,
+      "word": "沈腾包场易烊千玺狂野时代",
+      "onboard_time": 1763710461,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 111805,
@@ -1355,6 +1387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 99408,
+      "num": 193184,
+      "word": "A股中船系逆市走强",
+      "onboard_time": 1763709623,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 99051,
       "num": 99051,
       "word": "樊振东王楚钦此球只应天上有",
@@ -1379,14 +1419,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98083,
-      "num": 278907,
-      "word": "中方就港口事宜回击美国",
-      "onboard_time": 1763708840,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 97470,
       "num": 124016,
       "word": "李施嬅心疼车崇健",
@@ -1401,14 +1433,6 @@
       "onboard_time": 1763689581,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 96360,
-      "num": 169592,
-      "word": "A股中船系逆市走强",
-      "onboard_time": 1763709623,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 95218,
@@ -1539,6 +1563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 81053,
+      "num": 112122,
+      "word": "比特币跌破86000美元",
+      "onboard_time": 1763710640,
+      "rank": 49,
+      "category": "财经"
+    },
+    {
       "raw_hot": 79153,
       "num": 79153,
       "word": "CPA查分",
@@ -1576,6 +1608,14 @@
       "word": "韩国炒鸡店偶遇林一",
       "onboard_time": 1763691501,
       "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 77015,
+      "num": 214569,
+      "word": "古天乐重现项少龙名场面",
+      "onboard_time": 1763710400,
+      "rank": 14,
       "category": "艺人"
     },
     {
@@ -1731,6 +1771,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 63774,
+      "num": 140075,
+      "word": "日本记者曾摔断三星堆文物",
+      "onboard_time": 1763709260,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 63287,
       "num": 64611,
       "word": "马龙乒坛历史第一人",
@@ -1867,14 +1915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 50308,
-      "num": 140075,
-      "word": "日本记者曾摔断三星堆文物",
-      "onboard_time": 1763709260,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 50069,
       "num": 98135,
       "word": "批发价4百的羽绒服商场零售卖3千",
@@ -2003,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38343,
+      "num": 265868,
+      "word": "投诉爱康国宾女子再发声",
+      "onboard_time": 1763709382,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34962,
       "num": 97700,
       "word": "马龙回应未来是否参赛",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1763696602,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 34671,
+      "num": 142305,
+      "word": "四个大人喜人第四赛段第一",
+      "onboard_time": 1763709861,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 34631,
@@ -2067,6 +2123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33156,
+      "num": 149857,
+      "word": "山东入室抢婴案主犯在法庭辱骂受害者",
+      "onboard_time": 1763709441,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32599,
       "num": 74107,
       "word": "重庆知名幼儿园爆雷负责人被批捕",
@@ -2081,14 +2145,6 @@
       "onboard_time": 1763659397,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28942,
-      "num": 149857,
-      "word": "山东入室抢婴案主犯在法庭辱骂受害者",
-      "onboard_time": 1763709441,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28690,
@@ -2120,14 +2176,6 @@
       "word": "儿子定位柬埔寨母亲称被要25万赎金",
       "onboard_time": 1763694740,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22621,
-      "num": 265868,
-      "word": "投诉爱康国宾女子再发声",
-      "onboard_time": 1763709382,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2187,14 +2235,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 17076,
-      "num": 142305,
-      "word": "四个大人喜人第四赛段第一",
-      "onboard_time": 1763709861,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16258,
       "num": 142451,
       "word": "王楚钦和国家台球队教练合影",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1763666115,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 13141,
+      "num": 130532,
+      "word": "占地修排水沟遭拒砸死女邻居案开庭",
+      "onboard_time": 1763710640,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12709,
