@@ -1,0 +1,410 @@
+{
+  "runTime": 1763721885910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 200222,
+        "num": 1032035,
+        "word": "DYG阵容官宣",
+        "onboard_time": 1763720541,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42288,
+        "num": 1003107,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763717003,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13592,
+        "num": 978172,
+        "word": "踏浪新质潮",
+        "onboard_time": 1763720722,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 195201,
+        "num": 930135,
+        "word": "CPA成绩",
+        "onboard_time": 1763705661,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 140413,
+        "num": 891930,
+        "word": "中国军网海外发布一切就绪",
+        "onboard_time": 1763707700,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227220,
+        "num": 877261,
+        "word": "周深3天4次以0票告终",
+        "onboard_time": 1763721202,
+        "rank": 5,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113470,
+        "num": 822845,
+        "word": "13位女科学家当选两院院士",
+        "onboard_time": 1763718141,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108680,
+        "num": 780466,
+        "word": "KPL转会期",
+        "onboard_time": 1763721621,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98626,
+        "num": 750527,
+        "word": "狂野时代",
+        "onboard_time": 1763705962,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 93082,
+        "num": 737220,
+        "word": "NS官宣Scout加入",
+        "onboard_time": 1763708421,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 703036,
+        "num": 703036,
+        "word": "北大自杀女生包丽案细节披露",
+        "onboard_time": 1763718082,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 323071,
+        "num": 323071,
+        "word": "六烊千玺",
+        "onboard_time": 1763716341,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 271851,
+        "num": 271851,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1763708901,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83595,
+        "num": 256878,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251099,
+        "num": 251099,
+        "word": "以前最恨关系户",
+        "onboard_time": 1763716581,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 205546,
+        "num": 249376,
+        "word": "王鹤棣沈月合体跳pretty",
+        "onboard_time": 1763721563,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 248044,
+        "num": 248044,
+        "word": "日本将琉球改为冲绳县",
+        "onboard_time": 1763714540,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209764,
+        "num": 247859,
+        "word": "发个朋友圈680人不可见",
+        "onboard_time": 1763708180,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136641,
+        "num": 247741,
+        "word": "双高胎实体投影",
+        "onboard_time": 1763716884,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 7890,
+        "num": 247511,
+        "word": "黄之锋明年3月将再被提讯",
+        "onboard_time": 1763721621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 5559620,
+        "num": 5559620,
+        "word": "易梦玲称和胡彦斌海边视频是AI",
+        "onboard_time": 1763715441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400689,
+        "num": 247133,
+        "word": "kimi戴口罩好像易烊千玺",
+        "onboard_time": 1763715562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166233,
+        "num": 246938,
+        "word": "纠结女友过往性经历辱骂致其自杀",
+        "onboard_time": 1763710701,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 341951,
+        "num": 246722,
+        "word": "鹿晗 馒头真不能再吃了",
+        "onboard_time": 1763703681,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95075,
+        "num": 246640,
+        "word": "张靓颖广州车展天籁演唱会",
+        "onboard_time": 1763719642,
+        "rank": 24,
+        "category": "演出,汽车"
+      },
+      {
+        "raw_hot": 51491,
+        "num": 246347,
+        "word": "女孩被撞身亡一周后收到录取书",
+        "onboard_time": 1763721683,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71229,
+        "num": 246171,
+        "word": "小鹏第100万台新车X9超级增程下线",
+        "onboard_time": 1763719642,
+        "rank": 26,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35339,
+        "num": 246036,
+        "word": "男子打印500页聊天记录欲起诉AI",
+        "onboard_time": 1763720422,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33666,
+        "num": 245916,
+        "word": "5万家庭票pick领克900双智进化",
+        "onboard_time": 1763719642,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 172372,
+        "num": 245744,
+        "word": "中方回应日本首次出口杀伤性武器",
+        "onboard_time": 1763718683,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2160266,
+        "num": 245415,
+        "word": "易梦玲 好好笑哦",
+        "onboard_time": 1763718141,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 245394,
+        "num": 245394,
+        "word": "小酒窝差点名叫小糖墩",
+        "onboard_time": 1763717544,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224456,
+        "num": 224456,
+        "word": "明星AI澄清元年",
+        "onboard_time": 1763717782,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168394,
+        "num": 224245,
+        "word": "DYG向鱼",
+        "onboard_time": 1763720843,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166843,
+        "num": 224034,
+        "word": "女子一分钟内跳楼两次被救",
+        "onboard_time": 1763712141,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78451,
+        "num": 223722,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141658,
+        "num": 223556,
+        "word": "王俊凯 熟男味",
+        "onboard_time": 1763712202,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140835,
+        "num": 223196,
+        "word": "俄罗斯对等反制日本",
+        "onboard_time": 1763716282,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16956,
+        "num": 222974,
+        "word": "买家为退款AI造假被卖家用AI识破",
+        "onboard_time": 1763721621,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39820,
+        "num": 222742,
+        "word": "内娱男明星老了可以参考这个戏路",
+        "onboard_time": 1763720722,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126975,
+        "num": 222431,
+        "word": "卢靖姗产后首晒照",
+        "onboard_time": 1763717843,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125495,
+        "num": 222165,
+        "word": "林宥嘉汪苏泷合照",
+        "onboard_time": 1763713521,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104808,
+        "num": 222054,
+        "word": "唐嫣",
+        "onboard_time": 1763697261,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104204,
+        "num": 221731,
+        "word": "俄外交部发日本投降画面",
+        "onboard_time": 1763713340,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103229,
+        "num": 221432,
+        "word": "王化转岗到小米武汉总部",
+        "onboard_time": 1763720123,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94715,
+        "num": 221146,
+        "word": "梁淞说何美延又坏又蠢",
+        "onboard_time": 1763708662,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 70754,
+        "num": 220865,
+        "word": "便宜30%的印度水产你敢吃吗",
+        "onboard_time": 1763697622,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26399,
+        "num": 220550,
+        "word": "网友在盒马买到被曝含苏丹红卸妆膏",
+        "onboard_time": 1763720422,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75560,
+        "num": 220444,
+        "word": "张子枫猝不及防被叫姐",
+        "onboard_time": 1763720183,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104238,
+        "num": 220118,
+        "word": "汪苏泷信息量好大的一场直播",
+        "onboard_time": 1763709260,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记关于体育强国重要讲话#"
+    }
+  }
+}

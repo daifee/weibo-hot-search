@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 18:29:08
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 18:44:45
 </p>
 </blockquote>
 <p>
@@ -2849,6 +2849,12 @@ chovy状态（热度：706292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%A0%A1%E7%8E%8B%E4%B8%AD%E5%9B%BD%E4%B9%9F%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
 汉堡王中国也被卖了（热度：703194）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E5%A4%A7%E8%87%AA%E6%9D%80%E5%A5%B3%E7%94%9F%E5%8C%85%E4%B8%BD%E6%A1%88%E7%BB%86%E8%8A%82%E6%8A%AB%E9%9C%B2%23" target="weibo">
+北大自杀女生包丽案细节披露（热度：703036）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86%E6%8E%A5%E8%BF%98%E7%8F%A0%E5%9B%9E%E5%AE%AB%23" target="weibo">
 湖南卫视接还珠回宫（热度：463450）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%80%AA%E4%B8%8D%E5%BE%97%E7%8E%B0%E5%9C%A8%E5%A5%B3%E8%A3%85%E5%8A%A8%E4%B8%8D%E5%8A%A8%E5%B0%B1%E9%A2%84%E5%94%AE%23" target="weibo">
-怪不得现在女装动不动就预售（热度：462860）
 </a>
 </li>
 
