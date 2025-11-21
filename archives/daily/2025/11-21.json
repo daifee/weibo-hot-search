@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763682049044,
+  "endTime": 1763690269257,
   "band_list": [
     {
       "raw_hot": 866194,
@@ -12,18 +12,58 @@
     },
     {
       "raw_hot": 832263,
-      "num": 152609,
+      "num": 173725,
       "word": "许昕说对不起家庭和同事",
       "onboard_time": 1763680578,
       "rank": 10,
       "category": "体育"
     },
     {
+      "raw_hot": 729669,
+      "num": 175119,
+      "word": "实习生出差抽中显卡被公司要求上交",
+      "onboard_time": 1763688140,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 642540,
-      "num": 131749,
+      "num": 148411,
       "word": "胡彦斌 法庭上带着你的破视频",
       "onboard_time": 1763640563,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 615216,
+      "num": 153647,
+      "word": "A股",
+      "onboard_time": 1763689460,
+      "rank": 20,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 556087,
+      "num": 345432,
+      "word": "何同学称当时被吓到了",
+      "onboard_time": 1763683822,
+      "rank": 3,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 534116,
+      "num": 174311,
+      "word": "面包界真的需要一个蜜雪冰城",
+      "onboard_time": 1763684901,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 521971,
+      "num": 152871,
+      "word": "胡彦斌易梦玲还在马尔代夫",
+      "onboard_time": 1763651123,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -35,12 +75,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 482721,
+      "num": 1077235,
+      "word": "日本多个行业为高市早苗买单",
+      "onboard_time": 1763685680,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 465852,
       "num": 203061,
       "word": "罗晋这一年都在北京照顾父亲",
       "onboard_time": 1763650943,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 389812,
+      "num": 338071,
+      "word": "烟台压死女老师渣土车司机被定全责",
+      "onboard_time": 1763644703,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 374213,
@@ -52,19 +108,19 @@
     },
     {
       "raw_hot": 369417,
-      "num": 149952,
+      "num": 170013,
       "word": "罗晋父亲离世",
       "onboard_time": 1763635763,
       "rank": 15,
       "category": "艺人"
     },
     {
-      "raw_hot": 366011,
-      "num": 123474,
-      "word": "胡彦斌易梦玲还在马尔代夫",
-      "onboard_time": 1763651123,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 353039,
+      "num": 353039,
+      "word": "144人当选两院院士",
+      "onboard_time": 1763688561,
+      "rank": 1,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 345241,
@@ -75,12 +131,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 343524,
+      "num": 343524,
+      "word": "每一个近视眼都该控糖了",
+      "onboard_time": 1763653163,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 339391,
+      "num": 151669,
+      "word": "罗晋单位在北京",
+      "onboard_time": 1763684182,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334900,
       "num": 146434,
       "word": "杨宗纬报案",
       "onboard_time": 1763654841,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332216,
+      "num": 332216,
+      "word": "李维嘉吴昕湖南卫视再同台",
+      "onboard_time": 1763687241,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 301592,
@@ -99,20 +179,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 290191,
+      "num": 172741,
+      "word": "马龙说着说着就快哭了",
+      "onboard_time": 1763685680,
+      "rank": 13,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 289564,
+      "num": 171520,
+      "word": "短剧群演工资这么高",
+      "onboard_time": 1763687001,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 276505,
       "num": 276505,
       "word": "50多万名中国游客取消原定日本行程",
       "onboard_time": 1763651483,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 253873,
-      "num": 253873,
-      "word": "每一个近视眼都该控糖了",
-      "onboard_time": 1763653163,
-      "rank": 22,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 248321,
@@ -163,20 +251,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193792,
+      "num": 170863,
+      "word": "满心期待当外婆女儿却在家门口被杀",
+      "onboard_time": 1763680819,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 185493,
       "num": 212683,
       "word": "樊振东许昕周恺亚军",
       "onboard_time": 1763643024,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 174402,
-      "num": 148950,
-      "word": "满心期待当外婆女儿却在家门口被杀",
-      "onboard_time": 1763680819,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169583,
@@ -195,12 +283,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 159965,
+      "num": 150937,
+      "word": "冬天穿羽绒服就扎这样的丸子头",
+      "onboard_time": 1763687301,
+      "rank": 23,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 155543,
       "num": 155543,
       "word": "王橹杰 魅魔",
       "onboard_time": 1763648243,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 155225,
+      "num": 155225,
+      "word": "致中方人员在德食物中毒餐馆致歉",
+      "onboard_time": 1763688500,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 155180,
+      "num": 176185,
+      "word": "WBG Elk",
+      "onboard_time": 1763683582,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 148560,
@@ -224,6 +336,14 @@
       "word": "苏炳添最后一舞",
       "onboard_time": 1763639483,
       "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 137879,
+      "num": 137879,
+      "word": "王楚钦说樊振东实在太强了",
+      "onboard_time": 1763682321,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -283,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121480,
+      "num": 121480,
+      "word": "衣服卖多了果然有点职业病",
+      "onboard_time": 1763685680,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120734,
       "num": 120734,
       "word": "Alin竟然瘦成这样了",
@@ -299,6 +427,38 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111551,
+      "num": 154651,
+      "word": "声生不息华流季阵容官宣",
+      "onboard_time": 1763682501,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 108786,
+      "num": 108786,
+      "word": "原来玉镯是这样生产的",
+      "onboard_time": 1763686461,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 108108,
+      "num": 108108,
+      "word": "新的睡午觉 醒午觉",
+      "onboard_time": 1763685142,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 108019,
+      "num": 108019,
+      "word": "男子偷狗送餐馆主人找到时已扒皮",
+      "onboard_time": 1763685622,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105825,
       "num": 105825,
       "word": "马龙发布会调侃记者",
@@ -307,20 +467,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 105326,
+      "num": 105326,
+      "word": "惹恼中国后日本发现自己没朋友",
+      "onboard_time": 1763687602,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 104543,
+      "num": 104543,
+      "word": "郑则仕承认卖家当还债",
+      "onboard_time": 1763685501,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103418,
       "num": 103418,
       "word": "马龙发博称完美",
       "onboard_time": 1763680158,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102540,
-      "num": 102540,
-      "word": "烟台压死女老师渣土车司机被定全责",
-      "onboard_time": 1763644703,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99051,
@@ -387,6 +555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90503,
+      "num": 90503,
+      "word": "湖人管理层大换血",
+      "onboard_time": 1763688023,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88355,
       "num": 88355,
       "word": "王楚钦回应头撞球桌",
@@ -401,6 +577,22 @@
       "onboard_time": 1763657239,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80927,
+      "num": 80927,
+      "word": "猫咪用敲击声回应民警救下主人",
+      "onboard_time": 1763690240,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79505,
+      "num": 79505,
+      "word": "时代少年团彩排",
+      "onboard_time": 1763689581,
+      "rank": 43,
+      "category": "演出"
     },
     {
       "raw_hot": 79126,
@@ -435,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75976,
+      "num": 75976,
+      "word": "时代峰峻回应朱志鑫见面会",
+      "onboard_time": 1763689040,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 74261,
       "num": 74261,
       "word": "王楚钦我也没那么老吧",
@@ -451,6 +651,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72737,
+      "num": 72737,
+      "word": "王某辱骂烈士遗孀被处罚",
+      "onboard_time": 1763681119,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 71672,
+      "num": 141322,
+      "word": "电影狂野时代",
+      "onboard_time": 1763660056,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 70017,
       "num": 70017,
       "word": "龙蟒",
@@ -465,6 +681,14 @@
       "onboard_time": 1763656041,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69645,
+      "num": 69645,
+      "word": "马龙感谢没上场的闫安和徐晨皓",
+      "onboard_time": 1763689879,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 67848,
@@ -515,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63174,
+      "num": 138034,
+      "word": "盛夏芬德拉剧里那道闪电是真的",
+      "onboard_time": 1763659696,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62836,
       "num": 62836,
       "word": "Gemini3",
@@ -531,6 +763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 61627,
+      "num": 89007,
+      "word": "高市早苗不是嘴瓢而是说漏了",
+      "onboard_time": 1763689040,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61253,
       "num": 64609,
       "word": "全场送别苏炳添",
@@ -545,14 +785,6 @@
       "onboard_time": 1763651303,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58941,
-      "num": 120635,
-      "word": "盛夏芬德拉剧里那道闪电是真的",
-      "onboard_time": 1763659696,
-      "rank": 29,
-      "category": "剧集"
     },
     {
       "raw_hot": 56024,
@@ -643,12 +875,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30843,
-      "num": 70227,
-      "word": "电影狂野时代",
-      "onboard_time": 1763660056,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 28690,
+      "num": 398497,
+      "word": "一人一句为中国体育加油",
+      "onboard_time": 1763650461,
+      "rank": 2,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 25974,
+      "num": 89346,
+      "word": "张家口崇礼一吊车撞多辆车13人受伤",
+      "onboard_time": 1763689280,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18519,
@@ -667,12 +907,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 17818,
-      "num": 398497,
-      "word": "一人一句为中国体育加油",
-      "onboard_time": 1763650461,
-      "rank": 2,
-      "category": "体育"
+      "raw_hot": 17736,
+      "num": 154309,
+      "word": "家门口遇害案母亲出庭作证10分钟",
+      "onboard_time": 1763690000,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17447,
