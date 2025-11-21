@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763707215060,
+  "endTime": 1763708023297,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -675,6 +675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1589938,
+      "num": 207556,
+      "word": "鹿晗 馒头真不能再吃了",
+      "onboard_time": 1763703681,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1583422,
       "num": 1583422,
       "word": "日本有事就是日本有事",
@@ -720,14 +728,6 @@
       "word": "何穗产后近照",
       "onboard_time": 1762848981,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1527554,
-      "num": 196885,
-      "word": "鹿晗 馒头真不能再吃了",
-      "onboard_time": 1763703681,
-      "rank": 30,
       "category": "艺人"
     },
     {
@@ -1507,6 +1507,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1140911,
+      "num": 1182545,
+      "word": "CPA成绩",
+      "onboard_time": 1763705661,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1138596,
       "num": 566357,
       "word": "快睡着时身体抖了一下的原因",
@@ -1849,14 +1857,6 @@
       "onboard_time": 1763201721,
       "rank": 15,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1014012,
-      "num": 1162241,
-      "word": "CPA成绩",
-      "onboard_time": 1763705661,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1012390,
@@ -3164,7 +3164,7 @@
     },
     {
       "raw_hot": 769784,
-      "num": 196109,
+      "num": 207537,
       "word": "胡彦斌100件小事易梦玲看进去了",
       "onboard_time": 1763700622,
       "rank": 22,
@@ -10659,6 +10659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 369781,
+      "num": 207747,
+      "word": "AG爱笑预测Uzi加入JDG或LNG",
+      "onboard_time": 1763707460,
+      "rank": 10,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 368868,
       "num": 983215,
       "word": "致中方人员在德食物中毒餐馆致歉",
@@ -11545,6 +11553,14 @@
       "onboard_time": 1763304143,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 346481,
+      "num": 207706,
+      "word": "朱珠真的不考虑开个穿搭班吗",
+      "onboard_time": 1763697380,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 346383,
@@ -12649,6 +12665,14 @@
       "onboard_time": 1762681760,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321767,
+      "num": 207496,
+      "word": "黄雅琼刘雨辰婚纱照",
+      "onboard_time": 1763707400,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 321608,
@@ -18275,6 +18299,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 222339,
+      "num": 207464,
+      "word": "宁静 我不喜欢",
+      "onboard_time": 1763704521,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 222106,
       "num": 117726,
       "word": "沈梦辰怎么端庄成这样",
@@ -19619,6 +19651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 207855,
+      "num": 270131,
+      "word": "两千保省奖八千保国奖",
+      "onboard_time": 1763703382,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207824,
       "num": 207824,
       "word": "彭小苒凤凰台上没用原声的原因",
@@ -20257,14 +20297,6 @@
       "onboard_time": 1762671439,
       "rank": 16,
       "category": "艺人,电竞"
-    },
-    {
-      "raw_hot": 203073,
-      "num": 203073,
-      "word": "朱珠真的不考虑开个穿搭班吗",
-      "onboard_time": 1763697380,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 202986,
@@ -22780,7 +22812,7 @@
     },
     {
       "raw_hot": 188311,
-      "num": 188311,
+      "num": 198303,
       "word": "胡先煦从offer嘉宾席到选手席",
       "onboard_time": 1763705841,
       "rank": 25,
@@ -24377,6 +24409,14 @@
       "onboard_time": 1762143380,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 178784,
+      "num": 178784,
+      "word": "张维伊 你们少上点网吧",
+      "onboard_time": 1763706919,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 178713,
@@ -26371,6 +26411,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 166348,
+      "num": 166348,
+      "word": "百万网红成名前曾在电厂掏炉灰",
+      "onboard_time": 1763707220,
+      "rank": 32,
+      "category": "网红"
+    },
+    {
       "raw_hot": 166312,
       "num": 166312,
       "word": "竞燃之夜阵容官宣",
@@ -27609,14 +27657,6 @@
       "onboard_time": 1762158382,
       "rank": 21,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 160599,
-      "num": 160599,
-      "word": "宁静 我不喜欢",
-      "onboard_time": 1763704521,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 160588,
@@ -29673,6 +29713,14 @@
       "onboard_time": 1762404981,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 152076,
+      "num": 199035,
+      "word": "中国军网海外发布一切就绪",
+      "onboard_time": 1763707700,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 152048,
@@ -32001,6 +32049,14 @@
       "onboard_time": 1762745539,
       "rank": 33,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 142419,
+      "num": 142419,
+      "word": "范丞丞说车里坐了4个摇子",
+      "onboard_time": 1763707641,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 142415,
@@ -35059,6 +35115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132155,
+      "num": 132155,
+      "word": "何美延婆婆会说就多说",
+      "onboard_time": 1763703979,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 132128,
       "num": 132128,
       "word": "鳌拜 瓜尔佳氏",
@@ -35499,6 +35563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130950,
+      "num": 207759,
+      "word": "日本股债汇继续三杀",
+      "onboard_time": 1763707641,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 130945,
       "num": 180752,
       "word": "高市早苗被曝怂恿特朗普插手台海",
@@ -35649,14 +35721,6 @@
       "onboard_time": 1762614621,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 130156,
-      "num": 270131,
-      "word": "两千保省奖八千保国奖",
-      "onboard_time": 1763703382,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130155,
@@ -37145,14 +37209,6 @@
       "onboard_time": 1763170222,
       "rank": 28,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 125954,
-      "num": 125954,
-      "word": "何美延婆婆会说就多说",
-      "onboard_time": 1763703979,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 125929,
@@ -38937,6 +38993,14 @@
       "onboard_time": 1763377702,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 121603,
+      "num": 169214,
+      "word": "A股半日放量1975亿",
+      "onboard_time": 1763705302,
+      "rank": 27,
+      "category": "财经"
     },
     {
       "raw_hot": 121594,
@@ -41849,14 +41913,6 @@
       "onboard_time": 1763126481,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114466,
-      "num": 169214,
-      "word": "A股半日放量1975亿",
-      "onboard_time": 1763705302,
-      "rank": 27,
-      "category": "财经"
     },
     {
       "raw_hot": 114453,
@@ -45441,14 +45497,6 @@
       "onboard_time": 1763198122,
       "rank": 48,
       "category": "电影"
-    },
-    {
-      "raw_hot": 105961,
-      "num": 105961,
-      "word": "张维伊 你们少上点网吧",
-      "onboard_time": 1763706919,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 105928,
@@ -63924,7 +63972,7 @@
     },
     {
       "raw_hot": 61340,
-      "num": 200456,
+      "num": 207588,
       "word": "在广州车展遇见会笑的车",
       "onboard_time": 1763705060,
       "rank": 19,
@@ -64691,6 +64739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 57554,
+      "num": 142733,
+      "word": "23岁女儿索要抚养费遭拒起诉父亲",
+      "onboard_time": 1763707041,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57553,
       "num": 149647,
       "word": "出去玩的钱双11省一半",
@@ -64713,6 +64769,14 @@
       "onboard_time": 1762563678,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57446,
+      "num": 207607,
+      "word": "日本共产党称高市只有撤回发言一条路",
+      "onboard_time": 1763706981,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 57424,
@@ -72971,14 +73035,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20511,
-      "num": 161911,
-      "word": "日本共产党称高市只有撤回发言一条路",
-      "onboard_time": 1763706981,
-      "rank": 29,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20453,
       "num": 97288,
       "word": "3亿建的体育馆使用不到2年就漏水",
@@ -73425,14 +73481,6 @@
       "onboard_time": 1762249100,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18290,
-      "num": 125768,
-      "word": "23岁女儿索要抚养费遭拒起诉父亲",
-      "onboard_time": 1763707041,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18257,
@@ -73889,6 +73937,14 @@
       "onboard_time": 1762957824,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 16258,
+      "num": 142451,
+      "word": "王楚钦和国家台球队教练合影",
+      "onboard_time": 1763707340,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 16034,
