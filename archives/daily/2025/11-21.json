@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763730401988,
+  "endTime": 1763732083690,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1964740,
-      "num": 168757,
+      "num": 192359,
       "word": "我AI的易梦玲胡彦斌",
       "onboard_time": 1763725402,
       "rank": 20,
@@ -113,6 +113,14 @@
       "onboard_time": 1763708180,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 861938,
+      "num": 1137910,
+      "word": "敌国条款称日本侵略五常可直接动武",
+      "onboard_time": 1763727621,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 834240,
@@ -219,14 +227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 583980,
-      "num": 1093436,
-      "word": "敌国条款称日本侵略五常可直接动武",
-      "onboard_time": 1763727621,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 574639,
       "num": 1091942,
       "word": "日本多个行业为高市早苗买单",
@@ -249,6 +249,14 @@
       "onboard_time": 1763683822,
       "rank": 3,
       "category": "数码"
+    },
+    {
+      "raw_hot": 553089,
+      "num": 553089,
+      "word": "闭幕式 第九套广播体操",
+      "onboard_time": 1763727442,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 551901,
@@ -299,6 +307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499909,
+      "num": 281945,
+      "word": "彭小苒回应凤凰台上原著作者",
+      "onboard_time": 1763728281,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 497508,
       "num": 244301,
       "word": "小狗因为内耗一晚上都没闭眼",
@@ -329,14 +345,6 @@
       "onboard_time": 1763696720,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 471464,
-      "num": 281945,
-      "word": "彭小苒回应凤凰台上原著作者",
-      "onboard_time": 1763728281,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 465852,
@@ -388,7 +396,7 @@
     },
     {
       "raw_hot": 422094,
-      "num": 168389,
+      "num": 192174,
       "word": "葛荟婕回应女儿叫章子怡妈妈",
       "onboard_time": 1763725821,
       "rank": 22,
@@ -603,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 323457,
-      "num": 323457,
-      "word": "闭幕式 第九套广播体操",
-      "onboard_time": 1763727442,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 322979,
       "num": 1055748,
       "word": "全运会闭幕式",
@@ -673,6 +673,14 @@
       "onboard_time": 1763717782,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 297687,
+      "num": 297687,
+      "word": "湖南承办2029全运会",
+      "onboard_time": 1763730622,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 294415,
@@ -787,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251337,
+      "num": 251337,
+      "word": "樊振东展现中国水平中国力量",
+      "onboard_time": 1763727381,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 251099,
       "num": 251099,
       "word": "以前最恨关系户",
@@ -819,16 +835,8 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 244073,
-      "num": 244073,
-      "word": "樊振东展现中国水平中国力量",
-      "onboard_time": 1763727381,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 243117,
-      "num": 166956,
+      "num": 189012,
       "word": "中方回应俄乌战场现中国武器",
       "onboard_time": 1763726001,
       "rank": 26,
@@ -848,6 +856,22 @@
       "word": "唐朝诡事录",
       "onboard_time": 1763722462,
       "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 237929,
+      "num": 206983,
+      "word": "成毅你干什么去了",
+      "onboard_time": 1763727022,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 237422,
+      "num": 237422,
+      "word": "卢凌风 苏无名",
+      "onboard_time": 1763729422,
+      "rank": 37,
       "category": "剧集"
     },
     {
@@ -881,6 +905,14 @@
       "onboard_time": 1763712861,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 229167,
+      "num": 229167,
+      "word": "马龙苏炳添潘展乐闭幕式献唱",
+      "onboard_time": 1763729121,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 222339,
@@ -1011,12 +1043,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 194170,
-      "num": 194170,
-      "word": "成毅你干什么去了",
-      "onboard_time": 1763727022,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 194626,
+      "num": 194626,
+      "word": "冰箱贴已经进化成这样了吗",
+      "onboard_time": 1763728581,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 193792,
@@ -1067,14 +1099,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 185202,
-      "num": 185202,
-      "word": "卢凌风 苏无名",
-      "onboard_time": 1763729422,
-      "rank": 37,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 182702,
       "num": 182702,
       "word": "任嘉伦凤凰台上豆瓣4.8分",
@@ -1089,6 +1113,14 @@
       "onboard_time": 1763722399,
       "rank": 23,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 181415,
+      "num": 181415,
+      "word": "Gumayusi与Zeus碰面",
+      "onboard_time": 1763731042,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 179958,
@@ -1113,14 +1145,6 @@
       "onboard_time": 1763715323,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 174787,
-      "num": 174787,
-      "word": "马龙苏炳添潘展乐闭幕式献唱",
-      "onboard_time": 1763729121,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 174256,
@@ -1209,6 +1233,14 @@
       "onboard_time": 1763720843,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 167763,
+      "num": 167763,
+      "word": "买二手房一定要买别人住过的",
+      "onboard_time": 1763731641,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 167604,
@@ -1387,6 +1419,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149779,
+      "num": 194205,
+      "word": "全运会",
+      "onboard_time": 1763730622,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149130,
       "num": 149130,
       "word": "伊朗宣布开罗协议不再有效",
@@ -1409,6 +1449,14 @@
       "onboard_time": 1763657119,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147972,
+      "num": 147972,
+      "word": "变形计张迪自曝没有生育能力",
+      "onboard_time": 1763730201,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 144199,
@@ -1443,14 +1491,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 142013,
-      "num": 142013,
-      "word": "变形计张迪自曝没有生育能力",
-      "onboard_time": 1763730201,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 140904,
       "num": 140904,
       "word": "樊振东证明了自己",
@@ -1465,14 +1505,6 @@
       "onboard_time": 1763699781,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 140322,
-      "num": 140322,
-      "word": "冰箱贴已经进化成这样了吗",
-      "onboard_time": 1763728581,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 139588,
@@ -1675,6 +1707,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125637,
+      "num": 190744,
+      "word": "得闲谨制想看人数破10万",
+      "onboard_time": 1763730681,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 125061,
+      "num": 125061,
+      "word": "喜人奇妙夜 死亡教育",
+      "onboard_time": 1763729242,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124274,
       "num": 124274,
       "word": "曝Knight曾放弃1.5亿大合同",
@@ -1771,14 +1819,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 119088,
-      "num": 119088,
-      "word": "喜人奇妙夜 死亡教育",
-      "onboard_time": 1763729242,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 118968,
       "num": 118968,
       "word": "养过狗的才知道她多会养",
@@ -1865,6 +1905,14 @@
       "onboard_time": 1763710461,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115953,
+      "num": 194120,
+      "word": "南北大众车展被吐槽最狠甲方",
+      "onboard_time": 1763730622,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 115837,
@@ -2075,12 +2123,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104428,
+      "num": 104428,
+      "word": "发现了比较体面的防静电方法",
+      "onboard_time": 1763731762,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 104131,
+      "num": 104131,
+      "word": "分手夫妻嘴不诚实但身体诚实",
+      "onboard_time": 1763731821,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104105,
       "num": 104105,
       "word": "花70万在广州买了个阳台房",
       "onboard_time": 1763709981,
       "rank": 49,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 103704,
+      "num": 192983,
+      "word": "中国点穴式制裁日本",
+      "onboard_time": 1763730802,
+      "rank": 20,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103515,
@@ -2465,6 +2537,14 @@
       "onboard_time": 1763710640,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 80740,
+      "num": 193348,
+      "word": "张博恒的超能新伙伴",
+      "onboard_time": 1763730681,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 79153,
@@ -2971,6 +3051,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43900,
+      "num": 102006,
+      "word": "张展硕担任闭幕式山东队旗手",
+      "onboard_time": 1763729662,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 43724,
       "num": 116253,
       "word": "奶皮子糖葫芦卖不动了",
@@ -3073,6 +3161,14 @@
       "onboard_time": 1763702541,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39261,
+      "num": 123485,
+      "word": "印度坠机后L15A继续表演",
+      "onboard_time": 1763731102,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39143,

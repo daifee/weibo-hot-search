@@ -1,0 +1,410 @@
+{
+  "runTime": 1763732083690,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 861938,
+        "num": 1137910,
+        "word": "敌国条款称日本侵略五常可直接动武",
+        "onboard_time": 1763727621,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 553089,
+        "num": 553089,
+        "word": "闭幕式 第九套广播体操",
+        "onboard_time": 1763727442,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16392,
+        "num": 404345,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763717003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297687,
+        "num": 297687,
+        "word": "湖南承办2029全运会",
+        "onboard_time": 1763730622,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 277364,
+        "num": 277364,
+        "word": "印度光辉战机表演时坠毁",
+        "onboard_time": 1763723063,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 499909,
+        "num": 268357,
+        "word": "彭小苒回应凤凰台上原著作者",
+        "onboard_time": 1763728281,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 251337,
+        "num": 251337,
+        "word": "樊振东展现中国水平中国力量",
+        "onboard_time": 1763727381,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237422,
+        "num": 237422,
+        "word": "卢凌风 苏无名",
+        "onboard_time": 1763729422,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229167,
+        "num": 229167,
+        "word": "马龙苏炳添潘展乐闭幕式献唱",
+        "onboard_time": 1763729121,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226879,
+        "num": 226879,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1763726301,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 448563,
+        "num": 220842,
+        "word": "更大更强的航母或出现在日本",
+        "onboard_time": 1763723422,
+        "rank": 10,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 263382,
+        "num": 216410,
+        "word": "北大自杀女生包丽案细节披露",
+        "onboard_time": 1763718082,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253675,
+        "num": 213802,
+        "word": "女孩被撞身亡一周后收到录取书",
+        "onboard_time": 1763721683,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237929,
+        "num": 206983,
+        "word": "成毅你干什么去了",
+        "onboard_time": 1763727022,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200781,
+        "num": 200781,
+        "word": "原神",
+        "onboard_time": 1763727802,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 197653,
+        "num": 197653,
+        "word": "他为什么依然单身",
+        "onboard_time": 1763723481,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194626,
+        "num": 194626,
+        "word": "冰箱贴已经进化成这样了吗",
+        "onboard_time": 1763728581,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149779,
+        "num": 194205,
+        "word": "全运会",
+        "onboard_time": 1763730622,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 115953,
+        "num": 194120,
+        "word": "南北大众车展被吐槽最狠甲方",
+        "onboard_time": 1763730622,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 80740,
+        "num": 193348,
+        "word": "张博恒的超能新伙伴",
+        "onboard_time": 1763730681,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 103704,
+        "num": 192983,
+        "word": "中国点穴式制裁日本",
+        "onboard_time": 1763730802,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1697344,
+        "num": 192359,
+        "word": "我AI的易梦玲胡彦斌",
+        "onboard_time": 1763725402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385586,
+        "num": 192174,
+        "word": "葛荟婕回应女儿叫章子怡妈妈",
+        "onboard_time": 1763725821,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315764,
+        "num": 191600,
+        "word": "毒唯只对真嫂子破防",
+        "onboard_time": 1763722642,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 142012,
+        "num": 191326,
+        "word": "王鹤棣沈月合体跳pretty",
+        "onboard_time": 1763721563,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125637,
+        "num": 190744,
+        "word": "得闲谨制想看人数破10万",
+        "onboard_time": 1763730681,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1211520,
+        "num": 190021,
+        "word": "易梦玲称和胡彦斌海边视频是AI",
+        "onboard_time": 1763715441,
+        "rank": 26,
+        "category": "艺人,互联网"
+      },
+      {
+        "raw_hot": 237870,
+        "num": 189546,
+        "word": "kimi戴口罩好像易烊千玺",
+        "onboard_time": 1763715562,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198270,
+        "num": 189012,
+        "word": "中方回应俄乌战场现中国武器",
+        "onboard_time": 1763726001,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189007,
+        "num": 189007,
+        "word": "周深3天4次以0票告终",
+        "onboard_time": 1763721202,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 181415,
+        "num": 181415,
+        "word": "Gumayusi与Zeus碰面",
+        "onboard_time": 1763731042,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167763,
+        "num": 167763,
+        "word": "买二手房一定要买别人住过的",
+        "onboard_time": 1763731641,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147972,
+        "num": 147972,
+        "word": "变形计张迪自曝没有生育能力",
+        "onboard_time": 1763730201,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145634,
+        "num": 145634,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139234,
+        "num": 139234,
+        "word": "六烊千玺",
+        "onboard_time": 1763716341,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135792,
+        "num": 135792,
+        "word": "日本将琉球改为冲绳县",
+        "onboard_time": 1763714540,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129083,
+        "num": 129083,
+        "word": "无限暖暖",
+        "onboard_time": 1763722942,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125061,
+        "num": 125061,
+        "word": "喜人奇妙夜 死亡教育",
+        "onboard_time": 1763729242,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123847,
+        "num": 123847,
+        "word": "棣月系",
+        "onboard_time": 1763725821,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39261,
+        "num": 123485,
+        "word": "印度坠机后L15A继续表演",
+        "onboard_time": 1763731102,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123329,
+        "num": 123329,
+        "word": "鹿晗 馒头真不能再吃了",
+        "onboard_time": 1763703681,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117328,
+        "num": 117328,
+        "word": "唐朝诡事录",
+        "onboard_time": 1763722462,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115032,
+        "num": 115032,
+        "word": "A股牛市有望持续",
+        "onboard_time": 1763723842,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 113631,
+        "num": 113631,
+        "word": "愿意再婚的人越来越多了",
+        "onboard_time": 1763728761,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 111891,
+        "num": 111891,
+        "word": "王一博脚趾头都肿了",
+        "onboard_time": 1763726902,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104428,
+        "num": 104428,
+        "word": "发现了比较体面的防静电方法",
+        "onboard_time": 1763731762,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 104131,
+        "num": 104131,
+        "word": "分手夫妻嘴不诚实但身体诚实",
+        "onboard_time": 1763731821,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103088,
+        "num": 103088,
+        "word": "无限暖暖正式弓测",
+        "onboard_time": 1763726602,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 103830,
+        "num": 102884,
+        "word": "任嘉伦凤凰台上豆瓣4.8分",
+        "onboard_time": 1763729362,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43900,
+        "num": 102006,
+        "word": "张展硕担任闭幕式山东队旗手",
+        "onboard_time": 1763729662,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
