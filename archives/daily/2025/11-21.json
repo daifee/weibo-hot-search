@@ -1,6 +1,6 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763725067861,
+  "endTime": 1763729580711,
   "band_list": [
     {
       "raw_hot": 8650521,
@@ -16,6 +16,14 @@
       "word": "易梦玲 好好笑哦",
       "onboard_time": 1763718141,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1964740,
+      "num": 168757,
+      "word": "我AI的易梦玲胡彦斌",
+      "onboard_time": 1763725402,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -219,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 572574,
+      "num": 238412,
+      "word": "更大更强的航母或出现在日本",
+      "onboard_time": 1763723422,
+      "rank": 28,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 556087,
       "num": 345432,
       "word": "何同学称当时被吓到了",
@@ -331,6 +347,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 437955,
+      "num": 254872,
+      "word": "毒唯只对真嫂子破防",
+      "onboard_time": 1763722642,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 425287,
       "num": 270622,
       "word": "王楚钦说樊振东实在太强了",
@@ -345,6 +369,14 @@
       "onboard_time": 1763694740,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 422094,
+      "num": 168389,
+      "word": "葛荟婕回应女儿叫章子怡妈妈",
+      "onboard_time": 1763725821,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 418939,
@@ -475,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 361241,
+      "num": 361241,
+      "word": "敌国条款称日本侵略五常可直接动武",
+      "onboard_time": 1763727621,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 352368,
       "num": 275888,
       "word": "朱珠真的不考虑开个穿搭班吗",
@@ -555,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 322979,
+      "num": 1055748,
+      "word": "全运会闭幕式",
+      "onboard_time": 1763694620,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 321101,
       "num": 360741,
       "word": "繁花团6个人吃了1826元",
@@ -593,6 +641,14 @@
       "onboard_time": 1763647644,
       "rank": 5,
       "category": "剧集,互联网"
+    },
+    {
+      "raw_hot": 301058,
+      "num": 301058,
+      "word": "原神",
+      "onboard_time": 1763727802,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 300879,
@@ -643,20 +699,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281945,
+      "num": 281945,
+      "word": "彭小苒回应凤凰台上原著作者",
+      "onboard_time": 1763728281,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 280502,
       "num": 253145,
       "word": "陈伟霆带着电梯神图又杀回来了",
       "onboard_time": 1763693540,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 279531,
-      "num": 238412,
-      "word": "更大更强的航母或出现在日本",
-      "onboard_time": 1763723422,
-      "rank": 28,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 276505,
@@ -675,8 +731,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 267764,
-      "num": 267764,
+      "raw_hot": 267776,
+      "num": 267776,
       "word": "他为什么依然单身",
       "onboard_time": 1763723481,
       "rank": 16,
@@ -705,14 +761,6 @@
       "onboard_time": 1763701102,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 254872,
-      "num": 254872,
-      "word": "毒唯只对真嫂子破防",
-      "onboard_time": 1763722642,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 253448,
@@ -753,6 +801,14 @@
       "onboard_time": 1763697021,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 243117,
+      "num": 166956,
+      "word": "中方回应俄乌战场现中国武器",
+      "onboard_time": 1763726001,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 242778,
@@ -803,6 +859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227508,
+      "num": 227508,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1763726301,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 222339,
       "num": 207464,
       "word": "宁静 我不喜欢",
@@ -817,6 +881,14 @@
       "onboard_time": 1763699181,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 213759,
+      "num": 213759,
+      "word": "樊振东展现中国水平中国力量",
+      "onboard_time": 1763727381,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 207855,
@@ -979,6 +1051,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 183001,
+      "num": 183001,
+      "word": "闭幕式 第九套广播体操",
+      "onboard_time": 1763727442,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181443,
       "num": 181443,
       "word": "月经周期28天vs40天",
@@ -1059,6 +1139,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 171471,
+      "num": 171471,
+      "word": "成毅你干什么去了",
+      "onboard_time": 1763727022,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170170,
       "num": 327918,
       "word": "华为乾崑智驾开启多城L3内测",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1763642602,
       "rank": 21,
       "category": "网红"
+    },
+    {
+      "raw_hot": 169174,
+      "num": 169174,
+      "word": "无限暖暖正式弓测",
+      "onboard_time": 1763726602,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 168394,
@@ -1177,6 +1273,14 @@
       "onboard_time": 1763701762,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 156222,
+      "num": 156222,
+      "word": "愿意再婚的人越来越多了",
+      "onboard_time": 1763728761,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 155747,
@@ -1299,6 +1403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141039,
+      "num": 162980,
+      "word": "任嘉伦凤凰台上豆瓣4.8分",
+      "onboard_time": 1763729362,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 140904,
       "num": 140904,
       "word": "樊振东证明了自己",
@@ -1323,20 +1435,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139121,
-      "num": 1055748,
-      "word": "全运会闭幕式",
-      "onboard_time": 1763694620,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 137892,
       "num": 355040,
       "word": "沈腾包场易烊千玺狂野时代",
       "onboard_time": 1763710461,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 136835,
+      "num": 136835,
+      "word": "棣月系",
+      "onboard_time": 1763725821,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 136727,
@@ -1361,6 +1473,14 @@
       "onboard_time": 1763697741,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 135291,
+      "num": 135291,
+      "word": "马龙苏炳添潘展乐闭幕式献唱",
+      "onboard_time": 1763729121,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 133737,
@@ -1507,6 +1627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 126733,
+      "num": 126733,
+      "word": "LCK首次四位S冠中单同时打联赛",
+      "onboard_time": 1763726001,
+      "rank": 35,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125908,
       "num": 125908,
       "word": "高市早苗不是嘴瓢而是说漏了",
@@ -1521,6 +1649,14 @@
       "onboard_time": 1763680458,
       "rank": 21,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 124238,
+      "num": 124238,
+      "word": "熊黛林回应生二胎",
+      "onboard_time": 1763726242,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 124173,
@@ -1545,6 +1681,14 @@
       "onboard_time": 1763685680,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122184,
+      "num": 122184,
+      "word": "卢凌风 苏无名",
+      "onboard_time": 1763729422,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 122158,
@@ -1601,6 +1745,14 @@
       "onboard_time": 1763703201,
       "rank": 45,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 119088,
+      "num": 119088,
+      "word": "喜人奇妙夜 死亡教育",
+      "onboard_time": 1763729242,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 118968,
@@ -1699,12 +1851,52 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 115397,
+      "num": 115397,
+      "word": "广西桂平发生车祸致5死",
+      "onboard_time": 1763727381,
+      "rank": 40,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 114838,
+      "num": 114838,
+      "word": "冰箱贴已经进化成这样了吗",
+      "onboard_time": 1763728581,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 114598,
       "num": 138501,
       "word": "唐诡3就这个提更加更爽",
       "onboard_time": 1763711002,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114175,
+      "num": 114175,
+      "word": "王一博脚趾头都肿了",
+      "onboard_time": 1763726902,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 112289,
+      "num": 112289,
+      "word": "电影得闲谨制官方微博",
+      "onboard_time": 1763725101,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111935,
+      "num": 192542,
+      "word": "美团外卖小哥在骑手公寓排队选房",
+      "onboard_time": 1763723241,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111805,
@@ -1739,12 +1931,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110323,
+      "num": 110323,
+      "word": "男装店主把吊牌做成鼠标垫意外爆火",
+      "onboard_time": 1763724024,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110181,
       "num": 130332,
       "word": "王楚钦混团见",
       "onboard_time": 1763697861,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109849,
+      "num": 109849,
+      "word": "MG半固态电池被捏爆",
+      "onboard_time": 1763726122,
+      "rank": 46,
+      "category": "汽车"
     },
     {
       "raw_hot": 109141,
@@ -1761,6 +1969,14 @@
       "onboard_time": 1763686461,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 108505,
+      "num": 108505,
+      "word": "机器人做上广播体操了",
+      "onboard_time": 1763729482,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 108317,
@@ -1787,14 +2003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106921,
-      "num": 106921,
-      "word": "男装店主把吊牌做成鼠标垫意外爆火",
-      "onboard_time": 1763724024,
-      "rank": 47,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 106700,
       "num": 217414,
       "word": "与钟汉良一起贴贴",
@@ -1811,20 +2019,20 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 106121,
+      "num": 106121,
+      "word": "揭秘日本造航母暗度陈仓之路",
+      "onboard_time": 1763727621,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105825,
       "num": 105825,
       "word": "马龙发布会调侃记者",
       "onboard_time": 1763653822,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105758,
-      "num": 192542,
-      "word": "美团外卖小哥在骑手公寓排队选房",
-      "onboard_time": 1763723241,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 105680,
@@ -2563,6 +2771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55873,
+      "num": 169119,
+      "word": "葫芦岛多人往海里倾倒大米称放生",
+      "onboard_time": 1763728402,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55161,
       "num": 55161,
       "word": "马龙希望和大家一起好好变老",
@@ -2785,6 +3001,14 @@
       "onboard_time": 1763681119,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39910,
+      "num": 114178,
+      "word": "日料就是亚洲的白人饭",
+      "onboard_time": 1763728223,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 39820,
