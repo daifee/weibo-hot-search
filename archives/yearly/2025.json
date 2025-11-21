@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1763715016033,
+  "endTime": 1763717354705,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1675,6 +1675,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 8650521,
+      "num": 8650521,
+      "word": "易梦玲称和胡彦斌海边视频是AI",
+      "onboard_time": 1763715441,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 8592534,
       "num": 8592534,
       "word": "青岛大学凌晨发情况说明",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1738151061,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 5959028,
-      "num": 7209028,
-      "word": "苏超泰州队冠军",
-      "onboard_time": 1762004724,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [

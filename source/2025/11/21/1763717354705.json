@@ -1,0 +1,410 @@
+{
+  "runTime": 1763717354705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 333177,
+        "num": 1053308,
+        "word": "CPA成绩",
+        "onboard_time": 1763705661,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 290737,
+        "num": 290737,
+        "word": "中国军网海外发布一切就绪",
+        "onboard_time": 1763707700,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 49587,
+        "num": 287681,
+        "word": "全运会闭幕式",
+        "onboard_time": 1763694620,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153796,
+        "num": 284331,
+        "word": "仅用0秒就嗑到的国漫cp",
+        "onboard_time": 1763716762,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 142076,
+        "num": 280596,
+        "word": "NS官宣Scout加入",
+        "onboard_time": 1763708421,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144199,
+        "num": 278429,
+        "word": "罗云熙又给内娱古装拉平均线了",
+        "onboard_time": 1763715862,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130708,
+        "num": 276337,
+        "word": "成毅暂无参加活动计划",
+        "onboard_time": 1763712500,
+        "rank": 6,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104362,
+        "num": 269774,
+        "word": "便宜30%的印度水产你敢吃吗",
+        "onboard_time": 1763697622,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98258,
+        "num": 266981,
+        "word": "日本多个行业为高市早苗买单",
+        "onboard_time": 1763685680,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96548,
+        "num": 263106,
+        "word": "全运会万米跑冠军被取消金牌",
+        "onboard_time": 1763701163,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495809,
+        "num": 261061,
+        "word": "同事为了请假已经不择手段了",
+        "onboard_time": 1763708901,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 464593,
+        "num": 256070,
+        "word": "纠结女友过往性经历辱骂致其自杀",
+        "onboard_time": 1763710701,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385826,
+        "num": 255001,
+        "word": "六烊千玺",
+        "onboard_time": 1763716341,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329325,
+        "num": 249557,
+        "word": "发个朋友圈680人不可见",
+        "onboard_time": 1763708180,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 306391,
+        "num": 245533,
+        "word": "王俊凯 熟男味",
+        "onboard_time": 1763712202,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244989,
+        "num": 244989,
+        "word": "日本将琉球改为冲绳县",
+        "onboard_time": 1763714540,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233714,
+        "num": 233714,
+        "word": "汪苏泷信息量好大的一场直播",
+        "onboard_time": 1763709260,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198408,
+        "num": 198408,
+        "word": "原来11月也叫考研质变期",
+        "onboard_time": 1763716823,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 177127,
+        "num": 177127,
+        "word": "李施嬅第一次选了不分手",
+        "onboard_time": 1763715323,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44634,
+        "num": 176652,
+        "word": "与钟汉良一起贴贴",
+        "onboard_time": 1763715922,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8650521,
+        "num": 8650521,
+        "word": "易梦玲称和胡彦斌海边视频是AI",
+        "onboard_time": 1763715441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 689211,
+        "num": 173847,
+        "word": "kimi戴口罩好像易烊千玺",
+        "onboard_time": 1763715562,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 596706,
+        "num": 173172,
+        "word": "女子一分钟内跳楼两次被救",
+        "onboard_time": 1763712141,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 511469,
+        "num": 171866,
+        "word": "鹿晗 馒头真不能再吃了",
+        "onboard_time": 1763703681,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 264827,
+        "num": 170322,
+        "word": "唐嫣",
+        "onboard_time": 1763697261,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1033050,
+        "num": 169041,
+        "word": "易梦玲 胡彦斌",
+        "onboard_time": 1763696181,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179273,
+        "num": 168042,
+        "word": "林宥嘉汪苏泷合照",
+        "onboard_time": 1763713521,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167325,
+        "num": 167325,
+        "word": "白鹿说去年许的愿老灵了",
+        "onboard_time": 1763716221,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112620,
+        "num": 166852,
+        "word": "双高胎实体投影",
+        "onboard_time": 1763716884,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111170,
+        "num": 166663,
+        "word": "全运会最后一枚金牌",
+        "onboard_time": 1763716162,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166646,
+        "num": 166646,
+        "word": "杨紫又酷又辣",
+        "onboard_time": 1763708662,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75604,
+        "num": 166270,
+        "word": "抽中显卡实习生被公司暗示另谋高就",
+        "onboard_time": 1763715622,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165967,
+        "num": 165967,
+        "word": "梁淞说何美延又坏又蠢",
+        "onboard_time": 1763708662,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156490,
+        "num": 156490,
+        "word": "俄罗斯对等反制日本",
+        "onboard_time": 1763716282,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59191,
+        "num": 149758,
+        "word": "酷滕 最会给天放写角色的人",
+        "onboard_time": 1763715622,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79949,
+        "num": 148538,
+        "word": "狂野时代首映礼",
+        "onboard_time": 1763712861,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147824,
+        "num": 147824,
+        "word": "黄雅琼刘雨辰婚纱照",
+        "onboard_time": 1763707400,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73438,
+        "num": 135827,
+        "word": "踏歌行庐山",
+        "onboard_time": 1763717245,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55161,
+        "num": 135517,
+        "word": "苏炳添回应退役后生活",
+        "onboard_time": 1763714780,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34847,
+        "num": 135355,
+        "word": "野猪卡南博门口护栏被夸有文化",
+        "onboard_time": 1763716162,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135353,
+        "num": 135353,
+        "word": "俄外交部发日本投降画面",
+        "onboard_time": 1763713340,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127388,
+        "num": 127388,
+        "word": "左眼跳财右眼跳相信科学",
+        "onboard_time": 1763712621,
+        "rank": 41,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 97863,
+        "num": 97863,
+        "word": "李商隐是不是看过鬼灭之刃",
+        "onboard_time": 1763716762,
+        "rank": 42,
+        "category": "幽默,动漫"
+      },
+      {
+        "raw_hot": 96987,
+        "num": 96987,
+        "word": "樊振东被许昕的运气论笑喷",
+        "onboard_time": 1763710580,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96219,
+        "num": 96219,
+        "word": "恋猫脑",
+        "onboard_time": 1763717063,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 88905,
+        "num": 88905,
+        "word": "日本旅游业迎来自己种的果",
+        "onboard_time": 1763716823,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87768,
+        "num": 87768,
+        "word": "各省有各省自己的省饭",
+        "onboard_time": 1763717304,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 86528,
+        "num": 86528,
+        "word": "A股中长期向好趋势未改",
+        "onboard_time": 1763713041,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 72198,
+        "num": 86408,
+        "word": "狂野时代",
+        "onboard_time": 1763705962,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 33599,
+        "num": 86317,
+        "word": "人们不禁要问日本意欲何为",
+        "onboard_time": 1763712321,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}

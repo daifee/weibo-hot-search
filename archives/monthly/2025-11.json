@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763715016033,
+  "endTime": 1763717354705,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -57,6 +57,14 @@
       "onboard_time": 1762823541,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8650521,
+      "num": 8650521,
+      "word": "易梦玲称和胡彦斌海边视频是AI",
+      "onboard_time": 1763715441,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 8192449,
@@ -1809,6 +1817,14 @@
       "onboard_time": 1762408461,
       "rank": 1,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1033050,
+      "num": 370819,
+      "word": "易梦玲 胡彦斌",
+      "onboard_time": 1763696181,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1031397,
@@ -3763,14 +3779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 703029,
-      "num": 370819,
-      "word": "易梦玲 胡彦斌",
-      "onboard_time": 1763696181,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 702431,
       "num": 1099871,
       "word": "英国海边出现巨型海怪",
@@ -3953,6 +3961,14 @@
       "onboard_time": 1762155860,
       "rank": 1,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 689211,
+      "num": 173847,
+      "word": "kimi戴口罩好像易烊千玺",
+      "onboard_time": 1763715562,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 688837,
@@ -7899,6 +7915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 464593,
+      "num": 356321,
+      "word": "纠结女友过往性经历辱骂致其自杀",
+      "onboard_time": 1763710701,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464395,
       "num": 264781,
       "word": "警方通报华中农大一博士在校溺亡",
@@ -8081,14 +8105,6 @@
       "onboard_time": 1762243402,
       "rank": 18,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 455018,
-      "num": 356321,
-      "word": "纠结女友过往性经历辱骂致其自杀",
-      "onboard_time": 1763710701,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 454951,
@@ -10185,6 +10201,14 @@
       "onboard_time": 1762085241,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 385826,
+      "num": 255001,
+      "word": "六烊千玺",
+      "onboard_time": 1763716341,
+      "rank": 12,
+      "category": "电影"
     },
     {
       "raw_hot": 385374,
@@ -14148,7 +14172,7 @@
     },
     {
       "raw_hot": 294415,
-      "num": 274770,
+      "num": 280596,
       "word": "NS官宣Scout加入",
       "onboard_time": 1763708421,
       "rank": 16,
@@ -16857,6 +16881,14 @@
       "onboard_time": 1762920080,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 244989,
+      "num": 244989,
+      "word": "日本将琉球改为冲绳县",
+      "onboard_time": 1763714540,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 244943,
@@ -21211,6 +21243,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 198408,
+      "num": 198408,
+      "word": "原来11月也叫考研质变期",
+      "onboard_time": 1763716823,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 198378,
       "num": 198378,
       "word": "白鹿姜雪宁",
@@ -22561,14 +22601,6 @@
       "onboard_time": 1763086220,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 190312,
-      "num": 190312,
-      "word": "日本将琉球改为冲绳县",
-      "onboard_time": 1763714540,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 190248,
@@ -24811,6 +24843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 177127,
+      "num": 177127,
+      "word": "李施嬅第一次选了不分手",
+      "onboard_time": 1763715323,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177112,
       "num": 272760,
       "word": "鸣潮2.8版本前瞻",
@@ -26329,6 +26369,14 @@
       "onboard_time": 1763302764,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167325,
+      "num": 167325,
+      "word": "白鹿说去年许的愿老灵了",
+      "onboard_time": 1763716221,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 167308,
@@ -28875,6 +28923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 156490,
+      "num": 156490,
+      "word": "俄罗斯对等反制日本",
+      "onboard_time": 1763716282,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156481,
       "num": 156481,
       "word": "帮彭昱畅剥螃蟹的男人来蘑菇屋了",
@@ -29481,6 +29537,14 @@
       "onboard_time": 1762259120,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153796,
+      "num": 284331,
+      "word": "仅用0秒就嗑到的国漫cp",
+      "onboard_time": 1763716762,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 153736,
@@ -31817,6 +31881,14 @@
       "onboard_time": 1762611383,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 144199,
+      "num": 278429,
+      "word": "罗云熙又给内娱古装拉平均线了",
+      "onboard_time": 1763715862,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 144174,
@@ -36849,6 +36921,14 @@
       "onboard_time": 1763101282,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 127388,
+      "num": 127388,
+      "word": "左眼跳财右眼跳相信科学",
+      "onboard_time": 1763712621,
+      "rank": 41,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 127387,
@@ -42827,6 +42907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 112620,
+      "num": 166852,
+      "word": "双高胎实体投影",
+      "onboard_time": 1763716884,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112613,
       "num": 110041,
       "word": "王鹤棣回复董璇小酒窝",
@@ -43465,6 +43553,14 @@
       "onboard_time": 1763352562,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111170,
+      "num": 166663,
+      "word": "全运会最后一枚金牌",
+      "onboard_time": 1763716162,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 111130,
@@ -49971,6 +50067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97863,
+      "num": 97863,
+      "word": "李商隐是不是看过鬼灭之刃",
+      "onboard_time": 1763716762,
+      "rank": 42,
+      "category": "幽默,动漫"
+    },
+    {
       "raw_hot": 97857,
       "num": 232789,
       "word": "李峋和朱韵三周年了",
@@ -50841,6 +50945,14 @@
       "onboard_time": 1763469144,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96219,
+      "num": 96219,
+      "word": "恋猫脑",
+      "onboard_time": 1763717063,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 96121,
@@ -54563,6 +54675,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88905,
+      "num": 88905,
+      "word": "日本旅游业迎来自己种的果",
+      "onboard_time": 1763716823,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 88885,
       "num": 90971,
       "word": "全红婵无论胖瘦都压住了水花",
@@ -55137,6 +55257,14 @@
       "onboard_time": 1762396340,
       "rank": 41,
       "category": "教育"
+    },
+    {
+      "raw_hot": 87768,
+      "num": 87768,
+      "word": "各省有各省自己的省饭",
+      "onboard_time": 1763717304,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 87760,
@@ -60371,6 +60499,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75604,
+      "num": 166270,
+      "word": "抽中显卡实习生被公司暗示另谋高就",
+      "onboard_time": 1763715622,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75595,
       "num": 128630,
       "word": "水贝黄金零售价一天内大涨",
@@ -61073,6 +61209,14 @@
       "onboard_time": 1763015301,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73438,
+      "num": 135827,
+      "word": "踏歌行庐山",
+      "onboard_time": 1763717245,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73408,
@@ -64811,6 +64955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 59191,
+      "num": 149758,
+      "word": "酷滕 最会给天放写角色的人",
+      "onboard_time": 1763715622,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 59063,
       "num": 124834,
       "word": "邓亚萍解说混双金牌赛",
@@ -67963,6 +68115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44634,
+      "num": 176652,
+      "word": "与钟汉良一起贴贴",
+      "onboard_time": 1763715922,
+      "rank": 19,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 44623,
       "num": 100511,
       "word": "男子回应妻儿3人被发小杀害",
@@ -70185,6 +70345,14 @@
       "onboard_time": 1763162417,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 34847,
+      "num": 135355,
+      "word": "野猪卡南博门口护栏被夸有文化",
+      "onboard_time": 1763716162,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34789,
