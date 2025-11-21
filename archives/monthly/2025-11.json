@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763746876301,
+  "endTime": 1763750118480,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -67211,6 +67211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53115,
+      "num": 97732,
+      "word": "变形计张迪回应抛妻弃子",
+      "onboard_time": 1763746576,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 53109,
       "num": 180865,
       "word": "日本曾在台湾走到哪杀到哪",
@@ -71036,7 +71044,7 @@
     },
     {
       "raw_hot": 36945,
-      "num": 67986,
+      "num": 96663,
       "word": "彭小苒说好不好看观众自有判断",
       "onboard_time": 1763746037,
       "rank": 27,
@@ -72043,20 +72051,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 32965,
+      "num": 105811,
+      "word": "高市早苗被与英国最短命首相类比",
+      "onboard_time": 1763745318,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32923,
       "num": 72200,
       "word": "迈克尔杰克逊女儿已戒毒6年",
       "onboard_time": 1762967476,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32897,
-      "num": 67601,
-      "word": "变形计张迪回应抛妻弃子",
-      "onboard_time": 1763746576,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 32835,
@@ -72113,14 +72121,6 @@
       "onboard_time": 1762928899,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32704,
-      "num": 67557,
-      "word": "高市早苗被与英国最短命首相类比",
-      "onboard_time": 1763745318,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32642,
@@ -73617,6 +73617,14 @@
       "onboard_time": 1762228760,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 26731,
+      "num": 105426,
+      "word": "易烊千玺现身狂野时代北京首映礼",
+      "onboard_time": 1763749876,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 26718,

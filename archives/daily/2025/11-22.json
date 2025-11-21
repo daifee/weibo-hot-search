@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763746876301,
+  "endTime": 1763750118480,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -371,6 +371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53115,
+      "num": 97732,
+      "word": "变形计张迪回应抛妻弃子",
+      "onboard_time": 1763746576,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 52844,
       "num": 312462,
       "word": "汪苏泷又在忽悠别人上歌手了",
@@ -420,7 +428,7 @@
     },
     {
       "raw_hot": 36945,
-      "num": 67986,
+      "num": 96663,
       "word": "彭小苒说好不好看观众自有判断",
       "onboard_time": 1763746037,
       "rank": 27,
@@ -444,23 +452,15 @@
     },
     {
       "raw_hot": 33348,
-      "num": 67649,
+      "num": 96991,
       "word": "多方回应男生穿裙戴假发夺冠成绩无效",
       "onboard_time": 1763732542,
       "rank": 42,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32897,
-      "num": 67601,
-      "word": "变形计张迪回应抛妻弃子",
-      "onboard_time": 1763746576,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 32704,
-      "num": 67557,
+      "raw_hot": 32965,
+      "num": 105811,
       "word": "高市早苗被与英国最短命首相类比",
       "onboard_time": 1763745318,
       "rank": 46,
@@ -475,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26731,
+      "num": 105426,
+      "word": "易烊千玺现身狂野时代北京首映礼",
+      "onboard_time": 1763749876,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 22669,
+      "num": 96831,
+      "word": "印度光辉战机表演时坠毁",
+      "onboard_time": 1763723063,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19078,
       "num": 356468,
       "word": "这26秒科技感直接拉满",
       "onboard_time": 1763717003,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 18635,
+      "num": 96589,
+      "word": "狂野时代首映口碑",
+      "onboard_time": 1763733922,
+      "rank": 46,
+      "category": "电影"
     }
   ],
   "hotgov_list": [
