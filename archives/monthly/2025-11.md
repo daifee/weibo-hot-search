@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 13:27:42
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/21 13:43:44
 </p>
 </blockquote>
 <p>
@@ -2373,6 +2373,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C100%E4%BB%B6%E5%B0%8F%E4%BA%8B%E6%98%93%E6%A2%A6%E7%8E%B2%E7%9C%8B%E8%BF%9B%E5%8E%BB%E4%BA%86%23" target="weibo">
+胡彦斌100件小事易梦玲看进去了（热度：769784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%92%A4%E6%A1%A3%E7%88%B1%E6%83%85%E6%B2%A1%E6%9C%89%E7%A5%9E%E8%AF%9D%23" target="weibo">
 央视撤档爱情没有神话（热度：769325）
 </a>
@@ -3581,12 +3587,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8C%83%E4%B8%9E%E4%B8%9E%E7%99%BD%E9%B9%BF%E8%B7%B3%E4%BA%86obsession%23" target="weibo">
 范丞丞白鹿跳了obsession（热度：624227）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C100%E4%BB%B6%E5%B0%8F%E4%BA%8B%E6%98%93%E6%A2%A6%E7%8E%B2%E7%9C%8B%E8%BF%9B%E5%8E%BB%E4%BA%86%23" target="weibo">
-胡彦斌100件小事易梦玲看进去了（热度：623178）
 </a>
 </li>
 
@@ -4953,6 +4953,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%87%E7%B1%B3%E8%B7%91%E5%86%A0%E5%86%9B%E8%A2%AB%E5%8F%96%E6%B6%88%E9%87%91%E7%89%8C%23" target="weibo">
+全运会万米跑冠军被取消金牌（热度：517205）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E8%87%AA%E6%9B%9D%E6%83%B3%E6%94%B9%E9%81%97%E5%98%B1%23" target="weibo">
 向太自曝想改遗嘱（热度：516768）
 </a>
@@ -5255,6 +5261,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E6%94%BE%E7%94%9F%E8%87%B4%E5%A4%A7%E9%87%8F%E7%8C%AB%E5%92%AA%E8%90%BD%E6%B0%B4%23" target="weibo">
 水库附近放生致大量猫咪落水（热度：498708）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%9B%A0%E4%B8%BA%E5%86%85%E8%80%97%E4%B8%80%E6%99%9A%E4%B8%8A%E9%83%BD%E6%B2%A1%E9%97%AD%E7%9C%BC%23" target="weibo">
+小狗因为内耗一晚上都没闭眼（热度：497508）
 </a>
 </li>
 
@@ -5757,12 +5769,6 @@ Gumayusi HLE（热度：476338）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%9B%A0%E4%B8%BA%E5%86%85%E8%80%97%E4%B8%80%E6%99%9A%E4%B8%8A%E9%83%BD%E6%B2%A1%E9%97%AD%E7%9C%BC%23" target="weibo">
-小狗因为内耗一晚上都没闭眼（热度：469681）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%AF%AF%E8%AF%8A%E7%9F%AE%E5%B0%8F%E7%97%87%E6%89%93%E4%BA%862940%E9%92%88%23" target="weibo">
 14岁男孩被误诊矮小症打了2940针（热度：469610）
 </a>
@@ -5999,12 +6005,6 @@ TFBOYS发文恭喜刘春和（热度：466139）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%A5%BA%E7%9A%87%E5%90%8E%20%E7%B3%96%E6%B0%B4%E4%BC%AF%23" target="weibo">
 水饺皇后 糖水伯（热度：457304）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E4%B8%87%E7%B1%B3%E8%B7%91%E5%86%A0%E5%86%9B%E8%A2%AB%E5%8F%96%E6%B6%88%E9%87%91%E7%89%8C%23" target="weibo">
-全运会万米跑冠军被取消金牌（热度：457018）
 </a>
 </li>
 

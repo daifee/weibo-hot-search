@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763702862598,
+  "endTime": 1763703824062,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -1051,6 +1051,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 769784,
+      "num": 194230,
+      "word": "胡彦斌100件小事易梦玲看进去了",
+      "onboard_time": 1763700622,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 768523,
       "num": 768523,
       "word": "枭起青壤",
@@ -1465,14 +1473,6 @@
       "onboard_time": 1763523199,
       "rank": 35,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 623178,
-      "num": 192917,
-      "word": "胡彦斌100件小事易梦玲看进去了",
-      "onboard_time": 1763700622,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 622510,
@@ -2075,6 +2075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 517205,
+      "num": 1082752,
+      "word": "全运会万米跑冠军被取消金牌",
+      "onboard_time": 1763701163,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 516460,
       "num": 516460,
       "word": "日本反对日本",
@@ -2177,6 +2185,14 @@
       "onboard_time": 1763383402,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 497508,
+      "num": 244301,
+      "word": "小狗因为内耗一晚上都没闭眼",
+      "onboard_time": 1763698521,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 496303,
@@ -2371,14 +2387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 469681,
-      "num": 244301,
-      "word": "小狗因为内耗一晚上都没闭眼",
-      "onboard_time": 1763698521,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 469279,
       "num": 202918,
       "word": "罗志祥曾考虑和经纪人登记结婚",
@@ -2497,14 +2505,6 @@
       "onboard_time": 1763462123,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 457018,
-      "num": 457018,
-      "word": "全运会万米跑冠军被取消金牌",
-      "onboard_time": 1763701163,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 455933,
@@ -4579,6 +4579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 288417,
+      "num": 207899,
+      "word": "何赛飞爆料有演员整容整到认不出来",
+      "onboard_time": 1763700682,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 288378,
       "num": 224791,
       "word": "Gumayusi直播谈离开T1",
@@ -4931,6 +4939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 266808,
+      "num": 193599,
+      "word": "四大天王私下全都不接电话",
+      "onboard_time": 1763703020,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 266678,
       "num": 266678,
       "word": "张展硕第5金",
@@ -4945,6 +4961,14 @@
       "onboard_time": 1763354301,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 265833,
+      "num": 222276,
+      "word": "猫咪以为烫头的主人是生气炸毛了",
+      "onboard_time": 1763701102,
+      "rank": 14,
+      "category": "幽默"
     },
     {
       "raw_hot": 265698,
@@ -5443,6 +5467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 237159,
+      "num": 192605,
+      "word": "樊振东一怒之下怒了一下",
+      "onboard_time": 1763701163,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 236901,
       "num": 211162,
       "word": "孙颖莎说人生总要有遗憾",
@@ -5811,14 +5843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 222276,
-      "num": 222276,
-      "word": "猫咪以为烫头的主人是生气炸毛了",
-      "onboard_time": 1763701102,
-      "rank": 14,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221136,
       "num": 221136,
       "word": "樊振东4届全运会代表3个队",
@@ -5857,14 +5881,6 @@
       "onboard_time": 1763596883,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219405,
-      "num": 192605,
-      "word": "樊振东一怒之下怒了一下",
-      "onboard_time": 1763701163,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 219193,
@@ -6603,6 +6619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198699,
+      "num": 198699,
+      "word": "易烊千玺主演电影预售票房全部破亿",
+      "onboard_time": 1763700201,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 198650,
       "num": 282245,
       "word": "疯狂动物城2演员配音是抢活吗",
@@ -6744,14 +6768,6 @@
       "word": "易烊千玺阿波罗预告",
       "onboard_time": 1763442800,
       "rank": 23,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 195548,
-      "num": 195548,
-      "word": "易烊千玺主演电影预售票房全部破亿",
-      "onboard_time": 1763700201,
-      "rank": 46,
       "category": "电影"
     },
     {
@@ -6977,6 +6993,14 @@
       "onboard_time": 1763217149,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 191117,
+      "num": 191117,
+      "word": "鹿晗 馒头真不能再吃了",
+      "onboard_time": 1763703681,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 190966,
@@ -8739,6 +8763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160326,
+      "num": 160326,
+      "word": "曝Xun重回BLG原因",
+      "onboard_time": 1763702840,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160122,
       "num": 192505,
       "word": "任嘉伦哭戏",
@@ -9211,6 +9243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 154643,
+      "num": 197072,
+      "word": "四个大人",
+      "onboard_time": 1763702481,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 154323,
       "num": 154323,
       "word": "租的房间很小又要请朋友做客时",
@@ -9289,14 +9329,6 @@
       "onboard_time": 1763364381,
       "rank": 43,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 152915,
-      "num": 138040,
-      "word": "何赛飞爆料有演员整容整到认不出来",
-      "onboard_time": 1763700682,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 152836,
@@ -9617,6 +9649,14 @@
       "onboard_time": 1763699901,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 149120,
+      "num": 149120,
+      "word": "林依轮刘宇宁 法拉利和法拉利",
+      "onboard_time": 1763703141,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 148809,
@@ -10307,14 +10347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 140381,
-      "num": 140381,
-      "word": "四个大人",
-      "onboard_time": 1763702481,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 140379,
       "num": 220241,
       "word": "唐诡3今天上当的只有我",
@@ -10905,6 +10937,14 @@
       "onboard_time": 1763349742,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132656,
+      "num": 132656,
+      "word": "日本利用小熊引诱射杀母熊",
+      "onboard_time": 1763702961,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132544,
@@ -12491,6 +12531,22 @@
       "category": "财经"
     },
     {
+      "raw_hot": 117707,
+      "num": 117707,
+      "word": "路人偶遇秦昊徐志胜在成都吵架",
+      "onboard_time": 1763703621,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117620,
+      "num": 117620,
+      "word": "日本核爆记忆换不来和平主义",
+      "onboard_time": 1763703201,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117616,
       "num": 117616,
       "word": "电影蛮荒禁地",
@@ -12504,6 +12560,14 @@
       "word": "沈腾问范丞丞什么叫直拍",
       "onboard_time": 1763446222,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117602,
+      "num": 117602,
+      "word": "papi说梁淞38岁了还成长",
+      "onboard_time": 1763703201,
+      "rank": 46,
       "category": "综艺"
     },
     {
@@ -12921,14 +12985,6 @@
       "onboard_time": 1763470104,
       "rank": 46,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 113702,
-      "num": 113702,
-      "word": "曝Xun重回BLG原因",
-      "onboard_time": 1763702840,
-      "rank": 47,
-      "category": "电竞"
     },
     {
       "raw_hot": 113655,
@@ -14011,6 +14067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103515,
+      "num": 191214,
+      "word": "山东全运会49金53银41铜",
+      "onboard_time": 1763703020,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103418,
       "num": 103418,
       "word": "马龙发博称完美",
@@ -14129,6 +14193,22 @@
       "onboard_time": 1763537661,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 102334,
+      "num": 132658,
+      "word": "刘嘉玲被忽悠吃了生鸡血",
+      "onboard_time": 1763703741,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 102308,
+      "num": 102308,
+      "word": "宁静 不要批判别人搞医美",
+      "onboard_time": 1763703561,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 102187,
@@ -14297,6 +14377,14 @@
       "onboard_time": 1763465482,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 99468,
+      "num": 99468,
+      "word": "音综有自己的孟宴臣",
+      "onboard_time": 1763703800,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 99447,
@@ -16115,6 +16203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72237,
+      "num": 198253,
+      "word": "天籁12.99万起全系标配鸿蒙座舱5",
+      "onboard_time": 1763703261,
+      "rank": 16,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72229,
       "num": 267418,
       "word": "大润发未开封鸡蛋面有多条活虫",
@@ -17659,6 +17755,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 44210,
+      "num": 132684,
+      "word": "刘嘉玲 这是我们中国的美学",
+      "onboard_time": 1763703261,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 43935,
       "num": 121184,
       "word": "花少在我心中成为第一的理由",
@@ -17913,6 +18017,14 @@
       "onboard_time": 1763695460,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40076,
+      "num": 195437,
+      "word": "男子恋爱5年不知女友有俩娃",
+      "onboard_time": 1763703382,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40068,
@@ -19763,6 +19875,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 12921,
+      "num": 196729,
+      "word": "两千保省奖八千保国奖",
+      "onboard_time": 1763703382,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12906,
       "num": 172305,
       "word": "男子买到高铁上不存在的座位",
@@ -19777,6 +19897,14 @@
       "onboard_time": 1763401456,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12709,
+      "num": 132813,
+      "word": "美客机与探空气球空中相撞",
+      "onboard_time": 1763703442,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 12118,
