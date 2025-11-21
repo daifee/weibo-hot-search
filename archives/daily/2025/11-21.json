@@ -1,10 +1,10 @@
 {
   "startTime": 1763656530484,
-  "endTime": 1763710839845,
+  "endTime": 1763714232740,
   "band_list": [
     {
       "raw_hot": 1589938,
-      "num": 259273,
+      "num": 336402,
       "word": "鹿晗 馒头真不能再吃了",
       "onboard_time": 1763703681,
       "rank": 30,
@@ -35,6 +35,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 992968,
+      "num": 359014,
+      "word": "同事为了请假已经不择手段了",
+      "onboard_time": 1763708901,
+      "rank": 27,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 923150,
       "num": 378660,
       "word": "唐嫣",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 863543,
-      "num": 278113,
+      "num": 357799,
       "word": "发个朋友圈680人不可见",
       "onboard_time": 1763708180,
       "rank": 10,
@@ -83,8 +91,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 797835,
+      "num": 335889,
+      "word": "女子一分钟内跳楼两次被救",
+      "onboard_time": 1763712141,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 769784,
-      "num": 253132,
+      "num": 324679,
       "word": "胡彦斌100件小事易梦玲看进去了",
       "onboard_time": 1763700622,
       "rank": 22,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 608604,
-      "num": 277767,
+      "num": 356427,
       "word": "汪苏泷信息量好大的一场直播",
       "onboard_time": 1763709260,
       "rank": 11,
@@ -243,6 +259,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 450722,
+      "num": 355519,
+      "word": "纠结女友过往性经历辱骂致其自杀",
+      "onboard_time": 1763710701,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 425287,
       "num": 270622,
       "word": "王楚钦说樊振东实在太强了",
@@ -347,6 +371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 366198,
+      "num": 366198,
+      "word": "中国军网海外发布一切就绪",
+      "onboard_time": 1763707700,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 365482,
       "num": 214080,
       "word": "完播率200%的广告出现了",
@@ -361,6 +393,14 @@
       "onboard_time": 1763690240,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 354946,
+      "num": 354946,
+      "word": "王俊凯 熟男味",
+      "onboard_time": 1763712202,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 352368,
@@ -419,16 +459,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 330838,
-      "num": 275126,
-      "word": "中国军网海外发布一切就绪",
-      "onboard_time": 1763707700,
-      "rank": 28,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 328901,
-      "num": 274344,
+      "num": 352389,
       "word": "梁淞说何美延又坏又蠢",
       "onboard_time": 1763708662,
       "rank": 17,
@@ -444,19 +476,11 @@
     },
     {
       "raw_hot": 321101,
-      "num": 321101,
+      "num": 360741,
       "word": "繁花团6个人吃了1826元",
       "onboard_time": 1763704941,
       "rank": 5,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320585,
-      "num": 207494,
-      "word": "同事为了请假已经不择手段了",
-      "onboard_time": 1763708901,
-      "rank": 27,
-      "category": "幽默"
     },
     {
       "raw_hot": 313311,
@@ -499,12 +523,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 293025,
+      "num": 293025,
+      "word": "杨紫又酷又辣",
+      "onboard_time": 1763708662,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292741,
       "num": 276709,
       "word": "马龙王楚钦黄友政夺冠",
       "onboard_time": 1763642905,
       "rank": 6,
       "category": "体育"
+    },
+    {
+      "raw_hot": 285647,
+      "num": 363237,
+      "word": "成毅暂无参加活动计划",
+      "onboard_time": 1763712500,
+      "rank": 5,
+      "category": "艺人"
     },
     {
       "raw_hot": 280502,
@@ -521,14 +561,6 @@
       "onboard_time": 1763651483,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 268695,
-      "num": 206113,
-      "word": "杨紫又酷又辣",
-      "onboard_time": 1763708662,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 267086,
@@ -601,6 +633,22 @@
       "onboard_time": 1763701163,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 235953,
+      "num": 235953,
+      "word": "徐志胜气笑李诞名场面",
+      "onboard_time": 1763712442,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231127,
+      "num": 330350,
+      "word": "王一博岩究中",
+      "onboard_time": 1763712861,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 222339,
@@ -691,12 +739,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196912,
+      "num": 196912,
+      "word": "A股中长期向好趋势未改",
+      "onboard_time": 1763713041,
+      "rank": 32,
+      "category": "财经"
+    },
+    {
       "raw_hot": 193792,
       "num": 170863,
       "word": "满心期待当外婆女儿却在家门口被杀",
       "onboard_time": 1763680819,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189844,
+      "num": 189844,
+      "word": "原来减速带不光对车有用",
+      "onboard_time": 1763713461,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 188432,
@@ -747,12 +811,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 178157,
+      "num": 178157,
+      "word": "林宥嘉汪苏泷合照",
+      "onboard_time": 1763713521,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 173466,
       "num": 192633,
       "word": "王俊凯南京活动",
       "onboard_time": 1763705781,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170170,
+      "num": 327918,
+      "word": "华为乾崑智驾开启多城L3内测",
+      "onboard_time": 1763712261,
+      "rank": 23,
+      "category": "汽车"
     },
     {
       "raw_hot": 170018,
@@ -771,6 +851,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 168679,
+      "num": 362398,
+      "word": "狂野时代首映礼",
+      "onboard_time": 1763712861,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 167604,
       "num": 167604,
       "word": "樊振东3比1胜王楚钦",
@@ -785,6 +873,14 @@
       "onboard_time": 1763707220,
       "rank": 32,
       "category": "网红"
+    },
+    {
+      "raw_hot": 164828,
+      "num": 164828,
+      "word": "樊振东被许昕的运气论笑喷",
+      "onboard_time": 1763710580,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 163207,
@@ -883,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 149841,
+      "num": 149841,
+      "word": "每个考研人都有自己的crush",
+      "onboard_time": 1763713941,
+      "rank": 43,
+      "category": "教育"
+    },
+    {
       "raw_hot": 149130,
       "num": 149130,
       "word": "伊朗宣布开罗协议不再有效",
@@ -939,6 +1043,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 140335,
+      "num": 140335,
+      "word": "俄外交部发日本投降画面",
+      "onboard_time": 1763713340,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 139588,
       "num": 203533,
       "word": "苏炳添最后一舞",
@@ -953,6 +1065,14 @@
       "onboard_time": 1763694620,
       "rank": 20,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137892,
+      "num": 143489,
+      "word": "沈腾包场易烊千玺狂野时代",
+      "onboard_time": 1763710461,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 136727,
@@ -1011,8 +1131,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 129411,
-      "num": 278907,
+      "raw_hot": 129964,
+      "num": 361110,
       "word": "中方就港口事宜回击美国",
       "onboard_time": 1763708840,
       "rank": 9,
@@ -1187,14 +1307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 117231,
-      "num": 117231,
-      "word": "纠结女友过往性经历辱骂致其自杀",
-      "onboard_time": 1763710701,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117079,
       "num": 269796,
       "word": "央视曝造谣式起号",
@@ -1219,12 +1331,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 111880,
-      "num": 129321,
-      "word": "沈腾包场易烊千玺狂野时代",
-      "onboard_time": 1763710461,
-      "rank": 39,
-      "category": "电影"
+      "raw_hot": 114598,
+      "num": 138501,
+      "word": "唐诡3就这个提更加更爽",
+      "onboard_time": 1763711002,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 111805,
@@ -1539,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85511,
+      "num": 172595,
+      "word": "Peyz换掉GEN头像",
+      "onboard_time": 1763714062,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83380,
       "num": 262893,
       "word": "丰田铂智7首次全量发布",
@@ -1612,7 +1732,7 @@
     },
     {
       "raw_hot": 77015,
-      "num": 214569,
+      "num": 356746,
       "word": "古天乐重现项少龙名场面",
       "onboard_time": 1763710400,
       "rank": 14,
@@ -1633,6 +1753,14 @@
       "onboard_time": 1763689040,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75564,
+      "num": 174856,
+      "word": "日方应该立即收回错误言论",
+      "onboard_time": 1763713999,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75468,
@@ -1851,6 +1979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 56625,
+      "num": 343954,
+      "word": "俄称日本走向军国主义结局已注定",
+      "onboard_time": 1763713281,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 56024,
       "num": 70365,
       "word": "彭小苒 翻车一定比翻红快",
@@ -1931,6 +2067,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 49627,
+      "num": 245215,
+      "word": "人们不禁要问日本意欲何为",
+      "onboard_time": 1763712321,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 49222,
       "num": 155628,
       "word": "猪 头一次有这么多人为我拼命",
@@ -1961,6 +2105,14 @@
       "onboard_time": 1763694080,
       "rank": 39,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 44541,
+      "num": 173447,
+      "word": "近一半香港高才放弃续签",
+      "onboard_time": 1763713221,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44210,
@@ -2147,6 +2299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 29300,
+      "num": 340181,
+      "word": "一秒进入智能温暖结界",
+      "onboard_time": 1763712261,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 28690,
       "num": 398497,
       "word": "一人一句为中国体育加油",
@@ -2160,6 +2320,14 @@
       "word": "号码无故停机解封要提供工作证明",
       "onboard_time": 1763690479,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26687,
+      "num": 348458,
+      "word": "在德中毒华人以为食物发酸是当地特色",
+      "onboard_time": 1763713281,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -2265,6 +2433,14 @@
       "onboard_time": 1763703442,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12585,
+      "num": 173665,
+      "word": "父母高速上打架10岁娃报警求助",
+      "onboard_time": 1763713760,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11876,
