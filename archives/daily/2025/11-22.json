@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763750118480,
+  "endTime": 1763750848464,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -451,20 +451,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33393,
+      "num": 105811,
+      "word": "高市早苗被与英国最短命首相类比",
+      "onboard_time": 1763745318,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33348,
       "num": 96991,
       "word": "多方回应男生穿裙戴假发夺冠成绩无效",
       "onboard_time": 1763732542,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 32965,
-      "num": 105811,
-      "word": "高市早苗被与英国最短命首相类比",
-      "onboard_time": 1763745318,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 31384,
@@ -483,7 +483,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 22669,
+      "raw_hot": 23956,
       "num": 96831,
       "word": "印度光辉战机表演时坠毁",
       "onboard_time": 1763723063,
@@ -505,6 +505,14 @@
       "onboard_time": 1763733922,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 16840,
+      "num": 83662,
+      "word": "好久没见邓超唱歌了",
+      "onboard_time": 1763750175,
+      "rank": 46,
+      "category": "音乐"
     }
   ],
   "hotgov_list": [

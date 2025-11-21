@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763750118480,
+  "endTime": 1763750848464,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -20491,6 +20491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 33393,
+      "num": 105811,
+      "word": "高市早苗被与英国最短命首相类比",
+      "onboard_time": 1763745318,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33318,
       "num": 124689,
       "word": "张子枫配合黄磊何炅给嘉宾下套",
@@ -20545,14 +20553,6 @@
       "onboard_time": 1763239333,
       "rank": 24,
       "category": "电影"
-    },
-    {
-      "raw_hot": 32965,
-      "num": 105811,
-      "word": "高市早苗被与英国最短命首相类比",
-      "onboard_time": 1763745318,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32814,
@@ -21793,6 +21793,14 @@
       "onboard_time": 1763488756,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 16840,
+      "num": 83662,
+      "word": "好久没见邓超唱歌了",
+      "onboard_time": 1763750175,
+      "rank": 46,
+      "category": "音乐"
     },
     {
       "raw_hot": 16764,
