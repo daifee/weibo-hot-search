@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/23 02:35:28
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/23 02:47:48
 </p>
 </blockquote>
 <p>
@@ -351,6 +351,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%9C%89%E9%92%B1%E4%BA%BA%E9%80%9B%E5%A5%A2%E4%BE%88%E5%93%81%E5%BA%97%E7%9A%84%E6%84%9F%E8%A7%89%E5%90%A7%23" target="weibo">
+这就是有钱人逛奢侈品店的感觉吧（热度：31158）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E3%E6%AF%940%E5%8D%97%E4%BA%AC%23" target="weibo">
 苏州3比0南京（热度：28903）
 </a>
@@ -369,20 +375,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B0%B1%E6%98%AF%E6%9C%89%E9%92%B1%E4%BA%BA%E9%80%9B%E5%A5%A2%E4%BE%88%E5%93%81%E5%BA%97%E7%9A%84%E6%84%9F%E8%A7%89%E5%90%A7%23" target="weibo">
-这就是有钱人逛奢侈品店的感觉吧（热度：23142）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB2025%E8%B5%9B%E5%AD%A3%23" target="weibo">
-吴艳妮发文告别2025赛季（热度：20295）
+吴艳妮发文告别2025赛季（热度：21148）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%9C%895%E7%A7%8D%E8%AF%AD%E8%A8%80%23" target="weibo">
-爱有5种语言（热度：17401）
+爱有5种语言（热度：19794）
 </a>
 </li>
 
