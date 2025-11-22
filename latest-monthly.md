@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 22:23:22
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 22:39:52
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ KT战胜GEN（热度：2334332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23" target="weibo">
+张家齐宣布退役（热度：2134921）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BA%9A%E5%86%9B%23" target="weibo">
 孙颖莎亚军（热度：2086417）
 </a>
@@ -371,12 +377,6 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%96%8A%E8%AF%9D%E6%B7%98%E5%AE%9D%E6%AC%BA%E9%AA%97%E6%B6%88%E8%B4%B9%E8%80%85%23" target="weibo">
 刘嘉玲喊话淘宝欺骗消费者（热度：1986624）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%AE%B6%E9%BD%90%E5%AE%A3%E5%B8%83%E9%80%80%E5%BD%B9%23" target="weibo">
-张家齐宣布退役（热度：1938656）
 </a>
 </li>
 
@@ -1167,6 +1167,12 @@ FPX退出LPL（热度：1177968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E6%B3%BD%E4%BB%81%E5%94%AF%E4%B8%80%E7%9A%84%E5%A7%90%E9%81%93%E6%AD%89%23" target="weibo">
+丁泽仁唯一的姐道歉（热度：1162577）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%993%E6%AF%940%E5%91%A8%E6%81%BA%23" target="weibo">
 马龙3比0周恺（热度：1162393）
 </a>
@@ -1929,12 +1935,6 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E6%B3%BD%E4%BB%81%E5%94%AF%E4%B8%80%E7%9A%84%E5%A7%90%E9%81%93%E6%AD%89%23" target="weibo">
-丁泽仁唯一的姐道歉（热度：881392）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8FS%E4%BA%8C%E5%A5%B3%E5%84%BF%E8%B0%88%E5%85%B7%E4%BF%8A%E6%99%94%E6%9A%B4%E7%98%A6%23" target="weibo">
 小S二女儿谈具俊晔暴瘦（热度：881192）
 </a>
@@ -2387,6 +2387,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%96%8A%E8%AF%9D%E5%BD%AD%E7%91%BE%23" target="weibo">
 白百何喊话彭瑾（热度：796447）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%23" target="weibo">
+日本已付出代价（热度：794699）
 </a>
 </li>
 
@@ -4005,12 +4011,6 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%23" target="weibo">
-日本已付出代价（热度：612101）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%20%E9%83%9D%E8%95%BE%E8%A1%A8%E6%BC%94%E8%AE%AD%E7%BB%83%E8%90%A5%23" target="weibo">
 胡彦斌易梦玲 郝蕾表演训练营（热度：611452）
 </a>
@@ -5277,6 +5277,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90762%E5%85%83%E4%B9%B020%E5%A4%9A%E4%BB%B6%E5%95%86%E5%93%81%E8%95%89%E5%86%85%E6%8B%92%E5%8F%91%E8%B4%A7%23" target="weibo">
+男子762元买20多件商品蕉内拒发货（热度：522206）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E5%87%8C%E5%9B%9E%E5%A4%8D%E5%91%A8%E6%9D%B0%E4%BC%A6%23" target="weibo">
 昆凌回复周杰伦（热度：521699）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E6%B0%B4%E6%9D%AF%E7%8E%B0%E4%B8%8D%E6%98%8E%E6%B6%B2%E4%BD%93%E8%AD%A6%E6%96%B9%E9%94%81%E5%AE%9A%E7%94%B7%E5%90%8C%E4%BA%8B%23" target="weibo">
 女子水杯现不明液体警方锁定男同事（热度：481318）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E4%B8%80%E5%87%B6%E5%AE%8530%E4%BA%BA%E4%BA%89%E6%8A%A2699.8%E4%B8%87%E5%85%83%E6%8B%8D%E5%87%BA%23" target="weibo">
-深圳一凶宅30人争抢699.8万元拍出（热度：480899）
 </a>
 </li>
 
