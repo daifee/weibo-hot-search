@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763851294624,
+  "endTime": 1763853936672,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 624059,
-      "num": 624059,
+      "num": 766093,
       "word": "日本已付出代价",
       "onboard_time": 1763816722,
       "rank": 3,
@@ -155,6 +155,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199490,
+      "num": 243458,
+      "word": "郭碧婷爸爸回应向佐去医院看过他2次",
+      "onboard_time": 1763822182,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 194357,
       "num": 355700,
       "word": "许我耀眼热度",
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 148927,
-      "num": 43929,
+      "num": 94929,
       "word": "胡彦斌老粉",
       "onboard_time": 1763833637,
       "rank": 20,
@@ -225,14 +233,6 @@
       "onboard_time": 1763800341,
       "rank": 26,
       "category": "电影"
-    },
-    {
-      "raw_hot": 132002,
-      "num": 243458,
-      "word": "郭碧婷爸爸回应向佐去医院看过他2次",
-      "onboard_time": 1763822182,
-      "rank": 27,
-      "category": "艺人"
     },
     {
       "raw_hot": 126673,
@@ -299,6 +299,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103795,
+      "num": 196766,
+      "word": "肖战第一次过这么冷的冬天",
+      "onboard_time": 1763829621,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 103665,
+      "num": 94101,
+      "word": "妈妈以为我在上海农村过得很差",
+      "onboard_time": 1763853497,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 98498,
       "num": 241905,
       "word": "贺峻霖换衣服了",
@@ -315,20 +331,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 98084,
+      "num": 241131,
+      "word": "身体好寿命长的人睡觉有5个特征",
+      "onboard_time": 1763819483,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 96701,
       "num": 241314,
       "word": "枭起青壤热度",
       "onboard_time": 1763808800,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 96367,
-      "num": 241131,
-      "word": "身体好寿命长的人睡觉有5个特征",
-      "onboard_time": 1763819483,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 82661,
@@ -347,14 +363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 74299,
-      "num": 196766,
-      "word": "肖战第一次过这么冷的冬天",
-      "onboard_time": 1763829621,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 73644,
       "num": 240692,
       "word": "枭起青壤 尾鱼",
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 73605,
-      "num": 73605,
+      "num": 93902,
       "word": "乌士兵跪求俄军无人机饶命",
       "onboard_time": 1763830459,
       "rank": 33,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 67256,
-      "num": 45167,
+      "num": 94656,
       "word": "这就是有钱人逛奢侈品店的感觉吧",
       "onboard_time": 1763836095,
       "rank": 47,
@@ -411,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54867,
+      "num": 95778,
+      "word": "美国威胁乌克兰",
+      "onboard_time": 1763846593,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53715,
       "num": 240281,
       "word": "宋雨琦发的白鹿",
@@ -419,20 +435,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47782,
+      "raw_hot": 47888,
       "num": 196760,
       "word": "奔跑吧开播",
       "onboard_time": 1763814742,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 45432,
-      "num": 45432,
-      "word": "美国威胁乌克兰",
-      "onboard_time": 1763846593,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43376,
@@ -441,6 +449,14 @@
       "onboard_time": 1763830339,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41399,
+      "num": 95423,
+      "word": "高市错误言论违反国际法",
+      "onboard_time": 1763849174,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 40275,
@@ -467,20 +483,44 @@
       "category": "军事"
     },
     {
+      "raw_hot": 35886,
+      "num": 95405,
+      "word": "跑男",
+      "onboard_time": 1763850254,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31152,
+      "num": 93480,
+      "word": "ALin黑丝界最权威的女人",
+      "onboard_time": 1763847074,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 30968,
+      "num": 93196,
+      "word": "缅甸谴责高市早苗",
+      "onboard_time": 1763841314,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 29389,
+      "num": 93103,
+      "word": "赤木刚宪瘦了60斤",
+      "onboard_time": 1763818883,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28903,
       "num": 196757,
       "word": "苏州3比0南京",
       "onboard_time": 1763822782,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 28457,
-      "num": 43209,
-      "word": "赤木刚宪瘦了60斤",
-      "onboard_time": 1763818883,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 25264,
@@ -491,16 +531,24 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24074,
-      "num": 43081,
-      "word": "缅甸谴责高市早苗",
-      "onboard_time": 1763841314,
-      "rank": 19,
+      "raw_hot": 23843,
+      "num": 92480,
+      "word": "柬埔寨劫囚案9小时全员落网",
+      "onboard_time": 1763841494,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23306,
+      "num": 92116,
+      "word": "俄乌继续争夺红军城",
+      "onboard_time": 1763845154,
+      "rank": 39,
       "category": "国际时政"
     },
     {
       "raw_hot": 21148,
-      "num": 42794,
+      "num": 91750,
       "word": "吴艳妮发文告别2025赛季",
       "onboard_time": 1763833516,
       "rank": 39,
@@ -508,27 +556,11 @@
     },
     {
       "raw_hot": 20366,
-      "num": 42812,
+      "num": 91875,
       "word": "爱有5种语言",
       "onboard_time": 1763834236,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19097,
-      "num": 43050,
-      "word": "ALin黑丝界最权威的女人",
-      "onboard_time": 1763847074,
-      "rank": 48,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 18648,
-      "num": 43014,
-      "word": "俄乌继续争夺红军城",
-      "onboard_time": 1763845154,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18415,
@@ -537,30 +569,6 @@
       "onboard_time": 1763842994,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 16293,
-      "num": 43011,
-      "word": "柬埔寨劫囚案9小时全员落网",
-      "onboard_time": 1763841494,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 15598,
-      "num": 42974,
-      "word": "跑男",
-      "onboard_time": 1763850254,
-      "rank": 46,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 15068,
-      "num": 42922,
-      "word": "高市错误言论违反国际法",
-      "onboard_time": 1763849174,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13816,
