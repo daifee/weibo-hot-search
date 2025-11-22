@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763844094582,
+  "endTime": 1763846628755,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24074,
+      "num": 29937,
+      "word": "缅甸谴责高市早苗",
+      "onboard_time": 1763841314,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21148,
       "num": 42766,
       "word": "吴艳妮发文告别2025赛季",
@@ -499,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19857,
-      "num": 29937,
-      "word": "缅甸谴责高市早苗",
-      "onboard_time": 1763841314,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18415,
       "num": 29939,
       "word": "黄子弘凡演唱会",
@@ -515,12 +515,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 11127,
+      "raw_hot": 13941,
       "num": 29780,
       "word": "柬埔寨劫囚案9小时全员落网",
       "onboard_time": 1763841494,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 12803,
+      "num": 29068,
+      "word": "俄乌继续争夺红军城",
+      "onboard_time": 1763845154,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 9736,
+      "num": 29044,
+      "word": "美国威胁乌克兰",
+      "onboard_time": 1763846593,
+      "rank": 48,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
