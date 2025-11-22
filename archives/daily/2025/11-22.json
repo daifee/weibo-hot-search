@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763811465769,
+  "endTime": 1763815591646,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2534597,
-      "num": 294005,
+      "num": 344082,
       "word": "胡彦斌 没有义务向全世界汇报",
       "onboard_time": 1763774421,
       "rank": 20,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 1193523,
-      "num": 327360,
+      "num": 344968,
       "word": "易烊千玺吻戏",
       "onboard_time": 1763798180,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1032948,
+      "num": 509767,
+      "word": "枭起青壤 突脸",
+      "onboard_time": 1763809761,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 992844,
@@ -65,6 +73,14 @@
       "onboard_time": 1763781800,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 965633,
+      "num": 349847,
+      "word": "香蜜转场又火了",
+      "onboard_time": 1763813843,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 941055,
@@ -76,7 +92,7 @@
     },
     {
       "raw_hot": 868972,
-      "num": 281040,
+      "num": 349243,
       "word": "时代少年团演唱会",
       "onboard_time": 1763806580,
       "rank": 14,
@@ -89,6 +105,22 @@
       "onboard_time": 1763790681,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 761380,
+      "num": 1121820,
+      "word": "解放军备战画面",
+      "onboard_time": 1763809221,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 751229,
+      "num": 352824,
+      "word": "许我耀眼热度",
+      "onboard_time": 1763812702,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 734885,
@@ -107,8 +139,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 726491,
+      "num": 348178,
+      "word": "网曝印度旅游团义乌偷东西",
+      "onboard_time": 1763812822,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 710981,
-      "num": 200566,
+      "num": 280049,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763799920,
       "rank": 26,
@@ -116,7 +156,7 @@
     },
     {
       "raw_hot": 706496,
-      "num": 259079,
+      "num": 346677,
       "word": "液断7天瘦了13.2斤",
       "onboard_time": 1763807480,
       "rank": 31,
@@ -137,14 +177,6 @@
       "onboard_time": 1763798420,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 692736,
-      "num": 509767,
-      "word": "枭起青壤 突脸",
-      "onboard_time": 1763809761,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 683046,
@@ -169,6 +201,14 @@
       "onboard_time": 1763775981,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 675477,
+      "num": 347408,
+      "word": "宋亚轩好魅",
+      "onboard_time": 1763813902,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 665144,
@@ -203,14 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 595074,
-      "num": 1095211,
-      "word": "解放军备战画面",
-      "onboard_time": 1763809221,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 587338,
       "num": 292327,
       "word": "葛荟婕 分手费分次给了30万",
@@ -241,6 +273,14 @@
       "onboard_time": 1763796200,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 564833,
+      "num": 346116,
+      "word": "刘耀文帅得不知天地为何物了",
+      "onboard_time": 1763813301,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 544253,
@@ -395,8 +435,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 391436,
+      "num": 345622,
+      "word": "枭起青壤 尾鱼",
+      "onboard_time": 1763811501,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 385191,
-      "num": 290082,
+      "num": 350314,
       "word": "为什么我国军队还叫解放军",
       "onboard_time": 1763800581,
       "rank": 43,
@@ -404,11 +452,19 @@
     },
     {
       "raw_hot": 377926,
-      "num": 308710,
+      "num": 350754,
       "word": "台当局宣布全面解禁日本核食",
       "onboard_time": 1763792661,
       "rank": 34,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 374191,
+      "num": 343115,
+      "word": "严浩翔被升降台遗忘了",
+      "onboard_time": 1763814801,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 373541,
@@ -452,7 +508,7 @@
     },
     {
       "raw_hot": 355927,
-      "num": 256209,
+      "num": 276272,
       "word": "迪丽热巴好有质感的美",
       "onboard_time": 1763809702,
       "rank": 16,
@@ -475,6 +531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 342843,
+      "num": 342843,
+      "word": "泽连斯基疑暗示已输掉战争",
+      "onboard_time": 1763809221,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 337719,
       "num": 337719,
       "word": "陈伟霆替经纪人追星王安宇",
@@ -491,6 +555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333751,
+      "num": 333751,
+      "word": "奔跑吧开播",
+      "onboard_time": 1763814742,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 333498,
       "num": 333498,
       "word": "小雪",
@@ -500,7 +572,7 @@
     },
     {
       "raw_hot": 332360,
-      "num": 203602,
+      "num": 227063,
       "word": "王源长智齿",
       "onboard_time": 1763807000,
       "rank": 38,
@@ -579,20 +651,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 296082,
+      "num": 296082,
+      "word": "时代少年团演唱会升降台坏了",
+      "onboard_time": 1763813541,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 294296,
       "num": 250905,
       "word": "男子花8万元网购70平海景房",
       "onboard_time": 1763756713,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 281961,
-      "num": 253229,
-      "word": "泽连斯基疑暗示已输掉战争",
-      "onboard_time": 1763809221,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 279043,
@@ -676,7 +748,7 @@
     },
     {
       "raw_hot": 261392,
-      "num": 286096,
+      "num": 347748,
       "word": "解放军还有一个重要使命",
       "onboard_time": 1763806160,
       "rank": 9,
@@ -692,7 +764,7 @@
     },
     {
       "raw_hot": 249955,
-      "num": 266679,
+      "num": 276886,
       "word": "中国军网发视频大子弹量大管够",
       "onboard_time": 1763794220,
       "rank": 16,
@@ -705,6 +777,14 @@
       "onboard_time": 1763738424,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246050,
+      "num": 246050,
+      "word": "马嘉祺苏州河 好听",
+      "onboard_time": 1763814862,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 242755,
@@ -737,6 +817,14 @@
       "onboard_time": 1763804600,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221060,
+      "num": 221060,
+      "word": "枭起青壤2025腾讯最快破两万五现代剧",
+      "onboard_time": 1763814922,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 220742,
@@ -843,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 196037,
+      "num": 196037,
+      "word": "陈哲远确认不出席尖叫之夜",
+      "onboard_time": 1763811861,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195475,
       "num": 176973,
       "word": "易烊千玺我需要心理委员",
@@ -873,6 +969,14 @@
       "onboard_time": 1763807839,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192094,
+      "num": 351218,
+      "word": "孙悟空新增筋斗云回城机制",
+      "onboard_time": 1763810842,
+      "rank": 40,
+      "category": "游戏"
     },
     {
       "raw_hot": 191880,
@@ -953,6 +1057,14 @@
       "onboard_time": 1763789961,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 176124,
+      "num": 176124,
+      "word": "迪丽热巴陈星旭cp感",
+      "onboard_time": 1763812462,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 175712,
@@ -1051,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160738,
+      "num": 160738,
+      "word": "张真源让姚译添叫自己宝贝",
+      "onboard_time": 1763814201,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 159984,
       "num": 159984,
       "word": "白鹿唱宋雨琦的还痛吗",
@@ -1089,6 +1209,14 @@
       "onboard_time": 1763738604,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 157147,
+      "num": 157147,
+      "word": "易烊千玺又又又告状了",
+      "onboard_time": 1763813663,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 155190,
@@ -1337,14 +1465,6 @@
       "onboard_time": 1763737883,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127882,
-      "num": 126775,
-      "word": "孙悟空新增筋斗云回城机制",
-      "onboard_time": 1763810842,
-      "rank": 40,
-      "category": "游戏"
     },
     {
       "raw_hot": 127682,
@@ -2075,6 +2195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 79939,
+      "num": 186707,
+      "word": "日本纪录片揭批右翼篡改历史细节",
+      "onboard_time": 1763813541,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 78391,
       "num": 321034,
       "word": "毒唯只对真嫂子破防",
@@ -2097,6 +2225,14 @@
       "onboard_time": 1763784261,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 76288,
+      "num": 170051,
+      "word": "日本机场安检员偷中国游客现金被捕",
+      "onboard_time": 1763815222,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75562,
@@ -2129,6 +2265,14 @@
       "onboard_time": 1763780600,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73613,
+      "num": 276288,
+      "word": "央视起底豪车碰瓷特大骗保案",
+      "onboard_time": 1763813062,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73462,
@@ -2177,6 +2321,14 @@
       "onboard_time": 1763737704,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69790,
+      "num": 144300,
+      "word": "三角洲行动",
+      "onboard_time": 1763814982,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 69524,
@@ -2465,6 +2617,14 @@
       "onboard_time": 1763730201,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 54375,
+      "num": 144279,
+      "word": "U17国足vs巴林U17",
+      "onboard_time": 1763814982,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 53983,
@@ -2777,6 +2937,14 @@
       "onboard_time": 1763749876,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24526,
+      "num": 348592,
+      "word": "鸿星尔克于适西安",
+      "onboard_time": 1763813001,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 24248,
