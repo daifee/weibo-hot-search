@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763790074265,
+  "endTime": 1763793371787,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1369875,
-      "num": 119594,
+      "num": 197931,
       "word": "胡彦斌 王阿哩",
       "onboard_time": 1763788102,
       "rank": 31,
@@ -57,6 +57,22 @@
       "onboard_time": 1763776700,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 792011,
+      "num": 198011,
+      "word": "沙溢两个儿子在英国上学",
+      "onboard_time": 1763790681,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 731193,
+      "num": 731193,
+      "word": "狂野时代 看不懂",
+      "onboard_time": 1763790020,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 705453,
@@ -115,6 +131,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 579249,
+      "num": 197992,
+      "word": "张歆艺点赞罗晋唐嫣分居",
+      "onboard_time": 1763791821,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519489,
       "num": 347619,
       "word": "爱奇艺尖叫之夜首轮阵容",
@@ -124,7 +148,7 @@
     },
     {
       "raw_hot": 514406,
-      "num": 238712,
+      "num": 348450,
       "word": "哪吒2不参评奥斯卡最佳动画长片",
       "onboard_time": 1763786540,
       "rank": 38,
@@ -147,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456843,
+      "num": 274020,
+      "word": "张继科说下一届全运会想打就能打",
+      "onboard_time": 1763790500,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 446109,
       "num": 263838,
       "word": "冬天最狠减肥法",
@@ -164,7 +196,7 @@
     },
     {
       "raw_hot": 432810,
-      "num": 216641,
+      "num": 272243,
       "word": "陈伟霆老亲完臭",
       "onboard_time": 1763785822,
       "rank": 47,
@@ -180,7 +212,7 @@
     },
     {
       "raw_hot": 423240,
-      "num": 423240,
+      "num": 780848,
       "word": "全运会乒乓女单铜牌赛收视率第一",
       "onboard_time": 1763780721,
       "rank": 23,
@@ -193,6 +225,14 @@
       "onboard_time": 1763780300,
       "rank": 14,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 405721,
+      "num": 197986,
+      "word": "马思唯带女友喝酒",
+      "onboard_time": 1763790500,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 394634,
@@ -267,6 +307,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 306807,
+      "num": 171710,
+      "word": "中方有权对日武力介入行使自卫权",
+      "onboard_time": 1763792421,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 299364,
       "num": 299364,
       "word": "中国军机高空驱离菲挑衅飞机",
@@ -281,6 +329,14 @@
       "onboard_time": 1763756713,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 279043,
+      "num": 279043,
+      "word": "罗一舟首个恋综官宣",
+      "onboard_time": 1763790559,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 277986,
@@ -300,7 +356,7 @@
     },
     {
       "raw_hot": 274620,
-      "num": 235521,
+      "num": 271944,
       "word": "枭起青壤云包场",
       "onboard_time": 1763788639,
       "rank": 6,
@@ -347,6 +403,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 233996,
+      "num": 133200,
+      "word": "台当局宣布全面解禁日本核食",
+      "onboard_time": 1763792661,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "韩网友安利中国柚子",
@@ -363,6 +427,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 213420,
+      "num": 278829,
+      "word": "馆长称若非中国慈悲分秒给日本灭掉",
+      "onboard_time": 1763788760,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 213375,
+      "num": 197961,
+      "word": "第一次见明星带着素人一起官宣",
+      "onboard_time": 1763791161,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 212043,
       "num": 291583,
       "word": "枭起青壤今日开播",
@@ -377,6 +457,14 @@
       "onboard_time": 1763736684,
       "rank": 11,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 209719,
+      "num": 209719,
+      "word": "王安宇胡先煦 被导游定义的一生",
+      "onboard_time": 1763791821,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 204216,
@@ -401,6 +489,14 @@
       "onboard_time": 1763772622,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 197895,
+      "num": 197894,
+      "word": "余宇涵还回时代峰峻吗",
+      "onboard_time": 1763792600,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 196266,
@@ -563,14 +659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 157771,
-      "num": 227330,
-      "word": "馆长称若非中国慈悲分秒给日本灭掉",
-      "onboard_time": 1763788760,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 157666,
       "num": 313595,
       "word": "日本民众说本来没事都怪高市",
@@ -579,12 +667,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154928,
-      "num": 154928,
-      "word": "狂野时代 看不懂",
-      "onboard_time": 1763790020,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 155190,
+      "num": 197949,
+      "word": "新闻女王2全女联手了",
+      "onboard_time": 1763792241,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 154924,
@@ -707,6 +795,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 137543,
+      "num": 137543,
+      "word": "断糖30天的面部变化",
+      "onboard_time": 1763790980,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 137380,
       "num": 180210,
       "word": "狗狗偷偷亲了主人一下",
@@ -803,6 +899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 122496,
+      "num": 122496,
+      "word": "iPhone关掉锁屏时的控制中心",
+      "onboard_time": 1763790621,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121718,
       "num": 121718,
       "word": "睡着后容易醒可能是6种病",
@@ -817,6 +921,14 @@
       "onboard_time": 1763782640,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121130,
+      "num": 121130,
+      "word": "男朋友非要给小猫泡脚",
+      "onboard_time": 1763792480,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 120756,
@@ -849,6 +961,14 @@
       "onboard_time": 1763767758,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111658,
+      "num": 111658,
+      "word": "刘晓庆和张蔷吐槽刘嘉玲爱穿黑的",
+      "onboard_time": 1763793024,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 111157,
@@ -939,6 +1059,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97190,
+      "num": 97190,
+      "word": "猫 我最烦的就是人",
+      "onboard_time": 1763792781,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 95863,
+      "num": 95863,
+      "word": "沈腾也顶不住黄景瑜说我喜欢你",
+      "onboard_time": 1763790440,
+      "rank": 49,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95049,
       "num": 109519,
       "word": "新闻女王2",
@@ -977,6 +1113,14 @@
       "onboard_time": 1763788821,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 92560,
+      "num": 276086,
+      "word": "库里38分",
+      "onboard_time": 1763791221,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 91593,
@@ -1091,6 +1235,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 80518,
+      "num": 99247,
+      "word": "安静公主的肿瘤治好了",
+      "onboard_time": 1763791760,
+      "rank": 45,
+      "category": "网红"
+    },
+    {
       "raw_hot": 80377,
       "num": 339244,
       "word": "闭幕式 第九套广播体操",
@@ -1193,6 +1345,14 @@
       "onboard_time": 1763721202,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 68433,
+      "num": 122631,
+      "word": "Ning想找朱开当教练",
+      "onboard_time": 1763792960,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 68114,
@@ -1363,6 +1523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54976,
+      "num": 132700,
+      "word": "掘金险胜火箭",
+      "onboard_time": 1763791881,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 54757,
       "num": 312906,
       "word": "变形计张迪自曝没有生育能力",
@@ -1483,6 +1651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44235,
+      "num": 123105,
+      "word": "博士毕业后相亲对象成了离异带娃的",
+      "onboard_time": 1763792421,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43126,
       "num": 112944,
       "word": "多地出现无人机坠箭猎杀家禽事故",
@@ -1513,6 +1689,14 @@
       "onboard_time": 1763755394,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 37981,
+      "num": 133437,
+      "word": "柬埔寨7男子扮宪兵专门勒索中国人",
+      "onboard_time": 1763791580,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 36945,
@@ -1563,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 31179,
+      "num": 212486,
+      "word": "广州车展全民热搜铂智7",
+      "onboard_time": 1763791520,
+      "rank": 15,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 29622,
       "num": 461076,
       "word": "第15届全运会闭幕",
@@ -1595,8 +1787,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 25349,
-      "num": 274231,
+      "raw_hot": 26662,
+      "num": 735783,
       "word": "古诗里的小雪",
       "onboard_time": 1763781502,
       "rank": 2,

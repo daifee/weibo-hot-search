@@ -1,0 +1,410 @@
+{
+  "runTime": 1763793371787,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 335891,
+        "num": 1053742,
+        "word": "印尼孕妇分娩遭4医院拒收母子双亡",
+        "onboard_time": 1763784201,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 181571,
+        "num": 780848,
+        "word": "全运会乒乓女单铜牌赛收视率第一",
+        "onboard_time": 1763780721,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26662,
+        "num": 735783,
+        "word": "古诗里的小雪",
+        "onboard_time": 1763781502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 731193,
+        "num": 731193,
+        "word": "狂野时代 看不懂",
+        "onboard_time": 1763790020,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 384442,
+        "num": 384442,
+        "word": "高市早苗车牌是3777",
+        "onboard_time": 1763776700,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 348450,
+        "num": 348450,
+        "word": "哪吒2不参评奥斯卡最佳动画长片",
+        "onboard_time": 1763786540,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 279043,
+        "num": 279043,
+        "word": "罗一舟首个恋综官宣",
+        "onboard_time": 1763790559,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213420,
+        "num": 278829,
+        "word": "馆长称若非中国慈悲分秒给日本灭掉",
+        "onboard_time": 1763788760,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134361,
+        "num": 277202,
+        "word": "凡人修仙传",
+        "onboard_time": 1763785881,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 92560,
+        "num": 276086,
+        "word": "库里38分",
+        "onboard_time": 1763791221,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 497019,
+        "num": 274851,
+        "word": "儿子打电话说撞死人要10万私了",
+        "onboard_time": 1763781800,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456843,
+        "num": 274020,
+        "word": "张继科说下一届全运会想打就能打",
+        "onboard_time": 1763790500,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 314313,
+        "num": 272243,
+        "word": "陈伟霆老亲完臭",
+        "onboard_time": 1763785822,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271944,
+        "num": 271944,
+        "word": "枭起青壤云包场",
+        "onboard_time": 1763788639,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 236332,
+        "num": 236332,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1763784800,
+        "rank": 14,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 31179,
+        "num": 212486,
+        "word": "广州车展全民热搜铂智7",
+        "onboard_time": 1763791520,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 86754,
+        "num": 210751,
+        "word": "F1",
+        "onboard_time": 1763787440,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 209719,
+        "num": 209719,
+        "word": "王安宇胡先煦 被导游定义的一生",
+        "onboard_time": 1763791821,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198530,
+        "num": 198530,
+        "word": "结婚7年发现妻子精神病史要求退彩礼",
+        "onboard_time": 1763780660,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198041,
+        "num": 198041,
+        "word": "赫丽摸金宇包场迪丽热巴枭起青壤",
+        "onboard_time": 1763787440,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1445804,
+        "num": 198041,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 792011,
+        "num": 198011,
+        "word": "沙溢两个儿子在英国上学",
+        "onboard_time": 1763790681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 579249,
+        "num": 197992,
+        "word": "张歆艺点赞罗晋唐嫣分居",
+        "onboard_time": 1763791821,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 405721,
+        "num": 197986,
+        "word": "马思唯带女友喝酒",
+        "onboard_time": 1763790500,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213375,
+        "num": 197961,
+        "word": "第一次见明星带着素人一起官宣",
+        "onboard_time": 1763791161,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155190,
+        "num": 197949,
+        "word": "新闻女王2全女联手了",
+        "onboard_time": 1763792241,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 860282,
+        "num": 197931,
+        "word": "胡彦斌 王阿哩",
+        "onboard_time": 1763788102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121487,
+        "num": 197895,
+        "word": "尖叫之夜又是CP大乱炖",
+        "onboard_time": 1763784800,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197895,
+        "num": 197894,
+        "word": "余宇涵还回时代峰峻吗",
+        "onboard_time": 1763792600,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74108,
+        "num": 188397,
+        "word": "中方就高市错误言行致函古特雷斯",
+        "onboard_time": 1763773701,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185077,
+        "num": 185077,
+        "word": "葛荟婕 分手费分次给了30万",
+        "onboard_time": 1763783601,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306807,
+        "num": 171710,
+        "word": "中方有权对日武力介入行使自卫权",
+        "onboard_time": 1763792421,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137543,
+        "num": 137543,
+        "word": "断糖30天的面部变化",
+        "onboard_time": 1763790980,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 37981,
+        "num": 133437,
+        "word": "柬埔寨7男子扮宪兵专门勒索中国人",
+        "onboard_time": 1763791580,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 233996,
+        "num": 133200,
+        "word": "台当局宣布全面解禁日本核食",
+        "onboard_time": 1763792661,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 54976,
+        "num": 132700,
+        "word": "掘金险胜火箭",
+        "onboard_time": 1763791881,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132516,
+        "num": 132516,
+        "word": "狼队道崽",
+        "onboard_time": 1763778200,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123980,
+        "num": 123980,
+        "word": "枭起青壤今日开播",
+        "onboard_time": 1763778621,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44235,
+        "num": 123105,
+        "word": "博士毕业后相亲对象成了离异带娃的",
+        "onboard_time": 1763792421,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68433,
+        "num": 122631,
+        "word": "Ning想找朱开当教练",
+        "onboard_time": 1763792960,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122496,
+        "num": 122496,
+        "word": "iPhone关掉锁屏时的控制中心",
+        "onboard_time": 1763790621,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121130,
+        "num": 121130,
+        "word": "男朋友非要给小猫泡脚",
+        "onboard_time": 1763792480,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 111658,
+        "num": 111658,
+        "word": "刘晓庆和张蔷吐槽刘嘉玲爱穿黑的",
+        "onboard_time": 1763793024,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107124,
+        "num": 107124,
+        "word": "杨坤签约乐华",
+        "onboard_time": 1763783061,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105299,
+        "num": 105299,
+        "word": "胖东来羽绒服成本184售价256",
+        "onboard_time": 1763776159,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80518,
+        "num": 99247,
+        "word": "安静公主的肿瘤治好了",
+        "onboard_time": 1763791760,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97583,
+        "num": 97583,
+        "word": "陈伟霆替经纪人追星王安宇",
+        "onboard_time": 1763783960,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97190,
+        "num": 97190,
+        "word": "猫 我最烦的就是人",
+        "onboard_time": 1763792781,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96665,
+        "num": 96665,
+        "word": "狂野时代",
+        "onboard_time": 1763743338,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95863,
+        "num": 95863,
+        "word": "沈腾也顶不住黄景瑜说我喜欢你",
+        "onboard_time": 1763790440,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代江河战略#"
+    }
+  }
+}
