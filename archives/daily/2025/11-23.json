@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763853936672,
+  "endTime": 1763854754667,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 624059,
-      "num": 766093,
+      "num": 879646,
       "word": "日本已付出代价",
       "onboard_time": 1763816722,
       "rank": 3,
@@ -139,6 +139,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 229881,
+      "num": 243458,
+      "word": "郭碧婷爸爸回应向佐去医院看过他2次",
+      "onboard_time": 1763822182,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 217779,
       "num": 374976,
       "word": "男子762元买20多件商品蕉内拒发货",
@@ -155,14 +163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199490,
-      "num": 243458,
-      "word": "郭碧婷爸爸回应向佐去医院看过他2次",
-      "onboard_time": 1763822182,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 194357,
       "num": 355700,
       "word": "许我耀眼热度",
@@ -177,6 +177,14 @@
       "onboard_time": 1763821402,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175146,
+      "num": 94101,
+      "word": "妈妈以为我在上海农村过得很差",
+      "onboard_time": 1763853497,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 174418,
@@ -267,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113719,
+      "num": 196766,
+      "word": "肖战第一次过这么冷的冬天",
+      "onboard_time": 1763829621,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113542,
       "num": 242171,
       "word": "刘耀文帅得不知天地为何物了",
@@ -291,28 +307,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107370,
+      "num": 241131,
+      "word": "身体好寿命长的人睡觉有5个特征",
+      "onboard_time": 1763819483,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106978,
       "num": 242436,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763799920,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 103795,
-      "num": 196766,
-      "word": "肖战第一次过这么冷的冬天",
-      "onboard_time": 1763829621,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 103665,
-      "num": 94101,
-      "word": "妈妈以为我在上海农村过得很差",
-      "onboard_time": 1763853497,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 98498,
@@ -331,20 +339,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 98084,
-      "num": 241131,
-      "word": "身体好寿命长的人睡觉有5个特征",
-      "onboard_time": 1763819483,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 96701,
       "num": 241314,
       "word": "枭起青壤热度",
       "onboard_time": 1763808800,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86676,
+      "num": 86676,
+      "word": "身体有异味可能是疾病征兆",
+      "onboard_time": 1763853976,
+      "rank": 13,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 82661,
@@ -395,12 +403,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 66163,
+      "num": 66163,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1763854277,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 61874,
+      "num": 95778,
+      "word": "美国威胁乌克兰",
+      "onboard_time": 1763846593,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 61770,
       "num": 73009,
       "word": "鬼灭之刃",
       "onboard_time": 1763832438,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 60707,
+      "num": 95405,
+      "word": "跑男",
+      "onboard_time": 1763850254,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 59307,
@@ -411,20 +443,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 56267,
+      "num": 95423,
+      "word": "高市错误言论违反国际法",
+      "onboard_time": 1763849174,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55918,
       "num": 240378,
       "word": "王源长智齿",
       "onboard_time": 1763807000,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54867,
-      "num": 95778,
-      "word": "美国威胁乌克兰",
-      "onboard_time": 1763846593,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 53715,
@@ -435,7 +467,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 47888,
+      "raw_hot": 51365,
       "num": 196760,
       "word": "奔跑吧开播",
       "onboard_time": 1763814742,
@@ -449,14 +481,6 @@
       "onboard_time": 1763830339,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 41399,
-      "num": 95423,
-      "word": "高市错误言论违反国际法",
-      "onboard_time": 1763849174,
-      "rank": 45,
-      "category": "国际时政"
     },
     {
       "raw_hot": 40275,
@@ -483,12 +507,12 @@
       "category": "军事"
     },
     {
-      "raw_hot": 35886,
-      "num": 95405,
-      "word": "跑男",
-      "onboard_time": 1763850254,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 32641,
+      "num": 93196,
+      "word": "缅甸谴责高市早苗",
+      "onboard_time": 1763841314,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31152,
@@ -499,12 +523,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30968,
-      "num": 93196,
-      "word": "缅甸谴责高市早苗",
-      "onboard_time": 1763841314,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 30374,
+      "num": 57422,
+      "word": "张俪 说的是我吗",
+      "onboard_time": 1763854157,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 29389,
@@ -513,6 +537,14 @@
       "onboard_time": 1763818883,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 29307,
+      "num": 92116,
+      "word": "俄乌继续争夺红军城",
+      "onboard_time": 1763845154,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28903,
@@ -537,14 +569,6 @@
       "onboard_time": 1763841494,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 23306,
-      "num": 92116,
-      "word": "俄乌继续争夺红军城",
-      "onboard_time": 1763845154,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 21148,
