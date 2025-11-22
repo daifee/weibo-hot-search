@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 23:38:40
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 00:31:27
 </p>
 </blockquote>
 <p>
@@ -2987,6 +2987,12 @@ AG对战狼队（热度：725111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B%23" target="weibo">
 印度一女警怀胎七月参加举重比赛（热度：711829）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E8%BF%9F%E5%88%B0%E7%A7%B0%E5%9B%A0%E9%80%89%E8%A1%A3%E6%9C%8D%23" target="weibo">
+高市早苗G20迟到称因选衣服（热度：710263）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E6%AC%A7%E5%BC%9F%E5%B0%86%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%23" target="weibo">
 台媒曝欧弟将移民日本（热度：483153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%81%93%E5%B4%BD%E5%A5%B3%E5%8F%8B%23" target="weibo">
-道崽女友（热度：482681）
 </a>
 </li>
 
