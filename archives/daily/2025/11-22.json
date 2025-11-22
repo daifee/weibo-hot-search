@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763782098811,
+  "endTime": 1763783509644,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 519489,
-      "num": 296143,
+      "num": 325786,
       "word": "爱奇艺尖叫之夜首轮阵容",
       "onboard_time": 1763779100,
       "rank": 3,
@@ -99,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 428963,
+      "num": 205412,
+      "word": "结婚7年发现妻子精神病史要求退彩礼",
+      "onboard_time": 1763780660,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 412075,
       "num": 208113,
       "word": "19岁农村女生从垃圾堆走向时装周",
@@ -107,12 +115,20 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 398818,
-      "num": 205412,
-      "word": "结婚7年发现妻子精神病史要求退彩礼",
-      "onboard_time": 1763780660,
-      "rank": 19,
-      "category": "民生新闻"
+      "raw_hot": 405031,
+      "num": 176862,
+      "word": "易烊千玺强制让C",
+      "onboard_time": 1763782280,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 403259,
+      "num": 403259,
+      "word": "全运会乒乓女单铜牌赛收视率第一",
+      "onboard_time": 1763780721,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 394634,
@@ -121,6 +137,14 @@
       "onboard_time": 1763776700,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 376484,
+      "num": 173937,
+      "word": "儿子打电话说撞死人要10万私了",
+      "onboard_time": 1763781800,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 357328,
@@ -147,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 318533,
+      "num": 318533,
+      "word": "得闲谨制",
+      "onboard_time": 1763781681,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
       "raw_hot": 299364,
       "num": 299364,
       "word": "中国军机高空驱离菲挑衅飞机",
@@ -161,14 +193,6 @@
       "onboard_time": 1763756713,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 288978,
-      "num": 199045,
-      "word": "全运会乒乓女单铜牌赛收视率第一",
-      "onboard_time": 1763780721,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 277986,
@@ -187,20 +211,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 270709,
+      "num": 268300,
+      "word": "枭起青壤连更",
+      "onboard_time": 1763781261,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 268448,
+      "num": 268448,
+      "word": "向联合国全体会员国阐明中国立场",
+      "onboard_time": 1763778499,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 248825,
       "num": 326798,
       "word": "易梦玲1分钟视频广告报价100万",
       "onboard_time": 1763738424,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 246509,
-      "num": 246509,
-      "word": "枭起青壤连更",
-      "onboard_time": 1763781261,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 240329,
@@ -211,20 +243,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 231395,
-      "num": 231395,
-      "word": "向联合国全体会员国阐明中国立场",
-      "onboard_time": 1763778499,
-      "rank": 12,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "韩网友安利中国柚子",
       "onboard_time": 1763776399,
       "rank": 43,
       "category": "美食"
+    },
+    {
+      "raw_hot": 218038,
+      "num": 170005,
+      "word": "杨坤签约乐华",
+      "onboard_time": 1763783061,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 217972,
@@ -291,20 +323,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 187696,
+      "num": 161145,
+      "word": "刘雨嘉妈妈怀六胎了",
+      "onboard_time": 1763782940,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 185070,
       "num": 185070,
       "word": "日本再次面临抉择",
       "onboard_time": 1763770341,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 176630,
-      "num": 176630,
-      "word": "得闲谨制",
-      "onboard_time": 1763781681,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 171877,
@@ -332,7 +364,7 @@
     },
     {
       "raw_hot": 168183,
-      "num": 160187,
+      "num": 161101,
       "word": "狼队道崽",
       "onboard_time": 1763778200,
       "rank": 26,
@@ -371,6 +403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158196,
+      "num": 158196,
+      "word": "日本释放危险信号",
+      "onboard_time": 1763779280,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 157666,
       "num": 313595,
       "word": "日本民众说本来没事都怪高市",
@@ -395,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150428,
+      "num": 168881,
+      "word": "咸鱼飞升",
+      "onboard_time": 1763783240,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150041,
       "num": 268196,
       "word": "向往的生活刘宪华惊喜回归",
@@ -403,20 +451,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 148169,
+      "num": 148169,
+      "word": "你的香味偏好是身体在说话",
+      "onboard_time": 1763783180,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 146970,
+      "num": 146970,
+      "word": "医生建议小雪多吃黑色食物",
+      "onboard_time": 1763779100,
+      "rank": 33,
+      "category": "健康医疗,美食"
+    },
+    {
       "raw_hot": 146811,
       "num": 330695,
       "word": "更大更强的航母或出现在日本",
       "onboard_time": 1763723422,
       "rank": 15,
       "category": "国内时政,军事"
-    },
-    {
-      "raw_hot": 142750,
-      "num": 142750,
-      "word": "医生建议小雪多吃黑色食物",
-      "onboard_time": 1763779100,
-      "rank": 33,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 140807,
@@ -443,20 +499,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137949,
+      "num": 149270,
+      "word": "日本民众怒喊高市不要煽动战争",
+      "onboard_time": 1763781860,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137380,
       "num": 180210,
       "word": "狗狗偷偷亲了主人一下",
       "onboard_time": 1763776579,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 137065,
-      "num": 137065,
-      "word": "日本释放危险信号",
-      "onboard_time": 1763779280,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 135903,
@@ -515,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125064,
+      "num": 125064,
+      "word": "Keria模仿Faker经典动作",
+      "onboard_time": 1763782461,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 124976,
       "num": 343180,
       "word": "李安对狂野时代的评价",
       "onboard_time": 1763737404,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 121253,
+      "num": 157113,
+      "word": "现在就出发",
+      "onboard_time": 1763782640,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 117894,
@@ -571,6 +643,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 107967,
+      "num": 107967,
+      "word": "睡着后容易醒可能是6种病",
+      "onboard_time": 1763782340,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107315,
       "num": 29394,
       "word": "胡彦斌",
@@ -601,6 +681,14 @@
       "onboard_time": 1763740281,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101838,
+      "num": 101838,
+      "word": "Faker查岗Keria",
+      "onboard_time": 1763783360,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 97657,
@@ -636,7 +724,7 @@
     },
     {
       "raw_hot": 91593,
-      "num": 143749,
+      "num": 155721,
       "word": "开拓者vs勇士",
       "onboard_time": 1763781140,
       "rank": 28,
@@ -812,7 +900,7 @@
     },
     {
       "raw_hot": 67515,
-      "num": 143093,
+      "num": 155170,
       "word": "赵心童4次打进决赛全部夺冠",
       "onboard_time": 1763778859,
       "rank": 29,
@@ -1075,12 +1163,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30332,
-      "num": 149270,
-      "word": "日本民众怒喊高市不要煽动战争",
-      "onboard_time": 1763781860,
-      "rank": 21,
-      "category": "国际时政"
+      "raw_hot": 29622,
+      "num": 328223,
+      "word": "第15届全运会闭幕",
+      "onboard_time": 1763782101,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 27698,
@@ -1088,6 +1176,14 @@
       "word": "银行借员工婚礼推销社保卡遭质疑",
       "onboard_time": 1763779401,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27153,
+      "num": 109327,
+      "word": "张家界荒野求生下季有女选手是宝妈",
+      "onboard_time": 1763783002,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -1121,14 +1217,6 @@
       "onboard_time": 1763753355,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 19361,
-      "num": 128706,
-      "word": "儿子打电话说撞死人要10万私了",
-      "onboard_time": 1763781800,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19078,

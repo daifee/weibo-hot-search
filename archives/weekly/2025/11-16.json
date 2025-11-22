@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763782098811,
+  "endTime": 1763783509644,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -2316,7 +2316,7 @@
     },
     {
       "raw_hot": 519489,
-      "num": 296143,
+      "num": 325786,
       "word": "爱奇艺尖叫之夜首轮阵容",
       "onboard_time": 1763779100,
       "rank": 3,
@@ -3075,6 +3075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 428963,
+      "num": 205412,
+      "word": "结婚7年发现妻子精神病史要求退彩礼",
+      "onboard_time": 1763780660,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428111,
       "num": 679781,
       "word": "易烊千玺与他的金鸡奖杯",
@@ -3347,6 +3355,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 405031,
+      "num": 176862,
+      "word": "易烊千玺强制让C",
+      "onboard_time": 1763782280,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 404837,
       "num": 313392,
       "word": "英国连环强奸案受害者或多达数百人",
@@ -3361,6 +3377,14 @@
       "onboard_time": 1763700682,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 403259,
+      "num": 403259,
+      "word": "全运会乒乓女单铜牌赛收视率第一",
+      "onboard_time": 1763780721,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 401869,
@@ -3401,14 +3425,6 @@
       "onboard_time": 1763560762,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 398818,
-      "num": 205412,
-      "word": "结婚7年发现妻子精神病史要求退彩礼",
-      "onboard_time": 1763780660,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 398627,
@@ -3689,6 +3705,14 @@
       "onboard_time": 1763463802,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 376484,
+      "num": 173937,
+      "word": "儿子打电话说撞死人要10万私了",
+      "onboard_time": 1763781800,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376192,
@@ -4523,6 +4547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 318533,
+      "num": 318533,
+      "word": "得闲谨制",
+      "onboard_time": 1763653580,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317382,
       "num": 317382,
       "word": "霍建华演完如懿传终于疯了",
@@ -5091,14 +5123,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 288978,
-      "num": 199045,
-      "word": "全运会乒乓女单铜牌赛收视率第一",
-      "onboard_time": 1763780721,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 288475,
       "num": 440036,
       "word": "杨超越备菜像开了倍速",
@@ -5379,6 +5403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 270709,
+      "num": 268300,
+      "word": "枭起青壤连更",
+      "onboard_time": 1763781261,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 270632,
       "num": 270632,
       "word": "卢凌风 苏无名",
@@ -5449,6 +5481,14 @@
       "onboard_time": 1763540722,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 268448,
+      "num": 268448,
+      "word": "向联合国全体会员国阐明中国立场",
+      "onboard_time": 1763778499,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 268209,
@@ -5939,14 +5979,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 248321,
-      "num": 248321,
-      "word": "得闲谨制",
-      "onboard_time": 1763653580,
-      "rank": 7,
-      "category": "电影"
-    },
-    {
       "raw_hot": 247970,
       "num": 247970,
       "word": "马龙乒坛历史第一人",
@@ -5977,14 +6009,6 @@
       "onboard_time": 1763552482,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 246509,
-      "num": 246509,
-      "word": "枭起青壤连更",
-      "onboard_time": 1763781261,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 244261,
@@ -6305,14 +6329,6 @@
       "onboard_time": 1763352801,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 231395,
-      "num": 231395,
-      "word": "向联合国全体会员国阐明中国立场",
-      "onboard_time": 1763778499,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 231127,
@@ -6641,6 +6657,14 @@
       "onboard_time": 1763607681,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 218038,
+      "num": 170005,
+      "word": "杨坤签约乐华",
+      "onboard_time": 1763783061,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 217972,
@@ -8163,6 +8187,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 187696,
+      "num": 161145,
+      "word": "刘雨嘉妈妈怀六胎了",
+      "onboard_time": 1763782940,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 187678,
       "num": 200237,
       "word": "Papi说爱妻人设是梁淞的造型需求",
@@ -9292,7 +9324,7 @@
     },
     {
       "raw_hot": 168183,
-      "num": 160187,
+      "num": 161101,
       "word": "狼队道崽",
       "onboard_time": 1763778200,
       "rank": 26,
@@ -9995,6 +10027,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 158196,
+      "num": 158196,
+      "word": "日本释放危险信号",
+      "onboard_time": 1763779280,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 158162,
       "num": 158162,
       "word": "杨雨潼中戏颜选",
@@ -10651,6 +10691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 150428,
+      "num": 168881,
+      "word": "咸鱼飞升",
+      "onboard_time": 1763783240,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150389,
       "num": 210541,
       "word": "爱泼斯坦案文件被批准强制公开",
@@ -10859,6 +10907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148169,
+      "num": 148169,
+      "word": "你的香味偏好是身体在说话",
+      "onboard_time": 1763783180,
+      "rank": 31,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 148089,
       "num": 232828,
       "word": "看完唐诡终于理解门第观念",
@@ -10969,6 +11025,14 @@
       "onboard_time": 1763615541,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146970,
+      "num": 146970,
+      "word": "医生建议小雪多吃黑色食物",
+      "onboard_time": 1763779100,
+      "rank": 33,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 146859,
@@ -11225,14 +11289,6 @@
       "onboard_time": 1763534782,
       "rank": 34,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142750,
-      "num": 142750,
-      "word": "医生建议小雪多吃黑色食物",
-      "onboard_time": 1763779100,
-      "rank": 33,
-      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 142747,
@@ -11659,6 +11715,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 137949,
+      "num": 149270,
+      "word": "日本民众怒喊高市不要煽动战争",
+      "onboard_time": 1763781860,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 137943,
       "num": 332996,
       "word": "曝张诗尧爆红后不回旧友信息",
@@ -11745,14 +11809,6 @@
       "onboard_time": 1763369722,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 137065,
-      "num": 137065,
-      "word": "日本释放危险信号",
-      "onboard_time": 1763779280,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 136913,
@@ -12955,6 +13011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125064,
+      "num": 125064,
+      "word": "Keria模仿Faker经典动作",
+      "onboard_time": 1763782461,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125061,
       "num": 192461,
       "word": "喜人奇妙夜 死亡教育",
@@ -13449,6 +13513,14 @@
       "onboard_time": 1763296641,
       "rank": 37,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121253,
+      "num": 157113,
+      "word": "现在就出发",
+      "onboard_time": 1763215472,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 121092,
@@ -14795,14 +14867,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 110577,
-      "num": 110577,
-      "word": "现在就出发",
-      "onboard_time": 1763215472,
-      "rank": 43,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 110526,
       "num": 110526,
       "word": "日本抗议者要求高市赶快道歉",
@@ -15113,6 +15177,14 @@
       "onboard_time": 1763685622,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107967,
+      "num": 107967,
+      "word": "睡着后容易醒可能是6种病",
+      "onboard_time": 1763782340,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 107961,
@@ -15953,6 +16025,14 @@
       "onboard_time": 1763476883,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 101838,
+      "num": 101838,
+      "word": "Faker查岗Keria",
+      "onboard_time": 1763783360,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 101555,
@@ -16980,7 +17060,7 @@
     },
     {
       "raw_hot": 91593,
-      "num": 143749,
+      "num": 155721,
       "word": "开拓者vs勇士",
       "onboard_time": 1763781140,
       "rank": 28,
@@ -18612,7 +18692,7 @@
     },
     {
       "raw_hot": 67515,
-      "num": 143093,
+      "num": 155170,
       "word": "赵心童4次打进决赛全部夺冠",
       "onboard_time": 1763778859,
       "rank": 29,
@@ -21403,14 +21483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30332,
-      "num": 149270,
-      "word": "日本民众怒喊高市不要煽动战争",
-      "onboard_time": 1763781860,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 30296,
       "num": 64924,
       "word": "檀健次allblack也硬帅",
@@ -21489,6 +21561,14 @@
       "onboard_time": 1763285721,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29622,
+      "num": 328223,
+      "word": "第15届全运会闭幕",
+      "onboard_time": 1763782101,
+      "rank": 2,
+      "category": "体育"
     },
     {
       "raw_hot": 29479,
@@ -21625,6 +21705,14 @@
       "onboard_time": 1763585173,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27153,
+      "num": 109327,
+      "word": "张家界荒野求生下季有女选手是宝妈",
+      "onboard_time": 1763783002,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27123,
@@ -22184,14 +22272,6 @@
       "word": "荒野求生14人人均获3.2万元奖金",
       "onboard_time": 1763717661,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19361,
-      "num": 128706,
-      "word": "儿子打电话说撞死人要10万私了",
-      "onboard_time": 1763781800,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
