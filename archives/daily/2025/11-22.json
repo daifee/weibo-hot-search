@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763794115216,
+  "endTime": 1763796307637,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459231,
+      "num": 1073477,
+      "word": "中方有权对日武力介入行使自卫权",
+      "onboard_time": 1763792421,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 456843,
       "num": 366404,
       "word": "张继科说下一届全运会想打就能打",
@@ -227,6 +235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 414278,
+      "num": 197961,
+      "word": "第一次见明星带着素人一起官宣",
+      "onboard_time": 1763791161,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 412075,
       "num": 208113,
       "word": "19岁农村女生从垃圾堆走向时装周",
@@ -235,20 +251,28 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 402676,
-      "num": 402676,
-      "word": "中方有权对日武力介入行使自卫权",
-      "onboard_time": 1763792421,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 394634,
       "num": 183025,
       "word": "高市早苗座驾车牌号为3777",
       "onboard_time": 1763776700,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 377926,
+      "num": 168184,
+      "word": "台当局宣布全面解禁日本核食",
+      "onboard_time": 1763792661,
+      "rank": 34,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 373541,
+      "num": 143238,
+      "word": "曹格15岁女儿近照",
+      "onboard_time": 1763794401,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 365252,
@@ -273,14 +297,6 @@
       "onboard_time": 1763784800,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 346696,
-      "num": 168184,
-      "word": "台当局宣布全面解禁日本核食",
-      "onboard_time": 1763792661,
-      "rank": 34,
-      "category": "国内时政"
     },
     {
       "raw_hot": 337719,
@@ -419,6 +435,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 225286,
+      "num": 225286,
+      "word": "考公的动力在电梯里具象化了",
+      "onboard_time": 1763793860,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "韩网友安利中国柚子",
@@ -443,14 +467,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 213375,
-      "num": 197961,
-      "word": "第一次见明星带着素人一起官宣",
-      "onboard_time": 1763791161,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 212043,
       "num": 291583,
       "word": "枭起青壤今日开播",
@@ -473,6 +489,14 @@
       "onboard_time": 1763779821,
       "rank": 22,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 203336,
+      "num": 203336,
+      "word": "迪丽热巴代言枭起青壤云包场",
+      "onboard_time": 1763796080,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 198254,
@@ -507,12 +531,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195398,
+      "num": 139425,
+      "word": "唐诡再宠下去方丈真危险了",
+      "onboard_time": 1763795301,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191880,
       "num": 209697,
       "word": "新版还珠大结局琼瑶味溢出来了",
       "onboard_time": 1763785341,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191862,
+      "num": 836734,
+      "word": "RW官宣Fly自由人离队",
+      "onboard_time": 1763793502,
+      "rank": 1,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 189652,
+      "num": 189652,
+      "word": "中国军网发视频大子弹量大管够",
+      "onboard_time": 1763794220,
+      "rank": 16,
+      "category": "军事"
     },
     {
       "raw_hot": 189596,
@@ -563,6 +611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179297,
+      "num": 179297,
+      "word": "易烊千玺演技",
+      "onboard_time": 1763795601,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 176806,
       "num": 176806,
       "word": "奔跑吧",
@@ -601,14 +657,6 @@
       "onboard_time": 1763730802,
       "rank": 3,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 168483,
-      "num": 836734,
-      "word": "RW官宣Fly自由人离队",
-      "onboard_time": 1763793502,
-      "rank": 1,
-      "category": "电竞"
     },
     {
       "raw_hot": 168183,
@@ -963,14 +1011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 117847,
-      "num": 117847,
-      "word": "考公的动力在电梯里具象化了",
-      "onboard_time": 1763793860,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 115909,
       "num": 128696,
       "word": "乌克兰被要求割地裁军",
@@ -993,6 +1033,14 @@
       "onboard_time": 1763732662,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 110937,
+      "num": 110937,
+      "word": "小迪丽热巴怀疑自己的独特性",
+      "onboard_time": 1763796200,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 108453,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1763786901,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105729,
+      "num": 105729,
+      "word": "白敬亭没到老鼠干到了",
+      "onboard_time": 1763796260,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 103339,
@@ -1611,6 +1667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52385,
+      "num": 109190,
+      "word": "国乒转战成都混团世界杯",
+      "onboard_time": 1763795540,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 52323,
       "num": 310940,
       "word": "106岁妈妈让80岁女儿不要太贪玩",
@@ -1667,6 +1731,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47078,
+      "num": 88453,
+      "word": "朱雨玲告别全运会",
+      "onboard_time": 1763794760,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 46895,
       "num": 310597,
       "word": "灵光4天下载破100万",
@@ -1721,6 +1793,14 @@
       "onboard_time": 1763755394,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 39951,
+      "num": 90347,
+      "word": "Doran一年涨粉10倍",
+      "onboard_time": 1763794760,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 37981,
@@ -1801,6 +1881,14 @@
       "onboard_time": 1763779401,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27557,
+      "num": 177300,
+      "word": "巴拿马议员计划窜台未获政府批准",
+      "onboard_time": 1763795301,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 27153,
