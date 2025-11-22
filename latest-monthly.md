@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 10:14:47
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 11:11:32
 </p>
 </blockquote>
 <p>
@@ -761,6 +761,12 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E9%9B%A8%E7%8E%B2vs%E9%99%88%E6%A2%A6%23" target="weibo">
 朱雨玲vs陈梦（热度：1363515）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E5%90%91%E7%B2%89%E4%B8%9D%E9%81%93%E6%AD%89%23" target="weibo">
+胡彦斌向粉丝道歉（热度：1360019）
 </a>
 </li>
 
@@ -2157,6 +2163,12 @@ A股（热度：834240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%BD%A6%E7%89%8C%E6%98%AF3777%23" target="weibo">
+高市早苗车牌是3777（热度：828026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%92%E4%B9%93%E7%90%83%E7%94%B7%E5%9B%A2%23" target="weibo">
 乒乓球男团（热度：826875）
 </a>
@@ -3113,6 +3125,12 @@ Guma FMVP（热度：688837）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E6%8E%89%E4%BA%86%E5%A5%BD%E5%A4%9A%E5%A4%B4%E5%8F%91%23" target="weibo">
 关晓彤掉了好多头发（热度：677715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E9%AB%98%E4%B8%AD%E7%94%9F%E5%A5%B8%E6%9D%80%E6%95%99%E5%B8%88%E6%A1%88%E7%94%B3%E8%AF%89%E8%A2%AB%E9%A9%B3%E5%9B%9E%23" target="weibo">
+两高中生奸杀教师案申诉被驳回（热度：677638）
 </a>
 </li>
 
@@ -5265,6 +5283,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%A6%96%E8%BD%AE%E9%98%B5%E5%AE%B9%23" target="weibo">
+爱奇艺尖叫之夜首轮阵容（热度：508542）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%AE%8C%E5%88%86%E6%89%8B%E5%AE%A3%E8%A8%80%E7%9A%84%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
 发完分手宣言的人结婚了（热度：507369）
 </a>
@@ -5987,30 +6011,6 @@ Gumayusi HLE（热度：476338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%20%E6%9F%A5%E7%90%86%E8%8B%8F%E6%8D%A2%E9%85%8D%E9%9F%B3%23" target="weibo">
 光与夜之恋 查理苏换配音（热度：468469）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E8%B6%85%E6%99%92%E7%85%A7%E4%B8%BA%E5%84%BF%E5%AD%90%E5%BA%86%E7%94%9F%23" target="weibo">
-邓超晒照为儿子庆生（热度：468411）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%20%E5%AE%99%E6%96%AF%23" target="weibo">
-T1 宙斯（热度：468146）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%B0%86%E6%8B%92%E7%BB%9D%E8%83%96%E5%AD%90%E5%85%A5%E5%A2%83%23" target="weibo">
-美国将拒绝胖子入境（热度：468139）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9A%84%E4%B8%89%E4%B8%AA%E6%B2%A1%E6%83%B3%E5%88%B0%23" target="weibo">
-日本的三个没想到（热度：467747）
 </a>
 </li>
 
