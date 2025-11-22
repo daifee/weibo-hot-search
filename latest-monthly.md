@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 00:31:27
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 00:45:24
 </p>
 </blockquote>
 <p>
@@ -2109,6 +2109,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E8%BF%9F%E5%88%B0%E7%A7%B0%E5%9B%A0%E9%80%89%E8%A1%A3%E6%9C%8D%23" target="weibo">
+高市早苗G20迟到称因选衣服（热度：854074）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%BA%A4%E8%AD%A6%E8%87%B4%E6%AD%89%23" target="weibo">
 苏州交警致歉（热度：854064）
 </a>
@@ -2987,12 +2993,6 @@ AG对战狼队（热度：725111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%B8%80%E5%A5%B3%E8%AD%A6%E6%80%80%E8%83%8E%E4%B8%83%E6%9C%88%E5%8F%82%E5%8A%A0%E4%B8%BE%E9%87%8D%E6%AF%94%E8%B5%9B%23" target="weibo">
 印度一女警怀胎七月参加举重比赛（热度：711829）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E8%BF%9F%E5%88%B0%E7%A7%B0%E5%9B%A0%E9%80%89%E8%A1%A3%E6%9C%8D%23" target="weibo">
-高市早苗G20迟到称因选衣服（热度：710263）
 </a>
 </li>
 
