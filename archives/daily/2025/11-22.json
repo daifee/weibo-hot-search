@@ -1,12 +1,20 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763768307994,
+  "endTime": 1763776426188,
   "band_list": [
     {
       "raw_hot": 2955543,
       "num": 327581,
       "word": "胡彦斌 不是AI的",
       "onboard_time": 1763736143,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2513375,
+      "num": 150551,
+      "word": "胡彦斌 没有义务向全世界汇报",
+      "onboard_time": 1763774421,
       "rank": 20,
       "category": "艺人"
     },
@@ -19,6 +27,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 705453,
+      "num": 1112872,
+      "word": "高市有事",
+      "onboard_time": 1763768599,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 640787,
       "num": 853637,
       "word": "湖南高院通报2高中生奸杀教师案",
@@ -27,12 +43,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 463035,
-      "num": 76876,
+      "raw_hot": 479394,
+      "num": 138771,
       "word": "易梦玲采访录音公布",
       "onboard_time": 1763767337,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 450428,
+      "num": 253152,
+      "word": "中方就高市错误言行致函古特雷斯",
+      "onboard_time": 1763773701,
+      "rank": 10,
+      "category": "国际时政"
     },
     {
       "raw_hot": 357328,
@@ -51,8 +75,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 307497,
+      "num": 307497,
+      "word": "小雪",
+      "onboard_time": 1763768058,
+      "rank": 4,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 294296,
-      "num": 100842,
+      "num": 250905,
       "word": "男子花8万元网购70平海景房",
       "onboard_time": 1763756713,
       "rank": 36,
@@ -99,12 +131,52 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 198097,
+      "num": 289341,
+      "word": "成毅电影营救汪星人定档",
+      "onboard_time": 1763772622,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197258,
+      "num": 197258,
+      "word": "胖东来羽绒服成本184售价256",
+      "onboard_time": 1763776159,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 196266,
+      "num": 196266,
+      "word": "王俊凯录完你的录你的",
+      "onboard_time": 1763770279,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 190058,
+      "num": 190058,
+      "word": "胖东来投资1亿成立新公司",
+      "onboard_time": 1763771719,
+      "rank": 16,
+      "category": "财经"
+    },
+    {
       "raw_hot": 189596,
       "num": 327196,
       "word": "凤凰台上原著作者 女主",
       "onboard_time": 1763735061,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185070,
+      "num": 185070,
+      "word": "日本再次面临抉择",
+      "onboard_time": 1763770341,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 171877,
@@ -139,6 +211,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 157666,
+      "num": 313595,
+      "word": "日本民众说本来没事都怪高市",
+      "onboard_time": 1763738604,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154924,
       "num": 348157,
       "word": "闭幕式谁的铲子掉了",
@@ -163,6 +243,14 @@
       "category": "国内时政,军事"
     },
     {
+      "raw_hot": 140051,
+      "num": 296651,
+      "word": "狂野时代口碑",
+      "onboard_time": 1763770519,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139738,
       "num": 330598,
       "word": "冰箱贴已经进化成这样了吗",
@@ -171,8 +259,24 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 135903,
+      "num": 135903,
+      "word": "这些人不适合睡午觉",
+      "onboard_time": 1763769739,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 135344,
+      "num": 135344,
+      "word": "易烊千玺 小女孩说的话都对",
+      "onboard_time": 1763769199,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132166,
-      "num": 97906,
+      "num": 121083,
       "word": "多方回应男生穿裙戴假发夺冠成绩无效",
       "onboard_time": 1763732542,
       "rank": 42,
@@ -187,28 +291,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 127273,
-      "num": 127273,
-      "word": "小雪",
-      "onboard_time": 1763768058,
-      "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126324,
-      "num": 313595,
-      "word": "日本民众说本来没事都怪高市",
-      "onboard_time": 1763738604,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 124976,
       "num": 343180,
       "word": "李安对狂野时代的评价",
       "onboard_time": 1763737404,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117894,
+      "num": 117894,
+      "word": "带父母看车堪比相亲现场",
+      "onboard_time": 1763775621,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113783,
+      "num": 113783,
+      "word": "张凌赫林允 终于不是换乘恋爱了",
+      "onboard_time": 1763767758,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 111157,
@@ -220,7 +324,7 @@
     },
     {
       "raw_hot": 108453,
-      "num": 108453,
+      "num": 267307,
       "word": "美结束俄乌冲突28点计划曝光",
       "onboard_time": 1763748436,
       "rank": 16,
@@ -233,6 +337,14 @@
       "onboard_time": 1763763374,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105872,
+      "num": 105872,
+      "word": "时代峰峻否认完你的否认你的",
+      "onboard_time": 1763776221,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 102480,
@@ -251,20 +363,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100834,
+      "num": 106252,
+      "word": "两高中生奸杀教师案申诉被驳回",
+      "onboard_time": 1763775981,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97657,
+      "num": 262976,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1763768479,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94352,
       "num": 312782,
       "word": "狂野时代",
       "onboard_time": 1763743338,
       "rank": 4,
       "category": "电影"
-    },
-    {
-      "raw_hot": 94218,
-      "num": 68477,
-      "word": "张凌赫林允 终于不是换乘恋爱了",
-      "onboard_time": 1763767758,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 93604,
@@ -283,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91066,
+      "num": 97732,
+      "word": "变形计张迪回应抛妻弃子",
+      "onboard_time": 1763746576,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89719,
       "num": 89719,
       "word": "中方的反制在日本产生连锁反应",
@@ -299,11 +427,43 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86191,
+      "num": 86191,
+      "word": "相亲相到古风小生",
+      "onboard_time": 1763771839,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 86111,
+      "num": 86111,
+      "word": "国外夫妻每天在走廊跑步锻炼身体",
+      "onboard_time": 1763775800,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 84596,
       "num": 328996,
       "word": "女孩被撞身亡一周后收到录取书",
       "onboard_time": 1763721683,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84105,
+      "num": 84105,
+      "word": "老板称传家锅卖五六十元不够成本",
+      "onboard_time": 1763773400,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83452,
+      "num": 83452,
+      "word": "警方回应23天女婴被月嫂喂奶呛死",
+      "onboard_time": 1763772380,
+      "rank": 40,
       "category": "民生新闻"
     },
     {
@@ -315,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80908,
+      "num": 318977,
+      "word": "葛荟婕说不喜欢森林北",
+      "onboard_time": 1763740582,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80377,
       "num": 339244,
       "word": "闭幕式 第九套广播体操",
@@ -323,12 +491,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78824,
+      "num": 78824,
+      "word": "韩网友安利中国柚子",
+      "onboard_time": 1763776399,
+      "rank": 43,
+      "category": "美食"
+    },
+    {
       "raw_hot": 78391,
       "num": 321034,
       "word": "毒唯只对真嫂子破防",
       "onboard_time": 1763722642,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 75072,
+      "num": 75072,
+      "word": "猫猫 妈妈说要一口肉一口菜",
+      "onboard_time": 1763772319,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74860,
+      "num": 74860,
+      "word": "普通人的人生才是最好看的",
+      "onboard_time": 1763771781,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 71768,
@@ -353,14 +545,6 @@
       "onboard_time": 1763737704,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69217,
-      "num": 318977,
-      "word": "葛荟婕说不喜欢森林北",
-      "onboard_time": 1763740582,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 69031,
@@ -427,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59617,
-      "num": 97732,
-      "word": "变形计张迪回应抛妻弃子",
-      "onboard_time": 1763746576,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 58870,
       "num": 314585,
       "word": "黄雅琼夺冠后晒婚纱照",
@@ -449,6 +625,14 @@
       "onboard_time": 1763737644,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 57137,
+      "num": 105968,
+      "word": "深圳把全运会闭幕式办成科技发布会",
+      "onboard_time": 1763774720,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 55938,
@@ -467,12 +651,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53874,
+      "num": 166567,
+      "word": "中国军机高空驱离菲挑衅飞机",
+      "onboard_time": 1763775680,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 53214,
       "num": 316222,
       "word": "湖南承办2029全运会",
       "onboard_time": 1763730622,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52847,
+      "num": 73417,
+      "word": "罗小黑小雪海报",
+      "onboard_time": 1763776100,
+      "rank": 47,
+      "category": "动漫"
     },
     {
       "raw_hot": 52844,
@@ -508,7 +708,7 @@
     },
     {
       "raw_hot": 50546,
-      "num": 50546,
+      "num": 71878,
       "word": "造假教授被查学生称不意外",
       "onboard_time": 1763766257,
       "rank": 33,
@@ -537,6 +737,14 @@
       "onboard_time": 1763767518,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 44812,
+      "num": 70440,
+      "word": "大湾鸡变装了",
+      "onboard_time": 1763768538,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 41637,
@@ -649,6 +857,14 @@
       "onboard_time": 1763752454,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 13661,
+      "num": 83492,
+      "word": "向往的生活刘宪华惊喜回归",
+      "onboard_time": 1763776100,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 10733,
