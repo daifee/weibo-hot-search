@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763840207555,
+  "endTime": 1763843320359,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -78291,6 +78291,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18415,
+      "num": 29939,
+      "word": "黄子弘凡演唱会",
+      "onboard_time": 1763842994,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 18383,
+      "num": 29937,
+      "word": "缅甸谴责高市早苗",
+      "onboard_time": 1763841314,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18380,
       "num": 108485,
       "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
@@ -79633,6 +79649,14 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 9925,
+      "num": 29780,
+      "word": "柬埔寨劫囚案9小时全员落网",
+      "onboard_time": 1763841494,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 9871,
