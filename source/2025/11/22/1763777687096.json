@@ -1,0 +1,410 @@
+{
+  "runTime": 1763777687096,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 705339,
+        "num": 1112854,
+        "word": "高市有事",
+        "onboard_time": 1763768599,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 288400,
+        "num": 288400,
+        "word": "中国军机高空驱离菲挑衅飞机",
+        "onboard_time": 1763775680,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 8126,
+        "num": 280905,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763717003,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 484442,
+        "num": 280524,
+        "word": "中方就高市错误言行致函古特雷斯",
+        "onboard_time": 1763773701,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 279974,
+        "num": 279974,
+        "word": "小雪",
+        "onboard_time": 1763768058,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240329,
+        "num": 240329,
+        "word": "胖东来投资1亿成立新公司",
+        "onboard_time": 1763771719,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 211272,
+        "num": 211272,
+        "word": "高市早苗招惹马来西亚",
+        "onboard_time": 1763734522,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 192739,
+        "num": 192739,
+        "word": "成毅电影营救汪星人定档",
+        "onboard_time": 1763772622,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105575,
+        "num": 191549,
+        "word": "狂野时代口碑",
+        "onboard_time": 1763770519,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92079,
+        "num": 188666,
+        "word": "中方回应俄乌战场现中国武器",
+        "onboard_time": 1763726001,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 627026,
+        "num": 186969,
+        "word": "胖东来羽绒服成本184售价256",
+        "onboard_time": 1763776159,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 394634,
+        "num": 183025,
+        "word": "高市早苗座驾车牌号为3777",
+        "onboard_time": 1763776700,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 202868,
+        "num": 181415,
+        "word": "父亲称1万8雇月嫂女儿被喂奶呛死",
+        "onboard_time": 1763741362,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180325,
+        "num": 180325,
+        "word": "湖南高院通报2高中生奸杀教师案",
+        "onboard_time": 1763738303,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165226,
+        "num": 180325,
+        "word": "王俊凯录完你的录你的",
+        "onboard_time": 1763770279,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145124,
+        "num": 180319,
+        "word": "男子花8万元网购70平海景房",
+        "onboard_time": 1763756713,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136377,
+        "num": 180308,
+        "word": "日本再次面临抉择",
+        "onboard_time": 1763770341,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103263,
+        "num": 180303,
+        "word": "易烊千玺 小女孩说的话都对",
+        "onboard_time": 1763769199,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91575,
+        "num": 180301,
+        "word": "声生不息华流季肖战作品cut",
+        "onboard_time": 1763776640,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85964,
+        "num": 180289,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1763768479,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2534597,
+        "num": 180288,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 421658,
+        "num": 180283,
+        "word": "易梦玲采访录音公布",
+        "onboard_time": 1763767337,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240072,
+        "num": 180273,
+        "word": "两高中生奸杀教师案申诉被驳回",
+        "onboard_time": 1763775981,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181107,
+        "num": 180271,
+        "word": "时代峰峻否认完你的否认你的",
+        "onboard_time": 1763776221,
+        "rank": 23,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 83954,
+        "num": 180263,
+        "word": "向往的生活刘宪华惊喜回归",
+        "onboard_time": 1763776100,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 685488,
+        "num": 180255,
+        "word": "胡彦斌 不是AI的",
+        "onboard_time": 1763736143,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123081,
+        "num": 180250,
+        "word": "日本民众说本来没事都怪高市",
+        "onboard_time": 1763738604,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112024,
+        "num": 180245,
+        "word": "这些人不适合睡午觉",
+        "onboard_time": 1763769739,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96406,
+        "num": 180234,
+        "word": "张凌赫林允 终于不是换乘恋爱了",
+        "onboard_time": 1763767758,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 72061,
+        "num": 180229,
+        "word": "中国点穴式制裁日本",
+        "onboard_time": 1763730802,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143400,
+        "num": 180226,
+        "word": "韩网友安利中国柚子",
+        "onboard_time": 1763776399,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94592,
+        "num": 180221,
+        "word": "高市早苗正将日本引入好战必亡危险",
+        "onboard_time": 1763774180,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91299,
+        "num": 180210,
+        "word": "狗狗偷偷亲了主人一下",
+        "onboard_time": 1763776579,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83099,
+        "num": 180209,
+        "word": "多方回应男生穿裙戴假发夺冠成绩无效",
+        "onboard_time": 1763732542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80719,
+        "num": 180200,
+        "word": "猫猫 妈妈说要一口肉一口菜",
+        "onboard_time": 1763772319,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80013,
+        "num": 180196,
+        "word": "变形计张迪回应抛妻弃子",
+        "onboard_time": 1763746576,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 78489,
+        "num": 180190,
+        "word": "相亲相到古风小生",
+        "onboard_time": 1763771839,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78217,
+        "num": 180181,
+        "word": "狂野时代",
+        "onboard_time": 1763743338,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 60536,
+        "num": 180174,
+        "word": "深圳把全运会闭幕式办成科技发布会",
+        "onboard_time": 1763774720,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78079,
+        "num": 180170,
+        "word": "凤凰台上原著作者 女主",
+        "onboard_time": 1763735061,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76104,
+        "num": 180167,
+        "word": "张凌赫回复全运会获奖运动员",
+        "onboard_time": 1763736684,
+        "rank": 40,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 73761,
+        "num": 180160,
+        "word": "老板称传家锅卖五六十元不够成本",
+        "onboard_time": 1763773400,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73567,
+        "num": 180155,
+        "word": "男子在泳池溺亡近30分钟无人施救",
+        "onboard_time": 1763739683,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69925,
+        "num": 180146,
+        "word": "易梦玲1分钟视频广告报价100万",
+        "onboard_time": 1763738424,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67096,
+        "num": 180138,
+        "word": "葛荟婕说不喜欢森林北",
+        "onboard_time": 1763740582,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 67060,
+        "num": 180137,
+        "word": "警方回应23天女婴被月嫂喂奶呛死",
+        "onboard_time": 1763772380,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65604,
+        "num": 180126,
+        "word": "美结束俄乌冲突28点计划曝光",
+        "onboard_time": 1763748436,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60782,
+        "num": 180124,
+        "word": "黄仁勋预测英伟达在华销售额为零",
+        "onboard_time": 1763774000,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50164,
+        "num": 180116,
+        "word": "中方的反制在日本产生连锁反应",
+        "onboard_time": 1763754734,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44701,
+        "num": 180112,
+        "word": "造假教授被查学生称不意外",
+        "onboard_time": 1763766257,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
