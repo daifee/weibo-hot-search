@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763843320359,
+  "endTime": 1763844094582,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19857,
+      "num": 29937,
+      "word": "缅甸谴责高市早苗",
+      "onboard_time": 1763841314,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18415,
       "num": 29939,
       "word": "黄子弘凡演唱会",
@@ -507,15 +515,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 18383,
-      "num": 29937,
-      "word": "缅甸谴责高市早苗",
-      "onboard_time": 1763841314,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 9925,
+      "raw_hot": 11127,
       "num": 29780,
       "word": "柬埔寨劫囚案9小时全员落网",
       "onboard_time": 1763841494,

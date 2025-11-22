@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763843320359,
+  "endTime": 1763844094582,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -77987,6 +77987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 19857,
+      "num": 29937,
+      "word": "缅甸谴责高市早苗",
+      "onboard_time": 1763841314,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19796,
       "num": 155930,
       "word": "蓬佩奥受聘乌军火商",
@@ -78297,14 +78305,6 @@
       "onboard_time": 1763842994,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18383,
-      "num": 29937,
-      "word": "缅甸谴责高市早苗",
-      "onboard_time": 1763841314,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 18380,
@@ -79563,6 +79563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11127,
+      "num": 29780,
+      "word": "柬埔寨劫囚案9小时全员落网",
+      "onboard_time": 1763841494,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 11057,
       "num": 82395,
       "word": "律师谈传播医生出轨视频是否涉犯罪",
@@ -79649,14 +79657,6 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9925,
-      "num": 29780,
-      "word": "柬埔寨劫囚案9小时全员落网",
-      "onboard_time": 1763841494,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 9871,

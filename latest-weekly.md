@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/23 04:28:40
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/23 04:41:34
 </p>
 </blockquote>
 <p>
@@ -387,20 +387,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E8%B0%B4%E8%B4%A3%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
+缅甸谴责高市早苗（热度：19857）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 黄子弘凡演唱会（热度：18415）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E7%94%B8%E8%B0%B4%E8%B4%A3%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
-缅甸谴责高市早苗（热度：18383）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8A%AB%E5%9B%9A%E6%A1%889%E5%B0%8F%E6%97%B6%E5%85%A8%E5%91%98%E8%90%BD%E7%BD%91%23" target="weibo">
-柬埔寨劫囚案9小时全员落网（热度：9925）
+柬埔寨劫囚案9小时全员落网（热度：11127）
 </a>
 </li>
 
