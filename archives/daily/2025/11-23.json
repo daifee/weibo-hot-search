@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763833154796,
+  "endTime": 1763836528939,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -211,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148927,
+      "num": 43929,
+      "word": "胡彦斌老粉",
+      "onboard_time": 1763833637,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133020,
       "num": 243568,
       "word": "狂野时代",
@@ -371,6 +379,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 61770,
+      "num": 73009,
+      "word": "鬼灭之刃",
+      "onboard_time": 1763832438,
+      "rank": 45,
+      "category": "电影,动漫"
+    },
+    {
       "raw_hot": 59307,
       "num": 240875,
       "word": "暮歌拍的宋亚轩",
@@ -411,14 +427,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 41130,
-      "num": 73009,
-      "word": "鬼灭之刃",
-      "onboard_time": 1763832438,
-      "rank": 45,
-      "category": "电影,动漫"
-    },
-    {
       "raw_hot": 40275,
       "num": 240096,
       "word": "偷甘蔗爆火巡逻小狗已累瘫",
@@ -449,6 +457,46 @@
       "onboard_time": 1763822782,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 25846,
+      "num": 42735,
+      "word": "赤木刚宪瘦了60斤",
+      "onboard_time": 1763818883,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 25264,
+      "num": 42674,
+      "word": "地枭都考上教资了",
+      "onboard_time": 1763833457,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23142,
+      "num": 42624,
+      "word": "这就是有钱人逛奢侈品店的感觉吧",
+      "onboard_time": 1763836095,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 20295,
+      "num": 42766,
+      "word": "吴艳妮发文告别2025赛季",
+      "onboard_time": 1763833516,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 17401,
+      "num": 42593,
+      "word": "爱有5种语言",
+      "onboard_time": 1763834236,
+      "rank": 49,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
