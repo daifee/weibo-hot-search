@@ -1,0 +1,410 @@
+{
+  "runTime": 1763818191300,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 534659,
+        "num": 1085545,
+        "word": "解放军备战画面",
+        "onboard_time": 1763809221,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 270259,
+        "num": 1048291,
+        "word": "日本机场安检员偷中国游客现金被捕",
+        "onboard_time": 1763815222,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 44093,
+        "num": 1029082,
+        "word": "首条大容量全固态电池产线建成",
+        "onboard_time": 1763809221,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1028189,
+        "num": 1028189,
+        "word": "枭起青壤",
+        "onboard_time": 1763804900,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 687751,
+        "num": 687751,
+        "word": "许我耀眼热度",
+        "onboard_time": 1763812702,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261044,
+        "num": 686669,
+        "word": "日本被抛售",
+        "onboard_time": 1763796740,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 483071,
+        "num": 674604,
+        "word": "狂野时代",
+        "onboard_time": 1763800341,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188436,
+        "num": 659477,
+        "word": "日本长期以核能掩盖核武能力",
+        "onboard_time": 1763805921,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187051,
+        "num": 648596,
+        "word": "印度退役将领称坠机归咎于美国",
+        "onboard_time": 1763816422,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181444,
+        "num": 645802,
+        "word": "孙悟空新增筋斗云回城机制",
+        "onboard_time": 1763810842,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1697992,
+        "num": 632178,
+        "word": "香蜜转场又火了",
+        "onboard_time": 1763813843,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1264357,
+        "num": 624273,
+        "word": "严浩翔被升降台遗忘了",
+        "onboard_time": 1763814801,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 919929,
+        "num": 614618,
+        "word": "高市早苗在G20峰会迟到近1小时",
+        "onboard_time": 1763816241,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 604511,
+        "num": 604511,
+        "word": "张真源耳返",
+        "onboard_time": 1763817444,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 534892,
+        "num": 534892,
+        "word": "网曝印度旅游团义乌偷东西",
+        "onboard_time": 1763812822,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 497202,
+        "num": 497202,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1763807480,
+        "rank": 15,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 433019,
+        "num": 433019,
+        "word": "宋亚轩好魅",
+        "onboard_time": 1763813902,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 133474,
+        "num": 429253,
+        "word": "台当局宣布全面解禁日本核食",
+        "onboard_time": 1763792661,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104510,
+        "num": 428517,
+        "word": "为什么我国军队还叫解放军",
+        "onboard_time": 1763800581,
+        "rank": 18,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 30909,
+        "num": 424818,
+        "word": "大学生理发店剪发被收费1万",
+        "onboard_time": 1763817922,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 782245,
+        "num": 418633,
+        "word": "枭起青壤 突脸",
+        "onboard_time": 1763809761,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 417332,
+        "num": 417332,
+        "word": "刘耀文问丁程鑫谁是你最爱的弟弟",
+        "onboard_time": 1763816482,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 448902,
+        "num": 410041,
+        "word": "枭起青壤热度",
+        "onboard_time": 1763808800,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 395906,
+        "num": 395906,
+        "word": "易烊千玺吻戏",
+        "onboard_time": 1763798180,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 370146,
+        "num": 370146,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1763806580,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 145938,
+        "num": 308880,
+        "word": "日本已付出代价",
+        "onboard_time": 1763816722,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 284903,
+        "num": 284903,
+        "word": "枭起青壤 尾鱼",
+        "onboard_time": 1763811501,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281572,
+        "num": 281572,
+        "word": "迪丽热巴陈星旭 西装睡裙打戏",
+        "onboard_time": 1763815943,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70615,
+        "num": 280156,
+        "word": "解放军还有一个重要使命",
+        "onboard_time": 1763806160,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61312,
+        "num": 278779,
+        "word": "男子762元买20多件商品蕉内拒发货",
+        "onboard_time": 1763817803,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70388,
+        "num": 278322,
+        "word": "鸿星尔克于适西安",
+        "onboard_time": 1763813001,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 345064,
+        "num": 275871,
+        "word": "暮歌拍的宋亚轩",
+        "onboard_time": 1763816904,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 321947,
+        "num": 275638,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274206,
+        "num": 274206,
+        "word": "刘耀文帅得不知天地为何物了",
+        "onboard_time": 1763813301,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 140531,
+        "num": 273628,
+        "word": "第五人格赛事",
+        "onboard_time": 1763816363,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 273186,
+        "num": 273186,
+        "word": "严浩翔动摇首秀",
+        "onboard_time": 1763817202,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209254,
+        "num": 250163,
+        "word": "宋雨琦叫张真源哥哥",
+        "onboard_time": 1763816722,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49911,
+        "num": 243059,
+        "word": "中国军网发视频大子弹量大管够",
+        "onboard_time": 1763794220,
+        "rank": 37,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 242982,
+        "num": 242982,
+        "word": "丁程鑫在玩舞台",
+        "onboard_time": 1763817083,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 43840,
+        "num": 240945,
+        "word": "好消息家里有矿坏消息矿里有鬼",
+        "onboard_time": 1763813603,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240551,
+        "num": 240551,
+        "word": "胡彦斌 易梦玲",
+        "onboard_time": 1763799920,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232149,
+        "num": 232149,
+        "word": "花海拍了时代少年团演唱会VCR",
+        "onboard_time": 1763816422,
+        "rank": 41,
+        "category": "演出,电竞"
+      },
+      {
+        "raw_hot": 225567,
+        "num": 225567,
+        "word": "贺峻霖时隔九年再唱爱你",
+        "onboard_time": 1763817803,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 224993,
+        "num": 224993,
+        "word": "迪丽热巴好有质感的美",
+        "onboard_time": 1763809702,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 191217,
+        "num": 224880,
+        "word": "奔跑吧开播",
+        "onboard_time": 1763814742,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27353,
+        "num": 224763,
+        "word": "一建筑突发大火被困者记录逃生过程",
+        "onboard_time": 1763816602,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181766,
+        "num": 224592,
+        "word": "马嘉祺苏州河 好听",
+        "onboard_time": 1763814862,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168870,
+        "num": 224458,
+        "word": "彭小苒 谢楼南",
+        "onboard_time": 1763818161,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114297,
+        "num": 224383,
+        "word": "1000岁古树秋天像挂满了铜钱",
+        "onboard_time": 1763817922,
+        "rank": 48,
+        "category": "旅游,民生新闻"
+      },
+      {
+        "raw_hot": 78891,
+        "num": 224222,
+        "word": "小米汽车未交付催收尾款案一审宣判",
+        "onboard_time": 1763818041,
+        "rank": 49,
+        "category": "汽车"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
