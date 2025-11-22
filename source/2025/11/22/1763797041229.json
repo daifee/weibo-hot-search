@@ -1,0 +1,410 @@
+{
+  "runTime": 1763797041229,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 479225,
+        "num": 1076676,
+        "word": "中方有权对日武力介入行使自卫权",
+        "onboard_time": 1763792421,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230130,
+        "num": 661794,
+        "word": "印尼孕妇分娩遭4医院拒收母子双亡",
+        "onboard_time": 1763784201,
+        "rank": 1,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26916,
+        "num": 560016,
+        "word": "古诗里的小雪",
+        "onboard_time": 1763781502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542731,
+        "num": 542731,
+        "word": "狂野时代 看不懂",
+        "onboard_time": 1763790020,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 256514,
+        "num": 524540,
+        "word": "高市早苗车牌是3777",
+        "onboard_time": 1763776700,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241460,
+        "num": 486600,
+        "word": "哪吒2不参评奥斯卡最佳动画长片",
+        "onboard_time": 1763786540,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151411,
+        "num": 444560,
+        "word": "枭起青壤云包场",
+        "onboard_time": 1763788639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145649,
+        "num": 417651,
+        "word": "RW官宣Fly自由人离队",
+        "onboard_time": 1763793502,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108243,
+        "num": 348877,
+        "word": "全运会乒乓女单铜牌赛收视率第一",
+        "onboard_time": 1763780721,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97321,
+        "num": 315371,
+        "word": "馆长称若非中国慈悲分秒给日本灭掉",
+        "onboard_time": 1763788760,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297966,
+        "num": 297966,
+        "word": "考公的动力在电梯里具象化了",
+        "onboard_time": 1763793860,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 272863,
+        "num": 272863,
+        "word": "张继科说下一届全运会想打就能打",
+        "onboard_time": 1763790500,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 272067,
+        "num": 272067,
+        "word": "易烊千玺演技",
+        "onboard_time": 1763795601,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83615,
+        "num": 258913,
+        "word": "广州车展全民热搜铂智7",
+        "onboard_time": 1763791520,
+        "rank": 13,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 258683,
+        "num": 258683,
+        "word": "儿子打电话说撞死人要10万私了",
+        "onboard_time": 1763781800,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249955,
+        "num": 249955,
+        "word": "中国军网发视频大子弹量大管够",
+        "onboard_time": 1763794220,
+        "rank": 15,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 223556,
+        "num": 223556,
+        "word": "王安宇胡先煦 被导游定义的一生",
+        "onboard_time": 1763791821,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212539,
+        "num": 212539,
+        "word": "迪丽热巴代言枭起青壤云包场",
+        "onboard_time": 1763796080,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 178137,
+        "num": 178137,
+        "word": "白敬亭没到老鼠干到了",
+        "onboard_time": 1763796260,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172773,
+        "num": 172773,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1763784800,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 1106729,
+        "num": 172046,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 681557,
+        "num": 170849,
+        "word": "沙溢两个儿子在英国上学",
+        "onboard_time": 1763790681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514437,
+        "num": 169154,
+        "word": "张歆艺点赞罗晋唐嫣分居",
+        "onboard_time": 1763791821,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 489034,
+        "num": 167629,
+        "word": "第一次见明星带着素人一起官宣",
+        "onboard_time": 1763791161,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 336133,
+        "num": 165929,
+        "word": "曹格15岁女儿近照",
+        "onboard_time": 1763794401,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12135,
+        "num": 163761,
+        "word": "日本被抛售",
+        "onboard_time": 1763796740,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309212,
+        "num": 162048,
+        "word": "台当局宣布全面解禁日本核食",
+        "onboard_time": 1763792661,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121032,
+        "num": 159847,
+        "word": "唐诡再宠下去方丈真危险了",
+        "onboard_time": 1763795301,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118651,
+        "num": 157936,
+        "word": "谁懂原班人马拍第二部的含金量",
+        "onboard_time": 1763796680,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109011,
+        "num": 156779,
+        "word": "罗一舟首个恋综官宣",
+        "onboard_time": 1763790559,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329028,
+        "num": 155379,
+        "word": "马思唯带女友喝酒",
+        "onboard_time": 1763790500,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62751,
+        "num": 152826,
+        "word": "巴拿马议员计划窜台未获政府批准",
+        "onboard_time": 1763795301,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152690,
+        "num": 152690,
+        "word": "结婚7年发现妻子精神病史要求退彩礼",
+        "onboard_time": 1763780660,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133896,
+        "num": 133896,
+        "word": "陈伟霆老亲完臭",
+        "onboard_time": 1763785822,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120039,
+        "num": 120039,
+        "word": "断糖30天的面部变化",
+        "onboard_time": 1763790980,
+        "rank": 34,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 109903,
+        "num": 109903,
+        "word": "张柏芝明媚得像女大学生",
+        "onboard_time": 1763796801,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78298,
+        "num": 104710,
+        "word": "有一种骄傲叫运动老将",
+        "onboard_time": 1763796921,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 72111,
+        "num": 104110,
+        "word": "F1拉斯维加斯大奖赛",
+        "onboard_time": 1763796801,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9258,
+        "num": 103807,
+        "word": "超市内女子赤脚站水缸里清理海鲜柜",
+        "onboard_time": 1763796740,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103748,
+        "num": 103748,
+        "word": "小迪丽热巴怀疑自己的独特性",
+        "onboard_time": 1763796200,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108865,
+        "num": 103238,
+        "word": "葛荟婕 分手费分次给了30万",
+        "onboard_time": 1763783601,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101307,
+        "num": 101307,
+        "word": "余宇涵还回时代峰峻吗",
+        "onboard_time": 1763792600,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100377,
+        "num": 100377,
+        "word": "枭起青壤今日开播",
+        "onboard_time": 1763778621,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98804,
+        "num": 98804,
+        "word": "男朋友非要给小猫泡脚",
+        "onboard_time": 1763792480,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95748,
+        "num": 95748,
+        "word": "围炉煮茶",
+        "onboard_time": 1763796500,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 94032,
+        "num": 94032,
+        "word": "别让i人看见这件羽绒服",
+        "onboard_time": 1763795179,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91010,
+        "num": 91010,
+        "word": "赫丽摸金宇包场迪丽热巴枭起青壤",
+        "onboard_time": 1763787440,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85122,
+        "num": 85122,
+        "word": "狂野时代",
+        "onboard_time": 1763743338,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61987,
+        "num": 83739,
+        "word": "库里38分",
+        "onboard_time": 1763791221,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83419,
+        "num": 83419,
+        "word": "Keria谈吃麻婆豆腐",
+        "onboard_time": 1763796440,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代江河战略#"
+    }
+  }
+}

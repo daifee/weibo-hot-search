@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 15:25:07
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 15:37:21
 </p>
 </blockquote>
 <p>
@@ -5691,6 +5691,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%AC%A1%E8%A7%81%E6%98%8E%E6%98%9F%E5%B8%A6%E7%9D%80%E7%B4%A0%E4%BA%BA%E4%B8%80%E8%B5%B7%E5%AE%98%E5%AE%A3%23" target="weibo">
+第一次见明星带着素人一起官宣（热度：489034）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E4%BA%91%E7%86%99%E6%9E%97%E5%85%81%E6%9D%80%E6%AD%BB%E4%BA%86%E5%89%A7%E5%AE%A3%E6%AF%94%E8%B5%9B%23" target="weibo">
 罗云熙林允杀死了剧宣比赛（热度：488933）
 </a>
@@ -5889,6 +5895,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9C%89%E6%9D%83%E5%AF%B9%E6%97%A5%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E8%A1%8C%E4%BD%BF%E8%87%AA%E5%8D%AB%E6%9D%83%23" target="weibo">
+中方有权对日武力介入行使自卫权（热度：479225）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3ip%E5%9C%A8%E4%B8%8A%E6%B5%B7%23" target="weibo">
 唐嫣ip在上海（热度：478283）
 </a>
@@ -5999,18 +6011,6 @@ Gumayusi HLE（热度：476338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%A5%E6%BA%AA%E4%B8%BA%E5%92%8C%E4%B8%A5%E5%B1%B9%E5%AE%BD%E6%8B%8D%E6%88%8F%E6%94%BE%E5%BC%83%E5%A5%B3%E4%B8%80%E5%8F%B7%23" target="weibo">
 杜若溪为和严屹宽拍戏放弃女一号（热度：472173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BA%A649.1%E4%B8%87%E5%BC%A0%E9%A3%9E%E5%BE%80%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E5%8F%96%E6%B6%88%23" target="weibo">
-约49.1万张飞往日本机票取消（热度：472061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E5%85%81%E8%AE%B8%E5%9F%8E%E9%95%87%E5%B1%85%E6%B0%91%E5%88%B0%E5%86%9C%E6%9D%91%E4%B9%B0%E5%86%9C%E6%88%BF%23" target="weibo">
-不允许城镇居民到农村买农房（热度：471591）
 </a>
 </li>
 
