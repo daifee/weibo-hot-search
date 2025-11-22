@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763801122678,
+  "endTime": 1763803597711,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -3068,7 +3068,7 @@
     },
     {
       "raw_hot": 798866,
-      "num": 198011,
+      "num": 199488,
       "word": "沙溢两个儿子在英国上学",
       "onboard_time": 1763790681,
       "rank": 21,
@@ -3667,6 +3667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 732339,
+      "num": 1117174,
+      "word": "日本被抛售",
+      "onboard_time": 1763796740,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 731496,
       "num": 731496,
       "word": "AG奖金",
@@ -3929,6 +3937,14 @@
       "onboard_time": 1763718082,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 703011,
+      "num": 260337,
+      "word": "何炅 警惕穿红衣服的人",
+      "onboard_time": 1763798420,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 702431,
@@ -6467,6 +6483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 544253,
+      "num": 435793,
+      "word": "枭起青壤直播",
+      "onboard_time": 1763802381,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 541767,
       "num": 541767,
       "word": "南京下雪",
@@ -7771,6 +7795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 482835,
+      "num": 482835,
+      "word": "王者新英雄大禹",
+      "onboard_time": 1763800641,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 482681,
       "num": 343462,
       "word": "道崽女友",
@@ -8563,14 +8595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 451159,
-      "num": 1072185,
-      "word": "日本被抛售",
-      "onboard_time": 1763796740,
-      "rank": 25,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 450721,
       "num": 450721,
       "word": "众星送别悼念甄志强",
@@ -8985,6 +9009,14 @@
       "onboard_time": 1762866681,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 437433,
+      "num": 172583,
+      "word": "胡彦斌曾给易梦玲送咖啡",
+      "onboard_time": 1763801242,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 436981,
@@ -14419,6 +14451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 299722,
+      "num": 257268,
+      "word": "王洋宣传迪丽热巴枭起青壤",
+      "onboard_time": 1763801660,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 299530,
       "num": 180508,
       "word": "黄磊回应被指爱说教",
@@ -17099,6 +17139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 254308,
+      "num": 254308,
+      "word": "为什么我国军队还叫解放军",
+      "onboard_time": 1763800581,
+      "rank": 43,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 254255,
       "num": 254255,
       "word": "兽皮痣无法通过产检提前发现",
@@ -17372,7 +17420,7 @@
     },
     {
       "raw_hot": 249955,
-      "num": 249955,
+      "num": 266679,
       "word": "中国军网发视频大子弹量大管够",
       "onboard_time": 1763794220,
       "rank": 16,
@@ -18059,6 +18107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 238367,
+      "num": 193269,
+      "word": "丁泽仁回应收唯一的姐300万",
+      "onboard_time": 1763798361,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238280,
       "num": 238280,
       "word": "水龙吟暗河传豆瓣开分",
@@ -18136,14 +18192,6 @@
       "word": "赵樱子曝孟子义上综艺和她有关系",
       "onboard_time": 1762038616,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 236999,
-      "num": 180008,
-      "word": "丁泽仁回应收唯一的姐300万",
-      "onboard_time": 1763798361,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -18249,6 +18297,14 @@
       "onboard_time": 1763360540,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234903,
+      "num": 390212,
+      "word": "张继科杯团体赛的队名太好笑了",
+      "onboard_time": 1763798601,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 234746,
@@ -18425,14 +18481,6 @@
       "onboard_time": 1762773319,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 232386,
-      "num": 232386,
-      "word": "王者新英雄大禹",
-      "onboard_time": 1763800641,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 232215,
@@ -18699,14 +18747,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228494,
-      "num": 228494,
-      "word": "何炅 警惕穿红衣服的人",
-      "onboard_time": 1763798420,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 228422,
       "num": 228422,
       "word": "金鸡奖节目单",
@@ -18897,6 +18937,14 @@
       "onboard_time": 1763213607,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 225904,
+      "num": 208091,
+      "word": "迪丽热巴王洋友谊",
+      "onboard_time": 1763802740,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 225797,
@@ -20387,6 +20435,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 210281,
+      "num": 210281,
+      "word": "周翊然直播",
+      "onboard_time": 1763802981,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210238,
       "num": 128861,
       "word": "入冬仪式感是立冬四件套给的",
@@ -20465,6 +20521,14 @@
       "onboard_time": 1762088782,
       "rank": 10,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209202,
+      "num": 188622,
+      "word": "杨幂小雪吃铁锅炖",
+      "onboard_time": 1763802981,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 209179,
@@ -28155,6 +28219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164621,
+      "num": 164621,
+      "word": "日本人没米下锅了",
+      "onboard_time": 1763801660,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 164549,
       "num": 172189,
       "word": "富贵少爷万水千山我替你看到了",
@@ -35635,6 +35707,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135827,
+      "num": 135827,
+      "word": "日本发生大火约100只狗葬身火海",
+      "onboard_time": 1763801420,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 135823,
       "num": 135823,
       "word": "369谈LPL与LCK差距",
@@ -39155,6 +39235,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125237,
+      "num": 184033,
+      "word": "东南亚大嫂不值得追捧",
+      "onboard_time": 1763802020,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 125230,
       "num": 125230,
       "word": "独身女子钱在银行却无法拿来救命",
@@ -39921,6 +40009,14 @@
       "onboard_time": 1762153881,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123602,
+      "num": 123602,
+      "word": "女孩的裙摆也可以保护别人",
+      "onboard_time": 1763798241,
+      "rank": 42,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 123593,
@@ -41977,14 +42073,6 @@
       "onboard_time": 1762584320,
       "rank": 26,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118563,
-      "num": 183867,
-      "word": "张继科杯团体赛的队名太好笑了",
-      "onboard_time": 1763798601,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 118552,
@@ -45387,14 +45475,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 110707,
-      "num": 110707,
-      "word": "女孩的裙摆也可以保护别人",
-      "onboard_time": 1763798241,
-      "rank": 42,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 110688,
       "num": 110688,
       "word": "黄金征税后水贝批发商不敢出货",
@@ -45505,6 +45585,14 @@
       "onboard_time": 1762946241,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110377,
+      "num": 110377,
+      "word": "突然懂了唐僧师徒晒经书有多绝望",
+      "onboard_time": 1763801840,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 110361,
@@ -46176,6 +46264,14 @@
       "word": "新闻女王我更喜欢2",
       "onboard_time": 1762607961,
       "rank": 37,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 108617,
+      "num": 108617,
+      "word": "四喜出轨老公给原配留遗产",
+      "onboard_time": 1763803341,
+      "rank": 40,
       "category": "剧集"
     },
     {
@@ -49539,6 +49635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 102241,
+      "num": 102241,
+      "word": "最适合方圆脸的发型",
+      "onboard_time": 1763801420,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 102238,
       "num": 119917,
       "word": "谢娜回应何炅谢娜同台主持",
@@ -49625,6 +49729,14 @@
       "onboard_time": 1762095323,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 102035,
+      "num": 102035,
+      "word": "道崽 星之卡比绪",
+      "onboard_time": 1763801840,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 102028,
@@ -52539,6 +52651,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 96860,
+      "num": 96860,
+      "word": "iPhone放大镜原来是这么用的",
+      "onboard_time": 1763802861,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 96844,
       "num": 230566,
       "word": "下镜脸",
@@ -52817,6 +52937,14 @@
       "onboard_time": 1763469144,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96138,
+      "num": 96138,
+      "word": "那英看上的OST歌手不敢唱后会无期",
+      "onboard_time": 1763803161,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 96121,
@@ -54169,6 +54297,22 @@
       "onboard_time": 1762334662,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 93604,
+      "num": 93604,
+      "word": "柬埔寨江湖大嫂口供曝光",
+      "onboard_time": 1763803580,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 93602,
+      "num": 288404,
+      "word": "暖色系羽绒服看起来更暖和",
+      "onboard_time": 1763798601,
+      "rank": 13,
+      "category": "时尚"
     },
     {
       "raw_hot": 93599,
@@ -56849,14 +56993,6 @@
       "onboard_time": 1761985281,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 88710,
-      "num": 88710,
-      "word": "为什么我国军队还叫解放军",
-      "onboard_time": 1763800581,
-      "rank": 43,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 88681,
@@ -60889,6 +61025,14 @@
       "onboard_time": 1762506501,
       "rank": 40,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 80388,
+      "num": 163268,
+      "word": "中超收官战",
+      "onboard_time": 1763798420,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 80380,
@@ -65507,14 +65651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 66400,
-      "num": 163268,
-      "word": "中超收官战",
-      "onboard_time": 1763798420,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 66361,
       "num": 159960,
       "word": "古偶又有男女主反复扑倒的戏码了",
@@ -66857,6 +66993,14 @@
       "onboard_time": 1763359402,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 61270,
+      "num": 108918,
+      "word": "放弃靠岸日本的中国邮轮改去越南",
+      "onboard_time": 1763802501,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 61220,
@@ -71601,14 +71745,6 @@
       "onboard_time": 1763697141,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 40901,
-      "num": 288404,
-      "word": "暖色系羽绒服看起来更暖和",
-      "onboard_time": 1763798601,
-      "rank": 13,
-      "category": "时尚"
     },
     {
       "raw_hot": 40794,
@@ -77763,6 +77899,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13704,
+      "num": 446499,
+      "word": "小雪时节看冬的诗意",
+      "onboard_time": 1763769739,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13703,
       "num": 31304,
       "word": "一场在博物馆举行的欢迎仪式",
@@ -78313,14 +78457,6 @@
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7982,
-      "num": 328905,
-      "word": "小雪时节看冬的诗意",
-      "onboard_time": 1763769739,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 7890,
