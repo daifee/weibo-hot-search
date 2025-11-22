@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763832137759,
+  "endTime": 1763833154796,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -115,20 +115,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 260951,
+      "num": 260951,
+      "word": "公司强制安排休年假引员工不满",
+      "onboard_time": 1763827881,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 259022,
       "num": 245320,
       "word": "时代少年团演唱会",
       "onboard_time": 1763806580,
       "rank": 15,
       "category": "演出"
-    },
-    {
-      "raw_hot": 257246,
-      "num": 257246,
-      "word": "公司强制安排休年假引员工不满",
-      "onboard_time": 1763827881,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 245463,
@@ -195,20 +195,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154805,
+      "num": 243958,
+      "word": "液断7天瘦了13.2斤",
+      "onboard_time": 1763807480,
+      "rank": 24,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 153234,
       "num": 244772,
       "word": "张真源耳返",
       "onboard_time": 1763817444,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 140989,
-      "num": 243958,
-      "word": "液断7天瘦了13.2斤",
-      "onboard_time": 1763807480,
-      "rank": 24,
-      "category": "运动健身"
     },
     {
       "raw_hot": 133020,
@@ -355,8 +355,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 68695,
-      "num": 68695,
+      "raw_hot": 73605,
+      "num": 73605,
       "word": "乌士兵跪求俄军无人机饶命",
       "onboard_time": 1763830459,
       "rank": 33,
@@ -404,11 +404,19 @@
     },
     {
       "raw_hot": 43376,
-      "num": 68569,
+      "num": 73021,
       "word": "张真源唱苦情歌像开大",
       "onboard_time": 1763830339,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 41130,
+      "num": 73009,
+      "word": "鬼灭之刃",
+      "onboard_time": 1763832438,
+      "rank": 45,
+      "category": "电影,动漫"
     },
     {
       "raw_hot": 40275,
