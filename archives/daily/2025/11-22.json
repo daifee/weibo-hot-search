@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763783509644,
+  "endTime": 1763785863508,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2534597,
-      "num": 205148,
+      "num": 229141,
       "word": "胡彦斌 没有义务向全世界汇报",
       "onboard_time": 1763774421,
       "rank": 20,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1360019,
-      "num": 179009,
+      "num": 214256,
       "word": "胡彦斌向粉丝道歉",
       "onboard_time": 1763779100,
       "rank": 25,
@@ -33,6 +33,14 @@
       "onboard_time": 1763738424,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 992844,
+      "num": 275329,
+      "word": "儿子打电话说撞死人要10万私了",
+      "onboard_time": 1763781800,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 941055,
@@ -49,6 +57,14 @@
       "onboard_time": 1763768599,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 681585,
+      "num": 269838,
+      "word": "杨坤签约乐华",
+      "onboard_time": 1763783061,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 677638,
@@ -75,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 587338,
+      "num": 225570,
+      "word": "葛荟婕 分手费分次给了30万",
+      "onboard_time": 1763783601,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519489,
-      "num": 325786,
+      "num": 344306,
       "word": "爱奇艺尖叫之夜首轮阵容",
       "onboard_time": 1763779100,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 504909,
+      "num": 504909,
+      "word": "印尼孕妇分娩遭4医院拒收母子双亡",
+      "onboard_time": 1763784201,
+      "rank": 1,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 484442,
@@ -99,12 +131,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441531,
+      "num": 267111,
+      "word": "易烊千玺强制让C",
+      "onboard_time": 1763782280,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
       "raw_hot": 428963,
-      "num": 205412,
+      "num": 261088,
       "word": "结婚7年发现妻子精神病史要求退彩礼",
       "onboard_time": 1763780660,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 423240,
+      "num": 423240,
+      "word": "全运会乒乓女单铜牌赛收视率第一",
+      "onboard_time": 1763780721,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 412075,
@@ -115,36 +163,12 @@
       "category": "时尚"
     },
     {
-      "raw_hot": 405031,
-      "num": 176862,
-      "word": "易烊千玺强制让C",
-      "onboard_time": 1763782280,
-      "rank": 11,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 403259,
-      "num": 403259,
-      "word": "全运会乒乓女单铜牌赛收视率第一",
-      "onboard_time": 1763780721,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 394634,
       "num": 183025,
       "word": "高市早苗座驾车牌号为3777",
       "onboard_time": 1763776700,
       "rank": 11,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 376484,
-      "num": 173937,
-      "word": "儿子打电话说撞死人要10万私了",
-      "onboard_time": 1763781800,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 357328,
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290679,
+      "num": 290679,
+      "word": "尖叫之夜又是CP大乱炖",
+      "onboard_time": 1763784800,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 277986,
       "num": 328691,
       "word": "父亲称1万8雇月嫂女儿被喂奶呛死",
@@ -211,6 +243,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271932,
+      "num": 221336,
+      "word": "刘雨嘉妈妈怀六胎了",
+      "onboard_time": 1763782940,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 270709,
       "num": 268300,
       "word": "枭起青壤连更",
@@ -220,11 +260,19 @@
     },
     {
       "raw_hot": 268448,
-      "num": 268448,
+      "num": 280972,
       "word": "向联合国全体会员国阐明中国立场",
       "onboard_time": 1763778499,
       "rank": 12,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 255631,
+      "num": 255631,
+      "word": "陈伟霆替经纪人追星王安宇",
+      "onboard_time": 1763783960,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 248825,
@@ -243,20 +291,20 @@
       "category": "财经"
     },
     {
+      "raw_hot": 234914,
+      "num": 234914,
+      "word": "时代少年团再跳yesoryes",
+      "onboard_time": 1763785221,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "韩网友安利中国柚子",
       "onboard_time": 1763776399,
       "rank": 43,
       "category": "美食"
-    },
-    {
-      "raw_hot": 218038,
-      "num": 170005,
-      "word": "杨坤签约乐华",
-      "onboard_time": 1763783061,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 217972,
@@ -307,6 +355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 196577,
+      "num": 196577,
+      "word": "冬天最狠减肥法",
+      "onboard_time": 1763784800,
+      "rank": 30,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 196266,
       "num": 196266,
       "word": "王俊凯录完你的录你的",
@@ -323,20 +379,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 187696,
-      "num": 161145,
-      "word": "刘雨嘉妈妈怀六胎了",
-      "onboard_time": 1763782940,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 185070,
       "num": 185070,
       "word": "日本再次面临抉择",
       "onboard_time": 1763770341,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 182139,
+      "num": 182139,
+      "word": "娜扎小雪13年后限定返场",
+      "onboard_time": 1763783902,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 172022,
+      "num": 209697,
+      "word": "新版还珠大结局琼瑶味溢出来了",
+      "onboard_time": 1763785341,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 171877,
@@ -491,12 +555,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140035,
+      "num": 205712,
+      "word": "得闲谨制 12月",
+      "onboard_time": 1763785460,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 139738,
       "num": 330598,
       "word": "冰箱贴已经进化成这样了吗",
       "onboard_time": 1763728581,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138104,
+      "num": 138104,
+      "word": "张真源玩游戏赌上了职业生涯",
+      "onboard_time": 1763785341,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 137949,
@@ -555,6 +635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129345,
+      "num": 129345,
+      "word": "Faker查岗Keria",
+      "onboard_time": 1763783360,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127886,
       "num": 325482,
       "word": "不是AI是爱",
@@ -569,6 +657,14 @@
       "onboard_time": 1763781201,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 126359,
+      "num": 129552,
+      "word": "狗狗眼里的漂亮人类长什么样",
+      "onboard_time": 1763783960,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 125064,
@@ -587,11 +683,35 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123787,
+      "num": 123787,
+      "word": "汪苏泷 流行的就是好的吗",
+      "onboard_time": 1763785460,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 121418,
+      "num": 121418,
+      "word": "睡着后容易醒可能是6种病",
+      "onboard_time": 1763782340,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121253,
       "num": 157113,
       "word": "现在就出发",
       "onboard_time": 1763782640,
       "rank": 26,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 118948,
+      "num": 118948,
+      "word": "陈伟霆老亲完臭",
+      "onboard_time": 1763785822,
+      "rank": 47,
       "category": "综艺"
     },
     {
@@ -643,14 +763,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 107967,
-      "num": 107967,
-      "word": "睡着后容易醒可能是6种病",
-      "onboard_time": 1763782340,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 107315,
       "num": 29394,
       "word": "胡彦斌",
@@ -681,14 +793,6 @@
       "onboard_time": 1763740281,
       "rank": 28,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 101838,
-      "num": 101838,
-      "word": "Faker查岗Keria",
-      "onboard_time": 1763783360,
-      "rank": 43,
-      "category": "电竞"
     },
     {
       "raw_hot": 97657,
@@ -724,7 +828,7 @@
     },
     {
       "raw_hot": 91593,
-      "num": 155721,
+      "num": 201240,
       "word": "开拓者vs勇士",
       "onboard_time": 1763781140,
       "rank": 28,
@@ -883,6 +987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71370,
+      "num": 131543,
+      "word": "普京就28点计划表态",
+      "onboard_time": 1763784080,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 70843,
       "num": 320389,
       "word": "马龙太嗨了",
@@ -987,6 +1099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59685,
+      "num": 130564,
+      "word": "高市早苗让日本国民成牺牲品",
+      "onboard_time": 1763784019,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58870,
       "num": 314585,
       "word": "黄雅琼夺冠后晒婚纱照",
@@ -1009,6 +1129,14 @@
       "onboard_time": 1763727621,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 55828,
+      "num": 229906,
+      "word": "士力架带唐钱婷上杂志封面了",
+      "onboard_time": 1763784261,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 54757,
@@ -1075,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 50517,
+      "num": 130076,
+      "word": "杜海涛有没有人管管现在的AI了",
+      "onboard_time": 1763784800,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49024,
       "num": 202741,
       "word": "kimi戴口罩好像易烊千玺",
@@ -1089,6 +1225,14 @@
       "onboard_time": 1763731042,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 46877,
+      "num": 259674,
+      "word": "灵光4天下载破100万",
+      "onboard_time": 1763784019,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 46084,
@@ -1164,11 +1308,19 @@
     },
     {
       "raw_hot": 29622,
-      "num": 328223,
+      "num": 461076,
       "word": "第15届全运会闭幕",
       "onboard_time": 1763782101,
       "rank": 2,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28860,
+      "num": 244533,
+      "word": "陈丽君用中式美学打开小雪节气",
+      "onboard_time": 1763784261,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 27698,
@@ -1264,6 +1416,14 @@
       "word": "被悬赏3千元走失灰鹦鹉已飞回",
       "onboard_time": 1763780420,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15633,
+      "num": 130834,
+      "word": "老人三轮车侧翻求助反复称我不讹人",
+      "onboard_time": 1763785401,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
