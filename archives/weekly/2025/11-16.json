@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763810449005,
+  "endTime": 1763811465769,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -955,6 +955,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 868972,
+      "num": 281040,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1763806580,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 868347,
       "num": 192599,
       "word": "唐嫣曾说罗晋半年提了6次分手",
@@ -1203,14 +1211,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 776538,
-      "num": 281040,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1763806580,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 776195,
       "num": 254742,
       "word": "女婴心脏手术去世涉事医生已停诊",
@@ -1395,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 706496,
+      "num": 259079,
+      "word": "液断7天瘦了13.2斤",
+      "onboard_time": 1763807480,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 705697,
       "num": 259558,
       "word": "曾轶可现任助理发朋友圈对质",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1763364681,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 692736,
+      "num": 509767,
+      "word": "枭起青壤 突脸",
+      "onboard_time": 1763809761,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 689211,
@@ -1539,8 +1555,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 664874,
-      "num": 351263,
+      "raw_hot": 665144,
+      "num": 386321,
       "word": "枭起青壤热度",
       "onboard_time": 1763808800,
       "rank": 6,
@@ -1851,14 +1867,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 610635,
-      "num": 249823,
-      "word": "液断7天瘦了13.2斤",
-      "onboard_time": 1763807480,
-      "rank": 31,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 609799,
       "num": 609799,
       "word": "河南鹅毛大雪",
@@ -1945,6 +1953,14 @@
       "onboard_time": 1763444422,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 595074,
+      "num": 1095211,
+      "word": "解放军备战画面",
+      "onboard_time": 1763809221,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 594359,
@@ -4275,6 +4291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 355927,
+      "num": 256209,
+      "word": "迪丽热巴好有质感的美",
+      "onboard_time": 1763809702,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 355698,
       "num": 355698,
       "word": "外交部明确表态不会见高市早苗",
@@ -4681,6 +4705,14 @@
       "onboard_time": 1763545042,
       "rank": 36,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 332360,
+      "num": 203602,
+      "word": "王源长智齿",
+      "onboard_time": 1763807000,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 332105,
@@ -5339,14 +5371,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 295700,
-      "num": 203602,
-      "word": "王源长智齿",
-      "onboard_time": 1763807000,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 295687,
       "num": 499842,
       "word": "张凌赫张婧仪 王子和公主",
@@ -5441,14 +5465,6 @@
       "onboard_time": 1763272641,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 289945,
-      "num": 244999,
-      "word": "迪丽热巴好有质感的美",
-      "onboard_time": 1763809702,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 289763,
@@ -5569,6 +5585,14 @@
       "onboard_time": 1763643684,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 281961,
+      "num": 253229,
+      "word": "泽连斯基疑暗示已输掉战争",
+      "onboard_time": 1763809221,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 281166,
@@ -5729,14 +5753,6 @@
       "onboard_time": 1763248817,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 273075,
-      "num": 273075,
-      "word": "枭起青壤 突脸",
-      "onboard_time": 1763809761,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 272926,
@@ -6099,6 +6115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 261392,
+      "num": 286096,
+      "word": "解放军还有一个重要使命",
+      "onboard_time": 1763806160,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 261044,
       "num": 261044,
       "word": "辣椒炒肉太费米饭了",
@@ -6283,14 +6307,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 252796,
-      "num": 286096,
-      "word": "解放军还有一个重要使命",
-      "onboard_time": 1763806160,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 252728,
       "num": 252728,
       "word": "中国琉球学学科项目获批启动",
@@ -6321,6 +6337,14 @@
       "onboard_time": 1763432421,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 251720,
+      "num": 251720,
+      "word": "时团六周年节目单",
+      "onboard_time": 1763809821,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 251126,
@@ -6443,14 +6467,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 244431,
-      "num": 244431,
-      "word": "时团六周年节目单",
-      "onboard_time": 1763809821,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 244261,
       "num": 244261,
       "word": "李沁刘浩存坐在一起",
@@ -6481,6 +6497,14 @@
       "onboard_time": 1763544323,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 242755,
+      "num": 242755,
+      "word": "时代少年团直播",
+      "onboard_time": 1763808681,
+      "rank": 18,
+      "category": "演出"
     },
     {
       "raw_hot": 242014,
@@ -6657,14 +6681,6 @@
       "onboard_time": 1763467164,
       "rank": 5,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 235258,
-      "num": 235258,
-      "word": "时代少年团直播",
-      "onboard_time": 1763808681,
-      "rank": 18,
-      "category": "演出"
     },
     {
       "raw_hot": 235070,
@@ -6897,14 +6913,6 @@
       "onboard_time": 1763528482,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 225080,
-      "num": 225080,
-      "word": "泽连斯基疑暗示已输掉战争",
-      "onboard_time": 1763809221,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 225012,
@@ -8595,6 +8603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 189199,
+      "num": 189199,
+      "word": "枭起青壤好刺激",
+      "onboard_time": 1763810781,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189172,
       "num": 385791,
       "word": "华晨宇灭梦导师来了",
@@ -9435,14 +9451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176349,
-      "num": 252001,
-      "word": "解放军备战画面",
-      "onboard_time": 1763809221,
-      "rank": 10,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 176136,
       "num": 206268,
       "word": "终于有剧拍出女演员极致的美与狠",
@@ -9753,6 +9761,14 @@
       "onboard_time": 1763203222,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 170906,
+      "num": 170906,
+      "word": "王者S42赛季前瞻直播",
+      "onboard_time": 1763810781,
+      "rank": 26,
+      "category": "游戏"
     },
     {
       "raw_hot": 170625,
@@ -10115,6 +10131,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 165854,
+      "num": 165854,
+      "word": "迪丽热巴陈星旭圈内人缘",
+      "onboard_time": 1763810961,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165785,
       "num": 165785,
       "word": "宋茜私下不化妆的样子分明是妹妹",
@@ -10329,6 +10353,14 @@
       "onboard_time": 1763605702,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 162354,
+      "num": 162354,
+      "word": "李飞直播",
+      "onboard_time": 1763810120,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 162212,
@@ -11033,6 +11065,14 @@
       "onboard_time": 1763433500,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 153868,
+      "num": 153868,
+      "word": "汪苏泷唱亲爱的X野生主题曲",
+      "onboard_time": 1763811082,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 153796,
@@ -12299,6 +12339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 139216,
+      "num": 883269,
+      "word": "首条大容量全固态电池产线建成",
+      "onboard_time": 1763809221,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 139199,
       "num": 139199,
       "word": "张博恒状态",
@@ -13371,6 +13419,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 127882,
+      "num": 126775,
+      "word": "孙悟空新增筋斗云回城机制",
+      "onboard_time": 1763810842,
+      "rank": 40,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 127827,
       "num": 127827,
       "word": "中国对日反制三个新特点",
@@ -13457,6 +13513,14 @@
       "onboard_time": 1763804720,
       "rank": 37,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 127305,
+      "num": 127305,
+      "word": "最适合蛇塑的女艺人出现了",
+      "onboard_time": 1763810781,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 127285,
@@ -14411,6 +14475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 120533,
+      "num": 120533,
+      "word": "罗永浩说看不懂狂野时代不重要",
+      "onboard_time": 1763810482,
+      "rank": 41,
+      "category": "电影,互联网"
+    },
+    {
       "raw_hot": 120517,
       "num": 212846,
       "word": "彭小苒 导演不喊卡就接着演",
@@ -14529,14 +14601,6 @@
       "onboard_time": 1763693240,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119434,
-      "num": 119434,
-      "word": "李飞直播",
-      "onboard_time": 1763810120,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 119412,
@@ -15523,6 +15587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 111885,
+      "num": 111885,
+      "word": "在林诗栋身上看到了国乒的传承",
+      "onboard_time": 1763811262,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 111828,
       "num": 111828,
       "word": "央视起底AI仿冒名人营销乱象",
@@ -16441,6 +16513,14 @@
       "onboard_time": 1763643503,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104950,
+      "num": 104950,
+      "word": "AG司马光爆改兰陵王",
+      "onboard_time": 1763810602,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 104916,
@@ -18475,14 +18555,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86972,
-      "num": 883269,
-      "word": "首条大容量全固态电池产线建成",
-      "onboard_time": 1763809221,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 86794,
       "num": 284549,
       "word": "全球首例无线植入式中文脑机接口",
@@ -18513,6 +18585,14 @@
       "onboard_time": 1763299403,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86558,
+      "num": 112485,
+      "word": "杨幂展示肱二头肌",
+      "onboard_time": 1763809761,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 86545,
@@ -21027,6 +21107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51225,
+      "num": 127329,
+      "word": "男子寻妻女被拐打工11年无工资",
+      "onboard_time": 1763811383,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51157,
       "num": 282010,
       "word": "全国每5人就有1人念过大学",
@@ -21681,14 +21769,6 @@
       "onboard_time": 1763623882,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43010,
-      "num": 112485,
-      "word": "杨幂展示肱二头肌",
-      "onboard_time": 1763809761,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 42916,
@@ -22729,6 +22809,14 @@
       "onboard_time": 1763228957,
       "rank": 47,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 32036,
+      "num": 747297,
+      "word": "新技术实现胰岛素无创透皮给药",
+      "onboard_time": 1763811021,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31944,
