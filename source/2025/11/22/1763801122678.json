@@ -1,0 +1,410 @@
+{
+  "runTime": 1763801122678,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 451159,
+        "num": 1072185,
+        "word": "日本被抛售",
+        "onboard_time": 1763796740,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310489,
+        "num": 310489,
+        "word": "Uzi 瘾大",
+        "onboard_time": 1763797161,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19333,
+        "num": 298586,
+        "word": "闭幕式高清大图",
+        "onboard_time": 1763800341,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 504135,
+        "num": 291847,
+        "word": "谁懂原班人马拍第二部的含金量",
+        "onboard_time": 1763796680,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 482524,
+        "num": 282525,
+        "word": "狂野时代 看不懂",
+        "onboard_time": 1763790020,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162803,
+        "num": 265171,
+        "word": "高市早苗车牌是3777",
+        "onboard_time": 1763776700,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 423288,
+        "num": 257638,
+        "word": "狂野时代",
+        "onboard_time": 1763800341,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 331948,
+        "num": 233061,
+        "word": "中方有权对日武力介入行使自卫权",
+        "onboard_time": 1763792421,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 232386,
+        "num": 232386,
+        "word": "王者新英雄大禹",
+        "onboard_time": 1763800641,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 161560,
+        "num": 231906,
+        "word": "印尼孕妇分娩遭4医院拒收母子双亡",
+        "onboard_time": 1763784201,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1161113,
+        "num": 231367,
+        "word": "易烊千玺吻戏",
+        "onboard_time": 1763798180,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549579,
+        "num": 230452,
+        "word": "小迪丽热巴怀疑自己的独特性",
+        "onboard_time": 1763796200,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276772,
+        "num": 229914,
+        "word": "白敬亭没到老鼠干到了",
+        "onboard_time": 1763796260,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31613,
+        "num": 229612,
+        "word": "暖色系羽绒服看起来更暖和",
+        "onboard_time": 1763798601,
+        "rank": 13,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 234742,
+        "num": 229001,
+        "word": "考公的动力在电梯里具象化了",
+        "onboard_time": 1763793860,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 228494,
+        "num": 228494,
+        "word": "何炅 警惕穿红衣服的人",
+        "onboard_time": 1763798420,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196728,
+        "num": 196728,
+        "word": "中国军网发视频大子弹量大管够",
+        "onboard_time": 1763794220,
+        "rank": 16,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 194027,
+        "num": 194027,
+        "word": "儿子打电话说撞死人要10万私了",
+        "onboard_time": 1763781800,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184152,
+        "num": 184152,
+        "word": "哪吒2不参评奥斯卡最佳动画长片",
+        "onboard_time": 1763786540,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118563,
+        "num": 183867,
+        "word": "张继科杯团体赛的队名太好笑了",
+        "onboard_time": 1763798601,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 769243,
+        "num": 183169,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 482966,
+        "num": 182643,
+        "word": "沙溢两个儿子在英国上学",
+        "onboard_time": 1763790681,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 393833,
+        "num": 181550,
+        "word": "第一次见明星带着素人一起官宣",
+        "onboard_time": 1763791161,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275189,
+        "num": 180700,
+        "word": "张歆艺点赞罗晋唐嫣分居",
+        "onboard_time": 1763791821,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212248,
+        "num": 180008,
+        "word": "丁泽仁回应收唯一的姐300万",
+        "onboard_time": 1763798361,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179668,
+        "num": 179668,
+        "word": "台当局宣布全面解禁日本核食",
+        "onboard_time": 1763792661,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150471,
+        "num": 150471,
+        "word": "曹格15岁女儿近照",
+        "onboard_time": 1763794401,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150305,
+        "num": 150305,
+        "word": "易烊千玺演技",
+        "onboard_time": 1763795601,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127033,
+        "num": 127033,
+        "word": "张继科说下一届全运会想打就能打",
+        "onboard_time": 1763790500,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93599,
+        "num": 120156,
+        "word": "福建舰之大具象化了",
+        "onboard_time": 1763800581,
+        "rank": 29,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 119720,
+        "num": 119720,
+        "word": "迪丽热巴代言枭起青壤云包场",
+        "onboard_time": 1763796080,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110707,
+        "num": 110707,
+        "word": "女孩的裙摆也可以保护别人",
+        "onboard_time": 1763798241,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 112258,
+        "num": 109148,
+        "word": "枭起青壤今日开播",
+        "onboard_time": 1763778621,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102474,
+        "num": 102474,
+        "word": "A股回调原因找到了",
+        "onboard_time": 1763798840,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 99794,
+        "num": 99794,
+        "word": "RW官宣Fly自由人离队",
+        "onboard_time": 1763793502,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96216,
+        "num": 96216,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1763784800,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 94433,
+        "num": 94433,
+        "word": "黄轩女友英语口语",
+        "onboard_time": 1763799141,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 584632,
+        "num": 94362,
+        "word": "胡彦斌 易梦玲",
+        "onboard_time": 1763799920,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93420,
+        "num": 93420,
+        "word": "豆包还贴心的帮忙丑颜了",
+        "onboard_time": 1763799860,
+        "rank": 38,
+        "category": "互联网,情感"
+      },
+      {
+        "raw_hot": 20426,
+        "num": 92203,
+        "word": "永辉菊花茶里疑现烟头异物",
+        "onboard_time": 1763800101,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91860,
+        "num": 91860,
+        "word": "张艺兴该不会忘了自己是老板吧",
+        "onboard_time": 1763799260,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91475,
+        "num": 91475,
+        "word": "香港人喜欢买大车是因为家庭观念",
+        "onboard_time": 1763799501,
+        "rank": 41,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 87481,
+        "num": 89001,
+        "word": "冷美人女性力量的具象化",
+        "onboard_time": 1763800399,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88710,
+        "num": 88710,
+        "word": "为什么我国军队还叫解放军",
+        "onboard_time": 1763800581,
+        "rank": 43,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 88106,
+        "num": 88106,
+        "word": "葛荟婕 分手费分次给了30万",
+        "onboard_time": 1763783601,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86291,
+        "num": 86291,
+        "word": "哪吒2没报名奥斯卡",
+        "onboard_time": 1763800702,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83735,
+        "num": 83735,
+        "word": "马思唯带女友喝酒",
+        "onboard_time": 1763790500,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82162,
+        "num": 82162,
+        "word": "人变淡确实需要很多眼泪",
+        "onboard_time": 1763797701,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 80158,
+        "num": 80158,
+        "word": "陈伟霆老亲完臭",
+        "onboard_time": 1763785822,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72987,
+        "num": 72987,
+        "word": "张柏芝明媚得像女大学生",
+        "onboard_time": 1763796801,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}
