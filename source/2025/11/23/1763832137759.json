@@ -1,0 +1,410 @@
+{
+  "runTime": 1763832137759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 372542,
+        "num": 498513,
+        "word": "张家齐宣布退役",
+        "onboard_time": 1763818823,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 325576,
+        "num": 325576,
+        "word": "日本已付出代价",
+        "onboard_time": 1763816722,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23652,
+        "num": 287758,
+        "word": "福建舰之大具象化了",
+        "onboard_time": 1763800581,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 257246,
+        "num": 257246,
+        "word": "公司强制安排休年假引员工不满",
+        "onboard_time": 1763827881,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235589,
+        "num": 235589,
+        "word": "枭起青壤",
+        "onboard_time": 1763804900,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271380,
+        "num": 234057,
+        "word": "李庚希演技",
+        "onboard_time": 1763825543,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139286,
+        "num": 139286,
+        "word": "男子762元买20多件商品蕉内拒发货",
+        "onboard_time": 1763817803,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194698,
+        "num": 134773,
+        "word": "狂野时代票房",
+        "onboard_time": 1763823563,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121306,
+        "num": 121306,
+        "word": "日本机场安检员偷中国游客现金被捕",
+        "onboard_time": 1763815222,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106646,
+        "num": 106646,
+        "word": "高市早苗在G20峰会迟到近1小时",
+        "onboard_time": 1763816241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 297835,
+        "num": 106571,
+        "word": "香蜜转场又火了",
+        "onboard_time": 1763813843,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 214077,
+        "num": 106273,
+        "word": "时代少年团大时代舞台感染力拉满",
+        "onboard_time": 1763828061,
+        "rank": 11,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161360,
+        "num": 106131,
+        "word": "迪丽热巴工作室发不过来了",
+        "onboard_time": 1763821943,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139809,
+        "num": 105774,
+        "word": "严浩翔被升降台遗忘了",
+        "onboard_time": 1763814801,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 105640,
+        "num": 105640,
+        "word": "许我耀眼热度",
+        "onboard_time": 1763812702,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100973,
+        "num": 100973,
+        "word": "丁程鑫这个wave",
+        "onboard_time": 1763825181,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97615,
+        "num": 97615,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1763806580,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 97581,
+        "num": 97581,
+        "word": "液断7天瘦了13.2斤",
+        "onboard_time": 1763807480,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 93958,
+        "num": 93958,
+        "word": "外媒称中方使用迄今最强硬措辞",
+        "onboard_time": 1763821402,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86790,
+        "num": 86790,
+        "word": "狂野时代",
+        "onboard_time": 1763800341,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 274524,
+        "num": 86125,
+        "word": "丁泽仁唯一的姐道歉",
+        "onboard_time": 1763819903,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232041,
+        "num": 85758,
+        "word": "70岁任达华跌倒",
+        "onboard_time": 1763823262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88333,
+        "num": 85405,
+        "word": "迪丽热巴陈星旭 西装睡裙打戏",
+        "onboard_time": 1763815943,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83345,
+        "num": 83345,
+        "word": "宋亚轩好魅",
+        "onboard_time": 1763813902,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 82252,
+        "num": 82252,
+        "word": "网曝印度旅游团义乌偷东西",
+        "onboard_time": 1763812822,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215592,
+        "num": 80092,
+        "word": "唯一的姐公开与丁泽仁判决书",
+        "onboard_time": 1763821402,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76315,
+        "num": 76315,
+        "word": "彭小苒 谢楼南",
+        "onboard_time": 1763818161,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75928,
+        "num": 75928,
+        "word": "刘耀文问丁程鑫谁是你最爱的弟弟",
+        "onboard_time": 1763816482,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 71714,
+        "num": 71714,
+        "word": "东部战区海军某部实弹射击火力全开",
+        "onboard_time": 1763822663,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60363,
+        "num": 71678,
+        "word": "解放军备战画面",
+        "onboard_time": 1763809221,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 75278,
+        "num": 71676,
+        "word": "易烊千玺吻戏",
+        "onboard_time": 1763798180,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71656,
+        "num": 71656,
+        "word": "郭碧婷爸爸回应向佐去医院看过他2次",
+        "onboard_time": 1763822182,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71005,
+        "num": 71005,
+        "word": "胡彦斌 易梦玲",
+        "onboard_time": 1763799920,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68695,
+        "num": 68695,
+        "word": "乌士兵跪求俄军无人机饶命",
+        "onboard_time": 1763830459,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 68674,
+        "num": 68674,
+        "word": "枭起青壤热度",
+        "onboard_time": 1763808800,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64633,
+        "num": 68665,
+        "word": "刘耀文帅得不知天地为何物了",
+        "onboard_time": 1763813301,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 59351,
+        "num": 68663,
+        "word": "贺峻霖换衣服了",
+        "onboard_time": 1763819363,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57448,
+        "num": 68645,
+        "word": "枭起青壤 尾鱼",
+        "onboard_time": 1763811501,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55534,
+        "num": 68636,
+        "word": "张真源耳返",
+        "onboard_time": 1763817444,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41389,
+        "num": 68632,
+        "word": "香港取消中学生赴日交流",
+        "onboard_time": 1763823622,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54710,
+        "num": 68622,
+        "word": "存款百万觉得生活没意思涉赌被抓",
+        "onboard_time": 1763826022,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53106,
+        "num": 68608,
+        "word": "严浩翔动摇首秀",
+        "onboard_time": 1763817202,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 53099,
+        "num": 68592,
+        "word": "肖战第一次过这么冷的冬天",
+        "onboard_time": 1763829621,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52402,
+        "num": 68580,
+        "word": "枭起青壤 突脸",
+        "onboard_time": 1763809761,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 52360,
+        "num": 68576,
+        "word": "身体好寿命长的人睡觉有5个特征",
+        "onboard_time": 1763819483,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43376,
+        "num": 68569,
+        "word": "张真源唱苦情歌像开大",
+        "onboard_time": 1763830339,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 42706,
+        "num": 68560,
+        "word": "贺峻霖时隔九年再唱爱你",
+        "onboard_time": 1763817803,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 41228,
+        "num": 68540,
+        "word": "王源长智齿",
+        "onboard_time": 1763807000,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24495,
+        "num": 68537,
+        "word": "偷甘蔗爆火巡逻小狗已累瘫",
+        "onboard_time": 1763820624,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18840,
+        "num": 68528,
+        "word": "苏州3比0南京",
+        "onboard_time": 1763822782,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#把发展蓝图变为美好现实#"
+    }
+  }
+}

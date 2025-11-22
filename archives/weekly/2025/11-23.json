@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763829924243,
+  "endTime": 1763832137759,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -123,6 +123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257246,
+      "num": 257246,
+      "word": "公司强制安排休年假引员工不满",
+      "onboard_time": 1763827881,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "东部战区海军某部实弹射击火力全开",
@@ -139,20 +147,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 214077,
+      "num": 244132,
+      "word": "时代少年团大时代舞台感染力拉满",
+      "onboard_time": 1763828061,
+      "rank": 23,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194357,
       "num": 355700,
       "word": "许我耀眼热度",
       "onboard_time": 1763812702,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189233,
-      "num": 244132,
-      "word": "时代少年团大时代舞台感染力拉满",
-      "onboard_time": 1763828061,
-      "rank": 23,
-      "category": "演出"
     },
     {
       "raw_hot": 176736,
@@ -315,14 +323,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 96044,
-      "num": 241483,
-      "word": "公司强制安排休年假引员工不满",
-      "onboard_time": 1763827881,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 82661,
       "num": 241024,
       "word": "枭起青壤 突脸",
@@ -353,6 +353,14 @@
       "onboard_time": 1763811501,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68695,
+      "num": 68695,
+      "word": "乌士兵跪求俄军无人机饶命",
+      "onboard_time": 1763830459,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 66449,
@@ -393,6 +401,14 @@
       "onboard_time": 1763814742,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 43376,
+      "num": 68569,
+      "word": "张真源唱苦情歌像开大",
+      "onboard_time": 1763830339,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 40275,
