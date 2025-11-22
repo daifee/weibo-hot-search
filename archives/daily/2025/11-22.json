@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763797041229,
+  "endTime": 1763800356920,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1193523,
+      "num": 327360,
+      "word": "易烊千玺吻戏",
+      "onboard_time": 1763798180,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 992844,
       "num": 420422,
       "word": "儿子打电话说撞死人要10万私了",
@@ -73,6 +81,14 @@
       "onboard_time": 1763790020,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 710981,
+      "num": 168097,
+      "word": "胡彦斌 易梦玲",
+      "onboard_time": 1763799920,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 705453,
@@ -139,6 +155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 567377,
+      "num": 327021,
+      "word": "小迪丽热巴怀疑自己的独特性",
+      "onboard_time": 1763796200,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 519489,
       "num": 347619,
       "word": "爱奇艺尖叫之夜首轮阵容",
@@ -153,6 +177,14 @@
       "onboard_time": 1763786540,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 504894,
+      "num": 504894,
+      "word": "谁懂原班人马拍第二部的含金量",
+      "onboard_time": 1763796680,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 489034,
@@ -268,7 +300,7 @@
     },
     {
       "raw_hot": 373541,
-      "num": 165929,
+      "num": 166846,
       "word": "曹格15岁女儿近照",
       "onboard_time": 1763794401,
       "rank": 26,
@@ -321,6 +353,22 @@
       "onboard_time": 1763768058,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 329314,
+      "num": 329314,
+      "word": "日本被抛售",
+      "onboard_time": 1763796740,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 326520,
+      "num": 326520,
+      "word": "白敬亭没到老鼠干到了",
+      "onboard_time": 1763796260,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 318533,
@@ -457,6 +505,22 @@
       "onboard_time": 1763771719,
       "rank": 16,
       "category": "财经"
+    },
+    {
+      "raw_hot": 236999,
+      "num": 169346,
+      "word": "丁泽仁回应收唯一的姐300万",
+      "onboard_time": 1763798361,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 235421,
+      "num": 628122,
+      "word": "Uzi 瘾大",
+      "onboard_time": 1763797161,
+      "rank": 1,
+      "category": "电竞"
     },
     {
       "raw_hot": 220742,
@@ -619,14 +683,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 178137,
-      "num": 178137,
-      "word": "白敬亭没到老鼠干到了",
-      "onboard_time": 1763796260,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 176806,
       "num": 176806,
       "word": "奔跑吧",
@@ -641,6 +697,14 @@
       "onboard_time": 1763788341,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 173533,
+      "num": 173533,
+      "word": "何炅 警惕穿红衣服的人",
+      "onboard_time": 1763798420,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 171877,
@@ -688,6 +752,14 @@
       "word": "得闲谨制 12月",
       "onboard_time": 1763785460,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160439,
+      "num": 312782,
+      "word": "狂野时代",
+      "onboard_time": 1763743338,
+      "rank": 4,
       "category": "电影"
     },
     {
@@ -915,14 +987,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 130570,
-      "num": 312782,
-      "word": "狂野时代",
-      "onboard_time": 1763743338,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 129663,
       "num": 129663,
       "word": "刘晓庆和张蔷吐槽刘嘉玲爱穿黑的",
@@ -945,6 +1009,14 @@
       "onboard_time": 1763737883,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 127682,
+      "num": 127682,
+      "word": "张艺兴该不会忘了自己是老板吧",
+      "onboard_time": 1763799260,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 127479,
@@ -987,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 121308,
+      "num": 121308,
+      "word": "香港人喜欢买大车是因为家庭观念",
+      "onboard_time": 1763799501,
+      "rank": 34,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 121253,
       "num": 157113,
       "word": "现在就出发",
@@ -1009,14 +1089,6 @@
       "onboard_time": 1763786481,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 118651,
-      "num": 157936,
-      "word": "谁懂原班人马拍第二部的含金量",
-      "onboard_time": 1763796680,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 117894,
@@ -1051,14 +1123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 110937,
-      "num": 110937,
-      "word": "小迪丽热巴怀疑自己的独特性",
-      "onboard_time": 1763796200,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 109903,
       "num": 109903,
       "word": "张柏芝明媚得像女大学生",
@@ -1089,6 +1153,14 @@
       "onboard_time": 1763763374,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107090,
+      "num": 107090,
+      "word": "A股回调原因找到了",
+      "onboard_time": 1763798840,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 106128,
@@ -1123,12 +1195,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 101583,
+      "num": 101583,
+      "word": "女孩的裙摆也可以保护别人",
+      "onboard_time": 1763798241,
+      "rank": 42,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 100708,
       "num": 109498,
       "word": "烤牛奶",
       "onboard_time": 1763787381,
       "rank": 45,
       "category": "美食"
+    },
+    {
+      "raw_hot": 98844,
+      "num": 98844,
+      "word": "豆包还贴心的帮忙丑颜了",
+      "onboard_time": 1763799860,
+      "rank": 43,
+      "category": "互联网,情感"
     },
     {
       "raw_hot": 97931,
@@ -1227,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 91988,
+      "num": 91988,
+      "word": "33新身份新体验",
+      "onboard_time": 1763799501,
+      "rank": 46,
+      "category": "电竞,体育"
+    },
+    {
       "raw_hot": 91593,
       "num": 201240,
       "word": "开拓者vs勇士",
@@ -1243,12 +1339,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 91187,
+      "num": 175551,
+      "word": "张继科杯团体赛的队名太好笑了",
+      "onboard_time": 1763798601,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 91066,
       "num": 180196,
       "word": "变形计张迪回应抛妻弃子",
       "onboard_time": 1763746576,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 90922,
+      "num": 90922,
+      "word": "黄轩女友英语口语",
+      "onboard_time": 1763799141,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 89719,
@@ -1483,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69147,
+      "num": 91992,
+      "word": "ALin快把何炅唱碎了",
+      "onboard_time": 1763798780,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69031,
       "num": 318348,
       "word": "周深3天4次以0票告终",
@@ -1520,6 +1640,14 @@
       "word": "掘金vs火箭",
       "onboard_time": 1763780000,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 66400,
+      "num": 163268,
+      "word": "中超收官战",
+      "onboard_time": 1763798420,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -1673,6 +1801,14 @@
       "onboard_time": 1763792421,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56313,
+      "num": 110100,
+      "word": "天津津门虎vs上海申花",
+      "onboard_time": 1763799080,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 55938,
@@ -1849,6 +1985,14 @@
       "onboard_time": 1763727802,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 40901,
+      "num": 288404,
+      "word": "暖色系羽绒服看起来更暖和",
+      "onboard_time": 1763798601,
+      "rank": 13,
+      "category": "时尚"
     },
     {
       "raw_hot": 40329,
@@ -2051,20 +2195,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14111,
+      "num": 107549,
+      "word": "永辉菊花茶里疑现烟头异物",
+      "onboard_time": 1763800101,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14096,
       "num": 42058,
       "word": "张杰台州演唱会",
       "onboard_time": 1763752454,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12135,
-      "num": 163761,
-      "word": "日本被抛售",
-      "onboard_time": 1763796740,
-      "rank": 25,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10733,
@@ -2081,6 +2225,22 @@
       "onboard_time": 1763796740,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7982,
+      "num": 328905,
+      "word": "小雪时节看冬的诗意",
+      "onboard_time": 1763769739,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 5898,
+      "num": 547176,
+      "word": "闭幕式高清大图",
+      "onboard_time": 1763800341,
+      "rank": 2,
+      "category": "体育"
     }
   ],
   "hotgov_list": [
