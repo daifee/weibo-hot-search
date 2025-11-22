@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763807216806,
+  "endTime": 1763808078907,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1564838,
-      "num": 303297,
+      "num": 593785,
       "word": "枭起青壤",
       "onboard_time": 1763804900,
       "rank": 3,
@@ -179,6 +179,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 578334,
+      "num": 578334,
+      "word": "狂野时代",
+      "onboard_time": 1763743338,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 577974,
+      "num": 193108,
+      "word": "阚清子挺孕肚产检疑临盆在即",
+      "onboard_time": 1763805800,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 567377,
       "num": 327021,
       "word": "小迪丽热巴怀疑自己的独特性",
@@ -267,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 456554,
+      "num": 281040,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1763806580,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 448154,
       "num": 172583,
       "word": "胡彦斌曾给易梦玲送咖啡",
@@ -305,14 +329,6 @@
       "onboard_time": 1763780660,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 423288,
-      "num": 365525,
-      "word": "狂野时代",
-      "onboard_time": 1763743338,
-      "rank": 4,
-      "category": "电影"
     },
     {
       "raw_hot": 423240,
@@ -393,14 +409,6 @@
       "onboard_time": 1763734522,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 350506,
-      "num": 193108,
-      "word": "阚清子挺孕肚产检疑临盆在即",
-      "onboard_time": 1763805800,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 349783,
@@ -515,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 281040,
-      "num": 281040,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1763806580,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 279043,
       "num": 279043,
       "word": "罗一舟首个恋综官宣",
@@ -569,6 +569,14 @@
       "onboard_time": 1763782940,
       "rank": 22,
       "category": "网红"
+    },
+    {
+      "raw_hot": 271121,
+      "num": 288487,
+      "word": "日本长期以核能掩盖核武能力",
+      "onboard_time": 1763805921,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 270709,
@@ -691,6 +699,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 211792,
+      "num": 286096,
+      "word": "解放军还有一个重要使命",
+      "onboard_time": 1763806160,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 210281,
       "num": 210281,
       "word": "周翊然直播",
@@ -713,6 +729,14 @@
       "onboard_time": 1763779821,
       "rank": 22,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 200822,
+      "num": 170445,
+      "word": "王源长智齿",
+      "onboard_time": 1763807000,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 198254,
@@ -771,6 +795,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193925,
+      "num": 193925,
+      "word": "枭起青壤开播14广",
+      "onboard_time": 1763807839,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193087,
+      "num": 193087,
+      "word": "张继科回应樊振东只会拧拉搓言论",
+      "onboard_time": 1763806401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191880,
       "num": 209697,
       "word": "新版还珠大结局琼瑶味溢出来了",
@@ -801,14 +841,6 @@
       "onboard_time": 1763785341,
       "rank": 34,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 185187,
-      "num": 288487,
-      "word": "日本长期以核能掩盖核武能力",
-      "onboard_time": 1763805921,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 185070,
@@ -851,20 +883,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176165,
+      "num": 167425,
+      "word": "液断7天瘦了13.2斤",
+      "onboard_time": 1763807480,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 175712,
       "num": 175712,
       "word": "迪丽热巴枭起青壤开播发文",
       "onboard_time": 1763788341,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 175506,
-      "num": 175506,
-      "word": "张继科回应樊振东只会拧拉搓言论",
-      "onboard_time": 1763806401,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 174978,
@@ -1171,6 +1203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131470,
+      "num": 131470,
+      "word": "奔跑吧西藏之旅上来就不基础",
+      "onboard_time": 1763807300,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 129663,
       "num": 129663,
       "word": "刘晓庆和张蔷吐槽刘嘉玲爱穿黑的",
@@ -1251,20 +1291,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124261,
+      "num": 124261,
+      "word": "这段让我演我能拿影后",
+      "onboard_time": 1763806640,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123602,
       "num": 123602,
       "word": "女孩的裙摆也可以保护别人",
       "onboard_time": 1763798241,
       "rank": 42,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 123407,
-      "num": 123407,
-      "word": "王源长智齿",
-      "onboard_time": 1763807000,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 121718,
@@ -1363,14 +1403,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 111882,
-      "num": 111882,
-      "word": "这段让我演我能拿影后",
-      "onboard_time": 1763806640,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 111157,
       "num": 323836,
       "word": "凤凰台上 东宫",
@@ -1435,12 +1467,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106986,
+      "num": 106986,
+      "word": "法国媒体盛赞樊振东",
+      "onboard_time": 1763807061,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 106128,
       "num": 109512,
       "word": "曾黎种的娃娃菜比脸还大",
       "onboard_time": 1763786901,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 103539,
+      "num": 103539,
+      "word": "这宿舍婚礼比婚庆公司拍得好",
+      "onboard_time": 1763807901,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 103339,
@@ -1457,14 +1505,6 @@
       "onboard_time": 1763727621,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102371,
-      "num": 102371,
-      "word": "法国媒体盛赞樊振东",
-      "onboard_time": 1763807061,
-      "rank": 47,
-      "category": "体育"
     },
     {
       "raw_hot": 102035,
@@ -1875,14 +1915,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 76796,
-      "num": 286096,
-      "word": "解放军还有一个重要使命",
-      "onboard_time": 1763806160,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 75562,
       "num": 142826,
       "word": "NBA副总裁谈杨瀚森",
@@ -2211,6 +2243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55821,
+      "num": 199255,
+      "word": "妇联回应女子养育8孩",
+      "onboard_time": 1763806401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54976,
       "num": 132700,
       "word": "掘金险胜火箭",
@@ -2347,6 +2387,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45529,
+      "num": 777803,
+      "word": "华龙一号又有新贡献",
+      "onboard_time": 1763807421,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 44812,
       "num": 70440,
       "word": "大湾鸡变装了",
@@ -2411,6 +2459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 35667,
+      "num": 185529,
+      "word": "香港取消一师生代表团赴日交流",
+      "onboard_time": 1763807601,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34014,
       "num": 67705,
       "word": "薛之谦欧阳娜娜装货舞台",
@@ -2451,14 +2507,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30162,
-      "num": 199255,
-      "word": "妇联回应女子养育8孩",
-      "onboard_time": 1763806401,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 29622,
       "num": 461076,
       "word": "第15届全运会闭幕",
@@ -2497,6 +2545,14 @@
       "onboard_time": 1763781502,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26806,
+      "num": 124279,
+      "word": "郑丽文高呼两岸绝不可打仗",
+      "onboard_time": 1763806821,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 26731,
@@ -2595,14 +2651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16094,
-      "num": 118654,
-      "word": "郑丽文高呼两岸绝不可打仗",
-      "onboard_time": 1763806821,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 14096,
       "num": 42058,
       "word": "张杰台州演唱会",
@@ -2612,7 +2660,7 @@
     },
     {
       "raw_hot": 13704,
-      "num": 500941,
+      "num": 595325,
       "word": "小雪时节看冬的诗意",
       "onboard_time": 1763769739,
       "rank": 7,
