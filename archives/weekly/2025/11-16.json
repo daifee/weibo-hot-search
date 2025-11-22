@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763803597711,
+  "endTime": 1763804343725,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -2260,7 +2260,7 @@
     },
     {
       "raw_hot": 544253,
-      "num": 435793,
+      "num": 495788,
       "word": "枭起青壤直播",
       "onboard_time": 1763802381,
       "rank": 3,
@@ -2377,6 +2377,14 @@
       "onboard_time": 1763550561,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 529208,
+      "num": 529208,
+      "word": "王者新英雄大禹",
+      "onboard_time": 1763800641,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 527235,
@@ -2697,14 +2705,6 @@
       "onboard_time": 1763773701,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 482835,
-      "num": 482835,
-      "word": "王者新英雄大禹",
-      "onboard_time": 1763800641,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 482681,
@@ -3051,6 +3051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 448154,
+      "num": 172583,
+      "word": "胡彦斌曾给易梦玲送咖啡",
+      "onboard_time": 1763801242,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446486,
       "num": 203852,
       "word": "良田有女朋友了",
@@ -3137,14 +3145,6 @@
       "onboard_time": 1763722642,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 437433,
-      "num": 172583,
-      "word": "胡彦斌曾给易梦玲送咖啡",
-      "onboard_time": 1763801242,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 436981,
@@ -3787,6 +3787,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 385191,
+      "num": 254308,
+      "word": "为什么我国军队还叫解放军",
+      "onboard_time": 1763800581,
+      "rank": 43,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 385073,
       "num": 2104566,
       "word": "刘宇宁演唱会内娱大佬团建",
@@ -3961,6 +3969,14 @@
       "onboard_time": 1763203222,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 372358,
+      "num": 210605,
+      "word": "迪丽热巴王洋友谊",
+      "onboard_time": 1763802740,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 372187,
@@ -5203,6 +5219,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 298085,
+      "num": 298085,
+      "word": "上海海港三连冠",
+      "onboard_time": 1763803819,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297966,
       "num": 297966,
       "word": "考公的动力在电梯里具象化了",
@@ -5923,6 +5947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 264527,
+      "num": 390212,
+      "word": "张继科杯团体赛的队名太好笑了",
+      "onboard_time": 1763798601,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 264417,
       "num": 437209,
       "word": "新闻女王2方太太患癌",
@@ -6113,14 +6145,6 @@
       "onboard_time": 1763383041,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 254308,
-      "num": 254308,
-      "word": "为什么我国军队还叫解放军",
-      "onboard_time": 1763800581,
-      "rank": 43,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 254255,
@@ -6555,14 +6579,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 234903,
-      "num": 390212,
-      "word": "张继科杯团体赛的队名太好笑了",
-      "onboard_time": 1763798601,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
       "raw_hot": 234619,
       "num": 234619,
       "word": "王曼昱结束全运会抵达北京",
@@ -6769,14 +6785,6 @@
       "onboard_time": 1763528482,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 225904,
-      "num": 208091,
-      "word": "迪丽热巴王洋友谊",
-      "onboard_time": 1763802740,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 225012,
@@ -7145,6 +7153,14 @@
       "onboard_time": 1763640384,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 212721,
+      "num": 164621,
+      "word": "日本人没米下锅了",
+      "onboard_time": 1763801660,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 212539,
@@ -10035,14 +10051,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 164621,
-      "num": 164621,
-      "word": "日本人没米下锅了",
-      "onboard_time": 1763801660,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 164348,
       "num": 164348,
       "word": "陈幸同王艺迪2比3何卓佳王添艺",
@@ -11811,6 +11819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 142420,
+      "num": 184033,
+      "word": "东南亚大嫂不值得追捧",
+      "onboard_time": 1763802020,
+      "rank": 27,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 142419,
       "num": 142419,
       "word": "范丞丞说车里坐了4个摇子",
@@ -13507,14 +13523,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125237,
-      "num": 184033,
-      "word": "东南亚大嫂不值得追捧",
-      "onboard_time": 1763802020,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 125223,
       "num": 125223,
       "word": "OBGG显示BLGViper",
@@ -13601,6 +13609,14 @@
       "onboard_time": 1763635460,
       "rank": 35,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124871,
+      "num": 124871,
+      "word": "四喜出轨老公给原配留遗产",
+      "onboard_time": 1763803341,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 124778,
@@ -14771,6 +14787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 116794,
+      "num": 288404,
+      "word": "暖色系羽绒服看起来更暖和",
+      "onboard_time": 1763798601,
+      "rank": 13,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 116793,
       "num": 232592,
       "word": "枭起青壤联名交通卡",
@@ -15387,6 +15411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 111179,
+      "num": 111179,
+      "word": "最适合方圆脸的发型",
+      "onboard_time": 1763801420,
+      "rank": 43,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 111170,
       "num": 166663,
       "word": "全运会最后一枚金牌",
@@ -15657,14 +15689,6 @@
       "onboard_time": 1763436141,
       "rank": 49,
       "category": "教育"
-    },
-    {
-      "raw_hot": 108617,
-      "num": 108617,
-      "word": "四喜出轨老公给原配留遗产",
-      "onboard_time": 1763803341,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 108583,
@@ -16587,14 +16611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102241,
-      "num": 102241,
-      "word": "最适合方圆脸的发型",
-      "onboard_time": 1763801420,
-      "rank": 43,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 102187,
       "num": 163037,
       "word": "凤凰台上好虐",
@@ -17291,6 +17307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96325,
+      "num": 163268,
+      "word": "中超收官战",
+      "onboard_time": 1763798420,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96238,
       "num": 96238,
       "word": "付辛博直播",
@@ -17593,14 +17617,6 @@
       "onboard_time": 1763803580,
       "rank": 48,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 93602,
-      "num": 288404,
-      "word": "暖色系羽绒服看起来更暖和",
-      "onboard_time": 1763798601,
-      "rank": 13,
-      "category": "时尚"
     },
     {
       "raw_hot": 93599,
@@ -17963,6 +17979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90256,
+      "num": 100677,
+      "word": "汪苏泷 我是何炅我是何炅",
+      "onboard_time": 1763803641,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89941,
       "num": 89941,
       "word": "女子续费才知认养东北虎已死亡数月",
@@ -18185,6 +18209,14 @@
       "onboard_time": 1763344520,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86794,
+      "num": 86794,
+      "word": "全球首例无线植入式中文脑机接口",
+      "onboard_time": 1763804241,
+      "rank": 46,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 86583,
@@ -18760,14 +18792,6 @@
       "word": "詹姆斯NBA征战赛季最多的球员",
       "onboard_time": 1763526623,
       "rank": 28,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 80388,
-      "num": 163268,
-      "word": "中超收官战",
-      "onboard_time": 1763798420,
-      "rank": 29,
       "category": "体育"
     },
     {
@@ -19435,6 +19459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69524,
+      "num": 100926,
+      "word": "王安宇摔倒还不忘饭撒",
+      "onboard_time": 1763804182,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69324,
       "num": 289578,
       "word": "安全背后大有乾崑",
@@ -19665,6 +19697,14 @@
       "onboard_time": 1763416753,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 66241,
+      "num": 84253,
+      "word": "中方致函联合国秘书长有何深意",
+      "onboard_time": 1763803881,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66215,
@@ -23748,7 +23788,7 @@
     },
     {
       "raw_hot": 13704,
-      "num": 446499,
+      "num": 500941,
       "word": "小雪时节看冬的诗意",
       "onboard_time": 1763769739,
       "rank": 7,

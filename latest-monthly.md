@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 17:26:37
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 17:39:03
 </p>
 </blockquote>
 <p>
@@ -5091,6 +5091,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%8B%B1%E9%9B%84%E5%A4%A7%E7%A6%B9%23" target="weibo">
+王者新英雄大禹（热度：529208）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%92%AC%E4%BA%BA%E8%A2%AB%E6%91%94%E6%AD%BB%E7%8B%97%E4%B8%BB%E4%BA%BA%E4%B8%8A%E9%97%A8%E7%90%86%E8%AE%BA%E9%81%AD%E5%8F%8D%E6%9D%80%23" target="weibo">
 狗咬人被摔死狗主人上门理论遭反杀（热度：527440）
 </a>
@@ -5855,12 +5861,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%AA%92%E6%9B%9D%E6%AC%A7%E5%BC%9F%E5%B0%86%E7%A7%BB%E6%B0%91%E6%97%A5%E6%9C%AC%23" target="weibo">
 台媒曝欧弟将移民日本（热度：483153）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%8B%B1%E9%9B%84%E5%A4%A7%E7%A6%B9%23" target="weibo">
-王者新英雄大禹（热度：482835）
 </a>
 </li>
 

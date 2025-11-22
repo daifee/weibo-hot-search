@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763803597711,
+  "endTime": 1763804343725,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -180,11 +180,19 @@
     },
     {
       "raw_hot": 544253,
-      "num": 435793,
+      "num": 495788,
       "word": "枭起青壤直播",
       "onboard_time": 1763802381,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 529208,
+      "num": 529208,
+      "word": "王者新英雄大禹",
+      "onboard_time": 1763800641,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 519489,
@@ -227,14 +235,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 482835,
-      "num": 482835,
-      "word": "王者新英雄大禹",
-      "onboard_time": 1763800641,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 479394,
       "num": 204725,
       "word": "易梦玲采访录音公布",
@@ -259,6 +259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 448154,
+      "num": 172583,
+      "word": "胡彦斌曾给易梦玲送咖啡",
+      "onboard_time": 1763801242,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 446109,
       "num": 263838,
       "word": "冬天最狠减肥法",
@@ -273,14 +281,6 @@
       "onboard_time": 1763782280,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 437433,
-      "num": 172583,
-      "word": "胡彦斌曾给易梦玲送咖啡",
-      "onboard_time": 1763801242,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 432810,
@@ -339,6 +339,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 385191,
+      "num": 254308,
+      "word": "为什么我国军队还叫解放军",
+      "onboard_time": 1763800581,
+      "rank": 43,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 377926,
       "num": 179668,
       "word": "台当局宣布全面解禁日本核食",
@@ -353,6 +361,14 @@
       "onboard_time": 1763794401,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 372358,
+      "num": 210605,
+      "word": "迪丽热巴王洋友谊",
+      "onboard_time": 1763802740,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 365252,
@@ -451,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 298085,
+      "num": 298085,
+      "word": "上海海港三连冠",
+      "onboard_time": 1763803819,
+      "rank": 5,
+      "category": "体育"
+    },
+    {
       "raw_hot": 297966,
       "num": 297966,
       "word": "考公的动力在电梯里具象化了",
@@ -539,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 254308,
-      "num": 254308,
-      "word": "为什么我国军队还叫解放军",
-      "onboard_time": 1763800581,
-      "rank": 43,
-      "category": "国内时政,军事"
+      "raw_hot": 264527,
+      "num": 390212,
+      "word": "张继科杯团体赛的队名太好笑了",
+      "onboard_time": 1763798601,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 249955,
@@ -579,22 +603,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234903,
-      "num": 390212,
-      "word": "张继科杯团体赛的队名太好笑了",
-      "onboard_time": 1763798601,
-      "rank": 19,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 225904,
-      "num": 208091,
-      "word": "迪丽热巴王洋友谊",
-      "onboard_time": 1763802740,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "韩网友安利中国柚子",
@@ -616,6 +624,14 @@
       "word": "馆长称若非中国慈悲分秒给日本灭掉",
       "onboard_time": 1763788760,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 212721,
+      "num": 164621,
+      "word": "日本人没米下锅了",
+      "onboard_time": 1763801660,
+      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -835,14 +851,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 164621,
-      "num": 164621,
-      "word": "日本人没米下锅了",
-      "onboard_time": 1763801660,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 159984,
       "num": 159984,
       "word": "白鹿唱宋雨琦的还痛吗",
@@ -969,6 +977,14 @@
       "onboard_time": 1763785460,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142420,
+      "num": 184033,
+      "word": "东南亚大嫂不值得追捧",
+      "onboard_time": 1763802020,
+      "rank": 27,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140807,
@@ -1123,14 +1139,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 125237,
-      "num": 184033,
-      "word": "东南亚大嫂不值得追捧",
-      "onboard_time": 1763802020,
-      "rank": 27,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 125064,
       "num": 125064,
       "word": "Keria模仿Faker经典动作",
@@ -1145,6 +1153,14 @@
       "onboard_time": 1763737404,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124871,
+      "num": 124871,
+      "word": "四喜出轨老公给原配留遗产",
+      "onboard_time": 1763803341,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 123602,
@@ -1211,6 +1227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116794,
+      "num": 288404,
+      "word": "暖色系羽绒服看起来更暖和",
+      "onboard_time": 1763798601,
+      "rank": 13,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 115909,
       "num": 128696,
       "word": "乌克兰被要求割地裁军",
@@ -1225,6 +1249,14 @@
       "onboard_time": 1763767758,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111179,
+      "num": 111179,
+      "word": "最适合方圆脸的发型",
+      "onboard_time": 1763801420,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 111157,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1763796801,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 108617,
-      "num": 108617,
-      "word": "四喜出轨老公给原配留遗产",
-      "onboard_time": 1763803341,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 108453,
@@ -1313,14 +1337,6 @@
       "onboard_time": 1763727621,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 102241,
-      "num": 102241,
-      "word": "最适合方圆脸的发型",
-      "onboard_time": 1763801420,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 102035,
@@ -1385,6 +1401,14 @@
       "onboard_time": 1763802861,
       "rank": 46,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96325,
+      "num": 163268,
+      "word": "中超收官战",
+      "onboard_time": 1763798420,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 96138,
@@ -1459,14 +1483,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 93602,
-      "num": 288404,
-      "word": "暖色系羽绒服看起来更暖和",
-      "onboard_time": 1763798601,
-      "rank": 13,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 93599,
       "num": 120156,
       "word": "福建舰之大具象化了",
@@ -1531,6 +1547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 90256,
+      "num": 100677,
+      "word": "汪苏泷 我是何炅我是何炅",
+      "onboard_time": 1763803641,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89719,
       "num": 180116,
       "word": "中方的反制在日本产生连锁反应",
@@ -1561,6 +1585,14 @@
       "onboard_time": 1763738903,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86794,
+      "num": 86794,
+      "word": "全球首例无线植入式中文脑机接口",
+      "onboard_time": 1763804241,
+      "rank": 46,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 86291,
@@ -1675,14 +1707,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 80388,
-      "num": 163268,
-      "word": "中超收官战",
-      "onboard_time": 1763798420,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 80377,
       "num": 339244,
       "word": "闭幕式 第九套广播体操",
@@ -1795,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69524,
+      "num": 100926,
+      "word": "王安宇摔倒还不忘饭撒",
+      "onboard_time": 1763804182,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 69147,
       "num": 91992,
       "word": "ALin快把何炅唱碎了",
@@ -1841,6 +1873,14 @@
       "onboard_time": 1763780000,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66241,
+      "num": 84253,
+      "word": "中方致函联合国秘书长有何深意",
+      "onboard_time": 1763803881,
+      "rank": 49,
+      "category": "国内时政"
     },
     {
       "raw_hot": 64805,
@@ -2412,7 +2452,7 @@
     },
     {
       "raw_hot": 13704,
-      "num": 446499,
+      "num": 500941,
       "word": "小雪时节看冬的诗意",
       "onboard_time": 1763769739,
       "rank": 7,
