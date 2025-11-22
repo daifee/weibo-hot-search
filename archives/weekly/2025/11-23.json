@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763839281715,
+  "endTime": 1763840207555,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -371,20 +371,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 67256,
+      "num": 42624,
+      "word": "这就是有钱人逛奢侈品店的感觉吧",
+      "onboard_time": 1763836095,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 66449,
       "num": 240561,
       "word": "贺峻霖时隔九年再唱爱你",
       "onboard_time": 1763817803,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62103,
-      "num": 42624,
-      "word": "这就是有钱人逛奢侈品店的感觉吧",
-      "onboard_time": 1763836095,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 61770,
