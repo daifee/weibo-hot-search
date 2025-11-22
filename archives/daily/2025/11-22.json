@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763786608744,
+  "endTime": 1763789132747,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -24,6 +24,14 @@
       "word": "胡彦斌向粉丝道歉",
       "onboard_time": 1763779100,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1292392,
+      "num": 119594,
+      "word": "胡彦斌 王阿哩",
+      "onboard_time": 1763788102,
+      "rank": 31,
       "category": "艺人"
     },
     {
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 585734,
-      "num": 585734,
+      "num": 1089509,
       "word": "印尼孕妇分娩遭4医院拒收母子双亡",
       "onboard_time": 1763784201,
       "rank": 1,
@@ -113,6 +121,14 @@
       "onboard_time": 1763779100,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 505669,
+      "num": 215203,
+      "word": "哪吒2不参评奥斯卡最佳动画长片",
+      "onboard_time": 1763786540,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 484442,
@@ -137,6 +153,14 @@
       "onboard_time": 1763782280,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 432810,
+      "num": 180127,
+      "word": "陈伟霆老亲完臭",
+      "onboard_time": 1763785822,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 428963,
@@ -169,6 +193,22 @@
       "onboard_time": 1763776700,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 365252,
+      "num": 179169,
+      "word": "赫丽摸金宇包场迪丽热巴枭起青壤",
+      "onboard_time": 1763787440,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 358638,
+      "num": 263838,
+      "word": "冬天最狠减肥法",
+      "onboard_time": 1763784800,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 357328,
@@ -283,14 +323,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 263838,
-      "num": 263838,
-      "word": "冬天最狠减肥法",
-      "onboard_time": 1763784800,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 248825,
       "num": 326798,
       "word": "易梦玲1分钟视频广告报价100万",
@@ -305,14 +337,6 @@
       "onboard_time": 1763771719,
       "rank": 16,
       "category": "财经"
-    },
-    {
-      "raw_hot": 229242,
-      "num": 176692,
-      "word": "陈伟霆老亲完臭",
-      "onboard_time": 1763785822,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 220742,
@@ -403,6 +427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186595,
+      "num": 186595,
+      "word": "枭起青壤云包场",
+      "onboard_time": 1763788639,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185070,
       "num": 185070,
       "word": "日本再次面临抉择",
@@ -419,11 +451,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 182026,
+      "num": 344389,
+      "word": "凡人修仙传",
+      "onboard_time": 1763785881,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 182000,
       "num": 182000,
       "word": "唐诡啊多想你这次俗套一回",
       "onboard_time": 1763786000,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 175712,
+      "num": 175712,
+      "word": "迪丽热巴枭起青壤开播发文",
+      "onboard_time": 1763788341,
+      "rank": 18,
       "category": "剧集"
     },
     {
@@ -523,6 +571,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152794,
+      "num": 181719,
+      "word": "F1",
+      "onboard_time": 1763787440,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 151763,
       "num": 151763,
       "word": "内娱太缺认真打磨剧本的编剧了",
@@ -585,14 +641,6 @@
       "onboard_time": 1763785460,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146206,
-      "num": 344389,
-      "word": "凡人修仙传",
-      "onboard_time": 1763785881,
-      "rank": 8,
-      "category": "动漫"
     },
     {
       "raw_hot": 140807,
@@ -755,14 +803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 116483,
-      "num": 161128,
-      "word": "哪吒2不参评奥斯卡最佳动画长片",
-      "onboard_time": 1763786540,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 115909,
       "num": 128696,
       "word": "乌克兰被要求割地裁军",
@@ -811,6 +851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106128,
+      "num": 106128,
+      "word": "曾黎种的娃娃菜比脸还大",
+      "onboard_time": 1763786901,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 105100,
+      "num": 105100,
+      "word": "东北老人上海买菜被震惊",
+      "onboard_time": 1763789061,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 103339,
       "num": 128659,
       "word": "考研人能不能统一休息一天",
@@ -833,6 +889,22 @@
       "onboard_time": 1763740281,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100708,
+      "num": 100708,
+      "word": "烤牛奶",
+      "onboard_time": 1763787381,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 97931,
+      "num": 97931,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1763787502,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 97657,
@@ -987,12 +1059,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 77531,
+      "num": 304286,
+      "word": "陈丽君用中式美学打开小雪节气",
+      "onboard_time": 1763784261,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 76714,
+      "num": 102460,
+      "word": "骗子当上首席科学家高校竟然喊冤",
+      "onboard_time": 1763787621,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75562,
       "num": 142826,
       "word": "NBA副总裁谈杨瀚森",
       "onboard_time": 1763778980,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 74950,
+      "num": 114773,
+      "word": "keria力挺doran",
+      "onboard_time": 1763787440,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 74860,
@@ -1059,6 +1155,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 68114,
+      "num": 295080,
+      "word": "中方坚决反对任何侵权挑衅",
+      "onboard_time": 1763786361,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 67622,
+      "num": 112787,
+      "word": "易烊千玺说获得观众信任需要一些考验",
+      "onboard_time": 1763788821,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67515,
       "num": 155170,
       "word": "赵心童4次打进决赛全部夺冠",
@@ -1097,6 +1209,14 @@
       "onboard_time": 1763745318,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63975,
+      "num": 117086,
+      "word": "这件羽绒服小雪天穿刚好",
+      "onboard_time": 1763787801,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 62944,
@@ -1179,6 +1299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 57469,
+      "num": 173064,
+      "word": "馆长称若非中国慈悲分秒给日本灭掉",
+      "onboard_time": 1763788760,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55938,
       "num": 311387,
       "word": "揭秘日本造航母暗度陈仓之路",
@@ -1201,6 +1329,14 @@
       "onboard_time": 1763730201,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 53983,
+      "num": 120408,
+      "word": "警惕关键时刻美国松狗链",
+      "onboard_time": 1763787561,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53214,
@@ -1315,6 +1451,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 40505,
+      "num": 114511,
+      "word": "家长称致婴儿呛奶身亡月嫂恶人先告状",
+      "onboard_time": 1763788821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40329,
+      "num": 98082,
+      "word": "旧羽绒服翻新火爆订单排到半个月后",
+      "onboard_time": 1763787440,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40246,
       "num": 50524,
       "word": "你的英语在外国人眼中的样子",
@@ -1329,14 +1481,6 @@
       "onboard_time": 1763746037,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 34068,
-      "num": 295080,
-      "word": "中方坚决反对任何侵权挑衅",
-      "onboard_time": 1763786361,
-      "rank": 20,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34014,
@@ -1371,20 +1515,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31409,
-      "num": 304286,
-      "word": "陈丽君用中式美学打开小雪节气",
-      "onboard_time": 1763784261,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 31384,
       "num": 309950,
       "word": "全球首个城市全景闭幕式看深圳",
       "onboard_time": 1763740401,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 31030,
+      "num": 112944,
+      "word": "多地出现无人机坠箭猎杀家禽事故",
+      "onboard_time": 1763788280,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29622,

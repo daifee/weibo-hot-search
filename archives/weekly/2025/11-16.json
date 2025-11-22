@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763786608744,
+  "endTime": 1763789132747,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -449,6 +449,14 @@
       "onboard_time": 1763641163,
       "rank": 22,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1292392,
+      "num": 119594,
+      "word": "胡彦斌 王阿哩",
+      "onboard_time": 1763788102,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 1283359,
@@ -1916,7 +1924,7 @@
     },
     {
       "raw_hot": 585734,
-      "num": 585734,
+      "num": 1089509,
       "word": "印尼孕妇分娩遭4医院拒收母子双亡",
       "onboard_time": 1763784201,
       "rank": 1,
@@ -2425,6 +2433,14 @@
       "onboard_time": 1763545944,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 505669,
+      "num": 215203,
+      "word": "哪吒2不参评奥斯卡最佳动画长片",
+      "onboard_time": 1763786540,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 503077,
@@ -3097,6 +3113,14 @@
       "onboard_time": 1763388262,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 432810,
+      "num": 180127,
+      "word": "陈伟霆老亲完臭",
+      "onboard_time": 1763785822,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 432430,
@@ -3891,6 +3915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 365252,
+      "num": 179169,
+      "word": "赫丽摸金宇包场迪丽热巴枭起青壤",
+      "onboard_time": 1763787440,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 365134,
       "num": 355014,
       "word": "陈梦全运第二金",
@@ -4001,6 +4033,14 @@
       "onboard_time": 1763451982,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 358638,
+      "num": 263838,
+      "word": "冬天最狠减肥法",
+      "onboard_time": 1763784800,
+      "rank": 30,
+      "category": "运动健身"
     },
     {
       "raw_hot": 358190,
@@ -5683,14 +5723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 263838,
-      "num": 263838,
-      "word": "冬天最狠减肥法",
-      "onboard_time": 1763784800,
-      "rank": 30,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 263767,
       "num": 263767,
       "word": "公主小妹 短剧鼻祖",
@@ -6441,14 +6473,6 @@
       "onboard_time": 1763282002,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 229242,
-      "num": 176692,
-      "word": "陈伟霆老亲完臭",
-      "onboard_time": 1763785822,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 229073,
@@ -8315,6 +8339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186595,
+      "num": 186595,
+      "word": "枭起青壤云包场",
+      "onboard_time": 1763788639,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 186471,
       "num": 186471,
       "word": "探索新境2",
@@ -8625,6 +8657,14 @@
       "onboard_time": 1763783902,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 182026,
+      "num": 344389,
+      "word": "凡人修仙传",
+      "onboard_time": 1763217688,
+      "rank": 39,
+      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 182000,
@@ -8961,6 +9001,14 @@
       "onboard_time": 1763516661,
       "rank": 33,
       "category": "电影"
+    },
+    {
+      "raw_hot": 175712,
+      "num": 175712,
+      "word": "迪丽热巴枭起青壤开播发文",
+      "onboard_time": 1763788341,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 175682,
@@ -10579,6 +10627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152794,
+      "num": 181719,
+      "word": "F1",
+      "onboard_time": 1763787440,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 152757,
       "num": 152757,
       "word": "陈妤颉第2金",
@@ -11193,14 +11249,6 @@
       "onboard_time": 1763785460,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 146206,
-      "num": 344389,
-      "word": "凡人修仙传",
-      "onboard_time": 1763217688,
-      "rank": 39,
-      "category": "动漫,作品衍生"
     },
     {
       "raw_hot": 146189,
@@ -14395,14 +14443,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 116483,
-      "num": 161128,
-      "word": "哪吒2不参评奥斯卡最佳动画长片",
-      "onboard_time": 1763786540,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 116475,
       "num": 116475,
       "word": "上错花轿嫁对郎作者席绢封笔",
@@ -15571,6 +15611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106128,
+      "num": 106128,
+      "word": "曾黎种的娃娃菜比脸还大",
+      "onboard_time": 1763786901,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106121,
       "num": 311387,
       "word": "揭秘日本造航母暗度陈仓之路",
@@ -15713,6 +15761,14 @@
       "onboard_time": 1763633481,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105100,
+      "num": 105100,
+      "word": "东北老人上海买菜被震惊",
+      "onboard_time": 1763789061,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 105018,
@@ -16259,6 +16315,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 100708,
+      "num": 100708,
+      "word": "烤牛奶",
+      "onboard_time": 1763787381,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
       "raw_hot": 100490,
       "num": 100490,
       "word": "爱喝咖啡的建议反复观看",
@@ -16593,6 +16657,14 @@
       "onboard_time": 1763615423,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97931,
+      "num": 97931,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1763787502,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 97923,
@@ -18211,6 +18283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77531,
+      "num": 304286,
+      "word": "陈丽君用中式美学打开小雪节气",
+      "onboard_time": 1763784261,
+      "rank": 16,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 77311,
       "num": 77311,
       "word": "韩国炒鸡店偶遇林一",
@@ -18256,6 +18336,14 @@
       "word": "山西省会GDP被江苏县级市昆山超过",
       "onboard_time": 1763383041,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76714,
+      "num": 102460,
+      "word": "骗子当上首席科学家高校竟然喊冤",
+      "onboard_time": 1763787621,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -18385,6 +18473,14 @@
       "onboard_time": 1763548762,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74950,
+      "num": 114773,
+      "word": "keria力挺doran",
+      "onboard_time": 1763787440,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 74919,
@@ -18787,6 +18883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68114,
+      "num": 295080,
+      "word": "中方坚决反对任何侵权挑衅",
+      "onboard_time": 1763786361,
+      "rank": 20,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67996,
       "num": 143526,
       "word": "疯狂动物城2预售票房破亿",
@@ -18825,6 +18929,14 @@
       "onboard_time": 1763618362,
       "rank": 46,
       "category": "国内时政,数码"
+    },
+    {
+      "raw_hot": 67622,
+      "num": 112787,
+      "word": "易烊千玺说获得观众信任需要一些考验",
+      "onboard_time": 1763788821,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 67609,
@@ -19009,6 +19121,14 @@
       "onboard_time": 1763284762,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63975,
+      "num": 117086,
+      "word": "这件羽绒服小雪天穿刚好",
+      "onboard_time": 1763787801,
+      "rank": 34,
+      "category": "时尚"
     },
     {
       "raw_hot": 63883,
@@ -19435,6 +19555,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 57469,
+      "num": 173064,
+      "word": "馆长称若非中国慈悲分秒给日本灭掉",
+      "onboard_time": 1763788760,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57446,
       "num": 207607,
       "word": "日本共产党称高市只有撤回发言一条路",
@@ -19617,6 +19745,14 @@
       "onboard_time": 1763296942,
       "rank": 29,
       "category": "演出"
+    },
+    {
+      "raw_hot": 53983,
+      "num": 120408,
+      "word": "警惕关键时刻美国松狗链",
+      "onboard_time": 1763787561,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53696,
@@ -20675,6 +20811,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40505,
+      "num": 114511,
+      "word": "家长称致婴儿呛奶身亡月嫂恶人先告状",
+      "onboard_time": 1763788821,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40430,
       "num": 138953,
       "word": "李沁花了好几个晚上制作的旅行回忆录",
@@ -20689,6 +20833,14 @@
       "onboard_time": 1763449462,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 40329,
+      "num": 98082,
+      "word": "旧羽绒服翻新火爆订单排到半个月后",
+      "onboard_time": 1763787440,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40246,
@@ -21267,14 +21419,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 34068,
-      "num": 295080,
-      "word": "中方坚决反对任何侵权挑衅",
-      "onboard_time": 1763786361,
-      "rank": 20,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34014,
       "num": 67705,
       "word": "薛之谦欧阳娜娜装货舞台",
@@ -21563,14 +21707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31409,
-      "num": 304286,
-      "word": "陈丽君用中式美学打开小雪节气",
-      "onboard_time": 1763784261,
-      "rank": 16,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 31384,
       "num": 309950,
       "word": "全球首个城市全景闭幕式看深圳",
@@ -21649,6 +21785,14 @@
       "onboard_time": 1763378662,
       "rank": 17,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 31030,
+      "num": 112944,
+      "word": "多地出现无人机坠箭猎杀家禽事故",
+      "onboard_time": 1763788280,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30971,

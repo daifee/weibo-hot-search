@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 12:43:28
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/22 13:25:32
 </p>
 </blockquote>
 <p>
@@ -851,6 +851,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%BA%8C%E4%B8%AD%20%E5%AD%A6%E9%9C%B8%E6%96%87%E7%AC%94%23" target="weibo">
 南宁二中 学霸文笔（热度：1310167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E7%8E%8B%E9%98%BF%E5%93%A9%23" target="weibo">
+胡彦斌 王阿哩（热度：1292392）
 </a>
 </li>
 
@@ -5337,6 +5343,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87%23" target="weibo">
+哪吒2不参评奥斯卡最佳动画长片（热度：505669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23" target="weibo">
 前DeepSeek研究员罗福莉已加入小米（热度：505584）
 </a>
@@ -5999,18 +6011,6 @@ Gumayusi HLE（热度：476338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B1%95%E7%A1%95%E9%80%80%E8%B5%9B%23" target="weibo">
 张展硕退赛（热度：471183）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%82%8E%E4%BA%9A%E7%BA%B6%E5%9B%9E%E5%BA%94%E5%8F%96%E5%85%B3%E9%AC%BC%E9%AC%BC%23" target="weibo">
-炎亚纶回应取关鬼鬼（热度：470486）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E8%A2%AB%E8%AF%AF%E8%AF%8A%E7%9F%AE%E5%B0%8F%E7%97%87%E6%89%93%E4%BA%862940%E9%92%88%23" target="weibo">
-14岁男孩被误诊矮小症打了2940针（热度：469610）
 </a>
 </li>
 

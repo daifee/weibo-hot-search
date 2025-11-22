@@ -1,0 +1,410 @@
+{
+  "runTime": 1763789132747,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 559431,
+        "num": 1089509,
+        "word": "印尼孕妇分娩遭4医院拒收母子双亡",
+        "onboard_time": 1763784201,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 253611,
+        "num": 253611,
+        "word": "全运会乒乓女单铜牌赛收视率第一",
+        "onboard_time": 1763780721,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 24322,
+        "num": 248823,
+        "word": "第15届全运会闭幕",
+        "onboard_time": 1763782101,
+        "rank": 2,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 711923,
+        "num": 227253,
+        "word": "高市早苗车牌是3777",
+        "onboard_time": 1763776700,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 505669,
+        "num": 215203,
+        "word": "哪吒2不参评奥斯卡最佳动画长片",
+        "onboard_time": 1763786540,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270473,
+        "num": 188603,
+        "word": "尖叫之夜又是CP大乱炖",
+        "onboard_time": 1763784800,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186595,
+        "num": 186595,
+        "word": "枭起青壤云包场",
+        "onboard_time": 1763788639,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 182026,
+        "num": 182026,
+        "word": "凡人修仙传",
+        "onboard_time": 1763785881,
+        "rank": 7,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 152794,
+        "num": 181719,
+        "word": "F1",
+        "onboard_time": 1763787440,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145176,
+        "num": 181349,
+        "word": "中方就高市错误言行致函古特雷斯",
+        "onboard_time": 1763773701,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 719265,
+        "num": 180152,
+        "word": "儿子打电话说撞死人要10万私了",
+        "onboard_time": 1763781800,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432810,
+        "num": 180127,
+        "word": "陈伟霆老亲完臭",
+        "onboard_time": 1763785822,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 365252,
+        "num": 179169,
+        "word": "赫丽摸金宇包场迪丽热巴枭起青壤",
+        "onboard_time": 1763787440,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 358638,
+        "num": 178710,
+        "word": "冬天最狠减肥法",
+        "onboard_time": 1763784800,
+        "rank": 13,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 294941,
+        "num": 177971,
+        "word": "杨坤签约乐华",
+        "onboard_time": 1763783061,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227480,
+        "num": 177067,
+        "word": "易烊千玺强制让C",
+        "onboard_time": 1763782280,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 325422,
+        "num": 176838,
+        "word": "陈伟霆替经纪人追星王安宇",
+        "onboard_time": 1763783960,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176392,
+        "num": 176392,
+        "word": "结婚7年发现妻子精神病史要求退彩礼",
+        "onboard_time": 1763780660,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175712,
+        "num": 175712,
+        "word": "迪丽热巴枭起青壤开播发文",
+        "onboard_time": 1763788341,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57469,
+        "num": 173064,
+        "word": "馆长称若非中国慈悲分秒给日本灭掉",
+        "onboard_time": 1763788760,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171145,
+        "num": 171145,
+        "word": "得闲谨制",
+        "onboard_time": 1763781681,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1911948,
+        "num": 168325,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378674,
+        "num": 158469,
+        "word": "葛荟婕 分手费分次给了30万",
+        "onboard_time": 1763783601,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283462,
+        "num": 156950,
+        "word": "时代少年团再跳yesoryes",
+        "onboard_time": 1763785221,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 77531,
+        "num": 149628,
+        "word": "陈丽君用中式美学打开小雪节气",
+        "onboard_time": 1763784261,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143258,
+        "num": 143258,
+        "word": "唐诡啊多想你这次俗套一回",
+        "onboard_time": 1763786000,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131297,
+        "num": 131297,
+        "word": "新版还珠大结局琼瑶味溢出来了",
+        "onboard_time": 1763785341,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122835,
+        "num": 122835,
+        "word": "枭起青壤今日开播",
+        "onboard_time": 1763778621,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71232,
+        "num": 122484,
+        "word": "小雪",
+        "onboard_time": 1763768058,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68114,
+        "num": 121452,
+        "word": "中方坚决反对任何侵权挑衅",
+        "onboard_time": 1763786361,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53983,
+        "num": 120408,
+        "word": "警惕关键时刻美国松狗链",
+        "onboard_time": 1763787561,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1292392,
+        "num": 119594,
+        "word": "胡彦斌 王阿哩",
+        "onboard_time": 1763788102,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162963,
+        "num": 118820,
+        "word": "刘雨嘉妈妈怀六胎了",
+        "onboard_time": 1763782940,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 140503,
+        "num": 118151,
+        "word": "狼队道崽",
+        "onboard_time": 1763778200,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63975,
+        "num": 117086,
+        "word": "这件羽绒服小雪天穿刚好",
+        "onboard_time": 1763787801,
+        "rank": 34,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 139693,
+        "num": 115940,
+        "word": "胖东来羽绒服成本184售价256",
+        "onboard_time": 1763776159,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74950,
+        "num": 114773,
+        "word": "keria力挺doran",
+        "onboard_time": 1763787440,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 40505,
+        "num": 114511,
+        "word": "家长称致婴儿呛奶身亡月嫂恶人先告状",
+        "onboard_time": 1763788821,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31030,
+        "num": 112944,
+        "word": "多地出现无人机坠箭猎杀家禽事故",
+        "onboard_time": 1763788280,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67622,
+        "num": 112787,
+        "word": "易烊千玺说获得观众信任需要一些考验",
+        "onboard_time": 1763788821,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111982,
+        "num": 111982,
+        "word": "两高中生奸杀教师案申诉被驳回",
+        "onboard_time": 1763775981,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109850,
+        "num": 109850,
+        "word": "爱奇艺尖叫之夜首轮阵容",
+        "onboard_time": 1763779100,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106128,
+        "num": 106128,
+        "word": "曾黎种的娃娃菜比脸还大",
+        "onboard_time": 1763786901,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105100,
+        "num": 105100,
+        "word": "东北老人上海买菜被震惊",
+        "onboard_time": 1763789061,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 76714,
+        "num": 102460,
+        "word": "骗子当上首席科学家高校竟然喊冤",
+        "onboard_time": 1763787621,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100708,
+        "num": 100708,
+        "word": "烤牛奶",
+        "onboard_time": 1763787381,
+        "rank": 45,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 100263,
+        "num": 100263,
+        "word": "易梦玲采访录音公布",
+        "onboard_time": 1763767337,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40329,
+        "num": 98082,
+        "word": "旧羽绒服翻新火爆订单排到半个月后",
+        "onboard_time": 1763787440,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97931,
+        "num": 97931,
+        "word": "崩坏星穹铁道",
+        "onboard_time": 1763787502,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 94517,
+        "num": 94517,
+        "word": "睡着后容易醒可能是6种病",
+        "onboard_time": 1763782340,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代江河战略#"
+    }
+  }
+}
