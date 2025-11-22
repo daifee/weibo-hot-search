@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763847450073,
+  "endTime": 1763850335277,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -77132,7 +77132,7 @@
     },
     {
       "raw_hot": 24074,
-      "num": 29937,
+      "num": 36185,
       "word": "缅甸谴责高市早苗",
       "onboard_time": 1763841314,
       "rank": 19,
@@ -77217,6 +77217,14 @@
       "onboard_time": 1763576594,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23726,
+      "num": 36635,
+      "word": "美国威胁乌克兰",
+      "onboard_time": 1763846593,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23675,
@@ -78259,6 +78267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 18648,
+      "num": 35973,
+      "word": "俄乌继续争夺红军城",
+      "onboard_time": 1763845154,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18603,
       "num": 133322,
       "word": "一起劝阻吸烟致死案的判决背后",
@@ -79003,6 +79019,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 14811,
+      "num": 35875,
+      "word": "ALin黑丝界最权威的女人",
+      "onboard_time": 1763847074,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 14753,
       "num": 28192,
       "word": "丁禹兮原声真的很有力量感",
@@ -79099,20 +79123,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14103,
+      "num": 35755,
+      "word": "柬埔寨劫囚案9小时全员落网",
+      "onboard_time": 1763841494,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 14096,
       "num": 42058,
       "word": "张杰台州演唱会",
       "onboard_time": 1763752454,
       "rank": 33,
       "category": "演出"
-    },
-    {
-      "raw_hot": 14057,
-      "num": 29780,
-      "word": "柬埔寨劫囚案9小时全员落网",
-      "onboard_time": 1763841494,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14039,
@@ -79129,14 +79153,6 @@
       "onboard_time": 1762025955,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13982,
-      "num": 29256,
-      "word": "俄乌继续争夺红军城",
-      "onboard_time": 1763845154,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 13902,
@@ -79539,6 +79555,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 11704,
+      "num": 35612,
+      "word": "高市错误言论违反国际法",
+      "onboard_time": 1763849174,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 11663,
+      "num": 35596,
+      "word": "跑男",
+      "onboard_time": 1763850254,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11630,
       "num": 140781,
       "word": "为老师减负绝不是为家长加负",
@@ -79571,6 +79603,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 11261,
+      "num": 35558,
+      "word": "采访单依纯的记者发文",
+      "onboard_time": 1763848934,
+      "rank": 47,
+      "category": "其它"
+    },
+    {
       "raw_hot": 11240,
       "num": 108258,
       "word": "男子徒步失联14天被猎户在悬崖发现",
@@ -79601,14 +79641,6 @@
       "onboard_time": 1763455283,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10847,
-      "num": 29247,
-      "word": "美国威胁乌克兰",
-      "onboard_time": 1763846593,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 10733,
@@ -79673,14 +79705,6 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9982,
-      "num": 29244,
-      "word": "ALin黑丝界最权威的女人",
-      "onboard_time": 1763847074,
-      "rank": 48,
-      "category": "综艺"
     },
     {
       "raw_hot": 9871,

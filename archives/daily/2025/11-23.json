@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763847450073,
+  "endTime": 1763850335277,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -484,10 +484,18 @@
     },
     {
       "raw_hot": 24074,
-      "num": 29937,
+      "num": 36185,
       "word": "缅甸谴责高市早苗",
       "onboard_time": 1763841314,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 23726,
+      "num": 36635,
+      "word": "美国威胁乌克兰",
+      "onboard_time": 1763846593,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -507,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18648,
+      "num": 35973,
+      "word": "俄乌继续争夺红军城",
+      "onboard_time": 1763845154,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 18415,
       "num": 29939,
       "word": "黄子弘凡演唱会",
@@ -515,36 +531,44 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14057,
-      "num": 29780,
+      "raw_hot": 14811,
+      "num": 35875,
+      "word": "ALin黑丝界最权威的女人",
+      "onboard_time": 1763847074,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 14103,
+      "num": 35755,
       "word": "柬埔寨劫囚案9小时全员落网",
       "onboard_time": 1763841494,
       "rank": 48,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 13982,
-      "num": 29256,
-      "word": "俄乌继续争夺红军城",
-      "onboard_time": 1763845154,
-      "rank": 39,
+      "raw_hot": 11704,
+      "num": 35612,
+      "word": "高市错误言论违反国际法",
+      "onboard_time": 1763849174,
+      "rank": 45,
       "category": "国际时政"
     },
     {
-      "raw_hot": 10847,
-      "num": 29247,
-      "word": "美国威胁乌克兰",
-      "onboard_time": 1763846593,
-      "rank": 48,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 9982,
-      "num": 29244,
-      "word": "ALin黑丝界最权威的女人",
-      "onboard_time": 1763847074,
-      "rank": 48,
+      "raw_hot": 11663,
+      "num": 35596,
+      "word": "跑男",
+      "onboard_time": 1763850254,
+      "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11261,
+      "num": 35558,
+      "word": "采访单依纯的记者发文",
+      "onboard_time": 1763848934,
+      "rank": 47,
+      "category": "其它"
     }
   ],
   "hotgov_list": [
