@@ -1,0 +1,410 @@
+{
+  "runTime": 1763782098811,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 941055,
+        "num": 1150568,
+        "word": "高市早苗车牌是3777",
+        "onboard_time": 1763776700,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333498,
+        "num": 333498,
+        "word": "小雪",
+        "onboard_time": 1763768058,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25349,
+        "num": 274231,
+        "word": "古诗里的小雪",
+        "onboard_time": 1763781502,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519489,
+        "num": 265938,
+        "word": "爱奇艺尖叫之夜首轮阵容",
+        "onboard_time": 1763779100,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253582,
+        "num": 253582,
+        "word": "中方就高市错误言行致函古特雷斯",
+        "onboard_time": 1763773701,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 246509,
+        "num": 246509,
+        "word": "枭起青壤连更",
+        "onboard_time": 1763781261,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 239010,
+        "num": 239010,
+        "word": "中国军机高空驱离菲挑衅飞机",
+        "onboard_time": 1763775680,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200657,
+        "num": 200657,
+        "word": "高市有事",
+        "onboard_time": 1763768599,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180998,
+        "num": 180998,
+        "word": "枭起青壤今日开播",
+        "onboard_time": 1763778621,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111783,
+        "num": 180790,
+        "word": "杨瀚森夏联收视率比总决赛高",
+        "onboard_time": 1763777841,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 571604,
+        "num": 179994,
+        "word": "两高中生奸杀教师案申诉被驳回",
+        "onboard_time": 1763775981,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 412075,
+        "num": 179561,
+        "word": "19岁农村女生从垃圾堆走向时装周",
+        "onboard_time": 1763780300,
+        "rank": 11,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 398818,
+        "num": 178831,
+        "word": "结婚7年发现妻子精神病史要求退彩礼",
+        "onboard_time": 1763780660,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 386898,
+        "num": 178452,
+        "word": "胖东来羽绒服成本184售价256",
+        "onboard_time": 1763776159,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288978,
+        "num": 177956,
+        "word": "全运会乒乓女单铜牌赛收视率第一",
+        "onboard_time": 1763780721,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212173,
+        "num": 177230,
+        "word": "韩网友安利中国柚子",
+        "onboard_time": 1763776399,
+        "rank": 15,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 195396,
+        "num": 176962,
+        "word": "向联合国全体会员国阐明中国立场",
+        "onboard_time": 1763778499,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176630,
+        "num": 176630,
+        "word": "得闲谨制",
+        "onboard_time": 1763781681,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159068,
+        "num": 159068,
+        "word": "打起来下死手亲起来好上头",
+        "onboard_time": 1763781622,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 150041,
+        "num": 150041,
+        "word": "向往的生活刘宪华惊喜回归",
+        "onboard_time": 1763776100,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 2325662,
+        "num": 149817,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30332,
+        "num": 149270,
+        "word": "日本民众怒喊高市不要煽动战争",
+        "onboard_time": 1763781860,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266251,
+        "num": 147973,
+        "word": "易梦玲采访录音公布",
+        "onboard_time": 1763767337,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127479,
+        "num": 147420,
+        "word": "宁静说的那种男人是何书桓吧",
+        "onboard_time": 1763781201,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198254,
+        "num": 147111,
+        "word": "时代峰峻否认完你的否认你的",
+        "onboard_time": 1763776221,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 1355115,
+        "num": 145886,
+        "word": "胡彦斌向粉丝道歉",
+        "onboard_time": 1763779100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168183,
+        "num": 145408,
+        "word": "狼队道崽",
+        "onboard_time": 1763778200,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 166858,
+        "num": 144890,
+        "word": "敖瑞鹏我的长腿中介",
+        "onboard_time": 1763781261,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91593,
+        "num": 143749,
+        "word": "开拓者vs勇士",
+        "onboard_time": 1763781140,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67515,
+        "num": 143093,
+        "word": "赵心童4次打进决赛全部夺冠",
+        "onboard_time": 1763778859,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142750,
+        "num": 142750,
+        "word": "医生建议小雪多吃黑色食物",
+        "onboard_time": 1763779100,
+        "rank": 30,
+        "category": "健康医疗,美食"
+      },
+      {
+        "raw_hot": 96086,
+        "num": 137767,
+        "word": "成毅电影营救汪星人定档",
+        "onboard_time": 1763772622,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 137065,
+        "num": 137065,
+        "word": "日本释放危险信号",
+        "onboard_time": 1763779280,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131364,
+        "num": 131364,
+        "word": "父亲称1万8雇月嫂女儿被喂奶呛死",
+        "onboard_time": 1763741362,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131131,
+        "num": 131131,
+        "word": "狗狗偷偷亲了主人一下",
+        "onboard_time": 1763776579,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128716,
+        "num": 128716,
+        "word": "缅甸官方回应日本涉台错误言论",
+        "onboard_time": 1763779460,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59007,
+        "num": 128712,
+        "word": "胖东来投资1亿成立新公司",
+        "onboard_time": 1763771719,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19361,
+        "num": 128706,
+        "word": "儿子打电话说撞死人要10万私了",
+        "onboard_time": 1763781800,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115909,
+        "num": 128696,
+        "word": "乌克兰被要求割地裁军",
+        "onboard_time": 1763781201,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 97192,
+        "num": 128684,
+        "word": "白鹿唱宋雨琦的还痛吗",
+        "onboard_time": 1763780000,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108159,
+        "num": 128675,
+        "word": "美国考虑允许英伟达对华出售H200",
+        "onboard_time": 1763781860,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92851,
+        "num": 128659,
+        "word": "考研人能不能统一休息一天",
+        "onboard_time": 1763777841,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 17320,
+        "num": 128650,
+        "word": "德食物中毒涉事餐馆永久关店",
+        "onboard_time": 1763780600,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88175,
+        "num": 128645,
+        "word": "王俊凯录完你的录你的",
+        "onboard_time": 1763770279,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86965,
+        "num": 128635,
+        "word": "高市早苗招惹马来西亚",
+        "onboard_time": 1763734522,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 84991,
+        "num": 128629,
+        "word": "狂野时代口碑",
+        "onboard_time": 1763770519,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 84053,
+        "num": 128614,
+        "word": "茅盾文学奖得主高考作文只得6分",
+        "onboard_time": 1763779821,
+        "rank": 46,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 16440,
+        "num": 128603,
+        "word": "被悬赏3千元走失灰鹦鹉已飞回",
+        "onboard_time": 1763780420,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78924,
+        "num": 128593,
+        "word": "狂野时代",
+        "onboard_time": 1763743338,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55007,
+        "num": 128590,
+        "word": "NBA副总裁谈杨瀚森",
+        "onboard_time": 1763778980,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#新时代江河战略#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763781092623,
+  "endTime": 1763782098811,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -35,8 +35,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 828026,
-      "num": 1132484,
+      "raw_hot": 941055,
+      "num": 1150568,
       "word": "高市早苗车牌是3777",
       "onboard_time": 1763776700,
       "rank": 0,
@@ -75,7 +75,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 508542,
+      "raw_hot": 519489,
       "num": 296143,
       "word": "爱奇艺尖叫之夜首轮阵容",
       "onboard_time": 1763779100,
@@ -97,6 +97,22 @@
       "onboard_time": 1763767337,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412075,
+      "num": 208113,
+      "word": "19岁农村女生从垃圾堆走向时装周",
+      "onboard_time": 1763780300,
+      "rank": 14,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 398818,
+      "num": 205412,
+      "word": "结婚7年发现妻子精神病史要求退彩礼",
+      "onboard_time": 1763780660,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 394634,
@@ -123,8 +139,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 307497,
-      "num": 307497,
+      "raw_hot": 333498,
+      "num": 333498,
       "word": "小雪",
       "onboard_time": 1763768058,
       "rank": 4,
@@ -145,6 +161,14 @@
       "onboard_time": 1763756713,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 288978,
+      "num": 199045,
+      "word": "全运会乒乓女单铜牌赛收视率第一",
+      "onboard_time": 1763780721,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 277986,
@@ -169,6 +193,14 @@
       "onboard_time": 1763738424,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 246509,
+      "num": 246509,
+      "word": "枭起青壤连更",
+      "onboard_time": 1763781261,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 240329,
@@ -219,14 +251,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 208113,
-      "num": 208113,
-      "word": "19岁农村女生从垃圾堆走向时装周",
-      "onboard_time": 1763780300,
-      "rank": 14,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 204216,
       "num": 204216,
       "word": "茅盾文学奖得主高考作文只得6分",
@@ -235,12 +259,12 @@
       "category": "读书作家"
     },
     {
-      "raw_hot": 199045,
-      "num": 199045,
-      "word": "全运会乒乓女单铜牌赛收视率第一",
-      "onboard_time": 1763780721,
-      "rank": 23,
-      "category": "体育"
+      "raw_hot": 198254,
+      "num": 184187,
+      "word": "时代峰峻否认完你的否认你的",
+      "onboard_time": 1763776221,
+      "rank": 30,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 198097,
@@ -275,12 +299,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 184187,
-      "num": 184187,
-      "word": "时代峰峻否认完你的否认你的",
-      "onboard_time": 1763776221,
-      "rank": 30,
-      "category": "作品衍生"
+      "raw_hot": 176630,
+      "num": 176630,
+      "word": "得闲谨制",
+      "onboard_time": 1763781681,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 171877,
@@ -307,12 +331,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 160187,
+      "raw_hot": 168183,
       "num": 160187,
       "word": "狼队道崽",
       "onboard_time": 1763778200,
       "rank": 26,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166858,
+      "num": 144890,
+      "word": "敖瑞鹏我的长腿中介",
+      "onboard_time": 1763781261,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 159984,
@@ -321,6 +353,14 @@
       "onboard_time": 1763780000,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 159068,
+      "num": 159068,
+      "word": "打起来下死手亲起来好上头",
+      "onboard_time": 1763781622,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 158688,
@@ -355,7 +395,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149227,
+      "raw_hot": 150041,
       "num": 268196,
       "word": "向往的生活刘宪华惊喜回归",
       "onboard_time": 1763776100,
@@ -369,6 +409,14 @@
       "onboard_time": 1763723422,
       "rank": 15,
       "category": "国内时政,军事"
+    },
+    {
+      "raw_hot": 142750,
+      "num": 142750,
+      "word": "医生建议小雪多吃黑色食物",
+      "onboard_time": 1763779100,
+      "rank": 33,
+      "category": "健康医疗,美食"
     },
     {
       "raw_hot": 140807,
@@ -401,6 +449,14 @@
       "onboard_time": 1763776579,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 137065,
+      "num": 137065,
+      "word": "日本释放危险信号",
+      "onboard_time": 1763779280,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 135903,
@@ -451,12 +507,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 125848,
-      "num": 125848,
-      "word": "医生建议小雪多吃黑色食物",
-      "onboard_time": 1763779100,
-      "rank": 33,
-      "category": "健康医疗,美食"
+      "raw_hot": 127479,
+      "num": 147420,
+      "word": "宁静说的那种男人是何书桓吧",
+      "onboard_time": 1763781201,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 124976,
@@ -467,20 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124223,
-      "num": 124223,
-      "word": "日本释放危险信号",
-      "onboard_time": 1763779280,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 117894,
       "num": 117894,
       "word": "带父母看车堪比相亲现场",
       "onboard_time": 1763775621,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115909,
+      "num": 128696,
+      "word": "乌克兰被要求割地裁军",
+      "onboard_time": 1763781201,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113783,
@@ -507,6 +563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108159,
+      "num": 128675,
+      "word": "美国考虑允许英伟达对华出售H200",
+      "onboard_time": 1763781860,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 107315,
       "num": 29394,
       "word": "胡彦斌",
@@ -516,7 +580,7 @@
     },
     {
       "raw_hot": 103339,
-      "num": 124040,
+      "num": 128659,
       "word": "考研人能不能统一休息一天",
       "onboard_time": 1763777841,
       "rank": 39,
@@ -569,6 +633,14 @@
       "onboard_time": 1763723481,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91593,
+      "num": 143749,
+      "word": "开拓者vs勇士",
+      "onboard_time": 1763781140,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 91575,
@@ -737,6 +809,14 @@
       "onboard_time": 1763721202,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 67515,
+      "num": 143093,
+      "word": "赵心童4次打进决赛全部夺冠",
+      "onboard_time": 1763778859,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 66923,
@@ -995,6 +1075,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30332,
+      "num": 149270,
+      "word": "日本民众怒喊高市不要煽动战争",
+      "onboard_time": 1763781860,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 27698,
       "num": 123725,
       "word": "银行借员工婚礼推销社保卡遭质疑",
@@ -1011,6 +1099,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 25349,
+      "num": 274231,
+      "word": "古诗里的小雪",
+      "onboard_time": 1763781502,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24248,
       "num": 42166,
       "word": "王源跨年演唱会",
@@ -1019,20 +1115,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23961,
-      "num": 205412,
-      "word": "结婚7年发现妻子精神病史要求退彩礼",
-      "onboard_time": 1763780660,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23170,
       "num": 50461,
       "word": "中国唱将",
       "onboard_time": 1763753355,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 19361,
+      "num": 128706,
+      "word": "儿子打电话说撞死人要10万私了",
+      "onboard_time": 1763781800,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19078,
@@ -1059,12 +1155,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 17320,
+      "num": 128650,
+      "word": "德食物中毒涉事餐馆永久关店",
+      "onboard_time": 1763780600,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 16840,
       "num": 83662,
       "word": "好久没见邓超唱歌了",
       "onboard_time": 1763750175,
       "rank": 46,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 16440,
+      "num": 128603,
+      "word": "被悬赏3千元走失灰鹦鹉已飞回",
+      "onboard_time": 1763780420,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14096,
@@ -1081,27 +1193,14 @@
       "onboard_time": 1763755694,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 9629,
-      "num": 124068,
-      "word": "被悬赏3千元走失灰鹦鹉已飞回",
-      "onboard_time": 1763780420,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 8135,
-      "num": 124122,
-      "word": "德食物中毒涉事餐馆永久关店",
-      "onboard_time": 1763780600,
-      "rank": 37,
-      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
     {
       "word": "#总书记勉励体育健儿的高频词#"
+    },
+    {
+      "word": "#新时代江河战略#"
     }
   ]
 }
