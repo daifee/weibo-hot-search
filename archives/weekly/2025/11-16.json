@@ -1,6 +1,6 @@
 {
   "startTime": 1763224184412,
-  "endTime": 1763804343725,
+  "endTime": 1763807216806,
   "band_list": [
     {
       "raw_hot": 20536323,
@@ -297,6 +297,14 @@
       "onboard_time": 1763703681,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1564838,
+      "num": 768523,
+      "word": "枭起青壤",
+      "onboard_time": 1763221224,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 1550321,
@@ -1235,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 768523,
-      "num": 768523,
-      "word": "枭起青壤",
-      "onboard_time": 1763221224,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 765820,
       "num": 273656,
       "word": "内娱顶级美人嗔怒",
@@ -1331,8 +1331,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 732339,
-      "num": 1117174,
+      "raw_hot": 734885,
+      "num": 1117581,
       "word": "日本被抛售",
       "onboard_time": 1763796740,
       "rank": 25,
@@ -1412,7 +1412,7 @@
     },
     {
       "raw_hot": 703011,
-      "num": 260337,
+      "num": 282439,
       "word": "何炅 警惕穿红衣服的人",
       "onboard_time": 1763798420,
       "rank": 20,
@@ -3788,7 +3788,7 @@
     },
     {
       "raw_hot": 385191,
-      "num": 254308,
+      "num": 290082,
       "word": "为什么我国军队还叫解放军",
       "onboard_time": 1763800581,
       "rank": 43,
@@ -3908,7 +3908,7 @@
     },
     {
       "raw_hot": 377926,
-      "num": 179668,
+      "num": 200988,
       "word": "台当局宣布全面解禁日本核食",
       "onboard_time": 1763792661,
       "rank": 34,
@@ -3972,7 +3972,7 @@
     },
     {
       "raw_hot": 372358,
-      "num": 210605,
+      "num": 281444,
       "word": "迪丽热巴王洋友谊",
       "onboard_time": 1763802740,
       "rank": 17,
@@ -4313,6 +4313,14 @@
       "onboard_time": 1763651362,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 350506,
+      "num": 193108,
+      "word": "阚清子挺孕肚产检疑临盆在即",
+      "onboard_time": 1763805800,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 350376,
@@ -4801,6 +4809,14 @@
       "onboard_time": 1763653580,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 318524,
+      "num": 180558,
+      "word": "日本人没米下锅了",
+      "onboard_time": 1763801660,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 317382,
@@ -5505,6 +5521,14 @@
       "onboard_time": 1763441183,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 281040,
+      "num": 281040,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1763806580,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 280713,
@@ -6739,6 +6763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 228538,
+      "num": 228538,
+      "word": "Uzi回归LPL呼声高涨",
+      "onboard_time": 1763804600,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 228279,
       "num": 182628,
       "word": "你以为很卫生其实很脏的行为",
@@ -7153,14 +7185,6 @@
       "onboard_time": 1763640384,
       "rank": 34,
       "category": "体育"
-    },
-    {
-      "raw_hot": 212721,
-      "num": 164621,
-      "word": "日本人没米下锅了",
-      "onboard_time": 1763801660,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 212539,
@@ -8019,6 +8043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195475,
+      "num": 176973,
+      "word": "易烊千玺我需要心理委员",
+      "onboard_time": 1763804720,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195406,
       "num": 195406,
       "word": "吴艳妮回应银牌",
@@ -8065,6 +8097,14 @@
       "onboard_time": 1763395760,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 195035,
+      "num": 195035,
+      "word": "袁一琦签芒果后要有限定跨年舞台了",
+      "onboard_time": 1763806580,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 194885,
@@ -8747,6 +8787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185187,
+      "num": 288487,
+      "word": "日本长期以核能掩盖核武能力",
+      "onboard_time": 1763805921,
+      "rank": 7,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185070,
       "num": 185070,
       "word": "日本再次面临抉择",
@@ -9339,6 +9387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 175506,
+      "num": 175506,
+      "word": "张继科回应樊振东只会拧拉搓言论",
+      "onboard_time": 1763806401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 175443,
       "num": 175443,
       "word": "历任工作人员集体发声力挺曾轶可",
@@ -9369,6 +9425,14 @@
       "onboard_time": 1763565562,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 174978,
+      "num": 187179,
+      "word": "建议声生不息纳入全国教材",
+      "onboard_time": 1763806281,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 174896,
@@ -10009,6 +10073,14 @@
       "onboard_time": 1763219605,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165272,
+      "num": 165272,
+      "word": "最适合方圆脸的发型",
+      "onboard_time": 1763801420,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 165154,
@@ -13283,6 +13355,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 127314,
+      "num": 127314,
+      "word": "JDG无双连接成功",
+      "onboard_time": 1763804720,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 127285,
       "num": 127285,
       "word": "刘宇宁让黄誉博问张艺兴愿不愿意",
@@ -13825,6 +13905,14 @@
       "onboard_time": 1763543962,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 123407,
+      "num": 123407,
+      "word": "王源长智齿",
+      "onboard_time": 1763807000,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 123244,
@@ -14547,6 +14635,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 118098,
+      "num": 118098,
+      "word": "AG爱笑自曝开出4600万年薪挖选手",
+      "onboard_time": 1763805981,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 118040,
       "num": 152315,
       "word": "德州网友吐槽超市几乎全是印度人",
@@ -15227,6 +15323,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 113104,
+      "num": 113104,
+      "word": "DYG对战DRG",
+      "onboard_time": 1763806761,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113052,
       "num": 113052,
       "word": "工作怎么能爽成这样",
@@ -15305,6 +15409,14 @@
       "onboard_time": 1763723241,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111882,
+      "num": 111882,
+      "word": "这段让我演我能拿影后",
+      "onboard_time": 1763806640,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 111828,
@@ -15409,14 +15521,6 @@
       "onboard_time": 1763352562,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 111179,
-      "num": 111179,
-      "word": "最适合方圆脸的发型",
-      "onboard_time": 1763801420,
-      "rank": 43,
-      "category": "美妆"
     },
     {
       "raw_hot": 111170,
@@ -15913,6 +16017,14 @@
       "onboard_time": 1763385622,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107242,
+      "num": 107242,
+      "word": "王橹杰考核",
+      "onboard_time": 1763805201,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 107090,
@@ -16595,6 +16707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102371,
+      "num": 102371,
+      "word": "法国媒体盛赞樊振东",
+      "onboard_time": 1763807061,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102334,
       "num": 132658,
       "word": "刘嘉玲被忽悠吃了生鸡血",
@@ -16835,6 +16955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 99659,
+      "num": 99659,
+      "word": "iPhone放大镜原来是这么用的",
+      "onboard_time": 1763802861,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 99613,
       "num": 183597,
       "word": "vivoX300拍到海洋最温柔的巨兽",
@@ -17051,6 +17179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98454,
+      "num": 98454,
+      "word": "JDG小A连接成功",
+      "onboard_time": 1763807000,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98398,
       "num": 98398,
       "word": "她甚至是躺着的姿势在弹琴",
@@ -17249,14 +17385,6 @@
       "onboard_time": 1763717661,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 96860,
-      "num": 96860,
-      "word": "iPhone放大镜原来是这么用的",
-      "onboard_time": 1763802861,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 96844,
@@ -18212,7 +18340,7 @@
     },
     {
       "raw_hot": 86794,
-      "num": 86794,
+      "num": 284549,
       "word": "全球首例无线植入式中文脑机接口",
       "onboard_time": 1763804241,
       "rank": 46,
@@ -18993,6 +19121,14 @@
       "onboard_time": 1763383041,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76796,
+      "num": 286096,
+      "word": "解放军还有一个重要使命",
+      "onboard_time": 1763806160,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76443,
@@ -22627,6 +22763,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30162,
+      "num": 199255,
+      "word": "妇联回应女子养育8孩",
+      "onboard_time": 1763806401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30105,
       "num": 50528,
       "word": "王一博探索新境2北美攀岩总宣",
@@ -23705,6 +23849,14 @@
       "onboard_time": 1763707340,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 16094,
+      "num": 118654,
+      "word": "郑丽文高呼两岸绝不可打仗",
+      "onboard_time": 1763806821,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15958,

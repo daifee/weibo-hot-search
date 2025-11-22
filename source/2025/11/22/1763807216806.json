@@ -1,0 +1,410 @@
+{
+  "runTime": 1763807216806,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 734885,
+        "num": 1117581,
+        "word": "日本被抛售",
+        "onboard_time": 1763796740,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339197,
+        "num": 339197,
+        "word": "王者新英雄大禹",
+        "onboard_time": 1763800641,
+        "rank": 1,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 13162,
+        "num": 309853,
+        "word": "小雪时节看冬的诗意",
+        "onboard_time": 1763769739,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1564838,
+        "num": 303297,
+        "word": "枭起青壤",
+        "onboard_time": 1763804900,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 383332,
+        "num": 303166,
+        "word": "狂野时代 看不懂",
+        "onboard_time": 1763790020,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290082,
+        "num": 290082,
+        "word": "为什么我国军队还叫解放军",
+        "onboard_time": 1763800581,
+        "rank": 5,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 361435,
+        "num": 289424,
+        "word": "狂野时代",
+        "onboard_time": 1763800341,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185187,
+        "num": 288487,
+        "word": "日本长期以核能掩盖核武能力",
+        "onboard_time": 1763805921,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176779,
+        "num": 287534,
+        "word": "Uzi 瘾大",
+        "onboard_time": 1763797161,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 76796,
+        "num": 286096,
+        "word": "解放军还有一个重要使命",
+        "onboard_time": 1763806160,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 59376,
+        "num": 284549,
+        "word": "全球首例无线植入式中文脑机接口",
+        "onboard_time": 1763804241,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 842788,
+        "num": 283794,
+        "word": "易烊千玺吻戏",
+        "onboard_time": 1763798180,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 441320,
+        "num": 282439,
+        "word": "何炅 警惕穿红衣服的人",
+        "onboard_time": 1763798420,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 356439,
+        "num": 281444,
+        "word": "迪丽热巴王洋友谊",
+        "onboard_time": 1763802740,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 281040,
+        "num": 281040,
+        "word": "时代少年团演唱会",
+        "onboard_time": 1763806580,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 228538,
+        "num": 228538,
+        "word": "Uzi回归LPL呼声高涨",
+        "onboard_time": 1763804600,
+        "rank": 15,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203724,
+        "num": 203724,
+        "word": "考公的动力在电梯里具象化了",
+        "onboard_time": 1763793860,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 150896,
+        "num": 202440,
+        "word": "中国军网发视频大子弹量大管够",
+        "onboard_time": 1763794220,
+        "rank": 17,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 140151,
+        "num": 200988,
+        "word": "台当局宣布全面解禁日本核食",
+        "onboard_time": 1763792661,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30162,
+        "num": 199255,
+        "word": "妇联回应女子养育8孩",
+        "onboard_time": 1763806401,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 799701,
+        "num": 196379,
+        "word": "胡彦斌 没有义务向全世界汇报",
+        "onboard_time": 1763774421,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195035,
+        "num": 195035,
+        "word": "袁一琦签芒果后要有限定跨年舞台了",
+        "onboard_time": 1763806580,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 383762,
+        "num": 193487,
+        "word": "沙溢两个儿子在英国上学",
+        "onboard_time": 1763790681,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 350506,
+        "num": 193108,
+        "word": "阚清子挺孕肚产检疑临盆在即",
+        "onboard_time": 1763805800,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 318717,
+        "num": 190413,
+        "word": "第一次见明星带着素人一起官宣",
+        "onboard_time": 1763791161,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338018,
+        "num": 189942,
+        "word": "胡彦斌向粉丝道歉",
+        "onboard_time": 1763779100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174978,
+        "num": 187179,
+        "word": "建议声生不息纳入全国教材",
+        "onboard_time": 1763806281,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164235,
+        "num": 185156,
+        "word": "枭起青壤直播",
+        "onboard_time": 1763802381,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134677,
+        "num": 184566,
+        "word": "张继科杯团体赛的队名太好笑了",
+        "onboard_time": 1763798601,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117146,
+        "num": 183013,
+        "word": "上海海港三连冠",
+        "onboard_time": 1763803819,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 318524,
+        "num": 180558,
+        "word": "日本人没米下锅了",
+        "onboard_time": 1763801660,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 262943,
+        "num": 179362,
+        "word": "王洋宣传迪丽热巴枭起青壤",
+        "onboard_time": 1763801660,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195475,
+        "num": 176973,
+        "word": "易烊千玺我需要心理委员",
+        "onboard_time": 1763804720,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176757,
+        "num": 176757,
+        "word": "杨幂小雪吃铁锅炖",
+        "onboard_time": 1763802981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175506,
+        "num": 175506,
+        "word": "张继科回应樊振东只会拧拉搓言论",
+        "onboard_time": 1763806401,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165272,
+        "num": 165272,
+        "word": "最适合方圆脸的发型",
+        "onboard_time": 1763801420,
+        "rank": 35,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 138364,
+        "num": 138364,
+        "word": "丁泽仁回应收唯一的姐300万",
+        "onboard_time": 1763798361,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127314,
+        "num": 127314,
+        "word": "JDG无双连接成功",
+        "onboard_time": 1763804720,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123407,
+        "num": 123407,
+        "word": "王源长智齿",
+        "onboard_time": 1763807000,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16094,
+        "num": 118654,
+        "word": "郑丽文高呼两岸绝不可打仗",
+        "onboard_time": 1763806821,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118239,
+        "num": 118239,
+        "word": "枭起青壤今日开播",
+        "onboard_time": 1763778621,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118098,
+        "num": 118098,
+        "word": "AG爱笑自曝开出4600万年薪挖选手",
+        "onboard_time": 1763805981,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114808,
+        "num": 114808,
+        "word": "日本发生大火约100只狗葬身火海",
+        "onboard_time": 1763801420,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "DYG对战DRG",
+        "onboard_time": 1763806761,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111882,
+        "num": 111882,
+        "word": "这段让我演我能拿影后",
+        "onboard_time": 1763806640,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107242,
+        "num": 107242,
+        "word": "王橹杰考核",
+        "onboard_time": 1763805201,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104795,
+        "num": 104795,
+        "word": "白敬亭没到老鼠干到了",
+        "onboard_time": 1763796260,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102371,
+        "num": 102371,
+        "word": "法国媒体盛赞樊振东",
+        "onboard_time": 1763807061,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99659,
+        "num": 99659,
+        "word": "iPhone放大镜原来是这么用的",
+        "onboard_time": 1763802861,
+        "rank": 48,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98454,
+        "num": 98454,
+        "word": "JDG小A连接成功",
+        "onboard_time": 1763807000,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记勉励体育健儿的高频词#"
+    }
+  }
+}

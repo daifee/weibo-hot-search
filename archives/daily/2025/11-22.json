@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763804343725,
+  "endTime": 1763807216806,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -17,6 +17,14 @@
       "onboard_time": 1763774421,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1564838,
+      "num": 303297,
+      "word": "枭起青壤",
+      "onboard_time": 1763804900,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 1369875,
@@ -75,8 +83,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 732339,
-      "num": 1117174,
+      "raw_hot": 734885,
+      "num": 1117581,
       "word": "日本被抛售",
       "onboard_time": 1763796740,
       "rank": 25,
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 703011,
-      "num": 260337,
+      "num": 282439,
       "word": "何炅 警惕穿红衣服的人",
       "onboard_time": 1763798420,
       "rank": 20,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 385191,
-      "num": 254308,
+      "num": 290082,
       "word": "为什么我国军队还叫解放军",
       "onboard_time": 1763800581,
       "rank": 43,
@@ -348,7 +356,7 @@
     },
     {
       "raw_hot": 377926,
-      "num": 179668,
+      "num": 200988,
       "word": "台当局宣布全面解禁日本核食",
       "onboard_time": 1763792661,
       "rank": 34,
@@ -364,7 +372,7 @@
     },
     {
       "raw_hot": 372358,
-      "num": 210605,
+      "num": 281444,
       "word": "迪丽热巴王洋友谊",
       "onboard_time": 1763802740,
       "rank": 17,
@@ -385,6 +393,14 @@
       "onboard_time": 1763734522,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 350506,
+      "num": 193108,
+      "word": "阚清子挺孕肚产检疑临盆在即",
+      "onboard_time": 1763805800,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 349783,
@@ -433,6 +449,14 @@
       "onboard_time": 1763781681,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 318524,
+      "num": 180558,
+      "word": "日本人没米下锅了",
+      "onboard_time": 1763801660,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 310489,
@@ -489,6 +513,14 @@
       "onboard_time": 1763756713,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 281040,
+      "num": 281040,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1763806580,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 279043,
@@ -603,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228538,
+      "num": 228538,
+      "word": "Uzi回归LPL呼声高涨",
+      "onboard_time": 1763804600,
+      "rank": 15,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 220742,
       "num": 220742,
       "word": "韩网友安利中国柚子",
@@ -624,14 +664,6 @@
       "word": "馆长称若非中国慈悲分秒给日本灭掉",
       "onboard_time": 1763788760,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 212721,
-      "num": 164621,
-      "word": "日本人没米下锅了",
-      "onboard_time": 1763801660,
-      "rank": 32,
       "category": "国际时政"
     },
     {
@@ -715,12 +747,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 195475,
+      "num": 176973,
+      "word": "易烊千玺我需要心理委员",
+      "onboard_time": 1763804720,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 195398,
       "num": 159847,
       "word": "唐诡再宠下去方丈真危险了",
       "onboard_time": 1763795301,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195035,
+      "num": 195035,
+      "word": "袁一琦签芒果后要有限定跨年舞台了",
+      "onboard_time": 1763806580,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 191880,
@@ -753,6 +801,14 @@
       "onboard_time": 1763785341,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185187,
+      "num": 288487,
+      "word": "日本长期以核能掩盖核武能力",
+      "onboard_time": 1763805921,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185070,
@@ -803,6 +859,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175506,
+      "num": 175506,
+      "word": "张继科回应樊振东只会拧拉搓言论",
+      "onboard_time": 1763806401,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 174978,
+      "num": 187179,
+      "word": "建议声生不息纳入全国教材",
+      "onboard_time": 1763806281,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171877,
       "num": 325935,
       "word": "彭小苒回应凤凰台上原著作者",
@@ -849,6 +921,14 @@
       "onboard_time": 1763785460,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 165272,
+      "num": 165272,
+      "word": "最适合方圆脸的发型",
+      "onboard_time": 1763801420,
+      "rank": 43,
+      "category": "美妆"
     },
     {
       "raw_hot": 159984,
@@ -1131,6 +1211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127314,
+      "num": 127314,
+      "word": "JDG无双连接成功",
+      "onboard_time": 1763804720,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126359,
       "num": 129552,
       "word": "狗狗眼里的漂亮人类长什么样",
@@ -1171,6 +1259,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 123407,
+      "num": 123407,
+      "word": "王源长智齿",
+      "onboard_time": 1763807000,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121718,
       "num": 121718,
       "word": "睡着后容易醒可能是6种病",
@@ -1208,6 +1304,14 @@
       "word": "小雪说小雪是特别的",
       "onboard_time": 1763786481,
       "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 118098,
+      "num": 118098,
+      "word": "AG爱笑自曝开出4600万年薪挖选手",
+      "onboard_time": 1763805981,
+      "rank": 41,
       "category": "电竞"
     },
     {
@@ -1251,12 +1355,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 111179,
-      "num": 111179,
-      "word": "最适合方圆脸的发型",
-      "onboard_time": 1763801420,
+      "raw_hot": 113104,
+      "num": 113104,
+      "word": "DYG对战DRG",
+      "onboard_time": 1763806761,
       "rank": 43,
-      "category": "美妆"
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 111882,
+      "num": 111882,
+      "word": "这段让我演我能拿影后",
+      "onboard_time": 1763806640,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 111157,
@@ -1307,6 +1419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107242,
+      "num": 107242,
+      "word": "王橹杰考核",
+      "onboard_time": 1763805201,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107090,
       "num": 107090,
       "word": "A股回调原因找到了",
@@ -1339,6 +1459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102371,
+      "num": 102371,
+      "word": "法国媒体盛赞樊振东",
+      "onboard_time": 1763807061,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102035,
       "num": 102035,
       "word": "道崽 星之卡比绪",
@@ -1363,12 +1491,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 99659,
+      "num": 99659,
+      "word": "iPhone放大镜原来是这么用的",
+      "onboard_time": 1763802861,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
       "raw_hot": 98844,
       "num": 98844,
       "word": "豆包还贴心的帮忙丑颜了",
       "onboard_time": 1763799860,
       "rank": 43,
       "category": "互联网,情感"
+    },
+    {
+      "raw_hot": 98454,
+      "num": 98454,
+      "word": "JDG小A连接成功",
+      "onboard_time": 1763807000,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 97931,
@@ -1393,14 +1537,6 @@
       "onboard_time": 1763792781,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 96860,
-      "num": 96860,
-      "word": "iPhone放大镜原来是这么用的",
-      "onboard_time": 1763802861,
-      "rank": 46,
-      "category": "数码"
     },
     {
       "raw_hot": 96325,
@@ -1588,7 +1724,7 @@
     },
     {
       "raw_hot": 86794,
-      "num": 86794,
+      "num": 284549,
       "word": "全球首例无线植入式中文脑机接口",
       "onboard_time": 1763804241,
       "rank": 46,
@@ -1737,6 +1873,14 @@
       "onboard_time": 1763784261,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 76796,
+      "num": 286096,
+      "word": "解放军还有一个重要使命",
+      "onboard_time": 1763806160,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 75562,
@@ -2307,6 +2451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30162,
+      "num": 199255,
+      "word": "妇联回应女子养育8孩",
+      "onboard_time": 1763806401,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29622,
       "num": 461076,
       "word": "第15届全运会闭幕",
@@ -2441,6 +2593,14 @@
       "onboard_time": 1763780420,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16094,
+      "num": 118654,
+      "word": "郑丽文高呼两岸绝不可打仗",
+      "onboard_time": 1763806821,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14096,
