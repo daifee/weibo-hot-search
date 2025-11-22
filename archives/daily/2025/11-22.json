@@ -1,6 +1,6 @@
 {
   "startTime": 1763742788687,
-  "endTime": 1763808078907,
+  "endTime": 1763810449005,
   "band_list": [
     {
       "raw_hot": 2955543,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1564838,
-      "num": 593785,
+      "num": 737416,
       "word": "枭起青壤",
       "onboard_time": 1763804900,
       "rank": 3,
@@ -76,11 +76,19 @@
     },
     {
       "raw_hot": 798866,
-      "num": 199488,
+      "num": 214747,
       "word": "沙溢两个儿子在英国上学",
       "onboard_time": 1763790681,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 776538,
+      "num": 281040,
+      "word": "时代少年团演唱会",
+      "onboard_time": 1763806580,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 734885,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 710981,
-      "num": 168097,
+      "num": 200566,
       "word": "胡彦斌 易梦玲",
       "onboard_time": 1763799920,
       "rank": 26,
@@ -123,6 +131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 683046,
+      "num": 683046,
+      "word": "狂野时代",
+      "onboard_time": 1763743338,
+      "rank": 4,
+      "category": "电影"
+    },
+    {
       "raw_hot": 681585,
       "num": 339233,
       "word": "杨坤签约乐华",
@@ -137,6 +153,14 @@
       "onboard_time": 1763775981,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 664874,
+      "num": 351263,
+      "word": "枭起青壤热度",
+      "onboard_time": 1763808800,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 646693,
@@ -163,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 610635,
+      "num": 249823,
+      "word": "液断7天瘦了13.2斤",
+      "onboard_time": 1763807480,
+      "rank": 31,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 587338,
       "num": 292327,
       "word": "葛荟婕 分手费分次给了30万",
@@ -179,16 +211,8 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 578334,
-      "num": 578334,
-      "word": "狂野时代",
-      "onboard_time": 1763743338,
-      "rank": 4,
-      "category": "电影"
-    },
-    {
       "raw_hot": 577974,
-      "num": 193108,
+      "num": 217292,
       "word": "阚清子挺孕肚产检疑临盆在即",
       "onboard_time": 1763805800,
       "rank": 23,
@@ -283,14 +307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 456554,
-      "num": 281040,
-      "word": "时代少年团演唱会",
-      "onboard_time": 1763806580,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 448154,
       "num": 172583,
       "word": "胡彦斌曾给易梦玲送咖啡",
@@ -372,7 +388,7 @@
     },
     {
       "raw_hot": 377926,
-      "num": 200988,
+      "num": 308710,
       "word": "台当局宣布全面解禁日本核食",
       "onboard_time": 1763792661,
       "rank": 34,
@@ -393,6 +409,14 @@
       "onboard_time": 1763802740,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 370972,
+      "num": 370972,
+      "word": "日本长期以核能掩盖核武能力",
+      "onboard_time": 1763805921,
+      "rank": 7,
+      "category": "国际时政"
     },
     {
       "raw_hot": 365252,
@@ -417,6 +441,14 @@
       "onboard_time": 1763784800,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 346460,
+      "num": 247767,
+      "word": "张继科回应樊振东只会拧拉搓言论",
+      "onboard_time": 1763806401,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 337719,
@@ -515,12 +547,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 295700,
+      "num": 203602,
+      "word": "王源长智齿",
+      "onboard_time": 1763807000,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 294296,
       "num": 250905,
       "word": "男子花8万元网购70平海景房",
       "onboard_time": 1763756713,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 289945,
+      "num": 244999,
+      "word": "迪丽热巴好有质感的美",
+      "onboard_time": 1763809702,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 279043,
@@ -555,6 +603,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 273075,
+      "num": 273075,
+      "word": "枭起青壤 突脸",
+      "onboard_time": 1763809761,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272067,
       "num": 272067,
       "word": "易烊千玺演技",
@@ -569,14 +625,6 @@
       "onboard_time": 1763782940,
       "rank": 22,
       "category": "网红"
-    },
-    {
-      "raw_hot": 271121,
-      "num": 288487,
-      "word": "日本长期以核能掩盖核武能力",
-      "onboard_time": 1763805921,
-      "rank": 7,
-      "category": "国际时政"
     },
     {
       "raw_hot": 270709,
@@ -611,6 +659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 252796,
+      "num": 286096,
+      "word": "解放军还有一个重要使命",
+      "onboard_time": 1763806160,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 249955,
       "num": 266679,
       "word": "中国军网发视频大子弹量大管够",
@@ -625,6 +681,14 @@
       "onboard_time": 1763738424,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 244431,
+      "num": 244431,
+      "word": "时团六周年节目单",
+      "onboard_time": 1763809821,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 240329,
@@ -643,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235258,
+      "num": 235258,
+      "word": "时代少年团直播",
+      "onboard_time": 1763808681,
+      "rank": 18,
+      "category": "演出"
+    },
+    {
       "raw_hot": 228538,
       "num": 228538,
       "word": "Uzi回归LPL呼声高涨",
       "onboard_time": 1763804600,
       "rank": 15,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 225080,
+      "num": 225080,
+      "word": "泽连斯基疑暗示已输掉战争",
+      "onboard_time": 1763809221,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 220742,
@@ -699,14 +779,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 211792,
-      "num": 286096,
-      "word": "解放军还有一个重要使命",
-      "onboard_time": 1763806160,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 210281,
       "num": 210281,
       "word": "周翊然直播",
@@ -729,14 +801,6 @@
       "onboard_time": 1763779821,
       "rank": 22,
       "category": "读书作家"
-    },
-    {
-      "raw_hot": 200822,
-      "num": 170445,
-      "word": "王源长智齿",
-      "onboard_time": 1763807000,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 198254,
@@ -801,14 +865,6 @@
       "onboard_time": 1763807839,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193087,
-      "num": 193087,
-      "word": "张继科回应樊振东只会拧拉搓言论",
-      "onboard_time": 1763806401,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 191880,
@@ -883,12 +939,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176165,
-      "num": 167425,
-      "word": "液断7天瘦了13.2斤",
-      "onboard_time": 1763807480,
-      "rank": 31,
-      "category": "运动健身"
+      "raw_hot": 176349,
+      "num": 252001,
+      "word": "解放军备战画面",
+      "onboard_time": 1763809221,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 175712,
@@ -1347,6 +1403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119434,
+      "num": 119434,
+      "word": "李飞直播",
+      "onboard_time": 1763810120,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118098,
       "num": 118098,
       "word": "AG爱笑自曝开出4600万年薪挖选手",
@@ -1385,6 +1449,14 @@
       "onboard_time": 1763781201,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 114001,
+      "num": 114001,
+      "word": "贵州女子在几平米小房间养8娃",
+      "onboard_time": 1763809522,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 113783,
@@ -1507,6 +1579,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 102136,
+      "num": 102136,
+      "word": "胡先煦9年从国民儿子变daddy",
+      "onboard_time": 1763808980,
+      "rank": 43,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 102035,
       "num": 102035,
       "word": "道崽 星之卡比绪",
@@ -1520,6 +1600,22 @@
       "word": "日元持续贬值日本发出最强烈警告",
       "onboard_time": 1763740281,
       "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 101808,
+      "num": 101808,
+      "word": "武磊哭了",
+      "onboard_time": 1763810421,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101025,
+      "num": 101025,
+      "word": "日本法西斯主义再次抬头",
+      "onboard_time": 1763808140,
+      "rank": 45,
       "category": "国际时政"
     },
     {
@@ -1761,6 +1857,14 @@
       "onboard_time": 1763738903,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 86972,
+      "num": 883269,
+      "word": "首条大容量全固态电池产线建成",
+      "onboard_time": 1763809221,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86794,
@@ -2059,6 +2163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 65839,
+      "num": 185529,
+      "word": "香港取消一师生代表团赴日交流",
+      "onboard_time": 1763807601,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64805,
       "num": 317832,
       "word": "买二手房一定要买别人住过的",
@@ -2160,6 +2272,14 @@
       "word": "深圳把全运会闭幕式办成科技发布会",
       "onboard_time": 1763774720,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 60309,
+      "num": 100578,
+      "word": "法比奥大四喜",
+      "onboard_time": 1763810241,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2411,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43010,
+      "num": 112485,
+      "word": "杨幂展示肱二头肌",
+      "onboard_time": 1763809761,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 41637,
       "num": 208701,
       "word": "原神",
@@ -2459,14 +2587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 35667,
-      "num": 185529,
-      "word": "香港取消一师生代表团赴日交流",
-      "onboard_time": 1763807601,
-      "rank": 19,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 34014,
       "num": 67705,
       "word": "薛之谦欧阳娜娜装货舞台",
@@ -2505,6 +2625,14 @@
       "onboard_time": 1763740401,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 30130,
+      "num": 112252,
+      "word": "紫龙游戏回应小伙出差抽中显卡要上交",
+      "onboard_time": 1763809221,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29622,
@@ -2660,7 +2788,7 @@
     },
     {
       "raw_hot": 13704,
-      "num": 595325,
+      "num": 745047,
       "word": "小雪时节看冬的诗意",
       "onboard_time": 1763769739,
       "rank": 7,
