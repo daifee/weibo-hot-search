@@ -1,10 +1,10 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763880608703,
+  "endTime": 1763882713798,
   "band_list": [
     {
       "raw_hot": 2326450,
-      "num": 160941,
+      "num": 192490,
       "word": "唐嫣父亲参加罗晋父亲葬礼",
       "onboard_time": 1763867180,
       "rank": 20,
@@ -41,6 +41,14 @@
       "onboard_time": 1763856980,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 745303,
+      "num": 180077,
+      "word": "罗晋父亲追悼会现场",
+      "onboard_time": 1763881220,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 725800,
@@ -91,6 +99,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 609313,
+      "num": 432332,
+      "word": "终于有人知道求婚是很私密的事了",
+      "onboard_time": 1763878461,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 608057,
       "num": 158451,
       "word": "男子半裸拍临时身份证照当场社死",
@@ -99,20 +115,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 563376,
-      "num": 432332,
-      "word": "终于有人知道求婚是很私密的事了",
-      "onboard_time": 1763878461,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 535144,
-      "num": 159770,
+      "num": 191570,
       "word": "疑似王心凌吴克群恋情",
       "onboard_time": 1763866881,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 529114,
+      "num": 195688,
+      "word": "流感高烧",
+      "onboard_time": 1763879181,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 508555,
@@ -276,7 +292,7 @@
     },
     {
       "raw_hot": 329414,
-      "num": 159065,
+      "num": 192161,
       "word": "于正死丫头对自己真好",
       "onboard_time": 1763876961,
       "rank": 22,
@@ -323,6 +339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 307186,
+      "num": 191979,
+      "word": "王玉雯 我会争取想让我争取的角色",
+      "onboard_time": 1763877441,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 305512,
       "num": 439783,
       "word": "毒唯脱粉后决定自己出道",
@@ -361,6 +385,14 @@
       "onboard_time": 1763816241,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 272537,
+      "num": 244717,
+      "word": "短剧被真打演员报平安",
+      "onboard_time": 1763876660,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 271979,
@@ -443,6 +475,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 247073,
+      "num": 193754,
+      "word": "38岁男子守了鸡排哥一个月蹭流量",
+      "onboard_time": 1763878341,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246959,
       "num": 158683,
       "word": "男子抛下孕妻高速停车掏马蜂窝被罚",
@@ -465,6 +505,14 @@
       "onboard_time": 1763869520,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230798,
+      "num": 433754,
+      "word": "女子没时间遛狗找邻居小孩1次2块",
+      "onboard_time": 1763879301,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 229881,
@@ -531,14 +579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 206276,
-      "num": 157460,
-      "word": "短剧被真打演员报平安",
-      "onboard_time": 1763876660,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205919,
       "num": 160373,
       "word": "高市早苗会前花几个小时挑衣服",
@@ -563,12 +603,12 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 194635,
-      "num": 155865,
-      "word": "王玉雯 我会争取想让我争取的角色",
-      "onboard_time": 1763877441,
-      "rank": 26,
-      "category": "艺人"
+      "raw_hot": 196756,
+      "num": 196756,
+      "word": "九尾官宣自由人",
+      "onboard_time": 1763880860,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 194357,
@@ -577,6 +617,14 @@
       "onboard_time": 1763812702,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 191125,
+      "num": 191125,
+      "word": "自助偷甘蔗",
+      "onboard_time": 1763878281,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 188900,
@@ -683,14 +731,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 166833,
-      "num": 166833,
-      "word": "流感高烧",
-      "onboard_time": 1763879181,
-      "rank": 36,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 166454,
       "num": 158561,
       "word": "女生卖炒饭东北大哥急到自己颠勺",
@@ -699,20 +739,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164488,
+      "num": 164488,
+      "word": "唐诡3打归打闹归闹不拿大事开玩笑",
+      "onboard_time": 1763882061,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 163749,
       "num": 138438,
       "word": "为什么中药名字这么好听",
       "onboard_time": 1763878881,
       "rank": 17,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 163744,
-      "num": 163744,
-      "word": "自助偷甘蔗",
-      "onboard_time": 1763878281,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 162242,
@@ -737,14 +777,6 @@
       "onboard_time": 1763871681,
       "rank": 32,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 154916,
-      "num": 154916,
-      "word": "38岁男子守了鸡排哥一个月蹭流量",
-      "onboard_time": 1763878341,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 154805,
@@ -803,6 +835,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139595,
+      "num": 139595,
+      "word": "金晨有点心事全写脸上了",
+      "onboard_time": 1763880860,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139229,
       "num": 139229,
       "word": "被姥姥梳成瘦猫",
@@ -833,6 +873,22 @@
       "onboard_time": 1763880201,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131271,
+      "num": 131271,
+      "word": "胡杏儿李乘德结婚10周年派对",
+      "onboard_time": 1763882001,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 131144,
+      "num": 131144,
+      "word": "迪丽热巴这段看得我恐水了",
+      "onboard_time": 1763882600,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 130287,
@@ -899,20 +955,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122826,
+      "num": 122826,
+      "word": "喜君我是看着你长大的",
+      "onboard_time": 1763882240,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 121809,
       "num": 242774,
       "word": "易烊千玺吻戏",
       "onboard_time": 1763798180,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 119223,
-      "num": 433754,
-      "word": "女子没时间遛狗找邻居小孩1次2块",
-      "onboard_time": 1763879301,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119042,
@@ -1315,12 +1371,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89533,
+      "num": 89533,
+      "word": "人类学猫叫把猫恶心吐了",
+      "onboard_time": 1763881700,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 88922,
       "num": 88922,
       "word": "俞敏洪称南极游也是为了工作",
       "onboard_time": 1763864901,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 87816,
+      "num": 87816,
+      "word": "头发重新变黑的方法找到了",
+      "onboard_time": 1763882420,
+      "rank": 45,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86017,
@@ -1347,8 +1419,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 80600,
-      "num": 80600,
+      "raw_hot": 80892,
+      "num": 85086,
       "word": "富冈义勇神图",
       "onboard_time": 1763879961,
       "rank": 48,
@@ -1539,6 +1611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47025,
+      "num": 115690,
+      "word": "馆长说日本一定会让步",
+      "onboard_time": 1763881880,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45919,
       "num": 109159,
       "word": "博格巴复出",
@@ -1577,6 +1657,14 @@
       "onboard_time": 1763827703,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38026,
+      "num": 117860,
+      "word": "英国男子躲垃圾箱取暖被垃圾车碾死",
+      "onboard_time": 1763881939,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 37655,
@@ -1659,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25262,
+      "num": 116808,
+      "word": "男子回应野外烧纸烧掉一辆真车",
+      "onboard_time": 1763881700,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23843,
       "num": 92480,
       "word": "柬埔寨劫囚案9小时全员落网",
@@ -1680,6 +1776,14 @@
       "word": "爱有5种语言",
       "onboard_time": 1763834236,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18684,
+      "num": 192794,
+      "word": "央视曝光试吃卡试用卡骗局",
+      "onboard_time": 1763882360,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -1705,6 +1809,14 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 13449,
+      "num": 119912,
+      "word": "大妈跳广场舞居民放鞭炮回击",
+      "onboard_time": 1763882360,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5956,

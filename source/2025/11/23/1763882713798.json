@@ -1,0 +1,410 @@
+{
+  "runTime": 1763882713798,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 540796,
+        "num": 1086527,
+        "word": "自助偷甘蔗农场爆火后老板真没招了",
+        "onboard_time": 1763874321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 470973,
+        "num": 470973,
+        "word": "日本早已制定三套夺岛方案",
+        "onboard_time": 1763870062,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2093,
+        "num": 317644,
+        "word": "华龙一号又有新贡献",
+        "onboard_time": 1763807421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298020,
+        "num": 298020,
+        "word": "山寨山姆挤满了想花钱的县城中产",
+        "onboard_time": 1763875042,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253288,
+        "num": 253288,
+        "word": "全世界都承认台湾是中国的一个省",
+        "onboard_time": 1763871081,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 272537,
+        "num": 244717,
+        "word": "短剧被真打演员报平安",
+        "onboard_time": 1763876660,
+        "rank": 5,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230798,
+        "num": 230798,
+        "word": "女子没时间遛狗找邻居小孩1次2块",
+        "onboard_time": 1763879301,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196756,
+        "num": 196756,
+        "word": "九尾官宣自由人",
+        "onboard_time": 1763880860,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124448,
+        "num": 196426,
+        "word": "恋与王男",
+        "onboard_time": 1763869520,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121122,
+        "num": 196381,
+        "word": "西贝降价",
+        "onboard_time": 1763864901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 609313,
+        "num": 195809,
+        "word": "终于有人知道求婚是很私密的事了",
+        "onboard_time": 1763878461,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 529114,
+        "num": 195688,
+        "word": "流感高烧",
+        "onboard_time": 1763879181,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 245210,
+        "num": 195106,
+        "word": "毒唯脱粉后决定自己出道",
+        "onboard_time": 1763876421,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 357376,
+        "num": 194917,
+        "word": "喝水后有这些表现说明肾不好",
+        "onboard_time": 1763877319,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 347053,
+        "num": 194444,
+        "word": "陈哲远 最近网上的事不要担心",
+        "onboard_time": 1763876601,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 322864,
+        "num": 194160,
+        "word": "沈月大大方方地瞒住了所有人",
+        "onboard_time": 1763863941,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253573,
+        "num": 193948,
+        "word": "陈星旭在迪丽热巴面前快夹成卡车了",
+        "onboard_time": 1763876240,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 247073,
+        "num": 193754,
+        "word": "38岁男子守了鸡排哥一个月蹭流量",
+        "onboard_time": 1763878341,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220622,
+        "num": 193274,
+        "word": "借龄者 仵作之死",
+        "onboard_time": 1763878341,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18684,
+        "num": 192794,
+        "word": "央视曝光试吃卡试用卡骗局",
+        "onboard_time": 1763882360,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1362793,
+        "num": 192490,
+        "word": "唐嫣父亲参加罗晋父亲葬礼",
+        "onboard_time": 1763867180,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309020,
+        "num": 192161,
+        "word": "于正死丫头对自己真好",
+        "onboard_time": 1763876961,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307186,
+        "num": 191979,
+        "word": "王玉雯 我会争取想让我争取的角色",
+        "onboard_time": 1763877441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246984,
+        "num": 191570,
+        "word": "疑似王心凌吴克群恋情",
+        "onboard_time": 1763866881,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156484,
+        "num": 191407,
+        "word": "枭起青壤",
+        "onboard_time": 1763874440,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191125,
+        "num": 191125,
+        "word": "自助偷甘蔗",
+        "onboard_time": 1763878281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 745303,
+        "num": 180077,
+        "word": "罗晋父亲追悼会现场",
+        "onboard_time": 1763881220,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164488,
+        "num": 164488,
+        "word": "唐诡3打归打闹归闹不拿大事开玩笑",
+        "onboard_time": 1763882061,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154258,
+        "num": 154258,
+        "word": "黄龄说黄霄雲像假唱",
+        "onboard_time": 1763880141,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142211,
+        "num": 142211,
+        "word": "狂野时代",
+        "onboard_time": 1763862320,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143204,
+        "num": 141656,
+        "word": "丈夫说车祸遇难女子晚半小时就好了",
+        "onboard_time": 1763867541,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139595,
+        "num": 139595,
+        "word": "金晨有点心事全写脸上了",
+        "onboard_time": 1763880860,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131271,
+        "num": 131271,
+        "word": "胡杏儿李乘德结婚10周年派对",
+        "onboard_time": 1763882001,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131144,
+        "num": 131144,
+        "word": "迪丽热巴这段看得我恐水了",
+        "onboard_time": 1763882600,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122826,
+        "num": 122826,
+        "word": "喜君我是看着你长大的",
+        "onboard_time": 1763882240,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121023,
+        "num": 121023,
+        "word": "日本网友说高市早苗轻浮到极致",
+        "onboard_time": 1763877801,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 13449,
+        "num": 119912,
+        "word": "大妈跳广场舞居民放鞭炮回击",
+        "onboard_time": 1763882360,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38026,
+        "num": 117860,
+        "word": "英国男子躲垃圾箱取暖被垃圾车碾死",
+        "onboard_time": 1763881939,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25262,
+        "num": 116808,
+        "word": "男子回应野外烧纸烧掉一辆真车",
+        "onboard_time": 1763881700,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47025,
+        "num": 115690,
+        "word": "馆长说日本一定会让步",
+        "onboard_time": 1763881880,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 114523,
+        "num": 114523,
+        "word": "一年备孕未成功算是不孕吗",
+        "onboard_time": 1763876181,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110062,
+        "num": 110062,
+        "word": "男子抛下孕妻高速停车掏马蜂窝被罚",
+        "onboard_time": 1763868681,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104308,
+        "num": 104308,
+        "word": "乒乓球今年还有三项大赛",
+        "onboard_time": 1763880201,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100542,
+        "num": 100542,
+        "word": "mlxg不相信Uzi去iG",
+        "onboard_time": 1763880201,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89533,
+        "num": 89533,
+        "word": "人类学猫叫把猫恶心吐了",
+        "onboard_time": 1763881700,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87816,
+        "num": 87816,
+        "word": "头发重新变黑的方法找到了",
+        "onboard_time": 1763882420,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 87795,
+        "num": 87795,
+        "word": "大一和六年级只差了六年",
+        "onboard_time": 1763871141,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 87235,
+        "num": 87235,
+        "word": "现在就出发",
+        "onboard_time": 1763873001,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 85773,
+        "num": 85773,
+        "word": "歌手孙悦因家人离世取消演出",
+        "onboard_time": 1763868981,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80892,
+        "num": 85086,
+        "word": "富冈义勇神图",
+        "onboard_time": 1763879961,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#把发展蓝图变为美好现实#"
+    }
+  }
+}
