@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763908801660,
+  "endTime": 1763911492501,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1109522,
-      "num": 905146,
+      "num": 1112609,
       "word": "廉价首饰 致癌物超标9000多倍",
       "onboard_time": 1763900482,
       "rank": 12,
@@ -73,6 +73,14 @@
       "onboard_time": 1763863941,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 840888,
+      "num": 184961,
+      "word": "20岁男生肺被啃出10多个空洞",
+      "onboard_time": 1763908223,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 807625,
@@ -168,6 +176,14 @@
       "word": "霍建华赵丽颖都是省油的灯",
       "onboard_time": 1763856618,
       "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 610307,
+      "num": 291936,
+      "word": "张俪别演了我害怕",
+      "onboard_time": 1763906902,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -451,6 +467,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 375143,
+      "num": 209121,
+      "word": "张继科说和樊振东打五五开",
+      "onboard_time": 1763909844,
+      "rank": 11,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370883,
       "num": 370883,
       "word": "北大祝贺王楚钦夺冠",
@@ -467,8 +491,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366038,
+      "num": 200802,
+      "word": "时代少年团 这就是爱",
+      "onboard_time": 1763909722,
+      "rank": 13,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365723,
-      "num": 173157,
+      "num": 198819,
       "word": "李诞初见王安宇被帅到失态",
       "onboard_time": 1763906182,
       "rank": 15,
@@ -547,14 +579,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 336735,
-      "num": 214778,
-      "word": "张俪别演了我害怕",
-      "onboard_time": 1763906902,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 333080,
       "num": 194484,
       "word": "王玉雯 我会争取想让我争取的角色",
@@ -568,6 +592,14 @@
       "word": "38岁男子守了鸡排哥一个月蹭流量",
       "onboard_time": 1763878341,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331287,
+      "num": 331287,
+      "word": "自助偷甘蔗老板说人越多越亏钱",
+      "onboard_time": 1763905762,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -795,6 +827,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 255041,
+      "num": 196044,
+      "word": "刘宇宁 开美颜咋了",
+      "onboard_time": 1763908763,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "九尾官宣自由人",
@@ -809,14 +849,6 @@
       "onboard_time": 1763878341,
       "rank": 14,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 253424,
-      "num": 125536,
-      "word": "20岁男生肺被啃出10多个空洞",
-      "onboard_time": 1763908223,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 253068,
@@ -907,12 +939,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 237487,
+      "num": 191615,
+      "word": "热巴男主运",
+      "onboard_time": 1763908404,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 234763,
       "num": 234763,
       "word": "马嘉祺我应该进组了",
       "onboard_time": 1763896400,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234571,
+      "num": 183274,
+      "word": "儿童吃奥司他韦警惕出现严重副作用",
+      "onboard_time": 1763907081,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 233465,
@@ -953,6 +1001,14 @@
       "onboard_time": 1763886199,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 223637,
+      "num": 223637,
+      "word": "高市言论被翻译成鬼子又回来了",
+      "onboard_time": 1763909001,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 223055,
@@ -1091,14 +1147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 202629,
-      "num": 151567,
-      "word": "儿童吃奥司他韦警惕出现严重副作用",
-      "onboard_time": 1763907081,
-      "rank": 35,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 202079,
       "num": 193678,
       "word": "每天练背3分钟真的会瘦脸",
@@ -1163,14 +1211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 191344,
-      "num": 191344,
-      "word": "自助偷甘蔗老板说人越多越亏钱",
-      "onboard_time": 1763905762,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 191125,
       "num": 191125,
       "word": "自助偷甘蔗",
@@ -1185,6 +1225,14 @@
       "onboard_time": 1763894240,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 190910,
+      "num": 190910,
+      "word": "鹭卓巡演",
+      "onboard_time": 1763910204,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 190901,
@@ -1217,6 +1265,14 @@
       "onboard_time": 1763880141,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 188641,
+      "num": 188641,
+      "word": "宋亚轩森林之子小精灵",
+      "onboard_time": 1763910442,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 188400,
@@ -1281,6 +1337,14 @@
       "onboard_time": 1763876181,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 182642,
+      "num": 182642,
+      "word": "白桃星座",
+      "onboard_time": 1763909722,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 179536,
@@ -1363,6 +1427,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171307,
+      "num": 171307,
+      "word": "华晨宇夏哲轩 菩提老祖与泼猴",
+      "onboard_time": 1763910922,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 168984,
       "num": 168984,
       "word": "狼队清清连接成功",
@@ -1385,6 +1457,14 @@
       "onboard_time": 1763896462,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 165096,
+      "num": 223338,
+      "word": "原谅鸭",
+      "onboard_time": 1763908822,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 164488,
@@ -1531,6 +1611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 149888,
+      "num": 149888,
+      "word": "原来1000度近视半飞秒是这样做的",
+      "onboard_time": 1763909602,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 148474,
       "num": 148474,
       "word": "石破茂再批高市早苗",
@@ -1603,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139907,
+      "num": 139907,
+      "word": "刘耀文喊粉丝们多拍神图",
+      "onboard_time": 1763911401,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 139883,
       "num": 139883,
       "word": "王楚钦说成都见",
@@ -1657,6 +1753,14 @@
       "onboard_time": 1763875640,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136003,
+      "num": 136003,
+      "word": "Faker回应S赛BO5面对LPL全胜",
+      "onboard_time": 1763910983,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 135091,
@@ -1739,6 +1843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127407,
+      "num": 127407,
+      "word": "林孝埈孙龙刘少昂晋级1000米半决赛",
+      "onboard_time": 1763911342,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 127081,
       "num": 127081,
       "word": "不敢想她的地理成绩高到什么程度了",
@@ -1787,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125380,
-      "num": 125380,
-      "word": "热巴男主运",
-      "onboard_time": 1763908404,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 125367,
       "num": 125367,
       "word": "日本网友说高市早苗轻浮到极致",
@@ -1809,6 +1913,14 @@
       "onboard_time": 1763880201,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 125184,
+      "num": 187832,
+      "word": "卖家称三无飞机能飞3000米高",
+      "onboard_time": 1763909662,
+      "rank": 20,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 121809,
@@ -1833,14 +1945,6 @@
       "onboard_time": 1763908642,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 120915,
-      "num": 120915,
-      "word": "刘宇宁 开美颜咋了",
-      "onboard_time": 1763908763,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 120035,
@@ -1995,6 +2099,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 112636,
+      "num": 127398,
+      "word": "考研座椅",
+      "onboard_time": 1763910682,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112342,
       "num": 112342,
       "word": "建议尽早培养自己的输出型爱好",
@@ -2012,7 +2124,7 @@
     },
     {
       "raw_hot": 111305,
-      "num": 111305,
+      "num": 127295,
       "word": "孙乐言说家务都是奥斯卡做",
       "onboard_time": 1763908703,
       "rank": 44,
@@ -2211,6 +2323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103365,
+      "num": 127333,
+      "word": "跟王菲关系好的嘴都不一般",
+      "onboard_time": 1763911223,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 102939,
       "num": 102939,
       "word": "KSG打狼队",
@@ -2233,6 +2353,14 @@
       "onboard_time": 1763888840,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 101094,
+      "num": 127327,
+      "word": "oner谈与Tarzan的约定",
+      "onboard_time": 1763911342,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 100735,
@@ -2448,6 +2576,14 @@
       "word": "鬼灭继国兄弟",
       "onboard_time": 1763872641,
       "rank": 47,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 92124,
+      "num": 127286,
+      "word": "景向谁依plog萌化了",
+      "onboard_time": 1763910263,
+      "rank": 48,
       "category": "动漫"
     },
     {
@@ -2697,6 +2833,14 @@
       "onboard_time": 1763895381,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73332,
+      "num": 134681,
+      "word": "关他人气瓶潜水员遭PADI永久禁业",
+      "onboard_time": 1763909662,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72005,
@@ -3233,6 +3377,14 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 10807,
+      "num": 186364,
+      "word": "神秘领导力课程资料最低仅需9毛8",
+      "onboard_time": 1763911223,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5956,

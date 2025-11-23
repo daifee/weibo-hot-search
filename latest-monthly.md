@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 22:40:01
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 23:24:52
 </p>
 </blockquote>
 <p>
@@ -2223,6 +2223,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E7%94%B7%E7%94%9F%E8%82%BA%E8%A2%AB%E5%95%83%E5%87%BA10%E5%A4%9A%E4%B8%AA%E7%A9%BA%E6%B4%9E%23" target="weibo">
+20岁男生肺被啃出10多个空洞（热度：840888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E7%AC%AC9%E9%9B%8610%E5%88%8615%E7%A7%92%23" target="weibo">
 唐诡3第9集10分15秒（热度：839609）
 </a>
@@ -4155,6 +4161,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BF%AA%E5%88%AB%E6%BC%94%E4%BA%86%E6%88%91%E5%AE%B3%E6%80%95%23" target="weibo">
+张俪别演了我害怕（热度：610307）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%8D%97%E9%B9%85%E6%AF%9B%E5%A4%A7%E9%9B%AA%23" target="weibo">
 河南鹅毛大雪（热度：609799）
 </a>
@@ -5999,18 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%A9%E5%B7%B2%E5%88%B6%E5%AE%9A%E4%B8%89%E5%A5%97%E5%A4%BA%E5%B2%9B%E6%96%B9%E6%A1%88%23" target="weibo">
 日本早已制定三套夺岛方案（热度：493561）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%9B%9E%E5%BA%94%E5%A9%9A%E7%A4%BC%E9%A4%90%E6%A0%87%23" target="weibo">
-董璇回应婚礼餐标（热度：492972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E9%99%88%E6%98%9F%E6%97%AD%20%E8%A5%BF%E8%A3%85%E7%9D%A1%E8%A3%99%E6%89%93%E6%88%8F%23" target="weibo">
-迪丽热巴陈星旭 西装睡裙打戏（热度：492561）
 </a>
 </li>
 
