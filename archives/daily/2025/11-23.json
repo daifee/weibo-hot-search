@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763863944530,
+  "endTime": 1763865342002,
   "band_list": [
     {
       "raw_hot": 854074,
@@ -9,6 +9,14 @@
       "onboard_time": 1763826142,
       "rank": 1,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 841871,
+      "num": 162015,
+      "word": "沈月大大方方地瞒住了所有人",
+      "onboard_time": 1763863941,
+      "rank": 10,
+      "category": "综艺"
     },
     {
       "raw_hot": 787614,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 608057,
-      "num": 116729,
+      "num": 158206,
       "word": "男子半裸拍临时身份证照当场社死",
       "onboard_time": 1763862320,
       "rank": 20,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 343748,
+      "num": 170536,
+      "word": "涉毒艺人含笑被举报直播卖手串",
+      "onboard_time": 1763860760,
+      "rank": 14,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 309447,
       "num": 258877,
       "word": "爱奇艺把杨紫香蜜限免了",
@@ -195,6 +211,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249927,
+      "num": 157729,
+      "word": "升降台故障丁程鑫冷脸",
+      "onboard_time": 1763864960,
+      "rank": 22,
+      "category": "演出"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "东部战区海军某部实弹射击火力全开",
@@ -243,8 +267,24 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205919,
+      "num": 160373,
+      "word": "高市早苗会前花几个小时挑衣服",
+      "onboard_time": 1763859980,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 205285,
+      "num": 205285,
+      "word": "恋与制作人",
+      "onboard_time": 1763864180,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 201463,
-      "num": 114179,
+      "num": 151447,
       "word": "德国之声辟谣中国空间站造假",
       "onboard_time": 1763858180,
       "rank": 24,
@@ -265,6 +305,14 @@
       "onboard_time": 1763863279,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186754,
+      "num": 157505,
+      "word": "戒糖10天身体就会发生变化",
+      "onboard_time": 1763860639,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 176736,
@@ -299,12 +347,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 170536,
-      "num": 170536,
-      "word": "涉毒艺人含笑被举报直播卖手串",
-      "onboard_time": 1763860760,
-      "rank": 14,
-      "category": "艺人,民生新闻"
+      "raw_hot": 166454,
+      "num": 158561,
+      "word": "女生卖炒饭东北大哥急到自己颠勺",
+      "onboard_time": 1763860580,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162242,
@@ -313,6 +361,14 @@
       "onboard_time": 1763815222,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157484,
+      "num": 157484,
+      "word": "俞敏洪回应被叫老登",
+      "onboard_time": 1763864901,
+      "rank": 24,
+      "category": "互联网,民生新闻"
     },
     {
       "raw_hot": 154805,
@@ -332,35 +388,19 @@
     },
     {
       "raw_hot": 149956,
-      "num": 113641,
+      "num": 116932,
       "word": "胡彦斌老粉",
       "onboard_time": 1763833637,
       "rank": 20,
       "category": "艺人"
     },
     {
-      "raw_hot": 149615,
-      "num": 111869,
-      "word": "高市早苗会前花几个小时挑衣服",
-      "onboard_time": 1763859980,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 137082,
-      "num": 113184,
-      "word": "戒糖10天身体就会发生变化",
-      "onboard_time": 1763860639,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 130652,
-      "num": 112683,
-      "word": "女生卖炒饭东北大哥急到自己颠勺",
-      "onboard_time": 1763860580,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 136625,
+      "num": 136625,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1763854277,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 129190,
@@ -371,20 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 128971,
-      "num": 112495,
-      "word": "香蜜沉沉烬如霜",
-      "onboard_time": 1763854277,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126673,
       "num": 242943,
       "word": "刘耀文问丁程鑫谁是你最爱的弟弟",
       "onboard_time": 1763816482,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 123764,
+      "num": 123764,
+      "word": "西贝降价",
+      "onboard_time": 1763864901,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121809,
@@ -408,6 +448,14 @@
       "word": "香港取消中学生赴日交流",
       "onboard_time": 1763823622,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114691,
+      "num": 114691,
+      "word": "女子称因1楼住户反对无法装电梯",
+      "onboard_time": 1763864960,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -499,6 +547,30 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93110,
+      "num": 158335,
+      "word": "迪丽热巴聂九罗热度",
+      "onboard_time": 1763863461,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 89793,
+      "num": 89793,
+      "word": "东京民众抗议称因高市才有事",
+      "onboard_time": 1763864360,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 88922,
+      "num": 88922,
+      "word": "俞敏洪称南极游也是为了工作",
+      "onboard_time": 1763864901,
+      "rank": 38,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 86017,
       "num": 86017,
       "word": "小区55%居民欠物业费电梯年检不起",
@@ -515,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82647,
+      "num": 82647,
+      "word": "吃了一年胡椒粉原来是墙灰",
+      "onboard_time": 1763865320,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 80373,
       "num": 80373,
       "word": "水果姐收到katybubu被气晕",
       "onboard_time": 1763859680,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80149,
+      "num": 80149,
+      "word": "警方通报女子编造三亚潜水被拔氧气管",
+      "onboard_time": 1763861960,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 80058,
@@ -531,12 +619,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 77761,
-      "num": 77761,
-      "word": "警方通报女子编造三亚潜水被拔氧气管",
-      "onboard_time": 1763861960,
-      "rank": 39,
-      "category": "辟谣/通报"
+      "raw_hot": 78747,
+      "num": 78747,
+      "word": "看边牧怎么把鸭子黑白分开",
+      "onboard_time": 1763864540,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 78227,
+      "num": 78227,
+      "word": "G20约堡峰会通过联合宣言",
+      "onboard_time": 1763864780,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 75983,
@@ -548,7 +644,7 @@
     },
     {
       "raw_hot": 75525,
-      "num": 74263,
+      "num": 76878,
       "word": "狂野时代豆瓣6.5分",
       "onboard_time": 1763862139,
       "rank": 43,
@@ -577,14 +673,6 @@
       "onboard_time": 1763830459,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 71815,
-      "num": 71815,
-      "word": "迪丽热巴聂九罗热度",
-      "onboard_time": 1763863461,
-      "rank": 45,
-      "category": "剧集"
     },
     {
       "raw_hot": 67256,
@@ -745,6 +833,14 @@
       "onboard_time": 1763845154,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 29289,
+      "num": 86806,
+      "word": "女生偷偷回家被家人误当作小偷",
+      "onboard_time": 1763865200,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28903,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1763865342002,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 724891,
+        "num": 1115982,
+        "word": "日本有能力在短期内生产武器级钚",
+        "onboard_time": 1763856980,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 291984,
+        "num": 291984,
+        "word": "保罗宣布退役",
+        "onboard_time": 1763862260,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 8865,
+        "num": 265992,
+        "word": "福建舰之大具象化了",
+        "onboard_time": 1763800581,
+        "rank": 2,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 302186,
+        "num": 263005,
+        "word": "给农村父母补缴社保的年轻人",
+        "onboard_time": 1763857579,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244849,
+        "num": 244849,
+        "word": "张家齐宣布退役",
+        "onboard_time": 1763818823,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 246915,
+        "num": 238871,
+        "word": "爱奇艺把杨紫香蜜限免了",
+        "onboard_time": 1763855419,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228174,
+        "num": 228174,
+        "word": "狂野时代票房",
+        "onboard_time": 1763823563,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 214650,
+        "num": 214650,
+        "word": "身体有异味可能是疾病征兆",
+        "onboard_time": 1763853976,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205285,
+        "num": 205285,
+        "word": "恋与制作人",
+        "onboard_time": 1763864180,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 162330,
+        "num": 162330,
+        "word": "日本已付出代价",
+        "onboard_time": 1763816722,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 841871,
+        "num": 162015,
+        "word": "沈月大大方方地瞒住了所有人",
+        "onboard_time": 1763863941,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 492343,
+        "num": 161677,
+        "word": "霍建华赵丽颖都是省油的灯",
+        "onboard_time": 1763856618,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 343748,
+        "num": 161000,
+        "word": "涉毒艺人含笑被举报直播卖手串",
+        "onboard_time": 1763860760,
+        "rank": 12,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 341057,
+        "num": 160813,
+        "word": "减肥滞后性对面部的影响",
+        "onboard_time": 1763859200,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 205919,
+        "num": 160373,
+        "word": "高市早苗会前花几个小时挑衣服",
+        "onboard_time": 1763859980,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 185917,
+        "num": 159535,
+        "word": "狂野时代",
+        "onboard_time": 1763862320,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178510,
+        "num": 159020,
+        "word": "两熊猫竟然模仿起了招手手势",
+        "onboard_time": 1763857879,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166454,
+        "num": 158561,
+        "word": "女生卖炒饭东北大哥急到自己颠勺",
+        "onboard_time": 1763860580,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158420,
+        "num": 158420,
+        "word": "高市早苗在G20峰会迟到近1小时",
+        "onboard_time": 1763816241,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93110,
+        "num": 158335,
+        "word": "迪丽热巴聂九罗热度",
+        "onboard_time": 1763863461,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 410568,
+        "num": 158206,
+        "word": "男子半裸拍临时身份证照当场社死",
+        "onboard_time": 1763862320,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380877,
+        "num": 157957,
+        "word": "唯一的姐公开与丁泽仁判决书",
+        "onboard_time": 1763821402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249927,
+        "num": 157729,
+        "word": "升降台故障丁程鑫冷脸",
+        "onboard_time": 1763864960,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186754,
+        "num": 157505,
+        "word": "戒糖10天身体就会发生变化",
+        "onboard_time": 1763860639,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157484,
+        "num": 157484,
+        "word": "俞敏洪回应被叫老登",
+        "onboard_time": 1763864901,
+        "rank": 24,
+        "category": "互联网,民生新闻"
+      },
+      {
+        "raw_hot": 151797,
+        "num": 151797,
+        "word": "70岁任达华跌倒",
+        "onboard_time": 1763823262,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151447,
+        "num": 151447,
+        "word": "德国之声辟谣中国空间站造假",
+        "onboard_time": 1763858180,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 136625,
+        "num": 136625,
+        "word": "香蜜沉沉烬如霜",
+        "onboard_time": 1763854277,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129470,
+        "num": 129470,
+        "word": "妈妈以为我在上海农村过得很差",
+        "onboard_time": 1763853497,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123764,
+        "num": 123764,
+        "word": "西贝降价",
+        "onboard_time": 1763864901,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126362,
+        "num": 123738,
+        "word": "郭碧婷爸爸回应向佐去医院看过他2次",
+        "onboard_time": 1763822182,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116932,
+        "num": 116932,
+        "word": "胡彦斌老粉",
+        "onboard_time": 1763833637,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114691,
+        "num": 114691,
+        "word": "女子称因1楼住户反对无法装电梯",
+        "onboard_time": 1763864960,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108176,
+        "num": 108176,
+        "word": "43岁刑辩律师打羽毛球后不幸猝死",
+        "onboard_time": 1763860220,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106881,
+        "num": 106881,
+        "word": "哈登爆砍55分",
+        "onboard_time": 1763863279,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104360,
+        "num": 104360,
+        "word": "肖战第一次过这么冷的冬天",
+        "onboard_time": 1763829621,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91220,
+        "num": 91220,
+        "word": "苹果将推出多款廉价产品",
+        "onboard_time": 1763857519,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 89793,
+        "num": 89793,
+        "word": "东京民众抗议称因高市才有事",
+        "onboard_time": 1763864360,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88922,
+        "num": 88922,
+        "word": "俞敏洪称南极游也是为了工作",
+        "onboard_time": 1763864901,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29289,
+        "num": 86806,
+        "word": "女生偷偷回家被家人误当作小偷",
+        "onboard_time": 1763865200,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85918,
+        "num": 85918,
+        "word": "香蜜转场又火了",
+        "onboard_time": 1763813843,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 85337,
+        "num": 85337,
+        "word": "李庚希演技",
+        "onboard_time": 1763825543,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82647,
+        "num": 82647,
+        "word": "吃了一年胡椒粉原来是墙灰",
+        "onboard_time": 1763865320,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82196,
+        "num": 82196,
+        "word": "多国声明反对通过武力改变边界",
+        "onboard_time": 1763857699,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82108,
+        "num": 82108,
+        "word": "小区55%居民欠物业费电梯年检不起",
+        "onboard_time": 1763858059,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81528,
+        "num": 81528,
+        "word": "男子762元买20多件商品蕉内拒发货",
+        "onboard_time": 1763817803,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80149,
+        "num": 80149,
+        "word": "警方通报女子编造三亚潜水被拔氧气管",
+        "onboard_time": 1763861960,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 78747,
+        "num": 78747,
+        "word": "看边牧怎么把鸭子黑白分开",
+        "onboard_time": 1763864540,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78227,
+        "num": 78227,
+        "word": "G20约堡峰会通过联合宣言",
+        "onboard_time": 1763864780,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 65299,
+        "num": 76878,
+        "word": "狂野时代豆瓣6.5分",
+        "onboard_time": 1763862139,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#把发展蓝图变为美好现实#"
+    }
+  }
+}

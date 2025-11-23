@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 10:12:24
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 10:35:42
 </p>
 </blockquote>
 <p>
@@ -2159,6 +2159,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%87%AA%E5%8D%AB%E9%98%9F%E9%85%8D%E5%90%88%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BA%AE%E5%88%80%23" target="weibo">
 日本自卫队配合高市早苗亮刀（热度：841884）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E5%A4%A7%E5%A4%A7%E6%96%B9%E6%96%B9%E5%9C%B0%E7%9E%92%E4%BD%8F%E4%BA%86%E6%89%80%E6%9C%89%E4%BA%BA%23" target="weibo">
+沈月大大方方地瞒住了所有人（热度：841871）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E7%9B%B8%E4%BA%B2%E8%A2%AB%E5%AB%8C%E5%BC%83%E5%AD%A6%E5%8E%86%E4%BD%8E%23" target="weibo">
 影视飓风Tim相亲被嫌弃学历低（热度：484427）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B1%E8%81%94%E5%A4%9A%E6%97%A5%E7%9A%8417%E5%B2%81%E9%AB%98%E4%B8%89%E5%A5%B3%E7%94%9F%E5%B7%B2%E4%B8%8D%E5%B9%B8%E5%8E%BB%E4%B8%96%23" target="weibo">
-失联多日的17岁高三女生已不幸去世（热度：483785）
 </a>
 </li>
 
