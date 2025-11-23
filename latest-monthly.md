@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 22:23:45
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 22:40:01
 </p>
 </blockquote>
 <p>
@@ -567,6 +567,12 @@ Faker六冠王（热度：1654581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%BD%91%E7%BA%A2%E6%89%B9%E9%87%8F%E6%92%A4%E7%A6%BB%E6%9D%AD%E5%B7%9E%23" target="weibo">
+直播网红批量撤离杭州（热度：1622905）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%20%E7%8E%8B%E4%BC%A0%E5%90%9B%23" target="weibo">
 白百何 王传君（热度：1618279）
 </a>
@@ -683,12 +689,6 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E9%92%88%23" target="weibo">
 抗癌针（热度：1474377）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9B%B4%E6%92%AD%E7%BD%91%E7%BA%A2%E6%89%B9%E9%87%8F%E6%92%A4%E7%A6%BB%E6%9D%AD%E5%B7%9E%23" target="weibo">
-直播网红批量撤离杭州（热度：1469683）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763907825523,
+  "endTime": 1763908801660,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1469683,
+      "raw_hot": 1622905,
       "num": 245904,
       "word": "直播网红批量撤离杭州",
       "onboard_time": 1763904501,
@@ -403,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 418504,
+      "num": 1066960,
+      "word": "短道速滑",
+      "onboard_time": 1763906182,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 410453,
       "num": 949282,
       "word": "枭起青壤",
@@ -456,6 +464,14 @@
       "word": "杨幂发了谢罪与不战和平之碑",
       "onboard_time": 1763865800,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 365723,
+      "num": 173157,
+      "word": "李诞初见王安宇被帅到失态",
+      "onboard_time": 1763906182,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -529,6 +545,14 @@
       "onboard_time": 1763887641,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 336735,
+      "num": 214778,
+      "word": "张俪别演了我害怕",
+      "onboard_time": 1763906902,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 333080,
@@ -649,14 +673,6 @@
       "onboard_time": 1763871440,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 289384,
-      "num": 1046301,
-      "word": "短道速滑",
-      "onboard_time": 1763906182,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 284032,
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253424,
+      "num": 125536,
+      "word": "20岁男生肺被啃出10多个空洞",
+      "onboard_time": 1763908223,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 253068,
       "num": 253068,
       "word": "奥司他韦销量上涨237%",
@@ -859,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 243367,
+      "num": 261884,
+      "word": "樊振东核心力量有多强",
+      "onboard_time": 1763904622,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 242992,
       "num": 437077,
       "word": "恋与王男",
@@ -881,14 +913,6 @@
       "onboard_time": 1763896400,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 233836,
-      "num": 173157,
-      "word": "李诞初见王安宇被帅到失态",
-      "onboard_time": 1763906182,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 233465,
@@ -953,14 +977,6 @@
       "onboard_time": 1763817803,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217616,
-      "num": 261884,
-      "word": "樊振东核心力量有多强",
-      "onboard_time": 1763904622,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 216128,
@@ -1075,6 +1091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 202629,
+      "num": 151567,
+      "word": "儿童吃奥司他韦警惕出现严重副作用",
+      "onboard_time": 1763907081,
+      "rank": 35,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 202079,
       "num": 193678,
       "word": "每天练背3分钟真的会瘦脸",
@@ -1137,6 +1161,14 @@
       "onboard_time": 1763905043,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191344,
+      "num": 191344,
+      "word": "自助偷甘蔗老板说人越多越亏钱",
+      "onboard_time": 1763905762,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191125,
@@ -1224,14 +1256,6 @@
       "word": "疾风劲草杀青",
       "onboard_time": 1763870421,
       "rank": 30,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 185876,
-      "num": 169804,
-      "word": "张俪别演了我害怕",
-      "onboard_time": 1763906902,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1329,14 +1353,6 @@
       "onboard_time": 1763866040,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 171830,
-      "num": 161833,
-      "word": "自助偷甘蔗老板说人越多越亏钱",
-      "onboard_time": 1763905762,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 171697,
@@ -1651,12 +1667,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 133016,
-      "num": 133016,
-      "word": "儿童吃奥司他韦警惕出现严重副作用",
-      "onboard_time": 1763907081,
-      "rank": 35,
-      "category": "健康医疗"
+      "raw_hot": 134649,
+      "num": 134649,
+      "word": "中国军网海外发布大子弹量大管够",
+      "onboard_time": 1763907142,
+      "rank": 36,
+      "category": "军事"
     },
     {
       "raw_hot": 131271,
@@ -1771,6 +1787,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125380,
+      "num": 125380,
+      "word": "热巴男主运",
+      "onboard_time": 1763908404,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125367,
       "num": 125367,
       "word": "日本网友说高市早苗轻浮到极致",
@@ -1801,6 +1825,22 @@
       "onboard_time": 1763884760,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121400,
+      "num": 114543,
+      "word": "华晨宇死脑子快转啊",
+      "onboard_time": 1763908642,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120915,
+      "num": 120915,
+      "word": "刘宇宁 开美颜咋了",
+      "onboard_time": 1763908763,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 120035,
@@ -1865,14 +1905,6 @@
       "onboard_time": 1763873421,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 117024,
-      "num": 131233,
-      "word": "中国军网海外发布大子弹量大管够",
-      "onboard_time": 1763907142,
-      "rank": 36,
-      "category": "军事"
     },
     {
       "raw_hot": 116490,
@@ -1977,6 +2009,14 @@
       "onboard_time": 1763818161,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111305,
+      "num": 111305,
+      "word": "孙乐言说家务都是奥斯卡做",
+      "onboard_time": 1763908703,
+      "rank": 44,
+      "category": "网红"
     },
     {
       "raw_hot": 111225,
@@ -2611,6 +2651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74495,
+      "num": 616531,
+      "word": "这26秒科技感直接拉满",
+      "onboard_time": 1763904262,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74078,
       "num": 109955,
       "word": "曝Poppy加入TES",
@@ -2657,14 +2705,6 @@
       "onboard_time": 1763896820,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 67337,
-      "num": 616531,
-      "word": "这26秒科技感直接拉满",
-      "onboard_time": 1763904262,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 67256,
@@ -2752,6 +2792,14 @@
       "word": "8岁女童随奶奶上坟途中走失3天",
       "onboard_time": 1763896340,
       "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57008,
+      "num": 130846,
+      "word": "冬天咬人的蚊子已经出现了",
+      "onboard_time": 1763907443,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2939,6 +2987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 34609,
+      "num": 167254,
+      "word": "航司超售致近20名中国旅客滞留非洲",
+      "onboard_time": 1763906602,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34608,
       "num": 205041,
       "word": "男子潜伏约死群4年救下几百人",
@@ -2955,20 +3011,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33174,
-      "num": 130846,
-      "word": "冬天咬人的蚊子已经出现了",
-      "onboard_time": 1763907443,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 32641,
       "num": 93196,
       "word": "缅甸谴责高市早苗",
       "onboard_time": 1763841314,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 32266,
+      "num": 114414,
+      "word": "迪丽热巴聂九罗疯刀皮肤",
+      "onboard_time": 1763908162,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 32031,
@@ -2984,14 +3040,6 @@
       "word": "偷甘蔗马拉松跑友扬言拉爆老板",
       "onboard_time": 1763894000,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 31406,
-      "num": 167254,
-      "word": "航司超售致近20名中国旅客滞留非洲",
-      "onboard_time": 1763906602,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
