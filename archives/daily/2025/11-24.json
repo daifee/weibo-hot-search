@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763933047294,
+  "endTime": 1763933889057,
   "band_list": [
     {
       "raw_hot": 1014479,
@@ -531,6 +531,38 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14134,
+      "num": 24269,
+      "word": "多个军方账号连日海外密集发声",
+      "onboard_time": 1763932034,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 13954,
+      "num": 32809,
+      "word": "高市早苗一系列举措遭揭批",
+      "onboard_time": 1763928854,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13612,
+      "num": 32797,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 13379,
+      "num": 24285,
+      "word": "谈一段正常的恋爱好难",
+      "onboard_time": 1763931733,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 13359,
       "num": 39261,
       "word": "林姨压迫感",
@@ -539,23 +571,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12897,
-      "num": 32797,
-      "word": "第一个往里扔乐色的简直是天才",
-      "onboard_time": 1763929693,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 12566,
-      "num": 32809,
-      "word": "高市早苗一系列举措遭揭批",
-      "onboard_time": 1763928854,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 12111,
+      "raw_hot": 12457,
       "num": 32799,
       "word": "南京一小区居民家发生燃气闪爆",
       "onboard_time": 1763928314,
@@ -563,20 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10191,
-      "num": 24285,
-      "word": "谈一段正常的恋爱好难",
-      "onboard_time": 1763931733,
+      "raw_hot": 11014,
+      "num": 23465,
+      "word": "贺峻霖巡场式饭撒",
+      "onboard_time": 1763933834,
       "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 10028,
-      "num": 24269,
-      "word": "多个军方账号连日海外密集发声",
-      "onboard_time": 1763932034,
-      "rank": 43,
-      "category": "国内时政"
+      "category": "演出"
     }
   ],
   "hotgov_list": [
