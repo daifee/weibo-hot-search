@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763925721135,
+  "endTime": 1763926636444,
   "band_list": [
     {
       "raw_hot": 1014479,
@@ -411,6 +411,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37715,
+      "num": 39928,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 35117,
       "num": 93797,
       "word": "TTG清清断开连接",
@@ -475,20 +483,20 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 21742,
-      "num": 32558,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
-      "raw_hot": 20616,
+      "raw_hot": 23873,
       "num": 45031,
       "word": "美国国土安全部IP显示为以色列",
       "onboard_time": 1763922675,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 22545,
+      "num": 39716,
+      "word": "丁程鑫嘟嘴好犯规",
+      "onboard_time": 1763926515,
+      "rank": 23,
+      "category": "演出"
     },
     {
       "raw_hot": 19871,
@@ -499,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 16672,
+      "num": 39486,
+      "word": "方圆方头明复刻林志玲木村拓哉名场面",
+      "onboard_time": 1763924714,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 14762,
       "num": 45020,
       "word": "狂野时代观后感",
@@ -507,12 +523,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 14744,
-      "num": 32437,
-      "word": "方圆方头明复刻林志玲木村拓哉名场面",
-      "onboard_time": 1763924714,
-      "rank": 40,
-      "category": "网红"
+      "raw_hot": 14227,
+      "num": 39334,
+      "word": "贺峻霖到处都有综艺感",
+      "onboard_time": 1763926454,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 13359,
+      "num": 39261,
+      "word": "林姨压迫感",
+      "onboard_time": 1763925854,
+      "rank": 45,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

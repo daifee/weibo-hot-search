@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763925721135,
+  "endTime": 1763926636444,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -3227,6 +3227,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37715,
+      "num": 39928,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37655,
       "num": 649782,
       "word": "福建舰之大具象化了",
@@ -3403,6 +3411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23873,
+      "num": 45031,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 23843,
       "num": 92480,
       "word": "柬埔寨劫囚案9小时全员落网",
@@ -3443,11 +3459,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 21742,
-      "num": 32558,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
+      "raw_hot": 22545,
+      "num": 39716,
+      "word": "丁程鑫嘟嘴好犯规",
+      "onboard_time": 1763926515,
+      "rank": 23,
       "category": "演出"
     },
     {
@@ -3457,14 +3473,6 @@
       "onboard_time": 1763833516,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20616,
-      "num": 45031,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 20366,
@@ -3515,6 +3523,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 16672,
+      "num": 39486,
+      "word": "方圆方头明复刻林志玲木村拓哉名场面",
+      "onboard_time": 1763924714,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
       "raw_hot": 15399,
       "num": 142469,
       "word": "多方就美结束俄乌冲突新计划发声明",
@@ -3539,12 +3555,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14744,
-      "num": 32437,
-      "word": "方圆方头明复刻林志玲木村拓哉名场面",
-      "onboard_time": 1763924714,
-      "rank": 40,
-      "category": "网红"
+      "raw_hot": 14227,
+      "num": 39334,
+      "word": "贺峻霖到处都有综艺感",
+      "onboard_time": 1763926454,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 13816,
@@ -3553,6 +3569,14 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 13359,
+      "num": 39261,
+      "word": "林姨压迫感",
+      "onboard_time": 1763925854,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 5956,
