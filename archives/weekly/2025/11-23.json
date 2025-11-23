@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763926636444,
+  "endTime": 1763929785060,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -3203,6 +3203,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40311,
+      "num": 39928,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 40275,
       "num": 240096,
       "word": "偷甘蔗爆火巡逻小狗已累瘫",
@@ -3225,14 +3233,6 @@
       "onboard_time": 1763827703,
       "rank": 49,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 37715,
-      "num": 39928,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 37655,
@@ -3297,6 +3297,14 @@
       "onboard_time": 1763908162,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32205,
+      "num": 45031,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32031,
@@ -3409,14 +3417,6 @@
       "onboard_time": 1763911223,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23873,
-      "num": 45031,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23843,
@@ -3577,6 +3577,30 @@
       "onboard_time": 1763925854,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11957,
+      "num": 30869,
+      "word": "高市早苗一系列举措遭揭批",
+      "onboard_time": 1763928854,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 10491,
+      "num": 30792,
+      "word": "南京一小区居民家发生燃气闪爆",
+      "onboard_time": 1763928314,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10017,
+      "num": 30773,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 5956,

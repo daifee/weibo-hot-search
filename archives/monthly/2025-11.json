@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763926636444,
+  "endTime": 1763929785060,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -75691,6 +75691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40311,
+      "num": 39928,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 40246,
       "num": 50524,
       "word": "你的英语在外国人眼中的样子",
@@ -76369,14 +76377,6 @@
       "onboard_time": 1762053200,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37715,
-      "num": 39928,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
-      "category": "演出"
     },
     {
       "raw_hot": 37684,
@@ -77841,6 +77841,14 @@
       "onboard_time": 1762447518,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 32205,
+      "num": 45031,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 32180,
@@ -80001,14 +80009,6 @@
       "onboard_time": 1763610503,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23873,
-      "num": 45031,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 23845,
@@ -82411,6 +82411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11957,
+      "num": 30869,
+      "word": "高市早苗一系列举措遭揭批",
+      "onboard_time": 1763928854,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11894,
       "num": 160695,
       "word": "社交平台不能成为诈骗犯罪温床",
@@ -82579,6 +82587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10491,
+      "num": 30792,
+      "word": "南京一小区居民家发生燃气闪爆",
+      "onboard_time": 1763928314,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10381,
       "num": 510527,
       "word": "封关不是封岛",
@@ -82601,6 +82617,14 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10017,
+      "num": 30773,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 9871,
