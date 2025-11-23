@@ -1,0 +1,410 @@
+{
+  "runTime": 1763897832755,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 559090,
+        "num": 1089454,
+        "word": "王楚钦全运会总结",
+        "onboard_time": 1763894841,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23299,
+        "num": 985422,
+        "word": "中国科学家发现蜗牛壳藏着气候密码",
+        "onboard_time": 1763897422,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86143,
+        "num": 969453,
+        "word": "推荐怕冷的人试试三层穿衣法",
+        "onboard_time": 1763867360,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 958308,
+        "num": 958308,
+        "word": "哪吒2 奥斯卡",
+        "onboard_time": 1763894781,
+        "rank": 3,
+        "category": "电影,电影"
+      },
+      {
+        "raw_hot": 467231,
+        "num": 467231,
+        "word": "KPL抽签",
+        "onboard_time": 1763894900,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 335242,
+        "num": 335242,
+        "word": "Kanavi道歉",
+        "onboard_time": 1763890881,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 301978,
+        "num": 301978,
+        "word": "枭起青壤",
+        "onboard_time": 1763874440,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260991,
+        "num": 260991,
+        "word": "海关在一女子裙内查获229条活鱼",
+        "onboard_time": 1763886501,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239081,
+        "num": 239081,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136591,
+        "num": 238983,
+        "word": "枭起青壤首日云合",
+        "onboard_time": 1763886020,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 600772,
+        "num": 238750,
+        "word": "杨紫 男生不能叫",
+        "onboard_time": 1763889201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 578308,
+        "num": 238441,
+        "word": "短剧女演员曝剧组杀生",
+        "onboard_time": 1763894841,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 524852,
+        "num": 238144,
+        "word": "大冰建议女生不要找老登",
+        "onboard_time": 1763897120,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 490557,
+        "num": 237634,
+        "word": "12306回应彝族老人列车上被围堵拍摄",
+        "onboard_time": 1763890581,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475802,
+        "num": 237298,
+        "word": "胡彦斌方声明",
+        "onboard_time": 1763889080,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440340,
+        "num": 237037,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1763894301,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 399425,
+        "num": 236702,
+        "word": "黄豆豆破格提拔副局级",
+        "onboard_time": 1763890282,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130988,
+        "num": 236367,
+        "word": "雅思降价",
+        "onboard_time": 1763885420,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 72005,
+        "num": 236206,
+        "word": "高市早苗G20狂刷存在感",
+        "onboard_time": 1763896820,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32031,
+        "num": 235729,
+        "word": "高市政府收到超344.9万份签名抗议",
+        "onboard_time": 1763896880,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280207,
+        "num": 235411,
+        "word": "唐朝诡事录4",
+        "onboard_time": 1763885180,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 953781,
+        "num": 235227,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468809,
+        "num": 235056,
+        "word": "张靓颖长文谈身体情况",
+        "onboard_time": 1763895441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234763,
+        "num": 234763,
+        "word": "马嘉祺我应该进组了",
+        "onboard_time": 1763896400,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214436,
+        "num": 214436,
+        "word": "为什么要让S码模特穿xl样衣",
+        "onboard_time": 1763895921,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 211286,
+        "num": 211286,
+        "word": "受够了只有svip才能提前看的世界",
+        "onboard_time": 1763893820,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 161664,
+        "num": 161664,
+        "word": "胃不好不要空腹吃这些食物",
+        "onboard_time": 1763886740,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102761,
+        "num": 156357,
+        "word": "王毅回应中亚3国集体发声",
+        "onboard_time": 1763890699,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93750,
+        "num": 156318,
+        "word": "狂野时代口碑",
+        "onboard_time": 1763891300,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81070,
+        "num": 156298,
+        "word": "中国科学家揭示脂质代谢调控新机制",
+        "onboard_time": 1763895621,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156296,
+        "num": 156296,
+        "word": "迪丽热巴你怎么奖励陈星旭",
+        "onboard_time": 1763896340,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152424,
+        "num": 152424,
+        "word": "李庚希追星易烊千玺最成功",
+        "onboard_time": 1763885540,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145873,
+        "num": 145873,
+        "word": "每天练背3分钟真的会瘦脸",
+        "onboard_time": 1763896820,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 138464,
+        "num": 138464,
+        "word": "丁泽仁前女友出庭作证",
+        "onboard_time": 1763889380,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126415,
+        "num": 126415,
+        "word": "唐嫣父亲参加罗晋父亲葬礼",
+        "onboard_time": 1763867180,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109289,
+        "num": 109289,
+        "word": "王楚钦猛猛训练",
+        "onboard_time": 1763896520,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17420,
+        "num": 108649,
+        "word": "50万草书大奖被取消当事人已申诉",
+        "onboard_time": 1763897541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25536,
+        "num": 106745,
+        "word": "小天才手表圈背后的儿童社交",
+        "onboard_time": 1763897541,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48379,
+        "num": 105060,
+        "word": "第一批丁克老后怎么样了",
+        "onboard_time": 1763896880,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 18106,
+        "num": 102296,
+        "word": "86岁姥姥的快乐是每天放鞭炮",
+        "onboard_time": 1763896880,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123432,
+        "num": 101773,
+        "word": "高市精心打扮遭日本网友嘲讽",
+        "onboard_time": 1763892921,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100120,
+        "num": 100120,
+        "word": "仙逆",
+        "onboard_time": 1763895080,
+        "rank": 41,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 99587,
+        "num": 99587,
+        "word": "彝族老人在列车上遭游客围堵拍摄",
+        "onboard_time": 1763884760,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98795,
+        "num": 98795,
+        "word": "做杨紫粉丝的含金量还在上升",
+        "onboard_time": 1763896520,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72156,
+        "num": 98441,
+        "word": "王楚钦结束是为了更好的开始",
+        "onboard_time": 1763896462,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 57959,
+        "num": 98371,
+        "word": "8岁女童随奶奶上坟途中走失3天",
+        "onboard_time": 1763896340,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98309,
+        "num": 98309,
+        "word": "建议大家回村后千万别晨跑",
+        "onboard_time": 1763886501,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93732,
+        "num": 93732,
+        "word": "唐朝诡事录3大结局",
+        "onboard_time": 1763883381,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86400,
+        "num": 86400,
+        "word": "酥山冰淇淋",
+        "onboard_time": 1763891661,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 68612,
+        "num": 84713,
+        "word": "内娱有史以来最颠婆的音综",
+        "onboard_time": 1763895381,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}

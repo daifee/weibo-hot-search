@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763896925686,
+  "endTime": 1763897832755,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -12,15 +12,23 @@
     },
     {
       "raw_hot": 1825084,
-      "num": 204841,
+      "num": 235227,
       "word": "唐嫣现身罗晋父亲葬礼",
       "onboard_time": 1763886080,
       "rank": 20,
       "category": "艺人"
     },
     {
+      "raw_hot": 958308,
+      "num": 958308,
+      "word": "哪吒2 奥斯卡",
+      "onboard_time": 1763894781,
+      "rank": 3,
+      "category": "电影,电影"
+    },
+    {
       "raw_hot": 951747,
-      "num": 236222,
+      "num": 238750,
       "word": "杨紫 男生不能叫",
       "onboard_time": 1763889201,
       "rank": 18,
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 804547,
-      "num": 227184,
+      "num": 236702,
       "word": "黄豆豆破格提拔副局级",
       "onboard_time": 1763890282,
       "rank": 30,
@@ -73,14 +81,6 @@
       "onboard_time": 1763856980,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 773423,
-      "num": 773423,
-      "word": "哪吒2 奥斯卡",
-      "onboard_time": 1763894781,
-      "rank": 3,
-      "category": "电影,电影"
     },
     {
       "raw_hot": 725800,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 649965,
-      "num": 223670,
+      "num": 237298,
       "word": "胡彦斌方声明",
       "onboard_time": 1763889080,
       "rank": 12,
@@ -163,6 +163,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 578308,
+      "num": 238441,
+      "word": "短剧女演员曝剧组杀生",
+      "onboard_time": 1763894841,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 559090,
+      "num": 1089454,
+      "word": "王楚钦全运会总结",
+      "onboard_time": 1763894841,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 535144,
       "num": 191570,
       "word": "疑似王心凌吴克群恋情",
@@ -187,6 +203,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 524852,
+      "num": 238144,
+      "word": "大冰建议女生不要找老登",
+      "onboard_time": 1763897120,
+      "rank": 12,
+      "category": "网红"
+    },
+    {
       "raw_hot": 522586,
       "num": 1083613,
       "word": "Kanavi道歉",
@@ -201,14 +225,6 @@
       "onboard_time": 1763885180,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 516529,
-      "num": 1082644,
-      "word": "王楚钦全运会总结",
-      "onboard_time": 1763894841,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 508555,
@@ -243,8 +259,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 485985,
-      "num": 214503,
+      "raw_hot": 490557,
+      "num": 237634,
       "word": "12306回应彝族老人列车上被围堵拍摄",
       "onboard_time": 1763890581,
       "rank": 39,
@@ -260,7 +276,7 @@
     },
     {
       "raw_hot": 479593,
-      "num": 209074,
+      "num": 237037,
       "word": "时代少年团六周年演唱会",
       "onboard_time": 1763894301,
       "rank": 26,
@@ -281,6 +297,22 @@
       "onboard_time": 1763823262,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 468809,
+      "num": 235056,
+      "word": "张靓颖长文谈身体情况",
+      "onboard_time": 1763895441,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 467231,
+      "num": 467231,
+      "word": "KPL抽签",
+      "onboard_time": 1763894900,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 464069,
@@ -305,14 +337,6 @@
       "onboard_time": 1763887700,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 429697,
-      "num": 202074,
-      "word": "短剧女演员曝剧组杀生",
-      "onboard_time": 1763894841,
-      "rank": 15,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 428839,
@@ -361,14 +385,6 @@
       "onboard_time": 1763885420,
       "rank": 23,
       "category": "教育"
-    },
-    {
-      "raw_hot": 381876,
-      "num": 166376,
-      "word": "张靓颖长文谈身体情况",
-      "onboard_time": 1763895441,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 370883,
@@ -683,14 +699,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 253142,
-      "num": 253142,
-      "word": "KPL抽签",
-      "onboard_time": 1763894900,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 253068,
       "num": 253068,
       "word": "奥司他韦销量上涨237%",
@@ -755,6 +763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 234763,
+      "num": 234763,
+      "word": "马嘉祺我应该进组了",
+      "onboard_time": 1763896400,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 233465,
       "num": 179371,
       "word": "汪东城被剧组放鸽子",
@@ -803,14 +819,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 222538,
-      "num": 166304,
-      "word": "马嘉祺我应该进组了",
-      "onboard_time": 1763896400,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 217779,
       "num": 374976,
       "word": "男子762元买20多件商品蕉内拒发货",
@@ -825,6 +833,14 @@
       "onboard_time": 1763888840,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214436,
+      "num": 214436,
+      "word": "为什么要让S码模特穿xl样衣",
+      "onboard_time": 1763895921,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 214077,
@@ -857,6 +873,14 @@
       "onboard_time": 1763857879,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 211286,
+      "num": 211286,
+      "word": "受够了只有svip才能提前看的世界",
+      "onboard_time": 1763893820,
+      "rank": 45,
+      "category": "幽默"
     },
     {
       "raw_hot": 210450,
@@ -913,14 +937,6 @@
       "onboard_time": 1763858180,
       "rank": 24,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 198118,
-      "num": 198118,
-      "word": "受够了只有svip才能提前看的世界",
-      "onboard_time": 1763893820,
-      "rank": 45,
-      "category": "幽默"
     },
     {
       "raw_hot": 194357,
@@ -1139,6 +1155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 156296,
+      "num": 156296,
+      "word": "迪丽热巴你怎么奖励陈星旭",
+      "onboard_time": 1763896340,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156151,
       "num": 156151,
       "word": "樊振东大湾鸡换不换",
@@ -1219,20 +1243,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149858,
-      "num": 149858,
-      "word": "为什么要让S码模特穿xl样衣",
-      "onboard_time": 1763895921,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 148474,
       "num": 148474,
       "word": "石破茂再批高市早苗",
       "onboard_time": 1763890099,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145873,
+      "num": 145873,
+      "word": "每天练背3分钟真的会瘦脸",
+      "onboard_time": 1763896820,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 145039,
@@ -1385,14 +1409,6 @@
       "onboard_time": 1763879602,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128175,
-      "num": 128175,
-      "word": "每天练背3分钟真的会瘦脸",
-      "onboard_time": 1763896820,
-      "rank": 46,
-      "category": "运动健身"
     },
     {
       "raw_hot": 127081,
@@ -2004,7 +2020,7 @@
     },
     {
       "raw_hot": 89326,
-      "num": 777804,
+      "num": 969453,
       "word": "推荐怕冷的人试试三层穿衣法",
       "onboard_time": 1763867360,
       "rank": 2,
@@ -2041,14 +2057,6 @@
       "onboard_time": 1763858059,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85929,
-      "num": 142813,
-      "word": "迪丽热巴你怎么奖励陈星旭",
-      "onboard_time": 1763896340,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 82848,
@@ -2203,6 +2211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 72005,
+      "num": 236206,
+      "word": "高市早苗G20狂刷存在感",
+      "onboard_time": 1763896820,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67256,
       "num": 94656,
       "word": "这就是有钱人逛奢侈品店的感觉吧",
@@ -2275,6 +2291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57959,
+      "num": 148478,
+      "word": "8岁女童随奶奶上坟途中走失3天",
+      "onboard_time": 1763896340,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56267,
       "num": 95423,
       "word": "高市错误言论违反国际法",
@@ -2329,6 +2353,14 @@
       "onboard_time": 1763814742,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 48379,
+      "num": 144702,
+      "word": "第一批丁克老后怎么样了",
+      "onboard_time": 1763896880,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 47885,
@@ -2419,14 +2451,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38868,
-      "num": 144702,
-      "word": "第一批丁克老后怎么样了",
-      "onboard_time": 1763896880,
-      "rank": 37,
-      "category": "议题讨论"
-    },
-    {
       "raw_hot": 37655,
       "num": 649782,
       "word": "福建舰之大具象化了",
@@ -2464,6 +2488,14 @@
       "word": "缅甸谴责高市早苗",
       "onboard_time": 1763841314,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 32031,
+      "num": 235729,
+      "word": "高市政府收到超344.9万份签名抗议",
+      "onboard_time": 1763896880,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -2523,6 +2555,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25536,
+      "num": 106745,
+      "word": "小天才手表圈背后的儿童社交",
+      "onboard_time": 1763897541,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25264,
       "num": 42674,
       "word": "地枭都考上教资了",
@@ -2539,20 +2579,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25181,
-      "num": 148478,
-      "word": "8岁女童随奶奶上坟途中走失3天",
-      "onboard_time": 1763896340,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23843,
       "num": 92480,
       "word": "柬埔寨劫囚案9小时全员落网",
       "onboard_time": 1763841494,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23299,
+      "num": 985422,
+      "word": "中国科学家发现蜗牛壳藏着气候密码",
+      "onboard_time": 1763897422,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22582,
@@ -2571,14 +2611,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20536,
-      "num": 150379,
-      "word": "高市早苗G20狂刷存在感",
-      "onboard_time": 1763896820,
-      "rank": 32,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 20366,
       "num": 91875,
       "word": "爱有5种语言",
@@ -2587,20 +2619,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20145,
-      "num": 143943,
-      "word": "高市政府收到超344.9万份签名抗议",
-      "onboard_time": 1763896880,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18415,
       "num": 29939,
       "word": "黄子弘凡演唱会",
       "onboard_time": 1763842994,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 18106,
+      "num": 146644,
+      "word": "86岁姥姥的快乐是每天放鞭炮",
+      "onboard_time": 1763896880,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17420,
+      "num": 108649,
+      "word": "50万草书大奖被取消当事人已申诉",
+      "onboard_time": 1763897541,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16901,
@@ -2641,14 +2681,6 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
-    },
-    {
-      "raw_hot": 12496,
-      "num": 146644,
-      "word": "86岁姥姥的快乐是每天放鞭炮",
-      "onboard_time": 1763896880,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 5956,
