@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763937752559,
+  "endTime": 1763940304610,
   "band_list": [
     {
       "raw_hot": 1014479,
@@ -19,7 +19,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 446249,
+      "raw_hot": 454916,
       "num": 126382,
       "word": "直播网红批量撤离杭州",
       "onboard_time": 1763904501,
@@ -51,8 +51,16 @@
       "category": "网红"
     },
     {
+      "raw_hot": 330788,
+      "num": 140854,
+      "word": "丈夫用甲醛泡发毛肚妻子售卖双双获刑",
+      "onboard_time": 1763915538,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 303445,
-      "num": 478505,
+      "num": 765963,
       "word": "网红手作玩具 健康刺客",
       "onboard_time": 1763911582,
       "rank": 1,
@@ -67,20 +75,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 284195,
-      "num": 96099,
-      "word": "丈夫用甲醛泡发毛肚妻子售卖双双获刑",
-      "onboard_time": 1763915538,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 242300,
       "num": 242300,
       "word": "高市言论被翻译成鬼子又回来了",
       "onboard_time": 1763909001,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 200428,
+      "num": 87679,
+      "word": "挤了颗痘痘肺竟被啃出十多个空洞",
+      "onboard_time": 1763939057,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 200251,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 157080,
-      "num": 128960,
+      "num": 130514,
       "word": "跟王菲关系好的嘴都不一般",
       "onboard_time": 1763911223,
       "rank": 19,
@@ -203,12 +211,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109422,
+      "num": 93765,
+      "word": "儿童吃奥司他韦警惕出现严重副作用",
+      "onboard_time": 1763907081,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 105430,
       "num": 105430,
       "word": "月薪多少才穿得起大几千的羽绒服",
       "onboard_time": 1763911941,
       "rank": 26,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 103145,
+      "num": 103145,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 102290,
@@ -275,6 +299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 88273,
+      "num": 88273,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 83740,
       "num": 94082,
       "word": "时代少年团六周年演唱会",
@@ -299,14 +331,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 78200,
-      "num": 93765,
-      "word": "儿童吃奥司他韦警惕出现严重副作用",
-      "onboard_time": 1763907081,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 75888,
       "num": 99909,
       "word": "林孝埈1000米第四",
@@ -315,12 +339,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 73697,
+      "num": 148949,
+      "word": "日网友说台湾若有事高市先去前线",
+      "onboard_time": 1763901981,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72213,
       "num": 94053,
       "word": "严浩翔solo满脸写着野心",
       "onboard_time": 1763913681,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70029,
+      "num": 147406,
+      "word": "国考",
+      "onboard_time": 1763938997,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 66673,
@@ -347,6 +387,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 60601,
+      "num": 145608,
+      "word": "枭起青壤第六集卡在这对吗",
+      "onboard_time": 1763901741,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 59780,
       "num": 93923,
       "word": "HLE官宣Gumayusi加入",
@@ -361,6 +409,14 @@
       "onboard_time": 1763900301,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 59142,
+      "num": 88244,
+      "word": "杨紫又一个大女主戏待播",
+      "onboard_time": 1763940079,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 58873,
@@ -387,12 +443,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50043,
-      "num": 77304,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
+      "raw_hot": 50845,
+      "num": 88107,
+      "word": "李嘉欣晒照纪念结婚17周年",
+      "onboard_time": 1763936535,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 49390,
@@ -403,20 +459,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 46820,
-      "num": 93859,
-      "word": "日网友说台湾若有事高市先去前线",
-      "onboard_time": 1763901981,
-      "rank": 48,
-      "category": "国内时政"
+      "raw_hot": 43038,
+      "num": 87989,
+      "word": "方圆方头明复刻林志玲木村拓哉名场面",
+      "onboard_time": 1763924714,
+      "rank": 40,
+      "category": "网红"
     },
     {
-      "raw_hot": 40311,
-      "num": 77269,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
-      "category": "演出"
+      "raw_hot": 39183,
+      "num": 88019,
+      "word": "王楚钦没结束的生涯没人有资格定义",
+      "onboard_time": 1763903482,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 38997,
@@ -427,36 +483,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 38091,
+      "num": 87932,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 36629,
+      "num": 87903,
+      "word": "何炅 一个严肃的音综被你们当小品在看",
+      "onboard_time": 1763905461,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36454,
+      "num": 93678,
+      "word": "手作滴胶部分材料甲醛超标",
+      "onboard_time": 1763916319,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35345,
+      "num": 87867,
+      "word": "南京一小区居民家发生燃气闪爆",
+      "onboard_time": 1763928314,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35117,
       "num": 93797,
       "word": "TTG清清断开连接",
       "onboard_time": 1763905043,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 32929,
-      "num": 78523,
-      "word": "王楚钦没结束的生涯没人有资格定义",
-      "onboard_time": 1763903482,
-      "rank": 49,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 31497,
-      "num": 93691,
-      "word": "枭起青壤第六集卡在这对吗",
-      "onboard_time": 1763901741,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 30451,
-      "num": 78623,
-      "word": "何炅 一个严肃的音综被你们当小品在看",
-      "onboard_time": 1763905461,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 29694,
@@ -475,12 +539,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27963,
-      "num": 93678,
-      "word": "手作滴胶部分材料甲醛超标",
-      "onboard_time": 1763916319,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 29350,
+      "num": 87773,
+      "word": "谈一段正常的恋爱好难",
+      "onboard_time": 1763931733,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 27611,
+      "num": 87758,
+      "word": "国考准考证打印",
+      "onboard_time": 1763939838,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 27169,
@@ -491,20 +563,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 26068,
-      "num": 77078,
-      "word": "谈一段正常的恋爱好难",
-      "onboard_time": 1763931733,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 26039,
-      "num": 77042,
-      "word": "第一个往里扔乐色的简直是天才",
-      "onboard_time": 1763929693,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 24766,
+      "num": 87678,
+      "word": "多个军方账号连日海外密集发声",
+      "onboard_time": 1763932034,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 22545,
@@ -515,44 +579,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 22523,
-      "num": 76979,
-      "word": "南京一小区居民家发生燃气闪爆",
-      "onboard_time": 1763928314,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 19871,
       "num": 45067,
       "word": "马来西亚警方拘留14名日本诈骗嫌犯",
       "onboard_time": 1763915299,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19785,
-      "num": 76945,
-      "word": "方圆方头明复刻林志玲木村拓哉名场面",
-      "onboard_time": 1763924714,
-      "rank": 40,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 19572,
-      "num": 76926,
-      "word": "李嘉欣晒照纪念结婚17周年",
-      "onboard_time": 1763936535,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 19101,
-      "num": 76885,
-      "word": "多个军方账号连日海外密集发声",
-      "onboard_time": 1763932034,
-      "rank": 43,
-      "category": "国内时政"
     },
     {
       "raw_hot": 17588,
