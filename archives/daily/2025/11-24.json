@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763936753992,
+  "endTime": 1763937752559,
   "band_list": [
     {
       "raw_hot": 1014479,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 303445,
-      "num": 468319,
+      "num": 478505,
       "word": "网红手作玩具 健康刺客",
       "onboard_time": 1763911582,
       "rank": 1,
@@ -387,6 +387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50043,
+      "num": 77304,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49390,
       "num": 62987,
       "word": "张真源重现提裤子名场面",
@@ -403,16 +411,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 40807,
-      "num": 53686,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 40311,
-      "num": 53663,
+      "num": 77269,
       "word": "何秋亊说演唱会没收到应得的报酬",
       "onboard_time": 1763924714,
       "rank": 30,
@@ -443,12 +443,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 31221,
+      "raw_hot": 31497,
       "num": 93691,
       "word": "枭起青壤第六集卡在这对吗",
       "onboard_time": 1763901741,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30451,
+      "num": 78623,
+      "word": "何炅 一个严肃的音综被你们当小品在看",
+      "onboard_time": 1763905461,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 29694,
@@ -475,20 +483,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 27705,
-      "num": 78623,
-      "word": "何炅 一个严肃的音综被你们当小品在看",
-      "onboard_time": 1763905461,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 27169,
       "num": 78590,
       "word": "廉价合金首饰镉元素超标9000多倍",
       "onboard_time": 1763918777,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26068,
+      "num": 77078,
+      "word": "谈一段正常的恋爱好难",
+      "onboard_time": 1763931733,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 26039,
+      "num": 77042,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 22545,
@@ -499,20 +515,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 21996,
-      "num": 53517,
-      "word": "谈一段正常的恋爱好难",
-      "onboard_time": 1763931733,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 20607,
-      "num": 53398,
-      "word": "第一个往里扔乐色的简直是天才",
-      "onboard_time": 1763929693,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 22523,
+      "num": 76979,
+      "word": "南京一小区居民家发生燃气闪爆",
+      "onboard_time": 1763928314,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19871,
@@ -523,8 +531,24 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 18239,
-      "num": 53439,
+      "raw_hot": 19785,
+      "num": 76945,
+      "word": "方圆方头明复刻林志玲木村拓哉名场面",
+      "onboard_time": 1763924714,
+      "rank": 40,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 19572,
+      "num": 76926,
+      "word": "李嘉欣晒照纪念结婚17周年",
+      "onboard_time": 1763936535,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 19101,
+      "num": 76885,
       "word": "多个军方账号连日海外密集发声",
       "onboard_time": 1763932034,
       "rank": 43,
@@ -532,27 +556,11 @@
     },
     {
       "raw_hot": 17588,
-      "num": 53301,
+      "num": 76789,
       "word": "高市早苗一系列举措遭揭批",
       "onboard_time": 1763928854,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 17304,
-      "num": 53291,
-      "word": "南京一小区居民家发生燃气闪爆",
-      "onboard_time": 1763928314,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16672,
-      "num": 53225,
-      "word": "方圆方头明复刻林志玲木村拓哉名场面",
-      "onboard_time": 1763924714,
-      "rank": 40,
-      "category": "网红"
     },
     {
       "raw_hot": 14762,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 13359,
-      "num": 53125,
+      "num": 76723,
       "word": "林姨压迫感",
       "onboard_time": 1763925854,
       "rank": 45,
@@ -585,14 +593,6 @@
       "onboard_time": 1763933834,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 12176,
-      "num": 53073,
-      "word": "李嘉欣晒照纪念结婚17周年",
-      "onboard_time": 1763936535,
-      "rank": 48,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
