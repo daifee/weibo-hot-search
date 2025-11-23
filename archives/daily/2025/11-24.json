@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763923674424,
+  "endTime": 1763925721135,
   "band_list": [
     {
       "raw_hot": 1014479,
@@ -475,6 +475,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 21742,
+      "num": 32558,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 20616,
       "num": 45031,
       "word": "美国国土安全部IP显示为以色列",
@@ -497,6 +505,14 @@
       "onboard_time": 1763905942,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 14744,
+      "num": 32437,
+      "word": "方圆方头明复刻林志玲木村拓哉名场面",
+      "onboard_time": 1763924714,
+      "rank": 40,
+      "category": "网红"
     }
   ],
   "hotgov_list": [

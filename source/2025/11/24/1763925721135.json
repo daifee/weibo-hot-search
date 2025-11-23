@@ -1,0 +1,410 @@
+{
+  "runTime": 1763925721135,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 63663,
+        "num": 63663,
+        "word": "网红手作玩具 健康刺客",
+        "onboard_time": 1763911582,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47367,
+        "num": 47367,
+        "word": "廉价首饰 致癌物超标9000多倍",
+        "onboard_time": 1763900482,
+        "rank": 1,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 10999,
+        "num": 38194,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763904262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33612,
+        "num": 33612,
+        "word": "枭起青壤剧情平",
+        "onboard_time": 1763903001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32860,
+        "num": 32860,
+        "word": "高市言论被翻译成鬼子又回来了",
+        "onboard_time": 1763909001,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27757,
+        "num": 32856,
+        "word": "疯狂动物城2",
+        "onboard_time": 1763913981,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22713,
+        "num": 32837,
+        "word": "日网友说台湾若有事高市先去前线",
+        "onboard_time": 1763901981,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22460,
+        "num": 32831,
+        "word": "张俪别演了我害怕",
+        "onboard_time": 1763906902,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21694,
+        "num": 32815,
+        "word": "短道速滑",
+        "onboard_time": 1763906182,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19920,
+        "num": 32800,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148369,
+        "num": 32793,
+        "word": "彝族老人 镜头霸凌",
+        "onboard_time": 1763911642,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92106,
+        "num": 32780,
+        "word": "丈夫用甲醛泡发毛肚妻子售卖双双获刑",
+        "onboard_time": 1763915538,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70238,
+        "num": 32767,
+        "word": "大冰建议女生不要找老登",
+        "onboard_time": 1763897120,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 58182,
+        "num": 32757,
+        "word": "那英怼华晨宇",
+        "onboard_time": 1763912002,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49794,
+        "num": 32745,
+        "word": "C罗可能做过多次整容手术",
+        "onboard_time": 1763901321,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23069,
+        "num": 32739,
+        "word": "跟王菲关系好的嘴都不一般",
+        "onboard_time": 1763911223,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22321,
+        "num": 32720,
+        "word": "丁程鑫会cha多cha",
+        "onboard_time": 1763912302,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21451,
+        "num": 32707,
+        "word": "短剧女演员曝剧组杀生",
+        "onboard_time": 1763894841,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 21284,
+        "num": 32698,
+        "word": "李诞初见王安宇被帅到失态",
+        "onboard_time": 1763906182,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19415,
+        "num": 32692,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1763894301,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89095,
+        "num": 32671,
+        "word": "直播网红批量撤离杭州",
+        "onboard_time": 1763904501,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 67316,
+        "num": 32663,
+        "word": "20岁男生肺被啃出10多个空洞",
+        "onboard_time": 1763908223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41982,
+        "num": 32644,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19932,
+        "num": 32644,
+        "word": "儿童吃奥司他韦警惕出现严重副作用",
+        "onboard_time": 1763907081,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19404,
+        "num": 32630,
+        "word": "原来1000度近视半飞秒是这样做的",
+        "onboard_time": 1763909602,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 19290,
+        "num": 32611,
+        "word": "美国国土安全部IP显示为以色列",
+        "onboard_time": 1763922675,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18838,
+        "num": 32608,
+        "word": "易烊千玺私底下二了吧唧的",
+        "onboard_time": 1763898862,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18229,
+        "num": 32595,
+        "word": "枭起青壤第六集卡在这对吗",
+        "onboard_time": 1763901741,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17301,
+        "num": 32574,
+        "word": "王楚钦没结束的生涯没人有资格定义",
+        "onboard_time": 1763903482,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14757,
+        "num": 32570,
+        "word": "手作滴胶部分材料甲醛超标",
+        "onboard_time": 1763916319,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21742,
+        "num": 32558,
+        "word": "何秋亊说演唱会没收到应得的报酬",
+        "onboard_time": 1763924714,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 18567,
+        "num": 32539,
+        "word": "马嘉祺苏州河Daddy级别",
+        "onboard_time": 1763901861,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 17783,
+        "num": 32532,
+        "word": "HLE官宣Gumayusi加入",
+        "onboard_time": 1763902882,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 17721,
+        "num": 32519,
+        "word": "王楚钦全运会总结",
+        "onboard_time": 1763894841,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17280,
+        "num": 32504,
+        "word": "热巴男主运",
+        "onboard_time": 1763908404,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17098,
+        "num": 32501,
+        "word": "TTG清清断开连接",
+        "onboard_time": 1763905043,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 16875,
+        "num": 32481,
+        "word": "刘耀文真正的少年美",
+        "onboard_time": 1763900301,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 15770,
+        "num": 32473,
+        "word": "月薪多少才穿得起大几千的羽绒服",
+        "onboard_time": 1763911941,
+        "rank": 37,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 15667,
+        "num": 32457,
+        "word": "Faker回应S赛BO5面对LPL全胜",
+        "onboard_time": 1763910983,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 13583,
+        "num": 32444,
+        "word": "马来西亚警方拘留14名日本诈骗嫌犯",
+        "onboard_time": 1763915299,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 14744,
+        "num": 32437,
+        "word": "方圆方头明复刻林志玲木村拓哉名场面",
+        "onboard_time": 1763924714,
+        "rank": 40,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 15254,
+        "num": 32419,
+        "word": "刘耀文喊粉丝们多拍神图",
+        "onboard_time": 1763911401,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14697,
+        "num": 32411,
+        "word": "严浩翔solo满脸写着野心",
+        "onboard_time": 1763913681,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 14594,
+        "num": 32393,
+        "word": "何炅 一个严肃的音综被你们当小品在看",
+        "onboard_time": 1763905461,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 14425,
+        "num": 32381,
+        "word": "周洁琼是竟然人",
+        "onboard_time": 1763913021,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13910,
+        "num": 32371,
+        "word": "白桃星座",
+        "onboard_time": 1763909722,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12980,
+        "num": 32360,
+        "word": "考研座椅",
+        "onboard_time": 1763910682,
+        "rank": 46,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 13259,
+        "num": 32351,
+        "word": "丁程鑫严浩翔候场拥抱",
+        "onboard_time": 1763915359,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 12149,
+        "num": 32344,
+        "word": "狼队清清连接成功",
+        "onboard_time": 1763906482,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10086,
+        "num": 32327,
+        "word": "林孝埈1000米第四",
+        "onboard_time": 1763911342,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}
