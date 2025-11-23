@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763930527645,
+  "endTime": 1763933047294,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -3579,6 +3579,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12897,
+      "num": 32797,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 12566,
       "num": 32809,
       "word": "高市早苗一系列举措遭揭批",
@@ -3587,7 +3595,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 10491,
+      "raw_hot": 12111,
       "num": 32799,
       "word": "南京一小区居民家发生燃气闪爆",
       "onboard_time": 1763928314,
@@ -3595,12 +3603,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10303,
-      "num": 32797,
-      "word": "第一个往里扔乐色的简直是天才",
-      "onboard_time": 1763929693,
-      "rank": 46,
-      "category": "幽默"
+      "raw_hot": 10191,
+      "num": 24285,
+      "word": "谈一段正常的恋爱好难",
+      "onboard_time": 1763931733,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 10028,
+      "num": 24269,
+      "word": "多个军方账号连日海外密集发声",
+      "onboard_time": 1763932034,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5956,

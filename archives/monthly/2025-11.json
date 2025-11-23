@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763930527645,
+  "endTime": 1763933047294,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -82323,6 +82323,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12897,
+      "num": 32797,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 12812,
       "num": 30596,
       "word": "翟子路敖瑞鹏合照",
@@ -82416,6 +82424,14 @@
       "word": "拒绝熊猫表演 拒绝不了熊猫自己整活",
       "onboard_time": 1763621422,
       "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12111,
+      "num": 32799,
+      "word": "南京一小区居民家发生燃气闪爆",
+      "onboard_time": 1763928314,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -82587,28 +82603,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 10491,
-      "num": 32799,
-      "word": "南京一小区居民家发生燃气闪爆",
-      "onboard_time": 1763928314,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 10381,
       "num": 510527,
       "word": "封关不是封岛",
       "onboard_time": 1763438844,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 10303,
-      "num": 32797,
-      "word": "第一个往里扔乐色的简直是天才",
-      "onboard_time": 1763929693,
-      "rank": 46,
-      "category": "幽默"
     },
     {
       "raw_hot": 10240,
@@ -82619,12 +82619,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 10191,
+      "num": 24285,
+      "word": "谈一段正常的恋爱好难",
+      "onboard_time": 1763931733,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 10119,
       "num": 17115,
       "word": "陈浚铭可爱鬼九宫格",
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 10028,
+      "num": 24269,
+      "word": "多个军方账号连日海外密集发声",
+      "onboard_time": 1763932034,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 9871,
