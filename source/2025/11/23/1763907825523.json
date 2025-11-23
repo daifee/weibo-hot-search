@@ -1,0 +1,410 @@
+{
+  "runTime": 1763907825523,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 289384,
+        "num": 1046301,
+        "word": "短道速滑",
+        "onboard_time": 1763906182,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 261244,
+        "num": 261244,
+        "word": "HLE官宣Gumayusi加入",
+        "onboard_time": 1763902882,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 67337,
+        "num": 244408,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763904262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 572964,
+        "num": 243925,
+        "word": "枭起青壤剧情平",
+        "onboard_time": 1763903001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 241617,
+        "num": 241617,
+        "word": "枭起青壤第六集卡在这对吗",
+        "onboard_time": 1763901741,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 217935,
+        "num": 217935,
+        "word": "海关在一女子裙内查获229条活鱼",
+        "onboard_time": 1763886501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217616,
+        "num": 217616,
+        "word": "樊振东核心力量有多强",
+        "onboard_time": 1763904622,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187577,
+        "num": 187577,
+        "word": "TTG清清断开连接",
+        "onboard_time": 1763905043,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 178030,
+        "num": 178030,
+        "word": "RNGM久酷连接成功",
+        "onboard_time": 1763906482,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177616,
+        "num": 177616,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 813693,
+        "num": 176939,
+        "word": "大冰建议女生不要找老登",
+        "onboard_time": 1763897120,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 757206,
+        "num": 176306,
+        "word": "廉价首饰 致癌物超标9000多倍",
+        "onboard_time": 1763900482,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 563173,
+        "num": 175329,
+        "word": "C罗可能做过多次整容手术",
+        "onboard_time": 1763901321,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 316892,
+        "num": 174548,
+        "word": "白鹿给时代少年团送花篮了",
+        "onboard_time": 1763905102,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 291913,
+        "num": 173403,
+        "word": "短剧女演员曝剧组杀生",
+        "onboard_time": 1763894841,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 233836,
+        "num": 173157,
+        "word": "李诞初见王安宇被帅到失态",
+        "onboard_time": 1763906182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207876,
+        "num": 172294,
+        "word": "杨紫 男生不能叫",
+        "onboard_time": 1763889201,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203053,
+        "num": 170817,
+        "word": "马嘉祺苏州河Daddy级别",
+        "onboard_time": 1763901861,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1469683,
+        "num": 170470,
+        "word": "直播网红批量撤离杭州",
+        "onboard_time": 1763904501,
+        "rank": 18,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 185876,
+        "num": 169804,
+        "word": "张俪别演了我害怕",
+        "onboard_time": 1763906902,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168984,
+        "num": 168984,
+        "word": "狼队清清连接成功",
+        "onboard_time": 1763906482,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 31406,
+        "num": 167254,
+        "word": "航司超售致近20名中国旅客滞留非洲",
+        "onboard_time": 1763906602,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 642046,
+        "num": 165971,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202079,
+        "num": 163489,
+        "word": "每天练背3分钟真的会瘦脸",
+        "onboard_time": 1763896820,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 171830,
+        "num": 161833,
+        "word": "自助偷甘蔗老板说人越多越亏钱",
+        "onboard_time": 1763905762,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185882,
+        "num": 160605,
+        "word": "张真源重现提裤子名场面",
+        "onboard_time": 1763904561,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158601,
+        "num": 158601,
+        "word": "娜扎新疆舞一出秒杀比赛",
+        "onboard_time": 1763903001,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157579,
+        "num": 157579,
+        "word": "何炅 一个严肃的音综被你们当小品在看",
+        "onboard_time": 1763905461,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148100,
+        "num": 148100,
+        "word": "狂野时代观后感",
+        "onboard_time": 1763905942,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138290,
+        "num": 145143,
+        "word": "侯英超说马龙陈梦樊振东是定海神针",
+        "onboard_time": 1763903121,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 156268,
+        "num": 144680,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1763894301,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143050,
+        "num": 143050,
+        "word": "12306回应彝族老人列车上被围堵拍摄",
+        "onboard_time": 1763890581,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140445,
+        "num": 140445,
+        "word": "刘耀文真正的少年美",
+        "onboard_time": 1763900301,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136037,
+        "num": 136037,
+        "word": "华晨宇 你这是危言耸听那姐",
+        "onboard_time": 1763904141,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107037,
+        "num": 133466,
+        "word": "节目组可太听劝了",
+        "onboard_time": 1763906242,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133016,
+        "num": 133016,
+        "word": "儿童吃奥司他韦警惕出现严重副作用",
+        "onboard_time": 1763907081,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 117024,
+        "num": 131233,
+        "word": "中国军网海外发布大子弹量大管够",
+        "onboard_time": 1763907142,
+        "rank": 36,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 131057,
+        "num": 131057,
+        "word": "马嘉祺我应该进组了",
+        "onboard_time": 1763896400,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33174,
+        "num": 130846,
+        "word": "冬天咬人的蚊子已经出现了",
+        "onboard_time": 1763907443,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56645,
+        "num": 130747,
+        "word": "男子钓到108发子弹以为是大鱼",
+        "onboard_time": 1763906962,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130725,
+        "num": 130725,
+        "word": "宋亚轩帽子舞",
+        "onboard_time": 1763902221,
+        "rank": 40,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 128839,
+        "num": 128839,
+        "word": "张靓颖长文谈身体情况",
+        "onboard_time": 1763895441,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65109,
+        "num": 121420,
+        "word": "老人擅闯鱼塘被2条恶霸犬咬死",
+        "onboard_time": 1763906543,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120752,
+        "num": 120752,
+        "word": "Kanavi道歉",
+        "onboard_time": 1763890881,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118521,
+        "num": 118521,
+        "word": "王楚钦全运会总结",
+        "onboard_time": 1763894841,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118405,
+        "num": 118405,
+        "word": "刘耀文这透视可真透视啊",
+        "onboard_time": 1763903601,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118074,
+        "num": 118074,
+        "word": "银河战舰HLE启航",
+        "onboard_time": 1763905762,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117561,
+        "num": 117561,
+        "word": "12岁失联双胞胎姐妹已找到",
+        "onboard_time": 1763904202,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114136,
+        "num": 114136,
+        "word": "刷自己朋友圈的几种情况",
+        "onboard_time": 1763907562,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113183,
+        "num": 113183,
+        "word": "易烊千玺私底下二了吧唧的",
+        "onboard_time": 1763898862,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}
