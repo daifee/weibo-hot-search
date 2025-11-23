@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 16:45:37
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 17:26:20
 </p>
 </blockquote>
 <p>
@@ -5217,6 +5217,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%E5%9C%A8%E5%88%97%E8%BD%A6%E4%B8%8A%E9%81%AD%E6%B8%B8%E5%AE%A2%E5%9B%B4%E5%A0%B5%E6%8B%8D%E6%91%84%23" target="weibo">
+彝族老人在列车上遭游客围堵拍摄（热度：534193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E5%8C%85%E7%95%8C%E7%9C%9F%E7%9A%84%E9%9C%80%E8%A6%81%E4%B8%80%E4%B8%AA%E8%9C%9C%E9%9B%AA%E5%86%B0%E5%9F%8E%23" target="weibo">
 面包界真的需要一个蜜雪冰城（热度：534116）
 </a>
@@ -5463,6 +5469,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%954%23" target="weibo">
+唐朝诡事录4（热度：517558）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E8%87%AA%E6%9B%9D%E6%83%B3%E6%94%B9%E9%81%97%E5%98%B1%23" target="weibo">
 向太自曝想改遗嘱（热度：516768）
 </a>
@@ -5489,12 +5501,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E6%8F%90%E5%89%8D%E8%A7%A3%E5%86%BB%23" target="weibo">
 刘德华提前解冻（热度：516111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%954%23" target="weibo">
-唐朝诡事录4（热度：515932）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A2%AB%E5%96%8A%E8%AF%9D%E5%90%91%E4%B8%AD%E5%9B%BD%E9%81%93%E6%AD%89%23" target="weibo">
 高市早苗被喊话向中国道歉（热度：488815）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%9A%84%E7%8E%8B%E6%BA%90%23" target="weibo">
-25岁的王源（热度：488403）
 </a>
 </li>
 

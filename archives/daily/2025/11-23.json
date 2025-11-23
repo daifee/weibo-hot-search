@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763887537976,
+  "endTime": 1763889980147,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1825084,
-      "num": 170636,
+      "num": 174464,
       "word": "唐嫣现身罗晋父亲葬礼",
       "onboard_time": 1763886080,
       "rank": 20,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 534193,
+      "num": 187165,
+      "word": "彝族老人在列车上遭游客围堵拍摄",
+      "onboard_time": 1763884760,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 529114,
       "num": 224470,
       "word": "流感高烧",
@@ -139,8 +147,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 515932,
-      "num": 251829,
+      "raw_hot": 517558,
+      "num": 334233,
       "word": "唐朝诡事录4",
       "onboard_time": 1763885180,
       "rank": 3,
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 495296,
-      "num": 179847,
+      "num": 186229,
       "word": "李庚希追星易烊千玺最成功",
       "onboard_time": 1763885540,
       "rank": 10,
@@ -219,6 +227,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 443411,
+      "num": 185546,
+      "word": "胡彦斌方声明",
+      "onboard_time": 1763889080,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 439533,
+      "num": 184447,
+      "word": "杨紫好温柔的美",
+      "onboard_time": 1763887700,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 428839,
       "num": 428839,
       "word": "陈星旭在迪丽热巴面前快夹成卡车了",
@@ -257,6 +281,14 @@
       "onboard_time": 1763883381,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 389347,
+      "num": 1062295,
+      "word": "海关在一女子裙内查获229条活鱼",
+      "onboard_time": 1763886501,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 370883,
@@ -355,20 +387,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 326210,
+      "num": 326210,
+      "word": "枭起青壤首日云合",
+      "onboard_time": 1763886020,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 320279,
       "num": 227489,
       "word": "现在就出发",
       "onboard_time": 1763873001,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 320225,
-      "num": 236343,
-      "word": "枭起青壤首日云合",
-      "onboard_time": 1763886020,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 317390,
@@ -443,14 +475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 273555,
-      "num": 179323,
-      "word": "彝族老人在列车上遭游客围堵拍摄",
-      "onboard_time": 1763884760,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 272537,
       "num": 251620,
       "word": "短剧被真打演员报平安",
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 266287,
-      "num": 176473,
+      "num": 224179,
       "word": "新闻女王2有徐晓薇",
       "onboard_time": 1763885601,
       "rank": 18,
@@ -539,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253068,
+      "num": 253068,
+      "word": "奥司他韦销量上涨237%",
+      "onboard_time": 1763884941,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 251705,
       "num": 251705,
       "word": "央视曝光试吃卡试用卡骗局",
@@ -588,7 +620,7 @@
     },
     {
       "raw_hot": 233465,
-      "num": 178302,
+      "num": 179371,
       "word": "汪东城被剧组放鸽子",
       "onboard_time": 1763883742,
       "rank": 13,
@@ -627,12 +659,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222876,
+      "num": 222876,
+      "word": "雅思降价",
+      "onboard_time": 1763885420,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 217779,
       "num": 374976,
       "word": "男子762元买20多件商品蕉内拒发货",
       "onboard_time": 1763817803,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 217370,
+      "num": 177249,
+      "word": "杨紫 男生不能叫",
+      "onboard_time": 1763889201,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 216128,
+      "num": 216128,
+      "word": "FIA",
+      "onboard_time": 1763888840,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 214077,
@@ -675,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210085,
+      "num": 169127,
+      "word": "HLE官宣Kanavi加入",
+      "onboard_time": 1763889021,
+      "rank": 22,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205919,
       "num": 160373,
       "word": "高市早苗会前花几个小时挑衣服",
@@ -697,14 +761,6 @@
       "onboard_time": 1763858180,
       "rank": 24,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 197976,
-      "num": 197976,
-      "word": "奥司他韦销量上涨237%",
-      "onboard_time": 1763884941,
-      "rank": 15,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 194357,
@@ -755,6 +811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187832,
+      "num": 187832,
+      "word": "TES官宣Kanavi离队",
+      "onboard_time": 1763888961,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 187447,
       "num": 150381,
       "word": "小酒窝张维伊张小婉跳库里之歌",
@@ -777,6 +841,14 @@
       "onboard_time": 1763870421,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 185355,
+      "num": 164600,
+      "word": "建议大家回村后千万别晨跑",
+      "onboard_time": 1763886501,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 183875,
@@ -891,12 +963,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 159071,
-      "num": 159071,
-      "word": "雅思降价",
-      "onboard_time": 1763885420,
-      "rank": 23,
-      "category": "教育"
+      "raw_hot": 156151,
+      "num": 156151,
+      "word": "樊振东大湾鸡换不换",
+      "onboard_time": 1763886260,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 155006,
@@ -937,14 +1009,6 @@
       "onboard_time": 1763882240,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 151335,
-      "num": 130715,
-      "word": "建议大家回村后千万别晨跑",
-      "onboard_time": 1763886501,
-      "rank": 31,
-      "category": "情感"
     },
     {
       "raw_hot": 150448,
@@ -1011,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136835,
-      "num": 136835,
-      "word": "海关在一女子裙内查获229条活鱼",
-      "onboard_time": 1763886501,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 136278,
       "num": 136278,
       "word": "警方回应印度旅游团义乌偷东西",
@@ -1035,12 +1091,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 132917,
-      "num": 132917,
-      "word": "樊振东大湾鸡换不换",
-      "onboard_time": 1763886260,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 134056,
+      "num": 134056,
+      "word": "日本现职领导人越了不应碰的红线",
+      "onboard_time": 1763887641,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131271,
@@ -1139,6 +1195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120035,
+      "num": 120035,
+      "word": "女孩考教师编失败山东大集卖麻糍",
+      "onboard_time": 1763889201,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119042,
       "num": 119042,
       "word": "43岁刑辩律师打羽毛球后不幸猝死",
@@ -1219,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114458,
+      "num": 114458,
+      "word": "丁泽仁前女友出庭作证",
+      "onboard_time": 1763889380,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113892,
       "num": 242706,
       "word": "网曝印度旅游团义乌偷东西",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1763878639,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110448,
+      "num": 110448,
+      "word": "火锅店误将燃料加入汤锅致11人入院",
+      "onboard_time": 1763887401,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 110294,
@@ -1403,6 +1483,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 104122,
+      "num": 104122,
+      "word": "张俪喜提生酮饮食宣传大使",
+      "onboard_time": 1763886860,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101323,
+      "num": 101323,
+      "word": "灵隐寺偶遇水果姐",
+      "onboard_time": 1763888840,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100468,
       "num": 100468,
       "word": "某某组就是最好的",
@@ -1443,20 +1539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97299,
+      "num": 97299,
+      "word": "胃不好不要空腹吃这些食物",
+      "onboard_time": 1763886740,
+      "rank": 49,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 97298,
       "num": 97298,
       "word": "给心眼少的人的社会建议",
       "onboard_time": 1763879421,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 97081,
-      "num": 97081,
-      "word": "张俪喜提生酮饮食宣传大使",
-      "onboard_time": 1763886860,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 96701,
@@ -1499,12 +1595,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95747,
+      "num": 95747,
+      "word": "Hero妖刀连接成功",
+      "onboard_time": 1763889861,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95621,
       "num": 95621,
       "word": "九尾偷偷打卡痛楼",
       "onboard_time": 1763871622,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 94179,
+      "num": 94179,
+      "word": "徐洁云等辟谣小乔地铁站车祸事件",
+      "onboard_time": 1763889501,
+      "rank": 45,
+      "category": "互联网"
     },
     {
       "raw_hot": 94064,
@@ -1539,6 +1651,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 93349,
+      "num": 93349,
+      "word": "为什么让喜君去跟踪",
+      "onboard_time": 1763884040,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93110,
       "num": 158335,
       "word": "迪丽热巴聂九罗热度",
@@ -1560,6 +1680,14 @@
       "word": "巨型吊牌比脸还大",
       "onboard_time": 1763873421,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92268,
+      "num": 92268,
+      "word": "外国游客在故宫穿龙袍",
+      "onboard_time": 1763887582,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -1593,14 +1721,6 @@
       "onboard_time": 1763864901,
       "rank": 38,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 88077,
-      "num": 88077,
-      "word": "胃不好不要空腹吃这些食物",
-      "onboard_time": 1763886740,
-      "rank": 49,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 87816,
@@ -1713,14 +1833,6 @@
       "onboard_time": 1763862139,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 74670,
-      "num": 97590,
-      "word": "火锅店误将燃料加入汤锅致11人入院",
-      "onboard_time": 1763887401,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74078,
@@ -2067,12 +2179,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 16901,
+      "num": 342214,
+      "word": "三航母style",
+      "onboard_time": 1763889800,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 15399,
       "num": 142469,
       "word": "多方就美结束俄乌冲突新计划发声明",
       "onboard_time": 1763876181,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15148,
+      "num": 103051,
+      "word": "食客放腋毛碰瓷餐馆反被罚200元",
+      "onboard_time": 1763888961,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13816,
@@ -2089,6 +2217,14 @@
       "onboard_time": 1763807421,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1313,
+      "num": 183040,
+      "word": "有一种骄傲叫运动老将",
+      "onboard_time": 1763796921,
+      "rank": 15,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

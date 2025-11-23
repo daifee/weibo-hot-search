@@ -1,0 +1,410 @@
+{
+  "runTime": 1763889980147,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 389347,
+        "num": 1062295,
+        "word": "海关在一女子裙内查获229条活鱼",
+        "onboard_time": 1763886501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368627,
+        "num": 368627,
+        "word": "自助偷甘蔗农场爆火后老板真没招了",
+        "onboard_time": 1763874321,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16901,
+        "num": 342214,
+        "word": "三航母style",
+        "onboard_time": 1763889800,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 517558,
+        "num": 334233,
+        "word": "唐朝诡事录4",
+        "onboard_time": 1763885180,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 326210,
+        "num": 326210,
+        "word": "枭起青壤首日云合",
+        "onboard_time": 1763886020,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253068,
+        "num": 253068,
+        "word": "奥司他韦销量上涨237%",
+        "onboard_time": 1763884941,
+        "rank": 5,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 224179,
+        "num": 224179,
+        "word": "新闻女王2有徐晓薇",
+        "onboard_time": 1763885601,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222876,
+        "num": 222876,
+        "word": "雅思降价",
+        "onboard_time": 1763885420,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 216128,
+        "num": 216128,
+        "word": "FIA",
+        "onboard_time": 1763888840,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 187832,
+        "num": 187832,
+        "word": "TES官宣Kanavi离队",
+        "onboard_time": 1763888961,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 534193,
+        "num": 187165,
+        "word": "彝族老人在列车上遭游客围堵拍摄",
+        "onboard_time": 1763884760,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479533,
+        "num": 186229,
+        "word": "李庚希追星易烊千玺最成功",
+        "onboard_time": 1763885540,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 443411,
+        "num": 185546,
+        "word": "胡彦斌方声明",
+        "onboard_time": 1763889080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439533,
+        "num": 184447,
+        "word": "杨紫好温柔的美",
+        "onboard_time": 1763887700,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183984,
+        "num": 183984,
+        "word": "38岁男子守了鸡排哥一个月蹭流量",
+        "onboard_time": 1763878341,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1313,
+        "num": 183040,
+        "word": "有一种骄傲叫运动老将",
+        "onboard_time": 1763796921,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216179,
+        "num": 180188,
+        "word": "终于有人知道求婚是很私密的事了",
+        "onboard_time": 1763878461,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 213126,
+        "num": 179371,
+        "word": "汪东城被剧组放鸽子",
+        "onboard_time": 1763883742,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217370,
+        "num": 177249,
+        "word": "杨紫 男生不能叫",
+        "onboard_time": 1763889201,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175179,
+        "num": 175179,
+        "word": "短剧被真打演员报平安",
+        "onboard_time": 1763876660,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1531620,
+        "num": 174464,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211437,
+        "num": 172011,
+        "word": "李庚希 重生之我和我担是影后影帝",
+        "onboard_time": 1763886199,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210085,
+        "num": 169127,
+        "word": "HLE官宣Kanavi加入",
+        "onboard_time": 1763889021,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 185355,
+        "num": 164600,
+        "word": "建议大家回村后千万别晨跑",
+        "onboard_time": 1763886501,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 164099,
+        "num": 164099,
+        "word": "流感高烧",
+        "onboard_time": 1763879181,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 461844,
+        "num": 162490,
+        "word": "唐嫣父亲参加罗晋父亲葬礼",
+        "onboard_time": 1763867180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160342,
+        "num": 160342,
+        "word": "央视曝光试吃卡试用卡骗局",
+        "onboard_time": 1763882360,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156151,
+        "num": 156151,
+        "word": "樊振东大湾鸡换不换",
+        "onboard_time": 1763886260,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134056,
+        "num": 134056,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117843,
+        "num": 133954,
+        "word": "唐朝诡事录3大结局",
+        "onboard_time": 1763883381,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133930,
+        "num": 133930,
+        "word": "山寨山姆挤满了想花钱的县城中产",
+        "onboard_time": 1763875042,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125418,
+        "num": 125418,
+        "word": "王毅三个绝不允许",
+        "onboard_time": 1763884101,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122143,
+        "num": 122143,
+        "word": "喝水后有这些表现说明肾不好",
+        "onboard_time": 1763877319,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120035,
+        "num": 120035,
+        "word": "女孩考教师编失败山东大集卖麻糍",
+        "onboard_time": 1763889201,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98241,
+        "num": 116297,
+        "word": "枭起青壤",
+        "onboard_time": 1763874440,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114458,
+        "num": 114458,
+        "word": "丁泽仁前女友出庭作证",
+        "onboard_time": 1763889380,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110448,
+        "num": 110448,
+        "word": "火锅店误将燃料加入汤锅致11人入院",
+        "onboard_time": 1763887401,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105525,
+        "num": 105525,
+        "word": "狂野时代",
+        "onboard_time": 1763862320,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104122,
+        "num": 104122,
+        "word": "张俪喜提生酮饮食宣传大使",
+        "onboard_time": 1763886860,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15148,
+        "num": 103051,
+        "word": "食客放腋毛碰瓷餐馆反被罚200元",
+        "onboard_time": 1763888961,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102515,
+        "num": 102515,
+        "word": "疑似王心凌吴克群恋情",
+        "onboard_time": 1763866881,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101323,
+        "num": 101323,
+        "word": "灵隐寺偶遇水果姐",
+        "onboard_time": 1763888840,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97299,
+        "num": 97299,
+        "word": "胃不好不要空腹吃这些食物",
+        "onboard_time": 1763886740,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96623,
+        "num": 96623,
+        "word": "尖叫之夜投票",
+        "onboard_time": 1763884760,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95747,
+        "num": 95747,
+        "word": "Hero妖刀连接成功",
+        "onboard_time": 1763889861,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94179,
+        "num": 94179,
+        "word": "徐洁云等辟谣小乔地铁站车祸事件",
+        "onboard_time": 1763889501,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93349,
+        "num": 93349,
+        "word": "为什么让喜君去跟踪",
+        "onboard_time": 1763884040,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92268,
+        "num": 92268,
+        "word": "外国游客在故宫穿龙袍",
+        "onboard_time": 1763887582,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89288,
+        "num": 89288,
+        "word": "于正死丫头对自己真好",
+        "onboard_time": 1763876961,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86768,
+        "num": 86768,
+        "word": "全世界都承认台湾是中国的一个省",
+        "onboard_time": 1763871081,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#把发展蓝图变为美好现实#"
+    }
+  }
+}
