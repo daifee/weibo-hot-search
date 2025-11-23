@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 12:01:00
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 12:10:06
 </p>
 </blockquote>
 <p>
@@ -2463,6 +2463,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%99%8D%E4%BB%B7%23" target="weibo">
+西贝降价（热度：788182）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%89%E8%83%BD%E5%8A%9B%E5%9C%A8%E7%9F%AD%E6%9C%9F%E5%86%85%E7%94%9F%E4%BA%A7%E6%AD%A6%E5%99%A8%E7%BA%A7%E9%92%9A%23" target="weibo">
 日本有能力在短期内生产武器级钚（热度：787614）
 </a>
@@ -2711,12 +2717,6 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E9%AB%98%E8%BF%9C%E5%88%98%E8%AF%97%E9%9B%AFvs%E9%99%88%E5%9E%A3%E5%AE%87%E8%92%AF%E6%9B%BC%23" target="weibo">
 林高远刘诗雯vs陈垣宇蒯曼（热度：754324）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%99%8D%E4%BB%B7%23" target="weibo">
-西贝降价（热度：754261）
 </a>
 </li>
 
