@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763901969217,
+  "endTime": 1763902840947,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1739,6 +1739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1109522,
+      "num": 905146,
+      "word": "廉价首饰 致癌物超标9000多倍",
+      "onboard_time": 1763900482,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 1108452,
       "num": 1177352,
       "word": "四喜",
@@ -2505,14 +2513,6 @@
       "onboard_time": 1762519160,
       "rank": 3,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 905146,
-      "num": 905146,
-      "word": "廉价首饰 致癌物超标9000多倍",
-      "onboard_time": 1763900482,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 902678,
@@ -12235,6 +12235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 360233,
+      "num": 970995,
+      "word": "枭起青壤第六集卡在这对吗",
+      "onboard_time": 1763901741,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 360223,
       "num": 194025,
       "word": "张桂源 楼凌赫",
@@ -13993,6 +14001,14 @@
       "onboard_time": 1762954041,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323107,
+      "num": 323107,
+      "word": "马嘉祺苏州河Daddy级别",
+      "onboard_time": 1763901861,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 322979,
@@ -20331,6 +20347,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 223150,
+      "num": 223150,
+      "word": "C罗可能做过多次整容手术",
+      "onboard_time": 1763901321,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223073,
       "num": 163691,
       "word": "李一桐方严正声明",
@@ -20489,6 +20513,14 @@
       "onboard_time": 1762752502,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221993,
+      "num": 221993,
+      "word": "宋亚轩帽子舞",
+      "onboard_time": 1763902221,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 221898,
@@ -27769,14 +27801,6 @@
       "onboard_time": 1762694661,
       "rank": 45,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 175385,
-      "num": 970995,
-      "word": "枭起青壤第六集卡在这对吗",
-      "onboard_time": 1763901741,
-      "rank": 6,
-      "category": "剧集"
     },
     {
       "raw_hot": 175350,
@@ -36123,14 +36147,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 140114,
-      "num": 140114,
-      "word": "C罗可能做过多次整容手术",
-      "onboard_time": 1763901321,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 140107,
       "num": 120323,
       "word": "现实版QQ农场",
@@ -36249,14 +36265,6 @@
       "onboard_time": 1762316421,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 139696,
-      "num": 139696,
-      "word": "马嘉祺苏州河Daddy级别",
-      "onboard_time": 1763901861,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 139681,
@@ -36704,6 +36712,14 @@
       "word": "丁禹兮音乐节造型",
       "onboard_time": 1763206522,
       "rank": 35,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 138088,
+      "num": 138088,
+      "word": "严浩翔戳脸颊饭撒",
+      "onboard_time": 1763901622,
+      "rank": 42,
       "category": "演出"
     },
     {
@@ -37329,14 +37345,6 @@
       "onboard_time": 1762826362,
       "rank": 22,
       "category": "体育"
-    },
-    {
-      "raw_hot": 136576,
-      "num": 136576,
-      "word": "严浩翔戳脸颊饭撒",
-      "onboard_time": 1763901622,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 136560,
@@ -41857,6 +41865,14 @@
       "onboard_time": 1761970401,
       "rank": 37,
       "category": "美妆,休闲"
+    },
+    {
+      "raw_hot": 124156,
+      "num": 703085,
+      "word": "摩尔线程将成国产GPU第一股",
+      "onboard_time": 1763901981,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 124145,
@@ -47803,6 +47819,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110519,
+      "num": 151632,
+      "word": "梁伟铿感谢任翔宇",
+      "onboard_time": 1763902701,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110500,
       "num": 110500,
       "word": "娜扎说自己有绊脚石",
@@ -51729,6 +51753,14 @@
       "onboard_time": 1763622322,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102939,
+      "num": 102939,
+      "word": "KSG打狼队",
+      "onboard_time": 1763897900,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102904,
@@ -61819,6 +61851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84923,
+      "num": 201167,
+      "word": "樊振东12月将出战三场比赛",
+      "onboard_time": 1763900062,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84913,
       "num": 84913,
       "word": "加拿大人的反义词",
@@ -63417,14 +63457,6 @@
       "onboard_time": 1763191040,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 81286,
-      "num": 201167,
-      "word": "樊振东12月将出战三场比赛",
-      "onboard_time": 1763900062,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 81275,
@@ -74753,6 +74785,14 @@
       "onboard_time": 1763275282,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41964,
+      "num": 223072,
+      "word": "日网友说台湾若有事高市先去前线",
+      "onboard_time": 1763901981,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41933,

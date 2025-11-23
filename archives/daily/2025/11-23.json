@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763901969217,
+  "endTime": 1763902840947,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -27,6 +27,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 1109522,
+      "num": 905146,
+      "word": "廉价首饰 致癌物超标9000多倍",
+      "onboard_time": 1763900482,
+      "rank": 12,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 958308,
       "num": 958308,
       "word": "哪吒2 奥斯卡",
@@ -41,14 +49,6 @@
       "onboard_time": 1763889201,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 905146,
-      "num": 905146,
-      "word": "廉价首饰 致癌物超标9000多倍",
-      "onboard_time": 1763900482,
-      "rank": 12,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 854074,
@@ -427,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 360233,
+      "num": 970995,
+      "word": "枭起青壤第六集卡在这对吗",
+      "onboard_time": 1763901741,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 358250,
       "num": 204772,
       "word": "丁泽仁前女友出庭作证",
@@ -529,6 +537,14 @@
       "onboard_time": 1763886020,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 323107,
+      "num": 323107,
+      "word": "马嘉祺苏州河Daddy级别",
+      "onboard_time": 1763901861,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 320279,
@@ -851,12 +867,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223150,
+      "num": 223150,
+      "word": "C罗可能做过多次整容手术",
+      "onboard_time": 1763901321,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223055,
       "num": 130697,
       "word": "Beichuan取关BLG轮换队友",
       "onboard_time": 1763876300,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 221993,
+      "num": 221993,
+      "word": "宋亚轩帽子舞",
+      "onboard_time": 1763902221,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 217779,
@@ -1155,14 +1187,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 175385,
-      "num": 970995,
-      "word": "枭起青壤第六集卡在这对吗",
-      "onboard_time": 1763901741,
-      "rank": 6,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 175146,
       "num": 143194,
       "word": "妈妈以为我在上海农村过得很差",
@@ -1395,14 +1419,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140114,
-      "num": 140114,
-      "word": "C罗可能做过多次整容手术",
-      "onboard_time": 1763901321,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 139883,
       "num": 139883,
       "word": "王楚钦说成都见",
@@ -1411,20 +1427,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 139696,
-      "num": 139696,
-      "word": "马嘉祺苏州河Daddy级别",
-      "onboard_time": 1763901861,
-      "rank": 41,
-      "category": "演出"
-    },
-    {
       "raw_hot": 139229,
       "num": 139229,
       "word": "被姥姥梳成瘦猫",
       "onboard_time": 1763873601,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 138088,
+      "num": 138088,
+      "word": "严浩翔戳脸颊饭撒",
+      "onboard_time": 1763901622,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 138006,
@@ -1441,14 +1457,6 @@
       "onboard_time": 1763891661,
       "rank": 33,
       "category": "美食"
-    },
-    {
-      "raw_hot": 136576,
-      "num": 136576,
-      "word": "严浩翔戳脸颊饭撒",
-      "onboard_time": 1763901622,
-      "rank": 42,
-      "category": "演出"
     },
     {
       "raw_hot": 136278,
@@ -1585,6 +1593,14 @@
       "onboard_time": 1763880201,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124156,
+      "num": 703085,
+      "word": "摩尔线程将成国产GPU第一股",
+      "onboard_time": 1763901981,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 121809,
@@ -1763,6 +1779,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 110519,
+      "num": 151632,
+      "word": "梁伟铿感谢任翔宇",
+      "onboard_time": 1763902701,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 110448,
       "num": 110448,
       "word": "火锅店误将燃料加入汤锅致11人入院",
@@ -1913,6 +1937,14 @@
       "onboard_time": 1763886860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102939,
+      "num": 102939,
+      "word": "KSG打狼队",
+      "onboard_time": 1763897900,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 102884,
@@ -2211,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84923,
+      "num": 201167,
+      "word": "樊振东12月将出战三场比赛",
+      "onboard_time": 1763900062,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82848,
       "num": 161659,
       "word": "白宫怒批CNN彻头彻尾假新闻",
@@ -2233,14 +2273,6 @@
       "onboard_time": 1763895621,
       "rank": 1,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 81286,
-      "num": 201167,
-      "word": "樊振东12月将出战三场比赛",
-      "onboard_time": 1763900062,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 81275,
@@ -2576,6 +2608,14 @@
       "word": "新型汽车扎堆亮相车展",
       "onboard_time": 1763892621,
       "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 41964,
+      "num": 223072,
+      "word": "日网友说台湾若有事高市先去前线",
+      "onboard_time": 1763901981,
+      "rank": 19,
       "category": "国内时政"
     },
     {

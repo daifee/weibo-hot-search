@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 20:46:09
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 21:00:40
 </p>
 </blockquote>
 <p>
@@ -1317,6 +1317,12 @@ CPA成绩（热度：1140911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E4%BB%B7%E9%A6%96%E9%A5%B0%20%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A0%879000%E5%A4%9A%E5%80%8D%23" target="weibo">
+廉价首饰 致癌物超标9000多倍（热度：1109522）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C%23" target="weibo">
 四喜（热度：1108452）
 </a>
@@ -1889,12 +1895,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%B9%E7%BA%A2%E5%8D%AB%E8%A2%AB%E6%9F%A5%23" target="weibo">
 西安市委书记方红卫被查（热度：905693）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E4%BB%B7%E9%A6%96%E9%A5%B0%20%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A0%879000%E5%A4%9A%E5%80%8D%23" target="weibo">
-廉价首饰 致癌物超标9000多倍（热度：905146）
 </a>
 </li>
 

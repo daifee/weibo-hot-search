@@ -1,0 +1,410 @@
+{
+  "runTime": 1763902840947,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 264115,
+        "num": 1042258,
+        "word": "TE溯打AG",
+        "onboard_time": 1763897900,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 232988,
+        "num": 1011921,
+        "word": "Kanavi道歉",
+        "onboard_time": 1763890881,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69355,
+        "num": 949456,
+        "word": "推荐怕冷的人试试三层穿衣法",
+        "onboard_time": 1763867360,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 360233,
+        "num": 899803,
+        "word": "枭起青壤第六集卡在这对吗",
+        "onboard_time": 1763901741,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 222447,
+        "num": 852075,
+        "word": "海关在一女子裙内查获229条活鱼",
+        "onboard_time": 1763886501,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291148,
+        "num": 784730,
+        "word": "枭起青壤腾讯热度破26000",
+        "onboard_time": 1763899522,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185083,
+        "num": 770228,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124156,
+        "num": 703085,
+        "word": "摩尔线程将成国产GPU第一股",
+        "onboard_time": 1763901981,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121534,
+        "num": 643052,
+        "word": "枭起青壤",
+        "onboard_time": 1763874440,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114146,
+        "num": 569182,
+        "word": "王楚钦猛猛训练",
+        "onboard_time": 1763896520,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1133335,
+        "num": 509338,
+        "word": "大冰建议女生不要找老登",
+        "onboard_time": 1763897120,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1109522,
+        "num": 492439,
+        "word": "廉价首饰 致癌物超标9000多倍",
+        "onboard_time": 1763900482,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 449309,
+        "num": 449309,
+        "word": "短剧女演员曝剧组杀生",
+        "onboard_time": 1763894841,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 387910,
+        "num": 387910,
+        "word": "刘耀文真正的少年美",
+        "onboard_time": 1763900301,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 356956,
+        "num": 356956,
+        "word": "杨紫 男生不能叫",
+        "onboard_time": 1763889201,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323107,
+        "num": 323107,
+        "word": "马嘉祺苏州河Daddy级别",
+        "onboard_time": 1763901861,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 314882,
+        "num": 314882,
+        "word": "12306回应彝族老人列车上被围堵拍摄",
+        "onboard_time": 1763890581,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257789,
+        "num": 257789,
+        "word": "胡彦斌方声明",
+        "onboard_time": 1763889080,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223150,
+        "num": 223150,
+        "word": "C罗可能做过多次整容手术",
+        "onboard_time": 1763901321,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 41964,
+        "num": 223072,
+        "word": "日网友说台湾若有事高市先去前线",
+        "onboard_time": 1763901981,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107118,
+        "num": 222791,
+        "word": "KPL抽签",
+        "onboard_time": 1763894900,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 720723,
+        "num": 222532,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290179,
+        "num": 222413,
+        "word": "张靓颖长文谈身体情况",
+        "onboard_time": 1763895441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 259593,
+        "num": 221995,
+        "word": "唐朝诡事录4",
+        "onboard_time": 1763885180,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 221993,
+        "num": 221993,
+        "word": "宋亚轩帽子舞",
+        "onboard_time": 1763902221,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 217197,
+        "num": 217197,
+        "word": "王楚钦全运会总结",
+        "onboard_time": 1763894841,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 207807,
+        "num": 207807,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1763894301,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 203165,
+        "num": 203165,
+        "word": "尾鱼 田里",
+        "onboard_time": 1763901023,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194139,
+        "num": 194139,
+        "word": "马嘉祺我应该进组了",
+        "onboard_time": 1763896400,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88006,
+        "num": 192253,
+        "word": "雅思降价",
+        "onboard_time": 1763885420,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190821,
+        "num": 190821,
+        "word": "张真源今天还在彩排",
+        "onboard_time": 1763901622,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 177725,
+        "num": 177725,
+        "word": "每天练背3分钟真的会瘦脸",
+        "onboard_time": 1763896820,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 172817,
+        "num": 172817,
+        "word": "易烊千玺私底下二了吧唧的",
+        "onboard_time": 1763898862,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169546,
+        "num": 169546,
+        "word": "刘宇宁直播",
+        "onboard_time": 1763898201,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110519,
+        "num": 151632,
+        "word": "梁伟铿感谢任翔宇",
+        "onboard_time": 1763902701,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144791,
+        "num": 144791,
+        "word": "陈星旭 变脸梦回李承鄞",
+        "onboard_time": 1763900781,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138088,
+        "num": 138088,
+        "word": "严浩翔戳脸颊饭撒",
+        "onboard_time": 1763901622,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 135079,
+        "num": 135079,
+        "word": "黄豆豆破格提拔副局级",
+        "onboard_time": 1763890282,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124413,
+        "num": 124413,
+        "word": "为什么要让S码模特穿xl样衣",
+        "onboard_time": 1763895921,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84923,
+        "num": 123509,
+        "word": "樊振东12月将出战三场比赛",
+        "onboard_time": 1763900062,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123453,
+        "num": 123453,
+        "word": "受够了只有svip才能提前看的世界",
+        "onboard_time": 1763893820,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113248,
+        "num": 113248,
+        "word": "胃不好不要空腹吃这些食物",
+        "onboard_time": 1763886740,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108121,
+        "num": 108121,
+        "word": "Scout发文回应离开LPL",
+        "onboard_time": 1763898201,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102939,
+        "num": 102939,
+        "word": "KSG打狼队",
+        "onboard_time": 1763897900,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99457,
+        "num": 99457,
+        "word": "狂野时代口碑",
+        "onboard_time": 1763891300,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 98314,
+        "num": 98314,
+        "word": "鼻病毒感染不是普通感冒",
+        "onboard_time": 1763901261,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 98239,
+        "num": 98239,
+        "word": "迪丽热巴你怎么奖励陈星旭",
+        "onboard_time": 1763896340,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97116,
+        "num": 97116,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1763900062,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79314,
+        "num": 90571,
+        "word": "唐朝诡事录3大结局",
+        "onboard_time": 1763883381,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73008,
+        "num": 89757,
+        "word": "美国一患者感染H5N5病毒去世",
+        "onboard_time": 1763899701,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}
