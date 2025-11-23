@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763912293569,
+  "endTime": 1763915465528,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2105,6 +2105,14 @@
       "onboard_time": 1762143861,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1002076,
+      "num": 198881,
+      "word": "彝族老人 镜头霸凌",
+      "onboard_time": 1763911642,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1000161,
@@ -6553,6 +6561,14 @@
       "onboard_time": 1763451624,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 556876,
+      "num": 201486,
+      "word": "那英怼华晨宇",
+      "onboard_time": 1763912002,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 556087,
@@ -15091,6 +15107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303445,
+      "num": 303445,
+      "word": "网红手作玩具 健康刺客",
+      "onboard_time": 1763911582,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 303375,
       "num": 229902,
       "word": "山东人蒸大馒头研究出了透明馒头",
@@ -23147,14 +23171,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 201486,
-      "num": 201486,
-      "word": "那英怼华晨宇",
-      "onboard_time": 1763912002,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201463,
       "num": 151447,
       "word": "德国之声辟谣中国空间站造假",
@@ -23361,6 +23377,14 @@
       "onboard_time": 1763898862,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200251,
+      "num": 181186,
+      "word": "丁程鑫会cha多cha",
+      "onboard_time": 1763912302,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 200239,
@@ -50699,6 +50723,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 105430,
+      "num": 198829,
+      "word": "月薪多少才穿得起大几千的羽绒服",
+      "onboard_time": 1763911941,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 105415,
       "num": 105415,
       "word": "唐诡编剧这是吃了多少历史书",
@@ -53795,6 +53827,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99885,
+      "num": 99885,
+      "word": "丁程鑫严浩翔候场拥抱",
+      "onboard_time": 1763915359,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 99861,
       "num": 99861,
       "word": "剧本都写不出李莎旻子的临场发挥",
@@ -56329,6 +56369,14 @@
       "onboard_time": 1762758440,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 95465,
+      "num": 95465,
+      "word": "周洁琼是竟然人",
+      "onboard_time": 1763913021,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 95461,
@@ -67499,6 +67547,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 72213,
+      "num": 78195,
+      "word": "严浩翔solo满脸写着野心",
+      "onboard_time": 1763913681,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72183,
       "num": 198616,
       "word": "智己LS9上市25分钟大定破5000台",
@@ -68233,14 +68289,6 @@
       "onboard_time": 1762567639,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 69578,
-      "num": 199803,
-      "word": "网红手作玩具 健康刺客",
-      "onboard_time": 1763911582,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 69524,
@@ -71123,6 +71171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58844,
+      "num": 99909,
+      "word": "林孝埈1000米第四",
+      "onboard_time": 1763911342,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 58833,
       "num": 60030,
       "word": "AppStore抽成降至15%",
@@ -71313,6 +71369,14 @@
       "onboard_time": 1762584980,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 57824,
+      "num": 78163,
+      "word": "仿大牌的东西让我丢尽了颜面",
+      "onboard_time": 1763912781,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 57807,
@@ -72809,14 +72873,6 @@
       "onboard_time": 1763478504,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51318,
-      "num": 198829,
-      "word": "月薪多少才穿得起大几千的羽绒服",
-      "onboard_time": 1763911941,
-      "rank": 38,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 51287,
@@ -78351,14 +78407,6 @@
       "num": 110375,
       "word": "公厕被打女孩转回老家医院治疗",
       "onboard_time": 1763479043,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30344,
-      "num": 198881,
-      "word": "彝族老人 镜头霸凌",
-      "onboard_time": 1763911642,
       "rank": 37,
       "category": "民生新闻"
     },

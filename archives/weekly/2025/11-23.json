@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763912293569,
+  "endTime": 1763915465528,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -41,6 +41,14 @@
       "onboard_time": 1763900482,
       "rank": 12,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 1002076,
+      "num": 198881,
+      "word": "彝族老人 镜头霸凌",
+      "onboard_time": 1763911642,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 958308,
@@ -233,6 +241,14 @@
       "onboard_time": 1763894841,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 556876,
+      "num": 201486,
+      "word": "那英怼华晨宇",
+      "onboard_time": 1763912002,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 535144,
@@ -689,6 +705,14 @@
       "onboard_time": 1763876421,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 303445,
+      "num": 303445,
+      "word": "网红手作玩具 健康刺客",
+      "onboard_time": 1763911582,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 302904,
@@ -1171,14 +1195,6 @@
       "category": "运动健身"
     },
     {
-      "raw_hot": 201486,
-      "num": 201486,
-      "word": "那英怼华晨宇",
-      "onboard_time": 1763912002,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 201463,
       "num": 151447,
       "word": "德国之声辟谣中国空间站造假",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1763898862,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 200251,
+      "num": 181186,
+      "word": "丁程鑫会cha多cha",
+      "onboard_time": 1763912302,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 198973,
@@ -2307,6 +2331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 105430,
+      "num": 198829,
+      "word": "月薪多少才穿得起大几千的羽绒服",
+      "onboard_time": 1763911941,
+      "rank": 38,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 105410,
       "num": 105410,
       "word": "苹果将推出多款廉价产品",
@@ -2385,6 +2417,14 @@
       "onboard_time": 1763867541,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 99885,
+      "num": 99885,
+      "word": "丁程鑫严浩翔候场拥抱",
+      "onboard_time": 1763915359,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 98996,
@@ -2489,6 +2529,14 @@
       "onboard_time": 1763871622,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95465,
+      "num": 95465,
+      "word": "周洁琼是竟然人",
+      "onboard_time": 1763913021,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 94179,
@@ -2657,6 +2705,14 @@
       "onboard_time": 1763882420,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 86515,
+      "num": 100470,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763913981,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 86371,
@@ -2859,20 +2915,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72213,
+      "num": 78195,
+      "word": "严浩翔solo满脸写着野心",
+      "onboard_time": 1763913681,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72005,
       "num": 236206,
       "word": "高市早苗G20狂刷存在感",
       "onboard_time": 1763896820,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69578,
-      "num": 199803,
-      "word": "网红手作玩具 健康刺客",
-      "onboard_time": 1763911582,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 67256,
@@ -2955,12 +3011,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58844,
+      "num": 99909,
+      "word": "林孝埈1000米第四",
+      "onboard_time": 1763911342,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 57959,
       "num": 148478,
       "word": "8岁女童随奶奶上坟途中走失3天",
       "onboard_time": 1763896340,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57824,
+      "num": 78163,
+      "word": "仿大牌的东西让我丢尽了颜面",
+      "onboard_time": 1763912781,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 57008,
@@ -3033,14 +3105,6 @@
       "onboard_time": 1763814742,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51318,
-      "num": 198829,
-      "word": "月薪多少才穿得起大几千的羽绒服",
-      "onboard_time": 1763911941,
-      "rank": 38,
-      "category": "议题讨论"
     },
     {
       "raw_hot": 48379,
@@ -3249,14 +3313,6 @@
       "onboard_time": 1763870062,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30344,
-      "num": 198881,
-      "word": "彝族老人 镜头霸凌",
-      "onboard_time": 1763911642,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29389,

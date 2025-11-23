@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 23:38:13
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 00:31:05
 </p>
 </blockquote>
 <p>
@@ -1589,6 +1589,12 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
 恋与深空（热度：1002276）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%20%E9%95%9C%E5%A4%B4%E9%9C%B8%E5%87%8C%23" target="weibo">
+彝族老人 镜头霸凌（热度：1002076）
 </a>
 </li>
 
@@ -4929,6 +4935,12 @@ C罗可能做过多次整容手术（热度：563173）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E6%80%BC%E5%8D%8E%E6%99%A8%E5%AE%87%23" target="weibo">
+那英怼华晨宇（热度：556876）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E7%A7%B0%E5%BD%93%E6%97%B6%E8%A2%AB%E5%90%93%E5%88%B0%E4%BA%86%23" target="weibo">
 何同学称当时被吓到了（热度：556087）
 </a>
@@ -5999,18 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E6%88%B4%E4%BA%86%E6%97%A0%E7%89%99%E4%BB%94%E6%83%85%E4%BE%A3%E5%A4%B4%E5%A5%97%23" target="weibo">
 黄子韬徐艺洋戴了无牙仔情侣头套（热度：493772）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E8%BF%90%E4%BC%9A%E9%A6%96%E4%B8%AA%E8%B7%B3%E6%B0%B40%E5%88%86%23" target="weibo">
-全运会首个跳水0分（热度：493672）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%A9%E5%B7%B2%E5%88%B6%E5%AE%9A%E4%B8%89%E5%A5%97%E5%A4%BA%E5%B2%9B%E6%96%B9%E6%A1%88%23" target="weibo">
-日本早已制定三套夺岛方案（热度：493561）
 </a>
 </li>
 
