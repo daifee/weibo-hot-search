@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763922942489,
+  "endTime": 1763923674424,
   "band_list": [
     {
       "raw_hot": 1014479,
@@ -475,20 +475,20 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20616,
+      "num": 45031,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19871,
       "num": 45067,
       "word": "马来西亚警方拘留14名日本诈骗嫌犯",
       "onboard_time": 1763915299,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17198,
-      "num": 45031,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14762,
