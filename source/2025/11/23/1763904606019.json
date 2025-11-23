@@ -1,0 +1,410 @@
+{
+  "runTime": 1763904606019,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 445743,
+        "num": 1071318,
+        "word": "HLE官宣Gumayusi加入",
+        "onboard_time": 1763902882,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209150,
+        "num": 543210,
+        "word": "Kanavi道歉",
+        "onboard_time": 1763890881,
+        "rank": 1,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12232,
+        "num": 534557,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763904262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 528659,
+        "num": 528659,
+        "word": "枭起青壤剧情平",
+        "onboard_time": 1763903001,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 513718,
+        "num": 513718,
+        "word": "枭起青壤第六集卡在这对吗",
+        "onboard_time": 1763901741,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246590,
+        "num": 246590,
+        "word": "海关在一女子裙内查获229条活鱼",
+        "onboard_time": 1763886501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200956,
+        "num": 200956,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188803,
+        "num": 200908,
+        "word": "侯英超说马龙陈梦樊振东是定海神针",
+        "onboard_time": 1763903121,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185177,
+        "num": 200776,
+        "word": "枭起青壤腾讯热度破26000",
+        "onboard_time": 1763899522,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154814,
+        "num": 200588,
+        "word": "TE溯打AG",
+        "onboard_time": 1763897900,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1033545,
+        "num": 200542,
+        "word": "大冰建议女生不要找老登",
+        "onboard_time": 1763897120,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 1023338,
+        "num": 200391,
+        "word": "廉价首饰 致癌物超标9000多倍",
+        "onboard_time": 1763900482,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 401295,
+        "num": 200259,
+        "word": "C罗可能做过多次整容手术",
+        "onboard_time": 1763901321,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 342193,
+        "num": 200135,
+        "word": "短剧女演员曝剧组杀生",
+        "onboard_time": 1763894841,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 330009,
+        "num": 199997,
+        "word": "马嘉祺苏州河Daddy级别",
+        "onboard_time": 1763901861,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 309713,
+        "num": 199921,
+        "word": "杨紫 男生不能叫",
+        "onboard_time": 1763889201,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278843,
+        "num": 199834,
+        "word": "刘耀文真正的少年美",
+        "onboard_time": 1763900301,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 161503,
+        "num": 199671,
+        "word": "王楚钦没结束的生涯没人有资格定义",
+        "onboard_time": 1763903482,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125295,
+        "num": 199546,
+        "word": "摩尔线程将成国产GPU第一股",
+        "onboard_time": 1763901981,
+        "rank": 18,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 48074,
+        "num": 199371,
+        "word": "12岁失联双胞胎姐妹已找到",
+        "onboard_time": 1763904202,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 751369,
+        "num": 199313,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277221,
+        "num": 199114,
+        "word": "12306回应彝族老人列车上被围堵拍摄",
+        "onboard_time": 1763890581,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204132,
+        "num": 199026,
+        "word": "张靓颖长文谈身体情况",
+        "onboard_time": 1763895441,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198973,
+        "num": 198973,
+        "word": "刘耀文这透视可真透视啊",
+        "onboard_time": 1763903601,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196517,
+        "num": 196517,
+        "word": "宋亚轩帽子舞",
+        "onboard_time": 1763902221,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 186450,
+        "num": 186450,
+        "word": "胡彦斌方声明",
+        "onboard_time": 1763889080,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181179,
+        "num": 181179,
+        "word": "张真源重现提裤子名场面",
+        "onboard_time": 1763904561,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180640,
+        "num": 180640,
+        "word": "唐朝诡事录4",
+        "onboard_time": 1763885180,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167381,
+        "num": 167381,
+        "word": "每天练背3分钟真的会瘦脸",
+        "onboard_time": 1763896820,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 100735,
+        "num": 164474,
+        "word": "日网友说台湾若有事高市先去前线",
+        "onboard_time": 1763901981,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164459,
+        "num": 164459,
+        "word": "王楚钦全运会总结",
+        "onboard_time": 1763894841,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152434,
+        "num": 152434,
+        "word": "华晨宇 你这是危言耸听那姐",
+        "onboard_time": 1763904141,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23295,
+        "num": 151922,
+        "word": "全运会这些时刻比金牌更闪耀",
+        "onboard_time": 1763903903,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151583,
+        "num": 151583,
+        "word": "马嘉祺我应该进组了",
+        "onboard_time": 1763896400,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 149476,
+        "num": 149476,
+        "word": "尾鱼 田里",
+        "onboard_time": 1763901023,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53301,
+        "num": 149283,
+        "word": "机关单位食堂开放渐成趋势",
+        "onboard_time": 1763903722,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15779,
+        "num": 147359,
+        "word": "当地连夜处置山谷百米露天垃圾池",
+        "onboard_time": 1763904202,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45281,
+        "num": 146841,
+        "word": "云南彝良成立调查组",
+        "onboard_time": 1763904322,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96678,
+        "num": 145642,
+        "word": "迪丽热巴第一次听这点粉丝啊",
+        "onboard_time": 1763904262,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144968,
+        "num": 144968,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1763894301,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 72419,
+        "num": 141021,
+        "word": "樊振东12月将出战三场比赛",
+        "onboard_time": 1763900062,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140561,
+        "num": 140561,
+        "word": "娜扎新疆舞一出秒杀比赛",
+        "onboard_time": 1763903001,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67581,
+        "num": 137071,
+        "word": "美国一患者感染H5N5病毒去世",
+        "onboard_time": 1763899701,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136388,
+        "num": 136388,
+        "word": "易烊千玺私底下二了吧唧的",
+        "onboard_time": 1763898862,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130227,
+        "num": 130227,
+        "word": "刘宇宁直播",
+        "onboard_time": 1763898201,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115687,
+        "num": 115687,
+        "word": "直播网红批量撤离杭州",
+        "onboard_time": 1763904501,
+        "rank": 45,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 115521,
+        "num": 115521,
+        "word": "声鸣远扬直播",
+        "onboard_time": 1763900062,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115378,
+        "num": 115378,
+        "word": "受够了只有svip才能提前看的世界",
+        "onboard_time": 1763893820,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114497,
+        "num": 114497,
+        "word": "黄豆豆破格提拔副局级",
+        "onboard_time": 1763890282,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106785,
+        "num": 112623,
+        "word": "狂野时代口碑",
+        "onboard_time": 1763891300,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}
