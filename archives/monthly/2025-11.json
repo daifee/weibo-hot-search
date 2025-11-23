@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763883443935,
+  "endTime": 1763886770637,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -681,6 +681,14 @@
       "onboard_time": 1763134401,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1671927,
+      "num": 167796,
+      "word": "唐嫣现身罗晋父亲葬礼",
+      "onboard_time": 1763886080,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1660744,
@@ -9819,6 +9827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 421102,
+      "num": 178672,
+      "word": "李庚希追星易烊千玺最成功",
+      "onboard_time": 1763885540,
+      "rank": 10,
+      "category": "电影"
+    },
+    {
       "raw_hot": 420432,
       "num": 420432,
       "word": "胡歌李沁 收山",
@@ -10379,6 +10395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 405323,
+      "num": 251829,
+      "word": "唐朝诡事录4",
+      "onboard_time": 1763885180,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 404901,
       "num": 404901,
       "word": "周润发张学友不参加综艺的原因",
@@ -10441,6 +10465,14 @@
       "onboard_time": 1762643176,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 402644,
+      "num": 234781,
+      "word": "唐朝诡事录3大结局",
+      "onboard_time": 1763883381,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 402628,
@@ -13468,7 +13500,7 @@
     },
     {
       "raw_hot": 331387,
-      "num": 220807,
+      "num": 267328,
       "word": "38岁男子守了鸡排哥一个月蹭流量",
       "onboard_time": 1763878341,
       "rank": 28,
@@ -18075,6 +18107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 251705,
+      "num": 251705,
+      "word": "央视曝光试吃卡试用卡骗局",
+      "onboard_time": 1763882360,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 251670,
       "num": 205799,
       "word": "迪丽热巴用腿刹车",
@@ -19203,6 +19243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 233465,
+      "num": 178302,
+      "word": "汪东城被剧组放鸽子",
+      "onboard_time": 1763883742,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 233461,
       "num": 157014,
       "word": "彭小苒说最胖的样子在郭敬明镜头里",
@@ -19857,6 +19905,14 @@
       "onboard_time": 1763529862,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225007,
+      "num": 173748,
+      "word": "新闻女王2有徐晓薇",
+      "onboard_time": 1763885601,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 224934,
@@ -20793,6 +20849,14 @@
       "onboard_time": 1762749200,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214397,
+      "num": 214397,
+      "word": "王毅三个绝不允许",
+      "onboard_time": 1763884101,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 214325,
@@ -24451,6 +24515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190901,
+      "num": 131361,
+      "word": "迈凯伦被上报赛会仲裁",
+      "onboard_time": 1763886020,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190873,
       "num": 190873,
       "word": "入坑迪丽热巴太容易了",
@@ -26155,6 +26227,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 182971,
+      "num": 182971,
+      "word": "枭起青壤首日云合",
+      "onboard_time": 1763886020,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182917,
       "num": 182917,
       "word": "马龙包丢在半路回来和王楚钦击掌",
@@ -26763,6 +26843,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 178732,
+      "num": 178732,
+      "word": "九尾自由人回归LGDNBW",
+      "onboard_time": 1763885660,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178713,
       "num": 178713,
       "word": "唐诡全员科班出身的含金量",
@@ -26857,6 +26945,14 @@
       "onboard_time": 1763296824,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178122,
+      "num": 178122,
+      "word": "奥司他韦销量上涨237%",
+      "onboard_time": 1763884941,
+      "rank": 15,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 178121,
@@ -28065,6 +28161,14 @@
       "onboard_time": 1762002981,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170942,
+      "num": 170942,
+      "word": "彝族老人在列车上遭游客围堵拍摄",
+      "onboard_time": 1763884760,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170933,
@@ -30619,6 +30723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159071,
+      "num": 159071,
+      "word": "雅思降价",
+      "onboard_time": 1763885420,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 159068,
       "num": 159068,
       "word": "打起来下死手亲起来好上头",
@@ -32969,6 +33081,14 @@
       "onboard_time": 1763833637,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149946,
+      "num": 149946,
+      "word": "李庚希 重生之我和我担是影后影帝",
+      "onboard_time": 1763886199,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 149934,
@@ -37131,6 +37251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135425,
+      "num": 130715,
+      "word": "建议大家回村后千万别晨跑",
+      "onboard_time": 1763886501,
+      "rank": 31,
+      "category": "情感"
+    },
+    {
       "raw_hot": 135344,
       "num": 180303,
       "word": "易烊千玺 小女孩说的话都对",
@@ -40195,6 +40323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 126569,
+      "num": 126569,
+      "word": "突然觉得谈恋爱不需要换情头",
+      "onboard_time": 1763880620,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126561,
       "num": 148016,
       "word": "范丞丞跑男路透",
@@ -41843,6 +41979,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 122809,
+      "num": 122809,
+      "word": "樊振东大湾鸡换不换",
+      "onboard_time": 1763886260,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122791,
       "num": 122791,
       "word": "33这一集全是腹肌",
@@ -42393,6 +42537,14 @@
       "onboard_time": 1763537241,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 121495,
+      "num": 121495,
+      "word": "尖叫之夜投票",
+      "onboard_time": 1763884760,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 121481,
@@ -46851,14 +47003,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 111325,
-      "num": 111325,
-      "word": "突然觉得谈恋爱不需要换情头",
-      "onboard_time": 1763880620,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 111321,
       "num": 136352,
       "word": "嫁金钗",
@@ -49563,6 +49707,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105566,
+      "num": 105566,
+      "word": "Viper的ins关注oner和Chovy",
+      "onboard_time": 1763883919,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105553,
       "num": 105553,
       "word": "红白歌会名单",
@@ -50827,6 +50979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103289,
+      "num": 103289,
+      "word": "海关在一女子裙内查获229条活鱼",
+      "onboard_time": 1763886501,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103247,
       "num": 103247,
       "word": "偶遇陈伟霆带妈妈逛街",
@@ -51401,14 +51561,6 @@
       "onboard_time": 1762576699,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 102361,
-      "num": 102361,
-      "word": "唐朝诡事录3大结局",
-      "onboard_time": 1763883381,
-      "rank": 42,
-      "category": "剧集"
     },
     {
       "raw_hot": 102334,
@@ -52937,6 +53089,14 @@
       "onboard_time": 1762261821,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99332,
+      "num": 99332,
+      "word": "eStar转会公告",
+      "onboard_time": 1763886141,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 99319,
@@ -55923,6 +56083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94176,
+      "num": 94176,
+      "word": "王年将成被打伤剧组致歉",
+      "onboard_time": 1763883322,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94163,
       "num": 120638,
       "word": "高市早苗不自重场面辣眼睛",
@@ -56137,6 +56305,14 @@
       "onboard_time": 1763106021,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 93734,
+      "num": 93734,
+      "word": "刘诗雯十五运年龄最大女运动员",
+      "onboard_time": 1763885480,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 93728,
@@ -59289,6 +59465,14 @@
       "onboard_time": 1762307480,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88077,
+      "num": 88077,
+      "word": "胃不好不要空腹吃这些食物",
+      "onboard_time": 1763886740,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88074,
@@ -71867,14 +72051,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49687,
-      "num": 200342,
-      "word": "央视曝光试吃卡试用卡骗局",
-      "onboard_time": 1763882360,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 49678,
       "num": 89334,
       "word": "金摇杆年度最佳游戏",
@@ -75003,6 +75179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37407,
+      "num": 103485,
+      "word": "尼日利亚一中学315人被绑架",
+      "onboard_time": 1763885960,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 37396,
       "num": 88475,
       "word": "俄罗斯幻影坦克别具一格",
@@ -75209,6 +75393,14 @@
       "onboard_time": 1762384637,
       "rank": 38,
       "category": "美食"
+    },
+    {
+      "raw_hot": 36414,
+      "num": 178152,
+      "word": "那些默默托举中国篮球的人",
+      "onboard_time": 1763884880,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 36405,

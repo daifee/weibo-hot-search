@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 15:37:23
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 16:32:50
 </p>
 </blockquote>
 <p>
@@ -521,6 +521,12 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23" target="weibo">
 提醒中国公民近期避免前往日本（热度：1672025）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%8E%B0%E8%BA%AB%E7%BD%97%E6%99%8B%E7%88%B6%E4%BA%B2%E8%91%AC%E7%A4%BC%23" target="weibo">
+唐嫣现身罗晋父亲葬礼（热度：1671927）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%98%8E%E5%AD%90%E5%93%A5%E5%8F%8A%E5%A6%BB%E5%AD%90%E8%A2%AB%E9%99%90%E6%B6%88%23" target="weibo">
 嘎子哥及妻子被限消（热度：487309）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E4%B8%80%E9%BE%99%E8%8E%B7%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92%E6%8F%90%E5%90%8D%23" target="weibo">
-朱一龙获最佳男主角提名（热度：487018）
 </a>
 </li>
 
