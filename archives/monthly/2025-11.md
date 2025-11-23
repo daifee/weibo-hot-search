@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 18:42:40
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 19:22:05
 </p>
 </blockquote>
 <p>
@@ -2585,6 +2585,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BF%84%E7%BD%97%E6%96%AF%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%23" target="weibo">
 俄罗斯警告高市早苗（热度：773492）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%20%E5%A5%A5%E6%96%AF%E5%8D%A1%23" target="weibo">
+哪吒2 奥斯卡（热度：773423）
 </a>
 </li>
 
@@ -5517,6 +5523,12 @@ Kanavi道歉（热度：522586）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%85%A8%E8%BF%90%E4%BC%9A%E6%80%BB%E7%BB%93%23" target="weibo">
+王楚钦全运会总结（热度：516529）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%23" target="weibo">
 日本反对日本（热度：516460）
 </a>
@@ -5999,18 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BA%A2%E5%A9%B5%E8%A2%AB%E8%A7%82%E4%BC%97%E7%9A%84%E5%A8%83%E5%A8%83%E9%9B%A8%E6%B7%B9%E6%B2%A1%E4%BA%86%23" target="weibo">
 全红婵被观众的娃娃雨淹没了（热度：490416）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E7%94%B1%E7%9B%88%E8%BD%AC%E4%BA%8F%23" target="weibo">
-爱奇艺由盈转亏（热度：489816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%B2%92%E4%B8%8A%E7%9A%87%20%E7%83%A4%E7%BA%A2%E8%96%AF%E5%88%BA%E5%AE%A2%23" target="weibo">
-粒上皇 烤红薯刺客（热度：489609）
 </a>
 </li>
 

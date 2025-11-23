@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763894560991,
+  "endTime": 1763896925686,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 951747,
-      "num": 230548,
+      "num": 236222,
       "word": "杨紫 男生不能叫",
       "onboard_time": 1763889201,
       "rank": 18,
@@ -73,6 +73,14 @@
       "onboard_time": 1763856980,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 773423,
+      "num": 773423,
+      "word": "哪吒2 奥斯卡",
+      "onboard_time": 1763894781,
+      "rank": 3,
+      "category": "电影,电影"
     },
     {
       "raw_hot": 725800,
@@ -195,6 +203,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516529,
+      "num": 1082644,
+      "word": "王楚钦全运会总结",
+      "onboard_time": 1763894841,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 508555,
       "num": 508555,
       "word": "喝水后有这些表现说明肾不好",
@@ -227,12 +243,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 485985,
+      "num": 214503,
+      "word": "12306回应彝族老人列车上被围堵拍摄",
+      "onboard_time": 1763890581,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 482253,
       "num": 482253,
       "word": "山寨山姆挤满了想花钱的县城中产",
       "onboard_time": 1763875042,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 479593,
+      "num": 209074,
+      "word": "时代少年团六周年演唱会",
+      "onboard_time": 1763894301,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 477579,
@@ -273,6 +305,14 @@
       "onboard_time": 1763887700,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 429697,
+      "num": 202074,
+      "word": "短剧女演员曝剧组杀生",
+      "onboard_time": 1763894841,
+      "rank": 15,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 428839,
@@ -321,6 +361,14 @@
       "onboard_time": 1763885420,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 381876,
+      "num": 166376,
+      "word": "张靓颖长文谈身体情况",
+      "onboard_time": 1763895441,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 370883,
@@ -635,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 253142,
+      "num": 253142,
+      "word": "KPL抽签",
+      "onboard_time": 1763894900,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 253068,
       "num": 253068,
       "word": "奥司他韦销量上涨237%",
@@ -747,6 +803,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 222538,
+      "num": 166304,
+      "word": "马嘉祺我应该进组了",
+      "onboard_time": 1763896400,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217779,
       "num": 374976,
       "word": "男子762元买20多件商品蕉内拒发货",
@@ -851,20 +915,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 198118,
+      "num": 198118,
+      "word": "受够了只有svip才能提前看的世界",
+      "onboard_time": 1763893820,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 194357,
       "num": 355700,
       "word": "许我耀眼热度",
       "onboard_time": 1763812702,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193149,
-      "num": 193149,
-      "word": "12306回应彝族老人列车上被围堵拍摄",
-      "onboard_time": 1763890581,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191125,
@@ -1011,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 172545,
-      "num": 172545,
-      "word": "时代少年团六周年演唱会",
-      "onboard_time": 1763894301,
-      "rank": 26,
-      "category": "演出"
-    },
-    {
       "raw_hot": 172080,
       "num": 159360,
       "word": "张真源终于吃上心心念念的宝贝猪了",
@@ -1041,6 +1097,14 @@
       "onboard_time": 1763860580,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166086,
+      "num": 166086,
+      "word": "王楚钦结束是为了更好的开始",
+      "onboard_time": 1763896462,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 164488,
@@ -1131,6 +1195,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 151324,
+      "num": 151324,
+      "word": "仙逆",
+      "onboard_time": 1763895080,
+      "rank": 31,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 150448,
       "num": 150448,
       "word": "金晨有点心事全写脸上了",
@@ -1145,6 +1217,14 @@
       "onboard_time": 1763833637,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149858,
+      "num": 149858,
+      "word": "为什么要让S码模特穿xl样衣",
+      "onboard_time": 1763895921,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 148474,
@@ -1195,6 +1275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 139883,
+      "num": 139883,
+      "word": "王楚钦说成都见",
+      "onboard_time": 1763896102,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139229,
       "num": 139229,
       "word": "被姥姥梳成瘦猫",
@@ -1243,6 +1331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131007,
+      "num": 131007,
+      "word": "王楚钦猛猛训练",
+      "onboard_time": 1763896520,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130287,
       "num": 155030,
       "word": "书法大赛奖金50万特等奖被取消",
@@ -1256,6 +1352,14 @@
       "word": "肖战第一次过这么冷的冬天",
       "onboard_time": 1763829621,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 129108,
+      "num": 125595,
+      "word": "做杨紫粉丝的含金量还在上升",
+      "onboard_time": 1763896520,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -1281,6 +1385,14 @@
       "onboard_time": 1763879602,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128175,
+      "num": 128175,
+      "word": "每天练背3分钟真的会瘦脸",
+      "onboard_time": 1763896820,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 127081,
@@ -1667,14 +1779,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 100240,
-      "num": 100240,
-      "word": "受够了只有svip才能提前看的世界",
-      "onboard_time": 1763893820,
-      "rank": 45,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 98996,
       "num": 98996,
       "word": "Hero妖刀连接成功",
@@ -1900,7 +2004,7 @@
     },
     {
       "raw_hot": 89326,
-      "num": 598202,
+      "num": 777804,
       "word": "推荐怕冷的人试试三层穿衣法",
       "onboard_time": 1763867360,
       "rank": 2,
@@ -1939,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85929,
+      "num": 142813,
+      "word": "迪丽热巴你怎么奖励陈星旭",
+      "onboard_time": 1763896340,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82848,
       "num": 161659,
       "word": "白宫怒批CNN彻头彻尾假新闻",
@@ -1953,6 +2065,14 @@
       "onboard_time": 1763809761,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82424,
+      "num": 789670,
+      "word": "中国科学家揭示脂质代谢调控新机制",
+      "onboard_time": 1763895621,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 81275,
@@ -2073,6 +2193,14 @@
       "onboard_time": 1763830459,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73463,
+      "num": 128332,
+      "word": "内娱有史以来最颠婆的音综",
+      "onboard_time": 1763895381,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 67256,
@@ -2259,6 +2387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41318,
+      "num": 166146,
+      "word": "奉劝日方勿玩火自焚",
+      "onboard_time": 1763895501,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40275,
       "num": 240096,
       "word": "偷甘蔗爆火巡逻小狗已累瘫",
@@ -2281,6 +2417,14 @@
       "onboard_time": 1763827703,
       "rank": 49,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 38868,
+      "num": 144702,
+      "word": "第一批丁克老后怎么样了",
+      "onboard_time": 1763896880,
+      "rank": 37,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 37655,
@@ -2395,6 +2539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25181,
+      "num": 148478,
+      "word": "8岁女童随奶奶上坟途中走失3天",
+      "onboard_time": 1763896340,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23843,
       "num": 92480,
       "word": "柬埔寨劫囚案9小时全员落网",
@@ -2419,12 +2571,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 20536,
+      "num": 150379,
+      "word": "高市早苗G20狂刷存在感",
+      "onboard_time": 1763896820,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 20366,
       "num": 91875,
       "word": "爱有5种语言",
       "onboard_time": 1763834236,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20145,
+      "num": 143943,
+      "word": "高市政府收到超344.9万份签名抗议",
+      "onboard_time": 1763896880,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18415,
@@ -2473,6 +2641,14 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 12496,
+      "num": 146644,
+      "word": "86岁姥姥的快乐是每天放鞭炮",
+      "onboard_time": 1763896880,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 5956,
