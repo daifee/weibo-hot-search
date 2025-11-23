@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 12:52:35
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 13:26:41
 </p>
 </blockquote>
 <p>
@@ -4539,6 +4539,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E6%89%BF%E8%AE%A4%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9C%81%23" target="weibo">
+全世界都承认台湾是中国的一个省（热度：574454）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%99%E5%A7%90%E6%8A%8A%E7%8E%8B%E5%AE%9D%E5%BC%BA%E6%8B%8D%E6%88%90%E7%8E%8B%E4%B8%80%E5%8D%9A%E4%BA%86%23" target="weibo">
 站姐把王宝强拍成王一博了（热度：573406）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E4%BA%BA%E5%90%8E%E6%B7%A1%E5%AE%9A%E5%8E%BB%E8%A2%AB%E5%AE%B3%E4%BA%BA%E5%AE%B6%E5%90%83%E9%A5%AD%23" target="weibo">
 男子杀人后淡定去被害人家吃饭（热度：484876）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E5%9C%B0%E5%89%91%E5%BF%83%E5%A4%A7%E7%BB%93%E5%B1%80%23" target="weibo">
-天地剑心大结局（热度：484677）
 </a>
 </li>
 

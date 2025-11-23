@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763873555468,
+  "endTime": 1763875601179,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -81,6 +81,14 @@
       "onboard_time": 1763862320,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 574454,
+      "num": 1091912,
+      "word": "全世界都承认台湾是中国的一个省",
+      "onboard_time": 1763871081,
+      "rank": 6,
+      "category": "国内时政"
     },
     {
       "raw_hot": 535144,
@@ -227,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 317390,
+      "num": 317390,
+      "word": "云南一山谷惊现百米露天垃圾池",
+      "onboard_time": 1763869580,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 311485,
       "num": 311485,
       "word": "中国双拳痛击日本",
@@ -243,28 +259,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 303439,
-      "num": 303439,
-      "word": "云南一山谷惊现百米露天垃圾池",
-      "onboard_time": 1763869580,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 292144,
       "num": 198411,
       "word": "胡彦斌新歌",
       "onboard_time": 1763871440,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288173,
-      "num": 288173,
-      "word": "全世界都承认台湾是中国的一个省",
-      "onboard_time": 1763871081,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 284032,
@@ -379,6 +379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 244322,
+      "num": 160259,
+      "word": "现在就出发",
+      "onboard_time": 1763873001,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 242992,
       "num": 242992,
       "word": "恋与王男",
@@ -483,6 +491,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 187447,
+      "num": 150381,
+      "word": "小酒窝张维伊张小婉跳库里之歌",
+      "onboard_time": 1763872222,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186754,
       "num": 157505,
       "word": "戒糖10天身体就会发生变化",
@@ -563,14 +579,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 161697,
-      "num": 138447,
-      "word": "小酒窝张维伊张小婉跳库里之歌",
-      "onboard_time": 1763872222,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161561,
       "num": 123863,
       "word": "王霏霏感谢章子怡是恩师更是榜样",
@@ -579,16 +587,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160259,
-      "num": 160259,
-      "word": "现在就出发",
-      "onboard_time": 1763873001,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 155006,
-      "num": 122713,
+      "num": 150257,
       "word": "德国一家四口度假身亡疑农药中毒",
       "onboard_time": 1763871681,
       "rank": 32,
@@ -609,6 +609,22 @@
       "onboard_time": 1763817444,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150995,
+      "num": 150995,
+      "word": "原来肖战得闲谨制是智斗片",
+      "onboard_time": 1763874560,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 150187,
+      "num": 150187,
+      "word": "自助偷甘蔗农场爆火后老板真没招了",
+      "onboard_time": 1763874321,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149956,
@@ -635,6 +651,22 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 140815,
+      "num": 140815,
+      "word": "胡先煦王安宇一个害羞一个爱秀",
+      "onboard_time": 1763874499,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 139229,
+      "num": 139229,
+      "word": "被姥姥梳成瘦猫",
+      "onboard_time": 1763873601,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138006,
       "num": 158097,
       "word": "香蜜沉沉烬如霜",
@@ -651,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 130287,
+      "num": 155030,
+      "word": "书法大赛奖金50万特等奖被取消",
+      "onboard_time": 1763873541,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129190,
       "num": 196766,
       "word": "肖战第一次过这么冷的冬天",
@@ -665,6 +705,14 @@
       "onboard_time": 1763816482,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 122806,
+      "num": 122806,
+      "word": "不敢想她的地理成绩高到什么程度了",
+      "onboard_time": 1763873240,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 121809,
@@ -691,12 +739,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118769,
+      "num": 118769,
+      "word": "罗志祥自嘲看完新书想呕吐",
+      "onboard_time": 1763875280,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118352,
       "num": 243335,
       "word": "香港取消中学生赴日交流",
       "onboard_time": 1763823622,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117063,
+      "num": 117063,
+      "word": "何炅的工伤那英全责",
+      "onboard_time": 1763873421,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 114857,
+      "num": 114857,
+      "word": "邓亚萍谈全运会后乒乓球主力之争",
+      "onboard_time": 1763874620,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 114691,
@@ -779,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108034,
+      "num": 108034,
+      "word": "这是真看到男菩萨了",
+      "onboard_time": 1763875400,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107370,
       "num": 241131,
       "word": "身体好寿命长的人睡觉有5个特征",
@@ -803,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106585,
+      "num": 106585,
+      "word": "迪丽热巴聂九罗指数破8000万",
+      "onboard_time": 1763874620,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 106094,
       "num": 148111,
       "word": "奔跑吧",
@@ -819,28 +907,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 101006,
-      "num": 101006,
-      "word": "不敢想她的地理成绩高到什么程度了",
-      "onboard_time": 1763873240,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 100468,
       "num": 100468,
       "word": "某某组就是最好的",
       "onboard_time": 1763867541,
       "rank": 45,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 100045,
-      "num": 100045,
-      "word": "何炅的工伤那英全责",
-      "onboard_time": 1763873421,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 98903,
@@ -939,6 +1011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92400,
+      "num": 109747,
+      "word": "巨型吊牌比脸还大",
+      "onboard_time": 1763873421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 92134,
       "num": 92134,
       "word": "鬼灭继国兄弟",
@@ -1019,14 +1099,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 79560,
-      "num": 109747,
-      "word": "巨型吊牌比脸还大",
-      "onboard_time": 1763873421,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78747,
       "num": 78747,
       "word": "看边牧怎么把鸭子黑白分开",
@@ -1089,6 +1161,14 @@
       "onboard_time": 1763830459,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69156,
+      "num": 150952,
+      "word": "山寨山姆挤满了想花钱的县城中产",
+      "onboard_time": 1763875042,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67256,
@@ -1227,6 +1307,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 35744,
+      "num": 111074,
+      "word": "看护外婆拖住了我们全家",
+      "onboard_time": 1763874861,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33628,
       "num": 113216,
       "word": "枭起青壤真剧王要来了",
@@ -1339,16 +1427,8 @@
       "category": "其它"
     },
     {
-      "raw_hot": 10980,
-      "num": 109595,
-      "word": "书法大赛奖金50万特等奖被取消",
-      "onboard_time": 1763873541,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 5956,
-      "num": 317352,
+      "num": 342940,
       "word": "华龙一号又有新贡献",
       "onboard_time": 1763807421,
       "rank": 2,
