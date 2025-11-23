@@ -1,7 +1,15 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763865342002,
+  "endTime": 1763870460386,
   "band_list": [
+    {
+      "raw_hot": 2326450,
+      "num": 148702,
+      "word": "唐嫣父亲参加罗晋父亲葬礼",
+      "onboard_time": 1763867180,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 854074,
       "num": 854074,
@@ -25,6 +33,14 @@
       "onboard_time": 1763856980,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 754261,
+      "num": 1120681,
+      "word": "西贝降价",
+      "onboard_time": 1763864901,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 725800,
@@ -65,6 +81,14 @@
       "onboard_time": 1763862320,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 535144,
+      "num": 148610,
+      "word": "疑似王心凌吴克群恋情",
+      "onboard_time": 1763866881,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 477579,
@@ -123,6 +147,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366234,
+      "num": 148518,
+      "word": "杨幂发了谢罪与不战和平之碑",
+      "onboard_time": 1763865800,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 357894,
       "num": 357894,
       "word": "保罗宣布退役",
@@ -137,6 +169,14 @@
       "onboard_time": 1763821943,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354392,
+      "num": 155162,
+      "word": "吃了一年胡椒粉原来是墙灰",
+      "onboard_time": 1763865320,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 353945,
@@ -211,12 +251,44 @@
       "category": "演出"
     },
     {
+      "raw_hot": 257858,
+      "num": 154544,
+      "word": "北京一男子醉驾电动车连摔6次身亡",
+      "onboard_time": 1763866040,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 257595,
+      "num": 157484,
+      "word": "俞敏洪回应被叫老登",
+      "onboard_time": 1763864901,
+      "rank": 24,
+      "category": "互联网,民生新闻"
+    },
+    {
       "raw_hot": 249927,
       "num": 157729,
       "word": "升降台故障丁程鑫冷脸",
       "onboard_time": 1763864960,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 248642,
+      "num": 248642,
+      "word": "粉笔模考",
+      "onboard_time": 1763868622,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 246959,
+      "num": 148443,
+      "word": "男子抛下孕妻高速停车掏马蜂窝被罚",
+      "onboard_time": 1763868681,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 245463,
@@ -235,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 224462,
+      "num": 224462,
+      "word": "日本若执意挑衅必将求战得战",
+      "onboard_time": 1763867180,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217779,
       "num": 374976,
       "word": "男子762元买20多件商品蕉内拒发货",
@@ -248,6 +328,14 @@
       "word": "时代少年团大时代舞台感染力拉满",
       "onboard_time": 1763828061,
       "rank": 23,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 213785,
+      "num": 150887,
+      "word": "歌手孙悦因家人离世取消演出",
+      "onboard_time": 1763868981,
+      "rank": 15,
       "category": "演出"
     },
     {
@@ -291,6 +379,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 200619,
+      "num": 200619,
+      "word": "北大祝贺王楚钦夺冠",
+      "onboard_time": 1763869279,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 198539,
+      "num": 198539,
+      "word": "中国双拳痛击日本",
+      "onboard_time": 1763868380,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194357,
       "num": 355700,
       "word": "许我耀眼热度",
@@ -313,6 +417,14 @@
       "onboard_time": 1763860639,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 176837,
+      "num": 176837,
+      "word": "2025尖叫之夜网友喜爱作品评选",
+      "onboard_time": 1763868261,
+      "rank": 8,
+      "category": "综艺"
     },
     {
       "raw_hot": 176736,
@@ -339,6 +451,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172823,
+      "num": 150583,
+      "word": "丈夫说车祸遇难女子晚半小时就好了",
+      "onboard_time": 1763867541,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172080,
+      "num": 149735,
+      "word": "张真源终于吃上心心念念的宝贝猪了",
+      "onboard_time": 1763866040,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 171697,
       "num": 244915,
       "word": "宋亚轩好魅",
@@ -363,12 +491,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 157484,
-      "num": 157484,
-      "word": "俞敏洪回应被叫老登",
-      "onboard_time": 1763864901,
-      "rank": 24,
-      "category": "互联网,民生新闻"
+      "raw_hot": 161267,
+      "num": 147924,
+      "word": "疾风劲草杀青",
+      "onboard_time": 1763870421,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 154805,
@@ -395,8 +523,32 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 147852,
+      "num": 147852,
+      "word": "新疆小孩生下来就是雄鹰啊",
+      "onboard_time": 1763866881,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 142218,
+      "num": 142218,
+      "word": "中国火箭军假如战争今天爆发",
+      "onboard_time": 1763867061,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 141548,
+      "num": 141548,
+      "word": "原来长不长皱纹是脸部肌肉控制的",
+      "onboard_time": 1763870241,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 136625,
-      "num": 136625,
+      "num": 148230,
       "word": "香蜜沉沉烬如霜",
       "onboard_time": 1763854277,
       "rank": 25,
@@ -419,12 +571,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 123764,
-      "num": 123764,
-      "word": "西贝降价",
-      "onboard_time": 1763864901,
-      "rank": 29,
-      "category": "民生新闻"
+      "raw_hot": 125123,
+      "num": 148190,
+      "word": "恋与王男",
+      "onboard_time": 1763869520,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 121809,
@@ -443,12 +595,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118863,
+      "num": 118863,
+      "word": "郭某外籍院士信息已遭核查",
+      "onboard_time": 1763867900,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118352,
       "num": 243335,
       "word": "香港取消中学生赴日交流",
       "onboard_time": 1763823622,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 115505,
+      "num": 115505,
+      "word": "日本早已制定三套夺岛方案",
+      "onboard_time": 1763870062,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 114691,
@@ -473,6 +641,22 @@
       "onboard_time": 1763813301,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 112454,
+      "num": 112454,
+      "word": "Uzi一天打了17盘排位",
+      "onboard_time": 1763870121,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 112342,
+      "num": 112342,
+      "word": "建议尽早培养自己的输出型爱好",
+      "onboard_time": 1763865979,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 111324,
@@ -515,12 +699,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106094,
+      "num": 148111,
+      "word": "奔跑吧",
+      "onboard_time": 1763869102,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 105410,
       "num": 105410,
       "word": "苹果将推出多款廉价产品",
       "onboard_time": 1763857519,
       "rank": 33,
       "category": "数码"
+    },
+    {
+      "raw_hot": 102054,
+      "num": 148041,
+      "word": "0人看完这4集能不笑纳",
+      "onboard_time": 1763869820,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101871,
+      "num": 101871,
+      "word": "张继科说马龙接发球千变万化",
+      "onboard_time": 1763867421,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100468,
+      "num": 100468,
+      "word": "某某组就是最好的",
+      "onboard_time": 1763867541,
+      "rank": 45,
+      "category": "动漫"
     },
     {
       "raw_hot": 98498,
@@ -537,6 +753,14 @@
       "onboard_time": 1763817202,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 97583,
+      "num": 97583,
+      "word": "迪丽热巴陈星旭九字真炎",
+      "onboard_time": 1763868500,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 96701,
@@ -585,14 +809,6 @@
       "onboard_time": 1763809761,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82647,
-      "num": 82647,
-      "word": "吃了一年胡椒粉原来是墙灰",
-      "onboard_time": 1763865320,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 80373,
@@ -763,6 +979,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53326,
+      "num": 148717,
+      "word": "云南一山谷惊现百米露天垃圾池",
+      "onboard_time": 1763869580,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 51365,
       "num": 196760,
       "word": "奔跑吧开播",
@@ -867,6 +1091,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 22548,
+      "num": 113968,
+      "word": "王楚然没有一帧是不美的",
+      "onboard_time": 1763870062,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 21148,
       "num": 91750,
       "word": "吴艳妮发文告别2025赛季",
@@ -897,6 +1129,22 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 9170,
+      "num": 102329,
+      "word": "枭起青壤真剧王要来了",
+      "onboard_time": 1763870421,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 5922,
+      "num": 226263,
+      "word": "华龙一号又有新贡献",
+      "onboard_time": 1763807421,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
