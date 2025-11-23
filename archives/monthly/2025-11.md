@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 21:30:06
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 21:41:16
 </p>
 </blockquote>
 <p>
@@ -4191,6 +4191,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%89%A7%E6%83%85%E5%B9%B3%23" target="weibo">
+枭起青壤剧情平（热度：606341）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%97%E5%9C%83%20%E8%87%B3%E4%BB%8A%E5%86%85%E5%A8%B1%E6%97%A0%E4%BB%A3%E9%A4%90%23" target="weibo">
 苗圃 至今内娱无代餐（热度：606252）
 </a>
@@ -4815,6 +4821,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%8F%AF%E8%83%BD%E5%81%9A%E8%BF%87%E5%A4%9A%E6%AC%A1%E6%95%B4%E5%AE%B9%E6%89%8B%E6%9C%AF%23" target="weibo">
+C罗可能做过多次整容手术（热度：561553）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%99%92%E4%BA%86%E6%B8%85%E6%A5%9A%E7%89%88%E7%9A%84%E9%B9%BF%E6%99%97%23" target="weibo">
 陈赫晒了清楚版的鹿晗（热度：560962）
 </a>
@@ -5369,12 +5381,6 @@ T1官宣Peyz加入（热度：531624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%B8%8D%E8%BF%87%E6%9D%A5%E4%BA%86%23" target="weibo">
 迪丽热巴工作室发不过来了（热度：528922）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%89%A7%E6%83%85%E5%B9%B3%23" target="weibo">
-枭起青壤剧情平（热度：528659）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E8%AF%B4%E6%95%B4%E4%B8%AA%E8%A1%8C%E4%B8%9A%E9%83%BD%E5%9C%A8%E7%9C%8B%E7%AC%91%E8%AF%9D%23" target="weibo">
 于正说整个行业都在看笑话（热度：492528）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E6%AD%A3%E8%BF%9B%E8%A1%8C%E8%A1%8C%E4%B8%BA%E7%9F%AB%E6%AD%A3%23" target="weibo">
-赤裸小孩正进行行为矫正（热度：491678）
 </a>
 </li>
 

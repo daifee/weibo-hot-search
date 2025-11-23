@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763904606019,
+  "endTime": 1763905276449,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 606341,
+      "num": 606341,
+      "word": "枭起青壤剧情平",
+      "onboard_time": 1763903001,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 594322,
       "num": 1095091,
       "word": "海关在一女子裙内查获229条活鱼",
@@ -185,6 +193,14 @@
       "onboard_time": 1763894841,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 561553,
+      "num": 328941,
+      "word": "C罗可能做过多次整容手术",
+      "onboard_time": 1763901321,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 559090,
@@ -217,14 +233,6 @@
       "onboard_time": 1763879181,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 528659,
-      "num": 528659,
-      "word": "枭起青壤剧情平",
-      "onboard_time": 1763903001,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 522586,
@@ -417,14 +425,6 @@
       "onboard_time": 1763883381,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 401295,
-      "num": 223150,
-      "word": "C罗可能做过多次整容手术",
-      "onboard_time": 1763901321,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 395231,
@@ -819,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 245904,
+      "num": 245904,
+      "word": "直播网红批量撤离杭州",
+      "onboard_time": 1763904501,
+      "rank": 45,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "东部战区海军某部实弹射击火力全开",
@@ -841,6 +849,14 @@
       "onboard_time": 1763869520,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242080,
+      "num": 242080,
+      "word": "张真源重现提裤子名场面",
+      "onboard_time": 1763904561,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 234763,
@@ -889,6 +905,14 @@
       "onboard_time": 1763886199,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224447,
+      "num": 224447,
+      "word": "白鹿给时代少年团送花篮了",
+      "onboard_time": 1763905102,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 223055,
@@ -1051,6 +1075,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197695,
+      "num": 197695,
+      "word": "华晨宇 你这是危言耸听那姐",
+      "onboard_time": 1763904141,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195999,
       "num": 195999,
       "word": "张真源今天还在彩排",
@@ -1065,6 +1097,22 @@
       "onboard_time": 1763812702,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193678,
+      "num": 193678,
+      "word": "每天练背3分钟真的会瘦脸",
+      "onboard_time": 1763896820,
+      "rank": 46,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 191979,
+      "num": 415398,
+      "word": "TTG清清断开连接",
+      "onboard_time": 1763905043,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 191125,
@@ -1091,12 +1139,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189951,
-      "num": 189951,
-      "word": "每天练背3分钟真的会瘦脸",
-      "onboard_time": 1763896820,
-      "rank": 46,
-      "category": "运动健身"
+      "raw_hot": 189066,
+      "num": 400178,
+      "word": "侯英超说马龙陈梦樊振东是定海神针",
+      "onboard_time": 1763903121,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 188937,
@@ -1113,14 +1161,6 @@
       "onboard_time": 1763880141,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 188803,
-      "num": 200908,
-      "word": "侯英超说马龙陈梦樊振东是定海神针",
-      "onboard_time": 1763903121,
-      "rank": 7,
-      "category": "体育"
     },
     {
       "raw_hot": 188400,
@@ -1171,20 +1211,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 184022,
+      "num": 184022,
+      "word": "娜扎新疆舞一出秒杀比赛",
+      "onboard_time": 1763903001,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183875,
       "num": 150415,
       "word": "一年备孕未成功算是不孕吗",
       "onboard_time": 1763876181,
       "rank": 31,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 181179,
-      "num": 181179,
-      "word": "张真源重现提裤子名场面",
-      "onboard_time": 1763904561,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 179536,
@@ -1371,14 +1411,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 152434,
-      "num": 152434,
-      "word": "华晨宇 你这是危言耸听那姐",
-      "onboard_time": 1763904141,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 152198,
       "num": 137174,
       "word": "唐朝诡事录",
@@ -1425,6 +1457,14 @@
       "onboard_time": 1763890099,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146738,
+      "num": 146738,
+      "word": "汪苏泷黄龄这下真撞脸了",
+      "onboard_time": 1763904682,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 145039,
@@ -1475,14 +1515,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 140561,
-      "num": 140561,
-      "word": "娜扎新疆舞一出秒杀比赛",
-      "onboard_time": 1763903001,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 139883,
       "num": 139883,
       "word": "王楚钦说成都见",
@@ -1513,6 +1545,14 @@
       "onboard_time": 1763854277,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137925,
+      "num": 703085,
+      "word": "摩尔线程将成国产GPU第一股",
+      "onboard_time": 1763901981,
+      "rank": 7,
+      "category": "财经"
     },
     {
       "raw_hot": 137699,
@@ -1643,6 +1683,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 125541,
+      "num": 146766,
+      "word": "迪丽热巴第一次听这点粉丝啊",
+      "onboard_time": 1763904262,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 125367,
       "num": 125367,
       "word": "日本网友说高市早苗轻浮到极致",
@@ -1651,19 +1699,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 125295,
-      "num": 703085,
-      "word": "摩尔线程将成国产GPU第一股",
-      "onboard_time": 1763901981,
-      "rank": 7,
-      "category": "财经"
-    },
-    {
       "raw_hot": 125255,
       "num": 116823,
       "word": "乒乓球今年还有三项大赛",
       "onboard_time": 1763880201,
       "rank": 35,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 123810,
+      "num": 261884,
+      "word": "樊振东核心力量有多强",
+      "onboard_time": 1763904622,
+      "rank": 18,
       "category": "体育"
     },
     {
@@ -1739,14 +1787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 115687,
-      "num": 115687,
-      "word": "直播网红批量撤离杭州",
-      "onboard_time": 1763904501,
-      "rank": 45,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 114905,
       "num": 114905,
       "word": "eStar转会公告",
@@ -1777,6 +1817,14 @@
       "onboard_time": 1763864960,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113914,
+      "num": 113914,
+      "word": "原来HR知道你在偷偷找工作",
+      "onboard_time": 1763902643,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 113892,
@@ -2115,14 +2163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96678,
-      "num": 145642,
-      "word": "迪丽热巴第一次听这点粉丝啊",
-      "onboard_time": 1763904262,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 96239,
       "num": 96239,
       "word": "汪苏泷苏有朋真的不考虑演部戏吗",
@@ -2259,6 +2299,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92057,
+      "num": 255538,
+      "word": "12岁失联双胞胎姐妹已找到",
+      "onboard_time": 1763904202,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 89793,
       "num": 89793,
       "word": "东京民众抗议称因高市才有事",
@@ -2328,6 +2376,14 @@
       "word": "小区55%居民欠物业费电梯年检不起",
       "onboard_time": 1763858059,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85267,
+      "num": 149283,
+      "word": "机关单位食堂开放渐成趋势",
+      "onboard_time": 1763903722,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -2611,14 +2667,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53301,
-      "num": 149283,
-      "word": "机关单位食堂开放渐成趋势",
-      "onboard_time": 1763903722,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52958,
       "num": 115690,
       "word": "馆长说日本一定会让步",
@@ -2651,14 +2699,6 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 48074,
-      "num": 199371,
-      "word": "12岁失联双胞胎姐妹已找到",
-      "onboard_time": 1763904202,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47885,
       "num": 117860,
       "word": "英国男子躲垃圾箱取暖被垃圾车碾死",
@@ -2667,12 +2707,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 47258,
+      "num": 146841,
+      "word": "云南彝良成立调查组",
+      "onboard_time": 1763904322,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46920,
       "num": 107380,
       "word": "最快护士张水华马拉松再夺冠",
       "onboard_time": 1763882901,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46524,
+      "num": 616531,
+      "word": "这26秒科技感直接拉满",
+      "onboard_time": 1763904262,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46460,
@@ -2689,14 +2745,6 @@
       "onboard_time": 1763872340,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 45281,
-      "num": 146841,
-      "word": "云南彝良成立调查组",
-      "onboard_time": 1763904322,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43376,
@@ -2907,6 +2955,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 23252,
+      "num": 147359,
+      "word": "当地连夜处置山谷百米露天垃圾池",
+      "onboard_time": 1763904202,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22582,
       "num": 119912,
       "word": "大妈跳广场舞居民放鞭炮回击",
@@ -2963,14 +3019,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 15779,
-      "num": 147359,
-      "word": "当地连夜处置山谷百米露天垃圾池",
-      "onboard_time": 1763904202,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 15399,
       "num": 142469,
       "word": "多方就美结束俄乌冲突新计划发声明",
@@ -3001,14 +3049,6 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
-    },
-    {
-      "raw_hot": 12232,
-      "num": 534557,
-      "word": "这26秒科技感直接拉满",
-      "onboard_time": 1763904262,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 5956,
