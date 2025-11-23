@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 13:26:41
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 13:41:59
 </p>
 </blockquote>
 <p>
@@ -2967,6 +2967,12 @@ AG对战狼队（热度：725111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E6%89%BF%E8%AE%A4%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9C%81%23" target="weibo">
+全世界都承认台湾是中国的一个省（热度：717381）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%85%A8%E8%BF%90%E4%BC%9A%E7%AC%AC2%E9%87%91%23" target="weibo">
 王楚钦全运会第2金（热度：717333）
 </a>
@@ -4535,12 +4541,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%A4%9A%E4%B8%AA%E8%A1%8C%E4%B8%9A%E4%B8%BA%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%B9%B0%E5%8D%95%23" target="weibo">
 日本多个行业为高市早苗买单（热度：574639）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E4%B8%96%E7%95%8C%E9%83%BD%E6%89%BF%E8%AE%A4%E5%8F%B0%E6%B9%BE%E6%98%AF%E4%B8%AD%E5%9B%BD%E7%9A%84%E4%B8%80%E4%B8%AA%E7%9C%81%23" target="weibo">
-全世界都承认台湾是中国的一个省（热度：574454）
 </a>
 </li>
 

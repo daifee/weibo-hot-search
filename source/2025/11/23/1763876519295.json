@@ -1,0 +1,410 @@
+{
+  "runTime": 1763876519295,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 717381,
+        "num": 1114781,
+        "word": "全世界都承认台湾是中国的一个省",
+        "onboard_time": 1763871081,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 330666,
+        "num": 330666,
+        "word": "西贝降价",
+        "onboard_time": 1763864901,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 3066,
+        "num": 268208,
+        "word": "华龙一号又有新贡献",
+        "onboard_time": 1763807421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 241827,
+        "num": 241827,
+        "word": "中国双拳痛击日本",
+        "onboard_time": 1763868380,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227665,
+        "num": 227665,
+        "word": "云南一山谷惊现百米露天垃圾池",
+        "onboard_time": 1763869580,
+        "rank": 4,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 320279,
+        "num": 227489,
+        "word": "现在就出发",
+        "onboard_time": 1763873001,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212946,
+        "num": 212946,
+        "word": "毒唯脱粉后决定自己出道",
+        "onboard_time": 1763876421,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206728,
+        "num": 206728,
+        "word": "北大祝贺王楚钦夺冠",
+        "onboard_time": 1763869279,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180737,
+        "num": 180737,
+        "word": "恋与王男",
+        "onboard_time": 1763869520,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177813,
+        "num": 177813,
+        "word": "中国火箭军假如战争今天爆发",
+        "onboard_time": 1763867061,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 454009,
+        "num": 175251,
+        "word": "沈月大大方方地瞒住了所有人",
+        "onboard_time": 1763863941,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274961,
+        "num": 172339,
+        "word": "丈夫说车祸遇难女子晚半小时就好了",
+        "onboard_time": 1763867541,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273155,
+        "num": 166486,
+        "word": "唐诡奇谭之长安县尉",
+        "onboard_time": 1763871201,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261953,
+        "num": 162444,
+        "word": "枭起青壤",
+        "onboard_time": 1763874440,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244127,
+        "num": 157496,
+        "word": "胡彦斌新歌",
+        "onboard_time": 1763871440,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 222655,
+        "num": 149049,
+        "word": "吃了一年胡椒粉原来是墙灰",
+        "onboard_time": 1763865320,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 222601,
+        "num": 147846,
+        "word": "新疆小孩生下来就是雄鹰啊",
+        "onboard_time": 1763866881,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 143798,
+        "num": 143798,
+        "word": "日本若执意挑衅必将求战得战",
+        "onboard_time": 1763867180,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 198752,
+        "num": 143495,
+        "word": "自助偷甘蔗农场爆火后老板真没招了",
+        "onboard_time": 1763874321,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15399,
+        "num": 142469,
+        "word": "多方就美结束俄乌冲突新计划发声明",
+        "onboard_time": 1763876181,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1781449,
+        "num": 141936,
+        "word": "唐嫣父亲参加罗晋父亲葬礼",
+        "onboard_time": 1763867180,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 528747,
+        "num": 140656,
+        "word": "疑似王心凌吴克群恋情",
+        "onboard_time": 1763866881,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285788,
+        "num": 140290,
+        "word": "日本早已制定三套夺岛方案",
+        "onboard_time": 1763870062,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 179536,
+        "num": 139381,
+        "word": "原来肖战得闲谨制是智斗片",
+        "onboard_time": 1763874560,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 262799,
+        "num": 138479,
+        "word": "杨幂发了谢罪与不战和平之碑",
+        "onboard_time": 1763865800,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137883,
+        "num": 137883,
+        "word": "山寨山姆挤满了想花钱的县城中产",
+        "onboard_time": 1763875042,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165393,
+        "num": 137636,
+        "word": "男子抛下孕妻高速停车掏马蜂窝被罚",
+        "onboard_time": 1763868681,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152198,
+        "num": 137174,
+        "word": "唐朝诡事录",
+        "onboard_time": 1763871141,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136278,
+        "num": 136278,
+        "word": "警方回应印度旅游团义乌偷东西",
+        "onboard_time": 1763875640,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131040,
+        "num": 131040,
+        "word": "男子半裸拍临时身份证照当场社死",
+        "onboard_time": 1763862320,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223055,
+        "num": 130697,
+        "word": "Beichuan取关BLG轮换队友",
+        "onboard_time": 1763876300,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 171131,
+        "num": 130533,
+        "word": "一年备孕未成功算是不孕吗",
+        "onboard_time": 1763876181,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129713,
+        "num": 129713,
+        "word": "被姥姥梳成瘦猫",
+        "onboard_time": 1763873601,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128770,
+        "num": 128770,
+        "word": "巴基斯坦防长哀悼印坠毁战机飞行员",
+        "onboard_time": 1763875640,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127311,
+        "num": 127311,
+        "word": "德国一家四口度假身亡疑农药中毒",
+        "onboard_time": 1763871681,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127081,
+        "num": 127081,
+        "word": "不敢想她的地理成绩高到什么程度了",
+        "onboard_time": 1763873240,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122659,
+        "num": 122659,
+        "word": "书法大赛奖金50万特等奖被取消",
+        "onboard_time": 1763873541,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118135,
+        "num": 118135,
+        "word": "歌手孙悦因家人离世取消演出",
+        "onboard_time": 1763868981,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114747,
+        "num": 114747,
+        "word": "这是真看到男菩萨了",
+        "onboard_time": 1763875400,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84710,
+        "num": 113624,
+        "word": "陈星旭在迪丽热巴面前快夹成卡车了",
+        "onboard_time": 1763876240,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113616,
+        "num": 113616,
+        "word": "经常熬夜身体会发臭",
+        "onboard_time": 1763872282,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 104231,
+        "num": 104231,
+        "word": "胡先煦王安宇一个害羞一个爱秀",
+        "onboard_time": 1763874499,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108256,
+        "num": 104221,
+        "word": "罗志祥自嘲看完新书想呕吐",
+        "onboard_time": 1763875280,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104210,
+        "num": 104210,
+        "word": "建议磁场较弱的人去看一场演唱会",
+        "onboard_time": 1763876481,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97877,
+        "num": 97877,
+        "word": "北京一男子醉驾电动车连摔6次身亡",
+        "onboard_time": 1763866040,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96239,
+        "num": 96239,
+        "word": "汪苏泷苏有朋真的不考虑演部戏吗",
+        "onboard_time": 1763875880,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95089,
+        "num": 95089,
+        "word": "邓亚萍谈全运会后乒乓球主力之争",
+        "onboard_time": 1763874620,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 94907,
+        "num": 94907,
+        "word": "王霏霏感谢章子怡是恩师更是榜样",
+        "onboard_time": 1763873001,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43307,
+        "num": 92764,
+        "word": "看护外婆拖住了我们全家",
+        "onboard_time": 1763874861,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92065,
+        "num": 92065,
+        "word": "一只狸花压海棠",
+        "onboard_time": 1763872941,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#把发展蓝图变为美好现实#"
+    }
+  }
+}

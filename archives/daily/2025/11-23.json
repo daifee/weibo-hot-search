@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763875601179,
+  "endTime": 1763876519295,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -51,6 +51,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 717381,
+      "num": 1114781,
+      "word": "全世界都承认台湾是中国的一个省",
+      "onboard_time": 1763871081,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 630382,
       "num": 355344,
       "word": "香蜜转场又火了",
@@ -81,14 +89,6 @@
       "onboard_time": 1763862320,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 574454,
-      "num": 1091912,
-      "word": "全世界都承认台湾是中国的一个省",
-      "onboard_time": 1763871081,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 535144,
@@ -235,6 +235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320279,
+      "num": 227489,
+      "word": "现在就出发",
+      "onboard_time": 1763873001,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 317390,
       "num": 317390,
       "word": "云南一山谷惊现百米露天垃圾池",
@@ -379,14 +387,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 244322,
-      "num": 160259,
-      "word": "现在就出发",
-      "onboard_time": 1763873001,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 242992,
       "num": 242992,
       "word": "恋与王男",
@@ -401,6 +401,14 @@
       "onboard_time": 1763822182,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 223055,
+      "num": 130697,
+      "word": "Beichuan取关BLG轮换队友",
+      "onboard_time": 1763876300,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 217779,
@@ -433,6 +441,14 @@
       "onboard_time": 1763868261,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 212946,
+      "num": 212946,
+      "word": "毒唯脱粉后决定自己出道",
+      "onboard_time": 1763876421,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 211671,
@@ -475,6 +491,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 198752,
+      "num": 150187,
+      "word": "自助偷甘蔗农场爆火后老板真没招了",
+      "onboard_time": 1763874321,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 194357,
       "num": 355700,
       "word": "许我耀眼热度",
@@ -515,8 +539,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 177478,
-      "num": 177478,
+      "raw_hot": 179536,
+      "num": 150995,
+      "word": "原来肖战得闲谨制是智斗片",
+      "onboard_time": 1763874560,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 177813,
+      "num": 177813,
       "word": "中国火箭军假如战争今天爆发",
       "onboard_time": 1763867061,
       "rank": 33,
@@ -561,6 +593,14 @@
       "onboard_time": 1763813902,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 171131,
+      "num": 130533,
+      "word": "一年备孕未成功算是不孕吗",
+      "onboard_time": 1763876181,
+      "rank": 31,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 166454,
@@ -611,20 +651,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150995,
-      "num": 150995,
-      "word": "原来肖战得闲谨制是智斗片",
-      "onboard_time": 1763874560,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 150187,
-      "num": 150187,
-      "word": "自助偷甘蔗农场爆火后老板真没招了",
-      "onboard_time": 1763874321,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 152198,
+      "num": 137174,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763871141,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 149956,
@@ -675,12 +707,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136157,
-      "num": 136157,
-      "word": "唐朝诡事录",
-      "onboard_time": 1763871141,
+      "raw_hot": 137883,
+      "num": 150952,
+      "word": "山寨山姆挤满了想花钱的县城中产",
+      "onboard_time": 1763875042,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136278,
+      "num": 136278,
+      "word": "警方回应印度旅游团义乌偷东西",
+      "onboard_time": 1763875640,
       "rank": 28,
-      "category": "剧集"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130287,
@@ -699,20 +739,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 128770,
+      "num": 128770,
+      "word": "巴基斯坦防长哀悼印坠毁战机飞行员",
+      "onboard_time": 1763875640,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 127081,
+      "num": 127081,
+      "word": "不敢想她的地理成绩高到什么程度了",
+      "onboard_time": 1763873240,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 126673,
       "num": 242943,
       "word": "刘耀文问丁程鑫谁是你最爱的弟弟",
       "onboard_time": 1763816482,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 122806,
-      "num": 122806,
-      "word": "不敢想她的地理成绩高到什么程度了",
-      "onboard_time": 1763873240,
-      "rank": 46,
-      "category": "情感"
     },
     {
       "raw_hot": 121809,
@@ -771,6 +819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114747,
+      "num": 114747,
+      "word": "这是真看到男菩萨了",
+      "onboard_time": 1763875400,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114691,
       "num": 114691,
       "word": "女子称因1楼住户反对无法装电梯",
@@ -785,6 +841,14 @@
       "onboard_time": 1763812822,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113616,
+      "num": 113616,
+      "word": "经常熬夜身体会发臭",
+      "onboard_time": 1763872282,
+      "rank": 37,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 113542,
@@ -827,14 +891,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110257,
-      "num": 110257,
-      "word": "经常熬夜身体会发臭",
-      "onboard_time": 1763872282,
-      "rank": 37,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 108763,
       "num": 108763,
       "word": "迪丽热巴陈星旭九字真炎",
@@ -849,14 +905,6 @@
       "onboard_time": 1763826022,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108034,
-      "num": 108034,
-      "word": "这是真看到男菩萨了",
-      "onboard_time": 1763875400,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 107370,
@@ -907,6 +955,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 104210,
+      "num": 104210,
+      "word": "建议磁场较弱的人去看一场演唱会",
+      "onboard_time": 1763876481,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100468,
       "num": 100468,
       "word": "某某组就是最好的",
@@ -945,6 +1001,14 @@
       "onboard_time": 1763808800,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96239,
+      "num": 96239,
+      "word": "汪苏泷苏有朋真的不考虑演部戏吗",
+      "onboard_time": 1763875880,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 95964,
@@ -1059,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 84710,
+      "num": 113624,
+      "word": "陈星旭在迪丽热巴面前快夹成卡车了",
+      "onboard_time": 1763876240,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 82848,
       "num": 161659,
       "word": "白宫怒批CNN彻头彻尾假新闻",
@@ -1161,14 +1233,6 @@
       "onboard_time": 1763830459,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 69156,
-      "num": 150952,
-      "word": "山寨山姆挤满了想花钱的县城中产",
-      "onboard_time": 1763875042,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67256,
@@ -1283,6 +1347,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 43307,
+      "num": 111074,
+      "word": "看护外婆拖住了我们全家",
+      "onboard_time": 1763874861,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40275,
       "num": 240096,
       "word": "偷甘蔗爆火巡逻小狗已累瘫",
@@ -1305,14 +1377,6 @@
       "onboard_time": 1763800581,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 35744,
-      "num": 111074,
-      "word": "看护外婆拖住了我们全家",
-      "onboard_time": 1763874861,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 33628,
@@ -1417,6 +1481,14 @@
       "onboard_time": 1763842994,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 15399,
+      "num": 142469,
+      "word": "多方就美结束俄乌冲突新计划发声明",
+      "onboard_time": 1763876181,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 13816,
