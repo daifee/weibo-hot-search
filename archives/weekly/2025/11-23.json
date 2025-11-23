@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763872861420,
+  "endTime": 1763873555468,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 841871,
-      "num": 193985,
+      "num": 214461,
       "word": "沈月大大方方地瞒住了所有人",
       "onboard_time": 1763863941,
       "rank": 10,
@@ -147,20 +147,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 381360,
+      "num": 159270,
+      "word": "日本早已制定三套夺岛方案",
+      "onboard_time": 1763870062,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 370883,
+      "num": 370883,
+      "word": "北大祝贺王楚钦夺冠",
+      "onboard_time": 1763869279,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 368350,
       "num": 158943,
       "word": "杨幂发了谢罪与不战和平之碑",
       "onboard_time": 1763865800,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 367046,
-      "num": 367046,
-      "word": "北大祝贺王楚钦夺冠",
-      "onboard_time": 1763869279,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 357894,
@@ -195,12 +203,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 346603,
-      "num": 159270,
-      "word": "日本早已制定三套夺岛方案",
-      "onboard_time": 1763870062,
-      "rank": 38,
-      "category": "国内时政"
+      "raw_hot": 349484,
+      "num": 301842,
+      "word": "唐诡奇谭之长安县尉",
+      "onboard_time": 1763871201,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 343748,
@@ -211,12 +219,20 @@
       "category": "艺人,民生新闻"
     },
     {
-      "raw_hot": 326479,
-      "num": 254081,
-      "word": "唐诡奇谭之长安县尉",
-      "onboard_time": 1763871201,
+      "raw_hot": 329158,
+      "num": 208004,
+      "word": "丈夫说车祸遇难女子晚半小时就好了",
+      "onboard_time": 1763867541,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311485,
+      "num": 311485,
+      "word": "中国双拳痛击日本",
+      "onboard_time": 1763868380,
       "rank": 5,
-      "category": "剧集"
+      "category": "国内时政"
     },
     {
       "raw_hot": 309447,
@@ -227,20 +243,36 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 298756,
-      "num": 192284,
-      "word": "丈夫说车祸遇难女子晚半小时就好了",
-      "onboard_time": 1763867541,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 303439,
+      "num": 303439,
+      "word": "云南一山谷惊现百米露天垃圾池",
+      "onboard_time": 1763869580,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
-      "raw_hot": 282107,
-      "num": 190689,
+      "raw_hot": 292144,
+      "num": 198411,
       "word": "胡彦斌新歌",
       "onboard_time": 1763871440,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 288173,
+      "num": 288173,
+      "word": "全世界都承认台湾是中国的一个省",
+      "onboard_time": 1763871081,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 284032,
+      "num": 188216,
+      "word": "新疆小孩生下来就是雄鹰啊",
+      "onboard_time": 1763866881,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 279057,
@@ -249,14 +281,6 @@
       "onboard_time": 1763866040,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 278070,
-      "num": 188216,
-      "word": "新疆小孩生下来就是雄鹰啊",
-      "onboard_time": 1763866881,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 275977,
@@ -323,28 +347,12 @@
       "category": "互联网,民生新闻"
     },
     {
-      "raw_hot": 255176,
-      "num": 255176,
-      "word": "中国双拳痛击日本",
-      "onboard_time": 1763868380,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 249927,
       "num": 157729,
       "word": "升降台故障丁程鑫冷脸",
       "onboard_time": 1763864960,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 249281,
-      "num": 249281,
-      "word": "全世界都承认台湾是中国的一个省",
-      "onboard_time": 1763871081,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 248642,
@@ -371,8 +379,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 235949,
-      "num": 235949,
+      "raw_hot": 242992,
+      "num": 242992,
       "word": "恋与王男",
       "onboard_time": 1763869520,
       "rank": 27,
@@ -404,7 +412,7 @@
     },
     {
       "raw_hot": 213785,
-      "num": 162463,
+      "num": 170681,
       "word": "歌手孙悦因家人离世取消演出",
       "onboard_time": 1763868981,
       "rank": 15,
@@ -457,14 +465,6 @@
       "onboard_time": 1763858180,
       "rank": 24,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 197982,
-      "num": 197982,
-      "word": "云南一山谷惊现百米露天垃圾池",
-      "onboard_time": 1763869580,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 194357,
@@ -563,6 +563,38 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161697,
+      "num": 138447,
+      "word": "小酒窝张维伊张小婉跳库里之歌",
+      "onboard_time": 1763872222,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161561,
+      "num": 123863,
+      "word": "王霏霏感谢章子怡是恩师更是榜样",
+      "onboard_time": 1763873001,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160259,
+      "num": 160259,
+      "word": "现在就出发",
+      "onboard_time": 1763873001,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 155006,
+      "num": 122713,
+      "word": "德国一家四口度假身亡疑农药中毒",
+      "onboard_time": 1763871681,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154805,
       "num": 243958,
       "word": "液断7天瘦了13.2斤",
@@ -603,19 +635,19 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 138191,
-      "num": 120137,
-      "word": "小酒窝张维伊张小婉跳库里之歌",
-      "onboard_time": 1763872222,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 136625,
+      "raw_hot": 138006,
       "num": 158097,
       "word": "香蜜沉沉烬如霜",
       "onboard_time": 1763854277,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 136157,
+      "num": 136157,
+      "word": "唐朝诡事录",
+      "onboard_time": 1763871141,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -633,22 +665,6 @@
       "onboard_time": 1763816482,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 124898,
-      "num": 119928,
-      "word": "德国一家四口度假身亡疑农药中毒",
-      "onboard_time": 1763871681,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 124155,
-      "num": 124155,
-      "word": "唐朝诡事录",
-      "onboard_time": 1763871141,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 121809,
@@ -739,20 +755,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110257,
+      "num": 110257,
+      "word": "经常熬夜身体会发臭",
+      "onboard_time": 1763872282,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108763,
+      "num": 108763,
+      "word": "迪丽热巴陈星旭九字真炎",
+      "onboard_time": 1763868500,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108562,
       "num": 241955,
       "word": "存款百万觉得生活没意思涉赌被抓",
       "onboard_time": 1763826022,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107981,
-      "num": 107981,
-      "word": "经常熬夜身体会发臭",
-      "onboard_time": 1763872282,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 107370,
@@ -795,12 +819,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 102162,
-      "num": 102162,
-      "word": "迪丽热巴陈星旭九字真炎",
-      "onboard_time": 1763868500,
+      "raw_hot": 101006,
+      "num": 101006,
+      "word": "不敢想她的地理成绩高到什么程度了",
+      "onboard_time": 1763873240,
       "rank": 46,
-      "category": "剧集"
+      "category": "情感"
     },
     {
       "raw_hot": 100468,
@@ -809,6 +833,22 @@
       "onboard_time": 1763867541,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 100045,
+      "num": 100045,
+      "word": "何炅的工伤那英全责",
+      "onboard_time": 1763873421,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 98903,
+      "num": 98903,
+      "word": "一只狸花压海棠",
+      "onboard_time": 1763872941,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 98498,
@@ -939,6 +979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82848,
+      "num": 161659,
+      "word": "白宫怒批CNN彻头彻尾假新闻",
+      "onboard_time": 1763872340,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82661,
       "num": 241024,
       "word": "枭起青壤 突脸",
@@ -971,6 +1019,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79560,
+      "num": 109747,
+      "word": "巨型吊牌比脸还大",
+      "onboard_time": 1763873421,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78747,
       "num": 78747,
       "word": "看边牧怎么把鸭子黑白分开",
@@ -1001,6 +1057,14 @@
       "onboard_time": 1763862139,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74078,
+      "num": 109955,
+      "word": "曝Poppy加入TES",
+      "onboard_time": 1763873301,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 74008,
@@ -1123,8 +1187,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 44924,
-      "num": 104975,
+      "raw_hot": 45919,
+      "num": 109159,
       "word": "博格巴复出",
       "onboard_time": 1763872340,
       "rank": 39,
@@ -1161,14 +1225,6 @@
       "onboard_time": 1763800581,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 35014,
-      "num": 161659,
-      "word": "白宫怒批CNN彻头彻尾假新闻",
-      "onboard_time": 1763872340,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33628,
@@ -1283,8 +1339,16 @@
       "category": "其它"
     },
     {
+      "raw_hot": 10980,
+      "num": 109595,
+      "word": "书法大赛奖金50万特等奖被取消",
+      "onboard_time": 1763873541,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5956,
-      "num": 271406,
+      "num": 317352,
       "word": "华龙一号又有新贡献",
       "onboard_time": 1763807421,
       "rank": 2,

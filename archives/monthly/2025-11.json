@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763872861420,
+  "endTime": 1763873555468,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2876,7 +2876,7 @@
     },
     {
       "raw_hot": 841871,
-      "num": 193985,
+      "num": 214461,
       "word": "沈月大大方方地瞒住了所有人",
       "onboard_time": 1763863941,
       "rank": 10,
@@ -11163,6 +11163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 381360,
+      "num": 159270,
+      "word": "日本早已制定三套夺岛方案",
+      "onboard_time": 1763870062,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 381172,
       "num": 381172,
       "word": "王者第一个五杀的英雄",
@@ -11563,6 +11571,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 370883,
+      "num": 370883,
+      "word": "北大祝贺王楚钦夺冠",
+      "onboard_time": 1763869279,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 370876,
       "num": 370876,
       "word": "樊振东十五运4强",
@@ -11641,14 +11657,6 @@
       "onboard_time": 1762298178,
       "rank": 13,
       "category": "电影"
-    },
-    {
-      "raw_hot": 367046,
-      "num": 367046,
-      "word": "北大祝贺王楚钦夺冠",
-      "onboard_time": 1763869279,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 366799,
@@ -12507,6 +12515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 349484,
+      "num": 301842,
+      "word": "唐诡奇谭之长安县尉",
+      "onboard_time": 1763871201,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348797,
       "num": 242635,
       "word": "涉女婴手术死亡医生被曝过往纠纷",
@@ -12553,14 +12569,6 @@
       "onboard_time": 1763304143,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 346603,
-      "num": 159270,
-      "word": "日本早已制定三套夺岛方案",
-      "onboard_time": 1763870062,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 346460,
@@ -13459,6 +13467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329158,
+      "num": 208004,
+      "word": "丈夫说车祸遇难女子晚半小时就好了",
+      "onboard_time": 1763867541,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 329024,
       "num": 244587,
       "word": "孙颖莎忘记还有团体赛要打",
@@ -13529,14 +13545,6 @@
       "onboard_time": 1763796260,
       "rank": 40,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 326479,
-      "num": 254081,
-      "word": "唐诡奇谭之长安县尉",
-      "onboard_time": 1763871201,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 326215,
@@ -14171,6 +14179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 311485,
+      "num": 311485,
+      "word": "中国双拳痛击日本",
+      "onboard_time": 1763868380,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 311420,
       "num": 311420,
       "word": "龙蟒",
@@ -14643,6 +14659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303439,
+      "num": 303439,
+      "word": "云南一山谷惊现百米露天垃圾池",
+      "onboard_time": 1763869580,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 303375,
       "num": 229902,
       "word": "山东人蒸大馒头研究出了透明馒头",
@@ -15011,14 +15035,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 298756,
-      "num": 192284,
-      "word": "丈夫说车祸遇难女子晚半小时就好了",
-      "onboard_time": 1763867541,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 298620,
       "num": 225549,
       "word": "薛之谦 认真的雪",
@@ -15379,6 +15395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 292144,
+      "num": 198411,
+      "word": "胡彦斌新歌",
+      "onboard_time": 1763871440,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 291758,
       "num": 234433,
       "word": "赵子豪祝贺樊振东夺冠",
@@ -15595,6 +15619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 288173,
+      "num": 288173,
+      "word": "全世界都承认台湾是中国的一个省",
+      "onboard_time": 1763871081,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 287969,
       "num": 287969,
       "word": "孙杨自由泳接力",
@@ -15795,6 +15827,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 284032,
+      "num": 188216,
+      "word": "新疆小孩生下来就是雄鹰啊",
+      "onboard_time": 1763866881,
+      "rank": 32,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 283912,
       "num": 283912,
       "word": "陈梦4比0胜何卓佳",
@@ -15913,14 +15953,6 @@
       "onboard_time": 1763103980,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 282107,
-      "num": 190689,
-      "word": "胡彦斌新歌",
-      "onboard_time": 1763871440,
-      "rank": 12,
-      "category": "音乐"
     },
     {
       "raw_hot": 281685,
@@ -16177,14 +16209,6 @@
       "onboard_time": 1763119641,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 278070,
-      "num": 188216,
-      "word": "新疆小孩生下来就是雄鹰啊",
-      "onboard_time": 1763866881,
-      "rank": 32,
-      "category": "幽默"
     },
     {
       "raw_hot": 277986,
@@ -17667,14 +17691,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 255176,
-      "num": 255176,
-      "word": "中国双拳痛击日本",
-      "onboard_time": 1763868380,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 254969,
       "num": 254969,
       "word": "潘展乐全运会200自铜牌",
@@ -18075,14 +18091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 249281,
-      "num": 249281,
-      "word": "全世界都承认台湾是中国的一个省",
-      "onboard_time": 1763871081,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 249050,
       "num": 249050,
       "word": "普京作出最新涉华表态",
@@ -18393,6 +18401,14 @@
       "onboard_time": 1762744459,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 242992,
+      "num": 242992,
+      "word": "恋与王男",
+      "onboard_time": 1763869520,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 242982,
@@ -18913,14 +18929,6 @@
       "onboard_time": 1763712442,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 235949,
-      "num": 235949,
-      "word": "恋与王男",
-      "onboard_time": 1763869520,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 235883,
@@ -20788,7 +20796,7 @@
     },
     {
       "raw_hot": 213785,
-      "num": 162463,
+      "num": 170681,
       "word": "歌手孙悦因家人离世取消演出",
       "onboard_time": 1763868981,
       "rank": 15,
@@ -23025,14 +23033,6 @@
       "onboard_time": 1762769540,
       "rank": 6,
       "category": "演出"
-    },
-    {
-      "raw_hot": 197982,
-      "num": 197982,
-      "word": "云南一山谷惊现百米露天垃圾池",
-      "onboard_time": 1763869580,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 197965,
@@ -29819,6 +29819,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161697,
+      "num": 138447,
+      "word": "小酒窝张维伊张小婉跳库里之歌",
+      "onboard_time": 1763872222,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 161561,
+      "num": 123863,
+      "word": "王霏霏感谢章子怡是恩师更是榜样",
+      "onboard_time": 1763873001,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161560,
       "num": 161560,
       "word": "上海最贵的面vs上海最便宜的面",
@@ -31553,6 +31569,14 @@
       "onboard_time": 1763021779,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 155006,
+      "num": 122713,
+      "word": "德国一家四口度假身亡疑农药中毒",
+      "onboard_time": 1763871681,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 154924,
@@ -35907,14 +35931,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 138191,
-      "num": 120137,
-      "word": "小酒窝张维伊张小婉跳库里之歌",
-      "onboard_time": 1763872222,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138168,
       "num": 138168,
       "word": "邝玲玲到达武汉",
@@ -35985,6 +36001,14 @@
       "onboard_time": 1763205322,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 138006,
+      "num": 158097,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1763854277,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 137957,
@@ -36529,14 +36553,6 @@
       "onboard_time": 1762236800,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 136625,
-      "num": 158097,
-      "word": "香蜜沉沉烬如霜",
-      "onboard_time": 1763854277,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 136594,
@@ -40561,14 +40577,6 @@
       "onboard_time": 1762489582,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124898,
-      "num": 119928,
-      "word": "德国一家四口度假身亡疑农药中毒",
-      "onboard_time": 1763871681,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 124879,
@@ -46963,6 +46971,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110257,
+      "num": 110257,
+      "word": "经常熬夜身体会发臭",
+      "onboard_time": 1763872282,
+      "rank": 37,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 110238,
       "num": 140661,
       "word": "水龙吟剧粉开始人传人现象了",
@@ -47547,6 +47563,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108763,
+      "num": 108763,
+      "word": "迪丽热巴陈星旭九字真炎",
+      "onboard_time": 1763868500,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108758,
       "num": 150680,
       "word": "惠英红想要三金大满贯",
@@ -47985,14 +48009,6 @@
       "onboard_time": 1761978379,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 107981,
-      "num": 107981,
-      "word": "经常熬夜身体会发臭",
-      "onboard_time": 1763872282,
-      "rank": 37,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 107979,
@@ -51051,14 +51067,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102162,
-      "num": 102162,
-      "word": "迪丽热巴陈星旭九字真炎",
-      "onboard_time": 1763868500,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102140,
       "num": 102140,
       "word": "惊天魔盗团3这把太喜人了",
@@ -51643,6 +51651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101006,
+      "num": 101006,
+      "word": "不敢想她的地理成绩高到什么程度了",
+      "onboard_time": 1763873240,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 101003,
       "num": 101003,
       "word": "梁洁看得出她是公主",
@@ -52177,6 +52193,14 @@
       "onboard_time": 1763181500,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 100045,
+      "num": 100045,
+      "word": "何炅的工伤那英全责",
+      "onboard_time": 1763873421,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 100036,
@@ -52777,6 +52801,14 @@
       "onboard_time": 1762406721,
       "rank": 49,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 98903,
+      "num": 98903,
+      "word": "一只狸花压海棠",
+      "onboard_time": 1763872941,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 98892,
@@ -61579,6 +61611,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 82848,
+      "num": 161659,
+      "word": "白宫怒批CNN彻头彻尾假新闻",
+      "onboard_time": 1763872340,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82833,
       "num": 82833,
       "word": "张晚意 造次完最害怕的一次",
@@ -62929,6 +62969,14 @@
       "onboard_time": 1763161697,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79560,
+      "num": 109747,
+      "word": "巨型吊牌比脸还大",
+      "onboard_time": 1763873421,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 79547,
@@ -65009,6 +65057,14 @@
       "onboard_time": 1761980241,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 74078,
+      "num": 109955,
+      "word": "曝Poppy加入TES",
+      "onboard_time": 1763873301,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 74070,
@@ -72387,6 +72443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 45919,
+      "num": 109159,
+      "word": "博格巴复出",
+      "onboard_time": 1763872340,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 45899,
       "num": 105524,
       "word": "Gumayusi趣评oner蒙多",
@@ -72617,14 +72681,6 @@
       "onboard_time": 1762639513,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 44924,
-      "num": 104975,
-      "word": "博格巴复出",
-      "onboard_time": 1763872340,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 44905,
@@ -75001,14 +75057,6 @@
       "onboard_time": 1762237160,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35014,
-      "num": 161659,
-      "word": "白宫怒批CNN彻头彻尾假新闻",
-      "onboard_time": 1763872340,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34962,
@@ -80305,6 +80353,14 @@
       "onboard_time": 1762571540,
       "rank": 39,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 10980,
+      "num": 109595,
+      "word": "书法大赛奖金50万特等奖被取消",
+      "onboard_time": 1763873541,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10964,
