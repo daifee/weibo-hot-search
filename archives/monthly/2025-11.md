@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 07:25:04
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 07:38:58
 </p>
 </blockquote>
 <p>
@@ -4467,6 +4467,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E5%A6%87%E7%A7%91%E6%A3%80%E6%9F%A5%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E9%AA%82%E5%93%AD%E4%BA%86%23" target="weibo">
+做妇科检查女生被医生骂哭了（热度：589357）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%85%81%20%E5%A4%A9%E4%BA%AE%E4%BA%86%23" target="weibo">
 林允 天亮了（热度：588632）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%83%8C%E6%8C%BA%E7%9B%B4%E5%88%AB%E9%A9%BC%E8%83%8C%23" target="weibo">
 把背挺直别驼背（热度：493999）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E5%BE%90%E8%89%BA%E6%B4%8B%E6%88%B4%E4%BA%86%E6%97%A0%E7%89%99%E4%BB%94%E6%83%85%E4%BE%A3%E5%A4%B4%E5%A5%97%23" target="weibo">
-黄子韬徐艺洋戴了无牙仔情侣头套（热度：493772）
 </a>
 </li>
 

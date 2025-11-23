@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763940304610,
+  "endTime": 1763941138530,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -217,6 +217,14 @@
       "onboard_time": 1763886501,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 589357,
+      "num": 164486,
+      "word": "做妇科检查女生被医生骂哭了",
+      "onboard_time": 1763940678,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 578308,
@@ -620,7 +628,7 @@
     },
     {
       "raw_hot": 330788,
-      "num": 140854,
+      "num": 160882,
       "word": "丈夫用甲醛泡发毛肚妻子售卖双双获刑",
       "onboard_time": 1763915538,
       "rank": 34,
@@ -659,6 +667,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321270,
+      "num": 876472,
+      "word": "网红手作玩具 健康刺客",
+      "onboard_time": 1763911582,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 320279,
       "num": 227489,
       "word": "现在就出发",
@@ -681,6 +697,14 @@
       "onboard_time": 1763905102,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 315397,
+      "num": 315397,
+      "word": "高市早苗尬笑",
+      "onboard_time": 1763940739,
+      "rank": 1,
+      "category": "国际时政"
     },
     {
       "raw_hot": 311485,
@@ -713,14 +737,6 @@
       "onboard_time": 1763876421,
       "rank": 6,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 303445,
-      "num": 765963,
-      "word": "网红手作玩具 健康刺客",
-      "onboard_time": 1763911582,
-      "rank": 18,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 302904,
@@ -2123,6 +2139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114330,
+      "num": 114330,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 114215,
+      "num": 114215,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 114136,
       "num": 114136,
       "word": "刷自己朋友圈的几种情况",
@@ -2249,6 +2281,14 @@
       "onboard_time": 1763857699,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110247,
+      "num": 110247,
+      "word": "杨紫又一个大女主戏待播",
+      "onboard_time": 1763940079,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 109270,
@@ -2403,14 +2443,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103145,
-      "num": 103145,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 102939,
       "num": 102939,
       "word": "KSG打狼队",
@@ -2457,6 +2489,14 @@
       "onboard_time": 1763915359,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99709,
+      "num": 173505,
+      "word": "国考",
+      "onboard_time": 1763938997,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 98996,
@@ -2532,7 +2572,7 @@
     },
     {
       "raw_hot": 96044,
-      "num": 95465,
+      "num": 97619,
       "word": "周洁琼是竟然人",
       "onboard_time": 1763913021,
       "rank": 32,
@@ -2731,14 +2771,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 88273,
-      "num": 88273,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 87816,
       "num": 92170,
       "word": "头发重新变黑的方法找到了",
@@ -2777,6 +2809,14 @@
       "onboard_time": 1763900062,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83249,
+      "num": 97650,
+      "word": "高市早苗狂套近乎马克龙表情亮了",
+      "onboard_time": 1763940799,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82848,
@@ -2971,14 +3011,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 70029,
-      "num": 147406,
-      "word": "国考",
-      "onboard_time": 1763938997,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 67256,
       "num": 94656,
       "word": "这就是有钱人逛奢侈品店的感觉吧",
@@ -3059,12 +3091,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 59142,
-      "num": 88244,
-      "word": "杨紫又一个大女主戏待播",
-      "onboard_time": 1763940079,
-      "rank": 19,
-      "category": "剧集"
+      "raw_hot": 59243,
+      "num": 97870,
+      "word": "李嘉欣晒照纪念结婚17周年",
+      "onboard_time": 1763936535,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 57959,
@@ -3155,14 +3187,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 50845,
-      "num": 88107,
-      "word": "李嘉欣晒照纪念结婚17周年",
-      "onboard_time": 1763936535,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 48379,
       "num": 144702,
       "word": "第一批丁克老后怎么样了",
@@ -3235,12 +3259,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43271,
+      "num": 97411,
+      "word": "南京一小区居民家发生燃气闪爆",
+      "onboard_time": 1763928314,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43038,
-      "num": 87989,
+      "num": 97308,
       "word": "方圆方头明复刻林志玲木村拓哉名场面",
       "onboard_time": 1763924714,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 42839,
+      "num": 97288,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 42072,
+      "num": 97177,
+      "word": "国考考点",
+      "onboard_time": 1763941099,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 42000,
@@ -3283,14 +3331,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 38091,
-      "num": 87932,
-      "word": "第一个往里扔乐色的简直是天才",
-      "onboard_time": 1763929693,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 37655,
       "num": 649782,
       "word": "福建舰之大具象化了",
@@ -3300,7 +3340,7 @@
     },
     {
       "raw_hot": 36454,
-      "num": 93678,
+      "num": 96620,
       "word": "手作滴胶部分材料甲醛超标",
       "onboard_time": 1763916319,
       "rank": 47,
@@ -3313,14 +3353,6 @@
       "onboard_time": 1763884880,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 35345,
-      "num": 87867,
-      "word": "南京一小区居民家发生燃气闪爆",
-      "onboard_time": 1763928314,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34609,
@@ -3345,6 +3377,14 @@
       "onboard_time": 1763870421,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 33279,
+      "num": 96983,
+      "word": "谈一段正常的恋爱好难",
+      "onboard_time": 1763931733,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 32729,
@@ -3387,6 +3427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31159,
+      "num": 96729,
+      "word": "国考准考证打印",
+      "onboard_time": 1763939838,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 31152,
       "num": 93480,
       "word": "ALin黑丝界最权威的女人",
@@ -3411,14 +3459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 29350,
-      "num": 87773,
-      "word": "谈一段正常的恋爱好难",
-      "onboard_time": 1763931733,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 29307,
       "num": 92116,
       "word": "俄乌继续争夺红军城",
@@ -3441,14 +3481,6 @@
       "onboard_time": 1763822782,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 27611,
-      "num": 87758,
-      "word": "国考准考证打印",
-      "onboard_time": 1763939838,
-      "rank": 42,
-      "category": "教育"
     },
     {
       "raw_hot": 27169,
