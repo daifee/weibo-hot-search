@@ -1,0 +1,410 @@
+{
+  "runTime": 1763894560991,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522586,
+        "num": 1083613,
+        "word": "Kanavi道歉",
+        "onboard_time": 1763890881,
+        "rank": 0,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 60980,
+        "num": 589551,
+        "word": "中国科学家有望攻克神经免疫病",
+        "onboard_time": 1763893820,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89326,
+        "num": 534602,
+        "word": "推荐怕冷的人试试三层穿衣法",
+        "onboard_time": 1763867360,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533240,
+        "num": 533240,
+        "word": "海关在一女子裙内查获229条活鱼",
+        "onboard_time": 1763886501,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340450,
+        "num": 340450,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 312165,
+        "num": 312165,
+        "word": "唐朝诡事录4",
+        "onboard_time": 1763885180,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 296255,
+        "num": 296255,
+        "word": "王毅回应中亚3国集体发声",
+        "onboard_time": 1763890699,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247154,
+        "num": 247154,
+        "word": "雅思降价",
+        "onboard_time": 1763885420,
+        "rank": 7,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 234240,
+        "num": 234240,
+        "word": "唐诡有一个女仵作就会有更多",
+        "onboard_time": 1763890282,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188632,
+        "num": 232959,
+        "word": "枭起青壤首日云合",
+        "onboard_time": 1763886020,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 835156,
+        "num": 230548,
+        "word": "杨紫 男生不能叫",
+        "onboard_time": 1763889201,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 804547,
+        "num": 227184,
+        "word": "黄豆豆破格提拔副局级",
+        "onboard_time": 1763890282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622097,
+        "num": 223670,
+        "word": "胡彦斌方声明",
+        "onboard_time": 1763889080,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286901,
+        "num": 220028,
+        "word": "李庚希追星易烊千玺最成功",
+        "onboard_time": 1763885540,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247569,
+        "num": 214937,
+        "word": "周雨抱娃合影孙颖莎",
+        "onboard_time": 1763891600,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 214262,
+        "num": 214262,
+        "word": "彝族老人在列车上遭游客围堵拍摄",
+        "onboard_time": 1763884760,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193149,
+        "num": 193149,
+        "word": "12306回应彝族老人列车上被围堵拍摄",
+        "onboard_time": 1763890581,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177643,
+        "num": 177643,
+        "word": "狂野时代口碑",
+        "onboard_time": 1763891300,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148801,
+        "num": 177337,
+        "word": "枭起青壤",
+        "onboard_time": 1763874440,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67204,
+        "num": 176558,
+        "word": "奥迪击穿豪华品牌性价比天花板",
+        "onboard_time": 1763892681,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1295772,
+        "num": 175926,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 310983,
+        "num": 175716,
+        "word": "丁泽仁前女友出庭作证",
+        "onboard_time": 1763889380,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66995,
+        "num": 174559,
+        "word": "石破茂再批高市早苗不能过一时嘴瘾",
+        "onboard_time": 1763894301,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 223313,
+        "num": 174445,
+        "word": "胃不好不要空腹吃这些食物",
+        "onboard_time": 1763886740,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191061,
+        "num": 173211,
+        "word": "MANTA天生坏种",
+        "onboard_time": 1763894240,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 200960,
+        "num": 172898,
+        "word": "唐嫣父亲参加罗晋父亲葬礼",
+        "onboard_time": 1763867180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172545,
+        "num": 172545,
+        "word": "时代少年团六周年演唱会",
+        "onboard_time": 1763894301,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 169476,
+        "num": 169476,
+        "word": "KPL转会",
+        "onboard_time": 1763893043,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 158983,
+        "num": 158983,
+        "word": "迈凯伦双车DSQ",
+        "onboard_time": 1763892621,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122103,
+        "num": 150758,
+        "word": "缅甸KK园区拆除现场视频",
+        "onboard_time": 1763890400,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39164,
+        "num": 149587,
+        "word": "当一位父亲成了潜伏者",
+        "onboard_time": 1763892800,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149297,
+        "num": 149297,
+        "word": "建议大家回村后千万别晨跑",
+        "onboard_time": 1763886501,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148474,
+        "num": 148474,
+        "word": "石破茂再批高市早苗",
+        "onboard_time": 1763890099,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137164,
+        "num": 137164,
+        "word": "杨紫好温柔的美",
+        "onboard_time": 1763887700,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145039,
+        "num": 137151,
+        "word": "高市精心打扮遭日本网友嘲讽",
+        "onboard_time": 1763892921,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137073,
+        "num": 137073,
+        "word": "奥司他韦销量上涨237%",
+        "onboard_time": 1763884941,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133598,
+        "num": 133598,
+        "word": "酥山冰淇淋",
+        "onboard_time": 1763891661,
+        "rank": 36,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 125713,
+        "num": 125713,
+        "word": "LASER只为春逢生",
+        "onboard_time": 1763893940,
+        "rank": 37,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 123965,
+        "num": 123965,
+        "word": "尾鱼包场枭起青壤",
+        "onboard_time": 1763892320,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31627,
+        "num": 120150,
+        "word": "偷甘蔗马拉松跑友扬言拉爆老板",
+        "onboard_time": 1763894000,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118340,
+        "num": 118340,
+        "word": "终于有人知道求婚是很私密的事了",
+        "onboard_time": 1763878461,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117757,
+        "num": 117757,
+        "word": "流感高烧",
+        "onboard_time": 1763879181,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107961,
+        "num": 107961,
+        "word": "Kanavi时隔六年重返LCK",
+        "onboard_time": 1763893701,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106706,
+        "num": 106706,
+        "word": "HLE官宣Kanavi加入",
+        "onboard_time": 1763889021,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102884,
+        "num": 102884,
+        "word": "汪苏泷好无聊玩会颜人中吧",
+        "onboard_time": 1763894301,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100240,
+        "num": 100240,
+        "word": "受够了只有svip才能提前看的世界",
+        "onboard_time": 1763893820,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98798,
+        "num": 98798,
+        "word": "自助偷甘蔗农场爆火后老板真没招了",
+        "onboard_time": 1763874321,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93798,
+        "num": 93798,
+        "word": "Chovy回关Viper",
+        "onboard_time": 1763894541,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93329,
+        "num": 93329,
+        "word": "尖叫之夜投票",
+        "onboard_time": 1763884760,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88420,
+        "num": 90536,
+        "word": "唐朝诡事录3大结局",
+        "onboard_time": 1763883381,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}

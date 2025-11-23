@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 18:26:43
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 18:42:40
 </p>
 </blockquote>
 <p>
@@ -2373,6 +2373,12 @@ A股（热度：834240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%B1%86%E8%B1%86%E7%A0%B4%E6%A0%BC%E6%8F%90%E6%8B%94%E5%89%AF%E5%B1%80%E7%BA%A7%23" target="weibo">
+黄豆豆破格提拔副局级（热度：804547）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%87%BA%E6%BC%94%E5%91%98%E5%88%86%E8%B4%A6%23" target="weibo">
 红果短剧推出演员分账（热度：803259）
 </a>
@@ -2435,12 +2441,6 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E5%AD%A9%E8%AF%95%E6%88%B4%E9%87%91%E9%95%AF%E5%AD%9010%E7%A7%92%E8%A2%AB%E8%A6%81%E6%B1%82%E8%B5%94%E5%81%BF%E5%8D%83%E5%85%83%23" target="weibo">
 小孩试戴金镯子10秒被要求赔偿千元（热度：793441）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E8%B1%86%E8%B1%86%E7%A0%B4%E6%A0%BC%E6%8F%90%E6%8B%94%E5%89%AF%E5%B1%80%E7%BA%A7%23" target="weibo">
-黄豆豆破格提拔副局级（热度：793034）
 </a>
 </li>
 
@@ -5409,6 +5409,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Kanavi%E9%81%93%E6%AD%89%23" target="weibo">
+Kanavi道歉（热度：522586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90762%E5%85%83%E4%B9%B020%E5%A4%9A%E4%BB%B6%E5%95%86%E5%93%81%E8%95%89%E5%86%85%E6%8B%92%E5%8F%91%E8%B4%A7%23" target="weibo">
 男子762元买20多件商品蕉内拒发货（热度：522206）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%B2%92%E4%B8%8A%E7%9A%87%20%E7%83%A4%E7%BA%A2%E8%96%AF%E5%88%BA%E5%AE%A2%23" target="weibo">
 粒上皇 烤红薯刺客（热度：489609）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8C%82%E5%92%8C%E5%BC%A6%E5%AD%90%E7%BB%93%E5%A9%9A%E4%B8%8D%E7%9F%A5%E9%81%93%E6%9C%89%E5%BD%A9%E7%A4%BC%23" target="weibo">
-李茂和弦子结婚不知道有彩礼（热度：489266）
 </a>
 </li>
 
