@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763933889057,
+  "endTime": 1763936753992,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -3203,8 +3203,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40807,
+      "num": 53686,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40311,
-      "num": 39928,
+      "num": 53663,
       "word": "何秋亊说演唱会没收到应得的报酬",
       "onboard_time": 1763924714,
       "rank": 30,
@@ -3297,14 +3305,6 @@
       "onboard_time": 1763908162,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 32205,
-      "num": 45031,
-      "word": "美国国土安全部IP显示为以色列",
-      "onboard_time": 1763922675,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32031,
@@ -3467,12 +3467,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 21996,
+      "num": 53517,
+      "word": "谈一段正常的恋爱好难",
+      "onboard_time": 1763931733,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 21148,
       "num": 91750,
       "word": "吴艳妮发文告别2025赛季",
       "onboard_time": 1763833516,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20607,
+      "num": 53398,
+      "word": "第一个往里扔乐色的简直是天才",
+      "onboard_time": 1763929693,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 20366,
@@ -3499,6 +3515,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18239,
+      "num": 53439,
+      "word": "多个军方账号连日海外密集发声",
+      "onboard_time": 1763932034,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 18106,
       "num": 146644,
       "word": "86岁姥姥的快乐是每天放鞭炮",
@@ -3507,11 +3531,27 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17588,
+      "num": 53301,
+      "word": "高市早苗一系列举措遭揭批",
+      "onboard_time": 1763928854,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17420,
       "num": 108649,
       "word": "50万草书大奖被取消当事人已申诉",
       "onboard_time": 1763897541,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17304,
+      "num": 53291,
+      "word": "南京一小区居民家发生燃气闪爆",
+      "onboard_time": 1763928314,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -3524,7 +3564,7 @@
     },
     {
       "raw_hot": 16672,
-      "num": 39486,
+      "num": 53225,
       "word": "方圆方头明复刻林志玲木村拓哉名场面",
       "onboard_time": 1763924714,
       "rank": 40,
@@ -3563,22 +3603,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 14134,
-      "num": 24269,
-      "word": "多个军方账号连日海外密集发声",
-      "onboard_time": 1763932034,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 13954,
-      "num": 32809,
-      "word": "高市早苗一系列举措遭揭批",
-      "onboard_time": 1763928854,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 13816,
       "num": 42849,
       "word": "采访单依纯的记者发文",
@@ -3587,44 +3611,28 @@
       "category": "其它"
     },
     {
-      "raw_hot": 13612,
-      "num": 32797,
-      "word": "第一个往里扔乐色的简直是天才",
-      "onboard_time": 1763929693,
-      "rank": 46,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 13379,
-      "num": 24285,
-      "word": "谈一段正常的恋爱好难",
-      "onboard_time": 1763931733,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 13359,
-      "num": 39261,
+      "num": 53125,
       "word": "林姨压迫感",
       "onboard_time": 1763925854,
       "rank": 45,
       "category": "剧集"
     },
     {
-      "raw_hot": 12457,
-      "num": 32799,
-      "word": "南京一小区居民家发生燃气闪爆",
-      "onboard_time": 1763928314,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11014,
-      "num": 23465,
+      "raw_hot": 12234,
+      "num": 53097,
       "word": "贺峻霖巡场式饭撒",
       "onboard_time": 1763933834,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12176,
+      "num": 53073,
+      "word": "李嘉欣晒照纪念结婚17周年",
+      "onboard_time": 1763936535,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 5956,
