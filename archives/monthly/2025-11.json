@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763915465528,
+  "endTime": 1763916303377,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2043,6 +2043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1014479,
+      "num": 198881,
+      "word": "彝族老人 镜头霸凌",
+      "onboard_time": 1763911642,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1014012,
       "num": 1014012,
       "word": "日本3位前首相发声",
@@ -2105,14 +2113,6 @@
       "onboard_time": 1762143861,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 1002076,
-      "num": 198881,
-      "word": "彝族老人 镜头霸凌",
-      "onboard_time": 1763911642,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1000161,
@@ -38499,6 +38499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133785,
+      "num": 199662,
+      "word": "考研座椅",
+      "onboard_time": 1763910682,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133755,
       "num": 146407,
       "word": "对不起新版还珠我真香了",
@@ -46185,14 +46193,6 @@
       "onboard_time": 1762269561,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 115292,
-      "num": 199662,
-      "word": "考研座椅",
-      "onboard_time": 1763910682,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 115239,
@@ -56003,6 +56003,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 96044,
+      "num": 95465,
+      "word": "周洁琼是竟然人",
+      "onboard_time": 1763913021,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95970,
       "num": 95970,
       "word": "26岁女子回应撞脸全红婵",
@@ -56369,14 +56377,6 @@
       "onboard_time": 1762758440,
       "rank": 22,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 95465,
-      "num": 95465,
-      "word": "周洁琼是竟然人",
-      "onboard_time": 1763913021,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 95461,
@@ -65339,6 +65339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 77850,
+      "num": 77850,
+      "word": "丈夫用甲醛泡发毛肚妻子售卖双双获刑",
+      "onboard_time": 1763915538,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77844,
       "num": 134217,
       "word": "卜凡当道士也是F班水平",
@@ -66129,6 +66137,14 @@
       "onboard_time": 1762357220,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 75888,
+      "num": 99909,
+      "word": "林孝埈1000米第四",
+      "onboard_time": 1763911342,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 75861,
@@ -71168,14 +71184,6 @@
       "word": "黄雅琼夺冠后晒婚纱照",
       "onboard_time": 1763740941,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 58844,
-      "num": 99909,
-      "word": "林孝埈1000米第四",
-      "onboard_time": 1763911342,
-      "rank": 29,
       "category": "体育"
     },
     {

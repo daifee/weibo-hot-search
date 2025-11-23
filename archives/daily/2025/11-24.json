@@ -1,9 +1,9 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763915465528,
+  "endTime": 1763916303377,
   "band_list": [
     {
-      "raw_hot": 1002076,
+      "raw_hot": 1014479,
       "num": 182474,
       "word": "彝族老人 镜头霸凌",
       "onboard_time": 1763911642,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157080,
+      "num": 128960,
+      "word": "跟王菲关系好的嘴都不一般",
+      "onboard_time": 1763911223,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153408,
       "num": 153408,
       "word": "鹭卓巡演",
@@ -139,12 +147,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 128729,
-      "num": 128729,
-      "word": "跟王菲关系好的嘴都不一般",
-      "onboard_time": 1763911223,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 133785,
+      "num": 183493,
+      "word": "考研座椅",
+      "onboard_time": 1763910682,
+      "rank": 8,
+      "category": "教育"
     },
     {
       "raw_hot": 123196,
@@ -211,20 +219,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 95465,
+      "raw_hot": 96044,
       "num": 95465,
       "word": "周洁琼是竟然人",
       "onboard_time": 1763913021,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 95088,
-      "num": 183493,
-      "word": "考研座椅",
-      "onboard_time": 1763910682,
-      "rank": 8,
-      "category": "教育"
     },
     {
       "raw_hot": 94960,
@@ -243,19 +243,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91386,
+      "num": 182954,
+      "word": "短道速滑",
+      "onboard_time": 1763906182,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 90498,
+      "num": 133052,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763913981,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89630,
       "num": 89630,
       "word": "易烊千玺私底下二了吧唧的",
       "onboard_time": 1763898862,
       "rank": 34,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 86515,
-      "num": 100470,
-      "word": "疯狂动物城2",
-      "onboard_time": 1763913981,
-      "rank": 27,
       "category": "电影"
     },
     {
@@ -291,11 +299,19 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 75746,
-      "num": 182954,
-      "word": "短道速滑",
-      "onboard_time": 1763906182,
-      "rank": 9,
+      "raw_hot": 77850,
+      "num": 77850,
+      "word": "丈夫用甲醛泡发毛肚妻子售卖双双获刑",
+      "onboard_time": 1763915538,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75888,
+      "num": 99909,
+      "word": "林孝埈1000米第四",
+      "onboard_time": 1763911342,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -355,14 +371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 58844,
-      "num": 99909,
-      "word": "林孝埈1000米第四",
-      "onboard_time": 1763911342,
-      "rank": 29,
-      "category": "体育"
-    },
-    {
       "raw_hot": 57824,
       "num": 78163,
       "word": "仿大牌的东西让我丢尽了颜面",
@@ -377,6 +385,14 @@
       "onboard_time": 1763904622,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49390,
+      "num": 62987,
+      "word": "张真源重现提裤子名场面",
+      "onboard_time": 1763904561,
+      "rank": 48,
+      "category": "演出"
     },
     {
       "raw_hot": 46820,

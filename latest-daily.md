@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/24 00:31:05 ~ 2025/11/24 00:31:05
+本榜单时间：2025/11/24 00:31:05 ~ 2025/11/24 00:45:03
 </p>
 </blockquote>
 <p>
@@ -16,7 +16,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%20%E9%95%9C%E5%A4%B4%E9%9C%B8%E5%87%8C%23" target="weibo">
-彝族老人 镜头霸凌（热度：1002076）
+彝族老人 镜头霸凌（热度：1014479）
 </a>
 </li>
 
@@ -99,6 +99,12 @@ C罗可能做过多次整容手术（热度：180688）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%8E%8B%E8%8F%B2%E5%85%B3%E7%B3%BB%E5%A5%BD%E7%9A%84%E5%98%B4%E9%83%BD%E4%B8%8D%E4%B8%80%E8%88%AC%23" target="weibo">
+跟王菲关系好的嘴都不一般（热度：157080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B9%AD%E5%8D%93%E5%B7%A1%E6%BC%94%23" target="weibo">
 鹭卓巡演（热度：153408）
 </a>
@@ -117,8 +123,8 @@ C罗可能做过多次整容手术（热度：180688）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B7%9F%E7%8E%8B%E8%8F%B2%E5%85%B3%E7%B3%BB%E5%A5%BD%E7%9A%84%E5%98%B4%E9%83%BD%E4%B8%8D%E4%B8%80%E8%88%AC%23" target="weibo">
-跟王菲关系好的嘴都不一般（热度：128729）
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%BA%A7%E6%A4%85%23" target="weibo">
+考研座椅（热度：133785）
 </a>
 </li>
 
@@ -172,13 +178,7 @@ C罗可能做过多次整容手术（热度：180688）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E6%98%AF%E7%AB%9F%E7%84%B6%E4%BA%BA%23" target="weibo">
-周洁琼是竟然人（热度：95465）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%BA%A7%E6%A4%85%23" target="weibo">
-考研座椅（热度：95088）
+周洁琼是竟然人（热度：96044）
 </a>
 </li>
 
@@ -195,14 +195,20 @@ Faker回应S赛BO5面对LPL全胜（热度：92898）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A7%81%E5%BA%95%E4%B8%8B%E4%BA%8C%E4%BA%86%E5%90%A7%E5%94%A7%E7%9A%84%23" target="weibo">
-易烊千玺私底下二了吧唧的（热度：89630）
+<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%23" target="weibo">
+短道速滑（热度：91386）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%23" target="weibo">
-疯狂动物城2（热度：86515）
+疯狂动物城2（热度：90498）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A7%81%E5%BA%95%E4%B8%8B%E4%BA%8C%E4%BA%86%E5%90%A7%E5%94%A7%E7%9A%84%23" target="weibo">
+易烊千玺私底下二了吧唧的（热度：89630）
 </a>
 </li>
 
@@ -231,8 +237,14 @@ Faker回应S赛BO5面对LPL全胜（热度：92898）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E9%81%93%E9%80%9F%E6%BB%91%23" target="weibo">
-短道速滑（热度：75746）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%94%A8%E7%94%B2%E9%86%9B%E6%B3%A1%E5%8F%91%E6%AF%9B%E8%82%9A%E5%A6%BB%E5%AD%90%E5%94%AE%E5%8D%96%E5%8F%8C%E5%8F%8C%E8%8E%B7%E5%88%91%23" target="weibo">
+丈夫用甲醛泡发毛肚妻子售卖双双获刑（热度：77850）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%881000%E7%B1%B3%E7%AC%AC%E5%9B%9B%23" target="weibo">
+林孝埈1000米第四（热度：75888）
 </a>
 </li>
 
@@ -279,12 +291,6 @@ HLE官宣Gumayusi加入（热度：59780）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%881000%E7%B1%B3%E7%AC%AC%E5%9B%9B%23" target="weibo">
-林孝埈1000米第四（热度：58844）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%BF%E5%A4%A7%E7%89%8C%E7%9A%84%E4%B8%9C%E8%A5%BF%E8%AE%A9%E6%88%91%E4%B8%A2%E5%B0%BD%E4%BA%86%E9%A2%9C%E9%9D%A2%23" target="weibo">
 仿大牌的东西让我丢尽了颜面（热度：57824）
 </a>
@@ -293,6 +299,12 @@ HLE官宣Gumayusi加入（热度：59780）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%A0%B8%E5%BF%83%E5%8A%9B%E9%87%8F%E6%9C%89%E5%A4%9A%E5%BC%BA%23" target="weibo">
 樊振东核心力量有多强（热度：51167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%9C%9F%E6%BA%90%E9%87%8D%E7%8E%B0%E6%8F%90%E8%A3%A4%E5%AD%90%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
+张真源重现提裤子名场面（热度：49390）
 </a>
 </li>
 

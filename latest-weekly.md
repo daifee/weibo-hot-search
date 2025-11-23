@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/24 00:31:05
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/24 00:45:03
 </p>
 </blockquote>
 <p>
@@ -46,7 +46,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%20%E9%95%9C%E5%A4%B4%E9%9C%B8%E5%87%8C%23" target="weibo">
-彝族老人 镜头霸凌（热度：1002076）
+彝族老人 镜头霸凌（热度：1014479）
 </a>
 </li>
 
@@ -1377,6 +1377,12 @@ mlxg不相信Uzi去iG（热度：135091）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%BA%A7%E6%A4%85%23" target="weibo">
+考研座椅（热度：133785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%9D%8F%E5%84%BF%E6%9D%8E%E4%B9%98%E5%BE%B7%E7%BB%93%E5%A9%9A10%E5%91%A8%E5%B9%B4%E6%B4%BE%E5%AF%B9%23" target="weibo">
 胡杏儿李乘德结婚10周年派对（热度：131271）
 </a>
@@ -1553,12 +1559,6 @@ LASER只为春逢生（热度：125713）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%B5%AB%E9%87%8E%E8%A3%A4%E5%AD%90%E9%87%8C%E6%80%8E%E4%B9%88%E6%9C%89%E4%B8%AA%E8%A1%A3%E6%9E%B6%23" target="weibo">
 王赫野裤子里怎么有个衣架（热度：116490）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%A0%94%E5%BA%A7%E6%A4%85%23" target="weibo">
-考研座椅（热度：115292）
 </a>
 </li>
 
@@ -1887,6 +1887,12 @@ Hero妖刀连接成功（热度：98996）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E6%98%AF%E7%AB%9F%E7%84%B6%E4%BA%BA%23" target="weibo">
+周洁琼是竟然人（热度：96044）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E5%AD%905000%E7%B1%B3%E9%80%9F%E6%BB%91%E6%8E%A5%E5%8A%9B%E8%BF%9B%E5%86%B3%E8%B5%9B%23" target="weibo">
 中国男子5000米速滑接力进决赛（热度：95964）
 </a>
@@ -1907,12 +1913,6 @@ Hero妖刀连接成功（热度：98996）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E5%81%B7%E5%81%B7%E6%89%93%E5%8D%A1%E7%97%9B%E6%A5%BC%23" target="weibo">
 九尾偷偷打卡痛楼（热度：95621）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B4%81%E7%90%BC%E6%98%AF%E7%AB%9F%E7%84%B6%E4%BA%BA%23" target="weibo">
-周洁琼是竟然人（热度：95465）
 </a>
 </li>
 
@@ -2001,6 +2001,12 @@ Chovy回关Viper（热度：93798）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%23" target="weibo">
+疯狂动物城2（热度：90498）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%9C%E4%BA%AC%E6%B0%91%E4%BC%97%E6%8A%97%E8%AE%AE%E7%A7%B0%E5%9B%A0%E9%AB%98%E5%B8%82%E6%89%8D%E6%9C%89%E4%BA%8B%23" target="weibo">
 东京民众抗议称因高市才有事（热度：89793）
 </a>
@@ -2039,12 +2045,6 @@ Chovy回关Viper（热度：93798）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%B4%E5%8F%91%E9%87%8D%E6%96%B0%E5%8F%98%E9%BB%91%E7%9A%84%E6%96%B9%E6%B3%95%E6%89%BE%E5%88%B0%E4%BA%86%23" target="weibo">
 头发重新变黑的方法找到了（热度：87816）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%23" target="weibo">
-疯狂动物城2（热度：86515）
 </a>
 </li>
 
@@ -2145,8 +2145,20 @@ G20约堡峰会通过联合宣言（热度：78227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%88%E5%A4%AB%E7%94%A8%E7%94%B2%E9%86%9B%E6%B3%A1%E5%8F%91%E6%AF%9B%E8%82%9A%E5%A6%BB%E5%AD%90%E5%94%AE%E5%8D%96%E5%8F%8C%E5%8F%8C%E8%8E%B7%E5%88%91%23" target="weibo">
+丈夫用甲醛泡发毛肚妻子售卖双双获刑（热度：77850）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E4%BC%9F%E5%86%B0%E6%99%92%E5%B0%8F%E7%B1%B3%E5%BA%86%E5%8A%9F%E4%BC%9A%E8%8F%9C%E5%8D%95%23" target="weibo">
 卢伟冰晒小米庆功会菜单（热度：75983）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%881000%E7%B1%B3%E7%AC%AC%E5%9B%9B%23" target="weibo">
+林孝埈1000米第四（热度：75888）
 </a>
 </li>
 
@@ -2267,12 +2279,6 @@ G20约堡峰会通过联合宣言（热度：78227）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9A%AE%E6%AD%8C%E6%8B%8D%E7%9A%84%E5%AE%8B%E4%BA%9A%E8%BD%A9%23" target="weibo">
 暮歌拍的宋亚轩（热度：59307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%AD%9D%E5%9F%881000%E7%B1%B3%E7%AC%AC%E5%9B%9B%23" target="weibo">
-林孝埈1000米第四（热度：58844）
 </a>
 </li>
 

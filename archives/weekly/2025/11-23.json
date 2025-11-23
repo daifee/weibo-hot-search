@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763915465528,
+  "endTime": 1763916303377,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -43,7 +43,7 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1002076,
+      "raw_hot": 1014479,
       "num": 198881,
       "word": "彝族老人 镜头霸凌",
       "onboard_time": 1763911642,
@@ -1819,6 +1819,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 133785,
+      "num": 199662,
+      "word": "考研座椅",
+      "onboard_time": 1763910682,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 131271,
       "num": 131271,
       "word": "胡杏儿李乘德结婚10周年派对",
@@ -2057,14 +2065,6 @@
       "onboard_time": 1763878041,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 115292,
-      "num": 199662,
-      "word": "考研座椅",
-      "onboard_time": 1763910682,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 114905,
@@ -2499,6 +2499,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96044,
+      "num": 95465,
+      "word": "周洁琼是竟然人",
+      "onboard_time": 1763913021,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95964,
       "num": 95964,
       "word": "中国男子5000米速滑接力进决赛",
@@ -2529,14 +2537,6 @@
       "onboard_time": 1763871622,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 95465,
-      "num": 95465,
-      "word": "周洁琼是竟然人",
-      "onboard_time": 1763913021,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 94179,
@@ -2651,6 +2651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 90498,
+      "num": 133052,
+      "word": "疯狂动物城2",
+      "onboard_time": 1763913981,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 89793,
       "num": 89793,
       "word": "东京民众抗议称因高市才有事",
@@ -2705,14 +2713,6 @@
       "onboard_time": 1763882420,
       "rank": 45,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 86515,
-      "num": 100470,
-      "word": "疯狂动物城2",
-      "onboard_time": 1763913981,
-      "rank": 27,
-      "category": "电影"
     },
     {
       "raw_hot": 86371,
@@ -2843,12 +2843,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 77850,
+      "num": 77850,
+      "word": "丈夫用甲醛泡发毛肚妻子售卖双双获刑",
+      "onboard_time": 1763915538,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75983,
       "num": 75983,
       "word": "卢伟冰晒小米庆功会菜单",
       "onboard_time": 1763860580,
       "rank": 41,
       "category": "数码,互联网"
+    },
+    {
+      "raw_hot": 75888,
+      "num": 99909,
+      "word": "林孝埈1000米第四",
+      "onboard_time": 1763911342,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 75525,
@@ -3009,14 +3025,6 @@
       "onboard_time": 1763816904,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 58844,
-      "num": 99909,
-      "word": "林孝埈1000米第四",
-      "onboard_time": 1763911342,
-      "rank": 29,
-      "category": "体育"
     },
     {
       "raw_hot": 57959,
