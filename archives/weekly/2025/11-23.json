@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763919564237,
+  "endTime": 1763922942489,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -3459,6 +3459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19871,
+      "num": 45067,
+      "word": "马来西亚警方拘留14名日本诈骗嫌犯",
+      "onboard_time": 1763915299,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 18415,
       "num": 29939,
       "word": "黄子弘凡演唱会",
@@ -3481,6 +3489,14 @@
       "onboard_time": 1763897541,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17198,
+      "num": 45031,
+      "word": "美国国土安全部IP显示为以色列",
+      "onboard_time": 1763922675,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 16901,
