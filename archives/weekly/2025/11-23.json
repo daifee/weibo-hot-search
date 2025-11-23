@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763890748808,
+  "endTime": 1763893603198,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -12,10 +12,18 @@
     },
     {
       "raw_hot": 1825084,
-      "num": 174464,
+      "num": 204841,
       "word": "唐嫣现身罗晋父亲葬礼",
       "onboard_time": 1763886080,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 951747,
+      "num": 205684,
+      "word": "杨紫 男生不能叫",
+      "onboard_time": 1763889201,
+      "rank": 18,
       "category": "艺人"
     },
     {
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 793034,
+      "num": 205640,
+      "word": "黄豆豆破格提拔副局级",
+      "onboard_time": 1763890282,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 788182,
       "num": 1126109,
       "word": "西贝降价",
@@ -57,14 +73,6 @@
       "onboard_time": 1763856980,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 726638,
-      "num": 177249,
-      "word": "杨紫 男生不能叫",
-      "onboard_time": 1763889201,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 725800,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 649965,
-      "num": 185546,
+      "num": 205557,
       "word": "胡彦斌方声明",
       "onboard_time": 1763889080,
       "rank": 12,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 534193,
-      "num": 187165,
+      "num": 205241,
       "word": "彝族老人在列车上遭游客围堵拍摄",
       "onboard_time": 1763884760,
       "rank": 19,
@@ -196,7 +204,7 @@
     },
     {
       "raw_hot": 495296,
-      "num": 186229,
+      "num": 205448,
       "word": "李庚希追星易烊千玺最成功",
       "onboard_time": 1763885540,
       "rank": 10,
@@ -233,6 +241,14 @@
       "onboard_time": 1763823262,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 467312,
+      "num": 1074769,
+      "word": "Kanavi道歉",
+      "onboard_time": 1763890881,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 464069,
@@ -299,6 +315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 395231,
+      "num": 395231,
+      "word": "雅思降价",
+      "onboard_time": 1763885420,
+      "rank": 23,
+      "category": "教育"
+    },
+    {
       "raw_hot": 370883,
       "num": 370883,
       "word": "北大祝贺王楚钦夺冠",
@@ -312,6 +336,14 @@
       "word": "杨幂发了谢罪与不战和平之碑",
       "onboard_time": 1763865800,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 358250,
+      "num": 204772,
+      "word": "丁泽仁前女友出庭作证",
+      "onboard_time": 1763889380,
+      "rank": 35,
       "category": "艺人"
     },
     {
@@ -403,14 +435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 325860,
-      "num": 325860,
-      "word": "雅思降价",
-      "onboard_time": 1763885420,
-      "rank": 23,
-      "category": "教育"
-    },
-    {
       "raw_hot": 320279,
       "num": 227489,
       "word": "现在就出发",
@@ -457,6 +481,14 @@
       "onboard_time": 1763871440,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 289827,
+      "num": 205363,
+      "word": "日本现职领导人越了不应碰的红线",
+      "onboard_time": 1763887641,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 284032,
@@ -563,6 +595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 257596,
+      "num": 223289,
+      "word": "唐诡有一个女仵作就会有更多",
+      "onboard_time": 1763890282,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 257595,
       "num": 160048,
       "word": "俞敏洪回应被叫老登",
@@ -643,6 +683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 237730,
+      "num": 237730,
+      "word": "王毅回应中亚3国集体发声",
+      "onboard_time": 1763890699,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 233465,
       "num": 179371,
       "word": "汪东城被剧组放鸽子",
@@ -668,7 +716,7 @@
     },
     {
       "raw_hot": 226776,
-      "num": 150524,
+      "num": 204727,
       "word": "胃不好不要空腹吃这些食物",
       "onboard_time": 1763886740,
       "rank": 49,
@@ -755,6 +803,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205830,
+      "num": 205830,
+      "word": "迈凯伦双车DSQ",
+      "onboard_time": 1763892621,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 205285,
       "num": 205285,
       "word": "恋与制作人",
@@ -763,12 +819,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 204593,
+      "num": 204593,
+      "word": "KPL转会",
+      "onboard_time": 1763893043,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204512,
       "num": 164600,
       "word": "建议大家回村后千万别晨跑",
       "onboard_time": 1763886501,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 202162,
+      "num": 202162,
+      "word": "周雨抱娃合影孙颖莎",
+      "onboard_time": 1763891600,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 201463,
@@ -915,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172501,
+      "num": 205195,
+      "word": "狂野时代口碑",
+      "onboard_time": 1763891300,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 172080,
       "num": 159360,
       "word": "张真源终于吃上心心念念的宝贝猪了",
@@ -923,20 +1003,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 171969,
+      "num": 171969,
+      "word": "12306回应彝族老人列车上被围堵拍摄",
+      "onboard_time": 1763890581,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171697,
       "num": 244915,
       "word": "宋亚轩好魅",
       "onboard_time": 1763813902,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 169158,
-      "num": 143239,
-      "word": "丁泽仁前女友出庭作证",
-      "onboard_time": 1763889380,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 166454,
@@ -963,14 +1043,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 162276,
-      "num": 162276,
-      "word": "唐诡有一个女仵作就会有更多",
-      "onboard_time": 1763890282,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 162242,
       "num": 245108,
       "word": "日本机场安检员偷中国游客现金被捕",
@@ -985,14 +1057,6 @@
       "onboard_time": 1763873001,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 160806,
-      "num": 115347,
-      "word": "黄豆豆破格提拔副局级",
-      "onboard_time": 1763890282,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 156151,
@@ -1011,6 +1075,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 154951,
+      "num": 154951,
+      "word": "缅甸KK园区拆除现场视频",
+      "onboard_time": 1763890400,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 154805,
       "num": 243958,
       "word": "液断7天瘦了13.2斤",
@@ -1025,14 +1097,6 @@
       "onboard_time": 1763817444,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 152255,
-      "num": 152255,
-      "word": "日本现职领导人越了不应碰的红线",
-      "onboard_time": 1763887641,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 152198,
@@ -1065,6 +1129,14 @@
       "onboard_time": 1763833637,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144923,
+      "num": 144923,
+      "word": "石破茂再批高市早苗",
+      "onboard_time": 1763890099,
+      "rank": 32,
+      "category": "国际时政"
     },
     {
       "raw_hot": 142562,
@@ -1115,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137699,
+      "num": 137699,
+      "word": "酥山冰淇淋",
+      "onboard_time": 1763891661,
+      "rank": 33,
+      "category": "美食"
+    },
+    {
       "raw_hot": 136278,
       "num": 136278,
       "word": "警方回应印度旅游团义乌偷东西",
@@ -1163,20 +1243,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 128755,
+      "num": 128755,
+      "word": "尾鱼包场枭起青壤",
+      "onboard_time": 1763892320,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128592,
       "num": 128592,
       "word": "早安跳硬糖少女代表作",
       "onboard_time": 1763879602,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 128523,
-      "num": 115290,
-      "word": "石破茂再批高市早苗",
-      "onboard_time": 1763890099,
-      "rank": 32,
-      "category": "国际时政"
     },
     {
       "raw_hot": 127081,
@@ -1201,6 +1281,14 @@
       "onboard_time": 1763880620,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126151,
+      "num": 126151,
+      "word": "高市精心打扮遭日本网友嘲讽",
+      "onboard_time": 1763892921,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125367,
@@ -1523,14 +1611,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 102922,
-      "num": 102922,
-      "word": "缅甸KK园区拆除现场视频",
-      "onboard_time": 1763890400,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102850,
       "num": 102850,
       "word": "灵隐寺偶遇水果姐",
@@ -1755,6 +1835,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89471,
+      "num": 89471,
+      "word": "王楚钦说最终的目标很清晰",
+      "onboard_time": 1763890821,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88922,
       "num": 88922,
       "word": "俞敏洪称南极游也是为了工作",
@@ -1769,6 +1857,22 @@
       "onboard_time": 1763882420,
       "rank": 45,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 86490,
+      "num": 598202,
+      "word": "推荐怕冷的人试试三层穿衣法",
+      "onboard_time": 1763867360,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86371,
+      "num": 136451,
+      "word": "居然有剧从零上40拍到零下40度",
+      "onboard_time": 1763892320,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 86017,
@@ -1793,14 +1897,6 @@
       "onboard_time": 1763809761,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82417,
-      "num": 99217,
-      "word": "王毅回应中亚3国集体发声",
-      "onboard_time": 1763890699,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 81275,
@@ -1851,6 +1947,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 79535,
+      "num": 204921,
+      "word": "奥迪击穿豪华品牌性价比天花板",
+      "onboard_time": 1763892681,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 78747,
       "num": 78747,
       "word": "看边牧怎么把鸭子黑白分开",
@@ -1865,14 +1969,6 @@
       "onboard_time": 1763864780,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 76823,
-      "num": 102885,
-      "word": "12306回应彝族老人列车上被围堵拍摄",
-      "onboard_time": 1763890581,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75983,
@@ -2083,6 +2179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42000,
+      "num": 663334,
+      "word": "新型汽车扎堆亮相车展",
+      "onboard_time": 1763892621,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 40275,
       "num": 240096,
       "word": "偷甘蔗爆火巡逻小狗已累瘫",
@@ -2113,6 +2217,14 @@
       "onboard_time": 1763884880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 34608,
+      "num": 205041,
+      "word": "男子潜伏约死群4年救下几百人",
+      "onboard_time": 1763892800,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33628,
@@ -2203,14 +2315,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 22996,
-      "num": 300601,
-      "word": "推荐怕冷的人试试三层穿衣法",
-      "onboard_time": 1763867360,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 22582,
       "num": 119912,
       "word": "大妈跳广场舞居民放鞭炮回击",
@@ -2257,6 +2361,14 @@
       "onboard_time": 1763876181,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15203,
+      "num": 126243,
+      "word": "村民称百米露天垃圾池存在多年",
+      "onboard_time": 1763892800,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15148,
