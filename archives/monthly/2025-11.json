@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763918603135,
+  "endTime": 1763919564237,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -79161,6 +79161,14 @@
       "onboard_time": 1762626435,
       "rank": 46,
       "category": "演出"
+    },
+    {
+      "raw_hot": 27169,
+      "num": 78590,
+      "word": "廉价合金首饰镉元素超标9000多倍",
+      "onboard_time": 1763918777,
+      "rank": 46,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 27153,
