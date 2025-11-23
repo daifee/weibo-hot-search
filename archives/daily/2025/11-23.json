@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763897832755,
+  "endTime": 1763901969217,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -12,11 +12,19 @@
     },
     {
       "raw_hot": 1825084,
-      "num": 235227,
+      "num": 279451,
       "word": "唐嫣现身罗晋父亲葬礼",
       "onboard_time": 1763886080,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1302721,
+      "num": 930945,
+      "word": "大冰建议女生不要找老登",
+      "onboard_time": 1763897120,
+      "rank": 12,
+      "category": "网红"
     },
     {
       "raw_hot": 958308,
@@ -28,11 +36,19 @@
     },
     {
       "raw_hot": 951747,
-      "num": 238750,
+      "num": 408793,
       "word": "杨紫 男生不能叫",
       "onboard_time": 1763889201,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 905146,
+      "num": 905146,
+      "word": "廉价首饰 致癌物超标9000多倍",
+      "onboard_time": 1763900482,
+      "rank": 12,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 854074,
@@ -116,7 +132,7 @@
     },
     {
       "raw_hot": 649965,
-      "num": 237298,
+      "num": 287635,
       "word": "胡彦斌方声明",
       "onboard_time": 1763889080,
       "rank": 12,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 578308,
-      "num": 238441,
+      "num": 502413,
       "word": "短剧女演员曝剧组杀生",
       "onboard_time": 1763894841,
       "rank": 15,
@@ -201,14 +217,6 @@
       "onboard_time": 1763879181,
       "rank": 36,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 524852,
-      "num": 238144,
-      "word": "大冰建议女生不要找老登",
-      "onboard_time": 1763897120,
-      "rank": 12,
-      "category": "网红"
     },
     {
       "raw_hot": 522586,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 490557,
-      "num": 237634,
+      "num": 386452,
       "word": "12306回应彝族老人列车上被围堵拍摄",
       "onboard_time": 1763890581,
       "rank": 39,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 479593,
-      "num": 237037,
+      "num": 259699,
       "word": "时代少年团六周年演唱会",
       "onboard_time": 1763894301,
       "rank": 26,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 468809,
-      "num": 235056,
+      "num": 275037,
       "word": "张靓颖长文谈身体情况",
       "onboard_time": 1763895441,
       "rank": 21,
@@ -308,7 +316,7 @@
     },
     {
       "raw_hot": 467231,
-      "num": 467231,
+      "num": 912937,
       "word": "KPL抽签",
       "onboard_time": 1763894900,
       "rank": 8,
@@ -331,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 446254,
+      "num": 446254,
+      "word": "刘耀文真正的少年美",
+      "onboard_time": 1763900301,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 439533,
       "num": 184447,
       "word": "杨紫好温柔的美",
@@ -348,7 +364,7 @@
     },
     {
       "raw_hot": 410453,
-      "num": 410453,
+      "num": 949282,
       "word": "枭起青壤",
       "onboard_time": 1763804900,
       "rank": 4,
@@ -401,6 +417,14 @@
       "onboard_time": 1763865800,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 361326,
+      "num": 1014546,
+      "word": "枭起青壤腾讯热度破26000",
+      "onboard_time": 1763899522,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 358250,
@@ -460,7 +484,7 @@
     },
     {
       "raw_hot": 340450,
-      "num": 340450,
+      "num": 962222,
       "word": "日本现职领导人越了不应碰的红线",
       "onboard_time": 1763887641,
       "rank": 28,
@@ -545,6 +569,14 @@
       "onboard_time": 1763876421,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 302904,
+      "num": 1048464,
+      "word": "TE溯打AG",
+      "onboard_time": 1763897900,
+      "rank": 0,
+      "category": "电竞"
     },
     {
       "raw_hot": 296255,
@@ -755,6 +787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 243780,
+      "num": 243780,
+      "word": "尾鱼 田里",
+      "onboard_time": 1763901023,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 242992,
       "num": 437077,
       "word": "恋与王男",
@@ -883,6 +923,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211053,
+      "num": 211053,
+      "word": "刘宇宁直播",
+      "onboard_time": 1763898201,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 210450,
       "num": 243568,
       "word": "狂野时代",
@@ -939,6 +987,22 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 200328,
+      "num": 200328,
+      "word": "易烊千玺私底下二了吧唧的",
+      "onboard_time": 1763898862,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 195999,
+      "num": 195999,
+      "word": "张真源今天还在彩排",
+      "onboard_time": 1763901622,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194357,
       "num": 355700,
       "word": "许我耀眼热度",
@@ -969,6 +1033,14 @@
       "onboard_time": 1763886020,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189951,
+      "num": 189951,
+      "word": "每天练背3分钟真的会瘦脸",
+      "onboard_time": 1763896820,
+      "rank": 46,
+      "category": "运动健身"
     },
     {
       "raw_hot": 188937,
@@ -1027,6 +1099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 185030,
+      "num": 992959,
+      "word": "没想到陆游还曾是打虎英雄",
+      "onboard_time": 1763900781,
+      "rank": 5,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 183875,
       "num": 150415,
       "word": "一年备孕未成功算是不孕吗",
@@ -1073,6 +1153,14 @@
       "onboard_time": 1763821402,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 175385,
+      "num": 970995,
+      "word": "枭起青壤第六集卡在这对吗",
+      "onboard_time": 1763901741,
+      "rank": 6,
+      "category": "剧集"
     },
     {
       "raw_hot": 175146,
@@ -1145,6 +1233,14 @@
       "onboard_time": 1763815222,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 161720,
+      "num": 161720,
+      "word": "陈星旭 变脸梦回李承鄞",
+      "onboard_time": 1763900781,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 161561,
@@ -1251,20 +1347,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145873,
-      "num": 145873,
-      "word": "每天练背3分钟真的会瘦脸",
-      "onboard_time": 1763896820,
-      "rank": 46,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 145039,
       "num": 137151,
       "word": "高市精心打扮遭日本网友嘲讽",
       "onboard_time": 1763892921,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 144649,
+      "num": 244896,
+      "word": "声鸣远扬直播",
+      "onboard_time": 1763900062,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 142562,
@@ -1299,12 +1395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140114,
+      "num": 140114,
+      "word": "C罗可能做过多次整容手术",
+      "onboard_time": 1763901321,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139883,
       "num": 139883,
       "word": "王楚钦说成都见",
       "onboard_time": 1763896102,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139696,
+      "num": 139696,
+      "word": "马嘉祺苏州河Daddy级别",
+      "onboard_time": 1763901861,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 139229,
@@ -1329,6 +1441,14 @@
       "onboard_time": 1763891661,
       "rank": 33,
       "category": "美食"
+    },
+    {
+      "raw_hot": 136576,
+      "num": 136576,
+      "word": "严浩翔戳脸颊饭撒",
+      "onboard_time": 1763901622,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 136278,
@@ -1356,7 +1476,7 @@
     },
     {
       "raw_hot": 131007,
-      "num": 131007,
+      "num": 933476,
       "word": "王楚钦猛猛训练",
       "onboard_time": 1763896520,
       "rank": 44,
@@ -1433,6 +1553,14 @@
       "onboard_time": 1763880620,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125766,
+      "num": 125766,
+      "word": "XYG 久哲",
+      "onboard_time": 1763901382,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 125713,
@@ -1571,6 +1699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 113863,
+      "num": 113863,
+      "word": "Scout发文回应离开LPL",
+      "onboard_time": 1763898201,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 113616,
       "num": 113616,
       "word": "经常熬夜身体会发臭",
@@ -1641,6 +1777,14 @@
       "onboard_time": 1763857699,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 109270,
+      "num": 109270,
+      "word": "鼻病毒感染不是普通感冒",
+      "onboard_time": 1763901261,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108763,
@@ -2020,7 +2164,7 @@
     },
     {
       "raw_hot": 89326,
-      "num": 969453,
+      "num": 1022941,
       "word": "推荐怕冷的人试试三层穿衣法",
       "onboard_time": 1763867360,
       "rank": 2,
@@ -2033,6 +2177,14 @@
       "onboard_time": 1763864901,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 88867,
+      "num": 263314,
+      "word": "美国一患者感染H5N5病毒去世",
+      "onboard_time": 1763899701,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87816,
@@ -2081,6 +2233,14 @@
       "onboard_time": 1763895621,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81286,
+      "num": 201167,
+      "word": "樊振东12月将出战三场比赛",
+      "onboard_time": 1763900062,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 81275,

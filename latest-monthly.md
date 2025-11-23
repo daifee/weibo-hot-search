@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 19:37:12
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 20:46:09
 </p>
 </blockquote>
 <p>
@@ -887,6 +887,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%BA%8C%E4%B8%AD%20%E5%AD%A6%E9%9C%B8%E6%96%87%E7%AC%94%23" target="weibo">
 南宁二中 学霸文笔（热度：1310167）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E6%89%BE%E8%80%81%E7%99%BB%23" target="weibo">
+大冰建议女生不要找老登（热度：1302721）
 </a>
 </li>
 
@@ -1883,6 +1889,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%B9%E7%BA%A2%E5%8D%AB%E8%A2%AB%E6%9F%A5%23" target="weibo">
 西安市委书记方红卫被查（热度：905693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E4%BB%B7%E9%A6%96%E9%A5%B0%20%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A0%879000%E5%A4%9A%E5%80%8D%23" target="weibo">
+廉价首饰 致癌物超标9000多倍（热度：905146）
 </a>
 </li>
 
@@ -5409,12 +5421,6 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%86%B0%E5%BB%BA%E8%AE%AE%E5%A5%B3%E7%94%9F%E4%B8%8D%E8%A6%81%E6%89%BE%E8%80%81%E7%99%BB%23" target="weibo">
-大冰建议女生不要找老登（热度：524852）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%91%B1%E8%8A%B1%E5%BD%93%E5%A4%A9%E4%BD%BF%E7%94%A8%23" target="weibo">
 为什么要把葱花当天使用（热度：524846）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E7%99%BD%E9%B9%BF%E5%8F%B0%E4%B8%8B%E6%A8%A1%E4%BB%BF%E4%B9%96%E4%B9%96%E5%A5%B3%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 王鹤棣白鹿台下模仿乖乖女名场面（热度：491202）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%B7%B2%E7%BB%8F%E4%B8%8D%E6%98%AF%E7%94%B2%E5%8D%88%E6%88%98%E4%BA%89%E5%90%8E%E7%9A%84%E4%B8%AD%E5%9B%BD%23" target="weibo">
-中国已经不是甲午战争后的中国（热度：490717）
 </a>
 </li>
 
