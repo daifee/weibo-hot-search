@@ -1,0 +1,410 @@
+{
+  "runTime": 1763912293569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 621913,
+        "num": 1099506,
+        "word": "廉价首饰 致癌物超标9000多倍",
+        "onboard_time": 1763900482,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 323313,
+        "num": 323313,
+        "word": "短道速滑",
+        "onboard_time": 1763906182,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42675,
+        "num": 308907,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763904262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307307,
+        "num": 307307,
+        "word": "高市言论被翻译成鬼子又回来了",
+        "onboard_time": 1763909001,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 289080,
+        "num": 289080,
+        "word": "枭起青壤剧情平",
+        "onboard_time": 1763903001,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 547975,
+        "num": 279073,
+        "word": "张俪别演了我害怕",
+        "onboard_time": 1763906902,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 267020,
+        "num": 267020,
+        "word": "自助偷甘蔗老板说人越多越亏钱",
+        "onboard_time": 1763905762,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234957,
+        "num": 234957,
+        "word": "原谅鸭",
+        "onboard_time": 1763908822,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125677,
+        "num": 233518,
+        "word": "卖家称三无飞机能飞3000米高",
+        "onboard_time": 1763909662,
+        "rank": 8,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 115327,
+        "num": 227602,
+        "word": "樊振东核心力量有多强",
+        "onboard_time": 1763904622,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 514643,
+        "num": 223191,
+        "word": "大冰建议女生不要找老登",
+        "onboard_time": 1763897120,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 343424,
+        "num": 219316,
+        "word": "C罗可能做过多次整容手术",
+        "onboard_time": 1763901321,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 315309,
+        "num": 215184,
+        "word": "时代少年团 这就是爱",
+        "onboard_time": 1763909722,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 277971,
+        "num": 207812,
+        "word": "热巴男主运",
+        "onboard_time": 1763908404,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269092,
+        "num": 205209,
+        "word": "李诞初见王安宇被帅到失态",
+        "onboard_time": 1763906182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201486,
+        "num": 201486,
+        "word": "那英怼华晨宇",
+        "onboard_time": 1763912002,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199858,
+        "num": 199858,
+        "word": "刘宇宁 开美颜咋了",
+        "onboard_time": 1763908763,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24335,
+        "num": 199858,
+        "word": "神秘领导力课程资料最低仅需9毛8",
+        "onboard_time": 1763911223,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69578,
+        "num": 199803,
+        "word": "网红手作玩具 健康刺客",
+        "onboard_time": 1763911582,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 32729,
+        "num": 199733,
+        "word": "央视起底三无飞机交易链",
+        "onboard_time": 1763911582,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 954932,
+        "num": 199680,
+        "word": "直播网红批量撤离杭州",
+        "onboard_time": 1763904501,
+        "rank": 20,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 115292,
+        "num": 199662,
+        "word": "考研座椅",
+        "onboard_time": 1763910682,
+        "rank": 21,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 791891,
+        "num": 199572,
+        "word": "20岁男生肺被啃出10多个空洞",
+        "onboard_time": 1763908223,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 453872,
+        "num": 199539,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219040,
+        "num": 199485,
+        "word": "儿童吃奥司他韦警惕出现严重副作用",
+        "onboard_time": 1763907081,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 202598,
+        "num": 199433,
+        "word": "刘耀文喊粉丝们多拍神图",
+        "onboard_time": 1763911401,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178773,
+        "num": 199385,
+        "word": "白桃星座",
+        "onboard_time": 1763909722,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 176856,
+        "num": 199359,
+        "word": "原来1000度近视半飞秒是这样做的",
+        "onboard_time": 1763909602,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 423149,
+        "num": 199296,
+        "word": "张继科说和樊振东打五五开",
+        "onboard_time": 1763909844,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173295,
+        "num": 199234,
+        "word": "白鹿给时代少年团送花篮了",
+        "onboard_time": 1763905102,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 157284,
+        "num": 199213,
+        "word": "跟王菲关系好的嘴都不一般",
+        "onboard_time": 1763911223,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 154937,
+        "num": 199179,
+        "word": "华晨宇夏哲轩 菩提老祖与泼猴",
+        "onboard_time": 1763910922,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139990,
+        "num": 199131,
+        "word": "Faker回应S赛BO5面对LPL全胜",
+        "onboard_time": 1763910983,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138663,
+        "num": 199062,
+        "word": "易烊千玺私底下二了吧唧的",
+        "onboard_time": 1763898862,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 123416,
+        "num": 198999,
+        "word": "马嘉祺苏州河Daddy级别",
+        "onboard_time": 1763901861,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 123307,
+        "num": 198981,
+        "word": "林孝埈孙龙刘少昂晋级1000米半决赛",
+        "onboard_time": 1763911342,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117798,
+        "num": 198920,
+        "word": "短剧女演员曝剧组杀生",
+        "onboard_time": 1763894841,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 30344,
+        "num": 198881,
+        "word": "彝族老人 镜头霸凌",
+        "onboard_time": 1763911642,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51318,
+        "num": 198829,
+        "word": "月薪多少才穿得起大几千的羽绒服",
+        "onboard_time": 1763911941,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 46569,
+        "num": 198779,
+        "word": "台评论员称高市早苗已经失心疯了",
+        "onboard_time": 1763911941,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112319,
+        "num": 198746,
+        "word": "日本现职领导人越了不应碰的红线",
+        "onboard_time": 1763887641,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113953,
+        "num": 198675,
+        "word": "马嘉祺我应该进组了",
+        "onboard_time": 1763896400,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113799,
+        "num": 198644,
+        "word": "张真源重现提裤子名场面",
+        "onboard_time": 1763904561,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 113068,
+        "num": 198597,
+        "word": "oner谈与Tarzan的约定",
+        "onboard_time": 1763911342,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106604,
+        "num": 198530,
+        "word": "宋亚轩森林之子小精灵",
+        "onboard_time": 1763910442,
+        "rank": 44,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 106318,
+        "num": 198467,
+        "word": "鹭卓巡演",
+        "onboard_time": 1763910204,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 93922,
+        "num": 198421,
+        "word": "Gumayusi回应加入HLE",
+        "onboard_time": 1763912122,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91693,
+        "num": 198407,
+        "word": "杨紫 男生不能叫",
+        "onboard_time": 1763889201,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88535,
+        "num": 198326,
+        "word": "HLE官宣Gumayusi加入",
+        "onboard_time": 1763902882,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88130,
+        "num": 198278,
+        "word": "刘耀文真正的少年美",
+        "onboard_time": 1763900301,
+        "rank": 49,
+        "category": "演出"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}
