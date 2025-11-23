@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 16:32:50
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/23 16:45:37
 </p>
 </blockquote>
 <p>
@@ -435,6 +435,12 @@ KT战胜GEN（热度：2334332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%8E%B0%E8%BA%AB%E7%BD%97%E6%99%8B%E7%88%B6%E4%BA%B2%E8%91%AC%E7%A4%BC%23" target="weibo">
+唐嫣现身罗晋父亲葬礼（热度：1825084）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E5%85%AD%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 时代少年团六周年演唱会（热度：1797747）
 </a>
@@ -521,12 +527,6 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E8%BF%91%E6%9C%9F%E9%81%BF%E5%85%8D%E5%89%8D%E5%BE%80%E6%97%A5%E6%9C%AC%23" target="weibo">
 提醒中国公民近期避免前往日本（热度：1672025）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%8E%B0%E8%BA%AB%E7%BD%97%E6%99%8B%E7%88%B6%E4%BA%B2%E8%91%AC%E7%A4%BC%23" target="weibo">
-唐嫣现身罗晋父亲葬礼（热度：1671927）
 </a>
 </li>
 
@@ -5493,6 +5493,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E6%9C%9D%E8%AF%A1%E4%BA%8B%E5%BD%954%23" target="weibo">
+唐朝诡事录4（热度：515932）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%9C%81%E4%BA%8C%E8%83%8E%E8%A1%A5%E8%B4%B4%E8%A2%AB%E8%BF%BD%E5%9B%9E%23" target="weibo">
 安徽省二胎补贴被追回（热度：515887）
 </a>
@@ -5829,6 +5835,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%BA%9A%E5%B8%8C%E8%BF%BD%E6%98%9F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E6%9C%80%E6%88%90%E5%8A%9F%23" target="weibo">
+李庚希追星易烊千玺最成功（热度：495296）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B8%E7%88%B8%E5%8E%BB%E5%93%AA%E5%84%BF%E7%94%B7%E7%94%9F%E8%BF%91%E7%85%A7%23" target="weibo">
 爸爸去哪儿男生近照（热度：495289）
 </a>
@@ -5999,18 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E7%9A%84%E7%8E%8B%E6%BA%90%23" target="weibo">
 25岁的王源（热度：488403）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E8%B0%8B%E8%AF%B4%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%BE%88%E9%9A%BE%E5%BE%97%23" target="weibo">
-张艺谋说易烊千玺很难得（热度：488400）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%98%8E%E5%AD%90%E5%93%A5%E5%8F%8A%E5%A6%BB%E5%AD%90%E8%A2%AB%E9%99%90%E6%B6%88%23" target="weibo">
-嘎子哥及妻子被限消（热度：487309）
 </a>
 </li>
 

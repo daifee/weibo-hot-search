@@ -1,0 +1,410 @@
+{
+  "runTime": 1763887537976,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 350897,
+        "num": 1056143,
+        "word": "自助偷甘蔗农场爆火后老板真没招了",
+        "onboard_time": 1763874321,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253149,
+        "num": 253149,
+        "word": "38岁男子守了鸡排哥一个月蹭流量",
+        "onboard_time": 1763878341,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2156,
+        "num": 238705,
+        "word": "华龙一号又有新贡献",
+        "onboard_time": 1763807421,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 515932,
+        "num": 238701,
+        "word": "唐朝诡事录4",
+        "onboard_time": 1763885180,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 320225,
+        "num": 236343,
+        "word": "枭起青壤首日云合",
+        "onboard_time": 1763886020,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231753,
+        "num": 231753,
+        "word": "王毅三个绝不允许",
+        "onboard_time": 1763884101,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 284644,
+        "num": 220646,
+        "word": "唐朝诡事录3大结局",
+        "onboard_time": 1763883381,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197976,
+        "num": 197976,
+        "word": "奥司他韦销量上涨237%",
+        "onboard_time": 1763884941,
+        "rank": 7,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195899,
+        "num": 195899,
+        "word": "山寨山姆挤满了想花钱的县城中产",
+        "onboard_time": 1763875042,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180438,
+        "num": 180438,
+        "word": "央视曝光试吃卡试用卡骗局",
+        "onboard_time": 1763882360,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 495296,
+        "num": 179847,
+        "word": "李庚希追星易烊千玺最成功",
+        "onboard_time": 1763885540,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273555,
+        "num": 179323,
+        "word": "彝族老人在列车上遭游客围堵拍摄",
+        "onboard_time": 1763884760,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272368,
+        "num": 177358,
+        "word": "终于有人知道求婚是很私密的事了",
+        "onboard_time": 1763878461,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266287,
+        "num": 176473,
+        "word": "新闻女王2有徐晓薇",
+        "onboard_time": 1763885601,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22057,
+        "num": 176061,
+        "word": "那些默默托举中国篮球的人",
+        "onboard_time": 1763884880,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 262960,
+        "num": 175045,
+        "word": "流感高烧",
+        "onboard_time": 1763879181,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 226287,
+        "num": 174179,
+        "word": "李庚希 重生之我和我担是影后影帝",
+        "onboard_time": 1763886199,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224664,
+        "num": 172336,
+        "word": "短剧被真打演员报平安",
+        "onboard_time": 1763876660,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207914,
+        "num": 172124,
+        "word": "汪东城被剧组放鸽子",
+        "onboard_time": 1763883742,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171097,
+        "num": 171097,
+        "word": "沈月大大方方地瞒住了所有人",
+        "onboard_time": 1763863941,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1825084,
+        "num": 170636,
+        "word": "唐嫣现身罗晋父亲葬礼",
+        "onboard_time": 1763886080,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167502,
+        "num": 167502,
+        "word": "于正死丫头对自己真好",
+        "onboard_time": 1763876961,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144268,
+        "num": 144268,
+        "word": "喝水后有这些表现说明肾不好",
+        "onboard_time": 1763877319,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 142975,
+        "num": 142975,
+        "word": "雅思降价",
+        "onboard_time": 1763885420,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136835,
+        "num": 136835,
+        "word": "海关在一女子裙内查获229条活鱼",
+        "onboard_time": 1763886501,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 991988,
+        "num": 136795,
+        "word": "唐嫣父亲参加罗晋父亲葬礼",
+        "onboard_time": 1763867180,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136172,
+        "num": 136172,
+        "word": "迈凯伦被上报赛会仲裁",
+        "onboard_time": 1763886020,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132917,
+        "num": 132917,
+        "word": "樊振东大湾鸡换不换",
+        "onboard_time": 1763886260,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113205,
+        "num": 127904,
+        "word": "枭起青壤",
+        "onboard_time": 1763874440,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109431,
+        "num": 125360,
+        "word": "毒唯脱粉后决定自己出道",
+        "onboard_time": 1763876421,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151335,
+        "num": 125002,
+        "word": "建议大家回村后千万别晨跑",
+        "onboard_time": 1763886501,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124502,
+        "num": 124502,
+        "word": "全世界都承认台湾是中国的一个省",
+        "onboard_time": 1763871081,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116633,
+        "num": 116633,
+        "word": "九尾自由人回归LGDNBW",
+        "onboard_time": 1763885660,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115170,
+        "num": 115170,
+        "word": "狂野时代",
+        "onboard_time": 1763862320,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114905,
+        "num": 114905,
+        "word": "eStar转会公告",
+        "onboard_time": 1763886141,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113778,
+        "num": 113778,
+        "word": "女子没时间遛狗找邻居小孩1次2块",
+        "onboard_time": 1763879301,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102884,
+        "num": 102884,
+        "word": "尖叫之夜投票",
+        "onboard_time": 1763884760,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101732,
+        "num": 101732,
+        "word": "Viper的ins关注oner和Chovy",
+        "onboard_time": 1763883919,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98163,
+        "num": 98163,
+        "word": "陈哲远 最近网上的事不要担心",
+        "onboard_time": 1763876601,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74670,
+        "num": 97590,
+        "word": "火锅店误将燃料加入汤锅致11人入院",
+        "onboard_time": 1763887401,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97081,
+        "num": 97081,
+        "word": "张俪喜提生酮饮食宣传大使",
+        "onboard_time": 1763886860,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95757,
+        "num": 95757,
+        "word": "王年将成被打伤剧组致歉",
+        "onboard_time": 1763883322,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91577,
+        "num": 91577,
+        "word": "陈星旭在迪丽热巴面前快夹成卡车了",
+        "onboard_time": 1763876240,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89763,
+        "num": 89763,
+        "word": "突然觉得谈恋爱不需要换情头",
+        "onboard_time": 1763880620,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 88643,
+        "num": 88643,
+        "word": "疑似王心凌吴克群恋情",
+        "onboard_time": 1763866881,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85280,
+        "num": 85280,
+        "word": "胃不好不要空腹吃这些食物",
+        "onboard_time": 1763886740,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 81275,
+        "num": 81275,
+        "word": "高市社交账号帖文引日本网民怒批",
+        "onboard_time": 1763887160,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52068,
+        "num": 80859,
+        "word": "尼日利亚一中学315人被绑架",
+        "onboard_time": 1763885960,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 80847,
+        "num": 80847,
+        "word": "Uzi冲击韩服王者",
+        "onboard_time": 1763884460,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78745,
+        "num": 78745,
+        "word": "九尾官宣自由人",
+        "onboard_time": 1763880860,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#把发展蓝图变为美好现实#"
+    }
+  }
+}
