@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763970041673,
+  "endTime": 1763973519727,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -9,6 +9,14 @@
       "onboard_time": 1763954362,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1298747,
+      "num": 201064,
+      "word": "杨紫真的拍了香蜜转场",
+      "onboard_time": 1763969781,
+      "rank": 16,
+      "category": "剧集"
     },
     {
       "raw_hot": 1231566,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 1076720,
-      "num": 427782,
+      "num": 487619,
       "word": "狂野时代退票率",
       "onboard_time": 1763960061,
       "rank": 3,
@@ -51,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 973132,
+      "num": 200285,
+      "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+      "onboard_time": 1763968940,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 918435,
       "num": 339652,
       "word": "林更新被骂来活了 霍建华被骂不活了",
       "onboard_time": 1763955562,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 913357,
+      "num": 1146137,
+      "word": "中方回应日本部署中程导弹",
+      "onboard_time": 1763970801,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 844025,
@@ -131,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 576636,
+      "num": 576636,
+      "word": "有人破解巨型吊牌继续蹭穿",
+      "onboard_time": 1763967741,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556876,
       "num": 181881,
       "word": "那英怼华晨宇",
@@ -145,6 +177,14 @@
       "onboard_time": 1763958864,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 539835,
+      "num": 188148,
+      "word": "黄一鸣谈恋爱了",
+      "onboard_time": 1763970021,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 536808,
@@ -275,6 +315,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 401608,
+      "num": 196080,
+      "word": "巩俐的字",
+      "onboard_time": 1763969421,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 397621,
+      "num": 187044,
+      "word": "美国一男子因便秘身亡",
+      "onboard_time": 1763969961,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 395964,
       "num": 176788,
       "word": "20岁男生肺被啃出10多个空洞",
@@ -289,6 +345,14 @@
       "onboard_time": 1763900482,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 379509,
+      "num": 185637,
+      "word": "陈小春应采儿两个魔丸生出了个灵珠",
+      "onboard_time": 1763971282,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 371088,
@@ -451,6 +515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 295617,
+      "num": 295617,
+      "word": "知名婴童品牌被检出菌落超标48倍",
+      "onboard_time": 1763968462,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 292033,
       "num": 292033,
       "word": "疯狂动物城",
@@ -507,20 +579,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 235707,
-      "num": 199054,
-      "word": "杨紫真的拍了香蜜转场",
-      "onboard_time": 1763969781,
-      "rank": 16,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 231807,
-      "num": 231807,
-      "word": "有人破解巨型吊牌继续蹭穿",
-      "onboard_time": 1763967741,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 226239,
+      "num": 226239,
+      "word": "邱默云 原子弹",
+      "onboard_time": 1763969901,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 221430,
@@ -540,7 +604,7 @@
     },
     {
       "raw_hot": 216649,
-      "num": 199053,
+      "num": 215946,
       "word": "日本欠台湾的血债该还了",
       "onboard_time": 1763966900,
       "rank": 31,
@@ -569,14 +633,6 @@
       "onboard_time": 1763965641,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 202997,
-      "num": 202997,
-      "word": "知名婴童品牌被检出菌落超标48倍",
-      "onboard_time": 1763968462,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 200528,
@@ -699,14 +755,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 182183,
-      "num": 182183,
-      "word": "巩俐的字",
-      "onboard_time": 1763969421,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 181982,
       "num": 250745,
       "word": "唐诡方丈在大生意人也进榜一了",
@@ -721,6 +769,14 @@
       "onboard_time": 1763901321,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 180228,
+      "num": 180228,
+      "word": "大帅未来和大家一起走下去",
+      "onboard_time": 1763973321,
+      "rank": 27,
+      "category": "电竞"
     },
     {
       "raw_hot": 176820,
@@ -795,6 +851,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 169256,
+      "num": 169256,
+      "word": "外交部三个绝不允许回应日方",
+      "onboard_time": 1763972541,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 167827,
+      "num": 167827,
+      "word": "彭小苒工作室 网盘",
+      "onboard_time": 1763971103,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166398,
       "num": 166398,
       "word": "西瓜头孙颖莎",
@@ -808,6 +880,14 @@
       "word": "迪丽热巴枭起青壤首日百指",
       "onboard_time": 1763949199,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 164518,
+      "num": 195364,
+      "word": "我自愿加入地枭组织",
+      "onboard_time": 1763971641,
+      "rank": 15,
       "category": "剧集"
     },
     {
@@ -899,6 +979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 144645,
+      "num": 144645,
+      "word": "KSG大名单",
+      "onboard_time": 1763972901,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 144244,
       "num": 144244,
       "word": "张继科杯混团赛来了",
@@ -955,6 +1043,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 135955,
+      "num": 135955,
+      "word": "中国对日本的警告在升级",
+      "onboard_time": 1763970261,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 134800,
       "num": 134800,
       "word": "KPL",
@@ -987,12 +1083,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130400,
-      "num": 146536,
-      "word": "邱默云 原子弹",
-      "onboard_time": 1763969901,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 129893,
+      "num": 183663,
+      "word": "卢凌风最生气的一集",
+      "onboard_time": 1763971940,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 128971,
@@ -1051,6 +1147,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 121883,
+      "num": 177564,
+      "word": "2025时尚芭莎年度影视大赏",
+      "onboard_time": 1763973201,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 121767,
       "num": 121766,
       "word": "西贝员工回应涨薪500元",
@@ -1081,14 +1185,6 @@
       "onboard_time": 1763951120,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118731,
-      "num": 118731,
-      "word": "美国一男子因便秘身亡",
-      "onboard_time": 1763969961,
-      "rank": 42,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 118346,
@@ -1169,14 +1265,6 @@
       "onboard_time": 1763949500,
       "rank": 44,
       "category": "数码"
-    },
-    {
-      "raw_hot": 111431,
-      "num": 111431,
-      "word": "黄一鸣谈恋爱了",
-      "onboard_time": 1763970021,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 110043,
@@ -1291,6 +1379,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 104305,
+      "num": 104305,
+      "word": "云合",
+      "onboard_time": 1763973260,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102290,
       "num": 184260,
       "word": "原谅鸭",
@@ -1363,6 +1459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 98918,
+      "num": 98918,
+      "word": "地枭居然开口说话了",
+      "onboard_time": 1763970501,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97564,
       "num": 97564,
       "word": "迪丽热巴新剧纯墓风",
@@ -1417,6 +1521,14 @@
       "onboard_time": 1763913021,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95988,
+      "num": 95988,
+      "word": "A股全市场超4200股上涨",
+      "onboard_time": 1763972362,
+      "rank": 45,
+      "category": "财经"
     },
     {
       "raw_hot": 95367,
@@ -1491,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 90269,
+      "num": 90269,
+      "word": "西藏军区千人刺杀操压迫感十足",
+      "onboard_time": 1763972722,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
       "raw_hot": 89710,
       "num": 89710,
       "word": "胡先煦这人夫感",
@@ -1528,6 +1648,22 @@
       "word": "缅军再出手清剿KK园区",
       "onboard_time": 1763949081,
       "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 86768,
+      "num": 86768,
+      "word": "邝玲玲第一张单人VOGUE封面",
+      "onboard_time": 1763973502,
+      "rank": 48,
+      "category": "艺人,时尚"
+    },
+    {
+      "raw_hot": 85657,
+      "num": 104291,
+      "word": "泽连斯基发文感谢美国人特别是特朗普",
+      "onboard_time": 1763972421,
+      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -1627,6 +1763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 73967,
+      "num": 104282,
+      "word": "国外老人路上行走被穿越机炸死",
+      "onboard_time": 1763972421,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 72213,
       "num": 94053,
       "word": "严浩翔solo满脸写着野心",
@@ -1649,14 +1793,6 @@
       "onboard_time": 1763960482,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68235,
-      "num": 130557,
-      "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
-      "onboard_time": 1763968940,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68124,
@@ -1697,6 +1833,14 @@
       "onboard_time": 1763901741,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 64189,
+      "num": 177810,
+      "word": "ADSPro不是显眼包胜似显眼包",
+      "onboard_time": 1763971582,
+      "rank": 28,
+      "category": "汽车"
     },
     {
       "raw_hot": 60028,
@@ -1777,6 +1921,14 @@
       "onboard_time": 1763944461,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54287,
+      "num": 194345,
+      "word": "明星们集体哇塞的阿维塔",
+      "onboard_time": 1763971402,
+      "rank": 16,
+      "category": "综艺,汽车"
     },
     {
       "raw_hot": 51167,
@@ -1883,6 +2035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 39279,
+      "num": 190738,
+      "word": "高市早苗努力表演不如一把椅子火",
+      "onboard_time": 1763972781,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38997,
       "num": 93956,
       "word": "狼队清清连接成功",
@@ -1961,6 +2121,14 @@
       "onboard_time": 1763918777,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26022,
+      "num": 189727,
+      "word": "王火逝世女儿发声",
+      "onboard_time": 1763972421,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24776,
