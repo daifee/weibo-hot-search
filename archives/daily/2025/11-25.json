@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764016275445,
+  "endTime": 1764016927743,
   "band_list": [
     {
       "raw_hot": 704816,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 18949,
-      "num": 29879,
+      "num": 30507,
       "word": "中国大米出现在日本商店显著位置",
       "onboard_time": 1764014234,
       "rank": 30,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 12222,
-      "num": 29530,
+      "num": 30107,
       "word": "老师只是低血糖不是新动作",
       "onboard_time": 1764014593,
       "rank": 43,
@@ -508,27 +508,27 @@
     },
     {
       "raw_hot": 11734,
-      "num": 29498,
+      "num": 29952,
       "word": "人民日报夜读",
       "onboard_time": 1764015673,
       "rank": 44,
       "category": "情感"
     },
     {
-      "raw_hot": 11189,
-      "num": 29463,
-      "word": "凤凰台上",
-      "onboard_time": 1764015373,
-      "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11002,
-      "num": 29388,
+      "raw_hot": 11481,
+      "num": 30070,
       "word": "在荣耀发布会和肖战续火花",
       "onboard_time": 1763993002,
       "rank": 48,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 11189,
+      "num": 29923,
+      "word": "凤凰台上",
+      "onboard_time": 1764015373,
+      "rank": 45,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
