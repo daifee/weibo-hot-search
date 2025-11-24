@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763981276382,
+  "endTime": 1763983500822,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -33,6 +33,14 @@
       "onboard_time": 1763975601,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1183303,
+      "num": 192167,
+      "word": "胡彦斌妈妈 老版易梦玲",
+      "onboard_time": 1763979261,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 1169067,
@@ -75,14 +83,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 988899,
-      "num": 192167,
-      "word": "胡彦斌妈妈 老版易梦玲",
-      "onboard_time": 1763979261,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 973132,
       "num": 251541,
       "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
@@ -99,8 +99,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 907548,
+      "num": 1145207,
+      "word": "中国暂停租借大熊猫给日本引关注",
+      "onboard_time": 1763980761,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 862333,
-      "num": 356062,
+      "num": 407344,
       "word": "医生称臭大姐可以吃别多吃",
       "onboard_time": 1763975962,
       "rank": 9,
@@ -129,6 +137,14 @@
       "onboard_time": 1763953941,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 782840,
+      "num": 231639,
+      "word": "FILA致歉",
+      "onboard_time": 1763979561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 771147,
@@ -595,6 +611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286184,
+      "num": 286184,
+      "word": "中国大米在日本售价上涨数倍",
+      "onboard_time": 1763980581,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 284467,
       "num": 188439,
       "word": "高市65%支持率传递危险信号",
@@ -665,14 +689,6 @@
       "onboard_time": 1763973921,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 224807,
-      "num": 224807,
-      "word": "FILA致歉",
-      "onboard_time": 1763979561,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 221430,
@@ -809,6 +825,14 @@
       "onboard_time": 1763962401,
       "rank": 24,
       "category": "正能量"
+    },
+    {
+      "raw_hot": 191998,
+      "num": 151696,
+      "word": "经常看书和不看书的区别真的好大",
+      "onboard_time": 1763979561,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 191397,
@@ -1019,6 +1043,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164199,
+      "num": 164199,
+      "word": "中方回应高市早苗称愿与中国对话",
+      "onboard_time": 1763982740,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 163593,
+      "num": 192249,
+      "word": "枭起青壤",
+      "onboard_time": 1763981061,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161556,
       "num": 161556,
       "word": "这就是猪肺没人买的原因",
@@ -1107,6 +1147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148400,
+      "num": 148400,
+      "word": "医院将进价3万的瓣膜28万元卖出",
+      "onboard_time": 1763982801,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147607,
       "num": 147607,
       "word": "眉压眼和眉包眼的区别",
@@ -1115,12 +1163,28 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 146996,
+      "num": 146996,
+      "word": "张佳宁好像我和闺蜜去迪士尼",
+      "onboard_time": 1763983101,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146421,
       "num": 201018,
       "word": "2025时尚芭莎年度影视大赏",
       "onboard_time": 1763973201,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 144870,
+      "num": 144870,
+      "word": "A股小作文引发工业富联盘中跌停",
+      "onboard_time": 1763981781,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 144645,
@@ -1177,14 +1241,6 @@
       "onboard_time": 1763977461,
       "rank": 37,
       "category": "教育"
-    },
-    {
-      "raw_hot": 138702,
-      "num": 192249,
-      "word": "枭起青壤",
-      "onboard_time": 1763981061,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 138310,
@@ -1267,12 +1323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132251,
-      "num": 132251,
-      "word": "中国暂停租借大熊猫给日本引关注",
-      "onboard_time": 1763980761,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 132389,
+      "num": 132389,
+      "word": "Jasper 我爸超级无敌帅",
+      "onboard_time": 1763983401,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 132065,
@@ -1281,14 +1337,6 @@
       "onboard_time": 1763967801,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 130535,
-      "num": 130535,
-      "word": "经常看书和不看书的区别真的好大",
-      "onboard_time": 1763979561,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 129893,
@@ -1369,6 +1417,14 @@
       "onboard_time": 1763949439,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121160,
+      "num": 121160,
+      "word": "华为Mate80系列发货已排到明年",
+      "onboard_time": 1763982262,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 120928,
@@ -1489,6 +1545,14 @@
       "onboard_time": 1763956341,
       "rank": 16,
       "category": "数码,科学科普"
+    },
+    {
+      "raw_hot": 112611,
+      "num": 106138,
+      "word": "日方在西南诸岛部署进攻性武器",
+      "onboard_time": 1763983282,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 112493,
@@ -1659,12 +1723,36 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 104964,
+      "num": 104964,
+      "word": "刘耀文出了门还是最小的弟弟",
+      "onboard_time": 1763981781,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104953,
+      "num": 104953,
+      "word": "这一剑等了一万年",
+      "onboard_time": 1763981541,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 104547,
       "num": 203644,
       "word": "日方愿意对话的姿态很伪善",
       "onboard_time": 1763957661,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104449,
+      "num": 104449,
+      "word": "柯淳拉着岳雨婷一起跳拍",
+      "onboard_time": 1763982681,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 104438,
@@ -1705,6 +1793,14 @@
       "onboard_time": 1763908822,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 102120,
+      "num": 102120,
+      "word": "男子半月领养20多只猫全部失踪",
+      "onboard_time": 1763983461,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 101998,
@@ -1915,6 +2011,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 95277,
+      "num": 105313,
+      "word": "屈臣氏CEO在香港跳海救人",
+      "onboard_time": 1763982202,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95045,
       "num": 95045,
       "word": "医院流感接诊量明显升高",
@@ -1929,6 +2033,14 @@
       "onboard_time": 1763901861,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 94331,
+      "num": 703592,
+      "word": "人造太阳有望两年后点燃",
+      "onboard_time": 1763982021,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 93038,
@@ -2195,14 +2307,6 @@
       "category": "综艺,汽车"
     },
     {
-      "raw_hot": 69731,
-      "num": 192173,
-      "word": "中国大米在日本售价上涨数倍",
-      "onboard_time": 1763980581,
-      "rank": 19,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 68240,
       "num": 92667,
       "word": "沙溢刮完胡子年轻二十岁",
@@ -2403,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48055,
+      "num": 149608,
+      "word": "荒野求生决赛测体重有选手胖18斤",
+      "onboard_time": 1763982021,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47808,
       "num": 107369,
       "word": "网红圈出糙汉了 结果是方头明",
@@ -2457,6 +2569,14 @@
       "onboard_time": 1763924714,
       "rank": 40,
       "category": "网红"
+    },
+    {
+      "raw_hot": 42887,
+      "num": 104958,
+      "word": "9.9元偷甘蔗老板称有人只偷不给钱",
+      "onboard_time": 1763982021,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42839,
@@ -2531,6 +2651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36093,
+      "num": 106523,
+      "word": "李家超表态",
+      "onboard_time": 1763983401,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 35117,
       "num": 93797,
       "word": "TTG清清断开连接",
@@ -2544,6 +2672,14 @@
       "word": "老中医回应被罚退赛",
       "onboard_time": 1763973982,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33795,
+      "num": 116446,
+      "word": "三只松鼠ceo叫松鼠老爹",
+      "onboard_time": 1763982801,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
