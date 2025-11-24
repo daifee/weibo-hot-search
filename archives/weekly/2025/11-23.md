@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/25 06:26:31
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/25 06:42:55
 </p>
 </blockquote>
 <p>
@@ -4677,6 +4677,12 @@ ADSPro不是显眼包胜似显眼包（热度：64189）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23" target="weibo">
+中国大米出现在日本商店显著位置（热度：33862）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%9C%9F%E5%89%A7%E7%8E%8B%E8%A6%81%E6%9D%A5%E4%BA%86%23" target="weibo">
 枭起青壤真剧王要来了（热度：33628）
 </a>
@@ -4715,6 +4721,12 @@ ADSPro不是显眼包胜似显眼包（热度：64189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%81%82%E4%B9%9D%E7%BD%97%E7%96%AF%E5%88%80%E7%9A%AE%E8%82%A4%23" target="weibo">
 迪丽热巴聂九罗疯刀皮肤（热度：32266）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E6%92%AD%E4%B8%BB%E6%92%AD%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BC%BA%E5%BA%A6%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
+团播主播一天的强度吓到我了（热度：32119）
 </a>
 </li>
 
@@ -4803,12 +4815,6 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23" target="weibo">
-中国大米出现在日本商店显著位置（热度：28361）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%BF%91%E7%99%BE%E5%8F%AA%E7%8C%95%E7%8C%B4%E6%89%93%E7%BE%A4%E6%9E%B6%23" target="weibo">
 公园方回应近百只猕猴打群架（热度：27189）
 </a>
@@ -4817,12 +4823,6 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E4%BB%B7%E5%90%88%E9%87%91%E9%A6%96%E9%A5%B0%E9%95%89%E5%85%83%E7%B4%A0%E8%B6%85%E6%A0%879000%E5%A4%9A%E5%80%8D%23" target="weibo">
 廉价合金首饰镉元素超标9000多倍（热度：27169）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E6%92%AD%E4%B8%BB%E6%92%AD%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BC%BA%E5%BA%A6%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
-团播主播一天的强度吓到我了（热度：26854）
 </a>
 </li>
 
@@ -4923,6 +4923,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E6%9D%8E%E7%BA%AF%E4%BD%A0%E4%BF%A9%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%96%9D%E4%B8%AD%E8%8D%AF%23" target="weibo">
+孙千李纯你俩根本没喝中药（热度：22602）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E5%A6%88%E8%B7%B3%E5%B9%BF%E5%9C%BA%E8%88%9E%E5%B1%85%E6%B0%91%E6%94%BE%E9%9E%AD%E7%82%AE%E5%9B%9E%E5%87%BB%23" target="weibo">
 大妈跳广场舞居民放鞭炮回击（热度：22582）
 </a>
@@ -4959,6 +4965,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%8F%A4%E9%A3%8E%E7%8B%82%E7%94%9F%23" target="weibo">
+陈晓古风狂生（热度：21243）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E8%89%B3%E5%A6%AE%E5%8F%91%E6%96%87%E5%91%8A%E5%88%AB2025%E8%B5%9B%E5%AD%A3%23" target="weibo">
 吴艳妮发文告别2025赛季（热度：21148）
 </a>
@@ -4979,6 +4991,12 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AD%A6%E6%96%B9%E6%8B%98%E7%95%9914%E5%90%8D%E6%97%A5%E6%9C%AC%E8%AF%88%E9%AA%97%E5%AB%8C%E7%8A%AF%23" target="weibo">
 马来西亚警方拘留14名日本诈骗嫌犯（热度：19871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
+老师只是低血糖不是新动作（热度：19158）
 </a>
 </li>
 
@@ -5043,12 +5061,6 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
-老师只是低血糖不是新动作（热度：15927）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B7%E7%94%98%E8%94%97%E5%86%9C%E5%9C%BA%E4%B8%BB%E7%90%86%E4%BA%BA%E5%BF%99%E5%88%B0%E4%B8%80%E5%A4%A9%E7%9D%A12%E5%B0%8F%E6%97%B6%23" target="weibo">
 偷甘蔗农场主理人忙到一天睡2小时（热度：15585）
 </a>
@@ -5093,12 +5105,6 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A7%A8%E5%8E%8B%E8%BF%AB%E6%84%9F%23" target="weibo">
 林姨压迫感（热度：13359）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E6%9D%8E%E7%BA%AF%E4%BD%A0%E4%BF%A9%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%96%9D%E4%B8%AD%E8%8D%AF%23" target="weibo">
-孙千李纯你俩根本没喝中药（热度：13141）
 </a>
 </li>
 

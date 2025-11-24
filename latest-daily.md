@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/25 00:31:26 ~ 2025/11/25 06:26:31
+本榜单时间：2025/11/25 00:31:26 ~ 2025/11/25 06:42:55
 </p>
 </blockquote>
 <p>
@@ -129,6 +129,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%81%9C%E6%AD%A2%E4%B8%8E%E6%97%A5%E6%9C%AC%E9%A2%86%E4%BA%8B%E9%A6%86%E5%AE%98%E6%96%B9%E4%BA%A4%E6%B5%81%23" target="weibo">
+特区政府停止与日本领事馆官方交流（热度：124829）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23FILA%E8%87%B4%E6%AD%89%23" target="weibo">
 FILA致歉（热度：124747）
 </a>
@@ -167,12 +173,6 @@ FILA致歉（热度：124747）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B2%E7%BB%B3%E5%91%A8%E8%BE%B9%E4%B8%8D%E6%96%AD%E8%BF%90%E5%85%A5%E5%AF%BC%E5%BC%B9%E5%92%8C%E5%A4%9A%E5%9B%BD%E5%86%9B%E8%88%B0%23" target="weibo">
 冲绳周边不断运入导弹和多国军舰（热度：106299）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E5%8C%BA%E6%94%BF%E5%BA%9C%E5%81%9C%E6%AD%A2%E4%B8%8E%E6%97%A5%E6%9C%AC%E9%A2%86%E4%BA%8B%E9%A6%86%E5%AE%98%E6%96%B9%E4%BA%A4%E6%B5%81%23" target="weibo">
-特区政府停止与日本领事馆官方交流（热度：104646）
 </a>
 </li>
 
@@ -327,6 +327,18 @@ U17国足14比0东帝汶U17（热度：78375）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23" target="weibo">
+中国大米出现在日本商店显著位置（热度：33862）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E6%92%AD%E4%B8%BB%E6%92%AD%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BC%BA%E5%BA%A6%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
+团播主播一天的强度吓到我了（热度：32119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E22%E8%AE%A1%E5%88%9211%E6%9C%8825%E6%97%A5%E5%8F%91%E5%B0%84%23" target="weibo">
 神22计划11月25日发射（热度：30629）
 </a>
@@ -345,18 +357,6 @@ U17国足14比0东帝汶U17（热度：78375）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23" target="weibo">
-中国大米出现在日本商店显著位置（热度：28361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E6%92%AD%E4%B8%BB%E6%92%AD%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BC%BA%E5%BA%A6%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
-团播主播一天的强度吓到我了（热度：26854）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%9A%82%E8%9A%B1%E6%83%B3%E6%95%91%E7%8B%97%E5%93%A5%E5%8D%B4%E8%A2%AB%E8%AF%AF%E4%BC%A4%23" target="weibo">
 蚂蚱想救狗哥却被误伤（热度：24896）
 </a>
@@ -369,14 +369,32 @@ U17国足14比0东帝汶U17（热度：78375）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E6%9D%8E%E7%BA%AF%E4%BD%A0%E4%BF%A9%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%96%9D%E4%B8%AD%E8%8D%AF%23" target="weibo">
+孙千李纯你俩根本没喝中药（热度：22602）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%E5%92%8C%E8%82%96%E6%88%98%E7%BB%AD%E7%81%AB%E8%8A%B1%23" target="weibo">
+在荣耀发布会和肖战续火花（热度：21580）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%8D%9A%E6%96%87%20%E8%87%AA%E5%8A%A8%E8%BF%9B%E5%85%A5%E5%86%B7%E9%85%B7%E7%8A%B6%E6%80%81%E4%B8%AD%23" target="weibo">
 杨博文 自动进入冷酷状态中（热度：21439）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%E5%92%8C%E8%82%96%E6%88%98%E7%BB%AD%E7%81%AB%E8%8A%B1%23" target="weibo">
-在荣耀发布会和肖战续火花（热度：19428）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E5%8F%A4%E9%A3%8E%E7%8B%82%E7%94%9F%23" target="weibo">
+陈晓古风狂生（热度：21243）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
+老师只是低血糖不是新动作（热度：19158）
 </a>
 </li>
 
@@ -393,20 +411,8 @@ U17国足14比0东帝汶U17（热度：78375）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
-老师只是低血糖不是新动作（热度：15927）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E9%87%8D%E5%BA%86%E7%B2%89%E4%B8%9D%E8%A7%81%E9%9D%A2%E4%BC%9A%23" target="weibo">
 张艺兴重庆粉丝见面会（热度：13822）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E6%9D%8E%E7%BA%AF%E4%BD%A0%E4%BF%A9%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%96%9D%E4%B8%AD%E8%8D%AF%23" target="weibo">
-孙千李纯你俩根本没喝中药（热度：13141）
 </a>
 </li>
 
