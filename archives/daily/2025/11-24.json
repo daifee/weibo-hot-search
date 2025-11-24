@@ -1,9 +1,9 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763994540333,
+  "endTime": 1763995595051,
   "band_list": [
     {
-      "raw_hot": 1437023,
+      "raw_hot": 1568098,
       "num": 287089,
       "word": "邢菲道歉",
       "onboard_time": 1763990842,
@@ -291,6 +291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 564461,
+      "num": 206291,
+      "word": "弄简 同手同脚",
+      "onboard_time": 1763993483,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 556876,
       "num": 181881,
       "word": "那英怼华晨宇",
@@ -443,20 +451,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 435005,
+      "num": 247160,
+      "word": "程晓玥说自己女儿品味差",
+      "onboard_time": 1763990182,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 434970,
+      "num": 330652,
+      "word": "冲绳周边不断运入导弹和多国军舰",
+      "onboard_time": 1763988380,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 431894,
       "num": 431894,
       "word": "荒野求生老中医鞋底藏物被退赛",
       "onboard_time": 1763960422,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 417112,
-      "num": 330652,
-      "word": "冲绳周边不断运入导弹和多国军舰",
-      "onboard_time": 1763988380,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 414228,
@@ -571,12 +587,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 333295,
-      "num": 206291,
-      "word": "弄简 同手同脚",
-      "onboard_time": 1763993483,
-      "rank": 17,
-      "category": "音乐"
+      "raw_hot": 334004,
+      "num": 194488,
+      "word": "豆瓣崩了",
+      "onboard_time": 1763995103,
+      "rank": 23,
+      "category": "互联网"
     },
     {
       "raw_hot": 333286,
@@ -753,14 +769,6 @@
       "onboard_time": 1763985200,
       "rank": 21,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 285735,
-      "num": 247160,
-      "word": "程晓玥说自己女儿品味差",
-      "onboard_time": 1763990182,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 284467,
@@ -987,6 +995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199583,
+      "num": 199583,
+      "word": "范丞丞提名金莲花奖最佳男配角奖",
+      "onboard_time": 1763992222,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 198693,
       "num": 198693,
       "word": "黄星直播",
@@ -1067,12 +1083,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 192518,
+      "num": 192518,
+      "word": "云南发现寄生花",
+      "onboard_time": 1763992161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 191397,
       "num": 191397,
       "word": "官方通报乘客被困高铁厕所",
       "onboard_time": 1763966963,
       "rank": 25,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 191151,
+      "num": 191151,
+      "word": "杨紫锦绣芳华横扫6项提名",
+      "onboard_time": 1763994622,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 191011,
@@ -1115,14 +1147,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186935,
-      "num": 186935,
-      "word": "范丞丞提名金莲花奖最佳男配角奖",
-      "onboard_time": 1763992222,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186071,
       "num": 171610,
       "word": "网评的四大00生",
@@ -1144,6 +1168,14 @@
       "word": "中国男子5000米接力银牌",
       "onboard_time": 1763944341,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 182549,
+      "num": 182549,
+      "word": "中国选手夺冠主办方到处借五星红旗",
+      "onboard_time": 1763994501,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -1411,14 +1443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 148078,
-      "num": 178912,
-      "word": "云南发现寄生花",
-      "onboard_time": 1763992161,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 147607,
       "num": 147607,
       "word": "眉压眼和眉包眼的区别",
@@ -1441,6 +1465,14 @@
       "onboard_time": 1763973201,
       "rank": 29,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 145976,
+      "num": 175337,
+      "word": "12个防癌习惯",
+      "onboard_time": 1763994443,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 144870,
@@ -1611,6 +1643,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 132889,
+      "num": 182971,
+      "word": "枭起青壤海外热度",
+      "onboard_time": 1763994203,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132065,
       "num": 132065,
       "word": "曝BLG续约Shad0w",
@@ -1659,12 +1699,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125912,
-      "num": 177467,
-      "word": "中国选手夺冠主办方到处借五星红旗",
-      "onboard_time": 1763994501,
-      "rank": 33,
-      "category": "体育"
+      "raw_hot": 124612,
+      "num": 144865,
+      "word": "三只松鼠回应员工入职要改鼠名",
+      "onboard_time": 1763994563,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124406,
@@ -1801,6 +1841,14 @@
       "onboard_time": 1763982021,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117642,
+      "num": 144721,
+      "word": "以色列官宣引进印度移民",
+      "onboard_time": 1763994742,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117346,
@@ -2155,14 +2203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103216,
-      "num": 175935,
-      "word": "枭起青壤海外热度",
-      "onboard_time": 1763994203,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102995,
       "num": 102995,
       "word": "手机被远程控制后显示这个界面",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1763972421,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101449,
+      "num": 174904,
+      "word": "张俪 我牙膏还没到介意吗",
+      "onboard_time": 1763991982,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 100856,
@@ -2289,22 +2337,6 @@
       "onboard_time": 1763974342,
       "rank": 43,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 99404,
-      "num": 175337,
-      "word": "12个防癌习惯",
-      "onboard_time": 1763994443,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 99194,
-      "num": 174904,
-      "word": "张俪 我牙膏还没到介意吗",
-      "onboard_time": 1763991982,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 98918,
@@ -2579,6 +2611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85676,
+      "num": 144312,
+      "word": "大连海事局航行警告",
+      "onboard_time": 1763994383,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85595,
       "num": 106022,
       "word": "爱奇艺认证成毅赴山海是现象级ip",
@@ -2811,6 +2851,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 64685,
+      "num": 144813,
+      "word": "日本民众担忧沦为靶子",
+      "onboard_time": 1763994863,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64426,
       "num": 102844,
       "word": "内娱综艺开始上强度了",
@@ -2913,6 +2961,14 @@
       "onboard_time": 1763967260,
       "rank": 36,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 56499,
+      "num": 198510,
+      "word": "日本贼心不死",
+      "onboard_time": 1763994983,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 55823,

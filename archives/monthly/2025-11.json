@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763994540333,
+  "endTime": 1763995595051,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -811,6 +811,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1568098,
+      "num": 287089,
+      "word": "邢菲道歉",
+      "onboard_time": 1763990842,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1564838,
       "num": 1028189,
       "word": "枭起青壤",
@@ -944,14 +952,6 @@
       "word": "乔欣淡圈后的生活",
       "onboard_time": 1762919839,
       "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 1437023,
-      "num": 287089,
-      "word": "邢菲道歉",
-      "onboard_time": 1763990842,
-      "rank": 37,
       "category": "艺人"
     },
     {
@@ -6691,6 +6691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 564461,
+      "num": 206291,
+      "word": "弄简 同手同脚",
+      "onboard_time": 1763993483,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 563948,
       "num": 186445,
       "word": "杜若溪曾因严屹宽打孩子提出离婚",
@@ -10059,6 +10067,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 435005,
+      "num": 247160,
+      "word": "程晓玥说自己女儿品味差",
+      "onboard_time": 1763990182,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 434970,
+      "num": 330652,
+      "word": "冲绳周边不断运入导弹和多国军舰",
+      "onboard_time": 1763988380,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 434347,
       "num": 407320,
       "word": "确认暂缓日本进口片上映",
@@ -10609,14 +10633,6 @@
       "onboard_time": 1763109680,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 417112,
-      "num": 330652,
-      "word": "冲绳周边不断运入导弹和多国军舰",
-      "onboard_time": 1763988380,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 416933,
@@ -14043,6 +14059,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 334004,
+      "num": 211923,
+      "word": "豆瓣崩了",
+      "onboard_time": 1763217328,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 333908,
       "num": 333908,
       "word": "何炅谢娜维嘉同台主持",
@@ -14113,14 +14137,6 @@
       "onboard_time": 1763190501,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 333295,
-      "num": 206291,
-      "word": "弄简 同手同脚",
-      "onboard_time": 1763993483,
-      "rank": 17,
-      "category": "音乐"
     },
     {
       "raw_hot": 333291,
@@ -16881,14 +16897,6 @@
       "onboard_time": 1762126399,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 285735,
-      "num": 247160,
-      "word": "程晓玥说自己女儿品味差",
-      "onboard_time": 1763990182,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 285647,
@@ -22499,14 +22507,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 211923,
-      "num": 211923,
-      "word": "豆瓣崩了",
-      "onboard_time": 1763217328,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 211845,
       "num": 161828,
       "word": "樊振东7比11王楚钦",
@@ -24363,6 +24363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199583,
+      "num": 199583,
+      "word": "范丞丞提名金莲花奖最佳男配角奖",
+      "onboard_time": 1763992222,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 199492,
       "num": 199492,
       "word": "Gumayusi说我是世上最好的ADC",
@@ -25739,6 +25747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 192518,
+      "num": 192518,
+      "word": "云南发现寄生花",
+      "onboard_time": 1763992161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 192461,
       "num": 192461,
       "word": "告五人只有三个人",
@@ -25969,6 +25985,14 @@
       "onboard_time": 1762697843,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191151,
+      "num": 191151,
+      "word": "杨紫锦绣芳华横扫6项提名",
+      "onboard_time": 1763994622,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 191125,
@@ -27035,14 +27059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 186935,
-      "num": 186935,
-      "word": "范丞丞提名金莲花奖最佳男配角奖",
-      "onboard_time": 1763992222,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 186890,
       "num": 233721,
       "word": "成毅天地剑心豆瓣6.0",
@@ -27929,6 +27945,14 @@
       "onboard_time": 1763285121,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 182549,
+      "num": 182549,
+      "word": "中国选手夺冠主办方到处借五星红旗",
+      "onboard_time": 1763994501,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 182547,
@@ -35555,14 +35579,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148078,
-      "num": 178912,
-      "word": "云南发现寄生花",
-      "onboard_time": 1763992161,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148025,
       "num": 148025,
       "word": "iPhonePocket适配所有iPhone",
@@ -36137,6 +36153,14 @@
       "onboard_time": 1762597642,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 145976,
+      "num": 175337,
+      "word": "12个防癌习惯",
+      "onboard_time": 1763994443,
+      "rank": 40,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 145950,
@@ -40219,6 +40243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132889,
+      "num": 182971,
+      "word": "枭起青壤海外热度",
+      "onboard_time": 1763994203,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132870,
       "num": 132870,
       "word": "陈梦回应是否会参加下届全运会",
@@ -42827,14 +42859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 125912,
-      "num": 177467,
-      "word": "中国选手夺冠主办方到处借五星红旗",
-      "onboard_time": 1763994501,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 125908,
       "num": 125908,
       "word": "高市早苗不是嘴瓢而是说漏了",
@@ -43473,6 +43497,14 @@
       "onboard_time": 1762863982,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 124612,
+      "num": 144865,
+      "word": "三只松鼠回应员工入职要改鼠名",
+      "onboard_time": 1763994563,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124578,
@@ -46673,6 +46705,14 @@
       "onboard_time": 1762071200,
       "rank": 35,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117642,
+      "num": 144721,
+      "word": "以色列官宣引进印度移民",
+      "onboard_time": 1763994742,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 117629,
@@ -53811,14 +53851,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103216,
-      "num": 175935,
-      "word": "枭起青壤海外热度",
-      "onboard_time": 1763994203,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103189,
       "num": 81697,
       "word": "中方奉劝英方停止贼喊捉贼",
@@ -54841,6 +54873,14 @@
       "onboard_time": 1763628142,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 101449,
+      "num": 174904,
+      "word": "张俪 我牙膏还没到介意吗",
+      "onboard_time": 1763991982,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 101443,
@@ -56019,14 +56059,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 99404,
-      "num": 175337,
-      "word": "12个防癌习惯",
-      "onboard_time": 1763994443,
-      "rank": 40,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 99381,
       "num": 138493,
       "word": "任嘉伦古装仪态",
@@ -56129,14 +56161,6 @@
       "onboard_time": 1762936340,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99194,
-      "num": 174904,
-      "word": "张俪 我牙膏还没到介意吗",
-      "onboard_time": 1763991982,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 99184,
@@ -64235,6 +64259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85676,
+      "num": 144312,
+      "word": "大连海事局航行警告",
+      "onboard_time": 1763994383,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85644,
       "num": 251836,
       "word": "日本多行业股价断崖式下跌",
@@ -71971,6 +72003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64685,
+      "num": 144813,
+      "word": "日本民众担忧沦为靶子",
+      "onboard_time": 1763994863,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 64680,
       "num": 110732,
       "word": "林高远4比2程靖淇",
@@ -74145,6 +74185,14 @@
       "onboard_time": 1762263561,
       "rank": 49,
       "category": "体育,海外新闻"
+    },
+    {
+      "raw_hot": 56499,
+      "num": 198510,
+      "word": "日本贼心不死",
+      "onboard_time": 1763994983,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 56398,
