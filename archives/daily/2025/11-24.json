@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763955998004,
+  "endTime": 1763956851388,
   "band_list": [
     {
       "raw_hot": 1169067,
@@ -19,12 +19,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1085299,
+      "num": 291424,
+      "word": "原来领证和不领证的区别这么大",
+      "onboard_time": 1763954362,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1014479,
-      "num": 277798,
+      "num": 289400,
       "word": "彝族老人 镜头霸凌",
       "onboard_time": 1763911642,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 848361,
+      "num": 290691,
+      "word": "林更新被骂来活了 霍建华被骂不活了",
+      "onboard_time": 1763955562,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 844025,
@@ -36,7 +52,7 @@
     },
     {
       "raw_hot": 809844,
-      "num": 283952,
+      "num": 290230,
       "word": "做妇科检查女生被医生骂哭了",
       "onboard_time": 1763940678,
       "rank": 11,
@@ -56,14 +72,6 @@
       "word": "剪毁刘海意外成了人生发型",
       "onboard_time": 1763946681,
       "rank": 12,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 593314,
-      "num": 288734,
-      "word": "原来领证和不领证的区别这么大",
-      "onboard_time": 1763954362,
-      "rank": 10,
       "category": "情感"
     },
     {
@@ -92,11 +100,19 @@
     },
     {
       "raw_hot": 506841,
-      "num": 202205,
+      "num": 270278,
       "word": "张靓颖自曝患带状疱疹留疤",
       "onboard_time": 1763948000,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 497516,
+      "num": 497516,
+      "word": "免费试吃诈骗",
+      "onboard_time": 1763954901,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 439065,
@@ -171,6 +187,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 319471,
+      "num": 319471,
+      "word": "樊振东现场贴膜",
+      "onboard_time": 1763955381,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315595,
       "num": 315595,
       "word": "杨瀚森NBA生涯首个三分",
@@ -211,20 +235,44 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 291871,
+      "num": 299106,
+      "word": "江山为聘",
+      "onboard_time": 1763954001,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 289209,
+      "num": 289209,
+      "word": "樊振东收获金球拍",
+      "onboard_time": 1763956460,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 283278,
+      "num": 283278,
+      "word": "女子要28万彩礼致百万年薪男友寒心",
+      "onboard_time": 1763956642,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 282145,
-      "num": 200855,
+      "num": 238310,
       "word": "内娱群像剧终于开窍了",
       "onboard_time": 1763954300,
       "rank": 21,
       "category": "剧集"
     },
     {
-      "raw_hot": 266159,
-      "num": 266159,
-      "word": "林更新被骂来活了 霍建华被骂不活了",
-      "onboard_time": 1763955562,
-      "rank": 14,
-      "category": "艺人"
+      "raw_hot": 274419,
+      "num": 274419,
+      "word": "日本砸131亿日元在台搞媚日宣传",
+      "onboard_time": 1763955141,
+      "rank": 17,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252635,
@@ -235,14 +283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 247623,
-      "num": 299106,
-      "word": "江山为聘",
-      "onboard_time": 1763954001,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 242300,
       "num": 242300,
       "word": "高市言论被翻译成鬼子又回来了",
@@ -251,36 +291,44 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 212503,
-      "num": 212503,
-      "word": "樊振东现场贴膜",
-      "onboard_time": 1763955381,
-      "rank": 16,
-      "category": "体育"
+      "raw_hot": 229347,
+      "num": 229347,
+      "word": "高市早苗被拒进入日本相扑擂台",
+      "onboard_time": 1763953520,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
-      "raw_hot": 211116,
-      "num": 200314,
+      "raw_hot": 216716,
+      "num": 216716,
       "word": "A股",
       "onboard_time": 1763949681,
       "rank": 29,
       "category": "财经"
     },
     {
-      "raw_hot": 208945,
-      "num": 291986,
-      "word": "免费试吃诈骗",
-      "onboard_time": 1763954901,
-      "rank": 9,
-      "category": "民生新闻"
+      "raw_hot": 214071,
+      "num": 214071,
+      "word": "金枝 李一桐陈星旭",
+      "onboard_time": 1763954481,
+      "rank": 41,
+      "category": "剧集"
     },
     {
-      "raw_hot": 205857,
-      "num": 205857,
-      "word": "日本砸131亿日元在台搞媚日宣传",
-      "onboard_time": 1763955141,
-      "rank": 17,
-      "category": "国际时政"
+      "raw_hot": 211820,
+      "num": 211820,
+      "word": "王一博 王大胆",
+      "onboard_time": 1763955681,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200528,
+      "num": 200528,
+      "word": "Faker打算做加里奥冠军皮肤",
+      "onboard_time": 1763955381,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 200428,
@@ -299,28 +347,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198727,
-      "num": 198727,
-      "word": "高市早苗被拒进入日本相扑擂台",
-      "onboard_time": 1763953520,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193887,
       "num": 204560,
       "word": "刘宇宁大生意人万两MV好摩登",
       "onboard_time": 1763954181,
       "rank": 18,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193123,
-      "num": 193123,
-      "word": "王一博 王大胆",
-      "onboard_time": 1763955681,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 189988,
@@ -379,6 +411,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 171374,
+      "num": 171374,
+      "word": "高市早苗入场打断他国领导人发言",
+      "onboard_time": 1763954842,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 171158,
       "num": 171158,
       "word": "杨紫又一个大女主戏待播",
@@ -409,14 +449,6 @@
       "onboard_time": 1763954721,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 165387,
-      "num": 165387,
-      "word": "高市早苗入场打断他国领导人发言",
-      "onboard_time": 1763954842,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 164665,
@@ -475,12 +507,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 153170,
-      "num": 153170,
-      "word": "Faker打算做加里奥冠军皮肤",
-      "onboard_time": 1763955381,
-      "rank": 33,
-      "category": "电竞"
+      "raw_hot": 144244,
+      "num": 144244,
+      "word": "张继科杯混团赛来了",
+      "onboard_time": 1763954600,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 144166,
@@ -579,6 +611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120620,
+      "num": 120620,
+      "word": "83岁演员发声感谢古天乐",
+      "onboard_time": 1763951541,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 118746,
       "num": 118746,
       "word": "整形医生回应C罗整容",
@@ -587,20 +627,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118314,
-      "num": 118314,
-      "word": "张继科杯混团赛来了",
-      "onboard_time": 1763954600,
-      "rank": 40,
-      "category": "体育"
+      "raw_hot": 118589,
+      "num": 118589,
+      "word": "商场的衣服那么贵都卖给谁了",
+      "onboard_time": 1763956222,
+      "rank": 43,
+      "category": "幽默"
     },
     {
-      "raw_hot": 118167,
-      "num": 118167,
-      "word": "金枝 李一桐陈星旭",
-      "onboard_time": 1763954481,
-      "rank": 41,
-      "category": "剧集"
+      "raw_hot": 118346,
+      "num": 149416,
+      "word": "狂野时代 两极分化",
+      "onboard_time": 1763956222,
+      "rank": 34,
+      "category": "电影"
     },
     {
       "raw_hot": 115995,
@@ -641,6 +681,14 @@
       "onboard_time": 1763909602,
       "rank": 25,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 112832,
+      "num": 283424,
+      "word": "鸿蒙走出一条中国科技的新路",
+      "onboard_time": 1763956341,
+      "rank": 16,
+      "category": "数码,科学科普"
     },
     {
       "raw_hot": 111898,
@@ -699,12 +747,12 @@
       "category": "议题讨论"
     },
     {
-      "raw_hot": 102612,
-      "num": 102612,
-      "word": "83岁演员发声感谢古天乐",
-      "onboard_time": 1763951541,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 104438,
+      "num": 104438,
+      "word": "日本发生大火今晨仍未被扑灭",
+      "onboard_time": 1763956282,
+      "rank": 49,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102290,
@@ -721,6 +769,14 @@
       "onboard_time": 1763951361,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101773,
+      "num": 150017,
+      "word": "钟汉良秦岚新剧吻戏",
+      "onboard_time": 1763955440,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 101600,
@@ -849,14 +905,6 @@
       "onboard_time": 1763949081,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 87200,
-      "num": 118337,
-      "word": "钟汉良秦岚新剧吻戏",
-      "onboard_time": 1763955440,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 84155,
@@ -1043,6 +1091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 44271,
+      "num": 211840,
+      "word": "廉价首饰有多伤皮肤",
+      "onboard_time": 1763955262,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43656,
       "num": 121770,
       "word": "男子骑电瓶车突然180度翻转倒地",
@@ -1115,6 +1171,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 37110,
+      "num": 270322,
+      "word": "结婚登记同比增加超40万对",
+      "onboard_time": 1763956460,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36629,
       "num": 96720,
       "word": "何炅 一个严肃的音综被你们当小品在看",
@@ -1171,14 +1235,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 25224,
-      "num": 204390,
-      "word": "廉价首饰有多伤皮肤",
-      "onboard_time": 1763955262,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24776,
       "num": 98425,
       "word": "印度劫案告破落网3人身份离谱",
@@ -1193,6 +1249,14 @@
       "onboard_time": 1763932034,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23184,
+      "num": 133079,
+      "word": "代购印度壮阳药国内私自售卖获罪",
+      "onboard_time": 1763956401,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22545,
