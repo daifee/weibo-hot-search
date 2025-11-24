@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763984373566,
+  "endTime": 1763988983200,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1183303,
-      "num": 192167,
+      "num": 196751,
       "word": "胡彦斌妈妈 老版易梦玲",
       "onboard_time": 1763979261,
       "rank": 22,
@@ -83,6 +83,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1049745,
+      "num": 200034,
+      "word": "邢菲疑似违反交规",
+      "onboard_time": 1763986702,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1014479,
       "num": 289400,
       "word": "彝族老人 镜头霸凌",
@@ -123,6 +131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 818278,
+      "num": 199497,
+      "word": "戴军曝杨笠常住清迈",
+      "onboard_time": 1763984121,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 809844,
       "num": 290230,
       "word": "做妇科检查女生被医生骂哭了",
@@ -161,6 +177,14 @@
       "onboard_time": 1763960422,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 691390,
+      "num": 199463,
+      "word": "花一万六买152件衣服",
+      "onboard_time": 1763985261,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 687668,
@@ -339,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 462593,
+      "num": 199083,
+      "word": "医院将进价3万的瓣膜28万元卖出",
+      "onboard_time": 1763982801,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 460305,
       "num": 208976,
       "word": "冯德伦称接受领养小孩",
@@ -377,6 +409,14 @@
       "onboard_time": 1763960422,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 414228,
+      "num": 284016,
+      "word": "中方回应高市早苗称愿与中国对话",
+      "onboard_time": 1763982740,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 412344,
@@ -555,14 +595,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303284,
-      "num": 196429,
-      "word": "戴军曝杨笠常住清迈",
-      "onboard_time": 1763984121,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 303138,
       "num": 361301,
       "word": "卢凌风那是你的婚约吗",
@@ -593,6 +625,14 @@
       "onboard_time": 1763968462,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 299002,
+      "num": 197672,
+      "word": "罗一舟回应转行",
+      "onboard_time": 1763985081,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 297715,
@@ -627,6 +667,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286350,
+      "num": 196500,
+      "word": "陈星旭咱妈看起来不像本地人",
+      "onboard_time": 1763985200,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 284467,
       "num": 188439,
       "word": "高市65%支持率传递危险信号",
@@ -659,12 +707,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 277534,
-      "num": 200914,
-      "word": "中方回应高市早苗称愿与中国对话",
-      "onboard_time": 1763982740,
-      "rank": 16,
-      "category": "国内时政"
+      "raw_hot": 276676,
+      "num": 276676,
+      "word": "金莲花提名",
+      "onboard_time": 1763987601,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 273998,
+      "num": 273998,
+      "word": "地枭才是完美男友",
+      "onboard_time": 1763984182,
+      "rank": 34,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 267695,
@@ -708,7 +764,7 @@
     },
     {
       "raw_hot": 240696,
-      "num": 142821,
+      "num": 151902,
       "word": "内娱也开始卷学历了",
       "onboard_time": 1763973921,
       "rank": 30,
@@ -721,6 +777,14 @@
       "onboard_time": 1763960782,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 218591,
+      "num": 218591,
+      "word": "雷军增持小米260万股",
+      "onboard_time": 1763985200,
+      "rank": 8,
+      "category": "互联网,财经"
     },
     {
       "raw_hot": 216716,
@@ -803,12 +867,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199083,
-      "num": 199083,
-      "word": "医院将进价3万的瓣膜28万元卖出",
-      "onboard_time": 1763982801,
-      "rank": 26,
-      "category": "民生新闻"
+      "raw_hot": 200081,
+      "num": 206000,
+      "word": "枭起青壤",
+      "onboard_time": 1763981061,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 197011,
@@ -817,6 +881,14 @@
       "onboard_time": 1763954842,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 196445,
+      "num": 196445,
+      "word": "张艺兴重庆粉丝见面会",
+      "onboard_time": 1763988501,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 195505,
@@ -881,6 +953,14 @@
       "onboard_time": 1763949019,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 189105,
+      "num": 189105,
+      "word": "何秋亊掉粉461万",
+      "onboard_time": 1763988142,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 187609,
@@ -968,14 +1048,6 @@
       "word": "唐诡粉想要唐诡粉得到",
       "onboard_time": 1763961141,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 176461,
-      "num": 206000,
-      "word": "枭起青壤",
-      "onboard_time": 1763981061,
-      "rank": 17,
       "category": "剧集"
     },
     {
@@ -1099,6 +1171,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164180,
+      "num": 164180,
+      "word": "荣耀500发布会",
+      "onboard_time": 1763986281,
+      "rank": 24,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 162611,
+      "num": 162611,
+      "word": "NS官宣Neoguri加入",
+      "onboard_time": 1763985200,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161556,
       "num": 161556,
       "word": "这就是猪肺没人买的原因",
@@ -1161,6 +1249,14 @@
       "onboard_time": 1763910204,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 151998,
+      "num": 151998,
+      "word": "南山猎人好弱",
+      "onboard_time": 1763987122,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 151621,
@@ -1372,7 +1468,7 @@
     },
     {
       "raw_hot": 129788,
-      "num": 129788,
+      "num": 151904,
       "word": "日方在西南诸岛部署进攻性武器",
       "onboard_time": 1763983282,
       "rank": 41,
@@ -1489,6 +1585,14 @@
       "onboard_time": 1763965281,
       "rank": 39,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 119034,
+      "num": 151962,
+      "word": "男子半月领养20多只猫全部失踪",
+      "onboard_time": 1763983461,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118746,
@@ -1617,6 +1721,14 @@
       "onboard_time": 1763976261,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110602,
+      "num": 151958,
+      "word": "李诞谈结婚最重要的条件",
+      "onboard_time": 1763985320,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 110043,
@@ -1819,12 +1931,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 102480,
-      "num": 102480,
-      "word": "男子半月领养20多只猫全部失踪",
-      "onboard_time": 1763983461,
-      "rank": 47,
-      "category": "民生新闻"
+      "raw_hot": 103565,
+      "num": 151941,
+      "word": "敖子逸立遗嘱想的是先还贷款",
+      "onboard_time": 1763987242,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 102290,
@@ -2067,6 +2179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94655,
+      "num": 151911,
+      "word": "梅尼耶女友秀恩爱",
+      "onboard_time": 1763986522,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 93038,
       "num": 93038,
       "word": "为什么感冒常常从嗓子疼开始",
@@ -2105,6 +2225,14 @@
       "onboard_time": 1763906182,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90894,
+      "num": 151933,
+      "word": "救命药滞留前台5小时致男子身亡",
+      "onboard_time": 1763988081,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90637,
@@ -2227,6 +2355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83601,
+      "num": 151896,
+      "word": "梅婷再问快快爷爷最喜欢谁",
+      "onboard_time": 1763988802,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 82705,
       "num": 120873,
       "word": "假公章转走千万资产警方却不予立案",
@@ -2299,6 +2435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74838,
+      "num": 151891,
+      "word": "枭起青壤播放量破5000万",
+      "onboard_time": 1763985802,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74777,
       "num": 149608,
       "word": "荒野求生决赛测体重有选手胖18斤",
@@ -2321,6 +2465,14 @@
       "onboard_time": 1763913681,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 71254,
+      "num": 151881,
+      "word": "港圈富二代自曝近百名女星投怀送抱",
+      "onboard_time": 1763988922,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 70666,
@@ -2531,14 +2683,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 50840,
-      "num": 114879,
-      "word": "地枭才是完美男友",
-      "onboard_time": 1763984182,
-      "rank": 34,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 49390,
       "num": 62987,
       "word": "张真源重现提裤子名场面",
@@ -2571,6 +2715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45840,
+      "num": 197554,
+      "word": "荣耀500打到我的心巴上",
+      "onboard_time": 1763988442,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 44271,
       "num": 211840,
       "word": "廉价首饰有多伤皮肤",
@@ -2595,12 +2747,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 43540,
+      "num": 151933,
+      "word": "手机号注销后仍被哈啰扣费178元",
+      "onboard_time": 1763988442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43517,
+      "num": 198673,
+      "word": "罗永浩后悔没看蓝猫淘气三千问",
+      "onboard_time": 1763985622,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 43271,
       "num": 97411,
       "word": "南京一小区居民家发生燃气闪爆",
       "onboard_time": 1763928314,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43115,
+      "num": 197130,
+      "word": "冲绳周边不断运入导弹和多国军舰",
+      "onboard_time": 1763988380,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 43038,
@@ -2659,6 +2835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40151,
+      "num": 151878,
+      "word": "26年前数学57.5分现在是211硕士",
+      "onboard_time": 1763987242,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38997,
       "num": 93956,
       "word": "狼队清清连接成功",
@@ -2697,6 +2881,14 @@
       "onboard_time": 1763983401,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35880,
+      "num": 151971,
+      "word": "高校还藏着多少郭某",
+      "onboard_time": 1763987181,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35187,
