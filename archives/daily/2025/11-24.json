@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763973519727,
+  "endTime": 1763974295425,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1298747,
-      "num": 201064,
+      "num": 206798,
       "word": "杨紫真的拍了香蜜转场",
       "onboard_time": 1763969781,
       "rank": 16,
@@ -43,6 +43,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1116422,
+      "num": 1178627,
+      "word": "中方回应日本部署中程导弹",
+      "onboard_time": 1763970801,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1076720,
       "num": 487619,
       "word": "狂野时代退票率",
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 973132,
-      "num": 200285,
+      "num": 206009,
       "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
       "onboard_time": 1763968940,
       "rank": 37,
@@ -73,14 +81,6 @@
       "onboard_time": 1763955562,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 913357,
-      "num": 1146137,
-      "word": "中方回应日本部署中程导弹",
-      "onboard_time": 1763970801,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 844025,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 666855,
-      "num": 202466,
+      "num": 204975,
       "word": "陈晓陈妍希新剧对打",
       "onboard_time": 1763968581,
       "rank": 14,
@@ -180,7 +180,7 @@
     },
     {
       "raw_hot": 539835,
-      "num": 188148,
+      "num": 197985,
       "word": "黄一鸣谈恋爱了",
       "onboard_time": 1763970021,
       "rank": 47,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 536808,
-      "num": 201238,
+      "num": 204085,
       "word": "打工11年无工资男子收到38万工资",
       "onboard_time": 1763967260,
       "rank": 16,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 505824,
-      "num": 200771,
+      "num": 202876,
       "word": "月薪一万的试吃员有多辛苦",
       "onboard_time": 1763967020,
       "rank": 36,
@@ -283,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 459603,
+      "num": 204533,
+      "word": "巩俐的字",
+      "onboard_time": 1763969421,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -307,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 412344,
+      "num": 185637,
+      "word": "陈小春应采儿两个魔丸生出了个灵珠",
+      "onboard_time": 1763971282,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407041,
       "num": 359369,
       "word": "刘耀文哀牢山录制先导片",
@@ -315,15 +331,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 401608,
-      "num": 196080,
-      "word": "巩俐的字",
-      "onboard_time": 1763969421,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 397621,
+      "raw_hot": 401690,
       "num": 187044,
       "word": "美国一男子因便秘身亡",
       "onboard_time": 1763969961,
@@ -345,14 +353,6 @@
       "onboard_time": 1763900482,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 379509,
-      "num": 185637,
-      "word": "陈小春应采儿两个魔丸生出了个灵珠",
-      "onboard_time": 1763971282,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 371088,
@@ -507,20 +507,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 299971,
+      "num": 299971,
+      "word": "知名婴童品牌被检出菌落超标48倍",
+      "onboard_time": 1763968462,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 296217,
       "num": 253077,
       "word": "王一博 王大胆",
       "onboard_time": 1763955681,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 295617,
-      "num": 295617,
-      "word": "知名婴童品牌被检出菌落超标48倍",
-      "onboard_time": 1763968462,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 292033,
@@ -563,6 +563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 279704,
+      "num": 279704,
+      "word": "邱默云 原子弹",
+      "onboard_time": 1763969901,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 252635,
       "num": 252635,
       "word": "G20",
@@ -579,12 +587,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 226239,
-      "num": 226239,
-      "word": "邱默云 原子弹",
-      "onboard_time": 1763969901,
-      "rank": 34,
-      "category": "电影"
+      "raw_hot": 230326,
+      "num": 230326,
+      "word": "我自愿加入地枭组织",
+      "onboard_time": 1763971641,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 221430,
@@ -883,14 +891,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164518,
-      "num": 195364,
-      "word": "我自愿加入地枭组织",
-      "onboard_time": 1763971641,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 161556,
       "num": 161556,
       "word": "这就是猪肺没人买的原因",
@@ -979,6 +979,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 146421,
+      "num": 201018,
+      "word": "2025时尚芭莎年度影视大赏",
+      "onboard_time": 1763973201,
+      "rank": 29,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 144645,
       "num": 144645,
       "word": "KSG大名单",
@@ -1009,6 +1017,14 @@
       "onboard_time": 1763960961,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 141663,
+      "num": 190738,
+      "word": "高市早苗努力表演不如一把椅子火",
+      "onboard_time": 1763972781,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 141057,
@@ -1075,6 +1091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132284,
+      "num": 132284,
+      "word": "内娱也开始卷学历了",
+      "onboard_time": 1763973921,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 132065,
       "num": 132065,
       "word": "曝BLG续约Shad0w",
@@ -1115,6 +1139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124569,
+      "num": 124569,
+      "word": "易梦玲复工",
+      "onboard_time": 1763974041,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124406,
       "num": 149567,
       "word": "河边的错误含金量",
@@ -1147,20 +1179,20 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 121883,
-      "num": 177564,
-      "word": "2025时尚芭莎年度影视大赏",
-      "onboard_time": 1763973201,
-      "rank": 29,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 121767,
       "num": 121766,
       "word": "西贝员工回应涨薪500元",
       "onboard_time": 1763949439,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121001,
+      "num": 121001,
+      "word": "西藏军区千人刺杀操压迫感十足",
+      "onboard_time": 1763972722,
+      "rank": 46,
+      "category": "军事"
     },
     {
       "raw_hot": 120620,
@@ -1387,6 +1419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103732,
+      "num": 189727,
+      "word": "王火逝世女儿发声",
+      "onboard_time": 1763972421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102290,
       "num": 184260,
       "word": "原谅鸭",
@@ -1419,6 +1459,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 101528,
+      "num": 104291,
+      "word": "泽连斯基发文感谢美国人特别是特朗普",
+      "onboard_time": 1763972421,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 100215,
       "num": 96834,
       "word": "全红婵回村被拍",
@@ -1449,6 +1497,14 @@
       "onboard_time": 1763938997,
       "rank": 7,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99592,
+      "num": 99592,
+      "word": "邝玲玲第一张单人VOGUE封面",
+      "onboard_time": 1763973502,
+      "rank": 48,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 99430,
@@ -1595,20 +1651,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 90607,
+      "num": 90607,
+      "word": "王诗龄端水这一块还是强",
+      "onboard_time": 1763970741,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90541,
       "num": 121586,
       "word": "村民卖一条锦鲤换一栋小洋楼",
       "onboard_time": 1763962281,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 90269,
-      "num": 90269,
-      "word": "西藏军区千人刺杀操压迫感十足",
-      "onboard_time": 1763972722,
-      "rank": 46,
-      "category": "军事"
     },
     {
       "raw_hot": 89710,
@@ -1648,22 +1704,6 @@
       "word": "缅军再出手清剿KK园区",
       "onboard_time": 1763949081,
       "rank": 19,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 86768,
-      "num": 86768,
-      "word": "邝玲玲第一张单人VOGUE封面",
-      "onboard_time": 1763973502,
-      "rank": 48,
-      "category": "艺人,时尚"
-    },
-    {
-      "raw_hot": 85657,
-      "num": 104291,
-      "word": "泽连斯基发文感谢美国人特别是特朗普",
-      "onboard_time": 1763972421,
-      "rank": 38,
       "category": "国际时政"
     },
     {
@@ -1779,12 +1819,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 70666,
+      "num": 108375,
+      "word": "十个勤天熟得有点受不了了",
+      "onboard_time": 1763973620,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 70332,
       "num": 112814,
       "word": "最接近实物樊振东的视频",
       "onboard_time": 1763960002,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69934,
+      "num": 201730,
+      "word": "明星们集体哇塞的阿维塔",
+      "onboard_time": 1763971402,
+      "rank": 16,
+      "category": "综艺,汽车"
     },
     {
       "raw_hot": 68240,
@@ -1867,6 +1923,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 59476,
+      "num": 109172,
+      "word": "马龙采访后仰头长舒一口气",
+      "onboard_time": 1763973620,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 59243,
       "num": 97870,
       "word": "李嘉欣晒照纪念结婚17周年",
@@ -1921,14 +1985,6 @@
       "onboard_time": 1763944461,
       "rank": 49,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 54287,
-      "num": 194345,
-      "word": "明星们集体哇塞的阿维塔",
-      "onboard_time": 1763971402,
-      "rank": 16,
-      "category": "综艺,汽车"
     },
     {
       "raw_hot": 51167,
@@ -2035,14 +2091,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 39279,
-      "num": 190738,
-      "word": "高市早苗努力表演不如一把椅子火",
-      "onboard_time": 1763972781,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 38997,
       "num": 93956,
       "word": "狼队清清连接成功",
@@ -2073,6 +2121,14 @@
       "onboard_time": 1763905043,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 33960,
+      "num": 200397,
+      "word": "老中医回应被罚退赛",
+      "onboard_time": 1763973982,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33279,
@@ -2121,14 +2177,6 @@
       "onboard_time": 1763918777,
       "rank": 46,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 26022,
-      "num": 189727,
-      "word": "王火逝世女儿发声",
-      "onboard_time": 1763972421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24776,
@@ -2201,6 +2249,14 @@
       "onboard_time": 1763928854,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 17587,
+      "num": 461607,
+      "word": "个人信息保护体系再添重要一环",
+      "onboard_time": 1763973861,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15585,

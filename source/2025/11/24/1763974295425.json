@@ -1,0 +1,410 @@
+{
+  "runTime": 1763974295425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1116422,
+        "num": 1178627,
+        "word": "中方回应日本部署中程导弹",
+        "onboard_time": 1763970801,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 490025,
+        "num": 490025,
+        "word": "有人破解巨型吊牌继续蹭穿",
+        "onboard_time": 1763967741,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17587,
+        "num": 461607,
+        "word": "个人信息保护体系再添重要一环",
+        "onboard_time": 1763973861,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728837,
+        "num": 461466,
+        "word": "日媒称中方拒绝明年1月中日韩首脑会谈",
+        "onboard_time": 1763967681,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 461276,
+        "num": 461276,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315497,
+        "num": 315497,
+        "word": "中方用胆敢二字警告日本",
+        "onboard_time": 1763960422,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299971,
+        "num": 299971,
+        "word": "知名婴童品牌被检出菌落超标48倍",
+        "onboard_time": 1763968462,
+        "rank": 6,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 279704,
+        "num": 279704,
+        "word": "邱默云 原子弹",
+        "onboard_time": 1763969901,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 230326,
+        "num": 230326,
+        "word": "我自愿加入地枭组织",
+        "onboard_time": 1763971641,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207259,
+        "num": 207259,
+        "word": "日本欠台湾的血债该还了",
+        "onboard_time": 1763966900,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1220554,
+        "num": 206798,
+        "word": "杨紫真的拍了香蜜转场",
+        "onboard_time": 1763969781,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 919835,
+        "num": 206009,
+        "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+        "onboard_time": 1763968940,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524782,
+        "num": 204975,
+        "word": "陈晓陈妍希新剧对打",
+        "onboard_time": 1763968581,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 459603,
+        "num": 204533,
+        "word": "巩俐的字",
+        "onboard_time": 1763969421,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 457380,
+        "num": 204085,
+        "word": "打工11年无工资男子收到38万工资",
+        "onboard_time": 1763967260,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269160,
+        "num": 202876,
+        "word": "月薪一万的试吃员有多辛苦",
+        "onboard_time": 1763967020,
+        "rank": 15,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 69934,
+        "num": 201730,
+        "word": "明星们集体哇塞的阿维塔",
+        "onboard_time": 1763971402,
+        "rank": 16,
+        "category": "综艺,汽车"
+      },
+      {
+        "raw_hot": 146421,
+        "num": 201018,
+        "word": "2025时尚芭莎年度影视大赏",
+        "onboard_time": 1763973201,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 33960,
+        "num": 200397,
+        "word": "老中医回应被罚退赛",
+        "onboard_time": 1763973982,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200138,
+        "num": 200138,
+        "word": "台湾没什么事日本真有事了",
+        "onboard_time": 1763947879,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 491135,
+        "num": 197985,
+        "word": "黄一鸣谈恋爱了",
+        "onboard_time": 1763970021,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 438709,
+        "num": 191577,
+        "word": "原来领证和不领证的区别这么大",
+        "onboard_time": 1763954362,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 412344,
+        "num": 183627,
+        "word": "陈小春应采儿两个魔丸生出了个灵珠",
+        "onboard_time": 1763971282,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 401690,
+        "num": 180910,
+        "word": "美国一男子因便秘身亡",
+        "onboard_time": 1763969961,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 177906,
+        "num": 177906,
+        "word": "美国乌克兰联合声明",
+        "onboard_time": 1763964501,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174305,
+        "num": 174305,
+        "word": "高市65%支持率传递危险信号",
+        "onboard_time": 1763968940,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141663,
+        "num": 162483,
+        "word": "高市早苗努力表演不如一把椅子火",
+        "onboard_time": 1763972781,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161496,
+        "num": 161496,
+        "word": "彭小苒工作室 网盘",
+        "onboard_time": 1763971103,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43132,
+        "num": 158347,
+        "word": "ADSPro不是显眼包胜似显眼包",
+        "onboard_time": 1763971582,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 155221,
+        "num": 155221,
+        "word": "高圆圆随便涂个口红就开拍了",
+        "onboard_time": 1763966842,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132284,
+        "num": 132284,
+        "word": "内娱也开始卷学历了",
+        "onboard_time": 1763973921,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130079,
+        "num": 130079,
+        "word": "外交部三个绝不允许回应日方",
+        "onboard_time": 1763972541,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 124569,
+        "num": 124569,
+        "word": "易梦玲复工",
+        "onboard_time": 1763974041,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 121001,
+        "num": 121001,
+        "word": "西藏军区千人刺杀操压迫感十足",
+        "onboard_time": 1763972722,
+        "rank": 33,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 120104,
+        "num": 120104,
+        "word": "在一声声爷爷爷爷中迷失",
+        "onboard_time": 1763962401,
+        "rank": 34,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 103732,
+        "num": 118605,
+        "word": "王火逝世女儿发声",
+        "onboard_time": 1763972421,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118459,
+        "num": 118459,
+        "word": "中国对日本的警告在升级",
+        "onboard_time": 1763970261,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111324,
+        "num": 111324,
+        "word": "大帅未来和大家一起走下去",
+        "onboard_time": 1763973321,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 59476,
+        "num": 109172,
+        "word": "马龙采访后仰头长舒一口气",
+        "onboard_time": 1763973620,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70666,
+        "num": 108375,
+        "word": "十个勤天熟得有点受不了了",
+        "onboard_time": 1763973620,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108217,
+        "num": 108217,
+        "word": "疯狂动物城",
+        "onboard_time": 1763964201,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 101528,
+        "num": 101528,
+        "word": "泽连斯基发文感谢美国人特别是特朗普",
+        "onboard_time": 1763972421,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99592,
+        "num": 99592,
+        "word": "邝玲玲第一张单人VOGUE封面",
+        "onboard_time": 1763973502,
+        "rank": 42,
+        "category": "艺人,时尚"
+      },
+      {
+        "raw_hot": 41062,
+        "num": 99297,
+        "word": "中国44项世界非遗位居第一",
+        "onboard_time": 1763959165,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99163,
+        "num": 99163,
+        "word": "KSG大名单",
+        "onboard_time": 1763972901,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98119,
+        "num": 98119,
+        "word": "地枭居然开口说话了",
+        "onboard_time": 1763970501,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97998,
+        "num": 97998,
+        "word": "卢凌风最生气的一集",
+        "onboard_time": 1763971940,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93314,
+        "num": 93314,
+        "word": "林更新被骂来活了 霍建华被骂不活了",
+        "onboard_time": 1763955562,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90607,
+        "num": 90607,
+        "word": "王诗龄端水这一块还是强",
+        "onboard_time": 1763970741,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88598,
+        "num": 88598,
+        "word": "云合",
+        "onboard_time": 1763973260,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视文博工作#"
+    }
+  }
+}
