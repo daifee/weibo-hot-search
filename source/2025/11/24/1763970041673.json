@@ -1,0 +1,410 @@
+{
+  "runTime": 1763970041673,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1052149,
+        "num": 1168343,
+        "word": "日媒称中方拒绝明年1月中日韩首脑会谈",
+        "onboard_time": 1763967681,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 333608,
+        "num": 333608,
+        "word": "美国乌克兰联合声明",
+        "onboard_time": 1763964501,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 58661,
+        "num": 305517,
+        "word": "中国44项世界非遗位居第一",
+        "onboard_time": 1763959165,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 787182,
+        "num": 293837,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 597813,
+        "num": 291933,
+        "word": "中方用胆敢二字警告日本",
+        "onboard_time": 1763960422,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 279745,
+        "num": 279745,
+        "word": "疯狂动物城",
+        "onboard_time": 1763964201,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351440,
+        "num": 274950,
+        "word": "台湾没什么事日本真有事了",
+        "onboard_time": 1763947879,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 248291,
+        "num": 248291,
+        "word": "刘耀文哀牢山录制先导片",
+        "onboard_time": 1763962941,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231807,
+        "num": 231807,
+        "word": "有人破解巨型吊牌继续蹭穿",
+        "onboard_time": 1763967741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202997,
+        "num": 202997,
+        "word": "知名婴童品牌被检出菌落超标48倍",
+        "onboard_time": 1763968462,
+        "rank": 9,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 666855,
+        "num": 202466,
+        "word": "陈晓陈妍希新剧对打",
+        "onboard_time": 1763968581,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 536808,
+        "num": 201238,
+        "word": "打工11年无工资男子收到38万工资",
+        "onboard_time": 1763967260,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 479157,
+        "num": 200771,
+        "word": "月薪一万的试吃员有多辛苦",
+        "onboard_time": 1763967020,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 454715,
+        "num": 199448,
+        "word": "高圆圆随便涂个口红就开拍了",
+        "onboard_time": 1763966842,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199054,
+        "num": 199054,
+        "word": "荒野求生老中医鞋底藏物被退赛",
+        "onboard_time": 1763960422,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 299233,
+        "num": 199054,
+        "word": "张俪 删哪张",
+        "onboard_time": 1763963181,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235707,
+        "num": 199054,
+        "word": "杨紫真的拍了香蜜转场",
+        "onboard_time": 1763969781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216649,
+        "num": 199053,
+        "word": "日本欠台湾的血债该还了",
+        "onboard_time": 1763966900,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213786,
+        "num": 199053,
+        "word": "江疏影风格大变",
+        "onboard_time": 1763957601,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199053,
+        "num": 199052,
+        "word": "林更新被骂来活了 霍建华被骂不活了",
+        "onboard_time": 1763955562,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 190035,
+        "num": 190035,
+        "word": "官方通报乘客被困高铁厕所",
+        "onboard_time": 1763966963,
+        "rank": 20,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 620410,
+        "num": 189756,
+        "word": "原来领证和不领证的区别这么大",
+        "onboard_time": 1763954362,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284467,
+        "num": 188439,
+        "word": "高市65%支持率传递危险信号",
+        "onboard_time": 1763968940,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 182183,
+        "num": 182183,
+        "word": "巩俐的字",
+        "onboard_time": 1763969421,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174328,
+        "num": 174328,
+        "word": "迅猛龙 喜欢男的太浪费时间了",
+        "onboard_time": 1763958442,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 165528,
+        "num": 165528,
+        "word": "在一声声爷爷爷爷中迷失",
+        "onboard_time": 1763962401,
+        "rank": 25,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 159790,
+        "num": 159790,
+        "word": "子阳 大名单",
+        "onboard_time": 1763968341,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150035,
+        "num": 150035,
+        "word": "地球最后的夜晚",
+        "onboard_time": 1763964742,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124406,
+        "num": 149567,
+        "word": "河边的错误含金量",
+        "onboard_time": 1763969482,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122639,
+        "num": 149432,
+        "word": "王鹤棣澳门演唱会",
+        "onboard_time": 1763963721,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 182852,
+        "num": 149055,
+        "word": "李在明夫人被南非欢迎仪式吓一跳",
+        "onboard_time": 1763965641,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151568,
+        "num": 148351,
+        "word": "张家妍可以复合李施嬅不行",
+        "onboard_time": 1763968700,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156470,
+        "num": 148071,
+        "word": "吃一顿一个月工资没了",
+        "onboard_time": 1763960902,
+        "rank": 32,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 147607,
+        "num": 147607,
+        "word": "眉压眼和眉包眼的区别",
+        "onboard_time": 1763969302,
+        "rank": 33,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 130400,
+        "num": 146536,
+        "word": "邱默云 原子弹",
+        "onboard_time": 1763969901,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145729,
+        "num": 145729,
+        "word": "高市早苗遭无视",
+        "onboard_time": 1763961802,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 134394,
+        "num": 134394,
+        "word": "商场的衣服那么贵都卖给谁了",
+        "onboard_time": 1763956222,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 68235,
+        "num": 130557,
+        "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+        "onboard_time": 1763968940,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21253,
+        "num": 128756,
+        "word": "杜兰特因家事缺战太阳勇士",
+        "onboard_time": 1763969542,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 14040,
+        "num": 128740,
+        "word": "胡定欣再否认怀孕",
+        "onboard_time": 1763968940,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128738,
+        "num": 128738,
+        "word": "12条中日航线已取消全部航班",
+        "onboard_time": 1763958743,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126105,
+        "num": 126105,
+        "word": "一家三口横穿马路爸爸竖中指挑衅",
+        "onboard_time": 1763956882,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118731,
+        "num": 118731,
+        "word": "美国一男子因便秘身亡",
+        "onboard_time": 1763969961,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 118651,
+        "num": 118651,
+        "word": "曝BLG续约Shad0w",
+        "onboard_time": 1763967801,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117283,
+        "num": 117283,
+        "word": "原来鸭子身上最不值钱的是鸭肉",
+        "onboard_time": 1763969841,
+        "rank": 44,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 516573,
+        "num": 116045,
+        "word": "X现已显示账号所属地",
+        "onboard_time": 1763965340,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 111561,
+        "num": 111561,
+        "word": "Baolan谈Kanavi离开LPL",
+        "onboard_time": 1763965461,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 111431,
+        "num": 111431,
+        "word": "黄一鸣谈恋爱了",
+        "onboard_time": 1763970021,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110974,
+        "num": 110974,
+        "word": "樊振东收获金球拍",
+        "onboard_time": 1763956460,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108339,
+        "num": 108339,
+        "word": "小狗型恋人",
+        "onboard_time": 1763965402,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视文博工作#"
+    }
+  }
+}

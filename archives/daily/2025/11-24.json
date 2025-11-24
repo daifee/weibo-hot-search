@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763969252532,
+  "endTime": 1763970041673,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1231566,
-      "num": 190579,
+      "num": 1168343,
       "word": "日媒称中方拒绝明年1月中日韩首脑会谈",
       "onboard_time": 1763967681,
       "rank": 10,
@@ -99,6 +99,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 666855,
+      "num": 202466,
+      "word": "陈晓陈妍希新剧对打",
+      "onboard_time": 1763968581,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 631043,
       "num": 252781,
       "word": "剪毁刘海意外成了人生发型",
@@ -137,6 +145,14 @@
       "onboard_time": 1763958864,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 536808,
+      "num": 201238,
+      "word": "打工11年无工资男子收到38万工资",
+      "onboard_time": 1763967260,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 525288,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 505824,
-      "num": 189572,
+      "num": 200771,
       "word": "月薪一万的试吃员有多辛苦",
       "onboard_time": 1763967020,
       "rank": 36,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 477904,
-      "num": 188403,
+      "num": 199448,
       "word": "高圆圆随便涂个口红就开拍了",
       "onboard_time": 1763966842,
       "rank": 33,
@@ -321,14 +337,6 @@
       "onboard_time": 1763958743,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 334370,
-      "num": 187058,
-      "word": "陈晓陈妍希新剧对打",
-      "onboard_time": 1763968581,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 331151,
@@ -459,6 +467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 284467,
+      "num": 188439,
+      "word": "高市65%支持率传递危险信号",
+      "onboard_time": 1763968940,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 283278,
       "num": 283278,
       "word": "女子要28万彩礼致百万年薪男友寒心",
@@ -491,11 +507,19 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 239392,
-      "num": 184411,
-      "word": "打工11年无工资男子收到38万工资",
-      "onboard_time": 1763967260,
+      "raw_hot": 235707,
+      "num": 199054,
+      "word": "杨紫真的拍了香蜜转场",
+      "onboard_time": 1763969781,
       "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 231807,
+      "num": 231807,
+      "word": "有人破解巨型吊牌继续蹭穿",
+      "onboard_time": 1763967741,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -515,6 +539,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 216649,
+      "num": 199053,
+      "word": "日本欠台湾的血债该还了",
+      "onboard_time": 1763966900,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 214071,
       "num": 214071,
       "word": "金枝 李一桐陈星旭",
@@ -532,19 +564,19 @@
     },
     {
       "raw_hot": 207744,
-      "num": 148300,
+      "num": 149055,
       "word": "李在明夫人被南非欢迎仪式吓一跳",
       "onboard_time": 1763965641,
       "rank": 30,
       "category": "国际时政"
     },
     {
-      "raw_hot": 201347,
-      "num": 179179,
-      "word": "日本欠台湾的血债该还了",
-      "onboard_time": 1763966900,
-      "rank": 31,
-      "category": "国内时政"
+      "raw_hot": 202997,
+      "num": 202997,
+      "word": "知名婴童品牌被检出菌落超标48倍",
+      "onboard_time": 1763968462,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 200528,
@@ -635,14 +667,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 188124,
-      "num": 178721,
-      "word": "高市65%支持率传递危险信号",
-      "onboard_time": 1763968940,
-      "rank": 24,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 187609,
       "num": 253565,
       "word": "张艺兴三巡礼盒",
@@ -675,6 +699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 182183,
+      "num": 182183,
+      "word": "巩俐的字",
+      "onboard_time": 1763969421,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181982,
       "num": 250745,
       "word": "唐诡方丈在大生意人也进榜一了",
@@ -689,14 +721,6 @@
       "onboard_time": 1763901321,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178155,
-      "num": 178155,
-      "word": "有人破解巨型吊牌继续蹭穿",
-      "onboard_time": 1763967741,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 176820,
@@ -803,6 +827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 159790,
+      "num": 159790,
+      "word": "子阳 大名单",
+      "onboard_time": 1763968341,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 158478,
       "num": 158478,
       "word": "杨瀚森拉架",
@@ -843,20 +875,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151858,
-      "num": 151858,
-      "word": "子阳 大名单",
-      "onboard_time": 1763968341,
-      "rank": 28,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 151621,
       "num": 134922,
       "word": "Baolan谈Kanavi离开LPL",
       "onboard_time": 1763965461,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151568,
+      "num": 148351,
+      "word": "张家妍可以复合李施嬅不行",
+      "onboard_time": 1763968700,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147607,
+      "num": 147607,
+      "word": "眉压眼和眉包眼的区别",
+      "onboard_time": 1763969302,
+      "rank": 33,
+      "category": "美妆"
     },
     {
       "raw_hot": 144244,
@@ -947,6 +987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 130400,
+      "num": 146536,
+      "word": "邱默云 原子弹",
+      "onboard_time": 1763969901,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "王楚钦总决赛三连冠一周年",
@@ -971,12 +1019,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125234,
-      "num": 125234,
-      "word": "张家妍可以复合李施嬅不行",
-      "onboard_time": 1763968700,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 124406,
+      "num": 149567,
+      "word": "河边的错误含金量",
+      "onboard_time": 1763969482,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 123196,
@@ -1035,12 +1083,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118731,
+      "num": 118731,
+      "word": "美国一男子因便秘身亡",
+      "onboard_time": 1763969961,
+      "rank": 42,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 118346,
       "num": 149416,
       "word": "狂野时代 两极分化",
       "onboard_time": 1763956222,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 117283,
+      "num": 117283,
+      "word": "原来鸭子身上最不值钱的是鸭肉",
+      "onboard_time": 1763969841,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 116253,
@@ -1107,6 +1171,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 111431,
+      "num": 111431,
+      "word": "黄一鸣谈恋爱了",
+      "onboard_time": 1763970021,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 110043,
       "num": 110043,
       "word": "黄景瑜叫范丞丞小东西",
@@ -1153,6 +1225,14 @@
       "onboard_time": 1763956882,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108339,
+      "num": 108339,
+      "word": "小狗型恋人",
+      "onboard_time": 1763965402,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 107817,
@@ -1241,14 +1321,6 @@
       "onboard_time": 1763942480,
       "rank": 43,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 100791,
-      "num": 100791,
-      "word": "小狗型恋人",
-      "onboard_time": 1763965402,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 100215,
@@ -1531,14 +1603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 78697,
-      "num": 182208,
-      "word": "知名婴童品牌被检出菌落超标48倍",
-      "onboard_time": 1763968462,
-      "rank": 19,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 76823,
       "num": 171556,
       "word": "日网友说台湾若有事高市先去前线",
@@ -1585,6 +1649,14 @@
       "onboard_time": 1763960482,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68235,
+      "num": 130557,
+      "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+      "onboard_time": 1763968940,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68124,
@@ -1931,12 +2003,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 20243,
-      "num": 127399,
-      "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
-      "onboard_time": 1763968940,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 21253,
+      "num": 128756,
+      "word": "杜兰特因家事缺战太阳勇士",
+      "onboard_time": 1763969542,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 19871,
@@ -1987,6 +2059,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14040,
+      "num": 128740,
+      "word": "胡定欣再否认怀孕",
+      "onboard_time": 1763968940,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 13359,
       "num": 76723,
       "word": "林姨压迫感",
@@ -2009,14 +2089,6 @@
       "onboard_time": 1763967080,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8852,
-      "num": 125878,
-      "word": "胡定欣再否认怀孕",
-      "onboard_time": 1763968940,
-      "rank": 39,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
