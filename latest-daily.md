@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/25 00:31:26 ~ 2025/11/25 03:38:03
+本榜单时间：2025/11/25 00:31:26 ~ 2025/11/25 04:31:15
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ U17国足14比0东帝汶U17（热度：78375）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23" target="weibo">
+中国大米出现在日本商店显著位置（热度：18949）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%90%E6%81%8B%E4%BA%BA%23" target="weibo">
 被子恋人（热度：16034）
 </a>
@@ -375,8 +381,32 @@ U17国足14比0东帝汶U17（热度：78375）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
+老师只是低血糖不是新动作（热度：12222）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E4%B8%89%E4%BB%B6%E5%A5%97%23" target="weibo">
 外卖三件套（热度：12143）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5%E5%A4%9C%E8%AF%BB%23" target="weibo">
+人民日报夜读（热度：11734）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%A4%E5%87%B0%E5%8F%B0%E4%B8%8A%23" target="weibo">
+凤凰台上（热度：11189）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E8%8D%A3%E8%80%80%E5%8F%91%E5%B8%83%E4%BC%9A%E5%92%8C%E8%82%96%E6%88%98%E7%BB%AD%E7%81%AB%E8%8A%B1%23" target="weibo">
+在荣耀发布会和肖战续火花（热度：11002）
 </a>
 </li>
 
