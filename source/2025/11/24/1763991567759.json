@@ -1,0 +1,410 @@
+{
+  "runTime": 1763991567759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 568433,
+        "num": 1090949,
+        "word": "中国暂停租借大熊猫给日本引关注",
+        "onboard_time": 1763980761,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168728,
+        "num": 1074984,
+        "word": "雷军增持小米260万股",
+        "onboard_time": 1763985200,
+        "rank": 1,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 30187,
+        "num": 1048620,
+        "word": "神22计划11月25日发射",
+        "onboard_time": 1763977881,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 296315,
+        "num": 1014945,
+        "word": "中方回应高市早苗称愿与中国对话",
+        "onboard_time": 1763982740,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151721,
+        "num": 979999,
+        "word": "荣耀500发布会",
+        "onboard_time": 1763986281,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 518765,
+        "num": 969367,
+        "word": "金莲花提名",
+        "onboard_time": 1763987601,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 338782,
+        "num": 931968,
+        "word": "杨幂提名金莲花奖最佳女配",
+        "onboard_time": 1763990002,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 282585,
+        "num": 902868,
+        "word": "唐诡3无色无味但剧毒的人出现了",
+        "onboard_time": 1763989161,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 250209,
+        "num": 887526,
+        "word": "中国将寻找第二颗地球",
+        "onboard_time": 1763974880,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 141038,
+        "num": 858028,
+        "word": "NS官宣Neoguri加入",
+        "onboard_time": 1763985200,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 829605,
+        "num": 829605,
+        "word": "邢菲疑似违反交规",
+        "onboard_time": 1763986702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 774964,
+        "num": 774964,
+        "word": "何秋亊掉粉461万",
+        "onboard_time": 1763988142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 632218,
+        "num": 632218,
+        "word": "戴军曝杨笠常住清迈",
+        "onboard_time": 1763984121,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 394002,
+        "num": 394002,
+        "word": "花一万六买152件衣服",
+        "onboard_time": 1763985261,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 311753,
+        "num": 311753,
+        "word": "冲绳周边不断运入导弹和多国军舰",
+        "onboard_time": 1763988380,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 281845,
+        "num": 281845,
+        "word": "救命药滞留前台5小时致男子身亡",
+        "onboard_time": 1763988081,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254747,
+        "num": 254747,
+        "word": "杨紫真的拍了香蜜转场",
+        "onboard_time": 1763969781,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 253350,
+        "num": 253350,
+        "word": "肖战提名金莲花奖最佳男主角",
+        "onboard_time": 1763990842,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228562,
+        "num": 228562,
+        "word": "梅婷再问快快爷爷最喜欢谁",
+        "onboard_time": 1763988802,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 65860,
+        "num": 226507,
+        "word": "荣耀500打到我的心巴上",
+        "onboard_time": 1763988442,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 608777,
+        "num": 226337,
+        "word": "胡彦斌妈妈 老版易梦玲",
+        "onboard_time": 1763979261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541543,
+        "num": 225566,
+        "word": "港圈富二代自曝近百名女星投怀送抱",
+        "onboard_time": 1763988922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224730,
+        "num": 224730,
+        "word": "中方回应日本部署中程导弹",
+        "onboard_time": 1763970801,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214268,
+        "num": 214268,
+        "word": "李现杨紫提名金莲花最佳男女主角",
+        "onboard_time": 1763991141,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121069,
+        "num": 211596,
+        "word": "年度神机荣耀500领跑同档",
+        "onboard_time": 1763991323,
+        "rank": 24,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209491,
+        "num": 209491,
+        "word": "FILA致歉",
+        "onboard_time": 1763979561,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201808,
+        "num": 201808,
+        "word": "陈星旭咱妈看起来不像本地人",
+        "onboard_time": 1763985200,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 179863,
+        "num": 201604,
+        "word": "枭起青壤",
+        "onboard_time": 1763981061,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 165130,
+        "num": 201423,
+        "word": "地枭才是完美男友",
+        "onboard_time": 1763984182,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91446,
+        "num": 201169,
+        "word": "有人破解巨型吊牌继续蹭穿",
+        "onboard_time": 1763967741,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135341,
+        "num": 201110,
+        "word": "水果姐你的兵来了",
+        "onboard_time": 1763988861,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331558,
+        "num": 200741,
+        "word": "医院将进价3万的瓣膜28万元卖出",
+        "onboard_time": 1763982801,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200707,
+        "num": 200707,
+        "word": "程晓玥说自己女儿品味差",
+        "onboard_time": 1763990182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193483,
+        "num": 193483,
+        "word": "樊振东称K90八边形全能战士",
+        "onboard_time": 1763991263,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108705,
+        "num": 183947,
+        "word": "U17国足14比0东帝汶U17",
+        "onboard_time": 1763991381,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183807,
+        "num": 183807,
+        "word": "医生称臭大姐可以吃别多吃",
+        "onboard_time": 1763975962,
+        "rank": 35,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 149696,
+        "num": 183607,
+        "word": "南山猎人好弱",
+        "onboard_time": 1763987122,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128095,
+        "num": 183389,
+        "word": "邢菲道歉",
+        "onboard_time": 1763990842,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125653,
+        "num": 183140,
+        "word": "Homme拒绝继续执教LPL",
+        "onboard_time": 1763991082,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20636,
+        "num": 182957,
+        "word": "当地回应吕梁黄土高坡被倾倒垃圾",
+        "onboard_time": 1763991263,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122818,
+        "num": 182680,
+        "word": "美国一男子因便秘身亡",
+        "onboard_time": 1763969961,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121272,
+        "num": 182590,
+        "word": "王嘉尔想过不想再活下去",
+        "onboard_time": 1763991381,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 182338,
+        "word": "罗一舟回应转行",
+        "onboard_time": 1763985081,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103967,
+        "num": 182208,
+        "word": "台当局宣布全面解禁日本核食",
+        "onboard_time": 1763989282,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103409,
+        "num": 181948,
+        "word": "张艺兴重庆粉丝见面会",
+        "onboard_time": 1763988501,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99401,
+        "num": 181733,
+        "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+        "onboard_time": 1763968940,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91762,
+        "num": 181485,
+        "word": "Cat助教",
+        "onboard_time": 1763989403,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89081,
+        "num": 181167,
+        "word": "余宇涵和蟑螂零帧起手跳企鹅舞",
+        "onboard_time": 1763990002,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29016,
+        "num": 180935,
+        "word": "男子因个人崇拜偷几十斤关公像",
+        "onboard_time": 1763990062,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77881,
+        "num": 180661,
+        "word": "日本民众回应最后2只大熊猫将回国",
+        "onboard_time": 1763979200,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平情系文艺事业发展#"
+    }
+  }
+}
