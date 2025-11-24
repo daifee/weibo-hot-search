@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763967218568,
+  "endTime": 1763969252532,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -9,6 +9,14 @@
       "onboard_time": 1763954362,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1231566,
+      "num": 190579,
+      "word": "日媒称中方拒绝明年1月中日韩首脑会谈",
+      "onboard_time": 1763967681,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1169067,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 1076720,
-      "num": 401574,
+      "num": 427782,
       "word": "狂野时代退票率",
       "onboard_time": 1763960061,
       "rank": 3,
@@ -99,20 +107,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 629589,
+      "num": 629589,
+      "word": "X现已显示账号所属地",
+      "onboard_time": 1763965340,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 616196,
       "num": 254393,
       "word": "留几手说明星找网红是降维打击",
       "onboard_time": 1763957841,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 569586,
-      "num": 569586,
-      "word": "X现已显示账号所属地",
-      "onboard_time": 1763965340,
-      "rank": 7,
-      "category": "互联网"
     },
     {
       "raw_hot": 556876,
@@ -171,6 +179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 505824,
+      "num": 189572,
+      "word": "月薪一万的试吃员有多辛苦",
+      "onboard_time": 1763967020,
+      "rank": 36,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 497516,
       "num": 497516,
       "word": "免费试吃诈骗",
@@ -184,6 +200,14 @@
       "word": "江疏影风格大变",
       "onboard_time": 1763957601,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 477904,
+      "num": 188403,
+      "word": "高圆圆随便涂个口红就开拍了",
+      "onboard_time": 1763966842,
+      "rank": 33,
       "category": "艺人"
     },
     {
@@ -251,6 +275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 371088,
+      "num": 371088,
+      "word": "美国乌克兰联合声明",
+      "onboard_time": 1763964501,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 369523,
       "num": 369523,
       "word": "吴谨言陈哲远杀青合照",
@@ -275,14 +307,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 343125,
-      "num": 210904,
-      "word": "美国乌克兰联合声明",
-      "onboard_time": 1763964501,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 337282,
       "num": 200546,
       "word": "刚入职民警遇刚出生小孩有点慌",
@@ -297,6 +321,14 @@
       "onboard_time": 1763958743,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 334370,
+      "num": 187058,
+      "word": "陈晓陈妍希新剧对打",
+      "onboard_time": 1763968581,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 331151,
@@ -459,6 +491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 239392,
+      "num": 184411,
+      "word": "打工11年无工资男子收到38万工资",
+      "onboard_time": 1763967260,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221430,
       "num": 186202,
       "word": "殷世航自曝整容不用花钱",
@@ -492,11 +532,19 @@
     },
     {
       "raw_hot": 207744,
-      "num": 131374,
+      "num": 148300,
       "word": "李在明夫人被南非欢迎仪式吓一跳",
       "onboard_time": 1763965641,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 201347,
+      "num": 179179,
+      "word": "日本欠台湾的血债该还了",
+      "onboard_time": 1763966900,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 200528,
@@ -571,11 +619,27 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 191397,
+      "num": 191397,
+      "word": "官方通报乘客被困高铁厕所",
+      "onboard_time": 1763966963,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 189988,
       "num": 189988,
       "word": "印度全面恢复中国公民旅游签",
       "onboard_time": 1763949019,
       "rank": 33,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 188124,
+      "num": 178721,
+      "word": "高市65%支持率传递危险信号",
+      "onboard_time": 1763968940,
+      "rank": 24,
       "category": "国际时政"
     },
     {
@@ -627,6 +691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 178155,
+      "num": 178155,
+      "word": "有人破解巨型吊牌继续蹭穿",
+      "onboard_time": 1763967741,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 176820,
       "num": 209467,
       "word": "唐诡粉想要唐诡粉得到",
@@ -673,6 +745,14 @@
       "onboard_time": 1763949140,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170827,
+      "num": 182568,
+      "word": "地球最后的夜晚",
+      "onboard_time": 1763964742,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 170735,
@@ -763,28 +843,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 151858,
+      "num": 151858,
+      "word": "子阳 大名单",
+      "onboard_time": 1763968341,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151621,
       "num": 134922,
       "word": "Baolan谈Kanavi离开LPL",
       "onboard_time": 1763965461,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 150573,
-      "num": 141949,
-      "word": "地球最后的夜晚",
-      "onboard_time": 1763964742,
-      "rank": 28,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 149315,
-      "num": 129468,
-      "word": "日本欠台湾的血债该还了",
-      "onboard_time": 1763966900,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 144244,
@@ -843,6 +915,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 134800,
+      "num": 134800,
+      "word": "KPL",
+      "onboard_time": 1763967741,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133785,
       "num": 183493,
       "word": "考研座椅",
@@ -859,20 +939,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132065,
+      "num": 132065,
+      "word": "曝BLG续约Shad0w",
+      "onboard_time": 1763967801,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128971,
       "num": 128971,
       "word": "王楚钦总决赛三连冠一周年",
       "onboard_time": 1763951420,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127456,
-      "num": 127456,
-      "word": "高圆圆随便涂个口红就开拍了",
-      "onboard_time": 1763966842,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 127112,
@@ -889,6 +969,14 @@
       "onboard_time": 1763950700,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125234,
+      "num": 125234,
+      "word": "张家妍可以复合李施嬅不行",
+      "onboard_time": 1763968700,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 123196,
@@ -945,14 +1033,6 @@
       "onboard_time": 1763951120,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118585,
-      "num": 118585,
-      "word": "月薪一万的试吃员有多辛苦",
-      "onboard_time": 1763967020,
-      "rank": 36,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 118346,
@@ -1163,6 +1243,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 100791,
+      "num": 100791,
+      "word": "小狗型恋人",
+      "onboard_time": 1763965402,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 100215,
       "num": 96834,
       "word": "全红婵回村被拍",
@@ -1259,12 +1347,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 95367,
+      "num": 95367,
+      "word": "妈妈最喜欢梳的发型出现了",
+      "onboard_time": 1763968940,
+      "rank": 48,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 94960,
       "num": 94030,
       "word": "马嘉祺苏州河Daddy级别",
       "onboard_time": 1763901861,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 93038,
+      "num": 93038,
+      "word": "为什么感冒常常从嗓子疼开始",
+      "onboard_time": 1763968222,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 92898,
@@ -1427,6 +1531,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78697,
+      "num": 182208,
+      "word": "知名婴童品牌被检出菌落超标48倍",
+      "onboard_time": 1763968462,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 76823,
       "num": 171556,
       "word": "日网友说台湾若有事高市先去前线",
@@ -1473,6 +1585,14 @@
       "onboard_time": 1763960482,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68124,
+      "num": 126957,
+      "word": "河南一景区11亿元对赌目标将达成",
+      "onboard_time": 1763968281,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66673,
@@ -1561,6 +1681,14 @@
       "onboard_time": 1763912781,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 57124,
+      "num": 128034,
+      "word": "台评论员称琉球跟日本没半毛钱关系",
+      "onboard_time": 1763967260,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55823,
@@ -1755,14 +1883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 28383,
-      "num": 151328,
-      "word": "官方通报乘客被困高铁厕所",
-      "onboard_time": 1763966963,
-      "rank": 25,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 27169,
       "num": 78590,
       "word": "廉价合金首饰镉元素超标9000多倍",
@@ -1809,6 +1929,14 @@
       "onboard_time": 1763966481,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20243,
+      "num": 127399,
+      "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+      "onboard_time": 1763968940,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19871,
@@ -1881,6 +2009,14 @@
       "onboard_time": 1763967080,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 8852,
+      "num": 125878,
+      "word": "胡定欣再否认怀孕",
+      "onboard_time": 1763968940,
+      "rank": 39,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
