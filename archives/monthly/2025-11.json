@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763976832763,
+  "endTime": 1763977605356,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1459,6 +1459,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1200465,
+      "num": 1200465,
+      "word": "2026研究生报考人数343万",
+      "onboard_time": 1763975601,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1200448,
       "num": 261651,
       "word": "朱珠工伤",
@@ -1961,14 +1969,6 @@
       "onboard_time": 1763205022,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1049162,
-      "num": 1167865,
-      "word": "2026研究生报考人数343万",
-      "onboard_time": 1763975601,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1049156,
@@ -9307,6 +9307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 454343,
+      "num": 356062,
+      "word": "医生称臭大姐可以吃别多吃",
+      "onboard_time": 1763975962,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 454088,
       "num": 210513,
       "word": "这是张馨予还是迪丽热巴",
@@ -12737,6 +12745,14 @@
       "onboard_time": 1762389142,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 359375,
+      "num": 359375,
+      "word": "中国将寻找第二颗地球",
+      "onboard_time": 1763974880,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 359179,
@@ -17369,14 +17385,6 @@
       "onboard_time": 1762685422,
       "rank": 5,
       "category": "演出"
-    },
-    {
-      "raw_hot": 275454,
-      "num": 275454,
-      "word": "中国将寻找第二颗地球",
-      "onboard_time": 1763974880,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 274892,
@@ -22595,14 +22603,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 208691,
-      "num": 208691,
-      "word": "医生称臭大姐可以吃别多吃",
-      "onboard_time": 1763975962,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 208527,
       "num": 121541,
       "word": "TES面对LCK十五连败",
@@ -23553,6 +23553,14 @@
       "onboard_time": 1762046300,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202410,
+      "num": 138848,
+      "word": "解密胡彦斌易梦玲恋情是谁放出来的",
+      "onboard_time": 1763977101,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 202407,
@@ -38339,6 +38347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137381,
+      "num": 137381,
+      "word": "尹子维50岁了我就是要秀恩爱",
+      "onboard_time": 1763976800,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137380,
       "num": 180210,
       "word": "狗狗偷偷亲了主人一下",
@@ -43627,6 +43643,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 123166,
+      "num": 123166,
+      "word": "波茨坦公告规定日本禁止重新武装",
+      "onboard_time": 1763976681,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123152,
       "num": 232780,
       "word": "汪苏泷杭州罗曼城",
@@ -44676,7 +44700,7 @@
     },
     {
       "raw_hot": 120928,
-      "num": 120928,
+      "num": 123194,
       "word": "曝LPL竞拍关键选手",
       "onboard_time": 1763974581,
       "rank": 29,
@@ -47273,14 +47297,6 @@
       "onboard_time": 1762660880,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115329,
-      "num": 115329,
-      "word": "波茨坦公告规定日本禁止重新武装",
-      "onboard_time": 1763976681,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115318,
@@ -54547,6 +54563,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 100856,
+      "num": 100856,
+      "word": "王一博抛斧头",
+      "onboard_time": 1763976441,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100830,
       "num": 100830,
       "word": "韩雨彤演我只贪财不好色",
@@ -54569,14 +54593,6 @@
       "onboard_time": 1762855641,
       "rank": 48,
       "category": "美食"
-    },
-    {
-      "raw_hot": 100770,
-      "num": 100770,
-      "word": "尹子维50岁了我就是要秀恩爱",
-      "onboard_time": 1763976800,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 100735,
@@ -54793,6 +54809,14 @@
       "onboard_time": 1762259361,
       "rank": 44,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 100418,
+      "num": 100418,
+      "word": "曝Jwei流拍",
+      "onboard_time": 1763977461,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 100417,
@@ -55505,6 +55529,14 @@
       "onboard_time": 1762511722,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 99129,
+      "num": 99129,
+      "word": "名校研究生收费写to签",
+      "onboard_time": 1763977162,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 99119,
@@ -57235,14 +57267,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 96378,
-      "num": 96378,
-      "word": "王一博抛斧头",
-      "onboard_time": 1763976441,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96375,
       "num": 119851,
       "word": "水库放生猫动机为祈福非违法犯罪",
@@ -57801,6 +57825,14 @@
       "onboard_time": 1762237821,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95431,
+      "num": 95431,
+      "word": "全国中小学寒假时间出炉",
+      "onboard_time": 1763977461,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 95415,
@@ -61577,6 +61609,14 @@
       "onboard_time": 1763016140,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88834,
+      "num": 88834,
+      "word": "Gumayusi穿HLE队服亮相",
+      "onboard_time": 1763977521,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 88812,
@@ -72659,6 +72699,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59405,
+      "num": 86887,
+      "word": "一条视频区分普通感冒和甲流",
+      "onboard_time": 1763977341,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59365,
       "num": 69710,
       "word": "暗河传这次一定要看完片尾",
@@ -74235,6 +74283,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 52885,
+      "num": 574962,
+      "word": "我国启动聚变领域国际科学计划",
+      "onboard_time": 1763974581,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52847,
       "num": 73417,
       "word": "罗小黑小雪海报",
@@ -75585,14 +75641,6 @@
       "onboard_time": 1762876639,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 47368,
-      "num": 574962,
-      "word": "我国启动聚变领域国际科学计划",
-      "onboard_time": 1763974581,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47363,
@@ -77467,6 +77515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40168,
+      "num": 91700,
+      "word": "传统大型超市为什么衰退了",
+      "onboard_time": 1763977222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40163,
       "num": 114834,
       "word": "三部剧拼拼凑凑看完了琅琊王的一生",
@@ -78457,6 +78513,14 @@
       "onboard_time": 1763287281,
       "rank": 46,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 36193,
+      "num": 103539,
+      "word": "博主投诉环卫工人抽烟惹争议",
+      "onboard_time": 1763976322,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36185,
@@ -81083,6 +81147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26814,
+      "num": 90743,
+      "word": "这下贺涵一心一意了吧",
+      "onboard_time": 1763977521,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 26806,
       "num": 124279,
       "word": "郑丽文高呼两岸绝不可打仗",
@@ -82137,14 +82209,6 @@
       "onboard_time": 1762859900,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 22168,
-      "num": 103539,
-      "word": "博主投诉环卫工人抽烟惹争议",
-      "onboard_time": 1763976322,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 22161,

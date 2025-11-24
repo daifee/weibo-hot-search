@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763976832763,
+  "endTime": 1763977605356,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -25,6 +25,14 @@
       "onboard_time": 1763967681,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1200465,
+      "num": 1200465,
+      "word": "2026研究生报考人数343万",
+      "onboard_time": 1763975601,
+      "rank": 0,
+      "category": "教育"
     },
     {
       "raw_hot": 1169067,
@@ -57,14 +65,6 @@
       "onboard_time": 1763960061,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1049162,
-      "num": 1167865,
-      "word": "2026研究生报考人数343万",
-      "onboard_time": 1763975601,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1014479,
@@ -307,6 +307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454343,
+      "num": 356062,
+      "word": "医生称臭大姐可以吃别多吃",
+      "onboard_time": 1763975962,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -393,6 +401,14 @@
       "onboard_time": 1763924714,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 359375,
+      "num": 359375,
+      "word": "中国将寻找第二颗地球",
+      "onboard_time": 1763974880,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353327,
@@ -587,14 +603,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 275454,
-      "num": 275454,
-      "word": "中国将寻找第二颗地球",
-      "onboard_time": 1763974880,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 267695,
       "num": 190738,
       "word": "高市早苗努力表演不如一把椅子火",
@@ -675,20 +683,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208691,
-      "num": 208691,
-      "word": "医生称臭大姐可以吃别多吃",
-      "onboard_time": 1763975962,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 207744,
       "num": 149055,
       "word": "李在明夫人被南非欢迎仪式吓一跳",
       "onboard_time": 1763965641,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 202410,
+      "num": 138848,
+      "word": "解密胡彦斌易梦玲恋情是谁放出来的",
+      "onboard_time": 1763977101,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 200528,
@@ -1115,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137381,
+      "num": 137381,
+      "word": "尹子维50岁了我就是要秀恩爱",
+      "onboard_time": 1763976800,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136744,
       "num": 136744,
       "word": "时代少年团 这就是爱",
@@ -1211,6 +1227,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 123166,
+      "num": 123166,
+      "word": "波茨坦公告规定日本禁止重新武装",
+      "onboard_time": 1763976681,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122595,
       "num": 122595,
       "word": "马斯克曾领导的政府效率部解散",
@@ -1236,7 +1260,7 @@
     },
     {
       "raw_hot": 120928,
-      "num": 120928,
+      "num": 123194,
       "word": "曝LPL竞拍关键选手",
       "onboard_time": 1763974581,
       "rank": 29,
@@ -1313,14 +1337,6 @@
       "onboard_time": 1763913981,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115329,
-      "num": 115329,
-      "word": "波茨坦公告规定日本禁止重新武装",
-      "onboard_time": 1763976681,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 115026,
@@ -1555,12 +1571,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100770,
-      "num": 100770,
-      "word": "尹子维50岁了我就是要秀恩爱",
-      "onboard_time": 1763976800,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 100856,
+      "num": 100856,
+      "word": "王一博抛斧头",
+      "onboard_time": 1763976441,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 100418,
+      "num": 100418,
+      "word": "曝Jwei流拍",
+      "onboard_time": 1763977461,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 100215,
@@ -1619,6 +1643,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 99129,
+      "num": 99129,
+      "word": "名校研究生收费写to签",
+      "onboard_time": 1763977162,
+      "rank": 36,
+      "category": "教育"
+    },
+    {
       "raw_hot": 98918,
       "num": 98918,
       "word": "地枭居然开口说话了",
@@ -1659,14 +1691,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 96378,
-      "num": 96378,
-      "word": "王一博抛斧头",
-      "onboard_time": 1763976441,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96205,
       "num": 96205,
       "word": "汪苏泷还好意思说王赫野",
@@ -1697,6 +1721,14 @@
       "onboard_time": 1763972362,
       "rank": 45,
       "category": "财经"
+    },
+    {
+      "raw_hot": 95431,
+      "num": 95431,
+      "word": "全国中小学寒假时间出炉",
+      "onboard_time": 1763977461,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 95367,
@@ -1801,6 +1833,14 @@
       "onboard_time": 1763945781,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88834,
+      "num": 88834,
+      "word": "Gumayusi穿HLE队服亮相",
+      "onboard_time": 1763977521,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 88629,
@@ -2059,6 +2099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59405,
+      "num": 86887,
+      "word": "一条视频区分普通感冒和甲流",
+      "onboard_time": 1763977341,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59243,
       "num": 97870,
       "word": "李嘉欣晒照纪念结婚17周年",
@@ -2115,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 52885,
+      "num": 574962,
+      "word": "我国启动聚变领域国际科学计划",
+      "onboard_time": 1763974581,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51167,
       "num": 93614,
       "word": "樊振东核心力量有多强",
@@ -2137,14 +2193,6 @@
       "onboard_time": 1763961200,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 47368,
-      "num": 574962,
-      "word": "我国启动聚变领域国际科学计划",
-      "onboard_time": 1763974581,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 46397,
@@ -2227,6 +2275,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40168,
+      "num": 91700,
+      "word": "传统大型超市为什么衰退了",
+      "onboard_time": 1763977222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38997,
       "num": 93956,
       "word": "狼队清清连接成功",
@@ -2248,6 +2304,14 @@
       "word": "手作滴胶部分材料甲醛超标",
       "onboard_time": 1763916319,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36193,
+      "num": 103539,
+      "word": "博主投诉环卫工人抽烟惹争议",
+      "onboard_time": 1763976322,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2323,6 +2387,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 26814,
+      "num": 90743,
+      "word": "这下贺涵一心一意了吧",
+      "onboard_time": 1763977521,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 24776,
       "num": 98425,
       "word": "印度劫案告破落网3人身份离谱",
@@ -2353,14 +2425,6 @@
       "onboard_time": 1763926515,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22168,
-      "num": 103539,
-      "word": "博主投诉环卫工人抽烟惹争议",
-      "onboard_time": 1763976322,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21583,

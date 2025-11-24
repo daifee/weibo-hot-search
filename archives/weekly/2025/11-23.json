@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763976832763,
+  "endTime": 1763977605356,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -59,6 +59,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 1200465,
+      "num": 1200465,
+      "word": "2026研究生报考人数343万",
+      "onboard_time": 1763975601,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1169067,
       "num": 1187050,
       "word": "台湾没什么事日本真有事了",
@@ -97,14 +105,6 @@
       "onboard_time": 1763960061,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1049162,
-      "num": 1167865,
-      "word": "2026研究生报考人数343万",
-      "onboard_time": 1763975601,
-      "rank": 0,
-      "category": "教育"
     },
     {
       "raw_hot": 1014479,
@@ -675,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 454343,
+      "num": 356062,
+      "word": "医生称臭大姐可以吃别多吃",
+      "onboard_time": 1763975962,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -873,6 +881,14 @@
       "onboard_time": 1763899522,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 359375,
+      "num": 359375,
+      "word": "中国将寻找第二颗地球",
+      "onboard_time": 1763974880,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 358250,
@@ -1296,14 +1312,6 @@
       "word": "女子没时间遛狗找邻居小孩1次2块",
       "onboard_time": 1763879301,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275454,
-      "num": 275454,
-      "word": "中国将寻找第二颗地球",
-      "onboard_time": 1763974880,
-      "rank": 5,
       "category": "民生新闻"
     },
     {
@@ -1739,14 +1747,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208691,
-      "num": 208691,
-      "word": "医生称臭大姐可以吃别多吃",
-      "onboard_time": 1763975962,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 207744,
       "num": 149055,
       "word": "李在明夫人被南非欢迎仪式吓一跳",
@@ -1801,6 +1801,14 @@
       "onboard_time": 1763911401,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 202410,
+      "num": 138848,
+      "word": "解密胡彦斌易梦玲恋情是谁放出来的",
+      "onboard_time": 1763977101,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 202079,
@@ -2763,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137381,
+      "num": 137381,
+      "word": "尹子维50岁了我就是要秀恩爱",
+      "onboard_time": 1763976800,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136278,
       "num": 136278,
       "word": "警方回应印度旅游团义乌偷东西",
@@ -3011,6 +3027,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123166,
+      "num": 123166,
+      "word": "波茨坦公告规定日本禁止重新武装",
+      "onboard_time": 1763976681,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122595,
       "num": 122595,
       "word": "马斯克曾领导的政府效率部解散",
@@ -3060,7 +3084,7 @@
     },
     {
       "raw_hot": 120928,
-      "num": 120928,
+      "num": 123194,
       "word": "曝LPL竞拍关键选手",
       "onboard_time": 1763974581,
       "rank": 29,
@@ -3201,14 +3225,6 @@
       "onboard_time": 1763913981,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 115329,
-      "num": 115329,
-      "word": "波茨坦公告规定日本禁止重新武装",
-      "onboard_time": 1763976681,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114905,
@@ -3739,12 +3755,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 100770,
-      "num": 100770,
-      "word": "尹子维50岁了我就是要秀恩爱",
-      "onboard_time": 1763976800,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 100856,
+      "num": 100856,
+      "word": "王一博抛斧头",
+      "onboard_time": 1763976441,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 100735,
@@ -3761,6 +3777,14 @@
       "onboard_time": 1763867541,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 100418,
+      "num": 100418,
+      "word": "曝Jwei流拍",
+      "onboard_time": 1763977461,
+      "rank": 35,
+      "category": "电竞"
     },
     {
       "raw_hot": 100215,
@@ -3817,6 +3841,14 @@
       "onboard_time": 1763974342,
       "rank": 43,
       "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 99129,
+      "num": 99129,
+      "word": "名校研究生收费写to签",
+      "onboard_time": 1763977162,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 98996,
@@ -3915,14 +3947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96378,
-      "num": 96378,
-      "word": "王一博抛斧头",
-      "onboard_time": 1763976441,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96239,
       "num": 96239,
       "word": "汪苏泷苏有朋真的不考虑演部戏吗",
@@ -3993,6 +4017,14 @@
       "onboard_time": 1763871622,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 95431,
+      "num": 95431,
+      "word": "全国中小学寒假时间出炉",
+      "onboard_time": 1763977461,
+      "rank": 37,
+      "category": "教育"
     },
     {
       "raw_hot": 95367,
@@ -4225,6 +4257,14 @@
       "onboard_time": 1763899701,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 88834,
+      "num": 88834,
+      "word": "Gumayusi穿HLE队服亮相",
+      "onboard_time": 1763977521,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 88629,
@@ -4691,6 +4731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 59405,
+      "num": 86887,
+      "word": "一条视频区分普通感冒和甲流",
+      "onboard_time": 1763977341,
+      "rank": 47,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 59307,
       "num": 240875,
       "word": "暮歌拍的宋亚轩",
@@ -4811,6 +4859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 52885,
+      "num": 574962,
+      "word": "我国启动聚变领域国际科学计划",
+      "onboard_time": 1763974581,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52068,
       "num": 103485,
       "word": "尼日利亚一中学315人被绑架",
@@ -4849,14 +4905,6 @@
       "onboard_time": 1763881939,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 47368,
-      "num": 574962,
-      "word": "我国启动聚变领域国际科学计划",
-      "onboard_time": 1763974581,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 47258,
@@ -5003,6 +5051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40168,
+      "num": 91700,
+      "word": "传统大型超市为什么衰退了",
+      "onboard_time": 1763977222,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39164,
       "num": 149587,
       "word": "当一位父亲成了潜伏者",
@@ -5041,6 +5097,14 @@
       "onboard_time": 1763884880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36193,
+      "num": 103539,
+      "word": "博主投诉环卫工人抽烟惹争议",
+      "onboard_time": 1763976322,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34609,
@@ -5211,6 +5275,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 26814,
+      "num": 90743,
+      "word": "这下贺涵一心一意了吧",
+      "onboard_time": 1763977521,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 25536,
       "num": 106745,
       "word": "小天才手表圈背后的儿童社交",
@@ -5313,14 +5385,6 @@
       "onboard_time": 1763926515,
       "rank": 23,
       "category": "演出"
-    },
-    {
-      "raw_hot": 22168,
-      "num": 103539,
-      "word": "博主投诉环卫工人抽烟惹争议",
-      "onboard_time": 1763976322,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 21583,
