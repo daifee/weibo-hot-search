@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/25 05:40:52
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/25 06:26:31
 </p>
 </blockquote>
 <p>
@@ -4803,6 +4803,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23" target="weibo">
+中国大米出现在日本商店显著位置（热度：28361）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%9B%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E8%BF%91%E7%99%BE%E5%8F%AA%E7%8C%95%E7%8C%B4%E6%89%93%E7%BE%A4%E6%9E%B6%23" target="weibo">
 公园方回应近百只猕猴打群架（热度：27189）
 </a>
@@ -4811,6 +4817,12 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E4%BB%B7%E5%90%88%E9%87%91%E9%A6%96%E9%A5%B0%E9%95%89%E5%85%83%E7%B4%A0%E8%B6%85%E6%A0%879000%E5%A4%9A%E5%80%8D%23" target="weibo">
 廉价合金首饰镉元素超标9000多倍（热度：27169）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E6%92%AD%E4%B8%BB%E6%92%AD%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BC%BA%E5%BA%A6%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
+团播主播一天的强度吓到我了（热度：26854）
 </a>
 </li>
 
@@ -4907,12 +4919,6 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%8D%97%E5%B1%B1%E7%8C%8E%E4%BA%BA%23" target="weibo">
 枭起青壤南山猎人（热度：22861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%A4%A7%E7%B1%B3%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%95%86%E5%BA%97%E6%98%BE%E8%91%97%E4%BD%8D%E7%BD%AE%23" target="weibo">
-中国大米出现在日本商店显著位置（热度：22641）
 </a>
 </li>
 
@@ -5025,12 +5031,6 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%A2%E6%92%AD%E4%B8%BB%E6%92%AD%E4%B8%80%E5%A4%A9%E7%9A%84%E5%BC%BA%E5%BA%A6%E5%90%93%E5%88%B0%E6%88%91%E4%BA%86%23" target="weibo">
-团播主播一天的强度吓到我了（热度：17131）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%88%AA%E6%AF%8Dstyle%23" target="weibo">
 三航母style（热度：16901）
 </a>
@@ -5039,6 +5039,12 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%AD%90%E6%81%8B%E4%BA%BA%23" target="weibo">
 被子恋人（热度：16034）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
+老师只是低血糖不是新动作（热度：15927）
 </a>
 </li>
 
@@ -5091,8 +5097,8 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E5%8F%AA%E6%98%AF%E4%BD%8E%E8%A1%80%E7%B3%96%E4%B8%8D%E6%98%AF%E6%96%B0%E5%8A%A8%E4%BD%9C%23" target="weibo">
-老师只是低血糖不是新动作（热度：13147）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E5%8D%83%E6%9D%8E%E7%BA%AF%E4%BD%A0%E4%BF%A9%E6%A0%B9%E6%9C%AC%E6%B2%A1%E5%96%9D%E4%B8%AD%E8%8D%AF%23" target="weibo">
+孙千李纯你俩根本没喝中药（热度：13141）
 </a>
 </li>
 

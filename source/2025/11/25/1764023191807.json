@@ -1,0 +1,410 @@
+{
+  "runTime": 1764023191807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 247807,
+        "num": 409718,
+        "word": "高市早苗G20峰会上演外交灾难",
+        "onboard_time": 1763999600,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 27732,
+        "num": 390120,
+        "word": "华为Mate80ProMax配置曝光",
+        "onboard_time": 1763996483,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12979,
+        "num": 351154,
+        "word": "神22计划11月25日发射",
+        "onboard_time": 1763977881,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102685,
+        "num": 297199,
+        "word": "中美元首通电话",
+        "onboard_time": 1763997442,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17101,
+        "num": 242470,
+        "word": "U17国足14比0东帝汶U17",
+        "onboard_time": 1763991381,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 224714,
+        "num": 224714,
+        "word": "主播称收入26万实则隐匿超1500万",
+        "onboard_time": 1763999600,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91084,
+        "num": 221282,
+        "word": "特区政府停止与日本领事馆官方交流",
+        "onboard_time": 1763997323,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74355,
+        "num": 215153,
+        "word": "枭起青壤 吓人",
+        "onboard_time": 1763995582,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84283,
+        "num": 208406,
+        "word": "日本3位前首相再表态",
+        "onboard_time": 1763999001,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 56336,
+        "num": 202502,
+        "word": "巨型吊牌成本2毛",
+        "onboard_time": 1763999362,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104397,
+        "num": 199780,
+        "word": "救命药滞留前台5小时致男子身亡",
+        "onboard_time": 1763988081,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87529,
+        "num": 191758,
+        "word": "何秋亊掉粉461万",
+        "onboard_time": 1763988142,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66917,
+        "num": 183703,
+        "word": "中国暂停租借大熊猫给日本引关注",
+        "onboard_time": 1763980761,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59568,
+        "num": 180733,
+        "word": "邢菲道歉",
+        "onboard_time": 1763990842,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55257,
+        "num": 176777,
+        "word": "戴军曝杨笠常住清迈",
+        "onboard_time": 1763984121,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42539,
+        "num": 165518,
+        "word": "冲绳周边不断运入导弹和多国军舰",
+        "onboard_time": 1763988380,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36499,
+        "num": 163169,
+        "word": "花一万六买152件衣服",
+        "onboard_time": 1763985261,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 33292,
+        "num": 157728,
+        "word": "中方回应高市早苗称愿与中国对话",
+        "onboard_time": 1763982740,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31293,
+        "num": 152527,
+        "word": "狂野时代豆瓣评分3星占比最高",
+        "onboard_time": 1764001699,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27478,
+        "num": 144478,
+        "word": "肖战提名金莲花奖最佳男主角",
+        "onboard_time": 1763990842,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141511,
+        "num": 141511,
+        "word": "港圈富二代自曝近百名女星投怀送抱",
+        "onboard_time": 1763988922,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109706,
+        "num": 141505,
+        "word": "王心凌吴克群被偶遇",
+        "onboard_time": 1763997682,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39826,
+        "num": 141412,
+        "word": "中国选手夺冠主办方到处借五星红旗",
+        "onboard_time": 1763994501,
+        "rank": 22,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 39277,
+        "num": 141304,
+        "word": "胡彦斌妈妈 老版易梦玲",
+        "onboard_time": 1763979261,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30148,
+        "num": 141226,
+        "word": "从头到脚都是聚酯纤维的痛",
+        "onboard_time": 1763997921,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 26158,
+        "num": 141144,
+        "word": "女装直播退货率80%以上",
+        "onboard_time": 1763997323,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25398,
+        "num": 141053,
+        "word": "以色列官宣引进印度移民",
+        "onboard_time": 1763994742,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23394,
+        "num": 141012,
+        "word": "程晓玥说自己女儿品味差",
+        "onboard_time": 1763990182,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15913,
+        "num": 140881,
+        "word": "杨幂提名金莲花奖最佳女配",
+        "onboard_time": 1763990002,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15595,
+        "num": 140835,
+        "word": "狂野时代口碑",
+        "onboard_time": 1764005117,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28361,
+        "num": 140761,
+        "word": "中国大米出现在日本商店显著位置",
+        "onboard_time": 1764014234,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 26854,
+        "num": 140709,
+        "word": "团播主播一天的强度吓到我了",
+        "onboard_time": 1764016933,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 23007,
+        "num": 140564,
+        "word": "云南发现寄生花",
+        "onboard_time": 1763992161,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21822,
+        "num": 140559,
+        "word": "日本民众回应最后2只大熊猫将回国",
+        "onboard_time": 1763979200,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21334,
+        "num": 140414,
+        "word": "陈清晨发文告别国家队",
+        "onboard_time": 1763996541,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20954,
+        "num": 140372,
+        "word": "日本贼心不死",
+        "onboard_time": 1763994983,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20744,
+        "num": 140318,
+        "word": "李蠕蠕自曝经常处于瓶颈期",
+        "onboard_time": 1763997142,
+        "rank": 36,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 20498,
+        "num": 140171,
+        "word": "三只松鼠回应员工入职要改鼠名",
+        "onboard_time": 1763994563,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19692,
+        "num": 140163,
+        "word": "日本无反航母作战能力",
+        "onboard_time": 1764002718,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19500,
+        "num": 140014,
+        "word": "王嘉尔想过不想再活下去",
+        "onboard_time": 1763991381,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19428,
+        "num": 139985,
+        "word": "在荣耀发布会和肖战续火花",
+        "onboard_time": 1763993002,
+        "rank": 40,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 19368,
+        "num": 139861,
+        "word": "马克龙称G7不需要俄罗斯参加",
+        "onboard_time": 1764003317,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17227,
+        "num": 139819,
+        "word": "七星山荒野求生决赛开启",
+        "onboard_time": 1764019694,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15927,
+        "num": 139705,
+        "word": "老师只是低血糖不是新动作",
+        "onboard_time": 1764014593,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 15451,
+        "num": 139671,
+        "word": "中国将寻找第二颗地球",
+        "onboard_time": 1763974880,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 14787,
+        "num": 139577,
+        "word": "黄星直播",
+        "onboard_time": 1763991982,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13755,
+        "num": 139468,
+        "word": "范丞丞提名金莲花奖最佳男配角奖",
+        "onboard_time": 1763992222,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 13586,
+        "num": 139376,
+        "word": "张艺兴重庆粉丝见面会",
+        "onboard_time": 1763988501,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13141,
+        "num": 139326,
+        "word": "孙千李纯你俩根本没喝中药",
+        "onboard_time": 1764022755,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11180,
+        "num": 139274,
+        "word": "蚂蚱想救狗哥却被误伤",
+        "onboard_time": 1764006915,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通话#"
+    }
+  }
+}
