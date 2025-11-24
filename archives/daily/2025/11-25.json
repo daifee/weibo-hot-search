@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764009562486,
+  "endTime": 1764010381232,
   "band_list": [
     {
       "raw_hot": 704816,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24896,
+      "num": 37773,
+      "word": "蚂蚱想救狗哥却被误伤",
+      "onboard_time": 1764006915,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 22861,
       "num": 212531,
       "word": "枭起青壤南山猎人",
@@ -451,15 +459,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 22852,
-      "num": 37773,
-      "word": "蚂蚱想救狗哥却被误伤",
-      "onboard_time": 1764006915,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 14737,
+      "raw_hot": 15400,
       "num": 37352,
       "word": "被子恋人",
       "onboard_time": 1764009314,

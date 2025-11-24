@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764009562486,
+  "endTime": 1764010381232,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -82739,6 +82739,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24896,
+      "num": 37773,
+      "word": "蚂蚱想救狗哥却被误伤",
+      "onboard_time": 1764006915,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24883,
       "num": 101704,
       "word": "丹麦人的墓地",
@@ -83232,14 +83240,6 @@
       "word": "枭起青壤南山猎人",
       "onboard_time": 1764006136,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22852,
-      "num": 37773,
-      "word": "蚂蚱想救狗哥却被误伤",
-      "onboard_time": 1764006915,
-      "rank": 19,
       "category": "剧集"
     },
     {
@@ -84907,6 +84907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15400,
+      "num": 37352,
+      "word": "被子恋人",
+      "onboard_time": 1764009314,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15399,
       "num": 142469,
       "word": "多方就美结束俄乌冲突新计划发声明",
@@ -85001,14 +85009,6 @@
       "onboard_time": 1762280475,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14737,
-      "num": 37352,
-      "word": "被子恋人",
-      "onboard_time": 1764009314,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 14710,
