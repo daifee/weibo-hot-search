@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763995595051,
+  "endTime": 1763998333521,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1568098,
-      "num": 287089,
+      "num": 645876,
       "word": "邢菲道歉",
       "onboard_time": 1763990842,
       "rank": 37,
@@ -203,6 +203,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 860201,
+      "num": 860201,
+      "word": "中美元首通电话",
+      "onboard_time": 1763997442,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 854074,
       "num": 854074,
       "word": "高市早苗G20迟到称因选衣服",
@@ -257,6 +265,14 @@
       "onboard_time": 1763881220,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 804894,
+      "num": 804894,
+      "word": "枭起青壤 吓人",
+      "onboard_time": 1763995582,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 804547,
@@ -1132,7 +1148,7 @@
     },
     {
       "raw_hot": 334004,
-      "num": 194488,
+      "num": 332192,
       "word": "豆瓣崩了",
       "onboard_time": 1763995103,
       "rank": 23,
@@ -1579,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 263467,
+      "num": 739184,
+      "word": "范丞丞提名金莲花奖最佳男配角奖",
+      "onboard_time": 1763992222,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 261269,
       "num": 261269,
       "word": "严浩翔被升降台遗忘了",
@@ -1851,6 +1875,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225642,
+      "num": 715639,
+      "word": "陈清晨发文告别国家队",
+      "onboard_time": 1763996541,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 223055,
       "num": 130697,
       "word": "Beichuan取关BLG轮换队友",
@@ -1873,6 +1905,14 @@
       "onboard_time": 1763960782,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 219854,
+      "num": 219854,
+      "word": "黄星直播",
+      "onboard_time": 1763991982,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 218591,
@@ -2123,14 +2163,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 199583,
-      "num": 199583,
-      "word": "范丞丞提名金莲花奖最佳男配角奖",
-      "onboard_time": 1763992222,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 198973,
       "num": 198973,
       "word": "刘耀文这透视可真透视啊",
@@ -2139,12 +2171,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 198693,
-      "num": 198693,
-      "word": "黄星直播",
-      "onboard_time": 1763991982,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 198567,
+      "num": 182549,
+      "word": "中国选手夺冠主办方到处借五星红旗",
+      "onboard_time": 1763994501,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 197695,
@@ -2379,6 +2411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187347,
+      "num": 665366,
+      "word": "日本贼心不死",
+      "onboard_time": 1763994983,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 187283,
       "num": 187283,
       "word": "时代少年团密室逃脱vlog",
@@ -2409,6 +2449,14 @@
       "onboard_time": 1763979921,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186061,
+      "num": 186061,
+      "word": "刘耀文录制准备是把人带来了",
+      "onboard_time": 1763997562,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 185030,
@@ -2449,14 +2497,6 @@
       "onboard_time": 1763909722,
       "rank": 26,
       "category": "情感"
-    },
-    {
-      "raw_hot": 182549,
-      "num": 182549,
-      "word": "中国选手夺冠主办方到处借五星红旗",
-      "onboard_time": 1763994501,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 181982,
@@ -2795,12 +2835,28 @@
       "category": "幽默,美食"
     },
     {
+      "raw_hot": 161515,
+      "num": 141626,
+      "word": "王心凌吴克群被偶遇",
+      "onboard_time": 1763997682,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 161503,
       "num": 199671,
       "word": "王楚钦没结束的生涯没人有资格定义",
       "onboard_time": 1763903482,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160976,
+      "num": 160976,
+      "word": "狂野时代 讲的是什么",
+      "onboard_time": 1763996603,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 160219,
@@ -3107,6 +3163,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140584,
+      "num": 140584,
+      "word": "中美应该共同维护好二战胜利成果",
+      "onboard_time": 1763997382,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 140345,
       "num": 140345,
       "word": "小米回应为樊振东特别定制金球拍",
@@ -3211,6 +3275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136628,
+      "num": 823525,
+      "word": "华为Mate80ProMax配置曝光",
+      "onboard_time": 1763996483,
+      "rank": 4,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136278,
       "num": 136278,
       "word": "警方回应印度旅游团义乌偷东西",
@@ -3273,6 +3345,14 @@
       "onboard_time": 1763907142,
       "rank": 36,
       "category": "军事"
+    },
+    {
+      "raw_hot": 134164,
+      "num": 144721,
+      "word": "以色列官宣引进印度移民",
+      "onboard_time": 1763994742,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 133785,
@@ -3449,6 +3529,14 @@
       "onboard_time": 1763950700,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 126310,
+      "num": 126310,
+      "word": "特区政府停止与日本领事馆官方交流",
+      "onboard_time": 1763997323,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 125766,
@@ -3707,20 +3795,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117642,
-      "num": 144721,
-      "word": "以色列官宣引进印度移民",
-      "onboard_time": 1763994742,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 117561,
       "num": 255538,
       "word": "12岁失联双胞胎姐妹已找到",
       "onboard_time": 1763904202,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117554,
+      "num": 117554,
+      "word": "TT世界赛18淘汰首鸡",
+      "onboard_time": 1763997261,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 117346,
@@ -3923,6 +4011,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112074,
+      "num": 112074,
+      "word": "李蠕蠕自曝经常处于瓶颈期",
+      "onboard_time": 1763997142,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 111898,
       "num": 111898,
       "word": "史上最薄iPhone初期销量远逊预期",
@@ -4017,6 +4113,14 @@
       "onboard_time": 1763959942,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 110027,
+      "num": 110027,
+      "word": "张婧仪金莲花提名",
+      "onboard_time": 1763998161,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 109787,
@@ -4715,6 +4819,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95473,
+      "num": 95473,
+      "word": "甲流爆发不要慌",
+      "onboard_time": 1763995762,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95367,
       "num": 95367,
       "word": "妈妈最喜欢梳的发型出现了",
@@ -5371,6 +5483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 71805,
+      "num": 117572,
+      "word": "女装直播退货率80%以上",
+      "onboard_time": 1763997323,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70666,
       "num": 108375,
       "word": "十个勤天熟得有点受不了了",
@@ -5611,14 +5731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56499,
-      "num": 198510,
-      "word": "日本贼心不死",
-      "onboard_time": 1763994983,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 56267,
       "num": 95423,
       "word": "高市错误言论违反国际法",
@@ -5729,6 +5841,14 @@
       "onboard_time": 1763979261,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 47571,
+      "num": 117632,
+      "word": "22元拍下蕉内羽绒服被拒绝发货",
+      "onboard_time": 1763998161,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47258,
@@ -6011,20 +6131,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 33287,
+      "num": 207257,
+      "word": "在荣耀发布会和肖战续火花",
+      "onboard_time": 1763993002,
+      "rank": 10,
+      "category": "艺人,数码"
+    },
+    {
       "raw_hot": 33279,
       "num": 96983,
       "word": "谈一段正常的恋爱好难",
       "onboard_time": 1763931733,
       "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 33058,
-      "num": 207257,
-      "word": "在荣耀发布会和肖战续火花",
-      "onboard_time": 1763993002,
-      "rank": 10,
-      "category": "艺人,数码"
     },
     {
       "raw_hot": 32729,
@@ -6347,6 +6467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20096,
+      "num": 145975,
+      "word": "廉价首饰致癌物超标官方已抽样送检",
+      "onboard_time": 1763998161,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19871,
       "num": 45067,
       "word": "马来西亚警方拘留14名日本诈骗嫌犯",
@@ -6491,6 +6619,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 9936,
+      "num": 117987,
+      "word": "网友吐槽吃零食还要做热量计算题",
+      "onboard_time": 1763998161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9169,
       "num": 112133,
       "word": "毕赣说易烊千玺得下一个影帝发红包",
@@ -6527,6 +6663,9 @@
     },
     {
       "word": "#习近平情系文艺事业发展#"
+    },
+    {
+      "word": "#习近平同特朗普通话#"
     }
   ]
 }

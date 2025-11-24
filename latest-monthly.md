@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 22:46:35
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 23:32:13
 </p>
 </blockquote>
 <p>
@@ -2235,6 +2235,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E9%80%9A%E7%94%B5%E8%AF%9D%23" target="weibo">
+中美元首通电话（热度：860201）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%8A%82%E5%81%87%E6%97%A5%E5%AE%89%E6%8E%92%23" target="weibo">
 2026年节假日安排（热度：859960）
 </a>
@@ -2525,6 +2531,12 @@ A股（热度：834240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E6%B2%88%E5%A8%87%E5%A8%87%E6%89%8D%E6%98%AF%E4%B8%BB%E8%A7%92%23" target="weibo">
 将门毒后沈娇娇才是主角（热度：805385）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%20%E5%90%93%E4%BA%BA%23" target="weibo">
+枭起青壤 吓人（热度：804894）
 </a>
 </li>
 
@@ -6002,18 +6014,6 @@ Faker谈多兰多次失误（热度：516116）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%20%E9%98%BF%E9%87%8C%E7%B3%BB%23" target="weibo">
-山姆 阿里系（热度：506085）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%88%E8%96%AA%E4%B8%80%E4%B8%87%E7%9A%84%E8%AF%95%E5%90%83%E5%91%98%E6%9C%89%E5%A4%9A%E8%BE%9B%E8%8B%A6%23" target="weibo">
-月薪一万的试吃员有多辛苦（热度：505824）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6395,6 +6395,12 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E6%83%85%E7%B3%BB%E6%96%87%E8%89%BA%E4%BA%8B%E4%B8%9A%E5%8F%91%E5%B1%95%23%23" target="weibo">
 #习近平情系文艺事业发展#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23%23" target="weibo">
+#习近平同特朗普通话#
 </a>
 </li>
 
