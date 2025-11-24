@@ -1,0 +1,410 @@
+{
+  "runTime": 1763984373566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1050355,
+        "num": 1168056,
+        "word": "中国暂停租借大熊猫给日本引关注",
+        "onboard_time": 1763980761,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 18499,
+        "num": 698000,
+        "word": "我国可复用火箭年底将迎密集首飞期",
+        "onboard_time": 1763983822,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43115,
+        "num": 424855,
+        "word": "我国启动聚变领域国际科学计划",
+        "onboard_time": 1763974581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 412120,
+        "num": 412120,
+        "word": "中方回应日本部署中程导弹",
+        "onboard_time": 1763970801,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 409404,
+        "num": 409404,
+        "word": "中国将寻找第二颗地球",
+        "onboard_time": 1763974880,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326549,
+        "num": 326549,
+        "word": "医生称臭大姐可以吃别多吃",
+        "onboard_time": 1763975962,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 297715,
+        "num": 297715,
+        "word": "中国大米在日本售价上涨数倍",
+        "onboard_time": 1763980581,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232047,
+        "num": 232047,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206336,
+        "num": 206336,
+        "word": "有人破解巨型吊牌继续蹭穿",
+        "onboard_time": 1763967741,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176461,
+        "num": 206000,
+        "word": "枭起青壤",
+        "onboard_time": 1763981061,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 759642,
+        "num": 204169,
+        "word": "FILA致歉",
+        "onboard_time": 1763979561,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 523890,
+        "num": 203719,
+        "word": "杨紫真的拍了香蜜转场",
+        "onboard_time": 1763969781,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425438,
+        "num": 201596,
+        "word": "戴军李静爆料最难访的艺人",
+        "onboard_time": 1763977702,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277534,
+        "num": 200914,
+        "word": "中方回应高市早苗称愿与中国对话",
+        "onboard_time": 1763982740,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 218827,
+        "num": 200272,
+        "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+        "onboard_time": 1763968940,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199083,
+        "num": 199083,
+        "word": "医院将进价3万的瓣膜28万元卖出",
+        "onboard_time": 1763982801,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198398,
+        "num": 198398,
+        "word": "陈晓陈妍希新剧对打",
+        "onboard_time": 1763968581,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303284,
+        "num": 196429,
+        "word": "戴军曝杨笠常住清迈",
+        "onboard_time": 1763984121,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193056,
+        "num": 193056,
+        "word": "张佳宁好像我和闺蜜去迪士尼",
+        "onboard_time": 1763983101,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187283,
+        "num": 187283,
+        "word": "时代少年团密室逃脱vlog",
+        "onboard_time": 1763983761,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1145997,
+        "num": 186495,
+        "word": "胡彦斌妈妈 老版易梦玲",
+        "onboard_time": 1763979261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250880,
+        "num": 186494,
+        "word": "经常看书和不看书的区别真的好大",
+        "onboard_time": 1763979561,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 199255,
+        "num": 185726,
+        "word": "美国一男子因便秘身亡",
+        "onboard_time": 1763969961,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 183754,
+        "num": 183754,
+        "word": "迪丽热巴意大利分巴",
+        "onboard_time": 1763975061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181960,
+        "num": 181960,
+        "word": "Jasper 我爸超级无敌帅",
+        "onboard_time": 1763983401,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146750,
+        "num": 146750,
+        "word": "左奇函 周一不好",
+        "onboard_time": 1763984182,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139095,
+        "num": 139095,
+        "word": "陈哲远将录制现在就出发",
+        "onboard_time": 1763979981,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134614,
+        "num": 134614,
+        "word": "陈小春应采儿两个魔丸生出了个灵珠",
+        "onboard_time": 1763971282,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132033,
+        "num": 132033,
+        "word": "月薪一万的试吃员有多辛苦",
+        "onboard_time": 1763967020,
+        "rank": 28,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 114847,
+        "num": 130217,
+        "word": "枭起青壤第二日云合",
+        "onboard_time": 1763978481,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129788,
+        "num": 129788,
+        "word": "日方在西南诸岛部署进攻性武器",
+        "onboard_time": 1763983282,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127399,
+        "num": 127399,
+        "word": "A股小作文引发工业富联盘中跌停",
+        "onboard_time": 1763981781,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121117,
+        "num": 121117,
+        "word": "网评的四大00生",
+        "onboard_time": 1763979921,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117933,
+        "num": 117933,
+        "word": "人造太阳有望两年后点燃",
+        "onboard_time": 1763982021,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50840,
+        "num": 114879,
+        "word": "地枭才是完美男友",
+        "onboard_time": 1763984182,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114657,
+        "num": 114657,
+        "word": "日本民众回应最后2只大熊猫将回国",
+        "onboard_time": 1763979200,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111155,
+        "num": 111155,
+        "word": "解密胡彦斌易梦玲恋情是谁放出来的",
+        "onboard_time": 1763977101,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102621,
+        "num": 102621,
+        "word": "大湾鸡集体洗白白",
+        "onboard_time": 1763979322,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32863,
+        "num": 102509,
+        "word": "李家超表态",
+        "onboard_time": 1763983401,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102480,
+        "num": 102480,
+        "word": "男子半月领养20多只猫全部失踪",
+        "onboard_time": 1763983461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74777,
+        "num": 100405,
+        "word": "荒野求生决赛测体重有选手胖18斤",
+        "onboard_time": 1763982021,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100124,
+        "num": 100124,
+        "word": "华为Mate80系列发货已排到明年",
+        "onboard_time": 1763982262,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98419,
+        "num": 98419,
+        "word": "缅因猫4500元法拍3000人围观",
+        "onboard_time": 1763978121,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95560,
+        "num": 95560,
+        "word": "名校研究生收费写to签",
+        "onboard_time": 1763977162,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 93892,
+        "num": 93892,
+        "word": "黄一鸣谈恋爱了",
+        "onboard_time": 1763970021,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89325,
+        "num": 89325,
+        "word": "知名婴童品牌被检出菌落超标48倍",
+        "onboard_time": 1763968462,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 89255,
+        "num": 89255,
+        "word": "小猫出来那一刻自己也懵了",
+        "onboard_time": 1763984242,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 35187,
+        "num": 88478,
+        "word": "三只松鼠ceo叫松鼠老爹",
+        "onboard_time": 1763982801,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88383,
+        "num": 88383,
+        "word": "中方用胆敢二字警告日本",
+        "onboard_time": 1763960422,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 73885,
+        "num": 87303,
+        "word": "这一剑等了一万年",
+        "onboard_time": 1763981541,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视文博工作#"
+    }
+  }
+}

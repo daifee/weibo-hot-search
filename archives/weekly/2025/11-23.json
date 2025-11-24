@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763983500822,
+  "endTime": 1763984373566,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -115,6 +115,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1050355,
+      "num": 1168056,
+      "word": "中国暂停租借大熊猫给日本引关注",
+      "onboard_time": 1763980761,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 1014479,
       "num": 289400,
       "word": "彝族老人 镜头霸凌",
@@ -153,14 +161,6 @@
       "onboard_time": 1763955562,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 907548,
-      "num": 1145207,
-      "word": "中国暂停租借大熊猫给日本引关注",
-      "onboard_time": 1763980761,
-      "rank": 33,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 862333,
@@ -1211,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303284,
+      "num": 196429,
+      "word": "戴军曝杨笠常住清迈",
+      "onboard_time": 1763984121,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 303138,
       "num": 361301,
       "word": "卢凌风那是你的婚约吗",
@@ -1241,6 +1249,14 @@
       "onboard_time": 1763968462,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 297715,
+      "num": 297715,
+      "word": "中国大米在日本售价上涨数倍",
+      "onboard_time": 1763980581,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 296255,
@@ -1281,14 +1297,6 @@
       "onboard_time": 1763961802,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 286184,
-      "num": 286184,
-      "word": "中国大米在日本售价上涨数倍",
-      "onboard_time": 1763980581,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 284467,
@@ -1345,6 +1353,14 @@
       "onboard_time": 1763908404,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 277534,
+      "num": 200914,
+      "word": "中方回应高市早苗称愿与中国对话",
+      "onboard_time": 1763982740,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 275977,
@@ -1513,6 +1529,14 @@
       "onboard_time": 1763971641,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 250880,
+      "num": 186494,
+      "word": "经常看书和不看书的区别真的好大",
+      "onboard_time": 1763979561,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 249927,
@@ -1915,6 +1939,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199083,
+      "num": 199083,
+      "word": "医院将进价3万的瓣膜28万元卖出",
+      "onboard_time": 1763982801,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198973,
       "num": 198973,
       "word": "刘耀文这透视可真透视啊",
@@ -1987,12 +2019,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 191998,
-      "num": 151696,
-      "word": "经常看书和不看书的区别真的好大",
-      "onboard_time": 1763979561,
-      "rank": 35,
-      "category": "情感"
+      "raw_hot": 193056,
+      "num": 193056,
+      "word": "张佳宁好像我和闺蜜去迪士尼",
+      "onboard_time": 1763983101,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 191979,
@@ -2115,6 +2147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187283,
+      "num": 187283,
+      "word": "时代少年团密室逃脱vlog",
+      "onboard_time": 1763983761,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 186754,
       "num": 157505,
       "word": "戒糖10天身体就会发生变化",
@@ -2185,6 +2225,14 @@
       "onboard_time": 1763958082,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 181960,
+      "num": 181960,
+      "word": "Jasper 我爸超级无敌帅",
+      "onboard_time": 1763983401,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 180228,
@@ -2451,14 +2499,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 164199,
-      "num": 164199,
-      "word": "中方回应高市早苗称愿与中国对话",
-      "onboard_time": 1763982740,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 163749,
       "num": 138438,
       "word": "为什么中药名字这么好听",
@@ -2675,14 +2715,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 148400,
-      "num": 148400,
-      "word": "医院将进价3万的瓣膜28万元卖出",
-      "onboard_time": 1763982801,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148100,
       "num": 148100,
       "word": "狂野时代观后感",
@@ -2699,11 +2731,11 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 146996,
-      "num": 146996,
-      "word": "张佳宁好像我和闺蜜去迪士尼",
-      "onboard_time": 1763983101,
-      "rank": 28,
+      "raw_hot": 146750,
+      "num": 146750,
+      "word": "左奇函 周一不好",
+      "onboard_time": 1763984182,
+      "rank": 25,
       "category": "艺人"
     },
     {
@@ -2979,14 +3011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132389,
-      "num": 132389,
-      "word": "Jasper 我爸超级无敌帅",
-      "onboard_time": 1763983401,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132065,
       "num": 132065,
       "word": "曝BLG续约Shad0w",
@@ -3025,6 +3049,14 @@
       "onboard_time": 1763971940,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129788,
+      "num": 129788,
+      "word": "日方在西南诸岛部署进攻性武器",
+      "onboard_time": 1763983282,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129190,
@@ -3339,6 +3371,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117933,
+      "num": 703592,
+      "word": "人造太阳有望两年后点燃",
+      "onboard_time": 1763982021,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117561,
       "num": 255538,
       "word": "12岁失联双胞胎姐妹已找到",
@@ -3497,14 +3537,6 @@
       "onboard_time": 1763956341,
       "rank": 16,
       "category": "数码,科学科普"
-    },
-    {
-      "raw_hot": 112611,
-      "num": 106138,
-      "word": "日方在西南诸岛部署进攻性武器",
-      "onboard_time": 1763983282,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 112493,
@@ -3971,8 +4003,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 102120,
-      "num": 102120,
+      "raw_hot": 102480,
+      "num": 102480,
       "word": "男子半月领养20多只猫全部失踪",
       "onboard_time": 1763983461,
       "rank": 47,
@@ -4315,14 +4347,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94331,
-      "num": 703592,
-      "word": "人造太阳有望两年后点燃",
-      "onboard_time": 1763982021,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 94179,
       "num": 94179,
       "word": "徐洁云等辟谣小乔地铁站车祸事件",
@@ -4529,6 +4553,14 @@
       "onboard_time": 1763867360,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 89255,
+      "num": 89255,
+      "word": "小猫出来那一刻自己也懵了",
+      "onboard_time": 1763984242,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 88922,
@@ -4801,6 +4833,14 @@
       "onboard_time": 1763862139,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 74777,
+      "num": 149608,
+      "word": "荒野求生决赛测体重有选手胖18斤",
+      "onboard_time": 1763982021,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 74495,
@@ -5187,6 +5227,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50840,
+      "num": 114879,
+      "word": "地枭才是完美男友",
+      "onboard_time": 1763984182,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 49160,
       "num": 117487,
       "word": "枭起青壤打的人心慌看的人心黄",
@@ -5201,14 +5249,6 @@
       "onboard_time": 1763896880,
       "rank": 37,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 48055,
-      "num": 149608,
-      "word": "荒野求生决赛测体重有选手胖18斤",
-      "onboard_time": 1763982021,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47885,
@@ -5443,6 +5483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 35187,
+      "num": 116446,
+      "word": "三只松鼠ceo叫松鼠老爹",
+      "onboard_time": 1763982801,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34609,
       "num": 167254,
       "word": "航司超售致近20名中国旅客滞留非洲",
@@ -5464,14 +5512,6 @@
       "word": "老中医回应被罚退赛",
       "onboard_time": 1763973982,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33795,
-      "num": 116446,
-      "word": "三只松鼠ceo叫松鼠老爹",
-      "onboard_time": 1763982801,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5801,6 +5841,14 @@
       "onboard_time": 1763949140,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18499,
+      "num": 698000,
+      "word": "我国可复用火箭年底将迎密集首飞期",
+      "onboard_time": 1763983822,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18415,
