@@ -1,21 +1,45 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763941138530,
+  "endTime": 1763950020814,
   "band_list": [
     {
+      "raw_hot": 1169067,
+      "num": 1187050,
+      "word": "台湾没什么事日本真有事了",
+      "onboard_time": 1763947879,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1124734,
+      "num": 238839,
+      "word": "高市早苗狂套近乎马克龙表情亮了",
+      "onboard_time": 1763940799,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1014479,
-      "num": 182474,
+      "num": 182886,
       "word": "彝族老人 镜头霸凌",
       "onboard_time": 1763911642,
       "rank": 10,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 589357,
-      "num": 164486,
+      "raw_hot": 809844,
+      "num": 183775,
       "word": "做妇科检查女生被医生骂哭了",
       "onboard_time": 1763940678,
       "rank": 11,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 610649,
+      "num": 182689,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1763946681,
+      "rank": 12,
       "category": "情感"
     },
     {
@@ -28,7 +52,7 @@
     },
     {
       "raw_hot": 517574,
-      "num": 126382,
+      "num": 177554,
       "word": "直播网红批量撤离杭州",
       "onboard_time": 1763904501,
       "rank": 20,
@@ -44,7 +68,7 @@
     },
     {
       "raw_hot": 395964,
-      "num": 125830,
+      "num": 176788,
       "word": "20岁男生肺被啃出10多个空洞",
       "onboard_time": 1763908223,
       "rank": 21,
@@ -57,6 +81,14 @@
       "onboard_time": 1763900482,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 365822,
+      "num": 181728,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
     },
     {
       "raw_hot": 330788,
@@ -83,12 +115,44 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 305036,
+      "num": 305036,
+      "word": "C罗倒钩破门",
+      "onboard_time": 1763943562,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 302905,
       "num": 124788,
       "word": "唐嫣现身罗晋父亲葬礼",
       "onboard_time": 1763886080,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 289380,
+      "num": 289380,
+      "word": "杨瀚森NBA生涯首个三分",
+      "onboard_time": 1763947879,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 270229,
+      "num": 175847,
+      "word": "张靓颖自曝患带状疱疹留疤",
+      "onboard_time": 1763948000,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 252635,
+      "num": 252635,
+      "word": "G20",
+      "onboard_time": 1763949259,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 242300,
@@ -115,6 +179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 193055,
+      "num": 180845,
+      "word": "刚入职民警遇刚出生小孩有点慌",
+      "onboard_time": 1763949800,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187091,
       "num": 187091,
       "word": "枭起青壤剧情平",
@@ -131,12 +203,52 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184788,
+      "num": 184788,
+      "word": "中国男子5000米接力银牌",
+      "onboard_time": 1763944341,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180688,
       "num": 180688,
       "word": "C罗可能做过多次整容手术",
       "onboard_time": 1763901321,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 175780,
+      "num": 175780,
+      "word": "打工人通勤从勃肯鞋到雪地靴",
+      "onboard_time": 1763949140,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 171158,
+      "num": 171158,
+      "word": "杨紫又一个大女主戏待播",
+      "onboard_time": 1763940079,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171150,
+      "num": 171150,
+      "word": "冬天玩手机不冻手的邪修大法",
+      "onboard_time": 1763949140,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 170735,
+      "num": 170735,
+      "word": "冬天穿出氛围感还得靠大衣",
+      "onboard_time": 1763949140,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 158165,
@@ -148,7 +260,7 @@
     },
     {
       "raw_hot": 157080,
-      "num": 130514,
+      "num": 139909,
       "word": "跟王菲关系好的嘴都不一般",
       "onboard_time": 1763911223,
       "rank": 19,
@@ -163,12 +275,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 144357,
+      "num": 144357,
+      "word": "A股",
+      "onboard_time": 1763949681,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144166,
       "num": 144166,
       "word": "李诞初见王安宇被帅到失态",
       "onboard_time": 1763906182,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138310,
+      "num": 179846,
+      "word": "种地吧",
+      "onboard_time": 1763941399,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 136744,
@@ -187,12 +315,60 @@
       "category": "教育"
     },
     {
+      "raw_hot": 133727,
+      "num": 133727,
+      "word": "女子患病竟收到陌生女人电话催离婚",
+      "onboard_time": 1763949019,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128539,
+      "num": 179182,
+      "word": "迪丽热巴枭起青壤首日百指",
+      "onboard_time": 1763949199,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 123962,
+      "num": 123962,
+      "word": "印度全面恢复中国公民旅游签",
+      "onboard_time": 1763949019,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123196,
       "num": 123196,
       "word": "白桃星座",
       "onboard_time": 1763909722,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 122595,
+      "num": 122595,
+      "word": "马斯克曾领导的政府效率部解散",
+      "onboard_time": 1763949140,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 122046,
+      "num": 122046,
+      "word": "截图癖",
+      "onboard_time": 1763946740,
+      "rank": 36,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 121767,
+      "num": 121766,
+      "word": "西贝员工回应涨薪500元",
+      "onboard_time": 1763949439,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 115995,
@@ -227,14 +403,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 114215,
-      "num": 114215,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 113100,
       "num": 113100,
       "word": "原来1000度近视半飞秒是这样做的",
@@ -243,20 +411,28 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 110247,
-      "num": 110247,
-      "word": "杨紫又一个大女主戏待播",
-      "onboard_time": 1763940079,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 109422,
       "num": 98002,
       "word": "儿童吃奥司他韦警惕出现严重副作用",
       "onboard_time": 1763907081,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 108706,
+      "num": 108706,
+      "word": "中国适合两个人去的城市",
+      "onboard_time": 1763949259,
+      "rank": 41,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 106899,
+      "num": 106899,
+      "word": "美国政府效率部解散",
+      "onboard_time": 1763949800,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105430,
@@ -273,6 +449,14 @@
       "onboard_time": 1763908822,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101600,
+      "num": 101600,
+      "word": "为什么练的是背瘦的是脸",
+      "onboard_time": 1763942480,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 99885,
@@ -323,12 +507,36 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 92232,
+      "num": 92232,
+      "word": "史上最薄iPhone初期销量远逊预期",
+      "onboard_time": 1763949500,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 91386,
       "num": 182954,
       "word": "短道速滑",
       "onboard_time": 1763906182,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90637,
+      "num": 90637,
+      "word": "Gumayusi看T1视频哭了",
+      "onboard_time": 1763947219,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 90102,
+      "num": 90102,
+      "word": "何超欣去看时代少年团演唱会",
+      "onboard_time": 1763949979,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 89630,
@@ -339,20 +547,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 89467,
+      "num": 89467,
+      "word": "15岁追星和25岁追星的区别",
+      "onboard_time": 1763945781,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83740,
       "num": 94082,
       "word": "时代少年团六周年演唱会",
       "onboard_time": 1763894301,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 83249,
-      "num": 97650,
-      "word": "高市早苗狂套近乎马克龙表情亮了",
-      "onboard_time": 1763940799,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82512,
@@ -427,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60028,
+      "num": 178594,
+      "word": "山东邹平成立三无飞机调查组",
+      "onboard_time": 1763948900,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59780,
       "num": 96594,
       "word": "HLE官宣Gumayusi加入",
@@ -467,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 55798,
+      "num": 88685,
+      "word": "杨紫家业脏脏包妆造",
+      "onboard_time": 1763944461,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51167,
       "num": 93614,
       "word": "樊振东核心力量有多强",
@@ -481,6 +705,14 @@
       "onboard_time": 1763904561,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 43656,
+      "num": 121770,
+      "word": "男子骑电瓶车突然180度翻转倒地",
+      "onboard_time": 1763949081,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43580,
@@ -523,6 +755,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 40925,
+      "num": 290739,
+      "word": "这26秒科技感直接拉满",
+      "onboard_time": 1763904262,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 39892,
+      "num": 178221,
+      "word": "缅军再出手清剿KK园区",
+      "onboard_time": 1763949081,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38997,
       "num": 93956,
       "word": "狼队清清连接成功",
@@ -545,14 +793,6 @@
       "onboard_time": 1763916319,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35450,
-      "num": 259440,
-      "word": "这26秒科技感直接拉满",
-      "onboard_time": 1763904262,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 35117,
@@ -617,6 +857,14 @@
       "onboard_time": 1763915299,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 18912,
+      "num": 121767,
+      "word": "明年起遛狗不拴绳违法",
+      "onboard_time": 1763949140,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17588,

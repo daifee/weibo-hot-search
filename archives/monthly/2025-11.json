@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763941138530,
+  "endTime": 1763950020814,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1555,6 +1555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1169067,
+      "num": 1187050,
+      "word": "台湾没什么事日本真有事了",
+      "onboard_time": 1763947879,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1166462,
       "num": 1166462,
       "word": "释永信被批捕",
@@ -1697,6 +1705,14 @@
       "onboard_time": 1762519882,
       "rank": 30,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 1124734,
+      "num": 238839,
+      "word": "高市早苗狂套近乎马克龙表情亮了",
+      "onboard_time": 1763940799,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1123676,
@@ -3161,6 +3177,14 @@
       "onboard_time": 1763125882,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 809844,
+      "num": 183775,
+      "word": "做妇科检查女生被医生骂哭了",
+      "onboard_time": 1763940678,
+      "rank": 11,
+      "category": "情感"
     },
     {
       "raw_hot": 808832,
@@ -5539,6 +5563,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 610649,
+      "num": 182689,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1762240400,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 610307,
       "num": 291936,
       "word": "张俪别演了我害怕",
@@ -5937,14 +5969,6 @@
       "onboard_time": 1762753581,
       "rank": 10,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 589357,
-      "num": 164486,
-      "word": "做妇科检查女生被医生骂哭了",
-      "onboard_time": 1763940678,
-      "rank": 11,
-      "category": "情感"
     },
     {
       "raw_hot": 588632,
@@ -12083,6 +12107,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365822,
+      "num": 181728,
+      "word": "何秋亊说演唱会没收到应得的报酬",
+      "onboard_time": 1763924714,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 365738,
       "num": 187095,
       "word": "摇滚歌手阿珍去世",
@@ -15035,6 +15067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 305036,
+      "num": 305036,
+      "word": "C罗倒钩破门",
+      "onboard_time": 1763943562,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304948,
       "num": 510064,
       "word": "朱志鑫见面会",
@@ -16033,6 +16073,14 @@
       "onboard_time": 1763174900,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 289380,
+      "num": 289380,
+      "word": "杨瀚森NBA生涯首个三分",
+      "onboard_time": 1763947879,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 289289,
@@ -17200,6 +17248,14 @@
       "word": "曝香港导演刘家良墓被盗",
       "onboard_time": 1762234940,
       "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 270229,
+      "num": 175847,
+      "word": "张靓颖自曝患带状疱疹留疤",
+      "onboard_time": 1763948000,
+      "rank": 22,
       "category": "艺人"
     },
     {
@@ -18449,6 +18505,14 @@
       "onboard_time": 1763519181,
       "rank": 12,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 252635,
+      "num": 252635,
+      "word": "G20",
+      "onboard_time": 1763949259,
+      "rank": 4,
+      "category": "国际时政"
     },
     {
       "raw_hot": 252560,
@@ -24691,6 +24755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193055,
+      "num": 180845,
+      "word": "刚入职民警遇刚出生小孩有点慌",
+      "onboard_time": 1763949800,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 193035,
       "num": 193035,
       "word": "哥伦比亚23岁女子喝酒挑战后去世",
@@ -26531,6 +26603,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184788,
+      "num": 184788,
+      "word": "中国男子5000米接力银牌",
+      "onboard_time": 1763944341,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184703,
       "num": 184703,
       "word": "杨宗纬被曝是恶邻",
@@ -28003,6 +28083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 175780,
+      "num": 175780,
+      "word": "打工人通勤从勃肯鞋到雪地靴",
+      "onboard_time": 1763949140,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 175758,
       "num": 175758,
       "word": "于正约吴谨言商议后续的戏",
@@ -28787,6 +28875,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171158,
+      "num": 171158,
+      "word": "杨紫又一个大女主戏待播",
+      "onboard_time": 1763940079,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 171150,
+      "num": 171150,
+      "word": "冬天玩手机不冻手的邪修大法",
+      "onboard_time": 1763949140,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 171130,
       "num": 171130,
       "word": "台媒称两岸统一进程正在加快",
@@ -28889,6 +28993,14 @@
       "onboard_time": 1762426881,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 170735,
+      "num": 170735,
+      "word": "冬天穿出氛围感还得靠大衣",
+      "onboard_time": 1763949140,
+      "rank": 26,
+      "category": "幽默"
     },
     {
       "raw_hot": 170710,
@@ -33683,14 +33795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 150377,
-      "num": 150377,
-      "word": "剪毁刘海意外成了人生发型",
-      "onboard_time": 1762240400,
-      "rank": 40,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 150331,
       "num": 478994,
       "word": "苹果回应iPhone面容解锁不用摄像头",
@@ -37035,6 +37139,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 138310,
+      "num": 179846,
+      "word": "种地吧",
+      "onboard_time": 1763941399,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138278,
       "num": 138278,
       "word": "登陆少年团红毯太抽象了",
@@ -38561,6 +38673,14 @@
       "onboard_time": 1763306546,
       "rank": 39,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 133727,
+      "num": 133727,
+      "word": "女子患病竟收到陌生女人电话催离婚",
+      "onboard_time": 1763949019,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133725,
@@ -40369,6 +40489,14 @@
       "onboard_time": 1762319061,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 128539,
+      "num": 179182,
+      "word": "迪丽热巴枭起青壤首日百指",
+      "onboard_time": 1763949199,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 128536,
@@ -42331,6 +42459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 123962,
+      "num": 123962,
+      "word": "印度全面恢复中国公民旅游签",
+      "onboard_time": 1763949019,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 123935,
       "num": 123935,
       "word": "李沁9年后再蹦极哭的是我",
@@ -42963,6 +43099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122595,
+      "num": 122595,
+      "word": "马斯克曾领导的政府效率部解散",
+      "onboard_time": 1763949140,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122562,
       "num": 178672,
       "word": "威海海域两船相撞8人失联",
@@ -43171,6 +43315,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 122046,
+      "num": 122046,
+      "word": "截图癖",
+      "onboard_time": 1763946740,
+      "rank": 36,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 122027,
       "num": 120904,
       "word": "丁禹兮笑脸baby冷脸daddy",
@@ -43257,6 +43409,14 @@
       "onboard_time": 1763274383,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 121767,
+      "num": 121766,
+      "word": "西贝员工回应涨薪500元",
+      "onboard_time": 1763949439,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121759,
@@ -46619,14 +46779,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 114215,
-      "num": 114215,
-      "word": "何秋亊说演唱会没收到应得的报酬",
-      "onboard_time": 1763924714,
-      "rank": 30,
-      "category": "演出"
-    },
-    {
       "raw_hot": 114175,
       "num": 317377,
       "word": "王一博脚趾头都肿了",
@@ -48443,14 +48595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110247,
-      "num": 110247,
-      "word": "杨紫又一个大女主戏待播",
-      "onboard_time": 1763940079,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 110238,
       "num": 140661,
       "word": "水龙吟剧粉开始人传人现象了",
@@ -49073,6 +49217,14 @@
       "onboard_time": 1762353381,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 108706,
+      "num": 108706,
+      "word": "中国适合两个人去的城市",
+      "onboard_time": 1763949259,
+      "rank": 41,
+      "category": "旅游"
     },
     {
       "raw_hot": 108668,
@@ -50041,6 +50193,14 @@
       "onboard_time": 1762695622,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 106899,
+      "num": 106899,
+      "word": "美国政府效率部解散",
+      "onboard_time": 1763949800,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106874,
@@ -52929,6 +53089,14 @@
       "onboard_time": 1762834401,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 101600,
+      "num": 101600,
+      "word": "为什么练的是背瘦的是脸",
+      "onboard_time": 1763942480,
+      "rank": 43,
+      "category": "运动健身"
     },
     {
       "raw_hot": 101581,
@@ -58243,6 +58411,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 92232,
+      "num": 92232,
+      "word": "史上最薄iPhone初期销量远逊预期",
+      "onboard_time": 1763949500,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 92200,
       "num": 92200,
       "word": "王安宇也是找到了副业",
@@ -59147,6 +59323,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90637,
+      "num": 90637,
+      "word": "Gumayusi看T1视频哭了",
+      "onboard_time": 1763947219,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 90620,
       "num": 90620,
       "word": "猫如果蹲在水里不动",
@@ -59425,6 +59609,14 @@
       "onboard_time": 1763106920,
       "rank": 44,
       "category": "美食"
+    },
+    {
+      "raw_hot": 90102,
+      "num": 90102,
+      "word": "何超欣去看时代少年团演唱会",
+      "onboard_time": 1763949979,
+      "rank": 47,
+      "category": "演出"
     },
     {
       "raw_hot": 90099,
@@ -59833,6 +60025,14 @@
       "onboard_time": 1763890821,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89467,
+      "num": 89467,
+      "word": "15岁追星和25岁追星的区别",
+      "onboard_time": 1763945781,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 89449,
@@ -63145,14 +63345,6 @@
       "onboard_time": 1762264402,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83249,
-      "num": 97650,
-      "word": "高市早苗狂套近乎马克龙表情亮了",
-      "onboard_time": 1763940799,
-      "rank": 30,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83243,
@@ -70899,6 +71091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60028,
+      "num": 178594,
+      "word": "山东邹平成立三无飞机调查组",
+      "onboard_time": 1763948900,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60006,
       "num": 134633,
       "word": "2万页爱泼斯坦邮件曝光",
@@ -71937,6 +72137,14 @@
       "onboard_time": 1763806401,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55798,
+      "num": 88685,
+      "word": "杨紫家业脏脏包妆造",
+      "onboard_time": 1763944461,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 55783,
@@ -74979,6 +75187,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 43656,
+      "num": 121770,
+      "word": "男子骑电瓶车突然180度翻转倒地",
+      "onboard_time": 1763949081,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43623,
       "num": 135140,
       "word": "冬日减负从轻暖开始",
@@ -75929,6 +76145,14 @@
       "onboard_time": 1763383222,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39892,
+      "num": 178221,
+      "word": "缅军再出手清剿KK园区",
+      "onboard_time": 1763949081,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39820,
@@ -81144,6 +81368,14 @@
       "word": "试吃卡诈骗",
       "onboard_time": 1763130803,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18912,
+      "num": 121767,
+      "word": "明年起遛狗不拴绳违法",
+      "onboard_time": 1763949140,
+      "rank": 39,
       "category": "民生新闻"
     },
     {

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 07:38:58
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 10:07:00
 </p>
 </blockquote>
 <p>
@@ -1179,6 +1179,12 @@ FPX退出LPL（热度：1177968）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%B9%BE%E6%B2%A1%E4%BB%80%E4%B9%88%E4%BA%8B%E6%97%A5%E6%9C%AC%E7%9C%9F%E6%9C%89%E4%BA%8B%E4%BA%86%23" target="weibo">
+台湾没什么事日本真有事了（热度：1169067）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%8A%E6%B0%B8%E4%BF%A1%E8%A2%AB%E6%89%B9%E6%8D%95%23" target="weibo">
 释永信被批捕（热度：1166462）
 </a>
@@ -1283,6 +1289,12 @@ CPA成绩（热度：1140911）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%96%B0%E8%A7%89%E7%BD%97%E5%AE%B6%E6%97%8F%E5%90%8E%E4%BB%A3%E9%83%BD%E6%9C%89%E6%9F%93%E8%89%B2%E4%BD%93%E6%A0%87%E8%AE%B0%23" target="weibo">
 爱新觉罗家族后代都有染色体标记（热度：1133122）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%8B%82%E5%A5%97%E8%BF%91%E4%B9%8E%E9%A9%AC%E5%85%8B%E9%BE%99%E8%A1%A8%E6%83%85%E4%BA%AE%E4%BA%86%23" target="weibo">
+高市早苗狂套近乎马克龙表情亮了（热度：1124734）
 </a>
 </li>
 
@@ -2381,6 +2393,12 @@ A股（热度：834240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%A2%A6%E9%98%9F%E5%8C%BB%E5%8F%91%E6%96%87%E8%BE%9F%E8%B0%A3%23" target="weibo">
 陈梦队医发文辟谣（热度：809941）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E5%A6%87%E7%A7%91%E6%A3%80%E6%9F%A5%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E9%AA%82%E5%93%AD%E4%BA%86%23" target="weibo">
+做妇科检查女生被医生骂哭了（热度：809844）
 </a>
 </li>
 
@@ -4167,6 +4185,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
+剪毁刘海意外成了人生发型（热度：610649）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BF%AA%E5%88%AB%E6%BC%94%E4%BA%86%E6%88%91%E5%AE%B3%E6%80%95%23" target="weibo">
 张俪别演了我害怕（热度：610307）
 </a>
@@ -4463,12 +4487,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%93%E9%92%88%E6%97%B6%E9%92%88%E7%9C%BC%E9%87%8C%E7%9A%84%E8%82%89%E5%8E%BB%E5%93%AA%E4%BA%86%23" target="weibo">
 打针时针眼里的肉去哪了（热度：589679）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%81%9A%E5%A6%87%E7%A7%91%E6%A3%80%E6%9F%A5%E5%A5%B3%E7%94%9F%E8%A2%AB%E5%8C%BB%E7%94%9F%E9%AA%82%E5%93%AD%E4%BA%86%23" target="weibo">
-做妇科检查女生被医生骂哭了（热度：589357）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E4%B8%96%E7%BA%AA%E5%90%88%E4%BD%93%23" target="weibo">
 武林外传世纪合体（热度：494254）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%8F%91%E7%8E%B0%E7%89%A9%E4%B8%9A%E8%B4%B9%E6%AF%94%E6%88%BF%E8%B4%B7%E5%8F%AF%E6%80%95%E5%A4%9A%E4%BA%86%23" target="weibo">
-我发现物业费比房贷可怕多了（热度：494144）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E9%93%81%E4%B8%8A%E8%A2%AB%E8%A6%81%E6%B1%82%E8%AE%A9%E5%BA%A7%E5%B9%B4%E8%BD%BB%E4%BA%BA%E9%9C%B8%E6%B0%94%E5%9B%9E%E6%80%BC%23" target="weibo">
-高铁上被要求让座年轻人霸气回怼（热度：494053）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%8A%8A%E8%83%8C%E6%8C%BA%E7%9B%B4%E5%88%AB%E9%A9%BC%E8%83%8C%23" target="weibo">
-把背挺直别驼背（热度：493999）
 </a>
 </li>
 
