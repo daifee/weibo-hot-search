@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763980311119,
+  "endTime": 1763981276382,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -113,6 +113,14 @@
       "onboard_time": 1763911642,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 988899,
+      "num": 192167,
+      "word": "胡彦斌妈妈 老版易梦玲",
+      "onboard_time": 1763979261,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 973132,
@@ -235,20 +243,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 771147,
+      "num": 1123383,
+      "word": "中国将寻找第二颗地球",
+      "onboard_time": 1763974880,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 758790,
       "num": 1121406,
       "word": "中方用胆敢二字警告日本",
       "onboard_time": 1763960422,
       "rank": 4,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 746059,
-      "num": 1119369,
-      "word": "中国将寻找第二颗地球",
-      "onboard_time": 1763974880,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 725800,
@@ -273,6 +281,14 @@
       "onboard_time": 1763956460,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 681388,
+      "num": 252633,
+      "word": "戴军李静爆料最难访的艺人",
+      "onboard_time": 1763977702,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 666855,
@@ -304,14 +320,6 @@
       "word": "胡彦斌方声明",
       "onboard_time": 1763889080,
       "rank": 12,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 634236,
-      "num": 180133,
-      "word": "胡彦斌妈妈 老版易梦玲",
-      "onboard_time": 1763979261,
-      "rank": 22,
       "category": "艺人"
     },
     {
@@ -513,14 +521,6 @@
       "onboard_time": 1763950939,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 518594,
-      "num": 252633,
-      "word": "戴军李静爆料最难访的艺人",
-      "onboard_time": 1763977702,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 517890,
@@ -828,7 +828,7 @@
     },
     {
       "raw_hot": 401690,
-      "num": 187044,
+      "num": 192121,
       "word": "美国一男子因便秘身亡",
       "onboard_time": 1763969961,
       "rank": 42,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1763886199,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 224807,
+      "num": 224807,
+      "word": "FILA致歉",
+      "onboard_time": 1763979561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 223055,
@@ -2619,6 +2627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 148646,
+      "num": 148646,
+      "word": "刘耀文腰上的sauce",
+      "onboard_time": 1763980701,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 148474,
       "num": 148474,
       "word": "石破茂再批高市早苗",
@@ -2763,20 +2779,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139724,
+      "num": 139724,
+      "word": "全国中小学寒假时间出炉",
+      "onboard_time": 1763977461,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 139229,
       "num": 139229,
       "word": "被姥姥梳成瘦猫",
       "onboard_time": 1763873601,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 138849,
-      "num": 138849,
-      "word": "全国中小学寒假时间出炉",
-      "onboard_time": 1763977461,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 138310,
@@ -2860,7 +2876,7 @@
     },
     {
       "raw_hot": 135734,
-      "num": 184717,
+      "num": 192229,
       "word": "枭起青壤第二日云合",
       "onboard_time": 1763978481,
       "rank": 18,
@@ -2905,6 +2921,14 @@
       "onboard_time": 1763949019,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132251,
+      "num": 132251,
+      "word": "中国暂停租借大熊猫给日本引关注",
+      "onboard_time": 1763980761,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 132065,
@@ -3307,6 +3331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115428,
+      "num": 115428,
+      "word": "松鼠老爹 松鼠老母",
+      "onboard_time": 1763979623,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114905,
       "num": 114905,
       "word": "eStar转会公告",
@@ -3523,6 +3555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109787,
+      "num": 109787,
+      "word": "余宇涵直播",
+      "onboard_time": 1763980941,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 109270,
       "num": 109270,
       "word": "鼻病毒感染不是普通感冒",
@@ -3537,6 +3577,14 @@
       "onboard_time": 1763954422,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108969,
+      "num": 108969,
+      "word": "俄罗斯将被邀请重返G8",
+      "onboard_time": 1763979981,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 108763,
@@ -3795,6 +3843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103903,
+      "num": 103903,
+      "word": "多地整治电动车加装挡风被",
+      "onboard_time": 1763981001,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 103732,
       "num": 189727,
       "word": "王火逝世女儿发声",
@@ -3905,6 +3961,14 @@
       "onboard_time": 1763954781,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100169,
+      "num": 100169,
+      "word": "正确的喝奶茶插吸管方法",
+      "onboard_time": 1763980461,
+      "rank": 46,
+      "category": "美食,休闲"
     },
     {
       "raw_hot": 99885,
@@ -4051,6 +4115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96653,
+      "num": 733098,
+      "word": "中国等共推人造太阳研发",
+      "onboard_time": 1763980221,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 96239,
       "num": 96239,
       "word": "汪苏泷苏有朋真的不考虑演部戏吗",
@@ -4129,6 +4201,14 @@
       "onboard_time": 1763968940,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 95045,
+      "num": 95045,
+      "word": "医院流感接诊量明显升高",
+      "onboard_time": 1763980400,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 94179,
@@ -4401,14 +4481,6 @@
       "onboard_time": 1763858059,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85966,
-      "num": 85966,
-      "word": "俄罗斯将被邀请重返G8",
-      "onboard_time": 1763979981,
-      "rank": 48,
-      "category": "国际时政"
     },
     {
       "raw_hot": 85911,
@@ -4723,6 +4795,14 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 69731,
+      "num": 192173,
+      "word": "中国大米在日本售价上涨数倍",
+      "onboard_time": 1763980581,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 68240,
       "num": 92667,
       "word": "沙溢刮完胡子年轻二十岁",
@@ -4923,14 +5003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56463,
-      "num": 107085,
-      "word": "松鼠老爹 松鼠老母",
-      "onboard_time": 1763979623,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56267,
       "num": 95423,
       "word": "高市错误言论违反国际法",
@@ -4979,14 +5051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 53157,
-      "num": 108943,
-      "word": "FILA致歉",
-      "onboard_time": 1763979561,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 52958,
       "num": 115690,
       "word": "馆长说日本一定会让步",
@@ -5009,6 +5073,14 @@
       "onboard_time": 1763814742,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 50849,
+      "num": 182159,
+      "word": "黄海北部连续3日实弹射击",
+      "onboard_time": 1763979081,
+      "rank": 21,
+      "category": "国内时政"
     },
     {
       "raw_hot": 49160,
@@ -5315,14 +5387,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 31827,
-      "num": 182159,
-      "word": "黄海北部连续3日实弹射击",
-      "onboard_time": 1763979081,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 31627,
       "num": 120150,
       "word": "偷甘蔗马拉松跑友扬言拉爆老板",
@@ -5425,6 +5489,14 @@
       "onboard_time": 1763977521,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 25587,
+      "num": 119442,
+      "word": "起底AI魔改山海经乱象",
+      "onboard_time": 1763980761,
+      "rank": 38,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 25536,
@@ -5531,6 +5603,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22136,
+      "num": 117664,
+      "word": "疯狂河南城",
+      "onboard_time": 1763980461,
+      "rank": 39,
+      "category": "电影,幽默"
+    },
+    {
       "raw_hot": 21583,
       "num": 111732,
       "word": "张继科说樊振东打的无懈可击",
@@ -5577,14 +5657,6 @@
       "onboard_time": 1763915299,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 19584,
-      "num": 733098,
-      "word": "中国等共推人造太阳研发",
-      "onboard_time": 1763980221,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18912,

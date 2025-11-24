@@ -1,0 +1,410 @@
+{
+  "runTime": 1763981276382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 771147,
+        "num": 1123383,
+        "word": "中国将寻找第二颗地球",
+        "onboard_time": 1763974880,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96653,
+        "num": 588648,
+        "word": "中国等共推人造太阳研发",
+        "onboard_time": 1763980221,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51072,
+        "num": 572199,
+        "word": "我国启动聚变领域国际科学计划",
+        "onboard_time": 1763974581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 555825,
+        "num": 555825,
+        "word": "中方回应日本部署中程导弹",
+        "onboard_time": 1763970801,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 296497,
+        "num": 296497,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 690355,
+        "num": 295619,
+        "word": "医生称臭大姐可以吃别多吃",
+        "onboard_time": 1763975962,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 275123,
+        "num": 275123,
+        "word": "有人破解巨型吊牌继续蹭穿",
+        "onboard_time": 1763967741,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224807,
+        "num": 224807,
+        "word": "FILA致歉",
+        "onboard_time": 1763979561,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205109,
+        "num": 224719,
+        "word": "陈哲远将录制现在就出发",
+        "onboard_time": 1763979981,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179338,
+        "num": 224630,
+        "word": "中方用胆敢二字警告日本",
+        "onboard_time": 1763960422,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 681388,
+        "num": 224358,
+        "word": "戴军李静爆料最难访的艺人",
+        "onboard_time": 1763977702,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 603416,
+        "num": 224279,
+        "word": "杨紫真的拍了香蜜转场",
+        "onboard_time": 1763969781,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 300658,
+        "num": 224135,
+        "word": "迪丽热巴意大利分巴",
+        "onboard_time": 1763975061,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266700,
+        "num": 223984,
+        "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+        "onboard_time": 1763968940,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223861,
+        "num": 223861,
+        "word": "陈晓陈妍希新剧对打",
+        "onboard_time": 1763968581,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 206745,
+        "num": 206745,
+        "word": "打工11年无工资男子收到38万工资",
+        "onboard_time": 1763967260,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192262,
+        "num": 192262,
+        "word": "缅因猫4500元法拍3000人围观",
+        "onboard_time": 1763978121,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138702,
+        "num": 192249,
+        "word": "枭起青壤",
+        "onboard_time": 1763981061,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122426,
+        "num": 192229,
+        "word": "枭起青壤第二日云合",
+        "onboard_time": 1763978481,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69731,
+        "num": 192173,
+        "word": "中国大米在日本售价上涨数倍",
+        "onboard_time": 1763980581,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 988899,
+        "num": 192167,
+        "word": "胡彦斌妈妈 老版易梦玲",
+        "onboard_time": 1763979261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254696,
+        "num": 192121,
+        "word": "美国一男子因便秘身亡",
+        "onboard_time": 1763969961,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192109,
+        "num": 192109,
+        "word": "高市早苗努力表演不如一把椅子火",
+        "onboard_time": 1763972781,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183820,
+        "num": 183820,
+        "word": "陈小春应采儿两个魔丸生出了个灵珠",
+        "onboard_time": 1763971282,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173614,
+        "num": 173614,
+        "word": "月薪一万的试吃员有多辛苦",
+        "onboard_time": 1763967020,
+        "rank": 24,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 272034,
+        "num": 170196,
+        "word": "解密胡彦斌易梦玲恋情是谁放出来的",
+        "onboard_time": 1763977101,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164112,
+        "num": 164112,
+        "word": "网评的四大00生",
+        "onboard_time": 1763979921,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161502,
+        "num": 161502,
+        "word": "名校研究生收费写to签",
+        "onboard_time": 1763977162,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 160390,
+        "num": 160390,
+        "word": "日本民众回应最后2只大熊猫将回国",
+        "onboard_time": 1763979200,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154248,
+        "num": 154248,
+        "word": "知名婴童品牌被检出菌落超标48倍",
+        "onboard_time": 1763968462,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 148646,
+        "word": "刘耀文腰上的sauce",
+        "onboard_time": 1763980701,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 146909,
+        "num": 146909,
+        "word": "台湾没什么事日本真有事了",
+        "onboard_time": 1763947879,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139724,
+        "num": 139724,
+        "word": "全国中小学寒假时间出炉",
+        "onboard_time": 1763977461,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 132251,
+        "num": 132251,
+        "word": "中国暂停租借大熊猫给日本引关注",
+        "onboard_time": 1763980761,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 129928,
+        "num": 129928,
+        "word": "经常看书和不看书的区别真的好大",
+        "onboard_time": 1763979561,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128627,
+        "num": 128627,
+        "word": "原来领证和不领证的区别这么大",
+        "onboard_time": 1763954362,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 122128,
+        "num": 122128,
+        "word": "内娱也开始卷学历了",
+        "onboard_time": 1763973921,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81245,
+        "num": 122028,
+        "word": "刘耀文哀牢山录制先导片",
+        "onboard_time": 1763962941,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 25587,
+        "num": 119442,
+        "word": "起底AI魔改山海经乱象",
+        "onboard_time": 1763980761,
+        "rank": 38,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 22136,
+        "num": 117664,
+        "word": "疯狂河南城",
+        "onboard_time": 1763980461,
+        "rank": 39,
+        "category": "电影,幽默"
+      },
+      {
+        "raw_hot": 50849,
+        "num": 116384,
+        "word": "黄海北部连续3日实弹射击",
+        "onboard_time": 1763979081,
+        "rank": 40,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115428,
+        "num": 115428,
+        "word": "松鼠老爹 松鼠老母",
+        "onboard_time": 1763979623,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112029,
+        "num": 112029,
+        "word": "黄一鸣谈恋爱了",
+        "onboard_time": 1763970021,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109787,
+        "num": 109787,
+        "word": "余宇涵直播",
+        "onboard_time": 1763980941,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108969,
+        "num": 108969,
+        "word": "俄罗斯将被邀请重返G8",
+        "onboard_time": 1763979981,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103903,
+        "num": 103903,
+        "word": "多地整治电动车加装挡风被",
+        "onboard_time": 1763981001,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100169,
+        "num": 100169,
+        "word": "正确的喝奶茶插吸管方法",
+        "onboard_time": 1763980461,
+        "rank": 46,
+        "category": "美食,休闲"
+      },
+      {
+        "raw_hot": 95045,
+        "num": 95045,
+        "word": "医院流感接诊量明显升高",
+        "onboard_time": 1763980400,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 94444,
+        "num": 94444,
+        "word": "WTT香港总决赛参赛名单更新",
+        "onboard_time": 1763977762,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88717,
+        "num": 94437,
+        "word": "大湾鸡集体洗白白",
+        "onboard_time": 1763979322,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视文博工作#"
+    }
+  }
+}
