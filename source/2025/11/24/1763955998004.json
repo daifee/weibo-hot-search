@@ -1,0 +1,410 @@
+{
+  "runTime": 1763955998004,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 857998,
+        "num": 1137279,
+        "word": "台湾没什么事日本真有事了",
+        "onboard_time": 1763947879,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 844025,
+        "num": 844025,
+        "word": "樊振东任小米一日店长",
+        "onboard_time": 1763952620,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33138,
+        "num": 794433,
+        "word": "这26秒科技感直接拉满",
+        "onboard_time": 1763904262,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 785713,
+        "num": 785713,
+        "word": "结没结过婚的人都共情了",
+        "onboard_time": 1763953941,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 521866,
+        "num": 521866,
+        "word": "乘客被困高铁厕所 多人踹门施救",
+        "onboard_time": 1763950939,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450664,
+        "num": 450664,
+        "word": "高市早苗狂套近乎马克龙表情亮了",
+        "onboard_time": 1763940799,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 369523,
+        "num": 369523,
+        "word": "吴谨言陈哲远杀青合照",
+        "onboard_time": 1763951239,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 302446,
+        "num": 302446,
+        "word": "曝Uzi拒绝LPL战队邀请",
+        "onboard_time": 1763952020,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 247623,
+        "num": 299106,
+        "word": "江山为聘",
+        "onboard_time": 1763954001,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 208945,
+        "num": 291986,
+        "word": "免费试吃诈骗",
+        "onboard_time": 1763954901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593314,
+        "num": 288734,
+        "word": "原来领证和不领证的区别这么大",
+        "onboard_time": 1763954362,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 564623,
+        "num": 283952,
+        "word": "做妇科检查女生被医生骂哭了",
+        "onboard_time": 1763940678,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 458916,
+        "num": 277798,
+        "word": "彝族老人 镜头霸凌",
+        "onboard_time": 1763911642,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331151,
+        "num": 271794,
+        "word": "沈梦辰此刻你稍微有点多余了",
+        "onboard_time": 1763952799,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 266159,
+        "num": 266159,
+        "word": "林更新被骂来活了 霍建华被骂不活了",
+        "onboard_time": 1763955562,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252781,
+        "num": 252781,
+        "word": "剪毁刘海意外成了人生发型",
+        "onboard_time": 1763946681,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 212503,
+        "num": 212503,
+        "word": "樊振东现场贴膜",
+        "onboard_time": 1763955381,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205857,
+        "num": 205857,
+        "word": "日本砸131亿日元在台搞媚日宣传",
+        "onboard_time": 1763955141,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193887,
+        "num": 204560,
+        "word": "刘宇宁大生意人万两MV好摩登",
+        "onboard_time": 1763954181,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 25224,
+        "num": 204390,
+        "word": "廉价首饰有多伤皮肤",
+        "onboard_time": 1763955262,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 399185,
+        "num": 202205,
+        "word": "张靓颖自曝患带状疱疹留疤",
+        "onboard_time": 1763948000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282145,
+        "num": 200855,
+        "word": "内娱群像剧终于开窍了",
+        "onboard_time": 1763954300,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200546,
+        "num": 200546,
+        "word": "刚入职民警遇刚出生小孩有点慌",
+        "onboard_time": 1763949800,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211116,
+        "num": 200314,
+        "word": "A股",
+        "onboard_time": 1763949681,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198727,
+        "num": 198727,
+        "word": "高市早苗被拒进入日本相扑擂台",
+        "onboard_time": 1763953520,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193123,
+        "num": 193123,
+        "word": "王一博 王大胆",
+        "onboard_time": 1763955681,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189988,
+        "num": 189988,
+        "word": "印度全面恢复中国公民旅游签",
+        "onboard_time": 1763949019,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173627,
+        "num": 173627,
+        "word": "何超欣去看时代少年团演唱会",
+        "onboard_time": 1763949979,
+        "rank": 27,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 166398,
+        "num": 166398,
+        "word": "西瓜头孙颖莎",
+        "onboard_time": 1763954721,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165387,
+        "num": 165387,
+        "word": "高市早苗入场打断他国领导人发言",
+        "onboard_time": 1763954842,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 161556,
+        "num": 161556,
+        "word": "这就是猪肺没人买的原因",
+        "onboard_time": 1763952620,
+        "rank": 30,
+        "category": "幽默,美食"
+      },
+      {
+        "raw_hot": 158478,
+        "num": 158478,
+        "word": "杨瀚森拉架",
+        "onboard_time": 1763951300,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154065,
+        "num": 154065,
+        "word": "为什么配偶是第一继承人",
+        "onboard_time": 1763952681,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 153170,
+        "num": 153170,
+        "word": "Faker打算做加里奥冠军皮肤",
+        "onboard_time": 1763955381,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 141057,
+        "num": 141057,
+        "word": "杨旭文早期是188大甜豆",
+        "onboard_time": 1763951600,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131546,
+        "num": 131546,
+        "word": "杨瀚森NBA生涯首个三分",
+        "onboard_time": 1763947879,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128971,
+        "num": 128971,
+        "word": "王楚钦总决赛三连冠一周年",
+        "onboard_time": 1763951420,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118746,
+        "num": 118746,
+        "word": "整形医生回应C罗整容",
+        "onboard_time": 1763951120,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75670,
+        "num": 118438,
+        "word": "12306回应乘客被困厕所男子猛踹门",
+        "onboard_time": 1763955202,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87200,
+        "num": 118337,
+        "word": "钟汉良秦岚新剧吻戏",
+        "onboard_time": 1763955440,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118314,
+        "num": 118314,
+        "word": "张继科杯混团赛来了",
+        "onboard_time": 1763954600,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118167,
+        "num": 118167,
+        "word": "金枝 李一桐陈星旭",
+        "onboard_time": 1763954481,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109190,
+        "num": 109190,
+        "word": "高市早苗尬笑",
+        "onboard_time": 1763940739,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109086,
+        "num": 109086,
+        "word": "南山猎人风评",
+        "onboard_time": 1763954422,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108379,
+        "num": 108379,
+        "word": "直播网红批量撤离杭州",
+        "onboard_time": 1763904501,
+        "rank": 44,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 107777,
+        "num": 107777,
+        "word": "廉价首饰 致癌物超标9000多倍",
+        "onboard_time": 1763900482,
+        "rank": 45,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 102612,
+        "num": 102612,
+        "word": "83岁演员发声感谢古天乐",
+        "onboard_time": 1763951541,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100776,
+        "num": 100776,
+        "word": "何秋亊说演唱会没收到应得的报酬",
+        "onboard_time": 1763924714,
+        "rank": 47,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 100196,
+        "num": 100196,
+        "word": "德国总理说中国是国际秩序重要力量",
+        "onboard_time": 1763954781,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98577,
+        "num": 98577,
+        "word": "C罗倒钩破门",
+        "onboard_time": 1763943562,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}
