@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763956851388,
+  "endTime": 1763959356752,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -25,6 +25,14 @@
       "onboard_time": 1763904501,
       "rank": 45,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1404982,
+      "num": 291424,
+      "word": "原来领证和不领证的区别这么大",
+      "onboard_time": 1763954362,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 1302721,
@@ -59,14 +67,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 1085299,
-      "num": 291424,
-      "word": "原来领证和不领证的区别这么大",
-      "onboard_time": 1763954362,
-      "rank": 10,
-      "category": "情感"
-    },
-    {
       "raw_hot": 1014479,
       "num": 289400,
       "word": "彝族老人 镜头霸凌",
@@ -91,20 +91,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 918435,
+      "num": 290691,
+      "word": "林更新被骂来活了 霍建华被骂不活了",
+      "onboard_time": 1763955562,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 854074,
       "num": 854074,
       "word": "高市早苗G20迟到称因选衣服",
       "onboard_time": 1763826142,
       "rank": 1,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 848361,
-      "num": 290691,
-      "word": "林更新被骂来活了 霍建华被骂不活了",
-      "onboard_time": 1763955562,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 844025,
@@ -193,6 +193,14 @@
       "onboard_time": 1763871081,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 666079,
+      "num": 666079,
+      "word": "樊振东收获金球拍",
+      "onboard_time": 1763956460,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 664825,
@@ -355,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 517890,
+      "num": 254712,
+      "word": "商场的衣服那么贵都卖给谁了",
+      "onboard_time": 1763956222,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 517558,
       "num": 334233,
       "word": "唐朝诡事录4",
@@ -483,6 +499,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 451805,
+      "num": 451805,
+      "word": "江山为聘",
+      "onboard_time": 1763954001,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 447783,
       "num": 243735,
       "word": "唯一的姐公开与丁泽仁判决书",
@@ -523,12 +547,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 428228,
+      "num": 428228,
+      "word": "日本砸131亿日元在台搞媚日宣传",
+      "onboard_time": 1763955141,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 423149,
       "num": 209121,
       "word": "张继科说和樊振东打五五开",
       "onboard_time": 1763909844,
       "rank": 11,
       "category": "体育"
+    },
+    {
+      "raw_hot": 420883,
+      "num": 254686,
+      "word": "江疏影风格大变",
+      "onboard_time": 1763957601,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 418504,
@@ -675,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 353327,
+      "num": 254529,
+      "word": "高市早苗被拒进入日本相扑擂台",
+      "onboard_time": 1763953520,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 349484,
       "num": 301842,
       "word": "唐诡奇谭之长安县尉",
@@ -705,6 +753,14 @@
       "onboard_time": 1763949800,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336512,
+      "num": 254393,
+      "word": "留几手说明星找网红是降维打击",
+      "onboard_time": 1763957841,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 333080,
@@ -835,6 +891,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 313773,
+      "num": 254371,
+      "word": "一家三口横穿马路爸爸竖中指挑衅",
+      "onboard_time": 1763956882,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311485,
       "num": 311485,
       "word": "中国双拳痛击日本",
@@ -899,28 +963,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 296217,
+      "num": 253077,
+      "word": "王一博 王大胆",
+      "onboard_time": 1763955681,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 292144,
       "num": 198411,
       "word": "胡彦斌新歌",
       "onboard_time": 1763871440,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 291871,
-      "num": 299106,
-      "word": "江山为聘",
-      "onboard_time": 1763954001,
-      "rank": 8,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 289209,
-      "num": 289209,
-      "word": "樊振东收获金球拍",
-      "onboard_time": 1763956460,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 284032,
@@ -977,14 +1033,6 @@
       "onboard_time": 1763879301,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 274419,
-      "num": 274419,
-      "word": "日本砸131亿日元在台搞媚日宣传",
-      "onboard_time": 1763955141,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 272537,
@@ -1131,6 +1179,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 249758,
+      "num": 249758,
+      "word": "迅猛龙 喜欢男的太浪费时间了",
+      "onboard_time": 1763958442,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 248642,
       "num": 248642,
       "word": "粉笔模考",
@@ -1243,12 +1299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229347,
-      "num": 229347,
-      "word": "高市早苗被拒进入日本相扑擂台",
-      "onboard_time": 1763953520,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 228317,
+      "num": 228317,
+      "word": "卢凌风那是你的婚约吗",
+      "onboard_time": 1763959341,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 226776,
@@ -1344,14 +1400,6 @@
       "word": "2025尖叫之夜网友喜爱作品评选",
       "onboard_time": 1763868261,
       "rank": 8,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 211820,
-      "num": 211820,
-      "word": "王一博 王大胆",
-      "onboard_time": 1763955681,
-      "rank": 25,
       "category": "综艺"
     },
     {
@@ -1497,6 +1545,14 @@
       "onboard_time": 1763904141,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 197011,
+      "num": 197011,
+      "word": "高市早苗入场打断他国领导人发言",
+      "onboard_time": 1763954842,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 195999,
@@ -1683,6 +1739,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 181982,
+      "num": 250745,
+      "word": "唐诡方丈在大生意人也进榜一了",
+      "onboard_time": 1763958082,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 179536,
       "num": 150995,
       "word": "原来肖战得闲谨制是智斗片",
@@ -1787,14 +1851,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 171374,
-      "num": 171374,
-      "word": "高市早苗入场打断他国领导人发言",
-      "onboard_time": 1763954842,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 171307,
       "num": 199179,
       "word": "华晨宇夏哲轩 菩提老祖与泼猴",
@@ -1859,6 +1915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164681,
+      "num": 224191,
+      "word": "张艺兴三巡礼盒",
+      "onboard_time": 1763958743,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 164665,
       "num": 194972,
       "word": "迪丽热巴枭起青壤首日百指",
@@ -1921,6 +1985,14 @@
       "onboard_time": 1763903482,
       "rank": 17,
       "category": "体育"
+    },
+    {
+      "raw_hot": 160219,
+      "num": 270322,
+      "word": "结婚登记同比增加超40万对",
+      "onboard_time": 1763956460,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 158478,
@@ -2025,6 +2097,14 @@
       "onboard_time": 1763895080,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 151030,
+      "num": 151030,
+      "word": "12条中日航线已取消全部航班",
+      "onboard_time": 1763958743,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 150448,
@@ -2137,6 +2217,14 @@
       "onboard_time": 1763910983,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 139928,
+      "num": 139928,
+      "word": "女子索要28万彩礼给两个弟弟",
+      "onboard_time": 1763959101,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139883,
@@ -2387,6 +2475,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 125311,
+      "num": 151116,
+      "word": "马思唯好像王宝强",
+      "onboard_time": 1763958801,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125255,
       "num": 116823,
       "word": "乒乓球今年还有三项大赛",
@@ -2489,14 +2585,6 @@
       "onboard_time": 1763951120,
       "rank": 37,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118589,
-      "num": 118589,
-      "word": "商场的衣服那么贵都卖给谁了",
-      "onboard_time": 1763956222,
-      "rank": 43,
-      "category": "幽默"
     },
     {
       "raw_hot": 118352,
@@ -2771,6 +2859,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 108599,
+      "num": 108599,
+      "word": "A股国防军工板块大涨",
+      "onboard_time": 1763956882,
+      "rank": 48,
+      "category": "财经"
+    },
+    {
       "raw_hot": 108562,
       "num": 241955,
       "word": "存款百万觉得生活没意思涉赌被抓",
@@ -2897,6 +2993,14 @@
       "onboard_time": 1763878761,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 104547,
+      "num": 203644,
+      "word": "日方愿意对话的姿态很伪善",
+      "onboard_time": 1763957661,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104438,
@@ -3747,6 +3851,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55823,
+      "num": 109966,
+      "word": "网红捏捏玩具甲醛超标近46倍",
+      "onboard_time": 1763957601,
+      "rank": 47,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 55798,
       "num": 88685,
       "word": "杨紫家业脏脏包妆造",
@@ -3843,12 +3955,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46397,
+      "num": 151242,
+      "word": "分手后50岁男友要求连本带利还3万8",
+      "onboard_time": 1763959282,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45919,
       "num": 109159,
       "word": "博格巴复出",
       "onboard_time": 1763872340,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44486,
+      "num": 254475,
+      "word": "高市早苗因性别原因无缘相扑颁奖",
+      "onboard_time": 1763958864,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 44271,
@@ -3971,14 +4099,6 @@
       "category": "军事"
     },
     {
-      "raw_hot": 37110,
-      "num": 270322,
-      "word": "结婚登记同比增加超40万对",
-      "onboard_time": 1763956460,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36454,
       "num": 96620,
       "word": "手作滴胶部分材料甲醛超标",
@@ -4065,6 +4185,14 @@
       "onboard_time": 1763894000,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31453,
+      "num": 238992,
+      "word": "中国吸引外资新磁力显现",
+      "onboard_time": 1763958082,
+      "rank": 26,
+      "category": "国内时政"
     },
     {
       "raw_hot": 31159,
@@ -4185,6 +4313,14 @@
       "onboard_time": 1763841494,
       "rank": 48,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 23808,
+      "num": 152048,
+      "word": "网红主播市场严重饱和",
+      "onboard_time": 1763958801,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23299,
@@ -4361,6 +4497,14 @@
       "onboard_time": 1763933834,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8578,
+      "num": 573936,
+      "word": "中国44项世界非遗位居第一",
+      "onboard_time": 1763959165,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 5956,
