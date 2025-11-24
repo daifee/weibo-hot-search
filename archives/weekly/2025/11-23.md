@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/25 00:31:26
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/25 00:46:10
 </p>
 </blockquote>
 <p>
@@ -417,6 +417,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
+主播称收入26万实则隐匿超1500万（热度：565723）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%84%E7%AE%80%20%E5%90%8C%E6%89%8B%E5%90%8C%E8%84%9A%23" target="weibo">
 弄简 同手同脚（热度：564461）
 </a>
@@ -557,12 +563,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%E5%88%97%E8%BD%A6%E4%B8%8A%E8%A2%AB%E5%9B%B4%E5%A0%B5%E6%8B%8D%E6%91%84%23" target="weibo">
 12306回应彝族老人列车上被围堵拍摄（热度：490557）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
-主播称收入26万实则隐匿超1500万（热度：486736）
 </a>
 </li>
 
@@ -1215,6 +1215,12 @@ TE溯打AG（热度：302904）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%86%8D%E8%A1%A8%E6%80%81%23" target="weibo">
+日本3位前首相再表态（热度：271261）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%8B%A5%E6%89%A7%E6%84%8F%E6%8C%91%E8%A1%85%E5%BF%85%E5%B0%86%E6%B1%82%E6%88%98%E5%BE%97%E6%88%98%23" target="weibo">
 日本若执意挑衅必将求战得战（热度：271047）
 </a>
@@ -1569,12 +1575,6 @@ FIA（热度：216128）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%86%8D%E8%A1%A8%E6%80%81%23" target="weibo">
-日本3位前首相再表态（热度：208612）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%9B%A0%E7%8C%AB4500%E5%85%83%E6%B3%95%E6%8B%8D3000%E4%BA%BA%E5%9B%B4%E8%A7%82%23" target="weibo">
 缅因猫4500元法拍3000人围观（热度：207950）
 </a>
@@ -1625,6 +1625,12 @@ KPL转会（热度：204593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%96%8A%E7%B2%89%E4%B8%9D%E4%BB%AC%E5%A4%9A%E6%8B%8D%E7%A5%9E%E5%9B%BE%23" target="weibo">
 刘耀文喊粉丝们多拍神图（热度：202598）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E6%88%90%E6%9C%AC2%E6%AF%9B%23" target="weibo">
+巨型吊牌成本2毛（热度：202390）
 </a>
 </li>
 
@@ -2045,12 +2051,6 @@ RNGM久酷连接成功（热度：178030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E7%A9%BF%E5%87%BA%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%BF%98%E5%BE%97%E9%9D%A0%E5%A4%A7%E8%A1%A3%23" target="weibo">
 冬天穿出氛围感还得靠大衣（热度：170735）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E6%88%90%E6%9C%AC2%E6%AF%9B%23" target="weibo">
-巨型吊牌成本2毛（热度：170361）
 </a>
 </li>
 
@@ -3483,6 +3483,12 @@ KSG打狼队（热度：102939）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E7%9B%B4%E6%92%AD%E9%80%80%E8%B4%A7%E7%8E%8780%25%E4%BB%A5%E4%B8%8A%23" target="weibo">
+女装直播退货率80%以上（热度：99888）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E4%B8%A5%E6%B5%A9%E7%BF%94%E5%80%99%E5%9C%BA%E6%8B%A5%E6%8A%B1%23" target="weibo">
 丁程鑫严浩翔候场拥抱（热度：99885）
 </a>
@@ -3659,12 +3665,6 @@ A股全市场超4200股上涨（热度：95988）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%9C%80%E5%96%9C%E6%AC%A2%E6%A2%B3%E7%9A%84%E5%8F%91%E5%9E%8B%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 妈妈最喜欢梳的发型出现了（热度：95367）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E7%9B%B4%E6%92%AD%E9%80%80%E8%B4%A7%E7%8E%8780%25%E4%BB%A5%E4%B8%8A%23" target="weibo">
-女装直播退货率80%以上（热度：95317）
 </a>
 </li>
 
@@ -4251,6 +4251,12 @@ ADSPro不是显眼包胜似显眼包（热度：64189）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%863%E6%98%9F%E5%8D%A0%E6%AF%94%E6%9C%80%E9%AB%98%23" target="weibo">
+狂野时代豆瓣评分3星占比最高（热度：62980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%A8%81%E8%83%81%E4%B9%8C%E5%85%8B%E5%85%B0%23" target="weibo">
 美国威胁乌克兰（热度：61874）
 </a>
@@ -4389,12 +4395,6 @@ ADSPro不是显眼包胜似显眼包（热度：64189）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%863%E6%98%9F%E5%8D%A0%E6%AF%94%E6%9C%80%E9%AB%98%23" target="weibo">
-狂野时代豆瓣评分3星占比最高（热度：53610）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU19%E4%B9%92%E4%B9%93%E7%94%B7%E5%9B%A2%E4%B8%8D%E6%95%8C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%23" target="weibo">
 中国U19乒乓男团不敌中国台北（热度：53406）
 </a>
@@ -4529,6 +4529,12 @@ ADSPro不是显眼包胜似显眼包（热度：64189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B9%E5%9C%86%E6%96%B9%E5%A4%B4%E6%98%8E%E5%A4%8D%E5%88%BB%E6%9E%97%E5%BF%97%E7%8E%B2%E6%9C%A8%E6%9D%91%E6%8B%93%E5%93%89%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 方圆方头明复刻林志玲木村拓哉名场面（热度：43038）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%A0%E5%8F%8D%E8%88%AA%E6%AF%8D%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%23" target="weibo">
+日本无反航母作战能力（热度：42951）
 </a>
 </li>
 

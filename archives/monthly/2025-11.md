@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 00:31:26
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 00:46:10
 </p>
 </blockquote>
 <p>
@@ -5031,6 +5031,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
+主播称收入26万实则隐匿超1500万（热度：565723）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD%23" target="weibo">
 高市早苗同时得罪四国（热度：565425）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E5%AE%8C%E5%88%86%E6%89%8B%E5%AE%A3%E8%A8%80%E7%9A%84%E4%BA%BA%E7%BB%93%E5%A9%9A%E4%BA%86%23" target="weibo">
 发完分手宣言的人结婚了（热度：507369）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E8%87%AA%E6%9B%9D%E6%82%A3%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%95%99%E7%96%A4%23" target="weibo">
-张靓颖自曝患带状疱疹留疤（热度：506841）
 </a>
 </li>
 
