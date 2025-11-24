@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763962169537,
+  "endTime": 1763963092807,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1404982,
-      "num": 291424,
+      "num": 343207,
       "word": "原来领证和不领证的区别这么大",
       "onboard_time": 1763954362,
       "rank": 10,
@@ -67,6 +67,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 1076720,
+      "num": 367051,
+      "word": "狂野时代退票率",
+      "onboard_time": 1763960061,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1014479,
       "num": 289400,
       "word": "彝族老人 镜头霸凌",
@@ -91,16 +99,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 942563,
-      "num": 312884,
-      "word": "狂野时代退票率",
-      "onboard_time": 1763960061,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 918435,
-      "num": 290691,
+      "num": 339652,
       "word": "林更新被骂来活了 霍建华被骂不活了",
       "onboard_time": 1763955562,
       "rank": 14,
@@ -339,6 +339,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 549716,
+      "num": 364403,
+      "word": "高市早苗因性别原因无缘相扑颁奖",
+      "onboard_time": 1763958864,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 539992,
+      "num": 356889,
+      "word": "中方用胆敢二字警告日本",
+      "onboard_time": 1763960422,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 535144,
       "num": 191570,
       "word": "疑似王心凌吴克群恋情",
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 517890,
-      "num": 255606,
+      "num": 287338,
       "word": "商场的衣服那么贵都卖给谁了",
       "onboard_time": 1763956222,
       "rank": 43,
@@ -459,16 +475,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 490193,
-      "num": 312806,
-      "word": "中方用胆敢二字警告日本",
-      "onboard_time": 1763960422,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 482404,
-      "num": 255985,
+      "num": 335449,
       "word": "江疏影风格大变",
       "onboard_time": 1763957601,
       "rank": 14,
@@ -540,7 +548,7 @@
     },
     {
       "raw_hot": 460305,
-      "num": 174980,
+      "num": 208976,
       "word": "冯德伦称接受领养小孩",
       "onboard_time": 1763959823,
       "rank": 36,
@@ -609,14 +617,6 @@
       "onboard_time": 1763906182,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 416787,
-      "num": 285771,
-      "word": "高市早苗因性别原因无缘相扑颁奖",
-      "onboard_time": 1763958864,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 410453,
@@ -793,6 +793,14 @@
       "onboard_time": 1763949800,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 334772,
+      "num": 334772,
+      "word": "12条中日航线已取消全部航班",
+      "onboard_time": 1763958743,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 333080,
@@ -980,7 +988,7 @@
     },
     {
       "raw_hot": 303138,
-      "num": 303138,
+      "num": 361301,
       "word": "卢凌风那是你的婚约吗",
       "onboard_time": 1763959341,
       "rank": 27,
@@ -1025,14 +1033,6 @@
       "onboard_time": 1763871440,
       "rank": 12,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 288670,
-      "num": 251187,
-      "word": "12条中日航线已取消全部航班",
-      "onboard_time": 1763958743,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 284032,
@@ -1603,6 +1603,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195505,
+      "num": 195505,
+      "word": "阿波罗 延时药",
+      "onboard_time": 1763962221,
+      "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 195240,
+      "num": 210165,
+      "word": "刘耀文哀牢山录制先导片",
+      "onboard_time": 1763962941,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194696,
       "num": 194696,
       "word": "易烊千玺杂志",
@@ -1852,7 +1868,7 @@
     },
     {
       "raw_hot": 176820,
-      "num": 176820,
+      "num": 209467,
       "word": "唐诡粉想要唐诡粉得到",
       "onboard_time": 1763961141,
       "rank": 19,
@@ -1865,6 +1881,14 @@
       "onboard_time": 1763821402,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176188,
+      "num": 176188,
+      "word": "吃一顿一个月工资没了",
+      "onboard_time": 1763960902,
+      "rank": 30,
+      "category": "美食"
     },
     {
       "raw_hot": 175780,
@@ -1905,6 +1929,14 @@
       "onboard_time": 1763949979,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 172395,
+      "num": 349826,
+      "word": "荒野求生老中医鞋底藏物被退赛",
+      "onboard_time": 1763960422,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172080,
@@ -1971,6 +2003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 168855,
+      "num": 168855,
+      "word": "殷世航自曝整容不用花钱",
+      "onboard_time": 1763960782,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 166454,
       "num": 158561,
       "word": "女生卖炒饭东北大哥急到自己颠勺",
@@ -2017,14 +2057,6 @@
       "onboard_time": 1763878881,
       "rank": 17,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 162926,
-      "num": 147289,
-      "word": "吃一顿一个月工资没了",
-      "onboard_time": 1763960902,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 162242,
@@ -2291,6 +2323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 140345,
+      "num": 140345,
+      "word": "小米回应为樊振东特别定制金球拍",
+      "onboard_time": 1763961621,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139990,
       "num": 199131,
       "word": "Faker回应S赛BO5面对LPL全胜",
@@ -2305,14 +2345,6 @@
       "onboard_time": 1763896102,
       "rank": 41,
       "category": "体育"
-    },
-    {
-      "raw_hot": 139704,
-      "num": 139704,
-      "word": "殷世航自曝整容不用花钱",
-      "onboard_time": 1763960782,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 139229,
@@ -2481,6 +2513,14 @@
       "onboard_time": 1763911342,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127112,
+      "num": 127112,
+      "word": "彭小苒有千禧年韩国女团那味了",
+      "onboard_time": 1763961802,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 127081,
@@ -2707,6 +2747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 116253,
+      "num": 116253,
+      "word": "原来淀粉肠改花刀并不是为了好看",
+      "onboard_time": 1763962462,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 115990,
       "num": 133052,
       "word": "疯狂动物城2",
@@ -2801,6 +2849,14 @@
       "onboard_time": 1763813301,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113149,
+      "num": 209279,
+      "word": "高市早苗遭无视",
+      "onboard_time": 1763961802,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 113068,
@@ -3043,14 +3099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 105598,
-      "num": 105598,
-      "word": "小米回应为樊振东特别定制金球拍",
-      "onboard_time": 1763961621,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 105566,
       "num": 105566,
       "word": "Viper的ins关注oner和Chovy",
@@ -3259,20 +3307,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 97922,
-      "num": 97922,
-      "word": "荒野求生老中医鞋底藏物被退赛",
-      "onboard_time": 1763960422,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97794,
       "num": 97794,
       "word": "高中毕业生伪造履历当上博导",
       "onboard_time": 1763878281,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97564,
+      "num": 97564,
+      "word": "迪丽热巴新剧纯墓风",
+      "onboard_time": 1763962041,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 97341,
@@ -3403,14 +3451,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93404,
-      "num": 93404,
-      "word": "彭小苒有千禧年韩国女团那味了",
-      "onboard_time": 1763961802,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 93349,
       "num": 93349,
       "word": "为什么让喜君去跟踪",
@@ -3475,20 +3515,20 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 91723,
-      "num": 91723,
-      "word": "迪丽热巴新剧纯墓风",
-      "onboard_time": 1763962041,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 90637,
       "num": 90637,
       "word": "Gumayusi看T1视频哭了",
       "onboard_time": 1763947219,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90541,
+      "num": 121586,
+      "word": "村民卖一条锦鲤换一栋小洋楼",
+      "onboard_time": 1763962281,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89793,
@@ -3699,6 +3739,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 79223,
+      "num": 573936,
+      "word": "中国44项世界非遗位居第一",
+      "onboard_time": 1763959165,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 78747,
       "num": 78747,
       "word": "看边牧怎么把鸭子黑白分开",
@@ -3745,14 +3793,6 @@
       "onboard_time": 1763862139,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 74833,
-      "num": 573936,
-      "word": "中国44项世界非遗位居第一",
-      "onboard_time": 1763959165,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 74495,
@@ -4065,6 +4105,14 @@
       "onboard_time": 1763896880,
       "rank": 37,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 48263,
+      "num": 122978,
+      "word": "王一博山顶蹦迪",
+      "onboard_time": 1763962881,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 47885,
@@ -4547,14 +4595,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 18805,
-      "num": 179260,
-      "word": "高市早苗遭无视",
-      "onboard_time": 1763961802,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 18415,
       "num": 29939,
       "word": "黄子弘凡演唱会",
@@ -4593,6 +4633,14 @@
       "onboard_time": 1763889800,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 15585,
+      "num": 209938,
+      "word": "偷甘蔗农场主理人忙到一天睡2小时",
+      "onboard_time": 1763962522,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 15399,

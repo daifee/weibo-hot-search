@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 13:29:29
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 13:44:52
 </p>
 </blockquote>
 <p>
@@ -1395,6 +1395,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E9%80%80%E7%A5%A8%E7%8E%87%23" target="weibo">
+狂野时代退票率（热度：1076720）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%B7%B1%E7%B4%A7%E6%80%A5%E5%8F%AB%E5%81%9C%23" target="weibo">
 周深紧急叫停（热度：1072567）
 </a>
@@ -1805,12 +1811,6 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A6%81%E5%B8%85%E5%93%A5%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E6%98%AF%E5%AE%8B%E5%A8%81%E9%BE%99%23" target="weibo">
 女生要帅哥微信回家发现是宋威龙（热度：942644）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E9%80%80%E7%A5%A8%E7%8E%87%23" target="weibo">
-狂野时代退票率（热度：942563）
 </a>
 </li>
 
@@ -5139,6 +5139,12 @@ C罗可能做过多次整容手术（热度：563173）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%A0%E6%80%A7%E5%88%AB%E5%8E%9F%E5%9B%A0%E6%97%A0%E7%BC%98%E7%9B%B8%E6%89%91%E9%A2%81%E5%A5%96%23" target="weibo">
+高市早苗因性别原因无缘相扑颁奖（热度：549716）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9F%AF%E6%B7%B3%E8%A2%AB%E9%95%BF%E5%89%A7%E9%80%80%E8%B4%A7%23" target="weibo">
 曝柯淳被长剧退货（热度：548970）
 </a>
@@ -5261,6 +5267,12 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E4%B8%80%E5%B9%B4%E4%B8%80%E6%8D%A2%E7%AB%9F%E7%84%B6%E6%9B%B4%E7%9C%81%E9%92%B1%23" target="weibo">
 手机一年一换竟然更省钱（热度：540307）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E7%94%A8%E8%83%86%E6%95%A2%E4%BA%8C%E5%AD%97%E8%AD%A6%E5%91%8A%E6%97%A5%E6%9C%AC%23" target="weibo">
+中方用胆敢二字警告日本（热度：539992）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E5%BA%93%E9%99%84%E8%BF%91%E6%94%BE%E7%94%9F%E8%87%B4%E5%A4%A7%E9%87%8F%E7%8C%AB%E5%92%AA%E8%90%BD%E6%B0%B4%23" target="weibo">
 水库附近放生致大量猫咪落水（热度：498708）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%AF%95%E5%90%83%E8%AF%88%E9%AA%97%23" target="weibo">
-免费试吃诈骗（热度：497516）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%9B%A0%E4%B8%BA%E5%86%85%E8%80%97%E4%B8%80%E6%99%9A%E4%B8%8A%E9%83%BD%E6%B2%A1%E9%97%AD%E7%9C%BC%23" target="weibo">
-小狗因为内耗一晚上都没闭眼（热度：497508）
 </a>
 </li>
 

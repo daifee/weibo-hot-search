@@ -1,0 +1,410 @@
+{
+  "runTime": 1763963092807,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 562296,
+        "num": 1089967,
+        "word": "台湾没什么事日本真有事了",
+        "onboard_time": 1763947879,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 372737,
+        "num": 372737,
+        "word": "樊振东收获金球拍",
+        "onboard_time": 1763956460,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 79223,
+        "num": 369794,
+        "word": "中国44项世界非遗位居第一",
+        "onboard_time": 1763959165,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1076720,
+        "num": 367051,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 549716,
+        "num": 364403,
+        "word": "高市早苗因性别原因无缘相扑颁奖",
+        "onboard_time": 1763958864,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 265866,
+        "num": 361301,
+        "word": "卢凌风那是你的婚约吗",
+        "onboard_time": 1763959341,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 539992,
+        "num": 356889,
+        "word": "中方用胆敢二字警告日本",
+        "onboard_time": 1763960422,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 221572,
+        "num": 353799,
+        "word": "江山为聘",
+        "onboard_time": 1763954001,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172395,
+        "num": 349826,
+        "word": "荒野求生老中医鞋底藏物被退赛",
+        "onboard_time": 1763960422,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169940,
+        "num": 345369,
+        "word": "免费试吃诈骗",
+        "onboard_time": 1763954901,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738165,
+        "num": 343207,
+        "word": "原来领证和不领证的区别这么大",
+        "onboard_time": 1763954362,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 502328,
+        "num": 339652,
+        "word": "林更新被骂来活了 霍建华被骂不活了",
+        "onboard_time": 1763955562,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 458014,
+        "num": 335449,
+        "word": "江疏影风格大变",
+        "onboard_time": 1763957601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334772,
+        "num": 334772,
+        "word": "12条中日航线已取消全部航班",
+        "onboard_time": 1763958743,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287338,
+        "num": 287338,
+        "word": "商场的衣服那么贵都卖给谁了",
+        "onboard_time": 1763956222,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 257354,
+        "num": 257354,
+        "word": "做妇科检查女生被医生骂哭了",
+        "onboard_time": 1763940678,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 241589,
+        "num": 241589,
+        "word": "高市早苗狂套近乎马克龙表情亮了",
+        "onboard_time": 1763940799,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 210403,
+        "num": 210403,
+        "word": "一家三口横穿马路爸爸竖中指挑衅",
+        "onboard_time": 1763956882,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195240,
+        "num": 210165,
+        "word": "刘耀文哀牢山录制先导片",
+        "onboard_time": 1763962941,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 15585,
+        "num": 209938,
+        "word": "偷甘蔗农场主理人忙到一天睡2小时",
+        "onboard_time": 1763962522,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170445,
+        "num": 209467,
+        "word": "唐诡粉想要唐诡粉得到",
+        "onboard_time": 1763961141,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113149,
+        "num": 209279,
+        "word": "高市早苗遭无视",
+        "onboard_time": 1763961802,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 404577,
+        "num": 208976,
+        "word": "冯德伦称接受领养小孩",
+        "onboard_time": 1763959823,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360910,
+        "num": 208734,
+        "word": "留几手说明星找网红是降维打击",
+        "onboard_time": 1763957841,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324786,
+        "num": 208220,
+        "word": "迅猛龙 喜欢男的太浪费时间了",
+        "onboard_time": 1763958442,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 208074,
+        "num": 208074,
+        "word": "王一博 王大胆",
+        "onboard_time": 1763955681,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195505,
+        "num": 195505,
+        "word": "阿波罗 延时药",
+        "onboard_time": 1763962221,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 183516,
+        "num": 183516,
+        "word": "日本砸131亿日元在台搞媚日宣传",
+        "onboard_time": 1763955141,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 177276,
+        "num": 177276,
+        "word": "狂野时代",
+        "onboard_time": 1763961740,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176188,
+        "num": 176188,
+        "word": "吃一顿一个月工资没了",
+        "onboard_time": 1763960902,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 168855,
+        "num": 168855,
+        "word": "殷世航自曝整容不用花钱",
+        "onboard_time": 1763960782,
+        "rank": 30,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 148225,
+        "num": 148225,
+        "word": "马思唯好像王宝强",
+        "onboard_time": 1763958801,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141706,
+        "num": 141706,
+        "word": "彝族老人 镜头霸凌",
+        "onboard_time": 1763911642,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140345,
+        "num": 140345,
+        "word": "小米回应为樊振东特别定制金球拍",
+        "onboard_time": 1763961621,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127544,
+        "num": 127544,
+        "word": "吴谨言陈哲远杀青合照",
+        "onboard_time": 1763951239,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132008,
+        "num": 127341,
+        "word": "樊振东任小米一日店长",
+        "onboard_time": 1763952620,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127112,
+        "num": 127112,
+        "word": "彭小苒有千禧年韩国女团那味了",
+        "onboard_time": 1763961802,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126949,
+        "num": 126949,
+        "word": "女子索要28万彩礼给两个弟弟",
+        "onboard_time": 1763959101,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48263,
+        "num": 122978,
+        "word": "王一博山顶蹦迪",
+        "onboard_time": 1763962881,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90541,
+        "num": 121586,
+        "word": "村民卖一条锦鲤换一栋小洋楼",
+        "onboard_time": 1763962281,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121565,
+        "num": 121565,
+        "word": "A股",
+        "onboard_time": 1763949681,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 116642,
+        "num": 116642,
+        "word": "易烊千玺杂志",
+        "onboard_time": 1763959402,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 116253,
+        "num": 116253,
+        "word": "原来淀粉肠改花刀并不是为了好看",
+        "onboard_time": 1763962462,
+        "rank": 42,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 116103,
+        "num": 116103,
+        "word": "高市早苗被拒进入日本相扑擂台",
+        "onboard_time": 1763953520,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90367,
+        "num": 109729,
+        "word": "詹姆斯招牌战斧暴扣",
+        "onboard_time": 1763961681,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109175,
+        "num": 109175,
+        "word": "结没结过婚的人都共情了",
+        "onboard_time": 1763953941,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97564,
+        "num": 97564,
+        "word": "迪丽热巴新剧纯墓风",
+        "onboard_time": 1763962041,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94133,
+        "num": 94133,
+        "word": "黄景瑜叫范丞丞小东西",
+        "onboard_time": 1763959942,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93866,
+        "num": 93866,
+        "word": "张艺兴三巡礼盒",
+        "onboard_time": 1763958743,
+        "rank": 48,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 89664,
+        "num": 89664,
+        "word": "狂野时代 两极分化",
+        "onboard_time": 1763956222,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#重温总书记对体育工作重要论述#"
+    }
+  }
+}
