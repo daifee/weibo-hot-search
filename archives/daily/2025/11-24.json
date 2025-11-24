@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763959356752,
+  "endTime": 1763960046204,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -67,8 +67,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 666079,
-      "num": 666079,
+      "raw_hot": 687668,
+      "num": 687668,
       "word": "樊振东收获金球拍",
       "onboard_time": 1763956460,
       "rank": 14,
@@ -81,6 +81,14 @@
       "onboard_time": 1763946681,
       "rank": 12,
       "category": "情感"
+    },
+    {
+      "raw_hot": 616196,
+      "num": 254393,
+      "word": "留几手说明星找网红是降维打击",
+      "onboard_time": 1763957841,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 556876,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 517890,
-      "num": 254712,
+      "num": 255606,
       "word": "商场的衣服那么贵都卖给谁了",
       "onboard_time": 1763956222,
       "rank": 43,
@@ -131,6 +139,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 482404,
+      "num": 255985,
+      "word": "江疏影风格大变",
+      "onboard_time": 1763957601,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 469145,
+      "num": 469145,
+      "word": "日本砸131亿日元在台搞媚日宣传",
+      "onboard_time": 1763955141,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -145,22 +169,6 @@
       "onboard_time": 1763897120,
       "rank": 12,
       "category": "网红"
-    },
-    {
-      "raw_hot": 428228,
-      "num": 428228,
-      "word": "日本砸131亿日元在台搞媚日宣传",
-      "onboard_time": 1763955141,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 420883,
-      "num": 254686,
-      "word": "江疏影风格大变",
-      "onboard_time": 1763957601,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 395964,
@@ -209,14 +217,6 @@
       "onboard_time": 1763949800,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 336512,
-      "num": 254393,
-      "word": "留几手说明星找网红是降维打击",
-      "onboard_time": 1763957841,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 331151,
@@ -307,6 +307,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 285895,
+      "num": 285895,
+      "word": "卢凌风那是你的婚约吗",
+      "onboard_time": 1763959341,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 283278,
       "num": 283278,
       "word": "女子要28万彩礼致百万年薪男友寒心",
@@ -331,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 251187,
+      "num": 251187,
+      "word": "12条中日航线已取消全部航班",
+      "onboard_time": 1763958743,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 249758,
       "num": 249758,
       "word": "迅猛龙 喜欢男的太浪费时间了",
@@ -345,14 +361,6 @@
       "onboard_time": 1763909001,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 228317,
-      "num": 228317,
-      "word": "卢凌风那是你的婚约吗",
-      "onboard_time": 1763959341,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 216716,
@@ -403,6 +411,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 194696,
+      "num": 194696,
+      "word": "易烊千玺杂志",
+      "onboard_time": 1763959402,
+      "rank": 27,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 193887,
       "num": 204560,
       "word": "刘宇宁大生意人万两MV好摩登",
@@ -417,6 +433,14 @@
       "onboard_time": 1763949019,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187609,
+      "num": 253565,
+      "word": "张艺兴三巡礼盒",
+      "onboard_time": 1763958743,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 187091,
@@ -467,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 174805,
+      "num": 174805,
+      "word": "女子索要28万彩礼给两个弟弟",
+      "onboard_time": 1763959101,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173627,
       "num": 173627,
       "word": "何超欣去看时代少年团演唱会",
@@ -507,14 +539,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 164681,
-      "num": 224191,
-      "word": "张艺兴三巡礼盒",
-      "onboard_time": 1763958743,
-      "rank": 28,
-      "category": "演出"
-    },
-    {
       "raw_hot": 164665,
       "num": 194972,
       "word": "迪丽热巴枭起青壤首日百指",
@@ -529,6 +553,14 @@
       "onboard_time": 1763952620,
       "rank": 30,
       "category": "幽默,美食"
+    },
+    {
+      "raw_hot": 161272,
+      "num": 161272,
+      "word": "马思唯好像王宝强",
+      "onboard_time": 1763958801,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 160219,
@@ -579,12 +611,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151030,
-      "num": 151030,
-      "word": "12条中日航线已取消全部航班",
-      "onboard_time": 1763958743,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 150940,
+      "num": 150940,
+      "word": "冯德伦称接受领养小孩",
+      "onboard_time": 1763959823,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 144244,
@@ -609,14 +641,6 @@
       "onboard_time": 1763951600,
       "rank": 34,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 139928,
-      "num": 139928,
-      "word": "女子索要28万彩礼给两个弟弟",
-      "onboard_time": 1763959101,
-      "rank": 41,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 138310,
@@ -665,14 +689,6 @@
       "onboard_time": 1763950700,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 125311,
-      "num": 151116,
-      "word": "马思唯好像王宝强",
-      "onboard_time": 1763958801,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 123196,
@@ -785,6 +801,14 @@
       "onboard_time": 1763949500,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 110043,
+      "num": 110043,
+      "word": "黄景瑜叫范丞丞小东西",
+      "onboard_time": 1763959942,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 109422,
@@ -1027,6 +1051,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 83136,
+      "num": 254475,
+      "word": "高市早苗因性别原因无缘相扑颁奖",
+      "onboard_time": 1763958864,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82512,
       "num": 93724,
       "word": "刘耀文喊粉丝们多拍神图",
@@ -1081,6 +1113,14 @@
       "onboard_time": 1763913681,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 70332,
+      "num": 112814,
+      "word": "最接近实物樊振东的视频",
+      "onboard_time": 1763960002,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 66673,
@@ -1211,14 +1251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 44486,
-      "num": 254475,
-      "word": "高市早苗因性别原因无缘相扑颁奖",
-      "onboard_time": 1763958864,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 44271,
       "num": 211840,
       "word": "廉价首饰有多伤皮肤",
@@ -1331,6 +1363,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31554,
+      "num": 573936,
+      "word": "中国44项世界非遗位居第一",
+      "onboard_time": 1763959165,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31453,
       "num": 238992,
       "word": "中国吸引外资新磁力显现",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1763939838,
       "rank": 42,
       "category": "教育"
+    },
+    {
+      "raw_hot": 30012,
+      "num": 152048,
+      "word": "网红主播市场严重饱和",
+      "onboard_time": 1763958801,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 29538,
@@ -1377,14 +1425,6 @@
       "onboard_time": 1763932034,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 23808,
-      "num": 152048,
-      "word": "网红主播市场严重饱和",
-      "onboard_time": 1763958801,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23184,
@@ -1457,19 +1497,14 @@
       "onboard_time": 1763933834,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 8578,
-      "num": 573936,
-      "word": "中国44项世界非遗位居第一",
-      "onboard_time": 1763959165,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#重温总书记对体育工作重要论述#"
+    },
+    {
+      "word": "#习近平总书记高度重视文博工作#"
     }
   ]
 }
