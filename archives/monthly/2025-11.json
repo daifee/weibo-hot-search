@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764012092128,
+  "endTime": 1764013083275,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -84827,6 +84827,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16034,
+      "num": 39351,
+      "word": "被子恋人",
+      "onboard_time": 1764009314,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 15960,
       "num": 118750,
       "word": "下半年首场寒潮天气来袭",
@@ -84913,14 +84921,6 @@
       "onboard_time": 1762459994,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15400,
-      "num": 39351,
-      "word": "被子恋人",
-      "onboard_time": 1764009314,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 15399,
@@ -85497,6 +85497,14 @@
       "onboard_time": 1763933834,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12143,
+      "num": 34959,
+      "word": "外卖三件套",
+      "onboard_time": 1764011954,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 12118,
