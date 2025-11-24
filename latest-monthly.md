@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 12:54:06
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 13:29:29
 </p>
 </blockquote>
 <p>
@@ -1805,6 +1805,12 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A6%81%E5%B8%85%E5%93%A5%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E6%98%AF%E5%AE%8B%E5%A8%81%E9%BE%99%23" target="weibo">
 女生要帅哥微信回家发现是宋威龙（热度：942644）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E9%80%80%E7%A5%A8%E7%8E%87%23" target="weibo">
+狂野时代退票率（热度：942563）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%8B%97%E5%9B%A0%E4%B8%BA%E5%86%85%E8%80%97%E4%B8%80%E6%99%9A%E4%B8%8A%E9%83%BD%E6%B2%A1%E9%97%AD%E7%9C%BC%23" target="weibo">
 小狗因为内耗一晚上都没闭眼（热度：497508）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8A%92%E6%9E%9C%E8%BE%9F%E8%B0%A3%E6%92%92%E8%B4%9D%E5%AE%81%E5%9B%9E%E5%BD%92%E5%A4%A7%E4%BE%A6%E6%8E%A2%23" target="weibo">
-芒果辟谣撒贝宁回归大侦探（热度：496356）
 </a>
 </li>
 

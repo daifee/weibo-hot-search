@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763960046204,
+  "endTime": 1763962169537,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -89,6 +89,14 @@
       "onboard_time": 1763889201,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 942563,
+      "num": 312884,
+      "word": "狂野时代退票率",
+      "onboard_time": 1763960061,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 918435,
@@ -451,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 490193,
+      "num": 312806,
+      "word": "中方用胆敢二字警告日本",
+      "onboard_time": 1763960422,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 482404,
       "num": 255985,
       "word": "江疏影风格大变",
@@ -523,6 +539,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 460305,
+      "num": 174980,
+      "word": "冯德伦称接受领养小孩",
+      "onboard_time": 1763959823,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -585,6 +609,14 @@
       "onboard_time": 1763906182,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 416787,
+      "num": 285771,
+      "word": "高市早苗因性别原因无缘相扑颁奖",
+      "onboard_time": 1763958864,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 410453,
@@ -827,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 327251,
+      "num": 249758,
+      "word": "迅猛龙 喜欢男的太浪费时间了",
+      "onboard_time": 1763958442,
+      "rank": 25,
+      "category": "网红"
+    },
+    {
       "raw_hot": 326210,
       "num": 326210,
       "word": "枭起青壤首日云合",
@@ -939,6 +979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 303138,
+      "num": 303138,
+      "word": "卢凌风那是你的婚约吗",
+      "onboard_time": 1763959341,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 302904,
       "num": 1048464,
       "word": "TE溯打AG",
@@ -979,12 +1027,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 285895,
-      "num": 285895,
-      "word": "卢凌风那是你的婚约吗",
-      "onboard_time": 1763959341,
-      "rank": 27,
-      "category": "剧集"
+      "raw_hot": 288670,
+      "num": 251187,
+      "word": "12条中日航线已取消全部航班",
+      "onboard_time": 1763958743,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 284032,
@@ -1179,28 +1227,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 251187,
-      "num": 251187,
-      "word": "12条中日航线已取消全部航班",
-      "onboard_time": 1763958743,
-      "rank": 39,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 249927,
       "num": 157729,
       "word": "升降台故障丁程鑫冷脸",
       "onboard_time": 1763864960,
       "rank": 22,
       "category": "演出"
-    },
-    {
-      "raw_hot": 249758,
-      "num": 249758,
-      "word": "迅猛龙 喜欢男的太浪费时间了",
-      "onboard_time": 1763958442,
-      "rank": 25,
-      "category": "网红"
     },
     {
       "raw_hot": 248642,
@@ -1819,6 +1851,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 176820,
+      "num": 176820,
+      "word": "唐诡粉想要唐诡粉得到",
+      "onboard_time": 1763961141,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 176736,
       "num": 245219,
       "word": "外媒称中方使用迄今最强硬措辞",
@@ -1915,6 +1955,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 169773,
+      "num": 169773,
+      "word": "马思唯好像王宝强",
+      "onboard_time": 1763958801,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 168984,
       "num": 168984,
       "word": "狼队清清连接成功",
@@ -1971,6 +2019,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 162926,
+      "num": 147289,
+      "word": "吃一顿一个月工资没了",
+      "onboard_time": 1763960902,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 162242,
       "num": 245108,
       "word": "日本机场安检员偷中国游客现金被捕",
@@ -2009,14 +2065,6 @@
       "onboard_time": 1763903482,
       "rank": 17,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161272,
-      "num": 161272,
-      "word": "马思唯好像王宝强",
-      "onboard_time": 1763958801,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 160219,
@@ -2131,14 +2179,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 150940,
-      "num": 150940,
-      "word": "冯德伦称接受领养小孩",
-      "onboard_time": 1763959823,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150448,
       "num": 150448,
       "word": "金晨有点心事全写脸上了",
@@ -2219,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 141873,
+      "num": 141873,
+      "word": "地球上的土壤是从哪来的",
+      "onboard_time": 1763960961,
+      "rank": 32,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 141548,
       "num": 141548,
       "word": "原来长不长皱纹是脸部肌肉控制的",
@@ -2257,6 +2305,14 @@
       "onboard_time": 1763896102,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 139704,
+      "num": 139704,
+      "word": "殷世航自曝整容不用花钱",
+      "onboard_time": 1763960782,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 139229,
@@ -2987,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105598,
+      "num": 105598,
+      "word": "小米回应为樊振东特别定制金球拍",
+      "onboard_time": 1763961621,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105566,
       "num": 105566,
       "word": "Viper的ins关注oner和Chovy",
@@ -3195,6 +3259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97922,
+      "num": 97922,
+      "word": "荒野求生老中医鞋底藏物被退赛",
+      "onboard_time": 1763960422,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97794,
       "num": 97794,
       "word": "高中毕业生伪造履历当上博导",
@@ -3331,6 +3403,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 93404,
+      "num": 93404,
+      "word": "彭小苒有千禧年韩国女团那味了",
+      "onboard_time": 1763961802,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 93349,
       "num": 93349,
       "word": "为什么让喜君去跟踪",
@@ -3371,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92182,
+      "num": 117409,
+      "word": "詹姆斯招牌战斧暴扣",
+      "onboard_time": 1763961681,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92134,
       "num": 92134,
       "word": "鬼灭继国兄弟",
@@ -3385,6 +3473,14 @@
       "onboard_time": 1763910263,
       "rank": 48,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 91723,
+      "num": 91723,
+      "word": "迪丽热巴新剧纯墓风",
+      "onboard_time": 1763962041,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 90637,
@@ -3513,14 +3609,6 @@
       "onboard_time": 1763951361,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83136,
-      "num": 254475,
-      "word": "高市早苗因性别原因无缘相扑颁奖",
-      "onboard_time": 1763958864,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 82848,
@@ -3659,6 +3747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 74833,
+      "num": 573936,
+      "word": "中国44项世界非遗位居第一",
+      "onboard_time": 1763959165,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 74495,
       "num": 794433,
       "word": "这26秒科技感直接拉满",
@@ -3737,6 +3833,14 @@
       "onboard_time": 1763960002,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 68240,
+      "num": 92667,
+      "word": "沙溢刮完胡子年轻二十岁",
+      "onboard_time": 1763960482,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 67256,
@@ -3945,6 +4049,14 @@
       "onboard_time": 1763814742,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49160,
+      "num": 117487,
+      "word": "枭起青壤打的人心慌看的人心黄",
+      "onboard_time": 1763961200,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 48379,
@@ -4219,14 +4331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 31554,
-      "num": 573936,
-      "word": "中国44项世界非遗位居第一",
-      "onboard_time": 1763959165,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 31453,
       "num": 238992,
       "word": "中国吸引外资新磁力显现",
@@ -4441,6 +4545,14 @@
       "onboard_time": 1763949140,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18805,
+      "num": 179260,
+      "word": "高市早苗遭无视",
+      "onboard_time": 1763961802,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 18415,
