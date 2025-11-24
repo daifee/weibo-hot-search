@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 14:40:54
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 14:53:38
 </p>
 </blockquote>
 <p>
@@ -4797,6 +4797,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23X%E7%8E%B0%E5%B7%B2%E6%98%BE%E7%A4%BA%E8%B4%A6%E5%8F%B7%E6%89%80%E5%B1%9E%E5%9C%B0%23" target="weibo">
+X现已显示账号所属地（热度：569586）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E4%B8%80%E5%B1%B1%E5%8F%8B%E6%83%85%23" target="weibo">
 杨紫张一山友情（热度：569441）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E5%8E%BB%E5%8C%BB%E9%99%A2%E6%80%95%E8%A2%AB%E6%8B%8D%E5%88%B0%23" target="weibo">
 刘宇宁去医院怕被拍到（热度：499022）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%85%92%E7%AA%9D%20%E5%85%A8%E5%AE%B6%E6%9C%80%E6%9C%89%E4%BA%8B%E4%B8%9A%E5%BF%83%E7%9A%84%E4%BA%BA%23" target="weibo">
-小酒窝 全家最有事业心的人（热度：498900）
 </a>
 </li>
 

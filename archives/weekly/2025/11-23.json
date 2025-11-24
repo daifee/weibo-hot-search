@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763966454880,
+  "endTime": 1763967218568,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1076720,
-      "num": 370705,
+      "num": 401574,
       "word": "狂野时代退票率",
       "onboard_time": 1763960061,
       "rank": 3,
@@ -321,6 +321,14 @@
       "onboard_time": 1763894841,
       "rank": 15,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 569586,
+      "num": 569586,
+      "word": "X现已显示账号所属地",
+      "onboard_time": 1763965340,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 563173,
@@ -803,6 +811,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 343125,
+      "num": 210904,
+      "word": "美国乌克兰联合声明",
+      "onboard_time": 1763964501,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 340450,
       "num": 962222,
       "word": "日本现职领导人越了不应碰的红线",
@@ -1067,6 +1083,22 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 292033,
+      "num": 292033,
+      "word": "疯狂动物城",
+      "onboard_time": 1763964201,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 290065,
+      "num": 209566,
+      "word": "高市早苗遭无视",
+      "onboard_time": 1763961802,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 284032,
       "num": 188216,
       "word": "新疆小孩生下来就是雄鹰啊",
@@ -1163,14 +1195,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 262005,
-      "num": 262005,
-      "word": "X现已显示账号所属地",
-      "onboard_time": 1763965340,
-      "rank": 7,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 261269,
       "num": 261269,
       "word": "严浩翔被升降台遗忘了",
@@ -1185,14 +1209,6 @@
       "onboard_time": 1763827881,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 259695,
-      "num": 210904,
-      "word": "美国乌克兰联合声明",
-      "onboard_time": 1763964501,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 259022,
@@ -1235,14 +1251,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254861,
-      "num": 254861,
-      "word": "疯狂动物城",
-      "onboard_time": 1763964201,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "九尾官宣自由人",
@@ -1281,14 +1289,6 @@
       "onboard_time": 1763882360,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250552,
-      "num": 209566,
-      "word": "高市早苗遭无视",
-      "onboard_time": 1763961802,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 249927,
@@ -1556,7 +1556,7 @@
     },
     {
       "raw_hot": 207744,
-      "num": 130133,
+      "num": 131374,
       "word": "李在明夫人被南非欢迎仪式吓一跳",
       "onboard_time": 1763965641,
       "rank": 30,
@@ -1721,6 +1721,14 @@
       "onboard_time": 1763954181,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193183,
+      "num": 179943,
+      "word": "在一声声爷爷爷爷中迷失",
+      "onboard_time": 1763962401,
+      "rank": 24,
+      "category": "正能量"
     },
     {
       "raw_hot": 191979,
@@ -1897,14 +1905,6 @@
       "onboard_time": 1763958082,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 179943,
-      "num": 179943,
-      "word": "在一声声爷爷爷爷中迷失",
-      "onboard_time": 1763962401,
-      "rank": 24,
-      "category": "正能量"
     },
     {
       "raw_hot": 179536,
@@ -2268,7 +2268,7 @@
     },
     {
       "raw_hot": 151621,
-      "num": 130016,
+      "num": 134922,
       "word": "Baolan谈Kanavi离开LPL",
       "onboard_time": 1763965461,
       "rank": 31,
@@ -2305,6 +2305,14 @@
       "onboard_time": 1763833637,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149315,
+      "num": 129468,
+      "word": "日本欠台湾的血债该还了",
+      "onboard_time": 1763966900,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148474,
@@ -2587,6 +2595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 127456,
+      "num": 127456,
+      "word": "高圆圆随便涂个口红就开拍了",
+      "onboard_time": 1763966842,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127407,
       "num": 198981,
       "word": "林孝埈孙龙刘少昂晋级1000米半决赛",
@@ -2747,6 +2763,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119234,
+      "num": 133125,
+      "word": "江山为聘陈哲远受难记",
+      "onboard_time": 1763965281,
+      "rank": 39,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 119042,
       "num": 119042,
       "word": "43岁刑辩律师打羽毛球后不幸猝死",
@@ -2777,6 +2801,14 @@
       "onboard_time": 1763951120,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 118585,
+      "num": 118585,
+      "word": "月薪一万的试吃员有多辛苦",
+      "onboard_time": 1763967020,
+      "rank": 36,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 118352,
@@ -3067,6 +3099,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 108686,
+      "num": 108686,
+      "word": "老板是新人定档",
+      "onboard_time": 1763966782,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108599,
       "num": 108599,
       "word": "A股国防军工板块大涨",
@@ -3177,6 +3217,14 @@
       "onboard_time": 1763869102,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105823,
+      "num": 105823,
+      "word": "这一次腿和爱情秦岚都要",
+      "onboard_time": 1763966481,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 105566,
@@ -3411,6 +3459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 97404,
+      "num": 97404,
+      "word": "建议VaVa上个言论险",
+      "onboard_time": 1763964441,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97341,
       "num": 97341,
       "word": "欧洲也提出一份俄乌和平计划",
@@ -3435,19 +3491,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 96292,
-      "num": 101571,
-      "word": "江山为聘陈哲远受难记",
-      "onboard_time": 1763965281,
-      "rank": 39,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 96239,
       "num": 96239,
       "word": "汪苏泷苏有朋真的不考虑演部戏吗",
       "onboard_time": 1763875880,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96205,
+      "num": 96205,
+      "word": "汪苏泷还好意思说王赫野",
+      "onboard_time": 1763967080,
+      "rank": 48,
       "category": "综艺"
     },
     {
@@ -3747,12 +3803,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 85622,
-      "num": 85622,
-      "word": "建议VaVa上个言论险",
-      "onboard_time": 1763964441,
-      "rank": 47,
-      "category": "艺人"
+      "raw_hot": 85595,
+      "num": 106022,
+      "word": "爱奇艺认证成毅赴山海是现象级ip",
+      "onboard_time": 1763965881,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 85517,
@@ -4033,14 +4089,6 @@
       "onboard_time": 1763836095,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 67049,
-      "num": 101897,
-      "word": "爱奇艺认证成毅赴山海是现象级ip",
-      "onboard_time": 1763965881,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 66995,
@@ -4595,6 +4643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28383,
+      "num": 151328,
+      "word": "官方通报乘客被困高铁厕所",
+      "onboard_time": 1763966963,
+      "rank": 25,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 27169,
       "num": 78590,
       "word": "廉价合金首饰镉元素超标9000多倍",
@@ -4705,6 +4761,14 @@
       "onboard_time": 1763926515,
       "rank": 23,
       "category": "演出"
+    },
+    {
+      "raw_hot": 21583,
+      "num": 111732,
+      "word": "张继科说樊振东打的无懈可击",
+      "onboard_time": 1763966481,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 21148,
@@ -4841,6 +4905,14 @@
       "onboard_time": 1763933834,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 9169,
+      "num": 112133,
+      "word": "毕赣说易烊千玺得下一个影帝发红包",
+      "onboard_time": 1763967080,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 5956,
