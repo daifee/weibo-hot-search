@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763992328370,
+  "endTime": 1763994540333,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -25,6 +25,14 @@
       "onboard_time": 1763904501,
       "rank": 45,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1437023,
+      "num": 287089,
+      "word": "邢菲道歉",
+      "onboard_time": 1763990842,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 1404982,
@@ -179,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 895905,
+      "num": 304150,
+      "word": "港圈富二代自曝近百名女星投怀送抱",
+      "onboard_time": 1763988922,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 862333,
       "num": 407344,
       "word": "医生称臭大姐可以吃别多吃",
@@ -217,14 +233,6 @@
       "onboard_time": 1763908223,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 827105,
-      "num": 304150,
-      "word": "港圈富二代自曝近百名女星投怀送抱",
-      "onboard_time": 1763988922,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 818278,
@@ -472,6 +480,14 @@
       "word": "海关在一女子裙内查获229条活鱼",
       "onboard_time": 1763886501,
       "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579474,
+      "num": 396060,
+      "word": "救命药滞留前台5小时致男子身亡",
+      "onboard_time": 1763988081,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -851,6 +867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 417112,
+      "num": 330652,
+      "word": "冲绳周边不断运入导弹和多国军舰",
+      "onboard_time": 1763988380,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 414228,
       "num": 1041614,
       "word": "中方回应高市早苗称愿与中国对话",
@@ -913,14 +937,6 @@
       "onboard_time": 1763969961,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 396060,
-      "num": 396060,
-      "word": "救命药滞留前台5小时致男子身亡",
-      "onboard_time": 1763988081,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 395231,
@@ -1099,6 +1115,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 333295,
+      "num": 206291,
+      "word": "弄简 同手同脚",
+      "onboard_time": 1763993483,
+      "rank": 17,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 333286,
+      "num": 1088106,
+      "word": "U17国足14比0东帝汶U17",
+      "onboard_time": 1763991381,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333080,
       "num": 194484,
       "word": "王玉雯 我会争取想让我争取的角色",
@@ -1137,14 +1169,6 @@
       "onboard_time": 1763915538,
       "rank": 34,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330652,
-      "num": 330652,
-      "word": "冲绳周边不断运入导弹和多国军舰",
-      "onboard_time": 1763988380,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 330009,
@@ -1395,20 +1419,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 287089,
-      "num": 287089,
-      "word": "邢菲道歉",
-      "onboard_time": 1763990842,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 286350,
       "num": 201808,
       "word": "陈星旭咱妈看起来不像本地人",
       "onboard_time": 1763985200,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 285735,
+      "num": 247160,
+      "word": "程晓玥说自己女儿品味差",
+      "onboard_time": 1763990182,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 284467,
@@ -1595,6 +1619,14 @@
       "category": "互联网,民生新闻"
     },
     {
+      "raw_hot": 255758,
+      "num": 322866,
+      "word": "李现杨紫提名金莲花最佳男女主角",
+      "onboard_time": 1763991141,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 255041,
       "num": 199858,
       "word": "刘宇宁 开美颜咋了",
@@ -1683,14 +1715,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 247160,
-      "num": 247160,
-      "word": "程晓玥说自己女儿品味差",
-      "onboard_time": 1763990182,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 246959,
       "num": 158683,
       "word": "男子抛下孕妻高速停车掏马蜂窝被罚",
@@ -1729,14 +1753,6 @@
       "onboard_time": 1763869520,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 242328,
-      "num": 322866,
-      "word": "李现杨紫提名金莲花最佳男女主角",
-      "onboard_time": 1763991141,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 242080,
@@ -1947,14 +1963,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 211644,
-      "num": 1088106,
-      "word": "U17国足14比0东帝汶U17",
-      "onboard_time": 1763991381,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 211286,
       "num": 211286,
       "word": "受够了只有svip才能提前看的世界",
@@ -2025,6 +2033,14 @@
       "onboard_time": 1763864180,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 205248,
+      "num": 205248,
+      "word": "易烊千玺提名金莲花最佳男配",
+      "onboard_time": 1763993302,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 204593,
@@ -2931,6 +2947,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148078,
+      "num": 178912,
+      "word": "云南发现寄生花",
+      "onboard_time": 1763992161,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 147607,
       "num": 147607,
       "word": "眉压眼和眉包眼的区别",
@@ -3163,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135978,
+      "num": 182590,
+      "word": "王嘉尔想过不想再活下去",
+      "onboard_time": 1763991381,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 135955,
       "num": 135955,
       "word": "中国对日本的警告在升级",
@@ -3379,6 +3411,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125912,
+      "num": 177467,
+      "word": "中国选手夺冠主办方到处借五星红旗",
+      "onboard_time": 1763994501,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125766,
       "num": 125766,
       "word": "XYG 久哲",
@@ -3497,14 +3537,6 @@
       "onboard_time": 1763908642,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 121272,
-      "num": 182590,
-      "word": "王嘉尔想过不想再活下去",
-      "onboard_time": 1763991381,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 121160,
@@ -3665,6 +3697,14 @@
       "onboard_time": 1763873421,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116712,
+      "num": 176450,
+      "word": "阴阳师",
+      "onboard_time": 1763993122,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 116490,
@@ -4275,6 +4315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103216,
+      "num": 175935,
+      "word": "枭起青壤海外热度",
+      "onboard_time": 1763994203,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 102995,
       "num": 102995,
       "word": "手机被远程控制后显示这个界面",
@@ -4435,8 +4483,16 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 99404,
+      "num": 175337,
+      "word": "12个防癌习惯",
+      "onboard_time": 1763994443,
+      "rank": 40,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 99194,
-      "num": 152377,
+      "num": 174904,
       "word": "张俪 我牙膏还没到介意吗",
       "onboard_time": 1763991982,
       "rank": 43,
@@ -4993,14 +5049,6 @@
       "onboard_time": 1763900062,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84477,
-      "num": 152168,
-      "word": "云南发现寄生花",
-      "onboard_time": 1763992161,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 84155,
@@ -5913,6 +5961,14 @@
       "onboard_time": 1763931733,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33058,
+      "num": 207257,
+      "word": "在荣耀发布会和肖战续火花",
+      "onboard_time": 1763993002,
+      "rank": 10,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 32729,
