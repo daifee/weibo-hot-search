@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764006226496,
+  "endTime": 1764009562486,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -81731,6 +81731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29032,
+      "num": 37625,
+      "word": "王嘉尔再谈休息了一年",
+      "onboard_time": 1764006675,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 29029,
       "num": 67350,
       "word": "九阳豆业九阳股份已无股权关联",
@@ -83224,6 +83232,14 @@
       "word": "枭起青壤南山猎人",
       "onboard_time": 1764006136,
       "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 22852,
+      "num": 37773,
+      "word": "蚂蚱想救狗哥却被误伤",
+      "onboard_time": 1764006915,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -84985,6 +85001,14 @@
       "onboard_time": 1762280475,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14737,
+      "num": 37352,
+      "word": "被子恋人",
+      "onboard_time": 1764009314,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 14710,
