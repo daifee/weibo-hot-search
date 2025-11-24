@@ -1,0 +1,410 @@
+{
+  "runTime": 1763976832763,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1049162,
+        "num": 1167865,
+        "word": "2026研究生报考人数343万",
+        "onboard_time": 1763975601,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 963106,
+        "num": 963106,
+        "word": "中方回应日本部署中程导弹",
+        "onboard_time": 1763970801,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 47368,
+        "num": 574962,
+        "word": "我国启动聚变领域国际科学计划",
+        "onboard_time": 1763974581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410078,
+        "num": 410078,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 351787,
+        "num": 351787,
+        "word": "有人破解巨型吊牌继续蹭穿",
+        "onboard_time": 1763967741,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 275454,
+        "num": 275454,
+        "word": "中国将寻找第二颗地球",
+        "onboard_time": 1763974880,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263471,
+        "num": 263471,
+        "word": "中方用胆敢二字警告日本",
+        "onboard_time": 1763960422,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 251065,
+        "num": 251065,
+        "word": "我自愿加入地枭组织",
+        "onboard_time": 1763971641,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 214124,
+        "num": 214124,
+        "word": "台湾没什么事日本真有事了",
+        "onboard_time": 1763947879,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208691,
+        "num": 208691,
+        "word": "医生称臭大姐可以吃别多吃",
+        "onboard_time": 1763975962,
+        "rank": 9,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 846599,
+        "num": 208099,
+        "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+        "onboard_time": 1763968940,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 808787,
+        "num": 206277,
+        "word": "杨紫真的拍了香蜜转场",
+        "onboard_time": 1763969781,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 633802,
+        "num": 205614,
+        "word": "迪丽热巴意大利分巴",
+        "onboard_time": 1763975061,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 367989,
+        "num": 204241,
+        "word": "陈晓陈妍希新剧对打",
+        "onboard_time": 1763968581,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 288816,
+        "num": 202475,
+        "word": "打工11年无工资男子收到38万工资",
+        "onboard_time": 1763967260,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202435,
+        "num": 202435,
+        "word": "知名婴童品牌被检出菌落超标48倍",
+        "onboard_time": 1763968462,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 267695,
+        "num": 188275,
+        "word": "高市早苗努力表演不如一把椅子火",
+        "onboard_time": 1763972781,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229652,
+        "num": 176177,
+        "word": "巩俐的字",
+        "onboard_time": 1763969421,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225737,
+        "num": 170902,
+        "word": "月薪一万的试吃员有多辛苦",
+        "onboard_time": 1763967020,
+        "rank": 18,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 152940,
+        "num": 152940,
+        "word": "邱默云 原子弹",
+        "onboard_time": 1763969901,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 383022,
+        "num": 152002,
+        "word": "陈小春应采儿两个魔丸生出了个灵珠",
+        "onboard_time": 1763971282,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 369746,
+        "num": 148086,
+        "word": "黄一鸣谈恋爱了",
+        "onboard_time": 1763970021,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 315151,
+        "num": 146606,
+        "word": "美国一男子因便秘身亡",
+        "onboard_time": 1763969961,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 288330,
+        "num": 143863,
+        "word": "原来领证和不领证的区别这么大",
+        "onboard_time": 1763954362,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 240696,
+        "num": 142821,
+        "word": "内娱也开始卷学历了",
+        "onboard_time": 1763973921,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168769,
+        "num": 139673,
+        "word": "易梦玲复工",
+        "onboard_time": 1763974041,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138064,
+        "num": 138064,
+        "word": "西藏军区千人刺杀操压迫感十足",
+        "onboard_time": 1763972722,
+        "rank": 26,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 31377,
+        "num": 137723,
+        "word": "起底换汤不换药的精神传销",
+        "onboard_time": 1763975180,
+        "rank": 27,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 137697,
+        "num": 137697,
+        "word": "男装店用烟灰缸做吊牌后退货减少",
+        "onboard_time": 1763974461,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120928,
+        "num": 120928,
+        "word": "曝LPL竞拍关键选手",
+        "onboard_time": 1763974581,
+        "rank": 29,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 82705,
+        "num": 120873,
+        "word": "假公章转走千万资产警方却不予立案",
+        "onboard_time": 1763975000,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120828,
+        "num": 120828,
+        "word": "张继科解释为何球拍现在都不签名了",
+        "onboard_time": 1763975000,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120745,
+        "num": 120745,
+        "word": "日本欠台湾的血债该还了",
+        "onboard_time": 1763966900,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 115329,
+        "num": 115329,
+        "word": "波茨坦公告规定日本禁止重新武装",
+        "onboard_time": 1763976681,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112493,
+        "num": 112493,
+        "word": "工作淡人 生活浓人",
+        "onboard_time": 1763975061,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 111779,
+        "num": 111779,
+        "word": "第一次见粉丝给正主起名的综艺",
+        "onboard_time": 1763976261,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108398,
+        "num": 108398,
+        "word": "樊振东高清镜头也扛打",
+        "onboard_time": 1763975842,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20806,
+        "num": 105590,
+        "word": "台湾社区枪击案男子头部中弹死亡",
+        "onboard_time": 1763976021,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22168,
+        "num": 103539,
+        "word": "博主投诉环卫工人抽烟惹争议",
+        "onboard_time": 1763976322,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 64426,
+        "num": 102844,
+        "word": "内娱综艺开始上强度了",
+        "onboard_time": 1763976021,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102826,
+        "num": 102826,
+        "word": "美国乌克兰联合声明",
+        "onboard_time": 1763964501,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100770,
+        "num": 100770,
+        "word": "尹子维50岁了我就是要秀恩爱",
+        "onboard_time": 1763976800,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100764,
+        "num": 100764,
+        "word": "中国对日本的警告在升级",
+        "onboard_time": 1763970261,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99419,
+        "num": 99419,
+        "word": "易烊千玺金鸡获奖后首封",
+        "onboard_time": 1763974342,
+        "rank": 43,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 98744,
+        "num": 98744,
+        "word": "泽连斯基发文感谢美国人特别是特朗普",
+        "onboard_time": 1763972421,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96378,
+        "num": 96378,
+        "word": "王一博抛斧头",
+        "onboard_time": 1763976441,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73802,
+        "num": 95738,
+        "word": "狂野时代",
+        "onboard_time": 1763961740,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44622,
+        "num": 95419,
+        "word": "A股全市场超4200股上涨",
+        "onboard_time": 1763972362,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44371,
+        "num": 93993,
+        "word": "樊振东收获金球拍",
+        "onboard_time": 1763956460,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34164,
+        "num": 93071,
+        "word": "小米回应为樊振东特别定制金球拍",
+        "onboard_time": 1763961621,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视文博工作#"
+    }
+  }
+}

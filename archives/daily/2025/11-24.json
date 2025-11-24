@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763974295425,
+  "endTime": 1763976832763,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -59,6 +59,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1049162,
+      "num": 1167865,
+      "word": "2026研究生报考人数343万",
+      "onboard_time": 1763975601,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1014479,
       "num": 289400,
       "word": "彝族老人 镜头霸凌",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 973132,
-      "num": 206009,
+      "num": 208099,
       "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
       "onboard_time": 1763968940,
       "rank": 37,
@@ -129,6 +137,14 @@
       "onboard_time": 1763968581,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 633802,
+      "num": 205614,
+      "word": "迪丽热巴意大利分巴",
+      "onboard_time": 1763975061,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 631043,
@@ -571,12 +587,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 275454,
+      "num": 275454,
+      "word": "中国将寻找第二颗地球",
+      "onboard_time": 1763974880,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267695,
+      "num": 190738,
+      "word": "高市早苗努力表演不如一把椅子火",
+      "onboard_time": 1763972781,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 252635,
       "num": 252635,
       "word": "G20",
       "onboard_time": 1763949259,
       "rank": 4,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 251065,
+      "num": 251065,
+      "word": "我自愿加入地枭组织",
+      "onboard_time": 1763971641,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 242300,
@@ -587,12 +627,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230326,
-      "num": 230326,
-      "word": "我自愿加入地枭组织",
-      "onboard_time": 1763971641,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 240696,
+      "num": 142821,
+      "word": "内娱也开始卷学历了",
+      "onboard_time": 1763973921,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 221430,
@@ -633,6 +673,14 @@
       "onboard_time": 1763963721,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208691,
+      "num": 208691,
+      "word": "医生称臭大姐可以吃别多吃",
+      "onboard_time": 1763975962,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 207744,
@@ -867,6 +915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 168769,
+      "num": 139673,
+      "word": "易梦玲复工",
+      "onboard_time": 1763974041,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 167827,
       "num": 167827,
       "word": "彭小苒工作室 网盘",
@@ -1019,14 +1075,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 141663,
-      "num": 190738,
-      "word": "高市早苗努力表演不如一把椅子火",
-      "onboard_time": 1763972781,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 141057,
       "num": 141057,
       "word": "杨旭文早期是188大甜豆",
@@ -1049,6 +1097,22 @@
       "onboard_time": 1763941399,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138064,
+      "num": 138064,
+      "word": "西藏军区千人刺杀操压迫感十足",
+      "onboard_time": 1763972722,
+      "rank": 46,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 137697,
+      "num": 137697,
+      "word": "男装店用烟灰缸做吊牌后退货减少",
+      "onboard_time": 1763974461,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136744,
@@ -1091,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 132284,
-      "num": 132284,
-      "word": "内娱也开始卷学历了",
-      "onboard_time": 1763973921,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 132065,
       "num": 132065,
       "word": "曝BLG续约Shad0w",
@@ -1137,14 +1193,6 @@
       "onboard_time": 1763950700,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 124569,
-      "num": 124569,
-      "word": "易梦玲复工",
-      "onboard_time": 1763974041,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 124406,
@@ -1187,12 +1235,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121001,
-      "num": 121001,
-      "word": "西藏军区千人刺杀操压迫感十足",
-      "onboard_time": 1763972722,
-      "rank": 46,
-      "category": "军事"
+      "raw_hot": 120928,
+      "num": 120928,
+      "word": "曝LPL竞拍关键选手",
+      "onboard_time": 1763974581,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 120828,
+      "num": 120828,
+      "word": "张继科解释为何球拍现在都不签名了",
+      "onboard_time": 1763975000,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 120620,
@@ -1259,6 +1315,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115329,
+      "num": 115329,
+      "word": "波茨坦公告规定日本禁止重新武装",
+      "onboard_time": 1763976681,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115026,
       "num": 115026,
       "word": "自助偷甘蔗老板说人越多越亏钱",
@@ -1291,12 +1355,28 @@
       "category": "数码,科学科普"
     },
     {
+      "raw_hot": 112493,
+      "num": 112493,
+      "word": "工作淡人 生活浓人",
+      "onboard_time": 1763975061,
+      "rank": 34,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 111898,
       "num": 111898,
       "word": "史上最薄iPhone初期销量远逊预期",
       "onboard_time": 1763949500,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 111779,
+      "num": 111779,
+      "word": "第一次见粉丝给正主起名的综艺",
+      "onboard_time": 1763976261,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 110043,
@@ -1345,6 +1425,14 @@
       "onboard_time": 1763956882,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 108398,
+      "num": 108398,
+      "word": "樊振东高清镜头也扛打",
+      "onboard_time": 1763975842,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 108339,
@@ -1467,6 +1555,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 100770,
+      "num": 100770,
+      "word": "尹子维50岁了我就是要秀恩爱",
+      "onboard_time": 1763976800,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 100215,
       "num": 96834,
       "word": "全红婵回村被拍",
@@ -1515,6 +1611,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 99419,
+      "num": 99419,
+      "word": "易烊千玺金鸡获奖后首封",
+      "onboard_time": 1763974342,
+      "rank": 43,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 98918,
       "num": 98918,
       "word": "地枭居然开口说话了",
@@ -1553,6 +1657,14 @@
       "onboard_time": 1763950040,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96378,
+      "num": 96378,
+      "word": "王一博抛斧头",
+      "onboard_time": 1763976441,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 96205,
@@ -1739,6 +1851,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 82705,
+      "num": 120873,
+      "word": "假公章转走千万资产警方却不予立案",
+      "onboard_time": 1763975000,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82512,
       "num": 93724,
       "word": "刘耀文喊粉丝们多拍神图",
@@ -1891,6 +2011,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64426,
+      "num": 102844,
+      "word": "内娱综艺开始上强度了",
+      "onboard_time": 1763976021,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64189,
       "num": 177810,
       "word": "ADSPro不是显眼包胜似显眼包",
@@ -2009,6 +2137,14 @@
       "onboard_time": 1763961200,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47368,
+      "num": 574962,
+      "word": "我国启动聚变领域国际科学计划",
+      "onboard_time": 1763974581,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 46397,
@@ -2147,6 +2283,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 31377,
+      "num": 137723,
+      "word": "起底换汤不换药的精神传销",
+      "onboard_time": 1763975180,
+      "rank": 27,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 31159,
       "num": 96729,
       "word": "国考准考证打印",
@@ -2211,6 +2355,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22168,
+      "num": 103539,
+      "word": "博主投诉环卫工人抽烟惹争议",
+      "onboard_time": 1763976322,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21583,
       "num": 111732,
       "word": "张继科说樊振东打的无懈可击",
@@ -2225,6 +2377,14 @@
       "onboard_time": 1763969542,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20806,
+      "num": 105590,
+      "word": "台湾社区枪击案男子头部中弹死亡",
+      "onboard_time": 1763976021,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19871,
