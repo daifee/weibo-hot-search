@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764019604688,
+  "endTime": 1764020452927,
   "band_list": [
     {
       "raw_hot": 704816,
@@ -459,7 +459,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 21887,
+      "raw_hot": 22641,
       "num": 44996,
       "word": "中国大米出现在日本商店显著位置",
       "onboard_time": 1764014234,
@@ -475,19 +475,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 18476,
+      "num": 26194,
+      "word": "七星山荒野求生决赛开启",
+      "onboard_time": 1764019694,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17131,
+      "num": 44990,
+      "word": "团播主播一天的强度吓到我了",
+      "onboard_time": 1764016933,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 16034,
       "num": 39351,
       "word": "被子恋人",
       "onboard_time": 1764009314,
       "rank": 49,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 14246,
-      "num": 44990,
-      "word": "团播主播一天的强度吓到我了",
-      "onboard_time": 1764016933,
-      "rank": 33,
       "category": "幽默"
     },
     {
@@ -499,7 +507,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13096,
+      "raw_hot": 13147,
       "num": 44979,
       "word": "老师只是低血糖不是新动作",
       "onboard_time": 1764014593,
@@ -523,7 +531,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 11481,
+      "raw_hot": 11486,
       "num": 44966,
       "word": "在荣耀发布会和肖战续火花",
       "onboard_time": 1763993002,
