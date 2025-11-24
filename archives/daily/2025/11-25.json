@@ -1,7 +1,15 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764024175343,
+  "endTime": 1764026773018,
   "band_list": [
+    {
+      "raw_hot": 745753,
+      "num": 857288,
+      "word": "高市早苗G20峰会上演外交灾难",
+      "onboard_time": 1763999600,
+      "rank": 0,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 704816,
       "num": 400583,
@@ -19,15 +27,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 572897,
-      "num": 857288,
-      "word": "高市早苗G20峰会上演外交灾难",
-      "onboard_time": 1763999600,
-      "rank": 0,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 565723,
+      "raw_hot": 582380,
       "num": 486736,
       "word": "主播称收入26万实则隐匿超1500万",
       "onboard_time": 1763999600,
@@ -67,12 +67,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 335575,
+      "raw_hot": 341621,
       "num": 322727,
       "word": "港圈富二代自曝近百名女星投怀送抱",
       "onboard_time": 1763988922,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 323016,
+      "num": 363633,
+      "word": "救命药滞留前台5小时致男子身亡",
+      "onboard_time": 1763988081,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 271261,
@@ -91,12 +99,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 226684,
-      "num": 363633,
-      "word": "救命药滞留前台5小时致男子身亡",
-      "onboard_time": 1763988081,
-      "rank": 13,
-      "category": "民生新闻"
+      "raw_hot": 228960,
+      "num": 322175,
+      "word": "特区政府停止与日本领事馆官方交流",
+      "onboard_time": 1763997323,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 205947,
@@ -131,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153950,
+      "num": 321298,
+      "word": "中国选手夺冠主办方到处借五星红旗",
+      "onboard_time": 1763994501,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150287,
       "num": 321583,
       "word": "豆瓣崩了",
@@ -153,14 +169,6 @@
       "onboard_time": 1763979261,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 124829,
-      "num": 322175,
-      "word": "特区政府停止与日本领事馆官方交流",
-      "onboard_time": 1763997323,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 124747,
@@ -203,6 +211,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 106424,
+      "num": 60805,
+      "word": "爸爸怒斥女儿向上攀比是愚蠢的",
+      "onboard_time": 1764026658,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106317,
       "num": 322684,
       "word": "杨幂提名金莲花奖最佳女配",
@@ -235,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95867,
+      "num": 85177,
+      "word": "冬天最快减肥法",
+      "onboard_time": 1764025998,
+      "rank": 22,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 93969,
       "num": 321962,
       "word": "狂野时代 讲的是什么",
@@ -243,12 +267,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 83040,
-      "num": 321298,
-      "word": "中国选手夺冠主办方到处借五星红旗",
-      "onboard_time": 1763994501,
-      "rank": 34,
-      "category": "体育"
+      "raw_hot": 86478,
+      "num": 60481,
+      "word": "解放军对日打击一两周就够了",
+      "onboard_time": 1764026238,
+      "rank": 31,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 83078,
+      "num": 320733,
+      "word": "从头到脚都是聚酯纤维的痛",
+      "onboard_time": 1763997921,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 79604,
+      "num": 79604,
+      "word": "王一博开车时手里还在盘核桃",
+      "onboard_time": 1764026059,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 78375,
@@ -307,6 +347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67809,
+      "num": 320943,
+      "word": "狂野时代豆瓣评分3星占比最高",
+      "onboard_time": 1764001699,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 67785,
       "num": 321113,
       "word": "王嘉尔想过不想再活下去",
@@ -315,23 +363,23 @@
       "category": "演出"
     },
     {
-      "raw_hot": 63329,
-      "num": 320733,
-      "word": "从头到脚都是聚酯纤维的痛",
-      "onboard_time": 1763997921,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 63478,
+      "num": 213803,
+      "word": "起猛了看到张继科打混双",
+      "onboard_time": 1764026298,
+      "rank": 9,
+      "category": "体育"
     },
     {
-      "raw_hot": 62980,
-      "num": 320943,
-      "word": "狂野时代豆瓣评分3星占比最高",
-      "onboard_time": 1764001699,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 63320,
+      "num": 63320,
+      "word": "内娱童星又又又上新了",
+      "onboard_time": 1764024796,
+      "rank": 27,
+      "category": "艺人"
     },
     {
-      "raw_hot": 61326,
+      "raw_hot": 61909,
       "num": 320385,
       "word": "三只松鼠回应员工入职要改鼠名",
       "onboard_time": 1763994563,
@@ -363,6 +411,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58237,
+      "num": 180607,
+      "word": "陈晓古风狂生",
+      "onboard_time": 1764023475,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 56128,
+      "num": 182614,
+      "word": "中国大米出现在日本商店显著位置",
+      "onboard_time": 1764014234,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 54242,
       "num": 319661,
       "word": "刘耀文录制准备是把人带来了",
@@ -387,6 +451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 52598,
+      "num": 319561,
+      "word": "日本无反航母作战能力",
+      "onboard_time": 1764002718,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 52320,
       "num": 319864,
       "word": "易烊千玺提名金莲花最佳男配",
@@ -403,14 +475,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 43138,
-      "num": 319561,
-      "word": "日本无反航母作战能力",
-      "onboard_time": 1764002718,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 39139,
       "num": 213113,
       "word": "马克龙称G7不需要俄罗斯参加",
@@ -419,12 +483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33862,
-      "num": 182614,
-      "word": "中国大米出现在日本商店显著位置",
-      "onboard_time": 1764014234,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 32523,
+      "num": 139274,
+      "word": "蚂蚱想救狗哥却被误伤",
+      "onboard_time": 1764006915,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 32119,
@@ -433,6 +497,14 @@
       "onboard_time": 1764016933,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 31277,
+      "num": 181129,
+      "word": "孙千李纯你俩根本没喝中药",
+      "onboard_time": 1764022755,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 30629,
@@ -459,27 +531,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 24896,
-      "num": 139274,
-      "word": "蚂蚱想救狗哥却被误伤",
-      "onboard_time": 1764006915,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 22861,
       "num": 212531,
       "word": "枭起青壤南山猎人",
       "onboard_time": 1764006136,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 22602,
-      "num": 181129,
-      "word": "孙千李纯你俩根本没喝中药",
-      "onboard_time": 1764022755,
-      "rank": 48,
       "category": "剧集"
     },
     {
@@ -497,14 +553,6 @@
       "onboard_time": 1764012074,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21243,
-      "num": 180607,
-      "word": "陈晓古风狂生",
-      "onboard_time": 1764023475,
-      "rank": 43,
-      "category": "剧集"
     },
     {
       "raw_hot": 19158,

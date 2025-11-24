@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 06:42:55
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 07:26:13
 </p>
 </blockquote>
 <p>
@@ -2979,6 +2979,12 @@ iPhone18Pro前瞻（热度：752671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE%23" target="weibo">
+高市早苗G20峰会上演外交灾难（热度：745753）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%80%9D%E7%87%95%E6%9C%89%E7%82%B9%E6%9D%8E%E6%B9%98%E9%82%A3%E5%91%B3%E4%BA%86%23" target="weibo">
 霍思燕有点李湘那味了（热度：744950）
 </a>
@@ -4779,6 +4785,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
+主播称收入26万实则隐匿超1500万（热度：582380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BE%9F%E8%B0%A3%23" target="weibo">
 雷军辟谣（热度：581955）
 </a>
@@ -4889,12 +4901,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%B0%86%E7%83%AD%E6%B0%B4%E5%99%A8%E9%80%9A%E7%94%B5%E5%A6%BB%E5%AD%90%E6%B4%97%E6%BE%A1%E8%A2%AB%E7%94%B5%E8%BA%AB%E4%BA%A1%23" target="weibo">
 男子将热水器通电妻子洗澡被电身亡（热度：572923）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE%23" target="weibo">
-高市早苗G20峰会上演外交灾难（热度：572897）
 </a>
 </li>
 
@@ -5027,12 +5033,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E6%8A%8A%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E6%88%90%E6%9C%AC%E9%83%BD%E5%86%99%E4%B8%8A%E4%BA%86%23" target="weibo">
 店主把小蛋糕的成本都写上了（热度：565985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
-主播称收入26万实则隐匿超1500万（热度：565723）
 </a>
 </li>
 
