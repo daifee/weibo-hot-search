@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763999145018,
+  "endTime": 1764001886510,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -347,6 +347,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 704816,
+      "num": 302502,
+      "word": "黄星直播",
+      "onboard_time": 1763991982,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 691390,
       "num": 432351,
       "word": "花一万六买152件衣服",
@@ -521,6 +529,14 @@
       "onboard_time": 1763967741,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572897,
+      "num": 857288,
+      "word": "高市早苗G20峰会上演外交灾难",
+      "onboard_time": 1763999600,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 564461,
@@ -712,6 +728,14 @@
       "word": "12306回应彝族老人列车上被围堵拍摄",
       "onboard_time": 1763890581,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486736,
+      "num": 486736,
+      "word": "主播称收入26万实则隐匿超1500万",
+      "onboard_time": 1763999600,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -985,6 +1009,14 @@
       "onboard_time": 1763885420,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 391034,
+      "num": 185758,
+      "word": "王心凌吴克群被偶遇",
+      "onboard_time": 1763997682,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 378685,
@@ -1385,14 +1417,6 @@
       "onboard_time": 1763897900,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 302502,
-      "num": 302502,
-      "word": "黄星直播",
-      "onboard_time": 1763991982,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 302446,
@@ -1883,14 +1907,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 228041,
-      "num": 170774,
-      "word": "王心凌吴克群被偶遇",
-      "onboard_time": 1763997682,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 226776,
       "num": 204727,
       "word": "胃不好不要空腹吃这些食物",
@@ -2057,6 +2073,14 @@
       "onboard_time": 1763963721,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208612,
+      "num": 208612,
+      "word": "日本3位前首相再表态",
+      "onboard_time": 1763999001,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207950,
@@ -2689,6 +2713,14 @@
       "onboard_time": 1763949140,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170361,
+      "num": 250366,
+      "word": "巨型吊牌成本2毛",
+      "onboard_time": 1763999362,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 169773,
@@ -4539,14 +4571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 100877,
-      "num": 100877,
-      "word": "日本3位前首相再表态",
-      "onboard_time": 1763999001,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100856,
       "num": 100856,
       "word": "王一博抛斧头",
@@ -4841,6 +4865,14 @@
       "onboard_time": 1763968940,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 95317,
+      "num": 123964,
+      "word": "女装直播退货率80%以上",
+      "onboard_time": 1763997323,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95277,
@@ -5145,14 +5177,6 @@
       "onboard_time": 1763992103,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 87352,
-      "num": 117572,
-      "word": "女装直播退货率80%以上",
-      "onboard_time": 1763997323,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 86371,
@@ -5539,6 +5563,14 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 69687,
+      "num": 69687,
+      "word": "张桂源少年人夫感",
+      "onboard_time": 1763999180,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68240,
       "num": 92667,
       "word": "沙溢刮完胡子年轻二十岁",
@@ -5801,6 +5833,22 @@
       "onboard_time": 1763816602,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 53610,
+      "num": 66848,
+      "word": "狂野时代豆瓣评分3星占比最高",
+      "onboard_time": 1764001699,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 53406,
+      "num": 66846,
+      "word": "中国U19乒乓男团不敌中国台北",
+      "onboard_time": 1763998402,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 52958,

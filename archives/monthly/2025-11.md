@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 23:45:45
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 00:31:26
 </p>
 </blockquote>
 <p>
@@ -3303,6 +3303,12 @@ chovy状态（热度：706292）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
+黄星直播（热度：704816）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%89%E5%A0%A1%E7%8E%8B%E4%B8%AD%E5%9B%BD%E4%B9%9F%E8%A2%AB%E5%8D%96%E4%BA%86%23" target="weibo">
 汉堡王中国也被卖了（热度：703194）
 </a>
@@ -4887,6 +4893,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE%23" target="weibo">
+高市早苗G20峰会上演外交灾难（热度：572897）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%968%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%86%AC%E5%A4%A9%E7%A9%BF%E6%8B%96%E9%9E%8B%E6%B5%81%E6%B5%AA%23" target="weibo">
 妈妈去世8岁女孩冬天穿拖鞋流浪（热度：572652）
 </a>
@@ -5999,18 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E8%87%AA%E6%9B%9D%E6%82%A3%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%95%99%E7%96%A4%23" target="weibo">
 张靓颖自曝患带状疱疹留疤（热度：506841）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23" target="weibo">
-第一批金价下跌卖出的人后悔了（热度：506508）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B8%E5%BA%86%E5%AF%BA%20%E5%8D%97%E6%9C%9D%E5%9B%9B%E7%99%BE%E5%85%AB%E5%8D%81%E5%AF%BA%23" target="weibo">
-永庆寺 南朝四百八十寺（热度：506305）
 </a>
 </li>
 

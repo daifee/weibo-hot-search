@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763999145018,
+  "endTime": 1764001886510,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -4387,6 +4387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 704816,
+      "num": 302502,
+      "word": "黄星直播",
+      "onboard_time": 1763991982,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 703194,
       "num": 1112511,
       "word": "汉堡王中国也被卖了",
@@ -6499,6 +6507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 572897,
+      "num": 857288,
+      "word": "高市早苗G20峰会上演外交灾难",
+      "onboard_time": 1763999600,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 572652,
       "num": 572652,
       "word": "妈妈去世8岁女孩冬天穿拖鞋流浪",
@@ -8576,6 +8592,14 @@
       "word": "浙江诸暨麻糍奶奶遇车祸去世",
       "onboard_time": 1762781421,
       "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 486736,
+      "num": 486736,
+      "word": "主播称收入26万实则隐匿超1500万",
+      "onboard_time": 1763999600,
+      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -11601,6 +11625,14 @@
       "onboard_time": 1763811501,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 391034,
+      "num": 185758,
+      "word": "王心凌吴克群被偶遇",
+      "onboard_time": 1763997682,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 390969,
@@ -15841,14 +15873,6 @@
       "onboard_time": 1763696181,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 302502,
-      "num": 302502,
-      "word": "黄星直播",
-      "onboard_time": 1763991982,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 302476,
@@ -20955,14 +20979,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 228041,
-      "num": 170774,
-      "word": "王心凌吴克群被偶遇",
-      "onboard_time": 1763997682,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227873,
       "num": 190916,
       "word": "宋茜瘦到穿24码的裤子",
@@ -22905,6 +22921,14 @@
       "onboard_time": 1763376261,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 208612,
+      "num": 208612,
+      "word": "日本3位前首相再表态",
+      "onboard_time": 1763999001,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 208527,
@@ -30089,6 +30113,14 @@
       "onboard_time": 1763610263,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 170361,
+      "num": 250366,
+      "word": "巨型吊牌成本2毛",
+      "onboard_time": 1763999362,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 170315,
@@ -55307,14 +55339,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 100877,
-      "num": 100877,
-      "word": "日本3位前首相再表态",
-      "onboard_time": 1763999001,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 100868,
       "num": 100868,
       "word": "降温后发现吃商提高了10倍",
@@ -58681,6 +58705,14 @@
       "onboard_time": 1763968940,
       "rank": 48,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 95317,
+      "num": 123964,
+      "word": "女装直播退货率80%以上",
+      "onboard_time": 1763997323,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95313,
@@ -63257,14 +63289,6 @@
       "onboard_time": 1762940479,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 87352,
-      "num": 117572,
-      "word": "女装直播退货率80%以上",
-      "onboard_time": 1763997323,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 87346,
@@ -70779,6 +70803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69687,
+      "num": 69687,
+      "word": "张桂源少年人夫感",
+      "onboard_time": 1763999180,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69645,
       "num": 69645,
       "word": "马龙感谢没上场的闫安和徐晨皓",
@@ -74955,6 +74987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 53610,
+      "num": 66848,
+      "word": "狂野时代豆瓣评分3星占比最高",
+      "onboard_time": 1764001699,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53604,
       "num": 53604,
       "word": "25岁的中年王楚钦",
@@ -75057,6 +75097,14 @@
       "onboard_time": 1762400301,
       "rank": 18,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 53406,
+      "num": 66846,
+      "word": "中国U19乒乓男团不敌中国台北",
+      "onboard_time": 1763998402,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 53369,

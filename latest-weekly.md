@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/24 23:45:45
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/25 00:31:26
 </p>
 </blockquote>
 <p>
@@ -273,6 +273,12 @@ FILA致歉（热度：782840）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
+黄星直播（热度：704816）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E4%B8%80%E4%B8%87%E5%85%AD%E4%B9%B0152%E4%BB%B6%E8%A1%A3%E6%9C%8D%23" target="weibo">
 花一万六买152件衣服（热度：691390）
 </a>
@@ -401,6 +407,12 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%A0%B4%E8%A7%A3%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E7%BB%A7%E7%BB%AD%E8%B9%AD%E7%A9%BF%23" target="weibo">
 有人破解巨型吊牌继续蹭穿（热度：576636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE%23" target="weibo">
+高市早苗G20峰会上演外交灾难（热度：572897）
 </a>
 </li>
 
@@ -545,6 +557,12 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E5%BD%9D%E6%97%8F%E8%80%81%E4%BA%BA%E5%88%97%E8%BD%A6%E4%B8%8A%E8%A2%AB%E5%9B%B4%E5%A0%B5%E6%8B%8D%E6%91%84%23" target="weibo">
 12306回应彝族老人列车上被围堵拍摄（热度：490557）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
+主播称收入26万实则隐匿超1500万（热度：486736）
 </a>
 </li>
 
@@ -749,6 +767,12 @@ HLE官宣Gumayusi加入（热度：445743）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E6%80%9D%E9%99%8D%E4%BB%B7%23" target="weibo">
 雅思降价（热度：395231）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
+王心凌吴克群被偶遇（热度：391034）
 </a>
 </li>
 
@@ -1049,12 +1073,6 @@ C罗倒钩破门（热度：305036）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TE%E6%BA%AF%E6%89%93AG%23" target="weibo">
 TE溯打AG（热度：302904）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
-黄星直播（热度：302502）
 </a>
 </li>
 
@@ -1425,12 +1443,6 @@ G20（热度：252635）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%BF%83%E5%87%8C%E5%90%B4%E5%85%8B%E7%BE%A4%E8%A2%AB%E5%81%B6%E9%81%87%23" target="weibo">
-王心凌吴克群被偶遇（热度：228041）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%83%E4%B8%8D%E5%A5%BD%E4%B8%8D%E8%A6%81%E7%A9%BA%E8%85%B9%E5%90%83%E8%BF%99%E4%BA%9B%E9%A3%9F%E7%89%A9%23" target="weibo">
 胃不好不要空腹吃这些食物（热度：226776）
 </a>
@@ -1553,6 +1565,12 @@ FIA（热度：216128）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%BE%B3%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 王鹤棣澳门演唱会（热度：209016）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%86%8D%E8%A1%A8%E6%80%81%23" target="weibo">
+日本3位前首相再表态（热度：208612）
 </a>
 </li>
 
@@ -2027,6 +2045,12 @@ RNGM久酷连接成功（热度：178030）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AC%E5%A4%A9%E7%A9%BF%E5%87%BA%E6%B0%9B%E5%9B%B4%E6%84%9F%E8%BF%98%E5%BE%97%E9%9D%A0%E5%A4%A7%E8%A1%A3%23" target="weibo">
 冬天穿出氛围感还得靠大衣（热度：170735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E6%88%90%E6%9C%AC2%E6%AF%9B%23" target="weibo">
+巨型吊牌成本2毛（热度：170361）
 </a>
 </li>
 
@@ -3417,12 +3441,6 @@ KSG打狼队（热度：102939）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%86%8D%E8%A1%A8%E6%80%81%23" target="weibo">
-日本3位前首相再表态（热度：100877）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8A%9B%E6%96%A7%E5%A4%B4%23" target="weibo">
 王一博抛斧头（热度：100856）
 </a>
@@ -3641,6 +3659,12 @@ A股全市场超4200股上涨（热度：95988）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E6%9C%80%E5%96%9C%E6%AC%A2%E6%A2%B3%E7%9A%84%E5%8F%91%E5%9E%8B%E5%87%BA%E7%8E%B0%E4%BA%86%23" target="weibo">
 妈妈最喜欢梳的发型出现了（热度：95367）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E7%9B%B4%E6%92%AD%E9%80%80%E8%B4%A7%E7%8E%8780%25%E4%BB%A5%E4%B8%8A%23" target="weibo">
+女装直播退货率80%以上（热度：95317）
 </a>
 </li>
 
@@ -3869,12 +3893,6 @@ Gumayusi穿HLE队服亮相（热度：88834）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E6%A8%A1%E4%BB%BF%E5%88%98%E8%80%80%E6%96%87%E5%90%8D%E5%9C%BA%E9%9D%A2%23" target="weibo">
 王鹤棣模仿刘耀文名场面（热度：87451）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E8%A3%85%E7%9B%B4%E6%92%AD%E9%80%80%E8%B4%A7%E7%8E%8780%25%E4%BB%A5%E4%B8%8A%23" target="weibo">
-女装直播退货率80%以上（热度：87352）
 </a>
 </li>
 
@@ -4167,6 +4185,12 @@ G20约堡峰会通过联合宣言（热度：78227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%A1%82%E6%BA%90%E5%B0%91%E5%B9%B4%E4%BA%BA%E5%A4%AB%E6%84%9F%23" target="weibo">
+张桂源少年人夫感（热度：69687）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E5%88%AE%E5%AE%8C%E8%83%A1%E5%AD%90%E5%B9%B4%E8%BD%BB%E4%BA%8C%E5%8D%81%E5%B2%81%23" target="weibo">
 沙溢刮完胡子年轻二十岁（热度：68240）
 </a>
@@ -4361,6 +4385,18 @@ ADSPro不是显眼包胜似显眼包（热度：64189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E9%9B%A8%E7%90%A6%E5%8F%91%E7%9A%84%E7%99%BD%E9%B9%BF%23" target="weibo">
 宋雨琦发的白鹿（热度：53715）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E8%B1%86%E7%93%A3%E8%AF%84%E5%88%863%E6%98%9F%E5%8D%A0%E6%AF%94%E6%9C%80%E9%AB%98%23" target="weibo">
+狂野时代豆瓣评分3星占比最高（热度：53610）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BDU19%E4%B9%92%E4%B9%93%E7%94%B7%E5%9B%A2%E4%B8%8D%E6%95%8C%E4%B8%AD%E5%9B%BD%E5%8F%B0%E5%8C%97%23" target="weibo">
+中国U19乒乓男团不敌中国台北（热度：53406）
 </a>
 </li>
 
