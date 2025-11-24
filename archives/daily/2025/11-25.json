@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764005229355,
+  "endTime": 1764006226496,
   "band_list": [
     {
       "raw_hot": 704816,
@@ -411,8 +411,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 33871,
-      "num": 152301,
+      "raw_hot": 39139,
+      "num": 213113,
       "word": "马克龙称G7不需要俄罗斯参加",
       "onboard_time": 1764003317,
       "rank": 40,
@@ -428,11 +428,19 @@
     },
     {
       "raw_hot": 29699,
-      "num": 150985,
+      "num": 212725,
       "word": "狂野时代口碑",
       "onboard_time": 1764005117,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 22861,
+      "num": 212531,
+      "word": "枭起青壤南山猎人",
+      "onboard_time": 1764006136,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [

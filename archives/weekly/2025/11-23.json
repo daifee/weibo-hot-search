@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764005229355,
+  "endTime": 1764006226496,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -2596,7 +2596,7 @@
     },
     {
       "raw_hot": 177643,
-      "num": 205195,
+      "num": 212725,
       "word": "狂野时代口碑",
       "onboard_time": 1763891300,
       "rank": 16,
@@ -6123,6 +6123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39139,
+      "num": 213113,
+      "word": "马克龙称G7不需要俄罗斯参加",
+      "onboard_time": 1764003317,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 38965,
       "num": 239858,
       "word": "情怀车展",
@@ -6209,14 +6217,6 @@
       "onboard_time": 1763973982,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33871,
-      "num": 152301,
-      "word": "马克龙称G7不需要俄罗斯参加",
-      "onboard_time": 1764003317,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33628,
@@ -6505,6 +6505,14 @@
       "onboard_time": 1763956401,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22861,
+      "num": 212531,
+      "word": "枭起青壤南山猎人",
+      "onboard_time": 1764006136,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 22582,

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764005229355,
+  "endTime": 1764006226496,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -78859,6 +78859,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 39139,
+      "num": 213113,
+      "word": "马克龙称G7不需要俄罗斯参加",
+      "onboard_time": 1764003317,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 39076,
       "num": 200258,
       "word": "KPL的iQOO年总时刻太燃了",
@@ -80249,14 +80257,6 @@
       "onboard_time": 1762946421,
       "rank": 23,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 33871,
-      "num": 152301,
-      "word": "马克龙称G7不需要俄罗斯参加",
-      "onboard_time": 1764003317,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33832,
@@ -83217,6 +83217,14 @@
       "onboard_time": 1763364141,
       "rank": 18,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 22861,
+      "num": 212531,
+      "word": "枭起青壤南山猎人",
+      "onboard_time": 1764006136,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 22849,
