@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/25 00:31:26 ~ 2025/11/25 00:46:10
+本榜单时间：2025/11/25 00:31:26 ~ 2025/11/25 01:27:09
 </p>
 </blockquote>
 <p>
@@ -316,13 +316,25 @@ U17国足14比0东帝汶U17（热度：78375）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%A0%E5%8F%8D%E8%88%AA%E6%AF%8D%E4%BD%9C%E6%88%98%E8%83%BD%E5%8A%9B%23" target="weibo">
-日本无反航母作战能力（热度：42951）
+日本无反航母作战能力（热度：43138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0G7%E4%B8%8D%E9%9C%80%E8%A6%81%E4%BF%84%E7%BD%97%E6%96%AF%E5%8F%82%E5%8A%A0%23" target="weibo">
+马克龙称G7不需要俄罗斯参加（热度：33871）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E22%E8%AE%A1%E5%88%9211%E6%9C%8825%E6%97%A5%E5%8F%91%E5%B0%84%23" target="weibo">
 神22计划11月25日发射（热度：30629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%82%E9%87%8E%E6%97%B6%E4%BB%A3%E5%8F%A3%E7%A2%91%23" target="weibo">
+狂野时代口碑（热度：29699）
 </a>
 </li>
 

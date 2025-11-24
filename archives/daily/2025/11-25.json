@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764002770757,
+  "endTime": 1764005229355,
   "band_list": [
     {
       "raw_hot": 704816,
@@ -403,11 +403,19 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 42951,
+      "raw_hot": 43138,
       "num": 319561,
       "word": "日本无反航母作战能力",
       "onboard_time": 1764002718,
       "rank": 49,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 33871,
+      "num": 152301,
+      "word": "马克龙称G7不需要俄罗斯参加",
+      "onboard_time": 1764003317,
+      "rank": 40,
       "category": "国际时政"
     },
     {
@@ -417,6 +425,14 @@
       "onboard_time": 1763977881,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 29699,
+      "num": 150985,
+      "word": "狂野时代口碑",
+      "onboard_time": 1764005117,
+      "rank": 47,
+      "category": "电影"
     }
   ],
   "hotgov_list": [

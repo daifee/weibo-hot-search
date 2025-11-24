@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764002770757,
+  "endTime": 1764005229355,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -77803,6 +77803,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 43138,
+      "num": 319561,
+      "word": "日本无反航母作战能力",
+      "onboard_time": 1764002718,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43126,
       "num": 112944,
       "word": "多地出现无人机坠箭猎杀家禽事故",
@@ -77905,14 +77913,6 @@
       "onboard_time": 1763017221,
       "rank": 14,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 42951,
-      "num": 319561,
-      "word": "日本无反航母作战能力",
-      "onboard_time": 1764002718,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 42916,
@@ -80249,6 +80249,14 @@
       "onboard_time": 1762946421,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 33871,
+      "num": 152301,
+      "word": "马克龙称G7不需要俄罗斯参加",
+      "onboard_time": 1764003317,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33832,
