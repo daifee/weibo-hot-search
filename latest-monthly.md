@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 10:07:00
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/24 10:29:33
 </p>
 </blockquote>
 <p>
@@ -3915,6 +3915,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
+剪毁刘海意外成了人生发型（热度：631043）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A6%E5%AD%90%E6%9B%9D%E5%92%8C%E6%9D%8E%E8%8C%82%E7%BB%93%E5%A9%9A%E6%97%B6%E5%B7%B2%E6%80%80%E5%AD%95%23" target="weibo">
 弦子曝和李茂结婚时已怀孕（热度：629014）
 </a>
@@ -4181,12 +4187,6 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%8D%E7%88%B1%E5%90%83%E8%8B%B9%E6%9E%9C%E7%9A%84%E4%BA%BA%E6%9C%89%E6%95%91%E4%BA%86%23" target="weibo">
 不爱吃苹果的人有救了（热度：610673）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
-剪毁刘海意外成了人生发型（热度：610649）
 </a>
 </li>
 
@@ -5757,6 +5757,12 @@ Faker谈多兰多次失误（热度：516116）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%9D%93%E9%A2%96%E8%87%AA%E6%9B%9D%E6%82%A3%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%E7%95%99%E7%96%A4%23" target="weibo">
+张靓颖自曝患带状疱疹留疤（热度：506841）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%8D%96%E5%87%BA%E7%9A%84%E4%BA%BA%E5%90%8E%E6%82%94%E4%BA%86%23" target="weibo">
 第一批金价下跌卖出的人后悔了（热度：506508）
 </a>
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%A3%9E%E5%87%BA%E9%BB%91%E5%A4%A9%E9%B9%85%E7%AA%81%E8%A2%AD%E5%85%A8%E7%90%83%E5%B8%82%E5%9C%BA%23" target="weibo">
 日本飞出黑天鹅突袭全球市场（热度：494326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0%E4%B8%96%E7%BA%AA%E5%90%88%E4%BD%93%23" target="weibo">
-武林外传世纪合体（热度：494254）
 </a>
 </li>
 

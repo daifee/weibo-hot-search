@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1763950020814,
+  "endTime": 1763951373971,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 809844,
-      "num": 183775,
+      "num": 187066,
       "word": "做妇科检查女生被医生骂哭了",
       "onboard_time": 1763940678,
       "rank": 11,
@@ -187,6 +187,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 631043,
+      "num": 184683,
+      "word": "剪毁刘海意外成了人生发型",
+      "onboard_time": 1763946681,
+      "rank": 12,
+      "category": "情感"
+    },
+    {
       "raw_hot": 630382,
       "num": 355344,
       "word": "香蜜转场又火了",
@@ -209,14 +217,6 @@
       "onboard_time": 1763856618,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 610649,
-      "num": 182689,
-      "word": "剪毁刘海意外成了人生发型",
-      "onboard_time": 1763946681,
-      "rank": 12,
-      "category": "情感"
     },
     {
       "raw_hot": 610307,
@@ -337,6 +337,14 @@
       "onboard_time": 1763877319,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 506841,
+      "num": 175847,
+      "word": "张靓颖自曝患带状疱疹留疤",
+      "onboard_time": 1763948000,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 504391,
@@ -635,6 +643,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 337282,
+      "num": 181997,
+      "word": "刚入职民警遇刚出生小孩有点慌",
+      "onboard_time": 1763949800,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 333080,
       "num": 194484,
       "word": "王玉雯 我会争取想让我争取的角色",
@@ -731,6 +747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 315595,
+      "num": 315595,
+      "word": "杨瀚森NBA生涯首个三分",
+      "onboard_time": 1763947879,
+      "rank": 3,
+      "category": "体育"
+    },
+    {
       "raw_hot": 315397,
       "num": 315397,
       "word": "高市早苗尬笑",
@@ -803,14 +827,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 289380,
-      "num": 289380,
-      "word": "杨瀚森NBA生涯首个三分",
-      "onboard_time": 1763947879,
-      "rank": 3,
-      "category": "体育"
-    },
-    {
       "raw_hot": 284032,
       "num": 188216,
       "word": "新疆小孩生下来就是雄鹰啊",
@@ -873,14 +889,6 @@
       "onboard_time": 1763867180,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 270229,
-      "num": 175847,
-      "word": "张靓颖自曝患带状疱疹留疤",
-      "onboard_time": 1763948000,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 269862,
@@ -1331,6 +1339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 196895,
+      "num": 144357,
+      "word": "A股",
+      "onboard_time": 1763949681,
+      "rank": 29,
+      "category": "财经"
+    },
+    {
       "raw_hot": 195999,
       "num": 195999,
       "word": "张真源今天还在彩排",
@@ -1345,14 +1361,6 @@
       "onboard_time": 1763812702,
       "rank": 9,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193055,
-      "num": 180845,
-      "word": "刚入职民警遇刚出生小孩有点慌",
-      "onboard_time": 1763949800,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 191979,
@@ -1476,7 +1484,7 @@
     },
     {
       "raw_hot": 184788,
-      "num": 184788,
+      "num": 188151,
       "word": "中国男子5000米接力银牌",
       "onboard_time": 1763944341,
       "rank": 8,
@@ -1587,6 +1595,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172512,
+      "num": 172512,
+      "word": "何超欣去看时代少年团演唱会",
+      "onboard_time": 1763949979,
+      "rank": 47,
+      "category": "演出"
+    },
+    {
       "raw_hot": 172080,
       "num": 159360,
       "word": "张真源终于吃上心心念念的宝贝猪了",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1763896462,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164665,
+      "num": 194972,
+      "word": "迪丽热巴枭起青壤首日百指",
+      "onboard_time": 1763949199,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 164488,
@@ -1827,6 +1851,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 147625,
+      "num": 147625,
+      "word": "印度全面恢复中国公民旅游签",
+      "onboard_time": 1763949019,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146738,
       "num": 146738,
       "word": "汪苏泷黄龄这下真撞脸了",
@@ -1849,14 +1881,6 @@
       "onboard_time": 1763900062,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 144357,
-      "num": 144357,
-      "word": "A股",
-      "onboard_time": 1763949681,
-      "rank": 29,
-      "category": "财经"
     },
     {
       "raw_hot": 142562,
@@ -1916,7 +1940,7 @@
     },
     {
       "raw_hot": 138310,
-      "num": 179846,
+      "num": 190513,
       "word": "种地吧",
       "onboard_time": 1763941399,
       "rank": 16,
@@ -2059,14 +2083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128539,
-      "num": 179182,
-      "word": "迪丽热巴枭起青壤首日百指",
-      "onboard_time": 1763949199,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 127407,
       "num": 198981,
       "word": "林孝埈孙龙刘少昂晋级1000米半决赛",
@@ -2097,6 +2113,14 @@
       "onboard_time": 1763880620,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 126318,
+      "num": 126318,
+      "word": "檀健次空枪片场路透",
+      "onboard_time": 1763950700,
+      "rank": 27,
+      "category": "电影"
     },
     {
       "raw_hot": 125766,
@@ -2145,14 +2169,6 @@
       "onboard_time": 1763880201,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123962,
-      "num": 123962,
-      "word": "印度全面恢复中国公民旅游签",
-      "onboard_time": 1763949019,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122595,
@@ -2387,6 +2403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111898,
+      "num": 111898,
+      "word": "史上最薄iPhone初期销量远逊预期",
+      "onboard_time": 1763949500,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111324,
       "num": 242255,
       "word": "彭小苒 谢楼南",
@@ -2513,6 +2537,14 @@
       "onboard_time": 1763906242,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 106999,
+      "num": 106999,
+      "word": "39岁货车司机刷单约炮被骗13万",
+      "onboard_time": 1763951300,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106978,
@@ -2643,6 +2675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 101998,
+      "num": 101998,
+      "word": "男子买别人不要的彩票中100万美元",
+      "onboard_time": 1763951361,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101600,
       "num": 101600,
       "word": "为什么练的是背瘦的是脸",
@@ -2665,6 +2705,14 @@
       "onboard_time": 1763867541,
       "rank": 45,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 100215,
+      "num": 96834,
+      "word": "全红婵回村被拍",
+      "onboard_time": 1763950761,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 99885,
@@ -2729,6 +2777,14 @@
       "onboard_time": 1763878281,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97341,
+      "num": 97341,
+      "word": "欧洲也提出一份俄乌和平计划",
+      "onboard_time": 1763950040,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97298,
@@ -2843,6 +2899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93719,
+      "num": 107052,
+      "word": "吴谨言陈哲远杀青合照",
+      "onboard_time": 1763951239,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93611,
       "num": 93611,
       "word": "腿粗屁股大的人会更长寿",
@@ -2875,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92506,
+      "num": 92506,
+      "word": "杨瀚森拉架",
+      "onboard_time": 1763951300,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 92400,
       "num": 109747,
       "word": "巨型吊牌比脸还大",
@@ -2889,14 +2961,6 @@
       "onboard_time": 1763887582,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 92232,
-      "num": 92232,
-      "word": "史上最薄iPhone初期销量远逊预期",
-      "onboard_time": 1763949500,
-      "rank": 44,
-      "category": "数码"
     },
     {
       "raw_hot": 92134,
@@ -2923,20 +2987,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 90102,
-      "num": 90102,
-      "word": "何超欣去看时代少年团演唱会",
-      "onboard_time": 1763949979,
-      "rank": 47,
-      "category": "演出"
-    },
-    {
       "raw_hot": 89793,
       "num": 89793,
       "word": "东京民众抗议称因高市才有事",
       "onboard_time": 1763864360,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 89710,
+      "num": 89710,
+      "word": "胡先煦这人夫感",
+      "onboard_time": 1763950999,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 89533,
@@ -2987,6 +3051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88594,
+      "num": 178221,
+      "word": "缅军再出手清剿KK园区",
+      "onboard_time": 1763949081,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 87816,
       "num": 92170,
       "word": "头发重新变黑的方法找到了",
@@ -3027,6 +3099,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84155,
+      "num": 84155,
+      "word": "克林根对阵雷霆出战成疑",
+      "onboard_time": 1763951361,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 82848,
       "num": 161659,
       "word": "白宫怒批CNN彻头彻尾假新闻",
@@ -3049,6 +3129,14 @@
       "onboard_time": 1763895621,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 81721,
+      "num": 81721,
+      "word": "日本叫嚣击沉福建舰纯属嘴炮",
+      "onboard_time": 1763950939,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81275,
@@ -3315,6 +3403,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58615,
+      "num": 147415,
+      "word": "美乌推出更新版和平框架",
+      "onboard_time": 1763950100,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 57959,
       "num": 148478,
       "word": "8岁女童随奶奶上坟途中走失3天",
@@ -3539,20 +3635,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40482,
+      "num": 147503,
+      "word": "声鸣远扬赛制争议",
+      "onboard_time": 1763950879,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 40275,
       "num": 240096,
       "word": "偷甘蔗爆火巡逻小狗已累瘫",
       "onboard_time": 1763820624,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39892,
-      "num": 178221,
-      "word": "缅军再出手清剿KK园区",
-      "onboard_time": 1763949081,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 39164,
@@ -3593,6 +3689,14 @@
       "onboard_time": 1763884880,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35488,
+      "num": 97682,
+      "word": "乘客被困高铁厕所 多人踹门施救",
+      "onboard_time": 1763950939,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34609,
@@ -3753,6 +3857,14 @@
       "onboard_time": 1763881700,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24776,
+      "num": 98425,
+      "word": "印度劫案告破落网3人身份离谱",
+      "onboard_time": 1763950219,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24766,
