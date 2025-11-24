@@ -1,0 +1,410 @@
+{
+  "runTime": 1763966454880,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 758790,
+        "num": 1121406,
+        "word": "中方用胆敢二字警告日本",
+        "onboard_time": 1763960422,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 431894,
+        "num": 431894,
+        "word": "荒野求生老中医鞋底藏物被退赛",
+        "onboard_time": 1763960422,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58577,
+        "num": 372061,
+        "word": "中国44项世界非遗位居第一",
+        "onboard_time": 1763959165,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 840438,
+        "num": 370705,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363959,
+        "num": 363959,
+        "word": "高市早苗因性别原因无缘相扑颁奖",
+        "onboard_time": 1763958864,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 407041,
+        "num": 359369,
+        "word": "刘耀文哀牢山录制先导片",
+        "onboard_time": 1763962941,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 331366,
+        "num": 331366,
+        "word": "台湾没什么事日本真有事了",
+        "onboard_time": 1763947879,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 262005,
+        "num": 262005,
+        "word": "X现已显示账号所属地",
+        "onboard_time": 1763965340,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 254861,
+        "num": 254861,
+        "word": "疯狂动物城",
+        "onboard_time": 1763964201,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215640,
+        "num": 215640,
+        "word": "樊振东收获金球拍",
+        "onboard_time": 1763956460,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 591738,
+        "num": 214889,
+        "word": "原来领证和不领证的区别这么大",
+        "onboard_time": 1763954362,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 525288,
+        "num": 214439,
+        "word": "张俪 删哪张",
+        "onboard_time": 1763963181,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 344040,
+        "num": 213267,
+        "word": "江疏影风格大变",
+        "onboard_time": 1763957601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333234,
+        "num": 212794,
+        "word": "林更新被骂来活了 霍建华被骂不活了",
+        "onboard_time": 1763955562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316220,
+        "num": 211705,
+        "word": "吃一顿一个月工资没了",
+        "onboard_time": 1763960902,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 259695,
+        "num": 210904,
+        "word": "美国乌克兰联合声明",
+        "onboard_time": 1763964501,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 250552,
+        "num": 209566,
+        "word": "高市早苗遭无视",
+        "onboard_time": 1763961802,
+        "rank": 16,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 209016,
+        "num": 209016,
+        "word": "王鹤棣澳门演唱会",
+        "onboard_time": 1763963721,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 204478,
+        "num": 204478,
+        "word": "12条中日航线已取消全部航班",
+        "onboard_time": 1763958743,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 176932,
+        "num": 202042,
+        "word": "卢凌风那是你的婚约吗",
+        "onboard_time": 1763959341,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 291768,
+        "num": 198170,
+        "word": "迅猛龙 喜欢男的太浪费时间了",
+        "onboard_time": 1763958442,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 273415,
+        "num": 189805,
+        "word": "冯德伦称接受领养小孩",
+        "onboard_time": 1763959823,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221430,
+        "num": 186202,
+        "word": "殷世航自曝整容不用花钱",
+        "onboard_time": 1763960782,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 184302,
+        "num": 184302,
+        "word": "商场的衣服那么贵都卖给谁了",
+        "onboard_time": 1763956222,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 179943,
+        "num": 179943,
+        "word": "在一声声爷爷爷爷中迷失",
+        "onboard_time": 1763962401,
+        "rank": 24,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 158799,
+        "num": 158799,
+        "word": "一家三口横穿马路爸爸竖中指挑衅",
+        "onboard_time": 1763956882,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156469,
+        "num": 156469,
+        "word": "阿波罗 延时药",
+        "onboard_time": 1763962221,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142099,
+        "num": 142099,
+        "word": "免费试吃诈骗",
+        "onboard_time": 1763954901,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150573,
+        "num": 141949,
+        "word": "地球最后的夜晚",
+        "onboard_time": 1763964742,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130478,
+        "num": 130478,
+        "word": "王一博 王大胆",
+        "onboard_time": 1763955681,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207744,
+        "num": 130133,
+        "word": "李在明夫人被南非欢迎仪式吓一跳",
+        "onboard_time": 1763965641,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 151621,
+        "num": 130016,
+        "word": "Baolan谈Kanavi离开LPL",
+        "onboard_time": 1763965461,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129738,
+        "num": 129738,
+        "word": "做妇科检查女生被医生骂哭了",
+        "onboard_time": 1763940678,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114088,
+        "num": 114088,
+        "word": "小米回应为樊振东特别定制金球拍",
+        "onboard_time": 1763961621,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111653,
+        "num": 111653,
+        "word": "高市早苗狂套近乎马克龙表情亮了",
+        "onboard_time": 1763940799,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111564,
+        "num": 111564,
+        "word": "留几手说明星找网红是降维打击",
+        "onboard_time": 1763957841,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107817,
+        "num": 107817,
+        "word": "茶百道未定周边",
+        "onboard_time": 1763965461,
+        "rank": 36,
+        "category": "美食,动漫"
+      },
+      {
+        "raw_hot": 103621,
+        "num": 103621,
+        "word": "日本砸131亿日元在台搞媚日宣传",
+        "onboard_time": 1763955141,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67049,
+        "num": 101897,
+        "word": "爱奇艺认证成毅赴山海是现象级ip",
+        "onboard_time": 1763965881,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 96292,
+        "num": 101571,
+        "word": "江山为聘陈哲远受难记",
+        "onboard_time": 1763965281,
+        "rank": 39,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 101484,
+        "num": 101484,
+        "word": "江山为聘",
+        "onboard_time": 1763954001,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99430,
+        "num": 99430,
+        "word": "隐性的霸凌",
+        "onboard_time": 1763963241,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97566,
+        "num": 97566,
+        "word": "A股",
+        "onboard_time": 1763949681,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96129,
+        "num": 96129,
+        "word": "王一博山顶蹦迪",
+        "onboard_time": 1763962881,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93575,
+        "num": 93575,
+        "word": "狂野时代",
+        "onboard_time": 1763961740,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 92578,
+        "num": 92578,
+        "word": "张杰演唱会临场反应",
+        "onboard_time": 1763964082,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 88629,
+        "num": 88629,
+        "word": "原来说话有这么多好处",
+        "onboard_time": 1763963362,
+        "rank": 46,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 85622,
+        "num": 85622,
+        "word": "建议VaVa上个言论险",
+        "onboard_time": 1763964441,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85517,
+        "num": 85517,
+        "word": "边牧为了和人玩跑去鱼塘把脚洗了",
+        "onboard_time": 1763965101,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 82016,
+        "num": 85114,
+        "word": "A股多股连续涨停",
+        "onboard_time": 1763963362,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视文博工作#"
+    }
+  }
+}

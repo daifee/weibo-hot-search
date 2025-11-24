@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763963092807,
+  "endTime": 1763966454880,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1844,7 +1844,7 @@
     },
     {
       "raw_hot": 1076720,
-      "num": 367051,
+      "num": 370705,
       "word": "狂野时代退票率",
       "onboard_time": 1763960061,
       "rank": 3,
@@ -3705,6 +3705,14 @@
       "onboard_time": 1762507941,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 758790,
+      "num": 1121406,
+      "word": "中方用胆敢二字警告日本",
+      "onboard_time": 1763960422,
+      "rank": 4,
+      "category": "国内时政"
     },
     {
       "raw_hot": 758109,
@@ -7011,14 +7019,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 539992,
-      "num": 356889,
-      "word": "中方用胆敢二字警告日本",
-      "onboard_time": 1763960422,
-      "rank": 4,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 539945,
       "num": 1043098,
       "word": "早春晴朗井柏然孙千车内拥吻",
@@ -7369,6 +7369,14 @@
       "onboard_time": 1762933459,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 525288,
+      "num": 214439,
+      "word": "张俪 删哪张",
+      "onboard_time": 1763963181,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 524846,
@@ -9907,6 +9915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 431894,
+      "num": 431894,
+      "word": "荒野求生老中医鞋底藏物被退赛",
+      "onboard_time": 1763960422,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 431857,
       "num": 191744,
       "word": "k总老婆因经常喝热水食道被灼伤",
@@ -10745,6 +10761,14 @@
       "onboard_time": 1762772240,
       "rank": 7,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 407041,
+      "num": 359369,
+      "word": "刘耀文哀牢山录制先导片",
+      "onboard_time": 1763962941,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 406873,
@@ -14659,6 +14683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 316220,
+      "num": 211705,
+      "word": "吃一顿一个月工资没了",
+      "onboard_time": 1763960902,
+      "rank": 30,
+      "category": "美食"
+    },
+    {
       "raw_hot": 315672,
       "num": 220029,
       "word": "Shanks 真没劲儿",
@@ -18059,6 +18091,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 262005,
+      "num": 262005,
+      "word": "X现已显示账号所属地",
+      "onboard_time": 1763965340,
+      "rank": 7,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 261982,
       "num": 261982,
       "word": "外交部连发6张日英双语海报",
@@ -18241,6 +18281,14 @@
       "onboard_time": 1763178919,
       "rank": 11,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 259695,
+      "num": 210904,
+      "word": "美国乌克兰联合声明",
+      "onboard_time": 1763964501,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 259607,
@@ -18881,6 +18929,14 @@
       "onboard_time": 1762571960,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 250552,
+      "num": 209566,
+      "word": "高市早苗遭无视",
+      "onboard_time": 1763961802,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 250106,
@@ -21051,6 +21107,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 221430,
+      "num": 186202,
+      "word": "殷世航自曝整容不用花钱",
+      "onboard_time": 1763960782,
+      "rank": 33,
+      "category": "网红"
+    },
+    {
       "raw_hot": 221201,
       "num": 221201,
       "word": "岁岁平安",
@@ -22307,6 +22371,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 209016,
+      "num": 209016,
+      "word": "王鹤棣澳门演唱会",
+      "onboard_time": 1763963721,
+      "rank": 17,
+      "category": "演出"
+    },
+    {
       "raw_hot": 208889,
       "num": 208889,
       "word": "赵子豪晋级全运会男单八强",
@@ -22497,6 +22569,14 @@
       "onboard_time": 1763723542,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 207744,
+      "num": 130133,
+      "word": "李在明夫人被南非欢迎仪式吓一跳",
+      "onboard_time": 1763965641,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 207736,
@@ -24633,14 +24713,6 @@
       "onboard_time": 1762561939,
       "rank": 24,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 195240,
-      "num": 210165,
-      "word": "刘耀文哀牢山录制先导片",
-      "onboard_time": 1763962941,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 195139,
@@ -27683,6 +27755,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 179943,
+      "num": 179943,
+      "word": "在一声声爷爷爷爷中迷失",
+      "onboard_time": 1763962401,
+      "rank": 24,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 179942,
       "num": 179942,
       "word": "许昕3比1陈亚轩",
@@ -28281,14 +28361,6 @@
       "onboard_time": 1761970340,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 176188,
-      "num": 176188,
-      "word": "吃一顿一个月工资没了",
-      "onboard_time": 1763960902,
-      "rank": 30,
-      "category": "美食"
     },
     {
       "raw_hot": 176180,
@@ -28979,14 +29051,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 172395,
-      "num": 349826,
-      "word": "荒野求生老中医鞋底藏物被退赛",
-      "onboard_time": 1763960422,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172379,
       "num": 172379,
       "word": "只有师范生才知道她有多强",
@@ -29641,14 +29705,6 @@
       "onboard_time": 1761991880,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168855,
-      "num": 168855,
-      "word": "殷世航自曝整容不用花钱",
-      "onboard_time": 1763960782,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 168676,
@@ -33931,6 +33987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151621,
+      "num": 130016,
+      "word": "Baolan谈Kanavi离开LPL",
+      "onboard_time": 1763965461,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 151536,
       "num": 205997,
       "word": "周恺3比1梁俨苧",
@@ -34145,6 +34209,14 @@
       "onboard_time": 1762039577,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150573,
+      "num": 141949,
+      "word": "地球最后的夜晚",
+      "onboard_time": 1763964742,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 150525,
@@ -47675,14 +47747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 113149,
-      "num": 209279,
-      "word": "高市早苗遭无视",
-      "onboard_time": 1763961802,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113141,
       "num": 113141,
       "word": "王权富贵终于要去淮水竹亭了",
@@ -50289,6 +50353,14 @@
       "onboard_time": 1763636723,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107817,
+      "num": 107817,
+      "word": "茶百道未定周边",
+      "onboard_time": 1763965461,
+      "rank": 36,
+      "category": "美食,动漫"
     },
     {
       "raw_hot": 107807,
@@ -54843,6 +54915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99430,
+      "num": 99430,
+      "word": "隐性的霸凌",
+      "onboard_time": 1763963241,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99408,
       "num": 193184,
       "word": "A股中船系逆市走强",
@@ -56747,6 +56827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96292,
+      "num": 101571,
+      "word": "江山为聘陈哲远受难记",
+      "onboard_time": 1763965281,
+      "rank": 39,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 96278,
       "num": 163132,
       "word": "周深成都演唱会",
@@ -56800,6 +56888,14 @@
       "word": "那英看上的OST歌手不敢唱后会无期",
       "onboard_time": 1763803161,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 96129,
+      "num": 122978,
+      "word": "王一博山顶蹦迪",
+      "onboard_time": 1763962881,
+      "rank": 38,
       "category": "综艺"
     },
     {
@@ -58849,6 +58945,14 @@
       "onboard_time": 1762420401,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 92578,
+      "num": 92578,
+      "word": "张杰演唱会临场反应",
+      "onboard_time": 1763964082,
+      "rank": 45,
+      "category": "演出"
     },
     {
       "raw_hot": 92577,
@@ -61115,6 +61219,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 88629,
+      "num": 88629,
+      "word": "原来说话有这么多好处",
+      "onboard_time": 1763963362,
+      "rank": 46,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 88627,
       "num": 88627,
       "word": "林俊杰新歌首唱live",
@@ -62907,6 +63019,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 85622,
+      "num": 85622,
+      "word": "建议VaVa上个言论险",
+      "onboard_time": 1763964441,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85612,
       "num": 85612,
       "word": "偶遇秦昊在健身房干饭",
@@ -62976,6 +63096,14 @@
       "word": "李白没想到几千年后还有这一劫",
       "onboard_time": 1762044020,
       "rank": 34,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 85517,
+      "num": 85517,
+      "word": "边牧为了和人玩跑去鱼塘把脚洗了",
+      "onboard_time": 1763965101,
+      "rank": 48,
       "category": "幽默"
     },
     {
@@ -64537,6 +64665,14 @@
       "onboard_time": 1762944139,
       "rank": 45,
       "category": "电影"
+    },
+    {
+      "raw_hot": 82016,
+      "num": 85114,
+      "word": "A股多股连续涨停",
+      "onboard_time": 1763963362,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 81996,
@@ -69883,6 +70019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67049,
+      "num": 101897,
+      "word": "爱奇艺认证成毅赴山海是现象级ip",
+      "onboard_time": 1763965881,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 67041,
       "num": 67041,
       "word": "原来这个世界上还有线条小狗",
@@ -74633,14 +74777,6 @@
       "onboard_time": 1762809493,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 48263,
-      "num": 122978,
-      "word": "王一博山顶蹦迪",
-      "onboard_time": 1763962881,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 48259,
