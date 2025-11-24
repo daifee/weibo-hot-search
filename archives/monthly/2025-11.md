@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 07:26:13
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 07:39:45
 </p>
 </blockquote>
 <p>
@@ -2535,6 +2535,12 @@ A股（热度：834240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE%23" target="weibo">
+高市早苗G20峰会上演外交灾难（热度：806101）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E6%B2%88%E5%A8%87%E5%A8%87%E6%89%8D%E6%98%AF%E4%B8%BB%E8%A7%92%23" target="weibo">
 将门毒后沈娇娇才是主角（热度：805385）
 </a>
@@ -2975,12 +2981,6 @@ iPhone18Pro前瞻（热度：752671）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E9%BB%84%E9%95%87%E5%BB%B7%23" target="weibo">
 王楚钦vs黄镇廷（热度：745780）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97G20%E5%B3%B0%E4%BC%9A%E4%B8%8A%E6%BC%94%E5%A4%96%E4%BA%A4%E7%81%BE%E9%9A%BE%23" target="weibo">
-高市早苗G20峰会上演外交灾难（热度：745753）
 </a>
 </li>
 
@@ -4089,6 +4089,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
+主播称收入26万实则隐匿超1500万（热度：633274）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E9%80%80%E5%87%BA%E9%93%B6%E6%B2%B3%E9%85%B7%E5%A8%B1%E8%82%A1%E4%B8%9C%E8%A1%8C%E5%88%97%23" target="weibo">
 多方退出银河酷娱股东行列（热度：633023）
 </a>
@@ -4781,12 +4787,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E8%AF%95%E5%AE%98%E9%97%AE%E6%8A%BD%E4%B8%8D%E6%8A%BD%E7%83%9F%23" target="weibo">
 面试官问抽不抽烟（热度：583295）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BB%E6%92%AD%E7%A7%B0%E6%94%B6%E5%85%A526%E4%B8%87%E5%AE%9E%E5%88%99%E9%9A%90%E5%8C%BF%E8%B6%851500%E4%B8%87%23" target="weibo">
-主播称收入26万实则隐匿超1500万（热度：582380）
 </a>
 </li>
 
