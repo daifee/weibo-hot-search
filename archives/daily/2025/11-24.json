@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763988983200,
+  "endTime": 1763989831892,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -67,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1104651,
+      "num": 200034,
+      "word": "邢菲疑似违反交规",
+      "onboard_time": 1763986702,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1076720,
       "num": 487619,
       "word": "狂野时代退票率",
@@ -81,14 +89,6 @@
       "onboard_time": 1763980761,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1049745,
-      "num": 200034,
-      "word": "邢菲疑似违反交规",
-      "onboard_time": 1763986702,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1014479,
@@ -208,6 +208,14 @@
       "word": "陈晓陈妍希新剧对打",
       "onboard_time": 1763968581,
       "rank": 14,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 644760,
+      "num": 276676,
+      "word": "金莲花提名",
+      "onboard_time": 1763987601,
+      "rank": 4,
       "category": "剧集"
     },
     {
@@ -667,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 286432,
+      "num": 191305,
+      "word": "何秋亊掉粉461万",
+      "onboard_time": 1763988142,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 286350,
       "num": 196500,
       "word": "陈星旭咱妈看起来不像本地人",
@@ -705,14 +721,6 @@
       "onboard_time": 1763969901,
       "rank": 34,
       "category": "电影"
-    },
-    {
-      "raw_hot": 276676,
-      "num": 276676,
-      "word": "金莲花提名",
-      "onboard_time": 1763987601,
-      "rank": 4,
-      "category": "剧集"
     },
     {
       "raw_hot": 273998,
@@ -843,6 +851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 207735,
+      "num": 191063,
+      "word": "港圈富二代自曝近百名女星投怀送抱",
+      "onboard_time": 1763988922,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200528,
       "num": 200528,
       "word": "Faker打算做加里奥冠军皮肤",
@@ -947,20 +963,20 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 191011,
+      "num": 191011,
+      "word": "南山猎人好弱",
+      "onboard_time": 1763987122,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189988,
       "num": 189988,
       "word": "印度全面恢复中国公民旅游签",
       "onboard_time": 1763949019,
       "rank": 33,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 189105,
-      "num": 189105,
-      "word": "何秋亊掉粉461万",
-      "onboard_time": 1763988142,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 187609,
@@ -984,6 +1000,14 @@
       "word": "枭起青壤剧情平",
       "onboard_time": 1763903001,
       "rank": 4,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 186923,
+      "num": 186923,
+      "word": "唐诡3无色无味但剧毒的人出现了",
+      "onboard_time": 1763989161,
+      "rank": 25,
       "category": "剧集"
     },
     {
@@ -1027,6 +1051,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180853,
+      "num": 197130,
+      "word": "冲绳周边不断运入导弹和多国军舰",
+      "onboard_time": 1763988380,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 180688,
       "num": 180688,
       "word": "C罗可能做过多次整容手术",
@@ -1049,6 +1081,14 @@
       "onboard_time": 1763961141,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 175954,
+      "num": 175954,
+      "word": "救命药滞留前台5小时致男子身亡",
+      "onboard_time": 1763988081,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 175780,
@@ -1251,14 +1291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 151998,
-      "num": 151998,
-      "word": "南山猎人好弱",
-      "onboard_time": 1763987122,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 151621,
       "num": 134922,
       "word": "Baolan谈Kanavi离开LPL",
@@ -1281,6 +1313,14 @@
       "onboard_time": 1763980701,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 148030,
+      "num": 151896,
+      "word": "梅婷再问快快爷爷最喜欢谁",
+      "onboard_time": 1763988802,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 147607,
@@ -1523,6 +1563,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 123142,
+      "num": 151733,
+      "word": "浓眉大眼的拍一部剧面相都变了",
+      "onboard_time": 1763989161,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 122595,
       "num": 122595,
       "word": "马斯克曾领导的政府效率部解散",
@@ -1617,6 +1665,14 @@
       "onboard_time": 1763982021,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 117346,
+      "num": 117346,
+      "word": "AG司马光龙葵变装",
+      "onboard_time": 1763989040,
+      "rank": 34,
+      "category": "电竞"
     },
     {
       "raw_hot": 117283,
@@ -1763,6 +1819,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109001,
+      "num": 151941,
+      "word": "敖子逸立遗嘱想的是先还贷款",
+      "onboard_time": 1763987242,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 108969,
       "num": 108969,
       "word": "俄罗斯将被邀请重返G8",
@@ -1833,6 +1897,14 @@
       "onboard_time": 1763949800,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106574,
+      "num": 106574,
+      "word": "Cat助教",
+      "onboard_time": 1763989403,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 106433,
@@ -1931,12 +2003,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103565,
-      "num": 151941,
-      "word": "敖子逸立遗嘱想的是先还贷款",
-      "onboard_time": 1763987242,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 102995,
+      "num": 102995,
+      "word": "手机被远程控制后显示这个界面",
+      "onboard_time": 1763989522,
+      "rank": 44,
+      "category": "数码"
     },
     {
       "raw_hot": 102290,
@@ -2065,6 +2137,14 @@
       "onboard_time": 1763970501,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98831,
+      "num": 98831,
+      "word": "台当局宣布全面解禁日本核食",
+      "onboard_time": 1763989282,
+      "rank": 45,
+      "category": "国内时政"
     },
     {
       "raw_hot": 98666,
@@ -2227,14 +2307,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 90894,
-      "num": 151933,
-      "word": "救命药滞留前台5小时致男子身亡",
-      "onboard_time": 1763988081,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90637,
       "num": 90637,
       "word": "Gumayusi看T1视频哭了",
@@ -2315,6 +2387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 87301,
+      "num": 103757,
+      "word": "水果姐你的兵来了",
+      "onboard_time": 1763988861,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 85911,
       "num": 148099,
       "word": "男装水洗标文字被质疑歧视女性",
@@ -2355,14 +2435,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 83601,
-      "num": 151896,
-      "word": "梅婷再问快快爷爷最喜欢谁",
-      "onboard_time": 1763988802,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 82705,
       "num": 120873,
       "word": "假公章转走千万资产警方却不予立案",
@@ -2393,6 +2465,14 @@
       "onboard_time": 1763950939,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 81564,
+      "num": 197554,
+      "word": "荣耀500打到我的心巴上",
+      "onboard_time": 1763988442,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 79296,
@@ -2465,14 +2545,6 @@
       "onboard_time": 1763913681,
       "rank": 41,
       "category": "演出"
-    },
-    {
-      "raw_hot": 71254,
-      "num": 151881,
-      "word": "港圈富二代自曝近百名女星投怀送抱",
-      "onboard_time": 1763988922,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 70666,
@@ -2643,6 +2715,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 57815,
+      "num": 151933,
+      "word": "手机号注销后仍被哈啰扣费178元",
+      "onboard_time": 1763988442,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57124,
       "num": 128034,
       "word": "台评论员称琉球跟日本没半毛钱关系",
@@ -2715,14 +2795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 45840,
-      "num": 197554,
-      "word": "荣耀500打到我的心巴上",
-      "onboard_time": 1763988442,
-      "rank": 18,
-      "category": "数码"
-    },
-    {
       "raw_hot": 44271,
       "num": 211840,
       "word": "廉价首饰有多伤皮肤",
@@ -2747,14 +2819,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 43540,
-      "num": 151933,
-      "word": "手机号注销后仍被哈啰扣费178元",
-      "onboard_time": 1763988442,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43517,
       "num": 198673,
       "word": "罗永浩后悔没看蓝猫淘气三千问",
@@ -2769,14 +2833,6 @@
       "onboard_time": 1763928314,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43115,
-      "num": 197130,
-      "word": "冲绳周边不断运入导弹和多国军舰",
-      "onboard_time": 1763988380,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 43038,
@@ -2961,6 +3017,14 @@
       "onboard_time": 1763894841,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27189,
+      "num": 104607,
+      "word": "公园方回应近百只猕猴打群架",
+      "onboard_time": 1763989222,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27169,

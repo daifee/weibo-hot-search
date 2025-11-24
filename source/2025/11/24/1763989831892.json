@@ -1,0 +1,410 @@
+{
+  "runTime": 1763989831892,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 571497,
+        "num": 1091439,
+        "word": "中国暂停租借大熊猫给日本引关注",
+        "onboard_time": 1763980761,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 347644,
+        "num": 347644,
+        "word": "中国将寻找第二颗地球",
+        "onboard_time": 1763974880,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40781,
+        "num": 263435,
+        "word": "我国启动聚变领域国际科学计划",
+        "onboard_time": 1763974581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 644760,
+        "num": 261945,
+        "word": "金莲花提名",
+        "onboard_time": 1763987601,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 368630,
+        "num": 261356,
+        "word": "中方回应高市早苗称愿与中国对话",
+        "onboard_time": 1763982740,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 259860,
+        "num": 259860,
+        "word": "地枭才是完美男友",
+        "onboard_time": 1763984182,
+        "rank": 5,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 267874,
+        "num": 257983,
+        "word": "中方回应日本部署中程导弹",
+        "onboard_time": 1763970801,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256031,
+        "num": 256031,
+        "word": "医生称臭大姐可以吃别多吃",
+        "onboard_time": 1763975962,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 206197,
+        "num": 206197,
+        "word": "雷军增持小米260万股",
+        "onboard_time": 1763985200,
+        "rank": 8,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 191660,
+        "num": 191660,
+        "word": "枭起青壤",
+        "onboard_time": 1763981061,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1104651,
+        "num": 191626,
+        "word": "邢菲疑似违反交规",
+        "onboard_time": 1763986702,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 727908,
+        "num": 191583,
+        "word": "戴军曝杨笠常住清迈",
+        "onboard_time": 1763984121,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 585140,
+        "num": 191537,
+        "word": "花一万六买152件衣服",
+        "onboard_time": 1763985261,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403408,
+        "num": 191493,
+        "word": "医院将进价3万的瓣膜28万元卖出",
+        "onboard_time": 1763982801,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318589,
+        "num": 191415,
+        "word": "FILA致歉",
+        "onboard_time": 1763979561,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 305458,
+        "num": 191386,
+        "word": "杨紫真的拍了香蜜转场",
+        "onboard_time": 1763969781,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286432,
+        "num": 191305,
+        "word": "何秋亊掉粉461万",
+        "onboard_time": 1763988142,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 283428,
+        "num": 191242,
+        "word": "陈星旭咱妈看起来不像本地人",
+        "onboard_time": 1763985200,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218480,
+        "num": 191186,
+        "word": "罗一舟回应转行",
+        "onboard_time": 1763985081,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81564,
+        "num": 191147,
+        "word": "荣耀500打到我的心巴上",
+        "onboard_time": 1763988442,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 710487,
+        "num": 191117,
+        "word": "胡彦斌妈妈 老版易梦玲",
+        "onboard_time": 1763979261,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207735,
+        "num": 191063,
+        "word": "港圈富二代自曝近百名女星投怀送抱",
+        "onboard_time": 1763988922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191011,
+        "num": 191011,
+        "word": "南山猎人好弱",
+        "onboard_time": 1763987122,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180853,
+        "num": 188836,
+        "word": "冲绳周边不断运入导弹和多国军舰",
+        "onboard_time": 1763988380,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186941,
+        "num": 186941,
+        "word": "张艺兴重庆粉丝见面会",
+        "onboard_time": 1763988501,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186923,
+        "num": 186923,
+        "word": "唐诡3无色无味但剧毒的人出现了",
+        "onboard_time": 1763989161,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175954,
+        "num": 175954,
+        "word": "救命药滞留前台5小时致男子身亡",
+        "onboard_time": 1763988081,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123142,
+        "num": 151733,
+        "word": "浓眉大眼的拍一部剧面相都变了",
+        "onboard_time": 1763989161,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107243,
+        "num": 149591,
+        "word": "有人破解巨型吊牌继续蹭穿",
+        "onboard_time": 1763967741,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83510,
+        "num": 148799,
+        "word": "中国大米在日本售价上涨数倍",
+        "onboard_time": 1763980581,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148279,
+        "num": 148279,
+        "word": "NS官宣Neoguri加入",
+        "onboard_time": 1763985200,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148030,
+        "num": 148030,
+        "word": "梅婷再问快快爷爷最喜欢谁",
+        "onboard_time": 1763988802,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144413,
+        "num": 144413,
+        "word": "美国一男子因便秘身亡",
+        "onboard_time": 1763969961,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141017,
+        "num": 141017,
+        "word": "荣耀500发布会",
+        "onboard_time": 1763986281,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 117346,
+        "num": 117346,
+        "word": "AG司马光龙葵变装",
+        "onboard_time": 1763989040,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113142,
+        "num": 113142,
+        "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
+        "onboard_time": 1763968940,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109001,
+        "num": 109001,
+        "word": "敖子逸立遗嘱想的是先还贷款",
+        "onboard_time": 1763987242,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106574,
+        "num": 106574,
+        "word": "Cat助教",
+        "onboard_time": 1763989403,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 65065,
+        "num": 105508,
+        "word": "日本民众回应最后2只大熊猫将回国",
+        "onboard_time": 1763979200,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27189,
+        "num": 104607,
+        "word": "公园方回应近百只猕猴打群架",
+        "onboard_time": 1763989222,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104536,
+        "num": 104536,
+        "word": "陈晓陈妍希新剧对打",
+        "onboard_time": 1763968581,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87301,
+        "num": 103757,
+        "word": "水果姐你的兵来了",
+        "onboard_time": 1763988861,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57815,
+        "num": 103402,
+        "word": "手机号注销后仍被哈啰扣费178元",
+        "onboard_time": 1763988442,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103158,
+        "num": 103158,
+        "word": "狂野时代退票率",
+        "onboard_time": 1763960061,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102995,
+        "num": 102995,
+        "word": "手机被远程控制后显示这个界面",
+        "onboard_time": 1763989522,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 98831,
+        "num": 98831,
+        "word": "台当局宣布全面解禁日本核食",
+        "onboard_time": 1763989282,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98428,
+        "num": 98428,
+        "word": "男子半月领养20多只猫全部失踪",
+        "onboard_time": 1763983461,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96107,
+        "num": 96107,
+        "word": "陈小春应采儿两个魔丸生出了个灵珠",
+        "onboard_time": 1763971282,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94724,
+        "num": 94724,
+        "word": "李诞谈结婚最重要的条件",
+        "onboard_time": 1763985320,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87496,
+        "num": 87496,
+        "word": "经常看书和不看书的区别真的好大",
+        "onboard_time": 1763979561,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平总书记高度重视文博工作#"
+    }
+  }
+}
