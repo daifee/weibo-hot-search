@@ -1,6 +1,6 @@
 {
   "startTime": 1763915465528,
-  "endTime": 1763977605356,
+  "endTime": 1763980311119,
   "band_list": [
     {
       "raw_hot": 1404982,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1298747,
-      "num": 206798,
+      "num": 254044,
       "word": "杨紫真的拍了香蜜转场",
       "onboard_time": 1763969781,
       "rank": 16,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 973132,
-      "num": 208099,
+      "num": 251541,
       "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
       "onboard_time": 1763968940,
       "rank": 37,
@@ -89,6 +89,14 @@
       "onboard_time": 1763955562,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 862333,
+      "num": 356062,
+      "word": "医生称臭大姐可以吃别多吃",
+      "onboard_time": 1763975962,
+      "rank": 9,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 844025,
@@ -123,6 +131,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 746059,
+      "num": 1119369,
+      "word": "中国将寻找第二颗地球",
+      "onboard_time": 1763974880,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 687668,
       "num": 687668,
       "word": "樊振东收获金球拍",
@@ -132,15 +148,23 @@
     },
     {
       "raw_hot": 666855,
-      "num": 204975,
+      "num": 251122,
       "word": "陈晓陈妍希新剧对打",
       "onboard_time": 1763968581,
       "rank": 14,
       "category": "剧集"
     },
     {
+      "raw_hot": 634236,
+      "num": 180133,
+      "word": "胡彦斌妈妈 老版易梦玲",
+      "onboard_time": 1763979261,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 633802,
-      "num": 205614,
+      "num": 252113,
       "word": "迪丽热巴意大利分巴",
       "onboard_time": 1763975061,
       "rank": 12,
@@ -204,7 +228,7 @@
     },
     {
       "raw_hot": 536808,
-      "num": 204085,
+      "num": 228341,
       "word": "打工11年无工资男子收到38万工资",
       "onboard_time": 1763967260,
       "rank": 16,
@@ -225,6 +249,14 @@
       "onboard_time": 1763950939,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 518594,
+      "num": 252633,
+      "word": "戴军李静爆料最难访的艺人",
+      "onboard_time": 1763977702,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 517890,
@@ -307,14 +339,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 454343,
-      "num": 356062,
-      "word": "医生称臭大姐可以吃别多吃",
-      "onboard_time": 1763975962,
-      "rank": 9,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -379,6 +403,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 378685,
+      "num": 170464,
+      "word": "解密胡彦斌易梦玲恋情是谁放出来的",
+      "onboard_time": 1763977101,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 371088,
       "num": 371088,
       "word": "美国乌克兰联合声明",
@@ -401,14 +433,6 @@
       "onboard_time": 1763924714,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 359375,
-      "num": 359375,
-      "word": "中国将寻找第二颗地球",
-      "onboard_time": 1763974880,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 353327,
@@ -604,7 +628,7 @@
     },
     {
       "raw_hot": 267695,
-      "num": 190738,
+      "num": 242163,
       "word": "高市早苗努力表演不如一把椅子火",
       "onboard_time": 1763972781,
       "rank": 18,
@@ -667,6 +691,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 215590,
+      "num": 256174,
+      "word": "陈哲远将录制现在就出发",
+      "onboard_time": 1763979981,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 214071,
       "num": 214071,
       "word": "金枝 李一桐陈星旭",
@@ -683,20 +715,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 207950,
+      "num": 207950,
+      "word": "缅因猫4500元法拍3000人围观",
+      "onboard_time": 1763978121,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 207744,
       "num": 149055,
       "word": "李在明夫人被南非欢迎仪式吓一跳",
       "onboard_time": 1763965641,
       "rank": 30,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 202410,
-      "num": 138848,
-      "word": "解密胡彦斌易梦玲恋情是谁放出来的",
-      "onboard_time": 1763977101,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 200528,
@@ -801,6 +833,14 @@
       "onboard_time": 1763903001,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186071,
+      "num": 171610,
+      "word": "网评的四大00生",
+      "onboard_time": 1763979921,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 185082,
@@ -937,6 +977,22 @@
       "onboard_time": 1763971103,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166908,
+      "num": 166908,
+      "word": "日本民众回应最后2只大熊猫将回国",
+      "onboard_time": 1763979200,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166767,
+      "num": 166767,
+      "word": "名校研究生收费写to签",
+      "onboard_time": 1763977162,
+      "rank": 36,
+      "category": "教育"
     },
     {
       "raw_hot": 166398,
@@ -1099,6 +1155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 138849,
+      "num": 138849,
+      "word": "全国中小学寒假时间出炉",
+      "onboard_time": 1763977461,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 138310,
       "num": 190513,
       "word": "种地吧",
@@ -1147,6 +1211,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135734,
+      "num": 184717,
+      "word": "枭起青壤第二日云合",
+      "onboard_time": 1763978481,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 134800,
       "num": 134800,
       "word": "KPL",
@@ -1177,6 +1249,14 @@
       "onboard_time": 1763967801,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130535,
+      "num": 130535,
+      "word": "经常看书和不看书的区别真的好大",
+      "onboard_time": 1763979561,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 129893,
@@ -1379,6 +1459,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 112475,
+      "num": 112475,
+      "word": "神22计划11月25日发射",
+      "onboard_time": 1763977881,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111898,
       "num": 111898,
       "word": "史上最薄iPhone初期销量远逊预期",
@@ -1481,6 +1569,22 @@
       "onboard_time": 1763949800,
       "rank": 42,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 106433,
+      "num": 106433,
+      "word": "只有23考研受伤的世界达成了",
+      "onboard_time": 1763979501,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 105960,
+      "num": 105960,
+      "word": "大湾鸡集体洗白白",
+      "onboard_time": 1763979322,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 105823,
@@ -1643,20 +1747,20 @@
       "category": "作品衍生,时尚"
     },
     {
-      "raw_hot": 99129,
-      "num": 99129,
-      "word": "名校研究生收费写to签",
-      "onboard_time": 1763977162,
-      "rank": 36,
-      "category": "教育"
-    },
-    {
       "raw_hot": 98918,
       "num": 98918,
       "word": "地枭居然开口说话了",
       "onboard_time": 1763970501,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 98666,
+      "num": 98666,
+      "word": "WTT香港总决赛参赛名单更新",
+      "onboard_time": 1763977762,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 97564,
@@ -1721,14 +1825,6 @@
       "onboard_time": 1763972362,
       "rank": 45,
       "category": "财经"
-    },
-    {
-      "raw_hot": 95431,
-      "num": 95431,
-      "word": "全国中小学寒假时间出炉",
-      "onboard_time": 1763977461,
-      "rank": 37,
-      "category": "教育"
     },
     {
       "raw_hot": 95367,
@@ -1857,6 +1953,22 @@
       "onboard_time": 1763949081,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 85966,
+      "num": 85966,
+      "word": "俄罗斯将被邀请重返G8",
+      "onboard_time": 1763979981,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 85911,
+      "num": 148099,
+      "word": "男装水洗标文字被质疑歧视女性",
+      "onboard_time": 1763978420,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85595,
@@ -2051,6 +2163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 65472,
+      "num": 687062,
+      "word": "我国启动聚变领域国际科学计划",
+      "onboard_time": 1763974581,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 64426,
       "num": 102844,
       "word": "内娱综艺开始上强度了",
@@ -2147,6 +2267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56463,
+      "num": 107085,
+      "word": "松鼠老爹 松鼠老母",
+      "onboard_time": 1763979623,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55823,
       "num": 109966,
       "word": "网红捏捏玩具甲醛超标近46倍",
@@ -2163,12 +2291,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52885,
-      "num": 574962,
-      "word": "我国启动聚变领域国际科学计划",
-      "onboard_time": 1763974581,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 53157,
+      "num": 108943,
+      "word": "FILA致歉",
+      "onboard_time": 1763979561,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51167,
@@ -2193,6 +2321,14 @@
       "onboard_time": 1763961200,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47808,
+      "num": 107369,
+      "word": "网红圈出糙汉了 结果是方头明",
+      "onboard_time": 1763979261,
+      "rank": 38,
+      "category": "网红"
     },
     {
       "raw_hot": 46397,
@@ -2339,6 +2475,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 31827,
+      "num": 182159,
+      "word": "黄海北部连续3日实弹射击",
+      "onboard_time": 1763979081,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31453,
       "num": 238992,
       "word": "中国吸引外资新磁力显现",
@@ -2457,6 +2601,14 @@
       "onboard_time": 1763915299,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19584,
+      "num": 733098,
+      "word": "中国等共推人造太阳研发",
+      "onboard_time": 1763980221,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18912,
