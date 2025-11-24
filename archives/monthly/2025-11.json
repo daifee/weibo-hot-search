@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1763998333521,
+  "endTime": 1763999145018,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2115,6 +2115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1022841,
+      "num": 1022841,
+      "word": "中美元首通电话",
+      "onboard_time": 1763997442,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1021876,
       "num": 280600,
       "word": "蒲熠星回应通告费",
@@ -2739,6 +2747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 884836,
+      "num": 884836,
+      "word": "枭起青壤 吓人",
+      "onboard_time": 1763995582,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 882610,
       "num": 209188,
       "word": "黄晓明48岁生日镜像成了84岁",
@@ -2961,14 +2977,6 @@
       "onboard_time": 1763475623,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 860201,
-      "num": 860201,
-      "word": "中美元首通电话",
-      "onboard_time": 1763997442,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 859960,
@@ -3359,14 +3367,6 @@
       "num": 1128861,
       "word": "将门毒后沈娇娇才是主角",
       "onboard_time": 1762405162,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 804894,
-      "num": 804894,
-      "word": "枭起青壤 吓人",
-      "onboard_time": 1763995582,
       "rank": 5,
       "category": "剧集"
     },
@@ -9379,6 +9379,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 457899,
+      "num": 457899,
+      "word": "豆瓣崩了",
+      "onboard_time": 1763217328,
+      "rank": 45,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 457440,
       "num": 213483,
       "word": "许我耀眼庆功宴",
@@ -14075,14 +14083,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 334004,
-      "num": 332192,
-      "word": "豆瓣崩了",
-      "onboard_time": 1763217328,
-      "rank": 45,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 333908,
       "num": 333908,
       "word": "何炅谢娜维嘉同台主持",
@@ -14457,6 +14457,14 @@
       "onboard_time": 1763876961,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329256,
+      "num": 881821,
+      "word": "日本贼心不死",
+      "onboard_time": 1763994983,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 329158,
@@ -15833,6 +15841,14 @@
       "onboard_time": 1763696181,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 302502,
+      "num": 302502,
+      "word": "黄星直播",
+      "onboard_time": 1763991982,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 302476,
@@ -20563,6 +20579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 232560,
+      "num": 808686,
+      "word": "陈清晨发文告别国家队",
+      "onboard_time": 1763996541,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 232427,
       "num": 205776,
       "word": "咖啡上撒蟑螂1杯40元",
@@ -20931,6 +20955,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228041,
+      "num": 170774,
+      "word": "王心凌吴克群被偶遇",
+      "onboard_time": 1763997682,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227873,
       "num": 190916,
       "word": "宋茜瘦到穿24码的裤子",
@@ -21096,14 +21128,6 @@
       "word": "陈梦有望冲击超级大满贯",
       "onboard_time": 1763015119,
       "rank": 25,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 225642,
-      "num": 715639,
-      "word": "陈清晨发文告别国家队",
-      "onboard_time": 1763996541,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -21761,14 +21785,6 @@
       "onboard_time": 1762841659,
       "rank": 9,
       "category": "电影"
-    },
-    {
-      "raw_hot": 219854,
-      "num": 219854,
-      "word": "黄星直播",
-      "onboard_time": 1763991982,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 219850,
@@ -27003,14 +27019,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 187347,
-      "num": 665366,
-      "word": "日本贼心不死",
-      "onboard_time": 1763994983,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 187336,
       "num": 267007,
       "word": "中方依法保护在华外国公民安全",
@@ -32051,14 +32059,6 @@
       "category": "幽默,美食"
     },
     {
-      "raw_hot": 161515,
-      "num": 141626,
-      "word": "王心凌吴克群被偶遇",
-      "onboard_time": 1763997682,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 161503,
       "num": 199671,
       "word": "王楚钦没结束的生涯没人有资格定义",
@@ -34115,6 +34115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153853,
+      "num": 126310,
+      "word": "特区政府停止与日本领事馆官方交流",
+      "onboard_time": 1763997323,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 153796,
       "num": 284331,
       "word": "仅用0秒就嗑到的国漫cp",
@@ -35545,6 +35553,14 @@
       "onboard_time": 1762270639,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148360,
+      "num": 887181,
+      "word": "华为Mate80ProMax配置曝光",
+      "onboard_time": 1763996483,
+      "rank": 4,
+      "category": "数码"
     },
     {
       "raw_hot": 148332,
@@ -39115,14 +39131,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136628,
-      "num": 823525,
-      "word": "华为Mate80ProMax配置曝光",
-      "onboard_time": 1763996483,
-      "rank": 4,
-      "category": "数码"
-    },
-    {
       "raw_hot": 136594,
       "num": 189103,
       "word": "王楚钦樊振东或半决赛对决",
@@ -41667,6 +41675,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 129044,
+      "num": 116629,
+      "word": "李蠕蠕自曝经常处于瓶颈期",
+      "onboard_time": 1763997142,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 129017,
       "num": 129017,
       "word": "买平板前vs买平板后",
@@ -42833,14 +42849,6 @@
       "onboard_time": 1762589960,
       "rank": 31,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126310,
-      "num": 126310,
-      "word": "特区政府停止与日本领事馆官方交流",
-      "onboard_time": 1763997323,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 126285,
@@ -45145,6 +45153,14 @@
       "onboard_time": 1762261401,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121172,
+      "num": 121172,
+      "word": "张婧仪金莲花提名",
+      "onboard_time": 1763998161,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 121160,
@@ -49323,14 +49339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 112074,
-      "num": 112074,
-      "word": "李蠕蠕自曝经常处于瓶颈期",
-      "onboard_time": 1763997142,
-      "rank": 44,
-      "category": "网红"
-    },
-    {
       "raw_hot": 112052,
       "num": 137167,
       "word": "父母辈追的明星开演唱会了",
@@ -50273,14 +50281,6 @@
       "onboard_time": 1763959942,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 110027,
-      "num": 110027,
-      "word": "张婧仪金莲花提名",
-      "onboard_time": 1763998161,
-      "rank": 45,
-      "category": "电影"
     },
     {
       "raw_hot": 110025,
@@ -55305,6 +55305,14 @@
       "onboard_time": 1762344441,
       "rank": 44,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 100877,
+      "num": 100877,
+      "word": "日本3位前首相再表态",
+      "onboard_time": 1763999001,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 100868,
@@ -63251,6 +63259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 87352,
+      "num": 117572,
+      "word": "女装直播退货率80%以上",
+      "onboard_time": 1763997323,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87346,
       "num": 91767,
       "word": "今天乒乓球单打决赛日",
@@ -64553,6 +64569,14 @@
       "onboard_time": 1762661420,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 85291,
+      "num": 85291,
+      "word": "从头到脚都是聚酯纤维的痛",
+      "onboard_time": 1763997921,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 85267,
@@ -66025,6 +66049,14 @@
       "onboard_time": 1762843879,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82068,
+      "num": 82068,
+      "word": "中国金龙指数涨2%",
+      "onboard_time": 1763999062,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 82045,
@@ -70185,14 +70217,6 @@
       "onboard_time": 1761994643,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71805,
-      "num": 117572,
-      "word": "女装直播退货率80%以上",
-      "onboard_time": 1763997323,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71771,
@@ -76291,6 +76315,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 48377,
+      "num": 117632,
+      "word": "22元拍下蕉内羽绒服被拒绝发货",
+      "onboard_time": 1763998161,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48283,
       "num": 49549,
       "word": "血糖控制不好会让眼睛受伤",
@@ -76513,14 +76545,6 @@
       "onboard_time": 1763355681,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 47571,
-      "num": 117632,
-      "word": "22元拍下蕉内羽绒服被拒绝发货",
-      "onboard_time": 1763998161,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47526,
@@ -78312,6 +78336,14 @@
       "word": "男子穿板鞋违法穿越鳌太线",
       "onboard_time": 1762150821,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40663,
+      "num": 177026,
+      "word": "廉价首饰致癌物超标官方已抽样送检",
+      "onboard_time": 1763998161,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -82659,6 +82691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24806,
+      "num": 117987,
+      "word": "网友吐槽吃零食还要做热量计算题",
+      "onboard_time": 1763998161,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24776,
       "num": 98425,
       "word": "印度劫案告破落网3人身份离谱",
@@ -83705,14 +83745,6 @@
       "onboard_time": 1762941921,
       "rank": 39,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20096,
-      "num": 145975,
-      "word": "廉价首饰致癌物超标官方已抽样送检",
-      "onboard_time": 1763998161,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20019,
@@ -85561,14 +85593,6 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 9936,
-      "num": 117987,
-      "word": "网友吐槽吃零食还要做热量计算题",
-      "onboard_time": 1763998161,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9871,
