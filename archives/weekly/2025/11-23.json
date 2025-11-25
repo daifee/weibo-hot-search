@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764096018872,
+  "endTime": 1764096715179,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -8931,6 +8931,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51721,
+      "num": 66598,
+      "word": "疯狂动物城 狐兔CP",
+      "onboard_time": 1764090677,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 51680,
       "num": 113962,
       "word": "导航语音包 擦边",
@@ -9001,14 +9009,6 @@
       "onboard_time": 1763961200,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 49014,
-      "num": 66598,
-      "word": "疯狂动物城 狐兔CP",
-      "onboard_time": 1764090677,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 48379,
@@ -9851,6 +9851,14 @@
       "category": "民生新闻,数码"
     },
     {
+      "raw_hot": 23030,
+      "num": 42865,
+      "word": "小姑娘走心了小男孩还没过脑",
+      "onboard_time": 1764095835,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 22992,
       "num": 185117,
       "word": "高校宿舍凌晨起火学生称警报未响",
@@ -9876,7 +9884,7 @@
     },
     {
       "raw_hot": 22623,
-      "num": 34654,
+      "num": 42796,
       "word": "张凌赫张婧仪 豹豹猫猫我睁眼了",
       "onboard_time": 1764094275,
       "rank": 38,
@@ -10004,11 +10012,19 @@
     },
     {
       "raw_hot": 19569,
-      "num": 34653,
+      "num": 42621,
       "word": "不会画眉毛的姐妹有救了",
       "onboard_time": 1764094036,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19325,
+      "num": 42719,
+      "word": "转念花开",
+      "onboard_time": 1764096133,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 19158,
@@ -10017,6 +10033,14 @@
       "onboard_time": 1764014593,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 18957,
+      "num": 42677,
+      "word": "狂野时代部分场超30%观众提前离场",
+      "onboard_time": 1764096613,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 18912,
@@ -10049,14 +10073,6 @@
       "onboard_time": 1763842994,
       "rank": 18,
       "category": "演出"
-    },
-    {
-      "raw_hot": 18291,
-      "num": 34653,
-      "word": "小姑娘走心了小男孩还没过脑",
-      "onboard_time": 1764095835,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 18157,
