@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/26 04:31:07
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/26 04:44:14
 </p>
 </blockquote>
 <p>
@@ -7257,6 +7257,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%97%A5%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E8%AE%A8%E8%AE%BA%E6%B6%89%E5%8F%B0%E7%AB%8B%E5%9C%BA%23" target="weibo">
+美日领导人通话讨论涉台立场（热度：28523）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E5%9B%BD%E8%AF%B4%E5%94%B1%E6%AD%8C%E6%89%8B%E7%BB%91%E6%9E%B6%E7%B2%89%E4%B8%9D%E5%90%8E%E5%9B%9A%E7%A6%81%E8%99%90%E5%BE%85%23" target="weibo">
 法国说唱歌手绑架粉丝后囚禁虐待（热度：28323）
 </a>
@@ -7473,12 +7479,6 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%97%A5%E9%A2%86%E5%AF%BC%E4%BA%BA%E9%80%9A%E8%AF%9D%E8%AE%A8%E8%AE%BA%E6%B6%89%E5%8F%B0%E7%AB%8B%E5%9C%BA%23" target="weibo">
-美日领导人通话讨论涉台立场（热度：21971）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%BB%A7%E7%A7%91%E8%AF%B4%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%89%93%E7%9A%84%E6%97%A0%E6%87%88%E5%8F%AF%E5%87%BB%23" target="weibo">
 张继科说樊振东打的无懈可击（热度：21583）
 </a>
@@ -7629,6 +7629,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E5%88%BB%E6%84%8F%E5%9B%9E%E9%81%BF%E4%B8%AD%E6%96%B9%E8%A6%81%E6%B1%82%E6%94%B6%E5%9B%9E%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%23" target="weibo">
+日方刻意回避中方要求收回错误言论（热度：17352）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%89%E8%88%AA%E6%AF%8Dstyle%23" target="weibo">
 三航母style（热度：16901）
 </a>
@@ -7673,12 +7679,6 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%9F%E5%AE%A2%E6%94%BE%E8%85%8B%E6%AF%9B%E7%A2%B0%E7%93%B7%E9%A4%90%E9%A6%86%E5%8F%8D%E8%A2%AB%E7%BD%9A200%E5%85%83%23" target="weibo">
 食客放腋毛碰瓷餐馆反被罚200元（热度：15148）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%96%B9%E5%88%BB%E6%84%8F%E5%9B%9E%E9%81%BF%E4%B8%AD%E6%96%B9%E8%A6%81%E6%B1%82%E6%94%B6%E5%9B%9E%E9%94%99%E8%AF%AF%E8%A8%80%E8%AE%BA%23" target="weibo">
-日方刻意回避中方要求收回错误言论（热度：14516）
 </a>
 </li>
 
