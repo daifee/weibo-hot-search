@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 21:10:20
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 21:40:24
 </p>
 </blockquote>
 <p>
@@ -419,6 +419,12 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%B0%8A%20%E5%A4%8D%E5%87%BA%23" target="weibo">
 霍尊 复出（热度：1897138）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%23" target="weibo">
+京城大师赛（热度：1868730）
 </a>
 </li>
 
@@ -6008,12 +6014,6 @@ Kanavi道歉（热度：522586）
 </a>
 </li>
 
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%A5%A8%E6%88%BF%23" target="weibo">
-鬼灭之刃票房（热度：519757）
-</a>
-</li>
-
 </ol>
 <h2>
 正能量
@@ -6413,6 +6413,12 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E7%BE%8E%E5%BA%94%E5%85%B1%E5%90%8C%E7%BB%B4%E6%8A%A4%E5%A5%BD%E4%BA%8C%E6%88%98%E8%83%9C%E5%88%A9%E6%88%90%E6%9E%9C%23%23" target="weibo">
 #中美应共同维护好二战胜利成果#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B9%A0%E8%BF%91%E5%B9%B3%E4%BC%9A%E8%A7%81%E6%B1%A4%E5%8A%A0%E5%9B%BD%E7%8E%8B%E5%9B%BE%E6%99%AE%E5%85%AD%E4%B8%96%23%23" target="weibo">
+#习近平会见汤加国王图普六世#
 </a>
 </li>
 
