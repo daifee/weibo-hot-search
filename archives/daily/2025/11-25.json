@@ -1,9 +1,9 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764052854365,
+  "endTime": 1764053679498,
   "band_list": [
     {
-      "raw_hot": 1791303,
+      "raw_hot": 2248555,
       "num": 188788,
       "word": "林俊杰 女友",
       "onboard_time": 1764051622,
@@ -121,6 +121,14 @@
       "onboard_time": 1764045923,
       "rank": 34,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 543718,
+      "num": 543718,
+      "word": "华为发布会",
+      "onboard_time": 1764052702,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 543532,
@@ -275,6 +283,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 383348,
+      "num": 493267,
+      "word": "枭起青壤追剧团",
+      "onboard_time": 1764051981,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 369239,
       "num": 363633,
       "word": "救命药滞留前台5小时致男子身亡",
@@ -321,14 +337,6 @@
       "onboard_time": 1764035422,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 337673,
-      "num": 493267,
-      "word": "枭起青壤追剧团",
-      "onboard_time": 1764051981,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 330708,
@@ -483,6 +491,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 230845,
+      "num": 466977,
+      "word": "枭起青壤打戏",
+      "onboard_time": 1764051922,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 230662,
+      "num": 169661,
+      "word": "高市早苗回应与特朗普通话",
+      "onboard_time": 1764051082,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 230605,
       "num": 230605,
       "word": "美国一11岁男孩遭路怒司机枪击身亡",
@@ -515,12 +539,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 206394,
-      "num": 466977,
-      "word": "枭起青壤打戏",
-      "onboard_time": 1764051922,
-      "rank": 7,
-      "category": "剧集"
+      "raw_hot": 215047,
+      "num": 215047,
+      "word": "金晨陈伟霆演史密斯夫妇",
+      "onboard_time": 1764050300,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 205947,
@@ -555,6 +579,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202549,
+      "num": 459583,
+      "word": "无限暖暖",
+      "onboard_time": 1764051561,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 202390,
       "num": 443211,
       "word": "巨型吊牌成本2毛",
@@ -579,14 +611,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 192260,
-      "num": 459583,
-      "word": "无限暖暖",
-      "onboard_time": 1764051561,
-      "rank": 8,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 189829,
       "num": 230709,
       "word": "史上最严充电宝新规将落地",
@@ -595,28 +619,12 @@
       "category": "民生新闻,数码"
     },
     {
-      "raw_hot": 189767,
-      "num": 189766,
-      "word": "金晨陈伟霆演史密斯夫妇",
-      "onboard_time": 1764050300,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 187177,
       "num": 233999,
       "word": "起猛了看到张继科打混双",
       "onboard_time": 1764026298,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 186970,
-      "num": 526443,
-      "word": "华为发布会",
-      "onboard_time": 1764052702,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 185418,
@@ -657,6 +665,14 @@
       "onboard_time": 1764035119,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178703,
+      "num": 178703,
+      "word": "过度感谢 过度道歉",
+      "onboard_time": 1764050300,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 177134,
@@ -747,6 +763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 168794,
+      "num": 168794,
+      "word": "空气炸锅里不能放的东西",
+      "onboard_time": 1764048022,
+      "rank": 35,
+      "category": "美食"
+    },
+    {
       "raw_hot": 167507,
       "num": 167507,
       "word": "永远不会对东方美学祛魅",
@@ -803,12 +827,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 154795,
-      "num": 154795,
-      "word": "高市早苗回应与特朗普通话",
-      "onboard_time": 1764051082,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 156624,
+      "num": 156624,
+      "word": "高市回应与特朗普通话是否涉台",
+      "onboard_time": 1764051501,
+      "rank": 43,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154640,
@@ -827,20 +851,20 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154505,
+      "num": 154505,
+      "word": "当你有个不扫兴的家庭",
+      "onboard_time": 1764053301,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153230,
       "num": 153230,
       "word": "睡热了还知道散热的大橘子",
       "onboard_time": 1764038000,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 151001,
-      "num": 151001,
-      "word": "空气炸锅里不能放的东西",
-      "onboard_time": 1764048022,
-      "rank": 35,
-      "category": "美食"
     },
     {
       "raw_hot": 150287,
@@ -873,6 +897,22 @@
       "onboard_time": 1763996541,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143308,
+      "num": 143308,
+      "word": "易梦玲恋情公开后首现身",
+      "onboard_time": 1764052881,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 142701,
+      "num": 183406,
+      "word": "华晨宇南宁站",
+      "onboard_time": 1764053541,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 141916,
@@ -987,6 +1027,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131765,
+      "num": 181229,
+      "word": "巩俐刘亦菲赵丽颖 全女西游记",
+      "onboard_time": 1764052702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130987,
       "num": 130987,
       "word": "知道考试为什么要涂答题卡了",
@@ -1011,28 +1059,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129703,
-      "num": 129703,
-      "word": "高市回应与特朗普通话是否涉台",
-      "onboard_time": 1764051501,
-      "rank": 43,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 128716,
       "num": 128716,
       "word": "k总回应结婚圈钱",
       "onboard_time": 1764051022,
       "rank": 44,
       "category": "网红"
-    },
-    {
-      "raw_hot": 128463,
-      "num": 128463,
-      "word": "过度感谢 过度道歉",
-      "onboard_time": 1764050300,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 128004,
@@ -1180,7 +1212,7 @@
     },
     {
       "raw_hot": 109897,
-      "num": 189803,
+      "num": 193524,
       "word": "杨瀚森背靠背出战2分半",
       "onboard_time": 1764047842,
       "rank": 38,
@@ -1283,8 +1315,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103466,
+      "num": 103466,
+      "word": "郭碧婷带两个孩子台北逛街",
+      "onboard_time": 1764053425,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103193,
-      "num": 189767,
+      "num": 192379,
       "word": "库里的三分",
       "onboard_time": 1764048381,
       "rank": 34,
@@ -1315,12 +1355,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100206,
+      "num": 189610,
+      "word": "枭起青壤 反派比正派有魅力",
+      "onboard_time": 1764051922,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99274,
       "num": 99274,
       "word": "2026 文娱元年",
       "onboard_time": 1764049161,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98553,
+      "num": 190788,
+      "word": "日本磨牙16年对中国贴脸开大",
+      "onboard_time": 1764052823,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 96424,
@@ -1345,6 +1401,14 @@
       "onboard_time": 1763996603,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91424,
+      "num": 91424,
+      "word": "每天无视各种压力玩手机",
+      "onboard_time": 1764053242,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 89763,
@@ -1467,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 78326,
+      "num": 189833,
+      "word": "男子离家前跪别空无一人老家",
+      "onboard_time": 1764052521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78183,
       "num": 1278733,
       "word": "中国力争在宇宙黑暗时代等实现突破",
@@ -1563,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 64550,
+      "num": 189022,
+      "word": "日本强化进攻性部署绝非防御举动",
+      "onboard_time": 1764051622,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 62945,
       "num": 74822,
       "word": "曼联0比1埃弗顿",
@@ -1625,14 +1705,6 @@
       "onboard_time": 1764029841,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 54884,
-      "num": 189610,
-      "word": "枭起青壤 反派比正派有魅力",
-      "onboard_time": 1764051922,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 54242,
@@ -1715,14 +1787,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 42833,
-      "num": 150709,
-      "word": "巩俐刘亦菲赵丽颖 全女西游记",
-      "onboard_time": 1764052702,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 41100,
       "num": 132004,
       "word": "吴京新电影开机",
@@ -1755,14 +1819,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33972,
-      "num": 189022,
-      "word": "日本强化进攻性部署绝非防御举动",
-      "onboard_time": 1764051622,
-      "rank": 20,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 32119,
       "num": 182499,
       "word": "团播主播一天的强度吓到我了",
@@ -1787,14 +1843,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 29726,
-      "num": 150948,
-      "word": "日本磨牙16年对中国贴脸开大",
-      "onboard_time": 1764052823,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 29699,
       "num": 212725,
       "word": "狂野时代口碑",
@@ -1811,11 +1859,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 28323,
+      "num": 150464,
+      "word": "法国说唱歌手绑架粉丝后囚禁虐待",
+      "onboard_time": 1764052521,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 28253,
       "num": 1075197,
       "word": "优质主播中国行江苏站",
       "onboard_time": 1764048201,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24943,
+      "num": 150717,
+      "word": "高中学历骗子成高校首席科学家",
+      "onboard_time": 1764052521,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1867,14 +1931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20536,
-      "num": 150464,
-      "word": "法国说唱歌手绑架粉丝后囚禁虐待",
-      "onboard_time": 1764052521,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 19158,
       "num": 180471,
       "word": "老师只是低血糖不是新动作",
@@ -1899,28 +1955,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 14343,
-      "num": 189305,
-      "word": "男子离家前跪别空无一人老家",
-      "onboard_time": 1764052521,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 13822,
       "num": 139376,
       "word": "张艺兴重庆粉丝见面会",
       "onboard_time": 1763988501,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 13770,
-      "num": 150717,
-      "word": "高中学历骗子成高校首席科学家",
-      "onboard_time": 1764052521,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12196,

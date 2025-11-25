@@ -1,0 +1,410 @@
+{
+  "runTime": 1764053679498,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 635137,
+        "num": 1101622,
+        "word": "在日本留学中国学生发声",
+        "onboard_time": 1764038300,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 543718,
+        "num": 543718,
+        "word": "华为发布会",
+        "onboard_time": 1764052702,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 17595,
+        "num": 458862,
+        "word": "中国力争在宇宙黑暗时代等实现突破",
+        "onboard_time": 1764038781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 383348,
+        "num": 383348,
+        "word": "枭起青壤追剧团",
+        "onboard_time": 1764051981,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 412069,
+        "num": 356228,
+        "word": "谈到琉球日本炸锅",
+        "onboard_time": 1764048141,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 244535,
+        "num": 244535,
+        "word": "日本机场挤满回国的中国人",
+        "onboard_time": 1764036260,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 230845,
+        "num": 230845,
+        "word": "枭起青壤打戏",
+        "onboard_time": 1764051922,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215047,
+        "num": 215047,
+        "word": "金晨陈伟霆演史密斯夫妇",
+        "onboard_time": 1764050300,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202549,
+        "num": 202549,
+        "word": "无限暖暖",
+        "onboard_time": 1764051561,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110112,
+        "num": 202539,
+        "word": "神二十二发射圆满成功",
+        "onboard_time": 1764046462,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 917474,
+        "num": 201272,
+        "word": "狂野时代 退票",
+        "onboard_time": 1764047662,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362008,
+        "num": 199936,
+        "word": "华为Mate80",
+        "onboard_time": 1764045563,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 313576,
+        "num": 198149,
+        "word": "苹果已经在烤肉届杀疯了",
+        "onboard_time": 1764045143,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 251009,
+        "num": 196829,
+        "word": "王嘉尔坦言30岁后开始做医美",
+        "onboard_time": 1764045923,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211656,
+        "num": 195855,
+        "word": "马思纯张晚意合作",
+        "onboard_time": 1764045744,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152193,
+        "num": 194551,
+        "word": "黄亦玫 我前任和上司在一起了",
+        "onboard_time": 1764038660,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107555,
+        "num": 193524,
+        "word": "杨瀚森背靠背出战2分半",
+        "onboard_time": 1764047842,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87587,
+        "num": 192379,
+        "word": "库里的三分",
+        "onboard_time": 1764048381,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98553,
+        "num": 190788,
+        "word": "日本磨牙16年对中国贴脸开大",
+        "onboard_time": 1764052823,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78326,
+        "num": 189833,
+        "word": "男子离家前跪别空无一人老家",
+        "onboard_time": 1764052521,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25770,
+        "num": 188967,
+        "word": "优质主播中国行江苏站",
+        "onboard_time": 1764048201,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2248555,
+        "num": 188187,
+        "word": "林俊杰 女友",
+        "onboard_time": 1764051622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 456728,
+        "num": 186465,
+        "word": "王嘉尔喝醉了睡街上",
+        "onboard_time": 1764052103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 412646,
+        "num": 185786,
+        "word": "杜淳老婆曝天天被催债",
+        "onboard_time": 1764046702,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392775,
+        "num": 183889,
+        "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
+        "onboard_time": 1764050001,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183467,
+        "num": 183467,
+        "word": "王楚钦支持肖凯文新剧",
+        "onboard_time": 1764048501,
+        "rank": 25,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 142701,
+        "num": 183406,
+        "word": "华晨宇南宁站",
+        "onboard_time": 1764053541,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 131765,
+        "num": 181229,
+        "word": "巩俐刘亦菲赵丽颖 全女西游记",
+        "onboard_time": 1764052702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73833,
+        "num": 180408,
+        "word": "小米集团涨4.5%",
+        "onboard_time": 1764051681,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 65136,
+        "num": 179526,
+        "word": "女装直播退货率80%以上",
+        "onboard_time": 1763997323,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178703,
+        "num": 178703,
+        "word": "过度感谢 过度道歉",
+        "onboard_time": 1764050300,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 170021,
+        "num": 170021,
+        "word": "马斯克预言20年后世界",
+        "onboard_time": 1764047662,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 588801,
+        "num": 169947,
+        "word": "日本会不会偷袭中国",
+        "onboard_time": 1764042922,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 230662,
+        "num": 169661,
+        "word": "高市早苗回应与特朗普通话",
+        "onboard_time": 1764051082,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 168794,
+        "num": 168794,
+        "word": "空气炸锅里不能放的东西",
+        "onboard_time": 1764048022,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156624,
+        "num": 156624,
+        "word": "高市回应与特朗普通话是否涉台",
+        "onboard_time": 1764051501,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154505,
+        "num": 154505,
+        "word": "当你有个不扫兴的家庭",
+        "onboard_time": 1764053301,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 24943,
+        "num": 146714,
+        "word": "高中学历骗子成高校首席科学家",
+        "onboard_time": 1764052521,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28323,
+        "num": 144545,
+        "word": "法国说唱歌手绑架粉丝后囚禁虐待",
+        "onboard_time": 1764052521,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 143308,
+        "num": 143308,
+        "word": "易梦玲恋情公开后首现身",
+        "onboard_time": 1764052881,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134571,
+        "num": 134571,
+        "word": "员工入职三只松鼠咋就成了鼠辈",
+        "onboard_time": 1764045323,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100206,
+        "num": 128733,
+        "word": "枭起青壤 反派比正派有魅力",
+        "onboard_time": 1764051922,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126401,
+        "num": 126401,
+        "word": "演员李顺载去世",
+        "onboard_time": 1764030922,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123340,
+        "num": 123340,
+        "word": "特朗普要求跟高市早苗通话",
+        "onboard_time": 1764035480,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117448,
+        "num": 117448,
+        "word": "k总回应结婚圈钱",
+        "onboard_time": 1764051022,
+        "rank": 44,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 64550,
+        "num": 113906,
+        "word": "日本强化进攻性部署绝非防御举动",
+        "onboard_time": 1764051622,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110499,
+        "num": 110499,
+        "word": "他甚至连动作都是现抄的",
+        "onboard_time": 1764051322,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 103466,
+        "num": 103466,
+        "word": "郭碧婷带两个孩子台北逛街",
+        "onboard_time": 1764053425,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92710,
+        "num": 92710,
+        "word": "明日乐园开机",
+        "onboard_time": 1764047362,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91424,
+        "num": 91424,
+        "word": "每天无视各种压力玩手机",
+        "onboard_time": 1764053242,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}
