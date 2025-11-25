@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764078731738,
+  "endTime": 1764080946489,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2166502,
-      "num": 217368,
+      "num": 260371,
       "word": "林俊杰回应恋情",
       "onboard_time": 1764069081,
       "rank": 20,
@@ -91,6 +91,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1056106,
+      "num": 367339,
+      "word": "仝卓表弟在柬埔寨失联",
+      "onboard_time": 1764080002,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1007397,
       "num": 702992,
       "word": "狂野时代 退票",
@@ -137,6 +145,14 @@
       "onboard_time": 1764053962,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 917819,
+      "num": 245493,
+      "word": "京城大师赛荣耀 骂人",
+      "onboard_time": 1764079224,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 911617,
@@ -201,6 +217,14 @@
       "onboard_time": 1764045563,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 785803,
+      "num": 1125728,
+      "word": "乌克兰已原则同意美国提出的和平协议",
+      "onboard_time": 1764078323,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 751807,
@@ -281,6 +305,14 @@
       "onboard_time": 1764060141,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 571906,
+      "num": 321412,
+      "word": "日本獠牙已露",
+      "onboard_time": 1764076942,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 570275,
@@ -467,14 +499,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 410947,
-      "num": 761952,
-      "word": "乌克兰已原则同意美国提出的和平协议",
-      "onboard_time": 1764078323,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 403967,
       "num": 466977,
       "word": "枭起青壤打戏",
@@ -571,6 +595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 361354,
+      "num": 361354,
+      "word": "赵丽颖簪花被用作考公素材",
+      "onboard_time": 1764077183,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 346290,
       "num": 346290,
       "word": "李在明称朝韩随时可能爆发冲突",
@@ -588,7 +620,7 @@
     },
     {
       "raw_hot": 338710,
-      "num": 214553,
+      "num": 229806,
       "word": "汪峰大女儿疑似恋爱",
       "onboard_time": 1764075024,
       "rank": 36,
@@ -627,6 +659,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 323144,
+      "num": 239113,
+      "word": "杜克一哥20w分手费",
+      "onboard_time": 1764079823,
+      "rank": 22,
+      "category": "网红"
+    },
+    {
       "raw_hot": 318854,
       "num": 874782,
       "word": "中美元首通话是美方发起",
@@ -641,6 +681,14 @@
       "onboard_time": 1764045323,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 304495,
+      "num": 304495,
+      "word": "陈晓 我在宁古塔很想你",
+      "onboard_time": 1764076642,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 301886,
@@ -1043,14 +1091,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206568,
-      "num": 206568,
-      "word": "陈晓 我在宁古塔很想你",
-      "onboard_time": 1764076642,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 205947,
       "num": 351807,
       "word": "日本贼心不死",
@@ -1145,6 +1185,14 @@
       "onboard_time": 1764058761,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 195460,
+      "num": 195460,
+      "word": "枭起青壤热度破27000",
+      "onboard_time": 1764080303,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 193563,
@@ -1273,14 +1321,6 @@
       "onboard_time": 1764035119,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178914,
-      "num": 178914,
-      "word": "赵丽颖簪花被用作考公素材",
-      "onboard_time": 1764077183,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 178207,
@@ -1491,14 +1531,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 162417,
-      "num": 162417,
-      "word": "日本獠牙已露",
-      "onboard_time": 1764076942,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 162331,
       "num": 162331,
       "word": "易梦玲恋情公开后首现身",
@@ -1683,6 +1715,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 149971,
+      "num": 149971,
+      "word": "京城大师赛直播事故",
+      "onboard_time": 1764080002,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 149854,
       "num": 149854,
       "word": "日本持续囤积远超民用需求钚材料",
@@ -1705,6 +1745,14 @@
       "onboard_time": 1764073882,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148209,
+      "num": 148209,
+      "word": "杨紫韩东君家业剧宣",
+      "onboard_time": 1764079943,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 147735,
@@ -1745,6 +1793,14 @@
       "onboard_time": 1764053541,
       "rank": 26,
       "category": "演出"
+    },
+    {
+      "raw_hot": 142473,
+      "num": 376478,
+      "word": "朱婷恭喜郎平获终身成就奖",
+      "onboard_time": 1764079102,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 141916,
@@ -1859,6 +1915,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132448,
+      "num": 132448,
+      "word": "7旬母亲脑死亡儿女1800公里4城转运",
+      "onboard_time": 1764080542,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 132407,
       "num": 132407,
       "word": "他甚至连动作都是现抄的",
@@ -1945,6 +2009,14 @@
       "onboard_time": 1764046883,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 127921,
+      "num": 127921,
+      "word": "荣耀 小郭",
+      "onboard_time": 1764079642,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 126195,
@@ -2121,6 +2193,14 @@
       "onboard_time": 1763985261,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 115974,
+      "num": 127919,
+      "word": "高超瘦成高越了",
+      "onboard_time": 1764078862,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 115813,
@@ -2555,6 +2635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94350,
+      "num": 127871,
+      "word": "汪苏泷声生不息上班",
+      "onboard_time": 1764078983,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93969,
       "num": 321962,
       "word": "狂野时代 讲的是什么",
@@ -2577,6 +2665,14 @@
       "onboard_time": 1764061702,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92712,
+      "num": 127863,
+      "word": "哈尔滨冰雪大世界规模历届之最",
+      "onboard_time": 1764079463,
+      "rank": 49,
+      "category": "旅游"
     },
     {
       "raw_hot": 92607,
@@ -3059,6 +3155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57363,
+      "num": 775025,
+      "word": "北方降温可达8至12摄氏度",
+      "onboard_time": 1764078922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56775,
       "num": 319561,
       "word": "日本无反航母作战能力",
@@ -3251,6 +3355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32281,
+      "num": 135013,
+      "word": "严浩翔这一幕好像婚礼现场",
+      "onboard_time": 1764080604,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 32263,
       "num": 1025016,
       "word": "神二十二点火发射瞬间",
@@ -3363,6 +3475,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 23128,
+      "num": 139828,
+      "word": "官方称充电宝新规目前未定稿",
+      "onboard_time": 1764079042,
+      "rank": 36,
+      "category": "民生新闻,数码"
+    },
+    {
       "raw_hot": 22992,
       "num": 185117,
       "word": "高校宿舍凌晨起火学生称警报未响",
@@ -3443,11 +3563,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 18541,
+      "num": 136466,
+      "word": "医生谈救命药滞留前台致男子身亡",
+      "onboard_time": 1764080604,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18476,
       "num": 179700,
       "word": "七星山荒野求生决赛开启",
       "onboard_time": 1764019694,
       "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18157,
+      "num": 127910,
+      "word": "甲骨文字形似洗头走红",
+      "onboard_time": 1764079403,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
