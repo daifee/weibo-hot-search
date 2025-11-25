@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764045249914,
+  "endTime": 1764046074715,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1208862,
+      "num": 463704,
+      "word": "日本会不会偷袭中国",
+      "onboard_time": 1764042922,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1200465,
       "num": 1200465,
       "word": "2026研究生报考人数343万",
@@ -105,14 +113,6 @@
       "onboard_time": 1763979261,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1177382,
-      "num": 463704,
-      "word": "日本会不会偷袭中国",
-      "onboard_time": 1764042922,
-      "rank": 10,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1169067,
@@ -1171,6 +1171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366933,
+      "num": 366933,
+      "word": "看疯狂动物城2之前需要知道的事",
+      "onboard_time": 1764043823,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 366038,
       "num": 215184,
       "word": "时代少年团 这就是爱",
@@ -1281,6 +1289,14 @@
       "onboard_time": 1763860760,
       "rank": 14,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 343405,
+      "num": 343405,
+      "word": "单休的优点",
+      "onboard_time": 1764043882,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 342484,
@@ -1731,6 +1747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 276829,
+      "num": 176526,
+      "word": "苹果已经在烤肉届杀疯了",
+      "onboard_time": 1764045143,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275977,
       "num": 404466,
       "word": "高市早苗在G20峰会迟到近1小时",
@@ -1995,6 +2019,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 247345,
+      "num": 247647,
+      "word": "枭起青壤热度走势",
+      "onboard_time": 1764043461,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 246959,
       "num": 158683,
       "word": "男子抛下孕妻高速停车掏马蜂窝被罚",
@@ -2139,14 +2171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 229841,
-      "num": 229841,
-      "word": "单休的优点",
-      "onboard_time": 1764043882,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 229039,
       "num": 229039,
       "word": "男子杀妻后将尸体强行折叠塞行李箱",
@@ -2161,14 +2185,6 @@
       "onboard_time": 1763988802,
       "rank": 45,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 227762,
-      "num": 247647,
-      "word": "枭起青壤热度走势",
-      "onboard_time": 1764043461,
-      "rank": 17,
-      "category": "剧集"
     },
     {
       "raw_hot": 226776,
@@ -2257,6 +2273,14 @@
       "onboard_time": 1763888840,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215728,
+      "num": 215728,
+      "word": "花140万买到230平的房子",
+      "onboard_time": 1764043582,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 215590,
@@ -2443,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202243,
-      "num": 233690,
-      "word": "看疯狂动物城2之前需要知道的事",
-      "onboard_time": 1764043823,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 202079,
       "num": 193678,
       "word": "每天练背3分钟真的会瘦脸",
@@ -2520,6 +2536,14 @@
       "word": "高市早苗入场打断他国领导人发言",
       "onboard_time": 1763954842,
       "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 196651,
+      "num": 196651,
+      "word": "神舟二十二号",
+      "onboard_time": 1764045683,
+      "rank": 25,
       "category": "国内时政"
     },
     {
@@ -2907,14 +2931,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178725,
-      "num": 163130,
-      "word": "花140万买到230平的房子",
-      "onboard_time": 1764043582,
-      "rank": 30,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 178030,
       "num": 178030,
       "word": "RNGM久酷连接成功",
@@ -3187,6 +3203,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167096,
+      "num": 737150,
+      "word": "华为Mate80",
+      "onboard_time": 1764045563,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 166908,
       "num": 319760,
       "word": "日本民众回应最后2只大熊猫将回国",
@@ -3363,6 +3387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157902,
+      "num": 157902,
+      "word": "泰国65岁老妇火化前突然复活",
+      "onboard_time": 1764043521,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 157579,
       "num": 157579,
       "word": "何炅 一个严肃的音综被你们当小品在看",
@@ -3499,12 +3531,12 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 150844,
-      "num": 150844,
-      "word": "苹果已经在烤肉届杀疯了",
-      "onboard_time": 1764045143,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 150659,
+      "num": 193092,
+      "word": "马思纯张晚意合作",
+      "onboard_time": 1764045744,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 150448,
@@ -3747,6 +3779,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139425,
+      "num": 213110,
+      "word": "更懂智能的燃油车",
+      "onboard_time": 1764045803,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 139229,
       "num": 139229,
       "word": "被姥姥梳成瘦猫",
@@ -3825,14 +3865,6 @@
       "onboard_time": 1763974461,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137587,
-      "num": 137587,
-      "word": "泰国65岁老妇火化前突然复活",
-      "onboard_time": 1764043521,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 137381,
@@ -3915,6 +3947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 135086,
+      "num": 135086,
+      "word": "王嘉尔坦言30岁后开始做医美",
+      "onboard_time": 1764045923,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 134800,
       "num": 134800,
       "word": "KPL",
@@ -3979,12 +4019,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 133335,
+      "num": 183649,
+      "word": "钟汉良新剧晋江味儿太浓了",
+      "onboard_time": 1764045624,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132889,
       "num": 319942,
       "word": "枭起青壤海外热度",
       "onboard_time": 1763994203,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132239,
+      "num": 132239,
+      "word": "突然不喜欢一个喜欢了很久的人",
+      "onboard_time": 1764045323,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 132065,
@@ -4113,6 +4169,14 @@
       "onboard_time": 1763879602,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127572,
+      "num": 127572,
+      "word": "终于放弃在朋友圈证明自己过得很好",
+      "onboard_time": 1764045744,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 127407,
@@ -4539,6 +4603,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 115813,
+      "num": 475875,
+      "word": "神二十二点火发射",
+      "onboard_time": 1764044542,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 115428,
       "num": 115428,
       "word": "松鼠老爹 松鼠老母",
@@ -4585,14 +4657,6 @@
       "onboard_time": 1764042502,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114526,
-      "num": 475875,
-      "word": "神二十二点火发射",
-      "onboard_time": 1764044542,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 114330,
@@ -4673,6 +4737,14 @@
       "onboard_time": 1763911342,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 112997,
+      "num": 112997,
+      "word": "大生意人真的拍出了乱世佳人",
+      "onboard_time": 1764045203,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 112832,
@@ -4865,14 +4937,6 @@
       "onboard_time": 1763979981,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 108803,
-      "num": 108803,
-      "word": "大生意人真的拍出了乱世佳人",
-      "onboard_time": 1764045203,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 108763,
@@ -6395,6 +6459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 67054,
+      "num": 132175,
+      "word": "外交部回应中俄合作",
+      "onboard_time": 1764044542,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 66995,
       "num": 174559,
       "word": "石破茂再批高市早苗不能过一时嘴瘾",
@@ -6409,6 +6481,14 @@
       "onboard_time": 1763817803,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 66356,
+      "num": 132007,
+      "word": "迪丽热巴是时候展示真正的厨艺了",
+      "onboard_time": 1764045443,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 65472,
@@ -6616,6 +6696,14 @@
       "word": "男子钓到108发子弹以为是大鱼",
       "onboard_time": 1763906962,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 56463,
+      "num": 246060,
+      "word": "员工入职三只松鼠咋就成了鼠辈",
+      "onboard_time": 1764045323,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -6939,6 +7027,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41100,
+      "num": 132004,
+      "word": "吴京新电影开机",
+      "onboard_time": 1764045744,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40663,
       "num": 177026,
       "word": "廉价首饰致癌物超标官方已抽样送检",
@@ -7003,20 +7099,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37675,
+      "num": 246117,
+      "word": "超级猩猩回应闭店潮",
+      "onboard_time": 1764045082,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37655,
       "num": 649782,
       "word": "福建舰之大具象化了",
       "onboard_time": 1763800581,
       "rank": 2,
       "category": "军事"
-    },
-    {
-      "raw_hot": 37420,
-      "num": 170483,
-      "word": "超级猩猩回应闭店潮",
-      "onboard_time": 1764045082,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37318,
@@ -7225,14 +7321,6 @@
       "onboard_time": 1763870062,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 30765,
-      "num": 132175,
-      "word": "外交部回应中俄合作",
-      "onboard_time": 1764044542,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30012,
@@ -7681,6 +7769,14 @@
       "onboard_time": 1763933834,
       "rank": 41,
       "category": "演出"
+    },
+    {
+      "raw_hot": 12196,
+      "num": 132048,
+      "word": "一声老宝贝让7旬大爷损失10万",
+      "onboard_time": 1764045744,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12143,

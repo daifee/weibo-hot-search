@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764045249914,
+  "endTime": 1764046074715,
   "band_list": [
     {
       "raw_hot": 1527492,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1177382,
+      "raw_hot": 1208862,
       "num": 463704,
       "word": "日本会不会偷袭中国",
       "onboard_time": 1764042922,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 366933,
+      "num": 366933,
+      "word": "看疯狂动物城2之前需要知道的事",
+      "onboard_time": 1764043823,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 363703,
       "num": 314475,
       "word": "何炅急的在嘴里炒了一桌菜",
@@ -209,6 +217,14 @@
       "onboard_time": 1764037461,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 343405,
+      "num": 343405,
+      "word": "单休的优点",
+      "onboard_time": 1764043882,
+      "rank": 20,
+      "category": "情感"
     },
     {
       "raw_hot": 342484,
@@ -251,6 +267,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 276829,
+      "num": 176526,
+      "word": "苹果已经在烤肉届杀疯了",
+      "onboard_time": 1764045143,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 275131,
       "num": 275131,
       "word": "卢凌风樱桃 我们有的是力气和手段",
@@ -268,7 +292,7 @@
     },
     {
       "raw_hot": 270812,
-      "num": 270812,
+      "num": 365295,
       "word": "狂野时代票房",
       "onboard_time": 1764041722,
       "rank": 15,
@@ -307,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 247345,
+      "num": 247647,
+      "word": "枭起青壤热度走势",
+      "onboard_time": 1764043461,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239026,
       "num": 322175,
       "word": "特区政府停止与日本领事馆官方交流",
@@ -339,14 +371,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 229841,
-      "num": 229841,
-      "word": "单休的优点",
-      "onboard_time": 1764043882,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 229039,
       "num": 229039,
       "word": "男子杀妻后将尸体强行折叠塞行李箱",
@@ -355,20 +379,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 227762,
-      "num": 247647,
-      "word": "枭起青壤热度走势",
-      "onboard_time": 1764043461,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 218088,
       "num": 261371,
       "word": "警方通报网红嘉宝被行拘15天",
       "onboard_time": 1764037461,
       "rank": 16,
       "category": "辟谣/通报,网红"
+    },
+    {
+      "raw_hot": 215728,
+      "num": 215728,
+      "word": "花140万买到230平的房子",
+      "onboard_time": 1764043582,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 205947,
@@ -403,12 +427,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202243,
-      "num": 233690,
-      "word": "看疯狂动物城2之前需要知道的事",
-      "onboard_time": 1764043823,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 196651,
+      "num": 196651,
+      "word": "神舟二十二号",
+      "onboard_time": 1764045683,
+      "rank": 25,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189829,
@@ -457,14 +481,6 @@
       "onboard_time": 1764035119,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 178725,
-      "num": 163130,
-      "word": "花140万买到230平的房子",
-      "onboard_time": 1764043582,
-      "rank": 30,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 177134,
@@ -563,6 +579,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 167096,
+      "num": 737150,
+      "word": "华为Mate80",
+      "onboard_time": 1764045563,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 166059,
       "num": 235107,
       "word": "枭起青壤改编",
@@ -595,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 157902,
+      "num": 157902,
+      "word": "泰国65岁老妇火化前突然复活",
+      "onboard_time": 1764043521,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 154640,
       "num": 154640,
       "word": "高市早苗看莫迪的眼神耐人寻味",
@@ -619,12 +651,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 150844,
-      "num": 150844,
-      "word": "苹果已经在烤肉届杀疯了",
-      "onboard_time": 1764045143,
-      "rank": 32,
-      "category": "美食"
+      "raw_hot": 150659,
+      "num": 193092,
+      "word": "马思纯张晚意合作",
+      "onboard_time": 1764045744,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 150287,
@@ -667,6 +699,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 139425,
+      "num": 213110,
+      "word": "更懂智能的燃油车",
+      "onboard_time": 1764045803,
+      "rank": 22,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 138524,
       "num": 138524,
       "word": "黄子韬婚后首综",
@@ -681,14 +721,6 @@
       "onboard_time": 1764031881,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137587,
-      "num": 137587,
-      "word": "泰国65岁老妇火化前突然复活",
-      "onboard_time": 1764043521,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 137246,
@@ -723,6 +755,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135086,
+      "num": 135086,
+      "word": "王嘉尔坦言30岁后开始做医美",
+      "onboard_time": 1764045923,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133778,
       "num": 133778,
       "word": "大鹅霸凌狗崽被狗崽一家咬死",
@@ -737,6 +777,22 @@
       "onboard_time": 1764036801,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133335,
+      "num": 183649,
+      "word": "钟汉良新剧晋江味儿太浓了",
+      "onboard_time": 1764045624,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 132239,
+      "num": 132239,
+      "word": "突然不喜欢一个喜欢了很久的人",
+      "onboard_time": 1764045323,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 130987,
@@ -761,6 +817,14 @@
       "onboard_time": 1764038719,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 127572,
+      "num": 127572,
+      "word": "终于放弃在朋友圈证明自己过得很好",
+      "onboard_time": 1764045744,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 126195,
@@ -835,20 +899,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 115813,
+      "num": 475875,
+      "word": "神二十二点火发射",
+      "onboard_time": 1764044542,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114577,
       "num": 114577,
       "word": "仿版胡彦斌 我要的全偷走",
       "onboard_time": 1764042502,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114526,
-      "num": 475875,
-      "word": "神二十二点火发射",
-      "onboard_time": 1764044542,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 113668,
@@ -864,6 +928,14 @@
       "word": "范丞丞提名金莲花奖最佳男配角奖",
       "onboard_time": 1763992222,
       "rank": 17,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 112997,
+      "num": 112997,
+      "word": "大生意人真的拍出了乱世佳人",
+      "onboard_time": 1764045203,
+      "rank": 48,
       "category": "剧集"
     },
     {
@@ -905,14 +977,6 @@
       "onboard_time": 1764030622,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 108803,
-      "num": 108803,
-      "word": "大生意人真的拍出了乱世佳人",
-      "onboard_time": 1764045203,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 106317,
@@ -1147,6 +1211,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67054,
+      "num": 132175,
+      "word": "外交部回应中俄合作",
+      "onboard_time": 1764044542,
+      "rank": 38,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 66356,
+      "num": 132007,
+      "word": "迪丽热巴是时候展示真正的厨艺了",
+      "onboard_time": 1764045443,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 62945,
       "num": 74822,
       "word": "曼联0比1埃弗顿",
@@ -1201,6 +1281,14 @@
       "onboard_time": 1764002718,
       "rank": 49,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 56463,
+      "num": 246060,
+      "word": "员工入职三只松鼠咋就成了鼠辈",
+      "onboard_time": 1764045323,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55485,
@@ -1291,6 +1379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41100,
+      "num": 132004,
+      "word": "吴京新电影开机",
+      "onboard_time": 1764045744,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 38729,
       "num": 246424,
       "word": "高市2014年来参拜靖国神社超10次",
@@ -1299,8 +1395,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 37420,
-      "num": 170483,
+      "raw_hot": 37675,
+      "num": 246117,
       "word": "超级猩猩回应闭店潮",
       "onboard_time": 1764045082,
       "rank": 26,
@@ -1329,14 +1425,6 @@
       "onboard_time": 1764022755,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30765,
-      "num": 132175,
-      "word": "外交部回应中俄合作",
-      "onboard_time": 1764044542,
-      "rank": 38,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30629,
@@ -1433,6 +1521,14 @@
       "onboard_time": 1763988501,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12196,
+      "num": 132048,
+      "word": "一声老宝贝让7旬大爷损失10万",
+      "onboard_time": 1764045744,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 12143,

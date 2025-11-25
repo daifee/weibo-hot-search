@@ -1,0 +1,410 @@
+{
+  "runTime": 1764046074715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1212234,
+        "num": 1212234,
+        "word": "在日本留学中国学生发声",
+        "onboard_time": 1764038300,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 167096,
+        "num": 737150,
+        "word": "华为Mate80",
+        "onboard_time": 1764045563,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59695,
+        "num": 597204,
+        "word": "中国力争在宇宙黑暗时代等实现突破",
+        "onboard_time": 1764038781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470393,
+        "num": 470393,
+        "word": "特朗普要求跟高市早苗通话",
+        "onboard_time": 1764035480,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240934,
+        "num": 466542,
+        "word": "专家称牛市第五浪将涨到你不信",
+        "onboard_time": 1764042381,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 464056,
+        "num": 464056,
+        "word": "日本机场挤满回国的中国人",
+        "onboard_time": 1764036260,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 657506,
+        "num": 454112,
+        "word": "黄亦玫 我前任和上司在一起了",
+        "onboard_time": 1764038660,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 366933,
+        "num": 366933,
+        "word": "看疯狂动物城2之前需要知道的事",
+        "onboard_time": 1764043823,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267332,
+        "num": 365295,
+        "word": "狂野时代票房",
+        "onboard_time": 1764041722,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201451,
+        "num": 361731,
+        "word": "光遇复刻",
+        "onboard_time": 1764043402,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1208862,
+        "num": 355016,
+        "word": "日本会不会偷袭中国",
+        "onboard_time": 1764042922,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 471702,
+        "num": 348819,
+        "word": "苹果夹烤肉",
+        "onboard_time": 1764041301,
+        "rank": 11,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 426327,
+        "num": 347809,
+        "word": "演员李顺载去世",
+        "onboard_time": 1764030922,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 343405,
+        "num": 343405,
+        "word": "单休的优点",
+        "onboard_time": 1764043882,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 331640,
+        "num": 331640,
+        "word": "日本又迈出凶险一步",
+        "onboard_time": 1764039259,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 115813,
+        "num": 250959,
+        "word": "神二十二点火发射",
+        "onboard_time": 1764044542,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 247345,
+        "num": 247345,
+        "word": "枭起青壤热度走势",
+        "onboard_time": 1764043461,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277656,
+        "num": 247074,
+        "word": "何炅急的在嘴里炒了一桌菜",
+        "onboard_time": 1764039800,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37675,
+        "num": 246117,
+        "word": "超级猩猩回应闭店潮",
+        "onboard_time": 1764045082,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56463,
+        "num": 246060,
+        "word": "员工入职三只松鼠咋就成了鼠辈",
+        "onboard_time": 1764045323,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246043,
+        "num": 246043,
+        "word": "杨紫香蜜沉沉烬如霜爱奇艺双榜一",
+        "onboard_time": 1764040041,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215728,
+        "num": 215728,
+        "word": "花140万买到230平的房子",
+        "onboard_time": 1764043582,
+        "rank": 21,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 139425,
+        "num": 213110,
+        "word": "更懂智能的燃油车",
+        "onboard_time": 1764045803,
+        "rank": 22,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 212570,
+        "num": 212570,
+        "word": "乌克兰男子遭强制征兵当场自爆",
+        "onboard_time": 1764033621,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212114,
+        "num": 212114,
+        "word": "女装直播退货率80%以上",
+        "onboard_time": 1763997323,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196651,
+        "num": 196651,
+        "word": "神舟二十二号",
+        "onboard_time": 1764045683,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 150659,
+        "num": 193092,
+        "word": "马思纯张晚意合作",
+        "onboard_time": 1764045744,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136976,
+        "num": 187420,
+        "word": "枭起青壤改编",
+        "onboard_time": 1764041601,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133335,
+        "num": 183649,
+        "word": "钟汉良新剧晋江味儿太浓了",
+        "onboard_time": 1764045624,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122764,
+        "num": 178367,
+        "word": "神22点火瞬间",
+        "onboard_time": 1764043882,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276829,
+        "num": 176526,
+        "word": "苹果已经在烤肉届杀疯了",
+        "onboard_time": 1764045143,
+        "rank": 30,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 172010,
+        "num": 172010,
+        "word": "上海全是主理人 贵州全是创始人",
+        "onboard_time": 1764043162,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 157902,
+        "num": 157902,
+        "word": "泰国65岁老妇火化前突然复活",
+        "onboard_time": 1764043521,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150666,
+        "num": 150666,
+        "word": "樊振东德甲开开心心上下班",
+        "onboard_time": 1764044302,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135086,
+        "num": 135086,
+        "word": "王嘉尔坦言30岁后开始做医美",
+        "onboard_time": 1764045923,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133930,
+        "num": 133930,
+        "word": "李在明称朝韩随时可能爆发冲突",
+        "onboard_time": 1764037461,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132239,
+        "num": 132239,
+        "word": "突然不喜欢一个喜欢了很久的人",
+        "onboard_time": 1764045323,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 12196,
+        "num": 132048,
+        "word": "一声老宝贝让7旬大爷损失10万",
+        "onboard_time": 1764045744,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66356,
+        "num": 132007,
+        "word": "迪丽热巴是时候展示真正的厨艺了",
+        "onboard_time": 1764045443,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41100,
+        "num": 132004,
+        "word": "吴京新电影开机",
+        "onboard_time": 1764045744,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132002,
+        "num": 132002,
+        "word": "易烊千玺吻戏",
+        "onboard_time": 1764038719,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127912,
+        "num": 127912,
+        "word": "日本持续囤积远超民用需求钚材料",
+        "onboard_time": 1764043102,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114800,
+        "num": 127711,
+        "word": "史上最严充电宝新规将落地",
+        "onboard_time": 1764041542,
+        "rank": 42,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 127572,
+        "num": 127572,
+        "word": "终于放弃在朋友圈证明自己过得很好",
+        "onboard_time": 1764045744,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119219,
+        "num": 119219,
+        "word": "白天和晚上睡觉的区别",
+        "onboard_time": 1764040280,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114745,
+        "num": 114745,
+        "word": "刘耀文穿睡衣跳猪猪侠",
+        "onboard_time": 1764043042,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96014,
+        "num": 113634,
+        "word": "武大靖说米兰冬奥中国短道队全上榜",
+        "onboard_time": 1764039441,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 67054,
+        "num": 113234,
+        "word": "外交部回应中俄合作",
+        "onboard_time": 1764044542,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112997,
+        "num": 112997,
+        "word": "大生意人真的拍出了乱世佳人",
+        "onboard_time": 1764045203,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111086,
+        "num": 111086,
+        "word": "高市早苗G20峰会上演外交灾难",
+        "onboard_time": 1763999600,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美应共同维护好二战胜利成果#"
+    }
+  }
+}
