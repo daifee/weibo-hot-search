@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764085529285,
+  "endTime": 1764088644666,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -675,6 +675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 661093,
+      "num": 1073003,
+      "word": "法考成绩",
+      "onboard_time": 1764084681,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 649965,
       "num": 287635,
       "word": "胡彦斌方声明",
@@ -1267,14 +1275,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 456273,
-      "num": 1073003,
-      "word": "法考成绩",
-      "onboard_time": 1764084681,
-      "rank": 0,
-      "category": "教育"
-    },
-    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -1481,6 +1481,14 @@
       "onboard_time": 1763969961,
       "rank": 42,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 395601,
+      "num": 284556,
+      "word": "霸王茶姬为什么半年不出新品了",
+      "onboard_time": 1764083781,
+      "rank": 19,
+      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 395231,
@@ -1899,6 +1907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 321564,
+      "num": 147232,
+      "word": "汪峰大女儿超模基因",
+      "onboard_time": 1764084560,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 321270,
       "num": 876472,
       "word": "网红手作玩具 健康刺客",
@@ -2227,14 +2243,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 284556,
-      "num": 284556,
-      "word": "霸王茶姬为什么半年不出新品了",
-      "onboard_time": 1764083781,
-      "rank": 19,
-      "category": "民生新闻,美食"
-    },
-    {
       "raw_hot": 284467,
       "num": 188439,
       "word": "高市65%支持率传递危险信号",
@@ -2409,6 +2417,14 @@
       "onboard_time": 1763885601,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 266095,
+      "num": 207995,
+      "word": "名侦探学院",
+      "onboard_time": 1764086361,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 263467,
@@ -3425,6 +3441,14 @@
       "onboard_time": 1763991263,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 193205,
+      "num": 193205,
+      "word": "环保少女和同伴将威尼斯大运河染绿",
+      "onboard_time": 1764086243,
+      "rank": 4,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 193183,
@@ -4747,14 +4771,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147232,
-      "num": 147232,
-      "word": "汪峰大女儿超模基因",
-      "onboard_time": 1764084560,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146923,
       "num": 187169,
       "word": "日本曾屠杀60万台湾人",
@@ -4841,6 +4857,14 @@
       "onboard_time": 1763954600,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 143469,
+      "num": 143469,
+      "word": "六旬老人连做14个单杠大回环心梗离世",
+      "onboard_time": 1764086600,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 142916,
@@ -5963,6 +5987,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116627,
+      "num": 116627,
+      "word": "山姆上线薛记炒货引争议",
+      "onboard_time": 1764085580,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116490,
       "num": 116490,
       "word": "王赫野裤子里怎么有个衣架",
@@ -6595,6 +6627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106783,
+      "num": 106783,
+      "word": "西方媒体质疑高市早苗",
+      "onboard_time": 1764083122,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106592,
       "num": 157951,
       "word": "0人看完这4集能不笑纳",
@@ -6620,7 +6660,7 @@
     },
     {
       "raw_hot": 106558,
-      "num": 106558,
+      "num": 106714,
       "word": "只有健身的人才懂她有多厉害",
       "onboard_time": 1764084741,
       "rank": 36,
@@ -6897,14 +6937,6 @@
       "onboard_time": 1763888840,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102314,
-      "num": 102314,
-      "word": "西方媒体质疑高市早苗",
-      "onboard_time": 1764083122,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101998,
@@ -7548,7 +7580,7 @@
     },
     {
       "raw_hot": 92208,
-      "num": 92208,
+      "num": 106757,
       "word": "Tian得知Peyz去T1被震惊到",
       "onboard_time": 1764084023,
       "rank": 42,
@@ -8411,11 +8443,27 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 69909,
+      "num": 106754,
+      "word": "何广智VaVa打起来了",
+      "onboard_time": 1764086480,
+      "rank": 37,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 69687,
       "num": 320421,
       "word": "张桂源少年人夫感",
       "onboard_time": 1763999180,
       "rank": 37,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 69295,
+      "num": 106744,
+      "word": "20岁小苹果身高已超1米7",
+      "onboard_time": 1764088159,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -8537,6 +8585,14 @@
       "onboard_time": 1763976021,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64246,
+      "num": 106724,
+      "word": "王俊凯老干部风",
+      "onboard_time": 1764087080,
+      "rank": 41,
+      "category": "艺人,时尚"
     },
     {
       "raw_hot": 64189,
@@ -8820,7 +8876,7 @@
     },
     {
       "raw_hot": 54202,
-      "num": 101736,
+      "num": 106680,
       "word": "央视调查天价抗癌针真相",
       "onboard_time": 1764082463,
       "rank": 39,
@@ -9195,6 +9251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 39698,
+      "num": 106687,
+      "word": "阿里CEO称3年内不太可能出现AI泡沫",
+      "onboard_time": 1764085520,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 39582,
       "num": 136466,
       "word": "医生谈救命药滞留前台致男子身亡",
@@ -9361,6 +9425,14 @@
       "onboard_time": 1763931733,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 33223,
+      "num": 106677,
+      "word": "英伟达开盘跌超4%",
+      "onboard_time": 1764085580,
+      "rank": 49,
+      "category": "财经"
     },
     {
       "raw_hot": 33159,
