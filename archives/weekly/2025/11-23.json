@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764059860285,
+  "endTime": 1764060658263,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2199943,
-      "num": 257182,
+      "num": 261846,
       "word": "曝林俊杰女友是七七",
       "onboard_time": 1764056362,
       "rank": 44,
@@ -316,7 +316,7 @@
     },
     {
       "raw_hot": 871514,
-      "num": 449199,
+      "num": 459373,
       "word": "枭起青壤直播",
       "onboard_time": 1764058042,
       "rank": 3,
@@ -476,7 +476,7 @@
     },
     {
       "raw_hot": 709014,
-      "num": 361660,
+      "num": 362828,
       "word": "过度感谢 过度道歉",
       "onboard_time": 1764050300,
       "rank": 45,
@@ -955,12 +955,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 486065,
+      "raw_hot": 489238,
       "num": 436664,
       "word": "iG Uzi",
       "onboard_time": 1764056002,
       "rank": 25,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 482714,
+      "num": 482714,
+      "word": "麒麟9030",
+      "onboard_time": 1764057262,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 482404,
@@ -1067,20 +1075,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 459360,
-      "num": 459360,
-      "word": "麒麟9030",
-      "onboard_time": 1764057262,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 457899,
       "num": 457899,
       "word": "豆瓣崩了",
       "onboard_time": 1763995103,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 456958,
+      "num": 261388,
+      "word": "曝施柏宇延误拍戏惹怒剧组",
+      "onboard_time": 1764059302,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 456351,
@@ -1401,6 +1409,14 @@
       "onboard_time": 1764039800,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 361439,
+      "num": 361439,
+      "word": "短剧里生孩子 演员信念感",
+      "onboard_time": 1764059781,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 361326,
@@ -2243,14 +2259,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 249048,
-      "num": 249048,
-      "word": "曝施柏宇延误拍戏惹怒剧组",
-      "onboard_time": 1764059302,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248642,
       "num": 248642,
       "word": "粉笔模考",
@@ -2337,6 +2345,14 @@
       "onboard_time": 1763973921,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 240031,
+      "num": 417868,
+      "word": "外交部回应中美元首通话",
+      "onboard_time": 1764059360,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 239026,
@@ -2515,6 +2531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 217188,
+      "num": 217188,
+      "word": "杜克给一哥共计超过300万塔卡",
+      "onboard_time": 1764059182,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 216716,
       "num": 216716,
       "word": "A股",
@@ -2609,6 +2633,14 @@
       "onboard_time": 1763868261,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 211835,
+      "num": 211835,
+      "word": "陈星旭伸手扶迪丽热巴下台阶",
+      "onboard_time": 1764060023,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 211671,
@@ -2817,6 +2849,14 @@
       "onboard_time": 1763912302,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200004,
+      "num": 260381,
+      "word": "狂野时代 离场率",
+      "onboard_time": 1764060081,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 198973,
@@ -3139,14 +3179,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 186595,
-      "num": 186595,
-      "word": "杜克给一哥共计超过300万塔卡",
-      "onboard_time": 1764059182,
-      "rank": 43,
-      "category": "网红"
-    },
-    {
       "raw_hot": 186553,
       "num": 186553,
       "word": "孙俪转发陈晓梦回那年花开月正圆",
@@ -3299,14 +3331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178359,
-      "num": 178359,
-      "word": "短剧里生孩子 演员信念感",
-      "onboard_time": 1764059781,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 178030,
       "num": 178030,
       "word": "RNGM久酷连接成功",
@@ -3443,6 +3467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 173104,
+      "num": 173104,
+      "word": "樊振东王曼昱登乒乓世界封面",
+      "onboard_time": 1764060261,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 172080,
       "num": 159360,
       "word": "张真源终于吃上心心念念的宝贝猪了",
@@ -3497,6 +3529,14 @@
       "onboard_time": 1763949140,
       "rank": 25,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 171033,
+      "num": 171033,
+      "word": "王鹤棣 callme我去干死他",
+      "onboard_time": 1764060322,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 170827,
@@ -3617,6 +3657,14 @@
       "onboard_time": 1763979200,
       "rank": 28,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 166782,
+      "num": 166782,
+      "word": "大帅如愿和男神小落合照了",
+      "onboard_time": 1764060261,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 166767,
@@ -3939,20 +3987,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 152229,
-      "num": 277264,
-      "word": "外交部回应中美元首通话",
-      "onboard_time": 1764059360,
-      "rank": 16,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 152198,
       "num": 137174,
       "word": "唐朝诡事录",
       "onboard_time": 1763871141,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 152043,
+      "num": 196769,
+      "word": "杭州机场健全印度人坐轮椅",
+      "onboard_time": 1764059302,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152011,
@@ -4201,6 +4249,14 @@
       "onboard_time": 1763874499,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140722,
+      "num": 363488,
+      "word": "中美元首通话是美方发起",
+      "onboard_time": 1764059542,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 140584,
@@ -4795,6 +4851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 124589,
+      "num": 210181,
+      "word": "霍建华 年纪大受不了你们这样",
+      "onboard_time": 1764059961,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124406,
       "num": 149567,
       "word": "河边的错误含金量",
@@ -5195,6 +5259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114656,
+      "num": 259511,
+      "word": "中方暂停日本电影在华上映审批",
+      "onboard_time": 1764060201,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 114577,
       "num": 114577,
       "word": "仿版胡彦斌 我要的全偷走",
@@ -5500,7 +5572,7 @@
     },
     {
       "raw_hot": 108777,
-      "num": 236586,
+      "num": 258348,
       "word": "神21乘组未来坐神22返回",
       "onboard_time": 1764059720,
       "rank": 27,
@@ -5881,6 +5953,14 @@
       "onboard_time": 1763897900,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102921,
+      "num": 207321,
+      "word": "华为紫金表王上新",
+      "onboard_time": 1764059601,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 102912,
@@ -6307,14 +6387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 94888,
-      "num": 197599,
-      "word": "华为紫金表王上新",
-      "onboard_time": 1764059601,
-      "rank": 36,
-      "category": "数码"
-    },
-    {
       "raw_hot": 94655,
       "num": 151911,
       "word": "梅尼耶女友秀恩爱",
@@ -6716,7 +6788,7 @@
     },
     {
       "raw_hot": 85334,
-      "num": 224351,
+      "num": 258062,
       "word": "华为Mate80RS搭载双面昆仑玻璃",
       "onboard_time": 1764059601,
       "rank": 28,
@@ -6764,19 +6836,11 @@
     },
     {
       "raw_hot": 84131,
-      "num": 222301,
+      "num": 256730,
       "word": "Mate80视频能力再突破",
       "onboard_time": 1764057262,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 83331,
-      "num": 196769,
-      "word": "杭州机场健全印度人坐轮椅",
-      "onboard_time": 1764059302,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 83052,
@@ -6867,14 +6931,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81410,
-      "num": 263978,
-      "word": "中美元首通话是美方发起",
-      "onboard_time": 1764059542,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81275,
       "num": 81275,
       "word": "高市社交账号帖文引日本网民怒批",
@@ -6897,6 +6953,14 @@
       "onboard_time": 1763884460,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80835,
+      "num": 471627,
+      "word": "流感高发季防护指南来了",
+      "onboard_time": 1764059840,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80803,
@@ -7067,6 +7131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74497,
+      "num": 209307,
+      "word": "苏有朋说和庾澄庆中间走失了一段时间",
+      "onboard_time": 1764060501,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 74495,
       "num": 794433,
       "word": "这26秒科技感直接拉满",
@@ -7177,6 +7249,14 @@
       "onboard_time": 1763999180,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68912,
+      "num": 262794,
+      "word": "鸡排哥流量狂欢接近尾声",
+      "onboard_time": 1764060141,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68240,
@@ -7329,6 +7409,14 @@
       "onboard_time": 1763832438,
       "rank": 45,
       "category": "电影,动漫"
+    },
+    {
+      "raw_hot": 61104,
+      "num": 263566,
+      "word": "华为折叠屏首发A2A智能体协作",
+      "onboard_time": 1764060081,
+      "rank": 17,
+      "category": "数码"
     },
     {
       "raw_hot": 60980,
@@ -8491,6 +8579,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17551,
+      "num": 211670,
+      "word": "韩国男教练为女选手裹毛毯引争议",
+      "onboard_time": 1764060561,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 17420,
       "num": 108649,
       "word": "50万草书大奖被取消当事人已申诉",
@@ -8545,6 +8641,14 @@
       "onboard_time": 1763888961,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14494,
+      "num": 257536,
+      "word": "原来这就叫鬼迷日眼",
+      "onboard_time": 1764060501,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14227,
@@ -8633,14 +8737,6 @@
       "onboard_time": 1763967080,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 7204,
-      "num": 450486,
-      "word": "流感高发季防护指南来了",
-      "onboard_time": 1764059840,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 5956,
