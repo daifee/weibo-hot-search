@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 19:25:34
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 19:39:18
 </p>
 </blockquote>
 <p>
@@ -345,6 +345,12 @@ KT战胜GEN（热度：2334332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%23" target="weibo">
+林俊杰回应恋情（热度：2166502）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%B7%E7%BE%8E%E4%BA%BA%E9%80%80%E8%B5%9B%23" target="weibo">
 冷美人退赛（热度：2159884）
 </a>
@@ -641,12 +647,6 @@ Faker六冠王（热度：1654581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
 枭起青壤（热度：1564838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%23" target="weibo">
-林俊杰回应恋情（热度：1562740）
 </a>
 </li>
 
@@ -4461,6 +4461,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E5%BE%97%E7%9F%A5%E6%AF%9B%E5%B2%B8%E8%8B%B1%E6%AD%BB%E8%AE%AF%E5%90%8E%E5%BC%BA%E5%BF%8D%E6%B3%AA%E6%B0%B4%23" target="weibo">
+毛主席得知毛岸英死讯后强忍泪水（热度：617196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC%23" target="weibo">
 朝鲜举行国葬（热度：616933）
 </a>
@@ -6005,12 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E4%B8%8D%E6%95%A2%E5%9D%90%E5%9C%A8%E5%A4%A7%E6%98%8E%E6%98%9F%E6%97%81%E8%BE%B9%23" target="weibo">
 杨幂 不敢坐在大明星旁边（热度：518998）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E7%99%BD%20%E7%8E%8B%E6%98%9F%E8%B6%8A%23" target="weibo">
-告白 王星越（热度：518464）
 </a>
 </li>
 

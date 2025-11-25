@@ -1,0 +1,410 @@
+{
+  "runTime": 1764070758718,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 310845,
+        "num": 1049735,
+        "word": "中方暂停日本电影在华上映审批",
+        "onboard_time": 1764060201,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32263,
+        "num": 1025016,
+        "word": "神二十二点火发射瞬间",
+        "onboard_time": 1764070223,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 65854,
+        "num": 748241,
+        "word": "流感高发季防护指南来了",
+        "onboard_time": 1764059840,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135338,
+        "num": 601435,
+        "word": "蔚来财报",
+        "onboard_time": 1764070581,
+        "rank": 3,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 129038,
+        "num": 419667,
+        "word": "华为非凡大师手表售价24999元",
+        "onboard_time": 1764063201,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 352319,
+        "num": 352319,
+        "word": "充电宝3C认证将全面失效",
+        "onboard_time": 1764061881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257014,
+        "num": 257014,
+        "word": "真有剧拍出流放宁古塔了",
+        "onboard_time": 1764069441,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229842,
+        "num": 229842,
+        "word": "佛山音乐节",
+        "onboard_time": 1764067402,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 229780,
+        "num": 229780,
+        "word": "明年起遛狗不拴绳最高拘10天罚1千",
+        "onboard_time": 1764068423,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204844,
+        "num": 229387,
+        "word": "充电宝 涨价",
+        "onboard_time": 1764069200,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1141549,
+        "num": 229085,
+        "word": "中国一男子在日本关西机场坠亡",
+        "onboard_time": 1764067641,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 644304,
+        "num": 228630,
+        "word": "新加坡为何敢对中日争端指手画脚",
+        "onboard_time": 1764064882,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 612691,
+        "num": 227869,
+        "word": "小鱼海棠产后不到一年瘦至90斤",
+        "onboard_time": 1764065902,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 475959,
+        "num": 227080,
+        "word": "把公积金当成份子钱送出去了",
+        "onboard_time": 1764064401,
+        "rank": 13,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 376289,
+        "num": 226888,
+        "word": "霍建华 年纪大受不了你们这样",
+        "onboard_time": 1764059961,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290527,
+        "num": 226204,
+        "word": "迪丽热巴 枭完你的枭你的",
+        "onboard_time": 1764069441,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 225781,
+        "num": 225781,
+        "word": "香港海岛发现一男一女两浮尸",
+        "onboard_time": 1764065362,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213252,
+        "num": 213252,
+        "word": "张峻豪工作人员偷拍艺人换衣服给粉丝",
+        "onboard_time": 1764070103,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209785,
+        "num": 209785,
+        "word": "神舟二十号裂纹有救了",
+        "onboard_time": 1764064822,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 164298,
+        "num": 209784,
+        "word": "枭起青壤打戏",
+        "onboard_time": 1764051922,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176052,
+        "num": 207546,
+        "word": "Peyz首播",
+        "onboard_time": 1764069441,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 84614,
+        "num": 203521,
+        "word": "中国机器人或将能吃出辣椒有多辣",
+        "onboard_time": 1764067581,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 2166502,
+        "num": 201174,
+        "word": "林俊杰回应恋情",
+        "onboard_time": 1764069081,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 385895,
+        "num": 200824,
+        "word": "英国偶遇窦骁何超莲",
+        "onboard_time": 1764062424,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198878,
+        "num": 198878,
+        "word": "大生意人",
+        "onboard_time": 1764069743,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195706,
+        "num": 195706,
+        "word": "Mate80价格",
+        "onboard_time": 1764055881,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169651,
+        "num": 169651,
+        "word": "鸡排哥流量狂欢接近尾声",
+        "onboard_time": 1764060141,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154714,
+        "num": 154714,
+        "word": "春节档 激烈",
+        "onboard_time": 1764053962,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116114,
+        "num": 152964,
+        "word": "狂野时代 离场率",
+        "onboard_time": 1764060081,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111271,
+        "num": 147824,
+        "word": "枭起青壤直播",
+        "onboard_time": 1764058042,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 864146,
+        "num": 142418,
+        "word": "曝林俊杰女友是七七",
+        "onboard_time": 1764056362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 617196,
+        "num": 136629,
+        "word": "毛主席得知毛岸英死讯后强忍泪水",
+        "onboard_time": 1764069921,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188201,
+        "num": 131827,
+        "word": "原来熬夜伤害可以这样抵消",
+        "onboard_time": 1764069561,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 182309,
+        "num": 130283,
+        "word": "黄雅琼婉拒王昶梁伟铿当娘家人",
+        "onboard_time": 1764070401,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100083,
+        "num": 125768,
+        "word": "枭起青壤的编剧",
+        "onboard_time": 1764068659,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122413,
+        "num": 122413,
+        "word": "日本熊本5.8级地震",
+        "onboard_time": 1764069320,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 100526,
+        "num": 121820,
+        "word": "日本钚材料约可制造6千枚核弹",
+        "onboard_time": 1764068781,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 121385,
+        "num": 121385,
+        "word": "卢昱晓 好有灵气的文字",
+        "onboard_time": 1764065122,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33159,
+        "num": 118135,
+        "word": "彭昱畅还是太想当男主了",
+        "onboard_time": 1764070161,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30579,
+        "num": 117874,
+        "word": "刘耀文 最要面子的每次都没面子",
+        "onboard_time": 1764069921,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 117834,
+        "num": 117834,
+        "word": "中彩票后先捐款再交税到手钱更多",
+        "onboard_time": 1764070041,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113211,
+        "num": 113211,
+        "word": "iG与AL八人入围全明星正赛",
+        "onboard_time": 1764070462,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 108492,
+        "num": 108492,
+        "word": "郭碧婷帮谢依霖报仇",
+        "onboard_time": 1764070643,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104434,
+        "num": 104434,
+        "word": "麒麟9030",
+        "onboard_time": 1764057262,
+        "rank": 43,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 101146,
+        "num": 101146,
+        "word": "Peyz谈加入T1",
+        "onboard_time": 1764070161,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100863,
+        "num": 100863,
+        "word": "尾鱼女主选角完全降维打击",
+        "onboard_time": 1764070522,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97692,
+        "num": 97692,
+        "word": "雷军回应小米再捐5500万",
+        "onboard_time": 1764070701,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 96921,
+        "num": 96921,
+        "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
+        "onboard_time": 1764050001,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94581,
+        "num": 94581,
+        "word": "光遇",
+        "onboard_time": 1764069441,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88493,
+        "num": 94176,
+        "word": "中国麻辣串在首尔火了",
+        "onboard_time": 1764068722,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美应共同维护好二战胜利成果#"
+    }
+  }
+}
