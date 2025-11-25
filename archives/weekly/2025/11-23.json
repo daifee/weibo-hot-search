@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764103454367,
+  "endTime": 1764105937522,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -9211,6 +9211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42439,
+      "num": 34326,
+      "word": "美日领导人通话讨论涉台立场",
+      "onboard_time": 1764100334,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 42072,
       "num": 97177,
       "word": "国考考点",
@@ -9659,14 +9667,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 28523,
-      "num": 32750,
-      "word": "美日领导人通话讨论涉台立场",
-      "onboard_time": 1764100334,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28323,
       "num": 150464,
       "word": "法国说唱歌手绑架粉丝后囚禁虐待",
@@ -10043,12 +10043,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 19855,
+      "num": 25478,
+      "word": "日方刻意回避中方要求收回错误言论",
+      "onboard_time": 1764101773,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19569,
       "num": 42621,
       "word": "不会画眉毛的姐妹有救了",
       "onboard_time": 1764094036,
       "rank": 45,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 19419,
+      "num": 19419,
+      "word": "流感高峰时间已确定",
+      "onboard_time": 1764104053,
+      "rank": 32,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 19325,
@@ -10155,14 +10171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17352,
-      "num": 25478,
-      "word": "日方刻意回避中方要求收回错误言论",
-      "onboard_time": 1764101773,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 16901,
       "num": 342214,
       "word": "三航母style",
@@ -10225,6 +10233,14 @@
       "onboard_time": 1763888961,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14854,
+      "num": 18352,
+      "word": "总算知道为啥两元店能赚钱了",
+      "onboard_time": 1764104593,
+      "rank": 40,
+      "category": "休闲"
     },
     {
       "raw_hot": 14494,
