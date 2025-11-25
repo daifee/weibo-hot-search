@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/26 00:37:24 ~ 2025/11/26 00:53:22
+本榜单时间：2025/11/26 00:37:24 ~ 2025/11/26 01:27:16
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E4%B8%8A%E7%BA%BF%E8%96%9B%E8%AE%B0%E7%82%92%E8%B4%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+山姆上线薛记炒货引争议（热度：124321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%20%E6%9E%AD%E5%AE%8C%E4%BD%A0%E7%9A%84%E6%9E%AD%E4%BD%A0%E7%9A%84%23" target="weibo">
 迪丽热巴 枭完你的枭你的（热度：122954）
 </a>
@@ -161,12 +167,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B1%BC%E6%B5%B7%E6%A3%A0%E4%BA%A7%E5%90%8E%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E7%98%A6%E8%87%B390%E6%96%A4%23" target="weibo">
 小鱼海棠产后不到一年瘦至90斤（热度：117093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E4%B8%8A%E7%BA%BF%E8%96%9B%E8%AE%B0%E7%82%92%E8%B4%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-山姆上线薛记炒货引争议（热度：116627）
 </a>
 </li>
 
@@ -220,7 +220,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%E7%9B%B4%E6%92%AD%E4%BA%8B%E6%95%85%23" target="weibo">
-京城大师赛直播事故（热度：72601）
+京城大师赛直播事故（热度：81250）
 </a>
 </li>
 
@@ -251,6 +251,12 @@ Tian得知Peyz去T1被震惊到（热度：71297）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%B6%85%E7%98%A6%E6%88%90%E9%AB%98%E8%B6%8A%E4%BA%86%23" target="weibo">
 高超瘦成高越了（热度：67722）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%BC%94%E5%91%98%E5%92%8C68%E5%B2%81%E5%A7%90%E5%A7%90%E6%8B%8D%E5%A7%90%E5%BC%9F%E6%81%8B%E7%9F%AD%E5%89%A7%23" target="weibo">
+男演员和68岁姐姐拍姐弟恋短剧（热度：65742）
 </a>
 </li>
 
@@ -291,6 +297,18 @@ Tian得知Peyz去T1被震惊到（热度：71297）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E7%8B%90%E5%85%94CP%23" target="weibo">
+疯狂动物城 狐兔CP（热度：49014）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%87%AA%E7%84%B6%E7%8E%A9%E7%88%BD%E4%BA%86%23" target="weibo">
+超自然玩爽了（热度：43773）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%B8%AE%E8%B0%A2%E4%BE%9D%E9%9C%96%E6%8A%A5%E4%BB%87%23" target="weibo">
 郭碧婷帮谢依霖报仇（热度：40501）
 </a>
@@ -327,8 +345,14 @@ Tian得知Peyz去T1被震惊到（热度：71297）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%87%AA%E7%84%B6%E7%8E%A9%E7%88%BD%E4%BA%86%23" target="weibo">
-超自然玩爽了（热度：30690）
+<a href="https://s.weibo.com/weibo?q=%23%E8%8D%A3%E8%80%80%20%E5%B0%8F%E9%83%AD%23" target="weibo">
+荣耀 小郭（热度：31830）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%E5%9C%A8%E4%B9%B0%E8%BD%A6%E4%B8%8A%E4%B8%80%E8%87%B4%E4%BA%86%23" target="weibo">
+两代人的消费观在买车上一致了（热度：28429）
 </a>
 </li>
 

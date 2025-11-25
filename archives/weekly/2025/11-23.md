@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/26 00:53:22
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/26 01:27:16
 </p>
 </blockquote>
 <p>
@@ -4233,6 +4233,12 @@ LASER只为春逢生（热度：125713）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E4%B8%8A%E7%BA%BF%E8%96%9B%E8%AE%B0%E7%82%92%E8%B4%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
+山姆上线薛记炒货引争议（热度：124321）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%86%AC%E6%9C%893%E4%BB%B6%E7%BE%BD%E7%BB%92%E6%9C%8D%E5%B0%B1%E5%A4%9F%E4%BA%86%23" target="weibo">
 过冬有3件羽绒服就够了（热度：123582）
 </a>
@@ -4505,12 +4511,6 @@ AG司马光龙葵变装（热度：117346）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
 阴阳师（热度：116712）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%B1%E5%A7%86%E4%B8%8A%E7%BA%BF%E8%96%9B%E8%AE%B0%E7%82%92%E8%B4%A7%E5%BC%95%E4%BA%89%E8%AE%AE%23" target="weibo">
-山姆上线薛记炒货引争议（热度：116627）
 </a>
 </li>
 
@@ -6417,6 +6417,12 @@ G20约堡峰会通过联合宣言（热度：78227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E6%BC%94%E5%91%98%E5%92%8C68%E5%B2%81%E5%A7%90%E5%A7%90%E6%8B%8D%E5%A7%90%E5%BC%9F%E6%81%8B%E7%9F%AD%E5%89%A7%23" target="weibo">
+男演员和68岁姐姐拍姐弟恋短剧（热度：65742）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E5%90%AF%E5%8A%A8%E8%81%9A%E5%8F%98%E9%A2%86%E5%9F%9F%E5%9B%BD%E9%99%85%E7%A7%91%E5%AD%A6%E8%AE%A1%E5%88%92%23" target="weibo">
 我国启动聚变领域国际科学计划（热度：65472）
 </a>
@@ -6759,6 +6765,12 @@ CBA新增10分钟潜力赛（热度：51176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E7%8B%90%E5%85%94CP%23" target="weibo">
+疯狂动物城 狐兔CP（热度：49014）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AC%AC%E4%B8%80%E6%89%B9%E4%B8%81%E5%85%8B%E8%80%81%E5%90%8E%E6%80%8E%E4%B9%88%E6%A0%B7%E4%BA%86%23" target="weibo">
 第一批丁克老后怎么样了（热度：48379）
 </a>
@@ -6845,6 +6857,12 @@ CBA新增10分钟潜力赛（热度：51176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%B5%B78%E5%A4%A9%E5%AE%9E%E5%BC%B9%E6%BC%94%E4%B9%A0%E5%8F%AA%E6%98%AF%E5%89%8D%E8%8F%9C%23" target="weibo">
 黄海8天实弹演习只是前菜（热度：44100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%87%AA%E7%84%B6%E7%8E%A9%E7%88%BD%E4%BA%86%23" target="weibo">
+超自然玩爽了（热度：43773）
 </a>
 </li>
 
@@ -7179,12 +7197,6 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E8%87%AA%E7%84%B6%E7%8E%A9%E7%88%BD%E4%BA%86%23" target="weibo">
-超自然玩爽了（热度：30690）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%20%E6%9C%80%E8%A6%81%E9%9D%A2%E5%AD%90%E7%9A%84%E6%AF%8F%E6%AC%A1%E9%83%BD%E6%B2%A1%E9%9D%A2%E5%AD%90%23" target="weibo">
 刘耀文 最要面子的每次都没面子（热度：30579）
 </a>
@@ -7229,6 +7241,12 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E3%E6%AF%940%E5%8D%97%E4%BA%AC%23" target="weibo">
 苏州3比0南京（热度：28903）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E6%B6%88%E8%B4%B9%E8%A7%82%E5%9C%A8%E4%B9%B0%E8%BD%A6%E4%B8%8A%E4%B8%80%E8%87%B4%E4%BA%86%23" target="weibo">
+两代人的消费观在买车上一致了（热度：28429）
 </a>
 </li>
 

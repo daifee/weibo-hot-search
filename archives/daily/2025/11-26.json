@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764089602377,
+  "endTime": 1764091636082,
   "band_list": [
     {
       "raw_hot": 840740,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 275229,
-      "num": 275229,
+      "num": 450733,
       "word": "环保少女和同伴将威尼斯大运河染绿",
       "onboard_time": 1764086243,
       "rank": 4,
@@ -187,6 +187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124321,
+      "num": 122665,
+      "word": "山姆上线薛记炒货引争议",
+      "onboard_time": 1764085580,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122954,
       "num": 122954,
       "word": "迪丽热巴 枭完你的枭你的",
@@ -201,14 +209,6 @@
       "onboard_time": 1764065902,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 116627,
-      "num": 122665,
-      "word": "山姆上线薛记炒货引争议",
-      "onboard_time": 1764085580,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106783,
@@ -275,7 +275,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 72601,
+      "raw_hot": 81250,
       "num": 121836,
       "word": "京城大师赛直播事故",
       "onboard_time": 1764080002,
@@ -321,6 +321,14 @@
       "onboard_time": 1764078862,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65742,
+      "num": 65742,
+      "word": "男演员和68岁姐姐拍姐弟恋短剧",
+      "onboard_time": 1764091216,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 64246,
@@ -371,6 +379,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 49014,
+      "num": 66598,
+      "word": "疯狂动物城 狐兔CP",
+      "onboard_time": 1764090677,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 43773,
+      "num": 121673,
+      "word": "超自然玩爽了",
+      "onboard_time": 1764089298,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 40501,
       "num": 121696,
       "word": "郭碧婷帮谢依霖报仇",
@@ -419,12 +443,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 30690,
-      "num": 121673,
-      "word": "超自然玩爽了",
-      "onboard_time": 1764089298,
-      "rank": 48,
+      "raw_hot": 31830,
+      "num": 57862,
+      "word": "荣耀 小郭",
+      "onboard_time": 1764079642,
+      "rank": 44,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 28429,
+      "num": 57848,
+      "word": "两代人的消费观在买车上一致了",
+      "onboard_time": 1764090677,
+      "rank": 47,
+      "category": "汽车"
     }
   ],
   "hotgov_list": [
