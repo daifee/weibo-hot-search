@@ -1,0 +1,410 @@
+{
+  "runTime": 1764096018872,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 81914,
+        "num": 127012,
+        "word": "环保少女和同伴将威尼斯大运河染绿",
+        "onboard_time": 1764086243,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 70254,
+        "num": 70254,
+        "word": "法考成绩",
+        "onboard_time": 1764084681,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 12131,
+        "num": 60424,
+        "word": "神舟二十号裂纹有救了",
+        "onboard_time": 1764064822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106414,
+        "num": 57678,
+        "word": "疯狂动物城2中国影史动画预售票房冠军",
+        "onboard_time": 1764083302,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 52520,
+        "num": 52520,
+        "word": "充电宝3C认证将全面失效",
+        "onboard_time": 1764061881,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128690,
+        "num": 52169,
+        "word": "仝卓表弟在柬埔寨失联",
+        "onboard_time": 1764080002,
+        "rank": 5,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 54069,
+        "num": 51894,
+        "word": "名侦探学院",
+        "onboard_time": 1764086361,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 44527,
+        "num": 44527,
+        "word": "乌克兰已原则同意美国提出的和平协议",
+        "onboard_time": 1764078323,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 31259,
+        "num": 44340,
+        "word": "充电宝 涨价",
+        "onboard_time": 1764069200,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 28858,
+        "num": 43731,
+        "word": "两代人的消费观在买车上一致了",
+        "onboard_time": 1764090677,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 158822,
+        "num": 43550,
+        "word": "男演员和68岁姐姐拍姐弟恋短剧",
+        "onboard_time": 1764091216,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 75068,
+        "num": 43037,
+        "word": "京城大师赛",
+        "onboard_time": 1764077002,
+        "rank": 11,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 59328,
+        "num": 42643,
+        "word": "霸王茶姬为什么半年不出新品了",
+        "onboard_time": 1764083781,
+        "rank": 12,
+        "category": "民生新闻,美食"
+      },
+      {
+        "raw_hot": 55269,
+        "num": 41915,
+        "word": "京城大师赛直播事故",
+        "onboard_time": 1764080002,
+        "rank": 13,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 54370,
+        "num": 41497,
+        "word": "六旬老人连做14个单杠大回环心梗离世",
+        "onboard_time": 1764086600,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41428,
+        "num": 41428,
+        "word": "疯狂动物城 狐兔CP",
+        "onboard_time": 1764090677,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 35862,
+        "num": 35862,
+        "word": "杨紫 华伦千金",
+        "onboard_time": 1764071002,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35243,
+        "num": 35243,
+        "word": "山姆上线薛记炒货引争议",
+        "onboard_time": 1764085580,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34902,
+        "num": 34902,
+        "word": "工作人员偷拍张峻豪换衣服给粉丝",
+        "onboard_time": 1764070103,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34035,
+        "num": 34881,
+        "word": "王源内娱首个斜开舞台",
+        "onboard_time": 1764083423,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 148598,
+        "num": 34865,
+        "word": "林俊杰回应恋情",
+        "onboard_time": 1764069081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82515,
+        "num": 34839,
+        "word": "京城大师赛荣耀 骂人",
+        "onboard_time": 1764079224,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 69728,
+        "num": 34820,
+        "word": "杜克一哥20w分手费",
+        "onboard_time": 1764079823,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 33630,
+        "num": 34800,
+        "word": "迪丽热巴 枭完你的枭你的",
+        "onboard_time": 1764069441,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64875,
+        "num": 34772,
+        "word": "日本獠牙已露",
+        "onboard_time": 1764076942,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60754,
+        "num": 34758,
+        "word": "汪峰大女儿超模基因",
+        "onboard_time": 1764084560,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51038,
+        "num": 34739,
+        "word": "女子为肠道蠕动睡前吞20粒蓖麻子",
+        "onboard_time": 1764082521,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 25834,
+        "num": 34709,
+        "word": "毛主席得知毛岸英死讯后强忍泪水",
+        "onboard_time": 1764069921,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23097,
+        "num": 34680,
+        "word": "台评论员称高市可能被特朗普骂了",
+        "onboard_time": 1764072022,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 22763,
+        "num": 34659,
+        "word": "大生意人",
+        "onboard_time": 1764069743,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34654,
+        "num": 34654,
+        "word": "曝林俊杰女友是七七",
+        "onboard_time": 1764056362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35159,
+        "num": 34654,
+        "word": "日本大阪机场男子坠楼目击者发声",
+        "onboard_time": 1764073102,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 32110,
+        "num": 34654,
+        "word": "原来熬夜伤害可以这样抵消",
+        "onboard_time": 1764069561,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 30136,
+        "num": 34654,
+        "word": "小鱼海棠产后不到一年瘦至90斤",
+        "onboard_time": 1764065902,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 24997,
+        "num": 34654,
+        "word": "黄星直播",
+        "onboard_time": 1764072442,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24534,
+        "num": 34654,
+        "word": "狂野时代幽灵场是粉丝包场",
+        "onboard_time": 1764083662,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 24288,
+        "num": 34654,
+        "word": "仝卓称表弟已失联12天",
+        "onboard_time": 1764082463,
+        "rank": 36,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 23049,
+        "num": 34654,
+        "word": "西方媒体质疑高市早苗",
+        "onboard_time": 1764083122,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 22623,
+        "num": 34654,
+        "word": "张凌赫张婧仪 豹豹猫猫我睁眼了",
+        "onboard_time": 1764094275,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20287,
+        "num": 34654,
+        "word": "中方暂停日本电影在华上映审批",
+        "onboard_time": 1764060201,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21882,
+        "num": 34653,
+        "word": "20岁小苹果身高已超1米7",
+        "onboard_time": 1764088159,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21226,
+        "num": 34653,
+        "word": "郭碧婷帮谢依霖报仇",
+        "onboard_time": 1764070643,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 20924,
+        "num": 34653,
+        "word": "泰版步步惊心",
+        "onboard_time": 1764072862,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20337,
+        "num": 34653,
+        "word": "敌国条款是悬在日本军国主义头上的剑",
+        "onboard_time": 1764090437,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20273,
+        "num": 34653,
+        "word": "Tian得知Peyz去T1被震惊到",
+        "onboard_time": 1764084023,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 19569,
+        "num": 34653,
+        "word": "不会画眉毛的姐妹有救了",
+        "onboard_time": 1764094036,
+        "rank": 45,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 19160,
+        "num": 34653,
+        "word": "荣耀 小郭",
+        "onboard_time": 1764079642,
+        "rank": 46,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 18291,
+        "num": 34653,
+        "word": "小姑娘走心了小男孩还没过脑",
+        "onboard_time": 1764095835,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 12208,
+        "num": 34653,
+        "word": "央视调查天价抗癌针真相",
+        "onboard_time": 1764082463,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11972,
+        "num": 34653,
+        "word": "朱婷恭喜郎平获终身成就奖",
+        "onboard_time": 1764079102,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见汤加国王图普六世#"
+    }
+  }
+}
