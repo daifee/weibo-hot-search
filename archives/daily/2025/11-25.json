@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764084647536,
+  "endTime": 1764085529285,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 563737,
-      "num": 228385,
+      "num": 273683,
       "word": "仝卓称表弟已失联12天",
       "onboard_time": 1764082463,
       "rank": 15,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 456273,
+      "num": 1073003,
+      "word": "法考成绩",
+      "onboard_time": 1764084681,
+      "rank": 0,
+      "category": "教育"
+    },
+    {
       "raw_hot": 448746,
       "num": 379669,
       "word": "何秋亊掉粉461万",
@@ -569,6 +577,14 @@
       "onboard_time": 1763988922,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 382496,
+      "num": 322713,
+      "word": "王源内娱首个斜开舞台",
+      "onboard_time": 1764083423,
+      "rank": 13,
+      "category": "演出"
     },
     {
       "raw_hot": 382397,
@@ -795,6 +811,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 284556,
+      "num": 284556,
+      "word": "霸王茶姬为什么半年不出新品了",
+      "onboard_time": 1764083781,
+      "rank": 19,
+      "category": "民生新闻,美食"
+    },
+    {
       "raw_hot": 277465,
       "num": 939992,
       "word": "大生意人",
@@ -929,14 +953,6 @@
       "onboard_time": 1764043461,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 244669,
-      "num": 244669,
-      "word": "王源内娱首个斜开舞台",
-      "onboard_time": 1764083423,
-      "rank": 13,
-      "category": "演出"
     },
     {
       "raw_hot": 244557,
@@ -1732,7 +1748,7 @@
     },
     {
       "raw_hot": 154273,
-      "num": 204467,
+      "num": 332311,
       "word": "台评论员称高市可能被特朗普骂了",
       "onboard_time": 1764072022,
       "rank": 27,
@@ -1819,6 +1835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147232,
+      "num": 147232,
+      "word": "汪峰大女儿超模基因",
+      "onboard_time": 1764084560,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146923,
       "num": 187169,
       "word": "日本曾屠杀60万台湾人",
@@ -1865,14 +1889,6 @@
       "onboard_time": 1764036860,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 141637,
-      "num": 165409,
-      "word": "霸王茶姬为什么半年不出新品了",
-      "onboard_time": 1764083781,
-      "rank": 19,
-      "category": "民生新闻,美食"
     },
     {
       "raw_hot": 141368,
@@ -2507,6 +2523,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106558,
+      "num": 106558,
+      "word": "只有健身的人才懂她有多厉害",
+      "onboard_time": 1764084741,
+      "rank": 36,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 106533,
       "num": 106533,
       "word": "鹿哈女友自曝彩礼",
@@ -2585,14 +2609,6 @@
       "onboard_time": 1764065122,
       "rank": 28,
       "category": "数码"
-    },
-    {
-      "raw_hot": 103389,
-      "num": 103389,
-      "word": "汪峰大女儿超模基因",
-      "onboard_time": 1764084560,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 103193,
@@ -2803,6 +2819,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 92208,
+      "num": 92208,
+      "word": "Tian得知Peyz去T1被震惊到",
+      "onboard_time": 1764084023,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91424,
       "num": 91424,
       "word": "每天无视各种压力玩手机",
@@ -2969,6 +2993,14 @@
       "onboard_time": 1764054023,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 82753,
+      "num": 82753,
+      "word": "马嘉祺唱这一程要把自己唱哭了",
+      "onboard_time": 1764085461,
+      "rank": 46,
+      "category": "演出"
     },
     {
       "raw_hot": 82643,
@@ -3345,6 +3377,14 @@
       "onboard_time": 1763997562,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54202,
+      "num": 101736,
+      "word": "央视调查天价抗癌针真相",
+      "onboard_time": 1764082463,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53406,
