@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764091636082,
+  "endTime": 1764092632051,
   "band_list": [
     {
       "raw_hot": 840740,
@@ -235,6 +235,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 98558,
+      "num": 74414,
+      "word": "男演员和68岁姐姐拍姐弟恋短剧",
+      "onboard_time": 1764091216,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 98109,
       "num": 121894,
       "word": "中方暂停日本电影在华上映审批",
@@ -321,14 +329,6 @@
       "onboard_time": 1764078862,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 65742,
-      "num": 65742,
-      "word": "男演员和68岁姐姐拍姐弟恋短剧",
-      "onboard_time": 1764091216,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 64246,
@@ -452,10 +452,26 @@
     },
     {
       "raw_hot": 28429,
-      "num": 57848,
+      "num": 58141,
       "word": "两代人的消费观在买车上一致了",
       "onboard_time": 1764090677,
       "rank": 47,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 27880,
+      "num": 58179,
+      "word": "敌国条款是悬在日本军国主义头上的剑",
+      "onboard_time": 1764090437,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 22273,
+      "num": 58146,
+      "word": "天籁鸿蒙座舱卖爆了",
+      "onboard_time": 1764092295,
+      "rank": 46,
       "category": "汽车"
     }
   ],
