@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764109658115,
+  "endTime": 1764110619382,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -1267,6 +1267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456363,
+      "num": 534285,
+      "word": "婚前同居认定属于家庭成员",
+      "onboard_time": 1764096795,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456351,
       "num": 940827,
       "word": "马思纯张晚意合作",
@@ -1897,14 +1905,6 @@
       "onboard_time": 1763958442,
       "rank": 25,
       "category": "网红"
-    },
-    {
-      "raw_hot": 326229,
-      "num": 427352,
-      "word": "婚前同居认定属于家庭成员",
-      "onboard_time": 1764096795,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 326210,
@@ -3939,6 +3939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 176340,
+      "num": 56517,
+      "word": "流感高峰时间已确定",
+      "onboard_time": 1764104053,
+      "rank": 32,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 175780,
       "num": 175780,
       "word": "打工人通勤从勃肯鞋到雪地靴",
@@ -4363,6 +4371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 161957,
+      "num": 74414,
+      "word": "男演员和68岁姐姐拍姐弟恋短剧",
+      "onboard_time": 1764091216,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 161720,
       "num": 161720,
       "word": "陈星旭 变脸梦回李承鄞",
@@ -4473,14 +4489,6 @@
       "onboard_time": 1764064822,
       "rank": 29,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 158822,
-      "num": 74414,
-      "word": "男演员和68岁姐姐拍姐弟恋短剧",
-      "onboard_time": 1764091216,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 158478,
@@ -5467,14 +5475,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 128509,
-      "num": 42590,
-      "word": "流感高峰时间已确定",
-      "onboard_time": 1764104053,
-      "rank": 32,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 128354,
       "num": 118455,
       "word": "陈晓摇来陈建斌",
@@ -5841,6 +5841,14 @@
       "onboard_time": 1764030441,
       "rank": 41,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 119239,
+      "num": 59617,
+      "word": "美日领导人通话讨论涉台立场",
+      "onboard_time": 1764100334,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 119234,
@@ -7987,14 +7995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 84429,
-      "num": 49876,
-      "word": "美日领导人通话讨论涉台立场",
-      "onboard_time": 1764100334,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 84155,
       "num": 84155,
       "word": "克林根对阵雷霆出战成疑",
@@ -8483,6 +8483,14 @@
       "category": "综艺,汽车"
     },
     {
+      "raw_hot": 69812,
+      "num": 58141,
+      "word": "两代人的消费观在买车上一致了",
+      "onboard_time": 1764090677,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 69687,
       "num": 320421,
       "word": "张桂源少年人夫感",
@@ -8923,6 +8931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 53606,
+      "num": 66598,
+      "word": "疯狂动物城 狐兔CP",
+      "onboard_time": 1764090677,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53406,
       "num": 66846,
       "word": "中国U19乒乓男团不敌中国台北",
@@ -8953,14 +8969,6 @@
       "onboard_time": 1763885960,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 51721,
-      "num": 66598,
-      "word": "疯狂动物城 狐兔CP",
-      "onboard_time": 1764090677,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 51680,
@@ -9027,12 +9035,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 49866,
-      "num": 58141,
-      "word": "两代人的消费观在买车上一致了",
-      "onboard_time": 1764090677,
-      "rank": 47,
-      "category": "汽车"
+      "raw_hot": 49772,
+      "num": 49772,
+      "word": "狂野时代部分场超30%观众提前离场",
+      "onboard_time": 1764096613,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 49160,
@@ -9179,6 +9187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43609,
+      "num": 43609,
+      "word": "任嘉伦演技",
+      "onboard_time": 1764108854,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43517,
       "num": 198673,
       "word": "罗永浩后悔没看蓝猫淘气三千问",
@@ -9251,6 +9267,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 41961,
+      "num": 41961,
+      "word": "孙千大生意人状态",
+      "onboard_time": 1764106514,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41318,
       "num": 166146,
       "word": "奉劝日方勿玩火自焚",
@@ -9265,6 +9289,14 @@
       "onboard_time": 1764045744,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40672,
+      "num": 38383,
+      "word": "七七多次现身林俊杰演唱会VIP席",
+      "onboard_time": 1764099494,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 40663,
@@ -9435,14 +9467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34804,
-      "num": 42677,
-      "word": "狂野时代部分场超30%观众提前离场",
-      "onboard_time": 1764096613,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 34609,
       "num": 167254,
       "word": "航司超售致近20名中国旅客滞留非洲",
@@ -9459,12 +9483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34594,
+      "num": 42865,
+      "word": "小姑娘走心了小男孩还没过脑",
+      "onboard_time": 1764095835,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 33960,
       "num": 200397,
       "word": "老中医回应被罚退赛",
       "onboard_time": 1763973982,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33735,
+      "num": 34553,
+      "word": "日方刻意回避中方要求收回错误言论",
+      "onboard_time": 1764101773,
+      "rank": 41,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33628,
@@ -9505,14 +9545,6 @@
       "onboard_time": 1764070161,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32854,
-      "num": 32854,
-      "word": "任嘉伦演技",
-      "onboard_time": 1764108854,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 32729,
@@ -9627,14 +9659,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30769,
-      "num": 31505,
-      "word": "七七多次现身林俊杰演唱会VIP席",
-      "onboard_time": 1764099494,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 30579,
       "num": 117874,
       "word": "刘耀文 最要面子的每次都没面子",
@@ -9649,14 +9673,6 @@
       "onboard_time": 1763958801,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29448,
-      "num": 42865,
-      "word": "小姑娘走心了小男孩还没过脑",
-      "onboard_time": 1764095835,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 29389,
@@ -9681,6 +9697,14 @@
       "onboard_time": 1763865200,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29113,
+      "num": 34544,
+      "word": "总算知道为啥两元店能赚钱了",
+      "onboard_time": 1764104593,
+      "rank": 40,
+      "category": "休闲"
     },
     {
       "raw_hot": 29032,
@@ -9721,22 +9745,6 @@
       "onboard_time": 1764048201,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 28006,
-      "num": 28006,
-      "word": "日方刻意回避中方要求收回错误言论",
-      "onboard_time": 1764101773,
-      "rank": 41,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 27998,
-      "num": 27998,
-      "word": "孙千大生意人状态",
-      "onboard_time": 1764106514,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 27880,
@@ -9971,6 +9979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 22408,
+      "num": 42621,
+      "word": "不会画眉毛的姐妹有救了",
+      "onboard_time": 1764094036,
+      "rank": 45,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 22273,
       "num": 58146,
       "word": "天籁鸿蒙座舱卖爆了",
@@ -9985,14 +10001,6 @@
       "onboard_time": 1763980461,
       "rank": 39,
       "category": "电影,幽默"
-    },
-    {
-      "raw_hot": 21898,
-      "num": 26772,
-      "word": "总算知道为啥两元店能赚钱了",
-      "onboard_time": 1764104593,
-      "rank": 40,
-      "category": "休闲"
     },
     {
       "raw_hot": 21583,
@@ -10067,12 +10075,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 20635,
-      "num": 42621,
-      "word": "不会画眉毛的姐妹有救了",
-      "onboard_time": 1764094036,
-      "rank": 45,
-      "category": "美妆"
+      "raw_hot": 20692,
+      "num": 34519,
+      "word": "男子为骗拆迁补助与男友姐姐假结婚",
+      "onboard_time": 1764110536,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20366,
@@ -10163,6 +10171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17967,
+      "num": 34516,
+      "word": "2025年国际乒联世青赛",
+      "onboard_time": 1764099614,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 17588,
       "num": 76789,
       "word": "高市早苗一系列举措遭揭批",
@@ -10217,14 +10233,6 @@
       "onboard_time": 1764101114,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16105,
-      "num": 26720,
-      "word": "2025年国际乒联世青赛",
-      "onboard_time": 1764099614,
-      "rank": 49,
-      "category": "体育"
     },
     {
       "raw_hot": 16034,
