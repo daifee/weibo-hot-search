@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764041821794,
+  "endTime": 1764045249914,
   "band_list": [
     {
       "raw_hot": 1527492,
@@ -20,15 +20,23 @@
     },
     {
       "raw_hot": 1227960,
-      "num": 334238,
+      "num": 453073,
       "word": "演员李顺载去世",
       "onboard_time": 1764030922,
       "rank": 10,
       "category": "艺人"
     },
     {
+      "raw_hot": 1177382,
+      "num": 463704,
+      "word": "日本会不会偷袭中国",
+      "onboard_time": 1764042922,
+      "rank": 10,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1161234,
-      "num": 290712,
+      "num": 517932,
       "word": "黄亦玫 我前任和上司在一起了",
       "onboard_time": 1764038660,
       "rank": 10,
@@ -73,6 +81,14 @@
       "onboard_time": 1763999600,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 528340,
+      "num": 455316,
+      "word": "苹果夹烤肉",
+      "onboard_time": 1764041301,
+      "rank": 40,
+      "category": "美食"
     },
     {
       "raw_hot": 517939,
@@ -180,7 +196,7 @@
     },
     {
       "raw_hot": 363703,
-      "num": 267575,
+      "num": 314475,
       "word": "何炅急的在嘴里炒了一桌菜",
       "onboard_time": 1764039800,
       "rank": 24,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 330708,
-      "num": 344773,
+      "num": 494695,
       "word": "女装直播退货率80%以上",
       "onboard_time": 1763997323,
       "rank": 26,
@@ -227,6 +243,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 285780,
+      "num": 483922,
+      "word": "光遇复刻",
+      "onboard_time": 1764043402,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 275131,
       "num": 275131,
       "word": "卢凌风樱桃 我们有的是力气和手段",
@@ -241,6 +265,22 @@
       "onboard_time": 1763999001,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 270812,
+      "num": 270812,
+      "word": "狂野时代票房",
+      "onboard_time": 1764041722,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 260007,
+      "num": 521589,
+      "word": "专家称牛市第五浪将涨到你不信",
+      "onboard_time": 1764042381,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 259816,
@@ -299,12 +339,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 229841,
+      "num": 229841,
+      "word": "单休的优点",
+      "onboard_time": 1764043882,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229039,
       "num": 229039,
       "word": "男子杀妻后将尸体强行折叠塞行李箱",
       "onboard_time": 1764037039,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 227762,
+      "num": 247647,
+      "word": "枭起青壤热度走势",
+      "onboard_time": 1764043461,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 218088,
@@ -323,6 +379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 204229,
+      "num": 204229,
+      "word": "上海全是主理人 贵州全是创始人",
+      "onboard_time": 1764043162,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 203452,
       "num": 264477,
       "word": "音乐缘计划2第三波阵容官宣",
@@ -337,6 +401,22 @@
       "onboard_time": 1763999362,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 202243,
+      "num": 233690,
+      "word": "看疯狂动物城2之前需要知道的事",
+      "onboard_time": 1764043823,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 189829,
+      "num": 230709,
+      "word": "史上最严充电宝新规将落地",
+      "onboard_time": 1764041542,
+      "rank": 25,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 187177,
@@ -377,6 +457,14 @@
       "onboard_time": 1764035119,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178725,
+      "num": 163130,
+      "word": "花140万买到230平的房子",
+      "onboard_time": 1764043582,
+      "rank": 30,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 177134,
@@ -435,6 +523,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171967,
+      "num": 171967,
+      "word": "樊振东德甲开开心心上下班",
+      "onboard_time": 1764044302,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 170083,
+      "num": 170083,
+      "word": "全网射手座生日月最强分析",
+      "onboard_time": 1764044602,
+      "rank": 27,
+      "category": "情感"
+    },
+    {
       "raw_hot": 170040,
       "num": 347811,
       "word": "iG转会期",
@@ -448,6 +552,22 @@
       "word": "这俩差着辈却意外很配",
       "onboard_time": 1764040640,
       "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 167507,
+      "num": 167507,
+      "word": "永远不会对东方美学祛魅",
+      "onboard_time": 1764044063,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166059,
+      "num": 235107,
+      "word": "枭起青壤改编",
+      "onboard_time": 1764041601,
+      "rank": 22,
       "category": "剧集"
     },
     {
@@ -465,6 +585,14 @@
       "onboard_time": 1763984121,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160029,
+      "num": 208036,
+      "word": "神22点火瞬间",
+      "onboard_time": 1764043882,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154640,
@@ -491,12 +619,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150844,
+      "num": 150844,
+      "word": "苹果已经在烤肉届杀疯了",
+      "onboard_time": 1764045143,
+      "rank": 32,
+      "category": "美食"
+    },
+    {
       "raw_hot": 150287,
       "num": 321583,
       "word": "豆瓣崩了",
       "onboard_time": 1763995103,
       "rank": 23,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 149854,
+      "num": 149854,
+      "word": "日本持续囤积远超民用需求钚材料",
+      "onboard_time": 1764043102,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149313,
@@ -513,14 +657,6 @@
       "onboard_time": 1763996541,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 146594,
-      "num": 146594,
-      "word": "苹果夹烤肉",
-      "onboard_time": 1764041301,
-      "rank": 40,
-      "category": "美食"
     },
     {
       "raw_hot": 141916,
@@ -547,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137587,
+      "num": 137587,
+      "word": "泰国65岁老妇火化前突然复活",
+      "onboard_time": 1764043521,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 137246,
       "num": 137246,
       "word": "A股行情",
@@ -571,6 +715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135148,
+      "num": 135148,
+      "word": "直播神22发射",
+      "onboard_time": 1764043042,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 133778,
       "num": 133778,
       "word": "大鹅霸凌狗崽被狗崽一家咬死",
@@ -585,6 +737,14 @@
       "onboard_time": 1764036801,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 130987,
+      "num": 130987,
+      "word": "知道考试为什么要涂答题卡了",
+      "onboard_time": 1764042322,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 130894,
@@ -659,12 +819,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116776,
+      "num": 116776,
+      "word": "刘耀文穿睡衣跳猪猪侠",
+      "onboard_time": 1764043042,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 116571,
       "num": 322004,
       "word": "花一万六买152件衣服",
       "onboard_time": 1763985261,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 114577,
+      "num": 114577,
+      "word": "仿版胡彦斌 我要的全偷走",
+      "onboard_time": 1764042502,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 114526,
+      "num": 475875,
+      "word": "神二十二点火发射",
+      "onboard_time": 1764044542,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113668,
@@ -691,6 +875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 109997,
+      "num": 147139,
+      "word": "聂九罗 葫芦娃救爷爷",
+      "onboard_time": 1764044122,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109748,
       "num": 321463,
       "word": "冲绳周边不断运入导弹和多国军舰",
@@ -699,12 +891,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 109430,
+      "num": 109430,
+      "word": "爱笑为Hope鸣不平",
+      "onboard_time": 1764042742,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 109276,
       "num": 109276,
       "word": "iPad台前调度抢票",
       "onboard_time": 1764030622,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 108803,
+      "num": 108803,
+      "word": "大生意人真的拍出了乱世佳人",
+      "onboard_time": 1764045203,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 106317,
@@ -1083,14 +1291,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 38877,
-      "num": 235107,
-      "word": "枭起青壤改编",
-      "onboard_time": 1764041601,
-      "rank": 22,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 38729,
       "num": 246424,
       "word": "高市2014年来参拜靖国神社超10次",
@@ -1099,20 +1299,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37420,
+      "num": 170483,
+      "word": "超级猩猩回应闭店潮",
+      "onboard_time": 1764045082,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37318,
       "num": 139274,
       "word": "蚂蚱想救狗哥却被误伤",
       "onboard_time": 1764006915,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 33810,
-      "num": 230709,
-      "word": "史上最严充电宝新规将落地",
-      "onboard_time": 1764041542,
-      "rank": 25,
-      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 32119,
@@ -1129,6 +1329,14 @@
       "onboard_time": 1764022755,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30765,
+      "num": 132175,
+      "word": "外交部回应中俄合作",
+      "onboard_time": 1764044542,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30629,
@@ -1153,6 +1361,14 @@
       "onboard_time": 1764006675,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 23881,
+      "num": 131070,
+      "word": "男子被幼猫抓咬后将其摔死",
+      "onboard_time": 1764044242,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22861,

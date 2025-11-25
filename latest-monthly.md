@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 11:37:01
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 12:34:09
 </p>
 </blockquote>
 <p>
@@ -1223,6 +1223,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23FPX%E9%80%80%E5%87%BALPL%23" target="weibo">
 FPX退出LPL（热度：1177968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E4%BC%9A%E4%B8%8D%E4%BC%9A%E5%81%B7%E8%A2%AD%E4%B8%AD%E5%9B%BD%23" target="weibo">
+日本会不会偷袭中国（热度：1177382）
 </a>
 </li>
 
@@ -5709,6 +5715,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89%23" target="weibo">
+苹果夹烤肉（热度：528340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%97%E5%92%AC%E4%BA%BA%E8%A2%AB%E6%91%94%E6%AD%BB%E7%8B%97%E4%B8%BB%E4%BA%BA%E4%B8%8A%E9%97%A8%E7%90%86%E8%AE%BA%E9%81%AD%E5%8F%8D%E6%9D%80%23" target="weibo">
 狗咬人被摔死狗主人上门理论遭反杀（热度：527440）
 </a>
@@ -5999,18 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E9%93%B6%E8%A1%8C%E5%8F%964%E4%B8%87%E5%85%83%E9%81%AD%E7%9B%98%E9%97%AE%E6%8A%A5%E8%AD%A6%23" target="weibo">
 律师银行取4万元遭盘问报警（热度：511362）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9D%B0%E6%BC%94%E5%94%B1%E4%BC%9A2%E5%88%86%E9%92%9F%E7%9A%84%E4%B8%8D%E8%AF%AD%23" target="weibo">
-张杰演唱会2分钟的不语（热度：511260）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E9%98%B3%E8%B1%86%E6%B5%86%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E7%8E%A9%E8%99%90%E7%8C%AB%E6%A2%97%23" target="weibo">
-九阳豆浆回应被指玩虐猫梗（热度：510607）
 </a>
 </li>
 
