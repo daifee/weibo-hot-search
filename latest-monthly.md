@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 20:56:13
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 21:10:20
 </p>
 </blockquote>
 <p>
@@ -5139,6 +5139,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%94%9F%E6%84%8F%E4%BA%BA%E7%A0%B43%23" target="weibo">
+大生意人破3（热度：570275）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%8D%B8%E4%B8%8B%E4%BA%86%E4%BD%99%E6%B7%AE%E7%9A%84%E5%90%8D%E5%AD%97%23" target="weibo">
 刘昊然卸下了余淮的名字（热度：569968）
 </a>
@@ -6005,12 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AC%BC%E7%81%AD%E4%B9%8B%E5%88%83%E7%A5%A8%E6%88%BF%23" target="weibo">
 鬼灭之刃票房（热度：519757）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%A6%96%E8%BD%AE%E9%98%B5%E5%AE%B9%23" target="weibo">
-爱奇艺尖叫之夜首轮阵容（热度：519489）
 </a>
 </li>
 

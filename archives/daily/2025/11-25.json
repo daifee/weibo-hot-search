@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764075373101,
+  "endTime": 1764076220901,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 2166502,
-      "num": 205041,
+      "num": 217368,
       "word": "林俊杰回应恋情",
       "onboard_time": 1764069081,
       "rank": 20,
@@ -236,7 +236,7 @@
     },
     {
       "raw_hot": 681054,
-      "num": 1088644,
+      "num": 1093541,
       "word": "充电宝3C认证将全面失效",
       "onboard_time": 1764061881,
       "rank": 14,
@@ -273,6 +273,14 @@
       "onboard_time": 1764060141,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 570275,
+      "num": 1013944,
+      "word": "大生意人破3",
+      "onboard_time": 1764074602,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 544983,
@@ -347,6 +355,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 490842,
+      "num": 490842,
+      "word": "泰版步步惊心",
+      "onboard_time": 1764072862,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 490573,
       "num": 267391,
       "word": "昌平线",
@@ -377,14 +393,6 @@
       "onboard_time": 1764057262,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 466570,
-      "num": 466570,
-      "word": "泰版步步惊心",
-      "onboard_time": 1764072862,
-      "rank": 11,
-      "category": "剧集"
     },
     {
       "raw_hot": 456958,
@@ -668,7 +676,7 @@
     },
     {
       "raw_hot": 290527,
-      "num": 258185,
+      "num": 264600,
       "word": "迪丽热巴 枭完你的枭你的",
       "onboard_time": 1764069441,
       "rank": 23,
@@ -681,14 +689,6 @@
       "onboard_time": 1764034460,
       "rank": 17,
       "category": "电影"
-    },
-    {
-      "raw_hot": 287274,
-      "num": 1013944,
-      "word": "大生意人破3",
-      "onboard_time": 1764074602,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 285780,
@@ -811,6 +811,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 248439,
+      "num": 1084392,
+      "word": "华为表王到底有多少黑科技",
+      "onboard_time": 1764073522,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 247595,
       "num": 247595,
       "word": "程潇沈月周洁琼出演明日乐园",
@@ -828,7 +836,7 @@
     },
     {
       "raw_hot": 244557,
-      "num": 204845,
+      "num": 214830,
       "word": "中彩票后先捐款再交税到手钱更多",
       "onboard_time": 1764070041,
       "rank": 40,
@@ -881,14 +889,6 @@
       "onboard_time": 1764067402,
       "rank": 16,
       "category": "演出"
-    },
-    {
-      "raw_hot": 230696,
-      "num": 1084392,
-      "word": "华为表王到底有多少黑科技",
-      "onboard_time": 1764073522,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 230605,
@@ -971,6 +971,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 214553,
+      "num": 214553,
+      "word": "汪峰大女儿疑似恋爱",
+      "onboard_time": 1764075024,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213252,
       "num": 213252,
       "word": "张峻豪工作人员偷拍艺人换衣服给粉丝",
@@ -996,7 +1004,7 @@
     },
     {
       "raw_hot": 209785,
-      "num": 488235,
+      "num": 530060,
       "word": "神舟二十号裂纹有救了",
       "onboard_time": 1764064822,
       "rank": 31,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1764062363,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 187918,
+      "num": 187918,
+      "word": "周柯宇直播五排",
+      "onboard_time": 1764075442,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 187700,
@@ -1427,6 +1443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 161513,
+      "num": 846353,
+      "word": "蔚来财报",
+      "onboard_time": 1764070581,
+      "rank": 3,
+      "category": "汽车,财经"
+    },
+    {
       "raw_hot": 161225,
       "num": 360998,
       "word": "戴军曝杨笠常住清迈",
@@ -1651,14 +1675,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 141519,
-      "num": 846353,
-      "word": "蔚来财报",
-      "onboard_time": 1764070581,
-      "rank": 3,
-      "category": "汽车,财经"
-    },
-    {
       "raw_hot": 141368,
       "num": 176239,
       "word": "光遇",
@@ -1771,6 +1787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 131850,
+      "num": 220006,
+      "word": "大生意人央八史上最快破3剧集",
+      "onboard_time": 1764074902,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 130987,
       "num": 130987,
       "word": "知道考试为什么要涂答题卡了",
@@ -1785,6 +1809,14 @@
       "onboard_time": 1764031521,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130716,
+      "num": 204414,
+      "word": "枭起青壤开始横盘了",
+      "onboard_time": 1764074061,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 130364,
@@ -1883,14 +1915,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 122715,
-      "num": 204414,
-      "word": "枭起青壤开始横盘了",
-      "onboard_time": 1764074061,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 122413,
       "num": 202929,
       "word": "日本熊本5.8级地震",
@@ -1969,14 +1993,6 @@
       "onboard_time": 1764057501,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117067,
-      "num": 203816,
-      "word": "汪峰大女儿疑似恋爱",
-      "onboard_time": 1764075024,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 117002,
@@ -2089,6 +2105,14 @@
       "onboard_time": 1763997142,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110440,
+      "num": 110440,
+      "word": "大生意人 谢广坤",
+      "onboard_time": 1764075863,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 110320,
@@ -2275,14 +2299,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 103319,
-      "num": 203612,
-      "word": "大生意人央八史上最快破3剧集",
-      "onboard_time": 1764074902,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 103193,
       "num": 216449,
       "word": "库里的三分",
@@ -2467,6 +2483,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 91734,
+      "num": 91734,
+      "word": "T1回应马斯克挑战",
+      "onboard_time": 1764076161,
+      "rank": 47,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91424,
       "num": 91424,
       "word": "每天无视各种压力玩手机",
@@ -2489,6 +2513,14 @@
       "onboard_time": 1764035361,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89479,
+      "num": 203031,
+      "word": "把照片拍好真的很简单",
+      "onboard_time": 1764074722,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 89329,
@@ -2601,14 +2633,6 @@
       "onboard_time": 1764057262,
       "rank": 29,
       "category": "数码"
-    },
-    {
-      "raw_hot": 83705,
-      "num": 203031,
-      "word": "把照片拍好真的很简单",
-      "onboard_time": 1764074722,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 83677,
@@ -3019,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51250,
+      "num": 111081,
+      "word": "Peyz夸赞T1大楼",
+      "onboard_time": 1764076103,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 50190,
       "num": 99955,
       "word": "文韬这么多年来话最多的一次",
@@ -3187,6 +3219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27318,
+      "num": 112026,
+      "word": "大悦城连续三年累计亏损超73亿元",
+      "onboard_time": 1764075562,
+      "rank": 39,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 24943,
       "num": 150717,
       "word": "高中学历骗子成高校首席科学家",
@@ -3209,6 +3249,14 @@
       "onboard_time": 1764044242,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23347,
+      "num": 112194,
+      "word": "南海舰队假如战争爆发",
+      "onboard_time": 1764075621,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 22992,
@@ -3241,6 +3289,14 @@
       "onboard_time": 1763993002,
       "rank": 48,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 21456,
+      "num": 218101,
+      "word": "酒店称送药事件前台处理符合标准",
+      "onboard_time": 1764075562,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 21447,
