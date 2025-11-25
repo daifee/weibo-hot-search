@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764078024576,
+  "endTime": 1764078731738,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1868730,
-      "num": 539509,
+      "num": 790774,
       "word": "京城大师赛",
       "onboard_time": 1764077002,
       "rank": 5,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 911617,
-      "num": 562797,
+      "num": 792417,
       "word": "毛主席得知毛岸英死讯后强忍泪水",
       "onboard_time": 1764069921,
       "rank": 31,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 410947,
+      "num": 761952,
+      "word": "乌克兰已原则同意美国提出的和平协议",
+      "onboard_time": 1764078323,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 403967,
       "num": 466977,
       "word": "枭起青壤打戏",
@@ -523,8 +531,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 380669,
-      "num": 380669,
+      "raw_hot": 382397,
+      "num": 382397,
       "word": "工作人员偷拍张峻豪换衣服给粉丝",
       "onboard_time": 1764070103,
       "rank": 13,
@@ -579,6 +587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 338710,
+      "num": 214553,
+      "word": "汪峰大女儿疑似恋爱",
+      "onboard_time": 1764075024,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336357,
       "num": 336357,
       "word": "张俪迪丽热巴牵上手了",
@@ -617,14 +633,6 @@
       "onboard_time": 1764059542,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 309788,
-      "num": 214553,
-      "word": "汪峰大女儿疑似恋爱",
-      "onboard_time": 1764075024,
-      "rank": 36,
-      "category": "艺人"
     },
     {
       "raw_hot": 304572,
@@ -761,6 +769,14 @@
       "onboard_time": 1764052702,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 267624,
+      "num": 714671,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1764076702,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 262970,
@@ -915,14 +931,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 230258,
-      "num": 510609,
-      "word": "唐朝诡事录之长安",
-      "onboard_time": 1764076702,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 230145,
       "num": 230145,
       "word": "章若楠在减肥",
@@ -996,7 +1004,7 @@
     },
     {
       "raw_hot": 214622,
-      "num": 530060,
+      "num": 799491,
       "word": "神舟二十号裂纹有救了",
       "onboard_time": 1764064822,
       "rank": 31,
@@ -1032,6 +1040,14 @@
       "word": "杨旭文这下真火了",
       "onboard_time": 1764073401,
       "rank": 23,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206568,
+      "num": 206568,
+      "word": "陈晓 我在宁古塔很想你",
+      "onboard_time": 1764076642,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -1089,6 +1105,14 @@
       "onboard_time": 1764063201,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 199015,
+      "num": 204042,
+      "word": "日本大阪机场男子坠楼目击者发声",
+      "onboard_time": 1764073102,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 198470,
@@ -1251,6 +1275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178914,
+      "num": 178914,
+      "word": "赵丽颖簪花被用作考公素材",
+      "onboard_time": 1764077183,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178207,
       "num": 981365,
       "word": "余承东称MateX7对得起那四个字",
@@ -1395,14 +1427,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 168090,
-      "num": 204042,
-      "word": "日本大阪机场男子坠楼目击者发声",
-      "onboard_time": 1764073102,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 167560,
       "num": 186610,
       "word": "内娱第一部女频无限流剧",
@@ -1465,6 +1489,14 @@
       "onboard_time": 1764030203,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 162417,
+      "num": 162417,
+      "word": "日本獠牙已露",
+      "onboard_time": 1764076942,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 162331,
@@ -1616,14 +1648,6 @@
       "word": "杨紫怼脸特写镜头",
       "onboard_time": 1764063261,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 153956,
-      "num": 153956,
-      "word": "赵丽颖簪花被用作考公素材",
-      "onboard_time": 1764077183,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -1811,6 +1835,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133498,
+      "num": 204414,
+      "word": "枭起青壤开始横盘了",
+      "onboard_time": 1764074061,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133491,
       "num": 133491,
       "word": "奇迹枭枭",
@@ -1843,14 +1875,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 132120,
-      "num": 132120,
-      "word": "陈晓 我在宁古塔很想你",
-      "onboard_time": 1764076642,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131850,
       "num": 220006,
       "word": "大生意人央八史上最快破3剧集",
@@ -1875,28 +1899,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 130716,
-      "num": 204414,
-      "word": "枭起青壤开始横盘了",
-      "onboard_time": 1764074061,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 130364,
       "num": 273969,
       "word": "法考主观题成绩公布时间",
       "onboard_time": 1764056481,
       "rank": 17,
       "category": "教育"
-    },
-    {
-      "raw_hot": 130228,
-      "num": 130228,
-      "word": "日本獠牙已露",
-      "onboard_time": 1764076942,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 130215,
@@ -1945,6 +1953,14 @@
       "onboard_time": 1764041781,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125856,
+      "num": 162964,
+      "word": "卢浮宫盗窃案第四名嫌疑犯落网",
+      "onboard_time": 1764078262,
+      "rank": 34,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 125806,
@@ -2057,6 +2073,14 @@
       "onboard_time": 1764036920,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118882,
+      "num": 118882,
+      "word": "北京是最不在乎穿搭的城市",
+      "onboard_time": 1764077783,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 118044,
@@ -2177,14 +2201,6 @@
       "onboard_time": 1764045203,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111188,
-      "num": 111188,
-      "word": "北京是最不在乎穿搭的城市",
-      "onboard_time": 1764077783,
-      "rank": 44,
-      "category": "幽默"
     },
     {
       "raw_hot": 111059,
@@ -3441,6 +3457,14 @@
       "onboard_time": 1764060561,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 16845,
+      "num": 119918,
+      "word": "四川拟禁止或限制公共区域吸烟",
+      "onboard_time": 1764078203,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 16034,

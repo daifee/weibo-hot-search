@@ -1,0 +1,410 @@
+{
+  "runTime": 1764078731738,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 582798,
+        "num": 1093247,
+        "word": "充电宝3C认证将全面失效",
+        "onboard_time": 1764061881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206978,
+        "num": 859735,
+        "word": "华为表王到底有多少黑科技",
+        "onboard_time": 1764073522,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164815,
+        "num": 799491,
+        "word": "神舟二十号裂纹有救了",
+        "onboard_time": 1764064822,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 477800,
+        "num": 792627,
+        "word": "大生意人破3",
+        "onboard_time": 1764074602,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 792417,
+        "num": 792417,
+        "word": "毛主席得知毛岸英死讯后强忍泪水",
+        "onboard_time": 1764069921,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1015912,
+        "num": 790774,
+        "word": "京城大师赛",
+        "onboard_time": 1764077002,
+        "rank": 5,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 410947,
+        "num": 761952,
+        "word": "乌克兰已原则同意美国提出的和平协议",
+        "onboard_time": 1764078323,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 286867,
+        "num": 738458,
+        "word": "中方暂停日本电影在华上映审批",
+        "onboard_time": 1764060201,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267624,
+        "num": 714671,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1764076702,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211758,
+        "num": 692304,
+        "word": "充电宝 涨价",
+        "onboard_time": 1764069200,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 690214,
+        "num": 690214,
+        "word": "杨紫 华伦千金",
+        "onboard_time": 1764071002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77313,
+        "num": 493101,
+        "word": "流感高发季防护指南来了",
+        "onboard_time": 1764059840,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 415952,
+        "num": 415952,
+        "word": "泰版步步惊心",
+        "onboard_time": 1764072862,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382397,
+        "num": 382397,
+        "word": "工作人员偷拍张峻豪换衣服给粉丝",
+        "onboard_time": 1764070103,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289295,
+        "num": 289295,
+        "word": "小鱼海棠产后不到一年瘦至90斤",
+        "onboard_time": 1764065902,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 284836,
+        "num": 284836,
+        "word": "迪丽热巴 枭完你的枭你的",
+        "onboard_time": 1764069441,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213396,
+        "num": 213396,
+        "word": "黄星直播",
+        "onboard_time": 1764072442,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206568,
+        "num": 206568,
+        "word": "陈晓 我在宁古塔很想你",
+        "onboard_time": 1764076642,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201637,
+        "num": 201637,
+        "word": "郭碧婷帮谢依霖报仇",
+        "onboard_time": 1764070643,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156532,
+        "num": 192207,
+        "word": "明年起遛狗不拴绳最高拘10天罚1千",
+        "onboard_time": 1764068423,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1364714,
+        "num": 191209,
+        "word": "林俊杰回应恋情",
+        "onboard_time": 1764069081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 338710,
+        "num": 188974,
+        "word": "汪峰大女儿疑似恋爱",
+        "onboard_time": 1764075024,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185870,
+        "num": 185870,
+        "word": "中彩票后先捐款再交税到手钱更多",
+        "onboard_time": 1764070041,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 178914,
+        "num": 178914,
+        "word": "赵丽颖簪花被用作考公素材",
+        "onboard_time": 1764077183,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160931,
+        "num": 176572,
+        "word": "大生意人",
+        "onboard_time": 1764069743,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141085,
+        "num": 175333,
+        "word": "台评论员称高市可能被特朗普骂了",
+        "onboard_time": 1764072022,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139107,
+        "num": 174123,
+        "word": "枭起青壤",
+        "onboard_time": 1764057501,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135312,
+        "num": 171753,
+        "word": "甄嬛四郎在大生意人重聚了",
+        "onboard_time": 1764076343,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133498,
+        "num": 168274,
+        "word": "枭起青壤开始横盘了",
+        "onboard_time": 1764074061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 167113,
+        "num": 167113,
+        "word": "原来熬夜伤害可以这样抵消",
+        "onboard_time": 1764069561,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 401368,
+        "num": 166633,
+        "word": "曝林俊杰女友是七七",
+        "onboard_time": 1764056362,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199015,
+        "num": 165978,
+        "word": "日本大阪机场男子坠楼目击者发声",
+        "onboard_time": 1764073102,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 167206,
+        "num": 165039,
+        "word": "把公积金当成份子钱送出去了",
+        "onboard_time": 1764064401,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163892,
+        "num": 163892,
+        "word": "Mate80",
+        "onboard_time": 1764076825,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125856,
+        "num": 162964,
+        "word": "卢浮宫盗窃案第四名嫌疑犯落网",
+        "onboard_time": 1764078262,
+        "rank": 34,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162417,
+        "num": 162417,
+        "word": "日本獠牙已露",
+        "onboard_time": 1764076942,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 161751,
+        "num": 161751,
+        "word": "周柯宇直播五排",
+        "onboard_time": 1764075442,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136408,
+        "num": 136408,
+        "word": "杨旭文这下真火了",
+        "onboard_time": 1764073401,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128573,
+        "num": 128573,
+        "word": "霍建华 年纪大受不了你们这样",
+        "onboard_time": 1764059961,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16845,
+        "num": 119918,
+        "word": "四川拟禁止或限制公共区域吸烟",
+        "onboard_time": 1764078203,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118882,
+        "num": 118882,
+        "word": "北京是最不在乎穿搭的城市",
+        "onboard_time": 1764077783,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118717,
+        "num": 118717,
+        "word": "贾玲张艺谋吴京韩寒对打",
+        "onboard_time": 1764073882,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114628,
+        "num": 114628,
+        "word": "黄雅琼婉拒王昶梁伟铿当娘家人",
+        "onboard_time": 1764070401,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108444,
+        "num": 108444,
+        "word": "香港海岛发现一男一女两浮尸",
+        "onboard_time": 1764065362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105207,
+        "num": 105207,
+        "word": "陈晓摇来陈建斌",
+        "onboard_time": 1764076402,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104872,
+        "num": 104872,
+        "word": "枭起青壤打戏",
+        "onboard_time": 1764051922,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104617,
+        "num": 104617,
+        "word": "T1回应马斯克挑战",
+        "onboard_time": 1764076161,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100220,
+        "num": 100220,
+        "word": "狂野时代 离场率",
+        "onboard_time": 1764060081,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99435,
+        "num": 99435,
+        "word": "张博恒冬奥会火炬手",
+        "onboard_time": 1764076223,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96513,
+        "num": 96513,
+        "word": "真有剧拍出流放宁古塔了",
+        "onboard_time": 1764069441,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见汤加国王图普六世#"
+    }
+  }
+}
