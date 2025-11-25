@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764106805344,
+  "endTime": 1764109658115,
   "band_list": [
     {
       "raw_hot": 840740,
@@ -49,6 +49,14 @@
       "onboard_time": 1764084560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326229,
+      "num": 427352,
+      "word": "婚前同居认定属于家庭成员",
+      "onboard_time": 1764096795,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 313473,
@@ -105,14 +113,6 @@
       "onboard_time": 1764082521,
       "rank": 25,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 226204,
-      "num": 226204,
-      "word": "婚前同居认定属于家庭成员",
-      "onboard_time": 1764096795,
-      "rank": 0,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 197932,
@@ -193,6 +193,14 @@
       "onboard_time": 1764069921,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 128509,
+      "num": 42590,
+      "word": "流感高峰时间已确定",
+      "onboard_time": 1764104053,
+      "rank": 32,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 126132,
@@ -289,6 +297,14 @@
       "onboard_time": 1764072862,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 84429,
+      "num": 49876,
+      "word": "美日领导人通话讨论涉台立场",
+      "onboard_time": 1764100334,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81250,
@@ -395,12 +411,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 49075,
-      "num": 35783,
-      "word": "美日领导人通话讨论涉台立场",
-      "onboard_time": 1764100334,
-      "rank": 15,
-      "category": "国际时政"
+      "raw_hot": 49866,
+      "num": 58141,
+      "word": "两代人的消费观在买车上一致了",
+      "onboard_time": 1764090677,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 43773,
@@ -443,6 +459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34804,
+      "num": 42677,
+      "word": "狂野时代部分场超30%观众提前离场",
+      "onboard_time": 1764096613,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 33989,
       "num": 242242,
       "word": "神舟二十号裂纹有救了",
@@ -459,6 +483,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 32854,
+      "num": 32854,
+      "word": "任嘉伦演技",
+      "onboard_time": 1764108854,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 31830,
       "num": 57862,
       "word": "荣耀 小郭",
@@ -467,12 +499,36 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 28949,
-      "num": 58141,
-      "word": "两代人的消费观在买车上一致了",
-      "onboard_time": 1764090677,
+      "raw_hot": 30769,
+      "num": 31505,
+      "word": "七七多次现身林俊杰演唱会VIP席",
+      "onboard_time": 1764099494,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29448,
+      "num": 42865,
+      "word": "小姑娘走心了小男孩还没过脑",
+      "onboard_time": 1764095835,
       "rank": 47,
-      "category": "汽车"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 28006,
+      "num": 28006,
+      "word": "日方刻意回避中方要求收回错误言论",
+      "onboard_time": 1764101773,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 27998,
+      "num": 27998,
+      "word": "孙千大生意人状态",
+      "onboard_time": 1764106514,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 27880,
@@ -481,38 +537,6 @@
       "onboard_time": 1764090437,
       "rank": 41,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 27873,
-      "num": 42677,
-      "word": "狂野时代部分场超30%观众提前离场",
-      "onboard_time": 1764096613,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 24392,
-      "num": 31505,
-      "word": "七七多次现身林俊杰演唱会VIP席",
-      "onboard_time": 1764099494,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 24390,
-      "num": 42865,
-      "word": "小姑娘走心了小男孩还没过脑",
-      "onboard_time": 1764095835,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 23025,
-      "num": 23025,
-      "word": "流感高峰时间已确定",
-      "onboard_time": 1764104053,
-      "rank": 32,
-      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 22623,
@@ -531,15 +555,15 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 22015,
-      "num": 25478,
-      "word": "日方刻意回避中方要求收回错误言论",
-      "onboard_time": 1764101773,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 21898,
+      "num": 26772,
+      "word": "总算知道为啥两元店能赚钱了",
+      "onboard_time": 1764104593,
+      "rank": 40,
+      "category": "休闲"
     },
     {
-      "raw_hot": 19569,
+      "raw_hot": 20635,
       "num": 42621,
       "word": "不会画眉毛的姐妹有救了",
       "onboard_time": 1764094036,
@@ -563,20 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 18403,
-      "num": 18403,
-      "word": "总算知道为啥两元店能赚钱了",
-      "onboard_time": 1764104593,
-      "rank": 40,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 16641,
       "num": 25291,
       "word": "美方28点计划缩减为19点",
       "onboard_time": 1764101114,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 16105,
+      "num": 26720,
+      "word": "2025年国际乒联世青赛",
+      "onboard_time": 1764099614,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 14459,
@@ -588,27 +612,11 @@
     },
     {
       "raw_hot": 14370,
-      "num": 25369,
+      "num": 26718,
       "word": "枭起青壤原著",
       "onboard_time": 1764099433,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 12149,
-      "num": 18008,
-      "word": "孙千大生意人状态",
-      "onboard_time": 1764106514,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 11378,
-      "num": 25009,
-      "word": "2025年国际乒联世青赛",
-      "onboard_time": 1764099614,
-      "rank": 49,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
