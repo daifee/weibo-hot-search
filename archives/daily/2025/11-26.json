@@ -1,10 +1,18 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764110619382,
+  "endTime": 1764113137098,
   "band_list": [
     {
+      "raw_hot": 1355843,
+      "num": 1355843,
+      "word": "婚前同居认定属于家庭成员",
+      "onboard_time": 1764096795,
+      "rank": 0,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 840740,
-      "num": 195976,
+      "num": 223118,
       "word": "仝卓表弟在柬埔寨失联",
       "onboard_time": 1764080002,
       "rank": 10,
@@ -27,20 +35,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 456363,
-      "num": 534285,
-      "word": "婚前同居认定属于家庭成员",
-      "onboard_time": 1764096795,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 395601,
       "num": 150273,
       "word": "霸王茶姬为什么半年不出新品了",
       "onboard_time": 1764083781,
       "rank": 11,
       "category": "民生新闻,美食"
+    },
+    {
+      "raw_hot": 361260,
+      "num": 93305,
+      "word": "男演员和68岁姐姐拍姐弟恋短剧",
+      "onboard_time": 1764091216,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 353880,
@@ -65,6 +73,14 @@
       "onboard_time": 1764083423,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 283864,
+      "num": 121934,
+      "word": "女子为肠道蠕动睡前吞20粒蓖麻子",
+      "onboard_time": 1764082521,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 275229,
@@ -107,12 +123,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 228505,
-      "num": 121934,
-      "word": "女子为肠道蠕动睡前吞20粒蓖麻子",
-      "onboard_time": 1764082521,
-      "rank": 25,
-      "category": "健康医疗"
+      "raw_hot": 226014,
+      "num": 91178,
+      "word": "流感高峰时间已确定",
+      "onboard_time": 1764104053,
+      "rank": 32,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 197932,
@@ -120,6 +136,14 @@
       "word": "六旬老人连做14个单杠大回环心梗离世",
       "onboard_time": 1764086600,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190542,
+      "num": 122665,
+      "word": "山姆上线薛记炒货引争议",
+      "onboard_time": 1764085580,
+      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -139,20 +163,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176340,
-      "num": 56517,
-      "word": "流感高峰时间已确定",
-      "onboard_time": 1764104053,
-      "rank": 32,
-      "category": "健康医疗,民生新闻"
-    },
-    {
-      "raw_hot": 161957,
-      "num": 74414,
-      "word": "男演员和68岁姐姐拍姐弟恋短剧",
-      "onboard_time": 1764091216,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 173100,
+      "num": 173100,
+      "word": "美日领导人通话讨论涉台立场",
+      "onboard_time": 1764100334,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 159417,
@@ -187,6 +203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 140818,
+      "num": 121770,
+      "word": "日本大阪机场男子坠楼目击者发声",
+      "onboard_time": 1764073102,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 131434,
       "num": 131434,
       "word": "狂野时代幽灵场是粉丝包场",
@@ -211,28 +235,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124321,
-      "num": 122665,
-      "word": "山姆上线薛记炒货引争议",
-      "onboard_time": 1764085580,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 122954,
       "num": 122954,
       "word": "迪丽热巴 枭完你的枭你的",
       "onboard_time": 1764069441,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119239,
-      "num": 59617,
-      "word": "美日领导人通话讨论涉台立场",
-      "onboard_time": 1764100334,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 117093,
@@ -243,6 +251,22 @@
       "category": "网红"
     },
     {
+      "raw_hot": 109921,
+      "num": 248927,
+      "word": "疯狂动物城 狐兔CP",
+      "onboard_time": 1764090677,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 109868,
+      "num": 109868,
+      "word": "两代人的消费观在买车上一致了",
+      "onboard_time": 1764090677,
+      "rank": 47,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 106783,
       "num": 121858,
       "word": "西方媒体质疑高市早苗",
@@ -251,12 +275,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 103686,
-      "num": 121770,
-      "word": "日本大阪机场男子坠楼目击者发声",
-      "onboard_time": 1764073102,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 106700,
+      "num": 86107,
+      "word": "任嘉伦演技",
+      "onboard_time": 1764108854,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101712,
+      "num": 84764,
+      "word": "狂野时代部分场超30%观众提前离场",
+      "onboard_time": 1764096613,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 99369,
@@ -281,6 +313,14 @@
       "onboard_time": 1764080303,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92015,
+      "num": 77849,
+      "word": "七七多次现身林俊杰演唱会VIP席",
+      "onboard_time": 1764099494,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 90299,
@@ -315,6 +355,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 77839,
+      "num": 77839,
+      "word": "你不结婚我晚上睡不着",
+      "onboard_time": 1764112398,
+      "rank": 26,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 76865,
+      "num": 76865,
+      "word": "小姑娘走心了小男孩还没过脑",
+      "onboard_time": 1764095835,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 72050,
       "num": 121821,
       "word": "黄星直播",
@@ -337,14 +393,6 @@
       "onboard_time": 1764084023,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 69812,
-      "num": 58141,
-      "word": "两代人的消费观在买车上一致了",
-      "onboard_time": 1764090677,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 69295,
@@ -387,12 +435,36 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 60024,
+      "num": 60024,
+      "word": "男子为骗拆迁补助与男友姐姐假结婚",
+      "onboard_time": 1764110536,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59177,
+      "num": 59177,
+      "word": "孙千大生意人状态",
+      "onboard_time": 1764106514,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57462,
       "num": 121700,
       "word": "大生意人",
       "onboard_time": 1764069743,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55093,
+      "num": 55093,
+      "word": "你以为在过渡其实这就是一生",
+      "onboard_time": 1764112459,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 53940,
@@ -403,12 +475,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 53606,
-      "num": 66598,
-      "word": "疯狂动物城 狐兔CP",
-      "onboard_time": 1764090677,
-      "rank": 28,
-      "category": "电影"
+      "raw_hot": 52960,
+      "num": 121696,
+      "word": "郭碧婷帮谢依霖报仇",
+      "onboard_time": 1764070643,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 52959,
@@ -419,12 +491,28 @@
       "category": "体育"
     },
     {
-      "raw_hot": 49772,
-      "num": 49772,
-      "word": "狂野时代部分场超30%观众提前离场",
-      "onboard_time": 1764096613,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 49876,
+      "num": 49876,
+      "word": "日方刻意回避中方要求收回错误言论",
+      "onboard_time": 1764101773,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 48844,
+      "num": 48844,
+      "word": "解放军报发文",
+      "onboard_time": 1764112699,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 46298,
+      "num": 46298,
+      "word": "最能吃苦的一辈投胎回来了",
+      "onboard_time": 1764112699,
+      "rank": 41,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 43773,
@@ -435,36 +523,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 43609,
-      "num": 43609,
-      "word": "任嘉伦演技",
-      "onboard_time": 1764108854,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 41961,
-      "num": 41961,
-      "word": "孙千大生意人状态",
-      "onboard_time": 1764106514,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 40672,
-      "num": 38383,
-      "word": "七七多次现身林俊杰演唱会VIP席",
-      "onboard_time": 1764099494,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 40501,
-      "num": 121696,
-      "word": "郭碧婷帮谢依霖报仇",
-      "onboard_time": 1764070643,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 41247,
+      "num": 41247,
+      "word": "日本酒店经营者称万分委屈",
+      "onboard_time": 1764112819,
+      "rank": 45,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40458,
@@ -483,36 +547,20 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 36138,
-      "num": 121659,
-      "word": "央视调查天价抗癌针真相",
-      "onboard_time": 1764082463,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34594,
-      "num": 42865,
-      "word": "小姑娘走心了小男孩还没过脑",
-      "onboard_time": 1764095835,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 33989,
-      "num": 242242,
+      "raw_hot": 37299,
+      "num": 411712,
       "word": "神舟二十号裂纹有救了",
       "onboard_time": 1764064822,
       "rank": 2,
       "category": "国内时政"
     },
     {
-      "raw_hot": 33735,
-      "num": 34553,
-      "word": "日方刻意回避中方要求收回错误言论",
-      "onboard_time": 1764101773,
-      "rank": 41,
-      "category": "国际时政"
+      "raw_hot": 36138,
+      "num": 121659,
+      "word": "央视调查天价抗癌针真相",
+      "onboard_time": 1764082463,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33223,
@@ -569,14 +617,6 @@
       "onboard_time": 1764092295,
       "rank": 46,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 20692,
-      "num": 34519,
-      "word": "男子为骗拆迁补助与男友姐姐假结婚",
-      "onboard_time": 1764110536,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19325,

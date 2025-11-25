@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764110619382,
+  "endTime": 1764113137098,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1763779100,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1355843,
+      "num": 1355843,
+      "word": "婚前同居认定属于家庭成员",
+      "onboard_time": 1764096795,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1352969,
@@ -9851,14 +9859,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 456363,
-      "num": 534285,
-      "word": "婚前同居认定属于家庭成员",
-      "onboard_time": 1764096795,
-      "rank": 0,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 456351,
       "num": 940827,
       "word": "马思纯张晚意合作",
@@ -13416,6 +13416,14 @@
       "word": "枭起青壤腾讯热度破26000",
       "onboard_time": 1763899522,
       "rank": 3,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 361260,
+      "num": 93305,
+      "word": "男演员和68岁姐姐拍姐弟恋短剧",
+      "onboard_time": 1764091216,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -22067,6 +22075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 226014,
+      "num": 91178,
+      "word": "流感高峰时间已确定",
+      "onboard_time": 1764104053,
+      "rank": 32,
+      "category": "健康医疗,民生新闻"
+    },
+    {
       "raw_hot": 226013,
       "num": 226013,
       "word": "刘冲反买",
@@ -27419,6 +27435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 190542,
+      "num": 122665,
+      "word": "山姆上线薛记炒货引争议",
+      "onboard_time": 1764085580,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190506,
       "num": 190506,
       "word": "任嘉伦彭小苒这次演了大甜剧",
@@ -30259,14 +30283,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 176340,
-      "num": 56517,
-      "word": "流感高峰时间已确定",
-      "onboard_time": 1764104053,
-      "rank": 32,
-      "category": "健康医疗,民生新闻"
-    },
-    {
       "raw_hot": 176251,
       "num": 170511,
       "word": "患癌男子8万救命钱全打赏主播",
@@ -30897,6 +30913,14 @@
       "onboard_time": 1764060261,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 173100,
+      "num": 173100,
+      "word": "美日领导人通话讨论涉台立场",
+      "onboard_time": 1764100334,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 173022,
@@ -33473,14 +33497,6 @@
       "onboard_time": 1763443702,
       "rank": 36,
       "category": "体育"
-    },
-    {
-      "raw_hot": 161957,
-      "num": 74414,
-      "word": "男演员和68岁姐姐拍姐弟恋短剧",
-      "onboard_time": 1764091216,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 161952,
@@ -45691,14 +45707,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 124321,
-      "num": 122665,
-      "word": "山姆上线薛记炒货引争议",
-      "onboard_time": 1764085580,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124304,
       "num": 124304,
       "word": "MRC对战Gr",
@@ -47977,14 +47985,6 @@
       "onboard_time": 1762567999,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119239,
-      "num": 59617,
-      "word": "美日领导人通话讨论涉台立场",
-      "onboard_time": 1764100334,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 119234,
@@ -52555,6 +52555,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 109921,
+      "num": 248927,
+      "word": "疯狂动物城 狐兔CP",
+      "onboard_time": 1764090677,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 109916,
       "num": 109916,
       "word": "汪苏泷演唱会大合照",
@@ -52577,6 +52585,14 @@
       "onboard_time": 1764047842,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109868,
+      "num": 109868,
+      "word": "两代人的消费观在买车上一致了",
+      "onboard_time": 1764090677,
+      "rank": 47,
+      "category": "汽车"
     },
     {
       "raw_hot": 109860,
@@ -54345,6 +54361,14 @@
       "onboard_time": 1763715922,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106700,
+      "num": 86107,
+      "word": "任嘉伦演技",
+      "onboard_time": 1764108854,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 106684,
@@ -57273,6 +57297,14 @@
       "onboard_time": 1762237640,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101712,
+      "num": 84764,
+      "word": "狂野时代部分场超30%观众提前离场",
+      "onboard_time": 1764096613,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 101681,
@@ -63161,6 +63193,14 @@
       "onboard_time": 1762479019,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92015,
+      "num": 77849,
+      "word": "七七多次现身林俊杰演唱会VIP席",
+      "onboard_time": 1764099494,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 92002,
@@ -70635,6 +70675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 77839,
+      "num": 77839,
+      "word": "你不结婚我晚上睡不着",
+      "onboard_time": 1764112398,
+      "rank": 26,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 77819,
       "num": 503802,
       "word": "海底捞回应家长就餐区给孩子接尿",
@@ -71073,6 +71121,14 @@
       "onboard_time": 1763720183,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 76865,
+      "num": 76865,
+      "word": "小姑娘走心了小男孩还没过脑",
+      "onboard_time": 1764095835,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 76853,
@@ -73609,14 +73665,6 @@
       "onboard_time": 1763656041,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 69812,
-      "num": 58141,
-      "word": "两代人的消费观在买车上一致了",
-      "onboard_time": 1764090677,
-      "rank": 47,
-      "category": "汽车"
     },
     {
       "raw_hot": 69807,
@@ -76403,6 +76451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60024,
+      "num": 60024,
+      "word": "男子为骗拆迁补助与男友姐姐假结婚",
+      "onboard_time": 1764110536,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60006,
       "num": 134633,
       "word": "2万页爱泼斯坦邮件曝光",
@@ -76737,6 +76793,14 @@
       "onboard_time": 1763715622,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59177,
+      "num": 59177,
+      "word": "孙千大生意人状态",
+      "onboard_time": 1764106514,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 59063,
@@ -77707,6 +77771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55093,
+      "num": 55093,
+      "word": "你以为在过渡其实这就是一生",
+      "onboard_time": 1764112459,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 55092,
       "num": 105378,
       "word": "于文文音乐节",
@@ -78017,14 +78089,6 @@
       "onboard_time": 1763568379,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 53606,
-      "num": 66598,
-      "word": "疯狂动物城 狐兔CP",
-      "onboard_time": 1764090677,
-      "rank": 28,
-      "category": "电影"
     },
     {
       "raw_hot": 53604,
@@ -79011,6 +79075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 49876,
+      "num": 49876,
+      "word": "日方刻意回避中方要求收回错误言论",
+      "onboard_time": 1764101773,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 49806,
       "num": 240248,
       "word": "为吸粉引流直播谩骂三人被行拘",
@@ -79033,14 +79105,6 @@
       "onboard_time": 1763107583,
       "rank": 19,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 49772,
-      "num": 49772,
-      "word": "狂野时代部分场超30%观众提前离场",
-      "onboard_time": 1764096613,
-      "rank": 44,
-      "category": "电影"
     },
     {
       "raw_hot": 49770,
@@ -79305,6 +79369,14 @@
       "onboard_time": 1762246160,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48844,
+      "num": 48844,
+      "word": "解放军报发文",
+      "onboard_time": 1764112699,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 48834,
@@ -80091,6 +80163,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 46298,
+      "num": 46298,
+      "word": "最能吃苦的一辈投胎回来了",
+      "onboard_time": 1764112699,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 46296,
       "num": 100730,
       "word": "刘雨昕完全是bjd在跳舞",
@@ -80803,14 +80883,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 43609,
-      "num": 43609,
-      "word": "任嘉伦演技",
-      "onboard_time": 1764108854,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 43586,
       "num": 99199,
       "word": "女子故意点燃商场衣物引发火灾",
@@ -81275,14 +81347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 41961,
-      "num": 41961,
-      "word": "孙千大生意人状态",
-      "onboard_time": 1764106514,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 41933,
       "num": 130049,
       "word": "70万元奔驰天窗破洞车主质疑纸糊",
@@ -81435,6 +81499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 41247,
+      "num": 41247,
+      "word": "日本酒店经营者称万分委屈",
+      "onboard_time": 1764112819,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 41241,
       "num": 119530,
       "word": "李兰迪 溢出屏幕的明媚",
@@ -81537,14 +81609,6 @@
       "onboard_time": 1763625922,
       "rank": 18,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 40672,
-      "num": 38383,
-      "word": "七七多次现身林俊杰演唱会VIP席",
-      "onboard_time": 1764099494,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 40665,
@@ -83243,14 +83307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 34594,
-      "num": 42865,
-      "word": "小姑娘走心了小男孩还没过脑",
-      "onboard_time": 1764095835,
-      "rank": 47,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 34573,
       "num": 111722,
       "word": "女子遭男友持刀杀害9岁儿子仍不知情",
@@ -83497,14 +83553,6 @@
       "onboard_time": 1762315401,
       "rank": 29,
       "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 33735,
-      "num": 34553,
-      "word": "日方刻意回避中方要求收回错误言论",
-      "onboard_time": 1764101773,
-      "rank": 41,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33672,
@@ -87129,14 +87177,6 @@
       "onboard_time": 1763020881,
       "rank": 14,
       "category": "电竞,体育"
-    },
-    {
-      "raw_hot": 20692,
-      "num": 34519,
-      "word": "男子为骗拆迁补助与男友姐姐假结婚",
-      "onboard_time": 1764110536,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 20576,
