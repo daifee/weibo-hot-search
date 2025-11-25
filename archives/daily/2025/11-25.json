@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764067735340,
+  "endTime": 1764069934386,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -19,11 +19,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1562740,
+      "num": 176349,
+      "word": "林俊杰回应恋情",
+      "onboard_time": 1764069081,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1527492,
       "num": 1527492,
       "word": "日本机场挤满回国的中国人",
       "onboard_time": 1764036260,
       "rank": 17,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1347589,
+      "num": 178286,
+      "word": "中国一男子在日本关西机场坠亡",
+      "onboard_time": 1764067641,
+      "rank": 30,
       "category": "海外新闻"
     },
     {
@@ -699,14 +715,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 258196,
-      "num": 158618,
-      "word": "中国一男子在日本关西机场坠亡",
-      "onboard_time": 1764067641,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 252613,
       "num": 376013,
       "word": "中国暂停租借大熊猫给日本引关注",
@@ -761,6 +769,14 @@
       "onboard_time": 1764036920,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 235065,
+      "num": 235065,
+      "word": "佛山音乐节",
+      "onboard_time": 1764067402,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 230605,
@@ -859,14 +875,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 205588,
-      "num": 205588,
-      "word": "佛山音乐节",
-      "onboard_time": 1764067402,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 204229,
       "num": 204229,
       "word": "上海全是主理人 贵州全是创始人",
@@ -921,6 +929,14 @@
       "onboard_time": 1764057623,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198240,
+      "num": 176138,
+      "word": "迪丽热巴 枭完你的枭你的",
+      "onboard_time": 1764069441,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 197420,
@@ -1073,6 +1089,14 @@
       "onboard_time": 1764026658,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 176942,
+      "num": 176942,
+      "word": "Peyz首播",
+      "onboard_time": 1764069441,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 175761,
@@ -1233,6 +1257,14 @@
       "onboard_time": 1764041601,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "钎城今日份运动打卡",
+      "onboard_time": 1764069320,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 163945,
@@ -1459,12 +1491,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 141368,
+      "num": 176239,
+      "word": "光遇",
+      "onboard_time": 1764069441,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 139509,
+      "num": 139509,
+      "word": "充电宝 涨价",
+      "onboard_time": 1764069200,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139425,
       "num": 268070,
       "word": "更懂智能的燃油车",
       "onboard_time": 1764045803,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139346,
+      "num": 139346,
+      "word": "原来熬夜伤害可以这样抵消",
+      "onboard_time": 1764069561,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 138524,
@@ -1521,6 +1577,14 @@
       "onboard_time": 1764043042,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 133865,
+      "num": 176575,
+      "word": "明年起遛狗不拴绳最高拘10天罚1千",
+      "onboard_time": 1764068423,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133778,
@@ -1595,6 +1659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130212,
+      "num": 488235,
+      "word": "神舟二十号裂纹有救了",
+      "onboard_time": 1764064822,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 128716,
       "num": 128716,
       "word": "k总回应结婚圈钱",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1764046883,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 127747,
+      "num": 168950,
+      "word": "大生意人",
+      "onboard_time": 1764069743,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 126195,
@@ -1657,6 +1737,14 @@
       "onboard_time": 1764053780,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122830,
+      "num": 122830,
+      "word": "压力性暴食",
+      "onboard_time": 1764066381,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 121735,
@@ -1779,6 +1867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114199,
+      "num": 114199,
+      "word": "俄军22枚导弹464架无人机袭乌",
+      "onboard_time": 1764068241,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 113942,
       "num": 804759,
       "word": "又一批果蔬送达中国空间站",
@@ -1817,22 +1913,6 @@
       "onboard_time": 1764045203,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 112470,
-      "num": 112470,
-      "word": "压力性暴食",
-      "onboard_time": 1764066381,
-      "rank": 44,
-      "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 111071,
-      "num": 168794,
-      "word": "神舟二十号裂纹有救了",
-      "onboard_time": 1764064822,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111059,
@@ -1915,6 +1995,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109198,
+      "num": 178798,
+      "word": "真有剧拍出流放宁古塔了",
+      "onboard_time": 1764069441,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 108777,
       "num": 258348,
       "word": "神21乘组未来坐神22返回",
@@ -1939,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106945,
+      "num": 164351,
+      "word": "日本熊本5.8级地震",
+      "onboard_time": 1764069320,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106860,
       "num": 106860,
       "word": "特朗普将于明年4月访华",
@@ -1947,12 +2043,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106533,
+      "num": 106533,
+      "word": "鹿哈女友自曝彩礼",
+      "onboard_time": 1764068960,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 106317,
       "num": 322684,
       "word": "杨幂提名金莲花奖最佳女配",
       "onboard_time": 1763990002,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 105852,
+      "num": 105852,
+      "word": "枭起青壤的编剧",
+      "onboard_time": 1764068659,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 105851,
@@ -2059,12 +2171,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100919,
+      "num": 910021,
+      "word": "中国机器人或将能吃出辣椒有多辣",
+      "onboard_time": 1764067581,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 100206,
       "num": 189610,
       "word": "枭起青壤 反派比正派有魅力",
       "onboard_time": 1764051922,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 99803,
+      "num": 99803,
+      "word": "曝LPL竞拍名单",
+      "onboard_time": 1764069743,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 99274,
@@ -2081,6 +2209,14 @@
       "onboard_time": 1764066625,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97687,
+      "num": 97687,
+      "word": "王楚钦不在意一场比赛的得失",
+      "onboard_time": 1764068481,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 95511,
@@ -2169,14 +2305,6 @@
       "onboard_time": 1764033800,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 86847,
-      "num": 678394,
-      "word": "中国机器人或将能吃出辣椒有多辣",
-      "onboard_time": 1764067581,
-      "rank": 4,
-      "category": "科学科普"
     },
     {
       "raw_hot": 86629,
@@ -2369,6 +2497,14 @@
       "onboard_time": 1763990182,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 75354,
+      "num": 113627,
+      "word": "中国麻辣串在首尔火了",
+      "onboard_time": 1764068722,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74559,
@@ -2603,6 +2739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51680,
+      "num": 113962,
+      "word": "导航语音包 擦边",
+      "onboard_time": 1764068960,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51675,
       "num": 165228,
       "word": "国考生订房成功后房价翻倍被退订",
@@ -2616,6 +2760,14 @@
       "word": "王鹤棣叫刘耀文文哥",
       "onboard_time": 1764026839,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 50190,
+      "num": 99955,
+      "word": "文韬这么多年来话最多的一次",
+      "onboard_time": 1764067824,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -2640,6 +2792,14 @@
       "word": "日本民众回应最后2只大熊猫将回国",
       "onboard_time": 1763979200,
       "rank": 47,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45592,
+      "num": 176438,
+      "word": "日本钚材料约可制造6千枚核弹",
+      "onboard_time": 1764068781,
+      "rank": 19,
       "category": "海外新闻"
     },
     {

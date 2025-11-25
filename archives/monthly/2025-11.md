@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 18:48:55
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 19:25:34
 </p>
 </blockquote>
 <p>
@@ -645,6 +645,12 @@ Faker六冠王（热度：1654581）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%9B%9E%E5%BA%94%E6%81%8B%E6%83%85%23" target="weibo">
+林俊杰回应恋情（热度：1562740）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%8D%93%E4%BD%B3vs%E8%8C%83%E6%80%9D%E7%90%A6%23" target="weibo">
 何卓佳vs范思琦（热度：1550321）
 </a>
@@ -857,6 +863,12 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23KT%E5%AF%B9%E6%88%98T1%23" target="weibo">
 KT对战T1（热度：1348771）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E4%B8%80%E7%94%B7%E5%AD%90%E5%9C%A8%E6%97%A5%E6%9C%AC%E5%85%B3%E8%A5%BF%E6%9C%BA%E5%9C%BA%E5%9D%A0%E4%BA%A1%23" target="weibo">
+中国一男子在日本关西机场坠亡（热度：1347589）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%8A%E7%99%BD%20%E7%8E%8B%E6%98%9F%E8%B6%8A%23" target="weibo">
 告白 王星越（热度：518464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A3%9E%E5%BE%80%E6%97%A5%E6%9C%AC%E6%9C%BA%E7%A5%A8%E7%BD%95%E8%A7%81%E9%80%80%E8%AE%A2%E6%BD%AE%23" target="weibo">
-中国飞往日本机票罕见退订潮（热度：518464）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E4%B9%94%E6%AC%A3%E7%9A%84%E9%9D%A2%E7%9B%B8%E5%8F%98%E4%BA%86%23" target="weibo">
-感觉乔欣的面相变了（热度：518343）
 </a>
 </li>
 

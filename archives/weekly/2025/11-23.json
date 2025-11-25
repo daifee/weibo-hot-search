@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764067735340,
+  "endTime": 1764069934386,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1562740,
+      "num": 176349,
+      "word": "林俊杰回应恋情",
+      "onboard_time": 1764069081,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1527492,
       "num": 1527492,
       "word": "日本机场挤满回国的中国人",
@@ -65,6 +73,14 @@
       "onboard_time": 1763954362,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1347589,
+      "num": 178286,
+      "word": "中国一男子在日本关西机场坠亡",
+      "onboard_time": 1764067641,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1302721,
@@ -2275,14 +2291,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 258196,
-      "num": 158618,
-      "word": "中国一男子在日本关西机场坠亡",
-      "onboard_time": 1764067641,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 257596,
       "num": 234240,
       "word": "唐诡有一个女仵作就会有更多",
@@ -2497,6 +2505,14 @@
       "onboard_time": 1764036920,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 235065,
+      "num": 235065,
+      "word": "佛山音乐节",
+      "onboard_time": 1764067402,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 234957,
@@ -2851,14 +2867,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 205588,
-      "num": 205588,
-      "word": "佛山音乐节",
-      "onboard_time": 1764067402,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205285,
       "num": 205285,
       "word": "恋与制作人",
@@ -3009,6 +3017,14 @@
       "onboard_time": 1764057623,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 198240,
+      "num": 176138,
+      "word": "迪丽热巴 枭完你的枭你的",
+      "onboard_time": 1764069441,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 197695,
@@ -3539,6 +3555,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 176942,
+      "num": 176942,
+      "word": "Peyz首播",
+      "onboard_time": 1764069441,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176856,
       "num": 199359,
       "word": "原来1000度近视半飞秒是这样做的",
@@ -3913,6 +3937,14 @@
       "onboard_time": 1763986281,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "钎城今日份运动打卡",
+      "onboard_time": 1764069320,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 163945,
@@ -4475,6 +4507,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 141368,
+      "num": 176239,
+      "word": "光遇",
+      "onboard_time": 1764069441,
+      "rank": 21,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 141057,
       "num": 141057,
       "word": "杨旭文早期是188大甜豆",
@@ -4531,12 +4571,28 @@
       "category": "教育"
     },
     {
+      "raw_hot": 139509,
+      "num": 139509,
+      "word": "充电宝 涨价",
+      "onboard_time": 1764069200,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139425,
       "num": 268070,
       "word": "更懂智能的燃油车",
       "onboard_time": 1764045803,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139346,
+      "num": 139346,
+      "word": "原来熬夜伤害可以这样抵消",
+      "onboard_time": 1764069561,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 139229,
@@ -4731,6 +4787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 133865,
+      "num": 176575,
+      "word": "明年起遛狗不拴绳最高拘10天罚1千",
+      "onboard_time": 1764068423,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133785,
       "num": 199662,
       "word": "考研座椅",
@@ -4867,6 +4931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130212,
+      "num": 488235,
+      "word": "神舟二十号裂纹有救了",
+      "onboard_time": 1764064822,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129893,
       "num": 183663,
       "word": "卢凌风最生气的一集",
@@ -4961,6 +5033,14 @@
       "onboard_time": 1764046883,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 127747,
+      "num": 168950,
+      "word": "大生意人",
+      "onboard_time": 1764069743,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 127407,
@@ -5121,6 +5201,14 @@
       "onboard_time": 1763989161,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 122830,
+      "num": 122830,
+      "word": "压力性暴食",
+      "onboard_time": 1764066381,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 122595,
@@ -5523,6 +5611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 114199,
+      "num": 114199,
+      "word": "俄军22枚导弹464架无人机袭乌",
+      "onboard_time": 1764068241,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114136,
       "num": 114136,
       "word": "刷自己朋友圈的几种情况",
@@ -5643,14 +5739,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112470,
-      "num": 112470,
-      "word": "压力性暴食",
-      "onboard_time": 1764066381,
-      "rank": 44,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 112342,
       "num": 112342,
       "word": "建议尽早培养自己的输出型爱好",
@@ -5697,14 +5785,6 @@
       "onboard_time": 1763880502,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111071,
-      "num": 168794,
-      "word": "神舟二十号裂纹有救了",
-      "onboard_time": 1764064822,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110985,
@@ -5841,6 +5921,14 @@
       "onboard_time": 1763901261,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109198,
+      "num": 178798,
+      "word": "真有剧拍出流放宁古塔了",
+      "onboard_time": 1764069441,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 109086,
@@ -6003,6 +6091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106945,
+      "num": 164351,
+      "word": "日本熊本5.8级地震",
+      "onboard_time": 1764069320,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106899,
       "num": 106899,
       "word": "美国政府效率部解散",
@@ -6043,6 +6139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106533,
+      "num": 106533,
+      "word": "鹿哈女友自曝彩礼",
+      "onboard_time": 1764068960,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 106433,
       "num": 106433,
       "word": "只有23考研受伤的世界达成了",
@@ -6065,6 +6169,14 @@
       "onboard_time": 1763979322,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105852,
+      "num": 105852,
+      "word": "枭起青壤的编剧",
+      "onboard_time": 1764068659,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 105851,
@@ -6363,6 +6475,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 100919,
+      "num": 910021,
+      "word": "中国机器人或将能吃出辣椒有多辣",
+      "onboard_time": 1764067581,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 100856,
       "num": 100856,
       "word": "王一博抛斧头",
@@ -6433,6 +6553,14 @@
       "onboard_time": 1763915359,
       "rank": 30,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99803,
+      "num": 99803,
+      "word": "曝LPL竞拍名单",
+      "onboard_time": 1764069743,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 99709,
@@ -6545,6 +6673,14 @@
       "onboard_time": 1763878281,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97687,
+      "num": 97687,
+      "word": "王楚钦不在意一场比赛的得失",
+      "onboard_time": 1764068481,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 97564,
@@ -7067,14 +7203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 86847,
-      "num": 678394,
-      "word": "中国机器人或将能吃出辣椒有多辣",
-      "onboard_time": 1764067581,
-      "rank": 4,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 86629,
       "num": 186244,
       "word": "小米集团涨4.5%",
@@ -7481,6 +7609,14 @@
       "onboard_time": 1763862139,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 75354,
+      "num": 113627,
+      "word": "中国麻辣串在首尔火了",
+      "onboard_time": 1764068722,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74838,
@@ -8051,6 +8187,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51680,
+      "num": 113962,
+      "word": "导航语音包 擦边",
+      "onboard_time": 1764068960,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51675,
       "num": 165228,
       "word": "国考生订房成功后房价翻倍被退订",
@@ -8081,6 +8225,14 @@
       "onboard_time": 1763979081,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50190,
+      "num": 99955,
+      "word": "文韬这么多年来话最多的一次",
+      "onboard_time": 1764067824,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 49160,
@@ -8185,6 +8337,14 @@
       "onboard_time": 1763872340,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45592,
+      "num": 176438,
+      "word": "日本钚材料约可制造6千枚核弹",
+      "onboard_time": 1764068781,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 44572,

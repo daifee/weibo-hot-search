@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764067735340,
+  "endTime": 1764069934386,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -843,6 +843,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 1562740,
+      "num": 176349,
+      "word": "林俊杰回应恋情",
+      "onboard_time": 1764069081,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1550321,
       "num": 1550321,
       "word": "何卓佳vs范思琦",
@@ -1129,6 +1137,14 @@
       "onboard_time": 1762671021,
       "rank": 1,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1347589,
+      "num": 178286,
+      "word": "中国一男子在日本关西机场坠亡",
+      "onboard_time": 1764067641,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1346518,
@@ -19411,14 +19427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 258196,
-      "num": 158618,
-      "word": "中国一男子在日本关西机场坠亡",
-      "onboard_time": 1764067641,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 258190,
       "num": 258190,
       "word": "小米通话将停服",
@@ -21033,6 +21041,14 @@
       "onboard_time": 1763360540,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 235065,
+      "num": 235065,
+      "word": "佛山音乐节",
+      "onboard_time": 1764067402,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 234957,
@@ -24067,14 +24083,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 205588,
-      "num": 205588,
-      "word": "佛山音乐节",
-      "onboard_time": 1764067402,
-      "rank": 16,
-      "category": "演出"
-    },
-    {
       "raw_hot": 205529,
       "num": 200240,
       "word": "酷酷的滕直播",
@@ -25473,6 +25481,14 @@
       "onboard_time": 1763776221,
       "rank": 30,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 198240,
+      "num": 176138,
+      "word": "迪丽热巴 枭完你的枭你的",
+      "onboard_time": 1764069441,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 198199,
@@ -29795,6 +29811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 176942,
+      "num": 176942,
+      "word": "Peyz首播",
+      "onboard_time": 1764069441,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 176856,
       "num": 199359,
       "word": "原来1000度近视半飞秒是这样做的",
@@ -32577,6 +32601,14 @@
       "onboard_time": 1762697722,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 164105,
+      "num": 164105,
+      "word": "钎城今日份运动打卡",
+      "onboard_time": 1764069320,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 164103,
@@ -39339,6 +39371,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139509,
+      "num": 139509,
+      "word": "充电宝 涨价",
+      "onboard_time": 1764069200,
+      "rank": 32,
+      "category": "数码"
+    },
+    {
       "raw_hot": 139508,
       "num": 130920,
       "word": "长期侧睡发现肩膀前移了",
@@ -39369,6 +39409,14 @@
       "onboard_time": 1763111542,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 139346,
+      "num": 139346,
+      "word": "原来熬夜伤害可以这样抵消",
+      "onboard_time": 1764069561,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 139344,
@@ -41323,6 +41371,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 133865,
+      "num": 176575,
+      "word": "明年起遛狗不拴绳最高拘10天罚1千",
+      "onboard_time": 1764068423,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133846,
       "num": 166684,
       "word": "陈添祥红毯压轴",
@@ -42603,6 +42659,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130212,
+      "num": 488235,
+      "word": "神舟二十号裂纹有救了",
+      "onboard_time": 1764064822,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 130203,
       "num": 130203,
       "word": "王橹杰坐马桶上吹头发",
@@ -43561,6 +43625,14 @@
       "onboard_time": 1762086681,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 127747,
+      "num": 168950,
+      "word": "大生意人",
+      "onboard_time": 1764069743,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 127730,
@@ -45857,6 +45929,14 @@
       "onboard_time": 1762041079,
       "rank": 24,
       "category": "美食"
+    },
+    {
+      "raw_hot": 122830,
+      "num": 122830,
+      "word": "压力性暴食",
+      "onboard_time": 1764066381,
+      "rank": 44,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 122791,
@@ -49899,6 +49979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 114199,
+      "num": 114199,
+      "word": "俄军22枚导弹464架无人机袭乌",
+      "onboard_time": 1764068241,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114175,
       "num": 317377,
       "word": "王一博脚趾头都肿了",
@@ -50731,14 +50819,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 112470,
-      "num": 112470,
-      "word": "压力性暴食",
-      "onboard_time": 1764066381,
-      "rank": 44,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 112459,
       "num": 109946,
       "word": "苹果有苹果的办法",
@@ -51409,14 +51489,6 @@
       "onboard_time": 1762660279,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 111071,
-      "num": 168794,
-      "word": "神舟二十号裂纹有救了",
-      "onboard_time": 1764064822,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 111061,
@@ -52273,6 +52345,14 @@
       "onboard_time": 1762770261,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109198,
+      "num": 178798,
+      "word": "真有剧拍出流放宁古塔了",
+      "onboard_time": 1764069441,
+      "rank": 9,
+      "category": "剧集"
     },
     {
       "raw_hot": 109194,
@@ -53579,6 +53659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106945,
+      "num": 164351,
+      "word": "日本熊本5.8级地震",
+      "onboard_time": 1764069320,
+      "rank": 29,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 106932,
       "num": 177323,
       "word": "王嘉尔哭了",
@@ -53833,6 +53921,14 @@
       "onboard_time": 1763250019,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 106533,
+      "num": 106533,
+      "word": "鹿哈女友自曝彩礼",
+      "onboard_time": 1764068960,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 106504,
@@ -54177,6 +54273,14 @@
       "onboard_time": 1762600401,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105852,
+      "num": 105852,
+      "word": "枭起青壤的编剧",
+      "onboard_time": 1764068659,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 105851,
@@ -57083,6 +57187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100919,
+      "num": 910021,
+      "word": "中国机器人或将能吃出辣椒有多辣",
+      "onboard_time": 1764067581,
+      "rank": 4,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 100900,
       "num": 100900,
       "word": "专家回应近期康熙身世假说",
@@ -57769,6 +57881,14 @@
       "onboard_time": 1762871962,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 99803,
+      "num": 99803,
+      "word": "曝LPL竞拍名单",
+      "onboard_time": 1764069743,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 99755,
@@ -59057,6 +59177,14 @@
       "onboard_time": 1762261102,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97687,
+      "num": 97687,
+      "word": "王楚钦不在意一场比赛的得失",
+      "onboard_time": 1764068481,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 97664,
@@ -65443,14 +65571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86847,
-      "num": 678394,
-      "word": "中国机器人或将能吃出辣椒有多辣",
-      "onboard_time": 1764067581,
-      "rank": 4,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 86803,
       "num": 91403,
       "word": "天道鸿元隐匿网上敛财500万奸淫10人",
@@ -70857,6 +70977,14 @@
       "onboard_time": 1763289081,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 75354,
+      "num": 113627,
+      "word": "中国麻辣串在首尔火了",
+      "onboard_time": 1764068722,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 75338,
@@ -77651,6 +77779,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51680,
+      "num": 113962,
+      "word": "导航语音包 擦边",
+      "onboard_time": 1764068960,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51675,
       "num": 165228,
       "word": "国考生订房成功后房价翻倍被退订",
@@ -77969,6 +78105,14 @@
       "onboard_time": 1762456514,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50190,
+      "num": 99955,
+      "word": "文韬这么多年来话最多的一次",
+      "onboard_time": 1764067824,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 50164,
@@ -79329,6 +79473,14 @@
       "onboard_time": 1763356402,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45592,
+      "num": 176438,
+      "word": "日本钚材料约可制造6千枚核弹",
+      "onboard_time": 1764068781,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 45529,
