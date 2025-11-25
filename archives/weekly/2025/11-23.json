@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764049460181,
+  "endTime": 1764052854365,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -16,6 +16,14 @@
       "word": "唐嫣现身罗晋父亲葬礼",
       "onboard_time": 1763886080,
       "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1791303,
+      "num": 188788,
+      "word": "林俊杰 女友",
+      "onboard_time": 1764051622,
+      "rank": 21,
       "category": "艺人"
     },
     {
@@ -193,6 +201,14 @@
       "onboard_time": 1763911642,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1007397,
+      "num": 702992,
+      "word": "狂野时代 退票",
+      "onboard_time": 1764047662,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 1006405,
@@ -427,14 +443,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 702992,
-      "num": 702992,
-      "word": "狂野时代 退票",
-      "onboard_time": 1764047662,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 691390,
       "num": 432351,
       "word": "花一万六买152件衣服",
@@ -667,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543532,
+      "num": 188346,
+      "word": "孙颖莎点赞",
+      "onboard_time": 1764050121,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 539835,
       "num": 197985,
       "word": "黄一鸣谈恋爱了",
@@ -763,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 516159,
+      "num": 188118,
+      "word": "王嘉尔喝醉了睡街上",
+      "onboard_time": 1764052103,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 513718,
       "num": 970995,
       "word": "枭起青壤第六集卡在这对吗",
@@ -833,6 +857,14 @@
       "onboard_time": 1763870062,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 493114,
+      "num": 493114,
+      "word": "谈到琉球日本炸锅",
+      "onboard_time": 1764048141,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 490573,
@@ -1035,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 431833,
+      "num": 187460,
+      "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
+      "onboard_time": 1764050001,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428839,
       "num": 428839,
       "word": "陈星旭在迪丽热巴面前快夹成卡车了",
@@ -1161,6 +1201,14 @@
       "onboard_time": 1764033621,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 394229,
+      "num": 1093760,
+      "word": "华为Mate80",
+      "onboard_time": 1764045563,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 392171,
@@ -1361,6 +1409,14 @@
       "onboard_time": 1763990002,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 337673,
+      "num": 493267,
+      "word": "枭起青壤追剧团",
+      "onboard_time": 1764051981,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 337282,
@@ -1817,14 +1873,6 @@
       "onboard_time": 1763908404,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276889,
-      "num": 276889,
-      "word": "谈到琉球日本炸锅",
-      "onboard_time": 1764048141,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 275977,
@@ -2459,6 +2507,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 206394,
+      "num": 466977,
+      "word": "枭起青壤打戏",
+      "onboard_time": 1764051922,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205919,
       "num": 160373,
       "word": "高市早苗会前花几个小时挑衣服",
@@ -2529,14 +2585,6 @@
       "onboard_time": 1764041422,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 203209,
-      "num": 1093760,
-      "word": "华为Mate80",
-      "onboard_time": 1764045563,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 202598,
@@ -2723,6 +2771,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192260,
+      "num": 459583,
+      "word": "无限暖暖",
+      "onboard_time": 1763877981,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 191979,
       "num": 415398,
       "word": "TTG清清断开连接",
@@ -2801,6 +2857,14 @@
       "onboard_time": 1764041542,
       "rank": 25,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 189767,
+      "num": 189766,
+      "word": "金晨陈伟霆演史密斯夫妇",
+      "onboard_time": 1764050300,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 189066,
@@ -2883,6 +2947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186970,
+      "num": 526443,
+      "word": "华为发布会",
+      "onboard_time": 1764052702,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186754,
       "num": 157505,
       "word": "戒糖10天身体就会发生变化",
@@ -2913,6 +2985,14 @@
       "onboard_time": 1763997562,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 185418,
+      "num": 185418,
+      "word": "马斯克预言20年后世界",
+      "onboard_time": 1764047662,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 185030,
@@ -3403,14 +3483,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 161995,
-      "num": 161995,
-      "word": "马斯克预言20年后世界",
-      "onboard_time": 1764047662,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161720,
       "num": 161720,
       "word": "陈星旭 变脸梦回李承鄞",
@@ -3555,6 +3627,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154795,
+      "num": 154795,
+      "word": "高市早苗回应与特朗普通话",
+      "onboard_time": 1764051082,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154640,
       "num": 154640,
       "word": "高市早苗看莫迪的眼神耐人寻味",
@@ -3633,6 +3713,14 @@
       "onboard_time": 1763895080,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 151001,
+      "num": 151001,
+      "word": "空气炸锅里不能放的东西",
+      "onboard_time": 1764048022,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 150448,
@@ -4131,6 +4219,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 132407,
+      "num": 132407,
+      "word": "他甚至连动作都是现抄的",
+      "onboard_time": 1764051322,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132239,
       "num": 132239,
       "word": "突然不喜欢一个喜欢了很久的人",
@@ -4211,6 +4307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129703,
+      "num": 129703,
+      "word": "高市回应与特朗普通话是否涉台",
+      "onboard_time": 1764051501,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129190,
       "num": 196766,
       "word": "肖战第一次过这么冷的冬天",
@@ -4259,12 +4363,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128716,
+      "num": 128716,
+      "word": "k总回应结婚圈钱",
+      "onboard_time": 1764051022,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 128592,
       "num": 128592,
       "word": "早安跳硬糖少女代表作",
       "onboard_time": 1763879602,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128463,
+      "num": 128463,
+      "word": "过度感谢 过度道歉",
+      "onboard_time": 1764050300,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 128004,
@@ -4441,6 +4561,14 @@
       "onboard_time": 1763949439,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121694,
+      "num": 161764,
+      "word": "刘耀文头巾造型潮得没边了",
+      "onboard_time": 1764051442,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 121495,
@@ -4979,6 +5107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109897,
+      "num": 189803,
+      "word": "杨瀚森背靠背出战2分半",
+      "onboard_time": 1764047842,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109787,
       "num": 109787,
       "word": "余宇涵直播",
@@ -5171,6 +5307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106860,
+      "num": 106860,
+      "word": "特朗普将于明年4月访华",
+      "onboard_time": 1764049040,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106592,
       "num": 157951,
       "word": "0人看完这4集能不笑纳",
@@ -5201,14 +5345,6 @@
       "onboard_time": 1763979501,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 106125,
-      "num": 122218,
-      "word": "无限暖暖",
-      "onboard_time": 1763877981,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 106094,
@@ -5387,6 +5523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103193,
+      "num": 189767,
+      "word": "库里的三分",
+      "onboard_time": 1764048381,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 102995,
       "num": 102995,
       "word": "手机被远程控制后显示这个界面",
@@ -5489,14 +5633,6 @@
       "onboard_time": 1763976441,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 100826,
-      "num": 146477,
-      "word": "库里的三分",
-      "onboard_time": 1764048381,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 100735,
@@ -5883,14 +6019,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 93408,
-      "num": 93408,
-      "word": "特朗普将于明年4月访华",
-      "onboard_time": 1764049040,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93349,
       "num": 93349,
       "word": "为什么让喜君去跟踪",
@@ -6129,6 +6257,14 @@
       "onboard_time": 1764033800,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86629,
+      "num": 186244,
+      "word": "小米集团涨4.5%",
+      "onboard_time": 1764051681,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 86371,
@@ -6691,6 +6827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64964,
+      "num": 130643,
+      "word": "不怕富二代败家就怕富二代创业",
+      "onboard_time": 1764051501,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64685,
       "num": 144813,
       "word": "日本民众担忧沦为靶子",
@@ -6713,14 +6857,6 @@
       "onboard_time": 1763971582,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 64106,
-      "num": 130481,
-      "word": "杨瀚森背靠背出战2分半",
-      "onboard_time": 1764047842,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 62945,
@@ -6929,6 +7065,14 @@
       "onboard_time": 1764029841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54884,
+      "num": 189610,
+      "word": "枭起青壤 反派比正派有魅力",
+      "onboard_time": 1764051922,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 54429,
@@ -7187,6 +7331,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42833,
+      "num": 150709,
+      "word": "巩俐刘亦菲赵丽颖 全女西游记",
+      "onboard_time": 1764052702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42072,
       "num": 97177,
       "word": "国考考点",
@@ -7371,6 +7523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33972,
+      "num": 189022,
+      "word": "日本强化进攻性部署绝非防御举动",
+      "onboard_time": 1764051622,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33960,
       "num": 200397,
       "word": "老中医回应被罚退赛",
@@ -7515,6 +7675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29726,
+      "num": 150948,
+      "word": "日本磨牙16年对中国贴脸开大",
+      "onboard_time": 1764052823,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29389,
       "num": 93103,
       "word": "赤木刚宪瘦了60斤",
@@ -7563,6 +7731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 28253,
+      "num": 1075197,
+      "word": "优质主播中国行江苏站",
+      "onboard_time": 1764048201,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27189,
       "num": 104607,
       "word": "公园方回应近百只猕猴打群架",
@@ -7585,14 +7761,6 @@
       "onboard_time": 1763977521,
       "rank": 39,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 26646,
-      "num": 1075197,
-      "word": "优质主播中国行江苏站",
-      "onboard_time": 1764048201,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25587,
@@ -7795,6 +7963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20536,
+      "num": 150464,
+      "word": "法国说唱歌手绑架粉丝后囚禁虐待",
+      "onboard_time": 1764052521,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20366,
       "num": 91875,
       "word": "爱有5种语言",
@@ -7931,6 +8107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14343,
+      "num": 189305,
+      "word": "男子离家前跪别空无一人老家",
+      "onboard_time": 1764052521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14227,
       "num": 39334,
       "word": "贺峻霖到处都有综艺感",
@@ -7953,6 +8137,14 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 13770,
+      "num": 150717,
+      "word": "高中学历骗子成高校首席科学家",
+      "onboard_time": 1764052521,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13359,

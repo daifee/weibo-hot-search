@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764049460181,
+  "endTime": 1764052854365,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -609,6 +609,14 @@
       "onboard_time": 1763640743,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1791303,
+      "num": 188788,
+      "word": "林俊杰 女友",
+      "onboard_time": 1764051622,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1779276,
@@ -2233,6 +2241,14 @@
       "onboard_time": 1763433200,
       "rank": 10,
       "category": "数码"
+    },
+    {
+      "raw_hot": 1007397,
+      "num": 702992,
+      "word": "狂野时代 退票",
+      "onboard_time": 1764047662,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 1006405,
@@ -4489,14 +4505,6 @@
       "onboard_time": 1763798420,
       "rank": 20,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 702992,
-      "num": 702992,
-      "word": "狂野时代 退票",
-      "onboard_time": 1764047662,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 702431,
@@ -7291,6 +7299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 543532,
+      "num": 188346,
+      "word": "孙颖莎点赞",
+      "onboard_time": 1764050121,
+      "rank": 22,
+      "category": "体育"
+    },
+    {
       "raw_hot": 541767,
       "num": 541767,
       "word": "南京下雪",
@@ -7915,6 +7931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 516159,
+      "num": 188118,
+      "word": "王嘉尔喝醉了睡街上",
+      "onboard_time": 1764052103,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 516116,
       "num": 300006,
       "word": "Faker谈多兰多次失误",
@@ -8521,6 +8545,14 @@
       "onboard_time": 1763870062,
       "rank": 38,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 493114,
+      "num": 493114,
+      "word": "谈到琉球日本炸锅",
+      "onboard_time": 1764048141,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 492972,
@@ -9940,7 +9972,7 @@
     },
     {
       "raw_hot": 443472,
-      "num": 443472,
+      "num": 459583,
       "word": "无限暖暖",
       "onboard_time": 1761999321,
       "rank": 3,
@@ -10353,6 +10385,14 @@
       "onboard_time": 1763098760,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 431833,
+      "num": 187460,
+      "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
+      "onboard_time": 1764050001,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 431700,
@@ -11665,6 +11705,14 @@
       "onboard_time": 1763776700,
       "rank": 11,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 394229,
+      "num": 1093760,
+      "word": "华为Mate80",
+      "onboard_time": 1763292202,
+      "rank": 25,
+      "category": "数码"
     },
     {
       "raw_hot": 393970,
@@ -13323,14 +13371,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 354574,
-      "num": 1093760,
-      "word": "华为Mate80",
-      "onboard_time": 1763292202,
-      "rank": 25,
-      "category": "数码"
-    },
-    {
       "raw_hot": 354467,
       "num": 350237,
       "word": "钟楚曦坚持自己拿奖杯",
@@ -14097,6 +14137,14 @@
       "onboard_time": 1763783960,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 337673,
+      "num": 493267,
+      "word": "枭起青壤追剧团",
+      "onboard_time": 1764051981,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 337671,
@@ -17769,14 +17817,6 @@
       "onboard_time": 1761987741,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276889,
-      "num": 276889,
-      "word": "谈到琉球日本炸锅",
-      "onboard_time": 1764048141,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 276767,
@@ -23619,6 +23659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206394,
+      "num": 466977,
+      "word": "枭起青壤打戏",
+      "onboard_time": 1764051922,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 206260,
       "num": 206260,
       "word": "这居然是谭松韵",
@@ -26843,6 +26891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189767,
+      "num": 189766,
+      "word": "金晨陈伟霆演史密斯夫妇",
+      "onboard_time": 1764050300,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 189635,
       "num": 189635,
       "word": "入冬如何3分钟暖被窝",
@@ -27531,6 +27587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186970,
+      "num": 526443,
+      "word": "华为发布会",
+      "onboard_time": 1764052702,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 186958,
       "num": 186958,
       "word": "将门毒后已经溜了王鹤棣3年了",
@@ -27873,6 +27937,14 @@
       "onboard_time": 1762921643,
       "rank": 44,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 185418,
+      "num": 185418,
+      "word": "马斯克预言20年后世界",
+      "onboard_time": 1764047662,
+      "rank": 33,
+      "category": "互联网"
     },
     {
       "raw_hot": 185378,
@@ -32515,14 +32587,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 161995,
-      "num": 161995,
-      "word": "马斯克预言20年后世界",
-      "onboard_time": 1764047662,
-      "rank": 33,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 161970,
       "num": 295486,
       "word": "王鹤棣孟子义一开口我就想笑",
@@ -34539,6 +34603,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 154795,
+      "num": 154795,
+      "word": "高市早苗回应与特朗普通话",
+      "onboard_time": 1764051082,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 154784,
       "num": 149338,
       "word": "孟子义3秒消失术",
@@ -35457,6 +35529,14 @@
       "onboard_time": 1763366481,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151001,
+      "num": 151001,
+      "word": "空气炸锅里不能放的东西",
+      "onboard_time": 1764048022,
+      "rank": 35,
+      "category": "美食"
     },
     {
       "raw_hot": 150938,
@@ -41235,6 +41315,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 132407,
+      "num": 132407,
+      "word": "他甚至连动作都是现抄的",
+      "onboard_time": 1764051322,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 132390,
       "num": 132390,
       "word": "汪苏泷厦门演唱会",
@@ -42115,6 +42203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129703,
+      "num": 129703,
+      "word": "高市回应与特朗普通话是否涉台",
+      "onboard_time": 1764051501,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 129663,
       "num": 129663,
       "word": "刘晓庆和张蔷吐槽刘嘉玲爱穿黑的",
@@ -42555,6 +42651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128716,
+      "num": 128716,
+      "word": "k总回应结婚圈钱",
+      "onboard_time": 1764051022,
+      "rank": 44,
+      "category": "网红"
+    },
+    {
       "raw_hot": 128695,
       "num": 128695,
       "word": "暗河传法拉利停车场",
@@ -42657,6 +42761,14 @@
       "onboard_time": 1762768880,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128463,
+      "num": 128463,
+      "word": "过度感谢 过度道歉",
+      "onboard_time": 1764050300,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 128456,
@@ -45665,6 +45777,14 @@
       "onboard_time": 1763782340,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121694,
+      "num": 161764,
+      "word": "刘耀文头巾造型潮得没边了",
+      "onboard_time": 1764051442,
+      "rank": 33,
+      "category": "音乐"
     },
     {
       "raw_hot": 121693,
@@ -51171,6 +51291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 109897,
+      "num": 189803,
+      "word": "杨瀚森背靠背出战2分半",
+      "onboard_time": 1764047842,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109860,
       "num": 109860,
       "word": "约基奇55分",
@@ -52785,6 +52913,14 @@
       "onboard_time": 1763456303,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 106860,
+      "num": 106860,
+      "word": "特朗普将于明年4月访华",
+      "onboard_time": 1764049040,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 106849,
@@ -54859,6 +54995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 103193,
+      "num": 189767,
+      "word": "库里的三分",
+      "onboard_time": 1764048381,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103189,
       "num": 81697,
       "word": "中方奉劝英方停止贼喊捉贼",
@@ -56257,14 +56401,6 @@
       "onboard_time": 1762842679,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 100826,
-      "num": 146477,
-      "word": "库里的三分",
-      "onboard_time": 1764048381,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 100781,
@@ -60699,14 +60835,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 93408,
-      "num": 93408,
-      "word": "特朗普将于明年4月访华",
-      "onboard_time": 1764049040,
-      "rank": 44,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 93406,
       "num": 93406,
       "word": "Faker16局游戏使用13个英雄",
@@ -64609,6 +64737,14 @@
       "onboard_time": 1762507100,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 86629,
+      "num": 186244,
+      "word": "小米集团涨4.5%",
+      "onboard_time": 1764051681,
+      "rank": 29,
+      "category": "财经"
     },
     {
       "raw_hot": 86599,
@@ -73139,6 +73275,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 64964,
+      "num": 130643,
+      "word": "不怕富二代败家就怕富二代创业",
+      "onboard_time": 1764051501,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 64949,
       "num": 64949,
       "word": "466具琉球人遗骨被日本殖民者偷挖",
@@ -73369,14 +73513,6 @@
       "onboard_time": 1763971582,
       "rank": 28,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 64106,
-      "num": 130481,
-      "word": "杨瀚森背靠背出战2分半",
-      "onboard_time": 1764047842,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 64083,
@@ -75833,6 +75969,14 @@
       "onboard_time": 1763791881,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54884,
+      "num": 189610,
+      "word": "枭起青壤 反派比正派有魅力",
+      "onboard_time": 1764051922,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 54861,
@@ -79043,6 +79187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 42833,
+      "num": 150709,
+      "word": "巩俐刘亦菲赵丽颖 全女西游记",
+      "onboard_time": 1764052702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42785,
       "num": 110202,
       "word": "国考抢考点",
@@ -81331,6 +81483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 33972,
+      "num": 189022,
+      "word": "日本强化进攻性部署绝非防御举动",
+      "onboard_time": 1764051622,
+      "rank": 20,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33960,
       "num": 200397,
       "word": "老中医回应被罚退赛",
@@ -82643,6 +82803,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 29726,
+      "num": 150948,
+      "word": "日本磨牙16年对中国贴脸开大",
+      "onboard_time": 1764052823,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29723,
       "num": 164070,
       "word": "日本首相官邸外抗议人数剧增",
@@ -83033,6 +83201,14 @@
       "onboard_time": 1763210007,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28253,
+      "num": 1075197,
+      "word": "优质主播中国行江苏站",
+      "onboard_time": 1764048201,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28174,
@@ -83488,14 +83664,6 @@
       "word": "丈夫病亡两天后妻子也离世家属发声",
       "onboard_time": 1762414223,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26646,
-      "num": 1075197,
-      "word": "优质主播中国行江苏站",
-      "onboard_time": 1764048201,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -84907,6 +85075,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 20536,
+      "num": 150464,
+      "word": "法国说唱歌手绑架粉丝后囚禁虐待",
+      "onboard_time": 1764052521,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20533,
       "num": 25367,
       "word": "刘宇宁开场爆闪",
@@ -86251,6 +86427,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14343,
+      "num": 189305,
+      "word": "男子离家前跪别空无一人老家",
+      "onboard_time": 1764052521,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14321,
       "num": 21583,
       "word": "马尔代夫培养无烟一代",
@@ -86377,6 +86561,14 @@
       "onboard_time": 1762524021,
       "rank": 45,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 13770,
+      "num": 150717,
+      "word": "高中学历骗子成高校首席科学家",
+      "onboard_time": 1764052521,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13739,
