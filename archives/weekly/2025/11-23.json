@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764096715179,
+  "endTime": 1764098669804,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -4361,6 +4361,14 @@
       "onboard_time": 1763900781,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161617,
+      "num": 161617,
+      "word": "婚前同居认定属于家庭成员",
+      "onboard_time": 1764096795,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 161561,
@@ -9675,6 +9683,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27873,
+      "num": 42677,
+      "word": "狂野时代部分场超30%观众提前离场",
+      "onboard_time": 1764096613,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 27318,
       "num": 112026,
       "word": "大悦城连续三年累计亏损超73亿元",
@@ -9771,6 +9787,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24390,
+      "num": 42865,
+      "word": "小姑娘走心了小男孩还没过脑",
+      "onboard_time": 1764095835,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 24335,
       "num": 199858,
       "word": "神秘领导力课程资料最低仅需9毛8",
@@ -9849,14 +9873,6 @@
       "onboard_time": 1764079042,
       "rank": 36,
       "category": "民生新闻,数码"
-    },
-    {
-      "raw_hot": 23030,
-      "num": 42865,
-      "word": "小姑娘走心了小男孩还没过脑",
-      "onboard_time": 1764095835,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 22992,
@@ -10035,20 +10051,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 18957,
-      "num": 42677,
-      "word": "狂野时代部分场超30%观众提前离场",
-      "onboard_time": 1764096613,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 18912,
       "num": 121767,
       "word": "明年起遛狗不拴绳违法",
       "onboard_time": 1763949140,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18661,
+      "num": 29681,
+      "word": "声生不息",
+      "onboard_time": 1764097334,
+      "rank": 28,
+      "category": "综艺"
     },
     {
       "raw_hot": 18499,

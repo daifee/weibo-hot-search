@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764096715179,
+  "endTime": 1764098669804,
   "band_list": [
     {
       "raw_hot": 840740,
@@ -129,6 +129,14 @@
       "onboard_time": 1764071002,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161617,
+      "num": 161617,
+      "word": "婚前同居认定属于家庭成员",
+      "onboard_time": 1764096795,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 159417,
@@ -467,7 +475,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 23030,
+      "raw_hot": 27873,
+      "num": 42677,
+      "word": "狂野时代部分场超30%观众提前离场",
+      "onboard_time": 1764096613,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 24390,
       "num": 42865,
       "word": "小姑娘走心了小男孩还没过脑",
       "onboard_time": 1764095835,
@@ -507,12 +523,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 18957,
-      "num": 42677,
-      "word": "狂野时代部分场超30%观众提前离场",
-      "onboard_time": 1764096613,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 18661,
+      "num": 29681,
+      "word": "声生不息",
+      "onboard_time": 1764097334,
+      "rank": 28,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
