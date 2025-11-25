@@ -1,0 +1,410 @@
+{
+  "runTime": 1764055645411,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 894958,
+        "num": 1143193,
+        "word": "华为发布会",
+        "onboard_time": 1764052702,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 525080,
+        "num": 525080,
+        "word": "高市早苗回应与特朗普通话",
+        "onboard_time": 1764051082,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 39414,
+        "num": 471315,
+        "word": "中国力争在宇宙黑暗时代等实现突破",
+        "onboard_time": 1764038781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 819531,
+        "num": 471157,
+        "word": "春节档 激烈",
+        "onboard_time": 1764053962,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 468568,
+        "num": 468568,
+        "word": "在日本留学中国学生发声",
+        "onboard_time": 1764038300,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 313878,
+        "num": 313878,
+        "word": "枭起青壤追剧团",
+        "onboard_time": 1764051981,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 269668,
+        "num": 269668,
+        "word": "谈到琉球日本炸锅",
+        "onboard_time": 1764048141,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 254435,
+        "num": 254435,
+        "word": "Mate80ProMAX",
+        "onboard_time": 1764055040,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 249386,
+        "num": 249386,
+        "word": "枭起青壤打戏",
+        "onboard_time": 1764051922,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238924,
+        "num": 238924,
+        "word": "Mate80隐藏彩蛋",
+        "onboard_time": 1764054562,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 796194,
+        "num": 236766,
+        "word": "狂野时代 退票",
+        "onboard_time": 1764047662,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 637106,
+        "num": 229308,
+        "word": "华为Mate80",
+        "onboard_time": 1764045563,
+        "rank": 11,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 452176,
+        "num": 225479,
+        "word": "过度感谢 过度道歉",
+        "onboard_time": 1764050300,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 292859,
+        "num": 220160,
+        "word": "日本磨牙16年对中国贴脸开大",
+        "onboard_time": 1764052823,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 83052,
+        "num": 214157,
+        "word": "神舟飞船任务标识首现TGYJ",
+        "onboard_time": 1764054023,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208084,
+        "num": 208084,
+        "word": "巩俐刘亦菲赵丽颖 全女西游记",
+        "onboard_time": 1764052702,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205741,
+        "num": 205741,
+        "word": "金晨陈伟霆演史密斯夫妇",
+        "onboard_time": 1764050300,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179229,
+        "num": 179229,
+        "word": "日本机场挤满回国的中国人",
+        "onboard_time": 1764036260,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127785,
+        "num": 179053,
+        "word": "高市回应与特朗普通话是否涉台",
+        "onboard_time": 1764051501,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55338,
+        "num": 178916,
+        "word": "警惕日本或成为亚洲最危险国家",
+        "onboard_time": 1764055222,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 73629,
+        "num": 178481,
+        "word": "杨瀚森背靠背出战2分半",
+        "onboard_time": 1764047842,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1801814,
+        "num": 178191,
+        "word": "林俊杰 女友",
+        "onboard_time": 1764051622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89329,
+        "num": 178038,
+        "word": "AI应用概念多股涨停",
+        "onboard_time": 1764055161,
+        "rank": 22,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 355788,
+        "num": 177594,
+        "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
+        "onboard_time": 1764050001,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336473,
+        "num": 177337,
+        "word": "王嘉尔喝醉了睡街上",
+        "onboard_time": 1764052103,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241659,
+        "num": 177051,
+        "word": "苹果已经在烤肉届杀疯了",
+        "onboard_time": 1764045143,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 70811,
+        "num": 176902,
+        "word": "库里的三分",
+        "onboard_time": 1764048381,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 335906,
+        "num": 176601,
+        "word": "杜淳老婆曝天天被催债",
+        "onboard_time": 1764046702,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74536,
+        "num": 176297,
+        "word": "北大医药直线涨停",
+        "onboard_time": 1764055281,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 213821,
+        "num": 176152,
+        "word": "章若楠在减肥",
+        "onboard_time": 1764054260,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486095,
+        "num": 175655,
+        "word": "日本会不会偷袭中国",
+        "onboard_time": 1764042922,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211154,
+        "num": 175635,
+        "word": "丁禹兮 浪漫疯子",
+        "onboard_time": 1764054921,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185730,
+        "num": 175232,
+        "word": "王嘉尔坦言30岁后开始做医美",
+        "onboard_time": 1764045923,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175090,
+        "num": 175090,
+        "word": "郭碧婷带两个孩子台北逛街",
+        "onboard_time": 1764053425,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162331,
+        "num": 162331,
+        "word": "易梦玲恋情公开后首现身",
+        "onboard_time": 1764052881,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144917,
+        "num": 144917,
+        "word": "那英刚洗完头就上节目了",
+        "onboard_time": 1764053721,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134916,
+        "num": 134916,
+        "word": "TheShy票王",
+        "onboard_time": 1764055161,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134189,
+        "num": 134189,
+        "word": "王楚钦支持肖凯文新剧",
+        "onboard_time": 1764048501,
+        "rank": 37,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 47861,
+        "num": 130301,
+        "word": "成本20元的表皮生长因子售价上万",
+        "onboard_time": 1764054921,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129196,
+        "num": 129196,
+        "word": "空气炸锅里不能放的东西",
+        "onboard_time": 1764048022,
+        "rank": 39,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128061,
+        "num": 128061,
+        "word": "枭起青壤微博追剧团",
+        "onboard_time": 1764054441,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127977,
+        "num": 127977,
+        "word": "马斯克预言20年后世界",
+        "onboard_time": 1764047662,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 125796,
+        "num": 125796,
+        "word": "马思纯张晚意合作",
+        "onboard_time": 1764045744,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123582,
+        "num": 123582,
+        "word": "过冬有3件羽绒服就够了",
+        "onboard_time": 1764055402,
+        "rank": 43,
+        "category": "时尚"
+      },
+      {
+        "raw_hot": 123218,
+        "num": 123218,
+        "word": "建议明年买车的真实原因",
+        "onboard_time": 1764053780,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118044,
+        "num": 118044,
+        "word": "男子离家前跪别空无一人老家",
+        "onboard_time": 1764052521,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106451,
+        "num": 106451,
+        "word": "他甚至连动作都是现抄的",
+        "onboard_time": 1764051322,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 100911,
+        "num": 100911,
+        "word": "演员李顺载去世",
+        "onboard_time": 1764030922,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98475,
+        "num": 98475,
+        "word": "黄亦玫 我前任和上司在一起了",
+        "onboard_time": 1764038660,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65590,
+        "num": 95258,
+        "word": "神二十二发射圆满成功",
+        "onboard_time": 1764046462,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}

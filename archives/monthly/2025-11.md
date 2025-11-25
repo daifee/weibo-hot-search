@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 14:54:39
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 15:27:25
 </p>
 </blockquote>
 <p>
@@ -2097,6 +2097,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+华为发布会（热度：894958）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%B0%91%E9%92%B1%E8%83%BD%E8%AE%A9%E5%8D%A2%E6%98%B1%E6%99%93%E6%8A%8A%E8%BF%99%E6%9D%A1%E8%A7%86%E9%A2%91%E5%88%A0%E4%BA%86%23" target="weibo">
 多少钱能让卢昱晓把这条视频删了（热度：894050）
 </a>
@@ -2519,6 +2525,12 @@ A股（热度：834240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%B7%E7%86%99%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%98%AF%E6%B4%AA%E6%89%BF%E7%95%B4%E7%9A%84%E5%84%BF%E5%AD%90%23" target="weibo">
 康熙不可能是洪承畴的儿子（热度：820934）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%20%E6%BF%80%E7%83%88%23" target="weibo">
+春节档 激烈（热度：819531）
 </a>
 </li>
 
@@ -4077,6 +4089,12 @@ iPhone面容解锁不需要摄像头（热度：640462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%23" target="weibo">
+华为Mate80（热度：637106）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%88%E6%9C%88%E5%8F%91%E9%97%AE%E5%8F%B7%E5%90%8E%E7%A7%92%E5%88%A0%23" target="weibo">
 沈月发问号后秒删（热度：636700）
 </a>
@@ -5487,12 +5505,6 @@ C罗可能做过多次整容手术（热度：563173）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-华为发布会（热度：543718）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%82%B9%E8%B5%9E%23" target="weibo">
 孙颖莎点赞（热度：543532）
 </a>
@@ -5823,6 +5835,12 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23" target="weibo">
+高市早苗回应与特朗普通话（热度：525080）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%91%B1%E8%8A%B1%E5%BD%93%E5%A4%A9%E4%BD%BF%E7%94%A8%23" target="weibo">
 为什么要把葱花当天使用（热度：524846）
 </a>
@@ -5993,24 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%8B%92%E7%BB%9D%E5%84%BF%E5%AD%90%E6%AF%8D%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23" target="weibo">
 张柏芝拒绝儿子母亲节礼物（热度：515010）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E9%9B%AF%E7%BC%96%E9%80%A0%E8%A2%AD%E8%AD%A6%E6%8D%9E%E4%BA%BA%E6%83%85%E8%8A%82%E4%B8%BA%E6%98%BE%E7%A4%BA%E4%BA%BA%E8%84%89%23" target="weibo">
-秦雯编造袭警捞人情节为显示人脉（热度：514705）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%AA%E5%90%922%E4%B8%8D%E5%8F%82%E8%AF%84%E5%A5%A5%E6%96%AF%E5%8D%A1%E6%9C%80%E4%BD%B3%E5%8A%A8%E7%94%BB%E9%95%BF%E7%89%87%23" target="weibo">
-哪吒2不参评奥斯卡最佳动画长片（热度：514406）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%BF%97%E7%A5%A5%E8%87%AA%E6%9B%9D%E6%82%A3%E5%BE%AE%E7%AC%91%E5%BF%A7%E9%83%81%E7%97%87%23" target="weibo">
-罗志祥自曝患微笑忧郁症（热度：513769）
 </a>
 </li>
 

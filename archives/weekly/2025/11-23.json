@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764053679498,
+  "endTime": 1764055645411,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -275,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 894958,
+      "num": 1143193,
+      "word": "华为发布会",
+      "onboard_time": 1764052702,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 884836,
       "num": 884836,
       "word": "枭起青壤 吓人",
@@ -321,6 +329,14 @@
       "onboard_time": 1763908223,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 819531,
+      "num": 471157,
+      "word": "春节档 激烈",
+      "onboard_time": 1764053962,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 818278,
@@ -507,6 +523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 637106,
+      "num": 1093760,
+      "word": "华为Mate80",
+      "onboard_time": 1764045563,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 633802,
       "num": 252113,
       "word": "迪丽热巴意大利分巴",
@@ -675,14 +699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 543718,
-      "num": 543718,
-      "word": "华为发布会",
-      "onboard_time": 1764052702,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 543532,
       "num": 188346,
       "word": "孙颖莎点赞",
@@ -753,6 +769,14 @@
       "onboard_time": 1763963181,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 525080,
+      "num": 525080,
+      "word": "高市早苗回应与特朗普通话",
+      "onboard_time": 1764051082,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 522586,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 452176,
+      "num": 225479,
+      "word": "过度感谢 过度道歉",
+      "onboard_time": 1764050300,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -1209,14 +1241,6 @@
       "onboard_time": 1764033621,
       "rank": 22,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 394229,
-      "num": 1093760,
-      "word": "华为Mate80",
-      "onboard_time": 1764045563,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 392171,
@@ -1763,6 +1787,14 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 292859,
+      "num": 220160,
+      "word": "日本磨牙16年对中国贴脸开大",
+      "onboard_time": 1764052823,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 292144,
       "num": 198411,
       "word": "胡彦斌新歌",
@@ -2067,6 +2099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254435,
+      "num": 254435,
+      "word": "Mate80ProMAX",
+      "onboard_time": 1764055040,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "九尾官宣自由人",
@@ -2129,6 +2169,14 @@
       "onboard_time": 1763864960,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249386,
+      "num": 466977,
+      "word": "枭起青壤打戏",
+      "onboard_time": 1764051922,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 248642,
@@ -2219,6 +2267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 238924,
+      "num": 238924,
+      "word": "Mate80隐藏彩蛋",
+      "onboard_time": 1764054562,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 236052,
       "num": 1347749,
       "word": "中国选手夺冠主办方到处借五星红旗",
@@ -2281,22 +2337,6 @@
       "onboard_time": 1763884101,
       "rank": 6,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 230845,
-      "num": 466977,
-      "word": "枭起青壤打戏",
-      "onboard_time": 1764051922,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 230662,
-      "num": 169661,
-      "word": "高市早苗回应与特朗普通话",
-      "onboard_time": 1764051082,
-      "rank": 34,
-      "category": "国际时政"
     },
     {
       "raw_hot": 230605,
@@ -2467,6 +2507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213821,
+      "num": 176152,
+      "word": "章若楠在减肥",
+      "onboard_time": 1764054260,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 213785,
       "num": 170681,
       "word": "歌手孙悦因家人离世取消演出",
@@ -2499,6 +2547,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 211154,
+      "num": 175635,
+      "word": "丁禹兮 浪漫疯子",
+      "onboard_time": 1764054921,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211053,
       "num": 211053,
       "word": "刘宇宁直播",
@@ -2521,6 +2577,14 @@
       "onboard_time": 1763963721,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 208084,
+      "num": 208084,
+      "word": "巩俐刘亦菲赵丽颖 全女西游记",
+      "onboard_time": 1764052702,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 207950,
@@ -3115,14 +3179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 178703,
-      "num": 178703,
-      "word": "过度感谢 过度道歉",
-      "onboard_time": 1764050300,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 178030,
       "num": 178030,
       "word": "RNGM久酷连接成功",
@@ -3209,6 +3265,14 @@
       "onboard_time": 1763853497,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175090,
+      "num": 175090,
+      "word": "郭碧婷带两个孩子台北逛街",
+      "onboard_time": 1764053425,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 174805,
@@ -3499,6 +3563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162331,
+      "num": 162331,
+      "word": "易梦玲恋情公开后首现身",
+      "onboard_time": 1764052881,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 162242,
       "num": 245108,
       "word": "日本机场安检员偷中国游客现金被捕",
@@ -3612,7 +3684,7 @@
     },
     {
       "raw_hot": 156624,
-      "num": 156624,
+      "num": 179053,
       "word": "高市回应与特朗普通话是否涉台",
       "onboard_time": 1764051501,
       "rank": 43,
@@ -3859,6 +3931,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144917,
+      "num": 144917,
+      "word": "那英刚洗完头就上节目了",
+      "onboard_time": 1764053721,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 144870,
       "num": 144870,
       "word": "A股小作文引发工业富联盘中跌停",
@@ -3889,14 +3969,6 @@
       "onboard_time": 1763954600,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 143308,
-      "num": 143308,
-      "word": "易梦玲恋情公开后首现身",
-      "onboard_time": 1764052881,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 142701,
@@ -4179,6 +4251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 134916,
+      "num": 134916,
+      "word": "TheShy票王",
+      "onboard_time": 1764055161,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 134800,
       "num": 134800,
       "word": "KPL",
@@ -4281,14 +4361,6 @@
       "onboard_time": 1763967801,
       "rank": 34,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 131765,
-      "num": 181229,
-      "word": "巩俐刘亦菲赵丽颖 全女西游记",
-      "onboard_time": 1764052702,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 131271,
@@ -4417,6 +4489,14 @@
       "onboard_time": 1763879602,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 128061,
+      "num": 128061,
+      "word": "枭起青壤微博追剧团",
+      "onboard_time": 1764054441,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 128004,
@@ -4553,6 +4633,22 @@
       "onboard_time": 1763969482,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123582,
+      "num": 123582,
+      "word": "过冬有3件羽绒服就够了",
+      "onboard_time": 1764055402,
+      "rank": 43,
+      "category": "时尚"
+    },
+    {
+      "raw_hot": 123218,
+      "num": 123218,
+      "word": "建议明年买车的真实原因",
+      "onboard_time": 1764053780,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 123166,
@@ -4769,6 +4865,14 @@
       "onboard_time": 1763905762,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 118044,
+      "num": 189833,
+      "word": "男子离家前跪别空无一人老家",
+      "onboard_time": 1764052521,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117933,
@@ -5555,14 +5659,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103466,
-      "num": 103466,
-      "word": "郭碧婷带两个孩子台北逛街",
-      "onboard_time": 1764053425,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 103193,
       "num": 192379,
       "word": "库里的三分",
@@ -5809,14 +5905,6 @@
       "onboard_time": 1763977762,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 98553,
-      "num": 190788,
-      "word": "日本磨牙16年对中国贴脸开大",
-      "onboard_time": 1764052823,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 98498,
@@ -6235,6 +6323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 89329,
+      "num": 178038,
+      "word": "AI应用概念多股涨停",
+      "onboard_time": 1764055161,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 89326,
       "num": 1022941,
       "word": "推荐怕冷的人试试三层穿衣法",
@@ -6435,6 +6531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83052,
+      "num": 214157,
+      "word": "神舟飞船任务标识首现TGYJ",
+      "onboard_time": 1764054023,
+      "rank": 14,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 82848,
       "num": 161659,
       "word": "白宫怒批CNN彻头彻尾假新闻",
@@ -6627,14 +6731,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78326,
-      "num": 189833,
-      "word": "男子离家前跪别空无一人老家",
-      "onboard_time": 1764052521,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 78227,
       "num": 78227,
       "word": "G20约堡峰会通过联合宣言",
@@ -6705,6 +6801,14 @@
       "onboard_time": 1763982021,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74536,
+      "num": 176297,
+      "word": "北大医药直线涨停",
+      "onboard_time": 1764055281,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 74495,
@@ -7147,6 +7251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55338,
+      "num": 178916,
+      "word": "警惕日本或成为亚洲最危险国家",
+      "onboard_time": 1764055222,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 54429,
       "num": 70830,
       "word": "张俪 说的是我吗",
@@ -7249,6 +7361,14 @@
       "onboard_time": 1763881939,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47861,
+      "num": 130301,
+      "word": "成本20元的表皮生长因子售价上万",
+      "onboard_time": 1764054921,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47808,
