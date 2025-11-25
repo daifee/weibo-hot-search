@@ -1,0 +1,410 @@
+{
+  "runTime": 1764041821794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1313685,
+        "num": 1313685,
+        "word": "日本机场挤满回国的中国人",
+        "onboard_time": 1764036260,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 171976,
+        "num": 1280184,
+        "word": "武大靖说米兰冬奥中国短道队全上榜",
+        "onboard_time": 1764039441,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 76447,
+        "num": 1278733,
+        "word": "中国力争在宇宙黑暗时代等实现突破",
+        "onboard_time": 1764038781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1278255,
+        "num": 1278255,
+        "word": "在日本留学中国学生发声",
+        "onboard_time": 1764038300,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144031,
+        "num": 645151,
+        "word": "中国选手夺冠主办方到处借五星红旗",
+        "onboard_time": 1763994501,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 624661,
+        "num": 624661,
+        "word": "特朗普要求跟高市早苗通话",
+        "onboard_time": 1764035480,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 511372,
+        "num": 511372,
+        "word": "日本又迈出凶险一步",
+        "onboard_time": 1764039259,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 328565,
+        "num": 328565,
+        "word": "李在明称朝韩随时可能爆发冲突",
+        "onboard_time": 1764037461,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 303676,
+        "num": 303676,
+        "word": "女装直播退货率80%以上",
+        "onboard_time": 1763997323,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120007,
+        "num": 286043,
+        "word": "Uzi排位",
+        "onboard_time": 1764031521,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1142582,
+        "num": 284709,
+        "word": "黄亦玫 我前任和上司在一起了",
+        "onboard_time": 1764038660,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649922,
+        "num": 281749,
+        "word": "演员李顺载去世",
+        "onboard_time": 1764030922,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275131,
+        "num": 275131,
+        "word": "卢凌风樱桃 我们有的是力气和手段",
+        "onboard_time": 1764039681,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 367663,
+        "num": 273245,
+        "word": "易烊千玺吻戏",
+        "onboard_time": 1764038719,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 363703,
+        "num": 267575,
+        "word": "何炅急的在嘴里炒了一桌菜",
+        "onboard_time": 1764039800,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203452,
+        "num": 264477,
+        "word": "音乐缘计划2第三波阵容官宣",
+        "onboard_time": 1764041422,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301886,
+        "num": 259058,
+        "word": "杨紫香蜜沉沉烬如霜爱奇艺双榜一",
+        "onboard_time": 1764040041,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86149,
+        "num": 253616,
+        "word": "揭秘年度最强性能电车",
+        "onboard_time": 1764039860,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 46985,
+        "num": 252015,
+        "word": "法国民众冒雨送别大熊猫回家",
+        "onboard_time": 1764041060,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 38729,
+        "num": 246424,
+        "word": "高市2014年来参拜靖国神社超10次",
+        "onboard_time": 1764041481,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175709,
+        "num": 242208,
+        "word": "唐诡宇宙里最有种的男人出现了",
+        "onboard_time": 1764041422,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168852,
+        "num": 237298,
+        "word": "这俩差着辈却意外很配",
+        "onboard_time": 1764040640,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 38877,
+        "num": 235107,
+        "word": "枭起青壤改编",
+        "onboard_time": 1764041601,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 231715,
+        "num": 231715,
+        "word": "黄晓明晒成团第一张合照",
+        "onboard_time": 1764035422,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 180243,
+        "num": 231014,
+        "word": "这阵容是短剧人年会吧",
+        "onboard_time": 1764041241,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33810,
+        "num": 230709,
+        "word": "史上最严充电宝新规将落地",
+        "onboard_time": 1764041542,
+        "rank": 25,
+        "category": "民生新闻,数码"
+      },
+      {
+        "raw_hot": 218088,
+        "num": 230637,
+        "word": "警方通报网红嘉宝被行拘15天",
+        "onboard_time": 1764037461,
+        "rank": 26,
+        "category": "辟谣/通报,网红"
+      },
+      {
+        "raw_hot": 230605,
+        "num": 230605,
+        "word": "美国一11岁男孩遭路怒司机枪击身亡",
+        "onboard_time": 1764038361,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227278,
+        "num": 227278,
+        "word": "台拟放宽近亲结婚引争议",
+        "onboard_time": 1764036920,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 201348,
+        "num": 201348,
+        "word": "高市早苗G20峰会上演外交灾难",
+        "onboard_time": 1763999600,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 184918,
+        "num": 184918,
+        "word": "乌克兰男子遭强制征兵当场自爆",
+        "onboard_time": 1764033621,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183125,
+        "num": 183125,
+        "word": "白天和晚上睡觉的区别",
+        "onboard_time": 1764040280,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 182861,
+        "num": 182861,
+        "word": "考研三件套",
+        "onboard_time": 1764040582,
+        "rank": 32,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 180534,
+        "num": 180534,
+        "word": "王一博开车时手里还在盘核桃",
+        "onboard_time": 1764026059,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173105,
+        "num": 173105,
+        "word": "神二十二12时11分发射",
+        "onboard_time": 1764041601,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156338,
+        "num": 156338,
+        "word": "枭起青壤 蚂蚱妈粉",
+        "onboard_time": 1764035119,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177601,
+        "num": 155140,
+        "word": "邢菲道歉",
+        "onboard_time": 1763990842,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 11955,
+        "num": 153655,
+        "word": "日本大分火灾持续一周仍未被扑灭",
+        "onboard_time": 1764041481,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 153230,
+        "num": 153230,
+        "word": "睡热了还知道散热的大橘子",
+        "onboard_time": 1764038000,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149313,
+        "num": 149313,
+        "word": "彭小苒 内娱名场面水印",
+        "onboard_time": 1764041661,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146594,
+        "num": 146594,
+        "word": "苹果夹烤肉",
+        "onboard_time": 1764041301,
+        "rank": 40,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 141916,
+        "num": 141916,
+        "word": "日本的挑衅已经不止于动嘴",
+        "onboard_time": 1764036860,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137246,
+        "num": 137246,
+        "word": "A股行情",
+        "onboard_time": 1764041422,
+        "rank": 42,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 44100,
+        "num": 136579,
+        "word": "黄海8天实弹演习只是前菜",
+        "onboard_time": 1764039621,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 136076,
+        "num": 136076,
+        "word": "高市早苗看莫迪的眼神耐人寻味",
+        "onboard_time": 1764037341,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135979,
+        "num": 135979,
+        "word": "胡先煦年下演出年上味儿",
+        "onboard_time": 1764039800,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132276,
+        "num": 132276,
+        "word": "多个影视项目老板点名要刘宇宁",
+        "onboard_time": 1764027021,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126195,
+        "num": 126195,
+        "word": "大生意人今日开播",
+        "onboard_time": 1764041781,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112489,
+        "num": 122352,
+        "word": "狂野时代遇冷暴露文艺片受众难题",
+        "onboard_time": 1764034460,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122231,
+        "num": 122231,
+        "word": "刘耀文晒成团夜睡衣自拍",
+        "onboard_time": 1764038719,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美应共同维护好二战胜利成果#"
+    }
+  }
+}
