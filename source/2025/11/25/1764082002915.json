@@ -1,0 +1,410 @@
+{
+  "runTime": 1764082002915,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 622859,
+        "num": 1099657,
+        "word": "乌克兰已原则同意美国提出的和平协议",
+        "onboard_time": 1764078323,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 194285,
+        "num": 514740,
+        "word": "朱婷恭喜郎平获终身成就奖",
+        "onboard_time": 1764079102,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63028,
+        "num": 426893,
+        "word": "北方降温可达8至12摄氏度",
+        "onboard_time": 1764078922,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240991,
+        "num": 426116,
+        "word": "大生意人破3",
+        "onboard_time": 1764074602,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425505,
+        "num": 425505,
+        "word": "毛主席得知毛岸英死讯后强忍泪水",
+        "onboard_time": 1764069921,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 345025,
+        "num": 422537,
+        "word": "充电宝3C认证将全面失效",
+        "onboard_time": 1764061881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225032,
+        "num": 408598,
+        "word": "枭起青壤热度破27000",
+        "onboard_time": 1764080303,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 218203,
+        "num": 406999,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1764076702,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 196653,
+        "num": 397549,
+        "word": "充电宝 涨价",
+        "onboard_time": 1764069200,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 120353,
+        "num": 386832,
+        "word": "华为表王到底有多少黑科技",
+        "onboard_time": 1764073522,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1656699,
+        "num": 375085,
+        "word": "仝卓表弟在柬埔寨失联",
+        "onboard_time": 1764080002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 543127,
+        "num": 370337,
+        "word": "杨紫 华伦千金",
+        "onboard_time": 1764071002,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 363622,
+        "num": 363622,
+        "word": "工作人员偷拍张峻豪换衣服给粉丝",
+        "onboard_time": 1764070103,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362886,
+        "num": 362886,
+        "word": "小鱼海棠产后不到一年瘦至90斤",
+        "onboard_time": 1764065902,
+        "rank": 13,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 292113,
+        "num": 292113,
+        "word": "赵丽颖簪花被用作考公素材",
+        "onboard_time": 1764077183,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 276123,
+        "num": 276123,
+        "word": "陈晓 我在宁古塔很想你",
+        "onboard_time": 1764076642,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 266263,
+        "num": 266263,
+        "word": "迪丽热巴 枭完你的枭你的",
+        "onboard_time": 1764069441,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 201697,
+        "num": 240675,
+        "word": "中方暂停日本电影在华上映审批",
+        "onboard_time": 1764060201,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 238252,
+        "num": 238252,
+        "word": "泰版步步惊心",
+        "onboard_time": 1764072862,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209215,
+        "num": 209215,
+        "word": "京城大师赛",
+        "onboard_time": 1764077002,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1319701,
+        "num": 206701,
+        "word": "林俊杰回应恋情",
+        "onboard_time": 1764069081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 786844,
+        "num": 193228,
+        "word": "京城大师赛荣耀 骂人",
+        "onboard_time": 1764079224,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 784589,
+        "num": 178371,
+        "word": "日本獠牙已露",
+        "onboard_time": 1764076942,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 514471,
+        "num": 167538,
+        "word": "杜克一哥20w分手费",
+        "onboard_time": 1764079823,
+        "rank": 23,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 166871,
+        "num": 166871,
+        "word": "杨紫 姐感是一种感觉",
+        "onboard_time": 1764081382,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378177,
+        "num": 166671,
+        "word": "曝林俊杰女友是七七",
+        "onboard_time": 1764056362,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166099,
+        "num": 166099,
+        "word": "京城大师赛直播事故",
+        "onboard_time": 1764080002,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 128947,
+        "num": 164371,
+        "word": "台评论员称高市可能被特朗普骂了",
+        "onboard_time": 1764072022,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 107869,
+        "num": 161734,
+        "word": "简单几步教你羽绒服无水清洗法",
+        "onboard_time": 1764081322,
+        "rank": 28,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 104728,
+        "num": 161182,
+        "word": "神舟二十号裂纹有救了",
+        "onboard_time": 1764064822,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188511,
+        "num": 157771,
+        "word": "日本大阪机场男子坠楼目击者发声",
+        "onboard_time": 1764073102,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 156567,
+        "num": 156567,
+        "word": "郭富城方媛三胎满月",
+        "onboard_time": 1764081262,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 153875,
+        "num": 153875,
+        "word": "汪峰大女儿疑似恋爱",
+        "onboard_time": 1764075024,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147371,
+        "num": 147371,
+        "word": "原来熬夜伤害可以这样抵消",
+        "onboard_time": 1764069561,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137282,
+        "num": 137282,
+        "word": "荣耀 小郭",
+        "onboard_time": 1764079642,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 136430,
+        "num": 136430,
+        "word": "中彩票后先捐款再交税到手钱更多",
+        "onboard_time": 1764070041,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129842,
+        "num": 129842,
+        "word": "把公积金当成份子钱送出去了",
+        "onboard_time": 1764064401,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 129211,
+        "num": 129211,
+        "word": "高超瘦成高越了",
+        "onboard_time": 1764078862,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126510,
+        "num": 126510,
+        "word": "迪丽热巴化妆思梦",
+        "onboard_time": 1764081141,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78698,
+        "num": 113890,
+        "word": "苏有朋青苹果乐园爷青回",
+        "onboard_time": 1764081562,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 67994,
+        "num": 112765,
+        "word": "成都蓉城vs广岛三箭",
+        "onboard_time": 1764074541,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112548,
+        "num": 112548,
+        "word": "周柯宇直播五排",
+        "onboard_time": 1764075442,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107180,
+        "num": 112483,
+        "word": "7旬母亲脑死亡儿女1800公里4城转运",
+        "onboard_time": 1764080542,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58277,
+        "num": 112429,
+        "word": "严浩翔这一幕好像婚礼现场",
+        "onboard_time": 1764080604,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 39582,
+        "num": 112403,
+        "word": "医生谈救命药滞留前台致男子身亡",
+        "onboard_time": 1764080604,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103728,
+        "num": 112311,
+        "word": "黄星直播",
+        "onboard_time": 1764072442,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103235,
+        "num": 112207,
+        "word": "大生意人",
+        "onboard_time": 1764069743,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102810,
+        "num": 112171,
+        "word": "枭起青壤开始横盘了",
+        "onboard_time": 1764074061,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 54572,
+        "num": 112126,
+        "word": "中超赛季最佳阵容",
+        "onboard_time": 1764081983,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47351,
+        "num": 112011,
+        "word": "日本熊本5.8级地震",
+        "onboard_time": 1764069320,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见汤加国王图普六世#"
+    }
+  }
+}

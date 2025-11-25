@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764080946489,
+  "endTime": 1764082002915,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -33,6 +33,14 @@
       "onboard_time": 1764077002,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1656699,
+      "num": 375085,
+      "word": "仝卓表弟在柬埔寨失联",
+      "onboard_time": 1764080002,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1527492,
@@ -89,14 +97,6 @@
       "onboard_time": 1764038660,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 1056106,
-      "num": 367339,
-      "word": "仝卓表弟在柬埔寨失联",
-      "onboard_time": 1764080002,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1007397,
@@ -227,6 +227,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 784589,
+      "num": 321412,
+      "word": "日本獠牙已露",
+      "onboard_time": 1764076942,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 751807,
       "num": 751807,
       "word": "把公积金当成份子钱送出去了",
@@ -307,14 +315,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 571906,
-      "num": 321412,
-      "word": "日本獠牙已露",
-      "onboard_time": 1764076942,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 570275,
       "num": 1013944,
       "word": "大生意人破3",
@@ -377,6 +377,14 @@
       "onboard_time": 1764052103,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 514471,
+      "num": 239113,
+      "word": "杜克一哥20w分手费",
+      "onboard_time": 1764079823,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 511372,
@@ -657,14 +665,6 @@
       "onboard_time": 1764054562,
       "rank": 9,
       "category": "数码"
-    },
-    {
-      "raw_hot": 323144,
-      "num": 239113,
-      "word": "杜克一哥20w分手费",
-      "onboard_time": 1764079823,
-      "rank": 22,
-      "category": "网红"
     },
     {
       "raw_hot": 318854,
@@ -1003,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 225032,
+      "num": 408598,
+      "word": "枭起青壤热度破27000",
+      "onboard_time": 1764080303,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 220415,
       "num": 220415,
       "word": "杨紫韩东君同框了",
@@ -1187,12 +1195,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 195460,
-      "num": 195460,
-      "word": "枭起青壤热度破27000",
-      "onboard_time": 1764080303,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 194285,
+      "num": 514740,
+      "word": "朱婷恭喜郎平获终身成就奖",
+      "onboard_time": 1764079102,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 193563,
@@ -1491,12 +1499,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166871,
+      "num": 166871,
+      "word": "杨紫 姐感是一种感觉",
+      "onboard_time": 1764081382,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166782,
       "num": 166782,
       "word": "大帅如愿和男神小落合照了",
       "onboard_time": 1764060261,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166099,
+      "num": 166099,
+      "word": "京城大师赛直播事故",
+      "onboard_time": 1764080002,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 166059,
@@ -1627,6 +1651,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156567,
+      "num": 156567,
+      "word": "郭富城方媛三胎满月",
+      "onboard_time": 1764081262,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154832,
       "num": 172924,
       "word": "甄嬛四郎在大生意人重聚了",
@@ -1715,14 +1747,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 149971,
-      "num": 149971,
-      "word": "京城大师赛直播事故",
-      "onboard_time": 1764080002,
-      "rank": 32,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 149854,
       "num": 149854,
       "word": "日本持续囤积远超民用需求钚材料",
@@ -1795,14 +1819,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 142473,
-      "num": 376478,
-      "word": "朱婷恭喜郎平获终身成就奖",
-      "onboard_time": 1764079102,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 141916,
       "num": 276851,
       "word": "日本的挑衅已经不止于动嘴",
@@ -1841,6 +1857,14 @@
       "onboard_time": 1764031881,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137282,
+      "num": 137282,
+      "word": "荣耀 小郭",
+      "onboard_time": 1764079642,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 137246,
@@ -1979,6 +2003,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129211,
+      "num": 129211,
+      "word": "高超瘦成高越了",
+      "onboard_time": 1764078862,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128716,
       "num": 128716,
       "word": "k总回应结婚圈钱",
@@ -2011,12 +2043,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 127921,
-      "num": 127921,
-      "word": "荣耀 小郭",
-      "onboard_time": 1764079642,
-      "rank": 43,
-      "category": "游戏"
+      "raw_hot": 126510,
+      "num": 126510,
+      "word": "迪丽热巴化妆思梦",
+      "onboard_time": 1764081141,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 126195,
@@ -2193,14 +2225,6 @@
       "onboard_time": 1763985261,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 115974,
-      "num": 127919,
-      "word": "高超瘦成高越了",
-      "onboard_time": 1764078862,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 115813,
@@ -2393,6 +2417,14 @@
       "onboard_time": 1764046284,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107869,
+      "num": 161734,
+      "word": "简单几步教你羽绒服无水清洗法",
+      "onboard_time": 1764081322,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 106860,
@@ -2923,6 +2955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 78698,
+      "num": 113890,
+      "word": "苏有朋青苹果乐园爷青回",
+      "onboard_time": 1764081562,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78395,
       "num": 177925,
       "word": "华为MateX7可以折叠的影像旗舰",
@@ -3091,6 +3131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 63028,
+      "num": 775025,
+      "word": "北方降温可达8至12摄氏度",
+      "onboard_time": 1764078922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62945,
       "num": 74822,
       "word": "曼联0比1埃弗顿",
@@ -3147,20 +3195,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58277,
+      "num": 135013,
+      "word": "严浩翔这一幕好像婚礼现场",
+      "onboard_time": 1764080604,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 58251,
       "num": 319942,
       "word": "枭起青壤海外热度",
       "onboard_time": 1763994203,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57363,
-      "num": 775025,
-      "word": "北方降温可达8至12摄氏度",
-      "onboard_time": 1764078922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56775,
@@ -3177,6 +3225,14 @@
       "onboard_time": 1764029841,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54572,
+      "num": 112126,
+      "word": "中超赛季最佳阵容",
+      "onboard_time": 1764081983,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 54365,
@@ -3315,6 +3371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39582,
+      "num": 136466,
+      "word": "医生谈救命药滞留前台致男子身亡",
+      "onboard_time": 1764080604,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 38729,
       "num": 246424,
       "word": "高市2014年来参拜靖国神社超10次",
@@ -3353,14 +3417,6 @@
       "onboard_time": 1764070161,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 32281,
-      "num": 135013,
-      "word": "严浩翔这一幕好像婚礼现场",
-      "onboard_time": 1764080604,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 32263,
@@ -3561,14 +3617,6 @@
       "onboard_time": 1764014593,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 18541,
-      "num": 136466,
-      "word": "医生谈救命药滞留前台致男子身亡",
-      "onboard_time": 1764080604,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18476,

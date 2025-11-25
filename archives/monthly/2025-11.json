@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764080946489,
+  "endTime": 1764082002915,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -727,6 +727,14 @@
       "num": 267963,
       "word": "王大陆认罪",
       "onboard_time": 1763455941,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1656699,
+      "num": 375085,
+      "word": "仝卓表弟在柬埔寨失联",
+      "onboard_time": 1764080002,
       "rank": 10,
       "category": "艺人"
     },
@@ -2033,14 +2041,6 @@
       "onboard_time": 1762159222,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1056106,
-      "num": 367339,
-      "word": "仝卓表弟在柬埔寨失联",
-      "onboard_time": 1764080002,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 1055754,
@@ -3825,6 +3825,14 @@
       "onboard_time": 1762088603,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 784589,
+      "num": 321412,
+      "word": "日本獠牙已露",
+      "onboard_time": 1764076942,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 783263,
@@ -6827,14 +6835,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 571906,
-      "num": 321412,
-      "word": "日本獠牙已露",
-      "onboard_time": 1764076942,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 571823,
       "num": 205394,
       "word": "罗志祥后悔",
@@ -8185,6 +8185,14 @@
       "onboard_time": 1762827980,
       "rank": 3,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 514471,
+      "num": 239113,
+      "word": "杜克一哥20w分手费",
+      "onboard_time": 1764079823,
+      "rank": 22,
+      "category": "网红"
     },
     {
       "raw_hot": 514406,
@@ -15299,14 +15307,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 323144,
-      "num": 239113,
-      "word": "杜克一哥20w分手费",
-      "onboard_time": 1764079823,
-      "rank": 22,
-      "category": "网红"
-    },
-    {
       "raw_hot": 323120,
       "num": 323120,
       "word": "敖子逸连发两百个不一样",
@@ -22091,6 +22091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225032,
+      "num": 408598,
+      "word": "枭起青壤热度破27000",
+      "onboard_time": 1764080303,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225012,
       "num": 236942,
       "word": "杨瀚森高效得到4分",
@@ -26211,14 +26219,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 195460,
-      "num": 195460,
-      "word": "枭起青壤热度破27000",
-      "onboard_time": 1764080303,
-      "rank": 24,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 195437,
       "num": 195437,
       "word": "山河枕新浪扫楼",
@@ -26472,6 +26472,14 @@
       "word": "王曼昱晋级八强",
       "onboard_time": 1762954103,
       "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 194285,
+      "num": 514740,
+      "word": "朱婷恭喜郎平获终身成就奖",
+      "onboard_time": 1764079102,
+      "rank": 7,
       "category": "体育"
     },
     {
@@ -32043,6 +32051,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 166871,
+      "num": 166871,
+      "word": "杨紫 姐感是一种感觉",
+      "onboard_time": 1764081382,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 166864,
       "num": 166864,
       "word": "藏海传导演感谢肖战",
@@ -32329,6 +32345,14 @@
       "onboard_time": 1762221200,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166099,
+      "num": 166099,
+      "word": "京城大师赛直播事故",
+      "onboard_time": 1764080002,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 166088,
@@ -34883,6 +34907,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 156567,
+      "num": 156567,
+      "word": "郭富城方媛三胎满月",
+      "onboard_time": 1764081262,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156520,
       "num": 156520,
       "word": "尹子维大学授课素材是许我耀眼名场面",
@@ -36633,14 +36665,6 @@
       "onboard_time": 1762484058,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 149971,
-      "num": 149971,
-      "word": "京城大师赛直播事故",
-      "onboard_time": 1764080002,
-      "rank": 32,
-      "category": "游戏"
     },
     {
       "raw_hot": 149956,
@@ -38723,14 +38747,6 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 142473,
-      "num": 376478,
-      "word": "朱婷恭喜郎平获终身成就奖",
-      "onboard_time": 1764079102,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 142420,
       "num": 184033,
       "word": "东南亚大嫂不值得追捧",
@@ -40537,6 +40553,14 @@
       "onboard_time": 1762939880,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137282,
+      "num": 137282,
+      "word": "荣耀 小郭",
+      "onboard_time": 1764079642,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 137246,
@@ -43331,6 +43355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129211,
+      "num": 129211,
+      "word": "高超瘦成高越了",
+      "onboard_time": 1764078862,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 129196,
       "num": 129196,
       "word": "日本人称李白诗歌是东亚共有财富",
@@ -43873,14 +43905,6 @@
       "onboard_time": 1762855762,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127921,
-      "num": 127921,
-      "word": "荣耀 小郭",
-      "onboard_time": 1764079642,
-      "rank": 43,
-      "category": "游戏"
     },
     {
       "raw_hot": 127892,
@@ -44513,6 +44537,14 @@
       "onboard_time": 1763544023,
       "rank": 43,
       "category": "财经"
+    },
+    {
+      "raw_hot": 126510,
+      "num": 126510,
+      "word": "迪丽热巴化妆思梦",
+      "onboard_time": 1764081141,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 126503,
@@ -49523,14 +49555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 115974,
-      "num": 127919,
-      "word": "高超瘦成高越了",
-      "onboard_time": 1764078862,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 115953,
       "num": 194120,
       "word": "南北大众车展被吐槽最狠甲方",
@@ -53529,6 +53553,14 @@
       "onboard_time": 1763732242,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 107869,
+      "num": 161734,
+      "word": "简单几步教你羽绒服无水清洗法",
+      "onboard_time": 1764081322,
+      "rank": 28,
+      "category": "科学科普"
     },
     {
       "raw_hot": 107868,
@@ -70059,6 +70091,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78698,
+      "num": 113890,
+      "word": "苏有朋青苹果乐园爷青回",
+      "onboard_time": 1764081562,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78683,
       "num": 78683,
       "word": "李施嬅建议车崇健多看书",
@@ -75307,6 +75347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 63028,
+      "num": 775025,
+      "word": "北方降温可达8至12摄氏度",
+      "onboard_time": 1764078922,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63002,
       "num": 92003,
       "word": "拜登炮轰特朗普",
@@ -76635,6 +76683,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58277,
+      "num": 135013,
+      "word": "严浩翔这一幕好像婚礼现场",
+      "onboard_time": 1764080604,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 58265,
       "num": 195453,
       "word": "在抢红包比赛中获得第一名",
@@ -76857,14 +76913,6 @@
       "onboard_time": 1762385779,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 57363,
-      "num": 775025,
-      "word": "北方降温可达8至12摄氏度",
-      "onboard_time": 1764078922,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57317,
@@ -77545,6 +77593,14 @@
       "onboard_time": 1762777580,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 54572,
+      "num": 112126,
+      "word": "中超赛季最佳阵容",
+      "onboard_time": 1764081983,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 54548,
@@ -81539,6 +81595,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 39582,
+      "num": 136466,
+      "word": "医生谈救命药滞留前台致男子身亡",
+      "onboard_time": 1764080604,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39575,
       "num": 162759,
       "word": "移动电竞首次登上鸟巢",
@@ -83553,14 +83617,6 @@
       "onboard_time": 1763460862,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 32281,
-      "num": 135013,
-      "word": "严浩翔这一幕好像婚礼现场",
-      "onboard_time": 1764080604,
-      "rank": 39,
-      "category": "演出"
     },
     {
       "raw_hot": 32280,
@@ -87201,14 +87257,6 @@
       "onboard_time": 1762410501,
       "rank": 14,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 18541,
-      "num": 136466,
-      "word": "医生谈救命药滞留前台致男子身亡",
-      "onboard_time": 1764080604,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 18534,
