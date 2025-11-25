@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764060658263,
+  "endTime": 1764063128481,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2199943,
-      "num": 261846,
+      "num": 295010,
       "word": "曝林俊杰女友是七七",
       "onboard_time": 1764056362,
       "rank": 44,
@@ -91,6 +91,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 956872,
+      "num": 1153099,
+      "word": "中方暂停日本电影在华上映审批",
+      "onboard_time": 1764060201,
+      "rank": 24,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 940740,
       "num": 658093,
       "word": "春节档 激烈",
@@ -113,6 +121,14 @@
       "onboard_time": 1764058042,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 817964,
+      "num": 299422,
+      "word": "霍建华 年纪大受不了你们这样",
+      "onboard_time": 1764059961,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 806101,
@@ -176,6 +192,14 @@
       "word": "主播称收入26万实则隐匿超1500万",
       "onboard_time": 1763999600,
       "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 579253,
+      "num": 579253,
+      "word": "鸡排哥流量狂欢接近尾声",
+      "onboard_time": 1764060141,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -284,7 +308,7 @@
     },
     {
       "raw_hot": 456958,
-      "num": 261388,
+      "num": 294616,
       "word": "曝施柏宇延误拍戏惹怒剧组",
       "onboard_time": 1764059302,
       "rank": 25,
@@ -321,6 +345,14 @@
       "onboard_time": 1764050001,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 422496,
+      "num": 361439,
+      "word": "短剧里生孩子 演员信念感",
+      "onboard_time": 1764059781,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 419695,
@@ -371,6 +403,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 386208,
+      "num": 386208,
+      "word": "狂野时代 离场率",
+      "onboard_time": 1764060081,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 386202,
       "num": 322727,
       "word": "港圈富二代自曝近百名女星投怀送抱",
@@ -411,14 +451,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 361439,
-      "num": 361439,
-      "word": "短剧里生孩子 演员信念感",
-      "onboard_time": 1764059781,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 346290,
       "num": 346290,
       "word": "李在明称朝韩随时可能爆发冲突",
@@ -441,6 +473,14 @@
       "onboard_time": 1764058640,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 332649,
+      "num": 298160,
+      "word": "英国偶遇窦骁何超莲",
+      "onboard_time": 1764062424,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 330708,
@@ -467,6 +507,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 318854,
+      "num": 363488,
+      "word": "中美元首通话是美方发起",
+      "onboard_time": 1764059542,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 314585,
+      "num": 297633,
+      "word": "充电宝3C认证将全面失效",
+      "onboard_time": 1764061881,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 304572,
       "num": 304572,
       "word": "员工入职三只松鼠咋就成了鼠辈",
@@ -481,6 +537,22 @@
       "onboard_time": 1764040041,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 301255,
+      "num": 297248,
+      "word": "王鹤棣 callme我去干死他",
+      "onboard_time": 1764060322,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 300027,
+      "num": 300027,
+      "word": "第五人格",
+      "onboard_time": 1764062540,
+      "rank": 8,
+      "category": "游戏"
     },
     {
       "raw_hot": 293741,
@@ -667,6 +739,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 221947,
+      "num": 221947,
+      "word": "华为MateX7折叠扛把子",
+      "onboard_time": 1764061881,
+      "rank": 22,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 220415,
+      "num": 220415,
+      "word": "杨紫韩东君同框了",
+      "onboard_time": 1764061640,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218088,
       "num": 261371,
       "word": "警方通报网红嘉宝被行拘15天",
@@ -771,14 +859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200004,
-      "num": 260381,
-      "word": "狂野时代 离场率",
-      "onboard_time": 1764060081,
-      "rank": 22,
-      "category": "电影"
-    },
-    {
       "raw_hot": 198470,
       "num": 198470,
       "word": "25秒2万个传家锅售罄",
@@ -819,12 +899,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191379,
+      "num": 191379,
+      "word": "肺癌康复10年后的真实感受",
+      "onboard_time": 1764062781,
+      "rank": 31,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 190923,
+      "num": 190923,
+      "word": "张俪 血囊现在这么火吗",
+      "onboard_time": 1764062424,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 189829,
       "num": 230709,
       "word": "史上最严充电宝新规将落地",
       "onboard_time": 1764041542,
       "rank": 25,
       "category": "民生新闻,数码"
+    },
+    {
+      "raw_hot": 189592,
+      "num": 189592,
+      "word": "Uzi想干什么",
+      "onboard_time": 1764062363,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 187333,
@@ -889,6 +993,14 @@
       "onboard_time": 1764035119,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 178207,
+      "num": 178207,
+      "word": "余承东称MateX7对得起那四个字",
+      "onboard_time": 1764061222,
+      "rank": 42,
+      "category": "数码"
     },
     {
       "raw_hot": 177134,
@@ -969,14 +1081,6 @@
       "onboard_time": 1764044302,
       "rank": 25,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171033,
-      "num": 171033,
-      "word": "王鹤棣 callme我去干死他",
-      "onboard_time": 1764060322,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 170083,
@@ -1115,6 +1219,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 156150,
+      "num": 156150,
+      "word": "陈星旭你咋出那么多汗啊",
+      "onboard_time": 1764063081,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154640,
       "num": 154640,
       "word": "高市早苗看莫迪的眼神耐人寻味",
@@ -1195,6 +1307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147439,
+      "num": 147439,
+      "word": "明星不拍戏原来都去当老板了",
+      "onboard_time": 1764062842,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 145852,
       "num": 145852,
       "word": "那英刚洗完头就上节目了",
@@ -1216,14 +1336,6 @@
       "word": "日本的挑衅已经不止于动嘴",
       "onboard_time": 1764036860,
       "rank": 18,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 140722,
-      "num": 363488,
-      "word": "中美元首通话是美方发起",
-      "onboard_time": 1764059542,
-      "rank": 19,
       "category": "国际时政"
     },
     {
@@ -1411,14 +1523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 124589,
-      "num": 210181,
-      "word": "霍建华 年纪大受不了你们这样",
-      "onboard_time": 1764059961,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123582,
       "num": 123582,
       "word": "过冬有3件羽绒服就够了",
@@ -1523,14 +1627,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 114656,
-      "num": 259511,
-      "word": "中方暂停日本电影在华上映审批",
-      "onboard_time": 1764060201,
-      "rank": 24,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 114577,
       "num": 114577,
       "word": "仿版胡彦斌 我要的全偷走",
@@ -1577,6 +1673,22 @@
       "onboard_time": 1763997142,
       "rank": 31,
       "category": "网红"
+    },
+    {
+      "raw_hot": 110320,
+      "num": 216149,
+      "word": "余承东称华为标准折叠标杆",
+      "onboard_time": 1764062240,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 110039,
+      "num": 186911,
+      "word": "14英寸大平板玩游戏到底有多爽",
+      "onboard_time": 1764061881,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 109997,
@@ -1779,6 +1891,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 92754,
+      "num": 161219,
+      "word": "Rita年度最受欢迎解说",
+      "onboard_time": 1764061702,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91424,
       "num": 91424,
       "word": "每天无视各种压力玩手机",
@@ -1809,6 +1929,14 @@
       "onboard_time": 1764055161,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 88052,
+      "num": 601369,
+      "word": "流感高发季防护指南来了",
+      "onboard_time": 1764059840,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 87384,
@@ -1875,6 +2003,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 83677,
+      "num": 220430,
+      "word": "中新网连麦黄雅琼",
+      "onboard_time": 1764062062,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83052,
       "num": 377845,
       "word": "神舟飞船任务标识首现TGYJ",
@@ -1891,12 +2027,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 80835,
-      "num": 471627,
-      "word": "流感高发季防护指南来了",
-      "onboard_time": 1764059840,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 81175,
+      "num": 221639,
+      "word": "救命药被滞留房客发病身亡监控曝光",
+      "onboard_time": 1764061702,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80803,
@@ -2011,6 +2147,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 73593,
+      "num": 188844,
+      "word": "高市早苗会见马克龙靠英语翻译搭桥",
+      "onboard_time": 1764062540,
+      "rank": 34,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 71868,
       "num": 321051,
       "word": "李现杨紫提名金莲花最佳男女主角",
@@ -2025,14 +2169,6 @@
       "onboard_time": 1763999180,
       "rank": 37,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68912,
-      "num": 262794,
-      "word": "鸡排哥流量狂欢接近尾声",
-      "onboard_time": 1764060141,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 67809,
@@ -2108,7 +2244,7 @@
     },
     {
       "raw_hot": 61104,
-      "num": 263566,
+      "num": 295404,
       "word": "华为折叠屏首发A2A智能体协作",
       "onboard_time": 1764060081,
       "rank": 17,
@@ -2129,6 +2265,14 @@
       "onboard_time": 1764023475,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59767,
+      "num": 182229,
+      "word": "易烊千玺 老粉比黑粉可怕",
+      "onboard_time": 1764062902,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 59591,
@@ -2283,6 +2427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36611,
+      "num": 177455,
+      "word": "俄一夜间击落249架乌克兰无人机",
+      "onboard_time": 1764061762,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 32119,
       "num": 182499,
       "word": "团播主播一天的强度吓到我了",
@@ -2403,6 +2555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20945,
+      "num": 183682,
+      "word": "蔡少芬怎么一点不变老",
+      "onboard_time": 1764062001,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19158,
       "num": 180471,
       "word": "老师只是低血糖不是新动作",
@@ -2441,6 +2601,14 @@
       "onboard_time": 1764060501,
       "rank": 28,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14281,
+      "num": 185117,
+      "word": "高校宿舍凌晨起火学生称警报未响",
+      "onboard_time": 1764062960,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13822,

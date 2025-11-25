@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 16:50:58
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 17:32:08
 </p>
 </blockquote>
 <p>
@@ -1905,6 +1905,12 @@ T1管理层（热度：999897）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9A%82%E5%81%9C%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1%E5%9C%A8%E5%8D%8E%E4%B8%8A%E6%98%A0%E5%AE%A1%E6%89%B9%23" target="weibo">
+中方暂停日本电影在华上映审批（热度：956872）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E7%94%B7%E7%94%9F%E4%B8%8D%E8%83%BD%E5%8F%AB%23" target="weibo">
 杨紫 男生不能叫（热度：951747）
 </a>
@@ -2561,6 +2567,12 @@ A股（热度：834240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%B4%E5%86%9B%E6%9B%9D%E6%9D%A8%E7%AC%A0%E5%B8%B8%E4%BD%8F%E6%B8%85%E8%BF%88%23" target="weibo">
 戴军曝杨笠常住清迈（热度：818278）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E5%BB%BA%E5%8D%8E%20%E5%B9%B4%E7%BA%AA%E5%A4%A7%E5%8F%97%E4%B8%8D%E4%BA%86%E4%BD%A0%E4%BB%AC%E8%BF%99%E6%A0%B7%23" target="weibo">
+霍建华 年纪大受不了你们这样（热度：817964）
 </a>
 </li>
 
@@ -4941,6 +4953,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%B5%81%E9%87%8F%E7%8B%82%E6%AC%A2%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%23" target="weibo">
+鸡排哥流量狂欢接近尾声（热度：579253）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E6%9B%9D%E5%89%A7%E7%BB%84%E6%9D%80%E7%94%9F%23" target="weibo">
 短剧女演员曝剧组杀生（热度：578308）
 </a>
@@ -5993,24 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%E8%87%AA%E6%9B%9D%E6%83%B3%E6%94%B9%E9%81%97%E5%98%B1%23" target="weibo">
 向太自曝想改遗嘱（热度：516768）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%82%85%E8%B0%A2%E5%A8%9C%E4%B8%80%E5%87%BA%E5%9C%BA%E6%88%91%E7%9A%84%E9%9D%92%E6%98%A5%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
-何炅谢娜一出场我的青春回来了（热度：516700）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%8F%8D%E5%AF%B9%E6%97%A5%E6%9C%AC%23" target="weibo">
-日本反对日本（热度：516460）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%96%9D%E9%86%89%E4%BA%86%E7%9D%A1%E8%A1%97%E4%B8%8A%23" target="weibo">
-王嘉尔喝醉了睡街上（热度：516159）
 </a>
 </li>
 
