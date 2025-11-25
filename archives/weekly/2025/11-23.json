@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764027585010,
+  "endTime": 1764035983296,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -65,6 +65,14 @@
       "onboard_time": 1763967681,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1227960,
+      "num": 217238,
+      "word": "演员李顺载去世",
+      "onboard_time": 1764030922,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1200465,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 806101,
-      "num": 961632,
+      "num": 1114746,
       "word": "高市早苗G20峰会上演外交灾难",
       "onboard_time": 1763999600,
       "rank": 0,
@@ -731,6 +739,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 490573,
+      "num": 217124,
+      "word": "昌平线",
+      "onboard_time": 1764033080,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 490557,
       "num": 386452,
       "word": "12306回应彝族老人列车上被围堵拍摄",
@@ -931,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 419695,
+      "num": 213393,
+      "word": "多个影视项目老板点名要刘宇宁",
+      "onboard_time": 1764027021,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 418504,
       "num": 1066960,
       "word": "短道速滑",
@@ -1003,6 +1027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402140,
+      "num": 210770,
+      "word": "上海套内39平的五口之家",
+      "onboard_time": 1764030321,
+      "rank": 15,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 401690,
       "num": 192121,
       "word": "美国一男子因便秘身亡",
@@ -1017,6 +1049,22 @@
       "onboard_time": 1763885420,
       "rank": 23,
       "category": "教育"
+    },
+    {
+      "raw_hot": 395079,
+      "num": 202152,
+      "word": "乌克兰男子遭强制征兵当场自爆",
+      "onboard_time": 1764033621,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 392171,
+      "num": 207949,
+      "word": "王一博开车时手里还在盘核桃",
+      "onboard_time": 1764026059,
+      "rank": 26,
+      "category": "综艺"
     },
     {
       "raw_hot": 378685,
@@ -1667,6 +1715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 259816,
+      "num": 203669,
+      "word": "地枭老鼠干",
+      "onboard_time": 1764032241,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 259022,
       "num": 245320,
       "word": "时代少年团演唱会",
@@ -1859,6 +1915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236052,
+      "num": 321298,
+      "word": "中国选手夺冠主办方到处借五星红旗",
+      "onboard_time": 1763994501,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234957,
       "num": 234957,
       "word": "原谅鸭",
@@ -1881,6 +1945,14 @@
       "onboard_time": 1763907081,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 234414,
+      "num": 322249,
+      "word": "女装直播退货率80%以上",
+      "onboard_time": 1763997323,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 233465,
@@ -1913,14 +1985,6 @@
       "onboard_time": 1763822182,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 229804,
-      "num": 321298,
-      "word": "中国选手夺冠主办方到处借五星红旗",
-      "onboard_time": 1763994501,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 228562,
@@ -1979,6 +2043,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 218347,
+      "num": 218347,
+      "word": "特朗普要求跟高市早苗通话",
+      "onboard_time": 1764035480,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 217779,
       "num": 374976,
       "word": "男子762元买20多件商品蕉内拒发货",
@@ -2009,6 +2081,14 @@
       "onboard_time": 1763888840,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215677,
+      "num": 199870,
+      "word": "黄晓明晒成团第一张合照",
+      "onboard_time": 1764035422,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 215590,
@@ -2105,6 +2185,14 @@
       "onboard_time": 1763978121,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 207779,
+      "num": 207779,
+      "word": "狂野时代遇冷暴露文艺片受众难题",
+      "onboard_time": 1764034460,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 207744,
@@ -2273,6 +2361,14 @@
       "onboard_time": 1763962221,
       "rank": 26,
       "category": "电影"
+    },
+    {
+      "raw_hot": 194910,
+      "num": 194910,
+      "word": "戴军和杨笠在泰国是邻居",
+      "onboard_time": 1764031702,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 194696,
@@ -2619,6 +2715,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177134,
+      "num": 177134,
+      "word": "爸爸怒斥女儿向上攀比是愚蠢的",
+      "onboard_time": 1764026658,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 176856,
       "num": 199359,
       "word": "原来1000度近视半飞秒是这样做的",
@@ -2651,6 +2755,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 175761,
+      "num": 175761,
+      "word": "鸠山由纪夫再发声",
+      "onboard_time": 1764031702,
+      "rank": 32,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175146,
       "num": 143194,
       "word": "妈妈以为我在上海农村过得很差",
@@ -2681,6 +2793,14 @@
       "onboard_time": 1763949979,
       "rank": 47,
       "category": "演出"
+    },
+    {
+      "raw_hot": 173555,
+      "num": 198836,
+      "word": "罗阳逝世13年了",
+      "onboard_time": 1764033021,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172080,
@@ -2737,6 +2857,14 @@
       "onboard_time": 1763949140,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170040,
+      "num": 234985,
+      "word": "iG转会期",
+      "onboard_time": 1764031042,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 169773,
@@ -2841,6 +2969,14 @@
       "onboard_time": 1763986281,
       "rank": 24,
       "category": "数码"
+    },
+    {
+      "raw_hot": 163945,
+      "num": 163945,
+      "word": "当我打开2015年的朋友圈",
+      "onboard_time": 1764030203,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 163749,
@@ -2984,6 +3120,14 @@
       "word": "液断7天瘦了13.2斤",
       "onboard_time": 1763807480,
       "rank": 24,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 154623,
+      "num": 154623,
+      "word": "冬天最快减肥法",
+      "onboard_time": 1764025998,
+      "rank": 22,
       "category": "运动健身"
     },
     {
@@ -3267,6 +3411,22 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138524,
+      "num": 138524,
+      "word": "黄子韬婚后首综",
+      "onboard_time": 1764033261,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 138495,
+      "num": 198646,
+      "word": "迪丽热巴这一段神性拉满了",
+      "onboard_time": 1764031881,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138310,
       "num": 190513,
       "word": "种地吧",
@@ -3411,12 +3571,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 133765,
-      "num": 109562,
-      "word": "冬天最快减肥法",
-      "onboard_time": 1764025998,
-      "rank": 22,
-      "category": "运动健身"
+      "raw_hot": 133778,
+      "num": 133778,
+      "word": "大鹅霸凌狗崽被狗崽一家咬死",
+      "onboard_time": 1764028220,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133727,
@@ -3667,6 +3827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 123657,
+      "num": 195522,
+      "word": "枭起青壤 蚂蚱妈粉",
+      "onboard_time": 1764035119,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 123166,
       "num": 123166,
       "word": "波茨坦公告规定日本禁止重新武装",
@@ -3787,6 +3955,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 119935,
+      "num": 119935,
+      "word": "蛇恋",
+      "onboard_time": 1764030441,
+      "rank": 41,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 119669,
+      "num": 215364,
+      "word": "Uzi排位",
+      "onboard_time": 1764031521,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 119234,
       "num": 133125,
       "word": "江山为聘陈哲远受难记",
@@ -3904,14 +4088,6 @@
       "word": "何炅的工伤那英全责",
       "onboard_time": 1763873421,
       "rank": 47,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 116742,
-      "num": 116742,
-      "word": "王一博开车时手里还在盘核桃",
-      "onboard_time": 1764026059,
-      "rank": 26,
       "category": "综艺"
     },
     {
@@ -4059,14 +4235,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 112945,
-      "num": 75791,
-      "word": "爸爸怒斥女儿向上攀比是愚蠢的",
-      "onboard_time": 1764026658,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 112832,
       "num": 283424,
       "word": "鸿蒙走出一条中国科技的新路",
@@ -4201,6 +4369,14 @@
       "onboard_time": 1763980941,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109276,
+      "num": 109276,
+      "word": "iPad台前调度抢票",
+      "onboard_time": 1764030622,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 109270,
@@ -4419,14 +4595,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105592,
-      "num": 105592,
-      "word": "多个影视项目老板点名要刘宇宁",
-      "onboard_time": 1764027021,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105566,
       "num": 105566,
       "word": "Viper的ins关注oner和Chovy",
@@ -4529,6 +4697,14 @@
       "onboard_time": 1763886860,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104071,
+      "num": 104071,
+      "word": "这真的是嫁给爱情的样子",
+      "onboard_time": 1764031461,
+      "rank": 43,
+      "category": "情感"
     },
     {
       "raw_hot": 103903,
@@ -4673,14 +4849,6 @@
       "onboard_time": 1763980461,
       "rank": 46,
       "category": "美食,休闲"
-    },
-    {
-      "raw_hot": 99888,
-      "num": 322249,
-      "word": "女装直播退货率80%以上",
-      "onboard_time": 1763997323,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99885,
@@ -5115,6 +5283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 89763,
+      "num": 89763,
+      "word": "我讨厌一个人的表现太明显了",
+      "onboard_time": 1764035361,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 89710,
       "num": 89710,
       "word": "胡先煦这人夫感",
@@ -5232,6 +5408,14 @@
       "word": "居然有剧从零上40拍到零下40度",
       "onboard_time": 1763892320,
       "rank": 34,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 86131,
+      "num": 195001,
+      "word": "金莲花含金量",
+      "onboard_time": 1764027021,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -5379,6 +5563,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 81432,
+      "num": 81432,
+      "word": "多方回应医院3万瓣膜卖出28万",
+      "onboard_time": 1764030441,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81275,
       "num": 81275,
       "word": "高市社交账号帖文引日本网民怒批",
@@ -5451,12 +5643,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 78924,
+      "num": 205858,
+      "word": "酒店回应房客发病送药不及时死亡",
+      "onboard_time": 1764035060,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78747,
       "num": 78747,
       "word": "看边牧怎么把鸭子黑白分开",
       "onboard_time": 1763864540,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 78747,
+      "num": 78747,
+      "word": "上海地铁",
+      "onboard_time": 1764033261,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78227,
@@ -5915,6 +6123,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55485,
+      "num": 236026,
+      "word": "净网2025网警揭露直播间托儿真面目",
+      "onboard_time": 1764029841,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54429,
       "num": 70830,
       "word": "张俪 说的是我吗",
@@ -6105,14 +6321,6 @@
       "onboard_time": 1763830339,
       "rank": 45,
       "category": "演出"
-    },
-    {
-      "raw_hot": 43355,
-      "num": 73823,
-      "word": "金莲花含金量",
-      "onboard_time": 1764027021,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 43307,
@@ -6697,6 +6905,14 @@
       "onboard_time": 1763833516,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 20996,
+      "num": 133779,
+      "word": "法学生因背包被拦起诉超市赔偿1元",
+      "onboard_time": 1764035298,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20806,
