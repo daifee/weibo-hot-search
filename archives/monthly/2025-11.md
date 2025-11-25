@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 15:40:49
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 16:37:40
 </p>
 </blockquote>
 <p>
@@ -329,6 +329,12 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%8F%AF%E8%BE%9B%E5%87%BA%E8%BD%A6%E7%A5%B8%23" target="weibo">
 陈可辛出车祸（热度：2209751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9E%97%E4%BF%8A%E6%9D%B0%E5%A5%B3%E5%8F%8B%E6%98%AF%E4%B8%83%E4%B8%83%23" target="weibo">
+曝林俊杰女友是七七（热度：2199943）
 </a>
 </li>
 
@@ -1235,6 +1241,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23FPX%E9%80%80%E5%87%BALPL%23" target="weibo">
 FPX退出LPL（热度：1177968）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Mate80%E4%BB%B7%E6%A0%BC%23" target="weibo">
+Mate80价格（热度：1175402）
 </a>
 </li>
 
@@ -2231,6 +2243,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E4%B9%B0%E5%8D%96%E8%89%BA%E4%BA%BA%E9%9A%90%E7%A7%81%E9%93%BE%E6%9D%A1%23" target="weibo">
 央视曝光买卖艺人隐私链条（热度：871639）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%9B%B4%E6%92%AD%23" target="weibo">
+枭起青壤直播（热度：871514）
 </a>
 </li>
 
@@ -3431,12 +3449,6 @@ chovy状态（热度：706292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%A6%88%E9%9F%B3%E7%BB%BC%E5%87%BA%E6%89%8B%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%A1%B6%E9%85%8D%23" target="weibo">
 央妈音综出手就是国家队顶配（热度：700188）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Mate80%E4%BB%B7%E6%A0%BC%23" target="weibo">
-Mate80价格（热度：699863）
 </a>
 </li>
 
@@ -5517,12 +5529,6 @@ C罗可能做过多次整容手术（热度：563173）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%9B%B4%E6%92%AD%23" target="weibo">
-枭起青壤直播（热度：544253）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%82%B9%E8%B5%9E%23" target="weibo">
 孙颖莎点赞（热度：543532）
 </a>
@@ -6005,12 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%96%9D%E9%86%89%E4%BA%86%E7%9D%A1%E8%A1%97%E4%B8%8A%23" target="weibo">
 王嘉尔喝醉了睡街上（热度：516159）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Faker%E8%B0%88%E5%A4%9A%E5%85%B0%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%AF%AF%23" target="weibo">
-Faker谈多兰多次失误（热度：516116）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764056449703,
+  "endTime": 1764059860285,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -424,6 +424,14 @@
       "word": "陈可辛出车祸",
       "onboard_time": 1762848321,
       "rank": 0,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2199943,
+      "num": 257182,
+      "word": "曝林俊杰女友是七七",
+      "onboard_time": 1764056362,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -1633,6 +1641,14 @@
       "onboard_time": 1763363901,
       "rank": 3,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 1175402,
+      "num": 1188064,
+      "word": "Mate80价格",
+      "onboard_time": 1764055881,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 1172560,
@@ -2961,6 +2977,14 @@
       "onboard_time": 1762936099,
       "rank": 9,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 871514,
+      "num": 495788,
+      "word": "枭起青壤直播",
+      "onboard_time": 1763802381,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 869920,
@@ -4561,14 +4585,6 @@
       "onboard_time": 1762483580,
       "rank": 6,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 699863,
-      "num": 699863,
-      "word": "Mate80价格",
-      "onboard_time": 1764055881,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 699332,
@@ -7339,14 +7355,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 544253,
-      "num": 495788,
-      "word": "枭起青壤直播",
-      "onboard_time": 1763802381,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 543532,
       "num": 188346,
       "word": "孙颖莎点赞",
@@ -8811,6 +8819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 486065,
+      "num": 436664,
+      "word": "iG Uzi",
+      "onboard_time": 1764056002,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 485828,
       "num": 149102,
       "word": "网传印度人中国街头随地大小便",
@@ -9585,6 +9601,14 @@
       "onboard_time": 1763969421,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 459360,
+      "num": 459360,
+      "word": "麒麟9030",
+      "onboard_time": 1764057262,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 458816,
@@ -10452,7 +10476,7 @@
     },
     {
       "raw_hot": 431833,
-      "num": 237001,
+      "num": 257118,
       "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
       "onboard_time": 1764050001,
       "rank": 25,
@@ -11411,6 +11435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 403967,
+      "num": 466977,
+      "word": "枭起青壤打戏",
+      "onboard_time": 1764051922,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 403914,
       "num": 266269,
       "word": "Ruler失利之后哭了",
@@ -11497,14 +11529,6 @@
       "onboard_time": 1763969961,
       "rank": 42,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 401617,
-      "num": 466977,
-      "word": "枭起青壤打戏",
-      "onboard_time": 1764051922,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 401224,
@@ -14257,6 +14281,14 @@
       "onboard_time": 1762152141,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 336357,
+      "num": 336357,
+      "word": "张俪迪丽热巴牵上手了",
+      "onboard_time": 1764058640,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 336044,
@@ -19907,6 +19939,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 249048,
+      "num": 249048,
+      "word": "曝施柏宇延误拍戏惹怒剧组",
+      "onboard_time": 1764059302,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 248904,
       "num": 248904,
       "word": "樊振东4比1薛飞",
@@ -20865,14 +20905,6 @@
       "onboard_time": 1763908822,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234954,
-      "num": 234954,
-      "word": "iG Uzi",
-      "onboard_time": 1764056002,
-      "rank": 25,
-      "category": "电竞"
     },
     {
       "raw_hot": 234763,
@@ -22681,6 +22713,14 @@
       "onboard_time": 1764050300,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 214973,
+      "num": 576692,
+      "word": "北大医药直线涨停",
+      "onboard_time": 1764055281,
+      "rank": 28,
+      "category": "财经"
     },
     {
       "raw_hot": 214929,
@@ -25219,6 +25259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 198470,
+      "num": 198470,
+      "word": "25秒2万个传家锅售罄",
+      "onboard_time": 1764057623,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 198428,
       "num": 167729,
       "word": "这小马一看就是才参加工作",
@@ -25537,6 +25585,14 @@
       "onboard_time": 1762841419,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 196407,
+      "num": 196407,
+      "word": "MateX7",
+      "onboard_time": 1764058761,
+      "rank": 41,
+      "category": "数码"
     },
     {
       "raw_hot": 196400,
@@ -27620,7 +27676,7 @@
     },
     {
       "raw_hot": 187333,
-      "num": 187333,
+      "num": 197352,
       "word": "Mate80系列首发超透亮灵珑屏",
       "onboard_time": 1764056182,
       "rank": 36,
@@ -27761,6 +27817,14 @@
       "onboard_time": 1763305464,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186595,
+      "num": 186595,
+      "word": "杜克给一哥共计超过300万塔卡",
+      "onboard_time": 1764059182,
+      "rank": 43,
+      "category": "网红"
     },
     {
       "raw_hot": 186586,
@@ -29297,6 +29361,14 @@
       "onboard_time": 1762803494,
       "rank": 10,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 178359,
+      "num": 178359,
+      "word": "短剧里生孩子 演员信念感",
+      "onboard_time": 1764059781,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 178326,
@@ -31121,6 +31193,14 @@
       "onboard_time": 1763565861,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 168608,
+      "num": 168608,
+      "word": "华为MateX7售价12999元起",
+      "onboard_time": 1764058942,
+      "rank": 46,
+      "category": "数码"
     },
     {
       "raw_hot": 168604,
@@ -33379,6 +33459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 159728,
+      "num": 159728,
+      "word": "Mate80配置",
+      "onboard_time": 1764058521,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 159684,
       "num": 159684,
       "word": "孟子义cos阿精",
@@ -34859,6 +34947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 154330,
+      "num": 154330,
+      "word": "国产剧cp终于不换乘上新搭了",
+      "onboard_time": 1764057982,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154323,
       "num": 154323,
       "word": "租的房间很小又要请朋友做客时",
@@ -35347,6 +35443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152229,
+      "num": 277264,
+      "word": "外交部回应中美元首通话",
+      "onboard_time": 1764059360,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 152211,
       "num": 152211,
       "word": "马思纯 没有笑的义务",
@@ -35441,14 +35545,6 @@
       "onboard_time": 1763616203,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 151977,
-      "num": 151977,
-      "word": "曝林俊杰女友是七七",
-      "onboard_time": 1764056362,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 151947,
@@ -42163,6 +42259,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130364,
+      "num": 273969,
+      "word": "法考主观题成绩公布时间",
+      "onboard_time": 1764056481,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 130341,
       "num": 326130,
       "word": "柯淳给余宇涵系丝巾",
@@ -47859,6 +47963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117717,
+      "num": 248907,
+      "word": "男子飞机上发病遇一个医疗团队",
+      "onboard_time": 1764057501,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117708,
       "num": 117708,
       "word": "丞磊顶腮这下",
@@ -52019,6 +52131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108777,
+      "num": 236586,
+      "word": "神21乘组未来坐神22返回",
+      "onboard_time": 1764059720,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108773,
       "num": 108773,
       "word": "明日方舟",
@@ -56065,6 +56185,14 @@
       "onboard_time": 1762062200,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 101832,
+      "num": 269304,
+      "word": "Mate80系列支持14天极限续航",
+      "onboard_time": 1764057321,
+      "rank": 18,
+      "category": "数码"
     },
     {
       "raw_hot": 101808,
@@ -60185,6 +60313,14 @@
       "onboard_time": 1763533941,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 94888,
+      "num": 197599,
+      "word": "华为紫金表王上新",
+      "onboard_time": 1764059601,
+      "rank": 36,
+      "category": "数码"
     },
     {
       "raw_hot": 94876,
@@ -65259,14 +65395,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 86338,
-      "num": 576692,
-      "word": "北大医药直线涨停",
-      "onboard_time": 1764055281,
-      "rank": 28,
-      "category": "财经"
-    },
-    {
       "raw_hot": 86326,
       "num": 86326,
       "word": "谁教马天宇这么哭的",
@@ -65907,6 +66035,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85334,
+      "num": 224351,
+      "word": "华为Mate80RS搭载双面昆仑玻璃",
+      "onboard_time": 1764059601,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 85308,
       "num": 92753,
       "word": "黄海海域将进行实弹射击禁止驶入",
@@ -66539,6 +66675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84131,
+      "num": 222301,
+      "word": "Mate80视频能力再突破",
+      "onboard_time": 1764057262,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 84105,
       "num": 180160,
       "word": "老板称传家锅卖五六十元不够成本",
@@ -66841,6 +66985,14 @@
       "onboard_time": 1763623823,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83331,
+      "num": 196769,
+      "word": "杭州机场健全印度人坐轮椅",
+      "onboard_time": 1764059302,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83294,
@@ -67713,6 +67865,14 @@
       "onboard_time": 1762944499,
       "rank": 40,
       "category": "情感"
+    },
+    {
+      "raw_hot": 81410,
+      "num": 263978,
+      "word": "中美元首通话是美方发起",
+      "onboard_time": 1764059542,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81388,
@@ -75105,6 +75265,14 @@
       "onboard_time": 1763821461,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 59591,
+      "num": 196993,
+      "word": "沈腾陈伟霆只差了六岁",
+      "onboard_time": 1764058761,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 59516,
@@ -87465,6 +87633,14 @@
       "onboard_time": 1763702061,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7204,
+      "num": 450486,
+      "word": "流感高发季防护指南来了",
+      "onboard_time": 1764059840,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 6688,
