@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 19:39:18
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 20:56:13
 </p>
 </blockquote>
 <p>
@@ -2079,6 +2079,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E5%BE%97%E7%9F%A5%E6%AF%9B%E5%B2%B8%E8%8B%B1%E6%AD%BB%E8%AE%AF%E5%90%8E%E5%BC%BA%E5%BF%8D%E6%B3%AA%E6%B0%B4%23" target="weibo">
+毛主席得知毛岸英死讯后强忍泪水（热度：911617）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E9%87%91%E9%9D%96%E5%8E%BB%E7%9C%8B%E5%88%98%E5%AE%87%E5%AE%81%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 张凌赫金靖去看刘宇宁演唱会（热度：910593）
 </a>
@@ -2537,6 +2543,12 @@ A股（热度：834240）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E7%BD%91%E8%AF%84%E4%BA%BA%E6%B0%91%E5%92%96%E5%95%A1%E9%A6%86%E4%B8%8D%E5%A6%A5%23" target="weibo">
 人民网评人民咖啡馆不妥（热度：828488）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%20%E5%8D%8E%E4%BC%A6%E5%8D%83%E9%87%91%23" target="weibo">
+杨紫 华伦千金（热度：828446）
 </a>
 </li>
 
@@ -4461,12 +4473,6 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AF%9B%E4%B8%BB%E5%B8%AD%E5%BE%97%E7%9F%A5%E6%AF%9B%E5%B2%B8%E8%8B%B1%E6%AD%BB%E8%AE%AF%E5%90%8E%E5%BC%BA%E5%BF%8D%E6%B3%AA%E6%B0%B4%23" target="weibo">
-毛主席得知毛岸英死讯后强忍泪水（热度：617196）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%9D%E9%B2%9C%E4%B8%BE%E8%A1%8C%E5%9B%BD%E8%91%AC%23" target="weibo">
 朝鲜举行国葬（热度：616933）
 </a>
@@ -6005,12 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E4%B9%8B%E5%A4%9C%E9%A6%96%E8%BD%AE%E9%98%B5%E5%AE%B9%23" target="weibo">
 爱奇艺尖叫之夜首轮阵容（热度：519489）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%20%E4%B8%8D%E6%95%A2%E5%9D%90%E5%9C%A8%E5%A4%A7%E6%98%8E%E6%98%9F%E6%97%81%E8%BE%B9%23" target="weibo">
-杨幂 不敢坐在大明星旁边（热度：518998）
 </a>
 </li>
 

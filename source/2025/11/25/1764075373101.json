@@ -1,0 +1,410 @@
+{
+  "runTime": 1764075373101,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 554028,
+        "num": 1088644,
+        "word": "充电宝3C认证将全面失效",
+        "onboard_time": 1764061881,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230696,
+        "num": 1084392,
+        "word": "华为表王到底有多少黑科技",
+        "onboard_time": 1764073522,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 73222,
+        "num": 1046491,
+        "word": "流感高发季防护指南来了",
+        "onboard_time": 1764059840,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287274,
+        "num": 1013944,
+        "word": "大生意人破3",
+        "onboard_time": 1764074602,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 286655,
+        "num": 979785,
+        "word": "中方暂停日本电影在华上映审批",
+        "onboard_time": 1764060201,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 298090,
+        "num": 967656,
+        "word": "充电宝 涨价",
+        "onboard_time": 1764069200,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 277465,
+        "num": 939992,
+        "word": "大生意人",
+        "onboard_time": 1764069743,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213825,
+        "num": 909646,
+        "word": "明年起遛狗不拴绳最高拘10天罚1千",
+        "onboard_time": 1764068423,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166216,
+        "num": 870839,
+        "word": "真有剧拍出流放宁古塔了",
+        "onboard_time": 1764069441,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141519,
+        "num": 846353,
+        "word": "蔚来财报",
+        "onboard_time": 1764070581,
+        "rank": 9,
+        "category": "汽车,财经"
+      },
+      {
+        "raw_hot": 828446,
+        "num": 828446,
+        "word": "杨紫 华伦千金",
+        "onboard_time": 1764071002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 466570,
+        "num": 466570,
+        "word": "泰版步步惊心",
+        "onboard_time": 1764072862,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 429994,
+        "num": 429994,
+        "word": "黄星直播",
+        "onboard_time": 1764072442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317225,
+        "num": 317225,
+        "word": "工作人员偷拍张峻豪换衣服给粉丝",
+        "onboard_time": 1764070103,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295280,
+        "num": 295280,
+        "word": "郭碧婷帮谢依霖报仇",
+        "onboard_time": 1764070643,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258185,
+        "num": 258185,
+        "word": "迪丽热巴 枭完你的枭你的",
+        "onboard_time": 1764069441,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244117,
+        "num": 244117,
+        "word": "黄雅琼婉拒王昶梁伟铿当娘家人",
+        "onboard_time": 1764070401,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236208,
+        "num": 236208,
+        "word": "新加坡为何敢对中日争端指手画脚",
+        "onboard_time": 1764064882,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205137,
+        "num": 205137,
+        "word": "小鱼海棠产后不到一年瘦至90斤",
+        "onboard_time": 1764065902,
+        "rank": 18,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 150725,
+        "num": 205080,
+        "word": "神舟二十号裂纹有救了",
+        "onboard_time": 1764064822,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1308399,
+        "num": 205041,
+        "word": "林俊杰回应恋情",
+        "onboard_time": 1764069081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258608,
+        "num": 204978,
+        "word": "原来熬夜伤害可以这样抵消",
+        "onboard_time": 1764069561,
+        "rank": 21,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 244557,
+        "num": 204845,
+        "word": "中彩票后先捐款再交税到手钱更多",
+        "onboard_time": 1764070041,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207714,
+        "num": 204818,
+        "word": "杨旭文这下真火了",
+        "onboard_time": 1764073401,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 195210,
+        "num": 204756,
+        "word": "把公积金当成份子钱送出去了",
+        "onboard_time": 1764064401,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 422258,
+        "num": 204665,
+        "word": "曝林俊杰女友是七七",
+        "onboard_time": 1764056362,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142916,
+        "num": 204539,
+        "word": "国产剧最破防的老头出现了",
+        "onboard_time": 1764074424,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126983,
+        "num": 204467,
+        "word": "台评论员称高市可能被特朗普骂了",
+        "onboard_time": 1764072022,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122715,
+        "num": 204414,
+        "word": "枭起青壤开始横盘了",
+        "onboard_time": 1764074061,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86020,
+        "num": 204346,
+        "word": "驻日本福冈总领馆提醒中国公民",
+        "onboard_time": 1764072742,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 911617,
+        "num": 204287,
+        "word": "毛主席得知毛岸英死讯后强忍泪水",
+        "onboard_time": 1764069921,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156600,
+        "num": 204179,
+        "word": "霍建华 年纪大受不了你们这样",
+        "onboard_time": 1764059961,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82643,
+        "num": 204110,
+        "word": "机场回应健全印度人坐轮椅",
+        "onboard_time": 1764073582,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168090,
+        "num": 204042,
+        "word": "日本大阪机场男子坠楼目击者发声",
+        "onboard_time": 1764073102,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142697,
+        "num": 203959,
+        "word": "贾玲张艺谋吴京韩寒对打",
+        "onboard_time": 1764073882,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133141,
+        "num": 203882,
+        "word": "英国偶遇窦骁何超莲",
+        "onboard_time": 1764062424,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117067,
+        "num": 203816,
+        "word": "汪峰大女儿疑似恋爱",
+        "onboard_time": 1764075024,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114678,
+        "num": 203764,
+        "word": "枭起青壤打戏",
+        "onboard_time": 1764051922,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113610,
+        "num": 203680,
+        "word": "Mate80价格",
+        "onboard_time": 1764055881,
+        "rank": 38,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103319,
+        "num": 203612,
+        "word": "大生意人央八史上最快破3剧集",
+        "onboard_time": 1764074902,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110576,
+        "num": 203508,
+        "word": "香港海岛发现一男一女两浮尸",
+        "onboard_time": 1764065362,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101206,
+        "num": 203479,
+        "word": "刘耀文小孩哥一拖五个易爆品",
+        "onboard_time": 1764073281,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98685,
+        "num": 203362,
+        "word": "狂野时代 离场率",
+        "onboard_time": 1764060081,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94906,
+        "num": 203339,
+        "word": "声生不息直播",
+        "onboard_time": 1764072742,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89396,
+        "num": 203257,
+        "word": "枭起青壤",
+        "onboard_time": 1764057501,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88728,
+        "num": 203161,
+        "word": "魏嬿婉持枪不是AI生成的",
+        "onboard_time": 1764071302,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86055,
+        "num": 203048,
+        "word": "佛山音乐节公告延期",
+        "onboard_time": 1764074242,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 83705,
+        "num": 203031,
+        "word": "把照片拍好真的很简单",
+        "onboard_time": 1764074722,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78184,
+        "num": 202929,
+        "word": "日本熊本5.8级地震",
+        "onboard_time": 1764069320,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 75687,
+        "num": 202850,
+        "word": "成都蓉城vs广岛三箭",
+        "onboard_time": 1764074541,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中美应共同维护好二战胜利成果#"
+    }
+  }
+}
