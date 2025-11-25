@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764066755738,
+  "endTime": 1764067735340,
   "band_list": [
     {
       "raw_hot": 2248555,
@@ -99,6 +99,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 948423,
+      "num": 1151747,
+      "word": "新加坡为何敢对中日争端指手画脚",
+      "onboard_time": 1764064882,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 940740,
       "num": 1042280,
       "word": "春节档 激烈",
@@ -163,6 +171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 739800,
+      "num": 443427,
+      "word": "小鱼海棠产后不到一年瘦至90斤",
+      "onboard_time": 1764065902,
+      "rank": 14,
+      "category": "网红"
+    },
+    {
       "raw_hot": 709014,
       "num": 362828,
       "word": "过度感谢 过度道歉",
@@ -177,14 +193,6 @@
       "onboard_time": 1764043882,
       "rank": 20,
       "category": "情感"
-    },
-    {
-      "raw_hot": 705571,
-      "num": 1112891,
-      "word": "新加坡为何敢对中日争端指手画脚",
-      "onboard_time": 1764064882,
-      "rank": 0,
-      "category": "国际时政"
     },
     {
       "raw_hot": 704816,
@@ -363,14 +371,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443427,
-      "num": 443427,
-      "word": "小鱼海棠产后不到一年瘦至90斤",
-      "onboard_time": 1764065902,
-      "rank": 14,
-      "category": "网红"
-    },
-    {
       "raw_hot": 433898,
       "num": 493267,
       "word": "枭起青壤追剧团",
@@ -441,6 +441,14 @@
       "onboard_time": 1764026059,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 386837,
+      "num": 234906,
+      "word": "香港海岛发现一男一女两浮尸",
+      "onboard_time": 1764065362,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 386208,
@@ -691,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258196,
+      "num": 158618,
+      "word": "中国一男子在日本关西机场坠亡",
+      "onboard_time": 1764067641,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 252613,
       "num": 376013,
       "word": "中国暂停租借大熊猫给日本引关注",
@@ -843,6 +859,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 205588,
+      "num": 205588,
+      "word": "佛山音乐节",
+      "onboard_time": 1764067402,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 204229,
       "num": 204229,
       "word": "上海全是主理人 贵州全是创始人",
@@ -857,14 +881,6 @@
       "onboard_time": 1764046284,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203716,
-      "num": 203716,
-      "word": "香港海岛发现一男一女两浮尸",
-      "onboard_time": 1764065362,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 203452,
@@ -1683,6 +1699,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 119136,
+      "num": 119136,
+      "word": "狗因为供暖已经活迷糊了",
+      "onboard_time": 1764067702,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 119064,
       "num": 119064,
       "word": "北京地铁",
@@ -1795,20 +1819,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112470,
+      "num": 112470,
+      "word": "压力性暴食",
+      "onboard_time": 1764066381,
+      "rank": 44,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 111071,
+      "num": 168794,
+      "word": "神舟二十号裂纹有救了",
+      "onboard_time": 1764064822,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 111059,
       "num": 321410,
       "word": "李蠕蠕自曝经常处于瓶颈期",
       "onboard_time": 1763997142,
       "rank": 31,
       "category": "网红"
-    },
-    {
-      "raw_hot": 110523,
-      "num": 168794,
-      "word": "神舟二十号裂纹有救了",
-      "onboard_time": 1764064822,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 110320,
@@ -1865,6 +1897,14 @@
       "onboard_time": 1764042742,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 109420,
+      "num": 109420,
+      "word": "迪丽热巴对二狗说2年了",
+      "onboard_time": 1764065601,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 109276,
@@ -1963,6 +2003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 103758,
+      "num": 175997,
+      "word": "华为FreeBudsPro5母带级无损音质",
+      "onboard_time": 1764065122,
+      "rank": 28,
+      "category": "数码"
+    },
+    {
       "raw_hot": 103193,
       "num": 216449,
       "word": "库里的三分",
@@ -2027,12 +2075,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98806,
-      "num": 175997,
-      "word": "华为FreeBudsPro5母带级无损音质",
-      "onboard_time": 1764065122,
-      "rank": 28,
-      "category": "数码"
+      "raw_hot": 99048,
+      "num": 163946,
+      "word": "阿道夫希特勒赢得纳米比亚地方选举",
+      "onboard_time": 1764066625,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95511,
@@ -2065,6 +2113,14 @@
       "onboard_time": 1764061702,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92607,
+      "num": 262886,
+      "word": "鸿蒙电脑也是超能大脑",
+      "onboard_time": 1764063560,
+      "rank": 27,
+      "category": "数码"
     },
     {
       "raw_hot": 91424,
@@ -2107,20 +2163,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 87718,
-      "num": 262886,
-      "word": "鸿蒙电脑也是超能大脑",
-      "onboard_time": 1764063560,
-      "rank": 27,
-      "category": "数码"
-    },
-    {
       "raw_hot": 87384,
       "num": 131038,
       "word": "罗阳去世前最后工作画面",
       "onboard_time": 1764033800,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86847,
+      "num": 678394,
+      "word": "中国机器人或将能吃出辣椒有多辣",
+      "onboard_time": 1764067581,
+      "rank": 4,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86629,
@@ -2241,6 +2297,14 @@
       "onboard_time": 1763992161,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78980,
+      "num": 1085705,
+      "word": "我国距离月球盖房更近一步",
+      "onboard_time": 1764066625,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 78747,
@@ -2371,6 +2435,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 67286,
+      "num": 195155,
+      "word": "华为手表首发腕上鸿蒙智能体",
+      "onboard_time": 1764065181,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 67054,
       "num": 132175,
       "word": "外交部回应中俄合作",
@@ -2475,14 +2547,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56330,
-      "num": 195155,
-      "word": "华为手表首发腕上鸿蒙智能体",
-      "onboard_time": 1764065181,
-      "rank": 19,
-      "category": "数码"
-    },
-    {
       "raw_hot": 55485,
       "num": 682425,
       "word": "净网2025网警揭露直播间托儿真面目",
@@ -2523,12 +2587,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 53143,
+      "num": 164677,
+      "word": "臣妾要告发淳常在玩手机",
+      "onboard_time": 1764066561,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 52320,
       "num": 319864,
       "word": "易烊千玺提名金莲花最佳男配",
       "onboard_time": 1763993302,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 51675,
+      "num": 165228,
+      "word": "国考生订房成功后房价翻倍被退订",
+      "onboard_time": 1764066023,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51303,
@@ -2611,22 +2691,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 37052,
-      "num": 163946,
-      "word": "阿道夫希特勒赢得纳米比亚地方选举",
-      "onboard_time": 1764066625,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 36636,
-      "num": 165228,
-      "word": "国考生订房成功后房价翻倍被退订",
-      "onboard_time": 1764066023,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36611,
       "num": 177455,
       "word": "俄一夜间击落249架乌克兰无人机",
@@ -2689,14 +2753,6 @@
       "onboard_time": 1764048201,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26860,
-      "num": 164677,
-      "word": "臣妾要告发淳常在玩手机",
-      "onboard_time": 1764066561,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 24943,
@@ -2787,14 +2843,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19208,
-      "num": 1085705,
-      "word": "我国距离月球盖房更近一步",
-      "onboard_time": 1764066625,
-      "rank": 1,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 19158,
       "num": 180471,
       "word": "老师只是低血糖不是新动作",
@@ -2875,20 +2923,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 11481,
+      "num": 166270,
+      "word": "张军桥烈士骨灰今日安葬",
+      "onboard_time": 1764066561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 11189,
       "num": 29923,
       "word": "凤凰台上",
       "onboard_time": 1764015373,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 10874,
-      "num": 166270,
-      "word": "张军桥烈士骨灰今日安葬",
-      "onboard_time": 1764066561,
-      "rank": 36,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

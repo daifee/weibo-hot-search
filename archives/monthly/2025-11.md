@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 18:32:35
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 18:48:55
 </p>
 </blockquote>
 <p>
@@ -1923,6 +1923,12 @@ T1管理层（热度：999897）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%BA%E4%BD%95%E6%95%A2%E5%AF%B9%E4%B8%AD%E6%97%A5%E4%BA%89%E7%AB%AF%E6%8C%87%E6%89%8B%E7%94%BB%E8%84%9A%23" target="weibo">
+新加坡为何敢对中日争端指手画脚（热度：948423）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%9F%A9%E5%9B%BD%23" target="weibo">
 高市早苗招惹韩国（热度：948388）
 </a>
@@ -3147,6 +3153,12 @@ iPhone18Pro前瞻（热度：752671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B1%BC%E6%B5%B7%E6%A3%A0%E4%BA%A7%E5%90%8E%E4%B8%8D%E5%88%B0%E4%B8%80%E5%B9%B4%E7%98%A6%E8%87%B390%E6%96%A4%23" target="weibo">
+小鱼海棠产后不到一年瘦至90斤（热度：739800）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%BF%8D%E7%97%9B%E8%B8%A9%E8%B6%BE%E5%8E%8B%E6%9D%BF%E8%84%9A%E5%96%B7%E8%A1%80%23" target="weibo">
 女子忍痛踩趾压板脚喷血（热度：739771）
 </a>
@@ -3425,12 +3437,6 @@ chovy状态（热度：706292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%BE%E8%BD%B6%E5%8F%AF%E7%8E%B0%E4%BB%BB%E5%8A%A9%E7%90%86%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%AF%B9%E8%B4%A8%23" target="weibo">
 曾轶可现任助理发朋友圈对质（热度：705697）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%8A%A0%E5%9D%A1%E4%B8%BA%E4%BD%95%E6%95%A2%E5%AF%B9%E4%B8%AD%E6%97%A5%E4%BA%89%E7%AB%AF%E6%8C%87%E6%89%8B%E7%94%BB%E8%84%9A%23" target="weibo">
-新加坡为何敢对中日争端指手画脚（热度：705571）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%84%9F%E8%A7%89%E4%B9%94%E6%AC%A3%E7%9A%84%E9%9D%A2%E7%9B%B8%E5%8F%98%E4%BA%86%23" target="weibo">
 感觉乔欣的面相变了（热度：518343）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%9C%BA%E7%9A%84%E8%A1%A3%E6%9C%8D%E9%82%A3%E4%B9%88%E8%B4%B5%E9%83%BD%E5%8D%96%E7%BB%99%E8%B0%81%E4%BA%86%23" target="weibo">
-商场的衣服那么贵都卖给谁了（热度：517890）
 </a>
 </li>
 

@@ -1,0 +1,410 @@
+{
+  "runTime": 1764067735340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 948423,
+        "num": 1151747,
+        "word": "新加坡为何敢对中日争端指手画脚",
+        "onboard_time": 1764064882,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 78980,
+        "num": 1024915,
+        "word": "我国距离月球盖房更近一步",
+        "onboard_time": 1764066625,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69548,
+        "num": 861936,
+        "word": "流感高发季防护指南来了",
+        "onboard_time": 1764059840,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169363,
+        "num": 725365,
+        "word": "华为非凡大师手表售价24999元",
+        "onboard_time": 1764063201,
+        "rank": 3,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86847,
+        "num": 678394,
+        "word": "中国机器人或将能吃出辣椒有多辣",
+        "onboard_time": 1764067581,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 544920,
+        "num": 544920,
+        "word": "充电宝3C认证将全面失效",
+        "onboard_time": 1764061881,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 439659,
+        "num": 439659,
+        "word": "中方暂停日本电影在华上映审批",
+        "onboard_time": 1764060201,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 291747,
+        "num": 291747,
+        "word": "鸡排哥流量狂欢接近尾声",
+        "onboard_time": 1764060141,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239571,
+        "num": 239571,
+        "word": "春节档 激烈",
+        "onboard_time": 1764053962,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91530,
+        "num": 238999,
+        "word": "老鲤皮肤",
+        "onboard_time": 1764065840,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 739800,
+        "num": 238154,
+        "word": "小鱼海棠产后不到一年瘦至90斤",
+        "onboard_time": 1764065902,
+        "rank": 10,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 714709,
+        "num": 237779,
+        "word": "把公积金当成份子钱送出去了",
+        "onboard_time": 1764064401,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 517765,
+        "num": 236526,
+        "word": "霍建华 年纪大受不了你们这样",
+        "onboard_time": 1764059961,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235997,
+        "num": 235997,
+        "word": "狂野时代 离场率",
+        "onboard_time": 1764060081,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 386837,
+        "num": 234906,
+        "word": "香港海岛发现一男一女两浮尸",
+        "onboard_time": 1764065362,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272103,
+        "num": 222445,
+        "word": "Mate80价格",
+        "onboard_time": 1764055881,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 205588,
+        "num": 205588,
+        "word": "佛山音乐节",
+        "onboard_time": 1764067402,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160385,
+        "num": 160385,
+        "word": "枭起青壤打戏",
+        "onboard_time": 1764051922,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67286,
+        "num": 160319,
+        "word": "华为手表首发腕上鸿蒙智能体",
+        "onboard_time": 1764065181,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 24103,
+        "num": 160199,
+        "word": "鸿蒙二合一性能有多强",
+        "onboard_time": 1764063560,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 86297,
+        "num": 160098,
+        "word": "余承东称MateX7对得起那四个字",
+        "onboard_time": 1764061222,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1091756,
+        "num": 159957,
+        "word": "曝林俊杰女友是七七",
+        "onboard_time": 1764056362,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 722919,
+        "num": 159767,
+        "word": "英国偶遇窦骁何超莲",
+        "onboard_time": 1764062424,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177615,
+        "num": 159562,
+        "word": "麒麟9030",
+        "onboard_time": 1764057262,
+        "rank": 23,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 126915,
+        "num": 159480,
+        "word": "枭起青壤直播",
+        "onboard_time": 1764058042,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81783,
+        "num": 159271,
+        "word": "华为MateX7折叠扛把子",
+        "onboard_time": 1764061881,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 103758,
+        "num": 159137,
+        "word": "华为FreeBudsPro5母带级无损音质",
+        "onboard_time": 1764065122,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 92607,
+        "num": 159080,
+        "word": "鸿蒙电脑也是超能大脑",
+        "onboard_time": 1764063560,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 121636,
+        "num": 158955,
+        "word": "九州岛5.3级地震",
+        "onboard_time": 1764064822,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119518,
+        "num": 158763,
+        "word": "日本曾屠杀60万台湾人",
+        "onboard_time": 1764063681,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258196,
+        "num": 158618,
+        "word": "中国一男子在日本关西机场坠亡",
+        "onboard_time": 1764067641,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182251,
+        "num": 158502,
+        "word": "林俊杰 女友",
+        "onboard_time": 1764051622,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158418,
+        "num": 158418,
+        "word": "卢昱晓 好有灵气的文字",
+        "onboard_time": 1764065122,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158158,
+        "num": 158158,
+        "word": "杜淳老婆曝天天被催债",
+        "onboard_time": 1764046702,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154995,
+        "num": 154995,
+        "word": "王鹤棣 callme我去干死他",
+        "onboard_time": 1764060322,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 73169,
+        "num": 153561,
+        "word": "华为MateX7赢麻了",
+        "onboard_time": 1764065001,
+        "rank": 35,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 153439,
+        "num": 153439,
+        "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
+        "onboard_time": 1764050001,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11481,
+        "num": 153367,
+        "word": "张军桥烈士骨灰今日安葬",
+        "onboard_time": 1764066561,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99048,
+        "num": 145146,
+        "word": "阿道夫希特勒赢得纳米比亚地方选举",
+        "onboard_time": 1764066625,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 53143,
+        "num": 136980,
+        "word": "臣妾要告发淳常在玩手机",
+        "onboard_time": 1764066561,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 35623,
+        "num": 127964,
+        "word": "华为MateX7可以折叠的影像旗舰",
+        "onboard_time": 1764063560,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 125287,
+        "num": 125287,
+        "word": "华为Mate80",
+        "onboard_time": 1764045563,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124324,
+        "num": 124324,
+        "word": "Uzi韩服连斩MVP",
+        "onboard_time": 1764064223,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119136,
+        "num": 119136,
+        "word": "狗因为供暖已经活迷糊了",
+        "onboard_time": 1764067702,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 112470,
+        "num": 112470,
+        "word": "压力性暴食",
+        "onboard_time": 1764066381,
+        "rank": 44,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 111071,
+        "num": 111071,
+        "word": "神舟二十号裂纹有救了",
+        "onboard_time": 1764064822,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110926,
+        "num": 110926,
+        "word": "明星不拍戏原来都去当老板了",
+        "onboard_time": 1764062842,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109420,
+        "num": 109420,
+        "word": "迪丽热巴对二狗说2年了",
+        "onboard_time": 1764065601,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106260,
+        "num": 106260,
+        "word": "马斯克要用Ai挑战人类英雄联盟",
+        "onboard_time": 1764065781,
+        "rank": 48,
+        "category": "电竞,互联网"
+      },
+      {
+        "raw_hot": 51675,
+        "num": 105220,
+        "word": "国考生订房成功后房价翻倍被退订",
+        "onboard_time": 1764066023,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}
