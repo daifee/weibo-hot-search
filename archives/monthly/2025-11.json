@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764099566044,
+  "endTime": 1764102667677,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -86107,6 +86107,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 24392,
+      "num": 31505,
+      "word": "七七多次现身林俊杰演唱会VIP席",
+      "onboard_time": 1764099494,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24390,
       "num": 42865,
       "word": "小姑娘走心了小男孩还没过脑",
@@ -86729,6 +86737,14 @@
       "onboard_time": 1763456783,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 21971,
+      "num": 29843,
+      "word": "美日领导人通话讨论涉台立场",
+      "onboard_time": 1764100334,
+      "rank": 15,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21968,
@@ -87401,14 +87417,6 @@
       "onboard_time": 1764014593,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 19158,
-      "num": 31505,
-      "word": "七七多次现身林俊杰演唱会VIP席",
-      "onboard_time": 1764099494,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 19094,
@@ -88187,6 +88195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 16641,
+      "num": 24326,
+      "word": "美方28点计划缩减为19点",
+      "onboard_time": 1764101114,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16544,
       "num": 45149,
       "word": "国际金银反弹",
@@ -88467,6 +88483,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 14516,
+      "num": 24256,
+      "word": "日方刻意回避中方要求收回错误言论",
+      "onboard_time": 1764101773,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14494,
       "num": 257536,
       "word": "原来这就叫鬼迷日眼",
@@ -88497,6 +88521,14 @@
       "onboard_time": 1763825782,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 14370,
+      "num": 24365,
+      "word": "枭起青壤原著",
+      "onboard_time": 1764099433,
+      "rank": 29,
+      "category": "剧集"
     },
     {
       "raw_hot": 14321,
@@ -89065,6 +89097,14 @@
       "onboard_time": 1763090840,
       "rank": 38,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 11378,
+      "num": 24184,
+      "word": "2025年国际乒联世青赛",
+      "onboard_time": 1764099614,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 11303,
