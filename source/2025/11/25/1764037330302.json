@@ -1,0 +1,410 @@
+{
+  "runTime": 1764037330302,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1006405,
+        "num": 1161024,
+        "word": "特朗普要求跟高市早苗通话",
+        "onboard_time": 1764035480,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 230919,
+        "num": 862780,
+        "word": "中国选手夺冠主办方到处借五星红旗",
+        "onboard_time": 1763994501,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 49743,
+        "num": 682425,
+        "word": "净网2025网警揭露直播间托儿真面目",
+        "onboard_time": 1764029841,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 593968,
+        "num": 593968,
+        "word": "高市早苗G20峰会上演外交灾难",
+        "onboard_time": 1763999600,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133071,
+        "num": 347811,
+        "word": "iG转会期",
+        "onboard_time": 1764031042,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 330708,
+        "num": 344773,
+        "word": "女装直播退货率80%以上",
+        "onboard_time": 1763997323,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 342484,
+        "num": 342484,
+        "word": "黄晓明晒成团第一张合照",
+        "onboard_time": 1764035422,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288605,
+        "num": 342284,
+        "word": "狂野时代遇冷暴露文艺片受众难题",
+        "onboard_time": 1764034460,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 231848,
+        "num": 339182,
+        "word": "主播称收入26万实则隐匿超1500万",
+        "onboard_time": 1763999600,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130894,
+        "num": 336125,
+        "word": "Uzi排位",
+        "onboard_time": 1764031521,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1094966,
+        "num": 334238,
+        "word": "演员李顺载去世",
+        "onboard_time": 1764030922,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333353,
+        "num": 333353,
+        "word": "邢菲道歉",
+        "onboard_time": 1763990842,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320494,
+        "num": 320494,
+        "word": "王一博开车时手里还在盘核桃",
+        "onboard_time": 1764026059,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 309459,
+        "num": 309459,
+        "word": "上海套内39平的五口之家",
+        "onboard_time": 1764030321,
+        "rank": 13,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 299874,
+        "num": 299874,
+        "word": "多个影视项目老板点名要刘宇宁",
+        "onboard_time": 1764027021,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155684,
+        "num": 283565,
+        "word": "枭起青壤 蚂蚱妈粉",
+        "onboard_time": 1764035119,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117305,
+        "num": 281013,
+        "word": "中国暂停租借大熊猫给日本引关注",
+        "onboard_time": 1763980761,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280299,
+        "num": 280299,
+        "word": "日本机场挤满回国的中国人",
+        "onboard_time": 1764036260,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 59972,
+        "num": 276851,
+        "word": "日本的挑衅已经不止于动嘴",
+        "onboard_time": 1764036860,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 45080,
+        "num": 274205,
+        "word": "台拟放宽近亲结婚引争议",
+        "onboard_time": 1764036920,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 397284,
+        "num": 267391,
+        "word": "昌平线",
+        "onboard_time": 1764033080,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 351659,
+        "num": 262563,
+        "word": "乌克兰男子遭强制征兵当场自爆",
+        "onboard_time": 1764033621,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 259494,
+        "num": 259494,
+        "word": "戴军和杨笠在泰国是邻居",
+        "onboard_time": 1764031702,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229039,
+        "num": 229039,
+        "word": "男子杀妻后将尸体强行折叠塞行李箱",
+        "onboard_time": 1764037039,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198578,
+        "num": 198578,
+        "word": "枭起青壤 吓人",
+        "onboard_time": 1763995582,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168003,
+        "num": 168003,
+        "word": "王心凌吴克群被偶遇",
+        "onboard_time": 1763997682,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152653,
+        "num": 166972,
+        "word": "罗阳逝世13年了",
+        "onboard_time": 1764033021,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110503,
+        "num": 165344,
+        "word": "迪丽热巴这一段神性拉满了",
+        "onboard_time": 1764031881,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103859,
+        "num": 163286,
+        "word": "成毅爆破戏",
+        "onboard_time": 1764036079,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99463,
+        "num": 161565,
+        "word": "起猛了看到张继科打混双",
+        "onboard_time": 1764026298,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195953,
+        "num": 159620,
+        "word": "地枭老鼠干",
+        "onboard_time": 1764032241,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 159198,
+        "num": 159198,
+        "word": "中美元首通电话",
+        "onboard_time": 1763997442,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 154501,
+        "num": 154501,
+        "word": "日本3位前首相再表态",
+        "onboard_time": 1763999001,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142478,
+        "num": 142478,
+        "word": "鸠山由纪夫再发声",
+        "onboard_time": 1764031702,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141102,
+        "num": 141102,
+        "word": "救命药滞留前台5小时致男子身亡",
+        "onboard_time": 1763988081,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141022,
+        "num": 141022,
+        "word": "当我打开2015年的朋友圈",
+        "onboard_time": 1764030203,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133580,
+        "num": 133580,
+        "word": "冬天最快减肥法",
+        "onboard_time": 1764025998,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 133491,
+        "num": 133491,
+        "word": "奇迹枭枭",
+        "onboard_time": 1764036801,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87384,
+        "num": 131038,
+        "word": "罗阳去世前最后工作画面",
+        "onboard_time": 1764033800,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48376,
+        "num": 130495,
+        "word": "高市G20吃闭门羹",
+        "onboard_time": 1764037039,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 130482,
+        "num": 130482,
+        "word": "爸爸怒斥女儿向上攀比是愚蠢的",
+        "onboard_time": 1764026658,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 113668,
+        "num": 121964,
+        "word": "酒店回应房客发病送药不及时死亡",
+        "onboard_time": 1764035060,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120916,
+        "num": 120916,
+        "word": "这真的是嫁给爱情的样子",
+        "onboard_time": 1764031461,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119064,
+        "num": 119064,
+        "word": "北京地铁",
+        "onboard_time": 1764036920,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113240,
+        "num": 113240,
+        "word": "大鹅霸凌狗崽被狗崽一家咬死",
+        "onboard_time": 1764028220,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111156,
+        "num": 111156,
+        "word": "黄子韬婚后首综",
+        "onboard_time": 1764033261,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107358,
+        "num": 107358,
+        "word": "港圈富二代自曝近百名女星投怀送抱",
+        "onboard_time": 1763988922,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79383,
+        "num": 106027,
+        "word": "2025国际乒联第48周排名",
+        "onboard_time": 1764036560,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105851,
+        "num": 105851,
+        "word": "北京地铁回应昌平线延误",
+        "onboard_time": 1764037100,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91637,
+        "num": 105765,
+        "word": "三只松鼠回应员工入职要改鼠名",
+        "onboard_time": 1763994563,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通话#"
+    }
+  }
+}

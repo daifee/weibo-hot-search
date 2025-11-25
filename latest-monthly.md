@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 09:59:43
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 10:22:10
 </p>
 </blockquote>
 <p>
@@ -1661,6 +1661,12 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2313999%E5%85%83%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E6%8E%89%E7%81%AB%E5%9D%91%E5%90%8E%E8%BF%98%E8%83%BD%E7%94%A8%23" target="weibo">
 13999元华为手机掉火坑后还能用（热度：1007477）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%A6%81%E6%B1%82%E8%B7%9F%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%80%9A%E8%AF%9D%23" target="weibo">
+特朗普要求跟高市早苗通话（热度：1006405）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Faker谈多兰多次失误（热度：516116）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8D%B7%E5%85%B0%E6%9A%82%E5%81%9C%E5%B9%B2%E9%A2%84%E5%AE%89%E4%B8%96%E5%8D%8A%E5%AF%BC%E4%BD%93%23" target="weibo">
 荷兰暂停干预安世半导体（热度：508777）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9D%E6%B0%B4%E5%90%8E%E6%9C%89%E8%BF%99%E4%BA%9B%E8%A1%A8%E7%8E%B0%E8%AF%B4%E6%98%8E%E8%82%BE%E4%B8%8D%E5%A5%BD%23" target="weibo">
-喝水后有这些表现说明肾不好（热度：508555）
 </a>
 </li>
 
