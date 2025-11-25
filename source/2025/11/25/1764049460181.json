@@ -1,0 +1,410 @@
+{
+  "runTime": 1764049460181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 705760,
+        "num": 1112921,
+        "word": "在日本留学中国学生发声",
+        "onboard_time": 1764038300,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203209,
+        "num": 1090623,
+        "word": "华为Mate80",
+        "onboard_time": 1764045563,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 26646,
+        "num": 1043072,
+        "word": "优质主播中国行江苏站",
+        "onboard_time": 1764048201,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318609,
+        "num": 1001600,
+        "word": "特朗普要求跟高市早苗通话",
+        "onboard_time": 1764035480,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 285429,
+        "num": 977271,
+        "word": "神二十二发射圆满成功",
+        "onboard_time": 1764046462,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307664,
+        "num": 927437,
+        "word": "日本机场挤满回国的中国人",
+        "onboard_time": 1764036260,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 429478,
+        "num": 875961,
+        "word": "马思纯张晚意合作",
+        "onboard_time": 1764045744,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 319711,
+        "num": 839169,
+        "word": "黄亦玫 我前任和上司在一起了",
+        "onboard_time": 1764038660,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136845,
+        "num": 791573,
+        "word": "A股迎反攻",
+        "onboard_time": 1764048921,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 121272,
+        "num": 775611,
+        "word": "专家称牛市第五浪将涨到你不信",
+        "onboard_time": 1764042381,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 750871,
+        "num": 750871,
+        "word": "日本会不会偷袭中国",
+        "onboard_time": 1764042922,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 707005,
+        "num": 707005,
+        "word": "单休的优点",
+        "onboard_time": 1764043882,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 702992,
+        "num": 702992,
+        "word": "狂野时代 退票",
+        "onboard_time": 1764047662,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 544983,
+        "num": 544983,
+        "word": "王嘉尔坦言30岁后开始做医美",
+        "onboard_time": 1764045923,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484596,
+        "num": 484596,
+        "word": "苹果已经在烤肉届杀疯了",
+        "onboard_time": 1764045143,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 304572,
+        "num": 304572,
+        "word": "员工入职三只松鼠咋就成了鼠辈",
+        "onboard_time": 1764045323,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293741,
+        "num": 293741,
+        "word": "王楚钦支持肖凯文新剧",
+        "onboard_time": 1764048501,
+        "rank": 16,
+        "category": "体育,剧集"
+      },
+      {
+        "raw_hot": 175261,
+        "num": 283623,
+        "word": "看疯狂动物城2之前需要知道的事",
+        "onboard_time": 1764043823,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 276889,
+        "num": 276889,
+        "word": "谈到琉球日本炸锅",
+        "onboard_time": 1764048141,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 36835,
+        "num": 259526,
+        "word": "更懂智能的燃油车",
+        "onboard_time": 1764045803,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 890927,
+        "num": 257649,
+        "word": "杜淳老婆曝天天被催债",
+        "onboard_time": 1764046702,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 252916,
+        "num": 252916,
+        "word": "演员李顺载去世",
+        "onboard_time": 1764030922,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192541,
+        "num": 192541,
+        "word": "月拢雁西归定档",
+        "onboard_time": 1764048262,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174500,
+        "num": 174500,
+        "word": "毛晓彤演一部我嗑一部",
+        "onboard_time": 1764046284,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174051,
+        "num": 174051,
+        "word": "女装直播退货率80%以上",
+        "onboard_time": 1763997323,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168996,
+        "num": 168996,
+        "word": "枭起青壤热度走势",
+        "onboard_time": 1764043461,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 161995,
+        "num": 161995,
+        "word": "马斯克预言20年后世界",
+        "onboard_time": 1764047662,
+        "rank": 26,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119990,
+        "num": 146040,
+        "word": "狂野时代票房",
+        "onboard_time": 1764041722,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118174,
+        "num": 144714,
+        "word": "明日乐园开机",
+        "onboard_time": 1764047362,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100826,
+        "num": 144698,
+        "word": "库里的三分",
+        "onboard_time": 1764048381,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144698,
+        "num": 144697,
+        "word": "泰国65岁老妇火化前突然复活",
+        "onboard_time": 1764043521,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140088,
+        "num": 140088,
+        "word": "乌克兰男子遭强制征兵当场自爆",
+        "onboard_time": 1764033621,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129684,
+        "num": 129684,
+        "word": "日本又迈出凶险一步",
+        "onboard_time": 1764039259,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127774,
+        "num": 127774,
+        "word": "杨紫香蜜沉沉烬如霜爱奇艺双榜一",
+        "onboard_time": 1764040041,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125168,
+        "num": 125168,
+        "word": "少买处于中间地带的衣服",
+        "onboard_time": 1764046883,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 108223,
+        "num": 108223,
+        "word": "地枭 真正的去头可食",
+        "onboard_time": 1764048141,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 107557,
+        "num": 107557,
+        "word": "何炅急的在嘴里炒了一桌菜",
+        "onboard_time": 1764039800,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102912,
+        "num": 102912,
+        "word": "高市早苗担任首相的资质遭质疑",
+        "onboard_time": 1764047241,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82133,
+        "num": 101499,
+        "word": "日本熊本市大规模市民集会抗议",
+        "onboard_time": 1764047783,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 24332,
+        "num": 101116,
+        "word": "杨超越 我怎么这么好看",
+        "onboard_time": 1764049040,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101035,
+        "num": 101035,
+        "word": "上海全是主理人 贵州全是创始人",
+        "onboard_time": 1764043162,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99956,
+        "num": 99956,
+        "word": "钟汉良新剧晋江味儿太浓了",
+        "onboard_time": 1764045624,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99274,
+        "num": 99274,
+        "word": "2026 文娱元年",
+        "onboard_time": 1764049161,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96820,
+        "num": 96820,
+        "word": "花140万买到230平的房子",
+        "onboard_time": 1764043582,
+        "rank": 43,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 93408,
+        "num": 93408,
+        "word": "特朗普将于明年4月访华",
+        "onboard_time": 1764049040,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91675,
+        "num": 91675,
+        "word": "李雪琴商务 老钱变老铁",
+        "onboard_time": 1764046942,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90595,
+        "num": 90595,
+        "word": "苹果夹烤肉",
+        "onboard_time": 1764041301,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 89975,
+        "num": 89975,
+        "word": "张凌赫张婧仪 新手爸妈视角",
+        "onboard_time": 1764046284,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76408,
+        "num": 89767,
+        "word": "队记谈杨瀚森被指发展不如预期",
+        "onboard_time": 1764049101,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64106,
+        "num": 89263,
+        "word": "杨瀚森背靠背出战2分半",
+        "onboard_time": 1764047842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}
