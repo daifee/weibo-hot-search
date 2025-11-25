@@ -1,0 +1,410 @@
+{
+  "runTime": 1764056449703,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 901881,
+        "num": 1144301,
+        "word": "华为发布会",
+        "onboard_time": 1764052702,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 699863,
+        "num": 699863,
+        "word": "Mate80价格",
+        "onboard_time": 1764055881,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 42747,
+        "num": 658109,
+        "word": "中国力争在宇宙黑暗时代等实现突破",
+        "onboard_time": 1764038781,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 940740,
+        "num": 658093,
+        "word": "春节档 激烈",
+        "onboard_time": 1764053962,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 649801,
+        "num": 649801,
+        "word": "高市早苗回应与特朗普通话",
+        "onboard_time": 1764051082,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 86338,
+        "num": 576692,
+        "word": "北大医药直线涨停",
+        "onboard_time": 1764055281,
+        "rank": 5,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 541396,
+        "num": 541396,
+        "word": "Mate80ProMAX",
+        "onboard_time": 1764055040,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 433898,
+        "num": 433898,
+        "word": "枭起青壤追剧团",
+        "onboard_time": 1764051981,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 386587,
+        "num": 386587,
+        "word": "在日本留学中国学生发声",
+        "onboard_time": 1764038300,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77765,
+        "num": 377845,
+        "word": "神舟飞船任务标识首现TGYJ",
+        "onboard_time": 1764054023,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 797867,
+        "num": 371036,
+        "word": "华为Mate80",
+        "onboard_time": 1764045563,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 709014,
+        "num": 361660,
+        "word": "过度感谢 过度道歉",
+        "onboard_time": 1764050300,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 613604,
+        "num": 343667,
+        "word": "狂野时代 退票",
+        "onboard_time": 1764047662,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 401617,
+        "num": 333019,
+        "word": "枭起青壤打戏",
+        "onboard_time": 1764051922,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325903,
+        "num": 325903,
+        "word": "Mate80隐藏彩蛋",
+        "onboard_time": 1764054562,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 274220,
+        "num": 274220,
+        "word": "日本磨牙16年对中国贴脸开大",
+        "onboard_time": 1764052823,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 267862,
+        "num": 267862,
+        "word": "巩俐刘亦菲赵丽颖 全女西游记",
+        "onboard_time": 1764052702,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247595,
+        "num": 247595,
+        "word": "程潇沈月周洁琼出演明日乐园",
+        "onboard_time": 1764055881,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 170376,
+        "num": 246409,
+        "word": "日本机场挤满回国的中国人",
+        "onboard_time": 1764036260,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136817,
+        "num": 245663,
+        "word": "高市回应与特朗普通话是否涉台",
+        "onboard_time": 1764051501,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74559,
+        "num": 243800,
+        "word": "警惕日本或成为亚洲最危险国家",
+        "onboard_time": 1764055222,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1444801,
+        "num": 240505,
+        "word": "林俊杰 女友",
+        "onboard_time": 1764051622,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339330,
+        "num": 239416,
+        "word": "王嘉尔喝醉了睡街上",
+        "onboard_time": 1764052103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326089,
+        "num": 237001,
+        "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
+        "onboard_time": 1764050001,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285180,
+        "num": 236139,
+        "word": "杜淳老婆曝天天被催债",
+        "onboard_time": 1764046702,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234954,
+        "num": 234954,
+        "word": "iG Uzi",
+        "onboard_time": 1764056002,
+        "rank": 25,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 230145,
+        "num": 230145,
+        "word": "章若楠在减肥",
+        "onboard_time": 1764054260,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217824,
+        "num": 217824,
+        "word": "谈到琉球日本炸锅",
+        "onboard_time": 1764048141,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 64857,
+        "num": 217217,
+        "word": "AI应用概念多股涨停",
+        "onboard_time": 1764055161,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 58108,
+        "num": 216449,
+        "word": "库里的三分",
+        "onboard_time": 1764048381,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163837,
+        "num": 215724,
+        "word": "金晨陈伟霆演史密斯夫妇",
+        "onboard_time": 1764050300,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460921,
+        "num": 215058,
+        "word": "日本会不会偷袭中国",
+        "onboard_time": 1764042922,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 181072,
+        "num": 214321,
+        "word": "丁禹兮 浪漫疯子",
+        "onboard_time": 1764054921,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213486,
+        "num": 213486,
+        "word": "苹果已经在烤肉届杀疯了",
+        "onboard_time": 1764045143,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 193563,
+        "num": 193563,
+        "word": "郭碧婷带两个孩子台北逛街",
+        "onboard_time": 1764053425,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54365,
+        "num": 188019,
+        "word": "成本20元的表皮生长因子售价上万",
+        "onboard_time": 1764054921,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187333,
+        "num": 187333,
+        "word": "Mate80系列首发超透亮灵珑屏",
+        "onboard_time": 1764056182,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22707,
+        "num": 186735,
+        "word": "律师称住客发病失联酒店有排查义务",
+        "onboard_time": 1764056122,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167560,
+        "num": 186610,
+        "word": "内娱第一部女频无限流剧",
+        "onboard_time": 1764056122,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90799,
+        "num": 186571,
+        "word": "迪丽热巴我一口一个",
+        "onboard_time": 1764055701,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186553,
+        "num": 186553,
+        "word": "孙俪转发陈晓梦回那年花开月正圆",
+        "onboard_time": 1764056362,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53871,
+        "num": 176375,
+        "word": "神二十二发射圆满成功",
+        "onboard_time": 1764046462,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 175609,
+        "num": 175609,
+        "word": "TheShy票王",
+        "onboard_time": 1764055161,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 152248,
+        "num": 152248,
+        "word": "王嘉尔坦言30岁后开始做医美",
+        "onboard_time": 1764045923,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151977,
+        "num": 151977,
+        "word": "曝林俊杰女友是七七",
+        "onboard_time": 1764056362,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149440,
+        "num": 149440,
+        "word": "易梦玲恋情公开后首现身",
+        "onboard_time": 1764052881,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145852,
+        "num": 145852,
+        "word": "那英刚洗完头就上节目了",
+        "onboard_time": 1764053721,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 52067,
+        "num": 115700,
+        "word": "杨瀚森背靠背出战2分半",
+        "onboard_time": 1764047842,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 114662,
+        "num": 114662,
+        "word": "疯狂动物城2排片",
+        "onboard_time": 1764056301,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113431,
+        "num": 113431,
+        "word": "折腰再夺全台陆剧收视冠军",
+        "onboard_time": 1764055643,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同特朗普通电话#"
+    }
+  }
+}

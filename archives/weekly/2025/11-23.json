@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764055645411,
+  "endTime": 1764056449703,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2248555,
-      "num": 188788,
+      "num": 240505,
       "word": "林俊杰 女友",
       "onboard_time": 1764051622,
       "rank": 21,
@@ -251,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 940740,
+      "num": 658093,
+      "word": "春节档 激烈",
+      "onboard_time": 1764053962,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 934774,
       "num": 934774,
       "word": "何秋亊掉粉461万",
@@ -267,20 +275,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 901881,
+      "num": 1144301,
+      "word": "华为发布会",
+      "onboard_time": 1764052702,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 895905,
       "num": 322727,
       "word": "港圈富二代自曝近百名女星投怀送抱",
       "onboard_time": 1763988922,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 894958,
-      "num": 1143193,
-      "word": "华为发布会",
-      "onboard_time": 1764052702,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 884836,
@@ -331,14 +339,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 819531,
-      "num": 471157,
-      "word": "春节档 激烈",
-      "onboard_time": 1764053962,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 818278,
       "num": 632218,
       "word": "戴军曝杨笠常住清迈",
@@ -377,6 +377,14 @@
       "onboard_time": 1763890282,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 797867,
+      "num": 1093760,
+      "word": "华为Mate80",
+      "onboard_time": 1764045563,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 788182,
@@ -443,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 709014,
+      "num": 361660,
+      "word": "过度感谢 过度道歉",
+      "onboard_time": 1764050300,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 707005,
       "num": 707005,
       "word": "单休的优点",
@@ -457,6 +473,14 @@
       "onboard_time": 1763991982,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 699863,
+      "num": 699863,
+      "word": "Mate80价格",
+      "onboard_time": 1764055881,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 691390,
@@ -515,20 +539,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649801,
+      "num": 649801,
+      "word": "高市早苗回应与特朗普通话",
+      "onboard_time": 1764051082,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 644760,
       "num": 1020260,
       "word": "金莲花提名",
       "onboard_time": 1763987601,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 637106,
-      "num": 1093760,
-      "word": "华为Mate80",
-      "onboard_time": 1764045563,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 633802,
@@ -707,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 541396,
+      "num": 541396,
+      "word": "Mate80ProMAX",
+      "onboard_time": 1764055040,
+      "rank": 7,
+      "category": "数码"
+    },
+    {
       "raw_hot": 539835,
       "num": 197985,
       "word": "黄一鸣谈恋爱了",
@@ -771,14 +803,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 525080,
-      "num": 525080,
-      "word": "高市早苗回应与特朗普通话",
-      "onboard_time": 1764051082,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 522586,
       "num": 1083613,
       "word": "Kanavi道歉",
@@ -812,7 +836,7 @@
     },
     {
       "raw_hot": 516159,
-      "num": 188118,
+      "num": 239416,
       "word": "王嘉尔喝醉了睡街上",
       "onboard_time": 1764052103,
       "rank": 23,
@@ -1035,14 +1059,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 452176,
-      "num": 225479,
-      "word": "过度感谢 过度道歉",
-      "onboard_time": 1764050300,
-      "rank": 45,
-      "category": "情感"
-    },
-    {
       "raw_hot": 451805,
       "num": 451805,
       "word": "江山为聘",
@@ -1099,6 +1115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 433898,
+      "num": 493267,
+      "word": "枭起青壤追剧团",
+      "onboard_time": 1764051981,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 431894,
       "num": 431894,
       "word": "荒野求生老中医鞋底藏物被退赛",
@@ -1108,7 +1132,7 @@
     },
     {
       "raw_hot": 431833,
-      "num": 187460,
+      "num": 237001,
       "word": "老人偷偷剃光孩子胎发宝妈崩溃大哭",
       "onboard_time": 1764050001,
       "rank": 25,
@@ -1227,6 +1251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 401617,
+      "num": 466977,
+      "word": "枭起青壤打戏",
+      "onboard_time": 1764051922,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 395231,
       "num": 395231,
       "word": "雅思降价",
@@ -1249,14 +1281,6 @@
       "onboard_time": 1764026059,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 383348,
-      "num": 493267,
-      "word": "枭起青壤追剧团",
-      "onboard_time": 1764051981,
-      "rank": 3,
-      "category": "剧集"
     },
     {
       "raw_hot": 378685,
@@ -1587,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 325903,
+      "num": 325903,
+      "word": "Mate80隐藏彩蛋",
+      "onboard_time": 1764054562,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 321270,
       "num": 876472,
       "word": "网红手作玩具 健康刺客",
@@ -1788,7 +1820,7 @@
     },
     {
       "raw_hot": 292859,
-      "num": 220160,
+      "num": 274220,
       "word": "日本磨牙16年对中国贴脸开大",
       "onboard_time": 1764052823,
       "rank": 36,
@@ -1987,6 +2019,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 267862,
+      "num": 267862,
+      "word": "巩俐刘亦菲赵丽颖 全女西游记",
+      "onboard_time": 1764052702,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 267695,
       "num": 242163,
       "word": "高市早苗努力表演不如一把椅子火",
@@ -2099,14 +2139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254435,
-      "num": 254435,
-      "word": "Mate80ProMAX",
-      "onboard_time": 1764055040,
-      "rank": 7,
-      "category": "数码"
-    },
-    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "九尾官宣自由人",
@@ -2171,20 +2203,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 249386,
-      "num": 466977,
-      "word": "枭起青壤打戏",
-      "onboard_time": 1764051922,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248642,
       "num": 248642,
       "word": "粉笔模考",
       "onboard_time": 1763868622,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 247595,
+      "num": 247595,
+      "word": "程潇沈月周洁琼出演明日乐园",
+      "onboard_time": 1764055881,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 247569,
@@ -2267,14 +2299,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 238924,
-      "num": 238924,
-      "word": "Mate80隐藏彩蛋",
-      "onboard_time": 1764054562,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 236052,
       "num": 1347749,
       "word": "中国选手夺冠主办方到处借五星红旗",
@@ -2297,6 +2321,14 @@
       "onboard_time": 1763908822,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 234954,
+      "num": 234954,
+      "word": "iG Uzi",
+      "onboard_time": 1764056002,
+      "rank": 25,
+      "category": "电竞"
     },
     {
       "raw_hot": 234763,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1764038361,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 230145,
+      "num": 230145,
+      "word": "章若楠在减肥",
+      "onboard_time": 1764054260,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 229881,
@@ -2476,7 +2516,7 @@
     },
     {
       "raw_hot": 215047,
-      "num": 215047,
+      "num": 215724,
       "word": "金晨陈伟霆演史密斯夫妇",
       "onboard_time": 1764050300,
       "rank": 17,
@@ -2505,14 +2545,6 @@
       "onboard_time": 1763954481,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213821,
-      "num": 176152,
-      "word": "章若楠在减肥",
-      "onboard_time": 1764054260,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 213785,
@@ -2548,7 +2580,7 @@
     },
     {
       "raw_hot": 211154,
-      "num": 175635,
+      "num": 214321,
       "word": "丁禹兮 浪漫疯子",
       "onboard_time": 1764054921,
       "rank": 31,
@@ -2577,14 +2609,6 @@
       "onboard_time": 1763963721,
       "rank": 17,
       "category": "演出"
-    },
-    {
-      "raw_hot": 208084,
-      "num": 208084,
-      "word": "巩俐刘亦菲赵丽颖 全女西游记",
-      "onboard_time": 1764052702,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 207950,
@@ -2835,6 +2859,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 193563,
+      "num": 193563,
+      "word": "郭碧婷带两个孩子台北逛街",
+      "onboard_time": 1764053425,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193483,
       "num": 193483,
       "word": "樊振东称K90八边形全能战士",
@@ -3011,6 +3043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 187333,
+      "num": 187333,
+      "word": "Mate80系列首发超透亮灵珑屏",
+      "onboard_time": 1764056182,
+      "rank": 36,
+      "category": "数码"
+    },
+    {
       "raw_hot": 187283,
       "num": 187283,
       "word": "时代少年团密室逃脱vlog",
@@ -3033,6 +3073,14 @@
       "onboard_time": 1763860639,
       "rank": 27,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 186553,
+      "num": 186553,
+      "word": "孙俪转发陈晓梦回那年花开月正圆",
+      "onboard_time": 1764056362,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 186101,
@@ -3259,20 +3307,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 175609,
+      "num": 175609,
+      "word": "TheShy票王",
+      "onboard_time": 1764055161,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 175146,
       "num": 143194,
       "word": "妈妈以为我在上海农村过得很差",
       "onboard_time": 1763853497,
       "rank": 30,
       "category": "情感"
-    },
-    {
-      "raw_hot": 175090,
-      "num": 175090,
-      "word": "郭碧婷带两个孩子台北逛街",
-      "onboard_time": 1764053425,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 174805,
@@ -3457,6 +3505,14 @@
       "onboard_time": 1763971103,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167560,
+      "num": 186610,
+      "word": "内娱第一部女频无限流剧",
+      "onboard_time": 1764056122,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 167507,
@@ -3684,7 +3740,7 @@
     },
     {
       "raw_hot": 156624,
-      "num": 179053,
+      "num": 245663,
       "word": "高市回应与特朗普通话是否涉台",
       "onboard_time": 1764051501,
       "rank": 43,
@@ -3793,6 +3849,14 @@
       "onboard_time": 1763882240,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151977,
+      "num": 151977,
+      "word": "曝林俊杰女友是七七",
+      "onboard_time": 1764056362,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 151621,
@@ -3923,20 +3987,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 145852,
+      "num": 145852,
+      "word": "那英刚洗完头就上节目了",
+      "onboard_time": 1764053721,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145039,
       "num": 137151,
       "word": "高市精心打扮遭日本网友嘲讽",
       "onboard_time": 1763892921,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 144917,
-      "num": 144917,
-      "word": "那英刚洗完头就上节目了",
-      "onboard_time": 1764053721,
-      "rank": 35,
-      "category": "综艺"
     },
     {
       "raw_hot": 144870,
@@ -4248,14 +4312,6 @@
       "word": "mlxg不相信Uzi去iG",
       "onboard_time": 1763880201,
       "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 134916,
-      "num": 134916,
-      "word": "TheShy票王",
-      "onboard_time": 1764055161,
-      "rank": 36,
       "category": "电竞"
     },
     {
@@ -5011,6 +5067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114662,
+      "num": 114662,
+      "word": "疯狂动物城2排片",
+      "onboard_time": 1764056301,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114577,
       "num": 114577,
       "word": "仿版胡彦斌 我要的全偷走",
@@ -5089,6 +5153,14 @@
       "onboard_time": 1763989282,
       "rank": 45,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 113431,
+      "num": 113431,
+      "word": "折腰再夺全台陆剧收视冠军",
+      "onboard_time": 1764055643,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 113068,
@@ -5660,7 +5732,7 @@
     },
     {
       "raw_hot": 103193,
-      "num": 192379,
+      "num": 216449,
       "word": "库里的三分",
       "onboard_time": 1764048381,
       "rank": 34,
@@ -6251,6 +6323,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 90799,
+      "num": 186571,
+      "word": "迪丽热巴我一口一个",
+      "onboard_time": 1764055701,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 90637,
       "num": 90637,
       "word": "Gumayusi看T1视频哭了",
@@ -6324,7 +6404,7 @@
     },
     {
       "raw_hot": 89329,
-      "num": 178038,
+      "num": 217217,
       "word": "AI应用概念多股涨停",
       "onboard_time": 1764055161,
       "rank": 22,
@@ -6435,6 +6515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86338,
+      "num": 576692,
+      "word": "北大医药直线涨停",
+      "onboard_time": 1764055281,
+      "rank": 28,
+      "category": "财经"
+    },
+    {
       "raw_hot": 86149,
       "num": 253616,
       "word": "揭秘年度最强性能电车",
@@ -6532,7 +6620,7 @@
     },
     {
       "raw_hot": 83052,
-      "num": 214157,
+      "num": 377845,
       "word": "神舟飞船任务标识首现TGYJ",
       "onboard_time": 1764054023,
       "rank": 14,
@@ -6803,12 +6891,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 74536,
-      "num": 176297,
-      "word": "北大医药直线涨停",
-      "onboard_time": 1764055281,
-      "rank": 28,
-      "category": "财经"
+      "raw_hot": 74559,
+      "num": 243800,
+      "word": "警惕日本或成为亚洲最危险国家",
+      "onboard_time": 1764055222,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 74495,
@@ -7251,20 +7339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 55338,
-      "num": 178916,
-      "word": "警惕日本或成为亚洲最危险国家",
-      "onboard_time": 1764055222,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 54429,
       "num": 70830,
       "word": "张俪 说的是我吗",
       "onboard_time": 1763854157,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54365,
+      "num": 188019,
+      "word": "成本20元的表皮生长因子售价上万",
+      "onboard_time": 1764054921,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53715,
@@ -7361,14 +7449,6 @@
       "onboard_time": 1763881939,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 47861,
-      "num": 130301,
-      "word": "成本20元的表皮生长因子售价上万",
-      "onboard_time": 1764054921,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47808,
@@ -8073,6 +8153,14 @@
       "onboard_time": 1764006136,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 22707,
+      "num": 186735,
+      "word": "律师称住客发病失联酒店有排查义务",
+      "onboard_time": 1764056122,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22582,

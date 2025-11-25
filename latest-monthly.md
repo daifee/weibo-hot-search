@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 15:27:25
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/25 15:40:49
 </p>
 </blockquote>
 <p>
@@ -1941,6 +1941,12 @@ T1管理层（热度：999897）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%20%E6%BF%80%E7%83%88%23" target="weibo">
+春节档 激烈（热度：940740）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E6%8A%A2%E8%B7%B3%23" target="weibo">
 孙杨抢跳（热度：938264）
 </a>
@@ -2067,6 +2073,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
+华为发布会（热度：901881）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E7%AC%91%E4%BA%86%E4%BA%94%E5%88%86%E9%92%9F%E6%89%8D%E5%BC%80%E5%A7%8B%E7%AD%94%E5%8D%B7%23" target="weibo">
 考生笑了五分钟才开始答卷（热度：897912）
 </a>
@@ -2093,12 +2105,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E5%9C%88%E5%AF%8C%E4%BA%8C%E4%BB%A3%E8%87%AA%E6%9B%9D%E8%BF%91%E7%99%BE%E5%90%8D%E5%A5%B3%E6%98%9F%E6%8A%95%E6%80%80%E9%80%81%E6%8A%B1%23" target="weibo">
 港圈富二代自曝近百名女星投怀送抱（热度：895905）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
-华为发布会（热度：894958）
 </a>
 </li>
 
@@ -2529,12 +2535,6 @@ A股（热度：834240）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%A5%E8%8A%82%E6%A1%A3%20%E6%BF%80%E7%83%88%23" target="weibo">
-春节档 激烈（热度：819531）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%BC%BA%E7%83%88%E6%8A%97%E8%AE%AE%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%B6%89%E5%8F%B0%E9%94%99%E8%AF%AF%E8%A8%80%E8%A1%8C%23" target="weibo">
 中方强烈抗议高市早苗涉台错误言行（热度：819224）
 </a>
@@ -2651,6 +2651,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E5%9C%A8%E8%8B%B1%E5%9B%BD%E4%B8%8A%E5%AD%A6%23" target="weibo">
 沙溢两个儿子在英国上学（热度：798866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%23" target="weibo">
+华为Mate80（热度：797867）
 </a>
 </li>
 
@@ -3333,6 +3339,12 @@ AG对战狼队（热度：725111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%87%E5%BA%A6%E6%84%9F%E8%B0%A2%20%E8%BF%87%E5%BA%A6%E9%81%93%E6%AD%89%23" target="weibo">
+过度感谢 过度道歉（热度：709014）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89%E8%A2%AB%E8%96%85%E7%BE%8A%E6%AF%9B%E7%9A%84%E5%8C%BB%E4%BF%9D%E5%8D%A1%23" target="weibo">
 央视曝光被薅羊毛的医保卡（热度：708683）
 </a>
@@ -3419,6 +3431,12 @@ chovy状态（热度：706292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E5%A6%88%E9%9F%B3%E7%BB%BC%E5%87%BA%E6%89%8B%E5%B0%B1%E6%98%AF%E5%9B%BD%E5%AE%B6%E9%98%9F%E9%A1%B6%E9%85%8D%23" target="weibo">
 央妈音综出手就是国家队顶配（热度：700188）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23Mate80%E4%BB%B7%E6%A0%BC%23" target="weibo">
+Mate80价格（热度：699863）
 </a>
 </li>
 
@@ -3975,6 +3993,12 @@ T1 Peyz（热度：653404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23" target="weibo">
+高市早苗回应与特朗普通话（热度：649801）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%AF%E7%BB%8D%E5%B3%B0%E7%8A%B6%E6%80%81%23" target="weibo">
 冯绍峰状态（热度：648486）
 </a>
@@ -4085,12 +4109,6 @@ iPhone面容解锁不需要摄像头（热度：640462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A7%86%E6%8F%AD%E7%BD%91%E8%B4%AD%E6%95%85%E6%84%8F%E5%8F%91%E9%94%99%E8%B4%A7%E9%AA%97%E5%B1%80%23" target="weibo">
 央视揭网购故意发错货骗局（热度：638195）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BAMate80%23" target="weibo">
-华为Mate80（热度：637106）
 </a>
 </li>
 
@@ -5517,6 +5535,12 @@ C罗可能做过多次整容手术（热度：563173）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23Mate80ProMAX%23" target="weibo">
+Mate80ProMAX（热度：541396）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%AD%99%E9%97%BB%23" target="weibo">
 樊振东vs孙闻（热度：541307）
 </a>
@@ -5835,12 +5859,6 @@ T1官宣Peyz加入（热度：531624）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%9B%9E%E5%BA%94%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D%23" target="weibo">
-高市早苗回应与特朗普通话（热度：525080）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E6%8A%8A%E8%91%B1%E8%8A%B1%E5%BD%93%E5%A4%A9%E4%BD%BF%E7%94%A8%23" target="weibo">
 为什么要把葱花当天使用（热度：524846）
 </a>
@@ -5993,24 +6011,6 @@ Kanavi道歉（热度：522586）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Faker%E8%B0%88%E5%A4%9A%E5%85%B0%E5%A4%9A%E6%AC%A1%E5%A4%B1%E8%AF%AF%23" target="weibo">
 Faker谈多兰多次失误（热度：516116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%BE%B7%E5%8D%8E%E6%8F%90%E5%89%8D%E8%A7%A3%E5%86%BB%23" target="weibo">
-刘德华提前解冻（热度：516111）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E7%9C%81%E4%BA%8C%E8%83%8E%E8%A1%A5%E8%B4%B4%E8%A2%AB%E8%BF%BD%E5%9B%9E%23" target="weibo">
-安徽省二胎补贴被追回（热度：515887）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9F%8F%E8%8A%9D%E6%8B%92%E7%BB%9D%E5%84%BF%E5%AD%90%E6%AF%8D%E4%BA%B2%E8%8A%82%E7%A4%BC%E7%89%A9%23" target="weibo">
-张柏芝拒绝儿子母亲节礼物（热度：515010）
 </a>
 </li>
 
