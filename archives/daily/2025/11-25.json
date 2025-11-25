@@ -1,6 +1,6 @@
 {
   "startTime": 1764001886510,
-  "endTime": 1764046074715,
+  "endTime": 1764048550850,
   "band_list": [
     {
       "raw_hot": 1527492,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1208862,
-      "num": 463704,
+      "num": 846488,
       "word": "日本会不会偷袭中国",
       "onboard_time": 1764042922,
       "rank": 10,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 1161234,
-      "num": 517932,
+      "num": 917313,
       "word": "黄亦玫 我前任和上司在一起了",
       "onboard_time": 1764038660,
       "rank": 10,
@@ -49,6 +49,14 @@
       "onboard_time": 1764035480,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 968446,
+      "num": 264693,
+      "word": "杜淳老婆曝天天被催债",
+      "onboard_time": 1764046702,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 806101,
@@ -67,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 660174,
+      "num": 660174,
+      "word": "单休的优点",
+      "onboard_time": 1764043882,
+      "rank": 20,
+      "category": "情感"
+    },
+    {
       "raw_hot": 638833,
       "num": 638833,
       "word": "枭起青壤 吓人",
@@ -81,6 +97,22 @@
       "onboard_time": 1763999600,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 534638,
+      "num": 534638,
+      "word": "王嘉尔坦言30岁后开始做医美",
+      "onboard_time": 1764045923,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 528626,
+      "num": 528626,
+      "word": "苹果已经在烤肉届杀疯了",
+      "onboard_time": 1764045143,
+      "rank": 32,
+      "category": "美食"
     },
     {
       "raw_hot": 528340,
@@ -121,6 +153,14 @@
       "onboard_time": 1763990842,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 456351,
+      "num": 940827,
+      "word": "马思纯张晚意合作",
+      "onboard_time": 1764045744,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 448746,
@@ -219,14 +259,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 343405,
-      "num": 343405,
-      "word": "单休的优点",
-      "onboard_time": 1764043882,
-      "rank": 20,
-      "category": "情感"
-    },
-    {
       "raw_hot": 342484,
       "num": 342484,
       "word": "黄晓明晒成团第一张合照",
@@ -243,12 +275,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 329732,
+      "num": 329732,
+      "word": "终于放弃在朋友圈证明自己过得很好",
+      "onboard_time": 1764045744,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 301886,
       "num": 269610,
       "word": "杨紫香蜜沉沉烬如霜爱奇艺双榜一",
       "onboard_time": 1764040041,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293724,
+      "num": 165156,
+      "word": "王楚钦支持肖凯文新剧",
+      "onboard_time": 1764048501,
+      "rank": 30,
+      "category": "体育,剧集"
     },
     {
       "raw_hot": 288605,
@@ -260,19 +308,11 @@
     },
     {
       "raw_hot": 285780,
-      "num": 483922,
+      "num": 850857,
       "word": "光遇复刻",
       "onboard_time": 1764043402,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 276829,
-      "num": 176526,
-      "word": "苹果已经在烤肉届杀疯了",
-      "onboard_time": 1764045143,
-      "rank": 32,
-      "category": "美食"
     },
     {
       "raw_hot": 275131,
@@ -299,12 +339,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 269881,
+      "num": 883400,
+      "word": "神二十二发射圆满成功",
+      "onboard_time": 1764046462,
+      "rank": 8,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 260007,
-      "num": 521589,
+      "num": 1013278,
       "word": "专家称牛市第五浪将涨到你不信",
       "onboard_time": 1764042381,
       "rank": 4,
       "category": "财经"
+    },
+    {
+      "raw_hot": 259870,
+      "num": 259870,
+      "word": "员工入职三只松鼠咋就成了鼠辈",
+      "onboard_time": 1764045323,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 259816,
@@ -332,7 +388,7 @@
     },
     {
       "raw_hot": 247345,
-      "num": 247647,
+      "num": 280789,
       "word": "枭起青壤热度走势",
       "onboard_time": 1764043461,
       "rank": 17,
@@ -411,6 +467,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 203816,
+      "num": 203816,
+      "word": "毛晓彤演一部我嗑一部",
+      "onboard_time": 1764046284,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203452,
       "num": 264477,
       "word": "音乐缘计划2第三波阵容官宣",
@@ -427,12 +491,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 197431,
+      "num": 197431,
+      "word": "狂野时代 退票",
+      "onboard_time": 1764047662,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 197420,
+      "num": 197420,
+      "word": "月拢雁西归定档",
+      "onboard_time": 1764048262,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 196651,
       "num": 196651,
       "word": "神舟二十二号",
       "onboard_time": 1764045683,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 194407,
+      "num": 1093760,
+      "word": "华为Mate80",
+      "onboard_time": 1764045563,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 189829,
@@ -579,14 +667,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 167096,
-      "num": 737150,
-      "word": "华为Mate80",
-      "onboard_time": 1764045563,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 166059,
       "num": 235107,
       "word": "枭起青壤改编",
@@ -627,6 +707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 157676,
+      "num": 166215,
+      "word": "明日乐园开机",
+      "onboard_time": 1764047362,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 154640,
       "num": 154640,
       "word": "高市早苗看莫迪的眼神耐人寻味",
@@ -649,14 +737,6 @@
       "onboard_time": 1764038000,
       "rank": 34,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 150659,
-      "num": 193092,
-      "word": "马思纯张晚意合作",
-      "onboard_time": 1764045744,
-      "rank": 26,
-      "category": "剧集"
     },
     {
       "raw_hot": 150287,
@@ -691,6 +771,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146644,
+      "num": 146644,
+      "word": "马斯克预言20年后世界",
+      "onboard_time": 1764047662,
+      "rank": 33,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 141916,
       "num": 276851,
       "word": "日本的挑衅已经不止于动嘴",
@@ -700,7 +788,7 @@
     },
     {
       "raw_hot": 139425,
-      "num": 213110,
+      "num": 268070,
       "word": "更懂智能的燃油车",
       "onboard_time": 1764045803,
       "rank": 22,
@@ -753,14 +841,6 @@
       "onboard_time": 1764043042,
       "rank": 37,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 135086,
-      "num": 135086,
-      "word": "王嘉尔坦言30岁后开始做医美",
-      "onboard_time": 1764045923,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 133778,
@@ -819,12 +899,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 127572,
-      "num": 127572,
-      "word": "终于放弃在朋友圈证明自己过得很好",
-      "onboard_time": 1764045744,
+      "raw_hot": 128004,
+      "num": 128004,
+      "word": "少买处于中间地带的衣服",
+      "onboard_time": 1764046883,
       "rank": 43,
-      "category": "情感"
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 126195,
@@ -979,6 +1059,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 108102,
+      "num": 108102,
+      "word": "张凌赫张婧仪 新手爸妈视角",
+      "onboard_time": 1764046284,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106317,
       "num": 322684,
       "word": "杨幂提名金莲花奖最佳女配",
@@ -993,6 +1081,14 @@
       "onboard_time": 1764037100,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105848,
+      "num": 128752,
+      "word": "日本熊本市大规模市民集会抗议",
+      "onboard_time": 1764047783,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105592,
@@ -1019,6 +1115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 101595,
+      "num": 101595,
+      "word": "李雪琴商务 老钱变老铁",
+      "onboard_time": 1764046942,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 101256,
       "num": 101256,
       "word": "曝苹果罕见裁员",
@@ -1035,12 +1139,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95511,
+      "num": 95511,
+      "word": "崩铁白厄赛飞儿万敌复刻",
+      "onboard_time": 1764047662,
+      "rank": 49,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93969,
       "num": 321962,
       "word": "狂野时代 讲的是什么",
       "onboard_time": 1763996603,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 91748,
+      "num": 273034,
+      "word": "谈到琉球日本炸锅",
+      "onboard_time": 1764048141,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 89763,
@@ -1091,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 82108,
+      "num": 146477,
+      "word": "库里的三分",
+      "onboard_time": 1764048381,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 81432,
       "num": 81432,
       "word": "多方回应医院3万瓣膜卖出28万",
@@ -1107,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80076,
+      "num": 165186,
+      "word": "爵士vs勇士",
+      "onboard_time": 1764047962,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79817,
       "num": 95431,
       "word": "毛雪汪",
@@ -1121,6 +1257,14 @@
       "onboard_time": 1764036560,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 79298,
+      "num": 128834,
+      "word": "地枭 真正的去头可食",
+      "onboard_time": 1764048141,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 79004,
@@ -1283,14 +1427,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 56463,
-      "num": 246060,
-      "word": "员工入职三只松鼠咋就成了鼠辈",
-      "onboard_time": 1764045323,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 55485,
       "num": 682425,
       "word": "净网2025网警揭露直播间托儿真面目",
@@ -1337,6 +1473,14 @@
       "onboard_time": 1764026839,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 49109,
+      "num": 130481,
+      "word": "杨瀚森背靠背出战2分半",
+      "onboard_time": 1764047842,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 48376,
@@ -1561,6 +1705,14 @@
       "onboard_time": 1764015373,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10076,
+      "num": 1075197,
+      "word": "优质主播中国行江苏站",
+      "onboard_time": 1764048201,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
