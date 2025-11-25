@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764063933508,
+  "endTime": 1764066755738,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -3251,6 +3251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 839127,
+      "num": 414965,
+      "word": "英国偶遇窦骁何超莲",
+      "onboard_time": 1764062424,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 837343,
       "num": 185448,
       "word": "两男子奸杀碎尸被拘禁女子被判死刑",
@@ -4067,6 +4075,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 751807,
+      "num": 751807,
+      "word": "把公积金当成份子钱送出去了",
+      "onboard_time": 1764064401,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 751229,
       "num": 687751,
       "word": "许我耀眼热度",
@@ -4427,14 +4443,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 712701,
-      "num": 414965,
-      "word": "英国偶遇窦骁何超莲",
-      "onboard_time": 1764062424,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 712659,
       "num": 303107,
       "word": "中方已向美方提严正交涉",
@@ -4545,6 +4553,14 @@
       "onboard_time": 1763356521,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 705571,
+      "num": 1112891,
+      "word": "新加坡为何敢对中日争端指手画脚",
+      "onboard_time": 1764064882,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 705453,
@@ -4849,6 +4865,14 @@
       "onboard_time": 1763977702,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681054,
+      "num": 681054,
+      "word": "充电宝3C认证将全面失效",
+      "onboard_time": 1764061881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 680501,
@@ -5849,14 +5873,6 @@
       "onboard_time": 1762500020,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 618501,
-      "num": 618501,
-      "word": "充电宝3C认证将全面失效",
-      "onboard_time": 1764061881,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 618302,
@@ -10105,6 +10121,14 @@
       "onboard_time": 1761999321,
       "rank": 3,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 443427,
+      "num": 443427,
+      "word": "小鱼海棠产后不到一年瘦至90斤",
+      "onboard_time": 1764065902,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 443167,
@@ -24387,6 +24411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203716,
+      "num": 203716,
+      "word": "香港海岛发现一男一女两浮尸",
+      "onboard_time": 1764065362,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203587,
       "num": 203587,
       "word": "中金",
@@ -25107,6 +25139,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 199998,
+      "num": 1133583,
+      "word": "华为非凡大师手表售价24999元",
+      "onboard_time": 1764063201,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199853,
       "num": 199853,
       "word": "难哄动画首支预告",
@@ -25417,14 +25457,6 @@
       "onboard_time": 1763776221,
       "rank": 30,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 198248,
-      "num": 1133583,
-      "word": "华为非凡大师手表售价24999元",
-      "onboard_time": 1764063201,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 198199,
@@ -27747,6 +27779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 187700,
+      "num": 187700,
+      "word": "马斯克要用Ai挑战人类英雄联盟",
+      "onboard_time": 1764065781,
+      "rank": 23,
+      "category": "电竞,互联网"
+    },
+    {
       "raw_hot": 187678,
       "num": 200237,
       "word": "Papi说爱妻人设是梁淞的造型需求",
@@ -29524,7 +29564,7 @@
     },
     {
       "raw_hot": 178207,
-      "num": 424283,
+      "num": 981365,
       "word": "余承东称MateX7对得起那四个字",
       "onboard_time": 1764061222,
       "rank": 42,
@@ -33347,6 +33387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160722,
+      "num": 160722,
+      "word": "卢昱晓 好有灵气的文字",
+      "onboard_time": 1764065122,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160668,
       "num": 160668,
       "word": "迪丽热巴南京线下活动人气",
@@ -33379,6 +33427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160569,
+      "num": 160569,
+      "word": "明星不拍戏原来都去当老板了",
+      "onboard_time": 1764062842,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160509,
       "num": 160509,
       "word": "王曼昱说陈梦再返赛场优势非常强",
@@ -33393,6 +33449,14 @@
       "onboard_time": 1762252402,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 160465,
+      "num": 160465,
+      "word": "Uzi韩服连斩MVP",
+      "onboard_time": 1764064223,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 160440,
@@ -33705,6 +33769,14 @@
       "onboard_time": 1762934840,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 159447,
+      "num": 174429,
+      "word": "九州岛5.3级地震",
+      "onboard_time": 1764064822,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 159350,
@@ -36955,14 +37027,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147439,
-      "num": 147439,
-      "word": "明星不拍戏原来都去当老板了",
-      "onboard_time": 1764062842,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 147429,
       "num": 147429,
       "word": "全剧尺度最大的戏是鹤男和张耀给的",
@@ -37137,6 +37201,14 @@
       "onboard_time": 1763779100,
       "rank": 33,
       "category": "健康医疗,美食"
+    },
+    {
+      "raw_hot": 146923,
+      "num": 187169,
+      "word": "日本曾屠杀60万台湾人",
+      "onboard_time": 1764063681,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146859,
@@ -48555,6 +48627,14 @@
       "category": "议题讨论"
     },
     {
+      "raw_hot": 117002,
+      "num": 766777,
+      "word": "老鲤皮肤",
+      "onboard_time": 1764065840,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116984,
       "num": 116984,
       "word": "孙颖莎自己队友也要拍拍手",
@@ -49889,6 +49969,14 @@
       "onboard_time": 1762430721,
       "rank": 29,
       "category": "汽车,电竞"
+    },
+    {
+      "raw_hot": 113942,
+      "num": 804759,
+      "word": "又一批果蔬送达中国空间站",
+      "onboard_time": 1764063442,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113927,
@@ -51523,6 +51611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110523,
+      "num": 168794,
+      "word": "神舟二十号裂纹有救了",
+      "onboard_time": 1764064822,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110519,
       "num": 151632,
       "word": "梁伟铿感谢任翔宇",
@@ -51809,6 +51905,14 @@
       "onboard_time": 1762413921,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109957,
+      "num": 166530,
+      "word": "华为MateX7赢麻了",
+      "onboard_time": 1764065001,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 109916,
@@ -58169,6 +58273,14 @@
       "onboard_time": 1763004980,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 98806,
+      "num": 175997,
+      "word": "华为FreeBudsPro5母带级无损音质",
+      "onboard_time": 1764065122,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 98795,
@@ -76331,6 +76443,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 56330,
+      "num": 195155,
+      "word": "华为手表首发腕上鸿蒙智能体",
+      "onboard_time": 1764065181,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56313,
       "num": 110100,
       "word": "天津津门虎vs上海申花",
@@ -81379,6 +81499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37052,
+      "num": 163946,
+      "word": "阿道夫希特勒赢得纳米比亚地方选举",
+      "onboard_time": 1764066625,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37005,
       "num": 334199,
       "word": "大眼音乐节看爽了",
@@ -81449,6 +81577,14 @@
       "onboard_time": 1762102220,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36636,
+      "num": 165228,
+      "word": "国考生订房成功后房价翻倍被退订",
+      "onboard_time": 1764066023,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36628,
@@ -82601,14 +82737,6 @@
       "onboard_time": 1763911582,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 32707,
-      "num": 804759,
-      "word": "又一批果蔬送达中国空间站",
-      "onboard_time": 1764063442,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32642,
@@ -84273,6 +84401,14 @@
       "onboard_time": 1763781502,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26860,
+      "num": 164677,
+      "word": "臣妾要告发淳常在玩手机",
+      "onboard_time": 1764066561,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26852,
@@ -86123,6 +86259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19208,
+      "num": 1085705,
+      "word": "我国距离月球盖房更近一步",
+      "onboard_time": 1764066625,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19175,
       "num": 39029,
       "word": "王一博活出生命的极致",
@@ -87803,6 +87947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10874,
+      "num": 166270,
+      "word": "张军桥烈士骨灰今日安葬",
+      "onboard_time": 1764066561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 10733,
       "num": 28257,
       "word": "中国反家暴典型案例三大特点",
@@ -87937,14 +88089,6 @@
       "onboard_time": 1763967080,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8723,
-      "num": 187169,
-      "word": "日本曾屠杀60万台湾人",
-      "onboard_time": 1764063681,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8693,

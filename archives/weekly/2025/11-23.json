@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764063933508,
+  "endTime": 1764066755738,
   "band_list": [
     {
       "raw_hot": 2326450,
@@ -371,6 +371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 839127,
+      "num": 414965,
+      "word": "英国偶遇窦骁何超莲",
+      "onboard_time": 1764062424,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 818278,
       "num": 632218,
       "word": "戴军曝杨笠常住清迈",
@@ -475,6 +483,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 751807,
+      "num": 751807,
+      "word": "把公积金当成份子钱送出去了",
+      "onboard_time": 1764064401,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 725800,
       "num": 881753,
       "word": "张家齐宣布退役",
@@ -491,14 +507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 712701,
-      "num": 414965,
-      "word": "英国偶遇窦骁何超莲",
-      "onboard_time": 1764062424,
-      "rank": 13,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 709014,
       "num": 362828,
       "word": "过度感谢 过度道歉",
@@ -513,6 +521,14 @@
       "onboard_time": 1764043882,
       "rank": 20,
       "category": "情感"
+    },
+    {
+      "raw_hot": 705571,
+      "num": 1112891,
+      "word": "新加坡为何敢对中日争端指手画脚",
+      "onboard_time": 1764064882,
+      "rank": 0,
+      "category": "国际时政"
     },
     {
       "raw_hot": 704816,
@@ -545,6 +561,14 @@
       "onboard_time": 1763977702,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 681054,
+      "num": 681054,
+      "word": "充电宝3C认证将全面失效",
+      "onboard_time": 1764061881,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 666855,
@@ -649,14 +673,6 @@
       "onboard_time": 1763856618,
       "rank": 10,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 618501,
-      "num": 618501,
-      "word": "充电宝3C认证将全面失效",
-      "onboard_time": 1764061881,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 616196,
@@ -1169,6 +1185,14 @@
       "onboard_time": 1763902882,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 443427,
+      "num": 443427,
+      "word": "小鱼海棠产后不到一年瘦至90斤",
+      "onboard_time": 1764065902,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 439533,
@@ -2859,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 203716,
+      "num": 203716,
+      "word": "香港海岛发现一男一女两浮尸",
+      "onboard_time": 1764065362,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 203452,
       "num": 264477,
       "word": "音乐缘计划2第三波阵容官宣",
@@ -2939,6 +2971,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 199998,
+      "num": 1133583,
+      "word": "华为非凡大师手表售价24999元",
+      "onboard_time": 1764063201,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 198973,
       "num": 198973,
       "word": "刘耀文这透视可真透视啊",
@@ -2953,14 +2993,6 @@
       "onboard_time": 1764057623,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 198248,
-      "num": 1133583,
-      "word": "华为非凡大师手表售价24999元",
-      "onboard_time": 1764063201,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 197695,
@@ -3243,6 +3275,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187700,
+      "num": 187700,
+      "word": "马斯克要用Ai挑战人类英雄联盟",
+      "onboard_time": 1764065781,
+      "rank": 23,
+      "category": "电竞,互联网"
+    },
+    {
       "raw_hot": 187609,
       "num": 253565,
       "word": "张艺兴三巡礼盒",
@@ -3444,7 +3484,7 @@
     },
     {
       "raw_hot": 178207,
-      "num": 424283,
+      "num": 981365,
       "word": "余承东称MateX7对得起那四个字",
       "onboard_time": 1764061222,
       "rank": 42,
@@ -3939,6 +3979,30 @@
       "category": "电影"
     },
     {
+      "raw_hot": 160722,
+      "num": 160722,
+      "word": "卢昱晓 好有灵气的文字",
+      "onboard_time": 1764065122,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160569,
+      "num": 160569,
+      "word": "明星不拍戏原来都去当老板了",
+      "onboard_time": 1764062842,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160465,
+      "num": 160465,
+      "word": "Uzi韩服连斩MVP",
+      "onboard_time": 1764064223,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 160219,
       "num": 270322,
       "word": "结婚登记同比增加超40万对",
@@ -3969,6 +4033,14 @@
       "onboard_time": 1764058521,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 159447,
+      "num": 174429,
+      "word": "九州岛5.3级地震",
+      "onboard_time": 1764064822,
+      "rank": 29,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 158478,
@@ -4251,12 +4323,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147439,
-      "num": 147439,
-      "word": "明星不拍戏原来都去当老板了",
-      "onboard_time": 1764062842,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 146923,
+      "num": 187169,
+      "word": "日本曾屠杀60万台湾人",
+      "onboard_time": 1764063681,
+      "rank": 31,
+      "category": "国内时政"
     },
     {
       "raw_hot": 146750,
@@ -5307,6 +5379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 117002,
+      "num": 766777,
+      "word": "老鲤皮肤",
+      "onboard_time": 1764065840,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 116776,
       "num": 116776,
       "word": "刘耀文穿睡衣跳猪猪侠",
@@ -5425,6 +5505,14 @@
       "onboard_time": 1763907562,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 113942,
+      "num": 804759,
+      "word": "又一批果蔬送达中国空间站",
+      "onboard_time": 1764063442,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 113914,
@@ -5603,6 +5691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 110523,
+      "num": 168794,
+      "word": "神舟二十号裂纹有救了",
+      "onboard_time": 1764064822,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 110519,
       "num": 151632,
       "word": "梁伟铿感谢任翔宇",
@@ -5657,6 +5753,14 @@
       "onboard_time": 1764044122,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 109957,
+      "num": 166530,
+      "word": "华为MateX7赢麻了",
+      "onboard_time": 1764065001,
+      "rank": 35,
+      "category": "数码"
     },
     {
       "raw_hot": 109897,
@@ -6345,6 +6449,14 @@
       "onboard_time": 1763872941,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98806,
+      "num": 175997,
+      "word": "华为FreeBudsPro5母带级无损音质",
+      "onboard_time": 1764065122,
+      "rank": 28,
+      "category": "数码"
     },
     {
       "raw_hot": 98666,
@@ -7771,6 +7883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56330,
+      "num": 195155,
+      "word": "华为手表首发腕上鸿蒙智能体",
+      "onboard_time": 1764065181,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 56267,
       "num": 95423,
       "word": "高市错误言论违反国际法",
@@ -8195,6 +8315,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37052,
+      "num": 163946,
+      "word": "阿道夫希特勒赢得纳米比亚地方选举",
+      "onboard_time": 1764066625,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 36636,
+      "num": 165228,
+      "word": "国考生订房成功后房价翻倍被退订",
+      "onboard_time": 1764066023,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36611,
       "num": 177455,
       "word": "俄一夜间击落249架乌克兰无人机",
@@ -8305,14 +8441,6 @@
       "onboard_time": 1763911582,
       "rank": 19,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 32707,
-      "num": 804759,
-      "word": "又一批果蔬送达中国空间站",
-      "onboard_time": 1764063442,
-      "rank": 9,
-      "category": "国内时政"
     },
     {
       "raw_hot": 32641,
@@ -8497,6 +8625,14 @@
       "onboard_time": 1763918777,
       "rank": 46,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 26860,
+      "num": 164677,
+      "word": "臣妾要告发淳常在玩手机",
+      "onboard_time": 1764066561,
+      "rank": 38,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 26814,
@@ -8763,6 +8899,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 19208,
+      "num": 1085705,
+      "word": "我国距离月球盖房更近一步",
+      "onboard_time": 1764066625,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19158,
       "num": 180471,
       "word": "老师只是低血糖不是新动作",
@@ -8979,20 +9123,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 10874,
+      "num": 166270,
+      "word": "张军桥烈士骨灰今日安葬",
+      "onboard_time": 1764066561,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 9169,
       "num": 112133,
       "word": "毕赣说易烊千玺得下一个影帝发红包",
       "onboard_time": 1763967080,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 8723,
-      "num": 187169,
-      "word": "日本曾屠杀60万台湾人",
-      "onboard_time": 1764063681,
-      "rank": 31,
-      "category": "国内时政"
     },
     {
       "raw_hot": 5956,
