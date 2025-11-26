@@ -1,0 +1,410 @@
+{
+  "runTime": 1764154096394,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 598556,
+        "num": 1095769,
+        "word": "日本的战争准备正全面铺开",
+        "onboard_time": 1764124280,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137560,
+        "num": 984330,
+        "word": "人类首次发现月球也会生锈",
+        "onboard_time": 1764153022,
+        "rank": 1,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 84347,
+        "num": 932565,
+        "word": "最新版全国入冬进程图",
+        "onboard_time": 1764147683,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 267098,
+        "num": 767214,
+        "word": "Uzi被曝已签约",
+        "onboard_time": 1764144442,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104423,
+        "num": 655713,
+        "word": "赵长江回应入职传闻",
+        "onboard_time": 1764153261,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 4997492,
+        "num": 545826,
+        "word": "香港火灾",
+        "onboard_time": 1764152062,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1621913,
+        "num": 486486,
+        "word": "演员仝卓的表弟已获救",
+        "onboard_time": 1764150682,
+        "rank": 6,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 416362,
+        "num": 416362,
+        "word": "香港突发大火已致4死3伤",
+        "onboard_time": 1764152602,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 380223,
+        "num": 380223,
+        "word": "红果短剧红毯",
+        "onboard_time": 1764147082,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 171729,
+        "num": 368229,
+        "word": "TES三连宣",
+        "onboard_time": 1764149661,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 2410995,
+        "num": 355366,
+        "word": "华杉没道歉",
+        "onboard_time": 1764152002,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 547923,
+        "num": 349357,
+        "word": "迪丽热巴现在最大的困境",
+        "onboard_time": 1764147321,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 420945,
+        "num": 336492,
+        "word": "巨蛇在泰国洪水中游动",
+        "onboard_time": 1764147683,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 328204,
+        "num": 328204,
+        "word": "高市早苗在李在明面前拍脸蛋",
+        "onboard_time": 1764148881,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 37148,
+        "num": 296781,
+        "word": "对标Chrome的夸克AI浏览器免费用",
+        "onboard_time": 1764151283,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 295484,
+        "num": 295484,
+        "word": "罗永浩怒怼华与华创始人",
+        "onboard_time": 1764127701,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 234917,
+        "num": 234917,
+        "word": "昀牵孟绕",
+        "onboard_time": 1764147141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233949,
+        "num": 233949,
+        "word": "日本女市长与下属多次开房后提出辞职",
+        "onboard_time": 1764150262,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 225249,
+        "num": 225249,
+        "word": "疯狂动物城2首批观众反馈",
+        "onboard_time": 1764136700,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13323,
+        "num": 224206,
+        "word": "四问婚前同居认定属于家庭成员",
+        "onboard_time": 1764153801,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1357333,
+        "num": 223656,
+        "word": "罗永浩 华杉",
+        "onboard_time": 1764131182,
+        "rank": 20,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 764668,
+        "num": 221780,
+        "word": "易梦玲 师生恋",
+        "onboard_time": 1764146122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1217173,
+        "num": 221381,
+        "word": "仝卓表弟获救画面",
+        "onboard_time": 1764151642,
+        "rank": 22,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 220612,
+        "num": 220612,
+        "word": "芒果史冠",
+        "onboard_time": 1764153321,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 193459,
+        "num": 193459,
+        "word": "成龙确认出演尖峰时刻4",
+        "onboard_time": 1764149902,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 666935,
+        "num": 193373,
+        "word": "罗永浩 录音",
+        "onboard_time": 1764125901,
+        "rank": 25,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 285138,
+        "num": 193309,
+        "word": "罗志祥经纪人晒亲子鉴定",
+        "onboard_time": 1764128721,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 193144,
+        "word": "王凤朝被查",
+        "onboard_time": 1764153022,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167128,
+        "num": 193080,
+        "word": "尚公主",
+        "onboard_time": 1764153622,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152563,
+        "num": 193011,
+        "word": "疯狂动物城",
+        "onboard_time": 1764135322,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 215993,
+        "num": 192855,
+        "word": "Angelababy经纪人与李安聚餐",
+        "onboard_time": 1764150682,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171167,
+        "num": 192792,
+        "word": "海底捞顾客被嘲只点锅底光吃小料",
+        "onboard_time": 1764152363,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192719,
+        "num": 192719,
+        "word": "张亮方已报警立案",
+        "onboard_time": 1764145823,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177685,
+        "num": 177685,
+        "word": "穆祉丞说要跟厂牌继续走下去",
+        "onboard_time": 1764153982,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174230,
+        "num": 174230,
+        "word": "泸溪河 包装刺客",
+        "onboard_time": 1764151702,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158398,
+        "num": 158398,
+        "word": "特朗普作出让步",
+        "onboard_time": 1764145701,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 158222,
+        "num": 158222,
+        "word": "原来全麻手术压根不是睡着了",
+        "onboard_time": 1764139940,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147786,
+        "num": 147786,
+        "word": "华与华创意大赛当观众要付1万元",
+        "onboard_time": 1764150623,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34925,
+        "num": 145432,
+        "word": "湖人杯赛小组第一出线",
+        "onboard_time": 1764153741,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 15140,
+        "num": 145165,
+        "word": "明星是服务行业只有王嘉尔听进去了",
+        "onboard_time": 1764153321,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145014,
+        "num": 145014,
+        "word": "罗永浩说其实挺疲劳的",
+        "onboard_time": 1764153562,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 144137,
+        "num": 144137,
+        "word": "香港大火一消防员殉职",
+        "onboard_time": 1764153921,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142574,
+        "num": 142574,
+        "word": "高市早苗称其诚实回答提问",
+        "onboard_time": 1764151221,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139279,
+        "num": 139279,
+        "word": "年龄不太合适 你好意思",
+        "onboard_time": 1764144742,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 132047,
+        "num": 132047,
+        "word": "同居 重婚",
+        "onboard_time": 1764132682,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128728,
+        "num": 128728,
+        "word": "林俊杰 七七",
+        "onboard_time": 1764142821,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48113,
+        "num": 128298,
+        "word": "美国AI泡沫可能引发全球金融危机",
+        "onboard_time": 1764152542,
+        "rank": 46,
+        "category": "国际时政,财经"
+      },
+      {
+        "raw_hot": 127891,
+        "num": 127891,
+        "word": "晋江崩了",
+        "onboard_time": 1764151823,
+        "rank": 47,
+        "category": "读书作家,互联网"
+      },
+      {
+        "raw_hot": 117157,
+        "num": 117157,
+        "word": "香港大埔宏福苑火警升为四级",
+        "onboard_time": 1764153622,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 30540,
+        "num": 116706,
+        "word": "邻居杀害七旬夫妇后逃跑画面曝光",
+        "onboard_time": 1764152482,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉津声弦歌不辍#"
+    }
+  }
+}
