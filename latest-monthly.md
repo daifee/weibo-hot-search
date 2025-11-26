@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 23:43:40
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 00:36:12
 </p>
 </blockquote>
 <p>
@@ -2493,6 +2493,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93%23" target="weibo">
+深圳消防车队已在莲塘口岸集结（热度：864842）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E5%9B%BD%E9%A6%96%E8%89%98%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%9E%8B%E8%88%AA%E6%AF%8D%E5%85%A5%E5%88%97%23" target="weibo">
 我国首艘电磁弹射型航母入列（热度：864725）
 </a>
@@ -3719,6 +3725,12 @@ chovy状态（热度：706292）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%98%9F%E7%9B%B4%E6%92%AD%23" target="weibo">
 黄星直播（热度：704816）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E4%BC%A0%E5%87%BA%E5%A4%9A%E6%AC%A1%E7%88%86%E7%82%B8%E5%A3%B0%23" target="weibo">
+香港大火传出多次爆炸声（热度：703573）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Mate80ProMAX（热度：541396）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%B8%80%E9%B8%A3%E8%B0%88%E6%81%8B%E7%88%B1%E4%BA%86%23" target="weibo">
 黄一鸣谈恋爱了（热度：539835）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E4%BC%9A%E5%91%98%E6%95%B0%E4%B8%8D%E6%B6%A8%E4%BA%86%23" target="weibo">
-腾讯视频会员数不涨了（热度：539727）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%B6%E4%BB%A3%E5%B0%91%E5%B9%B4%E5%9B%A2%E8%8A%B1%E8%BD%A6%23" target="weibo">
-时代少年团花车（热度：539440）
 </a>
 </li>
 
