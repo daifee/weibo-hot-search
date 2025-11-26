@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764142850331,
+  "endTime": 1764146222036,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -684,7 +684,7 @@
     },
     {
       "raw_hot": 733320,
-      "num": 227547,
+      "num": 369804,
       "word": "原来全麻手术压根不是睡着了",
       "onboard_time": 1764139940,
       "rank": 45,
@@ -1115,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530654,
+      "num": 530654,
+      "word": "Uzi被曝已签约",
+      "onboard_time": 1764144442,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 529114,
       "num": 224470,
       "word": "流感高烧",
@@ -1244,7 +1252,7 @@
     },
     {
       "raw_hot": 503240,
-      "num": 227529,
+      "num": 365778,
       "word": "两个刘亦菲仿妆一起跳舞",
       "onboard_time": 1764140001,
       "rank": 49,
@@ -1536,6 +1544,14 @@
       "word": "疯狂动物城2",
       "onboard_time": 1763913981,
       "rank": 27,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 436659,
+      "num": 436659,
+      "word": "王安宇配音",
+      "onboard_time": 1764141261,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -1835,14 +1851,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 376100,
-      "num": 227645,
-      "word": "王安宇配音",
-      "onboard_time": 1764141261,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 371088,
       "num": 371088,
       "word": "美国乌克兰联合声明",
@@ -1929,6 +1937,14 @@
       "onboard_time": 1764039800,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 362778,
+      "num": 362778,
+      "word": "幼儿园未告知家长私自抽血体检",
+      "onboard_time": 1764144082,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361354,
@@ -2179,6 +2195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 330039,
+      "num": 251788,
+      "word": "林俊杰 七七",
+      "onboard_time": 1764142821,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 330009,
       "num": 323107,
       "word": "马嘉祺苏州河Daddy级别",
@@ -2395,6 +2419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 304538,
+      "num": 304538,
+      "word": "弦子一问李茂眼泪就绷不住了",
+      "onboard_time": 1764144262,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304495,
       "num": 304495,
       "word": "陈晓 我在宁古塔很想你",
@@ -2505,6 +2537,14 @@
       "onboard_time": 1764126021,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295484,
+      "num": 295484,
+      "word": "上海地铁回应外国人在车厢内吃馅饼",
+      "onboard_time": 1764140361,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 295280,
@@ -2875,6 +2915,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 261501,
+      "num": 261501,
+      "word": "年龄不太合适 你好意思",
+      "onboard_time": 1764144742,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 261269,
       "num": 261269,
       "word": "严浩翔被升降台遗忘了",
@@ -2937,6 +2985,14 @@
       "onboard_time": 1764069561,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 258196,
+      "num": 376003,
+      "word": "蔡磊回应被传只剩3到5年生命",
+      "onboard_time": 1764141741,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 257596,
@@ -3057,6 +3113,22 @@
       "onboard_time": 1763864960,
       "rank": 22,
       "category": "演出"
+    },
+    {
+      "raw_hot": 249862,
+      "num": 249862,
+      "word": "万科 跌停",
+      "onboard_time": 1764144201,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 248797,
+      "num": 248797,
+      "word": "张亮方已报警立案",
+      "onboard_time": 1764145823,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 248642,
@@ -3379,6 +3451,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 225860,
+      "num": 574999,
+      "word": "湖人快船爆发冲突",
+      "onboard_time": 1764142341,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 225032,
       "num": 408598,
       "word": "枭起青壤热度破27000",
@@ -3409,6 +3489,14 @@
       "onboard_time": 1763960782,
       "rank": 33,
       "category": "网红"
+    },
+    {
+      "raw_hot": 220536,
+      "num": 220536,
+      "word": "男子买彩票刮中10万后老板不认账",
+      "onboard_time": 1764144621,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 220415,
@@ -3915,14 +4003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 197237,
-      "num": 197237,
-      "word": "上海地铁回应外国人在车厢内吃馅饼",
-      "onboard_time": 1764140361,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197011,
       "num": 197011,
       "word": "高市早苗入场打断他国领导人发言",
@@ -4203,6 +4283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 188850,
+      "num": 188850,
+      "word": "万科",
+      "onboard_time": 1764144442,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 188641,
       "num": 198530,
       "word": "宋亚轩森林之子小精灵",
@@ -4441,14 +4529,6 @@
       "onboard_time": 1763983401,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181281,
-      "num": 181281,
-      "word": "蔡磊回应被传只剩3到5年生命",
-      "onboard_time": 1764141741,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181206,
@@ -5203,6 +5283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160115,
+      "num": 184691,
+      "word": "中国军号发布导弹起竖",
+      "onboard_time": 1764141861,
+      "rank": 45,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 160029,
       "num": 208036,
       "word": "神22点火瞬间",
@@ -5435,6 +5523,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153555,
+      "num": 153555,
+      "word": "易梦玲 师生恋",
+      "onboard_time": 1764146122,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153413,
       "num": 153413,
       "word": "INFP 灵感爆发型选手",
@@ -5507,14 +5603,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151447,
-      "num": 151447,
-      "word": "中国军号发布导弹起竖",
-      "onboard_time": 1764141861,
-      "rank": 45,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 151324,
       "num": 151324,
       "word": "仙逆",
@@ -5577,14 +5665,6 @@
       "onboard_time": 1763980701,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 148615,
-      "num": 148615,
-      "word": "湖人快船爆发冲突",
-      "onboard_time": 1764142341,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 148474,
@@ -5769,6 +5849,14 @@
       "onboard_time": 1763870121,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 142311,
+      "num": 142311,
+      "word": "韦雪前男友半年瘦了20斤",
+      "onboard_time": 1764144921,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 142149,
@@ -6491,6 +6579,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 127991,
+      "num": 127991,
+      "word": "知道乾隆为什么不带夏雨荷进宫了",
+      "onboard_time": 1764144981,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127407,
       "num": 198981,
       "word": "林孝埈孙龙刘少昂晋级1000米半决赛",
@@ -6699,6 +6795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123265,
+      "num": 128312,
+      "word": "日本吃麻辣烫需要排队",
+      "onboard_time": 1764139940,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 123218,
       "num": 123218,
       "word": "建议明年买车的真实原因",
@@ -6745,6 +6849,14 @@
       "onboard_time": 1764076161,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 122506,
+      "num": 182614,
+      "word": "怪奇物语",
+      "onboard_time": 1764143902,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 122413,
@@ -6931,6 +7043,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119383,
+      "num": 119383,
+      "word": "外交部回应日本内阁答辩书",
+      "onboard_time": 1764145041,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 119234,
       "num": 133125,
       "word": "江山为聘陈哲远受难记",
@@ -7107,14 +7227,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 116758,
-      "num": 116758,
-      "word": "林俊杰 七七",
-      "onboard_time": 1764142821,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 116712,
       "num": 176450,
       "word": "阴阳师",
@@ -7169,6 +7281,14 @@
       "onboard_time": 1763979623,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114985,
+      "num": 114985,
+      "word": "特朗普作出让步",
+      "onboard_time": 1764145701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114905,
@@ -8515,6 +8635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 97188,
+      "num": 142283,
+      "word": "周雨说和樊振东比赛太难受了",
+      "onboard_time": 1764145943,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96701,
       "num": 241314,
       "word": "枭起青壤热度",
@@ -8873,6 +9001,14 @@
       "onboard_time": 1764112699,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91681,
+      "num": 118937,
+      "word": "詹东里合砍99分",
+      "onboard_time": 1764143121,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 91557,
@@ -9441,6 +9577,14 @@
       "onboard_time": 1763859680,
       "rank": 37,
       "category": "演出"
+    },
+    {
+      "raw_hot": 80185,
+      "num": 140795,
+      "word": "杨幂好会穿搭",
+      "onboard_time": 1764145401,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 80149,
@@ -10179,6 +10323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 57056,
+      "num": 165349,
+      "word": "谁给何老师报名的主持人大赛",
+      "onboard_time": 1764146062,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57008,
       "num": 130846,
       "word": "冬天咬人的蚊子已经出现了",
@@ -10267,6 +10419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 54471,
+      "num": 124536,
+      "word": "中国富豪批量抛售法国酒庄",
+      "onboard_time": 1764144140,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54429,
       "num": 70830,
       "word": "张俪 说的是我吗",
@@ -10332,7 +10492,7 @@
     },
     {
       "raw_hot": 52705,
-      "num": 175117,
+      "num": 269148,
       "word": "AI为小米汽车带来出行新体验",
       "onboard_time": 1764142641,
       "rank": 27,
@@ -10729,6 +10889,14 @@
       "onboard_time": 1764129922,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 40345,
+      "num": 140280,
+      "word": "刘耀文夜爬粉丝喊雄起",
+      "onboard_time": 1764146122,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 40275,
@@ -11251,14 +11419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 25178,
-      "num": 128312,
-      "word": "日本吃麻辣烫需要排队",
-      "onboard_time": 1764139940,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 24943,
       "num": 150717,
       "word": "高中学历骗子成高校首席科学家",
@@ -11497,6 +11657,14 @@
       "onboard_time": 1764012074,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 21342,
+      "num": 141466,
+      "word": "高市不透露通话细节或因被骂了",
+      "onboard_time": 1764145282,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 21253,

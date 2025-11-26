@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764142850331,
+  "endTime": 1764146222036,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -116,7 +116,7 @@
     },
     {
       "raw_hot": 733320,
-      "num": 227547,
+      "num": 369804,
       "word": "原来全麻手术压根不是睡着了",
       "onboard_time": 1764139940,
       "rank": 45,
@@ -195,8 +195,16 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 530654,
+      "num": 530654,
+      "word": "Uzi被曝已签约",
+      "onboard_time": 1764144442,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 503240,
-      "num": 227529,
+      "num": 365778,
       "word": "两个刘亦菲仿妆一起跳舞",
       "onboard_time": 1764140001,
       "rank": 49,
@@ -248,6 +256,14 @@
       "word": "疯狂动物城2",
       "onboard_time": 1764114559,
       "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 436659,
+      "num": 436659,
+      "word": "王安宇配音",
+      "onboard_time": 1764141261,
+      "rank": 8,
       "category": "电影"
     },
     {
@@ -315,20 +331,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 376100,
-      "num": 227645,
-      "word": "王安宇配音",
-      "onboard_time": 1764141261,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 366739,
       "num": 366739,
       "word": "腾讯把枭起青壤限免了",
       "onboard_time": 1764117622,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 362778,
+      "num": 362778,
+      "word": "幼儿园未告知家长私自抽血体检",
+      "onboard_time": 1764144082,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 361260,
@@ -387,6 +403,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 330039,
+      "num": 251788,
+      "word": "林俊杰 七七",
+      "onboard_time": 1764142821,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 314119,
       "num": 161565,
       "word": "女子为肠道蠕动睡前吞20粒蓖麻子",
@@ -411,12 +435,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 304538,
+      "num": 304538,
+      "word": "弦子一问李茂眼泪就绷不住了",
+      "onboard_time": 1764144262,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295746,
       "num": 261592,
       "word": "影院回复称狂野时代的包场合规合法",
       "onboard_time": 1764126021,
       "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 295484,
+      "num": 295484,
+      "word": "上海地铁回应外国人在车厢内吃馅饼",
+      "onboard_time": 1764140361,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294149,
@@ -515,6 +555,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261501,
+      "num": 261501,
+      "word": "年龄不太合适 你好意思",
+      "onboard_time": 1764144742,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 258196,
+      "num": 376003,
+      "word": "蔡磊回应被传只剩3到5年生命",
+      "onboard_time": 1764141741,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257178,
       "num": 289556,
       "word": "疯狂动物城",
@@ -553,6 +609,22 @@
       "onboard_time": 1764076942,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 249862,
+      "num": 249862,
+      "word": "万科 跌停",
+      "onboard_time": 1764144201,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 248797,
+      "num": 248797,
+      "word": "张亮方已报警立案",
+      "onboard_time": 1764145823,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 247437,
@@ -609,6 +681,22 @@
       "onboard_time": 1764136760,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 225860,
+      "num": 574999,
+      "word": "湖人快船爆发冲突",
+      "onboard_time": 1764142341,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 220536,
+      "num": 220536,
+      "word": "男子买彩票刮中10万后老板不认账",
+      "onboard_time": 1764144621,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 216705,
@@ -675,14 +763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 197237,
-      "num": 197237,
-      "word": "上海地铁回应外国人在车厢内吃馅饼",
-      "onboard_time": 1764140361,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195757,
       "num": 195757,
       "word": "把自己穿成三明治真的不会冷",
@@ -713,6 +793,14 @@
       "onboard_time": 1764117201,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188850,
+      "num": 188850,
+      "word": "万科",
+      "onboard_time": 1764144442,
+      "rank": 26,
+      "category": "财经"
     },
     {
       "raw_hot": 187751,
@@ -752,14 +840,6 @@
       "word": "女子穿厚羽绒服轻生跳河没沉下去",
       "onboard_time": 1764125180,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181281,
-      "num": 181281,
-      "word": "蔡磊回应被传只剩3到5年生命",
-      "onboard_time": 1764141741,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -907,6 +987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 160115,
+      "num": 184691,
+      "word": "中国军号发布导弹起竖",
+      "onboard_time": 1764141861,
+      "rank": 45,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 159417,
       "num": 146471,
       "word": "工作人员偷拍张峻豪换衣服给粉丝",
@@ -979,6 +1067,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 153555,
+      "num": 153555,
+      "word": "易梦玲 师生恋",
+      "onboard_time": 1764146122,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153104,
       "num": 153104,
       "word": "欧冠",
@@ -987,28 +1083,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 151447,
-      "num": 151447,
-      "word": "中国军号发布导弹起竖",
-      "onboard_time": 1764141861,
-      "rank": 45,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 150895,
       "num": 859759,
       "word": "鸣潮新地区首曝",
       "onboard_time": 1764131303,
       "rank": 9,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 148615,
-      "num": 148615,
-      "word": "湖人快船爆发冲突",
-      "onboard_time": 1764142341,
-      "rank": 40,
-      "category": "体育"
     },
     {
       "raw_hot": 148334,
@@ -1059,6 +1139,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142311,
+      "num": 142311,
+      "word": "韦雪前男友半年瘦了20斤",
+      "onboard_time": 1764144921,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 142149,
       "num": 152023,
       "word": "第一个说地枭头是开心果的是天才",
@@ -1081,6 +1169,14 @@
       "onboard_time": 1764130461,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 139867,
+      "num": 139867,
+      "word": "A股",
+      "onboard_time": 1764144140,
+      "rank": 40,
+      "category": "财经"
     },
     {
       "raw_hot": 137181,
@@ -1211,6 +1307,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 127991,
+      "num": 127991,
+      "word": "知道乾隆为什么不带夏雨荷进宫了",
+      "onboard_time": 1764144981,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 127298,
       "num": 127298,
       "word": "枭起青壤 不会带团队只能干到死",
@@ -1267,11 +1371,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123265,
+      "num": 128312,
+      "word": "日本吃麻辣烫需要排队",
+      "onboard_time": 1764139940,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 122954,
       "num": 122954,
       "word": "迪丽热巴 枭完你的枭你的",
       "onboard_time": 1764069441,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 122506,
+      "num": 182614,
+      "word": "怪奇物语",
+      "onboard_time": 1764143902,
+      "rank": 28,
       "category": "剧集"
     },
     {
@@ -1331,20 +1451,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 119383,
+      "num": 119383,
+      "word": "外交部回应日本内阁答辩书",
+      "onboard_time": 1764145041,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 117093,
       "num": 121903,
       "word": "小鱼海棠产后不到一年瘦至90斤",
       "onboard_time": 1764065902,
       "rank": 30,
       "category": "网红"
-    },
-    {
-      "raw_hot": 116758,
-      "num": 116758,
-      "word": "林俊杰 七七",
-      "onboard_time": 1764142821,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 116494,
@@ -1361,6 +1481,14 @@
       "onboard_time": 1764130941,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 114985,
+      "num": 114985,
+      "word": "特朗普作出让步",
+      "onboard_time": 1764145701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114109,
@@ -1491,6 +1619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97188,
+      "num": 142283,
+      "word": "周雨说和樊振东比赛太难受了",
+      "onboard_time": 1764145943,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96111,
       "num": 96111,
       "word": "小姑娘走心了小男孩还没过脑",
@@ -1529,6 +1665,14 @@
       "onboard_time": 1764112699,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91681,
+      "num": 118937,
+      "word": "詹东里合砍99分",
+      "onboard_time": 1764143121,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 91557,
@@ -1609,6 +1753,14 @@
       "onboard_time": 1764080002,
       "rank": 39,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 80185,
+      "num": 140795,
+      "word": "杨幂好会穿搭",
+      "onboard_time": 1764145401,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 78949,
@@ -1779,11 +1931,27 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 57056,
+      "num": 165349,
+      "word": "谁给何老师报名的主持人大赛",
+      "onboard_time": 1764146062,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 56226,
       "num": 103025,
       "word": "金龙鱼子公司被判共担退赔18.81亿",
       "onboard_time": 1764125001,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 54471,
+      "num": 124536,
+      "word": "中国富豪批量抛售法国酒庄",
+      "onboard_time": 1764144140,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1812,7 +1980,7 @@
     },
     {
       "raw_hot": 52705,
-      "num": 175117,
+      "num": 269148,
       "word": "AI为小米汽车带来出行新体验",
       "onboard_time": 1764142641,
       "rank": 27,
@@ -1915,6 +2083,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 40345,
+      "num": 140280,
+      "word": "刘耀文夜爬粉丝喊雄起",
+      "onboard_time": 1764146122,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39698,
       "num": 106687,
       "word": "阿里CEO称3年内不太可能出现AI泡沫",
@@ -1995,14 +2171,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25178,
-      "num": 128312,
-      "word": "日本吃麻辣烫需要排队",
-      "onboard_time": 1764139940,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 24358,
       "num": 166626,
       "word": "郭富城吴镇宇锐评任达华跌倒",
@@ -2049,6 +2217,14 @@
       "onboard_time": 1764092295,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 21342,
+      "num": 141466,
+      "word": "高市不透露通话细节或因被骂了",
+      "onboard_time": 1764145282,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 20393,

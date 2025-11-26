@@ -1,0 +1,410 @@
+{
+  "runTime": 1764146222036,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 481626,
+        "num": 1077060,
+        "word": "婚前同居认定属于家庭成员",
+        "onboard_time": 1764096795,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225860,
+        "num": 574999,
+        "word": "湖人快船爆发冲突",
+        "onboard_time": 1764142341,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25957,
+        "num": 544291,
+        "word": "中国航天见证中国速度",
+        "onboard_time": 1764129922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 384203,
+        "num": 534312,
+        "word": "疯狂动物城2首批观众反馈",
+        "onboard_time": 1764136700,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 530654,
+        "num": 530654,
+        "word": "Uzi被曝已签约",
+        "onboard_time": 1764144442,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 573363,
+        "num": 492564,
+        "word": "罗永浩 华杉",
+        "onboard_time": 1764131182,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 436659,
+        "num": 436659,
+        "word": "王安宇配音",
+        "onboard_time": 1764141261,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 381482,
+        "num": 381482,
+        "word": "罗永浩 录音",
+        "onboard_time": 1764125901,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 378584,
+        "num": 378584,
+        "word": "日本的战争准备正全面铺开",
+        "onboard_time": 1764124280,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258196,
+        "num": 376003,
+        "word": "蔡磊回应被传只剩3到5年生命",
+        "onboard_time": 1764141741,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 753085,
+        "num": 374527,
+        "word": "王俊凯被立案侦查的标题不能忍",
+        "onboard_time": 1764138500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691003,
+        "num": 369804,
+        "word": "原来全麻手术压根不是睡着了",
+        "onboard_time": 1764139940,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 505057,
+        "num": 366344,
+        "word": "同居 重婚",
+        "onboard_time": 1764132682,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365778,
+        "num": 365778,
+        "word": "两个刘亦菲仿妆一起跳舞",
+        "onboard_time": 1764140001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362778,
+        "num": 362778,
+        "word": "幼儿园未告知家长私自抽血体检",
+        "onboard_time": 1764144082,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304538,
+        "num": 304538,
+        "word": "弦子一问李茂眼泪就绷不住了",
+        "onboard_time": 1764144262,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295484,
+        "num": 295484,
+        "word": "上海地铁回应外国人在车厢内吃馅饼",
+        "onboard_time": 1764140361,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45623,
+        "num": 269148,
+        "word": "AI为小米汽车带来出行新体验",
+        "onboard_time": 1764142641,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 261501,
+        "num": 261501,
+        "word": "年龄不太合适 你好意思",
+        "onboard_time": 1764144742,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 154010,
+        "num": 260925,
+        "word": "疯狂动物城",
+        "onboard_time": 1764135322,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 784603,
+        "num": 255891,
+        "word": "罗志祥经纪人晒亲子鉴定",
+        "onboard_time": 1764128721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 652696,
+        "num": 253295,
+        "word": "汪峰 全家恋爱中",
+        "onboard_time": 1764139642,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330039,
+        "num": 251788,
+        "word": "林俊杰 七七",
+        "onboard_time": 1764142821,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249862,
+        "num": 249862,
+        "word": "万科 跌停",
+        "onboard_time": 1764144201,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 248797,
+        "num": 248797,
+        "word": "张亮方已报警立案",
+        "onboard_time": 1764145823,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 220536,
+        "num": 220536,
+        "word": "男子买彩票刮中10万后老板不认账",
+        "onboard_time": 1764144621,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188850,
+        "num": 188850,
+        "word": "万科",
+        "onboard_time": 1764144442,
+        "rank": 26,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160115,
+        "num": 184691,
+        "word": "中国军号发布导弹起竖",
+        "onboard_time": 1764141861,
+        "rank": 27,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 122506,
+        "num": 182614,
+        "word": "怪奇物语",
+        "onboard_time": 1764143902,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114997,
+        "num": 181805,
+        "word": "预备役人员证要来了",
+        "onboard_time": 1764134421,
+        "rank": 29,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 181708,
+        "num": 181708,
+        "word": "印度人疑似在上海地铁分享手抓饭",
+        "onboard_time": 1764131722,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57056,
+        "num": 165349,
+        "word": "谁给何老师报名的主持人大赛",
+        "onboard_time": 1764146062,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161788,
+        "num": 161788,
+        "word": "罗永浩怒怼华与华创始人",
+        "onboard_time": 1764127701,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 153555,
+        "num": 153555,
+        "word": "易梦玲 师生恋",
+        "onboard_time": 1764146122,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147014,
+        "num": 147014,
+        "word": "李施嬅妈妈劝女儿退圈",
+        "onboard_time": 1764141560,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142311,
+        "num": 142311,
+        "word": "韦雪前男友半年瘦了20斤",
+        "onboard_time": 1764144921,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 97188,
+        "num": 142283,
+        "word": "周雨说和樊振东比赛太难受了",
+        "onboard_time": 1764145943,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21342,
+        "num": 141466,
+        "word": "高市不透露通话细节或因被骂了",
+        "onboard_time": 1764145282,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 80185,
+        "num": 140795,
+        "word": "杨幂好会穿搭",
+        "onboard_time": 1764145401,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40345,
+        "num": 140280,
+        "word": "刘耀文夜爬粉丝喊雄起",
+        "onboard_time": 1764146122,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139867,
+        "num": 139867,
+        "word": "A股",
+        "onboard_time": 1764144140,
+        "rank": 40,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 127991,
+        "num": 127991,
+        "word": "知道乾隆为什么不带夏雨荷进宫了",
+        "onboard_time": 1764144981,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54471,
+        "num": 124536,
+        "word": "中国富豪批量抛售法国酒庄",
+        "onboard_time": 1764144140,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123265,
+        "num": 123265,
+        "word": "日本吃麻辣烫需要排队",
+        "onboard_time": 1764139940,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119383,
+        "num": 119383,
+        "word": "外交部回应日本内阁答辩书",
+        "onboard_time": 1764145041,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119308,
+        "num": 119308,
+        "word": "娶了高圆圆 搂了易烊千玺",
+        "onboard_time": 1764130883,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91681,
+        "num": 118937,
+        "word": "詹东里合砍99分",
+        "onboard_time": 1764143121,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118695,
+        "num": 118695,
+        "word": "华与华创始人称西贝被算计",
+        "onboard_time": 1764129260,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92393,
+        "num": 115256,
+        "word": "巨型吊牌一个月卖出近百万个",
+        "onboard_time": 1764130642,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114985,
+        "num": 114985,
+        "word": "特朗普作出让步",
+        "onboard_time": 1764145701,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和汤加两国友好源远流长#"
+    }
+  }
+}
