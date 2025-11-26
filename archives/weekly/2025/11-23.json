@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764132498383,
+  "endTime": 1764134892673,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -81,6 +81,14 @@
       "onboard_time": 1763904501,
       "rank": 45,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 1574774,
+      "num": 320400,
+      "word": "同居 重婚",
+      "onboard_time": 1764132682,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1568098,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 1060256,
-      "num": 857664,
+      "num": 925413,
       "word": "罗永浩 华杉",
       "onboard_time": 1764131182,
       "rank": 11,
@@ -705,6 +713,14 @@
       "onboard_time": 1764130883,
       "rank": 16,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 695157,
+      "num": 319619,
+      "word": "印度人疑似在上海地铁分享手抓饭",
+      "onboard_time": 1764131722,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 691390,
@@ -1899,6 +1915,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 352267,
+      "num": 863273,
+      "word": "日本民众排队数小时送别大熊猫",
+      "onboard_time": 1764130043,
+      "rank": 23,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 349484,
       "num": 301842,
       "word": "唐诡奇谭之长安县尉",
@@ -1937,6 +1961,14 @@
       "onboard_time": 1763860760,
       "rank": 14,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 343659,
+      "num": 209714,
+      "word": "高市早苗现在尴尬了",
+      "onboard_time": 1764134781,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 342484,
@@ -2139,6 +2171,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 320533,
+      "num": 320533,
+      "word": "西安交大第一附属医院情况通报",
+      "onboard_time": 1764133161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 320279,
       "num": 227489,
       "word": "现在就出发",
@@ -2315,14 +2355,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 300766,
-      "num": 300766,
-      "word": "印度人疑似在上海地铁分享手抓饭",
-      "onboard_time": 1764131722,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 300027,
       "num": 920107,
       "word": "第五人格",
@@ -2361,6 +2393,14 @@
       "onboard_time": 1763980581,
       "rank": 19,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 297213,
+      "num": 1001290,
+      "word": "盖瑞一条蛇",
+      "onboard_time": 1764130221,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 296255,
@@ -2449,14 +2489,6 @@
       "onboard_time": 1763961802,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 289584,
-      "num": 863273,
-      "word": "日本民众排队数小时送别大熊猫",
-      "onboard_time": 1764130043,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 288605,
@@ -2737,6 +2769,14 @@
       "onboard_time": 1764125659,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 264416,
+      "num": 299421,
+      "word": "巨型吊牌一个月卖出近百万个",
+      "onboard_time": 1764130642,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264043,
@@ -3507,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 207854,
+      "num": 207854,
+      "word": "罗永浩怒怼华与华创始人",
+      "onboard_time": 1764127701,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 207744,
       "num": 149055,
       "word": "李在明夫人被南非欢迎仪式吓一跳",
@@ -3569,14 +3617,6 @@
       "onboard_time": 1763886501,
       "rank": 31,
       "category": "情感"
-    },
-    {
-      "raw_hot": 204366,
-      "num": 299421,
-      "word": "巨型吊牌一个月卖出近百万个",
-      "onboard_time": 1764130642,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 204229,
@@ -3651,6 +3691,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 200609,
+      "num": 200609,
+      "word": "时代峰峻回应严浩翔不去尖叫之夜",
+      "onboard_time": 1764134362,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200528,
       "num": 200528,
       "word": "Faker打算做加里奥冠军皮肤",
@@ -3705,14 +3753,6 @@
       "onboard_time": 1764131424,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 199037,
-      "num": 274886,
-      "word": "盖瑞一条蛇",
-      "onboard_time": 1764130221,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 199015,
@@ -3809,6 +3849,14 @@
       "onboard_time": 1763901622,
       "rank": 31,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195757,
+      "num": 195757,
+      "word": "把自己穿成三明治真的不会冷",
+      "onboard_time": 1764132742,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 195505,
@@ -4443,20 +4491,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 174727,
-      "num": 174727,
-      "word": "罗永浩怒怼华与华创始人",
-      "onboard_time": 1764127701,
-      "rank": 39,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 174418,
       "num": 244246,
       "word": "迪丽热巴陈星旭 西装睡裙打戏",
       "onboard_time": 1763815943,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174170,
+      "num": 174170,
+      "word": "鸣潮莫宁",
+      "onboard_time": 1764133462,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 173627,
@@ -4569,6 +4617,14 @@
       "onboard_time": 1763949140,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170149,
+      "num": 222373,
+      "word": "狙击蝴蝶定档",
+      "onboard_time": 1764133462,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 170083,
@@ -5339,6 +5395,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 146835,
+      "num": 220136,
+      "word": "预备役人员证要来了",
+      "onboard_time": 1764134421,
+      "rank": 26,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 146750,
       "num": 146750,
       "word": "左奇函 周一不好",
@@ -5731,6 +5795,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136080,
+      "num": 217792,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1764133223,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135979,
       "num": 197731,
       "word": "胡先煦年下演出年上味儿",
@@ -6027,6 +6099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129294,
+      "num": 129294,
+      "word": "全国人民都想樊振东回来打球",
+      "onboard_time": 1764132742,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 129211,
       "num": 129211,
       "word": "高超瘦成高越了",
@@ -6129,6 +6209,14 @@
       "onboard_time": 1764046883,
       "rank": 43,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 127730,
+      "num": 127730,
+      "word": "华与华创始人称西贝被算计",
+      "onboard_time": 1764129260,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 127407,
@@ -6497,6 +6585,14 @@
       "onboard_time": 1764121641,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119631,
+      "num": 119631,
+      "word": "流感H3N2毒株来袭儿童如何应对",
+      "onboard_time": 1764132981,
+      "rank": 49,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119234,
@@ -7785,6 +7881,14 @@
       "onboard_time": 1763976441,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100799,
+      "num": 161725,
+      "word": "内娱久违的古早剧质感回来了",
+      "onboard_time": 1764134781,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 100735,
@@ -9323,6 +9427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 68130,
+      "num": 210570,
+      "word": "阿森纳vs拜仁慕尼黑",
+      "onboard_time": 1764134302,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68124,
       "num": 126957,
       "word": "河南一景区11亿元对赌目标将达成",
@@ -10164,7 +10276,7 @@
     },
     {
       "raw_hot": 40438,
-      "num": 989123,
+      "num": 1035855,
       "word": "中国航天见证中国速度",
       "onboard_time": 1764129922,
       "rank": 2,
@@ -10713,6 +10825,14 @@
       "onboard_time": 1763932034,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24358,
+      "num": 166626,
+      "word": "郭富城吴镇宇锐评任达华跌倒",
+      "onboard_time": 1764133881,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 24335,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 12:48:18
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 13:28:12
 </p>
 </blockquote>
 <p>
@@ -653,6 +653,12 @@ Faker六冠王（热度：1654581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9D%90%E9%AB%98%E9%93%81%E5%81%B6%E9%81%87%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 谢娜坐高铁偶遇王鹤棣（热度：1582542）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%8C%E5%B1%85%20%E9%87%8D%E5%A9%9A%23" target="weibo">
+同居 重婚（热度：1574774）
 </a>
 </li>
 
@@ -3675,6 +3681,12 @@ baby让小海绵带去了生日礼物（热度：698948）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E4%BA%BA%E7%96%91%E4%BC%BC%E5%9C%A8%E4%B8%8A%E6%B5%B7%E5%9C%B0%E9%93%81%E5%88%86%E4%BA%AB%E6%89%8B%E6%8A%93%E9%A5%AD%23" target="weibo">
+印度人疑似在上海地铁分享手抓饭（热度：695157）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%B8%80%E5%AF%BA%E5%BA%99%E5%8F%91%E7%94%9F%E7%81%AB%E7%81%BE%23" target="weibo">
 苏州一寺庙发生火灾（热度：695056）
 </a>
@@ -5999,18 +6011,6 @@ T1官宣Peyz加入（热度：531624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%B8%8D%E8%BF%87%E6%9D%A5%E4%BA%86%23" target="weibo">
 迪丽热巴工作室发不过来了（热度：528922）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%B7%B2%E7%BB%8F%E5%9C%A8%E7%83%A4%E8%82%89%E5%B1%8A%E6%9D%80%E7%96%AF%E4%BA%86%23" target="weibo">
-苹果已经在烤肉届杀疯了（热度：528626）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%A4%B9%E7%83%A4%E8%82%89%23" target="weibo">
-苹果夹烤肉（热度：528340）
 </a>
 </li>
 
