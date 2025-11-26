@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/27 05:24:31
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/27 05:38:28
 </p>
 </blockquote>
 <p>
@@ -9663,6 +9663,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E7%9A%84%E7%81%AB%E9%B8%A1%E6%95%91%E5%85%8D%E4%BB%A4%E6%97%A0%E6%95%88%23" target="weibo">
+特朗普宣布拜登的火鸡救免令无效（热度：24899）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%90%83%E9%9B%B6%E9%A3%9F%E8%BF%98%E8%A6%81%E5%81%9A%E7%83%AD%E9%87%8F%E8%AE%A1%E7%AE%97%E9%A2%98%23" target="weibo">
 网友吐槽吃零食还要做热量计算题（热度：24806）
 </a>
@@ -9707,6 +9713,12 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%8A%AB%E5%9B%9A%E6%A1%889%E5%B0%8F%E6%97%B6%E5%85%A8%E5%91%98%E8%90%BD%E7%BD%91%23" target="weibo">
 柬埔寨劫囚案9小时全员落网（热度：23843）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B210%E5%B9%B4%E5%89%8D%E7%A7%81%E4%BF%A1%E8%AF%A2%E9%97%AE%E8%A1%A8%E6%BC%94%E5%9F%B9%E8%AE%AD%23" target="weibo">
+易梦玲10年前私信询问表演培训（热度：23711）
 </a>
 </li>
 
@@ -9797,12 +9809,6 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E5%BD%93%E5%B1%80%E8%A6%81%E6%B0%91%E4%BC%97%E5%A4%9A%E4%B9%B0%E6%97%A5%E8%B4%A7%E6%94%AF%E6%8C%81%E9%AB%98%E5%B8%82%23" target="weibo">
 台当局要民众多买日货支持高市（热度：22516）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B210%E5%B9%B4%E5%89%8D%E7%A7%81%E4%BF%A1%E8%AF%A2%E9%97%AE%E8%A1%A8%E6%BC%94%E5%9F%B9%E8%AE%AD%23" target="weibo">
-易梦玲10年前私信询问表演培训（热度：22480）
 </a>
 </li>
 
