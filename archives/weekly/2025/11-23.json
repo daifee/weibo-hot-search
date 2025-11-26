@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764139253100,
+  "endTime": 1764140066819,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 1574774,
-      "num": 508649,
+      "num": 515209,
       "word": "同居 重婚",
       "onboard_time": 1764132682,
       "rank": 10,
@@ -152,6 +152,14 @@
       "word": "在日本留学中国学生发声",
       "onboard_time": 1764038300,
       "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1250131,
+      "num": 1250131,
+      "word": "高市早苗现在尴尬了",
+      "onboard_time": 1764134781,
+      "rank": 31,
       "category": "国际时政"
     },
     {
@@ -393,14 +401,6 @@
       "onboard_time": 1764079224,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 913099,
-      "num": 1146095,
-      "word": "高市早苗现在尴尬了",
-      "onboard_time": 1764134781,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 911617,
@@ -739,6 +739,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 690612,
+      "num": 690612,
+      "word": "疯狂动物城2首批观众反馈",
+      "onboard_time": 1764136700,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 687668,
       "num": 687668,
       "word": "樊振东收获金球拍",
@@ -801,14 +809,6 @@
       "onboard_time": 1764084681,
       "rank": 0,
       "category": "教育"
-    },
-    {
-      "raw_hot": 652929,
-      "num": 652929,
-      "word": "疯狂动物城2首批观众反馈",
-      "onboard_time": 1764136700,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 649965,
@@ -1387,6 +1387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 464430,
+      "num": 464430,
+      "word": "同居",
+      "onboard_time": 1764136042,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 464069,
       "num": 183347,
       "word": "减肥滞后性对面部的影响",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1764045744,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 452915,
+      "num": 452915,
+      "word": "王俊凯被立案侦查的标题不能忍",
+      "onboard_time": 1764138500,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 451805,
@@ -1691,6 +1707,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 398776,
+      "num": 398776,
+      "word": "迪迪不畏cos贝微微",
+      "onboard_time": 1764135741,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 395601,
       "num": 284556,
       "word": "霸王茶姬为什么半年不出新品了",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1764033621,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 393189,
+      "num": 562817,
+      "word": "预备役人员证要来了",
+      "onboard_time": 1764134421,
+      "rank": 26,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 392171,
@@ -1769,14 +1801,6 @@
       "onboard_time": 1764070103,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 379140,
-      "num": 549860,
-      "word": "预备役人员证要来了",
-      "onboard_time": 1764134421,
-      "rank": 26,
-      "category": "国内时政,军事"
     },
     {
       "raw_hot": 378685,
@@ -1916,7 +1940,7 @@
     },
     {
       "raw_hot": 356606,
-      "num": 356606,
+      "num": 524851,
       "word": "巨型吊牌一个月卖出近百万个",
       "onboard_time": 1764130642,
       "rank": 19,
@@ -1993,14 +2017,6 @@
       "onboard_time": 1764118403,
       "rank": 13,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 344351,
-      "num": 344351,
-      "word": "迪迪不畏cos贝微微",
-      "onboard_time": 1764135741,
-      "rank": 41,
-      "category": "网红"
     },
     {
       "raw_hot": 343748,
@@ -2931,6 +2947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 254201,
+      "num": 254201,
+      "word": "汪峰 全家恋爱中",
+      "onboard_time": 1764139642,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "九尾官宣自由人",
@@ -3044,7 +3068,7 @@
     },
     {
       "raw_hot": 247437,
-      "num": 192780,
+      "num": 239732,
       "word": "董宇辉怒斥别再送钱了",
       "onboard_time": 1764136821,
       "rank": 24,
@@ -3451,14 +3475,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 215249,
-      "num": 215249,
-      "word": "王俊凯被立案侦查的标题不能忍",
-      "onboard_time": 1764138500,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 215047,
       "num": 215724,
       "word": "金晨陈伟霆演史密斯夫妇",
@@ -3521,6 +3537,14 @@
       "onboard_time": 1763868261,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 213337,
+      "num": 882071,
+      "word": "东契奇一人打一队",
+      "onboard_time": 1764136760,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 213252,
@@ -4001,6 +4025,14 @@
       "onboard_time": 1763905043,
       "rank": 6,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 191783,
+      "num": 132577,
+      "word": "徐冬冬 我妈妈也多了一个儿子",
+      "onboard_time": 1764138861,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 191402,
@@ -4683,14 +4715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170728,
-      "num": 882071,
-      "word": "东契奇一人打一队",
-      "onboard_time": 1764136760,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 170149,
       "num": 222373,
       "word": "狙击蝴蝶定档",
@@ -4803,14 +4827,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167808,
-      "num": 167808,
-      "word": "同居",
-      "onboard_time": 1764136042,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 167560,
       "num": 186610,
       "word": "内娱第一部女频无限流剧",
@@ -4825,6 +4841,14 @@
       "onboard_time": 1764044063,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167479,
+      "num": 167479,
+      "word": "敖瑞鹏终于杀回现偶了",
+      "onboard_time": 1764138500,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 167271,
@@ -5129,6 +5153,14 @@
       "onboard_time": 1763951300,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 158107,
+      "num": 194012,
+      "word": "日本餐厅老板称中国客人几乎消失了",
+      "onboard_time": 1764137901,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 157902,
@@ -5587,6 +5619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 143191,
+      "num": 143191,
+      "word": "短剧演员演长剧从从容容游刃有余",
+      "onboard_time": 1764139642,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142916,
       "num": 204539,
       "word": "国产剧最破防的老头出现了",
@@ -5923,6 +5963,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135818,
+      "num": 135818,
+      "word": "女主留球跑后留下了孤儿寡夫",
+      "onboard_time": 1764139280,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135734,
       "num": 192229,
       "word": "枭起青壤第二日云合",
@@ -5937,14 +5985,6 @@
       "onboard_time": 1763988861,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 135280,
-      "num": 140891,
-      "word": "敖瑞鹏终于杀回现偶了",
-      "onboard_time": 1764138500,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 135148,
@@ -6025,14 +6065,6 @@
       "onboard_time": 1764028220,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 133744,
-      "num": 194012,
-      "word": "日本餐厅老板称中国客人几乎消失了",
-      "onboard_time": 1764137901,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 133727,
@@ -6323,20 +6355,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128020,
+      "num": 128020,
+      "word": "华与华创始人称西贝被算计",
+      "onboard_time": 1764129260,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 128004,
       "num": 128004,
       "word": "少买处于中间地带的衣服",
       "onboard_time": 1764046883,
       "rank": 43,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 127730,
-      "num": 127730,
-      "word": "华与华创始人称西贝被算计",
-      "onboard_time": 1764129260,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 127407,
@@ -6347,12 +6379,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 127270,
-      "num": 127270,
-      "word": "徐冬冬 我妈妈也多了一个儿子",
-      "onboard_time": 1764138861,
-      "rank": 41,
-      "category": "艺人"
+      "raw_hot": 127298,
+      "num": 127298,
+      "word": "枭起青壤 不会带团队只能干到死",
+      "onboard_time": 1764139101,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 127198,
@@ -6651,6 +6683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 121388,
+      "num": 121388,
+      "word": "iPhonePocket卖光了",
+      "onboard_time": 1764137901,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 121172,
       "num": 330494,
       "word": "张婧仪金莲花提名",
@@ -6745,6 +6785,14 @@
       "onboard_time": 1764136160,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119751,
+      "num": 119751,
+      "word": "原来全麻手术压根不是睡着了",
+      "onboard_time": 1764139940,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 119631,
@@ -7683,6 +7731,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 106335,
+      "num": 106335,
+      "word": "两个刘亦菲仿妆一起跳舞",
+      "onboard_time": 1764140001,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106169,
       "num": 106169,
       "word": "杨紫被抓包在自拍",
@@ -7969,14 +8025,6 @@
       "onboard_time": 1763951361,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 101834,
-      "num": 101834,
-      "word": "枭起青壤 不会带团队只能干到死",
-      "onboard_time": 1764139101,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 101832,
@@ -8489,6 +8537,14 @@
       "onboard_time": 1764078983,
       "rank": 48,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94217,
+      "num": 134959,
+      "word": "台湾省8旬母亲杀死52岁残疾儿子",
+      "onboard_time": 1764138981,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94179,
@@ -9427,14 +9483,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75448,
-      "num": 134959,
-      "word": "台湾省8旬母亲杀死52岁残疾儿子",
-      "onboard_time": 1764138981,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 74838,
       "num": 151891,
       "word": "枭起青壤播放量破5000万",
@@ -9676,7 +9724,7 @@
     },
     {
       "raw_hot": 67003,
-      "num": 212703,
+      "num": 258595,
       "word": "张杰演唱会第一视角",
       "onboard_time": 1764138800,
       "rank": 19,
@@ -11009,6 +11057,14 @@
       "onboard_time": 1763881700,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25178,
+      "num": 128312,
+      "word": "日本吃麻辣烫需要排队",
+      "onboard_time": 1764139940,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 24943,
