@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764127368576,
+  "endTime": 1764128269091,
   "band_list": [
     {
       "raw_hot": 1887369,
@@ -19,8 +19,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1067446,
+      "num": 264559,
+      "word": "日本的战争准备正全面铺开",
+      "onboard_time": 1764124280,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 906137,
-      "num": 199358,
+      "num": 236142,
       "word": "36岁王俊凯涉嫌非法吸收公众存款被立案侦查",
       "onboard_time": 1764117141,
       "rank": 20,
@@ -43,14 +51,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 788218,
-      "num": 237475,
-      "word": "日本的战争准备正全面铺开",
-      "onboard_time": 1764124280,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 778071,
       "num": 306208,
       "word": "尼克朱迪 表白",
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 709127,
-      "num": 197038,
+      "num": 233687,
       "word": "郭富城回应追四胎",
       "onboard_time": 1764118223,
       "rank": 21,
@@ -75,12 +75,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 683263,
+      "num": 262820,
+      "word": "500度近视200度散光半飞秒第一视角",
+      "onboard_time": 1764123680,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 661093,
       "num": 828274,
       "word": "法考成绩",
       "onboard_time": 1764084681,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 647262,
+      "num": 262508,
+      "word": "罗永浩 录音",
+      "onboard_time": 1764125901,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 600005,
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 489731,
-      "num": 240391,
+      "num": 264182,
       "word": "内娱长剧回宫了",
       "onboard_time": 1764123020,
       "rank": 19,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 406660,
-      "num": 224736,
+      "num": 261950,
       "word": "425米全球最高住宅已严重开裂",
       "onboard_time": 1764123321,
       "rank": 31,
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 342777,
-      "num": 210338,
-      "word": "罗永浩 录音",
-      "onboard_time": 1764125901,
-      "rank": 14,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 338570,
       "num": 318569,
       "word": "日本军国主义装都不装了",
@@ -211,16 +219,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 303556,
-      "num": 205344,
-      "word": "500度近视200度散光半飞秒第一视角",
-      "onboard_time": 1764123680,
-      "rank": 15,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 295746,
-      "num": 195350,
+      "num": 261592,
       "word": "影院回复称狂野时代的包场合规合法",
       "onboard_time": 1764126021,
       "rank": 23,
@@ -232,6 +232,14 @@
       "word": "花少北",
       "onboard_time": 1764120380,
       "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 283569,
+      "num": 208349,
+      "word": "鸣潮新角色",
+      "onboard_time": 1764127282,
+      "rank": 35,
       "category": "游戏"
     },
     {
@@ -276,11 +284,19 @@
     },
     {
       "raw_hot": 265564,
-      "num": 192645,
+      "num": 224691,
       "word": "男子抛妻弃子20年欠40万儿子拒还",
       "onboard_time": 1764123680,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 265159,
+      "num": 265159,
+      "word": "华为Mate80系列不支持磁吸",
+      "onboard_time": 1764125659,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 264043,
@@ -299,20 +315,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 253622,
+      "num": 253622,
+      "word": "井柏然孙千的吻戏",
+      "onboard_time": 1764124939,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 252389,
       "num": 122090,
       "word": "日本獠牙已露",
       "onboard_time": 1764076942,
       "rank": 24,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 252145,
-      "num": 252145,
-      "word": "华为Mate80系列不支持磁吸",
-      "onboard_time": 1764125659,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 237597,
@@ -339,6 +355,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 230266,
+      "num": 230266,
+      "word": "特朗普的沉默让日本失望了",
+      "onboard_time": 1764123140,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 216705,
       "num": 179821,
       "word": "老板在员工讨薪次日自杀身亡",
@@ -347,12 +371,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212108,
-      "num": 191309,
+      "raw_hot": 215575,
+      "num": 215575,
       "word": "133一斤的黑草莓到底是谁在吃",
       "onboard_time": 1764127040,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 198902,
+      "num": 198902,
+      "word": "早春晴朗",
+      "onboard_time": 1764123799,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 197932,
@@ -363,28 +395,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 193455,
+      "num": 213265,
+      "word": "一眼万年被孙千演出来了",
+      "onboard_time": 1764127341,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 191402,
       "num": 322981,
       "word": "英伟达紧急发声",
       "onboard_time": 1764117201,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 190375,
-      "num": 190375,
-      "word": "井柏然孙千的吻戏",
-      "onboard_time": 1764124939,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 188369,
-      "num": 180569,
-      "word": "早春晴朗",
-      "onboard_time": 1764123799,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 187033,
@@ -395,27 +419,19 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 181206,
-      "num": 173100,
-      "word": "美日领导人通话讨论涉台立场",
-      "onboard_time": 1764100334,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 178673,
-      "num": 178673,
+      "raw_hot": 182775,
+      "num": 182775,
       "word": "女子穿厚羽绒服轻生跳河没沉下去",
       "onboard_time": 1764125180,
       "rank": 31,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 178410,
-      "num": 178410,
-      "word": "特朗普的沉默让日本失望了",
-      "onboard_time": 1764123140,
-      "rank": 36,
+      "raw_hot": 181206,
+      "num": 173100,
+      "word": "美日领导人通话讨论涉台立场",
+      "onboard_time": 1764100334,
+      "rank": 15,
       "category": "国际时政"
     },
     {
@@ -427,12 +443,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 174727,
+      "num": 174727,
+      "word": "罗永浩怒怼华与华创始人",
+      "onboard_time": 1764127701,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 170865,
+      "num": 170865,
+      "word": "抽烟这块深圳卫健委越骂越勇",
+      "onboard_time": 1764127881,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 167838,
       "num": 167838,
       "word": "不用做家务的家长什么样",
       "onboard_time": 1764123082,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 166563,
+      "num": 251264,
+      "word": "直播间9块9洗衣液滋生出巨贪",
+      "onboard_time": 1764124880,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 164285,
@@ -483,14 +523,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 153406,
-      "num": 153406,
-      "word": "鸣潮新角色",
-      "onboard_time": 1764127282,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 153104,
       "num": 153104,
       "word": "欧冠",
@@ -539,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137859,
-      "num": 202227,
-      "word": "直播间9块9洗衣液滋生出巨贪",
-      "onboard_time": 1764124880,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 134537,
       "num": 134537,
       "word": "张峻豪 无语",
@@ -571,6 +595,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 132127,
+      "num": 175223,
+      "word": "迪丽热巴克服恐惧时隔7年再入水",
+      "onboard_time": 1764127282,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131434,
       "num": 131434,
       "word": "狂野时代幽灵场是粉丝包场",
@@ -585,6 +617,14 @@
       "onboard_time": 1764096613,
       "rank": 44,
       "category": "电影"
+    },
+    {
+      "raw_hot": 130382,
+      "num": 130382,
+      "word": "特朗普在白宫宣布特赦火鸡",
+      "onboard_time": 1764127460,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 130201,
@@ -611,6 +651,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124922,
+      "num": 124922,
+      "word": "胡彦斌锐评梁淞头巾事件",
+      "onboard_time": 1764128002,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 124739,
+      "num": 209307,
+      "word": "美国和平计划要求乌克兰割地裁军",
+      "onboard_time": 1764126680,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122954,
       "num": 122954,
       "word": "迪丽热巴 枭完你的枭你的",
@@ -635,14 +691,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 118737,
-      "num": 148749,
-      "word": "一眼万年被孙千演出来了",
-      "onboard_time": 1764127341,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117093,
       "num": 121903,
       "word": "小鱼海棠产后不到一年瘦至90斤",
@@ -665,6 +713,14 @@
       "onboard_time": 1764099494,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112055,
+      "num": 176714,
+      "word": "英伟达谷歌",
+      "onboard_time": 1764127940,
+      "rank": 37,
+      "category": "财经,互联网"
     },
     {
       "raw_hot": 111224,
@@ -708,7 +764,7 @@
     },
     {
       "raw_hot": 104962,
-      "num": 104962,
+      "num": 263182,
       "word": "子阳 前职业选手",
       "onboard_time": 1764125541,
       "rank": 46,
@@ -739,8 +795,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 96152,
-      "num": 151463,
+      "raw_hot": 97418,
+      "num": 212145,
       "word": "日本一酒店12月没中国订单",
       "onboard_time": 1764126201,
       "rank": 37,
@@ -803,20 +859,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 88399,
+      "num": 183321,
+      "word": "海外车评人锐评中国豪车",
+      "onboard_time": 1764127820,
+      "rank": 35,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 84790,
       "num": 121826,
       "word": "泰版步步惊心",
       "onboard_time": 1764072862,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82497,
-      "num": 200820,
-      "word": "美国和平计划要求乌克兰割地裁军",
-      "onboard_time": 1764126680,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81250,
@@ -908,7 +964,7 @@
     },
     {
       "raw_hot": 62408,
-      "num": 103723,
+      "num": 124826,
       "word": "国台办回应民进党当局解禁日食品进口",
       "onboard_time": 1764126741,
       "rank": 48,
@@ -952,14 +1008,6 @@
       "word": "孙千大生意人状态",
       "onboard_time": 1764106514,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 58662,
-      "num": 148072,
-      "word": "迪丽热巴克服恐惧时隔7年再入水",
-      "onboard_time": 1764127282,
-      "rank": 39,
       "category": "剧集"
     },
     {
@@ -1185,6 +1233,14 @@
       "onboard_time": 1764101114,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15143,
+      "num": 183972,
+      "word": "医院通报61万心脏瓣膜手术",
+      "onboard_time": 1764128242,
+      "rank": 34,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 14459,
