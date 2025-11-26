@@ -1,10 +1,10 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764147023937,
+  "endTime": 1764149484445,
   "band_list": [
     {
       "raw_hot": 2386105,
-      "num": 400791,
+      "num": 404782,
       "word": "罗志祥经纪人晒亲子鉴定",
       "onboard_time": 1764128721,
       "rank": 20,
@@ -35,6 +35,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1378443,
+      "num": 459888,
+      "word": "易梦玲 师生恋",
+      "onboard_time": 1764146122,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1250131,
       "num": 1250131,
       "word": "高市早苗现在尴尬了",
@@ -52,7 +60,7 @@
     },
     {
       "raw_hot": 1067446,
-      "num": 983387,
+      "num": 1075957,
       "word": "日本的战争准备正全面铺开",
       "onboard_time": 1764124280,
       "rank": 6,
@@ -75,16 +83,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 891392,
-      "num": 459888,
-      "word": "易梦玲 师生恋",
-      "onboard_time": 1764146122,
-      "rank": 33,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 857408,
-      "num": 857408,
+      "num": 878904,
       "word": "罗永浩 录音",
       "onboard_time": 1764125901,
       "rank": 14,
@@ -97,6 +97,14 @@
       "onboard_time": 1764119302,
       "rank": 5,
       "category": "国际时政,电影"
+    },
+    {
+      "raw_hot": 843947,
+      "num": 843947,
+      "word": "张亮方已报警立案",
+      "onboard_time": 1764145823,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 840740,
@@ -204,11 +212,19 @@
     },
     {
       "raw_hot": 535207,
-      "num": 918219,
+      "num": 943290,
       "word": "Uzi被曝已签约",
       "onboard_time": 1764144442,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 533277,
+      "num": 533277,
+      "word": "年龄不太合适 你好意思",
+      "onboard_time": 1764144742,
+      "rank": 18,
+      "category": "幽默"
     },
     {
       "raw_hot": 503240,
@@ -243,20 +259,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 475055,
-      "num": 475055,
-      "word": "年龄不太合适 你好意思",
-      "onboard_time": 1764144742,
-      "rank": 18,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 465898,
-      "num": 465898,
-      "word": "张亮方已报警立案",
-      "onboard_time": 1764145823,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 476291,
+      "num": 476291,
+      "word": "昀牵孟绕",
+      "onboard_time": 1764147141,
+      "rank": 12,
+      "category": "剧集"
     },
     {
       "raw_hot": 464430,
@@ -265,6 +273,14 @@
       "onboard_time": 1764136042,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 459320,
+      "num": 459320,
+      "word": "迪丽热巴现在最大的困境",
+      "onboard_time": 1764147321,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 458006,
@@ -291,11 +307,27 @@
       "category": "电影"
     },
     {
+      "raw_hot": 409360,
+      "num": 892978,
+      "word": "特朗普作出让步",
+      "onboard_time": 1764145701,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 406660,
       "num": 261950,
       "word": "425米全球最高住宅已严重开裂",
       "onboard_time": 1764123321,
       "rank": 31,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 403744,
+      "num": 403744,
+      "word": "巨蛇在泰国洪水中游动",
+      "onboard_time": 1764147683,
+      "rank": 22,
       "category": "海外新闻"
     },
     {
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 304538,
-      "num": 474021,
+      "num": 853102,
       "word": "弦子一问李茂眼泪就绷不住了",
       "onboard_time": 1764144262,
       "rank": 15,
@@ -580,7 +612,7 @@
     },
     {
       "raw_hot": 258616,
-      "num": 1052788,
+      "num": 1053612,
       "word": "湖人快船爆发冲突",
       "onboard_time": 1764142341,
       "rank": 40,
@@ -636,7 +668,7 @@
     },
     {
       "raw_hot": 249862,
-      "num": 372387,
+      "num": 414788,
       "word": "万科 跌停",
       "onboard_time": 1764144201,
       "rank": 23,
@@ -673,6 +705,22 @@
       "onboard_time": 1764119600,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 232812,
+      "num": 232812,
+      "word": "杨幂好会穿搭",
+      "onboard_time": 1764145401,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 231358,
+      "num": 231358,
+      "word": "罗永浩发飙算拱火吗",
+      "onboard_time": 1764148401,
+      "rank": 26,
+      "category": "互联网"
     },
     {
       "raw_hot": 231175,
@@ -712,6 +760,14 @@
       "word": "男子买彩票刮中10万后老板不认账",
       "onboard_time": 1764144621,
       "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 218204,
+      "num": 218204,
+      "word": "小洛熙",
+      "onboard_time": 1764147381,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -851,6 +907,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 185033,
+      "num": 469731,
+      "word": "谁给何老师报名的主持人大赛",
+      "onboard_time": 1764146062,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 184483,
       "num": 184483,
       "word": "罗永浩说华杉必须公开道歉",
@@ -891,6 +955,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 178478,
+      "num": 178478,
+      "word": "滔搏官宣JackeyLove续约",
+      "onboard_time": 1764149242,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 178119,
       "num": 269069,
       "word": "唐诡背景板里的崔相活人感好重",
@@ -913,6 +985,14 @@
       "onboard_time": 1764071002,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 175161,
+      "num": 218369,
+      "word": "红果短剧红毯",
+      "onboard_time": 1764147082,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 175109,
@@ -1083,6 +1163,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 154315,
+      "num": 154315,
+      "word": "369成功续约",
+      "onboard_time": 1764148041,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 153890,
       "num": 258354,
       "word": "别干工作干到没家庭没朋友",
@@ -1115,14 +1203,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 148196,
-      "num": 148196,
-      "word": "杨幂好会穿搭",
-      "onboard_time": 1764145401,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146660,
       "num": 146660,
       "word": "我就说这张脸演的能是什么坏人",
@@ -1147,12 +1227,12 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 144538,
-      "num": 144538,
-      "word": "特朗普作出让步",
-      "onboard_time": 1764145701,
-      "rank": 49,
-      "category": "国际时政"
+      "raw_hot": 144924,
+      "num": 183127,
+      "word": "云合",
+      "onboard_time": 1764146842,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 144043,
@@ -1177,6 +1257,14 @@
       "onboard_time": 1764144921,
       "rank": 35,
       "category": "网红"
+    },
+    {
+      "raw_hot": 142237,
+      "num": 418872,
+      "word": "中方回应是否要求美方向日方传递信息",
+      "onboard_time": 1764147802,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142149,
@@ -1371,14 +1459,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127155,
-      "num": 183127,
-      "word": "云合",
-      "onboard_time": 1764146842,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 126815,
       "num": 161725,
       "word": "内娱久违的古早剧质感回来了",
@@ -1411,6 +1491,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 124503,
+      "num": 124503,
+      "word": "AppleMusic公布年度百大歌曲",
+      "onboard_time": 1764148642,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 123446,
       "num": 123446,
       "word": "TF二三四代网速对比",
@@ -1425,6 +1513,14 @@
       "onboard_time": 1764139940,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123078,
+      "num": 123078,
+      "word": "滔搏官宣Creme续约",
+      "onboard_time": 1764148762,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 122954,
@@ -1539,14 +1635,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 113727,
-      "num": 469731,
-      "word": "谁给何老师报名的主持人大赛",
-      "onboard_time": 1764146062,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113595,
       "num": 113595,
       "word": "七七多次现身林俊杰演唱会VIP席",
@@ -1592,6 +1680,14 @@
       "word": "全红婵阿勒泰滑雪休整放松",
       "onboard_time": 1764122840,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 107940,
+      "num": 172756,
+      "word": "伦纳德班味篮球",
+      "onboard_time": 1764148462,
+      "rank": 35,
       "category": "体育"
     },
     {
@@ -1649,6 +1745,14 @@
       "onboard_time": 1764069200,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 99090,
+      "num": 172324,
+      "word": "是谁走出电影院就疯狂下单",
+      "onboard_time": 1764148520,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 98109,
@@ -1787,6 +1891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 84229,
+      "num": 172677,
+      "word": "高市早苗在李在明面前拍脸蛋",
+      "onboard_time": 1764148881,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81591,
       "num": 270341,
       "word": "日本在华青年表态绝对反对战争",
@@ -1817,6 +1929,14 @@
       "onboard_time": 1764132262,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 73574,
+      "num": 989837,
+      "word": "最新版全国入冬进程图",
+      "onboard_time": 1764147683,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72050,
@@ -2203,6 +2323,22 @@
       "category": "正能量"
     },
     {
+      "raw_hot": 30269,
+      "num": 410251,
+      "word": "辽宁一局长在渔船倾覆后见死不救",
+      "onboard_time": 1764149000,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 29373,
+      "num": 172173,
+      "word": "男子11元抢小米冰箱商家拒发只赔30",
+      "onboard_time": 1764148941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29113,
       "num": 34544,
       "word": "总算知道为啥两元店能赚钱了",
@@ -2225,6 +2361,14 @@
       "onboard_time": 1764090437,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25085,
+      "num": 172505,
+      "word": "周也贾宝玉 陈都灵林黛玉",
+      "onboard_time": 1764148881,
+      "rank": 37,
+      "category": "艺人"
     },
     {
       "raw_hot": 24358,
@@ -2380,6 +2524,9 @@
     },
     {
       "word": "#习近平会见汤加国王#"
+    },
+    {
+      "word": "#文脉津声弦歌不辍#"
     }
   ]
 }
