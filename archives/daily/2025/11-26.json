@@ -1,10 +1,10 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764167375692,
+  "endTime": 1764168378544,
   "band_list": [
     {
-      "raw_hot": 16508761,
-      "num": 16508761,
+      "raw_hot": 16676633,
+      "num": 16676633,
       "word": "香港火灾",
       "onboard_time": 1764152062,
       "rank": 5,
@@ -17,6 +17,14 @@
       "onboard_time": 1764152002,
       "rank": 10,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 3137307,
+      "num": 527736,
+      "word": "深圳消防支援香港",
+      "onboard_time": 1764166827,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 2994309,
@@ -81,14 +89,6 @@
       "onboard_time": 1764131182,
       "rank": 11,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 1713429,
-      "num": 371735,
-      "word": "深圳消防支援香港",
-      "onboard_time": 1764166827,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1626319,
@@ -251,6 +251,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 767149,
+      "num": 434842,
+      "word": "赵樱子因姓张1米9男生而不拍戏",
+      "onboard_time": 1764166467,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 733320,
       "num": 667129,
       "word": "原来全麻手术压根不是睡着了",
@@ -347,6 +355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 623294,
+      "num": 155447,
+      "word": "香港火灾疑似起火点曝光",
+      "onboard_time": 1764167125,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 615290,
       "num": 615290,
       "word": "2名台胞在日本街头被打成重伤",
@@ -377,6 +393,14 @@
       "onboard_time": 1764112398,
       "rank": 26,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 592794,
+      "num": 1044426,
+      "word": "国色芳华",
+      "onboard_time": 1764166346,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 535207,
@@ -427,6 +451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 492493,
+      "num": 492493,
+      "word": "李威妻子出庭痛哭自责没救死者",
+      "onboard_time": 1764163706,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491331,
       "num": 491331,
       "word": "抽烟这块深圳卫健委越骂越勇",
@@ -449,6 +481,14 @@
       "onboard_time": 1764128541,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 483592,
+      "num": 1077374,
+      "word": "王楚钦孙颖莎获总决赛混双外卡",
+      "onboard_time": 1764166107,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 476291,
@@ -515,22 +555,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 443568,
-      "num": 1044426,
-      "word": "国色芳华",
-      "onboard_time": 1764166346,
-      "rank": 5,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 436865,
-      "num": 125012,
-      "word": "香港火灾疑似起火点曝光",
-      "onboard_time": 1764167125,
-      "rank": 48,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 436659,
       "num": 844283,
       "word": "王安宇配音",
@@ -547,28 +571,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 434842,
-      "num": 434842,
-      "word": "赵樱子因姓张1米9男生而不拍戏",
-      "onboard_time": 1764166467,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 430870,
       "num": 913837,
       "word": "红果短剧红毯",
       "onboard_time": 1764147082,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 421065,
-      "num": 421065,
-      "word": "李威妻子出庭痛哭自责没救死者",
-      "onboard_time": 1764163706,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 416951,
@@ -595,14 +603,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 411728,
-      "num": 1065876,
-      "word": "王楚钦孙颖莎获总决赛混双外卡",
-      "onboard_time": 1764166107,
-      "rank": 0,
-      "category": "体育"
-    },
-    {
       "raw_hot": 409694,
       "num": 409694,
       "word": "高市早苗在李在明面前拍脸蛋",
@@ -625,6 +625,14 @@
       "onboard_time": 1764120380,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 403312,
+      "num": 337351,
+      "word": "香港大埔火灾逃生居民发声",
+      "onboard_time": 1764164784,
+      "rank": 26,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 403292,
@@ -913,14 +921,6 @@
       "onboard_time": 1764127282,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 277496,
-      "num": 277496,
-      "word": "香港大埔火灾逃生居民发声",
-      "onboard_time": 1764164784,
-      "rank": 26,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 276759,
@@ -1627,12 +1627,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166799,
+      "num": 166799,
+      "word": "王楚钦回应获总决赛混双外卡",
+      "onboard_time": 1764167905,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "郑伊健日本演唱会取消",
       "onboard_time": 1764124822,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163619,
+      "num": 1046005,
+      "word": "王者荣耀考行测",
+      "onboard_time": 1764162804,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 162953,
@@ -1883,14 +1899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143090,
-      "num": 1046005,
-      "word": "王者荣耀考行测",
-      "onboard_time": 1764162804,
-      "rank": 7,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 142311,
       "num": 142311,
       "word": "韦雪前男友半年瘦了20斤",
@@ -1993,6 +2001,14 @@
       "onboard_time": 1764133223,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136017,
+      "num": 753420,
+      "word": "香港启动应急救援机制",
+      "onboard_time": 1764167726,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 135940,
@@ -2371,6 +2387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112981,
+      "num": 155217,
+      "word": "鬼灭之刃一直在失去的风柱",
+      "onboard_time": 1764168028,
+      "rank": 45,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 112055,
       "num": 176714,
       "word": "英伟达谷歌",
@@ -2417,6 +2441,14 @@
       "onboard_time": 1764122840,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107977,
+      "num": 154812,
+      "word": "李立群回应三个孩子都没结婚",
+      "onboard_time": 1764168206,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 107940,
@@ -2579,6 +2611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97076,
+      "num": 575032,
+      "word": "日本在野党批日本政府愚蠢",
+      "onboard_time": 1764165925,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96461,
       "num": 318275,
       "word": "崩坏星穹铁道超话",
@@ -2707,6 +2747,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 88301,
+      "num": 440706,
+      "word": "启动应急机制全力救治香港火灾伤者",
+      "onboard_time": 1764166645,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 88085,
       "num": 272469,
       "word": "一诺被水上飞鱼gank了",
@@ -2737,14 +2785,6 @@
       "onboard_time": 1764072862,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 82014,
-      "num": 440706,
-      "word": "启动应急机制全力救治香港火灾伤者",
-      "onboard_time": 1764166645,
-      "rank": 19,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 81591,
@@ -2881,14 +2921,6 @@
       "onboard_time": 1764165864,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 67052,
-      "num": 258459,
-      "word": "日本在野党批日本政府愚蠢",
-      "onboard_time": 1764165925,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 67003,
@@ -3176,6 +3208,14 @@
       "word": "网警查处编造民宿现不明感染源谣言者",
       "onboard_time": 1764121520,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42992,
+      "num": 156158,
+      "word": "居民称香港火灾发生时警钟没响",
+      "onboard_time": 1764167487,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3567,6 +3607,9 @@
     },
     {
       "word": "#文脉津声弦歌不辍#"
+    },
+    {
+      "word": "#习近平要求全力以赴扑灭火灾#"
     }
   ]
 }

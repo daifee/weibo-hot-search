@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764167375692,
+  "endTime": 1764168378544,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -379,20 +379,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16676633,
+      "num": 16676633,
+      "word": "香港火灾",
+      "onboard_time": 1764152062,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 16645237,
       "num": 16645237,
       "word": "鹿晗社交平台被禁止关注",
       "onboard_time": 1736147422,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 16508761,
-      "num": 16508761,
-      "word": "香港火灾",
-      "onboard_time": 1764152062,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 16189782,
