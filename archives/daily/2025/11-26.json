@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764165177694,
+  "endTime": 1764167375692,
   "band_list": [
     {
       "raw_hot": 16508761,
@@ -44,11 +44,19 @@
     },
     {
       "raw_hot": 2332540,
-      "num": 450461,
+      "num": 1007380,
       "word": "站姐涅槃 400万",
       "onboard_time": 1764160042,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2111745,
+      "num": 613283,
+      "word": "香港殉职消防员终年37岁",
+      "onboard_time": 1764162564,
+      "rank": 31,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1887369,
@@ -75,12 +83,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1713429,
+      "num": 371735,
+      "word": "深圳消防支援香港",
+      "onboard_time": 1764166827,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1626319,
       "num": 960040,
       "word": "演员仝卓的表弟已获救",
       "onboard_time": 1764150682,
       "rank": 6,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1617089,
+      "num": 1008796,
+      "word": "女婴心脏手术离世已完成尸检",
+      "onboard_time": 1764165145,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1574774,
@@ -115,20 +139,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1275942,
+      "num": 241547,
+      "word": "深圳消防",
+      "onboard_time": 1764165085,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 1250131,
       "num": 1250131,
       "word": "高市早苗现在尴尬了",
       "onboard_time": 1764134781,
       "rank": 31,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1223593,
-      "num": 463868,
-      "word": "香港殉职消防员终年37岁",
-      "onboard_time": 1764162564,
-      "rank": 31,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1217173,
@@ -220,7 +244,7 @@
     },
     {
       "raw_hot": 774165,
-      "num": 774165,
+      "num": 1018610,
       "word": "外卖大战或将暂停",
       "onboard_time": 1764157463,
       "rank": 1,
@@ -275,8 +299,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 687053,
+      "num": 687053,
+      "word": "杨幂 Prada",
+      "onboard_time": 1764164365,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 685200,
-      "num": 447906,
+      "num": 467712,
       "word": "五月龄离世女婴由法医刘良尸检",
       "onboard_time": 1764161185,
       "rank": 36,
@@ -380,7 +412,7 @@
     },
     {
       "raw_hot": 515806,
-      "num": 515806,
+      "num": 1035008,
       "word": "香蜜沉沉烬如霜",
       "onboard_time": 1764156203,
       "rank": 34,
@@ -483,12 +515,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446324,
-      "num": 446324,
-      "word": "杨幂 Prada",
-      "onboard_time": 1764164365,
-      "rank": 27,
-      "category": "艺人"
+      "raw_hot": 443568,
+      "num": 1044426,
+      "word": "国色芳华",
+      "onboard_time": 1764166346,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 436865,
+      "num": 125012,
+      "word": "香港火灾疑似起火点曝光",
+      "onboard_time": 1764167125,
+      "rank": 48,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 436659,
@@ -507,6 +547,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 434842,
+      "num": 434842,
+      "word": "赵樱子因姓张1米9男生而不拍戏",
+      "onboard_time": 1764166467,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 430870,
       "num": 913837,
       "word": "红果短剧红毯",
@@ -515,12 +563,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 417523,
-      "num": 417523,
+      "raw_hot": 421065,
+      "num": 421065,
       "word": "李威妻子出庭痛哭自责没救死者",
       "onboard_time": 1764163706,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 416951,
+      "num": 459316,
+      "word": "香港商场草墙起火系烟头引发",
+      "onboard_time": 1764162023,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 416846,
@@ -537,6 +593,14 @@
       "onboard_time": 1764157883,
       "rank": 5,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 411728,
+      "num": 1065876,
+      "word": "王楚钦孙颖莎获总决赛混双外卡",
+      "onboard_time": 1764166107,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 409694,
@@ -619,6 +683,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 370345,
+      "num": 370345,
+      "word": "偶遇林俊杰七七逛街",
+      "onboard_time": 1764164425,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366739,
       "num": 366739,
       "word": "腾讯把枭起青壤限免了",
@@ -633,6 +705,14 @@
       "onboard_time": 1764144082,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 361394,
+      "num": 443847,
+      "word": "香港已有数百名居民登记家属失联",
+      "onboard_time": 1764160703,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 361260,
@@ -707,20 +787,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 329119,
-      "num": 317732,
-      "word": "香港商场草墙起火系烟头引发",
-      "onboard_time": 1764162023,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 326224,
       "num": 326224,
       "word": "香港警方回应大埔大火",
       "onboard_time": 1764156563,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 323337,
+      "num": 463020,
+      "word": "43岁坚持运动一年的变化有多大",
+      "onboard_time": 1764166705,
+      "rank": 16,
+      "category": "运动健身"
     },
     {
       "raw_hot": 320540,
@@ -835,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 277496,
+      "num": 277496,
+      "word": "香港大埔火灾逃生居民发声",
+      "onboard_time": 1764164784,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 276759,
       "num": 132611,
       "word": "流感高峰时间已确定",
@@ -939,6 +1027,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 257995,
+      "num": 257995,
+      "word": "郭碧婷晒照被评好像向太",
+      "onboard_time": 1764166166,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 257178,
       "num": 298966,
       "word": "疯狂动物城",
@@ -1001,14 +1097,6 @@
       "onboard_time": 1764144201,
       "rank": 23,
       "category": "财经"
-    },
-    {
-      "raw_hot": 247980,
-      "num": 179166,
-      "word": "深圳消防",
-      "onboard_time": 1764165085,
-      "rank": 37,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 247437,
@@ -1089,14 +1177,6 @@
       "onboard_time": 1764123140,
       "rank": 36,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 229954,
-      "num": 229954,
-      "word": "香港已有数百名居民登记家属失联",
-      "onboard_time": 1764160703,
-      "rank": 38,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 229806,
@@ -1209,14 +1289,6 @@
       "onboard_time": 1764141501,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 201265,
-      "num": 201265,
-      "word": "偶遇林俊杰七七逛街",
-      "onboard_time": 1764164425,
-      "rank": 32,
-      "category": "艺人"
     },
     {
       "raw_hot": 200609,
@@ -1345,6 +1417,14 @@
       "onboard_time": 1764144442,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188246,
+      "num": 1064484,
+      "word": "WTT",
+      "onboard_time": 1764166585,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 187874,
@@ -1731,6 +1811,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 148364,
+      "num": 148364,
+      "word": "大生意人",
+      "onboard_time": 1764069743,
+      "rank": 45,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148334,
       "num": 148334,
       "word": "贵州一高校禁止学生用企鹅舞表情包",
@@ -1793,6 +1881,14 @@
       "onboard_time": 1764132083,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 143090,
+      "num": 1046005,
+      "word": "王者荣耀考行测",
+      "onboard_time": 1764162804,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 142311,
@@ -1876,7 +1972,7 @@
     },
     {
       "raw_hot": 136870,
-      "num": 256463,
+      "num": 261348,
       "word": "香港火灾救援现场",
       "onboard_time": 1764160825,
       "rank": 29,
@@ -2019,14 +2115,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 127877,
-      "num": 179033,
-      "word": "女婴心脏手术离世已完成尸检",
-      "onboard_time": 1764165145,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 127298,
       "num": 127298,
       "word": "枭起青壤 不会带团队只能干到死",
@@ -2067,6 +2155,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 125481,
+      "num": 125481,
+      "word": "和烤肉绝配的生菜圣诞树",
+      "onboard_time": 1764167125,
+      "rank": 47,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 124922,
       "num": 124922,
       "word": "胡彦斌锐评梁淞头巾事件",
@@ -2097,14 +2193,6 @@
       "onboard_time": 1764148642,
       "rank": 48,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 124411,
-      "num": 334158,
-      "word": "王者荣耀考行测",
-      "onboard_time": 1764162804,
-      "rank": 7,
-      "category": "游戏"
     },
     {
       "raw_hot": 123591,
@@ -2651,6 +2739,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 82014,
+      "num": 440706,
+      "word": "启动应急机制全力救治香港火灾伤者",
+      "onboard_time": 1764166645,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 81591,
       "num": 270341,
       "word": "日本在华青年表态绝对反对战争",
@@ -2740,7 +2836,7 @@
     },
     {
       "raw_hot": 69808,
-      "num": 486881,
+      "num": 1059210,
       "word": "长春成功申办2027世界大冬会",
       "onboard_time": 1764162325,
       "rank": 2,
@@ -2777,6 +2873,22 @@
       "onboard_time": 1764078862,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 67694,
+      "num": 1023787,
+      "word": "中国男篮公开训练",
+      "onboard_time": 1764165864,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 67052,
+      "num": 258459,
+      "word": "日本在野党批日本政府愚蠢",
+      "onboard_time": 1764165925,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 67003,
@@ -2880,14 +2992,6 @@
       "word": "孙千大生意人状态",
       "onboard_time": 1764106514,
       "rank": 47,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 57462,
-      "num": 121700,
-      "word": "大生意人",
-      "onboard_time": 1764069743,
-      "rank": 45,
       "category": "剧集"
     },
     {
