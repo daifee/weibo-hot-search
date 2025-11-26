@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764150312437,
+  "endTime": 1764153107024,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -171,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 3692548,
+      "num": 977494,
+      "word": "香港火灾",
+      "onboard_time": 1764152062,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 3648101,
       "num": 3648101,
       "word": "沙僧扮演者刘大刚病逝",
@@ -185,6 +193,14 @@
       "onboard_time": 1763381481,
       "rank": 0,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 3367452,
+      "num": 868103,
+      "word": "华杉没道歉",
+      "onboard_time": 1764152002,
+      "rank": 10,
+      "category": "互联网"
     },
     {
       "raw_hot": 3315042,
@@ -675,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1770985,
+      "num": 1032286,
+      "word": "罗永浩 华杉",
+      "onboard_time": 1764131182,
+      "rank": 11,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 1770076,
       "num": 274757,
       "word": "日本网友发的中日军力比较",
@@ -785,6 +809,14 @@
       "onboard_time": 1763376560,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1626319,
+      "num": 960040,
+      "word": "演员仝卓的表弟已获救",
+      "onboard_time": 1764150682,
+      "rank": 6,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1623448,
@@ -2092,19 +2124,11 @@
     },
     {
       "raw_hot": 1067446,
-      "num": 1093068,
+      "num": 1102910,
       "word": "日本的战争准备正全面铺开",
       "onboard_time": 1764124280,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1060256,
-      "num": 1032286,
-      "word": "罗永浩 华杉",
-      "onboard_time": 1764131182,
-      "rank": 11,
-      "category": "互联网"
     },
     {
       "raw_hot": 1059335,
@@ -3297,6 +3321,14 @@
       "onboard_time": 1762414999,
       "rank": 0,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 850718,
+      "num": 850718,
+      "word": "仝卓表弟获救画面",
+      "onboard_time": 1764151642,
+      "rank": 11,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 847739,
@@ -7916,7 +7948,7 @@
     },
     {
       "raw_hot": 535207,
-      "num": 987036,
+      "num": 1049252,
       "word": "Uzi被曝已签约",
       "onboard_time": 1764144442,
       "rank": 4,
@@ -10803,6 +10835,14 @@
       "category": "国际时政,财经"
     },
     {
+      "raw_hot": 435479,
+      "num": 941540,
+      "word": "香港突发大火已致4死3伤",
+      "onboard_time": 1764152602,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 435319,
       "num": 680645,
       "word": "普京称中国公民免签政策近期生效",
@@ -10961,6 +11001,14 @@
       "onboard_time": 1762940001,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 430870,
+      "num": 913837,
+      "word": "红果短剧红毯",
+      "onboard_time": 1764147082,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 430759,
@@ -11713,6 +11761,14 @@
       "onboard_time": 1763518821,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 409694,
+      "num": 409694,
+      "word": "高市早苗在李在明面前拍脸蛋",
+      "onboard_time": 1764148881,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 409618,
@@ -17267,6 +17323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 298946,
+      "num": 298946,
+      "word": "晋江崩了",
+      "onboard_time": 1764151823,
+      "rank": 31,
+      "category": "读书作家,互联网"
+    },
+    {
       "raw_hot": 298945,
       "num": 217889,
       "word": "黄友政14比12林诗栋",
@@ -17377,6 +17441,14 @@
       "onboard_time": 1763793860,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 297914,
+      "num": 364332,
+      "word": "罗永浩怒怼华与华创始人",
+      "onboard_time": 1764127701,
+      "rank": 39,
+      "category": "互联网"
     },
     {
       "raw_hot": 297715,
@@ -18377,14 +18449,6 @@
       "onboard_time": 1763103980,
       "rank": 9,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 282263,
-      "num": 282263,
-      "word": "高市早苗在李在明面前拍脸蛋",
-      "onboard_time": 1764148881,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 282145,
@@ -21507,6 +21571,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 240630,
+      "num": 299151,
+      "word": "高市早苗称其诚实回答提问",
+      "onboard_time": 1764151221,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 240628,
       "num": 174858,
       "word": "陈飞宇主持",
@@ -22947,6 +23019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223641,
+      "num": 223641,
+      "word": "Angelababy经纪人与李安聚餐",
+      "onboard_time": 1764150682,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 223563,
       "num": 223563,
       "word": "该和日本聊聊琉球了",
@@ -23713,6 +23793,14 @@
       "onboard_time": 1762347321,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 215810,
+      "num": 408235,
+      "word": "成龙确认出演尖峰时刻4",
+      "onboard_time": 1764149902,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 215804,
@@ -24684,7 +24772,7 @@
     },
     {
       "raw_hot": 208323,
-      "num": 208323,
+      "num": 879011,
       "word": "TES三连宣",
       "onboard_time": 1764149661,
       "rank": 33,
@@ -24747,6 +24835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207984,
+      "num": 207984,
+      "word": "王凤朝被查",
+      "onboard_time": 1764153022,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207950,
       "num": 207950,
       "word": "缅因猫4500元法拍3000人围观",
@@ -24769,14 +24865,6 @@
       "onboard_time": 1763703382,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 207854,
-      "num": 207854,
-      "word": "罗永浩怒怼华与华创始人",
-      "onboard_time": 1764127701,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 207824,
@@ -25243,6 +25331,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204633,
+      "num": 361909,
+      "word": "泸溪河 包装刺客",
+      "onboard_time": 1764151702,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204593,
       "num": 204593,
       "word": "KPL转会",
@@ -25449,6 +25545,14 @@
       "onboard_time": 1763028621,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203520,
+      "num": 203520,
+      "word": "日本女市长与下属多次开房后提出辞职",
+      "onboard_time": 1764150262,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 203489,
@@ -28131,6 +28235,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 190757,
+      "num": 190757,
+      "word": "华与华创意大赛当观众要付1万元",
+      "onboard_time": 1764150623,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190738,
       "num": 190738,
       "word": "王楚钦11比9袁励岑",
@@ -28329,14 +28441,6 @@
       "onboard_time": 1763435541,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 189891,
-      "num": 408235,
-      "word": "成龙确认出演尖峰时刻4",
-      "onboard_time": 1764149902,
-      "rank": 15,
-      "category": "电影"
     },
     {
       "raw_hot": 189881,
@@ -28745,14 +28849,6 @@
       "onboard_time": 1762868423,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 188262,
-      "num": 382084,
-      "word": "红果短剧红毯",
-      "onboard_time": 1764147082,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 188216,
@@ -30369,6 +30465,14 @@
       "onboard_time": 1761915504,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 181074,
+      "num": 181074,
+      "word": "香港大埔发生火灾",
+      "onboard_time": 1764152363,
+      "rank": 44,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 180860,
@@ -34257,6 +34361,14 @@
       "onboard_time": 1762934480,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 162395,
+      "num": 162395,
+      "word": "中概股迎重磅利好",
+      "onboard_time": 1764152843,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 162354,
@@ -45723,14 +45835,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 126829,
-      "num": 126829,
-      "word": "日本女市长与下属多次开房后提出辞职",
-      "onboard_time": 1764150262,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 126815,
       "num": 126815,
       "word": "奔跑吧解读天路含义好好哭",
@@ -46817,6 +46921,14 @@
       "onboard_time": 1762863982,
       "rank": 29,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 124634,
+      "num": 234592,
+      "word": "香蜜云合飙升12位",
+      "onboard_time": 1764152962,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 124612,
@@ -65211,6 +65323,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 90993,
+      "num": 1065700,
+      "word": "最新版全国入冬进程图",
+      "onboard_time": 1764147683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 90986,
       "num": 90986,
       "word": "74岁老太因柴火归属争执杀人藏尸",
@@ -66313,14 +66433,6 @@
       "onboard_time": 1763634561,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 89349,
-      "num": 1065700,
-      "word": "最新版全国入冬进程图",
-      "onboard_time": 1764147683,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 89340,
@@ -68937,6 +69049,14 @@
       "onboard_time": 1763085859,
       "rank": 37,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 85062,
+      "num": 270168,
+      "word": "官方辟谣充电宝3C认证全面失效",
+      "onboard_time": 1764151221,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 85047,
@@ -77971,6 +78091,14 @@
       "category": "演出,数码"
     },
     {
+      "raw_hot": 60548,
+      "num": 685908,
+      "word": "万米深海有了中国动力心脏",
+      "onboard_time": 1764151221,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 60536,
       "num": 180174,
       "word": "深圳把全运会闭幕式办成科技发布会",
@@ -79473,6 +79601,14 @@
       "onboard_time": 1762659378,
       "rank": 49,
       "category": "军事"
+    },
+    {
+      "raw_hot": 54836,
+      "num": 562650,
+      "word": "对标Chrome的夸克AI浏览器免费用",
+      "onboard_time": 1764151283,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 54812,
@@ -81619,6 +81755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47087,
+      "num": 389773,
+      "word": "海底捞顾客被嘲只点锅底光吃小料",
+      "onboard_time": 1764152363,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47078,
       "num": 88453,
       "word": "朱雨玲告别全运会",
@@ -81937,6 +82081,14 @@
       "onboard_time": 1762903759,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 45929,
+      "num": 208194,
+      "word": "冬天减脂的十大秘籍",
+      "onboard_time": 1764152122,
+      "rank": 39,
+      "category": "运动健身"
     },
     {
       "raw_hot": 45919,
@@ -84083,6 +84235,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 38035,
+      "num": 1023693,
+      "word": "为什么年轻人买车越来越看重服务",
+      "onboard_time": 1764150742,
+      "rank": 4,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 37991,
       "num": 158932,
       "word": "华为手机拍到的非遗在巴黎上大分",
@@ -84761,6 +84921,14 @@
       "onboard_time": 1762965857,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 35244,
+      "num": 228830,
+      "word": "神22应急发射只用了16天",
+      "onboard_time": 1764147502,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 35226,
@@ -85979,6 +86147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31525,
+      "num": 1078854,
+      "word": "人类首次发现月球也会生锈",
+      "onboard_time": 1764153022,
+      "rank": 1,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 31453,
       "num": 238992,
       "word": "中国吸引外资新磁力显现",
@@ -86369,6 +86545,14 @@
       "onboard_time": 1762347621,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30453,
+      "num": 208499,
+      "word": "美国AI泡沫可能引发全球金融危机",
+      "onboard_time": 1764152542,
+      "rank": 38,
+      "category": "国际时政,财经"
     },
     {
       "raw_hot": 30429,
@@ -89531,6 +89715,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 18390,
+      "num": 210754,
+      "word": "邻居杀害七旬夫妇后逃跑画面曝光",
+      "onboard_time": 1764152482,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18380,
       "num": 108485,
       "word": "贵州农妇反抗猥亵被杀凶手被判死缓",
@@ -90201,6 +90393,14 @@
       "onboard_time": 1763645903,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15858,
+      "num": 298950,
+      "word": "折叠屏iPhone售价或2399美元",
+      "onboard_time": 1764152602,
+      "rank": 30,
+      "category": "数码"
     },
     {
       "raw_hot": 15749,
