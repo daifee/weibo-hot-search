@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764193108738,
+  "endTime": 1764196024827,
   "band_list": [
     {
       "raw_hot": 9847423,
@@ -35,20 +35,20 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 644852,
+      "num": 525111,
+      "word": "香港火灾疑似起火点曝光",
+      "onboard_time": 1764167125,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 545142,
       "num": 507611,
       "word": "女婴心脏手术离世已完成尸检",
       "onboard_time": 1764165145,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 525111,
-      "num": 525111,
-      "word": "香港火灾疑似起火点曝光",
-      "onboard_time": 1764167125,
-      "rank": 23,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 499501,
@@ -243,6 +243,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 106989,
+      "num": 482691,
+      "word": "香港已启动紧急事故监察及支援中心",
+      "onboard_time": 1764172702,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 103187,
       "num": 278430,
       "word": "童锦程的空闲房子被陌生人住进去了",
@@ -275,6 +283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94204,
+      "num": 62569,
+      "word": "特朗普宣布拜登的火鸡救免令无效",
+      "onboard_time": 1764192554,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 86009,
       "num": 482709,
       "word": "地枭陈福遇害2次没死透",
@@ -289,14 +305,6 @@
       "onboard_time": 1764166107,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 85344,
-      "num": 482691,
-      "word": "香港已启动紧急事故监察及支援中心",
-      "onboard_time": 1764172702,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 82296,
@@ -315,6 +323,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 79882,
+      "num": 482651,
+      "word": "李诞劝女生不要找年纪太大的",
+      "onboard_time": 1764168445,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 79349,
       "num": 482682,
       "word": "43岁坚持运动一年的变化有多大",
@@ -329,14 +345,6 @@
       "onboard_time": 1764157763,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 78305,
-      "num": 482651,
-      "word": "李诞劝女生不要找年纪太大的",
-      "onboard_time": 1764168445,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 75071,
@@ -379,7 +387,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 57170,
+      "raw_hot": 57215,
       "num": 752571,
       "word": "王楚钦回应获总决赛混双外卡",
       "onboard_time": 1764167905,
@@ -443,12 +451,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 24899,
-      "num": 49012,
-      "word": "特朗普宣布拜登的火鸡救免令无效",
-      "onboard_time": 1764192554,
-      "rank": 31,
-      "category": "国际时政"
+      "raw_hot": 27260,
+      "num": 62493,
+      "word": "真的建议普通人也去拍vlog",
+      "onboard_time": 1764194115,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 24337,
+      "num": 267488,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1764156203,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24052,
+      "num": 62438,
+      "word": "你可能真的不会用iPhone天气",
+      "onboard_time": 1764194115,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 23711,
@@ -459,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 20745,
-      "num": 267488,
-      "word": "香蜜沉沉烬如霜",
-      "onboard_time": 1764156203,
-      "rank": 46,
-      "category": "剧集"
+      "raw_hot": 19267,
+      "num": 62371,
+      "word": "国外很贵国内很便宜的东西",
+      "onboard_time": 1764194115,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 18881,
@@ -473,6 +497,14 @@
       "onboard_time": 1764183615,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13295,
+      "num": 62300,
+      "word": "鎏光盛典",
+      "onboard_time": 1764195375,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 12749,

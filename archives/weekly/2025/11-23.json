@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764193108738,
+  "endTime": 1764196024827,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -8971,6 +8971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106989,
+      "num": 482691,
+      "word": "香港已启动紧急事故监察及支援中心",
+      "onboard_time": 1764172702,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 106978,
       "num": 242436,
       "word": "胡彦斌 易梦玲",
@@ -9963,6 +9971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94204,
+      "num": 62569,
+      "word": "特朗普宣布拜登的火鸡救免令无效",
+      "onboard_time": 1764192554,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 94179,
       "num": 94179,
       "word": "徐洁云等辟谣小乔地铁站车祸事件",
@@ -10561,14 +10577,6 @@
       "onboard_time": 1763965101,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 85344,
-      "num": 482691,
-      "word": "香港已启动紧急事故监察及支援中心",
-      "onboard_time": 1764172702,
-      "rank": 37,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 85334,
@@ -12787,6 +12795,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 27260,
+      "num": 62493,
+      "word": "真的建议普通人也去拍vlog",
+      "onboard_time": 1764194115,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27189,
       "num": 104607,
       "word": "公园方回应近百只猕猴打群架",
@@ -12867,14 +12883,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 24899,
-      "num": 49012,
-      "word": "特朗普宣布拜登的火鸡救免令无效",
-      "onboard_time": 1764192554,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 24806,
       "num": 117987,
       "word": "网友吐槽吃零食还要做热量计算题",
@@ -12921,6 +12929,14 @@
       "onboard_time": 1764049040,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24052,
+      "num": 62438,
+      "word": "你可能真的不会用iPhone天气",
+      "onboard_time": 1764194115,
+      "rank": 39,
+      "category": "数码"
     },
     {
       "raw_hot": 23881,
@@ -13201,6 +13217,14 @@
       "onboard_time": 1764096133,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19267,
+      "num": 62371,
+      "word": "国外很贵国内很便宜的东西",
+      "onboard_time": 1764194115,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 19158,
@@ -13489,6 +13513,14 @@
       "onboard_time": 1764153801,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13295,
+      "num": 62300,
+      "word": "鎏光盛典",
+      "onboard_time": 1764195375,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 12234,
