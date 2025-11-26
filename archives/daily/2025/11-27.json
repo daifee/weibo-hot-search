@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764196024827,
+  "endTime": 1764196979496,
   "band_list": [
     {
       "raw_hot": 9847423,
@@ -19,6 +19,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 965436,
+      "num": 525111,
+      "word": "香港火灾疑似起火点曝光",
+      "onboard_time": 1764167125,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 796243,
       "num": 956432,
       "word": "香港启动应急救援机制",
@@ -32,14 +40,6 @@
       "word": "香港大火传出多次爆炸声",
       "onboard_time": 1764170663,
       "rank": 14,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 644852,
-      "num": 525111,
-      "word": "香港火灾疑似起火点曝光",
-      "onboard_time": 1764167125,
-      "rank": 23,
       "category": "突发/灾害"
     },
     {
@@ -195,6 +195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160689,
+      "num": 482691,
+      "word": "香港已启动紧急事故监察及支援中心",
+      "onboard_time": 1764172702,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 153129,
       "num": 525921,
       "word": "香港偶遇何猷君奚梦瑶逛街",
@@ -211,12 +219,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135457,
+      "num": 83528,
+      "word": "特朗普宣布拜登的火鸡救免令无效",
+      "onboard_time": 1764192554,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 125395,
+      "num": 125395,
+      "word": "多名旅日中国公民遭殴打受伤",
+      "onboard_time": 1764196097,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 117886,
       "num": 488244,
       "word": "偶遇林俊杰七七逛街",
       "onboard_time": 1764164425,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116078,
+      "num": 482651,
+      "word": "李诞劝女生不要找年纪太大的",
+      "onboard_time": 1764168445,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115401,
+      "num": 278430,
+      "word": "童锦程的空闲房子被陌生人住进去了",
+      "onboard_time": 1764180376,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 112745,
@@ -243,22 +283,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 106989,
-      "num": 482691,
-      "word": "香港已启动紧急事故监察及支援中心",
-      "onboard_time": 1764172702,
-      "rank": 37,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 103187,
-      "num": 278430,
-      "word": "童锦程的空闲房子被陌生人住进去了",
-      "onboard_time": 1764180376,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 101602,
       "num": 482743,
       "word": "疯狂动物城2",
@@ -281,14 +305,6 @@
       "onboard_time": 1764161185,
       "rank": 33,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94204,
-      "num": 62569,
-      "word": "特朗普宣布拜登的火鸡救免令无效",
-      "onboard_time": 1764192554,
-      "rank": 31,
-      "category": "国际时政"
     },
     {
       "raw_hot": 86009,
@@ -323,14 +339,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 79882,
-      "num": 482651,
-      "word": "李诞劝女生不要找年纪太大的",
-      "onboard_time": 1764168445,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 79349,
       "num": 482682,
       "word": "43岁坚持运动一年的变化有多大",
@@ -353,6 +361,14 @@
       "onboard_time": 1764168206,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 69953,
+      "num": 752571,
+      "word": "王楚钦回应获总决赛混双外卡",
+      "onboard_time": 1764167905,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 68035,
@@ -385,14 +401,6 @@
       "onboard_time": 1764173301,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57215,
-      "num": 752571,
-      "word": "王楚钦回应获总决赛混双外卡",
-      "onboard_time": 1764167905,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 51692,
@@ -435,6 +443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 37935,
+      "num": 83407,
+      "word": "真的建议普通人也去拍vlog",
+      "onboard_time": 1764194115,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 37491,
       "num": 436240,
       "word": "刘宁制片人决定重启香蜜",
@@ -451,15 +467,31 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 27260,
-      "num": 62493,
-      "word": "真的建议普通人也去拍vlog",
+      "raw_hot": 32553,
+      "num": 83347,
+      "word": "你可能真的不会用iPhone天气",
       "onboard_time": 1764194115,
-      "rank": 36,
-      "category": "幽默"
+      "rank": 39,
+      "category": "数码"
     },
     {
-      "raw_hot": 24337,
+      "raw_hot": 29136,
+      "num": 83300,
+      "word": "国外很贵国内很便宜的东西",
+      "onboard_time": 1764194115,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 28835,
+      "num": 83261,
+      "word": "谍报上不封顶",
+      "onboard_time": 1764196697,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 28508,
       "num": 267488,
       "word": "香蜜沉沉烬如霜",
       "onboard_time": 1764156203,
@@ -467,15 +499,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24052,
-      "num": 62438,
-      "word": "你可能真的不会用iPhone天气",
-      "onboard_time": 1764194115,
-      "rank": 39,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 23711,
+      "raw_hot": 25847,
       "num": 84810,
       "word": "易梦玲10年前私信询问表演培训",
       "onboard_time": 1764186674,
@@ -483,15 +507,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 19267,
-      "num": 62371,
-      "word": "国外很贵国内很便宜的东西",
-      "onboard_time": 1764194115,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 18881,
+      "raw_hot": 20987,
       "num": 157941,
       "word": "原来明星也会讨论份子钱怎么随",
       "onboard_time": 1764183615,
