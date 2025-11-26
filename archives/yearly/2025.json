@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764161827379,
+  "endTime": 1764162723876,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -387,6 +387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16508761,
+      "num": 16508761,
+      "word": "香港火灾",
+      "onboard_time": 1764152062,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 16189782,
       "num": 16189782,
       "word": "赵露思发长文回应",
@@ -529,14 +537,6 @@
       "onboard_time": 1743504622,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 14621439,
-      "num": 14621439,
-      "word": "香港火灾",
-      "onboard_time": 1764152062,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 14582987,

@@ -1,10 +1,10 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764161827379,
+  "endTime": 1764162723876,
   "band_list": [
     {
-      "raw_hot": 14621439,
-      "num": 14621439,
+      "raw_hot": 16508761,
+      "num": 16508761,
       "word": "香港火灾",
       "onboard_time": 1764152062,
       "rank": 5,
@@ -19,11 +19,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 2604450,
-      "num": 2708900,
+      "raw_hot": 2994309,
+      "num": 3488619,
       "word": "香港火灾已致13死28伤",
       "onboard_time": 1764159504,
       "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2663334,
+      "num": 368813,
+      "word": "香港疑似8栋楼目前全在烧",
+      "onboard_time": 1764158303,
+      "rank": 12,
       "category": "突发/灾害"
     },
     {
@@ -36,19 +44,11 @@
     },
     {
       "raw_hot": 2332540,
-      "num": 369347,
+      "num": 377461,
       "word": "站姐涅槃 400万",
       "onboard_time": 1764160042,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 2321568,
-      "num": 360956,
-      "word": "香港疑似8栋楼目前全在烧",
-      "onboard_time": 1764158303,
-      "rank": 12,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1887369,
@@ -185,6 +185,14 @@
       "onboard_time": 1764138500,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 785443,
+      "num": 506211,
+      "word": "香港火灾附近住户发声",
+      "onboard_time": 1764158902,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 783275,
@@ -331,14 +339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 530430,
-      "num": 506211,
-      "word": "香港火灾附近住户发声",
-      "onboard_time": 1764158902,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 520547,
       "num": 397886,
       "word": "仝卓辟谣表弟获救",
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463549,
+      "num": 293774,
+      "word": "竹脚手架",
+      "onboard_time": 1764160163,
+      "rank": 25,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 461739,
       "num": 461739,
       "word": "李威",
@@ -491,6 +499,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 414997,
+      "num": 394557,
+      "word": "香港大楼起火从地面烧到楼顶",
+      "onboard_time": 1764157883,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 409694,
       "num": 409694,
       "word": "高市早苗在李在明面前拍脸蛋",
@@ -537,14 +553,6 @@
       "onboard_time": 1764083781,
       "rank": 11,
       "category": "民生新闻,美食"
-    },
-    {
-      "raw_hot": 394557,
-      "num": 394557,
-      "word": "香港大楼起火从地面烧到楼顶",
-      "onboard_time": 1764157883,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 393189,
@@ -747,14 +755,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 293774,
-      "num": 293774,
-      "word": "竹脚手架",
-      "onboard_time": 1764160163,
-      "rank": 25,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 289070,
       "num": 895061,
       "word": "中方回应是否要求美方向日方传递信息",
@@ -777,6 +777,14 @@
       "onboard_time": 1764127282,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 277217,
+      "num": 277217,
+      "word": "五月龄离世女婴由法医刘良尸检",
+      "onboard_time": 1764161185,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 276759,
@@ -939,6 +947,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 248439,
+      "num": 248439,
+      "word": "宁波女婴手术离世家属委托异地尸检",
+      "onboard_time": 1764159085,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 247437,
       "num": 239732,
       "word": "董宇辉怒斥别再送钱了",
@@ -961,14 +977,6 @@
       "onboard_time": 1764135562,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 242094,
-      "num": 242094,
-      "word": "宁波女婴手术离世家属委托异地尸检",
-      "onboard_time": 1764159085,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 240630,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1764127040,
       "rank": 26,
       "category": "美食"
+    },
+    {
+      "raw_hot": 209792,
+      "num": 398556,
+      "word": "大生意人 女救男",
+      "onboard_time": 1764161603,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 208323,
@@ -1275,19 +1291,19 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 183505,
+      "num": 243838,
+      "word": "朱亚文向涵之什么时候出来",
+      "onboard_time": 1764161543,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 182775,
       "num": 182775,
       "word": "女子穿厚羽绒服轻生跳河没沉下去",
       "onboard_time": 1764125180,
       "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 181617,
-      "num": 181617,
-      "word": "五月龄离世女婴由法医刘良尸检",
-      "onboard_time": 1764161185,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1403,14 +1419,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 169869,
-      "num": 246122,
-      "word": "大生意人 女救男",
-      "onboard_time": 1764161603,
-      "rank": 33,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 168373,
       "num": 168373,
       "word": "曹琳米线",
@@ -1440,14 +1448,6 @@
       "word": "尚公主",
       "onboard_time": 1764153622,
       "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 166557,
-      "num": 243838,
-      "word": "朱亚文向涵之什么时候出来",
-      "onboard_time": 1764161543,
-      "rank": 34,
       "category": "剧集"
     },
     {
@@ -1571,6 +1571,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 155572,
+      "num": 155572,
+      "word": "潘展乐打卡埃菲尔铁塔",
+      "onboard_time": 1764162444,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 154603,
       "num": 154603,
       "word": "女生开车两年的变化",
@@ -1609,6 +1617,14 @@
       "onboard_time": 1764131303,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 150870,
+      "num": 150870,
+      "word": "让严浩翔贺峻霖这个动作的人出来挨夸",
+      "onboard_time": 1764162023,
+      "rank": 40,
+      "category": "演出"
     },
     {
       "raw_hot": 148334,
@@ -1675,6 +1691,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142758,
+      "num": 161227,
+      "word": "香港殉职消防员终年37岁",
+      "onboard_time": 1764162564,
+      "rank": 31,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 142311,
       "num": 142311,
       "word": "韦雪前男友半年瘦了20斤",
@@ -1713,6 +1737,14 @@
       "onboard_time": 1764144140,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137633,
+      "num": 163659,
+      "word": "香港已有数百名居民登记家属失联",
+      "onboard_time": 1764160703,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 137561,
@@ -1755,6 +1787,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 136924,
+      "num": 136924,
+      "word": "这5种主食真的不建议常吃",
+      "onboard_time": 1764162504,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 136870,
       "num": 256463,
       "word": "香港火灾救援现场",
@@ -1785,6 +1825,14 @@
       "onboard_time": 1764139280,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135316,
+      "num": 160527,
+      "word": "香港商场草墙起火系烟头引发",
+      "onboard_time": 1764162023,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 134812,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1764083302,
       "rank": 7,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125360,
+      "num": 125360,
+      "word": "香港大埔开放临时庇护中心",
+      "onboard_time": 1764162624,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 124922,
@@ -2131,20 +2187,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 114033,
+      "num": 386834,
+      "word": "10个千亿级消费热点要来了",
+      "onboard_time": 1764160163,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113595,
       "num": 113595,
       "word": "七七多次现身林俊杰演唱会VIP席",
       "onboard_time": 1764099494,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 112057,
-      "num": 378166,
-      "word": "10个千亿级消费热点要来了",
-      "onboard_time": 1764160163,
-      "rank": 9,
-      "category": "财经"
     },
     {
       "raw_hot": 112055,
@@ -2787,14 +2843,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 52746,
-      "num": 163659,
-      "word": "香港已有数百名居民登记家属失联",
-      "onboard_time": 1764160703,
-      "rank": 38,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 52705,
       "num": 466740,
       "word": "AI为小米汽车带来出行新体验",
@@ -2809,6 +2857,14 @@
       "onboard_time": 1764141560,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51319,
+      "num": 486881,
+      "word": "长春成功申办2027世界大冬会",
+      "onboard_time": 1764162325,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51273,
@@ -3161,6 +3217,14 @@
       "onboard_time": 1764096133,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19092,
+      "num": 153070,
+      "word": "6图看冰雪产业迈向万亿级新阶段",
+      "onboard_time": 1764162084,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18661,
