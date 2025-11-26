@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 00:36:12
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 00:51:24
 </p>
 </blockquote>
 <p>
@@ -1569,6 +1569,12 @@ CPA成绩（热度：1140911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93%23" target="weibo">
+深圳消防车队已在莲塘口岸集结（热度：1113380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%BC%A0%E5%90%9B%E6%84%9F%E8%B0%A2%E7%99%BD%E7%99%BE%E4%BD%95%23" target="weibo">
 王传君感谢白百何（热度：1112743）
 </a>
@@ -2489,12 +2495,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%20%E6%B2%88%E5%A6%99%23" target="weibo">
 孟子义 沈妙（热度：865110）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93%23" target="weibo">
-深圳消防车队已在莲塘口岸集结（热度：864842）
 </a>
 </li>
 

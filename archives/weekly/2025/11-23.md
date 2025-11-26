@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/27 00:36:12
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/27 00:51:24
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ Mate80价格（热度：1175402）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93%23" target="weibo">
+深圳消防车队已在莲塘口岸集结（热度：1113380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%89%E4%BB%B7%E9%A6%96%E9%A5%B0%20%E8%87%B4%E7%99%8C%E7%89%A9%E8%B6%85%E6%A0%879000%E5%A4%9A%E5%80%8D%23" target="weibo">
 廉价首饰 致癌物超标9000多倍（热度：1109522）
 </a>
@@ -449,12 +455,6 @@ Mate80价格（热度：1175402）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%9B%B4%E6%92%AD%23" target="weibo">
 枭起青壤直播（热度：871514）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%B6%88%E9%98%B2%E8%BD%A6%E9%98%9F%E5%B7%B2%E5%9C%A8%E8%8E%B2%E5%A1%98%E5%8F%A3%E5%B2%B8%E9%9B%86%E7%BB%93%23" target="weibo">
-深圳消防车队已在莲塘口岸集结（热度：864842）
 </a>
 </li>
 
@@ -4809,6 +4809,12 @@ INFP 灵感爆发型选手（热度：153413）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%81%B6%E9%81%87%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E9%80%9B%E8%A1%97%23" target="weibo">
+香港偶遇何猷君奚梦瑶逛街（热度：153129）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AC%A7%E5%86%A0%23" target="weibo">
 欧冠（热度：153104）
 </a>
@@ -5159,12 +5165,6 @@ Faker回应S赛BO5面对LPL全胜（热度：139990）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%A7%A5%E5%A7%A5%E6%A2%B3%E6%88%90%E7%98%A6%E7%8C%AB%23" target="weibo">
 被姥姥梳成瘦猫（热度：139229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%81%B6%E9%81%87%E4%BD%95%E7%8C%B7%E5%90%9B%E5%A5%9A%E6%A2%A6%E7%91%B6%E9%80%9B%E8%A1%97%23" target="weibo">
-香港偶遇何猷君奚梦瑶逛街（热度：139028）
 </a>
 </li>
 
@@ -8187,8 +8187,20 @@ G20约堡峰会通过联合宣言（热度：78227）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B7%B2%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E4%BA%8B%E6%95%85%E7%9B%91%E5%AF%9F%E5%8F%8A%E6%94%AF%E6%8F%B4%E4%B8%AD%E5%BF%83%23" target="weibo">
+香港已启动紧急事故监察及支援中心（热度：77732）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E8%AE%AD%E7%BB%83%E8%AF%BE%E5%90%8E%E6%94%BE%E9%A3%9E%E8%87%AA%E6%88%91%23" target="weibo">
 马龙许昕训练课后放飞自我（热度：76958）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E5%BA%94%E5%AF%B9%E5%A4%84%E7%BD%AE%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%23" target="weibo">
+全力支持香港应对处置火灾事故（热度：76540）
 </a>
 </li>
 
@@ -8469,12 +8481,6 @@ G20约堡峰会通过联合宣言（热度：78227）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E5%8A%9B%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E5%BA%94%E5%AF%B9%E5%A4%84%E7%BD%AE%E7%81%AB%E7%81%BE%E4%BA%8B%E6%95%85%23" target="weibo">
-全力支持香港应对处置火灾事故（热度：66031）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E9%80%92%E8%B6%8A%E6%9D%A5%E8%B6%8A%E7%8E%AF%E4%BF%9D%E4%BA%86%23" target="weibo">
 快递越来越环保了（热度：65783）
 </a>
@@ -8729,12 +8735,6 @@ ADSPro不是显眼包胜似显眼包（热度：64189）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%92%93%E5%88%B0108%E5%8F%91%E5%AD%90%E5%BC%B9%E4%BB%A5%E4%B8%BA%E6%98%AF%E5%A4%A7%E9%B1%BC%23" target="weibo">
 男子钓到108发子弹以为是大鱼（热度：56645）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%B7%B2%E5%90%AF%E5%8A%A8%E7%B4%A7%E6%80%A5%E4%BA%8B%E6%95%85%E7%9B%91%E5%AF%9F%E5%8F%8A%E6%94%AF%E6%8F%B4%E4%B8%AD%E5%BF%83%23" target="weibo">
-香港已启动紧急事故监察及支援中心（热度：56471）
 </a>
 </li>
 
@@ -9237,6 +9237,12 @@ CBA新增10分钟潜力赛（热度：51176）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%B4%BE%E5%87%BA%E5%BF%83%E7%90%86%E5%AD%A6%E5%AE%B6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8F%B4%23" target="weibo">
+香港派出心理学家为学生提供支援（热度：38763）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%822014%E5%B9%B4%E6%9D%A5%E5%8F%82%E6%8B%9C%E9%9D%96%E5%9B%BD%E7%A5%9E%E7%A4%BE%E8%B6%8510%E6%AC%A1%23" target="weibo">
 高市2014年来参拜靖国神社超10次（热度：38729）
 </a>
@@ -9245,12 +9251,6 @@ CBA新增10分钟潜力赛（热度：51176）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA2800%E5%85%83%E4%B9%B0%E5%88%B6%E6%B0%A7%E6%9C%BA%E6%94%B6%E5%88%B0%E5%A1%91%E6%96%99%E5%9E%83%E5%9C%BE%23" target="weibo">
 老人2800元买制氧机收到塑料垃圾（热度：38554）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%B4%BE%E5%87%BA%E5%BF%83%E7%90%86%E5%AD%A6%E5%AE%B6%E4%B8%BA%E5%AD%A6%E7%94%9F%E6%8F%90%E4%BE%9B%E6%94%AF%E6%8F%B4%23" target="weibo">
-香港派出心理学家为学生提供支援（热度：38218）
 </a>
 </li>
 
