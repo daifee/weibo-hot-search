@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764140066819,
+  "endTime": 1764142005566,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -41,6 +41,14 @@
       "onboard_time": 1764134781,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1150612,
+      "num": 254201,
+      "word": "汪峰 全家恋爱中",
+      "onboard_time": 1764139642,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1067446,
@@ -89,6 +97,14 @@
       "onboard_time": 1764080002,
       "rank": 10,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 788480,
+      "num": 452915,
+      "word": "王俊凯被立案侦查的标题不能忍",
+      "onboard_time": 1764138500,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 778071,
@@ -171,6 +187,22 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 505142,
+      "num": 227547,
+      "word": "原来全麻手术压根不是睡着了",
+      "onboard_time": 1764139940,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 503240,
+      "num": 227529,
+      "word": "两个刘亦菲仿妆一起跳舞",
+      "onboard_time": 1764140001,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 491331,
       "num": 491331,
       "word": "抽烟这块深圳卫健委越骂越勇",
@@ -209,14 +241,6 @@
       "onboard_time": 1764129922,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 452915,
-      "num": 452915,
-      "word": "王俊凯被立案侦查的标题不能忍",
-      "onboard_time": 1764138500,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 438148,
@@ -499,14 +523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 254201,
-      "num": 254201,
-      "word": "汪峰 全家恋爱中",
-      "onboard_time": 1764139642,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253622,
       "num": 271866,
       "word": "井柏然孙千的吻戏",
@@ -537,6 +553,14 @@
       "onboard_time": 1764136821,
       "rank": 24,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 247268,
+      "num": 227645,
+      "word": "王安宇配音",
+      "onboard_time": 1764141261,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 244859,
@@ -579,6 +603,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229583,
+      "num": 882071,
+      "word": "东契奇一人打一队",
+      "onboard_time": 1764136760,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 216705,
       "num": 179821,
       "word": "老板在员工讨薪次日自杀身亡",
@@ -595,20 +627,20 @@
       "category": "美食"
     },
     {
-      "raw_hot": 213337,
-      "num": 882071,
-      "word": "东契奇一人打一队",
-      "onboard_time": 1764136760,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 207854,
       "num": 207854,
       "word": "罗永浩怒怼华与华创始人",
       "onboard_time": 1764127701,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 202929,
+      "num": 202929,
+      "word": "湖人战胜快船",
+      "onboard_time": 1764141501,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 200609,
@@ -640,6 +672,14 @@
       "word": "六旬老人连做14个单杠大回环心梗离世",
       "onboard_time": 1764086600,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197237,
+      "num": 197237,
+      "word": "上海地铁回应外国人在车厢内吃馅饼",
+      "onboard_time": 1764140361,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -755,6 +795,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 170819,
+      "num": 170819,
+      "word": "郭富城也可以领老年卡了",
+      "onboard_time": 1764141441,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170149,
       "num": 222373,
       "word": "狙击蝴蝶定档",
@@ -811,6 +859,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 161467,
+      "num": 161467,
+      "word": "华与华创始人称西贝被算计",
+      "onboard_time": 1764129260,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160194,
       "num": 160194,
       "word": "难怪大人们都喜欢大方的小孩",
@@ -827,12 +883,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158682,
+      "num": 173465,
+      "word": "短剧演员演长剧从从容容游刃有余",
+      "onboard_time": 1764139642,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158107,
       "num": 194012,
       "word": "日本餐厅老板称中国客人几乎消失了",
       "onboard_time": 1764137901,
       "rank": 23,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157893,
+      "num": 157893,
+      "word": "痞幼素颜状态",
+      "onboard_time": 1764138561,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 157408,
@@ -859,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 154603,
+      "num": 154603,
+      "word": "女生开车两年的变化",
+      "onboard_time": 1764140780,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 153890,
       "num": 258354,
       "word": "别干工作干到没家庭没朋友",
@@ -873,6 +953,14 @@
       "onboard_time": 1764113600,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151961,
+      "num": 151961,
+      "word": "李施嬅妈妈劝女儿退圈",
+      "onboard_time": 1764141560,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 150895,
@@ -931,14 +1019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 143191,
-      "num": 143191,
-      "word": "短剧演员演长剧从从容容游刃有余",
-      "onboard_time": 1764139642,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142149,
       "num": 152023,
       "word": "第一个说地枭头是开心果的是天才",
@@ -971,20 +1051,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137043,
+      "num": 137043,
+      "word": "句号就这样看着你",
+      "onboard_time": 1764141560,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136080,
       "num": 217792,
       "word": "狙击蝴蝶",
       "onboard_time": 1764133223,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136001,
-      "num": 136001,
-      "word": "痞幼素颜状态",
-      "onboard_time": 1764138561,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 135818,
@@ -1083,14 +1163,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 128020,
-      "num": 128020,
-      "word": "华与华创始人称西贝被算计",
-      "onboard_time": 1764129260,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 127298,
       "num": 127298,
       "word": "枭起青壤 不会带团队只能干到死",
@@ -1137,6 +1209,14 @@
       "onboard_time": 1764126680,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "蔡磊回应被传只剩3到5年生命",
+      "onboard_time": 1764141741,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123446,
@@ -1187,14 +1267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119751,
-      "num": 119751,
-      "word": "原来全麻手术压根不是睡着了",
-      "onboard_time": 1764139940,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119631,
       "num": 119631,
       "word": "流感H3N2毒株来袭儿童如何应对",
@@ -1225,6 +1297,14 @@
       "onboard_time": 1764130941,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 116362,
+      "num": 116362,
+      "word": "中国军号发布导弹起竖",
+      "onboard_time": 1764141861,
+      "rank": 45,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 114109,
@@ -1289,14 +1369,6 @@
       "onboard_time": 1764083122,
       "rank": 32,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 106335,
-      "num": 106335,
-      "word": "两个刘亦菲仿妆一起跳舞",
-      "onboard_time": 1764140001,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 106169,
@@ -1675,6 +1747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50321,
+      "num": 112144,
+      "word": "别再分不清楚流感和感冒了",
+      "onboard_time": 1764141141,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 49876,
       "num": 49876,
       "word": "日方刻意回避中方要求收回错误言论",
@@ -1697,6 +1777,22 @@
       "onboard_time": 1764064822,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44910,
+      "num": 130131,
+      "word": "娃中招流感抗病毒药怎么选",
+      "onboard_time": 1764140720,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44890,
+      "num": 112427,
+      "word": "常州一商场楼顶惊现诡异人头雕像",
+      "onboard_time": 1764140481,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43773,
@@ -1747,12 +1843,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 38549,
+      "num": 227490,
+      "word": "婚前同居认定属家庭成员不该被误解",
+      "onboard_time": 1764141560,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36138,
       "num": 121659,
       "word": "央视调查天价抗癌针真相",
       "onboard_time": 1764082463,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35958,
+      "num": 145659,
+      "word": "泰国遭遇300年来最严重洪灾",
+      "onboard_time": 1764141682,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 34447,
@@ -1793,6 +1905,14 @@
       "onboard_time": 1764104593,
       "rank": 40,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 28579,
+      "num": 143753,
+      "word": "严浩翔出场这段神来的吧",
+      "onboard_time": 1764141381,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 27880,
@@ -1921,6 +2041,14 @@
       "onboard_time": 1764099433,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11715,
+      "num": 143914,
+      "word": "国乒U19女团都哭了",
+      "onboard_time": 1764141141,
+      "rank": 38,
+      "category": "体育"
     }
   ],
   "hotgov_list": [

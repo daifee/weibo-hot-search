@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764140066819,
+  "endTime": 1764142005566,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -225,6 +225,14 @@
       "onboard_time": 1764038660,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 1150612,
+      "num": 254201,
+      "word": "汪峰 全家恋爱中",
+      "onboard_time": 1764139642,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 1124734,
@@ -577,6 +585,14 @@
       "onboard_time": 1764045563,
       "rank": 1,
       "category": "数码"
+    },
+    {
+      "raw_hot": 788480,
+      "num": 452915,
+      "word": "王俊凯被立案侦查的标题不能忍",
+      "onboard_time": 1764138500,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 788182,
@@ -1211,12 +1227,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 505142,
+      "num": 227547,
+      "word": "原来全麻手术压根不是睡着了",
+      "onboard_time": 1764139940,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 504391,
       "num": 428892,
       "word": "陈哲远 最近网上的事不要担心",
       "onboard_time": 1763876601,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 503240,
+      "num": 227529,
+      "word": "两个刘亦菲仿妆一起跳舞",
+      "onboard_time": 1764140001,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 497516,
@@ -1457,14 +1489,6 @@
       "onboard_time": 1764045744,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 452915,
-      "num": 452915,
-      "word": "王俊凯被立案侦查的标题不能忍",
-      "onboard_time": 1764138500,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 451805,
@@ -2947,14 +2971,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 254201,
-      "num": 254201,
-      "word": "汪峰 全家恋爱中",
-      "onboard_time": 1764139642,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 254114,
       "num": 254114,
       "word": "九尾官宣自由人",
@@ -3081,6 +3097,14 @@
       "onboard_time": 1764043461,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 247268,
+      "num": 227645,
+      "word": "王安宇配音",
+      "onboard_time": 1764141261,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 246959,
@@ -3315,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229583,
+      "num": 882071,
+      "word": "东契奇一人打一队",
+      "onboard_time": 1764136760,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 229039,
       "num": 229039,
       "word": "男子杀妻后将尸体强行折叠塞行李箱",
@@ -3539,14 +3571,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213337,
-      "num": 882071,
-      "word": "东契奇一人打一队",
-      "onboard_time": 1764136760,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 213252,
       "num": 213252,
       "word": "张峻豪工作人员偷拍艺人换衣服给粉丝",
@@ -3715,6 +3739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202929,
+      "num": 202929,
+      "word": "湖人战胜快船",
+      "onboard_time": 1764141501,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 202598,
       "num": 199433,
       "word": "刘耀文喊粉丝们多拍神图",
@@ -3881,6 +3913,14 @@
       "onboard_time": 1764048262,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197237,
+      "num": 197237,
+      "word": "上海地铁回应外国人在车厢内吃馅饼",
+      "onboard_time": 1764140361,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197011,
@@ -4707,6 +4747,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 170819,
+      "num": 170819,
+      "word": "郭富城也可以领老年卡了",
+      "onboard_time": 1764141441,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 170735,
       "num": 170735,
       "word": "冬天穿出氛围感还得靠大衣",
@@ -5067,6 +5115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 161467,
+      "num": 161467,
+      "word": "华与华创始人称西贝被算计",
+      "onboard_time": 1764129260,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 160976,
       "num": 321962,
       "word": "狂野时代 讲的是什么",
@@ -5147,6 +5203,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 158682,
+      "num": 173465,
+      "word": "短剧演员演长剧从从容容游刃有余",
+      "onboard_time": 1764139642,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158478,
       "num": 158478,
       "word": "杨瀚森拉架",
@@ -5169,6 +5233,14 @@
       "onboard_time": 1764043521,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 157893,
+      "num": 157893,
+      "word": "痞幼素颜状态",
+      "onboard_time": 1764138561,
+      "rank": 37,
+      "category": "网红"
     },
     {
       "raw_hot": 157676,
@@ -5275,6 +5347,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 154603,
+      "num": 154603,
+      "word": "女生开车两年的变化",
+      "onboard_time": 1764140780,
+      "rank": 33,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 154505,
       "num": 154505,
       "word": "当你有个不扫兴的家庭",
@@ -5377,6 +5457,14 @@
       "onboard_time": 1763882240,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 151961,
+      "num": 151961,
+      "word": "李施嬅妈妈劝女儿退圈",
+      "onboard_time": 1764141560,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 151621,
@@ -5617,14 +5705,6 @@
       "onboard_time": 1764132083,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 143191,
-      "num": 143191,
-      "word": "短剧演员演长剧从从容容游刃有余",
-      "onboard_time": 1764139642,
-      "rank": 27,
-      "category": "综艺"
     },
     {
       "raw_hot": 142916,
@@ -5907,6 +5987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 137043,
+      "num": 137043,
+      "word": "句号就这样看着你",
+      "onboard_time": 1764141560,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 136845,
       "num": 791573,
       "word": "A股迎反攻",
@@ -5929,14 +6017,6 @@
       "onboard_time": 1764133223,
       "rank": 27,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 136001,
-      "num": 136001,
-      "word": "痞幼素颜状态",
-      "onboard_time": 1764138561,
-      "rank": 37,
-      "category": "网红"
     },
     {
       "raw_hot": 135979,
@@ -6355,14 +6435,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 128020,
-      "num": 128020,
-      "word": "华与华创始人称西贝被算计",
-      "onboard_time": 1764129260,
-      "rank": 46,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 128004,
       "num": 128004,
       "word": "少买处于中间地带的衣服",
@@ -6569,6 +6641,14 @@
       "onboard_time": 1764055402,
       "rank": 43,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 123487,
+      "num": 123487,
+      "word": "蔡磊回应被传只剩3到5年生命",
+      "onboard_time": 1764141741,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123446,
@@ -6787,14 +6867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 119751,
-      "num": 119751,
-      "word": "原来全麻手术压根不是睡着了",
-      "onboard_time": 1764139940,
-      "rank": 45,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 119631,
       "num": 119631,
       "word": "流感H3N2毒株来袭儿童如何应对",
@@ -7009,6 +7081,14 @@
       "onboard_time": 1764130941,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 116362,
+      "num": 116362,
+      "word": "中国军号发布导弹起竖",
+      "onboard_time": 1764141861,
+      "rank": 45,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 116253,
@@ -7729,14 +7809,6 @@
       "onboard_time": 1763979501,
       "rank": 41,
       "category": "教育"
-    },
-    {
-      "raw_hot": 106335,
-      "num": 106335,
-      "word": "两个刘亦菲仿妆一起跳舞",
-      "onboard_time": 1764140001,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 106169,
@@ -10259,6 +10331,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50321,
+      "num": 112144,
+      "word": "别再分不清楚流感和感冒了",
+      "onboard_time": 1764141141,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 50190,
       "num": 99955,
       "word": "文韬这么多年来话最多的一次",
@@ -10385,6 +10465,22 @@
       "onboard_time": 1763872340,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 44910,
+      "num": 130131,
+      "word": "娃中招流感抗病毒药怎么选",
+      "onboard_time": 1764140720,
+      "rank": 42,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 44890,
+      "num": 112427,
+      "word": "常州一商场楼顶惊现诡异人头雕像",
+      "onboard_time": 1764140481,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44572,
@@ -10627,6 +10723,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 38549,
+      "num": 227490,
+      "word": "婚前同居认定属家庭成员不该被误解",
+      "onboard_time": 1764141560,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37675,
       "num": 246117,
       "word": "超级猩猩回应闭店潮",
@@ -10689,6 +10793,14 @@
       "onboard_time": 1763983401,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 35958,
+      "num": 145659,
+      "word": "泰国遭遇300年来最严重洪灾",
+      "onboard_time": 1764141682,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 35880,
@@ -10969,6 +11081,14 @@
       "onboard_time": 1763822782,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 28579,
+      "num": 143753,
+      "word": "严浩翔出场这段神来的吧",
+      "onboard_time": 1764141381,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 28323,
@@ -11649,6 +11769,14 @@
       "onboard_time": 1764015673,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 11715,
+      "num": 143914,
+      "word": "国乒U19女团都哭了",
+      "onboard_time": 1764141141,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 11481,

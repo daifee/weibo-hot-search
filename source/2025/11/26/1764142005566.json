@@ -1,0 +1,410 @@
+{
+  "runTime": 1764142005566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1042701,
+        "num": 1166832,
+        "word": "高市早苗现在尴尬了",
+        "onboard_time": 1764134781,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 229583,
+        "num": 229583,
+        "word": "东契奇一人打一队",
+        "onboard_time": 1764136760,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34483,
+        "num": 229407,
+        "word": "中国航天见证中国速度",
+        "onboard_time": 1764129922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 614729,
+        "num": 229109,
+        "word": "疯狂动物城2首批观众反馈",
+        "onboard_time": 1764136700,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 538723,
+        "num": 228858,
+        "word": "婚前同居认定属于家庭成员",
+        "onboard_time": 1764096795,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 565281,
+        "num": 228679,
+        "word": "罗永浩 华杉",
+        "onboard_time": 1764131182,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 332187,
+        "num": 228363,
+        "word": "日本的战争准备正全面铺开",
+        "onboard_time": 1764124280,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 417422,
+        "num": 227945,
+        "word": "罗永浩 录音",
+        "onboard_time": 1764125901,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 247268,
+        "num": 227645,
+        "word": "王安宇配音",
+        "onboard_time": 1764141261,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 227568,
+        "num": 227568,
+        "word": "预备役人员证要来了",
+        "onboard_time": 1764134421,
+        "rank": 9,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 788480,
+        "num": 227560,
+        "word": "王俊凯被立案侦查的标题不能忍",
+        "onboard_time": 1764138500,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 738138,
+        "num": 227551,
+        "word": "同居 重婚",
+        "onboard_time": 1764132682,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 505142,
+        "num": 227547,
+        "word": "原来全麻手术压根不是睡着了",
+        "onboard_time": 1764139940,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 503240,
+        "num": 227529,
+        "word": "两个刘亦菲仿妆一起跳舞",
+        "onboard_time": 1764140001,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 342948,
+        "num": 227528,
+        "word": "印度人疑似在上海地铁分享手抓饭",
+        "onboard_time": 1764131722,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 311479,
+        "num": 227514,
+        "word": "同居",
+        "onboard_time": 1764136042,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263074,
+        "num": 227509,
+        "word": "迪迪不畏cos贝微微",
+        "onboard_time": 1764135741,
+        "rank": 16,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 38549,
+        "num": 227490,
+        "word": "婚前同居认定属家庭成员不该被误解",
+        "onboard_time": 1764141560,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 33641,
+        "num": 227486,
+        "word": "张杰演唱会第一视角",
+        "onboard_time": 1764138800,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 227480,
+        "num": 227480,
+        "word": "娶了高圆圆 搂了易烊千玺",
+        "onboard_time": 1764130883,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1150612,
+        "num": 222932,
+        "word": "汪峰 全家恋爱中",
+        "onboard_time": 1764139642,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 984095,
+        "num": 220527,
+        "word": "罗志祥经纪人晒亲子鉴定",
+        "onboard_time": 1764128721,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203756,
+        "num": 203756,
+        "word": "董宇辉怒斥别再送钱了",
+        "onboard_time": 1764136821,
+        "rank": 22,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 202929,
+        "num": 202929,
+        "word": "湖人战胜快船",
+        "onboard_time": 1764141501,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201746,
+        "num": 201746,
+        "word": "罗永浩怒怼华与华创始人",
+        "onboard_time": 1764127701,
+        "rank": 24,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 197237,
+        "num": 197237,
+        "word": "上海地铁回应外国人在车厢内吃馅饼",
+        "onboard_time": 1764140361,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194940,
+        "num": 194940,
+        "word": "巨型吊牌一个月卖出近百万个",
+        "onboard_time": 1764130642,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185659,
+        "num": 185659,
+        "word": "徐艺洋这套造型比婚纱好看",
+        "onboard_time": 1764129922,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177489,
+        "num": 177489,
+        "word": "岳云鹏夫妇公司欠税14万被公告",
+        "onboard_time": 1764128541,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158682,
+        "num": 173465,
+        "word": "短剧演员演长剧从从容容游刃有余",
+        "onboard_time": 1764139642,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170819,
+        "num": 170819,
+        "word": "郭富城也可以领老年卡了",
+        "onboard_time": 1764141441,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161467,
+        "num": 161467,
+        "word": "华与华创始人称西贝被算计",
+        "onboard_time": 1764129260,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157893,
+        "num": 157893,
+        "word": "痞幼素颜状态",
+        "onboard_time": 1764138561,
+        "rank": 32,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 154603,
+        "num": 154603,
+        "word": "女生开车两年的变化",
+        "onboard_time": 1764140780,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 153149,
+        "num": 153149,
+        "word": "疯狂动物城",
+        "onboard_time": 1764135322,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 151961,
+        "num": 151961,
+        "word": "李施嬅妈妈劝女儿退圈",
+        "onboard_time": 1764141560,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150604,
+        "num": 150604,
+        "word": "敖瑞鹏终于杀回现偶了",
+        "onboard_time": 1764138500,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 35958,
+        "num": 145659,
+        "word": "泰国遭遇300年来最严重洪灾",
+        "onboard_time": 1764141682,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 11715,
+        "num": 143914,
+        "word": "国乒U19女团都哭了",
+        "onboard_time": 1764141141,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28579,
+        "num": 143753,
+        "word": "严浩翔出场这段神来的吧",
+        "onboard_time": 1764141381,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 143722,
+        "num": 143722,
+        "word": "西安交大第一附属医院情况通报",
+        "onboard_time": 1764133161,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137043,
+        "num": 137043,
+        "word": "句号就这样看着你",
+        "onboard_time": 1764141560,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 44910,
+        "num": 130131,
+        "word": "娃中招流感抗病毒药怎么选",
+        "onboard_time": 1764140720,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124692,
+        "num": 124692,
+        "word": "日本餐厅老板称中国客人几乎消失了",
+        "onboard_time": 1764137901,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 123487,
+        "num": 123487,
+        "word": "蔡磊回应被传只剩3到5年生命",
+        "onboard_time": 1764141741,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116362,
+        "num": 116362,
+        "word": "中国军号发布导弹起竖",
+        "onboard_time": 1764141861,
+        "rank": 45,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 104286,
+        "num": 114067,
+        "word": "盖瑞一条蛇",
+        "onboard_time": 1764130221,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 44890,
+        "num": 112427,
+        "word": "常州一商场楼顶惊现诡异人头雕像",
+        "onboard_time": 1764140481,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50321,
+        "num": 112144,
+        "word": "别再分不清楚流感和感冒了",
+        "onboard_time": 1764141141,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111900,
+        "num": 111900,
+        "word": "日本民众排队数小时送别大熊猫",
+        "onboard_time": 1764130043,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和汤加两国友好源远流长#"
+    }
+  }
+}
