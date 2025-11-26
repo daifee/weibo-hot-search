@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 15:26:45
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 15:40:50
 </p>
 </blockquote>
 <p>
@@ -3357,6 +3357,12 @@ hi6收视新高（热度：736437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E5%85%A8%E9%BA%BB%E6%89%8B%E6%9C%AF%E5%8E%8B%E6%A0%B9%E4%B8%8D%E6%98%AF%E7%9D%A1%E7%9D%80%E4%BA%86%23" target="weibo">
+原来全麻手术压根不是睡着了（热度：733320）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23AG%E5%A5%96%E9%87%91%23" target="weibo">
 AG奖金（热度：731496）
 </a>
@@ -6005,12 +6011,6 @@ HLE宣布Viper离队（热度：532079）
 <li>
 <a href="https://s.weibo.com/weibo?q=%235%E6%9C%88%E9%BE%84%E6%97%A9%E4%BA%A7%E5%A5%B3%E5%A9%B4%E5%BF%83%E8%84%8F%E6%89%8B%E6%9C%AF%E6%9C%9F%E9%97%B4%E7%A6%BB%E4%B8%96%23" target="weibo">
 5月龄早产女婴心脏手术期间离世（热度：531875）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23T1%E5%AE%98%E5%AE%A3Peyz%E5%8A%A0%E5%85%A5%23" target="weibo">
-T1官宣Peyz加入（热度：531624）
 </a>
 </li>
 
