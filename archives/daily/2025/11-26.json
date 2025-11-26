@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764162723876,
+  "endTime": 1764164443522,
   "band_list": [
     {
       "raw_hot": 16508761,
@@ -73,6 +73,14 @@
       "onboard_time": 1764150682,
       "rank": 6,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1575016,
+      "num": 1575016,
+      "word": "香港火灾附近住户发声",
+      "onboard_time": 1764158902,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1574774,
@@ -187,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 785443,
-      "num": 506211,
-      "word": "香港火灾附近住户发声",
-      "onboard_time": 1764158902,
-      "rank": 4,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 783275,
       "num": 783275,
       "word": "巨蛇在泰国洪水中游动",
@@ -225,6 +225,14 @@
       "onboard_time": 1764139940,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 727817,
+      "num": 440775,
+      "word": "香港殉职消防员终年37岁",
+      "onboard_time": 1764162564,
+      "rank": 31,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 709127,
@@ -299,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 627725,
+      "num": 320118,
+      "word": "五月龄离世女婴由法医刘良尸检",
+      "onboard_time": 1764161185,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 615290,
       "num": 615290,
       "word": "2名台胞在日本街头被打成重伤",
@@ -313,6 +329,14 @@
       "onboard_time": 1764153321,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 601587,
+      "num": 293774,
+      "word": "竹脚手架",
+      "onboard_time": 1764160163,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 600005,
@@ -425,14 +449,6 @@
       "onboard_time": 1764136042,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 463549,
-      "num": 293774,
-      "word": "竹脚手架",
-      "onboard_time": 1764160163,
-      "rank": 25,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 461739,
@@ -579,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 367585,
+      "num": 333502,
+      "word": "香港大埔火灾李家超发文",
+      "onboard_time": 1764158482,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 366739,
       "num": 366739,
       "word": "腾讯把枭起青壤限免了",
@@ -651,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336286,
+      "num": 336286,
+      "word": "大麦我票呢",
+      "onboard_time": 1764162564,
+      "rank": 6,
+      "category": "演出"
+    },
+    {
       "raw_hot": 330039,
       "num": 307417,
       "word": "林俊杰 七七",
@@ -699,6 +731,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 311415,
+      "num": 311415,
+      "word": "李威妻子出庭痛哭自责没救死者",
+      "onboard_time": 1764163706,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304538,
       "num": 853102,
       "word": "弦子一问李茂眼泪就绷不住了",
@@ -707,12 +747,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 301039,
-      "num": 301039,
-      "word": "香港大埔火灾李家超发文",
-      "onboard_time": 1764158482,
-      "rank": 24,
-      "category": "突发/灾害"
+      "raw_hot": 302031,
+      "num": 224133,
+      "word": "香港商场草墙起火系烟头引发",
+      "onboard_time": 1764162023,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 298946,
@@ -779,14 +819,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 277217,
-      "num": 277217,
-      "word": "五月龄离世女婴由法医刘良尸检",
-      "onboard_time": 1764161185,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 276759,
       "num": 132611,
       "word": "流感高峰时间已确定",
@@ -817,6 +849,14 @@
       "onboard_time": 1764079823,
       "rank": 23,
       "category": "网红"
+    },
+    {
+      "raw_hot": 267204,
+      "num": 267204,
+      "word": "宁波女婴手术离世家属委托异地尸检",
+      "onboard_time": 1764159085,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 266802,
@@ -947,14 +987,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 248439,
-      "num": 248439,
-      "word": "宁波女婴手术离世家属委托异地尸检",
-      "onboard_time": 1764159085,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 247437,
       "num": 239732,
       "word": "董宇辉怒斥别再送钱了",
@@ -1051,6 +1083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 224431,
+      "num": 206391,
+      "word": "香港已有数百名居民登记家属失联",
+      "onboard_time": 1764160703,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 223641,
       "num": 223641,
       "word": "Angelababy经纪人与李安聚餐",
@@ -1105,6 +1145,14 @@
       "onboard_time": 1764149661,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 208318,
+      "num": 208318,
+      "word": "杨幂 Prada",
+      "onboard_time": 1764164365,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 205824,
@@ -1187,6 +1235,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 196349,
+      "num": 203962,
+      "word": "怪奇物语",
+      "onboard_time": 1764143902,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196183,
+      "num": 174773,
+      "word": "香港火灾大楼楼龄已有42年",
+      "onboard_time": 1764163886,
+      "rank": 35,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 195757,
       "num": 195757,
       "word": "把自己穿成三明治真的不会冷",
@@ -1241,6 +1305,14 @@
       "onboard_time": 1764150623,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190416,
+      "num": 190416,
+      "word": "这5种主食真的不建议常吃",
+      "onboard_time": 1764162504,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 188850,
@@ -1353,6 +1425,14 @@
       "onboard_time": 1764153982,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 177360,
+      "num": 177360,
+      "word": "反诈老陈近3年收入100万",
+      "onboard_time": 1764163706,
+      "rank": 34,
+      "category": "网红"
     },
     {
       "raw_hot": 177000,
@@ -1691,14 +1771,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142758,
-      "num": 161227,
-      "word": "香港殉职消防员终年37岁",
-      "onboard_time": 1764162564,
-      "rank": 31,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 142311,
       "num": 142311,
       "word": "韦雪前男友半年瘦了20斤",
@@ -1737,14 +1809,6 @@
       "onboard_time": 1764144140,
       "rank": 40,
       "category": "财经"
-    },
-    {
-      "raw_hot": 137633,
-      "num": 163659,
-      "word": "香港已有数百名居民登记家属失联",
-      "onboard_time": 1764160703,
-      "rank": 38,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 137561,
@@ -1787,19 +1851,19 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 136924,
-      "num": 136924,
-      "word": "这5种主食真的不建议常吃",
-      "onboard_time": 1764162504,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 136870,
       "num": 256463,
       "word": "香港火灾救援现场",
       "onboard_time": 1764160825,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136389,
+      "num": 125360,
+      "word": "香港大埔开放临时庇护中心",
+      "onboard_time": 1764162624,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -1825,14 +1889,6 @@
       "onboard_time": 1764139280,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135316,
-      "num": 160527,
-      "word": "香港商场草墙起火系烟头引发",
-      "onboard_time": 1764162023,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 134812,
@@ -1979,14 +2035,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 125360,
-      "num": 125360,
-      "word": "香港大埔开放临时庇护中心",
-      "onboard_time": 1764162624,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 124922,
       "num": 124922,
       "word": "胡彦斌锐评梁淞头巾事件",
@@ -2017,6 +2065,14 @@
       "onboard_time": 1764148642,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 124411,
+      "num": 334158,
+      "word": "王者荣耀考行测",
+      "onboard_time": 1764162804,
+      "rank": 7,
+      "category": "游戏"
     },
     {
       "raw_hot": 123591,
@@ -2064,14 +2120,6 @@
       "word": "迪丽热巴 枭完你的枭你的",
       "onboard_time": 1764069441,
       "rank": 19,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 122506,
-      "num": 182614,
-      "word": "怪奇物语",
-      "onboard_time": 1764143902,
-      "rank": 28,
       "category": "剧集"
     },
     {
@@ -2259,6 +2307,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106891,
+      "num": 106891,
+      "word": "名侦探柯南",
+      "onboard_time": 1764164065,
+      "rank": 46,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 106783,
       "num": 121858,
       "word": "西方媒体质疑高市早苗",
@@ -2281,6 +2337,14 @@
       "onboard_time": 1764118822,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105258,
+      "num": 105258,
+      "word": "Doinb和Ning训练赛复盘",
+      "onboard_time": 1764163644,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 104962,
@@ -2361,6 +2425,14 @@
       "onboard_time": 1764060201,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 97607,
+      "num": 97607,
+      "word": "香港火灾消防处称仍在救援",
+      "onboard_time": 1764164184,
+      "rank": 48,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 97418,
@@ -2635,6 +2707,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 69808,
+      "num": 486881,
+      "word": "长春成功申办2027世界大冬会",
+      "onboard_time": 1764162325,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 69295,
       "num": 121786,
       "word": "20岁小苹果身高已超1米7",
@@ -2857,14 +2937,6 @@
       "onboard_time": 1764141560,
       "rank": 17,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51319,
-      "num": 486881,
-      "word": "长春成功申办2027世界大冬会",
-      "onboard_time": 1764162325,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 51273,
