@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764199552845,
+  "endTime": 1764200328178,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -275,6 +275,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 1257532,
+      "num": 715939,
+      "word": "香港火灾疑似起火点曝光",
+      "onboard_time": 1764167125,
+      "rank": 48,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1250131,
       "num": 1250131,
       "word": "高市早苗现在尴尬了",
@@ -305,14 +313,6 @@
       "onboard_time": 1764151642,
       "rank": 11,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1211935,
-      "num": 715939,
-      "word": "香港火灾疑似起火点曝光",
-      "onboard_time": 1764167125,
-      "rank": 48,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1208862,
@@ -651,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 843198,
+      "num": 843198,
+      "word": "多名旅日中国公民遭殴打受伤",
+      "onboard_time": 1764196097,
+      "rank": 6,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 841871,
       "num": 414809,
       "word": "沈月大大方方地瞒住了所有人",
@@ -873,14 +881,6 @@
       "onboard_time": 1764168445,
       "rank": 12,
       "category": "艺人,民生新闻"
-    },
-    {
-      "raw_hot": 726027,
-      "num": 180535,
-      "word": "多名旅日中国公民遭殴打受伤",
-      "onboard_time": 1764196097,
-      "rank": 6,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 725800,
@@ -1635,6 +1635,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 486316,
+      "num": 717335,
+      "word": "法医刘良全程参与手术离世女婴尸检",
+      "onboard_time": 1764171624,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 483874,
       "num": 483874,
       "word": "岳云鹏夫妇公司欠税14万被公告",
@@ -2041,14 +2049,6 @@
       "onboard_time": 1763997682,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 412821,
-      "num": 717335,
-      "word": "法医刘良全程参与手术离世女婴尸检",
-      "onboard_time": 1764171624,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 412344,
@@ -2867,6 +2867,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 313758,
+      "num": 313758,
+      "word": "众星为香港火灾受灾民众祈福",
+      "onboard_time": 1764198440,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 312274,
       "num": 1001290,
       "word": "盖瑞一条蛇",
@@ -3081,6 +3089,14 @@
       "onboard_time": 1764069441,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 294476,
+      "num": 294476,
+      "word": "童锦程的空闲房子被陌生人住进去了",
+      "onboard_time": 1764180376,
+      "rank": 17,
+      "category": "网红"
     },
     {
       "raw_hot": 294149,
@@ -3305,6 +3321,14 @@
       "onboard_time": 1764039681,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 274852,
+      "num": 482651,
+      "word": "李诞劝女生不要找年纪太大的",
+      "onboard_time": 1764168445,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 273998,
@@ -3883,14 +3907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 236019,
-      "num": 278430,
-      "word": "童锦程的空闲房子被陌生人住进去了",
-      "onboard_time": 1764180376,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 235694,
       "num": 274205,
       "word": "台拟放宽近亲结婚引争议",
@@ -3969,14 +3985,6 @@
       "onboard_time": 1763996541,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 232264,
-      "num": 482651,
-      "word": "李诞劝女生不要找年纪太大的",
-      "onboard_time": 1764168445,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 231753,
@@ -4065,6 +4073,14 @@
       "onboard_time": 1763988802,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 227788,
+      "num": 227788,
+      "word": "许家印前妻丁玉梅更多资产曝光",
+      "onboard_time": 1764198859,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 226776,
@@ -4764,7 +4780,7 @@
     },
     {
       "raw_hot": 195412,
-      "num": 195412,
+      "num": 1959354,
       "word": "阿森纳3比1拜仁慕尼黑",
       "onboard_time": 1764198979,
       "rank": 1,
@@ -4801,6 +4817,14 @@
       "onboard_time": 1764157162,
       "rank": 7,
       "category": "演出"
+    },
+    {
+      "raw_hot": 194058,
+      "num": 409075,
+      "word": "再次提醒中国公民近期避免前往日本",
+      "onboard_time": 1764198499,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 193887,
@@ -4889,6 +4913,14 @@
       "onboard_time": 1764138861,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 191630,
+      "num": 482778,
+      "word": "医生称长期少量喝酒等于慢性自杀",
+      "onboard_time": 1764169404,
+      "rank": 35,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 191402,
@@ -5492,7 +5524,7 @@
     },
     {
       "raw_hot": 175821,
-      "num": 647512,
+      "num": 880416,
       "word": "香蜜沉沉烬如霜火了又火",
       "onboard_time": 1764168568,
       "rank": 28,
@@ -5617,14 +5649,6 @@
       "onboard_time": 1763866040,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 172049,
-      "num": 482778,
-      "word": "医生称长期少量喝酒等于慢性自杀",
-      "onboard_time": 1764169404,
-      "rank": 35,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 171976,
@@ -5929,14 +5953,6 @@
       "onboard_time": 1764041601,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165901,
-      "num": 165901,
-      "word": "众星为香港火灾受灾民众祈福",
-      "onboard_time": 1764198440,
-      "rank": 7,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 164665,
@@ -6539,14 +6555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 150593,
-      "num": 150593,
-      "word": "许家印前妻丁玉梅更多资产曝光",
-      "onboard_time": 1764198859,
-      "rank": 22,
-      "category": "财经"
-    },
-    {
       "raw_hot": 150448,
       "num": 150448,
       "word": "金晨有点心事全写脸上了",
@@ -6963,6 +6971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138345,
+      "num": 482639,
+      "word": "李立群回应三个孩子都没结婚",
+      "onboard_time": 1764168206,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138310,
       "num": 190513,
       "word": "种地吧",
@@ -7171,8 +7187,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135457,
-      "num": 119019,
+      "raw_hot": 135519,
+      "num": 227703,
       "word": "特朗普宣布拜登的火鸡救免令无效",
       "onboard_time": 1764192554,
       "rank": 31,
@@ -7313,6 +7329,14 @@
       "onboard_time": 1764045624,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133081,
+      "num": 227738,
+      "word": "感恩节",
+      "onboard_time": 1764200121,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 132889,
@@ -7803,14 +7827,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124327,
-      "num": 482639,
-      "word": "李立群回应三个孩子都没结婚",
-      "onboard_time": 1764168206,
-      "rank": 47,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123591,
       "num": 4533457,
       "word": "神22一箭穿日",
@@ -7945,14 +7961,6 @@
       "onboard_time": 1764051442,
       "rank": 33,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 121610,
-      "num": 156440,
-      "word": "再次提醒中国公民近期避免前往日本",
-      "onboard_time": 1764198499,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 121570,
@@ -8753,6 +8761,14 @@
       "onboard_time": 1763857699,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110125,
+      "num": 227733,
+      "word": "空腹爬楼瘦了30斤",
+      "onboard_time": 1764199401,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 110043,
@@ -10147,14 +10163,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 92706,
-      "num": 92706,
-      "word": "空腹爬楼瘦了30斤",
-      "onboard_time": 1764199401,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 92607,
       "num": 262886,
       "word": "鸿蒙电脑也是超能大脑",
@@ -10361,6 +10369,14 @@
       "onboard_time": 1763945781,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 89463,
+      "num": 227666,
+      "word": "真的建议普通人也去拍vlog",
+      "onboard_time": 1764194115,
+      "rank": 36,
+      "category": "幽默"
     },
     {
       "raw_hot": 89329,
@@ -10675,6 +10691,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 84995,
+      "num": 374597,
+      "word": "利物浦1比4埃因霍温",
+      "onboard_time": 1764199461,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84923,
       "num": 201167,
       "word": "樊振东12月将出战三场比赛",
@@ -10865,14 +10889,6 @@
       "onboard_time": 1763859680,
       "rank": 37,
       "category": "演出"
-    },
-    {
-      "raw_hot": 80177,
-      "num": 83407,
-      "word": "真的建议普通人也去拍vlog",
-      "onboard_time": 1764194115,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 80149,
@@ -11171,6 +11187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72247,
+      "num": 227639,
+      "word": "Knight回复369",
+      "onboard_time": 1764199642,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 72213,
       "num": 94053,
       "word": "严浩翔solo满脸写着野心",
@@ -11195,6 +11219,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 71336,
+      "num": 227631,
+      "word": "易梦玲10年前私信询问表演培训",
+      "onboard_time": 1764186674,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71137,
       "num": 336203,
       "word": "鸿蒙二合一性能有多强",
@@ -11217,6 +11249,14 @@
       "onboard_time": 1763973620,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 70649,
+      "num": 227623,
+      "word": "谍报上不封顶",
+      "onboard_time": 1764196697,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 70332,
@@ -11265,14 +11305,6 @@
       "onboard_time": 1764088159,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 68748,
-      "num": 120112,
-      "word": "谍报上不封顶",
-      "onboard_time": 1764196697,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 68486,
@@ -11377,6 +11409,14 @@
       "onboard_time": 1764045443,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 65985,
+      "num": 227617,
+      "word": "国外很贵国内很便宜的东西",
+      "onboard_time": 1764194115,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 65783,
@@ -11643,6 +11683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58947,
+      "num": 464421,
+      "word": "张纪中妻子自曝背100多的包",
+      "onboard_time": 1764175879,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 58615,
       "num": 147415,
       "word": "美乌推出更新版和平框架",
@@ -11657,14 +11705,6 @@
       "onboard_time": 1764080604,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 58113,
-      "num": 83300,
-      "word": "国外很贵国内很便宜的东西",
-      "onboard_time": 1764194115,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 57959,
@@ -11721,14 +11761,6 @@
       "onboard_time": 1764002718,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56747,
-      "num": 84810,
-      "word": "易梦玲10年前私信询问表演培训",
-      "onboard_time": 1764186674,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 56645,
@@ -11899,14 +11931,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 52413,
-      "num": 464421,
-      "word": "张纪中妻子自曝背100多的包",
-      "onboard_time": 1764175879,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 52068,
       "num": 103485,
       "word": "尼日利亚一中学315人被绑架",
@@ -11945,14 +11969,6 @@
       "onboard_time": 1763814742,
       "rank": 46,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 51352,
-      "num": 164634,
-      "word": "利物浦1比4埃因霍温",
-      "onboard_time": 1764199461,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 51303,
