@@ -1,26 +1,58 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764113985632,
+  "endTime": 1764122408597,
   "band_list": [
     {
-      "raw_hot": 1738790,
-      "num": 1738790,
+      "raw_hot": 1887369,
+      "num": 1887369,
       "word": "婚前同居认定属于家庭成员",
       "onboard_time": 1764096795,
       "rank": 0,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1513784,
+      "num": 1513784,
+      "word": "特朗普电话后日本沮丧了三次",
+      "onboard_time": 1764120741,
+      "rank": 4,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 906137,
+      "num": 164185,
+      "word": "36岁王俊凯涉嫌非法吸收公众存款被立案侦查",
+      "onboard_time": 1764117141,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 845532,
+      "num": 845532,
+      "word": "特朗普想重启成龙电影尖峰时刻",
+      "onboard_time": 1764119302,
+      "rank": 5,
+      "category": "国际时政,电影"
+    },
+    {
       "raw_hot": 840740,
-      "num": 223118,
+      "num": 464577,
       "word": "仝卓表弟在柬埔寨失联",
       "onboard_time": 1764080002,
       "rank": 10,
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 709127,
+      "num": 163802,
+      "word": "郭富城回应追四胎",
+      "onboard_time": 1764118223,
+      "rank": 21,
+      "category": "电影"
+    },
+    {
       "raw_hot": 695227,
-      "num": 122605,
+      "num": 163387,
       "word": "林俊杰回应恋情",
       "onboard_time": 1764069081,
       "rank": 20,
@@ -35,6 +67,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 600005,
+      "num": 322012,
+      "word": "你不结婚我晚上睡不着",
+      "onboard_time": 1764112398,
+      "rank": 26,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 438148,
+      "num": 1514522,
+      "word": "疯狂动物城2",
+      "onboard_time": 1764114559,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 395601,
       "num": 150273,
       "word": "霸王茶姬为什么半年不出新品了",
@@ -43,8 +91,16 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 366739,
+      "num": 366739,
+      "word": "腾讯把枭起青壤限免了",
+      "onboard_time": 1764117622,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 361260,
-      "num": 132995,
+      "num": 317793,
       "word": "男演员和68岁姐姐拍姐弟恋短剧",
       "onboard_time": 1764091216,
       "rank": 30,
@@ -60,7 +116,7 @@
     },
     {
       "raw_hot": 348522,
-      "num": 122390,
+      "num": 162935,
       "word": "汪峰大女儿超模基因",
       "onboard_time": 1764084560,
       "rank": 22,
@@ -68,7 +124,7 @@
     },
     {
       "raw_hot": 314119,
-      "num": 121934,
+      "num": 161565,
       "word": "女子为肠道蠕动睡前吞20粒蓖麻子",
       "onboard_time": 1764082521,
       "rank": 25,
@@ -81,6 +137,14 @@
       "onboard_time": 1764083423,
       "rank": 12,
       "category": "演出"
+    },
+    {
+      "raw_hot": 290333,
+      "num": 290333,
+      "word": "日本军国主义装都不装了",
+      "onboard_time": 1764118521,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276759,
@@ -99,6 +163,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 274152,
+      "num": 274152,
+      "word": "天津大爷30克金条藏辣酱里",
+      "onboard_time": 1764118403,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 273850,
+      "num": 273850,
+      "word": "驻柬使馆回应仝卓表弟失联",
+      "onboard_time": 1764118161,
+      "rank": 14,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 268037,
       "num": 122249,
       "word": "杜克一哥20w分手费",
@@ -113,6 +193,14 @@
       "onboard_time": 1764086361,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 264043,
+      "num": 162551,
+      "word": "上海电动车出现闭店潮",
+      "onboard_time": 1764118042,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 256336,
@@ -132,7 +220,7 @@
     },
     {
       "raw_hot": 237597,
-      "num": 132276,
+      "num": 139165,
       "word": "山姆上线薛记炒货引争议",
       "onboard_time": 1764085580,
       "rank": 31,
@@ -140,11 +228,43 @@
     },
     {
       "raw_hot": 231175,
-      "num": 131560,
+      "num": 217063,
       "word": "女子离家一年活鱼变鱼刺",
       "onboard_time": 1764113779,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228902,
+      "num": 335100,
+      "word": "iG阵容",
+      "onboard_time": 1764119600,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 221852,
+      "num": 221852,
+      "word": "不二之臣开拍",
+      "onboard_time": 1764122060,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 216705,
+      "num": 162026,
+      "word": "老板在员工讨薪次日自杀身亡",
+      "onboard_time": 1764116901,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 214146,
+      "num": 214146,
+      "word": "疯狂动物城2 好笑",
+      "onboard_time": 1764120380,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 197932,
@@ -153,6 +273,14 @@
       "onboard_time": 1764086600,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 191402,
+      "num": 322981,
+      "word": "英伟达紧急发声",
+      "onboard_time": 1764117201,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 187033,
@@ -177,6 +305,22 @@
       "onboard_time": 1764071002,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 164741,
+      "num": 164741,
+      "word": "尼克朱迪 表白",
+      "onboard_time": 1764121580,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 160194,
+      "num": 160194,
+      "word": "难怪大人们都喜欢大方的小孩",
+      "onboard_time": 1764117861,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 159417,
@@ -211,6 +355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147961,
+      "num": 147961,
+      "word": "花少北",
+      "onboard_time": 1764120380,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 145457,
       "num": 145457,
       "word": "仝卓称表弟已失联12天",
@@ -225,6 +377,14 @@
       "onboard_time": 1764056362,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142212,
+      "num": 1626674,
+      "word": "法考",
+      "onboard_time": 1764118882,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 133611,
@@ -259,8 +419,16 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 128780,
+      "num": 128780,
+      "word": "檀健次 刚子",
+      "onboard_time": 1764121340,
+      "rank": 33,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 126132,
-      "num": 155905,
+      "num": 160608,
       "word": "疯狂动物城2中国影史动画预售票房冠军",
       "onboard_time": 1764083302,
       "rank": 7,
@@ -291,20 +459,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 114819,
-      "num": 114819,
-      "word": "你不结婚我晚上睡不着",
-      "onboard_time": 1764112398,
-      "rank": 26,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 113595,
       "num": 113595,
       "word": "七七多次现身林俊杰演唱会VIP席",
       "onboard_time": 1764099494,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 111224,
+      "num": 111224,
+      "word": "全红婵晒滑雪视频",
+      "onboard_time": 1764121880,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 109921,
@@ -315,12 +483,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 108872,
+      "num": 108872,
+      "word": "王者荣耀",
+      "onboard_time": 1764118701,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106783,
       "num": 121858,
       "word": "西方媒体质疑高市早苗",
       "onboard_time": 1764083122,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104551,
+      "num": 104551,
+      "word": "张峻豪 无语",
+      "onboard_time": 1764121161,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100730,
+      "num": 161235,
+      "word": "120万一针的抗癌针有用吗",
+      "onboard_time": 1764114140,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 99369,
@@ -339,12 +531,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 96111,
+      "num": 96111,
+      "word": "小姑娘走心了小男孩还没过脑",
+      "onboard_time": 1764095835,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95067,
       "num": 121881,
       "word": "枭起青壤热度破27000",
       "onboard_time": 1764080303,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 91833,
+      "num": 91833,
+      "word": "杨紫被抓包在自拍",
+      "onboard_time": 1764118822,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91753,
+      "num": 160196,
+      "word": "解放军报发文",
+      "onboard_time": 1764112699,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 90299,
@@ -363,11 +579,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 84898,
+      "num": 84898,
+      "word": "仝卓表弟曾来电旁边有人提要钱",
+      "onboard_time": 1764117742,
+      "rank": 46,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 84790,
       "num": 121826,
       "word": "泰版步步惊心",
       "onboard_time": 1764072862,
       "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 82929,
+      "num": 82929,
+      "word": "怪奇物语第五季",
+      "onboard_time": 1764121940,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -385,14 +617,6 @@
       "onboard_time": 1764110536,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 76865,
-      "num": 76865,
-      "word": "小姑娘走心了小男孩还没过脑",
-      "onboard_time": 1764095835,
-      "rank": 47,
-      "category": "幽默"
     },
     {
       "raw_hot": 72050,
@@ -417,14 +641,6 @@
       "onboard_time": 1764084023,
       "rank": 36,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 69812,
-      "num": 69812,
-      "word": "解放军报发文",
-      "onboard_time": 1764112699,
-      "rank": 39,
-      "category": "国内时政"
     },
     {
       "raw_hot": 69295,
@@ -515,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 54716,
+      "num": 164377,
+      "word": "银行五折清仓卖房能不能买",
+      "onboard_time": 1764121641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 53940,
       "num": 121733,
       "word": "费尔岛毛衣",
@@ -555,6 +779,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43621,
+      "num": 1524938,
+      "word": "网警查处编造民宿现不明感染源谣言者",
+      "onboard_time": 1764121520,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40458,
       "num": 121688,
       "word": "中彩票后先捐款再交税到手钱更多",
@@ -577,6 +809,14 @@
       "onboard_time": 1764082463,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33773,
+      "num": 80982,
+      "word": "颜人中冷场 林宥嘉救场",
+      "onboard_time": 1764120622,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 33223,
@@ -611,12 +851,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 23498,
+      "num": 104739,
+      "word": "日本退订潮同程被指退费和稀泥",
+      "onboard_time": 1764121701,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 22623,
       "num": 42796,
       "word": "张凌赫张婧仪 豹豹猫猫我睁眼了",
       "onboard_time": 1764094275,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 22570,
+      "num": 104596,
+      "word": "男子误开门被狗撕咬满脸血",
+      "onboard_time": 1764121701,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 22408,
