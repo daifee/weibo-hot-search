@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 13:43:39
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 14:40:53
 </p>
 </blockquote>
 <p>
@@ -2127,6 +2127,12 @@ blue露脸（热度：935788）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%8E%B0%E5%9C%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%23" target="weibo">
+高市早苗现在尴尬了（热度：913099）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23GEN%E5%AF%B9%E6%88%98KT%23" target="weibo">
 GEN对战KT（热度：912806）
 </a>
@@ -2177,12 +2183,6 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 华为发布会（热度：901881）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%8E%B0%E5%9C%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%23" target="weibo">
-高市早苗现在尴尬了（热度：898825）
 </a>
 </li>
 
@@ -4161,6 +4161,12 @@ T1 Peyz（热度：653404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%A6%96%E6%89%B9%E8%A7%82%E4%BC%97%E5%8F%8D%E9%A6%88%23" target="weibo">
+疯狂动物城2首批观众反馈（热度：652929）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%96%9C%E5%AE%9A%E6%A1%A3%23" target="weibo">
 四喜定档（热度：652807）
 </a>
@@ -6005,12 +6011,6 @@ T1官宣Peyz加入（热度：531624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E8%80%85%E6%96%B0%E8%8B%B1%E9%9B%84%E5%A4%A7%E7%A6%B9%23" target="weibo">
 王者新英雄大禹（热度：529208）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%84%9F%E9%AB%98%E7%83%A7%23" target="weibo">
-流感高烧（热度：529114）
 </a>
 </li>
 
