@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764164443522,
+  "endTime": 1764165177694,
   "band_list": [
     {
       "raw_hot": 16508761,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 2663334,
-      "num": 368813,
+      "num": 448958,
       "word": "香港疑似8栋楼目前全在烧",
       "onboard_time": 1764158303,
       "rank": 12,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 2332540,
-      "num": 377461,
+      "num": 450461,
       "word": "站姐涅槃 400万",
       "onboard_time": 1764160042,
       "rank": 11,
@@ -57,6 +57,14 @@
       "onboard_time": 1764096795,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1828697,
+      "num": 1828697,
+      "word": "香港火灾附近住户发声",
+      "onboard_time": 1764158902,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1770985,
@@ -73,14 +81,6 @@
       "onboard_time": 1764150682,
       "rank": 6,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 1575016,
-      "num": 1575016,
-      "word": "香港火灾附近住户发声",
-      "onboard_time": 1764158902,
-      "rank": 4,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1574774,
@@ -121,6 +121,14 @@
       "onboard_time": 1764134781,
       "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1223593,
+      "num": 463868,
+      "word": "香港殉职消防员终年37岁",
+      "onboard_time": 1764162564,
+      "rank": 31,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1217173,
@@ -227,14 +235,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 727817,
-      "num": 440775,
-      "word": "香港殉职消防员终年37岁",
-      "onboard_time": 1764162564,
-      "rank": 31,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 709127,
       "num": 271538,
       "word": "郭富城回应追四胎",
@@ -275,6 +275,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 685200,
+      "num": 447906,
+      "word": "五月龄离世女婴由法医刘良尸检",
+      "onboard_time": 1764161185,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 683458,
       "num": 486848,
       "word": "妈妈生二胎期间5岁儿子在家发烧离世",
@@ -305,14 +313,6 @@
       "onboard_time": 1764147321,
       "rank": 13,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 627725,
-      "num": 320118,
-      "word": "五月龄离世女婴由法医刘良尸检",
-      "onboard_time": 1764161185,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 615290,
@@ -443,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 464905,
+      "num": 1514522,
+      "word": "疯狂动物城2",
+      "onboard_time": 1764114559,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 464430,
       "num": 464430,
       "word": "同居",
@@ -475,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 438148,
-      "num": 1514522,
-      "word": "疯狂动物城2",
-      "onboard_time": 1764114559,
-      "rank": 3,
-      "category": "电影"
+      "raw_hot": 446324,
+      "num": 446324,
+      "word": "杨幂 Prada",
+      "onboard_time": 1764164365,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 436659,
@@ -505,6 +513,14 @@
       "onboard_time": 1764147082,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 417523,
+      "num": 417523,
+      "word": "李威妻子出庭痛哭自责没救死者",
+      "onboard_time": 1764163706,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 416846,
@@ -595,8 +611,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 367585,
-      "num": 333502,
+      "raw_hot": 377861,
+      "num": 457101,
       "word": "香港大埔火灾李家超发文",
       "onboard_time": 1764158482,
       "rank": 24,
@@ -633,6 +649,14 @@
       "onboard_time": 1764130642,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 355934,
+      "num": 460077,
+      "word": "大麦我票呢",
+      "onboard_time": 1764162564,
+      "rank": 6,
+      "category": "演出"
     },
     {
       "raw_hot": 353880,
@@ -675,14 +699,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 336286,
-      "num": 336286,
-      "word": "大麦我票呢",
-      "onboard_time": 1764162564,
-      "rank": 6,
-      "category": "演出"
-    },
-    {
       "raw_hot": 330039,
       "num": 307417,
       "word": "林俊杰 七七",
@@ -691,12 +707,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329119,
+      "num": 317732,
+      "word": "香港商场草墙起火系烟头引发",
+      "onboard_time": 1764162023,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 326224,
       "num": 326224,
       "word": "香港警方回应大埔大火",
       "onboard_time": 1764156563,
       "rank": 40,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 320540,
+      "num": 320540,
+      "word": "宁波女婴手术离世家属委托异地尸检",
+      "onboard_time": 1764159085,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 320141,
@@ -731,28 +763,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 311415,
-      "num": 311415,
-      "word": "李威妻子出庭痛哭自责没救死者",
-      "onboard_time": 1764163706,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 304538,
       "num": 853102,
       "word": "弦子一问李茂眼泪就绷不住了",
       "onboard_time": 1764144262,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 302031,
-      "num": 224133,
-      "word": "香港商场草墙起火系烟头引发",
-      "onboard_time": 1764162023,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 298946,
@@ -843,20 +859,20 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 269765,
+      "num": 269765,
+      "word": "反诈老陈近3年收入100万",
+      "onboard_time": 1764163706,
+      "rank": 34,
+      "category": "网红"
+    },
+    {
       "raw_hot": 268037,
       "num": 122249,
       "word": "杜克一哥20w分手费",
       "onboard_time": 1764079823,
       "rank": 23,
       "category": "网红"
-    },
-    {
-      "raw_hot": 267204,
-      "num": 267204,
-      "word": "宁波女婴手术离世家属委托异地尸检",
-      "onboard_time": 1764159085,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 266802,
@@ -987,6 +1003,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 247980,
+      "num": 179166,
+      "word": "深圳消防",
+      "onboard_time": 1764165085,
+      "rank": 37,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 247437,
       "num": 239732,
       "word": "董宇辉怒斥别再送钱了",
@@ -1067,6 +1091,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 229954,
+      "num": 229954,
+      "word": "香港已有数百名居民登记家属失联",
+      "onboard_time": 1764160703,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 229806,
       "num": 229806,
       "word": "知道乾隆为什么不带夏雨荷进宫了",
@@ -1081,14 +1113,6 @@
       "onboard_time": 1764136760,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 224431,
-      "num": 206391,
-      "word": "香港已有数百名居民登记家属失联",
-      "onboard_time": 1764160703,
-      "rank": 38,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 223641,
@@ -1147,14 +1171,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 208318,
-      "num": 208318,
-      "word": "杨幂 Prada",
-      "onboard_time": 1764164365,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 205824,
       "num": 837132,
       "word": "滔搏官宣JackeyLove续约",
@@ -1193,6 +1209,14 @@
       "onboard_time": 1764141501,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 201265,
+      "num": 201265,
+      "word": "偶遇林俊杰七七逛街",
+      "onboard_time": 1764164425,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 200609,
@@ -1236,7 +1260,7 @@
     },
     {
       "raw_hot": 196349,
-      "num": 203962,
+      "num": 215586,
       "word": "怪奇物语",
       "onboard_time": 1764143902,
       "rank": 28,
@@ -1283,6 +1307,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 191842,
+      "num": 191842,
+      "word": "这5种主食真的不建议常吃",
+      "onboard_time": 1764162504,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 191783,
       "num": 132577,
       "word": "徐冬冬 我妈妈也多了一个儿子",
@@ -1305,14 +1337,6 @@
       "onboard_time": 1764150623,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 190416,
-      "num": 190416,
-      "word": "这5种主食真的不建议常吃",
-      "onboard_time": 1764162504,
-      "rank": 41,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 188850,
@@ -1425,14 +1449,6 @@
       "onboard_time": 1764153982,
       "rank": 33,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 177360,
-      "num": 177360,
-      "word": "反诈老陈近3年收入100万",
-      "onboard_time": 1764163706,
-      "rank": 34,
-      "category": "网红"
     },
     {
       "raw_hot": 177000,
@@ -1681,6 +1697,14 @@
       "onboard_time": 1764132142,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153745,
+      "num": 458706,
+      "word": "长春大冬会",
+      "onboard_time": 1764164725,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 153104,
@@ -1993,6 +2017,14 @@
       "onboard_time": 1764121340,
       "rank": 33,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 127877,
+      "num": 179033,
+      "word": "女婴心脏手术离世已完成尸检",
+      "onboard_time": 1764165145,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127298,
@@ -2308,7 +2340,7 @@
     },
     {
       "raw_hot": 106891,
-      "num": 106891,
+      "num": 171928,
       "word": "名侦探柯南",
       "onboard_time": 1764164065,
       "rank": 46,
