@@ -1,10 +1,10 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764157165700,
+  "endTime": 1764161827379,
   "band_list": [
     {
-      "raw_hot": 11513970,
-      "num": 11513970,
+      "raw_hot": 14621439,
+      "num": 14621439,
       "word": "香港火灾",
       "onboard_time": 1764152062,
       "rank": 5,
@@ -19,12 +19,36 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 2604450,
+      "num": 2708900,
+      "word": "香港火灾已致13死28伤",
+      "onboard_time": 1764159504,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 2386105,
       "num": 404782,
       "word": "罗志祥经纪人晒亲子鉴定",
       "onboard_time": 1764128721,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2332540,
+      "num": 369347,
+      "word": "站姐涅槃 400万",
+      "onboard_time": 1764160042,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 2321568,
+      "num": 360956,
+      "word": "香港疑似8栋楼目前全在烧",
+      "onboard_time": 1764158303,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1887369,
@@ -179,6 +203,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 774165,
+      "num": 774165,
+      "word": "外卖大战或将暂停",
+      "onboard_time": 1764157463,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 733320,
       "num": 667129,
       "word": "原来全麻手术压根不是睡着了",
@@ -267,20 +299,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 610393,
+      "num": 591125,
+      "word": "芒果史冠",
+      "onboard_time": 1764153321,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 600005,
       "num": 326098,
       "word": "你不结婚我晚上睡不着",
       "onboard_time": 1764112398,
       "rank": 26,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 591125,
-      "num": 591125,
-      "word": "芒果史冠",
-      "onboard_time": 1764153321,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 535207,
@@ -299,12 +331,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 530430,
+      "num": 506211,
+      "word": "香港火灾附近住户发声",
+      "onboard_time": 1764158902,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 520547,
       "num": 397886,
       "word": "仝卓辟谣表弟获救",
       "onboard_time": 1764150682,
       "rank": 11,
       "category": "艺人,民生新闻"
+    },
+    {
+      "raw_hot": 519031,
+      "num": 566649,
+      "word": "李维嘉曝某节目录制期间不放饭",
+      "onboard_time": 1764155424,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 515806,
+      "num": 515806,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1764156203,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 503240,
@@ -347,6 +403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 473800,
+      "num": 462662,
+      "word": "李威夫妇讲述精舍杀人案细节",
+      "onboard_time": 1764156264,
+      "rank": 33,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 467964,
       "num": 424063,
       "word": "海底捞顾客被嘲只点锅底光吃小料",
@@ -361,14 +425,6 @@
       "onboard_time": 1764136042,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 462662,
-      "num": 462662,
-      "word": "李威夫妇讲述精舍杀人案细节",
-      "onboard_time": 1764156264,
-      "rank": 33,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 461739,
@@ -483,6 +539,14 @@
       "category": "民生新闻,美食"
     },
     {
+      "raw_hot": 394557,
+      "num": 394557,
+      "word": "香港大楼起火从地面烧到楼顶",
+      "onboard_time": 1764157883,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 393189,
       "num": 562817,
       "word": "预备役人员证要来了",
@@ -563,14 +627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 347184,
-      "num": 566649,
-      "word": "李维嘉曝某节目录制期间不放饭",
-      "onboard_time": 1764155424,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 345304,
       "num": 345304,
       "word": "天津大爷30克金条藏辣酱里",
@@ -593,6 +649,14 @@
       "onboard_time": 1764142821,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 326224,
+      "num": 326224,
+      "word": "香港警方回应大埔大火",
+      "onboard_time": 1764156563,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 320141,
@@ -635,6 +699,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 301039,
+      "num": 301039,
+      "word": "香港大埔火灾李家超发文",
+      "onboard_time": 1764158482,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 298946,
       "num": 298946,
       "word": "晋江崩了",
@@ -673,6 +745,14 @@
       "onboard_time": 1764128781,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293774,
+      "num": 293774,
+      "word": "竹脚手架",
+      "onboard_time": 1764160163,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 289070,
@@ -811,6 +891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254907,
+      "num": 254907,
+      "word": "疯狂动物城彩蛋",
+      "onboard_time": 1764157763,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 253622,
       "num": 271866,
       "word": "井柏然孙千的吻戏",
@@ -833,6 +921,14 @@
       "onboard_time": 1764076942,
       "rank": 24,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 250731,
+      "num": 250731,
+      "word": "警方回应为何公布嫌犯王俊凯全名",
+      "onboard_time": 1764157102,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 249862,
@@ -865,6 +961,14 @@
       "onboard_time": 1764135562,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242094,
+      "num": 242094,
+      "word": "宁波女婴手术离世家属委托异地尸检",
+      "onboard_time": 1764159085,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 240630,
@@ -1075,6 +1179,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 194244,
+      "num": 387094,
+      "word": "王源抢票",
+      "onboard_time": 1764157162,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 193455,
       "num": 272048,
       "word": "一眼万年被孙千演出来了",
@@ -1089,14 +1201,6 @@
       "onboard_time": 1764146421,
       "rank": 32,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 192080,
-      "num": 266847,
-      "word": "香蜜沉沉烬如霜",
-      "onboard_time": 1764156203,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 191783,
@@ -1129,6 +1233,14 @@
       "onboard_time": 1764144442,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 187874,
+      "num": 256629,
+      "word": "枭起青壤 咖啡鸡",
+      "onboard_time": 1764158363,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187751,
@@ -1168,6 +1280,14 @@
       "word": "女子穿厚羽绒服轻生跳河没沉下去",
       "onboard_time": 1764125180,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181617,
+      "num": 181617,
+      "word": "五月龄离世女婴由法医刘良尸检",
+      "onboard_time": 1764161185,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -1283,6 +1403,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 169869,
+      "num": 246122,
+      "word": "大生意人 女救男",
+      "onboard_time": 1764161603,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 168373,
       "num": 168373,
       "word": "曹琳米线",
@@ -1315,6 +1443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 166557,
+      "num": 243838,
+      "word": "朱亚文向涵之什么时候出来",
+      "onboard_time": 1764161543,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "郑伊健日本演唱会取消",
@@ -1337,6 +1473,14 @@
       "onboard_time": 1764152843,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 161979,
+      "num": 161979,
+      "word": "短国细糠王小亿",
+      "onboard_time": 1764160643,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 161467,
@@ -1609,6 +1753,14 @@
       "onboard_time": 1764141560,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 136870,
+      "num": 256463,
+      "word": "香港火灾救援现场",
+      "onboard_time": 1764160825,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136080,
@@ -1987,6 +2139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112057,
+      "num": 378166,
+      "word": "10个千亿级消费热点要来了",
+      "onboard_time": 1764160163,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112055,
       "num": 176714,
       "word": "英伟达谷歌",
@@ -2009,6 +2169,14 @@
       "onboard_time": 1764121880,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 109928,
+      "num": 306730,
+      "word": "JDG官宣ClearLove离队",
+      "onboard_time": 1764160643,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 109921,
@@ -2059,14 +2227,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 105323,
-      "num": 105323,
-      "word": "香港警方回应大埔大火",
-      "onboard_time": 1764156563,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 104962,
       "num": 263182,
       "word": "子阳 前职业选手",
@@ -2089,14 +2249,6 @@
       "onboard_time": 1764131722,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 102645,
-      "num": 102645,
-      "word": "警方回应为何公布嫌犯王俊凯全名",
-      "onboard_time": 1764157102,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 101370,
@@ -2163,12 +2315,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97356,
+      "num": 311520,
+      "word": "香港宏福苑起火时正进行大维修",
+      "onboard_time": 1764161364,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 97188,
       "num": 142283,
       "word": "周雨说和樊振东比赛太难受了",
       "onboard_time": 1764145943,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 96461,
+      "num": 318275,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1764159323,
+      "rank": 17,
+      "category": "游戏"
     },
     {
       "raw_hot": 96111,
@@ -2289,6 +2457,14 @@
       "onboard_time": 1764127820,
       "rank": 35,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 88085,
+      "num": 272469,
+      "word": "一诺被水上飞鱼gank了",
+      "onboard_time": 1764160104,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 86231,
@@ -2609,6 +2785,14 @@
       "onboard_time": 1764079102,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52746,
+      "num": 163659,
+      "word": "香港已有数百名居民登记家属失联",
+      "onboard_time": 1764160703,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 52705,

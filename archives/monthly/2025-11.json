@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764157165700,
+  "endTime": 1764161827379,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -19,6 +19,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 14621439,
+      "num": 14621439,
+      "word": "香港火灾",
+      "onboard_time": 1764152062,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 13526426,
       "num": 13526426,
       "word": "金鸡奖",
@@ -33,14 +41,6 @@
       "onboard_time": 1762247421,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 11513970,
-      "num": 11513970,
-      "word": "香港火灾",
-      "onboard_time": 1764152062,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 10721568,
@@ -323,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 2604450,
+      "num": 2708900,
+      "word": "香港火灾已致13死28伤",
+      "onboard_time": 1764159504,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 2535929,
       "num": 325027,
       "word": "胡彦斌要名分",
@@ -395,6 +403,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 2332540,
+      "num": 369347,
+      "word": "站姐涅槃 400万",
+      "onboard_time": 1764160042,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 2331125,
       "num": 329913,
       "word": "王紫璇李鸿其官宣结婚",
@@ -409,6 +425,14 @@
       "onboard_time": 1763867180,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 2321568,
+      "num": 360956,
+      "word": "香港疑似8栋楼目前全在烧",
+      "onboard_time": 1764158303,
+      "rank": 12,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 2266794,
@@ -4059,6 +4083,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 774165,
+      "num": 774165,
+      "word": "外卖大战或将暂停",
+      "onboard_time": 1764157463,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 773787,
       "num": 262321,
       "word": "陈天润工作室",
@@ -6363,6 +6395,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 610393,
+      "num": 591125,
+      "word": "芒果史冠",
+      "onboard_time": 1764153321,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 610307,
       "num": 291936,
       "word": "张俪别演了我害怕",
@@ -6705,14 +6745,6 @@
       "onboard_time": 1763337079,
       "rank": 4,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 591125,
-      "num": 591125,
-      "word": "芒果史冠",
-      "onboard_time": 1764153321,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 590582,
@@ -8123,6 +8155,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 530430,
+      "num": 506211,
+      "word": "香港火灾附近住户发声",
+      "onboard_time": 1764158902,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 529208,
       "num": 529208,
       "word": "王者新英雄大禹",
@@ -8347,6 +8387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 519031,
+      "num": 566649,
+      "word": "李维嘉曝某节目录制期间不放饭",
+      "onboard_time": 1764155424,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 518998,
       "num": 326637,
       "word": "杨幂 不敢坐在大明星旁边",
@@ -8465,6 +8513,14 @@
       "onboard_time": 1762519882,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 515806,
+      "num": 515806,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1763854277,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 515010,
@@ -9651,6 +9707,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 473800,
+      "num": 462662,
+      "word": "李威夫妇讲述精舍杀人案细节",
+      "onboard_time": 1764156264,
+      "rank": 33,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 473493,
       "num": 270458,
       "word": "小狗疑被毒死女子辞职追凶3年",
@@ -10033,14 +10097,6 @@
       "onboard_time": 1763533640,
       "rank": 28,
       "category": "情感"
-    },
-    {
-      "raw_hot": 462662,
-      "num": 462662,
-      "word": "李威夫妇讲述精舍杀人案细节",
-      "onboard_time": 1764156264,
-      "rank": 33,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 462593,
@@ -12435,6 +12491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 394557,
+      "num": 394557,
+      "word": "香港大楼起火从地面烧到楼顶",
+      "onboard_time": 1764157883,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 393970,
       "num": 504114,
       "word": "奔跑吧",
@@ -14523,14 +14587,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 347184,
-      "num": 566649,
-      "word": "李维嘉曝某节目录制期间不放饭",
-      "onboard_time": 1764155424,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 347090,
       "num": 186171,
       "word": "吴艳妮回应女子100米栏摘银",
@@ -15713,6 +15769,14 @@
       "onboard_time": 1763796260,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 326224,
+      "num": 326224,
+      "word": "香港警方回应大埔大火",
+      "onboard_time": 1764156563,
+      "rank": 40,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 326215,
@@ -17147,6 +17211,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 301039,
+      "num": 301039,
+      "word": "香港大埔火灾李家超发文",
+      "onboard_time": 1764158482,
+      "rank": 24,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 300936,
       "num": 300936,
       "word": "马龙vs周恺",
@@ -17817,6 +17889,14 @@
       "onboard_time": 1762492640,
       "rank": 9,
       "category": "军事"
+    },
+    {
+      "raw_hot": 293774,
+      "num": 293774,
+      "word": "竹脚手架",
+      "onboard_time": 1764160163,
+      "rank": 25,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 293741,
@@ -20547,6 +20627,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 254907,
+      "num": 254907,
+      "word": "疯狂动物城彩蛋",
+      "onboard_time": 1764157763,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 254820,
       "num": 1979682,
       "word": "文淇 羡慕中女祝福中女",
@@ -20921,6 +21009,14 @@
       "onboard_time": 1763979561,
       "rank": 35,
       "category": "情感"
+    },
+    {
+      "raw_hot": 250731,
+      "num": 250731,
+      "word": "警方回应为何公布嫌犯王俊凯全名",
+      "onboard_time": 1764157102,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 250656,
@@ -21481,6 +21577,14 @@
       "onboard_time": 1762844779,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 242094,
+      "num": 242094,
+      "word": "宁波女婴手术离世家属委托异地尸检",
+      "onboard_time": 1764159085,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 242080,
@@ -27507,6 +27611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 194244,
+      "num": 387094,
+      "word": "王源抢票",
+      "onboard_time": 1764157162,
+      "rank": 7,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194226,
       "num": 194226,
       "word": "假如你的室友是个美食博主",
@@ -27961,14 +28073,6 @@
       "onboard_time": 1762419802,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 192080,
-      "num": 266847,
-      "word": "香蜜沉沉烬如霜",
-      "onboard_time": 1763854277,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 191979,
@@ -29033,6 +29137,14 @@
       "onboard_time": 1763291002,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187874,
+      "num": 256629,
+      "word": "枭起青壤 咖啡鸡",
+      "onboard_time": 1764158363,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 187859,
@@ -30433,6 +30545,14 @@
       "onboard_time": 1763386102,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 181617,
+      "num": 181617,
+      "word": "五月龄离世女婴由法医刘良尸检",
+      "onboard_time": 1764161185,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181584,
@@ -32659,6 +32779,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 169869,
+      "num": 246122,
+      "word": "大生意人 女救男",
+      "onboard_time": 1764161603,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169822,
       "num": 158257,
       "word": "成都大哥卖血旺",
@@ -33440,6 +33568,14 @@
       "word": "明明是HE为什么比BE还难受",
       "onboard_time": 1763201603,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 166557,
+      "num": 243838,
+      "word": "朱亚文向涵之什么时候出来",
+      "onboard_time": 1764161543,
+      "rank": 34,
       "category": "剧集"
     },
     {
@@ -34625,6 +34761,14 @@
       "onboard_time": 1762337482,
       "rank": 19,
       "category": "电影"
+    },
+    {
+      "raw_hot": 161979,
+      "num": 161979,
+      "word": "短国细糠王小亿",
+      "onboard_time": 1764160643,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 161970,
@@ -36372,7 +36516,7 @@
     },
     {
       "raw_hot": 155986,
-      "num": 155986,
+      "num": 318275,
       "word": "崩坏星穹铁道超话",
       "onboard_time": 1762308260,
       "rank": 21,
@@ -42169,6 +42313,14 @@
       "onboard_time": 1762082361,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136870,
+      "num": 256463,
+      "word": "香港火灾救援现场",
+      "onboard_time": 1764160825,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 136849,
@@ -53203,6 +53355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 112057,
+      "num": 378166,
+      "word": "10个千亿级消费热点要来了",
+      "onboard_time": 1764160163,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 112055,
       "num": 176714,
       "word": "英伟达谷歌",
@@ -54249,6 +54409,14 @@
       "onboard_time": 1764065001,
       "rank": 35,
       "category": "数码"
+    },
+    {
+      "raw_hot": 109928,
+      "num": 306730,
+      "word": "JDG官宣ClearLove离队",
+      "onboard_time": 1764160643,
+      "rank": 21,
+      "category": "电竞"
     },
     {
       "raw_hot": 109921,
@@ -56883,14 +57051,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 105323,
-      "num": 105323,
-      "word": "香港警方回应大埔大火",
-      "onboard_time": 1764156563,
-      "rank": 40,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 105302,
       "num": 105302,
       "word": "邪恶大鼠标",
@@ -58577,14 +58737,6 @@
       "onboard_time": 1762222161,
       "rank": 36,
       "category": "情感"
-    },
-    {
-      "raw_hot": 102645,
-      "num": 102645,
-      "word": "警方回应为何公布嫌犯王俊凯全名",
-      "onboard_time": 1764157102,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 102639,
@@ -61785,6 +61937,14 @@
       "onboard_time": 1762619361,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97356,
+      "num": 311520,
+      "word": "香港宏福苑起火时正进行大维修",
+      "onboard_time": 1764161364,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 97349,
@@ -67441,6 +67601,14 @@
       "onboard_time": 1762307480,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 88085,
+      "num": 272469,
+      "word": "一诺被水上飞鱼gank了",
+      "onboard_time": 1764160104,
+      "rank": 26,
+      "category": "电竞"
     },
     {
       "raw_hot": 88074,
@@ -80473,6 +80641,14 @@
       "onboard_time": 1762337302,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52746,
+      "num": 163659,
+      "word": "香港已有数百名居民登记家属失联",
+      "onboard_time": 1764160703,
+      "rank": 38,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 52705,
