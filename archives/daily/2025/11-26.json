@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764134892673,
+  "endTime": 1764135819696,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1574774,
-      "num": 320400,
+      "num": 334973,
       "word": "同居 重婚",
       "onboard_time": 1764132682,
       "rank": 10,
@@ -57,6 +57,14 @@
       "onboard_time": 1764117141,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 898825,
+      "num": 898825,
+      "word": "高市早苗现在尴尬了",
+      "onboard_time": 1764134781,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 857408,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 695157,
-      "num": 319619,
+      "num": 321024,
       "word": "印度人疑似在上海地铁分享手抓饭",
       "onboard_time": 1764131722,
       "rank": 18,
@@ -235,6 +243,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 387698,
+      "num": 387698,
+      "word": "西安交大第一附属医院情况通报",
+      "onboard_time": 1764133161,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 366739,
       "num": 366739,
       "word": "腾讯把枭起青壤限免了",
@@ -249,6 +265,14 @@
       "onboard_time": 1764091216,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 356606,
+      "num": 356606,
+      "word": "巨型吊牌一个月卖出近百万个",
+      "onboard_time": 1764130642,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 353880,
@@ -283,28 +307,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 343659,
-      "num": 209714,
-      "word": "高市早苗现在尴尬了",
-      "onboard_time": 1764134781,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 338570,
       "num": 318569,
       "word": "日本军国主义装都不装了",
       "onboard_time": 1764118521,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 320533,
-      "num": 320533,
-      "word": "西安交大第一附属医院情况通报",
-      "onboard_time": 1764133161,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 314119,
@@ -323,7 +331,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 297213,
+      "raw_hot": 312274,
       "num": 1001290,
       "word": "盖瑞一条蛇",
       "onboard_time": 1764130221,
@@ -427,14 +435,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 264416,
-      "num": 299421,
-      "word": "巨型吊牌一个月卖出近百万个",
-      "onboard_time": 1764130642,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 264043,
       "num": 181227,
       "word": "上海电动车出现闭店潮",
@@ -460,7 +460,7 @@
     },
     {
       "raw_hot": 252721,
-      "num": 271564,
+      "num": 301717,
       "word": "谢娜加入南山猎人",
       "onboard_time": 1764129741,
       "rank": 31,
@@ -505,6 +505,14 @@
       "onboard_time": 1764123140,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 229781,
+      "num": 229781,
+      "word": "预备役人员证要来了",
+      "onboard_time": 1764134421,
+      "rank": 26,
+      "category": "国内时政,军事"
     },
     {
       "raw_hot": 216705,
@@ -553,6 +561,14 @@
       "onboard_time": 1764123799,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198464,
+      "num": 289556,
+      "word": "疯狂动物城",
+      "onboard_time": 1764135322,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 197932,
@@ -683,6 +699,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166044,
+      "num": 166044,
+      "word": "程晓玥说没做过医美",
+      "onboard_time": 1764135562,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164285,
       "num": 164285,
       "word": "郑伊健日本演唱会取消",
@@ -763,14 +787,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 146835,
-      "num": 220136,
-      "word": "预备役人员证要来了",
-      "onboard_time": 1764134421,
-      "rank": 26,
-      "category": "国内时政,军事"
-    },
-    {
       "raw_hot": 146660,
       "num": 146660,
       "word": "我就说这张脸演的能是什么坏人",
@@ -827,8 +843,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 136242,
-      "num": 136242,
+      "raw_hot": 137181,
+      "num": 137181,
       "word": "第一次知道螃蟹是先腐后死的",
       "onboard_time": 1764132202,
       "rank": 45,
@@ -923,12 +939,36 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 128022,
+      "num": 128022,
+      "word": "迪迪不畏cos贝微微",
+      "onboard_time": 1764135741,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 127730,
       "num": 127730,
       "word": "华与华创始人称西贝被算计",
       "onboard_time": 1764129260,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 127198,
+      "num": 127198,
+      "word": "刘耀文T台走秀也是45度站姿",
+      "onboard_time": 1764135441,
+      "rank": 42,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 126815,
+      "num": 161725,
+      "word": "内娱久违的古早剧质感回来了",
+      "onboard_time": 1764134781,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 126132,
@@ -953,6 +993,22 @@
       "onboard_time": 1764126680,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 123446,
+      "num": 123446,
+      "word": "TF二三四代网速对比",
+      "onboard_time": 1764135141,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122967,
+      "num": 122967,
+      "word": "女子不花一分钱体验生活蹭饭被拒",
+      "onboard_time": 1764135622,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122954,
@@ -1000,6 +1056,22 @@
       "word": "任嘉伦演技",
       "onboard_time": 1764108854,
       "rank": 26,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116401,
+      "num": 174627,
+      "word": "方圆 原来你是随方头明姓",
+      "onboard_time": 1764130941,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 114109,
+      "num": 266535,
+      "word": "枭起青壤 同情反派",
+      "onboard_time": 1764135081,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1073,14 +1145,6 @@
       "onboard_time": 1764131722,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100799,
-      "num": 161725,
-      "word": "内娱久违的古早剧质感回来了",
-      "onboard_time": 1764134781,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 100730,
@@ -1219,14 +1283,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 80483,
-      "num": 174627,
-      "word": "方圆 原来你是随方头明姓",
-      "onboard_time": 1764130941,
-      "rank": 38,
-      "category": "网红"
-    },
-    {
       "raw_hot": 78949,
       "num": 78949,
       "word": "男子为骗拆迁补助与男友姐姐假结婚",
@@ -1265,6 +1321,14 @@
       "onboard_time": 1764084023,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70221,
+      "num": 135910,
+      "word": "中际旭创涨近13%",
+      "onboard_time": 1764135741,
+      "rank": 37,
+      "category": "财经"
     },
     {
       "raw_hot": 69295,
@@ -1393,6 +1457,14 @@
       "onboard_time": 1764084322,
       "rank": 46,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 53576,
+      "num": 134753,
+      "word": "张真源快把自己唱碎了",
+      "onboard_time": 1764135441,
+      "rank": 38,
+      "category": "演出"
     },
     {
       "raw_hot": 52959,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1764135819696,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 825972,
+        "num": 1132155,
+        "word": "婚前同居认定属于家庭成员",
+        "onboard_time": 1764096795,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62520,
+        "num": 927826,
+        "word": "法考",
+        "onboard_time": 1764118882,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 36132,
+        "num": 912194,
+        "word": "中国航天见证中国速度",
+        "onboard_time": 1764129922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 312274,
+        "num": 900018,
+        "word": "盖瑞一条蛇",
+        "onboard_time": 1764130221,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 898825,
+        "num": 898825,
+        "word": "高市早苗现在尴尬了",
+        "onboard_time": 1764134781,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 850360,
+        "num": 850360,
+        "word": "罗永浩 华杉",
+        "onboard_time": 1764131182,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 757501,
+        "num": 757501,
+        "word": "罗永浩 录音",
+        "onboard_time": 1764125901,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 562618,
+        "num": 562618,
+        "word": "日本的战争准备正全面铺开",
+        "onboard_time": 1764124280,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 387698,
+        "num": 387698,
+        "word": "西安交大第一附属医院情况通报",
+        "onboard_time": 1764133161,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 356606,
+        "num": 356606,
+        "word": "巨型吊牌一个月卖出近百万个",
+        "onboard_time": 1764130642,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1493510,
+        "num": 334973,
+        "word": "同居 重婚",
+        "onboard_time": 1764132682,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 623996,
+        "num": 321024,
+        "word": "印度人疑似在上海地铁分享手抓饭",
+        "onboard_time": 1764131722,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534896,
+        "num": 318961,
+        "word": "娶了高圆圆 搂了易烊千玺",
+        "onboard_time": 1764130883,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307051,
+        "num": 307051,
+        "word": "日本民众排队数小时送别大熊猫",
+        "onboard_time": 1764130043,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206681,
+        "num": 301717,
+        "word": "谢娜加入南山猎人",
+        "onboard_time": 1764129741,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 202895,
+        "num": 292472,
+        "word": "疯狂动物城2 好笑",
+        "onboard_time": 1764120380,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 198464,
+        "num": 289556,
+        "word": "疯狂动物城",
+        "onboard_time": 1764135322,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191857,
+        "num": 279978,
+        "word": "尼克朱迪 表白",
+        "onboard_time": 1764121580,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 272526,
+        "num": 272526,
+        "word": "特朗普电话后日本沮丧了三次",
+        "onboard_time": 1764120741,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 114109,
+        "num": 266535,
+        "word": "枭起青壤 同情反派",
+        "onboard_time": 1764135081,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1482143,
+        "num": 259471,
+        "word": "罗志祥经纪人晒亲子鉴定",
+        "onboard_time": 1764128721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 508127,
+        "num": 250667,
+        "word": "36岁王俊凯涉嫌非法吸收公众存款被立案侦查",
+        "onboard_time": 1764117141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348730,
+        "num": 243895,
+        "word": "徐艺洋这套造型比婚纱好看",
+        "onboard_time": 1764129922,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240883,
+        "num": 240883,
+        "word": "岳云鹏夫妇公司欠税14万被公告",
+        "onboard_time": 1764128541,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 235713,
+        "num": 235713,
+        "word": "2名台胞在日本街头被打成重伤",
+        "onboard_time": 1764128600,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 229781,
+        "num": 229781,
+        "word": "预备役人员证要来了",
+        "onboard_time": 1764134421,
+        "rank": 25,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 229568,
+        "num": 229568,
+        "word": "医院通报61万心脏瓣膜手术",
+        "onboard_time": 1764128242,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 211309,
+        "num": 211309,
+        "word": "抽烟这块深圳卫健委越骂越勇",
+        "onboard_time": 1764127881,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135013,
+        "num": 192125,
+        "word": "狙击蝴蝶定档",
+        "onboard_time": 1764133462,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100667,
+        "num": 186659,
+        "word": "直播间9块9洗衣液滋生出巨贪",
+        "onboard_time": 1764124880,
+        "rank": 29,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 186522,
+        "num": 186522,
+        "word": "时代峰峻回应严浩翔不去尖叫之夜",
+        "onboard_time": 1764134362,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 170101,
+        "num": 170101,
+        "word": "把自己穿成三明治真的不会冷",
+        "onboard_time": 1764132742,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166044,
+        "num": 166044,
+        "word": "程晓玥说没做过医美",
+        "onboard_time": 1764135562,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161897,
+        "num": 161897,
+        "word": "罗永浩怒怼华与华创始人",
+        "onboard_time": 1764127701,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 154919,
+        "num": 154919,
+        "word": "曹琳米线",
+        "onboard_time": 1764131062,
+        "rank": 34,
+        "category": "美食,民生新闻"
+      },
+      {
+        "raw_hot": 145532,
+        "num": 145532,
+        "word": "特朗普的沉默让日本失望了",
+        "onboard_time": 1764123140,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137181,
+        "num": 137181,
+        "word": "第一次知道螃蟹是先腐后死的",
+        "onboard_time": 1764132202,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 70221,
+        "num": 135910,
+        "word": "中际旭创涨近13%",
+        "onboard_time": 1764135741,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 53576,
+        "num": 134753,
+        "word": "张真源快把自己唱碎了",
+        "onboard_time": 1764135441,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 126815,
+        "num": 132088,
+        "word": "内娱久违的古早剧质感回来了",
+        "onboard_time": 1764134781,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125994,
+        "num": 128275,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764133223,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 128022,
+        "num": 128022,
+        "word": "迪迪不畏cos贝微微",
+        "onboard_time": 1764135741,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 127198,
+        "num": 127198,
+        "word": "刘耀文T台走秀也是45度站姿",
+        "onboard_time": 1764135441,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 126508,
+        "num": 126508,
+        "word": "罗志祥经纪人",
+        "onboard_time": 1764131424,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123446,
+        "num": 123446,
+        "word": "TF二三四代网速对比",
+        "onboard_time": 1764135141,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70075,
+        "num": 123028,
+        "word": "日军欺骗琉球居民集体自杀",
+        "onboard_time": 1764128363,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122967,
+        "num": 122967,
+        "word": "女子不花一分钱体验生活蹭饭被拒",
+        "onboard_time": 1764135622,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122132,
+        "num": 122132,
+        "word": "华与华创始人称西贝被算计",
+        "onboard_time": 1764129260,
+        "rank": 47,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 116401,
+        "num": 116401,
+        "word": "方圆 原来你是随方头明姓",
+        "onboard_time": 1764130941,
+        "rank": 48,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 114979,
+        "num": 114979,
+        "word": "全国人民都想樊振东回来打球",
+        "onboard_time": 1764132742,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见汤加国王#"
+    }
+  }
+}

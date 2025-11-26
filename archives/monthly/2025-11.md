@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 13:28:12
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 13:43:39
 </p>
 </blockquote>
 <p>
@@ -2177,6 +2177,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E4%B8%BA%E5%8F%91%E5%B8%83%E4%BC%9A%23" target="weibo">
 华为发布会（热度：901881）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%8E%B0%E5%9C%A8%E5%B0%B4%E5%B0%AC%E4%BA%86%23" target="weibo">
+高市早苗现在尴尬了（热度：898825）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ T1官宣Peyz加入（热度：531624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%84%9F%E9%AB%98%E7%83%A7%23" target="weibo">
 流感高烧（热度：529114）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E5%B7%A5%E4%BD%9C%E5%AE%A4%E5%8F%91%E4%B8%8D%E8%BF%87%E6%9D%A5%E4%BA%86%23" target="weibo">
-迪丽热巴工作室发不过来了（热度：528922）
 </a>
 </li>
 
