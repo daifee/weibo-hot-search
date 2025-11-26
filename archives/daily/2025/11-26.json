@@ -1,10 +1,10 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764154096394,
+  "endTime": 1764156356807,
   "band_list": [
     {
-      "raw_hot": 4997492,
-      "num": 977494,
+      "raw_hot": 11264015,
+      "num": 11264015,
       "word": "香港火灾",
       "onboard_time": 1764152062,
       "rank": 5,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3367452,
-      "num": 868103,
+      "num": 1298524,
       "word": "华杉没道歉",
       "onboard_time": 1764152002,
       "rank": 10,
@@ -219,6 +219,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 683458,
+      "num": 320327,
+      "word": "妈妈生二胎期间5岁儿子在家发烧离世",
+      "onboard_time": 1764154463,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 683263,
       "num": 272294,
       "word": "500度近视200度散光半飞秒第一视角",
@@ -259,8 +267,16 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 545865,
+      "num": 545865,
+      "word": "香港火灾升至五级",
+      "onboard_time": 1764155724,
+      "rank": 6,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 535207,
-      "num": 1049252,
+      "num": 2966059,
       "word": "Uzi被曝已签约",
       "onboard_time": 1764144442,
       "rank": 4,
@@ -273,6 +289,14 @@
       "onboard_time": 1764144742,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 520547,
+      "num": 315727,
+      "word": "仝卓辟谣表弟获救",
+      "onboard_time": 1764150682,
+      "rank": 11,
+      "category": "艺人,民生新闻"
     },
     {
       "raw_hot": 503240,
@@ -313,6 +337,14 @@
       "onboard_time": 1764147141,
       "rank": 12,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 467964,
+      "num": 389773,
+      "word": "海底捞顾客被嘲只点锅底光吃小料",
+      "onboard_time": 1764152363,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 464430,
@@ -369,6 +401,14 @@
       "onboard_time": 1764147082,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 416846,
+      "num": 416846,
+      "word": "香港大火一消防员殉职",
+      "onboard_time": 1764153921,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 409694,
@@ -441,6 +481,14 @@
       "onboard_time": 1764133161,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 384181,
+      "num": 384181,
+      "word": "芒果史冠",
+      "onboard_time": 1764153321,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 366739,
@@ -521,6 +569,14 @@
       "onboard_time": 1764142821,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 321475,
+      "num": 321475,
+      "word": "李维嘉曝某节目录制期间不放饭",
+      "onboard_time": 1764155424,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 320141,
@@ -699,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 258891,
+      "num": 258891,
+      "word": "王凤朝被查",
+      "onboard_time": 1764153022,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 258616,
       "num": 1082466,
       "word": "湖人快船爆发冲突",
@@ -777,6 +841,14 @@
       "onboard_time": 1764148401,
       "rank": 26,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 245504,
+      "num": 245504,
+      "word": "李威",
+      "onboard_time": 1764155783,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 244859,
@@ -867,14 +939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 220612,
-      "num": 220612,
-      "word": "芒果史冠",
-      "onboard_time": 1764153321,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 220536,
       "num": 220536,
       "word": "男子买彩票刮中10万后老板不认账",
@@ -907,14 +971,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 211797,
-      "num": 207984,
-      "word": "王凤朝被查",
-      "onboard_time": 1764153022,
-      "rank": 40,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 208323,
       "num": 879011,
       "word": "TES三连宣",
@@ -936,6 +992,22 @@
       "word": "泸溪河 包装刺客",
       "onboard_time": 1764151702,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203522,
+      "num": 203522,
+      "word": "Uzi韩服RANK停更",
+      "onboard_time": 1764154403,
+      "rank": 25,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 203116,
+      "num": 203116,
+      "word": "藏南女子持印度护照在上海被拒",
+      "onboard_time": 1764154944,
+      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -1171,14 +1243,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 171167,
-      "num": 389773,
-      "word": "海底捞顾客被嘲只点锅底光吃小料",
-      "onboard_time": 1764152363,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 170149,
       "num": 222373,
       "word": "狙击蝴蝶定档",
@@ -1233,6 +1297,14 @@
       "onboard_time": 1764124822,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 163897,
+      "num": 163897,
+      "word": "李威夫妇讲述精舍杀人案细节",
+      "onboard_time": 1764156264,
+      "rank": 33,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 162953,
@@ -1307,6 +1379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 157736,
+      "num": 148105,
+      "word": "立陶宛嚣张求和",
+      "onboard_time": 1764155424,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157408,
       "num": 121770,
       "word": "日本大阪机场男子坠楼目击者发声",
@@ -1371,6 +1451,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 148352,
+      "num": 148352,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1764156203,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 148334,
       "num": 148334,
       "word": "贵州一高校禁止学生用企鹅舞表情包",
@@ -1419,12 +1507,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 144137,
-      "num": 144137,
-      "word": "香港大火一消防员殉职",
-      "onboard_time": 1764153921,
-      "rank": 41,
-      "category": "突发/灾害"
+      "raw_hot": 144460,
+      "num": 187894,
+      "word": "音乐缘计划 薛之谦",
+      "onboard_time": 1764155724,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 144043,
@@ -1619,6 +1707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 130145,
+      "num": 130145,
+      "word": "蚂蚱戴上了热巴定制款口水巾",
+      "onboard_time": 1764156264,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129294,
       "num": 129294,
       "word": "全国人民都想樊振东回来打球",
@@ -1697,6 +1793,14 @@
       "onboard_time": 1764148642,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123570,
+      "num": 123570,
+      "word": "王凤朝涉嫌严重违纪违法",
+      "onboard_time": 1764156023,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123446,
@@ -1907,6 +2011,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106394,
+      "num": 144081,
+      "word": "Faker第七冠为了全人类",
+      "onboard_time": 1764155724,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 106169,
       "num": 106169,
       "word": "杨紫被抓包在自拍",
@@ -1924,7 +2036,7 @@
     },
     {
       "raw_hot": 104423,
-      "num": 655713,
+      "num": 1809203,
       "word": "赵长江回应入职传闻",
       "onboard_time": 1764153261,
       "rank": 4,
@@ -1936,6 +2048,22 @@
       "word": "洛城德比",
       "onboard_time": 1764131722,
       "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 101451,
+      "num": 4533457,
+      "word": "神22一箭穿日",
+      "onboard_time": 1764154885,
+      "rank": 1,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 101043,
+      "num": 111882,
+      "word": "王曼昱刚落地就出发上训了",
+      "onboard_time": 1764155365,
+      "rank": 48,
       "category": "体育"
     },
     {
@@ -2019,6 +2147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93975,
+      "num": 111302,
+      "word": "华与华经营使命是少走弯路",
+      "onboard_time": 1764145882,
+      "rank": 49,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92416,
       "num": 176473,
       "word": "敖瑞鹏字正腔圆宋雨琦啊呜啊呜",
@@ -2052,7 +2188,7 @@
     },
     {
       "raw_hot": 90993,
-      "num": 1065700,
+      "num": 3252856,
       "word": "最新版全国入冬进程图",
       "onboard_time": 1764147683,
       "rank": 2,
@@ -2193,6 +2329,14 @@
       "onboard_time": 1764084023,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 70886,
+      "num": 144841,
+      "word": "胖哥俩回应被指蟹壳循环使用",
+      "onboard_time": 1764155484,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70221,
@@ -2409,6 +2553,14 @@
       "onboard_time": 1764141560,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51397,
+      "num": 141926,
+      "word": "杨紫韩东君的鞋能戳对方一个窟窿",
+      "onboard_time": 1764156023,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 51273,

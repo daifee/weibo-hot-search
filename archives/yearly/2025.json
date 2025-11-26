@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764154096394,
+  "endTime": 1764156356807,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1073,6 +1073,14 @@
       "onboard_time": 1742395704,
       "rank": 10,
       "category": "网红"
+    },
+    {
+      "raw_hot": 11264015,
+      "num": 11264015,
+      "word": "香港火灾",
+      "onboard_time": 1764152062,
+      "rank": 5,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 11207560,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1744093163,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6115383,
-      "num": 6115383,
-      "word": "王楚钦北大拟录取",
-      "onboard_time": 1743576981,
-      "rank": 0,
-      "category": "体育"
     }
   ],
   "hotgov_list": [
