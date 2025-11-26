@@ -1,0 +1,410 @@
+{
+  "runTime": 1764131662800,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1213796,
+        "num": 1213796,
+        "word": "婚前同居认定属于家庭成员",
+        "onboard_time": 1764096795,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199554,
+        "num": 1000940,
+        "word": "华为Mate80系列不支持磁吸",
+        "onboard_time": 1764125659,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27984,
+        "num": 989123,
+        "word": "中国航天见证中国速度",
+        "onboard_time": 1764129922,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 386349,
+        "num": 984775,
+        "word": "尼克朱迪 表白",
+        "onboard_time": 1764121580,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 983387,
+        "num": 983387,
+        "word": "日本的战争准备正全面铺开",
+        "onboard_time": 1764124280,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283152,
+        "num": 976968,
+        "word": "疯狂动物城2 好笑",
+        "onboard_time": 1764120380,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 485885,
+        "num": 940654,
+        "word": "特朗普电话后日本沮丧了三次",
+        "onboard_time": 1764120741,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 266802,
+        "num": 920035,
+        "word": "不二之臣完整阵容",
+        "onboard_time": 1764128840,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186076,
+        "num": 893605,
+        "word": "iG阵容",
+        "onboard_time": 1764119600,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150895,
+        "num": 859759,
+        "word": "鸣潮新地区首曝",
+        "onboard_time": 1764131303,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 851077,
+        "num": 851077,
+        "word": "罗永浩 录音",
+        "onboard_time": 1764125901,
+        "rank": 10,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 598446,
+        "num": 598446,
+        "word": "罗永浩 华杉",
+        "onboard_time": 1764131182,
+        "rank": 11,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 491331,
+        "num": 491331,
+        "word": "抽烟这块深圳卫健委越骂越勇",
+        "onboard_time": 1764127881,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483874,
+        "num": 483874,
+        "word": "岳云鹏夫妇公司欠税14万被公告",
+        "onboard_time": 1764128541,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 472459,
+        "num": 472459,
+        "word": "2名台胞在日本街头被打成重伤",
+        "onboard_time": 1764128600,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 390778,
+        "num": 390778,
+        "word": "医院通报61万心脏瓣膜手术",
+        "onboard_time": 1764128242,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 349828,
+        "num": 349828,
+        "word": "娶了高圆圆 搂了易烊千玺",
+        "onboard_time": 1764130883,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179113,
+        "num": 300025,
+        "word": "日军欺骗琉球居民集体自杀",
+        "onboard_time": 1764128363,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 294149,
+        "num": 294149,
+        "word": "张俪 我应该回避一下",
+        "onboard_time": 1764128781,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113592,
+        "num": 293826,
+        "word": "巨型吊牌一个月卖出近百万个",
+        "onboard_time": 1764130642,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2386105,
+        "num": 291485,
+        "word": "罗志祥经纪人晒亲子鉴定",
+        "onboard_time": 1764128721,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 600272,
+        "num": 290501,
+        "word": "36岁王俊凯涉嫌非法吸收公众存款被立案侦查",
+        "onboard_time": 1764117141,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 435700,
+        "num": 288961,
+        "word": "徐艺洋这套造型比婚纱好看",
+        "onboard_time": 1764129922,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288788,
+        "num": 288788,
+        "word": "日本民众排队数小时送别大熊猫",
+        "onboard_time": 1764130043,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 272294,
+        "num": 272294,
+        "word": "500度近视200度散光半飞秒第一视角",
+        "onboard_time": 1764123680,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 199037,
+        "num": 272205,
+        "word": "盖瑞一条蛇",
+        "onboard_time": 1764130221,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 170068,
+        "num": 272165,
+        "word": "直播间9块9洗衣液滋生出巨贪",
+        "onboard_time": 1764124880,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 155378,
+        "num": 272048,
+        "word": "一眼万年被孙千演出来了",
+        "onboard_time": 1764127341,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153003,
+        "num": 271866,
+        "word": "井柏然孙千的吻戏",
+        "onboard_time": 1764124939,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89328,
+        "num": 271765,
+        "word": "日本一酒店12月没中国订单",
+        "onboard_time": 1764126201,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120517,
+        "num": 271728,
+        "word": "鸣潮新角色",
+        "onboard_time": 1764127282,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 239724,
+        "num": 271564,
+        "word": "谢娜加入南山猎人",
+        "onboard_time": 1764129741,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 271538,
+        "num": 271538,
+        "word": "郭富城回应追四胎",
+        "onboard_time": 1764118223,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81591,
+        "num": 270341,
+        "word": "日本在华青年表态绝对反对战争",
+        "onboard_time": 1764129443,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 269341,
+        "num": 269341,
+        "word": "你不结婚我晚上睡不着",
+        "onboard_time": 1764112398,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 210577,
+        "num": 210577,
+        "word": "内娱长剧回宫了",
+        "onboard_time": 1764123020,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199293,
+        "num": 199293,
+        "word": "罗志祥经纪人",
+        "onboard_time": 1764131424,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184483,
+        "num": 184483,
+        "word": "罗永浩说华杉必须公开道歉",
+        "onboard_time": 1764131062,
+        "rank": 37,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 32498,
+        "num": 174627,
+        "word": "方圆 原来你是随方头明姓",
+        "onboard_time": 1764130941,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 172541,
+        "num": 172541,
+        "word": "罗永浩怒怼华与华创始人",
+        "onboard_time": 1764127701,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169451,
+        "num": 169451,
+        "word": "特朗普的沉默让日本失望了",
+        "onboard_time": 1764123140,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159075,
+        "num": 159075,
+        "word": "133一斤的黑草莓到底是谁在吃",
+        "onboard_time": 1764127040,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 156724,
+        "num": 156724,
+        "word": "当你身边有个卷王同学",
+        "onboard_time": 1764130941,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85682,
+        "num": 149725,
+        "word": "天津大爷30克金条藏辣酱里",
+        "onboard_time": 1764118403,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149448,
+        "num": 149448,
+        "word": "425米全球最高住宅已严重开裂",
+        "onboard_time": 1764123321,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 140422,
+        "num": 140422,
+        "word": "中医朋友建议冬天要多喝煮苹果水",
+        "onboard_time": 1764130461,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 124973,
+        "num": 138876,
+        "word": "疯狂动物城2",
+        "onboard_time": 1764114559,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138115,
+        "num": 138115,
+        "word": "日本军国主义装都不装了",
+        "onboard_time": 1764118521,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137778,
+        "num": 137778,
+        "word": "女子穿厚羽绒服轻生跳河没沉下去",
+        "onboard_time": 1764125180,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136974,
+        "num": 136974,
+        "word": "花少北",
+        "onboard_time": 1764120380,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中国和汤加两国友好源远流长#"
+    }
+  }
+}
