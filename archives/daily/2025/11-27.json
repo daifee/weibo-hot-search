@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764182887750,
+  "endTime": 1764184929630,
   "band_list": [
     {
       "raw_hot": 9847423,
@@ -243,6 +243,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 103187,
+      "num": 278430,
+      "word": "童锦程的空闲房子被陌生人住进去了",
+      "onboard_time": 1764180376,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 101602,
       "num": 482743,
       "word": "疯狂动物城2",
@@ -371,14 +379,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 60284,
-      "num": 278430,
-      "word": "童锦程的空闲房子被陌生人住进去了",
-      "onboard_time": 1764180376,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
       "raw_hot": 57170,
       "num": 752571,
       "word": "王楚钦回应获总决赛混双外卡",
@@ -449,6 +449,14 @@
       "onboard_time": 1764156203,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 17110,
+      "num": 157941,
+      "word": "原来明星也会讨论份子钱怎么随",
+      "onboard_time": 1764183615,
+      "rank": 46,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [
