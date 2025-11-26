@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764149484445,
+  "endTime": 1764150312437,
   "band_list": [
     {
       "raw_hot": 2386105,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 1067446,
-      "num": 1075957,
+      "num": 1093068,
       "word": "日本的战争准备正全面铺开",
       "onboard_time": 1764124280,
       "rank": 6,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1060256,
-      "num": 925413,
+      "num": 1032286,
       "word": "罗永浩 华杉",
       "onboard_time": 1764131182,
       "rank": 11,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 857408,
-      "num": 878904,
+      "num": 931450,
       "word": "罗永浩 录音",
       "onboard_time": 1764125901,
       "rank": 14,
@@ -121,6 +121,14 @@
       "onboard_time": 1764138500,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 783275,
+      "num": 783275,
+      "word": "巨蛇在泰国洪水中游动",
+      "onboard_time": 1764147683,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 778071,
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 690612,
-      "num": 989477,
+      "num": 1061096,
       "word": "疯狂动物城2首批观众反馈",
       "onboard_time": 1764136700,
       "rank": 3,
@@ -195,6 +203,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 647042,
+      "num": 647042,
+      "word": "迪丽热巴现在最大的困境",
+      "onboard_time": 1764147321,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 615290,
       "num": 615290,
       "word": "2名台胞在日本街头被打成重伤",
@@ -212,7 +228,7 @@
     },
     {
       "raw_hot": 535207,
-      "num": 943290,
+      "num": 987036,
       "word": "Uzi被曝已签约",
       "onboard_time": 1764144442,
       "rank": 4,
@@ -275,12 +291,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 459320,
-      "num": 459320,
-      "word": "迪丽热巴现在最大的困境",
-      "onboard_time": 1764147321,
-      "rank": 13,
-      "category": "剧集"
+      "raw_hot": 458366,
+      "num": 1043718,
+      "word": "特朗普作出让步",
+      "onboard_time": 1764145701,
+      "rank": 49,
+      "category": "国际时政"
     },
     {
       "raw_hot": 458006,
@@ -307,27 +323,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 409360,
-      "num": 892978,
-      "word": "特朗普作出让步",
-      "onboard_time": 1764145701,
-      "rank": 49,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 406660,
       "num": 261950,
       "word": "425米全球最高住宅已严重开裂",
       "onboard_time": 1764123321,
       "rank": 31,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 403744,
-      "num": 403744,
-      "word": "巨蛇在泰国洪水中游动",
-      "onboard_time": 1764147683,
-      "rank": 22,
       "category": "海外新闻"
     },
     {
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 320141,
+      "num": 320141,
+      "word": "小洛熙",
+      "onboard_time": 1764147381,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 314119,
       "num": 161565,
       "word": "女子为肠道蠕动睡前吞20粒蓖麻子",
@@ -523,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 289070,
+      "num": 895061,
+      "word": "中方回应是否要求美方向日方传递信息",
+      "onboard_time": 1764147802,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 285536,
       "num": 273815,
       "word": "花少北",
@@ -537,6 +553,14 @@
       "onboard_time": 1764127282,
       "rank": 35,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 282263,
+      "num": 282263,
+      "word": "高市早苗在李在明面前拍脸蛋",
+      "onboard_time": 1764148881,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 276759,
@@ -612,7 +636,7 @@
     },
     {
       "raw_hot": 258616,
-      "num": 1053612,
+      "num": 1082466,
       "word": "湖人快船爆发冲突",
       "onboard_time": 1764142341,
       "rank": 40,
@@ -683,6 +707,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 246539,
+      "num": 246539,
+      "word": "罗永浩发飙算拱火吗",
+      "onboard_time": 1764148401,
+      "rank": 26,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 244859,
       "num": 244859,
       "word": "程晓玥说没做过医美",
@@ -713,14 +745,6 @@
       "onboard_time": 1764145401,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 231358,
-      "num": 231358,
-      "word": "罗永浩发飙算拱火吗",
-      "onboard_time": 1764148401,
-      "rank": 26,
-      "category": "互联网"
     },
     {
       "raw_hot": 231175,
@@ -763,14 +787,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 218204,
-      "num": 218204,
-      "word": "小洛熙",
-      "onboard_time": 1764147381,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216705,
       "num": 179821,
       "word": "老板在员工讨薪次日自杀身亡",
@@ -787,12 +803,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 208323,
+      "num": 208323,
+      "word": "TES三连宣",
+      "onboard_time": 1764149661,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 207854,
       "num": 207854,
       "word": "罗永浩怒怼华与华创始人",
       "onboard_time": 1764127701,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 205824,
+      "num": 837132,
+      "word": "滔搏官宣JackeyLove续约",
+      "onboard_time": 1764149242,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 202929,
@@ -817,6 +849,14 @@
       "onboard_time": 1764131424,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 199205,
+      "num": 469731,
+      "word": "谁给何老师报名的主持人大赛",
+      "onboard_time": 1764146062,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 198902,
@@ -875,12 +915,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 189891,
+      "num": 408235,
+      "word": "成龙确认出演尖峰时刻4",
+      "onboard_time": 1764149902,
+      "rank": 15,
+      "category": "电影"
+    },
+    {
       "raw_hot": 188850,
       "num": 188850,
       "word": "万科",
       "onboard_time": 1764144442,
       "rank": 26,
       "category": "财经"
+    },
+    {
+      "raw_hot": 188262,
+      "num": 382084,
+      "word": "红果短剧红毯",
+      "onboard_time": 1764147082,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 187751,
@@ -905,14 +961,6 @@
       "onboard_time": 1764077002,
       "rank": 13,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 185033,
-      "num": 469731,
-      "word": "谁给何老师报名的主持人大赛",
-      "onboard_time": 1764146062,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 184483,
@@ -955,14 +1003,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 178478,
-      "num": 178478,
-      "word": "滔搏官宣JackeyLove续约",
-      "onboard_time": 1764149242,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 178119,
       "num": 269069,
       "word": "唐诡背景板里的崔相活人感好重",
@@ -985,14 +1025,6 @@
       "onboard_time": 1764071002,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 175161,
-      "num": 218369,
-      "word": "红果短剧红毯",
-      "onboard_time": 1764147082,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 175109,
@@ -1092,7 +1124,7 @@
     },
     {
       "raw_hot": 160115,
-      "num": 230123,
+      "num": 282900,
       "word": "中国军号发布导弹起竖",
       "onboard_time": 1764141861,
       "rank": 45,
@@ -1257,14 +1289,6 @@
       "onboard_time": 1764144921,
       "rank": 35,
       "category": "网红"
-    },
-    {
-      "raw_hot": 142237,
-      "num": 418872,
-      "word": "中方回应是否要求美方向日方传递信息",
-      "onboard_time": 1764147802,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142149,
@@ -1457,6 +1481,14 @@
       "onboard_time": 1764135441,
       "rank": 42,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 126829,
+      "num": 126829,
+      "word": "日本女市长与下属多次开房后提出辞职",
+      "onboard_time": 1764150262,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 126815,
@@ -1684,7 +1716,7 @@
     },
     {
       "raw_hot": 107940,
-      "num": 172756,
+      "num": 192761,
       "word": "伦纳德班味篮球",
       "onboard_time": 1764148462,
       "rank": 35,
@@ -1843,6 +1875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89349,
+      "num": 1065700,
+      "word": "最新版全国入冬进程图",
+      "onboard_time": 1764147683,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 88912,
       "num": 135192,
       "word": "黑龙江文旅 宁古塔又来新人啦",
@@ -1891,14 +1931,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 84229,
-      "num": 172677,
-      "word": "高市早苗在李在明面前拍脸蛋",
-      "onboard_time": 1764148881,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 81591,
       "num": 270341,
       "word": "日本在华青年表态绝对反对战争",
@@ -1931,12 +1963,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 73574,
-      "num": 989837,
-      "word": "最新版全国入冬进程图",
-      "onboard_time": 1764147683,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 76455,
+      "num": 141061,
+      "word": "亚洲杯 海口",
+      "onboard_time": 1764150262,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 72517,
+      "num": 410251,
+      "word": "辽宁一局长在渔船倾覆后见死不救",
+      "onboard_time": 1764149000,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72050,
@@ -2163,6 +2203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51273,
+      "num": 172173,
+      "word": "男子11元抢小米冰箱商家拒发只赔30",
+      "onboard_time": 1764148941,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50563,
       "num": 151207,
       "word": "泰国遭遇300年来最严重洪灾",
@@ -2323,20 +2371,12 @@
       "category": "正能量"
     },
     {
-      "raw_hot": 30269,
-      "num": 410251,
-      "word": "辽宁一局长在渔船倾覆后见死不救",
-      "onboard_time": 1764149000,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 29373,
-      "num": 172173,
-      "word": "男子11元抢小米冰箱商家拒发只赔30",
-      "onboard_time": 1764148941,
+      "raw_hot": 30562,
+      "num": 175016,
+      "word": "印度富人的家庭午餐",
+      "onboard_time": 1764150141,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "海外新闻"
     },
     {
       "raw_hot": 29113,
@@ -2403,6 +2443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22516,
+      "num": 321232,
+      "word": "台当局要民众多买日货支持高市",
+      "onboard_time": 1764150141,
+      "rank": 25,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 22408,
       "num": 42621,
       "word": "不会画眉毛的姐妹有救了",
@@ -2467,6 +2515,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 17138,
+      "num": 181265,
+      "word": "仝卓表弟疑被控制有人指导他说话",
+      "onboard_time": 1764150082,
+      "rank": 37,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 16641,
       "num": 25291,
       "word": "美方28点计划缩减为19点",
@@ -2513,6 +2569,14 @@
       "onboard_time": 1764136941,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 9182,
+      "num": 177813,
+      "word": "救援队回应棒打野猪被指残忍",
+      "onboard_time": 1764149722,
+      "rank": 38,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

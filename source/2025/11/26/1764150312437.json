@@ -1,0 +1,410 @@
+{
+  "runTime": 1764150312437,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 581679,
+        "num": 1093068,
+        "word": "日本的战争准备正全面铺开",
+        "onboard_time": 1764124280,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188409,
+        "num": 1082466,
+        "word": "湖人快船爆发冲突",
+        "onboard_time": 1764142341,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89349,
+        "num": 1065700,
+        "word": "最新版全国入冬进程图",
+        "onboard_time": 1764147683,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 311203,
+        "num": 1061096,
+        "word": "疯狂动物城2首批观众反馈",
+        "onboard_time": 1764136700,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 458366,
+        "num": 1043718,
+        "word": "特朗普作出让步",
+        "onboard_time": 1764145701,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1032286,
+        "num": 1032286,
+        "word": "罗永浩 华杉",
+        "onboard_time": 1764131182,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 376053,
+        "num": 987036,
+        "word": "Uzi被曝已签约",
+        "onboard_time": 1764144442,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 351691,
+        "num": 931450,
+        "word": "罗永浩 录音",
+        "onboard_time": 1764125901,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 289070,
+        "num": 895061,
+        "word": "中方回应是否要求美方向日方传递信息",
+        "onboard_time": 1764147802,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205824,
+        "num": 837132,
+        "word": "滔搏官宣JackeyLove续约",
+        "onboard_time": 1764149242,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 783275,
+        "num": 783275,
+        "word": "巨蛇在泰国洪水中游动",
+        "onboard_time": 1764147683,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 683146,
+        "num": 683146,
+        "word": "张亮方已报警立案",
+        "onboard_time": 1764145823,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 647042,
+        "num": 647042,
+        "word": "迪丽热巴现在最大的困境",
+        "onboard_time": 1764147321,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 434373,
+        "num": 434373,
+        "word": "昀牵孟绕",
+        "onboard_time": 1764147141,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 409755,
+        "num": 409755,
+        "word": "年龄不太合适 你好意思",
+        "onboard_time": 1764144742,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189891,
+        "num": 408235,
+        "word": "成龙确认出演尖峰时刻4",
+        "onboard_time": 1764149902,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 234276,
+        "num": 396674,
+        "word": "婚前同居认定属于家庭成员",
+        "onboard_time": 1764096795,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188262,
+        "num": 382084,
+        "word": "红果短剧红毯",
+        "onboard_time": 1764147082,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163774,
+        "num": 376884,
+        "word": "弦子一问李茂眼泪就绷不住了",
+        "onboard_time": 1764144262,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108358,
+        "num": 367278,
+        "word": "万科 跌停",
+        "onboard_time": 1764144201,
+        "rank": 19,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 199205,
+        "num": 355593,
+        "word": "谁给何老师报名的主持人大赛",
+        "onboard_time": 1764146062,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1236063,
+        "num": 342728,
+        "word": "易梦玲 师生恋",
+        "onboard_time": 1764146122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72517,
+        "num": 334194,
+        "word": "辽宁一局长在渔船倾覆后见死不救",
+        "onboard_time": 1764149000,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 449288,
+        "num": 324608,
+        "word": "罗志祥经纪人晒亲子鉴定",
+        "onboard_time": 1764128721,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322992,
+        "num": 322992,
+        "word": "同居 重婚",
+        "onboard_time": 1764132682,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22516,
+        "num": 321232,
+        "word": "台当局要民众多买日货支持高市",
+        "onboard_time": 1764150141,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 320141,
+        "num": 320141,
+        "word": "小洛熙",
+        "onboard_time": 1764147381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313866,
+        "num": 313866,
+        "word": "原来全麻手术压根不是睡着了",
+        "onboard_time": 1764139940,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 143612,
+        "num": 283612,
+        "word": "王安宇配音",
+        "onboard_time": 1764141261,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112031,
+        "num": 282900,
+        "word": "中国军号发布导弹起竖",
+        "onboard_time": 1764141861,
+        "rank": 29,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 282263,
+        "num": 282263,
+        "word": "高市早苗在李在明面前拍脸蛋",
+        "onboard_time": 1764148881,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 302665,
+        "num": 280391,
+        "word": "王俊凯被立案侦查的标题不能忍",
+        "onboard_time": 1764138500,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 246539,
+        "num": 246539,
+        "word": "罗永浩发飙算拱火吗",
+        "onboard_time": 1764148401,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 208323,
+        "num": 208323,
+        "word": "TES三连宣",
+        "onboard_time": 1764149661,
+        "rank": 33,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92808,
+        "num": 192761,
+        "word": "伦纳德班味篮球",
+        "onboard_time": 1764148462,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74492,
+        "num": 187926,
+        "word": "蔡磊回应被传只剩3到5年生命",
+        "onboard_time": 1764141741,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183111,
+        "num": 183111,
+        "word": "杨幂好会穿搭",
+        "onboard_time": 1764145401,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17138,
+        "num": 181265,
+        "word": "仝卓表弟疑被控制有人指导他说话",
+        "onboard_time": 1764150082,
+        "rank": 37,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 9182,
+        "num": 177813,
+        "word": "救援队回应棒打野猪被指残忍",
+        "onboard_time": 1764149722,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30562,
+        "num": 175016,
+        "word": "印度富人的家庭午餐",
+        "onboard_time": 1764150141,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141518,
+        "num": 169051,
+        "word": "疯狂动物城",
+        "onboard_time": 1764135322,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168762,
+        "num": 168762,
+        "word": "罗永浩怒怼华与华创始人",
+        "onboard_time": 1764127701,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 163472,
+        "num": 163472,
+        "word": "男子买彩票刮中10万后老板不认账",
+        "onboard_time": 1764144621,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157858,
+        "num": 157858,
+        "word": "内娱3代顶流",
+        "onboard_time": 1764146421,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51273,
+        "num": 148317,
+        "word": "男子11元抢小米冰箱商家拒发只赔30",
+        "onboard_time": 1764148941,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143752,
+        "num": 143752,
+        "word": "林俊杰 七七",
+        "onboard_time": 1764142821,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76455,
+        "num": 141061,
+        "word": "亚洲杯 海口",
+        "onboard_time": 1764150262,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139365,
+        "num": 139365,
+        "word": "汪峰 全家恋爱中",
+        "onboard_time": 1764139642,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126829,
+        "num": 126829,
+        "word": "日本女市长与下属多次开房后提出辞职",
+        "onboard_time": 1764150262,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124261,
+        "num": 124261,
+        "word": "两个刘亦菲仿妆一起跳舞",
+        "onboard_time": 1764140001,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#文脉津声弦歌不辍#"
+    }
+  }
+}
