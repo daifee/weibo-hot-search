@@ -1,0 +1,410 @@
+{
+  "runTime": 1764192271144,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 175205,
+        "num": 175205,
+        "word": "深圳消防车队已在莲塘口岸集结",
+        "onboard_time": 1764172223,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 22662,
+        "num": 117606,
+        "word": "王楚钦回应获总决赛混双外卡",
+        "onboard_time": 1764167905,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 10471,
+        "num": 117188,
+        "word": "长春成功申办2027世界大冬会",
+        "onboard_time": 1764162325,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20107,
+        "num": 116905,
+        "word": "疯狂动物城2",
+        "onboard_time": 1764161124,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116802,
+        "num": 116802,
+        "word": "香港已出动超1000人灭火",
+        "onboard_time": 1764169526,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 79361,
+        "num": 79361,
+        "word": "香港已启动紧急事故监察及支援中心",
+        "onboard_time": 1764172702,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 18742,
+        "num": 78898,
+        "word": "国色芳华",
+        "onboard_time": 1764166346,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18492,
+        "num": 78109,
+        "word": "怪奇物语",
+        "onboard_time": 1764164184,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17631,
+        "num": 77057,
+        "word": "王楚钦孙颖莎获总决赛混双外卡",
+        "onboard_time": 1764166107,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13321,
+        "num": 76527,
+        "word": "Doinb回应队伍解散",
+        "onboard_time": 1764169045,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 611295,
+        "num": 75026,
+        "word": "香港火灾",
+        "onboard_time": 1764152062,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 74702,
+        "num": 74702,
+        "word": "法医刘良全程参与手术离世女婴尸检",
+        "onboard_time": 1764171624,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54868,
+        "num": 73618,
+        "word": "童锦程的空闲房子被陌生人住进去了",
+        "onboard_time": 1764180376,
+        "rank": 12,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43999,
+        "num": 72719,
+        "word": "警方回应为何公布嫌犯王俊凯全名",
+        "onboard_time": 1764157102,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 267713,
+        "num": 71174,
+        "word": "香港火灾疑似起火点曝光",
+        "onboard_time": 1764167125,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 36609,
+        "num": 69438,
+        "word": "李威夫妇讲述精舍杀人案细节",
+        "onboard_time": 1764156264,
+        "rank": 15,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 30621,
+        "num": 68367,
+        "word": "全力支持香港应对处置火灾事故",
+        "onboard_time": 1764174501,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 25585,
+        "num": 68084,
+        "word": "站姐涅槃 400万",
+        "onboard_time": 1764160042,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96607,
+        "num": 66273,
+        "word": "香港火灾升至五级",
+        "onboard_time": 1764155724,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 22480,
+        "num": 65143,
+        "word": "易梦玲10年前私信询问表演培训",
+        "onboard_time": 1764186674,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 64141,
+        "num": 64141,
+        "word": "赵樱子因姓张1米9男生而不拍戏",
+        "onboard_time": 1764166467,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30141,
+        "num": 64138,
+        "word": "医生称长期少量喝酒等于慢性自杀",
+        "onboard_time": 1764169404,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 46951,
+        "num": 64132,
+        "word": "香港殉职消防员终年37岁",
+        "onboard_time": 1764162564,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 24020,
+        "num": 64121,
+        "word": "易梦玲 师生恋",
+        "onboard_time": 1764146122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23841,
+        "num": 64112,
+        "word": "女婴心脏手术离世已完成尸检",
+        "onboard_time": 1764165145,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22090,
+        "num": 64097,
+        "word": "李立群回应三个孩子都没结婚",
+        "onboard_time": 1764168206,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45148,
+        "num": 64086,
+        "word": "谢嘉怡称看着奶奶的房子被烧光",
+        "onboard_time": 1764170184,
+        "rank": 26,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 22027,
+        "num": 64080,
+        "word": "巨蛇在泰国洪水中游动",
+        "onboard_time": 1764147683,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 21505,
+        "num": 64074,
+        "word": "李诞劝女生不要找年纪太大的",
+        "onboard_time": 1764168445,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21243,
+        "num": 64059,
+        "word": "香港启动应急救援机制",
+        "onboard_time": 1764167726,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27399,
+        "num": 64053,
+        "word": "航拍香港大埔火灾现场",
+        "onboard_time": 1764170604,
+        "rank": 30,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 21063,
+        "num": 64040,
+        "word": "43岁坚持运动一年的变化有多大",
+        "onboard_time": 1764166705,
+        "rank": 31,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 20784,
+        "num": 64038,
+        "word": "香港偶遇何猷君奚梦瑶逛街",
+        "onboard_time": 1764174140,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20780,
+        "num": 64025,
+        "word": "李威妻子出庭痛哭自责没救死者",
+        "onboard_time": 1764163706,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23926,
+        "num": 64013,
+        "word": "香港已有数百名居民登记家属失联",
+        "onboard_time": 1764160703,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 20040,
+        "num": 64006,
+        "word": "郭碧婷晒照被评好像向太",
+        "onboard_time": 1764166166,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18063,
+        "num": 63998,
+        "word": "大使馆通报仝卓表弟获救",
+        "onboard_time": 1764168445,
+        "rank": 36,
+        "category": "艺人,民生新闻"
+      },
+      {
+        "raw_hot": 17213,
+        "num": 63982,
+        "word": "张纪中妻子自曝背100多的包",
+        "onboard_time": 1764175879,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21774,
+        "num": 63980,
+        "word": "香港大火传出多次爆炸声",
+        "onboard_time": 1764170663,
+        "rank": 38,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 17007,
+        "num": 63965,
+        "word": "反诈老陈近3年收入100万",
+        "onboard_time": 1764163706,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 16142,
+        "num": 63955,
+        "word": "香港派出心理学家为学生提供支援",
+        "onboard_time": 1764173542,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 16110,
+        "num": 63945,
+        "word": "香蜜沉沉烬如霜火了又火",
+        "onboard_time": 1764168568,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 18949,
+        "num": 63940,
+        "word": "香港大埔火灾李家超发文",
+        "onboard_time": 1764158482,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 13930,
+        "num": 63935,
+        "word": "偶遇林俊杰七七逛街",
+        "onboard_time": 1764164425,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13563,
+        "num": 63924,
+        "word": "芒果史冠",
+        "onboard_time": 1764153321,
+        "rank": 44,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 13418,
+        "num": 63911,
+        "word": "香蜜沉沉烬如霜",
+        "onboard_time": 1764156203,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12835,
+        "num": 63905,
+        "word": "香港警方设立火灾寻人热线",
+        "onboard_time": 1764170065,
+        "rank": 46,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 12796,
+        "num": 63894,
+        "word": "疯狂动物城2开分",
+        "onboard_time": 1764168626,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 12623,
+        "num": 63883,
+        "word": "原来明星也会讨论份子钱怎么随",
+        "onboard_time": 1764183615,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11349,
+        "num": 63872,
+        "word": "日本在野党批日本政府愚蠢",
+        "onboard_time": 1764165925,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}
