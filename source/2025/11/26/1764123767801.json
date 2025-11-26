@@ -1,0 +1,410 @@
+{
+  "runTime": 1764123767801,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1705139,
+        "num": 1705139,
+        "word": "婚前同居认定属于家庭成员",
+        "onboard_time": 1764096795,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162953,
+        "num": 967875,
+        "word": "法考",
+        "onboard_time": 1764118882,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 42319,
+        "num": 438515,
+        "word": "网警查处编造民宿现不明感染源谣言者",
+        "onboard_time": 1764121520,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403650,
+        "num": 403650,
+        "word": "疯狂动物城2 好笑",
+        "onboard_time": 1764120380,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1346561,
+        "num": 403482,
+        "word": "特朗普电话后日本沮丧了三次",
+        "onboard_time": 1764120741,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 403292,
+        "num": 403292,
+        "word": "不二之臣开拍",
+        "onboard_time": 1764122060,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 392695,
+        "num": 392695,
+        "word": "仝卓表弟在柬埔寨失联",
+        "onboard_time": 1764080002,
+        "rank": 6,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 345304,
+        "num": 345304,
+        "word": "天津大爷30克金条藏辣酱里",
+        "onboard_time": 1764118403,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202962,
+        "num": 337376,
+        "word": "iG阵容",
+        "onboard_time": 1764119600,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 133933,
+        "num": 332921,
+        "word": "王者荣耀",
+        "onboard_time": 1764118701,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 675606,
+        "num": 332525,
+        "word": "特朗普想重启成龙电影尖峰时刻",
+        "onboard_time": 1764119302,
+        "rank": 10,
+        "category": "国际时政,电影"
+      },
+      {
+        "raw_hot": 332054,
+        "num": 332054,
+        "word": "腾讯把枭起青壤限免了",
+        "onboard_time": 1764117622,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 556757,
+        "num": 326098,
+        "word": "你不结婚我晚上睡不着",
+        "onboard_time": 1764112398,
+        "rank": 12,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 338570,
+        "num": 318569,
+        "word": "日本军国主义装都不装了",
+        "onboard_time": 1764118521,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 306208,
+        "num": 306208,
+        "word": "尼克朱迪 表白",
+        "onboard_time": 1764121580,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 273815,
+        "num": 273815,
+        "word": "花少北",
+        "onboard_time": 1764120380,
+        "rank": 15,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 296933,
+        "num": 265410,
+        "word": "疯狂动物城2",
+        "onboard_time": 1764114559,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 247145,
+        "num": 247145,
+        "word": "男演员和68岁姐姐拍姐弟恋短剧",
+        "onboard_time": 1764091216,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 234847,
+        "num": 234847,
+        "word": "驻柬使馆回应仝卓表弟失联",
+        "onboard_time": 1764118161,
+        "rank": 18,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 188370,
+        "num": 188370,
+        "word": "内娱长剧回宫了",
+        "onboard_time": 1764123020,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 830033,
+        "num": 187045,
+        "word": "36岁王俊凯涉嫌非法吸收公众存款被立案侦查",
+        "onboard_time": 1764117141,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620672,
+        "num": 185613,
+        "word": "郭富城回应追四胎",
+        "onboard_time": 1764118223,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 20393,
+        "num": 184731,
+        "word": "美乌尚未敲定和平协议最终文本",
+        "onboard_time": 1764122421,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 294410,
+        "num": 182642,
+        "word": "林俊杰回应恋情",
+        "onboard_time": 1764069081,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203355,
+        "num": 181227,
+        "word": "上海电动车出现闭店潮",
+        "onboard_time": 1764118042,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179821,
+        "num": 179821,
+        "word": "老板在员工讨薪次日自杀身亡",
+        "onboard_time": 1764116901,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177712,
+        "num": 177712,
+        "word": "女子离家一年活鱼变鱼刺",
+        "onboard_time": 1764113779,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169178,
+        "num": 169178,
+        "word": "汪峰大女儿超模基因",
+        "onboard_time": 1764084560,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120804,
+        "num": 168471,
+        "word": "仝卓表弟曾来电旁边有人提要钱",
+        "onboard_time": 1764117742,
+        "rank": 28,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 94332,
+        "num": 167891,
+        "word": "120万一针的抗癌针有用吗",
+        "onboard_time": 1764114140,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 167838,
+        "num": 167838,
+        "word": "不用做家务的家长什么样",
+        "onboard_time": 1764123082,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 154374,
+        "num": 154374,
+        "word": "425米全球最高住宅已严重开裂",
+        "onboard_time": 1764123321,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 142002,
+        "num": 142002,
+        "word": "英伟达紧急发声",
+        "onboard_time": 1764117201,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 139966,
+        "num": 139966,
+        "word": "难怪大人们都喜欢大方的小孩",
+        "onboard_time": 1764117861,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134537,
+        "num": 134537,
+        "word": "张峻豪 无语",
+        "onboard_time": 1764121161,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126873,
+        "num": 126873,
+        "word": "女子为肠道蠕动睡前吞20粒蓖麻子",
+        "onboard_time": 1764082521,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 126241,
+        "num": 126241,
+        "word": "特朗普的沉默让日本失望了",
+        "onboard_time": 1764123140,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119901,
+        "num": 119901,
+        "word": "银行五折清仓卖房能不能买",
+        "onboard_time": 1764121641,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72269,
+        "num": 114528,
+        "word": "解放军报发文",
+        "onboard_time": 1764112699,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 43737,
+        "num": 111170,
+        "word": "男子抛妻弃子20年欠40万儿子拒还",
+        "onboard_time": 1764123680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109276,
+        "num": 109276,
+        "word": "全红婵阿勒泰滑雪休整放松",
+        "onboard_time": 1764122840,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38554,
+        "num": 107017,
+        "word": "老人2800元买制氧机收到塑料垃圾",
+        "onboard_time": 1764122481,
+        "rank": 41,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 98246,
+        "num": 106409,
+        "word": "怪奇物语第五季",
+        "onboard_time": 1764121940,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106169,
+        "num": 106169,
+        "word": "杨紫被抓包在自拍",
+        "onboard_time": 1764118822,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105450,
+        "num": 105450,
+        "word": "全红婵晒滑雪视频",
+        "onboard_time": 1764121880,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98668,
+        "num": 98668,
+        "word": "山姆上线薛记炒货引争议",
+        "onboard_time": 1764085580,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88660,
+        "num": 88660,
+        "word": "美国知名空头死咬英伟达",
+        "onboard_time": 1764122182,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 82016,
+        "num": 82016,
+        "word": "疯狂动物城2中国影史动画预售票房冠军",
+        "onboard_time": 1764083302,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81779,
+        "num": 81779,
+        "word": "流感高峰时间已确定",
+        "onboard_time": 1764104053,
+        "rank": 48,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 65783,
+        "num": 81184,
+        "word": "快递越来越环保了",
+        "onboard_time": 1764123321,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平会见汤加国王图普六世#"
+    }
+  }
+}

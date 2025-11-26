@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764122408597,
+  "endTime": 1764123767801,
   "band_list": [
     {
       "raw_hot": 1887369,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 906137,
-      "num": 164185,
+      "num": 187045,
       "word": "36岁王俊凯涉嫌非法吸收公众存款被立案侦查",
       "onboard_time": 1764117141,
       "rank": 20,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 709127,
-      "num": 163802,
+      "num": 185613,
       "word": "郭富城回应追四胎",
       "onboard_time": 1764118223,
       "rank": 21,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 695227,
-      "num": 163387,
+      "num": 182642,
       "word": "林俊杰回应恋情",
       "onboard_time": 1764069081,
       "rank": 20,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 600005,
-      "num": 322012,
+      "num": 326098,
       "word": "你不结婚我晚上睡不着",
       "onboard_time": 1764112398,
       "rank": 26,
@@ -81,6 +81,22 @@
       "onboard_time": 1764114559,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 403650,
+      "num": 403650,
+      "word": "疯狂动物城2 好笑",
+      "onboard_time": 1764120380,
+      "rank": 17,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 403292,
+      "num": 403292,
+      "word": "不二之臣开拍",
+      "onboard_time": 1764122060,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 395601,
@@ -116,11 +132,27 @@
     },
     {
       "raw_hot": 348522,
-      "num": 162935,
+      "num": 169178,
       "word": "汪峰大女儿超模基因",
       "onboard_time": 1764084560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345304,
+      "num": 345304,
+      "word": "天津大爷30克金条藏辣酱里",
+      "onboard_time": 1764118403,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 338570,
+      "num": 318569,
+      "word": "日本军国主义装都不装了",
+      "onboard_time": 1764118521,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 314119,
@@ -139,12 +171,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 290333,
-      "num": 290333,
-      "word": "日本军国主义装都不装了",
-      "onboard_time": 1764118521,
-      "rank": 12,
-      "category": "国际时政"
+      "raw_hot": 306208,
+      "num": 306208,
+      "word": "尼克朱迪 表白",
+      "onboard_time": 1764121580,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 276759,
@@ -163,20 +195,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 274152,
-      "num": 274152,
-      "word": "天津大爷30克金条藏辣酱里",
-      "onboard_time": 1764118403,
-      "rank": 13,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 273850,
       "num": 273850,
       "word": "驻柬使馆回应仝卓表弟失联",
       "onboard_time": 1764118161,
       "rank": 14,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 273815,
+      "num": 273815,
+      "word": "花少北",
+      "onboard_time": 1764120380,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 268037,
@@ -196,7 +228,7 @@
     },
     {
       "raw_hot": 264043,
-      "num": 162551,
+      "num": 181227,
       "word": "上海电动车出现闭店潮",
       "onboard_time": 1764118042,
       "rank": 24,
@@ -236,35 +268,19 @@
     },
     {
       "raw_hot": 228902,
-      "num": 335100,
+      "num": 337376,
       "word": "iG阵容",
       "onboard_time": 1764119600,
       "rank": 8,
       "category": "电竞"
     },
     {
-      "raw_hot": 221852,
-      "num": 221852,
-      "word": "不二之臣开拍",
-      "onboard_time": 1764122060,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 216705,
-      "num": 162026,
+      "num": 179821,
       "word": "老板在员工讨薪次日自杀身亡",
       "onboard_time": 1764116901,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 214146,
-      "num": 214146,
-      "word": "疯狂动物城2 好笑",
-      "onboard_time": 1764120380,
-      "rank": 17,
-      "category": "电影"
     },
     {
       "raw_hot": 197932,
@@ -281,6 +297,14 @@
       "onboard_time": 1764117201,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 188370,
+      "num": 188370,
+      "word": "内娱长剧回宫了",
+      "onboard_time": 1764123020,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 187033,
@@ -307,12 +331,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 164741,
-      "num": 164741,
-      "word": "尼克朱迪 表白",
-      "onboard_time": 1764121580,
-      "rank": 18,
-      "category": "电影"
+      "raw_hot": 167838,
+      "num": 167838,
+      "word": "不用做家务的家长什么样",
+      "onboard_time": 1764123082,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 162953,
+      "num": 1626674,
+      "word": "法考",
+      "onboard_time": 1764118882,
+      "rank": 1,
+      "category": "教育"
     },
     {
       "raw_hot": 160194,
@@ -347,20 +379,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 154374,
+      "num": 154374,
+      "word": "425米全球最高住宅已严重开裂",
+      "onboard_time": 1764123321,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 153104,
       "num": 153104,
       "word": "欧冠",
       "onboard_time": 1764113600,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 147961,
-      "num": 147961,
-      "word": "花少北",
-      "onboard_time": 1764120380,
-      "rank": 31,
-      "category": "游戏"
     },
     {
       "raw_hot": 145457,
@@ -379,12 +411,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142212,
-      "num": 1626674,
-      "word": "法考",
-      "onboard_time": 1764118882,
-      "rank": 1,
-      "category": "教育"
+      "raw_hot": 134537,
+      "num": 134537,
+      "word": "张峻豪 无语",
+      "onboard_time": 1764121161,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 133933,
+      "num": 332921,
+      "word": "王者荣耀",
+      "onboard_time": 1764118701,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 133611,
@@ -427,6 +467,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 126241,
+      "num": 126241,
+      "word": "特朗普的沉默让日本失望了",
+      "onboard_time": 1764123140,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126132,
       "num": 160608,
       "word": "疯狂动物城2中国影史动画预售票房冠军",
@@ -441,6 +489,22 @@
       "onboard_time": 1764069441,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120804,
+      "num": 168471,
+      "word": "仝卓表弟曾来电旁边有人提要钱",
+      "onboard_time": 1764117742,
+      "rank": 46,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 119901,
+      "num": 164377,
+      "word": "银行五折清仓卖房能不能买",
+      "onboard_time": 1764121641,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117093,
@@ -483,12 +547,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 108872,
-      "num": 108872,
-      "word": "王者荣耀",
-      "onboard_time": 1764118701,
-      "rank": 36,
-      "category": "电竞"
+      "raw_hot": 109276,
+      "num": 109276,
+      "word": "全红婵阿勒泰滑雪休整放松",
+      "onboard_time": 1764122840,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 106783,
@@ -499,16 +563,16 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 104551,
-      "num": 104551,
-      "word": "张峻豪 无语",
-      "onboard_time": 1764121161,
-      "rank": 40,
+      "raw_hot": 106169,
+      "num": 106169,
+      "word": "杨紫被抓包在自拍",
+      "onboard_time": 1764118822,
+      "rank": 45,
       "category": "艺人"
     },
     {
       "raw_hot": 100730,
-      "num": 161235,
+      "num": 167891,
       "word": "120万一针的抗癌针有用吗",
       "onboard_time": 1764114140,
       "rank": 27,
@@ -521,6 +585,14 @@
       "onboard_time": 1764069200,
       "rank": 8,
       "category": "数码"
+    },
+    {
+      "raw_hot": 98246,
+      "num": 106409,
+      "word": "怪奇物语第五季",
+      "onboard_time": 1764121940,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 98109,
@@ -547,14 +619,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 91833,
-      "num": 91833,
-      "word": "杨紫被抓包在自拍",
-      "onboard_time": 1764118822,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 91753,
       "num": 160196,
       "word": "解放军报发文",
@@ -579,12 +643,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 84898,
-      "num": 84898,
-      "word": "仝卓表弟曾来电旁边有人提要钱",
-      "onboard_time": 1764117742,
+      "raw_hot": 88660,
+      "num": 88660,
+      "word": "美国知名空头死咬英伟达",
+      "onboard_time": 1764122182,
       "rank": 46,
-      "category": "民生新闻,艺人"
+      "category": "互联网"
     },
     {
       "raw_hot": 84790,
@@ -592,14 +656,6 @@
       "word": "泰版步步惊心",
       "onboard_time": 1764072862,
       "rank": 35,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 82929,
-      "num": 82929,
-      "word": "怪奇物语第五季",
-      "onboard_time": 1764121940,
-      "rank": 47,
       "category": "剧集"
     },
     {
@@ -657,6 +713,14 @@
       "onboard_time": 1764078862,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65783,
+      "num": 81184,
+      "word": "快递越来越环保了",
+      "onboard_time": 1764123321,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64246,
@@ -731,14 +795,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 54716,
-      "num": 164377,
-      "word": "银行五折清仓卖房能不能买",
-      "onboard_time": 1764121641,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 53940,
       "num": 121733,
       "word": "费尔岛毛衣",
@@ -779,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 43737,
+      "num": 111170,
+      "word": "男子抛妻弃子20年欠40万儿子拒还",
+      "onboard_time": 1764123680,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43621,
       "num": 1524938,
       "word": "网警查处编造民宿现不明感染源谣言者",
@@ -801,6 +865,14 @@
       "onboard_time": 1764085520,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 38554,
+      "num": 107017,
+      "word": "老人2800元买制氧机收到塑料垃圾",
+      "onboard_time": 1764122481,
+      "rank": 41,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 36138,
@@ -889,6 +961,14 @@
       "onboard_time": 1764092295,
       "rank": 46,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 20393,
+      "num": 184731,
+      "word": "美乌尚未敲定和平协议最终文本",
+      "onboard_time": 1764122421,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19325,
