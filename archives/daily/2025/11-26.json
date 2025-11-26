@@ -1,10 +1,10 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764156356807,
+  "endTime": 1764157165700,
   "band_list": [
     {
-      "raw_hot": 11264015,
-      "num": 11264015,
+      "raw_hot": 11513970,
+      "num": 11513970,
       "word": "香港火灾",
       "onboard_time": 1764152062,
       "rank": 5,
@@ -73,6 +73,14 @@
       "onboard_time": 1764146122,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1298148,
+      "num": 1298148,
+      "word": "香港火灾升至五级",
+      "onboard_time": 1764155724,
+      "rank": 6,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1250131,
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 683458,
-      "num": 320327,
+      "num": 486848,
       "word": "妈妈生二胎期间5岁儿子在家发烧离世",
       "onboard_time": 1764154463,
       "rank": 10,
@@ -267,12 +275,12 @@
       "category": "情感,休闲"
     },
     {
-      "raw_hot": 545865,
-      "num": 545865,
-      "word": "香港火灾升至五级",
-      "onboard_time": 1764155724,
-      "rank": 6,
-      "category": "突发/灾害"
+      "raw_hot": 591125,
+      "num": 591125,
+      "word": "芒果史冠",
+      "onboard_time": 1764153321,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 535207,
@@ -292,7 +300,7 @@
     },
     {
       "raw_hot": 520547,
-      "num": 315727,
+      "num": 397886,
       "word": "仝卓辟谣表弟获救",
       "onboard_time": 1764150682,
       "rank": 11,
@@ -340,7 +348,7 @@
     },
     {
       "raw_hot": 467964,
-      "num": 389773,
+      "num": 424063,
       "word": "海底捞顾客被嘲只点锅底光吃小料",
       "onboard_time": 1764152363,
       "rank": 19,
@@ -353,6 +361,22 @@
       "onboard_time": 1764136042,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 462662,
+      "num": 462662,
+      "word": "李威夫妇讲述精舍杀人案细节",
+      "onboard_time": 1764156264,
+      "rank": 33,
+      "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 461739,
+      "num": 461739,
+      "word": "李威",
+      "onboard_time": 1764155783,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 458366,
@@ -404,7 +428,7 @@
     },
     {
       "raw_hot": 416846,
-      "num": 416846,
+      "num": 549331,
       "word": "香港大火一消防员殉职",
       "onboard_time": 1764153921,
       "rank": 41,
@@ -483,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 384181,
-      "num": 384181,
-      "word": "芒果史冠",
-      "onboard_time": 1764153321,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 366739,
       "num": 366739,
       "word": "腾讯把枭起青壤限免了",
@@ -547,6 +563,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 347184,
+      "num": 566649,
+      "word": "李维嘉曝某节目录制期间不放饭",
+      "onboard_time": 1764155424,
+      "rank": 9,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 345304,
       "num": 345304,
       "word": "天津大爷30克金条藏辣酱里",
@@ -569,14 +593,6 @@
       "onboard_time": 1764142821,
       "rank": 49,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 321475,
-      "num": 321475,
-      "word": "李维嘉曝某节目录制期间不放饭",
-      "onboard_time": 1764155424,
-      "rank": 9,
-      "category": "综艺"
     },
     {
       "raw_hot": 320141,
@@ -843,14 +859,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 245504,
-      "num": 245504,
-      "word": "李威",
-      "onboard_time": 1764155783,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 244859,
       "num": 244859,
       "word": "程晓玥说没做过医美",
@@ -996,7 +1004,7 @@
     },
     {
       "raw_hot": 203522,
-      "num": 203522,
+      "num": 524057,
       "word": "Uzi韩服RANK停更",
       "onboard_time": 1764154403,
       "rank": 25,
@@ -1081,6 +1089,14 @@
       "onboard_time": 1764146421,
       "rank": 32,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192080,
+      "num": 266847,
+      "word": "香蜜沉沉烬如霜",
+      "onboard_time": 1764156203,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 191783,
@@ -1219,6 +1235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176236,
+      "num": 163319,
+      "word": "立陶宛嚣张求和",
+      "onboard_time": 1764155424,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 175109,
       "num": 175109,
       "word": "周柯宇都在当正规军了",
@@ -1299,14 +1323,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 163897,
-      "num": 163897,
-      "word": "李威夫妇讲述精舍杀人案细节",
-      "onboard_time": 1764156264,
-      "rank": 33,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 162953,
       "num": 1626674,
       "word": "法考",
@@ -1355,6 +1371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 159237,
+      "num": 187894,
+      "word": "音乐缘计划 薛之谦",
+      "onboard_time": 1764155724,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158682,
       "num": 175115,
       "word": "短剧演员演长剧从从容容游刃有余",
@@ -1377,14 +1401,6 @@
       "onboard_time": 1764138561,
       "rank": 37,
       "category": "网红"
-    },
-    {
-      "raw_hot": 157736,
-      "num": 148105,
-      "word": "立陶宛嚣张求和",
-      "onboard_time": 1764155424,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 157408,
@@ -1451,14 +1467,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 148352,
-      "num": 148352,
-      "word": "香蜜沉沉烬如霜",
-      "onboard_time": 1764156203,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 148334,
       "num": 148334,
       "word": "贵州一高校禁止学生用企鹅舞表情包",
@@ -1505,14 +1513,6 @@
       "onboard_time": 1764146842,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 144460,
-      "num": 187894,
-      "word": "音乐缘计划 薛之谦",
-      "onboard_time": 1764155724,
-      "rank": 29,
-      "category": "综艺"
     },
     {
       "raw_hot": 144043,
@@ -1569,6 +1569,14 @@
       "onboard_time": 1764144140,
       "rank": 40,
       "category": "财经"
+    },
+    {
+      "raw_hot": 137561,
+      "num": 137561,
+      "word": "原来结婚前一晚真的睡不着",
+      "onboard_time": 1764156383,
+      "rank": 32,
+      "category": "幽默"
     },
     {
       "raw_hot": 137560,
@@ -1755,6 +1763,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126305,
+      "num": 126305,
+      "word": "郭宇欣马上进组短剧",
+      "onboard_time": 1764156922,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 126132,
       "num": 160608,
       "word": "疯狂动物城2中国影史动画预售票房冠军",
@@ -1793,6 +1809,14 @@
       "onboard_time": 1764148642,
       "rank": 48,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 123591,
+      "num": 4533457,
+      "word": "神22一箭穿日",
+      "onboard_time": 1764154885,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 123570,
@@ -1896,6 +1920,14 @@
       "word": "流感H3N2毒株来袭儿童如何应对",
       "onboard_time": 1764132981,
       "rank": 49,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 118137,
+      "num": 118137,
+      "word": "为什么中国这么多糖尿病",
+      "onboard_time": 1764155124,
+      "rank": 37,
       "category": "健康医疗"
     },
     {
@@ -2027,6 +2059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105323,
+      "num": 105323,
+      "word": "香港警方回应大埔大火",
+      "onboard_time": 1764156563,
+      "rank": 40,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 104962,
       "num": 263182,
       "word": "子阳 前职业选手",
@@ -2036,7 +2076,7 @@
     },
     {
       "raw_hot": 104423,
-      "num": 1809203,
+      "num": 2125435,
       "word": "赵长江回应入职传闻",
       "onboard_time": 1764153261,
       "rank": 4,
@@ -2051,12 +2091,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 101451,
-      "num": 4533457,
-      "word": "神22一箭穿日",
-      "onboard_time": 1764154885,
-      "rank": 1,
-      "category": "国内时政"
+      "raw_hot": 102645,
+      "num": 102645,
+      "word": "警方回应为何公布嫌犯王俊凯全名",
+      "onboard_time": 1764157102,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 101370,
+      "num": 101370,
+      "word": "香蜜竟然要拍短剧了",
+      "onboard_time": 1764155544,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 101043,
@@ -2243,6 +2291,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 86231,
+      "num": 101196,
+      "word": "C罗身体年龄比实际年龄小12岁",
+      "onboard_time": 1764156922,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85062,
       "num": 270168,
       "word": "官方辟谣充电宝3C认证全面失效",
@@ -2353,6 +2409,14 @@
       "onboard_time": 1764088159,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 68486,
+      "num": 101116,
+      "word": "理想汽车营收下滑36%",
+      "onboard_time": 1764154643,
+      "rank": 48,
+      "category": "汽车"
     },
     {
       "raw_hot": 68130,
@@ -2483,6 +2547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 56781,
+      "num": 141926,
+      "word": "杨紫韩东君的鞋能戳对方一个窟窿",
+      "onboard_time": 1764156023,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 56226,
       "num": 103025,
       "word": "金龙鱼子公司被判共担退赔18.81亿",
@@ -2555,14 +2627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51397,
-      "num": 141926,
-      "word": "杨紫韩东君的鞋能戳对方一个窟窿",
-      "onboard_time": 1764156023,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 51273,
       "num": 172173,
       "word": "男子11元抢小米冰箱商家拒发只赔30",
@@ -2617,6 +2681,14 @@
       "onboard_time": 1764064822,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 46533,
+      "num": 263028,
+      "word": "西贝正降温止损品牌顾问却主动拱火",
+      "onboard_time": 1764156683,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45929,
@@ -2809,6 +2881,14 @@
       "onboard_time": 1764090437,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26074,
+      "num": 4444669,
+      "word": "五万年前的长臂猿DNA找到了",
+      "onboard_time": 1764156622,
+      "rank": 1,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 25085,
@@ -3009,6 +3089,14 @@
       "onboard_time": 1764149722,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 7332,
+      "num": 105545,
+      "word": "袁咏仪叮嘱张智霖不要说脏话",
+      "onboard_time": 1764156922,
+      "rank": 39,
+      "category": "艺人"
     }
   ],
   "hotgov_list": [
