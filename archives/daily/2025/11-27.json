@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764184929630,
+  "endTime": 1764185817193,
   "band_list": [
     {
       "raw_hot": 9847423,
@@ -451,12 +451,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 17110,
+      "raw_hot": 18881,
       "num": 157941,
       "word": "原来明星也会讨论份子钱怎么随",
       "onboard_time": 1764183615,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 12749,
+      "num": 138047,
+      "word": "这些文件条款不容日本曲解挑战",
+      "onboard_time": 1764171624,
+      "rank": 49,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
