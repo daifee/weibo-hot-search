@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764196979496,
+  "endTime": 1764199552845,
   "band_list": [
     {
       "raw_hot": 9847423,
@@ -11,19 +11,27 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 4529511,
+      "num": 4529511,
+      "word": "香港火灾已致44人遇难",
+      "onboard_time": 1764197538,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1211935,
+      "num": 525111,
+      "word": "香港火灾疑似起火点曝光",
+      "onboard_time": 1764167125,
+      "rank": 23,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1113380,
       "num": 1113380,
       "word": "深圳消防车队已在莲塘口岸集结",
       "onboard_time": 1764172223,
       "rank": 0,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 965436,
-      "num": 525111,
-      "word": "香港火灾疑似起火点曝光",
-      "onboard_time": 1764167125,
-      "rank": 23,
       "category": "突发/灾害"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1764167726,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 726027,
+      "num": 180535,
+      "word": "多名旅日中国公民遭殴打受伤",
+      "onboard_time": 1764196097,
+      "rank": 6,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 703573,
@@ -67,6 +83,22 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 413404,
+      "num": 509600,
+      "word": "赵樱子因姓张1米9男生而不拍戏",
+      "onboard_time": 1764166467,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 412821,
+      "num": 717335,
+      "word": "法医刘良全程参与手术离世女婴尸检",
+      "onboard_time": 1764171624,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 388741,
       "num": 724383,
       "word": "站姐涅槃 400万",
@@ -75,12 +107,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 314042,
-      "num": 509600,
-      "word": "赵樱子因姓张1米9男生而不拍戏",
-      "onboard_time": 1764166467,
-      "rank": 21,
-      "category": "艺人"
+      "raw_hot": 317098,
+      "num": 482730,
+      "word": "香港火灾升至五级",
+      "onboard_time": 1764155724,
+      "rank": 31,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 306084,
@@ -89,14 +121,6 @@
       "onboard_time": 1764160703,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 303518,
-      "num": 717335,
-      "word": "法医刘良全程参与手术离世女婴尸检",
-      "onboard_time": 1764171624,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 288478,
@@ -115,20 +139,28 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 273396,
-      "num": 482730,
-      "word": "香港火灾升至五级",
-      "onboard_time": 1764155724,
-      "rank": 31,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 236579,
       "num": 806204,
       "word": "全力支持香港应对处置火灾事故",
       "onboard_time": 1764174501,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236019,
+      "num": 278430,
+      "word": "童锦程的空闲房子被陌生人住进去了",
+      "onboard_time": 1764180376,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 232264,
+      "num": 482651,
+      "word": "李诞劝女生不要找年纪太大的",
+      "onboard_time": 1764168445,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 218570,
@@ -139,12 +171,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 207166,
+      "num": 493080,
+      "word": "李威夫妇讲述精舍杀人案细节",
+      "onboard_time": 1764156264,
+      "rank": 30,
+      "category": "艺人,民生新闻"
+    },
+    {
       "raw_hot": 199212,
       "num": 849948,
       "word": "孙千 现代",
       "onboard_time": 1764169887,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195412,
+      "num": 195412,
+      "word": "阿森纳3比1拜仁慕尼黑",
+      "onboard_time": 1764198979,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 194458,
@@ -187,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165901,
+      "num": 165901,
+      "word": "众星为香港火灾受灾民众祈福",
+      "onboard_time": 1764198440,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 161445,
       "num": 502116,
       "word": "李威妻子出庭痛哭自责没救死者",
@@ -211,6 +267,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150593,
+      "num": 150593,
+      "word": "许家印前妻丁玉梅更多资产曝光",
+      "onboard_time": 1764198859,
+      "rank": 22,
+      "category": "财经"
+    },
+    {
       "raw_hot": 140530,
       "num": 521247,
       "word": "香蜜沉沉烬如霜火了又火",
@@ -220,19 +284,27 @@
     },
     {
       "raw_hot": 135457,
-      "num": 83528,
+      "num": 119019,
       "word": "特朗普宣布拜登的火鸡救免令无效",
       "onboard_time": 1764192554,
       "rank": 31,
       "category": "国际时政"
     },
     {
-      "raw_hot": 125395,
-      "num": 125395,
-      "word": "多名旅日中国公民遭殴打受伤",
-      "onboard_time": 1764196097,
-      "rank": 6,
-      "category": "海外新闻"
+      "raw_hot": 123036,
+      "num": 482639,
+      "word": "李立群回应三个孩子都没结婚",
+      "onboard_time": 1764168206,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 121610,
+      "num": 156440,
+      "word": "再次提醒中国公民近期避免前往日本",
+      "onboard_time": 1764198499,
+      "rank": 16,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117886,
@@ -243,36 +315,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 116078,
-      "num": 482651,
-      "word": "李诞劝女生不要找年纪太大的",
-      "onboard_time": 1764168445,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 115401,
-      "num": 278430,
-      "word": "童锦程的空闲房子被陌生人住进去了",
-      "onboard_time": 1764180376,
-      "rank": 17,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 112745,
-      "num": 493080,
-      "word": "李威夫妇讲述精舍杀人案细节",
-      "onboard_time": 1764156264,
-      "rank": 30,
-      "category": "艺人,民生新闻"
-    },
-    {
       "raw_hot": 110295,
       "num": 482753,
       "word": "郭碧婷晒照被评好像向太",
       "onboard_time": 1764166166,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 110147,
+      "num": 752571,
+      "word": "王楚钦回应获总决赛混双外卡",
+      "onboard_time": 1764167905,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 108460,
@@ -291,6 +347,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 97647,
+      "num": 482627,
+      "word": "反诈老陈近3年收入100万",
+      "onboard_time": 1764163706,
+      "rank": 47,
+      "category": "网红"
+    },
+    {
       "raw_hot": 97305,
       "num": 482726,
       "word": "巨蛇在泰国洪水中游动",
@@ -305,6 +369,14 @@
       "onboard_time": 1764161185,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92706,
+      "num": 92706,
+      "word": "空腹爬楼瘦了30斤",
+      "onboard_time": 1764199401,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 86009,
@@ -339,6 +411,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 80177,
+      "num": 83407,
+      "word": "真的建议普通人也去拍vlog",
+      "onboard_time": 1764194115,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 79349,
       "num": 482682,
       "word": "43岁坚持运动一年的变化有多大",
@@ -355,20 +435,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75071,
-      "num": 482639,
-      "word": "李立群回应三个孩子都没结婚",
-      "onboard_time": 1764168206,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69953,
-      "num": 752571,
-      "word": "王楚钦回应获总决赛混双外卡",
-      "onboard_time": 1764167905,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 68748,
+      "num": 120112,
+      "word": "谍报上不封顶",
+      "onboard_time": 1764196697,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 68035,
@@ -387,14 +459,6 @@
       "category": "艺人,作品衍生"
     },
     {
-      "raw_hot": 67008,
-      "num": 482627,
-      "word": "反诈老陈近3年收入100万",
-      "onboard_time": 1764163706,
-      "rank": 47,
-      "category": "网红"
-    },
-    {
       "raw_hot": 60639,
       "num": 482673,
       "word": "杨紫剧抛脸又上新了",
@@ -403,12 +467,44 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58113,
+      "num": 83300,
+      "word": "国外很贵国内很便宜的东西",
+      "onboard_time": 1764194115,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 56747,
+      "num": 84810,
+      "word": "易梦玲10年前私信询问表演培训",
+      "onboard_time": 1764186674,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 52413,
+      "num": 464421,
+      "word": "张纪中妻子自曝背100多的包",
+      "onboard_time": 1764175879,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 51692,
       "num": 482612,
       "word": "香港警方设立火灾寻人热线",
       "onboard_time": 1764170065,
       "rank": 49,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 51352,
+      "num": 164634,
+      "word": "利物浦1比4埃因霍温",
+      "onboard_time": 1764199461,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 50228,
@@ -427,28 +523,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 48802,
-      "num": 464421,
-      "word": "张纪中妻子自曝背100多的包",
-      "onboard_time": 1764175879,
-      "rank": 37,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 44017,
       "num": 391279,
       "word": "枭起青壤",
       "onboard_time": 1764182775,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 37935,
-      "num": 83407,
-      "word": "真的建议普通人也去拍vlog",
-      "onboard_time": 1764194115,
-      "rank": 36,
-      "category": "幽默"
     },
     {
       "raw_hot": 37491,
@@ -459,7 +539,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32991,
+      "raw_hot": 35436,
       "num": 1028817,
       "word": "长春成功申办2027世界大冬会",
       "onboard_time": 1764162325,
@@ -475,36 +555,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 29136,
-      "num": 83300,
-      "word": "国外很贵国内很便宜的东西",
-      "onboard_time": 1764194115,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 28835,
-      "num": 83261,
-      "word": "谍报上不封顶",
-      "onboard_time": 1764196697,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28508,
       "num": 267488,
       "word": "香蜜沉沉烬如霜",
       "onboard_time": 1764156203,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 25847,
-      "num": 84810,
-      "word": "易梦玲10年前私信询问表演培训",
-      "onboard_time": 1764186674,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 20987,
