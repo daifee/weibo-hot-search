@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764182149460,
+  "endTime": 1764182887750,
   "band_list": [
     {
       "raw_hot": 9847423,
@@ -371,6 +371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60284,
+      "num": 278430,
+      "word": "童锦程的空闲房子被陌生人住进去了",
+      "onboard_time": 1764180376,
+      "rank": 17,
+      "category": "网红"
+    },
+    {
       "raw_hot": 57170,
       "num": 752571,
       "word": "王楚钦回应获总决赛混双外卡",
@@ -411,12 +419,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44186,
-      "num": 278430,
-      "word": "童锦程的空闲房子被陌生人住进去了",
-      "onboard_time": 1764180376,
-      "rank": 17,
-      "category": "网红"
+      "raw_hot": 44017,
+      "num": 391279,
+      "word": "枭起青壤",
+      "onboard_time": 1764182775,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 37491,
