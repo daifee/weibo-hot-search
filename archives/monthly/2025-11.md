@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 10:22:47
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/26 11:22:48
 </p>
 </blockquote>
 <p>
@@ -2841,6 +2841,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9A%84%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%93%BA%E5%BC%80%23" target="weibo">
+日本的战争准备正全面铺开（热度：788218）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E8%B4%9D%E9%99%8D%E4%BB%B7%23" target="weibo">
 西贝降价（热度：788182）
 </a>
@@ -2933,6 +2939,12 @@ FILA致歉（热度：782840）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E5%AB%A3%E7%BD%97%E6%99%8B%E8%A1%8C%E7%A8%8B%E6%97%B6%E9%97%B4%E7%BA%BF%23" target="weibo">
 唐嫣罗晋行程时间线（热度：781025）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%BC%E5%85%8B%E6%9C%B1%E8%BF%AA%20%E8%A1%A8%E7%99%BD%23" target="weibo">
+尼克朱迪 表白（热度：778071）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ T1官宣Peyz加入（热度：531624）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%91%E6%AD%BB%E4%BA%86%E4%BD%86%E6%98%AF%E6%83%B3%E4%B8%8B%E5%8D%95%23" target="weibo">
 丑死了但是想下单（热度：526093）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%87%BA%E7%94%9F%E7%8E%87%E6%8E%A5%E8%BF%910%E7%9A%84%E6%97%A5%E6%9C%AC%E5%9F%8E%E5%B8%82%E5%90%8E%E6%9D%A5%E6%80%8E%E6%A0%B7%E4%BA%86%23" target="weibo">
-出生率接近0的日本城市后来怎样了（热度：525342）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%9B%E6%9F%8F%E9%9D%92%E5%92%8C%E6%9D%8E%E4%B9%83%E6%96%87%E5%86%8D%E6%AC%A1%E7%8E%B0%E8%BA%AB%E5%A4%A7%E5%AD%A4%E5%B1%B1%23" target="weibo">
-辛柏青和李乃文再次现身大孤山（热度：525293）
 </a>
 </li>
 

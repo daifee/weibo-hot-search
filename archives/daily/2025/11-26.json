@@ -1,6 +1,6 @@
 {
   "startTime": 1764088644666,
-  "endTime": 1764123767801,
+  "endTime": 1764127368576,
   "band_list": [
     {
       "raw_hot": 1887369,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 906137,
-      "num": 187045,
+      "num": 199358,
       "word": "36岁王俊凯涉嫌非法吸收公众存款被立案侦查",
       "onboard_time": 1764117141,
       "rank": 20,
@@ -43,8 +43,24 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 788218,
+      "num": 237475,
+      "word": "日本的战争准备正全面铺开",
+      "onboard_time": 1764124280,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 778071,
+      "num": 306208,
+      "word": "尼克朱迪 表白",
+      "onboard_time": 1764121580,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 709127,
-      "num": 185613,
+      "num": 197038,
       "word": "郭富城回应追四胎",
       "onboard_time": 1764118223,
       "rank": 21,
@@ -52,7 +68,7 @@
     },
     {
       "raw_hot": 695227,
-      "num": 182642,
+      "num": 185859,
       "word": "林俊杰回应恋情",
       "onboard_time": 1764069081,
       "rank": 20,
@@ -75,12 +91,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 489731,
+      "num": 240391,
+      "word": "内娱长剧回宫了",
+      "onboard_time": 1764123020,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 438148,
       "num": 1514522,
       "word": "疯狂动物城2",
       "onboard_time": 1764114559,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 406660,
+      "num": 224736,
+      "word": "425米全球最高住宅已严重开裂",
+      "onboard_time": 1764123321,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 403650,
@@ -147,6 +179,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 342777,
+      "num": 210338,
+      "word": "罗永浩 录音",
+      "onboard_time": 1764125901,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 338570,
       "num": 318569,
       "word": "日本军国主义装都不装了",
@@ -171,12 +211,28 @@
       "category": "演出"
     },
     {
-      "raw_hot": 306208,
-      "num": 306208,
-      "word": "尼克朱迪 表白",
-      "onboard_time": 1764121580,
-      "rank": 18,
+      "raw_hot": 303556,
+      "num": 205344,
+      "word": "500度近视200度散光半飞秒第一视角",
+      "onboard_time": 1764123680,
+      "rank": 15,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 295746,
+      "num": 195350,
+      "word": "影院回复称狂野时代的包场合规合法",
+      "onboard_time": 1764126021,
+      "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 285536,
+      "num": 273815,
+      "word": "花少北",
+      "onboard_time": 1764120380,
+      "rank": 31,
+      "category": "游戏"
     },
     {
       "raw_hot": 276759,
@@ -203,14 +259,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 273815,
-      "num": 273815,
-      "word": "花少北",
-      "onboard_time": 1764120380,
-      "rank": 31,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 268037,
       "num": 122249,
       "word": "杜克一哥20w分手费",
@@ -225,6 +273,14 @@
       "onboard_time": 1764086361,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 265564,
+      "num": 192645,
+      "word": "男子抛妻弃子20年欠40万儿子拒还",
+      "onboard_time": 1764123680,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 264043,
@@ -251,12 +307,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 252145,
+      "num": 252145,
+      "word": "华为Mate80系列不支持磁吸",
+      "onboard_time": 1764125659,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 237597,
       "num": 139165,
       "word": "山姆上线薛记炒货引争议",
       "onboard_time": 1764085580,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 234494,
+      "num": 337376,
+      "word": "iG阵容",
+      "onboard_time": 1764119600,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 231175,
@@ -267,20 +339,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 228902,
-      "num": 337376,
-      "word": "iG阵容",
-      "onboard_time": 1764119600,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 216705,
       "num": 179821,
       "word": "老板在员工讨薪次日自杀身亡",
       "onboard_time": 1764116901,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212108,
+      "num": 191309,
+      "word": "133一斤的黑草莓到底是谁在吃",
+      "onboard_time": 1764127040,
+      "rank": 26,
+      "category": "美食"
     },
     {
       "raw_hot": 197932,
@@ -299,11 +371,19 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 188370,
-      "num": 188370,
-      "word": "内娱长剧回宫了",
-      "onboard_time": 1764123020,
-      "rank": 19,
+      "raw_hot": 190375,
+      "num": 190375,
+      "word": "井柏然孙千的吻戏",
+      "onboard_time": 1764124939,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 188369,
+      "num": 180569,
+      "word": "早春晴朗",
+      "onboard_time": 1764123799,
+      "rank": 30,
       "category": "剧集"
     },
     {
@@ -323,6 +403,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 178673,
+      "num": 178673,
+      "word": "女子穿厚羽绒服轻生跳河没沉下去",
+      "onboard_time": 1764125180,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 178410,
+      "num": 178410,
+      "word": "特朗普的沉默让日本失望了",
+      "onboard_time": 1764123140,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 176634,
       "num": 147805,
       "word": "杨紫 华伦千金",
@@ -337,6 +433,14 @@
       "onboard_time": 1764123082,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164285,
+      "num": 164285,
+      "word": "郑伊健日本演唱会取消",
+      "onboard_time": 1764124822,
+      "rank": 33,
+      "category": "演出"
     },
     {
       "raw_hot": 162953,
@@ -379,12 +483,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 154374,
-      "num": 154374,
-      "word": "425米全球最高住宅已严重开裂",
-      "onboard_time": 1764123321,
-      "rank": 31,
-      "category": "海外新闻"
+      "raw_hot": 153406,
+      "num": 153406,
+      "word": "鸣潮新角色",
+      "onboard_time": 1764127282,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 153104,
@@ -393,6 +497,22 @@
       "onboard_time": 1764113600,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146660,
+      "num": 146660,
+      "word": "我就说这张脸演的能是什么坏人",
+      "onboard_time": 1764124700,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 145839,
+      "num": 145839,
+      "word": "怪奇物语第五季",
+      "onboard_time": 1764121940,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 145457,
@@ -409,6 +529,22 @@
       "onboard_time": 1764056362,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 142149,
+      "num": 152023,
+      "word": "第一个说地枭头是开心果的是天才",
+      "onboard_time": 1764126140,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 137859,
+      "num": 202227,
+      "word": "直播间9块9洗衣液滋生出巨贪",
+      "onboard_time": 1764124880,
+      "rank": 18,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 134537,
@@ -467,14 +603,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 126241,
-      "num": 126241,
-      "word": "特朗普的沉默让日本失望了",
-      "onboard_time": 1764123140,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 126132,
       "num": 160608,
       "word": "疯狂动物城2中国影史动画预售票房冠军",
@@ -505,6 +633,14 @@
       "onboard_time": 1764121641,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118737,
+      "num": 148749,
+      "word": "一眼万年被孙千演出来了",
+      "onboard_time": 1764127341,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 117093,
@@ -571,6 +707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104962,
+      "num": 104962,
+      "word": "子阳 前职业选手",
+      "onboard_time": 1764125541,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100730,
       "num": 167891,
       "word": "120万一针的抗癌针有用吗",
@@ -587,19 +731,19 @@
       "category": "数码"
     },
     {
-      "raw_hot": 98246,
-      "num": 106409,
-      "word": "怪奇物语第五季",
-      "onboard_time": 1764121940,
-      "rank": 47,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 98109,
       "num": 121894,
       "word": "中方暂停日本电影在华上映审批",
       "onboard_time": 1764060201,
       "rank": 27,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 96152,
+      "num": 151463,
+      "word": "日本一酒店12月没中国订单",
+      "onboard_time": 1764126201,
+      "rank": 37,
       "category": "国内时政"
     },
     {
@@ -625,6 +769,14 @@
       "onboard_time": 1764112699,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91557,
+      "num": 104900,
+      "word": "体检查出12种疾病不需要过度治疗",
+      "onboard_time": 1764123321,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 90299,
@@ -657,6 +809,14 @@
       "onboard_time": 1764072862,
       "rank": 35,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 82497,
+      "num": 200820,
+      "word": "美国和平计划要求乌克兰割地裁军",
+      "onboard_time": 1764126680,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 81250,
@@ -747,6 +907,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 62408,
+      "num": 103723,
+      "word": "国台办回应民进党当局解禁日食品进口",
+      "onboard_time": 1764126741,
+      "rank": 48,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 61129,
       "num": 121696,
       "word": "郭碧婷帮谢依霖报仇",
@@ -787,12 +955,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58662,
+      "num": 148072,
+      "word": "迪丽热巴克服恐惧时隔7年再入水",
+      "onboard_time": 1764127282,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 57462,
       "num": 121700,
       "word": "大生意人",
       "onboard_time": 1764069743,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56226,
+      "num": 103025,
+      "word": "金龙鱼子公司被判共担退赔18.81亿",
+      "onboard_time": 1764125001,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53940,
@@ -819,6 +1003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 48231,
+      "num": 146018,
+      "word": "皇后这是在调戏朕",
+      "onboard_time": 1764126081,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 46541,
       "num": 411712,
       "word": "神舟二十号裂纹有救了",
@@ -833,14 +1025,6 @@
       "onboard_time": 1764089298,
       "rank": 48,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 43737,
-      "num": 111170,
-      "word": "男子抛妻弃子20年欠40万儿子拒还",
-      "onboard_time": 1764123680,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 43621,
