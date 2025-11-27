@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764275294327,
+  "endTime": 1764276061221,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -459,20 +459,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 12347,
+      "num": 130637,
+      "word": "你的睡商恐怕在我智商之上",
+      "onboard_time": 1764271994,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 11622,
       "num": 141738,
       "word": "喜人奇妙夜",
       "onboard_time": 1764270314,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11211,
-      "num": 130637,
-      "word": "你的睡商恐怕在我智商之上",
-      "onboard_time": 1764271994,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 10651,

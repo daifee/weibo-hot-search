@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764275294327,
+  "endTime": 1764276061221,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -16507,6 +16507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 12347,
+      "num": 130637,
+      "word": "你的睡商恐怕在我智商之上",
+      "onboard_time": 1764271994,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 12234,
       "num": 53097,
       "word": "贺峻霖巡场式饭撒",
@@ -16577,14 +16585,6 @@
       "onboard_time": 1764066561,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11211,
-      "num": 130637,
-      "word": "你的睡商恐怕在我智商之上",
-      "onboard_time": 1764271994,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 11190,
