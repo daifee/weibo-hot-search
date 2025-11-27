@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764269406601,
+  "endTime": 1764271370136,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -95377,6 +95377,14 @@
       "onboard_time": 1762785562,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 10506,
+      "num": 140130,
+      "word": "有秘密的我们2",
+      "onboard_time": 1764269114,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 10381,

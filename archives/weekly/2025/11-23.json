@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764269406601,
+  "endTime": 1764271370136,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -16563,6 +16563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11612,
+      "num": 141738,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1764270314,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11481,
       "num": 166270,
       "word": "张军桥烈士骨灰今日安葬",
@@ -16585,6 +16593,14 @@
       "onboard_time": 1764015373,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10506,
+      "num": 140130,
+      "word": "有秘密的我们2",
+      "onboard_time": 1764269114,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 9627,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 02:50:06
+本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 03:22:50
 </p>
 </blockquote>
 <p>
@@ -353,6 +353,18 @@ Crisp回应Uzi复出传言（热度：78593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B6%E8%B7%91Lafa5%E5%BC%80%E5%90%AF%E8%BD%BF%E8%B7%9110%E4%B8%87%E7%BA%A7%E6%97%B6%E4%BB%A3%23" target="weibo">
 零跑Lafa5开启轿跑10万级时代（热度：14243）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C%23" target="weibo">
+喜人奇妙夜（热度：11612）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%A7%98%E5%AF%86%E7%9A%84%E6%88%91%E4%BB%AC2%23" target="weibo">
+有秘密的我们2（热度：10506）
 </a>
 </li>
 
