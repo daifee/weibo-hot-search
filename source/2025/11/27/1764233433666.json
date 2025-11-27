@@ -1,0 +1,410 @@
+{
+  "runTime": 1764233433666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2066424,
+        "num": 2066424,
+        "word": "香港起火大楼内发现生还者",
+        "onboard_time": 1764225684,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 129858,
+        "num": 1333051,
+        "word": "库里状态",
+        "onboard_time": 1764224784,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7409,
+        "num": 1105330,
+        "word": "总要去看看今年的冰天雪地吧",
+        "onboard_time": 1764129624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239429,
+        "num": 1038630,
+        "word": "千里江山图开机",
+        "onboard_time": 1764226704,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1018271,
+        "num": 1018271,
+        "word": "香港火灾已有55人遇难",
+        "onboard_time": 1764197538,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 351918,
+        "num": 963070,
+        "word": "大熊猫高高去世",
+        "onboard_time": 1764233123,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380903,
+        "num": 904446,
+        "word": "康熙野史 新发现",
+        "onboard_time": 1764227424,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 329963,
+        "num": 860838,
+        "word": "香港起火大楼已无大面积明火",
+        "onboard_time": 1764209121,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 185654,
+        "num": 794620,
+        "word": "外交部批高市早苗错上加错",
+        "onboard_time": 1764231981,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 182768,
+        "num": 726921,
+        "word": "Ming回应Uzi去iG",
+        "onboard_time": 1764224904,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 682042,
+        "num": 682042,
+        "word": "新郎新娘坠亡事件疑为酒后失足",
+        "onboard_time": 1764227843,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 547615,
+        "num": 547615,
+        "word": "高市再发涉台谬论",
+        "onboard_time": 1764221003,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 489760,
+        "num": 489760,
+        "word": "医院证实仅送新娘抢救2小时",
+        "onboard_time": 1764227603,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403988,
+        "num": 403988,
+        "word": "李纯 女主运",
+        "onboard_time": 1764226224,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 369374,
+        "num": 369374,
+        "word": "肖战张婧仪澳门活动同框",
+        "onboard_time": 1764230062,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295046,
+        "num": 360740,
+        "word": "亡妻在游戏中的房子没了男子求助",
+        "onboard_time": 1764226823,
+        "rank": 15,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 280952,
+        "num": 360173,
+        "word": "逍遥散人掉粉",
+        "onboard_time": 1764221064,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 56928,
+        "num": 359760,
+        "word": "开源鸿蒙正将智慧写入千行百业",
+        "onboard_time": 1764231203,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 359685,
+        "num": 359685,
+        "word": "嫁给北京孩子的是李纯吗",
+        "onboard_time": 1764230723,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44628,
+        "num": 359672,
+        "word": "婚后出轨同居不一定算重婚",
+        "onboard_time": 1764232582,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 493555,
+        "num": 359626,
+        "word": "杜江嗯哼陪霍思燕医院就诊",
+        "onboard_time": 1764231324,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198317,
+        "num": 359578,
+        "word": "肖战澳门",
+        "onboard_time": 1764221123,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195072,
+        "num": 359570,
+        "word": "高三了极个别班主任还出去玩水",
+        "onboard_time": 1764231743,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 152207,
+        "num": 359516,
+        "word": "疯狂动物城",
+        "onboard_time": 1764229762,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 166740,
+        "num": 359480,
+        "word": "婚前双双坠亡4秒视频通话成谜",
+        "onboard_time": 1764221843,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219050,
+        "num": 359461,
+        "word": "昆明铁路事故疑换轨时人员提前上道",
+        "onboard_time": 1764225142,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 143419,
+        "num": 359396,
+        "word": "把刘宇宁拍成一米三了",
+        "onboard_time": 1764226943,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141661,
+        "num": 359371,
+        "word": "香港大埔火灾救援现场直击",
+        "onboard_time": 1764225863,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130244,
+        "num": 359328,
+        "word": "怪奇物语",
+        "onboard_time": 1764226823,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106458,
+        "num": 359296,
+        "word": "梁淞 我道德绑架谁了",
+        "onboard_time": 1764232164,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142758,
+        "num": 359276,
+        "word": "秦昊害怕恩利给伊能静告状",
+        "onboard_time": 1764233364,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127372,
+        "num": 359233,
+        "word": "亳州巨响",
+        "onboard_time": 1764229043,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124012,
+        "num": 359211,
+        "word": "日本妄想复制二战时偷袭战术",
+        "onboard_time": 1764231924,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118545,
+        "num": 359149,
+        "word": "高市被质问日中关系恶化该如何负责",
+        "onboard_time": 1764224244,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116968,
+        "num": 359113,
+        "word": "霍建华 我妈都没这样管过我",
+        "onboard_time": 1764225742,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114765,
+        "num": 359083,
+        "word": "喝酒脸红的人更易患两种癌",
+        "onboard_time": 1764223885,
+        "rank": 35,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 111885,
+        "num": 359037,
+        "word": "鞠婧祎来战杀青",
+        "onboard_time": 1764231501,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105757,
+        "num": 358999,
+        "word": "杨紫手机壳上贴了粉丝做的刺绣贴",
+        "onboard_time": 1764231802,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 41603,
+        "num": 358980,
+        "word": "王楚钦孙颖莎混双宣传视频",
+        "onboard_time": 1764233062,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11959,
+        "num": 358932,
+        "word": "王星越被窝直出",
+        "onboard_time": 1764233123,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98231,
+        "num": 358899,
+        "word": "尼泊尔今年2082年",
+        "onboard_time": 1764229163,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97978,
+        "num": 358869,
+        "word": "穿袜子睡觉对身体到底好不好",
+        "onboard_time": 1764232582,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97232,
+        "num": 358837,
+        "word": "张婧仪澳门",
+        "onboard_time": 1764226162,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81121,
+        "num": 358801,
+        "word": "结婚前一天情侣先后坠亡真相是什么",
+        "onboard_time": 1764231203,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95238,
+        "num": 358748,
+        "word": "胡先煦化什么妆需要50分钟",
+        "onboard_time": 1764227243,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91307,
+        "num": 358716,
+        "word": "朱亚文向涵之 糙汉文学",
+        "onboard_time": 1764228744,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51543,
+        "num": 358680,
+        "word": "日本福岛流感大爆发",
+        "onboard_time": 1764231924,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41947,
+        "num": 358641,
+        "word": "女工下班摔倒身亡单位称为前员工",
+        "onboard_time": 1764231863,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84889,
+        "num": 358601,
+        "word": "买车后你的消费降级了吗",
+        "onboard_time": 1764233364,
+        "rank": 48,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 84036,
+        "num": 358579,
+        "word": "轮到你上场时会有提词器的",
+        "onboard_time": 1764233364,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}

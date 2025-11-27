@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764232643506,
+  "endTime": 1764233433666,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -283,6 +283,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 493555,
+      "num": 438707,
+      "word": "杜江嗯哼陪霍思燕医院就诊",
+      "onboard_time": 1764231324,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486316,
       "num": 717335,
       "word": "法医刘良全程参与手术离世女婴尸检",
@@ -483,12 +491,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 359685,
+      "num": 440804,
+      "word": "嫁给北京孩子的是李纯吗",
+      "onboard_time": 1764230723,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 359197,
       "num": 1933399,
       "word": "李登科卸任娜扎经纪人",
       "onboard_time": 1764212601,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 351918,
+      "num": 963070,
+      "word": "大熊猫高高去世",
+      "onboard_time": 1764233123,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349886,
@@ -553,22 +577,6 @@
       "onboard_time": 1764206544,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 322943,
-      "num": 438707,
-      "word": "杜江嗯哼陪霍思燕医院就诊",
-      "onboard_time": 1764231324,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 317285,
-      "num": 440804,
-      "word": "嫁给北京孩子的是李纯吗",
-      "onboard_time": 1764230723,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 313758,
@@ -1035,8 +1043,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 184359,
-      "num": 440168,
+      "raw_hot": 185654,
+      "num": 794620,
       "word": "外交部批高市早苗错上加错",
       "onboard_time": 1764231981,
       "rank": 17,
@@ -1371,6 +1379,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142758,
+      "num": 359276,
+      "word": "秦昊害怕恩利给伊能静告状",
+      "onboard_time": 1764233364,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 142563,
       "num": 164459,
       "word": "她这一天是小说都不敢写的程度",
@@ -1475,6 +1491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 127372,
+      "num": 429114,
+      "word": "亳州巨响",
+      "onboard_time": 1764229043,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125128,
       "num": 981902,
       "word": "英格拉姆绝杀步行者",
@@ -1528,14 +1552,6 @@
       "word": "昆明火车站",
       "onboard_time": 1764219866,
       "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119270,
-      "num": 429114,
-      "word": "亳州巨响",
-      "onboard_time": 1764229043,
-      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -1675,6 +1691,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106458,
+      "num": 426064,
+      "word": "梁淞 我道德绑架谁了",
+      "onboard_time": 1764232164,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106117,
       "num": 1729464,
       "word": "新能源蛇妖",
@@ -1699,6 +1723,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 105757,
+      "num": 427590,
+      "word": "杨紫手机壳上贴了粉丝做的刺绣贴",
+      "onboard_time": 1764231802,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105611,
       "num": 482627,
       "word": "反诈老陈近3年收入100万",
@@ -1713,14 +1745,6 @@
       "onboard_time": 1764223104,
       "rank": 28,
       "category": "演出"
-    },
-    {
-      "raw_hot": 104499,
-      "num": 427590,
-      "word": "杨紫手机壳上贴了粉丝做的刺绣贴",
-      "onboard_time": 1764231802,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 104289,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1764231203,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 98642,
-      "num": 426064,
-      "word": "梁淞 我道德绑架谁了",
-      "onboard_time": 1764232164,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 97305,
@@ -1897,6 +1913,22 @@
       "onboard_time": 1764199461,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 84889,
+      "num": 358601,
+      "word": "买车后你的消费降级了吗",
+      "onboard_time": 1764233364,
+      "rank": 48,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 84036,
+      "num": 358579,
+      "word": "轮到你上场时会有提词器的",
+      "onboard_time": 1764233364,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 83182,
@@ -2091,6 +2123,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 51543,
+      "num": 430656,
+      "word": "日本福岛流感大爆发",
+      "onboard_time": 1764231924,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 51042,
       "num": 1839425,
       "word": "孙颖莎看功夫茶笑得合不拢嘴",
@@ -2155,6 +2195,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 44628,
+      "num": 429670,
+      "word": "婚后出轨同居不一定算重婚",
+      "onboard_time": 1764232582,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44017,
       "num": 391279,
       "word": "枭起青壤",
@@ -2171,20 +2219,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 41947,
+      "num": 430089,
+      "word": "女工下班摔倒身亡单位称为前员工",
+      "onboard_time": 1764231863,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41603,
+      "num": 358980,
+      "word": "王楚钦孙颖莎混双宣传视频",
+      "onboard_time": 1764233062,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 41285,
       "num": 3634317,
       "word": "长春成功申办2027世界大冬会",
       "onboard_time": 1764162325,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 38999,
-      "num": 430656,
-      "word": "日本福岛流感大爆发",
-      "onboard_time": 1764231924,
-      "rank": 36,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 37491,
@@ -2201,14 +2257,6 @@
       "onboard_time": 1764224362,
       "rank": 41,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 35542,
-      "num": 430089,
-      "word": "女工下班摔倒身亡单位称为前员工",
-      "onboard_time": 1764231863,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32852,
@@ -2315,6 +2363,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11959,
+      "num": 358932,
+      "word": "王星越被窝直出",
+      "onboard_time": 1764233123,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 9627,
       "num": 2527529,
       "word": "总要去看看今年的冰天雪地吧",
@@ -2329,14 +2385,6 @@
       "onboard_time": 1764218786,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5915,
-      "num": 429670,
-      "word": "婚后出轨同居不一定算重婚",
-      "onboard_time": 1764232582,
-      "rank": 38,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
