@@ -1,0 +1,410 @@
+{
+  "runTime": 1764242733191,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 459108,
+        "num": 1073457,
+        "word": "中方绝不接受日方自说自话",
+        "onboard_time": 1764234083,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 70811,
+        "num": 1067629,
+        "word": "未来月球屋建设或将就地取材",
+        "onboard_time": 1764241341,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 64261,
+        "num": 1062921,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1764237323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1788035,
+        "num": 1047458,
+        "word": "香港起火大楼内发现生还者",
+        "onboard_time": 1764225684,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 131939,
+        "num": 1043340,
+        "word": "杨瀚森错失奖金",
+        "onboard_time": 1764236543,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1033607,
+        "num": 1033607,
+        "word": "香港向每户灾民发1万港元补助",
+        "onboard_time": 1764241284,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1030753,
+        "num": 1030753,
+        "word": "香港7栋大厦火势全部受控",
+        "onboard_time": 1764240922,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 379007,
+        "num": 1030073,
+        "word": "疯狂动物城",
+        "onboard_time": 1764229762,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 319186,
+        "num": 1027487,
+        "word": "大熊猫高高去世",
+        "onboard_time": 1764233123,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90751,
+        "num": 1025899,
+        "word": "张博恒完成冬奥火炬传递",
+        "onboard_time": 1764240922,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487126,
+        "num": 1022130,
+        "word": "女教师拒绝与男友发生性关系遭杀害",
+        "onboard_time": 1764234144,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 406917,
+        "num": 1020201,
+        "word": "O型血妈妈第一胎别轻易流产",
+        "onboard_time": 1764236183,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 353998,
+        "num": 1017856,
+        "word": "成毅又受伤了",
+        "onboard_time": 1764238642,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 302256,
+        "num": 1014969,
+        "word": "乌干达98%亲子鉴定非亲生",
+        "onboard_time": 1764234321,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 301969,
+        "num": 1012650,
+        "word": "香港起火大楼已无大面积明火",
+        "onboard_time": 1764209121,
+        "rank": 14,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 292691,
+        "num": 1010796,
+        "word": "高市再发涉台谬论",
+        "onboard_time": 1764221003,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 243014,
+        "num": 1008866,
+        "word": "枭起青壤 最大的问题是剧情",
+        "onboard_time": 1764238883,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228456,
+        "num": 1007341,
+        "word": "papi精准说出梁淞何美延为啥天天吵架",
+        "onboard_time": 1764235704,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221320,
+        "num": 1004329,
+        "word": "逍遥散人掉粉",
+        "onboard_time": 1764221064,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 219060,
+        "num": 1001869,
+        "word": "28岁女孩面部长巨瘤决定不婚不育",
+        "onboard_time": 1764235344,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175363,
+        "num": 1000301,
+        "word": "演员孙菲菲离婚4次才成功",
+        "onboard_time": 1764235164,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173441,
+        "num": 996083,
+        "word": "怪奇物语",
+        "onboard_time": 1764226823,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163454,
+        "num": 993559,
+        "word": "穿袜子睡觉对身体到底好不好",
+        "onboard_time": 1764232582,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 162589,
+        "num": 991862,
+        "word": "国家铁路局通报试验列车撞人事故",
+        "onboard_time": 1764240323,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146363,
+        "num": 990350,
+        "word": "香港火灾已有55人遇难",
+        "onboard_time": 1764197538,
+        "rank": 24,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142944,
+        "num": 988297,
+        "word": "宝成铁路列车碰撞施工人员致2死",
+        "onboard_time": 1764237982,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140642,
+        "num": 986112,
+        "word": "李昀锐 没有不漏的义务",
+        "onboard_time": 1764240503,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139518,
+        "num": 984034,
+        "word": "秦昊害怕恩利给伊能静告状",
+        "onboard_time": 1764233364,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138049,
+        "num": 981614,
+        "word": "三只松鼠鼠名被曝扩展至党建领域",
+        "onboard_time": 1764239664,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133454,
+        "num": 978046,
+        "word": "被困柬埔寨怀孕女子已脱身并产子",
+        "onboard_time": 1764240623,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 131728,
+        "num": 976276,
+        "word": "肖战张婧仪澳门活动同框",
+        "onboard_time": 1764230062,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128163,
+        "num": 973253,
+        "word": "黄子韬内急 王鹤棣吹口哨",
+        "onboard_time": 1764237743,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119830,
+        "num": 970533,
+        "word": "逍遥散人4天掉粉10万",
+        "onboard_time": 1764238524,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 117275,
+        "num": 968371,
+        "word": "官方回应蜜雪冰城要卖早餐",
+        "onboard_time": 1764241223,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111097,
+        "num": 967798,
+        "word": "香港大埔火灾救援现场直击",
+        "onboard_time": 1764225863,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 129744,
+        "num": 965073,
+        "word": "肖战澳门",
+        "onboard_time": 1764221123,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109075,
+        "num": 961875,
+        "word": "婚后出轨同居不一定算重婚",
+        "onboard_time": 1764232582,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 607359,
+        "num": 958767,
+        "word": "新闻女王还拍保守了",
+        "onboard_time": 1764239664,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70583,
+        "num": 957689,
+        "word": "胖东来羽绒服进价430卖价597",
+        "onboard_time": 1764242302,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71967,
+        "num": 955087,
+        "word": "王一博从不说假话",
+        "onboard_time": 1764241822,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28094,
+        "num": 952432,
+        "word": "武汉完成全国首例医保价脑机接口手术",
+        "onboard_time": 1764241462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104081,
+        "num": 951087,
+        "word": "近视人晚上挂的衣服",
+        "onboard_time": 1764238583,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101844,
+        "num": 947050,
+        "word": "程晓玥回应怕老公孕期出轨吗",
+        "onboard_time": 1764239483,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98057,
+        "num": 946711,
+        "word": "当你婚前不做背调",
+        "onboard_time": 1764242364,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95288,
+        "num": 943767,
+        "word": "白鹿去探班王星越了",
+        "onboard_time": 1764236543,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55664,
+        "num": 940668,
+        "word": "夸克AI眼镜带来的行业利好",
+        "onboard_time": 1764237923,
+        "rank": 45,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 89860,
+        "num": 939702,
+        "word": "精装朋友圈是最大的诈骗",
+        "onboard_time": 1764237023,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86648,
+        "num": 937053,
+        "word": "敖瑞鹏不二之臣西装路透",
+        "onboard_time": 1764240503,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86464,
+        "num": 933072,
+        "word": "TES官宣naiyou加入",
+        "onboard_time": 1764242544,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77554,
+        "num": 931970,
+        "word": "枭起青壤云合S加级",
+        "onboard_time": 1764239483,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#解码中华文化基因#"
+    }
+  }
+}
