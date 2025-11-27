@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764262109925,
+  "endTime": 1764264256678,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -19,19 +19,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 453927,
+      "num": 1706502,
+      "word": "滇二娃致歉",
+      "onboard_time": 1764260840,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343464,
       "num": 2094693,
       "word": "香港火灾救援最新消息",
       "onboard_time": 1764252503,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 339873,
-      "num": 1706502,
-      "word": "滇二娃致歉",
-      "onboard_time": 1764260840,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -139,12 +139,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 86113,
+      "num": 1111263,
+      "word": "德国总统称绝不能忘记犯下的罪行",
+      "onboard_time": 1764262039,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 85691,
       "num": 1189493,
       "word": "俄方称要警告日本",
       "onboard_time": 1764243081,
       "rank": 22,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82332,
+      "num": 1123302,
+      "word": "公司被曝拍员工如厕照并记录时间",
+      "onboard_time": 1764259040,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80083,
@@ -203,14 +219,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 69085,
-      "num": 1123302,
-      "word": "公司被曝拍员工如厕照并记录时间",
-      "onboard_time": 1764259040,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67126,
       "num": 1150972,
       "word": "枭起青壤",
@@ -241,14 +249,6 @@
       "onboard_time": 1764254304,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 62747,
-      "num": 1111263,
-      "word": "德国总统称绝不能忘记犯下的罪行",
-      "onboard_time": 1764262039,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 60135,
@@ -379,12 +379,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28958,
+      "num": 642634,
+      "word": "全网唯一一个看着不讨厌的猴子",
+      "onboard_time": 1764249863,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 27564,
       "num": 1104801,
       "word": "疯狂动物城2彩蛋",
       "onboard_time": 1764251242,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 26550,
+      "num": 636659,
+      "word": "香港大埔火灾救援中的爱心接力",
+      "onboard_time": 1764263476,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26507,
+      "num": 633834,
+      "word": "乌干达98%亲子鉴定非亲生",
+      "onboard_time": 1764234321,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25767,
+      "num": 622842,
+      "word": "亦舞之城开播",
+      "onboard_time": 1764264019,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 23884,
@@ -403,7 +435,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 10012,
+      "raw_hot": 18066,
       "num": 2201227,
       "word": "行走大美中国",
       "onboard_time": 1764261499,

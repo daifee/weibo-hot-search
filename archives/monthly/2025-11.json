@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764262109925,
+  "endTime": 1764264256678,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -10883,6 +10883,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 453927,
+      "num": 1706502,
+      "word": "滇二娃致歉",
+      "onboard_time": 1764260840,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 453553,
       "num": 436844,
       "word": "美国一人独中70亿元彩票",
@@ -15801,14 +15809,6 @@
       "onboard_time": 1763597544,
       "rank": 3,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 339873,
-      "num": 1706502,
-      "word": "滇二娃致歉",
-      "onboard_time": 1764260840,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 339781,
@@ -71643,6 +71643,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 86113,
+      "num": 1111263,
+      "word": "德国总统称绝不能忘记犯下的罪行",
+      "onboard_time": 1764262039,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 86111,
       "num": 86111,
       "word": "国外夫妻每天在走廊跑步锻炼身体",
@@ -73665,6 +73673,14 @@
       "onboard_time": 1762573641,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82332,
+      "num": 1123302,
+      "word": "公司被曝拍员工如厕照并记录时间",
+      "onboard_time": 1764259040,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82329,
@@ -79131,14 +79147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69085,
-      "num": 1123302,
-      "word": "公司被曝拍员工如厕照并记录时间",
-      "onboard_time": 1764259040,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69066,
       "num": 69066,
       "word": "Doran和Faker共同捧杯",
@@ -80985,14 +80993,6 @@
       "onboard_time": 1763795301,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62747,
-      "num": 1111263,
-      "word": "德国总统称绝不能忘记犯下的罪行",
-      "onboard_time": 1764262039,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 62740,
@@ -91555,6 +91555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 26550,
+      "num": 636659,
+      "word": "香港大埔火灾救援中的爱心接力",
+      "onboard_time": 1764263476,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26545,
       "num": 118242,
       "word": "保安超48小时抢救无效工伤遭拒",
@@ -91737,6 +91745,14 @@
       "onboard_time": 1763613564,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25767,
+      "num": 622842,
+      "word": "亦舞之城开播",
+      "onboard_time": 1764264019,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 25760,
@@ -93851,6 +93867,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 18066,
+      "num": 2201227,
+      "word": "行走大美中国",
+      "onboard_time": 1764261499,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18057,
       "num": 111604,
       "word": "双十一什么值得买",
@@ -95369,14 +95393,6 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10012,
-      "num": 2201227,
-      "word": "行走大美中国",
-      "onboard_time": 1764261499,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 9871,
