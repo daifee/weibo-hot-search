@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764251438967,
+  "endTime": 1764253715156,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -147,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 983005,
+      "num": 1384785,
+      "word": "原来人是可以突然间失去所有的",
+      "onboard_time": 1764248962,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 965663,
       "num": 1920840,
       "word": "特朗普施压高市别在台湾问题上挑衅",
@@ -161,6 +169,14 @@
       "onboard_time": 1764221123,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 865970,
+      "num": 865970,
+      "word": "香港火灾救援最新消息",
+      "onboard_time": 1764252503,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 853385,
@@ -273,14 +289,6 @@
       "onboard_time": 1764239664,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 583010,
-      "num": 1384785,
-      "word": "原来人是可以突然间失去所有的",
-      "onboard_time": 1764248962,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 566432,
@@ -731,6 +739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 324184,
+      "num": 1705963,
+      "word": "昆明铁路事故25岁伤者还在抢救",
+      "onboard_time": 1764247762,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 316523,
       "num": 1850041,
       "word": "枭起青壤 最大的问题是剧情",
@@ -833,6 +849,14 @@
       "onboard_time": 1764225024,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278053,
+      "num": 854612,
+      "word": "钟汉良被秦岚夸吻技红温了",
+      "onboard_time": 1764252443,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 277231,
@@ -979,6 +1003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 230474,
+      "num": 1400005,
+      "word": "Crisp回应Uzi复出传言",
+      "onboard_time": 1764248843,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 229142,
       "num": 229142,
       "word": "香港市民自发帮助救灾运物资",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1764206662,
       "rank": 28,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 225232,
+      "num": 844665,
+      "word": "何以琛你终于也是将就了",
+      "onboard_time": 1764251604,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 223722,
@@ -1065,14 +1105,6 @@
       "onboard_time": 1764245243,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 213160,
-      "num": 1400005,
-      "word": "Crisp回应Uzi复出传言",
-      "onboard_time": 1764248843,
-      "rank": 8,
-      "category": "电竞"
     },
     {
       "raw_hot": 211664,
@@ -1308,7 +1340,7 @@
     },
     {
       "raw_hot": 185502,
-      "num": 581446,
+      "num": 832737,
       "word": "成毅回应两京十五日拍摄受伤",
       "onboard_time": 1764250464,
       "rank": 19,
@@ -1457,6 +1489,14 @@
       "onboard_time": 1764245782,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163821,
+      "num": 837993,
+      "word": "不让江山 杨洋",
+      "onboard_time": 1764251484,
+      "rank": 26,
+      "category": "剧集"
     },
     {
       "raw_hot": 163420,
@@ -1803,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137612,
+      "num": 841978,
+      "word": "央视曝光小诊所骗医保卖米面",
+      "onboard_time": 1764251543,
+      "rank": 23,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 135519,
       "num": 227703,
       "word": "特朗普宣布拜登的火鸡救免令无效",
@@ -1817,14 +1865,6 @@
       "onboard_time": 1764215124,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 135137,
-      "num": 1705963,
-      "word": "昆明铁路事故25岁伤者还在抢救",
-      "onboard_time": 1764247762,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133910,
@@ -2009,6 +2049,14 @@
       "onboard_time": 1764203604,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 118568,
+      "num": 826527,
+      "word": "陈晓曾为了减肥狂喝咖啡",
+      "onboard_time": 1764252383,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 118074,
@@ -2212,7 +2260,7 @@
     },
     {
       "raw_hot": 105956,
-      "num": 579649,
+      "num": 818608,
       "word": "疯狂动物城2彩蛋",
       "onboard_time": 1764251242,
       "rank": 28,
@@ -2241,6 +2289,14 @@
       "onboard_time": 1764163706,
       "rank": 47,
       "category": "网红"
+    },
+    {
+      "raw_hot": 105611,
+      "num": 1269708,
+      "word": "大生意人丫蛋变脸这段",
+      "onboard_time": 1764250044,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 105201,
@@ -2283,14 +2339,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 100134,
-      "num": 1269708,
-      "word": "大生意人丫蛋变脸这段",
-      "onboard_time": 1764250044,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 99858,
       "num": 228154,
       "word": "梁淞妈妈 加强版梁淞",
@@ -2313,6 +2361,14 @@
       "onboard_time": 1764231203,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98509,
+      "num": 984780,
+      "word": "郑钦文晒冬训视频",
+      "onboard_time": 1764253404,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 97511,
@@ -2579,6 +2635,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 83561,
+      "num": 1253534,
+      "word": "官方通报幼儿园老师打骂孩子",
+      "onboard_time": 1764250584,
+      "rank": 46,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 83182,
       "num": 348555,
       "word": "夸克眼镜装下整个阿里",
@@ -2713,14 +2777,6 @@
       "onboard_time": 1764248123,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 71859,
-      "num": 1253534,
-      "word": "官方通报幼儿园老师打骂孩子",
-      "onboard_time": 1764250584,
-      "rank": 46,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 71336,
@@ -2873,6 +2929,14 @@
       "onboard_time": 1764246743,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 55016,
+      "num": 847666,
+      "word": "郑州日产锋坦皮卡全球首发",
+      "onboard_time": 1764252683,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 54758,
@@ -3081,6 +3145,14 @@
       "onboard_time": 1764194115,
       "rank": 39,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32045,
+      "num": 819782,
+      "word": "四川将艾滋病纳入婚前自愿医学检查",
+      "onboard_time": 1764252683,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31213,
