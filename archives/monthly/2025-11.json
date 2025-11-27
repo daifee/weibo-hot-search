@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764254685002,
+  "endTime": 1764257381886,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -177,6 +177,14 @@
       "onboard_time": 1763593878,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 5030117,
+      "num": 6280117,
+      "word": "香港火灾已有75人遇难",
+      "onboard_time": 1764255204,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3990046,
@@ -3843,6 +3851,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 822625,
+      "num": 1231110,
+      "word": "网友吐槽国产剧女主带妆起床",
+      "onboard_time": 1764254122,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 821969,
       "num": 304770,
       "word": "湖南一婴儿一出生就15岁",
@@ -5873,6 +5889,14 @@
       "onboard_time": 1763545642,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 657383,
+      "num": 657383,
+      "word": "郭碧婷女儿被孤立",
+      "onboard_time": 1764256943,
+      "rank": 20,
+      "category": "综艺"
     },
     {
       "raw_hot": 656745,
@@ -11736,14 +11760,6 @@
       "word": "陈星旭在迪丽热巴面前快夹成卡车了",
       "onboard_time": 1763876240,
       "rank": 39,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 428703,
-      "num": 1231110,
-      "word": "网友吐槽国产剧女主带妆起床",
-      "onboard_time": 1764254122,
-      "rank": 3,
       "category": "剧集"
     },
     {
@@ -18099,6 +18115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 301569,
+      "num": 1127359,
+      "word": "不让江山 杨洋",
+      "onboard_time": 1764251484,
+      "rank": 26,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 301255,
       "num": 300677,
       "word": "王鹤棣 callme我去干死他",
@@ -21371,14 +21395,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 258609,
-      "num": 1127359,
-      "word": "不让江山 杨洋",
-      "onboard_time": 1764251484,
-      "rank": 26,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 258608,
       "num": 204978,
       "word": "原来熬夜伤害可以这样抵消",
@@ -22353,6 +22369,14 @@
       "onboard_time": 1762846460,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 247037,
+      "num": 1760256,
+      "word": "逍遥散人直播",
+      "onboard_time": 1764245243,
+      "rank": 21,
+      "category": "游戏"
     },
     {
       "raw_hot": 246988,
@@ -24873,14 +24897,6 @@
       "onboard_time": 1763596883,
       "rank": 17,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 219415,
-      "num": 1760256,
-      "word": "逍遥散人直播",
-      "onboard_time": 1764245243,
-      "rank": 21,
-      "category": "游戏"
     },
     {
       "raw_hot": 219414,
@@ -28705,6 +28721,14 @@
       "onboard_time": 1763205982,
       "rank": 24,
       "category": "演出"
+    },
+    {
+      "raw_hot": 195332,
+      "num": 1114508,
+      "word": "香港商讨推进使用金属脚手架",
+      "onboard_time": 1764253883,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195311,
@@ -38987,14 +39011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 153471,
-      "num": 1114508,
-      "word": "香港商讨推进使用金属脚手架",
-      "onboard_time": 1764253883,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 153413,
       "num": 153413,
       "word": "INFP 灵感爆发型选手",
@@ -47083,6 +47099,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 129259,
+      "num": 1101515,
+      "word": "谁把迪丽热巴本体放出来了",
+      "onboard_time": 1764254304,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129249,
       "num": 145418,
       "word": "天地剑心王弘毅演技",
@@ -51441,6 +51465,14 @@
       "onboard_time": 1763448563,
       "rank": 36,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120496,
+      "num": 659323,
+      "word": "四川婚假由5日延到20日",
+      "onboard_time": 1764256883,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120457,
@@ -57099,6 +57131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109198,
+      "num": 1103661,
+      "word": "蜜雪冰城早餐仅在部分城市试点",
+      "onboard_time": 1764254243,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109194,
       "num": 109194,
       "word": "免费采捡白菜涉事种植户补偿已到位",
@@ -57305,6 +57345,14 @@
       "onboard_time": 1763686461,
       "rank": 32,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 108786,
+      "num": 647957,
+      "word": "河内公安2比1北京国安",
+      "onboard_time": 1764256343,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 108784,
@@ -58161,6 +58209,14 @@
       "onboard_time": 1763290280,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 107497,
+      "num": 647625,
+      "word": "迪丽热巴聂九罗破亿",
+      "onboard_time": 1764255563,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 107478,
@@ -59843,6 +59899,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 104586,
+      "num": 654295,
+      "word": "亦舞之城",
+      "onboard_time": 1764257180,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104547,
       "num": 203644,
       "word": "日方愿意对话的姿态很伪善",
@@ -61089,14 +61153,6 @@
       "onboard_time": 1762338442,
       "rank": 47,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 102835,
-      "num": 1101515,
-      "word": "谁把迪丽热巴本体放出来了",
-      "onboard_time": 1764254304,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 102834,
@@ -64419,6 +64475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97461,
+      "num": 646416,
+      "word": "高度数眼镜要怎么戴才好看",
+      "onboard_time": 1764256943,
+      "rank": 33,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 97441,
       "num": 97441,
       "word": "人的一生主线任务只有一个",
@@ -66769,6 +66833,14 @@
       "onboard_time": 1762947024,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 93657,
+      "num": 643595,
+      "word": "刘也内娱头个让我浑身发麻的艺人",
+      "onboard_time": 1764255502,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 93651,
@@ -73044,7 +73116,7 @@
     },
     {
       "raw_hot": 83418,
-      "num": 1148102,
+      "num": 1651409,
       "word": "北京国安亚冠出局",
       "onboard_time": 1764254424,
       "rank": 9,
@@ -76113,6 +76185,14 @@
       "onboard_time": 1762502421,
       "rank": 43,
       "category": "数码"
+    },
+    {
+      "raw_hot": 76592,
+      "num": 1125361,
+      "word": "日本维新会或因谈不拢退出执政联盟",
+      "onboard_time": 1764253764,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 76556,
@@ -81297,6 +81377,14 @@
       "onboard_time": 1762540275,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 61372,
+      "num": 698268,
+      "word": "河内公安vs北京国安",
+      "onboard_time": 1764256883,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 61371,
@@ -89059,14 +89147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33993,
-      "num": 1103661,
-      "word": "蜜雪冰城早餐仅在部分城市试点",
-      "onboard_time": 1764254243,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33960,
       "num": 200397,
       "word": "老中医回应被罚退赛",
@@ -90393,14 +90473,6 @@
       "onboard_time": 1763401875,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 30050,
-      "num": 1125361,
-      "word": "日本维新会或因谈不拢退出执政联盟",
-      "onboard_time": 1764253764,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30043,
@@ -94545,6 +94617,14 @@
       "onboard_time": 1763220384,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 14118,
+      "num": 641321,
+      "word": "老人偷菜反怼我是老太太我怕啥",
+      "onboard_time": 1764256404,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 14096,

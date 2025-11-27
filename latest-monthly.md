@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 22:44:45
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 23:29:41
 </p>
 </blockquote>
 <p>
@@ -143,6 +143,12 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%E6%81%8B%E6%83%85%23" target="weibo">
 疑似胡彦斌易梦玲恋情（热度：5484173）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E6%9C%8975%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港火灾已有75人遇难（热度：5030117）
 </a>
 </li>
 
@@ -2895,6 +2901,12 @@ A股（热度：834240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E5%90%90%E6%A7%BD%E5%9B%BD%E4%BA%A7%E5%89%A7%E5%A5%B3%E4%B8%BB%E5%B8%A6%E5%A6%86%E8%B5%B7%E5%BA%8A%23" target="weibo">
+网友吐槽国产剧女主带妆起床（热度：822625）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B9%96%E5%8D%97%E4%B8%80%E5%A9%B4%E5%84%BF%E4%B8%80%E5%87%BA%E7%94%9F%E5%B0%B115%E5%B2%81%23" target="weibo">
 湖南一婴儿一出生就15岁（热度：821969）
 </a>
@@ -4415,6 +4427,12 @@ Viper BLG（热度：660717）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23AI%E5%81%87%E5%9B%BE%20%E4%BB%85%E9%80%80%E6%AC%BE%23" target="weibo">
 AI假图 仅退款（热度：659004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%AD%A4%E7%AB%8B%23" target="weibo">
+郭碧婷女儿被孤立（热度：657383）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BB%BA%E8%AE%AE%E4%B8%8D%E8%A6%81%E5%9C%A8%E7%BD%91%E4%B8%8A%E4%B9%B0%E5%A4%AA%E4%BE%BF%E5%AE%9C%E7%9A%84%E6%B0%B4%E6%9E%9C%23" target="weibo">
 建议不要在网上买太便宜的水果（热度：553379）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%9B%85%E7%90%BC%E5%88%98%E9%9B%A8%E8%BE%B0%E5%A9%9A%E7%BA%B1%E7%85%A7%23" target="weibo">
-黄雅琼刘雨辰婚纱照（热度：551901）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2323%E5%B2%81%E5%A5%B3%E7%94%9F%E6%8B%94%E6%8E%8957%E9%A2%97%E7%89%99%E7%9A%84%E4%BD%93%E9%AA%8C%23" target="weibo">
-23岁女生拔掉57颗牙的体验（热度：551885）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%90%E8%AF%A13%E6%8B%8D%E5%87%BA%E5%A4%AA%E5%B9%B3%E5%85%AC%E4%B8%BB%E5%92%8C%E4%B8%8A%E5%AE%98%E5%A9%89%E5%84%BF%23" target="weibo">
-唐诡3拍出太平公主和上官婉儿（热度：551700）
 </a>
 </li>
 
