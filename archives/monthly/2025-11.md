@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 12:47:12
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 13:29:03
 </p>
 </blockquote>
 <p>
@@ -4029,6 +4029,12 @@ Guma FMVP（热度：688837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%997%E4%BA%BF%E8%80%81%E6%80%BB%E5%A5%B3%E5%84%BF%E8%A1%A5%E8%AF%BE%E8%A2%AB%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
+给7亿老总女儿补课被整破防了（热度：684151）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E7%94%9F%E4%BA%8C%E8%83%8E%E6%9C%9F%E9%97%B45%E5%B2%81%E5%84%BF%E5%AD%90%E5%9C%A8%E5%AE%B6%E5%8F%91%E7%83%A7%E7%A6%BB%E4%B8%96%23" target="weibo">
 妈妈生二胎期间5岁儿子在家发烧离世（热度：683458）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23" target="weibo">
 高市早苗招惹马来西亚（热度：545160）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E5%9D%A6%E8%A8%8030%E5%B2%81%E5%90%8E%E5%BC%80%E5%A7%8B%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
-王嘉尔坦言30岁后开始做医美（热度：544983）
 </a>
 </li>
 
