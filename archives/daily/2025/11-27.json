@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764242733191,
+  "endTime": 1764243573785,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -41,6 +41,14 @@
       "onboard_time": 1764203964,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1640603,
+      "num": 1039211,
+      "word": "香港向每户灾民发1万港元补助",
+      "onboard_time": 1764241284,
+      "rank": 5,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1580083,
@@ -120,14 +128,6 @@
       "word": "深圳消防车队已在莲塘口岸集结",
       "onboard_time": 1764172223,
       "rank": 0,
-      "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1033607,
-      "num": 1033607,
-      "word": "香港向每户灾民发1万港元补助",
-      "onboard_time": 1764241284,
-      "rank": 5,
       "category": "突发/灾害"
     },
     {
@@ -273,6 +273,14 @@
       "onboard_time": 1764239664,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 546319,
+      "num": 1436324,
+      "word": "疯狂动物城",
+      "onboard_time": 1764229762,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 545142,
@@ -499,14 +507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 396057,
-      "num": 1436324,
-      "word": "疯狂动物城",
-      "onboard_time": 1764229762,
-      "rank": 24,
-      "category": "电影"
-    },
-    {
       "raw_hot": 390491,
       "num": 1017856,
       "word": "成毅又受伤了",
@@ -699,6 +699,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 306496,
+      "num": 1008866,
+      "word": "枭起青壤 最大的问题是剧情",
+      "onboard_time": 1764238883,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 306084,
       "num": 513636,
       "word": "香港已有数百名居民登记家属失联",
@@ -849,14 +857,6 @@
       "onboard_time": 1764224244,
       "rank": 24,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 243014,
-      "num": 1008866,
-      "word": "枭起青壤 最大的问题是剧情",
-      "onboard_time": 1764238883,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 242181,
@@ -1291,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171724,
+      "num": 957689,
+      "word": "胖东来羽绒服进价430卖价597",
+      "onboard_time": 1764242302,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 169076,
       "num": 830154,
       "word": "国色芳华",
@@ -1651,6 +1659,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 140515,
+      "num": 1028290,
+      "word": "张博恒完成冬奥火炬传递",
+      "onboard_time": 1764240922,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 140345,
+      "num": 968371,
+      "word": "官方回应蜜雪冰城要卖早餐",
+      "onboard_time": 1764241223,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 139384,
       "num": 196748,
       "word": "女子称被鲨鱼咬伤向朋友炫耀伤口",
@@ -1755,6 +1779,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 128308,
+      "num": 946711,
+      "word": "当你婚前不做背调",
+      "onboard_time": 1764242364,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 127372,
       "num": 429114,
       "word": "亳州巨响",
@@ -1787,6 +1819,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123547,
+      "num": 933072,
+      "word": "TES官宣naiyou加入",
+      "onboard_time": 1764242544,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123488,
       "num": 1772664,
       "word": "iPhone追星模式",
@@ -1817,6 +1857,14 @@
       "onboard_time": 1764224124,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122342,
+      "num": 122342,
+      "word": "俄方称要警告日本",
+      "onboard_time": 1764243081,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121846,
@@ -1897,14 +1945,6 @@
       "onboard_time": 1764219685,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 117275,
-      "num": 968371,
-      "word": "官方回应蜜雪冰城要卖早餐",
-      "onboard_time": 1764241223,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114872,
@@ -2001,6 +2041,22 @@
       "onboard_time": 1764206784,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106847,
+      "num": 118229,
+      "word": "用400块成本摆摊一天赚900",
+      "onboard_time": 1764243263,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 106592,
+      "num": 118220,
+      "word": "香港消防员救出55人",
+      "onboard_time": 1764242364,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106458,
@@ -2115,14 +2171,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 98057,
-      "num": 946711,
-      "word": "当你婚前不做背调",
-      "onboard_time": 1764242364,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97511,
       "num": 228142,
       "word": "大熊猫高高已相当于人百岁高龄",
@@ -2155,12 +2203,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94780,
+      "num": 955087,
+      "word": "王一博从不说假话",
+      "onboard_time": 1764241822,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 94708,
       "num": 482717,
       "word": "五月龄离世女婴由法医刘良尸检",
       "onboard_time": 1764161185,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94659,
+      "num": 118203,
+      "word": "真砂糖橘VS假砂糖橘",
+      "onboard_time": 1764243022,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 94254,
@@ -2193,14 +2257,6 @@
       "onboard_time": 1764240142,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 90751,
-      "num": 1025899,
-      "word": "张博恒完成冬奥火炬传递",
-      "onboard_time": 1764240922,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 90067,
@@ -2281,14 +2337,6 @@
       "onboard_time": 1764240503,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86464,
-      "num": 933072,
-      "word": "TES官宣naiyou加入",
-      "onboard_time": 1764242544,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 86009,
@@ -2411,6 +2459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 76469,
+      "num": 118246,
+      "word": "严浩翔不理解但照做",
+      "onboard_time": 1764243503,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 75102,
       "num": 1062921,
       "word": "国新办新闻发布会",
@@ -2419,12 +2475,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 71967,
-      "num": 955087,
-      "word": "王一博从不说假话",
-      "onboard_time": 1764241822,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 74762,
+      "num": 1067629,
+      "word": "未来月球屋建设或将就地取材",
+      "onboard_time": 1764241341,
+      "rank": 1,
+      "category": "科学科普"
     },
     {
       "raw_hot": 71336,
@@ -2435,28 +2491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 70811,
-      "num": 1067629,
-      "word": "未来月球屋建设或将就地取材",
-      "onboard_time": 1764241341,
-      "rank": 1,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 70649,
       "num": 227623,
       "word": "谍报上不封顶",
       "onboard_time": 1764196697,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70583,
-      "num": 957689,
-      "word": "胖东来羽绒服进价430卖价597",
-      "onboard_time": 1764242302,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70082,
@@ -2731,6 +2771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34356,
+      "num": 952432,
+      "word": "武汉完成全国首例医保价脑机接口手术",
+      "onboard_time": 1764241462,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34261,
       "num": 228298,
       "word": "展厅上方悬挂亡者面罩引争议",
@@ -2779,20 +2827,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 28094,
-      "num": 952432,
-      "word": "武汉完成全国首例医保价脑机接口手术",
-      "onboard_time": 1764241462,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27121,
       "num": 120981,
       "word": "旅日中国公民被歧视案11月尤突出",
       "onboard_time": 1764216382,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 26665,
+      "num": 118242,
+      "word": "艾米 把头发梳成大人模样",
+      "onboard_time": 1764243022,
+      "rank": 39,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 25185,

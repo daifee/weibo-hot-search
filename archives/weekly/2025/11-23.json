@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764242733191,
+  "endTime": 1764243573785,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -177,6 +177,14 @@
       "onboard_time": 1764080002,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1640603,
+      "num": 1039211,
+      "word": "香港向每户灾民发1万港元补助",
+      "onboard_time": 1764241284,
+      "rank": 5,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 1626319,
@@ -513,14 +521,6 @@
       "onboard_time": 1763980761,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 1033607,
-      "num": 1033607,
-      "word": "香港向每户灾民发1万港元补助",
-      "onboard_time": 1764241284,
-      "rank": 5,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 1033126,
@@ -1521,6 +1521,14 @@
       "onboard_time": 1763958864,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 546319,
+      "num": 1436324,
+      "word": "疯狂动物城",
+      "onboard_time": 1763964201,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 544983,
@@ -2563,14 +2571,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 396057,
-      "num": 1436324,
-      "word": "疯狂动物城",
-      "onboard_time": 1763964201,
-      "rank": 8,
-      "category": "电影"
-    },
-    {
       "raw_hot": 395601,
       "num": 284556,
       "word": "霸王茶姬为什么半年不出新品了",
@@ -3473,6 +3473,14 @@
       "onboard_time": 1763909001,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 306496,
+      "num": 1008866,
+      "word": "枭起青壤 最大的问题是剧情",
+      "onboard_time": 1764238883,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 305512,
@@ -4497,14 +4505,6 @@
       "onboard_time": 1763904622,
       "rank": 18,
       "category": "体育"
-    },
-    {
-      "raw_hot": 243014,
-      "num": 1008866,
-      "word": "枭起青壤 最大的问题是剧情",
-      "onboard_time": 1764238883,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 242992,
@@ -6675,6 +6675,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 171724,
+      "num": 957689,
+      "word": "胖东来羽绒服进价430卖价597",
+      "onboard_time": 1764242302,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171697,
       "num": 244915,
       "word": "宋亚轩好魅",
@@ -8227,6 +8235,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 140515,
+      "num": 1028290,
+      "word": "张博恒完成冬奥火炬传递",
+      "onboard_time": 1764240922,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140422,
       "num": 140422,
       "word": "中医朋友建议冬天要多喝煮苹果水",
@@ -8241,6 +8257,14 @@
       "onboard_time": 1763961621,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 140345,
+      "num": 968371,
+      "word": "官方回应蜜雪冰城要卖早餐",
+      "onboard_time": 1764241223,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139990,
@@ -8995,6 +9019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 128308,
+      "num": 946711,
+      "word": "当你婚前不做背调",
+      "onboard_time": 1764242364,
+      "rank": 43,
+      "category": "情感"
+    },
+    {
       "raw_hot": 128061,
       "num": 128061,
       "word": "枭起青壤微博追剧团",
@@ -9291,6 +9323,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123547,
+      "num": 933072,
+      "word": "TES官宣naiyou加入",
+      "onboard_time": 1764242544,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 123488,
       "num": 1772664,
       "word": "iPhone追星模式",
@@ -9401,6 +9441,14 @@
       "onboard_time": 1764069320,
       "rank": 29,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122342,
+      "num": 122342,
+      "word": "俄方称要警告日本",
+      "onboard_time": 1764243081,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122046,
@@ -9825,14 +9873,6 @@
       "onboard_time": 1763969841,
       "rank": 44,
       "category": "情感,休闲"
-    },
-    {
-      "raw_hot": 117275,
-      "num": 968371,
-      "word": "官方回应蜜雪冰城要卖早餐",
-      "onboard_time": 1764241223,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117157,
@@ -10707,6 +10747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 106847,
+      "num": 118229,
+      "word": "用400块成本摆摊一天赚900",
+      "onboard_time": 1764243263,
+      "rank": 42,
+      "category": "美食"
+    },
+    {
       "raw_hot": 106783,
       "num": 121858,
       "word": "西方媒体质疑高市早苗",
@@ -10721,6 +10769,14 @@
       "onboard_time": 1763869820,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106592,
+      "num": 118220,
+      "word": "香港消防员救出55人",
+      "onboard_time": 1764242364,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106585,
@@ -11491,14 +11547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 98057,
-      "num": 946711,
-      "word": "当你婚前不做背调",
-      "onboard_time": 1764242364,
-      "rank": 43,
-      "category": "情感"
-    },
-    {
       "raw_hot": 97794,
       "num": 97794,
       "word": "高中毕业生伪造履历当上博导",
@@ -11761,6 +11809,22 @@
       "onboard_time": 1764072742,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 94780,
+      "num": 955087,
+      "word": "王一博从不说假话",
+      "onboard_time": 1764241822,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 94659,
+      "num": 118203,
+      "word": "真砂糖橘VS假砂糖橘",
+      "onboard_time": 1764243022,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 94655,
@@ -12065,14 +12129,6 @@
       "onboard_time": 1764055701,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 90751,
-      "num": 1025899,
-      "word": "张博恒完成冬奥火炬传递",
-      "onboard_time": 1764240922,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 90637,
@@ -12401,14 +12457,6 @@
       "onboard_time": 1764051681,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 86464,
-      "num": 933072,
-      "word": "TES官宣naiyou加入",
-      "onboard_time": 1764242544,
-      "rank": 48,
-      "category": "电竞"
     },
     {
       "raw_hot": 86371,
@@ -12955,6 +13003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76469,
+      "num": 118246,
+      "word": "严浩翔不理解但照做",
+      "onboard_time": 1764243503,
+      "rank": 38,
+      "category": "演出"
+    },
+    {
       "raw_hot": 76455,
       "num": 141061,
       "word": "亚洲杯 海口",
@@ -13033,6 +13089,14 @@
       "onboard_time": 1763982021,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74762,
+      "num": 1067629,
+      "word": "未来月球屋建设或将就地取材",
+      "onboard_time": 1764241341,
+      "rank": 1,
+      "category": "科学科普"
     },
     {
       "raw_hot": 74559,
@@ -13147,14 +13211,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 71967,
-      "num": 955087,
-      "word": "王一博从不说假话",
-      "onboard_time": 1764241822,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 71357,
       "num": 121807,
       "word": "何广智VaVa打起来了",
@@ -13187,14 +13243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 70811,
-      "num": 1067629,
-      "word": "未来月球屋建设或将就地取材",
-      "onboard_time": 1764241341,
-      "rank": 1,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 70666,
       "num": 108375,
       "word": "十个勤天熟得有点受不了了",
@@ -13209,14 +13257,6 @@
       "onboard_time": 1764196697,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 70583,
-      "num": 957689,
-      "word": "胖东来羽绒服进价430卖价597",
-      "onboard_time": 1764242302,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70332,
@@ -14747,6 +14787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34356,
+      "num": 952432,
+      "word": "武汉完成全国首例医保价脑机接口手术",
+      "onboard_time": 1764241462,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34261,
       "num": 228298,
       "word": "展厅上方悬挂亡者面罩引争议",
@@ -15075,14 +15123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28094,
-      "num": 952432,
-      "word": "武汉完成全国首例医保价脑机接口手术",
-      "onboard_time": 1764241462,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 27880,
       "num": 58179,
       "word": "敌国条款是悬在日本军国主义头上的剑",
@@ -15127,6 +15167,14 @@
       "num": 90743,
       "word": "这下贺涵一心一意了吧",
       "onboard_time": 1763977521,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 26665,
+      "num": 118242,
+      "word": "艾米 把头发梳成大人模样",
+      "onboard_time": 1764243022,
       "rank": 39,
       "category": "作品衍生"
     },
