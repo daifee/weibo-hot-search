@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764226486845,
+  "endTime": 1764228527092,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -24,6 +24,14 @@
       "word": "香港火灾已致44人遇难",
       "onboard_time": 1764197538,
       "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 2527332,
+      "num": 2527332,
+      "word": "香港起火大楼内发现生还者",
+      "onboard_time": 1764225684,
+      "rank": 6,
       "category": "突发/灾害"
     },
     {
@@ -91,6 +99,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1132609,
+      "num": 1132609,
+      "word": "香港火灾已有55人遇难",
+      "onboard_time": 1764197538,
+      "rank": 5,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 1113380,
       "num": 1113380,
       "word": "深圳消防车队已在莲塘口岸集结",
@@ -147,6 +163,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 728042,
+      "num": 728042,
+      "word": "李纯 女主运",
+      "onboard_time": 1764226224,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 703573,
       "num": 703573,
       "word": "香港大火传出多次爆炸声",
@@ -161,14 +185,6 @@
       "onboard_time": 1764218428,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 663064,
-      "num": 663064,
-      "word": "香港起火大楼内发现生还者",
-      "onboard_time": 1764225684,
-      "rank": 6,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 636779,
@@ -339,6 +355,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 402359,
+      "num": 402359,
+      "word": "张婧仪澳门",
+      "onboard_time": 1764226162,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 398982,
       "num": 1863621,
       "word": "疯狂动物城2中配反馈",
@@ -372,7 +396,7 @@
     },
     {
       "raw_hot": 386113,
-      "num": 647396,
+      "num": 673714,
       "word": "Ming回应Uzi去iG",
       "onboard_time": 1764224904,
       "rank": 7,
@@ -443,6 +467,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 345900,
+      "num": 345900,
+      "word": "亡妻在游戏中的房子没了男子求助",
+      "onboard_time": 1764226823,
+      "rank": 16,
+      "category": "民生新闻,游戏"
+    },
+    {
       "raw_hot": 344752,
       "num": 482730,
       "word": "香港火灾升至五级",
@@ -465,6 +497,14 @@
       "onboard_time": 1764220944,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 343444,
+      "num": 343444,
+      "word": "霍建华 我妈都没这样管过我",
+      "onboard_time": 1764225742,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 339085,
@@ -587,12 +627,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259851,
+      "num": 259851,
+      "word": "胡先煦化什么妆需要50分钟",
+      "onboard_time": 1764227243,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 254980,
       "num": 254980,
       "word": "昆明火车站通报",
       "onboard_time": 1764215544,
       "rank": 28,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 249412,
+      "num": 2527373,
+      "word": "千里江山图开机",
+      "onboard_time": 1764226704,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 247816,
@@ -633,6 +689,14 @@
       "onboard_time": 1764219384,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 239552,
+      "num": 743754,
+      "word": "怪奇物语",
+      "onboard_time": 1764164184,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 236579,
@@ -715,14 +779,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 218695,
-      "num": 218695,
-      "word": "霍建华 我妈都没这样管过我",
-      "onboard_time": 1764225742,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218570,
       "num": 504723,
       "word": "易梦玲 师生恋",
@@ -739,12 +795,28 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 211257,
+      "num": 211257,
+      "word": "千里江山图",
+      "onboard_time": 1764227903,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 210158,
       "num": 254432,
       "word": "许昕说能赢王楚钦的没几个人",
       "onboard_time": 1764221364,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209427,
+      "num": 346901,
+      "word": "康熙野史 新发现",
+      "onboard_time": 1764227424,
+      "rank": 15,
+      "category": "科学科普"
     },
     {
       "raw_hot": 203166,
@@ -793,6 +865,14 @@
       "onboard_time": 1764217108,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 196881,
+      "num": 216124,
+      "word": "昆明铁路事故疑换轨时人员提前上道",
+      "onboard_time": 1764225142,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 195412,
@@ -883,6 +963,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 184083,
+      "num": 2528235,
+      "word": "库里状态",
+      "onboard_time": 1764224784,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 180699,
       "num": 180699,
       "word": "香港火灾多名失联者失联超9小时",
@@ -895,6 +983,14 @@
       "num": 209228,
       "word": "碧血蝉",
       "onboard_time": 1764208704,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180492,
+      "num": 180492,
+      "word": "令妃的权威我后知后觉",
+      "onboard_time": 1764227361,
       "rank": 28,
       "category": "剧集"
     },
@@ -915,6 +1011,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 176920,
+      "num": 176920,
+      "word": "把刘宇宁拍成一米三了",
+      "onboard_time": 1764226943,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 176554,
       "num": 176554,
       "word": "如果在酒店大堂看见耳塞还是别住了",
@@ -929,14 +1033,6 @@
       "onboard_time": 1764170604,
       "rank": 35,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 176159,
-      "num": 216124,
-      "word": "昆明铁路事故疑换轨时人员提前上道",
-      "onboard_time": 1764225142,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 175216,
@@ -979,6 +1075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166305,
+      "num": 166305,
+      "word": "医院证实仅送新娘抢救2小时",
+      "onboard_time": 1764227603,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 166166,
       "num": 346572,
       "word": "何老师这期压力小了",
@@ -993,14 +1097,6 @@
       "onboard_time": 1764212482,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 162102,
-      "num": 216394,
-      "word": "李纯 女主运",
-      "onboard_time": 1764226224,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 161445,
@@ -1035,6 +1131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 160246,
+      "num": 160246,
+      "word": "papi胡先煦 打开对00后认知的大门",
+      "onboard_time": 1764227061,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 159560,
       "num": 2327798,
       "word": "谢泼德31分",
@@ -1065,6 +1169,14 @@
       "onboard_time": 1764212723,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 156660,
+      "num": 156660,
+      "word": "最想成为打工人的一集",
+      "onboard_time": 1764227843,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 154599,
@@ -1139,6 +1251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150539,
+      "num": 150539,
+      "word": "李威入教原因",
+      "onboard_time": 1764227184,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 146590,
       "num": 251806,
       "word": "过度独立 创伤",
@@ -1163,12 +1283,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 143128,
-      "num": 215129,
-      "word": "张婧仪澳门",
-      "onboard_time": 1764226162,
-      "rank": 33,
-      "category": "艺人"
+      "raw_hot": 142563,
+      "num": 142563,
+      "word": "她这一天是小说都不敢写的程度",
+      "onboard_time": 1764227243,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 141153,
@@ -1195,7 +1315,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 139270,
+      "raw_hot": 140212,
       "num": 214777,
       "word": "喝酒脸红的人更易患两种癌",
       "onboard_time": 1764223885,
@@ -1251,12 +1371,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 129626,
+      "num": 129626,
+      "word": "沈羽洁不二之臣路透",
+      "onboard_time": 1764228202,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 128973,
       "num": 1799867,
       "word": "怎么才能在清华名正言顺的吹泡泡",
       "onboard_time": 1764220823,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 126827,
+      "num": 213513,
+      "word": "抑郁症跟焦虑症的区别",
+      "onboard_time": 1764224304,
+      "rank": 42,
+      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 125128,
@@ -1363,6 +1499,14 @@
       "category": "互联网,突发/灾害"
     },
     {
+      "raw_hot": 113860,
+      "num": 113860,
+      "word": "不能共情四天前的自己",
+      "onboard_time": 1764228442,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113591,
       "num": 643912,
       "word": "A股迎全线上涨",
@@ -1371,20 +1515,20 @@
       "category": "财经"
     },
     {
-      "raw_hot": 111931,
-      "num": 360520,
-      "word": "库里状态",
-      "onboard_time": 1764224784,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111807,
       "num": 752571,
       "word": "王楚钦回应获总决赛混双外卡",
       "onboard_time": 1764167905,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110467,
+      "num": 110467,
+      "word": "小狗跟鞋子一模一样",
+      "onboard_time": 1764228143,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110295,
@@ -1417,14 +1561,6 @@
       "onboard_time": 1764158482,
       "rank": 41,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 108370,
-      "num": 213513,
-      "word": "抑郁症跟焦虑症的区别",
-      "onboard_time": 1764224304,
-      "rank": 42,
-      "category": "民生新闻,科学科普"
     },
     {
       "raw_hot": 107608,
@@ -1603,6 +1739,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83182,
+      "num": 348555,
+      "word": "夸克眼镜装下整个阿里",
+      "onboard_time": 1764226823,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 83109,
       "num": 326343,
       "word": "苏翊鸣中国单板滑雪破冰者",
@@ -1617,14 +1761,6 @@
       "onboard_time": 1764169045,
       "rank": 8,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 81607,
-      "num": 743754,
-      "word": "怪奇物语",
-      "onboard_time": 1764164184,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 81095,
@@ -1763,6 +1899,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54062,
+      "num": 145812,
+      "word": "新郎新娘坠亡事件疑为酒后失足",
+      "onboard_time": 1764227843,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51692,
       "num": 482612,
       "word": "香港警方设立火灾寻人热线",
@@ -1809,6 +1953,30 @@
       "onboard_time": 1764165925,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 48058,
+      "num": 343534,
+      "word": "堂姐否认坠亡新娘怀孕",
+      "onboard_time": 1764227603,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46843,
+      "num": 142996,
+      "word": "女子花10万相亲匹配千元男嘉宾",
+      "onboard_time": 1764227903,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 45092,
+      "num": 343862,
+      "word": "王玉雯的Live会发光",
+      "onboard_time": 1764227002,
+      "rank": 17,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 44017,
@@ -1859,6 +2027,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31567,
+      "num": 343474,
+      "word": "枭起青壤地枭传",
+      "onboard_time": 1764227903,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28508,
       "num": 267488,
       "word": "香蜜沉沉烬如霜",
@@ -1873,6 +2049,14 @@
       "onboard_time": 1764216382,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 25185,
+      "num": 145296,
+      "word": "男子偷女友金饰卖钱再送她现金花束",
+      "onboard_time": 1764227424,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24226,
@@ -1923,8 +2107,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7856,
-      "num": 2253169,
+      "raw_hot": 8411,
+      "num": 2527529,
       "word": "总要去看看今年的冰天雪地吧",
       "onboard_time": 1764129624,
       "rank": 2,
