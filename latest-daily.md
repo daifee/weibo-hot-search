@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 05:24:40
+本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 05:38:05
 </p>
 </blockquote>
 <p>
@@ -291,6 +291,12 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E7%9C%8B%E7%9D%80%E4%B8%8D%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%8C%B4%E5%AD%90%23" target="weibo">
+全网唯一一个看着不讨厌的猴子（热度：37221）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%95%91%E6%8F%B4%E4%B8%AD%E7%9A%84%E7%88%B1%E5%BF%83%E6%8E%A5%E5%8A%9B%23" target="weibo">
 香港大埔火灾救援中的爱心接力（热度：35497）
 </a>
@@ -299,12 +305,6 @@ Crisp回应Uzi复出传言（热度：78593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%8A%9D%E6%9E%B6%E9%BB%84%E5%AD%90%E9%9F%AC%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 刘耀文劝架黄子韬王鹤棣（热度：35400）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E7%9C%8B%E7%9D%80%E4%B8%8D%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%8C%B4%E5%AD%90%23" target="weibo">
-全网唯一一个看着不讨厌的猴子（热度：33467）
 </a>
 </li>
 
@@ -364,7 +364,7 @@ Crisp回应Uzi复出传言（热度：78593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%8E%AF%E5%A2%83%E6%8C%81%E7%BB%AD%E6%81%B6%E5%8C%96%E4%BD%BF%E9%A6%86%E5%8F%91%E6%8F%90%E9%86%92%23" target="weibo">
-日本治安环境持续恶化使馆发提醒（热度：12822）
+日本治安环境持续恶化使馆发提醒（热度：13358）
 </a>
 </li>
 
@@ -382,13 +382,13 @@ Crisp回应Uzi复出传言（热度：78593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E6%8E%80%E8%B5%B7%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E6%BD%AE%23" target="weibo">
-乌干达掀起亲子鉴定潮（热度：9081）
+乌干达掀起亲子鉴定潮（热度：9956）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%8B%96%E5%BB%B6%E7%97%87%23" target="weibo">
-洗澡拖延症（热度：8748）
+洗澡拖延症（热度：9672）
 </a>
 </li>
 
