@@ -1,0 +1,410 @@
+{
+  "runTime": 1764214491161,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3710798,
+        "num": 3710798,
+        "word": "香港火灾已致44人遇难",
+        "onboard_time": 1764197538,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 327837,
+        "num": 327837,
+        "word": "万科一笔20亿元境内债寻求展期",
+        "onboard_time": 1764210862,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 69105,
+        "num": 327741,
+        "word": "千亩辣椒免费摘系谣言",
+        "onboard_time": 1764203845,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1341924,
+        "num": 327522,
+        "word": "港迪取消疯狂动物城2首映礼",
+        "onboard_time": 1764211704,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1142584,
+        "num": 327280,
+        "word": "香港火灾3座大厦火势仍在扑灭中",
+        "onboard_time": 1764209121,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 987149,
+        "num": 327038,
+        "word": "香港大埔火灾已基本控制",
+        "onboard_time": 1764208223,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 401268,
+        "num": 326985,
+        "word": "日本商家不断收到中国游客取消通知",
+        "onboard_time": 1764205884,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 368267,
+        "num": 326760,
+        "word": "疯狂动物城2中配反馈",
+        "onboard_time": 1764208463,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 154378,
+        "num": 326522,
+        "word": "鸿蒙智行称已充分收集证据",
+        "onboard_time": 1764212422,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 83109,
+        "num": 326343,
+        "word": "苏翊鸣中国单板滑雪破冰者",
+        "onboard_time": 1764214283,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1244110,
+        "num": 326176,
+        "word": "李威妻子称目睹死者受虐全程",
+        "onboard_time": 1764209182,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1012474,
+        "num": 325833,
+        "word": "香港火灾",
+        "onboard_time": 1764152062,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 965663,
+        "num": 325714,
+        "word": "特朗普施压高市别在台湾问题上挑衅",
+        "onboard_time": 1764210321,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 561269,
+        "num": 325430,
+        "word": "结婚前一天新郎新娘先后坠亡",
+        "onboard_time": 1764203964,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 541851,
+        "num": 325268,
+        "word": "香港为何还在用竹脚手架",
+        "onboard_time": 1764212601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467966,
+        "num": 325185,
+        "word": "杨幂穿Prada的女王",
+        "onboard_time": 1764210263,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 378608,
+        "num": 324824,
+        "word": "香港火灾涉事嫌疑人被捕现场",
+        "onboard_time": 1764209061,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 376684,
+        "num": 324767,
+        "word": "四大天王只剩黎明还不能领老年卡",
+        "onboard_time": 1764207741,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 370906,
+        "num": 324409,
+        "word": "免费短剧靠什么赚钱",
+        "onboard_time": 1764202644,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 359197,
+        "num": 324364,
+        "word": "李登科卸任娜扎经纪人",
+        "onboard_time": 1764212601,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 381314,
+        "num": 324007,
+        "word": "罗志祥曾多次去医院检查自证",
+        "onboard_time": 1764210441,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324005,
+        "num": 324005,
+        "word": "加工72只虾上桌只剩61只",
+        "onboard_time": 1764209602,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283165,
+        "num": 283165,
+        "word": "香港消防在天台救出2人",
+        "onboard_time": 1764213202,
+        "rank": 22,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 252292,
+        "num": 252292,
+        "word": "35岁男子熬夜打游戏瞬间失明",
+        "onboard_time": 1764209962,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249671,
+        "num": 249671,
+        "word": "高市早苗老家旅游业面临崩溃",
+        "onboard_time": 1764212542,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 216508,
+        "num": 216508,
+        "word": "疯狂动物城2 哭得稀里哗啦",
+        "onboard_time": 1764204145,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 202380,
+        "num": 202380,
+        "word": "费翔配音 听不清",
+        "onboard_time": 1764209962,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 189379,
+        "num": 189379,
+        "word": "不能救命的钻石不是好钻石",
+        "onboard_time": 1764214043,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178988,
+        "num": 189370,
+        "word": "香港多个文娱活动延期或取消",
+        "onboard_time": 1764213443,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 161849,
+        "num": 189360,
+        "word": "字幕组失业 罗一舟背锅",
+        "onboard_time": 1764213142,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74539,
+        "num": 189351,
+        "word": "姆巴佩独中四元",
+        "onboard_time": 1764201143,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 232122,
+        "num": 189338,
+        "word": "已婚后上班是休息",
+        "onboard_time": 1764212901,
+        "rank": 31,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 227026,
+        "num": 189334,
+        "word": "怪奇物语5上线",
+        "onboard_time": 1764204983,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 198193,
+        "num": 189322,
+        "word": "多名旅日中国公民遭殴打受伤",
+        "onboard_time": 1764196097,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 154520,
+        "num": 189311,
+        "word": "建议地枭团队签约萧敬腾",
+        "onboard_time": 1764212901,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 189303,
+        "num": 189303,
+        "word": "香港消防搜救暂未上到天台",
+        "onboard_time": 1764213202,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 180699,
+        "num": 180699,
+        "word": "香港火灾多名失联者失联超9小时",
+        "onboard_time": 1764210081,
+        "rank": 36,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 166855,
+        "num": 166855,
+        "word": "155元一棵白菜对比9毛一斤白菜",
+        "onboard_time": 1764211880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160799,
+        "num": 160799,
+        "word": "为什么近视600度是一个重要分界线",
+        "onboard_time": 1764200361,
+        "rank": 38,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 159434,
+        "num": 159434,
+        "word": "女子花500块买下将被吃掉的边牧",
+        "onboard_time": 1764212482,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160446,
+        "num": 156921,
+        "word": "女子患癌被辞企业拒绝赔偿",
+        "onboard_time": 1764214283,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149925,
+        "num": 149925,
+        "word": "Angelababy出席广电培训",
+        "onboard_time": 1764207083,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 145250,
+        "num": 145250,
+        "word": "女婴心脏手术离世已完成尸检",
+        "onboard_time": 1764165145,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145126,
+        "num": 145126,
+        "word": "居民曾多次发现工人在竹棚架吸烟",
+        "onboard_time": 1764206962,
+        "rank": 43,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 143392,
+        "num": 143392,
+        "word": "林一艾米开机同框",
+        "onboard_time": 1764212723,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139100,
+        "num": 139100,
+        "word": "站姐涅槃 庞氏骗局",
+        "onboard_time": 1764202824,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22386,
+        "num": 133995,
+        "word": "52万拍下的公司估值千万后被撤销",
+        "onboard_time": 1764212842,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133910,
+        "num": 133910,
+        "word": "第一次对猫的智商有了认知",
+        "onboard_time": 1764213624,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 125332,
+        "num": 125332,
+        "word": "香港小伙给救火人员送盒饭",
+        "onboard_time": 1764210801,
+        "rank": 48,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123330,
+        "num": 123330,
+        "word": "香港火灾3名被捕者或面临终身监禁",
+        "onboard_time": 1764211824,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}
