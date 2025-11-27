@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 21:38:46
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 21:50:38
 </p>
 </blockquote>
 <p>
@@ -5475,6 +5475,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E4%BA%BA%E6%98%AF%E5%8F%AF%E4%BB%A5%E7%AA%81%E7%84%B6%E9%97%B4%E5%A4%B1%E5%8E%BB%E6%89%80%E6%9C%89%E7%9A%84%23" target="weibo">
+原来人是可以突然间失去所有的（热度：583010）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BE%9F%E8%B0%A3%23" target="weibo">
 雷军辟谣（热度：581955）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E9%97%AE%E9%9F%A9%E9%9B%A8%E5%BD%A4%E6%9B%BE%E8%BE%89%E6%98%AF%E4%B8%80%E5%AF%B9%E5%90%97%23" target="weibo">
 宋佳问韩雨彤曾辉是一对吗（热度：551563）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%AD%E9%9D%A2%E4%BA%8B%E4%BB%B6%E8%80%81%E6%9D%BF%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%A5%B3%E9%A1%BE%E5%AE%A2%E8%B5%B7%E8%AF%89%23" target="weibo">
-续面事件老板回应被女顾客起诉（热度：551543）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764250726476,
+  "endTime": 1764251438967,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -275,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583010,
+      "num": 1384785,
+      "word": "原来人是可以突然间失去所有的",
+      "onboard_time": 1764248962,
+      "rank": 13,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566432,
       "num": 1768625,
       "word": "郑乃馨与男友互相取关",
@@ -344,6 +352,14 @@
       "word": "香港殉职消防员终年37岁",
       "onboard_time": 1764162564,
       "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 497659,
+      "num": 1387331,
+      "word": "香港火灾已致65人遇难",
+      "onboard_time": 1764197538,
+      "rank": 29,
       "category": "突发/灾害"
     },
     {
@@ -459,14 +475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 446933,
-      "num": 1387331,
-      "word": "香港火灾已致65人遇难",
-      "onboard_time": 1764197538,
-      "rank": 29,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 444412,
       "num": 1084624,
       "word": "康熙野史 新发现",
@@ -489,14 +497,6 @@
       "onboard_time": 1764204983,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 424246,
-      "num": 1384785,
-      "word": "原来人是可以突然间失去所有的",
-      "onboard_time": 1764248962,
-      "rank": 13,
-      "category": "情感"
     },
     {
       "raw_hot": 408536,
@@ -867,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 259518,
+      "num": 1667205,
+      "word": "铁路通报绵阳2人被列车碰撞身亡",
+      "onboard_time": 1764247402,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 258573,
       "num": 1754539,
       "word": "穿袜子睡觉对身体到底好不好",
@@ -1099,14 +1107,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209334,
-      "num": 1667205,
-      "word": "铁路通报绵阳2人被列车碰撞身亡",
-      "onboard_time": 1764247402,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 203166,
       "num": 1904611,
       "word": "全红婵滑雪视频被国际雪联跟评",
@@ -1169,6 +1169,14 @@
       "onboard_time": 1764217108,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 197037,
+      "num": 1339431,
+      "word": "葛荟婕回应大女儿小苹果恋爱",
+      "onboard_time": 1764248363,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 195412,
@@ -1299,20 +1307,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 185502,
+      "num": 581446,
+      "word": "成毅回应两京十五日拍摄受伤",
+      "onboard_time": 1764250464,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 180699,
       "num": 180699,
       "word": "香港火灾多名失联者失联超9小时",
       "onboard_time": 1764210081,
       "rank": 29,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 180670,
-      "num": 1339431,
-      "word": "葛荟婕回应大女儿小苹果恋爱",
-      "onboard_time": 1764248363,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 180536,
@@ -1443,6 +1451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164043,
+      "num": 1741259,
+      "word": "刘耀文劝架黄子韬王鹤棣",
+      "onboard_time": 1764245782,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 163420,
       "num": 1614789,
       "word": "宝成铁路列车碰撞施工人员致2死",
@@ -1561,14 +1577,6 @@
       "onboard_time": 1764227843,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 155418,
-      "num": 1741259,
-      "word": "刘耀文劝架黄子韬王鹤棣",
-      "onboard_time": 1764245782,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 154599,
@@ -2155,6 +2163,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 108137,
+      "num": 1322040,
+      "word": "唐朝诡事录",
+      "onboard_time": 1764249565,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107608,
       "num": 107608,
       "word": "陈飞宇罗云熙同框合照",
@@ -2193,6 +2209,14 @@
       "onboard_time": 1764201561,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105956,
+      "num": 579649,
+      "word": "疯狂动物城2彩蛋",
+      "onboard_time": 1764251242,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 105792,
@@ -2259,6 +2283,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100134,
+      "num": 1269708,
+      "word": "大生意人丫蛋变脸这段",
+      "onboard_time": 1764250044,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99858,
       "num": 228154,
       "word": "梁淞妈妈 加强版梁淞",
@@ -2315,6 +2347,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 95619,
+      "num": 1289314,
+      "word": "秦岚新剧被去母留子",
+      "onboard_time": 1764248782,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94780,
       "num": 1622442,
       "word": "王一博从不说假话",
@@ -2337,14 +2377,6 @@
       "onboard_time": 1764243022,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 94564,
-      "num": 1289314,
-      "word": "秦岚新剧被去母留子",
-      "onboard_time": 1764248782,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 94254,
@@ -2483,6 +2515,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85759,
+      "num": 1346805,
+      "word": "铁路通报售货大姨被停职情况",
+      "onboard_time": 1764249383,
+      "rank": 22,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 85466,
       "num": 1070669,
       "word": "王楚钦孙颖莎获总决赛混双外卡",
@@ -2499,14 +2539,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 85169,
-      "num": 1322040,
-      "word": "唐朝诡事录",
-      "onboard_time": 1764249565,
-      "rank": 29,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 84995,
       "num": 374597,
       "word": "利物浦1比4埃因霍温",
@@ -2521,6 +2553,14 @@
       "onboard_time": 1764233364,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84296,
+      "num": 1395167,
+      "word": "国台办正告赖清德",
+      "onboard_time": 1764249863,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 84188,
@@ -2555,20 +2595,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 82879,
-      "num": 1346805,
-      "word": "铁路通报售货大姨被停职情况",
-      "onboard_time": 1764249383,
-      "rank": 22,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 82296,
       "num": 781113,
       "word": "Doinb回应队伍解散",
       "onboard_time": 1764169045,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 81148,
+      "num": 1250968,
+      "word": "睡前五分钟玩了十小时手机",
+      "onboard_time": 1764250284,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 81095,
@@ -2675,14 +2715,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 72227,
-      "num": 1269708,
-      "word": "大生意人丫蛋变脸这段",
-      "onboard_time": 1764250044,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 71859,
       "num": 1253534,
       "word": "官方通报幼儿园老师打骂孩子",
@@ -2737,14 +2769,6 @@
       "onboard_time": 1764225504,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 69076,
-      "num": 1250968,
-      "word": "睡前五分钟玩了十小时手机",
-      "onboard_time": 1764250284,
-      "rank": 47,
-      "category": "情感"
     },
     {
       "raw_hot": 68439,
@@ -2931,14 +2955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 47908,
-      "num": 1395167,
-      "word": "国台办正告赖清德",
-      "onboard_time": 1764249863,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 45092,
       "num": 343862,
       "word": "王玉雯的Live会发光",
@@ -2953,6 +2969,14 @@
       "onboard_time": 1764182775,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43440,
+      "num": 1280611,
+      "word": "石破茂为什么说没有中国就没有日本",
+      "onboard_time": 1764249863,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 42838,
@@ -3025,14 +3049,6 @@
       "onboard_time": 1764244583,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 34646,
-      "num": 1280611,
-      "word": "石破茂为什么说没有中国就没有日本",
-      "onboard_time": 1764249863,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 34356,
