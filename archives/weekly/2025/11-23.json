@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764268619610,
+  "endTime": 1764269406601,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -15275,6 +15275,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 35497,
+      "num": 636659,
+      "word": "香港大埔火灾救援中的爱心接力",
+      "onboard_time": 1764263476,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35244,
       "num": 228830,
       "word": "神22应急发射只用了16天",
@@ -15673,14 +15681,6 @@
       "onboard_time": 1764052521,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 28301,
-      "num": 636659,
-      "word": "香港大埔火灾救援中的爱心接力",
-      "onboard_time": 1764263476,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 28253,
@@ -16409,6 +16409,14 @@
       "onboard_time": 1764153321,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 15026,
+      "num": 212581,
+      "word": "九字真炎暧昧期",
+      "onboard_time": 1764269235,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 14874,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764268619610,
+  "endTime": 1764269406601,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 35497,
+      "num": 636659,
+      "word": "香港大埔火灾救援中的爱心接力",
+      "onboard_time": 1764263476,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35400,
       "num": 1068149,
       "word": "刘耀文劝架黄子韬王鹤棣",
@@ -385,14 +393,6 @@
       "onboard_time": 1764249863,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 28301,
-      "num": 636659,
-      "word": "香港大埔火灾救援中的爱心接力",
-      "onboard_time": 1764263476,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 27564,
@@ -441,6 +441,14 @@
       "onboard_time": 1764261499,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15026,
+      "num": 212581,
+      "word": "九字真炎暧昧期",
+      "onboard_time": 1764269235,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 14243,
