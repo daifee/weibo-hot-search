@@ -1,0 +1,410 @@
+{
+  "runTime": 1764239492157,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 668217,
+        "num": 1106914,
+        "word": "高市再发涉台谬论",
+        "onboard_time": 1764221003,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9110,
+        "num": 1095065,
+        "word": "水稻高产或将不用猛猛施肥",
+        "onboard_time": 1764239422,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 64823,
+        "num": 1047183,
+        "word": "国新办新闻发布会",
+        "onboard_time": 1764237323,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1983296,
+        "num": 991183,
+        "word": "香港起火大楼内发现生还者",
+        "onboard_time": 1764225684,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 234385,
+        "num": 941703,
+        "word": "杨瀚森错失奖金",
+        "onboard_time": 1764236543,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 606854,
+        "num": 899927,
+        "word": "大熊猫高高去世",
+        "onboard_time": 1764233123,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42838,
+        "num": 827545,
+        "word": "中国如何打造出全球最高效太阳能",
+        "onboard_time": 1764237862,
+        "rank": 6,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 396057,
+        "num": 762480,
+        "word": "疯狂动物城",
+        "onboard_time": 1764229762,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 347998,
+        "num": 724887,
+        "word": "香港火灾已有55人遇难",
+        "onboard_time": 1764197538,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 337681,
+        "num": 701363,
+        "word": "香港起火大楼已无大面积明火",
+        "onboard_time": 1764209121,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 653145,
+        "num": 653145,
+        "word": "女教师拒绝与男友发生性关系遭杀害",
+        "onboard_time": 1764234144,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 652299,
+        "num": 652299,
+        "word": "乌干达98%亲子鉴定非亲生",
+        "onboard_time": 1764234321,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 477852,
+        "num": 477852,
+        "word": "O型血妈妈第一胎别轻易流产",
+        "onboard_time": 1764236183,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 392476,
+        "num": 392476,
+        "word": "papi精准说出梁淞何美延为啥天天吵架",
+        "onboard_time": 1764235704,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142862,
+        "num": 379379,
+        "word": "Ming回应Uzi去iG",
+        "onboard_time": 1764224904,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 378683,
+        "num": 378683,
+        "word": "28岁女孩面部长巨瘤决定不婚不育",
+        "onboard_time": 1764235344,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350328,
+        "num": 350328,
+        "word": "成毅又受伤了",
+        "onboard_time": 1764238642,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326466,
+        "num": 326466,
+        "word": "秦昊害怕恩利给伊能静告状",
+        "onboard_time": 1764233364,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263741,
+        "num": 263741,
+        "word": "逍遥散人掉粉",
+        "onboard_time": 1764221064,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 75505,
+        "num": 255785,
+        "word": "夸克AI眼镜带来的行业利好",
+        "onboard_time": 1764237923,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 248991,
+        "num": 248991,
+        "word": "演员孙菲菲离婚4次才成功",
+        "onboard_time": 1764235164,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243708,
+        "num": 243708,
+        "word": "婚后出轨同居不一定算重婚",
+        "onboard_time": 1764232582,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222723,
+        "num": 222723,
+        "word": "肖战张婧仪澳门活动同框",
+        "onboard_time": 1764230062,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186252,
+        "num": 222709,
+        "word": "穿袜子睡觉对身体到底好不好",
+        "onboard_time": 1764232582,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147821,
+        "num": 222278,
+        "word": "怪奇物语",
+        "onboard_time": 1764226823,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158392,
+        "num": 222134,
+        "word": "枭起青壤 最大的问题是剧情",
+        "onboard_time": 1764238883,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153507,
+        "num": 221804,
+        "word": "宝成铁路列车碰撞施工人员致2死",
+        "onboard_time": 1764237982,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180189,
+        "num": 221454,
+        "word": "李纯 女主运",
+        "onboard_time": 1764226224,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 157663,
+        "num": 221102,
+        "word": "精装朋友圈是最大的诈骗",
+        "onboard_time": 1764237023,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 143308,
+        "num": 220949,
+        "word": "黄子韬内急 王鹤棣吹口哨",
+        "onboard_time": 1764237743,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166968,
+        "num": 220717,
+        "word": "美国人在中国买早餐视频爆火",
+        "onboard_time": 1764234925,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 97511,
+        "num": 220419,
+        "word": "大熊猫高高已相当于人百岁高龄",
+        "onboard_time": 1764239183,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161657,
+        "num": 220082,
+        "word": "主动离职 被迫离职",
+        "onboard_time": 1764234803,
+        "rank": 32,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 143907,
+        "num": 219804,
+        "word": "中方绝不接受日方自说自话",
+        "onboard_time": 1764234083,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131845,
+        "num": 219504,
+        "word": "程晓玥回应孕期怕老公出轨吗",
+        "onboard_time": 1764235823,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 131101,
+        "num": 219326,
+        "word": "逍遥散人4天掉粉10万",
+        "onboard_time": 1764238524,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 125022,
+        "num": 219120,
+        "word": "爱笔去世考研暂停",
+        "onboard_time": 1764235284,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123832,
+        "num": 218677,
+        "word": "白鹿去探班王星越了",
+        "onboard_time": 1764236543,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89409,
+        "num": 218429,
+        "word": "黄晓明 22年后依旧是箫剑",
+        "onboard_time": 1764239302,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23483,
+        "num": 218044,
+        "word": "展厅上方悬挂亡者面罩引争议",
+        "onboard_time": 1764238944,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123322,
+        "num": 217865,
+        "word": "肖战澳门",
+        "onboard_time": 1764221123,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117076,
+        "num": 217576,
+        "word": "医院证实仅送新娘抢救2小时",
+        "onboard_time": 1764227603,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95811,
+        "num": 217440,
+        "word": "迪丽热巴陈星旭吃饺子为什么不蘸醋",
+        "onboard_time": 1764239122,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115134,
+        "num": 216950,
+        "word": "解放军能打败一切来犯之敌",
+        "onboard_time": 1764235704,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38114,
+        "num": 216883,
+        "word": "福建一大坝建设被指存严重偷工减料",
+        "onboard_time": 1764237982,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99858,
+        "num": 216415,
+        "word": "梁淞妈妈 加强版梁淞",
+        "onboard_time": 1764239002,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 96025,
+        "num": 216152,
+        "word": "把刘宇宁拍成一米三了",
+        "onboard_time": 1764226943,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94759,
+        "num": 215863,
+        "word": "美加净广告语被疑暗示女性做家务",
+        "onboard_time": 1764235224,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89007,
+        "num": 215555,
+        "word": "HLE官宣homme加入",
+        "onboard_time": 1764234743,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 4631,
+        "num": 215537,
+        "word": "杨瀚森G联赛首秀创收视纪录",
+        "onboard_time": 1764239363,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}

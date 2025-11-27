@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 17:43:50
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 18:31:32
 </p>
 </blockquote>
 <p>
@@ -4455,6 +4455,12 @@ T1 Peyz（热度：653404）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E6%95%99%E5%B8%88%E6%8B%92%E7%BB%9D%E4%B8%8E%E7%94%B7%E5%8F%8B%E5%8F%91%E7%94%9F%E6%80%A7%E5%85%B3%E7%B3%BB%E9%81%AD%E6%9D%80%E5%AE%B3%23" target="weibo">
+女教师拒绝与男友发生性关系遭杀害（热度：653145）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%AD%E7%A3%8A%E5%A4%AB%E5%A6%87%20%E7%9F%AD%E8%A7%86%E9%A2%91%23" target="weibo">
 王中磊夫妇 短视频（热度：652940）
 </a>
@@ -4475,6 +4481,12 @@ T1 Peyz（热度：653404）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%80%9D%E8%AF%9A%20%E8%A1%A8%E6%83%85%23" target="weibo">
 陈思诚 表情（热度：652461）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE98%25%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%9D%9E%E4%BA%B2%E7%94%9F%23" target="weibo">
+乌干达98%亲子鉴定非亲生（热度：652299）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E6%9F%AF%E6%B7%B3%E8%A2%AB%E9%95%BF%E5%89%A7%E9%80%80%E8%B4%A7%23" target="weibo">
 曝柯淳被长剧退货（热度：548970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23716%E5%9B%A2%E9%98%9F%23" target="weibo">
-716团队（热度：548759）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%E5%A5%B3%E4%B8%BB%E5%8E%9F%E5%9E%8B%E6%98%AF%E7%8E%8B%E8%89%B3%23" target="weibo">
-将门毒后女主原型是王艳（热度：548566）
 </a>
 </li>
 
