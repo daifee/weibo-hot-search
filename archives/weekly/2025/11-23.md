@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/23 00:31:27 ~ 2025/11/28 05:38:05
+本榜单时间：2025/11/23 00:31:27 ~ 2025/11/28 06:26:35
 </p>
 </blockquote>
 <p>
@@ -11103,6 +11103,12 @@ OBGG显示JiaQi加入TES（热度：49923）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E8%B4%A7%E5%A4%A7%E5%A7%A8%E8%A2%AB%E5%81%9C%E8%81%8C%E5%BD%B1%E5%93%8D%E9%93%81%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
+售货大姨被停职影响铁路形象的是谁（热度：46654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E8%AF%84%E8%AE%BA%E5%91%98%E7%A7%B0%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%B7%B2%E7%BB%8F%E5%A4%B1%E5%BF%83%E7%96%AF%E4%BA%86%23" target="weibo">
 台评论员称高市早苗已经失心疯了（热度：46569）
 </a>
@@ -11255,12 +11261,6 @@ OBGG显示JiaQi加入TES（热度：49923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E5%9C%B0%E6%9E%AD%E4%BC%A0%23" target="weibo">
 枭起青壤地枭传（热度：42744）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E8%B4%A7%E5%A4%A7%E5%A7%A8%E8%A2%AB%E5%81%9C%E8%81%8C%E5%BD%B1%E5%93%8D%E9%93%81%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
-售货大姨被停职影响铁路形象的是谁（热度：42405）
 </a>
 </li>
 
@@ -11445,6 +11445,12 @@ OBGG显示JiaQi加入TES（热度：49923）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%95%91%E6%8F%B4%E4%B8%AD%E7%9A%84%E7%88%B1%E5%BF%83%E6%8E%A5%E5%8A%9B%23" target="weibo">
+香港大埔火灾救援中的爱心接力（热度：36371）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%9A%E4%B8%BB%E6%8A%95%E8%AF%89%E7%8E%AF%E5%8D%AB%E5%B7%A5%E4%BA%BA%E6%8A%BD%E7%83%9F%E6%83%B9%E4%BA%89%E8%AE%AE%23" target="weibo">
 博主投诉环卫工人抽烟惹争议（热度：36193）
 </a>
@@ -11465,12 +11471,6 @@ OBGG显示JiaQi加入TES（热度：49923）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%A9%E7%8E%8B%E8%80%85%E5%8D%83%E4%B8%87%E5%88%AB%E4%B8%8A%E5%A4%B4%23" target="weibo">
 玩王者千万别上头（热度：35848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%95%91%E6%8F%B4%E4%B8%AD%E7%9A%84%E7%88%B1%E5%BF%83%E6%8E%A5%E5%8A%9B%23" target="weibo">
-香港大埔火灾救援中的爱心接力（热度：35497）
 </a>
 </li>
 
@@ -12111,6 +12111,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%8B%96%E5%BB%B6%E7%97%87%23" target="weibo">
+洗澡拖延症（热度：20504）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E4%B9%8C%E5%B0%9A%E6%9C%AA%E6%95%B2%E5%AE%9A%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E6%9C%80%E7%BB%88%E6%96%87%E6%9C%AC%23" target="weibo">
 美乌尚未敲定和平协议最终文本（热度：20393）
 </a>
@@ -12131,6 +12137,12 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%AD%A6%E6%96%B9%E6%8B%98%E7%95%9914%E5%90%8D%E6%97%A5%E6%9C%AC%E8%AF%88%E9%AA%97%E5%AB%8C%E7%8A%AF%23" target="weibo">
 马来西亚警方拘留14名日本诈骗嫌犯（热度：19871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%8E%AF%E5%A2%83%E6%8C%81%E7%BB%AD%E6%81%B6%E5%8C%96%E4%BD%BF%E9%A6%86%E5%8F%91%E6%8F%90%E9%86%92%23" target="weibo">
+日本治安环境持续恶化使馆发提醒（热度：19611）
 </a>
 </li>
 
@@ -12333,6 +12345,12 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%9D%A1%E5%95%86%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E6%99%BA%E5%95%86%E4%B9%8B%E4%B8%8A%23" target="weibo">
+你的睡商恐怕在我智商之上（热度：14770）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E5%B0%B1%E5%8F%AB%E9%AC%BC%E8%BF%B7%E6%97%A5%E7%9C%BC%23" target="weibo">
 原来这就叫鬼迷日眼（热度：14494）
 </a>
@@ -12357,12 +12375,6 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%9D%A1%E5%95%86%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E6%99%BA%E5%95%86%E4%B9%8B%E4%B8%8A%23" target="weibo">
-你的睡商恐怕在我智商之上（热度：14154）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E5%81%B7%E8%8F%9C%E5%8F%8D%E6%80%BC%E6%88%91%E6%98%AF%E8%80%81%E5%A4%AA%E5%A4%AA%E6%88%91%E6%80%95%E5%95%A5%23" target="weibo">
 老人偷菜反怼我是老太太我怕啥（热度：14118）
 </a>
@@ -12381,14 +12393,14 @@ ALin黑丝界最权威的女人（热度：31152）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A7%A8%E5%8E%8B%E8%BF%AB%E6%84%9F%23" target="weibo">
-林姨压迫感（热度：13359）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E6%8E%80%E8%B5%B7%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E6%BD%AE%23" target="weibo">
+乌干达掀起亲子鉴定潮（热度：13534）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%8E%AF%E5%A2%83%E6%8C%81%E7%BB%AD%E6%81%B6%E5%8C%96%E4%BD%BF%E9%A6%86%E5%8F%91%E6%8F%90%E9%86%92%23" target="weibo">
-日本治安环境持续恶化使馆发提醒（热度：13358）
+<a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%A7%A8%E5%8E%8B%E8%BF%AB%E6%84%9F%23" target="weibo">
+林姨压迫感（热度：13359）
 </a>
 </li>
 
@@ -12473,18 +12485,6 @@ ALin黑丝界最权威的女人（热度：31152）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%A7%98%E5%AF%86%E7%9A%84%E6%88%91%E4%BB%AC2%23" target="weibo">
 有秘密的我们2（热度：10651）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E6%8E%80%E8%B5%B7%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E6%BD%AE%23" target="weibo">
-乌干达掀起亲子鉴定潮（热度：9956）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%8B%96%E5%BB%B6%E7%97%87%23" target="weibo">
-洗澡拖延症（热度：9672）
 </a>
 </li>
 
