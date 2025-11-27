@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764264256678,
+  "endTime": 1764265249846,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -387,20 +387,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 28301,
+      "num": 636659,
+      "word": "香港大埔火灾救援中的爱心接力",
+      "onboard_time": 1764263476,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27564,
       "num": 1104801,
       "word": "疯狂动物城2彩蛋",
       "onboard_time": 1764251242,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 26550,
-      "num": 636659,
-      "word": "香港大埔火灾救援中的爱心接力",
-      "onboard_time": 1764263476,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 26507,
@@ -441,6 +441,14 @@
       "onboard_time": 1764261499,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14243,
+      "num": 417190,
+      "word": "零跑Lafa5开启轿跑10万级时代",
+      "onboard_time": 1764250464,
+      "rank": 9,
+      "category": "汽车"
     },
     {
       "raw_hot": 7042,
