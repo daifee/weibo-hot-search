@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764221343548,
+  "endTime": 1764222294920,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -491,6 +491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1033126,
+      "num": 2204643,
+      "word": "高市再发涉台谬论",
+      "onboard_time": 1764221003,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1022841,
       "num": 1022841,
       "word": "中美元首通电话",
@@ -577,6 +585,14 @@
       "onboard_time": 1764064882,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 947902,
+      "num": 2079729,
+      "word": "肖战澳门",
+      "onboard_time": 1764221123,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 940740,
@@ -1067,7 +1083,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 684151,
+      "raw_hot": 684315,
       "num": 2149010,
       "word": "给7亿老总女儿补课被整破防了",
       "onboard_time": 1764218428,
@@ -1811,6 +1827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 481536,
+      "num": 2108046,
+      "word": "霍建华 老婆都是自己演",
+      "onboard_time": 1764218966,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 479593,
       "num": 259699,
       "word": "时代少年团六周年演唱会",
@@ -2049,14 +2073,6 @@
       "onboard_time": 1763902882,
       "rank": 0,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 440645,
-      "num": 2108046,
-      "word": "霍建华 老婆都是自己演",
-      "onboard_time": 1764218966,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 439533,
@@ -2435,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 387563,
+      "num": 1986294,
+      "word": "葛夕说留几手雌激素偏高",
+      "onboard_time": 1764220944,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 386837,
       "num": 234906,
       "word": "香港海岛发现一男一女两浮尸",
@@ -2793,6 +2817,14 @@
       "onboard_time": 1764203485,
       "rank": 16,
       "category": "艺人,突发/灾害"
+    },
+    {
+      "raw_hot": 343920,
+      "num": 1998876,
+      "word": "迅猛龙被粉丝指责哭了",
+      "onboard_time": 1764220944,
+      "rank": 25,
+      "category": "网红"
     },
     {
       "raw_hot": 343748,
@@ -3347,14 +3379,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 295532,
-      "num": 2204643,
-      "word": "高市再发涉台谬论",
-      "onboard_time": 1764221003,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 295484,
       "num": 295484,
       "word": "上海地铁回应外国人在车厢内吃馅饼",
@@ -3457,14 +3481,6 @@
       "onboard_time": 1763961802,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 289269,
-      "num": 2079729,
-      "word": "肖战澳门",
-      "onboard_time": 1764221123,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 289070,
@@ -3969,6 +3985,14 @@
       "onboard_time": 1764157763,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254641,
+      "num": 1819143,
+      "word": "逍遥散人掉粉",
+      "onboard_time": 1764221064,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 254114,
@@ -4795,6 +4819,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 210158,
+      "num": 254432,
+      "word": "许昕说能赢王楚钦的没几个人",
+      "onboard_time": 1764221364,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 209792,
       "num": 398556,
       "word": "大生意人 女救男",
@@ -4937,6 +4969,14 @@
       "onboard_time": 1764041422,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203166,
+      "num": 1904611,
+      "word": "全红婵滑雪视频被国际雪联跟评",
+      "onboard_time": 1764220765,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 203116,
@@ -5739,14 +5779,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 185150,
-      "num": 1998876,
-      "word": "迅猛龙被粉丝指责哭了",
-      "onboard_time": 1764220944,
-      "rank": 25,
-      "category": "网红"
-    },
-    {
       "raw_hot": 185030,
       "num": 992959,
       "word": "没想到陆游还曾是打虎英雄",
@@ -6275,14 +6307,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 170436,
-      "num": 1986294,
-      "word": "葛夕说留几手雌激素偏高",
-      "onboard_time": 1764220944,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 170149,
       "num": 222373,
       "word": "狙击蝴蝶定档",
@@ -6513,6 +6537,14 @@
       "onboard_time": 1763954721,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166166,
+      "num": 346572,
+      "word": "何老师这期压力小了",
+      "onboard_time": 1764221364,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 166099,
@@ -7187,6 +7219,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 151659,
+      "num": 1296909,
+      "word": "王者最难全皮肤的英雄",
+      "onboard_time": 1764221784,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 151621,
       "num": 134922,
       "word": "Baolan谈Kanavi离开LPL",
@@ -7379,28 +7419,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 146360,
-      "num": 1904611,
-      "word": "全红婵滑雪视频被国际雪联跟评",
-      "onboard_time": 1764220765,
-      "rank": 33,
-      "category": "体育"
-    },
-    {
       "raw_hot": 145976,
       "num": 175337,
       "word": "12个防癌习惯",
       "onboard_time": 1763994443,
       "rank": 40,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 145914,
-      "num": 1819143,
-      "word": "逍遥散人掉粉",
-      "onboard_time": 1764221064,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 145852,
@@ -7907,6 +7931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135760,
+      "num": 251806,
+      "word": "过度独立 创伤",
+      "onboard_time": 1764221424,
+      "rank": 33,
+      "category": "情感,母婴育儿"
+    },
+    {
       "raw_hot": 135734,
       "num": 192229,
       "word": "枭起青壤第二日云合",
@@ -8081,6 +8113,14 @@
       "onboard_time": 1764200121,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132967,
+      "num": 251364,
+      "word": "喜欢开倍速看视频的人天塌了",
+      "onboard_time": 1764222084,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 132889,
@@ -9017,6 +9057,14 @@
       "onboard_time": 1764052521,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117983,
+      "num": 250471,
+      "word": "想养一个常玉儿做女儿",
+      "onboard_time": 1764222203,
+      "rank": 38,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 117933,
@@ -12947,7 +12995,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50934,
+      "raw_hot": 51042,
       "num": 1839425,
       "word": "孙颖莎看功夫茶笑得合不拢嘴",
       "onboard_time": 1764221003,
@@ -14195,6 +14243,14 @@
       "category": "电影,幽默"
     },
     {
+      "raw_hot": 21643,
+      "num": 344589,
+      "word": "婚前双双坠亡4秒视频通话成谜",
+      "onboard_time": 1764221843,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 21583,
       "num": 111732,
       "word": "张继科说樊振东打的无懈可击",
@@ -14715,7 +14771,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 3786,
+      "raw_hot": 5630,
       "num": 2253169,
       "word": "总要去看看今年的冰天雪地吧",
       "onboard_time": 1764129624,

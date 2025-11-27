@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 13:29:03
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 13:44:54
 </p>
 </blockquote>
 <p>
@@ -1845,6 +1845,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%86%8D%E5%8F%91%E6%B6%89%E5%8F%B0%E8%B0%AC%E8%AE%BA%23" target="weibo">
+高市再发涉台谬论（热度：1033126）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%20%E8%83%A1%E5%BD%A6%E6%96%8C%23" target="weibo">
 易梦玲 胡彦斌（热度：1033050）
 </a>
@@ -2153,6 +2159,12 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%9F%A9%E5%9B%BD%23" target="weibo">
 高市早苗招惹韩国（热度：948388）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%BE%B3%E9%97%A8%23" target="weibo">
+肖战澳门（热度：947902）
 </a>
 </li>
 
@@ -4030,7 +4042,7 @@ Guma FMVP（热度：688837）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%997%E4%BA%BF%E8%80%81%E6%80%BB%E5%A5%B3%E5%84%BF%E8%A1%A5%E8%AF%BE%E8%A2%AB%E6%95%B4%E7%A0%B4%E9%98%B2%E4%BA%86%23" target="weibo">
-给7亿老总女儿补课被整破防了（热度：684151）
+给7亿老总女儿补课被整破防了（热度：684315）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%A4%A7%E8%B7%8C%23" target="weibo">
 乐华娱乐大跌（热度：545480）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E6%94%B6%E5%88%B0%E8%80%81%E9%BC%A0%E5%B9%B2%E5%BC%80%E5%BF%83%E6%88%90%E8%BF%99%E6%A0%B7%23" target="weibo">
-卢昱晓收到老鼠干开心成这样（热度：545444）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%8B%9B%E6%83%B9%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%23" target="weibo">
-高市早苗招惹马来西亚（热度：545160）
 </a>
 </li>
 
