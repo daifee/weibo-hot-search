@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 13:44:54
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 14:41:11
 </p>
 </blockquote>
 <p>
@@ -4959,6 +4959,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A9%9A%E5%89%8D%E5%8F%8C%E5%8F%8C%E5%9D%A0%E4%BA%A14%E7%A7%92%E8%A7%86%E9%A2%91%E9%80%9A%E8%AF%9D%E6%88%90%E8%B0%9C%23" target="weibo">
+婚前双双坠亡4秒视频通话成谜（热度：611662）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%98%93%E6%A2%A6%E7%8E%B2%20%E9%83%9D%E8%95%BE%E8%A1%A8%E6%BC%94%E8%AE%AD%E7%BB%83%E8%90%A5%23" target="weibo">
 胡彦斌易梦玲 郝蕾表演训练营（热度：611452）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E5%B8%88%E6%88%91%E5%AE%B6%E7%94%B0%E6%9B%A6%E8%96%87%E4%B8%8D%E8%83%BD%E9%9C%B2%E7%A7%8B%E8%A3%A4%E5%90%97%23" target="weibo">
 老师我家田曦薇不能露秋裤吗（热度：545752）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E5%8D%8E%E5%A8%B1%E4%B9%90%E5%A4%A7%E8%B7%8C%23" target="weibo">
-乐华娱乐大跌（热度：545480）
 </a>
 </li>
 

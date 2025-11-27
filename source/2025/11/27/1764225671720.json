@@ -1,0 +1,410 @@
+{
+  "runTime": 1764225671720,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5608181,
+        "num": 5608181,
+        "word": "昆明一火车站试验列车撞人致11死",
+        "onboard_time": 1764215484,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159560,
+        "num": 1699457,
+        "word": "谢泼德31分",
+        "onboard_time": 1764224663,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 6036,
+        "num": 1641400,
+        "word": "总要去看看今年的冰天雪地吧",
+        "onboard_time": 1764129624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135129,
+        "num": 1633339,
+        "word": "怪奇物语5上线",
+        "onboard_time": 1764204983,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1631410,
+        "num": 1631410,
+        "word": "香港火灾已致44人遇难",
+        "onboard_time": 1764197538,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 694134,
+        "num": 694134,
+        "word": "香港起火大楼已无大面积明火",
+        "onboard_time": 1764209121,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 404732,
+        "num": 404732,
+        "word": "宗馥莉卸任娃哈哈集团公司董事长",
+        "onboard_time": 1764223224,
+        "rank": 6,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 386113,
+        "num": 386113,
+        "word": "Ming回应Uzi去iG",
+        "onboard_time": 1764224904,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 222240,
+        "num": 383835,
+        "word": "山姆配送员竟是三逃逃犯",
+        "onboard_time": 1764217407,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125046,
+        "num": 382365,
+        "word": "谢天谢地谢泼德",
+        "onboard_time": 1764224304,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 764554,
+        "num": 377133,
+        "word": "高市再发涉台谬论",
+        "onboard_time": 1764221003,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 746964,
+        "num": 373684,
+        "word": "肖战澳门",
+        "onboard_time": 1764221123,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611662,
+        "num": 369996,
+        "word": "婚前双双坠亡4秒视频通话成谜",
+        "onboard_time": 1764221843,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 369269,
+        "num": 369269,
+        "word": "官方通报新郎新娘先后坠亡",
+        "onboard_time": 1764223042,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363321,
+        "num": 363321,
+        "word": "逍遥散人掉粉",
+        "onboard_time": 1764221064,
+        "rank": 14,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327784,
+        "num": 327784,
+        "word": "葛夕说留几手雌激素偏高",
+        "onboard_time": 1764220944,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247578,
+        "num": 247578,
+        "word": "霍建华 老婆都是自己演",
+        "onboard_time": 1764218966,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219600,
+        "num": 219600,
+        "word": "单依纯官宣喜人",
+        "onboard_time": 1764222444,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203619,
+        "num": 203619,
+        "word": "结婚前一天新郎新娘先后坠亡",
+        "onboard_time": 1764203964,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19219,
+        "num": 203032,
+        "word": "点开丁真的田野坐标",
+        "onboard_time": 1764223404,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 277114,
+        "num": 202996,
+        "word": "迅猛龙被粉丝指责哭了",
+        "onboard_time": 1764220944,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 202907,
+        "num": 202907,
+        "word": "肖战好萌",
+        "onboard_time": 1764224484,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179806,
+        "num": 179806,
+        "word": "百分百聚酯纤维受害者已出现",
+        "onboard_time": 1764215844,
+        "rank": 22,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149301,
+        "num": 149301,
+        "word": "许昕说能赢王楚钦的没几个人",
+        "onboard_time": 1764221364,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117223,
+        "num": 146114,
+        "word": "高市被质问日中关系恶化该如何负责",
+        "onboard_time": 1764224244,
+        "rank": 24,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 144631,
+        "num": 144631,
+        "word": "王晶说赵雅芝没有演技但观众缘好",
+        "onboard_time": 1764223345,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142223,
+        "num": 142223,
+        "word": "全红婵滑雪视频被国际雪联跟评",
+        "onboard_time": 1764220765,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139270,
+        "num": 139270,
+        "word": "喝酒脸红的人更易患两种癌",
+        "onboard_time": 1764223885,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105201,
+        "num": 139031,
+        "word": "汪苏泷抢票",
+        "onboard_time": 1764223104,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 90130,
+        "num": 138916,
+        "word": "何老师这期压力小了",
+        "onboard_time": 1764221364,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279602,
+        "num": 138909,
+        "word": "花海晒时团短片花絮",
+        "onboard_time": 1764225024,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138889,
+        "num": 138889,
+        "word": "日本商家不断收到中国游客取消通知",
+        "onboard_time": 1764205884,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98611,
+        "num": 133810,
+        "word": "鸿蒙智行称已充分收集证据",
+        "onboard_time": 1764212422,
+        "rank": 32,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 129925,
+        "num": 129925,
+        "word": "过度独立 创伤",
+        "onboard_time": 1764221424,
+        "rank": 33,
+        "category": "情感,母婴育儿"
+      },
+      {
+        "raw_hot": 126346,
+        "num": 126346,
+        "word": "喜欢开倍速看视频的人天塌了",
+        "onboard_time": 1764222084,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122728,
+        "num": 122728,
+        "word": "王楚钦忘还学生记号笔",
+        "onboard_time": 1764224124,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119291,
+        "num": 119291,
+        "word": "手机调成英文竟然还有这好处",
+        "onboard_time": 1764220403,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 118986,
+        "num": 118986,
+        "word": "李威妻子称目睹死者受虐全程",
+        "onboard_time": 1764209182,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 8888,
+        "num": 118472,
+        "word": "陕西男子17万缅甸寻妻新娘被遣返",
+        "onboard_time": 1764225443,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47547,
+        "num": 118390,
+        "word": "周深爬出两里地了",
+        "onboard_time": 1764225504,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118360,
+        "num": 118360,
+        "word": "昆明铁路事故疑换轨时人员提前上道",
+        "onboard_time": 1764225142,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37347,
+        "num": 110390,
+        "word": "日本仍然在延续反华叙事",
+        "onboard_time": 1764224362,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94219,
+        "num": 109939,
+        "word": "抑郁症跟焦虑症的区别",
+        "onboard_time": 1764224304,
+        "rank": 42,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 109897,
+        "num": 109897,
+        "word": "孙恩盛说感到好不公平",
+        "onboard_time": 1764224844,
+        "rank": 43,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 108182,
+        "num": 108182,
+        "word": "库里状态",
+        "onboard_time": 1764224784,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107204,
+        "num": 107204,
+        "word": "易烊千玺吓得给石头鞠躬",
+        "onboard_time": 1764217526,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 102144,
+        "num": 102144,
+        "word": "一张截图钓出多少反华党",
+        "onboard_time": 1764215243,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94027,
+        "num": 94027,
+        "word": "A股迎全线上涨",
+        "onboard_time": 1764222862,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 93523,
+        "num": 93523,
+        "word": "王曼昱打纸杯把球打飞了",
+        "onboard_time": 1764225383,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92747,
+        "num": 92747,
+        "word": "猫 太吵了不听不听",
+        "onboard_time": 1764225324,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}

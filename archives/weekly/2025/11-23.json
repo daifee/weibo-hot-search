@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764222294920,
+  "endTime": 1764225671720,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -1275,6 +1275,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 611662,
+      "num": 369996,
+      "word": "婚前双双坠亡4秒视频通话成谜",
+      "onboard_time": 1764221843,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 610393,
       "num": 591125,
       "word": "芒果史冠",
@@ -2299,6 +2307,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 404732,
+      "num": 404732,
+      "word": "宗馥莉卸任娃哈哈集团公司董事长",
+      "onboard_time": 1764223224,
+      "rank": 6,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 404317,
       "num": 404317,
       "word": "狂野时代票房",
@@ -2475,6 +2491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 386113,
+      "num": 386113,
+      "word": "Ming回应Uzi去iG",
+      "onboard_time": 1764224904,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 382496,
       "num": 322713,
       "word": "王源内娱首个斜开舞台",
@@ -2545,6 +2569,14 @@
       "onboard_time": 1763951239,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 369269,
+      "num": 369269,
+      "word": "官方通报新郎新娘先后坠亡",
+      "onboard_time": 1764223042,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 368350,
@@ -2625,6 +2657,14 @@
       "onboard_time": 1764039800,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 363321,
+      "num": 1819143,
+      "word": "逍遥散人掉粉",
+      "onboard_time": 1764221064,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 362778,
@@ -3595,6 +3635,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 279602,
+      "num": 138909,
+      "word": "花海晒时团短片花絮",
+      "onboard_time": 1764225024,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 279057,
       "num": 185580,
       "word": "北京一男子醉驾电动车连摔6次身亡",
@@ -3985,14 +4033,6 @@
       "onboard_time": 1764157763,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 254641,
-      "num": 1819143,
-      "word": "逍遥散人掉粉",
-      "onboard_time": 1764221064,
-      "rank": 41,
-      "category": "游戏"
     },
     {
       "raw_hot": 254114,
@@ -4595,6 +4635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219600,
+      "num": 219600,
+      "word": "单依纯官宣喜人",
+      "onboard_time": 1764222444,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 218591,
       "num": 1074984,
       "word": "雷军增持小米260万股",
@@ -4993,6 +5041,14 @@
       "onboard_time": 1764141501,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 202907,
+      "num": 202907,
+      "word": "肖战好萌",
+      "onboard_time": 1764224484,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 202598,
@@ -6851,6 +6907,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 159560,
+      "num": 1699457,
+      "word": "谢泼德31分",
+      "onboard_time": 1764224663,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 159447,
       "num": 174429,
       "word": "九州岛5.3级地震",
@@ -7499,6 +7563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 144631,
+      "num": 144631,
+      "word": "王晶说赵雅芝没有演技但观众缘好",
+      "onboard_time": 1764223345,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 144244,
       "num": 144244,
       "word": "张继科杯混团赛来了",
@@ -7697,6 +7769,14 @@
       "onboard_time": 1764045803,
       "rank": 22,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 139270,
+      "num": 139270,
+      "word": "喝酒脸红的人更易患两种癌",
+      "onboard_time": 1764223885,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 139229,
@@ -8579,6 +8659,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125046,
+      "num": 382365,
+      "word": "谢天谢地谢泼德",
+      "onboard_time": 1764224304,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124922,
       "num": 124922,
       "word": "胡彦斌锐评梁淞头巾事件",
@@ -8721,6 +8809,14 @@
       "onboard_time": 1764066381,
       "rank": 44,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 122728,
+      "num": 122728,
+      "word": "王楚钦忘还学生记号笔",
+      "onboard_time": 1764224124,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 122595,
@@ -9019,6 +9115,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118360,
+      "num": 118360,
+      "word": "昆明铁路事故疑换轨时人员提前上道",
+      "onboard_time": 1764225142,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118352,
       "num": 243335,
       "word": "香港取消中学生赴日交流",
@@ -9137,6 +9241,14 @@
       "onboard_time": 1763969841,
       "rank": 44,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 117223,
+      "num": 146114,
+      "word": "高市被质问日中关系恶化该如何负责",
+      "onboard_time": 1764224244,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 117157,
@@ -9683,6 +9795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 109897,
+      "num": 109897,
+      "word": "孙恩盛说感到好不公平",
+      "onboard_time": 1764224844,
+      "rank": 43,
+      "category": "网红"
+    },
+    {
       "raw_hot": 109787,
       "num": 109787,
       "word": "余宇涵直播",
@@ -9833,6 +9953,14 @@
       "onboard_time": 1764048141,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108182,
+      "num": 108182,
+      "word": "库里状态",
+      "onboard_time": 1764224784,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 108123,
@@ -10161,6 +10289,14 @@
       "onboard_time": 1763878761,
       "rank": 40,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105201,
+      "num": 139031,
+      "word": "汪苏泷抢票",
+      "onboard_time": 1764223104,
+      "rank": 28,
+      "category": "演出"
     },
     {
       "raw_hot": 105010,
@@ -10931,6 +11067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 94219,
+      "num": 109939,
+      "word": "抑郁症跟焦虑症的区别",
+      "onboard_time": 1764224304,
+      "rank": 42,
+      "category": "民生新闻,科学科普"
+    },
+    {
       "raw_hot": 94217,
       "num": 134959,
       "word": "台湾省8旬母亲杀死52岁残疾儿子",
@@ -10953,6 +11097,14 @@
       "onboard_time": 1763865440,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94027,
+      "num": 94027,
+      "word": "A股迎全线上涨",
+      "onboard_time": 1764222862,
+      "rank": 47,
+      "category": "财经"
     },
     {
       "raw_hot": 94004,
@@ -11011,6 +11163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93523,
+      "num": 93523,
+      "word": "王曼昱打纸杯把球打飞了",
+      "onboard_time": 1764225383,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 93349,
       "num": 93349,
       "word": "为什么让喜君去跟踪",
@@ -11049,6 +11209,14 @@
       "onboard_time": 1764061702,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92747,
+      "num": 92747,
+      "word": "猫 太吵了不听不听",
+      "onboard_time": 1764225324,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92712,
@@ -13131,6 +13299,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 47547,
+      "num": 118390,
+      "word": "周深爬出两里地了",
+      "onboard_time": 1764225504,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 47258,
       "num": 146841,
       "word": "云南彝良成立调查组",
@@ -13505,6 +13681,14 @@
       "onboard_time": 1764177498,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 37347,
+      "num": 110390,
+      "word": "日本仍然在延续反华叙事",
+      "onboard_time": 1764224362,
+      "rank": 41,
+      "category": "国内时政"
     },
     {
       "raw_hot": 37318,
@@ -14243,14 +14427,6 @@
       "category": "电影,幽默"
     },
     {
-      "raw_hot": 21643,
-      "num": 344589,
-      "word": "婚前双双坠亡4秒视频通话成谜",
-      "onboard_time": 1764221843,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 21583,
       "num": 111732,
       "word": "张继科说樊振东打的无懈可击",
@@ -14369,6 +14545,14 @@
       "onboard_time": 1764096133,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 19219,
+      "num": 203032,
+      "word": "点开丁真的田野坐标",
+      "onboard_time": 1764223404,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 19158,
@@ -14747,6 +14931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 8888,
+      "num": 118472,
+      "word": "陕西男子17万缅甸寻妻新娘被遣返",
+      "onboard_time": 1764225443,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7702,
       "num": 3395687,
       "word": "这份方案是种草清单更是行动指南",
@@ -14763,20 +14955,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 6036,
+      "num": 2253169,
+      "word": "总要去看看今年的冰天雪地吧",
+      "onboard_time": 1764129624,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 5956,
       "num": 518815,
       "word": "华龙一号又有新贡献",
       "onboard_time": 1763807421,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 5630,
-      "num": 2253169,
-      "word": "总要去看看今年的冰天雪地吧",
-      "onboard_time": 1764129624,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1313,
