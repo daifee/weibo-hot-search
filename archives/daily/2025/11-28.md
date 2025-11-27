@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 04:41:01
+本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 05:24:40
 </p>
 </blockquote>
 <p>
@@ -304,7 +304,7 @@ Crisp回应Uzi复出传言（热度：78593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E7%9C%8B%E7%9D%80%E4%B8%8D%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%8C%B4%E5%AD%90%23" target="weibo">
-全网唯一一个看着不讨厌的猴子（热度：28958）
+全网唯一一个看着不讨厌的猴子（热度：33467）
 </a>
 </li>
 
@@ -358,7 +358,13 @@ Crisp回应Uzi复出传言（热度：78593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%9D%A1%E5%95%86%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E6%99%BA%E5%95%86%E4%B9%8B%E4%B8%8A%23" target="weibo">
-你的睡商恐怕在我智商之上（热度：12347）
+你的睡商恐怕在我智商之上（热度：14154）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%8E%AF%E5%A2%83%E6%8C%81%E7%BB%AD%E6%81%B6%E5%8C%96%E4%BD%BF%E9%A6%86%E5%8F%91%E6%8F%90%E9%86%92%23" target="weibo">
+日本治安环境持续恶化使馆发提醒（热度：12822）
 </a>
 </li>
 
@@ -371,6 +377,18 @@ Crisp回应Uzi复出传言（热度：78593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E7%A7%98%E5%AF%86%E7%9A%84%E6%88%91%E4%BB%AC2%23" target="weibo">
 有秘密的我们2（热度：10651）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E6%8E%80%E8%B5%B7%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E6%BD%AE%23" target="weibo">
+乌干达掀起亲子鉴定潮（热度：9081）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%8B%96%E5%BB%B6%E7%97%87%23" target="weibo">
+洗澡拖延症（热度：8748）
 </a>
 </li>
 

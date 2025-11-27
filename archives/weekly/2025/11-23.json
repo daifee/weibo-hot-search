@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764276061221,
+  "endTime": 1764278680368,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -16459,6 +16459,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 14154,
+      "num": 131183,
+      "word": "你的睡商恐怕在我智商之上",
+      "onboard_time": 1764271994,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 14118,
       "num": 641321,
       "word": "老人偷菜反怼我是老太太我怕啥",
@@ -16507,12 +16515,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12347,
-      "num": 130637,
-      "word": "你的睡商恐怕在我智商之上",
-      "onboard_time": 1764271994,
-      "rank": 40,
-      "category": "情感"
+      "raw_hot": 12822,
+      "num": 130194,
+      "word": "日本治安环境持续恶化使馆发提醒",
+      "onboard_time": 1764276433,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 12234,
@@ -16633,6 +16641,22 @@
       "onboard_time": 1763967080,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 9081,
+      "num": 128857,
+      "word": "乌干达掀起亲子鉴定潮",
+      "onboard_time": 1764276915,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 8748,
+      "num": 128621,
+      "word": "洗澡拖延症",
+      "onboard_time": 1764277814,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 7702,
