@@ -1,0 +1,410 @@
+{
+  "runTime": 1764229315228,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2529788,
+        "num": 2559576,
+        "word": "香港起火大楼内发现生还者",
+        "onboard_time": 1764225684,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 193884,
+        "num": 2055612,
+        "word": "库里状态",
+        "onboard_time": 1764224784,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9627,
+        "num": 1958106,
+        "word": "总要去看看今年的冰天雪地吧",
+        "onboard_time": 1764129624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310069,
+        "num": 1919034,
+        "word": "千里江山图开机",
+        "onboard_time": 1764226704,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1892485,
+        "num": 1892485,
+        "word": "昆明一火车站试验列车撞人致11死",
+        "onboard_time": 1764215484,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1580083,
+        "num": 1580083,
+        "word": "香港火灾已有55人遇难",
+        "onboard_time": 1764197538,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 678479,
+        "num": 678479,
+        "word": "李纯 女主运",
+        "onboard_time": 1764226224,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 522836,
+        "num": 522836,
+        "word": "香港起火大楼已无大面积明火",
+        "onboard_time": 1764209121,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 292881,
+        "num": 487734,
+        "word": "Ming回应Uzi去iG",
+        "onboard_time": 1764224904,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 266551,
+        "num": 485576,
+        "word": "康熙野史 新发现",
+        "onboard_time": 1764227424,
+        "rank": 9,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 632012,
+        "num": 485057,
+        "word": "肖战澳门",
+        "onboard_time": 1764221123,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484385,
+        "num": 484385,
+        "word": "高市再发涉台谬论",
+        "onboard_time": 1764221003,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 350422,
+        "num": 350422,
+        "word": "婚前双双坠亡4秒视频通话成谜",
+        "onboard_time": 1764221843,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 329403,
+        "num": 329403,
+        "word": "亡妻在游戏中的房子没了男子求助",
+        "onboard_time": 1764226823,
+        "rank": 13,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 73777,
+        "num": 329310,
+        "word": "夸克眼镜装下整个阿里",
+        "onboard_time": 1764226823,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 329288,
+        "num": 329288,
+        "word": "霍建华 我妈都没这样管过我",
+        "onboard_time": 1764225742,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 325151,
+        "num": 325151,
+        "word": "张婧仪澳门",
+        "onboard_time": 1764226162,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42087,
+        "num": 254585,
+        "word": "王玉雯的Live会发光",
+        "onboard_time": 1764227002,
+        "rank": 17,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 21149,
+        "num": 245764,
+        "word": "香港4家快餐店免费提供1000份早餐",
+        "onboard_time": 1764228804,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28915,
+        "num": 241196,
+        "word": "新郎新娘坠亡案已排除刑事案件",
+        "onboard_time": 1764228623,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 239341,
+        "num": 239341,
+        "word": "医院证实仅送新娘抢救2小时",
+        "onboard_time": 1764227603,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230770,
+        "num": 230770,
+        "word": "胡先煦化什么妆需要50分钟",
+        "onboard_time": 1764227243,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225898,
+        "num": 225898,
+        "word": "官方通报新郎新娘先后坠亡",
+        "onboard_time": 1764223042,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221737,
+        "num": 221737,
+        "word": "逍遥散人掉粉",
+        "onboard_time": 1764221064,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 220105,
+        "num": 220105,
+        "word": "昆明铁路事故疑换轨时人员提前上道",
+        "onboard_time": 1764225142,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176789,
+        "num": 212240,
+        "word": "千里江山图",
+        "onboard_time": 1764227903,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186072,
+        "num": 205701,
+        "word": "怪奇物语",
+        "onboard_time": 1764226823,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205236,
+        "num": 205236,
+        "word": "香港大埔火灾救援现场直击",
+        "onboard_time": 1764225863,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 174926,
+        "num": 202896,
+        "word": "朱亚文向涵之 糙汉文学",
+        "onboard_time": 1764228744,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147599,
+        "num": 201392,
+        "word": "令妃的权威我后知后觉",
+        "onboard_time": 1764227361,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45052,
+        "num": 201084,
+        "word": "堂姐否认坠亡新娘怀孕",
+        "onboard_time": 1764227603,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200913,
+        "num": 200913,
+        "word": "高市被质问日中关系恶化该如何负责",
+        "onboard_time": 1764224244,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197613,
+        "num": 197613,
+        "word": "把刘宇宁拍成一米三了",
+        "onboard_time": 1764226943,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188799,
+        "num": 188799,
+        "word": "papi胡先煦 打开对00后认知的大门",
+        "onboard_time": 1764227061,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164768,
+        "num": 164768,
+        "word": "李威入教原因",
+        "onboard_time": 1764227184,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42744,
+        "num": 164729,
+        "word": "枭起青壤地枭传",
+        "onboard_time": 1764227903,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146505,
+        "num": 164686,
+        "word": "沈羽洁不二之臣路透",
+        "onboard_time": 1764228202,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41941,
+        "num": 164655,
+        "word": "亳州巨响",
+        "onboard_time": 1764229043,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50954,
+        "num": 164615,
+        "word": "刘耀文看似耍酷实则在等绿灯",
+        "onboard_time": 1764229103,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 78368,
+        "num": 164564,
+        "word": "朱开对比BLG和世界冠军",
+        "onboard_time": 1764228623,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 144743,
+        "num": 164545,
+        "word": "喝酒脸红的人更易患两种癌",
+        "onboard_time": 1764223885,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131962,
+        "num": 164493,
+        "word": "花海晒时团短片花絮",
+        "onboard_time": 1764225024,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 131428,
+        "num": 164459,
+        "word": "她这一天是小说都不敢写的程度",
+        "onboard_time": 1764227243,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64147,
+        "num": 164394,
+        "word": "女子花10万相亲匹配千元男嘉宾",
+        "onboard_time": 1764227903,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69999,
+        "num": 164378,
+        "word": "新郎新娘坠亡事件疑为酒后失足",
+        "onboard_time": 1764227843,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129781,
+        "num": 164320,
+        "word": "抑郁症跟焦虑症的区别",
+        "onboard_time": 1764224304,
+        "rank": 45,
+        "category": "民生新闻,科学科普"
+      },
+      {
+        "raw_hot": 125318,
+        "num": 164276,
+        "word": "结婚前一天新郎新娘先后坠亡",
+        "onboard_time": 1764203964,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124349,
+        "num": 164234,
+        "word": "葛夕说留几手雌激素偏高",
+        "onboard_time": 1764220944,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117592,
+        "num": 164190,
+        "word": "尼泊尔今年2082年",
+        "onboard_time": 1764229163,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117219,
+        "num": 164146,
+        "word": "迅猛龙被粉丝指责哭了",
+        "onboard_time": 1764220944,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}

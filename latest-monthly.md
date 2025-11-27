@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 15:28:47
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 15:41:55
 </p>
 </blockquote>
 <p>
@@ -304,7 +304,7 @@ T1官宣Gumayusi离队（热度：3390474）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85%23" target="weibo">
-香港起火大楼内发现生还者（热度：2527332）
+香港起火大楼内发现生还者（热度：2529788）
 </a>
 </li>
 
@@ -743,6 +743,12 @@ Faker六冠王（热度：1654581）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B0%A2%E5%A8%9C%E5%9D%90%E9%AB%98%E9%93%81%E5%81%B6%E9%81%87%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 谢娜坐高铁偶遇王鹤棣（热度：1582542）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E6%9C%8955%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港火灾已有55人遇难（热度：1580083）
 </a>
 </li>
 
@@ -1583,12 +1589,6 @@ CPA成绩（热度：1140911）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%96%B0%E8%A7%89%E7%BD%97%E5%AE%B6%E6%97%8F%E5%90%8E%E4%BB%A3%E9%83%BD%E6%9C%89%E6%9F%93%E8%89%B2%E4%BD%93%E6%A0%87%E8%AE%B0%23" target="weibo">
 爱新觉罗家族后代都有染色体标记（热度：1133122）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E6%9C%8955%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-香港火灾已有55人遇难（热度：1132609）
 </a>
 </li>
 
