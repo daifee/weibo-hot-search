@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764261600335,
+  "endTime": 1764262109925,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -11,19 +11,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1130011,
-      "num": 1130011,
+      "raw_hot": 1133548,
+      "num": 1133548,
       "word": "郭碧婷女儿被孤立",
       "onboard_time": 1764256943,
       "rank": 20,
       "category": "综艺"
     },
     {
-      "raw_hot": 337973,
+      "raw_hot": 343464,
       "num": 2094693,
       "word": "香港火灾救援最新消息",
       "onboard_time": 1764252503,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 339873,
+      "num": 1706502,
+      "word": "滇二娃致歉",
+      "onboard_time": 1764260840,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -35,14 +43,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 266302,
-      "num": 1706502,
-      "word": "滇二娃致歉",
-      "onboard_time": 1764260840,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 248282,
       "num": 2025464,
       "word": "香港向每户灾民发1万港元补助",
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 239426,
-      "num": 1688246,
+      "num": 1819029,
       "word": "香港起火大楼内发现生还者",
       "onboard_time": 1764225684,
       "rank": 11,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 167929,
-      "num": 1129952,
+      "num": 1131173,
       "word": "逍遥散人直播",
       "onboard_time": 1764245243,
       "rank": 21,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 90059,
-      "num": 1231992,
+      "num": 1266356,
       "word": "刘晓庆刘嘉玲锐评TF三代",
       "onboard_time": 1764245782,
       "rank": 18,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 85691,
-      "num": 1128781,
+      "num": 1189493,
       "word": "俄方称要警告日本",
       "onboard_time": 1764243081,
       "rank": 22,
@@ -148,7 +148,7 @@
     },
     {
       "raw_hot": 80083,
-      "num": 1127224,
+      "num": 1130876,
       "word": "何以琛你终于也是将就了",
       "onboard_time": 1764251604,
       "rank": 23,
@@ -187,8 +187,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 71022,
-      "num": 1124301,
+      "raw_hot": 71275,
+      "num": 1126561,
       "word": "成毅又受伤了",
       "onboard_time": 1764238642,
       "rank": 27,
@@ -211,20 +211,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67126,
+      "num": 1150972,
+      "word": "枭起青壤",
+      "onboard_time": 1764261199,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 66287,
       "num": 1121688,
       "word": "香港商讨推进使用金属脚手架",
       "onboard_time": 1764253883,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 64962,
-      "num": 1150972,
-      "word": "枭起青壤",
-      "onboard_time": 1764261199,
-      "rank": 19,
-      "category": "剧集"
     },
     {
       "raw_hot": 64812,
@@ -240,6 +240,22 @@
       "word": "谁把迪丽热巴本体放出来了",
       "onboard_time": 1764254304,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 62747,
+      "num": 1111263,
+      "word": "德国总统称绝不能忘记犯下的罪行",
+      "onboard_time": 1764262039,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 60135,
+      "num": 1118175,
+      "word": "怪奇物语",
+      "onboard_time": 1764226823,
+      "rank": 36,
       "category": "剧集"
     },
     {
@@ -265,14 +281,6 @@
       "onboard_time": 1764243022,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 56493,
-      "num": 1115334,
-      "word": "怪奇物语",
-      "onboard_time": 1764226823,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 55851,
@@ -347,7 +355,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 42197,
+      "raw_hot": 42405,
       "num": 1105688,
       "word": "售货大姨被停职影响铁路形象的是谁",
       "onboard_time": 1764254243,
@@ -361,6 +369,14 @@
       "onboard_time": 1764252383,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35400,
+      "num": 1068149,
+      "word": "刘耀文劝架黄子韬王鹤棣",
+      "onboard_time": 1764245782,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 27564,
@@ -387,19 +403,19 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 10012,
+      "num": 2201227,
+      "word": "行走大美中国",
+      "onboard_time": 1764261499,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7042,
       "num": 1586603,
       "word": "9图读懂未来消费新风口",
       "onboard_time": 1764236782,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6699,
-      "num": 2201227,
-      "word": "行走大美中国",
-      "onboard_time": 1764261499,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],
