@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 10:19:40
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 11:18:32
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@ Uzi 拿奖杯（热度：1474589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%A8%81%E5%A6%BB%E5%AD%90%E7%A7%B0%E7%9B%AE%E7%9D%B9%E6%AD%BB%E8%80%85%E5%8F%97%E8%99%90%E5%85%A8%E7%A8%8B%23" target="weibo">
+李威妻子称目睹死者受虐全程（热度：1367807）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BF%97%E9%91%AB%E7%9B%B4%E6%92%AD%23" target="weibo">
 朱志鑫直播（热度：1364276）
 </a>
@@ -1157,6 +1163,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E6%8E%A5%E5%8F%97%E6%97%A5%E6%96%B9%E6%8F%90%E5%87%BA%E7%9A%84%E6%97%A0%E7%90%86%E4%BA%A4%E6%B6%89%23" target="weibo">
 中方不接受日方提出的无理交涉（热度：1271154）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E5%9F%BA%E6%9C%AC%E6%8E%A7%E5%88%B6%23" target="weibo">
+香港大埔火灾已基本控制（热度：1264857）
 </a>
 </li>
 
@@ -1611,6 +1623,12 @@ CPA成绩（热度：1140911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B8%AF%E8%BF%AA%E5%8F%96%E6%B6%88%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E9%A6%96%E6%98%A0%E7%A4%BC%23" target="weibo">
+港迪取消疯狂动物城2首映礼（热度：1104758）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%A2%E8%8F%B2%E7%96%91%E4%BC%BC%E8%BF%9D%E5%8F%8D%E4%BA%A4%E8%A7%84%23" target="weibo">
 邢菲疑似违反交规（热度：1104651）
 </a>
@@ -1691,6 +1709,12 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%9A%84%E6%88%98%E4%BA%89%E5%87%86%E5%A4%87%E6%AD%A3%E5%85%A8%E9%9D%A2%E9%93%BA%E5%BC%80%23" target="weibo">
 日本的战争准备正全面铺开（热度：1067446）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE3%E5%BA%A7%E5%A4%A7%E5%8E%A6%E7%81%AB%E5%8A%BF%E4%BB%8D%E5%9C%A8%E6%89%91%E7%81%AD%E4%B8%AD%23" target="weibo">
+香港火灾3座大厦火势仍在扑灭中（热度：1065612）
 </a>
 </li>
 
@@ -2675,6 +2699,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2320%E5%B2%81%E7%94%B7%E7%94%9F%E8%82%BA%E8%A2%AB%E5%95%83%E5%87%BA10%E5%A4%9A%E4%B8%AA%E7%A9%BA%E6%B4%9E%23" target="weibo">
 20岁男生肺被啃出10多个空洞（热度：840888）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85%23" target="weibo">
+特朗普施压高市别在台湾问题上挑衅（热度：839699）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E5%8D%95%E6%96%B9%E9%9D%A2%E5%85%8D%E7%AD%BE%E4%B8%8D%E5%AD%98%E5%9C%A8%E5%90%83%E4%BA%8F%23" target="weibo">
 中国单方面免签不存在吃亏（热度：544357）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E7%82%B9%E8%B5%9E%23" target="weibo">
-孙颖莎点赞（热度：543532）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E4%BA%AC%E4%B8%8B%E9%9B%AA%23" target="weibo">
-南京下雪（热度：541767）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23Mate80ProMAX%23" target="weibo">
-Mate80ProMAX（热度：541396）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E5%AD%99%E9%97%BB%23" target="weibo">
-樊振东vs孙闻（热度：541307）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E4%B9%90%E8%A8%80%E6%9D%A5%E4%BA%86%E4%B9%9F%E5%88%86%E4%B8%8D%E6%B8%85%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%86%AF%E7%A8%8B%E6%9C%97%23" target="weibo">
-孙乐言来了也分不清奥斯卡冯程朗（热度：540860）
 </a>
 </li>
 
