@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764248162412,
+  "endTime": 1764249017974,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -283,20 +283,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 562089,
+      "num": 1872440,
+      "word": "疯狂动物城",
+      "onboard_time": 1764229762,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 559171,
       "num": 1825415,
       "word": "胖东来羽绒服进价430卖价597",
       "onboard_time": 1764242302,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 546319,
-      "num": 1872440,
-      "word": "疯狂动物城",
-      "onboard_time": 1764229762,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 545142,
@@ -523,6 +523,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 396942,
+      "num": 1821086,
+      "word": "俄方称要警告日本",
+      "onboard_time": 1764243081,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 390491,
       "num": 1806999,
       "word": "成毅又受伤了",
@@ -603,14 +611,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 365428,
-      "num": 1821086,
-      "word": "俄方称要警告日本",
-      "onboard_time": 1764243081,
-      "rank": 34,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 363321,
       "num": 1819143,
       "word": "逍遥散人掉粉",
@@ -641,6 +641,14 @@
       "onboard_time": 1764212601,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 350779,
+      "num": 1815234,
+      "word": "刘晓庆刘嘉玲锐评TF三代",
+      "onboard_time": 1764245782,
+      "rank": 12,
+      "category": "综艺"
     },
     {
       "raw_hot": 349886,
@@ -697,14 +705,6 @@
       "onboard_time": 1764209602,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 330463,
-      "num": 1815234,
-      "word": "刘晓庆刘嘉玲锐评TF三代",
-      "onboard_time": 1764245782,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 325686,
@@ -803,6 +803,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 281579,
+      "num": 1848860,
+      "word": "官方回应蜜雪冰城要卖早餐",
+      "onboard_time": 1764241223,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 279602,
       "num": 215593,
       "word": "花海晒时团短片花絮",
@@ -835,12 +843,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 268392,
-      "num": 1848860,
-      "word": "官方回应蜜雪冰城要卖早餐",
-      "onboard_time": 1764241223,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 261460,
+      "num": 1107550,
+      "word": "原来人是可以突然间失去所有的",
+      "onboard_time": 1764248962,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 259851,
@@ -1339,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 174766,
+      "num": 1771192,
+      "word": "艾米 把头发梳成大人模样",
+      "onboard_time": 1764243022,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169076,
       "num": 830154,
       "word": "国色芳华",
@@ -1465,6 +1481,14 @@
       "onboard_time": 1764214283,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160281,
+      "num": 1108318,
+      "word": "Crisp回应Uzi复出传言",
+      "onboard_time": 1764248843,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 159560,
@@ -1611,6 +1635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 146316,
+      "num": 1741259,
+      "word": "刘耀文劝架黄子韬王鹤棣",
+      "onboard_time": 1764245782,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 145704,
       "num": 436964,
       "word": "鞠婧祎来战杀青",
@@ -1723,14 +1755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138285,
-      "num": 1771192,
-      "word": "艾米 把头发梳成大人模样",
-      "onboard_time": 1764243022,
-      "rank": 39,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 138049,
       "num": 981614,
       "word": "三只松鼠鼠名被曝扩展至党建领域",
@@ -1755,20 +1779,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 135137,
+      "num": 1705963,
+      "word": "昆明铁路事故25岁伤者还在抢救",
+      "onboard_time": 1764247762,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133910,
       "num": 133910,
       "word": "第一次对猫的智商有了认知",
       "onboard_time": 1764213624,
       "rank": 47,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133611,
-      "num": 1741259,
-      "word": "刘耀文劝架黄子韬王鹤棣",
-      "onboard_time": 1764245782,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 133454,
@@ -1931,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 119261,
+      "num": 1104876,
+      "word": "香港火灾已致65人遇难",
+      "onboard_time": 1764197538,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 118754,
       "num": 224032,
       "word": "碧血蝉开机",
@@ -1995,12 +2027,36 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 116442,
+      "num": 1667205,
+      "word": "铁路通报绵阳2人被列车碰撞身亡",
+      "onboard_time": 1764247402,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 114983,
+      "num": 1104547,
+      "word": "葛荟婕回应大女儿小苹果恋爱",
+      "onboard_time": 1764248363,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114872,
       "num": 215852,
       "word": "大生意人 闯关东",
       "onboard_time": 1764226043,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 114838,
+      "num": 1716940,
+      "word": "用400块成本摆摊一天赚900",
+      "onboard_time": 1764243263,
+      "rank": 42,
+      "category": "美食"
     },
     {
       "raw_hot": 114463,
@@ -2089,14 +2145,6 @@
       "onboard_time": 1764206784,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 106847,
-      "num": 1716940,
-      "word": "用400块成本摆摊一天赚900",
-      "onboard_time": 1764243263,
-      "rank": 42,
-      "category": "美食"
     },
     {
       "raw_hot": 106592,
@@ -2275,14 +2323,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 94506,
-      "num": 1705963,
-      "word": "昆明铁路事故25岁伤者还在抢救",
-      "onboard_time": 1764247762,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 94254,
       "num": 134759,
       "word": "陈清晨当教练了",
@@ -2313,6 +2353,14 @@
       "onboard_time": 1764240142,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 90383,
+      "num": 1103902,
+      "word": "离职了才敢发出来",
+      "onboard_time": 1764248843,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 90067,
@@ -2435,6 +2483,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 84188,
+      "num": 1103451,
+      "word": "庆祝倒霉死勒第一次发vlog",
+      "onboard_time": 1764248604,
+      "rank": 37,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 84036,
       "num": 358579,
       "word": "轮到你上场时会有提词器的",
@@ -2523,14 +2579,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 77489,
-      "num": 1667205,
-      "word": "铁路通报绵阳2人被列车碰撞身亡",
-      "onboard_time": 1764247402,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76469,
       "num": 118246,
       "word": "严浩翔不理解但照做",
@@ -2571,7 +2619,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71389,
+      "raw_hot": 71470,
       "num": 1620206,
       "word": "多家厂商将110标注为匪警",
       "onboard_time": 1764245782,
@@ -2635,6 +2683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 68308,
+      "num": 1102149,
+      "word": "再过五年00后就30了",
+      "onboard_time": 1764246262,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68035,
       "num": 482620,
       "word": "芒果史冠",
@@ -2657,6 +2713,22 @@
       "onboard_time": 1764194115,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 65275,
+      "num": 1101869,
+      "word": "秦岚新剧被去母留子",
+      "onboard_time": 1764248782,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 65211,
+      "num": 1101686,
+      "word": "孙菲菲前夫质疑99.99%结论的亲子证明",
+      "onboard_time": 1764243922,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 64516,
@@ -2721,6 +2793,14 @@
       "onboard_time": 1764246743,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 54758,
+      "num": 1101547,
+      "word": "王一博微博状态探索中",
+      "onboard_time": 1764248782,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 51692,
@@ -2915,6 +2995,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 31213,
+      "num": 1103418,
+      "word": "列车售货大姨与主播互动被辞退",
+      "onboard_time": 1764248903,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31204,
       "num": 1095065,
       "word": "水稻高产或将不用猛猛施肥",
@@ -2987,6 +3075,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20195,
+      "num": 1646588,
+      "word": "羽绒服涨价怪猪肉吗",
+      "onboard_time": 1764247643,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19219,
       "num": 248200,
       "word": "点开丁真的田野坐标",
@@ -2995,12 +3091,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 13456,
-      "num": 1646588,
-      "word": "羽绒服涨价怪猪肉吗",
-      "onboard_time": 1764247643,
+      "raw_hot": 18562,
+      "num": 1103112,
+      "word": "越南外交部重申支持一个中国原则",
+      "onboard_time": 1764248843,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 13295,
