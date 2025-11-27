@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764208671939,
+  "endTime": 1764209980609,
   "band_list": [
     {
       "raw_hot": 9847423,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1746247,
-      "num": 401341,
+      "num": 1496099,
       "word": "结婚前一天新郎新娘先后坠亡",
       "onboard_time": 1764203964,
       "rank": 10,
@@ -35,7 +35,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 1128728,
+      "raw_hot": 1218669,
       "num": 357980,
       "word": "深圳消防",
       "onboard_time": 1764205763,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 843198,
-      "num": 843198,
+      "num": 3340446,
       "word": "多名旅日中国公民遭殴打受伤",
       "onboard_time": 1764196097,
       "rank": 6,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 735318,
-      "num": 492155,
+      "num": 2816660,
       "word": "香港警方以涉嫌误杀罪拘捕3人",
       "onboard_time": 1764200842,
       "rank": 4,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 626452,
-      "num": 380916,
+      "num": 574654,
       "word": "免费短剧靠什么赚钱",
       "onboard_time": 1764202644,
       "rank": 12,
@@ -100,9 +100,17 @@
     },
     {
       "raw_hot": 519099,
-      "num": 369419,
+      "num": 409667,
       "word": "Angelababy出席广电培训",
       "onboard_time": 1764207083,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 510935,
+      "num": 510935,
+      "word": "李威妻子称目睹死者受虐全程",
+      "onboard_time": 1764209182,
       "rank": 13,
       "category": "艺人"
     },
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 493700,
-      "num": 493700,
+      "num": 4132342,
       "word": "疯狂动物城2 哭得稀里哗啦",
       "onboard_time": 1764204145,
       "rank": 3,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 469079,
+      "num": 3557630,
+      "word": "日本商家不断收到中国游客取消通知",
+      "onboard_time": 1764205884,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 460153,
       "num": 894468,
       "word": "香港已出动超1000人灭火",
@@ -147,16 +163,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 437808,
-      "num": 437808,
-      "word": "日本商家不断收到中国游客取消通知",
-      "onboard_time": 1764205884,
-      "rank": 6,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 429149,
-      "num": 429149,
+      "num": 2433775,
       "word": "怪奇物语5上线",
       "onboard_time": 1764204983,
       "rank": 7,
@@ -171,11 +179,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 369303,
+      "num": 369303,
+      "word": "香港大埔火灾已基本控制",
+      "onboard_time": 1764208223,
+      "rank": 15,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 366181,
       "num": 366181,
       "word": "站姐涅槃 庞氏骗局",
       "onboard_time": 1764202824,
       "rank": 14,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362029,
+      "num": 362029,
+      "word": "四大天王只剩黎明还不能领老年卡",
+      "onboard_time": 1764207741,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -195,8 +219,16 @@
       "category": "艺人,突发/灾害"
     },
     {
+      "raw_hot": 326713,
+      "num": 326713,
+      "word": "疯狂动物城2中配反馈",
+      "onboard_time": 1764208463,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 325686,
-      "num": 223953,
+      "num": 272504,
       "word": "姚明邓亚萍合照诡异的像AI",
       "onboard_time": 1764206544,
       "rank": 30,
@@ -217,14 +249,6 @@
       "onboard_time": 1764160703,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 297206,
-      "num": 297206,
-      "word": "四大天王只剩黎明还不能领老年卡",
-      "onboard_time": 1764207741,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 294476,
@@ -273,6 +297,14 @@
       "onboard_time": 1764168445,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 253732,
+      "num": 253732,
+      "word": "加工72只虾上桌只剩61只",
+      "onboard_time": 1764209602,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 247816,
@@ -411,8 +443,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 176765,
-      "num": 176765,
+      "raw_hot": 180536,
+      "num": 209228,
+      "word": "碧血蝉",
+      "onboard_time": 1764208704,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 179907,
+      "num": 179907,
       "word": "居民曾多次发现工人在竹棚架吸烟",
       "onboard_time": 1764206962,
       "rank": 37,
@@ -460,11 +500,19 @@
     },
     {
       "raw_hot": 158832,
-      "num": 426170,
+      "num": 2164892,
       "word": "第五人格开门",
       "onboard_time": 1764206722,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 155468,
+      "num": 155468,
+      "word": "香港火灾3座大厦火势仍在扑灭中",
+      "onboard_time": 1764209121,
+      "rank": 41,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 153129,
@@ -476,11 +524,27 @@
     },
     {
       "raw_hot": 151301,
-      "num": 2459134,
+      "num": 4650263,
       "word": "姆巴佩独中四元",
       "onboard_time": 1764201143,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 150758,
+      "num": 150758,
+      "word": "香港火灾涉事嫌疑人被捕现场",
+      "onboard_time": 1764209061,
+      "rank": 42,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 145224,
+      "num": 145224,
+      "word": "成都大雾",
+      "onboard_time": 1764206424,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 140762,
@@ -523,6 +587,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 132974,
+      "num": 132974,
+      "word": "费翔配音 听不清",
+      "onboard_time": 1764209962,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 130863,
+      "num": 130863,
+      "word": "35岁男子熬夜打游戏瞬间失明",
+      "onboard_time": 1764209962,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118754,
       "num": 224032,
       "word": "碧血蝉开机",
@@ -537,14 +617,6 @@
       "onboard_time": 1764164425,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115200,
-      "num": 195525,
-      "word": "疯狂动物城2中配反馈",
-      "onboard_time": 1764208463,
-      "rank": 34,
-      "category": "电影"
     },
     {
       "raw_hot": 114463,
@@ -617,14 +689,6 @@
       "onboard_time": 1764161124,
       "rank": 29,
       "category": "电影"
-    },
-    {
-      "raw_hot": 100791,
-      "num": 100791,
-      "word": "成都大雾",
-      "onboard_time": 1764206424,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97305,
@@ -700,11 +764,19 @@
     },
     {
       "raw_hot": 81095,
-      "num": 1177088,
+      "num": 4417024,
       "word": "千亩辣椒免费摘系谣言",
       "onboard_time": 1764203845,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79317,
+      "num": 292126,
+      "word": "香港火灾现场仍有浓烟冒出",
+      "onboard_time": 1764208881,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 78784,
@@ -739,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69334,
+      "num": 163281,
+      "word": "香港火灾45名获救者伤情严重",
+      "onboard_time": 1764208881,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 68035,
       "num": 482620,
       "word": "芒果史冠",
@@ -761,6 +841,22 @@
       "onboard_time": 1764194115,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 64516,
+      "num": 1770627,
+      "word": "巴黎圣日耳曼5比3热刺",
+      "onboard_time": 1764209661,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 63101,
+      "num": 207967,
+      "word": "凯尔特人战胜活塞",
+      "onboard_time": 1764209481,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 60639,
@@ -825,6 +921,14 @@
       "onboard_time": 1764177498,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 32852,
+      "num": 162721,
+      "word": "偷排危废获死刑主犯检举多人轮奸案",
+      "onboard_time": 1764209842,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32553,
