@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764233433666,
+  "endTime": 1764235888843,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -99,6 +99,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 1190804,
+      "num": 963070,
+      "word": "大熊猫高高去世",
+      "onboard_time": 1764233123,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1142584,
       "num": 375900,
       "word": "香港火灾3座大厦火势仍在扑灭中",
@@ -161,6 +169,14 @@
       "onboard_time": 1764167726,
       "rank": 4,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 739683,
+      "num": 429670,
+      "word": "婚后出轨同居不一定算重婚",
+      "onboard_time": 1764232582,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 735318,
@@ -379,6 +395,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 408205,
+      "num": 408205,
+      "word": "女教师拒绝与男友发生性关系遭杀害",
+      "onboard_time": 1764234144,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 404858,
       "num": 1976920,
       "word": "高市早苗老家旅游业面临崩溃",
@@ -459,6 +483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 371708,
+      "num": 371708,
+      "word": "秦昊害怕恩利给伊能静告状",
+      "onboard_time": 1764233364,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 369269,
       "num": 369269,
       "word": "官方通报新郎新娘先后坠亡",
@@ -505,14 +537,6 @@
       "onboard_time": 1764212601,
       "rank": 23,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 351918,
-      "num": 963070,
-      "word": "大熊猫高高去世",
-      "onboard_time": 1764233123,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 349886,
@@ -593,6 +617,14 @@
       "onboard_time": 1764226704,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 308932,
+      "num": 308932,
+      "word": "乌干达98%亲子鉴定非亲生",
+      "onboard_time": 1764234321,
+      "rank": 14,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 306084,
@@ -699,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 258186,
+      "num": 427056,
+      "word": "穿袜子睡觉对身体到底好不好",
+      "onboard_time": 1764232582,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 254980,
       "num": 254980,
       "word": "昆明火车站通报",
@@ -737,6 +777,14 @@
       "onboard_time": 1764205163,
       "rank": 24,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 242073,
+      "num": 242073,
+      "word": "演员孙菲菲离婚4次才成功",
+      "onboard_time": 1764235164,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 239567,
@@ -851,6 +899,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218443,
+      "num": 196570,
+      "word": "美国人在中国买早餐视频爆火",
+      "onboard_time": 1764234925,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 212442,
+      "num": 634638,
+      "word": "疯狂动物城",
+      "onboard_time": 1764229762,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 211664,
       "num": 1788346,
       "word": "碰撞事故致11死铁路部门将问责",
@@ -915,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 198585,
+      "num": 198585,
+      "word": "何美延希望来生还和梁淞在一起",
+      "onboard_time": 1764234321,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 198139,
       "num": 4481353,
       "word": "鸿蒙智行称已充分收集证据",
@@ -969,6 +1041,14 @@
       "onboard_time": 1764224784,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 191802,
+      "num": 408704,
+      "word": "HLE官宣homme加入",
+      "onboard_time": 1764234743,
+      "rank": 8,
+      "category": "电竞"
     },
     {
       "raw_hot": 191630,
@@ -1171,6 +1251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164714,
+      "num": 197016,
+      "word": "樊振东创下上海乒乓两项纪录",
+      "onboard_time": 1764235704,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 163053,
       "num": 164833,
       "word": "女子花500块买下将被吃掉的边牧",
@@ -1249,14 +1337,6 @@
       "onboard_time": 1764227843,
       "rank": 33,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 156554,
-      "num": 436664,
-      "word": "疯狂动物城",
-      "onboard_time": 1764229762,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 154599,
@@ -1379,14 +1459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142758,
-      "num": 359276,
-      "word": "秦昊害怕恩利给伊能静告状",
-      "onboard_time": 1764233364,
-      "rank": 30,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142563,
       "num": 164459,
       "word": "她这一天是小说都不敢写的程度",
@@ -1417,6 +1489,14 @@
       "onboard_time": 1764168568,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 139384,
+      "num": 196748,
+      "word": "女子称被鲨鱼咬伤向朋友炫耀伤口",
+      "onboard_time": 1764233963,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138345,
@@ -1531,6 +1611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 122897,
+      "num": 196233,
+      "word": "papi精准说出梁淞何美延为啥天天吵架",
+      "onboard_time": 1764235704,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122855,
       "num": 433840,
       "word": "速通大生意人前6集",
@@ -1553,6 +1641,14 @@
       "onboard_time": 1764219866,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119411,
+      "num": 196093,
+      "word": "当告诉朋友们我怀孕了",
+      "onboard_time": 1764234983,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 118754,
@@ -1641,6 +1737,14 @@
       "onboard_time": 1764167905,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110479,
+      "num": 195408,
+      "word": "上班内耗",
+      "onboard_time": 1764235344,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 110467,
@@ -1747,12 +1851,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 104289,
-      "num": 427056,
-      "word": "穿袜子睡觉对身体到底好不好",
-      "onboard_time": 1764232582,
+      "raw_hot": 104207,
+      "num": 195243,
+      "word": "爱笔去世考研暂停",
+      "onboard_time": 1764235284,
       "rank": 43,
-      "category": "健康医疗"
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 103217,
+      "num": 195840,
+      "word": "中方绝不接受日方自说自话",
+      "onboard_time": 1764234083,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 102870,
@@ -1769,6 +1881,22 @@
       "onboard_time": 1764161124,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 101366,
+      "num": 195127,
+      "word": "胡先煦王安宇听见导游ptsd了",
+      "onboard_time": 1764234983,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99497,
+      "num": 194825,
+      "word": "主动离职 被迫离职",
+      "onboard_time": 1764234803,
+      "rank": 47,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 99227,
@@ -1795,6 +1923,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 96057,
+      "num": 194663,
+      "word": "程晓玥回应孕期怕老公出轨吗",
+      "onboard_time": 1764235823,
+      "rank": 49,
+      "category": "网红"
+    },
+    {
       "raw_hot": 95784,
       "num": 212675,
       "word": "偶然翻开去世同学的留言板",
@@ -1808,6 +1944,14 @@
       "word": "五月龄离世女婴由法医刘良尸检",
       "onboard_time": 1764161185,
       "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93636,
+      "num": 195767,
+      "word": "28岁女孩面部长巨瘤决定不婚不育",
+      "onboard_time": 1764235344,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2011,6 +2155,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 70082,
+      "num": 196448,
+      "word": "一职校学生被曝网购表演服用完就退",
+      "onboard_time": 1764234023,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69683,
+      "num": 194909,
+      "word": "是胡也是霍 遇霍不用躲",
+      "onboard_time": 1764234263,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 69334,
       "num": 163281,
       "word": "香港火灾45名获救者伤情严重",
@@ -2195,14 +2355,6 @@
       "category": "艺人,数码"
     },
     {
-      "raw_hot": 44628,
-      "num": 429670,
-      "word": "婚后出轨同居不一定算重婚",
-      "onboard_time": 1764232582,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 44017,
       "num": 391279,
       "word": "枭起青壤",
@@ -2217,6 +2369,14 @@
       "onboard_time": 1764227903,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42510,
+      "num": 262501,
+      "word": "美加净广告语被疑暗示女性做家务",
+      "onboard_time": 1764235224,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41947,
@@ -2241,6 +2401,14 @@
       "onboard_time": 1764162325,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 39346,
+      "num": 195708,
+      "word": "张若昀王传君陈道明未到场",
+      "onboard_time": 1764235523,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 37491,

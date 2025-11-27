@@ -1,0 +1,410 @@
+{
+  "runTime": 1764235888843,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2233176,
+        "num": 2233176,
+        "word": "香港起火大楼内发现生还者",
+        "onboard_time": 1764225684,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113514,
+        "num": 1174643,
+        "word": "库里状态",
+        "onboard_time": 1764224784,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7184,
+        "num": 817984,
+        "word": "总要去看看今年的冰天雪地吧",
+        "onboard_time": 1764129624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212442,
+        "num": 634638,
+        "word": "疯狂动物城",
+        "onboard_time": 1764229762,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 585580,
+        "num": 585580,
+        "word": "香港火灾已有55人遇难",
+        "onboard_time": 1764197538,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1190804,
+        "num": 561484,
+        "word": "大熊猫高高去世",
+        "onboard_time": 1764233123,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 494761,
+        "num": 494761,
+        "word": "高市再发涉台谬论",
+        "onboard_time": 1764221003,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 424098,
+        "num": 424098,
+        "word": "香港起火大楼已无大面积明火",
+        "onboard_time": 1764209121,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 191802,
+        "num": 408704,
+        "word": "HLE官宣homme加入",
+        "onboard_time": 1764234743,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159892,
+        "num": 408364,
+        "word": "Ming回应Uzi去iG",
+        "onboard_time": 1764224904,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 739683,
+        "num": 408308,
+        "word": "婚后出轨同居不一定算重婚",
+        "onboard_time": 1764232582,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 408205,
+        "num": 408205,
+        "word": "女教师拒绝与男友发生性关系遭杀害",
+        "onboard_time": 1764234144,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 371708,
+        "num": 371708,
+        "word": "秦昊害怕恩利给伊能静告状",
+        "onboard_time": 1764233364,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314576,
+        "num": 314576,
+        "word": "肖战张婧仪澳门活动同框",
+        "onboard_time": 1764230062,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308932,
+        "num": 308932,
+        "word": "乌干达98%亲子鉴定非亲生",
+        "onboard_time": 1764234321,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25157,
+        "num": 279773,
+        "word": "开源鸿蒙正将智慧写入千行百业",
+        "onboard_time": 1764231203,
+        "rank": 15,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 269226,
+        "num": 269226,
+        "word": "逍遥散人掉粉",
+        "onboard_time": 1764221064,
+        "rank": 16,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 209735,
+        "num": 266807,
+        "word": "医院证实仅送新娘抢救2小时",
+        "onboard_time": 1764227603,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150434,
+        "num": 266264,
+        "word": "千里江山图开机",
+        "onboard_time": 1764226704,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42510,
+        "num": 262501,
+        "word": "美加净广告语被疑暗示女性做家务",
+        "onboard_time": 1764235224,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321136,
+        "num": 259468,
+        "word": "李纯 女主运",
+        "onboard_time": 1764226224,
+        "rank": 20,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 258186,
+        "num": 258186,
+        "word": "穿袜子睡觉对身体到底好不好",
+        "onboard_time": 1764232582,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 242073,
+        "num": 242073,
+        "word": "演员孙菲菲离婚4次才成功",
+        "onboard_time": 1764235164,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223161,
+        "num": 223161,
+        "word": "杜江嗯哼陪霍思燕医院就诊",
+        "onboard_time": 1764231324,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198585,
+        "num": 198585,
+        "word": "何美延希望来生还和梁淞在一起",
+        "onboard_time": 1764234321,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197079,
+        "num": 197079,
+        "word": "新郎新娘坠亡事件疑为酒后失足",
+        "onboard_time": 1764227843,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164714,
+        "num": 197016,
+        "word": "樊振东创下上海乒乓两项纪录",
+        "onboard_time": 1764235704,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160986,
+        "num": 196905,
+        "word": "怪奇物语",
+        "onboard_time": 1764226823,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139110,
+        "num": 196816,
+        "word": "外交部批高市早苗错上加错",
+        "onboard_time": 1764231981,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139384,
+        "num": 196748,
+        "word": "女子称被鲨鱼咬伤向朋友炫耀伤口",
+        "onboard_time": 1764233963,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 218443,
+        "num": 196570,
+        "word": "美国人在中国买早餐视频爆火",
+        "onboard_time": 1764234925,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136390,
+        "num": 196547,
+        "word": "肖战澳门",
+        "onboard_time": 1764221123,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70082,
+        "num": 196448,
+        "word": "一职校学生被曝网购表演服用完就退",
+        "onboard_time": 1764234023,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123513,
+        "num": 196259,
+        "word": "高三了极个别班主任还出去玩水",
+        "onboard_time": 1764231743,
+        "rank": 33,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 122897,
+        "num": 196233,
+        "word": "papi精准说出梁淞何美延为啥天天吵架",
+        "onboard_time": 1764235704,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119411,
+        "num": 196093,
+        "word": "当告诉朋友们我怀孕了",
+        "onboard_time": 1764234983,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119276,
+        "num": 195997,
+        "word": "把刘宇宁拍成一米三了",
+        "onboard_time": 1764226943,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103217,
+        "num": 195840,
+        "word": "中方绝不接受日方自说自话",
+        "onboard_time": 1764234083,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 93636,
+        "num": 195767,
+        "word": "28岁女孩面部长巨瘤决定不婚不育",
+        "onboard_time": 1764235344,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39346,
+        "num": 195708,
+        "word": "张若昀王传君陈道明未到场",
+        "onboard_time": 1764235523,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118791,
+        "num": 195598,
+        "word": "亡妻在游戏中的房子没了男子求助",
+        "onboard_time": 1764226823,
+        "rank": 40,
+        "category": "民生新闻,游戏"
+      },
+      {
+        "raw_hot": 112792,
+        "num": 195512,
+        "word": "嫁给北京孩子的是李纯吗",
+        "onboard_time": 1764230723,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110479,
+        "num": 195408,
+        "word": "上班内耗",
+        "onboard_time": 1764235344,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104207,
+        "num": 195243,
+        "word": "爱笔去世考研暂停",
+        "onboard_time": 1764235284,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 101366,
+        "num": 195127,
+        "word": "胡先煦王安宇听见导游ptsd了",
+        "onboard_time": 1764234983,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99895,
+        "num": 195089,
+        "word": "香港大埔火灾救援现场直击",
+        "onboard_time": 1764225863,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 69683,
+        "num": 194909,
+        "word": "是胡也是霍 遇霍不用躲",
+        "onboard_time": 1764234263,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99497,
+        "num": 194825,
+        "word": "主动离职 被迫离职",
+        "onboard_time": 1764234803,
+        "rank": 47,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 79857,
+        "num": 194772,
+        "word": "喝酒脸红的人更易患两种癌",
+        "onboard_time": 1764223885,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96057,
+        "num": 194663,
+        "word": "程晓玥回应孕期怕老公出轨吗",
+        "onboard_time": 1764235823,
+        "rank": 49,
+        "category": "网红"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}
