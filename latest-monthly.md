@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 15:41:55
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/27 16:37:23
 </p>
 </blockquote>
 <p>
@@ -2651,6 +2651,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E5%B7%9E%E4%BA%A4%E8%AD%A6%E8%87%B4%E6%AD%89%23" target="weibo">
 苏州交警致歉（热度：854064）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%83%8E%E6%96%B0%E5%A8%98%E5%9D%A0%E4%BA%A1%E4%BA%8B%E4%BB%B6%E7%96%91%E4%B8%BA%E9%85%92%E5%90%8E%E5%A4%B1%E8%B6%B3%23" target="weibo">
+新郎新娘坠亡事件疑为酒后失足（热度：853385）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%9C%8B%E5%8F%8B%E7%9A%84%E5%85%AC%E7%A7%AF%E9%87%91%E4%BD%99%E9%A2%9D%E9%9C%87%E6%83%8A%E5%88%B0%E4%BA%86%23" target="weibo">
 被朋友的公积金余额震惊到了（热度：547003）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B8%9D%E7%8E%8B%E8%9F%B9%E4%B8%8D%E5%BA%94%E8%BF%9B%E5%85%A5%E5%AD%A6%E6%A0%A1%E9%A3%9F%E5%A0%82%23" target="weibo">
-帝王蟹不应进入学校食堂（热度：546802）
 </a>
 </li>
 
