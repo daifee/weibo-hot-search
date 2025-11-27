@@ -1,0 +1,410 @@
+{
+  "runTime": 1764286751618,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1537744,
+        "num": 1537744,
+        "word": "香港火灾已有75人遇难",
+        "onboard_time": 1764255204,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95001,
+        "num": 1513041,
+        "word": "河内公安vs北京国安",
+        "onboard_time": 1764256883,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16092,
+        "num": 1418406,
+        "word": "行走大美中国",
+        "onboard_time": 1764261499,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258980,
+        "num": 1332836,
+        "word": "何以琛你终于也是将就了",
+        "onboard_time": 1764251604,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 572366,
+        "num": 1224361,
+        "word": "香港大火已完成灭火程序",
+        "onboard_time": 1764286159,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 271242,
+        "num": 1113574,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208578,
+        "num": 1029685,
+        "word": "网友吐槽国产剧女主带妆起床",
+        "onboard_time": 1764254122,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163962,
+        "num": 891193,
+        "word": "蜜雪冰城早餐仅在部分城市试点",
+        "onboard_time": 1764254243,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68639,
+        "num": 839857,
+        "word": "Crisp回应Uzi复出传言",
+        "onboard_time": 1764248843,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 24694,
+        "num": 716572,
+        "word": "北京国安亚冠出局",
+        "onboard_time": 1764254424,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 689228,
+        "num": 689228,
+        "word": "高市早苗再发谬论给自己壮胆",
+        "onboard_time": 1764285379,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310654,
+        "num": 688986,
+        "word": "滇二娃致歉",
+        "onboard_time": 1764260840,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245821,
+        "num": 688304,
+        "word": "香港起火大楼内发现生还者",
+        "onboard_time": 1764225684,
+        "rank": 12,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 191300,
+        "num": 687308,
+        "word": "胖东来羽绒服进价430卖价597",
+        "onboard_time": 1764242302,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139882,
+        "num": 686074,
+        "word": "售货大姨被停职影响铁路形象的是谁",
+        "onboard_time": 1764254243,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131975,
+        "num": 685679,
+        "word": "香港向每户灾民发1万港元补助",
+        "onboard_time": 1764241284,
+        "rank": 15,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 122415,
+        "num": 684338,
+        "word": "十年前网购的商品今年到货",
+        "onboard_time": 1764285798,
+        "rank": 16,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 119931,
+        "num": 683842,
+        "word": "香港7栋大厦火势全部受控",
+        "onboard_time": 1764240922,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104352,
+        "num": 682550,
+        "word": "被困柬埔寨怀孕女子已脱身并产子",
+        "onboard_time": 1764240623,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 86598,
+        "num": 682213,
+        "word": "全网唯一一个看着不讨厌的猴子",
+        "onboard_time": 1764249863,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 1186788,
+        "num": 681092,
+        "word": "郭碧婷女儿被孤立",
+        "onboard_time": 1764256943,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100097,
+        "num": 680230,
+        "word": "穿袜子睡觉入睡时间缩短7.5分钟",
+        "onboard_time": 1764285798,
+        "rank": 21,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 83074,
+        "num": 679408,
+        "word": "社区小诊所被曝建密室",
+        "onboard_time": 1764285438,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77851,
+        "num": 678727,
+        "word": "德国总统称绝不能忘记犯下的罪行",
+        "onboard_time": 1764262039,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 72815,
+        "num": 677919,
+        "word": "乌干达98%亲子鉴定非亲生",
+        "onboard_time": 1764234321,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 68266,
+        "num": 677456,
+        "word": "秦岚回应豪门婆婆50W梗",
+        "onboard_time": 1764258262,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58322,
+        "num": 676005,
+        "word": "俄方称要警告日本",
+        "onboard_time": 1764243081,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 57751,
+        "num": 675330,
+        "word": "艾米 把头发梳成大人模样",
+        "onboard_time": 1764243022,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 56699,
+        "num": 674616,
+        "word": "四川婚假由5日延到20日",
+        "onboard_time": 1764256883,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55053,
+        "num": 673606,
+        "word": "葛荟婕回应大女儿小苹果恋爱",
+        "onboard_time": 1764248363,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79758,
+        "num": 672677,
+        "word": "原来捡秋美甲是从地上捡一片叶子",
+        "onboard_time": 1764285619,
+        "rank": 30,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 58037,
+        "num": 672139,
+        "word": "香港大埔火灾已致83人遇难",
+        "onboard_time": 1764286520,
+        "rank": 31,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 53920,
+        "num": 671569,
+        "word": "公司被曝拍员工如厕照并记录时间",
+        "onboard_time": 1764259040,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52990,
+        "num": 670267,
+        "word": "香港大埔火灾救援中的爱心接力",
+        "onboard_time": 1764263476,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51143,
+        "num": 669953,
+        "word": "不让江山 杨洋",
+        "onboard_time": 1764251484,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49176,
+        "num": 668825,
+        "word": "刘晓庆刘嘉玲锐评TF三代",
+        "onboard_time": 1764245782,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49152,
+        "num": 668183,
+        "word": "谁把迪丽热巴本体放出来了",
+        "onboard_time": 1764254304,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47392,
+        "num": 666826,
+        "word": "逍遥散人直播",
+        "onboard_time": 1764245243,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 46329,
+        "num": 666051,
+        "word": "香港商讨推进使用金属脚手架",
+        "onboard_time": 1764253883,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40340,
+        "num": 664994,
+        "word": "1集狠人2集主人3集我的夫人",
+        "onboard_time": 1764286099,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 39566,
+        "num": 664190,
+        "word": "郑乃馨与男友互相取关",
+        "onboard_time": 1764244583,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38599,
+        "num": 663393,
+        "word": "陈晓曾为了减肥狂喝咖啡",
+        "onboard_time": 1764252383,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35129,
+        "num": 662994,
+        "word": "钟汉良被秦岚夸吻技红温了",
+        "onboard_time": 1764252443,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34901,
+        "num": 662072,
+        "word": "广西北海通报渔船起火",
+        "onboard_time": 1764286520,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 34200,
+        "num": 660809,
+        "word": "高度数眼镜要怎么戴才好看",
+        "onboard_time": 1764256943,
+        "rank": 44,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 31163,
+        "num": 660626,
+        "word": "刘也内娱头个让我浑身发麻的艺人",
+        "onboard_time": 1764255502,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30936,
+        "num": 659323,
+        "word": "刘耀文劝架黄子韬王鹤棣",
+        "onboard_time": 1764245782,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29290,
+        "num": 658515,
+        "word": "亦舞之城",
+        "onboard_time": 1764257180,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30366,
+        "num": 657659,
+        "word": "你的睡商恐怕在我智商之上",
+        "onboard_time": 1764271994,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 21907,
+        "num": 656865,
+        "word": "怪奇物语 月更",
+        "onboard_time": 1764259222,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记坚持发展实业的深意#"
+    }
+  }
+}

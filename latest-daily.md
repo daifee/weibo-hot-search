@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 07:25:38
+本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 07:39:11
 </p>
 </blockquote>
 <p>
@@ -22,7 +22,19 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%A2%A7%E5%A9%B7%E5%A5%B3%E5%84%BF%E8%A2%AB%E5%AD%A4%E7%AB%8B%23" target="weibo">
-郭碧婷女儿被孤立（热度：1133548）
+郭碧婷女儿被孤立（热度：1186788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%8D%E5%8F%91%E8%B0%AC%E8%AE%BA%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A3%AE%E8%83%86%23" target="weibo">
+高市早苗再发谬论给自己壮胆（热度：689228）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E5%B7%B2%E5%AE%8C%E6%88%90%E7%81%AD%E7%81%AB%E7%A8%8B%E5%BA%8F%23" target="weibo">
+香港大火已完成灭火程序（热度：572366）
 </a>
 </li>
 
@@ -45,20 +57,20 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E7%90%9B%E4%BD%A0%E7%BB%88%E4%BA%8E%E4%B9%9F%E6%98%AF%E5%B0%86%E5%B0%B1%E4%BA%86%23" target="weibo">
+何以琛你终于也是将就了（热度：258980）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%90%91%E6%AF%8F%E6%88%B7%E7%81%BE%E6%B0%91%E5%8F%911%E4%B8%87%E6%B8%AF%E5%85%83%E8%A1%A5%E5%8A%A9%23" target="weibo">
 香港向每户灾民发1万港元补助（热度：248282）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%8D%E5%8F%91%E8%B0%AC%E8%AE%BA%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A3%AE%E8%83%86%23" target="weibo">
-高市早苗再发谬论给自己壮胆（热度：242656）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%B5%B7%E7%81%AB%E5%A4%A7%E6%A5%BC%E5%86%85%E5%8F%91%E7%8E%B0%E7%94%9F%E8%BF%98%E8%80%85%23" target="weibo">
-香港起火大楼内发现生还者（热度：239426）
+香港起火大楼内发现生还者（热度：245821）
 </a>
 </li>
 
@@ -82,7 +94,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%9B%E4%BB%B7430%E5%8D%96%E4%BB%B7597%23" target="weibo">
-胖东来羽绒服进价430卖价597（热度：189296）
+胖东来羽绒服进价430卖价597（热度：191300）
 </a>
 </li>
 
@@ -93,14 +105,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E4%BB%A5%E7%90%9B%E4%BD%A0%E7%BB%88%E4%BA%8E%E4%B9%9F%E6%98%AF%E5%B0%86%E5%B0%B1%E4%BA%86%23" target="weibo">
-何以琛你终于也是将就了（热度：182991）
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%E6%95%A3%E4%BA%BA%E7%9B%B4%E6%92%AD%23" target="weibo">
+逍遥散人直播（热度：167929）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%E6%95%A3%E4%BA%BA%E7%9B%B4%E6%92%AD%23" target="weibo">
-逍遥散人直播（热度：167929）
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E8%B4%A7%E5%A4%A7%E5%A7%A8%E8%A2%AB%E5%81%9C%E8%81%8C%E5%BD%B1%E5%93%8D%E9%93%81%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
+售货大姨被停职影响铁路形象的是谁（热度：139882）
 </a>
 </li>
 
@@ -111,14 +123,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E8%B4%A7%E5%A4%A7%E5%A7%A8%E8%A2%AB%E5%81%9C%E8%81%8C%E5%BD%B1%E5%93%8D%E9%93%81%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
-售货大姨被停职影响铁路形象的是谁（热度：135713）
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%80%80%E5%AD%95%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%84%B1%E8%BA%AB%E5%B9%B6%E4%BA%A7%E5%AD%90%23" target="weibo">
+被困柬埔寨怀孕女子已脱身并产子（热度：123079）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%80%80%E5%AD%95%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%84%B1%E8%BA%AB%E5%B9%B6%E4%BA%A7%E5%AD%90%23" target="weibo">
-被困柬埔寨怀孕女子已脱身并产子（热度：123079）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D%E7%BD%91%E8%B4%AD%E7%9A%84%E5%95%86%E5%93%81%E4%BB%8A%E5%B9%B4%E5%88%B0%E8%B4%A7%23" target="weibo">
+十年前网购的商品今年到货（热度：122415）
 </a>
 </li>
 
@@ -129,8 +141,14 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%89%E5%85%A5%E7%9D%A1%E6%97%B6%E9%97%B4%E7%BC%A9%E7%9F%AD7.5%E5%88%86%E9%92%9F%23" target="weibo">
+穿袜子睡觉入睡时间缩短7.5分钟（热度：100097）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%B3%E5%86%85%E5%85%AC%E5%AE%89vs%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%23" target="weibo">
-河内公安vs北京国安（热度：94049）
+河内公安vs北京国安（热度：95001）
 </a>
 </li>
 
@@ -147,8 +165,8 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%81%E5%B9%B4%E5%89%8D%E7%BD%91%E8%B4%AD%E7%9A%84%E5%95%86%E5%93%81%E4%BB%8A%E5%B9%B4%E5%88%B0%E8%B4%A7%23" target="weibo">
-十年前网购的商品今年到货（热度：87551）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E7%9C%8B%E7%9D%80%E4%B8%8D%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%8C%B4%E5%AD%90%23" target="weibo">
+全网唯一一个看着不讨厌的猴子（热度：86598）
 </a>
 </li>
 
@@ -165,14 +183,20 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E7%9C%8B%E7%9D%80%E4%B8%8D%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%8C%B4%E5%AD%90%23" target="weibo">
-全网唯一一个看着不讨厌的猴子（热度：84728）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%B0%8F%E8%AF%8A%E6%89%80%E8%A2%AB%E6%9B%9D%E5%BB%BA%E5%AF%86%E5%AE%A4%23" target="weibo">
+社区小诊所被曝建密室（热度：83074）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AC%E5%8F%B8%E8%A2%AB%E6%9B%9D%E6%8B%8D%E5%91%98%E5%B7%A5%E5%A6%82%E5%8E%95%E7%85%A7%E5%B9%B6%E8%AE%B0%E5%BD%95%E6%97%B6%E9%97%B4%23" target="weibo">
 公司被曝拍员工如厕照并记录时间（热度：82332）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8D%A1%E7%A7%8B%E7%BE%8E%E7%94%B2%E6%98%AF%E4%BB%8E%E5%9C%B0%E4%B8%8A%E6%8D%A1%E4%B8%80%E7%89%87%E5%8F%B6%E5%AD%90%23" target="weibo">
+原来捡秋美甲是从地上捡一片叶子（热度：79758）
 </a>
 </li>
 
@@ -219,12 +243,6 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A9%BF%E8%A2%9C%E5%AD%90%E7%9D%A1%E8%A7%89%E5%85%A5%E7%9D%A1%E6%97%B6%E9%97%B4%E7%BC%A9%E7%9F%AD7.5%E5%88%86%E9%92%9F%23" target="weibo">
-穿袜子睡觉入睡时间缩短7.5分钟（热度：69788）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
 枭起青壤（热度：67126）
 </a>
@@ -233,12 +251,6 @@ Crisp回应Uzi复出传言（热度：78593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%95%86%E8%AE%A8%E6%8E%A8%E8%BF%9B%E4%BD%BF%E7%94%A8%E9%87%91%E5%B1%9E%E8%84%9A%E6%89%8B%E6%9E%B6%23" target="weibo">
 香港商讨推进使用金属脚手架（热度：66287）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E6%8D%A1%E7%A7%8B%E7%BE%8E%E7%94%B2%E6%98%AF%E4%BB%8E%E5%9C%B0%E4%B8%8A%E6%8D%A1%E4%B8%80%E7%89%87%E5%8F%B6%E5%AD%90%23" target="weibo">
-原来捡秋美甲是从地上捡一片叶子（热度：65301）
 </a>
 </li>
 
@@ -273,6 +285,12 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B483%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港大埔火灾已致83人遇难（热度：58037）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%20%E6%9C%80%E5%A4%A7%E7%9A%84%E9%97%AE%E9%A2%98%E6%98%AF%E5%89%A7%E6%83%85%23" target="weibo">
 枭起青壤 最大的问题是剧情（热度：57823）
 </a>
@@ -285,20 +303,14 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A9%9A%E5%81%87%E7%94%B15%E6%97%A5%E5%BB%B6%E5%88%B020%E6%97%A5%23" target="weibo">
+四川婚假由5日延到20日（热度：56699）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E8%8D%9F%E5%A9%95%E5%9B%9E%E5%BA%94%E5%A4%A7%E5%A5%B3%E5%84%BF%E5%B0%8F%E8%8B%B9%E6%9E%9C%E6%81%8B%E7%88%B1%23" target="weibo">
 葛荟婕回应大女儿小苹果恋爱（热度：55840）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A9%9A%E5%81%87%E7%94%B15%E6%97%A5%E5%BB%B6%E5%88%B020%E6%97%A5%23" target="weibo">
-四川婚假由5日延到20日（热度：54743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%B0%8F%E8%AF%8A%E6%89%80%E8%A2%AB%E6%9B%9D%E5%BB%BA%E5%AF%86%E5%AE%A4%23" target="weibo">
-社区小诊所被曝建密室（热度：49476）
 </a>
 </li>
 
@@ -339,8 +351,20 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%231%E9%9B%86%E7%8B%A0%E4%BA%BA2%E9%9B%86%E4%B8%BB%E4%BA%BA3%E9%9B%86%E6%88%91%E7%9A%84%E5%A4%AB%E4%BA%BA%23" target="weibo">
+1集狠人2集主人3集我的夫人（热度：40340）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%8A%9D%E6%9E%B6%E9%BB%84%E5%AD%90%E9%9F%AC%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
 刘耀文劝架黄子韬王鹤棣（热度：35400）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E8%A5%BF%E5%8C%97%E6%B5%B7%E9%80%9A%E6%8A%A5%E6%B8%94%E8%88%B9%E8%B5%B7%E7%81%AB%23" target="weibo">
+广西北海通报渔船起火（热度：34901）
 </a>
 </li>
 
@@ -376,7 +400,7 @@ Crisp回应Uzi复出传言（热度：78593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8C%97%E4%BA%AC%E5%9B%BD%E5%AE%89%E4%BA%9A%E5%86%A0%E5%87%BA%E5%B1%80%23" target="weibo">
-北京国安亚冠出局（热度：23884）
+北京国安亚冠出局（热度：24694）
 </a>
 </li>
 

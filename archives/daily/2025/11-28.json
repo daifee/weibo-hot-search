@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764285938024,
+  "endTime": 1764286751618,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -11,12 +11,28 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1133548,
+      "raw_hot": 1186788,
       "num": 1133548,
       "word": "郭碧婷女儿被孤立",
       "onboard_time": 1764256943,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 689228,
+      "num": 1259249,
+      "word": "高市早苗再发谬论给自己壮胆",
+      "onboard_time": 1764285379,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 572366,
+      "num": 1224361,
+      "word": "香港大火已完成灭火程序",
+      "onboard_time": 1764286159,
+      "rank": 4,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 453927,
@@ -43,6 +59,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 258980,
+      "num": 1365498,
+      "word": "何以琛你终于也是将就了",
+      "onboard_time": 1764251604,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 248282,
       "num": 2025464,
       "word": "香港向每户灾民发1万港元补助",
@@ -51,15 +75,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 242656,
-      "num": 1259249,
-      "word": "高市早苗再发谬论给自己壮胆",
-      "onboard_time": 1764285379,
-      "rank": 11,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 239426,
+      "raw_hot": 245821,
       "num": 1819029,
       "word": "香港起火大楼内发现生还者",
       "onboard_time": 1764225684,
@@ -91,7 +107,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 189296,
+      "raw_hot": 191300,
       "num": 1372005,
       "word": "胖东来羽绒服进价430卖价597",
       "onboard_time": 1764242302,
@@ -107,20 +123,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 182991,
-      "num": 1365498,
-      "word": "何以琛你终于也是将就了",
-      "onboard_time": 1764251604,
-      "rank": 23,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 167929,
       "num": 1131173,
       "word": "逍遥散人直播",
       "onboard_time": 1764245243,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 139882,
+      "num": 1184101,
+      "word": "售货大姨被停职影响铁路形象的是谁",
+      "onboard_time": 1764254243,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138324,
@@ -131,20 +147,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 135713,
-      "num": 1184101,
-      "word": "售货大姨被停职影响铁路形象的是谁",
-      "onboard_time": 1764254243,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123079,
       "num": 1177607,
       "word": "被困柬埔寨怀孕女子已脱身并产子",
       "onboard_time": 1764240623,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 122415,
+      "num": 1133413,
+      "word": "十年前网购的商品今年到货",
+      "onboard_time": 1764285798,
+      "rank": 17,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 114608,
@@ -155,7 +171,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94049,
+      "raw_hot": 100097,
+      "num": 1059450,
+      "word": "穿袜子睡觉入睡时间缩短7.5分钟",
+      "onboard_time": 1764285798,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 95001,
       "num": 2263391,
       "word": "河内公安vs北京国安",
       "onboard_time": 1764256883,
@@ -179,12 +203,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 87551,
-      "num": 1133413,
-      "word": "十年前网购的商品今年到货",
-      "onboard_time": 1764285798,
-      "rank": 17,
-      "category": "情感,幽默"
+      "raw_hot": 86598,
+      "num": 1100756,
+      "word": "全网唯一一个看着不讨厌的猴子",
+      "onboard_time": 1764249863,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 86113,
@@ -203,12 +227,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 84728,
-      "num": 1100756,
-      "word": "全网唯一一个看着不讨厌的猴子",
-      "onboard_time": 1764249863,
-      "rank": 40,
-      "category": "幽默"
+      "raw_hot": 83074,
+      "num": 997230,
+      "word": "社区小诊所被曝建密室",
+      "onboard_time": 1764285438,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82332,
@@ -217,6 +241,14 @@
       "onboard_time": 1764259040,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 79758,
+      "num": 1014432,
+      "word": "原来捡秋美甲是从地上捡一片叶子",
+      "onboard_time": 1764285619,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 79099,
@@ -275,14 +307,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 69788,
-      "num": 1059450,
-      "word": "穿袜子睡觉入睡时间缩短7.5分钟",
-      "onboard_time": 1764285798,
-      "rank": 24,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 67126,
       "num": 1150972,
       "word": "枭起青壤",
@@ -297,14 +321,6 @@
       "onboard_time": 1764253883,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 65301,
-      "num": 1014432,
-      "word": "原来捡秋美甲是从地上捡一片叶子",
-      "onboard_time": 1764285619,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 64812,
@@ -347,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 58037,
+      "num": 672139,
+      "word": "香港大埔火灾已致83人遇难",
+      "onboard_time": 1764286520,
+      "rank": 31,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 57823,
       "num": 1117513,
       "word": "枭起青壤 最大的问题是剧情",
@@ -363,15 +387,7 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 55840,
-      "num": 1111299,
-      "word": "葛荟婕回应大女儿小苹果恋爱",
-      "onboard_time": 1764248363,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 54743,
+      "raw_hot": 56699,
       "num": 1113912,
       "word": "四川婚假由5日延到20日",
       "onboard_time": 1764256883,
@@ -379,12 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 49476,
-      "num": 997230,
-      "word": "社区小诊所被曝建密室",
-      "onboard_time": 1764285438,
-      "rank": 33,
-      "category": "民生新闻"
+      "raw_hot": 55840,
+      "num": 1111299,
+      "word": "葛荟婕回应大女儿小苹果恋爱",
+      "onboard_time": 1764248363,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 49094,
@@ -435,12 +451,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 40340,
+      "num": 664994,
+      "word": "1集狠人2集主人3集我的夫人",
+      "onboard_time": 1764286099,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 35400,
       "num": 1068149,
       "word": "刘耀文劝架黄子韬王鹤棣",
       "onboard_time": 1764245782,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 34901,
+      "num": 662072,
+      "word": "广西北海通报渔船起火",
+      "onboard_time": 1764286520,
+      "rank": 43,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 30688,
@@ -483,7 +515,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23884,
+      "raw_hot": 24694,
       "num": 1797804,
       "word": "北京国安亚冠出局",
       "onboard_time": 1764254424,
