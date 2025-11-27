@@ -1,6 +1,6 @@
 {
   "startTime": 1764174972250,
-  "endTime": 1764249017974,
+  "endTime": 1764250726476,
   "band_list": [
     {
       "raw_hot": 13553014,
@@ -451,6 +451,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451285,
+      "num": 1806999,
+      "word": "成毅又受伤了",
+      "onboard_time": 1764238642,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 446933,
+      "num": 1387331,
+      "word": "香港火灾已致65人遇难",
+      "onboard_time": 1764197538,
+      "rank": 29,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 444412,
       "num": 1084624,
       "word": "康熙野史 新发现",
@@ -473,6 +489,14 @@
       "onboard_time": 1764204983,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 424246,
+      "num": 1384785,
+      "word": "原来人是可以突然间失去所有的",
+      "onboard_time": 1764248962,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 408536,
@@ -529,14 +553,6 @@
       "onboard_time": 1764243081,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 390491,
-      "num": 1806999,
-      "word": "成毅又受伤了",
-      "onboard_time": 1764238642,
-      "rank": 16,
-      "category": "艺人"
     },
     {
       "raw_hot": 388741,
@@ -843,14 +859,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 261460,
-      "num": 1107550,
-      "word": "原来人是可以突然间失去所有的",
-      "onboard_time": 1764248962,
-      "rank": 13,
-      "category": "情感"
-    },
-    {
       "raw_hot": 259851,
       "num": 428424,
       "word": "胡先煦化什么妆需要50分钟",
@@ -1051,6 +1059,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 213160,
+      "num": 1400005,
+      "word": "Crisp回应Uzi复出传言",
+      "onboard_time": 1764248843,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211664,
       "num": 1788346,
       "word": "碰撞事故致11死铁路部门将问责",
@@ -1081,6 +1097,14 @@
       "onboard_time": 1764221364,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 209334,
+      "num": 1667205,
+      "word": "铁路通报绵阳2人被列车碰撞身亡",
+      "onboard_time": 1764247402,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203166,
@@ -1283,6 +1307,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 180670,
+      "num": 1339431,
+      "word": "葛荟婕回应大女儿小苹果恋爱",
+      "onboard_time": 1764248363,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180536,
       "num": 209228,
       "word": "碧血蝉",
@@ -1483,14 +1515,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 160281,
-      "num": 1108318,
-      "word": "Crisp回应Uzi复出传言",
-      "onboard_time": 1764248843,
-      "rank": 8,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 159560,
       "num": 2327798,
       "word": "谢泼德31分",
@@ -1537,6 +1561,14 @@
       "onboard_time": 1764227843,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 155418,
+      "num": 1741259,
+      "word": "刘耀文劝架黄子韬王鹤棣",
+      "onboard_time": 1764245782,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 154599,
@@ -1619,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 148332,
+      "num": 1359184,
+      "word": "零跑Lafa5开启轿跑10万级时代",
+      "onboard_time": 1764250464,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 146590,
       "num": 251806,
       "word": "过度独立 创伤",
@@ -1633,14 +1673,6 @@
       "onboard_time": 1764228202,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 146316,
-      "num": 1741259,
-      "word": "刘耀文劝架黄子韬王鹤棣",
-      "onboard_time": 1764245782,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 145704,
@@ -1907,6 +1939,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 123452,
+      "num": 1315872,
+      "word": "全网唯一一个看着不讨厌的猴子",
+      "onboard_time": 1764249863,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123068,
       "num": 1749257,
       "word": "手机调成英文竟然还有这好处",
@@ -1953,14 +1993,6 @@
       "onboard_time": 1764234983,
       "rank": 35,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119261,
-      "num": 1104876,
-      "word": "香港火灾已致65人遇难",
-      "onboard_time": 1764197538,
-      "rank": 29,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 118754,
@@ -2025,22 +2057,6 @@
       "onboard_time": 1764219685,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 116442,
-      "num": 1667205,
-      "word": "铁路通报绵阳2人被列车碰撞身亡",
-      "onboard_time": 1764247402,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114983,
-      "num": 1104547,
-      "word": "葛荟婕回应大女儿小苹果恋爱",
-      "onboard_time": 1764248363,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 114872,
@@ -2323,6 +2339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 94564,
+      "num": 1289314,
+      "word": "秦岚新剧被去母留子",
+      "onboard_time": 1764248782,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 94254,
       "num": 134759,
       "word": "陈清晨当教练了",
@@ -2427,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87040,
+      "num": 1285828,
+      "word": "再过五年00后就30了",
+      "onboard_time": 1764246262,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 86979,
       "num": 940668,
       "word": "夸克AI眼镜带来的行业利好",
@@ -2467,6 +2499,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 85169,
+      "num": 1322040,
+      "word": "唐朝诡事录",
+      "onboard_time": 1764249565,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 84995,
       "num": 374597,
       "word": "利物浦1比4埃因霍温",
@@ -2484,7 +2524,7 @@
     },
     {
       "raw_hot": 84188,
-      "num": 1103451,
+      "num": 1245688,
       "word": "庆祝倒霉死勒第一次发vlog",
       "onboard_time": 1764248604,
       "rank": 37,
@@ -2513,6 +2553,14 @@
       "onboard_time": 1764214283,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82879,
+      "num": 1346805,
+      "word": "铁路通报售货大姨被停职情况",
+      "onboard_time": 1764249383,
+      "rank": 22,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82296,
@@ -2611,6 +2659,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 73662,
+      "num": 1620206,
+      "word": "多家厂商将110标注为匪警",
+      "onboard_time": 1764245782,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72301,
       "num": 1630283,
       "word": "老辈子下手没轻没重的",
@@ -2619,12 +2675,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 71470,
-      "num": 1620206,
-      "word": "多家厂商将110标注为匪警",
-      "onboard_time": 1764245782,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 72227,
+      "num": 1269708,
+      "word": "大生意人丫蛋变脸这段",
+      "onboard_time": 1764250044,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 71859,
+      "num": 1253534,
+      "word": "官方通报幼儿园老师打骂孩子",
+      "onboard_time": 1764250584,
+      "rank": 46,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 71336,
@@ -2675,20 +2739,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 69076,
+      "num": 1250968,
+      "word": "睡前五分钟玩了十小时手机",
+      "onboard_time": 1764250284,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 68439,
       "num": 2114911,
       "word": "鸿蒙5到6生态狂飙",
       "onboard_time": 1764216264,
       "rank": 18,
       "category": "数码"
-    },
-    {
-      "raw_hot": 68308,
-      "num": 1102149,
-      "word": "再过五年00后就30了",
-      "onboard_time": 1764246262,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 68035,
@@ -2713,14 +2777,6 @@
       "onboard_time": 1764194115,
       "rank": 44,
       "category": "情感"
-    },
-    {
-      "raw_hot": 65275,
-      "num": 1101869,
-      "word": "秦岚新剧被去母留子",
-      "onboard_time": 1764248782,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 65211,
@@ -2875,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47908,
+      "num": 1395167,
+      "word": "国台办正告赖清德",
+      "onboard_time": 1764249863,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 45092,
       "num": 343862,
       "word": "王玉雯的Live会发光",
@@ -2961,6 +3025,14 @@
       "onboard_time": 1764244583,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 34646,
+      "num": 1280611,
+      "word": "石破茂为什么说没有中国就没有日本",
+      "onboard_time": 1764249863,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 34356,
