@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 06:26:35
+本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 06:41:58
 </p>
 </blockquote>
 <p>
@@ -153,6 +153,12 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%9B%9E%E5%BA%94%E8%B1%AA%E9%97%A8%E5%A9%86%E5%A9%8650W%E6%A2%97%23" target="weibo">
+秦岚回应豪门婆婆50W梗（热度：74268）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E4%B9%83%E9%A6%A8%E4%B8%8E%E7%94%B7%E5%8F%8B%E4%BA%92%E7%9B%B8%E5%8F%96%E5%85%B3%23" target="weibo">
 郑乃馨与男友互相取关（热度：71623）
 </a>
@@ -171,12 +177,6 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A7%A6%E5%B2%9A%E5%9B%9E%E5%BA%94%E8%B1%AA%E9%97%A8%E5%A9%86%E5%A9%8650W%E6%A2%97%23" target="weibo">
-秦岚回应豪门婆婆50W梗（热度：70575）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%23" target="weibo">
 枭起青壤（热度：67126）
 </a>
@@ -191,6 +191,12 @@ Crisp回应Uzi复出传言（热度：78593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
 疯狂动物城（热度：64812）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E8%B4%A7%E5%A4%A7%E5%A7%A8%E8%A2%AB%E5%81%9C%E8%81%8C%E5%BD%B1%E5%93%8D%E9%93%81%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
+售货大姨被停职影响铁路形象的是谁（热度：64558）
 </a>
 </li>
 
@@ -226,13 +232,25 @@ Crisp回应Uzi复出传言（热度：78593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E5%9B%B0%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%80%80%E5%AD%95%E5%A5%B3%E5%AD%90%E5%B7%B2%E8%84%B1%E8%BA%AB%E5%B9%B6%E4%BA%A7%E5%AD%90%23" target="weibo">
-被困柬埔寨怀孕女子已脱身并产子（热度：55851）
+被困柬埔寨怀孕女子已脱身并产子（热度：56636）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%80%E7%9B%B4%E5%9C%A8%E4%B8%8E%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E5%88%87%E5%89%B2%23" target="weibo">
+宗馥莉一直在与娃哈哈集团切割（热度：55410）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E5%A9%9A%E5%81%87%E7%94%B15%E6%97%A5%E5%BB%B6%E5%88%B020%E6%97%A5%23" target="weibo">
 四川婚假由5日延到20日（热度：54743）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%95%91%E6%8F%B4%E4%B8%AD%E7%9A%84%E7%88%B1%E5%BF%83%E6%8E%A5%E5%8A%9B%23" target="weibo">
+香港大埔火灾救援中的爱心接力（热度：51619）
 </a>
 </li>
 
@@ -267,18 +285,6 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%97%E9%A6%A5%E8%8E%89%E4%B8%80%E7%9B%B4%E5%9C%A8%E4%B8%8E%E5%A8%83%E5%93%88%E5%93%88%E9%9B%86%E5%9B%A2%E5%88%87%E5%89%B2%23" target="weibo">
-宗馥莉一直在与娃哈哈集团切割（热度：46736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%94%AE%E8%B4%A7%E5%A4%A7%E5%A7%A8%E8%A2%AB%E5%81%9C%E8%81%8C%E5%BD%B1%E5%93%8D%E9%93%81%E8%B7%AF%E5%BD%A2%E8%B1%A1%E7%9A%84%E6%98%AF%E8%B0%81%23" target="weibo">
-售货大姨被停职影响铁路形象的是谁（热度：46654）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E6%95%B0%E7%9C%BC%E9%95%9C%E8%A6%81%E6%80%8E%E4%B9%88%E6%88%B4%E6%89%8D%E5%A5%BD%E7%9C%8B%23" target="weibo">
 高度数眼镜要怎么戴才好看（热度：45593）
 </a>
@@ -286,7 +292,7 @@ Crisp回应Uzi复出传言（热度：78593）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%A8%E7%BD%91%E5%94%AF%E4%B8%80%E4%B8%80%E4%B8%AA%E7%9C%8B%E7%9D%80%E4%B8%8D%E8%AE%A8%E5%8E%8C%E7%9A%84%E7%8C%B4%E5%AD%90%23" target="weibo">
-全网唯一一个看着不讨厌的猴子（热度：38791）
+全网唯一一个看着不讨厌的猴子（热度：38936）
 </a>
 </li>
 
@@ -297,14 +303,14 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%95%91%E6%8F%B4%E4%B8%AD%E7%9A%84%E7%88%B1%E5%BF%83%E6%8E%A5%E5%8A%9B%23" target="weibo">
-香港大埔火灾救援中的爱心接力（热度：36371）
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%8A%9D%E6%9E%B6%E9%BB%84%E5%AD%90%E9%9F%AC%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
+刘耀文劝架黄子韬王鹤棣（热度：35400）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%8A%9D%E6%9E%B6%E9%BB%84%E5%AD%90%E9%9F%AC%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
-刘耀文劝架黄子韬王鹤棣（热度：35400）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE98%25%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%9D%9E%E4%BA%B2%E7%94%9F%23" target="weibo">
+乌干达98%亲子鉴定非亲生（热度：30684）
 </a>
 </li>
 
@@ -315,8 +321,8 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE98%25%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%9D%9E%E4%BA%B2%E7%94%9F%23" target="weibo">
-乌干达98%亲子鉴定非亲生（热度：26507）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%8B%96%E5%BB%B6%E7%97%87%23" target="weibo">
+洗澡拖延症（热度：27385）
 </a>
 </li>
 
@@ -339,14 +345,14 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%97%E6%BE%A1%E6%8B%96%E5%BB%B6%E7%97%87%23" target="weibo">
-洗澡拖延症（热度：20504）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%8E%AF%E5%A2%83%E6%8C%81%E7%BB%AD%E6%81%B6%E5%8C%96%E4%BD%BF%E9%A6%86%E5%8F%91%E6%8F%90%E9%86%92%23" target="weibo">
+日本治安环境持续恶化使馆发提醒（热度：20406）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B2%BB%E5%AE%89%E7%8E%AF%E5%A2%83%E6%8C%81%E7%BB%AD%E6%81%B6%E5%8C%96%E4%BD%BF%E9%A6%86%E5%8F%91%E6%8F%90%E9%86%92%23" target="weibo">
-日本治安环境持续恶化使馆发提醒（热度：19611）
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%9D%A1%E5%95%86%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E6%99%BA%E5%95%86%E4%B9%8B%E4%B8%8A%23" target="weibo">
+你的睡商恐怕在我智商之上（热度：18082）
 </a>
 </li>
 
@@ -363,20 +369,14 @@ Crisp回应Uzi复出传言（热度：78593）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%84%E7%9D%A1%E5%95%86%E6%81%90%E6%80%95%E5%9C%A8%E6%88%91%E6%99%BA%E5%95%86%E4%B9%8B%E4%B8%8A%23" target="weibo">
-你的睡商恐怕在我智商之上（热度：14770）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E6%8E%80%E8%B5%B7%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E6%BD%AE%23" target="weibo">
+乌干达掀起亲子鉴定潮（热度：14458）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B6%E8%B7%91Lafa5%E5%BC%80%E5%90%AF%E8%BD%BF%E8%B7%9110%E4%B8%87%E7%BA%A7%E6%97%B6%E4%BB%A3%23" target="weibo">
 零跑Lafa5开启轿跑10万级时代（热度：14243）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE%E6%8E%80%E8%B5%B7%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E6%BD%AE%23" target="weibo">
-乌干达掀起亲子鉴定潮（热度：13534）
 </a>
 </li>
 
