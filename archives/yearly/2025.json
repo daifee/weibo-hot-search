@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764200328178,
+  "endTime": 1764208671939,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2379,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 6227507,
+      "num": 6227507,
+      "word": "香港火灾已致44人遇难",
+      "onboard_time": 1764197538,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 6171972,
       "num": 6171972,
       "word": "ALin秒了",
@@ -2391,14 +2399,6 @@
       "num": 6171526,
       "word": "李明德因酒后砸车被刑拘",
       "onboard_time": 1739420841,
-      "rank": 0,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 6152899,
-      "num": 6152899,
-      "word": "金子涵宣布退圈",
-      "onboard_time": 1744093163,
       "rank": 0,
       "category": "艺人"
     }

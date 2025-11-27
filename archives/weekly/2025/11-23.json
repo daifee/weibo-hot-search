@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764200328178,
+  "endTime": 1764208671939,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -11,8 +11,8 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 4529511,
-      "num": 4529511,
+      "raw_hot": 6227507,
+      "num": 6227507,
       "word": "香港火灾已致44人遇难",
       "onboard_time": 1764197538,
       "rank": 0,
@@ -147,6 +147,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 1746247,
+      "num": 401341,
+      "word": "结婚前一天新郎新娘先后坠亡",
+      "onboard_time": 1764203964,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1656699,
       "num": 464577,
       "word": "仝卓表弟在柬埔寨失联",
@@ -268,7 +276,7 @@
     },
     {
       "raw_hot": 1275942,
-      "num": 241547,
+      "num": 357980,
       "word": "深圳消防",
       "onboard_time": 1764165085,
       "rank": 37,
@@ -867,6 +875,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 735318,
+      "num": 492155,
+      "word": "香港警方以涉嫌误杀罪拘捕3人",
+      "onboard_time": 1764200842,
+      "rank": 4,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 733320,
       "num": 667129,
       "word": "原来全麻手术压根不是睡着了",
@@ -1129,6 +1145,14 @@
       "onboard_time": 1763965340,
       "rank": 7,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 626452,
+      "num": 380916,
+      "word": "免费短剧靠什么赚钱",
+      "onboard_time": 1764202644,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 624059,
@@ -1443,6 +1467,14 @@
       "category": "艺人,民生新闻"
     },
     {
+      "raw_hot": 519099,
+      "num": 369419,
+      "word": "Angelababy出席广电培训",
+      "onboard_time": 1764207083,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 519031,
       "num": 566649,
       "word": "李维嘉曝某节目录制期间不放饭",
@@ -1560,6 +1592,14 @@
       "word": "李庚希追星易烊千玺最成功",
       "onboard_time": 1763885540,
       "rank": 10,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 493700,
+      "num": 493700,
+      "word": "疯狂动物城2 哭得稀里哗啦",
+      "onboard_time": 1764204145,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -1907,6 +1947,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 437808,
+      "num": 437808,
+      "word": "日本商家不断收到中国游客取消通知",
+      "onboard_time": 1764205884,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 436659,
       "num": 844283,
       "word": "王安宇配音",
@@ -1968,6 +2016,14 @@
       "word": "红果短剧红毯",
       "onboard_time": 1764147082,
       "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 429149,
+      "num": 429149,
+      "word": "怪奇物语5上线",
+      "onboard_time": 1764204983,
+      "rank": 7,
       "category": "剧集"
     },
     {
@@ -2347,6 +2403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366181,
+      "num": 366181,
+      "word": "站姐涅槃 庞氏骗局",
+      "onboard_time": 1764202824,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 366038,
       "num": 215184,
       "word": "时代少年团 这就是爱",
@@ -2529,6 +2593,14 @@
       "onboard_time": 1764118403,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 344553,
+      "num": 344553,
+      "word": "杨幂为香港同胞祈福",
+      "onboard_time": 1764203485,
+      "rank": 16,
+      "category": "艺人,突发/灾害"
     },
     {
       "raw_hot": 343748,
@@ -2753,6 +2825,14 @@
       "onboard_time": 1764054562,
       "rank": 9,
       "category": "数码"
+    },
+    {
+      "raw_hot": 325686,
+      "num": 223953,
+      "word": "姚明邓亚萍合照诡异的像AI",
+      "onboard_time": 1764206544,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 323337,
@@ -3043,6 +3123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 297206,
+      "num": 297206,
+      "word": "四大天王只剩黎明还不能领老年卡",
+      "onboard_time": 1764207741,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 296255,
       "num": 296255,
       "word": "王毅回应中亚3国集体发声",
@@ -3115,12 +3203,28 @@
       "category": "体育,剧集"
     },
     {
+      "raw_hot": 293551,
+      "num": 293551,
+      "word": "香港火灾救援预计持续至黄昏",
+      "onboard_time": 1764204145,
+      "rank": 18,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 292859,
       "num": 274220,
       "word": "日本磨牙16年对中国贴脸开大",
       "onboard_time": 1764052823,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 292760,
+      "num": 292760,
+      "word": "许昕透露可能离开上海队",
+      "onboard_time": 1764203906,
+      "rank": 20,
+      "category": "体育"
     },
     {
       "raw_hot": 292144,
@@ -3739,6 +3843,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 247816,
+      "num": 247816,
+      "word": "为什么近视600度是一个重要分界线",
+      "onboard_time": 1764200361,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 247595,
       "num": 247595,
       "word": "程潇沈月周洁琼出演明日乐园",
@@ -3841,6 +3953,14 @@
       "onboard_time": 1763869520,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 242181,
+      "num": 242181,
+      "word": "香港火灾或因发泡胶迅速蔓延",
+      "onboard_time": 1764205163,
+      "rank": 24,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 242080,
@@ -4059,11 +4179,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 229142,
+      "num": 229142,
+      "word": "香港市民自发帮助救灾运物资",
+      "onboard_time": 1764202284,
+      "rank": 26,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 229039,
       "num": 229039,
       "word": "男子杀妻后将尸体强行折叠塞行李箱",
       "onboard_time": 1764037039,
       "rank": 23,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 228842,
+      "num": 228842,
+      "word": "东北虎二埋汰虎设崩了",
+      "onboard_time": 1764206602,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -4089,6 +4225,14 @@
       "onboard_time": 1763886740,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 226748,
+      "num": 226748,
+      "word": "中美元首近十年来首提军国主义",
+      "onboard_time": 1764206662,
+      "rank": 28,
+      "category": "国内时政"
     },
     {
       "raw_hot": 226287,
@@ -4787,6 +4931,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 195020,
+      "num": 409075,
+      "word": "再次提醒中国公民近期避免前往日本",
+      "onboard_time": 1764198499,
+      "rank": 16,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 194696,
       "num": 194696,
       "word": "易烊千玺杂志",
@@ -4817,14 +4969,6 @@
       "onboard_time": 1764157162,
       "rank": 7,
       "category": "演出"
-    },
-    {
-      "raw_hot": 194058,
-      "num": 409075,
-      "word": "再次提醒中国公民近期避免前往日本",
-      "onboard_time": 1764198499,
-      "rank": 16,
-      "category": "国内时政"
     },
     {
       "raw_hot": 193887,
@@ -5009,6 +5153,14 @@
       "onboard_time": 1764150623,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 190132,
+      "num": 293043,
+      "word": "碧血蝉官宣阵容",
+      "onboard_time": 1764203845,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 189988,
@@ -5507,12 +5659,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176765,
+      "num": 176765,
+      "word": "居民曾多次发现工人在竹棚架吸烟",
+      "onboard_time": 1764206962,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 176736,
       "num": 245219,
       "word": "外媒称中方使用迄今最强硬措辞",
       "onboard_time": 1763821402,
       "rank": 16,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 176554,
+      "num": 176554,
+      "word": "如果在酒店大堂看见耳塞还是别住了",
+      "onboard_time": 1764207502,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 176236,
@@ -6227,6 +6395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 158832,
+      "num": 426170,
+      "word": "第五人格开门",
+      "onboard_time": 1764206722,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 158682,
       "num": 175115,
       "word": "短剧演员演长剧从从容容游刃有余",
@@ -6537,6 +6713,14 @@
       "onboard_time": 1763895080,
       "rank": 31,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 151301,
+      "num": 2459134,
+      "word": "姆巴佩独中四元",
+      "onboard_time": 1764201143,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 150895,
@@ -6889,6 +7073,14 @@
       "onboard_time": 1763874499,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 140762,
+      "num": 227733,
+      "word": "空腹爬楼瘦了30斤",
+      "onboard_time": 1764199401,
+      "rank": 33,
+      "category": "运动健身"
     },
     {
       "raw_hot": 140584,
@@ -8179,6 +8371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118754,
+      "num": 224032,
+      "word": "碧血蝉开机",
+      "onboard_time": 1764203604,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 118746,
       "num": 118746,
       "word": "整形医生回应C罗整容",
@@ -8379,6 +8579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115200,
+      "num": 195525,
+      "word": "疯狂动物城2中配反馈",
+      "onboard_time": 1764208463,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114905,
       "num": 114905,
       "word": "eStar转会公告",
@@ -8433,6 +8641,14 @@
       "onboard_time": 1764042502,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114463,
+      "num": 114463,
+      "word": "香港小米基金会捐赠1000万港元",
+      "onboard_time": 1764203906,
+      "rank": 43,
+      "category": "互联网,突发/灾害"
     },
     {
       "raw_hot": 114330,
@@ -8763,14 +8979,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 110125,
-      "num": 227733,
-      "word": "空腹爬楼瘦了30斤",
-      "onboard_time": 1764199401,
-      "rank": 33,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 110043,
       "num": 110043,
       "word": "黄景瑜叫范丞丞小东西",
@@ -8833,6 +9041,14 @@
       "onboard_time": 1763980941,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 109478,
+      "num": 109478,
+      "word": "俄方称拒绝任何让步",
+      "onboard_time": 1764205105,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109430,
@@ -9035,6 +9251,14 @@
       "category": "美食,动漫"
     },
     {
+      "raw_hot": 107608,
+      "num": 107608,
+      "word": "陈飞宇罗云熙同框合照",
+      "onboard_time": 1764206784,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107370,
       "num": 241131,
       "word": "身体好寿命长的人睡觉有5个特征",
@@ -9169,6 +9393,14 @@
       "onboard_time": 1763869102,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 105971,
+      "num": 105971,
+      "word": "迪丽热巴的扛剧底盘",
+      "onboard_time": 1764201561,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 105960,
@@ -9569,6 +9801,14 @@
       "onboard_time": 1763976441,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 100791,
+      "num": 100791,
+      "word": "成都大雾",
+      "onboard_time": 1764206424,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100735,
@@ -10859,6 +11099,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81095,
+      "num": 1177088,
+      "word": "千亩辣椒免费摘系谣言",
+      "onboard_time": 1764203845,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 80892,
       "num": 91848,
       "word": "富冈义勇神图",
@@ -10961,6 +11209,14 @@
       "onboard_time": 1764110536,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78784,
+      "num": 415880,
+      "word": "Knight回复369",
+      "onboard_time": 1764199642,
+      "rank": 40,
+      "category": "电竞"
     },
     {
       "raw_hot": 78747,
@@ -11185,14 +11441,6 @@
       "onboard_time": 1764149000,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72247,
-      "num": 227639,
-      "word": "Knight回复369",
-      "onboard_time": 1764199642,
-      "rank": 40,
-      "category": "电竞"
     },
     {
       "raw_hot": 72213,
