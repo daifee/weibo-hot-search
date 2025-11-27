@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764283318628,
+  "endTime": 1764285938024,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -51,6 +51,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 242656,
+      "num": 1259249,
+      "word": "高市早苗再发谬论给自己壮胆",
+      "onboard_time": 1764285379,
+      "rank": 11,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239426,
       "num": 1819029,
       "word": "香港起火大楼内发现生还者",
@@ -83,12 +91,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 189296,
+      "num": 1372005,
+      "word": "胖东来羽绒服进价430卖价597",
+      "onboard_time": 1764242302,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 188256,
       "num": 1474207,
       "word": "新音下班晚",
       "onboard_time": 1764258741,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 182991,
+      "num": 1365498,
+      "word": "何以琛你终于也是将就了",
+      "onboard_time": 1764251604,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 167929,
@@ -107,12 +131,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 115369,
-      "num": 1372005,
-      "word": "胖东来羽绒服进价430卖价597",
-      "onboard_time": 1764242302,
-      "rank": 16,
+      "raw_hot": 135713,
+      "num": 1184101,
+      "word": "售货大姨被停职影响铁路形象的是谁",
+      "onboard_time": 1764254243,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123079,
+      "num": 1177607,
+      "word": "被困柬埔寨怀孕女子已脱身并产子",
+      "onboard_time": 1764240623,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 114608,
@@ -131,12 +163,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 93614,
+      "num": 1107973,
+      "word": "宗馥莉一直在与娃哈哈集团切割",
+      "onboard_time": 1764255502,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90059,
       "num": 1266356,
       "word": "刘晓庆刘嘉玲锐评TF三代",
       "onboard_time": 1764245782,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 87551,
+      "num": 1133413,
+      "word": "十年前网购的商品今年到货",
+      "onboard_time": 1764285798,
+      "rank": 17,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 86113,
@@ -155,20 +203,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 84728,
+      "num": 1100756,
+      "word": "全网唯一一个看着不讨厌的猴子",
+      "onboard_time": 1764249863,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82332,
       "num": 1123302,
       "word": "公司被曝拍员工如厕照并记录时间",
       "onboard_time": 1764259040,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80083,
-      "num": 1130876,
-      "word": "何以琛你终于也是将就了",
-      "onboard_time": 1764251604,
-      "rank": 23,
-      "category": "剧集"
     },
     {
       "raw_hot": 79099,
@@ -185,6 +233,14 @@
       "onboard_time": 1764248843,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 76194,
+      "num": 1096293,
+      "word": "乌干达98%亲子鉴定非亲生",
+      "onboard_time": 1764234321,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 74268,
@@ -219,6 +275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69788,
+      "num": 1059450,
+      "word": "穿袜子睡觉入睡时间缩短7.5分钟",
+      "onboard_time": 1764285798,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 67126,
       "num": 1150972,
       "word": "枭起青壤",
@@ -235,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 65301,
+      "num": 1014432,
+      "word": "原来捡秋美甲是从地上捡一片叶子",
+      "onboard_time": 1764285619,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 64812,
       "num": 1119738,
       "word": "疯狂动物城",
@@ -243,11 +315,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 64558,
-      "num": 1105688,
-      "word": "售货大姨被停职影响铁路形象的是谁",
-      "onboard_time": 1764254243,
-      "rank": 46,
+      "raw_hot": 63722,
+      "num": 1049635,
+      "word": "香港大埔火灾救援中的爱心接力",
+      "onboard_time": 1764263476,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -291,20 +363,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 56636,
-      "num": 1114276,
-      "word": "被困柬埔寨怀孕女子已脱身并产子",
-      "onboard_time": 1764240623,
-      "rank": 37,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 55410,
-      "num": 1107973,
-      "word": "宗馥莉一直在与娃哈哈集团切割",
-      "onboard_time": 1764255502,
-      "rank": 44,
-      "category": "民生新闻"
+      "raw_hot": 55840,
+      "num": 1111299,
+      "word": "葛荟婕回应大女儿小苹果恋爱",
+      "onboard_time": 1764248363,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 54743,
@@ -315,11 +379,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51619,
-      "num": 636659,
-      "word": "香港大埔火灾救援中的爱心接力",
-      "onboard_time": 1764263476,
-      "rank": 42,
+      "raw_hot": 49476,
+      "num": 997230,
+      "word": "社区小诊所被曝建密室",
+      "onboard_time": 1764285438,
+      "rank": 33,
       "category": "民生新闻"
     },
     {
@@ -329,14 +393,6 @@
       "onboard_time": 1764247402,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 48532,
-      "num": 1111299,
-      "word": "葛荟婕回应大女儿小苹果恋爱",
-      "onboard_time": 1764248363,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 47857,
@@ -371,15 +427,7 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 38936,
-      "num": 642634,
-      "word": "全网唯一一个看着不讨厌的猴子",
-      "onboard_time": 1764249863,
-      "rank": 40,
-      "category": "幽默"
-    },
-    {
-      "raw_hot": 38635,
+      "raw_hot": 42710,
       "num": 1103907,
       "word": "陈晓曾为了减肥狂喝咖啡",
       "onboard_time": 1764252383,
@@ -395,12 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 30684,
-      "num": 633834,
-      "word": "乌干达98%亲子鉴定非亲生",
-      "onboard_time": 1764234321,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 30688,
+      "num": 940155,
+      "word": "你的睡商恐怕在我智商之上",
+      "onboard_time": 1764271994,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 29573,
+      "num": 929984,
+      "word": "洗澡拖延症",
+      "onboard_time": 1764277814,
+      "rank": 47,
+      "category": "幽默,情感"
     },
     {
       "raw_hot": 27564,
@@ -411,12 +467,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 27385,
-      "num": 463290,
-      "word": "洗澡拖延症",
-      "onboard_time": 1764277814,
-      "rank": 47,
-      "category": "幽默,情感"
+      "raw_hot": 26246,
+      "num": 908724,
+      "word": "日本治安环境持续恶化使馆发提醒",
+      "onboard_time": 1764276433,
+      "rank": 36,
+      "category": "国内时政"
     },
     {
       "raw_hot": 25767,
@@ -441,22 +497,6 @@
       "onboard_time": 1764254664,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 20406,
-      "num": 446372,
-      "word": "日本治安环境持续恶化使馆发提醒",
-      "onboard_time": 1764276433,
-      "rank": 36,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 18082,
-      "num": 439667,
-      "word": "你的睡商恐怕在我智商之上",
-      "onboard_time": 1764271994,
-      "rank": 40,
-      "category": "情感"
     },
     {
       "raw_hot": 18066,
