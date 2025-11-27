@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764271370136,
+  "endTime": 1764272238117,
   "band_list": [
     {
       "raw_hot": 2326150,
@@ -459,7 +459,7 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 11612,
+      "raw_hot": 11622,
       "num": 141738,
       "word": "喜人奇妙夜",
       "onboard_time": 1764270314,
@@ -467,7 +467,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10506,
+      "raw_hot": 10651,
       "num": 140130,
       "word": "有秘密的我们2",
       "onboard_time": 1764269114,
