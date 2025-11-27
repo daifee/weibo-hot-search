@@ -1,0 +1,410 @@
+{
+  "runTime": 1764218028393,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 11929315,
+        "num": 13179315,
+        "word": "昆明一火车站试验列车撞人致11死",
+        "onboard_time": 1764215484,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133648,
+        "num": 4481353,
+        "word": "鸿蒙智行称已充分收集证据",
+        "onboard_time": 1764212422,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16050,
+        "num": 3634317,
+        "word": "长春成功申办2027世界大冬会",
+        "onboard_time": 1764162325,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297393,
+        "num": 3614869,
+        "word": "怪奇物语5上线",
+        "onboard_time": 1764204983,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 3598540,
+        "num": 3598540,
+        "word": "香港火灾已致44人遇难",
+        "onboard_time": 1764197538,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1284917,
+        "num": 1284917,
+        "word": "香港起火大楼已无大面积明火",
+        "onboard_time": 1764209121,
+        "rank": 5,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 436479,
+        "num": 1233842,
+        "word": "日本商家不断收到中国游客取消通知",
+        "onboard_time": 1764205884,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239461,
+        "num": 1125638,
+        "word": "枭起青壤 康熙洪承畴",
+        "onboard_time": 1764216745,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129798,
+        "num": 1036854,
+        "word": "光与夜之恋萧逸破防",
+        "onboard_time": 1764217886,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 106802,
+        "num": 981902,
+        "word": "英格拉姆绝杀步行者",
+        "onboard_time": 1764217707,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178467,
+        "num": 853126,
+        "word": "香港火灾已开设8个庇护中心",
+        "onboard_time": 1764215243,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 229808,
+        "num": 791683,
+        "word": "疯狂动物城2中配反馈",
+        "onboard_time": 1764208463,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1475007,
+        "num": 662563,
+        "word": "香港火灾",
+        "onboard_time": 1764152062,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660775,
+        "num": 660775,
+        "word": "李威妻子称目睹死者受虐全程",
+        "onboard_time": 1764209182,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 656525,
+        "num": 656525,
+        "word": "结婚前一天新郎新娘先后坠亡",
+        "onboard_time": 1764203964,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627774,
+        "num": 627774,
+        "word": "百分百聚酯纤维受害者已出现",
+        "onboard_time": 1764215844,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 76797,
+        "num": 618944,
+        "word": "妈妈是世界上最怕冷的人",
+        "onboard_time": 1764216264,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46515,
+        "num": 570027,
+        "word": "为何玛巴洛沙韦会在流感季刷屏",
+        "onboard_time": 1764214703,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 57835,
+        "num": 499152,
+        "word": "鸿蒙5到6生态狂飙",
+        "onboard_time": 1764216264,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 166458,
+        "num": 474705,
+        "word": "山姆配送员竟是三逃逃犯",
+        "onboard_time": 1764217407,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 430893,
+        "num": 430893,
+        "word": "特朗普施压高市别在台湾问题上挑衅",
+        "onboard_time": 1764210321,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189691,
+        "num": 417817,
+        "word": "万科一笔20亿元境内债寻求展期",
+        "onboard_time": 1764210862,
+        "rank": 21,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 408536,
+        "num": 408536,
+        "word": "已婚后上班是休息",
+        "onboard_time": 1764212901,
+        "rank": 22,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 404858,
+        "num": 404858,
+        "word": "高市早苗老家旅游业面临崩溃",
+        "onboard_time": 1764212542,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 333661,
+        "num": 333661,
+        "word": "李登科卸任娜扎经纪人",
+        "onboard_time": 1764212601,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316074,
+        "num": 316074,
+        "word": "免费短剧靠什么赚钱",
+        "onboard_time": 1764202644,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 79729,
+        "num": 312101,
+        "word": "日团体要求高市立刻道歉下台",
+        "onboard_time": 1764216445,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 308641,
+        "num": 308641,
+        "word": "霍建华自曝从来不看自己演的戏",
+        "onboard_time": 1764215364,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254980,
+        "num": 254980,
+        "word": "昆明火车站通报",
+        "onboard_time": 1764215544,
+        "rank": 28,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 154599,
+        "num": 231264,
+        "word": "梁淞 演都不演型人格",
+        "onboard_time": 1764215783,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 221005,
+        "num": 221005,
+        "word": "王俊凯不语只是一味盖图书馆",
+        "onboard_time": 1764215423,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 213907,
+        "num": 213907,
+        "word": "一张截图钓出多少反华党",
+        "onboard_time": 1764215243,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 206115,
+        "num": 206115,
+        "word": "罗志祥曾多次去医院检查自证",
+        "onboard_time": 1764210441,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197220,
+        "num": 197220,
+        "word": "碰撞事故致11死铁路部门将问责",
+        "onboard_time": 1764217407,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 193583,
+        "num": 193583,
+        "word": "35岁男子熬夜打游戏瞬间失明",
+        "onboard_time": 1764209962,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190722,
+        "num": 190722,
+        "word": "加工72只虾上桌只剩61只",
+        "onboard_time": 1764209602,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185902,
+        "num": 185902,
+        "word": "易烊千玺吓得给石头鞠躬",
+        "onboard_time": 1764217526,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180627,
+        "num": 180627,
+        "word": "四大天王只剩黎明还不能领老年卡",
+        "onboard_time": 1764207741,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150601,
+        "num": 171185,
+        "word": "秦岚新剧被甩银行卡",
+        "onboard_time": 1764217526,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132716,
+        "num": 166184,
+        "word": "高市必须撤回言论",
+        "onboard_time": 1764215124,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 163053,
+        "num": 163053,
+        "word": "女子花500块买下将被吃掉的边牧",
+        "onboard_time": 1764212482,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154235,
+        "num": 154235,
+        "word": "嫁金钗推迟官宣",
+        "onboard_time": 1764215664,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139868,
+        "num": 139868,
+        "word": "女婴心脏手术离世已完成尸检",
+        "onboard_time": 1764165145,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137296,
+        "num": 137296,
+        "word": "多名旅日中国公民遭殴打受伤",
+        "onboard_time": 1764196097,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133268,
+        "num": 133268,
+        "word": "女子患癌被辞企业拒绝赔偿",
+        "onboard_time": 1764214283,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130996,
+        "num": 130996,
+        "word": "站姐涅槃 庞氏骗局",
+        "onboard_time": 1764202824,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128836,
+        "num": 128836,
+        "word": "疯狂动物城2 哭得稀里哗啦",
+        "onboard_time": 1764204145,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27121,
+        "num": 120981,
+        "word": "旅日中国公民被歧视案11月尤突出",
+        "onboard_time": 1764216382,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120225,
+        "num": 120225,
+        "word": "155元一棵白菜对比9毛一斤白菜",
+        "onboard_time": 1764211880,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117687,
+        "num": 117687,
+        "word": "第一次吃蓝莓辅食的宝宝",
+        "onboard_time": 1764215844,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平要求全力以赴扑灭火灾#"
+    }
+  }
+}

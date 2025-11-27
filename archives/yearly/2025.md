@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/27 11:34:51
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/27 12:33:48
 </p>
 </blockquote>
 <p>
@@ -701,6 +701,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E6%9D%8E%E7%8E%B0%20%E7%BA%AF%E5%85%83CP%E7%BB%93%E5%A9%9A%23" target="weibo">
 杨紫李现 纯元CP结婚（热度：11945070）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%98%86%E6%98%8E%E4%B8%80%E7%81%AB%E8%BD%A6%E7%AB%99%E8%AF%95%E9%AA%8C%E5%88%97%E8%BD%A6%E6%92%9E%E4%BA%BA%E8%87%B411%E6%AD%BB%23" target="weibo">
+昆明一火车站试验列车撞人致11死（热度：11929315）
 </a>
 </li>
 
@@ -1805,12 +1811,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ALin%E7%A7%92%E4%BA%86%23" target="weibo">
 ALin秒了（热度：6171972）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%8E%E5%BE%B7%E5%9B%A0%E9%85%92%E5%90%8E%E7%A0%B8%E8%BD%A6%E8%A2%AB%E5%88%91%E6%8B%98%23" target="weibo">
-李明德因酒后砸车被刑拘（热度：6171526）
 </a>
 </li>
 

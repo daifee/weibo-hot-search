@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764214491161,
+  "endTime": 1764218028393,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -921,6 +921,14 @@
       "onboard_time": 1736586864,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 11929315,
+      "num": 13179315,
+      "word": "昆明一火车站试验列车撞人致11死",
+      "onboard_time": 1764215484,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11923856,
@@ -2393,14 +2401,6 @@
       "onboard_time": 1752845246,
       "rank": 0,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 6171526,
-      "num": 6171526,
-      "word": "李明德因酒后砸车被刑拘",
-      "onboard_time": 1739420841,
-      "rank": 0,
-      "category": "艺人"
     }
   ],
   "hotgov_list": [
