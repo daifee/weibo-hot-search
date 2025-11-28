@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764305193715,
+  "endTime": 1764307739121,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -931,6 +931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 817461,
+      "num": 817461,
+      "word": "五个影后三个不生孩子",
+      "onboard_time": 1764303681,
+      "rank": 15,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 815645,
       "num": 4419668,
       "word": "得闲谨制",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1764130883,
       "rank": 16,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 698199,
-      "num": 698199,
-      "word": "五个影后三个不生孩子",
-      "onboard_time": 1764303681,
-      "rank": 15,
-      "category": "综艺"
     },
     {
       "raw_hot": 695157,
@@ -2147,6 +2147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 480955,
+      "num": 4231736,
+      "word": "正午阳光的第一部电影",
+      "onboard_time": 1764303262,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 480457,
       "num": 260094,
       "word": "TVB演员海俊杰妻子病逝",
@@ -2265,6 +2273,14 @@
       "onboard_time": 1763913981,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 464801,
+      "num": 2805729,
+      "word": "日本胆敢染指台湾就是侵略中国本土",
+      "onboard_time": 1764304223,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 464430,
@@ -3723,14 +3739,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 313328,
-      "num": 4231736,
-      "word": "正午阳光的第一部电影",
-      "onboard_time": 1764303262,
-      "rank": 33,
-      "category": "电影"
-    },
-    {
       "raw_hot": 312274,
       "num": 1001290,
       "word": "盖瑞一条蛇",
@@ -3809,6 +3817,14 @@
       "onboard_time": 1764076642,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 304166,
+      "num": 304166,
+      "word": "向太称不会把上市公司交给儿子",
+      "onboard_time": 1764305182,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 303138,
@@ -4564,7 +4580,7 @@
     },
     {
       "raw_hot": 257814,
-      "num": 282463,
+      "num": 539592,
       "word": "刘晓庆踩空摔倒",
       "onboard_time": 1764304162,
       "rank": 25,
@@ -4899,14 +4915,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 242817,
-      "num": 260084,
-      "word": "日本胆敢染指台湾就是侵略中国本土",
-      "onboard_time": 1764304223,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 242181,
       "num": 242181,
       "word": "香港火灾或因发泡胶迅速蔓延",
@@ -5027,6 +5035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234812,
+      "num": 260082,
+      "word": "杭州偶遇孙杨夫妇逛街",
+      "onboard_time": 1764302121,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 234763,
       "num": 234763,
       "word": "马嘉祺我应该进组了",
@@ -5076,7 +5092,7 @@
     },
     {
       "raw_hot": 233121,
-      "num": 260086,
+      "num": 1739249,
       "word": "声生不息 没更新",
       "onboard_time": 1764303983,
       "rank": 38,
@@ -5249,6 +5265,14 @@
       "onboard_time": 1763886199,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225166,
+      "num": 555133,
+      "word": "美国被曝给日本躁动泼冷水",
+      "onboard_time": 1764305363,
+      "rank": 12,
+      "category": "国际时政"
     },
     {
       "raw_hot": 225032,
@@ -6065,6 +6089,14 @@
       "onboard_time": 1764058761,
       "rank": 41,
       "category": "数码"
+    },
+    {
+      "raw_hot": 196202,
+      "num": 196202,
+      "word": "逍遥散人 米哈游",
+      "onboard_time": 1764305723,
+      "rank": 30,
+      "category": "游戏"
     },
     {
       "raw_hot": 196183,
@@ -7155,12 +7187,28 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 174728,
+      "num": 1284198,
+      "word": "原神fes",
+      "onboard_time": 1764306502,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 174418,
       "num": 244246,
       "word": "迪丽热巴陈星旭 西装睡裙打戏",
       "onboard_time": 1763815943,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 174386,
+      "num": 174386,
+      "word": "迪丽热巴手上还有输液的淤青",
+      "onboard_time": 1764304461,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 174170,
@@ -7297,6 +7345,14 @@
       "onboard_time": 1763949140,
       "rank": 26,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 170596,
+      "num": 170596,
+      "word": "陈哲远走错车被助理一把薅回来",
+      "onboard_time": 1764305363,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 170149,
@@ -7635,6 +7691,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 164084,
+      "num": 164084,
+      "word": "拿下她相当于拿下了热巴",
+      "onboard_time": 1764305182,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 164043,
       "num": 1741259,
       "word": "刘耀文劝架黄子韬王鹤棣",
@@ -7673,6 +7737,14 @@
       "onboard_time": 1764302361,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163437,
+      "num": 163437,
+      "word": "特朗普敲打高市早苗",
+      "onboard_time": 1764307101,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 163420,
@@ -9003,6 +9075,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 138945,
+      "num": 152314,
+      "word": "叶童节目里首次回应退出演唱会",
+      "onboard_time": 1764306982,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138524,
       "num": 138524,
       "word": "黄子韬婚后首综",
@@ -9067,14 +9147,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 137741,
-      "num": 260082,
-      "word": "杭州偶遇孙杨夫妇逛街",
-      "onboard_time": 1764302121,
-      "rank": 40,
-      "category": "体育"
-    },
-    {
       "raw_hot": 137699,
       "num": 137699,
       "word": "酥山冰淇淋",
@@ -9089,14 +9161,6 @@
       "onboard_time": 1763974461,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137666,
-      "num": 137666,
-      "word": "迪丽热巴手上还有输液的淤青",
-      "onboard_time": 1764304461,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 137561,
@@ -9473,6 +9537,14 @@
       "onboard_time": 1763994203,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132765,
+      "num": 132765,
+      "word": "papi说何美延公公婆婆带了五个孩子",
+      "onboard_time": 1764306923,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 132407,
@@ -9897,6 +9969,14 @@
       "onboard_time": 1764083302,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 125863,
+      "num": 125863,
+      "word": "刘晓庆细数当女生的4点好处",
+      "onboard_time": 1764306263,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 125856,
@@ -12219,14 +12299,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 101199,
-      "num": 101199,
-      "word": "向太称不会把上市公司交给儿子",
-      "onboard_time": 1764305182,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 101146,
       "num": 101146,
       "word": "Peyz谈加入T1",
@@ -12577,14 +12649,6 @@
       "onboard_time": 1764239183,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 97472,
-      "num": 97472,
-      "word": "拿下她相当于拿下了热巴",
-      "onboard_time": 1764305182,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 97461,
@@ -13180,7 +13244,7 @@
     },
     {
       "raw_hot": 90682,
-      "num": 142847,
+      "num": 161409,
       "word": "立陶宛球员麦迪附体9秒9分",
       "onboard_time": 1764303862,
       "rank": 37,
@@ -13737,6 +13801,14 @@
       "onboard_time": 1764233364,
       "rank": 48,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 84418,
+      "num": 197319,
+      "word": "广东调集装备物资支援香港救灾",
+      "onboard_time": 1764305783,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 84296,
@@ -15123,6 +15195,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58336,
+      "num": 157725,
+      "word": "普京说重返G8太尴尬",
+      "onboard_time": 1764306624,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 58277,
       "num": 135013,
       "word": "严浩翔这一幕好像婚礼现场",
@@ -15209,6 +15289,14 @@
       "onboard_time": 1764246743,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56571,
+      "num": 440519,
+      "word": "何赛飞 能生的多生点",
+      "onboard_time": 1764306562,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 56278,
@@ -15571,6 +15659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49147,
+      "num": 102031,
+      "word": "杰伦威廉姆斯复出",
+      "onboard_time": 1764306681,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48379,
       "num": 144702,
       "word": "第一批丁克老后怎么样了",
@@ -15649,6 +15745,14 @@
       "onboard_time": 1763979261,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 47263,
+      "num": 466243,
+      "word": "疯狂动物城2系列花束",
+      "onboard_time": 1764306383,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 47258,
@@ -15793,6 +15897,14 @@
       "onboard_time": 1764039621,
       "rank": 23,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 44026,
+      "num": 101312,
+      "word": "小诊所用医保卡换豆油和面",
+      "onboard_time": 1764305421,
+      "rank": 49,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 43773,
@@ -17395,6 +17507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 15126,
+      "num": 486999,
+      "word": "明起局地降温8至10摄氏度",
+      "onboard_time": 1764307402,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 15026,
       "num": 212581,
       "word": "九字真炎暧昧期",
@@ -17481,6 +17601,14 @@
       "onboard_time": 1763848934,
       "rank": 47,
       "category": "其它"
+    },
+    {
+      "raw_hot": 13669,
+      "num": 3583263,
+      "word": "央视揭秘中国核电站内部",
+      "onboard_time": 1764307582,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13359,
