@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764355031662,
+  "endTime": 1764355759962,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -95075,6 +95075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 23681,
+      "num": 182541,
+      "word": "融不进去的圈子就不要硬闯",
+      "onboard_time": 1764354195,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
       "raw_hot": 23675,
       "num": 201069,
       "word": "听王嘉尔BUCK现场就得蹦",
@@ -95689,14 +95697,6 @@
       "onboard_time": 1764012074,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 21436,
-      "num": 182541,
-      "word": "融不进去的圈子就不要硬闯",
-      "onboard_time": 1764354195,
-      "rank": 39,
-      "category": "情感"
     },
     {
       "raw_hot": 21428,
