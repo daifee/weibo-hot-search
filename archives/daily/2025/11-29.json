@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764351649554,
+  "endTime": 1764355031662,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -448,6 +448,22 @@
       "word": "第一次在综艺里看送房产证的",
       "onboard_time": 1764350238,
       "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 21436,
+      "num": 182541,
+      "word": "融不进去的圈子就不要硬闯",
+      "onboard_time": 1764354195,
+      "rank": 39,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 13929,
+      "num": 180934,
+      "word": "领养日 小明一家",
+      "onboard_time": 1764354136,
+      "rank": 49,
       "category": "综艺"
     },
     {
