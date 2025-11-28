@@ -1,0 +1,410 @@
+{
+  "runTime": 1764319029564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7899881,
+        "num": 7899881,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 199373,
+        "num": 4487365,
+        "word": "华为Mate80晨曦金版本已售罄",
+        "onboard_time": 1764315863,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59544,
+        "num": 3691503,
+        "word": "央视揭秘中国核电站内部",
+        "onboard_time": 1764307582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 290186,
+        "num": 2015005,
+        "word": "再见爱人现实版玫瑰的故事",
+        "onboard_time": 1764314362,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218633,
+        "num": 1530487,
+        "word": "阴阳师百闻牌运营内容停更",
+        "onboard_time": 1764315443,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 906125,
+        "num": 906125,
+        "word": "2026年起吸毒记录可封存",
+        "onboard_time": 1764301282,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 220087,
+        "num": 860596,
+        "word": "3名中国公民在塔遇袭身亡",
+        "onboard_time": 1764308901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205534,
+        "num": 779439,
+        "word": "香港大埔火灾约200人情况未明",
+        "onboard_time": 1764316943,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173758,
+        "num": 725656,
+        "word": "王楚钦缺席WTT多哈冠军赛",
+        "onboard_time": 1764318504,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168552,
+        "num": 593875,
+        "word": "美国被曝给日本躁动泼冷水",
+        "onboard_time": 1764305363,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 556894,
+        "num": 556894,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 534806,
+        "num": 534806,
+        "word": "高市早苗暗示涉台狂言是即兴发挥",
+        "onboard_time": 1764315022,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 427891,
+        "num": 427891,
+        "word": "王一博说前两年工作太多",
+        "onboard_time": 1764314783,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 377988,
+        "num": 377988,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 307192,
+        "num": 307192,
+        "word": "吃生鱼片要了杯热水",
+        "onboard_time": 1764316882,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 249464,
+        "num": 307120,
+        "word": "点外卖备注放门口的人最精了",
+        "onboard_time": 1764309862,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224380,
+        "num": 306612,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1764301521,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 212679,
+        "num": 306067,
+        "word": "爸爸端火锅撞上儿子致其严重烫伤",
+        "onboard_time": 1764309382,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164516,
+        "num": 305971,
+        "word": "官方通报小学午休收取费用",
+        "onboard_time": 1764317302,
+        "rank": 18,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 139647,
+        "num": 305408,
+        "word": "正午阳光的第一部电影",
+        "onboard_time": 1764303262,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1186779,
+        "num": 305149,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 452276,
+        "num": 304810,
+        "word": "中方亮剑",
+        "onboard_time": 1764315504,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 309457,
+        "num": 304283,
+        "word": "结婚当天睡过头了",
+        "onboard_time": 1764313763,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 604226,
+        "num": 303711,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181759,
+        "num": 303295,
+        "word": "沈腾 这居然是白敬亭",
+        "onboard_time": 1764313702,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143894,
+        "num": 303168,
+        "word": "话费最低50元起充",
+        "onboard_time": 1764317484,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153364,
+        "num": 302656,
+        "word": "再见爱人积大德了",
+        "onboard_time": 1764314482,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 171316,
+        "num": 302299,
+        "word": "普京亲自带货中国电动车",
+        "onboard_time": 1764318203,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148968,
+        "num": 301919,
+        "word": "刘耀文厕所门口全是人",
+        "onboard_time": 1764310042,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 147814,
+        "num": 301660,
+        "word": "人 咪的脚好像在消失",
+        "onboard_time": 1764315384,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145788,
+        "num": 300918,
+        "word": "王梓莼和张子枫是舍友",
+        "onboard_time": 1764317903,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143246,
+        "num": 300779,
+        "word": "从张俪的左肩到右肩要打车",
+        "onboard_time": 1764317964,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 141539,
+        "num": 300233,
+        "word": "曝岳雨婷闯素人婚房讨喜糖",
+        "onboard_time": 1764302423,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134966,
+        "num": 299850,
+        "word": "她可是当年的知画啊",
+        "onboard_time": 1764313820,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132434,
+        "num": 299332,
+        "word": "FPX.ZQ对战北京WBG",
+        "onboard_time": 1764313461,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 132379,
+        "num": 299148,
+        "word": "日本胆敢染指台湾就是侵略中国本土",
+        "onboard_time": 1764304223,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131059,
+        "num": 298677,
+        "word": "王安宇给沈腾拍成大佬了",
+        "onboard_time": 1764318504,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130166,
+        "num": 298168,
+        "word": "肖战彭昱畅周依然领衔主演",
+        "onboard_time": 1764296780,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79171,
+        "num": 297956,
+        "word": "张予曦在机场接上商务了",
+        "onboard_time": 1764317903,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108894,
+        "num": 297625,
+        "word": "逍遥散人 米哈游",
+        "onboard_time": 1764305723,
+        "rank": 39,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 100492,
+        "num": 297277,
+        "word": "香港火灾消防员逐户破门搜索",
+        "onboard_time": 1764311482,
+        "rank": 40,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 100116,
+        "num": 296580,
+        "word": "香港警方谈火灾经过",
+        "onboard_time": 1764318323,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 96710,
+        "num": 296424,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92032,
+        "num": 295776,
+        "word": "当老师的命这么苦吗",
+        "onboard_time": 1764315683,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91025,
+        "num": 295544,
+        "word": "彭昱畅 普通人闯娱乐圈",
+        "onboard_time": 1764314062,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89293,
+        "num": 295222,
+        "word": "ShowMaker回应战术暂停机制",
+        "onboard_time": 1764317423,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89019,
+        "num": 294733,
+        "word": "网红厚本 谁定义的美和丑",
+        "onboard_time": 1764313402,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 88946,
+        "num": 294514,
+        "word": "迪丽热巴手上还有输液的淤青",
+        "onboard_time": 1764304461,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83531,
+        "num": 293922,
+        "word": "蜜雪冰城门店回应上新早餐",
+        "onboard_time": 1764316104,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76534,
+        "num": 293690,
+        "word": "刘嘉玲的电话里全天王阵容",
+        "onboard_time": 1764310221,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记坚持发展实业的深意#"
+    }
+  }
+}
