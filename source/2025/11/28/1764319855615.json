@@ -1,0 +1,410 @@
+{
+  "runTime": 1764319855615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7421586,
+        "num": 7421586,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 198258,
+        "num": 4152065,
+        "word": "王楚钦缺席WTT多哈冠军赛",
+        "onboard_time": 1764318504,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 13521,
+        "num": 3706670,
+        "word": "中国星眼锁定太空危机",
+        "onboard_time": 1764300680,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285911,
+        "num": 2660135,
+        "word": "再见爱人现实版玫瑰的故事",
+        "onboard_time": 1764314362,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292783,
+        "num": 1083966,
+        "word": "香港大埔火灾约200人情况未明",
+        "onboard_time": 1764316943,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 901972,
+        "num": 901972,
+        "word": "2026年起吸毒记录可封存",
+        "onboard_time": 1764301282,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245488,
+        "num": 837534,
+        "word": "肖战演一部美男奖励自己一部糙汉",
+        "onboard_time": 1764319283,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239507,
+        "num": 788071,
+        "word": "阴阳师百闻牌运营内容停更",
+        "onboard_time": 1764315443,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198149,
+        "num": 648694,
+        "word": "3名中国公民在塔遇袭身亡",
+        "onboard_time": 1764308901,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 172638,
+        "num": 571354,
+        "word": "华为Mate80晨曦金版本已售罄",
+        "onboard_time": 1764315863,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 546159,
+        "num": 546159,
+        "word": "吃生鱼片要了杯热水",
+        "onboard_time": 1764316882,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 497586,
+        "num": 497586,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436236,
+        "num": 436236,
+        "word": "高市早苗暗示涉台狂言是即兴发挥",
+        "onboard_time": 1764315022,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366019,
+        "num": 366019,
+        "word": "王一博说前两年工作太多",
+        "onboard_time": 1764314783,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318680,
+        "num": 318680,
+        "word": "南通文旅粉丝量破200万",
+        "onboard_time": 1764319222,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310969,
+        "num": 310969,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 284105,
+        "num": 284105,
+        "word": "王梓莼和张子枫是舍友",
+        "onboard_time": 1764317903,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223518,
+        "num": 223518,
+        "word": "点外卖备注放门口的人最精了",
+        "onboard_time": 1764309862,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197572,
+        "num": 222353,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1764301521,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 59532,
+        "num": 219401,
+        "word": "警方将对大埔火灾全方位取证调查",
+        "onboard_time": 1764319103,
+        "rank": 19,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1110064,
+        "num": 217756,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 361677,
+        "num": 215858,
+        "word": "中方亮剑",
+        "onboard_time": 1764315504,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232968,
+        "num": 213892,
+        "word": "结婚当天睡过头了",
+        "onboard_time": 1764313763,
+        "rank": 22,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 568852,
+        "num": 210589,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210140,
+        "num": 210140,
+        "word": "普京亲自带货中国电动车",
+        "onboard_time": 1764318203,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 201790,
+        "num": 201790,
+        "word": "中央政治局召开会议",
+        "onboard_time": 1764319283,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184079,
+        "num": 184079,
+        "word": "爸爸端火锅撞上儿子致其严重烫伤",
+        "onboard_time": 1764309382,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177933,
+        "num": 177933,
+        "word": "她可是当年的知画啊",
+        "onboard_time": 1764313820,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173040,
+        "num": 173040,
+        "word": "王安宇给沈腾拍成大佬了",
+        "onboard_time": 1764318504,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153210,
+        "num": 153210,
+        "word": "话费最低50元起充",
+        "onboard_time": 1764317484,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150510,
+        "num": 150510,
+        "word": "美国被曝给日本躁动泼冷水",
+        "onboard_time": 1764305363,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142976,
+        "num": 142976,
+        "word": "沈腾 这居然是白敬亭",
+        "onboard_time": 1764313702,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140142,
+        "num": 140142,
+        "word": "官方通报小学午休收取费用",
+        "onboard_time": 1764317302,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 139001,
+        "num": 139001,
+        "word": "张予曦在机场接上商务了",
+        "onboard_time": 1764317903,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138399,
+        "num": 138399,
+        "word": "日本胆敢染指台湾就是侵略中国本土",
+        "onboard_time": 1764304223,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 136461,
+        "num": 136461,
+        "word": "人 咪的脚好像在消失",
+        "onboard_time": 1764315384,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134698,
+        "num": 134698,
+        "word": "再见爱人积大德了",
+        "onboard_time": 1764314482,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130581,
+        "num": 130581,
+        "word": "曝岳雨婷闯素人婚房讨喜糖",
+        "onboard_time": 1764302423,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62724,
+        "num": 127538,
+        "word": "oner再谈蒙多事件",
+        "onboard_time": 1764319103,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 85044,
+        "num": 126245,
+        "word": "杨紫跟唱我爱他",
+        "onboard_time": 1764319103,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125964,
+        "num": 125964,
+        "word": "刘耀文厕所门口全是人",
+        "onboard_time": 1764310042,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30341,
+        "num": 122474,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1764319103,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120270,
+        "num": 120270,
+        "word": "正午阳光的第一部电影",
+        "onboard_time": 1764303262,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118791,
+        "num": 118791,
+        "word": "怎么穷的时候偏让我赶上了",
+        "onboard_time": 1764319103,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106323,
+        "num": 106323,
+        "word": "肖战彭昱畅周依然领衔主演",
+        "onboard_time": 1764296780,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104052,
+        "num": 104052,
+        "word": "逍遥散人 米哈游",
+        "onboard_time": 1764305723,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102315,
+        "num": 102315,
+        "word": "从张俪的左肩到右肩要打车",
+        "onboard_time": 1764317964,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101378,
+        "num": 101378,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96206,
+        "num": 96206,
+        "word": "虽不体面但可行的减肥方法",
+        "onboard_time": 1764316523,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 96067,
+        "num": 96067,
+        "word": "疯片盗摄城",
+        "onboard_time": 1764319763,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
