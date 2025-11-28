@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764336999092,
+  "endTime": 1764337699344,
   "band_list": [
     {
       "raw_hot": 8803300,
@@ -244,7 +244,7 @@
     },
     {
       "raw_hot": 564229,
-      "num": 402277,
+      "num": 408707,
       "word": "香港廉政公署先后拘捕8人",
       "onboard_time": 1764333442,
       "rank": 5,
@@ -291,8 +291,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 532195,
+      "num": 321676,
+      "word": "疑似范丞丞趁机表白",
+      "onboard_time": 1764332244,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 520824,
-      "num": 276748,
+      "num": 289249,
       "word": "何穗产后首复工",
       "onboard_time": 1764331342,
       "rank": 20,
@@ -337,14 +345,6 @@
       "onboard_time": 1764309862,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 469178,
-      "num": 321676,
-      "word": "疑似范丞丞趁机表白",
-      "onboard_time": 1764332244,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 464801,
@@ -427,7 +427,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 407549,
+      "raw_hot": 419554,
       "num": 1119738,
       "word": "疯狂动物城",
       "onboard_time": 1764229762,
@@ -617,6 +617,14 @@
       "onboard_time": 1764319763,
       "rank": 49,
       "category": "电影"
+    },
+    {
+      "raw_hot": 268308,
+      "num": 268308,
+      "word": "许玮甯亲完邱泽擦掉口红印",
+      "onboard_time": 1764335723,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 265631,
@@ -907,14 +915,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 190295,
-      "num": 214809,
-      "word": "许玮甯亲完邱泽擦掉口红印",
-      "onboard_time": 1764335723,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 188368,
       "num": 284515,
       "word": "苹果手机被偷一周收到骗子来电",
@@ -953,6 +953,14 @@
       "onboard_time": 1764298462,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178362,
+      "num": 292816,
+      "word": "台政客与高市早苗办公桌合影被群嘲",
+      "onboard_time": 1764332604,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 178262,
@@ -1057,14 +1065,6 @@
       "onboard_time": 1764317302,
       "rank": 18,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 163985,
-      "num": 276554,
-      "word": "台政客与高市早苗办公桌合影被群嘲",
-      "onboard_time": 1764332604,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 163447,
@@ -1241,6 +1241,14 @@
       "onboard_time": 1764317964,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 142853,
+      "num": 267645,
+      "word": "28岁确诊结肠癌晚期的真实感受",
+      "onboard_time": 1764337405,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 141599,
@@ -1467,6 +1475,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120452,
+      "num": 318182,
+      "word": "小鹏报警",
+      "onboard_time": 1764337343,
+      "rank": 8,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 119886,
       "num": 1974910,
       "word": "DeepSeek新模型有多猛",
@@ -1481,6 +1497,14 @@
       "onboard_time": 1764301041,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 118879,
+      "num": 274442,
+      "word": "中国男篮半场落后韩国男篮13分",
+      "onboard_time": 1764337224,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 118791,
@@ -1667,6 +1691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105233,
+      "num": 271989,
+      "word": "菲律宾误报7.5级地震",
+      "onboard_time": 1764337524,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105192,
       "num": 105192,
       "word": "宁静 没有人管晓庆姐了吗",
@@ -1827,6 +1859,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94473,
+      "num": 267102,
+      "word": "中国男篮主场不敌韩国男篮",
+      "onboard_time": 1764337584,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94209,
       "num": 753433,
       "word": "拍照嘴歪脸斜最简单的解决方式",
@@ -1899,6 +1939,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 90696,
+      "num": 265916,
+      "word": "太原老葛被罚560万元",
+      "onboard_time": 1764337405,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90682,
       "num": 174980,
       "word": "立陶宛球员麦迪附体9秒9分",
@@ -1929,6 +1977,14 @@
       "onboard_time": 1764317423,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 89251,
+      "num": 265647,
+      "word": "高诗岩三分",
+      "onboard_time": 1764336863,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 87738,
@@ -2035,6 +2091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83969,
+      "num": 275858,
+      "word": "女子钻漏洞下单476笔薅羊毛25万",
+      "onboard_time": 1764334943,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83874,
       "num": 499313,
       "word": "强迫症包的饺子",
@@ -2057,6 +2121,14 @@
       "onboard_time": 1764285438,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83073,
+      "num": 282188,
+      "word": "疯狂动物城2票房破5亿",
+      "onboard_time": 1764336563,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 82759,
@@ -2169,14 +2241,6 @@
       "onboard_time": 1764234321,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 76005,
-      "num": 275858,
-      "word": "女子钻漏洞下单476笔薅羊毛25万",
-      "onboard_time": 1764334943,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75678,
@@ -2419,14 +2483,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 59182,
-      "num": 214598,
-      "word": "高诗岩三分",
-      "onboard_time": 1764336863,
-      "rank": 44,
-      "category": "体育"
-    },
-    {
       "raw_hot": 59149,
       "num": 1118445,
       "word": "刘也内娱头个让我浑身发麻的艺人",
@@ -2523,14 +2579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 50826,
-      "num": 214567,
-      "word": "疯狂动物城2票房破5亿",
-      "onboard_time": 1764336563,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 50598,
       "num": 466243,
       "word": "疯狂动物城2系列花束",
@@ -2609,6 +2657,14 @@
       "onboard_time": 1764257180,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 47052,
+      "num": 265524,
+      "word": "双胞胎兄弟同天迎娶双胞胎姐妹",
+      "onboard_time": 1764336683,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47045,
@@ -2744,14 +2800,6 @@
       "word": "六旬女子诊所输液后离世",
       "onboard_time": 1764329063,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36728,
-      "num": 214646,
-      "word": "双胞胎兄弟同天迎娶双胞胎姐妹",
-      "onboard_time": 1764336683,
-      "rank": 39,
       "category": "民生新闻"
     },
     {

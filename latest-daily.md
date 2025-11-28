@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 21:36:39
+本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 21:48:19
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%B6%81%E6%9C%BA%E8%A1%A8%E7%99%BD%23" target="weibo">
+疑似范丞丞趁机表白（热度：532195）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E7%A9%97%E4%BA%A7%E5%90%8E%E9%A6%96%E5%A4%8D%E5%B7%A5%23" target="weibo">
 何穗产后首复工（热度：520824）
 </a>
@@ -263,12 +269,6 @@ TVB演员海俊杰妻子病逝（热度：480457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%82%B9%E5%A4%96%E5%8D%96%E5%A4%87%E6%B3%A8%E6%94%BE%E9%97%A8%E5%8F%A3%E7%9A%84%E4%BA%BA%E6%9C%80%E7%B2%BE%E4%BA%86%23" target="weibo">
 点外卖备注放门口的人最精了（热度：477682）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E8%8C%83%E4%B8%9E%E4%B8%9E%E8%B6%81%E6%9C%BA%E8%A1%A8%E7%99%BD%23" target="weibo">
-疑似范丞丞趁机表白（热度：469178）
 </a>
 </li>
 
@@ -334,7 +334,7 @@ TVB演员海俊杰妻子病逝（热度：480457）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
-疯狂动物城（热度：407549）
+疯狂动物城（热度：419554）
 </a>
 </li>
 
@@ -473,6 +473,12 @@ TVB演员海俊杰妻子病逝（热度：480457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%89%87%E7%9B%97%E6%91%84%E5%9F%8E%23" target="weibo">
 疯片盗摄城（热度：269450）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%8E%AE%E7%94%AF%E4%BA%B2%E5%AE%8C%E9%82%B1%E6%B3%BD%E6%93%A6%E6%8E%89%E5%8F%A3%E7%BA%A2%E5%8D%B0%23" target="weibo">
+许玮甯亲完邱泽擦掉口红印（热度：268308）
 </a>
 </li>
 
@@ -693,12 +699,6 @@ shanks回应不和Tabe去JDG（热度：218044）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%AE%B8%E7%8E%AE%E7%94%AF%E4%BA%B2%E5%AE%8C%E9%82%B1%E6%B3%BD%E6%93%A6%E6%8E%89%E5%8F%A3%E7%BA%A2%E5%8D%B0%23" target="weibo">
-许玮甯亲完邱泽擦掉口红印（热度：190295）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E6%89%8B%E6%9C%BA%E8%A2%AB%E5%81%B7%E4%B8%80%E5%91%A8%E6%94%B6%E5%88%B0%E9%AA%97%E5%AD%90%E6%9D%A5%E7%94%B5%23" target="weibo">
 苹果手机被偷一周收到骗子来电（热度：188368）
 </a>
@@ -725,6 +725,12 @@ shanks回应不和Tabe去JDG（热度：218044）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%A7%E8%83%8C%E5%A4%B4%23" target="weibo">
 王安宇大背头（热度：181200）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%94%BF%E5%AE%A2%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%90%88%E5%BD%B1%E8%A2%AB%E7%BE%A4%E5%98%B2%23" target="weibo">
+台政客与高市早苗办公桌合影被群嘲（热度：178362）
 </a>
 </li>
 
@@ -803,12 +809,6 @@ GW对战MRC（热度：170710）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%B0%8F%E5%AD%A6%E5%8D%88%E4%BC%91%E6%94%B6%E5%8F%96%E8%B4%B9%E7%94%A8%23" target="weibo">
 官方通报小学午休收取费用（热度：164516）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%B0%E6%94%BF%E5%AE%A2%E4%B8%8E%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8A%9E%E5%85%AC%E6%A1%8C%E5%90%88%E5%BD%B1%E8%A2%AB%E7%BE%A4%E5%98%B2%23" target="weibo">
-台政客与高市早苗办公桌合影被群嘲（热度：163985）
 </a>
 </li>
 
@@ -941,6 +941,12 @@ TES双AD（热度：153244）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8E%E5%BC%A0%E4%BF%AA%E7%9A%84%E5%B7%A6%E8%82%A9%E5%88%B0%E5%8F%B3%E8%82%A9%E8%A6%81%E6%89%93%E8%BD%A6%23" target="weibo">
 从张俪的左肩到右肩要打车（热度：143246）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2328%E5%B2%81%E7%A1%AE%E8%AF%8A%E7%BB%93%E8%82%A0%E7%99%8C%E6%99%9A%E6%9C%9F%E7%9A%84%E7%9C%9F%E5%AE%9E%E6%84%9F%E5%8F%97%23" target="weibo">
+28岁确诊结肠癌晚期的真实感受（热度：142853）
 </a>
 </li>
 
@@ -1113,6 +1119,12 @@ TF家族 考核（热度：121789）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E9%B9%8F%E6%8A%A5%E8%AD%A6%23" target="weibo">
+小鹏报警（热度：120452）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%A4%9A%E7%8C%9B%23" target="weibo">
 DeepSeek新模型有多猛（热度：119886）
 </a>
@@ -1121,6 +1133,12 @@ DeepSeek新模型有多猛（热度：119886）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%A5%E4%B8%BA%E6%98%AF%E6%99%AF%E5%8C%BA%E5%8E%9F%E6%9D%A5%E6%98%AF%E6%B1%82%E5%A9%9A%E5%95%8A%23" target="weibo">
 以为是景区原来是求婚啊（热度：119083）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E5%8D%8A%E5%9C%BA%E8%90%BD%E5%90%8E%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE13%E5%88%86%23" target="weibo">
+中国男篮半场落后韩国男篮13分（热度：118879）
 </a>
 </li>
 
@@ -1263,6 +1281,12 @@ CFO反方向的AL（热度：106656）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E8%AF%AF%E6%8A%A57.5%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
+菲律宾误报7.5级地震（热度：105233）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%20%E6%B2%A1%E6%9C%89%E4%BA%BA%E7%AE%A1%E6%99%93%E5%BA%86%E5%A7%90%E4%BA%86%E5%90%97%23" target="weibo">
 宁静 没有人管晓庆姐了吗（热度：105192）
 </a>
@@ -1383,6 +1407,12 @@ CFO反方向的AL（热度：106656）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%9C%BA%E4%B8%8D%E6%95%8C%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE%23" target="weibo">
+中国男篮主场不敌韩国男篮（热度：94473）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8B%8D%E7%85%A7%E5%98%B4%E6%AD%AA%E8%84%B8%E6%96%9C%E6%9C%80%E7%AE%80%E5%8D%95%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F%23" target="weibo">
 拍照嘴歪脸斜最简单的解决方式（热度：94209）
 </a>
@@ -1437,6 +1467,12 @@ JDG官宣Zhuo离队（热度：92007）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AA%E5%8E%9F%E8%80%81%E8%91%9B%E8%A2%AB%E7%BD%9A560%E4%B8%87%E5%85%83%23" target="weibo">
+太原老葛被罚560万元（热度：90696）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E9%99%B6%E5%AE%9B%E7%90%83%E5%91%98%E9%BA%A6%E8%BF%AA%E9%99%84%E4%BD%939%E7%A7%929%E5%88%86%23" target="weibo">
 立陶宛球员麦迪附体9秒9分（热度：90682）
 </a>
@@ -1457,6 +1493,12 @@ JDG官宣Zhuo离队（热度：92007）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23ShowMaker%E5%9B%9E%E5%BA%94%E6%88%98%E6%9C%AF%E6%9A%82%E5%81%9C%E6%9C%BA%E5%88%B6%23" target="weibo">
 ShowMaker回应战术暂停机制（热度：89293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%AF%97%E5%B2%A9%E4%B8%89%E5%88%86%23" target="weibo">
+高诗岩三分（热度：89251）
 </a>
 </li>
 
@@ -1539,6 +1581,12 @@ ShowMaker回应战术暂停机制（热度：89293）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%92%BB%E6%BC%8F%E6%B4%9E%E4%B8%8B%E5%8D%95476%E7%AC%94%E8%96%85%E7%BE%8A%E6%AF%9B25%E4%B8%87%23" target="weibo">
+女子钻漏洞下单476笔薅羊毛25万（热度：83969）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%BA%E8%BF%AB%E7%97%87%E5%8C%85%E7%9A%84%E9%A5%BA%E5%AD%90%23" target="weibo">
 强迫症包的饺子（热度：83874）
 </a>
@@ -1553,6 +1601,12 @@ ShowMaker回应战术暂停机制（热度：89293）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%A4%BE%E5%8C%BA%E5%B0%8F%E8%AF%8A%E6%89%80%E8%A2%AB%E6%9B%9D%E5%BB%BA%E5%AF%86%E5%AE%A4%23" target="weibo">
 社区小诊所被曝建密室（热度：83074）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E7%A5%A8%E6%88%BF%E7%A0%B45%E4%BA%BF%23" target="weibo">
+疯狂动物城2票房破5亿（热度：83073）
 </a>
 </li>
 
@@ -1637,12 +1691,6 @@ Crisp回应Uzi复出传言（热度：78593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%8C%E5%B9%B2%E8%BE%BE98%25%E4%BA%B2%E5%AD%90%E9%89%B4%E5%AE%9A%E9%9D%9E%E4%BA%B2%E7%94%9F%23" target="weibo">
 乌干达98%亲子鉴定非亲生（热度：76194）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E9%92%BB%E6%BC%8F%E6%B4%9E%E4%B8%8B%E5%8D%95476%E7%AC%94%E8%96%85%E7%BE%8A%E6%AF%9B25%E4%B8%87%23" target="weibo">
-女子钻漏洞下单476笔薅羊毛25万（热度：76005）
 </a>
 </li>
 
@@ -1827,12 +1875,6 @@ oner再谈蒙多事件（热度：62724）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%AF%97%E5%B2%A9%E4%B8%89%E5%88%86%23" target="weibo">
-高诗岩三分（热度：59182）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%B9%9F%E5%86%85%E5%A8%B1%E5%A4%B4%E4%B8%AA%E8%AE%A9%E6%88%91%E6%B5%91%E8%BA%AB%E5%8F%91%E9%BA%BB%E7%9A%84%E8%89%BA%E4%BA%BA%23" target="weibo">
 刘也内娱头个让我浑身发麻的艺人（热度：59149）
 </a>
@@ -1905,12 +1947,6 @@ mlxg不建议Uzi复出（热度：57809）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E7%A5%A8%E6%88%BF%E7%A0%B45%E4%BA%BF%23" target="weibo">
-疯狂动物城2票房破5亿（热度：50826）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E7%B3%BB%E5%88%97%E8%8A%B1%E6%9D%9F%23" target="weibo">
 疯狂动物城2系列花束（热度：50598）
 </a>
@@ -1967,6 +2003,12 @@ mlxg不建议Uzi复出（热度：57809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A6%E8%88%9E%E4%B9%8B%E5%9F%8E%23" target="weibo">
 亦舞之城（热度：47658）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E5%90%8C%E5%A4%A9%E8%BF%8E%E5%A8%B6%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%23" target="weibo">
+双胞胎兄弟同天迎娶双胞胎姐妹（热度：47052）
 </a>
 </li>
 
@@ -2069,12 +2111,6 @@ mlxg不建议Uzi复出（热度：57809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E6%97%AC%E5%A5%B3%E5%AD%90%E8%AF%8A%E6%89%80%E8%BE%93%E6%B6%B2%E5%90%8E%E7%A6%BB%E4%B8%96%23" target="weibo">
 六旬女子诊所输液后离世（热度：36961）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8F%8C%E8%83%9E%E8%83%8E%E5%85%84%E5%BC%9F%E5%90%8C%E5%A4%A9%E8%BF%8E%E5%A8%B6%E5%8F%8C%E8%83%9E%E8%83%8E%E5%A7%90%E5%A6%B9%23" target="weibo">
-双胞胎兄弟同天迎娶双胞胎姐妹（热度：36728）
 </a>
 </li>
 

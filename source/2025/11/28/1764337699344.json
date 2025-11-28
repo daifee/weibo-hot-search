@@ -1,0 +1,410 @@
+{
+  "runTime": 1764337699344,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5708439,
+        "num": 5708439,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 571828,
+        "num": 571828,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1764331223,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 53697,
+        "num": 463401,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1764319103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419554,
+        "num": 419554,
+        "word": "疯狂动物城",
+        "onboard_time": 1764327502,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 408707,
+        "num": 408707,
+        "word": "香港廉政公署先后拘捕8人",
+        "onboard_time": 1764333442,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324926,
+        "num": 324926,
+        "word": "香港将下半旗志哀",
+        "onboard_time": 1764330803,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213816,
+        "num": 323542,
+        "word": "圆明园兽首出来那一刻人麻了",
+        "onboard_time": 1764323783,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142620,
+        "num": 318331,
+        "word": "盗摄",
+        "onboard_time": 1764323242,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120452,
+        "num": 318182,
+        "word": "小鹏报警",
+        "onboard_time": 1764337343,
+        "rank": 8,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 114447,
+        "num": 314879,
+        "word": "逍遥散人取消出席逆水寒赛事",
+        "onboard_time": 1764323181,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1592825,
+        "num": 308546,
+        "word": "禁毒",
+        "onboard_time": 1764324263,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 532195,
+        "num": 307635,
+        "word": "疑似范丞丞趁机表白",
+        "onboard_time": 1764332244,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 363973,
+        "num": 302179,
+        "word": "宋茜一秒看出曹骏挂脸",
+        "onboard_time": 1764331642,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 342109,
+        "num": 300329,
+        "word": "法院向吴亦凡经纪公司追缴诉讼费",
+        "onboard_time": 1764323063,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298201,
+        "num": 298201,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261004,
+        "num": 296980,
+        "word": "戚百草的草莓发卡是杨洋自费买的",
+        "onboard_time": 1764330982,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 237649,
+        "num": 295232,
+        "word": "当我开店取消了扫码点单",
+        "onboard_time": 1764326784,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217978,
+        "num": 293872,
+        "word": "王一博小气了是不是",
+        "onboard_time": 1764326484,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178362,
+        "num": 292816,
+        "word": "台政客与高市早苗办公桌合影被群嘲",
+        "onboard_time": 1764332604,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166039,
+        "num": 291625,
+        "word": "微信步数 窥探隐私",
+        "onboard_time": 1764327262,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 375008,
+        "num": 289249,
+        "word": "何穗产后首复工",
+        "onboard_time": 1764331342,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 289032,
+        "num": 289032,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 288499,
+        "num": 288499,
+        "word": "邱泽许玮甯婚礼现场",
+        "onboard_time": 1764324263,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138326,
+        "num": 287929,
+        "word": "童瑶",
+        "onboard_time": 1764323482,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83073,
+        "num": 282188,
+        "word": "疯狂动物城2票房破5亿",
+        "onboard_time": 1764336563,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 118879,
+        "num": 274442,
+        "word": "中国男篮半场落后韩国男篮13分",
+        "onboard_time": 1764337224,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 105233,
+        "num": 271989,
+        "word": "菲律宾误报7.5级地震",
+        "onboard_time": 1764337524,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 268308,
+        "num": 268308,
+        "word": "许玮甯亲完邱泽擦掉口红印",
+        "onboard_time": 1764335723,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103226,
+        "num": 268202,
+        "word": "TF家族 考核",
+        "onboard_time": 1764331342,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102468,
+        "num": 268060,
+        "word": "女子与老公吵架3个月患乳腺癌",
+        "onboard_time": 1764330382,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142853,
+        "num": 267645,
+        "word": "28岁确诊结肠癌晚期的真实感受",
+        "onboard_time": 1764337405,
+        "rank": 30,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 98362,
+        "num": 267452,
+        "word": "日本朝日集团道歉",
+        "onboard_time": 1764332244,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94473,
+        "num": 267102,
+        "word": "中国男篮主场不敌韩国男篮",
+        "onboard_time": 1764337584,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93936,
+        "num": 266981,
+        "word": "王楚钦孙颖莎成都混团对练",
+        "onboard_time": 1764335784,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93748,
+        "num": 266822,
+        "word": "吃生鱼片要了杯热水",
+        "onboard_time": 1764316882,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 91783,
+        "num": 266379,
+        "word": "肖战演一部美男奖励自己一部糙汉",
+        "onboard_time": 1764319283,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91376,
+        "num": 266148,
+        "word": "未来五年什么工作吃香",
+        "onboard_time": 1764324623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90696,
+        "num": 265916,
+        "word": "太原老葛被罚560万元",
+        "onboard_time": 1764337405,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89251,
+        "num": 265647,
+        "word": "高诗岩三分",
+        "onboard_time": 1764336863,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 47052,
+        "num": 265524,
+        "word": "双胞胎兄弟同天迎娶双胞胎姐妹",
+        "onboard_time": 1764336683,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84393,
+        "num": 265198,
+        "word": "泰国11头粉象大皇宫前整齐鞠躬",
+        "onboard_time": 1764331043,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 83969,
+        "num": 265080,
+        "word": "女子钻漏洞下单476笔薅羊毛25万",
+        "onboard_time": 1764334943,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81822,
+        "num": 264731,
+        "word": "香港大埔火灾约200人情况未明",
+        "onboard_time": 1764316943,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79606,
+        "num": 264475,
+        "word": "爱达邮轮取消所有日本目的地",
+        "onboard_time": 1764330624,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 78707,
+        "num": 264217,
+        "word": "彭昱畅三连辟谣",
+        "onboard_time": 1764332244,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 77060,
+        "num": 264072,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 74919,
+        "num": 263911,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56272,
+        "num": 263505,
+        "word": "哥的全宇宙 平行时空饭店",
+        "onboard_time": 1764328462,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50436,
+        "num": 263266,
+        "word": "唐诡奇谭",
+        "onboard_time": 1764331462,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45156,
+        "num": 263009,
+        "word": "疯片盗摄城",
+        "onboard_time": 1764319763,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
