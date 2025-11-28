@@ -1,0 +1,410 @@
+{
+  "runTime": 1764312851425,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1393035,
+        "num": 1393035,
+        "word": "香港大火已致94人遇难",
+        "onboard_time": 1764288261,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 113845,
+        "num": 746753,
+        "word": "雷军回应小米汽车续航测试",
+        "onboard_time": 1764299061,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 64402,
+        "num": 520639,
+        "word": "央视揭秘中国核电站内部",
+        "onboard_time": 1764307582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 239090,
+        "num": 497580,
+        "word": "正午阳光的第一部电影",
+        "onboard_time": 1764303262,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 493579,
+        "num": 493579,
+        "word": "美国被曝给日本躁动泼冷水",
+        "onboard_time": 1764305363,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1698444,
+        "num": 481353,
+        "word": "2026年起吸毒记录可封存",
+        "onboard_time": 1764301282,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 432381,
+        "num": 432381,
+        "word": "3名中国公民在塔遇袭身亡",
+        "onboard_time": 1764308901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 281351,
+        "num": 430593,
+        "word": "肖战彭昱畅周依然领衔主演",
+        "onboard_time": 1764296780,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125717,
+        "num": 426359,
+        "word": "iG的AD到底是谁",
+        "onboard_time": 1764311961,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99680,
+        "num": 420008,
+        "word": "CFO反方向的AL",
+        "onboard_time": 1764312681,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 35505,
+        "num": 415436,
+        "word": "冬天的第一桶炸鸡",
+        "onboard_time": 1764311601,
+        "rank": 10,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 986985,
+        "num": 410654,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 473130,
+        "num": 407613,
+        "word": "点外卖备注放门口的人最精了",
+        "onboard_time": 1764309862,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 403938,
+        "num": 403938,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 403763,
+        "num": 403763,
+        "word": "爸爸端火锅撞上儿子致其严重烫伤",
+        "onboard_time": 1764309382,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277433,
+        "num": 401976,
+        "word": "刘嘉玲的电话里全天王阵容",
+        "onboard_time": 1764310221,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263210,
+        "num": 386058,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1764301521,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217932,
+        "num": 378855,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203725,
+        "num": 356865,
+        "word": "邵子恒 现在女生喜欢男生哭",
+        "onboard_time": 1764311601,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176163,
+        "num": 351645,
+        "word": "向太称不会把上市公司交给儿子",
+        "onboard_time": 1764305182,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 623694,
+        "num": 336220,
+        "word": "南通文旅粉丝破百万",
+        "onboard_time": 1764309742,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87106,
+        "num": 327798,
+        "word": "雷军称继续向特斯拉学习",
+        "onboard_time": 1764310943,
+        "rank": 21,
+        "category": "互联网,汽车"
+      },
+      {
+        "raw_hot": 2107625,
+        "num": 310978,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1739452,
+        "num": 297825,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292054,
+        "num": 292054,
+        "word": "曝岳雨婷闯素人婚房讨喜糖",
+        "onboard_time": 1764302423,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285099,
+        "num": 285099,
+        "word": "刘耀文厕所门口全是人",
+        "onboard_time": 1764310042,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 191788,
+        "num": 285073,
+        "word": "张艺兴从来不扫家长兴的小孩",
+        "onboard_time": 1764312801,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40458,
+        "num": 284878,
+        "word": "酷滕天放兄弟情靠炸鸡续上了",
+        "onboard_time": 1764309862,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100104,
+        "num": 284819,
+        "word": "电影得闲谨制定档",
+        "onboard_time": 1764295520,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91020,
+        "num": 284684,
+        "word": "疯狂动物城3",
+        "onboard_time": 1764292521,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 153284,
+        "num": 284585,
+        "word": "日本胆敢染指台湾就是侵略中国本土",
+        "onboard_time": 1764304223,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149790,
+        "num": 284515,
+        "word": "苹果手机被偷一周收到骗子来电",
+        "onboard_time": 1764308482,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144121,
+        "num": 284342,
+        "word": "柯淳紧急撤回一个吐蒜皮",
+        "onboard_time": 1764312142,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97866,
+        "num": 284225,
+        "word": "广东调集救援装备等交付香港方面",
+        "onboard_time": 1764308421,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 135556,
+        "num": 284111,
+        "word": "香港火灾消防员逐户破门搜索",
+        "onboard_time": 1764311482,
+        "rank": 34,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 130510,
+        "num": 283986,
+        "word": "普京说重返G8太尴尬",
+        "onboard_time": 1764306624,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106672,
+        "num": 283955,
+        "word": "绿灯亮了占道不走罚200扣6分",
+        "onboard_time": 1764312082,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128015,
+        "num": 283839,
+        "word": "逍遥散人 米哈游",
+        "onboard_time": 1764305723,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 12903,
+        "num": 283678,
+        "word": "从受灾到入住新房只花了三个月",
+        "onboard_time": 1764312022,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57809,
+        "num": 283605,
+        "word": "mlxg不建议Uzi复出",
+        "onboard_time": 1764312621,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115984,
+        "num": 283413,
+        "word": "拿下她相当于拿下了热巴",
+        "onboard_time": 1764305182,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104117,
+        "num": 283311,
+        "word": "杭州偶遇孙杨夫妇逛街",
+        "onboard_time": 1764302121,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100145,
+        "num": 283267,
+        "word": "特朗普敲打高市早苗",
+        "onboard_time": 1764307101,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 90243,
+        "num": 283126,
+        "word": "宏福苑工程顾问公司2名董事被拘捕",
+        "onboard_time": 1764312562,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97298,
+        "num": 283050,
+        "word": "大使馆通报在塔中国公民遇袭",
+        "onboard_time": 1764312742,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 40580,
+        "num": 282879,
+        "word": "马嘉祺撑伞变装",
+        "onboard_time": 1764311422,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 95998,
+        "num": 282747,
+        "word": "等我老了也要过上这样的生活",
+        "onboard_time": 1764311362,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94413,
+        "num": 282704,
+        "word": "我好像知道大人为什么不怕鬼了",
+        "onboard_time": 1764311662,
+        "rank": 47,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 82095,
+        "num": 282553,
+        "word": "Milkyway回应假赛",
+        "onboard_time": 1764303262,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47702,
+        "num": 282400,
+        "word": "谢广坤丫蛋也被流放宁古塔了",
+        "onboard_time": 1764310822,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记坚持发展实业的深意#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 14:41:04
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 14:54:11
 </p>
 </blockquote>
 <p>
@@ -663,6 +663,12 @@ T1对战TES（热度：1793569）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98%23" target="weibo">
+2026年起吸毒记录可封存（热度：1698444）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E8%9C%9C%E8%BD%AC%E5%9C%BA%E5%8F%88%E7%81%AB%E4%BA%86%23" target="weibo">
 香蜜转场又火了（热度：1697992）
 </a>
@@ -689,12 +695,6 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%9D%E5%8D%93%E8%A1%A8%E5%BC%9F%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%B1%E8%81%94%23" target="weibo">
 仝卓表弟在柬埔寨失联（热度：1656699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98%23" target="weibo">
-2026年起吸毒记录可封存（热度：1655026）
 </a>
 </li>
 
@@ -4995,6 +4995,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85%E7%B2%89%E4%B8%9D%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
+南通文旅粉丝破百万（热度：623694）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8B%8F%E7%82%B3%E6%B7%BB%E8%B0%A2%E5%B9%95%E6%88%98%E6%8E%A5%E5%8A%9B%E7%AC%AC%E5%9B%9B%23" target="weibo">
 苏炳添谢幕战接力第四（热度：622510）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8D%A2%E6%98%B1%E6%99%93%20%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1%23" target="weibo">
 檀健次卢昱晓 何不同舟渡（热度：558766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA%E5%B7%B2%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%8B%E6%80%81%E5%8D%81%E5%88%86%E4%B8%A5%E9%87%8D%23" target="weibo">
-日本舆论已意识到事态十分严重（热度：558595）
 </a>
 </li>
 
