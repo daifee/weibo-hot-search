@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764334449886,
+  "endTime": 1764335292786,
   "band_list": [
     {
       "raw_hot": 8803300,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 658226,
-      "num": 358923,
+      "num": 399508,
       "word": "香港将下半旗志哀",
       "onboard_time": 1764330803,
       "rank": 4,
@@ -235,6 +235,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 564229,
+      "num": 402277,
+      "word": "香港廉政公署先后拘捕8人",
+      "onboard_time": 1764333442,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 564118,
       "num": 3436545,
       "word": "肖战彭昱畅周依然领衔主演",
@@ -275,6 +283,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 520824,
+      "num": 276748,
+      "word": "何穗产后首复工",
+      "onboard_time": 1764331342,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 496051,
+      "num": 359744,
+      "word": "杀害女同学男生听到判决面无表情",
+      "onboard_time": 1764327623,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 486427,
       "num": 2985003,
       "word": "肖战演一部美男奖励自己一部糙汉",
@@ -305,14 +329,6 @@
       "onboard_time": 1764309862,
       "rank": 13,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 472242,
-      "num": 267489,
-      "word": "何穗产后首复工",
-      "onboard_time": 1764331342,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 464801,
@@ -387,23 +403,23 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 408061,
-      "num": 331419,
-      "word": "杀害女同学男生听到判决面无表情",
-      "onboard_time": 1764327623,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 403883,
-      "num": 491578,
-      "word": "王一博小气了是不是",
-      "onboard_time": 1764326484,
-      "rank": 39,
+      "raw_hot": 419998,
+      "num": 356494,
+      "word": "宋茜一秒看出曹骏挂脸",
+      "onboard_time": 1764331642,
+      "rank": 13,
       "category": "综艺"
     },
     {
-      "raw_hot": 395988,
+      "raw_hot": 419722,
+      "num": 419722,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1764331223,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 407549,
       "num": 1119738,
       "word": "疯狂动物城",
       "onboard_time": 1764229762,
@@ -411,11 +427,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 388995,
-      "num": 326153,
-      "word": "宋茜一秒看出曹骏挂脸",
-      "onboard_time": 1764331642,
-      "rank": 13,
+      "raw_hot": 403883,
+      "num": 491578,
+      "word": "王一博小气了是不是",
+      "onboard_time": 1764326484,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -443,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 375262,
-      "num": 375262,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1764331223,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 368179,
       "num": 3880423,
       "word": "疯狂动物城3",
@@ -459,20 +467,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354606,
-      "num": 354606,
-      "word": "香港廉政公署先后拘捕8人",
-      "onboard_time": 1764333442,
-      "rank": 5,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353870,
       "num": 634685,
       "word": "盗摄",
       "onboard_time": 1764323242,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 351679,
+      "num": 351679,
+      "word": "戚百草的草莓发卡是杨洋自费买的",
+      "onboard_time": 1764330982,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 348208,
@@ -489,14 +497,6 @@
       "onboard_time": 1764252503,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 322315,
-      "num": 322315,
-      "word": "戚百草的草莓发卡是杨洋自费买的",
-      "onboard_time": 1764330982,
-      "rank": 14,
-      "category": "剧集"
     },
     {
       "raw_hot": 315419,
@@ -592,6 +592,14 @@
       "word": "刘嘉玲的电话里全天王阵容",
       "onboard_time": 1764310221,
       "rank": 17,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 276881,
+      "num": 276881,
+      "word": "疑似范丞丞趁机表白",
+      "onboard_time": 1764332244,
+      "rank": 18,
       "category": "综艺"
     },
     {
@@ -723,12 +731,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225894,
-      "num": 267599,
-      "word": "疑似范丞丞趁机表白",
-      "onboard_time": 1764332244,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 225217,
+      "num": 389631,
+      "word": "菲律宾7.5级地震",
+      "onboard_time": 1764335003,
+      "rank": 7,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 223525,
@@ -1019,6 +1027,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 165938,
+      "num": 330525,
+      "word": "微信步数 窥探隐私",
+      "onboard_time": 1764327262,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 164814,
       "num": 283413,
       "word": "拿下她相当于拿下了热巴",
@@ -1041,14 +1057,6 @@
       "onboard_time": 1764302361,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163112,
-      "num": 330525,
-      "word": "微信步数 窥探隐私",
-      "onboard_time": 1764327262,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 163070,
@@ -1116,7 +1124,7 @@
     },
     {
       "raw_hot": 154874,
-      "num": 267332,
+      "num": 276554,
       "word": "台政客与高市早苗办公桌合影被群嘲",
       "onboard_time": 1764332604,
       "rank": 24,
@@ -1372,7 +1380,7 @@
     },
     {
       "raw_hot": 126367,
-      "num": 267117,
+      "num": 276361,
       "word": "彭昱畅三连辟谣",
       "onboard_time": 1764332244,
       "rank": 28,
@@ -1420,7 +1428,7 @@
     },
     {
       "raw_hot": 121789,
-      "num": 267024,
+      "num": 276458,
       "word": "TF家族 考核",
       "onboard_time": 1764331342,
       "rank": 30,
@@ -1644,7 +1652,7 @@
     },
     {
       "raw_hot": 106636,
-      "num": 266953,
+      "num": 276260,
       "word": "女子与老公吵架3个月患乳腺癌",
       "onboard_time": 1764330382,
       "rank": 32,
@@ -1665,6 +1673,14 @@
       "onboard_time": 1764305543,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 104065,
+      "num": 276305,
+      "word": "日本朝日集团道歉",
+      "onboard_time": 1764332244,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102739,
@@ -1787,14 +1803,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 95143,
-      "num": 266884,
-      "word": "日本朝日集团道歉",
-      "onboard_time": 1764332244,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95001,
       "num": 2263391,
       "word": "河内公安vs北京国安",
@@ -1811,12 +1819,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 94005,
+      "num": 276211,
+      "word": "泰国11头粉象大皇宫前整齐鞠躬",
+      "onboard_time": 1764331043,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93614,
       "num": 1107973,
       "word": "宗馥莉一直在与娃哈哈集团切割",
       "onboard_time": 1764255502,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93204,
+      "num": 276174,
+      "word": "爱达邮轮取消所有日本目的地",
+      "onboard_time": 1764330624,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 92522,
@@ -1892,19 +1916,11 @@
     },
     {
       "raw_hot": 87738,
-      "num": 266743,
+      "num": 276414,
       "word": "唐诡奇谭",
       "onboard_time": 1764331462,
       "rank": 36,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 87370,
-      "num": 266687,
-      "word": "泰国11头粉象大皇宫前整齐鞠躬",
-      "onboard_time": 1764331043,
-      "rank": 37,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 86805,
@@ -1969,14 +1985,6 @@
       "onboard_time": 1764311601,
       "rank": 10,
       "category": "美食"
-    },
-    {
-      "raw_hot": 85315,
-      "num": 266590,
-      "word": "爱达邮轮取消所有日本目的地",
-      "onboard_time": 1764330624,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 85075,
@@ -2180,7 +2188,7 @@
     },
     {
       "raw_hot": 73868,
-      "num": 266428,
+      "num": 275881,
       "word": "张艺兴 现在团队挺多但还是得自己干",
       "onboard_time": 1764329962,
       "rank": 43,
@@ -2249,6 +2257,14 @@
       "onboard_time": 1764302301,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 70407,
+      "num": 275858,
+      "word": "女子钻漏洞下单476笔薅羊毛25万",
+      "onboard_time": 1764334943,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 70153,
@@ -2572,7 +2588,7 @@
     },
     {
       "raw_hot": 46360,
-      "num": 266117,
+      "num": 275713,
       "word": "王楚钦孙颖莎备战混团世界杯",
       "onboard_time": 1764330382,
       "rank": 49,
@@ -2705,6 +2721,14 @@
       "onboard_time": 1764295461,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35663,
+      "num": 276039,
+      "word": "中长期大额存单正在消失",
+      "onboard_time": 1764335003,
+      "rank": 39,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 35400,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 20:54:09
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 21:08:12
 </p>
 </blockquote>
 <p>
@@ -5955,6 +5955,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA%23" target="weibo">
+香港廉政公署先后拘捕8人（热度：564229）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BD%AD%E6%98%B1%E7%95%85%E5%91%A8%E4%BE%9D%E7%84%B6%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%23" target="weibo">
 肖战彭昱畅周依然领衔主演（热度：564118）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%99%92%E4%BA%86%E6%B8%85%E6%A5%9A%E7%89%88%E7%9A%84%E9%B9%BF%E6%99%97%23" target="weibo">
 陈赫晒了清楚版的鹿晗（热度：560962）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%91%B6%E4%B8%80%E7%91%B6%E7%88%B8%E7%88%B8%E8%A3%85%E6%88%90%E4%B9%9E%E4%B8%90%E6%B5%8B%E8%AF%95%E5%A5%B3%E5%84%BF%E5%8F%8D%E5%BA%94%23" target="weibo">
-瑶一瑶爸爸装成乞丐测试女儿反应（热度：560916）
 </a>
 </li>
 
