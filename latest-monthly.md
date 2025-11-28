@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 11:34:53
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 12:32:53
 </p>
 </blockquote>
 <p>
@@ -2025,6 +2025,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98%23" target="weibo">
+2026年起吸毒记录可封存（热度：1003500）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%23" target="weibo">
 恋与深空（热度：1002276）
 </a>
@@ -2255,6 +2261,12 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E7%94%9F%E8%A6%81%E5%B8%85%E5%93%A5%E5%BE%AE%E4%BF%A1%E5%9B%9E%E5%AE%B6%E5%8F%91%E7%8E%B0%E6%98%AF%E5%AE%8B%E5%A8%81%E9%BE%99%23" target="weibo">
 女生要帅哥微信回家发现是宋威龙（热度：942644）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85%E4%B8%80%E5%A4%9C%E6%B6%A8%E7%B2%89%E8%B6%8532%E4%B8%87%23" target="weibo">
+南通文旅一夜涨粉超32万（热度：941913）
 </a>
 </li>
 
@@ -3395,6 +3407,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%AE%E5%8D%9A%E8%A7%86%E7%95%8C%E5%A4%A7%E4%BC%9A%E5%86%85%E5%9C%BA%23" target="weibo">
 微博视界大会内场（热度：766353）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E5%B2%B3%E9%9B%A8%E5%A9%B7%E9%97%AF%E7%B4%A0%E4%BA%BA%E5%A9%9A%E6%88%BF%E8%AE%A8%E5%96%9C%E7%B3%96%23" target="weibo">
+曝岳雨婷闯素人婚房讨喜糖（热度：766089）
 </a>
 </li>
 
@@ -5993,24 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%95%E5%90%8C%E5%AD%A6%E7%A7%B0%E5%BD%93%E6%97%B6%E8%A2%AB%E5%90%93%E5%88%B0%E4%BA%86%23" target="weibo">
 何同学称当时被吓到了（热度：556087）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E4%B8%96%E4%B8%AD%E5%9B%BD%E9%83%91%E9%87%8D%E5%A3%B0%E6%98%8E%23" target="weibo">
-安世中国郑重声明（热度：556033）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%A9%E5%81%9A%E5%BE%AE%E5%88%9B%E6%89%8B%E6%9C%AF%E8%A2%AB%E5%88%87%E5%85%AD%E4%B8%AA%E5%99%A8%E5%AE%98%23" target="weibo">
-男孩做微创手术被切六个器官（热度：555978）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%A5%BD%E5%85%AD%E5%A4%9C%23" target="weibo">
-疯狂好六夜（热度：555432）
 </a>
 </li>
 
