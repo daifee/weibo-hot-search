@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764295079066,
+  "endTime": 1764296345320,
   "band_list": [
     {
       "raw_hot": 8176328,
@@ -19,12 +19,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1286294,
+      "num": 1286294,
+      "word": "电影得闲谨制定档",
+      "onboard_time": 1764295520,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1186788,
       "num": 1133548,
       "word": "郭碧婷女儿被孤立",
       "onboard_time": 1764256943,
       "rank": 20,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 815645,
+      "num": 4419668,
+      "word": "得闲谨制",
+      "onboard_time": 1764290721,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 689228,
@@ -43,6 +59,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 494654,
+      "num": 814093,
+      "word": "杀害女同学男生被判无期",
+      "onboard_time": 1764295700,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 453927,
       "num": 2930463,
       "word": "滇二娃致歉",
@@ -59,11 +83,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 360791,
-      "num": 4419668,
-      "word": "得闲谨制",
-      "onboard_time": 1764290721,
-      "rank": 3,
+      "raw_hot": 368179,
+      "num": 3880423,
+      "word": "疯狂动物城3",
+      "onboard_time": 1764292521,
+      "rank": 6,
       "category": "电影"
     },
     {
@@ -83,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311897,
-      "num": 3880423,
-      "word": "疯狂动物城3",
-      "onboard_time": 1764292521,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 332526,
+      "num": 868983,
+      "word": "烧烤店因擅自办演出被罚9万",
+      "onboard_time": 1764294441,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 309714,
@@ -131,7 +155,7 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 219159,
+      "raw_hot": 223525,
       "num": 3534144,
       "word": "香港消防员将搜索所有房屋",
       "onboard_time": 1764290302,
@@ -179,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 191031,
+      "num": 1183022,
+      "word": "孙颖莎与恩师女儿亲切合照",
+      "onboard_time": 1764293661,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 188256,
       "num": 1474207,
       "word": "新音下班晚",
@@ -209,14 +241,6 @@
       "onboard_time": 1764291862,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 168667,
-      "num": 1183022,
-      "word": "孙颖莎与恩师女儿亲切合照",
-      "onboard_time": 1764293661,
-      "rank": 18,
-      "category": "体育"
     },
     {
       "raw_hot": 167929,
@@ -259,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136432,
+      "num": 872572,
+      "word": "胡先煦 哪有老公啊",
+      "onboard_time": 1764288022,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 136063,
       "num": 878487,
       "word": "连云港47岁男子扭伤腰到诊所输液身亡",
@@ -267,12 +299,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126429,
-      "num": 872572,
-      "word": "胡先煦 哪有老公啊",
-      "onboard_time": 1764288022,
-      "rank": 26,
-      "category": "综艺"
+      "raw_hot": 131866,
+      "num": 845190,
+      "word": "高市早苗严重越线挑衅一意孤行",
+      "onboard_time": 1764292402,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 125390,
+      "num": 763033,
+      "word": "藕是最平价的滋补品",
+      "onboard_time": 1764295761,
+      "rank": 28,
+      "category": "美食"
     },
     {
       "raw_hot": 123079,
@@ -281,14 +321,6 @@
       "onboard_time": 1764240623,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 115892,
-      "num": 868983,
-      "word": "烧烤店因擅自办演出被罚9万",
-      "onboard_time": 1764294441,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114608,
@@ -307,6 +339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 108526,
+      "num": 4204262,
+      "word": "中国男篮对阵韩国大名单",
+      "onboard_time": 1764290362,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107596,
       "num": 850178,
       "word": "河狸已经连续啃了15分钟",
@@ -320,14 +360,6 @@
       "word": "男篮世预赛",
       "onboard_time": 1764293782,
       "rank": 1,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 103850,
-      "num": 3481505,
-      "word": "中国男篮对阵韩国大名单",
-      "onboard_time": 1764290362,
-      "rank": 8,
       "category": "体育"
     },
     {
@@ -347,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96405,
-      "num": 845190,
-      "word": "高市早苗严重越线挑衅一意孤行",
-      "onboard_time": 1764292402,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 95457,
       "num": 1959579,
       "word": "崩坏星穹铁道超话",
@@ -369,6 +393,14 @@
       "onboard_time": 1764256883,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 94209,
+      "num": 753433,
+      "word": "拍照嘴歪脸斜最简单的解决方式",
+      "onboard_time": 1764295882,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 93614,
@@ -425,6 +457,14 @@
       "onboard_time": 1764285438,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82984,
+      "num": 746078,
+      "word": "王楚钦惨遭小孩哥告状",
+      "onboard_time": 1764295761,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 82332,
@@ -595,6 +635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 62948,
+      "num": 718250,
+      "word": "曝不让江山男主从陈哲远换成杨洋",
+      "onboard_time": 1764296300,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 60135,
       "num": 1118175,
       "word": "怪奇物语",
@@ -723,6 +771,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 40029,
+      "num": 736779,
+      "word": "男子被指上班时间打游戏敷衍群众",
+      "onboard_time": 1764296001,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35774,
+      "num": 738385,
+      "word": "雨天把车衣盖好被老人一把拽走",
+      "onboard_time": 1764295461,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35400,
       "num": 1068149,
       "word": "刘耀文劝架黄子韬王鹤棣",
@@ -817,6 +881,14 @@
       "onboard_time": 1764269235,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 14930,
+      "num": 742872,
+      "word": "高市最新妄言太坏了",
+      "onboard_time": 1764296120,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 14458,

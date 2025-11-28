@@ -1,0 +1,410 @@
+{
+  "runTime": 1764296345320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7318033,
+        "num": 7318033,
+        "word": "香港大火已致94人遇难",
+        "onboard_time": 1764288261,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 108526,
+        "num": 4204262,
+        "word": "中国男篮对阵韩国大名单",
+        "onboard_time": 1764290362,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22005,
+        "num": 1394062,
+        "word": "行走大美中国",
+        "onboard_time": 1764261499,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1286294,
+        "num": 1286294,
+        "word": "电影得闲谨制定档",
+        "onboard_time": 1764295520,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241722,
+        "num": 904177,
+        "word": "香港大火已完成灭火程序",
+        "onboard_time": 1764286159,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 815645,
+        "num": 815645,
+        "word": "得闲谨制",
+        "onboard_time": 1764290721,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 494654,
+        "num": 814093,
+        "word": "杀害女同学男生被判无期",
+        "onboard_time": 1764295700,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 368179,
+        "num": 811297,
+        "word": "疯狂动物城3",
+        "onboard_time": 1764292521,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 83840,
+        "num": 809203,
+        "word": "樊振东胜利没有范本",
+        "onboard_time": 1764293481,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 51213,
+        "num": 807062,
+        "word": "男篮世预赛",
+        "onboard_time": 1764293782,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 343132,
+        "num": 804708,
+        "word": "彭小苒与男网红拍剧宣小视频",
+        "onboard_time": 1764289822,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332526,
+        "num": 802284,
+        "word": "烧烤店因擅自办演出被罚9万",
+        "onboard_time": 1764294441,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255369,
+        "num": 799929,
+        "word": "滇二娃致歉",
+        "onboard_time": 1764260840,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 223525,
+        "num": 797658,
+        "word": "香港消防员将搜索所有房屋",
+        "onboard_time": 1764290302,
+        "rank": 13,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 195640,
+        "num": 795400,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194896,
+        "num": 793489,
+        "word": "高市早苗再发谬论给自己壮胆",
+        "onboard_time": 1764285379,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191031,
+        "num": 790206,
+        "word": "孙颖莎与恩师女儿亲切合照",
+        "onboard_time": 1764293661,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 145865,
+        "num": 788582,
+        "word": "香港向每户灾民发1万港元补助",
+        "onboard_time": 1764241284,
+        "rank": 17,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142281,
+        "num": 786356,
+        "word": "美国将对委内瑞拉展开地面行动",
+        "onboard_time": 1764291862,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127993,
+        "num": 783912,
+        "word": "何以琛你终于也是将就了",
+        "onboard_time": 1764251604,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 873110,
+        "num": 782616,
+        "word": "郭碧婷女儿被孤立",
+        "onboard_time": 1764256943,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 278478,
+        "num": 778143,
+        "word": "大妈将贵的西兰苔掰断谎称西兰花",
+        "onboard_time": 1764289943,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150660,
+        "num": 775844,
+        "word": "穿袜子睡觉入睡时间缩短7.5分钟",
+        "onboard_time": 1764285798,
+        "rank": 22,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 136432,
+        "num": 775263,
+        "word": "胡先煦 哪有老公啊",
+        "onboard_time": 1764288022,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132504,
+        "num": 771306,
+        "word": "石破茂看中国媒体批评高市早苗视频",
+        "onboard_time": 1764288981,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 214560,
+        "num": 769331,
+        "word": "向佐郭碧婷把女儿养太好了",
+        "onboard_time": 1764290481,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131866,
+        "num": 767021,
+        "word": "高市早苗严重越线挑衅一意孤行",
+        "onboard_time": 1764292402,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128667,
+        "num": 765521,
+        "word": "睡觉出现这3种情况说明你变老了",
+        "onboard_time": 1764289041,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125390,
+        "num": 763033,
+        "word": "藕是最平价的滋补品",
+        "onboard_time": 1764295761,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 87400,
+        "num": 761301,
+        "word": "网友吐槽国产剧女主带妆起床",
+        "onboard_time": 1764254122,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 127690,
+        "num": 757617,
+        "word": "马克龙宣布将访华释放什么信号",
+        "onboard_time": 1764289041,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 111044,
+        "num": 755557,
+        "word": "十年前网购的商品今年到货",
+        "onboard_time": 1764285798,
+        "rank": 31,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 94209,
+        "num": 753433,
+        "word": "拍照嘴歪脸斜最简单的解决方式",
+        "onboard_time": 1764295882,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93211,
+        "num": 750426,
+        "word": "连云港47岁男子扭伤腰到诊所输液身亡",
+        "onboard_time": 1764289402,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91036,
+        "num": 749231,
+        "word": "小狗认为摸头是最幸福的事",
+        "onboard_time": 1764287660,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82984,
+        "num": 746078,
+        "word": "王楚钦惨遭小孩哥告状",
+        "onboard_time": 1764295761,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80880,
+        "num": 743119,
+        "word": "河狸已经连续啃了15分钟",
+        "onboard_time": 1764289583,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14930,
+        "num": 742872,
+        "word": "高市最新妄言太坏了",
+        "onboard_time": 1764296120,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35774,
+        "num": 738385,
+        "word": "雨天把车衣盖好被老人一把拽走",
+        "onboard_time": 1764295461,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40029,
+        "num": 736779,
+        "word": "男子被指上班时间打游戏敷衍群众",
+        "onboard_time": 1764296001,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79578,
+        "num": 735547,
+        "word": "四川产假最多218天",
+        "onboard_time": 1764289763,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 77527,
+        "num": 731605,
+        "word": "香港起火大楼内发现生还者",
+        "onboard_time": 1764225684,
+        "rank": 41,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 74905,
+        "num": 730764,
+        "word": "威海3.6级地震",
+        "onboard_time": 1764288681,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 70013,
+        "num": 727332,
+        "word": "蜜雪冰城早餐仅在部分城市试点",
+        "onboard_time": 1764254243,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68283,
+        "num": 725019,
+        "word": "胖东来羽绒服进价430卖价597",
+        "onboard_time": 1764242302,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67688,
+        "num": 723186,
+        "word": "运气不好的日子就早点上床睡觉",
+        "onboard_time": 1764294981,
+        "rank": 45,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 66814,
+        "num": 719584,
+        "word": "猫猫的眼里全是对自己出门的悔恨",
+        "onboard_time": 1764292162,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 62948,
+        "num": 718250,
+        "word": "曝不让江山男主从陈哲远换成杨洋",
+        "onboard_time": 1764296300,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 62934,
+        "num": 715108,
+        "word": "高层火灾该如何逃生",
+        "onboard_time": 1764293240,
+        "rank": 48,
+        "category": "科学科普,突发/灾害"
+      },
+      {
+        "raw_hot": 62345,
+        "num": 713727,
+        "word": "许昕夫妇已成立多家体育公司",
+        "onboard_time": 1764288201,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记坚持发展实业的深意#"
+    }
+  }
+}
