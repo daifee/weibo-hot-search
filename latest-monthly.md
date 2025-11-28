@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 15:27:36
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 15:40:56
 </p>
 </blockquote>
 <p>
@@ -65,6 +65,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%97%E9%80%9A%E6%8A%A5%E8%B5%A4%E8%A3%B8%E5%B0%8F%E5%AD%A9%E4%BA%8B%E4%BB%B6%23" target="weibo">
 云南通报赤裸小孩事件（热度：9324816）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港大埔火灾已致128人遇难（热度：8803300）
 </a>
 </li>
 
@@ -155,12 +161,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E6%9C%8975%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 香港火灾已有75人遇难（热度：5464937）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-香港大埔火灾已致128人遇难（热度：5044773）
 </a>
 </li>
 

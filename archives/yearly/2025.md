@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/01/01 00:26:38 ~ 2025/11/28 15:27:36
+本榜单时间：2025/01/01 00:26:38 ~ 2025/11/28 15:40:56
 </p>
 </blockquote>
 <p>
@@ -1251,6 +1251,12 @@ SU7爆燃遇难者父亲称小米仍没来联系（热度：14691299）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港大埔火灾已致128人遇难（热度：8803300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E7%A2%A7%E6%99%A8%E6%96%B9%E7%A7%B0%E4%BA%AB%E6%9C%89%E5%B9%B4%E8%BD%AE%E6%B0%B8%E4%B9%85%E6%BC%94%E5%94%B1%E6%9D%83%E5%88%A9%23" target="weibo">
 张碧晨方称享有年轮永久演唱权利（热度：8778816）
 </a>
@@ -1805,12 +1811,6 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E4%BD%B3%E8%96%87%E5%A4%AA%E7%89%9B%E4%BA%86%23" target="weibo">
 李佳薇太牛了（热度：6390116）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B444%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-香港火灾已致44人遇难（热度：6227507）
 </a>
 </li>
 

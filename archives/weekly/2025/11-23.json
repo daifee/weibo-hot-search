@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764314856263,
+  "endTime": 1764315656902,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -17,6 +17,14 @@
       "onboard_time": 1764215484,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 8803300,
+      "num": 10053300,
+      "word": "香港大埔火灾已致128人遇难",
+      "onboard_time": 1764313942,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 8176328,
@@ -41,14 +49,6 @@
       "onboard_time": 1764255204,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 5044773,
-      "num": 6294773,
-      "word": "香港大埔火灾已致128人遇难",
-      "onboard_time": 1764313942,
-      "rank": 0,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 3367452,
@@ -1716,7 +1716,7 @@
     },
     {
       "raw_hot": 559549,
-      "num": 1864887,
+      "num": 1993887,
       "word": "美国被曝给日本躁动泼冷水",
       "onboard_time": 1764305363,
       "rank": 12,
@@ -3843,6 +3843,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 310155,
+      "num": 254946,
+      "word": "结婚当天睡过头了",
+      "onboard_time": 1764313763,
+      "rank": 30,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 310069,
       "num": 2527373,
       "word": "千里江山图开机",
@@ -3969,6 +3977,14 @@
       "onboard_time": 1763968462,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 299764,
+      "num": 254875,
+      "word": "沈腾 这居然是白敬亭",
+      "onboard_time": 1764313702,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 299002,
@@ -4731,6 +4747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 255293,
+      "num": 255293,
+      "word": "王一博说前两年工作太多",
+      "onboard_time": 1764314783,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 255041,
       "num": 199858,
       "word": "刘宇宁 开美颜咋了",
@@ -4753,6 +4777,14 @@
       "onboard_time": 1764157763,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 254711,
+      "num": 254711,
+      "word": "她可是当年的知画啊",
+      "onboard_time": 1764313820,
+      "rank": 22,
+      "category": "剧集"
     },
     {
       "raw_hot": 254114,
@@ -5251,14 +5283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 230183,
-      "num": 220135,
-      "word": "结婚当天睡过头了",
-      "onboard_time": 1764313763,
-      "rank": 30,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 230145,
       "num": 230145,
       "word": "章若楠在减肥",
@@ -5331,6 +5355,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 228234,
+      "num": 254662,
+      "word": "男子连续便秘十多天肠道堵满肿瘤",
+      "onboard_time": 1764314422,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 228093,
       "num": 2015763,
       "word": "一张截图钓出多少反华党",
@@ -5369,14 +5401,6 @@
       "onboard_time": 1763886199,
       "rank": 27,
       "category": "电影"
-    },
-    {
-      "raw_hot": 226179,
-      "num": 226179,
-      "word": "沈腾 这居然是白敬亭",
-      "onboard_time": 1764313702,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 225032,
@@ -5929,14 +5953,6 @@
       "onboard_time": 1764154944,
       "rank": 26,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203041,
-      "num": 225805,
-      "word": "她可是当年的知画啊",
-      "onboard_time": 1764313820,
-      "rank": 22,
-      "category": "剧集"
     },
     {
       "raw_hot": 202929,
@@ -7356,7 +7372,7 @@
     },
     {
       "raw_hot": 174386,
-      "num": 218126,
+      "num": 253057,
       "word": "迪丽热巴手上还有输液的淤青",
       "onboard_time": 1764304461,
       "rank": 40,
@@ -7747,6 +7763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 166281,
+      "num": 869389,
+      "word": "阴阳师百闻牌运营内容停更",
+      "onboard_time": 1764315443,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 166166,
       "num": 346572,
       "word": "何老师这期压力小了",
@@ -7899,6 +7923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163070,
+      "num": 910664,
+      "word": "iG的AD到底是谁",
+      "onboard_time": 1764311961,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 163053,
       "num": 164833,
       "word": "女子花500块买下将被吃掉的边牧",
@@ -7921,6 +7953,14 @@
       "onboard_time": 1764118882,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 162916,
+      "num": 254058,
+      "word": "彭昱畅 普通人闯娱乐圈",
+      "onboard_time": 1764314062,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 162611,
@@ -8675,12 +8715,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 149007,
-      "num": 910664,
-      "word": "iG的AD到底是谁",
-      "onboard_time": 1764311961,
-      "rank": 37,
-      "category": "电竞"
+      "raw_hot": 149011,
+      "num": 253971,
+      "word": "中方亮剑",
+      "onboard_time": 1764315504,
+      "rank": 35,
+      "category": "国内时政"
     },
     {
       "raw_hot": 148999,
@@ -8763,14 +8803,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 147468,
-      "num": 223740,
-      "word": "彭昱畅 普通人闯娱乐圈",
-      "onboard_time": 1764314062,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 146988,
       "num": 260088,
       "word": "恩利有秦昊在就有安全感",
@@ -8801,6 +8833,14 @@
       "onboard_time": 1763984182,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 146749,
+      "num": 253904,
+      "word": "再见爱人积大德了",
+      "onboard_time": 1764314482,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 146738,
@@ -9075,6 +9115,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 141599,
+      "num": 253810,
+      "word": "王安宇 顶顶好的人",
+      "onboard_time": 1764314603,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 141557,
       "num": 1597206,
       "word": "枭起青壤云合S加级",
@@ -9187,14 +9235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 140090,
-      "num": 222291,
-      "word": "男子连续便秘十多天肠道堵满肿瘤",
-      "onboard_time": 1764314422,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 139990,
       "num": 199131,
       "word": "Faker回应S赛BO5面对LPL全胜",
@@ -9265,6 +9305,14 @@
       "onboard_time": 1764306982,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138896,
+      "num": 253653,
+      "word": "网红厚本 谁定义的美和丑",
+      "onboard_time": 1764313402,
+      "rank": 33,
+      "category": "网红"
     },
     {
       "raw_hot": 138524,
@@ -9787,6 +9835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 131794,
+      "num": 254458,
+      "word": "再见爱人现实版玫瑰的故事",
+      "onboard_time": 1764314362,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131271,
       "num": 131271,
       "word": "胡杏儿李乘德结婚10周年派对",
@@ -9873,6 +9929,14 @@
       "onboard_time": 1764038719,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 130214,
+      "num": 832452,
+      "word": "FPX.ZQ对战北京WBG",
+      "onboard_time": 1764313461,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 130145,
@@ -10033,14 +10097,6 @@
       "onboard_time": 1764242364,
       "rank": 43,
       "category": "情感"
-    },
-    {
-      "raw_hot": 128115,
-      "num": 219571,
-      "word": "网红厚本 谁定义的美和丑",
-      "onboard_time": 1764313402,
-      "rank": 33,
-      "category": "网红"
     },
     {
       "raw_hot": 128061,
@@ -10643,14 +10699,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 120496,
-      "num": 219297,
-      "word": "再见爱人积大德了",
-      "onboard_time": 1764314482,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 120035,
       "num": 120035,
       "word": "女孩考教师编失败山东大集卖麻糍",
@@ -10897,14 +10945,6 @@
       "onboard_time": 1764169045,
       "rank": 43,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117728,
-      "num": 221543,
-      "word": "再见爱人现实版玫瑰的故事",
-      "onboard_time": 1764314362,
-      "rank": 28,
-      "category": "综艺"
     },
     {
       "raw_hot": 117717,
@@ -11243,14 +11283,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113894,
-      "num": 218662,
-      "word": "王安宇 顶顶好的人",
-      "onboard_time": 1764314603,
-      "rank": 40,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 113892,
       "num": 242706,
       "word": "网曝印度旅游团义乌偷东西",
@@ -11489,6 +11521,14 @@
       "onboard_time": 1764121880,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 111217,
+      "num": 253332,
+      "word": "人 咪的脚好像在消失",
+      "onboard_time": 1764315384,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 110985,
@@ -11753,6 +11793,14 @@
       "onboard_time": 1763949259,
       "rank": 41,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 108702,
+      "num": 254385,
+      "word": "香港大埔已完成灭火工作",
+      "onboard_time": 1764314722,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108686,
@@ -13507,6 +13555,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 92007,
+      "num": 254255,
+      "word": "JDG官宣Zhuo离队",
+      "onboard_time": 1764314903,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 91753,
       "num": 160196,
       "word": "解放军报发文",
@@ -13593,14 +13649,6 @@
       "onboard_time": 1763970741,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 90580,
-      "num": 217859,
-      "word": "王一博说前两年工作太多",
-      "onboard_time": 1764314783,
-      "rank": 45,
-      "category": "综艺"
     },
     {
       "raw_hot": 90541,
@@ -13907,14 +13955,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 87058,
-      "num": 218963,
-      "word": "香港大埔已完成灭火工作",
-      "onboard_time": 1764314722,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87040,
       "num": 1285828,
       "word": "再过五年00后就30了",
@@ -13969,6 +14009,14 @@
       "onboard_time": 1764076763,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 86261,
+      "num": 255191,
+      "word": "高市早苗暗示涉台狂言是即兴发挥",
+      "onboard_time": 1764315022,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 86231,
@@ -14076,7 +14124,7 @@
     },
     {
       "raw_hot": 85345,
-      "num": 543460,
+      "num": 743888,
       "word": "冬天的第一桶炸鸡",
       "onboard_time": 1764311601,
       "rank": 10,
@@ -14635,14 +14683,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77533,
-      "num": 832452,
-      "word": "FPX.ZQ对战北京WBG",
-      "onboard_time": 1764313461,
-      "rank": 9,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 77427,
       "num": 828152,
       "word": "威海3.6级地震",
@@ -15051,6 +15091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 69735,
+      "num": 255077,
+      "word": "夸克AI眼镜持续霸榜第一",
+      "onboard_time": 1764313402,
+      "rank": 19,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69687,
       "num": 320421,
       "word": "张桂源少年人夫感",
@@ -15425,14 +15473,6 @@
       "onboard_time": 1764214703,
       "rank": 17,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 61420,
-      "num": 227491,
-      "word": "夸克AI眼镜持续霸榜第一",
-      "onboard_time": 1764313402,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 61104,
@@ -17059,6 +17099,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 30669,
+      "num": 253759,
+      "word": "儿媳遇车祸成植物人婆婆借100万救命",
+      "onboard_time": 1764314903,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30579,
       "num": 117874,
       "word": "刘耀文 最要面子的每次都没面子",
@@ -17257,6 +17305,14 @@
       "onboard_time": 1764156622,
       "rank": 1,
       "category": "民生新闻,科学科普"
+    },
+    {
+      "raw_hot": 25936,
+      "num": 255212,
+      "word": "地铁回应查充电宝3C认证",
+      "onboard_time": 1764314903,
+      "rank": 17,
+      "category": "民生新闻,数码"
     },
     {
       "raw_hot": 25767,
