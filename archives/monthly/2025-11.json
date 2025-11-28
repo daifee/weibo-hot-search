@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764350679482,
+  "endTime": 1764351649554,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -8491,6 +8491,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 544346,
+      "num": 957562,
+      "word": "普京宣布与乌克兰停火条件",
+      "onboard_time": 1764346641,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 543532,
       "num": 188346,
       "word": "孙颖莎点赞",
@@ -11593,14 +11601,6 @@
       "onboard_time": 1762610122,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 443521,
-      "num": 957562,
-      "word": "普京宣布与乌克兰停火条件",
-      "onboard_time": 1764346641,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 443472,
@@ -94537,6 +94537,14 @@
       "onboard_time": 1763628441,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25588,
+      "num": 270127,
+      "word": "第一次在综艺里看送房产证的",
+      "onboard_time": 1764350238,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 25587,
