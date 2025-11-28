@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764322149322,
+  "endTime": 1764322958683,
   "band_list": [
     {
       "raw_hot": 8803300,
@@ -83,19 +83,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1073392,
+      "num": 894725,
+      "word": "南通文旅粉丝量破200万",
+      "onboard_time": 1764319222,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 941913,
       "num": 941913,
       "word": "南通文旅一夜涨粉超32万",
       "onboard_time": 1764301041,
       "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 894725,
-      "num": 894725,
-      "word": "南通文旅粉丝量破200万",
-      "onboard_time": 1764319222,
-      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -324,7 +324,7 @@
     },
     {
       "raw_hot": 376154,
-      "num": 376154,
+      "num": 421110,
       "word": "向太称不会把上市公司交给儿子",
       "onboard_time": 1764305182,
       "rank": 44,
@@ -451,6 +451,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 269450,
+      "num": 4024444,
+      "word": "疯片盗摄城",
+      "onboard_time": 1764319763,
+      "rank": 49,
+      "category": "电影"
+    },
+    {
       "raw_hot": 265631,
       "num": 256132,
       "word": "天书黎明定档",
@@ -553,14 +561,6 @@
       "onboard_time": 1764314422,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 228080,
-      "num": 4024444,
-      "word": "疯片盗摄城",
-      "onboard_time": 1764319763,
-      "rank": 49,
-      "category": "电影"
     },
     {
       "raw_hot": 223525,
@@ -1107,6 +1107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 129022,
+      "num": 503611,
+      "word": "易烊千玺刘亦菲给咖啡整成高奢了",
+      "onboard_time": 1764322042,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128982,
       "num": 465338,
       "word": "恋与深空",
@@ -1147,6 +1155,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120846,
+      "num": 506999,
+      "word": "婆婆借100万照顾车祸儿媳5年",
+      "onboard_time": 1764320602,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120659,
+      "num": 508334,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1764270314,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 119886,
       "num": 1974910,
       "word": "DeepSeek新模型有多猛",
@@ -1179,19 +1203,19 @@
       "category": "体育"
     },
     {
+      "raw_hot": 116978,
+      "num": 500537,
+      "word": "自制木薯糖水结果吃中毒了",
+      "onboard_time": 1764322102,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 115902,
       "num": 260090,
       "word": "被害女孩妈妈说凶手回来补刀",
       "onboard_time": 1764302842,
       "rank": 35,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 115372,
-      "num": 506999,
-      "word": "婆婆借100万照顾车祸儿媳5年",
-      "onboard_time": 1764320602,
-      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -1419,14 +1443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 98893,
-      "num": 508334,
-      "word": "喜人奇妙夜",
-      "onboard_time": 1764270314,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 97298,
       "num": 283050,
       "word": "大使馆通报在塔中国公民遇袭",
@@ -1473,14 +1489,6 @@
       "onboard_time": 1764295882,
       "rank": 32,
       "category": "情感"
-    },
-    {
-      "raw_hot": 93666,
-      "num": 500537,
-      "word": "自制木薯糖水结果吃中毒了",
-      "onboard_time": 1764322102,
-      "rank": 43,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 93614,
@@ -1828,7 +1836,7 @@
     },
     {
       "raw_hot": 69735,
-      "num": 255077,
+      "num": 415957,
       "word": "夸克AI眼镜持续霸榜第一",
       "onboard_time": 1764313402,
       "rank": 19,
@@ -2003,6 +2011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51799,
+      "num": 416651,
+      "word": "香港大火致12名消防人员受伤",
+      "onboard_time": 1764322581,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51496,
       "num": 863505,
       "word": "疯狂动物城4D版 热力追踪",
@@ -2131,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 40395,
+      "num": 420039,
+      "word": "侯明昊碧血蝉打戏",
+      "onboard_time": 1764322762,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40340,
       "num": 664994,
       "word": "1集狠人2集主人3集我的夫人",
@@ -2145,6 +2169,14 @@
       "onboard_time": 1764296001,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 37287,
+      "num": 416115,
+      "word": "2026多哈赛国乒参赛名单",
+      "onboard_time": 1764317244,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 36274,
@@ -2179,19 +2211,19 @@
       "category": "辟谣/通报"
     },
     {
-      "raw_hot": 33055,
-      "num": 503611,
-      "word": "易烊千玺刘亦菲给咖啡整成高奢了",
-      "onboard_time": 1764322042,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32428,
       "num": 834260,
       "word": "2男子徒步梅里雪山失联超120天",
       "onboard_time": 1764294500,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32268,
+      "num": 3659789,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1764319103,
+      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2216,14 +2248,6 @@
       "word": "儿媳遇车祸成植物人婆婆借100万救命",
       "onboard_time": 1764314903,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30341,
-      "num": 122474,
-      "word": "12月这些新规影响你我",
-      "onboard_time": 1764319103,
-      "rank": 41,
       "category": "民生新闻"
     },
     {
@@ -2345,6 +2369,14 @@
       "onboard_time": 1764250464,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 12918,
+      "num": 4912161,
+      "word": "孙颖莎参加wtt多哈冠军赛2026",
+      "onboard_time": 1764320422,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 12903,

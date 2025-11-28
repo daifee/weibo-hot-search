@@ -1,0 +1,410 @@
+{
+  "runTime": 1764322958683,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8054294,
+        "num": 8054294,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 12918,
+        "num": 4912161,
+        "word": "孙颖莎参加wtt多哈冠军赛2026",
+        "onboard_time": 1764320422,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32268,
+        "num": 3659789,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1764319103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269450,
+        "num": 2660447,
+        "word": "疯片盗摄城",
+        "onboard_time": 1764319763,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 249775,
+        "num": 1259243,
+        "word": "香港大埔火灾约200人情况未明",
+        "onboard_time": 1764316943,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 436770,
+        "num": 436770,
+        "word": "肖战演一部美男奖励自己一部糙汉",
+        "onboard_time": 1764319283,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178034,
+        "num": 436525,
+        "word": "3名中国公民在塔遇袭身亡",
+        "onboard_time": 1764308901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 145271,
+        "num": 435056,
+        "word": "再见爱人现实版玫瑰的故事",
+        "onboard_time": 1764314362,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139865,
+        "num": 434032,
+        "word": "阴阳师百闻牌运营内容停更",
+        "onboard_time": 1764315443,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 72965,
+        "num": 432094,
+        "word": "ShowMaker回应战术暂停机制",
+        "onboard_time": 1764317423,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 489297,
+        "num": 430665,
+        "word": "吃生鱼片要了杯热水",
+        "onboard_time": 1764316882,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430412,
+        "num": 430412,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261785,
+        "num": 430408,
+        "word": "王梓莼和张子枫是舍友",
+        "onboard_time": 1764317903,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229321,
+        "num": 429933,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206340,
+        "num": 429485,
+        "word": "高市早苗暗示涉台狂言是即兴发挥",
+        "onboard_time": 1764315022,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 204087,
+        "num": 429073,
+        "word": "王安宇给沈腾拍成大佬了",
+        "onboard_time": 1764318504,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187463,
+        "num": 428523,
+        "word": "王一博说前两年工作太多",
+        "onboard_time": 1764314783,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 172005,
+        "num": 428396,
+        "word": "点外卖备注放门口的人最精了",
+        "onboard_time": 1764309862,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 169068,
+        "num": 427888,
+        "word": "爸爸端火锅撞上儿子致其严重烫伤",
+        "onboard_time": 1764309382,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 135845,
+        "num": 427674,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1764301521,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 844239,
+        "num": 427022,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261066,
+        "num": 426620,
+        "word": "中央政治局召开会议",
+        "onboard_time": 1764319283,
+        "rank": 21,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 214510,
+        "num": 426220,
+        "word": "中方亮剑",
+        "onboard_time": 1764315504,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135660,
+        "num": 425900,
+        "word": "话费最低50元起充",
+        "onboard_time": 1764317484,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533293,
+        "num": 425562,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1073392,
+        "num": 425330,
+        "word": "南通文旅粉丝量破200万",
+        "onboard_time": 1764319222,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203303,
+        "num": 424884,
+        "word": "普京亲自带货中国电动车",
+        "onboard_time": 1764318203,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168848,
+        "num": 424215,
+        "word": "结婚当天睡过头了",
+        "onboard_time": 1764313763,
+        "rank": 27,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 129022,
+        "num": 423827,
+        "word": "易烊千玺刘亦菲给咖啡整成高奢了",
+        "onboard_time": 1764322042,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122208,
+        "num": 423690,
+        "word": "王楚钦缺席WTT多哈冠军赛",
+        "onboard_time": 1764318504,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120846,
+        "num": 423274,
+        "word": "婆婆借100万照顾车祸儿媳5年",
+        "onboard_time": 1764320602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120659,
+        "num": 422738,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1764321562,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116978,
+        "num": 422397,
+        "word": "自制木薯糖水结果吃中毒了",
+        "onboard_time": 1764322102,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 114520,
+        "num": 422154,
+        "word": "张予曦在机场接上商务了",
+        "onboard_time": 1764317903,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112163,
+        "num": 421778,
+        "word": "逍遥散人 米哈游",
+        "onboard_time": 1764305723,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 107402,
+        "num": 421110,
+        "word": "向太称不会把上市公司交给儿子",
+        "onboard_time": 1764305182,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106992,
+        "num": 420764,
+        "word": "华为Mate80晨曦金版本已售罄",
+        "onboard_time": 1764315863,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 99069,
+        "num": 420370,
+        "word": "刘耀文厕所门口全是人",
+        "onboard_time": 1764310042,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40395,
+        "num": 420039,
+        "word": "侯明昊碧血蝉打戏",
+        "onboard_time": 1764322762,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99051,
+        "num": 419737,
+        "word": "她可是当年的知画啊",
+        "onboard_time": 1764313820,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97223,
+        "num": 419148,
+        "word": "美国被曝给日本躁动泼冷水",
+        "onboard_time": 1764305363,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96728,
+        "num": 418845,
+        "word": "韩雨彤曾辉又去吃铁锅炖了",
+        "onboard_time": 1764319942,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89679,
+        "num": 418487,
+        "word": "人 咪的脚好像在消失",
+        "onboard_time": 1764315384,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87931,
+        "num": 418328,
+        "word": "怎么穷的时候偏让我赶上了",
+        "onboard_time": 1764319103,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87844,
+        "num": 417807,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85425,
+        "num": 417347,
+        "word": "白鹿美食和美貌二选一",
+        "onboard_time": 1764321742,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83522,
+        "num": 417121,
+        "word": "官方通报小学午休收取费用",
+        "onboard_time": 1764317302,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 51799,
+        "num": 416651,
+        "word": "香港大火致12名消防人员受伤",
+        "onboard_time": 1764322581,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37287,
+        "num": 416115,
+        "word": "2026多哈赛国乒参赛名单",
+        "onboard_time": 1764317244,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22173,
+        "num": 415957,
+        "word": "夸克AI眼镜持续霸榜第一",
+        "onboard_time": 1764313402,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
