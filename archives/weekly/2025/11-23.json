@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764329898886,
+  "endTime": 1764334449886,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -1427,6 +1427,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 658226,
+      "num": 358923,
+      "word": "香港将下半旗志哀",
+      "onboard_time": 1764330803,
+      "rank": 4,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 653145,
       "num": 1022130,
       "word": "女教师拒绝与男友发生性关系遭杀害",
@@ -2355,6 +2363,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 472242,
+      "num": 267489,
+      "word": "何穗产后首复工",
+      "onboard_time": 1764331342,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 469145,
       "num": 469145,
       "word": "日本砸131亿日元在台搞媚日宣传",
@@ -2867,6 +2883,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 408061,
+      "num": 331419,
+      "word": "杀害女同学男生听到判决面无表情",
+      "onboard_time": 1764327623,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 407041,
       "num": 359369,
       "word": "刘耀文哀牢山录制先导片",
@@ -3059,6 +3083,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 388995,
+      "num": 326153,
+      "word": "宋茜一秒看出曹骏挂脸",
+      "onboard_time": 1764331642,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 388147,
       "num": 417817,
       "word": "万科一笔20亿元境内债寻求展期",
@@ -3177,6 +3209,14 @@
       "onboard_time": 1764305182,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 375262,
+      "num": 375262,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1764331223,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 371708,
@@ -3425,6 +3465,14 @@
       "onboard_time": 1763821943,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 354606,
+      "num": 354606,
+      "word": "香港廉政公署先后拘捕8人",
+      "onboard_time": 1764333442,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 354392,
@@ -3825,6 +3873,14 @@
       "onboard_time": 1764166705,
       "rank": 16,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 322315,
+      "num": 322315,
+      "word": "戚百草的草莓发卡是杨洋自费买的",
+      "onboard_time": 1764330982,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 321270,
@@ -5585,6 +5641,14 @@
       "onboard_time": 1763886199,
       "rank": 27,
       "category": "电影"
+    },
+    {
+      "raw_hot": 225894,
+      "num": 267599,
+      "word": "疑似范丞丞趁机表白",
+      "onboard_time": 1764332244,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 225032,
@@ -8163,6 +8227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 163112,
+      "num": 330525,
+      "word": "微信步数 窥探隐私",
+      "onboard_time": 1764327262,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 163070,
       "num": 910664,
       "word": "iG的AD到底是谁",
@@ -8249,6 +8321,14 @@
       "onboard_time": 1763815222,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 162017,
+      "num": 267348,
+      "word": "王一博 小气了是不是",
+      "onboard_time": 1764333802,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 161979,
@@ -8641,6 +8721,14 @@
       "onboard_time": 1763890400,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154874,
+      "num": 267332,
+      "word": "台政客与高市早苗办公桌合影被群嘲",
+      "onboard_time": 1764332604,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 154832,
@@ -10499,6 +10587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126367,
+      "num": 267117,
+      "word": "彭昱畅三连辟谣",
+      "onboard_time": 1764332244,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126318,
       "num": 126318,
       "word": "檀健次空枪片场路透",
@@ -10881,6 +10977,14 @@
       "onboard_time": 1764219866,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121789,
+      "num": 267024,
+      "word": "TF家族 考核",
+      "onboard_time": 1764331342,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 121767,
@@ -12427,6 +12531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 106636,
+      "num": 266953,
+      "word": "女子与老公吵架3个月患乳腺癌",
+      "onboard_time": 1764330382,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106592,
       "num": 157951,
       "word": "0人看完这4集能不笑纳",
@@ -13635,12 +13747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95083,
-      "num": 331419,
-      "word": "杀害女同学男生听到判决面无表情",
-      "onboard_time": 1764327623,
-      "rank": 43,
-      "category": "民生新闻"
+      "raw_hot": 95143,
+      "num": 266884,
+      "word": "日本朝日集团道歉",
+      "onboard_time": 1764332244,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95045,
@@ -14099,14 +14211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 89827,
-      "num": 330525,
-      "word": "微信步数 窥探隐私",
-      "onboard_time": 1764327262,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 89817,
       "num": 1882835,
       "word": "吴樾给自己设计了个龟背蛇腰",
@@ -14371,6 +14475,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 87738,
+      "num": 266743,
+      "word": "唐诡奇谭",
+      "onboard_time": 1764331462,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 87467,
       "num": 424022,
       "word": "香港4家快餐店免费提供1000份早餐",
@@ -14393,6 +14505,14 @@
       "onboard_time": 1764033800,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87370,
+      "num": 266687,
+      "word": "泰国11头粉象大皇宫前整齐鞠躬",
+      "onboard_time": 1764331043,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 87040,
@@ -14585,6 +14705,14 @@
       "onboard_time": 1764059601,
       "rank": 28,
       "category": "数码"
+    },
+    {
+      "raw_hot": 85315,
+      "num": 266590,
+      "word": "爱达邮轮取消所有日本目的地",
+      "onboard_time": 1764330624,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 85291,
@@ -14801,6 +14929,14 @@
       "onboard_time": 1763872340,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82759,
+      "num": 335021,
+      "word": "香港禁止进口日本10地的水产食品",
+      "onboard_time": 1764328824,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82753,
@@ -15403,6 +15539,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 73868,
+      "num": 266428,
+      "word": "张艺兴 现在团队挺多但还是得自己干",
+      "onboard_time": 1764329962,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 73662,
       "num": 1620206,
       "word": "多家厂商将110标注为匪警",
@@ -15841,6 +15985,14 @@
       "onboard_time": 1764243922,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 65197,
+      "num": 266644,
+      "word": "最纯爱那年连骂都在祝他长命百岁",
+      "onboard_time": 1764333442,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 65109,
@@ -16379,14 +16531,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 55228,
-      "num": 335021,
-      "word": "香港禁止进口日本10地的水产食品",
-      "onboard_time": 1764328824,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54836,
       "num": 562650,
       "word": "对标Chrome的夸克AI浏览器免费用",
@@ -16873,6 +17017,14 @@
       "onboard_time": 1763959282,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 46360,
+      "num": 266117,
+      "word": "王楚钦孙颖莎备战混团世界杯",
+      "onboard_time": 1764330382,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 45929,
