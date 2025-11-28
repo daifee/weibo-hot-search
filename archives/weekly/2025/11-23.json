@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764365890969,
+  "endTime": 1764368719480,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -15651,6 +15651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76344,
+      "num": 116461,
+      "word": "俄罗斯多次对日本发出警告",
+      "onboard_time": 1764362894,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76211,
       "num": 1103523,
       "word": "178款国产游戏获批",
@@ -17891,14 +17899,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 36543,
-      "num": 96439,
-      "word": "俄罗斯多次对日本发出警告",
-      "onboard_time": 1764362894,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36454,
       "num": 96620,
       "word": "手作滴胶部分材料甲醛超标",
@@ -18457,6 +18457,14 @@
       "onboard_time": 1764090437,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 27377,
+      "num": 111255,
+      "word": "周依然新电影",
+      "onboard_time": 1764367393,
+      "rank": 23,
+      "category": "电影"
     },
     {
       "raw_hot": 27318,
@@ -19355,6 +19363,14 @@
       "category": "其它"
     },
     {
+      "raw_hot": 13418,
+      "num": 108286,
+      "word": "驻塔使馆紧急提醒",
+      "onboard_time": 1764364394,
+      "rank": 49,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 13359,
       "num": 76723,
       "word": "林姨压迫感",
@@ -19497,14 +19513,6 @@
       "onboard_time": 1764269114,
       "rank": 48,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10629,
-      "num": 78703,
-      "word": "驻塔使馆紧急提醒",
-      "onboard_time": 1764364394,
-      "rank": 49,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9627,
