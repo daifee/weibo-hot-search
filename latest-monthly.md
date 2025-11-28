@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 23:28:37
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 23:41:36
 </p>
 </blockquote>
 <p>
@@ -2345,6 +2345,12 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E9%9D%96%E5%B4%91vs%E6%A8%8A%E6%8C%AF%E4%B8%9C%23" target="weibo">
 梁靖崑vs樊振东（热度：937629）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%A7%A3%E8%AF%BB%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%E4%B8%8D%E6%98%AF%E5%BD%BB%E5%BA%95%E6%B8%85%E9%99%A4%23" target="weibo">
+律师解读吸毒记录封存不是彻底清除（热度：937580）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%A3%E7%92%87%E5%92%8C%E4%BD%9F%E4%B8%BD%E5%A8%85%E5%95%86%E9%87%8F%E5%AD%A9%E5%AD%90%E5%8E%BB%E5%93%AA%E4%B8%8A%E5%AD%A6%23" target="weibo">
 董璇和佟丽娅商量孩子去哪上学（热度：562181）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
-疯狂动物城（热度：562089）
 </a>
 </li>
 
