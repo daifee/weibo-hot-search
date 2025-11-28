@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764335292786,
+  "endTime": 1764336999092,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -4921,6 +4921,14 @@
       "onboard_time": 1762614023,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 736100,
+      "num": 736100,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1764331223,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 735318,
@@ -10627,6 +10635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 469178,
+      "num": 321676,
+      "word": "疑似范丞丞趁机表白",
+      "onboard_time": 1764332244,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469145,
       "num": 469145,
       "word": "日本砸131亿日元在台搞媚日宣传",
@@ -12401,14 +12417,6 @@
       "onboard_time": 1763648243,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 419722,
-      "num": 419722,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1764331223,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 419695,
@@ -20465,14 +20473,6 @@
       "onboard_time": 1761987741,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 276881,
-      "num": 276881,
-      "word": "疑似范丞丞趁机表白",
-      "onboard_time": 1764332244,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 276767,
@@ -30731,6 +30731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190295,
+      "num": 214809,
+      "word": "许玮甯亲完邱泽擦掉口红印",
+      "onboard_time": 1764335723,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190248,
       "num": 185012,
       "word": "谢霆锋带着丁真翻车了",
@@ -34259,6 +34267,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 174507,
+      "num": 330525,
+      "word": "微信步数 窥探隐私",
+      "onboard_time": 1764327262,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174405,
       "num": 174405,
       "word": "父亲称被害护士开始不知男友已婚已育",
@@ -36283,14 +36299,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 165938,
-      "num": 330525,
-      "word": "微信步数 窥探隐私",
-      "onboard_time": 1764327262,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 165922,
       "num": 699802,
       "word": "汪苏泷1天官宣3演唱会1综艺",
@@ -36865,6 +36873,14 @@
       "onboard_time": 1763533462,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163985,
+      "num": 276554,
+      "word": "台政客与高市早苗办公桌合影被群嘲",
+      "onboard_time": 1764332604,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163952,
@@ -39625,14 +39641,6 @@
       "onboard_time": 1762172661,
       "rank": 26,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 154874,
-      "num": 276554,
-      "word": "台政客与高市早苗办公桌合影被群嘲",
-      "onboard_time": 1764332604,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154834,
@@ -65219,6 +65227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 98728,
+      "num": 336523,
+      "word": "王楚钦孙颖莎成都混团对练",
+      "onboard_time": 1764335784,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98718,
       "num": 98718,
       "word": "tws转发了四代的cha",
@@ -78403,6 +78419,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 76005,
+      "num": 275858,
+      "word": "女子钻漏洞下单476笔薅羊毛25万",
+      "onboard_time": 1764334943,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 76004,
       "num": 125325,
       "word": "左奇函 左医生",
@@ -80603,14 +80627,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 70407,
-      "num": 275858,
-      "word": "女子钻漏洞下单476笔薅羊毛25万",
-      "onboard_time": 1764334943,
-      "rank": 44,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 70388,
       "num": 348592,
       "word": "鸿星尔克于适西安",
@@ -82643,6 +82659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64120,
+      "num": 214602,
+      "word": "T1五人合唱GEE",
+      "onboard_time": 1764336024,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 64083,
       "num": 105811,
       "word": "高市早苗被与英国最短命首相类比",
@@ -84201,6 +84225,14 @@
       "onboard_time": 1763715622,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 59182,
+      "num": 214598,
+      "word": "高诗岩三分",
+      "onboard_time": 1764336863,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 59177,
@@ -86449,6 +86481,14 @@
       "onboard_time": 1763651123,
       "rank": 19,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 50826,
+      "num": 214567,
+      "word": "疯狂动物城2票房破5亿",
+      "onboard_time": 1764336563,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 50736,
@@ -90657,6 +90697,14 @@
       "onboard_time": 1762731379,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 36728,
+      "num": 214646,
+      "word": "双胞胎兄弟同天迎娶双胞胎姐妹",
+      "onboard_time": 1764336683,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36714,

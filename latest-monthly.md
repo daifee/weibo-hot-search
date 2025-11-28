@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 21:08:12
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 21:36:39
 </p>
 </blockquote>
 <p>
@@ -3705,6 +3705,12 @@ hi6收视新高（热度：736437）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE%23" target="weibo">
+中国男篮vs韩国男篮（热度：736100）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E8%AD%A6%E6%96%B9%E4%BB%A5%E6%B6%89%E5%AB%8C%E8%AF%AF%E6%9D%80%E7%BD%AA%E6%8B%98%E6%8D%953%E4%BA%BA%23" target="weibo">
 香港警方以涉嫌误杀罪拘捕3人（热度：735318）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
 疯狂动物城（热度：562089）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E6%99%92%E4%BA%86%E6%B8%85%E6%A5%9A%E7%89%88%E7%9A%84%E9%B9%BF%E6%99%97%23" target="weibo">
-陈赫晒了清楚版的鹿晗（热度：560962）
 </a>
 </li>
 

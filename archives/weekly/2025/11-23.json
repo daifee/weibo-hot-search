@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764335292786,
+  "endTime": 1764336999092,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -1185,6 +1185,14 @@
       "onboard_time": 1764232582,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 736100,
+      "num": 736100,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1764331223,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 735318,
@@ -2387,6 +2395,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 469178,
+      "num": 321676,
+      "word": "疑似范丞丞趁机表白",
+      "onboard_time": 1764332244,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 469145,
       "num": 469145,
       "word": "日本砸131亿日元在台搞媚日宣传",
@@ -2809,14 +2825,6 @@
       "onboard_time": 1764331642,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 419722,
-      "num": 419722,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1764331223,
-      "rank": 1,
-      "category": "体育"
     },
     {
       "raw_hot": 419695,
@@ -4561,14 +4569,6 @@
       "onboard_time": 1764170184,
       "rank": 30,
       "category": "民生新闻,艺人"
-    },
-    {
-      "raw_hot": 276881,
-      "num": 276881,
-      "word": "疑似范丞丞趁机表白",
-      "onboard_time": 1764332244,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 276759,
@@ -6875,6 +6875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 190295,
+      "num": 214809,
+      "word": "许玮甯亲完邱泽擦掉口红印",
+      "onboard_time": 1764335723,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190132,
       "num": 293043,
       "word": "碧血蝉官宣阵容",
@@ -7659,6 +7667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174507,
+      "num": 330525,
+      "word": "微信步数 窥探隐私",
+      "onboard_time": 1764327262,
+      "rank": 47,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 174418,
       "num": 244246,
       "word": "迪丽热巴陈星旭 西装睡裙打戏",
@@ -8107,14 +8123,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 165938,
-      "num": 330525,
-      "word": "微信步数 窥探隐私",
-      "onboard_time": 1764327262,
-      "rank": 47,
-      "category": "互联网"
-    },
-    {
       "raw_hot": 164814,
       "num": 283413,
       "word": "拿下她相当于拿下了热巴",
@@ -8201,6 +8209,14 @@
       "onboard_time": 1764245782,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163985,
+      "num": 276554,
+      "word": "台政客与高市早苗办公桌合影被群嘲",
+      "onboard_time": 1764332604,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 163945,
@@ -8729,14 +8745,6 @@
       "onboard_time": 1763890400,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154874,
-      "num": 276554,
-      "word": "台政客与高市早苗办公桌合影被群嘲",
-      "onboard_time": 1764332604,
-      "rank": 24,
-      "category": "国内时政"
     },
     {
       "raw_hot": 154832,
@@ -13435,6 +13443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 98728,
+      "num": 336523,
+      "word": "王楚钦孙颖莎成都混团对练",
+      "onboard_time": 1764335784,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98666,
       "num": 98666,
       "word": "WTT香港总决赛参赛名单更新",
@@ -15387,6 +15403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 76005,
+      "num": 275858,
+      "word": "女子钻漏洞下单476笔薅羊毛25万",
+      "onboard_time": 1764334943,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75995,
       "num": 1655438,
       "word": "Peanut收到入伍通知",
@@ -15721,14 +15745,6 @@
       "onboard_time": 1764302301,
       "rank": 47,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 70407,
-      "num": 275858,
-      "word": "女子钻漏洞下单476笔薅羊毛25万",
-      "onboard_time": 1764334943,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 70332,
@@ -16107,6 +16123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64120,
+      "num": 214602,
+      "word": "T1五人合唱GEE",
+      "onboard_time": 1764336024,
+      "rank": 43,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 63722,
       "num": 1049635,
       "word": "香港大埔火灾救援中的爱心接力",
@@ -16321,6 +16345,14 @@
       "onboard_time": 1763936535,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 59182,
+      "num": 214598,
+      "word": "高诗岩三分",
+      "onboard_time": 1764336863,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 59177,
@@ -16777,6 +16809,14 @@
       "onboard_time": 1763979081,
       "rank": 21,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 50826,
+      "num": 214567,
+      "word": "疯狂动物城2票房破5亿",
+      "onboard_time": 1764336563,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 50728,
@@ -17528,6 +17568,14 @@
       "word": "六旬女子诊所输液后离世",
       "onboard_time": 1764329063,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36728,
+      "num": 214646,
+      "word": "双胞胎兄弟同天迎娶双胞胎姐妹",
+      "onboard_time": 1764336683,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
