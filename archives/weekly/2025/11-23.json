@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764296345320,
+  "endTime": 1764299924853,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -369,6 +369,14 @@
       "onboard_time": 1764208223,
       "rank": 15,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1262818,
+      "num": 443267,
+      "word": "南通文旅",
+      "onboard_time": 1764299181,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1257532,
@@ -859,6 +867,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 837057,
+      "num": 814093,
+      "word": "杀害女同学男生被判无期",
+      "onboard_time": 1764295700,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 828446,
       "num": 828446,
       "word": "杨紫 华伦千金",
@@ -1275,6 +1291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 663917,
+      "num": 426629,
+      "word": "让未成年演成年的角色真的好违和",
+      "onboard_time": 1764297260,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 661726,
       "num": 432332,
       "word": "终于有人知道求婚是很私密的事了",
@@ -1569,6 +1593,14 @@
       "onboard_time": 1763993483,
       "rank": 17,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 564118,
+      "num": 564118,
+      "word": "肖战彭昱畅周依然领衔主演",
+      "onboard_time": 1764296780,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 563737,
@@ -1915,14 +1947,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 494654,
-      "num": 814093,
-      "word": "杀害女同学男生被判无期",
-      "onboard_time": 1764295700,
-      "rank": 6,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 493700,
       "num": 4132342,
       "word": "疯狂动物城2 哭得稀里哗啦",
@@ -2073,6 +2097,14 @@
       "onboard_time": 1764218966,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 481297,
+      "num": 481297,
+      "word": "法国最新涉台表态",
+      "onboard_time": 1764297022,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 479593,
@@ -2459,6 +2491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 424541,
+      "num": 868983,
+      "word": "烧烤店因擅自办演出被罚9万",
+      "onboard_time": 1764294441,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 423149,
       "num": 209121,
       "word": "张继科说和樊振东打五五开",
@@ -2833,6 +2873,14 @@
       "onboard_time": 1764226823,
       "rank": 16,
       "category": "民生新闻,游戏"
+    },
+    {
+      "raw_hot": 378905,
+      "num": 424525,
+      "word": "江西早产男婴出保温箱后离世",
+      "onboard_time": 1764297319,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378685,
@@ -3339,14 +3387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 332526,
-      "num": 868983,
-      "word": "烧烤店因擅自办演出被罚9万",
-      "onboard_time": 1764294441,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 331387,
       "num": 267328,
       "word": "38岁男子守了鸡排哥一个月蹭流量",
@@ -3801,6 +3841,14 @@
       "onboard_time": 1764127701,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 297837,
+      "num": 424517,
+      "word": "肖战周依然搂肩抱镜头",
+      "onboard_time": 1764298100,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 297715,
@@ -5187,6 +5235,14 @@
       "category": "互联网,财经"
     },
     {
+      "raw_hot": 218568,
+      "num": 424457,
+      "word": "得闲谨制预售",
+      "onboard_time": 1764297141,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218088,
       "num": 261371,
       "word": "警方通报网红嘉宝被行拘15天",
@@ -5729,6 +5785,14 @@
       "onboard_time": 1763912302,
       "rank": 13,
       "category": "演出"
+    },
+    {
+      "raw_hot": 200236,
+      "num": 424496,
+      "word": "探索新境2",
+      "onboard_time": 1764299481,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 199998,
@@ -7507,6 +7571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161806,
+      "num": 424360,
+      "word": "王安宇大背头",
+      "onboard_time": 1764298462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161720,
       "num": 161720,
       "word": "陈星旭 变脸梦回李承鄞",
@@ -7569,6 +7641,14 @@
       "onboard_time": 1764235823,
       "rank": 49,
       "category": "网红"
+    },
+    {
+      "raw_hot": 161170,
+      "num": 424341,
+      "word": "日本现职领导人侵害中国主权和领土完整",
+      "onboard_time": 1764296479,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161020,
@@ -7825,6 +7905,14 @@
       "onboard_time": 1764051501,
       "rank": 43,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 156498,
+      "num": 2743308,
+      "word": "雷军回应小米汽车续航测试",
+      "onboard_time": 1764299061,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 156296,
@@ -8409,6 +8497,14 @@
       "onboard_time": 1764285798,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 144663,
+      "num": 424277,
+      "word": "阿如那主演得闲谨制",
+      "onboard_time": 1764297861,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 144649,
@@ -10323,6 +10419,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 117089,
+      "num": 424192,
+      "word": "TES双AD",
+      "onboard_time": 1764299540,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117063,
       "num": 117063,
       "word": "何炅的工伤那英全责",
@@ -11051,6 +11155,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 108602,
+      "num": 424187,
+      "word": "疑似郑乃馨与男友分手",
+      "onboard_time": 1764298039,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108599,
       "num": 108599,
       "word": "A股国防军工板块大涨",
@@ -11241,6 +11353,14 @@
       "onboard_time": 1764164065,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 106880,
+      "num": 746078,
+      "word": "王楚钦惨遭小孩哥告状",
+      "onboard_time": 1764295761,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 106860,
@@ -11715,6 +11835,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102594,
+      "num": 424271,
+      "word": "专家建议把消费补贴转为收入补贴",
+      "onboard_time": 1764297981,
+      "rank": 29,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 102039,
       "num": 1118445,
       "word": "刘也内娱头个让我浑身发麻的艺人",
@@ -11913,6 +12041,14 @@
       "onboard_time": 1763954781,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 100170,
+      "num": 424149,
+      "word": "于何一为许昕发声",
+      "onboard_time": 1764298880,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 100169,
@@ -12355,6 +12491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95251,
+      "num": 424104,
+      "word": "澳洲教练嫉妒7岁学生家境好杀人",
+      "onboard_time": 1764298880,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95045,
       "num": 95045,
       "word": "医院流感接诊量明显升高",
@@ -12593,6 +12737,14 @@
       "onboard_time": 1763964082,
       "rank": 45,
       "category": "演出"
+    },
+    {
+      "raw_hot": 92522,
+      "num": 424057,
+      "word": "女子被男子拐卖外地生育多年后回家",
+      "onboard_time": 1764297681,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92449,
@@ -13179,6 +13331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85591,
+      "num": 718250,
+      "word": "曝不让江山男主从陈哲远换成杨洋",
+      "onboard_time": 1764296300,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85517,
       "num": 85517,
       "word": "边牧为了和人玩跑去鱼塘把脚洗了",
@@ -13355,14 +13515,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 82984,
-      "num": 746078,
-      "word": "王楚钦惨遭小孩哥告状",
-      "onboard_time": 1764295761,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82848,
       "num": 161659,
       "word": "白宫怒批CNN彻头彻尾假新闻",
@@ -13425,6 +13577,14 @@
       "onboard_time": 1763999062,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 82045,
+      "num": 423962,
+      "word": "日军强征琉球学生作人肉炸弹",
+      "onboard_time": 1764299540,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82016,
@@ -13923,6 +14083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73620,
+      "num": 465338,
+      "word": "恋与深空",
+      "onboard_time": 1764299781,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 73605,
       "num": 93902,
       "word": "乌士兵跪求俄军无人机饶命",
@@ -14065,6 +14233,14 @@
       "onboard_time": 1764234023,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 69940,
+      "num": 456580,
+      "word": "DeepSeek推出新模型",
+      "onboard_time": 1764296543,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 69934,
@@ -14393,14 +14569,6 @@
       "onboard_time": 1764078922,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 62948,
-      "num": 718250,
-      "word": "曝不让江山男主从陈哲远换成杨洋",
-      "onboard_time": 1764296300,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 62945,
@@ -15139,6 +15307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 47045,
+      "num": 424109,
+      "word": "野猪跑到家男子租独栋房屋饲养一年",
+      "onboard_time": 1764298880,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46985,
       "num": 252015,
       "word": "法国民众冒雨送别大熊猫回家",
@@ -15217,6 +15393,14 @@
       "onboard_time": 1764227002,
       "rank": 17,
       "category": "艺人,数码"
+    },
+    {
+      "raw_hot": 45000,
+      "num": 424034,
+      "word": "余宇涵跟时代峰峻签了十多年",
+      "onboard_time": 1764298521,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 44910,
@@ -16905,6 +17089,14 @@
       "onboard_time": 1764256404,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14109,
+      "num": 424424,
+      "word": "新加坡放弃美国的改用中国开源模型",
+      "onboard_time": 1764299422,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14040,

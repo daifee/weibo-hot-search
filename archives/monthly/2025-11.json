@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764296345320,
+  "endTime": 1764299924853,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1633,6 +1633,14 @@
       "onboard_time": 1762748182,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1262818,
+      "num": 443267,
+      "word": "南通文旅",
+      "onboard_time": 1764299181,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1257532,
@@ -3747,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 837057,
+      "num": 814093,
+      "word": "杀害女同学男生被判无期",
+      "onboard_time": 1764295700,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 835613,
       "num": 196442,
       "word": "收到了去世朋友7年前的邮件",
@@ -5819,6 +5835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 663917,
+      "num": 426629,
+      "word": "让未成年演成年的角色真的好违和",
+      "onboard_time": 1764297260,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 663504,
       "num": 176571,
       "word": "王源回复王俊凯易烊千玺祝福",
@@ -7755,6 +7779,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 564118,
+      "num": 564118,
+      "word": "肖战彭昱畅周依然领衔主演",
+      "onboard_time": 1764296780,
+      "rank": 5,
+      "category": "电影"
+    },
+    {
       "raw_hot": 563948,
       "num": 186445,
       "word": "杜若溪曾因严屹宽打孩子提出离婚",
@@ -9531,14 +9563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 494654,
-      "num": 814093,
-      "word": "杀害女同学男生被判无期",
-      "onboard_time": 1764295700,
-      "rank": 6,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 494340,
       "num": 189927,
       "word": "台湾人面临的三种选择",
@@ -10065,6 +10089,14 @@
       "onboard_time": 1763693540,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 481297,
+      "num": 481297,
+      "word": "法国最新涉台表态",
+      "onboard_time": 1764297022,
+      "rank": 6,
+      "category": "国际时政"
     },
     {
       "raw_hot": 480899,
@@ -11961,6 +11993,14 @@
       "onboard_time": 1762493602,
       "rank": 25,
       "category": "网红"
+    },
+    {
+      "raw_hot": 424541,
+      "num": 868983,
+      "word": "烧烤店因擅自办演出被罚9万",
+      "onboard_time": 1764294441,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 424457,
@@ -13921,6 +13961,14 @@
       "onboard_time": 1763687001,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 378905,
+      "num": 424525,
+      "word": "江西早产男婴出保温箱后离世",
+      "onboard_time": 1764297319,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 378685,
@@ -16371,14 +16419,6 @@
       "category": "民生新闻,艺人"
     },
     {
-      "raw_hot": 332526,
-      "num": 868983,
-      "word": "烧烤店因擅自办演出被罚9万",
-      "onboard_time": 1764294441,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 332474,
       "num": 336563,
       "word": "剑来",
@@ -18593,6 +18633,14 @@
       "onboard_time": 1764127701,
       "rank": 39,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 297837,
+      "num": 424517,
+      "word": "肖战周依然搂肩抱镜头",
+      "onboard_time": 1764298100,
+      "rank": 14,
+      "category": "电影"
     },
     {
       "raw_hot": 297715,
@@ -25083,6 +25131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218568,
+      "num": 424457,
+      "word": "得闲谨制预售",
+      "onboard_time": 1764297141,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 218494,
       "num": 168902,
       "word": "奚梦瑶何猷君挽手逛商场",
@@ -27824,6 +27880,14 @@
       "word": "金龟子 毛毛虫",
       "onboard_time": 1762786402,
       "rank": 4,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 200236,
+      "num": 424496,
+      "word": "探索新境2",
+      "onboard_time": 1763344942,
+      "rank": 16,
       "category": "综艺"
     },
     {
@@ -31137,14 +31201,6 @@
       "onboard_time": 1762874182,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186471,
-      "num": 186471,
-      "word": "探索新境2",
-      "onboard_time": 1763344942,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 186433,
@@ -36627,6 +36683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 161806,
+      "num": 424360,
+      "word": "王安宇大背头",
+      "onboard_time": 1764298462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 161787,
       "num": 161787,
       "word": "苹果酸奶夹",
@@ -36793,6 +36857,14 @@
       "onboard_time": 1761955458,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 161170,
+      "num": 424341,
+      "word": "日本现职领导人侵害中国主权和领土完整",
+      "onboard_time": 1764296479,
+      "rank": 24,
+      "category": "国际时政"
     },
     {
       "raw_hot": 161159,
@@ -38297,6 +38369,14 @@
       "onboard_time": 1763548222,
       "rank": 36,
       "category": "财经"
+    },
+    {
+      "raw_hot": 156498,
+      "num": 2743308,
+      "word": "雷军回应小米汽车续航测试",
+      "onboard_time": 1764299061,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 156481,
@@ -41753,6 +41833,14 @@
       "onboard_time": 1764285798,
       "rank": 17,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 144663,
+      "num": 424277,
+      "word": "阿如那主演得闲谨制",
+      "onboard_time": 1764297861,
+      "rank": 28,
+      "category": "电影"
     },
     {
       "raw_hot": 144661,
@@ -53459,6 +53547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 117089,
+      "num": 424192,
+      "word": "TES双AD",
+      "onboard_time": 1764299540,
+      "rank": 33,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117079,
       "num": 269796,
       "word": "央视曝造谣式起号",
@@ -57683,6 +57779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108602,
+      "num": 424187,
+      "word": "疑似郑乃馨与男友分手",
+      "onboard_time": 1764298039,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108599,
       "num": 108599,
       "word": "A股国防军工板块大涨",
@@ -58761,6 +58865,14 @@
       "onboard_time": 1764164065,
       "rank": 46,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 106880,
+      "num": 746078,
+      "word": "王楚钦惨遭小孩哥告状",
+      "onboard_time": 1764295761,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 106874,
@@ -61555,6 +61667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102594,
+      "num": 424271,
+      "word": "专家建议把消费补贴转为收入补贴",
+      "onboard_time": 1764297981,
+      "rank": 29,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 102578,
       "num": 205120,
       "word": "韩国学生集体磕头应援参加高考前辈",
@@ -62976,6 +63096,14 @@
       "word": "王楚钦说喜欢小动物",
       "onboard_time": 1762091781,
       "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 100170,
+      "num": 424149,
+      "word": "于何一为许昕发声",
+      "onboard_time": 1764298880,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -66115,6 +66243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 95251,
+      "num": 424104,
+      "word": "澳洲教练嫉妒7岁学生家境好杀人",
+      "onboard_time": 1764298880,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 95230,
       "num": 191669,
       "word": "Doinb透露有LPL战队找他组队",
@@ -67841,6 +67977,14 @@
       "onboard_time": 1762312461,
       "rank": 42,
       "category": "海外新闻,财经"
+    },
+    {
+      "raw_hot": 92522,
+      "num": 424057,
+      "word": "女子被男子拐卖外地生育多年后回家",
+      "onboard_time": 1764297681,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 92509,
@@ -72323,6 +72467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85591,
+      "num": 718250,
+      "word": "曝不让江山男主从陈哲远换成杨洋",
+      "onboard_time": 1764296300,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85584,
       "num": 85584,
       "word": "它怎么睡成一张猫饼了",
@@ -73635,14 +73787,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82984,
-      "num": 746078,
-      "word": "王楚钦惨遭小孩哥告状",
-      "onboard_time": 1764295761,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82947,
       "num": 82947,
       "word": "老鹰vs快船",
@@ -74113,6 +74257,14 @@
       "onboard_time": 1762339641,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82045,
+      "num": 423962,
+      "word": "日军强征琉球学生作人肉炸弹",
+      "onboard_time": 1764299540,
+      "rank": 47,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82027,
@@ -79115,6 +79267,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 69940,
+      "num": 456580,
+      "word": "DeepSeek推出新模型",
+      "onboard_time": 1764296543,
+      "rank": 9,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 69936,
       "num": 75885,
       "word": "毛晓彤央视战绩可查",
@@ -81265,14 +81425,6 @@
       "onboard_time": 1762682538,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62948,
-      "num": 718250,
-      "word": "曝不让江山男主从陈哲远换成杨洋",
-      "onboard_time": 1764296300,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 62945,
@@ -85859,6 +86011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 47045,
+      "num": 424109,
+      "word": "野猪跑到家男子租独栋房屋饲养一年",
+      "onboard_time": 1764298880,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47012,
       "num": 503689,
       "word": "乒协公布全运会乒乓项目种子排序",
@@ -86425,6 +86585,14 @@
       "onboard_time": 1762923981,
       "rank": 19,
       "category": "数码"
+    },
+    {
+      "raw_hot": 45000,
+      "num": 424034,
+      "word": "余宇涵跟时代峰峻签了十多年",
+      "onboard_time": 1764298521,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 44943,
@@ -95169,6 +95337,14 @@
       "onboard_time": 1764256404,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14109,
+      "num": 424424,
+      "word": "新加坡放弃美国的改用中国开源模型",
+      "onboard_time": 1764299422,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 14096,

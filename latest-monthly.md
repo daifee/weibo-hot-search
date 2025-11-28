@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 10:19:05
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 11:18:44
 </p>
 </blockquote>
 <p>
@@ -1235,6 +1235,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E6%B1%B6%E5%B8%8C%E6%9B%9D%E8%8B%B1%E7%9A%87%E8%89%BA%E4%BA%BA%E4%B8%8D%E8%B7%B3%E6%A7%BD%E7%9C%9F%E5%AE%9E%E5%8E%9F%E5%9B%A0%23" target="weibo">
 霍汶希曝英皇艺人不跳槽真实原因（热度：1263831）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85%23" target="weibo">
+南通文旅（热度：1262818）
 </a>
 </li>
 
@@ -2823,6 +2829,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%80%E5%AE%B3%E5%A5%B3%E5%90%8C%E5%AD%A6%E7%94%B7%E7%94%9F%E8%A2%AB%E5%88%A4%E6%97%A0%E6%9C%9F%23" target="weibo">
+杀害女同学男生被判无期（热度：837057）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%94%B6%E5%88%B0%E4%BA%86%E5%8E%BB%E4%B8%96%E6%9C%8B%E5%8F%8B7%E5%B9%B4%E5%89%8D%E7%9A%84%E9%82%AE%E4%BB%B6%23" target="weibo">
 收到了去世朋友7年前的邮件（热度：835613）
 </a>
@@ -4377,6 +4389,12 @@ S15决赛唯一中国人（热度：665452）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%AE%A9%E6%9C%AA%E6%88%90%E5%B9%B4%E6%BC%94%E6%88%90%E5%B9%B4%E7%9A%84%E8%A7%92%E8%89%B2%E7%9C%9F%E7%9A%84%E5%A5%BD%E8%BF%9D%E5%92%8C%23" target="weibo">
+让未成年演成年的角色真的好违和（热度：663917）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%BA%90%E5%9B%9E%E5%A4%8D%E7%8E%8B%E4%BF%8A%E5%87%AF%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%A5%9D%E7%A6%8F%23" target="weibo">
 王源回复王俊凯易烊千玺祝福（热度：663504）
 </a>
@@ -5829,6 +5847,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BD%AD%E6%98%B1%E7%95%85%E5%91%A8%E4%BE%9D%E7%84%B6%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%23" target="weibo">
+肖战彭昱畅周依然领衔主演（热度：564118）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%9C%E8%8B%A5%E6%BA%AA%E6%9B%BE%E5%9B%A0%E4%B8%A5%E5%B1%B9%E5%AE%BD%E6%89%93%E5%AD%A9%E5%AD%90%E6%8F%90%E5%87%BA%E7%A6%BB%E5%A9%9A%23" target="weibo">
 杜若溪曾因严屹宽打孩子提出离婚（热度：563948）
 </a>
@@ -5987,30 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%A5%BD%E5%85%AD%E5%A4%9C%23" target="weibo">
 疯狂好六夜（热度：555432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E6%A0%A9%20%E5%9B%9E%E5%86%B7%E5%AE%AB%23" target="weibo">
-王一栩 回冷宫（热度：555006）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E6%9E%9C%E8%BD%AF%E7%B3%96%20%E8%8D%A4%E9%A3%9F%23" target="weibo">
-水果软糖 荤食（热度：554394）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E6%9A%97%E7%A4%BA%E6%AD%A6%E5%8A%9B%E4%BB%8B%E5%85%A5%E5%8F%B0%E6%B5%B7%23" target="weibo">
-中方回应高市早苗暗示武力介入台海（热度：554215）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E5%9C%86%E6%BB%A1%E4%BA%86%23" target="weibo">
-马龙圆满了（热度：554064）
 </a>
 </li>
 
