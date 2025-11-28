@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 18:30:06
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 18:46:24
 </p>
 </blockquote>
 <p>
@@ -567,6 +567,12 @@ KT战胜GEN（热度：2334332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%23" target="weibo">
+禁毒（热度：1841449）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%BB%E6%81%A9%E6%B3%B0%E5%9B%9E%E5%BA%94%23" target="weibo">
 喻恩泰回应（热度：1830171）
 </a>
@@ -1013,12 +1019,6 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2314%E5%B2%81%E7%94%B7%E5%AD%A9%E8%8E%B7%E5%88%9113%E5%B9%B4%E9%9C%87%E6%85%91%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E7%8A%AF%E7%BD%AA%23" target="weibo">
 14岁男孩获刑13年震慑未成年人犯罪（热度：1374766）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%23" target="weibo">
-禁毒（热度：1370298）
 </a>
 </li>
 
@@ -2457,6 +2457,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23" target="weibo">
+邱泽许玮甯婚礼现场（热度：908556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E6%9D%8E%E7%90%B3%E5%90%A6%E8%AE%A4%E4%B8%8E%E7%BB%8F%E8%B6%85%E7%9B%B8%E5%B7%AE6%E5%B2%81%23" target="weibo">
 小李琳否认与经超相差6岁（热度：908410）
 </a>
@@ -3491,12 +3497,6 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A7%A3%E6%94%BE%E5%86%9B%E5%A4%87%E6%88%98%E7%94%BB%E9%9D%A2%23" target="weibo">
 解放军备战画面（热度：761380）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23" target="weibo">
-邱泽许玮甯婚礼现场（热度：761119）
 </a>
 </li>
 
@@ -4767,6 +4767,12 @@ iPhone面容解锁不需要摄像头（热度：640462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83%23" target="weibo">
+对大埔火灾每名遇难者家属发20万港元（热度：639456）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E7%94%B7%E5%8F%8C%E5%A4%A7%E6%88%98%23" target="weibo">
 马龙许昕男双大战（热度：639370）
 </a>
@@ -5339,12 +5345,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%B9%E8%84%9A%E6%89%8B%E6%9E%B6%23" target="weibo">
 竹脚手架（热度：601587）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83%23" target="weibo">
-对大埔火灾每名遇难者家属发20万港元（热度：601294）
 </a>
 </li>
 

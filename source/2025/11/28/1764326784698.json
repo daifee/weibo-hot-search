@@ -1,0 +1,410 @@
+{
+  "runTime": 1764326784698,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7368409,
+        "num": 7368409,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 50505,
+        "num": 4808251,
+        "word": "祖冲之二号助力量子模拟新突破",
+        "onboard_time": 1764325823,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55850,
+        "num": 3857212,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1764319103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 260821,
+        "num": 2711817,
+        "word": "逍遥散人取消出席逆水寒赛事",
+        "onboard_time": 1764323181,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 81970,
+        "num": 1425626,
+        "word": "夸克AI眼镜持续霸榜第一",
+        "onboard_time": 1764313402,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 639456,
+        "num": 639456,
+        "word": "对大埔火灾每名遇难者家属发20万港元",
+        "onboard_time": 1764324623,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 354883,
+        "num": 638514,
+        "word": "圆明园兽首出来那一刻人麻了",
+        "onboard_time": 1764323783,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292904,
+        "num": 634685,
+        "word": "盗摄",
+        "onboard_time": 1764323242,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 201023,
+        "num": 630478,
+        "word": "香港大埔火灾约200人情况未明",
+        "onboard_time": 1764316943,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110436,
+        "num": 627629,
+        "word": "JDG官宣Xun离队",
+        "onboard_time": 1764326484,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1841449,
+        "num": 624558,
+        "word": "禁毒",
+        "onboard_time": 1764324263,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1225714,
+        "num": 622881,
+        "word": "法院向吴亦凡经纪公司追缴诉讼费",
+        "onboard_time": 1764323063,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 460581,
+        "num": 618921,
+        "word": "胡锡进谈南通文旅火了",
+        "onboard_time": 1764324502,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 333807,
+        "num": 614905,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268779,
+        "num": 613484,
+        "word": "易烊千玺刘亦菲给咖啡整成高奢了",
+        "onboard_time": 1764322042,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219472,
+        "num": 609533,
+        "word": "吃生鱼片要了杯热水",
+        "onboard_time": 1764316882,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 197985,
+        "num": 605485,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 165595,
+        "num": 602653,
+        "word": "疯片盗摄城",
+        "onboard_time": 1764319763,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157541,
+        "num": 598855,
+        "word": "你那情绪价值拉满的朋友belike",
+        "onboard_time": 1764326062,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142830,
+        "num": 598190,
+        "word": "点外卖备注放门口的人最精了",
+        "onboard_time": 1764309862,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94517,
+        "num": 592646,
+        "word": "刘宇宁带着卡祖笛登上大舞台了",
+        "onboard_time": 1764325222,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 908556,
+        "num": 591253,
+        "word": "邱泽许玮甯婚礼现场",
+        "onboard_time": 1764324263,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 588902,
+        "num": 588902,
+        "word": "童瑶",
+        "onboard_time": 1764323482,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 516174,
+        "num": 516174,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90354,
+        "num": 515915,
+        "word": "香港总决赛国乒参赛全名单",
+        "onboard_time": 1764323842,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 299747,
+        "num": 513804,
+        "word": "肖战演一部美男奖励自己一部糙汉",
+        "onboard_time": 1764319283,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144865,
+        "num": 512335,
+        "word": "中央政治局召开会议",
+        "onboard_time": 1764319283,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 303503,
+        "num": 510870,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89076,
+        "num": 509903,
+        "word": "得闲谨制预售票房突破1000万",
+        "onboard_time": 1764324263,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 70099,
+        "num": 508319,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1764321562,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175955,
+        "num": 505950,
+        "word": "shanks回应不和Tabe去JDG",
+        "onboard_time": 1764325163,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 139411,
+        "num": 504954,
+        "word": "朱开说Uzi打不到第一不会复出",
+        "onboard_time": 1764325763,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 134055,
+        "num": 502592,
+        "word": "逍遥散人 米哈游",
+        "onboard_time": 1764305723,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45669,
+        "num": 501979,
+        "word": "四川民企研发高超音速导弹已量产",
+        "onboard_time": 1764324922,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126683,
+        "num": 499399,
+        "word": "爸爸端火锅撞上儿子致其严重烫伤",
+        "onboard_time": 1764309382,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125034,
+        "num": 498470,
+        "word": "papi酱2016年的视频",
+        "onboard_time": 1764326182,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123670,
+        "num": 497570,
+        "word": "中方亮剑",
+        "onboard_time": 1764315504,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 11163,
+        "num": 496039,
+        "word": "玩具店主买卖枪支案检方撤诉",
+        "onboard_time": 1764326663,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26032,
+        "num": 493193,
+        "word": "艾米拿着两个搓澡巾就出来了",
+        "onboard_time": 1764326663,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 46423,
+        "num": 491578,
+        "word": "王一博小气了是不是",
+        "onboard_time": 1764326484,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 109345,
+        "num": 491375,
+        "word": "高市早苗暗示涉台狂言是即兴发挥",
+        "onboard_time": 1764315022,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105767,
+        "num": 489417,
+        "word": "王梓莼和张子枫是舍友",
+        "onboard_time": 1764317903,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38019,
+        "num": 487567,
+        "word": "刘晓庆摔倒第一个想到镯子",
+        "onboard_time": 1764325404,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105367,
+        "num": 486270,
+        "word": "美国被曝给日本躁动泼冷水",
+        "onboard_time": 1764305363,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103536,
+        "num": 483803,
+        "word": "结婚当天睡过头了",
+        "onboard_time": 1764313763,
+        "rank": 44,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 101786,
+        "num": 483113,
+        "word": "未来五年什么工作吃香",
+        "onboard_time": 1764324623,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101505,
+        "num": 481641,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99355,
+        "num": 480589,
+        "word": "她可是当年的知画啊",
+        "onboard_time": 1764313820,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 98930,
+        "num": 478507,
+        "word": "王安宇给沈腾拍成大佬了",
+        "onboard_time": 1764318504,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98531,
+        "num": 476270,
+        "word": "王一博说前两年工作太多",
+        "onboard_time": 1764314783,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

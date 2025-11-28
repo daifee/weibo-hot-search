@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 18:30:06
+本榜单时间：2025/11/28 00:40:00 ~ 2025/11/28 18:46:24
 </p>
 </blockquote>
 <p>
@@ -51,14 +51,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98%23" target="weibo">
-2026年起吸毒记录可封存（热度：1698444）
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%23" target="weibo">
+禁毒（热度：1841449）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%23" target="weibo">
-禁毒（热度：1370298）
+<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98%23" target="weibo">
+2026年起吸毒记录可封存（热度：1698444）
 </a>
 </li>
 
@@ -99,6 +99,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23" target="weibo">
+邱泽许玮甯婚礼现场（热度：908556）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%83%E7%94%9F%E7%AC%91%E4%BA%86%E4%BA%94%E5%88%86%E9%92%9F%E6%89%8D%E5%BC%80%E5%A7%8B%E7%AD%94%E5%8D%B7%23" target="weibo">
 考生笑了五分钟才开始答卷（热度：842585）
 </a>
@@ -129,12 +135,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23" target="weibo">
-邱泽许玮甯婚礼现场（热度：761119）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%86%8D%E5%8F%91%E8%B0%AC%E8%AE%BA%E7%BB%99%E8%87%AA%E5%B7%B1%E5%A3%AE%E8%83%86%23" target="weibo">
 高市早苗再发谬论给自己壮胆（热度：689228）
 </a>
@@ -147,14 +147,14 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85%E7%B2%89%E4%B8%9D%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
-南通文旅粉丝破百万（热度：623694）
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83%23" target="weibo">
+对大埔火灾每名遇难者家属发20万港元（热度：639456）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83%23" target="weibo">
-对大埔火灾每名遇难者家属发20万港元（热度：601294）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E9%80%9A%E6%96%87%E6%97%85%E7%B2%89%E4%B8%9D%E7%A0%B4%E7%99%BE%E4%B8%87%23" target="weibo">
+南通文旅粉丝破百万（热度：623694）
 </a>
 </li>
 
@@ -303,6 +303,12 @@ TVB演员海俊杰妻子病逝（热度：480457）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9C%86%E6%98%8E%E5%9B%AD%E5%85%BD%E9%A6%96%E5%87%BA%E6%9D%A5%E9%82%A3%E4%B8%80%E5%88%BB%E4%BA%BA%E9%BA%BB%E4%BA%86%23" target="weibo">
+圆明园兽首出来那一刻人麻了（热度：354883）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%97%E6%91%84%23" target="weibo">
 盗摄（热度：353870）
 </a>
@@ -387,12 +393,6 @@ TVB演员海俊杰妻子病逝（热度：480457）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9C%86%E6%98%8E%E5%9B%AD%E5%85%BD%E9%A6%96%E5%87%BA%E6%9D%A5%E9%82%A3%E4%B8%80%E5%88%BB%E4%BA%BA%E9%BA%BB%E4%BA%86%23" target="weibo">
-圆明园兽首出来那一刻人麻了（热度：282069）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E7%9A%84%E7%94%B5%E8%AF%9D%E9%87%8C%E5%85%A8%E5%A4%A9%E7%8E%8B%E9%98%B5%E5%AE%B9%23" target="weibo">
 刘嘉玲的电话里全天王阵容（热度：277433）
 </a>
@@ -413,6 +413,12 @@ TVB演员海俊杰妻子病逝（热度：480457）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A9%E4%B9%A6%E9%BB%8E%E6%98%8E%E5%AE%9A%E6%A1%A3%23" target="weibo">
 天书黎明定档（热度：265631）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%E6%95%A3%E4%BA%BA%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E9%80%86%E6%B0%B4%E5%AF%92%E8%B5%9B%E4%BA%8B%23" target="weibo">
+逍遥散人取消出席逆水寒赛事（热度：260821）
 </a>
 </li>
 
@@ -639,12 +645,6 @@ shanks回应不和Tabe去JDG（热度：218044）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%80%8D%E9%81%A5%E6%95%A3%E4%BA%BA%E5%8F%96%E6%B6%88%E5%87%BA%E5%B8%AD%E9%80%86%E6%B0%B4%E5%AF%92%E8%B5%9B%E4%BA%8B%23" target="weibo">
-逍遥散人取消出席逆水寒赛事（热度：183688）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%E5%A4%A7%E8%83%8C%E5%A4%B4%23" target="weibo">
 王安宇大背头（热度：181200）
 </a>
@@ -753,6 +753,12 @@ iG的AD到底是谁（热度：163070）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E9%82%A3%E6%83%85%E7%BB%AA%E4%BB%B7%E5%80%BC%E6%8B%89%E6%BB%A1%E7%9A%84%E6%9C%8B%E5%8F%8Bbelike%23" target="weibo">
+你那情绪价值拉满的朋友belike（热度：157541）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%86%8D%E8%A7%81%E7%88%B1%E4%BA%BA%E7%A7%AF%E5%A4%A7%E5%BE%B7%E4%BA%86%23" target="weibo">
 再见爱人积大德了（热度：153364）
 </a>
@@ -849,6 +855,12 @@ TES双AD（热度：153244）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BC%80%E8%AF%B4Uzi%E6%89%93%E4%B8%8D%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%8D%E4%BC%9A%E5%A4%8D%E5%87%BA%23" target="weibo">
+朱开说Uzi打不到第一不会复出（热度：139411）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E4%BA%88%E6%9B%A6%E5%9C%A8%E6%9C%BA%E5%9C%BA%E6%8E%A5%E4%B8%8A%E5%95%86%E5%8A%A1%E4%BA%86%23" target="weibo">
 张予曦在机场接上商务了（热度：139001）
 </a>
@@ -935,6 +947,12 @@ FPX.ZQ对战北京WBG（热度：132434）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%97%95%E6%98%AF%E6%9C%80%E5%B9%B3%E4%BB%B7%E7%9A%84%E6%BB%8B%E8%A1%A5%E5%93%81%23" target="weibo">
 藕是最平价的滋补品（热度：125390）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23papi%E9%85%B12016%E5%B9%B4%E7%9A%84%E8%A7%86%E9%A2%91%23" target="weibo">
+papi酱2016年的视频（热度：125034）
 </a>
 </li>
 
@@ -1043,6 +1061,12 @@ A股商业航天板块多股涨停（热度：113358）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%BF%E4%B8%9C%E8%B0%83%E9%9B%86%E6%95%91%E6%8F%B4%E8%A3%85%E5%A4%87%E7%AD%89%E4%BA%A4%E4%BB%98%E9%A6%99%E6%B8%AF%E6%96%B9%E9%9D%A2%23" target="weibo">
 广东调集救援装备等交付香港方面（热度：110788）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23JDG%E5%AE%98%E5%AE%A3Xun%E7%A6%BB%E9%98%9F%23" target="weibo">
+JDG官宣Xun离队（热度：110436）
 </a>
 </li>
 
@@ -1187,12 +1211,6 @@ CFO反方向的AL（热度：106656）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%AD%E7%AB%AF%E6%9C%BA%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%83%8F%E8%8B%B9%E6%9E%9C%E4%BA%86%23" target="weibo">
 为什么中端机越来越像苹果了（热度：96589）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BC%80%E8%AF%B4Uzi%E6%89%93%E4%B8%8D%E5%88%B0%E7%AC%AC%E4%B8%80%E4%B8%8D%E4%BC%9A%E5%A4%8D%E5%87%BA%23" target="weibo">
-朱开说Uzi打不到第一不会复出（热度：96514）
 </a>
 </li>
 
@@ -1371,6 +1389,12 @@ ShowMaker回应战术暂停机制（热度：89293）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23" target="weibo">
+夸克AI眼镜持续霸榜第一（热度：81970）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%92%9F%E6%9F%90%E6%9F%90%E6%95%85%E6%84%8F%E6%9D%80%E4%BA%BA%E6%A1%88%E4%B8%80%E5%AE%A1%E5%AE%A3%E5%88%A4%23" target="weibo">
 钟某某故意杀人案一审宣判（热度：80489）
 </a>
@@ -1439,12 +1463,6 @@ Crisp回应Uzi复出传言（热度：78593）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E8%AF%95%E9%AA%8C%E5%88%97%E8%BD%A6%E6%92%9E%E6%96%BD%E5%B7%A5%E4%BA%BA%E5%91%98%E4%BA%8B%E6%95%85%E6%8C%82%E7%89%8C%E7%9D%A3%E5%8A%9E%23" target="weibo">
 对试验列车撞施工人员事故挂牌督办（热度：74125）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%B8%E5%85%8BAI%E7%9C%BC%E9%95%9C%E6%8C%81%E7%BB%AD%E9%9C%B8%E6%A6%9C%E7%AC%AC%E4%B8%80%23" target="weibo">
-夸克AI眼镜持续霸榜第一（热度：73122）
 </a>
 </li>
 
@@ -1641,6 +1659,12 @@ mlxg不建议Uzi复出（热度：57809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%96%E5%86%B2%E4%B9%8B%E4%BA%8C%E5%8F%B7%E5%8A%A9%E5%8A%9B%E9%87%8F%E5%AD%90%E6%A8%A1%E6%8B%9F%E6%96%B0%E7%AA%81%E7%A0%B4%23" target="weibo">
+祖冲之二号助力量子模拟新突破（热度：50505）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E7%A7%B0%E6%89%80%E6%9C%89%E4%BA%A7%E4%B8%9A%E9%83%BD%E5%80%BC%E5%BE%97AI%E5%86%8D%E5%81%9A%E4%B8%80%E9%81%8D%23" target="weibo">
 雷军称所有产业都值得AI再做一遍（热度：49224）
 </a>
@@ -1695,6 +1719,18 @@ mlxg不建议Uzi复出（热度：57809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E5%B0%8F%E6%B0%94%E4%BA%86%E6%98%AF%E4%B8%8D%E6%98%AF%23" target="weibo">
+王一博小气了是不是（热度：46423）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%91%E4%BC%81%E7%A0%94%E5%8F%91%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E5%B7%B2%E9%87%8F%E4%BA%A7%23" target="weibo">
+四川民企研发高超音速导弹已量产（热度：45669）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%BA%A6%E6%95%B0%E7%9C%BC%E9%95%9C%E8%A6%81%E6%80%8E%E4%B9%88%E6%88%B4%E6%89%8D%E5%A5%BD%E7%9C%8B%23" target="weibo">
 高度数眼镜要怎么戴才好看（热度：45593）
 </a>
@@ -1745,6 +1781,12 @@ mlxg不建议Uzi复出（热度：57809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%AB%E6%8C%87%E4%B8%8A%E7%8F%AD%E6%97%B6%E9%97%B4%E6%89%93%E6%B8%B8%E6%88%8F%E6%95%B7%E8%A1%8D%E7%BE%A4%E4%BC%97%23" target="weibo">
 男子被指上班时间打游戏敷衍群众（热度：40029）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E6%91%94%E5%80%92%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%83%B3%E5%88%B0%E9%95%AF%E5%AD%90%23" target="weibo">
+刘晓庆摔倒第一个想到镯子（热度：38019）
 </a>
 </li>
 
@@ -1827,6 +1869,12 @@ mlxg不建议Uzi复出（热度：57809）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%B1%B3%E6%8B%BF%E7%9D%80%E4%B8%A4%E4%B8%AA%E6%90%93%E6%BE%A1%E5%B7%BE%E5%B0%B1%E5%87%BA%E6%9D%A5%E4%BA%86%23" target="weibo">
+艾米拿着两个搓澡巾就出来了（热度：26032）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%B0%E9%93%81%E5%9B%9E%E5%BA%94%E6%9F%A5%E5%85%85%E7%94%B5%E5%AE%9D3C%E8%AE%A4%E8%AF%81%23" target="weibo">
 地铁回应查充电宝3C认证（热度：25936）
 </a>
@@ -1851,12 +1899,6 @@ mlxg不建议Uzi复出（热度：57809）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%91%E4%BC%81%E7%A0%94%E5%8F%91%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%E5%B7%B2%E9%87%8F%E4%BA%A7%23" target="weibo">
-四川民企研发高超音速导弹已量产（热度：23956）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A1%8C%E8%B5%B0%E5%A4%A7%E7%BE%8E%E4%B8%AD%E5%9B%BD%23" target="weibo">
 行走大美中国（热度：23842）
 </a>
@@ -1865,12 +1907,6 @@ mlxg不建议Uzi复出（热度：57809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23178%E6%AC%BE%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E8%8E%B7%E6%89%B9%23" target="weibo">
 178款国产游戏获批（热度：23237）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%99%93%E5%BA%86%E6%91%94%E5%80%92%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%83%B3%E5%88%B0%E9%95%AF%E5%AD%90%23" target="weibo">
-刘晓庆摔倒第一个想到镯子（热度：20452）
 </a>
 </li>
 
@@ -1919,6 +1955,12 @@ mlxg不建议Uzi复出（热度：57809）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9B%9B%E5%B7%9D%E6%B0%91%E4%BC%81%E7%A0%94%E5%8F%91%E9%AB%98%E8%B6%85%E9%9F%B3%E9%80%9F%E5%AF%BC%E5%BC%B9%23" target="weibo">
 四川民企研发高超音速导弹（热度：12031）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%A9%E5%85%B7%E5%BA%97%E4%B8%BB%E4%B9%B0%E5%8D%96%E6%9E%AA%E6%94%AF%E6%A1%88%E6%A3%80%E6%96%B9%E6%92%A4%E8%AF%89%23" target="weibo">
+玩具店主买卖枪支案检方撤诉（热度：11163）
 </a>
 </li>
 
