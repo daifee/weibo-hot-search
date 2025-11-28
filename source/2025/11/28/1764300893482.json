@@ -1,0 +1,410 @@
+{
+  "runTime": 1764300893482,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6276750,
+        "num": 6276750,
+        "word": "香港大火已致94人遇难",
+        "onboard_time": 1764288261,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 257413,
+        "num": 257413,
+        "word": "雷军回应小米汽车续航测试",
+        "onboard_time": 1764299061,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 23289,
+        "num": 257380,
+        "word": "行走大美中国",
+        "onboard_time": 1764261499,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 450029,
+        "num": 257322,
+        "word": "电影得闲谨制定档",
+        "onboard_time": 1764295520,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 461121,
+        "num": 257274,
+        "word": "法国最新涉台表态",
+        "onboard_time": 1764297022,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 493047,
+        "num": 257154,
+        "word": "肖战彭昱畅周依然领衔主演",
+        "onboard_time": 1764296780,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 317514,
+        "num": 257117,
+        "word": "疯狂动物城3",
+        "onboard_time": 1764292521,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 193650,
+        "num": 257041,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153244,
+        "num": 256976,
+        "word": "TES双AD",
+        "onboard_time": 1764299540,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128982,
+        "num": 256918,
+        "word": "恋与深空",
+        "onboard_time": 1764299781,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1862188,
+        "num": 256892,
+        "word": "南通文旅",
+        "onboard_time": 1764299181,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 735186,
+        "num": 256796,
+        "word": "杀害女同学男生被判无期",
+        "onboard_time": 1764295700,
+        "rank": 11,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 614473,
+        "num": 256700,
+        "word": "让未成年演成年的角色真的好违和",
+        "onboard_time": 1764297260,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 480457,
+        "num": 256637,
+        "word": "TVB演员海俊杰妻子病逝",
+        "onboard_time": 1764300322,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335026,
+        "num": 256630,
+        "word": "江西早产男婴出保温箱后离世",
+        "onboard_time": 1764297319,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233274,
+        "num": 256524,
+        "word": "肖战周依然搂肩抱镜头",
+        "onboard_time": 1764298100,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109300,
+        "num": 256442,
+        "word": "香港消防员将搜索所有房屋",
+        "onboard_time": 1764290302,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 312186,
+        "num": 256421,
+        "word": "烧烤店因擅自办演出被罚9万",
+        "onboard_time": 1764294441,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48183,
+        "num": 256354,
+        "word": "江西早产男婴离世母亲发声",
+        "onboard_time": 1764300562,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27081,
+        "num": 256277,
+        "word": "婚假最长省份可休30天",
+        "onboard_time": 1764300382,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 467312,
+        "num": 256195,
+        "word": "郭碧婷女儿被孤立",
+        "onboard_time": 1764256943,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 265631,
+        "num": 256132,
+        "word": "天书黎明定档",
+        "onboard_time": 1764300143,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194605,
+        "num": 256078,
+        "word": "得闲谨制",
+        "onboard_time": 1764290721,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 181200,
+        "num": 255994,
+        "word": "王安宇大背头",
+        "onboard_time": 1764298462,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16746,
+        "num": 255979,
+        "word": "中国星眼锁定太空危机",
+        "onboard_time": 1764300680,
+        "rank": 24,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 193060,
+        "num": 255887,
+        "word": "编剧兰晓龙导演孔笙",
+        "onboard_time": 1764300680,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 173171,
+        "num": 255823,
+        "word": "澳洲教练嫉妒7岁学生家境好杀人",
+        "onboard_time": 1764298880,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 162381,
+        "num": 255743,
+        "word": "得闲谨制预售",
+        "onboard_time": 1764297141,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 97269,
+        "num": 255670,
+        "word": "香港大火已完成灭火程序",
+        "onboard_time": 1764286159,
+        "rank": 28,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 82055,
+        "num": 255604,
+        "word": "新加坡放弃美国的改用中国开源模型",
+        "onboard_time": 1764299422,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 169802,
+        "num": 255570,
+        "word": "大妈将贵的西兰苔掰断谎称西兰花",
+        "onboard_time": 1764289943,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163277,
+        "num": 255504,
+        "word": "疯狂动物城",
+        "onboard_time": 1764300861,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 144870,
+        "num": 255419,
+        "word": "探索新境2",
+        "onboard_time": 1764299481,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162963,
+        "num": 255363,
+        "word": "日本现职领导人侵害中国主权和领土完整",
+        "onboard_time": 1764296479,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 146829,
+        "num": 255321,
+        "word": "疑似郑乃馨与男友分手",
+        "onboard_time": 1764298039,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74776,
+        "num": 255244,
+        "word": "香港向每户灾民发1万港元补助",
+        "onboard_time": 1764241284,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 142747,
+        "num": 255176,
+        "word": "高市早苗再发谬论给自己壮胆",
+        "onboard_time": 1764285379,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 135936,
+        "num": 255124,
+        "word": "穿袜子睡觉入睡时间缩短7.5分钟",
+        "onboard_time": 1764285798,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 129756,
+        "num": 255047,
+        "word": "彭小苒与男网红拍剧宣小视频",
+        "onboard_time": 1764289822,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31697,
+        "num": 254952,
+        "word": "钱志敏400亿比特币能归还中国吗",
+        "onboard_time": 1764300744,
+        "rank": 39,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 117236,
+        "num": 254889,
+        "word": "孙颖莎与恩师女儿亲切合照",
+        "onboard_time": 1764293661,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108143,
+        "num": 254827,
+        "word": "滇二娃致歉",
+        "onboard_time": 1764260840,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106662,
+        "num": 254781,
+        "word": "石破茂看中国媒体批评高市早苗视频",
+        "onboard_time": 1764288981,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91295,
+        "num": 254725,
+        "word": "于何一为许昕发声",
+        "onboard_time": 1764298880,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83851,
+        "num": 254641,
+        "word": "睡觉出现这3种情况说明你变老了",
+        "onboard_time": 1764289041,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80797,
+        "num": 254584,
+        "word": "女子被男子拐卖外地生育多年后回家",
+        "onboard_time": 1764297681,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80489,
+        "num": 254485,
+        "word": "钟某某故意杀人案一审宣判",
+        "onboard_time": 1764296479,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78879,
+        "num": 254464,
+        "word": "日军强征琉球学生作人肉炸弹",
+        "onboard_time": 1764299540,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77966,
+        "num": 254390,
+        "word": "原来这就是有效P图啊",
+        "onboard_time": 1764300502,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 77625,
+        "num": 254297,
+        "word": "向佐郭碧婷把女儿养太好了",
+        "onboard_time": 1764290481,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记坚持发展实业的深意#"
+    }
+  }
+}

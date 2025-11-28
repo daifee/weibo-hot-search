@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764299924853,
+  "endTime": 1764300893482,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -161,6 +161,14 @@
       "onboard_time": 1764077002,
       "rank": 5,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 1862188,
+      "num": 443267,
+      "word": "南通文旅",
+      "onboard_time": 1764299181,
+      "rank": 10,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1828697,
@@ -369,14 +377,6 @@
       "onboard_time": 1764208223,
       "rank": 15,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1262818,
-      "num": 443267,
-      "word": "南通文旅",
-      "onboard_time": 1764299181,
-      "rank": 10,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1257532,
@@ -2105,6 +2105,14 @@
       "onboard_time": 1764297022,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 480457,
+      "num": 256637,
+      "word": "TVB演员海俊杰妻子病逝",
+      "onboard_time": 1764300322,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 479593,
@@ -4323,6 +4331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 265631,
+      "num": 256132,
+      "word": "天书黎明定档",
+      "onboard_time": 1764300143,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 265564,
       "num": 224691,
       "word": "男子抛妻弃子20年欠40万儿子拒还",
@@ -4505,6 +4521,14 @@
       "onboard_time": 1763864901,
       "rank": 24,
       "category": "互联网,民生新闻"
+    },
+    {
+      "raw_hot": 257413,
+      "num": 2743308,
+      "word": "雷军回应小米汽车续航测试",
+      "onboard_time": 1764299061,
+      "rank": 1,
+      "category": "汽车"
     },
     {
       "raw_hot": 257014,
@@ -6091,6 +6115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 193060,
+      "num": 255887,
+      "word": "编剧兰晓龙导演孔笙",
+      "onboard_time": 1764300680,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 193056,
       "num": 193056,
       "word": "张佳宁好像我和闺蜜去迪士尼",
@@ -6691,6 +6723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 181200,
+      "num": 424360,
+      "word": "王安宇大背头",
+      "onboard_time": 1764298462,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181074,
       "num": 181074,
       "word": "香港大埔发生火灾",
@@ -7033,6 +7073,14 @@
       "onboard_time": 1764033021,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173171,
+      "num": 424104,
+      "word": "澳洲教练嫉妒7岁学生家境好杀人",
+      "onboard_time": 1764298880,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 173105,
@@ -7515,6 +7563,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 162963,
+      "num": 424341,
+      "word": "日本现职领导人侵害中国主权和领土完整",
+      "onboard_time": 1764296479,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 162953,
       "num": 1626674,
       "word": "法考",
@@ -7569,14 +7625,6 @@
       "onboard_time": 1764160643,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 161806,
-      "num": 424360,
-      "word": "王安宇大背头",
-      "onboard_time": 1764298462,
-      "rank": 23,
-      "category": "综艺"
     },
     {
       "raw_hot": 161720,
@@ -7641,14 +7689,6 @@
       "onboard_time": 1764235823,
       "rank": 49,
       "category": "网红"
-    },
-    {
-      "raw_hot": 161170,
-      "num": 424341,
-      "word": "日本现职领导人侵害中国主权和领土完整",
-      "onboard_time": 1764296479,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 161020,
@@ -7907,14 +7947,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 156498,
-      "num": 2743308,
-      "word": "雷军回应小米汽车续航测试",
-      "onboard_time": 1764299061,
-      "rank": 1,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 156296,
       "num": 156296,
       "word": "迪丽热巴你怎么奖励陈星旭",
@@ -8089,6 +8121,14 @@
       "onboard_time": 1764063802,
       "rank": 47,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 153244,
+      "num": 424192,
+      "word": "TES双AD",
+      "onboard_time": 1764299540,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 153234,
@@ -8361,6 +8401,14 @@
       "onboard_time": 1764063681,
       "rank": 31,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 146829,
+      "num": 424187,
+      "word": "疑似郑乃馨与男友分手",
+      "onboard_time": 1764298039,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 146750,
@@ -9459,6 +9507,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 128982,
+      "num": 465338,
+      "word": "恋与深空",
+      "onboard_time": 1764299781,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 128973,
       "num": 1799867,
       "word": "怎么才能在清华名正言顺的吹泡泡",
@@ -10419,14 +10475,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 117089,
-      "num": 424192,
-      "word": "TES双AD",
-      "onboard_time": 1764299540,
-      "rank": 33,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 117063,
       "num": 117063,
       "word": "何炅的工伤那英全责",
@@ -11153,14 +11201,6 @@
       "onboard_time": 1763966782,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 108602,
-      "num": 424187,
-      "word": "疑似郑乃馨与男友分手",
-      "onboard_time": 1764298039,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 108599,
@@ -12491,14 +12531,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 95251,
-      "num": 424104,
-      "word": "澳洲教练嫉妒7岁学生家境好杀人",
-      "onboard_time": 1764298880,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 95045,
       "num": 95045,
       "word": "医院流感接诊量明显升高",
@@ -13579,6 +13611,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 82055,
+      "num": 424424,
+      "word": "新加坡放弃美国的改用中国开源模型",
+      "onboard_time": 1764299422,
+      "rank": 19,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82045,
       "num": 423962,
       "word": "日军强征琉球学生作人肉炸弹",
@@ -13697,6 +13737,14 @@
       "onboard_time": 1764246863,
       "rank": 34,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 80489,
+      "num": 254485,
+      "word": "钟某某故意杀人案一审宣判",
+      "onboard_time": 1764296479,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 80373,
@@ -13857,6 +13905,14 @@
       "onboard_time": 1764038781,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77966,
+      "num": 254390,
+      "word": "原来这就是有效P图啊",
+      "onboard_time": 1764300502,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 77427,
@@ -14081,14 +14137,6 @@
       "onboard_time": 1763811501,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 73620,
-      "num": 465338,
-      "word": "恋与深空",
-      "onboard_time": 1764299781,
-      "rank": 8,
-      "category": "游戏"
     },
     {
       "raw_hot": 73605,
@@ -15259,6 +15307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48183,
+      "num": 256354,
+      "word": "江西早产男婴离世母亲发声",
+      "onboard_time": 1764300562,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48113,
       "num": 208499,
       "word": "美国AI泡沫可能引发全球金融危机",
@@ -16075,6 +16131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31697,
+      "num": 254952,
+      "word": "钱志敏400亿比特币能归还中国吗",
+      "onboard_time": 1764300744,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 31627,
       "num": 120150,
       "word": "偷甘蔗马拉松跑友扬言拉爆老板",
@@ -16329,6 +16393,14 @@
       "onboard_time": 1764216382,
       "rank": 47,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 27081,
+      "num": 256277,
+      "word": "婚假最长省份可休30天",
+      "onboard_time": 1764300382,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26814,
@@ -16947,6 +17019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16746,
+      "num": 255979,
+      "word": "中国星眼锁定太空危机",
+      "onboard_time": 1764300680,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 16641,
       "num": 25291,
       "word": "美方28点计划缩减为19点",
@@ -17089,14 +17169,6 @@
       "onboard_time": 1764256404,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14109,
-      "num": 424424,
-      "word": "新加坡放弃美国的改用中国开源模型",
-      "onboard_time": 1764299422,
-      "rank": 19,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 14040,
