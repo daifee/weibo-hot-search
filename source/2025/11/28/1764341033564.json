@@ -1,0 +1,410 @@
+{
+  "runTime": 1764341033564,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5132548,
+        "num": 5132548,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 331993,
+        "num": 331993,
+        "word": "中国男篮主场不敌韩国男篮",
+        "onboard_time": 1764337584,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 3209,
+        "num": 331080,
+        "word": "我国新一代太空感知星座发布",
+        "onboard_time": 1764296842,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 354171,
+        "num": 327282,
+        "word": "疯狂动物城",
+        "onboard_time": 1764327502,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 335294,
+        "num": 323801,
+        "word": "香港将下半旗志哀",
+        "onboard_time": 1764330803,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 287327,
+        "num": 323328,
+        "word": "疯狂动物城2票房破5亿",
+        "onboard_time": 1764336563,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223729,
+        "num": 318934,
+        "word": "香港廉政公署先后拘捕8人",
+        "onboard_time": 1764333442,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211844,
+        "num": 316597,
+        "word": "华晨宇演唱会",
+        "onboard_time": 1764340403,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 125675,
+        "num": 313511,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1764331223,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 98543,
+        "num": 312731,
+        "word": "小鹏报警",
+        "onboard_time": 1764337343,
+        "rank": 9,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 1634452,
+        "num": 307908,
+        "word": "禁毒",
+        "onboard_time": 1764324263,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385800,
+        "num": 305573,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304558,
+        "num": 304558,
+        "word": "疑似范丞丞趁机表白",
+        "onboard_time": 1764332244,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134646,
+        "num": 304438,
+        "word": "菲律宾误报7.5级地震",
+        "onboard_time": 1764337524,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232183,
+        "num": 304322,
+        "word": "当我开店取消了扫码点单",
+        "onboard_time": 1764326784,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 198060,
+        "num": 304210,
+        "word": "用杨幂打开冯太后的大女主人生",
+        "onboard_time": 1764340104,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 193229,
+        "num": 303978,
+        "word": "微信步数 窥探隐私",
+        "onboard_time": 1764327262,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 169366,
+        "num": 303837,
+        "word": "宋茜一秒看出曹骏挂脸",
+        "onboard_time": 1764331642,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143913,
+        "num": 303601,
+        "word": "王一博小气了是不是",
+        "onboard_time": 1764326484,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141767,
+        "num": 303405,
+        "word": "法院向吴亦凡经纪公司追缴诉讼费",
+        "onboard_time": 1764323063,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529513,
+        "num": 303296,
+        "word": "李靓蕾现身邱泽许玮甯婚礼",
+        "onboard_time": 1764338484,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 435869,
+        "num": 303074,
+        "word": "28岁确诊结肠癌晚期的真实感受",
+        "onboard_time": 1764337405,
+        "rank": 21,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 361106,
+        "num": 303035,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50055,
+        "num": 302769,
+        "word": "香港女子说消防真的在用命救我们",
+        "onboard_time": 1764339623,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 156955,
+        "num": 302569,
+        "word": "童瑶",
+        "onboard_time": 1764323482,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 262612,
+        "num": 302443,
+        "word": "邱泽许玮甯婚礼现场",
+        "onboard_time": 1764324263,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139325,
+        "num": 302334,
+        "word": "台政客与高市早苗办公桌合影被群嘲",
+        "onboard_time": 1764332604,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 137140,
+        "num": 302177,
+        "word": "何穗产后首复工",
+        "onboard_time": 1764331342,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132599,
+        "num": 301992,
+        "word": "陈梦机场变秀场",
+        "onboard_time": 1764338784,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124804,
+        "num": 301861,
+        "word": "盗摄",
+        "onboard_time": 1764323242,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124950,
+        "num": 301604,
+        "word": "圆明园兽首出来那一刻人麻了",
+        "onboard_time": 1764323783,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118759,
+        "num": 301491,
+        "word": "太原老葛被罚560万元",
+        "onboard_time": 1764337405,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117169,
+        "num": 301289,
+        "word": "逆水寒",
+        "onboard_time": 1764340884,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112928,
+        "num": 301140,
+        "word": "戚百草的草莓发卡是杨洋自费买的",
+        "onboard_time": 1764330982,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 104987,
+        "num": 300944,
+        "word": "石破茂吃拉面加太多叉烧被痛骂",
+        "onboard_time": 1764338245,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102184,
+        "num": 300841,
+        "word": "被男同学杀害女孩本子写满笔记",
+        "onboard_time": 1764339863,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93641,
+        "num": 300675,
+        "word": "爱达邮轮取消所有日本目的地",
+        "onboard_time": 1764330624,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 90548,
+        "num": 300481,
+        "word": "女子钻漏洞下单476笔薅羊毛25万",
+        "onboard_time": 1764334943,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88075,
+        "num": 300234,
+        "word": "成毅一脸震惊好可爱",
+        "onboard_time": 1764339923,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84904,
+        "num": 300150,
+        "word": "肖战演一部美男奖励自己一部糙汉",
+        "onboard_time": 1764319283,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 82958,
+        "num": 299897,
+        "word": "未来五年什么工作吃香",
+        "onboard_time": 1764324623,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82472,
+        "num": 299778,
+        "word": "日本学者点破特朗普真实想法",
+        "onboard_time": 1764338784,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81449,
+        "num": 299568,
+        "word": "Zeus跟Peanut和Faker聚餐",
+        "onboard_time": 1764338784,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75891,
+        "num": 299428,
+        "word": "TF家族 考核",
+        "onboard_time": 1764331342,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74798,
+        "num": 299349,
+        "word": "8张信用卡轮流还贷300万",
+        "onboard_time": 1764341006,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 73689,
+        "num": 299151,
+        "word": "女子与老公吵架3个月患乳腺癌",
+        "onboard_time": 1764330382,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71201,
+        "num": 298879,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69549,
+        "num": 298791,
+        "word": "李二狗没失踪当营枭号了",
+        "onboard_time": 1764340704,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68336,
+        "num": 298594,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68178,
+        "num": 298383,
+        "word": "逍遥散人取消出席逆水寒赛事",
+        "onboard_time": 1764323181,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

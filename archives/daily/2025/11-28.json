@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764340112995,
+  "endTime": 1764341033564,
   "band_list": [
     {
       "raw_hot": 8803300,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 435869,
+      "num": 1516718,
+      "word": "28岁确诊结肠癌晚期的真实感受",
+      "onboard_time": 1764337405,
+      "rank": 30,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 432381,
       "num": 2328017,
       "word": "3名中国公民在塔遇袭身亡",
@@ -449,14 +457,6 @@
       "onboard_time": 1764326484,
       "rank": 39,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 399408,
-      "num": 1516718,
-      "word": "28岁确诊结肠癌晚期的真实感受",
-      "onboard_time": 1764337405,
-      "rank": 30,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 380428,
@@ -521,6 +521,14 @@
       "onboard_time": 1764252503,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 331993,
+      "num": 4741429,
+      "word": "中国男篮主场不敌韩国男篮",
+      "onboard_time": 1764337584,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 315419,
@@ -601,6 +609,14 @@
       "onboard_time": 1764314362,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 287327,
+      "num": 2473452,
+      "word": "疯狂动物城2票房破5亿",
+      "onboard_time": 1764336563,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 287134,
@@ -699,14 +715,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 249251,
-      "num": 4741429,
-      "word": "中国男篮主场不敌韩国男篮",
-      "onboard_time": 1764337584,
-      "rank": 32,
-      "category": "体育"
-    },
-    {
       "raw_hot": 248282,
       "num": 2025464,
       "word": "香港向每户灾民发1万港元补助",
@@ -753,14 +761,6 @@
       "onboard_time": 1764303983,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 232670,
-      "num": 2473452,
-      "word": "疯狂动物城2票房破5亿",
-      "onboard_time": 1764336563,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 228234,
@@ -817,6 +817,14 @@
       "onboard_time": 1764254243,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211844,
+      "num": 316597,
+      "word": "华晨宇演唱会",
+      "onboard_time": 1764340403,
+      "rank": 7,
+      "category": "演出"
     },
     {
       "raw_hot": 211623,
@@ -891,12 +899,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198060,
+      "num": 304210,
+      "word": "用杨幂打开冯太后的大女主人生",
+      "onboard_time": 1764340104,
+      "rank": 15,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 196202,
       "num": 504576,
       "word": "逍遥散人 米哈游",
       "onboard_time": 1764305723,
       "rank": 30,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 193229,
+      "num": 1523846,
+      "word": "微信步数 窥探隐私",
+      "onboard_time": 1764327262,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 193060,
@@ -1017,14 +1041,6 @@
       "onboard_time": 1764306502,
       "rank": 8,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174507,
-      "num": 1523846,
-      "word": "微信步数 窥探隐私",
-      "onboard_time": 1764327262,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 174386,
@@ -1563,12 +1579,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 118759,
+      "num": 1502078,
+      "word": "太原老葛被罚560万元",
+      "onboard_time": 1764337405,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 117930,
       "num": 260071,
       "word": "世界排名不能定义樊振东",
       "onboard_time": 1764302962,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 117169,
+      "num": 301289,
+      "word": "逆水寒",
+      "onboard_time": 1764340884,
+      "rank": 32,
+      "category": "游戏"
     },
     {
       "raw_hot": 116978,
@@ -1617,14 +1649,6 @@
       "onboard_time": 1764303623,
       "rank": 29,
       "category": "财经"
-    },
-    {
-      "raw_hot": 112717,
-      "num": 1502078,
-      "word": "太原老葛被罚560万元",
-      "onboard_time": 1764337405,
-      "rank": 37,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111782,
@@ -1787,6 +1811,14 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 102184,
+      "num": 1487656,
+      "word": "被男同学杀害女孩本子写满笔记",
+      "onboard_time": 1764339863,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102010,
       "num": 548087,
       "word": "雷军称继续向特斯拉学习",
@@ -1931,20 +1963,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 93641,
+      "num": 1498883,
+      "word": "爱达邮轮取消所有日本目的地",
+      "onboard_time": 1764330624,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 93614,
       "num": 1107973,
       "word": "宗馥莉一直在与娃哈哈集团切割",
       "onboard_time": 1764255502,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93204,
-      "num": 1498883,
-      "word": "爱达邮轮取消所有日本目的地",
-      "onboard_time": 1764330624,
-      "rank": 39,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 92522,
@@ -1995,6 +2027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 90548,
+      "num": 1498610,
+      "word": "女子钻漏洞下单476笔薅羊毛25万",
+      "onboard_time": 1764334943,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 90243,
       "num": 283126,
       "word": "宏福苑工程顾问公司2名董事被拘捕",
@@ -2025,6 +2065,14 @@
       "onboard_time": 1764336863,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 88075,
+      "num": 1493366,
+      "word": "成毅一脸震惊好可爱",
+      "onboard_time": 1764339923,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 87738,
@@ -2065,14 +2113,6 @@
       "onboard_time": 1764262039,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 85956,
-      "num": 1498610,
-      "word": "女子钻漏洞下单476笔薅羊毛25万",
-      "onboard_time": 1764334943,
-      "rank": 44,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 85736,
@@ -2171,6 +2211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82472,
+      "num": 1489700,
+      "word": "日本学者点破特朗普真实想法",
+      "onboard_time": 1764338784,
+      "rank": 41,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82332,
       "num": 1123302,
       "word": "公司被曝拍员工如厕照并记录时间",
@@ -2251,14 +2299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 77891,
-      "num": 1493366,
-      "word": "成毅一脸震惊好可爱",
-      "onboard_time": 1764339923,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 77427,
       "num": 828152,
       "word": "威海3.6级地震",
@@ -2299,20 +2339,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74798,
+      "num": 299349,
+      "word": "8张信用卡轮流还贷300万",
+      "onboard_time": 1764341006,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 74268,
       "num": 1120934,
       "word": "秦岚回应豪门婆婆50W梗",
       "onboard_time": 1764258262,
       "rank": 30,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 74254,
-      "num": 1487656,
-      "word": "被男同学杀害女孩本子写满笔记",
-      "onboard_time": 1764339863,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 74125,
@@ -2411,6 +2451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 69549,
+      "num": 298791,
+      "word": "李二狗没失踪当营枭号了",
+      "onboard_time": 1764340704,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 69410,
       "num": 813519,
       "word": "运气不好的日子就早点上床睡觉",
@@ -2432,14 +2480,6 @@
       "word": "国防部回应日本部署导弹",
       "onboard_time": 1764288022,
       "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 68328,
-      "num": 1489700,
-      "word": "日本学者点破特朗普真实想法",
-      "onboard_time": 1764338784,
-      "rank": 41,
       "category": "国际时政"
     },
     {
@@ -2648,6 +2688,14 @@
       "word": "祖冲之二号助力量子模拟新突破",
       "onboard_time": 1764325823,
       "rank": 1,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50055,
+      "num": 1519822,
+      "word": "香港女子说消防真的在用命救我们",
+      "onboard_time": 1764339623,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3049,14 +3097,6 @@
       "onboard_time": 1764327863,
       "rank": 39,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 18159,
-      "num": 1519822,
-      "word": "香港女子说消防真的在用命救我们",
-      "onboard_time": 1764339623,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15126,
