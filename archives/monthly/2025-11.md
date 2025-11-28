@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 13:28:59
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 13:44:54
 </p>
 </blockquote>
 <p>
@@ -5565,6 +5565,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E5%8D%88%E9%98%B3%E5%85%89%E7%9A%84%E7%AC%AC%E4%B8%80%E9%83%A8%E7%94%B5%E5%BD%B1%23" target="weibo">
+正午阳光的第一部电影（热度：583597）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9D%A2%E8%AF%95%E5%AE%98%E9%97%AE%E6%8A%BD%E4%B8%8D%E6%8A%BD%E7%83%9F%23" target="weibo">
 面试官问抽不抽烟（热度：583295）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%A6%8D%20%E6%B7%B7%E6%88%90%E8%BF%99%E6%A0%B7%E9%83%BD%E4%B8%8D%E6%89%BE%E4%BD%A0%E5%8E%BB%23" target="weibo">
 姜妍 混成这样都不找你去（热度：556970）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%82%A3%E8%8B%B1%E6%80%BC%E5%8D%8E%E6%99%A8%E5%AE%87%23" target="weibo">
-那英怼华晨宇（热度：556876）
 </a>
 </li>
 

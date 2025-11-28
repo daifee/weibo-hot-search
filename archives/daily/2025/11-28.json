@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764307739121,
+  "endTime": 1764308694311,
   "band_list": [
     {
       "raw_hot": 8176328,
@@ -115,6 +115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 583597,
+      "num": 4231736,
+      "word": "正午阳光的第一部电影",
+      "onboard_time": 1764303262,
+      "rank": 33,
+      "category": "电影"
+    },
+    {
       "raw_hot": 572366,
       "num": 4218982,
       "word": "香港大火已完成灭火程序",
@@ -137,14 +145,6 @@
       "onboard_time": 1764297022,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 480955,
-      "num": 4231736,
-      "word": "正午阳光的第一部电影",
-      "onboard_time": 1764303262,
-      "rank": 33,
-      "category": "电影"
     },
     {
       "raw_hot": 480457,
@@ -187,12 +187,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 380428,
+      "num": 801589,
+      "word": "军事专家警告日本东海并不宽",
+      "onboard_time": 1764303262,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 378905,
       "num": 424525,
       "word": "江西早产男婴出保温箱后离世",
       "onboard_time": 1764297319,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376181,
+      "num": 170943,
+      "word": "女子为出片生理期潜水被鲨鱼咬伤",
+      "onboard_time": 1764308363,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376154,
+      "num": 376154,
+      "word": "向太称不会把上市公司交给儿子",
+      "onboard_time": 1764305182,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 368179,
@@ -233,14 +257,6 @@
       "onboard_time": 1764254122,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 304166,
-      "num": 304166,
-      "word": "向太称不会把上市公司交给儿子",
-      "onboard_time": 1764305182,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 297837,
@@ -323,6 +339,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 238094,
+      "num": 555133,
+      "word": "美国被曝给日本躁动泼冷水",
+      "onboard_time": 1764305363,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 234812,
       "num": 260082,
       "word": "杭州偶遇孙杨夫妇逛街",
@@ -337,14 +361,6 @@
       "onboard_time": 1764303983,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 225166,
-      "num": 555133,
-      "word": "美国被曝给日本躁动泼冷水",
-      "onboard_time": 1764305363,
-      "rank": 12,
-      "category": "国际时政"
     },
     {
       "raw_hot": 223525,
@@ -393,6 +409,14 @@
       "onboard_time": 1764240922,
       "rank": 13,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203575,
+      "num": 234335,
+      "word": "特朗普敲打高市早苗",
+      "onboard_time": 1764307101,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 200236,
@@ -539,8 +563,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 164084,
-      "num": 164084,
+      "raw_hot": 164814,
+      "num": 164814,
       "word": "拿下她相当于拿下了热巴",
       "onboard_time": 1764305182,
       "rank": 48,
@@ -553,14 +577,6 @@
       "onboard_time": 1764302361,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163437,
-      "num": 163437,
-      "word": "特朗普敲打高市早苗",
-      "onboard_time": 1764307101,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 163277,
@@ -633,14 +649,6 @@
       "onboard_time": 1764297861,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 142042,
-      "num": 801589,
-      "word": "军事专家警告日本东海并不宽",
-      "onboard_time": 1764303262,
-      "rank": 17,
-      "category": "国内时政"
     },
     {
       "raw_hot": 139882,
@@ -723,6 +731,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 128496,
+      "num": 157725,
+      "word": "普京说重返G8太尴尬",
+      "onboard_time": 1764306624,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 125863,
       "num": 125863,
       "word": "刘晓庆细数当女生的4点好处",
@@ -744,6 +760,14 @@
       "word": "被困柬埔寨怀孕女子已脱身并产子",
       "onboard_time": 1764240623,
       "rank": 37,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123026,
+      "num": 105707,
+      "word": "泰国洪灾一女子躲进冰箱4天后获救",
+      "onboard_time": 1764307762,
+      "rank": 38,
       "category": "海外新闻"
     },
     {
@@ -843,12 +867,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107149,
+      "num": 104780,
+      "word": "周星驰被叫星爷的原因",
+      "onboard_time": 1764306023,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 106880,
       "num": 746078,
       "word": "王楚钦惨遭小孩哥告状",
       "onboard_time": 1764295761,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106178,
+      "num": 106178,
+      "word": "广东调集救援装备等交付香港方面",
+      "onboard_time": 1764308421,
+      "rank": 37,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 105192,
+      "num": 105192,
+      "word": "宁静 没有人管晓庆姐了吗",
+      "onboard_time": 1764307882,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 104649,
+      "num": 104649,
+      "word": "只有去北京工作过的人才知道",
+      "onboard_time": 1764305543,
+      "rank": 42,
+      "category": "情感"
     },
     {
       "raw_hot": 102739,
@@ -865,6 +921,14 @@
       "onboard_time": 1764297981,
       "rank": 29,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 101047,
+      "num": 101047,
+      "word": "预制菜 预字菜",
+      "onboard_time": 1764308242,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 100807,
@@ -939,8 +1003,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 92014,
+      "num": 92014,
+      "word": "苹果手机被偷一周收到骗子来电",
+      "onboard_time": 1764308482,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 90682,
-      "num": 161409,
+      "num": 174980,
       "word": "立陶宛球员麦迪附体9秒9分",
       "onboard_time": 1764303862,
       "rank": 37,
@@ -1243,14 +1315,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 58336,
-      "num": 157725,
-      "word": "普京说重返G8太尴尬",
-      "onboard_time": 1764306624,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 58037,
       "num": 672139,
       "word": "香港大埔火灾已致83人遇难",
@@ -1307,6 +1371,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 50598,
+      "num": 466243,
+      "word": "疯狂动物城2系列花束",
+      "onboard_time": 1764306383,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49147,
       "num": 102031,
       "word": "杰伦威廉姆斯复出",
@@ -1355,14 +1427,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 47263,
-      "num": 466243,
-      "word": "疯狂动物城2系列花束",
-      "onboard_time": 1764306383,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 47045,
       "num": 424109,
       "word": "野猪跑到家男子租独栋房屋饲养一年",
@@ -1409,6 +1473,14 @@
       "onboard_time": 1764252383,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 40955,
+      "num": 3583263,
+      "word": "央视揭秘中国核电站内部",
+      "onboard_time": 1764307582,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 40340,
@@ -1585,14 +1657,6 @@
       "onboard_time": 1764250464,
       "rank": 9,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 13669,
-      "num": 3583263,
-      "word": "央视揭秘中国核电站内部",
-      "onboard_time": 1764307582,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12031,
