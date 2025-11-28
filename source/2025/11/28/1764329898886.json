@@ -1,0 +1,410 @@
+{
+  "runTime": 1764329898886,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6337994,
+        "num": 6337994,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 30379,
+        "num": 3890337,
+        "word": "二氧化碳变燃料关键技术突破",
+        "onboard_time": 1764329422,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69177,
+        "num": 3338136,
+        "word": "12月这些新规影响你我",
+        "onboard_time": 1764319103,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168495,
+        "num": 2166084,
+        "word": "逍遥散人取消出席逆水寒赛事",
+        "onboard_time": 1764323181,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 63656,
+        "num": 786745,
+        "word": "夸克AI眼镜持续霸榜第一",
+        "onboard_time": 1764313402,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 395988,
+        "num": 395988,
+        "word": "疯狂动物城",
+        "onboard_time": 1764327502,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338378,
+        "num": 338378,
+        "word": "圆明园兽首出来那一刻人麻了",
+        "onboard_time": 1764323783,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313688,
+        "num": 313688,
+        "word": "对大埔火灾每名遇难者家属发20万港元",
+        "onboard_time": 1764324623,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191516,
+        "num": 313451,
+        "word": "盗摄",
+        "onboard_time": 1764323242,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 107902,
+        "num": 313400,
+        "word": "shanks回应不和Tabe去JDG",
+        "onboard_time": 1764325163,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1988596,
+        "num": 313049,
+        "word": "禁毒",
+        "onboard_time": 1764324263,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 707964,
+        "num": 312667,
+        "word": "当我开店取消了扫码点单",
+        "onboard_time": 1764326784,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 668064,
+        "num": 312401,
+        "word": "法院向吴亦凡经纪公司追缴诉讼费",
+        "onboard_time": 1764323063,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 403883,
+        "num": 312206,
+        "word": "王一博小气了是不是",
+        "onboard_time": 1764326484,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224966,
+        "num": 312033,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163428,
+        "num": 311639,
+        "word": "吃生鱼片要了杯热水",
+        "onboard_time": 1764316882,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 177447,
+        "num": 311574,
+        "word": "易烊千玺刘亦菲给咖啡整成高奢了",
+        "onboard_time": 1764322042,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155537,
+        "num": 311103,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88057,
+        "num": 311055,
+        "word": "疯片盗摄城",
+        "onboard_time": 1764319763,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55228,
+        "num": 310693,
+        "word": "香港禁止进口日本10地的水产食品",
+        "onboard_time": 1764328824,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 614580,
+        "num": 310382,
+        "word": "邱泽许玮甯婚礼现场",
+        "onboard_time": 1764324263,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98907,
+        "num": 310291,
+        "word": "GW对战MRC",
+        "onboard_time": 1764327444,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 402945,
+        "num": 310001,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 324803,
+        "num": 309637,
+        "word": "童瑶",
+        "onboard_time": 1764323482,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 210284,
+        "num": 309383,
+        "word": "肖战演一部美男奖励自己一部糙汉",
+        "onboard_time": 1764319283,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 167379,
+        "num": 309120,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79220,
+        "num": 308833,
+        "word": "哥的全宇宙 平行时空饭店",
+        "onboard_time": 1764328462,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 161033,
+        "num": 308548,
+        "word": "潘展乐追光成功",
+        "onboard_time": 1764329602,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158120,
+        "num": 308241,
+        "word": "等了27天男女主终于亲上了",
+        "onboard_time": 1764329063,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154625,
+        "num": 308002,
+        "word": "papi酱2016年的视频",
+        "onboard_time": 1764326182,
+        "rank": 29,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 124282,
+        "num": 307741,
+        "word": "香港大埔火灾约200人情况未明",
+        "onboard_time": 1764316943,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 120855,
+        "num": 307571,
+        "word": "网红在非洲遭绑架跳车逃生",
+        "onboard_time": 1764324024,
+        "rank": 31,
+        "category": "民生新闻,网红"
+      },
+      {
+        "raw_hot": 105278,
+        "num": 307275,
+        "word": "未来五年什么工作吃香",
+        "onboard_time": 1764324623,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99288,
+        "num": 307119,
+        "word": "中央政治局召开会议",
+        "onboard_time": 1764319283,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 98750,
+        "num": 306843,
+        "word": "爸爸端火锅撞上儿子致其严重烫伤",
+        "onboard_time": 1764309382,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95857,
+        "num": 306551,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95083,
+        "num": 306317,
+        "word": "杀害女同学男生听到判决面无表情",
+        "onboard_time": 1764327623,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36961,
+        "num": 305905,
+        "word": "六旬女子诊所输液后离世",
+        "onboard_time": 1764329063,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72303,
+        "num": 305744,
+        "word": "冰岛偶遇潘展乐",
+        "onboard_time": 1764329063,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23394,
+        "num": 305548,
+        "word": "余承恩就这么径直跑向女厕",
+        "onboard_time": 1764329243,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61127,
+        "num": 305242,
+        "word": "特朗普叫停接收所谓第三世界移民",
+        "onboard_time": 1764327623,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 92383,
+        "num": 305040,
+        "word": "中方亮剑",
+        "onboard_time": 1764315504,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86729,
+        "num": 304798,
+        "word": "张栋梁又杀回湖南卫视了",
+        "onboard_time": 1764326784,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86099,
+        "num": 304404,
+        "word": "点外卖备注放门口的人最精了",
+        "onboard_time": 1764309862,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63352,
+        "num": 304090,
+        "word": "4300年前后的石峁城先民找到了",
+        "onboard_time": 1764327623,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85329,
+        "num": 303863,
+        "word": "她可是当年的知画啊",
+        "onboard_time": 1764313820,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 80077,
+        "num": 303589,
+        "word": "吃上了肖战给的细糠",
+        "onboard_time": 1764329844,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79466,
+        "num": 303355,
+        "word": "逍遥散人 米哈游",
+        "onboard_time": 1764305723,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 65277,
+        "num": 303220,
+        "word": "迪丽热巴枭起青壤拉新周榜第一了",
+        "onboard_time": 1764328462,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64847,
+        "num": 302819,
+        "word": "恋与制作人八周年纪念系列活动",
+        "onboard_time": 1764328941,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}

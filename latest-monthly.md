@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 19:24:17
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 19:38:18
 </p>
 </blockquote>
 <p>
@@ -3945,6 +3945,12 @@ AG对战狼队（热度：725111）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%BC%80%E5%BA%97%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%AB%E7%A0%81%E7%82%B9%E5%8D%95%23" target="weibo">
+当我开店取消了扫码点单（热度：707964）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%95%E4%BC%91%E7%9A%84%E4%BC%98%E7%82%B9%23" target="weibo">
 单休的优点（热度：707005）
 </a>
@@ -4379,12 +4385,6 @@ Uzi颁奖（热度：677194）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E9%BE%99%E8%AE%B8%E6%98%95%E6%8B%A5%E6%8A%B1%23" target="weibo">
 马龙许昕拥抱（热度：670673）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%BC%80%E5%BA%97%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%AB%E7%A0%81%E7%82%B9%E5%8D%95%23" target="weibo">
-当我开店取消了扫码点单（热度：670291）
 </a>
 </li>
 

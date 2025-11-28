@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764329057035,
+  "endTime": 1764329898886,
   "band_list": [
     {
       "raw_hot": 8803300,
@@ -163,20 +163,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707964,
+      "num": 340346,
+      "word": "当我开店取消了扫码点单",
+      "onboard_time": 1764326784,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 689228,
       "num": 2642782,
       "word": "高市早苗再发谬论给自己壮胆",
       "onboard_time": 1764285379,
       "rank": 11,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 670291,
-      "num": 340346,
-      "word": "当我开店取消了扫码点单",
-      "onboard_time": 1764326784,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 663917,
@@ -371,6 +371,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 403883,
+      "num": 491578,
+      "word": "王一博小气了是不是",
+      "onboard_time": 1764326484,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 395988,
+      "num": 1119738,
+      "word": "疯狂动物城",
+      "onboard_time": 1764229762,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 380428,
       "num": 801589,
       "word": "军事专家警告日本东海并不宽",
@@ -425,14 +441,6 @@
       "onboard_time": 1764252503,
       "rank": 4,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 337888,
-      "num": 491578,
-      "word": "王一博小气了是不是",
-      "onboard_time": 1764326484,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 315419,
@@ -537,14 +545,6 @@
       "onboard_time": 1764319283,
       "rank": 25,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 274040,
-      "num": 1119738,
-      "word": "疯狂动物城",
-      "onboard_time": 1764229762,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 269450,
@@ -1011,12 +1011,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 161033,
+      "num": 308548,
+      "word": "潘展乐追光成功",
+      "onboard_time": 1764329602,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 158120,
+      "num": 308241,
+      "word": "等了27天男女主终于亲上了",
+      "onboard_time": 1764329063,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 157541,
       "num": 598855,
       "word": "你那情绪价值拉满的朋友belike",
       "onboard_time": 1764326062,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 154625,
+      "num": 498470,
+      "word": "papi酱2016年的视频",
+      "onboard_time": 1764326182,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 153364,
@@ -1065,14 +1089,6 @@
       "onboard_time": 1764315384,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 147457,
-      "num": 498470,
-      "word": "papi酱2016年的视频",
-      "onboard_time": 1764326182,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 146988,
@@ -1307,6 +1323,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 120855,
+      "num": 333094,
+      "word": "网红在非洲遭绑架跳车逃生",
+      "onboard_time": 1764324024,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 120846,
       "num": 506999,
       "word": "婆婆借100万照顾车祸儿媳5年",
@@ -1531,14 +1555,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 103130,
-      "num": 333094,
-      "word": "网红在非洲遭绑架跳车逃生",
-      "onboard_time": 1764324024,
-      "rank": 35,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 102739,
       "num": 3248962,
       "word": "樊振东胜利没有范本",
@@ -1657,6 +1673,14 @@
       "onboard_time": 1764292461,
       "rank": 15,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 95083,
+      "num": 331419,
+      "word": "杀害女同学男生听到判决面无表情",
+      "onboard_time": 1764327623,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95001,
@@ -1923,6 +1947,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80077,
+      "num": 303589,
+      "word": "吃上了肖战给的细糠",
+      "onboard_time": 1764329844,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 79758,
       "num": 1014432,
       "word": "原来捡秋美甲是从地上捡一片叶子",
@@ -2019,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 72303,
+      "num": 305744,
+      "word": "冰岛偶遇潘展乐",
+      "onboard_time": 1764329063,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 71733,
       "num": 818876,
       "word": "猫猫的眼里全是对自己出门的悔恨",
@@ -2091,6 +2131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 69177,
+      "num": 3857212,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1764319103,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68963,
       "num": 810447,
       "word": "国防部回应日本部署导弹",
@@ -2161,22 +2209,6 @@
       "onboard_time": 1764319103,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62397,
-      "num": 3857212,
-      "word": "12月这些新规影响你我",
-      "onboard_time": 1764319103,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 61195,
-      "num": 331419,
-      "word": "杀害女同学男生听到判决面无表情",
-      "onboard_time": 1764327623,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60135,
@@ -2265,6 +2297,14 @@
       "onboard_time": 1764309862,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 55228,
+      "num": 335021,
+      "word": "香港禁止进口日本10地的水产食品",
+      "onboard_time": 1764328824,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51806,
@@ -2443,14 +2483,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40588,
-      "num": 335021,
-      "word": "香港禁止进口日本10地的水产食品",
-      "onboard_time": 1764328824,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40580,
       "num": 282879,
       "word": "马嘉祺撑伞变装",
@@ -2497,6 +2529,14 @@
       "onboard_time": 1764317244,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36961,
+      "num": 305905,
+      "word": "六旬女子诊所输液后离世",
+      "onboard_time": 1764329063,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36274,
@@ -2560,6 +2600,14 @@
       "word": "儿媳遇车祸成植物人婆婆借100万救命",
       "onboard_time": 1764314903,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30379,
+      "num": 3890337,
+      "word": "二氧化碳变燃料关键技术突破",
+      "onboard_time": 1764329422,
+      "rank": 1,
       "category": "民生新闻"
     },
     {
@@ -2641,6 +2689,14 @@
       "onboard_time": 1764261499,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23394,
+      "num": 305548,
+      "word": "余承恩就这么径直跑向女厕",
+      "onboard_time": 1764329243,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 23237,

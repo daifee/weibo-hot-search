@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764329057035,
+  "endTime": 1764329898886,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -5243,6 +5243,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 707964,
+      "num": 340346,
+      "word": "当我开店取消了扫码点单",
+      "onboard_time": 1764326784,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 707005,
       "num": 707005,
       "word": "单休的优点",
@@ -5825,14 +5833,6 @@
       "onboard_time": 1763643443,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 670291,
-      "num": 340346,
-      "word": "当我开店取消了扫码点单",
-      "onboard_time": 1764326784,
-      "rank": 12,
-      "category": "幽默"
     },
     {
       "raw_hot": 670001,
@@ -13075,6 +13075,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 403883,
+      "num": 491578,
+      "word": "王一博小气了是不是",
+      "onboard_time": 1764326484,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 403734,
       "num": 345131,
       "word": "香港火灾涉事嫌疑人被捕现场",
@@ -16289,14 +16297,6 @@
       "onboard_time": 1762858701,
       "rank": 24,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 337888,
-      "num": 491578,
-      "word": "王一博小气了是不是",
-      "onboard_time": 1764326484,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 337805,
@@ -37563,6 +37563,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 161033,
+      "num": 308548,
+      "word": "潘展乐追光成功",
+      "onboard_time": 1764329602,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161028,
       "num": 161028,
       "word": "乌11名特种兵遭俄军击毙",
@@ -38465,6 +38473,14 @@
       "onboard_time": 1763384241,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 158120,
+      "num": 308241,
+      "word": "等了27天男女主终于亲上了",
+      "onboard_time": 1764329063,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 158107,
@@ -39609,6 +39625,14 @@
       "onboard_time": 1762347261,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 154625,
+      "num": 498470,
+      "word": "papi酱2016年的视频",
+      "onboard_time": 1764326182,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 154623,
@@ -41713,14 +41737,6 @@
       "onboard_time": 1761979700,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 147457,
-      "num": 498470,
-      "word": "papi酱2016年的视频",
-      "onboard_time": 1764326182,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 147440,
@@ -52491,6 +52507,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 120855,
+      "num": 333094,
+      "word": "网红在非洲遭绑架跳车逃生",
+      "onboard_time": 1764324024,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 120850,
       "num": 120850,
       "word": "陈熠vs何卓佳",
@@ -62235,14 +62259,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 103130,
-      "num": 333094,
-      "word": "网红在非洲遭绑架跳车逃生",
-      "onboard_time": 1764324024,
-      "rank": 35,
-      "category": "民生新闻,网红"
-    },
-    {
       "raw_hot": 103129,
       "num": 103129,
       "word": "侯明昊直播",
@@ -67425,6 +67441,14 @@
       "onboard_time": 1762355541,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 95083,
+      "num": 331419,
+      "word": "杀害女同学男生听到判决面无表情",
+      "onboard_time": 1764327623,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95079,
@@ -76459,6 +76483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 80077,
+      "num": 303589,
+      "word": "吃上了肖战给的细糠",
+      "onboard_time": 1764329844,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80076,
       "num": 165186,
       "word": "爵士vs勇士",
@@ -79803,6 +79835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 72303,
+      "num": 305744,
+      "word": "冰岛偶遇潘展乐",
+      "onboard_time": 1764329063,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 72301,
       "num": 1630283,
       "word": "老辈子下手没轻没重的",
@@ -80897,6 +80937,14 @@
       "onboard_time": 1763176521,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 69177,
+      "num": 3857212,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1764319103,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69170,
@@ -82963,14 +83011,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 62397,
-      "num": 3857212,
-      "word": "12月这些新规影响你我",
-      "onboard_time": 1764319103,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62384,
       "num": 69315,
       "word": "不锈钢勺子 售价1300元",
@@ -83353,14 +83393,6 @@
       "onboard_time": 1762656679,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 61195,
-      "num": 331419,
-      "word": "杀害女同学男生听到判决面无表情",
-      "onboard_time": 1764327623,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61177,
@@ -85041,6 +85073,14 @@
       "onboard_time": 1762664720,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 55228,
+      "num": 335021,
+      "word": "香港禁止进口日本10地的水产食品",
+      "onboard_time": 1764328824,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55209,
@@ -89291,14 +89331,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 40588,
-      "num": 335021,
-      "word": "香港禁止进口日本10地的水产食品",
-      "onboard_time": 1764328824,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 40580,
       "num": 282879,
       "word": "马嘉祺撑伞变装",
@@ -90415,6 +90447,14 @@
       "num": 105999,
       "word": "上报阿坝垮塌大桥裂缝司机发声",
       "onboard_time": 1763345959,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36961,
+      "num": 305905,
+      "word": "六旬女子诊所输液后离世",
+      "onboard_time": 1764329063,
       "rank": 37,
       "category": "民生新闻"
     },
@@ -92611,6 +92651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30379,
+      "num": 3890337,
+      "word": "二氧化碳变燃料关键技术突破",
+      "onboard_time": 1764329422,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30296,
       "num": 64924,
       "word": "檀健次allblack也硬帅",
@@ -94553,6 +94601,14 @@
       "onboard_time": 1763145075,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 23394,
+      "num": 305548,
+      "word": "余承恩就这么径直跑向女厕",
+      "onboard_time": 1764329243,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 23377,
