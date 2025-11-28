@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764369678817,
+  "endTime": 1764372307663,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -27,7 +27,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 544346,
+      "raw_hot": 688638,
       "num": 957562,
       "word": "普京宣布与乌克兰停火条件",
       "onboard_time": 1764346641,
@@ -155,6 +155,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123443,
+      "num": 123443,
+      "word": "俄罗斯多次对日本发出警告",
+      "onboard_time": 1764362894,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 120010,
       "num": 883546,
       "word": "一个人值不值得深交看看这件事",
@@ -187,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 93780,
+      "num": 111255,
+      "word": "周依然新电影",
+      "onboard_time": 1764367393,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 90691,
       "num": 706710,
       "word": "台政客与高市早苗办公桌合影被群嘲",
@@ -203,20 +219,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 86614,
-      "num": 116461,
-      "word": "俄罗斯多次对日本发出警告",
-      "onboard_time": 1764362894,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 86090,
       "num": 706036,
       "word": "王一博小气了是不是",
       "onboard_time": 1764326484,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84934,
+      "num": 700061,
+      "word": "女子钻漏洞下单476笔薅羊毛25万",
+      "onboard_time": 1764334943,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81348,
@@ -257,14 +273,6 @@
       "onboard_time": 1764340403,
       "rank": 32,
       "category": "演出"
-    },
-    {
-      "raw_hot": 63859,
-      "num": 700061,
-      "word": "女子钻漏洞下单476笔薅羊毛25万",
-      "onboard_time": 1764334943,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 63495,
@@ -347,6 +355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46160,
+      "num": 308817,
+      "word": "何穗产后首复工",
+      "onboard_time": 1764331342,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45109,
       "num": 694215,
       "word": "复婚能否休婚假各省情况不一",
@@ -411,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40154,
-      "num": 111255,
-      "word": "周依然新电影",
-      "onboard_time": 1764367393,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 39843,
       "num": 688966,
       "word": "8张信用卡轮流还贷300万",
@@ -427,12 +435,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 32282,
-      "num": 308817,
-      "word": "何穗产后首复工",
-      "onboard_time": 1764331342,
-      "rank": 40,
-      "category": "艺人"
+      "raw_hot": 39205,
+      "num": 270127,
+      "word": "第一次在综艺里看送房产证的",
+      "onboard_time": 1764350238,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 36157,
+      "num": 92932,
+      "word": "愿香港大埔平安",
+      "onboard_time": 1764370937,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35693,
+      "num": 307050,
+      "word": "石破茂吃拉面加太多叉烧被痛骂",
+      "onboard_time": 1764338245,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28627,
@@ -451,20 +475,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 27887,
-      "num": 307050,
-      "word": "石破茂吃拉面加太多叉烧被痛骂",
-      "onboard_time": 1764338245,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 25588,
-      "num": 270127,
-      "word": "第一次在综艺里看送房产证的",
-      "onboard_time": 1764350238,
-      "rank": 47,
-      "category": "综艺"
+      "raw_hot": 25445,
+      "num": 160809,
+      "word": "女子与老公吵架3个月患乳腺癌",
+      "onboard_time": 1764330382,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23681,
@@ -473,14 +489,6 @@
       "onboard_time": 1764354195,
       "rank": 39,
       "category": "情感"
-    },
-    {
-      "raw_hot": 17668,
-      "num": 160809,
-      "word": "女子与老公吵架3个月患乳腺癌",
-      "onboard_time": 1764330382,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 13929,

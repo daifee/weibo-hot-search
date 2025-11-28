@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 06:41:18
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 07:25:07
 </p>
 </blockquote>
 <p>
@@ -4215,6 +4215,12 @@ Guma FMVP（热度：688837）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E7%81%AB%E6%9D%A1%E4%BB%B6%23" target="weibo">
+普京宣布与乌克兰停火条件（热度：688638）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%92%8B%E6%AC%A3%E5%93%AD%E4%BA%86%23" target="weibo">
 蒋欣哭了（热度：688228）
 </a>
@@ -6005,12 +6011,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23C%E7%BD%97%E5%8F%AF%E8%83%BD%E5%81%9A%E8%BF%87%E5%A4%9A%E6%AC%A1%E6%95%B4%E5%AE%B9%E6%89%8B%E6%9C%AF%23" target="weibo">
 C罗可能做过多次整容手术（热度：563173）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A8%8A%E6%8C%AF%E4%B8%9Cvs%E4%BA%8E%E4%BD%95%E4%B8%80%23" target="weibo">
-樊振东vs于何一（热度：562355）
 </a>
 </li>
 
