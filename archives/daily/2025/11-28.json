@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764322958683,
+  "endTime": 1764325806640,
   "band_list": [
     {
       "raw_hot": 8803300,
@@ -59,12 +59,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1370298,
+      "num": 350654,
+      "word": "禁毒",
+      "onboard_time": 1764324263,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1286294,
       "num": 4011028,
       "word": "电影得闲谨制定档",
       "onboard_time": 1764295520,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1276968,
+      "num": 349479,
+      "word": "法院向吴亦凡经纪公司追缴诉讼费",
+      "onboard_time": 1764323063,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 1186788,
@@ -139,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 761119,
+      "num": 343882,
+      "word": "邱泽许玮甯婚礼现场",
+      "onboard_time": 1764324263,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 689228,
       "num": 2642782,
       "word": "高市早苗再发谬论给自己壮胆",
@@ -161,6 +185,22 @@
       "onboard_time": 1764309742,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 601294,
+      "num": 601294,
+      "word": "对大埔火灾每名遇难者家属发20万港元",
+      "onboard_time": 1764324623,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 590757,
+      "num": 343847,
+      "word": "童瑶",
+      "onboard_time": 1764323482,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 583597,
@@ -209,6 +249,14 @@
       "onboard_time": 1764315022,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 502664,
+      "num": 348513,
+      "word": "胡锡进谈南通文旅火了",
+      "onboard_time": 1764324502,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 486427,
@@ -339,6 +387,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 353870,
+      "num": 353870,
+      "word": "盗摄",
+      "onboard_time": 1764323242,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348208,
       "num": 885858,
       "word": "大妈将贵的西兰苔掰断谎称西兰花",
@@ -384,6 +440,14 @@
       "word": "王梓莼和张子枫是舍友",
       "onboard_time": 1764317903,
       "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 301033,
+      "num": 503611,
+      "word": "易烊千玺刘亦菲给咖啡整成高奢了",
+      "onboard_time": 1764322042,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -433,6 +497,14 @@
       "onboard_time": 1764290481,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 282069,
+      "num": 343784,
+      "word": "圆明园兽首出来那一刻人麻了",
+      "onboard_time": 1764323783,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 277433,
@@ -585,6 +657,14 @@
       "onboard_time": 1764297141,
       "rank": 18,
       "category": "电影"
+    },
+    {
+      "raw_hot": 218044,
+      "num": 343688,
+      "word": "shanks回应不和Tabe去JDG",
+      "onboard_time": 1764325163,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 215534,
@@ -755,6 +835,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 183688,
+      "num": 2579010,
+      "word": "逍遥散人取消出席逆水寒赛事",
+      "onboard_time": 1764323181,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 181200,
       "num": 424360,
       "word": "王安宇大背头",
@@ -801,6 +889,14 @@
       "onboard_time": 1764298880,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 173156,
+      "num": 343916,
+      "word": "刘宇宁带着卡祖笛登上大舞台了",
+      "onboard_time": 1764325222,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 170596,
@@ -1075,6 +1171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134753,
+      "num": 343711,
+      "word": "得闲谨制预售票房突破1000万",
+      "onboard_time": 1764324263,
+      "rank": 28,
+      "category": "电影"
+    },
+    {
       "raw_hot": 132765,
       "num": 132765,
       "word": "papi说何美延公公婆婆带了五个孩子",
@@ -1107,14 +1211,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129022,
-      "num": 503611,
-      "word": "易烊千玺刘亦菲给咖啡整成高奢了",
-      "onboard_time": 1764322042,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 128982,
       "num": 465338,
       "word": "恋与深空",
@@ -1137,6 +1233,14 @@
       "onboard_time": 1764295761,
       "rank": 28,
       "category": "美食"
+    },
+    {
+      "raw_hot": 124089,
+      "num": 351514,
+      "word": "香港总决赛国乒参赛全名单",
+      "onboard_time": 1764323842,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 123079,
@@ -1273,6 +1377,14 @@
       "onboard_time": 1764308421,
       "rank": 37,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 109347,
+      "num": 343465,
+      "word": "未来五年什么工作吃香",
+      "onboard_time": 1764324623,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108702,
@@ -1457,6 +1569,14 @@
       "onboard_time": 1764314303,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96514,
+      "num": 343310,
+      "word": "朱开说Uzi打不到第一不会复出",
+      "onboard_time": 1764325763,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 96206,
@@ -1763,6 +1883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 75046,
+      "num": 4645900,
+      "word": "我国科研团队打破稀土材料瓶颈",
+      "onboard_time": 1764324323,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74268,
       "num": 1120934,
       "word": "秦岚回应豪门婆婆50W梗",
@@ -1777,6 +1905,14 @@
       "onboard_time": 1764292102,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 73122,
+      "num": 746361,
+      "word": "夸克AI眼镜持续霸榜第一",
+      "onboard_time": 1764313402,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 71733,
@@ -1833,14 +1969,6 @@
       "onboard_time": 1764296543,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 69735,
-      "num": 415957,
-      "word": "夸克AI眼镜持续霸榜第一",
-      "onboard_time": 1764313402,
-      "rank": 19,
-      "category": "数码"
     },
     {
       "raw_hot": 69410,
@@ -1979,6 +2107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56986,
+      "num": 3659789,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1764319103,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56699,
       "num": 1113912,
       "word": "四川婚假由5日延到20日",
@@ -2041,6 +2177,14 @@
       "onboard_time": 1764308782,
       "rank": 49,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 49173,
+      "num": 343380,
+      "word": "张艺兴捡土鸡蛋我不去了",
+      "onboard_time": 1764324204,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 49147,
@@ -2219,14 +2363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32268,
-      "num": 3659789,
-      "word": "12月这些新规影响你我",
-      "onboard_time": 1764319103,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31697,
       "num": 254952,
       "word": "钱志敏400亿比特币能归还中国吗",
@@ -2315,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23956,
+      "num": 343902,
+      "word": "四川民企研发高超音速导弹已量产",
+      "onboard_time": 1764324922,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23842,
       "num": 4753131,
       "word": "行走大美中国",
@@ -2329,6 +2473,14 @@
       "onboard_time": 1764254664,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 20452,
+      "num": 343521,
+      "word": "刘晓庆摔倒第一个想到镯子",
+      "onboard_time": 1764325404,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 15126,

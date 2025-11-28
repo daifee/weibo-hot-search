@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 17:42:38
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 18:30:06
 </p>
 </blockquote>
 <p>
@@ -1017,6 +1017,12 @@ Uzi 拿奖杯（热度：1474589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%23" target="weibo">
+禁毒（热度：1370298）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%20%E7%8E%8B%E9%98%BF%E5%93%A9%23" target="weibo">
 胡彦斌 王阿哩（热度：1369875）
 </a>
@@ -1229,6 +1235,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%B7%E7%86%99%23" target="weibo">
 康熙（热度：1277867）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B3%95%E9%99%A2%E5%90%91%E5%90%B4%E4%BA%A6%E5%87%A1%E7%BB%8F%E7%BA%AA%E5%85%AC%E5%8F%B8%E8%BF%BD%E7%BC%B4%E8%AF%89%E8%AE%BC%E8%B4%B9%23" target="weibo">
+法院向吴亦凡经纪公司追缴诉讼费（热度：1276968）
 </a>
 </li>
 
@@ -3483,6 +3495,12 @@ papi酱一句话戳破何美延的自我感动（热度：774314）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A9%9A%E7%A4%BC%E7%8E%B0%E5%9C%BA%23" target="weibo">
+邱泽许玮甯婚礼现场（热度：761119）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8A%B1%E6%B5%B7%E6%97%B6%E5%9B%A2%E5%86%8D%E7%9B%B8%E9%81%87%23" target="weibo">
 花海时团再相遇（热度：761106）
 </a>
@@ -5325,6 +5343,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AF%B9%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E6%AF%8F%E5%90%8D%E9%81%87%E9%9A%BE%E8%80%85%E5%AE%B6%E5%B1%9E%E5%8F%9120%E4%B8%87%E6%B8%AF%E5%85%83%23" target="weibo">
+对大埔火灾每名遇难者家属发20万港元（热度：601294）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%AD%E7%83%8A%E5%8D%83%E7%8E%BA%23" target="weibo">
 六烊千玺（热度：600964）
 </a>
@@ -5459,6 +5483,12 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E9%BC%93%E5%90%B9%E6%97%A5%E6%9C%AC%E4%BA%BA%E4%BC%98%E5%85%88%23" target="weibo">
 高市早苗鼓吹日本人优先（热度：592523）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%AB%A5%E7%91%B6%23" target="weibo">
+童瑶（热度：590757）
 </a>
 </li>
 
@@ -5981,36 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%8F%91%E5%B0%8F%E5%A6%BB%E5%84%BF3%E4%BA%BA%E5%81%87%E8%A3%85%E4%B8%8D%E7%9F%A5%E6%83%85%23" target="weibo">
 男子杀害发小妻儿3人假装不知情（热度：560101）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%BD%91%E5%8F%8B%E7%9C%8B%E4%B8%AD%E6%96%B9%E9%9C%B8%E6%B0%94%E6%8F%92%E5%85%9C%E5%BF%83%E7%A2%8E%E4%BA%86%23" target="weibo">
-日本网友看中方霸气插兜心碎了（热度：559807）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E7%BB%99%E6%97%A5%E6%9C%AC%E8%BA%81%E5%8A%A8%E6%B3%BC%E5%86%B7%E6%B0%B4%23" target="weibo">
-美国被曝给日本躁动泼冷水（热度：559549）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BF%9E%E5%8F%91%E5%A4%9A%E6%9D%A1%E5%BE%AE%E5%8D%9A%E8%BE%9F%E8%B0%A3%23" target="weibo">
-雷军连发多条微博辟谣（热度：559361）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%96%E4%B8%9C%E6%9D%A5%E7%BE%BD%E7%BB%92%E6%9C%8D%E8%BF%9B%E4%BB%B7430%E5%8D%96%E4%BB%B7597%23" target="weibo">
-胖东来羽绒服进价430卖价597（热度：559171）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%85%A8%E8%BF%90%E4%BC%9A%E6%80%BB%E7%BB%93%23" target="weibo">
-王楚钦全运会总结（热度：559090）
 </a>
 </li>
 
