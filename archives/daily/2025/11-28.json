@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764326784698,
+  "endTime": 1764329057035,
   "band_list": [
     {
       "raw_hot": 8803300,
@@ -35,6 +35,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1990140,
+      "num": 624558,
+      "word": "禁毒",
+      "onboard_time": 1764324263,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1959998,
       "num": 520925,
       "word": "周姓女艺人 剧组耍大牌",
@@ -47,14 +55,6 @@
       "num": 1797459,
       "word": "南通文旅",
       "onboard_time": 1764299181,
-      "rank": 10,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1841449,
-      "num": 624558,
-      "word": "禁毒",
-      "onboard_time": 1764324263,
       "rank": 10,
       "category": "民生新闻"
     },
@@ -171,6 +171,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 670291,
+      "num": 340346,
+      "word": "当我开店取消了扫码点单",
+      "onboard_time": 1764326784,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 663917,
       "num": 653440,
       "word": "让未成年演成年的角色真的好违和",
@@ -235,6 +243,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 547288,
+      "num": 618921,
+      "word": "胡锡进谈南通文旅火了",
+      "onboard_time": 1764324502,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 546159,
       "num": 609533,
       "word": "吃生鱼片要了杯热水",
@@ -249,14 +265,6 @@
       "onboard_time": 1764315022,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 502664,
-      "num": 618921,
-      "word": "胡锡进谈南通文旅火了",
-      "onboard_time": 1764324502,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 486427,
@@ -313,6 +321,14 @@
       "onboard_time": 1764315504,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 439289,
+      "num": 638514,
+      "word": "圆明园兽首出来那一刻人麻了",
+      "onboard_time": 1764323783,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 437350,
@@ -387,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 354883,
-      "num": 638514,
-      "word": "圆明园兽首出来那一刻人麻了",
-      "onboard_time": 1764323783,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 353870,
       "num": 634685,
       "word": "盗摄",
@@ -417,6 +425,14 @@
       "onboard_time": 1764252503,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 337888,
+      "num": 491578,
+      "word": "王一博小气了是不是",
+      "onboard_time": 1764326484,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 315419,
@@ -521,6 +537,14 @@
       "onboard_time": 1764319283,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 274040,
+      "num": 1119738,
+      "word": "疯狂动物城",
+      "onboard_time": 1764229762,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 269450,
@@ -899,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 170710,
+      "num": 369290,
+      "word": "GW对战MRC",
+      "onboard_time": 1764327444,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 170596,
       "num": 170596,
       "word": "陈哲远走错车被助理一把薅回来",
@@ -945,14 +977,6 @@
       "onboard_time": 1764302361,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 163277,
-      "num": 1119738,
-      "word": "疯狂动物城",
-      "onboard_time": 1764229762,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 163070,
@@ -1041,6 +1065,14 @@
       "onboard_time": 1764315384,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 147457,
+      "num": 498470,
+      "word": "papi酱2016年的视频",
+      "onboard_time": 1764326182,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 146988,
@@ -1249,14 +1281,6 @@
       "onboard_time": 1764295761,
       "rank": 28,
       "category": "美食"
-    },
-    {
-      "raw_hot": 125034,
-      "num": 498470,
-      "word": "papi酱2016年的视频",
-      "onboard_time": 1764326182,
-      "rank": 35,
-      "category": "网红"
     },
     {
       "raw_hot": 124089,
@@ -1507,6 +1531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 103130,
+      "num": 333094,
+      "word": "网红在非洲遭绑架跳车逃生",
+      "onboard_time": 1764324024,
+      "rank": 35,
+      "category": "民生新闻,网红"
+    },
+    {
       "raw_hot": 102739,
       "num": 3248962,
       "word": "樊振东胜利没有范本",
@@ -1585,6 +1617,14 @@
       "onboard_time": 1764305062,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 97393,
+      "num": 331635,
+      "word": "张栋梁又杀回湖南卫视了",
+      "onboard_time": 1764326784,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 97298,
@@ -1667,6 +1707,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91521,
+      "num": 334968,
+      "word": "哥的全宇宙 平行时空饭店",
+      "onboard_time": 1764328462,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 90772,
+      "num": 330763,
+      "word": "恋与制作人八周年纪念系列活动",
+      "onboard_time": 1764328941,
+      "rank": 46,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 90682,
       "num": 174980,
       "word": "立陶宛球员麦迪附体9秒9分",
@@ -1689,6 +1745,14 @@
       "onboard_time": 1764245782,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 89827,
+      "num": 330525,
+      "word": "微信步数 窥探隐私",
+      "onboard_time": 1764327262,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 89293,
@@ -1761,6 +1825,14 @@
       "onboard_time": 1764311601,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 85075,
+      "num": 334702,
+      "word": "迪丽热巴枭起青壤拉新周榜第一了",
+      "onboard_time": 1764328462,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 85046,
@@ -1939,6 +2011,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 73234,
+      "num": 4360153,
+      "word": "4300年前后的石峁城先民找到了",
+      "onboard_time": 1764327623,
+      "rank": 1,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 71733,
       "num": 818876,
       "word": "猫猫的眼里全是对自己出门的悔恨",
@@ -1985,6 +2065,14 @@
       "onboard_time": 1764302301,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 70153,
+      "num": 335864,
+      "word": "特朗普叫停接收所谓第三世界移民",
+      "onboard_time": 1764327623,
+      "rank": 23,
+      "category": "国际时政"
     },
     {
       "raw_hot": 69940,
@@ -2075,6 +2163,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62397,
+      "num": 3857212,
+      "word": "12月这些新规影响你我",
+      "onboard_time": 1764319103,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 61195,
+      "num": 331419,
+      "word": "杀害女同学男生听到判决面无表情",
+      "onboard_time": 1764327623,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 60135,
       "num": 1118175,
       "word": "怪奇物语",
@@ -2131,14 +2235,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 56986,
-      "num": 3857212,
-      "word": "12月这些新规影响你我",
-      "onboard_time": 1764319103,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 56699,
       "num": 1113912,
       "word": "四川婚假由5日延到20日",
@@ -2169,6 +2265,14 @@
       "onboard_time": 1764309862,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51806,
+      "num": 332428,
+      "word": "女子称花2万8整形耳垂被剪掉块肉",
+      "onboard_time": 1764328042,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 51799,
@@ -2275,12 +2379,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46423,
-      "num": 491578,
-      "word": "王一博小气了是不是",
-      "onboard_time": 1764326484,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 46773,
+      "num": 332663,
+      "word": "员工如厕超15分钟罚款450元",
+      "onboard_time": 1764327863,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45669,
@@ -2329,6 +2433,22 @@
       "onboard_time": 1764252383,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42313,
+      "num": 330808,
+      "word": "榕江群众自发为香港捐款",
+      "onboard_time": 1764328703,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40588,
+      "num": 335021,
+      "word": "香港禁止进口日本10地的水产食品",
+      "onboard_time": 1764328824,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40580,
@@ -2529,6 +2649,14 @@
       "onboard_time": 1764254664,
       "rank": 49,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 21188,
+      "num": 332210,
+      "word": "外交部回应中俄磋商结束乌克兰危机",
+      "onboard_time": 1764327863,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 15126,

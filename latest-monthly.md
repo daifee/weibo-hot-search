@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 18:46:24
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 19:24:17
 </p>
 </blockquote>
 <p>
@@ -489,6 +489,12 @@ KT战胜GEN（热度：2334332）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%23" target="weibo">
+禁毒（热度：1990140）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%96%8A%E8%AF%9D%E6%B7%98%E5%AE%9D%E6%AC%BA%E9%AA%97%E6%B6%88%E8%B4%B9%E8%80%85%23" target="weibo">
 刘嘉玲喊话淘宝欺骗消费者（热度：1986624）
 </a>
@@ -563,12 +569,6 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%23" target="weibo">
 立冬（热度：1842127）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A6%81%E6%AF%92%23" target="weibo">
-禁毒（热度：1841449）
 </a>
 </li>
 
@@ -4383,6 +4383,12 @@ Uzi颁奖（热度：677194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BD%93%E6%88%91%E5%BC%80%E5%BA%97%E5%8F%96%E6%B6%88%E4%BA%86%E6%89%AB%E7%A0%81%E7%82%B9%E5%8D%95%23" target="weibo">
+当我开店取消了扫码点单（热度：670291）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%BE%8E%E7%BE%8E%E8%A2%AB%E5%B0%81%E5%8F%B7%23" target="weibo">
 郭美美被封号（热度：670001）
 </a>
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%8B%E5%B8%88%E8%87%AA%E6%9B%9D%E5%8F%96%E6%AC%BE%E8%A2%AB%E9%93%B6%E8%A1%8C%E7%9B%98%E9%97%AE%E6%8A%A5%E8%AD%A6%23" target="weibo">
 律师自曝取款被银行盘问报警（热度：560199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E6%9D%80%E5%AE%B3%E5%8F%91%E5%B0%8F%E5%A6%BB%E5%84%BF3%E4%BA%BA%E5%81%87%E8%A3%85%E4%B8%8D%E7%9F%A5%E6%83%85%23" target="weibo">
-男子杀害发小妻儿3人假装不知情（热度：560101）
 </a>
 </li>
 
