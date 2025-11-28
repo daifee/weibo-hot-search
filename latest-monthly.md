@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 14:54:11
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 15:27:36
 </p>
 </blockquote>
 <p>
@@ -155,6 +155,12 @@ AG夺冠（热度：6577239）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E6%9C%8975%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
 香港火灾已有75人遇难（热度：5464937）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E5%9F%94%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4128%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港大埔火灾已致128人遇难（热度：5044773）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BC%85%E5%8C%97%E7%99%BD%E5%AE%B65%E4%BA%BA%E6%AD%BB%E5%88%91%23" target="weibo">
 缅北白家5人死刑（热度：559041）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AA%80%E5%81%A5%E6%AC%A1%E5%8D%A2%E6%98%B1%E6%99%93%20%E4%BD%95%E4%B8%8D%E5%90%8C%E8%88%9F%E6%B8%A1%23" target="weibo">
-檀健次卢昱晓 何不同舟渡（热度：558766）
 </a>
 </li>
 

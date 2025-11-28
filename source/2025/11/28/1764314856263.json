@@ -1,0 +1,410 @@
+{
+  "runTime": 1764314856263,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5044773,
+        "num": 6294773,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 92678,
+        "num": 4759219,
+        "word": "雷军回应小米汽车续航测试",
+        "onboard_time": 1764299061,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 61061,
+        "num": 3946353,
+        "word": "央视揭秘中国核电站内部",
+        "onboard_time": 1764307582,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207875,
+        "num": 2885395,
+        "word": "正午阳光的第一部电影",
+        "onboard_time": 1764303262,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 358108,
+        "num": 1864887,
+        "word": "美国被曝给日本躁动泼冷水",
+        "onboard_time": 1764305363,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1122054,
+        "num": 1122054,
+        "word": "2026年起吸毒记录可封存",
+        "onboard_time": 1764301282,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 405433,
+        "num": 1109734,
+        "word": "3名中国公民在塔遇袭身亡",
+        "onboard_time": 1764308901,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 212767,
+        "num": 1020097,
+        "word": "肖战彭昱畅周依然领衔主演",
+        "onboard_time": 1764296780,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 149007,
+        "num": 910664,
+        "word": "iG的AD到底是谁",
+        "onboard_time": 1764311961,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77533,
+        "num": 832452,
+        "word": "FPX.ZQ对战北京WBG",
+        "onboard_time": 1764313461,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 795448,
+        "num": 795448,
+        "word": "女子为出片生理期潜水被鲨鱼咬伤",
+        "onboard_time": 1764308363,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 416349,
+        "num": 416349,
+        "word": "点外卖备注放门口的人最精了",
+        "onboard_time": 1764309862,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31470,
+        "num": 377088,
+        "word": "冬天的第一桶炸鸡",
+        "onboard_time": 1764311601,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 371676,
+        "num": 371676,
+        "word": "爸爸端火锅撞上儿子致其严重烫伤",
+        "onboard_time": 1764309382,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326825,
+        "num": 326825,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 293410,
+        "num": 293410,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1764301521,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 229581,
+        "num": 229581,
+        "word": "刘嘉玲的电话里全天王阵容",
+        "onboard_time": 1764310221,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197051,
+        "num": 229176,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191662,
+        "num": 228283,
+        "word": "香港火灾消防员逐户破门搜索",
+        "onboard_time": 1764311482,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 61420,
+        "num": 227491,
+        "word": "夸克AI眼镜持续霸榜第一",
+        "onboard_time": 1764313402,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1501822,
+        "num": 226964,
+        "word": "周姓女艺人 剧组耍大牌",
+        "onboard_time": 1764311121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226179,
+        "num": 226179,
+        "word": "沈腾 这居然是白敬亭",
+        "onboard_time": 1764313702,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203041,
+        "num": 225805,
+        "word": "她可是当年的知画啊",
+        "onboard_time": 1764313820,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1133137,
+        "num": 224990,
+        "word": "周依然",
+        "onboard_time": 1764311243,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188368,
+        "num": 224672,
+        "word": "苹果手机被偷一周收到骗子来电",
+        "onboard_time": 1764308482,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 147468,
+        "num": 223740,
+        "word": "彭昱畅 普通人闯娱乐圈",
+        "onboard_time": 1764314062,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 290629,
+        "num": 222702,
+        "word": "刘耀文厕所门口全是人",
+        "onboard_time": 1764310042,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140090,
+        "num": 222291,
+        "word": "男子连续便秘十多天肠道堵满肿瘤",
+        "onboard_time": 1764314422,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117728,
+        "num": 221543,
+        "word": "再见爱人现实版玫瑰的故事",
+        "onboard_time": 1764314362,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87608,
+        "num": 220649,
+        "word": "广东调集救援装备等交付香港方面",
+        "onboard_time": 1764308421,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 230183,
+        "num": 220135,
+        "word": "结婚当天睡过头了",
+        "onboard_time": 1764313763,
+        "rank": 30,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 219773,
+        "num": 219773,
+        "word": "曝岳雨婷闯素人婚房讨喜糖",
+        "onboard_time": 1764302423,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134913,
+        "num": 219698,
+        "word": "邵子恒 现在女生喜欢男生哭",
+        "onboard_time": 1764311601,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128115,
+        "num": 219571,
+        "word": "网红厚本 谁定义的美和丑",
+        "onboard_time": 1764313402,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 123045,
+        "num": 219471,
+        "word": "逍遥散人 米哈游",
+        "onboard_time": 1764305723,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120496,
+        "num": 219297,
+        "word": "再见爱人积大德了",
+        "onboard_time": 1764314482,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115613,
+        "num": 219196,
+        "word": "日本胆敢染指台湾就是侵略中国本土",
+        "onboard_time": 1764304223,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 87058,
+        "num": 218963,
+        "word": "香港大埔已完成灭火工作",
+        "onboard_time": 1764314722,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 82153,
+        "num": 218894,
+        "word": "刘嘉玲让余宇涵叫奶奶",
+        "onboard_time": 1764313820,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114186,
+        "num": 218769,
+        "word": "拿下她相当于拿下了热巴",
+        "onboard_time": 1764305182,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113894,
+        "num": 218662,
+        "word": "王安宇 顶顶好的人",
+        "onboard_time": 1764314603,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106656,
+        "num": 218422,
+        "word": "CFO反方向的AL",
+        "onboard_time": 1764312681,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96589,
+        "num": 218335,
+        "word": "为什么中端机越来越像苹果了",
+        "onboard_time": 1764314303,
+        "rank": 42,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 94679,
+        "num": 218126,
+        "word": "迪丽热巴手上还有输液的淤青",
+        "onboard_time": 1764304461,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93412,
+        "num": 217990,
+        "word": "向太称不会把上市公司交给儿子",
+        "onboard_time": 1764305182,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90580,
+        "num": 217859,
+        "word": "王一博说前两年工作太多",
+        "onboard_time": 1764314783,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88778,
+        "num": 217709,
+        "word": "电影得闲谨制定档",
+        "onboard_time": 1764295520,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 79078,
+        "num": 217588,
+        "word": "香港大火已完成灭火程序",
+        "onboard_time": 1764286159,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 56859,
+        "num": 217458,
+        "word": "绿灯亮了占道不走罚200扣6分",
+        "onboard_time": 1764312082,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 4595,
+        "num": 217340,
+        "word": "宝可梦我没空陪你闹了",
+        "onboard_time": 1764314722,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记坚持发展实业的深意#"
+    }
+  }
+}
