@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764372307663,
+  "endTime": 1764373123130,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 217506,
+      "num": 126547,
+      "word": "20岁女子月经不规律7年查出癌症",
+      "onboard_time": 1764372378,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 204949,
       "num": 1171254,
       "word": "香港大埔火灾约200人情况未明",
@@ -147,20 +155,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 139546,
+      "num": 139546,
+      "word": "俄罗斯多次对日本发出警告",
+      "onboard_time": 1764362894,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 127871,
       "num": 1203040,
       "word": "中国男篮主场不敌韩国男篮",
       "onboard_time": 1764337584,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 123443,
-      "num": 123443,
-      "word": "俄罗斯多次对日本发出警告",
-      "onboard_time": 1764362894,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 120010,
@@ -179,6 +187,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 113735,
+      "num": 113735,
+      "word": "周依然新电影",
+      "onboard_time": 1764367393,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 107737,
       "num": 842236,
       "word": "用杨幂打开冯太后的大女主人生",
@@ -195,12 +211,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 93780,
-      "num": 111255,
-      "word": "周依然新电影",
-      "onboard_time": 1764367393,
-      "rank": 23,
-      "category": "电影"
+      "raw_hot": 104451,
+      "num": 700061,
+      "word": "女子钻漏洞下单476笔薅羊毛25万",
+      "onboard_time": 1764334943,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97194,
+      "num": 113687,
+      "word": "许玮甯亲完邱泽擦掉口红印",
+      "onboard_time": 1764335723,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91411,
+      "num": 113649,
+      "word": "4种素菜其实是热量刺客",
+      "onboard_time": 1764372979,
+      "rank": 25,
+      "category": "美食"
     },
     {
       "raw_hot": 90691,
@@ -225,14 +257,6 @@
       "onboard_time": 1764326484,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 84934,
-      "num": 700061,
-      "word": "女子钻漏洞下单476笔薅羊毛25万",
-      "onboard_time": 1764334943,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81348,
@@ -299,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 60155,
+      "num": 132404,
+      "word": "考公年龄放宽大龄考生紧急备考",
+      "onboard_time": 1764373038,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58514,
       "num": 698970,
       "word": "爱达邮轮取消所有日本目的地",
@@ -339,6 +371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 48955,
+      "num": 308817,
+      "word": "何穗产后首复工",
+      "onboard_time": 1764331342,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 48918,
       "num": 610290,
       "word": "圆明园兽首出来那一刻人麻了",
@@ -353,14 +393,6 @@
       "onboard_time": 1764331642,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 46160,
-      "num": 308817,
-      "word": "何穗产后首复工",
-      "onboard_time": 1764331342,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 45109,
@@ -419,12 +451,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 43582,
+      "num": 270127,
+      "word": "第一次在综艺里看送房产证的",
+      "onboard_time": 1764350238,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 42694,
       "num": 689303,
       "word": "太原老葛被罚560万元",
       "onboard_time": 1764337405,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42219,
+      "num": 307050,
+      "word": "石破茂吃拉面加太多叉烧被痛骂",
+      "onboard_time": 1764338245,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39843,
@@ -435,28 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 39205,
-      "num": 270127,
-      "word": "第一次在综艺里看送房产证的",
-      "onboard_time": 1764350238,
-      "rank": 47,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 36157,
-      "num": 92932,
+      "num": 112013,
       "word": "愿香港大埔平安",
       "onboard_time": 1764370937,
       "rank": 32,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 35693,
-      "num": 307050,
-      "word": "石破茂吃拉面加太多叉烧被痛骂",
-      "onboard_time": 1764338245,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 32171,
+      "num": 160809,
+      "word": "女子与老公吵架3个月患乳腺癌",
+      "onboard_time": 1764330382,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28627,
@@ -473,14 +513,6 @@
       "onboard_time": 1764340884,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 25445,
-      "num": 160809,
-      "word": "女子与老公吵架3个月患乳腺癌",
-      "onboard_time": 1764330382,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 23681,
