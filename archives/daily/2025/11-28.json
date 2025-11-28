@@ -1,7 +1,15 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764286751618,
+  "endTime": 1764295079066,
   "band_list": [
+    {
+      "raw_hot": 8176328,
+      "num": 8176328,
+      "word": "香港大火已致94人遇难",
+      "onboard_time": 1764288261,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
     {
       "raw_hot": 2326150,
       "num": 2326150,
@@ -20,7 +28,7 @@
     },
     {
       "raw_hot": 689228,
-      "num": 1259249,
+      "num": 2642782,
       "word": "高市早苗再发谬论给自己壮胆",
       "onboard_time": 1764285379,
       "rank": 11,
@@ -28,7 +36,7 @@
     },
     {
       "raw_hot": 572366,
-      "num": 1224361,
+      "num": 4218982,
       "word": "香港大火已完成灭火程序",
       "onboard_time": 1764286159,
       "rank": 4,
@@ -36,19 +44,51 @@
     },
     {
       "raw_hot": 453927,
-      "num": 1706502,
+      "num": 2930463,
       "word": "滇二娃致歉",
       "onboard_time": 1764260840,
       "rank": 10,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 421241,
+      "num": 4007925,
+      "word": "彭小苒与男网红拍剧宣小视频",
+      "onboard_time": 1764289822,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 360791,
+      "num": 4419668,
+      "word": "得闲谨制",
+      "onboard_time": 1764290721,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 348208,
+      "num": 885858,
+      "word": "大妈将贵的西兰苔掰断谎称西兰花",
+      "onboard_time": 1764289943,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 343464,
-      "num": 2094693,
+      "num": 2592077,
       "word": "香港火灾救援最新消息",
       "onboard_time": 1764252503,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311897,
+      "num": 3880423,
+      "word": "疯狂动物城3",
+      "onboard_time": 1764292521,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 309714,
@@ -59,8 +99,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 287134,
+      "num": 873606,
+      "word": "向佐郭碧婷把女儿养太好了",
+      "onboard_time": 1764290481,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 258980,
-      "num": 1365498,
+      "num": 1715268,
       "word": "何以琛你终于也是将就了",
       "onboard_time": 1764251604,
       "rank": 23,
@@ -83,6 +131,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 219159,
+      "num": 3534144,
+      "word": "香港消防员将搜索所有房屋",
+      "onboard_time": 1764290302,
+      "rank": 7,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 215534,
       "num": 1986503,
       "word": "蜜雪冰城早餐仅在部分城市试点",
@@ -97,6 +153,14 @@
       "onboard_time": 1764255683,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 208043,
+      "num": 2308305,
+      "word": "石破茂看中国媒体批评高市早苗视频",
+      "onboard_time": 1764288981,
+      "rank": 13,
+      "category": "国际时政"
     },
     {
       "raw_hot": 203751,
@@ -123,12 +187,60 @@
       "category": "演出"
     },
     {
+      "raw_hot": 187801,
+      "num": 884281,
+      "word": "睡觉出现这3种情况说明你变老了",
+      "onboard_time": 1764289041,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 187476,
+      "num": 860163,
+      "word": "马克龙宣布将访华释放什么信号",
+      "onboard_time": 1764289041,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 177424,
+      "num": 2184080,
+      "word": "美国将对委内瑞拉展开地面行动",
+      "onboard_time": 1764291862,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 168667,
+      "num": 1183022,
+      "word": "孙颖莎与恩师女儿亲切合照",
+      "onboard_time": 1764293661,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 167929,
       "num": 1131173,
       "word": "逍遥散人直播",
       "onboard_time": 1764245243,
       "rank": 21,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 151382,
+      "num": 1059450,
+      "word": "穿袜子睡觉入睡时间缩短7.5分钟",
+      "onboard_time": 1764285798,
+      "rank": 24,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 144663,
+      "num": 1133413,
+      "word": "十年前网购的商品今年到货",
+      "onboard_time": 1764285798,
+      "rank": 17,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 139882,
@@ -147,6 +259,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136063,
+      "num": 878487,
+      "word": "连云港47岁男子扭伤腰到诊所输液身亡",
+      "onboard_time": 1764289402,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126429,
+      "num": 872572,
+      "word": "胡先煦 哪有老公啊",
+      "onboard_time": 1764288022,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 123079,
       "num": 1177607,
       "word": "被困柬埔寨怀孕女子已脱身并产子",
@@ -155,12 +283,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 122415,
-      "num": 1133413,
-      "word": "十年前网购的商品今年到货",
-      "onboard_time": 1764285798,
-      "rank": 17,
-      "category": "情感,幽默"
+      "raw_hot": 115892,
+      "num": 868983,
+      "word": "烧烤店因擅自办演出被罚9万",
+      "onboard_time": 1764294441,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114608,
@@ -171,12 +299,68 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 100097,
-      "num": 1059450,
-      "word": "穿袜子睡觉入睡时间缩短7.5分钟",
-      "onboard_time": 1764285798,
-      "rank": 24,
-      "category": "科学科普"
+      "raw_hot": 111402,
+      "num": 855313,
+      "word": "小狗认为摸头是最幸福的事",
+      "onboard_time": 1764287660,
+      "rank": 32,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 107596,
+      "num": 850178,
+      "word": "河狸已经连续啃了15分钟",
+      "onboard_time": 1764289583,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 107252,
+      "num": 4894771,
+      "word": "男篮世预赛",
+      "onboard_time": 1764293782,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 103850,
+      "num": 3481505,
+      "word": "中国男篮对阵韩国大名单",
+      "onboard_time": 1764290362,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102739,
+      "num": 3248962,
+      "word": "樊振东胜利没有范本",
+      "onboard_time": 1764293481,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 99374,
+      "num": 849228,
+      "word": "四川产假最多218天",
+      "onboard_time": 1764289763,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96405,
+      "num": 845190,
+      "word": "高市早苗严重越线挑衅一意孤行",
+      "onboard_time": 1764292402,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 95457,
+      "num": 1959579,
+      "word": "崩坏星穹铁道超话",
+      "onboard_time": 1764292461,
+      "rank": 15,
+      "category": "游戏"
     },
     {
       "raw_hot": 95001,
@@ -201,6 +385,14 @@
       "onboard_time": 1764245782,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 86805,
+      "num": 843255,
+      "word": "高层火灾该如何逃生",
+      "onboard_time": 1764293240,
+      "rank": 36,
+      "category": "科学科普,突发/灾害"
     },
     {
       "raw_hot": 86598,
@@ -267,6 +459,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 77427,
+      "num": 828152,
+      "word": "威海3.6级地震",
+      "onboard_time": 1764288681,
+      "rank": 41,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 76194,
       "num": 1096293,
       "word": "乌干达98%亲子鉴定非亲生",
@@ -275,12 +475,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 75678,
+      "num": 824606,
+      "word": "许昕夫妇已成立多家体育公司",
+      "onboard_time": 1764288201,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 74268,
       "num": 1120934,
       "word": "秦岚回应豪门婆婆50W梗",
       "onboard_time": 1764258262,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 74125,
+      "num": 822863,
+      "word": "对试验列车撞施工人员事故挂牌督办",
+      "onboard_time": 1764292102,
+      "rank": 43,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 71733,
+      "num": 818876,
+      "word": "猫猫的眼里全是对自己出门的悔恨",
+      "onboard_time": 1764292162,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 71623,
@@ -307,6 +531,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 69410,
+      "num": 813519,
+      "word": "运气不好的日子就早点上床睡觉",
+      "onboard_time": 1764294981,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 68963,
+      "num": 810447,
+      "word": "国防部回应日本部署导弹",
+      "onboard_time": 1764288022,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67126,
       "num": 1150972,
       "word": "枭起青壤",
@@ -329,6 +569,14 @@
       "onboard_time": 1764229762,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 64304,
+      "num": 806253,
+      "word": "苏翊鸣回应晋级决赛",
+      "onboard_time": 1764294022,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63722,
@@ -403,6 +651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51496,
+      "num": 863505,
+      "word": "疯狂动物城4D版 热力追踪",
+      "onboard_time": 1764289642,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 49094,
       "num": 1112427,
       "word": "铁路通报绵阳2人被列车碰撞身亡",
@@ -443,6 +699,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 45493,
+      "num": 836588,
+      "word": "广西多艘渔船着火现场有爆炸声",
+      "onboard_time": 1764294022,
+      "rank": 38,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 42710,
       "num": 1103907,
       "word": "陈晓曾为了减肥狂喝咖啡",
@@ -473,6 +737,14 @@
       "onboard_time": 1764286520,
       "rank": 43,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 32428,
+      "num": 834260,
+      "word": "2男子徒步梅里雪山失联超120天",
+      "onboard_time": 1764294500,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30688,
@@ -523,20 +795,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 23842,
+      "num": 4753131,
+      "word": "行走大美中国",
+      "onboard_time": 1764261499,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23237,
       "num": 1103523,
       "word": "178款国产游戏获批",
       "onboard_time": 1764254664,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 18066,
-      "num": 2201227,
-      "word": "行走大美中国",
-      "onboard_time": 1764261499,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 15026,

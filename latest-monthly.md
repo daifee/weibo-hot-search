@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 07:39:11
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 09:57:59
 </p>
 </blockquote>
 <p>
@@ -83,6 +83,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23T1%E4%B8%89%E8%BF%9E%E5%86%A0%23" target="weibo">
 T1三连冠（热度：8192449）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%A4%A7%E7%81%AB%E5%B7%B2%E8%87%B494%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港大火已致94人遇难（热度：8176328）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%80%E5%A5%BD%E7%9A%84%E6%88%91%E4%BB%AC%E6%9C%B1%E7%91%B6%E5%BC%A0%E5%B9%B3%E6%BC%94%E5%91%98%E7%BB%93%E5%A9%9A%23" target="weibo">
 最好的我们朱瑶张平演员结婚（热度：553579）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%A9%B7%E8%BF%98%E6%98%AF%E6%9C%B1%E5%A9%B7%23" target="weibo">
-朱婷还是朱婷（热度：553574）
 </a>
 </li>
 

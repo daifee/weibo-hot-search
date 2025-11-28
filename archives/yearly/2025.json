@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764286751618,
+  "endTime": 1764295079066,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1843,6 +1843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 8176328,
+      "num": 8176328,
+      "word": "香港大火已致94人遇难",
+      "onboard_time": 1764288261,
+      "rank": 0,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 8172671,
       "num": 8172671,
       "word": "于朦胧后事已处理完",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1764197538,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 6171972,
-      "num": 6171972,
-      "word": "ALin秒了",
-      "onboard_time": 1752845246,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [
