@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 13:44:54
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/28 14:41:04
 </p>
 </blockquote>
 <p>
@@ -297,6 +297,12 @@ T1官宣Gumayusi离队（热度：3390474）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E4%BE%9D%E7%84%B6%23" target="weibo">
+周依然（热度：2589791）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E8%A6%81%E5%90%8D%E5%88%86%23" target="weibo">
 胡彦斌要名分（热度：2535929）
 </a>
@@ -479,6 +485,12 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%98%89%E7%8E%B2%E5%96%8A%E8%AF%9D%E6%B7%98%E5%AE%9D%E6%AC%BA%E9%AA%97%E6%B6%88%E8%B4%B9%E8%80%85%23" target="weibo">
 刘嘉玲喊话淘宝欺骗消费者（热度：1986624）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E5%A7%93%E5%A5%B3%E8%89%BA%E4%BA%BA%20%E5%89%A7%E7%BB%84%E8%80%8D%E5%A4%A7%E7%89%8C%23" target="weibo">
+周姓女艺人 剧组耍大牌（热度：1959998）
 </a>
 </li>
 
@@ -677,6 +689,12 @@ T1战胜TES（热度：1686829）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%9D%E5%8D%93%E8%A1%A8%E5%BC%9F%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%A4%B1%E8%81%94%23" target="weibo">
 仝卓表弟在柬埔寨失联（热度：1656699）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98%23" target="weibo">
+2026年起吸毒记录可封存（热度：1655026）
 </a>
 </li>
 
@@ -1725,6 +1743,12 @@ CPA成绩（热度：1140911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%87%BA%E7%89%87%E7%94%9F%E7%90%86%E6%9C%9F%E6%BD%9C%E6%B0%B4%E8%A2%AB%E9%B2%A8%E9%B1%BC%E5%92%AC%E4%BC%A4%23" target="weibo">
+女子为出片生理期潜水被鲨鱼咬伤（热度：1090005）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23TES%20%E9%99%80%E8%9E%BA%23" target="weibo">
 TES 陀螺（热度：1087235）
 </a>
@@ -2021,12 +2045,6 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BF%81%E5%B8%86%E7%96%91%E4%BC%BC%E6%9C%AA%E5%85%A5%E8%81%8C%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6%E5%BD%93%E8%AE%B2%E5%B8%88%23" target="weibo">
 翁帆疑似未入职清华大学当讲师（热度：1004091）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E8%B5%B7%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%8F%AF%E5%B0%81%E5%AD%98%23" target="weibo">
-2026年起吸毒记录可封存（热度：1003500）
 </a>
 </li>
 
@@ -5955,6 +5973,12 @@ C罗可能做过多次整容手术（热度：563173）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E8%A2%AB%E6%9B%9D%E7%BB%99%E6%97%A5%E6%9C%AC%E8%BA%81%E5%8A%A8%E6%B3%BC%E5%86%B7%E6%B0%B4%23" target="weibo">
+美国被曝给日本躁动泼冷水（热度：559549）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E8%BF%9E%E5%8F%91%E5%A4%9A%E6%9D%A1%E5%BE%AE%E5%8D%9A%E8%BE%9F%E8%B0%A3%23" target="weibo">
 雷军连发多条微博辟谣（热度：559361）
 </a>
@@ -5987,30 +6011,6 @@ C罗可能做过多次整容手术（热度：563173）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E8%88%86%E8%AE%BA%E5%B7%B2%E6%84%8F%E8%AF%86%E5%88%B0%E4%BA%8B%E6%80%81%E5%8D%81%E5%88%86%E4%B8%A5%E9%87%8D%23" target="weibo">
 日本舆论已意识到事态十分严重（热度：558595）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%9B%9E%E5%BA%94%E6%92%9E%E8%A1%AB%23" target="weibo">
-蓝盈莹回应撞衫（热度：558452）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8E%86%E5%B9%B4%E7%88%86%E5%89%A7%23" target="weibo">
-历年爆剧（热度：558412）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B5%B5%E9%9B%85%E8%8A%9D%E5%AD%99%E5%A5%B3%E9%A2%9C%E5%80%BC%23" target="weibo">
-赵雅芝孙女颜值（热度：557358）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%9C%E5%A6%8D%20%E6%B7%B7%E6%88%90%E8%BF%99%E6%A0%B7%E9%83%BD%E4%B8%8D%E6%89%BE%E4%BD%A0%E5%8E%BB%23" target="weibo">
-姜妍 混成这样都不找你去（热度：556970）
 </a>
 </li>
 
