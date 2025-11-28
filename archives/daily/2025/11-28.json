@@ -1,6 +1,6 @@
 {
   "startTime": 1764261600335,
-  "endTime": 1764304373720,
+  "endTime": 1764305193715,
   "band_list": [
     {
       "raw_hot": 8176328,
@@ -84,11 +84,19 @@
     },
     {
       "raw_hot": 766089,
-      "num": 303925,
+      "num": 639237,
       "word": "曝岳雨婷闯素人婚房讨喜糖",
       "onboard_time": 1764302423,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 698199,
+      "num": 698199,
+      "word": "五个影后三个不生孩子",
+      "onboard_time": 1764303681,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 689228,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 663917,
-      "num": 426629,
+      "num": 653440,
       "word": "让未成年演成年的角色真的好违和",
       "onboard_time": 1764297260,
       "rank": 11,
@@ -195,20 +203,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 331445,
-      "num": 331445,
-      "word": "五个影后三个不生孩子",
-      "onboard_time": 1764303681,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 315419,
       "num": 315419,
       "word": "秦王绕柱仍是这世上最厉害的身法",
       "onboard_time": 1764301041,
       "rank": 16,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 313328,
+      "num": 4231736,
+      "word": "正午阳光的第一部电影",
+      "onboard_time": 1764303262,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 309714,
@@ -251,6 +259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257814,
+      "num": 282463,
+      "word": "刘晓庆踩空摔倒",
+      "onboard_time": 1764304162,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 257413,
       "num": 4935123,
       "word": "雷军回应小米汽车续航测试",
@@ -283,12 +299,28 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 243292,
-      "num": 260092,
-      "word": "正午阳光的第一部电影",
-      "onboard_time": 1764303262,
-      "rank": 33,
+      "raw_hot": 244935,
+      "num": 290702,
+      "word": "得闲谨制提前看片反馈",
+      "onboard_time": 1764304042,
+      "rank": 23,
       "category": "电影"
+    },
+    {
+      "raw_hot": 242817,
+      "num": 260084,
+      "word": "日本胆敢染指台湾就是侵略中国本土",
+      "onboard_time": 1764304223,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 233121,
+      "num": 260086,
+      "word": "声生不息 没更新",
+      "onboard_time": 1764303983,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 223525,
@@ -435,14 +467,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 171173,
-      "num": 290702,
-      "word": "得闲谨制提前看片反馈",
-      "onboard_time": 1764304042,
-      "rank": 23,
-      "category": "电影"
-    },
-    {
       "raw_hot": 169655,
       "num": 285952,
       "word": "王一博高空行走",
@@ -457,14 +481,6 @@
       "onboard_time": 1764245243,
       "rank": 21,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 163762,
-      "num": 282463,
-      "word": "刘晓庆踩空摔倒",
-      "onboard_time": 1764304162,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 163447,
@@ -507,19 +523,19 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 150471,
+      "num": 260075,
+      "word": "被催婚女孩靠节目劝退爸爸",
+      "onboard_time": 1764303862,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 146988,
       "num": 260088,
       "word": "恩利有秦昊在就有安全感",
       "onboard_time": 1764302061,
       "rank": 37,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 146977,
-      "num": 260086,
-      "word": "声生不息 没更新",
-      "onboard_time": 1764303983,
-      "rank": 38,
       "category": "综艺"
     },
     {
@@ -547,16 +563,8 @@
       "category": "电影"
     },
     {
-      "raw_hot": 144000,
-      "num": 260084,
-      "word": "日本胆敢染指台湾就是侵略中国本土",
-      "onboard_time": 1764304223,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 142042,
-      "num": 313367,
+      "num": 801589,
       "word": "军事专家警告日本东海并不宽",
       "onboard_time": 1764303262,
       "rank": 17,
@@ -572,7 +580,7 @@
     },
     {
       "raw_hot": 139449,
-      "num": 424424,
+      "num": 640692,
       "word": "新加坡放弃美国的改用中国开源模型",
       "onboard_time": 1764299422,
       "rank": 19,
@@ -593,6 +601,14 @@
       "onboard_time": 1764302121,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 137666,
+      "num": 137666,
+      "word": "迪丽热巴手上还有输液的淤青",
+      "onboard_time": 1764304461,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 136432,
@@ -635,14 +651,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 128305,
-      "num": 260075,
-      "word": "被催婚女孩靠节目劝退爸爸",
-      "onboard_time": 1764303862,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 125390,
       "num": 763033,
       "word": "藕是最平价的滋补品",
@@ -657,6 +665,14 @@
       "onboard_time": 1764240623,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 119886,
+      "num": 1974910,
+      "word": "DeepSeek新模型有多猛",
+      "onboard_time": 1764304702,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 119083,
@@ -771,6 +787,22 @@
       "category": "民生新闻,财经"
     },
     {
+      "raw_hot": 101199,
+      "num": 101199,
+      "word": "向太称不会把上市公司交给儿子",
+      "onboard_time": 1764305182,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 100807,
+      "num": 100807,
+      "word": "睡觉时最害怕听到的声音",
+      "onboard_time": 1764304403,
+      "rank": 45,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 100170,
       "num": 424149,
       "word": "于何一为许昕发声",
@@ -785,6 +817,22 @@
       "onboard_time": 1764289763,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 98900,
+      "num": 98900,
+      "word": "全红婵3天学会滑雪",
+      "onboard_time": 1764305062,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 97472,
+      "num": 97472,
+      "word": "拿下她相当于拿下了热巴",
+      "onboard_time": 1764305182,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 95457,
@@ -825,6 +873,14 @@
       "onboard_time": 1764297681,
       "rank": 41,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 90682,
+      "num": 142847,
+      "word": "立陶宛球员麦迪附体9秒9分",
+      "onboard_time": 1764303862,
+      "rank": 37,
+      "category": "体育"
     },
     {
       "raw_hot": 90059,
@@ -1052,7 +1108,7 @@
     },
     {
       "raw_hot": 67950,
-      "num": 305888,
+      "num": 639242,
       "word": "一件好羽绒服是怎么造出来的",
       "onboard_time": 1764302602,
       "rank": 19,
@@ -1409,6 +1465,14 @@
       "onboard_time": 1764250464,
       "rank": 9,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 12031,
+      "num": 96479,
+      "word": "四川民企研发高超音速导弹",
+      "onboard_time": 1764303623,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11622,

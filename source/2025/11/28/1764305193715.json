@@ -1,0 +1,410 @@
+{
+  "runTime": 1764305193715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5950641,
+        "num": 5950641,
+        "word": "香港大火已致94人遇难",
+        "onboard_time": 1764288261,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 193371,
+        "num": 4730401,
+        "word": "雷军回应小米汽车续航测试",
+        "onboard_time": 1764299061,
+        "rank": 1,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 16644,
+        "num": 4591239,
+        "word": "行走大美中国",
+        "onboard_time": 1764261499,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313328,
+        "num": 4231736,
+        "word": "正午阳光的第一部电影",
+        "onboard_time": 1764303262,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 360229,
+        "num": 3633487,
+        "word": "法国最新涉台表态",
+        "onboard_time": 1764297022,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 512651,
+        "num": 3149531,
+        "word": "肖战彭昱畅周依然领衔主演",
+        "onboard_time": 1764296780,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 259850,
+        "num": 2802753,
+        "word": "疯狂动物城3",
+        "onboard_time": 1764292521,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 255046,
+        "num": 2408634,
+        "word": "香港火灾救援最新消息",
+        "onboard_time": 1764252503,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160117,
+        "num": 2200775,
+        "word": "Milkyway回应假赛",
+        "onboard_time": 1764303262,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 119886,
+        "num": 1974910,
+        "word": "DeepSeek新模型有多猛",
+        "onboard_time": 1764304702,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1640100,
+        "num": 1640100,
+        "word": "南通文旅",
+        "onboard_time": 1764299181,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 973176,
+        "num": 973176,
+        "word": "2026年起吸毒记录可封存",
+        "onboard_time": 1764301282,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 897200,
+        "num": 897200,
+        "word": "南通文旅一夜涨粉超32万",
+        "onboard_time": 1764301041,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136405,
+        "num": 801589,
+        "word": "军事专家警告日本东海并不宽",
+        "onboard_time": 1764303262,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297248,
+        "num": 778966,
+        "word": "电影得闲谨制定档",
+        "onboard_time": 1764295520,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 777008,
+        "num": 777008,
+        "word": "考生笑了五分钟才开始答卷",
+        "onboard_time": 1764301521,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 698199,
+        "num": 698199,
+        "word": "五个影后三个不生孩子",
+        "onboard_time": 1764303681,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 289107,
+        "num": 653440,
+        "word": "让未成年演成年的角色真的好违和",
+        "onboard_time": 1764297260,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114006,
+        "num": 640692,
+        "word": "新加坡放弃美国的改用中国开源模型",
+        "onboard_time": 1764299422,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 63045,
+        "num": 639242,
+        "word": "一件好羽绒服是怎么造出来的",
+        "onboard_time": 1764302602,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 639237,
+        "num": 639237,
+        "word": "曝岳雨婷闯素人婚房讨喜糖",
+        "onboard_time": 1764302423,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308154,
+        "num": 308154,
+        "word": "郭碧婷女儿被孤立",
+        "onboard_time": 1764256943,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 257814,
+        "num": 257814,
+        "word": "刘晓庆踩空摔倒",
+        "onboard_time": 1764304162,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 244935,
+        "num": 244935,
+        "word": "得闲谨制提前看片反馈",
+        "onboard_time": 1764304042,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 242817,
+        "num": 242817,
+        "word": "日本胆敢染指台湾就是侵略中国本土",
+        "onboard_time": 1764304223,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 233121,
+        "num": 233121,
+        "word": "声生不息 没更新",
+        "onboard_time": 1764303983,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 174978,
+        "num": 232293,
+        "word": "肖战周依然搂肩抱镜头",
+        "onboard_time": 1764298100,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 110687,
+        "num": 223383,
+        "word": "香港大火已完成灭火程序",
+        "onboard_time": 1764286159,
+        "rank": 27,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 91388,
+        "num": 216235,
+        "word": "A股商业航天板块多股涨停",
+        "onboard_time": 1764303623,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 68859,
+        "num": 210181,
+        "word": "华为Mate80线下销售盛况",
+        "onboard_time": 1764301342,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 209464,
+        "num": 209464,
+        "word": "向往的生活收官",
+        "onboard_time": 1764301882,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 203717,
+        "num": 203717,
+        "word": "TVB演员海俊杰妻子病逝",
+        "onboard_time": 1764300322,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185836,
+        "num": 185836,
+        "word": "江西早产男婴出保温箱后离世",
+        "onboard_time": 1764297319,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162448,
+        "num": 162448,
+        "word": "肖战解释得闲谨制是什么意思",
+        "onboard_time": 1764301521,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 157320,
+        "num": 157320,
+        "word": "秦王绕柱仍是这世上最厉害的身法",
+        "onboard_time": 1764301041,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 155278,
+        "num": 155278,
+        "word": "烧烤店因擅自办演出被罚9万",
+        "onboard_time": 1764294441,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150471,
+        "num": 150471,
+        "word": "被催婚女孩靠节目劝退爸爸",
+        "onboard_time": 1764303862,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 90682,
+        "num": 142847,
+        "word": "立陶宛球员麦迪附体9秒9分",
+        "onboard_time": 1764303862,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 142187,
+        "num": 142187,
+        "word": "恩利有秦昊在就有安全感",
+        "onboard_time": 1764302061,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 140063,
+        "num": 140063,
+        "word": "王一博高空行走",
+        "onboard_time": 1764303561,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137666,
+        "num": 137666,
+        "word": "迪丽热巴手上还有输液的淤青",
+        "onboard_time": 1764304461,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134912,
+        "num": 134912,
+        "word": "杭州偶遇孙杨夫妇逛街",
+        "onboard_time": 1764302121,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129345,
+        "num": 129345,
+        "word": "喜人奇妙夜2半决赛",
+        "onboard_time": 1764302361,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103807,
+        "num": 103807,
+        "word": "澳洲教练嫉妒7岁学生家境好杀人",
+        "onboard_time": 1764298880,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101199,
+        "num": 101199,
+        "word": "向太称不会把上市公司交给儿子",
+        "onboard_time": 1764305182,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100807,
+        "num": 100807,
+        "word": "睡觉时最害怕听到的声音",
+        "onboard_time": 1764304403,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 99541,
+        "num": 99541,
+        "word": "日本现职领导人侵害中国主权和领土完整",
+        "onboard_time": 1764296479,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98900,
+        "num": 98900,
+        "word": "全红婵3天学会滑雪",
+        "onboard_time": 1764305062,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97472,
+        "num": 97472,
+        "word": "拿下她相当于拿下了热巴",
+        "onboard_time": 1764305182,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12031,
+        "num": 96479,
+        "word": "四川民企研发高超音速导弹",
+        "onboard_time": 1764303623,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#领悟总书记坚持发展实业的深意#"
+    }
+  }
+}
