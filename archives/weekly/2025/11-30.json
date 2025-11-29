@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764456100610,
+  "endTime": 1764458720709,
   "band_list": [
     {
       "raw_hot": 680256,
@@ -75,6 +75,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208362,
+      "num": 313462,
+      "word": "近40位艺人来深圳参加培训",
+      "onboard_time": 1764426084,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208203,
+      "num": 66228,
+      "word": "丈夫出轨闺蜜转账60多万",
+      "onboard_time": 1764457877,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 195676,
       "num": 316606,
       "word": "向太说这辈子唯一想知道父亲是谁",
@@ -107,7 +123,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 159419,
+      "raw_hot": 163363,
       "num": 313700,
       "word": "女子做磁共振两次黑屏竟因化了妆",
       "onboard_time": 1764423982,
@@ -137,6 +153,14 @@
       "onboard_time": 1764423563,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 120633,
+      "num": 284900,
+      "word": "多名在日本中国留学生发声",
+      "onboard_time": 1764414622,
+      "rank": 40,
+      "category": "教育,海外新闻"
     },
     {
       "raw_hot": 116205,
@@ -177,6 +201,14 @@
       "onboard_time": 1764408501,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99250,
+      "num": 313395,
+      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
+      "onboard_time": 1764420262,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 95979,
@@ -259,14 +291,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85018,
-      "num": 313395,
-      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
-      "onboard_time": 1764420262,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 83213,
       "num": 313487,
       "word": "张函瑞考核第一",
@@ -307,22 +331,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 76177,
-      "num": 284900,
-      "word": "多名在日本中国留学生发声",
-      "onboard_time": 1764414622,
-      "rank": 40,
-      "category": "教育,海外新闻"
-    },
-    {
-      "raw_hot": 70279,
-      "num": 313462,
-      "word": "近40位艺人来深圳参加培训",
-      "onboard_time": 1764426084,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 69070,
       "num": 313522,
       "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
@@ -337,6 +345,14 @@
       "onboard_time": 1764417741,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 66354,
+      "num": 313433,
+      "word": "日本旅游业被曝很难填补中国游客空白",
+      "onboard_time": 1764412342,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59397,
@@ -387,14 +403,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 51735,
-      "num": 313433,
-      "word": "日本旅游业被曝很难填补中国游客空白",
-      "onboard_time": 1764412342,
-      "rank": 43,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 45775,
       "num": 580226,
       "word": "南北方同步开启干冷模式",
@@ -409,6 +417,14 @@
       "onboard_time": 1764422362,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42553,
+      "num": 281378,
+      "word": "秋冬少买驼色衣服",
+      "onboard_time": 1764414742,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 37672,
@@ -435,14 +451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30581,
-      "num": 281378,
-      "word": "秋冬少买驼色衣服",
-      "onboard_time": 1764414742,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 30504,
       "num": 313381,
       "word": "金饰克价一夜再涨10元",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 28287,
-      "num": 51288,
+      "num": 65434,
       "word": "这居然是刘也",
       "onboard_time": 1764441795,
       "rank": 48,
@@ -467,28 +475,44 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 22557,
-      "num": 33390,
+      "raw_hot": 27182,
+      "num": 65501,
+      "word": "第一次见豪门婆婆就打了一架",
+      "onboard_time": 1764457455,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 24528,
+      "num": 65418,
       "word": "日本民众要求高市撤回侵略战争宣言",
       "onboard_time": 1764449294,
       "rank": 47,
       "category": "国际时政"
     },
     {
-      "raw_hot": 16073,
-      "num": 33392,
+      "raw_hot": 24439,
+      "num": 65394,
+      "word": "疯狂动物城2票房破13亿",
+      "onboard_time": 1764451873,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 21971,
+      "num": 65346,
       "word": "亦舞之城",
       "onboard_time": 1764446716,
       "rank": 47,
       "category": "剧集"
     },
     {
-      "raw_hot": 15870,
-      "num": 33392,
-      "word": "疯狂动物城2票房破13亿",
-      "onboard_time": 1764451873,
-      "rank": 42,
-      "category": "电影"
+      "raw_hot": 17926,
+      "num": 65311,
+      "word": "央行开通捐赠绿色通道支持香港救灾",
+      "onboard_time": 1764452654,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11879,
@@ -497,14 +521,6 @@
       "onboard_time": 1764446114,
       "rank": 43,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 10972,
-      "num": 27518,
-      "word": "央行开通捐赠绿色通道支持香港救灾",
-      "onboard_time": 1764452654,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10354,

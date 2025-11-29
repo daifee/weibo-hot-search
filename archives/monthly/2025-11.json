@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764456100610,
+  "endTime": 1764458720709,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -27899,6 +27899,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 208362,
+      "num": 313462,
+      "word": "近40位艺人来深圳参加培训",
+      "onboard_time": 1764426084,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 208323,
       "num": 879011,
       "word": "TES三连宣",
@@ -27913,6 +27921,14 @@
       "onboard_time": 1762093763,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 208203,
+      "num": 66228,
+      "word": "丈夫出轨闺蜜转账60多万",
+      "onboard_time": 1764457877,
+      "rank": 12,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 208150,
@@ -50784,14 +50800,6 @@
       "word": "彭小苒有千禧年韩国女团那味了",
       "onboard_time": 1763961802,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 127112,
-      "num": 313462,
-      "word": "近40位艺人来深圳参加培训",
-      "onboard_time": 1764426084,
-      "rank": 32,
       "category": "艺人"
     },
     {
@@ -96580,7 +96588,7 @@
     },
     {
       "raw_hot": 28287,
-      "num": 51288,
+      "num": 65434,
       "word": "这居然是刘也",
       "onboard_time": 1764441795,
       "rank": 48,
@@ -96849,6 +96857,14 @@
       "onboard_time": 1763989222,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27182,
+      "num": 65501,
+      "word": "第一次见豪门婆婆就打了一架",
+      "onboard_time": 1764457455,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 27173,
@@ -97667,12 +97683,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24528,
+      "num": 65418,
+      "word": "日本民众要求高市撤回侵略战争宣言",
+      "onboard_time": 1764449294,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24453,
       "num": 1106114,
       "word": "全运会闭幕式剧透来了",
       "onboard_time": 1763343141,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 24439,
+      "num": 65394,
+      "word": "疯狂动物城2票房破13亿",
+      "onboard_time": 1764451873,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 24419,
@@ -98241,14 +98273,6 @@
       "onboard_time": 1763148914,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 22557,
-      "num": 33390,
-      "word": "日本民众要求高市撤回侵略战争宣言",
-      "onboard_time": 1764449294,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 22552,
@@ -99587,6 +99611,14 @@
       "category": "动漫,作品衍生"
     },
     {
+      "raw_hot": 17926,
+      "num": 65311,
+      "word": "央行开通捐赠绿色通道支持香港救灾",
+      "onboard_time": 1764452654,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 17920,
       "num": 124719,
       "word": "王多多感谢FPX",
@@ -100073,14 +100105,6 @@
       "onboard_time": 1763645903,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15870,
-      "num": 33392,
-      "word": "疯狂动物城2票房破13亿",
-      "onboard_time": 1764451873,
-      "rank": 42,
-      "category": "电影"
     },
     {
       "raw_hot": 15858,
@@ -101081,14 +101105,6 @@
       "onboard_time": 1762571540,
       "rank": 39,
       "category": "议题讨论"
-    },
-    {
-      "raw_hot": 10972,
-      "num": 27518,
-      "word": "央行开通捐赠绿色通道支持香港救灾",
-      "onboard_time": 1764452654,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10964,
