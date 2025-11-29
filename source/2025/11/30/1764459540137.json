@@ -1,0 +1,410 @@
+{
+  "runTime": 1764459540137,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 371097,
+        "num": 884445,
+        "word": "假奶粉 奶精加淀粉",
+        "onboard_time": 1764425723,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 175621,
+        "num": 175621,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 1,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 39629,
+        "num": 172154,
+        "word": "南北方同步开启干冷模式",
+        "onboard_time": 1764423923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171960,
+        "num": 171960,
+        "word": "公务员考试",
+        "onboard_time": 1764413842,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130638,
+        "num": 130638,
+        "word": "哥的全宇宙 抄袭",
+        "onboard_time": 1764425003,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123987,
+        "num": 123987,
+        "word": "疯狂动物城2票房",
+        "onboard_time": 1764429802,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 81584,
+        "num": 100694,
+        "word": "兔子朱迪和狐狸尼克是友情还是爱情",
+        "onboard_time": 1764423144,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67389,
+        "num": 89897,
+        "word": "日本旅游业被曝很难填补中国游客空白",
+        "onboard_time": 1764412342,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 60321,
+        "num": 88210,
+        "word": "F1",
+        "onboard_time": 1764427463,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87987,
+        "num": 87987,
+        "word": "香港火灾仍有150人失联",
+        "onboard_time": 1764432862,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380394,
+        "num": 87658,
+        "word": "网红老人去世粉丝怀疑因木薯糖水中毒",
+        "onboard_time": 1764425723,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81254,
+        "num": 81254,
+        "word": "喜人 补录",
+        "onboard_time": 1764425303,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277326,
+        "num": 80392,
+        "word": "丈夫出轨闺蜜转账60多万",
+        "onboard_time": 1764457877,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221484,
+        "num": 79643,
+        "word": "近40位艺人来深圳参加培训",
+        "onboard_time": 1764426084,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200148,
+        "num": 78453,
+        "word": "女子做磁共振两次黑屏竟因化了妆",
+        "onboard_time": 1764423982,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129023,
+        "num": 77041,
+        "word": "向太说这辈子唯一想知道父亲是谁",
+        "onboard_time": 1764416182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125689,
+        "num": 75875,
+        "word": "多名在日本中国留学生发声",
+        "onboard_time": 1764414622,
+        "rank": 16,
+        "category": "教育,海外新闻"
+      },
+      {
+        "raw_hot": 81288,
+        "num": 75436,
+        "word": "14岁初中生学校体测倒地后猝死",
+        "onboard_time": 1764422422,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74666,
+        "num": 74666,
+        "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+        "onboard_time": 1764412281,
+        "rank": 18,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 69558,
+        "num": 69558,
+        "word": "上海二手房业主抱团挂出1460万统一价",
+        "onboard_time": 1764428424,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 353674,
+        "num": 69545,
+        "word": "我就说何老师还不退休迟早会出事吧",
+        "onboard_time": 1764411683,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103400,
+        "num": 68731,
+        "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
+        "onboard_time": 1764420262,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61370,
+        "num": 68437,
+        "word": "八仙子",
+        "onboard_time": 1764433400,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 54872,
+        "num": 68074,
+        "word": "全国流感阳性率接近45%",
+        "onboard_time": 1764419661,
+        "rank": 23,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 54304,
+        "num": 67780,
+        "word": "医生提醒两种性格的人容易抑郁",
+        "onboard_time": 1764423563,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 53673,
+        "num": 67007,
+        "word": "24岁40万年薪女儿因为父亲离职",
+        "onboard_time": 1764417741,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51845,
+        "num": 66813,
+        "word": "枭起青壤热度",
+        "onboard_time": 1764429384,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 42007,
+        "num": 66224,
+        "word": "第一次见豪门婆婆就打了一架",
+        "onboard_time": 1764457455,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40884,
+        "num": 65766,
+        "word": "医生提醒出现这些症状小心是皮肤病",
+        "onboard_time": 1764428903,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 37581,
+        "num": 65335,
+        "word": "冬天减肥不想出门怎么办",
+        "onboard_time": 1764432561,
+        "rank": 29,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 158369,
+        "num": 65117,
+        "word": "一直以为保温毯是披在身上的",
+        "onboard_time": 1764459020,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 64680,
+        "num": 64680,
+        "word": "每天甩手踮脚5年容貌的变化",
+        "onboard_time": 1764459020,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 36384,
+        "num": 64674,
+        "word": "香港人喝的水来自江西这座山",
+        "onboard_time": 1764430703,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36319,
+        "num": 64662,
+        "word": "流感",
+        "onboard_time": 1764419542,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36205,
+        "num": 64641,
+        "word": "三星掌门人之子成为海军翻译官",
+        "onboard_time": 1764432620,
+        "rank": 34,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 26583,
+        "num": 64635,
+        "word": "李泽言配音 变声期",
+        "onboard_time": 1764423443,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34983,
+        "num": 64621,
+        "word": "湖南一出生仅22天女婴手术后死亡",
+        "onboard_time": 1764426922,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34298,
+        "num": 64615,
+        "word": "深圳小易烊千玺跳高视频火了",
+        "onboard_time": 1764459020,
+        "rank": 37,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 34245,
+        "num": 64592,
+        "word": "中国代表强调对日方必须严加管束",
+        "onboard_time": 1764425843,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33847,
+        "num": 64577,
+        "word": "头发自然干vs吹风机吹干",
+        "onboard_time": 1764415762,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32153,
+        "num": 64565,
+        "word": "秋冬少买驼色衣服",
+        "onboard_time": 1764414742,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32144,
+        "num": 64552,
+        "word": "胃病向胃癌转变的5个危险信号",
+        "onboard_time": 1764425003,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31755,
+        "num": 64544,
+        "word": "王安宇 骗你的其实最喜欢出片了",
+        "onboard_time": 1764436517,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29184,
+        "num": 64538,
+        "word": "数千架空客A320紧急停飞",
+        "onboard_time": 1764422362,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27862,
+        "num": 64519,
+        "word": "韩国街头煮火鸡面",
+        "onboard_time": 1764428844,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 27589,
+        "num": 64506,
+        "word": "王鹤棣耳朵红得不行",
+        "onboard_time": 1764428963,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26120,
+        "num": 64494,
+        "word": "此前失踪名单中144人确认安全",
+        "onboard_time": 1764408501,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24922,
+        "num": 64474,
+        "word": "这居然是刘也",
+        "onboard_time": 1764441795,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24143,
+        "num": 64462,
+        "word": "我无脑爱牛爷爷",
+        "onboard_time": 1764458718,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23927,
+        "num": 64456,
+        "word": "亦舞之城",
+        "onboard_time": 1764446716,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十三次集体学习#"
+    }
+  }
+}
