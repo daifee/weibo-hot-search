@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764421461940,
+  "endTime": 1764423160259,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 1058086,
-      "num": 1069933,
+      "num": 1079212,
       "word": "此前失踪名单中144人确认安全",
       "onboard_time": 1764408501,
       "rank": 9,
@@ -2227,6 +2227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 523289,
+      "num": 344817,
+      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
+      "onboard_time": 1764420262,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 522586,
       "num": 1083613,
       "word": "Kanavi道歉",
@@ -2841,6 +2849,14 @@
       "onboard_time": 1764129922,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 457969,
+      "num": 348088,
+      "word": "流感",
+      "onboard_time": 1764419542,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 457899,
@@ -4203,6 +4219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335595,
+      "num": 349380,
+      "word": "全国流感阳性率接近45%",
+      "onboard_time": 1764419661,
+      "rank": 18,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 334772,
       "num": 334772,
       "word": "12条中日航线已取消全部航班",
@@ -4361,6 +4385,14 @@
       "onboard_time": 1763990842,
       "rank": 17,
       "category": "电影"
+    },
+    {
+      "raw_hot": 327503,
+      "num": 349563,
+      "word": "汪苏泷嘉宾宋雨琦",
+      "onboard_time": 1764419903,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 327251,
@@ -5011,6 +5043,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 288412,
+      "num": 288412,
+      "word": "张继科混团开幕式献唱我爱你中国",
+      "onboard_time": 1764422243,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 287769,
       "num": 1131417,
       "word": "钟汉良被秦岚夸吻技红温了",
@@ -5187,14 +5227,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 278327,
-      "num": 348088,
-      "word": "流感",
-      "onboard_time": 1764419542,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 277971,
       "num": 207812,
       "word": "热巴男主运",
@@ -5265,14 +5297,6 @@
       "onboard_time": 1763879301,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 275688,
-      "num": 349563,
-      "word": "汪苏泷嘉宾宋雨琦",
-      "onboard_time": 1764419903,
-      "rank": 17,
-      "category": "演出"
     },
     {
       "raw_hot": 275229,
@@ -5419,6 +5443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 267145,
+      "num": 308668,
+      "word": "张函瑞考核第一",
+      "onboard_time": 1764420861,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 266802,
       "num": 920035,
       "word": "不二之臣完整阵容",
@@ -5497,6 +5529,22 @@
       "onboard_time": 1763992222,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 263439,
+      "num": 263439,
+      "word": "迪丽热巴张俪5分钟对手戏看爽了",
+      "onboard_time": 1764422303,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263268,
+      "num": 226334,
+      "word": "敖瑞鹏一个英文单词震慑全场",
+      "onboard_time": 1764422362,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 262640,
@@ -6483,6 +6531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223818,
+      "num": 223818,
+      "word": "黄星演唱会",
+      "onboard_time": 1764421522,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223722,
       "num": 220717,
       "word": "美国人在中国买早餐视频爆火",
@@ -6915,14 +6971,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 208628,
-      "num": 344817,
-      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
-      "onboard_time": 1764420262,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 208323,
       "num": 879011,
       "word": "TES三连宣",
@@ -7049,14 +7097,6 @@
       "onboard_time": 1764046284,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 203816,
-      "num": 308668,
-      "word": "张函瑞考核第一",
-      "onboard_time": 1764420861,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 203725,
@@ -7835,14 +7875,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 190726,
-      "num": 349380,
-      "word": "全国流感阳性率接近45%",
-      "onboard_time": 1764419661,
-      "rank": 18,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 190616,
       "num": 355390,
       "word": "苏翊鸣赛季首冠",
@@ -8289,6 +8321,14 @@
       "onboard_time": 1764040582,
       "rank": 39,
       "category": "教育"
+    },
+    {
+      "raw_hot": 182827,
+      "num": 363970,
+      "word": "王楚钦说混团进奥运压力更大了",
+      "onboard_time": 1764419783,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 182775,
@@ -13379,14 +13419,6 @@
       "category": "财经,互联网"
     },
     {
-      "raw_hot": 112026,
-      "num": 363970,
-      "word": "王楚钦说混团进奥运压力更大了",
-      "onboard_time": 1764419783,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112018,
       "num": 112018,
       "word": "8岁女孩用上3D打印的新鼻子",
@@ -15659,6 +15691,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94228,
+      "num": 303897,
+      "word": "15岁男孩熬夜打游戏身高停在1米38",
+      "onboard_time": 1764421224,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94217,
       "num": 134959,
       "word": "台湾省8旬母亲杀死52岁残疾儿子",
@@ -15905,6 +15945,14 @@
       "onboard_time": 1764401420,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92345,
+      "num": 303112,
+      "word": "内娱云包场最新表格",
+      "onboard_time": 1764421404,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 92268,
@@ -16411,6 +16459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87979,
+      "num": 216437,
+      "word": "沙漠里养出了大螃蟹",
+      "onboard_time": 1764422243,
+      "rank": 40,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 87848,
       "num": 2183162,
       "word": "火箭vs勇士",
@@ -16625,6 +16681,14 @@
       "onboard_time": 1763858059,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85916,
+      "num": 347764,
+      "word": "社区干部用面具刷脸打卡糊弄谁",
+      "onboard_time": 1764420322,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85911,
@@ -17595,12 +17659,44 @@
       "category": "体育"
     },
     {
+      "raw_hot": 76408,
+      "num": 231450,
+      "word": "拜登签的一批反华文件恐失效",
+      "onboard_time": 1764422484,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76226,
+      "num": 216219,
+      "word": "大孤山偶遇李乃文袁姗姗",
+      "onboard_time": 1764423023,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 76211,
       "num": 1103523,
       "word": "178款国产游戏获批",
       "onboard_time": 1764254664,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 76127,
+      "num": 342837,
+      "word": "他居然可以随时打开免打扰模式",
+      "onboard_time": 1764419482,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 76041,
+      "num": 216172,
+      "word": "数千架空客A320紧急停飞",
+      "onboard_time": 1764422362,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75995,
@@ -17665,14 +17761,6 @@
       "onboard_time": 1763955202,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75612,
-      "num": 303112,
-      "word": "内娱云包场最新表格",
-      "onboard_time": 1764421404,
-      "rank": 44,
-      "category": "剧集"
     },
     {
       "raw_hot": 75525,
@@ -17763,6 +17851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74146,
+      "num": 216518,
+      "word": "14岁初中生学校体测倒地后猝死",
+      "onboard_time": 1764422422,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74125,
       "num": 822863,
       "word": "对试验列车撞施工人员事故挂牌督办",
@@ -17841,6 +17937,14 @@
       "onboard_time": 1763830459,
       "rank": 33,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 73603,
+      "num": 216128,
+      "word": "天霸状态回温",
+      "onboard_time": 1764422243,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 73593,
@@ -17937,14 +18041,6 @@
       "onboard_time": 1764415762,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72054,
-      "num": 342837,
-      "word": "他居然可以随时打开免打扰模式",
-      "onboard_time": 1764419482,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 72005,
@@ -18675,14 +18771,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 60297,
-      "num": 347764,
-      "word": "社区干部用面具刷脸打卡糊弄谁",
-      "onboard_time": 1764420322,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 60032,
       "num": 120867,
       "word": "5岁女童眼睛红肿3天查出白血病",
@@ -19187,6 +19275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 51982,
+      "num": 216471,
+      "word": "妈妈辅导作业被气到抽搐说不出话",
+      "onboard_time": 1764422243,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51837,
       "num": 119197,
       "word": "我的球场防护伙伴",
@@ -19608,14 +19704,6 @@
       "word": "员工如厕超15分钟罚款450元",
       "onboard_time": 1764327863,
       "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 46708,
-      "num": 303897,
-      "word": "15岁男孩熬夜打游戏身高停在1米38",
-      "onboard_time": 1764421224,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -21409,6 +21497,14 @@
       "onboard_time": 1763915299,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 19762,
+      "num": 301035,
+      "word": "何以京彩网韵新风",
+      "onboard_time": 1764421822,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19325,

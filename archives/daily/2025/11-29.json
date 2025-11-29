@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764421461940,
+  "endTime": 1764423160259,
   "band_list": [
     {
       "raw_hot": 1381862,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1058086,
-      "num": 1069933,
+      "num": 1079212,
       "word": "此前失踪名单中144人确认安全",
       "onboard_time": 1764408501,
       "rank": 9,
@@ -243,6 +243,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 523289,
+      "num": 344817,
+      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
+      "onboard_time": 1764420262,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 507051,
       "num": 507051,
       "word": "在疯狂动物城里看到了王一博",
@@ -275,6 +283,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 474768,
+      "num": 1189127,
+      "word": "疯狂动物城",
+      "onboard_time": 1764327502,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 468866,
       "num": 468866,
       "word": "胡歌说当爸后不太敢接这角色",
@@ -289,6 +305,14 @@
       "onboard_time": 1764405861,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 457969,
+      "num": 348088,
+      "word": "流感",
+      "onboard_time": 1764419542,
+      "rank": 24,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 442864,
@@ -337,14 +361,6 @@
       "onboard_time": 1764405680,
       "rank": 9,
       "category": "教育"
-    },
-    {
-      "raw_hot": 409186,
-      "num": 1189127,
-      "word": "疯狂动物城",
-      "onboard_time": 1764327502,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 402865,
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 358984,
+      "num": 349143,
+      "word": "疯狂动物城2",
+      "onboard_time": 1764420262,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 353187,
       "num": 353187,
       "word": "黑莲花攻略手册",
@@ -483,6 +507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 335595,
+      "num": 349380,
+      "word": "全国流感阳性率接近45%",
+      "onboard_time": 1764419661,
+      "rank": 18,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 332586,
       "num": 332586,
       "word": "日本自动洗澡机上市27万元一台",
@@ -505,6 +537,14 @@
       "onboard_time": 1764384802,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 327503,
+      "num": 349563,
+      "word": "汪苏泷嘉宾宋雨琦",
+      "onboard_time": 1764419903,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 316202,
@@ -603,6 +643,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 288412,
+      "num": 288412,
+      "word": "张继科混团开幕式献唱我爱你中国",
+      "onboard_time": 1764422243,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 286181,
       "num": 229021,
       "word": "香港举行悼念活动",
@@ -635,14 +683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 278327,
-      "num": 348088,
-      "word": "流感",
-      "onboard_time": 1764419542,
-      "rank": 24,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 276302,
       "num": 208495,
       "word": "白血病的早期表现",
@@ -651,20 +691,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 275688,
-      "num": 349563,
-      "word": "汪苏泷嘉宾宋雨琦",
-      "onboard_time": 1764419903,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 271744,
       "num": 271744,
       "word": "何赛飞 刘晓庆再能干也七八十岁了",
       "onboard_time": 1764385819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 267145,
+      "num": 308668,
+      "word": "张函瑞考核第一",
+      "onboard_time": 1764420861,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 265932,
@@ -681,6 +721,22 @@
       "onboard_time": 1764385280,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 263439,
+      "num": 263439,
+      "word": "迪丽热巴张俪5分钟对手戏看爽了",
+      "onboard_time": 1764422303,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 263268,
+      "num": 226334,
+      "word": "敖瑞鹏一个英文单词震慑全场",
+      "onboard_time": 1764422362,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 261455,
@@ -713,14 +769,6 @@
       "onboard_time": 1764394041,
       "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 249743,
-      "num": 349143,
-      "word": "疯狂动物城2",
-      "onboard_time": 1764420262,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 246097,
@@ -811,6 +859,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 223818,
+      "num": 223818,
+      "word": "黄星演唱会",
+      "onboard_time": 1764421522,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 223714,
       "num": 345473,
       "word": "枭起青壤",
@@ -851,14 +907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 208628,
-      "num": 344817,
-      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
-      "onboard_time": 1764420262,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 204949,
       "num": 1171254,
       "word": "香港大埔火灾约200人情况未明",
@@ -873,14 +921,6 @@
       "onboard_time": 1764409642,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 203816,
-      "num": 308668,
-      "word": "张函瑞考核第一",
-      "onboard_time": 1764420861,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 203636,
@@ -971,14 +1011,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 190726,
-      "num": 349380,
-      "word": "全国流感阳性率接近45%",
-      "onboard_time": 1764419661,
-      "rank": 18,
-      "category": "民生新闻,健康医疗"
-    },
-    {
       "raw_hot": 190616,
       "num": 355390,
       "word": "苏翊鸣赛季首冠",
@@ -1017,6 +1049,14 @@
       "onboard_time": 1764397701,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182827,
+      "num": 363970,
+      "word": "王楚钦说混团进奥运压力更大了",
+      "onboard_time": 1764419783,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 182669,
@@ -1491,14 +1531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 112026,
-      "num": 363970,
-      "word": "王楚钦说混团进奥运压力更大了",
-      "onboard_time": 1764419783,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 112018,
       "num": 112018,
       "word": "8岁女孩用上3D打印的新鼻子",
@@ -1851,6 +1883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 94228,
+      "num": 303897,
+      "word": "15岁男孩熬夜打游戏身高停在1米38",
+      "onboard_time": 1764421224,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93204,
       "num": 95369,
       "word": "敖瑞鹏不二之臣大衣路透",
@@ -1873,6 +1913,14 @@
       "onboard_time": 1764401420,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92345,
+      "num": 303112,
+      "word": "内娱云包场最新表格",
+      "onboard_time": 1764421404,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 91789,
@@ -1929,6 +1977,14 @@
       "onboard_time": 1764383840,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87979,
+      "num": 216437,
+      "word": "沙漠里养出了大螃蟹",
+      "onboard_time": 1764422243,
+      "rank": 40,
+      "category": "旅游"
     },
     {
       "raw_hot": 87846,
@@ -1993,6 +2049,14 @@
       "onboard_time": 1764380241,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 85916,
+      "num": 347764,
+      "word": "社区干部用面具刷脸打卡糊弄谁",
+      "onboard_time": 1764420322,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 85869,
@@ -2235,6 +2299,38 @@
       "category": "情感"
     },
     {
+      "raw_hot": 76408,
+      "num": 231450,
+      "word": "拜登签的一批反华文件恐失效",
+      "onboard_time": 1764422484,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 76226,
+      "num": 216219,
+      "word": "大孤山偶遇李乃文袁姗姗",
+      "onboard_time": 1764423023,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 76127,
+      "num": 342837,
+      "word": "他居然可以随时打开免打扰模式",
+      "onboard_time": 1764419482,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 76041,
+      "num": 216172,
+      "word": "数千架空客A320紧急停飞",
+      "onboard_time": 1764422362,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75804,
       "num": 75804,
       "word": "在最想辞职的时候遇到最晚的新年",
@@ -2251,19 +2347,19 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 75612,
-      "num": 303112,
-      "word": "内娱云包场最新表格",
-      "onboard_time": 1764421404,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 75103,
       "num": 256911,
       "word": "离异夫妻坠河女子遗体18天后被找到",
       "onboard_time": 1764411202,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 74146,
+      "num": 216518,
+      "word": "14岁初中生学校体测倒地后猝死",
+      "onboard_time": 1764422422,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2289,6 +2385,14 @@
       "onboard_time": 1764409041,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 73603,
+      "num": 216128,
+      "word": "天霸状态回温",
+      "onboard_time": 1764422243,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 73411,
@@ -2321,14 +2425,6 @@
       "onboard_time": 1764415762,
       "rank": 46,
       "category": "情感"
-    },
-    {
-      "raw_hot": 72054,
-      "num": 342837,
-      "word": "他居然可以随时打开免打扰模式",
-      "onboard_time": 1764419482,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 71548,
@@ -2483,14 +2579,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 60297,
-      "num": 347764,
-      "word": "社区干部用面具刷脸打卡糊弄谁",
-      "onboard_time": 1764420322,
-      "rank": 25,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 60032,
       "num": 120867,
       "word": "5岁女童眼睛红肿3天查出白血病",
@@ -2603,6 +2691,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51982,
+      "num": 216471,
+      "word": "妈妈辅导作业被气到抽搐说不出话",
+      "onboard_time": 1764422243,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51837,
       "num": 119197,
       "word": "我的球场防护伙伴",
@@ -2681,14 +2777,6 @@
       "onboard_time": 1764403461,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 46708,
-      "num": 303897,
-      "word": "15岁男孩熬夜打游戏身高停在1米38",
-      "onboard_time": 1764421224,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 45109,
@@ -2928,6 +3016,14 @@
       "word": "商家称白鸭绒价几乎一天一个价",
       "onboard_time": 1764404481,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19762,
+      "num": 301035,
+      "word": "何以京彩网韵新风",
+      "onboard_time": 1764421822,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
