@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764441354026,
+  "endTime": 1764442095935,
   "band_list": [
     {
       "raw_hot": 680256,
@@ -449,6 +449,14 @@
       "onboard_time": 1764414742,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 17199,
+      "num": 39091,
+      "word": "这居然是刘也",
+      "onboard_time": 1764441795,
+      "rank": 48,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
