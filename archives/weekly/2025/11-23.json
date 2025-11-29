@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764408443749,
+  "endTime": 1764409201681,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -1491,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 666213,
+      "num": 298522,
+      "word": "王晶说顶流演员都不会演戏",
+      "onboard_time": 1764405621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 664825,
       "num": 1106372,
       "word": "自助偷甘蔗农场爆火后老板真没招了",
@@ -1795,14 +1803,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 585881,
-      "num": 257184,
-      "word": "王晶说顶流演员都不会演戏",
-      "onboard_time": 1764405621,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 583597,
       "num": 4231736,
       "word": "正午阳光的第一部电影",
@@ -2033,6 +2033,14 @@
       "onboard_time": 1763970021,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 537161,
+      "num": 537161,
+      "word": "再见爱人酸奶事件商家回应",
+      "onboard_time": 1764405141,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 536808,
@@ -2529,14 +2537,6 @@
       "onboard_time": 1764297022,
       "rank": 6,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 480899,
-      "num": 261014,
-      "word": "再见爱人酸奶事件商家回应",
-      "onboard_time": 1764405141,
-      "rank": 32,
-      "category": "综艺"
     },
     {
       "raw_hot": 480457,
@@ -3275,6 +3275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 402865,
+      "num": 291845,
+      "word": "活了20多年第一次拥有睡衣",
+      "onboard_time": 1764404361,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 402644,
       "num": 234781,
       "word": "唐朝诡事录3大结局",
@@ -3649,14 +3657,6 @@
       "onboard_time": 1763906182,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 364175,
-      "num": 256724,
-      "word": "活了20多年第一次拥有睡衣",
-      "onboard_time": 1764404361,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 363703,
@@ -4065,6 +4065,14 @@
       "onboard_time": 1763877441,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 332586,
+      "num": 332586,
+      "word": "日本自动洗澡机上市27万元一台",
+      "onboard_time": 1764400821,
+      "rank": 44,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 332290,
@@ -4779,6 +4787,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 291469,
+      "num": 291469,
+      "word": "建议大家一上车就立马锁门",
+      "onboard_time": 1764406581,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 290947,
       "num": 283749,
       "word": "女子被造黄谣失业离婚仅获道歉",
@@ -5067,6 +5083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 275905,
+      "num": 751073,
+      "word": "国考公安",
+      "onboard_time": 1764405680,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 275785,
       "num": 433754,
       "word": "女子没时间遛狗找邻居小孩1次2块",
@@ -5305,14 +5329,6 @@
       "onboard_time": 1764061881,
       "rank": 22,
       "category": "数码"
-    },
-    {
-      "raw_hot": 261895,
-      "num": 261895,
-      "word": "国考公安",
-      "onboard_time": 1764405680,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 261455,
@@ -6659,11 +6675,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 210609,
+      "num": 210609,
+      "word": "李清照将家暴丈夫送进大牢",
+      "onboard_time": 1764408981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210450,
       "num": 243568,
       "word": "狂野时代",
       "onboard_time": 1763800341,
       "rank": 26,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 210447,
+      "num": 210447,
+      "word": "胡歌说当爸后不太敢接这角色",
+      "onboard_time": 1764408501,
+      "rank": 18,
       "category": "电影"
     },
     {
@@ -6883,14 +6915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202979,
-      "num": 257235,
-      "word": "日本自动洗澡机上市27万元一台",
-      "onboard_time": 1764400821,
-      "rank": 44,
-      "category": "海外新闻,数码"
-    },
-    {
       "raw_hot": 202929,
       "num": 202929,
       "word": "湖人战胜快船",
@@ -6961,14 +6985,6 @@
       "onboard_time": 1764383301,
       "rank": 17,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201918,
-      "num": 201918,
-      "word": "建议大家一上车就立马锁门",
-      "onboard_time": 1764406581,
-      "rank": 17,
-      "category": "幽默"
     },
     {
       "raw_hot": 201728,
@@ -9531,6 +9547,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157205,
+      "num": 157205,
+      "word": "papi胡彦斌不做何美延的亲友团可惜了",
+      "onboard_time": 1764407541,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157047,
       "num": 157047,
       "word": "酒店经理一口流利英语当前台火了",
@@ -10328,14 +10352,6 @@
       "word": "柯淳紧急撤回一个吐蒜皮",
       "onboard_time": 1764312142,
       "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 143620,
-      "num": 143620,
-      "word": "papi胡彦斌不做何美延的亲友团可惜了",
-      "onboard_time": 1764407541,
-      "rank": 23,
       "category": "综艺"
     },
     {
@@ -16411,6 +16427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84672,
+      "num": 84672,
+      "word": "陈伟霆说黄景瑜好man喔",
+      "onboard_time": 1764408802,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 84418,
       "num": 197319,
       "word": "广东调集装备物资支援香港救灾",
@@ -16425,6 +16449,14 @@
       "onboard_time": 1764249863,
       "rank": 9,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 84258,
+      "num": 84258,
+      "word": "勇敢的维京人后代",
+      "onboard_time": 1764408741,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 84188,
@@ -16505,6 +16537,14 @@
       "onboard_time": 1764254424,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83304,
+      "num": 83304,
+      "word": "一万以上的工资化全妆",
+      "onboard_time": 1764408501,
+      "rank": 38,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 83182,
@@ -16601,6 +16641,14 @@
       "onboard_time": 1764338784,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 82470,
+      "num": 82470,
+      "word": "今年存了多少 存活了下来",
+      "onboard_time": 1764406581,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 82424,
@@ -17043,20 +17091,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 77236,
+      "num": 77236,
+      "word": "以为减肥实际热量很高的食物",
+      "onboard_time": 1764407301,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 76958,
       "num": 134177,
       "word": "马龙许昕训练课后放飞自我",
       "onboard_time": 1764132262,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 76679,
-      "num": 76679,
-      "word": "今年存了多少 存活了下来",
-      "onboard_time": 1764406581,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 76676,
@@ -17289,6 +17337,14 @@
       "onboard_time": 1764329962,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 73806,
+      "num": 73806,
+      "word": "相爱的两个人会越来越像是真的",
+      "onboard_time": 1764409041,
+      "rank": 48,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 73662,
@@ -18419,6 +18475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 55742,
+      "num": 83755,
+      "word": "得闲谨制八级钳工手搓航母",
+      "onboard_time": 1764407962,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55520,
       "num": 144550,
       "word": "刘耀文夜爬粉丝喊雄起",
@@ -18579,20 +18643,20 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 52475,
+      "num": 587797,
+      "word": "156颗卫星组建太空星眼",
+      "onboard_time": 1764406821,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 52068,
       "num": 103485,
       "word": "尼日利亚一中学315人被绑架",
       "onboard_time": 1763885960,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 51815,
-      "num": 261885,
-      "word": "156颗卫星组建太空星眼",
-      "onboard_time": 1764406821,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 51806,
@@ -19049,6 +19113,14 @@
       "onboard_time": 1763872340,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 45788,
+      "num": 301137,
+      "word": "此前失踪名单中144人确认安全",
+      "onboard_time": 1764408501,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45669,
@@ -20609,14 +20681,6 @@
       "onboard_time": 1764212842,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22351,
-      "num": 83755,
-      "word": "得闲谨制八级钳工手搓航母",
-      "onboard_time": 1764407962,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 22273,
