@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764437994527,
+  "endTime": 1764441354026,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -95401,6 +95401,14 @@
       "onboard_time": 1763403195,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 31828,
+      "num": 43977,
+      "word": "宋雨琦给汪苏泷送了鲜花",
+      "onboard_time": 1764437357,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 31824,

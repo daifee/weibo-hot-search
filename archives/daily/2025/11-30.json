@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764437994527,
+  "endTime": 1764441354026,
   "band_list": [
     {
       "raw_hot": 680256,
@@ -417,6 +417,22 @@
       "onboard_time": 1764436517,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36240,
+      "num": 44027,
+      "word": "奔跑吧",
+      "onboard_time": 1764440596,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 31828,
+      "num": 43977,
+      "word": "宋雨琦给汪苏泷送了鲜花",
+      "onboard_time": 1764437357,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 30504,
