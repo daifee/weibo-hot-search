@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764442095935,
+  "endTime": 1764444102183,
   "band_list": [
     {
       "raw_hot": 680256,
@@ -451,12 +451,20 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 17199,
+      "raw_hot": 28287,
       "num": 39091,
       "word": "这居然是刘也",
       "onboard_time": 1764441795,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 28227,
+      "num": 33847,
+      "word": "雷淞然直播",
+      "onboard_time": 1764443775,
+      "rank": 23,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

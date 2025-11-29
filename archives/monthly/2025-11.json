@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764442095935,
+  "endTime": 1764444102183,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -96579,6 +96579,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 28287,
+      "num": 39091,
+      "word": "这居然是刘也",
+      "onboard_time": 1764441795,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28273,
       "num": 171309,
       "word": "日本的熊学会装死了",
@@ -96593,6 +96601,14 @@
       "onboard_time": 1764048201,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28227,
+      "num": 33847,
+      "word": "雷淞然直播",
+      "onboard_time": 1764443775,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 28174,
@@ -99801,14 +99817,6 @@
       "onboard_time": 1763673553,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17199,
-      "num": 39091,
-      "word": "这居然是刘也",
-      "onboard_time": 1764441795,
-      "rank": 48,
-      "category": "剧集"
     },
     {
       "raw_hot": 17185,
