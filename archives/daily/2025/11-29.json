@@ -1,9 +1,9 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764412039541,
+  "endTime": 1764412974143,
   "band_list": [
     {
-      "raw_hot": 1356718,
+      "raw_hot": 1381862,
       "num": 1058230,
       "word": "李清照将家暴丈夫送进大牢",
       "onboard_time": 1764408981,
@@ -83,6 +83,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 830791,
+      "num": 830791,
+      "word": "我就说何老师还不退休迟早会出事吧",
+      "onboard_time": 1764411683,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 709053,
       "num": 709053,
       "word": "律师解读吸毒记录封存不是彻底清除",
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 666213,
-      "num": 298522,
+      "num": 375800,
       "word": "王晶说顶流演员都不会演戏",
       "onboard_time": 1764405621,
       "rank": 16,
@@ -267,6 +275,14 @@
       "category": "读书作家"
     },
     {
+      "raw_hot": 415578,
+      "num": 1066492,
+      "word": "国考公安",
+      "onboard_time": 1764405680,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 402865,
       "num": 291845,
       "word": "活了20多年第一次拥有睡衣",
@@ -299,12 +315,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 377719,
-      "num": 1060435,
-      "word": "国考公安",
-      "onboard_time": 1764405680,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 376836,
+      "num": 376836,
+      "word": "山寨奶茶一点点撕开标签是一点甜",
+      "onboard_time": 1764411202,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 366434,
@@ -377,6 +393,14 @@
       "onboard_time": 1764384802,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 317825,
+      "num": 317825,
+      "word": "程潇红毯状态",
+      "onboard_time": 1764411321,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 316202,
@@ -497,14 +521,6 @@
       "onboard_time": 1764382281,
       "rank": 19,
       "category": "电影"
-    },
-    {
-      "raw_hot": 276447,
-      "num": 118980,
-      "word": "我就说何老师还不退休迟早会出事吧",
-      "onboard_time": 1764411683,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 276302,
@@ -643,6 +659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224607,
+      "num": 224607,
+      "word": "IMAX得闲谨制",
+      "onboard_time": 1764411921,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223714,
       "num": 223714,
       "word": "枭起青壤",
@@ -745,6 +769,14 @@
       "onboard_time": 1764401541,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195722,
+      "num": 980748,
+      "word": "BLG官宣Knight续约",
+      "onboard_time": 1764412222,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 193327,
@@ -899,6 +931,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 162148,
+      "num": 162148,
+      "word": "日本自动洗澡机上市271万元一台",
+      "onboard_time": 1764400821,
+      "rank": 27,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 161372,
       "num": 161372,
       "word": "原来熊猫真的可以骑",
@@ -921,14 +961,6 @@
       "onboard_time": 1764381260,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160389,
-      "num": 160389,
-      "word": "程潇红毯状态",
-      "onboard_time": 1764411321,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 157205,
@@ -1027,14 +1059,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 142350,
-      "num": 142350,
-      "word": "IMAX得闲谨制",
-      "onboard_time": 1764411921,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 141077,
       "num": 704188,
       "word": "女子被造黄谣反被公司罚款5000元",
@@ -1057,14 +1081,6 @@
       "onboard_time": 1764384921,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 137388,
-      "num": 137388,
-      "word": "日本自动洗澡机上市271万元一台",
-      "onboard_time": 1764400821,
-      "rank": 27,
-      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 135562,
@@ -1147,6 +1163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122133,
+      "num": 122133,
+      "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+      "onboard_time": 1764412281,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "有这样的旅游搭子也太幸福了",
@@ -1177,6 +1201,14 @@
       "onboard_time": 1764410782,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117461,
+      "num": 117461,
+      "word": "ACT对战Gr",
+      "onboard_time": 1764411982,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 117427,
@@ -1419,6 +1451,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100057,
+      "num": 100057,
+      "word": "以为减肥实际热量很高的食物",
+      "onboard_time": 1764407301,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100027,
       "num": 100027,
       "word": "猫 今天这菜挺硬啊",
@@ -1449,14 +1489,6 @@
       "onboard_time": 1764397462,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 98949,
-      "num": 97465,
-      "word": "ACT对战Gr",
-      "onboard_time": 1764411982,
-      "rank": 42,
-      "category": "电竞"
     },
     {
       "raw_hot": 98572,
@@ -1531,12 +1563,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95496,
+      "num": 95496,
+      "word": "曝S8冠军教练重回LPL",
+      "onboard_time": 1764412581,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95494,
       "num": 198556,
       "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
       "onboard_time": 1764385161,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94928,
+      "num": 94928,
+      "word": "第一次用外焦里嫩来形容房子",
+      "onboard_time": 1764412522,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 94525,
@@ -1547,20 +1595,20 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 94493,
+      "num": 94493,
+      "word": "孙颖莎抽签现场创作作品揭晓",
+      "onboard_time": 1764409763,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 94476,
       "num": 104810,
       "word": "地枭李月英因嫉妒老板害死同事",
       "onboard_time": 1764391101,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 93428,
-      "num": 93428,
-      "word": "以为减肥实际热量很高的食物",
-      "onboard_time": 1764407301,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 93204,
@@ -1699,6 +1747,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 85869,
+      "num": 91242,
+      "word": "现在卖衣服的能不能别仿大牌",
+      "onboard_time": 1764409401,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85846,
       "num": 104752,
       "word": "gumayusi取关T1官方账号",
@@ -1763,14 +1819,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 83735,
-      "num": 83735,
-      "word": "孙颖莎抽签现场创作作品揭晓",
-      "onboard_time": 1764409763,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83422,
       "num": 83422,
       "word": "白敬亭穿的是红秋衣吗",
@@ -1801,6 +1849,14 @@
       "onboard_time": 1764406700,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81937,
+      "num": 91238,
+      "word": "BLG官宣ON续约",
+      "onboard_time": 1764412881,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 81832,
@@ -1899,6 +1955,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74882,
+      "num": 1060038,
+      "word": "华为MateX7的5A网速实测",
+      "onboard_time": 1764410421,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 73931,
       "num": 702685,
       "word": "戚百草的草莓发卡是杨洋自费买的",
@@ -1929,6 +1993,14 @@
       "onboard_time": 1764382281,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73397,
+      "num": 236723,
+      "word": "离异夫妻坠河女子遗体18天后被找到",
+      "onboard_time": 1764411202,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72891,
@@ -2016,14 +2088,6 @@
       "word": "叫停一口价难解网约车供需矛盾",
       "onboard_time": 1764404660,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66474,
-      "num": 236636,
-      "word": "山寨奶茶一点点撕开标签是一点甜",
-      "onboard_time": 1764411202,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2187,20 +2251,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52097,
-      "num": 1060038,
-      "word": "华为MateX7的5A网速实测",
-      "onboard_time": 1764410421,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 51837,
       "num": 119197,
       "word": "我的球场防护伙伴",
       "onboard_time": 1764410602,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 51780,
+      "num": 481040,
+      "word": "日本旅游业被曝很难填补中国游客空白",
+      "onboard_time": 1764412342,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51641,
@@ -2257,6 +2321,14 @@
       "onboard_time": 1764331642,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 47616,
+      "num": 1059783,
+      "word": "冷空气一波接一波",
+      "onboard_time": 1764406402,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47220,
@@ -2411,14 +2483,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 37894,
-      "num": 236723,
-      "word": "离异夫妻坠河女子遗体18天后被找到",
-      "onboard_time": 1764411202,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36157,
       "num": 112013,
       "word": "愿香港大埔平安",
@@ -2491,6 +2555,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24750,
+      "num": 98673,
+      "word": "男子徒步失联超120天父亲无奈求助",
+      "onboard_time": 1764412281,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23681,
       "num": 182541,
       "word": "融不进去的圈子就不要硬闯",
@@ -2504,14 +2576,6 @@
       "word": "商家称白鸭绒价几乎一天一个价",
       "onboard_time": 1764404481,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17464,
-      "num": 1059783,
-      "word": "冷空气一波接一波",
-      "onboard_time": 1764406402,
-      "rank": 2,
       "category": "民生新闻"
     },
     {

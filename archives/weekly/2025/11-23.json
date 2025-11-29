@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764412039541,
+  "endTime": 1764412974143,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -331,6 +331,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1381862,
+      "num": 1058230,
+      "word": "李清照将家暴丈夫送进大牢",
+      "onboard_time": 1764408981,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1378443,
       "num": 504723,
       "word": "易梦玲 师生恋",
@@ -345,14 +353,6 @@
       "onboard_time": 1764209182,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1356718,
-      "num": 1058230,
-      "word": "李清照将家暴丈夫送进大牢",
-      "onboard_time": 1764408981,
-      "rank": 17,
-      "category": "综艺"
     },
     {
       "raw_hot": 1347589,
@@ -1043,6 +1043,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 830791,
+      "num": 830791,
+      "word": "我就说何老师还不退休迟早会出事吧",
+      "onboard_time": 1764411683,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 828446,
       "num": 828446,
       "word": "杨紫 华伦千金",
@@ -1508,7 +1516,7 @@
     },
     {
       "raw_hot": 666213,
-      "num": 298522,
+      "num": 375800,
       "word": "王晶说顶流演员都不会演戏",
       "onboard_time": 1764405621,
       "rank": 16,
@@ -3139,6 +3147,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 415578,
+      "num": 1066492,
+      "word": "国考公安",
+      "onboard_time": 1764405680,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 414997,
       "num": 394557,
       "word": "香港大楼起火从地面烧到楼顶",
@@ -3539,12 +3555,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 377719,
-      "num": 1060435,
-      "word": "国考公安",
-      "onboard_time": 1764405680,
-      "rank": 9,
-      "category": "教育"
+      "raw_hot": 376836,
+      "num": 376836,
+      "word": "山寨奶茶一点点撕开标签是一点甜",
+      "onboard_time": 1764411202,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376684,
@@ -4347,6 +4363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 317825,
+      "num": 317825,
+      "word": "程潇红毯状态",
+      "onboard_time": 1764411321,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 317390,
       "num": 317390,
       "word": "云南一山谷惊现百米露天垃圾池",
@@ -5097,14 +5121,6 @@
       "onboard_time": 1764216745,
       "rank": 7,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 276447,
-      "num": 118980,
-      "word": "我就说何老师还不退休迟早会出事吧",
-      "onboard_time": 1764411683,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 276302,
@@ -6323,6 +6339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224607,
+      "num": 224607,
+      "word": "IMAX得闲谨制",
+      "onboard_time": 1764411921,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 223722,
       "num": 220717,
       "word": "美国人在中国买早餐视频爆火",
@@ -7313,6 +7337,14 @@
       "onboard_time": 1764132742,
       "rank": 34,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195722,
+      "num": 980748,
+      "word": "BLG官宣Knight续约",
+      "onboard_time": 1764412222,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 195505,
@@ -9219,6 +9251,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 162148,
+      "num": 162148,
+      "word": "日本自动洗澡机上市271万元一台",
+      "onboard_time": 1764400821,
+      "rank": 27,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 162017,
       "num": 267348,
       "word": "王一博 小气了是不是",
@@ -9393,14 +9433,6 @@
       "onboard_time": 1764381260,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 160389,
-      "num": 160389,
-      "word": "程潇红毯状态",
-      "onboard_time": 1764411321,
-      "rank": 22,
-      "category": "电影"
     },
     {
       "raw_hot": 160219,
@@ -10443,14 +10475,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 142350,
-      "num": 142350,
-      "word": "IMAX得闲谨制",
-      "onboard_time": 1764411921,
-      "rank": 25,
-      "category": "电影"
-    },
-    {
       "raw_hot": 142311,
       "num": 142311,
       "word": "韦雪前男友半年瘦了20斤",
@@ -10841,14 +10865,6 @@
       "onboard_time": 1764080542,
       "rank": 41,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137388,
-      "num": 137388,
-      "word": "日本自动洗澡机上市271万元一台",
-      "onboard_time": 1764400821,
-      "rank": 27,
-      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 137381,
@@ -12075,6 +12091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 122133,
+      "num": 122133,
+      "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+      "onboard_time": 1764412281,
+      "rank": 26,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 122046,
       "num": 122046,
       "word": "截图癖",
@@ -12600,6 +12624,14 @@
       "word": "TT世界赛18淘汰首鸡",
       "onboard_time": 1763997261,
       "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 117461,
+      "num": 117461,
+      "word": "ACT对战Gr",
+      "onboard_time": 1764411982,
+      "rank": 42,
       "category": "电竞"
     },
     {
@@ -14699,6 +14731,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 100057,
+      "num": 100057,
+      "word": "以为减肥实际热量很高的食物",
+      "onboard_time": 1764407301,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 100027,
       "num": 100027,
       "word": "猫 今天这菜挺硬啊",
@@ -14840,14 +14880,6 @@
       "word": "Hero妖刀连接成功",
       "onboard_time": 1763889861,
       "rank": 44,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 98949,
-      "num": 97465,
-      "word": "ACT对战Gr",
-      "onboard_time": 1764411982,
-      "rank": 42,
       "category": "电竞"
     },
     {
@@ -15259,6 +15291,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 95496,
+      "num": 95496,
+      "word": "曝S8冠军教练重回LPL",
+      "onboard_time": 1764412581,
+      "rank": 41,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95494,
       "num": 198556,
       "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
@@ -15307,6 +15347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 94928,
+      "num": 94928,
+      "word": "第一次用外焦里嫩来形容房子",
+      "onboard_time": 1764412522,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 94906,
       "num": 203339,
       "word": "声生不息直播",
@@ -15345,6 +15393,14 @@
       "onboard_time": 1764397881,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94493,
+      "num": 94493,
+      "word": "孙颖莎抽签现场创作作品揭晓",
+      "onboard_time": 1764409763,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 94476,
@@ -15489,14 +15545,6 @@
       "onboard_time": 1764225383,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93428,
-      "num": 93428,
-      "word": "以为减肥实际热量很高的食物",
-      "onboard_time": 1764407301,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 93349,
@@ -16347,6 +16395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85869,
+      "num": 91242,
+      "word": "现在卖衣服的能不能别仿大牌",
+      "onboard_time": 1764409401,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 85846,
       "num": 104752,
       "word": "gumayusi取关T1官方账号",
@@ -16627,14 +16683,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 83735,
-      "num": 83735,
-      "word": "孙颖莎抽签现场创作作品揭晓",
-      "onboard_time": 1764409763,
-      "rank": 47,
-      "category": "体育"
-    },
-    {
       "raw_hot": 83677,
       "num": 220430,
       "word": "中新网连麦黄雅琼",
@@ -16833,6 +16881,14 @@
       "onboard_time": 1764406700,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 81937,
+      "num": 91238,
+      "word": "BLG官宣ON续约",
+      "onboard_time": 1764412881,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 81832,
@@ -17347,6 +17403,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74882,
+      "num": 1060038,
+      "word": "华为MateX7的5A网速实测",
+      "onboard_time": 1764410421,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 74838,
       "num": 151891,
       "word": "枭起青壤播放量破5000万",
@@ -17505,6 +17569,14 @@
       "onboard_time": 1764382281,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 73397,
+      "num": 236723,
+      "word": "离异夫妻坠河女子遗体18天后被找到",
+      "onboard_time": 1764411202,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73332,
@@ -17944,14 +18016,6 @@
       "word": "叫停一口价难解网约车供需矛盾",
       "onboard_time": 1764404660,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 66474,
-      "num": 236636,
-      "word": "山寨奶茶一点点撕开标签是一点甜",
-      "onboard_time": 1764411202,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18771,14 +18835,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 52097,
-      "num": 1060038,
-      "word": "华为MateX7的5A网速实测",
-      "onboard_time": 1764410421,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 52068,
       "num": 103485,
       "word": "尼日利亚一中学315人被绑架",
@@ -18809,6 +18865,14 @@
       "onboard_time": 1764322581,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51780,
+      "num": 481040,
+      "word": "日本旅游业被曝很难填补中国游客空白",
+      "onboard_time": 1764412342,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 51680,
@@ -19145,6 +19209,14 @@
       "onboard_time": 1763979261,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 47616,
+      "num": 1059783,
+      "word": "冷空气一波接一波",
+      "onboard_time": 1764406402,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47258,
@@ -19761,14 +19833,6 @@
       "onboard_time": 1764325404,
       "rank": 38,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37894,
-      "num": 236723,
-      "word": "离异夫妻坠河女子遗体18天后被找到",
-      "onboard_time": 1764411202,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37675,
@@ -20611,6 +20675,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 24750,
+      "num": 98673,
+      "word": "男子徒步失联超120天父亲无奈求助",
+      "onboard_time": 1764412281,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24358,
       "num": 166626,
       "word": "郭富城吴镇宇锐评任达华跌倒",
@@ -21121,14 +21193,6 @@
       "onboard_time": 1764060561,
       "rank": 36,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17464,
-      "num": 1059783,
-      "word": "冷空气一波接一波",
-      "onboard_time": 1764406402,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17420,

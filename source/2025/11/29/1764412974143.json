@@ -1,0 +1,410 @@
+{
+  "runTime": 1764412974143,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 415578,
+        "num": 1066492,
+        "word": "国考公安",
+        "onboard_time": 1764405680,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 74882,
+        "num": 1042006,
+        "word": "华为MateX7的5A网速实测",
+        "onboard_time": 1764410421,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 47616,
+        "num": 985640,
+        "word": "冷空气一波接一波",
+        "onboard_time": 1764406402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 195722,
+        "num": 980748,
+        "word": "BLG官宣Knight续约",
+        "onboard_time": 1764412222,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 187657,
+        "num": 920228,
+        "word": "王楚钦孙颖莎揭晓1号签位",
+        "onboard_time": 1764405861,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 900360,
+        "num": 900360,
+        "word": "此前失踪名单中144人确认安全",
+        "onboard_time": 1764408501,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 830791,
+        "num": 830791,
+        "word": "我就说何老师还不退休迟早会出事吧",
+        "onboard_time": 1764411683,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 279655,
+        "num": 577202,
+        "word": "封存不意味彻底清除特定情况可查询",
+        "onboard_time": 1764396981,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1381862,
+        "num": 520896,
+        "word": "李清照将家暴丈夫送进大牢",
+        "onboard_time": 1764408981,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51780,
+        "num": 481040,
+        "word": "日本旅游业被曝很难填补中国游客空白",
+        "onboard_time": 1764412342,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 455235,
+        "num": 455235,
+        "word": "胡歌说当爸后不太敢接这角色",
+        "onboard_time": 1764408501,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 376836,
+        "num": 376836,
+        "word": "山寨奶茶一点点撕开标签是一点甜",
+        "onboard_time": 1764411202,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 375800,
+        "num": 375800,
+        "word": "王晶说顶流演员都不会演戏",
+        "onboard_time": 1764405621,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 317825,
+        "num": 317825,
+        "word": "程潇红毯状态",
+        "onboard_time": 1764411321,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 290152,
+        "num": 290152,
+        "word": "建议大家一上车就立马锁门",
+        "onboard_time": 1764406581,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 282232,
+        "num": 282232,
+        "word": "梁朝伟说在日本语言不通能不跟人讲话",
+        "onboard_time": 1764396261,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 278336,
+        "num": 278336,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224607,
+        "num": 224607,
+        "word": "IMAX得闲谨制",
+        "onboard_time": 1764411921,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 221632,
+        "num": 221632,
+        "word": "英国女警卧底5年爱上监控对象闪婚",
+        "onboard_time": 1764401481,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 168019,
+        "num": 219467,
+        "word": "活了20多年第一次拥有睡衣",
+        "onboard_time": 1764404361,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 217918,
+        "num": 217918,
+        "word": "在疯狂动物城里看到了王一博",
+        "onboard_time": 1764400520,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 213072,
+        "num": 213072,
+        "word": "再见爱人酸奶事件商家回应",
+        "onboard_time": 1764405141,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205242,
+        "num": 205242,
+        "word": "腾讯2025年热度破亿角色",
+        "onboard_time": 1764401541,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162148,
+        "num": 162148,
+        "word": "日本自动洗澡机上市271万元一台",
+        "onboard_time": 1764400821,
+        "rank": 23,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 152309,
+        "num": 152309,
+        "word": "警方已完成两栋大厦搜索未发现遗体",
+        "onboard_time": 1764409642,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131708,
+        "num": 131708,
+        "word": "云南25岁缉毒警牺牲时仍紧扣扳机",
+        "onboard_time": 1764396443,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122133,
+        "num": 122133,
+        "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+        "onboard_time": 1764412281,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 120981,
+        "num": 120981,
+        "word": "木苏里回复",
+        "onboard_time": 1764392781,
+        "rank": 27,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 73397,
+        "num": 118504,
+        "word": "离异夫妻坠河女子遗体18天后被找到",
+        "onboard_time": 1764411202,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34454,
+        "num": 117632,
+        "word": "我的球场防护伙伴",
+        "onboard_time": 1764410602,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 117461,
+        "num": 117461,
+        "word": "ACT对战Gr",
+        "onboard_time": 1764411982,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 115345,
+        "num": 115345,
+        "word": "原来这是抑郁躯体化啊",
+        "onboard_time": 1764388942,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110637,
+        "num": 110637,
+        "word": "五花八门",
+        "onboard_time": 1764410782,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103387,
+        "num": 103387,
+        "word": "刘亦菲易烊千玺合作",
+        "onboard_time": 1764393381,
+        "rank": 33,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 102637,
+        "num": 102637,
+        "word": "papi胡彦斌不做何美延的亲友团可惜了",
+        "onboard_time": 1764407541,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100379,
+        "num": 100379,
+        "word": "枭起青壤",
+        "onboard_time": 1764404721,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100057,
+        "num": 100057,
+        "word": "以为减肥实际热量很高的食物",
+        "onboard_time": 1764407301,
+        "rank": 36,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 24750,
+        "num": 98673,
+        "word": "男子徒步失联超120天父亲无奈求助",
+        "onboard_time": 1764412281,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41474,
+        "num": 98055,
+        "word": "FoFo分享寸头照",
+        "onboard_time": 1764411802,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 30662,
+        "num": 97924,
+        "word": "澜沧通报露天垃圾堆放问题处置进展",
+        "onboard_time": 1764410602,
+        "rank": 39,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 97903,
+        "num": 97903,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95496,
+        "num": 95496,
+        "word": "曝S8冠军教练重回LPL",
+        "onboard_time": 1764412581,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94928,
+        "num": 94928,
+        "word": "第一次用外焦里嫩来形容房子",
+        "onboard_time": 1764412522,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94493,
+        "num": 94493,
+        "word": "孙颖莎抽签现场创作作品揭晓",
+        "onboard_time": 1764409763,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91247,
+        "num": 91247,
+        "word": "只买对的不买贵的含金量还在上升",
+        "onboard_time": 1764411802,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 86793,
+        "num": 91246,
+        "word": "多名中国留学生不满日本高校做法",
+        "onboard_time": 1764411261,
+        "rank": 45,
+        "category": "教育,海外新闻"
+      },
+      {
+        "raw_hot": 85869,
+        "num": 91242,
+        "word": "现在卖衣服的能不能别仿大牌",
+        "onboard_time": 1764409401,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83720,
+        "num": 91241,
+        "word": "王楚钦给孙颖莎一顿比划",
+        "onboard_time": 1764410421,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 81937,
+        "num": 91238,
+        "word": "BLG官宣ON续约",
+        "onboard_time": 1764412881,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80231,
+        "num": 91234,
+        "word": "孙颖莎好奇王楚钦在画什么",
+        "onboard_time": 1764410421,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
