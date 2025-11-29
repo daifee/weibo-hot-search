@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764451451573,
+  "endTime": 1764452293879,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -100787,6 +100787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 12719,
+      "num": 33392,
+      "word": "疯狂动物城2票房破13亿",
+      "onboard_time": 1764451873,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 12709,
       "num": 132813,
       "word": "美客机与探空气球空中相撞",
@@ -101083,6 +101091,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 10890,
+      "num": 33390,
+      "word": "日本民众要求高市撤回侵略战争宣言",
+      "onboard_time": 1764449294,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 10733,
       "num": 28257,
       "word": "中国反家暴典型案例三大特点",
@@ -101161,14 +101177,6 @@
       "onboard_time": 1762285214,
       "rank": 43,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 10073,
-      "num": 29736,
-      "word": "日本民众要求高市撤回侵略战争宣言",
-      "onboard_time": 1764449294,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9871,
@@ -101283,6 +101291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 8688,
+      "num": 34842,
+      "word": "BIES王者荣耀",
+      "onboard_time": 1764449833,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 8625,
       "num": 107824,
       "word": "停产多年的锅厂因一条视频复工复产",
@@ -101297,14 +101313,6 @@
       "onboard_time": 1761790039,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 7988,
-      "num": 29792,
-      "word": "BIES王者荣耀",
-      "onboard_time": 1764449833,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 7890,
