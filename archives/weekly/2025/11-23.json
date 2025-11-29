@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764390727701,
+  "endTime": 1764391511155,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -2259,6 +2259,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 494230,
+      "num": 369627,
+      "word": "BLG官宣Elk离队",
+      "onboard_time": 1764390261,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 493700,
       "num": 4132342,
       "word": "疯狂动物城2 哭得稀里哗啦",
@@ -2761,6 +2769,14 @@
       "onboard_time": 1764227424,
       "rank": 15,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 442864,
+      "num": 166083,
+      "word": "秦昊让恩利带伊能静去夜店",
+      "onboard_time": 1764389420,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 441773,
@@ -3459,6 +3475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 366434,
+      "num": 366434,
+      "word": "自己有一百给老婆花两万一的人出现了",
+      "onboard_time": 1764388161,
+      "rank": 3,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 366181,
       "num": 366181,
       "word": "站姐涅槃 庞氏骗局",
@@ -3508,7 +3532,7 @@
     },
     {
       "raw_hot": 362836,
-      "num": 295653,
+      "num": 362791,
       "word": "陈晓撤回一个好友申请",
       "onboard_time": 1764388942,
       "rank": 5,
@@ -3705,14 +3729,6 @@
       "onboard_time": 1764215364,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349698,
-      "num": 349698,
-      "word": "自己有一百给老婆花两万一的人出现了",
-      "onboard_time": 1764388161,
-      "rank": 3,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 349484,
@@ -4059,6 +4075,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 325831,
+      "num": 186467,
+      "word": "马思纯 旺仔是谁",
+      "onboard_time": 1764390141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 325686,
       "num": 272504,
       "word": "姚明邓亚萍合照诡异的像AI",
@@ -4163,6 +4187,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 316202,
+      "num": 211858,
+      "word": "男子继承房产发现父亲有私生子女",
+      "onboard_time": 1764387261,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 315595,
       "num": 315595,
       "word": "杨瀚森NBA生涯首个三分",
@@ -4217,14 +4249,6 @@
       "onboard_time": 1764130221,
       "rank": 25,
       "category": "电影"
-    },
-    {
-      "raw_hot": 311847,
-      "num": 311847,
-      "word": "BLG官宣Elk离队",
-      "onboard_time": 1764390261,
-      "rank": 4,
-      "category": "电竞"
     },
     {
       "raw_hot": 311485,
@@ -4289,14 +4313,6 @@
       "onboard_time": 1764382461,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 305211,
-      "num": 166083,
-      "word": "秦昊让恩利带伊能静去夜店",
-      "onboard_time": 1764389420,
-      "rank": 21,
-      "category": "综艺"
     },
     {
       "raw_hot": 305036,
@@ -4377,14 +4393,6 @@
       "onboard_time": 1764060322,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 301083,
-      "num": 211858,
-      "word": "男子继承房产发现父亲有私生子女",
-      "onboard_time": 1764387261,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 301033,
@@ -6148,7 +6156,7 @@
     },
     {
       "raw_hot": 219310,
-      "num": 131771,
+      "num": 132424,
       "word": "Ning宣布新阵容",
       "onboard_time": 1764389120,
       "rank": 30,
@@ -6344,6 +6352,14 @@
       "word": "张峻豪工作人员偷拍艺人换衣服给粉丝",
       "onboard_time": 1764070103,
       "rank": 17,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 212199,
+      "num": 182562,
+      "word": "梁朝伟辟谣定居日本",
+      "onboard_time": 1764390621,
+      "rank": 38,
       "category": "艺人"
     },
     {
@@ -10539,6 +10555,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135562,
+      "num": 135562,
+      "word": "九字真炎亲了",
+      "onboard_time": 1764390561,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135519,
       "num": 227703,
       "word": "特朗普宣布拜登的火鸡救免令无效",
@@ -12539,6 +12563,14 @@
       "category": "数码,科学科普"
     },
     {
+      "raw_hot": 112635,
+      "num": 112635,
+      "word": "大张伟6年的密逃没白录",
+      "onboard_time": 1764391401,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112493,
       "num": 112493,
       "word": "工作淡人 生活浓人",
@@ -13305,6 +13337,14 @@
       "onboard_time": 1764068960,
       "rank": 43,
       "category": "网红"
+    },
+    {
+      "raw_hot": 106521,
+      "num": 121045,
+      "word": "魏大勋翘脚拍照",
+      "onboard_time": 1764390201,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 106458,
@@ -14323,14 +14363,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97322,
-      "num": 121045,
-      "word": "魏大勋翘脚拍照",
-      "onboard_time": 1764390201,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 97298,
       "num": 97298,
       "word": "给心眼少的人的社会建议",
@@ -14385,6 +14417,14 @@
       "onboard_time": 1764314303,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 96493,
+      "num": 104783,
+      "word": "一群北京格格拍张婧仪",
+      "onboard_time": 1764391342,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 96461,
@@ -14593,6 +14633,14 @@
       "onboard_time": 1763986522,
       "rank": 42,
       "category": "网红"
+    },
+    {
+      "raw_hot": 94476,
+      "num": 104810,
+      "word": "地枭李月英因嫉妒老板害死同事",
+      "onboard_time": 1764391101,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 94350,
@@ -14833,6 +14881,14 @@
       "onboard_time": 1764132142,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92404,
+      "num": 104797,
+      "word": "白鹿素颜采访",
+      "onboard_time": 1764391101,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 92400,
@@ -15521,6 +15577,14 @@
       "onboard_time": 1763978420,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 85846,
+      "num": 104752,
+      "word": "gumayusi取关T1官方账号",
+      "onboard_time": 1764391401,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 85759,
@@ -17147,14 +17211,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 62611,
-      "num": 121047,
-      "word": "马思纯 旺仔是谁",
-      "onboard_time": 1764390141,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62408,
       "num": 124826,
       "word": "国台办回应民进党当局解禁日食品进口",
@@ -17641,6 +17697,14 @@
       "onboard_time": 1764386361,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 54376,
+      "num": 151627,
+      "word": "易烊千玺缝伤口这段",
+      "onboard_time": 1764391282,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 54365,
@@ -18339,14 +18403,6 @@
       "category": "网红"
     },
     {
-      "raw_hot": 43007,
-      "num": 121065,
-      "word": "梁朝伟辟谣定居日本",
-      "onboard_time": 1764390621,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42992,
       "num": 156158,
       "word": "居民称香港火灾发生时警钟没响",
@@ -18417,6 +18473,14 @@
       "onboard_time": 1764231863,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41913,
+      "num": 106962,
+      "word": "李诞 没有一个老年人能幸免",
+      "onboard_time": 1764391342,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 41603,
@@ -19411,6 +19475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24905,
+      "num": 370333,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1764387980,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 24806,
       "num": 117987,
       "word": "网友吐槽吃零食还要做热量计算题",
@@ -19473,14 +19545,6 @@
       "onboard_time": 1764321323,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 23920,
-      "num": 352799,
-      "word": "文化中国行文博日历",
-      "onboard_time": 1764387980,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 23881,

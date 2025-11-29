@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764390727701,
+  "endTime": 1764391511155,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -91,12 +91,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 494230,
+      "num": 369627,
+      "word": "BLG官宣Elk离队",
+      "onboard_time": 1764390261,
+      "rank": 4,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 477674,
       "num": 244904,
       "word": "樊振东说去欧洲为远离不好的事",
       "onboard_time": 1764377720,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 442864,
+      "num": 166083,
+      "word": "秦昊让恩利带伊能静去夜店",
+      "onboard_time": 1764389420,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 431398,
@@ -107,8 +123,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366434,
+      "num": 366434,
+      "word": "自己有一百给老婆花两万一的人出现了",
+      "onboard_time": 1764388161,
+      "rank": 3,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 362836,
-      "num": 295653,
+      "num": 362791,
       "word": "陈晓撤回一个好友申请",
       "onboard_time": 1764388942,
       "rank": 5,
@@ -129,14 +153,6 @@
       "onboard_time": 1764379282,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 349698,
-      "num": 349698,
-      "word": "自己有一百给老婆花两万一的人出现了",
-      "onboard_time": 1764388161,
-      "rank": 3,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 345998,
@@ -163,12 +179,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 311847,
-      "num": 311847,
-      "word": "BLG官宣Elk离队",
-      "onboard_time": 1764390261,
-      "rank": 4,
-      "category": "电竞"
+      "raw_hot": 325831,
+      "num": 186467,
+      "word": "马思纯 旺仔是谁",
+      "onboard_time": 1764390141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 316202,
+      "num": 211858,
+      "word": "男子继承房产发现父亲有私生子女",
+      "onboard_time": 1764387261,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 305305,
@@ -179,27 +203,11 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 305211,
-      "num": 166083,
-      "word": "秦昊让恩利带伊能静去夜店",
-      "onboard_time": 1764389420,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 303386,
       "num": 1182762,
       "word": "被男同学杀害女孩本子写满笔记",
       "onboard_time": 1764339863,
       "rank": 5,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 301083,
-      "num": 211858,
-      "word": "男子继承房产发现父亲有私生子女",
-      "onboard_time": 1764387261,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -372,11 +380,27 @@
     },
     {
       "raw_hot": 219310,
-      "num": 131771,
+      "num": 132424,
       "word": "Ning宣布新阵容",
       "onboard_time": 1764389120,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 212233,
+      "num": 212233,
+      "word": "现在就出发",
+      "onboard_time": 1764390621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 212199,
+      "num": 182562,
+      "word": "梁朝伟辟谣定居日本",
+      "onboard_time": 1764390621,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 211288,
@@ -424,14 +448,6 @@
       "word": "疑似范丞丞趁机表白",
       "onboard_time": 1764332244,
       "rank": 13,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 186882,
-      "num": 186882,
-      "word": "现在就出发",
-      "onboard_time": 1764390621,
-      "rank": 18,
       "category": "综艺"
     },
     {
@@ -587,6 +603,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135562,
+      "num": 135562,
+      "word": "九字真炎亲了",
+      "onboard_time": 1764390561,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132504,
       "num": 132504,
       "word": "柯淳邵子恒差点做了重庆女婿",
@@ -667,6 +691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 112635,
+      "num": 112635,
+      "word": "大张伟6年的密逃没白录",
+      "onboard_time": 1764391401,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112099,
       "num": 112099,
       "word": "漫蛙崩了",
@@ -715,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106521,
+      "num": 121045,
+      "word": "魏大勋翘脚拍照",
+      "onboard_time": 1764390201,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106073,
       "num": 101867,
       "word": "普京不懂G7为啥叫七大国",
@@ -755,20 +795,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97322,
-      "num": 121045,
-      "word": "魏大勋翘脚拍照",
-      "onboard_time": 1764390201,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 96756,
       "num": 96756,
       "word": "超4万人参观春熙路辣条博物馆",
       "onboard_time": 1764386901,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 96493,
+      "num": 104783,
+      "word": "一群北京格格拍张婧仪",
+      "onboard_time": 1764391342,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 95494,
@@ -779,12 +819,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 94476,
+      "num": 104810,
+      "word": "地枭李月英因嫉妒老板害死同事",
+      "onboard_time": 1764391101,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93204,
       "num": 95369,
       "word": "敖瑞鹏不二之臣大衣路透",
       "onboard_time": 1764385280,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 92404,
+      "num": 104797,
+      "word": "白鹿素颜采访",
+      "onboard_time": 1764391101,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 90838,
@@ -857,6 +913,14 @@
       "onboard_time": 1764380241,
       "rank": 34,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 85846,
+      "num": 104752,
+      "word": "gumayusi取关T1官方账号",
+      "onboard_time": 1764391401,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 84691,
@@ -1011,14 +1075,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 62611,
-      "num": 121047,
-      "word": "马思纯 旺仔是谁",
-      "onboard_time": 1764390141,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 61851,
       "num": 83079,
       "word": "Zeus谈Meiko请客",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1764386361,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 54376,
+      "num": 151627,
+      "word": "易烊千玺缝伤口这段",
+      "onboard_time": 1764391282,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 54269,
@@ -1219,14 +1283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 43007,
-      "num": 121065,
-      "word": "梁朝伟辟谣定居日本",
-      "onboard_time": 1764390621,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 42694,
       "num": 689303,
       "word": "太原老葛被罚560万元",
@@ -1241,6 +1297,14 @@
       "onboard_time": 1764338245,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 41913,
+      "num": 106962,
+      "word": "李诞 没有一个老年人能幸免",
+      "onboard_time": 1764391342,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 39843,
@@ -1299,8 +1363,8 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 23920,
-      "num": 352799,
+      "raw_hot": 24905,
+      "num": 370333,
       "word": "文化中国行文博日历",
       "onboard_time": 1764387980,
       "rank": 2,

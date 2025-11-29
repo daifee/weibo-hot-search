@@ -1,0 +1,410 @@
+{
+  "runTime": 1764391511155,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 605736,
+        "num": 1096917,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390023,
+        "num": 390023,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 24905,
+        "num": 370333,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1764387980,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 494230,
+        "num": 369627,
+        "word": "BLG官宣Elk离队",
+        "onboard_time": 1764390261,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 366434,
+        "num": 366434,
+        "word": "自己有一百给老婆花两万一的人出现了",
+        "onboard_time": 1764388161,
+        "rank": 4,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 362791,
+        "num": 362791,
+        "word": "陈晓撤回一个好友申请",
+        "onboard_time": 1764388942,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 268558,
+        "num": 268558,
+        "word": "银行取钱不再一刀切式询问",
+        "onboard_time": 1764384802,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212233,
+        "num": 212233,
+        "word": "现在就出发",
+        "onboard_time": 1764390621,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206510,
+        "num": 206510,
+        "word": "俄罗斯取代日本成中国游客新宠",
+        "onboard_time": 1764380720,
+        "rank": 8,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 189538,
+        "num": 189538,
+        "word": "A股重要调整",
+        "onboard_time": 1764386481,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 857800,
+        "num": 189202,
+        "word": "原来这是抑郁躯体化啊",
+        "onboard_time": 1764388942,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 478984,
+        "num": 187949,
+        "word": "何美延婆婆 知否小秦氏",
+        "onboard_time": 1764388580,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 325831,
+        "num": 186467,
+        "word": "马思纯 旺仔是谁",
+        "onboard_time": 1764390141,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 316202,
+        "num": 185613,
+        "word": "男子继承房产发现父亲有私生子女",
+        "onboard_time": 1764387261,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272357,
+        "num": 184385,
+        "word": "迪丽热巴是申公豹高质量买家秀吧",
+        "onboard_time": 1764388221,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 240591,
+        "num": 182768,
+        "word": "当年真的错怪蒋欣了",
+        "onboard_time": 1764343162,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212199,
+        "num": 182562,
+        "word": "梁朝伟辟谣定居日本",
+        "onboard_time": 1764390621,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 181593,
+        "num": 181593,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1764374421,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169829,
+        "num": 169829,
+        "word": "日本民众称日中关系不断恶化",
+        "onboard_time": 1764378860,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 164416,
+        "num": 164416,
+        "word": "恋与深空日卡2.0",
+        "onboard_time": 1764389841,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 442864,
+        "num": 163154,
+        "word": "秦昊让恩利带伊能静去夜店",
+        "onboard_time": 1764389420,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 407897,
+        "num": 163085,
+        "word": "霍建华林心如参加邱泽许玮甯婚礼",
+        "onboard_time": 1764386541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209786,
+        "num": 161237,
+        "word": "家人强行探望发现哥哥已去世腐烂",
+        "onboard_time": 1764386421,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178056,
+        "num": 159913,
+        "word": "金价",
+        "onboard_time": 1764387320,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 159108,
+        "num": 159108,
+        "word": "多城叫停网约车一口价",
+        "onboard_time": 1764385280,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54376,
+        "num": 151627,
+        "word": "易烊千玺缝伤口这段",
+        "onboard_time": 1764391282,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148990,
+        "num": 148990,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141998,
+        "num": 141998,
+        "word": "恋与深空",
+        "onboard_time": 1764386541,
+        "rank": 27,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 135562,
+        "num": 135562,
+        "word": "九字真炎亲了",
+        "onboard_time": 1764390561,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 88051,
+        "num": 133015,
+        "word": "香港举行悼念活动",
+        "onboard_time": 1764376040,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180095,
+        "num": 132424,
+        "word": "Ning宣布新阵容",
+        "onboard_time": 1764389120,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130588,
+        "num": 130588,
+        "word": "何赛飞 刘晓庆再能干也七八十岁了",
+        "onboard_time": 1764385819,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131561,
+        "num": 128278,
+        "word": "樊振东说去欧洲为远离不好的事",
+        "onboard_time": 1764377720,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 125631,
+        "num": 125631,
+        "word": "疯狂动物城2内地票房破10亿",
+        "onboard_time": 1764382281,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115401,
+        "num": 115401,
+        "word": "秦彻银翼恶魔",
+        "onboard_time": 1764386721,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112635,
+        "num": 112635,
+        "word": "大张伟6年的密逃没白录",
+        "onboard_time": 1764391401,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 111709,
+        "num": 111709,
+        "word": "何美延 梁淞",
+        "onboard_time": 1764378440,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69514,
+        "num": 107459,
+        "word": "女子称被鲨鱼咬或是手链所致",
+        "onboard_time": 1764388761,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41913,
+        "num": 106962,
+        "word": "李诞 没有一个老年人能幸免",
+        "onboard_time": 1764391342,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106709,
+        "num": 106709,
+        "word": "杨幂粉丝拍的张婧仪",
+        "onboard_time": 1764387860,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106521,
+        "num": 106521,
+        "word": "魏大勋翘脚拍照",
+        "onboard_time": 1764390201,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104821,
+        "num": 104821,
+        "word": "小猫坏事做尽",
+        "onboard_time": 1764382461,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94476,
+        "num": 104810,
+        "word": "地枭李月英因嫉妒老板害死同事",
+        "onboard_time": 1764391101,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 92404,
+        "num": 104797,
+        "word": "白鹿素颜采访",
+        "onboard_time": 1764391101,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 96493,
+        "num": 104783,
+        "word": "一群北京格格拍张婧仪",
+        "onboard_time": 1764391342,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88712,
+        "num": 104776,
+        "word": "20岁女子月经不规律7年查出癌症",
+        "onboard_time": 1764372378,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85846,
+        "num": 104752,
+        "word": "gumayusi取关T1官方账号",
+        "onboard_time": 1764391401,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 80493,
+        "num": 104735,
+        "word": "巴基斯坦回应高市早苗涉台言论",
+        "onboard_time": 1764384140,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62213,
+        "num": 104731,
+        "word": "女子被造黄谣失业离婚仅获道歉",
+        "onboard_time": 1764373279,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50419,
+        "num": 104719,
+        "word": "5岁女童眼睛红肿3天查出白血病",
+        "onboard_time": 1764387380,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#要动真碰硬抓好巡视整改#"
+    }
+  }
+}
