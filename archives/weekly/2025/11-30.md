@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 05:38:13
+本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 06:25:42
 </p>
 </blockquote>
 <p>
@@ -256,13 +256,19 @@ F1（热度：211487）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%97%E5%BF%83%E5%A6%82%E5%9C%A8%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%A9%9A%E7%A4%BC%E5%85%89%E8%84%9A%E8%B7%B3%E8%88%9E%23" target="weibo">
-林心如在邱泽许玮甯婚礼光脚跳舞（热度：59827）
+林心如在邱泽许玮甯婚礼光脚跳舞（热度：62307）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%B3%BD%E8%A8%80%E9%85%8D%E9%9F%B3%20%E5%8F%98%E5%A3%B0%E6%9C%9F%23" target="weibo">
 李泽言配音 变声期（热度：59397）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+多名在日本中国留学生发声（热度：58966）
 </a>
 </li>
 
@@ -299,12 +305,6 @@ F1（热度：211487）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%BE%88%E9%9A%BE%E5%A1%AB%E8%A1%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A9%BA%E7%99%BD%23" target="weibo">
 日本旅游业被曝很难填补中国游客空白（热度：51735）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-多名在日本中国留学生发声（热度：45783）
 </a>
 </li>
 
@@ -363,14 +363,20 @@ F1（热度：211487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%92%A4%E5%9B%9E%E4%BE%B5%E7%95%A5%E6%88%98%E4%BA%89%E5%AE%A3%E8%A8%80%23" target="weibo">
+日本民众要求高市撤回侵略战争宣言（热度：22557）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A6%E8%88%9E%E4%B9%8B%E5%9F%8E%23" target="weibo">
-亦舞之城（热度：13141）
+亦舞之城（热度：14964）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E7%A5%A8%E6%88%BF%E7%A0%B413%E4%BA%BF%23" target="weibo">
-疯狂动物城2票房破13亿（热度：12719）
+疯狂动物城2票房破13亿（热度：13801）
 </a>
 </li>
 
@@ -381,14 +387,14 @@ F1（热度：211487）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%92%A4%E5%9B%9E%E4%BE%B5%E7%95%A5%E6%88%98%E4%BA%89%E5%AE%A3%E8%A8%80%23" target="weibo">
-日本民众要求高市撤回侵略战争宣言（热度：10890）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B3%E5%88%BB%E4%B8%8A%E5%9C%BA%23" target="weibo">
+即刻上场（热度：10354）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B3%E5%88%BB%E4%B8%8A%E5%9C%BA%23" target="weibo">
-即刻上场（热度：10354）
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%BC%80%E9%80%9A%E6%8D%90%E8%B5%A0%E7%BB%BF%E8%89%B2%E9%80%9A%E9%81%93%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E6%95%91%E7%81%BE%23" target="weibo">
+央行开通捐赠绿色通道支持香港救灾（热度：10270）
 </a>
 </li>
 

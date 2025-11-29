@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764452293879,
+  "endTime": 1764455142452,
   "band_list": [
     {
       "raw_hot": 680256,
@@ -323,7 +323,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59827,
+      "raw_hot": 62307,
       "num": 313395,
       "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
       "onboard_time": 1764420262,
@@ -337,6 +337,14 @@
       "onboard_time": 1764423443,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58966,
+      "num": 284900,
+      "word": "多名在日本中国留学生发声",
+      "onboard_time": 1764414622,
+      "rank": 40,
+      "category": "教育,海外新闻"
     },
     {
       "raw_hot": 58192,
@@ -385,14 +393,6 @@
       "onboard_time": 1764412342,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 45783,
-      "num": 284900,
-      "word": "多名在日本中国留学生发声",
-      "onboard_time": 1764414622,
-      "rank": 40,
-      "category": "教育,海外新闻"
     },
     {
       "raw_hot": 45775,
@@ -467,7 +467,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13141,
+      "raw_hot": 22557,
+      "num": 33390,
+      "word": "日本民众要求高市撤回侵略战争宣言",
+      "onboard_time": 1764449294,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 14964,
       "num": 33392,
       "word": "亦舞之城",
       "onboard_time": 1764446716,
@@ -475,7 +483,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 12719,
+      "raw_hot": 13801,
       "num": 33392,
       "word": "疯狂动物城2票房破13亿",
       "onboard_time": 1764451873,
@@ -491,20 +499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 10890,
-      "num": 33390,
-      "word": "日本民众要求高市撤回侵略战争宣言",
-      "onboard_time": 1764449294,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 10354,
       "num": 34294,
       "word": "即刻上场",
       "onboard_time": 1764447674,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10270,
+      "num": 27518,
+      "word": "央行开通捐赠绿色通道支持香港救灾",
+      "onboard_time": 1764452654,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 8688,
