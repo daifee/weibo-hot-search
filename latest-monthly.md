@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 22:40:59
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 23:25:26
 </p>
 </blockquote>
 <p>
@@ -2613,6 +2613,12 @@ GEN对战KT（热度：912806）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E8%80%81%E4%BA%BA%E5%8E%BB%E4%B8%96%E7%B2%89%E4%B8%9D%E6%80%80%E7%96%91%E5%9B%A0%E6%9C%A8%E8%96%AF%E7%B3%96%E6%B0%B4%E4%B8%AD%E6%AF%92%23" target="weibo">
+网红老人去世粉丝怀疑因木薯糖水中毒（热度：882673）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E6%99%93%E6%98%8E48%E5%B2%81%E7%94%9F%E6%97%A5%E9%95%9C%E5%83%8F%E6%88%90%E4%BA%8684%E5%B2%81%23" target="weibo">
 黄晓明48岁生日镜像成了84岁（热度：882610）
 </a>
@@ -2765,6 +2771,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%91%E4%B8%AA%E6%9C%8B%E5%8F%8B%E5%9C%88680%E4%BA%BA%E4%B8%8D%E5%8F%AF%E8%A7%81%23" target="weibo">
 发个朋友圈680人不可见（热度：863543）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%81%87%E5%A5%B6%E7%B2%89%20%E5%A5%B6%E7%B2%BE%E5%8A%A0%E6%B7%80%E7%B2%89%23" target="weibo">
+假奶粉 奶精加淀粉（热度：862753）
 </a>
 </li>
 
@@ -3215,6 +3227,12 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%99%E6%BA%A2%E4%B8%A4%E4%B8%AA%E5%84%BF%E5%AD%90%E5%9C%A8%E8%8B%B1%E5%9B%BD%E4%B8%8A%E5%AD%A6%23" target="weibo">
 沙溢两个儿子在英国上学（热度：798866）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E7%9A%84%E5%85%A8%E5%AE%87%E5%AE%99%20%E6%8A%84%E8%A2%AD%23" target="weibo">
+哥的全宇宙 抄袭（热度：798377）
 </a>
 </li>
 
@@ -3881,12 +3899,6 @@ AG对战狼队（热度：725111）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E8%89%BA%E5%85%B4%E7%9B%B4%E6%8E%A5%E5%90%83%E6%8E%89%E5%9C%A8%E6%89%8B%E6%9C%BA%E4%B8%8A%E7%9A%84%E7%94%9F%E8%82%89%23" target="weibo">
 张艺兴直接吃掉在手机上的生肉（热度：724730）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E7%9A%84%E5%85%A8%E5%AE%87%E5%AE%99%20%E6%8A%84%E8%A2%AD%23" target="weibo">
-哥的全宇宙 抄袭（热度：724374）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%94%9F%E6%84%8F%E4%BA%BA%E7%A0%B43%23" target="weibo">
 大生意人破3（热度：570275）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E6%98%8A%E7%84%B6%E5%8D%B8%E4%B8%8B%E4%BA%86%E4%BD%99%E6%B7%AE%E7%9A%84%E5%90%8D%E5%AD%97%23" target="weibo">
-刘昊然卸下了余淮的名字（热度：569968）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E7%B4%AB%E5%BC%A0%E4%B8%80%E5%B1%B1%E5%8F%8B%E6%83%85%23" target="weibo">
-杨紫张一山友情（热度：569441）
 </a>
 </li>
 

@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764427259509,
+  "endTime": 1764429926213,
   "band_list": [
     {
       "raw_hot": 1381862,
@@ -75,6 +75,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 882673,
+      "num": 277386,
+      "word": "网红老人去世粉丝怀疑因木薯糖水中毒",
+      "onboard_time": 1764425723,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 862753,
+      "num": 1138040,
+      "word": "假奶粉 奶精加淀粉",
+      "onboard_time": 1764425723,
+      "rank": 18,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 861007,
       "num": 343160,
       "word": "英国女警卧底5年爱上监控对象闪婚",
@@ -107,7 +123,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 724374,
+      "raw_hot": 798377,
       "num": 338475,
       "word": "哥的全宇宙 抄袭",
       "onboard_time": 1764425003,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 424408,
-      "num": 284124,
+      "num": 310689,
       "word": "喜人 补录",
       "onboard_time": 1764425303,
       "rank": 16,
@@ -739,14 +755,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 277386,
-      "num": 277386,
-      "word": "网红老人去世粉丝怀疑因木薯糖水中毒",
-      "onboard_time": 1764425723,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 276302,
       "num": 208495,
       "word": "白血病的早期表现",
@@ -963,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205590,
+      "num": 205590,
+      "word": "枭起青壤热度",
+      "onboard_time": 1764429384,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 204949,
       "num": 1171254,
       "word": "香港大埔火灾约200人情况未明",
@@ -1043,14 +1059,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 196900,
-      "num": 246109,
-      "word": "假奶粉 奶精加淀粉",
-      "onboard_time": 1764425723,
-      "rank": 18,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 195722,
       "num": 980748,
       "word": "BLG官宣Knight续约",
@@ -1075,6 +1083,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192343,
+      "num": 232587,
+      "word": "胃病向胃癌转变的5个危险信号",
+      "onboard_time": 1764425003,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 190616,
       "num": 355390,
       "word": "苏翊鸣赛季首冠",
@@ -1089,6 +1105,14 @@
       "onboard_time": 1764392481,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 187354,
+      "num": 314857,
+      "word": "F1",
+      "onboard_time": 1764427463,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 186361,
@@ -1187,6 +1211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 172086,
+      "num": 123262,
+      "word": "医生提醒出现这些症状小心是皮肤病",
+      "onboard_time": 1764428903,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 170508,
       "num": 256416,
       "word": "12岁嗯哼长这么大了",
@@ -1225,6 +1257,14 @@
       "onboard_time": 1764389841,
       "rank": 25,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 163642,
+      "num": 163642,
+      "word": "王鹤棣耳朵红得不行",
+      "onboard_time": 1764428963,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 163328,
@@ -1323,20 +1363,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 155516,
-      "num": 232587,
-      "word": "胃病向胃癌转变的5个危险信号",
-      "onboard_time": 1764425003,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 154904,
       "num": 921852,
       "word": "女子为出片生理期潜水被鲨鱼咬伤",
       "onboard_time": 1764308363,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154046,
+      "num": 154046,
+      "word": "疯狂动物城2票房",
+      "onboard_time": 1764429802,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 153851,
@@ -1563,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120360,
+      "num": 120360,
+      "word": "上海二手房业主抱团挂出1460万统一价",
+      "onboard_time": 1764428424,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120010,
       "num": 883546,
       "word": "一个人值不值得深交看看这件事",
@@ -1625,6 +1673,14 @@
       "onboard_time": 1764411261,
       "rank": 34,
       "category": "教育,海外新闻"
+    },
+    {
+      "raw_hot": 114539,
+      "num": 135786,
+      "word": "湖南一出生仅22天女婴手术后死亡",
+      "onboard_time": 1764426922,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 114113,
@@ -2203,6 +2259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 86506,
+      "num": 103072,
+      "word": "Gumayusi的漫画家姐姐结婚",
+      "onboard_time": 1764428844,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 86401,
       "num": 86401,
       "word": "村里发房子了",
@@ -2353,6 +2417,14 @@
       "onboard_time": 1764406581,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82070,
+      "num": 103071,
+      "word": "恋与制作人泡澡陪伴",
+      "onboard_time": 1764428302,
+      "rank": 46,
+      "category": "游戏"
     },
     {
       "raw_hot": 81966,
@@ -2715,11 +2787,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 62856,
+      "num": 443914,
+      "word": "南北方同步开启干冷模式",
+      "onboard_time": 1764423923,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62648,
       "num": 228814,
       "word": "妈妈辅导作业被气到抽搐说不出话",
       "onboard_time": 1764422243,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62530,
+      "num": 164172,
+      "word": "150万元竞得32间法拍房6年未交付",
+      "onboard_time": 1764428784,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2736,14 +2824,6 @@
       "word": "未来五年什么工作吃香",
       "onboard_time": 1764324623,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 60953,
-      "num": 135786,
-      "word": "湖南一出生仅22天女婴手术后死亡",
-      "onboard_time": 1764426922,
-      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -2793,14 +2873,6 @@
       "onboard_time": 1764330624,
       "rank": 35,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 58178,
-      "num": 443914,
-      "word": "南北方同步开启干冷模式",
-      "onboard_time": 1764423923,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57620,
@@ -3216,6 +3288,14 @@
       "word": "男子酒后30层高楼扔下自行车被判刑",
       "onboard_time": 1764423623,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19529,
+      "num": 103073,
+      "word": "男子定制2米摩托罗拉可通话手机",
+      "onboard_time": 1764429504,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
