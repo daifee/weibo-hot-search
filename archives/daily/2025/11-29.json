@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764412974143,
+  "endTime": 1764415300486,
   "band_list": [
     {
       "raw_hot": 1381862,
@@ -33,6 +33,14 @@
       "onboard_time": 1764343162,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1122113,
+      "num": 830791,
+      "word": "我就说何老师还不退休迟早会出事吧",
+      "onboard_time": 1764411683,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 1097850,
@@ -81,14 +89,6 @@
       "onboard_time": 1764377660,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 830791,
-      "num": 830791,
-      "word": "我就说何老师还不退休迟早会出事吧",
-      "onboard_time": 1764411683,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 709053,
@@ -169,6 +169,14 @@
       "onboard_time": 1764390141,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 539935,
+      "num": 317825,
+      "word": "程潇红毯状态",
+      "onboard_time": 1764411321,
+      "rank": 22,
+      "category": "电影"
     },
     {
       "raw_hot": 537161,
@@ -273,6 +281,14 @@
       "onboard_time": 1764392781,
       "rank": 17,
       "category": "读书作家"
+    },
+    {
+      "raw_hot": 418662,
+      "num": 293193,
+      "word": "对李昀锐182的身高有了实感",
+      "onboard_time": 1764413302,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 415578,
@@ -395,11 +411,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 317825,
-      "num": 317825,
-      "word": "程潇红毯状态",
-      "onboard_time": 1764411321,
+      "raw_hot": 323958,
+      "num": 260438,
+      "word": "卢昱晓工作室",
+      "onboard_time": 1764414502,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 321971,
+      "num": 1189127,
+      "word": "疯狂动物城",
+      "onboard_time": 1764327502,
+      "rank": 3,
       "category": "电影"
     },
     {
@@ -409,6 +433,14 @@
       "onboard_time": 1764387261,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 310344,
+      "num": 806313,
+      "word": "公务员考试",
+      "onboard_time": 1764413842,
+      "rank": 3,
+      "category": "教育"
     },
     {
       "raw_hot": 305305,
@@ -441,6 +473,14 @@
       "onboard_time": 1764390621,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 298891,
+      "num": 298891,
+      "word": "日本自动洗澡机上市271万元一台",
+      "onboard_time": 1764400821,
+      "rank": 27,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 295724,
@@ -483,6 +523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 290169,
+      "num": 290169,
+      "word": "男同事被男同事表白了",
+      "onboard_time": 1764414561,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 288773,
       "num": 396639,
       "word": "俄罗斯取代日本成中国游客新宠",
@@ -507,14 +555,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 282698,
-      "num": 1189127,
-      "word": "疯狂动物城",
-      "onboard_time": 1764327502,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 280545,
       "num": 284652,
       "word": "疯狂动物城2内地票房破10亿",
@@ -537,6 +577,14 @@
       "onboard_time": 1764385819,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 266629,
+      "num": 685722,
+      "word": "日本旅游业被曝很难填补中国游客空白",
+      "onboard_time": 1764412342,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 265932,
@@ -571,6 +619,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 258569,
+      "num": 258569,
+      "word": "秋冬少买驼色衣服",
+      "onboard_time": 1764414742,
+      "rank": 23,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 256688,
       "num": 176569,
       "word": "秦彻银翼恶魔",
@@ -585,6 +641,14 @@
       "onboard_time": 1764394041,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249892,
+      "num": 277277,
+      "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+      "onboard_time": 1764412281,
+      "rank": 26,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 246097,
@@ -668,7 +732,7 @@
     },
     {
       "raw_hot": 223714,
-      "num": 223714,
+      "num": 257142,
       "word": "枭起青壤",
       "onboard_time": 1764404721,
       "rank": 21,
@@ -716,7 +780,7 @@
     },
     {
       "raw_hot": 204395,
-      "num": 204395,
+      "num": 257686,
       "word": "警方已完成两栋大厦搜索未发现遗体",
       "onboard_time": 1764409642,
       "rank": 21,
@@ -884,11 +948,19 @@
     },
     {
       "raw_hot": 170508,
-      "num": 170508,
+      "num": 256416,
       "word": "12岁嗯哼长这么大了",
       "onboard_time": 1764401841,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168550,
+      "num": 273960,
+      "word": "28岁禁毒民警抓捕毒贩时中弹牺牲",
+      "onboard_time": 1764414683,
+      "rank": 17,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 167766,
@@ -931,12 +1003,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162148,
-      "num": 162148,
-      "word": "日本自动洗澡机上市271万元一台",
-      "onboard_time": 1764400821,
-      "rank": 27,
-      "category": "海外新闻,数码"
+      "raw_hot": 162968,
+      "num": 258524,
+      "word": "华晨宇离观众近到被添加AI提示",
+      "onboard_time": 1764414802,
+      "rank": 24,
+      "category": "演出"
     },
     {
       "raw_hot": 161372,
@@ -1131,6 +1203,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127721,
+      "num": 258151,
+      "word": "福建人养出了无毒级河豚",
+      "onboard_time": 1764414983,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125154,
       "num": 125154,
       "word": "金饰克价涨至1338元",
@@ -1163,14 +1243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122133,
-      "num": 122133,
-      "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
-      "onboard_time": 1764412281,
-      "rank": 26,
-      "category": "舆论监督"
-    },
-    {
       "raw_hot": 121493,
       "num": 121493,
       "word": "有这样的旅游搭子也太幸福了",
@@ -1196,7 +1268,7 @@
     },
     {
       "raw_hot": 118702,
-      "num": 118702,
+      "num": 257520,
       "word": "五花八门",
       "onboard_time": 1764410782,
       "rank": 31,
@@ -1388,7 +1460,7 @@
     },
     {
       "raw_hot": 104791,
-      "num": 104791,
+      "num": 257021,
       "word": "孙颖莎好奇王楚钦在画什么",
       "onboard_time": 1764410421,
       "rank": 35,
@@ -1452,7 +1524,7 @@
     },
     {
       "raw_hot": 100057,
-      "num": 100057,
+      "num": 256826,
       "word": "以为减肥实际热量很高的食物",
       "onboard_time": 1764407301,
       "rank": 44,
@@ -1564,7 +1636,7 @@
     },
     {
       "raw_hot": 95496,
-      "num": 95496,
+      "num": 256715,
       "word": "曝S8冠军教练重回LPL",
       "onboard_time": 1764412581,
       "rank": 41,
@@ -1580,7 +1652,7 @@
     },
     {
       "raw_hot": 94928,
-      "num": 94928,
+      "num": 257475,
       "word": "第一次用外焦里嫩来形容房子",
       "onboard_time": 1764412522,
       "rank": 42,
@@ -1633,6 +1705,14 @@
       "onboard_time": 1764401420,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92168,
+      "num": 257338,
+      "word": "多名在日本中国留学生发声",
+      "onboard_time": 1764414622,
+      "rank": 37,
+      "category": "教育,海外新闻"
     },
     {
       "raw_hot": 91789,
@@ -1779,6 +1859,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84830,
+      "num": 257278,
+      "word": "中国军舰和中国黄岩岛同框",
+      "onboard_time": 1764414082,
+      "rank": 38,
+      "category": "国内时政,军事"
+    },
+    {
       "raw_hot": 84732,
       "num": 84732,
       "word": "果然没有人暧昧期不上头的",
@@ -1859,6 +1947,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 81901,
+      "num": 1060038,
+      "word": "华为MateX7的5A网速实测",
+      "onboard_time": 1764410421,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 81832,
       "num": 160209,
       "word": "黑龙江一湖面现龙鳞冰奇观",
@@ -1923,6 +2019,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78827,
+      "num": 257094,
+      "word": "挤不进去的猫窝我硬挤",
+      "onboard_time": 1764415161,
+      "rank": 40,
+      "category": "情感"
+    },
+    {
       "raw_hot": 78681,
       "num": 78681,
       "word": "红豆年糕汤",
@@ -1955,12 +2059,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 74882,
-      "num": 1060038,
-      "word": "华为MateX7的5A网速实测",
-      "onboard_time": 1764410421,
-      "rank": 1,
-      "category": "数码"
+      "raw_hot": 75103,
+      "num": 256911,
+      "word": "离异夫妻坠河女子遗体18天后被找到",
+      "onboard_time": 1764411202,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 73931,
@@ -1993,14 +2097,6 @@
       "onboard_time": 1764382281,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 73397,
-      "num": 236723,
-      "word": "离异夫妻坠河女子遗体18天后被找到",
-      "onboard_time": 1764411202,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 72891,
@@ -2075,6 +2171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67284,
+      "num": 256509,
+      "word": "原来真的存在这样的家庭",
+      "onboard_time": 1764413001,
+      "rank": 47,
+      "category": "情感"
+    },
+    {
       "raw_hot": 67195,
       "num": 83083,
       "word": "这个器官年轻的人更长寿",
@@ -2089,6 +2193,14 @@
       "onboard_time": 1764404660,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66127,
+      "num": 256250,
+      "word": "浓眉这个眼神",
+      "onboard_time": 1764413842,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63495,
@@ -2144,6 +2256,14 @@
       "word": "5岁女童眼睛红肿3天查出白血病",
       "onboard_time": 1764387380,
       "rank": 49,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59378,
+      "num": 1059783,
+      "word": "冷空气一波接一波",
+      "onboard_time": 1764406402,
+      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -2211,6 +2331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 54372,
+      "num": 268000,
+      "word": "王安宇是奥利奥本利",
+      "onboard_time": 1764414502,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 54269,
       "num": 696509,
       "word": "日本学者点破特朗普真实想法",
@@ -2257,14 +2385,6 @@
       "onboard_time": 1764410602,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 51780,
-      "num": 481040,
-      "word": "日本旅游业被曝很难填补中国游客空白",
-      "onboard_time": 1764412342,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 51641,
@@ -2321,14 +2441,6 @@
       "onboard_time": 1764331642,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 47616,
-      "num": 1059783,
-      "word": "冷空气一波接一波",
-      "onboard_time": 1764406402,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47220,

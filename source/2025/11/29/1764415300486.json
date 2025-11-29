@@ -1,0 +1,410 @@
+{
+  "runTime": 1764415300486,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 379052,
+        "num": 1060648,
+        "word": "国考公安",
+        "onboard_time": 1764405680,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 81901,
+        "num": 1032795,
+        "word": "华为MateX7的5A网速实测",
+        "onboard_time": 1764410421,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 59378,
+        "num": 865625,
+        "word": "冷空气一波接一波",
+        "onboard_time": 1764406402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 310344,
+        "num": 806313,
+        "word": "公务员考试",
+        "onboard_time": 1764413842,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266629,
+        "num": 685722,
+        "word": "日本旅游业被曝很难填补中国游客空白",
+        "onboard_time": 1764412342,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1122113,
+        "num": 574007,
+        "word": "我就说何老师还不退休迟早会出事吧",
+        "onboard_time": 1764411683,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 477872,
+        "num": 477872,
+        "word": "此前失踪名单中144人确认安全",
+        "onboard_time": 1764408501,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 321971,
+        "num": 321971,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 298891,
+        "num": 298891,
+        "word": "日本自动洗澡机上市271万元一台",
+        "onboard_time": 1764400821,
+        "rank": 8,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 240171,
+        "num": 298460,
+        "word": "封存不意味彻底清除特定情况可查询",
+        "onboard_time": 1764396981,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 539935,
+        "num": 295738,
+        "word": "程潇红毯状态",
+        "onboard_time": 1764411321,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 418662,
+        "num": 293193,
+        "word": "对李昀锐182的身高有了实感",
+        "onboard_time": 1764413302,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 351298,
+        "num": 290778,
+        "word": "山寨奶茶一点点撕开标签是一点甜",
+        "onboard_time": 1764411202,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 290169,
+        "num": 290169,
+        "word": "男同事被男同事表白了",
+        "onboard_time": 1764414561,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 279484,
+        "num": 279484,
+        "word": "王晶说顶流演员都不会演戏",
+        "onboard_time": 1764405621,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249892,
+        "num": 277277,
+        "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+        "onboard_time": 1764412281,
+        "rank": 15,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 238661,
+        "num": 276607,
+        "word": "梁朝伟说在日本语言不通能不跟人讲话",
+        "onboard_time": 1764396261,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168550,
+        "num": 273960,
+        "word": "28岁禁毒民警抓捕毒贩时中弹牺牲",
+        "onboard_time": 1764414683,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 164265,
+        "num": 269696,
+        "word": "建议大家一上车就立马锁门",
+        "onboard_time": 1764406581,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54372,
+        "num": 268000,
+        "word": "王安宇是奥利奥本利",
+        "onboard_time": 1764414502,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 976732,
+        "num": 266106,
+        "word": "李清照将家暴丈夫送进大牢",
+        "onboard_time": 1764408981,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346348,
+        "num": 263018,
+        "word": "胡歌说当爸后不太敢接这角色",
+        "onboard_time": 1764408501,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 323958,
+        "num": 260438,
+        "word": "卢昱晓工作室",
+        "onboard_time": 1764414502,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 258569,
+        "num": 258569,
+        "word": "秋冬少买驼色衣服",
+        "onboard_time": 1764414742,
+        "rank": 23,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162968,
+        "num": 258524,
+        "word": "华晨宇离观众近到被添加AI提示",
+        "onboard_time": 1764414802,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 160850,
+        "num": 258440,
+        "word": "在疯狂动物城里看到了王一博",
+        "onboard_time": 1764400520,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146724,
+        "num": 258385,
+        "word": "腾讯2025年热度破亿角色",
+        "onboard_time": 1764401541,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138898,
+        "num": 258275,
+        "word": "再见爱人酸奶事件商家回应",
+        "onboard_time": 1764405141,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127721,
+        "num": 258151,
+        "word": "福建人养出了无毒级河豚",
+        "onboard_time": 1764414983,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124557,
+        "num": 258040,
+        "word": "英国女警卧底5年爱上监控对象闪婚",
+        "onboard_time": 1764401481,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115102,
+        "num": 257950,
+        "word": "云南25岁缉毒警牺牲时仍紧扣扳机",
+        "onboard_time": 1764396443,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110105,
+        "num": 257943,
+        "word": "活了20多年第一次拥有睡衣",
+        "onboard_time": 1764404361,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107723,
+        "num": 257806,
+        "word": "木苏里回复",
+        "onboard_time": 1764392781,
+        "rank": 32,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 102524,
+        "num": 257686,
+        "word": "警方已完成两栋大厦搜索未发现遗体",
+        "onboard_time": 1764409642,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101215,
+        "num": 257668,
+        "word": "王楚钦孙颖莎揭晓1号签位",
+        "onboard_time": 1764405861,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93298,
+        "num": 257520,
+        "word": "五花八门",
+        "onboard_time": 1764410782,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92745,
+        "num": 257475,
+        "word": "第一次用外焦里嫩来形容房子",
+        "onboard_time": 1764412522,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92168,
+        "num": 257338,
+        "word": "多名在日本中国留学生发声",
+        "onboard_time": 1764414622,
+        "rank": 37,
+        "category": "教育,海外新闻"
+      },
+      {
+        "raw_hot": 84830,
+        "num": 257278,
+        "word": "中国军舰和中国黄岩岛同框",
+        "onboard_time": 1764414082,
+        "rank": 38,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 80726,
+        "num": 257142,
+        "word": "枭起青壤",
+        "onboard_time": 1764404721,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78827,
+        "num": 257094,
+        "word": "挤不进去的猫窝我硬挤",
+        "onboard_time": 1764415161,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78061,
+        "num": 257021,
+        "word": "孙颖莎好奇王楚钦在画什么",
+        "onboard_time": 1764410421,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75103,
+        "num": 256911,
+        "word": "离异夫妻坠河女子遗体18天后被找到",
+        "onboard_time": 1764411202,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74699,
+        "num": 256826,
+        "word": "以为减肥实际热量很高的食物",
+        "onboard_time": 1764407301,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 71391,
+        "num": 256715,
+        "word": "曝S8冠军教练重回LPL",
+        "onboard_time": 1764412581,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 71382,
+        "num": 256672,
+        "word": "BLG官宣Knight续约",
+        "onboard_time": 1764412222,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 70065,
+        "num": 256555,
+        "word": "原来这是抑郁躯体化啊",
+        "onboard_time": 1764388942,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 67284,
+        "num": 256509,
+        "word": "原来真的存在这样的家庭",
+        "onboard_time": 1764413001,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 66706,
+        "num": 256416,
+        "word": "12岁嗯哼长这么大了",
+        "onboard_time": 1764401841,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66127,
+        "num": 256250,
+        "word": "浓眉这个眼神",
+        "onboard_time": 1764413842,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
