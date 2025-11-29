@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764387273422,
+  "endTime": 1764390727701,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -25,6 +25,14 @@
       "onboard_time": 1764383720,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 920818,
+      "num": 213842,
+      "word": "原来这是抑郁躯体化啊",
+      "onboard_time": 1764388942,
+      "rank": 10,
+      "category": "情感"
     },
     {
       "raw_hot": 855573,
@@ -67,6 +75,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 531375,
+      "num": 212961,
+      "word": "何美延婆婆 知否小秦氏",
+      "onboard_time": 1764388580,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 529174,
       "num": 339565,
       "word": "恋与深空",
@@ -81,6 +97,22 @@
       "onboard_time": 1764377720,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 431398,
+      "num": 176637,
+      "word": "霍建华林心如参加邱泽许玮甯婚礼",
+      "onboard_time": 1764386541,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 362836,
+      "num": 295653,
+      "word": "陈晓撤回一个好友申请",
+      "onboard_time": 1764388942,
+      "rank": 5,
+      "category": "剧集"
     },
     {
       "raw_hot": 353187,
@@ -99,12 +131,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349698,
+      "num": 349698,
+      "word": "自己有一百给老婆花两万一的人出现了",
+      "onboard_time": 1764388161,
+      "rank": 3,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 345998,
       "num": 176837,
       "word": "家人强行探望发现哥哥已去世腐烂",
       "onboard_time": 1764386421,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 332290,
+      "num": 212599,
+      "word": "迪丽热巴是申公豹高质量买家秀吧",
+      "onboard_time": 1764388221,
+      "rank": 12,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 331244,
+      "num": 276922,
+      "word": "银行取钱不再一刀切式询问",
+      "onboard_time": 1764384802,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 311847,
+      "num": 311847,
+      "word": "BLG官宣Elk离队",
+      "onboard_time": 1764390261,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 305305,
@@ -115,11 +179,27 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 305211,
+      "num": 166083,
+      "word": "秦昊让恩利带伊能静去夜店",
+      "onboard_time": 1764389420,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 303386,
       "num": 1182762,
       "word": "被男同学杀害女孩本子写满笔记",
       "onboard_time": 1764339863,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 301083,
+      "num": 211858,
+      "word": "男子继承房产发现父亲有私生子女",
+      "onboard_time": 1764387261,
+      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -171,14 +251,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 285584,
-      "num": 176637,
-      "word": "霍建华林心如参加邱泽许玮甯婚礼",
-      "onboard_time": 1764386541,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 284485,
       "num": 1179247,
       "word": "香港将下半旗志哀",
@@ -228,7 +300,7 @@
     },
     {
       "raw_hot": 239091,
-      "num": 167268,
+      "num": 200207,
       "word": "日本民众称日中关系不断恶化",
       "onboard_time": 1764378860,
       "rank": 21,
@@ -299,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 219310,
+      "num": 131771,
+      "word": "Ning宣布新阵容",
+      "onboard_time": 1764389120,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 211288,
       "num": 187210,
       "word": "邱泽许玮甯一家三口首同框",
@@ -347,20 +427,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 186882,
+      "num": 186882,
+      "word": "现在就出发",
+      "onboard_time": 1764390621,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 186350,
+      "num": 165319,
+      "word": "金价",
+      "onboard_time": 1764387320,
+      "rank": 23,
+      "category": "财经"
+    },
+    {
       "raw_hot": 184684,
       "num": 155538,
       "word": "印度集体婚礼上因抢薯片发生踩踏",
       "onboard_time": 1764377780,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 177052,
-      "num": 177052,
-      "word": "银行取钱不再一刀切式询问",
-      "onboard_time": 1764384802,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 174257,
@@ -377,6 +465,14 @@
       "onboard_time": 1764380120,
       "rank": 17,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 164583,
+      "num": 164583,
+      "word": "恋与深空日卡2.0",
+      "onboard_time": 1764389841,
+      "rank": 25,
+      "category": "游戏"
     },
     {
       "raw_hot": 161372,
@@ -507,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131279,
+      "num": 131279,
+      "word": "杨幂粉丝拍的张婧仪",
+      "onboard_time": 1764387860,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127871,
       "num": 1203040,
       "word": "中国男篮主场不敌韩国男篮",
@@ -521,6 +625,14 @@
       "onboard_time": 1764381861,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 121493,
+      "num": 121493,
+      "word": "有这样的旅游搭子也太幸福了",
+      "onboard_time": 1764389240,
+      "rank": 35,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 120010,
@@ -577,14 +689,6 @@
       "onboard_time": 1764385161,
       "rank": 32,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 109007,
-      "num": 109007,
-      "word": "男子继承房产发现父亲有私生子女",
-      "onboard_time": 1764387261,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108612,
@@ -644,11 +748,19 @@
     },
     {
       "raw_hot": 99463,
-      "num": 99463,
+      "num": 120932,
       "word": "巴基斯坦回应高市早苗涉台言论",
       "onboard_time": 1764384140,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 97322,
+      "num": 121045,
+      "word": "魏大勋翘脚拍照",
+      "onboard_time": 1764390201,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 96756,
@@ -747,6 +859,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 84691,
+      "num": 120983,
+      "word": "白鹿张真源自驾姐弟二搭",
+      "onboard_time": 1764387081,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83422,
       "num": 83422,
       "word": "白敬亭穿的是红秋衣吗",
@@ -809,6 +929,22 @@
       "onboard_time": 1764382281,
       "rank": 41,
       "category": "电影"
+    },
+    {
+      "raw_hot": 72891,
+      "num": 120890,
+      "word": "Chovy获年度最佳选手奖",
+      "onboard_time": 1764388642,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 72335,
+      "num": 122826,
+      "word": "女子称被鲨鱼咬或是手链所致",
+      "onboard_time": 1764388761,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 71548,
@@ -875,6 +1011,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 62611,
+      "num": 121047,
+      "word": "马思纯 旺仔是谁",
+      "onboard_time": 1764390141,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61851,
       "num": 83079,
       "word": "Zeus谈Meiko请客",
@@ -905,6 +1049,14 @@
       "onboard_time": 1764323063,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60032,
+      "num": 120867,
+      "word": "5岁女童眼睛红肿3天查出白血病",
+      "onboard_time": 1764387380,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58514,
@@ -1003,14 +1155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 48826,
-      "num": 103226,
-      "word": "白鹿张真源自驾姐弟二搭",
-      "onboard_time": 1764387081,
-      "rank": 38,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 48403,
       "num": 694358,
       "word": "宋茜一秒看出曹骏挂脸",
@@ -1073,6 +1217,14 @@
       "onboard_time": 1764344062,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 43007,
+      "num": 121065,
+      "word": "梁朝伟辟谣定居日本",
+      "onboard_time": 1764390621,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 42694,
@@ -1147,6 +1299,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 23920,
+      "num": 352799,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1764387980,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23681,
       "num": 182541,
       "word": "融不进去的圈子就不要硬闯",
@@ -1193,6 +1353,9 @@
     },
     {
       "word": "#中共中央政治局召开会议#"
+    },
+    {
+      "word": "#要动真碰硬抓好巡视整改#"
     }
   ]
 }
