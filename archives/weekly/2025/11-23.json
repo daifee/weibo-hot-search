@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764399053910,
+  "endTime": 1764401119282,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -715,6 +715,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 993232,
+      "num": 558767,
+      "word": "梁朝伟说在日本语言不通能不跟人讲话",
+      "onboard_time": 1764396261,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 973132,
       "num": 251541,
       "word": "女子斐乐购鞋遭备注买双鞋子都嫌贵",
@@ -1393,14 +1401,6 @@
       "onboard_time": 1764346641,
       "rank": 18,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 687989,
-      "num": 558767,
-      "word": "梁朝伟说在日本语言不通能不跟人讲话",
-      "onboard_time": 1764396261,
-      "rank": 12,
-      "category": "电影"
     },
     {
       "raw_hot": 687668,
@@ -2291,6 +2291,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 497189,
+      "num": 562477,
+      "word": "女儿看到缉毒警爸爸就跑原因让人泪目",
+      "onboard_time": 1764396500,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 496051,
       "num": 359744,
       "word": "杀害女同学男生听到判决面无表情",
@@ -2809,6 +2817,14 @@
       "onboard_time": 1764327262,
       "rank": 47,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 444479,
+      "num": 356591,
+      "word": "年薪60万美金的斯坦福硕士回国做甜品",
+      "onboard_time": 1764399681,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 444412,
@@ -3945,14 +3961,6 @@
       "onboard_time": 1764118521,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 338568,
-      "num": 562477,
-      "word": "女儿看到缉毒警爸爸就跑原因让人泪目",
-      "onboard_time": 1764396500,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 337282,
@@ -5603,6 +5611,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 248135,
+      "num": 248135,
+      "word": "摇汞 删本",
+      "onboard_time": 1764400160,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 247816,
       "num": 247816,
       "word": "为什么近视600度是一个重要分界线",
@@ -6459,6 +6475,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 213803,
+      "num": 213803,
+      "word": "孙颖莎说王楚钦抛球就带转",
+      "onboard_time": 1764399621,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 213785,
       "num": 170681,
       "word": "歌手孙悦因家人离世取消演出",
@@ -6737,6 +6761,14 @@
       "onboard_time": 1764311601,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203636,
+      "num": 203636,
+      "word": "肖战新片有个4岁的孩子",
+      "onboard_time": 1764399140,
+      "rank": 17,
+      "category": "电影"
     },
     {
       "raw_hot": 203575,
@@ -7460,7 +7492,7 @@
     },
     {
       "raw_hot": 190616,
-      "num": 190616,
+      "num": 355390,
       "word": "苏翊鸣赛季首冠",
       "onboard_time": 1764398662,
       "rank": 18,
@@ -9683,6 +9715,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152871,
+      "num": 152871,
+      "word": "张俪 可是他叫我妈妈哎",
+      "onboard_time": 1764400941,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 152198,
       "num": 1322040,
       "word": "唐朝诡事录",
@@ -9833,6 +9873,14 @@
       "onboard_time": 1764372979,
       "rank": 25,
       "category": "美食"
+    },
+    {
+      "raw_hot": 150067,
+      "num": 150067,
+      "word": "专门胖小肚子的5个睡前习惯",
+      "onboard_time": 1764396801,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 149956,
@@ -12339,6 +12387,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 117420,
+      "num": 180324,
+      "word": "在疯狂动物城里看到了王一博",
+      "onboard_time": 1764400520,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 117413,
       "num": 228578,
       "word": "解放军能打败一切来犯之敌",
@@ -12449,6 +12505,14 @@
       "onboard_time": 1764130941,
       "rank": 38,
       "category": "网红"
+    },
+    {
+      "raw_hot": 116316,
+      "num": 116316,
+      "word": "我海警位中国黄岩岛领海执法巡查",
+      "onboard_time": 1764400760,
+      "rank": 32,
+      "category": "国内时政"
     },
     {
       "raw_hot": 116253,
@@ -13451,6 +13515,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 107045,
+      "num": 107045,
+      "word": "这段催婚给我看窒息了",
+      "onboard_time": 1764396620,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 107037,
       "num": 133466,
       "word": "节目组可太听劝了",
@@ -13683,14 +13755,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 105918,
-      "num": 105918,
-      "word": "这段催婚给我看窒息了",
-      "onboard_time": 1764396620,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 105852,
       "num": 125768,
       "word": "枭起青壤的编剧",
@@ -13865,14 +13929,6 @@
       "onboard_time": 1764305543,
       "rank": 42,
       "category": "情感"
-    },
-    {
-      "raw_hot": 104616,
-      "num": 104616,
-      "word": "专门胖小肚子的5个睡前习惯",
-      "onboard_time": 1764396801,
-      "rank": 45,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 104586,
@@ -14177,6 +14233,14 @@
       "onboard_time": 1764378802,
       "rank": 31,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 101504,
+      "num": 101504,
+      "word": "古早美甲",
+      "onboard_time": 1764398902,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 101449,
@@ -14819,6 +14883,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95874,
+      "num": 95874,
+      "word": "黑色衣服 劣质服装重灾区",
+      "onboard_time": 1764399920,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
       "raw_hot": 95867,
       "num": 95867,
       "word": "你的宠物好像养宠物了",
@@ -14889,6 +14961,14 @@
       "onboard_time": 1763995762,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 95450,
+      "num": 95450,
+      "word": "嗑了18集你俩终于真亲了",
+      "onboard_time": 1764398601,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 95367,
@@ -15065,14 +15145,6 @@
       "onboard_time": 1763885480,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 93655,
-      "num": 93655,
-      "word": "嗑了18集你俩终于真亲了",
-      "onboard_time": 1764398601,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 93641,
@@ -15723,6 +15795,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 87950,
+      "num": 87950,
+      "word": "茶百道崩了",
+      "onboard_time": 1764397640,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87848,
       "num": 2183162,
       "word": "火箭vs勇士",
@@ -15881,6 +15961,14 @@
       "onboard_time": 1764027021,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 86125,
+      "num": 86125,
+      "word": "周扬青简直是我嘴替",
+      "onboard_time": 1764400582,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 86113,
@@ -16371,6 +16459,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 81625,
+      "num": 81625,
+      "word": "沈腾说卧底不是范丞丞我是狗",
+      "onboard_time": 1764400941,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 81591,
       "num": 270341,
       "word": "日本在华青年表态绝对反对战争",
@@ -16465,14 +16561,6 @@
       "onboard_time": 1764382520,
       "rank": 39,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 80731,
-      "num": 80731,
-      "word": "古早美甲",
-      "onboard_time": 1764398902,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 80670,
@@ -16769,6 +16857,14 @@
       "onboard_time": 1763911342,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75804,
+      "num": 75804,
+      "word": "在最想辞职的时候遇到最晚的新年",
+      "onboard_time": 1764400701,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 75687,
@@ -17281,6 +17377,14 @@
       "onboard_time": 1764216264,
       "rank": 18,
       "category": "数码"
+    },
+    {
+      "raw_hot": 68287,
+      "num": 79522,
+      "word": "日本自动洗澡机上市27万元一台",
+      "onboard_time": 1764400821,
+      "rank": 44,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 68240,
@@ -18513,6 +18617,14 @@
       "onboard_time": 1763881939,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 47861,
+      "num": 116321,
+      "word": "日本民众称高市是国难",
+      "onboard_time": 1764401003,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 47857,
