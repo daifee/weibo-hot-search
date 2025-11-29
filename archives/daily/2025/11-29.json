@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764420631744,
+  "endTime": 1764421461940,
   "band_list": [
     {
       "raw_hot": 1381862,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 1058086,
-      "num": 1064239,
+      "num": 1069933,
       "word": "此前失踪名单中144人确认安全",
       "onboard_time": 1764408501,
       "rank": 9,
@@ -187,19 +187,19 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 543198,
+      "num": 362743,
+      "word": "向太说这辈子唯一想知道父亲是谁",
+      "onboard_time": 1764416182,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 542320,
       "num": 274412,
       "word": "马思纯 旺仔是谁",
       "onboard_time": 1764390141,
       "rank": 39,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 542221,
-      "num": 362743,
-      "word": "向太说这辈子唯一想知道父亲是谁",
-      "onboard_time": 1764416182,
-      "rank": 48,
       "category": "艺人"
     },
     {
@@ -337,6 +337,14 @@
       "onboard_time": 1764405680,
       "rank": 9,
       "category": "教育"
+    },
+    {
+      "raw_hot": 409186,
+      "num": 1189127,
+      "word": "疯狂动物城",
+      "onboard_time": 1764327502,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 402865,
@@ -499,14 +507,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 321971,
-      "num": 1189127,
-      "word": "疯狂动物城",
-      "onboard_time": 1764327502,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 316202,
       "num": 273490,
       "word": "男子继承房产发现父亲有私生子女",
@@ -619,6 +619,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 284457,
+      "num": 350028,
+      "word": "头发自然干vs吹风机吹干",
+      "onboard_time": 1764415762,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 280545,
       "num": 284652,
       "word": "疯狂动物城2内地票房破10亿",
@@ -627,12 +635,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 278327,
+      "num": 348088,
+      "word": "流感",
+      "onboard_time": 1764419542,
+      "rank": 24,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 276302,
       "num": 208495,
       "word": "白血病的早期表现",
       "onboard_time": 1764395661,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 275688,
+      "num": 349563,
+      "word": "汪苏泷嘉宾宋雨琦",
+      "onboard_time": 1764419903,
+      "rank": 17,
+      "category": "演出"
     },
     {
       "raw_hot": 271744,
@@ -675,14 +699,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 257830,
-      "num": 350028,
-      "word": "头发自然干vs吹风机吹干",
-      "onboard_time": 1764415762,
-      "rank": 30,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 256688,
       "num": 176569,
       "word": "秦彻银翼恶魔",
@@ -697,6 +713,14 @@
       "onboard_time": 1764394041,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249743,
+      "num": 349143,
+      "word": "疯狂动物城2",
+      "onboard_time": 1764420262,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 246097,
@@ -827,6 +851,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 208628,
+      "num": 344817,
+      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
+      "onboard_time": 1764420262,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 204949,
       "num": 1171254,
       "word": "香港大埔火灾约200人情况未明",
@@ -841,6 +873,14 @@
       "onboard_time": 1764409642,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203816,
+      "num": 308668,
+      "word": "张函瑞考核第一",
+      "onboard_time": 1764420861,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 203636,
@@ -915,14 +955,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 195030,
-      "num": 349563,
-      "word": "汪苏泷嘉宾宋雨琦",
-      "onboard_time": 1764419903,
-      "rank": 17,
-      "category": "演出"
-    },
-    {
       "raw_hot": 193327,
       "num": 1024958,
       "word": "疑似范丞丞趁机表白",
@@ -939,6 +971,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 190726,
+      "num": 349380,
+      "word": "全国流感阳性率接近45%",
+      "onboard_time": 1764419661,
+      "rank": 18,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 190616,
       "num": 355390,
       "word": "苏翊鸣赛季首冠",
@@ -953,14 +993,6 @@
       "onboard_time": 1764392481,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 187150,
-      "num": 349143,
-      "word": "疯狂动物城2",
-      "onboard_time": 1764420262,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 186350,
@@ -1049,14 +1081,6 @@
       "onboard_time": 1764401841,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 168428,
-      "num": 349380,
-      "word": "全国流感阳性率接近45%",
-      "onboard_time": 1764419661,
-      "rank": 18,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 167766,
@@ -1201,14 +1225,6 @@
       "onboard_time": 1764384561,
       "rank": 25,
       "category": "民生新闻,互联网"
-    },
-    {
-      "raw_hot": 150652,
-      "num": 348088,
-      "word": "流感",
-      "onboard_time": 1764419542,
-      "rank": 24,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 150244,
@@ -1475,6 +1491,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 112026,
+      "num": 363970,
+      "word": "王楚钦说混团进奥运压力更大了",
+      "onboard_time": 1764419783,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112018,
       "num": 112018,
       "word": "8岁女孩用上3D打印的新鼻子",
@@ -1609,6 +1633,14 @@
       "onboard_time": 1764397941,
       "rank": 34,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103971,
+      "num": 303684,
+      "word": "陆柯燃哭了",
+      "onboard_time": 1764421103,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 103315,
@@ -2067,14 +2099,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 82499,
-      "num": 363970,
-      "word": "王楚钦说混团进奥运压力更大了",
-      "onboard_time": 1764419783,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 82470,
       "num": 82470,
       "word": "今年存了多少 存活了下来",
@@ -2227,6 +2251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75612,
+      "num": 303112,
+      "word": "内娱云包场最新表格",
+      "onboard_time": 1764421404,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 75103,
       "num": 256911,
       "word": "离异夫妻坠河女子遗体18天后被找到",
@@ -2291,12 +2323,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 71809,
-      "num": 344817,
-      "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
-      "onboard_time": 1764420262,
-      "rank": 39,
-      "category": "艺人"
+      "raw_hot": 72054,
+      "num": 342837,
+      "word": "他居然可以随时打开免打扰模式",
+      "onboard_time": 1764419482,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 71548,
@@ -2321,6 +2353,14 @@
       "onboard_time": 1764394582,
       "rank": 46,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69507,
+      "num": 1059783,
+      "word": "冷空气一波接一波",
+      "onboard_time": 1764406402,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68714,
@@ -2395,14 +2435,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 65454,
-      "num": 342837,
-      "word": "他居然可以随时打开免打扰模式",
-      "onboard_time": 1764419482,
-      "rank": 48,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 63495,
       "num": 1163164,
       "word": "Zeus跟Peanut和Faker聚餐",
@@ -2435,14 +2467,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 61259,
-      "num": 1059783,
-      "word": "冷空气一波接一波",
-      "onboard_time": 1764406402,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 60605,
       "num": 356230,
       "word": "网警斩断非法引流黑手",
@@ -2457,6 +2481,14 @@
       "onboard_time": 1764323063,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 60297,
+      "num": 347764,
+      "word": "社区干部用面具刷脸打卡糊弄谁",
+      "onboard_time": 1764420322,
+      "rank": 25,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 60032,
@@ -2611,6 +2643,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 49219,
+      "num": 302678,
+      "word": "过着一种细想就会哭出声的生活",
+      "onboard_time": 1764421042,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 48955,
       "num": 308817,
       "word": "何穗产后首复工",
@@ -2641,6 +2681,14 @@
       "onboard_time": 1764403461,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46708,
+      "num": 303897,
+      "word": "15岁男孩熬夜打游戏身高停在1米38",
+      "onboard_time": 1764421224,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45109,
@@ -2883,6 +2931,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 19202,
+      "num": 304092,
+      "word": "日本69岁男子在公厕遭熊袭击",
+      "onboard_time": 1764421224,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 13929,
       "num": 180934,
       "word": "领养日 小明一家",
@@ -2897,14 +2953,6 @@
       "onboard_time": 1764364394,
       "rank": 49,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 9723,
-      "num": 347764,
-      "word": "社区干部用面具刷脸打卡糊弄谁",
-      "onboard_time": 1764420322,
-      "rank": 25,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 9382,
