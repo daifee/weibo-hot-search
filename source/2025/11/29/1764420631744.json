@@ -1,0 +1,410 @@
+{
+  "runTime": 1764420631744,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 401493,
+        "num": 1064239,
+        "word": "此前失踪名单中144人确认安全",
+        "onboard_time": 1764408501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 396702,
+        "num": 396702,
+        "word": "公务员考试",
+        "onboard_time": 1764413842,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 61259,
+        "num": 394698,
+        "word": "冷空气一波接一波",
+        "onboard_time": 1764406402,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 666045,
+        "num": 390604,
+        "word": "24岁40万年薪女儿因为父亲离职",
+        "onboard_time": 1764417741,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200334,
+        "num": 387316,
+        "word": "恋与制作人八周年直播",
+        "onboard_time": 1764416962,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 264041,
+        "num": 381571,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 206785,
+        "num": 377783,
+        "word": "日本旅游业被曝很难填补中国游客空白",
+        "onboard_time": 1764412342,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199213,
+        "num": 375158,
+        "word": "汪苏泷演唱会",
+        "onboard_time": 1764419723,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 121232,
+        "num": 367799,
+        "word": "国考公安",
+        "onboard_time": 1764405680,
+        "rank": 8,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 82499,
+        "num": 363970,
+        "word": "王楚钦说混团进奥运压力更大了",
+        "onboard_time": 1764419783,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 542221,
+        "num": 362743,
+        "word": "向太说这辈子唯一想知道父亲是谁",
+        "onboard_time": 1764416182,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437772,
+        "num": 357111,
+        "word": "曝袁惟仁被送急诊",
+        "onboard_time": 1764420021,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 441804,
+        "num": 350617,
+        "word": "封存不意味彻底清除特定情况可查询",
+        "onboard_time": 1764396981,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 350272,
+        "num": 350272,
+        "word": "00后花近2千万在常州开火锅店",
+        "onboard_time": 1764416063,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 276824,
+        "num": 350101,
+        "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+        "onboard_time": 1764412281,
+        "rank": 14,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 257830,
+        "num": 350028,
+        "word": "头发自然干vs吹风机吹干",
+        "onboard_time": 1764415762,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 227484,
+        "num": 349641,
+        "word": "TF四代11月考核",
+        "onboard_time": 1764418822,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195030,
+        "num": 349563,
+        "word": "汪苏泷嘉宾宋雨琦",
+        "onboard_time": 1764419903,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 168428,
+        "num": 349380,
+        "word": "全国流感阳性率接近45%",
+        "onboard_time": 1764419661,
+        "rank": 18,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 187150,
+        "num": 349143,
+        "word": "疯狂动物城2",
+        "onboard_time": 1764420262,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 866630,
+        "num": 348920,
+        "word": "我就说何老师还不退休迟早会出事吧",
+        "onboard_time": 1764411683,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 629616,
+        "num": 348717,
+        "word": "卢昱晓工作室",
+        "onboard_time": 1764414502,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183657,
+        "num": 348458,
+        "word": "王晶说顶流演员都不会演戏",
+        "onboard_time": 1764405621,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353899,
+        "num": 348320,
+        "word": "李清照将家暴丈夫送进大牢",
+        "onboard_time": 1764408981,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150652,
+        "num": 348088,
+        "word": "流感",
+        "onboard_time": 1764419542,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 9723,
+        "num": 347764,
+        "word": "社区干部用面具刷脸打卡糊弄谁",
+        "onboard_time": 1764420322,
+        "rank": 25,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 235521,
+        "num": 347545,
+        "word": "秋冬少买驼色衣服",
+        "onboard_time": 1764414742,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166282,
+        "num": 347422,
+        "word": "男同事被男同事表白了",
+        "onboard_time": 1764414561,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147799,
+        "num": 347209,
+        "word": "腾讯2025年热度破亿角色",
+        "onboard_time": 1764401541,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 137994,
+        "num": 347046,
+        "word": "建议大家一上车就立马锁门",
+        "onboard_time": 1764406581,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136156,
+        "num": 346714,
+        "word": "对李昀锐182的身高有了实感",
+        "onboard_time": 1764413302,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133032,
+        "num": 346602,
+        "word": "多名在日本中国留学生发声",
+        "onboard_time": 1764414622,
+        "rank": 31,
+        "category": "教育,海外新闻"
+      },
+      {
+        "raw_hot": 129710,
+        "num": 346336,
+        "word": "谁家男主刚开播就把结局漏完了",
+        "onboard_time": 1764419723,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122636,
+        "num": 346184,
+        "word": "在疯狂动物城里看到了王一博",
+        "onboard_time": 1764400520,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 61629,
+        "num": 345970,
+        "word": "中国军舰和中国黄岩岛同框",
+        "onboard_time": 1764414082,
+        "rank": 34,
+        "category": "国内时政,军事"
+      },
+      {
+        "raw_hot": 120942,
+        "num": 345655,
+        "word": "丈夫救父亲去世25岁妻子守家不改嫁",
+        "onboard_time": 1764416962,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110214,
+        "num": 345473,
+        "word": "枭起青壤",
+        "onboard_time": 1764404721,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51010,
+        "num": 345302,
+        "word": "孙颖莎好奇王楚钦在画什么",
+        "onboard_time": 1764410421,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9382,
+        "num": 344916,
+        "word": "日本69岁保安在公厕遭熊袭击",
+        "onboard_time": 1764420202,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 71809,
+        "num": 344817,
+        "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
+        "onboard_time": 1764420262,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109704,
+        "num": 344526,
+        "word": "程潇红毯状态",
+        "onboard_time": 1764411321,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 94602,
+        "num": 344327,
+        "word": "丁禹兮被宋茜泼成这样",
+        "onboard_time": 1764417381,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87075,
+        "num": 344170,
+        "word": "李现张婧仪热聊",
+        "onboard_time": 1764416063,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84828,
+        "num": 343883,
+        "word": "华晨宇离观众近到被添加AI提示",
+        "onboard_time": 1764414802,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78872,
+        "num": 343773,
+        "word": "胡歌说当爸后不太敢接这角色",
+        "onboard_time": 1764408501,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 78488,
+        "num": 343406,
+        "word": "白鹿加到李漠导演微信",
+        "onboard_time": 1764416063,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 66152,
+        "num": 343335,
+        "word": "现在才懂早产为什么是一生的潮湿",
+        "onboard_time": 1764419661,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 69086,
+        "num": 343160,
+        "word": "英国女警卧底5年爱上监控对象闪婚",
+        "onboard_time": 1764401481,
+        "rank": 47,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 65454,
+        "num": 342837,
+        "word": "他居然可以随时打开免打扰模式",
+        "onboard_time": 1764419482,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 65015,
+        "num": 342623,
+        "word": "山寨奶茶一点点撕开标签是一点甜",
+        "onboard_time": 1764411202,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

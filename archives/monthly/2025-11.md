@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 19:37:21
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 20:50:31
 </p>
 </blockquote>
 <p>
@@ -4503,6 +4503,12 @@ Uzi颁奖（热度：677194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2324%E5%B2%8140%E4%B8%87%E5%B9%B4%E8%96%AA%E5%A5%B3%E5%84%BF%E5%9B%A0%E4%B8%BA%E7%88%B6%E4%BA%B2%E7%A6%BB%E8%81%8C%23" target="weibo">
+24岁40万年薪女儿因为父亲离职（热度：666045）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%B0%E5%BA%A6%E5%A5%B3%E5%AD%90%E9%81%AD6%E4%BA%BA%E8%BD%AE%E5%A5%B8%E6%8B%A6%E8%AD%A6%E8%BD%A6%E6%B1%82%E5%8A%A9%23" target="weibo">
 印度女子遭6人轮奸拦警车求助（热度：666019）
 </a>
@@ -5009,6 +5015,12 @@ Faker说BLG是冠军（热度：636527）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
 剪毁刘海意外成了人生发型（热度：631043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%A2%E6%98%B1%E6%99%93%E5%B7%A5%E4%BD%9C%E5%AE%A4%23" target="weibo">
+卢昱晓工作室（热度：629616）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%B3%E6%99%93%E5%BD%A4%E8%A1%A3%E5%93%81%23" target="weibo">
 关晓彤衣品（热度：567954）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E4%B8%8D%E4%BB%85%E6%84%A4%E6%80%92%E8%BF%98%E6%9C%89%E8%A1%8C%E5%8A%A8%23" target="weibo">
-中方不仅愤怒还有行动（热度：567607）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%9D%E8%B5%B5%E6%A8%B1%E5%AD%90%E8%A2%AB%E6%9F%90%E5%88%B6%E4%BD%9C%E4%BA%BA%E8%AE%A4%E5%BD%93%E5%B9%B2%E5%A5%B3%E5%84%BF%23" target="weibo">
-曝赵樱子被某制作人认当干女儿（热度：567436）
 </a>
 </li>
 
