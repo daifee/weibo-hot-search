@@ -1,7 +1,15 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764409201681,
+  "endTime": 1764412039541,
   "band_list": [
+    {
+      "raw_hot": 1356718,
+      "num": 1058230,
+      "word": "李清照将家暴丈夫送进大牢",
+      "onboard_time": 1764408981,
+      "rank": 17,
+      "category": "综艺"
+    },
     {
       "raw_hot": 1203491,
       "num": 1203491,
@@ -33,6 +41,14 @@
       "onboard_time": 1764383720,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1058086,
+      "num": 1058086,
+      "word": "此前失踪名单中144人确认安全",
+      "onboard_time": 1764408501,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 993232,
@@ -211,6 +227,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 468866,
+      "num": 468866,
+      "word": "胡歌说当爸后不太敢接这角色",
+      "onboard_time": 1764408501,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 463723,
       "num": 1074195,
       "word": "王楚钦孙颖莎揭晓1号签位",
@@ -265,6 +289,22 @@
       "onboard_time": 1764391101,
       "rank": 43,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 378091,
+      "num": 291469,
+      "word": "建议大家一上车就立马锁门",
+      "onboard_time": 1764406581,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 377719,
+      "num": 1060435,
+      "word": "国考公安",
+      "onboard_time": 1764405680,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 366434,
@@ -411,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 291469,
-      "num": 291469,
-      "word": "建议大家一上车就立马锁门",
-      "onboard_time": 1764406581,
-      "rank": 17,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 290947,
       "num": 283749,
       "word": "女子被造黄谣失业离婚仅获道歉",
@@ -467,20 +499,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 276447,
+      "num": 118980,
+      "word": "我就说何老师还不退休迟早会出事吧",
+      "onboard_time": 1764411683,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 276302,
       "num": 208495,
       "word": "白血病的早期表现",
       "onboard_time": 1764395661,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 275905,
-      "num": 751073,
-      "word": "国考公安",
-      "onboard_time": 1764405680,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 271744,
@@ -643,22 +675,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 210609,
-      "num": 210609,
-      "word": "李清照将家暴丈夫送进大牢",
-      "onboard_time": 1764408981,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210447,
-      "num": 210447,
-      "word": "胡歌说当爸后不太敢接这角色",
-      "onboard_time": 1764408501,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 209471,
       "num": 485591,
       "word": "国乒主力亮相成都混团抽签仪式",
@@ -673,6 +689,14 @@
       "onboard_time": 1764316943,
       "rank": 7,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 204395,
+      "num": 204395,
+      "word": "警方已完成两栋大厦搜索未发现遗体",
+      "onboard_time": 1764409642,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203636,
@@ -899,6 +923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 160389,
+      "num": 160389,
+      "word": "程潇红毯状态",
+      "onboard_time": 1764411321,
+      "rank": 22,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157205,
       "num": 157205,
       "word": "papi胡彦斌不做何美延的亲友团可惜了",
@@ -995,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142350,
+      "num": 142350,
+      "word": "IMAX得闲谨制",
+      "onboard_time": 1764411921,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141077,
       "num": 704188,
       "word": "女子被造黄谣反被公司罚款5000元",
@@ -1017,6 +1057,14 @@
       "onboard_time": 1764384921,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 137388,
+      "num": 137388,
+      "word": "日本自动洗澡机上市271万元一台",
+      "onboard_time": 1764400821,
+      "rank": 27,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 135562,
@@ -1123,6 +1171,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 118702,
+      "num": 118702,
+      "word": "五花八门",
+      "onboard_time": 1764410782,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 117427,
       "num": 117427,
       "word": "古早美甲",
@@ -1145,6 +1201,14 @@
       "onboard_time": 1764373158,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 114909,
+      "num": 114909,
+      "word": "多名中国留学生不满日本高校做法",
+      "onboard_time": 1764411261,
+      "rank": 34,
+      "category": "教育,海外新闻"
     },
     {
       "raw_hot": 114113,
@@ -1291,6 +1355,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104791,
+      "num": 104791,
+      "word": "孙颖莎好奇王楚钦在画什么",
+      "onboard_time": 1764410421,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104760,
       "num": 104760,
       "word": "乒乓混团中国埃及香港智利同组",
@@ -1329,6 +1401,14 @@
       "onboard_time": 1764395540,
       "rank": 36,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102249,
+      "num": 102249,
+      "word": "只买对的不买贵的含金量还在上升",
+      "onboard_time": 1764411802,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 101520,
@@ -1371,6 +1451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 98949,
+      "num": 97465,
+      "word": "ACT对战Gr",
+      "onboard_time": 1764411982,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 98572,
       "num": 98572,
       "word": "这穿搭到夏天以为减肥成功了",
@@ -1385,6 +1473,22 @@
       "onboard_time": 1764392781,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97646,
+      "num": 97646,
+      "word": "交完房租余额只剩48块",
+      "onboard_time": 1764410721,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 96873,
+      "num": 96873,
+      "word": "王楚钦给孙颖莎一顿比划",
+      "onboard_time": 1764410421,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 96756,
@@ -1449,6 +1553,14 @@
       "onboard_time": 1764391101,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 93428,
+      "num": 93428,
+      "word": "以为减肥实际热量很高的食物",
+      "onboard_time": 1764407301,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 93204,
@@ -1635,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84580,
+      "num": 84580,
+      "word": "一万以上的工资化全妆",
+      "onboard_time": 1764408501,
+      "rank": 38,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 84258,
       "num": 84258,
       "word": "勇敢的维京人后代",
@@ -1643,20 +1763,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83735,
+      "num": 83735,
+      "word": "孙颖莎抽签现场创作作品揭晓",
+      "onboard_time": 1764409763,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83422,
       "num": 83422,
       "word": "白敬亭穿的是红秋衣吗",
       "onboard_time": 1764376280,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 83304,
-      "num": 83304,
-      "word": "一万以上的工资化全妆",
-      "onboard_time": 1764408501,
-      "rank": 38,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 83096,
@@ -1769,14 +1889,6 @@
       "onboard_time": 1764403760,
       "rank": 47,
       "category": "情感"
-    },
-    {
-      "raw_hot": 77236,
-      "num": 77236,
-      "word": "以为减肥实际热量很高的食物",
-      "onboard_time": 1764407301,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 75804,
@@ -1904,6 +2016,14 @@
       "word": "叫停一口价难解网约车供需矛盾",
       "onboard_time": 1764404660,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66474,
+      "num": 236636,
+      "word": "山寨奶茶一点点撕开标签是一点甜",
+      "onboard_time": 1764411202,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -2067,12 +2187,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52097,
+      "num": 1060038,
+      "word": "华为MateX7的5A网速实测",
+      "onboard_time": 1764410421,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 51837,
+      "num": 119197,
+      "word": "我的球场防护伙伴",
+      "onboard_time": 1764410602,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51641,
       "num": 562948,
       "word": "开展高层建筑火灾隐患排查",
       "onboard_time": 1764398241,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51055,
+      "num": 102266,
+      "word": "FoFo分享寸头照",
+      "onboard_time": 1764411802,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 50939,
@@ -2123,19 +2267,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 45788,
-      "num": 301137,
-      "word": "此前失踪名单中144人确认安全",
-      "onboard_time": 1764408501,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45109,
       "num": 694215,
       "word": "复婚能否休婚假各省情况不一",
       "onboard_time": 1764343044,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44802,
+      "num": 102307,
+      "word": "舞蹈室网购6套服装拍完视频退货",
+      "onboard_time": 1764411081,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -2235,6 +2379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40131,
+      "num": 283020,
+      "word": "澜沧通报露天垃圾堆放问题处置进展",
+      "onboard_time": 1764410602,
+      "rank": 13,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 39843,
       "num": 688966,
       "word": "8张信用卡轮流还贷300万",
@@ -2257,6 +2409,14 @@
       "onboard_time": 1764405861,
       "rank": 26,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 37894,
+      "num": 236723,
+      "word": "离异夫妻坠河女子遗体18天后被找到",
+      "onboard_time": 1764411202,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36157,
@@ -2347,6 +2507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17464,
+      "num": 1059783,
+      "word": "冷空气一波接一波",
+      "onboard_time": 1764406402,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13929,
       "num": 180934,
       "word": "领养日 小明一家",
@@ -2399,6 +2567,9 @@
     },
     {
       "word": "#中共中央政治局第二十三次集体学习#"
+    },
+    {
+      "word": "#营造风清气正的网络空间#"
     }
   ]
 }
