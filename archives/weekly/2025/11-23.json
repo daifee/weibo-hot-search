@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764401119282,
+  "endTime": 1764401900286,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -1819,6 +1819,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 577266,
+      "num": 356591,
+      "word": "年薪60万美金的斯坦福硕士回国做甜品",
+      "onboard_time": 1764399681,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 576636,
       "num": 576636,
       "word": "有人破解巨型吊牌继续蹭穿",
@@ -2817,14 +2825,6 @@
       "onboard_time": 1764327262,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 444479,
-      "num": 356591,
-      "word": "年薪60万美金的斯坦福硕士回国做甜品",
-      "onboard_time": 1764399681,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 444412,
@@ -4459,6 +4459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302497,
+      "num": 302497,
+      "word": "在疯狂动物城里看到了王一博",
+      "onboard_time": 1764400520,
+      "rank": 19,
+      "category": "电影"
+    },
+    {
       "raw_hot": 302446,
       "num": 302446,
       "word": "曝Uzi拒绝LPL战队邀请",
@@ -4988,7 +4996,7 @@
     },
     {
       "raw_hot": 276302,
-      "num": 206425,
+      "num": 208495,
       "word": "白血病的早期表现",
       "onboard_time": 1764395661,
       "rank": 20,
@@ -5513,6 +5521,14 @@
       "onboard_time": 1763884941,
       "rank": 15,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 252798,
+      "num": 252798,
+      "word": "腾讯2025年热度破亿角色",
+      "onboard_time": 1764401541,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 252721,
@@ -6267,6 +6283,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 220923,
+      "num": 220923,
+      "word": "孙颖莎说王楚钦抛球就带转",
+      "onboard_time": 1764399621,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 220536,
       "num": 220536,
       "word": "男子买彩票刮中10万后老板不认账",
@@ -6473,14 +6497,6 @@
       "onboard_time": 1763954481,
       "rank": 41,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 213803,
-      "num": 213803,
-      "word": "孙颖莎说王楚钦抛球就带转",
-      "onboard_time": 1764399621,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 213785,
@@ -7313,6 +7329,14 @@
       "onboard_time": 1763983101,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 192920,
+      "num": 192920,
+      "word": "张俪 可是他叫我妈妈哎",
+      "onboard_time": 1764400941,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 192524,
@@ -9715,14 +9739,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 152871,
-      "num": 152871,
-      "word": "张俪 可是他叫我妈妈哎",
-      "onboard_time": 1764400941,
-      "rank": 25,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 152198,
       "num": 1322040,
       "word": "唐朝诡事录",
@@ -9833,6 +9849,14 @@
       "onboard_time": 1764162023,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 150748,
+      "num": 150748,
+      "word": "日本自动洗澡机上市27万元一台",
+      "onboard_time": 1764400821,
+      "rank": 44,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 150601,
@@ -11995,6 +12019,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 120997,
+      "num": 115100,
+      "word": "周扬青简直是我嘴替",
+      "onboard_time": 1764400582,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 120928,
       "num": 123194,
       "word": "曝LPL竞拍关键选手",
@@ -12385,14 +12417,6 @@
       "onboard_time": 1763997261,
       "rank": 40,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 117420,
-      "num": 180324,
-      "word": "在疯狂动物城里看到了王一博",
-      "onboard_time": 1764400520,
-      "rank": 19,
-      "category": "电影"
     },
     {
       "raw_hot": 117413,
@@ -12833,6 +12857,14 @@
       "onboard_time": 1764070462,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113203,
+      "num": 113203,
+      "word": "黑色衣服 劣质服装重灾区",
+      "onboard_time": 1764399920,
+      "rank": 36,
+      "category": "情感"
     },
     {
       "raw_hot": 113068,
@@ -13387,6 +13419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108173,
+      "num": 108173,
+      "word": "国家航天局设立商业航天司",
+      "onboard_time": 1764401481,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 108123,
       "num": 121733,
       "word": "费尔岛毛衣",
@@ -13705,6 +13745,14 @@
       "onboard_time": 1764118822,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106152,
+      "num": 106152,
+      "word": "肖战新电影预售票房破2000万",
+      "onboard_time": 1764401420,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 106117,
@@ -14153,6 +14201,14 @@
       "onboard_time": 1764297981,
       "rank": 29,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 102532,
+      "num": 102532,
+      "word": "茶百道崩了",
+      "onboard_time": 1764397640,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 102303,
@@ -14819,6 +14875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 96271,
+      "num": 96271,
+      "word": "嗑了18集你俩终于真亲了",
+      "onboard_time": 1764398601,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96239,
       "num": 96239,
       "word": "汪苏泷苏有朋真的不考虑演部戏吗",
@@ -14883,14 +14947,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 95874,
-      "num": 95874,
-      "word": "黑色衣服 劣质服装重灾区",
-      "onboard_time": 1764399920,
-      "rank": 36,
-      "category": "情感"
-    },
-    {
       "raw_hot": 95867,
       "num": 95867,
       "word": "你的宠物好像养宠物了",
@@ -14947,6 +15003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 95502,
+      "num": 95502,
+      "word": "曝Rookie新赛季休息",
+      "onboard_time": 1764401721,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 95494,
       "num": 198556,
       "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
@@ -14961,14 +15025,6 @@
       "onboard_time": 1763995762,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 95450,
-      "num": 95450,
-      "word": "嗑了18集你俩终于真亲了",
-      "onboard_time": 1764398601,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 95367,
@@ -15203,6 +15259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 93153,
+      "num": 93153,
+      "word": "沈腾说卧底不是范丞丞我是狗",
+      "onboard_time": 1764400941,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 93110,
       "num": 158335,
       "word": "迪丽热巴聂九罗热度",
@@ -15297,6 +15361,14 @@
       "onboard_time": 1763873421,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92369,
+      "num": 92369,
+      "word": "这词居然是颜人中写的",
+      "onboard_time": 1764401420,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 92268,
@@ -15795,14 +15867,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 87950,
-      "num": 87950,
-      "word": "茶百道崩了",
-      "onboard_time": 1764397640,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87848,
       "num": 2183162,
       "word": "火箭vs勇士",
@@ -15865,6 +15929,14 @@
       "onboard_time": 1764246262,
       "rank": 45,
       "category": "情感"
+    },
+    {
+      "raw_hot": 87018,
+      "num": 87018,
+      "word": "12岁嗯哼长这么大了",
+      "onboard_time": 1764401841,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 86979,
@@ -15961,14 +16033,6 @@
       "onboard_time": 1764027021,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 86125,
-      "num": 86125,
-      "word": "周扬青简直是我嘴替",
-      "onboard_time": 1764400582,
-      "rank": 40,
-      "category": "综艺"
     },
     {
       "raw_hot": 86113,
@@ -16073,6 +16137,14 @@
       "onboard_time": 1763965101,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 85449,
+      "num": 85449,
+      "word": "常华森被路人调戏到红温",
+      "onboard_time": 1764401181,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 85345,
@@ -16459,14 +16531,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 81625,
-      "num": 81625,
-      "word": "沈腾说卧底不是范丞丞我是狗",
-      "onboard_time": 1764400941,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 81591,
       "num": 270341,
       "word": "日本在华青年表态绝对反对战争",
@@ -16779,6 +16843,14 @@
       "category": "突发/灾害"
     },
     {
+      "raw_hot": 77165,
+      "num": 102587,
+      "word": "胡先煦 欧巴病",
+      "onboard_time": 1764401541,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 76958,
       "num": 134177,
       "word": "马龙许昕训练课后放飞自我",
@@ -17001,6 +17073,14 @@
       "onboard_time": 1763972421,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 73896,
+      "num": 221019,
+      "word": "日本民众称高市是国难",
+      "onboard_time": 1764401003,
+      "rank": 31,
+      "category": "国际时政"
     },
     {
       "raw_hot": 73868,
@@ -17379,12 +17459,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 68287,
-      "num": 79522,
-      "word": "日本自动洗澡机上市27万元一台",
-      "onboard_time": 1764400821,
-      "rank": 44,
-      "category": "海外新闻,数码"
+      "raw_hot": 68384,
+      "num": 102829,
+      "word": "英国女警卧底5年爱上监控对象闪婚",
+      "onboard_time": 1764401481,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 68240,
@@ -18619,14 +18699,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 47861,
-      "num": 116321,
-      "word": "日本民众称高市是国难",
-      "onboard_time": 1764401003,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 47857,
       "num": 1111082,
       "word": "怪奇物语 月更",
@@ -19017,6 +19089,14 @@
       "onboard_time": 1763895501,
       "rank": 25,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 41110,
+      "num": 259857,
+      "word": "3X3黄金联赛全国总决赛",
+      "onboard_time": 1764401481,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 41100,

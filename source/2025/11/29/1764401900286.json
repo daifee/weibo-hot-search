@@ -1,0 +1,410 @@
+{
+  "runTime": 1764401900286,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 308071,
+        "num": 1049291,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 209665,
+        "num": 568499,
+        "word": "银行取钱不再一刀切式询问",
+        "onboard_time": 1764384802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22652,
+        "num": 331156,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1764387980,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 316405,
+        "num": 316405,
+        "word": "老板失明后遭全厂背叛",
+        "onboard_time": 1764393681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130800,
+        "num": 315908,
+        "word": "BLG官宣Elk离队",
+        "onboard_time": 1764390261,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 682010,
+        "num": 314409,
+        "word": "封存不意味彻底清除特定情况可查询",
+        "onboard_time": 1764396981,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437681,
+        "num": 312087,
+        "word": "云南25岁缉毒警牺牲时仍紧扣扳机",
+        "onboard_time": 1764396443,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 577266,
+        "num": 310398,
+        "word": "年薪60万美金的斯坦福硕士回国做甜品",
+        "onboard_time": 1764399681,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431119,
+        "num": 309351,
+        "word": "女儿看到缉毒警爸爸就跑原因让人泪目",
+        "onboard_time": 1764396500,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112357,
+        "num": 307603,
+        "word": "苏翊鸣赛季首冠",
+        "onboard_time": 1764398662,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 904670,
+        "num": 306385,
+        "word": "梁朝伟说在日本语言不通能不跟人讲话",
+        "onboard_time": 1764396261,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 371341,
+        "num": 303441,
+        "word": "原来这是抑郁躯体化啊",
+        "onboard_time": 1764388942,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303123,
+        "num": 303123,
+        "word": "刘亦菲易烊千玺合作",
+        "onboard_time": 1764393381,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 302497,
+        "num": 302497,
+        "word": "在疯狂动物城里看到了王一博",
+        "onboard_time": 1764400520,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41110,
+        "num": 259857,
+        "word": "3X3黄金联赛全国总决赛",
+        "onboard_time": 1764401481,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 252798,
+        "num": 252798,
+        "word": "腾讯2025年热度破亿角色",
+        "onboard_time": 1764401541,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 243390,
+        "num": 243390,
+        "word": "摇汞 删本",
+        "onboard_time": 1764400160,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231167,
+        "num": 231167,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 224541,
+        "num": 224541,
+        "word": "木苏里回复",
+        "onboard_time": 1764392781,
+        "rank": 18,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 73896,
+        "num": 221019,
+        "word": "日本民众称高市是国难",
+        "onboard_time": 1764401003,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 220923,
+        "num": 220923,
+        "word": "孙颖莎说王楚钦抛球就带转",
+        "onboard_time": 1764399621,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208495,
+        "num": 208495,
+        "word": "白血病的早期表现",
+        "onboard_time": 1764395661,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 192920,
+        "num": 192920,
+        "word": "张俪 可是他叫我妈妈哎",
+        "onboard_time": 1764400941,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 190179,
+        "num": 190179,
+        "word": "肖战新片有个4岁的孩子",
+        "onboard_time": 1764399140,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172255,
+        "num": 172255,
+        "word": "许玮甯邱泽被人认出才能顺利登记",
+        "onboard_time": 1764397701,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162633,
+        "num": 162633,
+        "word": "白鹿素颜采访",
+        "onboard_time": 1764391101,
+        "rank": 25,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 150748,
+        "num": 150748,
+        "word": "日本自动洗澡机上市27万元一台",
+        "onboard_time": 1764400821,
+        "rank": 26,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 148654,
+        "num": 148654,
+        "word": "专门胖小肚子的5个睡前习惯",
+        "onboard_time": 1764396801,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 148297,
+        "num": 148297,
+        "word": "何美延婆婆 知否小秦氏",
+        "onboard_time": 1764388580,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139808,
+        "num": 139808,
+        "word": "俄罗斯洲际弹道导弹爆炸画面",
+        "onboard_time": 1764396861,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136603,
+        "num": 136603,
+        "word": "胡先煦在国外遇到不尊重人的店员",
+        "onboard_time": 1764391703,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125406,
+        "num": 125406,
+        "word": "员工犯错亏损30万老板只扣300",
+        "onboard_time": 1764398361,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115371,
+        "num": 115371,
+        "word": "王一博粉丝保密协议到期了吗",
+        "onboard_time": 1764394041,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120997,
+        "num": 115100,
+        "word": "周扬青简直是我嘴替",
+        "onboard_time": 1764400582,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113203,
+        "num": 113203,
+        "word": "黑色衣服 劣质服装重灾区",
+        "onboard_time": 1764399920,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108173,
+        "num": 108173,
+        "word": "国家航天局设立商业航天司",
+        "onboard_time": 1764401481,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106152,
+        "num": 106152,
+        "word": "肖战新电影预售票房破2000万",
+        "onboard_time": 1764401420,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 104959,
+        "num": 104959,
+        "word": "时代峰峻获得400万的奖补资金",
+        "onboard_time": 1764395782,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68384,
+        "num": 102829,
+        "word": "英国女警卧底5年爱上监控对象闪婚",
+        "onboard_time": 1764401481,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 77165,
+        "num": 102587,
+        "word": "胡先煦 欧巴病",
+        "onboard_time": 1764401541,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102532,
+        "num": 102532,
+        "word": "茶百道崩了",
+        "onboard_time": 1764397640,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100437,
+        "num": 100437,
+        "word": "男子继承房产发现父亲有私生子女",
+        "onboard_time": 1764387261,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97758,
+        "num": 97758,
+        "word": "我海警位中国黄岩岛领海执法巡查",
+        "onboard_time": 1764400760,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96271,
+        "num": 96271,
+        "word": "嗑了18集你俩终于真亲了",
+        "onboard_time": 1764398601,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95502,
+        "num": 95502,
+        "word": "曝Rookie新赛季休息",
+        "onboard_time": 1764401721,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93622,
+        "num": 93622,
+        "word": "再见爱人黄执中的含金量还在上升",
+        "onboard_time": 1764398001,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93153,
+        "num": 93153,
+        "word": "沈腾说卧底不是范丞丞我是狗",
+        "onboard_time": 1764400941,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92369,
+        "num": 92369,
+        "word": "这词居然是颜人中写的",
+        "onboard_time": 1764401420,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87018,
+        "num": 87018,
+        "word": "12岁嗯哼长这么大了",
+        "onboard_time": 1764401841,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85449,
+        "num": 85449,
+        "word": "常华森被路人调戏到红温",
+        "onboard_time": 1764401181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#要动真碰硬抓好巡视整改#"
+    }
+  }
+}

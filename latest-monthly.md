@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 15:25:19
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 15:38:20
 </p>
 </blockquote>
 <p>
@@ -5793,6 +5793,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%96%AA60%E4%B8%87%E7%BE%8E%E9%87%91%E7%9A%84%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%A1%95%E5%A3%AB%E5%9B%9E%E5%9B%BD%E5%81%9A%E7%94%9C%E5%93%81%23" target="weibo">
+年薪60万美金的斯坦福硕士回国做甜品（热度：577266）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%A0%B4%E8%A7%A3%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E7%BB%A7%E7%BB%AD%E8%B9%AD%E7%A9%BF%23" target="weibo">
 有人破解巨型吊牌继续蹭穿（热度：576636）
 </a>
@@ -6005,12 +6011,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD%23" target="weibo">
 高市早苗同时得罪四国（热度：565425）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%91%97%E5%90%8D%E9%9F%B3%E4%B9%90%E4%BA%BA%E5%B1%A0%E9%A2%96%E7%A6%BB%E4%B8%96%23" target="weibo">
-著名音乐人屠颖离世（热度：565331）
 </a>
 </li>
 
