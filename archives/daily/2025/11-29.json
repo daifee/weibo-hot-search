@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764406005660,
+  "endTime": 1764408443749,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -123,6 +123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 585881,
+      "num": 257184,
+      "word": "王晶说顶流演员都不会演戏",
+      "onboard_time": 1764405621,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 577266,
       "num": 356591,
       "word": "年薪60万美金的斯坦福硕士回国做甜品",
@@ -187,11 +195,27 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 480899,
+      "num": 261014,
+      "word": "再见爱人酸奶事件商家回应",
+      "onboard_time": 1764405141,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 477674,
       "num": 244904,
       "word": "樊振东说去欧洲为远离不好的事",
       "onboard_time": 1764377720,
       "rank": 12,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 463723,
+      "num": 1074195,
+      "word": "王楚钦孙颖莎揭晓1号签位",
+      "onboard_time": 1764405861,
+      "rank": 30,
       "category": "体育"
     },
     {
@@ -241,6 +265,14 @@
       "onboard_time": 1764388161,
       "rank": 3,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 364175,
+      "num": 256724,
+      "word": "活了20多年第一次拥有睡衣",
+      "onboard_time": 1764404361,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 362836,
@@ -451,6 +483,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261895,
+      "num": 261895,
+      "word": "国考公安",
+      "onboard_time": 1764405680,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 261455,
       "num": 562815,
       "word": "社区多名干部被指用人脸面具打卡",
@@ -515,14 +555,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 236063,
-      "num": 236063,
-      "word": "再见爱人酸奶事件商家回应",
-      "onboard_time": 1764405141,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 233956,
       "num": 227598,
       "word": "王晶曝演艺圈评奖内幕",
@@ -555,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 225397,
-      "num": 158956,
-      "word": "王楚钦孙颖莎揭晓1号签位",
-      "onboard_time": 1764405861,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 225265,
       "num": 1088056,
       "word": "任嘉伦成毅新剧或将对打",
@@ -584,14 +608,6 @@
       "word": "李靓蕾现身邱泽许玮甯婚礼",
       "onboard_time": 1764338484,
       "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 219345,
-      "num": 219345,
-      "word": "王晶说顶流演员都不会演戏",
-      "onboard_time": 1764405621,
-      "rank": 16,
       "category": "艺人"
     },
     {
@@ -635,6 +651,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 202979,
+      "num": 257235,
+      "word": "日本自动洗澡机上市27万元一台",
+      "onboard_time": 1764400821,
+      "rank": 44,
+      "category": "海外新闻,数码"
+    },
+    {
       "raw_hot": 202566,
       "num": 270922,
       "word": "东京电视台王楚钦宣传片",
@@ -657,6 +681,14 @@
       "onboard_time": 1764383301,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 201918,
+      "num": 201918,
+      "word": "建议大家一上车就立马锁门",
+      "onboard_time": 1764406581,
+      "rank": 17,
+      "category": "幽默"
     },
     {
       "raw_hot": 200125,
@@ -755,12 +787,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 174716,
-      "num": 174716,
-      "word": "日本自动洗澡机上市27万元一台",
-      "onboard_time": 1764400821,
-      "rank": 44,
-      "category": "海外新闻,数码"
+      "raw_hot": 175982,
+      "num": 175982,
+      "word": "王楚钦又画上了",
+      "onboard_time": 1764407901,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 174257,
@@ -851,14 +883,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 157415,
-      "num": 157415,
-      "word": "活了20多年第一次拥有睡衣",
-      "onboard_time": 1764404361,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 157065,
       "num": 149047,
       "word": "许玮甯亲完邱泽擦掉口红印",
@@ -945,6 +969,14 @@
       "onboard_time": 1764311121,
       "rank": 23,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 143620,
+      "num": 143620,
+      "word": "papi胡彦斌不做何美延的亲友团可惜了",
+      "onboard_time": 1764407541,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 141077,
@@ -1073,14 +1105,6 @@
       "onboard_time": 1764345623,
       "rank": 16,
       "category": "情感"
-    },
-    {
-      "raw_hot": 117988,
-      "num": 238711,
-      "word": "国考公安",
-      "onboard_time": 1764405680,
-      "rank": 9,
-      "category": "教育"
     },
     {
       "raw_hot": 117427,
@@ -1243,6 +1267,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 104760,
+      "num": 104760,
+      "word": "乒乓混团中国埃及香港智利同组",
+      "onboard_time": 1764407242,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104451,
       "num": 700061,
       "word": "女子钻漏洞下单476笔薅羊毛25万",
@@ -1353,6 +1385,14 @@
       "onboard_time": 1764398601,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 95511,
+      "num": 95511,
+      "word": "尼克vs虹猫",
+      "onboard_time": 1764405561,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 95502,
@@ -1531,6 +1571,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 85490,
+      "num": 85490,
+      "word": "苏翊鸣夺赛季首冠后发文",
+      "onboard_time": 1764407541,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 85449,
       "num": 85449,
       "word": "常华森被路人调戏到红温",
@@ -1571,12 +1619,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81966,
+      "num": 81966,
+      "word": "图书馆必先浪费一小时定律",
+      "onboard_time": 1764406700,
+      "rank": 41,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81832,
       "num": 160209,
       "word": "黑龙江一湖面现龙鳞冰奇观",
       "onboard_time": 1764393441,
       "rank": 47,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 81426,
+      "num": 81426,
+      "word": "疯狂动物城2彩蛋",
+      "onboard_time": 1764408261,
+      "rank": 42,
+      "category": "电影"
     },
     {
       "raw_hot": 81348,
@@ -1611,12 +1675,12 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 79976,
-      "num": 79976,
-      "word": "尼克vs虹猫",
-      "onboard_time": 1764405561,
-      "rank": 49,
-      "category": "动漫"
+      "raw_hot": 80185,
+      "num": 80185,
+      "word": "苏翊鸣说继续努力突破",
+      "onboard_time": 1764407182,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 79596,
@@ -1635,12 +1699,36 @@
       "category": "情感"
     },
     {
+      "raw_hot": 78681,
+      "num": 78681,
+      "word": "红豆年糕汤",
+      "onboard_time": 1764408202,
+      "rank": 45,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 78014,
+      "num": 209453,
+      "word": "男子买10万元购物卡店员报警",
+      "onboard_time": 1764405680,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77397,
       "num": 77397,
       "word": "一个人吃自助餐最有性价比",
       "onboard_time": 1764403760,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 76679,
+      "num": 76679,
+      "word": "今年存了多少 存活了下来",
+      "onboard_time": 1764406581,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 75804,
@@ -1827,6 +1915,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58776,
+      "num": 83804,
+      "word": "Uzi四天没打韩服了",
+      "onboard_time": 1764408022,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 58514,
       "num": 698970,
       "word": "爱达邮轮取消所有日本目的地",
@@ -1897,6 +1993,14 @@
       "onboard_time": 1764333442,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 51815,
+      "num": 261885,
+      "word": "156颗卫星组建太空星眼",
+      "onboard_time": 1764406821,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51641,
@@ -2171,12 +2275,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 19492,
-      "num": 209453,
-      "word": "男子买10万元购物卡店员报警",
-      "onboard_time": 1764405680,
-      "rank": 20,
-      "category": "民生新闻"
+      "raw_hot": 22351,
+      "num": 83755,
+      "word": "得闲谨制八级钳工手搓航母",
+      "onboard_time": 1764407962,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 13929,
@@ -2201,6 +2305,14 @@
       "onboard_time": 1764362174,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 5655,
+      "num": 143881,
+      "word": "云南一溶洞堆满垃圾现场散发臭味",
+      "onboard_time": 1764407061,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 3462,
