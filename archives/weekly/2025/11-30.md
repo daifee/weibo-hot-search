@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 03:37:09
+本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 04:29:19
 </p>
 </blockquote>
 <p>
@@ -359,6 +359,24 @@ F1（热度：211487）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E6%B7%9E%E7%84%B6%E7%9B%B4%E6%92%AD%23" target="weibo">
 雷淞然直播（热度：28227）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E5%86%8D%E5%94%B1%E8%A8%80%E4%B8%8D%E7%94%B1%E8%A1%B7%23" target="weibo">
+张函瑞再唱言不由衷（热度：11879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%B3%E5%88%BB%E4%B8%8A%E5%9C%BA%23" target="weibo">
+即刻上场（热度：10354）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A6%E8%88%9E%E4%B9%8B%E5%9F%8E%23" target="weibo">
+亦舞之城（热度：10240）
 </a>
 </li>
 

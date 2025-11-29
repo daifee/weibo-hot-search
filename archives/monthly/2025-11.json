@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764445029549,
+  "endTime": 1764448159983,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -100923,6 +100923,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 11879,
+      "num": 31894,
+      "word": "张函瑞再唱言不由衷",
+      "onboard_time": 1764446114,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 11876,
       "num": 28696,
       "word": "苏炳添说坚强不息的人会梦想成真",
@@ -101129,6 +101137,14 @@
       "onboard_time": 1763438844,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 10354,
+      "num": 31889,
+      "word": "即刻上场",
+      "onboard_time": 1764447674,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 10240,

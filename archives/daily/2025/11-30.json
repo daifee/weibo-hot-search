@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764445029549,
+  "endTime": 1764448159983,
   "band_list": [
     {
       "raw_hot": 680256,
@@ -465,6 +465,30 @@
       "onboard_time": 1764443775,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11879,
+      "num": 31894,
+      "word": "张函瑞再唱言不由衷",
+      "onboard_time": 1764446114,
+      "rank": 43,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 10354,
+      "num": 31889,
+      "word": "即刻上场",
+      "onboard_time": 1764447674,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 10240,
+      "num": 31887,
+      "word": "亦舞之城",
+      "onboard_time": 1764446716,
+      "rank": 47,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
