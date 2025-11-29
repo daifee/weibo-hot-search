@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764448885713,
+  "endTime": 1764451451573,
   "band_list": [
     {
       "raw_hot": 680256,
@@ -467,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 13141,
+      "num": 31887,
+      "word": "亦舞之城",
+      "onboard_time": 1764446716,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 11879,
       "num": 34315,
       "word": "张函瑞再唱言不由衷",
@@ -483,12 +491,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10240,
-      "num": 31887,
-      "word": "亦舞之城",
-      "onboard_time": 1764446716,
+      "raw_hot": 10073,
+      "num": 29736,
+      "word": "日本民众要求高市撤回侵略战争宣言",
+      "onboard_time": 1764449294,
       "rank": 47,
-      "category": "剧集"
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 7988,
+      "num": 29792,
+      "word": "BIES王者荣耀",
+      "onboard_time": 1764449833,
+      "rank": 9,
+      "category": "电竞"
     }
   ],
   "hotgov_list": [

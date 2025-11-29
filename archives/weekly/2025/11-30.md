@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 04:41:25
+本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 05:24:11
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ F1（热度：211487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A6%E8%88%9E%E4%B9%8B%E5%9F%8E%23" target="weibo">
+亦舞之城（热度：13141）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%BD%E7%91%9E%E5%86%8D%E5%94%B1%E8%A8%80%E4%B8%8D%E7%94%B1%E8%A1%B7%23" target="weibo">
 张函瑞再唱言不由衷（热度：11879）
 </a>
@@ -375,8 +381,14 @@ F1（热度：211487）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%A6%E8%88%9E%E4%B9%8B%E5%9F%8E%23" target="weibo">
-亦舞之城（热度：10240）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%B0%91%E4%BC%97%E8%A6%81%E6%B1%82%E9%AB%98%E5%B8%82%E6%92%A4%E5%9B%9E%E4%BE%B5%E7%95%A5%E6%88%98%E4%BA%89%E5%AE%A3%E8%A8%80%23" target="weibo">
+日本民众要求高市撤回侵略战争宣言（热度：10073）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23BIES%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%23" target="weibo">
+BIES王者荣耀（热度：7988）
 </a>
 </li>
 
