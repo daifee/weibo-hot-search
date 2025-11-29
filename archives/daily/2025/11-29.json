@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764386297128,
+  "endTime": 1764387273422,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -19,7 +19,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 962793,
+      "raw_hot": 1097850,
       "num": 269094,
       "word": "何穗为小洛熙发声",
       "onboard_time": 1764383720,
@@ -67,6 +67,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 529174,
+      "num": 339565,
+      "word": "恋与深空",
+      "onboard_time": 1764386541,
+      "rank": 3,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 477674,
       "num": 244904,
       "word": "樊振东说去欧洲为远离不好的事",
@@ -89,6 +97,22 @@
       "onboard_time": 1764379282,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 345998,
+      "num": 176837,
+      "word": "家人强行探望发现哥哥已去世腐烂",
+      "onboard_time": 1764386421,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 305305,
+      "num": 266677,
+      "word": "小猫坏事做尽",
+      "onboard_time": 1764382461,
+      "rank": 35,
+      "category": "幽默"
     },
     {
       "raw_hot": 303386,
@@ -131,12 +155,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 288773,
+      "num": 277027,
+      "word": "俄罗斯取代日本成中国游客新宠",
+      "onboard_time": 1764380720,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 286181,
       "num": 229021,
       "word": "香港举行悼念活动",
       "onboard_time": 1764376040,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 285584,
+      "num": 176637,
+      "word": "霍建华林心如参加邱泽许玮甯婚礼",
+      "onboard_time": 1764386541,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 284485,
@@ -147,20 +187,36 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 266677,
-      "num": 266677,
-      "word": "小猫坏事做尽",
-      "onboard_time": 1764382461,
-      "rank": 35,
-      "category": "幽默"
+      "raw_hot": 280545,
+      "num": 284652,
+      "word": "疯狂动物城2内地票房破10亿",
+      "onboard_time": 1764382281,
+      "rank": 19,
+      "category": "电影"
     },
     {
-      "raw_hot": 246921,
-      "num": 271528,
-      "word": "俄罗斯取代日本成中国游客新宠",
-      "onboard_time": 1764380720,
-      "rank": 33,
-      "category": "旅游"
+      "raw_hot": 271744,
+      "num": 271744,
+      "word": "何赛飞 刘晓庆再能干也七八十岁了",
+      "onboard_time": 1764385819,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 264464,
+      "num": 270477,
+      "word": "多城叫停网约车一口价",
+      "onboard_time": 1764385280,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 256688,
+      "num": 176569,
+      "word": "秦彻银翼恶魔",
+      "onboard_time": 1764386721,
+      "rank": 22,
+      "category": "游戏"
     },
     {
       "raw_hot": 246097,
@@ -177,6 +233,14 @@
       "onboard_time": 1764378860,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 236453,
+      "num": 236453,
+      "word": "A股重要调整",
+      "onboard_time": 1764386481,
+      "rank": 9,
+      "category": "财经"
     },
     {
       "raw_hot": 236273,
@@ -235,14 +299,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 214405,
-      "num": 284652,
-      "word": "疯狂动物城2内地票房破10亿",
-      "onboard_time": 1764382281,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 211288,
       "num": 187210,
       "word": "邱泽许玮甯一家三口首同框",
@@ -297,6 +353,14 @@
       "onboard_time": 1764377780,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 177052,
+      "num": 177052,
+      "word": "银行取钱不再一刀切式询问",
+      "onboard_time": 1764384802,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 174257,
@@ -379,14 +443,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 151754,
-      "num": 151754,
-      "word": "银行取钱不再一刀切式询问",
-      "onboard_time": 1764384802,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151304,
       "num": 151304,
       "word": "越来越多大陆应用在台湾火了",
@@ -427,6 +483,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 138959,
+      "num": 382540,
+      "word": "外卖小哥发现燃气泄漏教科书式处置",
+      "onboard_time": 1764384921,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 132504,
       "num": 132504,
       "word": "柯淳邵子恒差点做了重庆女婿",
@@ -435,11 +499,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 131779,
-      "num": 123823,
-      "word": "何赛飞 刘晓庆再能干也七八十岁了",
-      "onboard_time": 1764385819,
-      "rank": 30,
+      "raw_hot": 131349,
+      "num": 131349,
+      "word": "敖瑞鹏开上车跟手机充上电没区别",
+      "onboard_time": 1764384981,
+      "rank": 36,
       "category": "综艺"
     },
     {
@@ -515,6 +579,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 109007,
+      "num": 109007,
+      "word": "男子继承房产发现父亲有私生子女",
+      "onboard_time": 1764387261,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108612,
       "num": 108612,
       "word": "官方认证王一博岩羊",
@@ -555,14 +627,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 103640,
-      "num": 103640,
-      "word": "敖瑞鹏开上车跟手机充上电没区别",
-      "onboard_time": 1764384981,
-      "rank": 36,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 103315,
       "num": 228928,
       "word": "英特尔大涨超10%",
@@ -585,6 +649,38 @@
       "onboard_time": 1764384140,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 96756,
+      "num": 96756,
+      "word": "超4万人参观春熙路辣条博物馆",
+      "onboard_time": 1764386901,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95494,
+      "num": 198556,
+      "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
+      "onboard_time": 1764385161,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93204,
+      "num": 95369,
+      "word": "敖瑞鹏不二之臣大衣路透",
+      "onboard_time": 1764385280,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90838,
+      "num": 90838,
+      "word": "妈妈害了妈妈儿子抓了儿子",
+      "onboard_time": 1764387201,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 90691,
@@ -699,22 +795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 78089,
-      "num": 354197,
-      "word": "外卖小哥发现燃气泄漏教科书式处置",
-      "onboard_time": 1764384921,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 75788,
-      "num": 270477,
-      "word": "多城叫停网约车一口价",
-      "onboard_time": 1764385280,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73931,
       "num": 702685,
       "word": "戚百草的草莓发卡是杨洋自费买的",
@@ -745,14 +825,6 @@
       "onboard_time": 1764382700,
       "rank": 43,
       "category": "体育"
-    },
-    {
-      "raw_hot": 68991,
-      "num": 95369,
-      "word": "敖瑞鹏不二之臣大衣路透",
-      "onboard_time": 1764385280,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 68714,
@@ -801,14 +873,6 @@
       "onboard_time": 1764338784,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 62919,
-      "num": 198556,
-      "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
-      "onboard_time": 1764385161,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 61851,
@@ -865,6 +929,14 @@
       "onboard_time": 1764323242,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 54418,
+      "num": 103316,
+      "word": "网红回应在非洲遭同胞绑架虐待7天",
+      "onboard_time": 1764386361,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54269,
@@ -929,6 +1001,14 @@
       "onboard_time": 1764323783,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48826,
+      "num": 103226,
+      "word": "白鹿张真源自驾姐弟二搭",
+      "onboard_time": 1764387081,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 48403,
@@ -1041,6 +1121,14 @@
       "onboard_time": 1764385161,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 31376,
+      "num": 176952,
+      "word": "高市这张废约牌比有事牌更阴险",
+      "onboard_time": 1764386361,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28627,

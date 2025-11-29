@@ -1,0 +1,410 @@
+{
+  "runTime": 1764387273422,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 549627,
+        "num": 1087940,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 489976,
+        "num": 489976,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 138959,
+        "num": 382540,
+        "word": "外卖小哥发现燃气泄漏教科书式处置",
+        "onboard_time": 1764384921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 529174,
+        "num": 339565,
+        "word": "恋与深空",
+        "onboard_time": 1764386541,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 280545,
+        "num": 280545,
+        "word": "疯狂动物城2内地票房破10亿",
+        "onboard_time": 1764382281,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 288773,
+        "num": 277027,
+        "word": "俄罗斯取代日本成中国游客新宠",
+        "onboard_time": 1764380720,
+        "rank": 5,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 271744,
+        "num": 271744,
+        "word": "何赛飞 刘晓庆再能干也七八十岁了",
+        "onboard_time": 1764385819,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 264464,
+        "num": 264464,
+        "word": "多城叫停网约车一口价",
+        "onboard_time": 1764385280,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 258701,
+        "num": 258701,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1764374421,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 236453,
+        "num": 236453,
+        "word": "A股重要调整",
+        "onboard_time": 1764386481,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1097850,
+        "num": 235680,
+        "word": "何穗为小洛熙发声",
+        "onboard_time": 1764383720,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468300,
+        "num": 230928,
+        "word": "当年真的错怪蒋欣了",
+        "onboard_time": 1764343162,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305305,
+        "num": 230717,
+        "word": "小猫坏事做尽",
+        "onboard_time": 1764382461,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 268328,
+        "num": 226773,
+        "word": "徐艺洋 秀场比婚礼好看是因为美颜",
+        "onboard_time": 1764379282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242839,
+        "num": 222448,
+        "word": "张婧仪 哪有人啊",
+        "onboard_time": 1764381500,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222195,
+        "num": 222195,
+        "word": "何美延 梁淞",
+        "onboard_time": 1764378440,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197293,
+        "num": 197293,
+        "word": "女子被造黄谣失业离婚仅获道歉",
+        "onboard_time": 1764373279,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183024,
+        "num": 183024,
+        "word": "男孩将妈妈结婚金项链分段送给同学",
+        "onboard_time": 1764377601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177052,
+        "num": 177052,
+        "word": "银行取钱不再一刀切式询问",
+        "onboard_time": 1764384802,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31376,
+        "num": 176952,
+        "word": "高市这张废约牌比有事牌更阴险",
+        "onboard_time": 1764386361,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 345998,
+        "num": 176837,
+        "word": "家人强行探望发现哥哥已去世腐烂",
+        "onboard_time": 1764386421,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285584,
+        "num": 176637,
+        "word": "霍建华林心如参加邱泽许玮甯婚礼",
+        "onboard_time": 1764386541,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 256688,
+        "num": 176569,
+        "word": "秦彻银翼恶魔",
+        "onboard_time": 1764386721,
+        "rank": 22,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 176497,
+        "num": 176497,
+        "word": "樊振东说去欧洲为远离不好的事",
+        "onboard_time": 1764377720,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 194988,
+        "num": 176347,
+        "word": "孙天宇夸张婧仪好漂亮啊",
+        "onboard_time": 1764385402,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175036,
+        "num": 175036,
+        "word": "宁静不支持老人带孩子",
+        "onboard_time": 1764383301,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189817,
+        "num": 174365,
+        "word": "邱泽许玮甯一家三口首同框",
+        "onboard_time": 1764384381,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171264,
+        "num": 171264,
+        "word": "东京电视台王楚钦宣传片",
+        "onboard_time": 1764381621,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165253,
+        "num": 165253,
+        "word": "日本民众称日中关系不断恶化",
+        "onboard_time": 1764378860,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152853,
+        "num": 152853,
+        "word": "普京宣布与乌克兰停火条件",
+        "onboard_time": 1764346641,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131349,
+        "num": 131349,
+        "word": "敖瑞鹏开上车跟手机充上电没区别",
+        "onboard_time": 1764384981,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 130357,
+        "num": 130357,
+        "word": "香港举行悼念活动",
+        "onboard_time": 1764376040,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127462,
+        "num": 127462,
+        "word": "20岁女子月经不规律7年查出癌症",
+        "onboard_time": 1764372378,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118342,
+        "num": 118342,
+        "word": "酒店经理一口流利英语当前台火了",
+        "onboard_time": 1764384500,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110602,
+        "num": 110602,
+        "word": "金饰克价涨至1338元",
+        "onboard_time": 1764381861,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 109007,
+        "num": 109007,
+        "word": "男子继承房产发现父亲有私生子女",
+        "onboard_time": 1764387261,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95494,
+        "num": 103566,
+        "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
+        "onboard_time": 1764385161,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54418,
+        "num": 103316,
+        "word": "网红回应在非洲遭同胞绑架虐待7天",
+        "onboard_time": 1764386361,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 48826,
+        "num": 103226,
+        "word": "白鹿张真源自驾姐弟二搭",
+        "onboard_time": 1764387081,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 103166,
+        "num": 103166,
+        "word": "常吃4种食物的人胃癌风险低",
+        "onboard_time": 1764385161,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 100767,
+        "num": 100767,
+        "word": "柯淳邵子恒差点做了重庆女婿",
+        "onboard_time": 1764385819,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 100489,
+        "num": 100489,
+        "word": "越来越多大陆应用在台湾火了",
+        "onboard_time": 1764384561,
+        "rank": 41,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 96756,
+        "num": 96756,
+        "word": "超4万人参观春熙路辣条博物馆",
+        "onboard_time": 1764386901,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96044,
+        "num": 96044,
+        "word": "巴基斯坦回应高市早苗涉台言论",
+        "onboard_time": 1764384140,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93204,
+        "num": 93204,
+        "word": "敖瑞鹏不二之臣大衣路透",
+        "onboard_time": 1764385280,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90838,
+        "num": 90838,
+        "word": "妈妈害了妈妈儿子抓了儿子",
+        "onboard_time": 1764387201,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87059,
+        "num": 87059,
+        "word": "官方认证王一博岩羊",
+        "onboard_time": 1764385760,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87000,
+        "num": 87000,
+        "word": "李兰迪右边胳膊的是胎记",
+        "onboard_time": 1764377060,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83570,
+        "num": 83570,
+        "word": "4种素菜其实是热量刺客",
+        "onboard_time": 1764372979,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 81557,
+        "num": 81557,
+        "word": "女子收到10年前网购玩偶的眼睛",
+        "onboard_time": 1764383840,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
