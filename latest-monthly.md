@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 13:43:03
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 14:38:01
 </p>
 </blockquote>
 <p>
@@ -4857,6 +4857,12 @@ iPhone面容解锁不需要摄像头（热度：640462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%BA%91%E5%8D%9725%E5%B2%81%E7%BC%89%E6%AF%92%E8%AD%A6%E7%89%BA%E7%89%B2%E6%97%B6%E4%BB%8D%E7%B4%A7%E6%89%A3%E6%89%B3%E6%9C%BA%23" target="weibo">
+云南25岁缉毒警牺牲时仍紧扣扳机（热度：636988）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E5%88%86%E7%99%BE%E8%81%9A%E9%85%AF%E7%BA%A4%E7%BB%B4%E5%8F%97%E5%AE%B3%E8%80%85%E5%B7%B2%E5%87%BA%E7%8E%B0%23" target="weibo">
 百分百聚酯纤维受害者已出现（热度：636779）
 </a>
@@ -5979,6 +5985,12 @@ Milkyway 永久禁赛（热度：568304）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%81%E5%AD%98%E4%B8%8D%E6%84%8F%E5%91%B3%E5%BD%BB%E5%BA%95%E6%B8%85%E9%99%A4%E7%89%B9%E5%AE%9A%E6%83%85%E5%86%B5%E5%8F%AF%E6%9F%A5%E8%AF%A2%23" target="weibo">
+封存不意味彻底清除特定情况可查询（热度：565718）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD%23" target="weibo">
 高市早苗同时得罪四国（热度：565425）
 </a>
@@ -5999,18 +6011,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%80%80%E6%96%87%E5%B8%85%E5%BE%97%E4%B8%8D%E7%9F%A5%E5%A4%A9%E5%9C%B0%E4%B8%BA%E4%BD%95%E7%89%A9%E4%BA%86%23" target="weibo">
 刘耀文帅得不知天地为何物了（热度：564833）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BC%84%E7%AE%80%20%E5%90%8C%E6%89%8B%E5%90%8C%E8%84%9A%23" target="weibo">
-弄简 同手同脚（热度：564461）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA%23" target="weibo">
-香港廉政公署先后拘捕8人（热度：564229）
 </a>
 </li>
 

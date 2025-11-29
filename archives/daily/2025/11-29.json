@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764394983053,
+  "endTime": 1764398281253,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 920818,
-      "num": 275156,
+      "num": 561569,
       "word": "原来这是抑郁躯体化啊",
       "onboard_time": 1764388942,
       "rank": 10,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 670654,
-      "num": 274829,
+      "num": 561659,
       "word": "刘亦菲易烊千玺合作",
       "onboard_time": 1764393381,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 636988,
+      "num": 563261,
+      "word": "云南25岁缉毒警牺牲时仍紧扣扳机",
+      "onboard_time": 1764396443,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 623509,
@@ -81,6 +89,22 @@
       "onboard_time": 1764377601,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 565718,
+      "num": 563038,
+      "word": "封存不意味彻底清除特定情况可查询",
+      "onboard_time": 1764396981,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 563871,
+      "num": 563871,
+      "word": "老板失明后遭全厂背叛",
+      "onboard_time": 1764393681,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 542320,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 494230,
-      "num": 369627,
+      "num": 563852,
       "word": "BLG官宣Elk离队",
       "onboard_time": 1764390261,
       "rank": 4,
@@ -140,15 +164,31 @@
     },
     {
       "raw_hot": 425376,
-      "num": 250208,
+      "num": 396259,
       "word": "木苏里回复",
       "onboard_time": 1764392781,
       "rank": 17,
       "category": "读书作家"
     },
     {
+      "raw_hot": 397164,
+      "num": 397164,
+      "word": "梁朝伟说在日本语言不通能不跟人讲话",
+      "onboard_time": 1764396261,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 394146,
+      "num": 394146,
+      "word": "胡先煦在国外遇到不尊重人的店员",
+      "onboard_time": 1764391703,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 390132,
-      "num": 230473,
+      "num": 235464,
       "word": "白鹿素颜采访",
       "onboard_time": 1764391101,
       "rank": 43,
@@ -203,6 +243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 338568,
+      "num": 562477,
+      "word": "女儿看到缉毒警爸爸就跑原因让人泪目",
+      "onboard_time": 1764396500,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 332290,
       "num": 212599,
       "word": "迪丽热巴是申公豹高质量买家秀吧",
@@ -212,7 +260,7 @@
     },
     {
       "raw_hot": 331244,
-      "num": 276922,
+      "num": 612481,
       "word": "银行取钱不再一刀切式询问",
       "onboard_time": 1764384802,
       "rank": 24,
@@ -275,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 293885,
-      "num": 223378,
-      "word": "胡先煦在国外遇到不尊重人的店员",
-      "onboard_time": 1764391703,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 292442,
       "num": 227944,
       "word": "李兰迪右边胳膊的是胎记",
@@ -300,7 +340,7 @@
     },
     {
       "raw_hot": 288773,
-      "num": 277027,
+      "num": 396639,
       "word": "俄罗斯取代日本成中国游客新宠",
       "onboard_time": 1764380720,
       "rank": 33,
@@ -339,14 +379,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 268646,
-      "num": 168164,
-      "word": "老板失明后遭全厂背叛",
-      "onboard_time": 1764393681,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 265932,
       "num": 224043,
       "word": "我要是蒋欣我已经生气了",
@@ -363,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 261455,
+      "num": 562815,
+      "word": "社区多名干部被指用人脸面具打卡",
+      "onboard_time": 1764392900,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 256688,
       "num": 176569,
       "word": "秦彻银翼恶魔",
@@ -371,12 +411,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 255768,
+      "num": 1189127,
+      "word": "疯狂动物城",
+      "onboard_time": 1764327502,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 250112,
-      "num": 143829,
+      "num": 191711,
       "word": "王一博粉丝保密协议到期了吗",
       "onboard_time": 1764394041,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 249591,
+      "num": 206425,
+      "word": "白血病的早期表现",
+      "onboard_time": 1764395661,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 246097,
@@ -427,20 +483,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228316,
-      "num": 1189127,
-      "word": "疯狂动物城",
-      "onboard_time": 1764327502,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 227576,
       "num": 227576,
       "word": "上班时间禁止偷吃同事",
       "onboard_time": 1764373279,
       "rank": 16,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 226435,
+      "num": 226435,
+      "word": "男子亡妻游戏中的虚拟房子已找回",
+      "onboard_time": 1764396141,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 225265,
@@ -579,6 +635,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 165528,
+      "num": 165528,
+      "word": "俄罗斯洲际弹道导弹爆炸画面",
+      "onboard_time": 1764396861,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 164671,
       "num": 164671,
       "word": "香港下半旗志哀",
@@ -643,6 +707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 156505,
+      "num": 156505,
+      "word": "时代峰峻获得400万的奖补资金",
+      "onboard_time": 1764395782,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156137,
       "num": 999939,
       "word": "湖北通报钟祥市发改局抄袭公文",
@@ -699,12 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144149,
-      "num": 203894,
-      "word": "社区多名干部被指用人脸面具打卡",
-      "onboard_time": 1764392900,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 145493,
+      "num": 145493,
+      "word": "许玮甯邱泽被人认出才能顺利登记",
+      "onboard_time": 1764397701,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 141077,
@@ -755,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 131348,
+      "num": 562204,
+      "word": "湖人战胜独行侠",
+      "onboard_time": 1764397941,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 131279,
       "num": 131279,
       "word": "杨幂粉丝拍的张婧仪",
@@ -801,6 +881,14 @@
       "onboard_time": 1764345623,
       "rank": 16,
       "category": "情感"
+    },
+    {
+      "raw_hot": 116097,
+      "num": 116097,
+      "word": "再见爱人黄执中的含金量还在上升",
+      "onboard_time": 1764398001,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 115723,
@@ -915,12 +1003,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 105918,
+      "num": 105918,
+      "word": "这段催婚给我看窒息了",
+      "onboard_time": 1764396620,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 104451,
       "num": 700061,
       "word": "女子钻漏洞下单476笔薅羊毛25万",
       "onboard_time": 1764334943,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 104119,
+      "num": 104119,
+      "word": "成都混团国乒全主力训练",
+      "onboard_time": 1764397941,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 103315,
@@ -931,6 +1035,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 102303,
+      "num": 102303,
+      "word": "Jiejie研发冰川增幅剑魔打野",
+      "onboard_time": 1764395540,
+      "rank": 36,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 101520,
       "num": 101520,
       "word": "马斯克坐在特朗普身旁共进晚餐",
@@ -939,12 +1051,44 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 100027,
+      "num": 100027,
+      "word": "猫 今天这菜挺硬啊",
+      "onboard_time": 1764396741,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99463,
       "num": 120932,
       "word": "巴基斯坦回应高市早苗涉台言论",
       "onboard_time": 1764384140,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99269,
+      "num": 108305,
+      "word": "迪丽热巴陈星旭枭起青壤天台吻",
+      "onboard_time": 1764394761,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99084,
+      "num": 99084,
+      "word": "枭起青壤值得被更多人看到",
+      "onboard_time": 1764397462,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 98572,
+      "num": 98572,
+      "word": "这穿搭到夏天以为减肥成功了",
+      "onboard_time": 1764397821,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 97664,
@@ -963,12 +1107,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96047,
+      "num": 96047,
+      "word": "专门胖小肚子的5个睡前习惯",
+      "onboard_time": 1764396801,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 95494,
       "num": 198556,
       "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
       "onboard_time": 1764385161,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94525,
+      "num": 94525,
+      "word": "重返未来1999远征记PV",
+      "onboard_time": 1764397881,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 94476,
@@ -1009,6 +1169,22 @@
       "onboard_time": 1764383059,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88950,
+      "num": 91786,
+      "word": "张艺兴现在撤回还来得及吗",
+      "onboard_time": 1764396141,
+      "rank": 48,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 88779,
+      "num": 117882,
+      "word": "布洛芬都不知道你哪里痛",
+      "onboard_time": 1764396560,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 88652,
@@ -1355,6 +1531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51641,
+      "num": 99112,
+      "word": "开展高层建筑火灾隐患排查",
+      "onboard_time": 1764398241,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50939,
       "num": 695435,
       "word": "周深刘宇宁二搭三搭勾勾搭搭",
@@ -1425,14 +1609,6 @@
       "onboard_time": 1764347780,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 44030,
-      "num": 108305,
-      "word": "迪丽热巴陈星旭枭起青壤天台吻",
-      "onboard_time": 1764394761,
-      "rank": 39,
-      "category": "剧集"
     },
     {
       "raw_hot": 43913,
@@ -1548,7 +1724,7 @@
     },
     {
       "raw_hot": 27341,
-      "num": 370333,
+      "num": 572351,
       "word": "文化中国行文博日历",
       "onboard_time": 1764387980,
       "rank": 2,
@@ -1561,6 +1737,14 @@
       "onboard_time": 1764354195,
       "rank": 39,
       "category": "情感"
+    },
+    {
+      "raw_hot": 16480,
+      "num": 100305,
+      "word": "理发店威胁恐吓70余顾客消费300万",
+      "onboard_time": 1764397760,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13929,
