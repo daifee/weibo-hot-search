@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764401900286,
+  "endTime": 1764405239390,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -913,6 +913,14 @@
       "onboard_time": 1763975962,
       "rank": 9,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 861007,
+      "num": 315916,
+      "word": "英国女警卧底5年爱上监控对象闪婚",
+      "onboard_time": 1764401481,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 857408,
@@ -2115,6 +2123,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 527732,
+      "num": 527732,
+      "word": "腾讯2025年热度破亿角色",
+      "onboard_time": 1764401541,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 525288,
       "num": 214439,
       "word": "张俪 删哪张",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1763877319,
       "rank": 3,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 507051,
+      "num": 507051,
+      "word": "在疯狂动物城里看到了王一博",
+      "onboard_time": 1764400520,
+      "rank": 19,
+      "category": "电影"
     },
     {
       "raw_hot": 506841,
@@ -4044,7 +4068,7 @@
     },
     {
       "raw_hot": 331244,
-      "num": 731554,
+      "num": 746154,
       "word": "银行取钱不再一刀切式询问",
       "onboard_time": 1764384802,
       "rank": 24,
@@ -4459,14 +4483,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 302497,
-      "num": 302497,
-      "word": "在疯狂动物城里看到了王一博",
-      "onboard_time": 1764400520,
-      "rank": 19,
-      "category": "电影"
-    },
-    {
       "raw_hot": 302446,
       "num": 302446,
       "word": "曝Uzi拒绝LPL战队邀请",
@@ -4633,6 +4649,14 @@
       "onboard_time": 1764209962,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 295021,
+      "num": 295021,
+      "word": "孙颖莎说王楚钦抛球就带转",
+      "onboard_time": 1764399621,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 295013,
@@ -5291,6 +5315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 259877,
+      "num": 259877,
+      "word": "摇汞 删本",
+      "onboard_time": 1764400160,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 259851,
       "num": 428424,
       "word": "胡先煦化什么妆需要50分钟",
@@ -5523,14 +5555,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 252798,
-      "num": 252798,
-      "word": "腾讯2025年热度破亿角色",
-      "onboard_time": 1764401541,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 252721,
       "num": 301717,
       "word": "谢娜加入南山猎人",
@@ -5625,14 +5649,6 @@
       "onboard_time": 1764073522,
       "rank": 1,
       "category": "数码"
-    },
-    {
-      "raw_hot": 248135,
-      "num": 248135,
-      "word": "摇汞 删本",
-      "onboard_time": 1764400160,
-      "rank": 14,
-      "category": "综艺"
     },
     {
       "raw_hot": 247816,
@@ -6281,14 +6297,6 @@
       "onboard_time": 1763960782,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 220923,
-      "num": 220923,
-      "word": "孙颖莎说王楚钦抛球就带转",
-      "onboard_time": 1764399621,
-      "rank": 16,
-      "category": "体育"
     },
     {
       "raw_hot": 220536,
@@ -8003,6 +8011,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181816,
+      "num": 181816,
+      "word": "胡先煦 欧巴病",
+      "onboard_time": 1764401541,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 181206,
       "num": 173100,
       "word": "美日领导人通话讨论涉台立场",
@@ -8369,6 +8385,14 @@
       "onboard_time": 1764306502,
       "rank": 8,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 174716,
+      "num": 174716,
+      "word": "日本自动洗澡机上市27万元一台",
+      "onboard_time": 1764400821,
+      "rank": 44,
+      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 174418,
@@ -9739,6 +9763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152675,
+      "num": 152675,
+      "word": "12岁嗯哼长这么大了",
+      "onboard_time": 1764401841,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152198,
       "num": 1322040,
       "word": "唐朝诡事录",
@@ -9849,14 +9881,6 @@
       "onboard_time": 1764162023,
       "rank": 40,
       "category": "演出"
-    },
-    {
-      "raw_hot": 150748,
-      "num": 150748,
-      "word": "日本自动洗澡机上市27万元一台",
-      "onboard_time": 1764400821,
-      "rank": 44,
-      "category": "海外新闻,数码"
     },
     {
       "raw_hot": 150601,
@@ -11883,6 +11907,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 122527,
+      "num": 122527,
+      "word": "茶百道崩了",
+      "onboard_time": 1764397640,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122413,
       "num": 202929,
       "word": "日本熊本5.8级地震",
@@ -12417,6 +12449,14 @@
       "onboard_time": 1763997261,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117427,
+      "num": 117427,
+      "word": "古早美甲",
+      "onboard_time": 1764398902,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 117413,
@@ -13145,6 +13185,14 @@
       "onboard_time": 1763857699,
       "rank": 32,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110158,
+      "num": 110158,
+      "word": "再见爱人酸奶事件商家回应",
+      "onboard_time": 1764405141,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 110104,
@@ -14203,14 +14251,6 @@
       "category": "民生新闻,财经"
     },
     {
-      "raw_hot": 102532,
-      "num": 102532,
-      "word": "茶百道崩了",
-      "onboard_time": 1764397640,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 102303,
       "num": 102303,
       "word": "Jiejie研发冰川增幅剑魔打野",
@@ -14289,14 +14329,6 @@
       "onboard_time": 1764378802,
       "rank": 31,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 101504,
-      "num": 101504,
-      "word": "古早美甲",
-      "onboard_time": 1764398902,
-      "rank": 49,
-      "category": "美妆"
     },
     {
       "raw_hot": 101449,
@@ -14867,6 +14899,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 96488,
+      "num": 96488,
+      "word": "苏翊鸣说这个冠军等同于一切",
+      "onboard_time": 1764402920,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96461,
       "num": 1959579,
       "word": "崩坏星穹铁道超话",
@@ -15427,6 +15467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91963,
+      "num": 91963,
+      "word": "新闻女王第三季拍什么",
+      "onboard_time": 1764402741,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 91753,
       "num": 160196,
       "word": "解放军报发文",
@@ -15931,14 +15979,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 87018,
-      "num": 87018,
-      "word": "12岁嗯哼长这么大了",
-      "onboard_time": 1764401841,
-      "rank": 48,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 86979,
       "num": 940668,
       "word": "夸克AI眼镜带来的行业利好",
@@ -16435,6 +16475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82684,
+      "num": 82684,
+      "word": "活了20多年第一次拥有睡衣",
+      "onboard_time": 1764404361,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 82661,
       "num": 241024,
       "word": "枭起青壤 突脸",
@@ -16707,6 +16755,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 79596,
+      "num": 323156,
+      "word": "无畏契约",
+      "onboard_time": 1764404003,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 79535,
       "num": 204921,
       "word": "奥迪击穿豪华品牌性价比天花板",
@@ -16795,6 +16851,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 78519,
+      "num": 78519,
+      "word": "白敬亭老鼠干返场了",
+      "onboard_time": 1764402741,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 78395,
       "num": 177925,
       "word": "华为MateX7可以折叠的影像旗舰",
@@ -16843,12 +16907,12 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 77165,
-      "num": 102587,
-      "word": "胡先煦 欧巴病",
-      "onboard_time": 1764401541,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 77397,
+      "num": 77397,
+      "word": "一个人吃自助餐最有性价比",
+      "onboard_time": 1764403760,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 76958,
@@ -16897,6 +16961,14 @@
       "onboard_time": 1764049101,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 76349,
+      "num": 76349,
+      "word": "黄霄雲贴脸何炅嗑谢娜张杰",
+      "onboard_time": 1764405201,
+      "rank": 48,
+      "category": "综艺"
     },
     {
       "raw_hot": 76211,
@@ -17459,14 +17531,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 68384,
-      "num": 102829,
-      "word": "英国女警卧底5年爱上监控对象闪婚",
-      "onboard_time": 1764401481,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 68240,
       "num": 92667,
       "word": "沙溢刮完胡子年轻二十岁",
@@ -18016,6 +18080,14 @@
       "word": "香港大埔火灾楼内救出一名男性长者",
       "onboard_time": 1764232041,
       "rank": 48,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58333,
+      "num": 90122,
+      "word": "受灾村子发房子的事传到外网了",
+      "onboard_time": 1764404721,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -18721,6 +18793,14 @@
       "onboard_time": 1763904322,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 47220,
+      "num": 183151,
+      "word": "疼痛是运动员的勋章",
+      "onboard_time": 1764403461,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 47052,
@@ -20067,6 +20147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 25439,
+      "num": 189666,
+      "word": "叫停一口价难解网约车供需矛盾",
+      "onboard_time": 1764404660,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25264,
       "num": 42674,
       "word": "地枭都考上教资了",
@@ -20496,6 +20584,14 @@
       "word": "羽绒服涨价怪猪肉吗",
       "onboard_time": 1764247643,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20146,
+      "num": 90956,
+      "word": "商家称白鸭绒价几乎一天一个价",
+      "onboard_time": 1764404481,
+      "rank": 38,
       "category": "民生新闻"
     },
     {

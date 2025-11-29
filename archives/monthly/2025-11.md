@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 15:38:20
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 16:33:59
 </p>
 </blockquote>
 <p>
@@ -2759,6 +2759,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8D%97%E5%AE%81%E4%BA%8C%E4%B8%AD%20%E5%92%AF%E5%99%94%23" target="weibo">
 南宁二中 咯噔（热度：861213）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E8%AD%A6%E5%8D%A7%E5%BA%955%E5%B9%B4%E7%88%B1%E4%B8%8A%E7%9B%91%E6%8E%A7%E5%AF%B9%E8%B1%A1%E9%97%AA%E5%A9%9A%23" target="weibo">
+英国女警卧底5年爱上监控对象闪婚（热度：861007）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BA%97%E4%B8%BB%E6%8A%8A%E5%B0%8F%E8%9B%8B%E7%B3%95%E7%9A%84%E6%88%90%E6%9C%AC%E9%83%BD%E5%86%99%E4%B8%8A%E4%BA%86%23" target="weibo">
 店主把小蛋糕的成本都写上了（热度：565985）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%90%8C%E6%97%B6%E5%BE%97%E7%BD%AA%E5%9B%9B%E5%9B%BD%23" target="weibo">
-高市早苗同时得罪四国（热度：565425）
 </a>
 </li>
 
