@@ -1,0 +1,410 @@
+{
+  "runTime": 1764399053910,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 363921,
+        "num": 1058227,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 214318,
+        "num": 731554,
+        "word": "银行取钱不再一刀切式询问",
+        "onboard_time": 1764384802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25172,
+        "num": 611202,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1764387980,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 591451,
+        "num": 591451,
+        "word": "老板失明后遭全厂背叛",
+        "onboard_time": 1764393681,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157773,
+        "num": 586727,
+        "word": "BLG官宣Elk离队",
+        "onboard_time": 1764390261,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 1194752,
+        "num": 584709,
+        "word": "封存不意味彻底清除特定情况可查询",
+        "onboard_time": 1764396981,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460861,
+        "num": 579830,
+        "word": "云南25岁缉毒警牺牲时仍紧扣扳机",
+        "onboard_time": 1764396443,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250057,
+        "num": 572786,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124401,
+        "num": 567739,
+        "word": "湖人战胜独行侠",
+        "onboard_time": 1764397941,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 50060,
+        "num": 562948,
+        "word": "开展高层建筑火灾隐患排查",
+        "onboard_time": 1764398241,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 687989,
+        "num": 558767,
+        "word": "梁朝伟说在日本语言不通能不跟人讲话",
+        "onboard_time": 1764396261,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 555807,
+        "num": 555807,
+        "word": "原来这是抑郁躯体化啊",
+        "onboard_time": 1764388942,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 507359,
+        "num": 507359,
+        "word": "刘亦菲易烊千玺合作",
+        "onboard_time": 1764393381,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 319764,
+        "num": 319764,
+        "word": "木苏里回复",
+        "onboard_time": 1764392781,
+        "rank": 13,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 302179,
+        "num": 302179,
+        "word": "女儿看到缉毒警爸爸就跑原因让人泪目",
+        "onboard_time": 1764396500,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293871,
+        "num": 293871,
+        "word": "胡先煦在国外遇到不尊重人的店员",
+        "onboard_time": 1764391703,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215522,
+        "num": 215522,
+        "word": "社区多名干部被指用人脸面具打卡",
+        "onboard_time": 1764392900,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210451,
+        "num": 210451,
+        "word": "白鹿素颜采访",
+        "onboard_time": 1764391101,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 190616,
+        "num": 190616,
+        "word": "苏翊鸣赛季首冠",
+        "onboard_time": 1764398662,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 180959,
+        "num": 180959,
+        "word": "再见爱人黄执中的含金量还在上升",
+        "onboard_time": 1764398001,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276302,
+        "num": 180802,
+        "word": "白血病的早期表现",
+        "onboard_time": 1764395661,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 203002,
+        "num": 180704,
+        "word": "王一博粉丝保密协议到期了吗",
+        "onboard_time": 1764394041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202191,
+        "num": 180300,
+        "word": "员工犯错亏损30万老板只扣300",
+        "onboard_time": 1764398361,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184173,
+        "num": 180237,
+        "word": "许玮甯邱泽被人认出才能顺利登记",
+        "onboard_time": 1764397701,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180013,
+        "num": 180013,
+        "word": "何美延婆婆 知否小秦氏",
+        "onboard_time": 1764388580,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 176494,
+        "num": 176494,
+        "word": "男子亡妻游戏中的虚拟房子已找回",
+        "onboard_time": 1764396141,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168855,
+        "num": 168855,
+        "word": "李诞 没有一个老年人能幸免",
+        "onboard_time": 1764391342,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80337,
+        "num": 146213,
+        "word": "布洛芬都不知道你哪里痛",
+        "onboard_time": 1764396560,
+        "rank": 27,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135402,
+        "num": 135402,
+        "word": "时代峰峻获得400万的奖补资金",
+        "onboard_time": 1764395782,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133070,
+        "num": 133070,
+        "word": "俄罗斯洲际弹道导弹爆炸画面",
+        "onboard_time": 1764396861,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119581,
+        "num": 119581,
+        "word": "一群北京格格拍张婧仪",
+        "onboard_time": 1764391342,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114783,
+        "num": 114783,
+        "word": "男子继承房产发现父亲有私生子女",
+        "onboard_time": 1764387261,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110551,
+        "num": 110551,
+        "word": "马思纯 旺仔是谁",
+        "onboard_time": 1764390141,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104636,
+        "num": 104636,
+        "word": "这段催婚给我看窒息了",
+        "onboard_time": 1764396620,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104616,
+        "num": 104616,
+        "word": "专门胖小肚子的5个睡前习惯",
+        "onboard_time": 1764396801,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103516,
+        "num": 103516,
+        "word": "自己有一百给老婆花两万一的人出现了",
+        "onboard_time": 1764388161,
+        "rank": 35,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 94894,
+        "num": 94894,
+        "word": "这穿搭到夏天以为减肥成功了",
+        "onboard_time": 1764397821,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93655,
+        "num": 93655,
+        "word": "嗑了18集你俩终于真亲了",
+        "onboard_time": 1764398601,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31872,
+        "num": 93554,
+        "word": "广东一学校推出作业熔断",
+        "onboard_time": 1764398961,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34039,
+        "num": 93510,
+        "word": "一本医学研究生正在涌入社区医院",
+        "onboard_time": 1764398541,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93496,
+        "num": 93496,
+        "word": "日本民众称日中关系不断恶化",
+        "onboard_time": 1764378860,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 43160,
+        "num": 92053,
+        "word": "理发店威胁恐吓70余顾客消费300万",
+        "onboard_time": 1764397760,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91657,
+        "num": 91657,
+        "word": "迪丽热巴陈星旭枭起青壤天台吻",
+        "onboard_time": 1764394761,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91246,
+        "num": 91246,
+        "word": "Jiejie研发冰川增幅剑魔打野",
+        "onboard_time": 1764395540,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88001,
+        "num": 88001,
+        "word": "香港举行悼念活动",
+        "onboard_time": 1764376040,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87394,
+        "num": 87394,
+        "word": "陈梦在杭州每天一条西湖醋鱼",
+        "onboard_time": 1764397581,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86595,
+        "num": 86595,
+        "word": "俄罗斯取代日本成中国游客新宠",
+        "onboard_time": 1764380720,
+        "rank": 46,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 84732,
+        "num": 84732,
+        "word": "果然没有人暧昧期不上头的",
+        "onboard_time": 1764395362,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 82090,
+        "num": 82090,
+        "word": "现在就出发",
+        "onboard_time": 1764390621,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 80731,
+        "num": 80731,
+        "word": "古早美甲",
+        "onboard_time": 1764398902,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#要动真碰硬抓好巡视整改#"
+    }
+  }
+}
