@@ -1,0 +1,410 @@
+{
+  "runTime": 1764386297128,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 564992,
+        "num": 1090398,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 549855,
+        "num": 549855,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78089,
+        "num": 354197,
+        "word": "外卖小哥发现燃气泄漏教科书式处置",
+        "onboard_time": 1764384921,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 297975,
+        "num": 297975,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1764374421,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 214405,
+        "num": 284652,
+        "word": "疯狂动物城2内地票房破10亿",
+        "onboard_time": 1764382281,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283749,
+        "num": 283749,
+        "word": "女子被造黄谣失业离婚仅获道歉",
+        "onboard_time": 1764373279,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272183,
+        "num": 272183,
+        "word": "何美延 梁淞",
+        "onboard_time": 1764378440,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246921,
+        "num": 271528,
+        "word": "俄罗斯取代日本成中国游客新宠",
+        "onboard_time": 1764380720,
+        "rank": 7,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 202566,
+        "num": 270922,
+        "word": "东京电视台王楚钦宣传片",
+        "onboard_time": 1764381621,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75788,
+        "num": 270477,
+        "word": "多城叫停网约车一口价",
+        "onboard_time": 1764385280,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 962793,
+        "num": 269094,
+        "word": "何穗为小洛熙发声",
+        "onboard_time": 1764383720,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 561923,
+        "num": 268650,
+        "word": "当年真的错怪蒋欣了",
+        "onboard_time": 1764343162,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352335,
+        "num": 267832,
+        "word": "徐艺洋 秀场比婚礼好看是因为美颜",
+        "onboard_time": 1764379282,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 295013,
+        "num": 267458,
+        "word": "张婧仪 哪有人啊",
+        "onboard_time": 1764381500,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 266677,
+        "num": 266677,
+        "word": "小猫坏事做尽",
+        "onboard_time": 1764382461,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 247889,
+        "num": 247889,
+        "word": "男孩将妈妈结婚金项链分段送给同学",
+        "onboard_time": 1764377601,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 244904,
+        "num": 244904,
+        "word": "樊振东说去欧洲为远离不好的事",
+        "onboard_time": 1764377720,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202073,
+        "num": 202073,
+        "word": "宁静不支持老人带孩子",
+        "onboard_time": 1764383301,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 200125,
+        "num": 200125,
+        "word": "孙天宇夸张婧仪好漂亮啊",
+        "onboard_time": 1764385402,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62919,
+        "num": 198556,
+        "word": "女子回应生理期潜水被鲨鱼咬伤手腕",
+        "onboard_time": 1764385161,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198349,
+        "num": 198349,
+        "word": "普京宣布与乌克兰停火条件",
+        "onboard_time": 1764346641,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 211288,
+        "num": 187210,
+        "word": "邱泽许玮甯一家三口首同框",
+        "onboard_time": 1764384381,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167268,
+        "num": 167268,
+        "word": "日本民众称日中关系不断恶化",
+        "onboard_time": 1764378860,
+        "rank": 22,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 157047,
+        "num": 157047,
+        "word": "酒店经理一口流利英语当前台火了",
+        "onboard_time": 1764384500,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151754,
+        "num": 151754,
+        "word": "银行取钱不再一刀切式询问",
+        "onboard_time": 1764384802,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151304,
+        "num": 151304,
+        "word": "越来越多大陆应用在台湾火了",
+        "onboard_time": 1764384561,
+        "rank": 25,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 147515,
+        "num": 147515,
+        "word": "香港举行悼念活动",
+        "onboard_time": 1764376040,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138415,
+        "num": 138415,
+        "word": "20岁女子月经不规律7年查出癌症",
+        "onboard_time": 1764372378,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132504,
+        "num": 132504,
+        "word": "柯淳邵子恒差点做了重庆女婿",
+        "onboard_time": 1764385819,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125154,
+        "num": 125154,
+        "word": "金饰克价涨至1338元",
+        "onboard_time": 1764381861,
+        "rank": 29,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131779,
+        "num": 123823,
+        "word": "何赛飞 刘晓庆再能干也七八十岁了",
+        "onboard_time": 1764385819,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118593,
+        "num": 118593,
+        "word": "李兰迪右边胳膊的是胎记",
+        "onboard_time": 1764377060,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111067,
+        "num": 111067,
+        "word": "常吃4种食物的人胃癌风险低",
+        "onboard_time": 1764385161,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108612,
+        "num": 108612,
+        "word": "官方认证王一博岩羊",
+        "onboard_time": 1764385760,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105215,
+        "num": 105215,
+        "word": "4种素菜其实是热量刺客",
+        "onboard_time": 1764372979,
+        "rank": 34,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 104050,
+        "num": 104050,
+        "word": "上班时间禁止偷吃同事",
+        "onboard_time": 1764373279,
+        "rank": 35,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 103640,
+        "num": 103640,
+        "word": "敖瑞鹏开上车跟手机充上电没区别",
+        "onboard_time": 1764384981,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99463,
+        "num": 99463,
+        "word": "巴基斯坦回应高市早苗涉台言论",
+        "onboard_time": 1764384140,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32027,
+        "num": 96672,
+        "word": "昆明火车站事故遇难家属发声",
+        "onboard_time": 1764385161,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68991,
+        "num": 95369,
+        "word": "敖瑞鹏不二之臣大衣路透",
+        "onboard_time": 1764385280,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95339,
+        "num": 95339,
+        "word": "总裁圈来新人了",
+        "onboard_time": 1764374361,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93048,
+        "num": 93048,
+        "word": "刘宪华曾是张艺兴老师",
+        "onboard_time": 1764381260,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 89688,
+        "num": 89688,
+        "word": "儿子将金项链分段送同学妈妈发声",
+        "onboard_time": 1764383059,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88652,
+        "num": 88652,
+        "word": "女子收到10年前网购玩偶的眼睛",
+        "onboard_time": 1764383840,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86928,
+        "num": 86928,
+        "word": "8岁女孩用上3D打印的新鼻子",
+        "onboard_time": 1764381861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86689,
+        "num": 86689,
+        "word": "鞠婧祎指和古早粉丝合影",
+        "onboard_time": 1764384981,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89371,
+        "num": 86614,
+        "word": "张艺兴怎么着都得卖一套房",
+        "onboard_time": 1764375140,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86401,
+        "num": 86401,
+        "word": "村里发房子了",
+        "onboard_time": 1764383361,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81153,
+        "num": 81153,
+        "word": "普京不懂G7为啥叫七大国",
+        "onboard_time": 1764377840,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77459,
+        "num": 77459,
+        "word": "印度集体婚礼上因抢薯片发生踩踏",
+        "onboard_time": 1764377780,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#大力弘扬志愿精神#"
+    }
+  }
+}
