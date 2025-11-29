@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 16:33:59
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 16:46:45
 </p>
 </blockquote>
 <p>
@@ -6473,6 +6473,12 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%23%E8%A6%81%E5%8A%A8%E7%9C%9F%E7%A2%B0%E7%A1%AC%E6%8A%93%E5%A5%BD%E5%B7%A1%E8%A7%86%E6%95%B4%E6%94%B9%23%23" target="weibo">
 #要动真碰硬抓好巡视整改#
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%23%E4%B8%AD%E5%85%B1%E4%B8%AD%E5%A4%AE%E6%94%BF%E6%B2%BB%E5%B1%80%E7%AC%AC%E4%BA%8C%E5%8D%81%E4%B8%89%E6%AC%A1%E9%9B%86%E4%BD%93%E5%AD%A6%E4%B9%A0%23%23" target="weibo">
+#中共中央政治局第二十三次集体学习#
 </a>
 </li>
 

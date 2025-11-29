@@ -1,0 +1,410 @@
+{
+  "runTime": 1764406005660,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 264920,
+        "num": 1042387,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 154757,
+        "num": 550796,
+        "word": "银行取钱不再一刀切式询问",
+        "onboard_time": 1764384802,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18310,
+        "num": 518669,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1764387980,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 510099,
+        "num": 510099,
+        "word": "腾讯2025年热度破亿角色",
+        "onboard_time": 1764401541,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 209471,
+        "num": 485591,
+        "word": "国乒主力亮相成都混团抽签仪式",
+        "onboard_time": 1764405621,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469087,
+        "num": 469087,
+        "word": "在疯狂动物城里看到了王一博",
+        "onboard_time": 1764400520,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 390722,
+        "num": 390722,
+        "word": "封存不意味彻底清除特定情况可查询",
+        "onboard_time": 1764396981,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268142,
+        "num": 268142,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 239040,
+        "num": 239040,
+        "word": "云南25岁缉毒警牺牲时仍紧扣扳机",
+        "onboard_time": 1764396443,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117988,
+        "num": 238711,
+        "word": "国考公安",
+        "onboard_time": 1764405680,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 844899,
+        "num": 238194,
+        "word": "英国女警卧底5年爱上监控对象闪婚",
+        "onboard_time": 1764401481,
+        "rank": 10,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 530223,
+        "num": 237615,
+        "word": "梁朝伟说在日本语言不通能不跟人讲话",
+        "onboard_time": 1764396261,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 270373,
+        "num": 236836,
+        "word": "原来这是抑郁躯体化啊",
+        "onboard_time": 1764388942,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266600,
+        "num": 236459,
+        "word": "孙颖莎说王楚钦抛球就带转",
+        "onboard_time": 1764399621,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 236063,
+        "num": 236063,
+        "word": "再见爱人酸奶事件商家回应",
+        "onboard_time": 1764405141,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 223714,
+        "num": 223714,
+        "word": "枭起青壤",
+        "onboard_time": 1764404721,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219345,
+        "num": 219345,
+        "word": "王晶说顶流演员都不会演戏",
+        "onboard_time": 1764405621,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 215407,
+        "num": 215407,
+        "word": "女儿看到缉毒警爸爸就跑原因让人泪目",
+        "onboard_time": 1764396500,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213129,
+        "num": 213129,
+        "word": "摇汞 删本",
+        "onboard_time": 1764400160,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39725,
+        "num": 209804,
+        "word": "疼痛是运动员的勋章",
+        "onboard_time": 1764403461,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19492,
+        "num": 209453,
+        "word": "男子买10万元购物卡店员报警",
+        "onboard_time": 1764405680,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94496,
+        "num": 209326,
+        "word": "BLG官宣Elk离队",
+        "onboard_time": 1764390261,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 209317,
+        "num": 209317,
+        "word": "年薪60万美金的斯坦福硕士回国做甜品",
+        "onboard_time": 1764399681,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66822,
+        "num": 205203,
+        "word": "叫停一口价难解网约车供需矛盾",
+        "onboard_time": 1764404660,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202867,
+        "num": 202867,
+        "word": "刘亦菲易烊千玺合作",
+        "onboard_time": 1764393381,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 199231,
+        "num": 199231,
+        "word": "胡先煦 欧巴病",
+        "onboard_time": 1764401541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38346,
+        "num": 170844,
+        "word": "辖区仅5个困境儿童考核却要10个",
+        "onboard_time": 1764405861,
+        "rank": 26,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 170508,
+        "num": 170508,
+        "word": "12岁嗯哼长这么大了",
+        "onboard_time": 1764401841,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167100,
+        "num": 167100,
+        "word": "日本自动洗澡机上市27万元一台",
+        "onboard_time": 1764400821,
+        "rank": 28,
+        "category": "海外新闻,数码"
+      },
+      {
+        "raw_hot": 159331,
+        "num": 159331,
+        "word": "木苏里回复",
+        "onboard_time": 1764392781,
+        "rank": 29,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 225397,
+        "num": 158956,
+        "word": "王楚钦孙颖莎揭晓1号签位",
+        "onboard_time": 1764405861,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158186,
+        "num": 158186,
+        "word": "白血病的早期表现",
+        "onboard_time": 1764395661,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 157415,
+        "num": 157415,
+        "word": "活了20多年第一次拥有睡衣",
+        "onboard_time": 1764404361,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 136673,
+        "num": 136673,
+        "word": "老板失明后遭全厂背叛",
+        "onboard_time": 1764393681,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125127,
+        "num": 125127,
+        "word": "新闻女王第三季拍什么",
+        "onboard_time": 1764402741,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 115004,
+        "num": 115004,
+        "word": "白鹿素颜采访",
+        "onboard_time": 1764391101,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103182,
+        "num": 103182,
+        "word": "茶百道崩了",
+        "onboard_time": 1764397640,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101861,
+        "num": 101861,
+        "word": "胡先煦在国外遇到不尊重人的店员",
+        "onboard_time": 1764391703,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97356,
+        "num": 97356,
+        "word": "许玮甯邱泽被人认出才能顺利登记",
+        "onboard_time": 1764397701,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39821,
+        "num": 92759,
+        "word": "女孩蹭婚宴3年打包剩菜喂流浪猫",
+        "onboard_time": 1764405680,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92118,
+        "num": 92118,
+        "word": "黑色衣服 劣质服装重灾区",
+        "onboard_time": 1764399920,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 59016,
+        "num": 91924,
+        "word": "受灾村子发房子的事传到外网了",
+        "onboard_time": 1764404721,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80783,
+        "num": 91792,
+        "word": "苏翊鸣说这个冠军等同于一切",
+        "onboard_time": 1764402920,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 91789,
+        "num": 91789,
+        "word": "张博恒兑现承诺发vlog",
+        "onboard_time": 1764405621,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90710,
+        "num": 90710,
+        "word": "专门胖小肚子的5个睡前习惯",
+        "onboard_time": 1764396801,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 86202,
+        "num": 86202,
+        "word": "白敬亭老鼠干返场了",
+        "onboard_time": 1764402741,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23044,
+        "num": 85017,
+        "word": "商家称白鸭绒价几乎一天一个价",
+        "onboard_time": 1764404481,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84498,
+        "num": 84498,
+        "word": "何美延婆婆 知否小秦氏",
+        "onboard_time": 1764388580,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 81220,
+        "num": 81220,
+        "word": "黄霄雲贴脸何炅嗑谢娜张杰",
+        "onboard_time": 1764405201,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 79976,
+        "num": 79976,
+        "word": "尼克vs虹猫",
+        "onboard_time": 1764405561,
+        "rank": 49,
+        "category": "动漫"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十三次集体学习#"
+    }
+  }
+}
