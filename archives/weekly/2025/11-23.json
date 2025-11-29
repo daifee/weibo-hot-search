@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764373123130,
+  "endTime": 1764381437431,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -1275,6 +1275,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 708599,
+      "num": 229691,
+      "word": "何美延 梁淞",
+      "onboard_time": 1764378440,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707964,
       "num": 2421305,
       "word": "当我开店取消了扫码点单",
@@ -1603,6 +1611,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 623509,
+      "num": 228381,
+      "word": "男孩将妈妈结婚金项链分段送给同学",
+      "onboard_time": 1764377601,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 616196,
       "num": 254393,
       "word": "留几手说明星找网红是降维打击",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1764074602,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 566800,
+      "num": 566800,
+      "word": "国考",
+      "onboard_time": 1763938997,
+      "rank": 7,
+      "category": "教育"
     },
     {
       "raw_hot": 566432,
@@ -2401,6 +2425,14 @@
       "onboard_time": 1764309862,
       "rank": 13,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 477674,
+      "num": 228214,
+      "word": "樊振东说去欧洲为远离不好的事",
+      "onboard_time": 1764377720,
+      "rank": 12,
+      "category": "体育"
     },
     {
       "raw_hot": 477579,
@@ -4331,6 +4363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 295724,
+      "num": 228102,
+      "word": "张艺兴怎么着都得卖一套房",
+      "onboard_time": 1764375140,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 295484,
       "num": 295484,
       "word": "上海地铁回应外国人在车厢内吃馅饼",
@@ -4419,12 +4459,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 292442,
+      "num": 227944,
+      "word": "李兰迪右边胳膊的是胎记",
+      "onboard_time": 1764377060,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 292144,
       "num": 198411,
       "word": "胡彦斌新歌",
       "onboard_time": 1763871440,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 290947,
+      "num": 229309,
+      "word": "女子被造黄谣失业离婚仅获道歉",
+      "onboard_time": 1764373279,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 290629,
@@ -4505,6 +4561,14 @@
       "onboard_time": 1763985200,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286181,
+      "num": 229021,
+      "word": "香港举行悼念活动",
+      "onboard_time": 1764376040,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 285780,
@@ -4889,6 +4953,14 @@
       "onboard_time": 1764061881,
       "rank": 22,
       "category": "数码"
+    },
+    {
+      "raw_hot": 261810,
+      "num": 261810,
+      "word": "黑莲花攻略手册",
+      "onboard_time": 1764374421,
+      "rank": 3,
+      "category": "动漫"
     },
     {
       "raw_hot": 261269,
@@ -5307,6 +5379,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 246097,
+      "num": 153698,
+      "word": "20岁女子月经不规律7年查出癌症",
+      "onboard_time": 1764372378,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 245463,
       "num": 245463,
       "word": "东部战区海军某部实弹射击火力全开",
@@ -5435,6 +5515,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 239091,
+      "num": 151729,
+      "word": "日本民众称日中关系不断恶化",
+      "onboard_time": 1764378860,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 239026,
       "num": 322175,
       "word": "特区政府停止与日本领事馆官方交流",
@@ -5537,6 +5625,14 @@
       "onboard_time": 1764236543,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233956,
+      "num": 227598,
+      "word": "王晶曝演艺圈评奖内幕",
+      "onboard_time": 1764375259,
+      "rank": 15,
+      "category": "电影"
     },
     {
       "raw_hot": 233949,
@@ -5651,6 +5747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 229703,
+      "num": 229703,
+      "word": "总裁圈来新人了",
+      "onboard_time": 1764374361,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 229583,
       "num": 882071,
       "word": "东契奇一人打一队",
@@ -5713,6 +5817,14 @@
       "onboard_time": 1764198859,
       "rank": 22,
       "category": "财经"
+    },
+    {
+      "raw_hot": 227576,
+      "num": 227576,
+      "word": "上班时间禁止偷吃同事",
+      "onboard_time": 1764373279,
+      "rank": 16,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 226776,
@@ -5896,14 +6008,6 @@
       "word": "男子762元买20多件商品蕉内拒发货",
       "onboard_time": 1763817803,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217506,
-      "num": 126547,
-      "word": "20岁女子月经不规律7年查出癌症",
-      "onboard_time": 1764372378,
-      "rank": 21,
       "category": "民生新闻"
     },
     {
@@ -7347,6 +7451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 184684,
+      "num": 150257,
+      "word": "印度集体婚礼上因抢薯片发生踩踏",
+      "onboard_time": 1764377780,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 184483,
       "num": 184483,
       "word": "罗永浩说华杉必须公开道歉",
@@ -8259,6 +8371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 164671,
+      "num": 164671,
+      "word": "香港下半旗志哀",
+      "onboard_time": 1764380120,
+      "rank": 17,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 164665,
       "num": 194972,
       "word": "迪丽热巴枭起青壤首日百指",
@@ -8787,6 +8907,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156741,
+      "num": 156741,
+      "word": "原来熊猫真的可以骑",
+      "onboard_time": 1764374361,
+      "rank": 18,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 156724,
       "num": 156724,
       "word": "当你身边有个卷王同学",
@@ -8985,6 +9113,14 @@
       "onboard_time": 1764132142,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153851,
+      "num": 153851,
+      "word": "5岁女儿游乐园遭电击进ICU母亲发声",
+      "onboard_time": 1764373399,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153745,
@@ -9227,6 +9363,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 148882,
+      "num": 148882,
+      "word": "4种素菜其实是热量刺客",
+      "onboard_time": 1764372979,
+      "rank": 25,
+      "category": "美食"
+    },
+    {
       "raw_hot": 148646,
       "num": 148646,
       "word": "刘耀文腰上的sauce",
@@ -9297,6 +9441,14 @@
       "onboard_time": 1763905942,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148064,
+      "num": 148064,
+      "word": "刘宪华曾是张艺兴老师",
+      "onboard_time": 1764381260,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 147814,
@@ -9881,6 +10033,14 @@
       "onboard_time": 1764031881,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 138404,
+      "num": 138404,
+      "word": "徐艺洋 秀场比婚礼好看是因为美颜",
+      "onboard_time": 1764379282,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 138345,
@@ -11771,6 +11931,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 115723,
+      "num": 115723,
+      "word": "黄金加速上涨",
+      "onboard_time": 1764373158,
+      "rank": 27,
+      "category": "财经"
+    },
+    {
       "raw_hot": 115428,
       "num": 115428,
       "word": "松鼠老爹 松鼠老母",
@@ -12875,6 +13043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106073,
+      "num": 101867,
+      "word": "普京不懂G7为啥叫七大国",
+      "onboard_time": 1764377840,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105971,
       "num": 105971,
       "word": "迪丽热巴的扛剧底盘",
@@ -13203,6 +13379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103315,
+      "num": 228928,
+      "word": "英特尔大涨超10%",
+      "onboard_time": 1764379640,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 103193,
       "num": 216449,
       "word": "库里的三分",
@@ -13345,6 +13529,14 @@
       "onboard_time": 1763972421,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 101520,
+      "num": 101520,
+      "word": "马斯克坐在特朗普身旁共进晚餐",
+      "onboard_time": 1764378802,
+      "rank": 31,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 101449,
@@ -13571,14 +13763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99709,
-      "num": 173505,
-      "word": "国考",
-      "onboard_time": 1763938997,
-      "rank": 7,
-      "category": "教育"
-    },
-    {
       "raw_hot": 99592,
       "num": 99592,
       "word": "邝玲玲第一张单人VOGUE封面",
@@ -13713,6 +13897,14 @@
       "onboard_time": 1763817202,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 98185,
+      "num": 98185,
+      "word": "漫蛙崩了",
+      "onboard_time": 1764377420,
+      "rank": 32,
+      "category": "动漫"
     },
     {
       "raw_hot": 98173,
@@ -14419,14 +14611,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91411,
-      "num": 113649,
-      "word": "4种素菜其实是热量刺客",
-      "onboard_time": 1764372979,
-      "rank": 25,
-      "category": "美食"
-    },
-    {
       "raw_hot": 90993,
       "num": 3252856,
       "word": "最新版全国入冬进程图",
@@ -14723,6 +14907,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88466,
+      "num": 88466,
+      "word": "俄罗斯取代日本成中国游客新宠",
+      "onboard_time": 1764380720,
+      "rank": 33,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 88404,
       "num": 1897524,
       "word": "肖战一个呼吸镜头牵动所有脑神经",
@@ -14913,6 +15105,14 @@
       "onboard_time": 1764262039,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 86069,
+      "num": 86069,
+      "word": "女子处理海鲜被刺伤导致多器官衰竭",
+      "onboard_time": 1764380241,
+      "rank": 34,
+      "category": "科学科普"
     },
     {
       "raw_hot": 86055,
@@ -15179,6 +15379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83422,
+      "num": 83422,
+      "word": "白敬亭穿的是红秋衣吗",
+      "onboard_time": 1764376280,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 83418,
       "num": 1797804,
       "word": "北京国安亚冠出局",
@@ -15201,6 +15409,14 @@
       "onboard_time": 1764214283,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83096,
+      "num": 270127,
+      "word": "第一次在综艺里看送房产证的",
+      "onboard_time": 1764350238,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 83074,
@@ -15624,6 +15840,14 @@
       "word": "原来这就是有效P图啊",
       "onboard_time": 1764300502,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 77728,
+      "num": 83094,
+      "word": "这些都是谈恋爱最基本的",
+      "onboard_time": 1764378140,
+      "rank": 37,
       "category": "情感"
     },
     {
@@ -16163,6 +16387,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 68714,
+      "num": 83092,
+      "word": "狗狗竟知道磨砂玻璃打湿能看清",
+      "onboard_time": 1764378019,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 68486,
       "num": 101116,
       "word": "理想汽车营收下滑36%",
@@ -16211,6 +16443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67909,
+      "num": 83088,
+      "word": "独行侠vs湖人",
+      "onboard_time": 1764379700,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 67809,
       "num": 320943,
       "word": "狂野时代豆瓣评分3星占比最高",
@@ -16227,6 +16467,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 67383,
+      "num": 132404,
+      "word": "考公年龄放宽大龄考生紧急备考",
+      "onboard_time": 1764373038,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67286,
       "num": 195155,
       "word": "华为手表首发腕上鸿蒙智能体",
@@ -16241,6 +16489,14 @@
       "onboard_time": 1763836095,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 67195,
+      "num": 83083,
+      "word": "这个器官年轻的人更长寿",
+      "onboard_time": 1764377780,
+      "rank": 43,
+      "category": "科学科普"
     },
     {
       "raw_hot": 67054,
@@ -16491,6 +16747,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 61851,
+      "num": 83079,
+      "word": "Zeus谈Meiko请客",
+      "onboard_time": 1764377840,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 61770,
       "num": 73009,
       "word": "鬼灭之刃",
@@ -16561,14 +16825,6 @@
       "onboard_time": 1764112819,
       "rank": 45,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 60155,
-      "num": 132404,
-      "word": "考公年龄放宽大龄考生紧急备考",
-      "onboard_time": 1764373038,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 60028,
@@ -16883,6 +17139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 55283,
+      "num": 297375,
+      "word": "网警斩断非法引流黑手",
+      "onboard_time": 1764373458,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 54836,
       "num": 562650,
       "word": "对标Chrome的夸克AI浏览器免费用",
@@ -16939,6 +17203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 53849,
+      "num": 83078,
+      "word": "适合卷发的季节到了",
+      "onboard_time": 1764379880,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 53715,
       "num": 240281,
       "word": "宋雨琦发的白鹿",
@@ -16961,6 +17233,14 @@
       "onboard_time": 1763998402,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 53206,
+      "num": 83072,
+      "word": "泡泡玛特大象滑梯盲盒攻略",
+      "onboard_time": 1764373219,
+      "rank": 48,
+      "category": "休闲,动漫"
     },
     {
       "raw_hot": 53143,
@@ -17201,6 +17481,14 @@
       "onboard_time": 1764101773,
       "rank": 41,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 49735,
+      "num": 83072,
+      "word": "鬼灭之刃不死川实弥",
+      "onboard_time": 1764378860,
+      "rank": 49,
+      "category": "动漫"
     },
     {
       "raw_hot": 49224,
@@ -17545,14 +17833,6 @@
       "onboard_time": 1764121520,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 43582,
-      "num": 270127,
-      "word": "第一次在综艺里看送房产证的",
-      "onboard_time": 1764350238,
-      "rank": 47,
-      "category": "综艺"
     },
     {
       "raw_hot": 43517,
