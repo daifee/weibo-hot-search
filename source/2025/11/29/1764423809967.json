@@ -1,0 +1,410 @@
+{
+  "runTime": 1764423809967,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 504060,
+        "num": 1080649,
+        "word": "此前失踪名单中144人确认安全",
+        "onboard_time": 1764408501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 422486,
+        "num": 422486,
+        "word": "张继科混团开幕式献唱我爱你中国",
+        "onboard_time": 1764422243,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 12043,
+        "num": 339173,
+        "word": "属于冬天的100个美景",
+        "onboard_time": 1764423563,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616374,
+        "num": 337189,
+        "word": "24岁40万年薪女儿因为父亲离职",
+        "onboard_time": 1764417741,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334848,
+        "num": 334848,
+        "word": "公务员考试",
+        "onboard_time": 1764413842,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 537343,
+        "num": 333543,
+        "word": "疯狂动物城",
+        "onboard_time": 1764387380,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349769,
+        "num": 328203,
+        "word": "敖瑞鹏一个英文单词震慑全场",
+        "onboard_time": 1764422362,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 308922,
+        "num": 308922,
+        "word": "全国流感阳性率接近45%",
+        "onboard_time": 1764419661,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 177570,
+        "num": 307716,
+        "word": "王楚钦说混团进奥运压力更大了",
+        "onboard_time": 1764419783,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 174692,
+        "num": 306886,
+        "word": "日本旅游业被曝很难填补中国游客空白",
+        "onboard_time": 1764412342,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 632780,
+        "num": 303567,
+        "word": "流感",
+        "onboard_time": 1764419542,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 491438,
+        "num": 301143,
+        "word": "向太说这辈子唯一想知道父亲是谁",
+        "onboard_time": 1764416182,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402852,
+        "num": 300960,
+        "word": "疯狂动物城2",
+        "onboard_time": 1764420262,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 340479,
+        "num": 297595,
+        "word": "曝袁惟仁被送急诊",
+        "onboard_time": 1764420021,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297111,
+        "num": 297111,
+        "word": "汪苏泷嘉宾宋雨琦",
+        "onboard_time": 1764419903,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 278746,
+        "num": 278746,
+        "word": "张函瑞考核第一",
+        "onboard_time": 1764420861,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246145,
+        "num": 246145,
+        "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+        "onboard_time": 1764412281,
+        "rank": 16,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 216804,
+        "num": 244615,
+        "word": "头发自然干vs吹风机吹干",
+        "onboard_time": 1764415762,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 193667,
+        "num": 242847,
+        "word": "00后花近2千万在常州开火锅店",
+        "onboard_time": 1764416063,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169613,
+        "num": 241463,
+        "word": "医生提醒两种性格的人容易抑郁",
+        "onboard_time": 1764423563,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 834338,
+        "num": 238529,
+        "word": "我就说何老师还不退休迟早会出事吧",
+        "onboard_time": 1764411683,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155797,
+        "num": 236330,
+        "word": "拜登签的一批反华文件恐失效",
+        "onboard_time": 1764422484,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 583368,
+        "num": 233319,
+        "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
+        "onboard_time": 1764420262,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542162,
+        "num": 231025,
+        "word": "卢昱晓工作室",
+        "onboard_time": 1764414502,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230931,
+        "num": 230931,
+        "word": "迪丽热巴张俪5分钟对手戏看爽了",
+        "onboard_time": 1764422303,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186361,
+        "num": 230840,
+        "word": "兔子朱迪和狐狸尼克是友情还是爱情",
+        "onboard_time": 1764423144,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 182930,
+        "num": 230804,
+        "word": "黄星演唱会",
+        "onboard_time": 1764421522,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 165739,
+        "num": 230697,
+        "word": "李清照将家暴丈夫送进大牢",
+        "onboard_time": 1764408981,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1665,
+        "num": 230542,
+        "word": "文化中国行文博日历",
+        "onboard_time": 1764387980,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129591,
+        "num": 230490,
+        "word": "国考公安",
+        "onboard_time": 1764405680,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 137671,
+        "num": 230386,
+        "word": "建议大家一上车就立马锁门",
+        "onboard_time": 1764406581,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121981,
+        "num": 230227,
+        "word": "王橹杰11月考核",
+        "onboard_time": 1764423623,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112757,
+        "num": 230131,
+        "word": "恋与制作人八周年直播",
+        "onboard_time": 1764416962,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 112405,
+        "num": 229995,
+        "word": "秋冬少买驼色衣服",
+        "onboard_time": 1764414742,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 110639,
+        "num": 229918,
+        "word": "14岁初中生学校体测倒地后猝死",
+        "onboard_time": 1764422422,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107738,
+        "num": 229796,
+        "word": "内娱云包场最新表格",
+        "onboard_time": 1764421404,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90485,
+        "num": 229699,
+        "word": "数千架空客A320紧急停飞",
+        "onboard_time": 1764422362,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20411,
+        "num": 229584,
+        "word": "男子酒后30层高楼扔下自行车被判刑",
+        "onboard_time": 1764423623,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73573,
+        "num": 229536,
+        "word": "王橹杰考核唱多远都要在一起",
+        "onboard_time": 1764423623,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44172,
+        "num": 229363,
+        "word": "司机遇挡路睡狗鸣笛无效后开车辗轧",
+        "onboard_time": 1764423144,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105009,
+        "num": 229342,
+        "word": "丈夫救父亲去世25岁妻子守家不改嫁",
+        "onboard_time": 1764416962,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103584,
+        "num": 229155,
+        "word": "枭起青壤",
+        "onboard_time": 1764404721,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94316,
+        "num": 229088,
+        "word": "15岁男孩熬夜打游戏身高停在1米38",
+        "onboard_time": 1764421224,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91406,
+        "num": 229032,
+        "word": "大孤山偶遇李乃文袁姗姗",
+        "onboard_time": 1764423023,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91264,
+        "num": 228885,
+        "word": "TF四代11月考核",
+        "onboard_time": 1764418822,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62648,
+        "num": 228814,
+        "word": "妈妈辅导作业被气到抽搐说不出话",
+        "onboard_time": 1764422243,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 21465,
+        "num": 228667,
+        "word": "何以京彩网韵新风",
+        "onboard_time": 1764421822,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89616,
+        "num": 228609,
+        "word": "李泽言配音 变声期",
+        "onboard_time": 1764423443,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 86695,
+        "num": 228474,
+        "word": "多名在日本中国留学生发声",
+        "onboard_time": 1764414622,
+        "rank": 48,
+        "category": "教育,海外新闻"
+      },
+      {
+        "raw_hot": 83161,
+        "num": 228342,
+        "word": "对李昀锐182的身高有了实感",
+        "onboard_time": 1764413302,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十三次集体学习#"
+    }
+  }
+}
