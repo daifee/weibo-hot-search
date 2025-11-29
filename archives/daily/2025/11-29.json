@@ -1,6 +1,6 @@
 {
   "startTime": 1764347652342,
-  "endTime": 1764394027926,
+  "endTime": 1764394983053,
   "band_list": [
     {
       "raw_hot": 1203491,
@@ -67,20 +67,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 670654,
+      "num": 274829,
+      "word": "刘亦菲易烊千玺合作",
+      "onboard_time": 1764393381,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 623509,
       "num": 247889,
       "word": "男孩将妈妈结婚金项链分段送给同学",
       "onboard_time": 1764377601,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 558232,
-      "num": 274829,
-      "word": "刘亦菲易烊千玺合作",
-      "onboard_time": 1764393381,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 542320,
@@ -137,6 +137,22 @@
       "onboard_time": 1764386541,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 425376,
+      "num": 250208,
+      "word": "木苏里回复",
+      "onboard_time": 1764392781,
+      "rank": 17,
+      "category": "读书作家"
+    },
+    {
+      "raw_hot": 390132,
+      "num": 230473,
+      "word": "白鹿素颜采访",
+      "onboard_time": 1764391101,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 366434,
@@ -243,14 +259,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 297813,
-      "num": 230473,
-      "word": "白鹿素颜采访",
-      "onboard_time": 1764391101,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 295724,
       "num": 228102,
       "word": "张艺兴怎么着都得卖一套房",
@@ -264,6 +272,14 @@
       "word": "张婧仪 哪有人啊",
       "onboard_time": 1764381500,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 293885,
+      "num": 223378,
+      "word": "胡先煦在国外遇到不尊重人的店员",
+      "onboard_time": 1764391703,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -323,6 +339,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 268646,
+      "num": 168164,
+      "word": "老板失明后遭全厂背叛",
+      "onboard_time": 1764393681,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 265932,
       "num": 224043,
       "word": "我要是蒋欣我已经生气了",
@@ -347,12 +371,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 250208,
-      "num": 250208,
-      "word": "木苏里回复",
-      "onboard_time": 1764392781,
-      "rank": 17,
-      "category": "读书作家"
+      "raw_hot": 250112,
+      "num": 143829,
+      "word": "王一博粉丝保密协议到期了吗",
+      "onboard_time": 1764394041,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 246097,
@@ -425,14 +449,6 @@
       "onboard_time": 1764345803,
       "rank": 12,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 223378,
-      "num": 223378,
-      "word": "胡先煦在国外遇到不尊重人的店员",
-      "onboard_time": 1764391703,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 220449,
@@ -553,14 +569,6 @@
       "onboard_time": 1764393022,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 168164,
-      "num": 168164,
-      "word": "老板失明后遭全厂背叛",
-      "onboard_time": 1764393681,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 167766,
@@ -691,6 +699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144149,
+      "num": 203894,
+      "word": "社区多名干部被指用人脸面具打卡",
+      "onboard_time": 1764392900,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141077,
       "num": 704188,
       "word": "女子被造黄谣反被公司罚款5000元",
@@ -755,20 +771,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126528,
-      "num": 203894,
-      "word": "社区多名干部被指用人脸面具打卡",
-      "onboard_time": 1764392900,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125154,
       "num": 125154,
       "word": "金饰克价涨至1338元",
       "onboard_time": 1764381861,
       "rank": 28,
       "category": "财经"
+    },
+    {
+      "raw_hot": 124334,
+      "num": 143623,
+      "word": "以闪亮之名暖冬节",
+      "onboard_time": 1764394701,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 121493,
@@ -843,6 +859,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 110104,
+      "num": 160118,
+      "word": "JDG官宣Tabe加入",
+      "onboard_time": 1764393981,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 109253,
+      "num": 162861,
+      "word": "Elk回应离开BLG",
+      "onboard_time": 1764393560,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 108612,
       "num": 108612,
       "word": "官方认证王一博岩羊",
@@ -915,6 +947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97664,
+      "num": 234652,
+      "word": "高校招聘音乐老师被指存在萝卜岗",
+      "onboard_time": 1764392781,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 96756,
       "num": 96756,
       "word": "超4万人参观春熙路辣条博物馆",
@@ -985,14 +1025,6 @@
       "onboard_time": 1764324263,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87808,
-      "num": 162861,
-      "word": "Elk回应离开BLG",
-      "onboard_time": 1764393560,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 86689,
@@ -1099,14 +1131,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 75405,
-      "num": 160118,
-      "word": "JDG官宣Tabe加入",
-      "onboard_time": 1764393981,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 73931,
       "num": 702685,
       "word": "戚百草的草莓发卡是杨洋自费买的",
@@ -1155,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 70773,
+      "num": 100787,
+      "word": "马刺vs掘金",
+      "onboard_time": 1764394582,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 68714,
       "num": 83092,
       "word": "狗狗竟知道磨砂玻璃打湿能看清",
@@ -1195,20 +1227,20 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 65219,
-      "num": 234652,
-      "word": "高校招聘音乐老师被指存在萝卜岗",
-      "onboard_time": 1764392781,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 63495,
       "num": 1163164,
       "word": "Zeus跟Peanut和Faker聚餐",
       "onboard_time": 1764338784,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 62946,
+      "num": 100761,
+      "word": "第一次见还能长按的小猫",
+      "onboard_time": 1764394582,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 61851,
@@ -1395,6 +1427,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44030,
+      "num": 108305,
+      "word": "迪丽热巴陈星旭枭起青壤天台吻",
+      "onboard_time": 1764394761,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43913,
       "num": 691709,
       "word": "陈梦机场变秀场",
@@ -1441,6 +1481,14 @@
       "onboard_time": 1764338245,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 40950,
+      "num": 108735,
+      "word": "陈伟霆发誓应对一切",
+      "onboard_time": 1764394101,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 39843,
@@ -1499,7 +1547,7 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 24905,
+      "raw_hot": 27341,
       "num": 370333,
       "word": "文化中国行文博日历",
       "onboard_time": 1764387980,

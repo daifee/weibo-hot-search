@@ -1,6 +1,6 @@
 {
   "startTime": 1763829087543,
-  "endTime": 1764394027926,
+  "endTime": 1764394983053,
   "band_list": [
     {
       "raw_hot": 16676633,
@@ -1451,6 +1451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 670654,
+      "num": 274829,
+      "word": "刘亦菲易烊千玺合作",
+      "onboard_time": 1764393381,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 666855,
       "num": 251122,
       "word": "陈晓陈妍希新剧对打",
@@ -1881,14 +1889,6 @@
       "onboard_time": 1763894841,
       "rank": 0,
       "category": "体育"
-    },
-    {
-      "raw_hot": 558232,
-      "num": 274829,
-      "word": "刘亦菲易烊千玺合作",
-      "onboard_time": 1764393381,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 556876,
@@ -2939,6 +2939,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 425376,
+      "num": 250208,
+      "word": "木苏里回复",
+      "onboard_time": 1764392781,
+      "rank": 17,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 424541,
       "num": 868983,
       "word": "烧烤店因擅自办演出被罚9万",
@@ -3273,6 +3281,14 @@
       "onboard_time": 1764128242,
       "rank": 34,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 390132,
+      "num": 230473,
+      "word": "白鹿素颜采访",
+      "onboard_time": 1764391101,
+      "rank": 43,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 388147,
@@ -4491,14 +4507,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 297813,
-      "num": 230473,
-      "word": "白鹿素颜采访",
-      "onboard_time": 1764391101,
-      "rank": 43,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 297715,
       "num": 297715,
       "word": "中国大米在日本售价上涨数倍",
@@ -4593,6 +4601,14 @@
       "onboard_time": 1764128781,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 293885,
+      "num": 223378,
+      "word": "胡先煦在国外遇到不尊重人的店员",
+      "onboard_time": 1764391703,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 293741,
@@ -5051,6 +5067,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 268646,
+      "num": 168164,
+      "word": "老板失明后遭全厂背叛",
+      "onboard_time": 1764393681,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 268308,
       "num": 268308,
       "word": "许玮甯亲完邱泽擦掉口红印",
@@ -5483,12 +5507,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250208,
-      "num": 250208,
-      "word": "木苏里回复",
-      "onboard_time": 1764392781,
-      "rank": 17,
-      "category": "读书作家"
+      "raw_hot": 250112,
+      "num": 143829,
+      "word": "王一博粉丝保密协议到期了吗",
+      "onboard_time": 1764394041,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 249927,
@@ -6137,14 +6161,6 @@
       "onboard_time": 1764318203,
       "rank": 27,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 223378,
-      "num": 223378,
-      "word": "胡先煦在国外遇到不尊重人的店员",
-      "onboard_time": 1764391703,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 223055,
@@ -8507,14 +8523,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 168164,
-      "num": 168164,
-      "word": "老板失明后遭全厂背叛",
-      "onboard_time": 1764393681,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 167838,
       "num": 167838,
       "word": "不用做家务的家长什么样",
@@ -10051,6 +10059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144149,
+      "num": 203894,
+      "word": "社区多名干部被指用人脸面具打卡",
+      "onboard_time": 1764392900,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 144121,
       "num": 284342,
       "word": "柯淳紧急撤回一个吐蒜皮",
@@ -11299,14 +11315,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 126528,
-      "num": 203894,
-      "word": "社区多名干部被指用人脸面具打卡",
-      "onboard_time": 1764392900,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 126510,
       "num": 126510,
       "word": "迪丽热巴化妆思梦",
@@ -11521,6 +11529,14 @@
       "onboard_time": 1763969482,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124334,
+      "num": 143623,
+      "word": "以闪亮之名暖冬节",
+      "onboard_time": 1764394701,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 124089,
@@ -12931,6 +12947,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110104,
+      "num": 160118,
+      "word": "JDG官宣Tabe加入",
+      "onboard_time": 1764393981,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 110043,
       "num": 110043,
       "word": "黄景瑜叫范丞丞小东西",
@@ -13057,6 +13081,14 @@
       "onboard_time": 1763901261,
       "rank": 49,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 109253,
+      "num": 162861,
+      "word": "Elk回应离开BLG",
+      "onboard_time": 1764393560,
+      "rank": 37,
+      "category": "电竞"
     },
     {
       "raw_hot": 109086,
@@ -14411,6 +14443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97664,
+      "num": 234652,
+      "word": "高校招聘音乐老师被指存在萝卜岗",
+      "onboard_time": 1764392781,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97607,
       "num": 97607,
       "word": "香港火灾消防处称仍在救援",
@@ -15499,14 +15539,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 87808,
-      "num": 162861,
-      "word": "Elk回应离开BLG",
-      "onboard_time": 1764393560,
-      "rank": 37,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 87738,
       "num": 276414,
       "word": "唐诡奇谭",
@@ -16547,14 +16579,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 75405,
-      "num": 160118,
-      "word": "JDG官宣Tabe加入",
-      "onboard_time": 1764393981,
-      "rank": 49,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 75102,
       "num": 1879872,
       "word": "国新办新闻发布会",
@@ -16849,6 +16873,14 @@
       "onboard_time": 1764155484,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70773,
+      "num": 100787,
+      "word": "马刺vs掘金",
+      "onboard_time": 1764394582,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 70666,
@@ -17179,14 +17211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 65219,
-      "num": 234652,
-      "word": "高校招聘音乐老师被指存在萝卜岗",
-      "onboard_time": 1764392781,
-      "rank": 20,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65211,
       "num": 1101686,
       "word": "孙菲菲前夫质疑99.99%结论的亲子证明",
@@ -17329,6 +17353,14 @@
       "onboard_time": 1764078922,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 62946,
+      "num": 100761,
+      "word": "第一次见还能长按的小猫",
+      "onboard_time": 1764394582,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 62945,
@@ -18459,6 +18491,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 44030,
+      "num": 108305,
+      "word": "迪丽热巴陈星旭枭起青壤天台吻",
+      "onboard_time": 1764394761,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 44026,
       "num": 101312,
       "word": "小诊所用医保卡换豆油和面",
@@ -18641,6 +18681,14 @@
       "onboard_time": 1764045744,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 40950,
+      "num": 108735,
+      "word": "陈伟霆发誓应对一切",
+      "onboard_time": 1764394101,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 40663,
@@ -19467,6 +19515,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 27341,
+      "num": 370333,
+      "word": "文化中国行文博日历",
+      "onboard_time": 1764387980,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27318,
       "num": 112026,
       "word": "大悦城连续三年累计亏损超73亿元",
@@ -19609,14 +19665,6 @@
       "onboard_time": 1764052521,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24905,
-      "num": 370333,
-      "word": "文化中国行文博日历",
-      "onboard_time": 1764387980,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24806,

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 13:27:07
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/29 13:43:03
 </p>
 </blockquote>
 <p>
@@ -4431,6 +4431,12 @@ Uzi颁奖（热度：677194）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E4%BA%A6%E8%8F%B2%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E5%90%88%E4%BD%9C%23" target="weibo">
+刘亦菲易烊千玺合作（热度：670654）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%AD%E7%BE%8E%E7%BE%8E%E8%A2%AB%E5%B0%81%E5%8F%B7%23" target="weibo">
 郭美美被封号（热度：670001）
 </a>
@@ -6005,12 +6011,6 @@ Milkyway 永久禁赛（热度：568304）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E5%BB%89%E6%94%BF%E5%85%AC%E7%BD%B2%E5%85%88%E5%90%8E%E6%8B%98%E6%8D%958%E4%BA%BA%23" target="weibo">
 香港廉政公署先后拘捕8人（热度：564229）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E5%BD%AD%E6%98%B1%E7%95%85%E5%91%A8%E4%BE%9D%E7%84%B6%E9%A2%86%E8%A1%94%E4%B8%BB%E6%BC%94%23" target="weibo">
-肖战彭昱畅周依然领衔主演（热度：564118）
 </a>
 </li>
 
