@@ -1,0 +1,410 @@
+{
+  "runTime": 1764436993035,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 339869,
+        "num": 487781,
+        "word": "假奶粉 奶精加淀粉",
+        "onboard_time": 1764425723,
+        "rank": 0,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 111555,
+        "num": 429163,
+        "word": "公务员考试",
+        "onboard_time": 1764413842,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 31534,
+        "num": 426694,
+        "word": "南北方同步开启干冷模式",
+        "onboard_time": 1764423923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 426321,
+        "num": 426321,
+        "word": "哥的全宇宙 抄袭",
+        "onboard_time": 1764425003,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 61821,
+        "num": 374602,
+        "word": "F1",
+        "onboard_time": 1764427463,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 352559,
+        "num": 352559,
+        "word": "疯狂动物城2票房",
+        "onboard_time": 1764429802,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175830,
+        "num": 349972,
+        "word": "枭起青壤热度",
+        "onboard_time": 1764429384,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82180,
+        "num": 347134,
+        "word": "全国流感阳性率接近45%",
+        "onboard_time": 1764419661,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 79936,
+        "num": 339988,
+        "word": "此前失踪名单中144人确认安全",
+        "onboard_time": 1764408501,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50026,
+        "num": 338820,
+        "word": "李泽言配音 变声期",
+        "onboard_time": 1764423443,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 440691,
+        "num": 331258,
+        "word": "网红老人去世粉丝怀疑因木薯糖水中毒",
+        "onboard_time": 1764425723,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161810,
+        "num": 330340,
+        "word": "八仙子",
+        "onboard_time": 1764433400,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159150,
+        "num": 324564,
+        "word": "兔子朱迪和狐狸尼克是友情还是爱情",
+        "onboard_time": 1764423144,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147012,
+        "num": 318914,
+        "word": "喜人 补录",
+        "onboard_time": 1764425303,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 125331,
+        "num": 316606,
+        "word": "向太说这辈子唯一想知道父亲是谁",
+        "onboard_time": 1764416182,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109806,
+        "num": 313099,
+        "word": "小力士",
+        "onboard_time": 1764432201,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97459,
+        "num": 305940,
+        "word": "女子做磁共振两次黑屏竟因化了妆",
+        "onboard_time": 1764423982,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79401,
+        "num": 304331,
+        "word": "医生提醒两种性格的人容易抑郁",
+        "onboard_time": 1764423563,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 77429,
+        "num": 298607,
+        "word": "韩国街头煮火鸡面",
+        "onboard_time": 1764428844,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 67563,
+        "num": 296907,
+        "word": "香港火灾仍有150人失联",
+        "onboard_time": 1764432862,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 292728,
+        "num": 292728,
+        "word": "我就说何老师还不退休迟早会出事吧",
+        "onboard_time": 1764411683,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95979,
+        "num": 292445,
+        "word": "现在就出发字幕",
+        "onboard_time": 1764432501,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 64643,
+        "num": 292033,
+        "word": "香港人喝的水来自江西这座山",
+        "onboard_time": 1764430703,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58528,
+        "num": 291726,
+        "word": "冬天减肥不想出门怎么办",
+        "onboard_time": 1764432561,
+        "rank": 23,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 58078,
+        "num": 291247,
+        "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
+        "onboard_time": 1764412281,
+        "rank": 24,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 56849,
+        "num": 290822,
+        "word": "流感",
+        "onboard_time": 1764419542,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 56279,
+        "num": 290374,
+        "word": "疯狂动物城2",
+        "onboard_time": 1764420262,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 55774,
+        "num": 290156,
+        "word": "湖南一出生仅22天女婴手术后死亡",
+        "onboard_time": 1764426922,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55318,
+        "num": 289811,
+        "word": "欧阳娜娜去了汪苏泷杭州演唱会",
+        "onboard_time": 1764430881,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 54645,
+        "num": 289080,
+        "word": "上海二手房业主抱团挂出1460万统一价",
+        "onboard_time": 1764428424,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51735,
+        "num": 288823,
+        "word": "日本旅游业被曝很难填补中国游客空白",
+        "onboard_time": 1764412342,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 50953,
+        "num": 288538,
+        "word": "卢昱晓工作室",
+        "onboard_time": 1764414502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50003,
+        "num": 288012,
+        "word": "王鹤棣耳朵红得不行",
+        "onboard_time": 1764428963,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 49745,
+        "num": 287671,
+        "word": "头发自然干vs吹风机吹干",
+        "onboard_time": 1764415762,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48739,
+        "num": 287375,
+        "word": "医生提醒出现这些症状小心是皮肤病",
+        "onboard_time": 1764428903,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 48482,
+        "num": 286732,
+        "word": "三星掌门人之子成为海军翻译官",
+        "onboard_time": 1764432620,
+        "rank": 35,
+        "category": "财经,海外新闻"
+      },
+      {
+        "raw_hot": 48134,
+        "num": 286483,
+        "word": "张函瑞考核第一",
+        "onboard_time": 1764420861,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47134,
+        "num": 286121,
+        "word": "近40位艺人来深圳参加培训",
+        "onboard_time": 1764426084,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47078,
+        "num": 285759,
+        "word": "14岁初中生学校体测倒地后猝死",
+        "onboard_time": 1764422422,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38005,
+        "num": 285312,
+        "word": "中国代表强调对日方必须严加管束",
+        "onboard_time": 1764425843,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 45783,
+        "num": 284900,
+        "word": "多名在日本中国留学生发声",
+        "onboard_time": 1764414622,
+        "rank": 40,
+        "category": "教育,海外新闻"
+      },
+      {
+        "raw_hot": 45016,
+        "num": 284468,
+        "word": "汪苏泷嘉宾宋雨琦",
+        "onboard_time": 1764419903,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 35740,
+        "num": 284097,
+        "word": "数千架空客A320紧急停飞",
+        "onboard_time": 1764422362,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35054,
+        "num": 283649,
+        "word": "24岁40万年薪女儿因为父亲离职",
+        "onboard_time": 1764417741,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33240,
+        "num": 283059,
+        "word": "你好星期六下期继承者之战",
+        "onboard_time": 1764424164,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 33143,
+        "num": 282668,
+        "word": "黄星演唱会",
+        "onboard_time": 1764421522,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 31706,
+        "num": 282419,
+        "word": "敖瑞鹏一个英文单词震慑全场",
+        "onboard_time": 1764422362,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 30737,
+        "num": 282039,
+        "word": "王安宇 骗你的其实最喜欢出片了",
+        "onboard_time": 1764436517,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29666,
+        "num": 281378,
+        "word": "秋冬少买驼色衣服",
+        "onboard_time": 1764414742,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 21076,
+        "num": 281116,
+        "word": "金饰克价一夜再涨10元",
+        "onboard_time": 1764430221,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十三次集体学习#"
+    }
+  }
+}

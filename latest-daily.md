@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 00:46:23
+本榜单时间：2025/11/30 00:31:55 ~ 2025/11/30 01:23:13
 </p>
 </blockquote>
 <p>
@@ -148,7 +148,7 @@ F1（热度：211487）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%B0%E5%9C%A8%E5%B0%B1%E5%87%BA%E5%8F%91%E5%AD%97%E5%B9%95%23" target="weibo">
-现在就出发字幕（热度：95622）
+现在就出发字幕（热度：95979）
 </a>
 </li>
 
@@ -298,7 +298,13 @@ F1（热度：211487）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%97%85%E6%B8%B8%E4%B8%9A%E8%A2%AB%E6%9B%9D%E5%BE%88%E9%9A%BE%E5%A1%AB%E8%A1%A5%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%A9%BA%E7%99%BD%23" target="weibo">
-日本旅游业被曝很难填补中国游客空白（热度：50965）
+日本旅游业被曝很难填补中国游客空白（热度：51735）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E5%90%8D%E5%9C%A8%E6%97%A5%E6%9C%AC%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+多名在日本中国留学生发声（热度：45783）
 </a>
 </li>
 
@@ -315,8 +321,20 @@ F1（热度：211487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%AE%89%E5%AE%87%20%E9%AA%97%E4%BD%A0%E7%9A%84%E5%85%B6%E5%AE%9E%E6%9C%80%E5%96%9C%E6%AC%A2%E5%87%BA%E7%89%87%E4%BA%86%23" target="weibo">
+王安宇 骗你的其实最喜欢出片了（热度：30737）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%87%91%E9%A5%B0%E5%85%8B%E4%BB%B7%E4%B8%80%E5%A4%9C%E5%86%8D%E6%B6%A810%E5%85%83%23" target="weibo">
 金饰克价一夜再涨10元（热度：30504）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A7%8B%E5%86%AC%E5%B0%91%E4%B9%B0%E9%A9%BC%E8%89%B2%E8%A1%A3%E6%9C%8D%23" target="weibo">
+秋冬少买驼色衣服（热度：29666）
 </a>
 </li>
 
