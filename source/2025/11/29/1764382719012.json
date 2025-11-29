@@ -1,0 +1,410 @@
+{
+  "runTime": 1764382719012,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 855573,
+        "num": 1136891,
+        "word": "国考",
+        "onboard_time": 1764377660,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 553063,
+        "num": 553063,
+        "word": "香港大埔火灾已致128人遇难",
+        "onboard_time": 1764313942,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60605,
+        "num": 356230,
+        "word": "网警斩断非法引流黑手",
+        "onboard_time": 1764373458,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 353187,
+        "num": 353187,
+        "word": "黑莲花攻略手册",
+        "onboard_time": 1764374421,
+        "rank": 3,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 196078,
+        "num": 311211,
+        "word": "总裁圈来新人了",
+        "onboard_time": 1764374361,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 649972,
+        "num": 306815,
+        "word": "何美延 梁淞",
+        "onboard_time": 1764378440,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295182,
+        "num": 295182,
+        "word": "普京宣布与乌克兰停火条件",
+        "onboard_time": 1764346641,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 283370,
+        "num": 283370,
+        "word": "女子被造黄谣失业离婚仅获道歉",
+        "onboard_time": 1764373279,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222921,
+        "num": 222921,
+        "word": "香港举行悼念活动",
+        "onboard_time": 1764376040,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 65640,
+        "num": 219529,
+        "word": "英特尔大涨超10%",
+        "onboard_time": 1764379640,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 847608,
+        "num": 217581,
+        "word": "当年真的错怪蒋欣了",
+        "onboard_time": 1764343162,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 609362,
+        "num": 214947,
+        "word": "男孩将妈妈结婚金项链分段送给同学",
+        "onboard_time": 1764377601,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 438062,
+        "num": 210176,
+        "word": "樊振东说去欧洲为远离不好的事",
+        "onboard_time": 1764377720,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 291658,
+        "num": 206620,
+        "word": "徐艺洋 秀场比婚礼好看是因为美颜",
+        "onboard_time": 1764379282,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 291240,
+        "num": 202291,
+        "word": "李兰迪右边胳膊的是胎记",
+        "onboard_time": 1764377060,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200241,
+        "num": 200241,
+        "word": "张艺兴怎么着都得卖一套房",
+        "onboard_time": 1764375140,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199027,
+        "num": 199027,
+        "word": "上班时间禁止偷吃同事",
+        "onboard_time": 1764373279,
+        "rank": 16,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 170974,
+        "num": 170974,
+        "word": "王晶曝演艺圈评奖内幕",
+        "onboard_time": 1764375259,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161372,
+        "num": 161372,
+        "word": "原来熊猫真的可以骑",
+        "onboard_time": 1764374361,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 156419,
+        "num": 156419,
+        "word": "疯狂动物城2内地票房破10亿",
+        "onboard_time": 1764382281,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 232578,
+        "num": 156206,
+        "word": "日本民众称日中关系不断恶化",
+        "onboard_time": 1764378860,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212859,
+        "num": 156037,
+        "word": "俄罗斯取代日本成中国游客新宠",
+        "onboard_time": 1764380720,
+        "rank": 21,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 201466,
+        "num": 155965,
+        "word": "20岁女子月经不规律7年查出癌症",
+        "onboard_time": 1764372378,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160391,
+        "num": 155606,
+        "word": "刘宪华曾是张艺兴老师",
+        "onboard_time": 1764381260,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155538,
+        "num": 155538,
+        "word": "印度集体婚礼上因抢薯片发生踩踏",
+        "onboard_time": 1764377780,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 150244,
+        "num": 150244,
+        "word": "4种素菜其实是热量刺客",
+        "onboard_time": 1764372979,
+        "rank": 25,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 128419,
+        "num": 128419,
+        "word": "张婧仪 哪有人啊",
+        "onboard_time": 1764381500,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126371,
+        "num": 126371,
+        "word": "5岁女儿游乐园遭电击进ICU母亲发声",
+        "onboard_time": 1764373399,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104220,
+        "num": 116599,
+        "word": "金饰克价涨至1338元",
+        "onboard_time": 1764381861,
+        "rank": 28,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 98922,
+        "num": 112714,
+        "word": "东京电视台王楚钦宣传片",
+        "onboard_time": 1764381621,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112099,
+        "num": 112099,
+        "word": "漫蛙崩了",
+        "onboard_time": 1764377420,
+        "rank": 30,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 112018,
+        "num": 112018,
+        "word": "8岁女孩用上3D打印的新鼻子",
+        "onboard_time": 1764381861,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103760,
+        "num": 103760,
+        "word": "黄金加速上涨",
+        "onboard_time": 1764373158,
+        "rank": 32,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 101118,
+        "num": 101118,
+        "word": "普京不懂G7为啥叫七大国",
+        "onboard_time": 1764377840,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 93059,
+        "num": 93059,
+        "word": "28岁确诊结肠癌晚期的真实感受",
+        "onboard_time": 1764337405,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 92103,
+        "num": 92103,
+        "word": "小猫坏事做尽",
+        "onboard_time": 1764382461,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90808,
+        "num": 90808,
+        "word": "马斯克坐在特朗普身旁共进晚餐",
+        "onboard_time": 1764378802,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88523,
+        "num": 88523,
+        "word": "香港下半旗志哀",
+        "onboard_time": 1764380120,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81766,
+        "num": 81766,
+        "word": "许玮甯亲完邱泽擦掉口红印",
+        "onboard_time": 1764335723,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80738,
+        "num": 80738,
+        "word": "当我不小心点开一个鸡窝的评论",
+        "onboard_time": 1764382520,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 79222,
+        "num": 79222,
+        "word": "这些都是谈恋爱最基本的",
+        "onboard_time": 1764378140,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 73411,
+        "num": 73411,
+        "word": "得闲谨制预售票房破1500万",
+        "onboard_time": 1764382281,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72454,
+        "num": 72454,
+        "word": "第一次在综艺里看送房产证的",
+        "onboard_time": 1764350238,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 71146,
+        "num": 71146,
+        "word": "日媒制作的孙颖莎宣传片",
+        "onboard_time": 1764382700,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69817,
+        "num": 69817,
+        "word": "白敬亭穿的是红秋衣吗",
+        "onboard_time": 1764376280,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 66444,
+        "num": 69782,
+        "word": "女子处理海鲜被刺伤导致多器官衰竭",
+        "onboard_time": 1764380241,
+        "rank": 45,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 64678,
+        "num": 69777,
+        "word": "这个器官年轻的人更长寿",
+        "onboard_time": 1764377780,
+        "rank": 46,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 61802,
+        "num": 69737,
+        "word": "俄罗斯多次对日本发出警告",
+        "onboard_time": 1764362894,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61770,
+        "num": 69688,
+        "word": "疑似范丞丞趁机表白",
+        "onboard_time": 1764332244,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 57620,
+        "num": 69657,
+        "word": "库里股四头肌挫伤及肌肉拉伤",
+        "onboard_time": 1764382641,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局召开会议#"
+    }
+  }
+}
