@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 22:40:41
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 23:25:42
 </p>
 </blockquote>
 <p>
@@ -951,6 +951,12 @@ Uzi 拿奖杯（热度：1474589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%20%E9%9D%A2%E6%97%A0%E8%A1%A8%E6%83%85%E6%8A%8A%E8%80%81%E5%85%AC%E6%8C%A4%E5%BC%80%23" target="weibo">
+朱珠 面无表情把老公挤开（热度：1452573）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8E%92%E9%AA%A8%E7%BE%BD%E7%BB%92%E6%9C%8D%23" target="weibo">
 排骨羽绒服（热度：1447691）
 </a>
@@ -1559,6 +1565,12 @@ Tim父亲 圆通总裁（热度：1346310）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AB%E5%A6%BB%E5%85%A5%E4%BD%8F%E5%B8%8C%E5%B0%94%E9%A1%BF%E9%85%92%E5%BA%97%E5%8D%8A%E5%A4%9C%E9%81%AD%E8%B5%A4%E8%BA%AB%E7%94%B7%E9%97%AF%E5%85%A5%23" target="weibo">
 夫妻入住希尔顿酒店半夜遭赤身男闯入（热度：1180605）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%98%A6%E6%88%90%E7%BA%B8%E7%89%87%E4%BA%BA%23" target="weibo">
+凯特王妃瘦成纸片人（热度：1179598）
 </a>
 </li>
 
@@ -2375,6 +2387,12 @@ T1管理层（热度：999897）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%96%B9%E6%9A%82%E5%81%9C%E6%97%A5%E6%9C%AC%E7%94%B5%E5%BD%B1%E5%9C%A8%E5%8D%8E%E4%B8%8A%E6%98%A0%E5%AE%A1%E6%89%B9%23" target="weibo">
 中方暂停日本电影在华上映审批（热度：956872）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%986%E4%B8%AA%E6%9C%88%E7%83%A7%E6%8E%89%E8%BF%91800%E4%BA%BF%23" target="weibo">
+外卖大战6个月烧掉近800亿（热度：951929）
 </a>
 </li>
 
@@ -5913,12 +5931,6 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%986%E4%B8%AA%E6%9C%88%E7%83%A7%E6%8E%89%E8%BF%91800%E4%BA%BF%23" target="weibo">
-外卖大战6个月烧掉近800亿（热度：587267）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%A9%99%E5%AD%90%E5%A7%90%E5%A7%90%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E8%AF%88%E8%A2%AB%E6%8A%93%23" target="weibo">
 网红橙子姐姐在柬埔寨涉诈被抓（热度：586835）
 </a>
@@ -5999,18 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9C%8D%E9%9C%87%E9%9C%86%E6%9C%B1%E7%8E%B2%E7%8E%B2%E9%9C%8D%E5%90%AF%E5%88%9A%E7%8E%B0%E8%BA%AB%E9%9C%8D%E5%90%AF%E4%BB%81%E5%A9%9A%E7%A4%BC%23" target="weibo">
 霍震霆朱玲玲霍启刚现身霍启仁婚礼（热度：581387）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E7%8F%A0%E8%AF%B4%E6%B2%A1%E5%85%B3%E7%B3%BB%E6%97%A9%E5%B0%B1%E7%BF%BB%E4%BA%86%23" target="weibo">
-朱珠说没关系早就翻了（热度：581199）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%20%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9A%84%E6%9B%B2%E7%AD%B1%E7%BB%A1%23" target="weibo">
-乔欣 现实版的曲筱绡（热度：580326）
 </a>
 </li>
 
