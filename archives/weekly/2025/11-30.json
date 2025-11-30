@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764520309108,
+  "endTime": 1764521161891,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -11,19 +11,19 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2134222,
+      "num": 147081,
+      "word": "女性生育3到4个子女死亡风险最低",
+      "onboard_time": 1764519141,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1837550,
       "num": 1158249,
       "word": "香港火灾已致146人遇难",
       "onboard_time": 1764495141,
       "rank": 4,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1626832,
-      "num": 147081,
-      "word": "女性生育3到4个子女死亡风险最低",
-      "onboard_time": 1764519141,
-      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 364071,
+      "num": 142555,
+      "word": "神20返回舱玻璃裂纹是个三角形",
+      "onboard_time": 1764518301,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362959,
       "num": 362959,
       "word": "卖手机壳比卖手机还赚钱",
@@ -649,14 +657,6 @@
       "onboard_time": 1764512422,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 319023,
-      "num": 142555,
-      "word": "神20返回舱玻璃裂纹是个三角形",
-      "onboard_time": 1764518301,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 318526,
@@ -1947,6 +1947,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 120752,
+      "num": 120752,
+      "word": "邓为晒素颜自拍",
+      "onboard_time": 1764520818,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120613,
       "num": 120613,
       "word": "男子藏境外贩毒被毒贩锁在山洞",
@@ -2115,6 +2123,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115478,
+      "num": 115478,
+      "word": "手机壳爱马仕一年狂卖36亿",
+      "onboard_time": 1764519441,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114934,
       "num": 114934,
       "word": "女生当话务员50天涉电诈获刑3年",
@@ -2241,6 +2257,14 @@
       "onboard_time": 1764511103,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111085,
+      "num": 111085,
+      "word": "陈星旭工作室找不到陈星旭了",
+      "onboard_time": 1764519979,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 111024,
@@ -3227,16 +3251,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 65240,
-      "num": 65409,
-      "word": "手机壳爱马仕一年狂卖36亿",
-      "onboard_time": 1764519441,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 65209,
-      "num": 65209,
+      "num": 91453,
       "word": "工程监理方接受有偿陪侍底线何在",
       "onboard_time": 1764517821,
       "rank": 42,
@@ -3299,14 +3315,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 60539,
-      "num": 60539,
-      "word": "陈星旭工作室找不到陈星旭了",
-      "onboard_time": 1764519979,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 59397,
       "num": 338820,
       "word": "李泽言配音 变声期",
@@ -3321,6 +3329,14 @@
       "onboard_time": 1764483201,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 58294,
+      "num": 91650,
+      "word": "在汪苏泷杭州演唱会偶遇李一桐",
+      "onboard_time": 1764520638,
+      "rank": 39,
+      "category": "演出"
     },
     {
       "raw_hot": 58192,
@@ -3441,6 +3457,14 @@
       "onboard_time": 1764471980,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 51151,
+      "num": 91395,
+      "word": "方圆拍短剧花钱找配音",
+      "onboard_time": 1764520398,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 51081,
@@ -3585,6 +3609,14 @@
       "onboard_time": 1764436517,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 36566,
+      "num": 91225,
+      "word": "王昶陈旭君2比1刘毅曾维瀚",
+      "onboard_time": 1764520879,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 36240,

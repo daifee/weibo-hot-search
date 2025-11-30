@@ -1,0 +1,410 @@
+{
+  "runTime": 1764521161891,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 522407,
+        "num": 743741,
+        "word": "外卖大战6个月烧掉近800亿",
+        "onboard_time": 1764511882,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131927,
+        "num": 131927,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 51318,
+        "num": 131923,
+        "word": "黄土高原变绿了",
+        "onboard_time": 1764507263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 289767,
+        "num": 131782,
+        "word": "疯狂动物城 邦邦硬DQ冰激凌",
+        "onboard_time": 1764494122,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50209,
+        "num": 131750,
+        "word": "国考结束",
+        "onboard_time": 1764495679,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 253956,
+        "num": 131702,
+        "word": "幼师等招聘可依法查询吸毒记录",
+        "onboard_time": 1764511641,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140944,
+        "num": 131613,
+        "word": "香港火灾已致146人遇难",
+        "onboard_time": 1764495141,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 131552,
+        "num": 131552,
+        "word": "疯狂动物城",
+        "onboard_time": 1764515421,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 129323,
+        "num": 129323,
+        "word": "TheShy说赢了T1就能进决赛",
+        "onboard_time": 1764512062,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218711,
+        "num": 128652,
+        "word": "疑似王鹤棣退出将门毒后",
+        "onboard_time": 1764507981,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2134222,
+        "num": 127656,
+        "word": "女性生育3到4个子女死亡风险最低",
+        "onboard_time": 1764519141,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 742678,
+        "num": 126584,
+        "word": "朱珠 面无表情把老公挤开",
+        "onboard_time": 1764512722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 511318,
+        "num": 125719,
+        "word": "凯特王妃瘦成纸片人",
+        "onboard_time": 1764513022,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 364071,
+        "num": 125162,
+        "word": "神20返回舱玻璃裂纹是个三角形",
+        "onboard_time": 1764518301,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 318226,
+        "num": 124426,
+        "word": "暨南大学 学生宿舍装安检",
+        "onboard_time": 1764515601,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274506,
+        "num": 123349,
+        "word": "爱马仕继承人被25年财管好友骗光财产",
+        "onboard_time": 1764516441,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 229108,
+        "num": 122218,
+        "word": "沈腾的征信都扫不了共享单车",
+        "onboard_time": 1764510023,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121966,
+        "num": 121966,
+        "word": "杨紫的家业还是太火了",
+        "onboard_time": 1764509421,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120752,
+        "num": 120752,
+        "word": "邓为晒素颜自拍",
+        "onboard_time": 1764520818,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117153,
+        "num": 117153,
+        "word": "让劣迹网红的复出试探无处遁形",
+        "onboard_time": 1764505641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362598,
+        "num": 116917,
+        "word": "王嘉尔自曝恋爱经历",
+        "onboard_time": 1764504381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168274,
+        "num": 116298,
+        "word": "巴西女子产下双胞胎孩子父亲却不同",
+        "onboard_time": 1764515063,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 115478,
+        "num": 115478,
+        "word": "手机壳爱马仕一年狂卖36亿",
+        "onboard_time": 1764519441,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111085,
+        "num": 111085,
+        "word": "陈星旭工作室找不到陈星旭了",
+        "onboard_time": 1764519979,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109168,
+        "num": 109168,
+        "word": "将门毒后",
+        "onboard_time": 1764512422,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108568,
+        "num": 108568,
+        "word": "车澈回应与李嘉格离婚",
+        "onboard_time": 1764489980,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100096,
+        "num": 100096,
+        "word": "画梅一夜掉粉超190万",
+        "onboard_time": 1764496220,
+        "rank": 26,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 96509,
+        "num": 96509,
+        "word": "郑乃馨疑似回应分手",
+        "onboard_time": 1764507743,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97593,
+        "num": 96377,
+        "word": "陈星旭说迪丽热巴私下里性格可爱",
+        "onboard_time": 1764516081,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 95989,
+        "num": 95989,
+        "word": "当事人回应洛杉矶街头现饿了么骑手",
+        "onboard_time": 1764518000,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 101853,
+        "num": 95956,
+        "word": "路人偶遇Angelababy接小海绵放学",
+        "onboard_time": 1764509843,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95576,
+        "num": 95576,
+        "word": "中国游客在美国商场遇枪击躲试衣间",
+        "onboard_time": 1764513082,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91918,
+        "num": 91918,
+        "word": "白桃星座",
+        "onboard_time": 1764514220,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78521,
+        "num": 91905,
+        "word": "get到向涵之了",
+        "onboard_time": 1764516981,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70720,
+        "num": 91865,
+        "word": "皮皮朱回怼女人独立要男人干啥",
+        "onboard_time": 1764512062,
+        "rank": 34,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 69100,
+        "num": 91817,
+        "word": "长期没穿的衣服藏健康隐患",
+        "onboard_time": 1764503541,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67859,
+        "num": 91784,
+        "word": "梁伟铿回应缺席刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764513623,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60801,
+        "num": 91713,
+        "word": "肖战超长款羽绒服",
+        "onboard_time": 1764509782,
+        "rank": 37,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 59542,
+        "num": 91712,
+        "word": "华晨宇 你们在哪家就在哪",
+        "onboard_time": 1764513623,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58294,
+        "num": 91650,
+        "word": "在汪苏泷杭州演唱会偶遇李一桐",
+        "onboard_time": 1764520638,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 57140,
+        "num": 91613,
+        "word": "疯狂动物城2的翻译完全天才来的",
+        "onboard_time": 1764500181,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56678,
+        "num": 91547,
+        "word": "iG纪录片",
+        "onboard_time": 1764510381,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 56264,
+        "num": 91507,
+        "word": "陈楚生演唱会",
+        "onboard_time": 1764516981,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 55322,
+        "num": 91476,
+        "word": "范丞丞工伤",
+        "onboard_time": 1764505940,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 53138,
+        "num": 91453,
+        "word": "工程监理方接受有偿陪侍底线何在",
+        "onboard_time": 1764517821,
+        "rank": 44,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 51151,
+        "num": 91395,
+        "word": "方圆拍短剧花钱找配音",
+        "onboard_time": 1764520398,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 51149,
+        "num": 91367,
+        "word": "假奶粉涉事老板称也怕会吃出人命",
+        "onboard_time": 1764513323,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39546,
+        "num": 91323,
+        "word": "仙逆",
+        "onboard_time": 1764500120,
+        "rank": 47,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 37860,
+        "num": 91269,
+        "word": "刘少昂世巡赛1000米摘银",
+        "onboard_time": 1764516021,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 36566,
+        "num": 91225,
+        "word": "王昶陈旭君2比1刘毅曾维瀚",
+        "onboard_time": 1764520879,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平部署加强网络生态治理#"
+    }
+  }
+}
