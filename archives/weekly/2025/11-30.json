@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764517149487,
+  "endTime": 1764520309108,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -16,6 +16,14 @@
       "word": "香港火灾已致146人遇难",
       "onboard_time": 1764495141,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1626832,
+      "num": 147081,
+      "word": "女性生育3到4个子女死亡风险最低",
+      "onboard_time": 1764519141,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -427,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 434499,
+      "num": 199771,
+      "word": "暨南大学 学生宿舍装安检",
+      "onboard_time": 1764515601,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 433000,
       "num": 433000,
       "word": "终于有古装剧把消杀步骤拍出来了",
@@ -595,6 +611,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 346505,
+      "num": 143240,
+      "word": "爱马仕继承人被25年财管好友骗光财产",
+      "onboard_time": 1764516441,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 341149,
       "num": 189396,
       "word": "李诞痛骂总有负面思想的女生",
@@ -625,6 +649,14 @@
       "onboard_time": 1764512422,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 319023,
+      "num": 142555,
+      "word": "神20返回舱玻璃裂纹是个三角形",
+      "onboard_time": 1764518301,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 318526,
@@ -1145,14 +1177,6 @@
       "onboard_time": 1764433400,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181336,
-      "num": 199771,
-      "word": "暨南大学 学生宿舍装安检",
-      "onboard_time": 1764515601,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181233,
@@ -2539,12 +2563,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 96685,
+      "num": 96685,
+      "word": "get到向涵之了",
+      "onboard_time": 1764516981,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96597,
       "num": 96597,
       "word": "Deft近况",
       "onboard_time": 1764511463,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 96545,
+      "num": 96545,
+      "word": "当事人回应洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764518000,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 95979,
@@ -2875,14 +2915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 84620,
-      "num": 84620,
-      "word": "get到向涵之了",
-      "onboard_time": 1764516981,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 84594,
       "num": 84594,
       "word": "从伴侣就能看出女生爱自己的程度",
@@ -2961,6 +2993,14 @@
       "onboard_time": 1764516921,
       "rank": 47,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 81939,
+      "num": 81939,
+      "word": "声鸣远扬选手回应撞脸朱一龙",
+      "onboard_time": 1764519082,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 81709,
@@ -3179,20 +3219,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67396,
-      "num": 95744,
-      "word": "爱马仕继承人被25年财管好友骗光财产",
-      "onboard_time": 1764516441,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 67389,
       "num": 313433,
       "word": "日本旅游业被曝很难填补中国游客空白",
       "onboard_time": 1764412342,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 65240,
+      "num": 65409,
+      "word": "手机壳爱马仕一年狂卖36亿",
+      "onboard_time": 1764519441,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 65209,
+      "num": 65209,
+      "word": "工程监理方接受有偿陪侍底线何在",
+      "onboard_time": 1764517821,
+      "rank": 42,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 64680,
@@ -3241,6 +3289,22 @@
       "onboard_time": 1764490700,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62120,
+      "num": 62120,
+      "word": "汪苏泷给场外观众准备了姜茶",
+      "onboard_time": 1764519559,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 60539,
+      "num": 60539,
+      "word": "陈星旭工作室找不到陈星旭了",
+      "onboard_time": 1764519979,
+      "rank": 44,
+      "category": "剧集"
     },
     {
       "raw_hot": 59397,
