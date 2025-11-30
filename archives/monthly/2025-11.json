@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764499351696,
+  "endTime": 1764501710014,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -756,7 +756,7 @@
     },
     {
       "raw_hot": 1837550,
-      "num": 1101255,
+      "num": 1158249,
       "word": "香港火灾已致146人遇难",
       "onboard_time": 1764495141,
       "rank": 4,
@@ -4443,6 +4443,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 794683,
+      "num": 292737,
+      "word": "内娱女爱豆自曝回归期变美是做医美",
+      "onboard_time": 1764498742,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 793441,
       "num": 302402,
       "word": "小孩试戴金镯子10秒被要求赔偿千元",
@@ -6849,6 +6857,14 @@
       "onboard_time": 1762240400,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 630424,
+      "num": 1118196,
+      "word": "申论 写笑了",
+      "onboard_time": 1764496581,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 630396,
@@ -9867,14 +9883,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 508977,
-      "num": 1118196,
-      "word": "申论 写笑了",
-      "onboard_time": 1764496581,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 508844,
       "num": 508844,
       "word": "高市早苗是靖国神社常客",
@@ -12249,6 +12257,14 @@
       "onboard_time": 1764230062,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 441678,
+      "num": 312872,
+      "word": "疯狂动物城2的翻译完全天才来的",
+      "onboard_time": 1764500181,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 441531,
@@ -19587,6 +19603,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 302755,
+      "num": 288493,
+      "word": "妈妈为戳洞娃买下全部蛋糕",
+      "onboard_time": 1764499402,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 302650,
       "num": 995178,
       "word": "狂野时代预售票房破亿",
@@ -21001,6 +21025,14 @@
       "onboard_time": 1763985200,
       "rank": 21,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 286245,
+      "num": 286245,
+      "word": "鲁师傅烧饼",
+      "onboard_time": 1764497360,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 286203,
@@ -23393,6 +23425,14 @@
       "onboard_time": 1762393400,
       "rank": 25,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 258070,
+      "num": 258070,
+      "word": "阿油宣布陈怡账号停更",
+      "onboard_time": 1764499941,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 258066,
@@ -28331,14 +28371,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 209932,
-      "num": 209932,
-      "word": "内娱女爱豆自曝回归期变美是做医美",
-      "onboard_time": 1764498742,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 209923,
       "num": 209923,
       "word": "时代峰峻旗下公司经营异常",
@@ -33147,6 +33179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188159,
+      "num": 188159,
+      "word": "唐诡 蜀道",
+      "onboard_time": 1764500782,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188128,
       "num": 188128,
       "word": "水泥寿命只有50年",
@@ -35147,14 +35187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 179727,
-      "num": 179727,
-      "word": "鲁师傅烧饼",
-      "onboard_time": 1764497360,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 179638,
       "num": 521113,
       "word": "四喜老公没了婆婆老实了",
@@ -36585,6 +36617,14 @@
       "onboard_time": 1762569560,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172748,
+      "num": 172748,
+      "word": "仙逆",
+      "onboard_time": 1762082661,
+      "rank": 27,
+      "category": "动漫"
     },
     {
       "raw_hot": 172704,
@@ -42977,14 +43017,6 @@
       "onboard_time": 1763284042,
       "rank": 28,
       "category": "电影"
-    },
-    {
-      "raw_hot": 151324,
-      "num": 151324,
-      "word": "仙逆",
-      "onboard_time": 1762082661,
-      "rank": 27,
-      "category": "动漫"
     },
     {
       "raw_hot": 151304,
@@ -57131,6 +57163,14 @@
       "category": "互联网,作品衍生"
     },
     {
+      "raw_hot": 117763,
+      "num": 117763,
+      "word": "兔子这一眼给我笑富了",
+      "onboard_time": 1764500540,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117762,
       "num": 117762,
       "word": "JackeyLove舞台首秀",
@@ -58883,6 +58923,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "疯狂动物城撞脸真人版",
+      "onboard_time": 1764501021,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114598,
       "num": 138501,
       "word": "唐诡3就这个提更加更爽",
@@ -59537,6 +59585,14 @@
       "onboard_time": 1762318702,
       "rank": 41,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113226,
+      "num": 113226,
+      "word": "国际乒联官方回顾国乒混团首胜",
+      "onboard_time": 1764500420,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 113211,
@@ -70907,6 +70963,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95695,
+      "num": 131118,
+      "word": "美国在测试委内瑞拉承压能力",
+      "onboard_time": 1764499941,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95686,
       "num": 107831,
       "word": "WTT香港总决赛最新参赛资格名单",
@@ -76027,6 +76091,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 88111,
+      "num": 88111,
+      "word": "申论大作文 抄材料",
+      "onboard_time": 1764499702,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 88109,
       "num": 88109,
       "word": "其实过得幸福花不了太多钱",
@@ -76289,6 +76361,14 @@
       "onboard_time": 1762218380,
       "rank": 46,
       "category": "财经"
+    },
+    {
+      "raw_hot": 87684,
+      "num": 87684,
+      "word": "陈梦在新的领域闪闪发光",
+      "onboard_time": 1764501622,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 87670,
@@ -77873,6 +77953,14 @@
       "onboard_time": 1763606542,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85637,
+      "num": 85637,
+      "word": "日本8比1澳大利亚",
+      "onboard_time": 1764500361,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85612,
@@ -92889,6 +92977,14 @@
       "onboard_time": 1762488859,
       "rank": 19,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 46633,
+      "num": 184021,
+      "word": "多国最新涉台表态",
+      "onboard_time": 1764501141,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46569,

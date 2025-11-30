@@ -1,0 +1,410 @@
+{
+  "runTime": 1764501710014,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 989060,
+        "num": 1158249,
+        "word": "香港火灾已致146人遇难",
+        "onboard_time": 1764495141,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103252,
+        "num": 1126222,
+        "word": "静电可以给手机充电吗",
+        "onboard_time": 1764491000,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 37790,
+        "num": 1038859,
+        "word": "神21乘组首次全系统压力应急演练",
+        "onboard_time": 1764493581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 802433,
+        "num": 1002611,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 630424,
+        "num": 897758,
+        "word": "申论 写笑了",
+        "onboard_time": 1764496581,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 890060,
+        "num": 890060,
+        "word": "疯狂动物城 邦邦硬DQ冰激凌",
+        "onboard_time": 1764494122,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 315087,
+        "num": 315087,
+        "word": "25岁小伙上吐下泻下班后离世",
+        "onboard_time": 1764489623,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441678,
+        "num": 312872,
+        "word": "疯狂动物城2的翻译完全天才来的",
+        "onboard_time": 1764500181,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302140,
+        "num": 302140,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 299056,
+        "num": 299056,
+        "word": "申论大作文",
+        "onboard_time": 1764494603,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 794683,
+        "num": 292737,
+        "word": "内娱女爱豆自曝回归期变美是做医美",
+        "onboard_time": 1764498742,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484934,
+        "num": 289594,
+        "word": "画梅一夜掉粉超190万",
+        "onboard_time": 1764496220,
+        "rank": 11,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 302755,
+        "num": 288493,
+        "word": "妈妈为戳洞娃买下全部蛋糕",
+        "onboard_time": 1764499402,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286245,
+        "num": 286245,
+        "word": "鲁师傅烧饼",
+        "onboard_time": 1764497360,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 258070,
+        "num": 258070,
+        "word": "阿油宣布陈怡账号停更",
+        "onboard_time": 1764499941,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 250349,
+        "num": 250349,
+        "word": "孟子义 草莓大福",
+        "onboard_time": 1764496401,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 223994,
+        "num": 223994,
+        "word": "高市早苗再次有意犯错",
+        "onboard_time": 1764489201,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188159,
+        "num": 188159,
+        "word": "唐诡 蜀道",
+        "onboard_time": 1764500782,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 185159,
+        "num": 185159,
+        "word": "徐璐变美了",
+        "onboard_time": 1764490581,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46633,
+        "num": 184021,
+        "word": "多国最新涉台表态",
+        "onboard_time": 1764501141,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 462557,
+        "num": 180825,
+        "word": "车澈回应与李嘉格离婚",
+        "onboard_time": 1764489980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 366149,
+        "num": 178314,
+        "word": "李诞首度自曝为什么不要孩子",
+        "onboard_time": 1764484223,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278395,
+        "num": 176329,
+        "word": "赵丽颖 我即剧名",
+        "onboard_time": 1764486980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 175103,
+        "num": 175103,
+        "word": "国考结束",
+        "onboard_time": 1764495679,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 172748,
+        "num": 172748,
+        "word": "仙逆",
+        "onboard_time": 1764500120,
+        "rank": 24,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 169429,
+        "num": 169429,
+        "word": "潘展乐回应未出席黄雅琼刘雨辰婚礼",
+        "onboard_time": 1764495201,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164765,
+        "num": 164765,
+        "word": "真人版疯狂动物城",
+        "onboard_time": 1764489919,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 143260,
+        "num": 143260,
+        "word": "刘诗诗仙女盘发",
+        "onboard_time": 1764492501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141179,
+        "num": 141179,
+        "word": "邓为失踪人口回归",
+        "onboard_time": 1764498981,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79742,
+        "num": 139002,
+        "word": "谁来启源街球的黄金时代",
+        "onboard_time": 1764498802,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138250,
+        "num": 138250,
+        "word": "汪顺在黄雅琼婚礼挖游泳苗子",
+        "onboard_time": 1764489142,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 95695,
+        "num": 131118,
+        "word": "美国在测试委内瑞拉承压能力",
+        "onboard_time": 1764499941,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 128633,
+        "num": 128633,
+        "word": "孩子考44爷爷在试卷上致歉",
+        "onboard_time": 1764497661,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127687,
+        "num": 127687,
+        "word": "申论",
+        "onboard_time": 1764474502,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126814,
+        "num": 126814,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117763,
+        "num": 117763,
+        "word": "兔子这一眼给我笑富了",
+        "onboard_time": 1764500540,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117208,
+        "num": 117208,
+        "word": "原来方圆脸这么好出片",
+        "onboard_time": 1764486801,
+        "rank": 36,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 114645,
+        "num": 114645,
+        "word": "疯狂动物城撞脸真人版",
+        "onboard_time": 1764501021,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113226,
+        "num": 113226,
+        "word": "国际乒联官方回顾国乒混团首胜",
+        "onboard_time": 1764500420,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111767,
+        "num": 111767,
+        "word": "家属称25岁去世小伙生前过度加班",
+        "onboard_time": 1764489500,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110648,
+        "num": 110648,
+        "word": "一天中4个时刻不建议洗头",
+        "onboard_time": 1764487161,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109814,
+        "num": 109814,
+        "word": "陈伟霆说基本上全世界男人都这样",
+        "onboard_time": 1764479542,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102746,
+        "num": 102746,
+        "word": "山东话 稍微一等",
+        "onboard_time": 1764494542,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 95263,
+        "num": 95263,
+        "word": "新白粉丝质问叶童",
+        "onboard_time": 1764483021,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 89776,
+        "num": 89776,
+        "word": "中国人民不答应中国军队不答应",
+        "onboard_time": 1764478461,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88111,
+        "num": 88111,
+        "word": "申论大作文 抄材料",
+        "onboard_time": 1764499702,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87684,
+        "num": 87684,
+        "word": "陈梦在新的领域闪闪发光",
+        "onboard_time": 1764501622,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87194,
+        "num": 87194,
+        "word": "枭起青壤",
+        "onboard_time": 1764498802,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85994,
+        "num": 85994,
+        "word": "郭晋安离开TVB",
+        "onboard_time": 1764499040,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85637,
+        "num": 85637,
+        "word": "日本8比1澳大利亚",
+        "onboard_time": 1764500361,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续营造风清气正的网络空间#"
+    }
+  }
+}

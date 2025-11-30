@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764499351696,
+  "endTime": 1764501710014,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1837550,
-      "num": 1101255,
+      "num": 1158249,
       "word": "香港火灾已致146人遇难",
       "onboard_time": 1764495141,
       "rank": 4,
@@ -115,6 +115,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 794683,
+      "num": 292737,
+      "word": "内娱女爱豆自曝回归期变美是做医美",
+      "onboard_time": 1764498742,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 791999,
       "num": 1126719,
       "word": "高市早苗再次有意犯错",
@@ -153,6 +161,14 @@
       "onboard_time": 1764425723,
       "rank": 0,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 630424,
+      "num": 1118196,
+      "word": "申论 写笑了",
+      "onboard_time": 1764496581,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 630396,
@@ -267,14 +283,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 508977,
-      "num": 1118196,
-      "word": "申论 写笑了",
-      "onboard_time": 1764496581,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 501240,
       "num": 237537,
       "word": "喻言 小孩哥顶级过肺",
@@ -313,6 +321,14 @@
       "onboard_time": 1764486801,
       "rank": 30,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 441678,
+      "num": 312872,
+      "word": "疯狂动物城2的翻译完全天才来的",
+      "onboard_time": 1764500181,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 433000,
@@ -499,6 +515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 302755,
+      "num": 288493,
+      "word": "妈妈为戳洞娃买下全部蛋糕",
+      "onboard_time": 1764499402,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 295192,
       "num": 295192,
       "word": "孟子义 草莓大福",
@@ -544,6 +568,14 @@
       "word": "国考结束",
       "onboard_time": 1764495679,
       "rank": 8,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 286245,
+      "num": 286245,
+      "word": "鲁师傅烧饼",
+      "onboard_time": 1764497360,
+      "rank": 41,
       "category": "教育"
     },
     {
@@ -609,6 +641,14 @@
       "onboard_time": 1764468620,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258070,
+      "num": 258070,
+      "word": "阿油宣布陈怡账号停更",
+      "onboard_time": 1764499941,
+      "rank": 14,
+      "category": "网红"
     },
     {
       "raw_hot": 237865,
@@ -731,14 +771,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209932,
-      "num": 209932,
-      "word": "内娱女爱豆自曝回归期变美是做医美",
-      "onboard_time": 1764498742,
-      "rank": 15,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 207934,
       "num": 142502,
       "word": "黄圣依妈妈道歉说我爱你不容易",
@@ -851,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188159,
+      "num": 188159,
+      "word": "唐诡 蜀道",
+      "onboard_time": 1764500782,
+      "rank": 17,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187162,
       "num": 135300,
       "word": "王楚钦代表运动员宣誓",
@@ -915,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 179727,
-      "num": 179727,
-      "word": "鲁师傅烧饼",
-      "onboard_time": 1764497360,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 179374,
       "num": 128927,
       "word": "黄雅琼说刘雨辰是命中注定",
@@ -961,6 +993,14 @@
       "onboard_time": 1764472761,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172748,
+      "num": 172748,
+      "word": "仙逆",
+      "onboard_time": 1764500120,
+      "rank": 24,
+      "category": "动漫"
     },
     {
       "raw_hot": 171102,
@@ -1555,6 +1595,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117763,
+      "num": 117763,
+      "word": "兔子这一眼给我笑富了",
+      "onboard_time": 1764500540,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117551,
       "num": 117551,
       "word": "菲律宾首都爆发大规模抗议",
@@ -1627,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114645,
+      "num": 114645,
+      "word": "疯狂动物城撞脸真人版",
+      "onboard_time": 1764501021,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114358,
       "num": 114358,
       "word": "唐诡方丈cos诡舍反派",
@@ -1649,6 +1705,14 @@
       "onboard_time": 1764430881,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 113226,
+      "num": 113226,
+      "word": "国际乒联官方回顾国乒混团首胜",
+      "onboard_time": 1764500420,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 113085,
@@ -1915,6 +1979,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 95695,
+      "num": 131118,
+      "word": "美国在测试委内瑞拉承压能力",
+      "onboard_time": 1764499941,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95519,
       "num": 95519,
       "word": "一个人就已经是四世同堂了",
@@ -2035,6 +2107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88111,
+      "num": 88111,
+      "word": "申论大作文 抄材料",
+      "onboard_time": 1764499702,
+      "rank": 45,
+      "category": "教育"
+    },
+    {
       "raw_hot": 87987,
       "num": 313582,
       "word": "香港火灾仍有150人失联",
@@ -2049,6 +2129,22 @@
       "onboard_time": 1764492141,
       "rank": 45,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 87684,
+      "num": 87684,
+      "word": "陈梦在新的领域闪闪发光",
+      "onboard_time": 1764501622,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87194,
+      "num": 87194,
+      "word": "枭起青壤",
+      "onboard_time": 1764498802,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 86912,
@@ -2081,6 +2177,14 @@
       "onboard_time": 1764428963,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85637,
+      "num": 85637,
+      "word": "日本8比1澳大利亚",
+      "onboard_time": 1764500361,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 85593,
@@ -2513,6 +2617,14 @@
       "onboard_time": 1764468680,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 46633,
+      "num": 184021,
+      "word": "多国最新涉台表态",
+      "onboard_time": 1764501141,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 45775,
