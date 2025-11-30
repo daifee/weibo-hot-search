@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764492292100,
+  "endTime": 1764494771046,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -2289,6 +2289,14 @@
       "onboard_time": 1763723063,
       "rank": 0,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1123650,
+      "num": 1123650,
+      "word": "申论",
+      "onboard_time": 1764474502,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 1122807,
@@ -7867,6 +7875,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 583011,
+      "num": 419169,
+      "word": "25岁小伙上吐下泻下班后离世",
+      "onboard_time": 1764489623,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 581955,
       "num": 581955,
       "word": "雷军辟谣",
@@ -9787,6 +9803,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 510994,
+      "num": 398071,
+      "word": "徐璐变美了",
+      "onboard_time": 1764490581,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 510607,
       "num": 323628,
       "word": "九阳豆浆回应被指玩虐猫梗",
@@ -10041,6 +10065,14 @@
       "onboard_time": 1763220504,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 501240,
+      "num": 237537,
+      "word": "喻言 小孩哥顶级过肺",
+      "onboard_time": 1764492081,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 500947,
@@ -11568,14 +11600,6 @@
       "word": "女子买骆驼牌外套却在口袋掏出机票",
       "onboard_time": 1763462123,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 458772,
-      "num": 419169,
-      "word": "25岁小伙上吐下泻下班后离世",
-      "onboard_time": 1764489623,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -14099,14 +14123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 398071,
-      "num": 398071,
-      "word": "徐璐变美了",
-      "onboard_time": 1764490581,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 397475,
       "num": 397475,
       "word": "宁静跟繁花团吐槽花少",
@@ -14249,6 +14265,14 @@
       "onboard_time": 1762768700,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 394728,
+      "num": 237279,
+      "word": "刘诗诗仙女盘发",
+      "onboard_time": 1764492501,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 394634,
@@ -17595,6 +17619,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 333204,
+      "num": 238589,
+      "word": "申论大作文",
+      "onboard_time": 1764494603,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 333080,
       "num": 194484,
       "word": "王玉雯 我会争取想让我争取的角色",
@@ -20131,14 +20163,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296095,
-      "num": 290847,
-      "word": "申论",
-      "onboard_time": 1764474502,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 296082,
       "num": 296082,
       "word": "时代少年团演唱会升降台坏了",
@@ -21291,6 +21315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281011,
+      "num": 126612,
+      "word": "vivo被曝直播间置顶不需要女用户评论",
+      "onboard_time": 1764493700,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 280879,
       "num": 279233,
       "word": "影视飓风Tim震惊00后博主负债240万创作",
@@ -21465,6 +21497,14 @@
       "onboard_time": 1763790559,
       "rank": 6,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 278940,
+      "num": 278940,
+      "word": "疯狂动物城 邦邦硬DQ冰激凌",
+      "onboard_time": 1764494122,
+      "rank": 7,
+      "category": "电影"
     },
     {
       "raw_hot": 278895,
@@ -25081,6 +25121,14 @@
       "onboard_time": 1764174501,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 236474,
+      "num": 236474,
+      "word": "家属称25岁去世小伙生前过度加班",
+      "onboard_time": 1764489500,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 236454,
@@ -36443,14 +36491,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 172862,
-      "num": 172862,
-      "word": "家属称25岁去世小伙生前过度加班",
-      "onboard_time": 1764489500,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 172704,
       "num": 142619,
       "word": "黄金直线暴跌",
@@ -38185,6 +38225,14 @@
       "onboard_time": 1762783403,
       "rank": 26,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 166008,
+      "num": 166008,
+      "word": "NIP直接全谢了",
+      "onboard_time": 1764492680,
+      "rank": 19,
+      "category": "电竞"
     },
     {
       "raw_hot": 165987,
@@ -42939,6 +42987,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 150983,
+      "num": 150983,
+      "word": "黄土高原变成了抹茶千层",
+      "onboard_time": 1764494482,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 150938,
       "num": 150938,
       "word": "李昀锐打球被一屁股撞飞路透",
@@ -46505,6 +46561,14 @@
       "onboard_time": 1762837820,
       "rank": 31,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139913,
+      "num": 143554,
+      "word": "申论格式",
+      "onboard_time": 1764493821,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 139909,
@@ -51987,6 +52051,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126688,
+      "num": 126688,
+      "word": "女子吐槽印度人不买衣服只加微信",
+      "onboard_time": 1764489860,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126670,
       "num": 126670,
       "word": "全运会赛程",
@@ -54707,14 +54779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 121635,
-      "num": 121635,
-      "word": "女子吐槽印度人不买衣服只加微信",
-      "onboard_time": 1764489860,
-      "rank": 40,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 121603,
       "num": 169214,
       "word": "A股半日放量1975亿",
@@ -57049,6 +57113,14 @@
       "onboard_time": 1763997261,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 117551,
+      "num": 117551,
+      "word": "菲律宾首都爆发大规模抗议",
+      "onboard_time": 1764490641,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 117514,
@@ -60963,6 +61035,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 110242,
+      "num": 110242,
+      "word": "凶手一直没有交代章莹颖遗骸下落",
+      "onboard_time": 1764492741,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 110238,
       "num": 140661,
       "word": "水龙吟剧粉开始人传人现象了",
@@ -61705,14 +61785,6 @@
       "onboard_time": 1763608161,
       "rank": 39,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 108800,
-      "num": 108800,
-      "word": "喻言 小孩哥顶级过肺",
-      "onboard_time": 1764492081,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 108792,
@@ -64851,6 +64923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 104136,
+      "num": 104136,
+      "word": "唐诡方丈cos诡舍反派",
+      "onboard_time": 1764494721,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 104128,
       "num": 294697,
       "word": "魔术vs火箭",
@@ -67803,6 +67883,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 99737,
+      "num": 99737,
+      "word": "山东话 稍微一等",
+      "onboard_time": 1764494542,
+      "rank": 47,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 99728,
       "num": 99728,
       "word": "发现了邻居家24岁的被子",
@@ -68953,6 +69041,14 @@
       "onboard_time": 1762946781,
       "rank": 37,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 98003,
+      "num": 159561,
+      "word": "香港火灾搜救安置最新进展",
+      "onboard_time": 1764494542,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 97988,
@@ -82979,6 +83075,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 75097,
+      "num": 104282,
+      "word": "减肥针成本仅4块钱",
+      "onboard_time": 1764493220,
+      "rank": 45,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 75077,
       "num": 127918,
       "word": "王宗源全运会3米板金牌",
@@ -91003,6 +91107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 51076,
+      "num": 93665,
+      "word": "王楚钦观摩孙颖莎训练",
+      "onboard_time": 1764489980,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 51055,
       "num": 102266,
       "word": "FoFo分享寸头照",
@@ -93825,6 +93937,14 @@
       "onboard_time": 1761979039,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 42449,
+      "num": 117711,
+      "word": "郭富城肖战领衔12月影市",
+      "onboard_time": 1764494242,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 42423,
@@ -97835,6 +97955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30043,
+      "num": 692687,
+      "word": "神21乘组首次全系统压力应急演练",
+      "onboard_time": 1764493581,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30012,
       "num": 152048,
       "word": "网红主播市场严重饱和",
@@ -98081,6 +98209,14 @@
       "onboard_time": 1762940421,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 29313,
+      "num": 161900,
+      "word": "被处置账号团播内容毫无下限",
+      "onboard_time": 1764493401,
+      "rank": 22,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 29307,
@@ -99465,6 +99601,14 @@
       "onboard_time": 1764449294,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24497,
+      "num": 236666,
+      "word": "丁彦雨航空降黄金联赛现场",
+      "onboard_time": 1764493280,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 24453,
