@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/01 06:25:53
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/01 06:42:09
 </p>
 </blockquote>
 <p>
@@ -783,6 +783,12 @@ F1（热度：211487）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8D%9636%E4%BA%BF%23" target="weibo">
+手机壳爱马仕一年狂卖36亿（热度：201571）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A2%81%E6%9C%9D%E4%BC%9F%E6%97%B6%E9%9A%9436%E5%B9%B4%E5%86%8D%E6%8B%8D%E7%94%B5%E8%A7%86%E5%89%A7%23" target="weibo">
 梁朝伟时隔36年再拍电视剧（热度：201430）
 </a>
@@ -893,12 +899,6 @@ F1（热度：211487）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%9C%9F%E9%AB%98%E5%8E%9F%E5%8F%98%E6%88%90%E4%BA%86%E6%8A%B9%E8%8C%B6%E5%8D%83%E5%B1%82%23" target="weibo">
 黄土高原变成了抹茶千层（热度：182352）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E5%A3%B3%E7%88%B1%E9%A9%AC%E4%BB%95%E4%B8%80%E5%B9%B4%E7%8B%82%E5%8D%9636%E4%BA%BF%23" target="weibo">
-手机壳爱马仕一年狂卖36亿（热度：181743）
 </a>
 </li>
 
@@ -2649,6 +2649,12 @@ U16国足5场进42球（热度：68958）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%E5%87%91%E4%B8%8D%E9%BD%90%E6%81%A9%E5%88%A9%E4%B8%80%E4%B8%AA%E8%83%86%E5%AD%90%23" target="weibo">
+一屋子人凑不齐恩利一个胆子（热度：47776）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E8%8A%82%E7%9B%AE%E6%95%88%E6%9E%9C%E5%9C%A3%E4%BD%93%23" target="weibo">
 王一博节目效果圣体（热度：47063）
 </a>
@@ -2715,6 +2721,12 @@ U16国足5场进42球（热度：68958）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%B8%9F%E7%B1%BB%23" target="weibo">
+疯狂动物城 鸟类（热度：41422）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E2%E7%9A%84%E7%8B%90%E5%85%94%E5%85%B3%E7%B3%BB%23" target="weibo">
 疯狂动物城2的狐兔关系（热度：39980）
 </a>
@@ -2733,12 +2745,6 @@ U16国足5场进42球（热度：68958）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%E5%87%91%E4%B8%8D%E9%BD%90%E6%81%A9%E5%88%A9%E4%B8%80%E4%B8%AA%E8%83%86%E5%AD%90%23" target="weibo">
-一屋子人凑不齐恩利一个胆子（热度：36241）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 奔跑吧（热度：36240）
 </a>
@@ -2753,6 +2759,12 @@ U16国足5场进42球（热度：68958）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%23" target="weibo">
 喜人奇妙夜2（热度：32373）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
+榆林学生遭霸凌部分学生及家长已道歉（热度：32320）
 </a>
 </li>
 
@@ -2799,6 +2811,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E7%89%B9%E7%AD%89%E5%BA%A7%E5%8C%85%E9%97%B4%E5%83%8F%E4%BC%9A%E8%AE%AE%E5%AE%A4%23" target="weibo">
+12306回应高铁特等座包间像会议室（热度：28543）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E5%B1%85%E7%84%B6%E6%98%AF%E5%88%98%E4%B9%9F%23" target="weibo">
 这居然是刘也（热度：28287）
 </a>
@@ -2811,20 +2829,14 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%B8%9F%E7%B1%BB%23" target="weibo">
-疯狂动物城 鸟类（热度：28008）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%98%B2%E9%95%BF%E8%AF%B4%E6%88%98%E4%BA%89%E5%8D%B3%E5%B0%86%E6%9D%A5%E4%B8%B4%23" target="weibo">
 委内瑞拉防长说战争即将来临（热度：26540）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
-榆林学生遭霸凌部分学生及家长已道歉（热度：26462）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%A1%97%E5%A4%B4%E7%8E%B0%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%23" target="weibo">
+洛杉矶街头现饿了么骑手（热度：26393）
 </a>
 </li>
 
@@ -2837,6 +2849,12 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E4%BA%9A%E5%8D%A1%E5%A7%86%E7%BB%9D%E6%9D%80%E5%85%AC%E7%89%9B%23" target="weibo">
 西亚卡姆绝杀公牛（热度：25456）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E9%80%89%E6%8B%A9%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%B8%8D%E6%8B%8D%E6%88%8F%23" target="weibo">
+宁静选择上综艺不拍戏（热度：25301）
 </a>
 </li>
 
@@ -2877,12 +2895,6 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%A1%97%E5%A4%B4%E7%8E%B0%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%23" target="weibo">
-洛杉矶街头现饿了么骑手（热度：24057）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A6%E8%88%9E%E4%B9%8B%E5%9F%8E%23" target="weibo">
 亦舞之城（热度：23927）
 </a>
@@ -2901,20 +2913,14 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E9%80%89%E6%8B%A9%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%B8%8D%E6%8B%8D%E6%88%8F%23" target="weibo">
-宁静选择上综艺不拍戏（热度：23517）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%82%AC%E4%BF%83%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A6%81%E5%AD%A9%E5%AD%90%23" target="weibo">
 普京催促青年科学家要孩子（热度：23426）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E7%89%B9%E7%AD%89%E5%BA%A7%E5%8C%85%E9%97%B4%E5%83%8F%E4%BC%9A%E8%AE%AE%E5%AE%A4%23" target="weibo">
-12306回应高铁特等座包间像会议室（热度：18850）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23" target="weibo">
+免费职业技能夜校几乎期期爆满（热度：22281）
 </a>
 </li>
 
@@ -2927,12 +2933,6 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%BC%80%E9%80%9A%E6%8D%90%E8%B5%A0%E7%BB%BF%E8%89%B2%E9%80%9A%E9%81%93%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E6%95%91%E7%81%BE%23" target="weibo">
 央行开通捐赠绿色通道支持香港救灾（热度：17926）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23" target="weibo">
-免费职业技能夜校几乎期期爆满（热度：17424）
 </a>
 </li>
 
