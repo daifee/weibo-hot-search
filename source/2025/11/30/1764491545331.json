@@ -1,0 +1,410 @@
+{
+  "runTime": 1764491545331,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 771963,
+        "num": 1123514,
+        "word": "高市早苗再次有意犯错",
+        "onboard_time": 1764489201,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 598292,
+        "num": 598292,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 39105,
+        "num": 454704,
+        "word": "秋冬如何预防呼吸道感染",
+        "onboard_time": 1764478702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 437848,
+        "num": 437848,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120297,
+        "num": 368344,
+        "word": "国考难度",
+        "onboard_time": 1764477021,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 533828,
+        "num": 363124,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 345401,
+        "num": 345401,
+        "word": "25岁小伙上吐下泻下班后离世",
+        "onboard_time": 1764489623,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 249114,
+        "num": 344096,
+        "word": "中国人民不答应中国军队不答应",
+        "onboard_time": 1764478461,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216505,
+        "num": 340545,
+        "word": "章莹颖父亲希望赴美再寻女儿尸骸",
+        "onboard_time": 1764485420,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171102,
+        "num": 338462,
+        "word": "无畏祝小王冲向全世界",
+        "onboard_time": 1764490461,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 457877,
+        "num": 335419,
+        "word": "原来方圆脸这么好出片",
+        "onboard_time": 1764486801,
+        "rank": 10,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 444805,
+        "num": 329846,
+        "word": "已上岸丈夫送怀孕妻子国考",
+        "onboard_time": 1764490400,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 329117,
+        "num": 329117,
+        "word": "徐璐变美了",
+        "onboard_time": 1764490581,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 298931,
+        "num": 298931,
+        "word": "新白粉丝质问叶童",
+        "onboard_time": 1764483021,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 29487,
+        "num": 295854,
+        "word": "谁能站上山城之巅",
+        "onboard_time": 1764489681,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 293635,
+        "num": 293635,
+        "word": "陈伟霆说基本上全世界男人都这样",
+        "onboard_time": 1764479542,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 276806,
+        "num": 276806,
+        "word": "张婧仪 狐狸眼线",
+        "onboard_time": 1764486261,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207980,
+        "num": 207980,
+        "word": "上海 12899元咖啡",
+        "onboard_time": 1764483860,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39891,
+        "num": 207114,
+        "word": "疯狂动物城2让我起鸡皮疙瘩的台词",
+        "onboard_time": 1764490760,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 71511,
+        "num": 205253,
+        "word": "奶精和淀粉做的假奶粉都流向了哪里",
+        "onboard_time": 1764490581,
+        "rank": 19,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 1378787,
+        "num": 200915,
+        "word": "车澈回应与李嘉格离婚",
+        "onboard_time": 1764489980,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 733656,
+        "num": 199323,
+        "word": "李诞首度自曝为什么不要孩子",
+        "onboard_time": 1764484223,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 630396,
+        "num": 197234,
+        "word": "赵丽颖 我即剧名",
+        "onboard_time": 1764486980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240564,
+        "num": 194263,
+        "word": "汪顺在黄雅琼婚礼挖游泳苗子",
+        "onboard_time": 1764489142,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192338,
+        "num": 192338,
+        "word": "真人版疯狂动物城",
+        "onboard_time": 1764489919,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191874,
+        "num": 191874,
+        "word": "解放军中部战区轰炸机跨昼夜飞训",
+        "onboard_time": 1764485299,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 341149,
+        "num": 189396,
+        "word": "李诞痛骂总有负面思想的女生",
+        "onboard_time": 1764489262,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185034,
+        "num": 185034,
+        "word": "花海全月无休从秋过冬",
+        "onboard_time": 1764490641,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 164474,
+        "num": 164474,
+        "word": "枭起青壤导演表情不对劲",
+        "onboard_time": 1764490220,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 147269,
+        "num": 147269,
+        "word": "疯狂动物城彩蛋",
+        "onboard_time": 1764490821,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 146224,
+        "num": 146224,
+        "word": "一天中4个时刻不建议洗头",
+        "onboard_time": 1764487161,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 133756,
+        "num": 133756,
+        "word": "T1上单登顶韩服",
+        "onboard_time": 1764490940,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 126626,
+        "num": 126626,
+        "word": "家属称25岁去世小伙生前过度加班",
+        "onboard_time": 1764489500,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125926,
+        "num": 125926,
+        "word": "央视曝光减肥针",
+        "onboard_time": 1764481582,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123953,
+        "num": 123953,
+        "word": "绿肥红瘦原来是这个意思",
+        "onboard_time": 1764489860,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 123862,
+        "num": 123862,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 122087,
+        "num": 122087,
+        "word": "高市被批已不具备首相资格",
+        "onboard_time": 1764488481,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121792,
+        "num": 121792,
+        "word": "能让何炅黄磊同时鞠躬的人真不多了",
+        "onboard_time": 1764479900,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121758,
+        "num": 121758,
+        "word": "华晨宇突袭上台",
+        "onboard_time": 1764489623,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 19322,
+        "num": 121680,
+        "word": "金正恩称朝空军将装备新战略军事资产",
+        "onboard_time": 1764490700,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121635,
+        "num": 121635,
+        "word": "女子吐槽印度人不买衣服只加微信",
+        "onboard_time": 1764489860,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118225,
+        "num": 118225,
+        "word": "那种脆脆的水特别好喝",
+        "onboard_time": 1764488601,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 117250,
+        "num": 117250,
+        "word": "王力宏感恩节晒全家福",
+        "onboard_time": 1764488961,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116609,
+        "num": 116609,
+        "word": "黄雅琼婚礼出场用周深的歌",
+        "onboard_time": 1764489441,
+        "rank": 43,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 108763,
+        "num": 108763,
+        "word": "王丽坤前夫资产被拍卖",
+        "onboard_time": 1764485600,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102319,
+        "num": 102319,
+        "word": "原来当时这么多人看王俊凯蹲马桶",
+        "onboard_time": 1764489500,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99219,
+        "num": 99219,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97025,
+        "num": 97025,
+        "word": "这一轮行情非常可能会泡沫化",
+        "onboard_time": 1764489441,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 96884,
+        "num": 96884,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 48,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 94161,
+        "num": 94161,
+        "word": "静电可以给手机充电吗",
+        "onboard_time": 1764491000,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续营造风清气正的网络空间#"
+    }
+  }
+}
