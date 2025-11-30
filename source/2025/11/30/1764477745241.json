@@ -1,0 +1,410 @@
+{
+  "runTime": 1764477745241,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 5215318,
+        "num": 5215318,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 852777,
+        "num": 852777,
+        "word": "国考图推",
+        "onboard_time": 1764473960,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 19646,
+        "num": 671425,
+        "word": "南北方同步开启干冷模式",
+        "onboard_time": 1764423923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 620220,
+        "num": 620220,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554888,
+        "num": 554888,
+        "word": "才播4集女主背后空无一人",
+        "onboard_time": 1764473001,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 500605,
+        "num": 500605,
+        "word": "国考答案",
+        "onboard_time": 1764473182,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 279779,
+        "num": 279779,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254547,
+        "num": 254547,
+        "word": "美国 委内瑞拉",
+        "onboard_time": 1764470180,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237042,
+        "num": 237042,
+        "word": "光与夜之恋",
+        "onboard_time": 1764476901,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 215371,
+        "num": 215371,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1764471380,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 454397,
+        "num": 215231,
+        "word": "刘义恒 图推的神",
+        "onboard_time": 1764476300,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 344660,
+        "num": 214123,
+        "word": "水谷隼说被伊藤美诚拉黑了",
+        "onboard_time": 1764473062,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273074,
+        "num": 213502,
+        "word": "申论",
+        "onboard_time": 1764474502,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 252551,
+        "num": 213004,
+        "word": "国考图推答案",
+        "onboard_time": 1764476840,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 243674,
+        "num": 212280,
+        "word": "女子带孩子电影院占座被怒怼",
+        "onboard_time": 1764471080,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234982,
+        "num": 211980,
+        "word": "行测120分钟130题",
+        "onboard_time": 1764474623,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211491,
+        "num": 211491,
+        "word": "国考言语",
+        "onboard_time": 1764475101,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 211039,
+        "num": 211039,
+        "word": "于正发的赵晴男装",
+        "onboard_time": 1764470300,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 205354,
+        "num": 205354,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 18,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 205338,
+        "num": 205338,
+        "word": "终于有古装剧把消杀步骤拍出来了",
+        "onboard_time": 1764471022,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1081046,
+        "num": 204912,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 534617,
+        "num": 204751,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204404,
+        "num": 204404,
+        "word": "行测",
+        "onboard_time": 1764472520,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236328,
+        "num": 204105,
+        "word": "画梅退网",
+        "onboard_time": 1764461660,
+        "rank": 23,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 203377,
+        "num": 203377,
+        "word": "陈星旭太知道林一追星刘亦菲了",
+        "onboard_time": 1764476180,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 196849,
+        "num": 196849,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 191200,
+        "num": 191200,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 26,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 190240,
+        "num": 190240,
+        "word": "国考难度",
+        "onboard_time": 1764477021,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 187764,
+        "num": 187764,
+        "word": "樊振东又录婚礼祝福了",
+        "onboard_time": 1764476300,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 185897,
+        "num": 185897,
+        "word": "肖战拒绝螺蛳粉后来真香了",
+        "onboard_time": 1764469519,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230838,
+        "num": 185573,
+        "word": "裁判扔球王楚钦猝不及防",
+        "onboard_time": 1764476781,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193709,
+        "num": 185452,
+        "word": "给不会修眉的人一点震撼",
+        "onboard_time": 1764476601,
+        "rank": 31,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 184991,
+        "num": 184991,
+        "word": "日本批准1万亿日元防卫经费",
+        "onboard_time": 1764471678,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 172631,
+        "num": 172631,
+        "word": "闪耀暖暖",
+        "onboard_time": 1764477500,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 171107,
+        "num": 171107,
+        "word": "华为称Mate80显示5A不是5GA",
+        "onboard_time": 1764473062,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 170512,
+        "num": 170512,
+        "word": "双高胎",
+        "onboard_time": 1764471501,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 65811,
+        "num": 169587,
+        "word": "得闲谨制展现抗战不屈信念",
+        "onboard_time": 1764475761,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 168719,
+        "num": 168719,
+        "word": "中国电建已成立调查组",
+        "onboard_time": 1764472761,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 163743,
+        "num": 163743,
+        "word": "资料分析",
+        "onboard_time": 1764473960,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 151606,
+        "num": 151606,
+        "word": "年卖10亿的凤爪大王培养侄子上位",
+        "onboard_time": 1764473901,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149284,
+        "num": 149284,
+        "word": "王楚钦孙颖莎神球不断",
+        "onboard_time": 1764477621,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 139596,
+        "num": 139596,
+        "word": "国考数量答案",
+        "onboard_time": 1764476901,
+        "rank": 41,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 136611,
+        "num": 136611,
+        "word": "当年高位买房的人怎么样了",
+        "onboard_time": 1764472400,
+        "rank": 42,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 130107,
+        "num": 130107,
+        "word": "黄婷婷新剧是我的青梅牛马",
+        "onboard_time": 1764477500,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129126,
+        "num": 129126,
+        "word": "国考数量",
+        "onboard_time": 1764473960,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 127552,
+        "num": 127552,
+        "word": "肖战莫得闲一家四口合影",
+        "onboard_time": 1764477381,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122031,
+        "num": 122031,
+        "word": "华为憨憨开售秒光",
+        "onboard_time": 1764477441,
+        "rank": 46,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 83476,
+        "num": 121922,
+        "word": "陈星旭身材是3D我的眼泪是4K",
+        "onboard_time": 1764476121,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121904,
+        "num": 121904,
+        "word": "做饭能给自己吃成营养不良",
+        "onboard_time": 1764477320,
+        "rank": 48,
+        "category": "美食,幽默"
+      },
+      {
+        "raw_hot": 118957,
+        "num": 118957,
+        "word": "蒯曼2比1朱成竹",
+        "onboard_time": 1764477141,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

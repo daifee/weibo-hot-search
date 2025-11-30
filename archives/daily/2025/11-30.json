@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764475848970,
+  "endTime": 1764477745241,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -17,6 +17,14 @@
       "onboard_time": 1764472520,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1081046,
+      "num": 221304,
+      "word": "刘雨辰黄雅琼婚礼",
+      "onboard_time": 1764475221,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 1056632,
@@ -51,8 +59,16 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 620220,
+      "num": 620220,
+      "word": "爱马仕继承人被骗150亿",
+      "onboard_time": 1764476840,
+      "rank": 3,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 613856,
-      "num": 309209,
+      "num": 500605,
       "word": "国考答案",
       "onboard_time": 1764473182,
       "rank": 10,
@@ -99,6 +115,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 534617,
+      "num": 278223,
+      "word": "繁殖犬难产被剖腹取崽后丢弃",
+      "onboard_time": 1764473842,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530265,
       "num": 210039,
       "word": "高市被曝想争取他国支持缓解外交摩擦",
@@ -121,6 +145,14 @@
       "onboard_time": 1764429802,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 454397,
+      "num": 215231,
+      "word": "刘义恒 图推的神",
+      "onboard_time": 1764476300,
+      "rank": 10,
+      "category": "教育"
     },
     {
       "raw_hot": 433000,
@@ -227,14 +259,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 301037,
-      "num": 278223,
-      "word": "繁殖犬难产被剖腹取崽后丢弃",
-      "onboard_time": 1764473842,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 294016,
       "num": 207341,
       "word": "高市早苗错误言论冲击日本旅游业",
@@ -275,7 +299,7 @@
       "category": "情感"
     },
     {
-      "raw_hot": 268230,
+      "raw_hot": 273074,
       "num": 290847,
       "word": "申论",
       "onboard_time": 1764474502,
@@ -291,6 +315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 252551,
+      "num": 213004,
+      "word": "国考图推答案",
+      "onboard_time": 1764476840,
+      "rank": 13,
+      "category": "教育"
+    },
+    {
       "raw_hot": 237865,
       "num": 324564,
       "word": "兔子朱迪和狐狸尼克是友情还是爱情",
@@ -299,12 +331,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 237042,
+      "num": 237042,
+      "word": "光与夜之恋",
+      "onboard_time": 1764476901,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 231120,
       "num": 318914,
       "word": "喜人 补录",
       "onboard_time": 1764425303,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 230838,
+      "num": 185573,
+      "word": "裁判扔球王楚钦猝不及防",
+      "onboard_time": 1764476781,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 227156,
@@ -329,14 +377,6 @@
       "onboard_time": 1764426084,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 221304,
-      "num": 221304,
-      "word": "刘雨辰黄雅琼婚礼",
-      "onboard_time": 1764475221,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 218295,
@@ -379,6 +419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 203377,
+      "num": 203377,
+      "word": "陈星旭太知道林一追星刘亦菲了",
+      "onboard_time": 1764476180,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 201430,
       "num": 287482,
       "word": "梁朝伟时隔36年再拍电视剧",
@@ -401,6 +449,14 @@
       "onboard_time": 1764471678,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 196849,
+      "num": 196849,
+      "word": "疯狂动物城",
+      "onboard_time": 1764387380,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 195676,
@@ -427,12 +483,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 193709,
+      "num": 185452,
+      "word": "给不会修眉的人一点震撼",
+      "onboard_time": 1764476601,
+      "rank": 31,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 190240,
+      "num": 190240,
+      "word": "国考难度",
+      "onboard_time": 1764477021,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188363,
       "num": 166667,
       "word": "离异夫妻一夜间相继坠河均已离世",
       "onboard_time": 1764462499,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187764,
+      "num": 187764,
+      "word": "樊振东又录婚礼祝福了",
+      "onboard_time": 1764476300,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 187162,
@@ -459,14 +539,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 180780,
-      "num": 180780,
-      "word": "疯狂动物城",
-      "onboard_time": 1764387380,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 175326,
       "num": 164256,
       "word": "画梅回应退网",
@@ -481,6 +553,14 @@
       "onboard_time": 1764472761,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 172631,
+      "num": 172631,
+      "word": "闪耀暖暖",
+      "onboard_time": 1764477500,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 168949,
@@ -571,20 +651,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151606,
+      "num": 151606,
+      "word": "年卖10亿的凤爪大王培养侄子上位",
+      "onboard_time": 1764473901,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149284,
+      "num": 149284,
+      "word": "王楚钦孙颖莎神球不断",
+      "onboard_time": 1764477621,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 147775,
       "num": 347134,
       "word": "全国流感阳性率接近45%",
       "onboard_time": 1764419661,
       "rank": 7,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 145767,
-      "num": 145767,
-      "word": "年卖10亿的凤爪大王培养侄子上位",
-      "onboard_time": 1764473901,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142267,
@@ -595,12 +683,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139596,
+      "num": 139596,
+      "word": "国考数量答案",
+      "onboard_time": 1764476901,
+      "rank": 41,
+      "category": "教育"
+    },
+    {
       "raw_hot": 133456,
       "num": 133456,
       "word": "彭佳慧在邱泽许玮甯婚礼上献唱",
       "onboard_time": 1764467540,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130107,
+      "num": 130107,
+      "word": "黄婷婷新剧是我的青梅牛马",
+      "onboard_time": 1764477500,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127552,
+      "num": 127552,
+      "word": "肖战莫得闲一家四口合影",
+      "onboard_time": 1764477381,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 127224,
@@ -651,6 +763,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 122031,
+      "num": 122031,
+      "word": "华为憨憨开售秒光",
+      "onboard_time": 1764477441,
+      "rank": 46,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 121904,
+      "num": 121904,
+      "word": "做饭能给自己吃成营养不良",
+      "onboard_time": 1764477320,
+      "rank": 48,
+      "category": "美食,幽默"
+    },
+    {
       "raw_hot": 121527,
       "num": 142118,
       "word": "李宏毅余承恩谁是谁的哥",
@@ -667,8 +795,16 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 118957,
+      "num": 118957,
+      "word": "蒯曼2比1朱成竹",
+      "onboard_time": 1764477141,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 117833,
-      "num": 141280,
+      "num": 169587,
       "word": "得闲谨制展现抗战不屈信念",
       "onboard_time": 1764475761,
       "rank": 39,
@@ -921,6 +1057,14 @@
       "onboard_time": 1764461719,
       "rank": 41,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 83476,
+      "num": 121922,
+      "word": "陈星旭身材是3D我的眼泪是4K",
+      "onboard_time": 1764476121,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 83213,
