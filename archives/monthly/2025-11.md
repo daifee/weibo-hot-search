@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 21:03:45
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 21:32:46
 </p>
 </blockquote>
 <p>
@@ -5757,8 +5757,20 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%95%BF%E6%9C%9F%E6%B2%A1%E7%A9%BF%E7%9A%84%E8%A1%A3%E6%9C%8D%E8%97%8F%E5%81%A5%E5%BA%B7%E9%9A%90%E6%82%A3%23" target="weibo">
+长期没穿的衣服藏健康隐患（热度：593728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%9C%BA%E5%9C%BA%E5%AE%89%E6%A3%80%E5%91%98%E5%81%B7%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E7%8E%B0%E9%87%91%E8%A2%AB%E6%8D%95%23" target="weibo">
 日本机场安检员偷中国游客现金被捕（热度：593338）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%80%E5%87%BA%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
+疑似王鹤棣退出将门毒后（热度：593164）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%BF%83%E8%84%8F%E6%89%8B%E6%9C%AF%E5%8E%BB%E4%B8%96%E5%A4%96%E5%A9%86%E6%8B%85%E5%BF%83%E5%A5%B3%E5%84%BF%23" target="weibo">
 女婴心脏手术去世外婆担心女儿（热度：580100）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%91%E5%91%BD%E8%8D%AF%E6%BB%9E%E7%95%99%E5%89%8D%E5%8F%B05%E5%B0%8F%E6%97%B6%E8%87%B4%E7%94%B7%E5%AD%90%E8%BA%AB%E4%BA%A1%23" target="weibo">
-救命药滞留前台5小时致男子身亡（热度：579474）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%B5%81%E9%87%8F%E7%8B%82%E6%AC%A2%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%23" target="weibo">
-鸡排哥流量狂欢接近尾声（热度：579253）
 </a>
 </li>
 
