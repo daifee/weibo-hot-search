@@ -1,0 +1,410 @@
+{
+  "runTime": 1764545936170,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 416178,
+        "num": 891658,
+        "word": "手机壳爱马仕一年狂卖36亿",
+        "onboard_time": 1764519441,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129669,
+        "num": 129669,
+        "word": "F1",
+        "onboard_time": 1764544339,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77257,
+        "num": 129000,
+        "word": "黄土高原变绿了",
+        "onboard_time": 1764507263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 226508,
+        "num": 126436,
+        "word": "疯狂动物城 邦邦硬DQ冰激凌",
+        "onboard_time": 1764494122,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 85882,
+        "num": 125229,
+        "word": "维斯塔潘夺f1卡塔尔站冠军",
+        "onboard_time": 1764544158,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 366247,
+        "num": 123408,
+        "word": "外卖大战6个月烧掉近800亿",
+        "onboard_time": 1764511882,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 362792,
+        "num": 122320,
+        "word": "神20返回舱玻璃裂纹是个三角形",
+        "onboard_time": 1764518301,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155987,
+        "num": 119622,
+        "word": "幼师等招聘可依法查询吸毒记录",
+        "onboard_time": 1764511641,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118967,
+        "num": 118967,
+        "word": "沈腾的征信都扫不了共享单车",
+        "onboard_time": 1764510023,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88447,
+        "num": 118472,
+        "word": "TheShy说赢了T1就能进决赛",
+        "onboard_time": 1764512062,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 483969,
+        "num": 117691,
+        "word": "朱珠 面无表情把老公挤开",
+        "onboard_time": 1764512722,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 376969,
+        "num": 117521,
+        "word": "宁波星巴克惊现一人戴头罩持狼牙棒",
+        "onboard_time": 1764544698,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 326655,
+        "num": 116944,
+        "word": "巴西女子产下双胞胎孩子父亲却不同",
+        "onboard_time": 1764515063,
+        "rank": 12,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 318365,
+        "num": 116225,
+        "word": "中国游客在美国商场遇枪击躲试衣间",
+        "onboard_time": 1764513082,
+        "rank": 13,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182548,
+        "num": 115431,
+        "word": "爱马仕继承人被25年财管好友骗光财产",
+        "onboard_time": 1764516441,
+        "rank": 14,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149328,
+        "num": 114767,
+        "word": "十二月的奇迹",
+        "onboard_time": 1764544339,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 142419,
+        "num": 113687,
+        "word": "当事人回应洛杉矶街头现饿了么骑手",
+        "onboard_time": 1764518000,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119007,
+        "num": 113511,
+        "word": "暨南大学 学生宿舍装安检",
+        "onboard_time": 1764515601,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 112902,
+        "num": 112902,
+        "word": "12月",
+        "onboard_time": 1764544458,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 110167,
+        "num": 110167,
+        "word": "让劣迹网红的复出试探无处遁形",
+        "onboard_time": 1764505641,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114231,
+        "num": 107872,
+        "word": "徐璐臣妾有一妹妹堪称国色",
+        "onboard_time": 1764544637,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104310,
+        "num": 104310,
+        "word": "杨紫的家业还是太火了",
+        "onboard_time": 1764509421,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102155,
+        "num": 102155,
+        "word": "疑似王鹤棣退出将门毒后",
+        "onboard_time": 1764507981,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99277,
+        "num": 99277,
+        "word": "疯狂动物城 鸟类",
+        "onboard_time": 1764530354,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95351,
+        "num": 95351,
+        "word": "陈星旭工作室找不到陈星旭了",
+        "onboard_time": 1764519979,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89037,
+        "num": 89037,
+        "word": "果然全世界都要考公啊",
+        "onboard_time": 1764544879,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80739,
+        "num": 80739,
+        "word": "12306回应高铁特等座包间像会议室",
+        "onboard_time": 1764539895,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72512,
+        "num": 72512,
+        "word": "2025仅剩一个月",
+        "onboard_time": 1764544578,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 71342,
+        "num": 71342,
+        "word": "将门毒后",
+        "onboard_time": 1764512422,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 65211,
+        "num": 65211,
+        "word": "长期没穿的衣服藏健康隐患",
+        "onboard_time": 1764503541,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167316,
+        "num": 64825,
+        "word": "女子遇反向折叠楼梯吓出一身冷汗",
+        "onboard_time": 1764544637,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88604,
+        "num": 64374,
+        "word": "美媒曝德国秘密对俄作战计划",
+        "onboard_time": 1764544879,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 62472,
+        "num": 62472,
+        "word": "一屋子人凑不齐恩利一个胆子",
+        "onboard_time": 1764536293,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 60508,
+        "num": 60508,
+        "word": "香港火灾已致146人遇难",
+        "onboard_time": 1764495141,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 57672,
+        "num": 57672,
+        "word": "郑乃馨疑似回应分手",
+        "onboard_time": 1764507743,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57213,
+        "num": 57213,
+        "word": "皮皮朱回怼女人独立要男人干啥",
+        "onboard_time": 1764512062,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 56986,
+        "num": 56986,
+        "word": "12月文案",
+        "onboard_time": 1764544578,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56630,
+        "num": 56630,
+        "word": "这才是清朝时期真正的辫子",
+        "onboard_time": 1764510921,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56174,
+        "num": 56174,
+        "word": "榆林学生遭霸凌部分学生及家长已道歉",
+        "onboard_time": 1764526455,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55267,
+        "num": 55267,
+        "word": "洛杉矶街头现饿了么骑手",
+        "onboard_time": 1764533535,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 55225,
+        "num": 55225,
+        "word": "免费职业技能夜校几乎期期爆满",
+        "onboard_time": 1764527595,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51850,
+        "num": 55199,
+        "word": "那么漂亮了性格恶劣一点也没关系",
+        "onboard_time": 1764545659,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 49812,
+        "num": 55195,
+        "word": "十二月你好",
+        "onboard_time": 1764544578,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 46040,
+        "num": 55151,
+        "word": "车澈回应与李嘉格离婚",
+        "onboard_time": 1764489980,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45651,
+        "num": 55139,
+        "word": "王嘉尔自曝恋爱经历",
+        "onboard_time": 1764504381,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 43393,
+        "num": 55105,
+        "word": "韦雪前男友自曝喜欢的明星",
+        "onboard_time": 1764511641,
+        "rank": 45,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 43020,
+        "num": 55073,
+        "word": "TOP登陆少年终于连上网了",
+        "onboard_time": 1764545719,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40426,
+        "num": 55054,
+        "word": "宁静选择上综艺不拍戏",
+        "onboard_time": 1764527775,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39614,
+        "num": 55015,
+        "word": "喜人奇妙夜2",
+        "onboard_time": 1764524115,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27751,
+        "num": 54987,
+        "word": "刘少昂世巡赛1000米摘银",
+        "onboard_time": 1764516021,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平部署加强网络生态治理#"
+    }
+  }
+}

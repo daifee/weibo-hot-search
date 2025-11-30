@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764545128652,
+  "endTime": 1764545936170,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 420137,
-      "num": 789721,
+      "num": 891658,
       "word": "手机壳爱马仕一年狂卖36亿",
       "onboard_time": 1764519441,
       "rank": 39,
@@ -568,6 +568,14 @@
       "word": "神20返回舱玻璃裂纹是个三角形",
       "onboard_time": 1764518301,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376969,
+      "num": 117521,
+      "word": "宁波星巴克惊现一人戴头罩持狼牙棒",
+      "onboard_time": 1764544698,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -667,12 +675,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 326655,
+      "num": 199674,
+      "word": "巴西女子产下双胞胎孩子父亲却不同",
+      "onboard_time": 1764515063,
+      "rank": 22,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 318526,
       "num": 318526,
       "word": "早产男婴出保温箱离世母亲再发声",
       "onboard_time": 1764504501,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 318365,
+      "num": 178972,
+      "word": "中国游客在美国商场遇枪击躲试衣间",
+      "onboard_time": 1764513082,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 318322,
@@ -697,14 +721,6 @@
       "onboard_time": 1764489500,
       "rank": 32,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 302729,
-      "num": 178972,
-      "word": "中国游客在美国商场遇枪击躲试衣间",
-      "onboard_time": 1764513082,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 295192,
@@ -827,14 +843,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 262208,
-      "num": 199674,
-      "word": "巴西女子产下双胞胎孩子父亲却不同",
-      "onboard_time": 1764515063,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 262036,
       "num": 262036,
       "word": "逍遥散人 脱粉",
@@ -873,14 +881,6 @@
       "onboard_time": 1764520398,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 234017,
-      "num": 106104,
-      "word": "宁波星巴克惊现一人戴头罩持狼牙棒",
-      "onboard_time": 1764544698,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 232467,
@@ -1228,7 +1228,7 @@
     },
     {
       "raw_hot": 179511,
-      "num": 104027,
+      "num": 112902,
       "word": "12月",
       "onboard_time": 1764544458,
       "rank": 14,
@@ -1313,6 +1313,14 @@
       "onboard_time": 1764460818,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167316,
+      "num": 64825,
+      "word": "女子遇反向折叠楼梯吓出一身冷汗",
+      "onboard_time": 1764544637,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 166638,
@@ -1523,6 +1531,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 149328,
+      "num": 114767,
+      "word": "十二月的奇迹",
+      "onboard_time": 1764544339,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 149284,
       "num": 149284,
       "word": "王楚钦孙颖莎神球不断",
@@ -1633,6 +1649,14 @@
       "onboard_time": 1764497902,
       "rank": 34,
       "category": "教育"
+    },
+    {
+      "raw_hot": 142419,
+      "num": 116633,
+      "word": "当事人回应洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764518000,
+      "rank": 28,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 142267,
@@ -1761,14 +1785,6 @@
       "onboard_time": 1764479721,
       "rank": 46,
       "category": "体育"
-    },
-    {
-      "raw_hot": 129885,
-      "num": 116633,
-      "word": "当事人回应洛杉矶街头现饿了么骑手",
-      "onboard_time": 1764518000,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 129246,
@@ -2195,6 +2211,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114231,
+      "num": 107872,
+      "word": "徐璐臣妾有一妹妹堪称国色",
+      "onboard_time": 1764544637,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114096,
       "num": 114096,
       "word": "U17亚洲杯国少五战全胜晋级",
@@ -2361,14 +2385,6 @@
       "onboard_time": 1764420262,
       "rank": 22,
       "category": "电影"
-    },
-    {
-      "raw_hot": 107977,
-      "num": 64237,
-      "word": "女子遇反向折叠楼梯吓出一身冷汗",
-      "onboard_time": 1764544637,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107773,
@@ -2547,20 +2563,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 99925,
-      "num": 99925,
-      "word": "十二月的奇迹",
-      "onboard_time": 1764544339,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 99781,
       "num": 99781,
       "word": "日媒称高市早苗甩锅",
       "onboard_time": 1764468799,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99277,
+      "num": 99277,
+      "word": "疯狂动物城 鸟类",
+      "onboard_time": 1764530354,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 98916,
@@ -2859,12 +2875,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 89037,
+      "num": 89037,
+      "word": "果然全世界都要考公啊",
+      "onboard_time": 1764544879,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
       "raw_hot": 88691,
       "num": 88691,
       "word": "江西早产患儿因病情危重离世",
       "onboard_time": 1764468499,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88604,
+      "num": 64374,
+      "word": "美媒曝德国秘密对俄作战计划",
+      "onboard_time": 1764544879,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 88346,
@@ -2937,6 +2969,14 @@
       "onboard_time": 1764428963,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85882,
+      "num": 131430,
+      "word": "维斯塔潘夺f1卡塔尔站冠军",
+      "onboard_time": 1764544158,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 85637,
@@ -3227,14 +3267,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 73887,
-      "num": 131430,
-      "word": "维斯塔潘夺f1卡塔尔站冠军",
-      "onboard_time": 1764544158,
-      "rank": 4,
-      "category": "体育"
-    },
-    {
       "raw_hot": 73116,
       "num": 319350,
       "word": "重庆狼队BIES2025冠军",
@@ -3249,14 +3281,6 @@
       "onboard_time": 1764514882,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 72501,
-      "num": 72501,
-      "word": "疯狂动物城 鸟类",
-      "onboard_time": 1764530354,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 72121,
@@ -3329,22 +3353,6 @@
       "onboard_time": 1764412342,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65652,
-      "num": 65652,
-      "word": "徐璐臣妾有一妹妹堪称国色",
-      "onboard_time": 1764544637,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 65467,
-      "num": 62794,
-      "word": "果然全世界都要考公啊",
-      "onboard_time": 1764544879,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 65209,
@@ -3499,12 +3507,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 56525,
-      "num": 56525,
-      "word": "美媒曝德国秘密对俄作战计划",
-      "onboard_time": 1764544879,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 56986,
+      "num": 56986,
+      "word": "12月文案",
+      "onboard_time": 1764544578,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 56174,
+      "num": 56174,
+      "word": "榆林学生遭霸凌部分学生及家长已道歉",
+      "onboard_time": 1764526455,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55862,
@@ -3521,6 +3537,22 @@
       "onboard_time": 1764514882,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 55267,
+      "num": 55267,
+      "word": "洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764533535,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55225,
+      "num": 55225,
+      "word": "免费职业技能夜校几乎期期爆满",
+      "onboard_time": 1764527595,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55008,
@@ -3547,19 +3579,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 52664,
-      "num": 52664,
-      "word": "榆林学生遭霸凌部分学生及家长已道歉",
-      "onboard_time": 1764526455,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51859,
-      "num": 51859,
-      "word": "12月文案",
-      "onboard_time": 1764544578,
-      "rank": 36,
+      "raw_hot": 51850,
+      "num": 55199,
+      "word": "那么漂亮了性格恶劣一点也没关系",
+      "onboard_time": 1764545659,
+      "rank": 41,
       "category": "情感"
     },
     {
@@ -3603,14 +3627,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 50484,
-      "num": 50484,
-      "word": "洛杉矶街头现饿了么骑手",
-      "onboard_time": 1764533535,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 50373,
       "num": 98898,
       "word": "许玮甯骨相",
@@ -3641,14 +3657,6 @@
       "onboard_time": 1764493581,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 47862,
-      "num": 47862,
-      "word": "免费职业技能夜校几乎期期爆满",
-      "onboard_time": 1764527595,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 47063,
@@ -3707,6 +3715,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 43020,
+      "num": 55073,
+      "word": "TOP登陆少年终于连上网了",
+      "onboard_time": 1764545719,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42553,
       "num": 281378,
       "word": "秋冬少买驼色衣服",
@@ -3739,6 +3755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40426,
+      "num": 55054,
+      "word": "宁静选择上综艺不拍戏",
+      "onboard_time": 1764527775,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39980,
       "num": 57391,
       "word": "疯狂动物城2的狐兔关系",
@@ -3747,11 +3771,11 @@
       "category": "电影"
     },
     {
-      "raw_hot": 39572,
-      "num": 42147,
-      "word": "宁静选择上综艺不拍戏",
-      "onboard_time": 1764527775,
-      "rank": 45,
+      "raw_hot": 39614,
+      "num": 55015,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1764524115,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -3784,14 +3808,6 @@
       "word": "奔跑吧",
       "onboard_time": 1764440596,
       "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 36135,
-      "num": 44946,
-      "word": "喜人奇妙夜2",
-      "onboard_time": 1764524115,
-      "rank": 43,
       "category": "综艺"
     },
     {

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764545128652,
+  "endTime": 1764545936170,
   "band_list": [
     {
       "raw_hot": 2134222,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 420137,
-      "num": 789721,
+      "num": 891658,
       "word": "手机壳爱马仕一年狂卖36亿",
       "onboard_time": 1764519441,
       "rank": 39,
@@ -56,6 +56,14 @@
       "word": "神20返回舱玻璃裂纹是个三角形",
       "onboard_time": 1764518301,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 376969,
+      "num": 117521,
+      "word": "宁波星巴克惊现一人戴头罩持狼牙棒",
+      "onboard_time": 1764544698,
+      "rank": 12,
       "category": "民生新闻"
     },
     {
@@ -75,20 +83,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 326655,
+      "num": 132538,
+      "word": "巴西女子产下双胞胎孩子父亲却不同",
+      "onboard_time": 1764515063,
+      "rank": 21,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 318365,
+      "num": 116225,
+      "word": "中国游客在美国商场遇枪击躲试衣间",
+      "onboard_time": 1764513082,
+      "rank": 25,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 313313,
       "num": 191137,
       "word": "疯狂动物城 邦邦硬DQ冰激凌",
       "onboard_time": 1764494122,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 302729,
-      "num": 114316,
-      "word": "中国游客在美国商场遇枪击躲试衣间",
-      "onboard_time": 1764513082,
-      "rank": 25,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 300881,
@@ -123,28 +139,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 234017,
-      "num": 106104,
-      "word": "宁波星巴克惊现一人戴头罩持狼牙棒",
-      "onboard_time": 1764544698,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 201956,
-      "num": 132538,
-      "word": "巴西女子产下双胞胎孩子父亲却不同",
-      "onboard_time": 1764515063,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 179511,
-      "num": 104027,
+      "num": 112902,
       "word": "12月",
       "onboard_time": 1764544458,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 167316,
+      "num": 64825,
+      "word": "女子遇反向折叠楼梯吓出一身冷汗",
+      "onboard_time": 1764544637,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 165446,
@@ -179,6 +187,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 149328,
+      "num": 114767,
+      "word": "十二月的奇迹",
+      "onboard_time": 1764544339,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 148798,
       "num": 148798,
       "word": "让劣迹网红的复出试探无处遁形",
@@ -211,20 +227,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 142419,
+      "num": 116633,
+      "word": "当事人回应洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764518000,
+      "rank": 28,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 139123,
       "num": 139123,
       "word": "杨紫的家业还是太火了",
       "onboard_time": 1764509421,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 129885,
-      "num": 116633,
-      "word": "当事人回应洛杉矶街头现饿了么骑手",
-      "onboard_time": 1764518000,
-      "rank": 28,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 126342,
@@ -259,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114231,
+      "num": 107872,
+      "word": "徐璐臣妾有一妹妹堪称国色",
+      "onboard_time": 1764544637,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111085,
       "num": 111085,
       "word": "陈星旭工作室找不到陈星旭了",
       "onboard_time": 1764519979,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107977,
-      "num": 64237,
-      "word": "女子遇反向折叠楼梯吓出一身冷汗",
-      "onboard_time": 1764544637,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 107249,
@@ -291,12 +307,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 99925,
-      "num": 99925,
-      "word": "十二月的奇迹",
-      "onboard_time": 1764544339,
-      "rank": 18,
-      "category": "情感"
+      "raw_hot": 99277,
+      "num": 99277,
+      "word": "疯狂动物城 鸟类",
+      "onboard_time": 1764530354,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 96685,
@@ -313,6 +329,30 @@
       "onboard_time": 1764507743,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 89037,
+      "num": 89037,
+      "word": "果然全世界都要考公啊",
+      "onboard_time": 1764544879,
+      "rank": 32,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 88604,
+      "num": 64374,
+      "word": "美媒曝德国秘密对俄作战计划",
+      "onboard_time": 1764544879,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 85882,
+      "num": 131430,
+      "word": "维斯塔潘夺f1卡塔尔站冠军",
+      "onboard_time": 1764544158,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 83257,
@@ -363,12 +403,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 73887,
-      "num": 131430,
-      "word": "维斯塔潘夺f1卡塔尔站冠军",
-      "onboard_time": 1764544158,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 77257,
+      "num": 241366,
+      "word": "黄土高原变绿了",
+      "onboard_time": 1764507263,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 72823,
@@ -387,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 72501,
-      "num": 72501,
-      "word": "疯狂动物城 鸟类",
-      "onboard_time": 1764530354,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 70588,
       "num": 91367,
       "word": "假奶粉涉事老板称也怕会吃出人命",
@@ -403,28 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 65652,
-      "num": 65652,
-      "word": "徐璐臣妾有一妹妹堪称国色",
-      "onboard_time": 1764544637,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 65549,
       "num": 65549,
       "word": "高市早苗意欲何为",
       "onboard_time": 1764514162,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 65467,
-      "num": 62794,
-      "word": "果然全世界都要考公啊",
-      "onboard_time": 1764544879,
-      "rank": 32,
-      "category": "教育"
     },
     {
       "raw_hot": 65293,
@@ -457,14 +473,6 @@
       "onboard_time": 1764536293,
       "rank": 44,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 64330,
-      "num": 241366,
-      "word": "黄土高原变绿了",
-      "onboard_time": 1764507263,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62120,
@@ -508,19 +516,43 @@
     },
     {
       "raw_hot": 57882,
-      "num": 44963,
+      "num": 56630,
       "word": "这才是清朝时期真正的辫子",
       "onboard_time": 1764510921,
       "rank": 42,
       "category": "情感"
     },
     {
-      "raw_hot": 56525,
-      "num": 56525,
-      "word": "美媒曝德国秘密对俄作战计划",
-      "onboard_time": 1764544879,
-      "rank": 34,
-      "category": "国际时政"
+      "raw_hot": 56986,
+      "num": 56986,
+      "word": "12月文案",
+      "onboard_time": 1764544578,
+      "rank": 36,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 56174,
+      "num": 56174,
+      "word": "榆林学生遭霸凌部分学生及家长已道歉",
+      "onboard_time": 1764526455,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 55267,
+      "num": 55267,
+      "word": "洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764533535,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 55225,
+      "num": 55225,
+      "word": "免费职业技能夜校几乎期期爆满",
+      "onboard_time": 1764527595,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 52980,
@@ -531,36 +563,12 @@
       "category": "网红"
     },
     {
-      "raw_hot": 52664,
-      "num": 52664,
-      "word": "榆林学生遭霸凌部分学生及家长已道歉",
-      "onboard_time": 1764526455,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 51859,
-      "num": 51859,
-      "word": "12月文案",
-      "onboard_time": 1764544578,
-      "rank": 36,
+      "raw_hot": 51850,
+      "num": 55199,
+      "word": "那么漂亮了性格恶劣一点也没关系",
+      "onboard_time": 1764545659,
+      "rank": 41,
       "category": "情感"
-    },
-    {
-      "raw_hot": 50484,
-      "num": 50484,
-      "word": "洛杉矶街头现饿了么骑手",
-      "onboard_time": 1764533535,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 47862,
-      "num": 47862,
-      "word": "免费职业技能夜校几乎期期爆满",
-      "onboard_time": 1764527595,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44366,
@@ -579,6 +587,22 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 43020,
+      "num": 55073,
+      "word": "TOP登陆少年终于连上网了",
+      "onboard_time": 1764545719,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40426,
+      "num": 55054,
+      "word": "宁静选择上综艺不拍戏",
+      "onboard_time": 1764527775,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 39980,
       "num": 57391,
       "word": "疯狂动物城2的狐兔关系",
@@ -595,11 +619,11 @@
       "category": "体育"
     },
     {
-      "raw_hot": 39572,
-      "num": 42147,
-      "word": "宁静选择上综艺不拍戏",
-      "onboard_time": 1764527775,
-      "rank": 45,
+      "raw_hot": 39614,
+      "num": 55015,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1764524115,
+      "rank": 43,
       "category": "综艺"
     },
     {
@@ -617,14 +641,6 @@
       "onboard_time": 1764543796,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 36135,
-      "num": 44946,
-      "word": "喜人奇妙夜2",
-      "onboard_time": 1764524115,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 33577,
