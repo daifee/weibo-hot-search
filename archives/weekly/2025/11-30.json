@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764516342634,
+  "endTime": 1764517149487,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -619,6 +619,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 329555,
+      "num": 281789,
+      "word": "将门毒后",
+      "onboard_time": 1764512422,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318526,
       "num": 318526,
       "word": "早产男婴出保温箱离世母亲再发声",
@@ -723,14 +731,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 281789,
-      "num": 281789,
-      "word": "将门毒后",
-      "onboard_time": 1764512422,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 281293,
       "num": 281293,
       "word": "肖战拒绝螺蛳粉后来真香了",
@@ -777,6 +777,14 @@
       "onboard_time": 1764463460,
       "rank": 13,
       "category": "情感"
+    },
+    {
+      "raw_hot": 262208,
+      "num": 199674,
+      "word": "巴西女子产下双胞胎孩子父亲却不同",
+      "onboard_time": 1764515063,
+      "rank": 22,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 262036,
@@ -1003,20 +1011,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 199674,
-      "num": 199674,
-      "word": "巴西女子产下双胞胎孩子父亲却不同",
-      "onboard_time": 1764515063,
-      "rank": 22,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 199513,
       "num": 199513,
       "word": "日本批准1万亿日元防卫经费",
       "onboard_time": 1764471678,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199293,
+      "num": 171156,
+      "word": "陈星旭说迪丽热巴私下里性格可爱",
+      "onboard_time": 1764516081,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 197125,
@@ -1137,6 +1145,14 @@
       "onboard_time": 1764433400,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181336,
+      "num": 199771,
+      "word": "暨南大学 学生宿舍装安检",
+      "onboard_time": 1764515601,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181233,
@@ -1427,6 +1443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150811,
+      "num": 150811,
+      "word": "梁伟铿回应缺席刘雨辰黄雅琼婚礼",
+      "onboard_time": 1764513623,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150134,
       "num": 150134,
       "word": "原来这就是安陵容她娘绣的苏绣",
@@ -1691,14 +1715,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128768,
-      "num": 128768,
-      "word": "陈星旭说迪丽热巴私下里性格可爱",
-      "onboard_time": 1764516081,
-      "rank": 32,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 128129,
       "num": 128129,
       "word": "绿肥红瘦原来是这个意思",
@@ -1763,11 +1779,11 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126770,
-      "num": 126770,
-      "word": "梁伟铿回应缺席刘雨辰黄雅琼婚礼",
-      "onboard_time": 1764513623,
-      "rank": 34,
+      "raw_hot": 126756,
+      "num": 126756,
+      "word": "刘少昂世巡赛1000米摘银",
+      "onboard_time": 1764516021,
+      "rank": 37,
       "category": "体育"
     },
     {
@@ -2131,6 +2147,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113389,
+      "num": 113389,
+      "word": "陈楚生演唱会",
+      "onboard_time": 1764516981,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
       "raw_hot": 113226,
       "num": 113226,
       "word": "国际乒联官方回顾国乒混团首胜",
@@ -2177,14 +2201,6 @@
       "onboard_time": 1764432201,
       "rank": 27,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 111987,
-      "num": 111987,
-      "word": "刘少昂世巡赛1000米摘银",
-      "onboard_time": 1764516021,
-      "rank": 37,
-      "category": "体育"
     },
     {
       "raw_hot": 111827,
@@ -2859,6 +2875,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 84620,
+      "num": 84620,
+      "word": "get到向涵之了",
+      "onboard_time": 1764516981,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84594,
       "num": 84594,
       "word": "从伴侣就能看出女生爱自己的程度",
@@ -2873,6 +2897,14 @@
       "onboard_time": 1764467240,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84525,
+      "num": 84525,
+      "word": "一个比考公考编更难的事",
+      "onboard_time": 1764515362,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 84213,
@@ -2920,6 +2952,14 @@
       "word": "张函瑞考核第一",
       "onboard_time": 1764420861,
       "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 82370,
+      "num": 82370,
+      "word": "TF家族四代纪录片",
+      "onboard_time": 1764516921,
+      "rank": 47,
       "category": "艺人"
     },
     {
@@ -3067,6 +3107,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 72949,
+      "num": 283133,
+      "word": "华晨宇霸总式回应",
+      "onboard_time": 1764514882,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 72121,
       "num": 72121,
       "word": "孙颖莎认真选珠子串手串",
@@ -3097,14 +3145,6 @@
       "onboard_time": 1764484101,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 69453,
-      "num": 199771,
-      "word": "暨南大学 学生宿舍装安检",
-      "onboard_time": 1764515601,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 69223,
@@ -3139,12 +3179,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 67553,
-      "num": 283133,
-      "word": "华晨宇霸总式回应",
-      "onboard_time": 1764514882,
-      "rank": 14,
-      "category": "演出"
+      "raw_hot": 67396,
+      "num": 95744,
+      "word": "爱马仕继承人被25年财管好友骗光财产",
+      "onboard_time": 1764516441,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 67389,
@@ -3283,6 +3323,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 55620,
+      "num": 77299,
+      "word": "西汉姆联vs利物浦",
+      "onboard_time": 1764514882,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 55008,
       "num": 132922,
       "word": "35岁男子国考称像进复活赛",
@@ -3353,6 +3401,22 @@
       "onboard_time": 1764487462,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49718,
+      "num": 110276,
+      "word": "86万买的玛莎拉蒂没开几年骨折了",
+      "onboard_time": 1764515841,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 48823,
+      "num": 305483,
+      "word": "新国标电动自行车应有3C标志",
+      "onboard_time": 1764515782,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 48307,
@@ -3448,14 +3512,6 @@
       "word": "秋冬如何预防呼吸道感染",
       "onboard_time": 1764478702,
       "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 41123,
-      "num": 110276,
-      "word": "86万买的玛莎拉蒂没开几年骨折了",
-      "onboard_time": 1764515841,
-      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -3561,14 +3617,6 @@
       "onboard_time": 1764515241,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24933,
-      "num": 305483,
-      "word": "新国标电动自行车应有3C标志",
-      "onboard_time": 1764515782,
-      "rank": 9,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 24528,
