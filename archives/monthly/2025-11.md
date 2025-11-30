@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 13:43:08
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 14:39:19
 </p>
 </blockquote>
 <p>
@@ -3783,6 +3783,12 @@ iPhone18Pro前瞻（热度：752671）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%23" target="weibo">
+疯狂动物城（热度：740179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E7%A7%B0%E5%B7%B2%E5%AF%B9%E6%B7%98%E5%AE%9D%E9%9C%B8%E5%B1%8F%E5%B9%BF%E5%91%8A%E5%B1%95%E5%BC%80%E8%B0%83%E6%9F%A5%23" target="weibo">
 官方称已对淘宝霸屏广告展开调查（热度：740040）
 </a>
@@ -6005,12 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A6%88%E5%A6%88%E5%8E%BB%E4%B8%968%E5%B2%81%E5%A5%B3%E5%AD%A9%E5%86%AC%E5%A4%A9%E7%A9%BF%E6%8B%96%E9%9E%8B%E6%B5%81%E6%B5%AA%23" target="weibo">
 妈妈去世8岁女孩冬天穿拖鞋流浪（热度：572652）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9B%B4%E5%A4%A7%E6%9B%B4%E5%BC%BA%E7%9A%84%E8%88%AA%E6%AF%8D%E6%88%96%E5%87%BA%E7%8E%B0%E5%9C%A8%E6%97%A5%E6%9C%AC%23" target="weibo">
-更大更强的航母或出现在日本（热度：572574）
 </a>
 </li>
 

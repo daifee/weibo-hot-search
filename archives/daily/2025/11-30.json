@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764481388227,
+  "endTime": 1764484759471,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1115086,
-      "num": 263392,
+      "num": 323563,
       "word": "陈伟霆说基本上全世界男人都这样",
       "onboard_time": 1764479542,
       "rank": 11,
@@ -73,6 +73,14 @@
       "onboard_time": 1764478461,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 740179,
+      "num": 559157,
+      "word": "疯狂动物城",
+      "onboard_time": 1764387380,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 680256,
@@ -139,6 +147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 530530,
+      "num": 307546,
+      "word": "新白粉丝质问叶童",
+      "onboard_time": 1764483021,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 530265,
       "num": 210039,
       "word": "高市被曝想争取他国支持缓解外交摩擦",
@@ -195,20 +211,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 420356,
-      "num": 420356,
-      "word": "疯狂动物城",
-      "onboard_time": 1764387380,
-      "rank": 47,
-      "category": "电影"
-    },
-    {
       "raw_hot": 409462,
       "num": 204935,
       "word": "刘旸 不要随便发观后感",
       "onboard_time": 1764466640,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399985,
+      "num": 399985,
+      "word": "央视曝光减肥针",
+      "onboard_time": 1764481582,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 399327,
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 391330,
-      "num": 375427,
+      "num": 551826,
       "word": "国考难度",
       "onboard_time": 1764477021,
       "rank": 27,
@@ -259,11 +275,27 @@
       "category": "体育"
     },
     {
+      "raw_hot": 365348,
+      "num": 301654,
+      "word": "能让何炅黄磊同时鞠躬的人真不多了",
+      "onboard_time": 1764479900,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 365178,
       "num": 306908,
       "word": "女子带孩子电影院占座被怒怼",
       "onboard_time": 1764471080,
       "rank": 13,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 362959,
+      "num": 362959,
+      "word": "卖手机壳比卖手机还赚钱",
+      "onboard_time": 1764479421,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -283,14 +315,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 329328,
-      "num": 329328,
-      "word": "卖手机壳比卖手机还赚钱",
-      "onboard_time": 1764479421,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 318322,
       "num": 291825,
       "word": "国考数量",
@@ -305,14 +329,6 @@
       "onboard_time": 1764471380,
       "rank": 8,
       "category": "体育"
-    },
-    {
-      "raw_hot": 298866,
-      "num": 239520,
-      "word": "能让何炅黄磊同时鞠躬的人真不多了",
-      "onboard_time": 1764479900,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 296095,
@@ -337,6 +353,14 @@
       "onboard_time": 1764474623,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 289073,
+      "num": 289073,
+      "word": "艾登给黄雅琼当花童",
+      "onboard_time": 1764480141,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 284109,
@@ -403,14 +427,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 232852,
-      "num": 232852,
-      "word": "艾登给黄雅琼当花童",
-      "onboard_time": 1764480141,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231120,
       "num": 318914,
       "word": "喜人 补录",
@@ -475,20 +491,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215108,
+      "num": 215108,
+      "word": "孙颖莎倒地爆冲黄镇廷",
+      "onboard_time": 1764479542,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 212864,
       "num": 212864,
       "word": "国考言语",
       "onboard_time": 1764475101,
       "rank": 31,
       "category": "教育"
-    },
-    {
-      "raw_hot": 211797,
-      "num": 211797,
-      "word": "孙颖莎倒地爆冲黄镇廷",
-      "onboard_time": 1764479542,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 211618,
@@ -545,6 +561,14 @@
       "onboard_time": 1764471678,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 197553,
+      "num": 129627,
+      "word": "黄圣依妈妈道歉说我爱你不容易",
+      "onboard_time": 1764483620,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 195676,
@@ -617,6 +641,22 @@
       "onboard_time": 1764480501,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179374,
+      "num": 128927,
+      "word": "黄雅琼说刘雨辰是命中注定",
+      "onboard_time": 1764481460,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177408,
+      "num": 128349,
+      "word": "李诞首度自曝为什么不要孩子",
+      "onboard_time": 1764484223,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 175326,
@@ -763,6 +803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149809,
+      "num": 127551,
+      "word": "胡先煦新剧口碑",
+      "onboard_time": 1764483201,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 149284,
       "num": 149284,
       "word": "王楚钦孙颖莎神球不断",
@@ -793,6 +841,14 @@
       "onboard_time": 1764473361,
       "rank": 32,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143028,
+      "num": 143028,
+      "word": "陈晓一跪眼泪就出来了",
+      "onboard_time": 1764480621,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 142267,
@@ -833,6 +889,14 @@
       "onboard_time": 1764467540,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132527,
+      "num": 109620,
+      "word": "吕严感谢酷滕投喂",
+      "onboard_time": 1764483681,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 132175,
@@ -995,6 +1059,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 116238,
+      "num": 116238,
+      "word": "男子藏境外贩毒被毒贩锁在山洞",
+      "onboard_time": 1764483739,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116205,
       "num": 313628,
       "word": "韩国街头煮火鸡面",
@@ -1033,6 +1105,14 @@
       "onboard_time": 1764432201,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111024,
+      "num": 111024,
+      "word": "你买的进口奶粉可能是假奶粉",
+      "onboard_time": 1764482901,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 109709,
@@ -1083,11 +1163,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106849,
-      "num": 125736,
-      "word": "陈晓一跪眼泪就出来了",
-      "onboard_time": 1764480621,
-      "rank": 39,
+      "raw_hot": 107044,
+      "num": 107044,
+      "word": "枭起青壤是懂反转的",
+      "onboard_time": 1764484579,
+      "rank": 32,
       "category": "剧集"
     },
     {
@@ -1139,6 +1219,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99107,
+      "num": 99107,
+      "word": "孙颖莎王曼昱混乱找站位",
+      "onboard_time": 1764483860,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97775,
       "num": 97775,
       "word": "驻日大使人民日报撰文",
@@ -1147,12 +1235,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 97687,
+      "num": 97687,
+      "word": "现在的文具进化成这样了吗",
+      "onboard_time": 1764482239,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 95979,
       "num": 313617,
       "word": "现在就出发字幕",
       "onboard_time": 1764432501,
       "rank": 31,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 95512,
+      "num": 95512,
+      "word": "上海 12899元咖啡",
+      "onboard_time": 1764483860,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 95465,
@@ -1171,6 +1275,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 93589,
+      "num": 93589,
+      "word": "为300万赌债把恩人卖了",
+      "onboard_time": 1764482841,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 93504,
       "num": 313599,
       "word": "冬天减肥不想出门怎么办",
@@ -1185,6 +1297,22 @@
       "onboard_time": 1764430703,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 92975,
+      "num": 92975,
+      "word": "柯淳 朋友借钱没准备要回来",
+      "onboard_time": 1764482901,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 92131,
+      "num": 92131,
+      "word": "迪丽热巴的打戏像开了二倍速",
+      "onboard_time": 1764483499,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 91005,
@@ -1243,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86703,
+      "num": 86703,
+      "word": "繁花微梦愿落成歌",
+      "onboard_time": 1764483561,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 86121,
       "num": 313568,
       "word": "王鹤棣耳朵红得不行",
@@ -1259,12 +1395,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 85453,
+      "num": 85453,
+      "word": "原神凯亚",
+      "onboard_time": 1764482779,
+      "rank": 48,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 84593,
       "num": 165896,
       "word": "江西早产离世患儿家属已向法院起诉",
       "onboard_time": 1764467240,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84413,
+      "num": 84413,
+      "word": "畏手畏脚的女孩都来学学",
+      "onboard_time": 1764482601,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 83966,
@@ -1419,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 64215,
+      "num": 107418,
+      "word": "明谕琉球国王敕在大连展出",
+      "onboard_time": 1764482901,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63334,
       "num": 71357,
       "word": "国乒集体出席成都混团欢迎晚宴",
@@ -1433,6 +1593,14 @@
       "onboard_time": 1764423443,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 58703,
+      "num": 86890,
+      "word": "孙颖莎王楚钦一起举手示意",
+      "onboard_time": 1764483201,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 58192,
@@ -1523,6 +1691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45828,
+      "num": 131676,
+      "word": "湖南一烟花店燃爆有汽车被炸飞",
+      "onboard_time": 1764484101,
+      "rank": 19,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 45775,
       "num": 1050688,
       "word": "南北方同步开启干冷模式",
@@ -1564,7 +1740,7 @@
     },
     {
       "raw_hot": 41828,
-      "num": 489437,
+      "num": 668147,
       "word": "秋冬如何预防呼吸道感染",
       "onboard_time": 1764478702,
       "rank": 2,
@@ -1625,6 +1801,14 @@
       "onboard_time": 1764443775,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 25456,
+      "num": 93525,
+      "word": "西亚卡姆绝杀公牛",
+      "onboard_time": 1764484400,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 24528,
