@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764524421973,
+  "endTime": 1764527764306,
   "band_list": [
     {
       "raw_hot": 2134222,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 44366,
-      "num": 91269,
+      "num": 103895,
       "word": "刘少昂世巡赛1000米摘银",
       "onboard_time": 1764516021,
       "rank": 47,
@@ -451,6 +451,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36503,
+      "num": 44963,
+      "word": "这才是清朝时期真正的辫子",
+      "onboard_time": 1764510921,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 32373,
+      "num": 44946,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1764524115,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30797,
       "num": 57374,
       "word": "要被邢深气死了",
@@ -467,20 +483,28 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 27653,
-      "num": 44963,
-      "word": "这才是清朝时期真正的辫子",
-      "onboard_time": 1764510921,
-      "rank": 42,
-      "category": "情感"
+      "raw_hot": 24862,
+      "num": 24862,
+      "word": "可能创下吉尼斯最快脱袜纪录",
+      "onboard_time": 1764526515,
+      "rank": 35,
+      "category": "幽默"
     },
     {
-      "raw_hot": 26044,
-      "num": 44946,
-      "word": "喜人奇妙夜2",
-      "onboard_time": 1764524115,
-      "rank": 43,
-      "category": "综艺"
+      "raw_hot": 23948,
+      "num": 24416,
+      "word": "榆林学生遭霸凌部分学生及家长已道歉",
+      "onboard_time": 1764526455,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15831,
+      "num": 24407,
+      "word": "免费职业技能夜校几乎期期爆满",
+      "onboard_time": 1764527595,
+      "rank": 47,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

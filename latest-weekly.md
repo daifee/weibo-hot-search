@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/01 01:40:21
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/01 02:36:04
 </p>
 </blockquote>
 <p>
@@ -2745,6 +2745,12 @@ U16国足5场进42球（热度：68958）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%23" target="weibo">
+喜人奇妙夜2（热度：32373）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E8%A6%81%E5%9C%A8%E6%B5%B7%E5%BA%95%E6%8A%93%E5%B9%BD%E7%81%B5%E7%B2%92%E5%AD%90%23" target="weibo">
 中国要在海底抓幽灵粒子（热度：31972）
 </a>
@@ -2805,12 +2811,6 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%96%9C%E4%BA%BA%E5%A5%87%E5%A6%99%E5%A4%9C2%23" target="weibo">
-喜人奇妙夜2（热度：26044）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E4%BA%9A%E5%8D%A1%E5%A7%86%E7%BB%9D%E6%9D%80%E5%85%AC%E7%89%9B%23" target="weibo">
 西亚卡姆绝杀公牛（热度：25456）
 </a>
@@ -2819,6 +2819,12 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AE%B0%E8%80%85%E7%9B%AE%E5%87%BB%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E9%A6%96%E9%83%BD%E5%86%9B%E8%BD%A6%E5%BE%80%E6%9D%A5%23" target="weibo">
 记者目击委内瑞拉首都军车往来（热度：25004）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E8%83%BD%E5%88%9B%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E6%9C%80%E5%BF%AB%E8%84%B1%E8%A2%9C%E7%BA%AA%E5%BD%95%23" target="weibo">
+可能创下吉尼斯最快脱袜纪录（热度：24862）
 </a>
 </li>
 
@@ -2853,6 +2859,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
+榆林学生遭霸凌部分学生及家长已道歉（热度：23948）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A6%E8%88%9E%E4%B9%8B%E5%9F%8E%23" target="weibo">
 亦舞之城（热度：23927）
 </a>
@@ -2873,6 +2885,12 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%AE%E8%A1%8C%E5%BC%80%E9%80%9A%E6%8D%90%E8%B5%A0%E7%BB%BF%E8%89%B2%E9%80%9A%E9%81%93%E6%94%AF%E6%8C%81%E9%A6%99%E6%B8%AF%E6%95%91%E7%81%BE%23" target="weibo">
 央行开通捐赠绿色通道支持香港救灾（热度：17926）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23" target="weibo">
+免费职业技能夜校几乎期期爆满（热度：15831）
 </a>
 </li>
 
