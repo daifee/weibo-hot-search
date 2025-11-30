@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764506994540,
+  "endTime": 1764507825589,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1195,6 +1195,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1479676,
+      "num": 170803,
+      "word": "王嘉尔自曝恋爱经历",
+      "onboard_time": 1764504381,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1474589,
       "num": 436709,
       "word": "Uzi 拿奖杯",
@@ -1209,14 +1217,6 @@
       "onboard_time": 1762325540,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1466189,
-      "num": 135776,
-      "word": "王嘉尔自曝恋爱经历",
-      "onboard_time": 1764504381,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1461165,
@@ -24428,7 +24428,7 @@
     },
     {
       "raw_hot": 247015,
-      "num": 134555,
+      "num": 304579,
       "word": "长期没穿的衣服藏健康隐患",
       "onboard_time": 1764503541,
       "rank": 23,
@@ -24464,6 +24464,14 @@
       "word": "女主播称被800万粉丝网红教唆吸毒",
       "onboard_time": 1762586121,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 246888,
+      "num": 246888,
+      "word": "早产男婴出保温箱离世母亲再发声",
+      "onboard_time": 1764504501,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -24529,6 +24537,14 @@
       "onboard_time": 1762920080,
       "rank": 9,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245338,
+      "num": 307208,
+      "word": "真人版疯狂动物城",
+      "onboard_time": 1764489919,
+      "rank": 24,
+      "category": "电影"
     },
     {
       "raw_hot": 244943,
@@ -25699,6 +25715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 231835,
+      "num": 159471,
+      "word": "杨丞琳缺席许玮甯婚礼",
+      "onboard_time": 1764504861,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 231753,
       "num": 231753,
       "word": "王毅三个绝不允许",
@@ -26729,14 +26753,6 @@
       "onboard_time": 1763130922,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222877,
-      "num": 134255,
-      "word": "杨丞琳缺席许玮甯婚礼",
-      "onboard_time": 1764504861,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 222823,
@@ -32041,14 +32057,6 @@
       "onboard_time": 1764425003,
       "rank": 48,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 192338,
-      "num": 192338,
-      "word": "真人版疯狂动物城",
-      "onboard_time": 1764489919,
-      "rank": 24,
-      "category": "电影"
     },
     {
       "raw_hot": 192337,
@@ -39563,14 +39571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 162124,
-      "num": 162124,
-      "word": "早产男婴出保温箱离世母亲再发声",
-      "onboard_time": 1764504501,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 162100,
       "num": 162100,
       "word": "易烊千玺说自己心很大容易翻篇",
@@ -42755,6 +42755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 152231,
+      "num": 152231,
+      "word": "让劣迹网红的复出试探无处遁形",
+      "onboard_time": 1764505641,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 152211,
       "num": 152211,
       "word": "马思纯 没有笑的义务",
@@ -43561,6 +43569,14 @@
       "onboard_time": 1763508738,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149639,
+      "num": 293033,
+      "word": "水晶宫vs曼联",
+      "onboard_time": 1764506902,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 149613,
@@ -47715,6 +47731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 137563,
+      "num": 137563,
+      "word": "范丞丞工伤",
+      "onboard_time": 1764505940,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137561,
       "num": 137561,
       "word": "原来结婚前一晚真的睡不着",
@@ -49379,6 +49403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133490,
+      "num": 133490,
+      "word": "华晨宇20米高空站桩直播",
+      "onboard_time": 1764507442,
+      "rank": 28,
+      "category": "演出"
+    },
+    {
       "raw_hot": 133474,
       "num": 139261,
       "word": "邓家佳角色查重率为0",
@@ -50201,6 +50233,14 @@
       "onboard_time": 1762143202,
       "rank": 38,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 131505,
+      "num": 184021,
+      "word": "多国最新涉台表态",
+      "onboard_time": 1764501141,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131488,
@@ -53555,14 +53595,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 124401,
-      "num": 124401,
-      "word": "范丞丞工伤",
-      "onboard_time": 1764505940,
-      "rank": 28,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 124371,
       "num": 126686,
       "word": "TVB老戏骨凌汉已去世",
@@ -53697,6 +53729,14 @@
       "onboard_time": 1763699482,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 124171,
+      "num": 124171,
+      "word": "国产剧拍了女性大方谈月经",
+      "onboard_time": 1764507200,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 124169,
@@ -55299,14 +55339,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 121213,
-      "num": 184021,
-      "word": "多国最新涉台表态",
-      "onboard_time": 1764501141,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 121195,
       "num": 149813,
       "word": "明星金鸡奖出图",
@@ -56025,6 +56057,14 @@
       "onboard_time": 1764136160,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 119816,
+      "num": 119816,
+      "word": "炎拓被囚禁",
+      "onboard_time": 1764506961,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 119807,
@@ -57249,6 +57289,14 @@
       "onboard_time": 1763202382,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117741,
+      "num": 117741,
+      "word": "货车龟速行驶后车追尾司机死亡",
+      "onboard_time": 1764506720,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117717,
@@ -62923,6 +62971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107764,
+      "num": 107764,
+      "word": "Gr对战北京WBG",
+      "onboard_time": 1764503662,
+      "rank": 46,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 107759,
       "num": 107758,
       "word": "清瞳炼化苦情树",
@@ -64089,6 +64145,14 @@
       "onboard_time": 1764201561,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105966,
+      "num": 105966,
+      "word": "英法爆发大规模游行",
+      "onboard_time": 1764506600,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 105962,
@@ -69971,14 +70035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 97298,
-      "num": 97298,
-      "word": "让劣迹网红的复出试探无处遁形",
-      "onboard_time": 1764505641,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 97297,
       "num": 97297,
       "word": "时代少年团彩排",
@@ -70771,6 +70827,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96026,
+      "num": 96026,
+      "word": "郑乃馨疑似回应分手",
+      "onboard_time": 1764507743,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 95988,
       "num": 95988,
       "word": "A股全市场超4200股上涨",
@@ -71393,6 +71457,14 @@
       "onboard_time": 1764423023,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 95235,
+      "num": 95235,
+      "word": "沈腾 范丞丞2000年的一个孩子",
+      "onboard_time": 1764504381,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 95230,
@@ -74379,14 +74451,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 90728,
-      "num": 90728,
-      "word": "水晶宫vs曼联",
-      "onboard_time": 1764506902,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90710,
       "num": 90710,
       "word": "低端影视闭站",
@@ -74571,6 +74635,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 90478,
+      "num": 90478,
+      "word": "38岁考生说国考年龄放宽挺好的",
+      "onboard_time": 1764503361,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 90461,
       "num": 90461,
       "word": "黄金还要继续跌吗",
@@ -74665,6 +74737,14 @@
       "onboard_time": 1762788562,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90321,
+      "num": 90321,
+      "word": "东北姥爷第一次吃广东早茶",
+      "onboard_time": 1764506482,
+      "rank": 37,
+      "category": "美食"
     },
     {
       "raw_hot": 90292,
@@ -76387,14 +76467,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 87838,
-      "num": 87838,
-      "word": "货车龟速行驶后车追尾司机死亡",
-      "onboard_time": 1764506720,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 87825,
       "num": 87825,
       "word": "东北搓澡真没那么可怕",
@@ -77611,14 +77683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 86176,
-      "num": 86176,
-      "word": "东北姥爷第一次吃广东早茶",
-      "onboard_time": 1764506482,
-      "rank": 37,
-      "category": "美食"
-    },
-    {
       "raw_hot": 86166,
       "num": 86166,
       "word": "拍到了导师组会批假记录",
@@ -78049,6 +78113,14 @@
       "onboard_time": 1762841959,
       "rank": 44,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 85701,
+      "num": 85701,
+      "word": "水果夹酸奶",
+      "onboard_time": 1764504262,
+      "rank": 41,
+      "category": "美食"
     },
     {
       "raw_hot": 85680,
@@ -78667,14 +78739,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 84694,
-      "num": 84694,
-      "word": "38岁考生说国考年龄放宽挺好的",
-      "onboard_time": 1764503361,
-      "rank": 38,
-      "category": "教育"
-    },
-    {
       "raw_hot": 84691,
       "num": 503881,
       "word": "央视曝光盗版剧APP",
@@ -79281,6 +79345,14 @@
       "onboard_time": 1762427122,
       "rank": 19,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 83757,
+      "num": 83757,
+      "word": "oner将人生押在了英雄联盟",
+      "onboard_time": 1764506781,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 83742,
@@ -80137,14 +80209,6 @@
       "onboard_time": 1762248502,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 82081,
-      "num": 82081,
-      "word": "英法爆发大规模游行",
-      "onboard_time": 1764506600,
-      "rank": 40,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 82072,
@@ -81643,14 +81707,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 79198,
-      "num": 79198,
-      "word": "水果夹酸奶",
-      "onboard_time": 1764504262,
-      "rank": 41,
-      "category": "美食"
-    },
-    {
       "raw_hot": 79178,
       "num": 79178,
       "word": "宋亚轩这下把压力给到了李飞",
@@ -82065,14 +82121,6 @@
       "onboard_time": 1763223742,
       "rank": 49,
       "category": "演出"
-    },
-    {
-      "raw_hot": 78252,
-      "num": 78252,
-      "word": "oner将人生押在了英雄联盟",
-      "onboard_time": 1764506781,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 78227,
@@ -82697,14 +82745,6 @@
       "onboard_time": 1763710400,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76974,
-      "num": 76974,
-      "word": "Gr对战北京WBG",
-      "onboard_time": 1764503662,
-      "rank": 46,
-      "category": "电竞"
     },
     {
       "raw_hot": 76958,
@@ -83955,6 +83995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 74248,
+      "num": 177263,
+      "word": "年轻人背50块帆布包配3000块包挂",
+      "onboard_time": 1764507263,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74246,
       "num": 94339,
       "word": "全红婵回应全运会夺金",
@@ -84017,14 +84065,6 @@
       "onboard_time": 1764292102,
       "rank": 43,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 74125,
-      "num": 74125,
-      "word": "炎拓被囚禁",
-      "onboard_time": 1764506961,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 74078,
@@ -87857,6 +87897,14 @@
       "onboard_time": 1763343441,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 63654,
+      "num": 80755,
+      "word": "曼联落后",
+      "onboard_time": 1764507679,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63649,
@@ -94185,6 +94233,14 @@
       "onboard_time": 1762497740,
       "rank": 38,
       "category": "民生新闻,休闲"
+    },
+    {
+      "raw_hot": 43430,
+      "num": 391541,
+      "word": "黄土高原变绿了",
+      "onboard_time": 1764507263,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 43425,
