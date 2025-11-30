@@ -1,0 +1,410 @@
+{
+  "runTime": 1764480466788,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2084227,
+        "num": 2084227,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 613094,
+        "num": 613094,
+        "word": "中国人民不答应中国军队不答应",
+        "onboard_time": 1764478461,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 38692,
+        "num": 489437,
+        "word": "秋冬如何预防呼吸道感染",
+        "onboard_time": 1764478702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 476044,
+        "num": 476044,
+        "word": "国考图推",
+        "onboard_time": 1764473960,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 377809,
+        "num": 377809,
+        "word": "才播4集女主背后空无一人",
+        "onboard_time": 1764473001,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1384715,
+        "num": 363723,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 438716,
+        "num": 342573,
+        "word": "刘义恒 图推的神",
+        "onboard_time": 1764476300,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 303562,
+        "num": 303562,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 283978,
+        "num": 283978,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 167254,
+        "num": 281829,
+        "word": "美国 委内瑞拉",
+        "onboard_time": 1764470180,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 23646,
+        "num": 273920,
+        "word": "香港大埔火灾善后工作有序开展",
+        "onboard_time": 1764480141,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1021599,
+        "num": 263392,
+        "word": "陈伟霆说基本上全世界男人都这样",
+        "onboard_time": 1764479542,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 391330,
+        "num": 256401,
+        "word": "国考难度",
+        "onboard_time": 1764477021,
+        "rank": 12,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 372823,
+        "num": 252200,
+        "word": "裁判扔球王楚钦猝不及防",
+        "onboard_time": 1764476781,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 296095,
+        "num": 239370,
+        "word": "申论",
+        "onboard_time": 1764474502,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236409,
+        "num": 236409,
+        "word": "陈星旭太知道林一追星刘亦菲了",
+        "onboard_time": 1764476180,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 41314,
+        "num": 236145,
+        "word": "漫才兄弟改名了",
+        "onboard_time": 1764479542,
+        "rank": 16,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 31041,
+        "num": 236028,
+        "word": "委内瑞拉启动海外公民归国预案",
+        "onboard_time": 1764479421,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 171215,
+        "num": 235720,
+        "word": "能让何炅黄磊同时鞠躬的人真不多了",
+        "onboard_time": 1764479900,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147766,
+        "num": 235351,
+        "word": "卖手机壳比卖手机还赚钱",
+        "onboard_time": 1764479421,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 822714,
+        "num": 235246,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362196,
+        "num": 234975,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234692,
+        "num": 234692,
+        "word": "国考答案",
+        "onboard_time": 1764473182,
+        "rank": 22,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 224643,
+        "num": 224643,
+        "word": "前有卢凌风叫娘 后有炎拓叫妈",
+        "onboard_time": 1764479481,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205535,
+        "num": 205535,
+        "word": "樊振东又录婚礼祝福了",
+        "onboard_time": 1764476300,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 200135,
+        "num": 200135,
+        "word": "国考 比去年难",
+        "onboard_time": 1764478401,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 181628,
+        "num": 181628,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 26,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 180308,
+        "num": 180308,
+        "word": "水谷隼说被伊藤美诚拉黑了",
+        "onboard_time": 1764473062,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166079,
+        "num": 166079,
+        "word": "孙颖莎倒地爆冲黄镇廷",
+        "onboard_time": 1764479542,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126951,
+        "num": 160567,
+        "word": "香港为灾民提供免费住屋",
+        "onboard_time": 1764478341,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157234,
+        "num": 157234,
+        "word": "艾登给黄雅琼当花童",
+        "onboard_time": 1764480141,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 150247,
+        "num": 150247,
+        "word": "国考图推答案",
+        "onboard_time": 1764476840,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 148717,
+        "num": 148717,
+        "word": "女子带孩子电影院占座被怒怼",
+        "onboard_time": 1764471080,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148379,
+        "num": 148379,
+        "word": "肖战拒绝螺蛳粉后来真香了",
+        "onboard_time": 1764469519,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146349,
+        "num": 146349,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 143211,
+        "num": 143211,
+        "word": "疯狂动物城2原来是这么翻译的",
+        "onboard_time": 1764473361,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 37834,
+        "num": 143030,
+        "word": "官方通报初中生在校体测倒地后猝死",
+        "onboard_time": 1764479781,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109709,
+        "num": 142608,
+        "word": "村民用了多年的垫脚石竟是恐龙化石",
+        "onboard_time": 1764479421,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69921,
+        "num": 142390,
+        "word": "女子接电话挪车目击汽修店员放铁钉",
+        "onboard_time": 1764479301,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75034,
+        "num": 142099,
+        "word": "菲律宾多地将举行大规模抗议示威",
+        "onboard_time": 1764479421,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 141863,
+        "num": 141863,
+        "word": "国乒8比1中国香港",
+        "onboard_time": 1764478161,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140173,
+        "num": 140173,
+        "word": "于正发的赵晴男装",
+        "onboard_time": 1764470300,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 137094,
+        "num": 137094,
+        "word": "不小心把导师cp名改成群名",
+        "onboard_time": 1764478702,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 134797,
+        "num": 134797,
+        "word": "画梅退网",
+        "onboard_time": 1764461660,
+        "rank": 43,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 132427,
+        "num": 132427,
+        "word": "光与夜之恋",
+        "onboard_time": 1764476901,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 132175,
+        "num": 132175,
+        "word": "孙颖莎王楚钦蒯曼林诗栋赢了",
+        "onboard_time": 1764478763,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 129896,
+        "num": 129896,
+        "word": "林诗栋3比0林兆恒",
+        "onboard_time": 1764479721,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127007,
+        "num": 127007,
+        "word": "解放军报三个行不通警告日本",
+        "onboard_time": 1764480261,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122343,
+        "num": 122343,
+        "word": "年卖10亿的凤爪大王培养侄子上位",
+        "onboard_time": 1764473901,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114506,
+        "num": 114506,
+        "word": "双高胎",
+        "onboard_time": 1764471501,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续营造风清气正的网络空间#"
+    }
+  }
+}
