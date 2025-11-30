@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764527764306,
+  "endTime": 1764528489596,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -3731,6 +3731,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25567,
+      "num": 25567,
+      "word": "可能创下吉尼斯最快脱袜纪录",
+      "onboard_time": 1764526515,
+      "rank": 35,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 25456,
       "num": 96139,
       "word": "西亚卡姆绝杀公牛",
@@ -3745,14 +3753,6 @@
       "onboard_time": 1764515241,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24862,
-      "num": 24862,
-      "word": "可能创下吉尼斯最快脱袜纪录",
-      "onboard_time": 1764526515,
-      "rank": 35,
-      "category": "幽默"
     },
     {
       "raw_hot": 24528,
@@ -3811,6 +3811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23892,
+      "num": 23892,
+      "word": "汪苏泷这里不让睡觉",
+      "onboard_time": 1764528015,
+      "rank": 35,
+      "category": "演出"
+    },
+    {
       "raw_hot": 23842,
       "num": 204547,
       "word": "大坝建设为何在中国电建体内循环",
@@ -3833,6 +3841,14 @@
       "onboard_time": 1764452654,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16066,
+      "num": 23875,
+      "word": "宁静选择上综艺不拍戏",
+      "onboard_time": 1764527775,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 15831,
