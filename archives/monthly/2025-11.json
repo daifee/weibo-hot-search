@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764510244844,
+  "endTime": 1764512643252,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1196,7 +1196,7 @@
     },
     {
       "raw_hot": 1479676,
-      "num": 185301,
+      "num": 185358,
       "word": "王嘉尔自曝恋爱经历",
       "onboard_time": 1764504381,
       "rank": 20,
@@ -6867,6 +6867,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 631589,
+      "num": 363542,
+      "word": "幼师等招聘可依法查询吸毒记录",
+      "onboard_time": 1764511641,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 631043,
       "num": 252781,
       "word": "剪毁刘海意外成了人生发型",
@@ -8211,6 +8219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 570390,
+      "num": 318643,
+      "word": "杨紫的家业还是太火了",
+      "onboard_time": 1764509421,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 570275,
       "num": 1013944,
       "word": "大生意人破3",
@@ -8800,6 +8816,14 @@
       "word": "江苏一快递员因送错快递被杀",
       "onboard_time": 1763024001,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 548087,
+      "num": 1087693,
+      "word": "让劣迹网红的复出试探无处遁形",
+      "onboard_time": 1764505641,
+      "rank": 32,
       "category": "民生新闻"
     },
     {
@@ -16275,6 +16299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 358902,
+      "num": 148808,
+      "word": "路人偶遇Angelababy接小海绵放学",
+      "onboard_time": 1764509843,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 358878,
       "num": 358878,
       "word": "日方必须给中国人民一个交代",
@@ -19499,6 +19531,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 304704,
+      "num": 304704,
+      "word": "沈腾的征信都扫不了共享单车",
+      "onboard_time": 1764510023,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 304618,
       "num": 172741,
       "word": "马龙说着说着就快哭了",
@@ -21713,6 +21753,14 @@
       "onboard_time": 1763202322,
       "rank": 28,
       "category": "电影"
+    },
+    {
+      "raw_hot": 278265,
+      "num": 278265,
+      "word": "外卖大战6个月烧掉近800亿",
+      "onboard_time": 1764511882,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 278173,
@@ -26427,14 +26475,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225303,
-      "num": 225303,
-      "word": "让劣迹网红的复出试探无处遁形",
-      "onboard_time": 1764505641,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 225265,
       "num": 1088056,
       "word": "任嘉伦成毅新剧或将对打",
@@ -27555,6 +27595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216062,
+      "num": 330300,
+      "word": "iG纪录片",
+      "onboard_time": 1764510381,
+      "rank": 8,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 215995,
       "num": 215995,
       "word": "全世界偶遇范丞丞",
@@ -28289,6 +28337,14 @@
       "onboard_time": 1764227903,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211249,
+      "num": 211249,
+      "word": "肖战超长款羽绒服",
+      "onboard_time": 1764509782,
+      "rank": 32,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 211154,
@@ -30923,6 +30979,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 197125,
+      "num": 182646,
+      "word": "黄雅琼刘雨辰人脉太广了",
+      "onboard_time": 1764508942,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197111,
       "num": 166214,
       "word": "房中房中房中房中房",
@@ -31529,6 +31593,14 @@
       "onboard_time": 1763959402,
       "rank": 27,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 194691,
+      "num": 148724,
+      "word": "这才是清朝时期真正的辫子",
+      "onboard_time": 1764510921,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 194686,
@@ -34051,14 +34123,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 185406,
-      "num": 185406,
-      "word": "杨紫的家业还是太火了",
-      "onboard_time": 1764509421,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185378,
       "num": 158113,
       "word": "周恺晋级全运会男单8强",
@@ -34721,6 +34785,14 @@
       "onboard_time": 1762257501,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 182520,
+      "num": 182520,
+      "word": "韦雪前男友自曝喜欢的明星",
+      "onboard_time": 1764511641,
+      "rank": 24,
+      "category": "网红"
     },
     {
       "raw_hot": 182475,
@@ -38176,14 +38248,6 @@
       "word": "王楚钦我也没那么老吧",
       "onboard_time": 1763651842,
       "rank": 41,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 166718,
-      "num": 151080,
-      "word": "黄雅琼刘雨辰人脉太广了",
-      "onboard_time": 1764508942,
-      "rank": 31,
       "category": "体育"
     },
     {
@@ -47979,6 +48043,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137343,
+      "num": 137343,
+      "word": "皮皮朱回怼女人独立要男人干啥",
+      "onboard_time": 1764512062,
+      "rank": 38,
+      "category": "网红"
+    },
+    {
       "raw_hot": 137325,
       "num": 137325,
       "word": "冷美人参赛37天瘦到脱相",
@@ -48713,6 +48785,14 @@
       "onboard_time": 1764390561,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135536,
+      "num": 135536,
+      "word": "TheShy说赢了T1就能进决赛",
+      "onboard_time": 1764512062,
+      "rank": 39,
+      "category": "电竞"
     },
     {
       "raw_hot": 135519,
@@ -51723,6 +51803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 128105,
+      "num": 128105,
+      "word": "水晶宫1比2曼联",
+      "onboard_time": 1764511702,
+      "rank": 40,
+      "category": "体育"
+    },
+    {
       "raw_hot": 128061,
       "num": 128061,
       "word": "枭起青壤微博追剧团",
@@ -51897,14 +51985,6 @@
       "onboard_time": 1762682958,
       "rank": 39,
       "category": "演出"
-    },
-    {
-      "raw_hot": 127601,
-      "num": 127601,
-      "word": "肖战超长款羽绒服",
-      "onboard_time": 1764509782,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 127588,
@@ -52177,6 +52257,14 @@
       "onboard_time": 1762327039,
       "rank": 27,
       "category": "财经"
+    },
+    {
+      "raw_hot": 127114,
+      "num": 127114,
+      "word": "成毅周笔畅把春天唱进歌里",
+      "onboard_time": 1764511942,
+      "rank": 43,
+      "category": "音乐"
     },
     {
       "raw_hot": 127112,
@@ -56795,14 +56883,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 118675,
-      "num": 118675,
-      "word": "路人偶遇Angelababy接小海绵放学",
-      "onboard_time": 1764509843,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118637,
       "num": 118637,
       "word": "谁吃固体杨枝甘露是图省事",
@@ -59363,6 +59443,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 114096,
+      "num": 114096,
+      "word": "U17亚洲杯国少五战全胜晋级",
+      "onboard_time": 1764512122,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114093,
       "num": 114093,
       "word": "鬼灭之刃童琴",
@@ -60857,6 +60945,14 @@
       "onboard_time": 1764146542,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111482,
+      "num": 143340,
+      "word": "何炅一下就把那英哄好了",
+      "onboard_time": 1764511103,
+      "rank": 34,
+      "category": "综艺"
     },
     {
       "raw_hot": 111469,
@@ -65939,6 +66035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 103400,
+      "num": 103400,
+      "word": "菩萨不会救我的 我会",
+      "onboard_time": 1764512542,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103394,
       "num": 103394,
       "word": "杨天真瘦到撞脸杨笠",
@@ -70275,6 +70379,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 97170,
+      "num": 97170,
+      "word": "樊振东刻在骨子里的爱国情",
+      "onboard_time": 1764512602,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97169,
       "num": 97169,
       "word": "没睡醒的人能出多少洋相",
@@ -70681,6 +70793,14 @@
       "onboard_time": 1762590261,
       "rank": 36,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 96597,
+      "num": 96597,
+      "word": "Deft近况",
+      "onboard_time": 1764511463,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 96596,
@@ -71561,14 +71681,6 @@
       "onboard_time": 1762406001,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 95302,
-      "num": 95302,
-      "word": "沈腾的征信都扫不了共享单车",
-      "onboard_time": 1764510023,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 95299,
@@ -78513,6 +78625,14 @@
       "onboard_time": 1764311601,
       "rank": 10,
       "category": "美食"
+    },
+    {
+      "raw_hot": 85340,
+      "num": 127330,
+      "word": "宁波地铁车厢广告被吐槽诡异阴间",
+      "onboard_time": 1764511282,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85334,
@@ -90971,6 +91091,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 54004,
+      "num": 186521,
+      "word": "2025年中国居民退休准备指数微升",
+      "onboard_time": 1764512122,
+      "rank": 19,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 53987,
       "num": 275593,
       "word": "大眼音乐节舞台",
@@ -91345,6 +91473,14 @@
       "onboard_time": 1763050580,
       "rank": 41,
       "category": "互联网,游戏"
+    },
+    {
+      "raw_hot": 52824,
+      "num": 137748,
+      "word": "那英直播在嘴里炒了一盘菜",
+      "onboard_time": 1764510442,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 52820,
@@ -92225,6 +92361,14 @@
       "onboard_time": 1762440142,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49997,
+      "num": 321562,
+      "word": "印尼洪水山体滑坡442人死亡",
+      "onboard_time": 1764511823,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 49962,
@@ -93721,6 +93865,14 @@
       "onboard_time": 1763442023,
       "rank": 49,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 45484,
+      "num": 142402,
+      "word": "荒野求生第3届报名人数已超10万",
+      "onboard_time": 1764510442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 45474,

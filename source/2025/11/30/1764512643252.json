@@ -1,0 +1,410 @@
+{
+  "runTime": 1764512643252,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 548087,
+        "num": 1087693,
+        "word": "让劣迹网红的复出试探无处遁形",
+        "onboard_time": 1764505641,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 542796,
+        "num": 542796,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 133545,
+        "num": 505523,
+        "word": "黄土高原变绿了",
+        "onboard_time": 1764507263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 862453,
+        "num": 499572,
+        "word": "疯狂动物城 邦邦硬DQ冰激凌",
+        "onboard_time": 1764494122,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 99643,
+        "num": 447377,
+        "word": "仙逆",
+        "onboard_time": 1764500120,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 791385,
+        "num": 399759,
+        "word": "疑似王鹤棣退出将门毒后",
+        "onboard_time": 1764507981,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 631589,
+        "num": 363542,
+        "word": "幼师等招聘可依法查询吸毒记录",
+        "onboard_time": 1764511641,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 332523,
+        "num": 332523,
+        "word": "香港火灾已致146人遇难",
+        "onboard_time": 1764495141,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216062,
+        "num": 330300,
+        "word": "iG纪录片",
+        "onboard_time": 1764510381,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 49997,
+        "num": 321562,
+        "word": "印尼洪水山体滑坡442人死亡",
+        "onboard_time": 1764511823,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 570390,
+        "num": 318643,
+        "word": "杨紫的家业还是太火了",
+        "onboard_time": 1764509421,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 339304,
+        "num": 311833,
+        "word": "范丞丞工伤",
+        "onboard_time": 1764505940,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 310346,
+        "num": 310346,
+        "word": "疯狂动物城2的翻译完全天才来的",
+        "onboard_time": 1764500181,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 304704,
+        "num": 304704,
+        "word": "沈腾的征信都扫不了共享单车",
+        "onboard_time": 1764510023,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 292689,
+        "num": 292689,
+        "word": "画梅一夜掉粉超190万",
+        "onboard_time": 1764496220,
+        "rank": 14,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 278265,
+        "num": 278265,
+        "word": "外卖大战6个月烧掉近800亿",
+        "onboard_time": 1764511882,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 263023,
+        "num": 263023,
+        "word": "长期没穿的衣服藏健康隐患",
+        "onboard_time": 1764503541,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211249,
+        "num": 211249,
+        "word": "肖战超长款羽绒服",
+        "onboard_time": 1764509782,
+        "rank": 17,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 186754,
+        "num": 186754,
+        "word": "妈妈为戳洞娃买下全部蛋糕",
+        "onboard_time": 1764499402,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54004,
+        "num": 186521,
+        "word": "2025年中国居民退休准备指数微升",
+        "onboard_time": 1764512122,
+        "rank": 19,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 757080,
+        "num": 185358,
+        "word": "王嘉尔自曝恋爱经历",
+        "onboard_time": 1764504381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 380789,
+        "num": 184708,
+        "word": "郑乃馨疑似回应分手",
+        "onboard_time": 1764507743,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348724,
+        "num": 183579,
+        "word": "车澈回应与李嘉格离婚",
+        "onboard_time": 1764489980,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197125,
+        "num": 182646,
+        "word": "黄雅琼刘雨辰人脉太广了",
+        "onboard_time": 1764508942,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182520,
+        "num": 182520,
+        "word": "韦雪前男友自曝喜欢的明星",
+        "onboard_time": 1764511641,
+        "rank": 24,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 180542,
+        "num": 180542,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 178709,
+        "num": 178709,
+        "word": "早产男婴出保温箱离世母亲再发声",
+        "onboard_time": 1764504501,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164485,
+        "num": 164485,
+        "word": "彭小苒 对不起我不认同",
+        "onboard_time": 1764501981,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160489,
+        "num": 160489,
+        "word": "将门毒后",
+        "onboard_time": 1764512422,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 148983,
+        "num": 148983,
+        "word": "申论 写笑了",
+        "onboard_time": 1764496581,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 358902,
+        "num": 148808,
+        "word": "路人偶遇Angelababy接小海绵放学",
+        "onboard_time": 1764509843,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 194691,
+        "num": 148724,
+        "word": "这才是清朝时期真正的辫子",
+        "onboard_time": 1764510921,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 148575,
+        "num": 148575,
+        "word": "高市早苗再次有意犯错",
+        "onboard_time": 1764489201,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146209,
+        "num": 146209,
+        "word": "真人版疯狂动物城",
+        "onboard_time": 1764489919,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 111482,
+        "num": 143340,
+        "word": "何炅一下就把那英哄好了",
+        "onboard_time": 1764511103,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 45484,
+        "num": 142402,
+        "word": "荒野求生第3届报名人数已超10万",
+        "onboard_time": 1764510442,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 141968,
+        "num": 141968,
+        "word": "多国最新涉台表态",
+        "onboard_time": 1764501141,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 52824,
+        "num": 137748,
+        "word": "那英直播在嘴里炒了一盘菜",
+        "onboard_time": 1764510442,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137343,
+        "num": 137343,
+        "word": "皮皮朱回怼女人独立要男人干啥",
+        "onboard_time": 1764512062,
+        "rank": 38,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 135536,
+        "num": 135536,
+        "word": "TheShy说赢了T1就能进决赛",
+        "onboard_time": 1764512062,
+        "rank": 39,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 128105,
+        "num": 128105,
+        "word": "水晶宫1比2曼联",
+        "onboard_time": 1764511702,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127829,
+        "num": 127829,
+        "word": "货车龟速行驶后车追尾司机死亡",
+        "onboard_time": 1764506720,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85340,
+        "num": 127330,
+        "word": "宁波地铁车厢广告被吐槽诡异阴间",
+        "onboard_time": 1764511282,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127114,
+        "num": 127114,
+        "word": "成毅周笔畅把春天唱进歌里",
+        "onboard_time": 1764511942,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 114096,
+        "num": 114096,
+        "word": "U17亚洲杯国少五战全胜晋级",
+        "onboard_time": 1764512122,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111246,
+        "num": 111246,
+        "word": "内塔尼亚胡正式提交赦免请求",
+        "onboard_time": 1764509843,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103400,
+        "num": 103400,
+        "word": "菩萨不会救我的 我会",
+        "onboard_time": 1764512542,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101030,
+        "num": 101030,
+        "word": "唐诡 蜀道",
+        "onboard_time": 1764500782,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97170,
+        "num": 97170,
+        "word": "樊振东刻在骨子里的爱国情",
+        "onboard_time": 1764512602,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96597,
+        "num": 96597,
+        "word": "Deft近况",
+        "onboard_time": 1764511463,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平部署加强网络生态治理#"
+    }
+  }
+}

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 21:44:04
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 22:24:03
 </p>
 </blockquote>
 <p>
@@ -5163,6 +5163,12 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E7%AD%89%E6%8B%9B%E8%81%98%E5%8F%AF%E4%BE%9D%E6%B3%95%E6%9F%A5%E8%AF%A2%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%23" target="weibo">
+幼师等招聘可依法查询吸毒记录（热度：631589）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
 剪毁刘海意外成了人生发型（热度：631043）
 </a>
@@ -6005,12 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E7%9C%8B%E4%B9%A6%E5%90%8E%E7%9C%9F%E7%9A%84%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E6%BD%9C%E6%84%8F%E8%AF%86%23" target="weibo">
 大量看书后真的能改变人的潜意识（热度：580213）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E5%BF%83%E8%84%8F%E6%89%8B%E6%9C%AF%E5%8E%BB%E4%B8%96%E5%A4%96%E5%A9%86%E6%8B%85%E5%BF%83%E5%A5%B3%E5%84%BF%23" target="weibo">
-女婴心脏手术去世外婆担心女儿（热度：580100）
 </a>
 </li>
 
