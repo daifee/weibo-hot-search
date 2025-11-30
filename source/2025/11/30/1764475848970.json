@@ -1,0 +1,410 @@
+{
+  "runTime": 1764475848970,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 6950716,
+        "num": 6950716,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1056632,
+        "num": 1056632,
+        "word": "国考图推",
+        "onboard_time": 1764473960,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 26562,
+        "num": 891156,
+        "word": "南北方同步开启干冷模式",
+        "onboard_time": 1764423923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 794291,
+        "num": 794291,
+        "word": "行测",
+        "onboard_time": 1764472520,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 570925,
+        "num": 570925,
+        "word": "才播4集女主背后空无一人",
+        "onboard_time": 1764473001,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 390438,
+        "num": 390438,
+        "word": "美国 委内瑞拉",
+        "onboard_time": 1764470180,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 378398,
+        "num": 378398,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 332458,
+        "num": 332458,
+        "word": "终于有古装剧把消杀步骤拍出来了",
+        "onboard_time": 1764471022,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 310826,
+        "num": 310826,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1764471380,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190087,
+        "num": 310319,
+        "word": "华为称Mate80显示5A不是5GA",
+        "onboard_time": 1764473062,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 609958,
+        "num": 309209,
+        "word": "国考答案",
+        "onboard_time": 1764473182,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 406639,
+        "num": 308386,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 11,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 380219,
+        "num": 307879,
+        "word": "水谷隼说被伊藤美诚拉黑了",
+        "onboard_time": 1764473062,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355883,
+        "num": 306908,
+        "word": "女子带孩子电影院占座被怒怼",
+        "onboard_time": 1764471080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306261,
+        "num": 306261,
+        "word": "于正发的赵晴男装",
+        "onboard_time": 1764470300,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 293073,
+        "num": 293073,
+        "word": "行测120分钟130题",
+        "onboard_time": 1764474623,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 268230,
+        "num": 268230,
+        "word": "申论",
+        "onboard_time": 1764474502,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 266835,
+        "num": 266835,
+        "word": "资料分析",
+        "onboard_time": 1764473960,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 95083,
+        "num": 264934,
+        "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
+        "onboard_time": 1764475162,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 29172,
+        "num": 262795,
+        "word": "上马赛后如何进行营养恢复",
+        "onboard_time": 1764471980,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 334482,
+        "num": 261923,
+        "word": "画梅退网",
+        "onboard_time": 1764461660,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 311921,
+        "num": 258661,
+        "word": "双高胎",
+        "onboard_time": 1764471501,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301037,
+        "num": 256319,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255485,
+        "num": 255485,
+        "word": "肖战拒绝螺蛳粉后来真香了",
+        "onboard_time": 1764469519,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239269,
+        "num": 239269,
+        "word": "国考数量",
+        "onboard_time": 1764473960,
+        "rank": 24,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 230907,
+        "num": 230907,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 221304,
+        "num": 221304,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212864,
+        "num": 212864,
+        "word": "国考言语",
+        "onboard_time": 1764475101,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194087,
+        "num": 194087,
+        "word": "国考时间",
+        "onboard_time": 1764475402,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 41836,
+        "num": 184318,
+        "word": "奥迪E5入围中国年度车三强",
+        "onboard_time": 1764471980,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 177414,
+        "num": 177414,
+        "word": "日本批准1万亿日元防卫经费",
+        "onboard_time": 1764471678,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 175736,
+        "num": 175736,
+        "word": "梁朝伟时隔36年再拍电视剧",
+        "onboard_time": 1764469760,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 172951,
+        "num": 172951,
+        "word": "中国电建已成立调查组",
+        "onboard_time": 1764472761,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160638,
+        "num": 160638,
+        "word": "王楚钦孙颖莎11比8黄镇廷杜凯琹",
+        "onboard_time": 1764475820,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157369,
+        "num": 157369,
+        "word": "刘旸 不要随便发观后感",
+        "onboard_time": 1764466640,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155537,
+        "num": 155537,
+        "word": "行测数量",
+        "onboard_time": 1764475521,
+        "rank": 35,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155397,
+        "num": 155397,
+        "word": "当年高位买房的人怎么样了",
+        "onboard_time": 1764472400,
+        "rank": 36,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 142267,
+        "num": 142267,
+        "word": "王楚钦孙颖莎首局爆分",
+        "onboard_time": 1764475640,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118336,
+        "num": 141516,
+        "word": "李宏毅余承恩谁是谁的哥",
+        "onboard_time": 1764474921,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117833,
+        "num": 141280,
+        "word": "得闲谨制展现抗战不屈信念",
+        "onboard_time": 1764475761,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 141110,
+        "num": 141110,
+        "word": "年卖10亿的凤爪大王培养侄子上位",
+        "onboard_time": 1764473901,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51701,
+        "num": 139592,
+        "word": "白鹿翟子路双向奔赴的友情",
+        "onboard_time": 1764474561,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139046,
+        "num": 139046,
+        "word": "县委副书记任前公示被指年龄不一致",
+        "onboard_time": 1764466040,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130476,
+        "num": 130476,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 127224,
+        "num": 127224,
+        "word": "好一个国家一级英语运动员",
+        "onboard_time": 1764475402,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 126860,
+        "num": 126860,
+        "word": "胡先煦周依然演了10分钟就开吵",
+        "onboard_time": 1764475640,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 126571,
+        "num": 126571,
+        "word": "疯狂动物城2票房",
+        "onboard_time": 1764429802,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120768,
+        "num": 125753,
+        "word": "行测没写完",
+        "onboard_time": 1764473482,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 125139,
+        "num": 125139,
+        "word": "明日方舟",
+        "onboard_time": 1764474261,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124962,
+        "num": 124962,
+        "word": "张真源秋裤厚到伤害免疫",
+        "onboard_time": 1764475820,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#中共中央政治局第二十三次集体学习#"
+    }
+  }
+}

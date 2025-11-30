@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764475289566,
+  "endTime": 1764475848970,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -19,20 +19,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1056632,
+      "num": 1056632,
+      "word": "国考图推",
+      "onboard_time": 1764473960,
+      "rank": 3,
+      "category": "教育"
+    },
+    {
       "raw_hot": 1035142,
       "num": 1165622,
       "word": "中国驻日本大使发声",
       "onboard_time": 1764466280,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1013457,
-      "num": 1013457,
-      "word": "国考图推",
-      "onboard_time": 1764473960,
-      "rank": 3,
-      "category": "教育"
     },
     {
       "raw_hot": 904563,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 613856,
-      "num": 304721,
+      "num": 309209,
       "word": "国考答案",
       "onboard_time": 1764473182,
       "rank": 10,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 570925,
+      "num": 570925,
+      "word": "才播4集女主背后空无一人",
+      "onboard_time": 1764473001,
+      "rank": 4,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 557276,
       "num": 313650,
       "word": "我就说何老师还不退休迟早会出事吧",
@@ -83,16 +91,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 542684,
-      "num": 542684,
-      "word": "才播4集女主背后空无一人",
-      "onboard_time": 1764473001,
-      "rank": 4,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 538613,
-      "num": 301764,
+      "num": 308386,
       "word": "2026年国考今日开考",
       "onboard_time": 1764459258,
       "rank": 1,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 391451,
-      "num": 299797,
+      "num": 307879,
       "word": "水谷隼说被伊藤美诚拉黑了",
       "onboard_time": 1764473062,
       "rank": 12,
@@ -188,7 +188,7 @@
     },
     {
       "raw_hot": 365178,
-      "num": 299502,
+      "num": 306908,
       "word": "女子带孩子电影院占座被怒怼",
       "onboard_time": 1764471080,
       "rank": 13,
@@ -196,7 +196,7 @@
     },
     {
       "raw_hot": 336123,
-      "num": 295955,
+      "num": 306261,
       "word": "于正发的赵晴男装",
       "onboard_time": 1764470300,
       "rank": 14,
@@ -219,12 +219,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 307637,
-      "num": 307637,
+      "raw_hot": 310826,
+      "num": 310826,
       "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
       "onboard_time": 1764471380,
       "rank": 8,
       "category": "体育"
+    },
+    {
+      "raw_hot": 301037,
+      "num": 278223,
+      "word": "繁殖犬难产被剖腹取崽后丢弃",
+      "onboard_time": 1764473842,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 294016,
@@ -235,20 +243,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 293073,
+      "num": 293073,
+      "word": "行测120分钟130题",
+      "onboard_time": 1764474623,
+      "rank": 25,
+      "category": "教育"
+    },
+    {
       "raw_hot": 281293,
       "num": 281293,
       "word": "肖战拒绝螺蛳粉后来真香了",
       "onboard_time": 1764469519,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 278223,
-      "num": 278223,
-      "word": "繁殖犬难产被剖腹取崽后丢弃",
-      "onboard_time": 1764473842,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 277326,
@@ -267,20 +275,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 268230,
+      "num": 290847,
+      "word": "申论",
+      "onboard_time": 1764474502,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 262036,
       "num": 262036,
       "word": "逍遥散人 脱粉",
       "onboard_time": 1764468620,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 254126,
-      "num": 290847,
-      "word": "申论",
-      "onboard_time": 1764474502,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 237865,
@@ -300,7 +308,7 @@
     },
     {
       "raw_hot": 227156,
-      "num": 306084,
+      "num": 310319,
       "word": "华为称Mate80显示5A不是5GA",
       "onboard_time": 1764473062,
       "rank": 9,
@@ -321,6 +329,14 @@
       "onboard_time": 1764426084,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 221304,
+      "num": 221304,
+      "word": "刘雨辰黄雅琼婚礼",
+      "onboard_time": 1764475221,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 218295,
@@ -347,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212864,
+      "num": 212864,
+      "word": "国考言语",
+      "onboard_time": 1764475101,
+      "rank": 31,
+      "category": "教育"
+    },
+    {
       "raw_hot": 211487,
       "num": 639405,
       "word": "F1",
@@ -371,14 +395,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 200072,
-      "num": 200072,
-      "word": "行测120分钟130题",
-      "onboard_time": 1764474623,
-      "rank": 25,
-      "category": "教育"
-    },
-    {
       "raw_hot": 199513,
       "num": 199513,
       "word": "日本批准1万亿日元防卫经费",
@@ -401,6 +417,14 @@
       "onboard_time": 1764426922,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194087,
+      "num": 194087,
+      "word": "国考时间",
+      "onboard_time": 1764475402,
+      "rank": 28,
+      "category": "教育"
     },
     {
       "raw_hot": 188363,
@@ -451,6 +475,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 172951,
+      "num": 172951,
+      "word": "中国电建已成立调查组",
+      "onboard_time": 1764472761,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 168949,
       "num": 112418,
       "word": "王楚钦孙颖莎12比10黄镇廷杜凯琹",
@@ -465,14 +497,6 @@
       "onboard_time": 1764460818,
       "rank": 19,
       "category": "演出"
-    },
-    {
-      "raw_hot": 167794,
-      "num": 167794,
-      "word": "中国电建已成立调查组",
-      "onboard_time": 1764472761,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 166116,
@@ -491,20 +515,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163089,
-      "num": 163089,
-      "word": "国考言语",
-      "onboard_time": 1764475101,
-      "rank": 31,
-      "category": "教育"
-    },
-    {
       "raw_hot": 161225,
       "num": 161225,
       "word": "行测没写完",
       "onboard_time": 1764473482,
       "rank": 33,
       "category": "教育"
+    },
+    {
+      "raw_hot": 160638,
+      "num": 160638,
+      "word": "王楚钦孙颖莎11比8黄镇廷杜凯琹",
+      "onboard_time": 1764475820,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 158369,
@@ -521,6 +545,22 @@
       "onboard_time": 1764460878,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 155537,
+      "num": 155537,
+      "word": "行测数量",
+      "onboard_time": 1764475521,
+      "rank": 35,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 155397,
+      "num": 155397,
+      "word": "当年高位买房的人怎么样了",
+      "onboard_time": 1764472400,
+      "rank": 41,
+      "category": "议题讨论"
     },
     {
       "raw_hot": 152647,
@@ -547,6 +587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 142267,
+      "num": 142267,
+      "word": "王楚钦孙颖莎首局爆分",
+      "onboard_time": 1764475640,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133456,
       "num": 133456,
       "word": "彭佳慧在邱泽许玮甯婚礼上献唱",
@@ -555,12 +603,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 130903,
-      "num": 130903,
-      "word": "当年高位买房的人怎么样了",
-      "onboard_time": 1764472400,
-      "rank": 41,
-      "category": "议题讨论"
+      "raw_hot": 127224,
+      "num": 127224,
+      "word": "好一个国家一级英语运动员",
+      "onboard_time": 1764475402,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 126860,
+      "num": 126860,
+      "word": "胡先煦周依然演了10分钟就开吵",
+      "onboard_time": 1764475640,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 125901,
@@ -579,12 +635,20 @@
       "category": "教育,海外新闻"
     },
     {
-      "raw_hot": 123815,
-      "num": 123815,
+      "raw_hot": 125139,
+      "num": 125139,
       "word": "明日方舟",
       "onboard_time": 1764474261,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 124962,
+      "num": 124962,
+      "word": "张真源秋裤厚到伤害免疫",
+      "onboard_time": 1764475820,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 121527,
@@ -601,6 +665,14 @@
       "onboard_time": 1764423563,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 117833,
+      "num": 141280,
+      "word": "得闲谨制展现抗战不屈信念",
+      "onboard_time": 1764475761,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 116292,
@@ -625,14 +697,6 @@
       "onboard_time": 1764466100,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 114005,
-      "num": 114005,
-      "word": "刘雨辰黄雅琼婚礼",
-      "onboard_time": 1764475221,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 113536,
@@ -684,7 +748,7 @@
     },
     {
       "raw_hot": 104803,
-      "num": 139593,
+      "num": 264934,
       "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
       "onboard_time": 1764475162,
       "rank": 38,
@@ -1027,6 +1091,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 51701,
+      "num": 139592,
+      "word": "白鹿翟子路双向奔赴的友情",
+      "onboard_time": 1764474561,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51527,
       "num": 114697,
       "word": "老板被追讨工资次日自缢细节公布",
@@ -1036,7 +1108,7 @@
     },
     {
       "raw_hot": 51220,
-      "num": 167337,
+      "num": 184318,
       "word": "奥迪E5入围中国年度车三强",
       "onboard_time": 1764471980,
       "rank": 29,
@@ -1169,14 +1241,6 @@
       "onboard_time": 1764446716,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 22989,
-      "num": 134347,
-      "word": "白鹿翟子路双向奔赴的友情",
-      "onboard_time": 1764474561,
-      "rank": 39,
-      "category": "综艺"
     },
     {
       "raw_hot": 17926,
