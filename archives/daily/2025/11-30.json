@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764485515469,
+  "endTime": 1764487492215,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -9,6 +9,14 @@
       "onboard_time": 1764472221,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1398677,
+      "num": 153557,
+      "word": "李诞首度自曝为什么不要孩子",
+      "onboard_time": 1764484223,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 1384715,
@@ -59,14 +67,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1013379,
-      "num": 128349,
-      "word": "李诞首度自曝为什么不要孩子",
-      "onboard_time": 1764484223,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 904563,
       "num": 281515,
       "word": "画梅退网",
@@ -91,20 +91,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 717267,
+      "num": 307546,
+      "word": "新白粉丝质问叶童",
+      "onboard_time": 1764483021,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 680256,
       "num": 884445,
       "word": "假奶粉 奶精加淀粉",
       "onboard_time": 1764425723,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 665183,
-      "num": 307546,
-      "word": "新白粉丝质问叶童",
-      "onboard_time": 1764483021,
-      "rank": 11,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 613856,
@@ -201,6 +201,14 @@
       "onboard_time": 1764471022,
       "rank": 6,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 425730,
+      "num": 425730,
+      "word": "章莹颖父亲希望赴美再寻女儿尸骸",
+      "onboard_time": 1764485420,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425131,
@@ -304,6 +312,14 @@
       "word": "卖手机壳比卖手机还赚钱",
       "onboard_time": 1764479421,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 357231,
+      "num": 234921,
+      "word": "上海 12899元咖啡",
+      "onboard_time": 1764483860,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -451,14 +467,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 226891,
-      "num": 226891,
-      "word": "上海 12899元咖啡",
-      "onboard_time": 1764483860,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 224643,
       "num": 224643,
       "word": "前有卢凌风叫娘 后有炎拓叫妈",
@@ -539,8 +547,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209147,
+      "num": 209147,
+      "word": "解放军中部战区轰炸机跨昼夜飞训",
+      "onboard_time": 1764485299,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 207934,
-      "num": 129627,
+      "num": 142502,
       "word": "黄圣依妈妈道歉说我爱你不容易",
       "onboard_time": 1764483620,
       "rank": 22,
@@ -787,6 +803,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 157592,
+      "num": 138782,
+      "word": "王丽坤前夫资产被拍卖",
+      "onboard_time": 1764485600,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155537,
       "num": 155537,
       "word": "行测数量",
@@ -801,6 +825,14 @@
       "onboard_time": 1764472400,
       "rank": 41,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 154927,
+      "num": 154927,
+      "word": "熬夜加班后的脸全球统一",
+      "onboard_time": 1764486261,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 153736,
@@ -899,6 +931,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136218,
+      "num": 136218,
+      "word": "张婧仪 狐狸眼线",
+      "onboard_time": 1764486261,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133456,
       "num": 133456,
       "word": "彭佳慧在邱泽许玮甯婚礼上献唱",
@@ -979,6 +1019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126033,
+      "num": 126033,
+      "word": "一天中4个时刻不建议洗头",
+      "onboard_time": 1764487161,
+      "rank": 27,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "国考笔试结束还要注意这些环节",
@@ -1003,6 +1051,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 125085,
+      "num": 125085,
+      "word": "赵丽颖 我即剧名",
+      "onboard_time": 1764486980,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124962,
       "num": 124962,
       "word": "张真源秋裤厚到伤害免疫",
@@ -1017,6 +1073,14 @@
       "onboard_time": 1764477862,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 124676,
+      "num": 119330,
+      "word": "原来方圆脸这么好出片",
+      "onboard_time": 1764486801,
+      "rank": 30,
+      "category": "美妆"
     },
     {
       "raw_hot": 122031,
@@ -1059,6 +1123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120341,
+      "num": 120341,
+      "word": "现在就出发3最热血的一集",
+      "onboard_time": 1764486019,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118957,
       "num": 118957,
       "word": "蒯曼2比1朱成竹",
@@ -1089,6 +1161,22 @@
       "onboard_time": 1764428844,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 115880,
+      "num": 115880,
+      "word": "郑思维儿子给黄雅琼刘雨辰当花童",
+      "onboard_time": 1764485241,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 115494,
+      "num": 115494,
+      "word": "王楚钦给了老熟人曹巍一脚",
+      "onboard_time": 1764485839,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 114934,
@@ -1187,20 +1275,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106374,
+      "num": 263101,
+      "word": "国考行测对答案",
+      "onboard_time": 1764487280,
+      "rank": 9,
+      "category": "教育"
+    },
+    {
       "raw_hot": 105588,
       "num": 105588,
       "word": "国考首次打破35岁门槛",
       "onboard_time": 1764468680,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 105464,
-      "num": 105464,
-      "word": "解放军中部战区轰炸机跨昼夜飞训",
-      "onboard_time": 1764485299,
-      "rank": 35,
-      "category": "国内时政"
     },
     {
       "raw_hot": 104803,
@@ -1251,6 +1339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 99152,
+      "num": 99152,
+      "word": "周涛 女领导说要带你回家",
+      "onboard_time": 1764485360,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97775,
       "num": 97775,
       "word": "驻日大使人民日报撰文",
@@ -1297,6 +1393,14 @@
       "onboard_time": 1764428424,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93753,
+      "num": 93753,
+      "word": "但凡有孙子的大爷都抬头了",
+      "onboard_time": 1764487101,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 93621,
@@ -1371,14 +1475,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 90176,
-      "num": 90176,
-      "word": "郑思维儿子给黄雅琼刘雨辰当花童",
-      "onboard_time": 1764485241,
-      "rank": 43,
-      "category": "体育"
-    },
-    {
       "raw_hot": 89922,
       "num": 313560,
       "word": "医生提醒出现这些症状小心是皮肤病",
@@ -1451,6 +1547,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 84691,
+      "num": 84691,
+      "word": "王男 钩针社我姥儿蒋易",
+      "onboard_time": 1764486920,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84594,
       "num": 84594,
       "word": "从伴侣就能看出女生爱自己的程度",
@@ -1465,14 +1569,6 @@
       "onboard_time": 1764467240,
       "rank": 23,
       "category": "辟谣/通报"
-    },
-    {
-      "raw_hot": 84118,
-      "num": 84118,
-      "word": "周涛 女领导说要带你回家",
-      "onboard_time": 1764485360,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 83966,
@@ -1499,6 +1595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 81709,
+      "num": 81709,
+      "word": "我一个人就是四世同堂了",
+      "onboard_time": 1764486440,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 81288,
       "num": 313506,
       "word": "14岁初中生学校体测倒地后猝死",
@@ -1521,6 +1625,14 @@
       "onboard_time": 1764425003,
       "rank": 35,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 78894,
+      "num": 78894,
+      "word": "章莹颖父母仍无法相信女儿已离去",
+      "onboard_time": 1764486681,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 78842,
@@ -1643,6 +1755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64020,
+      "num": 75366,
+      "word": "孙颖莎说教练一直在跟我和大头交流",
+      "onboard_time": 1764485719,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 63334,
       "num": 71357,
       "word": "国乒集体出席成都混团欢迎晚宴",
@@ -1697,14 +1817,6 @@
       "onboard_time": 1764422362,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 57355,
-      "num": 105858,
-      "word": "章莹颖父亲希望赴美再寻女儿尸骸",
-      "onboard_time": 1764485420,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 57252,
@@ -1875,6 +1987,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 25736,
+      "num": 98898,
+      "word": "许玮甯骨相",
+      "onboard_time": 1764487462,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25456,
       "num": 96139,
       "word": "西亚卡姆绝杀公牛",
@@ -1921,6 +2041,14 @@
       "onboard_time": 1764480621,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19544,
+      "num": 98981,
+      "word": "委内瑞拉防长说战争即将来临",
+      "onboard_time": 1764487280,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17926,
