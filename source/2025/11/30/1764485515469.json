@@ -1,0 +1,410 @@
+{
+  "runTime": 1764485515469,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 791471,
+        "num": 1126635,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 641196,
+        "num": 641196,
+        "word": "中国人民不答应中国军队不答应",
+        "onboard_time": 1764478461,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 40169,
+        "num": 632954,
+        "word": "秋冬如何预防呼吸道感染",
+        "onboard_time": 1764478702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 627533,
+        "num": 627533,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132160,
+        "num": 415579,
+        "word": "国考难度",
+        "onboard_time": 1764477021,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 680162,
+        "num": 410217,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 401102,
+        "num": 401102,
+        "word": "央视曝光减肥针",
+        "onboard_time": 1764481582,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304147,
+        "num": 304147,
+        "word": "卖手机壳比卖手机还赚钱",
+        "onboard_time": 1764479421,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162071,
+        "num": 303911,
+        "word": "胡先煦新剧口碑",
+        "onboard_time": 1764483201,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 86949,
+        "num": 303169,
+        "word": "刘义恒 图推的神",
+        "onboard_time": 1764476300,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 665183,
+        "num": 302263,
+        "word": "新白粉丝质问叶童",
+        "onboard_time": 1764483021,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 660864,
+        "num": 301505,
+        "word": "陈伟霆说基本上全世界男人都这样",
+        "onboard_time": 1764479542,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 301282,
+        "num": 301282,
+        "word": "能让何炅黄磊同时鞠躬的人真不多了",
+        "onboard_time": 1764479900,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273103,
+        "num": 273103,
+        "word": "艾登给黄雅琼当花童",
+        "onboard_time": 1764480141,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226891,
+        "num": 226891,
+        "word": "上海 12899元咖啡",
+        "onboard_time": 1764483860,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206062,
+        "num": 206062,
+        "word": "孙颖莎倒地爆冲黄镇廷",
+        "onboard_time": 1764479542,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 177046,
+        "num": 177046,
+        "word": "枭起青壤是懂反转的",
+        "onboard_time": 1764484579,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145375,
+        "num": 145375,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146460,
+        "num": 143484,
+        "word": "前有卢凌风叫娘 后有炎拓叫妈",
+        "onboard_time": 1764479481,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120875,
+        "num": 120875,
+        "word": "吕严感谢酷滕投喂",
+        "onboard_time": 1764483681,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1013379,
+        "num": 120848,
+        "word": "李诞首度自曝为什么不要孩子",
+        "onboard_time": 1764484223,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 388363,
+        "num": 120805,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 241741,
+        "num": 120763,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69768,
+        "num": 120729,
+        "word": "湖南一烟花店燃爆有汽车被炸飞",
+        "onboard_time": 1764484101,
+        "rank": 23,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 207934,
+        "num": 120700,
+        "word": "黄圣依妈妈道歉说我爱你不容易",
+        "onboard_time": 1764483620,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 147737,
+        "num": 120647,
+        "word": "黄雅琼说刘雨辰是命中注定",
+        "onboard_time": 1764481460,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120613,
+        "num": 120613,
+        "word": "男子藏境外贩毒被毒贩锁在山洞",
+        "onboard_time": 1764483739,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117468,
+        "num": 117468,
+        "word": "美国 委内瑞拉",
+        "onboard_time": 1764470180,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116332,
+        "num": 116332,
+        "word": "裁判扔球王楚钦猝不及防",
+        "onboard_time": 1764476781,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113707,
+        "num": 113707,
+        "word": "姜贞羽顶疯相见",
+        "onboard_time": 1764485241,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111211,
+        "num": 111211,
+        "word": "陈晓一跪眼泪就出来了",
+        "onboard_time": 1764480621,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109201,
+        "num": 109201,
+        "word": "你买的进口奶粉可能是假奶粉",
+        "onboard_time": 1764482901,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108778,
+        "num": 108778,
+        "word": "不小心把导师cp名改成群名",
+        "onboard_time": 1764478702,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 108033,
+        "num": 108033,
+        "word": "才播4集女主背后空无一人",
+        "onboard_time": 1764473001,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57355,
+        "num": 105858,
+        "word": "章莹颖父亲希望赴美再寻女儿尸骸",
+        "onboard_time": 1764485420,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "解放军中部战区轰炸机跨昼夜飞训",
+        "onboard_time": 1764485299,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103041,
+        "num": 103041,
+        "word": "孙颖莎王曼昱混乱找站位",
+        "onboard_time": 1764483860,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96743,
+        "num": 96743,
+        "word": "指甲有竖纹是肝不好吗",
+        "onboard_time": 1764484821,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 23656,
+        "num": 96139,
+        "word": "西亚卡姆绝杀公牛",
+        "onboard_time": 1764484400,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44595,
+        "num": 95820,
+        "word": "李佳薇妹妹亮相声生不息",
+        "onboard_time": 1764485061,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95757,
+        "num": 95757,
+        "word": "畏手畏脚的女孩都来学学",
+        "onboard_time": 1764482601,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 94100,
+        "num": 94100,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 90268,
+        "num": 90268,
+        "word": "寇振海给陌生女孩当了一天爷爷",
+        "onboard_time": 1764484280,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90176,
+        "num": 90176,
+        "word": "郑思维儿子给黄雅琼刘雨辰当花童",
+        "onboard_time": 1764485241,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 89279,
+        "num": 89279,
+        "word": "现在的文具进化成这样了吗",
+        "onboard_time": 1764482239,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 85324,
+        "num": 85324,
+        "word": "陈星旭太知道林一追星刘亦菲了",
+        "onboard_time": 1764476180,
+        "rank": 45,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84881,
+        "num": 84881,
+        "word": "柯淳 朋友借钱没准备要回来",
+        "onboard_time": 1764482901,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84594,
+        "num": 84594,
+        "word": "从伴侣就能看出女生爱自己的程度",
+        "onboard_time": 1764482000,
+        "rank": 47,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 84118,
+        "num": 84118,
+        "word": "周涛 女领导说要带你回家",
+        "onboard_time": 1764485360,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83282,
+        "num": 83282,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 49,
+        "category": "教育,民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续营造风清气正的网络空间#"
+    }
+  }
+}
