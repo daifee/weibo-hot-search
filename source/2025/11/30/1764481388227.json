@@ -1,0 +1,410 @@
+{
+  "runTime": 1764481388227,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1602307,
+        "num": 1602307,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 753361,
+        "num": 753361,
+        "word": "中国人民不答应中国军队不答应",
+        "onboard_time": 1764478461,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41828,
+        "num": 465851,
+        "word": "秋冬如何预防呼吸道感染",
+        "onboard_time": 1764478702,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 420356,
+        "num": 420356,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 375427,
+        "num": 375427,
+        "word": "国考难度",
+        "onboard_time": 1764477021,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1167118,
+        "num": 361785,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 337261,
+        "num": 337261,
+        "word": "刘义恒 图推的神",
+        "onboard_time": 1764476300,
+        "rank": 6,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 330817,
+        "num": 330817,
+        "word": "才播4集女主背后空无一人",
+        "onboard_time": 1764473001,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 329328,
+        "num": 329328,
+        "word": "卖手机壳比卖手机还赚钱",
+        "onboard_time": 1764479421,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 255935,
+        "num": 255935,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68828,
+        "num": 252897,
+        "word": "香港大埔火灾善后工作有序开展",
+        "onboard_time": 1764480141,
+        "rank": 10,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1115086,
+        "num": 251714,
+        "word": "陈伟霆说基本上全世界男人都这样",
+        "onboard_time": 1764479542,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335364,
+        "num": 248933,
+        "word": "裁判扔球王楚钦猝不及防",
+        "onboard_time": 1764476781,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 298872,
+        "num": 245516,
+        "word": "国考图推",
+        "onboard_time": 1764473960,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 298866,
+        "num": 239520,
+        "word": "能让何炅黄磊同时鞠躬的人真不多了",
+        "onboard_time": 1764479900,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238868,
+        "num": 238868,
+        "word": "申论",
+        "onboard_time": 1764474502,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 232852,
+        "num": 232852,
+        "word": "艾登给黄雅琼当花童",
+        "onboard_time": 1764480141,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 211797,
+        "num": 211797,
+        "word": "孙颖莎倒地爆冲黄镇廷",
+        "onboard_time": 1764479542,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102654,
+        "num": 208090,
+        "word": "漫才兄弟改名了",
+        "onboard_time": 1764479542,
+        "rank": 18,
+        "category": "艺人,数码"
+      },
+      {
+        "raw_hot": 23842,
+        "num": 204547,
+        "word": "大坝建设为何在中国电建体内循环",
+        "onboard_time": 1764480621,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 739114,
+        "num": 199333,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 344391,
+        "num": 197282,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 193601,
+        "num": 193601,
+        "word": "前有卢凌风叫娘 后有炎拓叫妈",
+        "onboard_time": 1764479481,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 181128,
+        "num": 181128,
+        "word": "金晨胡先煦王安宇好权威的三张脸",
+        "onboard_time": 1764480501,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186899,
+        "num": 179836,
+        "word": "陈星旭太知道林一追星刘亦菲了",
+        "onboard_time": 1764476180,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 174850,
+        "num": 174850,
+        "word": "樊振东又录婚礼祝福了",
+        "onboard_time": 1764476300,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 173799,
+        "num": 173799,
+        "word": "解放军报三个行不通警告日本",
+        "onboard_time": 1764480261,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171212,
+        "num": 171212,
+        "word": "美国 委内瑞拉",
+        "onboard_time": 1764470180,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 160433,
+        "num": 160433,
+        "word": "国考 比去年难",
+        "onboard_time": 1764478401,
+        "rank": 28,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 158158,
+        "num": 158158,
+        "word": "国考答案",
+        "onboard_time": 1764473182,
+        "rank": 29,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 153736,
+        "num": 153736,
+        "word": "刘雨辰婚礼发言哭了",
+        "onboard_time": 1764480862,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55862,
+        "num": 151585,
+        "word": "委内瑞拉启动海外公民归国预案",
+        "onboard_time": 1764479421,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 150355,
+        "num": 150355,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 32,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 144777,
+        "num": 144777,
+        "word": "水谷隼说被伊藤美诚拉黑了",
+        "onboard_time": 1764473062,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135119,
+        "num": 135119,
+        "word": "肖战拒绝螺蛳粉后来真香了",
+        "onboard_time": 1764469519,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133614,
+        "num": 133614,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 35,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 133026,
+        "num": 133026,
+        "word": "国乒8比1中国香港",
+        "onboard_time": 1764478161,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127460,
+        "num": 127460,
+        "word": "女子带孩子电影院占座被怒怼",
+        "onboard_time": 1764471080,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78842,
+        "num": 126516,
+        "word": "Faker采访Caps",
+        "onboard_time": 1764480621,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 106849,
+        "num": 125736,
+        "word": "陈晓一跪眼泪就出来了",
+        "onboard_time": 1764480621,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125706,
+        "num": 125706,
+        "word": "疯狂动物城2原来是这么翻译的",
+        "onboard_time": 1764473361,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117528,
+        "num": 117528,
+        "word": "于正发的赵晴男装",
+        "onboard_time": 1764470300,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 114063,
+        "num": 114063,
+        "word": "画梅退网",
+        "onboard_time": 1764461660,
+        "rank": 42,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 113425,
+        "num": 113425,
+        "word": "光与夜之恋",
+        "onboard_time": 1764476901,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 113085,
+        "num": 113085,
+        "word": "有人从大一开始备战国考",
+        "onboard_time": 1764480982,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 109574,
+        "num": 109574,
+        "word": "陶喆北美赶集买土豆",
+        "onboard_time": 1764481101,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44880,
+        "num": 109553,
+        "word": "官方通报初中生在校体测倒地后猝死",
+        "onboard_time": 1764479781,
+        "rank": 46,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 109553,
+        "num": 109552,
+        "word": "压力是脂溶性的",
+        "onboard_time": 1764481160,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 107981,
+        "num": 107981,
+        "word": "不小心把导师cp名改成群名",
+        "onboard_time": 1764478702,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107701,
+        "num": 107701,
+        "word": "G2第一只战胜六冠王的队伍",
+        "onboard_time": 1764477741,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续营造风清气正的网络空间#"
+    }
+  }
+}

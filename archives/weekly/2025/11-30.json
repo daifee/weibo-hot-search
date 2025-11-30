@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764480466788,
+  "endTime": 1764481388227,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -17,6 +17,14 @@
       "onboard_time": 1764476840,
       "rank": 3,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 1115086,
+      "num": 263392,
+      "word": "陈伟霆说基本上全世界男人都这样",
+      "onboard_time": 1764479542,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 1096408,
@@ -51,20 +59,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1021599,
-      "num": 263392,
-      "word": "陈伟霆说基本上全世界男人都这样",
-      "onboard_time": 1764479542,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 904563,
       "num": 281515,
       "word": "画梅退网",
       "onboard_time": 1764461660,
       "rank": 20,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 753361,
+      "num": 753361,
+      "word": "中国人民不答应中国军队不答应",
+      "onboard_time": 1764478461,
+      "rank": 1,
+      "category": "国内时政"
     },
     {
       "raw_hot": 680256,
@@ -81,14 +89,6 @@
       "onboard_time": 1764473182,
       "rank": 10,
       "category": "教育"
-    },
-    {
-      "raw_hot": 613094,
-      "num": 613094,
-      "word": "中国人民不答应中国军队不答应",
-      "onboard_time": 1764478461,
-      "rank": 1,
-      "category": "国内时政"
     },
     {
       "raw_hot": 603526,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 420356,
+      "num": 420356,
+      "word": "疯狂动物城",
+      "onboard_time": 1764387380,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 409462,
       "num": 204935,
       "word": "刘旸 不要随便发观后感",
@@ -220,7 +228,7 @@
     },
     {
       "raw_hot": 391330,
-      "num": 256401,
+      "num": 375427,
       "word": "国考难度",
       "onboard_time": 1764477021,
       "rank": 27,
@@ -275,6 +283,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 329328,
+      "num": 329328,
+      "word": "卖手机壳比卖手机还赚钱",
+      "onboard_time": 1764479421,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318322,
       "num": 291825,
       "word": "国考数量",
@@ -291,12 +307,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 303562,
-      "num": 303562,
-      "word": "疯狂动物城",
-      "onboard_time": 1764387380,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 298866,
+      "num": 239520,
+      "word": "能让何炅黄磊同时鞠躬的人真不多了",
+      "onboard_time": 1764479900,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 296095,
@@ -387,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 232852,
+      "num": 232852,
+      "word": "艾登给黄雅琼当花童",
+      "onboard_time": 1764480141,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 231120,
       "num": 318914,
       "word": "喜人 补录",
@@ -457,6 +481,14 @@
       "onboard_time": 1764475101,
       "rank": 31,
       "category": "教育"
+    },
+    {
+      "raw_hot": 211797,
+      "num": 211797,
+      "word": "孙颖莎倒地爆冲黄镇廷",
+      "onboard_time": 1764479542,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 211618,
@@ -579,6 +611,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181128,
+      "num": 181128,
+      "word": "金晨胡先煦王安宇好权威的三张脸",
+      "onboard_time": 1764480501,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 175326,
       "num": 164256,
       "word": "画梅回应退网",
@@ -587,20 +627,20 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 173799,
+      "num": 173799,
+      "word": "解放军报三个行不通警告日本",
+      "onboard_time": 1764480261,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 172951,
       "num": 172951,
       "word": "中国电建已成立调查组",
       "onboard_time": 1764472761,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 171215,
-      "num": 235720,
-      "word": "能让何炅黄磊同时鞠躬的人真不多了",
-      "onboard_time": 1764479900,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 168949,
@@ -625,14 +665,6 @@
       "onboard_time": 1764468861,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166079,
-      "num": 166079,
-      "word": "孙颖莎倒地爆冲黄镇廷",
-      "onboard_time": 1764479542,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 165968,
@@ -691,14 +723,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157234,
-      "num": 157234,
-      "word": "艾登给黄雅琼当花童",
-      "onboard_time": 1764480141,
-      "rank": 30,
-      "category": "体育"
-    },
-    {
       "raw_hot": 155537,
       "num": 155537,
       "word": "行测数量",
@@ -713,6 +737,14 @@
       "onboard_time": 1764472400,
       "rank": 41,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 153736,
+      "num": 153736,
+      "word": "刘雨辰婚礼发言哭了",
+      "onboard_time": 1764480862,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 152647,
@@ -745,14 +777,6 @@
       "onboard_time": 1764419661,
       "rank": 7,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 147766,
-      "num": 235351,
-      "word": "卖手机壳比卖手机还赚钱",
-      "onboard_time": 1764479421,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 146331,
@@ -857,14 +881,6 @@
       "onboard_time": 1764475402,
       "rank": 44,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 127007,
-      "num": 127007,
-      "word": "解放军报三个行不通警告日本",
-      "onboard_time": 1764480261,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 126951,
@@ -1003,6 +1019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113085,
+      "num": 113085,
+      "word": "有人从大一开始备战国考",
+      "onboard_time": 1764480982,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 112140,
       "num": 313643,
       "word": "小力士",
@@ -1017,6 +1041,22 @@
       "onboard_time": 1764479421,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109574,
+      "num": 109574,
+      "word": "陶喆北美赶集买土豆",
+      "onboard_time": 1764481101,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 109553,
+      "num": 109552,
+      "word": "压力是脂溶性的",
+      "onboard_time": 1764481160,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108924,
@@ -1043,6 +1083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106849,
+      "num": 125736,
+      "word": "陈晓一跪眼泪就出来了",
+      "onboard_time": 1764480621,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105588,
       "num": 105588,
       "word": "国考首次打破35岁门槛",
@@ -1065,6 +1113,14 @@
       "onboard_time": 1764420262,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102654,
+      "num": 236145,
+      "word": "漫才兄弟改名了",
+      "onboard_time": 1764479542,
+      "rank": 16,
+      "category": "艺人,数码"
     },
     {
       "raw_hot": 102598,
@@ -1259,6 +1315,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 78842,
+      "num": 126516,
+      "word": "Faker采访Caps",
+      "onboard_time": 1764480621,
+      "rank": 38,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 77788,
       "num": 77788,
       "word": "北京大风",
@@ -1321,6 +1385,14 @@
       "onboard_time": 1764479301,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68828,
+      "num": 273920,
+      "word": "香港大埔火灾善后工作有序开展",
+      "onboard_time": 1764480141,
+      "rank": 10,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 68266,
@@ -1403,6 +1475,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 55862,
+      "num": 236028,
+      "word": "委内瑞拉启动海外公民归国预案",
+      "onboard_time": 1764479421,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 55008,
       "num": 132922,
       "word": "35岁男子国考称像进复活赛",
@@ -1459,6 +1539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 44880,
+      "num": 143030,
+      "word": "官方通报初中生在校体测倒地后猝死",
+      "onboard_time": 1764479781,
+      "rank": 36,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 42553,
       "num": 281378,
       "word": "秋冬少买驼色衣服",
@@ -1475,28 +1563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 41314,
-      "num": 236145,
-      "word": "漫才兄弟改名了",
-      "onboard_time": 1764479542,
-      "rank": 16,
-      "category": "艺人,数码"
-    },
-    {
-      "raw_hot": 38692,
+      "raw_hot": 41828,
       "num": 489437,
       "word": "秋冬如何预防呼吸道感染",
       "onboard_time": 1764478702,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37834,
-      "num": 143030,
-      "word": "官方通报初中生在校体测倒地后猝死",
-      "onboard_time": 1764479781,
-      "rank": 36,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 37672,
@@ -1529,14 +1601,6 @@
       "onboard_time": 1764437357,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31041,
-      "num": 236028,
-      "word": "委内瑞拉启动海外公民归国预案",
-      "onboard_time": 1764479421,
-      "rank": 17,
-      "category": "国际时政"
     },
     {
       "raw_hot": 30504,
@@ -1595,12 +1659,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23646,
-      "num": 273920,
-      "word": "香港大埔火灾善后工作有序开展",
-      "onboard_time": 1764480141,
-      "rank": 10,
-      "category": "突发/灾害"
+      "raw_hot": 23842,
+      "num": 204547,
+      "word": "大坝建设为何在中国电建体内循环",
+      "onboard_time": 1764480621,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17926,
