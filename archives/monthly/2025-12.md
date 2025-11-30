@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/01 05:38:16
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/01 06:25:53
 </p>
 </blockquote>
 <p>
@@ -316,7 +316,7 @@ iG纪录片（热度：59254）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A6%E9%9B%AA%E5%89%8D%E7%94%B7%E5%8F%8B%E8%87%AA%E6%9B%9D%E5%96%9C%E6%AC%A2%E7%9A%84%E6%98%8E%E6%98%9F%23" target="weibo">
-韦雪前男友自曝喜欢的明星（热度：46653）
+韦雪前男友自曝喜欢的明星（热度：51131）
 </a>
 </li>
 
@@ -329,6 +329,12 @@ iG纪录片（热度：59254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%99%E9%80%86%23" target="weibo">
 仙逆（热度：44293）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E6%B8%85%E6%9C%9D%E6%97%B6%E6%9C%9F%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%BE%AB%E5%AD%90%23" target="weibo">
+这才是清朝时期真正的辫子（热度：42064）
 </a>
 </li>
 
@@ -351,8 +357,8 @@ iG纪录片（热度：59254）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BF%99%E6%89%8D%E6%98%AF%E6%B8%85%E6%9C%9D%E6%97%B6%E6%9C%9F%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%BE%AB%E5%AD%90%23" target="weibo">
-这才是清朝时期真正的辫子（热度：36503）
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%E5%87%91%E4%B8%8D%E9%BD%90%E6%81%A9%E5%88%A9%E4%B8%80%E4%B8%AA%E8%83%86%E5%AD%90%23" target="weibo">
+一屋子人凑不齐恩利一个胆子（热度：36241）
 </a>
 </li>
 
@@ -375,20 +381,26 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%B8%9F%E7%B1%BB%23" target="weibo">
+疯狂动物城 鸟类（热度：28008）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
+榆林学生遭霸凌部分学生及家长已道歉（热度：26462）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%AF%E8%83%BD%E5%88%9B%E4%B8%8B%E5%90%89%E5%B0%BC%E6%96%AF%E6%9C%80%E5%BF%AB%E8%84%B1%E8%A2%9C%E7%BA%AA%E5%BD%95%23" target="weibo">
 可能创下吉尼斯最快脱袜纪录（热度：25567）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%B8%9F%E7%B1%BB%23" target="weibo">
-疯狂动物城 鸟类（热度：25423）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
-榆林学生遭霸凌部分学生及家长已道歉（热度：23948）
+<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%A1%97%E5%A4%B4%E7%8E%B0%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%23" target="weibo">
+洛杉矶街头现饿了么骑手（热度：24057）
 </a>
 </li>
 
@@ -405,8 +417,8 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B4%9B%E6%9D%89%E7%9F%B6%E8%A1%97%E5%A4%B4%E7%8E%B0%E9%A5%BF%E4%BA%86%E4%B9%88%E9%AA%91%E6%89%8B%23" target="weibo">
-洛杉矶街头现饿了么骑手（热度：22380）
+<a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E9%AB%98%E9%93%81%E7%89%B9%E7%AD%89%E5%BA%A7%E5%8C%85%E9%97%B4%E5%83%8F%E4%BC%9A%E8%AE%AE%E5%AE%A4%23" target="weibo">
+12306回应高铁特等座包间像会议室（热度：18850）
 </a>
 </li>
 
@@ -419,12 +431,6 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23" target="weibo">
 免费职业技能夜校几乎期期爆满（热度：17424）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%80%E5%B1%8B%E5%AD%90%E4%BA%BA%E5%87%91%E4%B8%8D%E9%BD%90%E6%81%A9%E5%88%A9%E4%B8%80%E4%B8%AA%E8%83%86%E5%AD%90%23" target="weibo">
-一屋子人凑不齐恩利一个胆子（热度：13653）
 </a>
 </li>
 

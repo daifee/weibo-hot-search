@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764538696340,
+  "endTime": 1764541553359,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -1180,7 +1180,7 @@
     },
     {
       "raw_hot": 181743,
-      "num": 181743,
+      "num": 387911,
       "word": "手机壳爱马仕一年狂卖36亿",
       "onboard_time": 1764519441,
       "rank": 39,
@@ -3627,6 +3627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 36241,
+      "num": 36241,
+      "word": "一屋子人凑不齐恩利一个胆子",
+      "onboard_time": 1764536293,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 36240,
       "num": 51251,
       "word": "奔跑吧",
@@ -3723,12 +3731,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 28008,
+      "num": 28008,
+      "word": "疯狂动物城 鸟类",
+      "onboard_time": 1764530354,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 26540,
       "num": 98981,
       "word": "委内瑞拉防长说战争即将来临",
       "onboard_time": 1764487280,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26462,
+      "num": 27449,
+      "word": "榆林学生遭霸凌部分学生及家长已道歉",
+      "onboard_time": 1764526455,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 25567,
@@ -3745,14 +3769,6 @@
       "onboard_time": 1764484400,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 25423,
-      "num": 27424,
-      "word": "疯狂动物城 鸟类",
-      "onboard_time": 1764530354,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 25004,
@@ -3803,12 +3819,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 23948,
-      "num": 27449,
-      "word": "榆林学生遭霸凌部分学生及家长已道歉",
-      "onboard_time": 1764526455,
-      "rank": 37,
-      "category": "民生新闻"
+      "raw_hot": 24057,
+      "num": 25840,
+      "word": "洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764533535,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23927,
@@ -3851,12 +3867,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 22380,
-      "num": 24639,
-      "word": "洛杉矶街头现饿了么骑手",
-      "onboard_time": 1764533535,
-      "rank": 33,
-      "category": "海外新闻"
+      "raw_hot": 18850,
+      "num": 25793,
+      "word": "12306回应高铁特等座包间像会议室",
+      "onboard_time": 1764539895,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18621,
@@ -3881,14 +3897,6 @@
       "onboard_time": 1764527595,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 13653,
-      "num": 17150,
-      "word": "一屋子人凑不齐恩利一个胆子",
-      "onboard_time": 1764536293,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 11879,
