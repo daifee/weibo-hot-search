@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764491545331,
+  "endTime": 1764492292100,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -83,8 +83,8 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 771963,
-      "num": 1123514,
+      "raw_hot": 791999,
+      "num": 1126719,
       "word": "高市早苗再次有意犯错",
       "onboard_time": 1764489201,
       "rank": 0,
@@ -163,6 +163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 561160,
+      "num": 329846,
+      "word": "已上岸丈夫送怀孕妻子国考",
+      "onboard_time": 1764490400,
+      "rank": 11,
+      "category": "教育"
+    },
+    {
       "raw_hot": 557276,
       "num": 313650,
       "word": "我就说何老师还不退休迟早会出事吧",
@@ -172,7 +180,7 @@
     },
     {
       "raw_hot": 538613,
-      "num": 308386,
+      "num": 401340,
       "word": "2026年国考今日开考",
       "onboard_time": 1764459258,
       "rank": 1,
@@ -195,6 +203,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 526535,
+      "num": 194263,
+      "word": "汪顺在黄雅琼婚礼挖游泳苗子",
+      "onboard_time": 1764489142,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 492506,
       "num": 422096,
       "word": "刘义恒 图推的神",
@@ -211,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 458772,
+      "num": 419169,
+      "word": "25岁小伙上吐下泻下班后离世",
+      "onboard_time": 1764489623,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 458428,
       "num": 458428,
       "word": "疯狂动物城2票房",
@@ -220,19 +244,11 @@
     },
     {
       "raw_hot": 457877,
-      "num": 335419,
+      "num": 383703,
       "word": "原来方圆脸这么好出片",
       "onboard_time": 1764486801,
       "rank": 30,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 444805,
-      "num": 329846,
-      "word": "已上岸丈夫送怀孕妻子国考",
-      "onboard_time": 1764490400,
-      "rank": 11,
-      "category": "教育"
     },
     {
       "raw_hot": 433000,
@@ -289,6 +305,14 @@
       "onboard_time": 1764459558,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398071,
+      "num": 398071,
+      "word": "徐璐变美了",
+      "onboard_time": 1764490581,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 391451,
@@ -363,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 345401,
-      "num": 345401,
-      "word": "25岁小伙上吐下泻下班后离世",
-      "onboard_time": 1764489623,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 341149,
       "num": 189396,
       "word": "李诞痛骂总有负面思想的女生",
@@ -393,14 +409,6 @@
       "onboard_time": 1764473960,
       "rank": 15,
       "category": "教育"
-    },
-    {
-      "raw_hot": 329117,
-      "num": 329117,
-      "word": "徐璐变美了",
-      "onboard_time": 1764490581,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 318322,
@@ -505,14 +513,6 @@
       "onboard_time": 1764468620,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 240564,
-      "num": 194263,
-      "word": "汪顺在黄雅琼婚礼挖游泳苗子",
-      "onboard_time": 1764489142,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 237865,
@@ -819,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 172862,
+      "num": 172862,
+      "word": "家属称25岁去世小伙生前过度加班",
+      "onboard_time": 1764489500,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171102,
       "num": 338462,
       "word": "无畏祝小王冲向全世界",
@@ -859,20 +867,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 165610,
+      "num": 165610,
+      "word": "枭起青壤导演表情不对劲",
+      "onboard_time": 1764490220,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 165305,
       "num": 165305,
       "word": "宋茜回头一看身后空无一人",
       "onboard_time": 1764460878,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164474,
-      "num": 164474,
-      "word": "枭起青壤导演表情不对劲",
-      "onboard_time": 1764490220,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 163347,
@@ -921,6 +929,14 @@
       "onboard_time": 1764460878,
       "rank": 26,
       "category": "情感"
+    },
+    {
+      "raw_hot": 156571,
+      "num": 146902,
+      "word": "一天中4个时刻不建议洗头",
+      "onboard_time": 1764487161,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 155537,
@@ -979,14 +995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 147863,
-      "num": 146224,
-      "word": "一天中4个时刻不建议洗头",
-      "onboard_time": 1764487161,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 147775,
       "num": 347134,
       "word": "全国流感阳性率接近45%",
@@ -1001,6 +1009,14 @@
       "onboard_time": 1764490821,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 146875,
+      "num": 146875,
+      "word": "高市被批已不具备首相资格",
+      "onboard_time": 1764488481,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 146331,
@@ -1115,6 +1131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128129,
+      "num": 128129,
+      "word": "绿肥红瘦原来是这个意思",
+      "onboard_time": 1764489860,
+      "rank": 34,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 127552,
       "num": 127552,
       "word": "肖战莫得闲一家四口合影",
@@ -1147,14 +1171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126626,
-      "num": 126626,
-      "word": "家属称25岁去世小伙生前过度加班",
-      "onboard_time": 1764489500,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "国考笔试结束还要注意这些环节",
@@ -1169,6 +1185,14 @@
       "onboard_time": 1764414622,
       "rank": 40,
       "category": "教育,海外新闻"
+    },
+    {
+      "raw_hot": 125619,
+      "num": 125619,
+      "word": "那种脆脆的水特别好喝",
+      "onboard_time": 1764488601,
+      "rank": 41,
+      "category": "幽默"
     },
     {
       "raw_hot": 125139,
@@ -1193,22 +1217,6 @@
       "onboard_time": 1764477862,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 123953,
-      "num": 123953,
-      "word": "绿肥红瘦原来是这个意思",
-      "onboard_time": 1764489860,
-      "rank": 34,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 122087,
-      "num": 122087,
-      "word": "高市被批已不具备首相资格",
-      "onboard_time": 1764488481,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122031,
@@ -1289,14 +1297,6 @@
       "onboard_time": 1764477141,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118225,
-      "num": 118225,
-      "word": "那种脆脆的水特别好喝",
-      "onboard_time": 1764488601,
-      "rank": 41,
-      "category": "幽默"
     },
     {
       "raw_hot": 117833,
@@ -1435,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108800,
+      "num": 108800,
+      "word": "喻言 小孩哥顶级过肺",
+      "onboard_time": 1764492081,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108006,
       "num": 313610,
       "word": "疯狂动物城2",
@@ -1449,6 +1457,14 @@
       "onboard_time": 1764408501,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107072,
+      "num": 107072,
+      "word": "爱你老己",
+      "onboard_time": 1764489201,
+      "rank": 40,
+      "category": "情感"
     },
     {
       "raw_hot": 105588,
@@ -1571,6 +1587,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95936,
+      "num": 205253,
+      "word": "奶精和淀粉做的假奶粉都流向了哪里",
+      "onboard_time": 1764490581,
+      "rank": 19,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 95757,
       "num": 95757,
       "word": "畏手畏脚的女孩都来学学",
@@ -1633,6 +1657,14 @@
       "onboard_time": 1764482901,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 92923,
+      "num": 92923,
+      "word": "王楚钦疑似发现笑点",
+      "onboard_time": 1764491720,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 92131,
@@ -1699,12 +1731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87825,
+      "num": 87825,
+      "word": "东北搓澡真没那么可怕",
+      "onboard_time": 1764492141,
+      "rank": 45,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 86912,
       "num": 86912,
       "word": "孙颖莎王楚钦走得像军训",
       "onboard_time": 1764466879,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86888,
+      "num": 86888,
+      "word": "章莹颖被害8年父母未获1分钱赔偿",
+      "onboard_time": 1764492201,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86703,
@@ -1811,6 +1859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80711,
+      "num": 207114,
+      "word": "疯狂动物城2让我起鸡皮疙瘩的台词",
+      "onboard_time": 1764490760,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 80189,
       "num": 313480,
       "word": "三星掌门人之子成为海军翻译官",
@@ -1867,6 +1923,14 @@
       "category": "民生新闻,艺人"
     },
     {
+      "raw_hot": 75035,
+      "num": 84578,
+      "word": "那年丁神对阵韩国杀疯了",
+      "onboard_time": 1764491540,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75034,
       "num": 142099,
       "word": "菲律宾多地将举行大规模抗议示威",
@@ -1897,14 +1961,6 @@
       "onboard_time": 1764467179,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 71511,
-      "num": 205253,
-      "word": "奶精和淀粉做的假奶粉都流向了哪里",
-      "onboard_time": 1764490581,
-      "rank": 19,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 69921,
@@ -1977,6 +2033,14 @@
       "onboard_time": 1764467120,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 63080,
+      "num": 121680,
+      "word": "金正恩称朝空军将装备新战略军事资产",
+      "onboard_time": 1764490700,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 59397,
@@ -2155,14 +2219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 39891,
-      "num": 207114,
-      "word": "疯狂动物城2让我起鸡皮疙瘩的台词",
-      "onboard_time": 1764490760,
-      "rank": 18,
-      "category": "电影"
-    },
-    {
       "raw_hot": 37672,
       "num": 282039,
       "word": "王安宇 骗你的其实最喜欢出片了",
@@ -2281,14 +2337,6 @@
       "onboard_time": 1764480621,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19322,
-      "num": 121680,
-      "word": "金正恩称朝空军将装备新战略军事资产",
-      "onboard_time": 1764490700,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17926,
