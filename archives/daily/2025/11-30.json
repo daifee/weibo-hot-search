@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764512643252,
+  "endTime": 1764513641297,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1479676,
-      "num": 185358,
+      "num": 199198,
       "word": "王嘉尔自曝恋爱经历",
       "onboard_time": 1764504381,
       "rank": 20,
@@ -123,20 +123,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 816186,
+      "num": 416920,
+      "word": "疑似王鹤棣退出将门毒后",
+      "onboard_time": 1764507981,
+      "rank": 5,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 803561,
       "num": 803561,
       "word": "内娱女爱豆自曝回归期变美是做医美",
       "onboard_time": 1764498742,
       "rank": 15,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 792243,
-      "num": 416920,
-      "word": "疑似王鹤棣退出将门毒后",
-      "onboard_time": 1764507981,
-      "rank": 5,
-      "category": "剧集"
     },
     {
       "raw_hot": 791999,
@@ -163,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 735512,
+      "num": 363542,
+      "word": "幼师等招聘可依法查询吸毒记录",
+      "onboard_time": 1764511641,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 717267,
       "num": 307546,
       "word": "新白粉丝质问叶童",
@@ -177,14 +185,6 @@
       "onboard_time": 1764425723,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 631589,
-      "num": 363542,
-      "word": "幼师等招聘可依法查询吸毒记录",
-      "onboard_time": 1764511641,
-      "rank": 6,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630424,
@@ -232,6 +232,14 @@
       "word": "网红老人去世粉丝怀疑因木薯糖水中毒",
       "onboard_time": 1764425723,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 587267,
+      "num": 1093962,
+      "word": "外卖大战6个月烧掉近800亿",
+      "onboard_time": 1764511882,
+      "rank": 15,
       "category": "民生新闻"
     },
     {
@@ -291,6 +299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 546741,
+      "num": 304704,
+      "word": "沈腾的征信都扫不了共享单车",
+      "onboard_time": 1764510023,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 538613,
       "num": 401340,
       "word": "2026年国考今日开考",
@@ -347,8 +363,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 492500,
+      "num": 268194,
+      "word": "朱珠 面无表情把老公挤开",
+      "onboard_time": 1764512722,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 486902,
-      "num": 185281,
+      "num": 197035,
       "word": "郑乃馨疑似回应分手",
       "onboard_time": 1764507743,
       "rank": 41,
@@ -499,6 +523,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 390986,
+      "num": 138020,
+      "word": "凯特王妃瘦成纸片人",
+      "onboard_time": 1764513022,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 390901,
       "num": 234921,
       "word": "上海 12899元咖啡",
@@ -611,14 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 304704,
-      "num": 304704,
-      "word": "沈腾的征信都扫不了共享单车",
-      "onboard_time": 1764510023,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 304118,
       "num": 236474,
       "word": "家属称25岁去世小伙生前过度加班",
@@ -683,6 +707,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284258,
+      "num": 284258,
+      "word": "TheShy说赢了T1就能进决赛",
+      "onboard_time": 1764512062,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 284109,
       "num": 284109,
       "word": "光与夜之恋",
@@ -713,14 +745,6 @@
       "onboard_time": 1764476840,
       "rank": 13,
       "category": "教育"
-    },
-    {
-      "raw_hot": 278265,
-      "num": 278265,
-      "word": "外卖大战6个月烧掉近800亿",
-      "onboard_time": 1764511882,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 277326,
@@ -883,6 +907,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213560,
+      "num": 213560,
+      "word": "肖战超长款羽绒服",
+      "onboard_time": 1764509782,
+      "rank": 32,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 212864,
       "num": 212864,
       "word": "国考言语",
@@ -905,14 +937,6 @@
       "onboard_time": 1764427463,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 211249,
-      "num": 211249,
-      "word": "肖战超长款羽绒服",
-      "onboard_time": 1764509782,
-      "rank": 32,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 207934,
@@ -985,6 +1009,14 @@
       "onboard_time": 1764508942,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196525,
+      "num": 196525,
+      "word": "将门毒后",
+      "onboard_time": 1764512422,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 195676,
@@ -1265,14 +1297,6 @@
       "onboard_time": 1764475820,
       "rank": 33,
       "category": "体育"
-    },
-    {
-      "raw_hot": 160489,
-      "num": 160489,
-      "word": "将门毒后",
-      "onboard_time": 1764512422,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 158369,
@@ -1563,14 +1587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135536,
-      "num": 135536,
-      "word": "TheShy说赢了T1就能进决赛",
-      "onboard_time": 1764512062,
-      "rank": 39,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 133756,
       "num": 133756,
       "word": "T1上单登顶韩服",
@@ -1755,12 +1771,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124193,
+      "num": 124193,
+      "word": "梁伟铿回应缺席刘雨辰黄雅琼婚礼",
+      "onboard_time": 1764513623,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124171,
       "num": 124171,
       "word": "国产剧拍了女性大方谈月经",
       "onboard_time": 1764507200,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 123127,
+      "num": 321562,
+      "word": "印尼洪水山体滑坡442人死亡",
+      "onboard_time": 1764511823,
+      "rank": 9,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 122634,
@@ -1857,6 +1889,14 @@
       "onboard_time": 1764497423,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 119828,
+      "num": 119828,
+      "word": "樊振东刻在骨子里的爱国情",
+      "onboard_time": 1764512602,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 119816,
@@ -1971,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 114905,
+      "num": 114905,
+      "word": "普通家庭没必要进行苦难教育",
+      "onboard_time": 1764513143,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114645,
       "num": 114645,
       "word": "疯狂动物城撞脸真人版",
@@ -1993,6 +2041,14 @@
       "onboard_time": 1764512122,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113808,
+      "num": 113808,
+      "word": "华晨宇 你们在哪家就在哪",
+      "onboard_time": 1764513623,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 113707,
@@ -2163,6 +2219,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106447,
+      "num": 108167,
+      "word": "王楚钦左手腕缠绷带",
+      "onboard_time": 1764513082,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105966,
       "num": 105966,
       "word": "英法爆发大规模游行",
@@ -2201,6 +2265,14 @@
       "onboard_time": 1764475162,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103449,
+      "num": 119921,
+      "word": "中国游客在美国商场遇枪击躲试衣间",
+      "onboard_time": 1764513082,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 103400,
@@ -2267,6 +2339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102147,
+      "num": 108093,
+      "word": "国足U17五战全胜",
+      "onboard_time": 1764513022,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 101503,
       "num": 101503,
       "word": "U17国足vs孟加拉国U17",
@@ -2329,14 +2409,6 @@
       "onboard_time": 1764482239,
       "rank": 35,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97170,
-      "num": 97170,
-      "word": "樊振东刻在骨子里的爱国情",
-      "onboard_time": 1764512602,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 97122,
@@ -3115,6 +3187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 51666,
+      "num": 119856,
+      "word": "某音综评审强行端水",
+      "onboard_time": 1764513502,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 51527,
       "num": 114697,
       "word": "老板被追讨工资次日自缢细节公布",
@@ -3153,14 +3233,6 @@
       "onboard_time": 1764487462,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 49997,
-      "num": 321562,
-      "word": "印尼洪水山体滑坡442人死亡",
-      "onboard_time": 1764511823,
-      "rank": 9,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 48307,
@@ -3256,6 +3328,14 @@
       "word": "秋冬如何预防呼吸道感染",
       "onboard_time": 1764478702,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41188,
+      "num": 200672,
+      "word": "假奶粉涉事老板称也怕会吃出人命",
+      "onboard_time": 1764513323,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3409,6 +3489,14 @@
       "onboard_time": 1764480621,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23426,
+      "num": 120149,
+      "word": "普京催促青年科学家要孩子",
+      "onboard_time": 1764513442,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 17926,

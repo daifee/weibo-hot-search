@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 22:24:03
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 22:40:41
 </p>
 </blockquote>
 <p>
@@ -3201,6 +3201,12 @@ A股（热度：834240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%80%E5%87%BA%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
+疑似王鹤棣退出将门毒后（热度：816186）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%23" target="weibo">
 得闲谨制（热度：815645）
 </a>
@@ -3365,12 +3371,6 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6vs%E8%A2%81%E5%8A%B1%E5%B2%91%23" target="weibo">
 王楚钦vs袁励岑（热度：792746）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%80%E5%87%BA%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
-疑似王鹤棣退出将门毒后（热度：792243）
 </a>
 </li>
 
@@ -3911,6 +3911,12 @@ hi6收视新高（热度：736437）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E9%9F%A9%E5%9B%BD%E7%94%B7%E7%AF%AE%23" target="weibo">
 中国男篮vs韩国男篮（热度：736100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E7%AD%89%E6%8B%9B%E8%81%98%E5%8F%AF%E4%BE%9D%E6%B3%95%E6%9F%A5%E8%AF%A2%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%23" target="weibo">
+幼师等招聘可依法查询吸毒记录（热度：735512）
 </a>
 </li>
 
@@ -5163,12 +5169,6 @@ Faker说BLG是冠军（热度：636527）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B9%BC%E5%B8%88%E7%AD%89%E6%8B%9B%E8%81%98%E5%8F%AF%E4%BE%9D%E6%B3%95%E6%9F%A5%E8%AF%A2%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%23" target="weibo">
-幼师等招聘可依法查询吸毒记录（热度：631589）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%AA%E6%AF%81%E5%88%98%E6%B5%B7%E6%84%8F%E5%A4%96%E6%88%90%E4%BA%86%E4%BA%BA%E7%94%9F%E5%8F%91%E5%9E%8B%23" target="weibo">
 剪毁刘海意外成了人生发型（热度：631043）
 </a>
@@ -5913,6 +5913,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%A4%A7%E6%88%986%E4%B8%AA%E6%9C%88%E7%83%A7%E6%8E%89%E8%BF%91800%E4%BA%BF%23" target="weibo">
+外卖大战6个月烧掉近800亿（热度：587267）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E7%BA%A2%E6%A9%99%E5%AD%90%E5%A7%90%E5%A7%90%E5%9C%A8%E6%9F%AC%E5%9F%94%E5%AF%A8%E6%B6%89%E8%AF%88%E8%A2%AB%E6%8A%93%23" target="weibo">
 网红橙子姐姐在柬埔寨涉诈被抓（热度：586835）
 </a>
@@ -6005,12 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%94%E6%AC%A3%20%E7%8E%B0%E5%AE%9E%E7%89%88%E7%9A%84%E6%9B%B2%E7%AD%B1%E7%BB%A1%23" target="weibo">
 乔欣 现实版的曲筱绡（热度：580326）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E9%87%8F%E7%9C%8B%E4%B9%A6%E5%90%8E%E7%9C%9F%E7%9A%84%E8%83%BD%E6%94%B9%E5%8F%98%E4%BA%BA%E7%9A%84%E6%BD%9C%E6%84%8F%E8%AF%86%23" target="weibo">
-大量看书后真的能改变人的潜意识（热度：580213）
 </a>
 </li>
 
