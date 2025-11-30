@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764537844085,
+  "endTime": 1764538696340,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -3851,7 +3851,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20558,
+      "raw_hot": 22380,
       "num": 24639,
       "word": "洛杉矶街头现饿了么骑手",
       "onboard_time": 1764533535,
@@ -3883,6 +3883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 13653,
+      "num": 17150,
+      "word": "一屋子人凑不齐恩利一个胆子",
+      "onboard_time": 1764536293,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11879,
       "num": 34315,
       "word": "张函瑞再唱言不由衷",
@@ -3897,14 +3905,6 @@
       "onboard_time": 1764470000,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 11193,
-      "num": 14336,
-      "word": "一屋子人凑不齐恩利一个胆子",
-      "onboard_time": 1764536293,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 10354,
