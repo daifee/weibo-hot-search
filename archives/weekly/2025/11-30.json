@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764531412621,
+  "endTime": 1764534579794,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -3747,6 +3747,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 25423,
+      "num": 27424,
+      "word": "疯狂动物城 鸟类",
+      "onboard_time": 1764530354,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 25004,
       "num": 110940,
       "word": "记者目击委内瑞拉首都军车往来",
@@ -3843,6 +3851,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18621,
+      "num": 24664,
+      "word": "穆祉丞星辰大海vlog",
+      "onboard_time": 1764534015,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17926,
       "num": 65311,
       "word": "央行开通捐赠绿色通道支持香港救灾",
@@ -3859,12 +3875,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17349,
-      "num": 27424,
-      "word": "疯狂动物城 鸟类",
-      "onboard_time": 1764530354,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 14342,
+      "num": 24639,
+      "word": "洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764533535,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 11879,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764531412621,
+  "endTime": 1764534579794,
   "band_list": [
     {
       "raw_hot": 2134222,
@@ -491,6 +491,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 25423,
+      "num": 27424,
+      "word": "疯狂动物城 鸟类",
+      "onboard_time": 1764530354,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 23948,
       "num": 27449,
       "word": "榆林学生遭霸凌部分学生及家长已道歉",
@@ -515,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 18621,
+      "num": 24664,
+      "word": "穆祉丞星辰大海vlog",
+      "onboard_time": 1764534015,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 17424,
       "num": 27438,
       "word": "免费职业技能夜校几乎期期爆满",
@@ -523,12 +539,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17349,
-      "num": 27424,
-      "word": "疯狂动物城 鸟类",
-      "onboard_time": 1764530354,
-      "rank": 46,
-      "category": "电影"
+      "raw_hot": 14342,
+      "num": 24639,
+      "word": "洛杉矶街头现饿了么骑手",
+      "onboard_time": 1764533535,
+      "rank": 33,
+      "category": "海外新闻"
     }
   ],
   "hotgov_list": [
