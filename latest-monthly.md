@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 19:21:50
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 19:37:01
 </p>
 </blockquote>
 <p>
@@ -3273,6 +3273,12 @@ A股（热度：834240）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E7%88%B1%E8%B1%86%E8%87%AA%E6%9B%9D%E5%9B%9E%E5%BD%92%E6%9C%9F%E5%8F%98%E7%BE%8E%E6%98%AF%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
+内娱女爱豆自曝回归期变美是做医美（热度：803561）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7%E6%8E%A8%E5%87%BA%E6%BC%94%E5%91%98%E5%88%86%E8%B4%A6%23" target="weibo">
 红果短剧推出演员分账（热度：803259）
 </a>
@@ -3341,12 +3347,6 @@ iPhone可以检测针孔摄像头（热度：798914）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E5%B7%B2%E4%BB%98%E5%87%BA%E4%BB%A3%E4%BB%B7%23" target="weibo">
 日本已付出代价（热度：794699）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E5%A8%B1%E5%A5%B3%E7%88%B1%E8%B1%86%E8%87%AA%E6%9B%9D%E5%9B%9E%E5%BD%92%E6%9C%9F%E5%8F%98%E7%BE%8E%E6%98%AF%E5%81%9A%E5%8C%BB%E7%BE%8E%23" target="weibo">
-内娱女爱豆自曝回归期变美是做医美（热度：794683）
 </a>
 </li>
 
