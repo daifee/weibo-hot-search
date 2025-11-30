@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 19:37:01
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 20:49:54
 </p>
 </blockquote>
 <p>
@@ -917,6 +917,12 @@ Uzi 拿奖杯（热度：1474589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%97%E7%99%8C%E9%92%88%23" target="weibo">
 抗癌针（热度：1474377）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%98%89%E5%B0%94%E8%87%AA%E6%9B%9D%E6%81%8B%E7%88%B1%E7%BB%8F%E5%8E%86%23" target="weibo">
+王嘉尔自曝恋爱经历（热度：1466189）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%B5%81%E9%87%8F%E7%8B%82%E6%AC%A2%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%23" target="weibo">
 鸡排哥流量狂欢接近尾声（热度：579253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E6%9B%9D%E5%89%A7%E7%BB%84%E6%9D%80%E7%94%9F%23" target="weibo">
-短剧女演员曝剧组杀生（热度：578308）
 </a>
 </li>
 

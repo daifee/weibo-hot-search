@@ -1,0 +1,410 @@
+{
+  "runTime": 1764506994540,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 710110,
+        "num": 1113617,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 452618,
+        "num": 452618,
+        "word": "香港火灾已致146人遇难",
+        "onboard_time": 1764495141,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 33074,
+        "num": 401686,
+        "word": "神21乘组首次全系统压力应急演练",
+        "onboard_time": 1764493581,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 667472,
+        "num": 400573,
+        "word": "疯狂动物城 邦邦硬DQ冰激凌",
+        "onboard_time": 1764494122,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 126776,
+        "num": 399390,
+        "word": "仙逆",
+        "onboard_time": 1764500120,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 398970,
+        "num": 398970,
+        "word": "疯狂动物城2的翻译完全天才来的",
+        "onboard_time": 1764500181,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 299995,
+        "num": 299995,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 227932,
+        "num": 298822,
+        "word": "高市早苗再次有意犯错",
+        "onboard_time": 1764489201,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222380,
+        "num": 297379,
+        "word": "唐诡 蜀道",
+        "onboard_time": 1764500782,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111139,
+        "num": 296793,
+        "word": "国考结束",
+        "onboard_time": 1764495679,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 462750,
+        "num": 295101,
+        "word": "彭小苒 对不起我不认同",
+        "onboard_time": 1764501981,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300156,
+        "num": 292119,
+        "word": "申论 写笑了",
+        "onboard_time": 1764496581,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 292049,
+        "num": 292049,
+        "word": "妈妈为戳洞娃买下全部蛋糕",
+        "onboard_time": 1764499402,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266583,
+        "num": 266583,
+        "word": "内娱女爱豆自曝回归期变美是做医美",
+        "onboard_time": 1764498742,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253363,
+        "num": 253363,
+        "word": "阿油宣布陈怡账号停更",
+        "onboard_time": 1764499941,
+        "rank": 14,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 236473,
+        "num": 236473,
+        "word": "画梅一夜掉粉超190万",
+        "onboard_time": 1764496220,
+        "rank": 15,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 183729,
+        "num": 183729,
+        "word": "真人版疯狂动物城",
+        "onboard_time": 1764489919,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176821,
+        "num": 176821,
+        "word": "25岁小伙上吐下泻下班后离世",
+        "onboard_time": 1764489623,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162124,
+        "num": 162124,
+        "word": "早产男婴出保温箱离世母亲再发声",
+        "onboard_time": 1764504501,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136109,
+        "num": 136109,
+        "word": "高铁特等座包间被吐槽像会议室",
+        "onboard_time": 1764505042,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1466189,
+        "num": 135776,
+        "word": "王嘉尔自曝恋爱经历",
+        "onboard_time": 1764504381,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330423,
+        "num": 135456,
+        "word": "车澈回应与李嘉格离婚",
+        "onboard_time": 1764489980,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253197,
+        "num": 135245,
+        "word": "李诞首度自曝为什么不要孩子",
+        "onboard_time": 1764484223,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247015,
+        "num": 134555,
+        "word": "长期没穿的衣服藏健康隐患",
+        "onboard_time": 1764503541,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 222877,
+        "num": 134255,
+        "word": "杨丞琳缺席许玮甯婚礼",
+        "onboard_time": 1764504861,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134121,
+        "num": 134121,
+        "word": "申论大作文",
+        "onboard_time": 1764494603,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 141857,
+        "num": 131192,
+        "word": "徐璐变美了",
+        "onboard_time": 1764490581,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138574,
+        "num": 129423,
+        "word": "刘诗诗仙女盘发",
+        "onboard_time": 1764492501,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124401,
+        "num": 124401,
+        "word": "范丞丞工伤",
+        "onboard_time": 1764505940,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 121213,
+        "num": 121213,
+        "word": "多国最新涉台表态",
+        "onboard_time": 1764501141,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119821,
+        "num": 119821,
+        "word": "赵丽颖 我即剧名",
+        "onboard_time": 1764486980,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113952,
+        "num": 113952,
+        "word": "一天中4个时刻不建议洗头",
+        "onboard_time": 1764487161,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 97298,
+        "num": 97298,
+        "word": "让劣迹网红的复出试探无处遁形",
+        "onboard_time": 1764505641,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95809,
+        "num": 95809,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94275,
+        "num": 94275,
+        "word": "肖战澳门美食排序",
+        "onboard_time": 1764504200,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90728,
+        "num": 90728,
+        "word": "水晶宫vs曼联",
+        "onboard_time": 1764506902,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87838,
+        "num": 87838,
+        "word": "货车龟速行驶后车追尾司机死亡",
+        "onboard_time": 1764506720,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86176,
+        "num": 86176,
+        "word": "东北姥爷第一次吃广东早茶",
+        "onboard_time": 1764506482,
+        "rank": 37,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84694,
+        "num": 84694,
+        "word": "38岁考生说国考年龄放宽挺好的",
+        "onboard_time": 1764503361,
+        "rank": 38,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 83354,
+        "num": 83354,
+        "word": "乳腺癌研究有重要进展",
+        "onboard_time": 1764503361,
+        "rank": 39,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 82081,
+        "num": 82081,
+        "word": "英法爆发大规模游行",
+        "onboard_time": 1764506600,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 79198,
+        "num": 79198,
+        "word": "水果夹酸奶",
+        "onboard_time": 1764504262,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 78941,
+        "num": 78941,
+        "word": "王橹杰 下次的我会更优秀",
+        "onboard_time": 1764503002,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 78260,
+        "num": 78260,
+        "word": "汪顺在黄雅琼婚礼挖游泳苗子",
+        "onboard_time": 1764489142,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78252,
+        "num": 78252,
+        "word": "oner将人生押在了英雄联盟",
+        "onboard_time": 1764506781,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 77315,
+        "num": 77315,
+        "word": "邓为失踪人口回归",
+        "onboard_time": 1764498981,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76974,
+        "num": 76974,
+        "word": "Gr对战北京WBG",
+        "onboard_time": 1764503662,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74125,
+        "num": 74125,
+        "word": "炎拓被囚禁",
+        "onboard_time": 1764506961,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74025,
+        "num": 74025,
+        "word": "孟子义 草莓大福",
+        "onboard_time": 1764496401,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 69223,
+        "num": 73373,
+        "word": "U17亚洲杯",
+        "onboard_time": 1764505521,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#持续营造风清气正的网络空间#"
+    }
+  }
+}

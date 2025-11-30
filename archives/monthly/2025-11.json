@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764502621239,
+  "endTime": 1764506994540,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1209,6 +1209,14 @@
       "onboard_time": 1762325540,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1466189,
+      "num": 135776,
+      "word": "王嘉尔自曝恋爱经历",
+      "onboard_time": 1764504381,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1461165,
@@ -11539,6 +11547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 462750,
+      "num": 295101,
+      "word": "彭小苒 对不起我不认同",
+      "onboard_time": 1764501981,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 462593,
       "num": 200741,
       "word": "医院将进价3万的瓣膜28万元卖出",
@@ -20956,7 +20972,7 @@
     },
     {
       "raw_hot": 287075,
-      "num": 287075,
+      "num": 296793,
       "word": "国考结束",
       "onboard_time": 1764495679,
       "rank": 8,
@@ -24411,6 +24427,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247015,
+      "num": 134555,
+      "word": "长期没穿的衣服藏健康隐患",
+      "onboard_time": 1764503541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246988,
       "num": 172074,
       "word": "天天18岁了",
@@ -25620,7 +25644,7 @@
     },
     {
       "raw_hot": 232467,
-      "num": 232467,
+      "num": 297379,
       "word": "唐诡 蜀道",
       "onboard_time": 1764500782,
       "rank": 17,
@@ -26705,6 +26729,14 @@
       "onboard_time": 1763130922,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222877,
+      "num": 134255,
+      "word": "杨丞琳缺席许玮甯婚礼",
+      "onboard_time": 1764504861,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 222823,
@@ -36620,7 +36652,7 @@
     },
     {
       "raw_hot": 172748,
-      "num": 172748,
+      "num": 399390,
       "word": "仙逆",
       "onboard_time": 1762082661,
       "rank": 27,
@@ -39529,6 +39561,14 @@
       "onboard_time": 1763438662,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162124,
+      "num": 162124,
+      "word": "早产男婴出保温箱离世母亲再发声",
+      "onboard_time": 1764504501,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162100,
@@ -44051,14 +44091,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 148107,
-      "num": 148107,
-      "word": "彭小苒 对不起我不认同",
-      "onboard_time": 1764501981,
-      "rank": 26,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 148100,
       "num": 148100,
       "word": "狂野时代观后感",
@@ -48352,6 +48384,14 @@
       "word": "北京阿姨帮孙女追星竟赠蛋致谢",
       "onboard_time": 1762654161,
       "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 136109,
+      "num": 136109,
+      "word": "高铁特等座包间被吐槽像会议室",
+      "onboard_time": 1764505042,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -53515,6 +53555,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 124401,
+      "num": 124401,
+      "word": "范丞丞工伤",
+      "onboard_time": 1764505940,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124371,
       "num": 126686,
       "word": "TVB老戏骨凌汉已去世",
@@ -55249,6 +55297,14 @@
       "onboard_time": 1761954559,
       "rank": 18,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 121213,
+      "num": 184021,
+      "word": "多国最新涉台表态",
+      "onboard_time": 1764501141,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121195,
@@ -69915,6 +69971,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97298,
+      "num": 97298,
+      "word": "让劣迹网红的复出试探无处遁形",
+      "onboard_time": 1764505641,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97297,
       "num": 97297,
       "word": "时代少年团彩排",
@@ -71969,6 +72033,14 @@
       "onboard_time": 1763691081,
       "rank": 46,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 94275,
+      "num": 94275,
+      "word": "肖战澳门美食排序",
+      "onboard_time": 1764504200,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 94260,
@@ -74307,6 +74379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 90728,
+      "num": 90728,
+      "word": "水晶宫vs曼联",
+      "onboard_time": 1764506902,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90710,
       "num": 90710,
       "word": "低端影视闭站",
@@ -76307,6 +76387,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87838,
+      "num": 87838,
+      "word": "货车龟速行驶后车追尾司机死亡",
+      "onboard_time": 1764506720,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87825,
       "num": 87825,
       "word": "东北搓澡真没那么可怕",
@@ -77523,6 +77611,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86176,
+      "num": 86176,
+      "word": "东北姥爷第一次吃广东早茶",
+      "onboard_time": 1764506482,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 86166,
       "num": 86166,
       "word": "拍到了导师组会批假记录",
@@ -78571,6 +78667,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 84694,
+      "num": 84694,
+      "word": "38岁考生说国考年龄放宽挺好的",
+      "onboard_time": 1764503361,
+      "rank": 38,
+      "category": "教育"
+    },
+    {
       "raw_hot": 84691,
       "num": 503881,
       "word": "央视曝光盗版剧APP",
@@ -79371,6 +79475,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 83354,
+      "num": 83354,
+      "word": "乳腺癌研究有重要进展",
+      "onboard_time": 1764503361,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83346,
       "num": 132655,
       "word": "林高远漏了4个字",
@@ -80025,6 +80137,14 @@
       "onboard_time": 1762248502,
       "rank": 47,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 82081,
+      "num": 82081,
+      "word": "英法爆发大规模游行",
+      "onboard_time": 1764506600,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82072,
@@ -81523,6 +81643,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79198,
+      "num": 79198,
+      "word": "水果夹酸奶",
+      "onboard_time": 1764504262,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
       "raw_hot": 79178,
       "num": 79178,
       "word": "宋亚轩这下把压力给到了李飞",
@@ -81625,6 +81753,14 @@
       "onboard_time": 1764110536,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78941,
+      "num": 78941,
+      "word": "王橹杰 下次的我会更优秀",
+      "onboard_time": 1764503002,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 78917,
@@ -81779,14 +81915,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 78664,
-      "num": 184021,
-      "word": "多国最新涉台表态",
-      "onboard_time": 1764501141,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 78632,
       "num": 99714,
       "word": "刘宇宁是不是连夜背梗了",
@@ -81937,6 +82065,14 @@
       "onboard_time": 1763223742,
       "rank": 49,
       "category": "演出"
+    },
+    {
+      "raw_hot": 78252,
+      "num": 78252,
+      "word": "oner将人生押在了英雄联盟",
+      "onboard_time": 1764506781,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 78227,
@@ -82561,6 +82697,14 @@
       "onboard_time": 1763710400,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 76974,
+      "num": 76974,
+      "word": "Gr对战北京WBG",
+      "onboard_time": 1764503662,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 76958,
@@ -83873,6 +84017,14 @@
       "onboard_time": 1764292102,
       "rank": 43,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 74125,
+      "num": 74125,
+      "word": "炎拓被囚禁",
+      "onboard_time": 1764506961,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 74078,
@@ -85857,6 +86009,14 @@
       "onboard_time": 1762100119,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 69223,
+      "num": 73373,
+      "word": "U17亚洲杯",
+      "onboard_time": 1764505521,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 69219,

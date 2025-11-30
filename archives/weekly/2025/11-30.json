@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764502621239,
+  "endTime": 1764506994540,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -17,6 +17,14 @@
       "onboard_time": 1764495141,
       "rank": 4,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1466189,
+      "num": 135776,
+      "word": "王嘉尔自曝恋爱经历",
+      "onboard_time": 1764504381,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1404746,
@@ -307,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 462750,
+      "num": 295101,
+      "word": "彭小苒 对不起我不认同",
+      "onboard_time": 1764501981,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 458428,
       "num": 458428,
       "word": "疯狂动物城2票房",
@@ -572,7 +588,7 @@
     },
     {
       "raw_hot": 287075,
-      "num": 287075,
+      "num": 296793,
       "word": "国考结束",
       "onboard_time": 1764495679,
       "rank": 8,
@@ -651,6 +667,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 247015,
+      "num": 134555,
+      "word": "长期没穿的衣服藏健康隐患",
+      "onboard_time": 1764503541,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 237865,
       "num": 324564,
       "word": "兔子朱迪和狐狸尼克是友情还是爱情",
@@ -668,7 +692,7 @@
     },
     {
       "raw_hot": 232467,
-      "num": 232467,
+      "num": 297379,
       "word": "唐诡 蜀道",
       "onboard_time": 1764500782,
       "rank": 17,
@@ -705,6 +729,14 @@
       "onboard_time": 1764479481,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 222877,
+      "num": 134255,
+      "word": "杨丞琳缺席许玮甯婚礼",
+      "onboard_time": 1764504861,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 222823,
@@ -996,7 +1028,7 @@
     },
     {
       "raw_hot": 172748,
-      "num": 172748,
+      "num": 399390,
       "word": "仙逆",
       "onboard_time": 1764500120,
       "rank": 24,
@@ -1073,6 +1105,14 @@
       "onboard_time": 1764477741,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162124,
+      "num": 162124,
+      "word": "早产男婴出保温箱离世母亲再发声",
+      "onboard_time": 1764504501,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162071,
@@ -1193,14 +1233,6 @@
       "onboard_time": 1764477621,
       "rank": 40,
       "category": "体育"
-    },
-    {
-      "raw_hot": 148107,
-      "num": 148107,
-      "word": "彭小苒 对不起我不认同",
-      "onboard_time": 1764501981,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 148025,
@@ -1345,6 +1377,14 @@
       "onboard_time": 1764478702,
       "rank": 42,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 136109,
+      "num": 136109,
+      "word": "高铁特等座包间被吐槽像会议室",
+      "onboard_time": 1764505042,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133756,
@@ -1507,6 +1547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 124401,
+      "num": 124401,
+      "word": "范丞丞工伤",
+      "onboard_time": 1764505940,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 122634,
       "num": 122634,
       "word": "上岸",
@@ -1545,6 +1593,14 @@
       "onboard_time": 1764474921,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121213,
+      "num": 184021,
+      "word": "多国最新涉台表态",
+      "onboard_time": 1764501141,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 121095,
@@ -1963,6 +2019,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97298,
+      "num": 97298,
+      "word": "让劣迹网红的复出试探无处遁形",
+      "onboard_time": 1764505641,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97122,
       "num": 97122,
       "word": "永远为王安宇的生命力喝彩",
@@ -2033,6 +2097,14 @@
       "onboard_time": 1764428424,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94275,
+      "num": 94275,
+      "word": "肖战澳门美食排序",
+      "onboard_time": 1764504200,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 93621,
@@ -2107,6 +2179,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90728,
+      "num": 90728,
+      "word": "水晶宫vs曼联",
+      "onboard_time": 1764506902,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 90534,
       "num": 90534,
       "word": "心疼普拉斯",
@@ -2163,6 +2243,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87838,
+      "num": 87838,
+      "word": "货车龟速行驶后车追尾司机死亡",
+      "onboard_time": 1764506720,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87825,
       "num": 87825,
       "word": "东北搓澡真没那么可怕",
@@ -2203,6 +2291,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 86176,
+      "num": 86176,
+      "word": "东北姥爷第一次吃广东早茶",
+      "onboard_time": 1764506482,
+      "rank": 37,
+      "category": "美食"
+    },
+    {
       "raw_hot": 86121,
       "num": 313568,
       "word": "王鹤棣耳朵红得不行",
@@ -2241,6 +2337,14 @@
       "onboard_time": 1764487520,
       "rank": 42,
       "category": "演出"
+    },
+    {
+      "raw_hot": 84694,
+      "num": 84694,
+      "word": "38岁考生说国考年龄放宽挺好的",
+      "onboard_time": 1764503361,
+      "rank": 38,
+      "category": "教育"
     },
     {
       "raw_hot": 84691,
@@ -2291,12 +2395,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 83354,
+      "num": 83354,
+      "word": "乳腺癌研究有重要进展",
+      "onboard_time": 1764503361,
+      "rank": 39,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 83213,
       "num": 313487,
       "word": "张函瑞考核第一",
       "onboard_time": 1764420861,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 82081,
+      "num": 82081,
+      "word": "英法爆发大规模游行",
+      "onboard_time": 1764506600,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 81709,
@@ -2339,6 +2459,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79198,
+      "num": 79198,
+      "word": "水果夹酸奶",
+      "onboard_time": 1764504262,
+      "rank": 41,
+      "category": "美食"
+    },
+    {
+      "raw_hot": 78941,
+      "num": 78941,
+      "word": "王橹杰 下次的我会更优秀",
+      "onboard_time": 1764503002,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 78894,
       "num": 78894,
       "word": "章莹颖父母仍无法相信女儿已离去",
@@ -2355,12 +2491,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 78664,
-      "num": 184021,
-      "word": "多国最新涉台表态",
-      "onboard_time": 1764501141,
-      "rank": 19,
-      "category": "国际时政"
+      "raw_hot": 78252,
+      "num": 78252,
+      "word": "oner将人生押在了英雄联盟",
+      "onboard_time": 1764506781,
+      "rank": 44,
+      "category": "电竞"
     },
     {
       "raw_hot": 77788,
@@ -2369,6 +2505,14 @@
       "onboard_time": 1764469640,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 76974,
+      "num": 76974,
+      "word": "Gr对战北京WBG",
+      "onboard_time": 1764503662,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 76883,
@@ -2427,6 +2571,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 74125,
+      "num": 74125,
+      "word": "炎拓被囚禁",
+      "onboard_time": 1764506961,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 72121,
       "num": 72121,
       "word": "孙颖莎认真选珠子串手串",
@@ -2449,6 +2601,14 @@
       "onboard_time": 1764484101,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 69223,
+      "num": 73373,
+      "word": "U17亚洲杯",
+      "onboard_time": 1764505521,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 68828,
