@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764487492215,
+  "endTime": 1764488224580,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -11,7 +11,7 @@
       "category": "教育"
     },
     {
-      "raw_hot": 1398677,
+      "raw_hot": 1404746,
       "num": 153557,
       "word": "李诞首度自曝为什么不要孩子",
       "onboard_time": 1764484223,
@@ -267,6 +267,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 390901,
+      "num": 234921,
+      "word": "上海 12899元咖啡",
+      "onboard_time": 1764483860,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 376024,
       "num": 349972,
       "word": "枭起青壤热度",
@@ -315,12 +323,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 357231,
-      "num": 234921,
-      "word": "上海 12899元咖啡",
-      "onboard_time": 1764483860,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 355965,
+      "num": 142997,
+      "word": "赵丽颖 我即剧名",
+      "onboard_time": 1764486980,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 336123,
@@ -459,6 +467,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 227363,
+      "num": 227363,
+      "word": "解放军中部战区轰炸机跨昼夜飞训",
+      "onboard_time": 1764485299,
+      "rank": 35,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 227156,
       "num": 310319,
       "word": "华为称Mate80显示5A不是5GA",
@@ -547,14 +563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 209147,
-      "num": 209147,
-      "word": "解放军中部战区轰炸机跨昼夜飞训",
-      "onboard_time": 1764485299,
-      "rank": 35,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 207934,
       "num": 142502,
       "word": "黄圣依妈妈道歉说我爱你不容易",
@@ -619,6 +627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194126,
+      "num": 194126,
+      "word": "原来方圆脸这么好出片",
+      "onboard_time": 1764486801,
+      "rank": 30,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 194087,
       "num": 194087,
       "word": "国考时间",
@@ -665,6 +681,14 @@
       "onboard_time": 1764433400,
       "rank": 15,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 181233,
+      "num": 142153,
+      "word": "王丽坤前夫资产被拍卖",
+      "onboard_time": 1764485600,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 181128,
@@ -803,14 +827,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157592,
-      "num": 138782,
-      "word": "王丽坤前夫资产被拍卖",
-      "onboard_time": 1764485600,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 155537,
       "num": 155537,
       "word": "行测数量",
@@ -833,6 +849,14 @@
       "onboard_time": 1764486261,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 153912,
+      "num": 153912,
+      "word": "张婧仪 狐狸眼线",
+      "onboard_time": 1764486261,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 153736,
@@ -865,6 +889,14 @@
       "onboard_time": 1764477621,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 147863,
+      "num": 142007,
+      "word": "一天中4个时刻不建议洗头",
+      "onboard_time": 1764487161,
+      "rank": 27,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 147775,
@@ -929,14 +961,6 @@
       "onboard_time": 1764478702,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 136218,
-      "num": 136218,
-      "word": "张婧仪 狐狸眼线",
-      "onboard_time": 1764486261,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 133456,
@@ -1019,14 +1043,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 126033,
-      "num": 126033,
-      "word": "一天中4个时刻不建议洗头",
-      "onboard_time": 1764487161,
-      "rank": 27,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 125901,
       "num": 125901,
       "word": "国考笔试结束还要注意这些环节",
@@ -1051,14 +1067,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 125085,
-      "num": 125085,
-      "word": "赵丽颖 我即剧名",
-      "onboard_time": 1764486980,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 124962,
       "num": 124962,
       "word": "张真源秋裤厚到伤害免疫",
@@ -1073,14 +1081,6 @@
       "onboard_time": 1764477862,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 124676,
-      "num": 119330,
-      "word": "原来方圆脸这么好出片",
-      "onboard_time": 1764486801,
-      "rank": 30,
-      "category": "美妆"
     },
     {
       "raw_hot": 122031,
@@ -1129,6 +1129,14 @@
       "onboard_time": 1764486019,
       "rank": 29,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 120234,
+      "num": 447753,
+      "word": "国考行测对答案",
+      "onboard_time": 1764487280,
+      "rank": 9,
+      "category": "教育"
     },
     {
       "raw_hot": 118957,
@@ -1275,14 +1283,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 106374,
-      "num": 263101,
-      "word": "国考行测对答案",
-      "onboard_time": 1764487280,
-      "rank": 9,
-      "category": "教育"
-    },
-    {
       "raw_hot": 105588,
       "num": 105588,
       "word": "国考首次打破35岁门槛",
@@ -1315,6 +1315,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102708,
+      "num": 102708,
+      "word": "周涛 女领导说要带你回家",
+      "onboard_time": 1764485360,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102654,
       "num": 236145,
       "word": "漫才兄弟改名了",
@@ -1339,12 +1347,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 99152,
-      "num": 99152,
-      "word": "周涛 女领导说要带你回家",
-      "onboard_time": 1764485360,
-      "rank": 48,
-      "category": "艺人"
+      "raw_hot": 98476,
+      "num": 98476,
+      "word": "但凡有孙子的大爷都抬头了",
+      "onboard_time": 1764487101,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 97775,
@@ -1393,14 +1401,6 @@
       "onboard_time": 1764428424,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93753,
-      "num": 93753,
-      "word": "但凡有孙子的大爷都抬头了",
-      "onboard_time": 1764487101,
-      "rank": 40,
-      "category": "幽默"
     },
     {
       "raw_hot": 93621,
@@ -1545,6 +1545,14 @@
       "onboard_time": 1764482779,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 84886,
+      "num": 84886,
+      "word": "华晨宇穿搭有古早QQ秀那味了",
+      "onboard_time": 1764487520,
+      "rank": 42,
+      "category": "演出"
     },
     {
       "raw_hot": 84691,
@@ -1819,6 +1827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 57322,
+      "num": 87405,
+      "word": "吴倩新中式风",
+      "onboard_time": 1764488181,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 57252,
       "num": 313424,
       "word": "黄星演唱会",
@@ -1865,6 +1881,14 @@
       "onboard_time": 1764471980,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 50373,
+      "num": 98898,
+      "word": "许玮甯骨相",
+      "onboard_time": 1764487462,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 47063,
@@ -1987,12 +2011,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 25736,
-      "num": 98898,
-      "word": "许玮甯骨相",
-      "onboard_time": 1764487462,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 26540,
+      "num": 98981,
+      "word": "委内瑞拉防长说战争即将来临",
+      "onboard_time": 1764487280,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25456,
@@ -2041,14 +2065,6 @@
       "onboard_time": 1764480621,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19544,
-      "num": 98981,
-      "word": "委内瑞拉防长说战争即将来临",
-      "onboard_time": 1764487280,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17926,
