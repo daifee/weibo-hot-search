@@ -1,0 +1,410 @@
+{
+  "runTime": 1764470055527,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1035142,
+        "num": 1165622,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 222823,
+        "num": 222823,
+        "word": "中国女足0比8英格兰女足",
+        "onboard_time": 1764460939,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32273,
+        "num": 215227,
+        "word": "南北方同步开启干冷模式",
+        "onboard_time": 1764423923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250281,
+        "num": 214254,
+        "word": "疯狂动物城2票房",
+        "onboard_time": 1764429802,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 212608,
+        "num": 212608,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 4,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 467955,
+        "num": 211891,
+        "word": "魏大勋 这是不是正经节目",
+        "onboard_time": 1764464540,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 433177,
+        "num": 210039,
+        "word": "高市被曝想争取他国支持缓解外交摩擦",
+        "onboard_time": 1764463999,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 372993,
+        "num": 208881,
+        "word": "县委副书记任前公示被指年龄不一致",
+        "onboard_time": 1764466040,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 294016,
+        "num": 207341,
+        "word": "高市早苗错误言论冲击日本旅游业",
+        "onboard_time": 1764466280,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 133439,
+        "num": 206937,
+        "word": "2026年国考371.8万人",
+        "onboard_time": 1764460878,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 409462,
+        "num": 204935,
+        "word": "刘旸 不要随便发观后感",
+        "onboard_time": 1764466640,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 314251,
+        "num": 203886,
+        "word": "肖战姜妍吵架戏",
+        "onboard_time": 1764459558,
+        "rank": 11,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 290291,
+        "num": 202382,
+        "word": "假奶粉 奶精加淀粉",
+        "onboard_time": 1764425723,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 252255,
+        "num": 201793,
+        "word": "喜欢一个人最大的诚意是什么",
+        "onboard_time": 1764463460,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 230320,
+        "num": 199456,
+        "word": "网红老人去世粉丝怀疑因木薯糖水中毒",
+        "onboard_time": 1764425723,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 199322,
+        "num": 199322,
+        "word": "丈夫出轨闺蜜转账60多万",
+        "onboard_time": 1764457877,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192626,
+        "num": 192626,
+        "word": "梁朝伟时隔36年再拍电视剧",
+        "onboard_time": 1764469760,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 145117,
+        "num": 145117,
+        "word": "上海马拉松",
+        "onboard_time": 1764466040,
+        "rank": 17,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 141456,
+        "num": 141456,
+        "word": "汪苏泷录的微信朋友圈背景视频",
+        "onboard_time": 1764460818,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 137188,
+        "num": 137188,
+        "word": "哥的全宇宙 抄袭",
+        "onboard_time": 1764425003,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 722894,
+        "num": 136987,
+        "word": "画梅退网",
+        "onboard_time": 1764461660,
+        "rank": 20,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 258896,
+        "num": 136867,
+        "word": "我就说何老师还不退休迟早会出事吧",
+        "onboard_time": 1764411683,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135948,
+        "num": 135948,
+        "word": "男子嘴唇开裂奶奶弄了偏方",
+        "onboard_time": 1764460878,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 203407,
+        "num": 135904,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 23,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 187162,
+        "num": 135300,
+        "word": "王楚钦代表运动员宣誓",
+        "onboard_time": 1764469940,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 166116,
+        "num": 134205,
+        "word": "年龄大了知道钱的重要性了",
+        "onboard_time": 1764468861,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160138,
+        "num": 133683,
+        "word": "离异夫妻一夜间相继坠河均已离世",
+        "onboard_time": 1764462499,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133436,
+        "num": 133436,
+        "word": "福建75亿元项目水库大坝被指偷工减料",
+        "onboard_time": 1764461180,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132597,
+        "num": 132597,
+        "word": "宋茜回头一看身后空无一人",
+        "onboard_time": 1764460878,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116692,
+        "num": 116692,
+        "word": "画梅回应退网",
+        "onboard_time": 1764465682,
+        "rank": 29,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 134772,
+        "num": 116113,
+        "word": "肖战拒绝螺蛳粉后来真香了",
+        "onboard_time": 1764469519,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114934,
+        "num": 114934,
+        "word": "女生当话务员50天涉电诈获刑3年",
+        "onboard_time": 1764466100,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 111357,
+        "num": 111357,
+        "word": "彭佳慧在邱泽许玮甯婚礼上献唱",
+        "onboard_time": 1764467540,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107406,
+        "num": 107406,
+        "word": "一直以为保温毯是披在身上的",
+        "onboard_time": 1764459020,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105588,
+        "num": 105588,
+        "word": "国考首次打破35岁门槛",
+        "onboard_time": 1764468680,
+        "rank": 34,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 102598,
+        "num": 102598,
+        "word": "卢昱晓内场第二套",
+        "onboard_time": 1764467898,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 99781,
+        "num": 99781,
+        "word": "日媒称高市早苗甩锅",
+        "onboard_time": 1764468799,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 98861,
+        "num": 98861,
+        "word": "枭起青壤热度",
+        "onboard_time": 1764429384,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89829,
+        "num": 89829,
+        "word": "在眼药水的说明书里看到了比格犬",
+        "onboard_time": 1764467360,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11806,
+        "num": 88609,
+        "word": "风风风北京沙沙沙",
+        "onboard_time": 1764470000,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88220,
+        "num": 88220,
+        "word": "心疼普拉斯",
+        "onboard_time": 1764467300,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 84213,
+        "num": 84213,
+        "word": "女子做磁共振两次黑屏竟因化了妆",
+        "onboard_time": 1764423982,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47063,
+        "num": 84193,
+        "word": "王一博节目效果圣体",
+        "onboard_time": 1764468680,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84186,
+        "num": 84186,
+        "word": "国考笔试结束还要注意这些环节",
+        "onboard_time": 1764463880,
+        "rank": 43,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 80210,
+        "num": 80210,
+        "word": "孙颖莎王楚钦走得像军训",
+        "onboard_time": 1764466879,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77964,
+        "num": 77964,
+        "word": "驻日大使人民日报撰文",
+        "onboard_time": 1764466220,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77788,
+        "num": 77788,
+        "word": "北京大风",
+        "onboard_time": 1764469640,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74772,
+        "num": 74772,
+        "word": "炎拓 面是热热的心也是热热的",
+        "onboard_time": 1764469940,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74772,
+        "num": 74772,
+        "word": "江西早产离世患儿家属已向法院起诉",
+        "onboard_time": 1764467240,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 58157,
+        "num": 74534,
+        "word": "5岁女孩在游乐园疑遭电击进ICU",
+        "onboard_time": 1764468260,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

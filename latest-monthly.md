@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 10:11:19
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 10:34:15
 </p>
 </blockquote>
 <p>
@@ -2001,6 +2001,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+中国驻日本大使发声（热度：1035142）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%86%8D%E5%8F%91%E6%B6%89%E5%8F%B0%E8%B0%AC%E8%AE%BA%23" target="weibo">
 高市再发涉台谬论（热度：1033126）
 </a>
@@ -2063,12 +2069,6 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC3%E4%BD%8D%E5%89%8D%E9%A6%96%E7%9B%B8%E5%8F%91%E5%A3%B0%23" target="weibo">
 日本3位前首相发声（热度：1014012）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
-中国驻日本大使发声（热度：1012566）
 </a>
 </li>
 

@@ -1,10 +1,10 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764468679976,
+  "endTime": 1764470055527,
   "band_list": [
     {
-      "raw_hot": 1012566,
-      "num": 1162010,
+      "raw_hot": 1035142,
+      "num": 1165622,
       "word": "中国驻日本大使发声",
       "onboard_time": 1764466280,
       "rank": 0,
@@ -52,11 +52,19 @@
     },
     {
       "raw_hot": 530265,
-      "num": 205832,
+      "num": 210039,
       "word": "高市被曝想争取他国支持缓解外交摩擦",
       "onboard_time": 1764463999,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 467955,
+      "num": 211891,
+      "word": "魏大勋 这是不是正经节目",
+      "onboard_time": 1764464540,
+      "rank": 6,
+      "category": "综艺"
     },
     {
       "raw_hot": 458428,
@@ -67,28 +75,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 401665,
-      "num": 196836,
-      "word": "魏大勋 这是不是正经节目",
-      "onboard_time": 1764464540,
-      "rank": 6,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 399327,
-      "num": 174791,
-      "word": "肖战姜妍吵架戏",
-      "onboard_time": 1764459558,
-      "rank": 10,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 399002,
-      "num": 174475,
+      "raw_hot": 409462,
+      "num": 204935,
       "word": "刘旸 不要随便发观后感",
       "onboard_time": 1764466640,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 399327,
+      "num": 203886,
+      "word": "肖战姜妍吵架戏",
+      "onboard_time": 1764459558,
+      "rank": 10,
+      "category": "剧集"
     },
     {
       "raw_hot": 376024,
@@ -99,8 +99,24 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 372993,
+      "num": 208881,
+      "word": "县委副书记任前公示被指年龄不一致",
+      "onboard_time": 1764466040,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 294016,
+      "num": 207341,
+      "word": "高市早苗错误言论冲击日本旅游业",
+      "onboard_time": 1764466280,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 277326,
-      "num": 173891,
+      "num": 199322,
       "word": "丈夫出轨闺蜜转账60多万",
       "onboard_time": 1764457877,
       "rank": 12,
@@ -108,7 +124,7 @@
     },
     {
       "raw_hot": 276170,
-      "num": 174166,
+      "num": 201793,
       "word": "喜欢一个人最大的诚意是什么",
       "onboard_time": 1764463460,
       "rank": 13,
@@ -129,6 +145,14 @@
       "onboard_time": 1764425303,
       "rank": 12,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 222823,
+      "num": 222823,
+      "word": "中国女足0比8英格兰女足",
+      "onboard_time": 1764460939,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 221484,
@@ -163,6 +187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212608,
+      "num": 212608,
+      "word": "2026年国考今日开考",
+      "onboard_time": 1764459258,
+      "rank": 1,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 211487,
       "num": 639405,
       "word": "F1",
@@ -171,12 +203,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 206541,
-      "num": 206541,
-      "word": "中国女足0比8英格兰女足",
-      "onboard_time": 1764460939,
-      "rank": 4,
-      "category": "体育"
+      "raw_hot": 203407,
+      "num": 135904,
+      "word": "逍遥散人 脱粉",
+      "onboard_time": 1764468620,
+      "rank": 43,
+      "category": "游戏"
     },
     {
       "raw_hot": 200148,
@@ -203,12 +235,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 192626,
+      "num": 192626,
+      "word": "梁朝伟时隔36年再拍电视剧",
+      "onboard_time": 1764469760,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 188363,
       "num": 166667,
       "word": "离异夫妻一夜间相继坠河均已离世",
       "onboard_time": 1764462499,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 187162,
+      "num": 135300,
+      "word": "王楚钦代表运动员宣誓",
+      "onboard_time": 1764469940,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 184179,
@@ -227,22 +275,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176366,
-      "num": 173190,
-      "word": "高市早苗错误言论冲击日本旅游业",
-      "onboard_time": 1764466280,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 175621,
-      "num": 175621,
-      "word": "2026年国考今日开考",
-      "onboard_time": 1764459258,
-      "rank": 1,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 175326,
       "num": 164256,
       "word": "画梅回应退网",
@@ -251,20 +283,20 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 172985,
-      "num": 172985,
-      "word": "县委副书记任前公示被指年龄不一致",
-      "onboard_time": 1764466040,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168348,
       "num": 168348,
       "word": "汪苏泷录的微信朋友圈背景视频",
       "onboard_time": 1764460818,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 166116,
+      "num": 134205,
+      "word": "年龄大了知道钱的重要性了",
+      "onboard_time": 1764468861,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 165305,
@@ -307,6 +339,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 134772,
+      "num": 116113,
+      "word": "肖战拒绝螺蛳粉后来真香了",
+      "onboard_time": 1764469519,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133456,
       "num": 133456,
       "word": "彭佳慧在邱泽许玮甯婚礼上献唱",
@@ -339,8 +379,8 @@
       "category": "美食"
     },
     {
-      "raw_hot": 114345,
-      "num": 114345,
+      "raw_hot": 114934,
+      "num": 114934,
       "word": "女生当话务员50天涉电诈获刑3年",
       "onboard_time": 1764466100,
       "rank": 29,
@@ -387,12 +427,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 105588,
+      "num": 105588,
+      "word": "国考首次打破35岁门槛",
+      "onboard_time": 1764468680,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 103400,
       "num": 313395,
       "word": "林心如在邱泽许玮甯婚礼光脚跳舞",
       "onboard_time": 1764420262,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 102598,
+      "num": 102598,
+      "word": "卢昱晓内场第二套",
+      "onboard_time": 1764467898,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 99781,
+      "num": 99781,
+      "word": "日媒称高市早苗甩锅",
+      "onboard_time": 1764468799,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 97775,
@@ -467,8 +531,8 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 89044,
-      "num": 89044,
+      "raw_hot": 89829,
+      "num": 89829,
       "word": "在眼药水的说明书里看到了比格犬",
       "onboard_time": 1764467360,
       "rank": 36,
@@ -489,14 +553,6 @@
       "onboard_time": 1764432862,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 87361,
-      "num": 87361,
-      "word": "卢昱晓内场第二套",
-      "onboard_time": 1764467898,
-      "rank": 38,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 86912,
@@ -529,6 +585,14 @@
       "onboard_time": 1764467240,
       "rank": 23,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 84186,
+      "num": 84186,
+      "word": "国考笔试结束还要注意这些环节",
+      "onboard_time": 1764463880,
+      "rank": 42,
+      "category": "教育"
     },
     {
       "raw_hot": 83966,
@@ -571,12 +635,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 79228,
-      "num": 79228,
-      "word": "国考笔试结束还要注意这些环节",
-      "onboard_time": 1764463880,
-      "rank": 42,
-      "category": "教育"
+      "raw_hot": 77788,
+      "num": 77788,
+      "word": "北京大风",
+      "onboard_time": 1764469640,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76883,
@@ -587,20 +651,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 75418,
-      "num": 75418,
-      "word": "逍遥散人 脱粉",
-      "onboard_time": 1764468620,
-      "rank": 43,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 75127,
       "num": 75127,
       "word": "深圳小易烊千玺跳高视频火了",
       "onboard_time": 1764459020,
       "rank": 37,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 74772,
+      "num": 74772,
+      "word": "炎拓 面是热热的心也是热热的",
+      "onboard_time": 1764469940,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 74666,
@@ -667,6 +731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58157,
+      "num": 86914,
+      "word": "5岁女孩在游乐园疑遭电击进ICU",
+      "onboard_time": 1764468260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 57870,
       "num": 313473,
       "word": "中国代表强调对日方必须严加管束",
@@ -699,12 +771,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 47339,
-      "num": 86914,
-      "word": "5岁女孩在游乐园疑遭电击进ICU",
-      "onboard_time": 1764468260,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 47063,
+      "num": 84193,
+      "word": "王一博节目效果圣体",
+      "onboard_time": 1764468680,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 45775,
@@ -833,6 +905,14 @@
       "onboard_time": 1764446114,
       "rank": 43,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 11806,
+      "num": 88609,
+      "word": "风风风北京沙沙沙",
+      "onboard_time": 1764470000,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10354,
