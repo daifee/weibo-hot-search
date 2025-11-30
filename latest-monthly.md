@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 07:39:00
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 10:11:19
 </p>
 </blockquote>
 <p>
@@ -2067,6 +2067,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E9%A9%BB%E6%97%A5%E6%9C%AC%E5%A4%A7%E4%BD%BF%E5%8F%91%E5%A3%B0%23" target="weibo">
+中国驻日本大使发声（热度：1012566）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%20%E9%98%B2%E9%80%80%E8%B4%A7%23" target="weibo">
 巨型吊牌 防退货（热度：1012390）
 </a>
@@ -2537,6 +2543,12 @@ GEN对战KT（热度：912806）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A5%BF%E5%AE%89%E5%B8%82%E5%A7%94%E4%B9%A6%E8%AE%B0%E6%96%B9%E7%BA%A2%E5%8D%AB%E8%A2%AB%E6%9F%A5%23" target="weibo">
 西安市委书记方红卫被查（热度：905693）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%BB%E6%A2%85%E9%80%80%E7%BD%91%23" target="weibo">
+画梅退网（热度：904563）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E4%BB%A4%E6%97%A5%E6%9C%AC%E5%A4%96%E4%BA%A4%E5%A4%A9%E5%B4%A9%E5%BC%80%E5%B1%80%23" target="weibo">
 高市早苗令日本外交天崩开局（热度：570509）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%A4%9C%E9%92%93%E9%81%AD%E6%9E%AA%E5%87%BB%E5%A4%B4%E9%83%A8%E7%94%9F%E5%91%BD%E5%9E%82%E5%8D%B1%23" target="weibo">
-男子夜钓遭枪击头部生命垂危（热度：570508）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E7%94%9F%E6%84%8F%E4%BA%BA%E7%A0%B43%23" target="weibo">
-大生意人破3（热度：570275）
 </a>
 </li>
 

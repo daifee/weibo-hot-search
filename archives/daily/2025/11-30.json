@@ -1,7 +1,23 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764459540137,
+  "endTime": 1764468679976,
   "band_list": [
+    {
+      "raw_hot": 1012566,
+      "num": 1162010,
+      "word": "中国驻日本大使发声",
+      "onboard_time": 1764466280,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 904563,
+      "num": 167736,
+      "word": "画梅退网",
+      "onboard_time": 1764461660,
+      "rank": 20,
+      "category": "美妆"
+    },
     {
       "raw_hot": 680256,
       "num": 884445,
@@ -35,12 +51,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 530265,
+      "num": 205832,
+      "word": "高市被曝想争取他国支持缓解外交摩擦",
+      "onboard_time": 1764463999,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 458428,
       "num": 458428,
       "word": "疯狂动物城2票房",
       "onboard_time": 1764429802,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 401665,
+      "num": 196836,
+      "word": "魏大勋 这是不是正经节目",
+      "onboard_time": 1764464540,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 399327,
+      "num": 174791,
+      "word": "肖战姜妍吵架戏",
+      "onboard_time": 1764459558,
+      "rank": 10,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 399002,
+      "num": 174475,
+      "word": "刘旸 不要随便发观后感",
+      "onboard_time": 1764466640,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 376024,
@@ -52,11 +100,19 @@
     },
     {
       "raw_hot": 277326,
-      "num": 80392,
+      "num": 173891,
       "word": "丈夫出轨闺蜜转账60多万",
       "onboard_time": 1764457877,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 276170,
+      "num": 174166,
+      "word": "喜欢一个人最大的诚意是什么",
+      "onboard_time": 1764463460,
+      "rank": 13,
+      "category": "情感"
     },
     {
       "raw_hot": 237865,
@@ -83,11 +139,43 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 218295,
+      "num": 173573,
+      "word": "上海马拉松",
+      "onboard_time": 1764466040,
+      "rank": 15,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 216818,
+      "num": 216818,
+      "word": "2026年国考371.8万人",
+      "onboard_time": 1764460878,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 215585,
+      "num": 178411,
+      "word": "福建75亿元项目水库大坝被指偷工减料",
+      "onboard_time": 1764461180,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211487,
       "num": 639405,
       "word": "F1",
       "onboard_time": 1764427463,
       "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 206541,
+      "num": 206541,
+      "word": "中国女足0比8英格兰女足",
+      "onboard_time": 1764460939,
+      "rank": 4,
       "category": "体育"
     },
     {
@@ -115,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 188363,
+      "num": 166667,
+      "word": "离异夫妻一夜间相继坠河均已离世",
+      "onboard_time": 1764462499,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 184179,
       "num": 494308,
       "word": "公务员考试",
@@ -131,6 +227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176366,
+      "num": 173190,
+      "word": "高市早苗错误言论冲击日本旅游业",
+      "onboard_time": 1764466280,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 175621,
       "num": 175621,
       "word": "2026年国考今日开考",
@@ -139,12 +243,52 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 175326,
+      "num": 164256,
+      "word": "画梅回应退网",
+      "onboard_time": 1764465682,
+      "rank": 25,
+      "category": "美妆"
+    },
+    {
+      "raw_hot": 172985,
+      "num": 172985,
+      "word": "县委副书记任前公示被指年龄不一致",
+      "onboard_time": 1764466040,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 168348,
+      "num": 168348,
+      "word": "汪苏泷录的微信朋友圈背景视频",
+      "onboard_time": 1764460818,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 165305,
+      "num": 165305,
+      "word": "宋茜回头一看身后空无一人",
+      "onboard_time": 1764460878,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158369,
-      "num": 65117,
+      "num": 140342,
       "word": "一直以为保温毯是披在身上的",
       "onboard_time": 1764459020,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 157769,
+      "num": 157769,
+      "word": "男子嘴唇开裂奶奶弄了偏方",
+      "onboard_time": 1764460878,
+      "rank": 26,
+      "category": "情感"
     },
     {
       "raw_hot": 152647,
@@ -161,6 +305,14 @@
       "onboard_time": 1764419661,
       "rank": 7,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 133456,
+      "num": 133456,
+      "word": "彭佳慧在邱泽许玮甯婚礼上献唱",
+      "onboard_time": 1764467540,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 125689,
@@ -187,6 +339,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 114345,
+      "num": 114345,
+      "word": "女生当话务员50天涉电诈获刑3年",
+      "onboard_time": 1764466100,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 113536,
       "num": 313673,
       "word": "欧阳娜娜去了汪苏泷杭州演唱会",
@@ -201,6 +361,14 @@
       "onboard_time": 1764432201,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 108924,
+      "num": 108924,
+      "word": "当事人否认为保研不见父亲最后一面",
+      "onboard_time": 1764463579,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 108006,
@@ -225,6 +393,14 @@
       "onboard_time": 1764420262,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 97775,
+      "num": 97775,
+      "word": "驻日大使人民日报撰文",
+      "onboard_time": 1764466220,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 95979,
@@ -275,6 +451,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90534,
+      "num": 90534,
+      "word": "心疼普拉斯",
+      "onboard_time": 1764467300,
+      "rank": 34,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 89922,
       "num": 313560,
       "word": "医生提醒出现这些症状小心是皮肤病",
@@ -283,12 +467,44 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 89044,
+      "num": 89044,
+      "word": "在眼药水的说明书里看到了比格犬",
+      "onboard_time": 1764467360,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 88691,
+      "num": 88691,
+      "word": "江西早产患儿因病情危重离世",
+      "onboard_time": 1764468499,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 87987,
       "num": 313582,
       "word": "香港火灾仍有150人失联",
       "onboard_time": 1764432862,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87361,
+      "num": 87361,
+      "word": "卢昱晓内场第二套",
+      "onboard_time": 1764467898,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 86912,
+      "num": 86912,
+      "word": "孙颖莎王楚钦走得像军训",
+      "onboard_time": 1764466879,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 86121,
@@ -305,6 +521,22 @@
       "onboard_time": 1764424164,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 84593,
+      "num": 165896,
+      "word": "江西早产离世患儿家属已向法院起诉",
+      "onboard_time": 1764467240,
+      "rank": 23,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 83966,
+      "num": 83966,
+      "word": "6种越吃越瘦的刮油蔬菜",
+      "onboard_time": 1764461719,
+      "rank": 41,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 83213,
@@ -339,6 +571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 79228,
+      "num": 79228,
+      "word": "国考笔试结束还要注意这些环节",
+      "onboard_time": 1764463880,
+      "rank": 42,
+      "category": "教育"
+    },
+    {
       "raw_hot": 76883,
       "num": 313525,
       "word": "汪苏泷嘉宾宋雨琦",
@@ -347,12 +587,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 75418,
+      "num": 75418,
+      "word": "逍遥散人 脱粉",
+      "onboard_time": 1764468620,
+      "rank": 43,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 75127,
+      "num": 75127,
+      "word": "深圳小易烊千玺跳高视频火了",
+      "onboard_time": 1764459020,
+      "rank": 37,
+      "category": "民生新闻,艺人"
+    },
+    {
       "raw_hot": 74666,
       "num": 313522,
       "word": "女子地铁内蹲坐被压骨折地铁判赔15万",
       "onboard_time": 1764412281,
       "rank": 40,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 72121,
+      "num": 72121,
+      "word": "孙颖莎认真选珠子串手串",
+      "onboard_time": 1764467179,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 68266,
@@ -377,6 +641,14 @@
       "onboard_time": 1764459020,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 63334,
+      "num": 71357,
+      "word": "国乒集体出席成都混团欢迎晚宴",
+      "onboard_time": 1764467120,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 59397,
@@ -427,6 +699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 47339,
+      "num": 86914,
+      "word": "5岁女孩在游乐园疑遭电击进ICU",
+      "onboard_time": 1764468260,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45775,
       "num": 580226,
       "word": "南北方同步开启干冷模式",
@@ -473,14 +753,6 @@
       "onboard_time": 1764440596,
       "rank": 21,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 34298,
-      "num": 64615,
-      "word": "深圳小易烊千玺跳高视频火了",
-      "onboard_time": 1764459020,
-      "rank": 37,
-      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 31828,
