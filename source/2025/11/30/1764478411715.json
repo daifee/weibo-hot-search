@@ -1,0 +1,410 @@
+{
+  "runTime": 1764478411715,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4733313,
+        "num": 4733313,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 752338,
+        "num": 752338,
+        "word": "国考图推",
+        "onboard_time": 1764473960,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2701,
+        "num": 543801,
+        "word": "沙漠里养出了大螃蟹",
+        "onboard_time": 1764422243,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1236586,
+        "num": 525111,
+        "word": "爱马仕继承人被骗150亿",
+        "onboard_time": 1764476840,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 483688,
+        "num": 483688,
+        "word": "才播4集女主背后空无一人",
+        "onboard_time": 1764473001,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 492506,
+        "num": 422096,
+        "word": "刘义恒 图推的神",
+        "onboard_time": 1764476300,
+        "rank": 5,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 284109,
+        "num": 284109,
+        "word": "光与夜之恋",
+        "onboard_time": 1764476901,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 252730,
+        "num": 252730,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 211618,
+        "num": 211618,
+        "word": "闪耀暖暖",
+        "onboard_time": 1764477500,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 193114,
+        "num": 211138,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 9,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 25766,
+        "num": 210235,
+        "word": "南北方同步开启干冷模式",
+        "onboard_time": 1764423923,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 440141,
+        "num": 208508,
+        "word": "国考答案",
+        "onboard_time": 1764473182,
+        "rank": 11,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 282265,
+        "num": 207924,
+        "word": "水谷隼说被伊藤美诚拉黑了",
+        "onboard_time": 1764473062,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 281032,
+        "num": 206442,
+        "word": "申论",
+        "onboard_time": 1764474502,
+        "rank": 13,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 280426,
+        "num": 205598,
+        "word": "国考图推答案",
+        "onboard_time": 1764476840,
+        "rank": 14,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 236704,
+        "num": 204337,
+        "word": "国考难度",
+        "onboard_time": 1764477021,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 222428,
+        "num": 203604,
+        "word": "女子带孩子电影院占座被怒怼",
+        "onboard_time": 1764471080,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221462,
+        "num": 202518,
+        "word": "美国 委内瑞拉",
+        "onboard_time": 1764470180,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216245,
+        "num": 200989,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 18,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 215854,
+        "num": 199802,
+        "word": "陈星旭太知道林一追星刘亦菲了",
+        "onboard_time": 1764476180,
+        "rank": 19,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 177986,
+        "num": 199397,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1764471380,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 880191,
+        "num": 198354,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 491321,
+        "num": 196917,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196534,
+        "num": 196534,
+        "word": "行测120分钟130题",
+        "onboard_time": 1764474623,
+        "rank": 23,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 194358,
+        "num": 194358,
+        "word": "画梅退网",
+        "onboard_time": 1764461660,
+        "rank": 24,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 194350,
+        "num": 194350,
+        "word": "樊振东又录婚礼祝福了",
+        "onboard_time": 1764476300,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 192115,
+        "num": 192115,
+        "word": "于正发的赵晴男装",
+        "onboard_time": 1764470300,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 173401,
+        "num": 173401,
+        "word": "国考言语",
+        "onboard_time": 1764475101,
+        "rank": 27,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 170762,
+        "num": 170762,
+        "word": "肖战拒绝螺蛳粉后来真香了",
+        "onboard_time": 1764469519,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168502,
+        "num": 168502,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 333693,
+        "num": 168380,
+        "word": "裁判扔球王楚钦猝不及防",
+        "onboard_time": 1764476781,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165968,
+        "num": 165968,
+        "word": "国乒8比1中国香港",
+        "onboard_time": 1764478161,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 163347,
+        "num": 163347,
+        "word": "G2第一只战胜六冠王的队伍",
+        "onboard_time": 1764477741,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 159160,
+        "num": 159160,
+        "word": "终于有古装剧把消杀步骤拍出来了",
+        "onboard_time": 1764471022,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157304,
+        "num": 157304,
+        "word": "给不会修眉的人一点震撼",
+        "onboard_time": 1764476601,
+        "rank": 34,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 147327,
+        "num": 147327,
+        "word": "中国电建已成立调查组",
+        "onboard_time": 1764472761,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 146331,
+        "num": 146331,
+        "word": "王楚钦祝刘雨辰黄雅琼百年好合",
+        "onboard_time": 1764476781,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143355,
+        "num": 143355,
+        "word": "日本批准1万亿日元防卫经费",
+        "onboard_time": 1764471678,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142439,
+        "num": 142439,
+        "word": "双高胎",
+        "onboard_time": 1764471501,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86328,
+        "num": 140810,
+        "word": "香港为灾民提供免费住屋",
+        "onboard_time": 1764478341,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140449,
+        "num": 140449,
+        "word": "华为称Mate80显示5A不是5GA",
+        "onboard_time": 1764473062,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 137990,
+        "num": 137990,
+        "word": "杨旭文红毯造型被识别AI",
+        "onboard_time": 1764478100,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132082,
+        "num": 132082,
+        "word": "国考数量答案",
+        "onboard_time": 1764476901,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130473,
+        "num": 130473,
+        "word": "年卖10亿的凤爪大王培养侄子上位",
+        "onboard_time": 1764473901,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129246,
+        "num": 129246,
+        "word": "当你的城市莫名火了起来",
+        "onboard_time": 1764478100,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127647,
+        "num": 127647,
+        "word": "行测",
+        "onboard_time": 1764472520,
+        "rank": 45,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 126924,
+        "num": 126924,
+        "word": "当年高位买房的人怎么样了",
+        "onboard_time": 1764472400,
+        "rank": 46,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 125282,
+        "num": 125282,
+        "word": "资料分析",
+        "onboard_time": 1764473960,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 124707,
+        "num": 124707,
+        "word": "误闯mcn公司以为打开了山海经",
+        "onboard_time": 1764477862,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122848,
+        "num": 122848,
+        "word": "肖战莫得闲一家四口合影",
+        "onboard_time": 1764477381,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

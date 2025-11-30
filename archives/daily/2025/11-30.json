@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764477745241,
+  "endTime": 1764478411715,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -9,6 +9,14 @@
       "onboard_time": 1764472221,
       "rank": 0,
       "category": "教育"
+    },
+    {
+      "raw_hot": 1236586,
+      "num": 620220,
+      "word": "爱马仕继承人被骗150亿",
+      "onboard_time": 1764476840,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1096408,
@@ -57,14 +65,6 @@
       "onboard_time": 1764425723,
       "rank": 0,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 620220,
-      "num": 620220,
-      "word": "爱马仕继承人被骗150亿",
-      "onboard_time": 1764476840,
-      "rank": 3,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 613856,
@@ -131,6 +131,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 492506,
+      "num": 422096,
+      "word": "刘义恒 图推的神",
+      "onboard_time": 1764476300,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 467955,
       "num": 211891,
       "word": "魏大勋 这是不是正经节目",
@@ -145,14 +153,6 @@
       "onboard_time": 1764429802,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 454397,
-      "num": 215231,
-      "word": "刘义恒 图推的神",
-      "onboard_time": 1764476300,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 433000,
@@ -235,6 +235,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 333693,
+      "num": 185573,
+      "word": "裁判扔球王楚钦猝不及防",
+      "onboard_time": 1764476781,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333040,
       "num": 293897,
       "word": "资料分析",
@@ -275,12 +283,36 @@
       "category": "教育"
     },
     {
+      "raw_hot": 284109,
+      "num": 284109,
+      "word": "光与夜之恋",
+      "onboard_time": 1764476901,
+      "rank": 8,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 281293,
       "num": 281293,
       "word": "肖战拒绝螺蛳粉后来真香了",
       "onboard_time": 1764469519,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 281032,
+      "num": 290847,
+      "word": "申论",
+      "onboard_time": 1764474502,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 280426,
+      "num": 213004,
+      "word": "国考图推答案",
+      "onboard_time": 1764476840,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 277326,
@@ -299,28 +331,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 273074,
-      "num": 290847,
-      "word": "申论",
-      "onboard_time": 1764474502,
-      "rank": 17,
-      "category": "教育"
-    },
-    {
       "raw_hot": 262036,
       "num": 262036,
       "word": "逍遥散人 脱粉",
       "onboard_time": 1764468620,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 252551,
-      "num": 213004,
-      "word": "国考图推答案",
-      "onboard_time": 1764476840,
-      "rank": 13,
-      "category": "教育"
     },
     {
       "raw_hot": 237865,
@@ -331,12 +347,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 237042,
-      "num": 237042,
-      "word": "光与夜之恋",
-      "onboard_time": 1764476901,
-      "rank": 8,
-      "category": "游戏"
+      "raw_hot": 236704,
+      "num": 204337,
+      "word": "国考难度",
+      "onboard_time": 1764477021,
+      "rank": 27,
+      "category": "教育"
     },
     {
       "raw_hot": 231120,
@@ -345,14 +361,6 @@
       "onboard_time": 1764425303,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 230838,
-      "num": 185573,
-      "word": "裁判扔球王楚钦猝不及防",
-      "onboard_time": 1764476781,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 227156,
@@ -395,6 +403,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 215854,
+      "num": 203377,
+      "word": "陈星旭太知道林一追星刘亦菲了",
+      "onboard_time": 1764476180,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215585,
       "num": 178411,
       "word": "福建75亿元项目水库大坝被指偷工减料",
@@ -411,20 +427,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 211618,
+      "num": 211618,
+      "word": "闪耀暖暖",
+      "onboard_time": 1764477500,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 211487,
       "num": 639405,
       "word": "F1",
       "onboard_time": 1764427463,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203377,
-      "num": 203377,
-      "word": "陈星旭太知道林一追星刘亦菲了",
-      "onboard_time": 1764476180,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 201430,
@@ -452,7 +468,7 @@
     },
     {
       "raw_hot": 196849,
-      "num": 196849,
+      "num": 211138,
       "word": "疯狂动物城",
       "onboard_time": 1764387380,
       "rank": 47,
@@ -475,6 +491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194350,
+      "num": 194350,
+      "word": "樊振东又录婚礼祝福了",
+      "onboard_time": 1764476300,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194087,
       "num": 194087,
       "word": "国考时间",
@@ -491,28 +515,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 190240,
-      "num": 190240,
-      "word": "国考难度",
-      "onboard_time": 1764477021,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 188363,
       "num": 166667,
       "word": "离异夫妻一夜间相继坠河均已离世",
       "onboard_time": 1764462499,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187764,
-      "num": 187764,
-      "word": "樊振东又录婚礼祝福了",
-      "onboard_time": 1764476300,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 187162,
@@ -555,14 +563,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 172631,
-      "num": 172631,
-      "word": "闪耀暖暖",
-      "onboard_time": 1764477500,
-      "rank": 33,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 168949,
       "num": 112418,
       "word": "王楚钦孙颖莎12比10黄镇廷杜凯琹",
@@ -587,12 +587,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 165968,
+      "num": 165968,
+      "word": "国乒8比1中国香港",
+      "onboard_time": 1764478161,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165305,
       "num": 165305,
       "word": "宋茜回头一看身后空无一人",
       "onboard_time": 1764460878,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 163347,
+      "num": 163347,
+      "word": "G2第一只战胜六冠王的队伍",
+      "onboard_time": 1764477741,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 161225,
@@ -675,6 +691,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 146331,
+      "num": 146331,
+      "word": "王楚钦祝刘雨辰黄雅琼百年好合",
+      "onboard_time": 1764476781,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 142267,
       "num": 142267,
       "word": "王楚钦孙颖莎首局爆分",
@@ -691,6 +715,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 137990,
+      "num": 137990,
+      "word": "杨旭文红毯造型被识别AI",
+      "onboard_time": 1764478100,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 133456,
       "num": 133456,
       "word": "彭佳慧在邱泽许玮甯婚礼上献唱",
@@ -705,6 +737,14 @@
       "onboard_time": 1764477500,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 129246,
+      "num": 129246,
+      "word": "当你的城市莫名火了起来",
+      "onboard_time": 1764478100,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 127552,
@@ -761,6 +801,14 @@
       "onboard_time": 1764475820,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124707,
+      "num": 124707,
+      "word": "误闯mcn公司以为打开了山海经",
+      "onboard_time": 1764477862,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 122031,
@@ -1025,6 +1073,14 @@
       "onboard_time": 1764466879,
       "rank": 40,
       "category": "体育"
+    },
+    {
+      "raw_hot": 86328,
+      "num": 140810,
+      "word": "香港为灾民提供免费住屋",
+      "onboard_time": 1764478341,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86121,
@@ -1425,6 +1481,14 @@
       "onboard_time": 1764449833,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 2701,
+      "num": 543801,
+      "word": "沙漠里养出了大螃蟹",
+      "onboard_time": 1764422243,
+      "rank": 2,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [

@@ -1,6 +1,6 @@
 {
   "startTime": 1761928391904,
-  "endTime": 1764477745241,
+  "endTime": 1764478411715,
   "band_list": [
     {
       "raw_hot": 20744103,
@@ -1769,6 +1769,14 @@
       "onboard_time": 1762950323,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1236586,
+      "num": 620220,
+      "word": "爱马仕继承人被骗150亿",
+      "onboard_time": 1764476840,
+      "rank": 3,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 1236023,
@@ -6987,14 +6995,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 620220,
-      "num": 620220,
-      "word": "爱马仕继承人被骗150亿",
-      "onboard_time": 1764476840,
-      "rank": 3,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 619284,
       "num": 608516,
       "word": "惠英红三金影后女配都只差金鸡",
@@ -10291,6 +10291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 492506,
+      "num": 422096,
+      "word": "刘义恒 图推的神",
+      "onboard_time": 1764476300,
+      "rank": 10,
+      "category": "教育"
+    },
+    {
       "raw_hot": 492493,
       "num": 1097681,
       "word": "李威妻子出庭痛哭自责没救死者",
@@ -11617,14 +11625,6 @@
       "onboard_time": 1763251220,
       "rank": 12,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 454397,
-      "num": 215231,
-      "word": "刘义恒 图推的神",
-      "onboard_time": 1764476300,
-      "rank": 10,
-      "category": "教育"
     },
     {
       "raw_hot": 454394,
@@ -17371,6 +17371,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 333693,
+      "num": 185573,
+      "word": "裁判扔球王楚钦猝不及防",
+      "onboard_time": 1764476781,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 333536,
       "num": 180454,
       "word": "时代峰峻公司WiFi密码",
@@ -21115,6 +21123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 281032,
+      "num": 290847,
+      "word": "申论",
+      "onboard_time": 1764474502,
+      "rank": 17,
+      "category": "教育"
+    },
+    {
       "raw_hot": 280879,
       "num": 279233,
       "word": "影视飓风Tim震惊00后博主负债240万创作",
@@ -21185,6 +21201,14 @@
       "onboard_time": 1762498700,
       "rank": 15,
       "category": "电影"
+    },
+    {
+      "raw_hot": 280426,
+      "num": 213004,
+      "word": "国考图推答案",
+      "onboard_time": 1764476840,
+      "rank": 13,
+      "category": "教育"
     },
     {
       "raw_hot": 280394,
@@ -21793,14 +21817,6 @@
       "onboard_time": 1763248817,
       "rank": 20,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 273074,
-      "num": 290847,
-      "word": "申论",
-      "onboard_time": 1764474502,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 272995,
@@ -23627,14 +23643,6 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 252551,
-      "num": 213004,
-      "word": "国考图推答案",
-      "onboard_time": 1764476840,
-      "rank": 13,
-      "category": "教育"
-    },
-    {
       "raw_hot": 252506,
       "num": 252506,
       "word": "唐诡3把观众写进剧里",
@@ -24891,6 +24899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 236704,
+      "num": 204337,
+      "word": "国考难度",
+      "onboard_time": 1764477021,
+      "rank": 27,
+      "category": "教育"
+    },
+    {
       "raw_hot": 236604,
       "num": 117748,
       "word": "女主播被主管性侵又遭公司索赔10万",
@@ -25440,14 +25456,6 @@
       "word": "王楚钦打趣让马龙珍惜采访机会",
       "onboard_time": 1763127623,
       "rank": 42,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 230838,
-      "num": 185573,
-      "word": "裁判扔球王楚钦猝不及防",
-      "onboard_time": 1764476781,
-      "rank": 30,
       "category": "体育"
     },
     {
@@ -27147,6 +27155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 215854,
+      "num": 203377,
+      "word": "陈星旭太知道林一追星刘亦菲了",
+      "onboard_time": 1764476180,
+      "rank": 24,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 215810,
       "num": 408235,
       "word": "成龙确认出演尖峰时刻4",
@@ -27777,6 +27793,14 @@
       "onboard_time": 1764255683,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 211618,
+      "num": 212696,
+      "word": "闪耀暖暖",
+      "onboard_time": 1762143380,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 211559,
@@ -29065,14 +29089,6 @@
       "onboard_time": 1762067540,
       "rank": 6,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 203377,
-      "num": 203377,
-      "word": "陈星旭太知道林一追星刘亦菲了",
-      "onboard_time": 1764476180,
-      "rank": 24,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 203278,
@@ -31123,6 +31139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 194350,
+      "num": 194350,
+      "word": "樊振东又录婚礼祝福了",
+      "onboard_time": 1764476300,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 194338,
       "num": 194338,
       "word": "王曼昱晋级八强",
@@ -32195,14 +32219,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 190240,
-      "num": 190240,
-      "word": "国考难度",
-      "onboard_time": 1764477021,
-      "rank": 27,
-      "category": "教育"
-    },
-    {
       "raw_hot": 190186,
       "num": 310480,
       "word": "金锁一款很新的还珠大女主",
@@ -32945,14 +32961,6 @@
       "onboard_time": 1763517801,
       "rank": 26,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 187764,
-      "num": 187764,
-      "word": "樊振东又录婚礼祝福了",
-      "onboard_time": 1764476300,
-      "rank": 28,
-      "category": "体育"
     },
     {
       "raw_hot": 187754,
@@ -34905,14 +34913,6 @@
       "onboard_time": 1762821801,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 178829,
-      "num": 212696,
-      "word": "闪耀暖暖",
-      "onboard_time": 1762143380,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 178732,
@@ -37923,6 +37923,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 165968,
+      "num": 165968,
+      "word": "国乒8比1中国香港",
+      "onboard_time": 1764478161,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165922,
       "num": 699802,
       "word": "汪苏泷1天官宣3演唱会1综艺",
@@ -38681,6 +38689,14 @@
       "onboard_time": 1763377461,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 163347,
+      "num": 163347,
+      "word": "G2第一只战胜六冠王的队伍",
+      "onboard_time": 1764477741,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 163328,
@@ -44075,6 +44091,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 146331,
+      "num": 146331,
+      "word": "王楚钦祝刘雨辰黄雅琼百年好合",
+      "onboard_time": 1764476781,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146324,
       "num": 146324,
       "word": "周雨预测全冠军",
@@ -46865,6 +46889,14 @@
       "onboard_time": 1763205322,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137990,
+      "num": 137990,
+      "word": "杨旭文红毯造型被识别AI",
+      "onboard_time": 1764478100,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 137957,
@@ -50355,6 +50387,14 @@
       "category": "演出,汽车"
     },
     {
+      "raw_hot": 129246,
+      "num": 129246,
+      "word": "当你的城市莫名火了起来",
+      "onboard_time": 1764478100,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 129234,
       "num": 129234,
       "word": "低于这个价格的羽绒服可能是假的",
@@ -52609,6 +52649,14 @@
       "onboard_time": 1763029881,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124707,
+      "num": 124707,
+      "word": "误闯mcn公司以为打开了山海经",
+      "onboard_time": 1764477862,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 124697,
@@ -75116,7 +75164,7 @@
     },
     {
       "raw_hot": 87979,
-      "num": 216437,
+      "num": 543801,
       "word": "沙漠里养出了大螃蟹",
       "onboard_time": 1764422243,
       "rank": 40,
@@ -76241,6 +76289,14 @@
       "onboard_time": 1762680140,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 86328,
+      "num": 140810,
+      "word": "香港为灾民提供免费住屋",
+      "onboard_time": 1764478341,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 86326,
