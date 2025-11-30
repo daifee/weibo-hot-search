@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 17:39:07
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 18:26:48
 </p>
 </blockquote>
 <p>
@@ -575,6 +575,12 @@ KT战胜GEN（热度：2334332）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AB%8B%E5%86%AC%23" target="weibo">
 立冬（热度：1842127）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4146%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
+香港火灾已致146人遇难（热度：1837550）
 </a>
 </li>
 
@@ -1947,6 +1953,12 @@ TES 陀螺（热度：1087235）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%82%A6%E9%82%A6%E7%A1%ACDQ%E5%86%B0%E6%BF%80%E5%87%8C%23" target="weibo">
+疯狂动物城 邦邦硬DQ冰激凌（热度：1055022）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%20%E7%AA%81%E8%84%B8%23" target="weibo">
 枭起青壤 突脸（热度：1054501）
 </a>
@@ -2063,12 +2075,6 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%93%E6%A2%A6%E7%8E%B2%20%E8%83%A1%E5%BD%A6%E6%96%8C%23" target="weibo">
 易梦玲 胡彦斌（热度：1033050）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%82%A6%E9%82%A6%E7%A1%ACDQ%E5%86%B0%E6%BF%80%E5%87%8C%23" target="weibo">
-疯狂动物城 邦邦硬DQ冰激凌（热度：1031909）
 </a>
 </li>
 
@@ -5163,12 +5169,6 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%B7%B2%E8%87%B4146%E4%BA%BA%E9%81%87%E9%9A%BE%23" target="weibo">
-香港火灾已致146人遇难（热度：629073）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A6%E5%AD%90%E6%9B%9D%E5%92%8C%E6%9D%8E%E8%8C%82%E7%BB%93%E5%A9%9A%E6%97%B6%E5%B7%B2%E6%80%80%E5%AD%95%23" target="weibo">
 弦子曝和李茂结婚时已怀孕（热度：629014）
 </a>
@@ -5991,6 +5991,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%BB%E6%A2%85%E4%B8%80%E5%A4%9C%E6%8E%89%E7%B2%89%E8%B6%85190%E4%B8%87%23" target="weibo">
+画梅一夜掉粉超190万（热度：578334）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9F%AD%E5%89%A7%E5%A5%B3%E6%BC%94%E5%91%98%E6%9B%9D%E5%89%A7%E7%BB%84%E6%9D%80%E7%94%9F%23" target="weibo">
 短剧女演员曝剧组杀生（热度：578308）
 </a>
@@ -6005,12 +6011,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B9%B4%E8%96%AA60%E4%B8%87%E7%BE%8E%E9%87%91%E7%9A%84%E6%96%AF%E5%9D%A6%E7%A6%8F%E7%A1%95%E5%A3%AB%E5%9B%9E%E5%9B%BD%E5%81%9A%E7%94%9C%E5%93%81%23" target="weibo">
 年薪60万美金的斯坦福硕士回国做甜品（热度：577266）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9C%89%E4%BA%BA%E7%A0%B4%E8%A7%A3%E5%B7%A8%E5%9E%8B%E5%90%8A%E7%89%8C%E7%BB%A7%E7%BB%AD%E8%B9%AD%E7%A9%BF%23" target="weibo">
-有人破解巨型吊牌继续蹭穿（热度：576636）
 </a>
 </li>
 
