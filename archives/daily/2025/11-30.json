@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764498408934,
+  "endTime": 1764499351696,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1837550,
-      "num": 1060481,
+      "num": 1101255,
       "word": "香港火灾已致146人遇难",
       "onboard_time": 1764495141,
       "rank": 4,
@@ -67,6 +67,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1092751,
+      "num": 1092751,
+      "word": "疯狂动物城 邦邦硬DQ冰激凌",
+      "onboard_time": 1764494122,
+      "rank": 7,
+      "category": "电影"
+    },
+    {
       "raw_hot": 1081046,
       "num": 235246,
       "word": "刘雨辰黄雅琼婚礼",
@@ -81,14 +89,6 @@
       "onboard_time": 1764473960,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1055022,
-      "num": 1055022,
-      "word": "疯狂动物城 邦邦硬DQ冰激凌",
-      "onboard_time": 1764494122,
-      "rank": 7,
-      "category": "电影"
     },
     {
       "raw_hot": 1035142,
@@ -171,6 +171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 604041,
+      "num": 293049,
+      "word": "画梅一夜掉粉超190万",
+      "onboard_time": 1764496220,
+      "rank": 10,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 603526,
       "num": 331258,
       "word": "网红老人去世粉丝怀疑因木薯糖水中毒",
@@ -193,14 +201,6 @@
       "onboard_time": 1764489623,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 578334,
-      "num": 285499,
-      "word": "画梅一夜掉粉超190万",
-      "onboard_time": 1764496220,
-      "rank": 10,
-      "category": "美妆"
     },
     {
       "raw_hot": 570925,
@@ -265,6 +265,14 @@
       "onboard_time": 1764490581,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508977,
+      "num": 1118196,
+      "word": "申论 写笑了",
+      "onboard_time": 1764496581,
+      "rank": 17,
+      "category": "教育"
     },
     {
       "raw_hot": 501240,
@@ -491,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 295192,
+      "num": 295192,
+      "word": "孟子义 草莓大福",
+      "onboard_time": 1764496401,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 294016,
       "num": 207341,
       "word": "高市早苗错误言论冲击日本旅游业",
@@ -505,6 +521,14 @@
       "onboard_time": 1764474623,
       "rank": 25,
       "category": "教育"
+    },
+    {
+      "raw_hot": 292810,
+      "num": 187863,
+      "word": "潘展乐回应未出席黄雅琼刘雨辰婚礼",
+      "onboard_time": 1764495201,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 289073,
@@ -579,14 +603,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 262841,
-      "num": 187863,
-      "word": "潘展乐回应未出席黄雅琼刘雨辰婚礼",
-      "onboard_time": 1764495201,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 262036,
       "num": 262036,
       "word": "逍遥散人 脱粉",
@@ -625,14 +641,6 @@
       "onboard_time": 1764485299,
       "rank": 35,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 227353,
-      "num": 227353,
-      "word": "孟子义 草莓大福",
-      "onboard_time": 1764496401,
-      "rank": 15,
-      "category": "剧集"
     },
     {
       "raw_hot": 227156,
@@ -723,6 +731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 209932,
+      "num": 209932,
+      "word": "内娱女爱豆自曝回归期变美是做医美",
+      "onboard_time": 1764498742,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 207934,
       "num": 142502,
       "word": "黄圣依妈妈道歉说我爱你不容易",
@@ -753,14 +769,6 @@
       "onboard_time": 1764476300,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 203070,
-      "num": 203070,
-      "word": "申论 写笑了",
-      "onboard_time": 1764496581,
-      "rank": 17,
-      "category": "教育"
     },
     {
       "raw_hot": 201430,
@@ -905,6 +913,14 @@
       "onboard_time": 1764480501,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 179727,
+      "num": 179727,
+      "word": "鲁师傅烧饼",
+      "onboard_time": 1764497360,
+      "rank": 41,
+      "category": "教育"
     },
     {
       "raw_hot": 179374,
@@ -1123,6 +1139,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150134,
+      "num": 150134,
+      "word": "原来这就是安陵容她娘绣的苏绣",
+      "onboard_time": 1764498082,
+      "rank": 44,
+      "category": "休闲"
+    },
+    {
       "raw_hot": 149284,
       "num": 149284,
       "word": "王楚钦孙颖莎神球不断",
@@ -1131,12 +1155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 148025,
+      "num": 148025,
+      "word": "国考考录比约74比1",
+      "onboard_time": 1764498622,
+      "rank": 30,
+      "category": "教育"
+    },
+    {
       "raw_hot": 147775,
       "num": 347134,
       "word": "全国流感阳性率接近45%",
       "onboard_time": 1764419661,
       "rank": 7,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 147754,
+      "num": 147754,
+      "word": "邓为失踪人口回归",
+      "onboard_time": 1764498981,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 147269,
@@ -1171,6 +1211,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144886,
+      "num": 144886,
+      "word": "谁来启源街球的黄金时代",
+      "onboard_time": 1764498802,
+      "rank": 32,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143211,
       "num": 161620,
       "word": "疯狂动物城2原来是这么翻译的",
@@ -1187,6 +1235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 142550,
+      "num": 144063,
+      "word": "283.1万人参加国考笔试",
+      "onboard_time": 1764497902,
+      "rank": 34,
+      "category": "教育"
+    },
+    {
       "raw_hot": 142267,
       "num": 142267,
       "word": "王楚钦孙颖莎首局爆分",
@@ -1195,20 +1251,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141567,
-      "num": 141567,
-      "word": "283.1万人参加国考笔试",
-      "onboard_time": 1764497902,
-      "rank": 34,
-      "category": "教育"
-    },
-    {
       "raw_hot": 140630,
       "num": 140630,
       "word": "撒贝宁回湖南录节目",
       "onboard_time": 1764496401,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 140208,
+      "num": 140208,
+      "word": "孩子考44爷爷在试卷上致歉",
+      "onboard_time": 1764497661,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 139596,
@@ -1241,14 +1297,6 @@
       "onboard_time": 1764478702,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 133942,
-      "num": 133942,
-      "word": "孩子考44爷爷在试卷上致歉",
-      "onboard_time": 1764497661,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133756,
@@ -1307,14 +1355,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 128863,
-      "num": 128863,
-      "word": "鲁师傅烧饼",
-      "onboard_time": 1764497360,
-      "rank": 41,
-      "category": "教育"
-    },
-    {
       "raw_hot": 128129,
       "num": 128129,
       "word": "绿肥红瘦原来是这个意思",
@@ -1345,6 +1385,14 @@
       "onboard_time": 1764478341,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126936,
+      "num": 126936,
+      "word": "孙千真的在尊重观众",
+      "onboard_time": 1764497902,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 126860,
@@ -1411,6 +1459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 122634,
+      "num": 122634,
+      "word": "上岸",
+      "onboard_time": 1764499222,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 122031,
       "num": 122031,
       "word": "华为憨憨开售秒光",
@@ -1475,6 +1531,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 120071,
+      "num": 285720,
+      "word": "失联名单中159名市民确认安全",
+      "onboard_time": 1764497423,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 118957,
       "num": 118957,
       "word": "蒯曼2比1朱成竹",
@@ -1497,6 +1561,14 @@
       "onboard_time": 1764490641,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117498,
+      "num": 117498,
+      "word": "郭晋安离开TVB",
+      "onboard_time": 1764499040,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 117250,
@@ -1571,14 +1643,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 113546,
-      "num": 113546,
-      "word": "原来这就是安陵容她娘绣的苏绣",
-      "onboard_time": 1764498082,
-      "rank": 44,
-      "category": "休闲"
-    },
-    {
       "raw_hot": 113536,
       "num": 313673,
       "word": "欧阳娜娜去了汪苏泷杭州演唱会",
@@ -1603,6 +1667,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112642,
+      "num": 1220228,
+      "word": "静电可以给手机充电吗",
+      "onboard_time": 1764491000,
+      "rank": 49,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 112496,
       "num": 112496,
       "word": "凶手一直没有交代章莹颖遗骸下落",
@@ -1617,6 +1689,14 @@
       "onboard_time": 1764432201,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 111827,
+      "num": 111827,
+      "word": "吴谨言真的好忙",
+      "onboard_time": 1764499101,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 111024,
@@ -1657,14 +1737,6 @@
       "onboard_time": 1764463579,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108410,
-      "num": 107554,
-      "word": "孙千真的在尊重观众",
-      "onboard_time": 1764497902,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 108006,
@@ -1857,14 +1929,6 @@
       "onboard_time": 1764428424,
       "rank": 23,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94161,
-      "num": 1220228,
-      "word": "静电可以给手机充电吗",
-      "onboard_time": 1764491000,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 93621,
@@ -2443,14 +2507,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 48148,
-      "num": 285720,
-      "word": "失联名单中159名市民确认安全",
-      "onboard_time": 1764497423,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 47063,
       "num": 84193,
       "word": "王一博节目效果圣体",
@@ -2483,6 +2539,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 44600,
+      "num": 199606,
+      "word": "国外网友看流放宁古塔体验项目",
+      "onboard_time": 1764498021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44595,
       "num": 95820,
       "word": "李佳薇妹妹亮相声生不息",
@@ -2505,6 +2569,14 @@
       "onboard_time": 1764457455,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 41898,
+      "num": 202633,
+      "word": "章莹颖父亲澄清巨额赔偿谣言",
+      "onboard_time": 1764497962,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41828,
@@ -2603,14 +2675,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 24895,
-      "num": 199606,
-      "word": "国外网友看流放宁古塔体验项目",
-      "onboard_time": 1764498021,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24528,
       "num": 65418,
       "word": "日本民众要求高市撤回侵略战争宣言",
@@ -2656,14 +2720,6 @@
       "word": "大坝建设为何在中国电建体内循环",
       "onboard_time": 1764480621,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21207,
-      "num": 202633,
-      "word": "章莹颖父亲澄清巨额赔偿谣言",
-      "onboard_time": 1764497962,
-      "rank": 18,
       "category": "民生新闻"
     },
     {

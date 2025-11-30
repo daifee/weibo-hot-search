@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 18:26:48
+本榜单时间：2025/11/01 00:33:11 ~ 2025/11/30 18:42:31
 </p>
 </blockquote>
 <p>
@@ -1833,6 +1833,12 @@ CPA成绩（热度：1140911）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%82%A6%E9%82%A6%E7%A1%ACDQ%E5%86%B0%E6%BF%80%E5%87%8C%23" target="weibo">
+疯狂动物城 邦邦硬DQ冰激凌（热度：1092751）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E4%B8%BA%E5%87%BA%E7%89%87%E7%94%9F%E7%90%86%E6%9C%9F%E6%BD%9C%E6%B0%B4%E8%A2%AB%E9%B2%A8%E9%B1%BC%E5%92%AC%E4%BC%A4%23" target="weibo">
 女子为出片生理期潜水被鲨鱼咬伤（热度：1090005）
 </a>
@@ -1949,12 +1955,6 @@ TES 陀螺（热度：1087235）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%82%93%E7%B4%AB%E6%A3%8B%E5%94%B1%E5%BE%97%E5%A5%BD%E6%AD%8C%E4%B8%80%E8%88%AC%23" target="weibo">
 邓紫棋唱得好歌一般（热度：1055497）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%82%A6%E9%82%A6%E7%A1%ACDQ%E5%86%B0%E6%BF%80%E5%87%8C%23" target="weibo">
-疯狂动物城 邦邦硬DQ冰激凌（热度：1055022）
 </a>
 </li>
 
@@ -5577,6 +5577,12 @@ X现已显示账号所属地（热度：629589）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%BB%E6%A2%85%E4%B8%80%E5%A4%9C%E6%8E%89%E7%B2%89%E8%B6%85190%E4%B8%87%23" target="weibo">
+画梅一夜掉粉超190万（热度：604041）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E7%99%BE%E4%BD%95%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%23" target="weibo">
 白百何发生了什么（热度：604008）
 </a>
@@ -5987,12 +5993,6 @@ X现已显示账号所属地（热度：629589）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%B8%A1%E6%8E%92%E5%93%A5%E6%B5%81%E9%87%8F%E7%8B%82%E6%AC%A2%E6%8E%A5%E8%BF%91%E5%B0%BE%E5%A3%B0%23" target="weibo">
 鸡排哥流量狂欢接近尾声（热度：579253）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%BB%E6%A2%85%E4%B8%80%E5%A4%9C%E6%8E%89%E7%B2%89%E8%B6%85190%E4%B8%87%23" target="weibo">
-画梅一夜掉粉超190万（热度：578334）
 </a>
 </li>
 
