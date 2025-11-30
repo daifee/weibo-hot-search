@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764470055527,
+  "endTime": 1764475289566,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -2035,6 +2035,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 7615456,
+      "num": 7615456,
+      "word": "国考",
+      "onboard_time": 1736078126,
+      "rank": 1,
+      "category": "教育"
+    },
+    {
       "raw_hot": 7611710,
       "num": 7611710,
       "word": "华策发声明",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1749640463,
       "rank": 0,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 6390116,
-      "num": 6390116,
-      "word": "李佳薇太牛了",
-      "onboard_time": 1751632946,
-      "rank": 0,
-      "category": "综艺"
     }
   ],
   "hotgov_list": [

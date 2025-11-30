@@ -1,0 +1,410 @@
+{
+  "runTime": 1764475289566,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 7615456,
+        "num": 7615456,
+        "word": "国考",
+        "onboard_time": 1764472221,
+        "rank": 0,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 1096408,
+        "num": 1096408,
+        "word": "行测",
+        "onboard_time": 1764472520,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 27980,
+        "num": 1050688,
+        "word": "南北方同步开启干冷模式",
+        "onboard_time": 1764423923,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1013457,
+        "num": 1013457,
+        "word": "国考图推",
+        "onboard_time": 1764473960,
+        "rank": 3,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 542684,
+        "num": 542684,
+        "word": "才播4集女主背后空无一人",
+        "onboard_time": 1764473001,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 433677,
+        "num": 433677,
+        "word": "中国驻日本大使发声",
+        "onboard_time": 1764466280,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 433000,
+        "num": 433000,
+        "word": "终于有古装剧把消杀步骤拍出来了",
+        "onboard_time": 1764471022,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 425131,
+        "num": 425131,
+        "word": "美国 委内瑞拉",
+        "onboard_time": 1764470180,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 307637,
+        "num": 307637,
+        "word": "王楚钦孙颖莎vs黄镇廷杜凯琹",
+        "onboard_time": 1764471380,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 227156,
+        "num": 306084,
+        "word": "华为称Mate80显示5A不是5GA",
+        "onboard_time": 1764473062,
+        "rank": 9,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 613856,
+        "num": 304721,
+        "word": "国考答案",
+        "onboard_time": 1764473182,
+        "rank": 10,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 538613,
+        "num": 301764,
+        "word": "2026年国考今日开考",
+        "onboard_time": 1764459258,
+        "rank": 11,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 391451,
+        "num": 299797,
+        "word": "水谷隼说被伊藤美诚拉黑了",
+        "onboard_time": 1764473062,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 365178,
+        "num": 299502,
+        "word": "女子带孩子电影院占座被怒怼",
+        "onboard_time": 1764471080,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 336123,
+        "num": 295955,
+        "word": "于正发的赵晴男装",
+        "onboard_time": 1764470300,
+        "rank": 14,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 333040,
+        "num": 293897,
+        "word": "资料分析",
+        "onboard_time": 1764473960,
+        "rank": 15,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 318322,
+        "num": 291825,
+        "word": "国考数量",
+        "onboard_time": 1764473960,
+        "rank": 16,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 254126,
+        "num": 290847,
+        "word": "申论",
+        "onboard_time": 1764474502,
+        "rank": 17,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 201430,
+        "num": 287482,
+        "word": "梁朝伟时隔36年再拍电视剧",
+        "onboard_time": 1764469760,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 34567,
+        "num": 286673,
+        "word": "上马赛后如何进行营养恢复",
+        "onboard_time": 1764471980,
+        "rank": 19,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 421161,
+        "num": 284028,
+        "word": "双高胎",
+        "onboard_time": 1764471501,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355262,
+        "num": 281515,
+        "word": "画梅退网",
+        "onboard_time": 1764461660,
+        "rank": 21,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 281293,
+        "num": 281293,
+        "word": "肖战拒绝螺蛳粉后来真香了",
+        "onboard_time": 1764469519,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278223,
+        "num": 278223,
+        "word": "繁殖犬难产被剖腹取崽后丢弃",
+        "onboard_time": 1764473842,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262036,
+        "num": 262036,
+        "word": "逍遥散人 脱粉",
+        "onboard_time": 1764468620,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 200072,
+        "num": 200072,
+        "word": "行测120分钟130题",
+        "onboard_time": 1764474623,
+        "rank": 25,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 199513,
+        "num": 199513,
+        "word": "日本批准1万亿日元防卫经费",
+        "onboard_time": 1764471678,
+        "rank": 26,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180780,
+        "num": 180780,
+        "word": "疯狂动物城",
+        "onboard_time": 1764473960,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 167794,
+        "num": 167794,
+        "word": "中国电建已成立调查组",
+        "onboard_time": 1764472761,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51220,
+        "num": 167337,
+        "word": "奥迪E5入围中国年度车三强",
+        "onboard_time": 1764471980,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 167235,
+        "num": 167235,
+        "word": "刘旸 不要随便发观后感",
+        "onboard_time": 1764466640,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 163089,
+        "num": 163089,
+        "word": "国考言语",
+        "onboard_time": 1764475101,
+        "rank": 31,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 96351,
+        "num": 161620,
+        "word": "疯狂动物城2原来是这么翻译的",
+        "onboard_time": 1764473361,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 161225,
+        "num": 161225,
+        "word": "行测没写完",
+        "onboard_time": 1764473482,
+        "rank": 33,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 155642,
+        "num": 155642,
+        "word": "县委副书记任前公示被指年龄不一致",
+        "onboard_time": 1764466040,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145767,
+        "num": 145767,
+        "word": "年卖10亿的凤爪大王培养侄子上位",
+        "onboard_time": 1764473901,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 144618,
+        "num": 144618,
+        "word": "疯狂动物城2票房",
+        "onboard_time": 1764429802,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 121527,
+        "num": 142118,
+        "word": "李宏毅余承恩谁是谁的哥",
+        "onboard_time": 1764474921,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104803,
+        "num": 139593,
+        "word": "王楚钦孙颖莎3比0黄镇廷杜凯琹",
+        "onboard_time": 1764475162,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22989,
+        "num": 134347,
+        "word": "白鹿翟子路双向奔赴的友情",
+        "onboard_time": 1764474561,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55008,
+        "num": 132922,
+        "word": "35岁男子国考称像进复活赛",
+        "onboard_time": 1764473182,
+        "rank": 40,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 130903,
+        "num": 130903,
+        "word": "当年高位买房的人怎么样了",
+        "onboard_time": 1764472400,
+        "rank": 41,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 125901,
+        "num": 125901,
+        "word": "国考笔试结束还要注意这些环节",
+        "onboard_time": 1764463880,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 123815,
+        "num": 123815,
+        "word": "明日方舟",
+        "onboard_time": 1764474261,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 120842,
+        "num": 120842,
+        "word": "高市早苗错误言论冲击日本旅游业",
+        "onboard_time": 1764466280,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 118816,
+        "num": 118816,
+        "word": "丈夫出轨闺蜜转账60多万",
+        "onboard_time": 1764457877,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116292,
+        "num": 116292,
+        "word": "一碗苹果水喝出健康好气色",
+        "onboard_time": 1764473600,
+        "rank": 46,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51527,
+        "num": 114697,
+        "word": "老板被追讨工资次日自缢细节公布",
+        "onboard_time": 1764473661,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114005,
+        "num": 114005,
+        "word": "刘雨辰黄雅琼婚礼",
+        "onboard_time": 1764475221,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 168949,
+        "num": 112418,
+        "word": "王楚钦孙颖莎12比10黄镇廷杜凯琹",
+        "onboard_time": 1764474442,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
