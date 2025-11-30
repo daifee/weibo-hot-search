@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/01 02:48:09
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/01 03:22:01
 </p>
 </blockquote>
 <p>
@@ -2883,6 +2883,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E9%80%89%E6%8B%A9%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%B8%8D%E6%8B%8D%E6%88%8F%23" target="weibo">
+宁静选择上综艺不拍戏（热度：23517）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%AE%E4%BA%AC%E5%82%AC%E4%BF%83%E9%9D%92%E5%B9%B4%E7%A7%91%E5%AD%A6%E5%AE%B6%E8%A6%81%E5%AD%A9%E5%AD%90%23" target="weibo">
 普京催促青年科学家要孩子（热度：23426）
 </a>
@@ -2895,14 +2901,14 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E9%9D%99%E9%80%89%E6%8B%A9%E4%B8%8A%E7%BB%BC%E8%89%BA%E4%B8%8D%E6%8B%8D%E6%88%8F%23" target="weibo">
-宁静选择上综艺不拍戏（热度：16066）
+<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23" target="weibo">
+免费职业技能夜校几乎期期爆满（热度：17424）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%85%8D%E8%B4%B9%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD%E5%A4%9C%E6%A0%A1%E5%87%A0%E4%B9%8E%E6%9C%9F%E6%9C%9F%E7%88%86%E6%BB%A1%23" target="weibo">
-免费职业技能夜校几乎期期爆满（热度：15831）
+<a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%B8%9F%E7%B1%BB%23" target="weibo">
+疯狂动物城 鸟类（热度：14506）
 </a>
 </li>
 
