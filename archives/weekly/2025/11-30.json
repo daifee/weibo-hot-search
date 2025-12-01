@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764611330360,
+  "endTime": 1764614609477,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -6275,6 +6275,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54144,
+      "num": 55470,
+      "word": "40年前她发现中国首例艾滋病",
+      "onboard_time": 1764610276,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 54084,
       "num": 148203,
       "word": "今起校园配餐有国家标准了",
@@ -6787,14 +6795,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 30879,
-      "num": 55470,
-      "word": "40年前她发现中国首例艾滋病",
-      "onboard_time": 1764610276,
-      "rank": 30,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 30833,
       "num": 216907,
       "word": "12306回应乘客高铁直播扰人",
@@ -6905,6 +6905,14 @@
       "onboard_time": 1764556160,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 26080,
+      "num": 55280,
+      "word": "胡歌给田朴珺做红烧肉",
+      "onboard_time": 1764611115,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 25456,
@@ -7067,12 +7075,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22878,
-      "num": 55280,
-      "word": "胡歌给田朴珺做红烧肉",
-      "onboard_time": 1764611115,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 20229,
+      "num": 31019,
+      "word": "猫妹妹爸爸欠债几十万",
+      "onboard_time": 1764613455,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 19113,

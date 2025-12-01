@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764611330360,
+  "endTime": 1764614609477,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -323,6 +323,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 54144,
+      "num": 55470,
+      "word": "40年前她发现中国首例艾滋病",
+      "onboard_time": 1764610276,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 53562,
       "num": 227478,
       "word": "王楚钦盛赞女队队友",
@@ -443,14 +451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 30879,
-      "num": 55470,
-      "word": "40年前她发现中国首例艾滋病",
-      "onboard_time": 1764610276,
-      "rank": 30,
-      "category": "正能量"
-    },
-    {
       "raw_hot": 30739,
       "num": 79876,
       "word": "袁湘琴骑车去二中接孩子逆行",
@@ -467,12 +467,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 26080,
+      "num": 55280,
+      "word": "胡歌给田朴珺做红烧肉",
+      "onboard_time": 1764611115,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24544,
       "num": 55351,
       "word": "迪丽热巴说通过角色传递社会价值",
       "onboard_time": 1764611174,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 23977,
+      "num": 31075,
+      "word": "俄罗斯免签",
+      "onboard_time": 1764575362,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23088,
@@ -483,20 +499,20 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 22878,
-      "num": 55280,
-      "word": "胡歌给田朴珺做红烧肉",
-      "onboard_time": 1764611115,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 20903,
       "num": 79881,
       "word": "您有一笔退款12月1日开始确认",
       "onboard_time": 1764571462,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20229,
+      "num": 31019,
+      "word": "猫妹妹爸爸欠债几十万",
+      "onboard_time": 1764613455,
+      "rank": 35,
+      "category": "网红"
     }
   ],
   "hotgov_list": [

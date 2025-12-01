@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/02 01:48:50
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/02 02:43:29
 </p>
 </blockquote>
 <p>
@@ -4719,6 +4719,12 @@ U16国足5场进42球（热度：68958）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2340%E5%B9%B4%E5%89%8D%E5%A5%B9%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%89%BE%E6%BB%8B%E7%97%85%23" target="weibo">
+40年前她发现中国首例艾滋病（热度：54144）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%8A%E8%B5%B7%E6%A0%A1%E5%9B%AD%E9%85%8D%E9%A4%90%E6%9C%89%E5%9B%BD%E5%AE%B6%E6%A0%87%E5%87%86%E4%BA%86%23" target="weibo">
 今起校园配餐有国家标准了（热度：54084）
 </a>
@@ -5103,12 +5109,6 @@ TOP登陆少年终于连上网了（热度：43020）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2340%E5%B9%B4%E5%89%8D%E5%A5%B9%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%89%BE%E6%BB%8B%E7%97%85%23" target="weibo">
-40年前她发现中国首例艾滋病（热度：30879）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2312306%E5%9B%9E%E5%BA%94%E4%B9%98%E5%AE%A2%E9%AB%98%E9%93%81%E7%9B%B4%E6%92%AD%E6%89%B0%E4%BA%BA%23" target="weibo">
 12306回应乘客高铁直播扰人（热度：30833）
 </a>
@@ -5189,6 +5189,12 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E5%AA%92%E6%8C%87%E8%B4%A3%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E7%94%A9%E9%94%85%23" target="weibo">
 日媒指责高市早苗甩锅（热度：26100）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%BB%99%E7%94%B0%E6%9C%B4%E7%8F%BA%E5%81%9A%E7%BA%A2%E7%83%A7%E8%82%89%23" target="weibo">
+胡歌给田朴珺做红烧肉（热度：26080）
 </a>
 </li>
 
@@ -5313,8 +5319,8 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%BB%99%E7%94%B0%E6%9C%B4%E7%8F%BA%E5%81%9A%E7%BA%A2%E7%83%A7%E8%82%89%23" target="weibo">
-胡歌给田朴珺做红烧肉（热度：22878）
+<a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%A6%B9%E5%A6%B9%E7%88%B8%E7%88%B8%E6%AC%A0%E5%80%BA%E5%87%A0%E5%8D%81%E4%B8%87%23" target="weibo">
+猫妹妹爸爸欠债几十万（热度：20229）
 </a>
 </li>
 
