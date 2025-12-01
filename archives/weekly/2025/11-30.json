@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764617305096,
+  "endTime": 1764618129056,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -7217,6 +7217,14 @@
       "onboard_time": 1764578963,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11232,
+      "num": 46262,
+      "word": "成本70万自研高超音速导弹问世",
+      "onboard_time": 1764611594,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11194,
