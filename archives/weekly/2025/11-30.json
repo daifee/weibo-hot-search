@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764594731334,
+  "endTime": 1764596535527,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -139,6 +139,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1217128,
+      "num": 203200,
+      "word": "李乃文疑似在大孤山当地陪",
+      "onboard_time": 1764594502,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1209126,
       "num": 1209126,
       "word": "香港火灾已致151人遇难",
@@ -164,7 +172,7 @@
     },
     {
       "raw_hot": 1105113,
-      "num": 281864,
+      "num": 396622,
       "word": "星光大赏",
       "onboard_time": 1764589822,
       "rank": 3,
@@ -379,12 +387,28 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 670635,
+      "num": 670635,
+      "word": "应届硕士偷偷参加国考",
+      "onboard_time": 1764592942,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 660106,
       "num": 1105617,
       "word": "宁德时代发布涨薪通知",
       "onboard_time": 1764569421,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 642171,
+      "num": 215597,
+      "word": "环卫工被故意文粗眉被迫花2万",
+      "onboard_time": 1764593242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 630424,
@@ -497,14 +521,6 @@
       "onboard_time": 1764571462,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 562785,
-      "num": 268115,
-      "word": "应届硕士偷偷参加国考",
-      "onboard_time": 1764592942,
-      "rank": 16,
-      "category": "教育"
     },
     {
       "raw_hot": 561160,
@@ -1315,14 +1331,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 302629,
-      "num": 215597,
-      "word": "环卫工被故意文粗眉被迫花2万",
-      "onboard_time": 1764593242,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 302540,
       "num": 233807,
       "word": "已经到了不认识TFBOYS的时代了",
@@ -1675,6 +1683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 229050,
+      "num": 202951,
+      "word": "嘎子哥夫妇再被执行797万",
+      "onboard_time": 1764594864,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227363,
       "num": 227363,
       "word": "解放军中部战区轰炸机跨昼夜飞训",
@@ -1761,6 +1777,14 @@
       "onboard_time": 1764564323,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219244,
+      "num": 202909,
+      "word": "晚安计划",
+      "onboard_time": 1764595043,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 218342,
@@ -1873,6 +1897,14 @@
       "onboard_time": 1764591802,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 209529,
+      "num": 133041,
+      "word": "王楚钦盛赞女队队友",
+      "onboard_time": 1764595764,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 208566,
@@ -2163,12 +2195,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 189485,
+      "num": 189485,
+      "word": "朱志鑫的百度百科",
+      "onboard_time": 1764595644,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 189301,
       "num": 216993,
       "word": "刘芮麟喊肖战战战",
       "onboard_time": 1764583042,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188922,
+      "num": 188922,
+      "word": "大生意人 传统长剧",
+      "onboard_time": 1764595943,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 188363,
@@ -2579,6 +2627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 161943,
+      "num": 161943,
+      "word": "中国男篮晋级形势",
+      "onboard_time": 1764595582,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 161725,
       "num": 161725,
       "word": "爱马仕继承人被曝坐廉航出行",
@@ -2963,14 +3019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 145124,
-      "num": 145124,
-      "word": "李乃文疑似在大孤山当地陪",
-      "onboard_time": 1764594502,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 144886,
       "num": 144886,
       "word": "谁来启源街球的黄金时代",
@@ -3027,8 +3075,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 142828,
-      "num": 142828,
+      "raw_hot": 142882,
+      "num": 142882,
       "word": "张若昀梳了丸子头",
       "onboard_time": 1764592642,
       "rank": 28,
@@ -3475,12 +3523,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 126706,
+      "num": 126706,
+      "word": "SofM以选手身份复出",
+      "onboard_time": 1764596244,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "女子吐槽印度人不买衣服只加微信",
       "onboard_time": 1764489860,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126374,
+      "num": 126374,
+      "word": "久坐的人真的要练一练屁股",
+      "onboard_time": 1764595823,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 125901,
@@ -3505,6 +3569,14 @@
       "onboard_time": 1764488601,
       "rank": 41,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 125320,
+      "num": 125320,
+      "word": "女儿回应老人花10元剃头满头血痂",
+      "onboard_time": 1764592762,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 125200,
@@ -3532,7 +3604,7 @@
     },
     {
       "raw_hot": 124807,
-      "num": 124807,
+      "num": 125159,
       "word": "孙颖莎突然想到还没握手",
       "onboard_time": 1764594143,
       "rank": 44,
@@ -3795,6 +3867,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117863,
+      "num": 125315,
+      "word": "Peanut关注Viper",
+      "onboard_time": 1764596123,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 117833,
       "num": 169587,
       "word": "得闲谨制展现抗战不屈信念",
@@ -3913,14 +3993,6 @@
       "onboard_time": 1764485839,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115016,
-      "num": 115016,
-      "word": "女儿回应老人花10元剃头满头血痂",
-      "onboard_time": 1764592762,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 114984,
@@ -4299,6 +4371,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 105925,
+      "num": 125226,
+      "word": "杨幂女演员的自律",
+      "onboard_time": 1764596364,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105895,
       "num": 105895,
       "word": "胡歌说在吴磊身上看到了国际化",
@@ -4441,6 +4521,14 @@
       "onboard_time": 1764467898,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 102418,
+      "num": 125215,
+      "word": "胡歌说没有平衡好事业和家庭",
+      "onboard_time": 1764596182,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 102362,
@@ -4769,6 +4857,14 @@
       "onboard_time": 1764430703,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93375,
+      "num": 125141,
+      "word": "好有睡张力的被子",
+      "onboard_time": 1764592582,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 92975,
@@ -6035,6 +6131,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45770,
+      "num": 446451,
+      "word": "治沙人种下的10万株玫瑰长大了",
+      "onboard_time": 1764595644,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45641,
       "num": 126649,
       "word": "日本国脚露出马脚",
@@ -6079,6 +6183,14 @@
       "num": 199606,
       "word": "国外网友看流放宁古塔体验项目",
       "onboard_time": 1764498021,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44600,
+      "num": 214441,
+      "word": "为徒步穿越中国他提前切掉阑尾",
+      "onboard_time": 1764594383,
       "rank": 19,
       "category": "民生新闻"
     },
@@ -6249,6 +6361,14 @@
       "onboard_time": 1764436517,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 37408,
+      "num": 125252,
+      "word": "野人先生回应网友跟风啃冰淇淋杯",
+      "onboard_time": 1764596481,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 36935,
@@ -6659,14 +6779,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14696,
-      "num": 214441,
-      "word": "为徒步穿越中国他提前切掉阑尾",
-      "onboard_time": 1764594383,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 14588,
       "num": 193593,
       "word": "女婴病危家长质疑月嫂照顾最新进展",
@@ -6753,6 +6865,14 @@
       "onboard_time": 1764449833,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 7451,
+      "num": 125262,
+      "word": "疯狂动物城2反派是猫的原因",
+      "onboard_time": 1764596422,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 7298,
