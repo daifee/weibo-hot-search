@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764597217857,
+  "endTime": 1764599420274,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -755,6 +755,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 292984,
+      "num": 682695,
+      "word": "大生意人 传统长剧",
+      "onboard_time": 1764595943,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 286982,
       "num": 260078,
       "word": "Viper上线",
@@ -811,8 +819,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 269595,
-      "num": 269595,
+      "raw_hot": 274068,
+      "num": 274068,
       "word": "王楚钦盛赞女队队友",
       "onboard_time": 1764595764,
       "rank": 30,
@@ -867,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 250469,
+      "num": 206978,
+      "word": "名校硕士沦为患艾吸毒者",
+      "onboard_time": 1764598762,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 246641,
       "num": 790931,
       "word": "官方通报店主实名举报公职人员",
@@ -889,6 +905,14 @@
       "onboard_time": 1764595043,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 237001,
+      "num": 206755,
+      "word": "杨幂女演员的自律",
+      "onboard_time": 1764596364,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 236991,
@@ -937,6 +961,14 @@
       "onboard_time": 1764573142,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 228601,
+      "num": 206493,
+      "word": "马市长 邓超",
+      "onboard_time": 1764599002,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 225645,
@@ -1067,6 +1099,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206374,
+      "num": 206374,
+      "word": "王鹤棣在路人镜头里没输过",
+      "onboard_time": 1764598463,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205504,
       "num": 205504,
       "word": "到底拍的有多还原才敢用真名",
@@ -1091,6 +1131,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204460,
+      "num": 200539,
+      "word": "朱志鑫的百度百科",
+      "onboard_time": 1764595644,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "故意传播艾滋病涉嫌违法犯罪",
@@ -1105,14 +1153,6 @@
       "onboard_time": 1764592882,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 200539,
-      "num": 200539,
-      "word": "朱志鑫的百度百科",
-      "onboard_time": 1764595644,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 200163,
@@ -1139,6 +1179,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 198230,
+      "num": 198230,
+      "word": "王励勤乒羽运动管理中心副主任",
+      "onboard_time": 1764599063,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 197538,
       "num": 197538,
       "word": "风与潮",
@@ -1152,14 +1200,6 @@
       "word": "谁把我上班这死样拍成剧了",
       "onboard_time": 1764561322,
       "rank": 32,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 196837,
-      "num": 682695,
-      "word": "大生意人 传统长剧",
-      "onboard_time": 1764595943,
-      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1265,6 +1305,14 @@
       "onboard_time": 1764561263,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 181469,
+      "num": 181469,
+      "word": "久坐的人真的要练一练屁股",
+      "onboard_time": 1764595823,
+      "rank": 32,
+      "category": "运动健身"
     },
     {
       "raw_hot": 181323,
@@ -1387,6 +1435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 164689,
+      "num": 164689,
+      "word": "孙玮廷晒和许玮甯合照被骂绿茶",
+      "onboard_time": 1764597023,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163599,
       "num": 213460,
       "word": "曝GALA走是因为TheShy不打了",
@@ -1396,7 +1452,7 @@
     },
     {
       "raw_hot": 162204,
-      "num": 143781,
+      "num": 147899,
       "word": "SofM以选手身份复出",
       "onboard_time": 1764596244,
       "rank": 31,
@@ -1449,6 +1505,14 @@
       "onboard_time": 1764564923,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 160440,
+      "num": 160440,
+      "word": "星光大赏顶流聚集最齐的一年",
+      "onboard_time": 1764598104,
+      "rank": 27,
+      "category": "综艺"
     },
     {
       "raw_hot": 159898,
@@ -1521,6 +1585,14 @@
       "onboard_time": 1764587842,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 153245,
+      "num": 153245,
+      "word": "女儿回应老人花10元剃头满头血痂",
+      "onboard_time": 1764592762,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152725,
@@ -1603,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 148341,
+      "num": 148341,
+      "word": "疯狂动物城 mbti",
+      "onboard_time": 1764597442,
+      "rank": 29,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148171,
       "num": 145122,
       "word": "香港火灾已致146人遇难",
@@ -1651,14 +1731,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 144714,
-      "num": 144714,
-      "word": "久坐的人真的要练一练屁股",
-      "onboard_time": 1764595823,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 144639,
       "num": 144639,
       "word": "一杯咖啡能买三十个鸡蛋",
@@ -1675,14 +1747,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 143868,
-      "num": 143868,
-      "word": "女儿回应老人花10元剃头满头血痂",
-      "onboard_time": 1764592762,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 143838,
       "num": 612481,
       "word": "Rookie回应和jiejie争论",
@@ -1691,16 +1755,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 143476,
-      "num": 143476,
-      "word": "杨幂女演员的自律",
-      "onboard_time": 1764596364,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 142882,
-      "num": 142882,
+      "num": 147967,
       "word": "张若昀梳了丸子头",
       "onboard_time": 1764592642,
       "rank": 28,
@@ -1793,6 +1849,14 @@
       "onboard_time": 1764557300,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 134350,
+      "num": 694000,
+      "word": "治沙人种下的10万株玫瑰长大了",
+      "onboard_time": 1764595644,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 133840,
@@ -1897,6 +1961,14 @@
       "onboard_time": 1764587482,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130007,
+      "num": 148160,
+      "word": "大三男生网络交友3个月感染艾滋病",
+      "onboard_time": 1764599124,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129418,
@@ -2219,6 +2291,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 107113,
+      "num": 147916,
+      "word": "谭爷爷说花花饿了花花就是饿了",
+      "onboard_time": 1764598643,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106947,
       "num": 208874,
       "word": "耳鸣其实是身体发出的警告",
@@ -2371,14 +2451,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99703,
-      "num": 132196,
-      "word": "孙玮廷晒和许玮甯合照被骂绿茶",
-      "onboard_time": 1764597023,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 99337,
       "num": 99337,
       "word": "枭起青壤谐音梗",
@@ -2467,6 +2539,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 91850,
+      "num": 147739,
+      "word": "女子烫发4小时称出去透气后疑跑路",
+      "onboard_time": 1764599124,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91809,
       "num": 91809,
       "word": "为什么我要隐藏博士学历",
@@ -2537,6 +2617,14 @@
       "onboard_time": 1764585801,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86173,
+      "num": 148219,
+      "word": "日本朝野磨刀霍霍",
+      "onboard_time": 1764597383,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 85882,
@@ -2715,14 +2803,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 76896,
-      "num": 694000,
-      "word": "治沙人种下的10万株玫瑰长大了",
-      "onboard_time": 1764595644,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76884,
       "num": 127128,
       "word": "杨紫国色芳华海报曾被短剧抄袭",
@@ -2883,6 +2963,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 62708,
+      "num": 148041,
+      "word": "郑恺苗苗牵手参加上戏校庆",
+      "onboard_time": 1764598643,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 62437,
       "num": 136388,
       "word": "东契奇里夫斯合砍67分",
@@ -3027,12 +3115,28 @@
       "category": "美食"
     },
     {
+      "raw_hot": 54084,
+      "num": 148203,
+      "word": "今起校园配餐有国家标准了",
+      "onboard_time": 1764597383,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51850,
       "num": 55199,
       "word": "那么漂亮了性格恶劣一点也没关系",
       "onboard_time": 1764545659,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 50725,
+      "num": 148097,
+      "word": "37岁重庆嬢嬢在比利时摆摊月入6万",
+      "onboard_time": 1764597263,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 47005,
@@ -3160,6 +3264,14 @@
       "word": "寒潮来了局地降14至16摄氏度",
       "onboard_time": 1764561623,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42317,
+      "num": 147867,
+      "word": "男子钓上罕见113斤大鱼卖了6500块",
+      "onboard_time": 1764599362,
+      "rank": 44,
       "category": "民生新闻"
     },
     {

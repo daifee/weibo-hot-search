@@ -1,0 +1,410 @@
+{
+  "runTime": 1764599420274,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 711748,
+        "num": 1113879,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 500386,
+        "num": 500386,
+        "word": "应届硕士偷偷参加国考",
+        "onboard_time": 1764592942,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 134350,
+        "num": 378186,
+        "word": "治沙人种下的10万株玫瑰长大了",
+        "onboard_time": 1764595644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 691760,
+        "num": 366750,
+        "word": "星光大赏",
+        "onboard_time": 1764589822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274068,
+        "num": 274068,
+        "word": "王楚钦盛赞女队队友",
+        "onboard_time": 1764595764,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 292984,
+        "num": 254326,
+        "word": "大生意人 传统长剧",
+        "onboard_time": 1764595943,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 212643,
+        "num": 212643,
+        "word": "BLG官宣Viper加入",
+        "onboard_time": 1764584181,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 207544,
+        "num": 207544,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 172611,
+        "num": 207466,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152931,
+        "num": 207380,
+        "word": "中国男篮对阵韩国两连败",
+        "onboard_time": 1764590423,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 767821,
+        "num": 207213,
+        "word": "李乃文疑似在大孤山当地陪",
+        "onboard_time": 1764594502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 494288,
+        "num": 207166,
+        "word": "环卫工被故意文粗眉被迫花2万",
+        "onboard_time": 1764593242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250469,
+        "num": 206978,
+        "word": "名校硕士沦为患艾吸毒者",
+        "onboard_time": 1764598762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 237681,
+        "num": 206896,
+        "word": "袁湘琴骑车去二中接孩子逆行",
+        "onboard_time": 1764585683,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 237001,
+        "num": 206755,
+        "word": "杨幂女演员的自律",
+        "onboard_time": 1764596364,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 229150,
+        "num": 206609,
+        "word": "嘎子哥夫妇再被执行797万",
+        "onboard_time": 1764594864,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228601,
+        "num": 206493,
+        "word": "马市长 邓超",
+        "onboard_time": 1764599002,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 210157,
+        "num": 206473,
+        "word": "33岁清华女硕士驻村干部因病去世",
+        "onboard_time": 1764590602,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206374,
+        "num": 206374,
+        "word": "王鹤棣在路人镜头里没输过",
+        "onboard_time": 1764598463,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198230,
+        "num": 198230,
+        "word": "王励勤乒羽运动管理中心副主任",
+        "onboard_time": 1764599063,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 251096,
+        "num": 195242,
+        "word": "偶遇李纯马頔挽手逛街",
+        "onboard_time": 1764592282,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 204460,
+        "num": 194296,
+        "word": "朱志鑫的百度百科",
+        "onboard_time": 1764595644,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192156,
+        "num": 192156,
+        "word": "疯狂动物城 吃肉",
+        "onboard_time": 1764581063,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 188822,
+        "num": 188822,
+        "word": "顾客买鞋子仅退款发AI图",
+        "onboard_time": 1764590602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181469,
+        "num": 181469,
+        "word": "久坐的人真的要练一练屁股",
+        "onboard_time": 1764595823,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 169293,
+        "num": 169293,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 25,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 164689,
+        "num": 164689,
+        "word": "孙玮廷晒和许玮甯合照被骂绿茶",
+        "onboard_time": 1764597023,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160440,
+        "num": 160440,
+        "word": "星光大赏顶流聚集最齐的一年",
+        "onboard_time": 1764598104,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153245,
+        "num": 153245,
+        "word": "女儿回应老人花10元剃头满头血痂",
+        "onboard_time": 1764592762,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148341,
+        "num": 148341,
+        "word": "疯狂动物城 mbti",
+        "onboard_time": 1764597442,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 139900,
+        "num": 148334,
+        "word": "许昕直播全红婵是榜一",
+        "onboard_time": 1764596723,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 140548,
+        "num": 148297,
+        "word": "内娱观众 如饥似渴",
+        "onboard_time": 1764590423,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 86465,
+        "num": 148247,
+        "word": "人民日报谈小米集团高质量发展",
+        "onboard_time": 1764594264,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 86173,
+        "num": 148219,
+        "word": "日本朝野磨刀霍霍",
+        "onboard_time": 1764597383,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54084,
+        "num": 148203,
+        "word": "今起校园配餐有国家标准了",
+        "onboard_time": 1764597383,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130007,
+        "num": 148160,
+        "word": "大三男生网络交友3个月感染艾滋病",
+        "onboard_time": 1764599124,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121968,
+        "num": 148134,
+        "word": "TF家族冒泡",
+        "onboard_time": 1764591802,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 50725,
+        "num": 148097,
+        "word": "37岁重庆嬢嬢在比利时摆摊月入6万",
+        "onboard_time": 1764597263,
+        "rank": 37,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 62708,
+        "num": 148041,
+        "word": "郑恺苗苗牵手参加上戏校庆",
+        "onboard_time": 1764598643,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117755,
+        "num": 148008,
+        "word": "中国男篮晋级形势",
+        "onboard_time": 1764595582,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 111995,
+        "num": 147987,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110967,
+        "num": 147967,
+        "word": "张若昀梳了丸子头",
+        "onboard_time": 1764592642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107113,
+        "num": 147916,
+        "word": "谭爷爷说花花饿了花花就是饿了",
+        "onboard_time": 1764598643,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106049,
+        "num": 147899,
+        "word": "SofM以选手身份复出",
+        "onboard_time": 1764596244,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 42317,
+        "num": 147867,
+        "word": "男子钓上罕见113斤大鱼卖了6500块",
+        "onboard_time": 1764599362,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100952,
+        "num": 147811,
+        "word": "25岁小伙离世2小时后被公司设为离职",
+        "onboard_time": 1764588682,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100498,
+        "num": 147790,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100323,
+        "num": 147756,
+        "word": "吸毒者是艾滋病的高发人群",
+        "onboard_time": 1764590122,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91850,
+        "num": 147739,
+        "word": "女子烫发4小时称出去透气后疑跑路",
+        "onboard_time": 1764599124,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91808,
+        "num": 147703,
+        "word": "刘耀文直播",
+        "onboard_time": 1764584181,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
