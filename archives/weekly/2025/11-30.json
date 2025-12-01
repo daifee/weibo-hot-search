@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764575033519,
+  "endTime": 1764578433306,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -32,6 +32,22 @@
       "word": "香港火灾已致146人遇难",
       "onboard_time": 1764495141,
       "rank": 4,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1672257,
+      "num": 1672257,
+      "word": "俄罗斯免签",
+      "onboard_time": 1764575362,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 1557919,
+      "num": 246542,
+      "word": "民警玩忽职守致女子再被性侵",
+      "onboard_time": 1764576863,
+      "rank": 10,
       "category": "民生新闻"
     },
     {
@@ -92,7 +108,7 @@
     },
     {
       "raw_hot": 1356507,
-      "num": 172443,
+      "num": 231029,
       "word": "张继科女友前夫 白百何现任",
       "onboard_time": 1764572122,
       "rank": 46,
@@ -169,6 +185,14 @@
       "onboard_time": 1764568761,
       "rank": 10,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1018142,
+      "num": 244114,
+      "word": "葛夕上恋综 留几手破防",
+      "onboard_time": 1764576322,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 951929,
@@ -395,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 568469,
+      "num": 485181,
+      "word": "葛夕 恋综",
+      "onboard_time": 1764571940,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 565854,
       "num": 484395,
       "word": "广州沙园地铁站附近突发火情",
@@ -473,14 +505,6 @@
       "onboard_time": 1764463999,
       "rank": 5,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 528809,
-      "num": 485181,
-      "word": "葛夕 恋综",
-      "onboard_time": 1764571940,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 526535,
@@ -585,6 +609,14 @@
       "onboard_time": 1764501981,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461787,
+      "num": 242818,
+      "word": "怀疑我妈是地枭",
+      "onboard_time": 1764574882,
+      "rank": 46,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 458428,
@@ -745,6 +777,14 @@
       "onboard_time": 1764481582,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 400217,
+      "num": 240962,
+      "word": "高市早苗搂肩熊抱滑椅子",
+      "onboard_time": 1764573925,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 399327,
@@ -1131,6 +1171,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 285020,
+      "num": 234343,
+      "word": "日本最大在野党党首否认南京大屠杀",
+      "onboard_time": 1764574641,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 284258,
       "num": 311009,
       "word": "TheShy说赢了T1就能进决赛",
@@ -1217,6 +1265,14 @@
       "onboard_time": 1764562281,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 265740,
+      "num": 262368,
+      "word": "唐诡能不能拍一下万年县尉",
+      "onboard_time": 1764575902,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 262036,
@@ -1331,6 +1387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 233178,
+      "num": 233178,
+      "word": "刘诗诗小时候用这张脸捅马蜂窝",
+      "onboard_time": 1764576203,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 232467,
       "num": 297379,
       "word": "唐诡 蜀道",
@@ -1428,7 +1492,7 @@
     },
     {
       "raw_hot": 219157,
-      "num": 147518,
+      "num": 260078,
       "word": "Viper上线",
       "onboard_time": 1764574402,
       "rank": 30,
@@ -1779,6 +1843,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 186812,
+      "num": 186812,
+      "word": "王橹杰 追晚霞",
+      "onboard_time": 1764577282,
+      "rank": 27,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 185594,
+      "num": 185594,
+      "word": "清清 谁给小胖改的ID",
+      "onboard_time": 1764577402,
+      "rank": 28,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 185034,
       "num": 185034,
       "word": "花海全月无休从秋过冬",
@@ -1905,14 +1985,6 @@
       "onboard_time": 1764481460,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 178511,
-      "num": 178511,
-      "word": "高市早苗搂肩熊抱滑椅子",
-      "onboard_time": 1764573925,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 177046,
@@ -2129,6 +2201,22 @@
       "onboard_time": 1764507263,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 160807,
+      "num": 160807,
+      "word": "早期章子怡 潮妹",
+      "onboard_time": 1764576982,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160718,
+      "num": 160718,
+      "word": "饶雪漫把短剧氛围感卷起来了",
+      "onboard_time": 1764577582,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 160679,
@@ -2603,6 +2691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136113,
+      "num": 136113,
+      "word": "知名女主持被骗婚后人财两空",
+      "onboard_time": 1764578302,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 136109,
       "num": 136109,
       "word": "高铁特等座包间被吐槽像会议室",
@@ -2692,7 +2788,7 @@
     },
     {
       "raw_hot": 131782,
-      "num": 131782,
+      "num": 160730,
       "word": "别克连夜复盘辅助驾驶大赛路线",
       "onboard_time": 1764572842,
       "rank": 33,
@@ -3091,6 +3187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 117887,
+      "num": 233083,
+      "word": "中方敦促日方老老实实收回错误言论",
+      "onboard_time": 1764577342,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117833,
       "num": 169587,
       "word": "得闲谨制展现抗战不屈信念",
@@ -3155,6 +3259,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 116526,
+      "num": 107902,
+      "word": "董璇小酒窝去佟大为女儿艺术展",
+      "onboard_time": 1764575603,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 116418,
       "num": 116418,
       "word": "声鸣远扬",
@@ -3201,6 +3313,14 @@
       "onboard_time": 1764485839,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115460,
+      "num": 115460,
+      "word": "方媛三胎产后身材",
+      "onboard_time": 1764577582,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 114984,
@@ -3419,6 +3539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 108021,
+      "num": 251686,
+      "word": "广州街头突发火情疑似车油泄漏",
+      "onboard_time": 1764575362,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 108006,
       "num": 313610,
       "word": "疯狂动物城2",
@@ -3505,14 +3633,6 @@
       "onboard_time": 1764506600,
       "rank": 40,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 105844,
-      "num": 105844,
-      "word": "怀疑我妈是地枭",
-      "onboard_time": 1764574882,
-      "rank": 46,
-      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 105597,
@@ -3643,6 +3763,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 102168,
+      "num": 102168,
+      "word": "感觉李晨有老人味了",
+      "onboard_time": 1764578362,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 102147,
       "num": 108093,
       "word": "国足U17五战全胜",
@@ -3665,6 +3793,14 @@
       "onboard_time": 1764508041,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 100215,
+      "num": 100215,
+      "word": "妈妈花2小时帮我投了1个岗位",
+      "onboard_time": 1764577163,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 100094,
@@ -3803,6 +3939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96462,
+      "num": 96462,
+      "word": "小黄豆卖掉薛小婉礼物",
+      "onboard_time": 1764575842,
+      "rank": 48,
+      "category": "网红"
+    },
+    {
       "raw_hot": 95979,
       "num": 313617,
       "word": "现在就出发字幕",
@@ -3915,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92911,
+      "num": 92911,
+      "word": "永远在别人合照里找霍建华林心如",
+      "onboard_time": 1764576743,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92131,
       "num": 92131,
       "word": "迪丽热巴的打戏像开了二倍速",
@@ -4017,6 +4169,14 @@
       "onboard_time": 1764572483,
       "rank": 49,
       "category": "电影,幽默"
+    },
+    {
+      "raw_hot": 89747,
+      "num": 183905,
+      "word": "谁是下一个陈芋汐全红婵",
+      "onboard_time": 1764576382,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 89037,
@@ -4331,6 +4491,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 80618,
+      "num": 109171,
+      "word": "Ella肉眼可见的气血充足感",
+      "onboard_time": 1764577762,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 80189,
       "num": 313480,
       "word": "三星掌门人之子成为海军翻译官",
@@ -4483,6 +4651,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 72235,
+      "num": 188622,
+      "word": "敦促日方老老实实收回错误言论",
+      "onboard_time": 1764576443,
+      "rank": 26,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 72121,
       "num": 72121,
       "word": "孙颖莎认真选珠子串手串",
@@ -4553,6 +4729,14 @@
       "onboard_time": 1764480141,
       "rank": 10,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 68444,
+      "num": 100363,
+      "word": "长安二十四计真法拉利停车场",
+      "onboard_time": 1764576021,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 68266,
@@ -4633,14 +4817,6 @@
       "onboard_time": 1764490700,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 62568,
-      "num": 173554,
-      "word": "日本最大在野党党首否认南京大屠杀",
-      "onboard_time": 1764574641,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 62437,
@@ -4987,6 +5163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43354,
+      "num": 160724,
+      "word": "150元冰箱配件 维修收费899元",
+      "onboard_time": 1764576443,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 43020,
       "num": 55073,
       "word": "TOP登陆少年终于连上网了",
@@ -5129,6 +5313,14 @@
       "onboard_time": 1764526515,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 33376,
+      "num": 248194,
+      "word": "警方就大埔火灾已拘捕13人",
+      "onboard_time": 1764577762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32389,
@@ -5291,6 +5483,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 24395,
+      "num": 232384,
+      "word": "高空抛砖案死者家属起诉长春万达",
+      "onboard_time": 1764577641,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24298,
       "num": 347515,
       "word": "央视曝光商家顶风卖假冒3C充电宝",
@@ -5411,6 +5611,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 13582,
+      "num": 107906,
+      "word": "特朗普称已确定美联储下任主席人选",
+      "onboard_time": 1764577163,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12908,
       "num": 136365,
       "word": "女子保险等待期患癌理赔被拒",
@@ -5435,20 +5643,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11032,
+      "num": 951357,
+      "word": "12月起这些新规开始施行",
+      "onboard_time": 1764493460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 10354,
       "num": 34294,
       "word": "即刻上场",
       "onboard_time": 1764447674,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 9698,
-      "num": 951357,
-      "word": "12月起这些新规开始施行",
-      "onboard_time": 1764493460,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 8688,
