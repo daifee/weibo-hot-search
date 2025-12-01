@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764610153713,
+  "endTime": 1764611330360,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 55728,
+      "num": 55728,
+      "word": "宋佳获金狮大赏最佳女主角",
+      "onboard_time": 1764610456,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55611,
       "num": 227539,
       "word": "民警玩忽职守致女子再被性侵",
@@ -435,6 +443,22 @@
       "category": "演出"
     },
     {
+      "raw_hot": 30879,
+      "num": 55470,
+      "word": "40年前她发现中国首例艾滋病",
+      "onboard_time": 1764610276,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
+      "raw_hot": 30739,
+      "num": 79876,
+      "word": "袁湘琴骑车去二中接孩子逆行",
+      "onboard_time": 1764585683,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 28506,
       "num": 79888,
       "word": "陈赫回母校参加校庆",
@@ -443,15 +467,31 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27228,
-      "num": 79876,
-      "word": "袁湘琴骑车去二中接孩子逆行",
-      "onboard_time": 1764585683,
-      "rank": 48,
+      "raw_hot": 24544,
+      "num": 55351,
+      "word": "迪丽热巴说通过角色传递社会价值",
+      "onboard_time": 1764611174,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 23088,
+      "num": 55305,
+      "word": "刘宇宁新歌有去无回",
+      "onboard_time": 1764611115,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 22878,
+      "num": 55280,
+      "word": "胡歌给田朴珺做红烧肉",
+      "onboard_time": 1764611115,
+      "rank": 46,
       "category": "艺人"
     },
     {
-      "raw_hot": 20514,
+      "raw_hot": 20903,
       "num": 79881,
       "word": "您有一笔退款12月1日开始确认",
       "onboard_time": 1764571462,

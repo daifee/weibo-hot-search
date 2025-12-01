@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764610153713,
+  "endTime": 1764611330360,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -3251,6 +3251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55728,
+      "num": 55728,
+      "word": "宋佳获金狮大赏最佳女主角",
+      "onboard_time": 1764610456,
+      "rank": 8,
+      "category": "电影"
+    },
+    {
       "raw_hot": 55267,
       "num": 55267,
       "word": "洛杉矶街头现饿了么骑手",
@@ -3595,6 +3603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 30879,
+      "num": 55470,
+      "word": "40年前她发现中国首例艾滋病",
+      "onboard_time": 1764610276,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 30833,
       "num": 216907,
       "word": "12306回应乘客高铁直播扰人",
@@ -3683,6 +3699,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24544,
+      "num": 55351,
+      "word": "迪丽热巴说通过角色传递社会价值",
+      "onboard_time": 1764611174,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24264,
       "num": 210043,
       "word": "朱开曝Rookie不休息",
@@ -3721,6 +3745,22 @@
       "onboard_time": 1764556039,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23088,
+      "num": 55305,
+      "word": "刘宇宁新歌有去无回",
+      "onboard_time": 1764611115,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 22878,
+      "num": 55280,
+      "word": "胡歌给田朴珺做红烧肉",
+      "onboard_time": 1764611115,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 19113,

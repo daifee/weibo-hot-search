@@ -1,0 +1,410 @@
+{
+  "runTime": 1764611330360,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 122607,
+        "num": 322117,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 68883,
+        "num": 68883,
+        "word": "应届硕士偷偷参加国考",
+        "onboard_time": 1764592942,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 20005,
+        "num": 67583,
+        "word": "治沙人种下的10万株玫瑰长大了",
+        "onboard_time": 1764595644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70804,
+        "num": 66618,
+        "word": "疯狂动物城3 飞禽",
+        "onboard_time": 1764603622,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 54771,
+        "num": 64499,
+        "word": "BLG官宣Viper加入",
+        "onboard_time": 1764584181,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 179009,
+        "num": 62890,
+        "word": "达美乐 大美乐",
+        "onboard_time": 1764604639,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62276,
+        "num": 62276,
+        "word": "星光大赏",
+        "onboard_time": 1764589822,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 56363,
+        "num": 56363,
+        "word": "日本国宝级歌手喊话高市爽快一点",
+        "onboard_time": 1764600085,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 55728,
+        "num": 55728,
+        "word": "宋佳获金狮大赏最佳女主角",
+        "onboard_time": 1764610456,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 39856,
+        "num": 55717,
+        "word": "王励勤乒羽运动管理中心副主任",
+        "onboard_time": 1764599063,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 321294,
+        "num": 55716,
+        "word": "为什么避孕药品和用具要收税了",
+        "onboard_time": 1764604160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 190105,
+        "num": 55701,
+        "word": "陈赫王传君金世佳同框",
+        "onboard_time": 1764599844,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42819,
+        "num": 55691,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134101,
+        "num": 55676,
+        "word": "郑恺上戏合影 AI生成",
+        "onboard_time": 1764600983,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80919,
+        "num": 55662,
+        "word": "马市长 邓超",
+        "onboard_time": 1764599002,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76979,
+        "num": 55644,
+        "word": "我有个烧钱且小众的爱好",
+        "onboard_time": 1764599183,
+        "rank": 15,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 68923,
+        "num": 55635,
+        "word": "大三男生网络交友3个月感染艾滋病",
+        "onboard_time": 1764599124,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 60527,
+        "num": 55629,
+        "word": "朱志鑫的百度百科",
+        "onboard_time": 1764595644,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 46464,
+        "num": 55613,
+        "word": "专家建议不要用冲绳称呼琉球群岛",
+        "onboard_time": 1764599544,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41219,
+        "num": 55601,
+        "word": "环卫工被故意文粗眉被迫花2万",
+        "onboard_time": 1764593242,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41252,
+        "num": 55584,
+        "word": "女子烫发4小时称出去透气后疑跑路",
+        "onboard_time": 1764599124,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39918,
+        "num": 55583,
+        "word": "吸毒者是艾滋病的高发人群",
+        "onboard_time": 1764590122,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36587,
+        "num": 55563,
+        "word": "女儿回应老人花10元剃头满头血痂",
+        "onboard_time": 1764592762,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32906,
+        "num": 55557,
+        "word": "李乃文疑似在大孤山当地陪",
+        "onboard_time": 1764594502,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32840,
+        "num": 55536,
+        "word": "倒头就睡可能是身体求救信号",
+        "onboard_time": 1764599782,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 32171,
+        "num": 55532,
+        "word": "电影院凭什么不让拍",
+        "onboard_time": 1764601582,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32098,
+        "num": 55515,
+        "word": "内娱观众 如饥似渴",
+        "onboard_time": 1764590423,
+        "rank": 26,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 31213,
+        "num": 55507,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31049,
+        "num": 55499,
+        "word": "妻子婚内与人同居被判赔丈夫8000元",
+        "onboard_time": 1764603863,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30930,
+        "num": 55485,
+        "word": "汪苏泷杭州演唱会",
+        "onboard_time": 1764608357,
+        "rank": 29,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30879,
+        "num": 55470,
+        "word": "40年前她发现中国首例艾滋病",
+        "onboard_time": 1764610276,
+        "rank": 30,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 30739,
+        "num": 55464,
+        "word": "袁湘琴骑车去二中接孩子逆行",
+        "onboard_time": 1764585683,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28971,
+        "num": 55440,
+        "word": "胡歌说没有平衡好事业和家庭",
+        "onboard_time": 1764596182,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27939,
+        "num": 55439,
+        "word": "终于有剧不为了美随意换衣服了",
+        "onboard_time": 1764590782,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27380,
+        "num": 55426,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1764601344,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26148,
+        "num": 55404,
+        "word": "顾客买鞋子仅退款发AI图",
+        "onboard_time": 1764590602,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25782,
+        "num": 55402,
+        "word": "汪苏泷罗曼城",
+        "onboard_time": 1764609796,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 25554,
+        "num": 55387,
+        "word": "TF家族冒泡",
+        "onboard_time": 1764591802,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25164,
+        "num": 55369,
+        "word": "张若昀梳了丸子头",
+        "onboard_time": 1764592642,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 24804,
+        "num": 55360,
+        "word": "大生意人 传统长剧",
+        "onboard_time": 1764595943,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24544,
+        "num": 55351,
+        "word": "迪丽热巴说通过角色传递社会价值",
+        "onboard_time": 1764611174,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24756,
+        "num": 55341,
+        "word": "人民日报谈小米集团高质量发展",
+        "onboard_time": 1764594264,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24424,
+        "num": 55323,
+        "word": "张奕然李煜东合照",
+        "onboard_time": 1764603501,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 23507,
+        "num": 55310,
+        "word": "iG官宣Gala离队",
+        "onboard_time": 1764589282,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 23088,
+        "num": 55305,
+        "word": "刘宇宁新歌有去无回",
+        "onboard_time": 1764611115,
+        "rank": 44,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 22912,
+        "num": 55295,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 45,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 22878,
+        "num": 55280,
+        "word": "胡歌给田朴珺做红烧肉",
+        "onboard_time": 1764611115,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21565,
+        "num": 55260,
+        "word": "SofM以选手身份复出",
+        "onboard_time": 1764596244,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 20903,
+        "num": 55256,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17750,
+        "num": 55243,
+        "word": "王楚钦盛赞女队队友",
+        "onboard_time": 1764595764,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

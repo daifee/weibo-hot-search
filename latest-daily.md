@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/02 00:37:54 ~ 2025/12/02 01:29:13
+本榜单时间：2025/12/02 00:37:54 ~ 2025/12/02 01:48:50
 </p>
 </blockquote>
 <p>
@@ -231,6 +231,12 @@ iG官宣Gala离队（热度：63780）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%8B%E4%BD%B3%E8%8E%B7%E9%87%91%E7%8B%AE%E5%A4%A7%E8%B5%8F%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92%23" target="weibo">
+宋佳获金狮大赏最佳女主角（热度：55728）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%91%E8%AD%A6%E7%8E%A9%E5%BF%BD%E8%81%8C%E5%AE%88%E8%87%B4%E5%A5%B3%E5%AD%90%E5%86%8D%E8%A2%AB%E6%80%A7%E4%BE%B5%23" target="weibo">
 民警玩忽职守致女子再被性侵（热度：55611）
 </a>
@@ -339,20 +345,44 @@ SofM以选手身份复出（热度：49704）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2340%E5%B9%B4%E5%89%8D%E5%A5%B9%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%89%BE%E6%BB%8B%E7%97%85%23" target="weibo">
+40年前她发现中国首例艾滋病（热度：30879）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%B9%98%E7%90%B4%E9%AA%91%E8%BD%A6%E5%8E%BB%E4%BA%8C%E4%B8%AD%E6%8E%A5%E5%AD%A9%E5%AD%90%E9%80%86%E8%A1%8C%23" target="weibo">
+袁湘琴骑车去二中接孩子逆行（热度：30739）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%9B%9E%E6%AF%8D%E6%A0%A1%E5%8F%82%E5%8A%A0%E6%A0%A1%E5%BA%86%23" target="weibo">
 陈赫回母校参加校庆（热度：28506）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%A2%81%E6%B9%98%E7%90%B4%E9%AA%91%E8%BD%A6%E5%8E%BB%E4%BA%8C%E4%B8%AD%E6%8E%A5%E5%AD%A9%E5%AD%90%E9%80%86%E8%A1%8C%23" target="weibo">
-袁湘琴骑车去二中接孩子逆行（热度：27228）
+<a href="https://s.weibo.com/weibo?q=%23%E8%BF%AA%E4%B8%BD%E7%83%AD%E5%B7%B4%E8%AF%B4%E9%80%9A%E8%BF%87%E8%A7%92%E8%89%B2%E4%BC%A0%E9%80%92%E7%A4%BE%E4%BC%9A%E4%BB%B7%E5%80%BC%23" target="weibo">
+迪丽热巴说通过角色传递社会价值（热度：24544）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E5%AE%87%E5%AE%81%E6%96%B0%E6%AD%8C%E6%9C%89%E5%8E%BB%E6%97%A0%E5%9B%9E%23" target="weibo">
+刘宇宁新歌有去无回（热度：23088）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%BB%99%E7%94%B0%E6%9C%B4%E7%8F%BA%E5%81%9A%E7%BA%A2%E7%83%A7%E8%82%89%23" target="weibo">
+胡歌给田朴珺做红烧肉（热度：22878）
 </a>
 </li>
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%82%A8%E6%9C%89%E4%B8%80%E7%AC%94%E9%80%80%E6%AC%BE12%E6%9C%881%E6%97%A5%E5%BC%80%E5%A7%8B%E7%A1%AE%E8%AE%A4%23" target="weibo">
-您有一笔退款12月1日开始确认（热度：20514）
+您有一笔退款12月1日开始确认（热度：20903）
 </a>
 </li>
 
