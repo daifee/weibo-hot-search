@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764615478362,
+  "endTime": 1764617305096,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -451,6 +451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 31815,
+      "num": 48825,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30739,
       "num": 79876,
       "word": "袁湘琴骑车去二中接孩子逆行",
@@ -483,16 +491,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 24223,
-      "num": 29957,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 23977,
-      "num": 31075,
+      "num": 49156,
       "word": "俄罗斯免签",
       "onboard_time": 1764575362,
       "rank": 27,
@@ -508,7 +508,7 @@
     },
     {
       "raw_hot": 21738,
-      "num": 31019,
+      "num": 49047,
       "word": "猫妹妹爸爸欠债几十万",
       "onboard_time": 1764613455,
       "rank": 35,
@@ -521,6 +521,14 @@
       "onboard_time": 1764571462,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11194,
+      "num": 48082,
+      "word": "邓紫棋演唱会",
+      "onboard_time": 1764615914,
+      "rank": 48,
+      "category": "演出"
     }
   ],
   "hotgov_list": [
