@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764618129056,
+  "endTime": 1764620926693,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -6467,6 +6467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45478,
+      "num": 48825,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45274,
       "num": 101851,
       "word": "邓超孙俪儿子U14男子组亚军",
@@ -6787,14 +6795,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31815,
-      "num": 48825,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 31076,
       "num": 232384,
       "word": "高空抛砖案死者家属起诉长春万达",
@@ -6961,6 +6961,14 @@
       "onboard_time": 1764594022,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24863,
+      "num": 40332,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 24544,
@@ -7179,12 +7187,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12677,
+      "num": 36625,
+      "word": "葛夕回应上恋综",
+      "onboard_time": 1764619934,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12208,
       "num": 127097,
       "word": "武契奇回应美制裁塞石油工业公司",
       "onboard_time": 1764593423,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11981,
+      "num": 46262,
+      "word": "成本70万自研高超音速导弹问世",
+      "onboard_time": 1764611594,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 11879,
@@ -7217,14 +7241,6 @@
       "onboard_time": 1764578963,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11232,
-      "num": 46262,
-      "word": "成本70万自研高超音速导弹问世",
-      "onboard_time": 1764611594,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 11194,

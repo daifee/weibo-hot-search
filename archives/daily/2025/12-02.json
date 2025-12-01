@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764618129056,
+  "endTime": 1764620926693,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -387,6 +387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 45478,
+      "num": 48825,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45089,
       "num": 227086,
       "word": "李乃文疑似在大孤山当地陪",
@@ -451,14 +459,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 31815,
-      "num": 48825,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30739,
       "num": 79876,
       "word": "袁湘琴骑车去二中接孩子逆行",
@@ -481,6 +481,14 @@
       "onboard_time": 1764611115,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 24863,
+      "num": 40332,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 24544,
@@ -523,7 +531,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 11232,
+      "raw_hot": 12677,
+      "num": 36625,
+      "word": "葛夕回应上恋综",
+      "onboard_time": 1764619934,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11981,
       "num": 46262,
       "word": "成本70万自研高超音速导弹问世",
       "onboard_time": 1764611594,
