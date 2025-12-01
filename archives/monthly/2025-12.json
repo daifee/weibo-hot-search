@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764567304236,
+  "endTime": 1764568181066,
   "band_list": [
     {
       "raw_hot": 2134222,
@@ -9,6 +9,14 @@
       "onboard_time": 1764519141,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2051793,
+      "num": 267090,
+      "word": "张继科 张蕊",
+      "onboard_time": 1764566423,
+      "rank": 20,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1469657,
@@ -25,14 +33,6 @@
       "onboard_time": 1764559941,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1351684,
-      "num": 267090,
-      "word": "张继科 张蕊",
-      "onboard_time": 1764566423,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 950543,
@@ -129,6 +129,14 @@
       "onboard_time": 1764550699,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 489786,
+      "num": 489786,
+      "word": "1个剧组5个影帝影后视帝",
+      "onboard_time": 1764565102,
+      "rank": 16,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 462864,
@@ -267,6 +275,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 340949,
+      "num": 1054551,
+      "word": "高市宣称日本又回来了",
+      "onboard_time": 1764555861,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 336224,
       "num": 234106,
       "word": "肖战妆造最浓的一次",
@@ -315,6 +331,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 326467,
+      "num": 326467,
+      "word": "被性恋",
+      "onboard_time": 1764564504,
+      "rank": 15,
+      "category": "幽默,休闲"
+    },
+    {
       "raw_hot": 323418,
       "num": 233872,
       "word": "夏克立说已经4年没见过女儿夏天",
@@ -324,19 +348,11 @@
     },
     {
       "raw_hot": 322691,
-      "num": 846912,
+      "num": 849907,
       "word": "长安二十四计",
       "onboard_time": 1764553161,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 319332,
-      "num": 319332,
-      "word": "被性恋",
-      "onboard_time": 1764564504,
-      "rank": 15,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 318365,
@@ -345,22 +361,6 @@
       "onboard_time": 1764513082,
       "rank": 25,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 318015,
-      "num": 1050882,
-      "word": "高市宣称日本又回来了",
-      "onboard_time": 1764555861,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 315604,
-      "num": 315604,
-      "word": "1个剧组5个影帝影后视帝",
-      "onboard_time": 1764565102,
-      "rank": 16,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 313313,
@@ -435,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 246641,
+      "num": 790931,
+      "word": "官方通报店主实名举报公职人员",
+      "onboard_time": 1764564442,
+      "rank": 6,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 236991,
       "num": 193868,
       "word": "独生子女真的不会感觉孤独吗",
       "onboard_time": 1764554000,
       "rank": 23,
       "category": "情感"
+    },
+    {
+      "raw_hot": 236723,
+      "num": 236723,
+      "word": "加奈那亲了何蓝逗一口又一口",
+      "onboard_time": 1764567023,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 234626,
@@ -489,14 +505,6 @@
       "onboard_time": 1764550462,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 217340,
-      "num": 217340,
-      "word": "加奈那亲了何蓝逗一口又一口",
-      "onboard_time": 1764567023,
-      "rank": 27,
-      "category": "剧集"
     },
     {
       "raw_hot": 208192,
@@ -579,14 +587,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 185957,
-      "num": 718577,
-      "word": "官方通报店主实名举报公职人员",
-      "onboard_time": 1764564442,
-      "rank": 6,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 184811,
       "num": 234357,
       "word": "75亿项目被指偷工减料",
@@ -611,12 +611,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 180600,
+      "num": 180600,
+      "word": "原来有花瓣毛茸茸的菊花",
+      "onboard_time": 1764567681,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179511,
       "num": 125250,
       "word": "12月",
       "onboard_time": 1764544458,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 178816,
+      "num": 178816,
+      "word": "朱珠老公 下次我背个行车记录仪",
+      "onboard_time": 1764567442,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 171390,
+      "num": 171390,
+      "word": "深圳开挖巨型垃圾山",
+      "onboard_time": 1764567144,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167316,
@@ -665,6 +689,14 @@
       "onboard_time": 1764564264,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 160679,
+      "num": 160679,
+      "word": "雷军",
+      "onboard_time": 1764564923,
+      "rank": 40,
+      "category": "汽车"
     },
     {
       "raw_hot": 156386,
@@ -732,19 +764,11 @@
     },
     {
       "raw_hot": 150420,
-      "num": 150062,
+      "num": 490900,
       "word": "罗永浩官宣年底将开分享大会",
       "onboard_time": 1764567023,
       "rank": 41,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 150407,
-      "num": 150407,
-      "word": "雷军",
-      "onboard_time": 1764564923,
-      "rank": 40,
-      "category": "汽车"
     },
     {
       "raw_hot": 149328,
@@ -788,7 +812,7 @@
     },
     {
       "raw_hot": 147678,
-      "num": 147678,
+      "num": 621178,
       "word": "张婧仪陈靖可 致我那菜市场的白月光",
       "onboard_time": 1764562343,
       "rank": 42,
@@ -915,12 +939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 129436,
-      "num": 129436,
-      "word": "深圳开挖巨型垃圾山",
-      "onboard_time": 1764567144,
+      "raw_hot": 131174,
+      "num": 131174,
+      "word": "日本国脚合影的战犯是谁",
+      "onboard_time": 1764568041,
       "rank": 47,
-      "category": "民生新闻"
+      "category": "国际时政"
     },
     {
       "raw_hot": 128278,
@@ -969,6 +993,14 @@
       "onboard_time": 1764520818,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120518,
+      "num": 120518,
+      "word": "JDG官宣JunJia加入",
+      "onboard_time": 1764568162,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 120261,
@@ -1515,6 +1547,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 28816,
+      "num": 152129,
+      "word": "109人的炒股群108个托",
+      "onboard_time": 1764566661,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26781,
       "num": 121850,
       "word": "遵义湘江河漂浮粪水臭气熏天",
@@ -1531,12 +1571,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 24759,
-      "num": 152129,
-      "word": "109人的炒股群108个托",
-      "onboard_time": 1764566661,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 25149,
+      "num": 234630,
+      "word": "在建大桥垮塌致2死3伤整改通报",
+      "onboard_time": 1764567681,
+      "rank": 19,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 23892,
@@ -1555,6 +1595,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19113,
+      "num": 154788,
+      "word": "男子6天数次高空抛砖未重视酿命案",
+      "onboard_time": 1764567681,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18621,
       "num": 24664,
       "word": "穆祉丞星辰大海vlog",
@@ -1569,6 +1617,14 @@
       "onboard_time": 1764556160,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16515,
+      "num": 153942,
+      "word": "台海鲲号被爆无锚海试",
+      "onboard_time": 1764567681,
+      "rank": 38,
+      "category": "国内时政"
     },
     {
       "raw_hot": 14588,
@@ -1587,20 +1643,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 7407,
+      "num": 951357,
+      "word": "12月起这些新规开始施行",
+      "onboard_time": 1764493460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7298,
       "num": 154014,
       "word": "灵隐寺免门票首日预约已满",
       "onboard_time": 1764563543,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 7248,
-      "num": 951357,
-      "word": "12月起这些新规开始施行",
-      "onboard_time": 1764493460,
-      "rank": 2,
-      "category": "国内时政"
     }
   ],
   "hotgov_list": [

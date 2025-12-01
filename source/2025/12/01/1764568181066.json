@@ -1,0 +1,410 @@
+{
+  "runTime": 1764568181066,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 340949,
+        "num": 1054551,
+        "word": "高市宣称日本又回来了",
+        "onboard_time": 1764555861,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 193929,
+        "num": 1018920,
+        "word": "英超球队向中国球迷道歉",
+        "onboard_time": 1764555020,
+        "rank": 1,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 7407,
+        "num": 947033,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 203243,
+        "num": 868782,
+        "word": "Uzi 复出",
+        "onboard_time": 1764555500,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 184226,
+        "num": 849907,
+        "word": "长安二十四计",
+        "onboard_time": 1764553161,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 246641,
+        "num": 790931,
+        "word": "官方通报店主实名举报公职人员",
+        "onboard_time": 1764564442,
+        "rank": 5,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 153534,
+        "num": 692759,
+        "word": "神舟二十二号航天员乘组永远空缺",
+        "onboard_time": 1764555139,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 143594,
+        "num": 621178,
+        "word": "张婧仪陈靖可 致我那菜市场的白月光",
+        "onboard_time": 1764562343,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 135218,
+        "num": 580958,
+        "word": "Rookie回应和jiejie争论",
+        "onboard_time": 1764564202,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 110840,
+        "num": 490900,
+        "word": "罗永浩官宣年底将开分享大会",
+        "onboard_time": 1764567023,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 489786,
+        "num": 489786,
+        "word": "1个剧组5个影帝影后视帝",
+        "onboard_time": 1764565102,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 436872,
+        "num": 436872,
+        "word": "能考85分偏考84分",
+        "onboard_time": 1764563961,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 388975,
+        "num": 388975,
+        "word": "朱珠 我没挤他",
+        "onboard_time": 1764559100,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326467,
+        "num": 326467,
+        "word": "被性恋",
+        "onboard_time": 1764564504,
+        "rank": 13,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 285673,
+        "num": 285673,
+        "word": "刘亦菲易烊千玺 广告合作",
+        "onboard_time": 1764563543,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272194,
+        "num": 272194,
+        "word": "婚前同居怀孕退婚后男方起诉要彩礼",
+        "onboard_time": 1764559462,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 261163,
+        "num": 261163,
+        "word": "臣妾有一妹妹名为玉娆堪称国色",
+        "onboard_time": 1764564144,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236723,
+        "num": 236723,
+        "word": "加奈那亲了何蓝逗一口又一口",
+        "onboard_time": 1764567023,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 109839,
+        "num": 235641,
+        "word": "幼师等招聘可依法查询吸毒记录",
+        "onboard_time": 1764511641,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25149,
+        "num": 234630,
+        "word": "在建大桥垮塌致2死3伤整改通报",
+        "onboard_time": 1764567681,
+        "rank": 19,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 2051793,
+        "num": 232684,
+        "word": "张继科 张蕊",
+        "onboard_time": 1764566423,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 726086,
+        "num": 231487,
+        "word": "张继科和女友一起吃火锅",
+        "onboard_time": 1764565164,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 488775,
+        "num": 228880,
+        "word": "马頔 你懂什么叫结婚么",
+        "onboard_time": 1764559941,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 355679,
+        "num": 227694,
+        "word": "胡歌女儿 英雄需要鼓励草莓熊不用",
+        "onboard_time": 1764562942,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 226918,
+        "num": 226918,
+        "word": "第一次见cos人民币",
+        "onboard_time": 1764562281,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 218964,
+        "num": 218964,
+        "word": "朱亚文向涵之是主角会爆成啥样",
+        "onboard_time": 1764562463,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215512,
+        "num": 215512,
+        "word": "店主实名举报公职人员疑喝农药",
+        "onboard_time": 1764563602,
+        "rank": 26,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 182224,
+        "num": 182224,
+        "word": "到底拍的有多还原才敢用真名",
+        "onboard_time": 1764565764,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180600,
+        "num": 180600,
+        "word": "原来有花瓣毛茸茸的菊花",
+        "onboard_time": 1764567681,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113610,
+        "num": 179303,
+        "word": "湖人7连胜",
+        "onboard_time": 1764567080,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 178816,
+        "num": 178816,
+        "word": "朱珠老公 下次我背个行车记录仪",
+        "onboard_time": 1764567442,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173936,
+        "num": 173936,
+        "word": "黄雅琼婚礼的钻戒不会被教练说小了",
+        "onboard_time": 1764564323,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 171390,
+        "num": 171390,
+        "word": "深圳开挖巨型垃圾山",
+        "onboard_time": 1764567144,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45531,
+        "num": 167096,
+        "word": "锦州为什么没有必吃榜",
+        "onboard_time": 1764563842,
+        "rank": 33,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 164010,
+        "num": 164010,
+        "word": "已经到了不认识TFBOYS的时代了",
+        "onboard_time": 1764561502,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160679,
+        "num": 160679,
+        "word": "雷军",
+        "onboard_time": 1764564923,
+        "rank": 35,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 156331,
+        "num": 156331,
+        "word": "一年级的陈思成参加艺考",
+        "onboard_time": 1764559641,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 19113,
+        "num": 154788,
+        "word": "男子6天数次高空抛砖未重视酿命案",
+        "onboard_time": 1764567681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16515,
+        "num": 153942,
+        "word": "台海鲲号被爆无锚海试",
+        "onboard_time": 1764567681,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153683,
+        "num": 153683,
+        "word": "女子验房发现新房已被人安家入住",
+        "onboard_time": 1764564264,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142858,
+        "num": 142858,
+        "word": "陈晓可以演变态了",
+        "onboard_time": 1764564625,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 135198,
+        "num": 135198,
+        "word": "夏克立说已经4年没见过女儿夏天",
+        "onboard_time": 1764561081,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134388,
+        "num": 134388,
+        "word": "肖战妆造最浓的一次",
+        "onboard_time": 1764557360,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 133415,
+        "num": 133415,
+        "word": "从过气主持人到互联网顶流只需一秒",
+        "onboard_time": 1764566002,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 465109,
+        "num": 132495,
+        "word": "朱志鑫 劳力士",
+        "onboard_time": 1764563003,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28816,
+        "num": 131735,
+        "word": "109人的炒股群108个托",
+        "onboard_time": 1764566661,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131298,
+        "num": 131298,
+        "word": "枭起青壤热度为什么上不去",
+        "onboard_time": 1764561922,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131174,
+        "num": 131174,
+        "word": "日本国脚合影的战犯是谁",
+        "onboard_time": 1764568041,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120518,
+        "num": 120518,
+        "word": "JDG官宣JunJia加入",
+        "onboard_time": 1764568162,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 117910,
+        "num": 117910,
+        "word": "其实高皮质醇的人都有一个特点",
+        "onboard_time": 1764566661,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
+    }
+  }
+}
