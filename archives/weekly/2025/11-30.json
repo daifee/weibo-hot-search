@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764574234505,
+  "endTime": 1764575033519,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1356507,
-      "num": 162553,
+      "num": 172443,
       "word": "张继科女友前夫 白百何现任",
       "onboard_time": 1764572122,
       "rank": 46,
@@ -164,7 +164,7 @@
     },
     {
       "raw_hot": 1024327,
-      "num": 269730,
+      "num": 481732,
       "word": "郝蕾 我说的不是辛芷蕾",
       "onboard_time": 1764568761,
       "rank": 10,
@@ -396,7 +396,7 @@
     },
     {
       "raw_hot": 565854,
-      "num": 240231,
+      "num": 484395,
       "word": "广州沙园地铁站附近突发火情",
       "onboard_time": 1764571462,
       "rank": 5,
@@ -459,12 +459,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 532623,
+      "num": 1085219,
+      "word": "您有一笔退款12月1日开始确认",
+      "onboard_time": 1764571462,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 530265,
       "num": 210039,
       "word": "高市被曝想争取他国支持缓解外交摩擦",
       "onboard_time": 1764463999,
       "rank": 5,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 528809,
+      "num": 485181,
+      "word": "葛夕 恋综",
+      "onboard_time": 1764571940,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 526535,
@@ -507,14 +523,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 493583,
-      "num": 493583,
-      "word": "您有一笔退款12月1日开始确认",
-      "onboard_time": 1764571462,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 492506,
       "num": 422096,
       "word": "刘义恒 图推的神",
@@ -531,14 +539,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 490417,
-      "num": 168205,
-      "word": "葛夕 恋综",
-      "onboard_time": 1764571940,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 489786,
       "num": 489786,
       "word": "1个剧组5个影帝影后视帝",
@@ -553,6 +553,14 @@
       "onboard_time": 1764507743,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 473327,
+      "num": 473327,
+      "word": "小胖回应改ID",
+      "onboard_time": 1764573081,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 467955,
@@ -601,14 +609,6 @@
       "onboard_time": 1764563961,
       "rank": 11,
       "category": "情感"
-    },
-    {
-      "raw_hot": 454791,
-      "num": 201596,
-      "word": "小胖回应改ID",
-      "onboard_time": 1764573081,
-      "rank": 6,
-      "category": "电竞"
     },
     {
       "raw_hot": 451100,
@@ -1067,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 297279,
+      "num": 297279,
+      "word": "曝iPhone折叠屏手机无折痕",
+      "onboard_time": 1764570861,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 295192,
       "num": 295192,
       "word": "孟子义 草莓大福",
@@ -1193,14 +1201,6 @@
       "onboard_time": 1764463460,
       "rank": 13,
       "category": "情感"
-    },
-    {
-      "raw_hot": 275286,
-      "num": 225225,
-      "word": "曝iPhone折叠屏手机无折痕",
-      "onboard_time": 1764570861,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 274474,
@@ -1355,6 +1355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231006,
+      "num": 162487,
+      "word": "面对面也认不出这是罗晋",
+      "onboard_time": 1764573142,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 227363,
       "num": 227363,
       "word": "解放军中部战区轰炸机跨昼夜飞训",
@@ -1417,6 +1425,14 @@
       "onboard_time": 1764564323,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219157,
+      "num": 147518,
+      "word": "Viper上线",
+      "onboard_time": 1764574402,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 218342,
@@ -1508,7 +1524,7 @@
     },
     {
       "raw_hot": 208473,
-      "num": 208473,
+      "num": 483538,
       "word": "罗永浩抽送iPhone17被指抠",
       "onboard_time": 1764573802,
       "rank": 3,
@@ -1579,12 +1595,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 205000,
-      "num": 162487,
-      "word": "面对面也认不出这是罗晋",
-      "onboard_time": 1764573142,
-      "rank": 24,
-      "category": "剧集"
+      "raw_hot": 204513,
+      "num": 486989,
+      "word": "Uzi上线吃瓜",
+      "onboard_time": 1764574102,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 203852,
@@ -1604,7 +1620,7 @@
     },
     {
       "raw_hot": 200163,
-      "num": 200163,
+      "num": 482601,
       "word": "当地应急回应广州突发火情",
       "onboard_time": 1764573442,
       "rank": 7,
@@ -1696,6 +1712,14 @@
       "word": "湖南一出生仅22天女婴手术后死亡",
       "onboard_time": 1764426922,
       "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 194775,
+      "num": 482405,
+      "word": "官方通报广州沙园地铁站附近突发火情",
+      "onboard_time": 1764574162,
+      "rank": 45,
       "category": "民生新闻"
     },
     {
@@ -1881,6 +1905,14 @@
       "onboard_time": 1764481460,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 178511,
+      "num": 178511,
+      "word": "高市早苗搂肩熊抱滑椅子",
+      "onboard_time": 1764573925,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 177046,
@@ -2177,6 +2209,14 @@
       "onboard_time": 1764472400,
       "rank": 41,
       "category": "议题讨论"
+    },
+    {
+      "raw_hot": 155245,
+      "num": 155245,
+      "word": "向佐来到康定心系郭碧婷和孩子",
+      "onboard_time": 1764573982,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 154927,
@@ -2491,12 +2531,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 141568,
-      "num": 141568,
-      "word": "向佐来到康定心系郭碧婷和孩子",
-      "onboard_time": 1764573982,
-      "rank": 32,
-      "category": "综艺"
+      "raw_hot": 140635,
+      "num": 140635,
+      "word": "张新成古装",
+      "onboard_time": 1764573802,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 140630,
@@ -2843,6 +2883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 123208,
+      "num": 123208,
+      "word": "从微信躲到微博 从大号躲到小号",
+      "onboard_time": 1764574223,
+      "rank": 39,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123127,
       "num": 321562,
       "word": "印尼洪水山体滑坡442人死亡",
@@ -3091,14 +3139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 117294,
-      "num": 117294,
-      "word": "张新成古装",
-      "onboard_time": 1764573802,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 117250,
       "num": 117250,
       "word": "王力宏感恩节晒全家福",
@@ -3147,14 +3187,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 116157,
-      "num": 116157,
-      "word": "Uzi上线吃瓜",
-      "onboard_time": 1764574102,
-      "rank": 42,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 115880,
       "num": 115880,
       "word": "郑思维儿子给黄雅琼刘雨辰当花童",
@@ -3193,14 +3225,6 @@
       "onboard_time": 1764501021,
       "rank": 37,
       "category": "电影"
-    },
-    {
-      "raw_hot": 114633,
-      "num": 114633,
-      "word": "高市早苗搂肩熊抱滑椅子",
-      "onboard_time": 1764573925,
-      "rank": 43,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114437,
@@ -3395,14 +3419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 108535,
-      "num": 108535,
-      "word": "官方通报广州沙园地铁站附近突发火情",
-      "onboard_time": 1764574162,
-      "rank": 45,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 108006,
       "num": 313610,
       "word": "疯狂动物城2",
@@ -3451,6 +3467,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 106463,
+      "num": 106463,
+      "word": "金正恩与2名女飞行员握手鼓励",
+      "onboard_time": 1764572360,
+      "rank": 45,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 106447,
       "num": 108167,
       "word": "王楚钦左手腕缠绷带",
@@ -3481,6 +3505,14 @@
       "onboard_time": 1764506600,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 105844,
+      "num": 105844,
+      "word": "怀疑我妈是地枭",
+      "onboard_time": 1764574882,
+      "rank": 46,
+      "category": "作品衍生,幽默"
     },
     {
       "raw_hot": 105597,
@@ -3529,6 +3561,14 @@
       "onboard_time": 1764475162,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104623,
+      "num": 104623,
+      "word": "马克龙12月3日至5日访华",
+      "onboard_time": 1764575000,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 103534,
@@ -4203,6 +4243,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 83337,
+      "num": 119368,
+      "word": "本周五又有超级月亮",
+      "onboard_time": 1764574461,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 83257,
       "num": 83257,
       "word": "12306回应高铁特等座包间像会议室",
@@ -4587,6 +4635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 62568,
+      "num": 173554,
+      "word": "日本最大在野党党首否认南京大屠杀",
+      "onboard_time": 1764574641,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 62437,
       "num": 136388,
       "word": "东契奇里夫斯合砍67分",
@@ -4867,6 +4923,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45641,
+      "num": 126649,
+      "word": "日本国脚露出马脚",
+      "onboard_time": 1764574162,
+      "rank": 37,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 45616,
       "num": 313394,
       "word": "数千架空客A320紧急停飞",
@@ -5067,6 +5131,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 32389,
+      "num": 162609,
+      "word": "28岁女子被砸中身亡案再开庭",
+      "onboard_time": 1764573081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 31972,
       "num": 806255,
       "word": "中国要在海底抓幽灵粒子",
@@ -5081,14 +5153,6 @@
       "onboard_time": 1764437357,
       "rank": 24,
       "category": "演出"
-    },
-    {
-      "raw_hot": 31124,
-      "num": 162609,
-      "word": "28岁女子被砸中身亡案再开庭",
-      "onboard_time": 1764573081,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 30797,
@@ -5145,14 +5209,6 @@
       "onboard_time": 1764441795,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 28233,
-      "num": 126649,
-      "word": "日本国脚露出马脚",
-      "onboard_time": 1764574162,
-      "rank": 37,
-      "category": "国际时政,体育"
     },
     {
       "raw_hot": 28227,
@@ -5243,6 +5299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24170,
+      "num": 127199,
+      "word": "抛砖命案家属称凶手多次抛物没人管",
+      "onboard_time": 1764573681,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24143,
       "num": 64462,
       "word": "我无脑爱牛爷爷",
@@ -5289,14 +5353,6 @@
       "onboard_time": 1764513442,
       "rank": 37,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 20251,
-      "num": 127199,
-      "word": "抛砖命案家属称凶手多次抛物没人管",
-      "onboard_time": 1764573681,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 19113,

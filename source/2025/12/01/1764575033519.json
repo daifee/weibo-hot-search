@@ -1,0 +1,410 @@
+{
+  "runTime": 1764575033519,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 532623,
+        "num": 1085219,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 488026,
+        "num": 488026,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 8286,
+        "num": 487617,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204513,
+        "num": 486989,
+        "word": "Uzi上线吃瓜",
+        "onboard_time": 1764574102,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87785,
+        "num": 486336,
+        "word": "长安二十四计",
+        "onboard_time": 1764553161,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 528809,
+        "num": 485181,
+        "word": "葛夕 恋综",
+        "onboard_time": 1764571940,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430467,
+        "num": 484395,
+        "word": "广州沙园地铁站附近突发火情",
+        "onboard_time": 1764571462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186382,
+        "num": 483538,
+        "word": "罗永浩抽送iPhone17被指抠",
+        "onboard_time": 1764573802,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 180654,
+        "num": 482601,
+        "word": "当地应急回应广州突发火情",
+        "onboard_time": 1764573442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194775,
+        "num": 482405,
+        "word": "官方通报广州沙园地铁站附近突发火情",
+        "onboard_time": 1764574162,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 481732,
+        "num": 481732,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 473327,
+        "num": 473327,
+        "word": "小胖回应改ID",
+        "onboard_time": 1764573081,
+        "rank": 11,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 322135,
+        "num": 322135,
+        "word": "被性恋",
+        "onboard_time": 1764564504,
+        "rank": 12,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 297279,
+        "num": 297279,
+        "word": "曝iPhone折叠屏手机无折痕",
+        "onboard_time": 1764570861,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 221413,
+        "num": 221413,
+        "word": "朱珠 我没挤他",
+        "onboard_time": 1764559100,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200160,
+        "num": 200160,
+        "word": "卢昱晓 桃黑黑是国草",
+        "onboard_time": 1764570742,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 190235,
+        "num": 190235,
+        "word": "为骗老人10万元109人炒股群108个托",
+        "onboard_time": 1764568761,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 178511,
+        "num": 178511,
+        "word": "高市早苗搂肩熊抱滑椅子",
+        "onboard_time": 1764573925,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178459,
+        "num": 178459,
+        "word": "李雪琴评孟子义素颜状态",
+        "onboard_time": 1764570382,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 62568,
+        "num": 173554,
+        "word": "日本最大在野党党首否认南京大屠杀",
+        "onboard_time": 1764574641,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1941442,
+        "num": 172936,
+        "word": "张继科 张蕊",
+        "onboard_time": 1764566423,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1260827,
+        "num": 172443,
+        "word": "张继科女友前夫 白百何现任",
+        "onboard_time": 1764572122,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 171239,
+        "num": 171239,
+        "word": "Uzi 复出",
+        "onboard_time": 1764555500,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 251772,
+        "num": 164563,
+        "word": "马頔 你懂什么叫结婚么",
+        "onboard_time": 1764559941,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231006,
+        "num": 160967,
+        "word": "面对面也认不出这是罗晋",
+        "onboard_time": 1764573142,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 199924,
+        "num": 160329,
+        "word": "弥补了没有陈冠希baby绯闻的遗憾",
+        "onboard_time": 1764570081,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155907,
+        "num": 155907,
+        "word": "能考85分偏考84分",
+        "onboard_time": 1764563961,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 155245,
+        "num": 155245,
+        "word": "向佐来到康定心系郭碧婷和孩子",
+        "onboard_time": 1764573982,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151558,
+        "num": 151558,
+        "word": "高市宣称日本又回来了",
+        "onboard_time": 1764555861,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 147955,
+        "num": 147955,
+        "word": "家业剧组维权",
+        "onboard_time": 1764570141,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 219157,
+        "num": 147518,
+        "word": "Viper上线",
+        "onboard_time": 1764574402,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 140635,
+        "num": 140635,
+        "word": "张新成古装",
+        "onboard_time": 1764573802,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130881,
+        "num": 130881,
+        "word": "沙园",
+        "onboard_time": 1764572360,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84987,
+        "num": 130594,
+        "word": "神舟二十二号航天员乘组永远空缺",
+        "onboard_time": 1764555139,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 32389,
+        "num": 130554,
+        "word": "28岁女子被砸中身亡案再开庭",
+        "onboard_time": 1764573081,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130550,
+        "num": 130550,
+        "word": "官方通报店主实名举报公职人员",
+        "onboard_time": 1764564442,
+        "rank": 35,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 113278,
+        "num": 129016,
+        "word": "别克连夜复盘辅助驾驶大赛路线",
+        "onboard_time": 1764572842,
+        "rank": 36,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 127901,
+        "num": 127901,
+        "word": "JDG官宣HongQ加入",
+        "onboard_time": 1764572601,
+        "rank": 37,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 45641,
+        "num": 124564,
+        "word": "日本国脚露出马脚",
+        "onboard_time": 1764574162,
+        "rank": 38,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 123208,
+        "num": 123208,
+        "word": "从微信躲到微博 从大号躲到小号",
+        "onboard_time": 1764574223,
+        "rank": 39,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122495,
+        "num": 122495,
+        "word": "婚前同居怀孕退婚后男方起诉要彩礼",
+        "onboard_time": 1764559462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83337,
+        "num": 119368,
+        "word": "本周五又有超级月亮",
+        "onboard_time": 1764574461,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67926,
+        "num": 118681,
+        "word": "余茵王凯沐回应吃夜宵事件",
+        "onboard_time": 1764573681,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 24170,
+        "num": 118423,
+        "word": "抛砖命案家属称凶手多次抛物没人管",
+        "onboard_time": 1764573681,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118243,
+        "num": 118243,
+        "word": "VOGUE年度最佳着装提名名单",
+        "onboard_time": 1764568882,
+        "rank": 44,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 106463,
+        "num": 106463,
+        "word": "金正恩与2名女飞行员握手鼓励",
+        "onboard_time": 1764572360,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105844,
+        "num": 105844,
+        "word": "怀疑我妈是地枭",
+        "onboard_time": 1764574882,
+        "rank": 46,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 104623,
+        "num": 104623,
+        "word": "马克龙12月3日至5日访华",
+        "onboard_time": 1764575000,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102896,
+        "num": 102896,
+        "word": "刘亦菲易烊千玺 广告合作",
+        "onboard_time": 1764563543,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 101454,
+        "num": 101454,
+        "word": "朱珠老公 下次我背个行车记录仪",
+        "onboard_time": 1764567442,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
+    }
+  }
+}
