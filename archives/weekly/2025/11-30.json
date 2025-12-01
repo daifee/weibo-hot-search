@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764603061728,
+  "endTime": 1764603901526,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -163,6 +163,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 1174512,
+      "num": 237109,
+      "word": "陈赫王传君金世佳同框",
+      "onboard_time": 1764599844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1115086,
       "num": 323563,
       "word": "陈伟霆说基本上全世界男人都这样",
@@ -193,14 +201,6 @@
       "onboard_time": 1764494122,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1087337,
-      "num": 237109,
-      "word": "陈赫王传君金世佳同框",
-      "onboard_time": 1764599844,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 1081304,
@@ -913,6 +913,14 @@
       "onboard_time": 1764600983,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 412181,
+      "num": 234686,
+      "word": "专家建议不要用冲绳称呼琉球群岛",
+      "onboard_time": 1764599544,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 409462,
@@ -1657,14 +1665,6 @@
       "onboard_time": 1764556760,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 251471,
-      "num": 234686,
-      "word": "专家建议不要用冲绳称呼琉球群岛",
-      "onboard_time": 1764599544,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 246641,
@@ -2579,6 +2579,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 168385,
+      "num": 165494,
+      "word": "倒头就睡可能是身体求救信号",
+      "onboard_time": 1764599782,
+      "rank": 23,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 168348,
       "num": 168348,
       "word": "汪苏泷录的微信朋友圈背景视频",
@@ -3059,14 +3067,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 150196,
-      "num": 150196,
-      "word": "倒头就睡可能是身体求救信号",
-      "onboard_time": 1764599782,
-      "rank": 23,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 150134,
       "num": 150134,
       "word": "原来这就是安陵容她娘绣的苏绣",
@@ -3417,6 +3417,14 @@
       "onboard_time": 1764567080,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135611,
+      "num": 135611,
+      "word": "我有个烧钱且小众的爱好",
+      "onboard_time": 1764599183,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 134484,
@@ -4187,6 +4195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115145,
+      "num": 115145,
+      "word": "邓佳鑫vlog",
+      "onboard_time": 1764602723,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114984,
       "num": 100084,
       "word": "2025仅剩一个月",
@@ -4323,6 +4339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112867,
+      "num": 112867,
+      "word": "张奕然李煜东合照",
+      "onboard_time": 1764603501,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 112642,
       "num": 1220228,
       "word": "静电可以给手机充电吗",
@@ -4369,6 +4393,14 @@
       "onboard_time": 1764499101,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 111704,
+      "num": 109537,
+      "word": "疯狂动物城3 飞禽",
+      "onboard_time": 1764603622,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 111482,
@@ -4593,14 +4625,6 @@
       "onboard_time": 1764468680,
       "rank": 34,
       "category": "教育"
-    },
-    {
-      "raw_hot": 105386,
-      "num": 105386,
-      "word": "我有个烧钱且小众的爱好",
-      "onboard_time": 1764599183,
-      "rank": 31,
-      "category": "情感,休闲"
     },
     {
       "raw_hot": 105319,
@@ -4851,6 +4875,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 98387,
+      "num": 107940,
+      "word": "电影院凭什么不让拍",
+      "onboard_time": 1764601582,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 98280,
       "num": 98280,
       "word": "实践二十八号卫星发射成功",
@@ -4897,14 +4929,6 @@
       "onboard_time": 1764502341,
       "rank": 41,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 97119,
-      "num": 97119,
-      "word": "电影院凭什么不让拍",
-      "onboard_time": 1764601582,
-      "rank": 32,
-      "category": "电影"
     },
     {
       "raw_hot": 97025,
@@ -5065,14 +5089,6 @@
       "onboard_time": 1764430703,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93340,
-      "num": 93340,
-      "word": "邓佳鑫vlog",
-      "onboard_time": 1764602723,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 92975,
@@ -5809,6 +5825,14 @@
       "onboard_time": 1764514882,
       "rank": 14,
       "category": "演出"
+    },
+    {
+      "raw_hot": 72743,
+      "num": 107895,
+      "word": "妻子婚内与人同居被判赔丈夫8000元",
+      "onboard_time": 1764603863,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 72527,
