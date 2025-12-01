@@ -1,7 +1,15 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764568181066,
+  "endTime": 1764571402531,
   "band_list": [
+    {
+      "raw_hot": 2150390,
+      "num": 267090,
+      "word": "张继科 张蕊",
+      "onboard_time": 1764566423,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
     {
       "raw_hot": 2134222,
       "num": 184331,
@@ -9,14 +17,6 @@
       "onboard_time": 1764519141,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2051793,
-      "num": 267090,
-      "word": "张继科 张蕊",
-      "onboard_time": 1764566423,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1469657,
@@ -33,6 +33,14 @@
       "onboard_time": 1764559941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1024327,
+      "num": 269730,
+      "word": "郝蕾 我说的不是辛芷蕾",
+      "onboard_time": 1764568761,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 950543,
@@ -107,6 +115,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 535840,
+      "num": 1085734,
+      "word": "宁德时代发布涨薪通知",
+      "onboard_time": 1764569421,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 522623,
       "num": 522623,
       "word": "朱志鑫 劳力士",
@@ -121,6 +137,14 @@
       "onboard_time": 1764511882,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 508174,
+      "num": 326467,
+      "word": "被性恋",
+      "onboard_time": 1764564504,
+      "rank": 15,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 491336,
@@ -283,6 +307,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336922,
+      "num": 187717,
+      "word": "朱珠老公 下次我背个行车记录仪",
+      "onboard_time": 1764567442,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336224,
       "num": 234106,
       "word": "肖战妆造最浓的一次",
@@ -329,14 +361,6 @@
       "onboard_time": 1764515063,
       "rank": 21,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 326467,
-      "num": 326467,
-      "word": "被性恋",
-      "onboard_time": 1764564504,
-      "rank": 15,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 323418,
@@ -419,6 +443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 260918,
+      "num": 260918,
+      "word": "VOGUE年度最佳着装提名名单",
+      "onboard_time": 1764568882,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 257861,
       "num": 234070,
       "word": "iPhone用户的尴尬瞬间",
@@ -475,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 227215,
+      "num": 186786,
+      "word": "李雪琴评孟子义素颜状态",
+      "onboard_time": 1764570382,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224651,
       "num": 224651,
       "word": "枭起青壤热度为什么上不去",
@@ -507,6 +547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212541,
+      "num": 212541,
+      "word": "家业剧组维权",
+      "onboard_time": 1764570141,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 208192,
       "num": 208192,
       "word": "肖战彭昱畅周依然得闲谨制预告",
@@ -521,6 +569,14 @@
       "onboard_time": 1764555861,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 206029,
+      "num": 185460,
+      "word": "弥补了没有陈冠希baby绯闻的遗憾",
+      "onboard_time": 1764570081,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 205504,
@@ -571,6 +627,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195884,
+      "num": 195884,
+      "word": "华策影视严正声明",
+      "onboard_time": 1764570501,
+      "rank": 18,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 192259,
       "num": 307446,
       "word": "国考的难度到底有多大",
@@ -611,6 +675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 181323,
+      "num": 181323,
+      "word": "彭小苒一件羽绒服穿了五年",
+      "onboard_time": 1764570263,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 180600,
       "num": 180600,
       "word": "原来有花瓣毛茸茸的菊花",
@@ -627,12 +699,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 178816,
-      "num": 178816,
-      "word": "朱珠老公 下次我背个行车记录仪",
-      "onboard_time": 1764567442,
-      "rank": 30,
-      "category": "艺人"
+      "raw_hot": 175210,
+      "num": 175210,
+      "word": "卢昱晓 桃黑黑是国草",
+      "onboard_time": 1764570742,
+      "rank": 27,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 171390,
@@ -640,6 +712,14 @@
       "word": "深圳开挖巨型垃圾山",
       "onboard_time": 1764567144,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167784,
+      "num": 193967,
+      "word": "为骗老人10万元109人炒股群108个托",
+      "onboard_time": 1764568761,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -692,7 +772,7 @@
     },
     {
       "raw_hot": 160679,
-      "num": 160679,
+      "num": 182957,
       "word": "雷军",
       "onboard_time": 1764564923,
       "rank": 40,
@@ -899,6 +979,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136299,
+      "num": 136299,
+      "word": "曝iPhone折叠屏手机无折痕",
+      "onboard_time": 1764570861,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 135721,
       "num": 208637,
       "word": "湖人7连胜",
@@ -921,6 +1009,14 @@
       "onboard_time": 1764550579,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133804,
+      "num": 275794,
+      "word": "罗永浩的科技春晚回来了",
+      "onboard_time": 1764570081,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 133438,
@@ -1019,6 +1115,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117781,
+      "num": 117781,
+      "word": "日本部署中导将是介入台海第一步",
+      "onboard_time": 1764568342,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 116020,
+      "num": 116020,
+      "word": "日本向青少年灌输军国主义",
+      "onboard_time": 1764568882,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 114984,
       "num": 100084,
       "word": "2025仅剩一个月",
@@ -1035,12 +1147,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 114437,
+      "num": 114437,
+      "word": "全网都在找杨旭文",
+      "onboard_time": 1764568702,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114231,
       "num": 107872,
       "word": "徐璐臣妾有一妹妹堪称国色",
       "onboard_time": 1764544637,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114110,
+      "num": 114110,
+      "word": "老外是不是对卫生巾有什么误解",
+      "onboard_time": 1764570501,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 111085,
@@ -1131,6 +1259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89983,
+      "num": 174654,
+      "word": "艾顿在湖人找到了自己的舒适区",
+      "onboard_time": 1764570981,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89037,
       "num": 89037,
       "word": "果然全世界都要考公啊",
@@ -1176,6 +1312,14 @@
       "word": "声鸣远扬选手回应撞脸朱一龙",
       "onboard_time": 1764519082,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81809,
+      "num": 114746,
+      "word": "第一次见王安宇急出眼泪",
+      "onboard_time": 1764569842,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -1329,6 +1473,14 @@
       "onboard_time": 1764536293,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 62437,
+      "num": 136388,
+      "word": "东契奇里夫斯合砍67分",
+      "onboard_time": 1764571102,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 62120,
@@ -1523,6 +1675,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34654,
+      "num": 129047,
+      "word": "交房不到2年外墙全脱落",
+      "onboard_time": 1764570081,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 33577,
       "num": 42127,
       "word": "可能创下吉尼斯最快脱袜纪录",
@@ -1537,6 +1697,14 @@
       "onboard_time": 1764522556,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30741,
+      "num": 136316,
+      "word": "颜如晶完成全马",
+      "onboard_time": 1764571282,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 29444,
@@ -1595,6 +1763,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 20426,
+      "num": 136339,
+      "word": "偶遇董卿看疯狂动物城",
+      "onboard_time": 1764571041,
+      "rank": 38,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 19113,
       "num": 154788,
       "word": "男子6天数次高空抛砖未重视酿命案",
@@ -1643,12 +1819,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 7407,
+      "raw_hot": 9401,
       "num": 951357,
       "word": "12月起这些新规开始施行",
       "onboard_time": 1764493460,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 7362,
+      "num": 136365,
+      "word": "女子保险等待期患癌理赔被拒",
+      "onboard_time": 1764571282,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7298,

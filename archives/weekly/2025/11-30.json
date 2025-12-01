@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764568181066,
+  "endTime": 1764571402531,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -11,20 +11,20 @@
       "category": "教育"
     },
     {
+      "raw_hot": 2150390,
+      "num": 267090,
+      "word": "张继科 张蕊",
+      "onboard_time": 1764566423,
+      "rank": 20,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 2134222,
       "num": 184331,
       "word": "女性生育3到4个子女死亡风险最低",
       "onboard_time": 1764519141,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2051793,
-      "num": 267090,
-      "word": "张继科 张蕊",
-      "onboard_time": 1764566423,
-      "rank": 20,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 1837550,
@@ -153,6 +153,14 @@
       "onboard_time": 1764466280,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1024327,
+      "num": 269730,
+      "word": "郝蕾 我说的不是辛芷蕾",
+      "onboard_time": 1764568761,
+      "rank": 10,
+      "category": "电影"
     },
     {
       "raw_hot": 951929,
@@ -419,6 +427,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 535840,
+      "num": 1085734,
+      "word": "宁德时代发布涨薪通知",
+      "onboard_time": 1764569421,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 534617,
       "num": 278223,
       "word": "繁殖犬难产被剖腹取崽后丢弃",
@@ -457,6 +473,14 @@
       "onboard_time": 1764490581,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 508174,
+      "num": 326467,
+      "word": "被性恋",
+      "onboard_time": 1764564504,
+      "rank": 15,
+      "category": "幽默,休闲"
     },
     {
       "raw_hot": 501240,
@@ -851,6 +875,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 336922,
+      "num": 187717,
+      "word": "朱珠老公 下次我背个行车记录仪",
+      "onboard_time": 1764567442,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 336224,
       "num": 234106,
       "word": "肖战妆造最浓的一次",
@@ -921,14 +953,6 @@
       "onboard_time": 1764515063,
       "rank": 22,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 326467,
-      "num": 326467,
-      "word": "被性恋",
-      "onboard_time": 1764564504,
-      "rank": 15,
-      "category": "幽默,休闲"
     },
     {
       "raw_hot": 323418,
@@ -1139,6 +1163,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260918,
+      "num": 260918,
+      "word": "VOGUE年度最佳着装提名名单",
+      "onboard_time": 1764568882,
+      "rank": 14,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 257861,
       "num": 234070,
       "word": "iPhone用户的尴尬瞬间",
@@ -1249,6 +1281,14 @@
       "onboard_time": 1764485299,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227215,
+      "num": 186786,
+      "word": "李雪琴评孟子义素颜状态",
+      "onboard_time": 1764570382,
+      "rank": 23,
+      "category": "综艺"
     },
     {
       "raw_hot": 227156,
@@ -1371,6 +1411,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 212541,
+      "num": 212541,
+      "word": "家业剧组维权",
+      "onboard_time": 1764570141,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 211618,
       "num": 211618,
       "word": "闪耀暖暖",
@@ -1417,6 +1465,14 @@
       "onboard_time": 1764495441,
       "rank": 47,
       "category": "教育"
+    },
+    {
+      "raw_hot": 206029,
+      "num": 185460,
+      "word": "弥补了没有陈冠希baby绯闻的遗憾",
+      "onboard_time": 1764570081,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 205934,
@@ -1529,6 +1585,14 @@
       "onboard_time": 1764557300,
       "rank": 33,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 195884,
+      "num": 195884,
+      "word": "华策影视严正声明",
+      "onboard_time": 1764570501,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 195676,
@@ -1683,6 +1747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 181323,
+      "num": 181323,
+      "word": "彭小苒一件羽绒服穿了五年",
+      "onboard_time": 1764570263,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 181233,
       "num": 142153,
       "word": "王丽坤前夫资产被拍卖",
@@ -1723,14 +1795,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 178816,
-      "num": 178816,
-      "word": "朱珠老公 下次我背个行车记录仪",
-      "onboard_time": 1764567442,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177046,
       "num": 177046,
       "word": "枭起青壤是懂反转的",
@@ -1745,6 +1809,14 @@
       "onboard_time": 1764465682,
       "rank": 25,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175210,
+      "num": 175210,
+      "word": "卢昱晓 桃黑黑是国草",
+      "onboard_time": 1764570742,
+      "rank": 27,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 174439,
@@ -1809,6 +1881,14 @@
       "onboard_time": 1764460818,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167784,
+      "num": 193967,
+      "word": "为骗老人10万元109人炒股群108个托",
+      "onboard_time": 1764568761,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167316,
@@ -1940,7 +2020,7 @@
     },
     {
       "raw_hot": 160679,
-      "num": 160679,
+      "num": 182957,
       "word": "雷军",
       "onboard_time": 1764564923,
       "rank": 40,
@@ -2379,6 +2459,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 136299,
+      "num": 136299,
+      "word": "曝iPhone折叠屏手机无折痕",
+      "onboard_time": 1764570861,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 136109,
       "num": 136109,
       "word": "高铁特等座包间被吐槽像会议室",
@@ -2409,6 +2497,14 @@
       "onboard_time": 1764550579,
       "rank": 29,
       "category": "美食"
+    },
+    {
+      "raw_hot": 133804,
+      "num": 275794,
+      "word": "罗永浩的科技春晚回来了",
+      "onboard_time": 1764570081,
+      "rank": 7,
+      "category": "互联网"
     },
     {
       "raw_hot": 133756,
@@ -2843,6 +2939,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 117781,
+      "num": 117781,
+      "word": "日本部署中导将是介入台海第一步",
+      "onboard_time": 1764568342,
+      "rank": 43,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 117763,
       "num": 117763,
       "word": "兔子这一眼给我笑富了",
@@ -2923,6 +3027,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 116020,
+      "num": 116020,
+      "word": "日本向青少年灌输军国主义",
+      "onboard_time": 1764568882,
+      "rank": 44,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 115880,
       "num": 115880,
       "word": "郑思维儿子给黄雅琼刘雨辰当花童",
@@ -2963,6 +3075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 114437,
+      "num": 114437,
+      "word": "全网都在找杨旭文",
+      "onboard_time": 1764568702,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 114358,
       "num": 114358,
       "word": "唐诡方丈cos诡舍反派",
@@ -2977,6 +3097,14 @@
       "onboard_time": 1764544637,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114110,
+      "num": 114110,
+      "word": "老外是不是对卫生巾有什么误解",
+      "onboard_time": 1764570501,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 114096,
@@ -3659,6 +3787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 89983,
+      "num": 174654,
+      "word": "艾顿在湖人找到了自己的舒适区",
+      "onboard_time": 1764570981,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89922,
       "num": 313560,
       "word": "医生提醒出现这些症状小心是皮肤病",
@@ -3928,6 +4064,14 @@
       "word": "声鸣远扬选手回应撞脸朱一龙",
       "onboard_time": 1764519082,
       "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 81809,
+      "num": 114746,
+      "word": "第一次见王安宇急出眼泪",
+      "onboard_time": 1764569842,
+      "rank": 45,
       "category": "综艺"
     },
     {
@@ -4265,6 +4409,14 @@
       "onboard_time": 1764490700,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 62437,
+      "num": 136388,
+      "word": "东契奇里夫斯合砍67分",
+      "onboard_time": 1764571102,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 62120,
@@ -4691,6 +4843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 34654,
+      "num": 129047,
+      "word": "交房不到2年外墙全脱落",
+      "onboard_time": 1764570081,
+      "rank": 41,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 34567,
       "num": 286673,
       "word": "上马赛后如何进行营养恢复",
@@ -4729,6 +4889,14 @@
       "onboard_time": 1764522556,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 30741,
+      "num": 136316,
+      "word": "颜如晶完成全马",
+      "onboard_time": 1764571282,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 30504,
@@ -4915,6 +5083,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20426,
+      "num": 136339,
+      "word": "偶遇董卿看疯狂动物城",
+      "onboard_time": 1764571041,
+      "rank": 38,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 19113,
       "num": 154788,
       "word": "男子6天数次高空抛砖未重视酿命案",
@@ -4995,6 +5171,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 9401,
+      "num": 951357,
+      "word": "12月起这些新规开始施行",
+      "onboard_time": 1764493460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 8688,
       "num": 34842,
       "word": "BIES王者荣耀",
@@ -5003,12 +5187,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 7407,
-      "num": 951357,
-      "word": "12月起这些新规开始施行",
-      "onboard_time": 1764493460,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 7362,
+      "num": 136365,
+      "word": "女子保险等待期患癌理赔被拒",
+      "onboard_time": 1764571282,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 7298,
