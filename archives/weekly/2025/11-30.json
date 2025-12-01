@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764593810060,
+  "endTime": 1764594731334,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -123,8 +123,8 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1256052,
-      "num": 1256052,
+      "raw_hot": 1257107,
+      "num": 1257107,
       "word": "高市早苗被爆花8384万日元仍惨败",
       "onboard_time": 1764591082,
       "rank": 0,
@@ -160,6 +160,14 @@
       "word": "陈伟霆说基本上全世界男人都这样",
       "onboard_time": 1764479542,
       "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1105113,
+      "num": 281864,
+      "word": "星光大赏",
+      "onboard_time": 1764589822,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -249,14 +257,6 @@
       "onboard_time": 1764461660,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 899550,
-      "num": 281864,
-      "word": "星光大赏",
-      "onboard_time": 1764589822,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 883597,
@@ -499,6 +499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 562785,
+      "num": 268115,
+      "word": "应届硕士偷偷参加国考",
+      "onboard_time": 1764592942,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 561160,
       "num": 329846,
       "word": "已上岸丈夫送怀孕妻子国考",
@@ -603,8 +611,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 515918,
-      "num": 198535,
+      "raw_hot": 522165,
+      "num": 221822,
       "word": "33岁清华女硕士驻村干部因病去世",
       "onboard_time": 1764590602,
       "rank": 10,
@@ -875,6 +883,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 408186,
+      "num": 221294,
+      "word": "偶遇李纯马頔挽手逛街",
+      "onboard_time": 1764592282,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 403739,
       "num": 233855,
       "word": "华晨宇 欢迎同行来抄",
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 401839,
-      "num": 216709,
+      "num": 219773,
       "word": "25岁小伙离世2小时后被公司设为离职",
       "onboard_time": 1764588682,
       "rank": 19,
@@ -921,6 +937,14 @@
       "onboard_time": 1764492501,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393267,
+      "num": 220129,
+      "word": "内娱观众 如饥似渴",
+      "onboard_time": 1764590423,
+      "rank": 12,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 393194,
@@ -985,14 +1009,6 @@
       "onboard_time": 1764544698,
       "rank": 12,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 376103,
-      "num": 196553,
-      "word": "内娱观众 如饥似渴",
-      "onboard_time": 1764590423,
-      "rank": 12,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 376024,
@@ -1219,14 +1235,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 323404,
-      "num": 195080,
-      "word": "偶遇李纯马頔挽手逛街",
-      "onboard_time": 1764592282,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 322691,
       "num": 849907,
       "word": "长安二十四计",
@@ -1305,6 +1313,14 @@
       "onboard_time": 1764575362,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 302629,
+      "num": 215597,
+      "word": "环卫工被故意文粗眉被迫花2万",
+      "onboard_time": 1764593242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 302540,
@@ -1771,14 +1787,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217165,
-      "num": 193229,
-      "word": "应届硕士偷偷参加国考",
-      "onboard_time": 1764592942,
-      "rank": 16,
-      "category": "教育"
-    },
-    {
       "raw_hot": 216818,
       "num": 216818,
       "word": "2026年国考371.8万人",
@@ -1819,6 +1827,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 212984,
+      "num": 212984,
+      "word": "吸毒者是艾滋病的高发人群",
+      "onboard_time": 1764590122,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 212864,
       "num": 212864,
       "word": "国考言语",
@@ -1849,6 +1865,14 @@
       "onboard_time": 1764588622,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 209531,
+      "num": 209531,
+      "word": "TF家族冒泡",
+      "onboard_time": 1764591802,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 208566,
@@ -1899,6 +1923,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 206886,
+      "num": 206886,
+      "word": "顾客买鞋子仅退款发AI图",
+      "onboard_time": 1764590602,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205934,
       "num": 205934,
       "word": "马嘉祺小黑猫塑",
@@ -1945,6 +1977,14 @@
       "onboard_time": 1764550699,
       "rank": 22,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 203277,
+      "num": 203277,
+      "word": "哥哥来泡茶称与爷爷不泡茶无关",
+      "onboard_time": 1764592882,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 201430,
@@ -2115,14 +2155,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 189945,
-      "num": 189945,
-      "word": "TF家族冒泡",
-      "onboard_time": 1764591802,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189686,
       "num": 850762,
       "word": "秦彻血月玫瑰",
@@ -2143,14 +2175,6 @@
       "num": 166667,
       "word": "离异夫妻一夜间相继坠河均已离世",
       "onboard_time": 1764462499,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 187875,
-      "num": 187875,
-      "word": "顾客买鞋子仅退款发AI图",
-      "onboard_time": 1764590602,
       "rank": 22,
       "category": "民生新闻"
     },
@@ -2347,6 +2371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 174136,
+      "num": 174136,
+      "word": "终于有剧不为了美随意换衣服了",
+      "onboard_time": 1764590782,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 173799,
       "num": 173799,
       "word": "解放军报三个行不通警告日本",
@@ -2369,6 +2401,14 @@
       "onboard_time": 1764500120,
       "rank": 24,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 171541,
+      "num": 153769,
+      "word": "孙颖莎拿下比赛笑得很开心",
+      "onboard_time": 1764594264,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 171390,
@@ -2401,6 +2441,14 @@
       "onboard_time": 1764460818,
       "rank": 19,
       "category": "演出"
+    },
+    {
+      "raw_hot": 167366,
+      "num": 223295,
+      "word": "国乒2连胜",
+      "onboard_time": 1764594143,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 167316,
@@ -2451,6 +2499,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166467,
+      "num": 166467,
+      "word": "国乒8比0埃及",
+      "onboard_time": 1764594143,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 166116,
       "num": 134205,
       "word": "年龄大了知道钱的重要性了",
@@ -2489,14 +2545,6 @@
       "onboard_time": 1764460878,
       "rank": 24,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 164143,
-      "num": 164143,
-      "word": "终于有剧不为了美随意换衣服了",
-      "onboard_time": 1764590782,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 163599,
@@ -2553,14 +2601,6 @@
       "onboard_time": 1764473482,
       "rank": 33,
       "category": "教育"
-    },
-    {
-      "raw_hot": 161211,
-      "num": 161211,
-      "word": "吸毒者是艾滋病的高发人群",
-      "onboard_time": 1764590122,
-      "rank": 25,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 161110,
@@ -2921,6 +2961,14 @@
       "onboard_time": 1764566002,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145124,
+      "num": 145124,
+      "word": "李乃文疑似在大孤山当地陪",
+      "onboard_time": 1764594502,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 144886,
@@ -3323,6 +3371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128345,
+      "num": 128345,
+      "word": "Tarzan叫Viper老公",
+      "onboard_time": 1764593723,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128278,
       "num": 128278,
       "word": "黄雅琼太漂亮了",
@@ -3344,6 +3400,14 @@
       "word": "水晶宫1比2曼联",
       "onboard_time": 1764511702,
       "rank": 40,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 127754,
+      "num": 127754,
+      "word": "中国男篮 练投篮",
+      "onboard_time": 1764594323,
+      "rank": 36,
       "category": "体育"
     },
     {
@@ -3465,6 +3529,14 @@
       "onboard_time": 1764475820,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124807,
+      "num": 124807,
+      "word": "孙颖莎突然想到还没握手",
+      "onboard_time": 1764594143,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 124707,
@@ -3843,6 +3915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115016,
+      "num": 115016,
+      "word": "女儿回应老人花10元剃头满头血痂",
+      "onboard_time": 1764592762,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 114984,
       "num": 100084,
       "word": "2025仅剩一个月",
@@ -3929,14 +4009,6 @@
       "onboard_time": 1764485241,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 113615,
-      "num": 113615,
-      "word": "Tarzan叫Viper老公",
-      "onboard_time": 1764593723,
-      "rank": 44,
-      "category": "电竞"
     },
     {
       "raw_hot": 113536,
@@ -4057,6 +4129,14 @@
       "onboard_time": 1764482901,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 110420,
+      "num": 217610,
+      "word": "人民日报谈小米集团高质量发展",
+      "onboard_time": 1764594264,
+      "rank": 15,
+      "category": "互联网"
     },
     {
       "raw_hot": 110290,
@@ -5140,18 +5220,10 @@
     },
     {
       "raw_hot": 82888,
-      "num": 126785,
+      "num": 268386,
       "word": "联合国3个词为中国方案点赞",
       "onboard_time": 1764581903,
       "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 82706,
-      "num": 192097,
-      "word": "哥哥来泡茶称与爷爷不泡茶无关",
-      "onboard_time": 1764592882,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -5267,14 +5339,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 79136,
-      "num": 191150,
-      "word": "环卫工被故意文粗眉被迫花2万",
-      "onboard_time": 1764593242,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 79130,
       "num": 144851,
       "word": "艾滋病自愿咨询检测结果仅本人可查",
@@ -5321,6 +5385,14 @@
       "onboard_time": 1764562822,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 76884,
+      "num": 127128,
+      "word": "杨紫国色芳华海报曾被短剧抄袭",
+      "onboard_time": 1764593482,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 76883,
@@ -5755,6 +5827,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 57232,
+      "num": 861276,
+      "word": "预防流感八问八答",
+      "onboard_time": 1764585202,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 56986,
       "num": 56986,
       "word": "12月文案",
@@ -5833,14 +5913,6 @@
       "onboard_time": 1764512122,
       "rank": 19,
       "category": "民生新闻,财经"
-    },
-    {
-      "raw_hot": 53601,
-      "num": 861276,
-      "word": "预防流感八问八答",
-      "onboard_time": 1764585202,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 52824,
@@ -6179,6 +6251,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36935,
+      "num": 127216,
+      "word": "短剧抄袭的底线在哪",
+      "onboard_time": 1764594443,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36566,
       "num": 91225,
       "word": "王昶陈旭君2比1刘毅曾维瀚",
@@ -6339,14 +6419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28770,
-      "num": 123999,
-      "word": "杨紫国色芳华海报曾被短剧抄袭",
-      "onboard_time": 1764593482,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 28320,
       "num": 110613,
       "word": "大学教授遭精神病人杀害案家属发声",
@@ -6425,6 +6497,14 @@
       "onboard_time": 1764515241,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24916,
+      "num": 215072,
+      "word": "平台赴俄机票预订量大涨近5倍",
+      "onboard_time": 1764594022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 24528,
@@ -6579,6 +6659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14696,
+      "num": 214441,
+      "word": "为徒步穿越中国他提前切掉阑尾",
+      "onboard_time": 1764594383,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14588,
       "num": 193593,
       "word": "女婴病危家长质疑月嫂照顾最新进展",
@@ -6609,6 +6697,14 @@
       "onboard_time": 1764571282,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12208,
+      "num": 127097,
+      "word": "武契奇回应美制裁塞石油工业公司",
+      "onboard_time": 1764593423,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11879,
@@ -6643,14 +6739,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10586,
-      "num": 124386,
-      "word": "武契奇回应美制裁塞石油工业公司",
-      "onboard_time": 1764593423,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 10354,
       "num": 34294,
       "word": "即刻上场",
@@ -6671,6 +6759,14 @@
       "num": 154014,
       "word": "灵隐寺免门票首日预约已满",
       "onboard_time": 1764563543,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6456,
+      "num": 127257,
+      "word": "违规土葬父亲后被挖坟的官司胜诉",
+      "onboard_time": 1764594622,
       "rank": 38,
       "category": "民生新闻"
     },
