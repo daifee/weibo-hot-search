@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764582591705,
+  "endTime": 1764585185666,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -67,6 +67,22 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1209126,
+      "num": 1209126,
+      "word": "香港火灾已致151人遇难",
+      "onboard_time": 1764581302,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1081304,
+      "num": 1081304,
+      "word": "BLG官宣Viper加入",
+      "onboard_time": 1764584181,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 1024327,
       "num": 481732,
       "word": "郝蕾 我说的不是辛芷蕾",
@@ -97,14 +113,6 @@
       "onboard_time": 1764512722,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 917099,
-      "num": 1146735,
-      "word": "香港火灾已致151人遇难",
-      "onboard_time": 1764581302,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 830374,
@@ -153,6 +161,14 @@
       "onboard_time": 1764569421,
       "rank": 0,
       "category": "财经"
+    },
+    {
+      "raw_hot": 636648,
+      "num": 197679,
+      "word": "刘耀文直播",
+      "onboard_time": 1764584181,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 627439,
@@ -243,6 +259,14 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 506201,
+      "num": 506201,
+      "word": "疯狂动物城 吃肉",
+      "onboard_time": 1764581063,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 491336,
       "num": 1078613,
       "word": "中国人在太空存粮多得超乎想象",
@@ -291,20 +315,20 @@
       "category": "情感"
     },
     {
+      "raw_hot": 454485,
+      "num": 210552,
+      "word": "月薪一万八但无意义的工作",
+      "onboard_time": 1764579262,
+      "rank": 20,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 451100,
       "num": 1072176,
       "word": "英超球队向中国球迷道歉",
       "onboard_time": 1764555020,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 446846,
-      "num": 210552,
-      "word": "月薪一万八但无意义的工作",
-      "onboard_time": 1764579262,
-      "rank": 20,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 434499,
@@ -545,6 +569,14 @@
       "onboard_time": 1764494122,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 312365,
+      "num": 169335,
+      "word": "任素汐新角色开局被骗婚",
+      "onboard_time": 1764578302,
+      "rank": 21,
+      "category": "剧集"
     },
     {
       "raw_hot": 304692,
@@ -843,6 +875,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 203897,
+      "num": 203897,
+      "word": "王励勤希望大家不仅关注金牌归属",
+      "onboard_time": 1764584482,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "故意传播艾滋病涉嫌违法犯罪",
@@ -865,6 +905,14 @@
       "onboard_time": 1764579623,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197780,
+      "num": 197780,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1764584422,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 197538,
@@ -899,14 +947,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 195233,
-      "num": 180695,
-      "word": "疯狂动物城 吃肉",
-      "onboard_time": 1764581063,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 194775,
       "num": 482405,
       "word": "官方通报广州沙园地铁站附近突发火情",
@@ -929,6 +969,14 @@
       "onboard_time": 1764582262,
       "rank": 9,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 189301,
+      "num": 189301,
+      "word": "刘芮麟喊肖战战战",
+      "onboard_time": 1764583042,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 186823,
@@ -1049,6 +1097,14 @@
       "onboard_time": 1764515421,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 163599,
+      "num": 163599,
+      "word": "曝GALA走是因为TheShy不打了",
+      "onboard_time": 1764584242,
+      "rank": 24,
+      "category": "电竞"
     },
     {
       "raw_hot": 161725,
@@ -1331,6 +1387,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 135904,
+      "num": 135904,
+      "word": "王楚钦采访逗乐孙颖莎蒯曼",
+      "onboard_time": 1764583343,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135721,
       "num": 208637,
       "word": "湖人7连胜",
@@ -1401,6 +1465,14 @@
       "onboard_time": 1764568041,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 129418,
+      "num": 129418,
+      "word": "近视手术2年后的真实感受",
+      "onboard_time": 1764583882,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 128278,
@@ -1579,6 +1651,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 112345,
+      "num": 112345,
+      "word": "罗晋谈孔乙己的长衫",
+      "onboard_time": 1764583222,
+      "rank": 33,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 111414,
       "num": 111414,
       "word": "妈妈花2小时帮我投了1个岗位",
@@ -1609,6 +1689,14 @@
       "onboard_time": 1764509843,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 106947,
+      "num": 106947,
+      "word": "耳鸣其实是身体发出的警告",
+      "onboard_time": 1764582803,
+      "rank": 43,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106463,
@@ -1707,6 +1795,22 @@
       "category": "数码,财经"
     },
     {
+      "raw_hot": 99969,
+      "num": 99969,
+      "word": "张杰别递麦了我唱不上去",
+      "onboard_time": 1764582382,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 99793,
+      "num": 1137892,
+      "word": "罗永浩将盲测高档音响",
+      "onboard_time": 1764583284,
+      "rank": 1,
+      "category": "互联网,数码"
+    },
+    {
       "raw_hot": 99337,
       "num": 99337,
       "word": "枭起青壤谐音梗",
@@ -1745,14 +1849,6 @@
       "onboard_time": 1764507743,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96275,
-      "num": 96275,
-      "word": "张杰别递麦了我唱不上去",
-      "onboard_time": 1764582382,
-      "rank": 43,
-      "category": "演出"
     },
     {
       "raw_hot": 96086,
@@ -1995,6 +2091,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 74394,
+      "num": 172275,
+      "word": "百万级后排大沙发",
+      "onboard_time": 1764583403,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 72823,
       "num": 91613,
       "word": "疯狂动物城2的翻译完全天才来的",
@@ -2139,6 +2243,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 62277,
+      "num": 108611,
+      "word": "外卖餐饮店营业额24万利润2万7",
+      "onboard_time": 1764584541,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 62120,
       "num": 62120,
       "word": "汪苏泷给场外观众准备了姜茶",
@@ -2188,7 +2300,7 @@
     },
     {
       "raw_hot": 58222,
-      "num": 131244,
+      "num": 131383,
       "word": "华为MateX7升级到底有多大",
       "onboard_time": 1764581483,
       "rank": 29,
@@ -2267,6 +2379,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 46484,
+      "num": 176072,
+      "word": "香港大埔已完成5栋大楼搜索",
+      "onboard_time": 1764583522,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 45641,
       "num": 126649,
       "word": "日本国脚露出马脚",
@@ -2339,8 +2459,16 @@
       "category": "电影"
     },
     {
+      "raw_hot": 42826,
+      "num": 108608,
+      "word": "假奶粉 成本2元",
+      "onboard_time": 1764583941,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42680,
-      "num": 233988,
+      "num": 1091648,
       "word": "寒潮来了局地降14至16摄氏度",
       "onboard_time": 1764561623,
       "rank": 19,
@@ -2515,6 +2643,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23946,
+      "num": 111345,
+      "word": "专家称北方流感基本达峰南方仍攀升",
+      "onboard_time": 1764583343,
+      "rank": 34,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 23892,
       "num": 27430,
       "word": "汪苏泷这里不让睡觉",
@@ -2553,6 +2689,14 @@
       "onboard_time": 1764556160,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17878,
+      "num": 107140,
+      "word": "真实的美国是什么样的",
+      "onboard_time": 1764585141,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 16515,
@@ -2619,10 +2763,26 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 10288,
+      "num": 118054,
+      "word": "什么样的日本又回来了",
+      "onboard_time": 1764585022,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 7298,
       "num": 154014,
       "word": "灵隐寺免门票首日预约已满",
       "onboard_time": 1764563543,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6738,
+      "num": 108631,
+      "word": "两女生住酒店凌晨遭男子刷开房门",
+      "onboard_time": 1764585082,
       "rank": 38,
       "category": "民生新闻"
     }
@@ -2633,6 +2793,9 @@
     },
     {
       "word": "#对网络乱象要敢于亮剑坚决打击#"
+    },
+    {
+      "word": "#总书记关心的这件事和你我息息相关#"
     }
   ]
 }

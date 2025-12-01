@@ -1,0 +1,410 @@
+{
+  "runTime": 1764585185666,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1209126,
+        "num": 1209126,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99793,
+        "num": 1137892,
+        "word": "罗永浩将盲测高档音响",
+        "onboard_time": 1764583284,
+        "rank": 1,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 7424,
+        "num": 1091648,
+        "word": "寒潮来了局地降14至16摄氏度",
+        "onboard_time": 1764561623,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1081304,
+        "num": 1081304,
+        "word": "BLG官宣Viper加入",
+        "onboard_time": 1764584181,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 476936,
+        "num": 511652,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 506201,
+        "num": 506201,
+        "word": "疯狂动物城 吃肉",
+        "onboard_time": 1764581063,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 289781,
+        "num": 289781,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 256107,
+        "num": 256107,
+        "word": "BLG官宣Xun加入",
+        "onboard_time": 1764580524,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 203897,
+        "num": 203897,
+        "word": "王励勤希望大家不仅关注金牌归属",
+        "onboard_time": 1764584482,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197780,
+        "num": 197780,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1764584422,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 636648,
+        "num": 197679,
+        "word": "刘耀文直播",
+        "onboard_time": 1764584181,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 518582,
+        "num": 197595,
+        "word": "葛夕上恋综 留几手破防",
+        "onboard_time": 1764576322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 502326,
+        "num": 197504,
+        "word": "感觉李晨有老人味了",
+        "onboard_time": 1764578362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 419987,
+        "num": 197311,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279608,
+        "num": 197260,
+        "word": "BLG Viper",
+        "onboard_time": 1764580763,
+        "rank": 14,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 197134,
+        "num": 197134,
+        "word": "瘦十斤再见面 这辈子是不见了吗",
+        "onboard_time": 1764578604,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 189301,
+        "num": 189301,
+        "word": "刘芮麟喊肖战战战",
+        "onboard_time": 1764583042,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 46484,
+        "num": 176072,
+        "word": "香港大埔已完成5栋大楼搜索",
+        "onboard_time": 1764583522,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172797,
+        "num": 172797,
+        "word": "怀疑我妈是地枭",
+        "onboard_time": 1764574882,
+        "rank": 18,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 74394,
+        "num": 172275,
+        "word": "百万级后排大沙发",
+        "onboard_time": 1764583403,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 454485,
+        "num": 170103,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 312365,
+        "num": 169335,
+        "word": "任素汐新角色开局被骗婚",
+        "onboard_time": 1764578302,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 262630,
+        "num": 168018,
+        "word": "葛夕约会",
+        "onboard_time": 1764582324,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 166497,
+        "num": 166497,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 23,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 163599,
+        "num": 163599,
+        "word": "曝GALA走是因为TheShy不打了",
+        "onboard_time": 1764584242,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143154,
+        "num": 143154,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 135904,
+        "num": 135904,
+        "word": "王楚钦采访逗乐孙颖莎蒯曼",
+        "onboard_time": 1764583343,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7820,
+        "num": 133978,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133605,
+        "num": 133605,
+        "word": "电动车时速超25公里就断电",
+        "onboard_time": 1764579623,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37380,
+        "num": 131383,
+        "word": "华为MateX7升级到底有多大",
+        "onboard_time": 1764581483,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 129418,
+        "num": 129418,
+        "word": "近视手术2年后的真实感受",
+        "onboard_time": 1764583882,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128655,
+        "num": 128655,
+        "word": "小胖回应改ID",
+        "onboard_time": 1764573081,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 10288,
+        "num": 118054,
+        "word": "什么样的日本又回来了",
+        "onboard_time": 1764585022,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 112345,
+        "num": 112345,
+        "word": "罗晋谈孔乙己的长衫",
+        "onboard_time": 1764583222,
+        "rank": 33,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 23946,
+        "num": 111345,
+        "word": "专家称北方流感基本达峰南方仍攀升",
+        "onboard_time": 1764583343,
+        "rank": 34,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 1090616,
+        "num": 111257,
+        "word": "明年起避孕药品和用具征收增值税",
+        "onboard_time": 1764580582,
+        "rank": 35,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 126923,
+        "num": 111231,
+        "word": "王橹杰 追晚霞",
+        "onboard_time": 1764577282,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110957,
+        "num": 110957,
+        "word": "刘诗诗小时候用这张脸捅马蜂窝",
+        "onboard_time": 1764576203,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 6738,
+        "num": 108631,
+        "word": "两女生住酒店凌晨遭男子刷开房门",
+        "onboard_time": 1764585082,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62277,
+        "num": 108611,
+        "word": "外卖餐饮店营业额24万利润2万7",
+        "onboard_time": 1764584541,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 42826,
+        "num": 108608,
+        "word": "假奶粉 成本2元",
+        "onboard_time": 1764583941,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108606,
+        "num": 108606,
+        "word": "高市早苗搂肩熊抱滑椅子",
+        "onboard_time": 1764573925,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17878,
+        "num": 107140,
+        "word": "真实的美国是什么样的",
+        "onboard_time": 1764585141,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 106947,
+        "num": 106947,
+        "word": "耳鸣其实是身体发出的警告",
+        "onboard_time": 1764582803,
+        "rank": 43,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 105889,
+        "num": 105889,
+        "word": "女律师被砸身亡后家属不敢单独出门",
+        "onboard_time": 1764579681,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102408,
+        "num": 102408,
+        "word": "广州街头突发火情疑似车油泄漏",
+        "onboard_time": 1764575362,
+        "rank": 45,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 99969,
+        "num": 99969,
+        "word": "张杰别递麦了我唱不上去",
+        "onboard_time": 1764582382,
+        "rank": 46,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 98872,
+        "num": 98872,
+        "word": "Viper上线",
+        "onboard_time": 1764574402,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98111,
+        "num": 98111,
+        "word": "日本最大在野党党首否认南京大屠杀",
+        "onboard_time": 1764574641,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94166,
+        "num": 94166,
+        "word": "曝iPhone折叠屏手机无折痕",
+        "onboard_time": 1764570861,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}
