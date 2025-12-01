@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764596535527,
+  "endTime": 1764597217857,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 1217128,
-      "num": 203200,
+      "num": 671722,
       "word": "李乃文疑似在大孤山当地陪",
       "onboard_time": 1764594502,
       "rank": 31,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 1105113,
-      "num": 396622,
+      "num": 691035,
       "word": "星光大赏",
       "onboard_time": 1764589822,
       "rank": 3,
@@ -363,6 +363,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694414,
+      "num": 694414,
+      "word": "应届硕士偷偷参加国考",
+      "onboard_time": 1764592942,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 686462,
       "num": 893827,
       "word": "Uzi 复出",
@@ -387,12 +395,12 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 670635,
-      "num": 670635,
-      "word": "应届硕士偷偷参加国考",
-      "onboard_time": 1764592942,
-      "rank": 16,
-      "category": "教育"
+      "raw_hot": 668932,
+      "num": 668932,
+      "word": "环卫工被故意文粗眉被迫花2万",
+      "onboard_time": 1764593242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660106,
@@ -401,14 +409,6 @@
       "onboard_time": 1764569421,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 642171,
-      "num": 215597,
-      "word": "环卫工被故意文粗眉被迫花2万",
-      "onboard_time": 1764593242,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 630424,
@@ -484,7 +484,7 @@
     },
     {
       "raw_hot": 571339,
-      "num": 571339,
+      "num": 676879,
       "word": "疯狂动物城 吃肉",
       "onboard_time": 1764581063,
       "rank": 30,
@@ -628,7 +628,7 @@
     },
     {
       "raw_hot": 522165,
-      "num": 221822,
+      "num": 275670,
       "word": "33岁清华女硕士驻村干部因病去世",
       "onboard_time": 1764590602,
       "rank": 10,
@@ -900,7 +900,7 @@
     },
     {
       "raw_hot": 408186,
-      "num": 221294,
+      "num": 339632,
       "word": "偶遇李纯马頔挽手逛街",
       "onboard_time": 1764592282,
       "rank": 14,
@@ -956,7 +956,7 @@
     },
     {
       "raw_hot": 393267,
-      "num": 220129,
+      "num": 238207,
       "word": "内娱观众 如饥似渴",
       "onboard_time": 1764590423,
       "rank": 12,
@@ -1284,7 +1284,7 @@
     },
     {
       "raw_hot": 317000,
-      "num": 317000,
+      "num": 671811,
       "word": "中国男篮对阵韩国两连败",
       "onboard_time": 1764590423,
       "rank": 1,
@@ -1451,6 +1451,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281960,
+      "num": 281960,
+      "word": "嘎子哥夫妇再被执行797万",
+      "onboard_time": 1764594864,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 281293,
       "num": 281293,
       "word": "肖战拒绝螺蛳粉后来真香了",
@@ -1513,6 +1521,14 @@
       "onboard_time": 1764562281,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269595,
+      "num": 269595,
+      "word": "王楚钦盛赞女队队友",
+      "onboard_time": 1764595764,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 267550,
@@ -1593,6 +1609,14 @@
       "onboard_time": 1764570382,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 243080,
+      "num": 243080,
+      "word": "晚安计划",
+      "onboard_time": 1764595043,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 237865,
@@ -1683,14 +1707,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 229050,
-      "num": 202951,
-      "word": "嘎子哥夫妇再被执行797万",
-      "onboard_time": 1764594864,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 227363,
       "num": 227363,
       "word": "解放军中部战区轰炸机跨昼夜飞训",
@@ -1777,14 +1793,6 @@
       "onboard_time": 1764564323,
       "rank": 26,
       "category": "体育"
-    },
-    {
-      "raw_hot": 219244,
-      "num": 202909,
-      "word": "晚安计划",
-      "onboard_time": 1764595043,
-      "rank": 18,
-      "category": "情感"
     },
     {
       "raw_hot": 218342,
@@ -1897,14 +1905,6 @@
       "onboard_time": 1764591802,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209529,
-      "num": 133041,
-      "word": "王楚钦盛赞女队队友",
-      "onboard_time": 1764595764,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 208566,
@@ -2027,6 +2027,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 200539,
+      "num": 200539,
+      "word": "朱志鑫的百度百科",
+      "onboard_time": 1764595644,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200163,
       "num": 482601,
       "word": "当地应急回应广州突发火情",
@@ -2105,6 +2113,14 @@
       "onboard_time": 1764508942,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 196837,
+      "num": 682695,
+      "word": "大生意人 传统长剧",
+      "onboard_time": 1764595943,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 196435,
@@ -2195,28 +2211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189485,
-      "num": 189485,
-      "word": "朱志鑫的百度百科",
-      "onboard_time": 1764595644,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189301,
       "num": 216993,
       "word": "刘芮麟喊肖战战战",
       "onboard_time": 1764583042,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188922,
-      "num": 188922,
-      "word": "大生意人 传统长剧",
-      "onboard_time": 1764595943,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 188363,
@@ -2619,6 +2619,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162204,
+      "num": 143781,
+      "word": "SofM以选手身份复出",
+      "onboard_time": 1764596244,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 162071,
       "num": 303911,
       "word": "胡先煦新剧口碑",
@@ -2696,6 +2704,14 @@
       "word": "王楚钦孙颖莎11比8黄镇廷杜凯琹",
       "onboard_time": 1764475820,
       "rank": 33,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 159898,
+      "num": 159898,
+      "word": "许昕直播全红婵是榜一",
+      "onboard_time": 1764596723,
+      "rank": 25,
       "category": "体育"
     },
     {
@@ -3027,6 +3043,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 144714,
+      "num": 144714,
+      "word": "久坐的人真的要练一练屁股",
+      "onboard_time": 1764595823,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 144639,
       "num": 144639,
       "word": "一杯咖啡能买三十个鸡蛋",
@@ -3043,6 +3067,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143868,
+      "num": 143868,
+      "word": "女儿回应老人花10元剃头满头血痂",
+      "onboard_time": 1764592762,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143838,
       "num": 612481,
       "word": "Rookie回应和jiejie争论",
@@ -3057,6 +3089,14 @@
       "onboard_time": 1764508581,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143476,
+      "num": 143476,
+      "word": "杨幂女演员的自律",
+      "onboard_time": 1764596364,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 143211,
@@ -3523,28 +3563,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126706,
-      "num": 126706,
-      "word": "SofM以选手身份复出",
-      "onboard_time": 1764596244,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 126688,
       "num": 126688,
       "word": "女子吐槽印度人不买衣服只加微信",
       "onboard_time": 1764489860,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 126374,
-      "num": 126374,
-      "word": "久坐的人真的要练一练屁股",
-      "onboard_time": 1764595823,
-      "rank": 32,
-      "category": "运动健身"
     },
     {
       "raw_hot": 125901,
@@ -3569,14 +3593,6 @@
       "onboard_time": 1764488601,
       "rank": 41,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 125320,
-      "num": 125320,
-      "word": "女儿回应老人花10元剃头满头血痂",
-      "onboard_time": 1764592762,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125200,
@@ -3604,7 +3620,7 @@
     },
     {
       "raw_hot": 124807,
-      "num": 125159,
+      "num": 132148,
       "word": "孙颖莎突然想到还没握手",
       "onboard_time": 1764594143,
       "rank": 44,
@@ -3665,6 +3681,14 @@
       "onboard_time": 1764560061,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122403,
+      "num": 132327,
+      "word": "胡歌说没有平衡好事业和家庭",
+      "onboard_time": 1764596182,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 122284,
@@ -3868,7 +3892,7 @@
     },
     {
       "raw_hot": 117863,
-      "num": 125315,
+      "num": 132305,
       "word": "Peanut关注Viper",
       "onboard_time": 1764596123,
       "rank": 34,
@@ -4204,7 +4228,7 @@
     },
     {
       "raw_hot": 110420,
-      "num": 217610,
+      "num": 303655,
       "word": "人民日报谈小米集团高质量发展",
       "onboard_time": 1764594264,
       "rank": 15,
@@ -4371,14 +4395,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 105925,
-      "num": 125226,
-      "word": "杨幂女演员的自律",
-      "onboard_time": 1764596364,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105895,
       "num": 105895,
       "word": "胡歌说在吴磊身上看到了国际化",
@@ -4523,14 +4539,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 102418,
-      "num": 125215,
-      "word": "胡歌说没有平衡好事业和家庭",
-      "onboard_time": 1764596182,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102362,
       "num": 213755,
       "word": "怪不得买的烤鸭从没见过鸭翅鸭爪",
@@ -4579,6 +4587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100630,
+      "num": 132210,
+      "word": "好有睡张力的被子",
+      "onboard_time": 1764592582,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100247,
       "num": 210275,
       "word": "男篮世预赛",
@@ -4617,6 +4633,14 @@
       "onboard_time": 1764468799,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99703,
+      "num": 132196,
+      "word": "孙玮廷晒和许玮甯合照被骂绿茶",
+      "onboard_time": 1764597023,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 99337,
@@ -4857,14 +4881,6 @@
       "onboard_time": 1764430703,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 93375,
-      "num": 125141,
-      "word": "好有睡张力的被子",
-      "onboard_time": 1764592582,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 92975,
@@ -5481,6 +5497,14 @@
       "onboard_time": 1764562822,
       "rank": 17,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 76896,
+      "num": 694000,
+      "word": "治沙人种下的10万株玫瑰长大了",
+      "onboard_time": 1764595644,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76884,
@@ -6107,6 +6131,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47005,
+      "num": 132284,
+      "word": "野人先生回应网友跟风啃冰淇淋杯",
+      "onboard_time": 1764596481,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46530,
       "num": 194683,
       "word": "美乌4小时会谈细节曝光",
@@ -6127,14 +6159,6 @@
       "num": 1050688,
       "word": "南北方同步开启干冷模式",
       "onboard_time": 1764423923,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45770,
-      "num": 446451,
-      "word": "治沙人种下的10万株玫瑰长大了",
-      "onboard_time": 1764595644,
       "rank": 2,
       "category": "民生新闻"
     },
@@ -6361,14 +6385,6 @@
       "onboard_time": 1764436517,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37408,
-      "num": 125252,
-      "word": "野人先生回应网友跟风啃冰淇淋杯",
-      "onboard_time": 1764596481,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36935,
@@ -6763,6 +6779,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17130,
+      "num": 132269,
+      "word": "疯狂动物城2反派是猫的原因",
+      "onboard_time": 1764596422,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16515,
       "num": 153942,
       "word": "台海鲲号被爆无锚海试",
@@ -6865,14 +6889,6 @@
       "onboard_time": 1764449833,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 7451,
-      "num": 125262,
-      "word": "疯狂动物城2反派是猫的原因",
-      "onboard_time": 1764596422,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 7298,

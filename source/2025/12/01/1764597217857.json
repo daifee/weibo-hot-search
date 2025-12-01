@@ -1,0 +1,410 @@
+{
+  "runTime": 1764597217857,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 773079,
+        "num": 1123692,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 694414,
+        "num": 694414,
+        "word": "应届硕士偷偷参加国考",
+        "onboard_time": 1764592942,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 76896,
+        "num": 694000,
+        "word": "治沙人种下的10万株玫瑰长大了",
+        "onboard_time": 1764595644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 762642,
+        "num": 691035,
+        "word": "星光大赏",
+        "onboard_time": 1764589822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 235120,
+        "num": 687834,
+        "word": "BLG官宣Viper加入",
+        "onboard_time": 1764584181,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 210821,
+        "num": 683790,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 196837,
+        "num": 682695,
+        "word": "大生意人 传统长剧",
+        "onboard_time": 1764595943,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 188846,
+        "num": 679127,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 237931,
+        "num": 676879,
+        "word": "疯狂动物城 吃肉",
+        "onboard_time": 1764581063,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178119,
+        "num": 671811,
+        "word": "中国男篮对阵韩国两连败",
+        "onboard_time": 1764590423,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1179500,
+        "num": 671722,
+        "word": "李乃文疑似在大孤山当地陪",
+        "onboard_time": 1764594502,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 668932,
+        "num": 668932,
+        "word": "环卫工被故意文粗眉被迫花2万",
+        "onboard_time": 1764593242,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339632,
+        "num": 339632,
+        "word": "偶遇李纯马頔挽手逛街",
+        "onboard_time": 1764592282,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 53808,
+        "num": 303655,
+        "word": "人民日报谈小米集团高质量发展",
+        "onboard_time": 1764594264,
+        "rank": 13,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 281960,
+        "num": 281960,
+        "word": "嘎子哥夫妇再被执行797万",
+        "onboard_time": 1764594864,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275670,
+        "num": 275670,
+        "word": "33岁清华女硕士驻村干部因病去世",
+        "onboard_time": 1764590602,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 269595,
+        "num": 269595,
+        "word": "王楚钦盛赞女队队友",
+        "onboard_time": 1764595764,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 243080,
+        "num": 243080,
+        "word": "晚安计划",
+        "onboard_time": 1764595043,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238207,
+        "num": 238207,
+        "word": "内娱观众 如饥似渴",
+        "onboard_time": 1764590423,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 213888,
+        "num": 213888,
+        "word": "袁湘琴骑车去二中接孩子逆行",
+        "onboard_time": 1764585683,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268805,
+        "num": 213804,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 210099,
+        "num": 210099,
+        "word": "25岁小伙离世2小时后被公司设为离职",
+        "onboard_time": 1764588682,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200539,
+        "num": 200539,
+        "word": "朱志鑫的百度百科",
+        "onboard_time": 1764595644,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173432,
+        "num": 173432,
+        "word": "顾客买鞋子仅退款发AI图",
+        "onboard_time": 1764590602,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173336,
+        "num": 173336,
+        "word": "TF家族冒泡",
+        "onboard_time": 1764591802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159898,
+        "num": 159898,
+        "word": "许昕直播全红婵是榜一",
+        "onboard_time": 1764596723,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154349,
+        "num": 154349,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152767,
+        "num": 152767,
+        "word": "中国男篮晋级形势",
+        "onboard_time": 1764595582,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144714,
+        "num": 144714,
+        "word": "久坐的人真的要练一练屁股",
+        "onboard_time": 1764595823,
+        "rank": 28,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 143868,
+        "num": 143868,
+        "word": "女儿回应老人花10元剃头满头血痂",
+        "onboard_time": 1764592762,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162204,
+        "num": 143781,
+        "word": "SofM以选手身份复出",
+        "onboard_time": 1764596244,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 143476,
+        "num": 143476,
+        "word": "杨幂女演员的自律",
+        "onboard_time": 1764596364,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139660,
+        "num": 139660,
+        "word": "终于有剧不为了美随意换衣服了",
+        "onboard_time": 1764590782,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132341,
+        "num": 132341,
+        "word": "张若昀梳了丸子头",
+        "onboard_time": 1764592642,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124265,
+        "num": 132334,
+        "word": "吸毒者是艾滋病的高发人群",
+        "onboard_time": 1764590122,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122403,
+        "num": 132327,
+        "word": "胡歌说没有平衡好事业和家庭",
+        "onboard_time": 1764596182,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117025,
+        "num": 132305,
+        "word": "Peanut关注Viper",
+        "onboard_time": 1764596123,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112915,
+        "num": 132300,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 47005,
+        "num": 132284,
+        "word": "野人先生回应网友跟风啃冰淇淋杯",
+        "onboard_time": 1764596481,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17130,
+        "num": 132269,
+        "word": "疯狂动物城2反派是猫的原因",
+        "onboard_time": 1764596422,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112623,
+        "num": 132264,
+        "word": "她这一套换下来我要休息一年",
+        "onboard_time": 1764591264,
+        "rank": 40,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 105297,
+        "num": 132244,
+        "word": "热巴杨幂惠英红 全女枭起青壤",
+        "onboard_time": 1764589581,
+        "rank": 41,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 103499,
+        "num": 132231,
+        "word": "哥哥来泡茶称与爷爷不泡茶无关",
+        "onboard_time": 1764592882,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102809,
+        "num": 132213,
+        "word": "iG官宣Gala离队",
+        "onboard_time": 1764589282,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100630,
+        "num": 132210,
+        "word": "好有睡张力的被子",
+        "onboard_time": 1764592582,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 99703,
+        "num": 132196,
+        "word": "孙玮廷晒和许玮甯合照被骂绿茶",
+        "onboard_time": 1764597023,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94185,
+        "num": 132186,
+        "word": "易烊千玺礐嶨将重启预约",
+        "onboard_time": 1764585502,
+        "rank": 46,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 91616,
+        "num": 132169,
+        "word": "刘耀文直播",
+        "onboard_time": 1764584181,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88572,
+        "num": 132161,
+        "word": "留几手 芒果TV",
+        "onboard_time": 1764588803,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 82004,
+        "num": 132148,
+        "word": "孙颖莎突然想到还没握手",
+        "onboard_time": 1764594143,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

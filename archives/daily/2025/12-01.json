@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764596535527,
+  "endTime": 1764597217857,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1217128,
-      "num": 203200,
+      "num": 671722,
       "word": "李乃文疑似在大孤山当地陪",
       "onboard_time": 1764594502,
       "rank": 31,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1105113,
-      "num": 396622,
+      "num": 691035,
       "word": "星光大赏",
       "onboard_time": 1764589822,
       "rank": 3,
@@ -171,6 +171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 694414,
+      "num": 694414,
+      "word": "应届硕士偷偷参加国考",
+      "onboard_time": 1764592942,
+      "rank": 16,
+      "category": "教育"
+    },
+    {
       "raw_hot": 686462,
       "num": 893827,
       "word": "Uzi 复出",
@@ -187,12 +195,12 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 670635,
-      "num": 670635,
-      "word": "应届硕士偷偷参加国考",
-      "onboard_time": 1764592942,
-      "rank": 16,
-      "category": "教育"
+      "raw_hot": 668932,
+      "num": 668932,
+      "word": "环卫工被故意文粗眉被迫花2万",
+      "onboard_time": 1764593242,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 660106,
@@ -201,14 +209,6 @@
       "onboard_time": 1764569421,
       "rank": 0,
       "category": "财经"
-    },
-    {
-      "raw_hot": 642171,
-      "num": 215597,
-      "word": "环卫工被故意文粗眉被迫花2万",
-      "onboard_time": 1764593242,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 627439,
@@ -228,7 +228,7 @@
     },
     {
       "raw_hot": 571339,
-      "num": 571339,
+      "num": 676879,
       "word": "疯狂动物城 吃肉",
       "onboard_time": 1764581063,
       "rank": 30,
@@ -300,7 +300,7 @@
     },
     {
       "raw_hot": 522165,
-      "num": 221822,
+      "num": 275670,
       "word": "33岁清华女硕士驻村干部因病去世",
       "onboard_time": 1764590602,
       "rank": 10,
@@ -436,7 +436,7 @@
     },
     {
       "raw_hot": 408186,
-      "num": 221294,
+      "num": 339632,
       "word": "偶遇李纯马頔挽手逛街",
       "onboard_time": 1764592282,
       "rank": 14,
@@ -468,7 +468,7 @@
     },
     {
       "raw_hot": 393267,
-      "num": 220129,
+      "num": 238207,
       "word": "内娱观众 如饥似渴",
       "onboard_time": 1764590423,
       "rank": 12,
@@ -676,7 +676,7 @@
     },
     {
       "raw_hot": 317000,
-      "num": 317000,
+      "num": 671811,
       "word": "中国男篮对阵韩国两连败",
       "onboard_time": 1764590423,
       "rank": 1,
@@ -779,6 +779,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 281960,
+      "num": 281960,
+      "word": "嘎子哥夫妇再被执行797万",
+      "onboard_time": 1764594864,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 275812,
       "num": 141976,
       "word": "疑似王鹤棣退出将门毒后",
@@ -801,6 +809,14 @@
       "onboard_time": 1764562281,
       "rank": 31,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 269595,
+      "num": 269595,
+      "word": "王楚钦盛赞女队队友",
+      "onboard_time": 1764595764,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 267550,
@@ -867,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243080,
+      "num": 243080,
+      "word": "晚安计划",
+      "onboard_time": 1764595043,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 236991,
       "num": 193868,
       "word": "独生子女真的不会感觉孤独吗",
@@ -913,14 +937,6 @@
       "onboard_time": 1764573142,
       "rank": 24,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 229050,
-      "num": 202951,
-      "word": "嘎子哥夫妇再被执行797万",
-      "onboard_time": 1764594864,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 225645,
@@ -971,14 +987,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219244,
-      "num": 202909,
-      "word": "晚安计划",
-      "onboard_time": 1764595043,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 218342,
       "num": 205245,
       "word": "假奶粉",
@@ -1017,14 +1025,6 @@
       "onboard_time": 1764591802,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 209529,
-      "num": 133041,
-      "word": "王楚钦盛赞女队队友",
-      "onboard_time": 1764595764,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 208566,
@@ -1107,6 +1107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 200539,
+      "num": 200539,
+      "word": "朱志鑫的百度百科",
+      "onboard_time": 1764595644,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200163,
       "num": 482601,
       "word": "当地应急回应广州突发火情",
@@ -1144,6 +1152,14 @@
       "word": "谁把我上班这死样拍成剧了",
       "onboard_time": 1764561322,
       "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196837,
+      "num": 682695,
+      "word": "大生意人 传统长剧",
+      "onboard_time": 1764595943,
+      "rank": 24,
       "category": "剧集"
     },
     {
@@ -1195,28 +1211,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 189485,
-      "num": 189485,
-      "word": "朱志鑫的百度百科",
-      "onboard_time": 1764595644,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 189301,
       "num": 216993,
       "word": "刘芮麟喊肖战战战",
       "onboard_time": 1764583042,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 188922,
-      "num": 188922,
-      "word": "大生意人 传统长剧",
-      "onboard_time": 1764595943,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 186823,
@@ -1395,6 +1395,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162204,
+      "num": 143781,
+      "word": "SofM以选手身份复出",
+      "onboard_time": 1764596244,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 161943,
       "num": 161943,
       "word": "中国男篮晋级形势",
@@ -1441,6 +1449,14 @@
       "onboard_time": 1764564923,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 159898,
+      "num": 159898,
+      "word": "许昕直播全红婵是榜一",
+      "onboard_time": 1764596723,
+      "rank": 25,
+      "category": "体育"
     },
     {
       "raw_hot": 159027,
@@ -1635,6 +1651,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144714,
+      "num": 144714,
+      "word": "久坐的人真的要练一练屁股",
+      "onboard_time": 1764595823,
+      "rank": 32,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 144639,
       "num": 144639,
       "word": "一杯咖啡能买三十个鸡蛋",
@@ -1651,12 +1675,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 143868,
+      "num": 143868,
+      "word": "女儿回应老人花10元剃头满头血痂",
+      "onboard_time": 1764592762,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143838,
       "num": 612481,
       "word": "Rookie回应和jiejie争论",
       "onboard_time": 1764564202,
       "rank": 8,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 143476,
+      "num": 143476,
+      "word": "杨幂女演员的自律",
+      "onboard_time": 1764596364,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 142882,
@@ -1899,36 +1939,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126706,
-      "num": 126706,
-      "word": "SofM以选手身份复出",
-      "onboard_time": 1764596244,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 126374,
-      "num": 126374,
-      "word": "久坐的人真的要练一练屁股",
-      "onboard_time": 1764595823,
-      "rank": 32,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 126342,
       "num": 126342,
       "word": "画梅一夜掉粉超190万",
       "onboard_time": 1764496220,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 125320,
-      "num": 125320,
-      "word": "女儿回应老人花10元剃头满头血痂",
-      "onboard_time": 1764592762,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 125200,
@@ -1940,7 +1956,7 @@
     },
     {
       "raw_hot": 124807,
-      "num": 125159,
+      "num": 132148,
       "word": "孙颖莎突然想到还没握手",
       "onboard_time": 1764594143,
       "rank": 44,
@@ -1969,6 +1985,14 @@
       "onboard_time": 1764560061,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122403,
+      "num": 132327,
+      "word": "胡歌说没有平衡好事业和家庭",
+      "onboard_time": 1764596182,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 122152,
@@ -2052,7 +2076,7 @@
     },
     {
       "raw_hot": 117863,
-      "num": 125315,
+      "num": 132305,
       "word": "Peanut关注Viper",
       "onboard_time": 1764596123,
       "rank": 34,
@@ -2156,7 +2180,7 @@
     },
     {
       "raw_hot": 110420,
-      "num": 217610,
+      "num": 303655,
       "word": "人民日报谈小米集团高质量发展",
       "onboard_time": 1764594264,
       "rank": 15,
@@ -2227,14 +2251,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 105925,
-      "num": 125226,
-      "word": "杨幂女演员的自律",
-      "onboard_time": 1764596364,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 105895,
       "num": 105895,
       "word": "胡歌说在吴磊身上看到了国际化",
@@ -2283,14 +2299,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102418,
-      "num": 125215,
-      "word": "胡歌说没有平衡好事业和家庭",
-      "onboard_time": 1764596182,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 102362,
       "num": 213755,
       "word": "怪不得买的烤鸭从没见过鸭翅鸭爪",
@@ -2323,6 +2331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100630,
+      "num": 132210,
+      "word": "好有睡张力的被子",
+      "onboard_time": 1764592582,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100247,
       "num": 210275,
       "word": "男篮世预赛",
@@ -2353,6 +2369,14 @@
       "onboard_time": 1764582382,
       "rank": 43,
       "category": "演出"
+    },
+    {
+      "raw_hot": 99703,
+      "num": 132196,
+      "word": "孙玮廷晒和许玮甯合照被骂绿茶",
+      "onboard_time": 1764597023,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 99337,
@@ -2417,14 +2441,6 @@
       "onboard_time": 1764582023,
       "rank": 44,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 93375,
-      "num": 125141,
-      "word": "好有睡张力的被子",
-      "onboard_time": 1764592582,
-      "rank": 49,
-      "category": "幽默"
     },
     {
       "raw_hot": 92911,
@@ -2697,6 +2713,14 @@
       "onboard_time": 1764507263,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 76896,
+      "num": 694000,
+      "word": "治沙人种下的10万株玫瑰长大了",
+      "onboard_time": 1764595644,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76884,
@@ -3011,6 +3035,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 47005,
+      "num": 132284,
+      "word": "野人先生回应网友跟风啃冰淇淋杯",
+      "onboard_time": 1764596481,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46530,
       "num": 194683,
       "word": "美乌4小时会谈细节曝光",
@@ -3024,14 +3056,6 @@
       "word": "香港大埔已完成5栋大楼搜索",
       "onboard_time": 1764583522,
       "rank": 17,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45770,
-      "num": 446451,
-      "word": "治沙人种下的10万株玫瑰长大了",
-      "onboard_time": 1764595644,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -3201,14 +3225,6 @@
       "onboard_time": 1764524115,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37408,
-      "num": 125252,
-      "word": "野人先生回应网友跟风啃冰淇淋杯",
-      "onboard_time": 1764596481,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36935,
@@ -3435,6 +3451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17130,
+      "num": 132269,
+      "word": "疯狂动物城2反派是猫的原因",
+      "onboard_time": 1764596422,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 16515,
       "num": 153942,
       "word": "台海鲲号被爆无锚海试",
@@ -3505,14 +3529,6 @@
       "onboard_time": 1764578963,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 7451,
-      "num": 125262,
-      "word": "疯狂动物城2反派是猫的原因",
-      "onboard_time": 1764596422,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 7298,
