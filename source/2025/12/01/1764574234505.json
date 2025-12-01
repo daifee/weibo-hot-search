@@ -1,0 +1,410 @@
+{
+  "runTime": 1764574234505,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 530327,
+        "num": 1084852,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 493583,
+        "num": 493583,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 7829,
+        "num": 283743,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 208473,
+        "num": 208473,
+        "word": "罗永浩抽送iPhone17被指抠",
+        "onboard_time": 1764573802,
+        "rank": 3,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93628,
+        "num": 201890,
+        "word": "长安二十四计",
+        "onboard_time": 1764553161,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 552289,
+        "num": 201801,
+        "word": "广州沙园地铁站附近突发火情",
+        "onboard_time": 1764571462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 454791,
+        "num": 201596,
+        "word": "小胖回应改ID",
+        "onboard_time": 1764573081,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 200163,
+        "num": 200163,
+        "word": "当地应急回应广州突发火情",
+        "onboard_time": 1764573442,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171661,
+        "num": 171661,
+        "word": "Uzi 复出",
+        "onboard_time": 1764555500,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 169957,
+        "num": 169957,
+        "word": "高市宣称日本又回来了",
+        "onboard_time": 1764555861,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 566260,
+        "num": 169844,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 490417,
+        "num": 168205,
+        "word": "葛夕 恋综",
+        "onboard_time": 1764571940,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 402242,
+        "num": 167610,
+        "word": "被性恋",
+        "onboard_time": 1764564504,
+        "rank": 12,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 288892,
+        "num": 167139,
+        "word": "朱珠 我没挤他",
+        "onboard_time": 1764559100,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 275286,
+        "num": 165487,
+        "word": "曝iPhone折叠屏手机无折痕",
+        "onboard_time": 1764570861,
+        "rank": 14,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 206023,
+        "num": 164499,
+        "word": "卢昱晓 桃黑黑是国草",
+        "onboard_time": 1764570742,
+        "rank": 15,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 205914,
+        "num": 164408,
+        "word": "家业剧组维权",
+        "onboard_time": 1764570141,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173219,
+        "num": 162953,
+        "word": "为骗老人10万元109人炒股群108个托",
+        "onboard_time": 1764568761,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 162625,
+        "num": 162625,
+        "word": "李雪琴评孟子义素颜状态",
+        "onboard_time": 1764570382,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31124,
+        "num": 162609,
+        "word": "28岁女子被砸中身亡案再开庭",
+        "onboard_time": 1764573081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1906865,
+        "num": 162587,
+        "word": "张继科 张蕊",
+        "onboard_time": 1764566423,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 1356507,
+        "num": 162553,
+        "word": "张继科女友前夫 白百何现任",
+        "onboard_time": 1764572122,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 248265,
+        "num": 162529,
+        "word": "马頔 你懂什么叫结婚么",
+        "onboard_time": 1764559941,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 234893,
+        "num": 162524,
+        "word": "弥补了没有陈冠希baby绯闻的遗憾",
+        "onboard_time": 1764570081,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 205000,
+        "num": 162487,
+        "word": "面对面也认不出这是罗晋",
+        "onboard_time": 1764573142,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162477,
+        "num": 162477,
+        "word": "朱珠老公 下次我背个行车记录仪",
+        "onboard_time": 1764567442,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 159027,
+        "word": "JDG官宣HongQ加入",
+        "onboard_time": 1764572601,
+        "rank": 26,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 156628,
+        "num": 156628,
+        "word": "沙园",
+        "onboard_time": 1764572360,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152680,
+        "num": 152680,
+        "word": "VOGUE年度最佳着装提名名单",
+        "onboard_time": 1764568882,
+        "rank": 28,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 151752,
+        "num": 151752,
+        "word": "能考85分偏考84分",
+        "onboard_time": 1764563961,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 166627,
+        "num": 149549,
+        "word": "朱开谈Ale为什么不打",
+        "onboard_time": 1764573202,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 146703,
+        "num": 146703,
+        "word": "官方通报店主实名举报公职人员",
+        "onboard_time": 1764564442,
+        "rank": 31,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 141568,
+        "num": 141568,
+        "word": "向佐来到康定心系郭碧婷和孩子",
+        "onboard_time": 1764573982,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131782,
+        "num": 131782,
+        "word": "别克连夜复盘辅助驾驶大赛路线",
+        "onboard_time": 1764572842,
+        "rank": 33,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 128279,
+        "num": 128279,
+        "word": "华策影视严正声明",
+        "onboard_time": 1764570501,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 104523,
+        "num": 127832,
+        "word": "神舟二十二号航天员乘组永远空缺",
+        "onboard_time": 1764555139,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 20251,
+        "num": 127199,
+        "word": "抛砖命案家属称凶手多次抛物没人管",
+        "onboard_time": 1764573681,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 28233,
+        "num": 126649,
+        "word": "日本国脚露出马脚",
+        "onboard_time": 1764574162,
+        "rank": 37,
+        "category": "国际时政,体育"
+      },
+      {
+        "raw_hot": 70082,
+        "num": 126410,
+        "word": "余茵王凯沐回应吃夜宵事件",
+        "onboard_time": 1764573681,
+        "rank": 38,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 125863,
+        "num": 125863,
+        "word": "1个剧组5个影帝影后视帝",
+        "onboard_time": 1764565102,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 121378,
+        "num": 121378,
+        "word": "婚前同居怀孕退婚后男方起诉要彩礼",
+        "onboard_time": 1764559462,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117294,
+        "num": 117294,
+        "word": "张新成古装",
+        "onboard_time": 1764573802,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116157,
+        "num": 116157,
+        "word": "Uzi上线吃瓜",
+        "onboard_time": 1764574102,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 114633,
+        "num": 114633,
+        "word": "高市早苗搂肩熊抱滑椅子",
+        "onboard_time": 1764573925,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 44279,
+        "num": 110801,
+        "word": "英一囚犯监狱里点外卖拍视频引众怒",
+        "onboard_time": 1764572781,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108535,
+        "num": 108535,
+        "word": "官方通报广州沙园地铁站附近突发火情",
+        "onboard_time": 1764574162,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106572,
+        "num": 106572,
+        "word": "刘亦菲易烊千玺 广告合作",
+        "onboard_time": 1764563543,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103912,
+        "num": 103912,
+        "word": "日本部署中导将是介入台海第一步",
+        "onboard_time": 1764568342,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101839,
+        "num": 101839,
+        "word": "秦谜",
+        "onboard_time": 1764568702,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89803,
+        "num": 101406,
+        "word": "看过疯狂动物城2就知道多还原",
+        "onboard_time": 1764572483,
+        "rank": 49,
+        "category": "电影,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
+    }
+  }
+}

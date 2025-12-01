@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764572195010,
+  "endTime": 1764574234505,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -33,6 +33,14 @@
       "onboard_time": 1764559941,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1356507,
+      "num": 162553,
+      "word": "张继科女友前夫 白百何现任",
+      "onboard_time": 1764572122,
+      "rank": 46,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1024327,
@@ -155,12 +163,28 @@
       "category": "幽默,休闲"
     },
     {
+      "raw_hot": 493583,
+      "num": 493583,
+      "word": "您有一笔退款12月1日开始确认",
+      "onboard_time": 1764571462,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491336,
       "num": 1078613,
       "word": "中国人在太空存粮多得超乎想象",
       "onboard_time": 1764550699,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 490417,
+      "num": 168205,
+      "word": "葛夕 恋综",
+      "onboard_time": 1764571940,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 489786,
@@ -185,6 +209,14 @@
       "onboard_time": 1764563961,
       "rank": 11,
       "category": "情感"
+    },
+    {
+      "raw_hot": 454791,
+      "num": 201596,
+      "word": "小胖回应改ID",
+      "onboard_time": 1764573081,
+      "rank": 6,
+      "category": "电竞"
     },
     {
       "raw_hot": 451100,
@@ -451,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 275286,
+      "num": 225225,
+      "word": "曝iPhone折叠屏手机无折痕",
+      "onboard_time": 1764570861,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 274474,
       "num": 233458,
       "word": "家业剧组维权",
@@ -531,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233898,
-      "num": 233898,
-      "word": "您有一笔退款12月1日开始确认",
-      "onboard_time": 1764571462,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 233795,
       "num": 233795,
       "word": "男跳凤凰台女跳诛仙台",
@@ -553,14 +585,6 @@
       "onboard_time": 1764568761,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 225225,
-      "num": 225225,
-      "word": "曝iPhone折叠屏手机无折痕",
-      "onboard_time": 1764570861,
-      "rank": 40,
-      "category": "数码"
     },
     {
       "raw_hot": 224651,
@@ -603,6 +627,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 208473,
+      "num": 208473,
+      "word": "罗永浩抽送iPhone17被指抠",
+      "onboard_time": 1764573802,
+      "rank": 3,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 208192,
       "num": 208192,
       "word": "肖战彭昱畅周依然得闲谨制预告",
@@ -635,12 +667,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 205000,
+      "num": 162487,
+      "word": "面对面也认不出这是罗晋",
+      "onboard_time": 1764573142,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "故意传播艾滋病涉嫌违法犯罪",
       "onboard_time": 1764550699,
       "rank": 22,
       "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 200163,
+      "num": 200163,
+      "word": "当地应急回应广州突发火情",
+      "onboard_time": 1764573442,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 197538,
@@ -771,6 +819,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 166627,
+      "num": 149549,
+      "word": "朱开谈Ale为什么不打",
+      "onboard_time": 1764573202,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165446,
       "num": 186688,
       "word": "疯狂动物城",
@@ -801,6 +857,22 @@
       "onboard_time": 1764564923,
       "rank": 40,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 159027,
+      "num": 159027,
+      "word": "JDG官宣HongQ加入",
+      "onboard_time": 1764572601,
+      "rank": 26,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 156628,
+      "num": 156628,
+      "word": "沙园",
+      "onboard_time": 1764572360,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 156386,
@@ -987,6 +1059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141568,
+      "num": 141568,
+      "word": "向佐来到康定心系郭碧婷和孩子",
+      "onboard_time": 1764573982,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 140135,
       "num": 140135,
       "word": "其实高皮质醇的人都有一个特点",
@@ -1043,6 +1123,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 131782,
+      "num": 131782,
+      "word": "别克连夜复盘辅助驾驶大赛路线",
+      "onboard_time": 1764572842,
+      "rank": 33,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 131380,
       "num": 131380,
       "word": "小伙仅剩2元买米饭店主免费给炒菜",
@@ -1065,14 +1153,6 @@
       "onboard_time": 1764558860,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 127699,
-      "num": 127699,
-      "word": "葛夕 恋综",
-      "onboard_time": 1764571940,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 126342,
@@ -1155,12 +1235,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 117294,
+      "num": 117294,
+      "word": "张新成古装",
+      "onboard_time": 1764573802,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 116157,
+      "num": 116157,
+      "word": "Uzi上线吃瓜",
+      "onboard_time": 1764574102,
+      "rank": 42,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 114984,
       "num": 100084,
       "word": "2025仅剩一个月",
       "onboard_time": 1764544578,
       "rank": 17,
       "category": "情感"
+    },
+    {
+      "raw_hot": 114633,
+      "num": 114633,
+      "word": "高市早苗搂肩熊抱滑椅子",
+      "onboard_time": 1764573925,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 114487,
@@ -1203,6 +1307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 108535,
+      "num": 108535,
+      "word": "官方通报广州沙园地铁站附近突发火情",
+      "onboard_time": 1764574162,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107249,
       "num": 95956,
       "word": "路人偶遇Angelababy接小海绵放学",
@@ -1243,6 +1355,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101839,
+      "num": 101839,
+      "word": "秦谜",
+      "onboard_time": 1764568702,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101620,
       "num": 101620,
       "word": "陈星旭说迪丽热巴私下里性格可爱",
@@ -1257,14 +1377,6 @@
       "onboard_time": 1764571643,
       "rank": 45,
       "category": "数码,财经"
-    },
-    {
-      "raw_hot": 99639,
-      "num": 99639,
-      "word": "张继科女友前夫 白百何现任",
-      "onboard_time": 1764572122,
-      "rank": 46,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 99337,
@@ -1313,6 +1425,14 @@
       "onboard_time": 1764570981,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89803,
+      "num": 101406,
+      "word": "看过疯狂动物城2就知道多还原",
+      "onboard_time": 1764572483,
+      "rank": 49,
+      "category": "电影,幽默"
     },
     {
       "raw_hot": 89037,
@@ -1483,6 +1603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 70082,
+      "num": 126410,
+      "word": "余茵王凯沐回应吃夜宵事件",
+      "onboard_time": 1764573681,
+      "rank": 38,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 65549,
       "num": 65549,
       "word": "高市早苗意欲何为",
@@ -1651,6 +1779,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 44279,
+      "num": 110801,
+      "word": "英一囚犯监狱里点外卖拍视频引众怒",
+      "onboard_time": 1764572781,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 44167,
       "num": 136316,
       "word": "颜如晶完成全马",
@@ -1755,6 +1891,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 31124,
+      "num": 162609,
+      "word": "28岁女子被砸中身亡案再开庭",
+      "onboard_time": 1764573081,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30797,
       "num": 57374,
       "word": "要被邢深气死了",
@@ -1777,6 +1921,14 @@
       "onboard_time": 1764566661,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28233,
+      "num": 126649,
+      "word": "日本国脚露出马脚",
+      "onboard_time": 1764574162,
+      "rank": 37,
+      "category": "国际时政,体育"
     },
     {
       "raw_hot": 26781,
@@ -1817,6 +1969,14 @@
       "onboard_time": 1764556039,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 20251,
+      "num": 127199,
+      "word": "抛砖命案家属称凶手多次抛物没人管",
+      "onboard_time": 1764573681,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19113,
