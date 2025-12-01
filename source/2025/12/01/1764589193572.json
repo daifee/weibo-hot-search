@@ -1,0 +1,410 @@
+{
+  "runTime": 1764589193572,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 384475,
+        "num": 1061516,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 104973,
+        "num": 740382,
+        "word": "罗永浩将盲测高档音响",
+        "onboard_time": 1764583284,
+        "rank": 1,
+        "category": "互联网,数码"
+      },
+      {
+        "raw_hot": 46357,
+        "num": 591681,
+        "word": "预防流感八问八答",
+        "onboard_time": 1764585202,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 455874,
+        "num": 455874,
+        "word": "BLG官宣Viper加入",
+        "onboard_time": 1764584181,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 370252,
+        "num": 370252,
+        "word": "中国男篮vs韩国男篮",
+        "onboard_time": 1764584422,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 338998,
+        "num": 338998,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 371208,
+        "num": 323515,
+        "word": "疯狂动物城 吃肉",
+        "onboard_time": 1764581063,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 300058,
+        "num": 300058,
+        "word": "易烊千玺礐嶨将重启预约",
+        "onboard_time": 1764585502,
+        "rank": 7,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 255209,
+        "num": 255209,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106623,
+        "num": 245666,
+        "word": "BLG官宣Xun加入",
+        "onboard_time": 1764580524,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 426437,
+        "num": 245217,
+        "word": "袁湘琴骑车去二中接孩子逆行",
+        "onboard_time": 1764585683,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260103,
+        "num": 245020,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 241624,
+        "num": 241624,
+        "word": "刘耀文直播",
+        "onboard_time": 1764584181,
+        "rank": 12,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 217502,
+        "num": 217502,
+        "word": "中国男篮落后",
+        "onboard_time": 1764585862,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 189607,
+        "num": 217469,
+        "word": "瘦十斤再见面 这辈子是不见了吗",
+        "onboard_time": 1764578604,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 166530,
+        "num": 217287,
+        "word": "十个勤天收到联合国粮农组织感谢信",
+        "onboard_time": 1764589042,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136556,
+        "num": 217178,
+        "word": "怀疑我妈是地枭",
+        "onboard_time": 1764574882,
+        "rank": 16,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 135681,
+        "num": 216993,
+        "word": "刘芮麟喊肖战战战",
+        "onboard_time": 1764583042,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 30833,
+        "num": 216907,
+        "word": "12306回应乘客高铁直播扰人",
+        "onboard_time": 1764588622,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76546,
+        "num": 216709,
+        "word": "25岁小伙离世2小时后被公司设为离职",
+        "onboard_time": 1764588682,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 460279,
+        "num": 216583,
+        "word": "陈奕恒回来了",
+        "onboard_time": 1764585263,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 382033,
+        "num": 216493,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 133323,
+        "num": 216334,
+        "word": "白鹿呵呵新合照",
+        "onboard_time": 1764586522,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 362754,
+        "num": 216184,
+        "word": "韩国明洞偶遇成龙 成龙在哪",
+        "onboard_time": 1764585743,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 173475,
+        "num": 216132,
+        "word": "炎拓 自卑是男人最好的嫁妆",
+        "onboard_time": 1764586400,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132688,
+        "num": 215983,
+        "word": "林孝埈苏翊鸣等亮相米兰冬奥会宣传片",
+        "onboard_time": 1764588322,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128408,
+        "num": 215760,
+        "word": "葛夕约会",
+        "onboard_time": 1764582324,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 124154,
+        "num": 215662,
+        "word": "留几手 芒果TV",
+        "onboard_time": 1764588803,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117313,
+        "num": 215516,
+        "word": "近视手术2年后的真实感受",
+        "onboard_time": 1764583882,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 78128,
+        "num": 215446,
+        "word": "孙颖莎王楚钦出战单打",
+        "onboard_time": 1764587422,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 149051,
+        "num": 215269,
+        "word": "Viper回应重返LPL",
+        "onboard_time": 1764587842,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 130313,
+        "num": 215187,
+        "word": "电费万一是小猫交的呢",
+        "onboard_time": 1764587482,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 55862,
+        "num": 214967,
+        "word": "林诗栋蒯曼vs阿尔霍达比兄妹",
+        "onboard_time": 1764587422,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106612,
+        "num": 214866,
+        "word": "高市早苗搂肩熊抱滑椅子",
+        "onboard_time": 1764573925,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103774,
+        "num": 214676,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 103706,
+        "num": 214570,
+        "word": "龚俊周洁琼雨中争吵戏路透",
+        "onboard_time": 1764588143,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74741,
+        "num": 214512,
+        "word": "王励勤希望大家不仅关注金牌归属",
+        "onboard_time": 1764584482,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 32026,
+        "num": 214391,
+        "word": "举报公职人员店主为何被逼得喝农药",
+        "onboard_time": 1764588622,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 43876,
+        "num": 214255,
+        "word": "女孩称请1天假被踢出工作群",
+        "onboard_time": 1764588442,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101583,
+        "num": 214017,
+        "word": "王橹杰 追晚霞",
+        "onboard_time": 1764577282,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99406,
+        "num": 213879,
+        "word": "小胖回应改ID",
+        "onboard_time": 1764573081,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98031,
+        "num": 213755,
+        "word": "怪不得买的烤鸭从没见过鸭翅鸭爪",
+        "onboard_time": 1764586283,
+        "rank": 41,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 97993,
+        "num": 213605,
+        "word": "无畏预制圣诞",
+        "onboard_time": 1764588143,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 91910,
+        "num": 213482,
+        "word": "真毛就是比聚酯纤维好看",
+        "onboard_time": 1764587181,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90829,
+        "num": 213460,
+        "word": "曝GALA走是因为TheShy不打了",
+        "onboard_time": 1764584242,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 88624,
+        "num": 213261,
+        "word": "刘诗诗小时候用这张脸捅马蜂窝",
+        "onboard_time": 1764576203,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81549,
+        "num": 213096,
+        "word": "疯狂动物城2马市长结局设定",
+        "onboard_time": 1764588262,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 73246,
+        "num": 213049,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 70211,
+        "num": 212818,
+        "word": "王励勤希望大家不仅关注明星运动员",
+        "onboard_time": 1764586103,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 69297,
+        "num": 212686,
+        "word": "女律师被砸身亡后家属不敢单独出门",
+        "onboard_time": 1764579681,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}
