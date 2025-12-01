@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764571402531,
+  "endTime": 1764572195010,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -91,6 +91,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 660106,
+      "num": 1105617,
+      "word": "宁德时代发布涨薪通知",
+      "onboard_time": 1764569421,
+      "rank": 0,
+      "category": "财经"
+    },
+    {
       "raw_hot": 627439,
       "num": 236523,
       "word": "一年级的陈思成参加艺考",
@@ -107,20 +115,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 565854,
+      "num": 240231,
+      "word": "广州沙园地铁站附近突发火情",
+      "onboard_time": 1764571462,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556299,
       "num": 212704,
       "word": "日本发布高市早苗外交场面引群嘲",
       "onboard_time": 1764550222,
       "rank": 12,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 535840,
-      "num": 1085734,
-      "word": "宁德时代发布涨薪通知",
-      "onboard_time": 1764569421,
-      "rank": 0,
-      "category": "财经"
     },
     {
       "raw_hot": 522623,
@@ -323,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 335762,
+      "num": 191170,
+      "word": "弥补了没有陈冠希baby绯闻的遗憾",
+      "onboard_time": 1764570081,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 335538,
       "num": 233941,
       "word": "陈靖可一把护住张婧仪",
@@ -435,6 +451,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274474,
+      "num": 233458,
+      "word": "家业剧组维权",
+      "onboard_time": 1764570141,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 274198,
       "num": 274198,
       "word": "第一次见cos人民币",
@@ -475,6 +499,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 244844,
+      "num": 186786,
+      "word": "李雪琴评孟子义素颜状态",
+      "onboard_time": 1764570382,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 236991,
       "num": 193868,
       "word": "独生子女真的不会感觉孤独吗",
@@ -499,6 +531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233898,
+      "num": 233898,
+      "word": "您有一笔退款12月1日开始确认",
+      "onboard_time": 1764571462,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 233795,
       "num": 233795,
       "word": "男跳凤凰台女跳诛仙台",
@@ -507,12 +547,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 227215,
-      "num": 186786,
-      "word": "李雪琴评孟子义素颜状态",
-      "onboard_time": 1764570382,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 233400,
+      "num": 233400,
+      "word": "为骗老人10万元109人炒股群108个托",
+      "onboard_time": 1764568761,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225225,
+      "num": 225225,
+      "word": "曝iPhone折叠屏手机无折痕",
+      "onboard_time": 1764570861,
+      "rank": 40,
+      "category": "数码"
     },
     {
       "raw_hot": 224651,
@@ -547,12 +595,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 212541,
-      "num": 212541,
-      "word": "家业剧组维权",
-      "onboard_time": 1764570141,
-      "rank": 16,
-      "category": "剧集"
+      "raw_hot": 208566,
+      "num": 208566,
+      "word": "卢昱晓 桃黑黑是国草",
+      "onboard_time": 1764570742,
+      "rank": 27,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 208192,
@@ -569,14 +617,6 @@
       "onboard_time": 1764555861,
       "rank": 40,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 206029,
-      "num": 185460,
-      "word": "弥补了没有陈冠希baby绯闻的遗憾",
-      "onboard_time": 1764570081,
-      "rank": 24,
-      "category": "艺人"
     },
     {
       "raw_hot": 205504,
@@ -699,27 +739,11 @@
       "category": "情感"
     },
     {
-      "raw_hot": 175210,
-      "num": 175210,
-      "word": "卢昱晓 桃黑黑是国草",
-      "onboard_time": 1764570742,
-      "rank": 27,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 171390,
       "num": 171390,
       "word": "深圳开挖巨型垃圾山",
       "onboard_time": 1764567144,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 167784,
-      "num": 193967,
-      "word": "为骗老人10万元109人炒股群108个托",
-      "onboard_time": 1764568761,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -979,14 +1003,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 136299,
-      "num": 136299,
-      "word": "曝iPhone折叠屏手机无折痕",
-      "onboard_time": 1764570861,
-      "rank": 40,
-      "category": "数码"
-    },
-    {
       "raw_hot": 135721,
       "num": 208637,
       "word": "湖人7连胜",
@@ -1051,6 +1067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 127699,
+      "num": 127699,
+      "word": "葛夕 恋综",
+      "onboard_time": 1764571940,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 126342,
       "num": 126342,
       "word": "画梅一夜掉粉超190万",
@@ -1081,6 +1105,14 @@
       "onboard_time": 1764558440,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120978,
+      "num": 120978,
+      "word": "日本向青少年灌输军国主义",
+      "onboard_time": 1764568882,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120752,
@@ -1121,14 +1153,6 @@
       "onboard_time": 1764568342,
       "rank": 43,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 116020,
-      "num": 116020,
-      "word": "日本向青少年灌输军国主义",
-      "onboard_time": 1764568882,
-      "rank": 44,
-      "category": "国际时政"
     },
     {
       "raw_hot": 114984,
@@ -1227,6 +1251,22 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100094,
+      "num": 100094,
+      "word": "内存芯片价格大涨",
+      "onboard_time": 1764571643,
+      "rank": 45,
+      "category": "数码,财经"
+    },
+    {
+      "raw_hot": 99639,
+      "num": 99639,
+      "word": "张继科女友前夫 白百何现任",
+      "onboard_time": 1764572122,
+      "rank": 46,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 99337,
       "num": 99337,
       "word": "枭起青壤谐音梗",
@@ -1241,6 +1281,14 @@
       "onboard_time": 1764530354,
       "rank": 46,
       "category": "电影"
+    },
+    {
+      "raw_hot": 98096,
+      "num": 98096,
+      "word": "惠灵顿牛排切开是酸菜血肠",
+      "onboard_time": 1764572003,
+      "rank": 47,
+      "category": "美食"
     },
     {
       "raw_hot": 96685,
@@ -1603,6 +1651,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 44167,
+      "num": 136316,
+      "word": "颜如晶完成全马",
+      "onboard_time": 1764571282,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 43020,
       "num": 55073,
       "word": "TOP登陆少年终于连上网了",
@@ -1675,6 +1731,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 34989,
+      "num": 136339,
+      "word": "偶遇董卿看疯狂动物城",
+      "onboard_time": 1764571041,
+      "rank": 38,
+      "category": "艺人,电影"
+    },
+    {
       "raw_hot": 34654,
       "num": 129047,
       "word": "交房不到2年外墙全脱落",
@@ -1697,14 +1761,6 @@
       "onboard_time": 1764522556,
       "rank": 44,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 30741,
-      "num": 136316,
-      "word": "颜如晶完成全马",
-      "onboard_time": 1764571282,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 29444,
@@ -1763,14 +1819,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 20426,
-      "num": 136339,
-      "word": "偶遇董卿看疯狂动物城",
-      "onboard_time": 1764571041,
-      "rank": 38,
-      "category": "艺人,电影"
-    },
-    {
       "raw_hot": 19113,
       "num": 154788,
       "word": "男子6天数次高空抛砖未重视酿命案",
@@ -1819,20 +1867,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 9401,
-      "num": 951357,
-      "word": "12月起这些新规开始施行",
-      "onboard_time": 1764493460,
-      "rank": 2,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 7362,
+      "raw_hot": 12908,
       "num": 136365,
       "word": "女子保险等待期患癌理赔被拒",
       "onboard_time": 1764571282,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 9698,
+      "num": 951357,
+      "word": "12月起这些新规开始施行",
+      "onboard_time": 1764493460,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7298,

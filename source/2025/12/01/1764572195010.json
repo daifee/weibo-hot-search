@@ -1,0 +1,410 @@
+{
+  "runTime": 1764572195010,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 660106,
+        "num": 1105617,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 270088,
+        "num": 270088,
+        "word": "高市宣称日本又回来了",
+        "onboard_time": 1764555861,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 9698,
+        "num": 264511,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188051,
+        "num": 259540,
+        "word": "Uzi 复出",
+        "onboard_time": 1764555500,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 116105,
+        "num": 245297,
+        "word": "长安二十四计",
+        "onboard_time": 1764553161,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 565854,
+        "num": 240231,
+        "word": "广州沙园地铁站附近突发火情",
+        "onboard_time": 1764571462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233898,
+        "num": 233898,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185983,
+        "num": 233873,
+        "word": "官方通报店主实名举报公职人员",
+        "onboard_time": 1764564442,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 134921,
+        "num": 233806,
+        "word": "神舟二十二号航天员乘组永远空缺",
+        "onboard_time": 1764555139,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 117865,
+        "num": 233724,
+        "word": "英超球队向中国球迷道歉",
+        "onboard_time": 1764555020,
+        "rank": 9,
+        "category": "体育,国内时政"
+      },
+      {
+        "raw_hot": 895045,
+        "num": 233676,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 507907,
+        "num": 233594,
+        "word": "被性恋",
+        "onboard_time": 1764564504,
+        "rank": 11,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 309795,
+        "num": 233515,
+        "word": "朱珠 我没挤他",
+        "onboard_time": 1764559100,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274474,
+        "num": 233458,
+        "word": "家业剧组维权",
+        "onboard_time": 1764570141,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 233400,
+        "num": 233400,
+        "word": "为骗老人10万元109人炒股群108个托",
+        "onboard_time": 1764568761,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230922,
+        "num": 230922,
+        "word": "1个剧组5个影帝影后视帝",
+        "onboard_time": 1764565102,
+        "rank": 15,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 225225,
+        "num": 225225,
+        "word": "曝iPhone折叠屏手机无折痕",
+        "onboard_time": 1764570861,
+        "rank": 16,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 213579,
+        "num": 213579,
+        "word": "VOGUE年度最佳着装提名名单",
+        "onboard_time": 1764568882,
+        "rank": 17,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 213559,
+        "num": 213559,
+        "word": "能考85分偏考84分",
+        "onboard_time": 1764563961,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 208566,
+        "num": 208566,
+        "word": "卢昱晓 桃黑黑是国草",
+        "onboard_time": 1764570742,
+        "rank": 19,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 1782951,
+        "num": 202970,
+        "word": "张继科 张蕊",
+        "onboard_time": 1764566423,
+        "rank": 20,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 357503,
+        "num": 198297,
+        "word": "马頔 你懂什么叫结婚么",
+        "onboard_time": 1764559941,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335762,
+        "num": 191170,
+        "word": "弥补了没有陈冠希baby绯闻的遗憾",
+        "onboard_time": 1764570081,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321654,
+        "num": 186310,
+        "word": "朱珠老公 下次我背个行车记录仪",
+        "onboard_time": 1764567442,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244844,
+        "num": 180284,
+        "word": "李雪琴评孟子义素颜状态",
+        "onboard_time": 1764570382,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177915,
+        "num": 177915,
+        "word": "婚前同居怀孕退婚后男方起诉要彩礼",
+        "onboard_time": 1764559462,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 174237,
+        "num": 174237,
+        "word": "华策影视严正声明",
+        "onboard_time": 1764570501,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 157803,
+        "num": 157803,
+        "word": "黄雅琼婚礼的钻戒不会被教练说小了",
+        "onboard_time": 1764564323,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151671,
+        "num": 151671,
+        "word": "雷军",
+        "onboard_time": 1764564923,
+        "rank": 28,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 150982,
+        "num": 150982,
+        "word": "女子验房发现新房已被人安家入住",
+        "onboard_time": 1764564264,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150661,
+        "num": 150661,
+        "word": "刘亦菲易烊千玺 广告合作",
+        "onboard_time": 1764563543,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127699,
+        "num": 127699,
+        "word": "葛夕 恋综",
+        "onboard_time": 1764571940,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122159,
+        "num": 122159,
+        "word": "彭小苒一件羽绒服穿了五年",
+        "onboard_time": 1764570263,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120978,
+        "num": 120978,
+        "word": "日本向青少年灌输军国主义",
+        "onboard_time": 1764568882,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119647,
+        "num": 119647,
+        "word": "张婧仪陈靖可 致我那菜市场的白月光",
+        "onboard_time": 1764562343,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118953,
+        "num": 118953,
+        "word": "已经到了不认识TFBOYS的时代了",
+        "onboard_time": 1764561502,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103431,
+        "num": 118144,
+        "word": "店主实名举报公职人员疑喝农药",
+        "onboard_time": 1764563602,
+        "rank": 36,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 12908,
+        "num": 116984,
+        "word": "女子保险等待期患癌理赔被拒",
+        "onboard_time": 1764571282,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44167,
+        "num": 115264,
+        "word": "颜如晶完成全马",
+        "onboard_time": 1764571282,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34989,
+        "num": 114476,
+        "word": "偶遇董卿看疯狂动物城",
+        "onboard_time": 1764571041,
+        "rank": 39,
+        "category": "艺人,电影"
+      },
+      {
+        "raw_hot": 113505,
+        "num": 113505,
+        "word": "臣妾有一妹妹名为玉娆堪称国色",
+        "onboard_time": 1764564144,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113211,
+        "num": 113211,
+        "word": "日本部署中导将是介入台海第一步",
+        "onboard_time": 1764568342,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111372,
+        "num": 111372,
+        "word": "老外是不是对卫生巾有什么误解",
+        "onboard_time": 1764570501,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109496,
+        "num": 109496,
+        "word": "胡歌女儿 英雄需要鼓励草莓熊不用",
+        "onboard_time": 1764562942,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105814,
+        "num": 105814,
+        "word": "张继科和女友一起吃火锅",
+        "onboard_time": 1764565164,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 100094,
+        "num": 100094,
+        "word": "内存芯片价格大涨",
+        "onboard_time": 1764571643,
+        "rank": 45,
+        "category": "数码,财经"
+      },
+      {
+        "raw_hot": 99639,
+        "num": 99639,
+        "word": "张继科女友前夫 白百何现任",
+        "onboard_time": 1764572122,
+        "rank": 46,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 98096,
+        "num": 98096,
+        "word": "惠灵顿牛排切开是酸菜血肠",
+        "onboard_time": 1764572003,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 95303,
+        "num": 95303,
+        "word": "到底拍的有多还原才敢用真名",
+        "onboard_time": 1764565764,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78591,
+        "num": 93880,
+        "word": "艾顿在湖人找到了自己的舒适区",
+        "onboard_time": 1764570981,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
+    }
+  }
+}
