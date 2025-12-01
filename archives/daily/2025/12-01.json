@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764585185666,
+  "endTime": 1764586179331,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -115,6 +115,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 883597,
+      "num": 197679,
+      "word": "刘耀文直播",
+      "onboard_time": 1764584181,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 830374,
       "num": 702801,
       "word": "感觉李晨有老人味了",
@@ -163,14 +171,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 636648,
-      "num": 197679,
-      "word": "刘耀文直播",
-      "onboard_time": 1764584181,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 627439,
       "num": 236523,
       "word": "一年级的陈思成参加艺考",
@@ -185,6 +185,14 @@
       "onboard_time": 1764513022,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 571339,
+      "num": 571339,
+      "word": "疯狂动物城 吃肉",
+      "onboard_time": 1764581063,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 568469,
@@ -257,14 +265,6 @@
       "onboard_time": 1764564504,
       "rank": 15,
       "category": "幽默,休闲"
-    },
-    {
-      "raw_hot": 506201,
-      "num": 506201,
-      "word": "疯狂动物城 吃肉",
-      "onboard_time": 1764581063,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 491336,
@@ -401,6 +401,22 @@
       "onboard_time": 1764553161,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 388293,
+      "num": 197780,
+      "word": "中国男篮vs韩国男篮",
+      "onboard_time": 1764584422,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 384096,
+      "num": 176540,
+      "word": "陈奕恒回来了",
+      "onboard_time": 1764585263,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 377737,
@@ -795,6 +811,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 222071,
+      "num": 222071,
+      "word": "王励勤希望大家不仅关注金牌归属",
+      "onboard_time": 1764584482,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 221134,
       "num": 226800,
       "word": "店主实名举报公职人员疑喝农药",
@@ -875,14 +899,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 203897,
-      "num": 203897,
-      "word": "王励勤希望大家不仅关注金牌归属",
-      "onboard_time": 1764584482,
-      "rank": 8,
-      "category": "体育"
-    },
-    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "故意传播艾滋病涉嫌违法犯罪",
@@ -905,14 +921,6 @@
       "onboard_time": 1764579623,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 197780,
-      "num": 197780,
-      "word": "中国男篮vs韩国男篮",
-      "onboard_time": 1764584422,
-      "rank": 9,
-      "category": "体育"
     },
     {
       "raw_hot": 197538,
@@ -977,6 +985,14 @@
       "onboard_time": 1764583042,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 189263,
+      "num": 189263,
+      "word": "易烊千玺礐嶨将重启预约",
+      "onboard_time": 1764585502,
+      "rank": 9,
+      "category": "音乐"
     },
     {
       "raw_hot": 186823,
@@ -1379,12 +1395,28 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139295,
+      "num": 139295,
+      "word": "王励勤希望大家不仅关注明星运动员",
+      "onboard_time": 1764586103,
+      "rank": 25,
+      "category": "体育"
+    },
+    {
       "raw_hot": 139123,
       "num": 139123,
       "word": "杨紫的家业还是太火了",
       "onboard_time": 1764509421,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136830,
+      "num": 136830,
+      "word": "中国男篮落后",
+      "onboard_time": 1764585862,
+      "rank": 27,
+      "category": "体育"
     },
     {
       "raw_hot": 135904,
@@ -1401,6 +1433,14 @@
       "onboard_time": 1764567080,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135005,
+      "num": 131299,
+      "word": "袁湘琴骑车去二中接孩子逆行",
+      "onboard_time": 1764585683,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 134484,
@@ -1659,6 +1699,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 111936,
+      "num": 111936,
+      "word": "刘耀文到底几点发MV",
+      "onboard_time": 1764585983,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 111414,
       "num": 111414,
       "word": "妈妈花2小时帮我投了1个岗位",
@@ -1681,6 +1729,14 @@
       "onboard_time": 1764575842,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108725,
+      "num": 1137892,
+      "word": "罗永浩将盲测高档音响",
+      "onboard_time": 1764583284,
+      "rank": 1,
+      "category": "互联网,数码"
     },
     {
       "raw_hot": 107249,
@@ -1803,14 +1859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 99793,
-      "num": 1137892,
-      "word": "罗永浩将盲测高档音响",
-      "onboard_time": 1764583284,
-      "rank": 1,
-      "category": "互联网,数码"
-    },
-    {
       "raw_hot": 99337,
       "num": 99337,
       "word": "枭起青壤谐音梗",
@@ -1833,6 +1881,14 @@
       "onboard_time": 1764572003,
       "rank": 47,
       "category": "美食"
+    },
+    {
+      "raw_hot": 96767,
+      "num": 96767,
+      "word": "25岁一过马上就30岁了",
+      "onboard_time": 1764585263,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 96685,
@@ -1931,6 +1987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 86634,
+      "num": 86634,
+      "word": "外放自由",
+      "onboard_time": 1764585801,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 85882,
       "num": 131430,
       "word": "维斯塔潘夺f1卡塔尔站冠军",
@@ -1985,6 +2049,14 @@
       "onboard_time": 1764581903,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82273,
+      "num": 82273,
+      "word": "蔚来11月交付量",
+      "onboard_time": 1764586042,
+      "rank": 49,
+      "category": "汽车"
     },
     {
       "raw_hot": 81939,
@@ -2179,6 +2251,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66334,
+      "num": 108611,
+      "word": "外卖餐饮店营业额24万利润2万7",
+      "onboard_time": 1764584541,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66304,
       "num": 101943,
       "word": "马龙双刀流训练",
@@ -2241,14 +2321,6 @@
       "onboard_time": 1764579681,
       "rank": 14,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 62277,
-      "num": 108611,
-      "word": "外卖餐饮店营业额24万利润2万7",
-      "onboard_time": 1764584541,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 62120,
@@ -2369,6 +2441,14 @@
       "onboard_time": 1764545659,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 47754,
+      "num": 106129,
+      "word": "韩国明洞偶遇成龙 成龙在哪",
+      "onboard_time": 1764585743,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 46530,
@@ -2507,6 +2587,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39870,
+      "num": 172848,
+      "word": "什么样的日本又回来了",
+      "onboard_time": 1764585022,
+      "rank": 32,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 39817,
       "num": 60728,
       "word": "西汉姆联vs利物浦",
@@ -2547,6 +2635,14 @@
       "category": "艺人,电影"
     },
     {
+      "raw_hot": 34935,
+      "num": 108631,
+      "word": "两女生住酒店凌晨遭男子刷开房门",
+      "onboard_time": 1764585082,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34654,
       "num": 129047,
       "word": "交房不到2年外墙全脱落",
@@ -2577,6 +2673,14 @@
       "onboard_time": 1764578842,
       "rank": 19,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 31767,
+      "num": 861276,
+      "word": "预防流感八问八答",
+      "onboard_time": 1764585202,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 31076,
@@ -2625,6 +2729,14 @@
       "onboard_time": 1764556160,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25338,
+      "num": 107140,
+      "word": "真实的美国是什么样的",
+      "onboard_time": 1764585141,
+      "rank": 42,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 25149,
@@ -2691,14 +2803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17878,
-      "num": 107140,
-      "word": "真实的美国是什么样的",
-      "onboard_time": 1764585141,
-      "rank": 42,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 16515,
       "num": 153942,
       "word": "台海鲲号被爆无锚海试",
@@ -2763,26 +2867,10 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 10288,
-      "num": 118054,
-      "word": "什么样的日本又回来了",
-      "onboard_time": 1764585022,
-      "rank": 32,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 7298,
       "num": 154014,
       "word": "灵隐寺免门票首日预约已满",
       "onboard_time": 1764563543,
-      "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 6738,
-      "num": 108631,
-      "word": "两女生住酒店凌晨遭男子刷开房门",
-      "onboard_time": 1764585082,
       "rank": 38,
       "category": "民生新闻"
     }
