@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764620926693,
+  "endTime": 1764621624896,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -467,6 +467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 29479,
+      "num": 42956,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 28506,
       "num": 79888,
       "word": "陈赫回母校参加校庆",
@@ -481,14 +489,6 @@
       "onboard_time": 1764611115,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 24863,
-      "num": 40332,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 24544,
@@ -531,8 +531,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 12677,
-      "num": 36625,
+      "raw_hot": 13149,
+      "num": 41436,
       "word": "葛夕回应上恋综",
       "onboard_time": 1764619934,
       "rank": 36,

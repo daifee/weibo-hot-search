@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764620926693,
+  "endTime": 1764621624896,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -3635,6 +3635,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 29479,
+      "num": 42956,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 29444,
       "num": 57364,
       "word": "iG众将回应输给T1",
@@ -3713,14 +3721,6 @@
       "onboard_time": 1764594022,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24863,
-      "num": 40332,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 24544,
@@ -3859,20 +3859,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 13149,
+      "num": 41436,
+      "word": "葛夕回应上恋综",
+      "onboard_time": 1764619934,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 12908,
       "num": 136365,
       "word": "女子保险等待期患癌理赔被拒",
       "onboard_time": 1764571282,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12677,
-      "num": 36625,
-      "word": "葛夕回应上恋综",
-      "onboard_time": 1764619934,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 12208,

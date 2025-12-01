@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/02 00:37:54 ~ 2025/12/02 04:28:46
+本榜单时间：2025/12/02 00:37:54 ~ 2025/12/02 04:40:24
 </p>
 </blockquote>
 <p>
@@ -363,6 +363,12 @@ SofM以选手身份复出（热度：49704）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E6%BC%94%E7%A7%A6%E5%A7%8B%E7%9A%87%23" target="weibo">
+陈晓演秦始皇（热度：29479）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E8%B5%AB%E5%9B%9E%E6%AF%8D%E6%A0%A1%E5%8F%82%E5%8A%A0%E6%A0%A1%E5%BA%86%23" target="weibo">
 陈赫回母校参加校庆（热度：28506）
 </a>
@@ -371,12 +377,6 @@ SofM以选手身份复出（热度：49704）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E7%BB%99%E7%94%B0%E6%9C%B4%E7%8F%BA%E5%81%9A%E7%BA%A2%E7%83%A7%E8%82%89%23" target="weibo">
 胡歌给田朴珺做红烧肉（热度：26080）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E6%99%93%E6%BC%94%E7%A7%A6%E5%A7%8B%E7%9A%87%23" target="weibo">
-陈晓演秦始皇（热度：24863）
 </a>
 </li>
 
@@ -412,7 +412,7 @@ SofM以选手身份复出（热度：49704）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%91%9B%E5%A4%95%E5%9B%9E%E5%BA%94%E4%B8%8A%E6%81%8B%E7%BB%BC%23" target="weibo">
-葛夕回应上恋综（热度：12677）
+葛夕回应上恋综（热度：13149）
 </a>
 </li>
 
