@@ -1,0 +1,410 @@
+{
+  "runTime": 1764607074652,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 313357,
+        "num": 765571,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 151931,
+        "num": 346517,
+        "word": "应届硕士偷偷参加国考",
+        "onboard_time": 1764592942,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 53047,
+        "num": 266196,
+        "word": "治沙人种下的10万株玫瑰长大了",
+        "onboard_time": 1764595644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229430,
+        "num": 229430,
+        "word": "星光大赏",
+        "onboard_time": 1764589822,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106724,
+        "num": 229388,
+        "word": "王励勤乒羽运动管理中心副主任",
+        "onboard_time": 1764599063,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 259940,
+        "num": 229338,
+        "word": "达美乐 大美乐",
+        "onboard_time": 1764604639,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130249,
+        "num": 229281,
+        "word": "日本国宝级歌手喊话高市爽快一点",
+        "onboard_time": 1764600085,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 103431,
+        "num": 229263,
+        "word": "BLG官宣Viper加入",
+        "onboard_time": 1764584181,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92269,
+        "num": 229157,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77456,
+        "num": 229105,
+        "word": "大生意人 传统长剧",
+        "onboard_time": 1764595943,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 835947,
+        "num": 229054,
+        "word": "为什么避孕药品和用具要收税了",
+        "onboard_time": 1764604160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651510,
+        "num": 229012,
+        "word": "陈赫王传君金世佳同框",
+        "onboard_time": 1764599844,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 509286,
+        "num": 228937,
+        "word": "名校硕士沦为患艾吸毒者",
+        "onboard_time": 1764598762,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 314580,
+        "num": 228914,
+        "word": "郑恺上戏合影 AI生成",
+        "onboard_time": 1764600983,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 236755,
+        "num": 228839,
+        "word": "疯狂动物城3 飞禽",
+        "onboard_time": 1764603622,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172657,
+        "num": 228814,
+        "word": "朱志鑫的百度百科",
+        "onboard_time": 1764595644,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232853,
+        "num": 228746,
+        "word": "马市长 邓超",
+        "onboard_time": 1764599002,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169971,
+        "num": 228699,
+        "word": "专家建议不要用冲绳称呼琉球群岛",
+        "onboard_time": 1764599544,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 165481,
+        "num": 228595,
+        "word": "大三男生网络交友3个月感染艾滋病",
+        "onboard_time": 1764599124,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96192,
+        "num": 228567,
+        "word": "我有个烧钱且小众的爱好",
+        "onboard_time": 1764599183,
+        "rank": 19,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 101752,
+        "num": 228533,
+        "word": "女子烫发4小时称出去透气后疑跑路",
+        "onboard_time": 1764599124,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97660,
+        "num": 228483,
+        "word": "倒头就睡可能是身体求救信号",
+        "onboard_time": 1764599782,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 92559,
+        "num": 228382,
+        "word": "环卫工被故意文粗眉被迫花2万",
+        "onboard_time": 1764593242,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81335,
+        "num": 228332,
+        "word": "女儿回应老人花10元剃头满头血痂",
+        "onboard_time": 1764592762,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76747,
+        "num": 228309,
+        "word": "朱亚文向涵之 二搭",
+        "onboard_time": 1764601582,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 76255,
+        "num": 228234,
+        "word": "电影院凭什么不让拍",
+        "onboard_time": 1764601582,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 72512,
+        "num": 228193,
+        "word": "杨幂女演员的自律",
+        "onboard_time": 1764596364,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71129,
+        "num": 228096,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1764601344,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 70664,
+        "num": 228045,
+        "word": "枭起青壤",
+        "onboard_time": 1764605659,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 70087,
+        "num": 228015,
+        "word": "妻子婚内与人同居被判赔丈夫8000元",
+        "onboard_time": 1764603863,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68666,
+        "num": 227935,
+        "word": "顾客买鞋子仅退款发AI图",
+        "onboard_time": 1764590602,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63780,
+        "num": 227874,
+        "word": "iG官宣Gala离队",
+        "onboard_time": 1764589282,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 63771,
+        "num": 227843,
+        "word": "久坐的人真的要练一练屁股",
+        "onboard_time": 1764595823,
+        "rank": 32,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 63627,
+        "num": 227802,
+        "word": "胡歌说没有平衡好事业和家庭",
+        "onboard_time": 1764596182,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62555,
+        "num": 227717,
+        "word": "张奕然李煜东合照",
+        "onboard_time": 1764603501,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57078,
+        "num": 227693,
+        "word": "内娱观众 如饥似渴",
+        "onboard_time": 1764590423,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 57024,
+        "num": 227606,
+        "word": "吸毒者是艾滋病的高发人群",
+        "onboard_time": 1764590122,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55611,
+        "num": 227539,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55282,
+        "num": 227493,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 38,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 53562,
+        "num": 227478,
+        "word": "王楚钦盛赞女队队友",
+        "onboard_time": 1764595764,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55083,
+        "num": 227385,
+        "word": "TF家族冒泡",
+        "onboard_time": 1764591802,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52314,
+        "num": 227345,
+        "word": "张若昀梳了丸子头",
+        "onboard_time": 1764592642,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49704,
+        "num": 227258,
+        "word": "SofM以选手身份复出",
+        "onboard_time": 1764596244,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 48025,
+        "num": 227248,
+        "word": "杨迪的公关速度有多快",
+        "onboard_time": 1764600143,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46443,
+        "num": 227190,
+        "word": "郑恺苗苗牵手参加上戏校庆",
+        "onboard_time": 1764598643,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 45930,
+        "num": 227109,
+        "word": "终于有剧不为了美随意换衣服了",
+        "onboard_time": 1764590782,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 45089,
+        "num": 227086,
+        "word": "李乃文疑似在大孤山当地陪",
+        "onboard_time": 1764594502,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44550,
+        "num": 227019,
+        "word": "中国男篮对阵韩国两连败",
+        "onboard_time": 1764590423,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 43164,
+        "num": 226976,
+        "word": "刘耀文直播",
+        "onboard_time": 1764584181,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40731,
+        "num": 226908,
+        "word": "中国男篮晋级形势",
+        "onboard_time": 1764595582,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
