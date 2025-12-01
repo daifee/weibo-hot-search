@@ -1,10 +1,10 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764631595314,
+  "endTime": 1764632429139,
   "band_list": [
     {
       "raw_hot": 835947,
-      "num": 229054,
+      "num": 571454,
       "word": "为什么避孕药品和用具要收税了",
       "onboard_time": 1764604160,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 651510,
-      "num": 229012,
+      "num": 413620,
       "word": "陈赫王传君金世佳同框",
       "onboard_time": 1764599844,
       "rank": 11,
@@ -27,8 +27,16 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 334118,
-      "num": 790194,
+      "raw_hot": 352658,
+      "num": 110388,
+      "word": "杨幂就吃了一个寿司一口面",
+      "onboard_time": 1764631158,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 350579,
+      "num": 888748,
       "word": "高市早苗被爆花8384万日元仍惨败",
       "onboard_time": 1764591082,
       "rank": 0,
@@ -36,7 +44,7 @@
     },
     {
       "raw_hot": 324532,
-      "num": 229338,
+      "num": 734856,
       "word": "达美乐 大美乐",
       "onboard_time": 1764604639,
       "rank": 5,
@@ -49,6 +57,22 @@
       "onboard_time": 1764600983,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 303057,
+      "num": 108319,
+      "word": "胖东来小方糖戒指热卖",
+      "onboard_time": 1764630678,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 241714,
+      "num": 788829,
+      "word": "金饰克价涨到1336元",
+      "onboard_time": 1764631038,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 236755,
@@ -84,11 +108,19 @@
     },
     {
       "raw_hot": 206994,
-      "num": 85009,
+      "num": 105372,
       "word": "甲型H3N2流行 症状前24小时排毒",
       "onboard_time": 1764630737,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 192605,
+      "num": 192605,
+      "word": "才知道原来100%纯棉不是棉",
+      "onboard_time": 1764630977,
+      "rank": 18,
+      "category": "情感"
     },
     {
       "raw_hot": 179520,
@@ -123,14 +155,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 163067,
-      "num": 83748,
-      "word": "胖东来小方糖戒指热卖",
-      "onboard_time": 1764630678,
-      "rank": 21,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 151931,
       "num": 403588,
       "word": "应届硕士偷偷参加国考",
@@ -139,16 +163,8 @@
       "category": "教育"
     },
     {
-      "raw_hot": 151897,
-      "num": 83258,
-      "word": "杨幂就吃了一个寿司一口面",
-      "onboard_time": 1764631158,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 130249,
-      "num": 229281,
+      "num": 707874,
       "word": "日本国宝级歌手喊话高市爽快一点",
       "onboard_time": 1764600085,
       "rank": 6,
@@ -164,7 +180,7 @@
     },
     {
       "raw_hot": 123324,
-      "num": 123324,
+      "num": 759151,
       "word": "电影得闲谨制",
       "onboard_time": 1764625873,
       "rank": 3,
@@ -172,11 +188,19 @@
     },
     {
       "raw_hot": 121696,
-      "num": 121696,
+      "num": 665984,
       "word": "寒潮",
       "onboard_time": 1764624673,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120851,
+      "num": 866094,
+      "word": "王励勤乒羽运动管理中心副主任",
+      "onboard_time": 1764599063,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 113008,
@@ -185,14 +209,6 @@
       "onboard_time": 1764599124,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 108371,
-      "num": 405358,
-      "word": "王励勤乒羽运动管理中心副主任",
-      "onboard_time": 1764599063,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 107902,
@@ -211,14 +227,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 99311,
-      "num": 85574,
-      "word": "才知道原来100%纯棉不是棉",
-      "onboard_time": 1764630977,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 92559,
       "num": 228382,
       "word": "环卫工被故意文粗眉被迫花2万",
@@ -235,20 +243,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 86873,
-      "num": 86873,
-      "word": "金饰克价涨到1336元",
-      "onboard_time": 1764631038,
-      "rank": 8,
-      "category": "财经"
-    },
-    {
       "raw_hot": 85543,
       "num": 228015,
       "word": "妻子婚内与人同居被判赔丈夫8000元",
       "onboard_time": 1764603863,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82924,
+      "num": 56485,
+      "word": "疯狂动物城1和2的核心差异",
+      "onboard_time": 1764631698,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 81335,
@@ -265,6 +273,14 @@
       "onboard_time": 1764590782,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 78432,
+      "num": 78432,
+      "word": "胡歌说女儿习惯了进组的生活",
+      "onboard_time": 1764589581,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 77456,
@@ -315,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 69475,
+      "num": 829990,
+      "word": "治沙人种下的10万株玫瑰长大了",
+      "onboard_time": 1764595644,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 68666,
       "num": 227935,
       "word": "顾客买鞋子仅退款发AI图",
@@ -355,12 +379,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 61902,
-      "num": 278360,
-      "word": "治沙人种下的10万株玫瑰长大了",
-      "onboard_time": 1764595644,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 61882,
+      "num": 611323,
+      "word": "40年前她发现中国首例艾滋病",
+      "onboard_time": 1764610276,
+      "rank": 30,
+      "category": "正能量"
     },
     {
       "raw_hot": 61124,
@@ -371,28 +395,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 57189,
-      "num": 57189,
-      "word": "胡歌说女儿习惯了进组的生活",
-      "onboard_time": 1764589581,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 57078,
       "num": 227693,
       "word": "内娱观众 如饥似渴",
       "onboard_time": 1764590423,
       "rank": 35,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 56784,
-      "num": 117433,
-      "word": "40年前她发现中国首例艾滋病",
-      "onboard_time": 1764610276,
-      "rank": 30,
-      "category": "正能量"
     },
     {
       "raw_hot": 55902,
@@ -435,12 +443,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 53676,
+      "num": 53676,
+      "word": "钟楚曦金狮大赏最佳女配角",
+      "onboard_time": 1764630737,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 53562,
-      "num": 227478,
+      "num": 573526,
       "word": "王楚钦盛赞女队队友",
       "onboard_time": 1764595764,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 52696,
+      "num": 143242,
+      "word": "人民日报谈小米集团高质量发展",
+      "onboard_time": 1764594264,
+      "rank": 47,
+      "category": "互联网"
     },
     {
       "raw_hot": 52314,
@@ -452,7 +476,7 @@
     },
     {
       "raw_hot": 51700,
-      "num": 51700,
+      "num": 52661,
       "word": "许玮甯邱泽婚戒是亲自设计的",
       "onboard_time": 1764628155,
       "rank": 45,
@@ -465,14 +489,6 @@
       "onboard_time": 1764596244,
       "rank": 42,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 48546,
-      "num": 143242,
-      "word": "人民日报谈小米集团高质量发展",
-      "onboard_time": 1764594264,
-      "rank": 47,
-      "category": "互联网"
     },
     {
       "raw_hot": 48025,
@@ -499,6 +515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 44289,
+      "num": 52595,
+      "word": "猫妹妹爸爸欠债几十万",
+      "onboard_time": 1764613455,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 43714,
       "num": 128337,
       "word": "陈晓演秦始皇",
@@ -515,14 +539,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 41485,
-      "num": 49047,
-      "word": "猫妹妹爸爸欠债几十万",
-      "onboard_time": 1764613455,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 40731,
       "num": 226908,
       "word": "中国男篮晋级形势",
@@ -531,16 +547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 38954,
-      "num": 41476,
-      "word": "钟楚曦金狮大赏最佳女配角",
-      "onboard_time": 1764630737,
-      "rank": 42,
-      "category": "电影"
-    },
-    {
       "raw_hot": 36927,
-      "num": 41469,
+      "num": 52457,
       "word": "白依梅人设",
       "onboard_time": 1764629357,
       "rank": 45,
