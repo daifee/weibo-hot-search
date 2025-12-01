@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764628002697,
+  "endTime": 1764628973615,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -171,6 +171,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 92099,
+      "num": 60832,
+      "word": "寒潮",
+      "onboard_time": 1764624673,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88719,
+      "num": 48825,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81335,
       "num": 228332,
       "word": "女儿回应老人花10元剃头满头血痂",
@@ -235,6 +251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 68870,
+      "num": 227086,
+      "word": "李乃文疑似在大孤山当地陪",
+      "onboard_time": 1764594502,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 68666,
       "num": 227935,
       "word": "顾客买鞋子仅退款发AI图",
@@ -275,12 +299,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62388,
-      "num": 227086,
-      "word": "李乃文疑似在大孤山当地陪",
-      "onboard_time": 1764594502,
-      "rank": 46,
-      "category": "艺人"
+      "raw_hot": 62068,
+      "num": 62068,
+      "word": "电影得闲谨制",
+      "onboard_time": 1764625873,
+      "rank": 3,
+      "category": "电影"
     },
     {
       "raw_hot": 61124,
@@ -288,14 +312,6 @@
       "word": "吸毒者是艾滋病的高发人群",
       "onboard_time": 1764590122,
       "rank": 36,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 59151,
-      "num": 48825,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -387,14 +403,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 46818,
-      "num": 46818,
-      "word": "电影得闲谨制",
-      "onboard_time": 1764625873,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 46443,
       "num": 227190,
       "word": "郑恺苗苗牵手参加上戏校庆",
@@ -409,14 +417,6 @@
       "onboard_time": 1764590782,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 44903,
-      "num": 44903,
-      "word": "寒潮",
-      "onboard_time": 1764624673,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44550,
@@ -435,20 +435,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42897,
+      "num": 128337,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40731,
       "num": 226908,
       "word": "中国男篮晋级形势",
       "onboard_time": 1764595582,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 38312,
-      "num": 128337,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 36793,
@@ -475,20 +475,20 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34743,
+      "num": 79876,
+      "word": "袁湘琴骑车去二中接孩子逆行",
+      "onboard_time": 1764585683,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 34363,
       "num": 79905,
       "word": "汪苏泷罗曼城",
       "onboard_time": 1764609796,
       "rank": 31,
       "category": "演出"
-    },
-    {
-      "raw_hot": 30739,
-      "num": 79876,
-      "word": "袁湘琴骑车去二中接孩子逆行",
-      "onboard_time": 1764585683,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 28506,
@@ -507,6 +507,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25641,
+      "num": 41403,
+      "word": "杨乐乐带儿子参加马术比赛",
+      "onboard_time": 1764627855,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 24609,
+      "num": 49156,
+      "word": "俄罗斯免签",
+      "onboard_time": 1764575362,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24544,
       "num": 55351,
       "word": "迪丽热巴说通过角色传递社会价值",
@@ -515,12 +531,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 23977,
-      "num": 49156,
-      "word": "俄罗斯免签",
-      "onboard_time": 1764575362,
-      "rank": 27,
-      "category": "国际时政"
+      "raw_hot": 23513,
+      "num": 49047,
+      "word": "猫妹妹爸爸欠债几十万",
+      "onboard_time": 1764613455,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 23088,
@@ -531,14 +547,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21738,
-      "num": 49047,
-      "word": "猫妹妹爸爸欠债几十万",
-      "onboard_time": 1764613455,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 20903,
       "num": 79881,
       "word": "您有一笔退款12月1日开始确认",
@@ -547,7 +555,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 17855,
+      "raw_hot": 20451,
       "num": 41464,
       "word": "英国拟对留学生征收6%附加费",
       "onboard_time": 1764621073,
@@ -555,7 +563,15 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 14101,
+      "raw_hot": 18627,
+      "num": 30713,
+      "word": "许玮甯邱泽婚戒是亲自设计的",
+      "onboard_time": 1764628155,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 14912,
       "num": 46262,
       "word": "成本70万自研高超音速导弹问世",
       "onboard_time": 1764611594,
@@ -569,14 +585,6 @@
       "onboard_time": 1764619934,
       "rank": 36,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 12273,
-      "num": 41403,
-      "word": "杨乐乐带儿子参加马术比赛",
-      "onboard_time": 1764627855,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 11194,

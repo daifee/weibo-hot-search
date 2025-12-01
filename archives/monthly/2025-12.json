@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764628002697,
+  "endTime": 1764628973615,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -2683,6 +2683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 92099,
+      "num": 60832,
+      "word": "寒潮",
+      "onboard_time": 1764624673,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91910,
       "num": 213482,
       "word": "真毛就是比聚酯纤维好看",
@@ -2745,6 +2753,14 @@
       "onboard_time": 1764544879,
       "rank": 32,
       "category": "教育"
+    },
+    {
+      "raw_hot": 88719,
+      "num": 48825,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 88604,
@@ -3155,6 +3171,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62068,
+      "num": 62068,
+      "word": "电影得闲谨制",
+      "onboard_time": 1764625873,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 59999,
       "num": 111532,
       "word": "刘诗诗走路腰发力",
@@ -3177,14 +3201,6 @@
       "onboard_time": 1764510381,
       "rank": 46,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 59151,
-      "num": 48825,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58921,
@@ -3339,14 +3355,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 46818,
-      "num": 46818,
-      "word": "电影得闲谨制",
-      "onboard_time": 1764625873,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 46530,
       "num": 194683,
       "word": "美乌4小时会谈细节曝光",
@@ -3377,14 +3385,6 @@
       "onboard_time": 1764581723,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 44903,
-      "num": 44903,
-      "word": "寒潮",
-      "onboard_time": 1764624673,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 44600,
@@ -3457,6 +3457,14 @@
       "onboard_time": 1764582562,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 42897,
+      "num": 128337,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
     },
     {
       "raw_hot": 42826,
@@ -3537,14 +3545,6 @@
       "onboard_time": 1764524115,
       "rank": 43,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 38312,
-      "num": 128337,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 36935,
@@ -3715,6 +3715,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 25641,
+      "num": 41403,
+      "word": "杨乐乐带儿子参加马术比赛",
+      "onboard_time": 1764627855,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 25338,
       "num": 107140,
       "word": "真实的美国是什么样的",
@@ -3779,6 +3787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23513,
+      "num": 49047,
+      "word": "猫妹妹爸爸欠债几十万",
+      "onboard_time": 1764613455,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 23451,
       "num": 131641,
       "word": "声鸣远扬选手误闯天家",
@@ -3795,12 +3811,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21738,
-      "num": 49047,
-      "word": "猫妹妹爸爸欠债几十万",
-      "onboard_time": 1764613455,
-      "rank": 35,
-      "category": "网红"
+      "raw_hot": 20451,
+      "num": 41464,
+      "word": "英国拟对留学生征收6%附加费",
+      "onboard_time": 1764621073,
+      "rank": 27,
+      "category": "国际时政"
     },
     {
       "raw_hot": 19113,
@@ -3809,6 +3825,14 @@
       "onboard_time": 1764567681,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18627,
+      "num": 30713,
+      "word": "许玮甯邱泽婚戒是亲自设计的",
+      "onboard_time": 1764628155,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 18621,
@@ -3825,14 +3849,6 @@
       "onboard_time": 1764556160,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 17855,
-      "num": 41464,
-      "word": "英国拟对留学生征收6%附加费",
-      "onboard_time": 1764621073,
-      "rank": 27,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17130,
@@ -3859,20 +3875,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14912,
+      "num": 46262,
+      "word": "成本70万自研高超音速导弹问世",
+      "onboard_time": 1764611594,
+      "rank": 47,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14588,
       "num": 193593,
       "word": "女婴病危家长质疑月嫂照顾最新进展",
       "onboard_time": 1764556760,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14101,
-      "num": 46262,
-      "word": "成本70万自研高超音速导弹问世",
-      "onboard_time": 1764611594,
-      "rank": 47,
-      "category": "国内时政"
     },
     {
       "raw_hot": 13772,
@@ -3905,14 +3921,6 @@
       "onboard_time": 1764571282,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 12273,
-      "num": 41403,
-      "word": "杨乐乐带儿子参加马术比赛",
-      "onboard_time": 1764627855,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 12208,
