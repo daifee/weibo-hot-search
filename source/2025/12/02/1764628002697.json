@@ -1,0 +1,410 @@
+{
+  "runTime": 1764628002697,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 109456,
+        "num": 387582,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48148,
+        "num": 48148,
+        "word": "王励勤乒羽运动管理中心副主任",
+        "onboard_time": 1764599063,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22520,
+        "num": 47444,
+        "word": "治沙人种下的10万株玫瑰长大了",
+        "onboard_time": 1764595644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46818,
+        "num": 46818,
+        "word": "电影得闲谨制",
+        "onboard_time": 1764625873,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27271,
+        "num": 45200,
+        "word": "应届硕士偷偷参加国考",
+        "onboard_time": 1764592942,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 61486,
+        "num": 45199,
+        "word": "达美乐 大美乐",
+        "onboard_time": 1764604639,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45131,
+        "num": 45131,
+        "word": "日本国宝级歌手喊话高市爽快一点",
+        "onboard_time": 1764600085,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 44903,
+        "num": 44903,
+        "word": "寒潮",
+        "onboard_time": 1764624673,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41712,
+        "num": 41712,
+        "word": "40年前她发现中国首例艾滋病",
+        "onboard_time": 1764610276,
+        "rank": 8,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 19228,
+        "num": 41712,
+        "word": "中国男篮对阵韩国两连败",
+        "onboard_time": 1764590423,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 212427,
+        "num": 41698,
+        "word": "为什么避孕药品和用具要收税了",
+        "onboard_time": 1764604160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109525,
+        "num": 41691,
+        "word": "马市长 邓超",
+        "onboard_time": 1764599002,
+        "rank": 11,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105898,
+        "num": 41685,
+        "word": "陈赫王传君金世佳同框",
+        "onboard_time": 1764599844,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 71419,
+        "num": 41676,
+        "word": "专家建议不要用冲绳称呼琉球群岛",
+        "onboard_time": 1764599544,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63015,
+        "num": 41673,
+        "word": "郑恺上戏合影 AI生成",
+        "onboard_time": 1764600983,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 62388,
+        "num": 41659,
+        "word": "李乃文疑似在大孤山当地陪",
+        "onboard_time": 1764594502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51196,
+        "num": 41651,
+        "word": "大三男生网络交友3个月感染艾滋病",
+        "onboard_time": 1764599124,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48711,
+        "num": 41643,
+        "word": "我有个烧钱且小众的爱好",
+        "onboard_time": 1764599183,
+        "rank": 17,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 38312,
+        "num": 41640,
+        "word": "陈晓演秦始皇",
+        "onboard_time": 1764618554,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31776,
+        "num": 41632,
+        "word": "妻子婚内与人同居被判赔丈夫8000元",
+        "onboard_time": 1764603863,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59099,
+        "num": 41623,
+        "word": "倒头就睡可能是身体求救信号",
+        "onboard_time": 1764599782,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 31043,
+        "num": 41620,
+        "word": "女子烫发4小时称出去透气后疑跑路",
+        "onboard_time": 1764599124,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30182,
+        "num": 41606,
+        "word": "终于有剧不为了美随意换衣服了",
+        "onboard_time": 1764590782,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 27902,
+        "num": 41603,
+        "word": "环卫工被故意文粗眉被迫花2万",
+        "onboard_time": 1764593242,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 27650,
+        "num": 41592,
+        "word": "星光大赏",
+        "onboard_time": 1764589822,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26024,
+        "num": 41581,
+        "word": "袁湘琴骑车去二中接孩子逆行",
+        "onboard_time": 1764585683,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25279,
+        "num": 41576,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 26,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 23776,
+        "num": 41570,
+        "word": "女儿回应老人花10元剃头满头血痂",
+        "onboard_time": 1764592762,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23411,
+        "num": 41564,
+        "word": "郑恺苗苗牵手参加上戏校庆",
+        "onboard_time": 1764598643,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22498,
+        "num": 41555,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 59151,
+        "num": 41549,
+        "word": "香港火灾女子拍门救4人自己遇难",
+        "onboard_time": 1764614954,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22428,
+        "num": 41536,
+        "word": "人民日报谈小米集团高质量发展",
+        "onboard_time": 1764594264,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20632,
+        "num": 41530,
+        "word": "大生意人 传统长剧",
+        "onboard_time": 1764595943,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 20083,
+        "num": 41521,
+        "word": "猫妹妹爸爸欠债几十万",
+        "onboard_time": 1764613455,
+        "rank": 33,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 19963,
+        "num": 41516,
+        "word": "疯狂动物城3 飞禽",
+        "onboard_time": 1764603622,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 19657,
+        "num": 41507,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1764601344,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 18984,
+        "num": 41503,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18775,
+        "num": 41488,
+        "word": "顾客买鞋子仅退款发AI图",
+        "onboard_time": 1764590602,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18344,
+        "num": 41484,
+        "word": "胡歌说没有平衡好事业和家庭",
+        "onboard_time": 1764596182,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17935,
+        "num": 41474,
+        "word": "王楚钦盛赞女队队友",
+        "onboard_time": 1764595764,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 17878,
+        "num": 41473,
+        "word": "朱亚文向涵之 二搭",
+        "onboard_time": 1764601582,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17855,
+        "num": 41464,
+        "word": "英国拟对留学生征收6%附加费",
+        "onboard_time": 1764621073,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 16124,
+        "num": 41452,
+        "word": "宋佳获金狮大赏最佳女主角",
+        "onboard_time": 1764610456,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 15694,
+        "num": 41450,
+        "word": "内娱观众 如饥似渴",
+        "onboard_time": 1764590423,
+        "rank": 43,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 15572,
+        "num": 41439,
+        "word": "电影院凭什么不让拍",
+        "onboard_time": 1764601582,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 14519,
+        "num": 41433,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14101,
+        "num": 41424,
+        "word": "成本70万自研高超音速导弹问世",
+        "onboard_time": 1764611594,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 13228,
+        "num": 41413,
+        "word": "BLG官宣Viper加入",
+        "onboard_time": 1764584181,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 12362,
+        "num": 41409,
+        "word": "刘宇宁新歌有去无回",
+        "onboard_time": 1764611115,
+        "rank": 48,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 12273,
+        "num": 41403,
+        "word": "杨乐乐带儿子参加马术比赛",
+        "onboard_time": 1764627855,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764624987332,
+  "endTime": 1764628002697,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -275,11 +275,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 62388,
+      "num": 227086,
+      "word": "李乃文疑似在大孤山当地陪",
+      "onboard_time": 1764594502,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 61124,
       "num": 227606,
       "word": "吸毒者是艾滋病的高发人群",
       "onboard_time": 1764590122,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 59151,
+      "num": 48825,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -371,6 +387,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 46818,
+      "num": 46818,
+      "word": "电影得闲谨制",
+      "onboard_time": 1764625873,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46443,
       "num": 227190,
       "word": "郑恺苗苗牵手参加上戏校庆",
@@ -387,20 +411,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 45478,
-      "num": 48825,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
+      "raw_hot": 44903,
+      "num": 44903,
+      "word": "寒潮",
+      "onboard_time": 1764624673,
+      "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 45089,
-      "num": 227086,
-      "word": "李乃文疑似在大孤山当地陪",
-      "onboard_time": 1764594502,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 44550,
@@ -427,6 +443,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 38312,
+      "num": 128337,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36793,
       "num": 79914,
       "word": "汪苏泷杭州演唱会",
@@ -449,14 +473,6 @@
       "onboard_time": 1764594264,
       "rank": 47,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 34393,
-      "num": 128337,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 34363,
@@ -531,12 +547,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14326,
-      "num": 23018,
+      "raw_hot": 17855,
+      "num": 41464,
       "word": "英国拟对留学生征收6%附加费",
       "onboard_time": 1764621073,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 14101,
+      "num": 46262,
+      "word": "成本70万自研高超音速导弹问世",
+      "onboard_time": 1764611594,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13387,
@@ -547,12 +571,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13292,
-      "num": 46262,
-      "word": "成本70万自研高超音速导弹问世",
-      "onboard_time": 1764611594,
-      "rank": 47,
-      "category": "国内时政"
+      "raw_hot": 12273,
+      "num": 41403,
+      "word": "杨乐乐带儿子参加马术比赛",
+      "onboard_time": 1764627855,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 11194,

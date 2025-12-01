@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764624987332,
+  "endTime": 1764628002697,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -3179,6 +3179,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 59151,
+      "num": 48825,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58921,
       "num": 98603,
       "word": "俄罗斯将采集出入境外国人生物信息",
@@ -3331,6 +3339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 46818,
+      "num": 46818,
+      "word": "电影得闲谨制",
+      "onboard_time": 1764625873,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 46530,
       "num": 194683,
       "word": "美乌4小时会谈细节曝光",
@@ -3355,20 +3371,20 @@
       "category": "国际时政,体育"
     },
     {
-      "raw_hot": 45478,
-      "num": 48825,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 45274,
       "num": 101851,
       "word": "邓超孙俪儿子U14男子组亚军",
       "onboard_time": 1764581723,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 44903,
+      "num": 44903,
+      "word": "寒潮",
+      "onboard_time": 1764624673,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44600,
@@ -3523,6 +3539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38312,
+      "num": 128337,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 36935,
       "num": 127216,
       "word": "短剧抄袭的底线在哪",
@@ -3577,14 +3601,6 @@
       "onboard_time": 1764570081,
       "rank": 41,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 34393,
-      "num": 128337,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 34363,
@@ -3811,6 +3827,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17855,
+      "num": 41464,
+      "word": "英国拟对留学生征收6%附加费",
+      "onboard_time": 1764621073,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17130,
       "num": 132269,
       "word": "疯狂动物城2反派是猫的原因",
@@ -3843,12 +3867,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 14326,
-      "num": 23018,
-      "word": "英国拟对留学生征收6%附加费",
-      "onboard_time": 1764621073,
-      "rank": 27,
-      "category": "国际时政"
+      "raw_hot": 14101,
+      "num": 46262,
+      "word": "成本70万自研高超音速导弹问世",
+      "onboard_time": 1764611594,
+      "rank": 47,
+      "category": "国内时政"
     },
     {
       "raw_hot": 13772,
@@ -3875,20 +3899,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 13292,
-      "num": 46262,
-      "word": "成本70万自研高超音速导弹问世",
-      "onboard_time": 1764611594,
-      "rank": 47,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 12908,
       "num": 136365,
       "word": "女子保险等待期患癌理赔被拒",
       "onboard_time": 1764571282,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12273,
+      "num": 41403,
+      "word": "杨乐乐带儿子参加马术比赛",
+      "onboard_time": 1764627855,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 12208,
