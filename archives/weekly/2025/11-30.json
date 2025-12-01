@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764600491246,
+  "endTime": 1764603061728,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -195,6 +195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 1087337,
+      "num": 237109,
+      "word": "陈赫王传君金世佳同框",
+      "onboard_time": 1764599844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1081304,
       "num": 1081304,
       "word": "BLG官宣Viper加入",
@@ -243,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 979695,
+      "num": 236900,
+      "word": "名校硕士沦为患艾吸毒者",
+      "onboard_time": 1764598762,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 951929,
       "num": 1093962,
       "word": "外卖大战6个月烧掉近800亿",
@@ -265,14 +281,6 @@
       "onboard_time": 1764461660,
       "rank": 20,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 895695,
-      "num": 206978,
-      "word": "名校硕士沦为患艾吸毒者",
-      "onboard_time": 1764598762,
-      "rank": 12,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 883597,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 580499,
-      "num": 206493,
+      "num": 236589,
       "word": "马市长 邓超",
       "onboard_time": 1764599002,
       "rank": 16,
@@ -897,6 +905,14 @@
       "onboard_time": 1764505940,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 412231,
+      "num": 236277,
+      "word": "郑恺上戏合影 AI生成",
+      "onboard_time": 1764600983,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 409462,
@@ -1316,7 +1332,7 @@
     },
     {
       "raw_hot": 310938,
-      "num": 206755,
+      "num": 234677,
       "word": "杨幂女演员的自律",
       "onboard_time": 1764596364,
       "rank": 42,
@@ -1388,7 +1404,7 @@
     },
     {
       "raw_hot": 296405,
-      "num": 200539,
+      "num": 235700,
       "word": "朱志鑫的百度百科",
       "onboard_time": 1764595644,
       "rank": 23,
@@ -1595,6 +1611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 264878,
+      "num": 235486,
+      "word": "大三男生网络交友3个月感染艾滋病",
+      "onboard_time": 1764599124,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262991,
       "num": 859523,
       "word": "警方就大埔火灾已拘捕13人",
@@ -1635,6 +1659,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 251471,
+      "num": 234686,
+      "word": "专家建议不要用冲绳称呼琉球群岛",
+      "onboard_time": 1764599544,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 246641,
       "num": 790931,
       "word": "官方通报店主实名举报公职人员",
@@ -1665,6 +1697,14 @@
       "onboard_time": 1764595043,
       "rank": 18,
       "category": "情感"
+    },
+    {
+      "raw_hot": 238078,
+      "num": 238078,
+      "word": "日本国宝级歌手喊话高市爽快一点",
+      "onboard_time": 1764600085,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 237865,
@@ -1795,20 +1835,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223601,
-      "num": 170932,
-      "word": "大三男生网络交友3个月感染艾滋病",
-      "onboard_time": 1764599124,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 222823,
       "num": 222823,
       "word": "中国女足0比8英格兰女足",
       "onboard_time": 1764460939,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 222766,
+      "num": 176948,
+      "word": "女子烫发4小时称出去透气后疑跑路",
+      "onboard_time": 1764599124,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222071,
@@ -2771,6 +2811,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 160474,
+      "num": 160474,
+      "word": "本周做什么都顺的星座",
+      "onboard_time": 1764601344,
+      "rank": 21,
+      "category": "情感"
+    },
+    {
       "raw_hot": 160440,
       "num": 160440,
       "word": "星光大赏顶流聚集最齐的一年",
@@ -2811,14 +2859,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157459,
-      "num": 157459,
-      "word": "女子烫发4小时称出去透气后疑跑路",
-      "onboard_time": 1764599124,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 157067,
       "num": 215446,
       "word": "孙颖莎王楚钦出战单打",
@@ -2849,14 +2889,6 @@
       "onboard_time": 1764487161,
       "rank": 27,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 156335,
-      "num": 156335,
-      "word": "陈赫王传君金世佳同框",
-      "onboard_time": 1764599844,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 155537,
@@ -2995,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 150979,
+      "num": 150979,
+      "word": "朱亚文向涵之 二搭",
+      "onboard_time": 1764601582,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150811,
       "num": 150811,
       "word": "梁伟铿回应缺席刘雨辰黄雅琼婚礼",
@@ -3017,6 +3057,14 @@
       "onboard_time": 1764598643,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150196,
+      "num": 150196,
+      "word": "倒头就睡可能是身体求救信号",
+      "onboard_time": 1764599782,
+      "rank": 23,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 150134,
@@ -4547,6 +4595,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 105386,
+      "num": 105386,
+      "word": "我有个烧钱且小众的爱好",
+      "onboard_time": 1764599183,
+      "rank": 31,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 105319,
       "num": 105319,
       "word": "苗梦初 野心家",
@@ -4843,6 +4899,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 97119,
+      "num": 97119,
+      "word": "电影院凭什么不让拍",
+      "onboard_time": 1764601582,
+      "rank": 32,
+      "category": "电影"
+    },
+    {
       "raw_hot": 97025,
       "num": 97025,
       "word": "这一轮行情非常可能会泡沫化",
@@ -5001,6 +5065,14 @@
       "onboard_time": 1764430703,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93340,
+      "num": 93340,
+      "word": "邓佳鑫vlog",
+      "onboard_time": 1764602723,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 92975,
@@ -5209,14 +5281,6 @@
       "onboard_time": 1764510201,
       "rank": 47,
       "category": "教育"
-    },
-    {
-      "raw_hot": 88248,
-      "num": 171079,
-      "word": "日本国宝级歌手喊话高市爽快一点",
-      "onboard_time": 1764600085,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 88111,
@@ -5465,6 +5529,14 @@
       "onboard_time": 1764580222,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82964,
+      "num": 82964,
+      "word": "SofM回应复出",
+      "onboard_time": 1764602363,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 82888,
@@ -6097,14 +6169,6 @@
       "onboard_time": 1764526455,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 56128,
-      "num": 171547,
-      "word": "专家建议不要用冲绳称呼琉球群岛",
-      "onboard_time": 1764599544,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55862,
