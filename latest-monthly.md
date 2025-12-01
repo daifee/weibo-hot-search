@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/02 02:43:29
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/02 02:57:58
 </p>
 </blockquote>
 <p>
@@ -2439,6 +2439,12 @@ iG纪录片（热度：59254）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2340%E5%B9%B4%E5%89%8D%E5%A5%B9%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%89%BE%E6%BB%8B%E7%97%85%23" target="weibo">
+40年前她发现中国首例艾滋病（热度：56784）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%A6%86%E6%9E%97%E5%AD%A6%E7%94%9F%E9%81%AD%E9%9C%B8%E5%87%8C%E9%83%A8%E5%88%86%E5%AD%A6%E7%94%9F%E5%8F%8A%E5%AE%B6%E9%95%BF%E5%B7%B2%E9%81%93%E6%AD%89%23" target="weibo">
 榆林学生遭霸凌部分学生及家长已道歉（热度：56174）
 </a>
@@ -2471,12 +2477,6 @@ iG纪录片（热度：59254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%94%A6%E5%B7%9E%E4%B8%BA%E4%BB%80%E4%B9%88%E6%B2%A1%E6%9C%89%E5%BF%85%E5%90%83%E6%A6%9C%23" target="weibo">
 锦州为什么没有必吃榜（热度：54328）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2340%E5%B9%B4%E5%89%8D%E5%A5%B9%E5%8F%91%E7%8E%B0%E4%B8%AD%E5%9B%BD%E9%A6%96%E4%BE%8B%E8%89%BE%E6%BB%8B%E7%97%85%23" target="weibo">
-40年前她发现中国首例艾滋病（热度：54144）
 </a>
 </li>
 
@@ -2805,6 +2805,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E7%81%AB%E7%81%BE%E5%A5%B3%E5%AD%90%E6%8B%8D%E9%97%A8%E6%95%914%E4%BA%BA%E8%87%AA%E5%B7%B1%E9%81%87%E9%9A%BE%23" target="weibo">
+香港火灾女子拍门救4人自己遇难（热度：24223）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%8A%9B%E7%A0%96%E5%91%BD%E6%A1%88%E5%AE%B6%E5%B1%9E%E7%A7%B0%E5%87%B6%E6%89%8B%E5%A4%9A%E6%AC%A1%E6%8A%9B%E7%89%A9%E6%B2%A1%E4%BA%BA%E7%AE%A1%23" target="weibo">
 抛砖命案家属称凶手多次抛物没人管（热度：24170）
 </a>
@@ -2836,7 +2842,7 @@ iG众将回应输给T1（热度：29444）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8C%AB%E5%A6%B9%E5%A6%B9%E7%88%B8%E7%88%B8%E6%AC%A0%E5%80%BA%E5%87%A0%E5%8D%81%E4%B8%87%23" target="weibo">
-猫妹妹爸爸欠债几十万（热度：20229）
+猫妹妹爸爸欠债几十万（热度：21738）
 </a>
 </li>
 

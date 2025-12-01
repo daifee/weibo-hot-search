@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764614609477,
+  "endTime": 1764615478362,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -291,6 +291,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 56784,
+      "num": 55470,
+      "word": "40年前她发现中国首例艾滋病",
+      "onboard_time": 1764610276,
+      "rank": 30,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 55728,
       "num": 55728,
       "word": "宋佳获金狮大赏最佳女主角",
@@ -321,14 +329,6 @@
       "onboard_time": 1764591802,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 54144,
-      "num": 55470,
-      "word": "40年前她发现中国首例艾滋病",
-      "onboard_time": 1764610276,
-      "rank": 30,
-      "category": "正能量"
     },
     {
       "raw_hot": 53562,
@@ -483,6 +483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24223,
+      "num": 29957,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23977,
       "num": 31075,
       "word": "俄罗斯免签",
@@ -499,20 +507,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21738,
+      "num": 31019,
+      "word": "猫妹妹爸爸欠债几十万",
+      "onboard_time": 1764613455,
+      "rank": 35,
+      "category": "网红"
+    },
+    {
       "raw_hot": 20903,
       "num": 79881,
       "word": "您有一笔退款12月1日开始确认",
       "onboard_time": 1764571462,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20229,
-      "num": 31019,
-      "word": "猫妹妹爸爸欠债几十万",
-      "onboard_time": 1764613455,
-      "rank": 35,
-      "category": "网红"
     }
   ],
   "hotgov_list": [
