@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764545936170,
+  "endTime": 1764555915292,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -211,6 +211,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 683952,
+      "num": 215829,
+      "word": "一身聚酯纤维的我怎么敢碰纯毛的你",
+      "onboard_time": 1764547281,
+      "rank": 10,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 680256,
       "num": 884445,
       "word": "假奶粉 奶精加淀粉",
@@ -315,6 +323,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 556299,
+      "num": 212704,
+      "word": "日本发布高市早苗外交场面引群嘲",
+      "onboard_time": 1764550222,
+      "rank": 12,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 548087,
       "num": 1087693,
       "word": "让劣迹网红的复出试探无处遁形",
@@ -395,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 474439,
+      "num": 1075910,
+      "word": "中国人在太空存粮多得超乎想象",
+      "onboard_time": 1764550699,
+      "rank": 0,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 467955,
       "num": 211891,
       "word": "魏大勋 这是不是正经节目",
@@ -457,6 +481,14 @@
       "onboard_time": 1764499941,
       "rank": 14,
       "category": "网红"
+    },
+    {
+      "raw_hot": 429267,
+      "num": 210133,
+      "word": "司机鸣笛无效轧到睡狗",
+      "onboard_time": 1764552201,
+      "rank": 14,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 425730,
@@ -531,12 +563,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 396756,
+      "num": 396756,
+      "word": "英超日本国脚手持日军军官卡片合影",
+      "onboard_time": 1764553941,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 394728,
       "num": 257503,
       "word": "刘诗诗仙女盘发",
       "onboard_time": 1764492501,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 393194,
+      "num": 209421,
+      "word": "25岁小伙离世前称加班累到嘴巴渗血",
+      "onboard_time": 1764554000,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 391451,
@@ -561,6 +609,14 @@
       "onboard_time": 1764483860,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 390014,
+      "num": 207312,
+      "word": "谁在买200元一粒的流感药",
+      "onboard_time": 1764553161,
+      "rank": 16,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 377737,
@@ -636,7 +692,7 @@
     },
     {
       "raw_hot": 346505,
-      "num": 153009,
+      "num": 204233,
       "word": "爱马仕继承人被25年财管好友骗光财产",
       "onboard_time": 1764516441,
       "rank": 39,
@@ -681,6 +737,14 @@
       "onboard_time": 1764515063,
       "rank": 22,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 322691,
+      "num": 322691,
+      "word": "长安二十四计",
+      "onboard_time": 1764553161,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 318526,
@@ -795,6 +859,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 283624,
+      "num": 206258,
+      "word": "现在就出发 后期",
+      "onboard_time": 1764554721,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 281293,
       "num": 281293,
       "word": "肖战拒绝螺蛳粉后来真香了",
@@ -849,6 +921,14 @@
       "onboard_time": 1764468620,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 258292,
+      "num": 258292,
+      "word": "电影马腾你别走定档",
+      "onboard_time": 1764555559,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 245338,
@@ -945,6 +1025,14 @@
       "onboard_time": 1764426084,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 218342,
+      "num": 205245,
+      "word": "假奶粉",
+      "onboard_time": 1764550462,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 218295,
@@ -1051,6 +1139,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 205426,
+      "num": 204233,
+      "word": "疯狂动物城2里很喜欢的一句台词",
+      "onboard_time": 1764550400,
+      "rank": 20,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 203852,
+      "num": 203852,
+      "word": "故意传播艾滋病涉嫌违法犯罪",
+      "onboard_time": 1764550699,
+      "rank": 22,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 201430,
       "num": 287482,
       "word": "梁朝伟时隔36年再拍电视剧",
@@ -1081,6 +1185,14 @@
       "onboard_time": 1764471678,
       "rank": 26,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 199332,
+      "num": 130987,
+      "word": "英超球队向中国球迷道歉",
+      "onboard_time": 1764555020,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 199293,
@@ -1139,6 +1251,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 192259,
+      "num": 307446,
+      "word": "国考的难度到底有多大",
+      "onboard_time": 1764546020,
+      "rank": 4,
+      "category": "教育"
+    },
+    {
       "raw_hot": 188363,
       "num": 166667,
       "word": "离异夫妻一夜间相继坠河均已离世",
@@ -1153,6 +1273,14 @@
       "onboard_time": 1764469940,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186823,
+      "num": 71084,
+      "word": "vivo 女性用户",
+      "onboard_time": 1764555139,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185034,
@@ -1203,6 +1331,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 182137,
+      "num": 182137,
+      "word": "独生子女真的不会感觉孤独吗",
+      "onboard_time": 1764554000,
+      "rank": 23,
+      "category": "情感"
+    },
+    {
       "raw_hot": 181515,
       "num": 330340,
       "word": "八仙子",
@@ -1228,7 +1364,7 @@
     },
     {
       "raw_hot": 179511,
-      "num": 112902,
+      "num": 125250,
       "word": "12月",
       "onboard_time": 1764544458,
       "rank": 14,
@@ -1323,6 +1459,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 166762,
+      "num": 166762,
+      "word": "老公卧室里最让她满意的角落",
+      "onboard_time": 1764553161,
+      "rank": 25,
+      "category": "情感"
+    },
+    {
       "raw_hot": 166638,
       "num": 166638,
       "word": "尚雯婕点评苗梦初",
@@ -1393,6 +1537,14 @@
       "onboard_time": 1764483201,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 161725,
+      "num": 161725,
+      "word": "爱马仕继承人被曝坐廉航出行",
+      "onboard_time": 1764549501,
+      "rank": 26,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 161225,
@@ -1467,6 +1619,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 154836,
+      "num": 217441,
+      "word": "Uzi 复出",
+      "onboard_time": 1764555500,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 154236,
       "num": 184021,
       "word": "多国最新涉台表态",
@@ -1497,6 +1657,14 @@
       "onboard_time": 1764473901,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 151502,
+      "num": 151502,
+      "word": "第一次见赌柚的",
+      "onboard_time": 1764547100,
+      "rank": 27,
+      "category": "幽默"
     },
     {
       "raw_hot": 151416,
@@ -1536,6 +1704,14 @@
       "word": "十二月的奇迹",
       "onboard_time": 1764544339,
       "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 149321,
+      "num": 149321,
+      "word": "直观感受到孕激素对母亲的影响",
+      "onboard_time": 1764549560,
+      "rank": 28,
       "category": "情感"
     },
     {
@@ -1729,6 +1905,14 @@
       "onboard_time": 1764505042,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 133840,
+      "num": 133840,
+      "word": "什么破炒饭38元一份",
+      "onboard_time": 1764550579,
+      "rank": 29,
+      "category": "美食"
     },
     {
       "raw_hot": 133756,
@@ -1969,6 +2153,14 @@
       "onboard_time": 1764477320,
       "rank": 48,
       "category": "美食,幽默"
+    },
+    {
+      "raw_hot": 121858,
+      "num": 121858,
+      "word": "神舟二十二号航天员乘组永远空缺",
+      "onboard_time": 1764555139,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 121847,
@@ -2435,6 +2627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 106146,
+      "num": 106146,
+      "word": "美国男子头朝下在捐赠箱窒息身亡",
+      "onboard_time": 1764551840,
+      "rank": 35,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 105966,
       "num": 105966,
       "word": "英法爆发大规模游行",
@@ -2481,6 +2681,14 @@
       "onboard_time": 1764475162,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104653,
+      "num": 104653,
+      "word": "鼠鼠在太空喝足了豆浆",
+      "onboard_time": 1764554841,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 103400,
@@ -2563,12 +2771,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100785,
+      "num": 100785,
+      "word": "高市宣称日本又回来了",
+      "onboard_time": 1764555861,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99781,
       "num": 99781,
       "word": "日媒称高市早苗甩锅",
       "onboard_time": 1764468799,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99337,
+      "num": 99337,
+      "word": "枭起青壤谐音梗",
+      "onboard_time": 1764552501,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 99277,
@@ -2787,6 +3011,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92692,
+      "num": 92692,
+      "word": "胡先煦王安宇上班都路过这",
+      "onboard_time": 1764555861,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 92131,
       "num": 92131,
       "word": "迪丽热巴的打戏像开了二倍速",
@@ -2873,6 +3105,14 @@
       "onboard_time": 1764467360,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 89255,
+      "num": 89255,
+      "word": "华晨宇 欢迎同行来抄",
+      "onboard_time": 1764555680,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 89037,
@@ -3139,6 +3379,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81592,
+      "num": 86854,
+      "word": "浙江仿佛回到秋天",
+      "onboard_time": 1764554661,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81288,
       "num": 313506,
       "word": "14岁初中生学校体测倒地后猝死",
@@ -3291,6 +3539,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 71432,
+      "num": 71432,
+      "word": "流感进入快速上升期",
+      "onboard_time": 1764555020,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 70947,
       "num": 133211,
       "word": "你的3C充电宝可能是假的",
@@ -3369,6 +3625,14 @@
       "onboard_time": 1764536293,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 64786,
+      "num": 94742,
+      "word": "花2万7培训两门课都不及格",
+      "onboard_time": 1764555621,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64680,
@@ -3779,6 +4043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38839,
+      "num": 203962,
+      "word": "高市早苗的言论侵犯了中国的主权",
+      "onboard_time": 1764555621,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 37672,
       "num": 282039,
       "word": "王安宇 骗你的其实最喜欢出片了",
@@ -3904,6 +4176,14 @@
       "word": "委内瑞拉防长说战争即将来临",
       "onboard_time": 1764487280,
       "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 26035,
+      "num": 167105,
+      "word": "美乌4小时会谈细节曝光",
+      "onboard_time": 1764555621,
+      "rank": 24,
       "category": "国际时政"
     },
     {

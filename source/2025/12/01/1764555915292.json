@@ -1,0 +1,410 @@
+{
+  "runTime": 1764555915292,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 474439,
+        "num": 1075910,
+        "word": "中国人在太空存粮多得超乎想象",
+        "onboard_time": 1764550699,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 396756,
+        "num": 396756,
+        "word": "英超日本国脚手持日军军官卡片合影",
+        "onboard_time": 1764553941,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 73567,
+        "num": 358017,
+        "word": "黄土高原变绿了",
+        "onboard_time": 1764507263,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 322691,
+        "num": 322691,
+        "word": "长安二十四计",
+        "onboard_time": 1764553161,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 192259,
+        "num": 307446,
+        "word": "国考的难度到底有多大",
+        "onboard_time": 1764546020,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 304692,
+        "num": 304692,
+        "word": "沈腾的征信都扫不了共享单车",
+        "onboard_time": 1764510023,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 258292,
+        "num": 258292,
+        "word": "电影马腾你别走定档",
+        "onboard_time": 1764555559,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 228071,
+        "num": 228071,
+        "word": "手机壳爱马仕一年狂卖36亿",
+        "onboard_time": 1764519441,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217488,
+        "num": 217488,
+        "word": "幼师等招聘可依法查询吸毒记录",
+        "onboard_time": 1764511641,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154836,
+        "num": 217441,
+        "word": "Uzi 复出",
+        "onboard_time": 1764555500,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 683952,
+        "num": 215829,
+        "word": "一身聚酯纤维的我怎么敢碰纯毛的你",
+        "onboard_time": 1764547281,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 601764,
+        "num": 213723,
+        "word": "朱珠 面无表情把老公挤开",
+        "onboard_time": 1764512722,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 556299,
+        "num": 212704,
+        "word": "日本发布高市早苗外交场面引群嘲",
+        "onboard_time": 1764550222,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 448754,
+        "num": 211585,
+        "word": "外卖大战6个月烧掉近800亿",
+        "onboard_time": 1764511882,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 429267,
+        "num": 210133,
+        "word": "司机鸣笛无效轧到睡狗",
+        "onboard_time": 1764552201,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 393194,
+        "num": 209421,
+        "word": "25岁小伙离世前称加班累到嘴巴渗血",
+        "onboard_time": 1764554000,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 390014,
+        "num": 207312,
+        "word": "谁在买200元一粒的流感药",
+        "onboard_time": 1764553161,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 283624,
+        "num": 206258,
+        "word": "现在就出发 后期",
+        "onboard_time": 1764554721,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218342,
+        "num": 205245,
+        "word": "假奶粉",
+        "onboard_time": 1764550462,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 204233,
+        "num": 204233,
+        "word": "爱马仕继承人被25年财管好友骗光财产",
+        "onboard_time": 1764516441,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 205426,
+        "num": 204233,
+        "word": "疯狂动物城2里很喜欢的一句台词",
+        "onboard_time": 1764550400,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38839,
+        "num": 203962,
+        "word": "高市早苗的言论侵犯了中国的主权",
+        "onboard_time": 1764555621,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 203852,
+        "num": 203852,
+        "word": "故意传播艾滋病涉嫌违法犯罪",
+        "onboard_time": 1764550699,
+        "rank": 22,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 182137,
+        "num": 182137,
+        "word": "独生子女真的不会感觉孤独吗",
+        "onboard_time": 1764554000,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 26035,
+        "num": 167105,
+        "word": "美乌4小时会谈细节曝光",
+        "onboard_time": 1764555621,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166762,
+        "num": 166762,
+        "word": "老公卧室里最让她满意的角落",
+        "onboard_time": 1764553161,
+        "rank": 25,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 161725,
+        "num": 161725,
+        "word": "爱马仕继承人被曝坐廉航出行",
+        "onboard_time": 1764549501,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151502,
+        "num": 151502,
+        "word": "第一次见赌柚的",
+        "onboard_time": 1764547100,
+        "rank": 27,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 149321,
+        "num": 149321,
+        "word": "直观感受到孕激素对母亲的影响",
+        "onboard_time": 1764549560,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133840,
+        "num": 133840,
+        "word": "什么破炒饭38元一份",
+        "onboard_time": 1764550579,
+        "rank": 29,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 199332,
+        "num": 130987,
+        "word": "英超球队向中国球迷道歉",
+        "onboard_time": 1764555020,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 127860,
+        "num": 127860,
+        "word": "巴西女子产下双胞胎孩子父亲却不同",
+        "onboard_time": 1764515063,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125250,
+        "num": 125250,
+        "word": "12月",
+        "onboard_time": 1764544458,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 121858,
+        "num": 121858,
+        "word": "神舟二十二号航天员乘组永远空缺",
+        "onboard_time": 1764555139,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109933,
+        "num": 109933,
+        "word": "神20返回舱玻璃裂纹是个三角形",
+        "onboard_time": 1764518301,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106146,
+        "num": 106146,
+        "word": "美国男子头朝下在捐赠箱窒息身亡",
+        "onboard_time": 1764551840,
+        "rank": 35,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104653,
+        "num": 104653,
+        "word": "鼠鼠在太空喝足了豆浆",
+        "onboard_time": 1764554841,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100785,
+        "num": 100785,
+        "word": "高市宣称日本又回来了",
+        "onboard_time": 1764555861,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99337,
+        "num": 99337,
+        "word": "枭起青壤谐音梗",
+        "onboard_time": 1764552501,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 64786,
+        "num": 94742,
+        "word": "花2万7培训两门课都不及格",
+        "onboard_time": 1764555621,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92692,
+        "num": 92692,
+        "word": "胡先煦王安宇上班都路过这",
+        "onboard_time": 1764555861,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 89255,
+        "num": 89255,
+        "word": "华晨宇 欢迎同行来抄",
+        "onboard_time": 1764555680,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 81592,
+        "num": 86854,
+        "word": "浙江仿佛回到秋天",
+        "onboard_time": 1764554661,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85489,
+        "num": 85489,
+        "word": "香港火灾已致146人遇难",
+        "onboard_time": 1764495141,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 81298,
+        "num": 81298,
+        "word": "TheShy说赢了T1就能进决赛",
+        "onboard_time": 1764512062,
+        "rank": 44,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78820,
+        "num": 78820,
+        "word": "陈星旭工作室找不到陈星旭了",
+        "onboard_time": 1764519979,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78516,
+        "num": 78516,
+        "word": "韦雪前男友自曝喜欢的明星",
+        "onboard_time": 1764511641,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 71669,
+        "num": 71669,
+        "word": "果然全世界都要考公啊",
+        "onboard_time": 1764544879,
+        "rank": 47,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 71432,
+        "num": 71432,
+        "word": "流感进入快速上升期",
+        "onboard_time": 1764555020,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 186823,
+        "num": 71084,
+        "word": "vivo 女性用户",
+        "onboard_time": 1764555139,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平部署加强网络生态治理#"
+    }
+  }
+}
