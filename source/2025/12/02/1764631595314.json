@@ -1,0 +1,410 @@
+{
+  "runTime": 1764631595314,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 334118,
+        "num": 790194,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108371,
+        "num": 405358,
+        "word": "王励勤乒羽运动管理中心副主任",
+        "onboard_time": 1764599063,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 61902,
+        "num": 254151,
+        "word": "治沙人种下的10万株玫瑰长大了",
+        "onboard_time": 1764595644,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123324,
+        "num": 123324,
+        "word": "电影得闲谨制",
+        "onboard_time": 1764625873,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95202,
+        "num": 121926,
+        "word": "应届硕士偷偷参加国考",
+        "onboard_time": 1764592942,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 150642,
+        "num": 121822,
+        "word": "达美乐 大美乐",
+        "onboard_time": 1764604639,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121696,
+        "num": 121696,
+        "word": "寒潮",
+        "onboard_time": 1764624673,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114067,
+        "num": 114067,
+        "word": "日本国宝级歌手喊话高市爽快一点",
+        "onboard_time": 1764600085,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86873,
+        "num": 86873,
+        "word": "金饰克价涨到1336元",
+        "onboard_time": 1764631038,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 50169,
+        "num": 86853,
+        "word": "40年前她发现中国首例艾滋病",
+        "onboard_time": 1764610276,
+        "rank": 9,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 603659,
+        "num": 86612,
+        "word": "为什么避孕药品和用具要收税了",
+        "onboard_time": 1764604160,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 361915,
+        "num": 86545,
+        "word": "陈赫王传君金世佳同框",
+        "onboard_time": 1764599844,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 231302,
+        "num": 86446,
+        "word": "专家建议不要用冲绳称呼琉球群岛",
+        "onboard_time": 1764599544,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 184029,
+        "num": 86216,
+        "word": "马市长 邓超",
+        "onboard_time": 1764599002,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175761,
+        "num": 86120,
+        "word": "我有个烧钱且小众的爱好",
+        "onboard_time": 1764599183,
+        "rank": 14,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 158313,
+        "num": 86036,
+        "word": "郑恺上戏合影 AI生成",
+        "onboard_time": 1764600983,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133457,
+        "num": 85936,
+        "word": "大三男生网络交友3个月感染艾滋病",
+        "onboard_time": 1764599124,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124858,
+        "num": 85710,
+        "word": "李乃文疑似在大孤山当地陪",
+        "onboard_time": 1764594502,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99311,
+        "num": 85574,
+        "word": "才知道原来100%纯棉不是棉",
+        "onboard_time": 1764630977,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 85543,
+        "num": 85543,
+        "word": "妻子婚内与人同居被判赔丈夫8000元",
+        "onboard_time": 1764603863,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 206994,
+        "num": 85009,
+        "word": "甲型H3N2流行 症状前24小时排毒",
+        "onboard_time": 1764630737,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 163067,
+        "num": 83748,
+        "word": "胖东来小方糖戒指热卖",
+        "onboard_time": 1764630678,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151897,
+        "num": 83258,
+        "word": "杨幂就吃了一个寿司一口面",
+        "onboard_time": 1764631158,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 113008,
+        "num": 81683,
+        "word": "女子烫发4小时称出去透气后疑跑路",
+        "onboard_time": 1764599124,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107902,
+        "num": 80807,
+        "word": "倒头就睡可能是身体求救信号",
+        "onboard_time": 1764599782,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 80173,
+        "num": 80173,
+        "word": "终于有剧不为了美随意换衣服了",
+        "onboard_time": 1764590782,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78820,
+        "num": 78820,
+        "word": "环卫工被故意文粗眉被迫花2万",
+        "onboard_time": 1764593242,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57189,
+        "num": 57189,
+        "word": "胡歌说女儿习惯了进组的生活",
+        "onboard_time": 1764589581,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55902,
+        "num": 55902,
+        "word": "杨乐乐带儿子参加马术比赛",
+        "onboard_time": 1764627855,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179520,
+        "num": 55534,
+        "word": "香港火灾女子拍门救4人自己遇难",
+        "onboard_time": 1764614954,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55058,
+        "num": 55058,
+        "word": "女儿回应老人花10元剃头满头血痂",
+        "onboard_time": 1764592762,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53667,
+        "num": 53667,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51700,
+        "num": 51700,
+        "word": "许玮甯邱泽婚戒是亲自设计的",
+        "onboard_time": 1764628155,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48546,
+        "num": 48546,
+        "word": "人民日报谈小米集团高质量发展",
+        "onboard_time": 1764594264,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47697,
+        "num": 47697,
+        "word": "顾客买鞋子仅退款发AI图",
+        "onboard_time": 1764590602,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46345,
+        "num": 46345,
+        "word": "王楚钦盛赞女队队友",
+        "onboard_time": 1764595764,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 44333,
+        "num": 44333,
+        "word": "星光大赏",
+        "onboard_time": 1764589822,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43714,
+        "num": 43714,
+        "word": "陈晓演秦始皇",
+        "onboard_time": 1764618554,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 43294,
+        "num": 43294,
+        "word": "本周做什么都顺的星座",
+        "onboard_time": 1764601344,
+        "rank": 38,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 41485,
+        "num": 41485,
+        "word": "猫妹妹爸爸欠债几十万",
+        "onboard_time": 1764613455,
+        "rank": 39,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 39789,
+        "num": 41482,
+        "word": "胡歌说没有平衡好事业和家庭",
+        "onboard_time": 1764596182,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38970,
+        "num": 41479,
+        "word": "疯狂动物城3 飞禽",
+        "onboard_time": 1764603622,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38954,
+        "num": 41476,
+        "word": "钟楚曦金狮大赏最佳女配角",
+        "onboard_time": 1764630737,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38879,
+        "num": 41474,
+        "word": "朱亚文向涵之 二搭",
+        "onboard_time": 1764601582,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 36534,
+        "num": 41471,
+        "word": "电影院凭什么不让拍",
+        "onboard_time": 1764601582,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 36927,
+        "num": 41469,
+        "word": "白依梅人设",
+        "onboard_time": 1764629357,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31552,
+        "num": 41464,
+        "word": "郑恺苗苗牵手参加上戏校庆",
+        "onboard_time": 1764598643,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31511,
+        "num": 41461,
+        "word": "宋佳获金狮大赏最佳女主角",
+        "onboard_time": 1764610456,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 31255,
+        "num": 41460,
+        "word": "大生意人 传统长剧",
+        "onboard_time": 1764595943,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 29881,
+        "num": 41457,
+        "word": "袁湘琴骑车去二中接孩子逆行",
+        "onboard_time": 1764585683,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

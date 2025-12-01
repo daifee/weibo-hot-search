@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764628973615,
+  "endTime": 1764631595314,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -764,7 +764,7 @@
     },
     {
       "raw_hot": 309309,
-      "num": 309309,
+      "num": 405358,
       "word": "王励勤乒羽运动管理中心副主任",
       "onboard_time": 1764599063,
       "rank": 19,
@@ -1179,6 +1179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206994,
+      "num": 85009,
+      "word": "甲型H3N2流行 症状前24小时排毒",
+      "onboard_time": 1764630737,
+      "rank": 20,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 206886,
       "num": 227935,
       "word": "顾客买鞋子仅退款发AI图",
@@ -1403,12 +1411,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 179520,
+      "num": 55534,
+      "word": "香港火灾女子拍门救4人自己遇难",
+      "onboard_time": 1764614954,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179511,
       "num": 125250,
       "word": "12月",
       "onboard_time": 1764544458,
       "rank": 14,
       "category": "情感"
+    },
+    {
+      "raw_hot": 175761,
+      "num": 228567,
+      "word": "我有个烧钱且小众的爱好",
+      "onboard_time": 1764599183,
+      "rank": 31,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 174554,
@@ -1529,6 +1553,14 @@
       "onboard_time": 1764584242,
       "rank": 24,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 163067,
+      "num": 83748,
+      "word": "胖东来小方糖戒指热卖",
+      "onboard_time": 1764630678,
+      "rank": 21,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 162204,
@@ -1729,6 +1761,14 @@
       "onboard_time": 1764564625,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151897,
+      "num": 83258,
+      "word": "杨幂就吃了一个寿司一口面",
+      "onboard_time": 1764631158,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 151502,
@@ -1955,14 +1995,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 135611,
-      "num": 228567,
-      "word": "我有个烧钱且小众的爱好",
-      "onboard_time": 1764599183,
-      "rank": 31,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 134484,
       "num": 234393,
       "word": "致我那菜市场的白月光",
@@ -2163,6 +2195,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 123324,
+      "num": 123324,
+      "word": "电影得闲谨制",
+      "onboard_time": 1764625873,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 123208,
       "num": 123208,
       "word": "从微信躲到微博 从大号躲到小号",
@@ -2209,6 +2249,14 @@
       "onboard_time": 1764558440,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121696,
+      "num": 121696,
+      "word": "寒潮",
+      "onboard_time": 1764624673,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121177,
@@ -2603,6 +2651,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99311,
+      "num": 85574,
+      "word": "才知道原来100%纯棉不是棉",
+      "onboard_time": 1764630977,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 99277,
       "num": 99277,
       "word": "疯狂动物城 鸟类",
@@ -2683,14 +2739,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 92099,
-      "num": 60832,
-      "word": "寒潮",
-      "onboard_time": 1764624673,
-      "rank": 7,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91910,
       "num": 213482,
       "word": "真毛就是比聚酯纤维好看",
@@ -2755,20 +2803,20 @@
       "category": "教育"
     },
     {
-      "raw_hot": 88719,
-      "num": 48825,
-      "word": "香港火灾女子拍门救4人自己遇难",
-      "onboard_time": 1764614954,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 88604,
       "num": 64374,
       "word": "美媒曝德国秘密对俄作战计划",
       "onboard_time": 1764544879,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86873,
+      "num": 86873,
+      "word": "金饰克价涨到1336元",
+      "onboard_time": 1764631038,
+      "rank": 8,
+      "category": "财经"
     },
     {
       "raw_hot": 86634,
@@ -2793,6 +2841,14 @@
       "onboard_time": 1764544158,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 85543,
+      "num": 228015,
+      "word": "妻子婚内与人同居被判赔丈夫8000元",
+      "onboard_time": 1764603863,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85031,
@@ -2953,14 +3009,6 @@
       "onboard_time": 1764509782,
       "rank": 34,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 77934,
-      "num": 228015,
-      "word": "妻子婚内与人同居被判赔丈夫8000元",
-      "onboard_time": 1764603863,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 77631,
@@ -3171,14 +3219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 62068,
-      "num": 62068,
-      "word": "电影得闲谨制",
-      "onboard_time": 1764625873,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
       "raw_hot": 59999,
       "num": 111532,
       "word": "刘诗诗走路腰发力",
@@ -3275,6 +3315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55902,
+      "num": 55902,
+      "word": "杨乐乐带儿子参加马术比赛",
+      "onboard_time": 1764627855,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55862,
       "num": 214967,
       "word": "林诗栋蒯曼vs阿尔霍达比兄妹",
@@ -3337,6 +3385,14 @@
       "onboard_time": 1764545659,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 51700,
+      "num": 51700,
+      "word": "许玮甯邱泽婚戒是亲自设计的",
+      "onboard_time": 1764628155,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 50725,
@@ -3435,6 +3491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 43714,
+      "num": 128337,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 43354,
       "num": 160724,
       "word": "150元冰箱配件 维修收费899元",
@@ -3459,14 +3523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 42897,
-      "num": 128337,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 42826,
       "num": 108608,
       "word": "假奶粉 成本2元",
@@ -3489,6 +3545,14 @@
       "onboard_time": 1764565223,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41485,
+      "num": 49047,
+      "word": "猫妹妹爸爸欠债几十万",
+      "onboard_time": 1764613455,
+      "rank": 35,
+      "category": "网红"
     },
     {
       "raw_hot": 40426,
@@ -3547,11 +3611,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38954,
+      "num": 41476,
+      "word": "钟楚曦金狮大赏最佳女配角",
+      "onboard_time": 1764630737,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
       "raw_hot": 36935,
       "num": 127216,
       "word": "短剧抄袭的底线在哪",
       "onboard_time": 1764594443,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 36927,
+      "num": 41469,
+      "word": "白依梅人设",
+      "onboard_time": 1764629357,
+      "rank": 45,
       "category": "剧集"
     },
     {
@@ -3715,14 +3795,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 25641,
-      "num": 41403,
-      "word": "杨乐乐带儿子参加马术比赛",
-      "onboard_time": 1764627855,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 25338,
       "num": 107140,
       "word": "真实的美国是什么样的",
@@ -3787,14 +3859,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23513,
-      "num": 49047,
-      "word": "猫妹妹爸爸欠债几十万",
-      "onboard_time": 1764613455,
-      "rank": 35,
-      "category": "网红"
-    },
-    {
       "raw_hot": 23451,
       "num": 131641,
       "word": "声鸣远扬选手误闯天家",
@@ -3825,14 +3889,6 @@
       "onboard_time": 1764567681,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18627,
-      "num": 30713,
-      "word": "许玮甯邱泽婚戒是亲自设计的",
-      "onboard_time": 1764628155,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 18621,
