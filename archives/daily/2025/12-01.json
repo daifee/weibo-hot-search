@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764562554366,
+  "endTime": 1764563733642,
   "band_list": [
     {
       "raw_hot": 2134222,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 1469657,
-      "num": 234336,
+      "num": 237508,
       "word": "朱珠 我没挤他",
       "onboard_time": 1764559100,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 932106,
-      "num": 234149,
+      "num": 235683,
       "word": "朱珠 面无表情把老公挤开",
       "onboard_time": 1764512722,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 707753,
-      "num": 234292,
+      "num": 236966,
       "word": "婚前同居怀孕退婚后男方起诉要彩礼",
       "onboard_time": 1764559462,
       "rank": 11,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 627439,
-      "num": 234263,
+      "num": 236523,
       "word": "一年级的陈思成参加艺考",
       "onboard_time": 1764559641,
       "rank": 12,
@@ -204,7 +204,7 @@
     },
     {
       "raw_hot": 349201,
-      "num": 234230,
+      "num": 235035,
       "word": "疯狂动物城2排片量",
       "onboard_time": 1764557720,
       "rank": 13,
@@ -235,6 +235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 330744,
+      "num": 236211,
+      "word": "朱亚文向涵之是主角会爆成啥样",
+      "onboard_time": 1764562463,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 327715,
       "num": 327715,
       "word": "神舟二十二号航天员乘组永远空缺",
@@ -249,6 +257,14 @@
       "onboard_time": 1764515063,
       "rank": 21,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 323418,
+      "num": 233872,
+      "word": "夏克立说已经4年没见过女儿夏天",
+      "onboard_time": 1764561081,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 322691,
@@ -275,6 +291,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 309877,
+      "num": 232563,
+      "word": "胡歌女儿 英雄需要鼓励草莓熊不用",
+      "onboard_time": 1764562942,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 304692,
       "num": 304692,
       "word": "沈腾的征信都扫不了共享单车",
@@ -283,24 +307,24 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302540,
+      "num": 233807,
+      "word": "已经到了不认识TFBOYS的时代了",
+      "onboard_time": 1764561502,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 300881,
-      "num": 217488,
+      "num": 238082,
       "word": "幼师等招聘可依法查询吸毒记录",
       "onboard_time": 1764511641,
       "rank": 5,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 289547,
-      "num": 233872,
-      "word": "夏克立说已经4年没见过女儿夏天",
-      "onboard_time": 1764561081,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282515,
-      "num": 197811,
+      "num": 239594,
       "word": "Gala在iG队内吐露心声",
       "onboard_time": 1764561801,
       "rank": 30,
@@ -363,16 +387,16 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 225914,
-      "num": 225914,
-      "word": "已经到了不认识TFBOYS的时代了",
-      "onboard_time": 1764561502,
-      "rank": 26,
+      "raw_hot": 230964,
+      "num": 230964,
+      "word": "朱志鑫 劳力士",
+      "onboard_time": 1764563003,
+      "rank": 27,
       "category": "艺人"
     },
     {
-      "raw_hot": 218415,
-      "num": 218415,
+      "raw_hot": 224651,
+      "num": 224651,
       "word": "枭起青壤热度为什么上不去",
       "onboard_time": 1764561922,
       "rank": 27,
@@ -385,6 +409,22 @@
       "onboard_time": 1764550462,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 216362,
+      "num": 216362,
+      "word": "第一次见cos人民币",
+      "onboard_time": 1764562281,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 208192,
+      "num": 208192,
+      "word": "肖战彭昱畅周依然得闲谨制预告",
+      "onboard_time": 1764562702,
+      "rank": 33,
+      "category": "电影"
     },
     {
       "raw_hot": 207602,
@@ -435,6 +475,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 196423,
+      "num": 226800,
+      "word": "店主实名举报公职人员疑喝农药",
+      "onboard_time": 1764563602,
+      "rank": 28,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 192259,
       "num": 307446,
       "word": "国考的难度到底有多大",
@@ -451,8 +499,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 184811,
+      "num": 234357,
+      "word": "75亿项目被指偷工减料",
+      "onboard_time": 1764561862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 183997,
-      "num": 234450,
+      "num": 237780,
       "word": "jjking说Uzi大概率复出",
       "onboard_time": 1764561742,
       "rank": 7,
@@ -481,6 +537,14 @@
       "onboard_time": 1764544637,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 167003,
+      "num": 167003,
+      "word": "陈哲远闷声干大事",
+      "onboard_time": 1764562522,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 166762,
@@ -537,6 +601,14 @@
       "onboard_time": 1764472221,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152365,
+      "num": 152365,
+      "word": "时差一万公里",
+      "onboard_time": 1764562763,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 152261,
@@ -651,14 +723,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 133929,
-      "num": 133929,
-      "word": "朱亚文向涵之是主角会爆成啥样",
-      "onboard_time": 1764562463,
-      "rank": 41,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 133840,
       "num": 133840,
       "word": "什么破炒饭38元一份",
@@ -683,6 +747,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128936,
+      "num": 128936,
+      "word": "刘亦菲易烊千玺 广告合作",
+      "onboard_time": 1764563543,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128278,
       "num": 128278,
       "word": "黄雅琼太漂亮了",
@@ -697,14 +769,6 @@
       "onboard_time": 1764496220,
       "rank": 23,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 123771,
-      "num": 123771,
-      "word": "陈哲远闷声干大事",
-      "onboard_time": 1764562522,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 122544,
@@ -737,6 +801,14 @@
       "onboard_time": 1764520818,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120261,
+      "num": 152857,
+      "word": "胡先煦p图p出火星子了吧",
+      "onboard_time": 1764562763,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 119798,
@@ -812,7 +884,7 @@
     },
     {
       "raw_hot": 103534,
-      "num": 198126,
+      "num": 225093,
       "word": "HPV可能导致多种癌症和相关疾病",
       "onboard_time": 1764561801,
       "rank": 29,
@@ -955,6 +1027,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 77631,
+      "num": 234683,
+      "word": "韩国网络性犯罪大案",
+      "onboard_time": 1764562822,
+      "rank": 17,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77257,
       "num": 358017,
       "word": "黄土高原变绿了",
@@ -980,7 +1060,7 @@
     },
     {
       "raw_hot": 72527,
-      "num": 234189,
+      "num": 235916,
       "word": "没想到夸克AI浏览器还可以这么用",
       "onboard_time": 1764561682,
       "rank": 14,
@@ -1219,14 +1299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 33963,
-      "num": 234357,
-      "word": "75亿项目被指偷工减料",
-      "onboard_time": 1764561862,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33577,
       "num": 42127,
       "word": "可能创下吉尼斯最快脱袜纪录",
@@ -1304,6 +1376,22 @@
       "word": "女婴病危家长质疑月嫂照顾最新进展",
       "onboard_time": 1764556760,
       "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 13772,
+      "num": 234332,
+      "word": "开罗宣言发表82周年",
+      "onboard_time": 1764562822,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 7298,
+      "num": 154014,
+      "word": "灵隐寺免门票首日预约已满",
+      "onboard_time": 1764563543,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
