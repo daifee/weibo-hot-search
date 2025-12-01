@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764621624896,
+  "endTime": 1764624219260,
   "band_list": [
     {
       "raw_hot": 835947,
@@ -292,7 +292,7 @@
     },
     {
       "raw_hot": 56784,
-      "num": 55470,
+      "num": 99997,
       "word": "40年前她发现中国首例艾滋病",
       "onboard_time": 1764610276,
       "rank": 30,
@@ -451,6 +451,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 34393,
+      "num": 110166,
+      "word": "陈晓演秦始皇",
+      "onboard_time": 1764618554,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 34363,
       "num": 79905,
       "word": "汪苏泷罗曼城",
@@ -465,14 +473,6 @@
       "onboard_time": 1764585683,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 29479,
-      "num": 42956,
-      "word": "陈晓演秦始皇",
-      "onboard_time": 1764618554,
-      "rank": 7,
-      "category": "剧集"
     },
     {
       "raw_hot": 28506,
@@ -531,7 +531,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 13149,
+      "raw_hot": 13986,
+      "num": 23018,
+      "word": "英国拟对留学生征收6%附加费",
+      "onboard_time": 1764621073,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 13266,
       "num": 41436,
       "word": "葛夕回应上恋综",
       "onboard_time": 1764619934,
@@ -539,7 +547,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 11981,
+      "raw_hot": 12356,
       "num": 46262,
       "word": "成本70万自研高超音速导弹问世",
       "onboard_time": 1764611594,
