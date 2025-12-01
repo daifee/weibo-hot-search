@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764555915292,
+  "endTime": 1764557032859,
   "band_list": [
     {
       "raw_hot": 2134222,
@@ -17,6 +17,22 @@
       "onboard_time": 1764512722,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 816400,
+      "num": 321742,
+      "word": "电影马腾你别走定档",
+      "onboard_time": 1764555559,
+      "rank": 6,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 686462,
+      "num": 319886,
+      "word": "Uzi 复出",
+      "onboard_time": 1764555500,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 683952,
@@ -51,12 +67,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 474439,
-      "num": 1075910,
+      "raw_hot": 491336,
+      "num": 1078613,
       "word": "中国人在太空存粮多得超乎想象",
       "onboard_time": 1764550699,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 462864,
+      "num": 206258,
+      "word": "现在就出发 后期",
+      "onboard_time": 1764554721,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 434499,
@@ -75,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 428973,
+      "num": 428973,
+      "word": "英超日本国脚手持日军军官卡片合影",
+      "onboard_time": 1764553941,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
       "raw_hot": 420137,
       "num": 891658,
       "word": "手机壳爱马仕一年狂卖36亿",
@@ -83,12 +115,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 396756,
-      "num": 396756,
-      "word": "英超日本国脚手持日军军官卡片合影",
-      "onboard_time": 1764553941,
-      "rank": 1,
-      "category": "体育"
+      "raw_hot": 403739,
+      "num": 194430,
+      "word": "华晨宇 欢迎同行来抄",
+      "onboard_time": 1764555680,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 393194,
@@ -99,7 +131,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 390014,
+      "raw_hot": 391223,
       "num": 207312,
       "word": "谁在买200元一粒的流感药",
       "onboard_time": 1764553161,
@@ -187,14 +219,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 283624,
-      "num": 206258,
-      "word": "现在就出发 后期",
-      "onboard_time": 1764554721,
-      "rank": 17,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 275812,
       "num": 141976,
       "word": "疑似王鹤棣退出将门毒后",
@@ -203,12 +227,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 258292,
-      "num": 258292,
-      "word": "电影马腾你别走定档",
-      "onboard_time": 1764555559,
-      "rank": 6,
-      "category": "电影"
+      "raw_hot": 236991,
+      "num": 193868,
+      "word": "独生子女真的不会感觉孤独吗",
+      "onboard_time": 1764554000,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 234626,
@@ -227,6 +251,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 212954,
+      "num": 212954,
+      "word": "英超球队向中国球迷道歉",
+      "onboard_time": 1764555020,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 207602,
+      "num": 193648,
+      "word": "胡先煦王安宇上班都路过这",
+      "onboard_time": 1764555861,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205426,
       "num": 204233,
       "word": "疯狂动物城2里很喜欢的一句台词",
@@ -243,12 +283,28 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 199332,
-      "num": 130987,
-      "word": "英超球队向中国球迷道歉",
-      "onboard_time": 1764555020,
-      "rank": 30,
-      "category": "体育"
+      "raw_hot": 203071,
+      "num": 193355,
+      "word": "男方起诉退还全部彩礼",
+      "onboard_time": 1764556760,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 197538,
+      "num": 197538,
+      "word": "风与潮",
+      "onboard_time": 1764556039,
+      "rank": 7,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 193234,
+      "num": 193234,
+      "word": "神舟二十二号航天员乘组永远空缺",
+      "onboard_time": 1764555139,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 192259,
@@ -265,14 +321,6 @@
       "onboard_time": 1764555139,
       "rank": 49,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182137,
-      "num": 182137,
-      "word": "独生子女真的不会感觉孤独吗",
-      "onboard_time": 1764554000,
-      "rank": 23,
-      "category": "情感"
     },
     {
       "raw_hot": 179511,
@@ -315,20 +363,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 158990,
+      "num": 144353,
+      "word": "高市宣称日本又回来了",
+      "onboard_time": 1764555861,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 156386,
       "num": 156386,
       "word": "F1",
       "onboard_time": 1764544339,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 154836,
-      "num": 217441,
-      "word": "Uzi 复出",
-      "onboard_time": 1764555500,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 152725,
@@ -345,6 +393,14 @@
       "onboard_time": 1764472221,
       "rank": 1,
       "category": "教育"
+    },
+    {
+      "raw_hot": 152261,
+      "num": 152261,
+      "word": "成毅执子策九谋",
+      "onboard_time": 1764556640,
+      "rank": 27,
+      "category": "剧集"
     },
     {
       "raw_hot": 151502,
@@ -403,6 +459,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144381,
+      "num": 144381,
+      "word": "关于艾滋病的9个真相",
+      "onboard_time": 1764556341,
+      "rank": 29,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 142419,
       "num": 116633,
       "word": "当事人回应洛杉矶街头现饿了么骑手",
@@ -427,6 +491,22 @@
       "category": "美食"
     },
     {
+      "raw_hot": 133438,
+      "num": 133438,
+      "word": "汪苏泷演唱会",
+      "onboard_time": 1764556220,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 131380,
+      "num": 131380,
+      "word": "小伙仅剩2元买米饭店主免费给炒菜",
+      "onboard_time": 1764556101,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126342,
       "num": 126342,
       "word": "画梅一夜掉粉超190万",
@@ -435,12 +515,12 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 121858,
-      "num": 121858,
-      "word": "神舟二十二号航天员乘组永远空缺",
-      "onboard_time": 1764555139,
-      "rank": 33,
-      "category": "国内时政"
+      "raw_hot": 122152,
+      "num": 203962,
+      "word": "高市早苗的言论侵犯了中国的主权",
+      "onboard_time": 1764555621,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 120752,
@@ -491,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 106181,
+      "num": 104768,
+      "word": "鼠鼠在太空喝足了豆浆",
+      "onboard_time": 1764554841,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106146,
       "num": 106146,
       "word": "美国男子头朝下在捐赠箱窒息身亡",
@@ -499,11 +587,11 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 104653,
-      "num": 104653,
-      "word": "鼠鼠在太空喝足了豆浆",
-      "onboard_time": 1764554841,
-      "rank": 36,
+      "raw_hot": 104977,
+      "num": 104977,
+      "word": "花2万7培训两门课都不及格",
+      "onboard_time": 1764555621,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -513,14 +601,6 @@
       "onboard_time": 1764516081,
       "rank": 26,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 100785,
-      "num": 100785,
-      "word": "高市宣称日本又回来了",
-      "onboard_time": 1764555861,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99337,
@@ -553,22 +633,6 @@
       "onboard_time": 1764507743,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 92692,
-      "num": 92692,
-      "word": "胡先煦王安宇上班都路过这",
-      "onboard_time": 1764555861,
-      "rank": 40,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 89255,
-      "num": 89255,
-      "word": "华晨宇 欢迎同行来抄",
-      "onboard_time": 1764555680,
-      "rank": 41,
-      "category": "演出"
     },
     {
       "raw_hot": 89037,
@@ -739,14 +803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64786,
-      "num": 94742,
-      "word": "花2万7培训两门课都不及格",
-      "onboard_time": 1764555621,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 62120,
       "num": 62120,
       "word": "汪苏泷给场外观众准备了姜茶",
@@ -835,6 +891,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 46530,
+      "num": 194683,
+      "word": "美乌4小时会谈细节曝光",
+      "onboard_time": 1764555621,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 44366,
       "num": 103895,
       "word": "刘少昂世巡赛1000米摘银",
@@ -891,14 +955,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 38839,
-      "num": 203962,
-      "word": "高市早苗的言论侵犯了中国的主权",
-      "onboard_time": 1764555621,
-      "rank": 21,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 36566,
       "num": 91225,
       "word": "王昶陈旭君2比1刘毅曾维瀚",
@@ -939,11 +995,11 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 26035,
-      "num": 167105,
-      "word": "美乌4小时会谈细节曝光",
-      "onboard_time": 1764555621,
-      "rank": 24,
+      "raw_hot": 26100,
+      "num": 131473,
+      "word": "日媒指责高市早苗甩锅",
+      "onboard_time": 1764556160,
+      "rank": 39,
       "category": "国际时政"
     },
     {
@@ -955,12 +1011,36 @@
       "category": "演出"
     },
     {
+      "raw_hot": 23451,
+      "num": 131641,
+      "word": "声鸣远扬选手误闯天家",
+      "onboard_time": 1764556039,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 18621,
       "num": 24664,
       "word": "穆祉丞星辰大海vlog",
       "onboard_time": 1764534015,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 18550,
+      "num": 132035,
+      "word": "长春高空抛物致死案今日再开庭",
+      "onboard_time": 1764556160,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 14588,
+      "num": 193593,
+      "word": "女婴病危家长质疑月嫂照顾最新进展",
+      "onboard_time": 1764556760,
+      "rank": 22,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
