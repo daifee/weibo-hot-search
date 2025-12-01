@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764557032859,
+  "endTime": 1764562554366,
   "band_list": [
     {
       "raw_hot": 2134222,
@@ -11,8 +11,24 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1469657,
+      "num": 234336,
+      "word": "朱珠 我没挤他",
+      "onboard_time": 1764559100,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1385097,
+      "num": 233978,
+      "word": "马頔 你懂什么叫结婚么",
+      "onboard_time": 1764559941,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 932106,
-      "num": 213723,
+      "num": 234149,
       "word": "朱珠 面无表情把老公挤开",
       "onboard_time": 1764512722,
       "rank": 11,
@@ -25,6 +41,14 @@
       "onboard_time": 1764555559,
       "rank": 6,
       "category": "电影"
+    },
+    {
+      "raw_hot": 707753,
+      "num": 234292,
+      "word": "婚前同居怀孕退婚后男方起诉要彩礼",
+      "onboard_time": 1764559462,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 686462,
@@ -41,6 +65,14 @@
       "onboard_time": 1764547281,
       "rank": 10,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 627439,
+      "num": 234263,
+      "word": "一年级的陈思成参加艺考",
+      "onboard_time": 1764559641,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 619281,
@@ -83,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 451100,
+      "num": 1072176,
+      "word": "英超球队向中国球迷道歉",
+      "onboard_time": 1764555020,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 434499,
       "num": 148162,
       "word": "暨南大学 学生宿舍装安检",
@@ -116,7 +156,7 @@
     },
     {
       "raw_hot": 403739,
-      "num": 194430,
+      "num": 233855,
       "word": "华晨宇 欢迎同行来抄",
       "onboard_time": 1764555680,
       "rank": 41,
@@ -163,12 +203,44 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 349201,
+      "num": 234230,
+      "word": "疯狂动物城2排片量",
+      "onboard_time": 1764557720,
+      "rank": 13,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346505,
       "num": 204233,
       "word": "爱马仕继承人被25年财管好友骗光财产",
       "onboard_time": 1764516441,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 336224,
+      "num": 234106,
+      "word": "肖战妆造最浓的一次",
+      "onboard_time": 1764557360,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 335538,
+      "num": 233941,
+      "word": "陈靖可一把护住张婧仪",
+      "onboard_time": 1764559881,
+      "rank": 21,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 327715,
+      "num": 327715,
+      "word": "神舟二十二号航天员乘组永远空缺",
+      "onboard_time": 1764555139,
+      "rank": 33,
+      "category": "国内时政"
     },
     {
       "raw_hot": 326655,
@@ -219,12 +291,52 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 289547,
+      "num": 233872,
+      "word": "夏克立说已经4年没见过女儿夏天",
+      "onboard_time": 1764561081,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 282515,
+      "num": 197811,
+      "word": "Gala在iG队内吐露心声",
+      "onboard_time": 1764561801,
+      "rank": 30,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 275812,
       "num": 141976,
       "word": "疑似王鹤棣退出将门毒后",
       "onboard_time": 1764507981,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 257861,
+      "num": 234070,
+      "word": "iPhone用户的尴尬瞬间",
+      "onboard_time": 1764561081,
+      "rank": 17,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 255262,
+      "num": 233820,
+      "word": "男方起诉退还全部彩礼",
+      "onboard_time": 1764556760,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 249108,
+      "num": 234045,
+      "word": "高市宣称日本又回来了",
+      "onboard_time": 1764555861,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 236991,
@@ -243,20 +355,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 233795,
+      "num": 233795,
+      "word": "男跳凤凰台女跳诛仙台",
+      "onboard_time": 1764558320,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 225914,
+      "num": 225914,
+      "word": "已经到了不认识TFBOYS的时代了",
+      "onboard_time": 1764561502,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 218415,
+      "num": 218415,
+      "word": "枭起青壤热度为什么上不去",
+      "onboard_time": 1764561922,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218342,
       "num": 205245,
       "word": "假奶粉",
       "onboard_time": 1764550462,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 212954,
-      "num": 212954,
-      "word": "英超球队向中国球迷道歉",
-      "onboard_time": 1764555020,
-      "rank": 30,
-      "category": "体育"
     },
     {
       "raw_hot": 207602,
@@ -283,14 +411,6 @@
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 203071,
-      "num": 193355,
-      "word": "男方起诉退还全部彩礼",
-      "onboard_time": 1764556760,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 197538,
       "num": 197538,
       "word": "风与潮",
@@ -299,12 +419,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 193234,
-      "num": 193234,
-      "word": "神舟二十二号航天员乘组永远空缺",
-      "onboard_time": 1764555139,
+      "raw_hot": 197403,
+      "num": 197403,
+      "word": "谁把我上班这死样拍成剧了",
+      "onboard_time": 1764561322,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 196435,
+      "num": 196435,
+      "word": "开一晚上电热毯得排多少湿气啊",
+      "onboard_time": 1764557300,
       "rank": 33,
-      "category": "国内时政"
+      "category": "幽默"
     },
     {
       "raw_hot": 192259,
@@ -321,6 +449,22 @@
       "onboard_time": 1764555139,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 183997,
+      "num": 234450,
+      "word": "jjking说Uzi大概率复出",
+      "onboard_time": 1764561742,
+      "rank": 7,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 182211,
+      "num": 182211,
+      "word": "吉克隽逸 露肤度高不等于擦边",
+      "onboard_time": 1764561263,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 179511,
@@ -363,20 +507,20 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 158990,
-      "num": 144353,
-      "word": "高市宣称日本又回来了",
-      "onboard_time": 1764555861,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 156386,
       "num": 156386,
       "word": "F1",
       "onboard_time": 1764544339,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 155533,
+      "num": 155533,
+      "word": "孩子考试不及格培训机构说尽力了",
+      "onboard_time": 1764560181,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152725,
@@ -451,12 +595,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 145500,
+      "num": 145500,
+      "word": "黄雅琼婚礼最热闹的一桌",
+      "onboard_time": 1764557300,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 144745,
       "num": 130805,
       "word": "车澈回应与李嘉格离婚",
       "onboard_time": 1764489980,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144639,
+      "num": 144639,
+      "word": "一杯咖啡能买三十个鸡蛋",
+      "onboard_time": 1764561263,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 144381,
@@ -480,6 +640,22 @@
       "word": "杨紫的家业还是太火了",
       "onboard_time": 1764509421,
       "rank": 19,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 134484,
+      "num": 234393,
+      "word": "致我那菜市场的白月光",
+      "onboard_time": 1764557300,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 133929,
+      "num": 133929,
+      "word": "朱亚文向涵之是主角会爆成啥样",
+      "onboard_time": 1764562463,
+      "rank": 41,
       "category": "剧集"
     },
     {
@@ -507,12 +683,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 128278,
+      "num": 128278,
+      "word": "黄雅琼太漂亮了",
+      "onboard_time": 1764558860,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126342,
       "num": 126342,
       "word": "画梅一夜掉粉超190万",
       "onboard_time": 1764496220,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 123771,
+      "num": 123771,
+      "word": "陈哲远闷声干大事",
+      "onboard_time": 1764562522,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 122544,
+      "num": 122544,
+      "word": "张继科杯混团冠军奖金15万",
+      "onboard_time": 1764560061,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 122152,
@@ -523,12 +723,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 121848,
+      "num": 121848,
+      "word": "李昀锐王楚然 归良辰",
+      "onboard_time": 1764558440,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 120752,
       "num": 120752,
       "word": "邓为晒素颜自拍",
       "onboard_time": 1764520818,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 119798,
+      "num": 119798,
+      "word": "孙颖莎从第一排聊到第二排",
+      "onboard_time": 1764558921,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 114984,
@@ -593,6 +809,14 @@
       "onboard_time": 1764555621,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103534,
+      "num": 198126,
+      "word": "HPV可能导致多种癌症和相关疾病",
+      "onboard_time": 1764561801,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 101620,
@@ -707,6 +931,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79130,
+      "num": 144851,
+      "word": "艾滋病自愿咨询检测结果仅本人可查",
+      "onboard_time": 1764561801,
+      "rank": 39,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 78516,
       "num": 78516,
       "word": "韦雪前男友自曝喜欢的明星",
@@ -745,6 +977,14 @@
       "onboard_time": 1764503541,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72527,
+      "num": 234189,
+      "word": "没想到夸克AI浏览器还可以这么用",
+      "onboard_time": 1764561682,
+      "rank": 14,
+      "category": "互联网"
     },
     {
       "raw_hot": 71432,
@@ -923,6 +1163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42680,
+      "num": 233988,
+      "word": "寒潮来了局地降14至16摄氏度",
+      "onboard_time": 1764561623,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40426,
       "num": 55054,
       "word": "宁静选择上综艺不拍戏",
@@ -971,6 +1219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33963,
+      "num": 234357,
+      "word": "75亿项目被指偷工减料",
+      "onboard_time": 1764561862,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33577,
       "num": 42127,
       "word": "可能创下吉尼斯最快脱袜纪录",
@@ -993,6 +1249,14 @@
       "onboard_time": 1764513863,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 26781,
+      "num": 121850,
+      "word": "遵义湘江河漂浮粪水臭气熏天",
+      "onboard_time": 1764560961,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26100,
@@ -1041,11 +1305,22 @@
       "onboard_time": 1764556760,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 6029,
+      "num": 277311,
+      "word": "12月起这些新规开始施行",
+      "onboard_time": 1764493460,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
     {
       "word": "#习近平部署加强网络生态治理#"
+    },
+    {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
     }
   ]
 }
