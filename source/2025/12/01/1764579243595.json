@@ -1,0 +1,410 @@
+{
+  "runTime": 1764579243595,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1674522,
+        "num": 1674522,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 258618,
+        "num": 258618,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 10203,
+        "num": 255067,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 254026,
+        "num": 254026,
+        "word": "唐诡能不能拍一下万年县尉",
+        "onboard_time": 1764575902,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 200217,
+        "num": 251182,
+        "word": "Viper上线",
+        "onboard_time": 1764574402,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 385524,
+        "num": 250693,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 490415,
+        "num": 250611,
+        "word": "葛夕 恋综",
+        "onboard_time": 1764571940,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 250099,
+        "num": 250099,
+        "word": "广州街头突发火情疑似车油泄漏",
+        "onboard_time": 1764575362,
+        "rank": 7,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 169941,
+        "num": 249867,
+        "word": "Uzi上线吃瓜",
+        "onboard_time": 1764574102,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 104978,
+        "num": 249519,
+        "word": "饶雪漫把短剧氛围感卷起来了",
+        "onboard_time": 1764577582,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1425641,
+        "num": 249266,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1019056,
+        "num": 248999,
+        "word": "葛夕上恋综 留几手破防",
+        "onboard_time": 1764576322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 538599,
+        "num": 248570,
+        "word": "感觉李晨有老人味了",
+        "onboard_time": 1764578362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445680,
+        "num": 248070,
+        "word": "怀疑我妈是地枭",
+        "onboard_time": 1764574882,
+        "rank": 13,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 187122,
+        "num": 247764,
+        "word": "警方就大埔火灾已拘捕13人",
+        "onboard_time": 1764577762,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363199,
+        "num": 247411,
+        "word": "高市早苗搂肩熊抱滑椅子",
+        "onboard_time": 1764573925,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 310969,
+        "num": 246990,
+        "word": "小胖回应改ID",
+        "onboard_time": 1764573081,
+        "rank": 16,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 282068,
+        "num": 246815,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 267550,
+        "num": 246450,
+        "word": "刘诗诗小时候用这张脸捅马蜂窝",
+        "onboard_time": 1764576203,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32360,
+        "num": 246037,
+        "word": "高市早苗必然撞上南墙",
+        "onboard_time": 1764578842,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 687629,
+        "num": 245427,
+        "word": "张继科 张蕊",
+        "onboard_time": 1764566423,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 468351,
+        "num": 245269,
+        "word": "张继科女友前夫 白百何现任",
+        "onboard_time": 1764572122,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 245067,
+        "num": 245067,
+        "word": "日本最大在野党党首否认南京大屠杀",
+        "onboard_time": 1764574641,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 216285,
+        "num": 216285,
+        "word": "知名女主持被骗婚后人财两空",
+        "onboard_time": 1764578302,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 175368,
+        "num": 175368,
+        "word": "马頔 你懂什么叫结婚么",
+        "onboard_time": 1764559941,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170043,
+        "num": 170043,
+        "word": "朱珠 我没挤他",
+        "onboard_time": 1764559100,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31076,
+        "num": 167538,
+        "word": "高空抛砖案死者家属起诉长春万达",
+        "onboard_time": 1764577641,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165598,
+        "num": 165598,
+        "word": "曝iPhone折叠屏手机无折痕",
+        "onboard_time": 1764570861,
+        "rank": 27,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 146027,
+        "num": 146027,
+        "word": "清清 谁给小胖改的ID",
+        "onboard_time": 1764577402,
+        "rank": 28,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 113678,
+        "num": 142163,
+        "word": "中方敦促日方老老实实收回错误言论",
+        "onboard_time": 1764577342,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 169672,
+        "num": 142139,
+        "word": "瘦十斤再见面 这辈子是不见了吗",
+        "onboard_time": 1764578604,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 142109,
+        "num": 142109,
+        "word": "广州沙园地铁站附近突发火情",
+        "onboard_time": 1764571462,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136991,
+        "num": 136991,
+        "word": "王橹杰 追晚霞",
+        "onboard_time": 1764577282,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136036,
+        "num": 136036,
+        "word": "被性恋",
+        "onboard_time": 1764564504,
+        "rank": 33,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 133744,
+        "num": 133744,
+        "word": "方媛三胎产后身材",
+        "onboard_time": 1764577582,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122578,
+        "num": 122578,
+        "word": "当地应急回应广州突发火情",
+        "onboard_time": 1764573442,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116227,
+        "num": 116227,
+        "word": "早期章子怡 潮妹",
+        "onboard_time": 1764576982,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16329,
+        "num": 113252,
+        "word": "电动车新国标强制安装北斗模块",
+        "onboard_time": 1764578421,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11411,
+        "num": 112275,
+        "word": "等等挑着邓超孙俪的优点长",
+        "onboard_time": 1764578963,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59999,
+        "num": 111532,
+        "word": "刘诗诗走路腰发力",
+        "onboard_time": 1764578783,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111414,
+        "num": 111414,
+        "word": "妈妈花2小时帮我投了1个岗位",
+        "onboard_time": 1764577163,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 109068,
+        "num": 109068,
+        "word": "小黄豆卖掉薛小婉礼物",
+        "onboard_time": 1764575842,
+        "rank": 41,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 105895,
+        "num": 105895,
+        "word": "胡歌说在吴磊身上看到了国际化",
+        "onboard_time": 1764577883,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102946,
+        "num": 102946,
+        "word": "外交部回应日本外相重复旧金山和约",
+        "onboard_time": 1764578543,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 101651,
+        "num": 101651,
+        "word": "张新成古装",
+        "onboard_time": 1764573802,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58400,
+        "num": 98395,
+        "word": "Ella肉眼可见的气血充足感",
+        "onboard_time": 1764577762,
+        "rank": 45,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 50112,
+        "num": 97806,
+        "word": "别克连夜复盘辅助驾驶大赛路线",
+        "onboard_time": 1764572842,
+        "rank": 46,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 97559,
+        "num": 97559,
+        "word": "董璇小酒窝去佟大为女儿艺术展",
+        "onboard_time": 1764575603,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 70752,
+        "num": 95198,
+        "word": "中韩男篮二番战大名单",
+        "onboard_time": 1764579203,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66800,
+        "num": 94789,
+        "word": "12月A股市场展望",
+        "onboard_time": 1764578783,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
+    }
+  }
+}
