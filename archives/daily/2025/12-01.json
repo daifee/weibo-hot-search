@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764581845858,
+  "endTime": 1764582591705,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1557919,
-      "num": 273950,
+      "num": 683175,
       "word": "民警玩忽职守致女子再被性侵",
       "onboard_time": 1764576863,
       "rank": 10,
@@ -41,6 +41,14 @@
       "onboard_time": 1764559100,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1394966,
+      "num": 849312,
+      "word": "明年起避孕药品和用具征收增值税",
+      "onboard_time": 1764580582,
+      "rank": 10,
+      "category": "民生新闻,财经"
     },
     {
       "raw_hot": 1385097,
@@ -59,14 +67,6 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 1199874,
-      "num": 289109,
-      "word": "明年起避孕药品和用具征收增值税",
-      "onboard_time": 1764580582,
-      "rank": 10,
-      "category": "民生新闻,财经"
-    },
-    {
       "raw_hot": 1024327,
       "num": 481732,
       "word": "郝蕾 我说的不是辛芷蕾",
@@ -76,7 +76,7 @@
     },
     {
       "raw_hot": 1019056,
-      "num": 285950,
+      "num": 844662,
       "word": "葛夕上恋综 留几手破防",
       "onboard_time": 1764576322,
       "rank": 11,
@@ -99,8 +99,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 917099,
+      "num": 1146735,
+      "word": "香港火灾已致151人遇难",
+      "onboard_time": 1764581302,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 830374,
-      "num": 280135,
+      "num": 702801,
       "word": "感觉李晨有老人味了",
       "onboard_time": 1764578362,
       "rank": 44,
@@ -188,10 +196,18 @@
     },
     {
       "raw_hot": 552341,
-      "num": 552341,
+      "num": 874172,
       "word": "BLG官宣Xun加入",
       "onboard_time": 1764580524,
       "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 551905,
+      "num": 984654,
+      "word": "BLG Viper",
+      "onboard_time": 1764580763,
+      "rank": 5,
       "category": "电竞"
     },
     {
@@ -248,14 +264,6 @@
       "word": "小胖回应改ID",
       "onboard_time": 1764573081,
       "rank": 6,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 472633,
-      "num": 472633,
-      "word": "BLG Viper",
-      "onboard_time": 1764580763,
-      "rank": 5,
       "category": "电竞"
     },
     {
@@ -411,6 +419,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 347430,
+      "num": 347430,
+      "word": "知名女主持被骗婚后人财两空",
+      "onboard_time": 1764578302,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 346505,
       "num": 204233,
       "word": "爱马仕继承人被25年财管好友骗光财产",
@@ -491,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 324015,
+      "num": 191090,
+      "word": "葛夕约会",
+      "onboard_time": 1764582324,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 323418,
       "num": 233872,
       "word": "夏克立说已经4年没见过女儿夏天",
@@ -504,14 +528,6 @@
       "word": "长安二十四计",
       "onboard_time": 1764553161,
       "rank": 3,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 319115,
-      "num": 300583,
-      "word": "知名女主持被骗婚后人财两空",
-      "onboard_time": 1764578302,
-      "rank": 37,
       "category": "剧集"
     },
     {
@@ -537,6 +553,14 @@
       "onboard_time": 1764510023,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 303612,
+      "num": 303612,
+      "word": "瘦十斤再见面 这辈子是不见了吗",
+      "onboard_time": 1764578604,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 302879,
@@ -569,14 +593,6 @@
       "onboard_time": 1764570861,
       "rank": 40,
       "category": "数码"
-    },
-    {
-      "raw_hot": 295366,
-      "num": 295366,
-      "word": "香港火灾已致151人遇难",
-      "onboard_time": 1764581302,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 286982,
@@ -644,7 +660,7 @@
     },
     {
       "raw_hot": 262991,
-      "num": 262991,
+      "num": 859523,
       "word": "警方就大埔火灾已拘捕13人",
       "onboard_time": 1764577762,
       "rank": 9,
@@ -747,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 221507,
-      "num": 221507,
-      "word": "瘦十斤再见面 这辈子是不见了吗",
-      "onboard_time": 1764578604,
-      "rank": 30,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 221134,
       "num": 226800,
       "word": "店主实名举报公职人员疑喝农药",
@@ -851,6 +859,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 199831,
+      "num": 199831,
+      "word": "电动车时速超25公里就断电",
+      "onboard_time": 1764579623,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 197538,
       "num": 197538,
       "word": "风与潮",
@@ -884,7 +900,7 @@
     },
     {
       "raw_hot": 195233,
-      "num": 131160,
+      "num": 180695,
       "word": "疯狂动物城 吃肉",
       "onboard_time": 1764581063,
       "rank": 30,
@@ -907,12 +923,12 @@
       "category": "教育"
     },
     {
-      "raw_hot": 192067,
-      "num": 192067,
-      "word": "电动车时速超25公里就断电",
-      "onboard_time": 1764579623,
-      "rank": 22,
-      "category": "民生新闻"
+      "raw_hot": 189686,
+      "num": 850762,
+      "word": "秦彻血月玫瑰",
+      "onboard_time": 1764582262,
+      "rank": 9,
+      "category": "游戏"
     },
     {
       "raw_hot": 186823,
@@ -1060,7 +1076,7 @@
     },
     {
       "raw_hot": 160718,
-      "num": 249519,
+      "num": 938734,
       "word": "饶雪漫把短剧氛围感卷起来了",
       "onboard_time": 1764577582,
       "rank": 35,
@@ -1403,6 +1419,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 124330,
+      "num": 124330,
+      "word": "理想汽车累计交付近150万辆",
+      "onboard_time": 1764581963,
+      "rank": 30,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 123208,
       "num": 123208,
       "word": "从微信躲到微博 从大号躲到小号",
@@ -1433,6 +1457,14 @@
       "onboard_time": 1764558440,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 121177,
+      "num": 121177,
+      "word": "续面事件老板被曝开新店",
+      "onboard_time": 1764579442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 120978,
@@ -1545,14 +1577,6 @@
       "onboard_time": 1764570501,
       "rank": 48,
       "category": "情感"
-    },
-    {
-      "raw_hot": 112491,
-      "num": 112491,
-      "word": "续面事件老板被曝开新店",
-      "onboard_time": 1764579442,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 111414,
@@ -1723,6 +1747,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96275,
+      "num": 96275,
+      "word": "张杰别递麦了我唱不上去",
+      "onboard_time": 1764582382,
+      "rank": 43,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 96086,
+      "num": 96086,
+      "word": "罗永浩否认科技春晚官宣视频是AI",
+      "onboard_time": 1764582023,
+      "rank": 44,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 92911,
       "num": 92911,
       "word": "永远在别人合照里找霍建华林心如",
@@ -1769,6 +1809,14 @@
       "onboard_time": 1764576382,
       "rank": 29,
       "category": "体育"
+    },
+    {
+      "raw_hot": 89389,
+      "num": 89389,
+      "word": "谁家女主第2集离婚第3集二婚",
+      "onboard_time": 1764580103,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 89037,
@@ -1833,6 +1881,14 @@
       "onboard_time": 1764580222,
       "rank": 47,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 82888,
+      "num": 126785,
+      "word": "联合国3个词为中国方案点赞",
+      "onboard_time": 1764581903,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 81939,
@@ -2019,6 +2075,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66304,
+      "num": 101943,
+      "word": "马龙双刀流训练",
+      "onboard_time": 1764580163,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 65549,
       "num": 65549,
       "word": "高市早苗意欲何为",
@@ -2059,20 +2123,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 63810,
-      "num": 82882,
-      "word": "马龙双刀流训练",
-      "onboard_time": 1764580163,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 62437,
       "num": 136388,
       "word": "东契奇里夫斯合砍67分",
       "onboard_time": 1764571102,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 62285,
+      "num": 497749,
+      "word": "王嘉尔入选美国AT40榜单",
+      "onboard_time": 1764579681,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 62120,
@@ -2121,6 +2185,14 @@
       "onboard_time": 1764520638,
       "rank": 39,
       "category": "演出"
+    },
+    {
+      "raw_hot": 58222,
+      "num": 131244,
+      "word": "华为MateX7升级到底有多大",
+      "onboard_time": 1764581483,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 58126,
@@ -2187,14 +2259,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 48967,
-      "num": 272688,
-      "word": "王嘉尔入选美国AT40榜单",
-      "onboard_time": 1764579681,
-      "rank": 14,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 46530,
       "num": 194683,
       "word": "美乌4小时会谈细节曝光",
@@ -2209,6 +2273,14 @@
       "onboard_time": 1764574162,
       "rank": 37,
       "category": "国际时政,体育"
+    },
+    {
+      "raw_hot": 45274,
+      "num": 101851,
+      "word": "邓超孙俪儿子U14男子组亚军",
+      "onboard_time": 1764581723,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 44366,
@@ -2259,6 +2331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42992,
+      "num": 101006,
+      "word": "周依然摸肖战脸镜头",
+      "onboard_time": 1764582562,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 42680,
       "num": 233988,
       "word": "寒潮来了局地降14至16摄氏度",
@@ -2275,20 +2355,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 40562,
-      "num": 131244,
-      "word": "华为MateX7升级到底有多大",
-      "onboard_time": 1764581483,
-      "rank": 29,
-      "category": "数码"
-    },
-    {
       "raw_hot": 40426,
       "num": 55054,
       "word": "宁静选择上综艺不拍戏",
       "onboard_time": 1764527775,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 40418,
+      "num": 101640,
+      "word": "如果让张凌赫演西门庆",
+      "onboard_time": 1764581362,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 39980,
@@ -2329,14 +2409,6 @@
       "onboard_time": 1764543796,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35822,
-      "num": 101559,
-      "word": "邓超孙俪儿子U14男子组亚军",
-      "onboard_time": 1764581723,
-      "rank": 39,
-      "category": "艺人,体育"
     },
     {
       "raw_hot": 34989,
@@ -2459,14 +2531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 19916,
-      "num": 101640,
-      "word": "如果让张凌赫演西门庆",
-      "onboard_time": 1764581362,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 19113,
       "num": 154788,
       "word": "男子6天数次高空抛砖未重视酿命案",
@@ -2540,7 +2604,7 @@
     },
     {
       "raw_hot": 11609,
-      "num": 951357,
+      "num": 1073419,
       "word": "12月起这些新规开始施行",
       "onboard_time": 1764493460,
       "rank": 2,

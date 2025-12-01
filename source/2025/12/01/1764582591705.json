@@ -1,0 +1,410 @@
+{
+  "runTime": 1764582591705,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 917099,
+        "num": 1146735,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 224795,
+        "num": 1088590,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 9447,
+        "num": 1073419,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 551905,
+        "num": 984654,
+        "word": "BLG Viper",
+        "onboard_time": 1764580763,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129665,
+        "num": 938734,
+        "word": "饶雪漫把短剧氛围感卷起来了",
+        "onboard_time": 1764577582,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 874587,
+        "num": 874587,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 531506,
+        "num": 874172,
+        "word": "BLG官宣Xun加入",
+        "onboard_time": 1764580524,
+        "rank": 6,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 304099,
+        "num": 865277,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214550,
+        "num": 859523,
+        "word": "警方就大埔火灾已拘捕13人",
+        "onboard_time": 1764577762,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 189686,
+        "num": 850762,
+        "word": "秦彻血月玫瑰",
+        "onboard_time": 1764582262,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1394966,
+        "num": 849312,
+        "word": "明年起避孕药品和用具征收增值税",
+        "onboard_time": 1764580582,
+        "rank": 10,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 844662,
+        "num": 844662,
+        "word": "葛夕上恋综 留几手破防",
+        "onboard_time": 1764576322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 702801,
+        "num": 702801,
+        "word": "感觉李晨有老人味了",
+        "onboard_time": 1764578362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683175,
+        "num": 683175,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62285,
+        "num": 497749,
+        "word": "王嘉尔入选美国AT40榜单",
+        "onboard_time": 1764579681,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 347430,
+        "num": 347430,
+        "word": "知名女主持被骗婚后人财两空",
+        "onboard_time": 1764578302,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 303612,
+        "num": 303612,
+        "word": "瘦十斤再见面 这辈子是不见了吗",
+        "onboard_time": 1764578604,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 235676,
+        "num": 235676,
+        "word": "怀疑我妈是地枭",
+        "onboard_time": 1764574882,
+        "rank": 17,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 217450,
+        "num": 217450,
+        "word": "广州街头突发火情疑似车油泄漏",
+        "onboard_time": 1764575362,
+        "rank": 18,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 199831,
+        "num": 199831,
+        "word": "电动车时速超25公里就断电",
+        "onboard_time": 1764579623,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176406,
+        "num": 198207,
+        "word": "小胖回应改ID",
+        "onboard_time": 1764573081,
+        "rank": 20,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 365153,
+        "num": 193690,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 21,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 324015,
+        "num": 191090,
+        "word": "葛夕约会",
+        "onboard_time": 1764582324,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206827,
+        "num": 187514,
+        "word": "Viper上线",
+        "onboard_time": 1764574402,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 186832,
+        "num": 186832,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180695,
+        "num": 180695,
+        "word": "疯狂动物城 吃肉",
+        "onboard_time": 1764581063,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 177173,
+        "num": 177173,
+        "word": "刘诗诗小时候用这张脸捅马蜂窝",
+        "onboard_time": 1764576203,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148959,
+        "num": 148959,
+        "word": "高市早苗搂肩熊抱滑椅子",
+        "onboard_time": 1764573925,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82888,
+        "num": 126785,
+        "word": "联合国3个词为中国方案点赞",
+        "onboard_time": 1764581903,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58222,
+        "num": 125155,
+        "word": "华为MateX7升级到底有多大",
+        "onboard_time": 1764581483,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124330,
+        "num": 124330,
+        "word": "理想汽车累计交付近150万辆",
+        "onboard_time": 1764581963,
+        "rank": 30,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121177,
+        "num": 121177,
+        "word": "续面事件老板被曝开新店",
+        "onboard_time": 1764579442,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118509,
+        "num": 118509,
+        "word": "日本最大在野党党首否认南京大屠杀",
+        "onboard_time": 1764574641,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110568,
+        "num": 110568,
+        "word": "王橹杰 追晚霞",
+        "onboard_time": 1764577282,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 108239,
+        "num": 108239,
+        "word": "曝iPhone折叠屏手机无折痕",
+        "onboard_time": 1764570861,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 104938,
+        "num": 104938,
+        "word": "女律师被砸身亡后家属不敢单独出门",
+        "onboard_time": 1764579681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103223,
+        "num": 103223,
+        "word": "王嘉尔早点出道 小S蔡康永采访他",
+        "onboard_time": 1764581123,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102329,
+        "num": 102329,
+        "word": "唐诡能不能拍一下万年县尉",
+        "onboard_time": 1764575902,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 66304,
+        "num": 101943,
+        "word": "马龙双刀流训练",
+        "onboard_time": 1764580163,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 45274,
+        "num": 101851,
+        "word": "邓超孙俪儿子U14男子组亚军",
+        "onboard_time": 1764581723,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 42992,
+        "num": 101006,
+        "word": "周依然摸肖战脸镜头",
+        "onboard_time": 1764582562,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 40418,
+        "num": 100835,
+        "word": "如果让张凌赫演西门庆",
+        "onboard_time": 1764581362,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100460,
+        "num": 100460,
+        "word": "Uzi上线吃瓜",
+        "onboard_time": 1764574102,
+        "rank": 42,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 96275,
+        "num": 96275,
+        "word": "张杰别递麦了我唱不上去",
+        "onboard_time": 1764582382,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 96086,
+        "num": 96086,
+        "word": "罗永浩否认科技春晚官宣视频是AI",
+        "onboard_time": 1764582023,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92858,
+        "num": 92858,
+        "word": "清清 谁给小胖改的ID",
+        "onboard_time": 1764577402,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 89708,
+        "num": 89708,
+        "word": "马頔 你懂什么叫结婚么",
+        "onboard_time": 1764559941,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89441,
+        "num": 89441,
+        "word": "被性恋",
+        "onboard_time": 1764564504,
+        "rank": 47,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 89389,
+        "num": 89389,
+        "word": "谁家女主第2集离婚第3集二婚",
+        "onboard_time": 1764580103,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 57815,
+        "num": 85228,
+        "word": "中韩男篮二番战大名单",
+        "onboard_time": 1764579203,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
+    }
+  }
+}
