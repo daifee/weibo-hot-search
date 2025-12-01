@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764599420274,
+  "endTime": 1764600491246,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 895695,
+      "num": 206978,
+      "word": "名校硕士沦为患艾吸毒者",
+      "onboard_time": 1764598762,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 883597,
       "num": 241624,
       "word": "刘耀文直播",
@@ -225,6 +233,14 @@
       "onboard_time": 1764513022,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 580499,
+      "num": 206493,
+      "word": "马市长 邓超",
+      "onboard_time": 1764599002,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 571339,
@@ -699,6 +715,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 310938,
+      "num": 206755,
+      "word": "杨幂女演员的自律",
+      "onboard_time": 1764596364,
+      "rank": 42,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 309309,
+      "num": 309309,
+      "word": "王励勤乒羽运动管理中心副主任",
+      "onboard_time": 1764599063,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 304692,
       "num": 304692,
       "word": "沈腾的征信都扫不了共享单车",
@@ -753,6 +785,14 @@
       "onboard_time": 1764570861,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 296405,
+      "num": 200539,
+      "word": "朱志鑫的百度百科",
+      "onboard_time": 1764595644,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 292984,
@@ -875,14 +915,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 250469,
-      "num": 206978,
-      "word": "名校硕士沦为患艾吸毒者",
-      "onboard_time": 1764598762,
-      "rank": 12,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 246641,
       "num": 790931,
       "word": "官方通报店主实名举报公职人员",
@@ -905,14 +937,6 @@
       "onboard_time": 1764595043,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 237001,
-      "num": 206755,
-      "word": "杨幂女演员的自律",
-      "onboard_time": 1764596364,
-      "rank": 42,
-      "category": "艺人"
     },
     {
       "raw_hot": 236991,
@@ -963,14 +987,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 228601,
-      "num": 206493,
-      "word": "马市长 邓超",
-      "onboard_time": 1764599002,
-      "rank": 16,
-      "category": "电影"
-    },
-    {
       "raw_hot": 225645,
       "num": 215662,
       "word": "留几手 芒果TV",
@@ -985,6 +1001,14 @@
       "onboard_time": 1764561922,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 223601,
+      "num": 170932,
+      "word": "大三男生网络交友3个月感染艾滋病",
+      "onboard_time": 1764599124,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 222071,
@@ -1131,14 +1155,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 204460,
-      "num": 200539,
-      "word": "朱志鑫的百度百科",
-      "onboard_time": 1764595644,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 203852,
       "num": 203852,
       "word": "故意传播艾滋病涉嫌违法犯罪",
@@ -1176,14 +1192,6 @@
       "word": "孙颖莎3比0阿尔霍达比",
       "onboard_time": 1764592642,
       "rank": 8,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 198230,
-      "num": 198230,
-      "word": "王励勤乒羽运动管理中心副主任",
-      "onboard_time": 1764599063,
-      "rank": 19,
       "category": "体育"
     },
     {
@@ -1531,6 +1539,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157459,
+      "num": 157459,
+      "word": "女子烫发4小时称出去透气后疑跑路",
+      "onboard_time": 1764599124,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157067,
       "num": 215446,
       "word": "孙颖莎王楚钦出战单打",
@@ -1563,12 +1579,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156335,
+      "num": 156335,
+      "word": "陈赫王传君金世佳同框",
+      "onboard_time": 1764599844,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 155533,
       "num": 155533,
       "word": "孩子考试不及格培训机构说尽力了",
       "onboard_time": 1764560181,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 155379,
+      "num": 155379,
+      "word": "赵今麦包场得闲谨制",
+      "onboard_time": 1764599963,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 155245,
@@ -1649,6 +1681,14 @@
       "onboard_time": 1764567023,
       "rank": 41,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 150371,
+      "num": 157715,
+      "word": "郑恺苗苗牵手参加上戏校庆",
+      "onboard_time": 1764598643,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 149328,
@@ -1955,20 +1995,20 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130398,
+      "num": 130398,
+      "word": "指甲出现这个变化别不当回事",
+      "onboard_time": 1764599844,
+      "rank": 34,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 130313,
       "num": 215187,
       "word": "电费万一是小猫交的呢",
       "onboard_time": 1764587482,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130007,
-      "num": 148160,
-      "word": "大三男生网络交友3个月感染艾滋病",
-      "onboard_time": 1764599124,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 129418,
@@ -2049,6 +2089,14 @@
       "onboard_time": 1764574223,
       "rank": 39,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 122877,
+      "num": 147916,
+      "word": "谭爷爷说花花饿了花花就是饿了",
+      "onboard_time": 1764598643,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 122544,
@@ -2219,6 +2267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 113437,
+      "num": 113437,
+      "word": "杨迪的公关速度有多快",
+      "onboard_time": 1764600143,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 112345,
       "num": 112345,
       "word": "罗晋谈孔乙己的长衫",
@@ -2289,14 +2345,6 @@
       "onboard_time": 1764509843,
       "rank": 30,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 107113,
-      "num": 147916,
-      "word": "谭爷爷说花花饿了花花就是饿了",
-      "onboard_time": 1764598643,
-      "rank": 42,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106947,
@@ -2539,14 +2587,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91850,
-      "num": 147739,
-      "word": "女子烫发4小时称出去透气后疑跑路",
-      "onboard_time": 1764599124,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91809,
       "num": 91809,
       "word": "为什么我要隐藏博士学历",
@@ -2609,6 +2649,14 @@
       "onboard_time": 1764544879,
       "rank": 34,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 88248,
+      "num": 171079,
+      "word": "日本国宝级歌手喊话高市爽快一点",
+      "onboard_time": 1764600085,
+      "rank": 19,
+      "category": "国内时政"
     },
     {
       "raw_hot": 86634,
@@ -2963,14 +3011,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 62708,
-      "num": 148041,
-      "word": "郑恺苗苗牵手参加上戏校庆",
-      "onboard_time": 1764598643,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 62437,
       "num": 136388,
       "word": "东契奇里夫斯合砍67分",
@@ -3083,6 +3123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 56128,
+      "num": 171547,
+      "word": "专家建议不要用冲绳称呼琉球群岛",
+      "onboard_time": 1764599544,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 55862,
       "num": 214967,
       "word": "林诗栋蒯曼vs阿尔霍达比兄妹",
@@ -3120,6 +3168,14 @@
       "word": "今起校园配餐有国家标准了",
       "onboard_time": 1764597383,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52835,
+      "num": 147867,
+      "word": "男子钓上罕见113斤大鱼卖了6500块",
+      "onboard_time": 1764599362,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -3264,14 +3320,6 @@
       "word": "寒潮来了局地降14至16摄氏度",
       "onboard_time": 1764561623,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 42317,
-      "num": 147867,
-      "word": "男子钓上罕见113斤大鱼卖了6500块",
-      "onboard_time": 1764599362,
-      "rank": 44,
       "category": "民生新闻"
     },
     {
