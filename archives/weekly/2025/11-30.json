@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764607994029,
+  "endTime": 1764610153713,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -6659,6 +6659,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 36793,
+      "num": 79914,
+      "word": "汪苏泷杭州演唱会",
+      "onboard_time": 1764608357,
+      "rank": 25,
+      "category": "演出"
+    },
+    {
       "raw_hot": 36566,
       "num": 91225,
       "word": "王昶陈旭君2比1刘毅曾维瀚",
@@ -6713,6 +6721,14 @@
       "onboard_time": 1764471980,
       "rank": 19,
       "category": "运动健身"
+    },
+    {
+      "raw_hot": 34363,
+      "num": 79905,
+      "word": "汪苏泷罗曼城",
+      "onboard_time": 1764609796,
+      "rank": 31,
+      "category": "演出"
     },
     {
       "raw_hot": 33577,
@@ -6817,6 +6833,14 @@
       "onboard_time": 1764566661,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28506,
+      "num": 79888,
+      "word": "陈赫回母校参加校庆",
+      "onboard_time": 1764609735,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 28320,
