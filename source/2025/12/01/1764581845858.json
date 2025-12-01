@@ -1,0 +1,410 @@
+{
+  "runTime": 1764581845858,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 945453,
+        "num": 1151272,
+        "word": "俄罗斯免签",
+        "onboard_time": 1764575362,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231152,
+        "num": 603345,
+        "word": "宁德时代发布涨薪通知",
+        "onboard_time": 1764569421,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 11609,
+        "num": 553883,
+        "word": "12月起这些新规开始施行",
+        "onboard_time": 1764493460,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 552341,
+        "num": 552341,
+        "word": "BLG官宣Xun加入",
+        "onboard_time": 1764580524,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 121784,
+        "num": 479924,
+        "word": "唐诡能不能拍一下万年县尉",
+        "onboard_time": 1764575902,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 472633,
+        "num": 472633,
+        "word": "BLG Viper",
+        "onboard_time": 1764580763,
+        "rank": 5,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 303279,
+        "num": 303279,
+        "word": "您有一笔退款12月1日开始确认",
+        "onboard_time": 1764571462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319115,
+        "num": 300583,
+        "word": "知名女主持被骗婚后人财两空",
+        "onboard_time": 1764578302,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 295366,
+        "num": 295366,
+        "word": "香港火灾已致151人遇难",
+        "onboard_time": 1764581302,
+        "rank": 8,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 302879,
+        "num": 293505,
+        "word": "广州街头突发火情疑似车油泄漏",
+        "onboard_time": 1764575362,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1199874,
+        "num": 289109,
+        "word": "明年起避孕药品和用具征收增值税",
+        "onboard_time": 1764580582,
+        "rank": 10,
+        "category": "民生新闻,财经"
+      },
+      {
+        "raw_hot": 925339,
+        "num": 285950,
+        "word": "葛夕上恋综 留几手破防",
+        "onboard_time": 1764576322,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 830374,
+        "num": 280135,
+        "word": "感觉李晨有老人味了",
+        "onboard_time": 1764578362,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 807007,
+        "num": 273950,
+        "word": "民警玩忽职守致女子再被性侵",
+        "onboard_time": 1764576863,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48967,
+        "num": 272688,
+        "word": "王嘉尔入选美国AT40榜单",
+        "onboard_time": 1764579681,
+        "rank": 14,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 268334,
+        "num": 268334,
+        "word": "怀疑我妈是地枭",
+        "onboard_time": 1764574882,
+        "rank": 15,
+        "category": "作品衍生,幽默"
+      },
+      {
+        "raw_hot": 262991,
+        "num": 262991,
+        "word": "警方就大埔火灾已拘捕13人",
+        "onboard_time": 1764577762,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221507,
+        "num": 221507,
+        "word": "瘦十斤再见面 这辈子是不见了吗",
+        "onboard_time": 1764578604,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286982,
+        "num": 220337,
+        "word": "Viper上线",
+        "onboard_time": 1764574402,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 218833,
+        "num": 218833,
+        "word": "刘诗诗小时候用这张脸捅马蜂窝",
+        "onboard_time": 1764576203,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 446846,
+        "num": 210552,
+        "word": "月薪一万八但无意义的工作",
+        "onboard_time": 1764579262,
+        "rank": 20,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 199033,
+        "num": 199033,
+        "word": "小胖回应改ID",
+        "onboard_time": 1764573081,
+        "rank": 21,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 192067,
+        "num": 192067,
+        "word": "电动车时速超25公里就断电",
+        "onboard_time": 1764579623,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 182912,
+        "num": 182912,
+        "word": "葛夕 恋综",
+        "onboard_time": 1764571940,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182230,
+        "num": 182230,
+        "word": "郝蕾 我说的不是辛芷蕾",
+        "onboard_time": 1764568761,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 172717,
+        "num": 172717,
+        "word": "高市早苗搂肩熊抱滑椅子",
+        "onboard_time": 1764573925,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144970,
+        "num": 144970,
+        "word": "饶雪漫把短剧氛围感卷起来了",
+        "onboard_time": 1764577582,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140947,
+        "num": 140947,
+        "word": "女律师被砸身亡后家属不敢单独出门",
+        "onboard_time": 1764579681,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100855,
+        "num": 132416,
+        "word": "广州海珠一货车起火无人伤亡被困",
+        "onboard_time": 1764580582,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40562,
+        "num": 131244,
+        "word": "华为MateX7升级到底有多大",
+        "onboard_time": 1764581483,
+        "rank": 29,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 195233,
+        "num": 131160,
+        "word": "疯狂动物城 吃肉",
+        "onboard_time": 1764581063,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 131074,
+        "num": 131074,
+        "word": "日本最大在野党党首否认南京大屠杀",
+        "onboard_time": 1764574641,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 122240,
+        "num": 122240,
+        "word": "王橹杰 追晚霞",
+        "onboard_time": 1764577282,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 120818,
+        "num": 120818,
+        "word": "曝iPhone折叠屏手机无折痕",
+        "onboard_time": 1764570861,
+        "rank": 33,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 118865,
+        "num": 118865,
+        "word": "王嘉尔早点出道 小S蔡康永采访他",
+        "onboard_time": 1764581123,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112491,
+        "num": 112491,
+        "word": "续面事件老板被曝开新店",
+        "onboard_time": 1764579442,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107437,
+        "num": 107437,
+        "word": "Uzi上线吃瓜",
+        "onboard_time": 1764574102,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 81292,
+        "num": 102267,
+        "word": "日本不要妄想蒙混过关",
+        "onboard_time": 1764580582,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 19916,
+        "num": 101640,
+        "word": "如果让张凌赫演西门庆",
+        "onboard_time": 1764581362,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 35822,
+        "num": 101559,
+        "word": "邓超孙俪儿子U14男子组亚军",
+        "onboard_time": 1764581723,
+        "rank": 39,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 101543,
+        "num": 101543,
+        "word": "被性恋",
+        "onboard_time": 1764564504,
+        "rank": 40,
+        "category": "幽默,休闲"
+      },
+      {
+        "raw_hot": 58921,
+        "num": 98603,
+        "word": "俄罗斯将采集出入境外国人生物信息",
+        "onboard_time": 1764580524,
+        "rank": 41,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98207,
+        "num": 98207,
+        "word": "马頔 你懂什么叫结婚么",
+        "onboard_time": 1764559941,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92501,
+        "num": 92501,
+        "word": "陈晓古装杀死了比赛",
+        "onboard_time": 1764580041,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 91809,
+        "num": 91809,
+        "word": "为什么我要隐藏博士学历",
+        "onboard_time": 1764581302,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87964,
+        "num": 87964,
+        "word": "方媛三胎产后身材",
+        "onboard_time": 1764577582,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84997,
+        "num": 84997,
+        "word": "人不能做长期有紧张感的工作",
+        "onboard_time": 1764581601,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83033,
+        "num": 83033,
+        "word": "猫在家疯跑把自己跑进了医院",
+        "onboard_time": 1764580222,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 63810,
+        "num": 82882,
+        "word": "马龙双刀流训练",
+        "onboard_time": 1764580163,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 60027,
+        "num": 82781,
+        "word": "中韩男篮二番战大名单",
+        "onboard_time": 1764579203,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#对网络乱象要敢于亮剑坚决打击#"
+    }
+  }
+}

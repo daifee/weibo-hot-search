@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764579243595,
+  "endTime": 1764581845858,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 1557919,
-      "num": 249266,
+      "num": 273950,
       "word": "民警玩忽职守致女子再被性侵",
       "onboard_time": 1764576863,
       "rank": 10,
@@ -59,6 +59,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 1199874,
+      "num": 289109,
+      "word": "明年起避孕药品和用具征收增值税",
+      "onboard_time": 1764580582,
+      "rank": 10,
+      "category": "民生新闻,财经"
+    },
+    {
       "raw_hot": 1024327,
       "num": 481732,
       "word": "郝蕾 我说的不是辛芷蕾",
@@ -68,7 +76,7 @@
     },
     {
       "raw_hot": 1019056,
-      "num": 248999,
+      "num": 285950,
       "word": "葛夕上恋综 留几手破防",
       "onboard_time": 1764576322,
       "rank": 11,
@@ -88,6 +96,14 @@
       "word": "朱珠 面无表情把老公挤开",
       "onboard_time": 1764512722,
       "rank": 11,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 830374,
+      "num": 280135,
+      "word": "感觉李晨有老人味了",
+      "onboard_time": 1764578362,
+      "rank": 44,
       "category": "艺人"
     },
     {
@@ -171,12 +187,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 538599,
-      "num": 248570,
-      "word": "感觉李晨有老人味了",
-      "onboard_time": 1764578362,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 552341,
+      "num": 552341,
+      "word": "BLG官宣Xun加入",
+      "onboard_time": 1764580524,
+      "rank": 3,
+      "category": "电竞"
     },
     {
       "raw_hot": 532623,
@@ -235,6 +251,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 472633,
+      "num": 472633,
+      "word": "BLG Viper",
+      "onboard_time": 1764580763,
+      "rank": 5,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 462864,
       "num": 206258,
       "word": "现在就出发 后期",
@@ -244,7 +268,7 @@
     },
     {
       "raw_hot": 461787,
-      "num": 248070,
+      "num": 268334,
       "word": "怀疑我妈是地枭",
       "onboard_time": 1764574882,
       "rank": 46,
@@ -265,6 +289,14 @@
       "onboard_time": 1764555020,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 446846,
+      "num": 210552,
+      "word": "月薪一万八但无意义的工作",
+      "onboard_time": 1764579262,
+      "rank": 20,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 434499,
@@ -475,6 +507,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 319115,
+      "num": 300583,
+      "word": "知名女主持被骗婚后人财两空",
+      "onboard_time": 1764578302,
+      "rank": 37,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 318365,
       "num": 116225,
       "word": "中国游客在美国商场遇枪击躲试衣间",
@@ -499,6 +539,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 302879,
+      "num": 293505,
+      "word": "广州街头突发火情疑似车油泄漏",
+      "onboard_time": 1764575362,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 302540,
       "num": 233807,
       "word": "已经到了不认识TFBOYS的时代了",
@@ -521,6 +569,22 @@
       "onboard_time": 1764570861,
       "rank": 40,
       "category": "数码"
+    },
+    {
+      "raw_hot": 295366,
+      "num": 295366,
+      "word": "香港火灾已致151人遇难",
+      "onboard_time": 1764581302,
+      "rank": 8,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 286982,
+      "num": 260078,
+      "word": "Viper上线",
+      "onboard_time": 1764574402,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 285020,
@@ -572,11 +636,19 @@
     },
     {
       "raw_hot": 265740,
-      "num": 262368,
+      "num": 479924,
       "word": "唐诡能不能拍一下万年县尉",
       "onboard_time": 1764575902,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 262991,
+      "num": 262991,
+      "word": "警方就大埔火灾已拘捕13人",
+      "onboard_time": 1764577762,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 260918,
@@ -601,14 +673,6 @@
       "onboard_time": 1764556760,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 250099,
-      "num": 251686,
-      "word": "广州街头突发火情疑似车油泄漏",
-      "onboard_time": 1764575362,
-      "rank": 8,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 246641,
@@ -683,6 +747,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 221507,
+      "num": 221507,
+      "word": "瘦十斤再见面 这辈子是不见了吗",
+      "onboard_time": 1764578604,
+      "rank": 30,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 221134,
       "num": 226800,
       "word": "店主实名举报公职人员疑喝农药",
@@ -699,28 +771,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219157,
-      "num": 260078,
-      "word": "Viper上线",
-      "onboard_time": 1764574402,
-      "rank": 30,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 218342,
       "num": 205245,
       "word": "假奶粉",
       "onboard_time": 1764550462,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 216285,
-      "num": 216285,
-      "word": "知名女主持被骗婚后人财两空",
-      "onboard_time": 1764578302,
-      "rank": 37,
-      "category": "剧集"
     },
     {
       "raw_hot": 208566,
@@ -827,6 +883,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195233,
+      "num": 131160,
+      "word": "疯狂动物城 吃肉",
+      "onboard_time": 1764581063,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194775,
       "num": 482405,
       "word": "官方通报广州沙园地铁站附近突发火情",
@@ -843,11 +907,11 @@
       "category": "教育"
     },
     {
-      "raw_hot": 187122,
-      "num": 248194,
-      "word": "警方就大埔火灾已拘捕13人",
-      "onboard_time": 1764577762,
-      "rank": 9,
+      "raw_hot": 192067,
+      "num": 192067,
+      "word": "电动车时速超25公里就断电",
+      "onboard_time": 1764579623,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -929,14 +993,6 @@
       "onboard_time": 1764567144,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 169672,
-      "num": 142139,
-      "word": "瘦十斤再见面 这辈子是不见了吗",
-      "onboard_time": 1764578604,
-      "rank": 30,
-      "category": "幽默"
     },
     {
       "raw_hot": 167316,
@@ -1227,6 +1283,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140947,
+      "num": 140947,
+      "word": "女律师被砸身亡后家属不敢单独出门",
+      "onboard_time": 1764579681,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 140635,
       "num": 140635,
       "word": "张新成古装",
@@ -1411,6 +1475,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 118865,
+      "num": 118865,
+      "word": "王嘉尔早点出道 小S蔡康永采访他",
+      "onboard_time": 1764581123,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 117887,
       "num": 233083,
       "word": "中方敦促日方老老实实收回错误言论",
@@ -1473,6 +1545,14 @@
       "onboard_time": 1764570501,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 112491,
+      "num": 112491,
+      "word": "续面事件老板被曝开新店",
+      "onboard_time": 1764579442,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 111414,
@@ -1587,6 +1667,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 100855,
+      "num": 132416,
+      "word": "广州海珠一货车起火无人伤亡被困",
+      "onboard_time": 1764580582,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 100094,
       "num": 100094,
       "word": "内存芯片价格大涨",
@@ -1641,6 +1729,22 @@
       "onboard_time": 1764576743,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92501,
+      "num": 92501,
+      "word": "陈晓古装杀死了比赛",
+      "onboard_time": 1764580041,
+      "rank": 43,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 91809,
+      "num": 91809,
+      "word": "为什么我要隐藏博士学历",
+      "onboard_time": 1764581302,
+      "rank": 44,
+      "category": "幽默"
     },
     {
       "raw_hot": 89983,
@@ -1699,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84997,
+      "num": 84997,
+      "word": "人不能做长期有紧张感的工作",
+      "onboard_time": 1764581601,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83337,
       "num": 119368,
       "word": "本周五又有超级月亮",
@@ -1713,6 +1825,14 @@
       "onboard_time": 1764539895,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83033,
+      "num": 83033,
+      "word": "猫在家疯跑把自己跑进了医院",
+      "onboard_time": 1764580222,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 81939,
@@ -1753,6 +1873,14 @@
       "onboard_time": 1764513623,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 81292,
+      "num": 102267,
+      "word": "日本不要妄想蒙混过关",
+      "onboard_time": 1764580582,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80618,
@@ -1931,6 +2059,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 63810,
+      "num": 82882,
+      "word": "马龙双刀流训练",
+      "onboard_time": 1764580163,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 62437,
       "num": 136388,
       "word": "东契奇里夫斯合砍67分",
@@ -1969,6 +2105,14 @@
       "onboard_time": 1764510381,
       "rank": 46,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 58921,
+      "num": 98603,
+      "word": "俄罗斯将采集出入境外国人生物信息",
+      "onboard_time": 1764580524,
+      "rank": 41,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 58294,
@@ -2041,6 +2185,14 @@
       "onboard_time": 1764545659,
       "rank": 41,
       "category": "情感"
+    },
+    {
+      "raw_hot": 48967,
+      "num": 272688,
+      "word": "王嘉尔入选美国AT40榜单",
+      "onboard_time": 1764579681,
+      "rank": 14,
+      "category": "音乐"
     },
     {
       "raw_hot": 46530,
@@ -2123,6 +2275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40562,
+      "num": 131244,
+      "word": "华为MateX7升级到底有多大",
+      "onboard_time": 1764581483,
+      "rank": 29,
+      "category": "数码"
+    },
+    {
       "raw_hot": 40426,
       "num": 55054,
       "word": "宁静选择上综艺不拍戏",
@@ -2169,6 +2329,14 @@
       "onboard_time": 1764543796,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35822,
+      "num": 101559,
+      "word": "邓超孙俪儿子U14男子组亚军",
+      "onboard_time": 1764581723,
+      "rank": 39,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 34989,
@@ -2291,6 +2459,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 19916,
+      "num": 101640,
+      "word": "如果让张凌赫演西门庆",
+      "onboard_time": 1764581362,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 19113,
       "num": 154788,
       "word": "男子6天数次高空抛砖未重视酿命案",
@@ -2363,20 +2539,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 11609,
+      "num": 951357,
+      "word": "12月起这些新规开始施行",
+      "onboard_time": 1764493460,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 11411,
       "num": 112275,
       "word": "等等挑着邓超孙俪的优点长",
       "onboard_time": 1764578963,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11032,
-      "num": 951357,
-      "word": "12月起这些新规开始施行",
-      "onboard_time": 1764493460,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 7298,
