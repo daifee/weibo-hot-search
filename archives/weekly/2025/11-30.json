@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764686968817,
+  "endTime": 1764689542458,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -113,6 +113,14 @@
       "onboard_time": 1764484223,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1398324,
+      "num": 1398324,
+      "word": "日本战争准备曝光",
+      "onboard_time": 1764686424,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1394966,
@@ -436,7 +444,7 @@
     },
     {
       "raw_hot": 852733,
-      "num": 1136437,
+      "num": 1417357,
       "word": "台湾一旦沦为战场什么都是空谈",
       "onboard_time": 1764671661,
       "rank": 18,
@@ -476,7 +484,7 @@
     },
     {
       "raw_hot": 805945,
-      "num": 1155007,
+      "num": 1403154,
       "word": "小米高管疑似集体遭遇短信轰炸",
       "onboard_time": 1764678562,
       "rank": 5,
@@ -492,7 +500,7 @@
     },
     {
       "raw_hot": 801067,
-      "num": 1173803,
+      "num": 1414565,
       "word": "国家发社保补贴了",
       "onboard_time": 1764679462,
       "rank": 7,
@@ -505,6 +513,14 @@
       "onboard_time": 1764489201,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 783164,
+      "num": 783164,
+      "word": "华裔女子痔疮手术后不堪剧痛自杀",
+      "onboard_time": 1764686424,
+      "rank": 32,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 777964,
@@ -1196,7 +1212,7 @@
     },
     {
       "raw_hot": 452556,
-      "num": 452556,
+      "num": 1435120,
       "word": "双高胎否认哥的全宇宙抄袭",
       "onboard_time": 1764685764,
       "rank": 31,
@@ -1579,6 +1595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 390630,
+      "num": 1425687,
+      "word": "日本自卫队被曝正在向西南转移",
+      "onboard_time": 1764687623,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 388293,
       "num": 386400,
       "word": "中国男篮vs韩国男篮",
@@ -1683,6 +1707,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 363405,
+      "num": 363405,
+      "word": "蜜雪冰城 留守儿童",
+      "onboard_time": 1764686784,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 362959,
       "num": 362959,
       "word": "卖手机壳比卖手机还赚钱",
@@ -1745,6 +1777,14 @@
       "onboard_time": 1764557720,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 348534,
+      "num": 348534,
+      "word": "朱亚文 配角",
+      "onboard_time": 1764687503,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 348356,
@@ -2099,14 +2139,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 301092,
-      "num": 157858,
-      "word": "日本战争准备曝光",
-      "onboard_time": 1764686424,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 300058,
       "num": 300058,
       "word": "易烊千玺礐嶨将重启预约",
@@ -2409,14 +2441,6 @@
       "onboard_time": 1764468620,
       "rank": 43,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 261962,
-      "num": 156826,
-      "word": "华裔女子痔疮手术后不堪剧痛自杀",
-      "onboard_time": 1764686424,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 260918,
@@ -3075,6 +3099,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 204347,
+      "num": 1549698,
+      "word": "Uzi邀请Wayward试训",
+      "onboard_time": 1764685285,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 204233,
       "num": 204233,
       "word": "南方人不许写sci的拼音",
@@ -3105,14 +3137,6 @@
       "onboard_time": 1764550699,
       "rank": 22,
       "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 203295,
-      "num": 1549698,
-      "word": "Uzi邀请Wayward试训",
-      "onboard_time": 1764685285,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 203277,
@@ -3345,6 +3369,14 @@
       "onboard_time": 1764546020,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191434,
+      "num": 191434,
+      "word": "再熬八周",
+      "onboard_time": 1764684024,
+      "rank": 46,
+      "category": "情感"
     },
     {
       "raw_hot": 190292,
@@ -4123,14 +4155,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 161147,
-      "num": 161147,
-      "word": "再熬八周",
-      "onboard_time": 1764684024,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 161110,
       "num": 578214,
       "word": "黄土高原变绿了",
@@ -4489,6 +4513,14 @@
       "onboard_time": 1764601582,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 150978,
+      "num": 211569,
+      "word": "湖南一烧烤店被指直播煮猫爪",
+      "onboard_time": 1764686604,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 150937,
@@ -5227,6 +5259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131825,
+      "num": 131825,
+      "word": "李煜东 希望十二月对我们都好一点",
+      "onboard_time": 1764689182,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 131782,
       "num": 160730,
       "word": "别克连夜复盘辅助驾驶大赛路线",
@@ -5257,6 +5297,14 @@
       "onboard_time": 1764568041,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 130511,
+      "num": 130511,
+      "word": "网传iG新阵容",
+      "onboard_time": 1764688283,
+      "rank": 30,
+      "category": "电竞"
     },
     {
       "raw_hot": 130398,
@@ -5651,6 +5699,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 123497,
+      "num": 123497,
+      "word": "梁洁你的高跟鞋去哪了",
+      "onboard_time": 1764688165,
+      "rank": 31,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 123324,
       "num": 759151,
       "word": "电影得闲谨制",
@@ -5809,14 +5865,6 @@
       "onboard_time": 1764474921,
       "rank": 37,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 121449,
-      "num": 121449,
-      "word": "蜜雪冰城 留守儿童",
-      "onboard_time": 1764686784,
-      "rank": 43,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 121434,
@@ -7739,6 +7787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 88562,
+      "num": 88562,
+      "word": "索尼A7M5",
+      "onboard_time": 1764687564,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 88346,
       "num": 88346,
       "word": "考公一定要有强大的信念感",
@@ -7785,6 +7841,14 @@
       "onboard_time": 1764502461,
       "rank": 48,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 87408,
+      "num": 87408,
+      "word": "王曼昱穿错队友裤子",
+      "onboard_time": 1764687804,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 86912,
@@ -8099,6 +8163,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 82201,
+      "num": 86827,
+      "word": "网传徐某某遭打击报复被精神病不实",
+      "onboard_time": 1764684263,
+      "rank": 48,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 81939,
       "num": 81939,
       "word": "声鸣远扬选手回应撞脸朱一龙",
@@ -8217,6 +8289,14 @@
       "onboard_time": 1764637281,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 79424,
+      "num": 86822,
+      "word": "陈昊森晒与沈月合照",
+      "onboard_time": 1764689481,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 79416,
@@ -8715,6 +8795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 66279,
+      "num": 97836,
+      "word": "23岁女孩每天两杯果茶确诊糖尿病",
+      "onboard_time": 1764689122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66009,
       "num": 124881,
       "word": "刘耀文内娱唯一寿司塑",
@@ -8881,14 +8969,6 @@
       "onboard_time": 1764483201,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 58528,
-      "num": 211569,
-      "word": "湖南一烧烤店被指直播煮猫爪",
-      "onboard_time": 1764686604,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58342,

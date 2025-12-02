@@ -1,0 +1,410 @@
+{
+  "runTime": 1764689542458,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1479373,
+        "num": 1479373,
+        "word": "12306回应取消靠窗选座",
+        "onboard_time": 1764680483,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173443,
+        "num": 1475046,
+        "word": "iPad中国市场份额大跌",
+        "onboard_time": 1764683724,
+        "rank": 1,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 97449,
+        "num": 1464136,
+        "word": "今年甲流常见问题看这里",
+        "onboard_time": 1764683124,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204347,
+        "num": 1460152,
+        "word": "Uzi邀请Wayward试训",
+        "onboard_time": 1764685285,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150520,
+        "num": 1450184,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 449285,
+        "num": 1435120,
+        "word": "双高胎否认哥的全宇宙抄袭",
+        "onboard_time": 1764685764,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390630,
+        "num": 1425687,
+        "word": "日本自卫队被曝正在向西南转移",
+        "onboard_time": 1764687623,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277277,
+        "num": 1417357,
+        "word": "台湾一旦沦为战场什么都是空谈",
+        "onboard_time": 1764671661,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 227579,
+        "num": 1414565,
+        "word": "国家发社保补贴了",
+        "onboard_time": 1764679462,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 219467,
+        "num": 1403154,
+        "word": "小米高管疑似集体遭遇短信轰炸",
+        "onboard_time": 1764678562,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 1398324,
+        "num": 1398324,
+        "word": "日本战争准备曝光",
+        "onboard_time": 1764686424,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 783164,
+        "num": 783164,
+        "word": "华裔女子痔疮手术后不堪剧痛自杀",
+        "onboard_time": 1764686424,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 554571,
+        "num": 554571,
+        "word": "刘宇宁说想回去演戏",
+        "onboard_time": 1764685584,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 542223,
+        "num": 542223,
+        "word": "妻子曝光丈夫生前出轨捉奸视频",
+        "onboard_time": 1764679462,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 363405,
+        "num": 363405,
+        "word": "蜜雪冰城 留守儿童",
+        "onboard_time": 1764686784,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 348534,
+        "num": 348534,
+        "word": "朱亚文 配角",
+        "onboard_time": 1764687503,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 299264,
+        "num": 299264,
+        "word": "王梓莼正片镜头疑似被删光",
+        "onboard_time": 1764682404,
+        "rank": 16,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 208215,
+        "num": 208215,
+        "word": "94岁老人被发现在楼道打地铺生活",
+        "onboard_time": 1764681263,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 201805,
+        "num": 201805,
+        "word": "外媒称中国买大豆毁掉巴西雨林真相",
+        "onboard_time": 1764682883,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 191434,
+        "num": 191434,
+        "word": "再熬八周",
+        "onboard_time": 1764684024,
+        "rank": 19,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 380778,
+        "num": 190612,
+        "word": "杨旭文 陈若琳",
+        "onboard_time": 1764673342,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 377502,
+        "num": 188696,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 272262,
+        "num": 179896,
+        "word": "老人腹泻离世儿子睡其床后确诊同症",
+        "onboard_time": 1764683124,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165167,
+        "num": 165167,
+        "word": "郑天浩 王梓莼",
+        "onboard_time": 1764669082,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152543,
+        "num": 152543,
+        "word": "建议不要把肉汤倒进下水道",
+        "onboard_time": 1764674182,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 172993,
+        "num": 152084,
+        "word": "杨旭文辟谣的是恋情还是订婚",
+        "onboard_time": 1764682041,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150978,
+        "num": 150978,
+        "word": "湖南一烧烤店被指直播煮猫爪",
+        "onboard_time": 1764686604,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142919,
+        "num": 142919,
+        "word": "疯狂动物城2中国票房惊呆外媒",
+        "onboard_time": 1764682404,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138626,
+        "num": 138626,
+        "word": "汶川地震女孩17年后和施救军人结婚",
+        "onboard_time": 1764677543,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131825,
+        "num": 131825,
+        "word": "李煜东 希望十二月对我们都好一点",
+        "onboard_time": 1764689182,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130511,
+        "num": 130511,
+        "word": "网传iG新阵容",
+        "onboard_time": 1764688283,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 123497,
+        "num": 123497,
+        "word": "梁洁你的高跟鞋去哪了",
+        "onboard_time": 1764688165,
+        "rank": 31,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 123160,
+        "num": 123160,
+        "word": "凤凰台上be",
+        "onboard_time": 1764684324,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110903,
+        "num": 110903,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 33,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 108113,
+        "num": 108113,
+        "word": "陈哲远马来西亚公主合照",
+        "onboard_time": 1764685163,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107750,
+        "num": 107750,
+        "word": "张桂源 穿错鞋一点都不好笑",
+        "onboard_time": 1764683483,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107462,
+        "num": 107462,
+        "word": "阿凡达3首映",
+        "onboard_time": 1764678622,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 105427,
+        "num": 105427,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 102456,
+        "num": 102456,
+        "word": "卢昱晓打游戏就喜欢碰到小学生",
+        "onboard_time": 1764685403,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66279,
+        "num": 97836,
+        "word": "23岁女孩每天两杯果茶确诊糖尿病",
+        "onboard_time": 1764689122,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96217,
+        "num": 96217,
+        "word": "杨幂 帅是一种感觉",
+        "onboard_time": 1764686183,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 92212,
+        "num": 92212,
+        "word": "大学生的苦难被过度娱乐化了",
+        "onboard_time": 1764686724,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92124,
+        "num": 92124,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 42,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 91855,
+        "num": 91855,
+        "word": "陈少熙直播",
+        "onboard_time": 1764686904,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88562,
+        "num": 88562,
+        "word": "索尼A7M5",
+        "onboard_time": 1764687564,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 87408,
+        "num": 87408,
+        "word": "王曼昱穿错队友裤子",
+        "onboard_time": 1764687804,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86836,
+        "num": 86836,
+        "word": "霸王茶姬出咖啡了",
+        "onboard_time": 1764672623,
+        "rank": 46,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 84237,
+        "num": 86836,
+        "word": "枭起青壤 删减",
+        "onboard_time": 1764675682,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 82201,
+        "num": 86827,
+        "word": "网传徐某某遭打击报复被精神病不实",
+        "onboard_time": 1764684263,
+        "rank": 48,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 79424,
+        "num": 86822,
+        "word": "陈昊森晒与沈月合照",
+        "onboard_time": 1764689481,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
