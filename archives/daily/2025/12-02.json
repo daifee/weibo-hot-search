@@ -1,10 +1,18 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764660583181,
+  "endTime": 1764661399941,
   "band_list": [
     {
+      "raw_hot": 1381753,
+      "num": 965711,
+      "word": "高市早苗再出狂言",
+      "onboard_time": 1764657560,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 1338523,
-      "num": 701656,
+      "num": 958529,
       "word": "举报公职人员后喝农药店主已去世",
       "onboard_time": 1764656841,
       "rank": 14,
@@ -20,19 +28,11 @@
     },
     {
       "raw_hot": 1249933,
-      "num": 700638,
+      "num": 864344,
       "word": "王梓莼 00花",
       "onboard_time": 1764654082,
       "rank": 33,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1194788,
-      "num": 702064,
-      "word": "高市早苗再出狂言",
-      "onboard_time": 1764657560,
-      "rank": 44,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1190318,
@@ -75,8 +75,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 707111,
-      "num": 707111,
+      "raw_hot": 721451,
+      "num": 1034011,
       "word": "北海道熊尸体多到装不下了",
       "onboard_time": 1764658461,
       "rank": 32,
@@ -91,8 +91,16 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 661744,
+      "num": 1105879,
+      "word": "2025十大流行语",
+      "onboard_time": 1764657440,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 658503,
-      "num": 330050,
+      "num": 333248,
       "word": "桃黑黑14件事的澄清与回应",
       "onboard_time": 1764640100,
       "rank": 33,
@@ -115,20 +123,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 649227,
-      "num": 1103876,
-      "word": "2025十大流行语",
-      "onboard_time": 1764657440,
-      "rank": 25,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 622235,
       "num": 330184,
       "word": "男子取170万遭抢劫指责银行未施救",
       "onboard_time": 1764638960,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 604749,
+      "num": 333328,
+      "word": "桃黑黑 别让事情变味",
+      "onboard_time": 1764659962,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 556640,
@@ -211,8 +219,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 429198,
-      "num": 706438,
+      "raw_hot": 430367,
+      "num": 1021637,
       "word": "庾澄庆看何炅的表情让我一品再品",
       "onboard_time": 1764657679,
       "rank": 30,
@@ -267,20 +275,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 392067,
+      "num": 1011657,
+      "word": "中方坚决反对英首相散布中国威胁",
+      "onboard_time": 1764658820,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 380288,
       "num": 298255,
       "word": "胡先煦加奈那让我恋爱脑发作了",
       "onboard_time": 1764645079,
       "rank": 8,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 379109,
-      "num": 329785,
-      "word": "桃黑黑 别让事情变味",
-      "onboard_time": 1764659962,
-      "rank": 21,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 366906,
@@ -337,6 +345,14 @@
       "onboard_time": 1764591082,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 330608,
+      "num": 330608,
+      "word": "护士疑扎针失误后被患者家属打伤",
+      "onboard_time": 1764655642,
+      "rank": 23,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 324532,
@@ -403,14 +419,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 298425,
-      "num": 298425,
-      "word": "护士疑扎针失误后被患者家属打伤",
-      "onboard_time": 1764655642,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 297157,
       "num": 297157,
       "word": "邓佳鑫卧室里摆了易烊千玺照片",
@@ -452,7 +460,7 @@
     },
     {
       "raw_hot": 264383,
-      "num": 727875,
+      "num": 980507,
       "word": "恋与深空登顶",
       "onboard_time": 1764653241,
       "rank": 45,
@@ -464,6 +472,14 @@
       "word": "家长吐槽一上小学就要买打印机",
       "onboard_time": 1764651802,
       "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 258776,
+      "num": 258776,
+      "word": "17岁男生高考后45天确诊HIV阳性",
+      "onboard_time": 1764660802,
+      "rank": 24,
       "category": "民生新闻"
     },
     {
@@ -507,14 +523,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 235642,
-      "num": 704886,
-      "word": "中方坚决反对英首相散布中国威胁",
-      "onboard_time": 1764658820,
-      "rank": 8,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 232853,
       "num": 228746,
       "word": "马市长 邓超",
@@ -548,7 +556,7 @@
     },
     {
       "raw_hot": 228608,
-      "num": 1080225,
+      "num": 1093312,
       "word": "罗永浩谈三星三折叠",
       "onboard_time": 1764650062,
       "rank": 8,
@@ -577,6 +585,14 @@
       "onboard_time": 1764651621,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 208851,
+      "num": 160239,
+      "word": "香港13平3个卧室住宅",
+      "onboard_time": 1764660802,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 206285,
@@ -667,6 +683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 184629,
+      "num": 184629,
+      "word": "李诞 所有女生尽早完成社会化",
+      "onboard_time": 1764661041,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183678,
       "num": 183678,
       "word": "长佩崩了",
@@ -723,6 +747,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 175754,
+      "num": 868776,
+      "word": "女儿偷偷回国打车发现老爸是司机",
+      "onboard_time": 1764654621,
+      "rank": 43,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 174053,
       "num": 174053,
       "word": "许玮甯婚礼后发文",
@@ -777,14 +809,6 @@
       "onboard_time": 1764599124,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 164489,
-      "num": 868776,
-      "word": "女儿偷偷回国打车发现老爸是司机",
-      "onboard_time": 1764654621,
-      "rank": 43,
-      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 161238,
@@ -905,6 +929,14 @@
       "onboard_time": 1764651263,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 138101,
+      "num": 138101,
+      "word": "向佐风格大变",
+      "onboard_time": 1764660862,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 137670,
@@ -1083,6 +1115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121566,
+      "num": 121566,
+      "word": "赵雅芝全家福",
+      "onboard_time": 1764660081,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 120851,
       "num": 866094,
       "word": "王励勤乒羽运动管理中心副主任",
@@ -1092,7 +1132,7 @@
     },
     {
       "raw_hot": 119273,
-      "num": 142725,
+      "num": 160531,
       "word": "工作人员回应采购5台电脑预算2.95亿",
       "onboard_time": 1764656241,
       "rank": 29,
@@ -1105,6 +1145,14 @@
       "onboard_time": 1764656421,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118663,
+      "num": 118663,
+      "word": "假性恋爱",
+      "onboard_time": 1764659659,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 117368,
@@ -1124,7 +1172,7 @@
     },
     {
       "raw_hot": 116591,
-      "num": 158818,
+      "num": 164666,
       "word": "詹姆斯延续得分上双纪录",
       "onboard_time": 1764659301,
       "rank": 29,
@@ -1139,20 +1187,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 113994,
+      "num": 113994,
+      "word": "Light回应离开WBG",
+      "onboard_time": 1764660502,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 113540,
+      "num": 113540,
+      "word": "原来有个独立空间这么关键",
+      "onboard_time": 1764661282,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 113008,
       "num": 228533,
       "word": "女子烫发4小时称出去透气后疑跑路",
       "onboard_time": 1764599124,
       "rank": 20,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112201,
-      "num": 112201,
-      "word": "赵雅芝全家福",
-      "onboard_time": 1764660081,
-      "rank": 34,
-      "category": "艺人"
     },
     {
       "raw_hot": 111003,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1764637461,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 107673,
-      "num": 107673,
-      "word": "假性恋爱",
-      "onboard_time": 1764659659,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 106452,
@@ -1241,6 +1289,14 @@
       "onboard_time": 1764657020,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102226,
+      "num": 102226,
+      "word": "橘朵26元眉笔一半是空的",
+      "onboard_time": 1764660502,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 101866,
@@ -1347,14 +1403,6 @@
       "category": "突发/灾害"
     },
     {
-      "raw_hot": 92981,
-      "num": 92981,
-      "word": "橘朵26元眉笔一半是空的",
-      "onboard_time": 1764660502,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 92559,
       "num": 228382,
       "word": "环卫工被故意文粗眉被迫花2万",
@@ -1401,14 +1449,6 @@
       "onboard_time": 1764658041,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 88551,
-      "num": 88551,
-      "word": "Light回应离开WBG",
-      "onboard_time": 1764660502,
-      "rank": 49,
-      "category": "电竞"
     },
     {
       "raw_hot": 85849,
@@ -1505,6 +1545,14 @@
       "onboard_time": 1764595943,
       "rank": 9,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 77037,
+      "num": 121748,
+      "word": "陈小春看到又要感慨祖坟冒青烟了",
+      "onboard_time": 1764661221,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 76747,
@@ -1700,7 +1748,7 @@
     },
     {
       "raw_hot": 58342,
-      "num": 507804,
+      "num": 707448,
       "word": "眼里有光满眼就都是光",
       "onboard_time": 1764657679,
       "rank": 37,
@@ -1713,6 +1761,14 @@
       "onboard_time": 1764590423,
       "rank": 35,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 57062,
+      "num": 1050842,
+      "word": "再见爱人",
+      "onboard_time": 1764661161,
+      "rank": 4,
+      "category": "综艺"
     },
     {
       "raw_hot": 55902,
@@ -1924,7 +1980,7 @@
     },
     {
       "raw_hot": 40139,
-      "num": 1077456,
+      "num": 1087704,
       "word": "刷1条视频上百个集装箱出海了",
       "onboard_time": 1764649522,
       "rank": 2,
@@ -2003,6 +2059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29359,
+      "num": 115232,
+      "word": "王励勤曾申请注册个人商标",
+      "onboard_time": 1764660020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 28506,
       "num": 79888,
       "word": "陈赫回母校参加校庆",
@@ -2059,14 +2123,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 21823,
-      "num": 99385,
-      "word": "王励勤曾申请注册个人商标",
-      "onboard_time": 1764660020,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 20903,
       "num": 79881,
       "word": "您有一笔退款12月1日开始确认",
@@ -2076,7 +2132,7 @@
     },
     {
       "raw_hot": 20846,
-      "num": 99592,
+      "num": 121568,
       "word": "申裕斌采访禁止卖萌",
       "onboard_time": 1764660562,
       "rank": 38,
@@ -2161,6 +2217,14 @@
       "onboard_time": 1764659361,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 11743,
+      "num": 122358,
+      "word": "日本猛涨军费是想抓住特朗普的心",
+      "onboard_time": 1764660862,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 11194,
