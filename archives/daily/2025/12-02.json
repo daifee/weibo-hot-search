@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764672488746,
+  "endTime": 1764674827379,
   "band_list": [
     {
       "raw_hot": 1925223,
@@ -17,6 +17,14 @@
       "onboard_time": 1764661041,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1553169,
+      "num": 264461,
+      "word": "杨旭文 陈若琳",
+      "onboard_time": 1764673342,
+      "rank": 10,
+      "category": "艺人,体育"
     },
     {
       "raw_hot": 1381753,
@@ -83,7 +91,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 1027978,
+      "raw_hot": 1029941,
       "num": 282031,
       "word": "洽洽瓜子 洽洽瓜紫",
       "onboard_time": 1764667762,
@@ -105,6 +113,14 @@
       "onboard_time": 1764658461,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 852733,
+      "num": 1136437,
+      "word": "台湾一旦沦为战场什么都是空谈",
+      "onboard_time": 1764671661,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 835947,
@@ -451,6 +467,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 360776,
+      "num": 256127,
+      "word": "霸王茶姬出咖啡了",
+      "onboard_time": 1764672623,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 360185,
       "num": 318254,
       "word": "重度恐猫症",
@@ -739,6 +763,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 223585,
+      "num": 124121,
+      "word": "美总统凌晨3点或发表重大声明",
+      "onboard_time": 1764674002,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 219050,
       "num": 219050,
       "word": "陈晓治好了我倍速看剧的毛病",
@@ -753,6 +785,14 @@
       "onboard_time": 1764651621,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213141,
+      "num": 231757,
+      "word": "85花大花都没来",
+      "onboard_time": 1764671722,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 208851,
@@ -875,6 +915,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186758,
+      "num": 123937,
+      "word": "南方人不许写sci的拼音",
+      "onboard_time": 1764673042,
+      "rank": 31,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186493,
       "num": 289506,
       "word": "地枭多疑但实在好骗",
@@ -979,6 +1027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173253,
+      "num": 173253,
+      "word": "小猫确认了好几遍是不是妈妈",
+      "onboard_time": 1764671961,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 172829,
       "num": 172828,
       "word": "殷世航自曝65万营业额到手2万",
@@ -1033,6 +1089,14 @@
       "onboard_time": 1764649582,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 165496,
+      "num": 123320,
+      "word": "建议不要把肉汤倒进下水道",
+      "onboard_time": 1764674182,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 165481,
@@ -1267,6 +1331,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136605,
+      "num": 287654,
+      "word": "韩国8比0美国",
+      "onboard_time": 1764672562,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136524,
       "num": 136524,
       "word": "刘耀文高会更新",
@@ -1313,14 +1385,6 @@
       "onboard_time": 1764649907,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 133937,
-      "num": 231757,
-      "word": "85花大花都没来",
-      "onboard_time": 1764671722,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 133534,
@@ -1451,12 +1515,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 124256,
+      "num": 124256,
+      "word": "30秒解决吃什么世纪难题",
+      "onboard_time": 1764673761,
+      "rank": 29,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 123930,
       "num": 176424,
       "word": "恋与深空",
       "onboard_time": 1764635301,
       "rank": 36,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 123774,
+      "num": 228045,
+      "word": "枭起青壤",
+      "onboard_time": 1764605659,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 123769,
@@ -1531,6 +1611,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121372,
+      "num": 121372,
+      "word": "莫拉娱乐",
+      "onboard_time": 1764673161,
+      "rank": 36,
+      "category": "演出"
+    },
+    {
       "raw_hot": 120851,
       "num": 866094,
       "word": "王励勤乒羽运动管理中心副主任",
@@ -1545,6 +1633,14 @@
       "onboard_time": 1764664462,
       "rank": 46,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 120341,
+      "num": 120341,
+      "word": "孙颖莎王楚钦今日轮休",
+      "onboard_time": 1764674482,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 120013,
@@ -1569,6 +1665,14 @@
       "onboard_time": 1764656421,
       "rank": 42,
       "category": "电影"
+    },
+    {
+      "raw_hot": 118684,
+      "num": 118684,
+      "word": "女儿袋中虾漏剩2只父母幽默安慰",
+      "onboard_time": 1764672623,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 118234,
@@ -1691,6 +1795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105338,
+      "num": 105338,
+      "word": "Uzi排位",
+      "onboard_time": 1764674122,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 105105,
       "num": 166455,
       "word": "官方回应女婴手术离世家属质疑",
@@ -1705,6 +1817,14 @@
       "onboard_time": 1764632539,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 103942,
+      "num": 103942,
+      "word": "2025最具票房号召力男演员",
+      "onboard_time": 1764672802,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 103431,
@@ -1811,14 +1931,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 96122,
-      "num": 99773,
-      "word": "小猫确认了好几遍是不是妈妈",
-      "onboard_time": 1764671961,
-      "rank": 42,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 95580,
       "num": 95580,
       "word": "冬天唯一能坚持的运动",
@@ -1873,6 +1985,14 @@
       "onboard_time": 1764658520,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 92289,
+      "num": 250641,
+      "word": "张本智和向对手解释比心手势",
+      "onboard_time": 1764673222,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 92269,
@@ -2107,14 +2227,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 76052,
-      "num": 231993,
-      "word": "台湾一旦沦为战场什么都是空谈",
-      "onboard_time": 1764671661,
-      "rank": 18,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 76043,
       "num": 76043,
       "word": "向涵之的演技",
@@ -2187,14 +2299,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 70664,
-      "num": 228045,
-      "word": "枭起青壤",
-      "onboard_time": 1764605659,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 69853,
       "num": 125939,
       "word": "A股缩量2805亿",
@@ -2217,6 +2321,14 @@
       "onboard_time": 1764652402,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 69328,
+      "num": 112299,
+      "word": "云南一地群内统计儿童母亲月经时间",
+      "onboard_time": 1764673403,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69145,
@@ -2409,6 +2521,14 @@
       "onboard_time": 1764579262,
       "rank": 38,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 55118,
+      "num": 182250,
+      "word": "农行保安因视线遮挡未发现男子遭抢",
+      "onboard_time": 1764673462,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 55083,
@@ -2619,6 +2739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41128,
+      "num": 269869,
+      "word": "林诗栋蒯曼vs博格斯维加",
+      "onboard_time": 1764672502,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 40731,
       "num": 226908,
       "word": "中国男篮晋级形势",
@@ -2715,6 +2843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33470,
+      "num": 120810,
+      "word": "冲绳向高市政府提交请愿书",
+      "onboard_time": 1764674601,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 29359,
       "num": 115232,
       "word": "王励勤曾申请注册个人商标",
@@ -2761,6 +2897,22 @@
       "onboard_time": 1764611115,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25833,
+      "num": 123649,
+      "word": "作者称作品遭大学生抄袭获一等奖",
+      "onboard_time": 1764674722,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 24928,
+      "num": 110401,
+      "word": "包洁仪向郑天浩道歉",
+      "onboard_time": 1764673462,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 24609,
@@ -2835,6 +2987,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 20224,
+      "num": 468013,
+      "word": "高质量发展故事汇",
+      "onboard_time": 1764671062,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 19078,
       "num": 127785,
       "word": "以色列民众在总统官邸外集会抗议",
@@ -2864,6 +3024,14 @@
       "word": "广告小字陷阱涉嫌违反多项法律",
       "onboard_time": 1764650601,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16544,
+      "num": 120343,
+      "word": "入室抢婴案被害人母亲担心凶手报复",
+      "onboard_time": 1764674301,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -2899,14 +3067,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 14656,
-      "num": 468013,
-      "word": "高质量发展故事汇",
-      "onboard_time": 1764671062,
-      "rank": 30,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 13387,
       "num": 41436,
       "word": "葛夕回应上恋综",
@@ -2937,6 +3097,14 @@
       "onboard_time": 1764660862,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11248,
+      "num": 120363,
+      "word": "男子通过外卖找到妻子打赏的男主播",
+      "onboard_time": 1764674541,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11194,

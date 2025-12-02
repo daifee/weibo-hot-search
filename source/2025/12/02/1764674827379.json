@@ -1,0 +1,410 @@
+{
+  "runTime": 1764674827379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 852733,
+        "num": 1136437,
+        "word": "台湾一旦沦为战场什么都是空谈",
+        "onboard_time": 1764671661,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133885,
+        "num": 702831,
+        "word": "华为鸿蒙",
+        "onboard_time": 1764661460,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20224,
+        "num": 440724,
+        "word": "高质量发展故事汇",
+        "onboard_time": 1764671062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 326098,
+        "num": 326098,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136605,
+        "num": 287654,
+        "word": "韩国8比0美国",
+        "onboard_time": 1764672562,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 427248,
+        "num": 284957,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 277598,
+        "num": 277598,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 883576,
+        "num": 275245,
+        "word": "疯狂动物城 媚中",
+        "onboard_time": 1764665421,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 226042,
+        "num": 272063,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41128,
+        "num": 269869,
+        "word": "林诗栋蒯曼vs博格斯维加",
+        "onboard_time": 1764672502,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1553169,
+        "num": 264461,
+        "word": "杨旭文 陈若琳",
+        "onboard_time": 1764673342,
+        "rank": 10,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 577082,
+        "num": 260072,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 395804,
+        "num": 257832,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 360776,
+        "num": 256127,
+        "word": "霸王茶姬出咖啡了",
+        "onboard_time": 1764672623,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 252855,
+        "num": 252855,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 92289,
+        "num": 250641,
+        "word": "张本智和向对手解释比心手势",
+        "onboard_time": 1764673222,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 250481,
+        "num": 250481,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 213141,
+        "num": 213141,
+        "word": "85花大花都没来",
+        "onboard_time": 1764671722,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40916,
+        "num": 199385,
+        "word": "恋与深空登顶福利",
+        "onboard_time": 1764665301,
+        "rank": 18,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188726,
+        "num": 188726,
+        "word": "全球目前有7例艾滋病治愈者",
+        "onboard_time": 1764664402,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1029941,
+        "num": 188071,
+        "word": "洽洽瓜子 洽洽瓜紫",
+        "onboard_time": 1764667762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 392193,
+        "num": 184806,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55118,
+        "num": 182250,
+        "word": "农行保安因视线遮挡未发现男子遭抢",
+        "onboard_time": 1764673462,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 307998,
+        "num": 177637,
+        "word": "马斯克官宣高管女友",
+        "onboard_time": 1764666502,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 242012,
+        "num": 175315,
+        "word": "郑天浩 王梓莼",
+        "onboard_time": 1764669082,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 173253,
+        "num": 173253,
+        "word": "小猫确认了好几遍是不是妈妈",
+        "onboard_time": 1764671961,
+        "rank": 25,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 162842,
+        "num": 162842,
+        "word": "温峥嵘删除声明",
+        "onboard_time": 1764668241,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157007,
+        "num": 157007,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 27,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 135061,
+        "num": 135061,
+        "word": "超绝羊副市长",
+        "onboard_time": 1764666262,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 124256,
+        "num": 124256,
+        "word": "30秒解决吃什么世纪难题",
+        "onboard_time": 1764673761,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 223585,
+        "num": 124121,
+        "word": "美总统凌晨3点或发表重大声明",
+        "onboard_time": 1764674002,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 186758,
+        "num": 123937,
+        "word": "南方人不许写sci的拼音",
+        "onboard_time": 1764673042,
+        "rank": 31,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 25833,
+        "num": 123649,
+        "word": "作者称作品遭大学生抄袭获一等奖",
+        "onboard_time": 1764674722,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 123640,
+        "num": 123640,
+        "word": "老爹站",
+        "onboard_time": 1764667881,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 165496,
+        "num": 123320,
+        "word": "建议不要把肉汤倒进下水道",
+        "onboard_time": 1764674182,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 123774,
+        "num": 123193,
+        "word": "枭起青壤",
+        "onboard_time": 1764673283,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121372,
+        "num": 121372,
+        "word": "莫拉娱乐",
+        "onboard_time": 1764673161,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 33470,
+        "num": 120810,
+        "word": "冲绳向高市政府提交请愿书",
+        "onboard_time": 1764674601,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 11248,
+        "num": 120363,
+        "word": "男子通过外卖找到妻子打赏的男主播",
+        "onboard_time": 1764674541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16544,
+        "num": 120343,
+        "word": "入室抢婴案被害人母亲担心凶手报复",
+        "onboard_time": 1764674301,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 120341,
+        "num": 120341,
+        "word": "孙颖莎王楚钦今日轮休",
+        "onboard_time": 1764674482,
+        "rank": 40,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 118824,
+        "num": 118824,
+        "word": "Duro被大学退学",
+        "onboard_time": 1764667342,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 118684,
+        "num": 118684,
+        "word": "女儿袋中虾漏剩2只父母幽默安慰",
+        "onboard_time": 1764672623,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 69328,
+        "num": 112299,
+        "word": "云南一地群内统计儿童母亲月经时间",
+        "onboard_time": 1764673403,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30957,
+        "num": 111040,
+        "word": "AI什么邪门CP都嗑得下",
+        "onboard_time": 1764670282,
+        "rank": 44,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 24928,
+        "num": 110401,
+        "word": "包洁仪向郑天浩道歉",
+        "onboard_time": 1764673462,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110175,
+        "num": 110175,
+        "word": "宁波手术离世女婴家属再发声",
+        "onboard_time": 1764661523,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109749,
+        "num": 109749,
+        "word": "疑似李飞早就深入一代粉圈",
+        "onboard_time": 1764671783,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105338,
+        "num": 105338,
+        "word": "Uzi排位",
+        "onboard_time": 1764674122,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103942,
+        "num": 103942,
+        "word": "2025最具票房号召力男演员",
+        "onboard_time": 1764672802,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#接续推进中国式现代化#"
+    }
+  }
+}
