@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764665625185,
+  "endTime": 1764668092168,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -17,6 +17,14 @@
       "onboard_time": 1764519141,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1925223,
+      "num": 1043104,
+      "word": "疯狂动物城 媚中",
+      "onboard_time": 1764665421,
+      "rank": 16,
+      "category": "电影"
     },
     {
       "raw_hot": 1799138,
@@ -193,6 +201,14 @@
       "onboard_time": 1764576322,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1014203,
+      "num": 1014203,
+      "word": "星光大赏名单",
+      "onboard_time": 1764666622,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 979695,
@@ -380,7 +396,7 @@
     },
     {
       "raw_hot": 580620,
-      "num": 245416,
+      "num": 346665,
       "word": "向佐风格大变",
       "onboard_time": 1764660862,
       "rank": 35,
@@ -427,6 +443,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 559382,
+      "num": 559382,
+      "word": "全球目前有7例艾滋病治愈者",
+      "onboard_time": 1764664402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 556640,
       "num": 260639,
       "word": "杨幂就吃了一个寿司一口面",
@@ -468,7 +492,7 @@
     },
     {
       "raw_hot": 541522,
-      "num": 248964,
+      "num": 497490,
       "word": "中方回应日本团体请求访华",
       "onboard_time": 1764664042,
       "rank": 9,
@@ -484,7 +508,7 @@
     },
     {
       "raw_hot": 533245,
-      "num": 256601,
+      "num": 279017,
       "word": "不二之臣双人海报",
       "onboard_time": 1764663562,
       "rank": 3,
@@ -563,6 +587,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 480183,
+      "num": 480183,
+      "word": "超绝羊副市长",
+      "onboard_time": 1764666262,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 473327,
       "num": 473327,
       "word": "小胖回应改ID",
@@ -604,7 +636,7 @@
     },
     {
       "raw_hot": 457098,
-      "num": 252458,
+      "num": 309281,
       "word": "宁波手术离世女婴家属再发声",
       "onboard_time": 1764661523,
       "rank": 5,
@@ -737,6 +769,14 @@
       "onboard_time": 1764638060,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 416190,
+      "num": 197751,
+      "word": "马斯克官宣高管女友",
+      "onboard_time": 1764666502,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 415125,
@@ -939,14 +979,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 349446,
-      "num": 251907,
-      "word": "全球目前有7例艾滋病治愈者",
-      "onboard_time": 1764664402,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 349201,
       "num": 235035,
       "word": "疯狂动物城2排片量",
@@ -1041,6 +1073,14 @@
       "onboard_time": 1764563543,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 329301,
+      "num": 493951,
+      "word": "香港火灾已造成156人遇难",
+      "onboard_time": 1764667221,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 327715,
@@ -1436,7 +1476,7 @@
     },
     {
       "raw_hot": 258722,
-      "num": 258722,
+      "num": 1111361,
       "word": "华为鸿蒙",
       "onboard_time": 1764661460,
       "rank": 1,
@@ -1513,14 +1553,6 @@
       "onboard_time": 1764646161,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 240850,
-      "num": 240850,
-      "word": "疯狂动物城 媚中",
-      "onboard_time": 1764665421,
-      "rank": 16,
-      "category": "电影"
     },
     {
       "raw_hot": 238078,
@@ -1689,6 +1721,14 @@
       "onboard_time": 1764585862,
       "rank": 27,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215232,
+      "num": 150376,
+      "word": "Duro被大学退学",
+      "onboard_time": 1764667342,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 214197,
@@ -1971,6 +2011,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 190292,
+      "num": 190292,
+      "word": "新音 三亚",
+      "onboard_time": 1764665001,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 189956,
       "num": 135625,
       "word": "国乒相互击掌下班",
@@ -2004,7 +2052,7 @@
     },
     {
       "raw_hot": 188570,
-      "num": 188570,
+      "num": 490579,
       "word": "恋与深空登顶福利",
       "onboard_time": 1764665301,
       "rank": 25,
@@ -2017,14 +2065,6 @@
       "onboard_time": 1764645259,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 186991,
-      "num": 186991,
-      "word": "新音 三亚",
-      "onboard_time": 1764665001,
-      "rank": 26,
-      "category": "演出"
     },
     {
       "raw_hot": 186823,
@@ -2097,6 +2137,14 @@
       "onboard_time": 1764561263,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182000,
+      "num": 182000,
+      "word": "王梓莼 你一定是会被骂",
+      "onboard_time": 1764662842,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 181820,
@@ -2403,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161410,
+      "num": 150186,
+      "word": "小米回应男子买小米YU7收到运损车",
+      "onboard_time": 1764665542,
+      "rank": 44,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 161238,
       "num": 161238,
       "word": "流感病毒有效药物",
@@ -2571,14 +2627,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 153806,
-      "num": 153806,
-      "word": "王梓莼 你一定是会被骂",
-      "onboard_time": 1764662842,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 153245,
       "num": 228332,
       "word": "女儿回应老人花10元剃头满头血痂",
@@ -2635,6 +2683,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 152301,
+      "num": 152301,
+      "word": "何炅知道自己在说什么吗",
+      "onboard_time": 1764666021,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "成毅执子策九谋",
@@ -2649,6 +2705,14 @@
       "onboard_time": 1764564625,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 151763,
+      "num": 151763,
+      "word": "老爹站",
+      "onboard_time": 1764667881,
+      "rank": 28,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 151502,
@@ -2689,6 +2753,14 @@
       "onboard_time": 1764598643,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149878,
+      "num": 149878,
+      "word": "洽洽瓜子 洽洽瓜紫",
+      "onboard_time": 1764667762,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 149328,
@@ -2931,6 +3003,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 137979,
+      "num": 137979,
+      "word": "杨旭文领奖台下都在喊唐犟宗",
+      "onboard_time": 1764666740,
+      "rank": 36,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 137670,
       "num": 137670,
       "word": "这居然是陈晓黑图",
@@ -2939,12 +3019,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136969,
+      "num": 136969,
+      "word": "曾经很火但逐渐消失的APP",
+      "onboard_time": 1764667161,
+      "rank": 40,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 136752,
       "num": 155423,
       "word": "控制狂的爸被逼疯的她",
       "onboard_time": 1764651200,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136465,
+      "num": 136465,
+      "word": "恋与深空新日卡再度双榜登顶",
+      "onboard_time": 1764666561,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 136138,
@@ -3147,14 +3243,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 130150,
-      "num": 130150,
-      "word": "小米回应男子买小米YU7收到运损车",
-      "onboard_time": 1764665542,
-      "rank": 44,
-      "category": "民生新闻,汽车"
-    },
-    {
       "raw_hot": 130096,
       "num": 130096,
       "word": "疯狂动物城2三角恋剧情被删减",
@@ -3233,6 +3321,14 @@
       "onboard_time": 1764496220,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 126210,
+      "num": 126210,
+      "word": "减肥的逻辑 欲望转移",
+      "onboard_time": 1764668062,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 125540,
@@ -3321,6 +3417,14 @@
       "onboard_time": 1764598643,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122776,
+      "num": 195141,
+      "word": "杨幂尖叫之夜行程通知",
+      "onboard_time": 1764666740,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 122712,
@@ -3529,6 +3633,14 @@
       "onboard_time": 1764575603,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115275,
+      "num": 115275,
+      "word": "小米YU7运损车拒退定金",
+      "onboard_time": 1764667521,
+      "rank": 48,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 115145,
@@ -4443,6 +4555,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 78483,
+      "num": 151145,
+      "word": "打印机不该成为家长新的枷锁",
+      "onboard_time": 1764666380,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78200,
       "num": 91713,
       "word": "肖战超长款羽绒服",
@@ -4505,6 +4625,14 @@
       "onboard_time": 1764593482,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76693,
+      "num": 114494,
+      "word": "官方回应女婴手术离世家属质疑",
+      "onboard_time": 1764667881,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76461,
@@ -4779,6 +4907,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 62040,
+      "num": 136970,
+      "word": "李沁包场得闲谨制",
+      "onboard_time": 1764667943,
+      "rank": 39,
+      "category": "电影"
+    },
+    {
       "raw_hot": 61882,
       "num": 611323,
       "word": "40年前她发现中国首例艾滋病",
@@ -5043,6 +5179,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 49340,
+      "num": 239212,
+      "word": "万里远征插混第一车",
+      "onboard_time": 1764665181,
+      "rank": 17,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 47449,
       "num": 303817,
       "word": "四个2两个王N6叫地主",
@@ -5097,6 +5241,14 @@
       "onboard_time": 1764581723,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 45112,
+      "num": 137026,
+      "word": "枭起青壤版花园宝宝",
+      "onboard_time": 1764667521,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 45058,
@@ -5235,14 +5387,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 41836,
-      "num": 239212,
-      "word": "万里远征插混第一车",
-      "onboard_time": 1764665181,
-      "rank": 17,
-      "category": "汽车"
-    },
-    {
       "raw_hot": 41762,
       "num": 130633,
       "word": "兰晓龙晒得闲谨制片场照",
@@ -5328,6 +5472,14 @@
       "word": "网警侦破AI换脸侵入计算机案",
       "onboard_time": 1764640280,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 36985,
+      "num": 137124,
+      "word": "深圳望郎归80天内3人徒步遇难",
+      "onboard_time": 1764666921,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -5617,6 +5769,14 @@
       "onboard_time": 1764556039,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 23343,
+      "num": 133039,
+      "word": "日本儿童版防卫白皮书遭批",
+      "onboard_time": 1764666740,
+      "rank": 42,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23280,
