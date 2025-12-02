@@ -1,0 +1,410 @@
+{
+  "runTime": 1764658541510,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 368058,
+        "num": 1058889,
+        "word": "2025十大流行语",
+        "onboard_time": 1764657440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 176854,
+        "num": 1033908,
+        "word": "罗永浩谈三星三折叠",
+        "onboard_time": 1764650062,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35224,
+        "num": 978891,
+        "word": "刷1条视频上百个集装箱出海了",
+        "onboard_time": 1764649522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173428,
+        "num": 971086,
+        "word": "iG 0等五",
+        "onboard_time": 1764648081,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 160163,
+        "num": 921496,
+        "word": "凤凰台上假死重逢胜新婚",
+        "onboard_time": 1764654742,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 305083,
+        "num": 879742,
+        "word": "G7凭什么对中国提3个不许",
+        "onboard_time": 1764639019,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231247,
+        "num": 836692,
+        "word": "家长吐槽一上小学就要买打印机",
+        "onboard_time": 1764651802,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 217742,
+        "num": 797189,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1764650062,
+        "rank": 7,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 215718,
+        "num": 751626,
+        "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+        "onboard_time": 1764644301,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 168987,
+        "num": 727875,
+        "word": "恋与深空登顶",
+        "onboard_time": 1764653241,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1338523,
+        "num": 665307,
+        "word": "举报公职人员后喝农药店主已去世",
+        "onboard_time": 1764656841,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1226542,
+        "num": 614493,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 605968,
+        "num": 605968,
+        "word": "胡歌自曝母亲看不上他拍的古偶戏",
+        "onboard_time": 1764652222,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 602380,
+        "num": 602380,
+        "word": "业内曝大量艺人资源降级",
+        "onboard_time": 1764654323,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 545829,
+        "num": 545829,
+        "word": "发朋友圈 羞耻感",
+        "onboard_time": 1764650122,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 45060,
+        "num": 507804,
+        "word": "眼里有光满眼就都是光",
+        "onboard_time": 1764657679,
+        "rank": 15,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 497211,
+        "num": 497211,
+        "word": "攒了两万条的朋友圈消息被别人点了",
+        "onboard_time": 1764646760,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 318235,
+        "num": 318235,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171944,
+        "num": 305982,
+        "word": "机构采购5台电脑预算写2.95亿",
+        "onboard_time": 1764651561,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52994,
+        "num": 300201,
+        "word": "千问上线阿里最强AI生图模型满血版",
+        "onboard_time": 1764655461,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 297350,
+        "num": 297350,
+        "word": "演员洪剑涛景区试戴帽子被要价5元",
+        "onboard_time": 1764652521,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 567114,
+        "num": 294462,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 327455,
+        "num": 293735,
+        "word": "刘诗诗把儿子步步扛上车",
+        "onboard_time": 1764643820,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 304785,
+        "num": 293020,
+        "word": "住客全季酒店洗完澡发现花洒有粪便",
+        "onboard_time": 1764657560,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 291555,
+        "num": 291555,
+        "word": "服奥司他韦防流感有个前提条件",
+        "onboard_time": 1764652700,
+        "rank": 24,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 215820,
+        "num": 215820,
+        "word": "护士疑扎针失误后被患者家属打伤",
+        "onboard_time": 1764655642,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196411,
+        "num": 196411,
+        "word": "庾澄庆看何炅的表情让我一品再品",
+        "onboard_time": 1764657679,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155765,
+        "num": 155765,
+        "word": "十个勤天种地DNA动了",
+        "onboard_time": 1764657620,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119273,
+        "num": 142466,
+        "word": "工作人员回应采购5台电脑预算2.95亿",
+        "onboard_time": 1764656241,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101707,
+        "num": 138429,
+        "word": "刀疤哥因肠胃不适退赛",
+        "onboard_time": 1764657560,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138182,
+        "num": 138182,
+        "word": "保温杯四不放",
+        "onboard_time": 1764647541,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 36380,
+        "num": 137625,
+        "word": "孙正义称哭着卖出英伟达",
+        "onboard_time": 1764656780,
+        "rank": 31,
+        "category": "海外新闻,财经"
+      },
+      {
+        "raw_hot": 137236,
+        "num": 137236,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 136692,
+        "num": 136692,
+        "word": "儿子睡亡母生前床上感染同种病毒",
+        "onboard_time": 1764634461,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122837,
+        "num": 122837,
+        "word": "女儿偷偷回国打车发现老爸是司机",
+        "onboard_time": 1764654621,
+        "rank": 34,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 119254,
+        "num": 119254,
+        "word": "肖战新电影好友包场",
+        "onboard_time": 1764656421,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113788,
+        "num": 113788,
+        "word": "日本正武装菲律宾",
+        "onboard_time": 1764653300,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112903,
+        "num": 112903,
+        "word": "优质版衣服 普通版衣服",
+        "onboard_time": 1764654981,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 15374,
+        "num": 111098,
+        "word": "速度与激情男星5年被捕6次",
+        "onboard_time": 1764658160,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15118,
+        "num": 111007,
+        "word": "广州着火后消防员现场解释着火原因",
+        "onboard_time": 1764657620,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110986,
+        "num": 110986,
+        "word": "英国女孩受不了医院预约飞中国看病",
+        "onboard_time": 1764655521,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102813,
+        "num": 102813,
+        "word": "Gala回复iG",
+        "onboard_time": 1764654681,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 75324,
+        "num": 102237,
+        "word": "2025年底了我还是一个人",
+        "onboard_time": 1764657860,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101929,
+        "num": 101929,
+        "word": "重生之失业后被富婆老婆养",
+        "onboard_time": 1764655941,
+        "rank": 43,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 98877,
+        "num": 98877,
+        "word": "敖瑞鹏一觉醒来掉榜二了",
+        "onboard_time": 1764647901,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93380,
+        "num": 93380,
+        "word": "恋与深空",
+        "onboard_time": 1764635301,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 88952,
+        "num": 92693,
+        "word": "从从容容游刃有余入选年度流行语",
+        "onboard_time": 1764658041,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53032,
+        "num": 92422,
+        "word": "GALA无愧于ADC之名",
+        "onboard_time": 1764656960,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 92416,
+        "num": 92416,
+        "word": "弦子李茂 老式婚姻具象化了",
+        "onboard_time": 1764651021,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92298,
+        "num": 92298,
+        "word": "WBG官宣Light离队",
+        "onboard_time": 1764658520,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}
