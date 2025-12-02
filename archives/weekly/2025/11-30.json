@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764653268837,
+  "endTime": 1764654259263,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -195,6 +195,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1106502,
+      "num": 1051517,
+      "word": "发朋友圈 羞耻感",
+      "onboard_time": 1764650122,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1105113,
       "num": 691035,
       "word": "星光大赏",
@@ -241,14 +249,6 @@
       "onboard_time": 1764473960,
       "rank": 3,
       "category": "教育"
-    },
-    {
-      "raw_hot": 1051517,
-      "num": 1051517,
-      "word": "发朋友圈 羞耻感",
-      "onboard_time": 1764650122,
-      "rank": 34,
-      "category": "情感"
     },
     {
       "raw_hot": 1035142,
@@ -377,6 +377,14 @@
       "onboard_time": 1764489201,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 777964,
+      "num": 777964,
+      "word": "胡歌自曝母亲看不上他拍的古偶戏",
+      "onboard_time": 1764652222,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 753361,
@@ -667,6 +675,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 539607,
+      "num": 539607,
+      "word": "服奥司他韦防流感有个前提条件",
+      "onboard_time": 1764652700,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 538613,
       "num": 401340,
       "word": "2026年国考今日开考",
@@ -913,14 +929,6 @@
       "onboard_time": 1764649762,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 438631,
-      "num": 438631,
-      "word": "胡歌自曝母亲看不上他拍的古偶戏",
-      "onboard_time": 1764652222,
-      "rank": 12,
-      "category": "艺人"
     },
     {
       "raw_hot": 438525,
@@ -1339,6 +1347,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 357722,
+      "num": 357722,
+      "word": "演员洪剑涛景区试戴帽子被要价5元",
+      "onboard_time": 1764652521,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354271,
       "num": 298102,
       "word": "儿子睡亡母生前床上感染同种病毒",
@@ -1691,6 +1707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 296920,
+      "num": 296920,
+      "word": "小米su7撞坏上百米护栏十多辆车",
+      "onboard_time": 1764652821,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 296738,
       "num": 238530,
       "word": "A股",
@@ -1931,6 +1955,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 264383,
+      "num": 264383,
+      "word": "恋与深空登顶",
+      "onboard_time": 1764653241,
+      "rank": 45,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 262991,
       "num": 859523,
       "word": "警方就大埔火灾已拘捕13人",
@@ -1979,6 +2011,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 248092,
+      "num": 248092,
+      "word": "原来脂肪还分棕色和白色",
+      "onboard_time": 1764652641,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 246641,
       "num": 790931,
       "word": "官方通报店主实名举报公职人员",
@@ -2009,14 +2049,6 @@
       "onboard_time": 1764595043,
       "rank": 18,
       "category": "情感"
-    },
-    {
-      "raw_hot": 241989,
-      "num": 241989,
-      "word": "服奥司他韦防流感有个前提条件",
-      "onboard_time": 1764652700,
-      "rank": 16,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 241714,
@@ -2099,14 +2131,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 233703,
-      "num": 233703,
-      "word": "原来脂肪还分棕色和白色",
-      "onboard_time": 1764652641,
-      "rank": 17,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 233400,
       "num": 233400,
       "word": "为骗老人10万元109人炒股群108个托",
@@ -2148,11 +2172,19 @@
     },
     {
       "raw_hot": 229942,
-      "num": 197846,
+      "num": 211559,
       "word": "弦子李茂 老式婚姻具象化了",
       "onboard_time": 1764651021,
       "rank": 46,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 228608,
+      "num": 1080225,
+      "word": "罗永浩谈三星三折叠",
+      "onboard_time": 1764650062,
+      "rank": 8,
+      "category": "数码"
     },
     {
       "raw_hot": 227363,
@@ -2243,6 +2275,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 221128,
+      "num": 1054772,
+      "word": "家长吐槽一上小学就要买打印机",
+      "onboard_time": 1764651802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 221119,
       "num": 221119,
       "word": "炎拓 自卑是男人最好的嫁妆",
@@ -2257,6 +2297,14 @@
       "onboard_time": 1764564323,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 219050,
+      "num": 219050,
+      "word": "陈晓治好了我倍速看剧的毛病",
+      "onboard_time": 1764653361,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 218342,
@@ -2539,14 +2587,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 200352,
-      "num": 1080225,
-      "word": "罗永浩谈三星三折叠",
-      "onboard_time": 1764650062,
-      "rank": 8,
-      "category": "数码"
-    },
-    {
       "raw_hot": 200163,
       "num": 482601,
       "word": "当地应急回应广州突发火情",
@@ -2611,16 +2651,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198608,
-      "num": 197828,
-      "word": "演员洪剑涛景区试戴帽子被要价5元",
-      "onboard_time": 1764652521,
-      "rank": 28,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 197774,
-      "num": 197774,
+      "raw_hot": 197783,
+      "num": 197783,
       "word": "汪苏泷广州",
       "onboard_time": 1764653061,
       "rank": 30,
@@ -2729,14 +2761,6 @@
       "onboard_time": 1764546020,
       "rank": 4,
       "category": "教育"
-    },
-    {
-      "raw_hot": 190339,
-      "num": 190339,
-      "word": "小米su7撞坏上百米护栏十多辆车",
-      "onboard_time": 1764652821,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 189956,
@@ -3667,14 +3691,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 150120,
-      "num": 1054772,
-      "word": "家长吐槽一上小学就要买打印机",
-      "onboard_time": 1764651802,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149639,
       "num": 293033,
       "word": "水晶宫vs曼联",
@@ -4035,6 +4051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 137470,
+      "num": 137470,
+      "word": "王梓莼 00花",
+      "onboard_time": 1764654082,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 137343,
       "num": 137343,
       "word": "皮皮朱回怼女人独立要男人干啥",
@@ -4331,6 +4355,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 128376,
+      "num": 128376,
+      "word": "日本正武装菲律宾",
+      "onboard_time": 1764653300,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 128345,
       "num": 128345,
       "word": "Tarzan叫Viper老公",
@@ -4579,14 +4611,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 123200,
-      "num": 123200,
-      "word": "恋与深空登顶",
-      "onboard_time": 1764653241,
-      "rank": 45,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 123127,
       "num": 321562,
       "word": "印尼洪水山体滑坡442人死亡",
@@ -4601,6 +4625,14 @@
       "onboard_time": 1764598643,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122712,
+      "num": 120748,
+      "word": "王橹杰也用上口呼吸贴了",
+      "onboard_time": 1764653721,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 122634,
@@ -4681,6 +4713,14 @@
       "onboard_time": 1764489623,
       "rank": 38,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121731,
+      "num": 121731,
+      "word": "京城大师赛",
+      "onboard_time": 1764653541,
+      "rank": 41,
+      "category": "游戏"
     },
     {
       "raw_hot": 121696,
@@ -6051,6 +6091,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 91096,
+      "num": 133716,
+      "word": "G7试图拉中国上贼船",
+      "onboard_time": 1764654082,
+      "rank": 36,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 91005,
       "num": 313551,
       "word": "头发自然干vs吹风机吹干",
@@ -6105,6 +6153,14 @@
       "onboard_time": 1764484280,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 90195,
+      "num": 116642,
+      "word": "机构采购5台电脑预算写2.95亿",
+      "onboard_time": 1764651561,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 89983,
@@ -6419,6 +6475,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83542,
+      "num": 115471,
+      "word": "王励勤说成都混团是国乒奥运会预演",
+      "onboard_time": 1764653300,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 83476,
       "num": 121922,
       "word": "陈星旭身材是3D我的眼泪是4K",
@@ -6691,6 +6755,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 76461,
+      "num": 130383,
+      "word": "张婧仪厂妹学习中",
+      "onboard_time": 1764653602,
+      "rank": 38,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 76043,
       "num": 76043,
       "word": "向涵之的演技",
@@ -6785,6 +6857,14 @@
       "onboard_time": 1764583403,
       "rank": 19,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74358,
+      "num": 132028,
+      "word": "社畜不能看见黄婷婷这段",
+      "onboard_time": 1764653661,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 73116,
@@ -6913,14 +6993,6 @@
       "onboard_time": 1764480141,
       "rank": 10,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 68754,
-      "num": 116642,
-      "word": "机构采购5台电脑预算写2.95亿",
-      "onboard_time": 1764651561,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 68444,
@@ -7313,6 +7385,14 @@
       "onboard_time": 1764512122,
       "rank": 19,
       "category": "民生新闻,财经"
+    },
+    {
+      "raw_hot": 53824,
+      "num": 236467,
+      "word": "贵州高校现燃气味数千学生深夜撤离",
+      "onboard_time": 1764653001,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 53676,
@@ -7723,20 +7803,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40139,
+      "num": 1077456,
+      "word": "刷1条视频上百个集装箱出海了",
+      "onboard_time": 1764649522,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 39980,
       "num": 57391,
       "word": "疯狂动物城2的狐兔关系",
       "onboard_time": 1764521778,
       "rank": 39,
       "category": "电影"
-    },
-    {
-      "raw_hot": 39946,
-      "num": 1077456,
-      "word": "刷1条视频上百个集装箱出海了",
-      "onboard_time": 1764649522,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39870,
@@ -7920,14 +8000,6 @@
       "word": "高空抛砖案死者家属起诉长春万达",
       "onboard_time": 1764577641,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 30981,
-      "num": 198931,
-      "word": "贵州高校现燃气味数千学生深夜撤离",
-      "onboard_time": 1764653001,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -8312,6 +8384,14 @@
       "word": "电动车新国标强制安装北斗模块",
       "onboard_time": 1764578421,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 16294,
+      "num": 128550,
+      "word": "大连暖气管爆裂事故致1死1伤",
+      "onboard_time": 1764654202,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
