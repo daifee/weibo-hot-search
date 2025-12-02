@@ -1,0 +1,410 @@
+{
+  "runTime": 1764646859570,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 920029,
+        "num": 1147204,
+        "word": "G7凭什么对中国提3个不许",
+        "onboard_time": 1764639019,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 339529,
+        "num": 339529,
+        "word": "三星首款三折叠手机发布",
+        "onboard_time": 1764645801,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 27427,
+        "num": 290188,
+        "word": "网警侦破AI换脸侵入计算机案",
+        "onboard_time": 1764640280,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266773,
+        "num": 266773,
+        "word": "盖瑞 敖丙",
+        "onboard_time": 1764638060,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 82873,
+        "num": 261287,
+        "word": "小米汽车交付量已超全年目标",
+        "onboard_time": 1764644301,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 368968,
+        "num": 260920,
+        "word": "央视调查云南山谷现5000吨垃圾堆",
+        "onboard_time": 1764640521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380288,
+        "num": 260818,
+        "word": "胡先煦加奈那让我恋爱脑发作了",
+        "onboard_time": 1764645079,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 260174,
+        "num": 260174,
+        "word": "曝中国男篮输韩国后开会2小时",
+        "onboard_time": 1764639260,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 226077,
+        "num": 226077,
+        "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+        "onboard_time": 1764644301,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 28266,
+        "num": 223534,
+        "word": "将对大埔火灾调查到底问责到底",
+        "onboard_time": 1764646220,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 513517,
+        "num": 223051,
+        "word": "菲律宾勾结高市早苗反华",
+        "onboard_time": 1764641240,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 433286,
+        "num": 219137,
+        "word": "姑娘交3万8相亲不到24小时就后悔",
+        "onboard_time": 1764641299,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 373627,
+        "num": 216530,
+        "word": "男子取170万遭抢劫指责银行未施救",
+        "onboard_time": 1764638960,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277027,
+        "num": 214948,
+        "word": "日本两个团体请求访华",
+        "onboard_time": 1764641299,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273495,
+        "num": 211769,
+        "word": "谭松韵王安宇 狂流",
+        "onboard_time": 1764643699,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 261239,
+        "num": 206982,
+        "word": "王一博 纽约",
+        "onboard_time": 1764639499,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251220,
+        "num": 206767,
+        "word": "一部剧爱上三个女人",
+        "onboard_time": 1764645981,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 204128,
+        "num": 204128,
+        "word": "吞噬星空五年打了两百集",
+        "onboard_time": 1764645920,
+        "rank": 17,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 21768,
+        "num": 203886,
+        "word": "国羽证言央企合资品质N6",
+        "onboard_time": 1764645741,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 33475,
+        "num": 202558,
+        "word": "东京飞上海航班紧急返航",
+        "onboard_time": 1764646340,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1190318,
+        "num": 201395,
+        "word": "刘诗诗把儿子步步扛上车",
+        "onboard_time": 1764643820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430300,
+        "num": 199876,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 199337,
+        "num": 199337,
+        "word": "才知道原来100%纯棉不是棉",
+        "onboard_time": 1764630977,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 365774,
+        "num": 196500,
+        "word": "向佐首谈和郭碧婷求婚心情",
+        "onboard_time": 1764642800,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 337735,
+        "num": 195370,
+        "word": "儿子睡亡母生前床上感染同种病毒",
+        "onboard_time": 1764634461,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 331668,
+        "num": 190270,
+        "word": "杨幂就吃了一个寿司一口面",
+        "onboard_time": 1764631158,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 241211,
+        "num": 188124,
+        "word": "刘诗诗和她的魔丸儿子还是连续剧",
+        "onboard_time": 1764646161,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184753,
+        "num": 184753,
+        "word": "郑恺上戏合影 AI生成",
+        "onboard_time": 1764600983,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184198,
+        "num": 184198,
+        "word": "重度恐猫症",
+        "onboard_time": 1764645860,
+        "rank": 28,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164976,
+        "num": 177205,
+        "word": "胖东来小方糖戒指热卖",
+        "onboard_time": 1764630678,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172100,
+        "num": 172100,
+        "word": "兰晓龙 得闲影业是抄老子的",
+        "onboard_time": 1764636801,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 38608,
+        "num": 170258,
+        "word": "乌美就领土问题讨论长达6.5小时",
+        "onboard_time": 1764645140,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169345,
+        "num": 169345,
+        "word": "JDG宣布GALA入队",
+        "onboard_time": 1764646279,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129489,
+        "num": 164387,
+        "word": "揭秘王励勤名下职务情况",
+        "onboard_time": 1764645021,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161238,
+        "num": 161238,
+        "word": "流感病毒有效药物",
+        "onboard_time": 1764646521,
+        "rank": 34,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 160587,
+        "num": 160587,
+        "word": "胡歌回应过气",
+        "onboard_time": 1764645259,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148794,
+        "num": 148794,
+        "word": "12岁的Jasper",
+        "onboard_time": 1764645201,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137670,
+        "num": 137670,
+        "word": "这居然是陈晓黑图",
+        "onboard_time": 1764641899,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 41762,
+        "num": 130633,
+        "word": "兰晓龙晒得闲谨制片场照",
+        "onboard_time": 1764646760,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 53670,
+        "num": 130339,
+        "word": "被中国式父亲的隐忍整破防了",
+        "onboard_time": 1764646579,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130317,
+        "num": 130317,
+        "word": "女子花30万买白酒拿不出4千住院费",
+        "onboard_time": 1764646460,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19078,
+        "num": 127785,
+        "word": "以色列民众在总统官邸外集会抗议",
+        "onboard_time": 1764645560,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 119368,
+        "num": 126481,
+        "word": "中国海警依法警告驱离日本船只",
+        "onboard_time": 1764637941,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125930,
+        "num": 125930,
+        "word": "迪丽热巴你根本没喝中药",
+        "onboard_time": 1764643880,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81372,
+        "num": 123923,
+        "word": "凤凰台上 古偶跳台即开大",
+        "onboard_time": 1764645380,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123769,
+        "num": 123769,
+        "word": "邢昭林身份证丢了",
+        "onboard_time": 1764646101,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122189,
+        "num": 122189,
+        "word": "黄金迎突变",
+        "onboard_time": 1764641961,
+        "rank": 46,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 117368,
+        "num": 117368,
+        "word": "逍遥散人录播组",
+        "onboard_time": 1764646822,
+        "rank": 47,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 110819,
+        "num": 110819,
+        "word": "人在3个年龄会明显变老",
+        "onboard_time": 1764635482,
+        "rank": 48,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 109471,
+        "num": 109471,
+        "word": "经济舱大量舒适座位被锁了",
+        "onboard_time": 1764634701,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

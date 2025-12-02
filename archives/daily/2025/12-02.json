@@ -1,10 +1,10 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764646010272,
+  "endTime": 1764646859570,
   "band_list": [
     {
-      "raw_hot": 1186866,
-      "num": 191891,
+      "raw_hot": 1190318,
+      "num": 201395,
       "word": "刘诗诗把儿子步步扛上车",
       "onboard_time": 1764643820,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 543614,
-      "num": 191980,
+      "num": 223051,
       "word": "菲律宾勾结高市早苗反华",
       "onboard_time": 1764641240,
       "rank": 19,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 501068,
-      "num": 191885,
+      "num": 199876,
       "word": "桃黑黑14件事的澄清与回应",
       "onboard_time": 1764640100,
       "rank": 33,
@@ -83,6 +83,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 433286,
+      "num": 219137,
+      "word": "姑娘交3万8相亲不到24小时就后悔",
+      "onboard_time": 1764641299,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 424595,
       "num": 335875,
       "word": "央视调查云南山谷现5000吨垃圾堆",
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 421746,
-      "num": 191881,
+      "num": 196500,
       "word": "向佐首谈和郭碧婷求婚心情",
       "onboard_time": 1764642800,
       "rank": 22,
@@ -113,6 +121,14 @@
       "onboard_time": 1764639260,
       "rank": 5,
       "category": "体育"
+    },
+    {
+      "raw_hot": 380288,
+      "num": 260818,
+      "word": "胡先煦加奈那让我恋爱脑发作了",
+      "onboard_time": 1764645079,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 366799,
@@ -137,6 +153,14 @@
       "onboard_time": 1764591082,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 339529,
+      "num": 339529,
+      "word": "三星首款三折叠手机发布",
+      "onboard_time": 1764645801,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 324532,
@@ -195,27 +219,35 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 274465,
-      "num": 191959,
-      "word": "姑娘交3万8相亲不到24小时就后悔",
+      "raw_hot": 277027,
+      "num": 214948,
+      "word": "日本两个团体请求访华",
       "onboard_time": 1764641299,
-      "rank": 38,
-      "category": "民生新闻"
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 273495,
+      "num": 211769,
+      "word": "谭松韵王安宇 狂流",
+      "onboard_time": 1764643699,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 267953,
-      "num": 212569,
+      "num": 226077,
       "word": "甲型H3N2毒株严重可导致呼吸衰竭",
       "onboard_time": 1764644301,
       "rank": 7,
       "category": "民生新闻,健康医疗"
     },
     {
-      "raw_hot": 251768,
-      "num": 191944,
-      "word": "谭松韵王安宇 狂流",
-      "onboard_time": 1764643699,
-      "rank": 14,
+      "raw_hot": 251220,
+      "num": 206767,
+      "word": "一部剧爱上三个女人",
+      "onboard_time": 1764645981,
+      "rank": 49,
       "category": "剧集"
     },
     {
@@ -225,6 +257,14 @@
       "onboard_time": 1764631038,
       "rank": 8,
       "category": "财经"
+    },
+    {
+      "raw_hot": 241211,
+      "num": 188124,
+      "word": "刘诗诗和她的魔丸儿子还是连续剧",
+      "onboard_time": 1764646161,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 236755,
@@ -267,20 +307,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 216765,
-      "num": 216765,
-      "word": "三星首款三折叠手机发布",
-      "onboard_time": 1764645801,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 212016,
-      "num": 212016,
-      "word": "胡先煦加奈那让我恋爱脑发作了",
-      "onboard_time": 1764645079,
-      "rank": 8,
-      "category": "剧集"
+      "raw_hot": 204128,
+      "num": 204128,
+      "word": "吞噬星空五年打了两百集",
+      "onboard_time": 1764645920,
+      "rank": 9,
+      "category": "动漫"
     },
     {
       "raw_hot": 203889,
@@ -291,28 +323,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 191982,
-      "num": 191982,
-      "word": "吞噬星空五年打了两百集",
-      "onboard_time": 1764645920,
-      "rank": 9,
-      "category": "动漫"
-    },
-    {
-      "raw_hot": 190011,
-      "num": 190011,
-      "word": "日本两个团体请求访华",
-      "onboard_time": 1764641299,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
       "onboard_time": 1764645259,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 184198,
+      "num": 184198,
+      "word": "重度恐猫症",
+      "onboard_time": 1764645860,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 179520,
@@ -347,12 +371,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 169345,
+      "num": 169345,
+      "word": "JDG宣布GALA入队",
+      "onboard_time": 1764646279,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 165481,
       "num": 228595,
       "word": "大三男生网络交友3个月感染艾滋病",
       "onboard_time": 1764599124,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 161238,
+      "num": 161238,
+      "word": "流感病毒有效药物",
+      "onboard_time": 1764646521,
+      "rank": 34,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 157847,
@@ -403,8 +443,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 137293,
-      "num": 137293,
+      "raw_hot": 137670,
+      "num": 137670,
       "word": "这居然是陈晓黑图",
       "onboard_time": 1764641899,
       "rank": 34,
@@ -427,12 +467,28 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 130317,
+      "num": 130317,
+      "word": "女子花30万买白酒拿不出4千住院费",
+      "onboard_time": 1764646460,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130249,
       "num": 707874,
       "word": "日本国宝级歌手喊话高市爽快一点",
       "onboard_time": 1764600085,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 129489,
+      "num": 164387,
+      "word": "揭秘王励勤名下职务情况",
+      "onboard_time": 1764645021,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 129377,
@@ -460,7 +516,7 @@
     },
     {
       "raw_hot": 125474,
-      "num": 191935,
+      "num": 203886,
       "word": "国羽证言央企合资品质N6",
       "onboard_time": 1764645741,
       "rank": 15,
@@ -472,6 +528,14 @@
       "word": "李乃文疑似在大孤山当地陪",
       "onboard_time": 1764594502,
       "rank": 46,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 123769,
+      "num": 123769,
+      "word": "邢昭林身份证丢了",
+      "onboard_time": 1764646101,
+      "rank": 45,
       "category": "艺人"
     },
     {
@@ -499,6 +563,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117368,
+      "num": 117368,
+      "word": "逍遥散人录播组",
+      "onboard_time": 1764646822,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 113008,
       "num": 228533,
       "word": "女子烫发4小时称出去透气后疑跑路",
@@ -507,28 +579,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 112753,
-      "num": 112753,
-      "word": "揭秘王励勤名下职务情况",
-      "onboard_time": 1764645021,
-      "rank": 35,
-      "category": "体育"
-    },
-    {
       "raw_hot": 111003,
       "num": 111003,
       "word": "日军欺骗琉球居民集体自杀",
       "onboard_time": 1764637760,
       "rank": 35,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 110778,
-      "num": 110778,
-      "word": "重度恐猫症",
-      "onboard_time": 1764645860,
-      "rank": 42,
-      "category": "幽默"
     },
     {
       "raw_hot": 108689,
@@ -540,7 +596,7 @@
     },
     {
       "raw_hot": 108461,
-      "num": 214429,
+      "num": 261287,
       "word": "小米汽车交付量已超全年目标",
       "onboard_time": 1764644301,
       "rank": 4,
@@ -588,7 +644,7 @@
     },
     {
       "raw_hot": 96441,
-      "num": 112480,
+      "num": 123923,
       "word": "凤凰台上 古偶跳台即开大",
       "onboard_time": 1764645380,
       "rank": 38,
@@ -657,14 +713,6 @@
       "onboard_time": 1764643640,
       "rank": 48,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 88245,
-      "num": 88245,
-      "word": "一部剧爱上三个女人",
-      "onboard_time": 1764645981,
-      "rank": 49,
-      "category": "剧集"
     },
     {
       "raw_hot": 85849,
@@ -947,6 +995,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 53670,
+      "num": 130339,
+      "word": "被中国式父亲的隐忍整破防了",
+      "onboard_time": 1764646579,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 52696,
       "num": 143242,
       "word": "人民日报谈小米集团高质量发展",
@@ -1027,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 41762,
+      "num": 130633,
+      "word": "兰晓龙晒得闲谨制片场照",
+      "onboard_time": 1764646760,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40731,
       "num": 226908,
       "word": "中国男篮晋级形势",
@@ -1041,6 +1105,14 @@
       "onboard_time": 1764641479,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 38608,
+      "num": 191902,
+      "word": "乌美就领土问题讨论长达6.5小时",
+      "onboard_time": 1764645140,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37698,
@@ -1091,12 +1163,28 @@
       "category": "演出"
     },
     {
+      "raw_hot": 33475,
+      "num": 202558,
+      "word": "东京飞上海航班紧急返航",
+      "onboard_time": 1764646340,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 28506,
       "num": 79888,
       "word": "陈赫回母校参加校庆",
       "onboard_time": 1764609735,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28266,
+      "num": 223534,
+      "word": "将对大埔火灾调查到底问责到底",
+      "onboard_time": 1764646220,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 26080,
@@ -1147,11 +1235,11 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16568,
-      "num": 191902,
-      "word": "乌美就领土问题讨论长达6.5小时",
-      "onboard_time": 1764645140,
-      "rank": 19,
+      "raw_hot": 19078,
+      "num": 127785,
+      "word": "以色列民众在总统官邸外集会抗议",
+      "onboard_time": 1764645560,
+      "rank": 37,
       "category": "国际时政"
     },
     {
@@ -1177,14 +1265,6 @@
       "onboard_time": 1764615914,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 8453,
-      "num": 112648,
-      "word": "以色列民众在总统官邸外集会抗议",
-      "onboard_time": 1764645560,
-      "rank": 37,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [
