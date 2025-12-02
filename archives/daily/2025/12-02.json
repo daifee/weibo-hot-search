@@ -1,10 +1,10 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764658541510,
+  "endTime": 1764660583181,
   "band_list": [
     {
       "raw_hot": 1338523,
-      "num": 665307,
+      "num": 701656,
       "word": "举报公职人员后喝农药店主已去世",
       "onboard_time": 1764656841,
       "rank": 14,
@@ -20,11 +20,19 @@
     },
     {
       "raw_hot": 1249933,
-      "num": 614493,
+      "num": 700638,
       "word": "王梓莼 00花",
       "onboard_time": 1764654082,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1194788,
+      "num": 702064,
+      "word": "高市早苗再出狂言",
+      "onboard_time": 1764657560,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 1190318,
@@ -67,6 +75,30 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 707111,
+      "num": 707111,
+      "word": "北海道熊尸体多到装不下了",
+      "onboard_time": 1764658461,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 699656,
+      "num": 699656,
+      "word": "徐璐唯一受过的苦就是男人的苦",
+      "onboard_time": 1764658820,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 658503,
+      "num": 330050,
+      "word": "桃黑黑14件事的澄清与回应",
+      "onboard_time": 1764640100,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 657025,
       "num": 602380,
       "word": "业内曝大量艺人资源降级",
@@ -83,20 +115,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 649227,
+      "num": 1103876,
+      "word": "2025十大流行语",
+      "onboard_time": 1764657440,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 622235,
       "num": 330184,
       "word": "男子取170万遭抢劫指责银行未施救",
       "onboard_time": 1764638960,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 567114,
-      "num": 294462,
-      "word": "桃黑黑14件事的澄清与回应",
-      "onboard_time": 1764640100,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 556640,
@@ -179,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 429198,
+      "num": 706438,
+      "word": "庾澄庆看何炅的表情让我一品再品",
+      "onboard_time": 1764657679,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 424595,
       "num": 1058005,
       "word": "央视调查云南山谷现5000吨垃圾堆",
@@ -235,12 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 368058,
-      "num": 1058889,
-      "word": "2025十大流行语",
-      "onboard_time": 1764657440,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 379109,
+      "num": 329785,
+      "word": "桃黑黑 别让事情变味",
+      "onboard_time": 1764659962,
+      "rank": 21,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 366906,
@@ -323,14 +363,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 318235,
-      "num": 318235,
-      "word": "高市早苗再出狂言",
-      "onboard_time": 1764657560,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 316901,
       "num": 316901,
       "word": "王一博 纽约",
@@ -347,8 +379,8 @@
       "category": "演出"
     },
     {
-      "raw_hot": 304785,
-      "num": 293020,
+      "raw_hot": 310866,
+      "num": 310866,
       "word": "住客全季酒店洗完澡发现花洒有粪便",
       "onboard_time": 1764657560,
       "rank": 22,
@@ -368,6 +400,14 @@
       "word": "经济舱大量舒适座位被锁了",
       "onboard_time": 1764634701,
       "rank": 17,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 298425,
+      "num": 298425,
+      "word": "护士疑扎针失误后被患者家属打伤",
+      "onboard_time": 1764655642,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -467,6 +507,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 235642,
+      "num": 704886,
+      "word": "中方坚决反对英首相散布中国威胁",
+      "onboard_time": 1764658820,
+      "rank": 8,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 232853,
       "num": 228746,
       "word": "马市长 邓超",
@@ -523,14 +571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 215820,
-      "num": 215820,
-      "word": "护士疑扎针失误后被患者家属打伤",
-      "onboard_time": 1764655642,
-      "rank": 23,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214197,
       "num": 1059361,
       "word": "恋与深空日卡2.0",
@@ -585,14 +625,6 @@
       "onboard_time": 1764653061,
       "rank": 30,
       "category": "演出"
-    },
-    {
-      "raw_hot": 196411,
-      "num": 196411,
-      "word": "庾澄庆看何炅的表情让我一品再品",
-      "onboard_time": 1764657679,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 194476,
@@ -707,6 +739,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171607,
+      "num": 171607,
+      "word": "嬷化男明星 新型流量密码",
+      "onboard_time": 1764659540,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 169770,
       "num": 409016,
       "word": "英伟达20亿美元入股新思科技",
@@ -739,12 +779,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164489,
+      "num": 868776,
+      "word": "女儿偷偷回国打车发现老爸是司机",
+      "onboard_time": 1764654621,
+      "rank": 43,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 161238,
       "num": 161238,
       "word": "流感病毒有效药物",
       "onboard_time": 1764646521,
       "rank": 34,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 158478,
+      "num": 158478,
+      "word": "肖战好恐怖的面部肌肉控制力",
+      "onboard_time": 1764659000,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 157847,
@@ -859,14 +915,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137236,
-      "num": 137236,
-      "word": "北海道熊尸体多到装不下了",
-      "onboard_time": 1764658461,
-      "rank": 32,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 136752,
       "num": 155423,
       "word": "控制狂的爸被逼疯的她",
@@ -921,6 +969,14 @@
       "onboard_time": 1764600085,
       "rank": 6,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 130096,
+      "num": 130096,
+      "word": "疯狂动物城2三角恋剧情被删减",
+      "onboard_time": 1764659659,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 129489,
@@ -1003,14 +1059,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 122837,
-      "num": 122837,
-      "word": "女儿偷偷回国打车发现老爸是司机",
-      "onboard_time": 1764654621,
-      "rank": 43,
-      "category": "剧集,作品衍生"
-    },
-    {
       "raw_hot": 122712,
       "num": 120748,
       "word": "王橹杰也用上口呼吸贴了",
@@ -1075,6 +1123,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116591,
+      "num": 158818,
+      "word": "詹姆斯延续得分上双纪录",
+      "onboard_time": 1764659301,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
       "raw_hot": 114339,
       "num": 114339,
       "word": "迪丽热巴侧颜",
@@ -1089,6 +1145,14 @@
       "onboard_time": 1764599124,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112201,
+      "num": 112201,
+      "word": "赵雅芝全家福",
+      "onboard_time": 1764660081,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 111003,
@@ -1123,6 +1187,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107673,
+      "num": 107673,
+      "word": "假性恋爱",
+      "onboard_time": 1764659659,
+      "rank": 35,
+      "category": "情感"
+    },
+    {
       "raw_hot": 106452,
       "num": 192825,
       "word": "王励勤正式成为国乒新周期掌舵人",
@@ -1147,8 +1219,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102813,
-      "num": 102813,
+      "raw_hot": 102835,
+      "num": 102835,
       "word": "Gala回复iG",
       "onboard_time": 1764654681,
       "rank": 46,
@@ -1187,12 +1259,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100016,
+      "num": 100016,
+      "word": "菊花每一片花瓣都是一朵小花",
+      "onboard_time": 1764658761,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99379,
       "num": 99379,
       "word": "山东省考准考证",
       "onboard_time": 1764645560,
       "rank": 44,
       "category": "教育"
+    },
+    {
+      "raw_hot": 99346,
+      "num": 99346,
+      "word": "XX基础XX不基础成2025流行语",
+      "onboard_time": 1764660081,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99291,
+      "num": 109373,
+      "word": "恋与深空",
+      "onboard_time": 1764635301,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 97520,
@@ -1235,12 +1331,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 95264,
-      "num": 109373,
-      "word": "恋与深空",
-      "onboard_time": 1764635301,
-      "rank": 36,
-      "category": "游戏"
+      "raw_hot": 94252,
+      "num": 94252,
+      "word": "成都串串摊主回收汤底威胁食客",
+      "onboard_time": 1764659962,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 93918,
@@ -1249,6 +1345,14 @@
       "onboard_time": 1764640159,
       "rank": 19,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 92981,
+      "num": 92981,
+      "word": "橘朵26元眉笔一半是空的",
+      "onboard_time": 1764660502,
+      "rank": 47,
+      "category": "美妆"
     },
     {
       "raw_hot": 92559,
@@ -1297,6 +1401,14 @@
       "onboard_time": 1764658041,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 88551,
+      "num": 88551,
+      "word": "Light回应离开WBG",
+      "onboard_time": 1764660502,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 85849,
@@ -1947,12 +2059,28 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 21823,
+      "num": 99385,
+      "word": "王励勤曾申请注册个人商标",
+      "onboard_time": 1764660020,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20903,
       "num": 79881,
       "word": "您有一笔退款12月1日开始确认",
       "onboard_time": 1764571462,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20846,
+      "num": 99592,
+      "word": "申裕斌采访禁止卖萌",
+      "onboard_time": 1764660562,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 20451,
@@ -2025,6 +2153,14 @@
       "onboard_time": 1764619934,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13047,
+      "num": 98060,
+      "word": "深圳最大的垃圾填埋场将被清仓",
+      "onboard_time": 1764659361,
+      "rank": 42,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11194,

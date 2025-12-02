@@ -1,0 +1,410 @@
+{
+  "runTime": 1764660583181,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 649227,
+        "num": 1103876,
+        "word": "2025十大流行语",
+        "onboard_time": 1764657440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158755,
+        "num": 1036907,
+        "word": "罗永浩谈三星三折叠",
+        "onboard_time": 1764650062,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35531,
+        "num": 931223,
+        "word": "刷1条视频上百个集装箱出海了",
+        "onboard_time": 1764649522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164489,
+        "num": 868776,
+        "word": "女儿偷偷回国打车发现老爸是司机",
+        "onboard_time": 1764654621,
+        "rank": 3,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 154843,
+        "num": 769975,
+        "word": "iG 0等五",
+        "onboard_time": 1764648081,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 707111,
+        "num": 707111,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 429198,
+        "num": 706438,
+        "word": "庾澄庆看何炅的表情让我一品再品",
+        "onboard_time": 1764657679,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238904,
+        "num": 705612,
+        "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+        "onboard_time": 1764644301,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 235642,
+        "num": 704886,
+        "word": "中方坚决反对英首相散布中国威胁",
+        "onboard_time": 1764658820,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142758,
+        "num": 703277,
+        "word": "恋与深空登顶",
+        "onboard_time": 1764653241,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1194788,
+        "num": 702064,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1107769,
+        "num": 701656,
+        "word": "举报公职人员后喝农药店主已去世",
+        "onboard_time": 1764656841,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 912131,
+        "num": 700638,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 699656,
+        "num": 699656,
+        "word": "徐璐唯一受过的苦就是男人的苦",
+        "onboard_time": 1764658820,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 445000,
+        "num": 445000,
+        "word": "发朋友圈 羞耻感",
+        "onboard_time": 1764650122,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 442706,
+        "num": 442706,
+        "word": "业内曝大量艺人资源降级",
+        "onboard_time": 1764654323,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 22129,
+        "num": 421094,
+        "word": "眼里有光满眼就都是光",
+        "onboard_time": 1764657679,
+        "rank": 16,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 418360,
+        "num": 418360,
+        "word": "胡歌自曝母亲看不上他拍的古偶戏",
+        "onboard_time": 1764652222,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377353,
+        "num": 377353,
+        "word": "攒了两万条的朋友圈消息被别人点了",
+        "onboard_time": 1764646760,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 128871,
+        "num": 343304,
+        "word": "家长吐槽一上小学就要买打印机",
+        "onboard_time": 1764651802,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 658503,
+        "num": 330050,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 20,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 379109,
+        "num": 329785,
+        "word": "桃黑黑 别让事情变味",
+        "onboard_time": 1764659962,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 310866,
+        "num": 310866,
+        "word": "住客全季酒店洗完澡发现花洒有粪便",
+        "onboard_time": 1764657560,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298425,
+        "num": 298425,
+        "word": "护士疑扎针失误后被患者家属打伤",
+        "onboard_time": 1764655642,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196904,
+        "num": 196904,
+        "word": "刘诗诗把儿子步步扛上车",
+        "onboard_time": 1764643820,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140890,
+        "num": 185379,
+        "word": "G7凭什么对中国提3个不许",
+        "onboard_time": 1764639019,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 173920,
+        "num": 173920,
+        "word": "演员洪剑涛景区试戴帽子被要价5元",
+        "onboard_time": 1764652521,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171607,
+        "num": 171607,
+        "word": "嬷化男明星 新型流量密码",
+        "onboard_time": 1764659540,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162764,
+        "num": 162764,
+        "word": "服奥司他韦防流感有个前提条件",
+        "onboard_time": 1764652700,
+        "rank": 28,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 116591,
+        "num": 158818,
+        "word": "詹姆斯延续得分上双纪录",
+        "onboard_time": 1764659301,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158478,
+        "num": 158478,
+        "word": "肖战好恐怖的面部肌肉控制力",
+        "onboard_time": 1764659000,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 130096,
+        "num": 130096,
+        "word": "疯狂动物城2三角恋剧情被删减",
+        "onboard_time": 1764659659,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120350,
+        "num": 120350,
+        "word": "保温杯四不放",
+        "onboard_time": 1764647541,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 114534,
+        "num": 114534,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1764650062,
+        "rank": 33,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 112201,
+        "num": 112201,
+        "word": "赵雅芝全家福",
+        "onboard_time": 1764660081,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107673,
+        "num": 107673,
+        "word": "假性恋爱",
+        "onboard_time": 1764659659,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102835,
+        "num": 102835,
+        "word": "Gala回复iG",
+        "onboard_time": 1764654681,
+        "rank": 36,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 100016,
+        "num": 100016,
+        "word": "菊花每一片花瓣都是一朵小花",
+        "onboard_time": 1764658761,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20846,
+        "num": 99592,
+        "word": "申裕斌采访禁止卖萌",
+        "onboard_time": 1764660562,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21823,
+        "num": 99385,
+        "word": "王励勤曾申请注册个人商标",
+        "onboard_time": 1764660020,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99346,
+        "num": 99346,
+        "word": "XX基础XX不基础成2025流行语",
+        "onboard_time": 1764660081,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98129,
+        "num": 98129,
+        "word": "工作人员回应采购5台电脑预算2.95亿",
+        "onboard_time": 1764656241,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13047,
+        "num": 98060,
+        "word": "深圳最大的垃圾填埋场将被清仓",
+        "onboard_time": 1764659361,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99291,
+        "num": 98034,
+        "word": "恋与深空",
+        "onboard_time": 1764635301,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98001,
+        "num": 98001,
+        "word": "肖战新电影好友包场",
+        "onboard_time": 1764656421,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 95975,
+        "num": 95975,
+        "word": "儿子睡亡母生前床上感染同种病毒",
+        "onboard_time": 1764634461,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94252,
+        "num": 94252,
+        "word": "成都串串摊主回收汤底威胁食客",
+        "onboard_time": 1764659962,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92981,
+        "num": 92981,
+        "word": "橘朵26元眉笔一半是空的",
+        "onboard_time": 1764660502,
+        "rank": 47,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 90659,
+        "num": 90659,
+        "word": "刀疤哥因肠胃不适退赛",
+        "onboard_time": 1764657560,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88551,
+        "num": 88551,
+        "word": "Light回应离开WBG",
+        "onboard_time": 1764660502,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}
