@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764671547379,
+  "endTime": 1764672488746,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -315,6 +315,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1027978,
+      "num": 282031,
+      "word": "洽洽瓜子 洽洽瓜紫",
+      "onboard_time": 1764667762,
+      "rank": 33,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1024327,
       "num": 481732,
       "word": "郝蕾 我说的不是辛芷蕾",
@@ -459,14 +467,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 751507,
-      "num": 282031,
-      "word": "洽洽瓜子 洽洽瓜紫",
-      "onboard_time": 1764667762,
-      "rank": 33,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 740179,
       "num": 627533,
       "word": "疯狂动物城",
@@ -481,6 +481,14 @@
       "onboard_time": 1764511641,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 718712,
+      "num": 279916,
+      "word": "刘亦菲 我没有遗传到位",
+      "onboard_time": 1764670282,
+      "rank": 10,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 717267,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 621943,
-      "num": 223241,
+      "num": 230074,
       "word": "马斯克官宣高管女友",
       "onboard_time": 1764666502,
       "rank": 21,
@@ -779,6 +787,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 554807,
+      "num": 270684,
+      "word": "断崖式衰老一般发生在几岁",
+      "onboard_time": 1764668301,
+      "rank": 25,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 552341,
       "num": 874172,
       "word": "BLG官宣Xun加入",
@@ -817,14 +833,6 @@
       "onboard_time": 1764641240,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 543532,
-      "num": 259911,
-      "word": "刘亦菲 我没有遗传到位",
-      "onboard_time": 1764670282,
-      "rank": 10,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 541522,
@@ -1209,14 +1217,6 @@
       "onboard_time": 1764470180,
       "rank": 7,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 424926,
-      "num": 252211,
-      "word": "断崖式衰老一般发生在几岁",
-      "onboard_time": 1764668301,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 424595,
@@ -1772,7 +1772,7 @@
     },
     {
       "raw_hot": 320654,
-      "num": 218811,
+      "num": 229743,
       "word": "郑天浩 王梓莼",
       "onboard_time": 1764669082,
       "rank": 23,
@@ -1780,7 +1780,7 @@
     },
     {
       "raw_hot": 318839,
-      "num": 217232,
+      "num": 229114,
       "word": "Duro被大学退学",
       "onboard_time": 1764667342,
       "rank": 31,
@@ -2451,6 +2451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228899,
+      "num": 228899,
+      "word": "老爹站",
+      "onboard_time": 1764667881,
+      "rank": 28,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 228608,
       "num": 1093312,
       "word": "罗永浩谈三星三折叠",
@@ -2625,14 +2633,6 @@
       "onboard_time": 1764479542,
       "rank": 28,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214274,
-      "num": 214274,
-      "word": "老爹站",
-      "onboard_time": 1764667881,
-      "rank": 28,
-      "category": "游戏,网红"
     },
     {
       "raw_hot": 214197,
@@ -4139,6 +4139,14 @@
       "category": "休闲"
     },
     {
+      "raw_hot": 149934,
+      "num": 325119,
+      "word": "点亮你的次元图鉴",
+      "onboard_time": 1764671722,
+      "rank": 4,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 149639,
       "num": 293033,
       "word": "水晶宫vs曼联",
@@ -4435,12 +4443,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140166,
+      "num": 140166,
+      "word": "艾米疑似不参加明年艺考",
+      "onboard_time": 1764671841,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 140135,
       "num": 140135,
       "word": "其实高皮质醇的人都有一个特点",
       "onboard_time": 1764566661,
       "rank": 45,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 140044,
+      "num": 140044,
+      "word": "菲律宾日本军演用中国品牌电脑",
+      "onboard_time": 1764669381,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 139684,
@@ -4643,6 +4667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133937,
+      "num": 231757,
+      "word": "85花大花都没来",
+      "onboard_time": 1764671722,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 133840,
       "num": 133840,
       "word": "什么破炒饭38元一份",
@@ -4777,14 +4809,6 @@
       "onboard_time": 1764572842,
       "rank": 33,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 131382,
-      "num": 131382,
-      "word": "菲律宾日本军演用中国品牌电脑",
-      "onboard_time": 1764669381,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 131380,
@@ -5004,7 +5028,7 @@
     },
     {
       "raw_hot": 126801,
-      "num": 264253,
+      "num": 299242,
       "word": "一诺广西东兰之旅",
       "onboard_time": 1764671242,
       "rank": 9,
@@ -5411,6 +5435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120013,
+      "num": 120013,
+      "word": "疑似李飞早就深入一代粉圈",
+      "onboard_time": 1764671783,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 119828,
       "num": 119828,
       "word": "樊振东刻在骨子里的爱国情",
@@ -5561,6 +5593,14 @@
       "onboard_time": 1764488961,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117211,
+      "num": 117211,
+      "word": "薛之谦来都拿不了满分",
+      "onboard_time": 1764671841,
+      "rank": 36,
+      "category": "音乐"
     },
     {
       "raw_hot": 116970,
@@ -6147,6 +6187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 105105,
+      "num": 166455,
+      "word": "官方回应女婴手术离世家属质疑",
+      "onboard_time": 1764667881,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 105027,
       "num": 105027,
       "word": "狼队战胜EDGM",
@@ -6364,7 +6412,7 @@
     },
     {
       "raw_hot": 100467,
-      "num": 231306,
+      "num": 232853,
       "word": "美团给骑手小哥发不闯红灯奖",
       "onboard_time": 1764669861,
       "rank": 19,
@@ -6593,6 +6641,14 @@
       "onboard_time": 1764593242,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 96122,
+      "num": 99773,
+      "word": "小猫确认了好几遍是不是妈妈",
+      "onboard_time": 1764671961,
+      "rank": 42,
+      "category": "幽默"
     },
     {
       "raw_hot": 96086,
@@ -7227,6 +7283,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 83569,
+      "num": 99722,
+      "word": "车灯只能照亮50米 可车子能开完全程",
+      "onboard_time": 1764669321,
+      "rank": 48,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83542,
       "num": 115471,
       "word": "王励勤说成都混团是国乒奥运会预演",
@@ -7395,6 +7459,14 @@
       "category": "时尚,数码"
     },
     {
+      "raw_hot": 81028,
+      "num": 99720,
+      "word": "Zeus让HLE全队一起减肥",
+      "onboard_time": 1764672142,
+      "rank": 49,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 80711,
       "num": 207114,
       "word": "疯狂动物城2让我起鸡皮疙瘩的台词",
@@ -7417,14 +7489,6 @@
       "onboard_time": 1764432620,
       "rank": 34,
       "category": "财经,海外新闻"
-    },
-    {
-      "raw_hot": 80030,
-      "num": 166455,
-      "word": "官方回应女婴手术离世家属质疑",
-      "onboard_time": 1764667881,
-      "rank": 49,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 79547,
@@ -7561,6 +7625,14 @@
       "onboard_time": 1764653602,
       "rank": 38,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 76052,
+      "num": 231993,
+      "word": "台湾一旦沦为战场什么都是空谈",
+      "onboard_time": 1764671661,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 76043,
@@ -7859,6 +7931,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 67900,
+      "num": 110821,
+      "word": "王安宇 年轻版邱泽",
+      "onboard_time": 1764672024,
+      "rank": 39,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 67625,
       "num": 73245,
       "word": "郭士强回应赵睿伤情",
@@ -7873,6 +7953,14 @@
       "onboard_time": 1764412342,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 67258,
+      "num": 105572,
+      "word": "多所高校买房爆改学生宿舍",
+      "onboard_time": 1764671062,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 66800,
@@ -8515,6 +8603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45288,
+      "num": 111182,
+      "word": "水龙吟猫眼年榜第4",
+      "onboard_time": 1764672263,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 45274,
       "num": 101851,
       "word": "邓超孙俪儿子U14男子组亚军",
@@ -8763,6 +8859,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 38711,
+      "num": 106171,
+      "word": "敖瑞鹏你有对手了",
+      "onboard_time": 1764670823,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 38608,
       "num": 191902,
       "word": "乌美就领土问题讨论长达6.5小时",
@@ -8785,14 +8889,6 @@
       "onboard_time": 1764436517,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 37212,
-      "num": 105572,
-      "word": "多所高校买房爆改学生宿舍",
-      "onboard_time": 1764671062,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 36985,
@@ -9073,14 +9169,6 @@
       "onboard_time": 1764560961,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26702,
-      "num": 106171,
-      "word": "敖瑞鹏你有对手了",
-      "onboard_time": 1764670823,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 26540,
@@ -9427,6 +9515,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14656,
+      "num": 468013,
+      "word": "高质量发展故事汇",
+      "onboard_time": 1764671062,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 14588,
       "num": 193593,
       "word": "女婴病危家长质疑月嫂照顾最新进展",
@@ -9537,14 +9633,6 @@
       "onboard_time": 1764615914,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 10892,
-      "num": 148379,
-      "word": "高质量发展故事汇",
-      "onboard_time": 1764671062,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 10354,

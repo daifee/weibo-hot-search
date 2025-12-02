@@ -1,0 +1,410 @@
+{
+  "runTime": 1764672488746,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 575931,
+        "num": 1092148,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 159341,
+        "num": 616827,
+        "word": "华为鸿蒙",
+        "onboard_time": 1764661460,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 14656,
+        "num": 468013,
+        "word": "高质量发展故事汇",
+        "onboard_time": 1764671062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 367644,
+        "num": 367644,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149934,
+        "num": 325119,
+        "word": "点亮你的次元图鉴",
+        "onboard_time": 1764671722,
+        "rank": 4,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 1149127,
+        "num": 321928,
+        "word": "疯狂动物城 媚中",
+        "onboard_time": 1764665421,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 714966,
+        "num": 320917,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312385,
+        "num": 312385,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 304423,
+        "num": 304423,
+        "word": "全球目前有7例艾滋病治愈者",
+        "onboard_time": 1764664402,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 98222,
+        "num": 299242,
+        "word": "一诺广西东兰之旅",
+        "onboard_time": 1764671242,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 718712,
+        "num": 279916,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 554807,
+        "num": 270684,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 334236,
+        "num": 265636,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 317515,
+        "num": 253122,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242707,
+        "num": 242707,
+        "word": "温峥嵘删除声明",
+        "onboard_time": 1764668241,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 233378,
+        "num": 233378,
+        "word": "超绝羊副市长",
+        "onboard_time": 1764666262,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 50473,
+        "num": 233310,
+        "word": "AI什么邪门CP都嗑得下",
+        "onboard_time": 1764670282,
+        "rank": 16,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 68053,
+        "num": 232853,
+        "word": "美团给骑手小哥发不闯红灯奖",
+        "onboard_time": 1764669861,
+        "rank": 17,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 76052,
+        "num": 231993,
+        "word": "台湾一旦沦为战场什么都是空谈",
+        "onboard_time": 1764671661,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 133937,
+        "num": 231757,
+        "word": "85花大花都没来",
+        "onboard_time": 1764671722,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1027978,
+        "num": 231085,
+        "word": "洽洽瓜子 洽洽瓜紫",
+        "onboard_time": 1764667762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 498008,
+        "num": 230864,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 496631,
+        "num": 230074,
+        "word": "马斯克官宣高管女友",
+        "onboard_time": 1764666502,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 280047,
+        "num": 229743,
+        "word": "郑天浩 王梓莼",
+        "onboard_time": 1764669082,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 236496,
+        "num": 229114,
+        "word": "Duro被大学退学",
+        "onboard_time": 1764667342,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 228899,
+        "num": 228899,
+        "word": "老爹站",
+        "onboard_time": 1764667881,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 211518,
+        "num": 211518,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 181217,
+        "num": 181217,
+        "word": "宁波手术离世女婴家属再发声",
+        "onboard_time": 1764661523,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159410,
+        "num": 159410,
+        "word": "陈赫杜江是在学郑恺苗苗吗",
+        "onboard_time": 1764668722,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105105,
+        "num": 141221,
+        "word": "官方回应女婴手术离世家属质疑",
+        "onboard_time": 1764667881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140166,
+        "num": 140166,
+        "word": "艾米疑似不参加明年艺考",
+        "onboard_time": 1764671841,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140044,
+        "num": 140044,
+        "word": "菲律宾日本军演用中国品牌电脑",
+        "onboard_time": 1764669381,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137145,
+        "num": 137145,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1764664702,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 127045,
+        "num": 127045,
+        "word": "再也不敢侧躺着睡觉了",
+        "onboard_time": 1764668542,
+        "rank": 33,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 124854,
+        "num": 124854,
+        "word": "刘耀文高会更新",
+        "onboard_time": 1764668842,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120013,
+        "num": 120013,
+        "word": "疑似李飞早就深入一代粉圈",
+        "onboard_time": 1764671783,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117211,
+        "num": 117211,
+        "word": "薛之谦来都拿不了满分",
+        "onboard_time": 1764671841,
+        "rank": 36,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 83311,
+        "num": 112320,
+        "word": "男子因吸毒5年内3次被查处",
+        "onboard_time": 1764661582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45288,
+        "num": 111182,
+        "word": "水龙吟猫眼年榜第4",
+        "onboard_time": 1764672263,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 67900,
+        "num": 110821,
+        "word": "王安宇 年轻版邱泽",
+        "onboard_time": 1764672024,
+        "rank": 39,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 110747,
+        "num": 110747,
+        "word": "曾经很火但逐渐消失的APP",
+        "onboard_time": 1764667161,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 99776,
+        "num": 99776,
+        "word": "李沁包场得闲谨制",
+        "onboard_time": 1764667943,
+        "rank": 41,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96122,
+        "num": 99773,
+        "word": "小猫确认了好几遍是不是妈妈",
+        "onboard_time": 1764671961,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92823,
+        "num": 99765,
+        "word": "新音 三亚",
+        "onboard_time": 1764665001,
+        "rank": 43,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 92083,
+        "num": 99759,
+        "word": "日本被曝正在研发万能型血浆",
+        "onboard_time": 1764663082,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 67258,
+        "num": 99748,
+        "word": "多所高校买房爆改学生宿舍",
+        "onboard_time": 1764671062,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87320,
+        "num": 99743,
+        "word": "刘诗诗喜欢labubu 因为拉步步",
+        "onboard_time": 1764670221,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38711,
+        "num": 99729,
+        "word": "敖瑞鹏你有对手了",
+        "onboard_time": 1764670823,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83569,
+        "num": 99722,
+        "word": "车灯只能照亮50米 可车子能开完全程",
+        "onboard_time": 1764669321,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 81028,
+        "num": 99720,
+        "word": "Zeus让HLE全队一起减肥",
+        "onboard_time": 1764672142,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}
