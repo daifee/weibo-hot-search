@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764681128768,
+  "endTime": 1764682963570,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -33,6 +33,14 @@
       "onboard_time": 1764665421,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1846172,
+      "num": 1846172,
+      "word": "12306回应取消靠窗选座",
+      "onboard_time": 1764680483,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1837550,
@@ -483,6 +491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 801067,
+      "num": 1118200,
+      "word": "国家发社保补贴了",
+      "onboard_time": 1764679462,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 791999,
       "num": 1126719,
       "word": "高市早苗再次有意犯错",
@@ -513,14 +529,6 @@
       "onboard_time": 1764387380,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 738750,
-      "num": 1118200,
-      "word": "国家发社保补贴了",
-      "onboard_time": 1764679462,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 735512,
@@ -875,6 +883,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 546616,
+      "num": 268320,
+      "word": "委内瑞拉",
+      "onboard_time": 1764680723,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 543614,
       "num": 310428,
       "word": "菲律宾勾结高市早苗反华",
@@ -1041,6 +1057,14 @@
       "onboard_time": 1764666262,
       "rank": 12,
       "category": "电影"
+    },
+    {
+      "raw_hot": 475868,
+      "num": 176700,
+      "word": "杨旭文辟谣的是恋情还是订婚",
+      "onboard_time": 1764682041,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 473327,
@@ -1979,14 +2003,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308930,
-      "num": 293810,
-      "word": "12306回应取消靠窗选座",
-      "onboard_time": 1764680483,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 304118,
       "num": 236474,
       "word": "家属称25岁去世小伙生前过度加班",
@@ -2416,6 +2432,14 @@
       "word": "晚安计划",
       "onboard_time": 1764595043,
       "rank": 18,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 242034,
+      "num": 202019,
+      "word": "21岁和26岁差距真的很大",
+      "onboard_time": 1764679823,
+      "rank": 29,
       "category": "情感"
     },
     {
@@ -3003,14 +3027,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 202019,
-      "num": 202019,
-      "word": "21岁和26岁差距真的很大",
-      "onboard_time": 1764679823,
-      "rank": 29,
-      "category": "情感"
-    },
-    {
       "raw_hot": 201430,
       "num": 287482,
       "word": "梁朝伟时隔36年再拍电视剧",
@@ -3363,14 +3379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 184126,
-      "num": 184126,
-      "word": "委内瑞拉",
-      "onboard_time": 1764680723,
-      "rank": 27,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 183997,
       "num": 237780,
       "word": "jjking说Uzi大概率复出",
@@ -3571,6 +3579,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 176821,
+      "num": 176821,
+      "word": "94岁老人被发现在楼道打地铺生活",
+      "onboard_time": 1764681263,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176443,
+      "num": 176443,
+      "word": "王梓莼正片镜头疑似被删光",
+      "onboard_time": 1764682404,
+      "rank": 26,
+      "category": "综艺,艺人"
+    },
+    {
       "raw_hot": 176087,
       "num": 176087,
       "word": "白鹿不愧是坐在路由器上的女人",
@@ -3652,7 +3676,7 @@
     },
     {
       "raw_hot": 173038,
-      "num": 633610,
+      "num": 732700,
       "word": "国乒8比0智利",
       "onboard_time": 1764678203,
       "rank": 1,
@@ -3955,6 +3979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 161629,
+      "num": 161629,
+      "word": "董事长因薪酬低反对自己当董事长",
+      "onboard_time": 1764678742,
+      "rank": 35,
+      "category": "财经"
+    },
+    {
       "raw_hot": 161410,
       "num": 150186,
       "word": "小米回应男子买小米YU7收到运损车",
@@ -4131,6 +4163,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 155946,
+      "num": 155946,
+      "word": "Suk世界赛单局MVP",
+      "onboard_time": 1764682404,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 155765,
       "num": 155765,
       "word": "十个勤天种地DNA动了",
@@ -4185,14 +4225,6 @@
       "onboard_time": 1764486261,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 154700,
-      "num": 154700,
-      "word": "董事长因薪酬低反对自己当董事长",
-      "onboard_time": 1764678742,
-      "rank": 35,
-      "category": "财经"
     },
     {
       "raw_hot": 154502,
@@ -4555,6 +4587,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 144205,
+      "num": 144205,
+      "word": "刘宇宁直播",
+      "onboard_time": 1764682764,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143838,
       "num": 612481,
       "word": "Rookie回应和jiejie争论",
@@ -4723,6 +4763,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 139050,
+      "num": 139050,
+      "word": "王男直播",
+      "onboard_time": 1764677662,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138558,
       "num": 138558,
       "word": "没想到黄晓明也开始走中式老钱风了",
@@ -4833,14 +4881,6 @@
       "onboard_time": 1764666561,
       "rank": 41,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 136424,
-      "num": 136424,
-      "word": "王男直播",
-      "onboard_time": 1764677662,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 136138,
@@ -5001,6 +5041,14 @@
       "onboard_time": 1764588322,
       "rank": 24,
       "category": "体育"
+    },
+    {
+      "raw_hot": 132587,
+      "num": 132587,
+      "word": "疯狂动物城2中国票房惊呆外媒",
+      "onboard_time": 1764682404,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 132551,
@@ -5401,6 +5449,14 @@
       "onboard_time": 1764475820,
       "rank": 49,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 124875,
+      "num": 124875,
+      "word": "宋轶红毯造型好像一尾斗鱼",
+      "onboard_time": 1764682883,
+      "rank": 41,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 124807,
@@ -6443,6 +6499,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107152,
+      "num": 107152,
+      "word": "混团世界杯八强产生",
+      "onboard_time": 1764682643,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107072,
       "num": 107072,
       "word": "爱你老己",
@@ -7043,6 +7107,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 96353,
+      "num": 96353,
+      "word": "王曼昱说身体在积极康复",
+      "onboard_time": 1764682404,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 96184,
       "num": 124128,
       "word": "最期待提名白玉兰的电视剧",
@@ -7145,6 +7217,14 @@
       "onboard_time": 1764679762,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95059,
+      "num": 95059,
+      "word": "12306选座界面没靠窗座了",
+      "onboard_time": 1764681382,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94613,
@@ -8043,6 +8123,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 77438,
+      "num": 124894,
+      "word": "外媒称中国买大豆毁掉巴西雨林真相",
+      "onboard_time": 1764682883,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 77037,
       "num": 121748,
       "word": "陈小春看到又要感慨祖坟冒青烟了",
@@ -8441,6 +8529,14 @@
       "onboard_time": 1764580163,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 66009,
+      "num": 124881,
+      "word": "刘耀文内娱唯一寿司塑",
+      "onboard_time": 1764681682,
+      "rank": 40,
+      "category": "音乐"
     },
     {
       "raw_hot": 65209,
@@ -8953,6 +9049,14 @@
       "onboard_time": 1764487462,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 49925,
+      "num": 124966,
+      "word": "举报后喝农药店主去世家属发声",
+      "onboard_time": 1764681801,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 49718,
