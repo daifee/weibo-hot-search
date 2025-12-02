@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764689542458,
+  "endTime": 1764690382937,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -115,7 +115,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 1398324,
+      "raw_hot": 1401454,
       "num": 1398324,
       "word": "日本战争准备曝光",
       "onboard_time": 1764686424,
@@ -891,6 +891,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 549566,
+      "num": 1425687,
+      "word": "日本自卫队被曝正在向西南转移",
+      "onboard_time": 1764687623,
+      "rank": 6,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 549066,
       "num": 209871,
       "word": "杨旭文辟谣的是恋情还是订婚",
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 401637,
-      "num": 210583,
+      "num": 268130,
       "word": "老人腹泻离世儿子睡其床后确诊同症",
       "onboard_time": 1764683124,
       "rank": 24,
@@ -1529,6 +1537,14 @@
       "onboard_time": 1764459558,
       "rank": 10,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 398647,
+      "num": 363405,
+      "word": "蜜雪冰城 留守儿童",
+      "onboard_time": 1764686784,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 396922,
@@ -1593,14 +1609,6 @@
       "onboard_time": 1764483860,
       "rank": 36,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 390630,
-      "num": 1425687,
-      "word": "日本自卫队被曝正在向西南转移",
-      "onboard_time": 1764687623,
-      "rank": 6,
-      "category": "国内时政"
     },
     {
       "raw_hot": 388293,
@@ -1704,14 +1712,6 @@
       "word": "女子带孩子电影院占座被怒怼",
       "onboard_time": 1764471080,
       "rank": 13,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 363405,
-      "num": 363405,
-      "word": "蜜雪冰城 留守儿童",
-      "onboard_time": 1764686784,
-      "rank": 43,
       "category": "民生新闻"
     },
     {
@@ -2683,6 +2683,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 229984,
+      "num": 229984,
+      "word": "再熬八周",
+      "onboard_time": 1764684024,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 229942,
       "num": 211559,
       "word": "弦子李茂 老式婚姻具象化了",
@@ -3051,6 +3059,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 206113,
+      "num": 1549698,
+      "word": "Uzi邀请Wayward试训",
+      "onboard_time": 1764685285,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 205934,
       "num": 205934,
       "word": "马嘉祺小黑猫塑",
@@ -3096,14 +3112,6 @@
       "word": "Uzi上线吃瓜",
       "onboard_time": 1764574102,
       "rank": 42,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 204347,
-      "num": 1549698,
-      "word": "Uzi邀请Wayward试训",
-      "onboard_time": 1764685285,
-      "rank": 32,
       "category": "电竞"
     },
     {
@@ -3371,14 +3379,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 191434,
-      "num": 191434,
-      "word": "再熬八周",
-      "onboard_time": 1764684024,
-      "rank": 46,
-      "category": "情感"
-    },
-    {
       "raw_hot": 190292,
       "num": 190292,
       "word": "新音 三亚",
@@ -3617,6 +3617,14 @@
       "onboard_time": 1764662241,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 181669,
+      "num": 177381,
+      "word": "刘宇宁半夜胃疼疼醒了",
+      "onboard_time": 1764689961,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 181515,
@@ -4411,6 +4419,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 153226,
+      "num": 211569,
+      "word": "湖南一烧烤店被指直播煮猫爪",
+      "onboard_time": 1764686604,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 153176,
       "num": 922223,
       "word": "王者荣耀崩了",
@@ -4513,14 +4529,6 @@
       "onboard_time": 1764601582,
       "rank": 22,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 150978,
-      "num": 211569,
-      "word": "湖南一烧烤店被指直播煮猫爪",
-      "onboard_time": 1764686604,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 150937,
@@ -6075,6 +6083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118713,
+      "num": 118713,
+      "word": "普拉达正式收购范思哲",
+      "onboard_time": 1764689602,
+      "rank": 29,
+      "category": "海外新闻,时尚"
+    },
+    {
       "raw_hot": 118684,
       "num": 118684,
       "word": "女儿袋中虾漏剩2只父母幽默安慰",
@@ -7441,6 +7457,14 @@
       "onboard_time": 1764428424,
       "rank": 23,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95342,
+      "num": 95342,
+      "word": "汪东城 接委托",
+      "onboard_time": 1764690080,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 95235,
