@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764696604413,
+  "endTime": 1764697601303,
   "band_list": [
     {
       "raw_hot": 874607,
@@ -307,6 +307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64585,
+      "num": 61890,
+      "word": "大侦探11首案录制阵容",
+      "onboard_time": 1764695776,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 64196,
       "num": 64196,
       "word": "蓝盈莹在东北尝试走路用腰发力",
@@ -371,14 +379,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 56331,
-      "num": 56331,
-      "word": "大侦探11首案录制阵容",
-      "onboard_time": 1764695776,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 55567,
       "num": 55567,
       "word": "网传iG新阵容",
@@ -428,7 +428,7 @@
     },
     {
       "raw_hot": 41042,
-      "num": 81057,
+      "num": 134094,
       "word": "2025最具票房号召力女演员",
       "onboard_time": 1764695417,
       "rank": 13,
@@ -441,6 +441,14 @@
       "onboard_time": 1764687564,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 33745,
+      "num": 44169,
+      "word": "赵本山女儿说在努力还房贷",
+      "onboard_time": 1764697096,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 32383,
@@ -459,12 +467,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28716,
+      "raw_hot": 28813,
       "num": 45389,
       "word": "女子采蘑菇意外发现一窝动物幼崽",
       "onboard_time": 1764679762,
       "rank": 48,
       "category": "情感"
+    },
+    {
+      "raw_hot": 27362,
+      "num": 44093,
+      "word": "向太 50岁之前不要买豪车",
+      "onboard_time": 1764696856,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 19653,
