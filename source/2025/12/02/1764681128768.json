@@ -1,0 +1,410 @@
+{
+  "runTime": 1764681128768,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 738750,
+        "num": 1118200,
+        "word": "国家发社保补贴了",
+        "onboard_time": 1764679462,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151941,
+        "num": 567008,
+        "word": "国乒8比0智利",
+        "onboard_time": 1764678203,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63308,
+        "num": 332017,
+        "word": "zhe里太能装了",
+        "onboard_time": 1764671242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299026,
+        "num": 299026,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50639,
+        "num": 298889,
+        "word": "电竞点播台",
+        "onboard_time": 1764681083,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 905513,
+        "num": 298121,
+        "word": "朱亚文 反清",
+        "onboard_time": 1764679042,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 728657,
+        "num": 297729,
+        "word": "小米高管疑似集体遭遇短信轰炸",
+        "onboard_time": 1764678562,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 347348,
+        "num": 297183,
+        "word": "台湾一旦沦为战场什么都是空谈",
+        "onboard_time": 1764671661,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 198222,
+        "num": 297113,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 8,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 189723,
+        "num": 296687,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79939,
+        "num": 296019,
+        "word": "年度最具影响力游戏",
+        "onboard_time": 1764680782,
+        "rank": 10,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1132132,
+        "num": 295749,
+        "word": "妻子曝光丈夫生前出轨捉奸视频",
+        "onboard_time": 1764679462,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 443930,
+        "num": 294891,
+        "word": "阿凡达3首映",
+        "onboard_time": 1764678622,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 387730,
+        "num": 294476,
+        "word": "任嘉伦离了老公司全是新赛道",
+        "onboard_time": 1764676522,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 332102,
+        "num": 294399,
+        "word": "建议不要把肉汤倒进下水道",
+        "onboard_time": 1764674182,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 308930,
+        "num": 293810,
+        "word": "12306回应取消靠窗选座",
+        "onboard_time": 1764680483,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 293489,
+        "num": 293489,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 275802,
+        "num": 275802,
+        "word": "霸王茶姬出咖啡了",
+        "onboard_time": 1764672623,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 247971,
+        "num": 247971,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 18,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 62030,
+        "num": 221795,
+        "word": "吉利高管称百万银河只是起点",
+        "onboard_time": 1764679162,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 678404,
+        "num": 219524,
+        "word": "杨旭文 陈若琳",
+        "onboard_time": 1764673342,
+        "rank": 20,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 215777,
+        "num": 215777,
+        "word": "郑天浩 王梓莼",
+        "onboard_time": 1764669082,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 317693,
+        "num": 213283,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292961,
+        "num": 208496,
+        "word": "洽洽瓜子 洽洽瓜紫",
+        "onboard_time": 1764667762,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202019,
+        "num": 202019,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1764679823,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 201532,
+        "num": 201532,
+        "word": "枭起青壤 删减",
+        "onboard_time": 1764675682,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197503,
+        "num": 197503,
+        "word": "杨旭文方回应",
+        "onboard_time": 1764675022,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184126,
+        "num": 184126,
+        "word": "委内瑞拉",
+        "onboard_time": 1764680723,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174261,
+        "num": 174261,
+        "word": "疯狂动物城 初设尼克是个狐媚子",
+        "onboard_time": 1764678022,
+        "rank": 28,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169955,
+        "num": 169955,
+        "word": "汶川地震女孩17年后和施救军人结婚",
+        "onboard_time": 1764677543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 173693,
+        "num": 168302,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1764679281,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181946,
+        "num": 164791,
+        "word": "陈梦机车风",
+        "onboard_time": 1764680840,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157038,
+        "num": 157038,
+        "word": "南方人不许写sci的拼音",
+        "onboard_time": 1764673042,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 150780,
+        "num": 150780,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148827,
+        "num": 148827,
+        "word": "女子采蘑菇意外发现一窝动物幼崽",
+        "onboard_time": 1764679762,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 42670,
+        "num": 140906,
+        "word": "梁靖崑2比0戈麦斯",
+        "onboard_time": 1764679162,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 133806,
+        "num": 133806,
+        "word": "米卡全家都被中国圈粉了",
+        "onboard_time": 1764678983,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132664,
+        "num": 132664,
+        "word": "董事长因薪酬低反对自己当董事长",
+        "onboard_time": 1764678742,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131877,
+        "num": 131877,
+        "word": "卢昱晓完全是台偶女主",
+        "onboard_time": 1764676701,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16422,
+        "num": 129191,
+        "word": "妇幼医院用劣药仅处罚千元引质疑",
+        "onboard_time": 1764680603,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 33389,
+        "num": 129168,
+        "word": "王橹杰小提琴一出来像开净化了",
+        "onboard_time": 1764679881,
+        "rank": 40,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 129164,
+        "num": 129164,
+        "word": "王曼昱回应受伤后首场比赛",
+        "onboard_time": 1764680662,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128464,
+        "num": 128464,
+        "word": "央企合资插混N6上市9.19万起",
+        "onboard_time": 1764680782,
+        "rank": 42,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 126118,
+        "num": 126118,
+        "word": "王男直播",
+        "onboard_time": 1764677662,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 118456,
+        "num": 118456,
+        "word": "凤凰台上大结局",
+        "onboard_time": 1764679341,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118359,
+        "num": 118359,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 45,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116348,
+        "num": 116348,
+        "word": "张泽禹 大东北是我的家乡",
+        "onboard_time": 1764680723,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110900,
+        "num": 110900,
+        "word": "发现读研读博真的会影响性格",
+        "onboard_time": 1764677422,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 11668,
+        "num": 106357,
+        "word": "佘智江网赌发家装慈善侨商洗白",
+        "onboard_time": 1764679403,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102913,
+        "num": 102913,
+        "word": "王楚钦观赛表情亮了",
+        "onboard_time": 1764679943,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}
