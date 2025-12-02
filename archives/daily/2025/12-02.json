@@ -1,6 +1,6 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764654259263,
+  "endTime": 1764657722094,
   "band_list": [
     {
       "raw_hot": 1286220,
@@ -9,6 +9,14 @@
       "onboard_time": 1764646760,
       "rank": 10,
       "category": "情感"
+    },
+    {
+      "raw_hot": 1249933,
+      "num": 180995,
+      "word": "王梓莼 00花",
+      "onboard_time": 1764654082,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 1190318,
@@ -51,6 +59,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 657025,
+      "num": 180320,
+      "word": "业内曝大量艺人资源降级",
+      "onboard_time": 1764654323,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 651510,
       "num": 413620,
       "word": "陈赫王传君金世佳同框",
@@ -65,6 +81,22 @@
       "onboard_time": 1764638960,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 569563,
+      "num": 179689,
+      "word": "举报公职人员后喝农药店主已去世",
+      "onboard_time": 1764656841,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 560329,
+      "num": 286957,
+      "word": "桃黑黑14件事的澄清与回应",
+      "onboard_time": 1764640100,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 556640,
@@ -105,14 +137,6 @@
       "onboard_time": 1764647901,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 501068,
-      "num": 286957,
-      "word": "桃黑黑14件事的澄清与回应",
-      "onboard_time": 1764640100,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 484560,
@@ -227,6 +251,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 365595,
+      "num": 357722,
+      "word": "演员洪剑涛景区试戴帽子被要价5元",
+      "onboard_time": 1764652521,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 365253,
       "num": 1073115,
       "word": "iG 0等五",
@@ -241,14 +273,6 @@
       "onboard_time": 1764645860,
       "rank": 42,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 357722,
-      "num": 357722,
-      "word": "演员洪剑涛景区试戴帽子被要价5元",
-      "onboard_time": 1764652521,
-      "rank": 28,
-      "category": "艺人"
     },
     {
       "raw_hot": 354271,
@@ -371,6 +395,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 260799,
+      "num": 1054772,
+      "word": "家长吐槽一上小学就要买打印机",
+      "onboard_time": 1764651802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 257335,
       "num": 257335,
       "word": "疯狂动物城 三角恋",
@@ -459,14 +491,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 221128,
-      "num": 1054772,
-      "word": "家长吐槽一上小学就要买打印机",
-      "onboard_time": 1764651802,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 219050,
       "num": 219050,
       "word": "陈晓治好了我倍速看剧的毛病",
@@ -481,6 +505,14 @@
       "onboard_time": 1764651621,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 207484,
+      "num": 177553,
+      "word": "住客全季酒店洗完澡发现花洒有粪便",
+      "onboard_time": 1764657560,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 206285,
@@ -515,6 +547,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 201205,
+      "num": 177276,
+      "word": "护士疑扎针失误后被患者家属打伤",
+      "onboard_time": 1764655642,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 199018,
       "num": 199018,
       "word": "46岁高圆圆怼脸皮肤状态",
@@ -537,6 +577,14 @@
       "onboard_time": 1764648621,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193285,
+      "num": 193285,
+      "word": "凤凰台上假死重逢胜新婚",
+      "onboard_time": 1764654742,
+      "rank": 4,
+      "category": "剧集"
     },
     {
       "raw_hot": 189568,
@@ -571,6 +619,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 181310,
+      "num": 181310,
+      "word": "机构采购5台电脑预算写2.95亿",
+      "onboard_time": 1764651561,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 179520,
       "num": 55534,
       "word": "香港火灾女子拍门救4人自己遇难",
@@ -585,6 +641,14 @@
       "onboard_time": 1764649907,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 177217,
+      "num": 177217,
+      "word": "日本正武装菲律宾",
+      "onboard_time": 1764653300,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 176087,
@@ -609,6 +673,14 @@
       "onboard_time": 1764650183,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 173466,
+      "num": 173466,
+      "word": "2025十大流行语",
+      "onboard_time": 1764657440,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 172657,
@@ -683,6 +755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 152507,
+      "num": 152507,
+      "word": "重生之失业后被富婆老婆养",
+      "onboard_time": 1764655941,
+      "rank": 27,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 151931,
       "num": 403588,
       "word": "应届硕士偷偷参加国考",
@@ -731,6 +811,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 140793,
+      "num": 140793,
+      "word": "庾澄庆看何炅的表情让我一品再品",
+      "onboard_time": 1764657679,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 139684,
       "num": 139684,
       "word": "罗云熙同学聚会签名",
@@ -753,14 +841,6 @@
       "onboard_time": 1764641899,
       "rank": 34,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 137470,
-      "num": 137470,
-      "word": "王梓莼 00花",
-      "onboard_time": 1764654082,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 136752,
@@ -835,14 +915,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 128376,
-      "num": 128376,
-      "word": "日本正武装菲律宾",
-      "onboard_time": 1764653300,
-      "rank": 40,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 128266,
       "num": 128266,
       "word": "迪丽热巴你根本没喝中药",
@@ -875,6 +947,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 125421,
+      "num": 125421,
+      "word": "十个勤天种地DNA动了",
+      "onboard_time": 1764657620,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 124858,
       "num": 227086,
       "word": "李乃文疑似在大孤山当地陪",
@@ -889,6 +969,14 @@
       "onboard_time": 1764646101,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 123750,
+      "num": 123750,
+      "word": "英国女孩受不了医院预约飞中国看病",
+      "onboard_time": 1764655521,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 123324,
@@ -939,6 +1027,22 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 116970,
+      "num": 116970,
+      "word": "优质版衣服 普通版衣服",
+      "onboard_time": 1764654981,
+      "rank": 34,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 114339,
+      "num": 114339,
+      "word": "迪丽热巴侧颜",
+      "onboard_time": 1764656541,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 113008,
       "num": 228533,
       "word": "女子烫发4小时称出去透气后疑跑路",
@@ -953,6 +1057,22 @@
       "onboard_time": 1764637760,
       "rank": 35,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 110502,
+      "num": 110502,
+      "word": "肖战新电影好友包场",
+      "onboard_time": 1764656421,
+      "rank": 42,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 108997,
+      "num": 108997,
+      "word": "女儿偷偷回国打车发现老爸是司机",
+      "onboard_time": 1764654621,
+      "rank": 43,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 108689,
@@ -971,6 +1091,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 108063,
+      "num": 142725,
+      "word": "工作人员回应采购5台电脑预算2.95亿",
+      "onboard_time": 1764656241,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 107907,
       "num": 107907,
       "word": "疑避让路人遇难32岁司机有3个孩子",
@@ -985,6 +1113,14 @@
       "onboard_time": 1764649463,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 105434,
+      "num": 105434,
+      "word": "高市早苗再出狂言",
+      "onboard_time": 1764657560,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 104869,
@@ -1011,12 +1147,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 102252,
+      "num": 102252,
+      "word": "白鹿张凌赫参加星光大赏",
+      "onboard_time": 1764657020,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 101866,
       "num": 181923,
       "word": "以色列总统回应内塔尼亚胡赦免请求",
       "onboard_time": 1764648801,
       "rank": 44,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 99666,
+      "num": 99666,
+      "word": "Gala回复iG",
+      "onboard_time": 1764654681,
+      "rank": 46,
+      "category": "电竞"
     },
     {
       "raw_hot": 99379,
@@ -1067,20 +1219,20 @@
       "category": "演出"
     },
     {
+      "raw_hot": 95264,
+      "num": 109373,
+      "word": "恋与深空",
+      "onboard_time": 1764635301,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 93918,
       "num": 267256,
       "word": "印尼洪灾已致604人遇难",
       "onboard_time": 1764640159,
       "rank": 19,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 92586,
-      "num": 109373,
-      "word": "恋与深空",
-      "onboard_time": 1764635301,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 92559,
@@ -1107,20 +1259,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 90195,
-      "num": 116642,
-      "word": "机构采购5台电脑预算写2.95亿",
-      "onboard_time": 1764651561,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 89461,
       "num": 89461,
       "word": "日本已有组织计划弹劾高市早苗",
       "onboard_time": 1764643640,
       "rank": 48,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 86989,
+      "num": 114376,
+      "word": "刀疤哥因肠胃不适退赛",
+      "onboard_time": 1764657560,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85849,
@@ -1403,6 +1555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58342,
+      "num": 114472,
+      "word": "眼里有光满眼就都是光",
+      "onboard_time": 1764657679,
+      "rank": 37,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 57078,
       "num": 227693,
       "word": "内娱观众 如饥似渴",
@@ -1539,6 +1699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44964,
+      "num": 114347,
+      "word": "GALA无愧于ADC之名",
+      "onboard_time": 1764656960,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 44550,
       "num": 227019,
       "word": "中国男篮对阵韩国两连败",
@@ -1609,6 +1777,14 @@
       "onboard_time": 1764649522,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 40034,
+      "num": 178587,
+      "word": "千问上线阿里最强AI生图模型满血版",
+      "onboard_time": 1764655461,
+      "rank": 18,
+      "category": "互联网"
     },
     {
       "raw_hot": 39837,
@@ -1697,6 +1873,14 @@
       "onboard_time": 1764611115,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 25592,
+      "num": 178539,
+      "word": "孙正义称哭着卖出英伟达",
+      "onboard_time": 1764656780,
+      "rank": 19,
+      "category": "海外新闻,财经"
     },
     {
       "raw_hot": 24609,
@@ -1793,6 +1977,14 @@
       "onboard_time": 1764619934,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 11764,
+      "num": 111561,
+      "word": "广州着火后消防员现场解释着火原因",
+      "onboard_time": 1764657620,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11194,
