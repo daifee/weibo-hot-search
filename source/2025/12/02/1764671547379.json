@@ -1,0 +1,410 @@
+{
+  "runTime": 1764671547379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 970911,
+        "num": 1155345,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 171912,
+        "num": 1145897,
+        "word": "华为鸿蒙",
+        "onboard_time": 1764661460,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12385,
+        "num": 1056099,
+        "word": "zhe里太能装了",
+        "onboard_time": 1764671242,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 349527,
+        "num": 1004233,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 3,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134690,
+        "num": 922223,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1764664702,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1441994,
+        "num": 868012,
+        "word": "疯狂动物城 媚中",
+        "onboard_time": 1764665421,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 800186,
+        "num": 800186,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 344292,
+        "num": 344292,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 266439,
+        "num": 266439,
+        "word": "全球目前有7例艾滋病治愈者",
+        "onboard_time": 1764664402,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126801,
+        "num": 264253,
+        "word": "一诺广西东兰之旅",
+        "onboard_time": 1764671242,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 543532,
+        "num": 259911,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 10,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 427575,
+        "num": 257806,
+        "word": "温峥嵘删除声明",
+        "onboard_time": 1764668241,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 424926,
+        "num": 252211,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 12,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 83267,
+        "num": 248397,
+        "word": "WBG多位教练官宣离队",
+        "onboard_time": 1764670702,
+        "rank": 13,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 349036,
+        "num": 244116,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346029,
+        "num": 240559,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 15,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 285046,
+        "num": 236261,
+        "word": "超绝羊副市长",
+        "onboard_time": 1764666262,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 235385,
+        "num": 235385,
+        "word": "陈赫杜江是在学郑恺苗苗吗",
+        "onboard_time": 1764668722,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74982,
+        "num": 234255,
+        "word": "AI什么邪门CP都嗑得下",
+        "onboard_time": 1764670282,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 100467,
+        "num": 231306,
+        "word": "美团给骑手小哥发不闯红灯奖",
+        "onboard_time": 1764669861,
+        "rank": 19,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 751507,
+        "num": 228699,
+        "word": "洽洽瓜子 洽洽瓜紫",
+        "onboard_time": 1764667762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 544045,
+        "num": 224684,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526797,
+        "num": 223241,
+        "word": "马斯克官宣高管女友",
+        "onboard_time": 1764666502,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 320654,
+        "num": 218811,
+        "word": "郑天浩 王梓莼",
+        "onboard_time": 1764669082,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 318839,
+        "num": 217232,
+        "word": "Duro被大学退学",
+        "onboard_time": 1764667342,
+        "rank": 24,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 214274,
+        "num": 214274,
+        "word": "老爹站",
+        "onboard_time": 1764667881,
+        "rank": 25,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 209485,
+        "num": 209485,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 26,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 177841,
+        "num": 177841,
+        "word": "宁波手术离世女婴家属再发声",
+        "onboard_time": 1764661523,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95124,
+        "num": 168283,
+        "word": "男子因吸毒5年内3次被查处",
+        "onboard_time": 1764661582,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80030,
+        "num": 166455,
+        "word": "官方回应女婴手术离世家属质疑",
+        "onboard_time": 1764667881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10892,
+        "num": 148379,
+        "word": "高质量发展故事汇",
+        "onboard_time": 1764671062,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69145,
+        "num": 145353,
+        "word": "警方就大埔火灾已拘捕15人",
+        "onboard_time": 1764669261,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136524,
+        "num": 136524,
+        "word": "刘耀文高会更新",
+        "onboard_time": 1764668842,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131382,
+        "num": 131382,
+        "word": "菲律宾日本军演用中国品牌电脑",
+        "onboard_time": 1764669381,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 116236,
+        "num": 116236,
+        "word": "李沁包场得闲谨制",
+        "onboard_time": 1764667943,
+        "rank": 34,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 113851,
+        "num": 113851,
+        "word": "日本被曝正在研发万能型血浆",
+        "onboard_time": 1764663082,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113363,
+        "num": 113363,
+        "word": "新音 三亚",
+        "onboard_time": 1764665001,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 107359,
+        "num": 107359,
+        "word": "再也不敢侧躺着睡觉了",
+        "onboard_time": 1764668542,
+        "rank": 37,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 26702,
+        "num": 106171,
+        "word": "敖瑞鹏你有对手了",
+        "onboard_time": 1764670823,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37212,
+        "num": 105572,
+        "word": "多所高校买房爆改学生宿舍",
+        "onboard_time": 1764671062,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105365,
+        "num": 105365,
+        "word": "刘诗诗喜欢labubu 因为拉步步",
+        "onboard_time": 1764670221,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100166,
+        "num": 100166,
+        "word": "曾经很火但逐渐消失的APP",
+        "onboard_time": 1764667161,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 94261,
+        "num": 94261,
+        "word": "徐璐唯一受过的苦就是男人的苦",
+        "onboard_time": 1764658820,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92478,
+        "num": 92478,
+        "word": "发朋友圈 羞耻感",
+        "onboard_time": 1764650122,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 90993,
+        "num": 90993,
+        "word": "三星和华为三折叠手机有明显区别",
+        "onboard_time": 1764670823,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 33163,
+        "num": 90367,
+        "word": "刷1条视频上百个集装箱出海了",
+        "onboard_time": 1764649522,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90332,
+        "num": 90332,
+        "word": "声生不息评分高不是没原因的",
+        "onboard_time": 1764669803,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 87864,
+        "num": 87864,
+        "word": "我就这么窝窝囊囊地过一辈子",
+        "onboard_time": 1764671362,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 62947,
+        "num": 87551,
+        "word": "美国不说话让日本感到慌张",
+        "onboard_time": 1764669921,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 72463,
+        "num": 87370,
+        "word": "朱志鑫这图也太生了",
+        "onboard_time": 1764669141,
+        "rank": 49,
+        "category": "作品衍生"
+      }
+    ],
+    "hotgov": {
+      "word": "#接续推进中国式现代化#"
+    }
+  }
+}

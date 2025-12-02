@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764668894821,
+  "endTime": 1764671547379,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -339,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 970911,
+      "num": 1155345,
+      "word": "香港火灾已造成156人遇难",
+      "onboard_time": 1764667221,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 951929,
       "num": 1093962,
       "word": "外卖大战6个月烧掉近800亿",
@@ -451,12 +459,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 740375,
-      "num": 1118460,
-      "word": "香港火灾已造成156人遇难",
-      "onboard_time": 1764667221,
-      "rank": 8,
-      "category": "民生新闻"
+      "raw_hot": 751507,
+      "num": 282031,
+      "word": "洽洽瓜子 洽洽瓜紫",
+      "onboard_time": 1764667762,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 740179,
@@ -604,7 +612,7 @@
     },
     {
       "raw_hot": 621943,
-      "num": 197751,
+      "num": 223241,
       "word": "马斯克官宣高管女友",
       "onboard_time": 1764666502,
       "rank": 21,
@@ -811,8 +819,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 543532,
+      "num": 259911,
+      "word": "刘亦菲 我没有遗传到位",
+      "onboard_time": 1764670282,
+      "rank": 10,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 541522,
-      "num": 497490,
+      "num": 1004233,
       "word": "中方回应日本团体请求访华",
       "onboard_time": 1764664042,
       "rank": 9,
@@ -1155,6 +1171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 427575,
+      "num": 257806,
+      "word": "温峥嵘删除声明",
+      "onboard_time": 1764668241,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 426437,
       "num": 245217,
       "word": "袁湘琴骑车去二中接孩子逆行",
@@ -1185,6 +1209,14 @@
       "onboard_time": 1764470180,
       "rank": 7,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 424926,
+      "num": 252211,
+      "word": "断崖式衰老一般发生在几岁",
+      "onboard_time": 1764668301,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 424595,
@@ -1739,6 +1771,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 320654,
+      "num": 218811,
+      "word": "郑天浩 王梓莼",
+      "onboard_time": 1764669082,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 318839,
+      "num": 217232,
+      "word": "Duro被大学退学",
+      "onboard_time": 1764667342,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 318526,
       "num": 318526,
       "word": "早产男婴出保温箱离世母亲再发声",
@@ -1891,14 +1939,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 298751,
-      "num": 163774,
-      "word": "Duro被大学退学",
-      "onboard_time": 1764667342,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 297279,
       "num": 297279,
       "word": "曝iPhone折叠屏手机无折痕",
@@ -2041,14 +2081,6 @@
       "onboard_time": 1764561801,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 282031,
-      "num": 282031,
-      "word": "洽洽瓜子 洽洽瓜紫",
-      "onboard_time": 1764667762,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 281960,
@@ -2212,7 +2244,7 @@
     },
     {
       "raw_hot": 258722,
-      "num": 1111361,
+      "num": 1145897,
       "word": "华为鸿蒙",
       "onboard_time": 1764661460,
       "rank": 1,
@@ -2345,6 +2377,14 @@
       "onboard_time": 1764476180,
       "rank": 24,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 235385,
+      "num": 235385,
+      "word": "陈赫杜江是在学郑恺苗苗吗",
+      "onboard_time": 1764668722,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 234626,
@@ -2531,14 +2571,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 218939,
-      "num": 218939,
-      "word": "温峥嵘删除声明",
-      "onboard_time": 1764668241,
-      "rank": 16,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 218342,
       "num": 205245,
       "word": "假奶粉",
@@ -2593,6 +2625,14 @@
       "onboard_time": 1764479542,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214274,
+      "num": 214274,
+      "word": "老爹站",
+      "onboard_time": 1764667881,
+      "rank": 28,
+      "category": "游戏,网红"
     },
     {
       "raw_hot": 214197,
@@ -3081,14 +3121,6 @@
       "onboard_time": 1764462499,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 188177,
-      "num": 188177,
-      "word": "断崖式衰老一般发生在几岁",
-      "onboard_time": 1764668301,
-      "rank": 25,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 187879,
@@ -3667,14 +3699,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 162960,
-      "num": 162960,
-      "word": "老爹站",
-      "onboard_time": 1764667881,
-      "rank": 28,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 162204,
       "num": 227258,
       "word": "SofM以选手身份复出",
@@ -3980,7 +4004,7 @@
     },
     {
       "raw_hot": 153176,
-      "num": 153176,
+      "num": 922223,
       "word": "王者荣耀崩了",
       "onboard_time": 1764664702,
       "rank": 47,
@@ -4531,6 +4555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 136524,
+      "num": 136524,
+      "word": "刘耀文高会更新",
+      "onboard_time": 1764668842,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 136465,
       "num": 473197,
       "word": "恋与深空新日卡再度双榜登顶",
@@ -4745,6 +4777,14 @@
       "onboard_time": 1764572842,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131382,
+      "num": 131382,
+      "word": "菲律宾日本军演用中国品牌电脑",
+      "onboard_time": 1764669381,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 131380,
@@ -4963,6 +5003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 126801,
+      "num": 264253,
+      "word": "一诺广西东兰之旅",
+      "onboard_time": 1764671242,
+      "rank": 9,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 126756,
       "num": 126756,
       "word": "刘少昂世巡赛1000米摘银",
@@ -5137,14 +5185,6 @@
       "onboard_time": 1764598643,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 122831,
-      "num": 122831,
-      "word": "刘耀文高会更新",
-      "onboard_time": 1764668842,
-      "rank": 43,
-      "category": "艺人"
     },
     {
       "raw_hot": 122776,
@@ -6091,6 +6131,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 105365,
+      "num": 105365,
+      "word": "刘诗诗喜欢labubu 因为拉步步",
+      "onboard_time": 1764670221,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 105319,
       "num": 105319,
       "word": "苗梦初 野心家",
@@ -6313,6 +6361,14 @@
       "onboard_time": 1764592582,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100467,
+      "num": 231306,
+      "word": "美团给骑手小哥发不闯红灯奖",
+      "onboard_time": 1764669861,
+      "rank": 19,
+      "category": "互联网"
     },
     {
       "raw_hot": 100247,
@@ -6779,6 +6835,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 90993,
+      "num": 90993,
+      "word": "三星和华为三折叠手机有明显区别",
+      "onboard_time": 1764670823,
+      "rank": 44,
+      "category": "数码"
+    },
+    {
       "raw_hot": 90534,
       "num": 90534,
       "word": "心疼普拉斯",
@@ -6801,6 +6865,14 @@
       "onboard_time": 1764508521,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90332,
+      "num": 90332,
+      "word": "声生不息评分高不是没原因的",
+      "onboard_time": 1764669803,
+      "rank": 46,
+      "category": "综艺"
     },
     {
       "raw_hot": 90321,
@@ -6937,6 +7009,14 @@
       "onboard_time": 1764432862,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 87864,
+      "num": 87864,
+      "word": "我就这么窝窝囊囊地过一辈子",
+      "onboard_time": 1764671362,
+      "rank": 47,
+      "category": "情感"
     },
     {
       "raw_hot": 87825,
@@ -7179,6 +7259,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83267,
+      "num": 248397,
+      "word": "WBG多位教练官宣离队",
+      "onboard_time": 1764670702,
+      "rank": 13,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 83257,
       "num": 83257,
       "word": "12306回应高铁特等座包间像会议室",
@@ -7331,6 +7419,14 @@
       "category": "财经,海外新闻"
     },
     {
+      "raw_hot": 80030,
+      "num": 166455,
+      "word": "官方回应女婴手术离世家属质疑",
+      "onboard_time": 1764667881,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 79547,
       "num": 79547,
       "word": "农村小土狗第一次有了自己的狗窝",
@@ -7459,14 +7555,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 76693,
-      "num": 164214,
-      "word": "官方回应女婴手术离世家属质疑",
-      "onboard_time": 1764667881,
-      "rank": 49,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 76461,
       "num": 130383,
       "word": "张婧仪厂妹学习中",
@@ -7547,6 +7635,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 74982,
+      "num": 234255,
+      "word": "AI什么邪门CP都嗑得下",
+      "onboard_time": 1764670282,
+      "rank": 18,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 74772,
       "num": 74772,
       "word": "炎拓 面是热热的心也是热热的",
@@ -7609,6 +7705,14 @@
       "onboard_time": 1764561682,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 72463,
+      "num": 87370,
+      "word": "朱志鑫这图也太生了",
+      "onboard_time": 1764669141,
+      "rank": 49,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 72235,
@@ -7697,6 +7801,14 @@
       "onboard_time": 1764505521,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 69145,
+      "num": 145353,
+      "word": "警方就大埔火灾已拘捕15人",
+      "onboard_time": 1764669261,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 69121,
@@ -7843,19 +7955,19 @@
       "category": "体育"
     },
     {
-      "raw_hot": 63172,
-      "num": 124718,
-      "word": "陈赫杜江是在学郑恺苗苗吗",
-      "onboard_time": 1764668722,
-      "rank": 39,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 63080,
       "num": 121680,
       "word": "金正恩称朝空军将装备新战略军事资产",
       "onboard_time": 1764490700,
       "rank": 39,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 62947,
+      "num": 87551,
+      "word": "美国不说话让日本感到慌张",
+      "onboard_time": 1764669921,
+      "rank": 48,
       "category": "国际时政"
     },
     {
@@ -8675,6 +8787,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 37212,
+      "num": 105572,
+      "word": "多所高校买房爆改学生宿舍",
+      "onboard_time": 1764671062,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 36985,
       "num": 137124,
       "word": "深圳望郎归80天内3人徒步遇难",
@@ -8953,6 +9073,14 @@
       "onboard_time": 1764560961,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26702,
+      "num": 106171,
+      "word": "敖瑞鹏你有对手了",
+      "onboard_time": 1764670823,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26540,
@@ -9347,6 +9475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 12385,
+      "num": 1056099,
+      "word": "zhe里太能装了",
+      "onboard_time": 1764671242,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12208,
       "num": 127097,
       "word": "武契奇回应美制裁塞石油工业公司",
@@ -9401,6 +9537,14 @@
       "onboard_time": 1764615914,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10892,
+      "num": 148379,
+      "word": "高质量发展故事汇",
+      "onboard_time": 1764671062,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 10354,
@@ -9461,6 +9605,9 @@
     },
     {
       "word": "#总书记关心的这件事和你我息息相关#"
+    },
+    {
+      "word": "#接续推进中国式现代化#"
     }
   ]
 }
