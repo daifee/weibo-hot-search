@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764674827379,
+  "endTime": 1764675682102,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -1067,6 +1067,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458783,
+      "num": 256127,
+      "word": "霸王茶姬出咖啡了",
+      "onboard_time": 1764672623,
+      "rank": 13,
+      "category": "美食"
+    },
+    {
       "raw_hot": 458428,
       "num": 458428,
       "word": "疯狂动物城2票房",
@@ -1139,12 +1147,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 437136,
+      "num": 218805,
+      "word": "杨旭文方回应",
+      "onboard_time": 1764675022,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 434499,
       "num": 199771,
       "word": "暨南大学 学生宿舍装安检",
       "onboard_time": 1764515601,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 434380,
+      "num": 234455,
+      "word": "美总统凌晨3点或发表重大声明",
+      "onboard_time": 1764674002,
+      "rank": 30,
+      "category": "国际时政"
     },
     {
       "raw_hot": 433286,
@@ -1563,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 360776,
-      "num": 256127,
-      "word": "霸王茶姬出咖啡了",
-      "onboard_time": 1764672623,
-      "rank": 13,
-      "category": "美食"
-    },
-    {
       "raw_hot": 360185,
       "num": 318254,
       "word": "重度恐猫症",
@@ -1649,6 +1665,14 @@
       "onboard_time": 1764555861,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 340632,
+      "num": 225203,
+      "word": "建议不要把肉汤倒进下水道",
+      "onboard_time": 1764674182,
+      "rank": 34,
+      "category": "幽默"
     },
     {
       "raw_hot": 336922,
@@ -2539,14 +2563,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 223585,
-      "num": 124121,
-      "word": "美总统凌晨3点或发表重大声明",
-      "onboard_time": 1764674002,
-      "rank": 30,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 222823,
       "num": 222823,
       "word": "中国女足0比8英格兰女足",
@@ -2865,6 +2881,14 @@
       "onboard_time": 1764574102,
       "rank": 42,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 204233,
+      "num": 204233,
+      "word": "南方人不许写sci的拼音",
+      "onboard_time": 1764673042,
+      "rank": 31,
+      "category": "幽默"
     },
     {
       "raw_hot": 204128,
@@ -3195,14 +3219,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186758,
-      "num": 123937,
-      "word": "南方人不许写sci的拼音",
-      "onboard_time": 1764673042,
-      "rank": 31,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 186493,
       "num": 289506,
       "word": "地枭多疑但实在好骗",
@@ -3233,6 +3249,14 @@
       "onboard_time": 1764561862,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184180,
+      "num": 250641,
+      "word": "张本智和向对手解释比心手势",
+      "onboard_time": 1764673222,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 184179,
@@ -3713,14 +3737,6 @@
       "onboard_time": 1764490220,
       "rank": 28,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 165496,
-      "num": 123320,
-      "word": "建议不要把肉汤倒进下水道",
-      "onboard_time": 1764674182,
-      "rank": 34,
-      "category": "幽默"
     },
     {
       "raw_hot": 165305,
@@ -5011,6 +5027,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128037,
+      "num": 128037,
+      "word": "疑似李飞早就深入一代粉圈",
+      "onboard_time": 1764671783,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 127754,
       "num": 127754,
       "word": "中国男篮 练投篮",
@@ -5529,14 +5553,6 @@
       "onboard_time": 1764497423,
       "rank": 9,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 120013,
-      "num": 120013,
-      "word": "疑似李飞早就深入一代粉圈",
-      "onboard_time": 1764671783,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 119828,
@@ -6075,6 +6091,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109787,
+      "num": 109787,
+      "word": "被王者语音害惨了",
+      "onboard_time": 1764675261,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 109709,
       "num": 142608,
       "word": "村民用了多年的垫脚石竟是恐龙化石",
@@ -6507,6 +6531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101697,
+      "num": 101697,
+      "word": "爱泼斯坦私人飞机内部设施曝光",
+      "onboard_time": 1764675623,
+      "rank": 44,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 101503,
       "num": 101503,
       "word": "U17国足vs孟加拉国U17",
@@ -6625,6 +6657,14 @@
       "onboard_time": 1764502102,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 98551,
+      "num": 112299,
+      "word": "云南一地群内统计儿童母亲月经时间",
+      "onboard_time": 1764673403,
+      "rank": 43,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98476,
@@ -6867,6 +6907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 93950,
+      "num": 93950,
+      "word": "卫健部门回应群内统计末次月经时间",
+      "onboard_time": 1764675502,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93918,
       "num": 267256,
       "word": "印尼洪灾已致604人遇难",
@@ -6947,14 +6995,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 92289,
-      "num": 250641,
-      "word": "张本智和向对手解释比心手势",
-      "onboard_time": 1764673222,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 92131,
       "num": 92131,
       "word": "迪丽热巴的打戏像开了二倍速",
@@ -7009,6 +7049,14 @@
       "onboard_time": 1764670823,
       "rank": 44,
       "category": "数码"
+    },
+    {
+      "raw_hot": 90764,
+      "num": 90764,
+      "word": "国乒vs智利",
+      "onboard_time": 1764675382,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 90534,
@@ -7235,6 +7283,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 86225,
+      "num": 256060,
+      "word": "王曼昱梁靖崑出战单打",
+      "onboard_time": 1764675084,
+      "rank": 8,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86173,
       "num": 148219,
       "word": "日本朝野磨刀霍霍",
@@ -7457,6 +7513,14 @@
       "onboard_time": 1764420861,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 83138,
+      "num": 182250,
+      "word": "农行保安因视线遮挡未发现男子遭抢",
+      "onboard_time": 1764673462,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83033,
@@ -7971,14 +8035,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 69328,
-      "num": 112299,
-      "word": "云南一地群内统计儿童母亲月经时间",
-      "onboard_time": 1764673403,
-      "rank": 43,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 69223,
       "num": 73373,
       "word": "U17亚洲杯",
@@ -8001,6 +8057,14 @@
       "onboard_time": 1764638779,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68988,
+      "num": 120810,
+      "word": "冲绳向高市政府提交请愿书",
+      "onboard_time": 1764674601,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68958,
@@ -8424,14 +8488,6 @@
       "word": "免费职业技能夜校几乎期期爆满",
       "onboard_time": 1764527595,
       "rank": 47,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55118,
-      "num": 182250,
-      "word": "农行保安因视线遮挡未发现男子遭抢",
-      "onboard_time": 1764673462,
-      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -8923,6 +8979,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41205,
+      "num": 108664,
+      "word": "成毅长安二十四计repo",
+      "onboard_time": 1764675502,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 41128,
       "num": 269869,
       "word": "林诗栋蒯曼vs博格斯维加",
@@ -8985,6 +9049,14 @@
       "onboard_time": 1764524115,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 38914,
+      "num": 221811,
+      "word": "作者称作品遭大学生抄袭获一等奖",
+      "onboard_time": 1764674722,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38711,
@@ -9099,6 +9171,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 34570,
+      "num": 250207,
+      "word": "那曲发生4.9级地震",
+      "onboard_time": 1764674963,
+      "rank": 9,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 34567,
       "num": 286673,
       "word": "上马赛后如何进行营养恢复",
@@ -9115,6 +9195,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 34230,
+      "num": 120343,
+      "word": "入室抢婴案被害人母亲担心凶手报复",
+      "onboard_time": 1764674301,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33577,
       "num": 42127,
       "word": "可能创下吉尼斯最快脱袜纪录",
@@ -9129,14 +9217,6 @@
       "onboard_time": 1764646340,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 33470,
-      "num": 120810,
-      "word": "冲绳向高市政府提交请愿书",
-      "onboard_time": 1764674601,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 32389,
@@ -9329,14 +9409,6 @@
       "onboard_time": 1764611115,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 25833,
-      "num": 123649,
-      "word": "作者称作品遭大学生抄袭获一等奖",
-      "onboard_time": 1764674722,
-      "rank": 32,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25456,
@@ -9547,12 +9619,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 20224,
+      "raw_hot": 20317,
       "num": 468013,
       "word": "高质量发展故事汇",
       "onboard_time": 1764671062,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 20121,
+      "num": 120363,
+      "word": "男子通过外卖找到妻子打赏的男主播",
+      "onboard_time": 1764674541,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 19113,
@@ -9627,14 +9707,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16544,
-      "num": 120343,
-      "word": "入室抢婴案被害人母亲担心凶手报复",
-      "onboard_time": 1764674301,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 16515,
       "num": 153942,
       "word": "台海鲲号被爆无锚海试",
@@ -9656,6 +9728,14 @@
       "word": "大连暖气管爆裂事故致1死1伤",
       "onboard_time": 1764654202,
       "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15909,
+      "num": 222681,
+      "word": "去世女硕士驻村干部好友发声",
+      "onboard_time": 1764674842,
+      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -9785,14 +9865,6 @@
       "onboard_time": 1764578963,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11248,
-      "num": 120363,
-      "word": "男子通过外卖找到妻子打赏的男主播",
-      "onboard_time": 1764674541,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 11194,

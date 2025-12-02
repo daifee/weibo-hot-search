@@ -1,0 +1,410 @@
+{
+  "runTime": 1764675682102,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 831774,
+        "num": 1133083,
+        "word": "台湾一旦沦为战场什么都是空谈",
+        "onboard_time": 1764671661,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 128496,
+        "num": 601614,
+        "word": "华为鸿蒙",
+        "onboard_time": 1764661460,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 20317,
+        "num": 354183,
+        "word": "高质量发展故事汇",
+        "onboard_time": 1764671062,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 276616,
+        "num": 276616,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 3,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 124198,
+        "num": 264458,
+        "word": "韩国8比0美国",
+        "onboard_time": 1764672562,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386386,
+        "num": 263908,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262145,
+        "num": 262145,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 213890,
+        "num": 260423,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 86225,
+        "num": 256060,
+        "word": "王曼昱梁靖崑出战单打",
+        "onboard_time": 1764675084,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34570,
+        "num": 250207,
+        "word": "那曲发生4.9级地震",
+        "onboard_time": 1764674963,
+        "rank": 9,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 860494,
+        "num": 247019,
+        "word": "疯狂动物城 媚中",
+        "onboard_time": 1764665421,
+        "rank": 10,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 527444,
+        "num": 241349,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 458783,
+        "num": 236922,
+        "word": "霸王茶姬出咖啡了",
+        "onboard_time": 1764672623,
+        "rank": 12,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 434380,
+        "num": 234455,
+        "word": "美总统凌晨3点或发表重大声明",
+        "onboard_time": 1764674002,
+        "rank": 13,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 366625,
+        "num": 231770,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 14,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 340632,
+        "num": 225203,
+        "word": "建议不要把肉汤倒进下水道",
+        "onboard_time": 1764674182,
+        "rank": 15,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 224207,
+        "num": 224207,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1392743,
+        "num": 223301,
+        "word": "杨旭文 陈若琳",
+        "onboard_time": 1764673342,
+        "rank": 17,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 15909,
+        "num": 222681,
+        "word": "去世女硕士驻村干部好友发声",
+        "onboard_time": 1764674842,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 38914,
+        "num": 221811,
+        "word": "作者称作品遭大学生抄袭获一等奖",
+        "onboard_time": 1764674722,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 809833,
+        "num": 221183,
+        "word": "洽洽瓜子 洽洽瓜紫",
+        "onboard_time": 1764667762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 360418,
+        "num": 220179,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 437136,
+        "num": 218805,
+        "word": "杨旭文方回应",
+        "onboard_time": 1764675022,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240452,
+        "num": 218395,
+        "word": "马斯克官宣高管女友",
+        "onboard_time": 1764666502,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 217821,
+        "num": 217821,
+        "word": "郑天浩 王梓莼",
+        "onboard_time": 1764669082,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 214406,
+        "num": 214406,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 25,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 204233,
+        "num": 204233,
+        "word": "南方人不许写sci的拼音",
+        "onboard_time": 1764673042,
+        "rank": 26,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184180,
+        "num": 184180,
+        "word": "张本智和向对手解释比心手势",
+        "onboard_time": 1764673222,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 193371,
+        "num": 183890,
+        "word": "全球目前有7例艾滋病治愈者",
+        "onboard_time": 1764664402,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 183211,
+        "num": 183211,
+        "word": "85花大花都没来",
+        "onboard_time": 1764671722,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 162378,
+        "num": 162378,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 30,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 128037,
+        "num": 128037,
+        "word": "疑似李飞早就深入一代粉圈",
+        "onboard_time": 1764671783,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125136,
+        "num": 125136,
+        "word": "小猫确认了好几遍是不是妈妈",
+        "onboard_time": 1764671961,
+        "rank": 32,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 124623,
+        "num": 124623,
+        "word": "温峥嵘删除声明",
+        "onboard_time": 1764668241,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111981,
+        "num": 111981,
+        "word": "莫拉娱乐",
+        "onboard_time": 1764673161,
+        "rank": 34,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 110916,
+        "num": 110916,
+        "word": "超绝羊副市长",
+        "onboard_time": 1764666262,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 109787,
+        "num": 109787,
+        "word": "被王者语音害惨了",
+        "onboard_time": 1764675261,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 68988,
+        "num": 109145,
+        "word": "冲绳向高市政府提交请愿书",
+        "onboard_time": 1764674601,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 20121,
+        "num": 108855,
+        "word": "男子通过外卖找到妻子打赏的男主播",
+        "onboard_time": 1764674541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 41205,
+        "num": 108664,
+        "word": "成毅长安二十四计repo",
+        "onboard_time": 1764675502,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108658,
+        "num": 108658,
+        "word": "老爹站",
+        "onboard_time": 1764667881,
+        "rank": 40,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 83138,
+        "num": 105604,
+        "word": "农行保安因视线遮挡未发现男子遭抢",
+        "onboard_time": 1764673462,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104310,
+        "num": 104310,
+        "word": "女儿袋中虾漏剩2只父母幽默安慰",
+        "onboard_time": 1764672623,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34230,
+        "num": 102842,
+        "word": "入室抢婴案被害人母亲担心凶手报复",
+        "onboard_time": 1764674301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101697,
+        "num": 101697,
+        "word": "爱泼斯坦私人飞机内部设施曝光",
+        "onboard_time": 1764675623,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98551,
+        "num": 98551,
+        "word": "云南一地群内统计儿童母亲月经时间",
+        "onboard_time": 1764673403,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97808,
+        "num": 97808,
+        "word": "Duro被大学退学",
+        "onboard_time": 1764667342,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 93950,
+        "num": 93950,
+        "word": "卫健部门回应群内统计末次月经时间",
+        "onboard_time": 1764675502,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93263,
+        "num": 93263,
+        "word": "枭起青壤",
+        "onboard_time": 1764673283,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 90764,
+        "num": 90764,
+        "word": "国乒vs智利",
+        "onboard_time": 1764675382,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}
