@@ -1,0 +1,410 @@
+{
+  "runTime": 1764668894821,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 740375,
+        "num": 1118460,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177410,
+        "num": 644140,
+        "word": "华为鸿蒙",
+        "onboard_time": 1764661460,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 40856,
+        "num": 604546,
+        "word": "刷1条视频上百个集装箱出海了",
+        "onboard_time": 1764649522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1848515,
+        "num": 602276,
+        "word": "疯狂动物城 媚中",
+        "onboard_time": 1764665421,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 592032,
+        "num": 592032,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 4,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 1052281,
+        "num": 550340,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 478403,
+        "num": 478403,
+        "word": "全球目前有7例艾滋病治愈者",
+        "onboard_time": 1764664402,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 414165,
+        "num": 477266,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 77159,
+        "num": 476405,
+        "word": "罗永浩谈三星三折叠",
+        "onboard_time": 1764650062,
+        "rank": 8,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113494,
+        "num": 473197,
+        "word": "恋与深空新日卡再度双榜登顶",
+        "onboard_time": 1764666561,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 499070,
+        "num": 471524,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 470708,
+        "num": 470708,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 450429,
+        "num": 450429,
+        "word": "超绝羊副市长",
+        "onboard_time": 1764666262,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 285702,
+        "num": 285702,
+        "word": "发朋友圈 羞耻感",
+        "onboard_time": 1764650122,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 282031,
+        "num": 282031,
+        "word": "洽洽瓜子 洽洽瓜紫",
+        "onboard_time": 1764667762,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 276406,
+        "num": 276406,
+        "word": "向佐风格大变",
+        "onboard_time": 1764660862,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218939,
+        "num": 218939,
+        "word": "温峥嵘删除声明",
+        "onboard_time": 1764668241,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 249842,
+        "num": 217530,
+        "word": "宁波手术离世女婴家属再发声",
+        "onboard_time": 1764661523,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 212329,
+        "num": 212329,
+        "word": "不二之臣双人海报",
+        "onboard_time": 1764663562,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 40691,
+        "num": 210484,
+        "word": "万里远征插混第一车",
+        "onboard_time": 1764665181,
+        "rank": 19,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 953594,
+        "num": 204732,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 621943,
+        "num": 197136,
+        "word": "马斯克官宣高管女友",
+        "onboard_time": 1764666502,
+        "rank": 21,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 296987,
+        "num": 194214,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 22,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 191965,
+        "num": 191965,
+        "word": "徐璐唯一受过的苦就是男人的苦",
+        "onboard_time": 1764658820,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94568,
+        "num": 189749,
+        "word": "恋与深空登顶福利",
+        "onboard_time": 1764665301,
+        "rank": 24,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 188177,
+        "num": 188177,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 187591,
+        "num": 187591,
+        "word": "新音 三亚",
+        "onboard_time": 1764665001,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172998,
+        "num": 172998,
+        "word": "日本被曝正在研发万能型血浆",
+        "onboard_time": 1764663082,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91677,
+        "num": 166811,
+        "word": "男子因吸毒5年内3次被查处",
+        "onboard_time": 1764661582,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72440,
+        "num": 164214,
+        "word": "官方回应女婴手术离世家属质疑",
+        "onboard_time": 1764667881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 298751,
+        "num": 163774,
+        "word": "Duro被大学退学",
+        "onboard_time": 1764667342,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 162960,
+        "num": 162960,
+        "word": "老爹站",
+        "onboard_time": 1764667881,
+        "rank": 31,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 151628,
+        "num": 151628,
+        "word": "王梓莼 你一定是会被骂",
+        "onboard_time": 1764662842,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135264,
+        "num": 135264,
+        "word": "减肥的逻辑 欲望转移",
+        "onboard_time": 1764668062,
+        "rank": 33,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 127263,
+        "num": 127263,
+        "word": "再也不敢侧躺着睡觉了",
+        "onboard_time": 1764668542,
+        "rank": 34,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 126302,
+        "num": 126302,
+        "word": "李沁包场得闲谨制",
+        "onboard_time": 1764667943,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 69853,
+        "num": 125939,
+        "word": "A股缩量2805亿",
+        "onboard_time": 1764668542,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 23558,
+        "num": 125602,
+        "word": "日本酒店业者呼吁政府维系日中友好",
+        "onboard_time": 1764668122,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125585,
+        "num": 125585,
+        "word": "住客全季酒店洗完澡发现花洒有粪便",
+        "onboard_time": 1764657560,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63172,
+        "num": 124718,
+        "word": "陈赫杜江是在学郑恺苗苗吗",
+        "onboard_time": 1764668722,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124152,
+        "num": 124152,
+        "word": "曾经很火但逐渐消失的APP",
+        "onboard_time": 1764667161,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 110296,
+        "num": 122849,
+        "word": "杨幂尖叫之夜行程通知",
+        "onboard_time": 1764666740,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 48816,
+        "num": 122833,
+        "word": "枭起青壤版花园宝宝",
+        "onboard_time": 1764667521,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122831,
+        "num": 122831,
+        "word": "刘耀文高会更新",
+        "onboard_time": 1764668842,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118234,
+        "num": 118234,
+        "word": "小米YU7运损车拒退定金",
+        "onboard_time": 1764667521,
+        "rank": 44,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 112982,
+        "num": 112982,
+        "word": "何炅知道自己在说什么吗",
+        "onboard_time": 1764666021,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110650,
+        "num": 110650,
+        "word": "胡歌自曝母亲看不上他拍的古偶戏",
+        "onboard_time": 1764652222,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107327,
+        "num": 107327,
+        "word": "桃黑黑 因为我是异性恋",
+        "onboard_time": 1764662301,
+        "rank": 47,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 106080,
+        "num": 106080,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1764664702,
+        "rank": 48,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 105464,
+        "num": 105464,
+        "word": "中方坚决反对英首相散布中国威胁",
+        "onboard_time": 1764658820,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}

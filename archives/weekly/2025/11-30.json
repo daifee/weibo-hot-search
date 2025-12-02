@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764668092168,
+  "endTime": 1764668894821,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -291,6 +291,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 1052281,
+      "num": 1014203,
+      "word": "星光大赏名单",
+      "onboard_time": 1764666622,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1035142,
       "num": 1165622,
       "word": "中国驻日本大使发声",
@@ -321,14 +329,6 @@
       "onboard_time": 1764576322,
       "rank": 11,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 1014203,
-      "num": 1014203,
-      "word": "星光大赏名单",
-      "onboard_time": 1764666622,
-      "rank": 5,
-      "category": "综艺"
     },
     {
       "raw_hot": 979695,
@@ -449,6 +449,14 @@
       "onboard_time": 1764478461,
       "rank": 1,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 740375,
+      "num": 1118460,
+      "word": "香港火灾已造成156人遇难",
+      "onboard_time": 1764667221,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 740179,
@@ -593,6 +601,14 @@
       "onboard_time": 1764638960,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 621943,
+      "num": 197751,
+      "word": "马斯克官宣高管女友",
+      "onboard_time": 1764666502,
+      "rank": 21,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 613856,
@@ -1219,14 +1235,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 416190,
-      "num": 197751,
-      "word": "马斯克官宣高管女友",
-      "onboard_time": 1764666502,
-      "rank": 21,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 415125,
       "num": 1065858,
       "word": "甲型H3N2毒株严重可导致呼吸衰竭",
@@ -1667,14 +1675,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 329301,
-      "num": 493951,
-      "word": "香港火灾已造成156人遇难",
-      "onboard_time": 1764667221,
-      "rank": 8,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327715,
       "num": 810400,
       "word": "神舟二十二号航天员乘组永远空缺",
@@ -1891,6 +1891,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 298751,
+      "num": 163774,
+      "word": "Duro被大学退学",
+      "onboard_time": 1764667342,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 297279,
       "num": 297279,
       "word": "曝iPhone折叠屏手机无折痕",
@@ -2033,6 +2041,14 @@
       "onboard_time": 1764561801,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 282031,
+      "num": 282031,
+      "word": "洽洽瓜子 洽洽瓜紫",
+      "onboard_time": 1764667762,
+      "rank": 33,
+      "category": "幽默"
     },
     {
       "raw_hot": 281960,
@@ -2515,6 +2531,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218939,
+      "num": 218939,
+      "word": "温峥嵘删除声明",
+      "onboard_time": 1764668241,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218342,
       "num": 205245,
       "word": "假奶粉",
@@ -2561,14 +2585,6 @@
       "onboard_time": 1764461180,
       "rank": 8,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215232,
-      "num": 150376,
-      "word": "Duro被大学退学",
-      "onboard_time": 1764667342,
-      "rank": 31,
-      "category": "电竞"
     },
     {
       "raw_hot": 215108,
@@ -3065,6 +3081,14 @@
       "onboard_time": 1764462499,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 188177,
+      "num": 188177,
+      "word": "断崖式衰老一般发生在几岁",
+      "onboard_time": 1764668301,
+      "rank": 25,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 187879,
@@ -3643,6 +3667,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 162960,
+      "num": 162960,
+      "word": "老爹站",
+      "onboard_time": 1764667881,
+      "rank": 28,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 162204,
       "num": 227258,
       "word": "SofM以选手身份复出",
@@ -4011,14 +4043,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 151763,
-      "num": 151763,
-      "word": "老爹站",
-      "onboard_time": 1764667881,
-      "rank": 28,
-      "category": "游戏,网红"
-    },
-    {
       "raw_hot": 151606,
       "num": 151606,
       "word": "年卖10亿的凤爪大王培养侄子上位",
@@ -4089,14 +4113,6 @@
       "onboard_time": 1764498082,
       "rank": 44,
       "category": "休闲"
-    },
-    {
-      "raw_hot": 149878,
-      "num": 149878,
-      "word": "洽洽瓜子 洽洽瓜紫",
-      "onboard_time": 1764667762,
-      "rank": 33,
-      "category": "幽默"
     },
     {
       "raw_hot": 149639,
@@ -4516,7 +4532,7 @@
     },
     {
       "raw_hot": 136465,
-      "num": 136465,
+      "num": 473197,
       "word": "恋与深空新日卡再度双榜登顶",
       "onboard_time": 1764666561,
       "rank": 41,
@@ -4561,6 +4577,14 @@
       "onboard_time": 1764567080,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135264,
+      "num": 135264,
+      "word": "减肥的逻辑 欲望转移",
+      "onboard_time": 1764668062,
+      "rank": 45,
+      "category": "运动健身"
     },
     {
       "raw_hot": 135083,
@@ -4883,6 +4907,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 127263,
+      "num": 127263,
+      "word": "再也不敢侧躺着睡觉了",
+      "onboard_time": 1764668542,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 127224,
       "num": 127224,
       "word": "好一个国家一级英语运动员",
@@ -4947,12 +4979,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 126210,
-      "num": 126210,
-      "word": "减肥的逻辑 欲望转移",
-      "onboard_time": 1764668062,
-      "rank": 45,
-      "category": "运动健身"
+      "raw_hot": 126302,
+      "num": 136970,
+      "word": "李沁包场得闲谨制",
+      "onboard_time": 1764667943,
+      "rank": 39,
+      "category": "电影"
     },
     {
       "raw_hot": 125901,
@@ -5105,6 +5137,14 @@
       "onboard_time": 1764598643,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122831,
+      "num": 122831,
+      "word": "刘耀文高会更新",
+      "onboard_time": 1764668842,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 122776,
@@ -5387,6 +5427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 118234,
+      "num": 118234,
+      "word": "小米YU7运损车拒退定金",
+      "onboard_time": 1764667521,
+      "rank": 48,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 118016,
       "num": 200672,
       "word": "假奶粉涉事老板称也怕会吃出人命",
@@ -5553,14 +5601,6 @@
       "onboard_time": 1764485839,
       "rank": 32,
       "category": "体育"
-    },
-    {
-      "raw_hot": 115275,
-      "num": 115275,
-      "word": "小米YU7运损车拒退定金",
-      "onboard_time": 1764667521,
-      "rank": 48,
-      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 115145,
@@ -7420,7 +7460,7 @@
     },
     {
       "raw_hot": 76693,
-      "num": 114494,
+      "num": 164214,
       "word": "官方回应女婴手术离世家属质疑",
       "onboard_time": 1764667881,
       "rank": 49,
@@ -7627,6 +7667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69853,
+      "num": 125939,
+      "word": "A股缩量2805亿",
+      "onboard_time": 1764668542,
+      "rank": 36,
+      "category": "财经"
+    },
+    {
       "raw_hot": 69768,
       "num": 131676,
       "word": "湖南一烟花店燃爆有汽车被炸飞",
@@ -7795,6 +7843,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63172,
+      "num": 124718,
+      "word": "陈赫杜江是在学郑恺苗苗吗",
+      "onboard_time": 1764668722,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63080,
       "num": 121680,
       "word": "金正恩称朝空军将装备新战略军事资产",
@@ -7833,14 +7889,6 @@
       "onboard_time": 1764519559,
       "rank": 43,
       "category": "演出"
-    },
-    {
-      "raw_hot": 62040,
-      "num": 136970,
-      "word": "李沁包场得闲谨制",
-      "onboard_time": 1764667943,
-      "rank": 39,
-      "category": "电影"
     },
     {
       "raw_hot": 61882,
@@ -8259,6 +8307,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 48816,
+      "num": 137026,
+      "word": "枭起青壤版花园宝宝",
+      "onboard_time": 1764667521,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48307,
       "num": 1186718,
       "word": "神21乘组首次全系统压力应急演练",
@@ -8353,14 +8409,6 @@
       "onboard_time": 1764581723,
       "rank": 39,
       "category": "艺人,体育"
-    },
-    {
-      "raw_hot": 45112,
-      "num": 137026,
-      "word": "枭起青壤版花园宝宝",
-      "onboard_time": 1764667521,
-      "rank": 38,
-      "category": "剧集"
     },
     {
       "raw_hot": 45058,
@@ -9065,6 +9113,14 @@
       "onboard_time": 1764480621,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23558,
+      "num": 125602,
+      "word": "日本酒店业者呼吁政府维系日中友好",
+      "onboard_time": 1764668122,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 23451,
