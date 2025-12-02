@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764642266758,
+  "endTime": 1764646010272,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -89,6 +89,14 @@
       "onboard_time": 1764581302,
       "rank": 8,
       "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 1186866,
+      "num": 191891,
+      "word": "刘诗诗把儿子步步扛上车",
+      "onboard_time": 1764643820,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1174512,
@@ -331,6 +339,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 543614,
+      "num": 191980,
+      "word": "菲律宾勾结高市早苗反华",
+      "onboard_time": 1764641240,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 532623,
       "num": 1085219,
       "word": "您有一笔退款12月1日开始确认",
@@ -369,6 +385,14 @@
       "onboard_time": 1764564504,
       "rank": 15,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 501068,
+      "num": 191885,
+      "word": "桃黑黑14件事的澄清与回应",
+      "onboard_time": 1764640100,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 491336,
@@ -489,6 +513,22 @@
       "onboard_time": 1764562942,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424595,
+      "num": 335875,
+      "word": "央视调查云南山谷现5000吨垃圾堆",
+      "onboard_time": 1764640521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421746,
+      "num": 191881,
+      "word": "向佐首谈和郭碧婷求婚心情",
+      "onboard_time": 1764642800,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 420137,
@@ -731,28 +771,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 328920,
-      "num": 335875,
-      "word": "央视调查云南山谷现5000吨垃圾堆",
-      "onboard_time": 1764640521,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 327715,
       "num": 810400,
       "word": "神舟二十二号航天员乘组永远空缺",
       "onboard_time": 1764555139,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 326836,
-      "num": 178614,
-      "word": "桃黑黑14件事的澄清与回应",
-      "onboard_time": 1764640100,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 326655,
@@ -1011,6 +1035,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 274465,
+      "num": 191959,
+      "word": "姑娘交3万8相亲不到24小时就后悔",
+      "onboard_time": 1764641299,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 274198,
       "num": 274198,
       "word": "第一次见cos人民币",
@@ -1025,6 +1057,14 @@
       "onboard_time": 1764595764,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 267953,
+      "num": 212569,
+      "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+      "onboard_time": 1764644301,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 267550,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1764556760,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 251768,
+      "num": 191944,
+      "word": "谭松韵王安宇 狂流",
+      "onboard_time": 1764643699,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 246641,
@@ -1259,12 +1307,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216765,
+      "num": 216765,
+      "word": "三星首款三折叠手机发布",
+      "onboard_time": 1764645801,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 212984,
       "num": 227606,
       "word": "吸毒者是艾滋病的高发人群",
       "onboard_time": 1764590122,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 212016,
+      "num": 212016,
+      "word": "胡先煦加奈那让我恋爱脑发作了",
+      "onboard_time": 1764645079,
+      "rank": 8,
+      "category": "剧集"
     },
     {
       "raw_hot": 210096,
@@ -1451,6 +1515,22 @@
       "category": "教育"
     },
     {
+      "raw_hot": 191982,
+      "num": 191982,
+      "word": "吞噬星空五年打了两百集",
+      "onboard_time": 1764645920,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 190011,
+      "num": 190011,
+      "word": "日本两个团体请求访华",
+      "onboard_time": 1764641299,
+      "rank": 31,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 189956,
       "num": 135625,
       "word": "国乒相互击掌下班",
@@ -1473,6 +1553,14 @@
       "onboard_time": 1764583042,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 187879,
+      "num": 187879,
+      "word": "胡歌回应过气",
+      "onboard_time": 1764645259,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 186823,
@@ -1521,14 +1609,6 @@
       "onboard_time": 1764561263,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 181968,
-      "num": 181968,
-      "word": "菲律宾勾结高市早苗反华",
-      "onboard_time": 1764641240,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 181469,
@@ -1939,6 +2019,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 150937,
+      "num": 150937,
+      "word": "12岁的Jasper",
+      "onboard_time": 1764645201,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150420,
       "num": 490900,
       "word": "罗永浩官宣年底将开分享大会",
@@ -2147,6 +2235,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 137293,
+      "num": 137293,
+      "word": "这居然是陈晓黑图",
+      "onboard_time": 1764641899,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 135904,
       "num": 135904,
       "word": "王楚钦采访逗乐孙颖莎蒯曼",
@@ -2331,12 +2427,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128266,
+      "num": 128266,
+      "word": "迪丽热巴你根本没喝中药",
+      "onboard_time": 1764643880,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 127754,
       "num": 127754,
       "word": "中国男篮 练投篮",
       "onboard_time": 1764594323,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 127737,
+      "num": 190631,
+      "word": "中级经济师成绩",
+      "onboard_time": 1764643160,
+      "rank": 26,
+      "category": "教育"
     },
     {
       "raw_hot": 127074,
@@ -2353,6 +2465,14 @@
       "onboard_time": 1764496220,
       "rank": 23,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 125474,
+      "num": 191935,
+      "word": "国羽证言央企合资品质N6",
+      "onboard_time": 1764645741,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 125200,
@@ -2523,14 +2643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 117270,
-      "num": 117270,
-      "word": "日本两个团体请求访华",
-      "onboard_time": 1764641299,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 116526,
       "num": 107902,
       "word": "董璇小酒窝去佟大为女儿艺术展",
@@ -2611,6 +2723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112753,
+      "num": 112753,
+      "word": "揭秘王励勤名下职务情况",
+      "onboard_time": 1764645021,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 112345,
       "num": 112345,
       "word": "罗晋谈孔乙己的长衫",
@@ -2651,6 +2771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110778,
+      "num": 110778,
+      "word": "重度恐猫症",
+      "onboard_time": 1764645860,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 110420,
       "num": 303655,
       "word": "人民日报谈小米集团高质量发展",
@@ -2689,6 +2817,14 @@
       "onboard_time": 1764635181,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108461,
+      "num": 214429,
+      "word": "小米汽车交付量已超全年目标",
+      "onboard_time": 1764644301,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 107907,
@@ -2795,14 +2931,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 102935,
-      "num": 102935,
-      "word": "这居然是陈晓黑图",
-      "onboard_time": 1764641899,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102800,
       "num": 101146,
       "word": "光看迪丽热巴走路就知道是美女了",
@@ -2883,6 +3011,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 99379,
+      "num": 99379,
+      "word": "山东省考准考证",
+      "onboard_time": 1764645560,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
       "raw_hot": 99337,
       "num": 99337,
       "word": "枭起青壤谐音梗",
@@ -2939,6 +3075,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 96441,
+      "num": 112480,
+      "word": "凤凰台上 古偶跳台即开大",
+      "onboard_time": 1764645380,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 96184,
       "num": 124128,
       "word": "最期待提名白玉兰的电视剧",
@@ -2953,6 +3097,14 @@
       "onboard_time": 1764582023,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95580,
+      "num": 95580,
+      "word": "冬天唯一能坚持的运动",
+      "onboard_time": 1764645741,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 95530,
@@ -3043,6 +3195,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 89461,
+      "num": 89461,
+      "word": "日本已有组织计划弹劾高市早苗",
+      "onboard_time": 1764643640,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 89389,
       "num": 89389,
       "word": "谁家女主第2集离婚第3集二婚",
@@ -3067,12 +3227,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 87211,
-      "num": 92396,
-      "word": "姑娘交3万8相亲不到24小时就后悔",
-      "onboard_time": 1764641299,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 88245,
+      "num": 88245,
+      "word": "一部剧爱上三个女人",
+      "onboard_time": 1764645981,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 86634,
@@ -3099,6 +3259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 85849,
+      "num": 112429,
+      "word": "胡先煦新剧撤回一对神雕侠侣",
+      "onboard_time": 1764643399,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 85543,
       "num": 228015,
       "word": "妻子婚内与人同居被判赔丈夫8000元",
@@ -3121,6 +3289,14 @@
       "onboard_time": 1764581601,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 84908,
+      "num": 112721,
+      "word": "你买的进口奶粉可能产自小县城出租屋",
+      "onboard_time": 1764643940,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 83337,
@@ -4251,6 +4427,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 16568,
+      "num": 191902,
+      "word": "乌美就领土问题讨论长达6.5小时",
+      "onboard_time": 1764645140,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 16515,
       "num": 153942,
       "word": "台海鲲号被爆无锚海试",
@@ -4345,6 +4529,14 @@
       "onboard_time": 1764615914,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8453,
+      "num": 112648,
+      "word": "以色列民众在总统官邸外集会抗议",
+      "onboard_time": 1764645560,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 7298,

@@ -1,7 +1,15 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764642266758,
+  "endTime": 1764646010272,
   "band_list": [
+    {
+      "raw_hot": 1186866,
+      "num": 191891,
+      "word": "刘诗诗把儿子步步扛上车",
+      "onboard_time": 1764643820,
+      "rank": 20,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1030362,
       "num": 1164857,
@@ -43,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 543614,
+      "num": 191980,
+      "word": "菲律宾勾结高市早苗反华",
+      "onboard_time": 1764641240,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 509286,
       "num": 228937,
       "word": "名校硕士沦为患艾吸毒者",
@@ -51,12 +67,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 501068,
+      "num": 191885,
+      "word": "桃黑黑14件事的澄清与回应",
+      "onboard_time": 1764640100,
+      "rank": 33,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 458817,
       "num": 329246,
       "word": "郑恺上戏合影 AI生成",
       "onboard_time": 1764600983,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 424595,
+      "num": 335875,
+      "word": "央视调查云南山谷现5000吨垃圾堆",
+      "onboard_time": 1764640521,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 421746,
+      "num": 191881,
+      "word": "向佐首谈和郭碧婷求婚心情",
+      "onboard_time": 1764642800,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 418070,
@@ -97,22 +137,6 @@
       "onboard_time": 1764591082,
       "rank": 0,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 328920,
-      "num": 335875,
-      "word": "央视调查云南山谷现5000吨垃圾堆",
-      "onboard_time": 1764640521,
-      "rank": 9,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326836,
-      "num": 178614,
-      "word": "桃黑黑14件事的澄清与回应",
-      "onboard_time": 1764640100,
-      "rank": 33,
-      "category": "游戏"
     },
     {
       "raw_hot": 324532,
@@ -171,6 +195,30 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 274465,
+      "num": 191959,
+      "word": "姑娘交3万8相亲不到24小时就后悔",
+      "onboard_time": 1764641299,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 267953,
+      "num": 212569,
+      "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+      "onboard_time": 1764644301,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 251768,
+      "num": 191944,
+      "word": "谭松韵王安宇 狂流",
+      "onboard_time": 1764643699,
+      "rank": 14,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241714,
       "num": 788829,
       "word": "金饰克价涨到1336元",
@@ -219,6 +267,22 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 216765,
+      "num": 216765,
+      "word": "三星首款三折叠手机发布",
+      "onboard_time": 1764645801,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 212016,
+      "num": 212016,
+      "word": "胡先煦加奈那让我恋爱脑发作了",
+      "onboard_time": 1764645079,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 203889,
       "num": 337956,
       "word": "中国海警依法警告驱离日本船只",
@@ -227,12 +291,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 181968,
-      "num": 181968,
-      "word": "菲律宾勾结高市早苗反华",
-      "onboard_time": 1764641240,
-      "rank": 19,
+      "raw_hot": 191982,
+      "num": 191982,
+      "word": "吞噬星空五年打了两百集",
+      "onboard_time": 1764645920,
+      "rank": 9,
+      "category": "动漫"
+    },
+    {
+      "raw_hot": 190011,
+      "num": 190011,
+      "word": "日本两个团体请求访华",
+      "onboard_time": 1764641299,
+      "rank": 31,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 187879,
+      "num": 187879,
+      "word": "胡歌回应过气",
+      "onboard_time": 1764645259,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 179520,
@@ -299,6 +379,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 150937,
+      "num": 150937,
+      "word": "12岁的Jasper",
+      "onboard_time": 1764645201,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 143172,
       "num": 143172,
       "word": "黄金迎突变",
@@ -313,6 +401,14 @@
       "onboard_time": 1764636801,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137293,
+      "num": 137293,
+      "word": "这居然是陈晓黑图",
+      "onboard_time": 1764641899,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 132114,
@@ -347,6 +443,30 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 128266,
+      "num": 128266,
+      "word": "迪丽热巴你根本没喝中药",
+      "onboard_time": 1764643880,
+      "rank": 33,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 127737,
+      "num": 190631,
+      "word": "中级经济师成绩",
+      "onboard_time": 1764643160,
+      "rank": 26,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 125474,
+      "num": 191935,
+      "word": "国羽证言央企合资品质N6",
+      "onboard_time": 1764645741,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 124858,
       "num": 227086,
       "word": "李乃文疑似在大孤山当地陪",
@@ -379,20 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 117270,
-      "num": 117270,
-      "word": "日本两个团体请求访华",
-      "onboard_time": 1764641299,
-      "rank": 31,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 113008,
       "num": 228533,
       "word": "女子烫发4小时称出去透气后疑跑路",
       "onboard_time": 1764599124,
       "rank": 20,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 112753,
+      "num": 112753,
+      "word": "揭秘王励勤名下职务情况",
+      "onboard_time": 1764645021,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 111003,
@@ -403,12 +523,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 110778,
+      "num": 110778,
+      "word": "重度恐猫症",
+      "onboard_time": 1764645860,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 108689,
       "num": 108689,
       "word": "疯狂动物城 鱼类",
       "onboard_time": 1764635181,
       "rank": 37,
       "category": "电影"
+    },
+    {
+      "raw_hot": 108461,
+      "num": 214429,
+      "word": "小米汽车交付量已超全年目标",
+      "onboard_time": 1764644301,
+      "rank": 4,
+      "category": "汽车"
     },
     {
       "raw_hot": 107907,
@@ -435,19 +571,27 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 102935,
-      "num": 102935,
-      "word": "这居然是陈晓黑图",
-      "onboard_time": 1764641899,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 102800,
       "num": 101146,
       "word": "光看迪丽热巴走路就知道是美女了",
       "onboard_time": 1764632479,
       "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 99379,
+      "num": 99379,
+      "word": "山东省考准考证",
+      "onboard_time": 1764645560,
+      "rank": 44,
+      "category": "教育"
+    },
+    {
+      "raw_hot": 96441,
+      "num": 112480,
+      "word": "凤凰台上 古偶跳台即开大",
+      "onboard_time": 1764645380,
+      "rank": 38,
       "category": "剧集"
     },
     {
@@ -457,6 +601,14 @@
       "onboard_time": 1764595764,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 95580,
+      "num": 95580,
+      "word": "冬天唯一能坚持的运动",
+      "onboard_time": 1764645741,
+      "rank": 46,
+      "category": "幽默"
     },
     {
       "raw_hot": 95530,
@@ -499,12 +651,28 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 87211,
-      "num": 92396,
-      "word": "姑娘交3万8相亲不到24小时就后悔",
-      "onboard_time": 1764641299,
-      "rank": 38,
-      "category": "民生新闻"
+      "raw_hot": 89461,
+      "num": 89461,
+      "word": "日本已有组织计划弹劾高市早苗",
+      "onboard_time": 1764643640,
+      "rank": 48,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 88245,
+      "num": 88245,
+      "word": "一部剧爱上三个女人",
+      "onboard_time": 1764645981,
+      "rank": 49,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 85849,
+      "num": 112429,
+      "word": "胡先煦新剧撤回一对神雕侠侣",
+      "onboard_time": 1764643399,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 85543,
@@ -512,6 +680,14 @@
       "word": "妻子婚内与人同居被判赔丈夫8000元",
       "onboard_time": 1764603863,
       "rank": 29,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84908,
+      "num": 112721,
+      "word": "你买的进口奶粉可能产自小县城出租屋",
+      "onboard_time": 1764643940,
+      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -971,6 +1147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16568,
+      "num": 191902,
+      "word": "乌美就领土问题讨论长达6.5小时",
+      "onboard_time": 1764645140,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 14912,
       "num": 46262,
       "word": "成本70万自研高超音速导弹问世",
@@ -993,6 +1177,14 @@
       "onboard_time": 1764615914,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 8453,
+      "num": 112648,
+      "word": "以色列民众在总统官邸外集会抗议",
+      "onboard_time": 1764645560,
+      "rank": 37,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [

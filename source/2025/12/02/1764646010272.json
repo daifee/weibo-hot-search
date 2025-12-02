@@ -1,0 +1,410 @@
+{
+  "runTime": 1764646010272,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 953282,
+        "num": 1152525,
+        "word": "G7凭什么对中国提3个不许",
+        "onboard_time": 1764639019,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 216765,
+        "num": 216765,
+        "word": "三星首款三折叠手机发布",
+        "onboard_time": 1764645801,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 35210,
+        "num": 216018,
+        "word": "网警侦破AI换脸侵入计算机案",
+        "onboard_time": 1764640280,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285609,
+        "num": 215289,
+        "word": "盖瑞 敖丙",
+        "onboard_time": 1764638060,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108461,
+        "num": 214429,
+        "word": "小米汽车交付量已超全年目标",
+        "onboard_time": 1764644301,
+        "rank": 4,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 424595,
+        "num": 213940,
+        "word": "央视调查云南山谷现5000吨垃圾堆",
+        "onboard_time": 1764640521,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272059,
+        "num": 212900,
+        "word": "曝中国男篮输韩国后开会2小时",
+        "onboard_time": 1764639260,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 267953,
+        "num": 212569,
+        "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+        "onboard_time": 1764644301,
+        "rank": 7,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 212016,
+        "num": 212016,
+        "word": "胡先煦加奈那让我恋爱脑发作了",
+        "onboard_time": 1764645079,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 191982,
+        "num": 191982,
+        "word": "吞噬星空五年打了两百集",
+        "onboard_time": 1764645920,
+        "rank": 9,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 543614,
+        "num": 191980,
+        "word": "菲律宾勾结高市早苗反华",
+        "onboard_time": 1764641240,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 405619,
+        "num": 191968,
+        "word": "男子取170万遭抢劫指责银行未施救",
+        "onboard_time": 1764638960,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 274465,
+        "num": 191959,
+        "word": "姑娘交3万8相亲不到24小时就后悔",
+        "onboard_time": 1764641299,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 252729,
+        "num": 191954,
+        "word": "王一博 纽约",
+        "onboard_time": 1764639499,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 251768,
+        "num": 191944,
+        "word": "谭松韵王安宇 狂流",
+        "onboard_time": 1764643699,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 125474,
+        "num": 191935,
+        "word": "国羽证言央企合资品质N6",
+        "onboard_time": 1764645741,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 247253,
+        "num": 191925,
+        "word": "才知道原来100%纯棉不是棉",
+        "onboard_time": 1764630977,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 225547,
+        "num": 191917,
+        "word": "郑恺上戏合影 AI生成",
+        "onboard_time": 1764600983,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149366,
+        "num": 191912,
+        "word": "中国海警依法警告驱离日本船只",
+        "onboard_time": 1764637941,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 16568,
+        "num": 191902,
+        "word": "乌美就领土问题讨论长达6.5小时",
+        "onboard_time": 1764645140,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 1186866,
+        "num": 191891,
+        "word": "刘诗诗把儿子步步扛上车",
+        "onboard_time": 1764643820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 501068,
+        "num": 191885,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 421746,
+        "num": 191881,
+        "word": "向佐首谈和郭碧婷求婚心情",
+        "onboard_time": 1764642800,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 191873,
+        "num": 191873,
+        "word": "兰晓龙 得闲影业是抄老子的",
+        "onboard_time": 1764636801,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 362822,
+        "num": 191834,
+        "word": "杨幂就吃了一个寿司一口面",
+        "onboard_time": 1764631158,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328932,
+        "num": 191271,
+        "word": "儿子睡亡母生前床上感染同种病毒",
+        "onboard_time": 1764634461,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127737,
+        "num": 190631,
+        "word": "中级经济师成绩",
+        "onboard_time": 1764643160,
+        "rank": 26,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 190011,
+        "num": 190011,
+        "word": "日本两个团体请求访华",
+        "onboard_time": 1764641299,
+        "rank": 27,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 188197,
+        "num": 188197,
+        "word": "胖东来小方糖戒指热卖",
+        "onboard_time": 1764630678,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187879,
+        "num": 187879,
+        "word": "胡歌回应过气",
+        "onboard_time": 1764645259,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150937,
+        "num": 150937,
+        "word": "12岁的Jasper",
+        "onboard_time": 1764645201,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137293,
+        "num": 137293,
+        "word": "这居然是陈晓黑图",
+        "onboard_time": 1764641899,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131709,
+        "num": 131709,
+        "word": "经济舱大量舒适座位被锁了",
+        "onboard_time": 1764634701,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128266,
+        "num": 128266,
+        "word": "迪丽热巴你根本没喝中药",
+        "onboard_time": 1764643880,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 123488,
+        "num": 123488,
+        "word": "黄金迎突变",
+        "onboard_time": 1764641961,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112753,
+        "num": 112753,
+        "word": "揭秘王励勤名下职务情况",
+        "onboard_time": 1764645021,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84908,
+        "num": 112721,
+        "word": "你买的进口奶粉可能产自小县城出租屋",
+        "onboard_time": 1764643940,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 8453,
+        "num": 112648,
+        "word": "以色列民众在总统官邸外集会抗议",
+        "onboard_time": 1764645560,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96441,
+        "num": 112480,
+        "word": "凤凰台上 古偶跳台即开大",
+        "onboard_time": 1764645380,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85849,
+        "num": 112429,
+        "word": "胡先煦新剧撤回一对神雕侠侣",
+        "onboard_time": 1764643399,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112380,
+        "num": 112380,
+        "word": "大三男生网络交友3个月感染艾滋病",
+        "onboard_time": 1764599124,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110855,
+        "num": 110855,
+        "word": "人在3个年龄会明显变老",
+        "onboard_time": 1764635482,
+        "rank": 41,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 110778,
+        "num": 110778,
+        "word": "重度恐猫症",
+        "onboard_time": 1764645860,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107144,
+        "num": 107144,
+        "word": "母亲去世20年孝子请数万人看3天戏",
+        "onboard_time": 1764635301,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99379,
+        "num": 99379,
+        "word": "山东省考准考证",
+        "onboard_time": 1764645560,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 98487,
+        "num": 98487,
+        "word": "陈赫王传君金世佳同框",
+        "onboard_time": 1764599844,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95580,
+        "num": 95580,
+        "word": "冬天唯一能坚持的运动",
+        "onboard_time": 1764645741,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 94288,
+        "num": 94288,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 89461,
+        "num": 89461,
+        "word": "日本已有组织计划弹劾高市早苗",
+        "onboard_time": 1764643640,
+        "rank": 48,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 88245,
+        "num": 88245,
+        "word": "一部剧爱上三个女人",
+        "onboard_time": 1764645981,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
