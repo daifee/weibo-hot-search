@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764703559863,
+  "endTime": 1764704446757,
   "band_list": [
     {
       "raw_hot": 874607,
@@ -513,6 +513,14 @@
       "onboard_time": 1764701595,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 11889,
+      "num": 23572,
+      "word": "陈丽君申报浙江省一级演员",
+      "onboard_time": 1764704353,
+      "rank": 48,
+      "category": "艺人"
     },
     {
       "raw_hot": 11678,
