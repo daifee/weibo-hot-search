@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764700946598,
+  "endTime": 1764701768392,
   "band_list": [
     {
       "raw_hot": 874607,
@@ -483,7 +483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 23679,
+      "raw_hot": 24233,
       "num": 81865,
       "word": "男子取170万被打失明获赔7.3万",
       "onboard_time": 1764698895,
@@ -492,19 +492,27 @@
     },
     {
       "raw_hot": 19653,
-      "num": 45371,
+      "num": 78631,
       "word": "2025斯诺克英锦赛",
       "onboard_time": 1764696137,
       "rank": 49,
       "category": "体育"
     },
     {
-      "raw_hot": 16816,
+      "raw_hot": 18673,
       "num": 79963,
       "word": "生活中看到这种黄色小花立即上报",
       "onboard_time": 1764700217,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15471,
+      "num": 78837,
+      "word": "枭起青壤细节",
+      "onboard_time": 1764701595,
+      "rank": 45,
+      "category": "剧集"
     },
     {
       "raw_hot": 11678,
