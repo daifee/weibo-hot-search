@@ -1,7 +1,15 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764661399941,
+  "endTime": 1764664762143,
   "band_list": [
+    {
+      "raw_hot": 1799138,
+      "num": 224579,
+      "word": "李诞 所有女生尽早完成社会化",
+      "onboard_time": 1764661041,
+      "rank": 25,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1381753,
       "num": 965711,
@@ -59,6 +67,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 896152,
+      "num": 1143384,
+      "word": "北海道熊尸体多到装不下了",
+      "onboard_time": 1764658461,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 835947,
       "num": 571454,
       "word": "为什么避孕药品和用具要收税了",
@@ -73,14 +89,6 @@
       "onboard_time": 1764652222,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 721451,
-      "num": 1034011,
-      "word": "北海道熊尸体多到装不下了",
-      "onboard_time": 1764658461,
-      "rank": 32,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 699656,
@@ -137,6 +145,22 @@
       "onboard_time": 1764659962,
       "rank": 21,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 580620,
+      "num": 244680,
+      "word": "向佐风格大变",
+      "onboard_time": 1764660862,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 575001,
+      "num": 258776,
+      "word": "17岁男生高考后45天确诊HIV阳性",
+      "onboard_time": 1764660802,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 556640,
@@ -235,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 422707,
+      "num": 256601,
+      "word": "不二之臣双人海报",
+      "onboard_time": 1764663562,
+      "rank": 3,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 421746,
       "num": 209075,
       "word": "向佐首谈和郭碧婷求婚心情",
       "onboard_time": 1764642800,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421354,
+      "num": 250564,
+      "word": "宁波手术离世女婴家属再发声",
+      "onboard_time": 1764661523,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 418070,
@@ -275,7 +315,7 @@
       "category": "体育"
     },
     {
-      "raw_hot": 392067,
+      "raw_hot": 396922,
       "num": 1011657,
       "word": "中方坚决反对英首相散布中国威胁",
       "onboard_time": 1764658820,
@@ -387,6 +427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 316514,
+      "num": 241431,
+      "word": "日本被曝正在研发万能型血浆",
+      "onboard_time": 1764663082,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 314826,
       "num": 314826,
       "word": "应采儿回应没去陈小春演唱会",
@@ -475,12 +523,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 258776,
-      "num": 258776,
-      "word": "17岁男生高考后45天确诊HIV阳性",
-      "onboard_time": 1764660802,
-      "rank": 24,
-      "category": "民生新闻"
+      "raw_hot": 258722,
+      "num": 258722,
+      "word": "华为鸿蒙",
+      "onboard_time": 1764661460,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 257335,
@@ -643,6 +691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 195267,
+      "num": 195267,
+      "word": "桃黑黑 因为我是异性恋",
+      "onboard_time": 1764662301,
+      "rank": 26,
+      "category": "游戏,网红"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "孙怡怎么把海浪穿在身上",
@@ -683,20 +739,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 184629,
-      "num": 184629,
-      "word": "李诞 所有女生尽早完成社会化",
-      "onboard_time": 1764661041,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183678,
       "num": 183678,
       "word": "长佩崩了",
       "onboard_time": 1764649401,
       "rank": 43,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 183582,
+      "num": 176041,
+      "word": "外交部回应日本团体请求访华",
+      "onboard_time": 1764663862,
+      "rank": 31,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 181820,
+      "num": 181820,
+      "word": "男子出租屋内杀害女友一审被判死缓",
+      "onboard_time": 1764662241,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181310,
@@ -755,6 +819,14 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 175584,
+      "num": 175584,
+      "word": "全球目前有7例艾滋病治愈者",
+      "onboard_time": 1764664402,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 174053,
       "num": 174053,
       "word": "许玮甯婚礼后发文",
@@ -769,6 +841,14 @@
       "onboard_time": 1764595644,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 171832,
+      "num": 171832,
+      "word": "假性恋爱",
+      "onboard_time": 1764659659,
+      "rank": 35,
+      "category": "情感"
     },
     {
       "raw_hot": 171607,
@@ -809,6 +889,14 @@
       "onboard_time": 1764599124,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165254,
+      "num": 165254,
+      "word": "王梓莼是张子枫室友",
+      "onboard_time": 1764664522,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 161238,
@@ -891,6 +979,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 145849,
+      "num": 145849,
+      "word": "橘朵26元眉笔一半是空的",
+      "onboard_time": 1764660502,
+      "rank": 47,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 145557,
       "num": 145557,
       "word": "汪苏泷杭州演唱会",
@@ -915,6 +1011,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 141558,
+      "num": 141558,
+      "word": "殷世航自曝65万营业额到手2万",
+      "onboard_time": 1764662241,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 139684,
       "num": 139684,
       "word": "罗云熙同学聚会签名",
@@ -931,12 +1035,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138101,
-      "num": 138101,
-      "word": "向佐风格大变",
-      "onboard_time": 1764660862,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 138166,
+      "num": 169311,
+      "word": "男子因吸毒5年内3次被查处",
+      "onboard_time": 1764661582,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137670,
@@ -953,6 +1057,14 @@
       "onboard_time": 1764651200,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 136138,
+      "num": 136138,
+      "word": "不二之臣",
+      "onboard_time": 1764662481,
+      "rank": 43,
+      "category": "剧集"
     },
     {
       "raw_hot": 135083,
@@ -1067,6 +1179,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 123930,
+      "num": 176424,
+      "word": "恋与深空",
+      "onboard_time": 1764635301,
+      "rank": 36,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 123769,
       "num": 123769,
       "word": "邢昭林身份证丢了",
@@ -1123,12 +1243,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 121434,
+      "num": 121434,
+      "word": "日本全民考公热是何时结束的",
+      "onboard_time": 1764664101,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 120851,
       "num": 866094,
       "word": "王励勤乒羽运动管理中心副主任",
       "onboard_time": 1764599063,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 120409,
+      "num": 120409,
+      "word": "费尔岛毛衣",
+      "onboard_time": 1764664462,
+      "rank": 46,
+      "category": "时尚"
     },
     {
       "raw_hot": 119273,
@@ -1145,14 +1281,6 @@
       "onboard_time": 1764656421,
       "rank": 42,
       "category": "电影"
-    },
-    {
-      "raw_hot": 118663,
-      "num": 118663,
-      "word": "假性恋爱",
-      "onboard_time": 1764659659,
-      "rank": 35,
-      "category": "情感"
     },
     {
       "raw_hot": 117368,
@@ -1185,6 +1313,14 @@
       "onboard_time": 1764656541,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 114203,
+      "num": 114203,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1764664702,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 113994,
@@ -1291,14 +1427,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102226,
-      "num": 102226,
-      "word": "橘朵26元眉笔一半是空的",
-      "onboard_time": 1764660502,
-      "rank": 47,
-      "category": "美妆"
-    },
-    {
       "raw_hot": 101866,
       "num": 181923,
       "word": "以色列总统回应内塔尼亚胡赦免请求",
@@ -1337,14 +1465,6 @@
       "onboard_time": 1764660081,
       "rank": 40,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 99291,
-      "num": 109373,
-      "word": "恋与深空",
-      "onboard_time": 1764635301,
-      "rank": 36,
-      "category": "游戏"
     },
     {
       "raw_hot": 97520,
@@ -1491,12 +1611,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80573,
+      "num": 247054,
+      "word": "中方回应日本团体请求访华",
+      "onboard_time": 1764664042,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 80173,
       "num": 227109,
       "word": "终于有剧不为了美随意换衣服了",
       "onboard_time": 1764590782,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 79952,
+      "num": 178627,
+      "word": "用千问0元get站姐街拍",
+      "onboard_time": 1764663681,
+      "rank": 29,
+      "category": "时尚,数码"
     },
     {
       "raw_hot": 79547,
@@ -1521,6 +1657,14 @@
       "onboard_time": 1764589581,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 77832,
+      "num": 224580,
+      "word": "在乎输赢不如论舒赢",
+      "onboard_time": 1764663382,
+      "rank": 19,
+      "category": "汽车"
     },
     {
       "raw_hot": 77773,
@@ -1747,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 60515,
+      "num": 149675,
+      "word": "大生意人剥夺山西人睡午觉",
+      "onboard_time": 1764664163,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 58342,
       "num": 707448,
       "word": "眼里有光满眼就都是光",
@@ -1875,6 +2027,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51967,
+      "num": 224578,
+      "word": "台湾青年拒绝为台独打仗当炮灰",
+      "onboard_time": 1764663441,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51700,
       "num": 52661,
       "word": "许玮甯邱泽婚戒是亲自设计的",
@@ -1907,6 +2067,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 46860,
+      "num": 149894,
+      "word": "张婧仪头骨太优越了",
+      "onboard_time": 1764663622,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 46443,
       "num": 227190,
       "word": "郑恺苗苗牵手参加上戏校庆",
@@ -1937,6 +2105,14 @@
       "onboard_time": 1764618554,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 43486,
+      "num": 1087704,
+      "word": "刷1条视频上百个集装箱出海了",
+      "onboard_time": 1764649522,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 43164,
@@ -1977,14 +2153,6 @@
       "onboard_time": 1764595582,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 40139,
-      "num": 1087704,
-      "word": "刷1条视频上百个集装箱出海了",
-      "onboard_time": 1764649522,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 39837,
@@ -2083,6 +2251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27075,
+      "num": 124252,
+      "word": "个税专项扣除请避开这些填报易错点",
+      "onboard_time": 1764663322,
+      "rank": 44,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26080,
       "num": 55280,
       "word": "胡歌给田朴珺做红烧肉",
@@ -2121,6 +2297,14 @@
       "onboard_time": 1764611115,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 23087,
+      "num": 150880,
+      "word": "安徽霍邱召开全县吐槽大会",
+      "onboard_time": 1764664522,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20903,
