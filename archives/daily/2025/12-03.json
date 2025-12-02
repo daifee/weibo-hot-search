@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764714264661,
+  "endTime": 1764715290320,
   "band_list": [
     {
       "raw_hot": 874607,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 187585,
-      "num": 294936,
+      "num": 414015,
       "word": "老人腹泻离世儿子睡其床后确诊同症",
       "onboard_time": 1764683124,
       "rank": 16,
@@ -163,6 +163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 140167,
+      "num": 423646,
+      "word": "美军压境委内瑞拉总统大跳热舞",
+      "onboard_time": 1764690681,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 126160,
       "num": 169809,
       "word": "再熬八周",
@@ -177,14 +185,6 @@
       "onboard_time": 1764669082,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 105885,
-      "num": 312464,
-      "word": "美军压境委内瑞拉总统大跳热舞",
-      "onboard_time": 1764690681,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99871,
@@ -419,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 50619,
+      "num": 82306,
+      "word": "向太 50岁之前不要买豪车",
+      "onboard_time": 1764696856,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47241,
       "num": 79859,
       "word": "刘亦菲 我没有遗传到位",
@@ -435,12 +443,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 37769,
-      "num": 82306,
-      "word": "向太 50岁之前不要买豪车",
-      "onboard_time": 1764696856,
-      "rank": 44,
-      "category": "艺人"
+      "raw_hot": 39919,
+      "num": 342265,
+      "word": "得闲谨制预售总票房破8000万",
+      "onboard_time": 1764710173,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 38108,
+      "num": 81652,
+      "word": "女子采蘑菇意外发现一窝动物幼崽",
+      "onboard_time": 1764679762,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 37508,
@@ -459,20 +475,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 32848,
+      "num": 79963,
+      "word": "生活中看到这种黄色小花立即上报",
+      "onboard_time": 1764700217,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32383,
       "num": 47229,
       "word": "每天搓脸让你变年轻",
       "onboard_time": 1764693079,
       "rank": 49,
       "category": "美妆"
-    },
-    {
-      "raw_hot": 31917,
-      "num": 342265,
-      "word": "得闲谨制预售总票房破8000万",
-      "onboard_time": 1764710173,
-      "rank": 3,
-      "category": "电影"
     },
     {
       "raw_hot": 29428,
@@ -483,23 +499,15 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 28813,
-      "num": 81652,
-      "word": "女子采蘑菇意外发现一窝动物幼崽",
-      "onboard_time": 1764679762,
-      "rank": 48,
-      "category": "情感"
+      "raw_hot": 27300,
+      "num": 32799,
+      "word": "王一博提名亚洲流行音乐大奖",
+      "onboard_time": 1764714255,
+      "rank": 35,
+      "category": "音乐"
     },
     {
-      "raw_hot": 25935,
-      "num": 79963,
-      "word": "生活中看到这种黄色小花立即上报",
-      "onboard_time": 1764700217,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 24233,
+      "raw_hot": 25100,
       "num": 81865,
       "word": "男子取170万被打失明获赔7.3万",
       "onboard_time": 1764698895,

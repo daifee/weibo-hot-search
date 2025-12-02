@@ -1,0 +1,410 @@
+{
+  "runTime": 1764715290320,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 216910,
+        "num": 479150,
+        "word": "日本自卫队被曝正在向西南转移",
+        "onboard_time": 1764687623,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 31617,
+        "num": 474561,
+        "word": "iPad中国市场份额大跌",
+        "onboard_time": 1764683724,
+        "rank": 1,
+        "category": "财经,数码"
+      },
+      {
+        "raw_hot": 29945,
+        "num": 465993,
+        "word": "今年甲流常见问题看这里",
+        "onboard_time": 1764683124,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42300,
+        "num": 455686,
+        "word": "疯狂动物城2中国票房惊呆外媒",
+        "onboard_time": 1764682404,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 27836,
+        "num": 449849,
+        "word": "Uzi邀请Wayward试训",
+        "onboard_time": 1764685285,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 174471,
+        "num": 439395,
+        "word": "12306回应取消靠窗选座",
+        "onboard_time": 1764680483,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140167,
+        "num": 423646,
+        "word": "美军压境委内瑞拉总统大跳热舞",
+        "onboard_time": 1764690681,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112269,
+        "num": 414015,
+        "word": "老人腹泻离世儿子睡其床后确诊同症",
+        "onboard_time": 1764683124,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92909,
+        "num": 402091,
+        "word": "台湾一旦沦为战场什么都是空谈",
+        "onboard_time": 1764671661,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 61960,
+        "num": 394273,
+        "word": "小米高管疑似集体遭遇短信轰炸",
+        "onboard_time": 1764678562,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 391817,
+        "num": 391817,
+        "word": "日本战争准备曝光",
+        "onboard_time": 1764686424,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258244,
+        "num": 258244,
+        "word": "华裔女子痔疮手术后不堪剧痛自杀",
+        "onboard_time": 1764686424,
+        "rank": 11,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 186731,
+        "num": 186731,
+        "word": "妻子曝光丈夫生前出轨捉奸视频",
+        "onboard_time": 1764679462,
+        "rank": 12,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 156185,
+        "num": 156185,
+        "word": "李纯和杨幂在同一个健身房锻炼",
+        "onboard_time": 1764691879,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151849,
+        "num": 151849,
+        "word": "华晨宇说国内很少有会唱高音的",
+        "onboard_time": 1764692599,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68347,
+        "num": 68347,
+        "word": "汶川地震女孩17年后和施救军人结婚",
+        "onboard_time": 1764677543,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 68252,
+        "num": 68252,
+        "word": "刘宇宁说想回去演戏",
+        "onboard_time": 1764685584,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 39919,
+        "num": 60895,
+        "word": "得闲谨制预售总票房破8000万",
+        "onboard_time": 1764710173,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 56621,
+        "num": 56621,
+        "word": "朱亚文 配角",
+        "onboard_time": 1764687503,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 50619,
+        "num": 50619,
+        "word": "向太 50岁之前不要买豪车",
+        "onboard_time": 1764696856,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 44110,
+        "num": 44110,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 42721,
+        "num": 42721,
+        "word": "委内瑞拉",
+        "onboard_time": 1764680723,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 41484,
+        "num": 41484,
+        "word": "外媒称中国买大豆毁掉巴西雨林真相",
+        "onboard_time": 1764682883,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 40852,
+        "num": 40852,
+        "word": "94岁老人被发现在楼道打地铺生活",
+        "onboard_time": 1764681263,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39681,
+        "num": 39681,
+        "word": "江西上饶一工地挖出一对石狮",
+        "onboard_time": 1764690381,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39644,
+        "num": 39644,
+        "word": "双高胎否认哥的全宇宙抄袭",
+        "onboard_time": 1764685764,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38108,
+        "num": 38108,
+        "word": "女子采蘑菇意外发现一窝动物幼崽",
+        "onboard_time": 1764679762,
+        "rank": 26,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 37570,
+        "num": 37570,
+        "word": "国家发社保补贴了",
+        "onboard_time": 1764679462,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 37220,
+        "num": 37220,
+        "word": "汪东城 接委托",
+        "onboard_time": 1764690080,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 34251,
+        "num": 34251,
+        "word": "蓝盈莹在东北尝试走路用腰发力",
+        "onboard_time": 1764695417,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33219,
+        "num": 33219,
+        "word": "赵本山女儿说在努力还房贷",
+        "onboard_time": 1764697096,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32848,
+        "num": 32848,
+        "word": "生活中看到这种黄色小花立即上报",
+        "onboard_time": 1764700217,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 30473,
+        "num": 32844,
+        "word": "杨旭文 陈若琳",
+        "onboard_time": 1764673342,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 28980,
+        "num": 32823,
+        "word": "刘宇宁半夜胃疼疼醒了",
+        "onboard_time": 1764689961,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27645,
+        "num": 32812,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 27300,
+        "num": 32799,
+        "word": "王一博提名亚洲流行音乐大奖",
+        "onboard_time": 1764714255,
+        "rank": 35,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 25241,
+        "num": 32793,
+        "word": "普拉达正式收购范思哲",
+        "onboard_time": 1764689602,
+        "rank": 36,
+        "category": "海外新闻,时尚"
+      },
+      {
+        "raw_hot": 25156,
+        "num": 32777,
+        "word": "再熬八周",
+        "onboard_time": 1764684024,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25100,
+        "num": 32757,
+        "word": "男子取170万被打失明获赔7.3万",
+        "onboard_time": 1764698895,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25008,
+        "num": 32751,
+        "word": "湖南一烧烤店被指直播煮猫爪",
+        "onboard_time": 1764686604,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23559,
+        "num": 32738,
+        "word": "阿凡达3首映",
+        "onboard_time": 1764678622,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 23368,
+        "num": 32727,
+        "word": "大侦探11首案录制阵容",
+        "onboard_time": 1764695776,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23021,
+        "num": 32711,
+        "word": "王梓莼正片镜头疑似被删光",
+        "onboard_time": 1764682404,
+        "rank": 42,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 22858,
+        "num": 32698,
+        "word": "蜜雪冰城 留守儿童",
+        "onboard_time": 1764686784,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 19622,
+        "num": 32681,
+        "word": "陈哲远马来西亚公主合照",
+        "onboard_time": 1764685163,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17776,
+        "num": 32673,
+        "word": "2025最具票房号召力女演员",
+        "onboard_time": 1764695417,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 17733,
+        "num": 32658,
+        "word": "男子直播叫嚣来抓我嘛随后被抓",
+        "onboard_time": 1764696377,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17246,
+        "num": 32645,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 47,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 16702,
+        "num": 32619,
+        "word": "2026乒乓球亚洲杯海口举办",
+        "onboard_time": 1764694337,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10560,
+        "num": 32615,
+        "word": "2025斯诺克英锦赛",
+        "onboard_time": 1764696137,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}

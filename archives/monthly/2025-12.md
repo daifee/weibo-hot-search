@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/03 06:24:24
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/03 06:41:30
 </p>
 </blockquote>
 <p>
@@ -2607,6 +2607,12 @@ Rookie回应和jiejie争论（热度：143838）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%8E%8B%E5%A2%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E5%A4%A7%E8%B7%B3%E7%83%AD%E8%88%9E%23" target="weibo">
+美军压境委内瑞拉总统大跳热舞（热度：140167）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%89%BE%E7%B1%B3%E7%96%91%E4%BC%BC%E4%B8%8D%E5%8F%82%E5%8A%A0%E6%98%8E%E5%B9%B4%E8%89%BA%E8%80%83%23" target="weibo">
 艾米疑似不参加明年艺考（热度：140166）
 </a>
@@ -3539,12 +3545,6 @@ Light回应离开WBG（热度：113994）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%AF%B4%E5%9C%A8%E5%90%B4%E7%A3%8A%E8%BA%AB%E4%B8%8A%E7%9C%8B%E5%88%B0%E4%BA%86%E5%9B%BD%E9%99%85%E5%8C%96%23" target="weibo">
 胡歌说在吴磊身上看到了国际化（热度：105895）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E5%8E%8B%E5%A2%83%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E6%80%BB%E7%BB%9F%E5%A4%A7%E8%B7%B3%E7%83%AD%E8%88%9E%23" target="weibo">
-美军压境委内瑞拉总统大跳热舞（热度：105885）
 </a>
 </li>
 
@@ -4785,6 +4785,12 @@ GALA无愧于ADC之名（热度：53032）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%2050%E5%B2%81%E4%B9%8B%E5%89%8D%E4%B8%8D%E8%A6%81%E4%B9%B0%E8%B1%AA%E8%BD%A6%23" target="weibo">
+向太 50岁之前不要买豪车（热度：50619）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E7%9F%AD%E5%89%A7%E6%8A%84%E8%A2%AD%E7%9A%84%E9%95%BF%E5%89%A7%E6%9C%89%E5%93%AA%E4%BA%9B%23" target="weibo">
 被短剧抄袭的长剧有哪些（热度：50516）
 </a>
@@ -5013,6 +5019,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23" target="weibo">
+得闲谨制预售总票房破8000万（热度：39919）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%97%A5%E6%9C%AC%E5%8F%88%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 什么样的日本又回来了（热度：39870）
 </a>
@@ -5057,12 +5069,6 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%88%92%E4%B8%A5%E4%BA%8B%E4%BB%B6%E4%B8%80%E5%91%A8%E5%B9%B4%23" target="weibo">
 韩国戒严事件一周年（热度：37971）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%90%91%E5%A4%AA%2050%E5%B2%81%E4%B9%8B%E5%89%8D%E4%B8%8D%E8%A6%81%E4%B9%B0%E8%B1%AA%E8%BD%A6%23" target="weibo">
-向太 50岁之前不要买豪车（热度：37769）
 </a>
 </li>
 
@@ -5169,6 +5175,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9C%8B%E5%88%B0%E8%BF%99%E7%A7%8D%E9%BB%84%E8%89%B2%E5%B0%8F%E8%8A%B1%E7%AB%8B%E5%8D%B3%E4%B8%8A%E6%8A%A5%23" target="weibo">
+生活中看到这种黄色小花立即上报（热度：32848）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2328%E5%B2%81%E5%A5%B3%E5%AD%90%E8%A2%AB%E7%A0%B8%E4%B8%AD%E8%BA%AB%E4%BA%A1%E6%A1%88%E5%86%8D%E5%BC%80%E5%BA%AD%23" target="weibo">
 28岁女子被砸中身亡案再开庭（热度：32389）
 </a>
@@ -5183,12 +5195,6 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%BF%85%E7%84%B6%E6%92%9E%E4%B8%8A%E5%8D%97%E5%A2%99%23" target="weibo">
 高市早苗必然撞上南墙（热度：32360）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23" target="weibo">
-得闲谨制预售总票房破8000万（热度：31917）
 </a>
 </li>
 
@@ -5271,6 +5277,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E4%B8%80%E5%8D%9A%E6%8F%90%E5%90%8D%E4%BA%9A%E6%B4%B2%E6%B5%81%E8%A1%8C%E9%9F%B3%E4%B9%90%E5%A4%A7%E5%A5%96%23" target="weibo">
+王一博提名亚洲流行音乐大奖（热度：27300）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E7%A8%8E%E4%B8%93%E9%A1%B9%E6%89%A3%E9%99%A4%E8%AF%B7%E9%81%BF%E5%BC%80%E8%BF%99%E4%BA%9B%E5%A1%AB%E6%8A%A5%E6%98%93%E9%94%99%E7%82%B9%23" target="weibo">
 个税专项扣除请避开这些填报易错点（热度：27075）
 </a>
@@ -5295,12 +5307,6 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E6%B4%BB%E4%B8%AD%E7%9C%8B%E5%88%B0%E8%BF%99%E7%A7%8D%E9%BB%84%E8%89%B2%E5%B0%8F%E8%8A%B1%E7%AB%8B%E5%8D%B3%E4%B8%8A%E6%8A%A5%23" target="weibo">
-生活中看到这种黄色小花立即上报（热度：25935）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9C%9F%E5%AE%9E%E7%9A%84%E7%BE%8E%E5%9B%BD%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%23" target="weibo">
 真实的美国是什么样的（热度：25338）
 </a>
@@ -5309,6 +5315,12 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%9C%A8%E5%BB%BA%E5%A4%A7%E6%A1%A5%E5%9E%AE%E5%A1%8C%E8%87%B42%E6%AD%BB3%E4%BC%A4%E6%95%B4%E6%94%B9%E9%80%9A%E6%8A%A5%23" target="weibo">
 在建大桥垮塌致2死3伤整改通报（热度：25149）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%96170%E4%B8%87%E8%A2%AB%E6%89%93%E5%A4%B1%E6%98%8E%E8%8E%B7%E8%B5%947.3%E4%B8%87%23" target="weibo">
+男子取170万被打失明获赔7.3万（热度：25100）
 </a>
 </li>
 
@@ -5333,12 +5345,6 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9C%B1%E5%BC%80%E6%9B%9DRookie%E4%B8%8D%E4%BC%91%E6%81%AF%23" target="weibo">
 朱开曝Rookie不休息（热度：24264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%8F%96170%E4%B8%87%E8%A2%AB%E6%89%93%E5%A4%B1%E6%98%8E%E8%8E%B7%E8%B5%947.3%E4%B8%87%23" target="weibo">
-男子取170万被打失明获赔7.3万（热度：24233）
 </a>
 </li>
 
