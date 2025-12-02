@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/03 00:53:55
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/03 01:30:04
 </p>
 </blockquote>
 <p>
@@ -1101,6 +1101,12 @@ Duro被大学退学（热度：318839）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AF%B4%E5%9B%BD%E5%86%85%E5%BE%88%E5%B0%91%E6%9C%89%E4%BC%9A%E5%94%B1%E9%AB%98%E9%9F%B3%E7%9A%84%23" target="weibo">
+华晨宇说国内很少有会唱高音的（热度：313671）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%20%E9%82%A6%E9%82%A6%E7%A1%ACDQ%E5%86%B0%E6%BF%80%E5%87%8C%23" target="weibo">
 疯狂动物城 邦邦硬DQ冰激凌（热度：313313）
 </a>
@@ -2171,12 +2177,6 @@ JDG宣布GALA入队（热度：169345）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E7%8E%AE%E5%BB%B7%E6%99%92%E5%92%8C%E8%AE%B8%E7%8E%AE%E7%94%AF%E5%90%88%E7%85%A7%E8%A2%AB%E9%AA%82%E7%BB%BF%E8%8C%B6%23" target="weibo">
 孙玮廷晒和许玮甯合照被骂绿茶（热度：164689）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8D%8E%E6%99%A8%E5%AE%87%E8%AF%B4%E5%9B%BD%E5%86%85%E5%BE%88%E5%B0%91%E6%9C%89%E4%BC%9A%E5%94%B1%E9%AB%98%E9%9F%B3%E7%9A%84%23" target="weibo">
-华晨宇说国内很少有会唱高音的（热度：164307）
 </a>
 </li>
 
@@ -4527,6 +4527,12 @@ A股缩量2805亿（热度：69853）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%93%9D%E7%9B%88%E8%8E%B9%E5%9C%A8%E4%B8%9C%E5%8C%97%E5%B0%9D%E8%AF%95%E8%B5%B0%E8%B7%AF%E7%94%A8%E8%85%B0%E5%8F%91%E5%8A%9B%23" target="weibo">
+蓝盈莹在东北尝试走路用腰发力（热度：64196）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23zhe%E9%87%8C%E5%A4%AA%E8%83%BD%E8%A3%85%E4%BA%86%23" target="weibo">
 zhe里太能装了（热度：63308）
 </a>
@@ -4649,6 +4655,12 @@ iG纪录片（热度：59254）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2312%E6%9C%88%E6%96%87%E6%A1%88%23" target="weibo">
 12月文案（热度：56986）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A4%A7%E4%BE%A6%E6%8E%A211%E9%A6%96%E6%A1%88%E5%BD%95%E5%88%B6%E9%98%B5%E5%AE%B9%23" target="weibo">
+大侦探11首案录制阵容（热度：56331）
 </a>
 </li>
 
@@ -4965,6 +4977,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%232025%E6%9C%80%E5%85%B7%E7%A5%A8%E6%88%BF%E5%8F%B7%E5%8F%AC%E5%8A%9B%E5%A5%B3%E6%BC%94%E5%91%98%23" target="weibo">
+2025最具票房号召力女演员（热度：41042）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%9F%B9%E8%AE%AD%E6%9C%BA%E6%9E%84%E5%86%99%E4%BD%9C%E4%B8%9A2000%E5%85%83%E6%AF%8F%E6%AC%A1%23" target="weibo">
 孩子培训机构写作业2000元每次（热度：41015）
 </a>
@@ -5193,6 +5211,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E5%8F%AB%E5%9A%A3%E6%9D%A5%E6%8A%93%E6%88%91%E5%98%9B%E9%9A%8F%E5%90%8E%E8%A2%AB%E6%8A%93%23" target="weibo">
+男子直播叫嚣来抓我嘛随后被抓（热度：29428）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%B1%E5%8B%A4%E6%9B%BE%E7%94%B3%E8%AF%B7%E6%B3%A8%E5%86%8C%E4%B8%AA%E4%BA%BA%E5%95%86%E6%A0%87%23" target="weibo">
 王励勤曾申请注册个人商标（热度：29359）
 </a>
@@ -5375,6 +5399,12 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E5%E5%B2%81%E7%94%B7%E7%AB%A5%E4%BC%A0%E7%94%B2%E6%B5%81%E8%87%B4%E5%85%A8%E5%AE%B6%E6%84%9F%E6%9F%93%23" target="weibo">
 郑州5岁男童传甲流致全家感染（热度：20009）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%232025%E6%96%AF%E8%AF%BA%E5%85%8B%E8%8B%B1%E9%94%A6%E8%B5%9B%23" target="weibo">
+2025斯诺克英锦赛（热度：19653）
 </a>
 </li>
 
