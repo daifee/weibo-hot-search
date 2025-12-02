@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764682963570,
+  "endTime": 1764683651868,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1975286,
+      "num": 1975286,
+      "word": "12306回应取消靠窗选座",
+      "onboard_time": 1764680483,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 1925223,
       "num": 1043104,
       "word": "疯狂动物城 媚中",
       "onboard_time": 1764665421,
       "rank": 16,
       "category": "电影"
-    },
-    {
-      "raw_hot": 1846172,
-      "num": 1846172,
-      "word": "12306回应取消靠窗选座",
-      "onboard_time": 1764680483,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 1799138,
@@ -579,6 +579,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 549066,
+      "num": 209871,
+      "word": "杨旭文辟谣的是恋情还是订婚",
+      "onboard_time": 1764682041,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 546616,
       "num": 268320,
       "word": "委内瑞拉",
@@ -697,14 +705,6 @@
       "onboard_time": 1764666262,
       "rank": 12,
       "category": "电影"
-    },
-    {
-      "raw_hot": 475868,
-      "num": 176700,
-      "word": "杨旭文辟谣的是恋情还是订婚",
-      "onboard_time": 1764682041,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 473327,
@@ -1587,6 +1587,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 271043,
+      "num": 211292,
+      "word": "21岁和26岁差距真的很大",
+      "onboard_time": 1764679823,
+      "rank": 29,
+      "category": "情感"
+    },
+    {
       "raw_hot": 267550,
       "num": 246450,
       "word": "刘诗诗小时候用这张脸捅马蜂窝",
@@ -1691,6 +1699,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 245674,
+      "num": 210583,
+      "word": "老人腹泻离世儿子睡其床后确诊同症",
+      "onboard_time": 1764683124,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 244844,
       "num": 186786,
       "word": "李雪琴评孟子义素颜状态",
@@ -1704,14 +1720,6 @@
       "word": "晚安计划",
       "onboard_time": 1764595043,
       "rank": 18,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 242034,
-      "num": 202019,
-      "word": "21岁和26岁差距真的很大",
-      "onboard_time": 1764679823,
-      "rank": 29,
       "category": "情感"
     },
     {
@@ -2043,6 +2051,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206122,
+      "num": 206122,
+      "word": "刘宇宁直播",
+      "onboard_time": 1764682764,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 205787,
       "num": 205787,
       "word": "王俊凯主演话剧官宣开票时间",
@@ -2113,6 +2129,22 @@
       "onboard_time": 1764592882,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 203138,
+      "num": 203138,
+      "word": "张桂源 穿错鞋一点都不好笑",
+      "onboard_time": 1764683483,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 202424,
+      "num": 185716,
+      "word": "王梓莼正片镜头疑似被删光",
+      "onboard_time": 1764682404,
+      "rank": 26,
+      "category": "综艺,艺人"
     },
     {
       "raw_hot": 200163,
@@ -2283,6 +2315,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 188207,
+      "num": 188207,
+      "word": "94岁老人被发现在楼道打地铺生活",
+      "onboard_time": 1764681263,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
@@ -2321,6 +2361,14 @@
       "onboard_time": 1764577402,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185502,
+      "num": 185502,
+      "word": "疯狂动物城2中国票房惊呆外媒",
+      "onboard_time": 1764682404,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 184811,
@@ -2473,22 +2521,6 @@
       "onboard_time": 1764653300,
       "rank": 40,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 176821,
-      "num": 176821,
-      "word": "94岁老人被发现在楼道打地铺生活",
-      "onboard_time": 1764681263,
-      "rank": 24,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 176443,
-      "num": 176443,
-      "word": "王梓莼正片镜头疑似被删光",
-      "onboard_time": 1764682404,
-      "rank": 26,
-      "category": "综艺,艺人"
     },
     {
       "raw_hot": 176087,
@@ -3011,6 +3043,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 152282,
+      "num": 152282,
+      "word": "宋轶红毯造型好像一尾斗鱼",
+      "onboard_time": 1764682883,
+      "rank": 41,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "成毅执子策九谋",
@@ -3193,14 +3233,6 @@
       "onboard_time": 1764556341,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 144205,
-      "num": 144205,
-      "word": "刘宇宁直播",
-      "onboard_time": 1764682764,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 143838,
@@ -3531,14 +3563,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 132587,
-      "num": 132587,
-      "word": "疯狂动物城2中国票房惊呆外媒",
-      "onboard_time": 1764682404,
-      "rank": 36,
-      "category": "电影"
-    },
-    {
       "raw_hot": 132551,
       "num": 132551,
       "word": "我妈理解得闲谨制madeinChina",
@@ -3723,6 +3747,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 127562,
+      "num": 215012,
+      "word": "外媒称中国买大豆毁掉巴西雨林真相",
+      "onboard_time": 1764682883,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 127263,
       "num": 127263,
       "word": "再也不敢侧躺着睡觉了",
@@ -3785,14 +3817,6 @@
       "onboard_time": 1764592942,
       "rank": 41,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 124875,
-      "num": 124875,
-      "word": "宋轶红毯造型好像一尾斗鱼",
-      "onboard_time": 1764682883,
-      "rank": 41,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 124807,
@@ -4433,6 +4457,14 @@
       "onboard_time": 1764577883,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105379,
+      "num": 105379,
+      "word": "美方紧急要求黎巴嫩归还炸弹",
+      "onboard_time": 1764683064,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 105365,
@@ -5336,14 +5368,6 @@
       "word": "韩国网络性犯罪大案",
       "onboard_time": 1764562822,
       "rank": 17,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 77438,
-      "num": 124894,
-      "word": "外媒称中国买大豆毁掉巴西雨林真相",
-      "onboard_time": 1764682883,
-      "rank": 39,
       "category": "海外新闻"
     },
     {
@@ -6515,6 +6539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29532,
+      "num": 135397,
+      "word": "斯里兰卡极端天气死亡410人",
+      "onboard_time": 1764683003,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 29444,
       "num": 57364,
       "word": "iG众将回应输给T1",
@@ -6707,12 +6739,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 23277,
+      "num": 269158,
+      "word": "今年甲流常见问题看这里",
+      "onboard_time": 1764683124,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23088,
       "num": 55305,
       "word": "刘宇宁新歌有去无回",
       "onboard_time": 1764611115,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22734,
+      "num": 185774,
+      "word": "王曼昱3比0奥尔特加",
+      "onboard_time": 1764677782,
+      "rank": 31,
+      "category": "体育"
     },
     {
       "raw_hot": 20846,
@@ -6952,6 +7000,14 @@
       "word": "12月起这些新规开始施行",
       "onboard_time": 1764493460,
       "rank": 2,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 11592,
+      "num": 98236,
+      "word": "2024我国全社会研发投入超3.6万亿",
+      "onboard_time": 1764683003,
+      "rank": 48,
       "category": "国内时政"
     },
     {

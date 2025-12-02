@@ -1,0 +1,410 @@
+{
+  "runTime": 1764683651868,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1975286,
+        "num": 1975286,
+        "word": "12306回应取消靠窗选座",
+        "onboard_time": 1764680483,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109111,
+        "num": 389626,
+        "word": "国乒8比0智利",
+        "onboard_time": 1764678203,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 23277,
+        "num": 269158,
+        "word": "今年甲流常见问题看这里",
+        "onboard_time": 1764683124,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 257263,
+        "num": 257263,
+        "word": "星光大赏名单",
+        "onboard_time": 1764666622,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 28329,
+        "num": 256347,
+        "word": "电竞点播台",
+        "onboard_time": 1764681083,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 779787,
+        "num": 249834,
+        "word": "朱亚文 反清",
+        "onboard_time": 1764679042,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 701168,
+        "num": 248911,
+        "word": "国家发社保补贴了",
+        "onboard_time": 1764679462,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 461938,
+        "num": 243659,
+        "word": "小米高管疑似集体遭遇短信轰炸",
+        "onboard_time": 1764678562,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 240819,
+        "num": 240819,
+        "word": "台湾一旦沦为战场什么都是空谈",
+        "onboard_time": 1764671661,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 189999,
+        "num": 239531,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 9,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 27232,
+        "num": 238316,
+        "word": "华为鸿蒙",
+        "onboard_time": 1764661460,
+        "rank": 10,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 1049440,
+        "num": 237565,
+        "word": "妻子曝光丈夫生前出轨捉奸视频",
+        "onboard_time": 1764679462,
+        "rank": 11,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 444702,
+        "num": 236408,
+        "word": "委内瑞拉",
+        "onboard_time": 1764680723,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 351500,
+        "num": 233944,
+        "word": "阿凡达3首映",
+        "onboard_time": 1764678622,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 286029,
+        "num": 233460,
+        "word": "建议不要把肉汤倒进下水道",
+        "onboard_time": 1764674182,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 252460,
+        "num": 231677,
+        "word": "断崖式衰老一般发生在几岁",
+        "onboard_time": 1764668301,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 231091,
+        "num": 231091,
+        "word": "刘亦菲 我没有遗传到位",
+        "onboard_time": 1764670282,
+        "rank": 16,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 215736,
+        "num": 215736,
+        "word": "任嘉伦离了老公司全是新赛道",
+        "onboard_time": 1764676522,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 215314,
+        "num": 215314,
+        "word": "霸王茶姬出咖啡了",
+        "onboard_time": 1764672623,
+        "rank": 18,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 127562,
+        "num": 215012,
+        "word": "外媒称中国买大豆毁掉巴西雨林真相",
+        "onboard_time": 1764682883,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25378,
+        "num": 214117,
+        "word": "梁靖崑2比0戈麦斯",
+        "onboard_time": 1764679162,
+        "rank": 20,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 562149,
+        "num": 213192,
+        "word": "杨旭文 陈若琳",
+        "onboard_time": 1764673342,
+        "rank": 21,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 320451,
+        "num": 211915,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 271043,
+        "num": 211292,
+        "word": "21岁和26岁差距真的很大",
+        "onboard_time": 1764679823,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 245674,
+        "num": 210583,
+        "word": "老人腹泻离世儿子睡其床后确诊同症",
+        "onboard_time": 1764683124,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209886,
+        "num": 209886,
+        "word": "洽洽瓜子 洽洽瓜紫",
+        "onboard_time": 1764667762,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 549066,
+        "num": 209871,
+        "word": "杨旭文辟谣的是恋情还是订婚",
+        "onboard_time": 1764682041,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 209842,
+        "num": 209842,
+        "word": "郑天浩 王梓莼",
+        "onboard_time": 1764669082,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206122,
+        "num": 206122,
+        "word": "刘宇宁直播",
+        "onboard_time": 1764682764,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203138,
+        "num": 203138,
+        "word": "张桂源 穿错鞋一点都不好笑",
+        "onboard_time": 1764683483,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188207,
+        "num": 188207,
+        "word": "94岁老人被发现在楼道打地铺生活",
+        "onboard_time": 1764681263,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22734,
+        "num": 185774,
+        "word": "王曼昱3比0奥尔特加",
+        "onboard_time": 1764677782,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 202424,
+        "num": 185716,
+        "word": "王梓莼正片镜头疑似被删光",
+        "onboard_time": 1764682404,
+        "rank": 32,
+        "category": "综艺,艺人"
+      },
+      {
+        "raw_hot": 185502,
+        "num": 185502,
+        "word": "疯狂动物城2中国票房惊呆外媒",
+        "onboard_time": 1764682404,
+        "rank": 33,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 169236,
+        "num": 169236,
+        "word": "汶川地震女孩17年后和施救军人结婚",
+        "onboard_time": 1764677543,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152282,
+        "num": 152282,
+        "word": "宋轶红毯造型好像一尾斗鱼",
+        "onboard_time": 1764682883,
+        "rank": 35,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 147638,
+        "num": 147638,
+        "word": "董事长因薪酬低反对自己当董事长",
+        "onboard_time": 1764678742,
+        "rank": 36,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 142054,
+        "num": 142054,
+        "word": "枭起青壤 删减",
+        "onboard_time": 1764675682,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136859,
+        "num": 136859,
+        "word": "王男直播",
+        "onboard_time": 1764677662,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 29532,
+        "num": 135397,
+        "word": "斯里兰卡极端天气死亡410人",
+        "onboard_time": 1764683003,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29771,
+        "num": 134919,
+        "word": "吉利高管称百万银河只是起点",
+        "onboard_time": 1764679162,
+        "rank": 40,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 134806,
+        "num": 134806,
+        "word": "腾讯视频星光大赏",
+        "onboard_time": 1764679281,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134615,
+        "num": 134615,
+        "word": "女子采蘑菇意外发现一窝动物幼崽",
+        "onboard_time": 1764679762,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 133556,
+        "num": 133556,
+        "word": "香港火灾已造成156人遇难",
+        "onboard_time": 1764667221,
+        "rank": 43,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 118106,
+        "num": 118106,
+        "word": "米卡全家都被中国圈粉了",
+        "onboard_time": 1764678983,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 105379,
+        "num": 105379,
+        "word": "美方紧急要求黎巴嫩归还炸弹",
+        "onboard_time": 1764683064,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102891,
+        "num": 102891,
+        "word": "Suk世界赛单局MVP",
+        "onboard_time": 1764682404,
+        "rank": 46,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99869,
+        "num": 99869,
+        "word": "混团世界杯八强产生",
+        "onboard_time": 1764682643,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 11592,
+        "num": 98236,
+        "word": "2024我国全社会研发投入超3.6万亿",
+        "onboard_time": 1764683003,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 96869,
+        "num": 96869,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 49,
+        "category": "国内时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
