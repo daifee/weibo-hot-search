@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764715290320,
+  "endTime": 1764717967565,
   "band_list": [
     {
       "raw_hot": 874607,
@@ -27,7 +27,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 560729,
+      "raw_hot": 591381,
       "num": 560729,
       "word": "华裔女子痔疮手术后不堪剧痛自杀",
       "onboard_time": 1764686424,
@@ -35,20 +35,28 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 436029,
-      "num": 727065,
+      "raw_hot": 551289,
+      "num": 817807,
       "word": "日本自卫队被曝正在向西南转移",
       "onboard_time": 1764687623,
       "rank": 5,
       "category": "国内时政"
     },
     {
-      "raw_hot": 350066,
+      "raw_hot": 378677,
       "num": 350066,
       "word": "妻子曝光丈夫生前出轨捉奸视频",
       "onboard_time": 1764679462,
       "rank": 13,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 345641,
+      "num": 168747,
+      "word": "李纯和杨幂在同一个健身房锻炼",
+      "onboard_time": 1764691879,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 313671,
@@ -67,6 +75,14 @@
       "category": "海外新闻,时尚"
     },
     {
+      "raw_hot": 257142,
+      "num": 423646,
+      "word": "美军压境委内瑞拉总统大跳热舞",
+      "onboard_time": 1764690681,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 243935,
       "num": 243935,
       "word": "刘宇宁说想回去演戏",
@@ -80,6 +96,14 @@
       "word": "蜜雪冰城 留守儿童",
       "onboard_time": 1764686784,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231966,
+      "num": 414015,
+      "word": "老人腹泻离世儿子睡其床后确诊同症",
+      "onboard_time": 1764683124,
+      "rank": 16,
       "category": "民生新闻"
     },
     {
@@ -97,22 +121,6 @@
       "onboard_time": 1764685764,
       "rank": 8,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 187585,
-      "num": 414015,
-      "word": "老人腹泻离世儿子睡其床后确诊同症",
-      "onboard_time": 1764683124,
-      "rank": 16,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 182203,
-      "num": 168747,
-      "word": "李纯和杨幂在同一个健身房锻炼",
-      "onboard_time": 1764691879,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 181845,
@@ -147,6 +155,14 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 161275,
+      "num": 776392,
+      "word": "疯狂动物城2中国票房惊呆外媒",
+      "onboard_time": 1764682404,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 160230,
       "num": 699733,
       "word": "小米高管疑似集体遭遇短信轰炸",
@@ -155,20 +171,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 146183,
-      "num": 776392,
-      "word": "疯狂动物城2中国票房惊呆外媒",
-      "onboard_time": 1764682404,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 140167,
-      "num": 423646,
-      "word": "美军压境委内瑞拉总统大跳热舞",
-      "onboard_time": 1764690681,
-      "rank": 24,
-      "category": "国际时政"
+      "raw_hot": 141703,
+      "num": 123610,
+      "word": "汶川地震女孩17年后和施救军人结婚",
+      "onboard_time": 1764677543,
+      "rank": 30,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 126160,
@@ -179,12 +187,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116427,
+      "num": 116427,
+      "word": "向太 50岁之前不要买豪车",
+      "onboard_time": 1764696856,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114939,
       "num": 114939,
       "word": "郑天浩 王梓莼",
       "onboard_time": 1764669082,
       "rank": 23,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 113004,
+      "num": 113004,
+      "word": "94岁老人被发现在楼道打地铺生活",
+      "onboard_time": 1764681263,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99871,
@@ -219,6 +243,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 83023,
+      "num": 83023,
+      "word": "外媒称中国买大豆毁掉巴西雨林真相",
+      "onboard_time": 1764682883,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 80860,
+      "num": 80860,
+      "word": "蓝盈莹在东北尝试走路用腰发力",
+      "onboard_time": 1764695417,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 80447,
       "num": 80709,
       "word": "湖南一烧烤店被指直播煮猫爪",
@@ -235,20 +275,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 77494,
-      "num": 82644,
-      "word": "汶川地震女孩17年后和施救军人结婚",
-      "onboard_time": 1764677543,
-      "rank": 30,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 73846,
-      "num": 80530,
-      "word": "94岁老人被发现在楼道打地铺生活",
-      "onboard_time": 1764681263,
-      "rank": 31,
-      "category": "民生新闻"
+      "raw_hot": 76303,
+      "num": 81652,
+      "word": "女子采蘑菇意外发现一窝动物幼崽",
+      "onboard_time": 1764679762,
+      "rank": 48,
+      "category": "情感"
     },
     {
       "raw_hot": 72291,
@@ -307,6 +339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 66102,
+      "num": 79963,
+      "word": "生活中看到这种黄色小花立即上报",
+      "onboard_time": 1764700217,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 64585,
       "num": 83423,
       "word": "大侦探11首案录制阵容",
@@ -315,28 +355,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64196,
-      "num": 80430,
-      "word": "蓝盈莹在东北尝试走路用腰发力",
-      "onboard_time": 1764695417,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 63427,
-      "num": 81216,
-      "word": "外媒称中国买大豆毁掉巴西雨林真相",
-      "onboard_time": 1764682883,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 63421,
       "num": 63421,
       "word": "杨旭文辟谣的是恋情还是订婚",
       "onboard_time": 1764682041,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62785,
+      "num": 62785,
+      "word": "俄美讨论了领土问题",
+      "onboard_time": 1764717559,
+      "rank": 29,
+      "category": "国际时政"
     },
     {
       "raw_hot": 62172,
@@ -363,6 +395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59926,
+      "num": 81865,
+      "word": "男子取170万被打失明获赔7.3万",
+      "onboard_time": 1764698895,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59126,
       "num": 59126,
       "word": "陈哲远马来西亚公主合照",
@@ -377,6 +417,14 @@
       "onboard_time": 1764690441,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58333,
+      "num": 794708,
+      "word": "今年甲流常见问题看这里",
+      "onboard_time": 1764683124,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 55567,
@@ -403,12 +451,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52724,
-      "num": 794708,
-      "word": "今年甲流常见问题看这里",
-      "onboard_time": 1764683124,
-      "rank": 2,
-      "category": "国内时政"
+      "raw_hot": 52358,
+      "num": 81358,
+      "word": "赵本山女儿说在努力还房贷",
+      "onboard_time": 1764697096,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 50981,
@@ -419,20 +467,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 50619,
-      "num": 82306,
-      "word": "向太 50岁之前不要买豪车",
-      "onboard_time": 1764696856,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 47241,
       "num": 79859,
       "word": "刘亦菲 我没有遗传到位",
       "onboard_time": 1764670282,
       "rank": 46,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 42648,
+      "num": 54764,
+      "word": "王一博提名亚洲流行音乐大奖",
+      "onboard_time": 1764714255,
+      "rank": 35,
+      "category": "音乐"
     },
     {
       "raw_hot": 41042,
@@ -443,20 +491,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 40009,
+      "num": 54761,
+      "word": "凤凰台上 删减",
+      "onboard_time": 1764716717,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39919,
       "num": 342265,
       "word": "得闲谨制预售总票房破8000万",
       "onboard_time": 1764710173,
       "rank": 3,
       "category": "电影"
-    },
-    {
-      "raw_hot": 38108,
-      "num": 81652,
-      "word": "女子采蘑菇意外发现一窝动物幼崽",
-      "onboard_time": 1764679762,
-      "rank": 48,
-      "category": "情感"
     },
     {
       "raw_hot": 37508,
@@ -467,20 +515,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 33745,
-      "num": 81358,
-      "word": "赵本山女儿说在努力还房贷",
-      "onboard_time": 1764697096,
-      "rank": 34,
+      "raw_hot": 34869,
+      "num": 54755,
+      "word": "王梓莼的经纪公司",
+      "onboard_time": 1764702674,
+      "rank": 22,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 32848,
-      "num": 79963,
-      "word": "生活中看到这种黄色小花立即上报",
-      "onboard_time": 1764700217,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32383,
@@ -497,30 +537,6 @@
       "onboard_time": 1764696377,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27300,
-      "num": 32799,
-      "word": "王一博提名亚洲流行音乐大奖",
-      "onboard_time": 1764714255,
-      "rank": 35,
-      "category": "音乐"
-    },
-    {
-      "raw_hot": 25100,
-      "num": 81865,
-      "word": "男子取170万被打失明获赔7.3万",
-      "onboard_time": 1764698895,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21481,
-      "num": 26098,
-      "word": "王梓莼的经纪公司",
-      "onboard_time": 1764702674,
-      "rank": 22,
-      "category": "艺人"
     },
     {
       "raw_hot": 19653,
