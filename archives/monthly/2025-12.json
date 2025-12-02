@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764632429139,
+  "endTime": 1764640917432,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -155,6 +155,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 898411,
+      "num": 1143745,
+      "word": "G7凭什么对中国提3个不许",
+      "onboard_time": 1764639019,
+      "rank": 0,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 883597,
       "num": 241624,
       "word": "刘耀文直播",
@@ -307,12 +315,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 541218,
+      "num": 330184,
+      "word": "男子取170万遭抢劫指责银行未施救",
+      "onboard_time": 1764638960,
+      "rank": 10,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 532623,
       "num": 1085219,
       "word": "您有一笔退款12月1日开始确认",
       "onboard_time": 1764571462,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 532462,
+      "num": 260639,
+      "word": "杨幂就吃了一个寿司一口面",
+      "onboard_time": 1764631158,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 522623,
@@ -395,6 +419,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 458817,
+      "num": 329246,
+      "word": "郑恺上戏合影 AI生成",
+      "onboard_time": 1764600983,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 456091,
       "num": 456091,
       "word": "能考85分偏考84分",
@@ -465,14 +497,6 @@
       "onboard_time": 1764519441,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 412231,
-      "num": 236277,
-      "word": "郑恺上戏合影 AI生成",
-      "onboard_time": 1764600983,
-      "rank": 13,
-      "category": "艺人"
     },
     {
       "raw_hot": 412181,
@@ -571,6 +595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 366799,
+      "num": 323976,
+      "word": "才知道原来100%纯棉不是棉",
+      "onboard_time": 1764630977,
+      "rank": 18,
+      "category": "情感"
+    },
+    {
       "raw_hot": 362754,
       "num": 216184,
       "word": "韩国明洞偶遇成龙 成龙在哪",
@@ -579,12 +611,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 352658,
-      "num": 110388,
-      "word": "杨幂就吃了一个寿司一口面",
-      "onboard_time": 1764631158,
+      "raw_hot": 356409,
+      "num": 356409,
+      "word": "盖瑞 敖丙",
+      "onboard_time": 1764638060,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 354271,
+      "num": 253207,
+      "word": "儿子睡亡母生前床上感染同种病毒",
+      "onboard_time": 1764634461,
       "rank": 22,
-      "category": "艺人"
+      "category": "民生新闻"
     },
     {
       "raw_hot": 350960,
@@ -731,6 +771,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 321504,
+      "num": 321504,
+      "word": "母亲去世20年孝子请数万人看3天戏",
+      "onboard_time": 1764635301,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 318365,
       "num": 116225,
       "word": "中国游客在美国商场遇枪击躲试衣间",
@@ -745,6 +793,14 @@
       "onboard_time": 1764590423,
       "rank": 1,
       "category": "体育"
+    },
+    {
+      "raw_hot": 314826,
+      "num": 314826,
+      "word": "应采儿回应没去陈小春演唱会",
+      "onboard_time": 1764636381,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 313313,
@@ -787,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 303847,
+      "num": 303847,
+      "word": "兰晓龙 得闲影业是抄老子的",
+      "onboard_time": 1764636801,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 303612,
       "num": 303612,
       "word": "瘦十斤再见面 这辈子是不见了吗",
@@ -796,7 +860,7 @@
     },
     {
       "raw_hot": 303057,
-      "num": 108319,
+      "num": 250515,
       "word": "胖东来小方糖戒指热卖",
       "onboard_time": 1764630678,
       "rank": 21,
@@ -817,6 +881,14 @@
       "onboard_time": 1764561502,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 301790,
+      "num": 301790,
+      "word": "经济舱大量舒适座位被锁了",
+      "onboard_time": 1764634701,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 300881,
@@ -916,11 +988,19 @@
     },
     {
       "raw_hot": 274068,
-      "num": 573526,
+      "num": 649428,
       "word": "王楚钦盛赞女队队友",
       "onboard_time": 1764595764,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 270120,
+      "num": 270120,
+      "word": "王一博 纽约",
+      "onboard_time": 1764639499,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 267550,
@@ -977,6 +1057,14 @@
       "onboard_time": 1764556760,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 250042,
+      "num": 349345,
+      "word": "曝中国男篮输韩国后开会2小时",
+      "onboard_time": 1764639260,
+      "rank": 5,
+      "category": "体育"
     },
     {
       "raw_hot": 246641,
@@ -1073,6 +1161,14 @@
       "onboard_time": 1764573142,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 226463,
+      "num": 226463,
+      "word": "甲型H3N2流行 症状前24小时排毒",
+      "onboard_time": 1764630737,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 225645,
@@ -1203,14 +1299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 206994,
-      "num": 105372,
-      "word": "甲型H3N2流行 症状前24小时排毒",
-      "onboard_time": 1764630737,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 206886,
       "num": 227935,
       "word": "顾客买鞋子仅退款发AI图",
@@ -1331,20 +1419,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 192605,
-      "num": 192605,
-      "word": "才知道原来100%纯棉不是棉",
-      "onboard_time": 1764630977,
-      "rank": 18,
-      "category": "情感"
-    },
-    {
       "raw_hot": 192259,
       "num": 307446,
       "word": "国考的难度到底有多大",
       "onboard_time": 1764546020,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 190459,
+      "num": 337956,
+      "word": "中国海警依法警告驱离日本船只",
+      "onboard_time": 1764637941,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 189956,
@@ -1497,6 +1585,14 @@
       "onboard_time": 1764567144,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 169770,
+      "num": 353233,
+      "word": "英伟达20亿美元入股新思科技",
+      "onboard_time": 1764634581,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 168385,
@@ -1675,6 +1771,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 157847,
+      "num": 344379,
+      "word": "疯狂动物城1和2的核心差异",
+      "onboard_time": 1764631698,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 157067,
       "num": 215446,
       "word": "孙颖莎王楚钦出战单打",
@@ -1729,6 +1833,14 @@
       "onboard_time": 1764573982,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 154502,
+      "num": 154502,
+      "word": "人在3个年龄会明显变老",
+      "onboard_time": 1764635482,
+      "rank": 28,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 154360,
@@ -1971,6 +2083,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 139684,
+      "num": 139684,
+      "word": "罗云熙同学聚会签名",
+      "onboard_time": 1764636801,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 139295,
       "num": 212818,
       "word": "王励勤希望大家不仅关注明星运动员",
@@ -2091,6 +2211,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 132114,
+      "num": 132114,
+      "word": "金价",
+      "onboard_time": 1764634401,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 131998,
       "num": 131998,
       "word": "中国男篮为何判若两队",
@@ -2209,6 +2337,14 @@
       "onboard_time": 1764581963,
       "rank": 30,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 123367,
+      "num": 123367,
+      "word": "桃黑黑14件事的澄清与回应",
+      "onboard_time": 1764640100,
+      "rank": 33,
+      "category": "游戏"
     },
     {
       "raw_hot": 123324,
@@ -2427,6 +2563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113383,
+      "num": 113383,
+      "word": "印度人凭什么认为印度菜天下无敌",
+      "onboard_time": 1764636322,
+      "rank": 34,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 112867,
       "num": 227717,
       "word": "张奕然李煜东合照",
@@ -2467,6 +2611,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 111003,
+      "num": 111003,
+      "word": "日军欺骗琉球居民集体自杀",
+      "onboard_time": 1764637760,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 110420,
       "num": 303655,
       "word": "人民日报谈小米集团高质量发展",
@@ -2497,6 +2649,22 @@
       "onboard_time": 1764575842,
       "rank": 48,
       "category": "网红"
+    },
+    {
+      "raw_hot": 108689,
+      "num": 108689,
+      "word": "疯狂动物城 鱼类",
+      "onboard_time": 1764635181,
+      "rank": 37,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 107907,
+      "num": 107907,
+      "word": "疑避让路人遇难32岁司机有3个孩子",
+      "onboard_time": 1764637461,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 107249,
@@ -2555,6 +2723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104869,
+      "num": 162337,
+      "word": "中方致函古特雷斯批驳日方无理狡辩",
+      "onboard_time": 1764632539,
+      "rank": 27,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 104623,
       "num": 104623,
       "word": "马克龙12月3日至5日访华",
@@ -2609,6 +2785,14 @@
       "onboard_time": 1764516081,
       "rank": 26,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 101146,
+      "num": 101146,
+      "word": "光看迪丽热巴走路就知道是美女了",
+      "onboard_time": 1764632479,
+      "rank": 40,
+      "category": "剧集"
     },
     {
       "raw_hot": 100855,
@@ -2731,12 +2915,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 95530,
+      "num": 95530,
+      "word": "汪苏泷没想到星期一有这么多人",
+      "onboard_time": 1764635841,
+      "rank": 41,
+      "category": "演出"
+    },
+    {
       "raw_hot": 92911,
       "num": 92911,
       "word": "永远在别人合照里找霍建华林心如",
       "onboard_time": 1764576743,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 92586,
+      "num": 109373,
+      "word": "恋与深空",
+      "onboard_time": 1764635301,
+      "rank": 36,
+      "category": "游戏"
     },
     {
       "raw_hot": 92501,
@@ -2899,14 +3099,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 82924,
-      "num": 56485,
-      "word": "疯狂动物城1和2的核心差异",
-      "onboard_time": 1764631698,
-      "rank": 30,
-      "category": "电影"
-    },
-    {
       "raw_hot": 82888,
       "num": 268386,
       "word": "联合国3个词为中国方案点赞",
@@ -2995,6 +3187,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 79547,
+      "num": 79547,
+      "word": "农村小土狗第一次有了自己的狗窝",
+      "onboard_time": 1764637281,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 79130,
       "num": 144851,
       "word": "艾滋病自愿咨询检测结果仅本人可查",
@@ -3017,6 +3217,14 @@
       "onboard_time": 1764509782,
       "rank": 34,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 77773,
+      "num": 77773,
+      "word": "兰晓龙找到账号了",
+      "onboard_time": 1764639979,
+      "rank": 45,
+      "category": "电影"
     },
     {
       "raw_hot": 77631,
@@ -3043,12 +3251,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 76043,
+      "num": 76043,
+      "word": "向涵之的演技",
+      "onboard_time": 1764632659,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 76007,
       "num": 209368,
       "word": "孙颖莎对王楚钦说相信自己",
       "onboard_time": 1764586943,
       "rank": 43,
       "category": "体育"
+    },
+    {
+      "raw_hot": 75790,
+      "num": 75790,
+      "word": "早睡就能激活全身修复程序",
+      "onboard_time": 1764640580,
+      "rank": 47,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 74394,
@@ -3129,6 +3353,14 @@
       "onboard_time": 1764573681,
       "rank": 38,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 69121,
+      "num": 69121,
+      "word": "秦彻日卡",
+      "onboard_time": 1764638779,
+      "rank": 48,
+      "category": "游戏"
     },
     {
       "raw_hot": 68444,
@@ -3313,6 +3545,14 @@
       "onboard_time": 1764544578,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 56636,
+      "num": 267256,
+      "word": "印尼洪灾已致604人遇难",
+      "onboard_time": 1764640159,
+      "rank": 19,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 56174,
@@ -3779,6 +4019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27312,
+      "num": 384219,
+      "word": "网警侦破AI换脸侵入计算机案",
+      "onboard_time": 1764640280,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 26781,
       "num": 121850,
       "word": "遵义湘江河漂浮粪水臭气熏天",
@@ -3865,6 +4113,14 @@
       "onboard_time": 1764528015,
       "rank": 35,
       "category": "演出"
+    },
+    {
+      "raw_hot": 23534,
+      "num": 335875,
+      "word": "央视调查云南山谷现5000吨垃圾堆",
+      "onboard_time": 1764640521,
+      "rank": 9,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23451,
