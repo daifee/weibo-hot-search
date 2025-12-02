@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764708334190,
+  "endTime": 1764710845987,
   "band_list": [
     {
       "raw_hot": 874607,
@@ -459,6 +459,14 @@
       "category": "美妆"
     },
     {
+      "raw_hot": 31655,
+      "num": 31655,
+      "word": "得闲谨制预售总票房破8000万",
+      "onboard_time": 1764710173,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 29428,
       "num": 80851,
       "word": "男子直播叫嚣来抓我嘛随后被抓",
@@ -523,20 +531,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 13590,
+      "num": 25991,
+      "word": "日本搞事背后",
+      "onboard_time": 1764697817,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11889,
       "num": 23572,
       "word": "陈丽君申报浙江省一级演员",
       "onboard_time": 1764704353,
       "rank": 48,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 11689,
-      "num": 25991,
-      "word": "日本搞事背后",
-      "onboard_time": 1764697817,
-      "rank": 46,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11678,

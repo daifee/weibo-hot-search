@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/03 04:45:34
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/03 05:27:25
 </p>
 </blockquote>
 <p>
@@ -7569,6 +7569,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23" target="weibo">
+得闲谨制预售总票房破8000万（热度：31655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E7%A9%BA%E6%8A%9B%E7%A0%96%E6%A1%88%E6%AD%BB%E8%80%85%E5%AE%B6%E5%B1%9E%E8%B5%B7%E8%AF%89%E9%95%BF%E6%98%A5%E4%B8%87%E8%BE%BE%23" target="weibo">
 高空抛砖案死者家属起诉长春万达（热度：31076）
 </a>
@@ -8049,6 +8055,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23" target="weibo">
+日本搞事背后（热度：13590）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B7%B2%E7%A1%AE%E5%AE%9A%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E4%BB%BB%E4%B8%BB%E5%B8%AD%E4%BA%BA%E9%80%89%23" target="weibo">
 特朗普称已确定美联储下任主席人选（热度：13582）
 </a>
@@ -8105,12 +8117,6 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E7%8C%9B%E6%B6%A8%E5%86%9B%E8%B4%B9%E6%98%AF%E6%83%B3%E6%8A%93%E4%BD%8F%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E5%BF%83%23" target="weibo">
 日本猛涨军费是想抓住特朗普的心（热度：11743）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23" target="weibo">
-日本搞事背后（热度：11689）
 </a>
 </li>
 

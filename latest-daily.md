@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/03 00:38:36 ~ 2025/12/03 04:45:34
+本榜单时间：2025/12/03 00:38:36 ~ 2025/12/03 05:27:25
 </p>
 </blockquote>
 <p>
@@ -357,6 +357,12 @@ iPad中国市场份额大跌（热度：89262）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E9%A2%84%E5%94%AE%E6%80%BB%E7%A5%A8%E6%88%BF%E7%A0%B48000%E4%B8%87%23" target="weibo">
+得闲谨制预售总票房破8000万（热度：31655）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E7%9B%B4%E6%92%AD%E5%8F%AB%E5%9A%A3%E6%9D%A5%E6%8A%93%E6%88%91%E5%98%9B%E9%9A%8F%E5%90%8E%E8%A2%AB%E6%8A%93%23" target="weibo">
 男子直播叫嚣来抓我嘛随后被抓（热度：29428）
 </a>
@@ -405,14 +411,14 @@ iPad中国市场份额大跌（热度：89262）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E7%94%B3%E6%8A%A5%E6%B5%99%E6%B1%9F%E7%9C%81%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%23" target="weibo">
-陈丽君申报浙江省一级演员（热度：11889）
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23" target="weibo">
+日本搞事背后（热度：13590）
 </a>
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23" target="weibo">
-日本搞事背后（热度：11689）
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E4%B8%BD%E5%90%9B%E7%94%B3%E6%8A%A5%E6%B5%99%E6%B1%9F%E7%9C%81%E4%B8%80%E7%BA%A7%E6%BC%94%E5%91%98%23" target="weibo">
+陈丽君申报浙江省一级演员（热度：11889）
 </a>
 </li>
 
