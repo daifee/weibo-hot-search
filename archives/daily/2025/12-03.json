@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764707628776,
+  "endTime": 1764708334190,
   "band_list": [
     {
       "raw_hot": 874607,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 21481,
-      "num": 24011,
+      "num": 26098,
       "word": "王梓莼的经纪公司",
       "onboard_time": 1764702674,
       "rank": 22,
@@ -531,20 +531,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 11689,
+      "num": 25991,
+      "word": "日本搞事背后",
+      "onboard_time": 1764697817,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 11678,
       "num": 79487,
       "word": "原神杜林",
       "onboard_time": 1764698235,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11315,
-      "num": 23930,
-      "word": "日本搞事背后",
-      "onboard_time": 1764697817,
-      "rank": 46,
-      "category": "国际时政"
     }
   ],
   "hotgov_list": [

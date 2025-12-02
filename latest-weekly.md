@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/03 04:33:48
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/03 04:45:34
 </p>
 </blockquote>
 <p>
@@ -8109,6 +8109,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23" target="weibo">
+日本搞事背后（热度：11689）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E7%A5%9E%E6%9D%9C%E6%9E%97%23" target="weibo">
 原神杜林（热度：11678）
 </a>
@@ -8129,12 +8135,6 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%AD%89%E7%AD%89%E6%8C%91%E7%9D%80%E9%82%93%E8%B6%85%E5%AD%99%E4%BF%AA%E7%9A%84%E4%BC%98%E7%82%B9%E9%95%BF%23" target="weibo">
 等等挑着邓超孙俪的优点长（热度：11411）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23" target="weibo">
-日本搞事背后（热度：11315）
 </a>
 </li>
 
