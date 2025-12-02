@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764693516159,
+  "endTime": 1764694435240,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -2883,6 +2883,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 164307,
+      "num": 164307,
+      "word": "华晨宇说国内很少有会唱高音的",
+      "onboard_time": 1764692599,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 163599,
       "num": 213460,
       "word": "曝GALA走是因为TheShy不打了",
@@ -4699,6 +4707,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 105885,
+      "num": 105885,
+      "word": "美军压境委内瑞拉总统大跳热舞",
+      "onboard_time": 1764690681,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 105365,
       "num": 105365,
       "word": "刘诗诗喜欢labubu 因为拉步步",
@@ -4817,14 +4833,6 @@
       "onboard_time": 1764657020,
       "rank": 45,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 102100,
-      "num": 102100,
-      "word": "美军压境委内瑞拉总统大跳热舞",
-      "onboard_time": 1764690681,
-      "rank": 24,
-      "category": "国际时政"
     },
     {
       "raw_hot": 101866,
@@ -5024,14 +5032,6 @@
       "word": "get到向涵之了",
       "onboard_time": 1764516981,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 96537,
-      "num": 96537,
-      "word": "华晨宇说国内很少有会唱高音的",
-      "onboard_time": 1764692599,
-      "rank": 25,
       "category": "艺人"
     },
     {
@@ -5939,6 +5939,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66357,
+      "num": 65912,
+      "word": "2026乒乓球亚洲杯海口举办",
+      "onboard_time": 1764694337,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 66334,
       "num": 108611,
       "word": "外卖餐饮店营业额24万利润2万7",
@@ -6833,6 +6841,14 @@
       "onboard_time": 1764573081,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 32383,
+      "num": 47229,
+      "word": "每天搓脸让你变年轻",
+      "onboard_time": 1764693079,
+      "rank": 49,
+      "category": "美妆"
     },
     {
       "raw_hot": 32360,

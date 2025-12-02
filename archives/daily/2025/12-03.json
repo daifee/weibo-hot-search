@@ -1,10 +1,10 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764693516159,
+  "endTime": 1764694435240,
   "band_list": [
     {
       "raw_hot": 874607,
-      "num": 625594,
+      "num": 699725,
       "word": "日本战争准备曝光",
       "onboard_time": 1764686424,
       "rank": 10,
@@ -84,7 +84,7 @@
     },
     {
       "raw_hot": 208889,
-      "num": 674606,
+      "num": 699743,
       "word": "双高胎否认哥的全宇宙抄袭",
       "onboard_time": 1764685764,
       "rank": 8,
@@ -108,7 +108,7 @@
     },
     {
       "raw_hot": 181845,
-      "num": 181845,
+      "num": 699758,
       "word": "台湾一旦沦为战场什么都是空谈",
       "onboard_time": 1764671661,
       "rank": 17,
@@ -139,8 +139,16 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 164307,
+      "num": 164307,
+      "word": "华晨宇说国内很少有会唱高音的",
+      "onboard_time": 1764692599,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 160230,
-      "num": 648370,
+      "num": 699733,
       "word": "小米高管疑似集体遭遇短信轰炸",
       "onboard_time": 1764678562,
       "rank": 9,
@@ -171,8 +179,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 102100,
-      "num": 102100,
+      "raw_hot": 105885,
+      "num": 105885,
       "word": "美军压境委内瑞拉总统大跳热舞",
       "onboard_time": 1764690681,
       "rank": 24,
@@ -185,14 +193,6 @@
       "onboard_time": 1764685285,
       "rank": 4,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 96537,
-      "num": 96537,
-      "word": "华晨宇说国内很少有会唱高音的",
-      "onboard_time": 1764692599,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 89262,
@@ -299,6 +299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 66357,
+      "num": 65912,
+      "word": "2026乒乓球亚洲杯海口举办",
+      "onboard_time": 1764694337,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63427,
       "num": 63427,
       "word": "外媒称中国买大豆毁掉巴西雨林真相",
@@ -395,12 +403,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47241,
+      "num": 47241,
+      "word": "刘亦菲 我没有遗传到位",
+      "onboard_time": 1764670282,
+      "rank": 46,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 37508,
       "num": 53910,
       "word": "索尼A7M5",
       "onboard_time": 1764687564,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32383,
+      "num": 47229,
+      "word": "每天搓脸让你变年轻",
+      "onboard_time": 1764693079,
+      "rank": 49,
+      "category": "美妆"
     }
   ],
   "hotgov_list": [
