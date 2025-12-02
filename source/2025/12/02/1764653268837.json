@@ -1,0 +1,410 @@
+{
+  "runTime": 1764653268837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 512294,
+        "num": 1081967,
+        "word": "G7凭什么对中国提3个不许",
+        "onboard_time": 1764639019,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 200352,
+        "num": 1080225,
+        "word": "罗永浩谈三星三折叠",
+        "onboard_time": 1764650062,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 39946,
+        "num": 1077456,
+        "word": "刷1条视频上百个集装箱出海了",
+        "onboard_time": 1764649522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 288906,
+        "num": 1073115,
+        "word": "iG 0等五",
+        "onboard_time": 1764648081,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 148941,
+        "num": 1070286,
+        "word": "全影帝阵容这么多年还是很抗打",
+        "onboard_time": 1764649907,
+        "rank": 4,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 309018,
+        "num": 1065858,
+        "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+        "onboard_time": 1764644301,
+        "rank": 5,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 290819,
+        "num": 1062447,
+        "word": "张杰跨年演唱会",
+        "onboard_time": 1764650062,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 214197,
+        "num": 1059361,
+        "word": "恋与深空日卡2.0",
+        "onboard_time": 1764651621,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 198929,
+        "num": 1058005,
+        "word": "央视调查云南山谷现5000吨垃圾堆",
+        "onboard_time": 1764640521,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150120,
+        "num": 1054772,
+        "word": "家长吐槽一上小学就要买打印机",
+        "onboard_time": 1764651802,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1051517,
+        "num": 1051517,
+        "word": "发朋友圈 羞耻感",
+        "onboard_time": 1764650122,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 890831,
+        "num": 890831,
+        "word": "攒了两万条的朋友圈消息被别人点了",
+        "onboard_time": 1764646760,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 438631,
+        "num": 438631,
+        "word": "胡歌自曝母亲看不上他拍的古偶戏",
+        "onboard_time": 1764652222,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 340868,
+        "num": 340868,
+        "word": "敖瑞鹏一觉醒来掉榜二了",
+        "onboard_time": 1764647901,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 339408,
+        "num": 339408,
+        "word": "霍建华朱珠 好标准的男人和女人",
+        "onboard_time": 1764649762,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 257335,
+        "num": 257335,
+        "word": "疯狂动物城 三角恋",
+        "onboard_time": 1764651021,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 241989,
+        "num": 241989,
+        "word": "服奥司他韦防流感有个前提条件",
+        "onboard_time": 1764652700,
+        "rank": 16,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 233703,
+        "num": 233703,
+        "word": "原来脂肪还分棕色和白色",
+        "onboard_time": 1764652641,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 206285,
+        "num": 206285,
+        "word": "任嘉伦脸上的疤",
+        "onboard_time": 1764652222,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122814,
+        "num": 205519,
+        "word": "曝中国男篮输韩国后开会2小时",
+        "onboard_time": 1764639260,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 616480,
+        "num": 203377,
+        "word": "刘诗诗把儿子步步扛上车",
+        "onboard_time": 1764643820,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 292489,
+        "num": 202035,
+        "word": "保温杯四不放",
+        "onboard_time": 1764647541,
+        "rank": 21,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 30981,
+        "num": 198931,
+        "word": "贵州高校现燃气味数千学生深夜撤离",
+        "onboard_time": 1764653001,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 197939,
+        "num": 197939,
+        "word": "菲律宾勾结高市早苗反华",
+        "onboard_time": 1764641240,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274637,
+        "num": 197933,
+        "word": "儿子睡亡母生前床上感染同种病毒",
+        "onboard_time": 1764634461,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 251519,
+        "num": 197903,
+        "word": "三星首款三折叠手机发布",
+        "onboard_time": 1764645801,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 245897,
+        "num": 197866,
+        "word": "胡先煦加奈那让我恋爱脑发作了",
+        "onboard_time": 1764645079,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 229942,
+        "num": 197846,
+        "word": "弦子李茂 老式婚姻具象化了",
+        "onboard_time": 1764651021,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 198608,
+        "num": 197828,
+        "word": "演员洪剑涛景区试戴帽子被要价5元",
+        "onboard_time": 1764652521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104227,
+        "num": 197800,
+        "word": "太阳vs湖人",
+        "onboard_time": 1764649907,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 197774,
+        "num": 197774,
+        "word": "汪苏泷广州",
+        "onboard_time": 1764653061,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 190339,
+        "num": 190339,
+        "word": "小米su7撞坏上百米护栏十多辆车",
+        "onboard_time": 1764652821,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181585,
+        "num": 181585,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 32,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 165378,
+        "num": 165378,
+        "word": "邓佳鑫卧室里摆了易烊千玺照片",
+        "onboard_time": 1764648925,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 162750,
+        "num": 162750,
+        "word": "一部剧爱上三个女人",
+        "onboard_time": 1764645981,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 136752,
+        "num": 155423,
+        "word": "控制狂的爸被逼疯的她",
+        "onboard_time": 1764651200,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153697,
+        "num": 153697,
+        "word": "重度恐猫症",
+        "onboard_time": 1764645860,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 145557,
+        "num": 145557,
+        "word": "汪苏泷杭州演唱会",
+        "onboard_time": 1764608357,
+        "rank": 37,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 69350,
+        "num": 140993,
+        "word": "英首相炒作中国威胁又称生意得做",
+        "onboard_time": 1764652402,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 77763,
+        "num": 139076,
+        "word": "国企员工用双重户籍骗走110万养老金",
+        "onboard_time": 1764652461,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138558,
+        "num": 138558,
+        "word": "没想到黄晓明也开始走中式老钱风了",
+        "onboard_time": 1764651263,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136776,
+        "num": 136776,
+        "word": "王一博 纽约",
+        "onboard_time": 1764639499,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132043,
+        "num": 132043,
+        "word": "日本两个团体请求访华",
+        "onboard_time": 1764641299,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129488,
+        "num": 129488,
+        "word": "休息羞耻",
+        "onboard_time": 1764650781,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 125540,
+        "num": 125540,
+        "word": "2岁小孩的词汇量有多恐怖",
+        "onboard_time": 1764652103,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123200,
+        "num": 123200,
+        "word": "恋与深空登顶",
+        "onboard_time": 1764653241,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 64078,
+        "num": 120279,
+        "word": "王励勤正式成为国乒新周期掌舵人",
+        "onboard_time": 1764649463,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119117,
+        "num": 119117,
+        "word": "A股",
+        "onboard_time": 1764647301,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 42016,
+        "num": 117475,
+        "word": "Jasper问应采儿陈小春帅还是我帅",
+        "onboard_time": 1764651561,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68754,
+        "num": 116642,
+        "word": "机构采购5台电脑预算写2.95亿",
+        "onboard_time": 1764651561,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}

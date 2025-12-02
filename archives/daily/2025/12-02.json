@@ -1,10 +1,10 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764651076384,
+  "endTime": 1764653268837,
   "band_list": [
     {
       "raw_hot": 1286220,
-      "num": 329932,
+      "num": 890831,
       "word": "攒了两万条的朋友圈消息被别人点了",
       "onboard_time": 1764646760,
       "rank": 10,
@@ -17,6 +17,14 @@
       "onboard_time": 1764643820,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1051517,
+      "num": 1051517,
+      "word": "发朋友圈 羞耻感",
+      "onboard_time": 1764650122,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 1030362,
@@ -76,7 +84,7 @@
     },
     {
       "raw_hot": 503047,
-      "num": 324764,
+      "num": 340868,
       "word": "敖瑞鹏一觉醒来掉榜二了",
       "onboard_time": 1764647901,
       "rank": 11,
@@ -92,7 +100,7 @@
     },
     {
       "raw_hot": 484560,
-      "num": 350589,
+      "num": 1062447,
       "word": "张杰跨年演唱会",
       "onboard_time": 1764650062,
       "rank": 31,
@@ -108,11 +116,19 @@
     },
     {
       "raw_hot": 441578,
-      "num": 320726,
+      "num": 339408,
       "word": "霍建华朱珠 好标准的男人和女人",
       "onboard_time": 1764649762,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 438631,
+      "num": 438631,
+      "word": "胡歌自曝母亲看不上他拍的古偶戏",
+      "onboard_time": 1764652222,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 438525,
@@ -132,7 +148,7 @@
     },
     {
       "raw_hot": 424595,
-      "num": 339700,
+      "num": 1058005,
       "word": "央视调查云南山谷现5000吨垃圾堆",
       "onboard_time": 1764640521,
       "rank": 9,
@@ -156,7 +172,7 @@
     },
     {
       "raw_hot": 415125,
-      "num": 343942,
+      "num": 1065858,
       "word": "甲型H3N2毒株严重可导致呼吸衰竭",
       "onboard_time": 1764644301,
       "rank": 7,
@@ -204,7 +220,7 @@
     },
     {
       "raw_hot": 365253,
-      "num": 365253,
+      "num": 1073115,
       "word": "iG 0等五",
       "onboard_time": 1764648081,
       "rank": 3,
@@ -275,14 +291,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 304356,
-      "num": 304356,
-      "word": "发朋友圈 羞耻感",
-      "onboard_time": 1764650122,
-      "rank": 34,
-      "category": "情感"
-    },
-    {
       "raw_hot": 303057,
       "num": 250515,
       "word": "胖东来小方糖戒指热卖",
@@ -331,6 +339,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 257335,
+      "num": 257335,
+      "word": "疯狂动物城 三角恋",
+      "onboard_time": 1764651021,
+      "rank": 48,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 241989,
+      "num": 241989,
+      "word": "服奥司他韦防流感有个前提条件",
+      "onboard_time": 1764652700,
+      "rank": 16,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 241714,
       "num": 788829,
       "word": "金饰克价涨到1336元",
@@ -355,6 +379,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 233703,
+      "num": 233703,
+      "word": "原来脂肪还分棕色和白色",
+      "onboard_time": 1764652641,
+      "rank": 17,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 232853,
       "num": 228746,
       "word": "马市长 邓超",
@@ -371,6 +403,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 229942,
+      "num": 197846,
+      "word": "弦子李茂 老式婚姻具象化了",
+      "onboard_time": 1764651021,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229430,
       "num": 229430,
       "word": "星光大赏",
@@ -385,6 +425,22 @@
       "onboard_time": 1764630737,
       "rank": 20,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 214197,
+      "num": 1059361,
+      "word": "恋与深空日卡2.0",
+      "onboard_time": 1764651621,
+      "rank": 7,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 206285,
+      "num": 206285,
+      "word": "任嘉伦脸上的疤",
+      "onboard_time": 1764652222,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 205787,
@@ -411,6 +467,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 200352,
+      "num": 1080225,
+      "word": "罗永浩谈三星三折叠",
+      "onboard_time": 1764650062,
+      "rank": 8,
+      "category": "数码"
+    },
+    {
       "raw_hot": 199018,
       "num": 199018,
       "word": "46岁高圆圆怼脸皮肤状态",
@@ -419,12 +483,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 198608,
+      "num": 197828,
+      "word": "演员洪剑涛景区试戴帽子被要价5元",
+      "onboard_time": 1764652521,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 197774,
+      "num": 197774,
+      "word": "汪苏泷广州",
+      "onboard_time": 1764653061,
+      "rank": 30,
+      "category": "演出"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "孙怡怎么把海浪穿在身上",
       "onboard_time": 1764648621,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190339,
+      "num": 190339,
+      "word": "小米su7撞坏上百米护栏十多辆车",
+      "onboard_time": 1764652821,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189568,
@@ -468,7 +556,7 @@
     },
     {
       "raw_hot": 178232,
-      "num": 355592,
+      "num": 1070286,
       "word": "全影帝阵容这么多年还是很抗打",
       "onboard_time": 1764649907,
       "rank": 36,
@@ -521,14 +609,6 @@
       "onboard_time": 1764646279,
       "rank": 32,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 168134,
-      "num": 336141,
-      "word": "罗永浩谈三星三折叠",
-      "onboard_time": 1764650062,
-      "rank": 8,
-      "category": "数码"
     },
     {
       "raw_hot": 166810,
@@ -595,12 +675,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150120,
+      "num": 1054772,
+      "word": "家长吐槽一上小学就要买打印机",
+      "onboard_time": 1764651802,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146544,
       "num": 219709,
       "word": "俄国防部公布解放红军城画面",
       "onboard_time": 1764648141,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 145557,
+      "num": 145557,
+      "word": "汪苏泷杭州演唱会",
+      "onboard_time": 1764608357,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 143309,
@@ -627,12 +723,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 138273,
-      "num": 138273,
-      "word": "弦子李茂 老式婚姻具象化了",
-      "onboard_time": 1764651021,
-      "rank": 46,
-      "category": "综艺"
+      "raw_hot": 138558,
+      "num": 138558,
+      "word": "没想到黄晓明也开始走中式老钱风了",
+      "onboard_time": 1764651263,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 137670,
@@ -643,12 +739,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 137570,
-      "num": 137570,
-      "word": "疯狂动物城 三角恋",
-      "onboard_time": 1764651021,
-      "rank": 48,
-      "category": "电影"
+      "raw_hot": 136752,
+      "num": 155423,
+      "word": "控制狂的爸被逼疯的她",
+      "onboard_time": 1764651200,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 135083,
@@ -731,6 +827,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 125540,
+      "num": 125540,
+      "word": "2岁小孩的词汇量有多恐怖",
+      "onboard_time": 1764652103,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 125474,
       "num": 216083,
       "word": "国羽证言央企合资品质N6",
@@ -761,6 +865,14 @@
       "onboard_time": 1764625873,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123200,
+      "num": 123200,
+      "word": "恋与深空登顶",
+      "onboard_time": 1764653241,
+      "rank": 45,
+      "category": "游戏"
     },
     {
       "raw_hot": 121696,
@@ -1027,6 +1139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77763,
+      "num": 139076,
+      "word": "国企员工用双重户籍骗走110万养老金",
+      "onboard_time": 1764652461,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 77456,
       "num": 229105,
       "word": "大生意人 传统长剧",
@@ -1107,12 +1227,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69350,
+      "num": 140993,
+      "word": "英首相炒作中国威胁又称生意得做",
+      "onboard_time": 1764652402,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 69121,
       "num": 69121,
       "word": "秦彻日卡",
       "onboard_time": 1764638779,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 68754,
+      "num": 116642,
+      "word": "机构采购5台电脑预算写2.95亿",
+      "onboard_time": 1764651561,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68666,
@@ -1355,6 +1491,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 42016,
+      "num": 117475,
+      "word": "Jasper问应采儿陈小春帅还是我帅",
+      "onboard_time": 1764651561,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 42012,
       "num": 302880,
       "word": "速福达降维打击凭什么",
@@ -1377,6 +1521,14 @@
       "onboard_time": 1764595582,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 39946,
+      "num": 1077456,
+      "word": "刷1条视频上百个集装箱出海了",
+      "onboard_time": 1764649522,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 39837,
@@ -1411,28 +1563,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36793,
-      "num": 79914,
-      "word": "汪苏泷杭州演唱会",
-      "onboard_time": 1764608357,
-      "rank": 25,
-      "category": "演出"
-    },
-    {
       "raw_hot": 36560,
       "num": 143307,
       "word": "邓佳鑫vlog",
       "onboard_time": 1764602723,
       "rank": 46,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 35545,
-      "num": 394867,
-      "word": "刷1条视频上百个集装箱出海了",
-      "onboard_time": 1764649522,
-      "rank": 2,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 34743,
@@ -1456,6 +1592,14 @@
       "word": "东京飞上海航班紧急返航",
       "onboard_time": 1764646340,
       "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 30981,
+      "num": 198931,
+      "word": "贵州高校现燃气味数千学生深夜撤离",
+      "onboard_time": 1764653001,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
