@@ -1,9 +1,9 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764717967565,
+  "endTime": 1764718772065,
   "band_list": [
     {
-      "raw_hot": 874607,
+      "raw_hot": 937177,
       "num": 699725,
       "word": "日本战争准备曝光",
       "onboard_time": 1764686424,
@@ -19,6 +19,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 651982,
+      "num": 929386,
+      "word": "日本自卫队被曝正在向西南转移",
+      "onboard_time": 1764687623,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 645579,
+      "num": 560729,
+      "word": "华裔女子痔疮手术后不堪剧痛自杀",
+      "onboard_time": 1764686424,
+      "rank": 12,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 621438,
       "num": 621438,
       "word": "汪东城 接委托",
@@ -27,23 +43,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 591381,
-      "num": 560729,
-      "word": "华裔女子痔疮手术后不堪剧痛自杀",
-      "onboard_time": 1764686424,
-      "rank": 12,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 551289,
-      "num": 817807,
-      "word": "日本自卫队被曝正在向西南转移",
-      "onboard_time": 1764687623,
-      "rank": 5,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 378677,
+      "raw_hot": 409905,
       "num": 350066,
       "word": "妻子曝光丈夫生前出轨捉奸视频",
       "onboard_time": 1764679462,
@@ -51,8 +51,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 345641,
-      "num": 168747,
+      "raw_hot": 397057,
+      "num": 169676,
       "word": "李纯和杨幂在同一个健身房锻炼",
       "onboard_time": 1764691879,
       "rank": 20,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 313671,
-      "num": 164307,
+      "num": 167414,
       "word": "华晨宇说国内很少有会唱高音的",
       "onboard_time": 1764692599,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 277203,
+      "num": 414015,
+      "word": "老人腹泻离世儿子睡其床后确诊同症",
+      "onboard_time": 1764683124,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 274828,
@@ -75,7 +83,7 @@
       "category": "海外新闻,时尚"
     },
     {
-      "raw_hot": 257142,
+      "raw_hot": 266472,
       "num": 423646,
       "word": "美军压境委内瑞拉总统大跳热舞",
       "onboard_time": 1764690681,
@@ -99,12 +107,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 231966,
-      "num": 414015,
-      "word": "老人腹泻离世儿子睡其床后确诊同症",
-      "onboard_time": 1764683124,
-      "rank": 16,
-      "category": "民生新闻"
+      "raw_hot": 217339,
+      "num": 699758,
+      "word": "台湾一旦沦为战场什么都是空谈",
+      "onboard_time": 1764671661,
+      "rank": 17,
+      "category": "国内时政"
     },
     {
       "raw_hot": 211613,
@@ -123,12 +131,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 181845,
-      "num": 699758,
-      "word": "台湾一旦沦为战场什么都是空谈",
-      "onboard_time": 1764671661,
-      "rank": 17,
-      "category": "国内时政"
+      "raw_hot": 192904,
+      "num": 776392,
+      "word": "疯狂动物城2中国票房惊呆外媒",
+      "onboard_time": 1764682404,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 174367,
+      "num": 699733,
+      "word": "小米高管疑似集体遭遇短信轰炸",
+      "onboard_time": 1764678562,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 172966,
@@ -147,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 166570,
+      "num": 166570,
+      "word": "汶川地震女孩17年后和施救军人结婚",
+      "onboard_time": 1764677543,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 165933,
       "num": 165933,
       "word": "杨旭文 陈若琳",
@@ -155,28 +179,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 161275,
-      "num": 776392,
-      "word": "疯狂动物城2中国票房惊呆外媒",
-      "onboard_time": 1764682404,
-      "rank": 3,
-      "category": "电影"
-    },
-    {
-      "raw_hot": 160230,
-      "num": 699733,
-      "word": "小米高管疑似集体遭遇短信轰炸",
-      "onboard_time": 1764678562,
-      "rank": 9,
-      "category": "互联网"
-    },
-    {
-      "raw_hot": 141703,
-      "num": 123610,
-      "word": "汶川地震女孩17年后和施救军人结婚",
-      "onboard_time": 1764677543,
-      "rank": 30,
-      "category": "民生新闻"
+      "raw_hot": 137332,
+      "num": 137332,
+      "word": "向太 50岁之前不要买豪车",
+      "onboard_time": 1764696856,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 126160,
@@ -185,14 +193,6 @@
       "onboard_time": 1764684024,
       "rank": 19,
       "category": "情感"
-    },
-    {
-      "raw_hot": 116427,
-      "num": 116427,
-      "word": "向太 50岁之前不要买豪车",
-      "onboard_time": 1764696856,
-      "rank": 44,
-      "category": "艺人"
     },
     {
       "raw_hot": 114939,
@@ -211,6 +211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104004,
+      "num": 104004,
+      "word": "俄美讨论了领土问题",
+      "onboard_time": 1764717559,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 99871,
       "num": 766097,
       "word": "Uzi邀请Wayward试训",
@@ -219,7 +227,15 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 89262,
+      "raw_hot": 99166,
+      "num": 99166,
+      "word": "外媒称中国买大豆毁掉巴西雨林真相",
+      "onboard_time": 1764682883,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 94193,
       "num": 828568,
       "word": "iPad中国市场份额大跌",
       "onboard_time": 1764683724,
@@ -235,24 +251,16 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 85443,
-      "num": 85443,
+      "raw_hot": 85806,
+      "num": 85806,
       "word": "国家发社保补贴了",
       "onboard_time": 1764679462,
       "rank": 27,
       "category": "民生新闻"
     },
     {
-      "raw_hot": 83023,
-      "num": 83023,
-      "word": "外媒称中国买大豆毁掉巴西雨林真相",
-      "onboard_time": 1764682883,
-      "rank": 38,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 80860,
-      "num": 80860,
+      "raw_hot": 85070,
+      "num": 85070,
       "word": "蓝盈莹在东北尝试走路用腰发力",
       "onboard_time": 1764695417,
       "rank": 21,
@@ -283,6 +291,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 73021,
+      "num": 79963,
+      "word": "生活中看到这种黄色小花立即上报",
+      "onboard_time": 1764700217,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 72291,
       "num": 81721,
       "word": "阿凡达3首映",
@@ -291,12 +307,28 @@
       "category": "电影"
     },
     {
-      "raw_hot": 70928,
+      "raw_hot": 70941,
       "num": 80094,
       "word": "江西上饶一工地挖出一对石狮",
       "onboard_time": 1764690381,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70435,
+      "num": 81865,
+      "word": "男子取170万被打失明获赔7.3万",
+      "onboard_time": 1764698895,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 68704,
+      "num": 794708,
+      "word": "今年甲流常见问题看这里",
+      "onboard_time": 1764683124,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 68452,
@@ -339,14 +371,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 66102,
-      "num": 79963,
-      "word": "生活中看到这种黄色小花立即上报",
-      "onboard_time": 1764700217,
-      "rank": 46,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 64585,
       "num": 83423,
       "word": "大侦探11首案录制阵容",
@@ -361,14 +385,6 @@
       "onboard_time": 1764682041,
       "rank": 39,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 62785,
-      "num": 62785,
-      "word": "俄美讨论了领土问题",
-      "onboard_time": 1764717559,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 62172,
@@ -395,16 +411,8 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 59926,
-      "num": 81865,
-      "word": "男子取170万被打失明获赔7.3万",
-      "onboard_time": 1764698895,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59126,
-      "num": 59126,
+      "num": 65571,
       "word": "陈哲远马来西亚公主合照",
       "onboard_time": 1764685163,
       "rank": 43,
@@ -417,14 +425,6 @@
       "onboard_time": 1764690441,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 58333,
-      "num": 794708,
-      "word": "今年甲流常见问题看这里",
-      "onboard_time": 1764683124,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 55567,
@@ -467,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 47413,
+      "num": 65587,
+      "word": "王梓莼的经纪公司",
+      "onboard_time": 1764702674,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 47241,
       "num": 79859,
       "word": "刘亦菲 我没有遗传到位",
@@ -475,8 +483,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 45286,
+      "num": 65583,
+      "word": "凤凰台上 删减",
+      "onboard_time": 1764716717,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 42648,
-      "num": 54764,
+      "num": 65565,
       "word": "王一博提名亚洲流行音乐大奖",
       "onboard_time": 1764714255,
       "rank": 35,
@@ -489,14 +505,6 @@
       "onboard_time": 1764695417,
       "rank": 13,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 40009,
-      "num": 54761,
-      "word": "凤凰台上 删减",
-      "onboard_time": 1764716717,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 39919,
@@ -515,14 +523,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 34869,
-      "num": 54755,
-      "word": "王梓莼的经纪公司",
-      "onboard_time": 1764702674,
-      "rank": 22,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32383,
       "num": 47229,
       "word": "每天搓脸让你变年轻",
@@ -537,6 +537,22 @@
       "onboard_time": 1764696377,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28027,
+      "num": 65542,
+      "word": "林雪猁把爬行动物都赶你家来了",
+      "onboard_time": 1764718698,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 25551,
+      "num": 65536,
+      "word": "索尼A7M5正式发布",
+      "onboard_time": 1764718459,
+      "rank": 49,
+      "category": "数码"
     },
     {
       "raw_hot": 19653,
