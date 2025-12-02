@@ -1,0 +1,410 @@
+{
+  "runTime": 1764642266758,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1030362,
+        "num": 1164857,
+        "word": "G7凭什么对中国提3个不许",
+        "onboard_time": 1764639019,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 74357,
+        "num": 447708,
+        "word": "王楚钦盛赞女队队友",
+        "onboard_time": 1764595764,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 37698,
+        "num": 431617,
+        "word": "网警侦破AI换脸侵入计算机案",
+        "onboard_time": 1764640280,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 418070,
+        "num": 418070,
+        "word": "盖瑞 敖丙",
+        "onboard_time": 1764638060,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 119343,
+        "num": 409016,
+        "word": "英伟达20亿美元入股新思科技",
+        "onboard_time": 1764634581,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 400092,
+        "num": 400092,
+        "word": "曝中国男篮输韩国后开会2小时",
+        "onboard_time": 1764639260,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 328920,
+        "num": 328920,
+        "word": "央视调查云南山谷现5000吨垃圾堆",
+        "onboard_time": 1764640521,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 213540,
+        "num": 328916,
+        "word": "高市早苗被爆花8384万日元仍惨败",
+        "onboard_time": 1764591082,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152222,
+        "num": 327444,
+        "word": "疯狂动物城1和2的核心差异",
+        "onboard_time": 1764631698,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203889,
+        "num": 326031,
+        "word": "中国海警依法警告驱离日本船只",
+        "onboard_time": 1764637941,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 622235,
+        "num": 323492,
+        "word": "男子取170万遭抢劫指责银行未施救",
+        "onboard_time": 1764638960,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 419911,
+        "num": 322361,
+        "word": "郑恺上戏合影 AI生成",
+        "onboard_time": 1764600983,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321841,
+        "num": 321841,
+        "word": "兰晓龙 得闲影业是抄老子的",
+        "onboard_time": 1764636801,
+        "rank": 12,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 316901,
+        "num": 316901,
+        "word": "王一博 纽约",
+        "onboard_time": 1764639499,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 274223,
+        "num": 274223,
+        "word": "才知道原来100%纯棉不是棉",
+        "onboard_time": 1764630977,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 261519,
+        "num": 261519,
+        "word": "应采儿回应没去陈小春演唱会",
+        "onboard_time": 1764636381,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 234825,
+        "num": 234825,
+        "word": "母亲去世20年孝子请数万人看3天戏",
+        "onboard_time": 1764635301,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205606,
+        "num": 205606,
+        "word": "甲型H3N2流行 症状前24小时排毒",
+        "onboard_time": 1764630737,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 191502,
+        "num": 191502,
+        "word": "经济舱大量舒适座位被锁了",
+        "onboard_time": 1764634701,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181968,
+        "num": 181968,
+        "word": "菲律宾勾结高市早苗反华",
+        "onboard_time": 1764641240,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 556640,
+        "num": 181612,
+        "word": "杨幂就吃了一个寿司一口面",
+        "onboard_time": 1764631158,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 326836,
+        "num": 178614,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 21,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 325709,
+        "num": 173012,
+        "word": "儿子睡亡母生前床上感染同种病毒",
+        "onboard_time": 1764634461,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225220,
+        "num": 170129,
+        "word": "胖东来小方糖戒指热卖",
+        "onboard_time": 1764630678,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169027,
+        "num": 169027,
+        "word": "陈赫王传君金世佳同框",
+        "onboard_time": 1764599844,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143172,
+        "num": 143172,
+        "word": "黄金迎突变",
+        "onboard_time": 1764641961,
+        "rank": 25,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 141014,
+        "num": 141014,
+        "word": "人在3个年龄会明显变老",
+        "onboard_time": 1764635482,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 131340,
+        "num": 131340,
+        "word": "印度人凭什么认为印度菜天下无敌",
+        "onboard_time": 1764636322,
+        "rank": 27,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 128868,
+        "num": 128868,
+        "word": "罗云熙同学聚会签名",
+        "onboard_time": 1764636801,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74723,
+        "num": 124812,
+        "word": "智界R7十万公里电池安全挑战",
+        "onboard_time": 1764641121,
+        "rank": 29,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 121281,
+        "num": 121281,
+        "word": "大三男生网络交友3个月感染艾滋病",
+        "onboard_time": 1764599124,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117270,
+        "num": 117270,
+        "word": "日本两个团体请求访华",
+        "onboard_time": 1764641299,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113961,
+        "num": 113961,
+        "word": "倒头就睡可能是身体求救信号",
+        "onboard_time": 1764599782,
+        "rank": 32,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 108971,
+        "num": 108971,
+        "word": "金饰克价涨到1336元",
+        "onboard_time": 1764631038,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 102935,
+        "num": 102935,
+        "word": "这居然是陈晓黑图",
+        "onboard_time": 1764641899,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 93918,
+        "num": 93918,
+        "word": "印尼洪灾已致604人遇难",
+        "onboard_time": 1764640159,
+        "rank": 35,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 102800,
+        "num": 93686,
+        "word": "光看迪丽热巴走路就知道是美女了",
+        "onboard_time": 1764632479,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55584,
+        "num": 92906,
+        "word": "宁波富豪34亿元股票分给子女",
+        "onboard_time": 1764641479,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87211,
+        "num": 92396,
+        "word": "姑娘交3万8相亲不到24小时就后悔",
+        "onboard_time": 1764641299,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 39837,
+        "num": 91645,
+        "word": "养鸡场上空数十只老鹰盘旋等吃鸡",
+        "onboard_time": 1764641479,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91261,
+        "num": 91261,
+        "word": "达美乐 大美乐",
+        "onboard_time": 1764604639,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62111,
+        "num": 91242,
+        "word": "汪苏泷没想到星期一有这么多人",
+        "onboard_time": 1764635841,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 99102,
+        "num": 91242,
+        "word": "日军欺骗琉球居民集体自杀",
+        "onboard_time": 1764637760,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 91240,
+        "num": 91240,
+        "word": "金价",
+        "onboard_time": 1764634401,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 81605,
+        "num": 81605,
+        "word": "疑避让路人遇难32岁司机有3个孩子",
+        "onboard_time": 1764637461,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81238,
+        "num": 81238,
+        "word": "我有个烧钱且小众的爱好",
+        "onboard_time": 1764599183,
+        "rank": 45,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 73535,
+        "num": 73535,
+        "word": "女子烫发4小时称出去透气后疑跑路",
+        "onboard_time": 1764599124,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 73275,
+        "num": 73275,
+        "word": "疯狂动物城 鱼类",
+        "onboard_time": 1764635181,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67625,
+        "num": 73245,
+        "word": "郭士强回应赵睿伤情",
+        "onboard_time": 1764642019,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63155,
+        "num": 73218,
+        "word": "恋与深空",
+        "onboard_time": 1764635301,
+        "rank": 49,
+        "category": "游戏"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
