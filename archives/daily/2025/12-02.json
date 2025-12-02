@@ -1,10 +1,18 @@
 {
   "startTime": 1764607074652,
-  "endTime": 1764646859570,
+  "endTime": 1764650280713,
   "band_list": [
     {
+      "raw_hot": 1282618,
+      "num": 218976,
+      "word": "攒了两万条的朋友圈消息被别人点了",
+      "onboard_time": 1764646760,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 1190318,
-      "num": 201395,
+      "num": 214150,
       "word": "刘诗诗把儿子步步扛上车",
       "onboard_time": 1764643820,
       "rank": 20,
@@ -67,8 +75,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 503047,
+      "num": 218748,
+      "word": "敖瑞鹏一觉醒来掉榜二了",
+      "onboard_time": 1764647901,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 501068,
-      "num": 199876,
+      "num": 212603,
       "word": "桃黑黑14件事的澄清与回应",
       "onboard_time": 1764640100,
       "rank": 33,
@@ -81,6 +97,14 @@
       "onboard_time": 1764600983,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 438525,
+      "num": 438525,
+      "word": "三星首款三折叠手机发布",
+      "onboard_time": 1764645801,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 433286,
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 421746,
-      "num": 196500,
+      "num": 209075,
       "word": "向佐首谈和郭碧婷求婚心情",
       "onboard_time": 1764642800,
       "rank": 22,
@@ -113,6 +137,22 @@
       "onboard_time": 1764638060,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 415125,
+      "num": 236724,
+      "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+      "onboard_time": 1764644301,
+      "rank": 7,
+      "category": "民生新闻,健康医疗"
+    },
+    {
+      "raw_hot": 401519,
+      "num": 218273,
+      "word": "一部剧爱上三个女人",
+      "onboard_time": 1764645981,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 400092,
@@ -139,6 +179,22 @@
       "category": "情感"
     },
     {
+      "raw_hot": 365253,
+      "num": 365253,
+      "word": "iG 0等五",
+      "onboard_time": 1764648081,
+      "rank": 3,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 360185,
+      "num": 213666,
+      "word": "重度恐猫症",
+      "onboard_time": 1764645860,
+      "rank": 42,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 354271,
       "num": 253207,
       "word": "儿子睡亡母生前床上感染同种病毒",
@@ -155,14 +211,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 339529,
-      "num": 339529,
-      "word": "三星首款三折叠手机发布",
-      "onboard_time": 1764645801,
-      "rank": 1,
-      "category": "数码"
-    },
-    {
       "raw_hot": 324532,
       "num": 734856,
       "word": "达美乐 大美乐",
@@ -177,6 +225,14 @@
       "onboard_time": 1764636801,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 321591,
+      "num": 213437,
+      "word": "保温杯四不放",
+      "onboard_time": 1764647541,
+      "rank": 23,
+      "category": "情感"
     },
     {
       "raw_hot": 321504,
@@ -219,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 296738,
+      "num": 212072,
+      "word": "A股",
+      "onboard_time": 1764647301,
+      "rank": 26,
+      "category": "财经"
+    },
+    {
       "raw_hot": 277027,
       "num": 214948,
       "word": "日本两个团体请求访华",
@@ -235,20 +299,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 267953,
-      "num": 226077,
-      "word": "甲型H3N2毒株严重可导致呼吸衰竭",
-      "onboard_time": 1764644301,
-      "rank": 7,
-      "category": "民生新闻,健康医疗"
-    },
-    {
-      "raw_hot": 251220,
-      "num": 206767,
-      "word": "一部剧爱上三个女人",
-      "onboard_time": 1764645981,
-      "rank": 49,
-      "category": "剧集"
+      "raw_hot": 251558,
+      "num": 211342,
+      "word": "邓佳鑫卧室里摆了易烊千玺照片",
+      "onboard_time": 1764648925,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 241714,
@@ -275,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 234329,
+      "num": 209612,
+      "word": "张杰跨年演唱会",
+      "onboard_time": 1764650062,
+      "rank": 31,
+      "category": "演出"
+    },
+    {
       "raw_hot": 232853,
       "num": 228746,
       "word": "马市长 邓超",
@@ -297,6 +361,14 @@
       "onboard_time": 1764589822,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 226561,
+      "num": 209224,
+      "word": "霍建华朱珠 好标准的男人和女人",
+      "onboard_time": 1764649762,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 226463,
@@ -323,6 +395,30 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 202863,
+      "num": 202863,
+      "word": "发朋友圈 羞耻感",
+      "onboard_time": 1764650122,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 194476,
+      "num": 194476,
+      "word": "孙怡怎么把海浪穿在身上",
+      "onboard_time": 1764648621,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 189568,
+      "num": 189568,
+      "word": "邓紫棋广州跨年场",
+      "onboard_time": 1764649702,
+      "rank": 40,
+      "category": "演出"
+    },
+    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
@@ -331,12 +427,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 184198,
-      "num": 184198,
-      "word": "重度恐猫症",
-      "onboard_time": 1764645860,
-      "rank": 42,
-      "category": "幽默"
+      "raw_hot": 183678,
+      "num": 183678,
+      "word": "长佩崩了",
+      "onboard_time": 1764649401,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 179520,
@@ -345,6 +441,14 @@
       "onboard_time": 1764614954,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 176087,
+      "num": 176087,
+      "word": "白鹿不愧是坐在路由器上的女人",
+      "onboard_time": 1764649641,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 175761,
@@ -372,11 +476,27 @@
     },
     {
       "raw_hot": 169345,
-      "num": 169345,
+      "num": 187274,
       "word": "JDG宣布GALA入队",
       "onboard_time": 1764646279,
       "rank": 32,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 166810,
+      "num": 166810,
+      "word": "一找工作全是研究生",
+      "onboard_time": 1764649582,
+      "rank": 49,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 166304,
+      "num": 217227,
+      "word": "地枭多疑但实在好骗",
+      "onboard_time": 1764649822,
+      "rank": 14,
+      "category": "剧集"
     },
     {
       "raw_hot": 165481,
@@ -451,6 +571,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133534,
+      "num": 189986,
+      "word": "别人离婚800遍的剧情他两演成了爱情",
+      "onboard_time": 1764649161,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 132114,
       "num": 132114,
       "word": "金价",
@@ -515,8 +643,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 126607,
+      "num": 211180,
+      "word": "太阳vs湖人",
+      "onboard_time": 1764649907,
+      "rank": 28,
+      "category": "体育"
+    },
+    {
       "raw_hot": 125474,
-      "num": 203886,
+      "num": 216083,
       "word": "国羽证言央企合资品质N6",
       "onboard_time": 1764645741,
       "rank": 15,
@@ -587,6 +723,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 108727,
+      "num": 219709,
+      "word": "俄国防部公布解放红军城画面",
+      "onboard_time": 1764648141,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 108689,
       "num": 108689,
       "word": "疯狂动物城 鱼类",
@@ -611,6 +755,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106452,
+      "num": 192825,
+      "word": "王励勤正式成为国乒新周期掌舵人",
+      "onboard_time": 1764649463,
+      "rank": 37,
+      "category": "体育"
+    },
+    {
       "raw_hot": 104869,
       "num": 162337,
       "word": "中方致函古特雷斯批驳日方无理狡辩",
@@ -633,6 +785,14 @@
       "onboard_time": 1764632479,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 101866,
+      "num": 181923,
+      "word": "以色列总统回应内塔尼亚胡赦免请求",
+      "onboard_time": 1764648801,
+      "rank": 44,
+      "category": "国际时政"
     },
     {
       "raw_hot": 99379,
@@ -763,12 +923,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 79012,
+      "num": 217744,
+      "word": "秦岚哭戏越克制越心疼",
+      "onboard_time": 1764650001,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 78432,
       "num": 78432,
       "word": "胡歌说女儿习惯了进组的生活",
       "onboard_time": 1764589581,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 78179,
+      "num": 194458,
+      "word": "全影帝阵容这么多年还是很抗打",
+      "onboard_time": 1764649907,
+      "rank": 36,
+      "category": "电影"
     },
     {
       "raw_hot": 77773,
@@ -875,6 +1051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 68101,
+      "num": 191652,
+      "word": "钟丽缇穿搭不是一般人可以驾驭的",
+      "onboard_time": 1764649343,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 67625,
       "num": 73245,
       "word": "郭士强回应赵睿伤情",
@@ -905,6 +1089,14 @@
       "onboard_time": 1764596182,
       "rank": 33,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 62736,
+      "num": 181429,
+      "word": "九尾愿不负每一份信任与期待",
+      "onboard_time": 1764649161,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 62555,
@@ -1043,6 +1235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 47449,
+      "num": 214909,
+      "word": "四个2两个王N6叫地主",
+      "onboard_time": 1764648441,
+      "rank": 19,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 46443,
       "num": 227190,
       "word": "郑恺苗苗牵手参加上戏校庆",
@@ -1081,6 +1281,14 @@
       "onboard_time": 1764584181,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 42012,
+      "num": 215503,
+      "word": "速福达降维打击凭什么",
+      "onboard_time": 1764648441,
+      "rank": 18,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 41762,
@@ -1211,12 +1419,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 23280,
+      "num": 217080,
+      "word": "多地开启速冻模式",
+      "onboard_time": 1764649822,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23088,
       "num": 55305,
       "word": "刘宇宁新歌有去无回",
       "onboard_time": 1764611115,
       "rank": 44,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 22609,
+      "num": 394867,
+      "word": "刷1条视频上百个集装箱出海了",
+      "onboard_time": 1764649522,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20903,
@@ -1270,6 +1494,9 @@
   "hotgov_list": [
     {
       "word": "#营造风清气正的网络空间#"
+    },
+    {
+      "word": "#总书记关心的这件事和你我息息相关#"
     }
   ]
 }
