@@ -1,0 +1,410 @@
+{
+  "runTime": 1764665625185,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 796392,
+        "num": 1127422,
+        "word": "北海道熊尸体多到装不下了",
+        "onboard_time": 1764658461,
+        "rank": 0,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 257010,
+        "num": 257010,
+        "word": "华为鸿蒙",
+        "onboard_time": 1764661460,
+        "rank": 1,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 45058,
+        "num": 256764,
+        "word": "刷1条视频上百个集装箱出海了",
+        "onboard_time": 1764649522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 533245,
+        "num": 255418,
+        "word": "不二之臣双人海报",
+        "onboard_time": 1764663562,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94916,
+        "num": 254283,
+        "word": "罗永浩谈三星三折叠",
+        "onboard_time": 1764650062,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 457098,
+        "num": 252458,
+        "word": "宁波手术离世女婴家属再发声",
+        "onboard_time": 1764661523,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349446,
+        "num": 251907,
+        "word": "全球目前有7例艾滋病治愈者",
+        "onboard_time": 1764664402,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 313714,
+        "num": 250488,
+        "word": "中方坚决反对英首相散布中国威胁",
+        "onboard_time": 1764658820,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 541522,
+        "num": 248964,
+        "word": "中方回应日本团体请求访华",
+        "onboard_time": 1764664042,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212166,
+        "num": 247784,
+        "word": "恋与深空登顶",
+        "onboard_time": 1764653241,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 842560,
+        "num": 247346,
+        "word": "高市早苗再出狂言",
+        "onboard_time": 1764657560,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 701178,
+        "num": 246507,
+        "word": "王梓莼 00花",
+        "onboard_time": 1764654082,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 564184,
+        "num": 245416,
+        "word": "向佐风格大变",
+        "onboard_time": 1764660862,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 510066,
+        "num": 243708,
+        "word": "发朋友圈 羞耻感",
+        "onboard_time": 1764650122,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 303066,
+        "num": 243078,
+        "word": "徐璐唯一受过的苦就是男人的苦",
+        "onboard_time": 1764658820,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293720,
+        "num": 241376,
+        "word": "日本被曝正在研发万能型血浆",
+        "onboard_time": 1764663082,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 240850,
+        "num": 240850,
+        "word": "疯狂动物城 媚中",
+        "onboard_time": 1764665421,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 41836,
+        "num": 239212,
+        "word": "万里远征插混第一车",
+        "onboard_time": 1764665181,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 35012,
+        "num": 238444,
+        "word": "在乎输赢不如论舒赢",
+        "onboard_time": 1764663382,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 17889,
+        "num": 236308,
+        "word": "社会性事务减少教师压力依旧",
+        "onboard_time": 1764665061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1634711,
+        "num": 234139,
+        "word": "李诞 所有女生尽早完成社会化",
+        "onboard_time": 1764661041,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 486016,
+        "num": 232427,
+        "word": "桃黑黑14件事的澄清与回应",
+        "onboard_time": 1764640100,
+        "rank": 21,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 231522,
+        "num": 231522,
+        "word": "胡歌自曝母亲看不上他拍的古偶戏",
+        "onboard_time": 1764652222,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227246,
+        "num": 227246,
+        "word": "业内曝大量艺人资源降级",
+        "onboard_time": 1764654323,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 197727,
+        "num": 197727,
+        "word": "王梓莼是张子枫室友",
+        "onboard_time": 1764664522,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 188570,
+        "num": 188570,
+        "word": "恋与深空登顶福利",
+        "onboard_time": 1764665301,
+        "rank": 25,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 186991,
+        "num": 186991,
+        "word": "新音 三亚",
+        "onboard_time": 1764665001,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 172836,
+        "num": 172836,
+        "word": "甲型H3N2毒株严重可导致呼吸衰竭",
+        "onboard_time": 1764644301,
+        "rank": 27,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 132622,
+        "num": 172830,
+        "word": "男子因吸毒5年内3次被查处",
+        "onboard_time": 1764661582,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81111,
+        "num": 172829,
+        "word": "用千问0元get站姐街拍",
+        "onboard_time": 1764663681,
+        "rank": 29,
+        "category": "时尚,数码"
+      },
+      {
+        "raw_hot": 185847,
+        "num": 172829,
+        "word": "攒了两万条的朋友圈消息被别人点了",
+        "onboard_time": 1764646760,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 172829,
+        "num": 172828,
+        "word": "殷世航自曝65万营业额到手2万",
+        "onboard_time": 1764662241,
+        "rank": 31,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 163584,
+        "num": 163584,
+        "word": "住客全季酒店洗完澡发现花洒有粪便",
+        "onboard_time": 1764657560,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159400,
+        "num": 159400,
+        "word": "桃黑黑 因为我是异性恋",
+        "onboard_time": 1764662301,
+        "rank": 33,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 156004,
+        "num": 156004,
+        "word": "第一次get到了何蓝逗",
+        "onboard_time": 1764664823,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 153806,
+        "num": 153806,
+        "word": "王梓莼 你一定是会被骂",
+        "onboard_time": 1764662842,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153176,
+        "num": 153176,
+        "word": "王者荣耀崩了",
+        "onboard_time": 1764664702,
+        "rank": 36,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 27823,
+        "num": 152541,
+        "word": "安徽霍邱召开全县吐槽大会",
+        "onboard_time": 1764664522,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 50516,
+        "num": 152302,
+        "word": "被短剧抄袭的长剧有哪些",
+        "onboard_time": 1764665363,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152289,
+        "num": 152289,
+        "word": "桃黑黑 别让事情变味",
+        "onboard_time": 1764659962,
+        "rank": 39,
+        "category": "游戏,网红"
+      },
+      {
+        "raw_hot": 142399,
+        "num": 142399,
+        "word": "假性恋爱",
+        "onboard_time": 1764659659,
+        "rank": 40,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135885,
+        "num": 135885,
+        "word": "花海V领白衬衫",
+        "onboard_time": 1764664823,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 94613,
+        "num": 131322,
+        "word": "台湾青年拒绝为台独打仗当炮灰",
+        "onboard_time": 1764663441,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 51945,
+        "num": 130473,
+        "word": "大生意人剥夺山西人睡午觉",
+        "onboard_time": 1764664163,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130150,
+        "num": 130150,
+        "word": "小米回应男子买小米YU7收到运损车",
+        "onboard_time": 1764665542,
+        "rank": 44,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 129622,
+        "num": 129622,
+        "word": "庾澄庆看何炅的表情让我一品再品",
+        "onboard_time": 1764657679,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 128638,
+        "num": 128638,
+        "word": "外交部回应日本团体请求访华",
+        "onboard_time": 1764663862,
+        "rank": 46,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127024,
+        "num": 127024,
+        "word": "香港13平3个卧室住宅",
+        "onboard_time": 1764660802,
+        "rank": 47,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117286,
+        "num": 117286,
+        "word": "男子出租屋内杀害女友一审被判死缓",
+        "onboard_time": 1764662241,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113632,
+        "num": 113632,
+        "word": "橘朵26元眉笔一半是空的",
+        "onboard_time": 1764660502,
+        "rank": 49,
+        "category": "美妆"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关心的这件事和你我息息相关#"
+    }
+  }
+}

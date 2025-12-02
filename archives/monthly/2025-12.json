@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764664762143,
+  "endTime": 1764665625185,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1799138,
-      "num": 224579,
+      "num": 234139,
       "word": "李诞 所有女生尽早完成社会化",
       "onboard_time": 1764661041,
       "rank": 25,
@@ -380,7 +380,7 @@
     },
     {
       "raw_hot": 580620,
-      "num": 244680,
+      "num": 245416,
       "word": "向佐风格大变",
       "onboard_time": 1764660862,
       "rank": 35,
@@ -467,12 +467,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 541522,
+      "num": 248964,
+      "word": "中方回应日本团体请求访华",
+      "onboard_time": 1764664042,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 539607,
       "num": 539607,
       "word": "服奥司他韦防流感有个前提条件",
       "onboard_time": 1764652700,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 533245,
+      "num": 256601,
+      "word": "不二之臣双人海报",
+      "onboard_time": 1764663562,
+      "rank": 3,
+      "category": "剧集"
     },
     {
       "raw_hot": 532623,
@@ -587,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 457098,
+      "num": 252458,
+      "word": "宁波手术离世女婴家属再发声",
+      "onboard_time": 1764661523,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 456091,
       "num": 456091,
       "word": "能考85分偏考84分",
@@ -691,28 +715,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 422707,
-      "num": 256601,
-      "word": "不二之臣双人海报",
-      "onboard_time": 1764663562,
-      "rank": 3,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 421746,
       "num": 209075,
       "word": "向佐首谈和郭碧婷求婚心情",
       "onboard_time": 1764642800,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 421354,
-      "num": 250564,
-      "word": "宁波手术离世女婴家属再发声",
-      "onboard_time": 1764661523,
-      "rank": 5,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 420137,
@@ -929,6 +937,14 @@
       "onboard_time": 1764564144,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 349446,
+      "num": 251907,
+      "word": "全球目前有7例艾滋病治愈者",
+      "onboard_time": 1764664402,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 349201,
@@ -1499,6 +1515,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240850,
+      "num": 240850,
+      "word": "疯狂动物城 媚中",
+      "onboard_time": 1764665421,
+      "rank": 16,
+      "category": "电影"
+    },
+    {
       "raw_hot": 238078,
       "num": 707874,
       "word": "日本国宝级歌手喊话高市爽快一点",
@@ -1867,6 +1891,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 197727,
+      "num": 197727,
+      "word": "王梓莼是张子枫室友",
+      "onboard_time": 1764664522,
+      "rank": 36,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 197538,
       "num": 197538,
       "word": "风与潮",
@@ -1971,12 +2003,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 188570,
+      "num": 188570,
+      "word": "恋与深空登顶福利",
+      "onboard_time": 1764665301,
+      "rank": 25,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
       "onboard_time": 1764645259,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186991,
+      "num": 186991,
+      "word": "新音 三亚",
+      "onboard_time": 1764665001,
+      "rank": 26,
+      "category": "演出"
     },
     {
       "raw_hot": 186823,
@@ -2147,14 +2195,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 175584,
-      "num": 175584,
-      "word": "全球目前有7例艾滋病治愈者",
-      "onboard_time": 1764664402,
-      "rank": 32,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 174554,
       "num": 174554,
       "word": "王楚钦2比0阿卜杜拉齐兹",
@@ -2177,6 +2217,14 @@
       "onboard_time": 1764650183,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 172829,
+      "num": 172828,
+      "word": "殷世航自曝65万营业额到手2万",
+      "onboard_time": 1764662241,
+      "rank": 42,
+      "category": "网红"
     },
     {
       "raw_hot": 171832,
@@ -2305,14 +2353,6 @@
       "onboard_time": 1764515421,
       "rank": 6,
       "category": "电影"
-    },
-    {
-      "raw_hot": 165254,
-      "num": 165254,
-      "word": "王梓莼是张子枫室友",
-      "onboard_time": 1764664522,
-      "rank": 36,
-      "category": "综艺"
     },
     {
       "raw_hot": 164689,
@@ -2475,6 +2515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 156004,
+      "num": 156004,
+      "word": "第一次get到了何蓝逗",
+      "onboard_time": 1764664823,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155765,
       "num": 155765,
       "word": "十个勤天种地DNA动了",
@@ -2523,12 +2571,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 153806,
+      "num": 153806,
+      "word": "王梓莼 你一定是会被骂",
+      "onboard_time": 1764662842,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 153245,
       "num": 228332,
       "word": "女儿回应老人花10元剃头满头血痂",
       "onboard_time": 1764592762,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153176,
+      "num": 153176,
+      "word": "王者荣耀崩了",
+      "onboard_time": 1764664702,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 152969,
@@ -2795,14 +2859,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 141558,
-      "num": 141558,
-      "word": "殷世航自曝65万营业额到手2万",
-      "onboard_time": 1764662241,
-      "rank": 42,
-      "category": "网红"
-    },
-    {
       "raw_hot": 140947,
       "num": 212686,
       "word": "女律师被砸身亡后家属不敢单独出门",
@@ -2860,7 +2916,7 @@
     },
     {
       "raw_hot": 138166,
-      "num": 169311,
+      "num": 172830,
       "word": "男子因吸毒5年内3次被查处",
       "onboard_time": 1764661582,
       "rank": 34,
@@ -2905,6 +2961,14 @@
       "onboard_time": 1764583343,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 135885,
+      "num": 135885,
+      "word": "花海V领白衬衫",
+      "onboard_time": 1764664823,
+      "rank": 41,
+      "category": "电竞"
     },
     {
       "raw_hot": 135721,
@@ -3081,6 +3145,14 @@
       "onboard_time": 1764587482,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 130150,
+      "num": 130150,
+      "word": "小米回应男子买小米YU7收到运损车",
+      "onboard_time": 1764665542,
+      "rank": 44,
+      "category": "民生新闻,汽车"
     },
     {
       "raw_hot": 130096,
@@ -3513,14 +3585,6 @@
       "onboard_time": 1764544637,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 114203,
-      "num": 114203,
-      "word": "王者荣耀崩了",
-      "onboard_time": 1764664702,
-      "rank": 47,
-      "category": "游戏"
     },
     {
       "raw_hot": 114110,
@@ -4003,6 +4067,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 94613,
+      "num": 224578,
+      "word": "台湾青年拒绝为台独打仗当炮灰",
+      "onboard_time": 1764663441,
+      "rank": 21,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 94252,
       "num": 94252,
       "word": "成都串串摊主回收汤底威胁食客",
@@ -4315,6 +4387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 81111,
+      "num": 178627,
+      "word": "用千问0元get站姐街拍",
+      "onboard_time": 1764663681,
+      "rank": 29,
+      "category": "时尚,数码"
+    },
+    {
       "raw_hot": 80618,
       "num": 109171,
       "word": "Ella肉眼可见的气血充足感",
@@ -4323,28 +4403,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 80573,
-      "num": 247054,
-      "word": "中方回应日本团体请求访华",
-      "onboard_time": 1764664042,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 80475,
       "num": 91865,
       "word": "皮皮朱回怼女人独立要男人干啥",
       "onboard_time": 1764512062,
       "rank": 33,
       "category": "网红"
-    },
-    {
-      "raw_hot": 79952,
-      "num": 178627,
-      "word": "用千问0元get站姐街拍",
-      "onboard_time": 1764663681,
-      "rank": 29,
-      "category": "时尚,数码"
     },
     {
       "raw_hot": 79547,
@@ -4388,7 +4452,7 @@
     },
     {
       "raw_hot": 77832,
-      "num": 224580,
+      "num": 238444,
       "word": "在乎输赢不如论舒赢",
       "onboard_time": 1764663382,
       "rank": 19,
@@ -4947,14 +5011,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 51967,
-      "num": 224578,
-      "word": "台湾青年拒绝为台独打仗当炮灰",
-      "onboard_time": 1764663441,
-      "rank": 21,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51850,
       "num": 55199,
       "word": "那么漂亮了性格恶劣一点也没关系",
@@ -4977,6 +5033,14 @@
       "onboard_time": 1764597263,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 50516,
+      "num": 152302,
+      "word": "被短剧抄袭的长剧有哪些",
+      "onboard_time": 1764665363,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 47449,
@@ -5033,6 +5097,14 @@
       "onboard_time": 1764581723,
       "rank": 39,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 45058,
+      "num": 1087704,
+      "word": "刷1条视频上百个集装箱出海了",
+      "onboard_time": 1764649522,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 44600,
@@ -5099,14 +5171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43486,
-      "num": 1087704,
-      "word": "刷1条视频上百个集装箱出海了",
-      "onboard_time": 1764649522,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43354,
       "num": 160724,
       "word": "150元冰箱配件 维修收费899元",
@@ -5169,6 +5233,14 @@
       "onboard_time": 1764648441,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 41836,
+      "num": 239212,
+      "word": "万里远征插混第一车",
+      "onboard_time": 1764665181,
+      "rank": 17,
+      "category": "汽车"
     },
     {
       "raw_hot": 41762,
@@ -5435,6 +5507,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27823,
+      "num": 152541,
+      "word": "安徽霍邱召开全县吐槽大会",
+      "onboard_time": 1764664522,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 27075,
       "num": 124252,
       "word": "个税专项扣除请避开这些填报易错点",
@@ -5555,14 +5635,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23087,
-      "num": 150880,
-      "word": "安徽霍邱召开全县吐槽大会",
-      "onboard_time": 1764664522,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 20846,
       "num": 121568,
       "word": "申裕斌采访禁止卖萌",
@@ -5616,6 +5688,14 @@
       "word": "长春高空抛物致死案今日再开庭",
       "onboard_time": 1764556160,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 17889,
+      "num": 236308,
+      "word": "社会性事务减少教师压力依旧",
+      "onboard_time": 1764665061,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
