@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764737407795,
+  "endTime": 1764739677149,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -339,6 +339,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 1073347,
+      "num": 1379669,
+      "word": "朱雀三号任务一级回收失败",
+      "onboard_time": 1764737302,
+      "rank": 1,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 1056632,
       "num": 1056632,
       "word": "国考图推",
@@ -433,6 +441,14 @@
       "onboard_time": 1764565164,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 921189,
+      "num": 921189,
+      "word": "腾讯电视剧道歉",
+      "onboard_time": 1764737243,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 905513,
@@ -2027,6 +2043,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 341820,
+      "num": 341819,
+      "word": "尼克朱迪年龄差",
+      "onboard_time": 1764736644,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 341149,
       "num": 189396,
       "word": "李诞痛骂总有负面思想的女生",
@@ -2555,14 +2579,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 280784,
-      "num": 1379669,
-      "word": "朱雀三号任务一级回收失败",
-      "onboard_time": 1764737302,
-      "rank": 1,
-      "category": "科学科普"
-    },
-    {
       "raw_hot": 280680,
       "num": 926059,
       "word": "LCK引入教练语音机制",
@@ -2987,6 +3003,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 230788,
+      "num": 176515,
+      "word": "小明剑魔结婚",
+      "onboard_time": 1764738802,
+      "rank": 23,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 230094,
       "num": 1931495,
       "word": "iPad中国市场份额大跌",
@@ -3227,6 +3251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 214419,
+      "num": 214419,
+      "word": "马航MH370已失踪11年",
+      "onboard_time": 1764738622,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214197,
       "num": 1059361,
       "word": "恋与深空日卡2.0",
@@ -3276,7 +3308,7 @@
     },
     {
       "raw_hot": 212491,
-      "num": 158668,
+      "num": 174678,
       "word": "意大利穿冲锋衣被问为什么穿丑衣服",
       "onboard_time": 1764736764,
       "rank": 30,
@@ -3393,6 +3425,14 @@
       "onboard_time": 1764598463,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 206304,
+      "num": 206304,
+      "word": "双轨北美播出",
+      "onboard_time": 1764739041,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 206285,
@@ -3527,6 +3567,14 @@
       "num": 287482,
       "word": "梁朝伟时隔36年再拍电视剧",
       "onboard_time": 1764469760,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 201227,
+      "num": 201227,
+      "word": "迪丽热巴剪到手那段播了",
+      "onboard_time": 1764737483,
       "rank": 16,
       "category": "剧集"
     },
@@ -3745,6 +3793,14 @@
       "onboard_time": 1764654742,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 192470,
+      "num": 341858,
+      "word": "工行三年期大额存单门槛100万",
+      "onboard_time": 1764735984,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 192259,
@@ -4107,6 +4163,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 177602,
+      "num": 138044,
+      "word": "流感药玛巴洛沙韦为什么这么高效",
+      "onboard_time": 1764737483,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 177217,
       "num": 177217,
       "word": "日本正武装菲律宾",
@@ -4273,14 +4337,6 @@
       "onboard_time": 1764594264,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 171470,
-      "num": 171470,
-      "word": "尼克朱迪年龄差",
-      "onboard_time": 1764736644,
-      "rank": 23,
-      "category": "电影"
     },
     {
       "raw_hot": 171390,
@@ -4739,14 +4795,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 157302,
-      "num": 157302,
-      "word": "工行三年期大额存单门槛100万",
-      "onboard_time": 1764735984,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 157067,
       "num": 215446,
       "word": "孙颖莎王楚钦出战单打",
@@ -5057,6 +5105,14 @@
       "onboard_time": 1764598643,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 150353,
+      "num": 150353,
+      "word": "疼老婆的人背后一套表面更是一套",
+      "onboard_time": 1764738022,
+      "rank": 27,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 150264,
@@ -6459,6 +6515,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121617,
+      "num": 121617,
+      "word": "王楚钦孙颖莎vs克罗地亚组合",
+      "onboard_time": 1764739581,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 121566,
       "num": 121566,
       "word": "赵雅芝全家福",
@@ -6785,6 +6849,14 @@
       "onboard_time": 1764499040,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 117443,
+      "num": 117443,
+      "word": "第二杯半价不是一个人喝两杯",
+      "onboard_time": 1764737783,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 117425,
@@ -7451,6 +7523,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107458,
+      "num": 106624,
+      "word": "田曦薇新剧",
+      "onboard_time": 1764735323,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 107152,
       "num": 107152,
       "word": "混团世界杯八强产生",
@@ -7481,14 +7561,6 @@
       "onboard_time": 1764731001,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 106624,
-      "num": 106624,
-      "word": "田曦薇新剧",
-      "onboard_time": 1764735323,
-      "rank": 46,
-      "category": "剧集"
     },
     {
       "raw_hot": 106463,
@@ -7553,6 +7625,14 @@
       "onboard_time": 1764577883,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 105633,
+      "num": 105633,
+      "word": "周依然新剧一手烂牌打成王炸",
+      "onboard_time": 1764738984,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 105597,
@@ -7763,6 +7843,14 @@
       "category": "艺人,数码"
     },
     {
+      "raw_hot": 102614,
+      "num": 102614,
+      "word": "原来医生说的吃药时间是这个意思",
+      "onboard_time": 1764738862,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 102598,
       "num": 102598,
       "word": "卢昱晓内场第二套",
@@ -7841,14 +7929,6 @@
       "onboard_time": 1764675623,
       "rank": 44,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 101560,
-      "num": 101560,
-      "word": "腾讯电视剧道歉",
-      "onboard_time": 1764737243,
-      "rank": 47,
-      "category": "剧集"
     },
     {
       "raw_hot": 101503,
@@ -8251,6 +8331,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 95477,
+      "num": 1183542,
+      "word": "东北大冰箱营业了",
+      "onboard_time": 1764724041,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95465,
       "num": 313595,
       "word": "上海二手房业主抱团挂出1460万统一价",
@@ -8305,6 +8393,14 @@
       "onboard_time": 1764659962,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94213,
+      "num": 94213,
+      "word": "白鹿孟子义谁的副驾更需要买保险",
+      "onboard_time": 1764738142,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 93950,
@@ -8528,6 +8624,14 @@
       "word": "凤凰台上双死也是he",
       "onboard_time": 1764731722,
       "rank": 39,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90143,
+      "num": 90143,
+      "word": "2025人气口碑剧",
+      "onboard_time": 1764738262,
+      "rank": 47,
       "category": "剧集"
     },
     {
@@ -10251,6 +10355,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 52727,
+      "num": 94808,
+      "word": "华裔奶奶遭美国小伙毒打致死",
+      "onboard_time": 1764739640,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 52358,
       "num": 81358,
       "word": "赵本山女儿说在努力还房贷",
@@ -10361,6 +10473,14 @@
       "onboard_time": 1764515841,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49470,
+      "num": 90067,
+      "word": "5个人里3个人在嗑cp",
+      "onboard_time": 1764737843,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 49340,
@@ -10521,6 +10641,14 @@
       "onboard_time": 1764649522,
       "rank": 2,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 44933,
+      "num": 193128,
+      "word": "欧米茄橙席卷重庆",
+      "onboard_time": 1764738682,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 44880,
@@ -10808,14 +10936,6 @@
       "word": "养鸡场上空数十只老鹰盘旋等吃鸡",
       "onboard_time": 1764641479,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39705,
-      "num": 1183542,
-      "word": "东北大冰箱营业了",
-      "onboard_time": 1764724041,
-      "rank": 2,
       "category": "民生新闻"
     },
     {
@@ -11817,6 +11937,14 @@
       "onboard_time": 1764683003,
       "rank": 48,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 11468,
+      "num": 178518,
+      "word": "黄牛开价百元代抢离婚预约号",
+      "onboard_time": 1764739342,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11411,
