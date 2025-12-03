@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764787337992,
+  "endTime": 1764788106220,
   "band_list": [
     {
       "raw_hot": 606778,
@@ -459,11 +459,19 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 18533,
+      "raw_hot": 23086,
       "num": 31660,
       "word": "于正不认识王梓莼",
       "onboard_time": 1764786494,
       "rank": 34,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 20556,
+      "num": 31634,
+      "word": "黄子韬徐艺洋挽手下飞机",
+      "onboard_time": 1764786555,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -475,15 +483,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 17638,
-      "num": 31634,
-      "word": "黄子韬徐艺洋挽手下飞机",
-      "onboard_time": 1764786555,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14384,
+      "raw_hot": 15283,
       "num": 31607,
       "word": "小浣熊偷喝商店烈酒醉倒在厕所",
       "onboard_time": 1764787035,
