@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764727300311,
+  "endTime": 1764728659283,
   "band_list": [
     {
       "raw_hot": 1659502,
@@ -28,10 +28,18 @@
     },
     {
       "raw_hot": 701594,
-      "num": 219157,
+      "num": 651084,
       "word": "顾客取消订单商家让骑手当晚餐吃",
       "onboard_time": 1764721883,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 684341,
+      "num": 684341,
+      "word": "厂家承认有幼童硅胶娃娃且功能齐全",
+      "onboard_time": 1764727040,
+      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -60,7 +68,7 @@
     },
     {
       "raw_hot": 559414,
-      "num": 216090,
+      "num": 485198,
       "word": "原来洗澡是重启人生的最小单位",
       "onboard_time": 1764720621,
       "rank": 11,
@@ -75,12 +83,36 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 463880,
+      "num": 463880,
+      "word": "特朗普宣布拜登时期文件全部作废",
+      "onboard_time": 1764723861,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 450773,
-      "num": 214437,
+      "num": 295824,
       "word": "美国",
       "onboard_time": 1764722541,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 420610,
+      "num": 420610,
+      "word": "暗访多平台销售儿童款硅胶娃娃",
+      "onboard_time": 1764725360,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 410976,
+      "num": 612266,
+      "word": "电动车新国标",
+      "onboard_time": 1764727700,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 409905,
@@ -100,27 +132,11 @@
     },
     {
       "raw_hot": 383521,
-      "num": 383521,
+      "num": 815056,
       "word": "香奈儿大秀",
       "onboard_time": 1764725961,
       "rank": 3,
       "category": "时尚,作品衍生"
-    },
-    {
-      "raw_hot": 351975,
-      "num": 218577,
-      "word": "暗访多平台销售儿童款硅胶娃娃",
-      "onboard_time": 1764725360,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 327770,
-      "num": 213509,
-      "word": "特朗普宣布拜登时期文件全部作废",
-      "onboard_time": 1764723861,
-      "rank": 15,
-      "category": "国际时政"
     },
     {
       "raw_hot": 313671,
@@ -163,8 +179,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 246882,
-      "num": 213137,
+      "raw_hot": 253978,
+      "num": 253978,
       "word": "奥司他韦已出现耐药情况",
       "onboard_time": 1764719660,
       "rank": 16,
@@ -227,7 +243,7 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 199085,
+      "raw_hot": 200578,
       "num": 199085,
       "word": "张凌赫已连续11个月换自动回复",
       "onboard_time": 1764724640,
@@ -283,6 +299,38 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 154332,
+      "num": 154332,
+      "word": "小狗被偷待宰主人羊肉店找回",
+      "onboard_time": 1764724161,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 149477,
+      "num": 149477,
+      "word": "印尼洪灾已致753人死亡",
+      "onboard_time": 1764728240,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 143421,
+      "num": 143421,
+      "word": "网友调侃蛇盖瑞火了才看清楚脸",
+      "onboard_time": 1764727160,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 139048,
+      "num": 139048,
+      "word": "日本投降书明确台湾归还中国",
+      "onboard_time": 1764728061,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 137332,
       "num": 137332,
       "word": "向太 50岁之前不要买豪车",
@@ -291,11 +339,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133587,
-      "num": 133587,
-      "word": "小狗被偷待宰主人羊肉店找回",
-      "onboard_time": 1764724161,
-      "rank": 25,
+      "raw_hot": 136567,
+      "num": 136567,
+      "word": "狗主人回应小狗被陌生母子抱走",
+      "onboard_time": 1764727700,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -307,19 +355,35 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125895,
+      "num": 125895,
+      "word": "星光大赏公式照",
+      "onboard_time": 1764726801,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 123584,
+      "num": 123584,
+      "word": "戴尔创始人豪捐62.5亿美元",
+      "onboard_time": 1764727881,
+      "rank": 31,
+      "category": "互联网"
+    },
+    {
+      "raw_hot": 122511,
+      "num": 982152,
+      "word": "特斯拉发布人形机器人跑步视频",
+      "onboard_time": 1764728181,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 120963,
       "num": 120963,
       "word": "小洛熙离世18天父母等尸检报告",
       "onboard_time": 1764723082,
       "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 119351,
-      "num": 114260,
-      "word": "厂家承认有幼童硅胶娃娃且功能齐全",
-      "onboard_time": 1764727040,
-      "rank": 30,
       "category": "民生新闻"
     },
     {
@@ -331,19 +395,19 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 117229,
+      "num": 117229,
+      "word": "俄美会谈未达成折中方案",
+      "onboard_time": 1764728061,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 114939,
       "num": 114939,
       "word": "郑天浩 王梓莼",
       "onboard_time": 1764669082,
       "rank": 23,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 114617,
-      "num": 114617,
-      "word": "星光大赏公式照",
-      "onboard_time": 1764726801,
-      "rank": 28,
       "category": "综艺"
     },
     {
@@ -361,6 +425,22 @@
       "onboard_time": 1764681263,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109876,
+      "num": 109876,
+      "word": "原神开门",
+      "onboard_time": 1764726920,
+      "rank": 35,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 109312,
+      "num": 109312,
+      "word": "哥的全宇宙",
+      "onboard_time": 1764728360,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 108959,
@@ -395,14 +475,6 @@
       "category": "财经,数码"
     },
     {
-      "raw_hot": 101144,
-      "num": 101144,
-      "word": "原神开门",
-      "onboard_time": 1764726920,
-      "rank": 35,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 99871,
       "num": 766097,
       "word": "Uzi邀请Wayward试训",
@@ -419,6 +491,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 97718,
+      "num": 97718,
+      "word": "高市的错误已实质影响日本",
+      "onboard_time": 1764722721,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96818,
       "num": 96818,
       "word": "男子回应在老君山拍到灵气护罩奇观",
@@ -427,12 +507,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 94710,
-      "num": 94710,
-      "word": "网友调侃蛇盖瑞火了才看清楚脸",
-      "onboard_time": 1764727160,
+      "raw_hot": 94225,
+      "num": 95351,
+      "word": "员工误将生乌粉当黑胡椒毒死老板",
+      "onboard_time": 1764726981,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93874,
+      "num": 93874,
+      "word": "上迪回应园区春节已有蛇盖瑞元素",
+      "onboard_time": 1764728240,
       "rank": 40,
-      "category": "电影"
+      "category": "旅游"
     },
     {
       "raw_hot": 87558,
@@ -449,6 +537,14 @@
       "onboard_time": 1764686904,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85974,
+      "num": 87398,
+      "word": "迪丽热巴陈星旭枭起青壤地毯吻",
+      "onboard_time": 1764726860,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 85806,
@@ -491,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 79593,
+      "num": 79593,
+      "word": "河南全面进入流感流行高峰期",
+      "onboard_time": 1764728240,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 78980,
       "num": 87504,
       "word": "旧国标电动自行车变零公里二手车",
@@ -499,19 +603,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78631,
-      "num": 87468,
-      "word": "高市的错误已实质影响日本",
-      "onboard_time": 1764722721,
-      "rank": 46,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 76303,
       "num": 81652,
       "word": "女子采蘑菇意外发现一窝动物幼崽",
       "onboard_time": 1764679762,
       "rank": 48,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 76083,
+      "num": 76083,
+      "word": "职场面相",
+      "onboard_time": 1764727399,
+      "rank": 49,
       "category": "情感"
     },
     {
@@ -539,14 +643,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 72172,
-      "num": 87398,
-      "word": "迪丽热巴陈星旭枭起青壤地毯吻",
-      "onboard_time": 1764726860,
-      "rank": 49,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 70941,
       "num": 80094,
       "word": "江西上饶一工地挖出一对石狮",
@@ -564,7 +660,7 @@
     },
     {
       "raw_hot": 68704,
-      "num": 794708,
+      "num": 968714,
       "word": "今年甲流常见问题看这里",
       "onboard_time": 1764683124,
       "rank": 2,
@@ -833,14 +929,6 @@
       "onboard_time": 1764698235,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 10925,
-      "num": 95351,
-      "word": "员工误将生乌粉当黑胡椒毒死老板",
-      "onboard_time": 1764726981,
-      "rank": 38,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
