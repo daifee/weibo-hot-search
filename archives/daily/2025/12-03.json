@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764744094797,
+  "endTime": 1764744906517,
   "band_list": [
     {
       "raw_hot": 1763620,
@@ -19,20 +19,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1557193,
+      "num": 209497,
+      "word": "李嘉格恋情",
+      "onboard_time": 1764743121,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1383127,
       "num": 1383127,
       "word": "朱雀三号",
       "onboard_time": 1764732501,
       "rank": 25,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1191951,
-      "num": 209497,
-      "word": "李嘉格恋情",
-      "onboard_time": 1764743121,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1073347,
@@ -131,6 +131,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 571514,
+      "num": 353745,
+      "word": "情趣娃娃厂商报价表惊现孕妇体型",
+      "onboard_time": 1764742222,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 559414,
       "num": 485198,
       "word": "原来洗澡是重启人生的最小单位",
@@ -145,6 +153,14 @@
       "onboard_time": 1764738622,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 524852,
+      "num": 346768,
+      "word": "双轨",
+      "onboard_time": 1764741200,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 523673,
@@ -177,14 +193,6 @@
       "onboard_time": 1764719719,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 494265,
-      "num": 345361,
-      "word": "情趣娃娃厂商报价表惊现孕妇体型",
-      "onboard_time": 1764742222,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 491016,
@@ -225,14 +233,6 @@
       "onboard_time": 1764722541,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 428130,
-      "num": 331883,
-      "word": "双轨",
-      "onboard_time": 1764741200,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 420610,
@@ -331,8 +331,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 327538,
-      "num": 327538,
+      "raw_hot": 329245,
+      "num": 329245,
       "word": "阿凡达3取消中国首映红毯环节",
       "onboard_time": 1764743181,
       "rank": 14,
@@ -353,6 +353,14 @@
       "onboard_time": 1764735681,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 316480,
+      "num": 169847,
+      "word": "李嘉格男友",
+      "onboard_time": 1764744440,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 313671,
@@ -419,6 +427,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255589,
+      "num": 255589,
+      "word": "意大利穿冲锋衣被问为什么穿丑衣服",
+      "onboard_time": 1764736764,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 253978,
       "num": 253978,
       "word": "奥司他韦已出现耐药情况",
@@ -465,14 +481,6 @@
       "onboard_time": 1764686784,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 229921,
-      "num": 229921,
-      "word": "意大利穿冲锋衣被问为什么穿丑衣服",
-      "onboard_time": 1764736764,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 222960,
@@ -529,6 +537,14 @@
       "onboard_time": 1764687503,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 209912,
+      "num": 173806,
+      "word": "陈松伶吐槽张铎想换老婆好久了",
+      "onboard_time": 1764744202,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 208889,
@@ -603,6 +619,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 186699,
+      "num": 131988,
+      "word": "阿凡达3致歉",
+      "onboard_time": 1764744202,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 185545,
+      "num": 185545,
+      "word": "日专家称高市或被发国际逮捕令",
+      "onboard_time": 1764743780,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 185511,
       "num": 185511,
       "word": "香港发生一起谋杀纵火案",
@@ -620,7 +652,7 @@
     },
     {
       "raw_hot": 182299,
-      "num": 367655,
+      "num": 399687,
       "word": "王者荣耀挑战者杯",
       "onboard_time": 1764743540,
       "rank": 7,
@@ -811,6 +843,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 149513,
+      "num": 149513,
+      "word": "国乒8比0克罗地亚",
+      "onboard_time": 1764744140,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 146572,
       "num": 146572,
       "word": "T1官宣两位选手上调",
@@ -835,6 +875,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 141662,
+      "num": 369207,
+      "word": "国乒4战4胜",
+      "onboard_time": 1764743600,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140738,
       "num": 140738,
       "word": "儿童硅胶娃娃 恋童癖",
@@ -843,8 +891,8 @@
       "category": "舆论监督"
     },
     {
-      "raw_hot": 138176,
-      "num": 138176,
+      "raw_hot": 140581,
+      "num": 140581,
       "word": "华裔奶奶遭美国小伙毒打致死",
       "onboard_time": 1764739640,
       "rank": 43,
@@ -873,14 +921,6 @@
       "onboard_time": 1764727700,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 127512,
-      "num": 217272,
-      "word": "国乒4战4胜",
-      "onboard_time": 1764743600,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 126160,
@@ -1011,6 +1051,22 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115912,
+      "num": 115912,
+      "word": "炎亚纶的单接不接",
+      "onboard_time": 1764742700,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115087,
+      "num": 115087,
+      "word": "电影得闲谨制郑重声明",
+      "onboard_time": 1764744741,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 114939,
       "num": 114939,
       "word": "郑天浩 王梓莼",
@@ -1041,14 +1097,6 @@
       "onboard_time": 1764735384,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113542,
-      "num": 113542,
-      "word": "炎亚纶的单接不接",
-      "onboard_time": 1764742700,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 113004,
@@ -1105,14 +1153,6 @@
       "onboard_time": 1764735323,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107131,
-      "num": 107131,
-      "word": "日专家称高市或被发国际逮捕令",
-      "onboard_time": 1764743780,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106902,
@@ -1260,11 +1300,19 @@
     },
     {
       "raw_hot": 94460,
-      "num": 175758,
+      "num": 184101,
       "word": "华为MateX7的大屏AI有多强",
       "onboard_time": 1764743901,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 94281,
+      "num": 94281,
+      "word": "月经不是用激素控制女性一生",
+      "onboard_time": 1764742222,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 93874,
@@ -1321,6 +1369,14 @@
       "onboard_time": 1764738262,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 88893,
+      "num": 88893,
+      "word": "谷爱凌卷王式休息",
+      "onboard_time": 1764744741,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 87558,
@@ -1385,6 +1441,14 @@
       "onboard_time": 1764729321,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83228,
+      "num": 83228,
+      "word": "网友偶遇Uzi",
+      "onboard_time": 1764741320,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 81797,

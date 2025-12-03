@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764744094797,
+  "endTime": 1764744906517,
   "band_list": [
     {
       "raw_hot": 2150390,
@@ -73,6 +73,14 @@
       "onboard_time": 1764576863,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1557193,
+      "num": 209497,
+      "word": "李嘉格恋情",
+      "onboard_time": 1764743121,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 1553169,
@@ -185,14 +193,6 @@
       "onboard_time": 1764581302,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1191951,
-      "num": 209497,
-      "word": "李嘉格恋情",
-      "onboard_time": 1764743121,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1190318,
@@ -635,6 +635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 571514,
+      "num": 353745,
+      "word": "情趣娃娃厂商报价表惊现孕妇体型",
+      "onboard_time": 1764742222,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 571339,
       "num": 676879,
       "word": "疯狂动物城 吃肉",
@@ -779,6 +787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 524852,
+      "num": 346768,
+      "word": "双轨",
+      "onboard_time": 1764741200,
+      "rank": 13,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 523673,
       "num": 612266,
       "word": "电动车新国标",
@@ -849,14 +865,6 @@
       "onboard_time": 1764719719,
       "rank": 0,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 494265,
-      "num": 345361,
-      "word": "情趣娃娃厂商报价表惊现孕妇体型",
-      "onboard_time": 1764742222,
-      "rank": 11,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 491336,
@@ -1121,14 +1129,6 @@
       "onboard_time": 1764553941,
       "rank": 1,
       "category": "体育"
-    },
-    {
-      "raw_hot": 428130,
-      "num": 331883,
-      "word": "双轨",
-      "onboard_time": 1764741200,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 427575,
@@ -1603,20 +1603,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 329245,
+      "num": 329245,
+      "word": "阿凡达3取消中国首映红毯环节",
+      "onboard_time": 1764743181,
+      "rank": 14,
+      "category": "电影"
+    },
+    {
       "raw_hot": 327715,
       "num": 810400,
       "word": "神舟二十二号航天员乘组永远空缺",
       "onboard_time": 1764555139,
       "rank": 33,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 327538,
-      "num": 327538,
-      "word": "阿凡达3取消中国首映红毯环节",
-      "onboard_time": 1764743181,
-      "rank": 14,
-      "category": "电影"
     },
     {
       "raw_hot": 326655,
@@ -1737,6 +1737,14 @@
       "onboard_time": 1764663082,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 316480,
+      "num": 169847,
+      "word": "李嘉格男友",
+      "onboard_time": 1764744440,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 314826,
@@ -2139,6 +2147,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 255589,
+      "num": 255589,
+      "word": "意大利穿冲锋衣被问为什么穿丑衣服",
+      "onboard_time": 1764736764,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 255262,
       "num": 233820,
       "word": "男方起诉退还全部彩礼",
@@ -2331,14 +2347,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229921,
-      "num": 229921,
-      "word": "意大利穿冲锋衣被问为什么穿丑衣服",
-      "onboard_time": 1764736764,
-      "rank": 30,
-      "category": "情感"
-    },
-    {
       "raw_hot": 228899,
       "num": 228899,
       "word": "老爹站",
@@ -2529,6 +2537,14 @@
       "onboard_time": 1764588622,
       "rank": 37,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 209912,
+      "num": 173806,
+      "word": "陈松伶吐槽张铎想换老婆好久了",
+      "onboard_time": 1764744202,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 209531,
@@ -2963,6 +2979,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 186699,
+      "num": 131988,
+      "word": "阿凡达3致歉",
+      "onboard_time": 1764744202,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 186493,
       "num": 289506,
       "word": "地枭多疑但实在好骗",
@@ -2977,6 +3001,14 @@
       "onboard_time": 1764577402,
       "rank": 28,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 185545,
+      "num": 185545,
+      "word": "日专家称高市或被发国际逮捕令",
+      "onboard_time": 1764743780,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 185511,
@@ -3044,7 +3076,7 @@
     },
     {
       "raw_hot": 182299,
-      "num": 367655,
+      "num": 399687,
       "word": "王者荣耀挑战者杯",
       "onboard_time": 1764743540,
       "rank": 7,
@@ -3915,6 +3947,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 149513,
+      "num": 149513,
+      "word": "国乒8比0克罗地亚",
+      "onboard_time": 1764744140,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149328,
       "num": 114767,
       "word": "十二月的奇迹",
@@ -4107,6 +4147,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141662,
+      "num": 369207,
+      "word": "国乒4战4胜",
+      "onboard_time": 1764743600,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 140947,
       "num": 212686,
       "word": "女律师被砸身亡后家属不敢单独出门",
@@ -4129,6 +4177,14 @@
       "onboard_time": 1764573802,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 140581,
+      "num": 140581,
+      "word": "华裔奶奶遭美国小伙毒打致死",
+      "onboard_time": 1764739640,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 140166,
@@ -4193,14 +4249,6 @@
       "onboard_time": 1764651263,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 138176,
-      "num": 138176,
-      "word": "华裔奶奶遭美国小伙毒打致死",
-      "onboard_time": 1764739640,
-      "rank": 43,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 138166,
@@ -4633,14 +4681,6 @@
       "onboard_time": 1764643160,
       "rank": 26,
       "category": "教育"
-    },
-    {
-      "raw_hot": 127512,
-      "num": 217272,
-      "word": "国乒4战4胜",
-      "onboard_time": 1764743600,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 127263,
@@ -5243,12 +5283,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 115912,
+      "num": 115912,
+      "word": "炎亚纶的单接不接",
+      "onboard_time": 1764742700,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115145,
       "num": 143307,
       "word": "邓佳鑫vlog",
       "onboard_time": 1764602723,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 115087,
+      "num": 115087,
+      "word": "电影得闲谨制郑重声明",
+      "onboard_time": 1764744741,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 114984,
@@ -5353,14 +5409,6 @@
       "onboard_time": 1764735384,
       "rank": 40,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 113542,
-      "num": 113542,
-      "word": "炎亚纶的单接不接",
-      "onboard_time": 1764742700,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 113540,
@@ -5569,14 +5617,6 @@
       "onboard_time": 1764682643,
       "rank": 42,
       "category": "体育"
-    },
-    {
-      "raw_hot": 107131,
-      "num": 107131,
-      "word": "日专家称高市或被发国际逮捕令",
-      "onboard_time": 1764743780,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 106947,
@@ -6156,11 +6196,19 @@
     },
     {
       "raw_hot": 94460,
-      "num": 175758,
+      "num": 184101,
       "word": "华为MateX7的大屏AI有多强",
       "onboard_time": 1764743901,
       "rank": 25,
       "category": "数码"
+    },
+    {
+      "raw_hot": 94281,
+      "num": 94281,
+      "word": "月经不是用激素控制女性一生",
+      "onboard_time": 1764742222,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 94252,
@@ -6379,6 +6427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 88893,
+      "num": 88893,
+      "word": "谷爱凌卷王式休息",
+      "onboard_time": 1764744741,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 88604,
       "num": 64374,
       "word": "美媒曝德国秘密对俄作战计划",
@@ -6569,6 +6625,14 @@
       "onboard_time": 1764539895,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83228,
+      "num": 83228,
+      "word": "网友偶遇Uzi",
+      "onboard_time": 1764741320,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 83138,
