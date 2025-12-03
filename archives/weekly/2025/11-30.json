@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764744906517,
+  "endTime": 1764746964862,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 1557193,
-      "num": 209497,
+      "num": 261284,
       "word": "李嘉格恋情",
       "onboard_time": 1764743121,
       "rank": 20,
@@ -297,6 +297,14 @@
       "onboard_time": 1764479542,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1113322,
+      "num": 389948,
+      "word": "演员董立范已去世多年",
+      "onboard_time": 1764745760,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1106502,
@@ -1067,6 +1075,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 538740,
+      "num": 198020,
+      "word": "李嘉格男友",
+      "onboard_time": 1764744440,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538613,
       "num": 401340,
       "word": "2026年国考今日开考",
@@ -1276,7 +1292,7 @@
     },
     {
       "raw_hot": 474791,
-      "num": 336475,
+      "num": 355302,
       "word": "颖儿在家吃这么好 在外胡说八道",
       "onboard_time": 1764741320,
       "rank": 12,
@@ -1835,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 389546,
+      "num": 389546,
+      "word": "虞书欣何与双轨江苏卫视上星",
+      "onboard_time": 1764745221,
+      "rank": 11,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 388293,
       "num": 386400,
       "word": "中国男篮vs韩国男篮",
@@ -2347,14 +2371,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 316480,
-      "num": 169847,
-      "word": "李嘉格男友",
-      "onboard_time": 1764744440,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 314826,
       "num": 314826,
       "word": "应采儿回应没去陈小春演唱会",
@@ -2417,6 +2433,14 @@
       "onboard_time": 1764599063,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 306911,
+      "num": 306911,
+      "word": "日专家称高市或被发国际逮捕令",
+      "onboard_time": 1764743780,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 304118,
@@ -2868,7 +2892,7 @@
     },
     {
       "raw_hot": 255589,
-      "num": 255589,
+      "num": 289518,
       "word": "意大利穿冲锋衣被问为什么穿丑衣服",
       "onboard_time": 1764736764,
       "rank": 30,
@@ -3411,6 +3435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 211441,
+      "num": 211441,
+      "word": "阿凡达3致歉",
+      "onboard_time": 1764744202,
+      "rank": 31,
+      "category": "电影"
+    },
+    {
       "raw_hot": 210096,
       "num": 214391,
       "word": "举报公职人员店主为何被逼得喝农药",
@@ -3420,7 +3452,7 @@
     },
     {
       "raw_hot": 209912,
-      "num": 173806,
+      "num": 198481,
       "word": "陈松伶吐槽张铎想换老婆好久了",
       "onboard_time": 1764744202,
       "rank": 24,
@@ -3820,7 +3852,7 @@
     },
     {
       "raw_hot": 195046,
-      "num": 195046,
+      "num": 390765,
       "word": "WBG官宣Elk加入",
       "onboard_time": 1764743181,
       "rank": 23,
@@ -3889,6 +3921,14 @@
       "onboard_time": 1764546020,
       "rank": 4,
       "category": "教育"
+    },
+    {
+      "raw_hot": 191674,
+      "num": 191674,
+      "word": "下半年来最冷的一天来了",
+      "onboard_time": 1764745221,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 190292,
@@ -3995,14 +4035,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 186699,
-      "num": 131988,
-      "word": "阿凡达3致歉",
-      "onboard_time": 1764744202,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 186493,
       "num": 289506,
       "word": "地枭多疑但实在好骗",
@@ -4017,14 +4049,6 @@
       "onboard_time": 1764577402,
       "rank": 28,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 185545,
-      "num": 185545,
-      "word": "日专家称高市或被发国际逮捕令",
-      "onboard_time": 1764743780,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 185511,
@@ -4737,6 +4761,14 @@
       "onboard_time": 1764596244,
       "rank": 31,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 162119,
+      "num": 393502,
+      "word": "电影得闲谨制郑重声明",
+      "onboard_time": 1764744741,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 162071,
@@ -5499,6 +5531,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 143412,
+      "num": 288380,
+      "word": "何美延梁淞没做婚前财产公证",
+      "onboard_time": 1764745940,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143309,
       "num": 143309,
       "word": "休息羞耻",
@@ -5753,6 +5793,14 @@
       "onboard_time": 1764641899,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 137472,
+      "num": 137472,
+      "word": "李健清华档案照",
+      "onboard_time": 1764746301,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 137343,
@@ -6627,6 +6675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 122350,
+      "num": 122350,
+      "word": "怪不得我小时候不喜欢存钱",
+      "onboard_time": 1764746541,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 122284,
       "num": 122284,
       "word": "内塔尼亚胡正式提交赦免请求",
@@ -6697,6 +6753,14 @@
       "onboard_time": 1764624673,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121683,
+      "num": 340293,
+      "word": "竞浪大会",
+      "onboard_time": 1764745882,
+      "rank": 13,
+      "category": "电竞"
     },
     {
       "raw_hot": 121566,
@@ -6953,6 +7017,14 @@
       "onboard_time": 1764672623,
       "rank": 42,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 118366,
+      "num": 396778,
+      "word": "林诗栋2比0普卡",
+      "onboard_time": 1764745882,
+      "rank": 3,
+      "category": "体育"
     },
     {
       "raw_hot": 118234,
@@ -7217,14 +7289,6 @@
       "onboard_time": 1764602723,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 115087,
-      "num": 115087,
-      "word": "电影得闲谨制郑重声明",
-      "onboard_time": 1764744741,
-      "rank": 38,
-      "category": "电影"
     },
     {
       "raw_hot": 114984,
@@ -7539,6 +7603,22 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 110831,
+      "num": 110831,
+      "word": "超小体宠物 畸形审美",
+      "onboard_time": 1764745341,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 110790,
+      "num": 110790,
+      "word": "大额存单转让火爆",
+      "onboard_time": 1764746061,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 110420,
       "num": 303655,
       "word": "人民日报谈小米集团高质量发展",
@@ -7641,6 +7721,14 @@
       "onboard_time": 1764463579,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108900,
+      "num": 108900,
+      "word": "建议复查时非必要不要做CT",
+      "onboard_time": 1764737302,
+      "rank": 48,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 108689,
@@ -7761,14 +7849,6 @@
       "onboard_time": 1764731001,
       "rank": 12,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 106686,
-      "num": 106686,
-      "word": "建议复查时非必要不要做CT",
-      "onboard_time": 1764737302,
-      "rank": 48,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 106463,
@@ -8371,6 +8451,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97636,
+      "num": 97636,
+      "word": "小库里勇士首秀",
+      "onboard_time": 1764745822,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 97520,
       "num": 167880,
       "word": "热巴30岁后对周围一切都好奇",
@@ -8443,6 +8531,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 96500,
+      "num": 110796,
+      "word": "何炅认证撒贝宁和结界兽撞脸",
+      "onboard_time": 1764745940,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 96441,
       "num": 123923,
       "word": "凤凰台上 古偶跳台即开大",
@@ -8481,6 +8577,14 @@
       "onboard_time": 1764582023,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 96021,
+      "num": 96021,
+      "word": "日本拟购以色列无人机",
+      "onboard_time": 1764746061,
+      "rank": 43,
+      "category": "国际时政"
     },
     {
       "raw_hot": 95979,
@@ -8596,7 +8700,7 @@
     },
     {
       "raw_hot": 94460,
-      "num": 184101,
+      "num": 288056,
       "word": "华为MateX7的大屏AI有多强",
       "onboard_time": 1764743901,
       "rank": 25,
@@ -8633,6 +8737,14 @@
       "onboard_time": 1764675502,
       "rank": 47,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 93938,
+      "num": 93938,
+      "word": "发朋友圈半小时发微博两秒",
+      "onboard_time": 1764746902,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 93918,
@@ -8971,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88863,
+      "num": 88863,
+      "word": "业内称未来手机电脑价格会疯涨",
+      "onboard_time": 1764745461,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 88691,
       "num": 88691,
       "word": "江西早产患儿因病情危重离世",
@@ -9041,6 +9161,14 @@
       "onboard_time": 1764726080,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87455,
+      "num": 87455,
+      "word": "大侦探11",
+      "onboard_time": 1764745341,
+      "rank": 49,
+      "category": "综艺"
     },
     {
       "raw_hot": 87447,
@@ -10123,6 +10251,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67001,
+      "num": 89336,
+      "word": "清华妈也用千问辅导小学奥数",
+      "onboard_time": 1764746601,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 66907,
       "num": 106785,
       "word": "田曦薇的肌肉终于派上用场了",
@@ -10185,6 +10321,14 @@
       "onboard_time": 1764681682,
       "rank": 40,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 65506,
+      "num": 110808,
+      "word": "王楚钦好像跳了一个手指舞",
+      "onboard_time": 1764746481,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 65209,
@@ -10313,6 +10457,14 @@
       "onboard_time": 1764664163,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 60166,
+      "num": 204624,
+      "word": "官方介入工厂量产销售儿童情趣娃娃",
+      "onboard_time": 1764745461,
+      "rank": 24,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59999,
@@ -11841,6 +11993,14 @@
       "onboard_time": 1764480621,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23707,
+      "num": 87596,
+      "word": "朝鲜参与俄罗斯排雷工作",
+      "onboard_time": 1764745221,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 23558,
