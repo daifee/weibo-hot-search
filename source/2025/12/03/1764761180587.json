@@ -1,0 +1,410 @@
+{
+  "runTime": 1764761180587,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1769463,
+        "num": 1769463,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 156932,
+        "num": 1134328,
+        "word": "朱雀三号任务一级回收失败",
+        "onboard_time": 1764737302,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 23407,
+        "num": 860705,
+        "word": "3个视角看文化出海",
+        "onboard_time": 1764756021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 806618,
+        "num": 806618,
+        "word": "高市早苗涉台最新表态",
+        "onboard_time": 1764760161,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 273097,
+        "num": 764645,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 2033595,
+        "num": 755267,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 743742,
+        "num": 743742,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 325936,
+        "num": 325936,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 309989,
+        "num": 309989,
+        "word": "张雪峰直播说脏话被禁言停播",
+        "onboard_time": 1764757702,
+        "rank": 8,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 141019,
+        "num": 288424,
+        "word": "快船裁掉保罗",
+        "onboard_time": 1764749722,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 390731,
+        "num": 287852,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 322178,
+        "num": 286909,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285830,
+        "num": 285830,
+        "word": "日本正发动无声战争",
+        "onboard_time": 1764755542,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 269375,
+        "num": 269375,
+        "word": "妻子为孩子花15800丈夫坦白离职",
+        "onboard_time": 1764747563,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 257504,
+        "num": 257504,
+        "word": "小小文淇 签约公司是终身大事",
+        "onboard_time": 1764759802,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 227931,
+        "num": 227931,
+        "word": "于正骂人秒删",
+        "onboard_time": 1764749963,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 224478,
+        "num": 224478,
+        "word": "女方私自流产男方要求离婚返彩礼",
+        "onboard_time": 1764759441,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194434,
+        "num": 194434,
+        "word": "处置张雪峰等账号是一次及时祛魅",
+        "onboard_time": 1764759861,
+        "rank": 17,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 63274,
+        "num": 190027,
+        "word": "央视点赞极氪金箍棒",
+        "onboard_time": 1764758301,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 189026,
+        "num": 189026,
+        "word": "转账约饭法",
+        "onboard_time": 1764748463,
+        "rank": 19,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 969790,
+        "num": 188751,
+        "word": "李嘉格回应恋情",
+        "onboard_time": 1764755241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26730,
+        "num": 186556,
+        "word": "欧米茄海马活动现场颜值狙击",
+        "onboard_time": 1764760882,
+        "rank": 21,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 195802,
+        "num": 186336,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185797,
+        "num": 185797,
+        "word": "27岁瞒着所有人买了一套房",
+        "onboard_time": 1764750801,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 167794,
+        "num": 167794,
+        "word": "怎么不等微信停运了再说",
+        "onboard_time": 1764752902,
+        "rank": 24,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 405114,
+        "num": 167652,
+        "word": "李嘉格小号分享的恋爱日常",
+        "onboard_time": 1764760701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149754,
+        "num": 149754,
+        "word": "手术前一定要多问一句",
+        "onboard_time": 1764751703,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147959,
+        "num": 147959,
+        "word": "网络名人账号违法违规行为被查",
+        "onboard_time": 1764747740,
+        "rank": 27,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 143492,
+        "num": 143492,
+        "word": "兔子警官陈都灵",
+        "onboard_time": 1764755842,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141869,
+        "num": 141869,
+        "word": "石破茂反问还记得日本那时的结局吗",
+        "onboard_time": 1764754342,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 137641,
+        "num": 137641,
+        "word": "陈哲远90岁奶奶粉正是闯的年纪",
+        "onboard_time": 1764760400,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136132,
+        "num": 136132,
+        "word": "郑乃馨直播回应和bright分手",
+        "onboard_time": 1764753142,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132158,
+        "num": 132158,
+        "word": "枭起青壤口碑",
+        "onboard_time": 1764755784,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131611,
+        "num": 131611,
+        "word": "白敬亭带着老鼠干回家了",
+        "onboard_time": 1764760400,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126487,
+        "num": 126487,
+        "word": "荒野求生林北退赛",
+        "onboard_time": 1764760221,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 122869,
+        "num": 122869,
+        "word": "把农村婚礼拍成戛纳了",
+        "onboard_time": 1764758662,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120672,
+        "num": 120672,
+        "word": "王一博教辛芷蕾帮他拍照",
+        "onboard_time": 1764755362,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 36531,
+        "num": 120092,
+        "word": "多地对招投标项目倒查13年",
+        "onboard_time": 1764760582,
+        "rank": 37,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 28323,
+        "num": 119875,
+        "word": "冷门歌手孙燕姿来送分了",
+        "onboard_time": 1764760641,
+        "rank": 38,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 45091,
+        "num": 119787,
+        "word": "迪丽热巴疯刀仿妆",
+        "onboard_time": 1764759983,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119732,
+        "num": 119732,
+        "word": "叠纸心意",
+        "onboard_time": 1764760522,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 118672,
+        "num": 118672,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 41,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 108932,
+        "num": 108932,
+        "word": "怪不得车澈破防",
+        "onboard_time": 1764748223,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107885,
+        "num": 107885,
+        "word": "徐冬冬 那是妈妈的钱我俩得奋斗",
+        "onboard_time": 1764756801,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49894,
+        "num": 101794,
+        "word": "用AI真的能批改好作业吗",
+        "onboard_time": 1764760281,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 101511,
+        "num": 101511,
+        "word": "冻伤要到烧伤科就诊",
+        "onboard_time": 1764760341,
+        "rank": 45,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 96598,
+        "num": 96598,
+        "word": "王梓莼说同情包洁仪但无法原谅她",
+        "onboard_time": 1764751462,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91952,
+        "num": 91952,
+        "word": "雷军回应小米SU7再获满意度第一",
+        "onboard_time": 1764759562,
+        "rank": 47,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 91140,
+        "num": 91140,
+        "word": "樊振东登上德甲60周年主题首页",
+        "onboard_time": 1764761121,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27779,
+        "num": 90719,
+        "word": "老人楼道打地铺疑因子女赡养纠纷",
+        "onboard_time": 1764759382,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关爱残疾人的暖心故事#"
+    }
+  }
+}
