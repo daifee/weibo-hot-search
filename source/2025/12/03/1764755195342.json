@@ -1,0 +1,410 @@
+{
+  "runTime": 1764755195342,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1434443,
+        "num": 1434443,
+        "word": "张雪峰称已经深刻反省",
+        "onboard_time": 1764749842,
+        "rank": 0,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 208436,
+        "num": 1433491,
+        "word": "朱雀三号任务一级回收失败",
+        "onboard_time": 1764737302,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 43644,
+        "num": 1297666,
+        "word": "东北大冰箱营业了",
+        "onboard_time": 1764724041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184078,
+        "num": 1232352,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 3,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 145865,
+        "num": 1217071,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 538313,
+        "num": 1105635,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 418218,
+        "num": 1061562,
+        "word": "快船裁掉保罗",
+        "onboard_time": 1764749722,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 270712,
+        "num": 946665,
+        "word": "张雪峰30天掉粉近13万",
+        "onboard_time": 1764750801,
+        "rank": 7,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 255541,
+        "num": 922971,
+        "word": "张继科强调从未宣布退役",
+        "onboard_time": 1764752662,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22742,
+        "num": 853664,
+        "word": "国台办说台独意味着战争",
+        "onboard_time": 1764754702,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 789028,
+        "num": 789028,
+        "word": "转账约饭法",
+        "onboard_time": 1764748463,
+        "rank": 10,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 661454,
+        "num": 661454,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254292,
+        "num": 651352,
+        "word": "网络名人账号违法违规行为被查",
+        "onboard_time": 1764747740,
+        "rank": 12,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 645607,
+        "num": 645607,
+        "word": "于正骂人秒删",
+        "onboard_time": 1764749963,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 467012,
+        "num": 467012,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 203224,
+        "num": 453492,
+        "word": "香港已完成7栋火灾大楼搜索",
+        "onboard_time": 1764753623,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 444654,
+        "num": 444654,
+        "word": "27岁瞒着所有人买了一套房",
+        "onboard_time": 1764750801,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 419086,
+        "num": 419086,
+        "word": "妻子为孩子花15800丈夫坦白离职",
+        "onboard_time": 1764747563,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54467,
+        "num": 413999,
+        "word": "博主实测千问是初中数学辅导天花板",
+        "onboard_time": 1764751101,
+        "rank": 18,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 164416,
+        "num": 413472,
+        "word": "石破茂反问还记得日本那时的结局吗",
+        "onboard_time": 1764754342,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 564845,
+        "num": 413469,
+        "word": "李嘉格新男友才26岁",
+        "onboard_time": 1764747982,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 413465,
+        "num": 413465,
+        "word": "手术前一定要多问一句",
+        "onboard_time": 1764751703,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 363832,
+        "num": 363832,
+        "word": "郑乃馨直播回应和bright分手",
+        "onboard_time": 1764753142,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 353570,
+        "num": 353570,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 293564,
+        "num": 293564,
+        "word": "怪不得车澈破防",
+        "onboard_time": 1764748223,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180230,
+        "num": 180230,
+        "word": "王一博选冲锋衣去晚宴",
+        "onboard_time": 1764753383,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118464,
+        "num": 176875,
+        "word": "电影得闲谨制郑重声明",
+        "onboard_time": 1764744741,
+        "rank": 26,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176445,
+        "num": 176445,
+        "word": "王者荣耀",
+        "onboard_time": 1764754881,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 150889,
+        "num": 150889,
+        "word": "阑夕宣介境外色情被禁言",
+        "onboard_time": 1764748701,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150795,
+        "num": 150795,
+        "word": "带薪养生",
+        "onboard_time": 1764753801,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 215007,
+        "num": 147521,
+        "word": "怎么不等微信停运了再说",
+        "onboard_time": 1764752902,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144117,
+        "num": 144117,
+        "word": "疯狂动物城吃虫子的制作过程",
+        "onboard_time": 1764747740,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 136071,
+        "num": 136071,
+        "word": "日本投降书明确台湾归还中国",
+        "onboard_time": 1764728061,
+        "rank": 32,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134891,
+        "num": 134891,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 33,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 131173,
+        "num": 131173,
+        "word": "多方回应工厂量产销售儿童硅胶娃娃",
+        "onboard_time": 1764753923,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126826,
+        "num": 126826,
+        "word": "发明移动衣帽间的真是个天才",
+        "onboard_time": 1764753142,
+        "rank": 35,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 125709,
+        "num": 125709,
+        "word": "三甲医生回应女子痔疮手术后自杀",
+        "onboard_time": 1764750801,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22314,
+        "num": 125539,
+        "word": "被害人家属痛斥姐姐偏袒凶手弟弟",
+        "onboard_time": 1764754582,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 52921,
+        "num": 125536,
+        "word": "黄子弘凡差点听晕过去",
+        "onboard_time": 1764754881,
+        "rank": 38,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 45869,
+        "num": 125534,
+        "word": "原来得闲谨制就是当年的正午大饼",
+        "onboard_time": 1764754163,
+        "rank": 39,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 125533,
+        "num": 125533,
+        "word": "陶喆的三明治夹了一斤肉",
+        "onboard_time": 1764753322,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118240,
+        "num": 118240,
+        "word": "欧阳娜娜翻船",
+        "onboard_time": 1764752123,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115215,
+        "num": 115215,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106125,
+        "num": 114152,
+        "word": "梁淞说遇到何美延是他倒霉",
+        "onboard_time": 1764753682,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113811,
+        "num": 113811,
+        "word": "王者荣耀大隐于市的高手",
+        "onboard_time": 1764754823,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111967,
+        "num": 111967,
+        "word": "缺钱找周杰伦他是真借啊",
+        "onboard_time": 1764747083,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 329006,
+        "num": 111063,
+        "word": "李嘉格恋情",
+        "onboard_time": 1764743121,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109857,
+        "num": 109857,
+        "word": "马克龙抵达北京",
+        "onboard_time": 1764755122,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106980,
+        "num": 106980,
+        "word": "王梓莼说同情包洁仪但无法原谅她",
+        "onboard_time": 1764751462,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106525,
+        "num": 106525,
+        "word": "奥运冠军王齐麟被指逃避兴奋剂检测",
+        "onboard_time": 1764754943,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对残疾人的深情牵挂#"
+    }
+  }
+}
