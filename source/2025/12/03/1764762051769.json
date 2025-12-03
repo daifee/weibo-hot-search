@@ -1,0 +1,410 @@
+{
+  "runTime": 1764762051769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1701295,
+        "num": 1701295,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 146215,
+        "num": 1277000,
+        "word": "朱雀三号任务一级回收失败",
+        "onboard_time": 1764737302,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 22523,
+        "num": 887975,
+        "word": "3个视角看文化出海",
+        "onboard_time": 1764756021,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 861619,
+        "num": 861619,
+        "word": "高市早苗涉台最新表态",
+        "onboard_time": 1764760161,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 231051,
+        "num": 791271,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1871870,
+        "num": 763720,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 728986,
+        "num": 728986,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 277436,
+        "num": 536166,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 139969,
+        "num": 414165,
+        "word": "快船裁掉保罗",
+        "onboard_time": 1764749722,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 126001,
+        "num": 374596,
+        "word": "网络名人账号违法违规行为被查",
+        "onboard_time": 1764747740,
+        "rank": 9,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 368571,
+        "num": 368571,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 346189,
+        "num": 346189,
+        "word": "小小文淇 签约公司是终身大事",
+        "onboard_time": 1764759802,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 297152,
+        "num": 297152,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268360,
+        "num": 268360,
+        "word": "妻子为孩子花15800丈夫坦白离职",
+        "onboard_time": 1764747563,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 226334,
+        "num": 226334,
+        "word": "女方私自流产男方要求离婚返彩礼",
+        "onboard_time": 1764759441,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 224785,
+        "num": 224785,
+        "word": "日本正发动无声战争",
+        "onboard_time": 1764755542,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 202109,
+        "num": 202109,
+        "word": "于正骂人秒删",
+        "onboard_time": 1764749963,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 199132,
+        "num": 199132,
+        "word": "小雪参加福布斯中国电竞颁奖礼",
+        "onboard_time": 1764761781,
+        "rank": 17,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 69009,
+        "num": 198612,
+        "word": "央视点赞极氪金箍棒",
+        "onboard_time": 1764758301,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 37438,
+        "num": 194067,
+        "word": "欧米茄海马活动现场颜值狙击",
+        "onboard_time": 1764760882,
+        "rank": 19,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 934008,
+        "num": 191325,
+        "word": "李嘉格回应恋情",
+        "onboard_time": 1764755241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138593,
+        "num": 186257,
+        "word": "荒野求生林北退赛",
+        "onboard_time": 1764760221,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185013,
+        "num": 185013,
+        "word": "27岁瞒着所有人买了一套房",
+        "onboard_time": 1764750801,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 179879,
+        "num": 179879,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168381,
+        "num": 168381,
+        "word": "转账约饭法",
+        "onboard_time": 1764748463,
+        "rank": 24,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 479137,
+        "num": 162875,
+        "word": "李嘉格小号分享的恋爱日常",
+        "onboard_time": 1764760701,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146855,
+        "num": 146855,
+        "word": "手术前一定要多问一句",
+        "onboard_time": 1764751703,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 135222,
+        "num": 135222,
+        "word": "白敬亭带着老鼠干回家了",
+        "onboard_time": 1764760400,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 72955,
+        "num": 132220,
+        "word": "高市早苗终于不嘴硬了",
+        "onboard_time": 1764761841,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 282481,
+        "num": 132208,
+        "word": "处置张雪峰等账号是一次及时祛魅",
+        "onboard_time": 1764759861,
+        "rank": 29,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 292456,
+        "num": 132099,
+        "word": "张雪峰直播说脏话被禁言停播",
+        "onboard_time": 1764757702,
+        "rank": 30,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 131966,
+        "num": 131966,
+        "word": "一加发布会",
+        "onboard_time": 1764761662,
+        "rank": 31,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 124662,
+        "num": 124662,
+        "word": "兔子警官陈都灵",
+        "onboard_time": 1764755842,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124250,
+        "num": 124250,
+        "word": "把农村婚礼拍成戛纳了",
+        "onboard_time": 1764758662,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 124079,
+        "num": 124079,
+        "word": "怎么不等微信停运了再说",
+        "onboard_time": 1764752902,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 123528,
+        "num": 123528,
+        "word": "郑乃馨直播回应和bright分手",
+        "onboard_time": 1764753142,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102814,
+        "num": 122105,
+        "word": "樊振东登上德甲60周年主题首页",
+        "onboard_time": 1764761121,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 19218,
+        "num": 120541,
+        "word": "34岁女药品销售员陪酒后身亡",
+        "onboard_time": 1764761841,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109520,
+        "num": 119072,
+        "word": "钟汉良居然会发这种东西",
+        "onboard_time": 1764761182,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 33682,
+        "num": 117314,
+        "word": "迪丽热巴T0级别的细节控",
+        "onboard_time": 1764761841,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116628,
+        "num": 116628,
+        "word": "陈哲远90岁奶奶粉正是闯的年纪",
+        "onboard_time": 1764760400,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115150,
+        "num": 115150,
+        "word": "怪不得车澈破防",
+        "onboard_time": 1764748223,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 38681,
+        "num": 111563,
+        "word": "用AI真的能批改好作业吗",
+        "onboard_time": 1764760281,
+        "rank": 42,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 45257,
+        "num": 111551,
+        "word": "多地对招投标项目倒查13年",
+        "onboard_time": 1764760582,
+        "rank": 43,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 111549,
+        "num": 111549,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 44,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 34321,
+        "num": 109108,
+        "word": "冷门歌手孙燕姿来送分了",
+        "onboard_time": 1764760641,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107803,
+        "num": 107803,
+        "word": "石破茂反问还记得日本那时的结局吗",
+        "onboard_time": 1764754342,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106453,
+        "num": 106453,
+        "word": "枭起青壤口碑",
+        "onboard_time": 1764755784,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101138,
+        "num": 101138,
+        "word": "王一博教辛芷蕾帮他拍照",
+        "onboard_time": 1764755362,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93179,
+        "num": 93179,
+        "word": "王梓莼说同情包洁仪但无法原谅她",
+        "onboard_time": 1764751462,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关爱残疾人的暖心故事#"
+    }
+  }
+}

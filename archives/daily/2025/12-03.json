@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764761180587,
+  "endTime": 1764762051769,
   "band_list": [
     {
       "raw_hot": 2033595,
@@ -139,20 +139,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 861619,
+      "num": 861619,
+      "word": "高市早苗涉台最新表态",
+      "onboard_time": 1764760161,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 827809,
       "num": 718741,
       "word": "于正骂人秒删",
       "onboard_time": 1764749963,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 806618,
-      "num": 806618,
-      "word": "高市早苗涉台最新表态",
-      "onboard_time": 1764760161,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 789028,
@@ -347,6 +347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 479137,
+      "num": 167652,
+      "word": "李嘉格小号分享的恋爱日常",
+      "onboard_time": 1764760701,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 474791,
       "num": 355302,
       "word": "颖儿在家吃这么好 在外胡说八道",
@@ -409,14 +417,6 @@
       "onboard_time": 1764679462,
       "rank": 13,
       "category": "舆论监督"
-    },
-    {
-      "raw_hot": 405114,
-      "num": 167652,
-      "word": "李嘉格小号分享的恋爱日常",
-      "onboard_time": 1764760701,
-      "rank": 25,
-      "category": "艺人"
     },
     {
       "raw_hot": 397057,
@@ -515,6 +515,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 346189,
+      "num": 346189,
+      "word": "小小文淇 签约公司是终身大事",
+      "onboard_time": 1764759802,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 334443,
       "num": 334443,
       "word": "阑夕宣介境外色情被禁言",
@@ -611,6 +619,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 282481,
+      "num": 194434,
+      "word": "处置张雪峰等账号是一次及时祛魅",
+      "onboard_time": 1764759861,
+      "rank": 17,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 280680,
       "num": 926059,
       "word": "LCK引入教练语音机制",
@@ -673,14 +689,6 @@
       "onboard_time": 1764735984,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 257504,
-      "num": 257504,
-      "word": "小小文淇 签约公司是终身大事",
-      "onboard_time": 1764759802,
-      "rank": 14,
-      "category": "艺人"
     },
     {
       "raw_hot": 256861,
@@ -771,8 +779,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 224478,
-      "num": 224478,
+      "raw_hot": 226334,
+      "num": 226334,
       "word": "女方私自流产男方要求离婚返彩礼",
       "onboard_time": 1764759441,
       "rank": 16,
@@ -915,6 +923,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 199132,
+      "num": 199132,
+      "word": "小雪参加福布斯中国电竞颁奖礼",
+      "onboard_time": 1764761781,
+      "rank": 17,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 198581,
       "num": 198581,
       "word": "发明移动衣帽间的真是个天才",
@@ -929,14 +945,6 @@
       "onboard_time": 1764743181,
       "rank": 23,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 194434,
-      "num": 194434,
-      "word": "处置张雪峰等账号是一次及时祛魅",
-      "onboard_time": 1764759861,
-      "rank": 17,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 193501,
@@ -1331,6 +1339,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 138593,
+      "num": 186257,
+      "word": "荒野求生林北退赛",
+      "onboard_time": 1764760221,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137798,
       "num": 137798,
       "word": "特朗普说不点名又点名",
@@ -1379,6 +1395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 135222,
+      "num": 135222,
+      "word": "白敬亭带着老鼠干回家了",
+      "onboard_time": 1764760400,
+      "rank": 33,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134182,
       "num": 134182,
       "word": "多方回应工厂量产销售儿童硅胶娃娃",
@@ -1403,20 +1427,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 131966,
+      "num": 131966,
+      "word": "一加发布会",
+      "onboard_time": 1764761662,
+      "rank": 31,
+      "category": "数码"
+    },
+    {
       "raw_hot": 131920,
       "num": 159128,
       "word": "快船让保罗深夜回家",
       "onboard_time": 1764751223,
       "rank": 29,
       "category": "体育"
-    },
-    {
-      "raw_hot": 131611,
-      "num": 131611,
-      "word": "白敬亭带着老鼠干回家了",
-      "onboard_time": 1764760400,
-      "rank": 33,
-      "category": "综艺"
     },
     {
       "raw_hot": 130305,
@@ -1449,14 +1473,6 @@
       "onboard_time": 1764751462,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 126487,
-      "num": 126487,
-      "word": "荒野求生林北退赛",
-      "onboard_time": 1764760221,
-      "rank": 34,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 126160,
@@ -1515,20 +1531,20 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 124250,
+      "num": 124250,
+      "word": "把农村婚礼拍成戛纳了",
+      "onboard_time": 1764758662,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 123584,
       "num": 253098,
       "word": "戴尔创始人豪捐62.5亿美元",
       "onboard_time": 1764727881,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 122869,
-      "num": 122869,
-      "word": "把农村婚礼拍成戛纳了",
-      "onboard_time": 1764758662,
-      "rank": 42,
-      "category": "情感"
     },
     {
       "raw_hot": 122350,
@@ -1755,6 +1771,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109520,
+      "num": 119072,
+      "word": "钟汉良居然会发这种东西",
+      "onboard_time": 1764761182,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 109312,
       "num": 109312,
       "word": "哥的全宇宙",
@@ -1881,6 +1905,14 @@
       "onboard_time": 1764743901,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 102814,
+      "num": 122105,
+      "word": "樊振东登上德甲60周年主题首页",
+      "onboard_time": 1764761121,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 101726,
@@ -2131,14 +2163,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 91140,
-      "num": 91140,
-      "word": "樊振东登上德甲60周年主题首页",
-      "onboard_time": 1764761121,
-      "rank": 48,
-      "category": "体育"
-    },
-    {
       "raw_hot": 90953,
       "num": 90953,
       "word": "自从上班我就没名字了",
@@ -2369,6 +2393,14 @@
       "onboard_time": 1764700217,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 72955,
+      "num": 132220,
+      "word": "高市早苗终于不嘴硬了",
+      "onboard_time": 1764761841,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 72569,
@@ -2652,7 +2684,7 @@
     },
     {
       "raw_hot": 49894,
-      "num": 101794,
+      "num": 111563,
       "word": "用AI真的能批改好作业吗",
       "onboard_time": 1764760281,
       "rank": 44,
@@ -2721,6 +2753,14 @@
       "onboard_time": 1764716717,
       "rank": 41,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 45257,
+      "num": 120092,
+      "word": "多地对招投标项目倒查13年",
+      "onboard_time": 1764760582,
+      "rank": 37,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 45091,
@@ -2803,12 +2843,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 36531,
-      "num": 120092,
-      "word": "多地对招投标项目倒查13年",
-      "onboard_time": 1764760582,
-      "rank": 37,
-      "category": "舆论监督"
+      "raw_hot": 37438,
+      "num": 194067,
+      "word": "欧米茄海马活动现场颜值狙击",
+      "onboard_time": 1764760882,
+      "rank": 21,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 34849,
@@ -2819,12 +2859,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 34321,
+      "num": 119875,
+      "word": "冷门歌手孙燕姿来送分了",
+      "onboard_time": 1764760641,
+      "rank": 38,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 33822,
       "num": 109777,
       "word": "人类对欧阳娜娜的开发不足1%",
       "onboard_time": 1764751462,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 33682,
+      "num": 117314,
+      "word": "迪丽热巴T0级别的细节控",
+      "onboard_time": 1764761841,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 33488,
@@ -2875,14 +2931,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 28323,
-      "num": 119875,
-      "word": "冷门歌手孙燕姿来送分了",
-      "onboard_time": 1764760641,
-      "rank": 38,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 28027,
       "num": 65542,
       "word": "林雪猁把爬行动物都赶你家来了",
@@ -2913,14 +2961,6 @@
       "onboard_time": 1764750441,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26730,
-      "num": 186556,
-      "word": "欧米茄海马活动现场颜值狙击",
-      "onboard_time": 1764760882,
-      "rank": 21,
-      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 25551,
@@ -2985,6 +3025,14 @@
       "onboard_time": 1764696137,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19218,
+      "num": 120541,
+      "word": "34岁女药品销售员陪酒后身亡",
+      "onboard_time": 1764761841,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 18213,
