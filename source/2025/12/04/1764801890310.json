@@ -1,0 +1,410 @@
+{
+  "runTime": 1764801890310,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 126284,
+        "num": 487149,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 42204,
+        "num": 127616,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 25586,
+        "num": 100214,
+        "word": "冻伤要到烧伤科就诊",
+        "onboard_time": 1764760341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 79221,
+        "num": 79221,
+        "word": "侯鸿亮啥也不说了给大家鞠一躬",
+        "onboard_time": 1764772343,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42632,
+        "num": 79181,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 191925,
+        "num": 78494,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113709,
+        "num": 77225,
+        "word": "日本被曝迈向全领域作战",
+        "onboard_time": 1764770724,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 99850,
+        "num": 77052,
+        "word": "中俄达成新的共识",
+        "onboard_time": 1764779179,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82095,
+        "num": 76216,
+        "word": "武汉警方通报男子持刀伤人致死",
+        "onboard_time": 1764774801,
+        "rank": 8,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 42143,
+        "num": 75870,
+        "word": "洛克王国",
+        "onboard_time": 1764765561,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 276561,
+        "num": 74676,
+        "word": "入殓师称同事服务猝死老人被托梦质问",
+        "onboard_time": 1764774383,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240840,
+        "num": 73973,
+        "word": "高市早苗终于不嘴硬了",
+        "onboard_time": 1764761841,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 190737,
+        "num": 73848,
+        "word": "于正破防",
+        "onboard_time": 1764789494,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98063,
+        "num": 73145,
+        "word": "张继科回应目前身体状态",
+        "onboard_time": 1764795734,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 80766,
+        "num": 72324,
+        "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
+        "onboard_time": 1764779239,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71883,
+        "num": 71883,
+        "word": "幼儿园15天虐童上千次案最新进展",
+        "onboard_time": 1764773242,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 70067,
+        "num": 70067,
+        "word": "墓园回应演员董立范去世",
+        "onboard_time": 1764797054,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61222,
+        "num": 61222,
+        "word": "金建希出庭受审被搀扶着走入法庭",
+        "onboard_time": 1764778040,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 54139,
+        "num": 54139,
+        "word": "大生意人 搞笑",
+        "onboard_time": 1764797173,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 46313,
+        "num": 46313,
+        "word": "老师发来100多页PDF要求打印",
+        "onboard_time": 1764774443,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108907,
+        "num": 46095,
+        "word": "美国已全面禁止12个国家旅客入境",
+        "onboard_time": 1764771803,
+        "rank": 20,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49116,
+        "num": 45858,
+        "word": "正片观众 切片观众",
+        "onboard_time": 1764775941,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 44900,
+        "num": 44900,
+        "word": "印度幽灵飞机停在机场13年后被发现",
+        "onboard_time": 1764765201,
+        "rank": 22,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 36967,
+        "num": 36967,
+        "word": "罗大美遇害29个月还未下葬",
+        "onboard_time": 1764776841,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 35993,
+        "num": 35993,
+        "word": "大学生真正的床上五件套",
+        "onboard_time": 1764766580,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 32617,
+        "num": 32617,
+        "word": "新国标电动车引民生痛点",
+        "onboard_time": 1764766280,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32159,
+        "num": 32159,
+        "word": "为你钟情",
+        "onboard_time": 1764779777,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31685,
+        "num": 31685,
+        "word": "刘萧旭坐硬卧",
+        "onboard_time": 1764775160,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31125,
+        "num": 31125,
+        "word": "张杰没有一条微博是白发的",
+        "onboard_time": 1764766103,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 30501,
+        "num": 30501,
+        "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+        "onboard_time": 1764787035,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 29894,
+        "num": 29894,
+        "word": "郭宇欣21年中戏毕业照",
+        "onboard_time": 1764778399,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 28504,
+        "num": 29893,
+        "word": "黄子韬徐艺洋挽手下飞机",
+        "onboard_time": 1764786555,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27875,
+        "num": 29893,
+        "word": "李纯超绝不经意展示婚戒",
+        "onboard_time": 1764770062,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27740,
+        "num": 29892,
+        "word": "李嘉格捂嘴偷笑",
+        "onboard_time": 1764768562,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27325,
+        "num": 29892,
+        "word": "蔡磊已准备好尝试脑机接口",
+        "onboard_time": 1764767961,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 26137,
+        "num": 29891,
+        "word": "谍报上不封顶",
+        "onboard_time": 1764774922,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 24985,
+        "num": 29890,
+        "word": "年薪435万董事长反对自己当选董事长",
+        "onboard_time": 1764777619,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23584,
+        "num": 29890,
+        "word": "吴艳妮在姐姐婚礼上致辞数次落泪",
+        "onboard_time": 1764772645,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 22469,
+        "num": 29890,
+        "word": "欧美女明星的嘬腮审美",
+        "onboard_time": 1764771623,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 21275,
+        "num": 29889,
+        "word": "万妮达演唱会偶遇李嘉格和新男友",
+        "onboard_time": 1764771503,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 21239,
+        "num": 29888,
+        "word": "韩雨彤曾辉去阿那亚了",
+        "onboard_time": 1764801256,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 20689,
+        "num": 29888,
+        "word": "李昀锐路透造型被识别成AI了",
+        "onboard_time": 1764776361,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19710,
+        "num": 29887,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 19044,
+        "num": 29886,
+        "word": "韩检方要求判金建希15年刑期",
+        "onboard_time": 1764780439,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 18892,
+        "num": 29885,
+        "word": "电影得闲谨制",
+        "onboard_time": 1764783495,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 18819,
+        "num": 29885,
+        "word": "丁程鑫 丝袜很正式",
+        "onboard_time": 1764766701,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18683,
+        "num": 29885,
+        "word": "业内曝中国文娱势力版图",
+        "onboard_time": 1764778940,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18344,
+        "num": 29884,
+        "word": "Kanavi说要整顿队内纪律",
+        "onboard_time": 1764771023,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 18078,
+        "num": 29883,
+        "word": "年度十大角色cp超话",
+        "onboard_time": 1764769523,
+        "rank": 48,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 17943,
+        "num": 29882,
+        "word": "于正不认识王梓莼",
+        "onboard_time": 1764786494,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持民营企业发展并走向更加广阔舞台#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764800916208,
+  "endTime": 1764801890310,
   "band_list": [
     {
       "raw_hot": 606778,
@@ -75,6 +75,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 190737,
+      "num": 73848,
+      "word": "于正破防",
+      "onboard_time": 1764789494,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 190475,
       "num": 104517,
       "word": "美国已全面禁止12个国家旅客入境",
@@ -121,14 +129,6 @@
       "onboard_time": 1764770724,
       "rank": 14,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 144744,
-      "num": 59986,
-      "word": "于正破防",
-      "onboard_time": 1764789494,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 137095,
@@ -203,20 +203,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99850,
+      "num": 77052,
+      "word": "中俄达成新的共识",
+      "onboard_time": 1764779179,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 98063,
+      "num": 73145,
+      "word": "张继科回应目前身体状态",
+      "onboard_time": 1764795734,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95260,
       "num": 95260,
       "word": "刘萧旭坐硬卧",
       "onboard_time": 1764775160,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 87915,
-      "num": 59909,
-      "word": "张继科回应目前身体状态",
-      "onboard_time": 1764795734,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 86673,
@@ -240,6 +248,14 @@
       "word": "老师发来100多页PDF要求打印",
       "onboard_time": 1764774443,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 80766,
+      "num": 72324,
+      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
+      "onboard_time": 1764779239,
+      "rank": 39,
       "category": "民生新闻"
     },
     {
@@ -275,20 +291,20 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73049,
-      "num": 66378,
-      "word": "中俄达成新的共识",
-      "onboard_time": 1764779179,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 71610,
       "num": 71610,
       "word": "年度十大角色cp超话",
       "onboard_time": 1764769523,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 70067,
+      "num": 70067,
+      "word": "墓园回应演员董立范去世",
+      "onboard_time": 1764797054,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 69420,
@@ -347,14 +363,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 59904,
-      "num": 63705,
-      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
-      "onboard_time": 1764779239,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 59631,
       "num": 59631,
       "word": "枭起青壤",
@@ -387,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 54139,
+      "num": 54139,
+      "word": "大生意人 搞笑",
+      "onboard_time": 1764797173,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 51908,
       "num": 60882,
       "word": "年薪435万董事长反对自己当选董事长",
@@ -411,12 +427,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 42232,
-      "num": 42232,
-      "word": "大生意人 搞笑",
-      "onboard_time": 1764797173,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 44900,
+      "num": 44900,
+      "word": "印度幽灵飞机停在机场13年后被发现",
+      "onboard_time": 1764765201,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 40276,
@@ -451,19 +467,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 36522,
-      "num": 42834,
-      "word": "印度幽灵飞机停在机场13年后被发现",
-      "onboard_time": 1764765201,
-      "rank": 40,
+      "raw_hot": 30501,
+      "num": 36499,
+      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+      "onboard_time": 1764787035,
+      "rank": 48,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 36475,
-      "num": 36475,
-      "word": "墓园回应演员董立范去世",
-      "onboard_time": 1764797054,
-      "rank": 49,
+      "raw_hot": 28504,
+      "num": 36470,
+      "word": "黄子韬徐艺洋挽手下飞机",
+      "onboard_time": 1764786555,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -475,28 +491,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 28006,
-      "num": 36499,
-      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
-      "onboard_time": 1764787035,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 27817,
       "num": 60969,
       "word": "韩检方要求判金建希15年刑期",
       "onboard_time": 1764780439,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 24747,
-      "num": 36470,
-      "word": "黄子韬徐艺洋挽手下飞机",
-      "onboard_time": 1764786555,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 24642,
@@ -515,10 +515,18 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 17740,
+      "raw_hot": 22469,
       "num": 36443,
       "word": "欧美女明星的嘬腮审美",
       "onboard_time": 1764771623,
+      "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 21239,
+      "num": 29888,
+      "word": "韩雨彤曾辉去阿那亚了",
+      "onboard_time": 1764801256,
       "rank": 40,
       "category": "艺人"
     },
