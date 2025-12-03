@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764782989440,
+  "endTime": 1764783962830,
   "band_list": [
     {
       "raw_hot": 606778,
@@ -435,12 +435,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 27374,
+      "raw_hot": 27817,
       "num": 60969,
       "word": "韩检方要求判金建希15年刑期",
       "onboard_time": 1764780439,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 24642,
+      "num": 40107,
+      "word": "电影得闲谨制",
+      "onboard_time": 1764783495,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 24303,
+      "num": 40106,
+      "word": "网络名人账号违法违规行为被查",
+      "onboard_time": 1764747740,
+      "rank": 48,
+      "category": "民生新闻,教育"
     }
   ],
   "hotgov_list": [

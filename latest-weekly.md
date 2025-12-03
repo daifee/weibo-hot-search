@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/04 01:29:49
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/04 01:46:02
 </p>
 </blockquote>
 <p>
@@ -10095,6 +10095,12 @@ iG众将回应输给T1（热度：29444）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%A3%80%E6%96%B9%E8%A6%81%E6%B1%82%E5%88%A4%E9%87%91%E5%BB%BA%E5%B8%8C15%E5%B9%B4%E5%88%91%E6%9C%9F%23" target="weibo">
+韩检方要求判金建希15年刑期（热度：27817）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%80%81%E4%BA%BA%E6%A5%BC%E9%81%93%E6%89%93%E5%9C%B0%E9%93%BA%E7%96%91%E5%9B%A0%E5%AD%90%E5%A5%B3%E8%B5%A1%E5%85%BB%E7%BA%A0%E7%BA%B7%23" target="weibo">
 老人楼道打地铺疑因子女赡养纠纷（热度：27779）
 </a>
@@ -10103,12 +10109,6 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E5%BC%80%E4%BB%B7%E7%99%BE%E5%85%83%E4%BB%A3%E6%8A%A2%E7%A6%BB%E5%A9%9A%E9%A2%84%E7%BA%A6%E5%8F%B7%23" target="weibo">
 黄牛开价百元代抢离婚预约号（热度：27751）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%A3%80%E6%96%B9%E8%A6%81%E6%B1%82%E5%88%A4%E9%87%91%E5%BB%BA%E5%B8%8C15%E5%B9%B4%E5%88%91%E6%9C%9F%23" target="weibo">
-韩检方要求判金建希15年刑期（热度：27374）
 </a>
 </li>
 
