@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764746964862,
+  "endTime": 1764747813949,
   "band_list": [
     {
       "raw_hot": 1763620,
@@ -35,7 +35,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1113322,
+      "raw_hot": 1376261,
       "num": 389948,
       "word": "演员董立范已去世多年",
       "onboard_time": 1764745760,
@@ -57,6 +57,14 @@
       "onboard_time": 1764728061,
       "rank": 27,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 983316,
+      "num": 1157330,
+      "word": "网信部门通报处置张雪峰",
+      "onboard_time": 1764747740,
+      "rank": 0,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 937177,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 538740,
-      "num": 198020,
+      "num": 201972,
       "word": "李嘉格男友",
       "onboard_time": 1764744440,
       "rank": 25,
@@ -297,6 +305,14 @@
       "onboard_time": 1764725961,
       "rank": 3,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 379837,
+      "num": 326625,
+      "word": "何美延梁淞没做婚前财产公证",
+      "onboard_time": 1764745940,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 379561,
@@ -547,6 +563,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 216576,
+      "num": 216576,
+      "word": "下半年来最冷的一天来了",
+      "onboard_time": 1764745221,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "陈梦表彰大会站C位",
@@ -603,6 +627,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 202789,
+      "num": 202789,
+      "word": "缺钱找周杰伦他是真借啊",
+      "onboard_time": 1764747083,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 201531,
       "num": 201531,
       "word": "谁家夫妻上综艺相亲啊",
@@ -633,14 +665,6 @@
       "onboard_time": 1764732742,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 191674,
-      "num": 191674,
-      "word": "下半年来最冷的一天来了",
-      "onboard_time": 1764745221,
-      "rank": 27,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 187797,
@@ -899,14 +923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 143412,
-      "num": 288380,
-      "word": "何美延梁淞没做婚前财产公证",
-      "onboard_time": 1764745940,
-      "rank": 18,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 142583,
       "num": 142583,
       "word": "全球公认5个有效抗衰老动作",
@@ -968,6 +984,30 @@
       "word": "狗主人回应小狗被陌生母子抱走",
       "onboard_time": 1764727700,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132564,
+      "num": 132564,
+      "word": "何炅认证撒贝宁和结界兽撞脸",
+      "onboard_time": 1764745940,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 128347,
+      "num": 112761,
+      "word": "妻子为孩子花15800丈夫坦白离职",
+      "onboard_time": 1764747563,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 126626,
+      "num": 205240,
+      "word": "网络名人账号违法违规行为被查",
+      "onboard_time": 1764747442,
+      "rank": 22,
       "category": "民生新闻"
     },
     {
@@ -1131,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 115802,
+      "num": 115802,
+      "word": "发朋友圈半小时发微博两秒",
+      "onboard_time": 1764746902,
+      "rank": 45,
+      "category": "情感"
+    },
+    {
       "raw_hot": 114939,
       "num": 114939,
       "word": "郑天浩 王梓莼",
@@ -1163,6 +1211,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 113161,
+      "num": 113161,
+      "word": "大额存单转让火爆",
+      "onboard_time": 1764746061,
+      "rank": 40,
+      "category": "财经"
+    },
+    {
       "raw_hot": 113004,
       "num": 113004,
       "word": "94岁老人被发现在楼道打地铺生活",
@@ -1177,14 +1233,6 @@
       "onboard_time": 1764745341,
       "rank": 37,
       "category": "情感"
-    },
-    {
-      "raw_hot": 110790,
-      "num": 110790,
-      "word": "大额存单转让火爆",
-      "onboard_time": 1764746061,
-      "rank": 40,
-      "category": "财经"
     },
     {
       "raw_hot": 109876,
@@ -1323,6 +1371,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 99951,
+      "num": 99951,
+      "word": "疯狂动物城吃虫子的制作过程",
+      "onboard_time": 1764747740,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 99871,
       "num": 766097,
       "word": "Uzi邀请Wayward试训",
@@ -1371,14 +1427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 96500,
-      "num": 110796,
-      "word": "何炅认证撒贝宁和结界兽撞脸",
-      "onboard_time": 1764745940,
-      "rank": 39,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 96436,
       "num": 96436,
       "word": "手机空间不足的朋友",
@@ -1393,6 +1441,14 @@
       "onboard_time": 1764746061,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 95831,
+      "num": 93530,
+      "word": "热巴的大眼睛让心疼都是高清的",
+      "onboard_time": 1764747501,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 95448,
@@ -1416,14 +1472,6 @@
       "word": "月经不是用激素控制女性一生",
       "onboard_time": 1764742222,
       "rank": 44,
-      "category": "情感"
-    },
-    {
-      "raw_hot": 93938,
-      "num": 93938,
-      "word": "发朋友圈半小时发微博两秒",
-      "onboard_time": 1764746902,
-      "rank": 45,
       "category": "情感"
     },
     {
@@ -1643,6 +1691,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 75549,
+      "num": 204624,
+      "word": "官方介入工厂量产销售儿童情趣娃娃",
+      "onboard_time": 1764745461,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 74413,
       "num": 107093,
       "word": "王楚钦微微一笑",
@@ -1715,6 +1771,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 68566,
+      "num": 99962,
+      "word": "清华妈也用千问辅导小学奥数",
+      "onboard_time": 1764746601,
+      "rank": 46,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 68452,
       "num": 68452,
       "word": "星光大赏名单",
@@ -1737,14 +1801,6 @@
       "onboard_time": 1764683483,
       "rank": 36,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 67001,
-      "num": 89336,
-      "word": "清华妈也用千问辅导小学奥数",
-      "onboard_time": 1764746601,
-      "rank": 46,
-      "category": "互联网"
     },
     {
       "raw_hot": 66907,
@@ -1809,14 +1865,6 @@
       "onboard_time": 1764689481,
       "rank": 42,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 60166,
-      "num": 204624,
-      "word": "官方介入工厂量产销售儿童情趣娃娃",
-      "onboard_time": 1764745461,
-      "rank": 24,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 59506,
@@ -2091,6 +2139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21082,
+      "num": 134367,
+      "word": "特朗普点名日本",
+      "onboard_time": 1764747621,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 19653,
       "num": 78631,
       "word": "2025斯诺克英锦赛",
@@ -2099,12 +2155,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 17230,
+      "num": 133781,
+      "word": "新国标电动自行车能否搭载儿童",
+      "onboard_time": 1764747563,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 16144,
       "num": 25991,
       "word": "日本搞事背后",
       "onboard_time": 1764697817,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15669,
+      "num": 106011,
+      "word": "嗑上双强cp就发了狠忘了情",
+      "onboard_time": 1764747260,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 15471,
