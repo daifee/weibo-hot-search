@@ -1,0 +1,410 @@
+{
+  "runTime": 1764751088615,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1018304,
+        "num": 1162928,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 226115,
+        "num": 1161179,
+        "word": "朱雀三号任务一级回收失败",
+        "onboard_time": 1764737302,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 49786,
+        "num": 1115415,
+        "word": "东北大冰箱营业了",
+        "onboard_time": 1764724041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63325,
+        "num": 1092353,
+        "word": "WBG官宣Elk加入",
+        "onboard_time": 1764743181,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 47610,
+        "num": 1048737,
+        "word": "嫁金钗",
+        "onboard_time": 1764729261,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 596710,
+        "num": 1034574,
+        "word": "网络名人账号违法违规行为被查",
+        "onboard_time": 1764747740,
+        "rank": 5,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 592414,
+        "num": 1007627,
+        "word": "张雪峰称已经深刻反省",
+        "onboard_time": 1764749842,
+        "rank": 6,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 269870,
+        "num": 967595,
+        "word": "日本投降书明确台湾归还中国",
+        "onboard_time": 1764728061,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 153186,
+        "num": 943338,
+        "word": "马航MH370已失踪11年",
+        "onboard_time": 1764738622,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93006,
+        "num": 912937,
+        "word": "工行三年期大额存单门槛100万",
+        "onboard_time": 1764735984,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 904140,
+        "num": 904140,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 752336,
+        "num": 752336,
+        "word": "妻子为孩子花15800丈夫坦白离职",
+        "onboard_time": 1764747563,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 603418,
+        "num": 603418,
+        "word": "于正骂人秒删",
+        "onboard_time": 1764749963,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 447657,
+        "num": 447657,
+        "word": "户晨风郭美美被点名",
+        "onboard_time": 1764748042,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 334443,
+        "num": 334443,
+        "word": "阑夕宣介境外色情被禁言",
+        "onboard_time": 1764748701,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 307795,
+        "num": 307795,
+        "word": "缺钱找周杰伦他是真借啊",
+        "onboard_time": 1764747083,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 275433,
+        "num": 275433,
+        "word": "快船裁掉保罗",
+        "onboard_time": 1764749722,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 273875,
+        "num": 273875,
+        "word": "何美延梁淞没做婚前财产公证",
+        "onboard_time": 1764745940,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 263976,
+        "num": 263976,
+        "word": "疯狂动物城吃虫子的制作过程",
+        "onboard_time": 1764747740,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 16189,
+        "num": 263787,
+        "word": "王世坚既想蹭热度又要换选票",
+        "onboard_time": 1764750441,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 512866,
+        "num": 254724,
+        "word": "李嘉格恋情",
+        "onboard_time": 1764743121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 420494,
+        "num": 250628,
+        "word": "怪不得车澈破防",
+        "onboard_time": 1764748223,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141733,
+        "num": 242998,
+        "word": "电影得闲谨制郑重声明",
+        "onboard_time": 1764744741,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 412881,
+        "num": 231342,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137453,
+        "num": 230897,
+        "word": "韩国8比7法国",
+        "onboard_time": 1764749483,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 495100,
+        "num": 222005,
+        "word": "李嘉格新男友才26岁",
+        "onboard_time": 1764747982,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143414,
+        "num": 217120,
+        "word": "高市早苗老家奈良凉了",
+        "onboard_time": 1764735623,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 211660,
+        "num": 211660,
+        "word": "虞书欣何与双轨江苏卫视上星",
+        "onboard_time": 1764745221,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 163015,
+        "num": 163015,
+        "word": "转账约饭法",
+        "onboard_time": 1764748463,
+        "rank": 28,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 162276,
+        "num": 162276,
+        "word": "颖儿在家吃这么好 在外胡说八道",
+        "onboard_time": 1764741320,
+        "rank": 29,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 179575,
+        "num": 161340,
+        "word": "27岁瞒着所有人买了一套房",
+        "onboard_time": 1764750801,
+        "rank": 30,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 51067,
+        "num": 154189,
+        "word": "KPL",
+        "onboard_time": 1764743121,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 149178,
+        "num": 149178,
+        "word": "妈妈的第一台iPad",
+        "onboard_time": 1764749601,
+        "rank": 32,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 144282,
+        "num": 144282,
+        "word": "下半年来最冷的一天来了",
+        "onboard_time": 1764745221,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132912,
+        "num": 132912,
+        "word": "日专家称高市或被发国际逮捕令",
+        "onboard_time": 1764743780,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 131139,
+        "num": 131139,
+        "word": "腾讯电视剧道歉",
+        "onboard_time": 1764737243,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 129744,
+        "num": 129744,
+        "word": "三甲医生回应女子痔疮手术后自杀",
+        "onboard_time": 1764750801,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 127456,
+        "num": 127456,
+        "word": "张雪峰说已经深刻反省",
+        "onboard_time": 1764750681,
+        "rank": 37,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 13297,
+        "num": 118123,
+        "word": "新加坡人仍对日占期间行为记忆深刻",
+        "onboard_time": 1764750441,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 61736,
+        "num": 116266,
+        "word": "轮到自己赚钱了才知道多难",
+        "onboard_time": 1764750022,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116005,
+        "num": 116005,
+        "word": "阿凡达3致歉",
+        "onboard_time": 1764744202,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 112825,
+        "num": 112825,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108338,
+        "num": 108338,
+        "word": "意大利穿冲锋衣被问为什么穿丑衣服",
+        "onboard_time": 1764736764,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 107779,
+        "num": 107779,
+        "word": "大额存单转让火爆",
+        "onboard_time": 1764746061,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 106074,
+        "num": 106074,
+        "word": "发朋友圈半小时发微博两秒",
+        "onboard_time": 1764746902,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101726,
+        "num": 101726,
+        "word": "最毁身体的五种生活习惯",
+        "onboard_time": 1764749601,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93456,
+        "num": 93456,
+        "word": "微信为什么会有几十个G",
+        "onboard_time": 1764747923,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 92511,
+        "num": 92511,
+        "word": "陈松伶吐槽张铎想换老婆好久了",
+        "onboard_time": 1764744202,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91835,
+        "num": 91835,
+        "word": "孙颖莎回应8比0速胜",
+        "onboard_time": 1764750441,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 88689,
+        "num": 88689,
+        "word": "张雪峰30天掉粉近13万",
+        "onboard_time": 1764750801,
+        "rank": 49,
+        "category": "民生新闻,教育"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对残疾人的深情牵挂#"
+    }
+  }
+}
