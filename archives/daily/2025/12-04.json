@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764780857793,
+  "endTime": 1764782989440,
   "band_list": [
     {
       "raw_hot": 606778,
@@ -51,6 +51,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 282130,
+      "num": 282130,
+      "word": "为你钟情",
+      "onboard_time": 1764779777,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 272542,
       "num": 272542,
       "word": "双轨",
@@ -65,14 +73,6 @@
       "onboard_time": 1764772343,
       "rank": 7,
       "category": "电影"
-    },
-    {
-      "raw_hot": 201299,
-      "num": 166417,
-      "word": "为你钟情",
-      "onboard_time": 1764779777,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 190475,
@@ -129,6 +129,14 @@
       "onboard_time": 1764774922,
       "rank": 16,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136426,
+      "num": 85323,
+      "word": "业内曝中国文娱势力版图",
+      "onboard_time": 1764778940,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 130149,
@@ -200,14 +208,6 @@
       "word": "郭宇欣21年中戏毕业照",
       "onboard_time": 1764778399,
       "rank": 26,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 84869,
-      "num": 84869,
-      "word": "业内曝中国文娱势力版图",
-      "onboard_time": 1764778940,
-      "rank": 41,
       "category": "艺人"
     },
     {
@@ -417,6 +417,22 @@
       "onboard_time": 1764777200,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 33604,
+      "num": 42834,
+      "word": "印度幽灵飞机停在机场13年后被发现",
+      "onboard_time": 1764765201,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 28202,
+      "num": 42727,
+      "word": "李纯超绝不经意展示婚戒",
+      "onboard_time": 1764770062,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 27374,

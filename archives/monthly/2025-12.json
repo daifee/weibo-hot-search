@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764780857793,
+  "endTime": 1764782989440,
   "band_list": [
     {
       "raw_hot": 2425379,
@@ -2371,6 +2371,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 282130,
+      "num": 282130,
+      "word": "为你钟情",
+      "onboard_time": 1764779777,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 281960,
       "num": 281960,
       "word": "嘎子哥夫妇再被执行797万",
@@ -3297,14 +3305,6 @@
       "onboard_time": 1764732742,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201299,
-      "num": 166417,
-      "word": "为你钟情",
-      "onboard_time": 1764779777,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 200578,
@@ -5145,6 +5145,14 @@
       "onboard_time": 1764666561,
       "rank": 41,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 136426,
+      "num": 85323,
+      "word": "业内曝中国文娱势力版图",
+      "onboard_time": 1764778940,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 136138,
@@ -8009,14 +8017,6 @@
       "onboard_time": 1764729321,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84869,
-      "num": 84869,
-      "word": "业内曝中国文娱势力版图",
-      "onboard_time": 1764778940,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 84548,
