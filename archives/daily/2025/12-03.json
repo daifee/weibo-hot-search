@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764766702100,
+  "endTime": 1764767557218,
   "band_list": [
     {
       "raw_hot": 2425379,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1107113,
+      "num": 202558,
+      "word": "高市早苗终于不嘴硬了",
+      "onboard_time": 1764761841,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1073347,
       "num": 1959426,
       "word": "朱雀三号任务一级回收失败",
@@ -129,14 +137,6 @@
       "onboard_time": 1764737243,
       "rank": 47,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 898203,
-      "num": 202558,
-      "word": "高市早苗终于不嘴硬了",
-      "onboard_time": 1764761841,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 871199,
@@ -225,6 +225,14 @@
       "onboard_time": 1764690080,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 602226,
+      "num": 209323,
+      "word": "反诈老陈公开悬赏100万元",
+      "onboard_time": 1764763402,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 600877,
@@ -339,14 +347,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 496581,
-      "num": 209323,
-      "word": "反诈老陈公开悬赏100万元",
-      "onboard_time": 1764763402,
-      "rank": 6,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 491016,
       "num": 491016,
       "word": "怎么到了研究生就没人逃课了",
@@ -435,6 +435,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 403721,
+      "num": 197258,
+      "word": "张杰没有一条微博是白发的",
+      "onboard_time": 1764766103,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 397057,
       "num": 175883,
       "word": "李纯和杨幂在同一个健身房锻炼",
@@ -499,6 +507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 376852,
+      "num": 136344,
+      "word": "李嘉格小号",
+      "onboard_time": 1764764061,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368323,
       "num": 368323,
       "word": "排骨但是苹果味",
@@ -523,6 +539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 354615,
+      "num": 160773,
+      "word": "张继科说乒乓球热度是我带起来的",
+      "onboard_time": 1764762801,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 350263,
       "num": 350263,
       "word": "和大冰连麦过的粉丝现状",
@@ -545,14 +569,6 @@
       "onboard_time": 1764748701,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 333153,
-      "num": 121256,
-      "word": "张继科说乒乓球热度是我带起来的",
-      "onboard_time": 1764762801,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 331625,
@@ -587,12 +603,12 @@
       "category": "演出"
     },
     {
-      "raw_hot": 320526,
-      "num": 111977,
-      "word": "李嘉格小号",
-      "onboard_time": 1764764061,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 319739,
+      "num": 198999,
+      "word": "会化妆的人嘴真严啊",
+      "onboard_time": 1764762021,
+      "rank": 13,
+      "category": "美妆"
     },
     {
       "raw_hot": 313671,
@@ -625,6 +641,14 @@
       "onboard_time": 1764743780,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 297599,
+      "num": 211971,
+      "word": "洛克王国",
+      "onboard_time": 1764765561,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 295051,
@@ -787,6 +811,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 240188,
+      "num": 196912,
+      "word": "时代峰峻称北方天气不适合户外演唱会",
+      "onboard_time": 1764765261,
+      "rank": 15,
+      "category": "演出"
+    },
+    {
       "raw_hot": 238631,
       "num": 1390174,
       "word": "原神",
@@ -817,14 +849,6 @@
       "onboard_time": 1764759441,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 223814,
-      "num": 198999,
-      "word": "会化妆的人嘴真严啊",
-      "onboard_time": 1764762021,
-      "rank": 13,
-      "category": "美妆"
     },
     {
       "raw_hot": 222960,
@@ -875,14 +899,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 215848,
-      "num": 197258,
-      "word": "张杰没有一条微博是白发的",
-      "onboard_time": 1764766103,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "陈梦表彰大会站C位",
@@ -905,14 +921,6 @@
       "onboard_time": 1764744202,
       "rank": 31,
       "category": "电影"
-    },
-    {
-      "raw_hot": 210956,
-      "num": 210956,
-      "word": "洛克王国",
-      "onboard_time": 1764765561,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 209912,
@@ -945,6 +953,14 @@
       "onboard_time": 1764733223,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 203701,
+      "num": 203701,
+      "word": "无名之辈意义非凡延期上映",
+      "onboard_time": 1764767061,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 203474,
@@ -995,14 +1011,6 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 196912,
-      "num": 196912,
-      "word": "时代峰峻称北方天气不适合户外演唱会",
-      "onboard_time": 1764765261,
-      "rank": 15,
-      "category": "演出"
-    },
-    {
       "raw_hot": 195046,
       "num": 1092353,
       "word": "WBG官宣Elk加入",
@@ -1025,6 +1033,14 @@
       "onboard_time": 1764753322,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 190331,
+      "num": 107536,
+      "word": "大学生真正的床上五件套",
+      "onboard_time": 1764766580,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 187797,
@@ -1211,6 +1227,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 164290,
+      "num": 164290,
+      "word": "洛克王国世界定档",
+      "onboard_time": 1764766343,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 164108,
       "num": 164108,
       "word": "王一博教辛芷蕾帮他拍照",
@@ -1232,6 +1256,14 @@
       "word": "汪东城委托 商务价还是二次元价",
       "onboard_time": 1764724582,
       "rank": 22,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 160488,
+      "num": 160488,
+      "word": "李飞的早餐",
+      "onboard_time": 1764766163,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -1379,6 +1411,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 142437,
+      "num": 161472,
+      "word": "新国标电动车引民生痛点",
+      "onboard_time": 1764766280,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 141662,
       "num": 369207,
       "word": "国乒4战4胜",
@@ -1457,6 +1497,14 @@
       "onboard_time": 1764696856,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 137039,
+      "num": 137039,
+      "word": "丁程鑫 丝袜很正式",
+      "onboard_time": 1764766701,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 136567,
@@ -1625,14 +1673,6 @@
       "onboard_time": 1764727881,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 122874,
-      "num": 122874,
-      "word": "洛克王国世界定档",
-      "onboard_time": 1764766343,
-      "rank": 19,
-      "category": "游戏"
     },
     {
       "raw_hot": 122350,
@@ -1860,7 +1900,7 @@
     },
     {
       "raw_hot": 110769,
-      "num": 104653,
+      "num": 108549,
       "word": "印度幽灵飞机停在机场13年后被发现",
       "onboard_time": 1764765201,
       "rank": 30,
@@ -1923,8 +1963,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 107469,
-      "num": 107469,
+      "raw_hot": 107761,
+      "num": 107761,
       "word": "松岛辉空大藤沙月2比1黄镇廷杜凯琹",
       "onboard_time": 1764766221,
       "rank": 27,
@@ -1937,14 +1977,6 @@
       "onboard_time": 1764735323,
       "rank": 46,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107381,
-      "num": 107381,
-      "word": "新国标电动车引民生痛点",
-      "onboard_time": 1764766280,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 106902,
@@ -1993,14 +2025,6 @@
       "onboard_time": 1764752842,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 104685,
-      "num": 104685,
-      "word": "李飞的早餐",
-      "onboard_time": 1764766163,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 104004,
@@ -2089,6 +2113,14 @@
       "onboard_time": 1764685285,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 99632,
+      "num": 120541,
+      "word": "34岁女药品销售员陪酒后身亡",
+      "onboard_time": 1764761841,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 99606,
@@ -2235,14 +2267,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 93729,
-      "num": 120541,
-      "word": "34岁女药品销售员陪酒后身亡",
-      "onboard_time": 1764761841,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 93643,
       "num": 93643,
       "word": "沈月试戴假刘海",
@@ -2323,6 +2347,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 90771,
+      "num": 90771,
+      "word": "陈冠希 本山化",
+      "onboard_time": 1764767361,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 90594,
       "num": 90594,
       "word": "王楚钦孙颖莎3比0克罗地亚组合",
@@ -2345,6 +2377,22 @@
       "onboard_time": 1764738262,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89893,
+      "num": 89893,
+      "word": "zhuo 往日种种",
+      "onboard_time": 1764766461,
+      "rank": 40,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 89063,
+      "num": 89063,
+      "word": "爱马仕继承人起诉LVMH集团",
+      "onboard_time": 1764766942,
+      "rank": 42,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 88893,
@@ -2427,6 +2475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85703,
+      "num": 85703,
+      "word": "杨洋给电影得闲谨制包场了",
+      "onboard_time": 1764766762,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 85070,
       "num": 85070,
       "word": "蓝盈莹在东北尝试走路用腰发力",
@@ -2443,12 +2499,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 84489,
+      "num": 84489,
+      "word": "黎明以前就这么站着给大家亲",
+      "onboard_time": 1764766701,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 83830,
       "num": 83830,
       "word": "怪不得很少在网上看到德国留子",
       "onboard_time": 1764762560,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83346,
+      "num": 83346,
+      "word": "马克龙访华",
+      "onboard_time": 1764766822,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83228,
@@ -2515,12 +2587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78876,
-      "num": 78876,
-      "word": "大学生真正的床上五件套",
-      "onboard_time": 1764766580,
-      "rank": 48,
-      "category": "幽默"
+      "raw_hot": 78325,
+      "num": 78325,
+      "word": "黄金的延展性是真的好",
+      "onboard_time": 1764767422,
+      "rank": 49,
+      "category": "休闲"
     },
     {
       "raw_hot": 78109,
@@ -2537,6 +2609,14 @@
       "onboard_time": 1764731301,
       "rank": 17,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 76852,
+      "num": 161179,
+      "word": "你用过165Hz手机打游戏吗",
+      "onboard_time": 1764767061,
+      "rank": 19,
+      "category": "数码"
     },
     {
       "raw_hot": 76303,
@@ -3027,6 +3107,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 37451,
+      "num": 90027,
+      "word": "女子取环后子宫穿孔称主刀医生被换",
+      "onboard_time": 1764767242,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37438,
       "num": 194067,
       "word": "欧米茄海马活动现场颜值狙击",
@@ -3041,6 +3129,14 @@
       "onboard_time": 1764753383,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 34674,
+      "num": 85967,
+      "word": "夫妻花百万购别墅发现存大面积违章",
+      "onboard_time": 1764766041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 34321,
@@ -3148,7 +3244,7 @@
     },
     {
       "raw_hot": 26857,
-      "num": 211798,
+      "num": 224097,
       "word": "2025宪法宣传周",
       "onboard_time": 1764755542,
       "rank": 2,
@@ -3225,14 +3321,6 @@
       "onboard_time": 1764750441,
       "rank": 38,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 18144,
-      "num": 85967,
-      "word": "夫妻花百万购别墅发现存大面积违章",
-      "onboard_time": 1764766041,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 17230,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1764767557218,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1891426,
+        "num": 1891426,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225354,
+        "num": 225354,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 24377,
+        "num": 224097,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 527568,
+        "num": 216848,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 297599,
+        "num": 211971,
+        "word": "洛克王国",
+        "onboard_time": 1764765561,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 911968,
+        "num": 204192,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 203701,
+        "num": 203701,
+        "word": "无名之辈意义非凡延期上映",
+        "onboard_time": 1764767061,
+        "rank": 6,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 178405,
+        "num": 178405,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112415,
+        "num": 164886,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 164290,
+        "num": 164290,
+        "word": "洛克王国世界定档",
+        "onboard_time": 1764766343,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1107113,
+        "num": 164110,
+        "word": "高市早苗终于不嘴硬了",
+        "onboard_time": 1764761841,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 602226,
+        "num": 163827,
+        "word": "反诈老陈公开悬赏100万元",
+        "onboard_time": 1764763402,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 403721,
+        "num": 163412,
+        "word": "张杰没有一条微博是白发的",
+        "onboard_time": 1764766103,
+        "rank": 12,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 319739,
+        "num": 163209,
+        "word": "会化妆的人嘴真严啊",
+        "onboard_time": 1764762021,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 282669,
+        "num": 162882,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 240188,
+        "num": 162583,
+        "word": "时代峰峻称北方天气不适合户外演唱会",
+        "onboard_time": 1764765261,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 195455,
+        "num": 162202,
+        "word": "小小文淇 签约公司是终身大事",
+        "onboard_time": 1764759802,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192762,
+        "num": 161758,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142437,
+        "num": 161472,
+        "word": "新国标电动车引民生痛点",
+        "onboard_time": 1764766280,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 76852,
+        "num": 161179,
+        "word": "你用过165Hz手机打游戏吗",
+        "onboard_time": 1764767061,
+        "rank": 19,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 616257,
+        "num": 160862,
+        "word": "李嘉格回应恋情",
+        "onboard_time": 1764755241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 354615,
+        "num": 160773,
+        "word": "张继科说乒乓球热度是我带起来的",
+        "onboard_time": 1764762801,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 160488,
+        "num": 160488,
+        "word": "李飞的早餐",
+        "onboard_time": 1764766163,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148829,
+        "num": 148829,
+        "word": "27岁瞒着所有人买了一套房",
+        "onboard_time": 1764750801,
+        "rank": 23,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 137039,
+        "num": 137039,
+        "word": "丁程鑫 丝袜很正式",
+        "onboard_time": 1764766701,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 376852,
+        "num": 136344,
+        "word": "李嘉格小号",
+        "onboard_time": 1764764061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115163,
+        "num": 115163,
+        "word": "难怪成毅看到代拍后这么震惊",
+        "onboard_time": 1764766280,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111151,
+        "num": 111151,
+        "word": "妻子为孩子花15800丈夫坦白离职",
+        "onboard_time": 1764747563,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 108549,
+        "num": 108549,
+        "word": "印度幽灵飞机停在机场13年后被发现",
+        "onboard_time": 1764765201,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107761,
+        "num": 107761,
+        "word": "松岛辉空大藤沙月2比1黄镇廷杜凯琹",
+        "onboard_time": 1764766221,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190331,
+        "num": 107536,
+        "word": "大学生真正的床上五件套",
+        "onboard_time": 1764766580,
+        "rank": 30,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 109436,
+        "num": 106476,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103363,
+        "num": 103363,
+        "word": "于正骂人秒删",
+        "onboard_time": 1764749963,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99632,
+        "num": 99632,
+        "word": "34岁女药品销售员陪酒后身亡",
+        "onboard_time": 1764761841,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99424,
+        "num": 99424,
+        "word": "网络名人账号违法违规行为被查",
+        "onboard_time": 1764747740,
+        "rank": 34,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 94075,
+        "num": 94075,
+        "word": "郑乃馨直播回应和bright分手",
+        "onboard_time": 1764753142,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90887,
+        "num": 90887,
+        "word": "白敬亭带着老鼠干回家了",
+        "onboard_time": 1764760400,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88865,
+        "num": 90804,
+        "word": "李刚一审被判15年",
+        "onboard_time": 1764762442,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 90771,
+        "num": 90771,
+        "word": "陈冠希 本山化",
+        "onboard_time": 1764767361,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37451,
+        "num": 90027,
+        "word": "女子取环后子宫穿孔称主刀医生被换",
+        "onboard_time": 1764767242,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89893,
+        "num": 89893,
+        "word": "zhuo 往日种种",
+        "onboard_time": 1764766461,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87516,
+        "num": 89285,
+        "word": "第一次见主动想睡觉的娃",
+        "onboard_time": 1764763161,
+        "rank": 41,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 89063,
+        "num": 89063,
+        "word": "爱马仕继承人起诉LVMH集团",
+        "onboard_time": 1764766942,
+        "rank": 42,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 88068,
+        "num": 88068,
+        "word": "王一博教辛芷蕾帮他拍照",
+        "onboard_time": 1764755362,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 85703,
+        "num": 85703,
+        "word": "杨洋给电影得闲谨制包场了",
+        "onboard_time": 1764766762,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 34674,
+        "num": 85052,
+        "word": "夫妻花百万购别墅发现存大面积违章",
+        "onboard_time": 1764766041,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84489,
+        "num": 84489,
+        "word": "黎明以前就这么站着给大家亲",
+        "onboard_time": 1764766701,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 83346,
+        "num": 83346,
+        "word": "马克龙访华",
+        "onboard_time": 1764766822,
+        "rank": 47,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82169,
+        "num": 82169,
+        "word": "快船裁掉保罗",
+        "onboard_time": 1764749722,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 78325,
+        "num": 78325,
+        "word": "黄金的延展性是真的好",
+        "onboard_time": 1764767422,
+        "rank": 49,
+        "category": "休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关爱残疾人的暖心故事#"
+    }
+  }
+}
