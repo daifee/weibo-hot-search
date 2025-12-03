@@ -1,0 +1,410 @@
+{
+  "runTime": 1764769330815,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1248906,
+        "num": 1248906,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 242718,
+        "num": 242718,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 19820,
+        "num": 235692,
+        "word": "冻伤要到烧伤科就诊",
+        "onboard_time": 1764760341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 651150,
+        "num": 225293,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 146526,
+        "num": 215821,
+        "word": "洛克王国",
+        "onboard_time": 1764765561,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 864013,
+        "num": 200572,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622242,
+        "num": 194851,
+        "word": "张杰没有一条微博是白发的",
+        "onboard_time": 1764766103,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 188946,
+        "num": 188946,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212219,
+        "num": 187977,
+        "word": "时代峰峻称北方天气不适合户外演唱会",
+        "onboard_time": 1764765261,
+        "rank": 8,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 127694,
+        "num": 187515,
+        "word": "洛克王国世界定档",
+        "onboard_time": 1764766343,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 10075,
+        "num": 186515,
+        "word": "2025大家说宪法",
+        "onboard_time": 1764769042,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1047147,
+        "num": 185217,
+        "word": "高市早苗终于不嘴硬了",
+        "onboard_time": 1764761841,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 337591,
+        "num": 184814,
+        "word": "大学生真正的床上五件套",
+        "onboard_time": 1764766580,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 281416,
+        "num": 183401,
+        "word": "会化妆的人嘴真严啊",
+        "onboard_time": 1764762021,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 269588,
+        "num": 182116,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254827,
+        "num": 181678,
+        "word": "新国标电动车引民生痛点",
+        "onboard_time": 1764766280,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254458,
+        "num": 180831,
+        "word": "李飞的早餐",
+        "onboard_time": 1764766163,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 225941,
+        "num": 179666,
+        "word": "彭小苒 二开是什么意思",
+        "onboard_time": 1764768023,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 47826,
+        "num": 178774,
+        "word": "你用过165Hz手机打游戏吗",
+        "onboard_time": 1764767061,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 177826,
+        "num": 177826,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 553572,
+        "num": 171525,
+        "word": "李嘉格回应恋情",
+        "onboard_time": 1764755241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 327042,
+        "num": 166050,
+        "word": "张继科说乒乓球热度是我带起来的",
+        "onboard_time": 1764762801,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138357,
+        "num": 138357,
+        "word": "无名之辈意义非凡延期上映",
+        "onboard_time": 1764767061,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 203223,
+        "num": 134373,
+        "word": "曹璐回国五年才上内娱综艺",
+        "onboard_time": 1764768262,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129800,
+        "num": 129800,
+        "word": "小小文淇 签约公司是终身大事",
+        "onboard_time": 1764759802,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372187,
+        "num": 129446,
+        "word": "李嘉格捂嘴偷笑",
+        "onboard_time": 1764768562,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128091,
+        "num": 128091,
+        "word": "印度幽灵飞机停在机场13年后被发现",
+        "onboard_time": 1764765201,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 120998,
+        "num": 120998,
+        "word": "丁程鑫 丝袜很正式",
+        "onboard_time": 1764766701,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 119083,
+        "num": 119083,
+        "word": "27岁瞒着所有人买了一套房",
+        "onboard_time": 1764750801,
+        "rank": 28,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 108332,
+        "num": 110805,
+        "word": "早田希娜张本美和1比0吴咏琳朱成竹",
+        "onboard_time": 1764768082,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27230,
+        "num": 110284,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 110092,
+        "num": 110092,
+        "word": "马克龙访华",
+        "onboard_time": 1764766822,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109024,
+        "num": 109024,
+        "word": "黎明以前就这么站着给大家亲",
+        "onboard_time": 1764766701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 108021,
+        "num": 108021,
+        "word": "陈冠希 本山化",
+        "onboard_time": 1764767361,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104380,
+        "num": 104380,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 34,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 98565,
+        "num": 98565,
+        "word": "于正骂人秒删",
+        "onboard_time": 1764749963,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95069,
+        "num": 95069,
+        "word": "杨洋给电影得闲谨制包场了",
+        "onboard_time": 1764766762,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 94412,
+        "num": 94412,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87314,
+        "num": 92972,
+        "word": "时代峰峻说朱志鑫单飞纯属造谣",
+        "onboard_time": 1764768622,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91690,
+        "num": 91690,
+        "word": "蔡磊已准备好尝试脑机接口",
+        "onboard_time": 1764767961,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91132,
+        "num": 91132,
+        "word": "34岁女药品销售员陪酒后身亡",
+        "onboard_time": 1764761841,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87028,
+        "num": 87028,
+        "word": "难怪成毅看到代拍后这么震惊",
+        "onboard_time": 1764766280,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84978,
+        "num": 84978,
+        "word": "王楚钦护台面积",
+        "onboard_time": 1764768622,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573959,
+        "num": 84857,
+        "word": "反诈老陈公开悬赏100万元",
+        "onboard_time": 1764763402,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83681,
+        "num": 83681,
+        "word": "王一博教辛芷蕾帮他拍照",
+        "onboard_time": 1764755362,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 80984,
+        "num": 83680,
+        "word": "zhuo 往日种种",
+        "onboard_time": 1764766461,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 79815,
+        "num": 83673,
+        "word": "枭起青壤",
+        "onboard_time": 1764757401,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 78055,
+        "num": 83670,
+        "word": "网络名人账号违法违规行为被查",
+        "onboard_time": 1764747740,
+        "rank": 47,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 77981,
+        "num": 83666,
+        "word": "第一次见主动想睡觉的娃",
+        "onboard_time": 1764763161,
+        "rank": 48,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 74509,
+        "num": 83664,
+        "word": "王梓莼说同情包洁仪但无法原谅她",
+        "onboard_time": 1764751462,
+        "rank": 49,
+        "category": "综艺"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关爱残疾人的暖心故事#"
+    }
+  }
+}

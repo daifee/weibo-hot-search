@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764767557218,
+  "endTime": 1764769330815,
   "band_list": [
     {
       "raw_hot": 2425379,
@@ -657,6 +657,14 @@
       "onboard_time": 1764559641,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 622242,
+      "num": 197258,
+      "word": "张杰没有一条微博是白发的",
+      "onboard_time": 1764766103,
+      "rank": 14,
+      "category": "演出"
     },
     {
       "raw_hot": 622235,
@@ -1411,14 +1419,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 403721,
-      "num": 197258,
-      "word": "张杰没有一条微博是白发的",
-      "onboard_time": 1764766103,
-      "rank": 14,
-      "category": "演出"
-    },
-    {
       "raw_hot": 401839,
       "num": 219773,
       "word": "25岁小伙离世2小时后被公司设为离职",
@@ -1603,6 +1603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 372187,
+      "num": 129446,
+      "word": "李嘉格捂嘴偷笑",
+      "onboard_time": 1764768562,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 368767,
       "num": 137152,
       "word": "王嘉尔自曝恋爱经历",
@@ -1692,7 +1700,7 @@
     },
     {
       "raw_hot": 354615,
-      "num": 160773,
+      "num": 166050,
       "word": "张继科说乒乓球热度是我带起来的",
       "onboard_time": 1764762801,
       "rank": 21,
@@ -1777,6 +1785,14 @@
       "onboard_time": 1764555861,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 337591,
+      "num": 184814,
+      "word": "大学生真正的床上五件套",
+      "onboard_time": 1764766580,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 336922,
@@ -2148,7 +2164,7 @@
     },
     {
       "raw_hot": 297599,
-      "num": 211971,
+      "num": 215821,
       "word": "洛克王国",
       "onboard_time": 1764765561,
       "rank": 4,
@@ -2499,6 +2515,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 254827,
+      "num": 181678,
+      "word": "新国标电动车引民生痛点",
+      "onboard_time": 1764766280,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254458,
+      "num": 180831,
+      "word": "李飞的早餐",
+      "onboard_time": 1764766163,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253978,
       "num": 253978,
       "word": "奥司他韦已出现耐药情况",
@@ -2737,6 +2769,14 @@
       "onboard_time": 1764759441,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 225941,
+      "num": 179666,
+      "word": "彭小苒 二开是什么意思",
+      "onboard_time": 1764768023,
+      "rank": 17,
+      "category": "艺人"
     },
     {
       "raw_hot": 225645,
@@ -3131,6 +3171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 203223,
+      "num": 134373,
+      "word": "曹璐回国五年才上内娱综艺",
+      "onboard_time": 1764768262,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 203138,
       "num": 203138,
       "word": "张桂源 穿错鞋一点都不好笑",
@@ -3321,14 +3369,6 @@
       "onboard_time": 1764753322,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 190331,
-      "num": 107536,
-      "word": "大学生真正的床上五件套",
-      "onboard_time": 1764766580,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 190292,
@@ -3948,7 +3988,7 @@
     },
     {
       "raw_hot": 164290,
-      "num": 164290,
+      "num": 187515,
       "word": "洛克王国世界定档",
       "onboard_time": 1764766343,
       "rank": 19,
@@ -4065,14 +4105,6 @@
       "onboard_time": 1764564923,
       "rank": 40,
       "category": "汽车"
-    },
-    {
-      "raw_hot": 160488,
-      "num": 160488,
-      "word": "李飞的早餐",
-      "onboard_time": 1764766163,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 160474,
@@ -4665,14 +4697,6 @@
       "onboard_time": 1764734362,
       "rank": 35,
       "category": "运动健身"
-    },
-    {
-      "raw_hot": 142437,
-      "num": 161472,
-      "word": "新国标电动车引民生痛点",
-      "onboard_time": 1764766280,
-      "rank": 28,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 142419,
@@ -5321,6 +5345,14 @@
       "onboard_time": 1764643880,
       "rank": 33,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 128091,
+      "num": 128091,
+      "word": "印度幽灵飞机停在机场13年后被发现",
+      "onboard_time": 1764765201,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 128037,
@@ -6275,14 +6307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 110769,
-      "num": 108549,
-      "word": "印度幽灵飞机停在机场13年后被发现",
-      "onboard_time": 1764765201,
-      "rank": 30,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 110420,
       "num": 303655,
       "word": "人民日报谈小米集团高质量发展",
@@ -6297,6 +6321,14 @@
       "onboard_time": 1764591143,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110092,
+      "num": 110092,
+      "word": "马克龙访华",
+      "onboard_time": 1764766822,
+      "rank": 47,
+      "category": "国际时政"
     },
     {
       "raw_hot": 109876,
@@ -6347,6 +6379,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 109024,
+      "num": 109024,
+      "word": "黎明以前就这么站着给大家亲",
+      "onboard_time": 1764766701,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108959,
       "num": 108959,
       "word": "TF家族新年音乐会 重庆",
@@ -6385,6 +6425,22 @@
       "onboard_time": 1764736522,
       "rank": 49,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 108332,
+      "num": 110805,
+      "word": "早田希娜张本美和1比0吴咏琳朱成竹",
+      "onboard_time": 1764768082,
+      "rank": 29,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 108021,
+      "num": 108021,
+      "word": "陈冠希 本山化",
+      "onboard_time": 1764767361,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 107907,
@@ -6740,7 +6796,7 @@
     },
     {
       "raw_hot": 101511,
-      "num": 101511,
+      "num": 235692,
       "word": "冻伤要到烧伤科就诊",
       "onboard_time": 1764760341,
       "rank": 45,
@@ -7115,6 +7171,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 95069,
+      "num": 95069,
+      "word": "杨洋给电影得闲谨制包场了",
+      "onboard_time": 1764766762,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 95059,
       "num": 95059,
       "word": "12306选座界面没靠窗座了",
@@ -7275,6 +7339,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 91690,
+      "num": 91690,
+      "word": "蔡磊已准备好尝试脑机接口",
+      "onboard_time": 1764767961,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91665,
       "num": 106689,
       "word": "只有打工人知道她心态有多好",
@@ -7321,14 +7393,6 @@
       "onboard_time": 1764758122,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 90771,
-      "num": 90771,
-      "word": "陈冠希 本山化",
-      "onboard_time": 1764767361,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 90764,
@@ -7523,6 +7587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87314,
+      "num": 92972,
+      "word": "时代峰峻说朱志鑫单飞纯属造谣",
+      "onboard_time": 1764768622,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 86634,
       "num": 86634,
       "word": "外放自由",
@@ -7579,14 +7651,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85703,
-      "num": 85703,
-      "word": "杨洋给电影得闲谨制包场了",
-      "onboard_time": 1764766762,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 85543,
       "num": 228015,
       "word": "妻子婚内与人同居被判赔丈夫8000元",
@@ -7619,6 +7683,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 84978,
+      "num": 84978,
+      "word": "王楚钦护台面积",
+      "onboard_time": 1764768622,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 84908,
       "num": 112721,
       "word": "你买的进口奶粉可能产自小县城出租屋",
@@ -7633,14 +7705,6 @@
       "onboard_time": 1764729321,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 84489,
-      "num": 84489,
-      "word": "黎明以前就这么站着给大家亲",
-      "onboard_time": 1764766701,
-      "rank": 46,
-      "category": "艺人"
     },
     {
       "raw_hot": 83830,
@@ -7665,14 +7729,6 @@
       "onboard_time": 1764653300,
       "rank": 48,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83346,
-      "num": 83346,
-      "word": "马克龙访华",
-      "onboard_time": 1764766822,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83337,
@@ -8028,7 +8084,7 @@
     },
     {
       "raw_hot": 76852,
-      "num": 161179,
+      "num": 178774,
       "word": "你用过165Hz手机打游戏吗",
       "onboard_time": 1764767061,
       "rank": 19,
@@ -9755,20 +9811,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27230,
+      "num": 224097,
+      "word": "2025宪法宣传周",
+      "onboard_time": 1764755542,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 27075,
       "num": 124252,
       "word": "个税专项扣除请避开这些填报易错点",
       "onboard_time": 1764663322,
       "rank": 44,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 26857,
-      "num": 224097,
-      "word": "2025宪法宣传周",
-      "onboard_time": 1764755542,
-      "rank": 2,
-      "category": "国内时政"
     },
     {
       "raw_hot": 26781,
@@ -10321,6 +10377,14 @@
       "onboard_time": 1764615914,
       "rank": 48,
       "category": "演出"
+    },
+    {
+      "raw_hot": 10075,
+      "num": 186515,
+      "word": "2025大家说宪法",
+      "onboard_time": 1764769042,
+      "rank": 10,
+      "category": "国内时政"
     },
     {
       "raw_hot": 7298,
