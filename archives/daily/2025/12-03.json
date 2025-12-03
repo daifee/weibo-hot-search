@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764736577083,
+  "endTime": 1764737407795,
   "band_list": [
     {
       "raw_hot": 1763620,
@@ -19,8 +19,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1134917,
-      "num": 1181586,
+      "raw_hot": 1383127,
+      "num": 1383127,
       "word": "朱雀三号",
       "onboard_time": 1764732501,
       "rank": 25,
@@ -123,6 +123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 522254,
+      "num": 522254,
+      "word": "朱雀三号首飞",
+      "onboard_time": 1764736162,
+      "rank": 13,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 509901,
       "num": 686070,
       "word": "日本被曝昼夜赶建军事基地",
@@ -169,14 +177,6 @@
       "onboard_time": 1764722541,
       "rank": 13,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 429434,
-      "num": 429434,
-      "word": "朱雀三号首飞",
-      "onboard_time": 1764736162,
-      "rank": 13,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 420610,
@@ -227,6 +227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 377026,
+      "num": 377026,
+      "word": "高市早苗老家奈良凉了",
+      "onboard_time": 1764735623,
+      "rank": 18,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 368323,
       "num": 368323,
       "word": "排骨但是苹果味",
@@ -273,6 +281,14 @@
       "onboard_time": 1764723621,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 280784,
+      "num": 1379669,
+      "word": "朱雀三号任务一级回收失败",
+      "onboard_time": 1764737302,
+      "rank": 1,
+      "category": "科学科普"
     },
     {
       "raw_hot": 280680,
@@ -395,6 +411,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 212491,
+      "num": 158668,
+      "word": "意大利穿冲锋衣被问为什么穿丑衣服",
+      "onboard_time": 1764736764,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 211613,
       "num": 694490,
       "word": "朱亚文 配角",
@@ -491,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171470,
+      "num": 171470,
+      "word": "尼克朱迪年龄差",
+      "onboard_time": 1764736644,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 169015,
+      "num": 169015,
+      "word": "虚假的路怒症vs真正的路怒症",
+      "onboard_time": 1764736404,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
       "raw_hot": 167371,
       "num": 167371,
       "word": "李诞 所有女生尽早完成社会化",
@@ -547,6 +587,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 158859,
+      "num": 158859,
+      "word": "马来西亚重启MH370深海搜寻",
+      "onboard_time": 1764736943,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158064,
       "num": 158064,
       "word": "王楚然像来挣学分的大学生",
@@ -561,6 +609,14 @@
       "onboard_time": 1764733641,
       "rank": 32,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 157302,
+      "num": 157302,
+      "word": "工行三年期大额存单门槛100万",
+      "onboard_time": 1764735984,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 156311,
@@ -579,8 +635,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144317,
-      "num": 144317,
+      "raw_hot": 150264,
+      "num": 150264,
       "word": "28岁妈妈和3岁女儿失联1个月",
       "onboard_time": 1764733283,
       "rank": 34,
@@ -667,6 +723,22 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125748,
+      "num": 125748,
+      "word": "安徽文旅让朱亚文别打合肥了",
+      "onboard_time": 1764735082,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 124416,
+      "num": 124416,
+      "word": "紫禁御喵房",
+      "onboard_time": 1764736764,
+      "rank": 42,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 123584,
       "num": 253098,
       "word": "戴尔创始人豪捐62.5亿美元",
@@ -689,14 +761,6 @@
       "onboard_time": 1764721401,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 117786,
-      "num": 117786,
-      "word": "虚假的路怒症vs真正的路怒症",
-      "onboard_time": 1764736404,
-      "rank": 37,
-      "category": "情感"
     },
     {
       "raw_hot": 117366,
@@ -763,14 +827,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 113580,
-      "num": 113580,
-      "word": "工行三年期大额存单门槛100万",
-      "onboard_time": 1764735984,
-      "rank": 41,
-      "category": "财经"
-    },
-    {
       "raw_hot": 113004,
       "num": 113004,
       "word": "94岁老人被发现在楼道打地铺生活",
@@ -801,6 +857,14 @@
       "onboard_time": 1764726801,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 108425,
+      "num": 108425,
+      "word": "眼镜布不是用来擦眼镜的",
+      "onboard_time": 1764736522,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 107852,
@@ -859,6 +923,30 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 101560,
+      "num": 101560,
+      "word": "腾讯电视剧道歉",
+      "onboard_time": 1764737243,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 101487,
+      "num": 101487,
+      "word": "建议复查时非必要不要做CT",
+      "onboard_time": 1764737302,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 100996,
+      "num": 100996,
+      "word": "开心果老冒充抹茶",
+      "onboard_time": 1764737362,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 100404,
       "num": 100404,
       "word": "刘诗诗配音",
@@ -881,14 +969,6 @@
       "onboard_time": 1764682883,
       "rank": 38,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 99115,
-      "num": 99115,
-      "word": "眼镜布不是用来擦眼镜的",
-      "onboard_time": 1764736522,
-      "rank": 49,
-      "category": "科学科普"
     },
     {
       "raw_hot": 97718,
@@ -921,22 +1001,6 @@
       "onboard_time": 1764728240,
       "rank": 40,
       "category": "旅游"
-    },
-    {
-      "raw_hot": 93547,
-      "num": 108479,
-      "word": "安徽文旅让朱亚文别打合肥了",
-      "onboard_time": 1764735082,
-      "rank": 44,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 90496,
-      "num": 285487,
-      "word": "高市早苗老家奈良凉了",
-      "onboard_time": 1764735623,
-      "rank": 18,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 90188,
@@ -1283,6 +1347,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 48432,
+      "num": 285318,
+      "word": "上海绿捷公司将注销",
+      "onboard_time": 1764736162,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 47413,
       "num": 65587,
       "word": "王梓莼的经纪公司",
@@ -1315,6 +1387,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 42845,
+      "num": 132958,
+      "word": "已婚男纠缠杀害网红主播被判死刑",
+      "onboard_time": 1764736883,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42648,
       "num": 65565,
       "word": "王一博提名亚洲流行音乐大奖",
@@ -1339,20 +1419,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 39705,
+      "num": 1183542,
+      "word": "东北大冰箱营业了",
+      "onboard_time": 1764724041,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37508,
       "num": 53910,
       "word": "索尼A7M5",
       "onboard_time": 1764687564,
       "rank": 49,
       "category": "数码"
-    },
-    {
-      "raw_hot": 33516,
-      "num": 285318,
-      "word": "上海绿捷公司将注销",
-      "onboard_time": 1764736162,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 32489,
@@ -1401,6 +1481,14 @@
       "onboard_time": 1764718459,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 22824,
+      "num": 134271,
+      "word": "专家直球高市想做三战罪魁祸首吗",
+      "onboard_time": 1764736644,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 22802,
