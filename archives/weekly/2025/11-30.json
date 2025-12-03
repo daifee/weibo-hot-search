@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764789910470,
+  "endTime": 1764790782011,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -12539,6 +12539,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 45943,
+      "num": 33076,
+      "word": "于正破防",
+      "onboard_time": 1764789494,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 45869,
       "num": 128365,
       "word": "原来得闲谨制就是当年的正午大饼",
@@ -13787,6 +13795,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 22467,
+      "num": 31607,
+      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+      "onboard_time": 1764787035,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 22314,
       "num": 125539,
       "word": "被害人家属痛斥姐姐偏袒凶手弟弟",
@@ -13801,14 +13817,6 @@
       "onboard_time": 1764685824,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21349,
-      "num": 31607,
-      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
-      "onboard_time": 1764787035,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 20846,
@@ -13857,14 +13865,6 @@
       "onboard_time": 1764696137,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 19509,
-      "num": 25652,
-      "word": "于正破防",
-      "onboard_time": 1764789494,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 19113,
@@ -14153,6 +14153,14 @@
       "onboard_time": 1764660862,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 11706,
+      "num": 23853,
+      "word": "古风发簪折纸教程",
+      "onboard_time": 1764790214,
+      "rank": 49,
+      "category": "时尚"
     },
     {
       "raw_hot": 11678,
