@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764797861153,
+  "endTime": 1764800916208,
   "band_list": [
     {
       "raw_hot": 606778,
@@ -123,6 +123,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 144744,
+      "num": 59986,
+      "word": "于正破防",
+      "onboard_time": 1764789494,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 137095,
       "num": 137095,
       "word": "谍报上不封顶",
@@ -203,12 +211,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94191,
-      "num": 33076,
-      "word": "于正破防",
-      "onboard_time": 1764789494,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 87915,
+      "num": 59909,
+      "word": "张继科回应目前身体状态",
+      "onboard_time": 1764795734,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 86673,
@@ -267,6 +275,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 73049,
+      "num": 66378,
+      "word": "中俄达成新的共识",
+      "onboard_time": 1764779179,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 71610,
       "num": 71610,
       "word": "年度十大角色cp超话",
@@ -307,14 +323,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 66378,
-      "num": 66378,
-      "word": "中俄达成新的共识",
-      "onboard_time": 1764779179,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 65586,
       "num": 65586,
       "word": "张艺兴七项提名",
@@ -337,6 +345,14 @@
       "onboard_time": 1764766461,
       "rank": 40,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 59904,
+      "num": 63705,
+      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
+      "onboard_time": 1764779239,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 59631,
@@ -371,14 +387,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 52897,
-      "num": 63705,
-      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
-      "onboard_time": 1764779239,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 51908,
       "num": 60882,
       "word": "年薪435万董事长反对自己当选董事长",
@@ -401,6 +409,14 @@
       "onboard_time": 1764772645,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 42232,
+      "num": 42232,
+      "word": "大生意人 搞笑",
+      "onboard_time": 1764797173,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 40276,
@@ -435,12 +451,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 33604,
+      "raw_hot": 36522,
       "num": 42834,
       "word": "印度幽灵飞机停在机场13年后被发现",
       "onboard_time": 1764765201,
       "rank": 40,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 36475,
+      "num": 36475,
+      "word": "墓园回应演员董立范去世",
+      "onboard_time": 1764797054,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 28202,
@@ -449,6 +473,14 @@
       "onboard_time": 1764770062,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 28006,
+      "num": 36499,
+      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+      "onboard_time": 1764787035,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27817,
@@ -460,7 +492,7 @@
     },
     {
       "raw_hot": 24747,
-      "num": 31634,
+      "num": 36470,
       "word": "黄子韬徐艺洋挽手下飞机",
       "onboard_time": 1764786555,
       "rank": 41,
@@ -483,36 +515,12 @@
       "category": "民生新闻,教育"
     },
     {
-      "raw_hot": 22467,
-      "num": 31607,
-      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
-      "onboard_time": 1764787035,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 18254,
-      "num": 18254,
-      "word": "张继科回应目前身体状态",
-      "onboard_time": 1764795734,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 17740,
-      "num": 31635,
+      "num": 36443,
       "word": "欧美女明星的嘬腮审美",
       "onboard_time": 1764771623,
       "rank": 40,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 14976,
-      "num": 18110,
-      "word": "大生意人 搞笑",
-      "onboard_time": 1764797173,
-      "rank": 30,
-      "category": "剧集"
     },
     {
       "raw_hot": 12153,
@@ -520,14 +528,6 @@
       "word": "易烊千玺垒石头直播是自己想的",
       "onboard_time": 1764792433,
       "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 11876,
-      "num": 18098,
-      "word": "墓园回应演员董立范去世",
-      "onboard_time": 1764797054,
-      "rank": 49,
       "category": "艺人"
     },
     {
