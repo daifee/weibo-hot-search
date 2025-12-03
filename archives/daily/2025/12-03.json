@@ -1,7 +1,15 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764762051769,
+  "endTime": 1764766702100,
   "band_list": [
+    {
+      "raw_hot": 2425379,
+      "num": 2425379,
+      "word": "李刚受贿1.02亿余元",
+      "onboard_time": 1764754702,
+      "rank": 42,
+      "category": "国内时政"
+    },
     {
       "raw_hot": 2033595,
       "num": 974808,
@@ -9,14 +17,6 @@
       "onboard_time": 1764757341,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1979801,
-      "num": 1979801,
-      "word": "李刚受贿1.02亿余元",
-      "onboard_time": 1764754702,
-      "rank": 42,
-      "category": "国内时政"
     },
     {
       "raw_hot": 1763620,
@@ -129,6 +129,14 @@
       "onboard_time": 1764737243,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 898203,
+      "num": 202558,
+      "word": "高市早苗终于不嘴硬了",
+      "onboard_time": 1764761841,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 871199,
@@ -331,6 +339,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 496581,
+      "num": 209323,
+      "word": "反诈老陈公开悬赏100万元",
+      "onboard_time": 1764763402,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 491016,
       "num": 491016,
       "word": "怎么到了研究生就没人逃课了",
@@ -531,6 +547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 333153,
+      "num": 121256,
+      "word": "张继科说乒乓球热度是我带起来的",
+      "onboard_time": 1764762801,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
       "raw_hot": 331625,
       "num": 331625,
       "word": "双轨北美播出",
@@ -561,6 +585,14 @@
       "onboard_time": 1764735681,
       "rank": 16,
       "category": "演出"
+    },
+    {
+      "raw_hot": 320526,
+      "num": 111977,
+      "word": "李嘉格小号",
+      "onboard_time": 1764764061,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 313671,
@@ -787,6 +819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 223814,
+      "num": 198999,
+      "word": "会化妆的人嘴真严啊",
+      "onboard_time": 1764762021,
+      "rank": 13,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 222960,
       "num": 211998,
       "word": "难怪我妈说我小时候电视瘾很大",
@@ -835,6 +875,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 215848,
+      "num": 197258,
+      "word": "张杰没有一条微博是白发的",
+      "onboard_time": 1764766103,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "陈梦表彰大会站C位",
@@ -857,6 +905,14 @@
       "onboard_time": 1764744202,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210956,
+      "num": 210956,
+      "word": "洛克王国",
+      "onboard_time": 1764765561,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 209912,
@@ -937,6 +993,14 @@
       "onboard_time": 1764753142,
       "rank": 24,
       "category": "休闲"
+    },
+    {
+      "raw_hot": 196912,
+      "num": 196912,
+      "word": "时代峰峻称北方天气不适合户外演唱会",
+      "onboard_time": 1764765261,
+      "rank": 15,
+      "category": "演出"
     },
     {
       "raw_hot": 195046,
@@ -1275,6 +1339,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 148944,
+      "num": 206700,
+      "word": "李刚一审被判15年",
+      "onboard_time": 1764762442,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 146572,
       "num": 146572,
       "word": "T1官宣两位选手上调",
@@ -1451,6 +1523,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 129024,
+      "num": 129024,
+      "word": "伞兵氛围感的神",
+      "onboard_time": 1764766103,
+      "rank": 18,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 128288,
       "num": 128288,
       "word": "户晨风账号已关闭",
@@ -1547,6 +1627,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 122874,
+      "num": 122874,
+      "word": "洛克王国世界定档",
+      "onboard_time": 1764766343,
+      "rank": 19,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 122350,
       "num": 122350,
       "word": "怪不得我小时候不喜欢存钱",
@@ -1577,6 +1665,14 @@
       "onboard_time": 1764760522,
       "rank": 40,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 119257,
+      "num": 119257,
+      "word": "难怪成毅看到代拍后这么震惊",
+      "onboard_time": 1764766280,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 118948,
@@ -1763,6 +1859,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 110769,
+      "num": 104653,
+      "word": "印度幽灵飞机停在机场13年后被发现",
+      "onboard_time": 1764765201,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 109876,
       "num": 109876,
       "word": "原神开门",
@@ -1819,12 +1923,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 107469,
+      "num": 107469,
+      "word": "松岛辉空大藤沙月2比1黄镇廷杜凯琹",
+      "onboard_time": 1764766221,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 107458,
       "num": 106624,
       "word": "田曦薇新剧",
       "onboard_time": 1764735323,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107381,
+      "num": 107381,
+      "word": "新国标电动车引民生痛点",
+      "onboard_time": 1764766280,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106902,
@@ -1873,6 +1993,14 @@
       "onboard_time": 1764752842,
       "rank": 45,
       "category": "体育"
+    },
+    {
+      "raw_hot": 104685,
+      "num": 104685,
+      "word": "李飞的早餐",
+      "onboard_time": 1764766163,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 104004,
@@ -2043,6 +2171,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 96419,
+      "num": 96419,
+      "word": "第一次见主动想睡觉的娃",
+      "onboard_time": 1764763161,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 96021,
       "num": 96021,
       "word": "日本拟购以色列无人机",
@@ -2099,6 +2235,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 93729,
+      "num": 120541,
+      "word": "34岁女药品销售员陪酒后身亡",
+      "onboard_time": 1764761841,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 93643,
       "num": 93643,
       "word": "沈月试戴假刘海",
@@ -2121,6 +2265,14 @@
       "onboard_time": 1764757522,
       "rank": 46,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92111,
+      "num": 92111,
+      "word": "日本15岁初中生街头持刀狂刺上班族",
+      "onboard_time": 1764763280,
+      "rank": 36,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 91952,
@@ -2291,12 +2443,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 83830,
+      "num": 83830,
+      "word": "怪不得很少在网上看到德国留子",
+      "onboard_time": 1764762560,
+      "rank": 42,
+      "category": "情感"
+    },
+    {
       "raw_hot": 83228,
       "num": 83228,
       "word": "网友偶遇Uzi",
       "onboard_time": 1764741320,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 83108,
+      "num": 83108,
+      "word": "猫 这猫条吃了脖子痛",
+      "onboard_time": 1764763581,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 81797,
@@ -2331,12 +2499,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 79346,
+      "num": 79346,
+      "word": "理想AI眼镜",
+      "onboard_time": 1764764001,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 78980,
       "num": 87504,
       "word": "旧国标电动自行车变零公里二手车",
       "onboard_time": 1764725421,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 78876,
+      "num": 78876,
+      "word": "大学生真正的床上五件套",
+      "onboard_time": 1764766580,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 78109,
@@ -2393,14 +2577,6 @@
       "onboard_time": 1764700217,
       "rank": 46,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 72955,
-      "num": 132220,
-      "word": "高市早苗终于不嘴硬了",
-      "onboard_time": 1764761841,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 72569,
@@ -2633,6 +2809,14 @@
       "onboard_time": 1764688283,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 55047,
+      "num": 79363,
+      "word": "李在明称不会在中日选边站",
+      "onboard_time": 1764765141,
+      "rank": 46,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53989,
@@ -2963,6 +3147,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 26857,
+      "num": 211798,
+      "word": "2025宪法宣传周",
+      "onboard_time": 1764755542,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25551,
       "num": 65536,
       "word": "索尼A7M5正式发布",
@@ -3027,20 +3219,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 19218,
-      "num": 120541,
-      "word": "34岁女药品销售员陪酒后身亡",
-      "onboard_time": 1764761841,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 18213,
       "num": 118123,
       "word": "新加坡人仍对日占期间行为记忆深刻",
       "onboard_time": 1764750441,
       "rank": 38,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 18144,
+      "num": 85967,
+      "word": "夫妻花百万购别墅发现存大面积违章",
+      "onboard_time": 1764766041,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 17230,

@@ -1,0 +1,410 @@
+{
+  "runTime": 1764766702100,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2425379,
+        "num": 2425379,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 258356,
+        "num": 258356,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 26857,
+        "num": 211798,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 690677,
+        "num": 211679,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 210956,
+        "num": 210956,
+        "word": "洛克王国",
+        "onboard_time": 1764765561,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 952742,
+        "num": 210782,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 496581,
+        "num": 209323,
+        "word": "反诈老陈公开悬赏100万元",
+        "onboard_time": 1764763402,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170762,
+        "num": 207757,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 148944,
+        "num": 206700,
+        "word": "李刚一审被判15年",
+        "onboard_time": 1764762442,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 140155,
+        "num": 205134,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 898203,
+        "num": 202558,
+        "word": "高市早苗终于不嘴硬了",
+        "onboard_time": 1764761841,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 274534,
+        "num": 201714,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 230222,
+        "num": 199867,
+        "word": "小小文淇 签约公司是终身大事",
+        "onboard_time": 1764759802,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223814,
+        "num": 198999,
+        "word": "会化妆的人嘴真严啊",
+        "onboard_time": 1764762021,
+        "rank": 13,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 215848,
+        "num": 197258,
+        "word": "张杰没有一条微博是白发的",
+        "onboard_time": 1764766103,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 196912,
+        "num": 196912,
+        "word": "时代峰峻称北方天气不适合户外演唱会",
+        "onboard_time": 1764765261,
+        "rank": 15,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 192836,
+        "num": 192836,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152182,
+        "num": 152182,
+        "word": "27岁瞒着所有人买了一套房",
+        "onboard_time": 1764750801,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 129024,
+        "num": 129024,
+        "word": "伞兵氛围感的神",
+        "onboard_time": 1764766103,
+        "rank": 18,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 122874,
+        "num": 122874,
+        "word": "洛克王国世界定档",
+        "onboard_time": 1764766343,
+        "rank": 19,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 638491,
+        "num": 121951,
+        "word": "李嘉格回应恋情",
+        "onboard_time": 1764755241,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 333153,
+        "num": 121256,
+        "word": "张继科说乒乓球热度是我带起来的",
+        "onboard_time": 1764762801,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119257,
+        "num": 119257,
+        "word": "难怪成毅看到代拍后这么震惊",
+        "onboard_time": 1764766280,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114119,
+        "num": 114119,
+        "word": "快船裁掉保罗",
+        "onboard_time": 1764749722,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 113910,
+        "num": 113910,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 320526,
+        "num": 111977,
+        "word": "李嘉格小号",
+        "onboard_time": 1764764061,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109817,
+        "num": 109817,
+        "word": "于正骂人秒删",
+        "onboard_time": 1764749963,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107469,
+        "num": 107469,
+        "word": "松岛辉空大藤沙月2比1黄镇廷杜凯琹",
+        "onboard_time": 1764766221,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 107381,
+        "num": 107381,
+        "word": "新国标电动车引民生痛点",
+        "onboard_time": 1764766280,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 104685,
+        "num": 104685,
+        "word": "李飞的早餐",
+        "onboard_time": 1764766163,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110769,
+        "num": 104653,
+        "word": "印度幽灵飞机停在机场13年后被发现",
+        "onboard_time": 1764765201,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 104393,
+        "num": 104393,
+        "word": "妻子为孩子花15800丈夫坦白离职",
+        "onboard_time": 1764747563,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103621,
+        "num": 103621,
+        "word": "网络名人账号违法违规行为被查",
+        "onboard_time": 1764747740,
+        "rank": 32,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 104159,
+        "num": 103158,
+        "word": "郑乃馨直播回应和bright分手",
+        "onboard_time": 1764753142,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 96419,
+        "num": 96419,
+        "word": "第一次见主动想睡觉的娃",
+        "onboard_time": 1764763161,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 93729,
+        "num": 93729,
+        "word": "34岁女药品销售员陪酒后身亡",
+        "onboard_time": 1764761841,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92111,
+        "num": 92111,
+        "word": "日本15岁初中生街头持刀狂刺上班族",
+        "onboard_time": 1764763280,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 87513,
+        "num": 87513,
+        "word": "王一博教辛芷蕾帮他拍照",
+        "onboard_time": 1764755362,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87232,
+        "num": 87232,
+        "word": "白敬亭带着老鼠干回家了",
+        "onboard_time": 1764760400,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 18144,
+        "num": 85967,
+        "word": "夫妻花百万购别墅发现存大面积违章",
+        "onboard_time": 1764766041,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85950,
+        "num": 85950,
+        "word": "荒野求生林北退赛",
+        "onboard_time": 1764760221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 84680,
+        "num": 84680,
+        "word": "钟汉良居然会发这种东西",
+        "onboard_time": 1764761182,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83830,
+        "num": 83830,
+        "word": "怪不得很少在网上看到德国留子",
+        "onboard_time": 1764762560,
+        "rank": 42,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 83108,
+        "num": 83108,
+        "word": "猫 这猫条吃了脖子痛",
+        "onboard_time": 1764763581,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 80465,
+        "num": 80465,
+        "word": "日本正发动无声战争",
+        "onboard_time": 1764755542,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191795,
+        "num": 80402,
+        "word": "女方私自流产男方要求离婚返彩礼",
+        "onboard_time": 1764759441,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 55047,
+        "num": 79363,
+        "word": "李在明称不会在中日选边站",
+        "onboard_time": 1764765141,
+        "rank": 46,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 79346,
+        "num": 79346,
+        "word": "理想AI眼镜",
+        "onboard_time": 1764764001,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 78876,
+        "num": 78876,
+        "word": "大学生真正的床上五件套",
+        "onboard_time": 1764766580,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 78017,
+        "num": 78017,
+        "word": "兔子警官陈都灵",
+        "onboard_time": 1764755842,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记关爱残疾人的暖心故事#"
+    }
+  }
+}
