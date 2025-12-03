@@ -1,7 +1,15 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764732345759,
+  "endTime": 1764733196532,
   "band_list": [
+    {
+      "raw_hot": 1763620,
+      "num": 243295,
+      "word": "胡歌首谈二胎儿子",
+      "onboard_time": 1764731061,
+      "rank": 21,
+      "category": "艺人"
+    },
     {
       "raw_hot": 1659502,
       "num": 216292,
@@ -9,14 +17,6 @@
       "onboard_time": 1764723621,
       "rank": 10,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1628099,
-      "num": 243295,
-      "word": "胡歌首谈二胎儿子",
-      "onboard_time": 1764731061,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 1032854,
@@ -99,6 +99,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 509901,
+      "num": 307266,
+      "word": "日本被曝昼夜赶建军事基地",
+      "onboard_time": 1764729860,
+      "rank": 5,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 496725,
       "num": 1079476,
       "word": "中俄就涉日本问题进行战略对表",
@@ -139,14 +147,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 414005,
-      "num": 303462,
-      "word": "日本被曝昼夜赶建军事基地",
-      "onboard_time": 1764729860,
-      "rank": 5,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 409905,
       "num": 350066,
       "word": "妻子曝光丈夫生前出轨捉奸视频",
@@ -161,6 +161,14 @@
       "onboard_time": 1764691879,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 390979,
+      "num": 295862,
+      "word": "柬埔寨免签",
+      "onboard_time": 1764731542,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 383521,
@@ -299,14 +307,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 213204,
-      "num": 244678,
-      "word": "柬埔寨免签",
-      "onboard_time": 1764731542,
-      "rank": 15,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 211613,
       "num": 694490,
       "word": "朱亚文 配角",
@@ -323,12 +323,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 203704,
+      "num": 203704,
+      "word": "怎么到了研究生就没人逃课了",
+      "onboard_time": 1764732441,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 201531,
+      "num": 201531,
+      "word": "谁家夫妻上综艺相亲啊",
+      "onboard_time": 1764732742,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200578,
       "num": 199085,
       "word": "张凌赫已连续11个月换自动回复",
       "onboard_time": 1764724640,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 193501,
+      "num": 239357,
+      "word": "阳光信用",
+      "onboard_time": 1764732742,
+      "rank": 9,
+      "category": "互联网"
     },
     {
       "raw_hot": 181001,
@@ -361,6 +385,14 @@
       "onboard_time": 1764682404,
       "rank": 18,
       "category": "综艺,艺人"
+    },
+    {
+      "raw_hot": 170436,
+      "num": 170436,
+      "word": "朱雀三号",
+      "onboard_time": 1764732501,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167371,
@@ -419,6 +451,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 156311,
+      "num": 156311,
+      "word": "关晓彤又有新身份了",
+      "onboard_time": 1764732742,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154332,
       "num": 154332,
       "word": "小狗被偷待宰主人羊肉店找回",
@@ -433,6 +473,14 @@
       "onboard_time": 1764727160,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 140738,
+      "num": 140738,
+      "word": "儿童硅胶娃娃 恋童癖",
+      "onboard_time": 1764732862,
+      "rank": 32,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 137798,
@@ -483,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 125789,
+      "num": 146986,
+      "word": "国台办回应台湾对螺蛳粉下手",
+      "onboard_time": 1764733042,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 123584,
       "num": 253098,
       "word": "戴尔创始人豪捐62.5亿美元",
@@ -521,6 +577,14 @@
       "onboard_time": 1764728061,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 117146,
+      "num": 201666,
+      "word": "吃爆脆星星堡真的能看到星星",
+      "onboard_time": 1764732802,
+      "rank": 19,
+      "category": "美食"
     },
     {
       "raw_hot": 114939,
@@ -587,6 +651,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 106902,
+      "num": 246309,
+      "word": "美方眼中台湾就是肥肉和提款机",
+      "onboard_time": 1764731001,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 106691,
+      "num": 106691,
+      "word": "和大冰连麦过的粉丝现状",
+      "onboard_time": 1764733102,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
       "raw_hot": 106162,
       "num": 106162,
       "word": "王一博追星运",
@@ -651,12 +731,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 96436,
+      "num": 96436,
+      "word": "手机空间不足的朋友",
+      "onboard_time": 1764732922,
+      "rank": 49,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 93874,
       "num": 93874,
       "word": "上迪回应园区春节已有蛇盖瑞元素",
       "onboard_time": 1764728240,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 90188,
+      "num": 106052,
+      "word": "凤凰台上双死也是he",
+      "onboard_time": 1764731722,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 87558,
@@ -715,14 +811,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 82598,
-      "num": 246309,
-      "word": "美方眼中台湾就是肥肉和提款机",
-      "onboard_time": 1764731001,
-      "rank": 12,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 81797,
       "num": 87558,
       "word": "大侦探11首案录制阵容",
@@ -763,6 +851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77811,
+      "num": 244152,
+      "word": "高市早苗为什么心虚了",
+      "onboard_time": 1764731301,
+      "rank": 17,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 76303,
       "num": 81652,
       "word": "女子采蘑菇意外发现一窝动物幼崽",
@@ -777,6 +873,14 @@
       "onboard_time": 1764727399,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 74413,
+      "num": 107093,
+      "word": "王楚钦微微一笑",
+      "onboard_time": 1764733162,
+      "rank": 40,
+      "category": "体育"
     },
     {
       "raw_hot": 73021,
@@ -891,14 +995,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 62870,
-      "num": 106052,
-      "word": "凤凰台上双死也是he",
-      "onboard_time": 1764731722,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 62172,
       "num": 62172,
       "word": "杨幂 帅是一种感觉",
@@ -979,14 +1075,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 53918,
-      "num": 244152,
-      "word": "高市早苗为什么心虚了",
-      "onboard_time": 1764731301,
-      "rank": 17,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 52358,
       "num": 81358,
       "word": "赵本山女儿说在努力还房贷",
@@ -1065,6 +1153,14 @@
       "onboard_time": 1764687564,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 32489,
+      "num": 108348,
+      "word": "孙颖莎小脚一搭笑盈盈",
+      "onboard_time": 1764733162,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 32383,
