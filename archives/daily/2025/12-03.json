@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764775926499,
+  "endTime": 1764776799861,
   "band_list": [
     {
       "raw_hot": 2425379,
@@ -217,6 +217,14 @@
       "onboard_time": 1764686424,
       "rank": 12,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 637569,
+      "num": 323846,
+      "word": "张雪峰被停播如此肇事忒低级",
+      "onboard_time": 1764774622,
+      "rank": 13,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 622242,
@@ -779,14 +787,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 278160,
-      "num": 278160,
-      "word": "张雪峰被停播如此肇事忒低级",
-      "onboard_time": 1764774622,
-      "rank": 13,
-      "category": "民生新闻,教育"
-    },
-    {
       "raw_hot": 278095,
       "num": 278095,
       "word": "肖战角色包场得闲谨制",
@@ -979,6 +979,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 222371,
+      "num": 222371,
+      "word": "入殓师称同事服务猝死老人被托梦质问",
+      "onboard_time": 1764774383,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 219537,
       "num": 776392,
       "word": "疯狂动物城2中国票房惊呆外媒",
@@ -1041,6 +1049,14 @@
       "onboard_time": 1764744202,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 210502,
+      "num": 210502,
+      "word": "谍报上不封顶",
+      "onboard_time": 1764774922,
+      "rank": 17,
+      "category": "剧集"
     },
     {
       "raw_hot": 209912,
@@ -1107,14 +1123,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 201896,
-      "num": 201896,
-      "word": "谍报上不封顶",
-      "onboard_time": 1764774922,
-      "rank": 17,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 201531,
       "num": 201531,
       "word": "谁家夫妻上综艺相亲啊",
@@ -1129,14 +1137,6 @@
       "onboard_time": 1764724640,
       "rank": 20,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 200063,
-      "num": 200063,
-      "word": "入殓师称同事服务猝死老人被托梦质问",
-      "onboard_time": 1764774383,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 199132,
@@ -1369,6 +1369,14 @@
       "onboard_time": 1764677543,
       "rank": 30,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166060,
+      "num": 166060,
+      "word": "武汉警方通报男子持刀伤人致死",
+      "onboard_time": 1764774801,
+      "rank": 33,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 165933,
@@ -1713,6 +1721,14 @@
       "onboard_time": 1764760400,
       "rank": 33,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 134539,
+      "num": 134539,
+      "word": "刘萧旭坐硬卧",
+      "onboard_time": 1764775160,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 134182,
@@ -2083,14 +2099,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 114054,
-      "num": 114054,
-      "word": "武汉警方通报男子持刀伤人致死",
-      "onboard_time": 1764774801,
-      "rank": 33,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 113811,
       "num": 113811,
       "word": "王者荣耀大隐于市的高手",
@@ -2121,14 +2129,6 @@
       "onboard_time": 1764681263,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 112694,
-      "num": 112694,
-      "word": "刘萧旭坐硬卧",
-      "onboard_time": 1764775160,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 112409,
@@ -2427,6 +2427,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 99304,
+      "num": 99304,
+      "word": "正片观众 切片观众",
+      "onboard_time": 1764775941,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99166,
       "num": 99166,
       "word": "外媒称中国买大豆毁掉巴西雨林真相",
@@ -2513,6 +2521,14 @@
       "onboard_time": 1764763161,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 96114,
+      "num": 96114,
+      "word": "李昀锐路透造型被识别成AI了",
+      "onboard_time": 1764776361,
+      "rank": 35,
+      "category": "剧集"
     },
     {
       "raw_hot": 96021,
@@ -2715,6 +2731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 88893,
+      "num": 94946,
+      "word": "张艺兴七项提名",
+      "onboard_time": 1764775881,
+      "rank": 48,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 88863,
       "num": 88863,
       "word": "业内称未来手机电脑价格会疯涨",
@@ -2729,6 +2753,14 @@
       "onboard_time": 1764751343,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 87832,
+      "num": 94963,
+      "word": "性格好的人往往脑子也好使",
+      "onboard_time": 1764774622,
+      "rank": 45,
+      "category": "情感"
     },
     {
       "raw_hot": 87558,
@@ -2769,14 +2801,6 @@
       "onboard_time": 1764773001,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 86514,
-      "num": 94963,
-      "word": "性格好的人往往脑子也好使",
-      "onboard_time": 1764774622,
-      "rank": 45,
-      "category": "情感"
     },
     {
       "raw_hot": 86460,
@@ -2891,20 +2915,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 80018,
+      "num": 87808,
+      "word": "解说感叹孙颖莎接发球特别好",
+      "onboard_time": 1764776601,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 79876,
       "num": 79876,
       "word": "刘宇宁半夜胃疼疼醒了",
       "onboard_time": 1764689961,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 79654,
-      "num": 94946,
-      "word": "张艺兴七项提名",
-      "onboard_time": 1764775881,
-      "rank": 48,
-      "category": "音乐"
     },
     {
       "raw_hot": 79593,
@@ -3395,6 +3419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 44440,
+      "num": 178991,
+      "word": "上野千鹤子批高市政府是亡国内阁",
+      "onboard_time": 1764774443,
+      "rank": 24,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 43087,
       "num": 104370,
       "word": "日本将开展鱼鹰运输机夜间训练",
@@ -3435,11 +3467,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40312,
-      "num": 178991,
-      "word": "上野千鹤子批高市政府是亡国内阁",
-      "onboard_time": 1764774443,
-      "rank": 24,
+      "raw_hot": 41026,
+      "num": 190014,
+      "word": "万能血浆也救不了日本军国主义",
+      "onboard_time": 1764775642,
+      "rank": 21,
       "category": "国际时政"
     },
     {
@@ -3563,6 +3595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29311,
+      "num": 98847,
+      "word": "台湾小学校歌歌词做堂堂正正的中国人",
+      "onboard_time": 1764775642,
+      "rank": 39,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 28343,
       "num": 94771,
       "word": "日本参议员说日本无法与中国抗衡",
@@ -3609,14 +3649,6 @@
       "onboard_time": 1764755542,
       "rank": 2,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 26051,
-      "num": 98847,
-      "word": "台湾小学校歌歌词做堂堂正正的中国人",
-      "onboard_time": 1764775642,
-      "rank": 39,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 25551,
@@ -3721,14 +3753,6 @@
       "onboard_time": 1764701595,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 14911,
-      "num": 190014,
-      "word": "万能血浆也救不了日本军国主义",
-      "onboard_time": 1764775642,
-      "rank": 21,
-      "category": "国际时政"
     },
     {
       "raw_hot": 14508,
