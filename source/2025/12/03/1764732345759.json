@@ -1,0 +1,410 @@
+{
+  "runTime": 1764732345759,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1032854,
+        "num": 1165256,
+        "word": "日本投降书明确台湾归还中国",
+        "onboard_time": 1764728061,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 364824,
+        "num": 364824,
+        "word": "特斯拉发布人形机器人跑步视频",
+        "onboard_time": 1764728181,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 40692,
+        "num": 352985,
+        "word": "今年甲流常见问题看这里",
+        "onboard_time": 1764683124,
+        "rank": 2,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 483624,
+        "num": 339776,
+        "word": "嫁金钗",
+        "onboard_time": 1764729261,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 228491,
+        "num": 314782,
+        "word": "香奈儿大秀",
+        "onboard_time": 1764725961,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 414005,
+        "num": 303462,
+        "word": "日本被曝昼夜赶建军事基地",
+        "onboard_time": 1764729860,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 292681,
+        "num": 292681,
+        "word": "中俄就涉日本问题进行战略对表",
+        "onboard_time": 1764719719,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 256861,
+        "num": 256861,
+        "word": "印尼洪灾已致753人死亡",
+        "onboard_time": 1764728240,
+        "rank": 7,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 238552,
+        "num": 256714,
+        "word": "12306回应取消靠窗选座",
+        "onboard_time": 1764680483,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87733,
+        "num": 253098,
+        "word": "戴尔创始人豪捐62.5亿美元",
+        "onboard_time": 1764727881,
+        "rank": 9,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 523673,
+        "num": 251053,
+        "word": "电动车新国标",
+        "onboard_time": 1764727700,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 337434,
+        "num": 248088,
+        "word": "日本战争准备曝光",
+        "onboard_time": 1764686424,
+        "rank": 11,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 82598,
+        "num": 246309,
+        "word": "美方眼中台湾就是肥肉和提款机",
+        "onboard_time": 1764731001,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 245231,
+        "num": 245231,
+        "word": "国色芳华云合",
+        "onboard_time": 1764731901,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 244916,
+        "num": 244916,
+        "word": "玉茗茶骨",
+        "onboard_time": 1764729800,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213204,
+        "num": 244678,
+        "word": "柬埔寨免签",
+        "onboard_time": 1764731542,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 200633,
+        "num": 244421,
+        "word": "顾客取消订单商家让骑手当晚餐吃",
+        "onboard_time": 1764721883,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 53918,
+        "num": 244152,
+        "word": "高市早苗为什么心虚了",
+        "onboard_time": 1764731301,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103622,
+        "num": 243835,
+        "word": "千问批改小学生草书作业",
+        "onboard_time": 1764731061,
+        "rank": 18,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56884,
+        "num": 243548,
+        "word": "为何糖友更易患带状疱疹",
+        "onboard_time": 1764728718,
+        "rank": 19,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 243334,
+        "num": 243334,
+        "word": "王一博辛芷蕾聊啥呢",
+        "onboard_time": 1764729081,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 1628099,
+        "num": 243295,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 242896,
+        "num": 242896,
+        "word": "原来洗澡是重启人生的最小单位",
+        "onboard_time": 1764720621,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 211041,
+        "num": 211041,
+        "word": "特朗普宣布拜登时期文件全部作废",
+        "onboard_time": 1764723861,
+        "rank": 23,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181001,
+        "num": 181001,
+        "word": "张俪cha了甩鞭舞",
+        "onboard_time": 1764731181,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 173877,
+        "num": 173877,
+        "word": "员工误将生乌粉当黑胡椒毒死老板",
+        "onboard_time": 1764726981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 167301,
+        "num": 167301,
+        "word": "骄阳似我",
+        "onboard_time": 1764729381,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164753,
+        "num": 164753,
+        "word": "星光大赏阵容",
+        "onboard_time": 1764729501,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158064,
+        "num": 158064,
+        "word": "王楚然像来挣学分的大学生",
+        "onboard_time": 1764731421,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 76723,
+        "num": 157399,
+        "word": "日本自卫队被曝正在向西南转移",
+        "onboard_time": 1764687623,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 157067,
+        "num": 157067,
+        "word": "华裔女子痔疮手术后不堪剧痛自杀",
+        "onboard_time": 1764686424,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 147224,
+        "num": 147224,
+        "word": "华晨宇说国内很少有会唱高音的",
+        "onboard_time": 1764692599,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137798,
+        "num": 137798,
+        "word": "特朗普说不点名又点名",
+        "onboard_time": 1764729202,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126946,
+        "num": 126946,
+        "word": "张凌赫已连续11个月换自动回复",
+        "onboard_time": 1764724640,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126093,
+        "num": 126093,
+        "word": "迪丽热巴嫂子文学上新了",
+        "onboard_time": 1764731842,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117275,
+        "num": 117275,
+        "word": "这5秒堪比滴血认亲",
+        "onboard_time": 1764729561,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 114779,
+        "num": 114779,
+        "word": "部分亮黑款苹果手表掉漆",
+        "onboard_time": 1764731901,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 107852,
+        "num": 107852,
+        "word": "起底儿童款硅胶娃娃生产厂家",
+        "onboard_time": 1764731961,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 72221,
+        "num": 106087,
+        "word": "80年前日本投降书",
+        "onboard_time": 1764730161,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 62870,
+        "num": 106052,
+        "word": "凤凰台上双死也是he",
+        "onboard_time": 1764731722,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106049,
+        "num": 106049,
+        "word": "奥司他韦已出现耐药情况",
+        "onboard_time": 1764719660,
+        "rank": 40,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 43087,
+        "num": 104370,
+        "word": "日本将开展鱼鹰运输机夜间训练",
+        "onboard_time": 1764731061,
+        "rank": 41,
+        "category": "军事"
+      },
+      {
+        "raw_hot": 57891,
+        "num": 103927,
+        "word": "李在明明确反驳自主核武装论",
+        "onboard_time": 1764730101,
+        "rank": 42,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70635,
+        "num": 103864,
+        "word": "黄金原油收跌",
+        "onboard_time": 1764732083,
+        "rank": 43,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 103861,
+        "num": 103861,
+        "word": "美国",
+        "onboard_time": 1764722541,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100895,
+        "num": 100895,
+        "word": "网友调侃蛇盖瑞火了才看清楚脸",
+        "onboard_time": 1764727160,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96068,
+        "num": 96068,
+        "word": "难怪我妈说我小时候电视瘾很大",
+        "onboard_time": 1764718879,
+        "rank": 46,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95459,
+        "num": 95459,
+        "word": "小狗被偷待宰主人羊肉店找回",
+        "onboard_time": 1764724161,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86460,
+        "num": 86460,
+        "word": "在外面摸了猫一定要洗手",
+        "onboard_time": 1764729321,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 84899,
+        "num": 84899,
+        "word": "小金毛死活要跟德牧一起睡",
+        "onboard_time": 1764729321,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#营造风清气正的网络空间#"
+    }
+  }
+}
