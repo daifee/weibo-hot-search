@@ -1,0 +1,410 @@
+{
+  "runTime": 1764744094797,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 666290,
+        "num": 1106606,
+        "word": "朱雀三号任务一级回收失败",
+        "onboard_time": 1764737302,
+        "rank": 0,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 402380,
+        "num": 402380,
+        "word": "日本投降书明确台湾归还中国",
+        "onboard_time": 1764728061,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 67890,
+        "num": 402052,
+        "word": "东北大冰箱营业了",
+        "onboard_time": 1764724041,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 187797,
+        "num": 395810,
+        "word": "KPL",
+        "onboard_time": 1764743121,
+        "rank": 3,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 74599,
+        "num": 387009,
+        "word": "嫁金钗",
+        "onboard_time": 1764729261,
+        "rank": 4,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 533710,
+        "num": 382626,
+        "word": "马航MH370已失踪11年",
+        "onboard_time": 1764738622,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 210119,
+        "num": 371868,
+        "word": "高市早苗老家奈良凉了",
+        "onboard_time": 1764735623,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 182299,
+        "num": 367655,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1764743540,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 167049,
+        "num": 360898,
+        "word": "工行三年期大额存单门槛100万",
+        "onboard_time": 1764735984,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 160317,
+        "num": 352817,
+        "word": "王楚钦孙颖莎vs克罗地亚组合",
+        "onboard_time": 1764739581,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 573487,
+        "num": 350063,
+        "word": "腾讯电视剧道歉",
+        "onboard_time": 1764737243,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 494265,
+        "num": 345361,
+        "word": "情趣娃娃厂商报价表惊现孕妇体型",
+        "onboard_time": 1764742222,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 474791,
+        "num": 336475,
+        "word": "颖儿在家吃这么好 在外胡说八道",
+        "onboard_time": 1764741320,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 428130,
+        "num": 331883,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 327538,
+        "num": 327538,
+        "word": "阿凡达3取消中国首映红毯环节",
+        "onboard_time": 1764743181,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 257234,
+        "num": 257234,
+        "word": "双轨北美播出",
+        "onboard_time": 1764739041,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235738,
+        "num": 235738,
+        "word": "尼克朱迪年龄差",
+        "onboard_time": 1764736644,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 229921,
+        "num": 229921,
+        "word": "意大利穿冲锋衣被问为什么穿丑衣服",
+        "onboard_time": 1764736764,
+        "rank": 17,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 217629,
+        "num": 217629,
+        "word": "国台办驳斥王世坚言论",
+        "onboard_time": 1764741621,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 127512,
+        "num": 217272,
+        "word": "国乒4战4胜",
+        "onboard_time": 1764743600,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1191951,
+        "num": 209497,
+        "word": "李嘉格恋情",
+        "onboard_time": 1764743121,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683940,
+        "num": 204028,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 263368,
+        "num": 200596,
+        "word": "小明剑魔结婚",
+        "onboard_time": 1764738802,
+        "rank": 22,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 195046,
+        "num": 195046,
+        "word": "WBG官宣Elk加入",
+        "onboard_time": 1764743181,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 182857,
+        "num": 182857,
+        "word": "儿子为狱中父母还债早跑外卖晚跑代驾",
+        "onboard_time": 1764741801,
+        "rank": 24,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 94460,
+        "num": 175758,
+        "word": "华为MateX7的大屏AI有多强",
+        "onboard_time": 1764743901,
+        "rank": 25,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169056,
+        "num": 169056,
+        "word": "第二杯半价不是一个人喝两杯",
+        "onboard_time": 1764737783,
+        "rank": 26,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 45385,
+        "num": 166157,
+        "word": "朱雀三号回收试验失败原因正在分析",
+        "onboard_time": 1764741862,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164729,
+        "num": 164729,
+        "word": "胡歌二胎 时间",
+        "onboard_time": 1764733583,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 156750,
+        "num": 156750,
+        "word": "怎么到了研究生就没人逃课了",
+        "onboard_time": 1764732441,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 146572,
+        "num": 146572,
+        "word": "T1官宣两位选手上调",
+        "onboard_time": 1764740420,
+        "rank": 30,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 138176,
+        "num": 138176,
+        "word": "华裔奶奶遭美国小伙毒打致死",
+        "onboard_time": 1764739640,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 132232,
+        "num": 132232,
+        "word": "日本被曝昼夜赶建军事基地",
+        "onboard_time": 1764729860,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 127833,
+        "num": 127833,
+        "word": "流感药玛巴洛沙韦为什么这么高效",
+        "onboard_time": 1764737483,
+        "rank": 33,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 132122,
+        "num": 127733,
+        "word": "中越情侣开色情餐厅获利24亿越南盾",
+        "onboard_time": 1764733283,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121112,
+        "num": 121112,
+        "word": "朱雀三号",
+        "onboard_time": 1764732501,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 118948,
+        "num": 118948,
+        "word": "120斤的女生减到100斤需要多久",
+        "onboard_time": 1764743540,
+        "rank": 36,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 115391,
+        "num": 115391,
+        "word": "迪丽热巴剪到手那段播了",
+        "onboard_time": 1764737483,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113542,
+        "num": 113542,
+        "word": "炎亚纶的单接不接",
+        "onboard_time": 1764742700,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107131,
+        "num": 107131,
+        "word": "日专家称高市或被发国际逮捕令",
+        "onboard_time": 1764743780,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 66907,
+        "num": 106785,
+        "word": "田曦薇的肌肉终于派上用场了",
+        "onboard_time": 1764742461,
+        "rank": 40,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 91665,
+        "num": 106689,
+        "word": "只有打工人知道她心态有多好",
+        "onboard_time": 1764741862,
+        "rank": 41,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 106686,
+        "num": 106686,
+        "word": "建议复查时非必要不要做CT",
+        "onboard_time": 1764737302,
+        "rank": 42,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 103142,
+        "num": 103142,
+        "word": "诚C黑框眼镜",
+        "onboard_time": 1764743901,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 98558,
+        "num": 98558,
+        "word": "排骨但是苹果味",
+        "onboard_time": 1764734303,
+        "rank": 44,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 98145,
+        "num": 98145,
+        "word": "王安宇大侦探首发",
+        "onboard_time": 1764743780,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 95073,
+        "num": 95073,
+        "word": "韩国发现半身被埋地中的死亡小猫",
+        "onboard_time": 1764734784,
+        "rank": 46,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 91833,
+        "num": 91833,
+        "word": "大冰称曾乘黑车被打聋右耳",
+        "onboard_time": 1764743959,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 90594,
+        "num": 90594,
+        "word": "王楚钦孙颖莎3比0克罗地亚组合",
+        "onboard_time": 1764743540,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87354,
+        "num": 87354,
+        "word": "马航MH370搜寻重启",
+        "onboard_time": 1764743540,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对残疾人的深情牵挂#"
+    }
+  }
+}
