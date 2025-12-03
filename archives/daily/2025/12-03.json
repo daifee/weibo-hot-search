@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764755195342,
+  "endTime": 1764757971259,
   "band_list": [
     {
       "raw_hot": 1763620,
@@ -35,6 +35,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1540654,
+      "num": 1540654,
+      "word": "李刚受贿1.02亿余元",
+      "onboard_time": 1764754702,
+      "rank": 42,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 1465455,
+      "num": 176526,
+      "word": "李嘉格回应恋情",
+      "onboard_time": 1764755241,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1383127,
       "num": 1383127,
       "word": "朱雀三号",
@@ -60,11 +76,19 @@
     },
     {
       "raw_hot": 1067508,
-      "num": 1192359,
+      "num": 1233830,
       "word": "特朗普点名日本",
       "onboard_time": 1764747621,
       "rank": 29,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1053586,
+      "num": 1217071,
+      "word": "双轨",
+      "onboard_time": 1764741200,
+      "rank": 13,
+      "category": "剧集"
     },
     {
       "raw_hot": 1032854,
@@ -219,6 +243,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 554300,
+      "num": 467012,
+      "word": "易烊千玺因身体原因终止原定进组安排",
+      "onboard_time": 1764753083,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 538740,
       "num": 201972,
       "word": "李嘉格男友",
@@ -233,14 +265,6 @@
       "onboard_time": 1764738622,
       "rank": 14,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 524852,
-      "num": 1217071,
-      "word": "双轨",
-      "onboard_time": 1764741200,
-      "rank": 13,
-      "category": "剧集"
     },
     {
       "raw_hot": 523673,
@@ -313,14 +337,6 @@
       "onboard_time": 1764741320,
       "rank": 12,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 467012,
-      "num": 467012,
-      "word": "易烊千玺因身体原因终止原定进组安排",
-      "onboard_time": 1764753083,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 463880,
@@ -555,6 +571,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 289383,
+      "num": 228464,
+      "word": "日本正发动无声战争",
+      "onboard_time": 1764755542,
+      "rank": 16,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 280680,
       "num": 926059,
       "word": "LCK引入教练语音机制",
@@ -569,6 +593,14 @@
       "onboard_time": 1764683124,
       "rank": 16,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 274935,
+      "num": 413472,
+      "word": "石破茂反问还记得日本那时的结局吗",
+      "onboard_time": 1764754342,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 274828,
@@ -683,6 +715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 228388,
+      "num": 228388,
+      "word": "怎么不等微信停运了再说",
+      "onboard_time": 1764752902,
+      "rank": 30,
+      "category": "情感"
+    },
+    {
       "raw_hot": 222960,
       "num": 211998,
       "word": "难怪我妈说我小时候电视瘾很大",
@@ -729,14 +769,6 @@
       "onboard_time": 1764745221,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 215007,
-      "num": 171011,
-      "word": "怎么不等微信停运了再说",
-      "onboard_time": 1764752902,
-      "rank": 30,
-      "category": "情感"
     },
     {
       "raw_hot": 214676,
@@ -851,6 +883,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 191034,
+      "num": 146468,
+      "word": "考编第1名却因学历重叠政审不合格",
+      "onboard_time": 1764757341,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 190698,
       "num": 190698,
       "word": "陶喆的三明治夹了一斤肉",
@@ -913,6 +953,14 @@
       "onboard_time": 1764731181,
       "rank": 24,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 178984,
+      "num": 178984,
+      "word": "枭起青壤口碑",
+      "onboard_time": 1764755784,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 177602,
@@ -1019,6 +1067,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165977,
+      "num": 1139211,
+      "word": "工行存100万存20万利率相同",
+      "onboard_time": 1764751761,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 165933,
       "num": 165933,
       "word": "杨旭文 陈若琳",
@@ -1035,12 +1091,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 164416,
-      "num": 413472,
-      "word": "石破茂反问还记得日本那时的结局吗",
-      "onboard_time": 1764754342,
-      "rank": 35,
-      "category": "国际时政"
+      "raw_hot": 164108,
+      "num": 164108,
+      "word": "王一博教辛芷蕾帮他拍照",
+      "onboard_time": 1764755362,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 163547,
+      "num": 146388,
+      "word": "张雪峰直播说脏话被禁言停播",
+      "onboard_time": 1764757702,
+      "rank": 32,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 162119,
@@ -1107,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155707,
+      "num": 155707,
+      "word": "徐冬冬 那是妈妈的钱我俩得奋斗",
+      "onboard_time": 1764756801,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 154332,
       "num": 154332,
       "word": "小狗被偷待宰主人羊肉店找回",
@@ -1153,6 +1225,22 @@
       "onboard_time": 1764740420,
       "rank": 33,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 146545,
+      "num": 146545,
+      "word": "马克龙抵达北京",
+      "onboard_time": 1764755122,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 146215,
+      "num": 146215,
+      "word": "兔子警官陈都灵",
+      "onboard_time": 1764755842,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 143421,
@@ -1233,14 +1321,6 @@
       "onboard_time": 1764727700,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 134891,
-      "num": 134891,
-      "word": "工行存100万存20万利率相同",
-      "onboard_time": 1764751761,
-      "rank": 47,
-      "category": "财经"
     },
     {
       "raw_hot": 134182,
@@ -1353,6 +1433,14 @@
       "onboard_time": 1764736764,
       "rank": 42,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 123877,
+      "num": 123877,
+      "word": "枭起青壤",
+      "onboard_time": 1764757401,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 123584,
@@ -1483,12 +1571,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 115215,
-      "num": 115215,
-      "word": "李刚受贿1.02亿余元",
-      "onboard_time": 1764754702,
-      "rank": 42,
-      "category": "国内时政"
+      "raw_hot": 115497,
+      "num": 115497,
+      "word": "蚩奼极光幻客皮肤",
+      "onboard_time": 1764757702,
+      "rank": 38,
+      "category": "游戏"
     },
     {
       "raw_hot": 114939,
@@ -1547,6 +1635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 112409,
+      "num": 112409,
+      "word": "张雪峰抖音账号30天掉粉近13万",
+      "onboard_time": 1764750801,
+      "rank": 40,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 111872,
       "num": 111872,
       "word": "肖战 上班老舅下班爱豆",
@@ -1569,14 +1665,6 @@
       "onboard_time": 1764726920,
       "rank": 35,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 109857,
-      "num": 109857,
-      "word": "马克龙抵达北京",
-      "onboard_time": 1764755122,
-      "rank": 47,
-      "category": "国际时政"
     },
     {
       "raw_hot": 109312,
@@ -1755,6 +1843,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 98474,
+      "num": 98474,
+      "word": "10种黄曲霉素的重灾区食物",
+      "onboard_time": 1764756622,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 98145,
       "num": 98145,
       "word": "王安宇大侦探首发",
@@ -1787,6 +1883,14 @@
       "category": "健康医疗,休闲"
     },
     {
+      "raw_hot": 97288,
+      "num": 97288,
+      "word": "Viper曾帮陌生女生搬行李",
+      "onboard_time": 1764756321,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 96818,
       "num": 96818,
       "word": "男子回应在老君山拍到灵气护罩奇观",
@@ -1808,6 +1912,14 @@
       "word": "日本拟购以色列无人机",
       "onboard_time": 1764746061,
       "rank": 43,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 96019,
+      "num": 96019,
+      "word": "美国或禁止约30个国家旅客入境",
+      "onboard_time": 1764755784,
+      "rank": 46,
       "category": "国际时政"
     },
     {
@@ -2299,6 +2411,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 58581,
+      "num": 146503,
+      "word": "王世坚丑态百出真没出息",
+      "onboard_time": 1764756142,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 57891,
       "num": 103927,
       "word": "李在明明确反驳自主核武装论",
@@ -2363,6 +2483,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 51525,
+      "num": 178353,
+      "word": "今年流感为何比往年流行强度大",
+      "onboard_time": 1764756741,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 50981,
       "num": 53915,
       "word": "凤凰台上be",
@@ -2393,6 +2521,14 @@
       "onboard_time": 1764702674,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 47295,
+      "num": 164980,
+      "word": "被情感直播间打动老人一晚消费7000",
+      "onboard_time": 1764756441,
+      "rank": 25,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 47241,
@@ -2473,6 +2609,14 @@
       "onboard_time": 1764710173,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 38718,
+      "num": 113088,
+      "word": "高市早苗视察福岛核电站",
+      "onboard_time": 1764756983,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 37508,
@@ -2561,6 +2705,22 @@
       "onboard_time": 1764718459,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 24471,
+      "num": 1413062,
+      "word": "3个视角看文化出海",
+      "onboard_time": 1764756021,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23716,
+      "num": 146239,
+      "word": "多家电商平台下架儿童情趣娃娃",
+      "onboard_time": 1764757941,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23707,
@@ -2673,6 +2833,9 @@
     },
     {
       "word": "#总书记对残疾人的深情牵挂#"
+    },
+    {
+      "word": "#总书记关爱残疾人的暖心故事#"
     }
   ]
 }
