@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764788106220,
+  "endTime": 1764789910470,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -13003,6 +13003,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 38253,
+      "num": 36982,
+      "word": "于正不认识王梓莼",
+      "onboard_time": 1764786494,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 37971,
       "num": 215557,
       "word": "韩国戒严事件一周年",
@@ -13579,6 +13587,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 24747,
+      "num": 31634,
+      "word": "黄子韬徐艺洋挽手下飞机",
+      "onboard_time": 1764786555,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 24544,
       "num": 55351,
       "word": "迪丽热巴说通过角色传递社会价值",
@@ -13739,14 +13755,6 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 23086,
-      "num": 31660,
-      "word": "于正不认识王梓莼",
-      "onboard_time": 1764786494,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 22824,
       "num": 134271,
       "word": "专家直球高市想做三战罪魁祸首吗",
@@ -13795,20 +13803,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21349,
+      "num": 31607,
+      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+      "onboard_time": 1764787035,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 20846,
       "num": 121568,
       "word": "申裕斌采访禁止卖萌",
       "onboard_time": 1764660562,
       "rank": 38,
       "category": "体育"
-    },
-    {
-      "raw_hot": 20556,
-      "num": 31634,
-      "word": "黄子韬徐艺洋挽手下飞机",
-      "onboard_time": 1764786555,
-      "rank": 41,
-      "category": "艺人"
     },
     {
       "raw_hot": 20451,
@@ -13849,6 +13857,14 @@
       "onboard_time": 1764696137,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 19509,
+      "num": 25652,
+      "word": "于正破防",
+      "onboard_time": 1764789494,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 19113,
@@ -14017,14 +14033,6 @@
       "onboard_time": 1764658160,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 15283,
-      "num": 31607,
-      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
-      "onboard_time": 1764787035,
-      "rank": 48,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 15118,
