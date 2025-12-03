@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764801890310,
+  "endTime": 1764804287460,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -977,6 +977,14 @@
       "onboard_time": 1764733583,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 599527,
+      "num": 222371,
+      "word": "入殓师称同事服务猝死老人被托梦质问",
+      "onboard_time": 1764774383,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 596710,
@@ -2315,6 +2323,14 @@
       "category": "综艺,艺人"
     },
     {
+      "raw_hot": 356143,
+      "num": 86872,
+      "word": "于正破防",
+      "onboard_time": 1764789494,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 354615,
       "num": 166050,
       "word": "张继科说乒乓球热度是我带起来的",
@@ -2336,14 +2352,6 @@
       "word": "幼儿园15天虐童上千次案最新进展",
       "onboard_time": 1764773242,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 352197,
-      "num": 222371,
-      "word": "入殓师称同事服务猝死老人被托梦质问",
-      "onboard_time": 1764774383,
-      "rank": 18,
       "category": "民生新闻"
     },
     {
@@ -4483,14 +4491,6 @@
       "category": "教育"
     },
     {
-      "raw_hot": 190737,
-      "num": 73848,
-      "word": "于正破防",
-      "onboard_time": 1764789494,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 190698,
       "num": 190698,
       "word": "陶喆的三明治夹了一斤肉",
@@ -4633,6 +4633,14 @@
       "onboard_time": 1764490641,
       "rank": 27,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 184876,
+      "num": 86655,
+      "word": "张继科回应目前身体状态",
+      "onboard_time": 1764795734,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 184811,
@@ -5883,6 +5891,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 152267,
+      "num": 85448,
+      "word": "墓园回应演员董立范去世",
+      "onboard_time": 1764797054,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 152261,
       "num": 152261,
       "word": "成毅执子策九谋",
@@ -6539,6 +6555,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 137570,
+      "num": 84952,
+      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
+      "onboard_time": 1764779239,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 137472,
       "num": 137472,
       "word": "李健清华档案照",
@@ -6641,6 +6665,14 @@
       "onboard_time": 1764778940,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136279,
+      "num": 89787,
+      "word": "中俄达成新的共识",
+      "onboard_time": 1764779179,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136138,
@@ -7145,6 +7177,14 @@
       "onboard_time": 1764671783,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 128019,
+      "num": 96623,
+      "word": "老师发来100多页PDF要求打印",
+      "onboard_time": 1764774443,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 127754,
@@ -8211,6 +8251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 115865,
+      "num": 109269,
+      "word": "正片观众 切片观众",
+      "onboard_time": 1764775941,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 115802,
       "num": 115802,
       "word": "发朋友圈半小时发微博两秒",
@@ -8689,14 +8737,6 @@
       "onboard_time": 1764728360,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 109269,
-      "num": 109269,
-      "word": "正片观众 切片观众",
-      "onboard_time": 1764775941,
-      "rank": 31,
-      "category": "剧集"
     },
     {
       "raw_hot": 109243,
@@ -9435,14 +9475,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99850,
-      "num": 77052,
-      "word": "中俄达成新的共识",
-      "onboard_time": 1764779179,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 99781,
       "num": 99781,
       "word": "日媒称高市早苗甩锅",
@@ -9553,14 +9585,6 @@
       "onboard_time": 1764572003,
       "rank": 47,
       "category": "美食"
-    },
-    {
-      "raw_hot": 98063,
-      "num": 73145,
-      "word": "张继科回应目前身体状态",
-      "onboard_time": 1764795734,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 98003,
@@ -9681,14 +9705,6 @@
       "onboard_time": 1764516981,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 96623,
-      "num": 96623,
-      "word": "老师发来100多页PDF要求打印",
-      "onboard_time": 1764774443,
-      "rank": 40,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 96597,
@@ -10883,6 +10899,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 82594,
+      "num": 82594,
+      "word": "金建希出庭受审被搀扶着走入法庭",
+      "onboard_time": 1764778040,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 82370,
       "num": 82370,
       "word": "TF家族四代纪录片",
@@ -10993,14 +11017,6 @@
       "onboard_time": 1764672142,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80766,
-      "num": 72324,
-      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
-      "onboard_time": 1764779239,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 80750,
@@ -11419,6 +11435,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74343,
+      "num": 74343,
+      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+      "onboard_time": 1764787035,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73116,
       "num": 319350,
       "word": "重庆狼队BIES2025冠军",
@@ -11561,14 +11585,6 @@
       "onboard_time": 1764573681,
       "rank": 38,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 70067,
-      "num": 70067,
-      "word": "墓园回应演员董立范去世",
-      "onboard_time": 1764797054,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 69921,
@@ -11739,12 +11755,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 66780,
+      "num": 66780,
+      "word": "日本称干扰他国卫星技术取得进展",
+      "onboard_time": 1764804018,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66610,
       "num": 66610,
       "word": "沈佳润鬼马这块内娱无代餐",
       "onboard_time": 1764692959,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66457,
+      "num": 66457,
+      "word": "大生意人 搞笑",
+      "onboard_time": 1764797173,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 66357,
@@ -11811,20 +11843,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 64781,
-      "num": 64781,
-      "word": "金建希出庭受审被搀扶着走入法庭",
-      "onboard_time": 1764778040,
-      "rank": 38,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 64680,
       "num": 64680,
       "word": "每天甩手踮脚5年容貌的变化",
       "onboard_time": 1764459020,
       "rank": 31,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 64459,
+      "num": 64459,
+      "word": "韩雨彤曾辉去阿那亚了",
+      "onboard_time": 1764801256,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 64215,
@@ -11987,6 +12019,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 58647,
+      "num": 58647,
+      "word": "医生听不懂广州话被患者斥责",
+      "onboard_time": 1764804078,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 58592,
+      "num": 58592,
+      "word": "官方通报考编第一被判定不合格",
+      "onboard_time": 1764804018,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 58581,
       "num": 146503,
       "word": "王世坚丑态百出真没出息",
@@ -12115,6 +12163,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 56848,
+      "num": 89046,
+      "word": "张本智和赢球庆祝动作",
+      "onboard_time": 1764804078,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 56174,
       "num": 56174,
       "word": "榆林学生遭霸凌部分学生及家长已道歉",
@@ -12227,14 +12283,6 @@
       "category": "美食"
     },
     {
-      "raw_hot": 54139,
-      "num": 54139,
-      "word": "大生意人 搞笑",
-      "onboard_time": 1764797173,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 54084,
       "num": 148203,
       "word": "今起校园配餐有国家标准了",
@@ -12281,6 +12329,14 @@
       "onboard_time": 1764646579,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 53596,
+      "num": 53596,
+      "word": "肖战第二部预售破亿的电影",
+      "onboard_time": 1764804138,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 53032,
@@ -12923,6 +12979,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 40776,
+      "num": 46161,
+      "word": "胡歌李沁收山开机",
+      "onboard_time": 1764803657,
+      "rank": 39,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 40426,
       "num": 55054,
       "word": "宁静选择上综艺不拍戏",
@@ -13259,6 +13323,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 32790,
+      "num": 46024,
+      "word": "黄子韬徐艺洋挽手下飞机",
+      "onboard_time": 1764786555,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32489,
       "num": 108348,
       "word": "孙颖莎小脚一搭笑盈盈",
@@ -13355,14 +13427,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 30501,
-      "num": 36499,
-      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
-      "onboard_time": 1764787035,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 30056,
       "num": 161900,
       "word": "被处置账号团播内容毫无下限",
@@ -13431,14 +13495,6 @@
       "num": 79888,
       "word": "陈赫回母校参加校庆",
       "onboard_time": 1764609735,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 28504,
-      "num": 36470,
-      "word": "黄子韬徐艺洋挽手下飞机",
-      "onboard_time": 1764786555,
       "rank": 41,
       "category": "艺人"
     },
@@ -13841,14 +13897,6 @@
       "onboard_time": 1764685824,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21239,
-      "num": 29888,
-      "word": "韩雨彤曾辉去阿那亚了",
-      "onboard_time": 1764801256,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 20846,

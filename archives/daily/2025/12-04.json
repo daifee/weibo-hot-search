@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764801890310,
+  "endTime": 1764804287460,
   "band_list": [
     {
       "raw_hot": 606778,
@@ -9,6 +9,14 @@
       "onboard_time": 1764774622,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 599527,
+      "num": 147401,
+      "word": "入殓师称同事服务猝死老人被托梦质问",
+      "onboard_time": 1764774383,
+      "rank": 11,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 524971,
@@ -27,7 +35,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 401305,
+      "raw_hot": 436396,
       "num": 176455,
       "word": "考编第1名却因学历重叠政审不合格",
       "onboard_time": 1764757341,
@@ -35,12 +43,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 352197,
-      "num": 147401,
-      "word": "入殓师称同事服务猝死老人被托梦质问",
-      "onboard_time": 1764774383,
-      "rank": 11,
-      "category": "民生新闻"
+      "raw_hot": 356143,
+      "num": 86872,
+      "word": "于正破防",
+      "onboard_time": 1764789494,
+      "rank": 29,
+      "category": "艺人"
     },
     {
       "raw_hot": 284675,
@@ -75,12 +83,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 190737,
-      "num": 73848,
-      "word": "于正破防",
-      "onboard_time": 1764789494,
-      "rank": 29,
-      "category": "艺人"
+      "raw_hot": 215227,
+      "num": 144990,
+      "word": "日本被曝迈向全领域作战",
+      "onboard_time": 1764770724,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 190475,
@@ -89,6 +97,14 @@
       "onboard_time": 1764771803,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 184876,
+      "num": 86655,
+      "word": "张继科回应目前身体状态",
+      "onboard_time": 1764795734,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 177688,
@@ -104,6 +120,14 @@
       "word": "易烊千玺因身体原因终止原定进组安排",
       "onboard_time": 1764753083,
       "rank": 12,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 152267,
+      "num": 85448,
+      "word": "墓园回应演员董立范去世",
+      "onboard_time": 1764797054,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -123,12 +147,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 144990,
-      "num": 144990,
-      "word": "日本被曝迈向全领域作战",
-      "onboard_time": 1764770724,
-      "rank": 14,
-      "category": "国际时政"
+      "raw_hot": 137570,
+      "num": 84952,
+      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
+      "onboard_time": 1764779239,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 137095,
@@ -145,6 +169,14 @@
       "onboard_time": 1764778940,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136279,
+      "num": 89787,
+      "word": "中俄达成新的共识",
+      "onboard_time": 1764779179,
+      "rank": 44,
+      "category": "国内时政"
     },
     {
       "raw_hot": 130149,
@@ -171,6 +203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 128019,
+      "num": 83955,
+      "word": "老师发来100多页PDF要求打印",
+      "onboard_time": 1764774443,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121762,
       "num": 121762,
       "word": "张杰没有一条微博是白发的",
@@ -179,7 +219,7 @@
       "category": "演出"
     },
     {
-      "raw_hot": 109269,
+      "raw_hot": 115865,
       "num": 109269,
       "word": "正片观众 切片观众",
       "onboard_time": 1764775941,
@@ -203,22 +243,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 99850,
-      "num": 77052,
-      "word": "中俄达成新的共识",
-      "onboard_time": 1764779179,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 98063,
-      "num": 73145,
-      "word": "张继科回应目前身体状态",
-      "onboard_time": 1764795734,
-      "rank": 23,
-      "category": "体育"
-    },
-    {
       "raw_hot": 95260,
       "num": 95260,
       "word": "刘萧旭坐硬卧",
@@ -235,6 +259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 82594,
+      "num": 82594,
+      "word": "金建希出庭受审被搀扶着走入法庭",
+      "onboard_time": 1764778040,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 81916,
       "num": 81916,
       "word": "枭起青壤 全员科班",
@@ -243,20 +275,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 81547,
-      "num": 81547,
-      "word": "老师发来100多页PDF要求打印",
-      "onboard_time": 1764774443,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 80766,
-      "num": 72324,
-      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
-      "onboard_time": 1764779239,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 80010,
+      "num": 497538,
+      "word": "工行存100万存20万利率相同",
+      "onboard_time": 1764751761,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 78332,
@@ -265,6 +289,14 @@
       "onboard_time": 1764777380,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77916,
+      "num": 77916,
+      "word": "印度幽灵飞机停在机场13年后被发现",
+      "onboard_time": 1764765201,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 76185,
@@ -283,6 +315,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 74343,
+      "num": 74343,
+      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+      "onboard_time": 1764787035,
+      "rank": 48,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 73960,
       "num": 73960,
       "word": "李昀锐路透造型被识别成AI了",
@@ -291,28 +331,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 71836,
+      "num": 71836,
+      "word": "李纯超绝不经意展示婚戒",
+      "onboard_time": 1764770062,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 71610,
       "num": 71610,
       "word": "年度十大角色cp超话",
       "onboard_time": 1764769523,
       "rank": 33,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 70067,
-      "num": 70067,
-      "word": "墓园回应演员董立范去世",
-      "onboard_time": 1764797054,
-      "rank": 49,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 69420,
-      "num": 497538,
-      "word": "工行存100万存20万利率相同",
-      "onboard_time": 1764751761,
-      "rank": 1,
-      "category": "财经"
     },
     {
       "raw_hot": 68999,
@@ -331,12 +363,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 66780,
+      "num": 66780,
+      "word": "日本称干扰他国卫星技术取得进展",
+      "onboard_time": 1764804018,
+      "rank": 25,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 66585,
       "num": 66585,
       "word": "性格好的人往往脑子也好使",
       "onboard_time": 1764774622,
       "rank": 36,
       "category": "情感"
+    },
+    {
+      "raw_hot": 66457,
+      "num": 66457,
+      "word": "大生意人 搞笑",
+      "onboard_time": 1764797173,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 65586,
@@ -347,12 +395,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 64781,
-      "num": 64781,
-      "word": "金建希出庭受审被搀扶着走入法庭",
-      "onboard_time": 1764778040,
-      "rank": 38,
-      "category": "国际时政"
+      "raw_hot": 64459,
+      "num": 64459,
+      "word": "韩雨彤曾辉去阿那亚了",
+      "onboard_time": 1764801256,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 63479,
@@ -371,12 +419,36 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58647,
+      "num": 58647,
+      "word": "医生听不懂广州话被患者斥责",
+      "onboard_time": 1764804078,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 58627,
       "num": 60913,
       "word": "Angelababy后援会将恢复工作",
       "onboard_time": 1764770423,
       "rank": 43,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 58592,
+      "num": 58592,
+      "word": "官方通报考编第一被判定不合格",
+      "onboard_time": 1764804018,
+      "rank": 30,
+      "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 56848,
+      "num": 89046,
+      "word": "张本智和赢球庆祝动作",
+      "onboard_time": 1764804078,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 56389,
@@ -395,12 +467,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 54139,
-      "num": 54139,
-      "word": "大生意人 搞笑",
-      "onboard_time": 1764797173,
-      "rank": 30,
-      "category": "剧集"
+      "raw_hot": 53596,
+      "num": 53596,
+      "word": "肖战第二部预售破亿的电影",
+      "onboard_time": 1764804138,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 51908,
@@ -427,12 +499,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 44900,
-      "num": 44900,
-      "word": "印度幽灵飞机停在机场13年后被发现",
-      "onboard_time": 1764765201,
+      "raw_hot": 43198,
+      "num": 46194,
+      "word": "欧美女明星的嘬腮审美",
+      "onboard_time": 1764771623,
       "rank": 40,
-      "category": "海外新闻"
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 40776,
+      "num": 46161,
+      "word": "胡歌李沁收山开机",
+      "onboard_time": 1764803657,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 40276,
@@ -467,28 +547,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 30501,
-      "num": 36499,
-      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
-      "onboard_time": 1764787035,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 28504,
-      "num": 36470,
+      "raw_hot": 32790,
+      "num": 46024,
       "word": "黄子韬徐艺洋挽手下飞机",
       "onboard_time": 1764786555,
       "rank": 41,
       "category": "艺人"
     },
     {
-      "raw_hot": 28202,
-      "num": 42727,
-      "word": "李纯超绝不经意展示婚戒",
-      "onboard_time": 1764770062,
-      "rank": 43,
-      "category": "艺人"
+      "raw_hot": 30012,
+      "num": 46000,
+      "word": "网络名人账号违法违规行为被查",
+      "onboard_time": 1764747740,
+      "rank": 48,
+      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 27817,
@@ -505,30 +577,6 @@
       "onboard_time": 1764783495,
       "rank": 47,
       "category": "电影"
-    },
-    {
-      "raw_hot": 24303,
-      "num": 40106,
-      "word": "网络名人账号违法违规行为被查",
-      "onboard_time": 1764747740,
-      "rank": 48,
-      "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 22469,
-      "num": 36443,
-      "word": "欧美女明星的嘬腮审美",
-      "onboard_time": 1764771623,
-      "rank": 40,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 21239,
-      "num": 29888,
-      "word": "韩雨彤曾辉去阿那亚了",
-      "onboard_time": 1764801256,
-      "rank": 40,
-      "category": "艺人"
     },
     {
       "raw_hot": 12153,
