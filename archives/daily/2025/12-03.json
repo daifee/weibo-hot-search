@@ -1,10 +1,10 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764733196532,
+  "endTime": 1764736577083,
   "band_list": [
     {
       "raw_hot": 1763620,
-      "num": 243295,
+      "num": 258181,
       "word": "胡歌首谈二胎儿子",
       "onboard_time": 1764731061,
       "rank": 21,
@@ -16,6 +16,14 @@
       "word": "吉林松原发生恶性案件",
       "onboard_time": 1764723621,
       "rank": 10,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1134917,
+      "num": 1181586,
+      "word": "朱雀三号",
+      "onboard_time": 1764732501,
+      "rank": 25,
       "category": "民生新闻"
     },
     {
@@ -33,6 +41,14 @@
       "onboard_time": 1764686424,
       "rank": 10,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 871199,
+      "num": 871199,
+      "word": "朱雀三号直播",
+      "onboard_time": 1764733764,
+      "rank": 5,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 724963,
@@ -83,6 +99,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 600877,
+      "num": 190260,
+      "word": "胡歌二胎 时间",
+      "onboard_time": 1764733583,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 559414,
       "num": 485198,
       "word": "原来洗澡是重启人生的最小单位",
@@ -100,7 +124,7 @@
     },
     {
       "raw_hot": 509901,
-      "num": 307266,
+      "num": 686070,
       "word": "日本被曝昼夜赶建军事基地",
       "onboard_time": 1764729860,
       "rank": 5,
@@ -115,8 +139,16 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 491016,
+      "num": 491016,
+      "word": "怎么到了研究生就没人逃课了",
+      "onboard_time": 1764732441,
+      "rank": 17,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 483624,
-      "num": 339776,
+      "num": 1021026,
       "word": "嫁金钗",
       "onboard_time": 1764729261,
       "rank": 3,
@@ -137,6 +169,14 @@
       "onboard_time": 1764722541,
       "rank": 13,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 429434,
+      "num": 429434,
+      "word": "朱雀三号首飞",
+      "onboard_time": 1764736162,
+      "rank": 13,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 420610,
@@ -164,7 +204,7 @@
     },
     {
       "raw_hot": 390979,
-      "num": 295862,
+      "num": 630397,
       "word": "柬埔寨免签",
       "onboard_time": 1764731542,
       "rank": 15,
@@ -179,12 +219,44 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 378477,
+      "num": 257931,
+      "word": "中越情侣开色情餐厅获利24亿越南盾",
+      "onboard_time": 1764733283,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 368323,
+      "num": 368323,
+      "word": "排骨但是苹果味",
+      "onboard_time": 1764734303,
+      "rank": 14,
+      "category": "美食"
+    },
+    {
       "raw_hot": 364824,
-      "num": 982152,
+      "num": 1170571,
       "word": "特斯拉发布人形机器人跑步视频",
       "onboard_time": 1764728181,
       "rank": 1,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 350263,
+      "num": 350263,
+      "word": "和大冰连麦过的粉丝现状",
+      "onboard_time": 1764733102,
+      "rank": 41,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 326274,
+      "num": 326274,
+      "word": "王俊凯话剧抢票",
+      "onboard_time": 1764735681,
+      "rank": 16,
+      "category": "演出"
     },
     {
       "raw_hot": 313671,
@@ -201,6 +273,14 @@
       "onboard_time": 1764723621,
       "rank": 8,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 280680,
+      "num": 926059,
+      "word": "LCK引入教练语音机制",
+      "onboard_time": 1764735623,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 277203,
@@ -307,6 +387,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 214676,
+      "num": 214676,
+      "word": "陈梦表彰大会站C位",
+      "onboard_time": 1764735082,
+      "rank": 23,
+      "category": "体育"
+    },
+    {
       "raw_hot": 211613,
       "num": 694490,
       "word": "朱亚文 配角",
@@ -323,12 +411,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 203704,
-      "num": 203704,
-      "word": "怎么到了研究生就没人逃课了",
-      "onboard_time": 1764732441,
-      "rank": 17,
-      "category": "幽默"
+      "raw_hot": 208327,
+      "num": 208327,
+      "word": "冯蜜当地枭一天要穿800套",
+      "onboard_time": 1764733223,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 201531,
@@ -353,6 +441,14 @@
       "onboard_time": 1764732742,
       "rank": 9,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 185511,
+      "num": 185511,
+      "word": "香港发生一起谋杀纵火案",
+      "onboard_time": 1764733881,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 181001,
@@ -387,12 +483,12 @@
       "category": "综艺,艺人"
     },
     {
-      "raw_hot": 170436,
-      "num": 170436,
-      "word": "朱雀三号",
-      "onboard_time": 1764732501,
-      "rank": 25,
-      "category": "民生新闻"
+      "raw_hot": 172133,
+      "num": 172133,
+      "word": "嫁金钗男主",
+      "onboard_time": 1764732083,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 167371,
@@ -409,6 +505,14 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 166642,
+      "num": 161612,
+      "word": "韩国发现半身被埋地中的死亡小猫",
+      "onboard_time": 1764734784,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 166570,
@@ -451,6 +555,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 157978,
+      "num": 157978,
+      "word": "嫁金钗官宣了田曦薇",
+      "onboard_time": 1764733641,
+      "rank": 32,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156311,
       "num": 156311,
       "word": "关晓彤又有新身份了",
@@ -467,12 +579,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 144317,
+      "num": 144317,
+      "word": "28岁妈妈和3岁女儿失联1个月",
+      "onboard_time": 1764733283,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 143421,
       "num": 143421,
       "word": "网友调侃蛇盖瑞火了才看清楚脸",
       "onboard_time": 1764727160,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142583,
+      "num": 142583,
+      "word": "全球公认5个有效抗衰老动作",
+      "onboard_time": 1764734362,
+      "rank": 35,
+      "category": "运动健身"
     },
     {
       "raw_hot": 140738,
@@ -563,6 +691,22 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 117786,
+      "num": 117786,
+      "word": "虚假的路怒症vs真正的路怒症",
+      "onboard_time": 1764736404,
+      "rank": 37,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 117366,
+      "num": 117366,
+      "word": "猫 可显着你爱干净了",
+      "onboard_time": 1764733943,
+      "rank": 38,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117275,
       "num": 117275,
       "word": "这5秒堪比滴血认亲",
@@ -580,7 +724,7 @@
     },
     {
       "raw_hot": 117146,
-      "num": 201666,
+      "num": 289147,
       "word": "吃爆脆星星堡真的能看到星星",
       "onboard_time": 1764732802,
       "rank": 19,
@@ -609,6 +753,22 @@
       "onboard_time": 1764725421,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113669,
+      "num": 113669,
+      "word": "小猫智商不详但臂力惊人",
+      "onboard_time": 1764735384,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 113580,
+      "num": 113580,
+      "word": "工行三年期大额存单门槛100万",
+      "onboard_time": 1764735984,
+      "rank": 41,
+      "category": "财经"
     },
     {
       "raw_hot": 113004,
@@ -659,12 +819,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 106691,
-      "num": 106691,
-      "word": "和大冰连麦过的粉丝现状",
-      "onboard_time": 1764733102,
-      "rank": 41,
-      "category": "网红"
+      "raw_hot": 106624,
+      "num": 106624,
+      "word": "田曦薇新剧",
+      "onboard_time": 1764735323,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 106162,
@@ -699,6 +859,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 100404,
+      "num": 100404,
+      "word": "刘诗诗配音",
+      "onboard_time": 1764733881,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99871,
       "num": 766097,
       "word": "Uzi邀请Wayward试训",
@@ -713,6 +881,14 @@
       "onboard_time": 1764682883,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 99115,
+      "num": 99115,
+      "word": "眼镜布不是用来擦眼镜的",
+      "onboard_time": 1764736522,
+      "rank": 49,
+      "category": "科学科普"
     },
     {
       "raw_hot": 97718,
@@ -745,6 +921,22 @@
       "onboard_time": 1764728240,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 93547,
+      "num": 108479,
+      "word": "安徽文旅让朱亚文别打合肥了",
+      "onboard_time": 1764735082,
+      "rank": 44,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 90496,
+      "num": 285487,
+      "word": "高市早苗老家奈良凉了",
+      "onboard_time": 1764735623,
+      "rank": 18,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 90188,
@@ -1155,6 +1347,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33516,
+      "num": 285318,
+      "word": "上海绿捷公司将注销",
+      "onboard_time": 1764736162,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 32489,
       "num": 108348,
       "word": "孙颖莎小脚一搭笑盈盈",
@@ -1203,6 +1403,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 22802,
+      "num": 1031443,
+      "word": "理解尊重关心帮助残疾人朋友",
+      "onboard_time": 1764736522,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 19653,
       "num": 78631,
       "word": "2025斯诺克英锦赛",
@@ -1246,6 +1454,9 @@
   "hotgov_list": [
     {
       "word": "#营造风清气正的网络空间#"
+    },
+    {
+      "word": "#总书记对残疾人的深情牵挂#"
     }
   ]
 }

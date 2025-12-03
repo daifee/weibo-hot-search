@@ -1,0 +1,410 @@
+{
+  "runTime": 1764736577083,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1134917,
+        "num": 1181586,
+        "word": "朱雀三号",
+        "onboard_time": 1764732501,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 216916,
+        "num": 1170571,
+        "word": "特斯拉发布人形机器人跑步视频",
+        "onboard_time": 1764728181,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 22802,
+        "num": 1031443,
+        "word": "理解尊重关心帮助残疾人朋友",
+        "onboard_time": 1764736522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283182,
+        "num": 1021026,
+        "word": "嫁金钗",
+        "onboard_time": 1764729261,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 280680,
+        "num": 926059,
+        "word": "LCK引入教练语音机制",
+        "onboard_time": 1764735623,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 871199,
+        "num": 871199,
+        "word": "朱雀三号直播",
+        "onboard_time": 1764733764,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 700025,
+        "num": 700025,
+        "word": "日本投降书明确台湾归还中国",
+        "onboard_time": 1764728061,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 410507,
+        "num": 686070,
+        "word": "日本被曝昼夜赶建军事基地",
+        "onboard_time": 1764729860,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 238534,
+        "num": 630397,
+        "word": "柬埔寨免签",
+        "onboard_time": 1764731542,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205530,
+        "num": 545330,
+        "word": "香奈儿大秀",
+        "onboard_time": 1764725961,
+        "rank": 9,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 30599,
+        "num": 530183,
+        "word": "今年甲流常见问题看这里",
+        "onboard_time": 1764683124,
+        "rank": 10,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 491016,
+        "num": 491016,
+        "word": "怎么到了研究生就没人逃课了",
+        "onboard_time": 1764732441,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 237015,
+        "num": 435141,
+        "word": "中俄就涉日本问题进行战略对表",
+        "onboard_time": 1764719719,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 429434,
+        "num": 429434,
+        "word": "朱雀三号首飞",
+        "onboard_time": 1764736162,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 368323,
+        "num": 368323,
+        "word": "排骨但是苹果味",
+        "onboard_time": 1764734303,
+        "rank": 14,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 350263,
+        "num": 350263,
+        "word": "和大冰连麦过的粉丝现状",
+        "onboard_time": 1764733102,
+        "rank": 15,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 326274,
+        "num": 326274,
+        "word": "王俊凯话剧抢票",
+        "onboard_time": 1764735681,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 78419,
+        "num": 289147,
+        "word": "吃爆脆星星堡真的能看到星星",
+        "onboard_time": 1764732802,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 90496,
+        "num": 285487,
+        "word": "高市早苗老家奈良凉了",
+        "onboard_time": 1764735623,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33516,
+        "num": 285318,
+        "word": "上海绿捷公司将注销",
+        "onboard_time": 1764736162,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 285250,
+        "num": 285250,
+        "word": "日本战争准备曝光",
+        "onboard_time": 1764686424,
+        "rank": 20,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1467377,
+        "num": 258181,
+        "word": "胡歌首谈二胎儿子",
+        "onboard_time": 1764731061,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 378477,
+        "num": 257931,
+        "word": "中越情侣开色情餐厅获利24亿越南盾",
+        "onboard_time": 1764733283,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 214676,
+        "num": 214676,
+        "word": "陈梦表彰大会站C位",
+        "onboard_time": 1764735082,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 208327,
+        "num": 208327,
+        "word": "冯蜜当地枭一天要穿800套",
+        "onboard_time": 1764733223,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 194404,
+        "num": 194404,
+        "word": "顾客取消订单商家让骑手当晚餐吃",
+        "onboard_time": 1764721883,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 600877,
+        "num": 190260,
+        "word": "胡歌二胎 时间",
+        "onboard_time": 1764733583,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 185511,
+        "num": 185511,
+        "word": "香港发生一起谋杀纵火案",
+        "onboard_time": 1764733881,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 172133,
+        "num": 172133,
+        "word": "嫁金钗男主",
+        "onboard_time": 1764732083,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 164838,
+        "num": 164838,
+        "word": "国色芳华云合",
+        "onboard_time": 1764731901,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166642,
+        "num": 161612,
+        "word": "韩国发现半身被埋地中的死亡小猫",
+        "onboard_time": 1764734784,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 158122,
+        "num": 158122,
+        "word": "谁家夫妻上综艺相亲啊",
+        "onboard_time": 1764732742,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157978,
+        "num": 157978,
+        "word": "嫁金钗官宣了田曦薇",
+        "onboard_time": 1764733641,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156396,
+        "num": 156396,
+        "word": "特朗普宣布拜登时期文件全部作废",
+        "onboard_time": 1764723861,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 144317,
+        "num": 144317,
+        "word": "28岁妈妈和3岁女儿失联1个月",
+        "onboard_time": 1764733283,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 142583,
+        "num": 142583,
+        "word": "全球公认5个有效抗衰老动作",
+        "onboard_time": 1764734362,
+        "rank": 35,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 122080,
+        "num": 122080,
+        "word": "王一博辛芷蕾聊啥呢",
+        "onboard_time": 1764729081,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117786,
+        "num": 117786,
+        "word": "虚假的路怒症vs真正的路怒症",
+        "onboard_time": 1764736404,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 117366,
+        "num": 117366,
+        "word": "猫 可显着你爱干净了",
+        "onboard_time": 1764733943,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 116544,
+        "num": 116544,
+        "word": "12306回应取消靠窗选座",
+        "onboard_time": 1764680483,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 113669,
+        "num": 113669,
+        "word": "小猫智商不详但臂力惊人",
+        "onboard_time": 1764735384,
+        "rank": 40,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 113580,
+        "num": 113580,
+        "word": "工行三年期大额存单门槛100万",
+        "onboard_time": 1764735984,
+        "rank": 41,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 112924,
+        "num": 112924,
+        "word": "电动车新国标",
+        "onboard_time": 1764727700,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109247,
+        "num": 109247,
+        "word": "阳光信用",
+        "onboard_time": 1764732742,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 93547,
+        "num": 108479,
+        "word": "安徽文旅让朱亚文别打合肥了",
+        "onboard_time": 1764735082,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108193,
+        "num": 108193,
+        "word": "骄阳似我",
+        "onboard_time": 1764729381,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106624,
+        "num": 106624,
+        "word": "田曦薇新剧",
+        "onboard_time": 1764735323,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 103429,
+        "num": 103429,
+        "word": "国台办回应台湾对螺蛳粉下手",
+        "onboard_time": 1764733042,
+        "rank": 47,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 100404,
+        "num": 100404,
+        "word": "刘诗诗配音",
+        "onboard_time": 1764733881,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99115,
+        "num": 99115,
+        "word": "眼镜布不是用来擦眼镜的",
+        "onboard_time": 1764736522,
+        "rank": 49,
+        "category": "科学科普"
+      }
+    ],
+    "hotgov": {
+      "word": "#总书记对残疾人的深情牵挂#"
+    }
+  }
+}
