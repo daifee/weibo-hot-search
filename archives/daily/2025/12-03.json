@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764739677149,
+  "endTime": 1764740683299,
   "band_list": [
     {
       "raw_hot": 1763620,
@@ -131,6 +131,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 536655,
+      "num": 536655,
+      "word": "马航MH370已失踪11年",
+      "onboard_time": 1764738622,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 523673,
       "num": 612266,
       "word": "电动车新国标",
@@ -235,6 +243,14 @@
       "category": "时尚,作品衍生"
     },
     {
+      "raw_hot": 379561,
+      "num": 379561,
+      "word": "尼克朱迪年龄差",
+      "onboard_time": 1764736644,
+      "rank": 23,
+      "category": "电影"
+    },
+    {
       "raw_hot": 378477,
       "num": 257931,
       "word": "中越情侣开色情餐厅获利24亿越南盾",
@@ -244,7 +260,7 @@
     },
     {
       "raw_hot": 377026,
-      "num": 377026,
+      "num": 507859,
       "word": "高市早苗老家奈良凉了",
       "onboard_time": 1764735623,
       "rank": 18,
@@ -275,12 +291,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 341820,
-      "num": 341819,
-      "word": "尼克朱迪年龄差",
-      "onboard_time": 1764736644,
+      "raw_hot": 331625,
+      "num": 331625,
+      "word": "双轨北美播出",
+      "onboard_time": 1764739041,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 326279,
+      "num": 176515,
+      "word": "小明剑魔结婚",
+      "onboard_time": 1764738802,
       "rank": 23,
-      "category": "电影"
+      "category": "电竞"
     },
     {
       "raw_hot": 326274,
@@ -339,6 +363,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 264287,
+      "num": 441338,
+      "word": "工行三年期大额存单门槛100万",
+      "onboard_time": 1764735984,
+      "rank": 41,
+      "category": "财经"
+    },
+    {
       "raw_hot": 256861,
       "num": 256861,
       "word": "印尼洪灾已致753人死亡",
@@ -395,14 +427,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 230788,
-      "num": 176515,
-      "word": "小明剑魔结婚",
-      "onboard_time": 1764738802,
-      "rank": 23,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 222960,
       "num": 211998,
       "word": "难怪我妈说我小时候电视瘾很大",
@@ -419,6 +443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 218863,
+      "num": 218863,
+      "word": "迪丽热巴剪到手那段播了",
+      "onboard_time": 1764737483,
+      "rank": 16,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 217339,
       "num": 699758,
       "word": "台湾一旦沦为战场什么都是空谈",
@@ -433,14 +465,6 @@
       "onboard_time": 1764735082,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214419,
-      "num": 214419,
-      "word": "马航MH370已失踪11年",
-      "onboard_time": 1764738622,
-      "rank": 14,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 212491,
@@ -467,19 +491,19 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 208823,
+      "num": 542797,
+      "word": "王楚钦孙颖莎vs克罗地亚组合",
+      "onboard_time": 1764739581,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 208327,
       "num": 208327,
       "word": "冯蜜当地枭一天要穿800套",
       "onboard_time": 1764733223,
       "rank": 24,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 206304,
-      "num": 206304,
-      "word": "双轨北美播出",
-      "onboard_time": 1764739041,
-      "rank": 15,
       "category": "剧集"
     },
     {
@@ -489,14 +513,6 @@
       "onboard_time": 1764732742,
       "rank": 22,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 201227,
-      "num": 201227,
-      "word": "迪丽热巴剪到手那段播了",
-      "onboard_time": 1764737483,
-      "rank": 16,
-      "category": "剧集"
     },
     {
       "raw_hot": 200578,
@@ -515,12 +531,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 192470,
-      "num": 341858,
-      "word": "工行三年期大额存单门槛100万",
-      "onboard_time": 1764735984,
-      "rank": 41,
-      "category": "财经"
+      "raw_hot": 187581,
+      "num": 187581,
+      "word": "罗云熙四大平台作品集均",
+      "onboard_time": 1764740601,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 185511,
@@ -579,6 +595,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 171601,
+      "num": 161612,
+      "word": "韩国发现半身被埋地中的死亡小猫",
+      "onboard_time": 1764734784,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171019,
+      "num": 171019,
+      "word": "2025超话大赏投票",
+      "onboard_time": 1764740061,
+      "rank": 16,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 169015,
       "num": 169015,
       "word": "虚假的路怒症vs真正的路怒症",
@@ -601,14 +633,6 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 166642,
-      "num": 161612,
-      "word": "韩国发现半身被埋地中的死亡小猫",
-      "onboard_time": 1764734784,
-      "rank": 30,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 166570,
@@ -681,6 +705,14 @@
       "onboard_time": 1764724161,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 153640,
+      "num": 153640,
+      "word": "第二杯半价不是一个人喝两杯",
+      "onboard_time": 1764737783,
+      "rank": 36,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 150353,
@@ -763,6 +795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125975,
+      "num": 125975,
+      "word": "原来医生说的吃药时间是这个意思",
+      "onboard_time": 1764738862,
+      "rank": 41,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 125895,
       "num": 125895,
       "word": "星光大赏公式照",
@@ -803,12 +843,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 121617,
-      "num": 121617,
-      "word": "王楚钦孙颖莎vs克罗地亚组合",
-      "onboard_time": 1764739581,
-      "rank": 35,
-      "category": "体育"
+      "raw_hot": 121902,
+      "num": 121902,
+      "word": "T1官宣两位选手上调",
+      "onboard_time": 1764740420,
+      "rank": 33,
+      "category": "电竞"
     },
     {
       "raw_hot": 120963,
@@ -825,14 +865,6 @@
       "onboard_time": 1764721401,
       "rank": 27,
       "category": "游戏,网红"
-    },
-    {
-      "raw_hot": 117443,
-      "num": 117443,
-      "word": "第二杯半价不是一个人喝两杯",
-      "onboard_time": 1764737783,
-      "rank": 36,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 117366,
@@ -865,6 +897,14 @@
       "onboard_time": 1764732802,
       "rank": 19,
       "category": "美食"
+    },
+    {
+      "raw_hot": 116114,
+      "num": 116114,
+      "word": "2025挑战者杯定妆照",
+      "onboard_time": 1764740482,
+      "rank": 36,
+      "category": "电竞"
     },
     {
       "raw_hot": 114939,
@@ -963,6 +1003,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 106604,
+      "num": 101613,
+      "word": "建议复查时非必要不要做CT",
+      "onboard_time": 1764737302,
+      "rank": 48,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 106162,
       "num": 106162,
       "word": "王一博追星运",
@@ -1003,28 +1051,20 @@
       "category": "财经,数码"
     },
     {
-      "raw_hot": 102614,
-      "num": 102614,
-      "word": "原来医生说的吃药时间是这个意思",
-      "onboard_time": 1764738862,
-      "rank": 41,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 101487,
-      "num": 101487,
-      "word": "建议复查时非必要不要做CT",
-      "onboard_time": 1764737302,
-      "rank": 48,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 100996,
       "num": 100996,
       "word": "开心果老冒充抹茶",
       "onboard_time": 1764737362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100605,
+      "num": 1183542,
+      "word": "东北大冰箱营业了",
+      "onboard_time": 1764724041,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 100404,
@@ -1075,16 +1115,8 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 95477,
-      "num": 1183542,
-      "word": "东北大冰箱营业了",
-      "onboard_time": 1764724041,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94213,
-      "num": 94213,
+      "raw_hot": 95448,
+      "num": 95448,
       "word": "白鹿孟子义谁的副驾更需要买保险",
       "onboard_time": 1764738142,
       "rank": 45,
@@ -1097,6 +1129,14 @@
       "onboard_time": 1764728240,
       "rank": 40,
       "category": "旅游"
+    },
+    {
+      "raw_hot": 93643,
+      "num": 93643,
+      "word": "沈月试戴假刘海",
+      "onboard_time": 1764740601,
+      "rank": 46,
+      "category": "艺人"
     },
     {
       "raw_hot": 90188,
@@ -1129,6 +1169,14 @@
       "onboard_time": 1764729321,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 86104,
+      "num": 113040,
+      "word": "华裔奶奶遭美国小伙毒打致死",
+      "onboard_time": 1764739640,
+      "rank": 43,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 86009,
@@ -1379,6 +1427,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 59506,
+      "num": 112870,
+      "word": "县城贵妇的婚姻围城",
+      "onboard_time": 1764740181,
+      "rank": 39,
+      "category": "议题讨论"
+    },
+    {
       "raw_hot": 59126,
       "num": 65571,
       "word": "陈哲远马来西亚公主合照",
@@ -1435,12 +1491,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 52727,
-      "num": 94808,
-      "word": "华裔奶奶遭美国小伙毒打致死",
-      "onboard_time": 1764739640,
-      "rank": 43,
-      "category": "海外新闻"
+      "raw_hot": 52941,
+      "num": 193128,
+      "word": "欧米茄橙席卷重庆",
+      "onboard_time": 1764738682,
+      "rank": 17,
+      "category": "时尚"
     },
     {
       "raw_hot": 52358,
@@ -1499,14 +1555,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 44933,
-      "num": 193128,
-      "word": "欧米茄橙席卷重庆",
-      "onboard_time": 1764738682,
-      "rank": 17,
-      "category": "时尚"
-    },
-    {
       "raw_hot": 43087,
       "num": 104370,
       "word": "日本将开展鱼鹰运输机夜间训练",
@@ -1529,6 +1577,14 @@
       "onboard_time": 1764714255,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 42128,
+      "num": 113565,
+      "word": "流浪地球科幻名场面要成真了",
+      "onboard_time": 1764739821,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 41042,
@@ -1595,6 +1651,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 27751,
+      "num": 178518,
+      "word": "黄牛开价百元代抢离婚预约号",
+      "onboard_time": 1764739342,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25551,
       "num": 65536,
       "word": "索尼A7M5正式发布",
@@ -1657,14 +1721,6 @@
       "onboard_time": 1764698235,
       "rank": 49,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 11468,
-      "num": 178518,
-      "word": "黄牛开价百元代抢离婚预约号",
-      "onboard_time": 1764739342,
-      "rank": 22,
-      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
