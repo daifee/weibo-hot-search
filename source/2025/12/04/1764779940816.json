@@ -1,0 +1,410 @@
+{
+  "runTime": 1764779940816,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 514082,
+        "num": 790655,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 69420,
+        "num": 497538,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 39230,
+        "num": 334399,
+        "word": "冻伤要到烧伤科就诊",
+        "onboard_time": 1764760341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 272542,
+        "num": 272542,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176397,
+        "num": 176397,
+        "word": "洛克王国",
+        "onboard_time": 1764765561,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 401305,
+        "num": 166282,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284675,
+        "num": 164342,
+        "word": "武汉警方通报男子持刀伤人致死",
+        "onboard_time": 1764774801,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 248523,
+        "num": 164087,
+        "word": "侯鸿亮啥也不说了给大家鞠一躬",
+        "onboard_time": 1764772343,
+        "rank": 7,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 147000,
+        "num": 147000,
+        "word": "为你钟情",
+        "onboard_time": 1764779777,
+        "rank": 8,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105445,
+        "num": 146942,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 524971,
+        "num": 146495,
+        "word": "高市早苗终于不嘴硬了",
+        "onboard_time": 1764761841,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 352197,
+        "num": 145859,
+        "word": "入殓师称同事服务猝死老人被托梦质问",
+        "onboard_time": 1764774383,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 177302,
+        "num": 145455,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 150916,
+        "num": 145244,
+        "word": "李飞的早餐",
+        "onboard_time": 1764766163,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144990,
+        "num": 144990,
+        "word": "日本被曝迈向全领域作战",
+        "onboard_time": 1764770724,
+        "rank": 14,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 145501,
+        "num": 144017,
+        "word": "幼儿园15天虐童上千次案最新进展",
+        "onboard_time": 1764773242,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137095,
+        "num": 137095,
+        "word": "谍报上不封顶",
+        "onboard_time": 1764774922,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 130149,
+        "num": 130149,
+        "word": "大学生真正的床上五件套",
+        "onboard_time": 1764766580,
+        "rank": 17,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 121762,
+        "num": 121762,
+        "word": "张杰没有一条微博是白发的",
+        "onboard_time": 1764766103,
+        "rank": 18,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104849,
+        "num": 104849,
+        "word": "新国标电动车引民生痛点",
+        "onboard_time": 1764766280,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 606778,
+        "num": 104846,
+        "word": "张雪峰被停播如此肇事忒低级",
+        "onboard_time": 1764774622,
+        "rank": 20,
+        "category": "民生新闻,教育"
+      },
+      {
+        "raw_hot": 190475,
+        "num": 104517,
+        "word": "美国已全面禁止12个国家旅客入境",
+        "onboard_time": 1764771803,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 129665,
+        "num": 104382,
+        "word": "胎儿竟在妈妈的肝脏上安了家",
+        "onboard_time": 1764770662,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128413,
+        "num": 104166,
+        "word": "万妮达演唱会偶遇李嘉格和新男友",
+        "onboard_time": 1764771503,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 104022,
+        "num": 104022,
+        "word": "正片观众 切片观众",
+        "onboard_time": 1764775941,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 95260,
+        "num": 95260,
+        "word": "刘萧旭坐硬卧",
+        "onboard_time": 1764775160,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86673,
+        "num": 86673,
+        "word": "郭宇欣21年中戏毕业照",
+        "onboard_time": 1764778399,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 81916,
+        "num": 81916,
+        "word": "枭起青壤 全员科班",
+        "onboard_time": 1764774801,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81547,
+        "num": 81547,
+        "word": "老师发来100多页PDF要求打印",
+        "onboard_time": 1764774443,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71937,
+        "num": 78485,
+        "word": "罗大美遇害29个月还未下葬",
+        "onboard_time": 1764776841,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78332,
+        "num": 78332,
+        "word": "李晟拍的江一燕",
+        "onboard_time": 1764777380,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 76185,
+        "num": 76185,
+        "word": "李嘉格捂嘴偷笑",
+        "onboard_time": 1764768562,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 73960,
+        "num": 73960,
+        "word": "李昀锐路透造型被识别成AI了",
+        "onboard_time": 1764776361,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 71610,
+        "num": 71610,
+        "word": "年度十大角色cp超话",
+        "onboard_time": 1764769523,
+        "rank": 33,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 68999,
+        "num": 68999,
+        "word": "丁程鑫 丝袜很正式",
+        "onboard_time": 1764766701,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 68584,
+        "num": 68584,
+        "word": "易烊千玺曾为拍好小小的我关节变形",
+        "onboard_time": 1764777919,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 66585,
+        "num": 66585,
+        "word": "性格好的人往往脑子也好使",
+        "onboard_time": 1764774622,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 65586,
+        "num": 65586,
+        "word": "张艺兴七项提名",
+        "onboard_time": 1764775881,
+        "rank": 37,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 64781,
+        "num": 64781,
+        "word": "金建希出庭受审被搀扶着走入法庭",
+        "onboard_time": 1764778040,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 32968,
+        "num": 63705,
+        "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
+        "onboard_time": 1764779239,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63479,
+        "num": 63479,
+        "word": "zhuo 往日种种",
+        "onboard_time": 1764766461,
+        "rank": 40,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 62644,
+        "num": 62644,
+        "word": "业内曝中国文娱势力版图",
+        "onboard_time": 1764778940,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 59631,
+        "num": 59631,
+        "word": "枭起青壤",
+        "onboard_time": 1764757401,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 58627,
+        "num": 58627,
+        "word": "Angelababy后援会将恢复工作",
+        "onboard_time": 1764770423,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57021,
+        "num": 57021,
+        "word": "中俄达成新的共识",
+        "onboard_time": 1764779179,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 56389,
+        "num": 56389,
+        "word": "Kanavi说要整顿队内纪律",
+        "onboard_time": 1764771023,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 54971,
+        "num": 54971,
+        "word": "蔡磊已准备好尝试脑机接口",
+        "onboard_time": 1764767961,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51908,
+        "num": 54970,
+        "word": "年薪435万董事长反对自己当选董事长",
+        "onboard_time": 1764777619,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51655,
+        "num": 54968,
+        "word": "李煜东单人cha",
+        "onboard_time": 1764771562,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51039,
+        "num": 54968,
+        "word": "吴艳妮在姐姐婚礼上致辞数次落泪",
+        "onboard_time": 1764772645,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持民营企业发展并走向更加广阔舞台#"
+    }
+  }
+}
