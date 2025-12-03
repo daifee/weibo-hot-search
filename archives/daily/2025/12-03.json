@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764751088615,
+  "endTime": 1764751976031,
   "band_list": [
     {
       "raw_hot": 1763620,
@@ -43,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1354228,
+      "num": 1354228,
+      "word": "张雪峰称已经深刻反省",
+      "onboard_time": 1764749842,
+      "rank": 6,
+      "category": "民生新闻,教育"
+    },
+    {
       "raw_hot": 1073347,
       "num": 1379669,
       "word": "朱雀三号任务一级回收失败",
@@ -51,20 +59,20 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 1067508,
+      "num": 1162928,
+      "word": "特朗普点名日本",
+      "onboard_time": 1764747621,
+      "rank": 29,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 1032854,
       "num": 1165256,
       "word": "日本投降书明确台湾归还中国",
       "onboard_time": 1764728061,
       "rank": 27,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 1018304,
-      "num": 1162928,
-      "word": "特朗普点名日本",
-      "onboard_time": 1764747621,
-      "rank": 29,
-      "category": "国际时政"
     },
     {
       "raw_hot": 983316,
@@ -97,6 +105,14 @@
       "onboard_time": 1764733764,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 827809,
+      "num": 603418,
+      "word": "于正骂人秒删",
+      "onboard_time": 1764749963,
+      "rank": 12,
+      "category": "艺人"
     },
     {
       "raw_hot": 752336,
@@ -155,14 +171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 603418,
-      "num": 603418,
-      "word": "于正骂人秒删",
-      "onboard_time": 1764749963,
-      "rank": 12,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 600877,
       "num": 190260,
       "word": "胡歌二胎 时间",
@@ -177,14 +185,6 @@
       "onboard_time": 1764747442,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 592414,
-      "num": 1007627,
-      "word": "张雪峰称已经深刻反省",
-      "onboard_time": 1764749842,
-      "rank": 6,
-      "category": "民生新闻,教育"
     },
     {
       "raw_hot": 571514,
@@ -251,6 +251,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 500890,
+      "num": 280276,
+      "word": "快船裁掉保罗",
+      "onboard_time": 1764749722,
+      "rank": 16,
+      "category": "体育"
+    },
+    {
       "raw_hot": 496725,
       "num": 1079476,
       "word": "中俄就涉日本问题进行战略对表",
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 495100,
-      "num": 222005,
+      "num": 254520,
       "word": "李嘉格新男友才26岁",
       "onboard_time": 1764747982,
       "rank": 25,
@@ -315,20 +323,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423743,
+      "num": 264177,
+      "word": "怪不得车澈破防",
+      "onboard_time": 1764748223,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 420610,
       "num": 420610,
       "word": "暗访多平台销售儿童款硅胶娃娃",
       "onboard_time": 1764725360,
       "rank": 6,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 420494,
-      "num": 250628,
-      "word": "怪不得车澈破防",
-      "onboard_time": 1764748223,
-      "rank": 21,
-      "category": "艺人"
     },
     {
       "raw_hot": 409905,
@@ -401,6 +409,14 @@
       "onboard_time": 1764735623,
       "rank": 18,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 370017,
+      "num": 278648,
+      "word": "27岁瞒着所有人买了一套房",
+      "onboard_time": 1764750801,
+      "rank": 30,
+      "category": "情感"
     },
     {
       "raw_hot": 368323,
@@ -515,20 +531,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 275433,
-      "num": 275433,
-      "word": "快船裁掉保罗",
-      "onboard_time": 1764749722,
-      "rank": 16,
-      "category": "体育"
-    },
-    {
       "raw_hot": 274828,
       "num": 710210,
       "word": "普拉达正式收购范思哲",
       "onboard_time": 1764689602,
       "rank": 6,
       "category": "海外新闻,时尚"
+    },
+    {
+      "raw_hot": 266752,
+      "num": 266752,
+      "word": "疯狂动物城吃虫子的制作过程",
+      "onboard_time": 1764747740,
+      "rank": 46,
+      "category": "电影"
     },
     {
       "raw_hot": 266472,
@@ -545,14 +561,6 @@
       "onboard_time": 1764735984,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 263976,
-      "num": 263976,
-      "word": "疯狂动物城吃虫子的制作过程",
-      "onboard_time": 1764747740,
-      "rank": 46,
-      "category": "电影"
     },
     {
       "raw_hot": 256861,
@@ -609,6 +617,14 @@
       "onboard_time": 1764729081,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 238631,
+      "num": 280801,
+      "word": "原神",
+      "onboard_time": 1764751343,
+      "rank": 3,
+      "category": "游戏"
     },
     {
       "raw_hot": 233064,
@@ -803,12 +819,12 @@
       "category": "音乐"
     },
     {
-      "raw_hot": 179575,
-      "num": 161340,
-      "word": "27岁瞒着所有人买了一套房",
-      "onboard_time": 1764750801,
-      "rank": 30,
-      "category": "情感"
+      "raw_hot": 178349,
+      "num": 178349,
+      "word": "转账约饭法",
+      "onboard_time": 1764748463,
+      "rank": 28,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 177602,
@@ -923,14 +939,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 163015,
-      "num": 163015,
-      "word": "转账约饭法",
-      "onboard_time": 1764748463,
-      "rank": 28,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 162119,
       "num": 393502,
       "word": "电影得闲谨制郑重声明",
@@ -947,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 160099,
+      "num": 160099,
+      "word": "陈星旭让我改掉了心疼男二的习惯",
+      "onboard_time": 1764751881,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 158859,
       "num": 158859,
       "word": "马来西亚重启MH370深海搜寻",
@@ -961,6 +977,14 @@
       "onboard_time": 1764731421,
       "rank": 28,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 158017,
+      "num": 158017,
+      "word": "三甲医生回应女子痔疮手术后自杀",
+      "onboard_time": 1764750801,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 157978,
@@ -1115,12 +1139,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 129744,
-      "num": 129744,
-      "word": "三甲医生回应女子痔疮手术后自杀",
-      "onboard_time": 1764750801,
-      "rank": 36,
-      "category": "民生新闻"
+      "raw_hot": 131920,
+      "num": 159128,
+      "word": "快船让保罗深夜回家",
+      "onboard_time": 1764751223,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 127456,
@@ -1128,6 +1152,14 @@
       "word": "张雪峰说已经深刻反省",
       "onboard_time": 1764750681,
       "rank": 37,
+      "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 126952,
+      "num": 279686,
+      "word": "张雪峰30天掉粉近13万",
+      "onboard_time": 1764750801,
+      "rank": 49,
       "category": "民生新闻,教育"
     },
     {
@@ -1203,12 +1235,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122233,
+      "num": 122233,
+      "word": "王梓莼说同情包洁仪但无法原谅她",
+      "onboard_time": 1764751462,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121683,
       "num": 340293,
       "word": "竞浪大会",
       "onboard_time": 1764745882,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121383,
+      "num": 121383,
+      "word": "手术前一定要多问一句",
+      "onboard_time": 1764751703,
+      "rank": 36,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 120963,
@@ -1539,6 +1587,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 97483,
+      "num": 97483,
+      "word": "被子颜色 影响睡眠质量",
+      "onboard_time": 1764751823,
+      "rank": 44,
+      "category": "健康医疗,休闲"
+    },
+    {
       "raw_hot": 96818,
       "num": 96818,
       "word": "男子回应在老君山拍到灵气护罩奇观",
@@ -1667,6 +1723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90039,
+      "num": 90039,
+      "word": "工行存100万存20万利率相同",
+      "onboard_time": 1764751761,
+      "rank": 47,
+      "category": "财经"
+    },
+    {
       "raw_hot": 88893,
       "num": 88893,
       "word": "谷爱凌卷王式休息",
@@ -1683,12 +1747,12 @@
       "category": "数码"
     },
     {
-      "raw_hot": 88689,
-      "num": 88689,
-      "word": "张雪峰30天掉粉近13万",
-      "onboard_time": 1764750801,
-      "rank": 49,
-      "category": "民生新闻,教育"
+      "raw_hot": 88176,
+      "num": 88176,
+      "word": "王楚钦回应8比0速胜",
+      "onboard_time": 1764751343,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 87558,
@@ -1905,6 +1969,14 @@
       "onboard_time": 1764698895,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70210,
+      "num": 264188,
+      "word": "博主实测千问是初中数学辅导天花板",
+      "onboard_time": 1764751101,
+      "rank": 19,
+      "category": "教育"
     },
     {
       "raw_hot": 68704,
@@ -2211,6 +2283,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 33822,
+      "num": 109777,
+      "word": "人类对欧阳娜娜的开发不足1%",
+      "onboard_time": 1764751462,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 32489,
       "num": 108348,
       "word": "孙颖莎小脚一搭笑盈盈",
@@ -2259,6 +2339,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27295,
+      "num": 263787,
+      "word": "王世坚既想蹭热度又要换选票",
+      "onboard_time": 1764750441,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 25551,
       "num": 65536,
       "word": "索尼A7M5正式发布",
@@ -2299,20 +2387,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 18213,
+      "num": 118123,
+      "word": "新加坡人仍对日占期间行为记忆深刻",
+      "onboard_time": 1764750441,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 17230,
       "num": 133781,
       "word": "新国标电动自行车能否搭载儿童",
       "onboard_time": 1764747563,
       "rank": 30,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16189,
-      "num": 263787,
-      "word": "王世坚既想蹭热度又要换选票",
-      "onboard_time": 1764750441,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 16144,
@@ -2337,14 +2425,6 @@
       "onboard_time": 1764701595,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 13297,
-      "num": 118123,
-      "word": "新加坡人仍对日占期间行为记忆深刻",
-      "onboard_time": 1764750441,
-      "rank": 38,
-      "category": "国际时政"
     },
     {
       "raw_hot": 11889,
