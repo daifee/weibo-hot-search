@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/04 00:39:00
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/04 00:54:17
 </p>
 </blockquote>
 <p>
@@ -3177,6 +3177,12 @@ Uzi上线吃瓜（热度：204513）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%A0%E9%92%9F%E6%83%85%23" target="weibo">
+为你钟情（热度：201299）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%B7%B2%E8%BF%9E%E7%BB%AD11%E4%B8%AA%E6%9C%88%E6%8D%A2%E8%87%AA%E5%8A%A8%E5%9B%9E%E5%A4%8D%23" target="weibo">
 张凌赫已连续11个月换自动回复（热度：200578）
 </a>
@@ -4577,12 +4583,6 @@ Viper回应重返LPL（热度：154360）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%AF%E7%8B%82%E5%8A%A8%E7%89%A9%E5%9F%8E%E5%BD%A9%E8%9B%8B%23" target="weibo">
 疯狂动物城彩蛋（热度：147269）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%A0%E9%92%9F%E6%83%85%23" target="weibo">
-为你钟情（热度：147000）
 </a>
 </li>
 
@@ -6519,6 +6519,12 @@ Light回应离开WBG（热度：113994）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E7%89%87%E8%A7%82%E4%BC%97%20%E5%88%87%E7%89%87%E8%A7%82%E4%BC%97%23" target="weibo">
+正片观众 切片观众（热度：109269）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E6%AD%8C%E8%AF%B4%E5%A5%B3%E5%84%BF%E4%B9%A0%E6%83%AF%E4%BA%86%E8%BF%9B%E7%BB%84%E7%9A%84%E7%94%9F%E6%B4%BB%23" target="weibo">
 胡歌说女儿习惯了进组的生活（热度：109243）
 </a>
@@ -6803,12 +6809,6 @@ Uzi排位（热度：105338）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%9912%E6%9C%883%E6%97%A5%E8%87%B35%E6%97%A5%E8%AE%BF%E5%8D%8E%23" target="weibo">
 马克龙12月3日至5日访华（热度：104623）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%AD%A3%E7%89%87%E8%A7%82%E4%BC%97%20%E5%88%87%E7%89%87%E8%A7%82%E4%BC%97%23" target="weibo">
-正片观众 切片观众（热度：104022）
 </a>
 </li>
 
@@ -8013,6 +8013,12 @@ GEN选手婚礼团建（热度：87447）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E6%9B%9D%E4%B8%AD%E5%9B%BD%E6%96%87%E5%A8%B1%E5%8A%BF%E5%8A%9B%E7%89%88%E5%9B%BE%23" target="weibo">
+业内曝中国文娱势力版图（热度：84869）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%94%B7%20%E9%92%A9%E9%92%88%E7%A4%BE%E6%88%91%E5%A7%A5%E5%84%BF%E8%92%8B%E6%98%93%23" target="weibo">
 王男 钩针社我姥儿蒋易（热度：84691）
 </a>
@@ -8475,6 +8481,12 @@ Faker采访Caps（热度：78842）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B329%E4%B8%AA%E6%9C%88%E8%BF%98%E6%9C%AA%E4%B8%8B%E8%91%AC%23" target="weibo">
+罗大美遇害29个月还未下葬（热度：75179）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E5%B0%8F%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E8%B7%B3%E9%AB%98%E8%A7%86%E9%A2%91%E7%81%AB%E4%BA%86%23" target="weibo">
 深圳小易烊千玺跳高视频火了（热度：75127）
 </a>
@@ -8591,12 +8603,6 @@ AI什么邪门CP都嗑得下（热度：74982）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E8%AE%A4%E7%9C%9F%E9%80%89%E7%8F%A0%E5%AD%90%E4%B8%B2%E6%89%8B%E4%B8%B2%23" target="weibo">
 孙颖莎认真选珠子串手串（热度：72121）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%97%E5%A4%A7%E7%BE%8E%E9%81%87%E5%AE%B329%E4%B8%AA%E6%9C%88%E8%BF%98%E6%9C%AA%E4%B8%8B%E8%91%AC%23" target="weibo">
-罗大美遇害29个月还未下葬（热度：71937）
 </a>
 </li>
 
@@ -8787,6 +8793,12 @@ U16国足5场进42球（热度：68958）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84%E5%85%B1%E8%AF%86%23" target="weibo">
+中俄达成新的共识（热度：66378）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%232026%E4%B9%92%E4%B9%93%E7%90%83%E4%BA%9A%E6%B4%B2%E6%9D%AF%E6%B5%B7%E5%8F%A3%E4%B8%BE%E5%8A%9E%23" target="weibo">
 2026乒乓球亚洲杯海口举办（热度：66357）
 </a>
@@ -8891,12 +8903,6 @@ zhe里太能装了（热度：63308）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B9%9D%E5%B0%BE%E6%84%BF%E4%B8%8D%E8%B4%9F%E6%AF%8F%E4%B8%80%E4%BB%BD%E4%BF%A1%E4%BB%BB%E4%B8%8E%E6%9C%9F%E5%BE%85%23" target="weibo">
 九尾愿不负每一份信任与期待（热度：62736）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%9A%E5%86%85%E6%9B%9D%E4%B8%AD%E5%9B%BD%E6%96%87%E5%A8%B1%E5%8A%BF%E5%8A%9B%E7%89%88%E5%9B%BE%23" target="weibo">
-业内曝中国文娱势力版图（热度：62644）
 </a>
 </li>
 
@@ -9057,12 +9063,6 @@ zhe里太能装了（热度：63308）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E4%BF%84%E8%BE%BE%E6%88%90%E6%96%B0%E7%9A%84%E5%85%B1%E8%AF%86%23" target="weibo">
-中俄达成新的共识（热度：57021）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%2312%E6%9C%88%E6%96%87%E6%A1%88%23" target="weibo">
 12月文案（热度：56986）
 </a>
@@ -9215,6 +9215,12 @@ GALA无愧于ADC之名（热度：53032）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E5%BC%98%E5%87%A1%E5%B7%AE%E7%82%B9%E5%90%AC%E6%99%95%E8%BF%87%E5%8E%BB%23" target="weibo">
 黄子弘凡差点听晕过去（热度：52921）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%8D%A2%E9%94%81%E5%A4%BA%E6%88%BF%E8%80%81%E4%BA%BA%E7%AB%8B%E9%81%97%E5%98%B1%E6%94%B9%E8%B5%A0%E5%A4%96%E5%AD%99%E5%A5%B3%23" target="weibo">
+儿子换锁夺房老人立遗嘱改赠外孙女（热度：52897）
 </a>
 </li>
 
@@ -9735,6 +9741,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BF%AB%E8%88%B9%E6%B2%A1%E6%9C%89%E9%80%80%E5%BD%B9%E7%90%83%E8%A1%A3%23" target="weibo">
+快船没有退役球衣（热度：38810）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E8%A7%86%E5%AF%9F%E7%A6%8F%E5%B2%9B%E6%A0%B8%E7%94%B5%E7%AB%99%23" target="weibo">
 高市早苗视察福岛核电站（热度：38718）
 </a>
@@ -9915,12 +9927,6 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%84%BF%E5%AD%90%E6%8D%A2%E9%94%81%E5%A4%BA%E6%88%BF%E8%80%81%E4%BA%BA%E7%AB%8B%E9%81%97%E5%98%B1%E6%94%B9%E8%B5%A0%E5%A4%96%E5%AD%99%E5%A5%B3%23" target="weibo">
-儿子换锁夺房老人立遗嘱改赠外孙女（热度：32968）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B0%8F%E8%84%9A%E4%B8%80%E6%90%AD%E7%AC%91%E7%9B%88%E7%9B%88%23" target="weibo">
 孙颖莎小脚一搭笑盈盈（热度：32489）
 </a>
@@ -10097,6 +10103,12 @@ iG众将回应输给T1（热度：29444）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E7%89%9B%E5%BC%80%E4%BB%B7%E7%99%BE%E5%85%83%E4%BB%A3%E6%8A%A2%E7%A6%BB%E5%A9%9A%E9%A2%84%E7%BA%A6%E5%8F%B7%23" target="weibo">
 黄牛开价百元代抢离婚预约号（热度：27751）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E6%A3%80%E6%96%B9%E8%A6%81%E6%B1%82%E5%88%A4%E9%87%91%E5%BB%BA%E5%B8%8C15%E5%B9%B4%E5%88%91%E6%9C%9F%23" target="weibo">
+韩检方要求判金建希15年刑期（热度：27374）
 </a>
 </li>
 

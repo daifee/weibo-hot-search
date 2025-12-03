@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764779940816,
+  "endTime": 1764780857793,
   "band_list": [
     {
       "raw_hot": 606778,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 524971,
-      "num": 146495,
+      "num": 150957,
       "word": "高市早苗终于不嘴硬了",
       "onboard_time": 1764761841,
       "rank": 10,
@@ -28,7 +28,7 @@
     },
     {
       "raw_hot": 401305,
-      "num": 166282,
+      "num": 176455,
       "word": "考编第1名却因学历重叠政审不合格",
       "onboard_time": 1764757341,
       "rank": 5,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 352197,
-      "num": 145859,
+      "num": 147401,
       "word": "入殓师称同事服务猝死老人被托梦质问",
       "onboard_time": 1764774383,
       "rank": 11,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 284675,
-      "num": 164342,
+      "num": 169556,
       "word": "武汉警方通报男子持刀伤人致死",
       "onboard_time": 1764774801,
       "rank": 6,
@@ -67,12 +67,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 201299,
+      "num": 166417,
+      "word": "为你钟情",
+      "onboard_time": 1764779777,
+      "rank": 8,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190475,
       "num": 104517,
       "word": "美国已全面禁止12个国家旅客入境",
       "onboard_time": 1764771803,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177688,
+      "num": 177688,
+      "word": "洛克王国",
+      "onboard_time": 1764765561,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 177302,
@@ -83,28 +99,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 176397,
-      "num": 176397,
-      "word": "洛克王国",
-      "onboard_time": 1764765561,
-      "rank": 4,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 150916,
       "num": 145244,
       "word": "李飞的早餐",
       "onboard_time": 1764766163,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 147000,
-      "num": 147000,
-      "word": "为你钟情",
-      "onboard_time": 1764779777,
-      "rank": 8,
-      "category": "剧集"
     },
     {
       "raw_hot": 145501,
@@ -163,8 +163,16 @@
       "category": "演出"
     },
     {
+      "raw_hot": 109269,
+      "num": 109269,
+      "word": "正片观众 切片观众",
+      "onboard_time": 1764775941,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 105445,
-      "num": 146942,
+      "num": 155030,
       "word": "原神",
       "onboard_time": 1764751343,
       "rank": 9,
@@ -177,14 +185,6 @@
       "onboard_time": 1764766280,
       "rank": 19,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 104022,
-      "num": 104022,
-      "word": "正片观众 切片观众",
-      "onboard_time": 1764775941,
-      "rank": 24,
-      "category": "剧集"
     },
     {
       "raw_hot": 95260,
@@ -200,6 +200,14 @@
       "word": "郭宇欣21年中戏毕业照",
       "onboard_time": 1764778399,
       "rank": 26,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 84869,
+      "num": 84869,
+      "word": "业内曝中国文娱势力版图",
+      "onboard_time": 1764778940,
+      "rank": 41,
       "category": "艺人"
     },
     {
@@ -235,20 +243,20 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75179,
+      "num": 78485,
+      "word": "罗大美遇害29个月还未下葬",
+      "onboard_time": 1764776841,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 73960,
       "num": 73960,
       "word": "李昀锐路透造型被识别成AI了",
       "onboard_time": 1764776361,
       "rank": 32,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 71937,
-      "num": 78485,
-      "word": "罗大美遇害29个月还未下葬",
-      "onboard_time": 1764776841,
-      "rank": 29,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 71610,
@@ -291,6 +299,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 66378,
+      "num": 66378,
+      "word": "中俄达成新的共识",
+      "onboard_time": 1764779179,
+      "rank": 44,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 65586,
       "num": 65586,
       "word": "张艺兴七项提名",
@@ -315,14 +331,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 62644,
-      "num": 62644,
-      "word": "业内曝中国文娱势力版图",
-      "onboard_time": 1764778940,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 59631,
       "num": 59631,
       "word": "枭起青壤",
@@ -332,23 +340,15 @@
     },
     {
       "raw_hot": 58627,
-      "num": 58627,
+      "num": 60913,
       "word": "Angelababy后援会将恢复工作",
       "onboard_time": 1764770423,
       "rank": 43,
       "category": "艺人"
     },
     {
-      "raw_hot": 57021,
-      "num": 57021,
-      "word": "中俄达成新的共识",
-      "onboard_time": 1764779179,
-      "rank": 44,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 56389,
-      "num": 56389,
+      "num": 60887,
       "word": "Kanavi说要整顿队内纪律",
       "onboard_time": 1764771023,
       "rank": 45,
@@ -356,15 +356,23 @@
     },
     {
       "raw_hot": 54971,
-      "num": 54971,
+      "num": 60830,
       "word": "蔡磊已准备好尝试脑机接口",
       "onboard_time": 1764767961,
       "rank": 46,
       "category": "民生新闻"
     },
     {
+      "raw_hot": 52897,
+      "num": 63705,
+      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
+      "onboard_time": 1764779239,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51908,
-      "num": 54970,
+      "num": 60882,
       "word": "年薪435万董事长反对自己当选董事长",
       "onboard_time": 1764777619,
       "rank": 47,
@@ -372,7 +380,7 @@
     },
     {
       "raw_hot": 51655,
-      "num": 54968,
+      "num": 60864,
       "word": "李煜东单人cha",
       "onboard_time": 1764771562,
       "rank": 48,
@@ -380,11 +388,19 @@
     },
     {
       "raw_hot": 51039,
-      "num": 54968,
+      "num": 60835,
       "word": "吴艳妮在姐姐婚礼上致辞数次落泪",
       "onboard_time": 1764772645,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 40276,
+      "num": 60796,
+      "word": "肖战角色包场得闲谨制",
+      "onboard_time": 1764772044,
+      "rank": 48,
+      "category": "电影"
     },
     {
       "raw_hot": 39230,
@@ -395,12 +411,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 32968,
-      "num": 63705,
-      "word": "儿子换锁夺房老人立遗嘱改赠外孙女",
-      "onboard_time": 1764779239,
+      "raw_hot": 38810,
+      "num": 60787,
+      "word": "快船没有退役球衣",
+      "onboard_time": 1764777200,
+      "rank": 49,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 27374,
+      "num": 60969,
+      "word": "韩检方要求判金建希15年刑期",
+      "onboard_time": 1764780439,
       "rank": 39,
-      "category": "民生新闻"
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
