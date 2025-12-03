@@ -1,0 +1,410 @@
+{
+  "runTime": 1764773291569,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1112011,
+        "num": 1177921,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 197528,
+        "num": 764433,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 75839,
+        "num": 625960,
+        "word": "冻伤要到烧伤科就诊",
+        "onboard_time": 1764760341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 581163,
+        "num": 581163,
+        "word": "双轨",
+        "onboard_time": 1764741200,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134866,
+        "num": 500212,
+        "word": "原神",
+        "onboard_time": 1764751343,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 834087,
+        "num": 499544,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 431969,
+        "num": 431969,
+        "word": "张杰没有一条微博是白发的",
+        "onboard_time": 1764766103,
+        "rank": 6,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 422234,
+        "num": 422234,
+        "word": "日本被曝迈向全领域作战",
+        "onboard_time": 1764770724,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 410675,
+        "num": 410675,
+        "word": "侯鸿亮啥也不说了给大家鞠一躬",
+        "onboard_time": 1764772343,
+        "rank": 8,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 114516,
+        "num": 401090,
+        "word": "洛克王国",
+        "onboard_time": 1764765561,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1070562,
+        "num": 400020,
+        "word": "高市早苗终于不嘴硬了",
+        "onboard_time": 1764761841,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 446141,
+        "num": 399885,
+        "word": "大学生真正的床上五件套",
+        "onboard_time": 1764766580,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 398622,
+        "num": 398622,
+        "word": "蔡磊已准备好尝试脑机接口",
+        "onboard_time": 1764767961,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 315750,
+        "num": 315750,
+        "word": "易烊千玺因身体原因终止原定进组安排",
+        "onboard_time": 1764753083,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 309229,
+        "num": 309229,
+        "word": "新国标电动车引民生痛点",
+        "onboard_time": 1764766280,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 282023,
+        "num": 282023,
+        "word": "李飞的早餐",
+        "onboard_time": 1764766163,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278095,
+        "num": 278095,
+        "word": "肖战角色包场得闲谨制",
+        "onboard_time": 1764772044,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 223671,
+        "num": 223671,
+        "word": "会化妆的人嘴真严啊",
+        "onboard_time": 1764762021,
+        "rank": 17,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 196042,
+        "num": 196042,
+        "word": "演员董立范已去世多年",
+        "onboard_time": 1764745760,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 193570,
+        "num": 193570,
+        "word": "李煜东单人cha",
+        "onboard_time": 1764771562,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 314791,
+        "num": 193528,
+        "word": "胎儿竟在妈妈的肝脏上安了家",
+        "onboard_time": 1764770662,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306070,
+        "num": 193066,
+        "word": "万妮达演唱会偶遇李嘉格和新男友",
+        "onboard_time": 1764771503,
+        "rank": 21,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 191445,
+        "num": 191445,
+        "word": "年度十大角色cp超话",
+        "onboard_time": 1764769523,
+        "rank": 22,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 168520,
+        "num": 168520,
+        "word": "Angelababy后援会将恢复工作",
+        "onboard_time": 1764770423,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157030,
+        "num": 157030,
+        "word": "俄罗斯数百辆保时捷疑遭卫星干扰断电",
+        "onboard_time": 1764769523,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149842,
+        "num": 149842,
+        "word": "甲流四个重症前兆症状",
+        "onboard_time": 1764771203,
+        "rank": 25,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 217795,
+        "num": 148597,
+        "word": "李嘉格捂嘴偷笑",
+        "onboard_time": 1764768562,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125077,
+        "num": 125077,
+        "word": "34岁女药品销售员陪酒后身亡",
+        "onboard_time": 1764761841,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 121927,
+        "num": 121927,
+        "word": "王赫野的车被老板送人了",
+        "onboard_time": 1764769882,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120596,
+        "num": 120596,
+        "word": "曹璐回国五年才上内娱综艺",
+        "onboard_time": 1764768262,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 305415,
+        "num": 120549,
+        "word": "美国已全面禁止12个国家旅客入境",
+        "onboard_time": 1764771803,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 142587,
+        "num": 120519,
+        "word": "我愿意为这个房子每天爬6楼",
+        "onboard_time": 1764772463,
+        "rank": 31,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 132757,
+        "num": 120495,
+        "word": "Kanavi说要整顿队内纪律",
+        "onboard_time": 1764771023,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 120459,
+        "num": 120459,
+        "word": "吴艳妮在姐姐婚礼上致辞数次落泪",
+        "onboard_time": 1764772645,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 119059,
+        "num": 119059,
+        "word": "特朗普点名日本",
+        "onboard_time": 1764747621,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 110617,
+        "num": 110617,
+        "word": "时代峰峻称北方天气不适合户外演唱会",
+        "onboard_time": 1764765261,
+        "rank": 35,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 109174,
+        "num": 109174,
+        "word": "全球不足50例的罕见肝脏妊娠",
+        "onboard_time": 1764771083,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106486,
+        "num": 106486,
+        "word": "丁程鑫 丝袜很正式",
+        "onboard_time": 1764766701,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102283,
+        "num": 102283,
+        "word": "服毒自杀店主妻子独家回应",
+        "onboard_time": 1764770782,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 67755,
+        "num": 101058,
+        "word": "幼儿园15天虐童上千次案最新进展",
+        "onboard_time": 1764773242,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100666,
+        "num": 100666,
+        "word": "欧美女明星的嘬腮审美",
+        "onboard_time": 1764771623,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97278,
+        "num": 97278,
+        "word": "李纯超绝不经意展示婚戒",
+        "onboard_time": 1764770062,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94798,
+        "num": 94798,
+        "word": "印度幽灵飞机停在机场13年后被发现",
+        "onboard_time": 1764765201,
+        "rank": 42,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 94701,
+        "num": 94701,
+        "word": "彭小苒 二开是什么意思",
+        "onboard_time": 1764768023,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92575,
+        "num": 92575,
+        "word": "枭起青壤",
+        "onboard_time": 1764757401,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87098,
+        "num": 87098,
+        "word": "德国8比5瑞典",
+        "onboard_time": 1764773001,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 86600,
+        "num": 86600,
+        "word": "黎明以前就这么站着给大家亲",
+        "onboard_time": 1764766701,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 86490,
+        "num": 86490,
+        "word": "孙颖莎王楚钦递毛巾全靠默契",
+        "onboard_time": 1764771083,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 84548,
+        "num": 86486,
+        "word": "冬灯",
+        "onboard_time": 1764772882,
+        "rank": 48,
+        "category": "休闲"
+      },
+      {
+        "raw_hot": 79904,
+        "num": 86464,
+        "word": "zhuo 往日种种",
+        "onboard_time": 1764766461,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持民营企业发展并走向更加广阔舞台#"
+    }
+  }
+}

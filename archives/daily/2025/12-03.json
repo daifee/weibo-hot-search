@@ -1,6 +1,6 @@
 {
   "startTime": 1764693516159,
-  "endTime": 1764772191241,
+  "endTime": 1764773291569,
   "band_list": [
     {
       "raw_hot": 2425379,
@@ -412,7 +412,7 @@
     },
     {
       "raw_hot": 450222,
-      "num": 225936,
+      "num": 398622,
       "word": "蔡磊已准备好尝试脑机接口",
       "onboard_time": 1764767961,
       "rank": 39,
@@ -435,6 +435,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 422234,
+      "num": 422234,
+      "word": "日本被曝迈向全领域作战",
+      "onboard_time": 1764770724,
+      "rank": 14,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 420610,
       "num": 420610,
       "word": "暗访多平台销售儿童款硅胶娃娃",
@@ -449,6 +457,14 @@
       "onboard_time": 1764751703,
       "rank": 36,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 410675,
+      "num": 410675,
+      "word": "侯鸿亮啥也不说了给大家鞠一躬",
+      "onboard_time": 1764772343,
+      "rank": 8,
+      "category": "电影"
     },
     {
       "raw_hot": 409905,
@@ -604,7 +620,7 @@
     },
     {
       "raw_hot": 332372,
-      "num": 176184,
+      "num": 193528,
       "word": "胎儿竟在妈妈的肝脏上安了家",
       "onboard_time": 1764770662,
       "rank": 20,
@@ -683,6 +699,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 306070,
+      "num": 193066,
+      "word": "万妮达演唱会偶遇李嘉格和新男友",
+      "onboard_time": 1764771503,
+      "rank": 21,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 305415,
+      "num": 120549,
+      "word": "美国已全面禁止12个国家旅客入境",
+      "onboard_time": 1764771803,
+      "rank": 40,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302285,
       "num": 302285,
       "word": "李飞的早餐",
@@ -737,6 +769,14 @@
       "onboard_time": 1764735623,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 278095,
+      "num": 278095,
+      "word": "肖战角色包场得闲谨制",
+      "onboard_time": 1764772044,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 277203,
@@ -801,14 +841,6 @@
       "onboard_time": 1764735984,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 261884,
-      "num": 175496,
-      "word": "万妮达演唱会偶遇李嘉格和新男友",
-      "onboard_time": 1764771503,
-      "rank": 21,
-      "category": "演出"
     },
     {
       "raw_hot": 256861,
@@ -1028,7 +1060,7 @@
     },
     {
       "raw_hot": 203742,
-      "num": 160078,
+      "num": 191445,
       "word": "年度十大角色cp超话",
       "onboard_time": 1764769523,
       "rank": 23,
@@ -1099,20 +1131,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 193570,
+      "num": 193570,
+      "word": "李煜东单人cha",
+      "onboard_time": 1764771562,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 193501,
       "num": 239357,
       "word": "阳光信用",
       "onboard_time": 1764732742,
       "rank": 9,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 191607,
-      "num": 191607,
-      "word": "李煜东单人cha",
-      "onboard_time": 1764771562,
-      "rank": 17,
-      "category": "艺人"
     },
     {
       "raw_hot": 190698,
@@ -1137,14 +1169,6 @@
       "onboard_time": 1764740601,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 185765,
-      "num": 185765,
-      "word": "肖战角色包场得闲谨制",
-      "onboard_time": 1764772044,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 185511,
@@ -1249,14 +1273,6 @@
       "onboard_time": 1764734784,
       "rank": 30,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 171358,
-      "num": 222673,
-      "word": "日本被曝迈向全领域作战",
-      "onboard_time": 1764770724,
-      "rank": 14,
-      "category": "国际时政"
     },
     {
       "raw_hot": 171019,
@@ -1411,6 +1427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 157030,
+      "num": 157030,
+      "word": "俄罗斯数百辆保时捷疑遭卫星干扰断电",
+      "onboard_time": 1764769523,
+      "rank": 40,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 156311,
       "num": 156311,
       "word": "关晓彤又有新身份了",
@@ -1507,20 +1531,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 145981,
-      "num": 145981,
-      "word": "俄罗斯数百辆保时捷疑遭卫星干扰断电",
-      "onboard_time": 1764769523,
-      "rank": 40,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 143421,
       "num": 143421,
       "word": "网友调侃蛇盖瑞火了才看清楚脸",
       "onboard_time": 1764727160,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 142587,
+      "num": 120519,
+      "word": "我愿意为这个房子每天爬6楼",
+      "onboard_time": 1764772463,
+      "rank": 31,
+      "category": "情感"
     },
     {
       "raw_hot": 142583,
@@ -1811,6 +1835,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 121927,
+      "num": 121927,
+      "word": "王赫野的车被老板送人了",
+      "onboard_time": 1764769882,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 121683,
       "num": 340293,
       "word": "竞浪大会",
@@ -1833,6 +1865,14 @@
       "onboard_time": 1764766701,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 120459,
+      "num": 120459,
+      "word": "吴艳妮在姐姐婚礼上致辞数次落泪",
+      "onboard_time": 1764772645,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 119732,
@@ -2043,14 +2083,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 110953,
-      "num": 110953,
-      "word": "王赫野的车被老板送人了",
-      "onboard_time": 1764769882,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 110831,
       "num": 110831,
       "word": "超小体宠物 畸形审美",
@@ -2091,6 +2123,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 109174,
+      "num": 109174,
+      "word": "全球不足50例的罕见肝脏妊娠",
+      "onboard_time": 1764771083,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 108959,
       "num": 108959,
       "word": "TF家族新年音乐会 重庆",
@@ -2113,14 +2153,6 @@
       "onboard_time": 1764736522,
       "rank": 49,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 108215,
-      "num": 108215,
-      "word": "全球不足50例的罕见肝脏妊娠",
-      "onboard_time": 1764771083,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 108021,
@@ -2259,6 +2291,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102283,
+      "num": 163978,
+      "word": "服毒自杀店主妻子独家回应",
+      "onboard_time": 1764770782,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101726,
       "num": 101726,
       "word": "最毁身体的五种生活习惯",
@@ -2281,6 +2321,14 @@
       "onboard_time": 1764737362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100666,
+      "num": 100666,
+      "word": "欧美女明星的嘬腮审美",
+      "onboard_time": 1764771623,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 100605,
@@ -2313,14 +2361,6 @@
       "onboard_time": 1764758783,
       "rank": 43,
       "category": "财经"
-    },
-    {
-      "raw_hot": 99514,
-      "num": 99514,
-      "word": "美国已全面禁止12个国家旅客入境",
-      "onboard_time": 1764771803,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 99166,
@@ -2587,14 +2627,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 89420,
-      "num": 89420,
-      "word": "欧美女明星的嘬腮审美",
-      "onboard_time": 1764771623,
-      "rank": 45,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 89063,
       "num": 89063,
       "word": "爱马仕继承人起诉LVMH集团",
@@ -2617,14 +2649,6 @@
       "onboard_time": 1764745461,
       "rank": 47,
       "category": "数码"
-    },
-    {
-      "raw_hot": 88523,
-      "num": 163978,
-      "word": "服毒自杀店主妻子独家回应",
-      "onboard_time": 1764770782,
-      "rank": 23,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 88176,
@@ -2665,6 +2689,14 @@
       "onboard_time": 1764768622,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87098,
+      "num": 87098,
+      "word": "德国8比5瑞典",
+      "onboard_time": 1764773001,
+      "rank": 45,
+      "category": "体育"
     },
     {
       "raw_hot": 86460,
@@ -2721,6 +2753,14 @@
       "onboard_time": 1764729321,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 84548,
+      "num": 86486,
+      "word": "冬灯",
+      "onboard_time": 1764772882,
+      "rank": 48,
+      "category": "休闲"
     },
     {
       "raw_hot": 83830,
@@ -2961,6 +3001,14 @@
       "onboard_time": 1764666622,
       "rank": 34,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 67755,
+      "num": 101058,
+      "word": "幼儿园15天虐童上千次案最新进展",
+      "onboard_time": 1764773242,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 67684,
