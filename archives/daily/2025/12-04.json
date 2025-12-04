@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764834155297,
+  "endTime": 1764837523990,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -27,6 +27,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 1485412,
+      "num": 318838,
+      "word": "工资到账以为是退款",
+      "onboard_time": 1764832761,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 1430186,
       "num": 1430186,
       "word": "江苏爸妈生出混血娃娃",
@@ -35,12 +43,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 1021030,
-      "num": 318838,
-      "word": "工资到账以为是退款",
-      "onboard_time": 1764832761,
-      "rank": 12,
-      "category": "幽默"
+      "raw_hot": 1259028,
+      "num": 1259028,
+      "word": "新疆地震",
+      "onboard_time": 1764834860,
+      "rank": 0,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 978675,
@@ -145,6 +153,14 @@
       "onboard_time": 1764820281,
       "rank": 13,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 616695,
+      "num": 253396,
+      "word": "婚房被改小三婴儿房",
+      "onboard_time": 1764833540,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 615868,
@@ -323,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 379361,
+      "num": 209174,
+      "word": "郑恺苗苗每月一次无娃日约会",
+      "onboard_time": 1764832520,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 340168,
       "num": 340168,
       "word": "不二之臣全阵容官宣",
@@ -361,6 +385,30 @@
       "onboard_time": 1764824781,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 328753,
+      "num": 229324,
+      "word": "男朋友的年终奖刚发就没了",
+      "onboard_time": 1764833661,
+      "rank": 37,
+      "category": "幽默,情感"
+    },
+    {
+      "raw_hot": 327749,
+      "num": 235266,
+      "word": "24岁女生咳嗽不止查出肺癌",
+      "onboard_time": 1764831921,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 326108,
+      "num": 228714,
+      "word": "青你1选手上恋综",
+      "onboard_time": 1764835461,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 321055,
@@ -499,14 +547,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 253396,
-      "num": 253396,
-      "word": "婚房被改小三婴儿房",
-      "onboard_time": 1764833540,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 248523,
       "num": 164087,
       "word": "侯鸿亮啥也不说了给大家鞠一躬",
@@ -547,12 +587,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235537,
+      "num": 235537,
+      "word": "乐视网总市值仅剩12亿",
+      "onboard_time": 1764835101,
+      "rank": 4,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 233356,
       "num": 197230,
       "word": "张檬给7个月儿子刷牙",
       "onboard_time": 1764833661,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 228020,
+      "num": 228020,
+      "word": "吉林警方通报恶性案件嫌犯被抓获",
+      "onboard_time": 1764835642,
+      "rank": 15,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 225630,
@@ -609,14 +665,6 @@
       "onboard_time": 1764824962,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 209174,
-      "num": 209174,
-      "word": "郑恺苗苗每月一次无娃日约会",
-      "onboard_time": 1764832520,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 208302,
@@ -715,14 +763,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 198923,
-      "num": 233482,
-      "word": "24岁女生咳嗽不止查出肺癌",
-      "onboard_time": 1764831921,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 195230,
       "num": 253878,
       "word": "浙江跨晚 李飞年终小考",
@@ -787,12 +827,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 185292,
+      "num": 185292,
+      "word": "新疆阿合奇6级地震",
+      "onboard_time": 1764836242,
+      "rank": 16,
+      "category": "突发/灾害"
+    },
+    {
+      "raw_hot": 184934,
+      "num": 184934,
+      "word": "惠英红爆炸头 港风放到现在也绝美",
+      "onboard_time": 1764836781,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 184639,
       "num": 142177,
       "word": "终于看到演员演生气不是大喊大叫了",
       "onboard_time": 1764824781,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 183764,
+      "num": 173041,
+      "word": "孟子义高考512分",
+      "onboard_time": 1764837141,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 183575,
@@ -851,6 +915,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 174346,
+      "num": 174346,
+      "word": "林峯你能不能体面的老去",
+      "onboard_time": 1764836062,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 170404,
       "num": 170404,
       "word": "是你吗李现",
@@ -905,6 +977,14 @@
       "onboard_time": 1764819682,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 166773,
+      "num": 136821,
+      "word": "周柯宇感谢白鹿",
+      "onboard_time": 1764836181,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 165240,
@@ -1043,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 142177,
+      "num": 172743,
+      "word": "追过折腰的在为谁折腰",
+      "onboard_time": 1764836841,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 141719,
       "num": 141719,
       "word": "澳规定平台违反社媒禁令可罚2.3亿",
@@ -1057,14 +1145,6 @@
       "onboard_time": 1764829341,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 140603,
-      "num": 140603,
-      "word": "男朋友的年终奖刚发就没了",
-      "onboard_time": 1764833661,
-      "rank": 37,
-      "category": "幽默,情感"
     },
     {
       "raw_hot": 139538,
@@ -1105,6 +1185,14 @@
       "onboard_time": 1764811999,
       "rank": 33,
       "category": "体育"
+    },
+    {
+      "raw_hot": 136878,
+      "num": 136878,
+      "word": "中方回应高市早苗最新涉台表态",
+      "onboard_time": 1764835941,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 136426,
@@ -1203,6 +1291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 130109,
+      "num": 130109,
+      "word": "上海一小区突发火灾冒出大量烟雾",
+      "onboard_time": 1764833602,
+      "rank": 42,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 129665,
       "num": 104382,
       "word": "胎儿竟在妈妈的肝脏上安了家",
@@ -1291,14 +1387,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 124029,
-      "num": 124029,
-      "word": "上海一小区突发火灾冒出大量烟雾",
-      "onboard_time": 1764833602,
-      "rank": 42,
-      "category": "突发/灾害"
-    },
-    {
       "raw_hot": 122641,
       "num": 143044,
       "word": "国乒8比0韩国",
@@ -1355,6 +1443,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 120061,
+      "num": 120061,
+      "word": "难怪有弟之姿原来是弟没死",
+      "onboard_time": 1764836481,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 119850,
+      "num": 119850,
+      "word": "有人穿带吊牌衣服上街网友称可帮剪",
+      "onboard_time": 1764834321,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119422,
       "num": 119422,
       "word": "狙击蝴蝶云包场",
@@ -1385,6 +1489,14 @@
       "onboard_time": 1764819501,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 119185,
+      "num": 119185,
+      "word": "南北方饭的区别",
+      "onboard_time": 1764835642,
+      "rank": 39,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 115476,
@@ -1459,6 +1571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 105600,
+      "num": 105600,
+      "word": "树莓晒入学通知书",
+      "onboard_time": 1764834202,
+      "rank": 42,
+      "category": "网红"
+    },
+    {
       "raw_hot": 105445,
       "num": 155030,
       "word": "原神",
@@ -1507,6 +1627,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95819,
+      "num": 95819,
+      "word": "新国标电动车能带小孩吗",
+      "onboard_time": 1764834443,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 95369,
+      "num": 95369,
+      "word": "霍建华曾把红酒泼到林心如包上",
+      "onboard_time": 1764836722,
+      "rank": 47,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 95260,
       "num": 95260,
       "word": "刘萧旭坐硬卧",
@@ -1521,6 +1657,14 @@
       "onboard_time": 1764811220,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94581,
+      "num": 94581,
+      "word": "核心机密被Scout发现了",
+      "onboard_time": 1764837201,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 91367,
@@ -1561,6 +1705,22 @@
       "onboard_time": 1764814700,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90292,
+      "num": 90292,
+      "word": "去年是高三明年是大三",
+      "onboard_time": 1764835400,
+      "rank": 49,
+      "category": "教育,幽默"
+    },
+    {
+      "raw_hot": 90181,
+      "num": 119251,
+      "word": "印度生育率下降",
+      "onboard_time": 1764836540,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89232,
@@ -2105,6 +2265,14 @@
       "onboard_time": 1764832042,
       "rank": 43,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 18853,
+      "num": 119500,
+      "word": "东部战区战机曾在远海突遇险情",
+      "onboard_time": 1764837322,
+      "rank": 37,
+      "category": "国内时政"
     },
     {
       "raw_hot": 18248,

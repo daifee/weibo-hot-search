@@ -1,0 +1,410 @@
+{
+  "runTime": 1764837523990,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1259028,
+        "num": 1259028,
+        "word": "新疆地震",
+        "onboard_time": 1764834860,
+        "rank": 0,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 271955,
+        "num": 271955,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 18642,
+        "num": 252022,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 616695,
+        "num": 243889,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 235537,
+        "num": 235537,
+        "word": "乐视网总市值仅剩12亿",
+        "onboard_time": 1764835101,
+        "rank": 4,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 327749,
+        "num": 235266,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 279221,
+        "num": 234182,
+        "word": "刘强东父母现身京东食堂做饭",
+        "onboard_time": 1764819081,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 276551,
+        "num": 231790,
+        "word": "痞幼官宣上恋综",
+        "onboard_time": 1764828801,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43953,
+        "num": 231272,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230202,
+        "num": 230202,
+        "word": "韩国标示中国台湾台当局急了",
+        "onboard_time": 1764825142,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1485412,
+        "num": 230126,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 414116,
+        "num": 229382,
+        "word": "家里供不起上班了真不是空穴来风",
+        "onboard_time": 1764831802,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 328753,
+        "num": 229324,
+        "word": "男朋友的年终奖刚发就没了",
+        "onboard_time": 1764833661,
+        "rank": 12,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 326108,
+        "num": 228714,
+        "word": "青你1选手上恋综",
+        "onboard_time": 1764835461,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230207,
+        "num": 228317,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228020,
+        "num": 228020,
+        "word": "吉林警方通报恶性案件嫌犯被抓获",
+        "onboard_time": 1764835642,
+        "rank": 15,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 185292,
+        "num": 185292,
+        "word": "新疆阿合奇6级地震",
+        "onboard_time": 1764836242,
+        "rank": 16,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 184934,
+        "num": 184934,
+        "word": "惠英红爆炸头 港风放到现在也绝美",
+        "onboard_time": 1764836781,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178660,
+        "num": 178660,
+        "word": "张子枫给谭松韵做了发圈",
+        "onboard_time": 1764829461,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 174346,
+        "num": 174346,
+        "word": "林峯你能不能体面的老去",
+        "onboard_time": 1764836062,
+        "rank": 19,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 684070,
+        "num": 174234,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 440062,
+        "num": 173951,
+        "word": "前任杨丞琳 追过张钧甯 娶了许玮甯",
+        "onboard_time": 1764832643,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 308042,
+        "num": 173571,
+        "word": "李嘉格评论区怒怼网友",
+        "onboard_time": 1764829521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 222858,
+        "num": 173352,
+        "word": "张檬给7个月儿子刷牙",
+        "onboard_time": 1764833661,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 183764,
+        "num": 173041,
+        "word": "孟子义高考512分",
+        "onboard_time": 1764837141,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 142177,
+        "num": 172743,
+        "word": "追过折腰的在为谁折腰",
+        "onboard_time": 1764836841,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 379361,
+        "num": 172675,
+        "word": "郑恺苗苗每月一次无娃日约会",
+        "onboard_time": 1764832520,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172428,
+        "num": 172428,
+        "word": "李施嬅 你弄脏了就擦干净",
+        "onboard_time": 1764830062,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146804,
+        "num": 146804,
+        "word": "取完餐外卖员差点吐了",
+        "onboard_time": 1764817040,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136878,
+        "num": 136878,
+        "word": "中方回应高市早苗最新涉台表态",
+        "onboard_time": 1764835941,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 166773,
+        "num": 136821,
+        "word": "周柯宇感谢白鹿",
+        "onboard_time": 1764836181,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 160366,
+        "num": 136616,
+        "word": "黄子韬进时代峰峻大楼",
+        "onboard_time": 1764827601,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 135527,
+        "num": 135527,
+        "word": "塔斯汀90天关了907家店",
+        "onboard_time": 1764830062,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130109,
+        "num": 130109,
+        "word": "上海一小区突发火灾冒出大量烟雾",
+        "onboard_time": 1764833602,
+        "rank": 33,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 123788,
+        "num": 123788,
+        "word": "沈梦辰创业半年倒闭",
+        "onboard_time": 1764824303,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120061,
+        "num": 120061,
+        "word": "难怪有弟之姿原来是弟没死",
+        "onboard_time": 1764836481,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 119850,
+        "num": 119850,
+        "word": "有人穿带吊牌衣服上街网友称可帮剪",
+        "onboard_time": 1764834321,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18853,
+        "num": 119500,
+        "word": "东部战区战机曾在远海突遇险情",
+        "onboard_time": 1764837322,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 90181,
+        "num": 119251,
+        "word": "印度生育率下降",
+        "onboard_time": 1764836540,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 119185,
+        "num": 119185,
+        "word": "南北方饭的区别",
+        "onboard_time": 1764835642,
+        "rank": 39,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 113104,
+        "num": 113104,
+        "word": "哪款iPhone可以封神",
+        "onboard_time": 1764831802,
+        "rank": 40,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 105689,
+        "num": 105689,
+        "word": "爱泼斯坦私人岛屿的照片被公开",
+        "onboard_time": 1764819382,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 105600,
+        "num": 105600,
+        "word": "树莓晒入学通知书",
+        "onboard_time": 1764834202,
+        "rank": 42,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 99389,
+        "num": 99389,
+        "word": "易烊千玺礐嶨音源上线",
+        "onboard_time": 1764822081,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 95999,
+        "num": 95999,
+        "word": "等等 魔丸邓超生了个灵珠儿子",
+        "onboard_time": 1764821122,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 95819,
+        "num": 95819,
+        "word": "新国标电动车能带小孩吗",
+        "onboard_time": 1764834443,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95652,
+        "num": 95652,
+        "word": "杨紫将登上港版VOGUE封面",
+        "onboard_time": 1764832883,
+        "rank": 46,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 95369,
+        "num": 95369,
+        "word": "霍建华曾把红酒泼到林心如包上",
+        "onboard_time": 1764836722,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94581,
+        "num": 94581,
+        "word": "核心机密被Scout发现了",
+        "onboard_time": 1764837201,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90292,
+        "num": 90292,
+        "word": "去年是高三明年是大三",
+        "onboard_time": 1764835400,
+        "rank": 49,
+        "category": "教育,幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙举行会谈#"
+    }
+  }
+}
