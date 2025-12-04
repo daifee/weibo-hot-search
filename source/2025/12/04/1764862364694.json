@@ -1,0 +1,410 @@
+{
+  "runTime": 1764862364694,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 561026,
+        "num": 1089764,
+        "word": "官方确认倒车致2人身亡女子系法官",
+        "onboard_time": 1764854543,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 518517,
+        "num": 518517,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 2981,
+        "num": 419399,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 379321,
+        "num": 379321,
+        "word": "马克龙总统抵达成都",
+        "onboard_time": 1764857482,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 298591,
+        "num": 298591,
+        "word": "研究称烧秸秆能控制超级细菌传播",
+        "onboard_time": 1764852681,
+        "rank": 4,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 503633,
+        "num": 297608,
+        "word": "狙击蝴蝶 误点小广告",
+        "onboard_time": 1764858623,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255286,
+        "num": 255286,
+        "word": "一只大闸蟹引发美国一州恐慌",
+        "onboard_time": 1764850881,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 146764,
+        "num": 252831,
+        "word": "河北东光县事业编考试确认重考",
+        "onboard_time": 1764860061,
+        "rank": 7,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 127642,
+        "num": 250239,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 8,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 38948,
+        "num": 246347,
+        "word": "王楚钦孙颖莎vsA勒布伦袁嘉楠",
+        "onboard_time": 1764839061,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 385951,
+        "num": 242392,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346715,
+        "num": 238905,
+        "word": "周柯宇说吻戏多到数不过来",
+        "onboard_time": 1764858742,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 300213,
+        "num": 233271,
+        "word": "朱亚文向涵之 鬼怪",
+        "onboard_time": 1764855681,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 265407,
+        "num": 228905,
+        "word": "劲酒被称为月经神仙水",
+        "onboard_time": 1764859642,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 228275,
+        "num": 228275,
+        "word": "已经停产却让你很怀念的东西",
+        "onboard_time": 1764849682,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 207896,
+        "num": 207896,
+        "word": "50元的安全套以后或涨为56.5元",
+        "onboard_time": 1764860120,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202557,
+        "num": 202557,
+        "word": "女子试新衣服被赞美后直接扯下吊牌",
+        "onboard_time": 1764854543,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184730,
+        "num": 184730,
+        "word": "日本高官公开道歉",
+        "onboard_time": 1764859522,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183921,
+        "num": 183921,
+        "word": "范玮琪 过去五六年我一直在疗伤",
+        "onboard_time": 1764855442,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 48903,
+        "num": 180392,
+        "word": "马克龙到北京为何参观乾隆花园",
+        "onboard_time": 1764861321,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307707,
+        "num": 176140,
+        "word": "网红王蓉仨娃妈卖货给粉丝送全家福",
+        "onboard_time": 1764854662,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 275322,
+        "num": 174282,
+        "word": "章泽天 刘亦菲妈妈年轻时候",
+        "onboard_time": 1764856402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 187341,
+        "num": 168754,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 168097,
+        "num": 168097,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 157891,
+        "num": 157891,
+        "word": "敖瑞鹏沈羽洁不二之臣新婚吻",
+        "onboard_time": 1764861920,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156542,
+        "num": 156542,
+        "word": "每个孩子带3斤五花肉去幼儿园",
+        "onboard_time": 1764851061,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 149463,
+        "num": 149463,
+        "word": "欧阳娜娜妆造真的没有瓶颈期",
+        "onboard_time": 1764859582,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 131113,
+        "num": 131113,
+        "word": "12岁成网红21岁保研北大女生发声",
+        "onboard_time": 1764859102,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129199,
+        "num": 129199,
+        "word": "百亿富豪去世20亿股份平分给儿女",
+        "onboard_time": 1764858442,
+        "rank": 28,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 122522,
+        "num": 122522,
+        "word": "穆祉丞12月第一次出现",
+        "onboard_time": 1764861441,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 217498,
+        "num": 121356,
+        "word": "淘宝崩了",
+        "onboard_time": 1764853582,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 149419,
+        "num": 121145,
+        "word": "支付宝崩了",
+        "onboard_time": 1764853880,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 120086,
+        "num": 120086,
+        "word": "王力宏挑染出现人传猴现象",
+        "onboard_time": 1764862041,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 118023,
+        "num": 118023,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114833,
+        "num": 114833,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 34,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 113781,
+        "num": 113781,
+        "word": "生育津贴成唐僧肉暴露规则漏洞",
+        "onboard_time": 1764856223,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109147,
+        "num": 109147,
+        "word": "拜托那可是陈妍希",
+        "onboard_time": 1764847460,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108270,
+        "num": 108270,
+        "word": "孙颖莎帮助梁靖崑分析比赛失利",
+        "onboard_time": 1764860482,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 106754,
+        "num": 106754,
+        "word": "枭起青壤白瞳鬼",
+        "onboard_time": 1764853341,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 28348,
+        "num": 106671,
+        "word": "枪杀安倍嫌犯没道歉",
+        "onboard_time": 1764862041,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 106626,
+        "num": 106626,
+        "word": "晚宴上的张婧仪 小说第几章",
+        "onboard_time": 1764859402,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 103378,
+        "num": 103378,
+        "word": "杨幂蓝色镂空裙",
+        "onboard_time": 1764845722,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102816,
+        "num": 102816,
+        "word": "女子在地铁上用围巾擦拭污渍",
+        "onboard_time": 1764861800,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 102508,
+        "num": 102508,
+        "word": "陈妍希娱乐圈人缘",
+        "onboard_time": 1764844341,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 49555,
+        "num": 99653,
+        "word": "店主调侃买新版电动车送麻袋",
+        "onboard_time": 1764860843,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 99323,
+        "num": 99323,
+        "word": "狙击蝴蝶 养成系姐弟恋",
+        "onboard_time": 1764847401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99269,
+        "num": 99269,
+        "word": "周鸿祎称豆包手机冲垮大厂护城河",
+        "onboard_time": 1764848424,
+        "rank": 46,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 95542,
+        "num": 95542,
+        "word": "奶皮子不是奶酪也不是酸奶",
+        "onboard_time": 1764861681,
+        "rank": 47,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 91108,
+        "num": 91108,
+        "word": "陈坤曾回应双胞胎",
+        "onboard_time": 1764860002,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89041,
+        "num": 89041,
+        "word": "乐视回应有钱不还债",
+        "onboard_time": 1764862280,
+        "rank": 49,
+        "category": "互联网"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中法关系在新甲子走得更稳更好#"
+    }
+  }
+}
