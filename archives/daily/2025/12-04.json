@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764837523990,
+  "endTime": 1764838323518,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -291,6 +291,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 455740,
+      "num": 238138,
+      "word": "吉林警方通报恶性案件嫌犯被抓获",
+      "onboard_time": 1764835642,
+      "rank": 15,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 434170,
       "num": 326948,
       "word": "家里家外2",
@@ -304,6 +312,14 @@
       "word": "颖儿又夸付辛博了",
       "onboard_time": 1764815240,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 418854,
+      "num": 173041,
+      "word": "孟子义高考512分",
+      "onboard_time": 1764837141,
+      "rank": 24,
       "category": "艺人"
     },
     {
@@ -331,6 +347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 387314,
+      "num": 244824,
+      "word": "青你1选手上恋综",
+      "onboard_time": 1764835461,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 380106,
       "num": 298747,
       "word": "陈冠希回应本山化",
@@ -353,6 +377,14 @@
       "onboard_time": 1764822383,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 334715,
+      "num": 244720,
+      "word": "24岁女生咳嗽不止查出肺癌",
+      "onboard_time": 1764831921,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 334520,
@@ -393,22 +425,6 @@
       "onboard_time": 1764833661,
       "rank": 37,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 327749,
-      "num": 235266,
-      "word": "24岁女生咳嗽不止查出肺癌",
-      "onboard_time": 1764831921,
-      "rank": 26,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 326108,
-      "num": 228714,
-      "word": "青你1选手上恋综",
-      "onboard_time": 1764835461,
-      "rank": 13,
-      "category": "综艺"
     },
     {
       "raw_hot": 321055,
@@ -588,7 +604,7 @@
     },
     {
       "raw_hot": 235537,
-      "num": 235537,
+      "num": 247787,
       "word": "乐视网总市值仅剩12亿",
       "onboard_time": 1764835101,
       "rank": 4,
@@ -601,14 +617,6 @@
       "onboard_time": 1764833661,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 228020,
-      "num": 228020,
-      "word": "吉林警方通报恶性案件嫌犯被抓获",
-      "onboard_time": 1764835642,
-      "rank": 15,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 225630,
@@ -641,6 +649,14 @@
       "onboard_time": 1764795734,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 214755,
+      "num": 214755,
+      "word": "林峯你能不能体面的老去",
+      "onboard_time": 1764836062,
+      "rank": 19,
+      "category": "演出"
     },
     {
       "raw_hot": 213047,
@@ -851,14 +867,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 183764,
-      "num": 173041,
-      "word": "孟子义高考512分",
-      "onboard_time": 1764837141,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 183575,
       "num": 183575,
       "word": "偶遇王一博纽约攀岩",
@@ -913,14 +921,6 @@
       "onboard_time": 1764822924,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 174346,
-      "num": 174346,
-      "word": "林峯你能不能体面的老去",
-      "onboard_time": 1764836062,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 170404,
@@ -980,7 +980,7 @@
     },
     {
       "raw_hot": 166773,
-      "num": 136821,
+      "num": 148876,
       "word": "周柯宇感谢白鹿",
       "onboard_time": 1764836181,
       "rank": 30,
@@ -1091,6 +1091,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150585,
+      "num": 150585,
+      "word": "刘耀文 黄子韬灭燃器",
+      "onboard_time": 1764837801,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 149705,
       "num": 308534,
       "word": "狙击蝴蝶",
@@ -1099,12 +1107,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 148956,
+      "num": 147138,
+      "word": "谁把boss不聘做出来了",
+      "onboard_time": 1764837742,
+      "rank": 27,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 147434,
       "num": 147434,
       "word": "彭小苒瞪眼看弹幕失去表情管理",
       "onboard_time": 1764821781,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 144954,
+      "num": 144954,
+      "word": "中方回应高市早苗最新涉台表态",
+      "onboard_time": 1764835941,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 144564,
@@ -1187,14 +1211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 136878,
-      "num": 136878,
-      "word": "中方回应高市早苗最新涉台表态",
-      "onboard_time": 1764835941,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 136426,
       "num": 85323,
       "word": "业内曝中国文娱势力版图",
@@ -1209,6 +1225,14 @@
       "onboard_time": 1764779179,
       "rank": 44,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 136134,
+      "num": 136134,
+      "word": "上海一小区突发火灾冒出大量烟雾",
+      "onboard_time": 1764833602,
+      "rank": 42,
+      "category": "突发/灾害"
     },
     {
       "raw_hot": 135522,
@@ -1289,14 +1313,6 @@
       "onboard_time": 1764766580,
       "rank": 17,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 130109,
-      "num": 130109,
-      "word": "上海一小区突发火灾冒出大量烟雾",
-      "onboard_time": 1764833602,
-      "rank": 42,
-      "category": "突发/灾害"
     },
     {
       "raw_hot": 129665,
@@ -1387,12 +1403,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 123955,
+      "num": 123955,
+      "word": "有人穿带吊牌衣服上街网友称可帮剪",
+      "onboard_time": 1764834321,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 122641,
       "num": 143044,
       "word": "国乒8比0韩国",
       "onboard_time": 1764820401,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122182,
+      "num": 122182,
+      "word": "领导 张万森下狗了",
+      "onboard_time": 1764835042,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 122137,
@@ -1449,14 +1481,6 @@
       "onboard_time": 1764836481,
       "rank": 35,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 119850,
-      "num": 119850,
-      "word": "有人穿带吊牌衣服上街网友称可帮剪",
-      "onboard_time": 1764834321,
-      "rank": 36,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 119422,
@@ -1531,6 +1555,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 109405,
+      "num": 109405,
+      "word": "连老物件都在反复确认是不是你",
+      "onboard_time": 1764837981,
+      "rank": 41,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 109347,
       "num": 109347,
       "word": "罗大美遇害超2年遗体仍在太平间",
@@ -1603,12 +1635,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102505,
+      "num": 119251,
+      "word": "印度生育率下降",
+      "onboard_time": 1764836540,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 99941,
       "num": 99941,
       "word": "英雄联盟德玛西亚皮肤",
       "onboard_time": 1764814700,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97731,
+      "num": 97731,
+      "word": "核心机密被Scout发现了",
+      "onboard_time": 1764837201,
+      "rank": 48,
+      "category": "电竞"
     },
     {
       "raw_hot": 97714,
@@ -1659,12 +1707,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 94581,
-      "num": 94581,
-      "word": "核心机密被Scout发现了",
-      "onboard_time": 1764837201,
+      "raw_hot": 93518,
+      "num": 93518,
+      "word": "双休和单休真的是两种人生吗",
+      "onboard_time": 1764838162,
       "rank": 48,
-      "category": "电竞"
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 91367,
@@ -1713,14 +1761,6 @@
       "onboard_time": 1764835400,
       "rank": 49,
       "category": "教育,幽默"
-    },
-    {
-      "raw_hot": 90181,
-      "num": 119251,
-      "word": "印度生育率下降",
-      "onboard_time": 1764836540,
-      "rank": 38,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 89232,
@@ -2027,6 +2067,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55398,
+      "num": 107418,
+      "word": "新东方员工长文控诉加班",
+      "onboard_time": 1764838282,
+      "rank": 42,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 54971,
       "num": 60830,
       "word": "蔡磊已准备好尝试脑机接口",
@@ -2115,6 +2163,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42699,
+      "num": 145657,
+      "word": "马克龙准备亲自去成都要熊猫",
+      "onboard_time": 1764838162,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 41363,
       "num": 377140,
       "word": "冻伤要到烧伤科就诊",
@@ -2179,6 +2235,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 32640,
+      "num": 114468,
+      "word": "晴天曝Wayward没去试训",
+      "onboard_time": 1764838042,
+      "rank": 39,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 30012,
       "num": 46000,
       "word": "网络名人账号违法违规行为被查",
@@ -2235,6 +2299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 23519,
+      "num": 119500,
+      "word": "东部战区战机曾在远海突遇险情",
+      "onboard_time": 1764837322,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 23505,
       "num": 138348,
       "word": "王曼昱给对手打崩溃了",
@@ -2265,14 +2337,6 @@
       "onboard_time": 1764832042,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 18853,
-      "num": 119500,
-      "word": "东部战区战机曾在远海突遇险情",
-      "onboard_time": 1764837322,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 18248,
