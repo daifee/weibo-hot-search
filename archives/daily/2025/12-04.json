@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764862364694,
+  "endTime": 1764863184896,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -211,6 +211,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 621376,
+      "num": 1099420,
+      "word": "官方确认倒车致2人身亡女子系法官",
+      "onboard_time": 1764854543,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 617946,
       "num": 1098871,
       "word": "豆包手机",
@@ -289,14 +297,6 @@
       "onboard_time": 1764829220,
       "rank": 4,
       "category": "财经"
-    },
-    {
-      "raw_hot": 561026,
-      "num": 1089764,
-      "word": "官方确认倒车致2人身亡女子系法官",
-      "onboard_time": 1764854543,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 556117,
@@ -457,6 +457,14 @@
       "onboard_time": 1764809062,
       "rank": 15,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 433965,
+      "num": 228905,
+      "word": "劲酒被称为月经神仙水",
+      "onboard_time": 1764859642,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 426989,
@@ -755,14 +763,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 265407,
-      "num": 228905,
-      "word": "劲酒被称为月经神仙水",
-      "onboard_time": 1764859642,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 263358,
       "num": 263358,
       "word": "美女入殓师曝从业来最离奇事件",
@@ -793,6 +793,14 @@
       "onboard_time": 1764851601,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 260739,
+      "num": 260739,
+      "word": "河北东光县事业编考试确认重考",
+      "onboard_time": 1764860061,
+      "rank": 7,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 260704,
@@ -979,6 +987,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 212587,
+      "num": 212587,
+      "word": "50元的安全套以后或涨为56.5元",
+      "onboard_time": 1764860120,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 211874,
       "num": 183387,
       "word": "张钧甯回应邱泽许玮甯结婚",
@@ -1017,14 +1033,6 @@
       "onboard_time": 1764822443,
       "rank": 29,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 207896,
-      "num": 207896,
-      "word": "50元的安全套以后或涨为56.5元",
-      "onboard_time": 1764860120,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 207791,
@@ -1217,6 +1225,14 @@
       "onboard_time": 1764823463,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 188109,
+      "num": 150266,
+      "word": "现在就出发",
+      "onboard_time": 1764862760,
+      "rank": 22,
+      "category": "综艺"
     },
     {
       "raw_hot": 186837,
@@ -1611,14 +1627,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 146764,
-      "num": 252831,
-      "word": "河北东光县事业编考试确认重考",
-      "onboard_time": 1764860061,
-      "rank": 7,
-      "category": "教育,民生新闻"
-    },
-    {
       "raw_hot": 146636,
       "num": 146636,
       "word": "Zika加入WBG",
@@ -1795,6 +1803,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135112,
+      "num": 135112,
+      "word": "百亿富豪去世20亿股份平分给儿女",
+      "onboard_time": 1764858442,
+      "rank": 46,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 134489,
       "num": 236077,
       "word": "恋综是小爱豆的收留所吗",
@@ -1859,20 +1875,20 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 131581,
+      "num": 131581,
+      "word": "12岁成网红21岁保研北大女生发声",
+      "onboard_time": 1764859102,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131284,
       "num": 131284,
       "word": "曹璐想过和孟佳王霏霏组三人舞台",
       "onboard_time": 1764806720,
       "rank": 26,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 131113,
-      "num": 131113,
-      "word": "12岁成网红21岁保研北大女生发声",
-      "onboard_time": 1764859102,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 130573,
@@ -1913,14 +1929,6 @@
       "onboard_time": 1764811821,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129199,
-      "num": 129199,
-      "word": "百亿富豪去世20亿股份平分给儿女",
-      "onboard_time": 1764858442,
-      "rank": 46,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 128886,
@@ -2587,6 +2595,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 97586,
+      "num": 97586,
+      "word": "陈坤曾回应双胞胎",
+      "onboard_time": 1764860002,
+      "rank": 48,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 97198,
       "num": 97198,
       "word": "刘某涉拐走婴儿已被刑拘",
@@ -2721,14 +2737,6 @@
       "onboard_time": 1764807380,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 91108,
-      "num": 91108,
-      "word": "陈坤曾回应双胞胎",
-      "onboard_time": 1764860002,
-      "rank": 48,
-      "category": "艺人"
     },
     {
       "raw_hot": 90800,
@@ -3291,6 +3299,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 51197,
+      "num": 180392,
+      "word": "马克龙到北京为何参观乾隆花园",
+      "onboard_time": 1764861321,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51039,
       "num": 60835,
       "word": "吴艳妮在姐姐婚礼上致辞数次落泪",
@@ -3313,14 +3329,6 @@
       "onboard_time": 1764849501,
       "rank": 29,
       "category": "情感"
-    },
-    {
-      "raw_hot": 48903,
-      "num": 180392,
-      "word": "马克龙到北京为何参观乾隆花园",
-      "onboard_time": 1764861321,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 48887,
@@ -3376,6 +3384,14 @@
       "word": "公司法人妻子虚报5倍工资骗生育津贴",
       "onboard_time": 1764846021,
       "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42028,
+      "num": 151624,
+      "word": "巴奴新菜品 水性杨花",
+      "onboard_time": 1764862521,
+      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -3459,6 +3475,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34203,
+      "num": 106671,
+      "word": "枪杀安倍嫌犯没道歉",
+      "onboard_time": 1764862041,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 33011,
       "num": 234064,
       "word": "看喜人欠的皱纹不用还了",
@@ -3521,14 +3545,6 @@
       "onboard_time": 1764832822,
       "rank": 38,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 28348,
-      "num": 106671,
-      "word": "枪杀安倍嫌犯没道歉",
-      "onboard_time": 1764862041,
-      "rank": 39,
-      "category": "国际时政"
     },
     {
       "raw_hot": 28322,
