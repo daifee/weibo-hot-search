@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764830545608,
+  "endTime": 1764831357022,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -635,6 +635,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 708482,
+      "num": 684457,
+      "word": "痞幼官宣上恋综",
+      "onboard_time": 1764828801,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 707753,
       "num": 303319,
       "word": "婚前同居怀孕退婚后男方起诉要彩礼",
@@ -681,14 +689,6 @@
       "onboard_time": 1764555500,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 684457,
-      "num": 684457,
-      "word": "痞幼官宣上恋综",
-      "onboard_time": 1764828801,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 684341,
@@ -1153,6 +1153,14 @@
       "onboard_time": 1764590602,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519086,
+      "num": 519086,
+      "word": "乐视网负债238亿拟花1.8亿炒股",
+      "onboard_time": 1764829220,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 517707,
@@ -2611,14 +2619,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 295270,
-      "num": 495215,
-      "word": "乐视网负债238亿拟花1.8亿炒股",
-      "onboard_time": 1764829220,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 295051,
       "num": 948541,
       "word": "张雪峰30天掉粉近13万",
@@ -3099,6 +3099,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 242101,
+      "num": 215789,
+      "word": "李嘉格评论区怒怼网友",
+      "onboard_time": 1764829521,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241714,
       "num": 788829,
       "word": "金饰克价涨到1336元",
@@ -3435,14 +3443,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 215789,
-      "num": 215789,
-      "word": "李嘉格评论区怒怼网友",
-      "onboard_time": 1764829521,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "陈梦表彰大会站C位",
@@ -3691,6 +3691,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205637,
+      "num": 205637,
+      "word": "陈晓和林夏薇是大学同学",
+      "onboard_time": 1764831201,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 205625,
       "num": 205625,
       "word": "医生听不懂广州话被患者斥责",
@@ -3820,7 +3828,7 @@
     },
     {
       "raw_hot": 201545,
-      "num": 201545,
+      "num": 387975,
       "word": "Jiejie加入WBG",
       "onboard_time": 1764829160,
       "rank": 34,
@@ -4051,6 +4059,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191232,
+      "num": 191232,
+      "word": "李施嬅 你弄脏了就擦干净",
+      "onboard_time": 1764830062,
+      "rank": 37,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 190698,
       "num": 190698,
       "word": "陶喆的三明治夹了一斤肉",
@@ -4097,6 +4113,14 @@
       "onboard_time": 1764583042,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 188965,
+      "num": 232688,
+      "word": "华为MateX7影像实力有多强",
+      "onboard_time": 1764830062,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 188691,
@@ -5347,6 +5371,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 151094,
+      "num": 173148,
+      "word": "张子枫给谭松韵做了发圈",
+      "onboard_time": 1764829461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150979,
       "num": 228309,
       "word": "朱亚文向涵之 二搭",
@@ -5771,14 +5803,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 139839,
-      "num": 232688,
-      "word": "华为MateX7影像实力有多强",
-      "onboard_time": 1764830062,
-      "rank": 26,
-      "category": "数码"
-    },
-    {
       "raw_hot": 139684,
       "num": 139684,
       "word": "罗云熙同学聚会签名",
@@ -5857,6 +5881,14 @@
       "onboard_time": 1764666740,
       "rank": 36,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 137859,
+      "num": 137859,
+      "word": "中国香港8比6瑞典",
+      "onboard_time": 1764831321,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 137798,
@@ -6057,6 +6089,14 @@
       "onboard_time": 1764775160,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 134489,
+      "num": 236077,
+      "word": "恋综是小爱豆的收留所吗",
+      "onboard_time": 1764829521,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 134484,
@@ -6265,6 +6305,14 @@
       "onboard_time": 1764572842,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131662,
+      "num": 131662,
+      "word": "侯明昊杂志",
+      "onboard_time": 1764830601,
+      "rank": 45,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 131380,
@@ -6545,14 +6593,6 @@
       "onboard_time": 1764671242,
       "rank": 9,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 126771,
-      "num": 173148,
-      "word": "张子枫给谭松韵做了发圈",
-      "onboard_time": 1764829461,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 126666,
@@ -6905,6 +6945,14 @@
       "onboard_time": 1764673161,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121250,
+      "num": 121250,
+      "word": "Uzi回应网友不会复出",
+      "onboard_time": 1764828442,
+      "rank": 47,
+      "category": "电竞"
     },
     {
       "raw_hot": 121177,
@@ -7627,6 +7675,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 109725,
+      "num": 187293,
+      "word": "塔斯汀90天关了907家店",
+      "onboard_time": 1764830062,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109520,
       "num": 119072,
       "word": "钟汉良居然会发这种东西",
@@ -7985,14 +8041,6 @@
       "onboard_time": 1764561801,
       "rank": 29,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 103306,
-      "num": 236077,
-      "word": "恋综是小爱豆的收留所吗",
-      "onboard_time": 1764829521,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 103142,
@@ -9299,6 +9347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81918,
+      "num": 163539,
+      "word": "奶奶频繁亲吻孙子致其确诊亲吻病",
+      "onboard_time": 1764830122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 81914,
       "num": 190775,
       "word": "Mate80屏幕神话级强光挑战",
@@ -9377,14 +9433,6 @@
       "onboard_time": 1764672142,
       "rank": 49,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 80776,
-      "num": 179624,
-      "word": "李施嬅 你弄脏了就擦干净",
-      "onboard_time": 1764830062,
-      "rank": 37,
-      "category": "综艺"
     },
     {
       "raw_hot": 80750,
@@ -9747,6 +9795,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 74209,
+      "num": 234540,
+      "word": "日本别忘了战败国的义务",
+      "onboard_time": 1764829220,
+      "rank": 22,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 73021,
       "num": 79963,
       "word": "生活中看到这种黄色小花立即上报",
@@ -9945,6 +10001,14 @@
       "onboard_time": 1764576021,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 68444,
+      "num": 217692,
+      "word": "入室抢婴案主犯被判死缓后当庭大骂",
+      "onboard_time": 1764830421,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 68101,
@@ -10537,14 +10601,6 @@
       "onboard_time": 1764754881,
       "rank": 38,
       "category": "演出"
-    },
-    {
-      "raw_hot": 52863,
-      "num": 234540,
-      "word": "日本别忘了战败国的义务",
-      "onboard_time": 1764829220,
-      "rank": 22,
-      "category": "国内时政"
     },
     {
       "raw_hot": 52835,
@@ -11339,14 +11395,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 33648,
-      "num": 163539,
-      "word": "奶奶频繁亲吻孙子致其确诊亲吻病",
-      "onboard_time": 1764830122,
-      "rank": 39,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 33577,
       "num": 42127,
       "word": "可能创下吉尼斯最快脱袜纪录",
@@ -11459,20 +11507,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 29977,
+      "num": 140553,
+      "word": "穆雷爆砍52分",
+      "onboard_time": 1764831262,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 29532,
       "num": 135397,
       "word": "斯里兰卡极端天气死亡410人",
       "onboard_time": 1764683003,
       "rank": 39,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 29532,
-      "num": 217692,
-      "word": "入室抢婴案主犯被判死缓后当庭大骂",
-      "onboard_time": 1764830421,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 29444,
@@ -11715,14 +11763,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 24182,
-      "num": 187293,
-      "word": "塔斯汀90天关了907家店",
-      "onboard_time": 1764830062,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 24170,
       "num": 127199,
       "word": "抛砖命案家属称凶手多次抛物没人管",
@@ -11761,6 +11801,14 @@
       "onboard_time": 1764668122,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 23505,
+      "num": 138348,
+      "word": "王曼昱给对手打崩溃了",
+      "onboard_time": 1764831321,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 23451,
