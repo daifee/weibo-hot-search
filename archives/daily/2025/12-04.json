@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764823872397,
+  "endTime": 1764826090273,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -9,6 +9,14 @@
       "onboard_time": 1764820102,
       "rank": 10,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 2329514,
+      "num": 201590,
+      "word": "郑恺苗苗 三年生3个孩子",
+      "onboard_time": 1764823103,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2162256,
@@ -25,14 +33,6 @@
       "onboard_time": 1764805221,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1406072,
-      "num": 201590,
-      "word": "郑恺苗苗 三年生3个孩子",
-      "onboard_time": 1764823103,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 978675,
@@ -57,6 +57,14 @@
       "onboard_time": 1764821122,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 819912,
+      "num": 282379,
+      "word": "沈梦辰创业半年倒闭",
+      "onboard_time": 1764824303,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 755939,
@@ -219,6 +227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350162,
+      "num": 138484,
+      "word": "韩国标示中国台湾台当局急了",
+      "onboard_time": 1764825142,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 329628,
       "num": 264193,
       "word": "刘亦菲陈都灵 全女花千骨",
@@ -228,7 +244,7 @@
     },
     {
       "raw_hot": 321055,
-      "num": 321055,
+      "num": 499191,
       "word": "王楚钦vs安宰贤",
       "onboard_time": 1764815840,
       "rank": 1,
@@ -252,7 +268,7 @@
     },
     {
       "raw_hot": 311454,
-      "num": 228275,
+      "num": 300550,
       "word": "不二之臣全阵容官宣",
       "onboard_time": 1764822383,
       "rank": 19,
@@ -273,6 +289,14 @@
       "onboard_time": 1764816621,
       "rank": 8,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 300949,
+      "num": 192648,
+      "word": "小S录跨年宣传片崩溃大哭",
+      "onboard_time": 1764823223,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 293331,
@@ -313,6 +337,14 @@
       "onboard_time": 1764821182,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282890,
+      "num": 146983,
+      "word": "美国吸毒人群在街头无意识扭动身体",
+      "onboard_time": 1764824781,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 282130,
@@ -371,6 +403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 246476,
+      "num": 195428,
+      "word": "李治廷老婆疑怀孕",
+      "onboard_time": 1764823463,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 241658,
       "num": 241658,
       "word": "郑钦文全球女运动员收入榜第5",
@@ -393,14 +433,6 @@
       "onboard_time": 1764820702,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 221256,
-      "num": 195428,
-      "word": "李治廷老婆疑怀孕",
-      "onboard_time": 1764823463,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 216627,
@@ -433,6 +465,14 @@
       "onboard_time": 1764820401,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211001,
+      "num": 195220,
+      "word": "易烊千玺你也很难戒断吧",
+      "onboard_time": 1764824962,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 208302,
@@ -523,12 +563,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 192648,
-      "num": 192648,
-      "word": "小S录跨年宣传片崩溃大哭",
-      "onboard_time": 1764823223,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 192822,
+      "num": 141281,
+      "word": "男子频繁30秒如厕牵出40人涉黄传播网",
+      "onboard_time": 1764823643,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 191809,
@@ -561,6 +601,14 @@
       "onboard_time": 1764818661,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 184639,
+      "num": 139374,
+      "word": "终于看到演员演生气不是大喊大叫了",
+      "onboard_time": 1764824781,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 183575,
@@ -643,6 +691,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 166523,
+      "num": 166523,
+      "word": "日本网站出现抹黑中国写手招聘",
+      "onboard_time": 1764824303,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 165240,
       "num": 134163,
       "word": "老师发来100多页PDF要求打印",
@@ -723,6 +779,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144564,
+      "num": 136572,
+      "word": "亲生和亲自生的区别",
+      "onboard_time": 1764823762,
+      "rank": 49,
+      "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 141949,
+      "num": 136083,
+      "word": "工作性抑郁",
+      "onboard_time": 1764825500,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 141719,
       "num": 141719,
       "word": "澳规定平台违反社媒禁令可罚2.3亿",
@@ -771,20 +843,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 135522,
+      "num": 135522,
+      "word": "樊振东2026首个主场碰面薛飞",
+      "onboard_time": 1764825442,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 133861,
       "num": 133861,
       "word": "敖瑞鹏不二之臣牵手奔跑路透",
       "onboard_time": 1764808881,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 133826,
-      "num": 133826,
-      "word": "男子频繁30秒如厕牵出40人涉黄传播网",
-      "onboard_time": 1764823643,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133534,
@@ -867,12 +939,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 126997,
+      "num": 126997,
+      "word": "我们家INFJ怎么没有工作啊",
+      "onboard_time": 1764824602,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 126666,
       "num": 126666,
       "word": "开歼20上班是什么体验",
       "onboard_time": 1764813019,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "是你吗李现",
+      "onboard_time": 1764825923,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 125198,
@@ -899,20 +987,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 122873,
-      "num": 122873,
-      "word": "亲生和亲自生的区别",
-      "onboard_time": 1764823762,
-      "rank": 49,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 122641,
       "num": 143044,
       "word": "国乒8比0韩国",
       "onboard_time": 1764820401,
       "rank": 42,
       "category": "体育"
+    },
+    {
+      "raw_hot": 122137,
+      "num": 122137,
+      "word": "刘萧旭劝学",
+      "onboard_time": 1764825923,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 121762,
@@ -947,6 +1035,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 117966,
+      "num": 117966,
+      "word": "颖儿被付辛博帅到脸红",
+      "onboard_time": 1764824662,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 115476,
       "num": 326029,
       "word": "钎城 Gemini",
@@ -955,12 +1051,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 113130,
+      "num": 166438,
+      "word": "开拓者将杨瀚森下放至G联赛",
+      "onboard_time": 1764823823,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113044,
       "num": 113044,
       "word": "杨瀚森2分1篮板1助攻",
       "onboard_time": 1764818422,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110634,
+      "num": 114738,
+      "word": "C的发音是si还是sei",
+      "onboard_time": 1764826041,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 109347,
@@ -1155,6 +1267,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 77898,
+      "num": 119215,
+      "word": "软饭到嘴边了就是咽不下去",
+      "onboard_time": 1764824421,
+      "rank": 45,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 77272,
       "num": 77272,
       "word": "考编第一因学历重叠落选是否有猫腻",
@@ -1171,20 +1291,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 75922,
-      "num": 166438,
-      "word": "开拓者将杨瀚森下放至G联赛",
-      "onboard_time": 1764823823,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75179,
       "num": 78485,
       "word": "罗大美遇害29个月还未下葬",
       "onboard_time": 1764776841,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 75114,
+      "num": 123785,
+      "word": "六公主谈家业被短剧跟风模仿",
+      "onboard_time": 1764824662,
+      "rank": 43,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 74937,
@@ -1491,6 +1611,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 25880,
+      "num": 312902,
+      "word": "2025宪法宣传周",
+      "onboard_time": 1764755542,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 24642,
       "num": 40107,
       "word": "电影得闲谨制",
@@ -1499,12 +1627,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 21769,
-      "num": 259301,
-      "word": "2025宪法宣传周",
-      "onboard_time": 1764755542,
-      "rank": 2,
+      "raw_hot": 23431,
+      "num": 118564,
+      "word": "部分门店将老国标电动车转二手卖",
+      "onboard_time": 1764824482,
+      "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21515,
+      "num": 130445,
+      "word": "蔡依林看了都得楞3秒",
+      "onboard_time": 1764825623,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 12153,
@@ -1537,6 +1673,9 @@
     },
     {
       "word": "#良法善治#"
+    },
+    {
+      "word": "#习近平同马克龙举行会谈#"
     }
   ]
 }

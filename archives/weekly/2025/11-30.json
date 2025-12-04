@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764823872397,
+  "endTime": 1764826090273,
   "band_list": [
     {
       "raw_hot": 7615456,
@@ -25,6 +25,14 @@
       "onboard_time": 1764754702,
       "rank": 42,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 2329514,
+      "num": 201590,
+      "word": "郑恺苗苗 三年生3个孩子",
+      "onboard_time": 1764823103,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 2162256,
@@ -185,14 +193,6 @@
       "onboard_time": 1764805221,
       "rank": 0,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1406072,
-      "num": 201590,
-      "word": "郑恺苗苗 三年生3个孩子",
-      "onboard_time": 1764823103,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 1404746,
@@ -673,6 +673,14 @@
       "onboard_time": 1764749963,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 819912,
+      "num": 282379,
+      "word": "沈梦辰创业半年倒闭",
+      "onboard_time": 1764824303,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 816400,
@@ -2539,6 +2547,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 350162,
+      "num": 138484,
+      "word": "韩国标示中国台湾台当局急了",
+      "onboard_time": 1764825142,
+      "rank": 30,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 349201,
       "num": 235035,
       "word": "疯狂动物城2排片量",
@@ -2804,7 +2820,7 @@
     },
     {
       "raw_hot": 321055,
-      "num": 321055,
+      "num": 499191,
       "word": "王楚钦vs安宰贤",
       "onboard_time": 1764815840,
       "rank": 1,
@@ -2932,7 +2948,7 @@
     },
     {
       "raw_hot": 311454,
-      "num": 228275,
+      "num": 300550,
       "word": "不二之臣全阵容官宣",
       "onboard_time": 1764822383,
       "rank": 19,
@@ -3073,6 +3089,14 @@
       "onboard_time": 1764634701,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 300949,
+      "num": 192648,
+      "word": "小S录跨年宣传片崩溃大哭",
+      "onboard_time": 1764823223,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 300058,
@@ -3281,6 +3305,14 @@
       "onboard_time": 1764821182,
       "rank": 17,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 282890,
+      "num": 146983,
+      "word": "美国吸毒人群在街头无意识扭动身体",
+      "onboard_time": 1764824781,
+      "rank": 24,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 282515,
@@ -3667,6 +3699,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 246476,
+      "num": 195428,
+      "word": "李治廷老婆疑怀孕",
+      "onboard_time": 1764823463,
+      "rank": 23,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 245338,
       "num": 307208,
       "word": "真人版疯狂动物城",
@@ -4035,14 +4075,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 221256,
-      "num": 195428,
-      "word": "李治廷老婆疑怀孕",
-      "onboard_time": 1764823463,
-      "rank": 23,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 221134,
       "num": 226800,
       "word": "店主实名举报公职人员疑喝农药",
@@ -4273,6 +4305,14 @@
       "onboard_time": 1764820401,
       "rank": 24,
       "category": "电影"
+    },
+    {
+      "raw_hot": 211001,
+      "num": 195220,
+      "word": "易烊千玺你也很难戒断吧",
+      "onboard_time": 1764824962,
+      "rank": 16,
+      "category": "音乐"
     },
     {
       "raw_hot": 210502,
@@ -4899,12 +4939,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 192648,
-      "num": 192648,
-      "word": "小S录跨年宣传片崩溃大哭",
-      "onboard_time": 1764823223,
-      "rank": 25,
-      "category": "艺人"
+      "raw_hot": 192822,
+      "num": 141281,
+      "word": "男子频繁30秒如厕牵出40人涉黄传播网",
+      "onboard_time": 1764823643,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 192259,
@@ -5097,6 +5137,14 @@
       "onboard_time": 1764561862,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184639,
+      "num": 139374,
+      "word": "终于看到演员演生气不是大喊大叫了",
+      "onboard_time": 1764824781,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 184228,
@@ -5777,6 +5825,14 @@
       "onboard_time": 1764589042,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 166523,
+      "num": 166523,
+      "word": "日本网站出现抹黑中国写手招聘",
+      "onboard_time": 1764824303,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 166467,
@@ -6787,6 +6843,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 144564,
+      "num": 136572,
+      "word": "亲生和亲自生的区别",
+      "onboard_time": 1764823762,
+      "rank": 49,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 144381,
       "num": 144381,
       "word": "关于艾滋病的9个真相",
@@ -6913,6 +6977,14 @@
       "onboard_time": 1764475640,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141949,
+      "num": 136083,
+      "word": "工作性抑郁",
+      "onboard_time": 1764825500,
+      "rank": 34,
+      "category": "情感"
     },
     {
       "raw_hot": 141719,
@@ -7283,6 +7355,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 135522,
+      "num": 135522,
+      "word": "樊振东2026首个主场碰面薛飞",
+      "onboard_time": 1764825442,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 135264,
       "num": 135264,
       "word": "减肥的逻辑 欲望转移",
@@ -7353,14 +7433,6 @@
       "onboard_time": 1764550579,
       "rank": 29,
       "category": "美食"
-    },
-    {
-      "raw_hot": 133826,
-      "num": 133826,
-      "word": "男子频繁30秒如厕牵出40人涉黄传播网",
-      "onboard_time": 1764823643,
-      "rank": 46,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 133804,
@@ -7891,6 +7963,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 126997,
+      "num": 126997,
+      "word": "我们家INFJ怎么没有工作啊",
+      "onboard_time": 1764824602,
+      "rank": 41,
+      "category": "情感,休闲"
+    },
+    {
       "raw_hot": 126951,
       "num": 160567,
       "word": "香港为灾民提供免费住屋",
@@ -8033,6 +8113,14 @@
       "onboard_time": 1764652103,
       "rank": 44,
       "category": "情感"
+    },
+    {
+      "raw_hot": 125539,
+      "num": 125539,
+      "word": "是你吗李现",
+      "onboard_time": 1764825923,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 125474,
@@ -8211,14 +8299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 122873,
-      "num": 122873,
-      "word": "亲生和亲自生的区别",
-      "onboard_time": 1764823762,
-      "rank": 49,
-      "category": "情感,休闲"
-    },
-    {
       "raw_hot": 122776,
       "num": 195141,
       "word": "杨幂尖叫之夜行程通知",
@@ -8289,6 +8369,14 @@
       "onboard_time": 1764555621,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 122137,
+      "num": 122137,
+      "word": "刘萧旭劝学",
+      "onboard_time": 1764825923,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 122031,
@@ -8689,6 +8777,14 @@
       "onboard_time": 1764513323,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 117966,
+      "num": 117966,
+      "word": "颖儿被付辛博帅到脸红",
+      "onboard_time": 1764824662,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 117887,
@@ -9195,6 +9291,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 113130,
+      "num": 166438,
+      "word": "开拓者将杨瀚森下放至G联赛",
+      "onboard_time": 1764823823,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 113085,
       "num": 113085,
       "word": "有人从大一开始备战国考",
@@ -9353,6 +9457,14 @@
       "onboard_time": 1764745341,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 110634,
+      "num": 114738,
+      "word": "C的发音是si还是sei",
+      "onboard_time": 1764826041,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 110420,
@@ -11995,6 +12107,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77898,
+      "num": 119215,
+      "word": "软饭到嘴边了就是咽不下去",
+      "onboard_time": 1764824421,
+      "rank": 45,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 77832,
       "num": 238444,
       "word": "在乎输赢不如论舒赢",
@@ -12115,14 +12235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 75922,
-      "num": 166438,
-      "word": "开拓者将杨瀚森下放至G联赛",
-      "onboard_time": 1764823823,
-      "rank": 36,
-      "category": "体育"
-    },
-    {
       "raw_hot": 75790,
       "num": 75790,
       "word": "早睡就能激活全身修复程序",
@@ -12185,6 +12297,14 @@
       "onboard_time": 1764459020,
       "rank": 37,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 75114,
+      "num": 123785,
+      "word": "六公主谈家业被短剧跟风模仿",
+      "onboard_time": 1764824662,
+      "rank": 43,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 75097,
@@ -14476,7 +14596,7 @@
     },
     {
       "raw_hot": 27230,
-      "num": 259301,
+      "num": 312902,
       "word": "2025宪法宣传周",
       "onboard_time": 1764755542,
       "rank": 2,
@@ -14707,6 +14827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 23431,
+      "num": 118564,
+      "word": "部分门店将老国标电动车转二手卖",
+      "onboard_time": 1764824482,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 23426,
       "num": 120149,
       "word": "普京催促青年科学家要孩子",
@@ -14785,6 +14913,14 @@
       "onboard_time": 1764685824,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 21515,
+      "num": 130445,
+      "word": "蔡依林看了都得楞3秒",
+      "onboard_time": 1764825623,
+      "rank": 39,
+      "category": "音乐"
     },
     {
       "raw_hot": 20846,
@@ -15268,6 +15404,9 @@
     },
     {
       "word": "#良法善治#"
+    },
+    {
+      "word": "#习近平同马克龙举行会谈#"
     }
   ]
 }

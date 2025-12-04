@@ -1,0 +1,410 @@
+{
+  "runTime": 1764826090273,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 399865,
+        "num": 1063978,
+        "word": "24人骗取生育津贴超220万",
+        "onboard_time": 1764814640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157983,
+        "num": 499191,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1764815840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 25880,
+        "num": 312902,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 300550,
+        "num": 300550,
+        "word": "不二之臣全阵容官宣",
+        "onboard_time": 1764822383,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 85452,
+        "num": 287285,
+        "word": "恋与深空",
+        "onboard_time": 1764818599,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 819912,
+        "num": 282379,
+        "word": "沈梦辰创业半年倒闭",
+        "onboard_time": 1764824303,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 488271,
+        "num": 259957,
+        "word": "取完餐外卖员差点吐了",
+        "onboard_time": 1764817040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 466354,
+        "num": 251489,
+        "word": "刘强东父母现身京东食堂做饭",
+        "onboard_time": 1764819081,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 50443,
+        "num": 238719,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 230799,
+        "num": 230799,
+        "word": "家里家外2",
+        "onboard_time": 1764809062,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 833645,
+        "num": 229556,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 643125,
+        "num": 217596,
+        "word": "爱泼斯坦私人岛屿的照片被公开",
+        "onboard_time": 1764819382,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 501598,
+        "num": 206820,
+        "word": "怀疑我爸是从末世穿越回来的",
+        "onboard_time": 1764820281,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 363456,
+        "num": 206198,
+        "word": "陈冠希回应本山化",
+        "onboard_time": 1764822562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198554,
+        "num": 198554,
+        "word": "中国没有全面清算日本已是宽容至极",
+        "onboard_time": 1764818599,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 232142,
+        "num": 197788,
+        "word": "那英李沁马思纯张晚意私下聚餐",
+        "onboard_time": 1764821182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211001,
+        "num": 195220,
+        "word": "易烊千玺你也很难戒断吧",
+        "onboard_time": 1764824962,
+        "rank": 16,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 191001,
+        "num": 191001,
+        "word": "找到了王梓莼说自己是00花的原因",
+        "onboard_time": 1764822443,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 166523,
+        "num": 166523,
+        "word": "日本网站出现抹黑中国写手招聘",
+        "onboard_time": 1764824303,
+        "rank": 18,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 154324,
+        "num": 154324,
+        "word": "原来脸小也不一定好看",
+        "onboard_time": 1764819682,
+        "rank": 19,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 2329514,
+        "num": 153005,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 611023,
+        "num": 151961,
+        "word": "等等 魔丸邓超生了个灵珠儿子",
+        "onboard_time": 1764821122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 189361,
+        "num": 149652,
+        "word": "刘昊然 得闲谨制戏份",
+        "onboard_time": 1764820401,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 433613,
+        "num": 148877,
+        "word": "许玮甯老公 闺蜜前男友",
+        "onboard_time": 1764822321,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282890,
+        "num": 146983,
+        "word": "美国吸毒人群在街头无意识扭动身体",
+        "onboard_time": 1764824781,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 300949,
+        "num": 144624,
+        "word": "小S录跨年宣传片崩溃大哭",
+        "onboard_time": 1764823223,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 246476,
+        "num": 143720,
+        "word": "李治廷老婆疑怀孕",
+        "onboard_time": 1764823463,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 192822,
+        "num": 141281,
+        "word": "男子频繁30秒如厕牵出40人涉黄传播网",
+        "onboard_time": 1764823643,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 184639,
+        "num": 139374,
+        "word": "终于看到演员演生气不是大喊大叫了",
+        "onboard_time": 1764824781,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138791,
+        "num": 138791,
+        "word": "马克龙抵京后发文",
+        "onboard_time": 1764818541,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 350162,
+        "num": 138484,
+        "word": "韩国标示中国台湾台当局急了",
+        "onboard_time": 1764825142,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 152552,
+        "num": 137970,
+        "word": "工作室对易烊千玺说辛苦了",
+        "onboard_time": 1764823463,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146105,
+        "num": 137101,
+        "word": "曹璐自曝在海外生活费每月2500元",
+        "onboard_time": 1764818180,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144564,
+        "num": 136572,
+        "word": "亲生和亲自生的区别",
+        "onboard_time": 1764823762,
+        "rank": 33,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 141949,
+        "num": 136083,
+        "word": "工作性抑郁",
+        "onboard_time": 1764825500,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 135522,
+        "num": 135522,
+        "word": "樊振东2026首个主场碰面薛飞",
+        "onboard_time": 1764825442,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 135205,
+        "num": 135205,
+        "word": "日本着急替马克龙做决定",
+        "onboard_time": 1764821301,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113130,
+        "num": 134806,
+        "word": "开拓者将杨瀚森下放至G联赛",
+        "onboard_time": 1764823823,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 134408,
+        "num": 134408,
+        "word": "马克龙总统第四次访华",
+        "onboard_time": 1764823524,
+        "rank": 38,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 21515,
+        "num": 130445,
+        "word": "蔡依林看了都得楞3秒",
+        "onboard_time": 1764825623,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 127663,
+        "num": 127663,
+        "word": "喜人奇妙夜2西装群像大片",
+        "onboard_time": 1764823762,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126997,
+        "num": 126997,
+        "word": "我们家INFJ怎么没有工作啊",
+        "onboard_time": 1764824602,
+        "rank": 41,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 125539,
+        "num": 125539,
+        "word": "是你吗李现",
+        "onboard_time": 1764825923,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75114,
+        "num": 123785,
+        "word": "六公主谈家业被短剧跟风模仿",
+        "onboard_time": 1764824662,
+        "rank": 43,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 122137,
+        "num": 122137,
+        "word": "刘萧旭劝学",
+        "onboard_time": 1764825923,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 77898,
+        "num": 119215,
+        "word": "软饭到嘴边了就是咽不下去",
+        "onboard_time": 1764824421,
+        "rank": 45,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 23431,
+        "num": 118564,
+        "word": "部分门店将老国标电动车转二手卖",
+        "onboard_time": 1764824482,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117966,
+        "num": 117966,
+        "word": "颖儿被付辛博帅到脸红",
+        "onboard_time": 1764824662,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116505,
+        "num": 116505,
+        "word": "评分TOP1的短剧杀回来了",
+        "onboard_time": 1764820702,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110634,
+        "num": 114738,
+        "word": "C的发音是si还是sei",
+        "onboard_time": 1764826041,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙举行会谈#"
+    }
+  }
+}
