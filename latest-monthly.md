@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 06:25:26
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 06:42:42
 </p>
 </blockquote>
 <p>
@@ -3999,6 +3999,12 @@ JDG宣布GALA入队（热度：169345）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E6%88%90%E7%BD%91%E7%BA%A221%E5%B2%81%E4%BF%9D%E7%A0%94%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+12岁成网红21岁保研北大女生发声（热度：168380）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%80%BB%E7%BB%9F%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%AE%BF%E5%8D%8E%23" target="weibo">
 马克龙总统第四次访华（热度：168324）
 </a>
@@ -5363,12 +5369,6 @@ Rookie回应和jiejie争论（热度：143838）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BE%AF%E6%98%8E%E6%98%8A%E6%9D%82%E5%BF%97%23" target="weibo">
 侯明昊杂志（热度：131662）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E6%88%90%E7%BD%91%E7%BA%A221%E5%B2%81%E4%BF%9D%E7%A0%94%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-12岁成网红21岁保研北大女生发声（热度：131581）
 </a>
 </li>
 
