@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764805160897,
+  "endTime": 1764813755769,
   "band_list": [
     {
       "raw_hot": 2425379,
@@ -129,6 +129,14 @@
       "onboard_time": 1764755241,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1430186,
+      "num": 1430186,
+      "word": "江苏爸妈生出混血娃娃",
+      "onboard_time": 1764805221,
+      "rank": 0,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1401454,
@@ -612,7 +620,7 @@
     },
     {
       "raw_hot": 667599,
-      "num": 222371,
+      "num": 253345,
       "word": "入殓师称同事服务猝死老人被托梦质问",
       "onboard_time": 1764774383,
       "rank": 18,
@@ -867,6 +875,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 554338,
+      "num": 302380,
+      "word": "澳将禁止16岁以下用社媒",
+      "onboard_time": 1764811821,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 554300,
       "num": 545119,
       "word": "易烊千玺因身体原因终止原定进组安排",
@@ -1083,6 +1099,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 487558,
+      "num": 296000,
+      "word": "丈夫中千万大奖后打赏女主播近120万",
+      "onboard_time": 1764807620,
+      "rank": 6,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 484560,
       "num": 1062447,
       "word": "张杰跨年演唱会",
@@ -1169,6 +1193,14 @@
       "onboard_time": 1764585263,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 461368,
+      "num": 275311,
+      "word": "电梯里贴这个再也没闻到烟味",
+      "onboard_time": 1764806720,
+      "rank": 10,
+      "category": "幽默"
     },
     {
       "raw_hot": 459798,
@@ -1585,6 +1617,14 @@
       "onboard_time": 1764745221,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 388581,
+      "num": 288862,
+      "word": "美国已全面禁止12个国家旅客入境",
+      "onboard_time": 1764771803,
+      "rank": 40,
+      "category": "国际时政"
     },
     {
       "raw_hot": 388293,
@@ -2123,6 +2163,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 313234,
+      "num": 264193,
+      "word": "刘亦菲陈都灵 全女花千骨",
+      "onboard_time": 1764805518,
+      "rank": 11,
+      "category": "作品衍生"
+    },
+    {
+      "raw_hot": 312639,
+      "num": 312639,
+      "word": "疯狂动物城2里的动物原型",
+      "onboard_time": 1764807981,
+      "rank": 3,
+      "category": "电影"
+    },
+    {
       "raw_hot": 312365,
       "num": 169335,
       "word": "任素汐新角色开局被骗婚",
@@ -2185,14 +2241,6 @@
       "onboard_time": 1764771503,
       "rank": 21,
       "category": "演出"
-    },
-    {
-      "raw_hot": 305415,
-      "num": 185397,
-      "word": "美国已全面禁止12个国家旅客入境",
-      "onboard_time": 1764771803,
-      "rank": 40,
-      "category": "国际时政"
     },
     {
       "raw_hot": 304692,
@@ -2411,6 +2459,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 277352,
+      "num": 158036,
+      "word": "身体有炎症就少吃4种食物",
+      "onboard_time": 1764804378,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 277027,
       "num": 222988,
       "word": "日本两个团体请求访华",
@@ -2555,12 +2611,28 @@
       "category": "财经"
     },
     {
+      "raw_hot": 263358,
+      "num": 263358,
+      "word": "美女入殓师曝从业来最离奇事件",
+      "onboard_time": 1764805820,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 262991,
       "num": 859523,
       "word": "警方就大埔火灾已拘捕13人",
       "onboard_time": 1764577762,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 262266,
+      "num": 262266,
+      "word": "易烊千玺小网站更新",
+      "onboard_time": 1764808161,
+      "rank": 13,
+      "category": "艺人"
     },
     {
       "raw_hot": 260918,
@@ -2649,6 +2721,14 @@
       "onboard_time": 1764719660,
       "rank": 16,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 248328,
+      "num": 248328,
+      "word": "家里家外2",
+      "onboard_time": 1764809062,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 248092,
@@ -3211,6 +3291,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 205625,
+      "num": 205625,
+      "word": "医生听不懂广州话被患者斥责",
+      "onboard_time": 1764804078,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205504,
       "num": 205504,
       "word": "到底拍的有多还原才敢用真名",
@@ -3459,6 +3547,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 194732,
+      "num": 194732,
+      "word": "李晟说江一燕不拍戏浪费了",
+      "onboard_time": 1764804558,
+      "rank": 35,
+      "category": "电影"
+    },
+    {
       "raw_hot": 194476,
       "num": 194476,
       "word": "孙怡怎么把海浪穿在身上",
@@ -3649,6 +3745,14 @@
       "onboard_time": 1764561742,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183936,
+      "num": 156487,
+      "word": "高市早苗盯上中亚5国",
+      "onboard_time": 1764811639,
+      "rank": 21,
+      "category": "国际时政"
     },
     {
       "raw_hot": 183678,
@@ -4195,6 +4299,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 162066,
+      "num": 155495,
+      "word": "难怪看病挂号要找副主任",
+      "onboard_time": 1764811940,
+      "rank": 22,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 161976,
       "num": 161976,
       "word": "汪东城委托 商务价还是二次元价",
@@ -4297,6 +4409,14 @@
       "onboard_time": 1764598104,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160177,
+      "num": 160177,
+      "word": "偶遇王一博纽约攀岩",
+      "onboard_time": 1764811821,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 160099,
@@ -4513,6 +4633,14 @@
       "onboard_time": 1764724161,
       "rank": 25,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 154237,
+      "num": 154237,
+      "word": "郑钦文全球女运动员收入榜第5",
+      "onboard_time": 1764811940,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 153616,
@@ -4931,6 +5059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141719,
+      "num": 141719,
+      "word": "澳规定平台违反社媒禁令可罚2.3亿",
+      "onboard_time": 1764812420,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 141662,
       "num": 369207,
       "word": "国乒4战4胜",
@@ -5291,6 +5427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133861,
+      "num": 133861,
+      "word": "敖瑞鹏不二之臣牵手奔跑路透",
+      "onboard_time": 1764808881,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 133840,
       "num": 133840,
       "word": "什么破炒饭38元一份",
@@ -5483,6 +5627,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131284,
+      "num": 131284,
+      "word": "曹璐想过和孟佳王霏霏组三人舞台",
+      "onboard_time": 1764806720,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 131174,
       "num": 131174,
       "word": "日本国脚合影的战犯是谁",
@@ -5539,6 +5691,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 129591,
+      "num": 129591,
+      "word": "卫生院被指9元奥司他韦卖到86元",
+      "onboard_time": 1764811821,
+      "rank": 27,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 129489,
       "num": 164387,
       "word": "揭秘王励勤名下职务情况",
@@ -5577,6 +5737,14 @@
       "onboard_time": 1764765201,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128632,
+      "num": 276278,
+      "word": "张本智和赢球庆祝动作",
+      "onboard_time": 1764804078,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 128464,
@@ -5691,6 +5859,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 126666,
+      "num": 126666,
+      "word": "开歼20上班是什么体验",
+      "onboard_time": 1764813019,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 126342,
       "num": 126342,
       "word": "画梅一夜掉粉超190万",
@@ -5785,6 +5961,14 @@
       "onboard_time": 1764594143,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 124691,
+      "num": 124691,
+      "word": "马克龙抵京后发文称很高兴",
+      "onboard_time": 1764810440,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 124416,
@@ -6227,14 +6411,6 @@
       "category": "情感,幽默"
     },
     {
-      "raw_hot": 117468,
-      "num": 133580,
-      "word": "张本智和赢球庆祝动作",
-      "onboard_time": 1764804078,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 117425,
       "num": 117425,
       "word": "陈少熙直播",
@@ -6377,6 +6553,14 @@
       "onboard_time": 1764757702,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 115476,
+      "num": 308079,
+      "word": "钎城 Gemini",
+      "onboard_time": 1764806781,
+      "rank": 4,
+      "category": "电竞"
     },
     {
       "raw_hot": 115405,
@@ -6667,6 +6851,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109347,
+      "num": 109347,
+      "word": "罗大美遇害超2年遗体仍在太平间",
+      "onboard_time": 1764812780,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 109312,
       "num": 109312,
       "word": "哥的全宇宙",
@@ -6800,14 +6992,6 @@
       "word": "耳鸣其实是身体发出的警告",
       "onboard_time": 1764582803,
       "rank": 43,
-      "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106939,
-      "num": 106939,
-      "word": "身体有炎症就少吃4种食物",
-      "onboard_time": 1764804378,
-      "rank": 21,
       "category": "健康医疗"
     },
     {
@@ -7009,6 +7193,14 @@
       "onboard_time": 1764743901,
       "rank": 43,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 103115,
+      "num": 103115,
+      "word": "张继科称目前状态差不多全国8强",
+      "onboard_time": 1764807442,
+      "rank": 32,
+      "category": "体育"
     },
     {
       "raw_hot": 102946,
@@ -7243,6 +7435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99711,
+      "num": 99711,
+      "word": "孙颖莎回应和王楚钦配合",
+      "onboard_time": 1764811999,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 99606,
       "num": 99606,
       "word": "朱雀三号意外引爆香飘飘涨停",
@@ -7331,6 +7531,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 97714,
+      "num": 97714,
+      "word": "大自然把撞色玩明白了",
+      "onboard_time": 1764813680,
+      "rank": 34,
+      "category": "旅游"
+    },
+    {
       "raw_hot": 97636,
       "num": 97636,
       "word": "小库里勇士首秀",
@@ -7361,6 +7569,14 @@
       "onboard_time": 1764756321,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97198,
+      "num": 97198,
+      "word": "刘某涉拐走婴儿已被刑拘",
+      "onboard_time": 1764811999,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 96818,
@@ -7521,6 +7737,14 @@
       "onboard_time": 1764681382,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 94858,
+      "num": 94858,
+      "word": "刘耀文回重庆",
+      "onboard_time": 1764811220,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 94628,
@@ -7715,6 +7939,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 91192,
+      "num": 91192,
+      "word": "市民8点排队买胖东来羽绒服",
+      "onboard_time": 1764807380,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91096,
       "num": 133716,
       "word": "G7试图拉中国上贼船",
@@ -7833,6 +8065,14 @@
       "onboard_time": 1764580103,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 89232,
+      "num": 89232,
+      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+      "onboard_time": 1764787035,
+      "rank": 48,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89063,
@@ -8099,12 +8339,12 @@
       "category": "休闲"
     },
     {
-      "raw_hot": 84542,
-      "num": 84542,
-      "word": "医生听不懂广州话被患者斥责",
-      "onboard_time": 1764804078,
-      "rank": 28,
-      "category": "民生新闻"
+      "raw_hot": 83904,
+      "num": 83904,
+      "word": "新疆的电视台有迪丽热巴专栏",
+      "onboard_time": 1764809661,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 83830,
@@ -8411,14 +8651,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 78803,
-      "num": 78803,
-      "word": "小浣熊偷喝商店烈酒醉倒在厕所",
-      "onboard_time": 1764787035,
-      "rank": 48,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 78516,
       "num": 78516,
       "word": "韦雪前男友自曝喜欢的明星",
@@ -8617,6 +8849,14 @@
       "onboard_time": 1764670282,
       "rank": 18,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 74937,
+      "num": 74937,
+      "word": "主教练泰伦卢谈快船裁掉保罗",
+      "onboard_time": 1764813560,
+      "rank": 43,
+      "category": "体育"
     },
     {
       "raw_hot": 74723,
@@ -8867,6 +9107,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 67755,
+      "num": 74220,
+      "word": "旧国标电动车正式禁售",
+      "onboard_time": 1764807259,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 67625,
       "num": 73245,
       "word": "郭士强回应赵睿伤情",
@@ -8905,6 +9153,14 @@
       "onboard_time": 1764692959,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 66605,
+      "num": 74195,
+      "word": "日本电子战部队距台湾仅110公里",
+      "onboard_time": 1764810502,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 66457,
@@ -9009,6 +9265,14 @@
       "onboard_time": 1764801256,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 63801,
+      "num": 74176,
+      "word": "保罗被裁原因曝光",
+      "onboard_time": 1764808823,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 63308,
@@ -9281,14 +9545,6 @@
       "onboard_time": 1764641479,
       "rank": 37,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 55540,
-      "num": 55540,
-      "word": "李晟说江一燕不拍戏浪费了",
-      "onboard_time": 1764804558,
-      "rank": 35,
-      "category": "电影"
     },
     {
       "raw_hot": 55267,

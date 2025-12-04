@@ -1,0 +1,410 @@
+{
+  "runTime": 1764813755769,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1430186,
+        "num": 1430186,
+        "word": "江苏爸妈生出混血娃娃",
+        "onboard_time": 1764805221,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 57715,
+        "num": 533551,
+        "word": "工行存100万存20万利率相同",
+        "onboard_time": 1764751761,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35368,
+        "num": 377140,
+        "word": "冻伤要到烧伤科就诊",
+        "onboard_time": 1764760341,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 312639,
+        "num": 312639,
+        "word": "疯狂动物城2里的动物原型",
+        "onboard_time": 1764807981,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 115476,
+        "num": 308079,
+        "word": "钎城 Gemini",
+        "onboard_time": 1764806781,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 554338,
+        "num": 302380,
+        "word": "澳将禁止16岁以下用社媒",
+        "onboard_time": 1764811821,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 487558,
+        "num": 296000,
+        "word": "丈夫中千万大奖后打赏女主播近120万",
+        "onboard_time": 1764807620,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388581,
+        "num": 288862,
+        "word": "美国已全面禁止12个国家旅客入境",
+        "onboard_time": 1764771803,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 363796,
+        "num": 285559,
+        "word": "考编第1名却因学历重叠政审不合格",
+        "onboard_time": 1764757341,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128632,
+        "num": 276278,
+        "word": "张本智和赢球庆祝动作",
+        "onboard_time": 1764804078,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 461368,
+        "num": 275311,
+        "word": "电梯里贴这个再也没闻到烟味",
+        "onboard_time": 1764806720,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 313234,
+        "num": 264193,
+        "word": "刘亦菲陈都灵 全女花千骨",
+        "onboard_time": 1764805518,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 263358,
+        "num": 263358,
+        "word": "美女入殓师曝从业来最离奇事件",
+        "onboard_time": 1764805820,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262266,
+        "num": 262266,
+        "word": "易烊千玺小网站更新",
+        "onboard_time": 1764808161,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 253345,
+        "num": 253345,
+        "word": "入殓师称同事服务猝死老人被托梦质问",
+        "onboard_time": 1764774383,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248328,
+        "num": 248328,
+        "word": "家里家外2",
+        "onboard_time": 1764809062,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205625,
+        "num": 205625,
+        "word": "医生听不懂广州话被患者斥责",
+        "onboard_time": 1764804078,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194732,
+        "num": 194732,
+        "word": "李晟说江一燕不拍戏浪费了",
+        "onboard_time": 1764804558,
+        "rank": 17,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 160177,
+        "num": 160177,
+        "word": "偶遇王一博纽约攀岩",
+        "onboard_time": 1764811821,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158230,
+        "num": 158230,
+        "word": "李刚受贿1.02亿余元",
+        "onboard_time": 1764754702,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 277352,
+        "num": 158036,
+        "word": "身体有炎症就少吃4种食物",
+        "onboard_time": 1764804378,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 183936,
+        "num": 156487,
+        "word": "高市早苗盯上中亚5国",
+        "onboard_time": 1764811639,
+        "rank": 21,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162066,
+        "num": 155495,
+        "word": "难怪看病挂号要找副主任",
+        "onboard_time": 1764811940,
+        "rank": 22,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 154237,
+        "num": 154237,
+        "word": "郑钦文全球女运动员收入榜第5",
+        "onboard_time": 1764811940,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141719,
+        "num": 141719,
+        "word": "澳规定平台违反社媒禁令可罚2.3亿",
+        "onboard_time": 1764812420,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 133861,
+        "num": 133861,
+        "word": "敖瑞鹏不二之臣牵手奔跑路透",
+        "onboard_time": 1764808881,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131284,
+        "num": 131284,
+        "word": "曹璐想过和孟佳王霏霏组三人舞台",
+        "onboard_time": 1764806720,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129591,
+        "num": 129591,
+        "word": "卫生院被指9元奥司他韦卖到86元",
+        "onboard_time": 1764811821,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126739,
+        "num": 126739,
+        "word": "日本被曝迈向全领域作战",
+        "onboard_time": 1764770724,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 126666,
+        "num": 126666,
+        "word": "开歼20上班是什么体验",
+        "onboard_time": 1764813019,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 124691,
+        "num": 124691,
+        "word": "马克龙抵京后发文称很高兴",
+        "onboard_time": 1764810440,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109347,
+        "num": 109347,
+        "word": "罗大美遇害超2年遗体仍在太平间",
+        "onboard_time": 1764812780,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103115,
+        "num": 103115,
+        "word": "张继科称目前状态差不多全国8强",
+        "onboard_time": 1764807442,
+        "rank": 32,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99711,
+        "num": 99711,
+        "word": "孙颖莎回应和王楚钦配合",
+        "onboard_time": 1764811999,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97714,
+        "num": 97714,
+        "word": "大自然把撞色玩明白了",
+        "onboard_time": 1764813680,
+        "rank": 34,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 97198,
+        "num": 97198,
+        "word": "刘某涉拐走婴儿已被刑拘",
+        "onboard_time": 1764811999,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94858,
+        "num": 94858,
+        "word": "刘耀文回重庆",
+        "onboard_time": 1764811220,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92459,
+        "num": 92459,
+        "word": "于正破防",
+        "onboard_time": 1764789494,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91192,
+        "num": 91192,
+        "word": "市民8点排队买胖东来羽绒服",
+        "onboard_time": 1764807380,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89232,
+        "num": 89232,
+        "word": "小浣熊偷喝商店烈酒醉倒在厕所",
+        "onboard_time": 1764787035,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 88143,
+        "num": 88143,
+        "word": "官方通报考编第一被判定不合格",
+        "onboard_time": 1764804018,
+        "rank": 40,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 83904,
+        "num": 83904,
+        "word": "新疆的电视台有迪丽热巴专栏",
+        "onboard_time": 1764809661,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81207,
+        "num": 81207,
+        "word": "老师发来100多页PDF要求打印",
+        "onboard_time": 1764774443,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74937,
+        "num": 74937,
+        "word": "主教练泰伦卢谈快船裁掉保罗",
+        "onboard_time": 1764813560,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74427,
+        "num": 74427,
+        "word": "李嘉格捂嘴偷笑",
+        "onboard_time": 1764768562,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74280,
+        "num": 74280,
+        "word": "日本称干扰他国卫星技术取得进展",
+        "onboard_time": 1764804018,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 70027,
+        "num": 74246,
+        "word": "肖战第二部预售破亿的电影",
+        "onboard_time": 1764804138,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 67755,
+        "num": 74220,
+        "word": "旧国标电动车正式禁售",
+        "onboard_time": 1764807259,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 66605,
+        "num": 74195,
+        "word": "日本电子战部队距台湾仅110公里",
+        "onboard_time": 1764810502,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 63801,
+        "num": 74176,
+        "word": "保罗被裁原因曝光",
+        "onboard_time": 1764808823,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#支持民营企业发展并走向更加广阔舞台#"
+    }
+  }
+}
