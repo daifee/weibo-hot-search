@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764848451277,
+  "endTime": 1764853106925,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -315,6 +315,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 511316,
+      "num": 203157,
+      "word": "已经停产却让你很怀念的东西",
+      "onboard_time": 1764849682,
+      "rank": 11,
+      "category": "情感"
+    },
+    {
       "raw_hot": 488243,
       "num": 235121,
       "word": "李嘉格与男友正脸合照",
@@ -395,6 +403,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 418001,
+      "num": 207355,
+      "word": "一只大闸蟹引发美国一州恐慌",
+      "onboard_time": 1764850881,
+      "rank": 5,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 402877,
+      "num": 202350,
+      "word": "每个孩子带3斤五花肉去幼儿园",
+      "onboard_time": 1764851061,
+      "rank": 12,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 396831,
       "num": 345989,
       "word": "工作性抑郁",
@@ -441,6 +465,14 @@
       "onboard_time": 1764832520,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 365142,
+      "num": 229647,
+      "word": "蔡徐坤 PUBG",
+      "onboard_time": 1764846802,
+      "rank": 17,
+      "category": "艺人,游戏"
     },
     {
       "raw_hot": 361676,
@@ -513,14 +545,6 @@
       "onboard_time": 1764839061,
       "rank": 4,
       "category": "体育"
-    },
-    {
-      "raw_hot": 326159,
-      "num": 229647,
-      "word": "蔡徐坤 PUBG",
-      "onboard_time": 1764846802,
-      "rank": 17,
-      "category": "艺人,游戏"
     },
     {
       "raw_hot": 321055,
@@ -659,6 +683,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 260959,
+      "num": 201081,
+      "word": "陈奕恒宇宙闪烁请注意路透",
+      "onboard_time": 1764851601,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 260704,
       "num": 252435,
       "word": "中国没有全面清算日本已是宽容至极",
@@ -699,6 +731,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242493,
+      "num": 242493,
+      "word": "周鸿祎称豆包手机冲垮大厂护城河",
+      "onboard_time": 1764848424,
+      "rank": 1,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 242249,
       "num": 354105,
       "word": "陈星旭急的迪丽热巴飙韩语",
@@ -713,6 +753,14 @@
       "onboard_time": 1764811940,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 237408,
+      "num": 220487,
+      "word": "杨幂蓝色镂空裙",
+      "onboard_time": 1764845722,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 235607,
@@ -859,6 +907,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 206263,
+      "num": 206263,
+      "word": "孟子义尖叫之夜官宣节奏",
+      "onboard_time": 1764849262,
+      "rank": 6,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 206075,
       "num": 206075,
       "word": "幼儿园园长诈骗1451万租豪车养男模",
@@ -929,14 +985,6 @@
       "onboard_time": 1764811639,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 200288,
-      "num": 220487,
-      "word": "杨幂蓝色镂空裙",
-      "onboard_time": 1764845722,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 199579,
@@ -1057,6 +1105,14 @@
       "onboard_time": 1764824781,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 184418,
+      "num": 184418,
+      "word": "偶遇李嘉格与男友牵手逛街",
+      "onboard_time": 1764851722,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 183575,
@@ -1275,6 +1331,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 158031,
+      "num": 158031,
+      "word": "多名环卫工用高压水枪打银杏叶",
+      "onboard_time": 1764849861,
+      "rank": 23,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 157789,
       "num": 144017,
       "word": "幼儿园15天虐童上千次案最新进展",
@@ -1297,6 +1361,14 @@
       "onboard_time": 1764819441,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 155127,
+      "num": 155127,
+      "word": "易烊千玺与狗狗海边狂欢",
+      "onboard_time": 1764849622,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 152933,
@@ -1539,6 +1611,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 132135,
+      "num": 132135,
+      "word": "无印良品母公司未对台湾标注中国",
+      "onboard_time": 1764850102,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 131662,
       "num": 131662,
       "word": "侯明昊杂志",
@@ -1643,6 +1723,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 126296,
+      "num": 205831,
+      "word": "王楚钦林诗栋1比0勒布伦兄弟",
+      "onboard_time": 1764850342,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126090,
       "num": 126090,
       "word": "看到了五十多岁的孟子义",
@@ -1705,6 +1793,14 @@
       "onboard_time": 1764834321,
       "rank": 36,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 122982,
+      "num": 122982,
+      "word": "若中国二战投降人类历史就改写了",
+      "onboard_time": 1764851722,
+      "rank": 28,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122641,
@@ -1939,6 +2035,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108753,
+      "num": 108753,
+      "word": "周杰伦终于不是颓废风了",
+      "onboard_time": 1764852322,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 108272,
       "num": 108272,
       "word": "你好种地少年",
@@ -2019,6 +2123,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 104476,
+      "num": 104476,
+      "word": "美脑死亡孕妇靠机器撑四个月后产子",
+      "onboard_time": 1764846260,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 104269,
       "num": 104269,
       "word": "人生走马灯时刻",
@@ -2049,6 +2161,14 @@
       "onboard_time": 1764847701,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 102318,
+      "num": 102318,
+      "word": "周柯宇 姐弟恋在家好刺激",
+      "onboard_time": 1764852502,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 101174,
@@ -2139,6 +2259,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 95661,
+      "num": 95661,
+      "word": "央行即将开展10000亿元买断式逆回购",
+      "onboard_time": 1764852922,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 95369,
       "num": 95369,
       "word": "霍建华曾把红酒泼到林心如包上",
@@ -2193,6 +2321,14 @@
       "onboard_time": 1764838162,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 91586,
+      "num": 91586,
+      "word": "第一次见狗是真心拉架",
+      "onboard_time": 1764852380,
+      "rank": 38,
+      "category": "幽默"
     },
     {
       "raw_hot": 91367,
@@ -2283,6 +2419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 87397,
+      "num": 87397,
+      "word": "美的维修师傅性骚扰客户",
+      "onboard_time": 1764851061,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86673,
       "num": 86673,
       "word": "郭宇欣21年中戏毕业照",
@@ -2339,12 +2483,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 81457,
+      "num": 81457,
+      "word": "韩国8比5中国香港",
+      "onboard_time": 1764852922,
+      "rank": 42,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80010,
       "num": 533551,
       "word": "工行存100万存20万利率相同",
       "onboard_time": 1764751761,
       "rank": 1,
       "category": "财经"
+    },
+    {
+      "raw_hot": 79130,
+      "num": 79130,
+      "word": "WBG官宣Shine加入",
+      "onboard_time": 1764851900,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 78332,
@@ -2355,12 +2515,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 78020,
+      "num": 78020,
+      "word": "官方通报新疆阿合奇6.0级地震",
+      "onboard_time": 1764852322,
+      "rank": 47,
+      "category": "突发/灾害"
+    },
+    {
       "raw_hot": 77898,
       "num": 119215,
       "word": "软饭到嘴边了就是咽不下去",
       "onboard_time": 1764824421,
       "rank": 45,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 77888,
+      "num": 77888,
+      "word": "牛奶鸡蛋醪糟",
+      "onboard_time": 1764849321,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 77272,
@@ -2571,14 +2747,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 60548,
-      "num": 101249,
-      "word": "美脑死亡孕妇靠机器撑四个月后产子",
-      "onboard_time": 1764846260,
-      "rank": 43,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 60456,
       "num": 355611,
       "word": "本轮寒潮收尾",
@@ -2593,6 +2761,14 @@
       "onboard_time": 1764829041,
       "rank": 14,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 59930,
+      "num": 81119,
+      "word": "终于有APP更新不像挤牙膏了",
+      "onboard_time": 1764850342,
+      "rank": 43,
+      "category": "互联网"
     },
     {
       "raw_hot": 59691,
@@ -2697,6 +2873,14 @@
       "onboard_time": 1764772645,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 49458,
+      "num": 121233,
+      "word": "麦玲玲的马年开运好物分享",
+      "onboard_time": 1764849501,
+      "rank": 29,
+      "category": "情感"
     },
     {
       "raw_hot": 48887,
@@ -2819,6 +3003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35356,
+      "num": 204339,
+      "word": "蔡磊回应未来准备尝试脑机接口",
+      "onboard_time": 1764852202,
+      "rank": 9,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34849,
       "num": 256885,
       "word": "法外长重申坚定奉行一个中国政策",
@@ -2844,7 +3036,7 @@
     },
     {
       "raw_hot": 31075,
-      "num": 121648,
+      "num": 241497,
       "word": "新质福建万千气象",
       "onboard_time": 1764842662,
       "rank": 39,
@@ -2985,6 +3177,14 @@
       "onboard_time": 1764790214,
       "rank": 49,
       "category": "时尚"
+    },
+    {
+      "raw_hot": 11641,
+      "num": 88327,
+      "word": "白鸭绒暴涨屠宰场1个月提价3次",
+      "onboard_time": 1764852261,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11043,

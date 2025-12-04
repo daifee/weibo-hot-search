@@ -1,0 +1,410 @@
+{
+  "runTime": 1764853106925,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 421681,
+        "num": 1067469,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242493,
+        "num": 242493,
+        "word": "周鸿祎称豆包手机冲垮大厂护城河",
+        "onboard_time": 1764848424,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 20794,
+        "num": 241497,
+        "word": "新质福建万千气象",
+        "onboard_time": 1764842662,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 240615,
+        "num": 240615,
+        "word": "2025尖叫之夜全阵容名单",
+        "onboard_time": 1764841282,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196312,
+        "num": 207852,
+        "word": "新疆地震",
+        "onboard_time": 1764834860,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 418001,
+        "num": 207355,
+        "word": "一只大闸蟹引发美国一州恐慌",
+        "onboard_time": 1764850881,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 206263,
+        "num": 206263,
+        "word": "孟子义尖叫之夜官宣节奏",
+        "onboard_time": 1764849262,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126296,
+        "num": 205831,
+        "word": "王楚钦林诗栋1比0勒布伦兄弟",
+        "onboard_time": 1764850342,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70834,
+        "num": 205310,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 35356,
+        "num": 204339,
+        "word": "蔡磊回应未来准备尝试脑机接口",
+        "onboard_time": 1764852202,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 552494,
+        "num": 204274,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 511316,
+        "num": 203157,
+        "word": "已经停产却让你很怀念的东西",
+        "onboard_time": 1764849682,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 402877,
+        "num": 202350,
+        "word": "每个孩子带3斤五花肉去幼儿园",
+        "onboard_time": 1764851061,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 365142,
+        "num": 202219,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 260959,
+        "num": 201081,
+        "word": "陈奕恒宇宙闪烁请注意路透",
+        "onboard_time": 1764851601,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237408,
+        "num": 200902,
+        "word": "杨幂蓝色镂空裙",
+        "onboard_time": 1764845722,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200377,
+        "num": 200377,
+        "word": "周柯宇现偶最穷的男主",
+        "onboard_time": 1764846860,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 207707,
+        "num": 198390,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 192441,
+        "num": 192441,
+        "word": "9键和26键突然停止了争吵",
+        "onboard_time": 1764840442,
+        "rank": 18,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163549,
+        "num": 188013,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 416420,
+        "num": 186859,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 184418,
+        "num": 184418,
+        "word": "偶遇李嘉格与男友牵手逛街",
+        "onboard_time": 1764851722,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 164832,
+        "num": 164832,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 158031,
+        "num": 158031,
+        "word": "多名环卫工用高压水枪打银杏叶",
+        "onboard_time": 1764849861,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157679,
+        "num": 157679,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155127,
+        "num": 155127,
+        "word": "易烊千玺与狗狗海边狂欢",
+        "onboard_time": 1764849622,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132135,
+        "num": 132135,
+        "word": "无印良品母公司未对台湾标注中国",
+        "onboard_time": 1764850102,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126614,
+        "num": 126614,
+        "word": "美女子脑死亡后因堕胎禁令被迫产子",
+        "onboard_time": 1764842780,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 122982,
+        "num": 122982,
+        "word": "若中国二战投降人类历史就改写了",
+        "onboard_time": 1764851722,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49458,
+        "num": 121233,
+        "word": "麦玲玲的马年开运好物分享",
+        "onboard_time": 1764849501,
+        "rank": 29,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 119784,
+        "num": 119784,
+        "word": "看到了五十多岁的孟子义",
+        "onboard_time": 1764847521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110352,
+        "num": 110352,
+        "word": "娱乐圈新姐夫驾到",
+        "onboard_time": 1764847701,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 108753,
+        "num": 108753,
+        "word": "周杰伦终于不是颓废风了",
+        "onboard_time": 1764852322,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104476,
+        "num": 104476,
+        "word": "美脑死亡孕妇靠机器撑四个月后产子",
+        "onboard_time": 1764846260,
+        "rank": 33,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 102318,
+        "num": 102318,
+        "word": "周柯宇 姐弟恋在家好刺激",
+        "onboard_time": 1764852502,
+        "rank": 34,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 99049,
+        "num": 99049,
+        "word": "日方需给中方一个交代",
+        "onboard_time": 1764838761,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 97464,
+        "num": 97464,
+        "word": "工作一整年存了3700块钱",
+        "onboard_time": 1764840622,
+        "rank": 36,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 95661,
+        "num": 95661,
+        "word": "央行即将开展10000亿元买断式逆回购",
+        "onboard_time": 1764852922,
+        "rank": 37,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 91586,
+        "num": 91586,
+        "word": "第一次见狗是真心拉架",
+        "onboard_time": 1764852380,
+        "rank": 38,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 11641,
+        "num": 88327,
+        "word": "白鸭绒暴涨屠宰场1个月提价3次",
+        "onboard_time": 1764852261,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87397,
+        "num": 87397,
+        "word": "美的维修师傅性骚扰客户",
+        "onboard_time": 1764851061,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85860,
+        "num": 85860,
+        "word": "拜托那可是陈妍希",
+        "onboard_time": 1764847460,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 81457,
+        "num": 81457,
+        "word": "韩国8比5中国香港",
+        "onboard_time": 1764852922,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 59930,
+        "num": 81119,
+        "word": "终于有APP更新不像挤牙膏了",
+        "onboard_time": 1764850342,
+        "rank": 43,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 81008,
+        "num": 81008,
+        "word": "刘诗诗杨幂白鹿 全女版秦时明月",
+        "onboard_time": 1764847281,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 79130,
+        "num": 79130,
+        "word": "WBG官宣Shine加入",
+        "onboard_time": 1764851900,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 78905,
+        "num": 78905,
+        "word": "超级月亮",
+        "onboard_time": 1764845961,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 78020,
+        "num": 78020,
+        "word": "官方通报新疆阿合奇6.0级地震",
+        "onboard_time": 1764852322,
+        "rank": 47,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 77888,
+        "num": 77888,
+        "word": "牛奶鸡蛋醪糟",
+        "onboard_time": 1764849321,
+        "rank": 48,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 76921,
+        "num": 76921,
+        "word": "张钧甯回应邱泽许玮甯结婚",
+        "onboard_time": 1764844341,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙共同会见记者#"
+    }
+  }
+}
