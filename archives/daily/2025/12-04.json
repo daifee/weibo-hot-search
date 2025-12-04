@@ -1,10 +1,10 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764819461559,
+  "endTime": 1764819726704,
   "band_list": [
     {
-      "raw_hot": 2123940,
-      "num": 250541,
+      "raw_hot": 2162256,
+      "num": 285925,
       "word": "全球抛售日本",
       "onboard_time": 1764816859,
       "rank": 10,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 978675,
-      "num": 267831,
+      "num": 307224,
       "word": "丈夫被精神病人杀害妻子一夜白头",
       "onboard_time": 1764816139,
       "rank": 5,
@@ -28,11 +28,19 @@
     },
     {
       "raw_hot": 732062,
-      "num": 1073936,
+      "num": 1074669,
       "word": "澳将禁止16岁以下用社媒",
       "onboard_time": 1764811821,
       "rank": 5,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 700675,
+      "num": 293427,
+      "word": "曹璐自曝在海外生活费每月2500元",
+      "onboard_time": 1764818180,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 667599,
@@ -41,14 +49,6 @@
       "onboard_time": 1764774383,
       "rank": 11,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 622655,
-      "num": 247214,
-      "word": "曹璐自曝在海外生活费每月2500元",
-      "onboard_time": 1764818180,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 606778,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 583286,
-      "num": 244140,
+      "num": 278423,
       "word": "小鬼王琳凯与卜凡合照",
       "onboard_time": 1764815840,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 567286,
+      "num": 301878,
+      "word": "刘强东父母现身京东食堂做饭",
+      "onboard_time": 1764819081,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 556117,
@@ -73,14 +81,6 @@
       "onboard_time": 1764761841,
       "rank": 10,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 523533,
-      "num": 263326,
-      "word": "刘强东父母现身京东食堂做饭",
-      "onboard_time": 1764819081,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 519733,
@@ -115,7 +115,7 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 428518,
+      "raw_hot": 434170,
       "num": 326948,
       "word": "家里家外2",
       "onboard_time": 1764809062,
@@ -124,7 +124,7 @@
     },
     {
       "raw_hot": 426989,
-      "num": 240756,
+      "num": 271160,
       "word": "颖儿又夸付辛博了",
       "onboard_time": 1764815240,
       "rank": 13,
@@ -132,7 +132,7 @@
     },
     {
       "raw_hot": 425098,
-      "num": 235765,
+      "num": 276927,
       "word": "取完餐外卖员差点吐了",
       "onboard_time": 1764817040,
       "rank": 14,
@@ -148,11 +148,27 @@
     },
     {
       "raw_hot": 388581,
-      "num": 292959,
+      "num": 299078,
       "word": "美国已全面禁止12个国家旅客入境",
       "onboard_time": 1764771803,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 384781,
+      "num": 266758,
+      "word": "爱泼斯坦私人岛屿的照片被公开",
+      "onboard_time": 1764819382,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 332575,
+      "num": 264677,
+      "word": "24人骗取生育津贴超220万",
+      "onboard_time": 1764814640,
+      "rank": 20,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 329628,
@@ -163,12 +179,36 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 321055,
+      "num": 321055,
+      "word": "王楚钦vs安宰贤",
+      "onboard_time": 1764815840,
+      "rank": 1,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 314996,
+      "num": 262471,
+      "word": "老吃家情侣不需要漂亮饭",
+      "onboard_time": 1764817581,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 312639,
       "num": 312639,
       "word": "疯狂动物城2里的动物原型",
       "onboard_time": 1764807981,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 309455,
+      "num": 309455,
+      "word": "恋与深空",
+      "onboard_time": 1764818599,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 308679,
@@ -179,36 +219,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307275,
-      "num": 233920,
-      "word": "爱泼斯坦私人岛屿的照片被公开",
-      "onboard_time": 1764819382,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 295441,
-      "num": 231675,
-      "word": "老吃家情侣不需要漂亮饭",
-      "onboard_time": 1764817581,
-      "rank": 16,
-      "category": "幽默"
-    },
-    {
       "raw_hot": 293331,
-      "num": 214831,
+      "num": 245479,
       "word": "这居然是陈妍希画的",
       "onboard_time": 1764816020,
       "rank": 21,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 288425,
-      "num": 228021,
-      "word": "24人骗取生育津贴超220万",
-      "onboard_time": 1764814640,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 284675,
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 283913,
-      "num": 259433,
+      "num": 269528,
       "word": "不二之臣",
       "onboard_time": 1764814399,
       "rank": 18,
@@ -243,28 +259,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 276803,
-      "num": 276803,
-      "word": "王楚钦vs安宰贤",
-      "onboard_time": 1764815840,
-      "rank": 1,
-      "category": "体育"
-    },
-    {
       "raw_hot": 272542,
       "num": 272542,
       "word": "双轨",
       "onboard_time": 1764741200,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268206,
-      "num": 268206,
-      "word": "恋与深空",
-      "onboard_time": 1764818599,
-      "rank": 4,
-      "category": "游戏"
     },
     {
       "raw_hot": 263358,
@@ -331,6 +331,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 208302,
+      "num": 208302,
+      "word": "佘诗曼自曝已立遗嘱",
+      "onboard_time": 1764818780,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 206075,
       "num": 206075,
       "word": "幼儿园园长诈骗1451万租豪车养男模",
@@ -363,6 +371,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 195230,
+      "num": 253878,
+      "word": "浙江跨晚 李飞年终小考",
+      "onboard_time": 1764818599,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 194732,
       "num": 194732,
       "word": "李晟说江一燕不拍戏浪费了",
@@ -387,12 +403,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 187773,
-      "num": 187773,
-      "word": "佘诗曼自曝已立遗嘱",
-      "onboard_time": 1764818780,
-      "rank": 28,
-      "category": "艺人"
+      "raw_hot": 186185,
+      "num": 186185,
+      "word": "电影得闲谨制美国上映",
+      "onboard_time": 1764818661,
+      "rank": 30,
+      "category": "电影"
     },
     {
       "raw_hot": 183575,
@@ -401,14 +417,6 @@
       "onboard_time": 1764811821,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 179289,
-      "num": 179289,
-      "word": "电影得闲谨制美国上映",
-      "onboard_time": 1764818661,
-      "rank": 30,
-      "category": "电影"
     },
     {
       "raw_hot": 178771,
@@ -475,12 +483,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 156133,
-      "num": 220823,
-      "word": "浙江跨晚 李飞年终小考",
-      "onboard_time": 1764818599,
-      "rank": 19,
-      "category": "综艺"
+      "raw_hot": 156666,
+      "num": 156666,
+      "word": "适合方圆脸的人生发型",
+      "onboard_time": 1764819441,
+      "rank": 40,
+      "category": "美妆"
     },
     {
       "raw_hot": 152933,
@@ -491,12 +499,36 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 151963,
+      "num": 151963,
+      "word": "50年内没人看得懂胡先煦这段",
+      "onboard_time": 1764819081,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 150916,
       "num": 145244,
       "word": "李飞的早餐",
       "onboard_time": 1764766163,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 149705,
+      "num": 149705,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1764819562,
+      "rank": 36,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 147445,
+      "num": 147445,
+      "word": "中国没有全面清算日本已是宽容至极",
+      "onboard_time": 1764818599,
+      "rank": 39,
+      "category": "国内时政"
     },
     {
       "raw_hot": 141719,
@@ -539,14 +571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136419,
-      "num": 136419,
-      "word": "50年内没人看得懂胡先煦这段",
-      "onboard_time": 1764819081,
-      "rank": 38,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 136279,
       "num": 122349,
       "word": "中俄达成新的共识",
@@ -579,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130465,
+      "num": 130465,
+      "word": "王曼昱3比0李恩惠",
+      "onboard_time": 1764819202,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130149,
       "num": 130149,
       "word": "大学生真正的床上五件套",
@@ -601,14 +633,6 @@
       "onboard_time": 1764811821,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 129171,
-      "num": 129171,
-      "word": "适合方圆脸的人生发型",
-      "onboard_time": 1764819441,
-      "rank": 40,
-      "category": "美妆"
     },
     {
       "raw_hot": 128632,
@@ -635,14 +659,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 127904,
-      "num": 127904,
-      "word": "王曼昱3比0李恩惠",
-      "onboard_time": 1764819202,
-      "rank": 41,
-      "category": "体育"
-    },
-    {
       "raw_hot": 126666,
       "num": 126666,
       "word": "开歼20上班是什么体验",
@@ -656,14 +672,6 @@
       "word": "马克龙抵京后发文称很高兴",
       "onboard_time": 1764810440,
       "rank": 30,
-      "category": "国内时政"
-    },
-    {
-      "raw_hot": 123530,
-      "num": 131127,
-      "word": "中国没有全面清算日本已是宽容至极",
-      "onboard_time": 1764818599,
-      "rank": 39,
       "category": "国内时政"
     },
     {
@@ -691,6 +699,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 119226,
+      "num": 119226,
+      "word": "林诗栋蒯曼3比0朴康贤金娜英",
+      "onboard_time": 1764819501,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115476,
       "num": 326029,
       "word": "钎城 Gemini",
@@ -699,8 +715,8 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 110259,
-      "num": 110259,
+      "raw_hot": 113044,
+      "num": 113044,
       "word": "杨瀚森2分1篮板1助攻",
       "onboard_time": 1764818422,
       "rank": 47,
@@ -721,6 +737,14 @@
       "onboard_time": 1764815479,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107056,
+      "num": 107056,
+      "word": "原来脸小也不一定好看",
+      "onboard_time": 1764819682,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 105445,
@@ -876,11 +900,19 @@
     },
     {
       "raw_hot": 81914,
-      "num": 183531,
+      "num": 190775,
       "word": "Mate80屏幕神话级强光挑战",
       "onboard_time": 1764818661,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 81767,
+      "num": 289631,
+      "word": "马克龙抵京后发文",
+      "onboard_time": 1764818541,
+      "rank": 9,
+      "category": "国内时政"
     },
     {
       "raw_hot": 80010,
@@ -1083,14 +1115,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 52194,
-      "num": 254153,
-      "word": "马克龙抵京后发文",
-      "onboard_time": 1764818541,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 51908,
       "num": 60882,
       "word": "年薪435万董事长反对自己当选董事长",
@@ -1171,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 34849,
+      "num": 256885,
+      "word": "法外长重申坚定奉行一个中国政策",
+      "onboard_time": 1764818541,
+      "rank": 18,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 30012,
       "num": 46000,
       "word": "网络名人账号违法违规行为被查",
@@ -1185,14 +1217,6 @@
       "onboard_time": 1764780439,
       "rank": 39,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 25182,
-      "num": 225577,
-      "word": "法外长重申坚定奉行一个中国政策",
-      "onboard_time": 1764818541,
-      "rank": 18,
-      "category": "国内时政"
     },
     {
       "raw_hot": 24642,
