@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 05:41:04
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 06:25:26
 </p>
 </blockquote>
 <p>
@@ -10677,6 +10677,12 @@ AI什么邪门CP都嗑得下（热度：74982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：71148）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BD%A0%E7%9A%843C%E5%85%85%E7%94%B5%E5%AE%9D%E5%8F%AF%E8%83%BD%E6%98%AF%E5%81%87%E7%9A%84%23" target="weibo">
 你的3C充电宝可能是假的（热度：70947）
 </a>
@@ -11211,6 +11217,12 @@ zhe里太能装了（热度：63308）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%99%90%E7%AB%A5%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+辽宁幼儿园虐童案最新进展（热度：56892）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%BA%E4%BD%95%E7%B3%96%E5%8F%8B%E6%9B%B4%E6%98%93%E6%82%A3%E5%B8%A6%E7%8A%B6%E7%96%B1%E7%96%B9%23" target="weibo">
 为何糖友更易患带状疱疹（热度：56884）
 </a>
@@ -11529,20 +11541,8 @@ GALA无愧于ADC之名（热度：53032）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%99%90%E7%AB%A5%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
-辽宁幼儿园虐童案最新进展（热度：49464）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BA%A6%E7%8E%B2%E7%8E%B2%E7%9A%84%E9%A9%AC%E5%B9%B4%E5%BC%80%E8%BF%90%E5%A5%BD%E7%89%A9%E5%88%86%E4%BA%AB%23" target="weibo">
 麦玲玲的马年开运好物分享（热度：49458）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-居民废弃酒瓶中砸出过冬眼镜蛇（热度：49455）
 </a>
 </li>
 
@@ -12489,6 +12489,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E5%A4%84%E5%A4%84%E5%90%BB%23" target="weibo">
+狙击蝴蝶处处吻（热度：27177）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AA%E7%A8%8E%E4%B8%93%E9%A1%B9%E6%89%A3%E9%99%A4%E8%AF%B7%E9%81%BF%E5%BC%80%E8%BF%99%E4%BA%9B%E5%A1%AB%E6%8A%A5%E6%98%93%E9%94%99%E7%82%B9%23" target="weibo">
 个税专项扣除请避开这些填报易错点（热度：27075）
 </a>
@@ -12789,6 +12795,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2310%E5%85%AC%E6%96%A4%E5%A5%B6%E4%BB%85%E6%9C%89%E4%B8%8D%E5%88%B01%E5%85%AC%E6%96%A4%E5%A5%B6%E7%9A%AE%E5%AD%90%23" target="weibo">
+10公斤奶仅有不到1公斤奶皮子（热度：20194）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E9%80%9A%E8%BF%87%E5%A4%96%E5%8D%96%E6%89%BE%E5%88%B0%E5%A6%BB%E5%AD%90%E6%89%93%E8%B5%8F%E7%9A%84%E7%94%B7%E4%B8%BB%E6%92%AD%23" target="weibo">
 男子通过外卖找到妻子打赏的男主播（热度：20121）
 </a>
@@ -12797,12 +12809,6 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%83%91%E5%B7%9E5%E5%B2%81%E7%94%B7%E7%AB%A5%E4%BC%A0%E7%94%B2%E6%B5%81%E8%87%B4%E5%85%A8%E5%AE%B6%E6%84%9F%E6%9F%93%23" target="weibo">
 郑州5岁男童传甲流致全家感染（热度：20009）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%2310%E5%85%AC%E6%96%A4%E5%A5%B6%E4%BB%85%E6%9C%89%E4%B8%8D%E5%88%B01%E5%85%AC%E6%96%A4%E5%A5%B6%E7%9A%AE%E5%AD%90%23" target="weibo">
-10公斤奶仅有不到1公斤奶皮子（热度：19703）
 </a>
 </li>
 
@@ -12951,6 +12957,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BC%BC%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%9A%84%E7%BE%8E%E5%A5%B3%E5%85%A5%E6%AE%93%E5%B8%88%E8%B5%B0%E7%BA%A2%23" target="weibo">
+神似张碧晨的美女入殓师走红（热度：15680）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%97%91%E4%B8%8A%E5%8F%8C%E5%BC%BAcp%E5%B0%B1%E5%8F%91%E4%BA%86%E7%8B%A0%E5%BF%98%E4%BA%86%E6%83%85%23" target="weibo">
 嗑上双强cp就发了狠忘了情（热度：15669）
 </a>
@@ -13043,12 +13055,6 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%97%B6%E5%B0%9A%E6%88%98%E7%BB%A9%23" target="weibo">
 张小斐 时尚战绩（热度：12082）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BC%BC%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%9A%84%E7%BE%8E%E5%A5%B3%E5%85%A5%E6%AE%93%E5%B8%88%E8%B5%B0%E7%BA%A2%23" target="weibo">
-神似张碧晨的美女入殓师走红（热度：12072）
 </a>
 </li>
 
