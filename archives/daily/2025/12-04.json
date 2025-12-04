@@ -1,10 +1,10 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764827074796,
+  "endTime": 1764830545608,
   "band_list": [
     {
       "raw_hot": 2440776,
-      "num": 311368,
+      "num": 343726,
       "word": "内娱顶流 老来得女",
       "onboard_time": 1764820102,
       "rank": 10,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 2329514,
-      "num": 201590,
+      "num": 235418,
       "word": "郑恺苗苗 三年生3个孩子",
       "onboard_time": 1764823103,
       "rank": 20,
@@ -52,7 +52,7 @@
     },
     {
       "raw_hot": 837889,
-      "num": 228055,
+      "num": 234049,
       "word": "等等 魔丸邓超生了个灵珠儿子",
       "onboard_time": 1764821122,
       "rank": 20,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 819912,
-      "num": 332860,
+      "num": 470223,
       "word": "沈梦辰创业半年倒闭",
       "onboard_time": 1764824303,
       "rank": 5,
@@ -68,11 +68,19 @@
     },
     {
       "raw_hot": 755939,
-      "num": 314337,
+      "num": 357061,
       "word": "取完餐外卖员差点吐了",
       "onboard_time": 1764817040,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 749710,
+      "num": 352082,
+      "word": "黄子韬进时代峰峻大楼",
+      "onboard_time": 1764827601,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 732062,
@@ -91,12 +99,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 684457,
+      "num": 684457,
+      "word": "痞幼官宣上恋综",
+      "onboard_time": 1764828801,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 667599,
       "num": 253345,
       "word": "入殓师称同事服务猝死老人被托梦质问",
       "onboard_time": 1764774383,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 642825,
+      "num": 1102852,
+      "word": "韩国标示中国台湾台当局急了",
+      "onboard_time": 1764825142,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 642217,
@@ -108,7 +132,7 @@
     },
     {
       "raw_hot": 615868,
-      "num": 326463,
+      "num": 405190,
       "word": "刘强东父母现身京东食堂做饭",
       "onboard_time": 1764819081,
       "rank": 6,
@@ -121,14 +145,6 @@
       "onboard_time": 1764774622,
       "rank": 20,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 584652,
-      "num": 329002,
-      "word": "韩国标示中国台湾台当局急了",
-      "onboard_time": 1764825142,
-      "rank": 30,
-      "category": "国内时政"
     },
     {
       "raw_hot": 583286,
@@ -145,6 +161,14 @@
       "onboard_time": 1764761841,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 526347,
+      "num": 350566,
+      "word": "香港宣布拆除所有大维修的楼宇棚网",
+      "onboard_time": 1764826582,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 519733,
@@ -171,12 +195,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 488243,
+      "num": 235121,
+      "word": "李嘉格与男友正脸合照",
+      "onboard_time": 1764827002,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 487558,
       "num": 298412,
       "word": "丈夫中千万大奖后打赏女主播近120万",
       "onboard_time": 1764807620,
       "rank": 6,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 477316,
+      "num": 347553,
+      "word": "迪士尼发律师函都得先承认这是朱迪",
+      "onboard_time": 1764827062,
+      "rank": 12,
+      "category": "幽默"
     },
     {
       "raw_hot": 463006,
@@ -211,6 +251,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 396831,
+      "num": 345989,
+      "word": "工作性抑郁",
+      "onboard_time": 1764825500,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 390279,
       "num": 132543,
       "word": "于正破防",
@@ -243,8 +291,16 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 334520,
+      "num": 334520,
+      "word": "阿信代替朱孝天加入F4演唱会",
+      "onboard_time": 1764828621,
+      "rank": 16,
+      "category": "演出"
+    },
+    {
       "raw_hot": 330699,
-      "num": 192648,
+      "num": 225707,
       "word": "小S录跨年宣传片崩溃大哭",
       "onboard_time": 1764823223,
       "rank": 25,
@@ -259,8 +315,16 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 328770,
+      "num": 328770,
+      "word": "美国吸毒人群在街头无意识扭动身体",
+      "onboard_time": 1764824781,
+      "rank": 24,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 321055,
-      "num": 499191,
+      "num": 693456,
       "word": "王楚钦vs安宰贤",
       "onboard_time": 1764815840,
       "rank": 1,
@@ -299,12 +363,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 296775,
-      "num": 296775,
-      "word": "工作性抑郁",
-      "onboard_time": 1764825500,
-      "rank": 34,
-      "category": "情感"
+      "raw_hot": 295270,
+      "num": 495215,
+      "word": "乐视网负债238亿拟花1.8亿炒股",
+      "onboard_time": 1764829220,
+      "rank": 4,
+      "category": "财经"
     },
     {
       "raw_hot": 293331,
@@ -345,14 +409,6 @@
       "onboard_time": 1764821182,
       "rank": 17,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 282890,
-      "num": 181572,
-      "word": "美国吸毒人群在街头无意识扭动身体",
-      "onboard_time": 1764824781,
-      "rank": 24,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 282130,
@@ -419,6 +475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242249,
+      "num": 354105,
+      "word": "陈星旭急的迪丽热巴飙韩语",
+      "onboard_time": 1764827661,
+      "rank": 9,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 241658,
       "num": 241658,
       "word": "郑钦文全球女运动员收入榜第5",
@@ -457,6 +521,14 @@
       "onboard_time": 1764795734,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 215789,
+      "num": 215789,
+      "word": "李嘉格评论区怒怼网友",
+      "onboard_time": 1764829521,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 213047,
@@ -508,7 +580,7 @@
     },
     {
       "raw_hot": 207717,
-      "num": 180643,
+      "num": 227983,
       "word": "男子频繁30秒如厕牵出40人涉黄传播网",
       "onboard_time": 1764823643,
       "rank": 46,
@@ -547,20 +619,20 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201545,
+      "num": 201545,
+      "word": "Jiejie加入WBG",
+      "onboard_time": 1764829160,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 201141,
       "num": 163449,
       "word": "高市早苗盯上中亚5国",
       "onboard_time": 1764811639,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 195678,
-      "num": 195678,
-      "word": "香港宣布拆除所有大维修的楼宇棚网",
-      "onboard_time": 1764826582,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 195230,
@@ -716,7 +788,7 @@
     },
     {
       "raw_hot": 168324,
-      "num": 168324,
+      "num": 226752,
       "word": "马克龙总统第四次访华",
       "onboard_time": 1764823524,
       "rank": 29,
@@ -745,6 +817,14 @@
       "onboard_time": 1764811940,
       "rank": 22,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 161011,
+      "num": 161011,
+      "word": "王丽坤40岁的年龄20岁的身材",
+      "onboard_time": 1764829341,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 159735,
@@ -777,6 +857,14 @@
       "onboard_time": 1764818001,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 152017,
+      "num": 152017,
+      "word": "这4种基因很容易隔代遗传",
+      "onboard_time": 1764827661,
+      "rank": 41,
+      "category": "健康医疗,民生新闻"
     },
     {
       "raw_hot": 151963,
@@ -819,12 +907,36 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 143343,
+      "num": 143343,
+      "word": "肖战搓完你的搓你的",
+      "onboard_time": 1764829582,
+      "rank": 43,
+      "category": "电影"
+    },
+    {
       "raw_hot": 141719,
       "num": 141719,
       "word": "澳规定平台违反社媒禁令可罚2.3亿",
       "onboard_time": 1764812420,
       "rank": 24,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140838,
+      "num": 140838,
+      "word": "中戏05级出了这么多明星",
+      "onboard_time": 1764829341,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 139839,
+      "num": 232688,
+      "word": "华为MateX7影像实力有多强",
+      "onboard_time": 1764830062,
+      "rank": 26,
+      "category": "数码"
     },
     {
       "raw_hot": 139538,
@@ -915,6 +1027,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 130573,
+      "num": 130573,
+      "word": "情侣婚前先后坠楼身亡双方家属回应",
+      "onboard_time": 1764828861,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 130465,
       "num": 130465,
       "word": "王曼昱3比0李恩惠",
@@ -979,6 +1099,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 126771,
+      "num": 173148,
+      "word": "张子枫给谭松韵做了发圈",
+      "onboard_time": 1764829461,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 126666,
       "num": 126666,
       "word": "开歼20上班是什么体验",
@@ -1009,6 +1137,14 @@
       "onboard_time": 1764810440,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 124324,
+      "num": 124324,
+      "word": "场边视角看王楚钦终极穿越",
+      "onboard_time": 1764830482,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 122641,
@@ -1065,14 +1201,6 @@
       "onboard_time": 1764819501,
       "rank": 44,
       "category": "体育"
-    },
-    {
-      "raw_hot": 118900,
-      "num": 118900,
-      "word": "李嘉格与男友正脸合照",
-      "onboard_time": 1764827002,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 115476,
@@ -1145,6 +1273,14 @@
       "onboard_time": 1764766280,
       "rank": 19,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 103306,
+      "num": 236077,
+      "word": "恋综是小爱豆的收留所吗",
+      "onboard_time": 1764829521,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 103115,
@@ -1289,6 +1425,14 @@
       "onboard_time": 1764818661,
       "rank": 29,
       "category": "数码"
+    },
+    {
+      "raw_hot": 80776,
+      "num": 179624,
+      "word": "李施嬅 你弄脏了就擦干净",
+      "onboard_time": 1764830062,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 80010,
@@ -1460,11 +1604,19 @@
     },
     {
       "raw_hot": 60456,
-      "num": 319721,
+      "num": 355611,
       "word": "本轮寒潮收尾",
       "onboard_time": 1764820160,
       "rank": 8,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 60434,
+      "num": 345384,
+      "word": "高市错误言论破坏中日联合声明",
+      "onboard_time": 1764829041,
+      "rank": 14,
+      "category": "国内时政"
     },
     {
       "raw_hot": 59631,
@@ -1513,6 +1665,14 @@
       "onboard_time": 1764767961,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 52863,
+      "num": 234540,
+      "word": "日本别忘了战败国的义务",
+      "onboard_time": 1764829220,
+      "rank": 22,
+      "category": "国内时政"
     },
     {
       "raw_hot": 52309,
@@ -1627,12 +1787,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33648,
+      "num": 163539,
+      "word": "奶奶频繁亲吻孙子致其确诊亲吻病",
+      "onboard_time": 1764830122,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 33011,
+      "num": 233819,
+      "word": "看喜人欠的皱纹不用还了",
+      "onboard_time": 1764830301,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 30012,
       "num": 46000,
       "word": "网络名人账号违法违规行为被查",
       "onboard_time": 1764747740,
       "rank": 48,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 29532,
+      "num": 217692,
+      "word": "入室抢婴案主犯被判死缓后当庭大骂",
+      "onboard_time": 1764830421,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28540,
@@ -1660,7 +1844,7 @@
     },
     {
       "raw_hot": 25880,
-      "num": 340765,
+      "num": 686914,
       "word": "2025宪法宣传周",
       "onboard_time": 1764755542,
       "rank": 2,
@@ -1673,6 +1857,14 @@
       "onboard_time": 1764783495,
       "rank": 47,
       "category": "电影"
+    },
+    {
+      "raw_hot": 24182,
+      "num": 187293,
+      "word": "塔斯汀90天关了907家店",
+      "onboard_time": 1764830062,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 23431,

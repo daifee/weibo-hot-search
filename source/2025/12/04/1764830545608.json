@@ -1,0 +1,410 @@
+{
+  "runTime": 1764830545608,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 642825,
+        "num": 1102852,
+        "word": "韩国标示中国台湾台当局急了",
+        "onboard_time": 1764825142,
+        "rank": 0,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 109204,
+        "num": 693456,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1764815840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21862,
+        "num": 686914,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 684457,
+        "num": 684457,
+        "word": "痞幼官宣上恋综",
+        "onboard_time": 1764828801,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 295270,
+        "num": 495215,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 4,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 470223,
+        "num": 470223,
+        "word": "沈梦辰创业半年倒闭",
+        "onboard_time": 1764824303,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405190,
+        "num": 405190,
+        "word": "刘强东父母现身京东食堂做饭",
+        "onboard_time": 1764819081,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 357061,
+        "num": 357061,
+        "word": "取完餐外卖员差点吐了",
+        "onboard_time": 1764817040,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48014,
+        "num": 355611,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 242249,
+        "num": 354105,
+        "word": "陈星旭急的迪丽热巴飙韩语",
+        "onboard_time": 1764827661,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 749710,
+        "num": 352082,
+        "word": "黄子韬进时代峰峻大楼",
+        "onboard_time": 1764827601,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 526347,
+        "num": 350566,
+        "word": "香港宣布拆除所有大维修的楼宇棚网",
+        "onboard_time": 1764826582,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 477316,
+        "num": 347553,
+        "word": "迪士尼发律师函都得先承认这是朱迪",
+        "onboard_time": 1764827062,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 396831,
+        "num": 345989,
+        "word": "工作性抑郁",
+        "onboard_time": 1764825500,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 60434,
+        "num": 345384,
+        "word": "高市错误言论破坏中日联合声明",
+        "onboard_time": 1764829041,
+        "rank": 14,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 343726,
+        "num": 343726,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 334520,
+        "num": 334520,
+        "word": "阿信代替朱孝天加入F4演唱会",
+        "onboard_time": 1764828621,
+        "rank": 16,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 328770,
+        "num": 328770,
+        "word": "美国吸毒人群在街头无意识扭动身体",
+        "onboard_time": 1764824781,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 236172,
+        "num": 236172,
+        "word": "爱泼斯坦私人岛屿的照片被公开",
+        "onboard_time": 1764819382,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103306,
+        "num": 236077,
+        "word": "恋综是小爱豆的收留所吗",
+        "onboard_time": 1764829521,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1498759,
+        "num": 235418,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 488243,
+        "num": 235121,
+        "word": "李嘉格与男友正脸合照",
+        "onboard_time": 1764827002,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52863,
+        "num": 234540,
+        "word": "日本别忘了战败国的义务",
+        "onboard_time": 1764829220,
+        "rank": 22,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 381585,
+        "num": 234049,
+        "word": "等等 魔丸邓超生了个灵珠儿子",
+        "onboard_time": 1764821122,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33011,
+        "num": 233819,
+        "word": "看喜人欠的皱纹不用还了",
+        "onboard_time": 1764830301,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 220936,
+        "num": 233235,
+        "word": "24人骗取生育津贴超220万",
+        "onboard_time": 1764814640,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139839,
+        "num": 232688,
+        "word": "华为MateX7影像实力有多强",
+        "onboard_time": 1764830062,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 232591,
+        "num": 232591,
+        "word": "不二之臣全阵容官宣",
+        "onboard_time": 1764822383,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 144008,
+        "num": 227983,
+        "word": "男子频繁30秒如厕牵出40人涉黄传播网",
+        "onboard_time": 1764823643,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91799,
+        "num": 226752,
+        "word": "马克龙总统第四次访华",
+        "onboard_time": 1764823524,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 225707,
+        "num": 225707,
+        "word": "小S录跨年宣传片崩溃大哭",
+        "onboard_time": 1764823223,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 29532,
+        "num": 217692,
+        "word": "入室抢婴案主犯被判死缓后当庭大骂",
+        "onboard_time": 1764830421,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 215789,
+        "num": 215789,
+        "word": "李嘉格评论区怒怼网友",
+        "onboard_time": 1764829521,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 206461,
+        "num": 206461,
+        "word": "陈冠希回应本山化",
+        "onboard_time": 1764822562,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 201545,
+        "num": 201545,
+        "word": "Jiejie加入WBG",
+        "onboard_time": 1764829160,
+        "rank": 34,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 206363,
+        "num": 199214,
+        "word": "怀疑我爸是从末世穿越回来的",
+        "onboard_time": 1764820281,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 24182,
+        "num": 187293,
+        "word": "塔斯汀90天关了907家店",
+        "onboard_time": 1764830062,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80776,
+        "num": 179624,
+        "word": "李施嬅 你弄脏了就擦干净",
+        "onboard_time": 1764830062,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126771,
+        "num": 173148,
+        "word": "张子枫给谭松韵做了发圈",
+        "onboard_time": 1764829461,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 33648,
+        "num": 163539,
+        "word": "奶奶频繁亲吻孙子致其确诊亲吻病",
+        "onboard_time": 1764830122,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161011,
+        "num": 161011,
+        "word": "王丽坤40岁的年龄20岁的身材",
+        "onboard_time": 1764829341,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 152017,
+        "num": 152017,
+        "word": "这4种基因很容易隔代遗传",
+        "onboard_time": 1764827661,
+        "rank": 41,
+        "category": "健康医疗,民生新闻"
+      },
+      {
+        "raw_hot": 150295,
+        "num": 150295,
+        "word": "易烊千玺礐嶨音源上线",
+        "onboard_time": 1764822081,
+        "rank": 42,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 143343,
+        "num": 143343,
+        "word": "肖战搓完你的搓你的",
+        "onboard_time": 1764829582,
+        "rank": 43,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 140838,
+        "num": 140838,
+        "word": "中戏05级出了这么多明星",
+        "onboard_time": 1764829341,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 140688,
+        "num": 140688,
+        "word": "颖儿被付辛博帅到脸红",
+        "onboard_time": 1764824662,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130573,
+        "num": 130573,
+        "word": "情侣婚前先后坠楼身亡双方家属回应",
+        "onboard_time": 1764828861,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136773,
+        "num": 130210,
+        "word": "许玮甯老公 闺蜜前男友",
+        "onboard_time": 1764822321,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 128290,
+        "num": 128290,
+        "word": "工作室对易烊千玺说辛苦了",
+        "onboard_time": 1764823463,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124324,
+        "num": 124324,
+        "word": "场边视角看王楚钦终极穿越",
+        "onboard_time": 1764830482,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
