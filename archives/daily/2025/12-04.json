@@ -1,7 +1,15 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764815130685,
+  "endTime": 1764819461559,
   "band_list": [
+    {
+      "raw_hot": 2123940,
+      "num": 250541,
+      "word": "全球抛售日本",
+      "onboard_time": 1764816859,
+      "rank": 10,
+      "category": "国际时政"
+    },
     {
       "raw_hot": 1430186,
       "num": 1430186,
@@ -11,8 +19,16 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 978675,
+      "num": 267831,
+      "word": "丈夫被精神病人杀害妻子一夜白头",
+      "onboard_time": 1764816139,
+      "rank": 5,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 732062,
-      "num": 307701,
+      "num": 1073936,
       "word": "澳将禁止16岁以下用社媒",
       "onboard_time": 1764811821,
       "rank": 5,
@@ -27,6 +43,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 622655,
+      "num": 247214,
+      "word": "曹璐自曝在海外生活费每月2500元",
+      "onboard_time": 1764818180,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 606778,
       "num": 104846,
       "word": "张雪峰被停播如此肇事忒低级",
@@ -35,12 +59,28 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 583286,
+      "num": 244140,
+      "word": "小鬼王琳凯与卜凡合照",
+      "onboard_time": 1764815840,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 556117,
       "num": 150957,
       "word": "高市早苗终于不嘴硬了",
       "onboard_time": 1764761841,
       "rank": 10,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 523533,
+      "num": 263326,
+      "word": "刘强东父母现身京东食堂做饭",
+      "onboard_time": 1764819081,
+      "rank": 6,
+      "category": "互联网"
     },
     {
       "raw_hot": 519733,
@@ -75,6 +115,30 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 428518,
+      "num": 326948,
+      "word": "家里家外2",
+      "onboard_time": 1764809062,
+      "rank": 15,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 426989,
+      "num": 240756,
+      "word": "颖儿又夸付辛博了",
+      "onboard_time": 1764815240,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 425098,
+      "num": 235765,
+      "word": "取完餐外卖员差点吐了",
+      "onboard_time": 1764817040,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 390279,
       "num": 132543,
       "word": "于正破防",
@@ -99,14 +163,6 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 326948,
-      "num": 326948,
-      "word": "家里家外2",
-      "onboard_time": 1764809062,
-      "rank": 15,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 312639,
       "num": 312639,
       "word": "疯狂动物城2里的动物原型",
@@ -115,12 +171,60 @@
       "category": "电影"
     },
     {
+      "raw_hot": 308679,
+      "num": 256785,
+      "word": "王鹤棣沈月现实版尼克朱迪",
+      "onboard_time": 1764816621,
+      "rank": 8,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 307275,
+      "num": 233920,
+      "word": "爱泼斯坦私人岛屿的照片被公开",
+      "onboard_time": 1764819382,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 295441,
+      "num": 231675,
+      "word": "老吃家情侣不需要漂亮饭",
+      "onboard_time": 1764817581,
+      "rank": 16,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 293331,
+      "num": 214831,
+      "word": "这居然是陈妍希画的",
+      "onboard_time": 1764816020,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 288425,
+      "num": 228021,
+      "word": "24人骗取生育津贴超220万",
+      "onboard_time": 1764814640,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 284675,
       "num": 169556,
       "word": "武汉警方通报男子持刀伤人致死",
       "onboard_time": 1764774801,
       "rank": 6,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 283913,
+      "num": 259433,
+      "word": "不二之臣",
+      "onboard_time": 1764814399,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 282130,
@@ -132,11 +236,19 @@
     },
     {
       "raw_hot": 277352,
-      "num": 164945,
+      "num": 200747,
       "word": "身体有炎症就少吃4种食物",
       "onboard_time": 1764804378,
       "rank": 21,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 276803,
+      "num": 276803,
+      "word": "王楚钦vs安宰贤",
+      "onboard_time": 1764815840,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 272542,
@@ -145,6 +257,14 @@
       "onboard_time": 1764741200,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 268206,
+      "num": 268206,
+      "word": "恋与深空",
+      "onboard_time": 1764818599,
+      "rank": 4,
+      "category": "游戏"
     },
     {
       "raw_hot": 263358,
@@ -161,14 +281,6 @@
       "onboard_time": 1764808161,
       "rank": 13,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 251705,
-      "num": 166086,
-      "word": "24人骗取生育津贴超220万",
-      "onboard_time": 1764814640,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 248523,
@@ -211,12 +323,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 213047,
+      "num": 213047,
+      "word": "陈晓评论区吨吨吨吨吨",
+      "onboard_time": 1764817821,
+      "rank": 22,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 206075,
+      "num": 206075,
+      "word": "幼儿园园长诈骗1451万租豪车养男模",
+      "onboard_time": 1764816621,
+      "rank": 24,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 205625,
       "num": 205625,
       "word": "医生听不懂广州话被患者斥责",
       "onboard_time": 1764804078,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 204681,
+      "num": 204681,
+      "word": "张俪外网评价",
+      "onboard_time": 1764815719,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 201141,
@@ -235,12 +371,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 194485,
+      "num": 194485,
+      "word": "刘耀文时代峰峻录制",
+      "onboard_time": 1764817640,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191809,
-      "num": 100975,
+      "num": 118940,
       "word": "国乒对阵韩国孙颖莎轮休",
       "onboard_time": 1764814640,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187773,
+      "num": 187773,
+      "word": "佘诗曼自曝已立遗嘱",
+      "onboard_time": 1764818780,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 183575,
@@ -249,6 +401,22 @@
       "onboard_time": 1764811821,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179289,
+      "num": 179289,
+      "word": "电影得闲谨制美国上映",
+      "onboard_time": 1764818661,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 178771,
+      "num": 178771,
+      "word": "风与潮定档",
+      "onboard_time": 1764816621,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 177688,
@@ -265,14 +433,6 @@
       "onboard_time": 1764753083,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 174210,
-      "num": 174210,
-      "word": "不二之臣",
-      "onboard_time": 1764814399,
-      "rank": 18,
-      "category": "剧集"
     },
     {
       "raw_hot": 169072,
@@ -299,11 +459,35 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 159735,
+      "num": 159735,
+      "word": "英国再推迟批准中方修建新大使馆",
+      "onboard_time": 1764816981,
+      "rank": 33,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 157789,
       "num": 144017,
       "word": "幼儿园15天虐童上千次案最新进展",
       "onboard_time": 1764773242,
       "rank": 15,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156133,
+      "num": 220823,
+      "word": "浙江跨晚 李飞年终小考",
+      "onboard_time": 1764818599,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 152933,
+      "num": 152933,
+      "word": "买家AI合成死螃蟹仅退款被拘8日",
+      "onboard_time": 1764818001,
+      "rank": 34,
       "category": "民生新闻"
     },
     {
@@ -339,12 +523,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 136987,
+      "num": 590783,
+      "word": "孙颖莎回应和王楚钦配合",
+      "onboard_time": 1764811999,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 136426,
       "num": 85323,
       "word": "业内曝中国文娱势力版图",
       "onboard_time": 1764778940,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 136419,
+      "num": 136419,
+      "word": "50年内没人看得懂胡先煦这段",
+      "onboard_time": 1764819081,
+      "rank": 38,
+      "category": "剧集"
     },
     {
       "raw_hot": 136279,
@@ -403,6 +603,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 129171,
+      "num": 129171,
+      "word": "适合方圆脸的人生发型",
+      "onboard_time": 1764819441,
+      "rank": 40,
+      "category": "美妆"
+    },
+    {
       "raw_hot": 128632,
       "num": 276278,
       "word": "张本智和赢球庆祝动作",
@@ -427,6 +635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127904,
+      "num": 127904,
+      "word": "王曼昱3比0李恩惠",
+      "onboard_time": 1764819202,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126666,
       "num": 126666,
       "word": "开歼20上班是什么体验",
@@ -443,12 +659,36 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 123530,
+      "num": 131127,
+      "word": "中国没有全面清算日本已是宽容至极",
+      "onboard_time": 1764818599,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 121762,
       "num": 121762,
       "word": "张杰没有一条微博是白发的",
       "onboard_time": 1764766103,
       "rank": 18,
       "category": "演出"
+    },
+    {
+      "raw_hot": 119263,
+      "num": 119263,
+      "word": "洛天依辣成这样了",
+      "onboard_time": 1764818361,
+      "rank": 44,
+      "category": "音乐"
+    },
+    {
+      "raw_hot": 119236,
+      "num": 119236,
+      "word": "Scout回归LCK首播讲中文",
+      "onboard_time": 1764817400,
+      "rank": 45,
+      "category": "电竞"
     },
     {
       "raw_hot": 115476,
@@ -459,12 +699,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 110259,
+      "num": 110259,
+      "word": "杨瀚森2分1篮板1助攻",
+      "onboard_time": 1764818422,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 109347,
       "num": 109347,
       "word": "罗大美遇害超2年遗体仍在太平间",
       "onboard_time": 1764812780,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 107133,
+      "num": 107133,
+      "word": "人人都骗你偏偏你最好骗",
+      "onboard_time": 1764815479,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 105445,
@@ -497,14 +753,6 @@
       "onboard_time": 1764814700,
       "rank": 32,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 99711,
-      "num": 590783,
-      "word": "孙颖莎回应和王楚钦配合",
-      "onboard_time": 1764811999,
-      "rank": 33,
-      "category": "体育"
     },
     {
       "raw_hot": 97714,
@@ -625,6 +873,14 @@
       "onboard_time": 1764774801,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 81914,
+      "num": 183531,
+      "word": "Mate80屏幕神话级强光挑战",
+      "onboard_time": 1764818661,
+      "rank": 29,
+      "category": "数码"
     },
     {
       "raw_hot": 80010,
@@ -827,6 +1083,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52194,
+      "num": 254153,
+      "word": "马克龙抵京后发文",
+      "onboard_time": 1764818541,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 51908,
       "num": 60882,
       "word": "年薪435万董事长反对自己当选董事长",
@@ -921,6 +1185,14 @@
       "onboard_time": 1764780439,
       "rank": 39,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 25182,
+      "num": 225577,
+      "word": "法外长重申坚定奉行一个中国政策",
+      "onboard_time": 1764818541,
+      "rank": 18,
+      "category": "国内时政"
     },
     {
       "raw_hot": 24642,
