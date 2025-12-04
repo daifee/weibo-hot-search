@@ -1,0 +1,410 @@
+{
+  "runTime": 1764834155297,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 463765,
+        "num": 1074202,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 0,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 419009,
+        "num": 419009,
+        "word": "韩国标示中国台湾台当局急了",
+        "onboard_time": 1764825142,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 37763,
+        "num": 378169,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 566236,
+        "num": 373913,
+        "word": "痞幼官宣上恋综",
+        "onboard_time": 1764828801,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134829,
+        "num": 366978,
+        "word": "Jiejie加入WBG",
+        "onboard_time": 1764829160,
+        "rank": 4,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 366001,
+        "num": 366001,
+        "word": "刘强东父母现身京东食堂做饭",
+        "onboard_time": 1764819081,
+        "rank": 5,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 279203,
+        "num": 365186,
+        "word": "取完餐外卖员差点吐了",
+        "onboard_time": 1764817040,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229596,
+        "num": 349084,
+        "word": "沈梦辰创业半年倒闭",
+        "onboard_time": 1764824303,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 40943,
+        "num": 336891,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160167,
+        "num": 331190,
+        "word": "陈星旭急的迪丽热巴飙韩语",
+        "onboard_time": 1764827661,
+        "rank": 9,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 1021030,
+        "num": 318838,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 667949,
+        "num": 310295,
+        "word": "家里供不起上班了真不是空穴来风",
+        "onboard_time": 1764831802,
+        "rank": 11,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 304040,
+        "num": 304040,
+        "word": "黄子韬进时代峰峻大楼",
+        "onboard_time": 1764827601,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 281657,
+        "num": 281657,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 280435,
+        "num": 280435,
+        "word": "李施嬅 你弄脏了就擦干净",
+        "onboard_time": 1764830062,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 253396,
+        "num": 253396,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 15,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 226588,
+        "num": 226588,
+        "word": "迪士尼发律师函都得先承认这是朱迪",
+        "onboard_time": 1764827062,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 205238,
+        "num": 205238,
+        "word": "香港宣布拆除所有大维修的楼宇棚网",
+        "onboard_time": 1764826582,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 18248,
+        "num": 204676,
+        "word": "俄乌或陷入打谈循环",
+        "onboard_time": 1764833243,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29987,
+        "num": 203759,
+        "word": "看喜人欠的皱纹不用还了",
+        "onboard_time": 1764830301,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 246009,
+        "num": 202604,
+        "word": "张子枫给谭松韵做了发圈",
+        "onboard_time": 1764829461,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 969088,
+        "num": 201710,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 535530,
+        "num": 200939,
+        "word": "李嘉格评论区怒怼网友",
+        "onboard_time": 1764829521,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 484148,
+        "num": 199426,
+        "word": "前任杨丞琳 追过张钧甯 娶了许玮甯",
+        "onboard_time": 1764832643,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198923,
+        "num": 198923,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233356,
+        "num": 197230,
+        "word": "张檬给7个月儿子刷牙",
+        "onboard_time": 1764833661,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 56118,
+        "num": 193492,
+        "word": "华为MateX7影像实力有多强",
+        "onboard_time": 1764830062,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 202888,
+        "num": 193408,
+        "word": "杨紫将登上港版VOGUE封面",
+        "onboard_time": 1764832883,
+        "rank": 27,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 191300,
+        "num": 191300,
+        "word": "等等 魔丸邓超生了个灵珠儿子",
+        "onboard_time": 1764821122,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161267,
+        "num": 187692,
+        "word": "塔斯汀90天关了907家店",
+        "onboard_time": 1764830062,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185599,
+        "num": 185599,
+        "word": "阿信代替朱孝天加入F4演唱会",
+        "onboard_time": 1764828621,
+        "rank": 30,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 184078,
+        "num": 184078,
+        "word": "爱泼斯坦私人岛屿的照片被公开",
+        "onboard_time": 1764819382,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 183877,
+        "num": 183877,
+        "word": "郑恺苗苗每月一次无娃日约会",
+        "onboard_time": 1764832520,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176659,
+        "num": 176659,
+        "word": "李嘉格与男友正脸合照",
+        "onboard_time": 1764827002,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158246,
+        "num": 158246,
+        "word": "航天发展15天10板",
+        "onboard_time": 1764833901,
+        "rank": 34,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 154811,
+        "num": 154811,
+        "word": "工作性抑郁",
+        "onboard_time": 1764825500,
+        "rank": 35,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 140861,
+        "num": 140861,
+        "word": "哪款iPhone可以封神",
+        "onboard_time": 1764831802,
+        "rank": 36,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 140603,
+        "num": 140603,
+        "word": "男朋友的年终奖刚发就没了",
+        "onboard_time": 1764833661,
+        "rank": 37,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 61562,
+        "num": 133552,
+        "word": "委内瑞拉国土面积比乌克兰大",
+        "onboard_time": 1764834022,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 43475,
+        "num": 130873,
+        "word": "4岁男童玩免费项目颅骨骨折",
+        "onboard_time": 1764832941,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 130359,
+        "num": 130359,
+        "word": "美国吸毒人群在街头无意识扭动身体",
+        "onboard_time": 1764824781,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 28483,
+        "num": 126571,
+        "word": "Upset曾收到iG邀请",
+        "onboard_time": 1764832822,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 124029,
+        "num": 124029,
+        "word": "上海一小区突发火灾冒出大量烟雾",
+        "onboard_time": 1764833602,
+        "rank": 42,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 121162,
+        "num": 121162,
+        "word": "入室抢婴案主犯被判死缓后当庭大骂",
+        "onboard_time": 1764830421,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115834,
+        "num": 115834,
+        "word": "陈晓和林夏薇是大学同学",
+        "onboard_time": 1764831201,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 110188,
+        "num": 110188,
+        "word": "易烊千玺礐嶨音源上线",
+        "onboard_time": 1764822081,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 107782,
+        "num": 107782,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764819562,
+        "rank": 46,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 106994,
+        "num": 106994,
+        "word": "怀疑我爸是从末世穿越回来的",
+        "onboard_time": 1764820281,
+        "rank": 47,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 106768,
+        "num": 106768,
+        "word": "大众公用封涨停",
+        "onboard_time": 1764834022,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 22988,
+        "num": 105173,
+        "word": "罗大美妹妹称家人帮杀人凶手还钱",
+        "onboard_time": 1764832462,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
