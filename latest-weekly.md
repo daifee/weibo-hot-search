@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 04:46:02
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 05:27:25
 </p>
 </blockquote>
 <p>
@@ -11619,6 +11619,12 @@ GALA无愧于ADC之名（热度：53032）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：46627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%9D%90%E7%94%B5%E7%93%B6%E8%BD%A6%E6%91%94%E5%80%92%E5%A4%B4%E8%A2%AB%E9%B2%A8%E9%B1%BC%E5%A4%B9%E6%89%8E%E7%A0%B4%23" target="weibo">
 女子坐电瓶车摔倒头被鲨鱼夹扎破（热度：46584）
 </a>
@@ -12113,12 +12119,6 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%94%E8%B7%91%E5%90%A7%23" target="weibo">
 奔跑吧（热度：36240）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-居民废弃酒瓶中砸出过冬眼镜蛇（热度：35896）
 </a>
 </li>
 
@@ -12819,6 +12819,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E5%8E%9F%E8%91%97%23" target="weibo">
+狙击蝴蝶原著（热度：18724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E5%B8%82%E5%A6%84%E8%A8%80%E6%98%AF%E5%9B%A0%E4%B8%BA%E8%BF%98%E5%B9%BB%E6%83%B3%E6%AE%96%E6%B0%91%E5%8F%B0%E6%B9%BE%23" target="weibo">
 高市妄言是因为还幻想殖民台湾（热度：18642）
 </a>
@@ -12947,12 +12953,6 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%BB%86%E8%8A%82%23" target="weibo">
 枭起青壤细节（热度：15471）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E5%8E%9F%E8%91%97%23" target="weibo">
-狙击蝴蝶原著（热度：15448）
 </a>
 </li>
 
@@ -13139,6 +13139,12 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%8F%8B%23" target="weibo">
 赛博朋友（热度：9871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%A7%E6%9F%A5%E6%9F%A5%E4%B9%8B%E5%A4%9C%23" target="weibo">
+剧查查之夜（热度：8883）
 </a>
 </li>
 

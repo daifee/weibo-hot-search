@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764881162677,
+  "endTime": 1764883645243,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -12395,6 +12395,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46627,
+      "num": 26848,
+      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
+      "onboard_time": 1764878714,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 46584,
       "num": 158619,
       "word": "女子坐电瓶车摔倒头被鲨鱼夹扎破",
@@ -12985,14 +12993,6 @@
       "onboard_time": 1764656780,
       "rank": 19,
       "category": "海外新闻,财经"
-    },
-    {
-      "raw_hot": 35896,
-      "num": 26341,
-      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
-      "onboard_time": 1764878714,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 35643,
@@ -13771,6 +13771,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 18724,
+      "num": 18724,
+      "word": "狙击蝴蝶原著",
+      "onboard_time": 1764878054,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 18642,
       "num": 168716,
       "word": "高市妄言是因为还幻想殖民台湾",
@@ -13936,14 +13944,6 @@
       "word": "枭起青壤细节",
       "onboard_time": 1764701595,
       "rank": 45,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 15448,
-      "num": 17910,
-      "word": "狙击蝴蝶原著",
-      "onboard_time": 1764878054,
-      "rank": 27,
       "category": "剧集"
     },
     {
@@ -14169,6 +14169,14 @@
       "onboard_time": 1764879734,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8883,
+      "num": 15178,
+      "word": "剧查查之夜",
+      "onboard_time": 1764883573,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 7298,

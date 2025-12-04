@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 04:46:02
+本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 05:27:25
 </p>
 </blockquote>
 <p>
@@ -321,6 +321,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：46627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AF%92%E6%AD%A6%E7%BA%AA%E5%8F%91%E4%B8%A5%E6%AD%A3%E5%A3%B0%E6%98%8E%23" target="weibo">
 寒武纪发严正声明（热度：44251）
 </a>
@@ -329,12 +335,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%89%8B%E6%9C%BA%E6%94%BE%E7%94%B5%E9%A5%AD%E7%85%B2%E5%86%85%E8%83%86%E6%8A%A2%E7%A5%A8%E6%88%90%E5%8A%9F%E7%8E%87%E4%BC%9A%E9%AB%98%E5%90%97%23" target="weibo">
 手机放电饭煲内胆抢票成功率会高吗（热度：42064）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-居民废弃酒瓶中砸出过冬眼镜蛇（热度：35896）
 </a>
 </li>
 
@@ -369,6 +369,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E5%8E%9F%E8%91%97%23" target="weibo">
+狙击蝴蝶原著（热度：18724）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E7%A3%8A%E6%89%93%E6%B8%B8%E6%88%8F%E7%88%BD%E5%88%B0%E4%BA%86%23" target="weibo">
 吴磊打游戏爽到了（热度：17993）
 </a>
@@ -393,12 +399,6 @@
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E5%8E%9F%E8%91%97%23" target="weibo">
-狙击蝴蝶原著（热度：15448）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%20%E6%97%B6%E5%B0%9A%E6%88%98%E7%BB%A9%23" target="weibo">
 张小斐 时尚战绩（热度：12082）
 </a>
@@ -419,6 +419,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B5%9B%E5%8D%9A%E6%9C%8B%E5%8F%8B%23" target="weibo">
 赛博朋友（热度：9871）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%89%A7%E6%9F%A5%E6%9F%A5%E4%B9%8B%E5%A4%9C%23" target="weibo">
+剧查查之夜（热度：8883）
 </a>
 </li>
 

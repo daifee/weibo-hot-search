@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764881162677,
+  "endTime": 1764883645243,
   "band_list": [
     {
       "raw_hot": 407881,
@@ -411,6 +411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 46627,
+      "num": 26848,
+      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
+      "onboard_time": 1764878714,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 44251,
       "num": 83614,
       "word": "寒武纪发严正声明",
@@ -424,14 +432,6 @@
       "word": "手机放电饭煲内胆抢票成功率会高吗",
       "onboard_time": 1764865638,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35896,
-      "num": 26341,
-      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
-      "onboard_time": 1764878714,
-      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -475,6 +475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 18724,
+      "num": 18724,
+      "word": "狙击蝴蝶原著",
+      "onboard_time": 1764878054,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 17993,
       "num": 25282,
       "word": "吴磊打游戏爽到了",
@@ -507,14 +515,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 15448,
-      "num": 17910,
-      "word": "狙击蝴蝶原著",
-      "onboard_time": 1764878054,
-      "rank": 27,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 12082,
       "num": 17850,
       "word": "张小斐 时尚战绩",
@@ -545,6 +545,14 @@
       "onboard_time": 1764879734,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 8883,
+      "num": 15178,
+      "word": "剧查查之夜",
+      "onboard_time": 1764883573,
+      "rank": 49,
+      "category": "剧集"
     },
     {
       "raw_hot": 2133,
