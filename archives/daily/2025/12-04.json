@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764838323518,
+  "endTime": 1764840821265,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -65,6 +65,14 @@
       "onboard_time": 1764819382,
       "rank": 15,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 902836,
+      "num": 194154,
+      "word": "孟子义高考512分",
+      "onboard_time": 1764837141,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 837889,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 616695,
-      "num": 253396,
+      "num": 292022,
       "word": "婚房被改小三婴儿房",
       "onboard_time": 1764833540,
       "rank": 15,
@@ -177,6 +185,14 @@
       "onboard_time": 1764774622,
       "rank": 20,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 591459,
+      "num": 208060,
+      "word": "谁把boss不聘做出来了",
+      "onboard_time": 1764837742,
+      "rank": 27,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 583286,
@@ -224,6 +240,14 @@
       "word": "考编第1名却因学历重叠政审不合格",
       "onboard_time": 1764757341,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 519676,
+      "num": 245131,
+      "word": "罗大美生前外借200多万无人主动归还",
+      "onboard_time": 1764838942,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -315,12 +339,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 418854,
-      "num": 173041,
-      "word": "孟子义高考512分",
-      "onboard_time": 1764837141,
-      "rank": 24,
-      "category": "艺人"
+      "raw_hot": 404670,
+      "num": 404670,
+      "word": "豆包手机",
+      "onboard_time": 1764838342,
+      "rank": 1,
+      "category": "数码"
     },
     {
       "raw_hot": 396831,
@@ -355,12 +379,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 384859,
+      "num": 269843,
+      "word": "日方需给中方一个交代",
+      "onboard_time": 1764838761,
+      "rank": 5,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 380106,
       "num": 298747,
       "word": "陈冠希回应本山化",
       "onboard_time": 1764822562,
       "rank": 15,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 379983,
+      "num": 248139,
+      "word": "24岁女生咳嗽不止查出肺癌",
+      "onboard_time": 1764831921,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 379361,
@@ -377,14 +417,6 @@
       "onboard_time": 1764822383,
       "rank": 19,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 334715,
-      "num": 244720,
-      "word": "24岁女生咳嗽不止查出肺癌",
-      "onboard_time": 1764831921,
-      "rank": 26,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 334520,
@@ -523,6 +555,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 280580,
+      "num": 280580,
+      "word": "王楚钦孙颖莎vsA勒布伦袁嘉楠",
+      "onboard_time": 1764839061,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 280316,
+      "num": 202284,
+      "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
+      "onboard_time": 1764838461,
+      "rank": 15,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 277352,
       "num": 200747,
       "word": "身体有炎症就少吃4种食物",
@@ -603,6 +651,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 235607,
+      "num": 214755,
+      "word": "林峯你能不能体面的老去",
+      "onboard_time": 1764836062,
+      "rank": 19,
+      "category": "演出"
+    },
+    {
       "raw_hot": 235537,
       "num": 247787,
       "word": "乐视网总市值仅剩12亿",
@@ -649,14 +705,6 @@
       "onboard_time": 1764795734,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 214755,
-      "num": 214755,
-      "word": "林峯你能不能体面的老去",
-      "onboard_time": 1764836062,
-      "rank": 19,
-      "category": "演出"
     },
     {
       "raw_hot": 213047,
@@ -873,6 +921,14 @@
       "onboard_time": 1764811821,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 182347,
+      "num": 182347,
+      "word": "陈晓说我们都是要脸的人",
+      "onboard_time": 1764839483,
+      "rank": 24,
+      "category": "剧集"
     },
     {
       "raw_hot": 179404,
@@ -1107,19 +1163,19 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 148956,
-      "num": 147138,
-      "word": "谁把boss不聘做出来了",
-      "onboard_time": 1764837742,
-      "rank": 27,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 147434,
       "num": 147434,
       "word": "彭小苒瞪眼看弹幕失去表情管理",
       "onboard_time": 1764821781,
       "rank": 40,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 145822,
+      "num": 145822,
+      "word": "瓜主说杨紫没空拍国内版VOGUE",
+      "onboard_time": 1764839002,
+      "rank": 27,
       "category": "艺人"
     },
     {
@@ -1307,6 +1363,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130160,
+      "num": 130160,
+      "word": "9键和26键突然停止了争吵",
+      "onboard_time": 1764840442,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 130149,
       "num": 130149,
       "word": "大学生真正的床上五件套",
@@ -1408,6 +1472,22 @@
       "word": "有人穿带吊牌衣服上街网友称可帮剪",
       "onboard_time": 1764834321,
       "rank": 36,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123485,
+      "num": 123485,
+      "word": "张小斐 争气",
+      "onboard_time": 1764840202,
+      "rank": 29,
+      "category": "作品衍生,时尚"
+    },
+    {
+      "raw_hot": 123165,
+      "num": 123165,
+      "word": "新东方员工长文控诉加班",
+      "onboard_time": 1764838282,
+      "rank": 42,
       "category": "民生新闻"
     },
     {
@@ -1523,12 +1603,28 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 118703,
+      "num": 118703,
+      "word": "朋友赠护身符竟成夺命符",
+      "onboard_time": 1764839121,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 115476,
       "num": 326029,
       "word": "钎城 Gemini",
       "onboard_time": 1764806781,
       "rank": 4,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 115047,
+      "num": 115047,
+      "word": "国乒vs法国",
+      "onboard_time": 1764840562,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 113130,
@@ -1545,6 +1641,14 @@
       "onboard_time": 1764818422,
       "rank": 47,
       "category": "体育"
+    },
+    {
+      "raw_hot": 110923,
+      "num": 110923,
+      "word": "公司死海效应",
+      "onboard_time": 1764840081,
+      "rank": 36,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 110634,
@@ -1569,6 +1673,14 @@
       "onboard_time": 1764812780,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 108444,
+      "num": 108444,
+      "word": "工作一整年存了3700块钱",
+      "onboard_time": 1764840622,
+      "rank": 41,
+      "category": "情感"
     },
     {
       "raw_hot": 108272,
@@ -1683,6 +1795,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 95785,
+      "num": 107315,
+      "word": "啥样的短剧能把周深请过来",
+      "onboard_time": 1764839483,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 95369,
       "num": 95369,
       "word": "霍建华曾把红酒泼到林心如包上",
@@ -1713,6 +1833,14 @@
       "onboard_time": 1764838162,
       "rank": 48,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 92813,
+      "num": 145657,
+      "word": "马克龙准备亲自去成都要熊猫",
+      "onboard_time": 1764838162,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 91367,
@@ -1785,6 +1913,14 @@
       "onboard_time": 1764778399,
       "rank": 26,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 85848,
+      "num": 110003,
+      "word": "迪丽热巴云包场狙击蝴蝶",
+      "onboard_time": 1764840442,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 82594,
@@ -1913,6 +2049,14 @@
       "onboard_time": 1764769523,
       "rank": 33,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 70165,
+      "num": 92867,
+      "word": "法媒称一切都颠倒了新兴国家是我们",
+      "onboard_time": 1764839242,
+      "rank": 48,
+      "category": "国际时政"
     },
     {
       "raw_hot": 68999,
@@ -2067,14 +2211,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 55398,
-      "num": 107418,
-      "word": "新东方员工长文控诉加班",
-      "onboard_time": 1764838282,
-      "rank": 42,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 54971,
       "num": 60830,
       "word": "蔡磊已准备好尝试脑机接口",
@@ -2123,6 +2259,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50096,
+      "num": 110216,
+      "word": "护身符成夺命符 辐射超标1686倍",
+      "onboard_time": 1764840741,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 48887,
       "num": 130445,
       "word": "蔡依林看了都得楞3秒",
@@ -2163,14 +2307,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 42699,
-      "num": 145657,
-      "word": "马克龙准备亲自去成都要熊猫",
-      "onboard_time": 1764838162,
-      "rank": 29,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 41363,
       "num": 377140,
       "word": "冻伤要到烧伤科就诊",
@@ -2193,6 +2329,14 @@
       "onboard_time": 1764786555,
       "rank": 41,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 39716,
+      "num": 105125,
+      "word": "医院公开超300位医生手机号码",
+      "onboard_time": 1764840682,
+      "rank": 45,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38810,
@@ -2257,6 +2401,14 @@
       "onboard_time": 1764831262,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29482,
+      "num": 110013,
+      "word": "台球厅老板将讨薪女生甩抛在地",
+      "onboard_time": 1764840741,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 28540,
