@@ -1,0 +1,410 @@
+{
+  "runTime": 1764847653167,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 607906,
+        "num": 1097264,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 250387,
+        "num": 250387,
+        "word": "国乒8比2法国",
+        "onboard_time": 1764845062,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34048,
+        "num": 249709,
+        "word": "2025国家宪法日",
+        "onboard_time": 1764843981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 319216,
+        "num": 248390,
+        "word": "新疆地震",
+        "onboard_time": 1764834860,
+        "rank": 3,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 180380,
+        "num": 247430,
+        "word": "日方需给中方一个交代",
+        "onboard_time": 1764838761,
+        "rank": 4,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 496054,
+        "num": 245320,
+        "word": "2025尖叫之夜全阵容名单",
+        "onboard_time": 1764841282,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 361676,
+        "num": 244592,
+        "word": "李茂吐槽和弦子结婚九年感情淡了",
+        "onboard_time": 1764844281,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155846,
+        "num": 242698,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 7,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 56249,
+        "num": 241010,
+        "word": "冻伤后切忌直接热水浸泡",
+        "onboard_time": 1764846442,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 116588,
+        "num": 239761,
+        "word": "混团世界杯国乒6连胜",
+        "onboard_time": 1764846860,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 708149,
+        "num": 238693,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 536659,
+        "num": 237348,
+        "word": "台湾封锁小红书一年",
+        "onboard_time": 1764846922,
+        "rank": 11,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 466834,
+        "num": 235340,
+        "word": "9键和26键突然停止了争吵",
+        "onboard_time": 1764840442,
+        "rank": 12,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 413396,
+        "num": 233978,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 13,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 357905,
+        "num": 233194,
+        "word": "陈妍希娱乐圈人缘",
+        "onboard_time": 1764844341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348065,
+        "num": 231167,
+        "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
+        "onboard_time": 1764838461,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295248,
+        "num": 229956,
+        "word": "痞幼官宣上恋综",
+        "onboard_time": 1764828801,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229647,
+        "num": 229647,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 17,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 215259,
+        "num": 215259,
+        "word": "罗大美生前外借200多万无人主动归还",
+        "onboard_time": 1764838942,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 180501,
+        "num": 180501,
+        "word": "周柯宇现偶最穷的男主",
+        "onboard_time": 1764846860,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 428722,
+        "num": 180442,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 372502,
+        "num": 180388,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180275,
+        "num": 180275,
+        "word": "陈都灵TFBOYS同框 诡异到像AI",
+        "onboard_time": 1764841223,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 261081,
+        "num": 179300,
+        "word": "美女子脑死亡后因堕胎禁令被迫产子",
+        "onboard_time": 1764842780,
+        "rank": 23,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 231703,
+        "num": 178771,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 211874,
+        "num": 178597,
+        "word": "张钧甯回应邱泽许玮甯结婚",
+        "onboard_time": 1764844341,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177642,
+        "num": 177642,
+        "word": "杨幂蓝色镂空裙",
+        "onboard_time": 1764845722,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114070,
+        "num": 171258,
+        "word": "王楚钦孙颖莎vsA勒布伦袁嘉楠",
+        "onboard_time": 1764839061,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 42222,
+        "num": 167678,
+        "word": "公司法人妻子虚报5倍工资骗生育津贴",
+        "onboard_time": 1764846021,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 166624,
+        "num": 166624,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 133855,
+        "num": 133855,
+        "word": "超级月亮",
+        "onboard_time": 1764845961,
+        "rank": 30,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 131787,
+        "num": 131787,
+        "word": "拜托那可是陈妍希",
+        "onboard_time": 1764847460,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124018,
+        "num": 124018,
+        "word": "家里供不起上班了真不是空穴来风",
+        "onboard_time": 1764831802,
+        "rank": 32,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 120360,
+        "num": 120360,
+        "word": "工作一整年存了3700块钱",
+        "onboard_time": 1764840622,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 118377,
+        "num": 118377,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114330,
+        "num": 114330,
+        "word": "泽连斯基被曝以辞职换和平计划签署",
+        "onboard_time": 1764844942,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 113939,
+        "num": 113939,
+        "word": "刘诗诗杨幂白鹿 全女版秦时明月",
+        "onboard_time": 1764847281,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112258,
+        "num": 112258,
+        "word": "孟子义方辟谣网传高考成绩",
+        "onboard_time": 1764843443,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 107125,
+        "num": 107125,
+        "word": "李雪琴 要不人家是迪丽热巴呢",
+        "onboard_time": 1764841103,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 50991,
+        "num": 105314,
+        "word": "我奶同款排骨羽绒服怎么又火了",
+        "onboard_time": 1764847460,
+        "rank": 39,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 104269,
+        "num": 104269,
+        "word": "人生走马灯时刻",
+        "onboard_time": 1764847220,
+        "rank": 40,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 103989,
+        "num": 103989,
+        "word": "Zika加入WBG",
+        "onboard_time": 1764843443,
+        "rank": 41,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103935,
+        "num": 103935,
+        "word": "林峯你能不能体面的老去",
+        "onboard_time": 1764836062,
+        "rank": 42,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 60548,
+        "num": 101249,
+        "word": "美脑死亡孕妇靠机器撑四个月后产子",
+        "onboard_time": 1764846260,
+        "rank": 43,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 35643,
+        "num": 101199,
+        "word": "19岁小伙为救跳河女友溺亡",
+        "onboard_time": 1764846201,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20840,
+        "num": 101175,
+        "word": "90后游资大佬征婚自称恋爱脑",
+        "onboard_time": 1764846201,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 101174,
+        "num": 101174,
+        "word": "政府采购评审名单被指照搬人名大全",
+        "onboard_time": 1764844642,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100725,
+        "num": 100725,
+        "word": "看到了五十多岁的孟子义",
+        "onboard_time": 1764847521,
+        "rank": 47,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99514,
+        "num": 99514,
+        "word": "情侣先后坠亡事件男方提赔偿百万",
+        "onboard_time": 1764842183,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93045,
+        "num": 93045,
+        "word": "郑恺苗苗每月一次无娃日约会",
+        "onboard_time": 1764832520,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙共同会见记者#"
+    }
+  }
+}

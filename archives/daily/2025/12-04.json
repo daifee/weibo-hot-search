@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764845350988,
+  "endTime": 1764847653167,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -92,7 +92,7 @@
     },
     {
       "raw_hot": 799524,
-      "num": 216524,
+      "num": 235340,
       "word": "9键和26键突然停止了争吵",
       "onboard_time": 1764840442,
       "rank": 28,
@@ -203,6 +203,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 607906,
+      "num": 1097264,
+      "word": "24岁女生咳嗽不止查出肺癌",
+      "onboard_time": 1764831921,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 606778,
       "num": 104846,
       "word": "张雪峰被停播如此肇事忒低级",
@@ -251,6 +259,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 536659,
+      "num": 237348,
+      "word": "台湾封锁小红书一年",
+      "onboard_time": 1764846922,
+      "rank": 11,
+      "category": "民生新闻,互联网"
+    },
+    {
       "raw_hot": 535530,
       "num": 233897,
       "word": "李嘉格评论区怒怼网友",
@@ -264,14 +280,6 @@
       "word": "香港宣布拆除所有大维修的楼宇棚网",
       "onboard_time": 1764826582,
       "rank": 18,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 524863,
-      "num": 524863,
-      "word": "24岁女生咳嗽不止查出肺癌",
-      "onboard_time": 1764831921,
-      "rank": 26,
       "category": "民生新闻"
     },
     {
@@ -435,12 +443,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 356536,
-      "num": 199858,
+      "raw_hot": 361676,
+      "num": 244592,
       "word": "李茂吐槽和弦子结婚九年感情淡了",
       "onboard_time": 1764844281,
       "rank": 17,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 357905,
+      "num": 233194,
+      "word": "陈妍希娱乐圈人缘",
+      "onboard_time": 1764844341,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 340168,
@@ -539,14 +555,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 307981,
-      "num": 199340,
-      "word": "陈妍希娱乐圈人缘",
-      "onboard_time": 1764844341,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 293331,
       "num": 245479,
       "word": "这居然是陈妍希画的",
@@ -635,12 +643,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 261081,
+      "num": 188368,
+      "word": "美女子脑死亡后因堕胎禁令被迫产子",
+      "onboard_time": 1764842780,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 260704,
       "num": 252435,
       "word": "中国没有全面清算日本已是宽容至极",
       "onboard_time": 1764818599,
       "rank": 39,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 250387,
+      "num": 250387,
+      "word": "国乒8比2法国",
+      "onboard_time": 1764845062,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 248523,
@@ -665,14 +689,6 @@
       "onboard_time": 1764829461,
       "rank": 38,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 244398,
-      "num": 188368,
-      "word": "美女子脑死亡后因堕胎禁令被迫产子",
-      "onboard_time": 1764842780,
-      "rank": 26,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 242249,
@@ -715,6 +731,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 231703,
+      "num": 178771,
+      "word": "女子左耳寄养在脚背5个月成功回家",
+      "onboard_time": 1764844281,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 229647,
+      "num": 229647,
+      "word": "蔡徐坤 PUBG",
+      "onboard_time": 1764846802,
+      "rank": 17,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 225630,
       "num": 144990,
       "word": "日本被曝迈向全领域作战",
@@ -753,6 +785,14 @@
       "onboard_time": 1764817821,
       "rank": 22,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 211874,
+      "num": 183387,
+      "word": "张钧甯回应邱泽许玮甯结婚",
+      "onboard_time": 1764844341,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 211078,
@@ -995,19 +1035,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 183387,
-      "num": 183387,
-      "word": "张钧甯回应邱泽许玮甯结婚",
-      "onboard_time": 1764844341,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 182347,
       "num": 182347,
       "word": "陈晓说我们都是要脸的人",
       "onboard_time": 1764839483,
       "rank": 24,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 180501,
+      "num": 180501,
+      "word": "周柯宇现偶最穷的男主",
+      "onboard_time": 1764846860,
+      "rank": 19,
       "category": "剧集"
     },
     {
@@ -1033,6 +1073,14 @@
       "onboard_time": 1764765561,
       "rank": 4,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 177642,
+      "num": 177642,
+      "word": "杨幂蓝色镂空裙",
+      "onboard_time": 1764845722,
+      "rank": 26,
+      "category": "艺人"
     },
     {
       "raw_hot": 177302,
@@ -1107,14 +1155,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168988,
-      "num": 168625,
-      "word": "女子左耳寄养在脚背5个月成功回家",
-      "onboard_time": 1764844281,
-      "rank": 28,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 168324,
       "num": 226752,
       "word": "马克龙总统第四次访华",
@@ -1139,7 +1179,7 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 166170,
+      "raw_hot": 166624,
       "num": 308534,
       "word": "狙击蝴蝶",
       "onboard_time": 1764819562,
@@ -1451,6 +1491,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133855,
+      "num": 133855,
+      "word": "超级月亮",
+      "onboard_time": 1764845961,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133534,
       "num": 133534,
       "word": "正片观众 切片观众",
@@ -1473,6 +1521,14 @@
       "onboard_time": 1764822743,
       "rank": 39,
       "category": "体育"
+    },
+    {
+      "raw_hot": 131787,
+      "num": 131787,
+      "word": "拜托那可是陈妍希",
+      "onboard_time": 1764847460,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 131662,
@@ -1763,6 +1819,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 116588,
+      "num": 239761,
+      "word": "混团世界杯国乒6连胜",
+      "onboard_time": 1764846860,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 115476,
       "num": 326029,
       "word": "钎城 Gemini",
@@ -1785,6 +1849,14 @@
       "onboard_time": 1764842003,
       "rank": 14,
       "category": "体育"
+    },
+    {
+      "raw_hot": 113939,
+      "num": 113939,
+      "word": "刘诗诗杨幂白鹿 全女版秦时明月",
+      "onboard_time": 1764847281,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 113130,
@@ -1923,6 +1995,14 @@
       "category": "情感,休闲"
     },
     {
+      "raw_hot": 104269,
+      "num": 104269,
+      "word": "人生走马灯时刻",
+      "onboard_time": 1764847220,
+      "rank": 40,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 103115,
       "num": 103115,
       "word": "张继科称目前状态差不多全国8强",
@@ -1939,12 +2019,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 101174,
+      "num": 196490,
+      "word": "政府采购评审名单被指照搬人名大全",
+      "onboard_time": 1764844642,
+      "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100725,
+      "num": 100725,
+      "word": "看到了五十多岁的孟子义",
+      "onboard_time": 1764847521,
+      "rank": 47,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 99941,
       "num": 99941,
       "word": "英雄联盟德玛西亚皮肤",
       "onboard_time": 1764814700,
       "rank": 32,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 99514,
+      "num": 99514,
+      "word": "情侣先后坠亡事件男方提赔偿百万",
+      "onboard_time": 1764842183,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 98979,
@@ -2129,14 +2233,6 @@
       "onboard_time": 1764845302,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 86688,
-      "num": 105053,
-      "word": "国乒8比2法国",
-      "onboard_time": 1764845062,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 86673,
@@ -2411,6 +2507,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 60548,
+      "num": 101249,
+      "word": "美脑死亡孕妇靠机器撑四个月后产子",
+      "onboard_time": 1764846260,
+      "rank": 43,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 60456,
       "num": 355611,
       "word": "本轮寒潮收尾",
@@ -2465,6 +2569,14 @@
       "onboard_time": 1764771023,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 56249,
+      "num": 241010,
+      "word": "冻伤后切忌直接热水浸泡",
+      "onboard_time": 1764846442,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 56112,
@@ -2523,6 +2635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50991,
+      "num": 105314,
+      "word": "我奶同款排骨羽绒服怎么又火了",
+      "onboard_time": 1764847460,
+      "rank": 39,
+      "category": "民生新闻,时尚"
+    },
+    {
       "raw_hot": 48887,
       "num": 130445,
       "word": "蔡依林看了都得楞3秒",
@@ -2560,6 +2680,14 @@
       "word": "4岁男童玩免费项目颅骨骨折",
       "onboard_time": 1764832941,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42222,
+      "num": 167678,
+      "word": "公司法人妻子虚报5倍工资骗生育津贴",
+      "onboard_time": 1764846021,
+      "rank": 28,
       "category": "民生新闻"
     },
     {
@@ -2624,6 +2752,14 @@
       "word": "2025宪法宣传周",
       "onboard_time": 1764755542,
       "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 35643,
+      "num": 101199,
+      "word": "19岁小伙为救跳河女友溺亡",
+      "onboard_time": 1764846201,
+      "rank": 44,
       "category": "民生新闻"
     },
     {
@@ -2763,20 +2899,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20840,
+      "num": 101175,
+      "word": "90后游资大佬征婚自称恋爱脑",
+      "onboard_time": 1764846201,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 18248,
       "num": 218651,
       "word": "俄乌或陷入打谈循环",
       "onboard_time": 1764833243,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 16861,
-      "num": 196490,
-      "word": "政府采购评审名单被指照搬人名大全",
-      "onboard_time": 1764844642,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 12153,
