@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764869435638,
+  "endTime": 1764870398793,
   "band_list": [
     {
       "raw_hot": 407881,
@@ -36,7 +36,7 @@
     },
     {
       "raw_hot": 277026,
-      "num": 132627,
+      "num": 348476,
       "word": "商家半年内被同一人仅退款225个快递",
       "onboard_time": 1764864440,
       "rank": 14,
@@ -395,6 +395,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 42940,
+      "num": 51187,
+      "word": "程十安回应与前公司解约",
+      "onboard_time": 1764867976,
+      "rank": 27,
+      "category": "网红"
+    },
+    {
       "raw_hot": 42064,
       "num": 83620,
       "word": "手机放电饭煲内胆抢票成功率会高吗",
@@ -403,15 +411,7 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 41587,
-      "num": 51187,
-      "word": "程十安回应与前公司解约",
-      "onboard_time": 1764867976,
-      "rank": 27,
-      "category": "网红"
-    },
-    {
-      "raw_hot": 34606,
+      "raw_hot": 36468,
       "num": 83741,
       "word": "辽宁幼儿园虐童案最新进展",
       "onboard_time": 1764866838,
@@ -435,20 +435,36 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 29206,
+      "num": 36318,
+      "word": "骑手谈电动车新国标",
+      "onboard_time": 1764870017,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 25655,
+      "num": 36317,
+      "word": "周深家里家外2主题曲",
+      "onboard_time": 1764869656,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 16214,
+      "num": 107389,
+      "word": "乐视网拟投资炒股",
+      "onboard_time": 1764867020,
+      "rank": 9,
+      "category": "互联网,财经"
+    },
+    {
       "raw_hot": 16211,
       "num": 50900,
       "word": "内蒙古一煤矿股东自我举报越采盗采",
       "onboard_time": 1764868036,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15410,
-      "num": 107389,
-      "word": "乐视网拟投资炒股",
-      "onboard_time": 1764867020,
-      "rank": 9,
-      "category": "互联网,财经"
     },
     {
       "raw_hot": 2133,
