@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/04 23:46:24
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 00:38:59
 </p>
 </blockquote>
 <p>
@@ -1701,6 +1701,12 @@ iG 0等五（热度：365253）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B7%B4%E5%A5%B4%E6%96%B0%E8%8F%9C%E5%93%81%20%E6%B0%B4%E6%80%A7%E6%9D%A8%E8%8A%B1%23" target="weibo">
+巴奴新菜品 水性杨花（热度：363335）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9F%A9%E5%9B%BD%E6%98%8E%E6%B4%9E%E5%81%B6%E9%81%87%E6%88%90%E9%BE%99%20%E6%88%90%E9%BE%99%E5%9C%A8%E5%93%AA%23" target="weibo">
 韩国明洞偶遇成龙 成龙在哪（热度：362754）
 </a>
@@ -2393,6 +2399,12 @@ LCK引入教练语音机制（热度：280680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%92%8C26%E5%B2%81%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%A7%23" target="weibo">
 21岁和26岁差距真的很大（热度：271043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+日本高官公开道歉（热度：268991）
 </a>
 </li>
 
@@ -3597,12 +3609,6 @@ vivo 女性用户（热度：186823）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
-日本高官公开道歉（热度：184730）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E7%9C%8B%E5%88%B0%E6%BC%94%E5%91%98%E6%BC%94%E7%94%9F%E6%B0%94%E4%B8%8D%E6%98%AF%E5%A4%A7%E5%96%8A%E5%A4%A7%E5%8F%AB%E4%BA%86%23" target="weibo">
 终于看到演员演生气不是大喊大叫了（热度：184639）
 </a>
@@ -3977,6 +3983,12 @@ JDG宣布GALA入队（热度：169345）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9A%E5%81%87%E7%9A%84%E8%B7%AF%E6%80%92%E7%97%87vs%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%B7%AF%E6%80%92%E7%97%87%23" target="weibo">
 虚假的路怒症vs真正的路怒症（热度：169015）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%8D%8A%E5%B9%B4%E5%86%85%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92%23" target="weibo">
+商家半年内被同一人仅退款225个快递（热度：168715）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ JDG官宣JunJia加入（热度：120518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E6%9C%89%E5%BC%9F%E4%B9%8B%E5%A7%BF%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%BC%9F%E6%B2%A1%E6%AD%BB%23" target="weibo">
 难怪有弟之姿原来是弟没死（热度：120061）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B1%B6%E5%B7%9D%E5%9C%B0%E9%9C%87%E5%A5%B3%E5%AD%A9%E5%9B%9E%E5%BA%94%E4%B8%8E%E6%96%BD%E6%95%91%E5%86%9B%E4%BA%BA%E7%BB%93%E5%A9%9A%23" target="weibo">
-汶川地震女孩回应与施救军人结婚（热度：119844）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E4%BB%8E%E7%AC%AC%E4%B8%80%E6%8E%92%E8%81%8A%E5%88%B0%E7%AC%AC%E4%BA%8C%E6%8E%92%23" target="weibo">
-孙颖莎从第一排聊到第二排（热度：119798）
 </a>
 </li>
 
