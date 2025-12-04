@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 00:54:03
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 01:30:35
 </p>
 </blockquote>
 <p>
@@ -11889,6 +11889,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A8%8B%E5%8D%81%E5%AE%89%E5%9B%9E%E5%BA%94%E4%B8%8E%E5%89%8D%E5%85%AC%E5%8F%B8%E8%A7%A3%E7%BA%A6%23" target="weibo">
+程十安回应与前公司解约（热度：41587）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%90%E6%AF%85%E9%95%BF%E5%AE%89%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%AE%A1repo%23" target="weibo">
 成毅长安二十四计repo（热度：41205）
 </a>
@@ -12137,6 +12143,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%BA%A4%E6%88%BF%E4%B8%8D%E5%88%B02%E5%B9%B4%E5%A4%96%E5%A2%99%E5%85%A8%E8%84%B1%E8%90%BD%23" target="weibo">
 交房不到2年外墙全脱落（热度：34654）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%99%90%E7%AB%A5%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+辽宁幼儿园虐童案最新进展（热度：34606）
 </a>
 </li>
 
@@ -12711,12 +12723,6 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%BE%BD%E5%AE%81%E5%B9%BC%E5%84%BF%E5%9B%AD%E8%99%90%E7%AB%A5%E6%A1%88%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
-辽宁幼儿园虐童案最新进展（热度：21959）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E8%BE%A3%E6%B6%A8%E8%87%B328%E5%85%831%E6%96%A4%23" target="weibo">
 小米辣涨至28元1斤（热度：21116）
 </a>
@@ -12873,6 +12879,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%86%85%E8%92%99%E5%8F%A4%E4%B8%80%E7%85%A4%E7%9F%BF%E8%82%A1%E4%B8%9C%E8%87%AA%E6%88%91%E4%B8%BE%E6%8A%A5%E8%B6%8A%E9%87%87%E7%9B%97%E9%87%87%23" target="weibo">
+内蒙古一煤矿股东自我举报越采盗采（热度：16211）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E6%90%9E%E4%BA%8B%E8%83%8C%E5%90%8E%23" target="weibo">
 日本搞事背后（热度：16144）
 </a>
@@ -12893,6 +12905,12 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AD%E8%B5%B7%E9%9D%92%E5%A3%A4%E7%BB%86%E8%8A%82%23" target="weibo">
 枭起青壤细节（热度：15471）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%A7%86%E7%BD%91%E6%8B%9F%E6%8A%95%E8%B5%84%E7%82%92%E8%82%A1%23" target="weibo">
+乐视网拟投资炒股（热度：15410）
 </a>
 </li>
 
@@ -12989,12 +13007,6 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A3%8E%E9%A3%8E%E9%A3%8E%E5%8C%97%E4%BA%AC%E6%B2%99%E6%B2%99%E6%B2%99%23" target="weibo">
 风风风北京沙沙沙（热度：11806）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B9%90%E8%A7%86%E7%BD%91%E6%8B%9F%E6%8A%95%E8%B5%84%E7%82%92%E8%82%A1%23" target="weibo">
-乐视网拟投资炒股（热度：11758）
 </a>
 </li>
 
