@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764813755769,
+  "endTime": 1764815130685,
   "band_list": [
     {
       "raw_hot": 1430186,
@@ -9,6 +9,14 @@
       "onboard_time": 1764805221,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 732062,
+      "num": 307701,
+      "word": "澳将禁止16岁以下用社媒",
+      "onboard_time": 1764811821,
+      "rank": 5,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 667599,
@@ -35,16 +43,8 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 554338,
-      "num": 302380,
-      "word": "澳将禁止16岁以下用社媒",
-      "onboard_time": 1764811821,
-      "rank": 5,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 519733,
-      "num": 285559,
+      "num": 288126,
       "word": "考编第1名却因学历重叠政审不合格",
       "onboard_time": 1764757341,
       "rank": 5,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 487558,
-      "num": 296000,
+      "num": 298412,
       "word": "丈夫中千万大奖后打赏女主播近120万",
       "onboard_time": 1764807620,
       "rank": 6,
@@ -84,19 +84,27 @@
     },
     {
       "raw_hot": 388581,
-      "num": 288862,
+      "num": 292959,
       "word": "美国已全面禁止12个国家旅客入境",
       "onboard_time": 1764771803,
       "rank": 21,
       "category": "国际时政"
     },
     {
-      "raw_hot": 313234,
+      "raw_hot": 329628,
       "num": 264193,
       "word": "刘亦菲陈都灵 全女花千骨",
       "onboard_time": 1764805518,
       "rank": 11,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 326948,
+      "num": 326948,
+      "word": "家里家外2",
+      "onboard_time": 1764809062,
+      "rank": 15,
+      "category": "剧集"
     },
     {
       "raw_hot": 312639,
@@ -124,7 +132,7 @@
     },
     {
       "raw_hot": 277352,
-      "num": 158036,
+      "num": 164945,
       "word": "身体有炎症就少吃4种食物",
       "onboard_time": 1764804378,
       "rank": 21,
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 251705,
+      "num": 166086,
+      "word": "24人骗取生育津贴超220万",
+      "onboard_time": 1764814640,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 248523,
       "num": 164087,
       "word": "侯鸿亮啥也不说了给大家鞠一躬",
@@ -163,12 +179,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 248328,
-      "num": 248328,
-      "word": "家里家外2",
-      "onboard_time": 1764809062,
-      "rank": 15,
-      "category": "剧集"
+      "raw_hot": 241658,
+      "num": 241658,
+      "word": "郑钦文全球女运动员收入榜第5",
+      "onboard_time": 1764811940,
+      "rank": 23,
+      "category": "体育"
     },
     {
       "raw_hot": 225630,
@@ -177,6 +193,14 @@
       "onboard_time": 1764770724,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 216627,
+      "num": 164623,
+      "word": "A股",
+      "onboard_time": 1764813979,
+      "rank": 22,
+      "category": "财经"
     },
     {
       "raw_hot": 216455,
@@ -195,6 +219,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 201141,
+      "num": 163449,
+      "word": "高市早苗盯上中亚5国",
+      "onboard_time": 1764811639,
+      "rank": 21,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 194732,
       "num": 194732,
       "word": "李晟说江一燕不拍戏浪费了",
@@ -203,12 +235,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 183936,
-      "num": 156487,
-      "word": "高市早苗盯上中亚5国",
-      "onboard_time": 1764811639,
-      "rank": 21,
-      "category": "国际时政"
+      "raw_hot": 191809,
+      "num": 100975,
+      "word": "国乒对阵韩国孙颖莎轮休",
+      "onboard_time": 1764814640,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 183575,
+      "num": 183575,
+      "word": "偶遇王一博纽约攀岩",
+      "onboard_time": 1764811821,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 177688,
@@ -225,6 +265,14 @@
       "onboard_time": 1764753083,
       "rank": 12,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174210,
+      "num": 174210,
+      "word": "不二之臣",
+      "onboard_time": 1764814399,
+      "rank": 18,
+      "category": "剧集"
     },
     {
       "raw_hot": 169072,
@@ -251,28 +299,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 160177,
-      "num": 160177,
-      "word": "偶遇王一博纽约攀岩",
-      "onboard_time": 1764811821,
-      "rank": 18,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 157789,
       "num": 144017,
       "word": "幼儿园15天虐童上千次案最新进展",
       "onboard_time": 1764773242,
       "rank": 15,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 154237,
-      "num": 154237,
-      "word": "郑钦文全球女运动员收入榜第5",
-      "onboard_time": 1764811940,
-      "rank": 23,
-      "category": "体育"
     },
     {
       "raw_hot": 150916,
@@ -420,7 +452,7 @@
     },
     {
       "raw_hot": 115476,
-      "num": 308079,
+      "num": 326029,
       "word": "钎城 Gemini",
       "onboard_time": 1764806781,
       "rank": 4,
@@ -459,8 +491,16 @@
       "category": "体育"
     },
     {
+      "raw_hot": 99941,
+      "num": 99941,
+      "word": "英雄联盟德玛西亚皮肤",
+      "onboard_time": 1764814700,
+      "rank": 32,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 99711,
-      "num": 99711,
+      "num": 590783,
       "word": "孙颖莎回应和王楚钦配合",
       "onboard_time": 1764811999,
       "rank": 33,
@@ -531,6 +571,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90587,
+      "num": 90587,
+      "word": "国乒vs韩国",
+      "onboard_time": 1764814700,
+      "rank": 35,
+      "category": "体育"
+    },
+    {
       "raw_hot": 89232,
       "num": 89232,
       "word": "小浣熊偷喝商店烈酒醉倒在厕所",
@@ -539,20 +587,20 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 88584,
+      "num": 88584,
+      "word": "新疆的电视台有迪丽热巴专栏",
+      "onboard_time": 1764809661,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 86673,
       "num": 86673,
       "word": "郭宇欣21年中戏毕业照",
       "onboard_time": 1764778399,
       "rank": 26,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 83904,
-      "num": 83904,
-      "word": "新疆的电视台有迪丽热巴专栏",
-      "onboard_time": 1764809661,
-      "rank": 41,
-      "category": "剧集"
     },
     {
       "raw_hot": 82594,
@@ -593,6 +641,14 @@
       "onboard_time": 1764777380,
       "rank": 30,
       "category": "电影"
+    },
+    {
+      "raw_hot": 77272,
+      "num": 77272,
+      "word": "考编第一因学历重叠落选是否有猫腻",
+      "onboard_time": 1764813740,
+      "rank": 44,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 76185,
