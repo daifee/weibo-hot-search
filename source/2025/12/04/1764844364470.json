@@ -1,0 +1,410 @@
+{
+  "runTime": 1764844364470,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 617946,
+        "num": 1098871,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 0,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 446780,
+        "num": 446780,
+        "word": "新疆地震",
+        "onboard_time": 1764834860,
+        "rank": 1,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 54790,
+        "num": 419429,
+        "word": "2025国家宪法日",
+        "onboard_time": 1764843981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 409938,
+        "num": 409938,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 397555,
+        "num": 397555,
+        "word": "罗大美生前外借200多万无人主动归还",
+        "onboard_time": 1764838942,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 702779,
+        "num": 362172,
+        "word": "2025尖叫之夜全阵容名单",
+        "onboard_time": 1764841282,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 587224,
+        "num": 332179,
+        "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
+        "onboard_time": 1764838461,
+        "rank": 6,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 232336,
+        "num": 232336,
+        "word": "王楚钦孙颖莎vsA勒布伦袁嘉楠",
+        "onboard_time": 1764839061,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 35597,
+        "num": 230822,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116681,
+        "num": 225389,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 998030,
+        "num": 221734,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 799524,
+        "num": 216524,
+        "word": "9键和26键突然停止了争吵",
+        "onboard_time": 1764840442,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 430121,
+        "num": 210752,
+        "word": "痞幼官宣上恋综",
+        "onboard_time": 1764828801,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 304162,
+        "num": 208344,
+        "word": "日方需给中方一个交代",
+        "onboard_time": 1764838761,
+        "rank": 13,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 113995,
+        "num": 203807,
+        "word": "王楚钦孙颖莎3比0勒布伦袁嘉楠",
+        "onboard_time": 1764842003,
+        "rank": 14,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 201916,
+        "num": 201916,
+        "word": "月亮",
+        "onboard_time": 1764843321,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 196658,
+        "num": 196658,
+        "word": "陈都灵TFBOYS同框 诡异到像AI",
+        "onboard_time": 1764841223,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188871,
+        "num": 188871,
+        "word": "李茂吐槽和弦子结婚九年感情淡了",
+        "onboard_time": 1764844281,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 178338,
+        "num": 178338,
+        "word": "陈妍希娱乐圈人缘",
+        "onboard_time": 1764844341,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75558,
+        "num": 177773,
+        "word": "降温后用这波装备体面过冬",
+        "onboard_time": 1764842662,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 459334,
+        "num": 177733,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 429684,
+        "num": 177690,
+        "word": "孟子义高考512分",
+        "onboard_time": 1764837141,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177630,
+        "num": 177630,
+        "word": "林峯你能不能体面的老去",
+        "onboard_time": 1764836062,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 178231,
+        "num": 174593,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 390541,
+        "num": 171518,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 166170,
+        "num": 166170,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216219,
+        "num": 163921,
+        "word": "美女子脑死亡后因堕胎禁令被迫产子",
+        "onboard_time": 1764842780,
+        "rank": 26,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 192663,
+        "num": 163435,
+        "word": "工作一整年存了3700块钱",
+        "onboard_time": 1764840622,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 168988,
+        "num": 162643,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 161373,
+        "num": 161373,
+        "word": "李雪琴 要不人家是迪丽热巴呢",
+        "onboard_time": 1764841103,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 150772,
+        "num": 150772,
+        "word": "孟子义方辟谣网传高考成绩",
+        "onboard_time": 1764843443,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146636,
+        "num": 146636,
+        "word": "Zika加入WBG",
+        "onboard_time": 1764843443,
+        "rank": 31,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142279,
+        "num": 142279,
+        "word": "张檬给7个月儿子刷牙",
+        "onboard_time": 1764833661,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124065,
+        "num": 139129,
+        "word": "四川鼓励教师实行弹性上下班",
+        "onboard_time": 1764842183,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138399,
+        "num": 138399,
+        "word": "家里供不起上班了真不是空穴来风",
+        "onboard_time": 1764831802,
+        "rank": 34,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 125516,
+        "num": 125516,
+        "word": "张钧甯回应邱泽许玮甯结婚",
+        "onboard_time": 1764844341,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125032,
+        "num": 125032,
+        "word": "谁家好剧1个好人6个狼人",
+        "onboard_time": 1764843382,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124436,
+        "num": 124436,
+        "word": "青你1选手上恋综",
+        "onboard_time": 1764835461,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 26483,
+        "num": 122985,
+        "word": "新国标实施有电动车门店3天没开单",
+        "onboard_time": 1764843382,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 31075,
+        "num": 121648,
+        "word": "新质福建万千气象",
+        "onboard_time": 1764842662,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121615,
+        "num": 121615,
+        "word": "新东方员工吐槽加班账号被封",
+        "onboard_time": 1764843622,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117451,
+        "num": 117451,
+        "word": "郑恺苗苗每月一次无娃日约会",
+        "onboard_time": 1764832520,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 116098,
+        "num": 116098,
+        "word": "前任杨丞琳 追过张钧甯 娶了许玮甯",
+        "onboard_time": 1764832643,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 112305,
+        "num": 112305,
+        "word": "李嘉格评论区怒怼网友",
+        "onboard_time": 1764829521,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110407,
+        "num": 110407,
+        "word": "韩国标示中国台湾台当局急了",
+        "onboard_time": 1764825142,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 102613,
+        "num": 102613,
+        "word": "新东方员工长文控诉加班",
+        "onboard_time": 1764838282,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 95637,
+        "num": 95637,
+        "word": "瓜主说杨紫没空拍国内版VOGUE",
+        "onboard_time": 1764839002,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 74164,
+        "num": 95537,
+        "word": "以为是自己人缘好其实是假上司地位高",
+        "onboard_time": 1764842780,
+        "rank": 47,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 95473,
+        "num": 95473,
+        "word": "张艺兴也是老吃家啊",
+        "onboard_time": 1764841402,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 93336,
+        "num": 93336,
+        "word": "王曼昱3比0帕瓦德",
+        "onboard_time": 1764843321,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙共同会见记者#"
+    }
+  }
+}

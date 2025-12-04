@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764841586056,
+  "endTime": 1764844364470,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -595,6 +595,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 799524,
+      "num": 216524,
+      "word": "9键和26键突然停止了争吵",
+      "onboard_time": 1764840442,
+      "rank": 28,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 789028,
       "num": 789028,
       "word": "转账约饭法",
@@ -673,6 +681,14 @@
       "onboard_time": 1764559462,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 702779,
+      "num": 362172,
+      "word": "2025尖叫之夜全阵容名单",
+      "onboard_time": 1764841282,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 701594,
@@ -867,6 +883,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 617946,
+      "num": 1098871,
+      "word": "豆包手机",
+      "onboard_time": 1764838342,
+      "rank": 1,
+      "category": "数码"
+    },
+    {
       "raw_hot": 616695,
       "num": 363005,
       "word": "婚房被改小三婴儿房",
@@ -937,6 +961,14 @@
       "onboard_time": 1764837742,
       "rank": 27,
       "category": "情感,幽默"
+    },
+    {
+      "raw_hot": 587224,
+      "num": 332179,
+      "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
+      "onboard_time": 1764838461,
+      "rank": 15,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 583286,
@@ -1089,14 +1121,6 @@
       "onboard_time": 1764682041,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 547536,
-      "num": 547536,
-      "word": "豆包手机",
-      "onboard_time": 1764838342,
-      "rank": 1,
-      "category": "数码"
     },
     {
       "raw_hot": 547093,
@@ -2411,14 +2435,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 324153,
-      "num": 324153,
-      "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
-      "onboard_time": 1764838461,
-      "rank": 15,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 324015,
       "num": 215760,
       "word": "葛夕约会",
@@ -3619,6 +3635,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216219,
+      "num": 163921,
+      "word": "美女子脑死亡后因堕胎禁令被迫产子",
+      "onboard_time": 1764842780,
+      "rank": 26,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 214676,
       "num": 214676,
       "word": "陈梦表彰大会站C位",
@@ -4011,6 +4035,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 201916,
+      "num": 201916,
+      "word": "月亮",
+      "onboard_time": 1764843321,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 201545,
       "num": 388413,
       "word": "Jiejie加入WBG",
@@ -4123,6 +4155,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 196658,
+      "num": 196658,
+      "word": "陈都灵TFBOYS同框 诡异到像AI",
+      "onboard_time": 1764841223,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 196435,
       "num": 196435,
       "word": "开一晚上电热毯得排多少湿气啊",
@@ -4227,6 +4267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192663,
+      "num": 163435,
+      "word": "工作一整年存了3700块钱",
+      "onboard_time": 1764840622,
+      "rank": 41,
+      "category": "情感"
+    },
+    {
       "raw_hot": 192259,
       "num": 307446,
       "word": "国考的难度到底有多大",
@@ -4241,14 +4289,6 @@
       "onboard_time": 1764814640,
       "rank": 30,
       "category": "体育"
-    },
-    {
-      "raw_hot": 191799,
-      "num": 191799,
-      "word": "9键和26键突然停止了争吵",
-      "onboard_time": 1764840442,
-      "rank": 28,
-      "category": "幽默"
     },
     {
       "raw_hot": 190698,
@@ -4305,6 +4345,14 @@
       "onboard_time": 1764830062,
       "rank": 26,
       "category": "数码"
+    },
+    {
+      "raw_hot": 188871,
+      "num": 188871,
+      "word": "李茂吐槽和弦子结婚九年感情淡了",
+      "onboard_time": 1764844281,
+      "rank": 17,
+      "category": "综艺"
     },
     {
       "raw_hot": 188691,
@@ -4651,6 +4699,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 178338,
+      "num": 178338,
+      "word": "陈妍希娱乐圈人缘",
+      "onboard_time": 1764844341,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 178232,
       "num": 1070286,
       "word": "全影帝阵容这么多年还是很抗打",
@@ -4859,14 +4915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 170054,
-      "num": 265682,
-      "word": "2025尖叫之夜全阵容名单",
-      "onboard_time": 1764841282,
-      "rank": 15,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169770,
       "num": 409016,
       "word": "英伟达20亿美元入股新思科技",
@@ -4921,6 +4969,14 @@
       "onboard_time": 1764736404,
       "rank": 37,
       "category": "情感"
+    },
+    {
+      "raw_hot": 168988,
+      "num": 162643,
+      "word": "女子左耳寄养在脚背5个月成功回家",
+      "onboard_time": 1764844281,
+      "rank": 28,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 168385,
@@ -5033,6 +5089,14 @@
       "onboard_time": 1764594143,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 166170,
+      "num": 308534,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1764819562,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 165725,
@@ -5185,6 +5249,14 @@
       "onboard_time": 1764665542,
       "rank": 44,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 161373,
+      "num": 161373,
+      "word": "李雪琴 要不人家是迪丽热巴呢",
+      "onboard_time": 1764841103,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 161267,
@@ -5499,14 +5571,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 153767,
-      "num": 134879,
-      "word": "工作一整年存了3700块钱",
-      "onboard_time": 1764840622,
-      "rank": 41,
-      "category": "情感"
-    },
-    {
       "raw_hot": 153616,
       "num": 153616,
       "word": "兔子警官陈都灵",
@@ -5659,6 +5723,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150772,
+      "num": 150772,
+      "word": "孟子义方辟谣网传高考成绩",
+      "onboard_time": 1764843443,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 150585,
       "num": 150585,
       "word": "刘耀文 黄子韬灭燃器",
@@ -5705,14 +5777,6 @@
       "onboard_time": 1764671722,
       "rank": 4,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 149705,
-      "num": 308534,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1764819562,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 149513,
@@ -5809,6 +5873,14 @@
       "onboard_time": 1764774801,
       "rank": 27,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 146636,
+      "num": 146636,
+      "word": "Zika加入WBG",
+      "onboard_time": 1764843443,
+      "rank": 31,
+      "category": "电竞"
     },
     {
       "raw_hot": 146572,
@@ -6995,6 +7067,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 125516,
+      "num": 125516,
+      "word": "张钧甯回应邱泽许玮甯结婚",
+      "onboard_time": 1764844341,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 125474,
       "num": 216083,
       "word": "国羽证言央企合资品质N6",
@@ -7017,6 +7097,14 @@
       "onboard_time": 1764822022,
       "rank": 49,
       "category": "数码"
+    },
+    {
+      "raw_hot": 125032,
+      "num": 125032,
+      "word": "谁家好剧1个好人6个狼人",
+      "onboard_time": 1764843382,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 124807,
@@ -7081,6 +7169,14 @@
       "onboard_time": 1764758662,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 124065,
+      "num": 139129,
+      "word": "四川鼓励教师实行弹性上下班",
+      "onboard_time": 1764842183,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 123955,
@@ -7257,6 +7353,14 @@
       "onboard_time": 1764745882,
       "rank": 13,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 121615,
+      "num": 121615,
+      "word": "新东方员工吐槽加班账号被封",
+      "onboard_time": 1764843622,
+      "rank": 40,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 121566,
@@ -7563,14 +7667,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 118246,
-      "num": 118246,
-      "word": "陈都灵TFBOYS同框 诡异到像AI",
-      "onboard_time": 1764841223,
-      "rank": 34,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 118234,
       "num": 118234,
       "word": "小米YU7运损车拒退定金",
@@ -7865,6 +7961,14 @@
       "onboard_time": 1764725421,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 113995,
+      "num": 203807,
+      "word": "王楚钦孙颖莎3比0勒布伦袁嘉楠",
+      "onboard_time": 1764842003,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 113994,
@@ -8393,14 +8497,6 @@
       "onboard_time": 1764752842,
       "rank": 45,
       "category": "体育"
-    },
-    {
-      "raw_hot": 105470,
-      "num": 105470,
-      "word": "李雪琴 要不人家是迪丽热巴呢",
-      "onboard_time": 1764841103,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 105444,
@@ -9209,6 +9305,14 @@
       "onboard_time": 1764747923,
       "rank": 46,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 93336,
+      "num": 93336,
+      "word": "王曼昱3比0帕瓦德",
+      "onboard_time": 1764843321,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 93087,
@@ -10243,6 +10347,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 75558,
+      "num": 177773,
+      "word": "降温后用这波装备体面过冬",
+      "onboard_time": 1764842662,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 75549,
       "num": 204624,
       "word": "官方介入工厂量产销售儿童情趣娃娃",
@@ -10345,6 +10457,14 @@
       "onboard_time": 1764829220,
       "rank": 22,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 74164,
+      "num": 95537,
+      "word": "以为是自己人缘好其实是假上司地位高",
+      "onboard_time": 1764842780,
+      "rank": 47,
+      "category": "剧集,作品衍生"
     },
     {
       "raw_hot": 73021,
@@ -11073,6 +11193,14 @@
       "onboard_time": 1764765141,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 54790,
+      "num": 419429,
+      "word": "2025国家宪法日",
+      "onboard_time": 1764843981,
+      "rank": 2,
+      "category": "国内时政"
     },
     {
       "raw_hot": 54418,
@@ -12083,6 +12211,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 31075,
+      "num": 121648,
+      "word": "新质福建万千气象",
+      "onboard_time": 1764842662,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 31067,
       "num": 105426,
       "word": "多国限制中小学生在校使用智能手机",
@@ -12288,6 +12424,14 @@
       "word": "遵义湘江河漂浮粪水臭气熏天",
       "onboard_time": 1764560961,
       "rank": 46,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26483,
+      "num": 122985,
+      "word": "新国标实施有电动车门店3天没开单",
+      "onboard_time": 1764843382,
+      "rank": 38,
       "category": "民生新闻"
     },
     {
@@ -12969,6 +13113,9 @@
     },
     {
       "word": "#习近平同马克龙举行会谈#"
+    },
+    {
+      "word": "#习近平同马克龙共同会见记者#"
     }
   ]
 }
