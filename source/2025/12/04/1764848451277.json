@@ -1,0 +1,410 @@
+{
+  "runTime": 1764848451277,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1401985,
+        "num": 1401985,
+        "word": "台湾封锁小红书一年",
+        "onboard_time": 1764846922,
+        "rank": 0,
+        "category": "民生新闻,互联网"
+      },
+      {
+        "raw_hot": 241106,
+        "num": 241106,
+        "word": "国乒8比2法国",
+        "onboard_time": 1764845062,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30867,
+        "num": 240839,
+        "word": "2025国家宪法日",
+        "onboard_time": 1764843981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 587640,
+        "num": 238321,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254390,
+        "num": 237980,
+        "word": "新疆地震",
+        "onboard_time": 1764834860,
+        "rank": 4,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 434695,
+        "num": 235851,
+        "word": "2025尖叫之夜全阵容名单",
+        "onboard_time": 1764841282,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 312844,
+        "num": 234096,
+        "word": "李茂吐槽和弦子结婚九年感情淡了",
+        "onboard_time": 1764844281,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 274723,
+        "num": 232750,
+        "word": "痞幼官宣上恋综",
+        "onboard_time": 1764828801,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117320,
+        "num": 231337,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 8,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 89753,
+        "num": 229952,
+        "word": "王楚钦孙颖莎vsA勒布伦袁嘉楠",
+        "onboard_time": 1764839061,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 696521,
+        "num": 228686,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 372796,
+        "num": 226091,
+        "word": "9键和26键突然停止了争吵",
+        "onboard_time": 1764840442,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 346616,
+        "num": 225363,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 12,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 326159,
+        "num": 223355,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 302351,
+        "num": 220986,
+        "word": "陈妍希娱乐圈人缘",
+        "onboard_time": 1764844341,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200288,
+        "num": 220487,
+        "word": "杨幂蓝色镂空裙",
+        "onboard_time": 1764845722,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 219411,
+        "num": 219411,
+        "word": "周柯宇现偶最穷的男主",
+        "onboard_time": 1764846860,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152454,
+        "num": 219248,
+        "word": "日方需给中方一个交代",
+        "onboard_time": 1764838761,
+        "rank": 17,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 173764,
+        "num": 218675,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112277,
+        "num": 217973,
+        "word": "家里供不起上班了真不是空穴来风",
+        "onboard_time": 1764831802,
+        "rank": 19,
+        "category": "幽默,情感"
+      },
+      {
+        "raw_hot": 417366,
+        "num": 217561,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 306483,
+        "num": 217243,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 21,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 216752,
+        "num": 216752,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 227646,
+        "num": 215939,
+        "word": "拜托那可是陈妍希",
+        "onboard_time": 1764847460,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 213315,
+        "num": 213315,
+        "word": "美女子脑死亡后因堕胎禁令被迫产子",
+        "onboard_time": 1764842780,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 199579,
+        "num": 199579,
+        "word": "娱乐圈新姐夫驾到",
+        "onboard_time": 1764847701,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 180831,
+        "num": 180831,
+        "word": "张钧甯回应邱泽许玮甯结婚",
+        "onboard_time": 1764844341,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 139543,
+        "num": 139543,
+        "word": "陈都灵TFBOYS同框 诡异到像AI",
+        "onboard_time": 1764841223,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 126090,
+        "num": 126090,
+        "word": "看到了五十多岁的孟子义",
+        "onboard_time": 1764847521,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 110629,
+        "num": 110629,
+        "word": "泽连斯基被曝以辞职换和平计划签署",
+        "onboard_time": 1764844942,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120218,
+        "num": 110075,
+        "word": "刘诗诗杨幂白鹿 全女版秦时明月",
+        "onboard_time": 1764847281,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 61834,
+        "num": 109353,
+        "word": "混团世界杯国乒6连胜",
+        "onboard_time": 1764846860,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109316,
+        "num": 109316,
+        "word": "猫猫cos路德场照",
+        "onboard_time": 1764848361,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 103190,
+        "num": 103190,
+        "word": "工作一整年存了3700块钱",
+        "onboard_time": 1764840622,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102343,
+        "num": 102343,
+        "word": "养宠物 小型为人父母实验",
+        "onboard_time": 1764847701,
+        "rank": 34,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 97087,
+        "num": 97087,
+        "word": "超级月亮",
+        "onboard_time": 1764845961,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 304789,
+        "num": 96866,
+        "word": "爱泼斯坦萝莉岛豪宅内挂诡异面具",
+        "onboard_time": 1764838461,
+        "rank": 36,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 96005,
+        "num": 96005,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 196998,
+        "num": 95943,
+        "word": "罗大美生前外借200多万无人主动归还",
+        "onboard_time": 1764838942,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75722,
+        "num": 95346,
+        "word": "我奶同款排骨羽绒服怎么又火了",
+        "onboard_time": 1764847460,
+        "rank": 39,
+        "category": "民生新闻,时尚"
+      },
+      {
+        "raw_hot": 95260,
+        "num": 95260,
+        "word": "无正当理由拒进国家队将被行业惩戒",
+        "onboard_time": 1764847943,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 94097,
+        "num": 94097,
+        "word": "林峯你能不能体面的老去",
+        "onboard_time": 1764836062,
+        "rank": 41,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 91877,
+        "num": 91877,
+        "word": "李雪琴 要不人家是迪丽热巴呢",
+        "onboard_time": 1764841103,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91505,
+        "num": 91505,
+        "word": "Zika加入WBG",
+        "onboard_time": 1764843443,
+        "rank": 43,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 90078,
+        "num": 90078,
+        "word": "胡先煦在王安宇这起一个弹幕作用",
+        "onboard_time": 1764847943,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 88561,
+        "num": 88561,
+        "word": "郑恺苗苗每月一次无娃日约会",
+        "onboard_time": 1764832520,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 87904,
+        "num": 87904,
+        "word": "王楚钦孙颖莎12比10勒布伦袁嘉楠",
+        "onboard_time": 1764845901,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 38016,
+        "num": 87565,
+        "word": "公司法人妻子虚报5倍工资骗生育津贴",
+        "onboard_time": 1764846021,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87458,
+        "num": 87458,
+        "word": "以为很懒其实很健康的行为",
+        "onboard_time": 1764845302,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 83384,
+        "num": 83384,
+        "word": "梁靖崑1比2F勒布伦",
+        "onboard_time": 1764848300,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#弘扬宪法精神总书记这样说#"
+    }
+  }
+}

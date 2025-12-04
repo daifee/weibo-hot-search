@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764847653167,
+  "endTime": 1764848451277,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -169,6 +169,14 @@
       "onboard_time": 1764805221,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1401985,
+      "num": 1401985,
+      "word": "台湾封锁小红书一年",
+      "onboard_time": 1764846922,
+      "rank": 11,
+      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 1401454,
@@ -1177,14 +1185,6 @@
       "onboard_time": 1764744440,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 536659,
-      "num": 237348,
-      "word": "台湾封锁小红书一年",
-      "onboard_time": 1764846922,
-      "rank": 11,
-      "category": "民生新闻,互联网"
     },
     {
       "raw_hot": 536655,
@@ -2451,6 +2451,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 326159,
+      "num": 229647,
+      "word": "蔡徐坤 PUBG",
+      "onboard_time": 1764846802,
+      "rank": 17,
+      "category": "艺人,游戏"
+    },
+    {
       "raw_hot": 324532,
       "num": 734856,
       "word": "达美乐 大美乐",
@@ -3124,7 +3132,7 @@
     },
     {
       "raw_hot": 261081,
-      "num": 188368,
+      "num": 213315,
       "word": "美女子脑死亡后因堕胎禁令被迫产子",
       "onboard_time": 1764842780,
       "rank": 26,
@@ -3452,7 +3460,7 @@
     },
     {
       "raw_hot": 231703,
-      "num": 178771,
+      "num": 216752,
       "word": "女子左耳寄养在脚背5个月成功回家",
       "onboard_time": 1764844281,
       "rank": 28,
@@ -3491,14 +3499,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 229647,
-      "num": 229647,
-      "word": "蔡徐坤 PUBG",
-      "onboard_time": 1764846802,
-      "rank": 17,
-      "category": "艺人,游戏"
-    },
-    {
       "raw_hot": 229475,
       "num": 140373,
       "word": "曹璐回国五年才上内娱综艺",
@@ -3529,6 +3529,14 @@
       "onboard_time": 1764752902,
       "rank": 30,
       "category": "情感"
+    },
+    {
+      "raw_hot": 227646,
+      "num": 215939,
+      "word": "拜托那可是陈妍希",
+      "onboard_time": 1764847460,
+      "rank": 31,
+      "category": "剧集"
     },
     {
       "raw_hot": 226463,
@@ -3625,6 +3633,14 @@
       "onboard_time": 1764682404,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 219411,
+      "num": 219411,
+      "word": "周柯宇现偶最穷的男主",
+      "onboard_time": 1764846860,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 219050,
@@ -4131,6 +4147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 200288,
+      "num": 220487,
+      "word": "杨幂蓝色镂空裙",
+      "onboard_time": 1764845722,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 200163,
       "num": 482601,
       "word": "当地应急回应广州突发火情",
@@ -4145,6 +4169,14 @@
       "onboard_time": 1764579623,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 199579,
+      "num": 199579,
+      "word": "娱乐圈新姐夫驾到",
+      "onboard_time": 1764847701,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 199436,
@@ -4707,14 +4739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 180501,
-      "num": 180501,
-      "word": "周柯宇现偶最穷的男主",
-      "onboard_time": 1764846860,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 179520,
       "num": 55534,
       "word": "香港火灾女子拍门救4人自己遇难",
@@ -4769,14 +4793,6 @@
       "onboard_time": 1764649907,
       "rank": 36,
       "category": "电影"
-    },
-    {
-      "raw_hot": 177642,
-      "num": 177642,
-      "word": "杨幂蓝色镂空裙",
-      "onboard_time": 1764845722,
-      "rank": 26,
-      "category": "艺人"
     },
     {
       "raw_hot": 177602,
@@ -4873,6 +4889,14 @@
       "onboard_time": 1764726981,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173764,
+      "num": 308534,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1764819562,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 173495,
@@ -5137,14 +5161,6 @@
       "onboard_time": 1764573202,
       "rank": 30,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 166624,
-      "num": 308534,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1764819562,
-      "rank": 36,
-      "category": "剧集"
     },
     {
       "raw_hot": 166530,
@@ -6763,14 +6779,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 131787,
-      "num": 131787,
-      "word": "拜托那可是陈妍希",
-      "onboard_time": 1764847460,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 131782,
       "num": 160730,
       "word": "别克连夜复盘辅助驾驶大赛路线",
@@ -7113,6 +7121,14 @@
       "onboard_time": 1764731842,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 126090,
+      "num": 126090,
+      "word": "看到了五十多岁的孟子义",
+      "onboard_time": 1764847521,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 125975,
@@ -7569,6 +7585,14 @@
       "onboard_time": 1764562763,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 120218,
+      "num": 113939,
+      "word": "刘诗诗杨幂白鹿 全女版秦时明月",
+      "onboard_time": 1764847281,
+      "rank": 36,
+      "category": "艺人"
     },
     {
       "raw_hot": 120189,
@@ -8067,14 +8091,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 113939,
-      "num": 113939,
-      "word": "刘诗诗杨幂白鹿 全女版秦时明月",
-      "onboard_time": 1764847281,
-      "rank": 36,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 113876,
       "num": 113876,
       "word": "美方紧急要求黎巴嫩归还炸弹",
@@ -8313,6 +8329,14 @@
       "onboard_time": 1764812780,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109316,
+      "num": 109316,
+      "word": "猫猫cos路德场照",
+      "onboard_time": 1764848361,
+      "rank": 32,
+      "category": "电竞"
     },
     {
       "raw_hot": 109312,
@@ -8787,6 +8811,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 102343,
+      "num": 102343,
+      "word": "养宠物 小型为人父母实验",
+      "onboard_time": 1764847701,
+      "rank": 34,
+      "category": "情感"
+    },
+    {
       "raw_hot": 102283,
       "num": 163978,
       "word": "服毒自杀店主妻子独家回应",
@@ -8889,14 +8921,6 @@
       "onboard_time": 1764580582,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 100725,
-      "num": 100725,
-      "word": "看到了五十多岁的孟子义",
-      "onboard_time": 1764847521,
-      "rank": 47,
-      "category": "艺人"
     },
     {
       "raw_hot": 100666,
@@ -9339,6 +9363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 95260,
+      "num": 95260,
+      "word": "无正当理由拒进国家队将被行业惩戒",
+      "onboard_time": 1764847943,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 95197,
       "num": 95197,
       "word": "孙颖莎也玩上了双刀流",
@@ -9683,6 +9715,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 90078,
+      "num": 90078,
+      "word": "胡先煦在王安宇这起一个弹幕作用",
+      "onboard_time": 1764847943,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 89983,
       "num": 174654,
       "word": "艾顿在湖人找到了自己的舒适区",
@@ -9816,6 +9856,14 @@
       "word": "王楚钦回应8比0速胜",
       "onboard_time": 1764751343,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 87904,
+      "num": 87904,
+      "word": "王楚钦孙颖莎12比10勒布伦袁嘉楠",
+      "onboard_time": 1764845901,
+      "rank": 46,
       "category": "体育"
     },
     {
@@ -10032,6 +10080,14 @@
       "word": "王励勤说成都混团是国乒奥运会预演",
       "onboard_time": 1764653300,
       "rank": 48,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 83384,
+      "num": 83384,
+      "word": "梁靖崑1比2F勒布伦",
+      "onboard_time": 1764848300,
+      "rank": 49,
       "category": "体育"
     },
     {
@@ -10497,6 +10553,14 @@
       "onboard_time": 1764640580,
       "rank": 47,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 75722,
+      "num": 105314,
+      "word": "我奶同款排骨羽绒服怎么又火了",
+      "onboard_time": 1764847460,
+      "rank": 39,
+      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 75558,
@@ -11513,14 +11577,6 @@
       "onboard_time": 1764821361,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 50991,
-      "num": 105314,
-      "word": "我奶同款排骨羽绒服怎么又火了",
-      "onboard_time": 1764847460,
-      "rank": 39,
-      "category": "民生新闻,时尚"
     },
     {
       "raw_hot": 50725,
