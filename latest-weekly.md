@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 02:55:40
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 03:25:17
 </p>
 </blockquote>
 <p>
@@ -13049,6 +13049,12 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%8F%A4%E9%A3%8E%E5%8F%91%E7%B0%AA%E6%8A%98%E7%BA%B8%E6%95%99%E7%A8%8B%23" target="weibo">
 古风发簪折纸教程（热度：11706）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BC%BC%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%9A%84%E7%BE%8E%E5%A5%B3%E5%85%A5%E6%AE%93%E5%B8%88%E8%B5%B0%E7%BA%A2%23" target="weibo">
+神似张碧晨的美女入殓师走红（热度：11699）
 </a>
 </li>
 

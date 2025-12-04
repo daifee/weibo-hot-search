@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 02:55:40
+本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 03:25:17
 </p>
 </blockquote>
 <p>
@@ -383,6 +383,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%23" target="weibo">
 豆包手机（热度：16046）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A5%9E%E4%BC%BC%E5%BC%A0%E7%A2%A7%E6%99%A8%E7%9A%84%E7%BE%8E%E5%A5%B3%E5%85%A5%E6%AE%93%E5%B8%88%E8%B5%B0%E7%BA%A2%23" target="weibo">
+神似张碧晨的美女入殓师走红（热度：11699）
 </a>
 </li>
 
