@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 00:38:59
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 00:54:03
 </p>
 </blockquote>
 <p>
@@ -2337,6 +2337,12 @@ LCK引入教练语音机制（热度：280680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%8D%8A%E5%B9%B4%E5%86%85%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92%23" target="weibo">
+商家半年内被同一人仅退款225个快递（热度：277026）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%80%E5%87%BA%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
 疑似王鹤棣退出将门毒后（热度：275812）
 </a>
@@ -3983,12 +3989,6 @@ JDG宣布GALA入队（热度：169345）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%99%9A%E5%81%87%E7%9A%84%E8%B7%AF%E6%80%92%E7%97%87vs%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%B7%AF%E6%80%92%E7%97%87%23" target="weibo">
 虚假的路怒症vs真正的路怒症（热度：169015）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%8D%8A%E5%B9%B4%E5%86%85%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92%23" target="weibo">
-商家半年内被同一人仅退款225个快递（热度：168715）
 </a>
 </li>
 

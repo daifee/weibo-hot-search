@@ -1,0 +1,410 @@
+{
+  "runTime": 1764867243551,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 329043,
+        "num": 659747,
+        "word": "狙击蝴蝶 误点小广告",
+        "onboard_time": 1764858623,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 97337,
+        "num": 320489,
+        "word": "研究称烧秸秆能控制超级细菌传播",
+        "onboard_time": 1764852681,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 1577,
+        "num": 306350,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 299021,
+        "num": 299021,
+        "word": "巴奴新菜品 水性杨花",
+        "onboard_time": 1764862521,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 240193,
+        "num": 240193,
+        "word": "日本高官公开道歉",
+        "onboard_time": 1764859522,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 224764,
+        "num": 224764,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 5,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176159,
+        "num": 176159,
+        "word": "现在就出发",
+        "onboard_time": 1764862760,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120693,
+        "num": 120693,
+        "word": "马克龙总统抵达成都",
+        "onboard_time": 1764857482,
+        "rank": 7,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107416,
+        "num": 107416,
+        "word": "奶皮子不是奶酪也不是酸奶",
+        "onboard_time": 1764861681,
+        "rank": 8,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 11758,
+        "num": 107389,
+        "word": "乐视网拟投资炒股",
+        "onboard_time": 1764867020,
+        "rank": 9,
+        "category": "互联网,财经"
+      },
+      {
+        "raw_hot": 320689,
+        "num": 107350,
+        "word": "官方确认倒车致2人身亡女子系法官",
+        "onboard_time": 1764854543,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 306080,
+        "num": 107301,
+        "word": "劲酒被称为月经神仙水",
+        "onboard_time": 1764859642,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 277026,
+        "num": 107273,
+        "word": "商家半年内被同一人仅退款225个快递",
+        "onboard_time": 1764864440,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158317,
+        "num": 107205,
+        "word": "河北东光县事业编考试确认重考",
+        "onboard_time": 1764860061,
+        "rank": 13,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 134677,
+        "num": 107201,
+        "word": "周柯宇说吻戏多到数不过来",
+        "onboard_time": 1764858742,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115744,
+        "num": 107117,
+        "word": "一只大闸蟹引发美国一州恐慌",
+        "onboard_time": 1764850881,
+        "rank": 15,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 108127,
+        "num": 107101,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 107073,
+        "num": 107073,
+        "word": "朱亚文向涵之 鬼怪",
+        "onboard_time": 1764855681,
+        "rank": 17,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 101036,
+        "num": 101036,
+        "word": "已经停产却让你很怀念的东西",
+        "onboard_time": 1764849682,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 92044,
+        "num": 92044,
+        "word": "12岁成网红21岁保研北大女生发声",
+        "onboard_time": 1764859102,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 139458,
+        "num": 91867,
+        "word": "章泽天 刘亦菲妈妈年轻时候",
+        "onboard_time": 1764856402,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133595,
+        "num": 91574,
+        "word": "网红王蓉仨娃妈卖货给粉丝送全家福",
+        "onboard_time": 1764854662,
+        "rank": 21,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 92587,
+        "num": 91469,
+        "word": "范玮琪 过去五六年我一直在疗伤",
+        "onboard_time": 1764855442,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 91181,
+        "num": 91181,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 23,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 83973,
+        "num": 83973,
+        "word": "50元的安全套以后或涨为56.5元",
+        "onboard_time": 1764860120,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 75483,
+        "num": 83957,
+        "word": "陈妍希娱乐圈人缘",
+        "onboard_time": 1764844341,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 66475,
+        "num": 83956,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63946,
+        "num": 83932,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63770,
+        "num": 83914,
+        "word": "杨幂蓝色镂空裙",
+        "onboard_time": 1764845722,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 55931,
+        "num": 83893,
+        "word": "巴西男子健身被杠铃重砸胸部身亡",
+        "onboard_time": 1764860723,
+        "rank": 29,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 127662,
+        "num": 83883,
+        "word": "支付宝崩了",
+        "onboard_time": 1764853880,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 61070,
+        "num": 83863,
+        "word": "穆祉丞12月第一次出现",
+        "onboard_time": 1764861441,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58557,
+        "num": 83858,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 58332,
+        "num": 83830,
+        "word": "敖瑞鹏沈羽洁不二之臣新婚吻",
+        "onboard_time": 1764861920,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 55535,
+        "num": 83814,
+        "word": "女子在地铁上用围巾擦拭污渍",
+        "onboard_time": 1764861800,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54480,
+        "num": 83810,
+        "word": "欧阳娜娜妆造真的没有瓶颈期",
+        "onboard_time": 1764859582,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 52741,
+        "num": 83785,
+        "word": "毛不易看迪丽热巴陈星旭打戏红温",
+        "onboard_time": 1764865998,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 51795,
+        "num": 83762,
+        "word": "狙击蝴蝶 养成系姐弟恋",
+        "onboard_time": 1764847401,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 49251,
+        "num": 83747,
+        "word": "百亿富豪去世20亿股份平分给儿女",
+        "onboard_time": 1764858442,
+        "rank": 38,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 21959,
+        "num": 83741,
+        "word": "辽宁幼儿园虐童案最新进展",
+        "onboard_time": 1764866838,
+        "rank": 39,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 47756,
+        "num": 83717,
+        "word": "淘宝崩了",
+        "onboard_time": 1764853582,
+        "rank": 40,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47728,
+        "num": 83705,
+        "word": "拜托那可是陈妍希",
+        "onboard_time": 1764847460,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 47167,
+        "num": 83685,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 42,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 46710,
+        "num": 83679,
+        "word": "每个孩子带3斤五花肉去幼儿园",
+        "onboard_time": 1764851061,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 46130,
+        "num": 83658,
+        "word": "女子试新衣服被赞美后直接扯下吊牌",
+        "onboard_time": 1764854543,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45347,
+        "num": 83642,
+        "word": "王橹杰录制宇宙闪烁请注意",
+        "onboard_time": 1764853341,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 42064,
+        "num": 83620,
+        "word": "手机放电饭煲内胆抢票成功率会高吗",
+        "onboard_time": 1764865638,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 44251,
+        "num": 83614,
+        "word": "寒武纪发严正声明",
+        "onboard_time": 1764866838,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43442,
+        "num": 83591,
+        "word": "陈奕恒宇宙闪烁请注意路透",
+        "onboard_time": 1764851601,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43259,
+        "num": 83573,
+        "word": "枭起青壤白瞳鬼",
+        "onboard_time": 1764853341,
+        "rank": 49,
+        "category": "剧集"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中法合作更加美好的篇章#"
+    }
+  }
+}
