@@ -1,7 +1,15 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764819726704,
+  "endTime": 1764823081382,
   "band_list": [
+    {
+      "raw_hot": 2440776,
+      "num": 255622,
+      "word": "内娱顶流 老来得女",
+      "onboard_time": 1764820102,
+      "rank": 10,
+      "category": "综艺"
+    },
     {
       "raw_hot": 2162256,
       "num": 285925,
@@ -24,6 +32,30 @@
       "word": "丈夫被精神病人杀害妻子一夜白头",
       "onboard_time": 1764816139,
       "rank": 5,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 975698,
+      "num": 266758,
+      "word": "爱泼斯坦私人岛屿的照片被公开",
+      "onboard_time": 1764819382,
+      "rank": 15,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 772628,
+      "num": 228055,
+      "word": "等等 魔丸邓超生了个灵珠儿子",
+      "onboard_time": 1764821122,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 755939,
+      "num": 276927,
+      "word": "取完餐外卖员差点吐了",
+      "onboard_time": 1764817040,
+      "rank": 14,
       "category": "民生新闻"
     },
     {
@@ -51,6 +83,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 615868,
+      "num": 301878,
+      "word": "刘强东父母现身京东食堂做饭",
+      "onboard_time": 1764819081,
+      "rank": 6,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 606778,
       "num": 104846,
       "word": "张雪峰被停播如此肇事忒低级",
@@ -59,20 +99,20 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 587781,
+      "num": 254235,
+      "word": "怀疑我爸是从末世穿越回来的",
+      "onboard_time": 1764820281,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 583286,
       "num": 278423,
       "word": "小鬼王琳凯与卜凡合照",
       "onboard_time": 1764815840,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 567286,
-      "num": 301878,
-      "word": "刘强东父母现身京东食堂做饭",
-      "onboard_time": 1764819081,
-      "rank": 6,
-      "category": "互联网"
     },
     {
       "raw_hot": 556117,
@@ -115,6 +155,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 439663,
+      "num": 1070346,
+      "word": "24人骗取生育津贴超220万",
+      "onboard_time": 1764814640,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 434170,
       "num": 326948,
       "word": "家里家外2",
@@ -131,12 +179,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 425098,
-      "num": 276927,
-      "word": "取完餐外卖员差点吐了",
-      "onboard_time": 1764817040,
-      "rank": 14,
-      "category": "民生新闻"
+      "raw_hot": 417096,
+      "num": 227922,
+      "word": "许玮甯老公 闺蜜前男友",
+      "onboard_time": 1764822321,
+      "rank": 21,
+      "category": "艺人"
     },
     {
       "raw_hot": 390279,
@@ -153,22 +201,6 @@
       "onboard_time": 1764771803,
       "rank": 21,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 384781,
-      "num": 266758,
-      "word": "爱泼斯坦私人岛屿的照片被公开",
-      "onboard_time": 1764819382,
-      "rank": 15,
-      "category": "国际时政"
-    },
-    {
-      "raw_hot": 332575,
-      "num": 264677,
-      "word": "24人骗取生育津贴超220万",
-      "onboard_time": 1764814640,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 329628,
@@ -235,6 +267,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 284344,
+      "num": 289631,
+      "word": "马克龙抵京后发文",
+      "onboard_time": 1764818541,
+      "rank": 9,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 283913,
       "num": 269528,
       "word": "不二之臣",
@@ -267,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 268834,
+      "num": 253325,
+      "word": "陈冠希回应本山化",
+      "onboard_time": 1764822562,
+      "rank": 15,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 263358,
       "num": 263358,
       "word": "美女入殓师曝从业来最离奇事件",
@@ -280,6 +328,22 @@
       "word": "易烊千玺小网站更新",
       "onboard_time": 1764808161,
       "rank": 13,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 260704,
+      "num": 252435,
+      "word": "中国没有全面清算日本已是宽容至极",
+      "onboard_time": 1764818599,
+      "rank": 39,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 252424,
+      "num": 252424,
+      "word": "那英李沁马思纯张晚意私下聚餐",
+      "onboard_time": 1764821182,
+      "rank": 17,
       "category": "艺人"
     },
     {
@@ -299,12 +363,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 228275,
+      "num": 228275,
+      "word": "不二之臣全阵容官宣",
+      "onboard_time": 1764822383,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 225630,
       "num": 144990,
       "word": "日本被曝迈向全领域作战",
       "onboard_time": 1764770724,
       "rank": 14,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 225613,
+      "num": 225613,
+      "word": "评分TOP1的短剧杀回来了",
+      "onboard_time": 1764820702,
+      "rank": 23,
+      "category": "剧集"
     },
     {
       "raw_hot": 216627,
@@ -331,12 +411,28 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 211078,
+      "num": 211078,
+      "word": "刘昊然 得闲谨制戏份",
+      "onboard_time": 1764820401,
+      "rank": 24,
+      "category": "电影"
+    },
+    {
       "raw_hot": 208302,
       "num": 208302,
       "word": "佘诗曼自曝已立遗嘱",
       "onboard_time": 1764818780,
       "rank": 28,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 207791,
+      "num": 207791,
+      "word": "日本着急替马克龙做决定",
+      "onboard_time": 1764821301,
+      "rank": 25,
+      "category": "国际时政"
     },
     {
       "raw_hot": 206075,
@@ -361,6 +457,14 @@
       "onboard_time": 1764815719,
       "rank": 25,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 202148,
+      "num": 202148,
+      "word": "易烊千玺礐嶨音源上线",
+      "onboard_time": 1764822081,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 201141,
@@ -403,6 +507,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 186837,
+      "num": 186837,
+      "word": "电动车设计不合理不能让新国标背锅",
+      "onboard_time": 1764820941,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 186231,
+      "num": 186231,
+      "word": "找到了王梓莼说自己是00花的原因",
+      "onboard_time": 1764822443,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186185,
       "num": 186185,
       "word": "电影得闲谨制美国上映",
@@ -443,12 +563,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176598,
+      "num": 176598,
+      "word": "闪耀暖暖",
+      "onboard_time": 1764822924,
+      "rank": 31,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 170069,
+      "num": 170069,
+      "word": "邓紫棋跨年场抢票",
+      "onboard_time": 1764822622,
+      "rank": 32,
+      "category": "演出"
+    },
+    {
       "raw_hot": 169072,
       "num": 131831,
       "word": "墓园回应演员董立范去世",
       "onboard_time": 1764797054,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167576,
+      "num": 167576,
+      "word": "原来脸小也不一定好看",
+      "onboard_time": 1764819682,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 165240,
@@ -523,12 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 147445,
-      "num": 147445,
-      "word": "中国没有全面清算日本已是宽容至极",
-      "onboard_time": 1764818599,
-      "rank": 39,
-      "category": "国内时政"
+      "raw_hot": 147434,
+      "num": 147434,
+      "word": "彭小苒瞪眼看弹幕失去表情管理",
+      "onboard_time": 1764821781,
+      "rank": 40,
+      "category": "艺人"
     },
     {
       "raw_hot": 141719,
@@ -593,6 +737,14 @@
       "onboard_time": 1764775941,
       "rank": 24,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 132461,
+      "num": 147521,
+      "word": "王楚钦二次穿越安宰贤",
+      "onboard_time": 1764822743,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 131284,
@@ -667,12 +819,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125198,
+      "num": 125198,
+      "word": "iPhone17Pro移除关键相机功能",
+      "onboard_time": 1764822022,
+      "rank": 49,
+      "category": "数码"
+    },
+    {
       "raw_hot": 124691,
       "num": 124691,
       "word": "马克龙抵京后发文称很高兴",
       "onboard_time": 1764810440,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122641,
+      "num": 143044,
+      "word": "国乒8比0韩国",
+      "onboard_time": 1764820401,
+      "rank": 42,
+      "category": "体育"
     },
     {
       "raw_hot": 121762,
@@ -737,14 +905,6 @@
       "onboard_time": 1764815479,
       "rank": 48,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 107056,
-      "num": 107056,
-      "word": "原来脸小也不一定好看",
-      "onboard_time": 1764819682,
-      "rank": 48,
-      "category": "幽默"
     },
     {
       "raw_hot": 105445,
@@ -907,14 +1067,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 81767,
-      "num": 289631,
-      "word": "马克龙抵京后发文",
-      "onboard_time": 1764818541,
-      "rank": 9,
-      "category": "国内时政"
-    },
-    {
       "raw_hot": 80010,
       "num": 533551,
       "word": "工行存100万存20万利率相同",
@@ -1043,6 +1195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64264,
+      "num": 147612,
+      "word": "迪丽热巴聂九罗睡衣穿搭",
+      "onboard_time": 1764822201,
+      "rank": 38,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 63801,
       "num": 74176,
       "word": "保罗被裁原因曝光",
@@ -1065,6 +1225,14 @@
       "onboard_time": 1764757401,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 59200,
+      "num": 256662,
+      "word": "本轮寒潮收尾",
+      "onboard_time": 1764820160,
+      "rank": 8,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 58627,
@@ -1129,6 +1297,14 @@
       "onboard_time": 1764771562,
       "rank": 48,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51557,
+      "num": 125201,
+      "word": "台小学校歌唱中国人绿营破防",
+      "onboard_time": 1764821361,
+      "rank": 48,
+      "category": "国内时政"
     },
     {
       "raw_hot": 51039,
@@ -1227,6 +1403,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 20248,
+      "num": 259301,
+      "word": "2025宪法宣传周",
+      "onboard_time": 1764755542,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12153,
       "num": 19735,
       "word": "易烊千玺垒石头直播是自己想的",
@@ -1254,6 +1438,9 @@
   "hotgov_list": [
     {
       "word": "#支持民营企业发展并走向更加广阔舞台#"
+    },
+    {
+      "word": "#良法善治#"
     }
   ]
 }

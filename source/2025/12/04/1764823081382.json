@@ -1,0 +1,410 @@
+{
+  "runTime": 1764823081382,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 439663,
+        "num": 1070346,
+        "word": "24人骗取生育津贴超220万",
+        "onboard_time": 1764814640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 259548,
+        "num": 259548,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1764815840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 20248,
+        "num": 259301,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 327739,
+        "num": 259004,
+        "word": "家里家外2",
+        "onboard_time": 1764809062,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102004,
+        "num": 258299,
+        "word": "恋与深空",
+        "onboard_time": 1764818599,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 755939,
+        "num": 257857,
+        "word": "取完餐外卖员差点吐了",
+        "onboard_time": 1764817040,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 615868,
+        "num": 257317,
+        "word": "刘强东父母现身京东食堂做饭",
+        "onboard_time": 1764819081,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 356831,
+        "num": 256843,
+        "word": "丈夫被精神病人杀害妻子一夜白头",
+        "onboard_time": 1764816139,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 59200,
+        "num": 256662,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284344,
+        "num": 255853,
+        "word": "马克龙抵京后发文",
+        "onboard_time": 1764818541,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2440776,
+        "num": 255622,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1332778,
+        "num": 254839,
+        "word": "全球抛售日本",
+        "onboard_time": 1764816859,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 975698,
+        "num": 254362,
+        "word": "爱泼斯坦私人岛屿的照片被公开",
+        "onboard_time": 1764819382,
+        "rank": 12,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 587781,
+        "num": 254235,
+        "word": "怀疑我爸是从末世穿越回来的",
+        "onboard_time": 1764820281,
+        "rank": 13,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 368442,
+        "num": 253533,
+        "word": "曹璐自曝在海外生活费每月2500元",
+        "onboard_time": 1764818180,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 268834,
+        "num": 253325,
+        "word": "陈冠希回应本山化",
+        "onboard_time": 1764822562,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 260704,
+        "num": 252435,
+        "word": "中国没有全面清算日本已是宽容至极",
+        "onboard_time": 1764818599,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 252424,
+        "num": 252424,
+        "word": "那英李沁马思纯张晚意私下聚餐",
+        "onboard_time": 1764821182,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 239286,
+        "num": 239286,
+        "word": "小鬼王琳凯与卜凡合照",
+        "onboard_time": 1764815840,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228275,
+        "num": 228275,
+        "word": "不二之臣全阵容官宣",
+        "onboard_time": 1764822383,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 772628,
+        "num": 228055,
+        "word": "等等 魔丸邓超生了个灵珠儿子",
+        "onboard_time": 1764821122,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 417096,
+        "num": 227922,
+        "word": "许玮甯老公 闺蜜前男友",
+        "onboard_time": 1764822321,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 278713,
+        "num": 226880,
+        "word": "江苏爸妈生出混血娃娃",
+        "onboard_time": 1764805221,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 225613,
+        "num": 225613,
+        "word": "评分TOP1的短剧杀回来了",
+        "onboard_time": 1764820702,
+        "rank": 23,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 211078,
+        "num": 211078,
+        "word": "刘昊然 得闲谨制戏份",
+        "onboard_time": 1764820401,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 207791,
+        "num": 207791,
+        "word": "日本着急替马克龙做决定",
+        "onboard_time": 1764821301,
+        "rank": 25,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 205716,
+        "num": 205716,
+        "word": "王鹤棣沈月现实版尼克朱迪",
+        "onboard_time": 1764816621,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202148,
+        "num": 202148,
+        "word": "易烊千玺礐嶨音源上线",
+        "onboard_time": 1764822081,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 186837,
+        "num": 186837,
+        "word": "电动车设计不合理不能让新国标背锅",
+        "onboard_time": 1764820941,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186231,
+        "num": 186231,
+        "word": "找到了王梓莼说自己是00花的原因",
+        "onboard_time": 1764822443,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180290,
+        "num": 180290,
+        "word": "颖儿又夸付辛博了",
+        "onboard_time": 1764815240,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 176598,
+        "num": 176598,
+        "word": "闪耀暖暖",
+        "onboard_time": 1764822924,
+        "rank": 31,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170069,
+        "num": 170069,
+        "word": "邓紫棋跨年场抢票",
+        "onboard_time": 1764822622,
+        "rank": 32,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 167576,
+        "num": 167576,
+        "word": "原来脸小也不一定好看",
+        "onboard_time": 1764819682,
+        "rank": 33,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 165536,
+        "num": 165536,
+        "word": "佘诗曼自曝已立遗嘱",
+        "onboard_time": 1764818780,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151578,
+        "num": 151578,
+        "word": "刘耀文时代峰峻录制",
+        "onboard_time": 1764817640,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148695,
+        "num": 148695,
+        "word": "老吃家情侣不需要漂亮饭",
+        "onboard_time": 1764817581,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 147866,
+        "num": 147866,
+        "word": "适合方圆脸的人生发型",
+        "onboard_time": 1764819441,
+        "rank": 37,
+        "category": "美妆"
+      },
+      {
+        "raw_hot": 64264,
+        "num": 147612,
+        "word": "迪丽热巴聂九罗睡衣穿搭",
+        "onboard_time": 1764822201,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 132461,
+        "num": 147521,
+        "word": "王楚钦二次穿越安宰贤",
+        "onboard_time": 1764822743,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147434,
+        "num": 147434,
+        "word": "彭小苒瞪眼看弹幕失去表情管理",
+        "onboard_time": 1764821781,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51774,
+        "num": 143751,
+        "word": "Mate80屏幕神话级强光挑战",
+        "onboard_time": 1764818661,
+        "rank": 41,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 122641,
+        "num": 143044,
+        "word": "国乒8比0韩国",
+        "onboard_time": 1764820401,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 147517,
+        "num": 143031,
+        "word": "浙江跨晚 李飞年终小考",
+        "onboard_time": 1764818599,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 143011,
+        "num": 143011,
+        "word": "张俪外网评价",
+        "onboard_time": 1764815719,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 140442,
+        "num": 140442,
+        "word": "这居然是陈妍希画的",
+        "onboard_time": 1764816020,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 134980,
+        "num": 134980,
+        "word": "幼儿园园长诈骗1451万租豪车养男模",
+        "onboard_time": 1764816621,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125822,
+        "num": 125822,
+        "word": "身体有炎症就少吃4种食物",
+        "onboard_time": 1764804378,
+        "rank": 47,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 51557,
+        "num": 125201,
+        "word": "台小学校歌唱中国人绿营破防",
+        "onboard_time": 1764821361,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 125198,
+        "num": 125198,
+        "word": "iPhone17Pro移除关键相机功能",
+        "onboard_time": 1764822022,
+        "rank": 49,
+        "category": "数码"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
