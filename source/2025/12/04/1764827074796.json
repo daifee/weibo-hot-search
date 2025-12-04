@@ -1,0 +1,410 @@
+{
+  "runTime": 1764827074796,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 368764,
+        "num": 1059002,
+        "word": "24人骗取生育津贴超220万",
+        "onboard_time": 1764814640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 133753,
+        "num": 343527,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1764815840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21895,
+        "num": 340765,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 340168,
+        "num": 340168,
+        "word": "不二之臣全阵容官宣",
+        "onboard_time": 1764822383,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94475,
+        "num": 338365,
+        "word": "恋与深空",
+        "onboard_time": 1764818599,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 793661,
+        "num": 332860,
+        "word": "沈梦辰创业半年倒闭",
+        "onboard_time": 1764824303,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 584652,
+        "num": 329002,
+        "word": "韩国标示中国台湾台当局急了",
+        "onboard_time": 1764825142,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 478767,
+        "num": 326463,
+        "word": "刘强东父母现身京东食堂做饭",
+        "onboard_time": 1764819081,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 47383,
+        "num": 319721,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 448111,
+        "num": 314337,
+        "word": "取完餐外卖员差点吐了",
+        "onboard_time": 1764817040,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 622852,
+        "num": 311368,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569410,
+        "num": 308860,
+        "word": "爱泼斯坦私人岛屿的照片被公开",
+        "onboard_time": 1764819382,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 412000,
+        "num": 302654,
+        "word": "怀疑我爸是从末世穿越回来的",
+        "onboard_time": 1764820281,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 365356,
+        "num": 298747,
+        "word": "陈冠希回应本山化",
+        "onboard_time": 1764822562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 296775,
+        "num": 296775,
+        "word": "工作性抑郁",
+        "onboard_time": 1764825500,
+        "rank": 14,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 233620,
+        "num": 233620,
+        "word": "那英李沁马思纯张晚意私下聚餐",
+        "onboard_time": 1764821182,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232978,
+        "num": 232978,
+        "word": "家里家外2",
+        "onboard_time": 1764809062,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 205421,
+        "num": 205421,
+        "word": "易烊千玺你也很难戒断吧",
+        "onboard_time": 1764824962,
+        "rank": 17,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 195678,
+        "num": 195678,
+        "word": "香港宣布拆除所有大维修的楼宇棚网",
+        "onboard_time": 1764826582,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185380,
+        "num": 185380,
+        "word": "中国没有全面清算日本已是宽容至极",
+        "onboard_time": 1764818599,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2176974,
+        "num": 185281,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 529487,
+        "num": 184049,
+        "word": "等等 魔丸邓超生了个灵珠儿子",
+        "onboard_time": 1764821122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 356881,
+        "num": 183386,
+        "word": "许玮甯老公 闺蜜前男友",
+        "onboard_time": 1764822321,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 330699,
+        "num": 182291,
+        "word": "小S录跨年宣传片崩溃大哭",
+        "onboard_time": 1764823223,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268827,
+        "num": 181572,
+        "word": "美国吸毒人群在街头无意识扭动身体",
+        "onboard_time": 1764824781,
+        "rank": 24,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 207717,
+        "num": 180643,
+        "word": "男子频繁30秒如厕牵出40人涉黄传播网",
+        "onboard_time": 1764823643,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 198198,
+        "num": 179765,
+        "word": "李治廷老婆疑怀孕",
+        "onboard_time": 1764823463,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 179626,
+        "num": 179626,
+        "word": "找到了王梓莼说自己是00花的原因",
+        "onboard_time": 1764822443,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 178760,
+        "num": 178760,
+        "word": "工作室对易烊千玺说辛苦了",
+        "onboard_time": 1764823463,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170404,
+        "num": 170404,
+        "word": "是你吗李现",
+        "onboard_time": 1764825923,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170212,
+        "num": 170212,
+        "word": "颖儿被付辛博帅到脸红",
+        "onboard_time": 1764824662,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 169422,
+        "num": 169422,
+        "word": "日本网站出现抹黑中国写手招聘",
+        "onboard_time": 1764824303,
+        "rank": 31,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142177,
+        "num": 142177,
+        "word": "终于看到演员演生气不是大喊大叫了",
+        "onboard_time": 1764824781,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 139538,
+        "num": 139538,
+        "word": "很久没见过这么健康的恋爱关系了",
+        "onboard_time": 1764826521,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138078,
+        "num": 138078,
+        "word": "亲生和亲自生的区别",
+        "onboard_time": 1764823762,
+        "rank": 34,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 132743,
+        "num": 132743,
+        "word": "刘昊然 得闲谨制戏份",
+        "onboard_time": 1764820401,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 128077,
+        "num": 128077,
+        "word": "原来脸小也不一定好看",
+        "onboard_time": 1764819682,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 120579,
+        "num": 120579,
+        "word": "喜人奇妙夜",
+        "onboard_time": 1764825800,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120392,
+        "num": 120392,
+        "word": "我们家INFJ怎么没有工作啊",
+        "onboard_time": 1764824602,
+        "rank": 38,
+        "category": "情感,休闲"
+      },
+      {
+        "raw_hot": 118900,
+        "num": 118900,
+        "word": "李嘉格与男友正脸合照",
+        "onboard_time": 1764827002,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 118424,
+        "num": 118424,
+        "word": "喜人奇妙夜2西装群像大片",
+        "onboard_time": 1764823762,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113149,
+        "num": 113149,
+        "word": "马克龙总统第四次访华",
+        "onboard_time": 1764823524,
+        "rank": 41,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 111820,
+        "num": 111820,
+        "word": "马克龙抵京后发文",
+        "onboard_time": 1764818541,
+        "rank": 42,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 48887,
+        "num": 110455,
+        "word": "蔡依林看了都得楞3秒",
+        "onboard_time": 1764825623,
+        "rank": 43,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 110259,
+        "num": 110259,
+        "word": "日本着急替马克龙做决定",
+        "onboard_time": 1764821301,
+        "rank": 44,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 109960,
+        "num": 109960,
+        "word": "樊振东2026首个主场碰面薛飞",
+        "onboard_time": 1764825442,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 109622,
+        "num": 109622,
+        "word": "曹璐自曝在海外生活费每月2500元",
+        "onboard_time": 1764818180,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108272,
+        "num": 108272,
+        "word": "你好种地少年",
+        "onboard_time": 1764826462,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 105523,
+        "num": 105523,
+        "word": "刘萧旭劝学",
+        "onboard_time": 1764825923,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98184,
+        "num": 98184,
+        "word": "C的发音是si还是sei",
+        "onboard_time": 1764826041,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
