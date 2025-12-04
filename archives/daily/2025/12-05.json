@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764876317702,
+  "endTime": 1764877233485,
   "band_list": [
     {
       "raw_hot": 407881,
@@ -499,12 +499,20 @@
       "category": "数码"
     },
     {
-      "raw_hot": 11699,
+      "raw_hot": 12072,
       "num": 25077,
       "word": "神似张碧晨的美女入殓师走红",
       "onboard_time": 1764873194,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 11244,
+      "num": 24866,
+      "word": "迅雷不及掩耳之势具象化",
+      "onboard_time": 1764876434,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 2133,

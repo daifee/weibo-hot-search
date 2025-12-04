@@ -1,0 +1,410 @@
+{
+  "runTime": 1764877233485,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 89720,
+        "num": 89720,
+        "word": "商家半年内被同一人仅退款225个快递",
+        "onboard_time": 1764864440,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 62533,
+        "num": 62533,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 934,
+        "num": 57990,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 53932,
+        "num": 53932,
+        "word": "日本高官公开道歉",
+        "onboard_time": 1764859522,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 30039,
+        "num": 30039,
+        "word": "百亿富豪去世20亿股份平分给儿女",
+        "onboard_time": 1764858442,
+        "rank": 4,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 37115,
+        "num": 30001,
+        "word": "12岁成网红21岁保研北大女生发声",
+        "onboard_time": 1764859102,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34417,
+        "num": 29975,
+        "word": "骑手谈电动车新国标",
+        "onboard_time": 1764870017,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 34120,
+        "num": 29933,
+        "word": "巴奴新菜品 水性杨花",
+        "onboard_time": 1764862521,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22266,
+        "num": 29912,
+        "word": "研究称烧秸秆能控制超级细菌传播",
+        "onboard_time": 1764852681,
+        "rank": 8,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 15506,
+        "num": 29831,
+        "word": "丁俊晖vs唐纳森",
+        "onboard_time": 1764871575,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 66152,
+        "num": 29792,
+        "word": "劲酒被称为月经神仙水",
+        "onboard_time": 1764859642,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36270,
+        "num": 29746,
+        "word": "程十安回应与前公司解约",
+        "onboard_time": 1764867976,
+        "rank": 11,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 32513,
+        "num": 29718,
+        "word": "狙击蝴蝶 误点小广告",
+        "onboard_time": 1764858623,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 30933,
+        "num": 29685,
+        "word": "辽宁幼儿园虐童案最新进展",
+        "onboard_time": 1764866838,
+        "rank": 13,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 29658,
+        "num": 29658,
+        "word": "现在就出发",
+        "onboard_time": 1764862760,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 27124,
+        "num": 27124,
+        "word": "已经停产却让你很怀念的东西",
+        "onboard_time": 1764849682,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 25797,
+        "num": 25797,
+        "word": "范玮琪 过去五六年我一直在疗伤",
+        "onboard_time": 1764855442,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 25487,
+        "num": 25487,
+        "word": "一只大闸蟹引发美国一州恐慌",
+        "onboard_time": 1764850881,
+        "rank": 17,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 25104,
+        "num": 25104,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 18,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 21512,
+        "num": 25096,
+        "word": "每个孩子带3斤五花肉去幼儿园",
+        "onboard_time": 1764851061,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 23809,
+        "num": 25092,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 20,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22341,
+        "num": 25085,
+        "word": "生育津贴成唐僧肉暴露规则漏洞",
+        "onboard_time": 1764856223,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20589,
+        "num": 25077,
+        "word": "朱亚文向涵之 鬼怪",
+        "onboard_time": 1764855681,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17978,
+        "num": 25073,
+        "word": "河北东光县事业编考试确认重考",
+        "onboard_time": 1764860061,
+        "rank": 23,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 17419,
+        "num": 25062,
+        "word": "马克龙总统抵达成都",
+        "onboard_time": 1764857482,
+        "rank": 24,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17347,
+        "num": 25055,
+        "word": "50元的安全套以后或涨为56.5元",
+        "onboard_time": 1764860120,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 17314,
+        "num": 25042,
+        "word": "女子试新衣服被赞美后直接扯下吊牌",
+        "onboard_time": 1764854543,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16997,
+        "num": 25040,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 16913,
+        "num": 25034,
+        "word": "美女子脑死亡后因堕胎禁令被迫产子",
+        "onboard_time": 1764842780,
+        "rank": 28,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 16498,
+        "num": 25020,
+        "word": "陈妍希娱乐圈人缘",
+        "onboard_time": 1764844341,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 37469,
+        "num": 25019,
+        "word": "支付宝崩了",
+        "onboard_time": 1764853880,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 16080,
+        "num": 25005,
+        "word": "寒武纪发严正声明",
+        "onboard_time": 1764866838,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 15764,
+        "num": 24996,
+        "word": "狙击蝴蝶 养成系姐弟恋",
+        "onboard_time": 1764847401,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 15566,
+        "num": 24992,
+        "word": "章泽天 刘亦菲妈妈年轻时候",
+        "onboard_time": 1764856402,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15488,
+        "num": 24980,
+        "word": "周柯宇说吻戏多到数不过来",
+        "onboard_time": 1764858742,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14875,
+        "num": 24974,
+        "word": "网红王蓉仨娃妈卖货给粉丝送全家福",
+        "onboard_time": 1764854662,
+        "rank": 35,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14797,
+        "num": 24968,
+        "word": "拜托那可是陈妍希",
+        "onboard_time": 1764847460,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 14711,
+        "num": 24964,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 14296,
+        "num": 24950,
+        "word": "吴磊打游戏爽到了",
+        "onboard_time": 1764872114,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 13713,
+        "num": 24947,
+        "word": "女子在地铁上用围巾擦拭污渍",
+        "onboard_time": 1764861800,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 13107,
+        "num": 24941,
+        "word": "巴西男子健身被杠铃重砸胸部身亡",
+        "onboard_time": 1764860723,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 13066,
+        "num": 24926,
+        "word": "奶皮子不是奶酪也不是酸奶",
+        "onboard_time": 1764861681,
+        "rank": 41,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 12616,
+        "num": 24922,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12072,
+        "num": 24913,
+        "word": "神似张碧晨的美女入殓师走红",
+        "onboard_time": 1764873194,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 12032,
+        "num": 24911,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 44,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 12023,
+        "num": 24903,
+        "word": "陈奕恒宇宙闪烁请注意路透",
+        "onboard_time": 1764851601,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 11823,
+        "num": 24895,
+        "word": "10公斤奶仅有不到1公斤奶皮子",
+        "onboard_time": 1764863840,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 11700,
+        "num": 24886,
+        "word": "枭起青壤白瞳鬼",
+        "onboard_time": 1764853341,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11373,
+        "num": 24876,
+        "word": "周深家里家外2主题曲",
+        "onboard_time": 1764869656,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 11244,
+        "num": 24866,
+        "word": "迅雷不及掩耳之势具象化",
+        "onboard_time": 1764876434,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中法合作更加美好的篇章#"
+    }
+  }
+}
