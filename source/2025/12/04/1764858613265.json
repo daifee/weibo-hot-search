@@ -1,0 +1,410 @@
+{
+  "runTime": 1764858613265,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 737696,
+        "num": 1118031,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 255705,
+        "num": 255705,
+        "word": "研究称烧秸秆能控制超级细菌传播",
+        "onboard_time": 1764852681,
+        "rank": 1,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 5227,
+        "num": 249390,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 416547,
+        "num": 245825,
+        "word": "官方确认倒车致2人身亡女子系法官",
+        "onboard_time": 1764854543,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 349223,
+        "num": 230225,
+        "word": "每个孩子带3斤五花肉去幼儿园",
+        "onboard_time": 1764851061,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 319544,
+        "num": 224661,
+        "word": "一只大闸蟹引发美国一州恐慌",
+        "onboard_time": 1764850881,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 295385,
+        "num": 214621,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 207471,
+        "num": 207471,
+        "word": "周鸿祎称豆包手机冲垮大厂护城河",
+        "onboard_time": 1764848424,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 29672,
+        "num": 207448,
+        "word": "我国人均拥有约100棵树",
+        "onboard_time": 1764857062,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88930,
+        "num": 200342,
+        "word": "王楚钦林诗栋1比0勒布伦兄弟",
+        "onboard_time": 1764850342,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 496324,
+        "num": 194622,
+        "word": "朱亚文向涵之 鬼怪",
+        "onboard_time": 1764855681,
+        "rank": 10,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 370858,
+        "num": 188503,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 11,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 240427,
+        "num": 184485,
+        "word": "范玮琪 过去五六年我一直在疗伤",
+        "onboard_time": 1764855442,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 238397,
+        "num": 180544,
+        "word": "已经停产却让你很怀念的东西",
+        "onboard_time": 1764849682,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 223222,
+        "num": 175612,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 14,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 213983,
+        "num": 167853,
+        "word": "女子试新衣服被赞美后直接扯下吊牌",
+        "onboard_time": 1764854543,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 209792,
+        "num": 165682,
+        "word": "枭起青壤白瞳鬼",
+        "onboard_time": 1764853341,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 162896,
+        "num": 162896,
+        "word": "香港已收到28亿港元捐款",
+        "onboard_time": 1764855681,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154821,
+        "num": 154821,
+        "word": "陈奕恒宇宙闪烁请注意路透",
+        "onboard_time": 1764851601,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 144498,
+        "num": 144498,
+        "word": "鞠婧祎月鳞绮纪29集",
+        "onboard_time": 1764856521,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 518385,
+        "num": 143348,
+        "word": "网红王蓉仨娃妈卖货给粉丝送全家福",
+        "onboard_time": 1764854662,
+        "rank": 20,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 288028,
+        "num": 142513,
+        "word": "章泽天 刘亦菲妈妈年轻时候",
+        "onboard_time": 1764856402,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 285994,
+        "num": 141524,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 195903,
+        "num": 139589,
+        "word": "生育津贴成唐僧肉暴露规则漏洞",
+        "onboard_time": 1764856223,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 150104,
+        "num": 138000,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 137119,
+        "num": 137119,
+        "word": "蒋叔红线穿瞳了",
+        "onboard_time": 1764853521,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 134491,
+        "num": 134491,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 130188,
+        "num": 130188,
+        "word": "杨幂蓝色镂空裙",
+        "onboard_time": 1764845722,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124314,
+        "num": 124314,
+        "word": "淘宝回应支付异常",
+        "onboard_time": 1764857662,
+        "rank": 28,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 121413,
+        "num": 121413,
+        "word": "冻米饭可抑制体内慢性炎症",
+        "onboard_time": 1764854782,
+        "rank": 29,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 689912,
+        "num": 121211,
+        "word": "淘宝崩了",
+        "onboard_time": 1764853582,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 514441,
+        "num": 120941,
+        "word": "支付宝崩了",
+        "onboard_time": 1764853880,
+        "rank": 31,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 168833,
+        "num": 120484,
+        "word": "马克龙总统抵达成都",
+        "onboard_time": 1764857482,
+        "rank": 32,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 117911,
+        "num": 120219,
+        "word": "田嘉瑞没买到疯狂动物城的票",
+        "onboard_time": 1764857062,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 120143,
+        "num": 120143,
+        "word": "偶遇李嘉格与男友牵手逛街",
+        "onboard_time": 1764851722,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 119471,
+        "num": 119471,
+        "word": "王橹杰录制宇宙闪烁请注意",
+        "onboard_time": 1764853341,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114653,
+        "num": 114653,
+        "word": "终于有剧拍出了伟大的暧昧期",
+        "onboard_time": 1764856582,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113787,
+        "num": 113787,
+        "word": "情侣婚前坠亡女方家属同意退彩礼",
+        "onboard_time": 1764855743,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109233,
+        "num": 109233,
+        "word": "周柯宇演技",
+        "onboard_time": 1764852202,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 68136,
+        "num": 107004,
+        "word": "全球5岁以下儿童死亡数或上升",
+        "onboard_time": 1764857602,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106627,
+        "num": 106627,
+        "word": "美女子脑死亡后因堕胎禁令被迫产子",
+        "onboard_time": 1764842780,
+        "rank": 40,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 103976,
+        "num": 103976,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100583,
+        "num": 100583,
+        "word": "秦岭深处树在天上飞",
+        "onboard_time": 1764857543,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 100578,
+        "num": 100578,
+        "word": "2025尖叫之夜全阵容名单",
+        "onboard_time": 1764841282,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 98044,
+        "num": 98044,
+        "word": "9键和26键突然停止了争吵",
+        "onboard_time": 1764840442,
+        "rank": 44,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 96458,
+        "num": 96458,
+        "word": "狙击蝴蝶 养成系姐弟恋",
+        "onboard_time": 1764847401,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 94854,
+        "num": 94854,
+        "word": "百亿富豪去世20亿股份平分给儿女",
+        "onboard_time": 1764858442,
+        "rank": 46,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 94831,
+        "num": 94831,
+        "word": "央行即将开展10000亿元买断式逆回购",
+        "onboard_time": 1764852922,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 92782,
+        "num": 92782,
+        "word": "易烊千玺与狗狗海边狂欢",
+        "onboard_time": 1764849622,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 84433,
+        "num": 84433,
+        "word": "王楚钦记不清水是谁的",
+        "onboard_time": 1764857783,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中法关系在新甲子走得更稳更好#"
+    }
+  }
+}
