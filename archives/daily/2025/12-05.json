@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764877233485,
+  "endTime": 1764880328380,
   "band_list": [
     {
       "raw_hot": 407881,
@@ -451,6 +451,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 26341,
+      "num": 26341,
+      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
+      "onboard_time": 1764878714,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25655,
       "num": 36317,
       "word": "周深家里家外2主题曲",
@@ -499,6 +507,22 @@
       "category": "数码"
     },
     {
+      "raw_hot": 15448,
+      "num": 17910,
+      "word": "狙击蝴蝶原著",
+      "onboard_time": 1764878054,
+      "rank": 27,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 12082,
+      "num": 17850,
+      "word": "张小斐 时尚战绩",
+      "onboard_time": 1764878594,
+      "rank": 39,
+      "category": "作品衍生,时尚"
+    },
+    {
       "raw_hot": 12072,
       "num": 25077,
       "word": "神似张碧晨的美女入殓师走红",
@@ -513,6 +537,14 @@
       "onboard_time": 1764876434,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 9871,
+      "num": 17795,
+      "word": "赛博朋友",
+      "onboard_time": 1764879734,
+      "rank": 49,
+      "category": "情感"
     },
     {
       "raw_hot": 2133,
