@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 04:32:08
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 04:46:02
 </p>
 </blockquote>
 <p>
@@ -12117,6 +12117,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：35896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2319%E5%B2%81%E5%B0%8F%E4%BC%99%E4%B8%BA%E6%95%91%E8%B7%B3%E6%B2%B3%E5%A5%B3%E5%8F%8B%E6%BA%BA%E4%BA%A1%23" target="weibo">
 19岁小伙为救跳河女友溺亡（热度：35643）
 </a>
@@ -12497,12 +12503,6 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E5%9B%BD%E6%A0%87%E5%AE%9E%E6%96%BD%E6%9C%89%E7%94%B5%E5%8A%A8%E8%BD%A6%E9%97%A8%E5%BA%973%E5%A4%A9%E6%B2%A1%E5%BC%80%E5%8D%95%23" target="weibo">
 新国标实施有电动车门店3天没开单（热度：26483）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-居民废弃酒瓶中砸出过冬眼镜蛇（热度：26341）
 </a>
 </li>
 

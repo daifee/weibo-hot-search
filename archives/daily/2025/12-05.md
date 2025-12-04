@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 04:32:08
+本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 04:46:02
 </p>
 </blockquote>
 <p>
@@ -333,6 +333,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：35896）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E6%88%90%E5%94%90%E5%83%A7%E8%82%89%E6%9A%B4%E9%9C%B2%E8%A7%84%E5%88%99%E6%BC%8F%E6%B4%9E%23" target="weibo">
 生育津贴成唐僧肉暴露规则漏洞（热度：33456）
 </a>
@@ -347,12 +353,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E4%BF%8A%E6%99%96vs%E5%94%90%E7%BA%B3%E6%A3%AE%23" target="weibo">
 丁俊晖vs唐纳森（热度：27531）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-居民废弃酒瓶中砸出过冬眼镜蛇（热度：26341）
 </a>
 </li>
 

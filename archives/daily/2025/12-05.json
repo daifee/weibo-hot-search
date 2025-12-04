@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764880328380,
+  "endTime": 1764881162677,
   "band_list": [
     {
       "raw_hot": 407881,
@@ -427,6 +427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35896,
+      "num": 26341,
+      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
+      "onboard_time": 1764878714,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33456,
       "num": 50958,
       "word": "生育津贴成唐僧肉暴露规则漏洞",
@@ -449,14 +457,6 @@
       "onboard_time": 1764871575,
       "rank": 23,
       "category": "体育"
-    },
-    {
-      "raw_hot": 26341,
-      "num": 26341,
-      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
-      "onboard_time": 1764878714,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 25655,
