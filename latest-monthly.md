@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 06:42:42
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 07:26:55
 </p>
 </blockquote>
 <p>
@@ -1155,6 +1155,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%8A%B2%E9%85%92%E8%A2%AB%E7%A7%B0%E4%B8%BA%E6%9C%88%E7%BB%8F%E7%A5%9E%E4%BB%99%E6%B0%B4%23" target="weibo">
+劲酒被称为月经神仙水（热度：464610）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%8B%9C%E7%99%BB%E6%97%B6%E6%9C%9F%E6%96%87%E4%BB%B6%E5%85%A8%E9%83%A8%E4%BD%9C%E5%BA%9F%23" target="weibo">
 特朗普宣布拜登时期文件全部作废（热度：463880）
 </a>
@@ -1311,12 +1317,6 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%8A%B2%E9%85%92%E8%A2%AB%E7%A7%B0%E4%B8%BA%E6%9C%88%E7%BB%8F%E7%A5%9E%E4%BB%99%E6%B0%B4%23" target="weibo">
-劲酒被称为月经神仙水（热度：433965）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A7%91%E5%A8%98%E4%BA%A43%E4%B8%878%E7%9B%B8%E4%BA%B2%E4%B8%8D%E5%88%B024%E5%B0%8F%E6%97%B6%E5%B0%B1%E5%90%8E%E6%82%94%23" target="weibo">
 姑娘交3万8相亲不到24小时就后悔（热度：433286）
 </a>
@@ -1443,6 +1443,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%8D%8A%E5%B9%B4%E5%86%85%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92%23" target="weibo">
+商家半年内被同一人仅退款225个快递（热度：401991）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2325%E5%B2%81%E5%B0%8F%E4%BC%99%E7%A6%BB%E4%B8%962%E5%B0%8F%E6%97%B6%E5%90%8E%E8%A2%AB%E5%85%AC%E5%8F%B8%E8%AE%BE%E4%B8%BA%E7%A6%BB%E8%81%8C%23" target="weibo">
 25岁小伙离世2小时后被公司设为离职（热度：401839）
 </a>
@@ -1563,6 +1569,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
+日本高官公开道歉（热度：382519）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E5%8A%A0%E5%A5%88%E9%82%A3%E8%AE%A9%E6%88%91%E6%81%8B%E7%88%B1%E8%84%91%E5%8F%91%E4%BD%9C%E4%BA%86%23" target="weibo">
 胡先煦加奈那让我恋爱脑发作了（热度：380288）
 </a>
@@ -1595,6 +1607,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E6%88%90%E9%83%BD%23" target="weibo">
 马克龙总统抵达成都（热度：379321）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E6%88%90%E7%BD%91%E7%BA%A221%E5%B2%81%E4%BF%9D%E7%A0%94%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
+12岁成网红21岁保研北大女生发声（热度：378645）
 </a>
 </li>
 
@@ -2337,12 +2355,6 @@ LCK引入教练语音机制（热度：280680）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%95%86%E5%AE%B6%E5%8D%8A%E5%B9%B4%E5%86%85%E8%A2%AB%E5%90%8C%E4%B8%80%E4%BA%BA%E4%BB%85%E9%80%80%E6%AC%BE225%E4%B8%AA%E5%BF%AB%E9%80%92%23" target="weibo">
-商家半年内被同一人仅退款225个快递（热度：277026）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%96%91%E4%BC%BC%E7%8E%8B%E9%B9%A4%E6%A3%A3%E9%80%80%E5%87%BA%E5%B0%86%E9%97%A8%E6%AF%92%E5%90%8E%23" target="weibo">
 疑似王鹤棣退出将门毒后（热度：275812）
 </a>
@@ -2409,12 +2421,6 @@ LCK引入教练语音机制（热度：280680）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%97%A5%E6%9C%AC%E9%AB%98%E5%AE%98%E5%85%AC%E5%BC%80%E9%81%93%E6%AD%89%23" target="weibo">
-日本高官公开道歉（热度：268991）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%88%98%E8%AF%97%E8%AF%97%E5%B0%8F%E6%97%B6%E5%80%99%E7%94%A8%E8%BF%99%E5%BC%A0%E8%84%B8%E6%8D%85%E9%A9%AC%E8%9C%82%E7%AA%9D%23" target="weibo">
 刘诗诗小时候用这张脸捅马蜂窝（热度：267550）
 </a>
@@ -2447,6 +2453,12 @@ LCK引入教练语音机制（热度：280680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E7%99%BB%E9%A1%B6%23" target="weibo">
 恋与深空登顶（热度：264383）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E6%88%90%E5%94%90%E5%83%A7%E8%82%89%E6%9A%B4%E9%9C%B2%E8%A7%84%E5%88%99%E6%BC%8F%E6%B4%9E%23" target="weibo">
+生育津贴成唐僧肉暴露规则漏洞（热度：264289）
 </a>
 </li>
 
@@ -2927,12 +2939,6 @@ iPad中国市场份额大跌（热度：230094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E8%90%BD%E5%90%8E%23" target="weibo">
 中国男篮落后（热度：217502）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E6%88%90%E5%94%90%E5%83%A7%E8%82%89%E6%9A%B4%E9%9C%B2%E8%A7%84%E5%88%99%E6%BC%8F%E6%B4%9E%23" target="weibo">
-生育津贴成唐僧肉暴露规则漏洞（热度：217299）
 </a>
 </li>
 
@@ -3999,12 +4005,6 @@ JDG宣布GALA入队（热度：169345）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%2312%E5%B2%81%E6%88%90%E7%BD%91%E7%BA%A221%E5%B2%81%E4%BF%9D%E7%A0%94%E5%8C%97%E5%A4%A7%E5%A5%B3%E7%94%9F%E5%8F%91%E5%A3%B0%23" target="weibo">
-12岁成网红21岁保研北大女生发声（热度：168380）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%80%BB%E7%BB%9F%E7%AC%AC%E5%9B%9B%E6%AC%A1%E8%AE%BF%E5%8D%8E%23" target="weibo">
 马克龙总统第四次访华（热度：168324）
 </a>
@@ -4295,6 +4295,12 @@ Kanavi说要整顿队内纪律（热度：161786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23JDG%E5%AE%98%E5%AE%A3HongQ%E5%8A%A0%E5%85%A5%23" target="weibo">
 JDG官宣HongQ加入（热度：159027）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：158987）
 </a>
 </li>
 
@@ -4743,6 +4749,12 @@ T1官宣两位选手上调（热度：146572）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%8E%BB%E4%B8%9620%E4%BA%BF%E8%82%A1%E4%BB%BD%E5%B9%B3%E5%88%86%E7%BB%99%E5%84%BF%E5%A5%B3%23" target="weibo">
+百亿富豪去世20亿股份平分给儿女（热度：145650）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B1%AA%E8%8B%8F%E6%B3%B7%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A%23" target="weibo">
 汪苏泷杭州演唱会（热度：145557）
 </a>
@@ -5165,12 +5177,6 @@ Rookie回应和jiejie争论（热度：143838）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E6%95%AC%E4%BA%AD%E5%B8%A6%E7%9D%80%E8%80%81%E9%BC%A0%E5%B9%B2%E5%9B%9E%E5%AE%B6%E4%BA%86%23" target="weibo">
 白敬亭带着老鼠干回家了（热度：135222）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%99%BE%E4%BA%BF%E5%AF%8C%E8%B1%AA%E5%8E%BB%E4%B8%9620%E4%BA%BF%E8%82%A1%E4%BB%BD%E5%B9%B3%E5%88%86%E7%BB%99%E5%84%BF%E5%A5%B3%23" target="weibo">
-百亿富豪去世20亿股份平分给儿女（热度：135112）
 </a>
 </li>
 
@@ -6005,12 +6011,6 @@ JDG官宣JunJia加入（热度：120518）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E5%8A%9B%E5%AE%8F%E6%8C%91%E6%9F%93%E5%87%BA%E7%8E%B0%E4%BA%BA%E4%BC%A0%E7%8C%B4%E7%8E%B0%E8%B1%A1%23" target="weibo">
 王力宏挑染出现人传猴现象（热度：120086）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%9A%BE%E6%80%AA%E6%9C%89%E5%BC%9F%E4%B9%8B%E5%A7%BF%E5%8E%9F%E6%9D%A5%E6%98%AF%E5%BC%9F%E6%B2%A1%E6%AD%BB%23" target="weibo">
-难怪有弟之姿原来是弟没死（热度：120061）
 </a>
 </li>
 

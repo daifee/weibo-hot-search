@@ -1,7 +1,15 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764888162655,
+  "endTime": 1764890815975,
   "band_list": [
+    {
+      "raw_hot": 464610,
+      "num": 138587,
+      "word": "劲酒被称为月经神仙水",
+      "onboard_time": 1764859642,
+      "rank": 10,
+      "category": "民生新闻"
+    },
     {
       "raw_hot": 407881,
       "num": 773663,
@@ -11,11 +19,27 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 388567,
-      "num": 138587,
-      "word": "劲酒被称为月经神仙水",
-      "onboard_time": 1764859642,
-      "rank": 10,
+      "raw_hot": 401991,
+      "num": 801054,
+      "word": "商家半年内被同一人仅退款225个快递",
+      "onboard_time": 1764864440,
+      "rank": 14,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 382519,
+      "num": 268991,
+      "word": "日本高官公开道歉",
+      "onboard_time": 1764859522,
+      "rank": 3,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 378645,
+      "num": 142609,
+      "word": "12岁成网红21岁保研北大女生发声",
+      "onboard_time": 1764859102,
+      "rank": 23,
       "category": "民生新闻"
     },
     {
@@ -35,20 +59,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 277026,
-      "num": 495120,
-      "word": "商家半年内被同一人仅退款225个快递",
-      "onboard_time": 1764864440,
-      "rank": 14,
+      "raw_hot": 264289,
+      "num": 126684,
+      "word": "生育津贴成唐僧肉暴露规则漏洞",
+      "onboard_time": 1764856223,
+      "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 268991,
-      "num": 268991,
-      "word": "日本高官公开道歉",
-      "onboard_time": 1764859522,
-      "rank": 3,
-      "category": "国际时政"
     },
     {
       "raw_hot": 259418,
@@ -99,11 +115,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 168380,
-      "num": 111866,
-      "word": "12岁成网红21岁保研北大女生发声",
-      "onboard_time": 1764859102,
-      "rank": 23,
+      "raw_hot": 158987,
+      "num": 112846,
+      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
+      "onboard_time": 1764878714,
+      "rank": 7,
       "category": "民生新闻"
     },
     {
@@ -123,12 +139,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 145650,
+      "num": 145650,
+      "word": "百亿富豪去世20亿股份平分给儿女",
+      "onboard_time": 1764858442,
+      "rank": 34,
+      "category": "财经,民生新闻"
+    },
+    {
       "raw_hot": 141606,
       "num": 141606,
       "word": "一只大闸蟹引发美国一州恐慌",
       "onboard_time": 1764850881,
       "rank": 7,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 140472,
+      "num": 83679,
+      "word": "每个孩子带3斤五花肉去幼儿园",
+      "onboard_time": 1764851061,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 129918,
@@ -147,12 +179,12 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 124576,
-      "num": 63521,
-      "word": "生育津贴成唐僧肉暴露规则漏洞",
-      "onboard_time": 1764856223,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 124463,
+      "num": 119200,
+      "word": "范玮琪 过去五六年我一直在疗伤",
+      "onboard_time": 1764855442,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 122748,
@@ -161,14 +193,6 @@
       "onboard_time": 1764849682,
       "rank": 17,
       "category": "情感"
-    },
-    {
-      "raw_hot": 119200,
-      "num": 119200,
-      "word": "范玮琪 过去五六年我一直在疗伤",
-      "onboard_time": 1764855442,
-      "rank": 18,
-      "category": "艺人"
     },
     {
       "raw_hot": 118531,
@@ -187,6 +211,14 @@
       "category": "艺人,游戏"
     },
     {
+      "raw_hot": 113924,
+      "num": 83741,
+      "word": "辽宁幼儿园虐童案最新进展",
+      "onboard_time": 1764866838,
+      "rank": 39,
+      "category": "舆论监督"
+    },
+    {
       "raw_hot": 107416,
       "num": 141518,
       "word": "奶皮子不是奶酪也不是酸奶",
@@ -195,20 +227,20 @@
       "category": "美食"
     },
     {
+      "raw_hot": 106634,
+      "num": 72064,
+      "word": "狙击蝴蝶处处吻",
+      "onboard_time": 1764885254,
+      "rank": 31,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 103387,
       "num": 320489,
       "word": "研究称烧秸秆能控制超级细菌传播",
       "onboard_time": 1764852681,
       "rank": 9,
       "category": "科学科普"
-    },
-    {
-      "raw_hot": 99345,
-      "num": 61433,
-      "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
-      "onboard_time": 1764878714,
-      "rank": 7,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 81594,
@@ -225,14 +257,6 @@
       "onboard_time": 1764844341,
       "rank": 25,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 76790,
-      "num": 83741,
-      "word": "辽宁幼儿园虐童案最新进展",
-      "onboard_time": 1764866838,
-      "rank": 39,
-      "category": "舆论监督"
     },
     {
       "raw_hot": 76502,
@@ -275,14 +299,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 73257,
-      "num": 83679,
-      "word": "每个孩子带3斤五花肉去幼儿园",
-      "onboard_time": 1764851061,
-      "rank": 41,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 73057,
       "num": 83830,
       "word": "敖瑞鹏沈羽洁不二之臣新婚吻",
@@ -297,14 +313,6 @@
       "onboard_time": 1764860723,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 71860,
-      "num": 83747,
-      "word": "百亿富豪去世20亿股份平分给儿女",
-      "onboard_time": 1764858442,
-      "rank": 34,
-      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 70845,
@@ -323,6 +331,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 67354,
+      "num": 67354,
+      "word": "骑手谈电动车新国标",
+      "onboard_time": 1764870017,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 66329,
+      "num": 66329,
+      "word": "看到了五十多岁的孟子义",
+      "onboard_time": 1764847521,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 63206,
       "num": 83717,
       "word": "淘宝崩了",
@@ -332,7 +356,7 @@
     },
     {
       "raw_hot": 61186,
-      "num": 51187,
+      "num": 62255,
       "word": "程十安回应与前公司解约",
       "onboard_time": 1764867976,
       "rank": 27,
@@ -355,12 +379,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 55275,
-      "num": 46279,
-      "word": "骑手谈电动车新国标",
-      "onboard_time": 1764870017,
-      "rank": 39,
-      "category": "民生新闻"
+      "raw_hot": 56630,
+      "num": 62294,
+      "word": "美女子脑死亡后因堕胎禁令被迫产子",
+      "onboard_time": 1764842780,
+      "rank": 40,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 54181,
@@ -403,6 +427,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 51738,
+      "num": 62288,
+      "word": "这么粗的尾巴一定非常凶猛吧",
+      "onboard_time": 1764889217,
+      "rank": 25,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 49516,
       "num": 83591,
       "word": "陈奕恒宇宙闪烁请注意路透",
@@ -427,14 +459,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 45100,
-      "num": 38994,
-      "word": "狙击蝴蝶处处吻",
-      "onboard_time": 1764885254,
-      "rank": 31,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44251,
       "num": 83614,
       "word": "寒武纪发严正声明",
@@ -451,28 +475,44 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 36926,
-      "num": 50937,
-      "word": "美女子脑死亡后因堕胎禁令被迫产子",
-      "onboard_time": 1764842780,
-      "rank": 40,
-      "category": "海外新闻"
+      "raw_hot": 39453,
+      "num": 62241,
+      "word": "周柯宇 姐弟恋在家好刺激",
+      "onboard_time": 1764852502,
+      "rank": 37,
+      "category": "剧集"
     },
     {
       "raw_hot": 34039,
-      "num": 31380,
+      "num": 62220,
       "word": "得闲谨制微博观影团限时票选",
       "onboard_time": 1764884294,
       "rank": 11,
       "category": "电影"
     },
     {
-      "raw_hot": 27531,
-      "num": 31985,
+      "raw_hot": 29685,
+      "num": 62227,
+      "word": "神似张碧晨的美女入殓师走红",
+      "onboard_time": 1764873194,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 29116,
+      "num": 62221,
       "word": "丁俊晖vs唐纳森",
       "onboard_time": 1764871575,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 27811,
+      "num": 62210,
+      "word": "雷军回应小米YU7获一级能效认证",
+      "onboard_time": 1764888797,
+      "rank": 45,
+      "category": "汽车"
     },
     {
       "raw_hot": 25655,
@@ -483,20 +523,20 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 24706,
+      "num": 62195,
+      "word": "豆包手机",
+      "onboard_time": 1764838342,
+      "rank": 47,
+      "category": "数码"
+    },
+    {
       "raw_hot": 22196,
       "num": 31311,
       "word": "10公斤奶仅有不到1公斤奶皮子",
       "onboard_time": 1764863840,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 20525,
-      "num": 31291,
-      "word": "神似张碧晨的美女入殓师走红",
-      "onboard_time": 1764873194,
-      "rank": 49,
-      "category": "艺人"
     },
     {
       "raw_hot": 18724,
@@ -529,14 +569,6 @@
       "onboard_time": 1764868036,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 16046,
-      "num": 31221,
-      "word": "豆包手机",
-      "onboard_time": 1764838342,
-      "rank": 47,
-      "category": "数码"
     },
     {
       "raw_hot": 12082,
