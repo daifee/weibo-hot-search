@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 05:27:25
+本榜单时间：2025/12/05 00:38:59 ~ 2025/12/05 05:41:04
 </p>
 </blockquote>
 <p>
@@ -309,6 +309,12 @@
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：49455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AD%99%E9%A2%96%E8%8E%8E%E5%B8%AE%E5%8A%A9%E6%A2%81%E9%9D%96%E5%B4%91%E5%88%86%E6%9E%90%E6%AF%94%E8%B5%9B%E5%A4%B1%E5%88%A9%23" target="weibo">
 孙颖莎帮助梁靖崑分析比赛失利（热度：48703）
 </a>
@@ -317,12 +323,6 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%81%B6%E9%81%87%E6%9D%8E%E5%98%89%E6%A0%BC%E4%B8%8E%E7%94%B7%E5%8F%8B%E7%89%B5%E6%89%8B%E9%80%9B%E8%A1%97%23" target="weibo">
 偶遇李嘉格与男友牵手逛街（热度：46646）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-居民废弃酒瓶中砸出过冬眼镜蛇（热度：46627）
 </a>
 </li>
 
@@ -340,7 +340,13 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%9F%E8%82%B2%E6%B4%A5%E8%B4%B4%E6%88%90%E5%94%90%E5%83%A7%E8%82%89%E6%9A%B4%E9%9C%B2%E8%A7%84%E5%88%99%E6%BC%8F%E6%B4%9E%23" target="weibo">
-生育津贴成唐僧肉暴露规则漏洞（热度：33456）
+生育津贴成唐僧肉暴露规则漏洞（热度：38497）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E5%BE%AE%E5%8D%9A%E8%A7%82%E5%BD%B1%E5%9B%A2%E9%99%90%E6%97%B6%E7%A5%A8%E9%80%89%23" target="weibo">
+得闲谨制微博观影团限时票选（热度：34039）
 </a>
 </li>
 
@@ -424,7 +430,7 @@
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%A7%E6%9F%A5%E6%9F%A5%E4%B9%8B%E5%A4%9C%23" target="weibo">
-剧查查之夜（热度：8883）
+剧查查之夜（热度：9681）
 </a>
 </li>
 

@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 05:27:25
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/05 05:41:04
 </p>
 </blockquote>
 <p>
@@ -11541,6 +11541,12 @@ GALA无愧于ADC之名（热度：53032）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
+居民废弃酒瓶中砸出过冬眼镜蛇（热度：49455）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E4%B8%87%E9%87%8C%E8%BF%9C%E5%BE%81%E6%8F%92%E6%B7%B7%E7%AC%AC%E4%B8%80%E8%BD%A6%23" target="weibo">
 万里远征插混第一车（热度：49340）
 </a>
@@ -11615,12 +11621,6 @@ GALA无愧于ADC之名（热度：53032）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%A9%A7%E4%BB%AA%E5%A4%B4%E9%AA%A8%E5%A4%AA%E4%BC%98%E8%B6%8A%E4%BA%86%23" target="weibo">
 张婧仪头骨太优越了（热度：46860）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
-居民废弃酒瓶中砸出过冬眼镜蛇（热度：46627）
 </a>
 </li>
 
@@ -12197,6 +12197,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9E%AA%E6%9D%80%E5%AE%89%E5%80%8D%E5%AB%8C%E7%8A%AF%E6%B2%A1%E9%81%93%E6%AD%89%23" target="weibo">
 枪杀安倍嫌犯没道歉（热度：34203）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E5%BE%AE%E5%8D%9A%E8%A7%82%E5%BD%B1%E5%9B%A2%E9%99%90%E6%97%B6%E7%A5%A8%E9%80%89%23" target="weibo">
+得闲谨制微博观影团限时票选（热度：34039）
 </a>
 </li>
 
@@ -13144,7 +13150,7 @@ Upset曾收到iG邀请（热度：28483）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%89%A7%E6%9F%A5%E6%9F%A5%E4%B9%8B%E5%A4%9C%23" target="weibo">
-剧查查之夜（热度：8883）
+剧查查之夜（热度：9681）
 </a>
 </li>
 
