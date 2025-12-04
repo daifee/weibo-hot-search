@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764831357022,
+  "endTime": 1764833331635,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -107,6 +107,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 682384,
+      "num": 307697,
+      "word": "家里供不起上班了真不是空穴来风",
+      "onboard_time": 1764831802,
+      "rank": 10,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 667599,
       "num": 253345,
       "word": "入殓师称同事服务猝死老人被托梦质问",
@@ -155,6 +163,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 561997,
+      "num": 1089919,
+      "word": "乐视网负债238亿拟花1.8亿炒股",
+      "onboard_time": 1764829220,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 556117,
       "num": 150957,
       "word": "高市早苗终于不嘴硬了",
@@ -179,14 +195,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 519086,
-      "num": 519086,
-      "word": "乐视网负债238亿拟花1.8亿炒股",
-      "onboard_time": 1764829220,
-      "rank": 4,
-      "category": "财经"
-    },
-    {
       "raw_hot": 514818,
       "num": 227922,
       "word": "许玮甯老公 闺蜜前男友",
@@ -201,6 +209,14 @@
       "onboard_time": 1764754702,
       "rank": 0,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 490302,
+      "num": 233897,
+      "word": "李嘉格评论区怒怼网友",
+      "onboard_time": 1764829521,
+      "rank": 32,
+      "category": "艺人"
     },
     {
       "raw_hot": 488243,
@@ -371,12 +387,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 306846,
+      "num": 306846,
+      "word": "工资到账以为是退款",
+      "onboard_time": 1764832761,
+      "rank": 12,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 293331,
       "num": 245479,
       "word": "这居然是陈妍希画的",
       "onboard_time": 1764816020,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 290877,
+      "num": 290877,
+      "word": "李施嬅 你弄脏了就擦干净",
+      "onboard_time": 1764830062,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 284675,
@@ -483,20 +515,28 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 242101,
-      "num": 215789,
-      "word": "李嘉格评论区怒怼网友",
-      "onboard_time": 1764829521,
-      "rank": 32,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 241658,
       "num": 241658,
       "word": "郑钦文全球女运动员收入榜第5",
       "onboard_time": 1764811940,
       "rank": 23,
       "category": "体育"
+    },
+    {
+      "raw_hot": 233840,
+      "num": 233840,
+      "word": "前任杨丞琳 追过张钧甯 娶了许玮甯",
+      "onboard_time": 1764832643,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 230876,
+      "num": 230876,
+      "word": "张子枫给谭松韵做了发圈",
+      "onboard_time": 1764829461,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 225630,
@@ -553,6 +593,14 @@
       "onboard_time": 1764824962,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 209174,
+      "num": 209174,
+      "word": "郑恺苗苗每月一次无娃日约会",
+      "onboard_time": 1764832520,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 208302,
@@ -628,7 +676,7 @@
     },
     {
       "raw_hot": 201545,
-      "num": 387975,
+      "num": 388413,
       "word": "Jiejie加入WBG",
       "onboard_time": 1764829160,
       "rank": 34,
@@ -675,16 +723,16 @@
       "category": "体育"
     },
     {
-      "raw_hot": 191232,
-      "num": 191232,
-      "word": "李施嬅 你弄脏了就擦干净",
-      "onboard_time": 1764830062,
-      "rank": 37,
-      "category": "综艺"
+      "raw_hot": 190266,
+      "num": 190266,
+      "word": "杨紫将登上港版VOGUE封面",
+      "onboard_time": 1764832883,
+      "rank": 36,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 188965,
-      "num": 232688,
+      "num": 232930,
       "word": "华为MateX7影像实力有多强",
       "onboard_time": 1764830062,
       "rank": 26,
@@ -737,6 +785,14 @@
       "onboard_time": 1764822622,
       "rank": 32,
       "category": "演出"
+    },
+    {
+      "raw_hot": 179228,
+      "num": 233482,
+      "word": "24岁女生咳嗽不止查出肺癌",
+      "onboard_time": 1764831921,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 178771,
@@ -803,6 +859,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 169139,
+      "num": 169139,
+      "word": "哪款iPhone可以封神",
+      "onboard_time": 1764831802,
+      "rank": 40,
+      "category": "数码"
+    },
+    {
       "raw_hot": 169072,
       "num": 131831,
       "word": "墓园回应演员董立范去世",
@@ -867,12 +931,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 157122,
+      "num": 217692,
+      "word": "入室抢婴案主犯被判死缓后当庭大骂",
+      "onboard_time": 1764830421,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 156666,
       "num": 156666,
       "word": "适合方圆脸的人生发型",
       "onboard_time": 1764819441,
       "rank": 40,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 153084,
+      "num": 232390,
+      "word": "塔斯汀90天关了907家店",
+      "onboard_time": 1764830062,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 152933,
@@ -899,14 +979,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 151094,
-      "num": 173148,
-      "word": "张子枫给谭松韵做了发圈",
-      "onboard_time": 1764829461,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 150916,
       "num": 145244,
       "word": "李飞的早餐",
@@ -916,7 +988,7 @@
     },
     {
       "raw_hot": 149705,
-      "num": 149705,
+      "num": 308534,
       "word": "狙击蝴蝶",
       "onboard_time": 1764819562,
       "rank": 36,
@@ -1211,6 +1283,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 121306,
+      "num": 229035,
+      "word": "当地回应宝妈被要求上报末次月经",
+      "onboard_time": 1764831620,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121250,
       "num": 121250,
       "word": "Uzi回应网友不会复出",
@@ -1219,12 +1299,28 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 121205,
+      "num": 121205,
+      "word": "这一口吃下去要从清朝开始减肥",
+      "onboard_time": 1764832281,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 120579,
       "num": 120579,
       "word": "喜人奇妙夜",
       "onboard_time": 1764825800,
       "rank": 37,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119422,
+      "num": 119422,
+      "word": "狙击蝴蝶云包场",
+      "onboard_time": 1764832520,
+      "rank": 46,
+      "category": "剧集"
     },
     {
       "raw_hot": 119263,
@@ -1283,14 +1379,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 109725,
-      "num": 187293,
-      "word": "塔斯汀90天关了907家店",
-      "onboard_time": 1764830062,
-      "rank": 36,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 109347,
       "num": 109347,
       "word": "罗大美遇害超2年遗体仍在太平间",
@@ -1313,6 +1401,14 @@
       "onboard_time": 1764815479,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 105784,
+      "num": 231613,
+      "word": "长期慢性炎症容易拖成癌",
+      "onboard_time": 1764831682,
+      "rank": 29,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 105445,
@@ -1587,14 +1683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 68444,
-      "num": 217692,
-      "word": "入室抢婴案主犯被判死缓后当庭大骂",
-      "onboard_time": 1764830421,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 67755,
       "num": 74220,
       "word": "旧国标电动车正式禁售",
@@ -1795,6 +1883,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 45749,
+      "num": 106089,
+      "word": "买机票有5元差价获赔2665元",
+      "onboard_time": 1764831620,
+      "rank": 49,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41363,
       "num": 377140,
       "word": "冻伤要到烧伤科就诊",
@@ -1843,12 +1939,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 33029,
+      "num": 171070,
+      "word": "4岁男童玩免费项目颅骨骨折",
+      "onboard_time": 1764832941,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 33011,
-      "num": 233819,
+      "num": 234064,
       "word": "看喜人欠的皱纹不用还了",
       "onboard_time": 1764830301,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 30318,
+      "num": 686914,
+      "word": "2025宪法宣传周",
+      "onboard_time": 1764755542,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 30012,
@@ -1891,12 +2003,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 25880,
-      "num": 686914,
-      "word": "2025宪法宣传周",
-      "onboard_time": 1764755542,
-      "rank": 2,
-      "category": "民生新闻"
+      "raw_hot": 27558,
+      "num": 169858,
+      "word": "Upset曾收到iG邀请",
+      "onboard_time": 1764832822,
+      "rank": 38,
+      "category": "电竞"
     },
     {
       "raw_hot": 24642,
@@ -1923,6 +2035,22 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21116,
+      "num": 121470,
+      "word": "小米辣涨至28元1斤",
+      "onboard_time": 1764832042,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 20293,
+      "num": 169460,
+      "word": "罗大美妹妹称家人帮杀人凶手还钱",
+      "onboard_time": 1764832462,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 12153,
       "num": 19735,
       "word": "易烊千玺垒石头直播是自己想的",
@@ -1945,6 +2073,14 @@
       "onboard_time": 1764790814,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 7872,
+      "num": 218651,
+      "word": "俄乌或陷入打谈循环",
+      "onboard_time": 1764833243,
+      "rank": 34,
+      "category": "国际时政"
     }
   ],
   "hotgov_list": [
