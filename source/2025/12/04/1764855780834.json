@@ -1,0 +1,410 @@
+{
+  "runTime": 1764855780834,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 604684,
+        "num": 1096749,
+        "word": "每个孩子带3斤五花肉去幼儿园",
+        "onboard_time": 1764851061,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 372318,
+        "num": 372318,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764842962,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 32440,
+        "num": 321270,
+        "word": "2025国家宪法日",
+        "onboard_time": 1764843981,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 307919,
+        "num": 307919,
+        "word": "24岁女生咳嗽不止查出肺癌",
+        "onboard_time": 1764831921,
+        "rank": 3,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 165473,
+        "num": 305036,
+        "word": "周鸿祎称豆包手机冲垮大厂护城河",
+        "onboard_time": 1764848424,
+        "rank": 4,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 390197,
+        "num": 301570,
+        "word": "一只大闸蟹引发美国一州恐慌",
+        "onboard_time": 1764850881,
+        "rank": 5,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 220204,
+        "num": 293662,
+        "word": "陈奕恒宇宙闪烁请注意路透",
+        "onboard_time": 1764851601,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153983,
+        "num": 284670,
+        "word": "王楚钦林诗栋1比0勒布伦兄弟",
+        "onboard_time": 1764850342,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 141604,
+        "num": 284487,
+        "word": "王橹杰录制宇宙闪烁请注意",
+        "onboard_time": 1764853341,
+        "rank": 8,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 46836,
+        "num": 275917,
+        "word": "乐视网负债238亿拟花1.8亿炒股",
+        "onboard_time": 1764829220,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 394311,
+        "num": 270471,
+        "word": "工资到账以为是退款",
+        "onboard_time": 1764832761,
+        "rank": 10,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 54027,
+        "num": 266558,
+        "word": "直播超级月亮",
+        "onboard_time": 1764854481,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 308533,
+        "num": 257787,
+        "word": "已经停产却让你很怀念的东西",
+        "onboard_time": 1764849682,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 255452,
+        "num": 255452,
+        "word": "蔡徐坤 PUBG",
+        "onboard_time": 1764846802,
+        "rank": 13,
+        "category": "艺人,游戏"
+      },
+      {
+        "raw_hot": 224935,
+        "num": 224935,
+        "word": "枭起青壤白瞳鬼",
+        "onboard_time": 1764853341,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173959,
+        "num": 173959,
+        "word": "豆包手机",
+        "onboard_time": 1764838342,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 169759,
+        "num": 169759,
+        "word": "9键和26键突然停止了争吵",
+        "onboard_time": 1764840442,
+        "rank": 16,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 164309,
+        "num": 164309,
+        "word": "杨幂蓝色镂空裙",
+        "onboard_time": 1764845722,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133883,
+        "num": 133883,
+        "word": "孟子义尖叫之夜官宣节奏",
+        "onboard_time": 1764849262,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 23001,
+        "num": 131129,
+        "word": "女子坐电瓶车摔倒头被鲨鱼夹扎破",
+        "onboard_time": 1764855081,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129186,
+        "num": 129186,
+        "word": "官方确认倒车致2人身亡女子系法官",
+        "onboard_time": 1764854543,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287470,
+        "num": 129028,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 269111,
+        "num": 128411,
+        "word": "网红王蓉仨娃妈卖货给粉丝送全家福",
+        "onboard_time": 1764854662,
+        "rank": 22,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 171609,
+        "num": 127469,
+        "word": "偶遇李嘉格与男友牵手逛街",
+        "onboard_time": 1764851722,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148646,
+        "num": 126941,
+        "word": "女子左耳寄养在脚背5个月成功回家",
+        "onboard_time": 1764844281,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 134078,
+        "num": 126000,
+        "word": "美女子脑死亡后因堕胎禁令被迫产子",
+        "onboard_time": 1764842780,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 125755,
+        "num": 125755,
+        "word": "易烊千玺与狗狗海边狂欢",
+        "onboard_time": 1764849622,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 124765,
+        "num": 124765,
+        "word": "蒋叔红线穿瞳了",
+        "onboard_time": 1764853521,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 121123,
+        "num": 121123,
+        "word": "香港每户灾民津贴增至10万港元",
+        "onboard_time": 1764855081,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 115801,
+        "num": 121097,
+        "word": "新疆地震",
+        "onboard_time": 1764834860,
+        "rank": 29,
+        "category": "突发/灾害"
+      },
+      {
+        "raw_hot": 1230701,
+        "num": 120634,
+        "word": "淘宝崩了",
+        "onboard_time": 1764853582,
+        "rank": 30,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 56120,
+        "num": 120080,
+        "word": "朱亚文向涵之 鬼怪",
+        "onboard_time": 1764855681,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 843258,
+        "num": 119825,
+        "word": "支付宝崩了",
+        "onboard_time": 1764853880,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 157454,
+        "num": 119472,
+        "word": "女子试新衣服被赞美后直接扯下吊牌",
+        "onboard_time": 1764854543,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 119329,
+        "num": 119329,
+        "word": "2025尖叫之夜全阵容名单",
+        "onboard_time": 1764841282,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117108,
+        "num": 117108,
+        "word": "周柯宇演技",
+        "onboard_time": 1764852202,
+        "rank": 35,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 113034,
+        "num": 113034,
+        "word": "周杰伦终于不是颓废风了",
+        "onboard_time": 1764852322,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 57363,
+        "num": 111162,
+        "word": "香港已收到28亿港元捐款",
+        "onboard_time": 1764855681,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 110725,
+        "num": 110725,
+        "word": "婚房被改小三婴儿房",
+        "onboard_time": 1764833540,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 74971,
+        "num": 107700,
+        "word": "日方需给中方一个交代",
+        "onboard_time": 1764838761,
+        "rank": 39,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105723,
+        "num": 105723,
+        "word": "范玮琪 过去五六年我一直在疗伤",
+        "onboard_time": 1764855442,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104997,
+        "num": 104997,
+        "word": "闲鱼崩了",
+        "onboard_time": 1764854181,
+        "rank": 41,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 9361,
+        "num": 104091,
+        "word": "情侣婚前坠亡女方家属同意退彩礼",
+        "onboard_time": 1764855743,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103657,
+        "num": 103657,
+        "word": "若中国二战投降人类历史就改写了",
+        "onboard_time": 1764851722,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100667,
+        "num": 100667,
+        "word": "多名环卫工用高压水枪打银杏叶",
+        "onboard_time": 1764849861,
+        "rank": 44,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 93849,
+        "num": 93849,
+        "word": "杨旭文唐犟宗全英文走向国际",
+        "onboard_time": 1764853761,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 92843,
+        "num": 92843,
+        "word": "第一次见这么自律的高中生",
+        "onboard_time": 1764855263,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 92738,
+        "num": 92738,
+        "word": "央行即将开展10000亿元买断式逆回购",
+        "onboard_time": 1764852922,
+        "rank": 47,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 90330,
+        "num": 90330,
+        "word": "陈晓孙千最喜欢的那场戏播了",
+        "onboard_time": 1764855622,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 87778,
+        "num": 87778,
+        "word": "冻米饭可抑制体内慢性炎症",
+        "onboard_time": 1764854782,
+        "rank": 49,
+        "category": "健康医疗"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙共同会见记者#"
+    }
+  }
+}
