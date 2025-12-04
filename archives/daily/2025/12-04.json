@@ -1,6 +1,6 @@
 {
   "startTime": 1764779940816,
-  "endTime": 1764823081382,
+  "endTime": 1764823872397,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -27,6 +27,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1406072,
+      "num": 201590,
+      "word": "郑恺苗苗 三年生3个孩子",
+      "onboard_time": 1764823103,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 978675,
       "num": 307224,
       "word": "丈夫被精神病人杀害妻子一夜白头",
@@ -43,7 +51,7 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 772628,
+      "raw_hot": 837889,
       "num": 228055,
       "word": "等等 魔丸邓超生了个灵珠儿子",
       "onboard_time": 1764821122,
@@ -83,6 +91,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 642217,
+      "num": 254235,
+      "word": "怀疑我爸是从末世穿越回来的",
+      "onboard_time": 1764820281,
+      "rank": 13,
+      "category": "情感,幽默"
+    },
+    {
       "raw_hot": 615868,
       "num": 301878,
       "word": "刘强东父母现身京东食堂做饭",
@@ -97,14 +113,6 @@
       "onboard_time": 1764774622,
       "rank": 20,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 587781,
-      "num": 254235,
-      "word": "怀疑我爸是从末世穿越回来的",
-      "onboard_time": 1764820281,
-      "rank": 13,
-      "category": "情感,幽默"
     },
     {
       "raw_hot": 583286,
@@ -131,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 514818,
+      "num": 227922,
+      "word": "许玮甯老公 闺蜜前男友",
+      "onboard_time": 1764822321,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 514082,
       "num": 869361,
       "word": "李刚受贿1.02亿余元",
@@ -147,20 +163,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 463006,
+      "num": 1074081,
+      "word": "24人骗取生育津贴超220万",
+      "onboard_time": 1764814640,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 461368,
       "num": 275311,
       "word": "电梯里贴这个再也没闻到烟味",
       "onboard_time": 1764806720,
       "rank": 10,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 439663,
-      "num": 1070346,
-      "word": "24人骗取生育津贴超220万",
-      "onboard_time": 1764814640,
-      "rank": 20,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 434170,
@@ -179,14 +195,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 417096,
-      "num": 227922,
-      "word": "许玮甯老公 闺蜜前男友",
-      "onboard_time": 1764822321,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 390279,
       "num": 132543,
       "word": "于正破防",
@@ -201,6 +209,14 @@
       "onboard_time": 1764771803,
       "rank": 21,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 380106,
+      "num": 253325,
+      "word": "陈冠希回应本山化",
+      "onboard_time": 1764822562,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 329628,
@@ -233,6 +249,14 @@
       "onboard_time": 1764807981,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 311454,
+      "num": 228275,
+      "word": "不二之臣全阵容官宣",
+      "onboard_time": 1764822383,
+      "rank": 19,
+      "category": "剧集"
     },
     {
       "raw_hot": 309455,
@@ -283,6 +307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 282990,
+      "num": 252424,
+      "word": "那英李沁马思纯张晚意私下聚餐",
+      "onboard_time": 1764821182,
+      "rank": 17,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282130,
       "num": 282130,
       "word": "为你钟情",
@@ -305,14 +337,6 @@
       "onboard_time": 1764741200,
       "rank": 3,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 268834,
-      "num": 253325,
-      "word": "陈冠希回应本山化",
-      "onboard_time": 1764822562,
-      "rank": 15,
-      "category": "艺人"
     },
     {
       "raw_hot": 263358,
@@ -339,14 +363,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 252424,
-      "num": 252424,
-      "word": "那英李沁马思纯张晚意私下聚餐",
-      "onboard_time": 1764821182,
-      "rank": 17,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 248523,
       "num": 164087,
       "word": "侯鸿亮啥也不说了给大家鞠一躬",
@@ -363,14 +379,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 228275,
-      "num": 228275,
-      "word": "不二之臣全阵容官宣",
-      "onboard_time": 1764822383,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 225630,
       "num": 144990,
       "word": "日本被曝迈向全领域作战",
@@ -385,6 +393,14 @@
       "onboard_time": 1764820702,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 221256,
+      "num": 195428,
+      "word": "李治廷老婆疑怀孕",
+      "onboard_time": 1764823463,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 216627,
@@ -424,6 +440,14 @@
       "word": "佘诗曼自曝已立遗嘱",
       "onboard_time": 1764818780,
       "rank": 28,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 208046,
+      "num": 208046,
+      "word": "找到了王梓莼说自己是00花的原因",
+      "onboard_time": 1764822443,
+      "rank": 29,
       "category": "艺人"
     },
     {
@@ -499,6 +523,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 192648,
+      "num": 192648,
+      "word": "小S录跨年宣传片崩溃大哭",
+      "onboard_time": 1764823223,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 191809,
       "num": 118940,
       "word": "国乒对阵韩国孙颖莎轮休",
@@ -507,20 +539,20 @@
       "category": "体育"
     },
     {
+      "raw_hot": 188691,
+      "num": 188691,
+      "word": "工作室对易烊千玺说辛苦了",
+      "onboard_time": 1764823463,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 186837,
       "num": 186837,
       "word": "电动车设计不合理不能让新国标背锅",
       "onboard_time": 1764820941,
       "rank": 28,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 186231,
-      "num": 186231,
-      "word": "找到了王梓莼说自己是00花的原因",
-      "onboard_time": 1764822443,
-      "rank": 29,
-      "category": "艺人"
     },
     {
       "raw_hot": 186185,
@@ -537,6 +569,14 @@
       "onboard_time": 1764811821,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 179404,
+      "num": 170069,
+      "word": "邓紫棋跨年场抢票",
+      "onboard_time": 1764822622,
+      "rank": 32,
+      "category": "演出"
     },
     {
       "raw_hot": 178771,
@@ -563,6 +603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 176671,
+      "num": 167515,
+      "word": "喜人奇妙夜2西装群像大片",
+      "onboard_time": 1764823762,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 176598,
       "num": 176598,
       "word": "闪耀暖暖",
@@ -571,20 +619,20 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 170069,
-      "num": 170069,
-      "word": "邓紫棋跨年场抢票",
-      "onboard_time": 1764822622,
-      "rank": 32,
-      "category": "演出"
-    },
-    {
       "raw_hot": 169072,
       "num": 131831,
       "word": "墓园回应演员董立范去世",
       "onboard_time": 1764797054,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 168324,
+      "num": 168324,
+      "word": "马克龙总统第四次访华",
+      "onboard_time": 1764823524,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 167576,
@@ -731,6 +779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 133826,
+      "num": 133826,
+      "word": "男子频繁30秒如厕牵出40人涉黄传播网",
+      "onboard_time": 1764823643,
+      "rank": 46,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133534,
       "num": 133534,
       "word": "正片观众 切片观众",
@@ -740,7 +796,7 @@
     },
     {
       "raw_hot": 132461,
-      "num": 147521,
+      "num": 162153,
       "word": "王楚钦二次穿越安宰贤",
       "onboard_time": 1764822743,
       "rank": 39,
@@ -827,12 +883,28 @@
       "category": "数码"
     },
     {
+      "raw_hot": 124709,
+      "num": 124709,
+      "word": "想换手机的心这一刻释怀了",
+      "onboard_time": 1764823583,
+      "rank": 48,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 124691,
       "num": 124691,
       "word": "马克龙抵京后发文称很高兴",
       "onboard_time": 1764810440,
       "rank": 30,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 122873,
+      "num": 122873,
+      "word": "亲生和亲自生的区别",
+      "onboard_time": 1764823762,
+      "rank": 49,
+      "category": "情感,休闲"
     },
     {
       "raw_hot": 122641,
@@ -1099,6 +1171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 75922,
+      "num": 166438,
+      "word": "开拓者将杨瀚森下放至G联赛",
+      "onboard_time": 1764823823,
+      "rank": 36,
+      "category": "体育"
+    },
+    {
       "raw_hot": 75179,
       "num": 78485,
       "word": "罗大美遇害29个月还未下葬",
@@ -1219,20 +1299,20 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 60456,
+      "num": 256662,
+      "word": "本轮寒潮收尾",
+      "onboard_time": 1764820160,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 59631,
       "num": 59631,
       "word": "枭起青壤",
       "onboard_time": 1764757401,
       "rank": 42,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 59200,
-      "num": 256662,
-      "word": "本轮寒潮收尾",
-      "onboard_time": 1764820160,
-      "rank": 8,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 58627,
@@ -1387,6 +1467,22 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 28540,
+      "num": 164573,
+      "word": "日本拟打造宇宙作战集团",
+      "onboard_time": 1764823282,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28322,
+      "num": 162917,
+      "word": "打开音综以为到了幼儿园",
+      "onboard_time": 1764823401,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27817,
       "num": 60969,
       "word": "韩检方要求判金建希15年刑期",
@@ -1403,7 +1499,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 20248,
+      "raw_hot": 21769,
       "num": 259301,
       "word": "2025宪法宣传周",
       "onboard_time": 1764755542,

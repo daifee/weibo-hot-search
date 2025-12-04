@@ -1,0 +1,410 @@
+{
+  "runTime": 1764823872397,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 463006,
+        "num": 1074081,
+        "word": "24人骗取生育津贴超220万",
+        "onboard_time": 1764814640,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235407,
+        "num": 235407,
+        "word": "王楚钦vs安宰贤",
+        "onboard_time": 1764815840,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 21769,
+        "num": 235349,
+        "word": "2025宪法宣传周",
+        "onboard_time": 1764755542,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 346149,
+        "num": 233038,
+        "word": "家里家外2",
+        "onboard_time": 1764809062,
+        "rank": 3,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102758,
+        "num": 231157,
+        "word": "恋与深空",
+        "onboard_time": 1764818599,
+        "rank": 4,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 680648,
+        "num": 228664,
+        "word": "取完餐外卖员差点吐了",
+        "onboard_time": 1764817040,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 557039,
+        "num": 227546,
+        "word": "刘强东父母现身京东食堂做饭",
+        "onboard_time": 1764819081,
+        "rank": 6,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 256546,
+        "num": 225849,
+        "word": "马克龙抵京后发文",
+        "onboard_time": 1764818541,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 60456,
+        "num": 224115,
+        "word": "本轮寒潮收尾",
+        "onboard_time": 1764820160,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 248024,
+        "num": 221862,
+        "word": "中国没有全面清算日本已是宽容至极",
+        "onboard_time": 1764818599,
+        "rank": 9,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 2001588,
+        "num": 220042,
+        "word": "内娱顶流 老来得女",
+        "onboard_time": 1764820102,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 975258,
+        "num": 218592,
+        "word": "爱泼斯坦私人岛屿的照片被公开",
+        "onboard_time": 1764819382,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 642217,
+        "num": 218099,
+        "word": "怀疑我爸是从末世穿越回来的",
+        "onboard_time": 1764820281,
+        "rank": 12,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 380106,
+        "num": 215868,
+        "word": "陈冠希回应本山化",
+        "onboard_time": 1764822562,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 311454,
+        "num": 214248,
+        "word": "不二之臣全阵容官宣",
+        "onboard_time": 1764822383,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 304940,
+        "num": 212750,
+        "word": "曹璐自曝在海外生活费每月2500元",
+        "onboard_time": 1764818180,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282990,
+        "num": 210687,
+        "word": "那英李沁马思纯张晚意私下聚餐",
+        "onboard_time": 1764821182,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 280476,
+        "num": 209171,
+        "word": "丈夫被精神病人杀害妻子一夜白头",
+        "onboard_time": 1764816139,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208046,
+        "num": 208046,
+        "word": "找到了王梓莼说自己是00花的原因",
+        "onboard_time": 1764822443,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 202095,
+        "num": 202095,
+        "word": "刘昊然 得闲谨制戏份",
+        "onboard_time": 1764820401,
+        "rank": 19,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1406072,
+        "num": 201590,
+        "word": "郑恺苗苗 三年生3个孩子",
+        "onboard_time": 1764823103,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 837889,
+        "num": 199602,
+        "word": "等等 魔丸邓超生了个灵珠儿子",
+        "onboard_time": 1764821122,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 514818,
+        "num": 197832,
+        "word": "许玮甯老公 闺蜜前男友",
+        "onboard_time": 1764822321,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 221256,
+        "num": 195428,
+        "word": "李治廷老婆疑怀孕",
+        "onboard_time": 1764823463,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 212262,
+        "num": 193378,
+        "word": "江苏爸妈生出混血娃娃",
+        "onboard_time": 1764805221,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 192648,
+        "num": 192648,
+        "word": "小S录跨年宣传片崩溃大哭",
+        "onboard_time": 1764823223,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 188691,
+        "num": 188691,
+        "word": "工作室对易烊千玺说辛苦了",
+        "onboard_time": 1764823463,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 180687,
+        "num": 180687,
+        "word": "王鹤棣沈月现实版尼克朱迪",
+        "onboard_time": 1764816621,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179003,
+        "num": 179003,
+        "word": "电动车设计不合理不能让新国标背锅",
+        "onboard_time": 1764820941,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168324,
+        "num": 168324,
+        "word": "马克龙总统第四次访华",
+        "onboard_time": 1764823524,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1156260,
+        "num": 168259,
+        "word": "全球抛售日本",
+        "onboard_time": 1764816859,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 179404,
+        "num": 168112,
+        "word": "邓紫棋跨年场抢票",
+        "onboard_time": 1764822622,
+        "rank": 31,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 179232,
+        "num": 168085,
+        "word": "评分TOP1的短剧杀回来了",
+        "onboard_time": 1764820702,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 177047,
+        "num": 167923,
+        "word": "小鬼王琳凯与卜凡合照",
+        "onboard_time": 1764815840,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 167895,
+        "num": 167895,
+        "word": "日本着急替马克龙做决定",
+        "onboard_time": 1764821301,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 176671,
+        "num": 167515,
+        "word": "喜人奇妙夜2西装群像大片",
+        "onboard_time": 1764823762,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 75922,
+        "num": 166438,
+        "word": "开拓者将杨瀚森下放至G联赛",
+        "onboard_time": 1764823823,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 28540,
+        "num": 164573,
+        "word": "日本拟打造宇宙作战集团",
+        "onboard_time": 1764823282,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 28322,
+        "num": 162917,
+        "word": "打开音综以为到了幼儿园",
+        "onboard_time": 1764823401,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117702,
+        "num": 162153,
+        "word": "王楚钦二次穿越安宰贤",
+        "onboard_time": 1764822743,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 161461,
+        "num": 161461,
+        "word": "闪耀暖暖",
+        "onboard_time": 1764822924,
+        "rank": 40,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 158251,
+        "num": 158251,
+        "word": "颖儿又夸付辛博了",
+        "onboard_time": 1764815240,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151001,
+        "num": 151001,
+        "word": "佘诗曼自曝已立遗嘱",
+        "onboard_time": 1764818780,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 146995,
+        "num": 146995,
+        "word": "原来脸小也不一定好看",
+        "onboard_time": 1764819682,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 139788,
+        "num": 139788,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764819562,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 138939,
+        "num": 138939,
+        "word": "易烊千玺礐嶨音源上线",
+        "onboard_time": 1764822081,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 133826,
+        "num": 133826,
+        "word": "男子频繁30秒如厕牵出40人涉黄传播网",
+        "onboard_time": 1764823643,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63022,
+        "num": 126356,
+        "word": "迪丽热巴聂九罗睡衣穿搭",
+        "onboard_time": 1764822201,
+        "rank": 47,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 124709,
+        "num": 124709,
+        "word": "想换手机的心这一刻释怀了",
+        "onboard_time": 1764823583,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 122873,
+        "num": 122873,
+        "word": "亲生和亲自生的区别",
+        "onboard_time": 1764823762,
+        "rank": 49,
+        "category": "情感,休闲"
+      }
+    ],
+    "hotgov": {
+      "word": "#良法善治#"
+    }
+  }
+}
