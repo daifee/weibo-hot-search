@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764920506516,
+  "endTime": 1764923815379,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -19,12 +19,28 @@
       "category": "辟谣/通报,汽车"
     },
     {
+      "raw_hot": 2085096,
+      "num": 440478,
+      "word": "杨幂官宣Prada代言人",
+      "onboard_time": 1764922761,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1970748,
-      "num": 363982,
+      "num": 375303,
       "word": "周柯宇 国籍",
       "onboard_time": 1764897859,
       "rank": 10,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 1531914,
+      "num": 1531914,
+      "word": "雅迪电动车致歉",
+      "onboard_time": 1764919221,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 1351951,
@@ -81,6 +97,14 @@
       "onboard_time": 1764908661,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 711598,
+      "num": 440966,
+      "word": "男子存100万退休3年后剩105万",
+      "onboard_time": 1764921921,
+      "rank": 7,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 677571,
@@ -187,12 +211,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 441801,
+      "num": 441801,
+      "word": "抖音直播 禁止过度美颜",
+      "onboard_time": 1764922401,
+      "rank": 1,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 441429,
       "num": 801054,
       "word": "商家半年内被同一人仅退款225个快递",
       "onboard_time": 1764864440,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 439799,
+      "num": 439799,
+      "word": "很多人意识不到气血是补不回来的",
+      "onboard_time": 1764917241,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
+      "raw_hot": 437616,
+      "num": 437616,
+      "word": "杨幂 我都僵硬了",
+      "onboard_time": 1764919521,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 437488,
@@ -235,14 +283,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 396879,
-      "num": 396879,
-      "word": "很多人意识不到气血是补不回来的",
-      "onboard_time": 1764917241,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 368590,
       "num": 659747,
       "word": "狙击蝴蝶 误点小广告",
@@ -273,6 +313,14 @@
       "onboard_time": 1764908241,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 352205,
+      "num": 352205,
+      "word": "小酒窝给白鹿拼了拼豆",
+      "onboard_time": 1764919701,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 350810,
@@ -331,6 +379,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 319860,
+      "num": 319860,
+      "word": "马克龙访问四川大学",
+      "onboard_time": 1764922521,
+      "rank": 20,
+      "category": "国内时政,国际时政"
+    },
+    {
       "raw_hot": 318201,
       "num": 222146,
       "word": "詹姆斯助攻",
@@ -345,14 +401,6 @@
       "onboard_time": 1764900680,
       "rank": 5,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 286092,
-      "num": 286092,
-      "word": "雅迪电动车致歉",
-      "onboard_time": 1764919221,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 280066,
@@ -435,11 +483,27 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 253380,
+      "num": 253380,
+      "word": "伊能静首尔做医美",
+      "onboard_time": 1764922581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 253373,
       "num": 253373,
       "word": "尖叫之夜全员走心官宣",
       "onboard_time": 1764902540,
       "rank": 5,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 247284,
+      "num": 247284,
+      "word": "何赛飞一直在发火",
+      "onboard_time": 1764919282,
+      "rank": 24,
       "category": "综艺"
     },
     {
@@ -491,14 +555,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 233390,
-      "num": 233390,
-      "word": "杨幂 我都僵硬了",
-      "onboard_time": 1764919521,
-      "rank": 42,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 232142,
       "num": 213743,
       "word": "声生不息 版权",
@@ -520,14 +576,6 @@
       "word": "杨幂热依扎活动拥抱",
       "onboard_time": 1764918381,
       "rank": 18,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 228107,
-      "num": 228107,
-      "word": "小酒窝给白鹿拼了拼豆",
-      "onboard_time": 1764919701,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -579,6 +627,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212688,
+      "num": 1132429,
+      "word": "八仙子",
+      "onboard_time": 1764919340,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 211826,
       "num": 211826,
       "word": "爱奇艺尖叫之夜破亿角色人形立牌",
@@ -595,12 +651,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 205707,
-      "num": 1132429,
-      "word": "八仙子",
-      "onboard_time": 1764919340,
-      "rank": 7,
-      "category": "综艺"
+      "raw_hot": 206477,
+      "num": 441185,
+      "word": "雅迪毛豆车型",
+      "onboard_time": 1764923001,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 203236,
@@ -627,14 +683,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 199981,
-      "num": 199981,
-      "word": "何赛飞一直在发火",
-      "onboard_time": 1764919282,
-      "rank": 24,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 196240,
       "num": 196240,
       "word": "桃黑黑长文致谢粉丝",
@@ -656,6 +704,14 @@
       "word": "王楚钦梁靖崑11比2杜达邱党",
       "onboard_time": 1764919701,
       "rank": 30,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 193542,
+      "num": 193542,
+      "word": "齐达内樊振东热聊",
+      "onboard_time": 1764922880,
+      "rank": 23,
       "category": "体育"
     },
     {
@@ -689,6 +745,14 @@
       "onboard_time": 1764911841,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 188726,
+      "num": 188726,
+      "word": "这居然是51岁的林志颖",
+      "onboard_time": 1764923121,
+      "rank": 24,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 187673,
@@ -779,6 +843,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 175753,
+      "num": 941089,
+      "word": "世界之外",
+      "onboard_time": 1764913222,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 173650,
       "num": 173650,
       "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
@@ -833,14 +905,6 @@
       "onboard_time": 1764907281,
       "rank": 31,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 166246,
-      "num": 941089,
-      "word": "世界之外",
-      "onboard_time": 1764913222,
-      "rank": 29,
-      "category": "游戏"
     },
     {
       "raw_hot": 165527,
@@ -913,6 +977,14 @@
       "onboard_time": 1764915503,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153479,
+      "num": 153479,
+      "word": "丁程鑫改了张国荣的歌词",
+      "onboard_time": 1764921200,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 153071,
@@ -1235,6 +1307,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 120190,
+      "num": 120190,
+      "word": "再见爱人涮羊肉事件",
+      "onboard_time": 1764921200,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 120004,
+      "num": 120004,
+      "word": "疯狂动物城2导演感谢中国观众",
+      "onboard_time": 1764922401,
+      "rank": 30,
+      "category": "电影"
+    },
+    {
       "raw_hot": 119303,
       "num": 119303,
       "word": "又一批侵华日军暴行文物史料公布",
@@ -1289,6 +1377,14 @@
       "onboard_time": 1764906861,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 116590,
+      "num": 116590,
+      "word": "哈尔滨超大雪人居然不是堆的",
+      "onboard_time": 1764922042,
+      "rank": 32,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 116565,
@@ -1563,12 +1659,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 96643,
+      "num": 96643,
+      "word": "中法发表多份联合声明",
+      "onboard_time": 1764922341,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 96569,
       "num": 96569,
       "word": "台陆军火炮误射民宅画面曝光",
       "onboard_time": 1764902780,
       "rank": 49,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 96005,
+      "num": 96005,
+      "word": "任正非建议年轻人能摸高就不要摸低",
+      "onboard_time": 1764922161,
+      "rank": 38,
+      "category": "互联网"
     },
     {
       "raw_hot": 94233,
@@ -1611,12 +1723,36 @@
       "category": "电影"
     },
     {
+      "raw_hot": 91537,
+      "num": 91537,
+      "word": "中国自行车协会回应电动车新规",
+      "onboard_time": 1764920901,
+      "rank": 43,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 91373,
       "num": 91373,
       "word": "这5类人请立刻停止热水泡脚",
       "onboard_time": 1764893360,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 90754,
+      "num": 90754,
+      "word": "宋茜 Molly真人版",
+      "onboard_time": 1764923482,
+      "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 87968,
+      "num": 84491,
+      "word": "你敢相信钟汉良已经51岁了",
+      "onboard_time": 1764923721,
+      "rank": 48,
+      "category": "剧集"
     },
     {
       "raw_hot": 86908,
@@ -1649,6 +1785,14 @@
       "onboard_time": 1764907940,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 84512,
+      "num": 84512,
+      "word": "王楚钦男单男双连场",
+      "onboard_time": 1764922341,
+      "rank": 47,
+      "category": "体育"
     },
     {
       "raw_hot": 84093,
@@ -1851,6 +1995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 72777,
+      "num": 95255,
+      "word": "梁淞终于借何美延头巾了",
+      "onboard_time": 1764922761,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 72408,
       "num": 83893,
       "word": "巴西男子健身被杠铃重砸胸部身亡",
@@ -1969,6 +2121,14 @@
       "onboard_time": 1764900560,
       "rank": 18,
       "category": "民生新闻,网红"
+    },
+    {
+      "raw_hot": 54773,
+      "num": 90838,
+      "word": "王楚钦气的跳起来了",
+      "onboard_time": 1764923782,
+      "rank": 44,
+      "category": "体育"
     },
     {
       "raw_hot": 54181,
@@ -2371,7 +2531,7 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 4696,
+      "raw_hot": 4703,
       "num": 1784128,
       "word": "大国重器拯救大国重器",
       "onboard_time": 1764820160,

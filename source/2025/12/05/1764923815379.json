@@ -1,0 +1,410 @@
+{
+  "runTime": 1764923815379,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1531914,
+        "num": 1531914,
+        "word": "雅迪电动车致歉",
+        "onboard_time": 1764919221,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 441801,
+        "num": 441801,
+        "word": "抖音直播 禁止过度美颜",
+        "onboard_time": 1764922401,
+        "rank": 1,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 4703,
+        "num": 441758,
+        "word": "大国重器拯救大国重器",
+        "onboard_time": 1764820160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1631954,
+        "num": 441589,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 276084,
+        "num": 441396,
+        "word": "日本再将7800吨核污染水排海",
+        "onboard_time": 1764910522,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 212688,
+        "num": 441264,
+        "word": "八仙子",
+        "onboard_time": 1764919340,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 206477,
+        "num": 441185,
+        "word": "雅迪毛豆车型",
+        "onboard_time": 1764923001,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 711598,
+        "num": 440966,
+        "word": "男子存100万退休3年后剩105万",
+        "onboard_time": 1764921921,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 175753,
+        "num": 440778,
+        "word": "世界之外",
+        "onboard_time": 1764913222,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 170196,
+        "num": 440681,
+        "word": "国乒8比4德国",
+        "onboard_time": 1764919820,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2085096,
+        "num": 440478,
+        "word": "杨幂官宣Prada代言人",
+        "onboard_time": 1764922761,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 810819,
+        "num": 440345,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 11,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 656340,
+        "num": 440216,
+        "word": "王楚钦1比2弗朗西斯卡",
+        "onboard_time": 1764918321,
+        "rank": 12,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 499388,
+        "num": 440083,
+        "word": "我决定以后每周五都请假",
+        "onboard_time": 1764913402,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 444593,
+        "num": 439900,
+        "word": "张凌赫自己都生不出这么像的",
+        "onboard_time": 1764908661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 439799,
+        "num": 439799,
+        "word": "很多人意识不到气血是补不回来的",
+        "onboard_time": 1764917241,
+        "rank": 15,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 437616,
+        "num": 437616,
+        "word": "杨幂 我都僵硬了",
+        "onboard_time": 1764919521,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 402318,
+        "num": 402318,
+        "word": "叶童 你完全不尊重",
+        "onboard_time": 1764912983,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375303,
+        "num": 375303,
+        "word": "周柯宇 国籍",
+        "onboard_time": 1764897859,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 352205,
+        "num": 352205,
+        "word": "小酒窝给白鹿拼了拼豆",
+        "onboard_time": 1764919701,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 319860,
+        "num": 319860,
+        "word": "马克龙访问四川大学",
+        "onboard_time": 1764922521,
+        "rank": 20,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 253380,
+        "num": 253380,
+        "word": "伊能静首尔做医美",
+        "onboard_time": 1764922581,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 247284,
+        "num": 247284,
+        "word": "何赛飞一直在发火",
+        "onboard_time": 1764919282,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193542,
+        "num": 193542,
+        "word": "齐达内樊振东热聊",
+        "onboard_time": 1764922880,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 188726,
+        "num": 188726,
+        "word": "这居然是51岁的林志颖",
+        "onboard_time": 1764923121,
+        "rank": 24,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 159386,
+        "num": 159386,
+        "word": "王楚钦不敌对手",
+        "onboard_time": 1764918682,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 158631,
+        "num": 158631,
+        "word": "陈梦黄晓明合照",
+        "onboard_time": 1764918620,
+        "rank": 26,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 153479,
+        "num": 153479,
+        "word": "丁程鑫改了张国荣的歌词",
+        "onboard_time": 1764921200,
+        "rank": 27,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 147934,
+        "num": 147934,
+        "word": "孙颖莎 这球就算擦网吧",
+        "onboard_time": 1764919581,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 120190,
+        "num": 120190,
+        "word": "再见爱人涮羊肉事件",
+        "onboard_time": 1764921200,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120004,
+        "num": 120004,
+        "word": "疯狂动物城2导演感谢中国观众",
+        "onboard_time": 1764922401,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116843,
+        "num": 116843,
+        "word": "肖战到达宜昌路演",
+        "onboard_time": 1764920002,
+        "rank": 31,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116590,
+        "num": 116590,
+        "word": "哈尔滨超大雪人居然不是堆的",
+        "onboard_time": 1764922042,
+        "rank": 32,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114930,
+        "num": 114930,
+        "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+        "onboard_time": 1764916822,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112304,
+        "num": 112304,
+        "word": "向华强称为捧向佐亏了几个亿",
+        "onboard_time": 1764907821,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100396,
+        "num": 100396,
+        "word": "王楚钦梁靖崑11比2杜达邱党",
+        "onboard_time": 1764919701,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 101005,
+        "num": 99248,
+        "word": "外卖平台集体声明",
+        "onboard_time": 1764916521,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96643,
+        "num": 96643,
+        "word": "中法发表多份联合声明",
+        "onboard_time": 1764922341,
+        "rank": 37,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 96005,
+        "num": 96005,
+        "word": "任正非建议年轻人能摸高就不要摸低",
+        "onboard_time": 1764922161,
+        "rank": 38,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 72777,
+        "num": 95255,
+        "word": "梁淞终于借何美延头巾了",
+        "onboard_time": 1764922761,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94935,
+        "num": 94935,
+        "word": "陈震同学的同学",
+        "onboard_time": 1764904521,
+        "rank": 40,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 93983,
+        "num": 93983,
+        "word": "王一博说我没办法给别人情绪价值",
+        "onboard_time": 1764908541,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 93541,
+        "num": 93541,
+        "word": "政府文件还要薅多少人名大全",
+        "onboard_time": 1764918981,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91537,
+        "num": 91537,
+        "word": "中国自行车协会回应电动车新规",
+        "onboard_time": 1764920901,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 54773,
+        "num": 90838,
+        "word": "王楚钦气的跳起来了",
+        "onboard_time": 1764923782,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90754,
+        "num": 90754,
+        "word": "宋茜 Molly真人版",
+        "onboard_time": 1764923482,
+        "rank": 45,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 89368,
+        "num": 89368,
+        "word": "现在就出发投票",
+        "onboard_time": 1764894261,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 84512,
+        "num": 84512,
+        "word": "王楚钦男单男双连场",
+        "onboard_time": 1764922341,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 87968,
+        "num": 84491,
+        "word": "你敢相信钟汉良已经51岁了",
+        "onboard_time": 1764923721,
+        "rank": 48,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 84274,
+        "num": 84274,
+        "word": "Milkyway回应永久禁赛",
+        "onboard_time": 1764916581,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中法在新甲子走得更稳更好#"
+    }
+  }
+}
