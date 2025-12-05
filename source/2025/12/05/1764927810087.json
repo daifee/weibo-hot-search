@@ -1,0 +1,410 @@
+{
+  "runTime": 1764927810087,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1436090,
+        "num": 1436090,
+        "word": "抖音直播 禁止过度美颜",
+        "onboard_time": 1764922401,
+        "rank": 0,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 774322,
+        "num": 774322,
+        "word": "雅迪电动车致歉",
+        "onboard_time": 1764919221,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 32352,
+        "num": 579687,
+        "word": "卫健委介绍节气与健康有关情况",
+        "onboard_time": 1764924624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1216749,
+        "num": 556150,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 457464,
+        "num": 457464,
+        "word": "雅迪毛豆车型",
+        "onboard_time": 1764923001,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 524394,
+        "num": 428729,
+        "word": "男子存100万退休3年后剩105万",
+        "onboard_time": 1764921921,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 380977,
+        "num": 380977,
+        "word": "马克龙访问四川大学",
+        "onboard_time": 1764922521,
+        "rank": 6,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 232009,
+        "num": 232009,
+        "word": "王楚钦回应1比2弗朗西斯卡",
+        "onboard_time": 1764923841,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 164147,
+        "num": 231368,
+        "word": "日本再将7800吨核污染水排海",
+        "onboard_time": 1764910522,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 132268,
+        "num": 230750,
+        "word": "中国香港8比7法国",
+        "onboard_time": 1764927202,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 990546,
+        "num": 230032,
+        "word": "高考你没考吗 北大不包邮",
+        "onboard_time": 1764924202,
+        "rank": 10,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 743063,
+        "num": 229553,
+        "word": "丁程鑫改了张国荣的歌词",
+        "onboard_time": 1764921200,
+        "rank": 11,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 698450,
+        "num": 228554,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 12,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 478499,
+        "num": 228335,
+        "word": "伊能静首尔做医美",
+        "onboard_time": 1764922581,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30736,
+        "num": 227116,
+        "word": "更新饿了么APP有免单橙意礼",
+        "onboard_time": 1764925821,
+        "rank": 14,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 309489,
+        "num": 226307,
+        "word": "张凌赫自己都生不出这么像的",
+        "onboard_time": 1764908661,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 102983,
+        "num": 226167,
+        "word": "妈妈的拼多多评价里全是我",
+        "onboard_time": 1764925821,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22676,
+        "num": 225221,
+        "word": "骑手称电动车限速送单量可能减半",
+        "onboard_time": 1764926781,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 138114,
+        "num": 224111,
+        "word": "胡先煦曝叫兽易小星曾写遗书",
+        "onboard_time": 1764927261,
+        "rank": 18,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 43270,
+        "num": 223918,
+        "word": "马克龙在成都主动与路人打招呼",
+        "onboard_time": 1764927081,
+        "rank": 19,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 79688,
+        "num": 223035,
+        "word": "调整保险公司相关业务风险因子",
+        "onboard_time": 1764926421,
+        "rank": 20,
+        "category": "财经,民生新闻"
+      },
+      {
+        "raw_hot": 291099,
+        "num": 222178,
+        "word": "王楚钦1比2弗朗西斯卡",
+        "onboard_time": 1764918321,
+        "rank": 21,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 289515,
+        "num": 221372,
+        "word": "我决定以后每周五都请假",
+        "onboard_time": 1764913402,
+        "rank": 22,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 284515,
+        "num": 220843,
+        "word": "官方通报孙俪李现等占道经营被处罚",
+        "onboard_time": 1764927441,
+        "rank": 23,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 282407,
+        "num": 219729,
+        "word": "周柯宇 国籍",
+        "onboard_time": 1764897859,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 268600,
+        "num": 218882,
+        "word": "雅迪争议电动车已下架",
+        "onboard_time": 1764926540,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 235461,
+        "num": 218812,
+        "word": "很多人意识不到气血是补不回来的",
+        "onboard_time": 1764917241,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 218135,
+        "num": 218135,
+        "word": "叶童 你完全不尊重",
+        "onboard_time": 1764912983,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 187518,
+        "num": 187518,
+        "word": "国家铁路局原局长被双开",
+        "onboard_time": 1764925221,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 186147,
+        "num": 186147,
+        "word": "杨幂 我都僵硬了",
+        "onboard_time": 1764919521,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172150,
+        "num": 172150,
+        "word": "具俊晔陪小S录跨年宣传片",
+        "onboard_time": 1764925042,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 170355,
+        "num": 170355,
+        "word": "周柯宇国籍变更",
+        "onboard_time": 1764927502,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 163633,
+        "num": 163633,
+        "word": "小酒窝给白鹿拼了拼豆",
+        "onboard_time": 1764919701,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 155768,
+        "num": 155768,
+        "word": "王皓安慰王楚钦",
+        "onboard_time": 1764925101,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 170439,
+        "num": 155733,
+        "word": "杨幂身穿全套Prada",
+        "onboard_time": 1764925941,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 151348,
+        "num": 151348,
+        "word": "马克龙将在四川大学演讲",
+        "onboard_time": 1764926121,
+        "rank": 35,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 121887,
+        "num": 121887,
+        "word": "这居然是51岁的林志颖",
+        "onboard_time": 1764923121,
+        "rank": 36,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 119285,
+        "num": 119285,
+        "word": "世界之外",
+        "onboard_time": 1764913222,
+        "rank": 37,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 24357,
+        "num": 116832,
+        "word": "邹明轩长这么大了",
+        "onboard_time": 1764927202,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 68682,
+        "num": 116731,
+        "word": "林宥嘉汪苏泷合作曲全场第一",
+        "onboard_time": 1764927681,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116668,
+        "num": 116668,
+        "word": "喜人奇妙夜2总决赛",
+        "onboard_time": 1764926902,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 39498,
+        "num": 106411,
+        "word": "劲酒回应被称为月经神仙水",
+        "onboard_time": 1764926481,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 22692,
+        "num": 106149,
+        "word": "男子因质问遛狗不牵绳被打案二审",
+        "onboard_time": 1764926481,
+        "rank": 42,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106136,
+        "num": 106136,
+        "word": "恋与深空小鼻嘎玩具",
+        "onboard_time": 1764927381,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 102479,
+        "num": 102479,
+        "word": "肖战到达宜昌路演",
+        "onboard_time": 1764920002,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 96467,
+        "num": 96467,
+        "word": "小酒窝穿了白鹿应援色",
+        "onboard_time": 1764923960,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 91008,
+        "num": 91008,
+        "word": "雅迪曾涉多起产品责任纠纷",
+        "onboard_time": 1764927562,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 88584,
+        "num": 88584,
+        "word": "以为小狗发疯没想到是静电",
+        "onboard_time": 1764927741,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 87998,
+        "num": 87998,
+        "word": "疯狂动物城2导演感谢中国观众",
+        "onboard_time": 1764922401,
+        "rank": 48,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 86635,
+        "num": 86635,
+        "word": "Scout回到LCK谈JDG",
+        "onboard_time": 1764924261,
+        "rank": 49,
+        "category": "电竞"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙举行非正式会晤#"
+    }
+  }
+}

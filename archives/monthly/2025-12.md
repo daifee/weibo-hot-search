@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 17:30:36
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 17:43:30
 </p>
 </blockquote>
 <p>
@@ -406,7 +406,7 @@ G7凭什么对中国提3个不许（热度：1030362）
 
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%AB%98%E8%80%83%E4%BD%A0%E6%B2%A1%E8%80%83%E5%90%97%20%E5%8C%97%E5%A4%A7%E4%B8%8D%E5%8C%85%E9%82%AE%23" target="weibo">
-高考你没考吗 北大不包邮（热度：989538）
+高考你没考吗 北大不包邮（热度：990546）
 </a>
 </li>
 
@@ -599,6 +599,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E5%AD%90%E9%9F%AC%E8%BF%9B%E6%97%B6%E4%BB%A3%E5%B3%B0%E5%B3%BB%E5%A4%A7%E6%A5%BC%23" target="weibo">
 黄子韬进时代峰峻大楼（热度：749710）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%94%B9%E4%BA%86%E5%BC%A0%E5%9B%BD%E8%8D%A3%E7%9A%84%E6%AD%8C%E8%AF%8D%23" target="weibo">
+丁程鑫改了张国荣的歌词（热度：743063）
 </a>
 </li>
 
@@ -815,12 +821,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%87%AF%E7%89%B9%E7%8E%8B%E5%A6%83%E7%98%A6%E6%88%90%E7%BA%B8%E7%89%87%E4%BA%BA%23" target="weibo">
 凯特王妃瘦成纸片人（热度：619281）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%81%E7%A8%8B%E9%91%AB%E6%94%B9%E4%BA%86%E5%BC%A0%E5%9B%BD%E8%8D%A3%E7%9A%84%E6%AD%8C%E8%AF%8D%23" target="weibo">
-丁程鑫改了张国荣的歌词（热度：618856）
 </a>
 </li>
 
@@ -2571,6 +2571,12 @@ Viper上线（热度：286982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%98%E6%96%B9%E9%80%9A%E6%8A%A5%E5%AD%99%E4%BF%AA%E6%9D%8E%E7%8E%B0%E7%AD%89%E5%8D%A0%E9%81%93%E7%BB%8F%E8%90%A5%E8%A2%AB%E5%A4%84%E7%BD%9A%23" target="weibo">
+官方通报孙俪李现等占道经营被处罚（热度：284515）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
 马克龙抵京后发文（热度：284344）
 </a>
@@ -2711,6 +2717,12 @@ LCK引入教练语音机制（热度：280680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%92%8C26%E5%B2%81%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%A7%23" target="weibo">
 21岁和26岁差距真的很大（热度：271043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%9B%85%E8%BF%AA%E4%BA%89%E8%AE%AE%E7%94%B5%E5%8A%A8%E8%BD%A6%E5%B7%B2%E4%B8%8B%E6%9E%B6%23" target="weibo">
+雅迪争议电动车已下架（热度：268600）
 </a>
 </li>
 
@@ -3141,6 +3153,12 @@ iPhone用户的尴尬瞬间（热度：257861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%941%E6%AF%942%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E5%8D%A1%23" target="weibo">
+王楚钦回应1比2弗朗西斯卡（热度：232009）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%AD%90%E5%B7%A6%E8%80%B3%E5%AF%84%E5%85%BB%E5%9C%A8%E8%84%9A%E8%83%8C5%E4%B8%AA%E6%9C%88%E6%88%90%E5%8A%9F%E5%9B%9E%E5%AE%B6%23" target="weibo">
 女子左耳寄养在脚背5个月成功回家（热度：231703）
 </a>
@@ -3239,12 +3257,6 @@ iPad中国市场份额大跌（热度：230094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%AF%84%E5%88%86TOP1%E7%9A%84%E7%9F%AD%E5%89%A7%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86%23" target="weibo">
 评分TOP1的短剧杀回来了（热度：225613）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%9B%9E%E5%BA%941%E6%AF%942%E5%BC%97%E6%9C%97%E8%A5%BF%E6%96%AF%E5%8D%A1%23" target="weibo">
-王楚钦回应1比2弗朗西斯卡（热度：225203）
 </a>
 </li>
 
@@ -4551,6 +4563,12 @@ Angelababy后援会将恢复工作（热度：171002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E6%9F%AF%E5%AE%87%E5%9B%BD%E7%B1%8D%E5%8F%98%E6%9B%B4%23" target="weibo">
+周柯宇国籍变更（热度：170355）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A2%96%E5%84%BF%E8%A2%AB%E4%BB%98%E8%BE%9B%E5%8D%9A%E5%B8%85%E5%88%B0%E8%84%B8%E7%BA%A2%23" target="weibo">
 颖儿被付辛博帅到脸红（热度：170212）
 </a>
@@ -5087,6 +5105,12 @@ F1（热度：156386）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Suk%E4%B8%96%E7%95%8C%E8%B5%9B%E5%8D%95%E5%B1%80MVP%23" target="weibo">
 Suk世界赛单局MVP（热度：155946）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E5%AE%89%E6%85%B0%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
+王皓安慰王楚钦（热度：155768）
 </a>
 </li>
 
@@ -5769,6 +5793,12 @@ Rookie回应和jiejie争论（热度：143838）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%85%88%E7%85%A6%E6%9B%9D%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%9B%BE%E5%86%99%E9%81%97%E4%B9%A6%23" target="weibo">
+胡先煦曝叫兽易小星曾写遗书（热度：138114）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%BF%99%E4%B8%80%E5%A5%97%E6%8D%A2%E4%B8%8B%E6%9D%A5%E6%88%91%E8%A6%81%E4%BC%91%E6%81%AF%E4%B8%80%E5%B9%B4%23" target="weibo">
 她这一套换下来我要休息一年（热度：138035）
 </a>
@@ -5979,38 +6009,8 @@ Rookie回应和jiejie争论（热度：143838）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E7%9A%93%E5%AE%89%E6%85%B0%E7%8E%8B%E6%A5%9A%E9%92%A6%23" target="weibo">
-王皓安慰王楚钦（热度：134410）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%BB%E6%B2%99%E4%BA%BA%E7%A7%8D%E4%B8%8B%E7%9A%8410%E4%B8%87%E6%A0%AA%E7%8E%AB%E7%91%B0%E9%95%BF%E5%A4%A7%E4%BA%86%23" target="weibo">
 治沙人种下的10万株玫瑰长大了（热度：134350）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%9A%E6%96%B9%E5%9B%9E%E5%BA%94%E5%B7%A5%E5%8E%82%E9%87%8F%E4%BA%A7%E9%94%80%E5%94%AE%E5%84%BF%E7%AB%A5%E7%A1%85%E8%83%B6%E5%A8%83%E5%A8%83%23" target="weibo">
-多方回应工厂量产销售儿童硅胶娃娃（热度：134182）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%95%96%E7%91%9E%E9%B9%8F%E4%B8%8D%E4%BA%8C%E4%B9%8B%E8%87%A3%E7%89%B5%E6%89%8B%E5%A5%94%E8%B7%91%E8%B7%AF%E9%80%8F%23" target="weibo">
-敖瑞鹏不二之臣牵手奔跑路透（热度：133861）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B6%85%E7%BA%A7%E6%9C%88%E4%BA%AE%23" target="weibo">
-超级月亮（热度：133855）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E7%A0%B4%E7%82%92%E9%A5%AD38%E5%85%83%E4%B8%80%E4%BB%BD%23" target="weibo">
-什么破炒饭38元一份（热度：133840）
 </a>
 </li>
 
