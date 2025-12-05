@@ -1,0 +1,410 @@
+{
+  "runTime": 1764912519850,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 8248537,
+        "num": 9498537,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 0,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 291180,
+        "num": 291180,
+        "word": "饿了么APP已更新为淘宝闪购",
+        "onboard_time": 1764896781,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 777,
+        "num": 291041,
+        "word": "大国重器拯救大国重器",
+        "onboard_time": 1764820160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 3249130,
+        "num": 290297,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 300616,
+        "num": 289793,
+        "word": "中国夫妻的金发碧眼女儿鉴定为亲生",
+        "onboard_time": 1764896961,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 469594,
+        "num": 289070,
+        "word": "网红罗大美遗体已在太平间两年多",
+        "onboard_time": 1764910701,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 185652,
+        "num": 288522,
+        "word": "村支书偷偷为全村交了8年保费",
+        "onboard_time": 1764899479,
+        "rank": 6,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 129891,
+        "num": 287328,
+        "word": "现在就出发",
+        "onboard_time": 1764862760,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 122374,
+        "num": 286955,
+        "word": "在冬天看龙族是我的宿命",
+        "onboard_time": 1764911962,
+        "rank": 8,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 104959,
+        "num": 286045,
+        "word": "逆战未来请你看一场张杰live",
+        "onboard_time": 1764911483,
+        "rank": 9,
+        "category": "游戏,艺人"
+      },
+      {
+        "raw_hot": 726431,
+        "num": 285795,
+        "word": "张凌赫自己都生不出这么像的",
+        "onboard_time": 1764908661,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 683683,
+        "num": 284903,
+        "word": "周柯宇 国籍",
+        "onboard_time": 1764897859,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 463476,
+        "num": 284026,
+        "word": "向华强称为捧向佐亏了几个亿",
+        "onboard_time": 1764907821,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328324,
+        "num": 283637,
+        "word": "陈震同学的同学",
+        "onboard_time": 1764904521,
+        "rank": 13,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 323374,
+        "num": 283285,
+        "word": "沈佳润 路人缘是一种玄的东西",
+        "onboard_time": 1764907400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 282662,
+        "num": 282662,
+        "word": "衣服成本价就在水洗标上",
+        "onboard_time": 1764906681,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 266963,
+        "num": 266963,
+        "word": "王一博说我没办法给别人情绪价值",
+        "onboard_time": 1764908541,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240126,
+        "num": 240126,
+        "word": "陈震同学的同学被禁言",
+        "onboard_time": 1764907101,
+        "rank": 17,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 238441,
+        "num": 238441,
+        "word": "周柯宇方回应国籍",
+        "onboard_time": 1764905480,
+        "rank": 18,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 40552,
+        "num": 228880,
+        "word": "肖战下颚线也有代言了",
+        "onboard_time": 1764907101,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 18509,
+        "num": 223473,
+        "word": "哈尔滨超级冰滑梯已建成9条滑道",
+        "onboard_time": 1764912023,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 287186,
+        "num": 223415,
+        "word": "李嘉格男朋友是01年的",
+        "onboard_time": 1764907101,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 223205,
+        "num": 223205,
+        "word": "刘嘉玲问时代峰峻怎么赚钱",
+        "onboard_time": 1764908241,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222030,
+        "num": 222030,
+        "word": "沈腾贾玲重聚",
+        "onboard_time": 1764903619,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 212982,
+        "num": 212982,
+        "word": "时代峰峻造星签约模式曝光",
+        "onboard_time": 1764910822,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210049,
+        "num": 210049,
+        "word": "湖南卫视跨年演唱会官宣",
+        "onboard_time": 1764910761,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207839,
+        "num": 207839,
+        "word": "声生不息 版权",
+        "onboard_time": 1764908782,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 175795,
+        "num": 175795,
+        "word": "黄子韬  TF一二三四代都笑纳了",
+        "onboard_time": 1764908961,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 172269,
+        "num": 172269,
+        "word": "日本再将7800吨核污染水排海",
+        "onboard_time": 1764910522,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 162432,
+        "num": 162432,
+        "word": "阴阳师",
+        "onboard_time": 1764911722,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 45055,
+        "num": 162429,
+        "word": "我志愿成为光荣的志愿者",
+        "onboard_time": 1764912023,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 205634,
+        "num": 162166,
+        "word": "王楚钦vs弗朗西斯卡",
+        "onboard_time": 1764912442,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 172711,
+        "num": 161844,
+        "word": "十个勤天短剧角色名我能笑半天",
+        "onboard_time": 1764911361,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 131184,
+        "num": 161816,
+        "word": "中公教育以物抵债退落榜考生学费",
+        "onboard_time": 1764900739,
+        "rank": 33,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 161640,
+        "num": 161640,
+        "word": "5只猫跑出了50只猫的效果",
+        "onboard_time": 1764911301,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 148702,
+        "num": 148702,
+        "word": "打工人休息最高配",
+        "onboard_time": 1764911542,
+        "rank": 35,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 133856,
+        "num": 148504,
+        "word": "杨瀚森20分7助攻7篮板",
+        "onboard_time": 1764911841,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 9589,
+        "num": 148373,
+        "word": "驻南非使馆提醒中国公民不露富",
+        "onboard_time": 1764912262,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41606,
+        "num": 148333,
+        "word": "荞麦皮枕头 长虫",
+        "onboard_time": 1764911902,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 148329,
+        "num": 148329,
+        "word": "孟子义妈妈看孟子义的眼神",
+        "onboard_time": 1764911542,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 144080,
+        "num": 144080,
+        "word": "粉丝把助理认成杨幂",
+        "onboard_time": 1764909861,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 141488,
+        "num": 141488,
+        "word": "陈牧驰宣布与经纪人终止合作",
+        "onboard_time": 1764911062,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 133247,
+        "num": 133247,
+        "word": "带娃界来了个天才",
+        "onboard_time": 1764908782,
+        "rank": 42,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 128347,
+        "num": 128347,
+        "word": "外卖新国标",
+        "onboard_time": 1764908001,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48359,
+        "num": 127354,
+        "word": "买卖账号赚快钱已有人获刑",
+        "onboard_time": 1764895703,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 126679,
+        "num": 126679,
+        "word": "疯狂动物城何以沦为疯狂盗摄城",
+        "onboard_time": 1764910102,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 116579,
+        "num": 116579,
+        "word": "王楚然生气也温柔",
+        "onboard_time": 1764912442,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 115407,
+        "num": 115407,
+        "word": "留几手喊话再见爱人",
+        "onboard_time": 1764902960,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 83888,
+        "num": 114165,
+        "word": "摩尔线程",
+        "onboard_time": 1764899838,
+        "rank": 48,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 114070,
+        "num": 114070,
+        "word": "过度分享",
+        "onboard_time": 1764911241,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中法在新甲子走得更稳更好#"
+    }
+  }
+}

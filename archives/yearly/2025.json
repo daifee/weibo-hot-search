@@ -1,6 +1,6 @@
 {
   "startTime": 1735662398644,
-  "endTime": 1764910230837,
+  "endTime": 1764912519850,
   "band_list": [
     {
       "raw_hot": 41862887,
@@ -1819,6 +1819,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 8248537,
+      "num": 9498537,
+      "word": "陈震偷税案",
+      "onboard_time": 1764910701,
+      "rank": 0,
+      "category": "辟谣/通报,汽车"
+    },
+    {
       "raw_hot": 8226159,
       "num": 8226159,
       "word": "具俊晔回应大S去世",
@@ -2393,14 +2401,6 @@
       "onboard_time": 1754315665,
       "rank": 0,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 6419842,
-      "num": 7669842,
-      "word": "台湾台东5.8级地震",
-      "onboard_time": 1749640463,
-      "rank": 0,
-      "category": "突发/灾害"
     }
   ],
   "hotgov_list": [
