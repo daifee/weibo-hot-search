@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/06 03:24:06
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/06 03:37:27
 </p>
 </blockquote>
 <p>
@@ -14541,6 +14541,12 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%86%99%E4%BB%A5%E7%8A%AC%E4%B9%8B%E5%90%8D%E8%BE%B1%E9%AA%82%E5%BC%A0%E6%9F%8F%E8%8A%9D%23" target="weibo">
+经纪人写以犬之名辱骂张柏芝（热度：37207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B7%B1%E5%9C%B3%E6%9C%9B%E9%83%8E%E5%BD%9280%E5%A4%A9%E5%86%853%E4%BA%BA%E5%BE%92%E6%AD%A5%E9%81%87%E9%9A%BE%23" target="weibo">
 深圳望郎归80天内3人徒步遇难（热度：36985）
 </a>
@@ -14735,12 +14741,6 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%99%B4%E5%A4%A9%E6%9B%9DWayward%E6%B2%A1%E5%8E%BB%E8%AF%95%E8%AE%AD%23" target="weibo">
 晴天曝Wayward没去试训（热度：32640）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%86%99%E4%BB%A5%E7%8A%AC%E4%B9%8B%E5%90%8D%E8%BE%B1%E9%AA%82%E5%BC%A0%E6%9F%8F%E8%8A%9D%23" target="weibo">
-经纪人写以犬之名辱骂张柏芝（热度：32635）
 </a>
 </li>
 
