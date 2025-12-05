@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764905260341,
+  "endTime": 1764906040100,
   "band_list": [
     {
       "raw_hot": 1970748,
@@ -8,6 +8,14 @@
       "word": "周柯宇 国籍",
       "onboard_time": 1764897859,
       "rank": 10,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1351951,
+      "num": 204951,
+      "word": "周柯宇方回应国籍",
+      "onboard_time": 1764905480,
+      "rank": 15,
       "category": "艺人"
     },
     {
@@ -35,6 +43,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 610219,
+      "num": 207441,
+      "word": "沈腾贾玲重聚",
+      "onboard_time": 1764903619,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 577400,
       "num": 1084333,
       "word": "中国夫妻的金发碧眼女儿鉴定为亲生",
@@ -43,16 +59,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 505238,
-      "num": 199651,
-      "word": "沈腾贾玲重聚",
-      "onboard_time": 1764903619,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 502263,
-      "num": 283926,
+      "num": 1078167,
       "word": "村支书偷偷为全村交了8年保费",
       "onboard_time": 1764899479,
       "rank": 29,
@@ -83,8 +91,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 434010,
-      "num": 199167,
+      "raw_hot": 437488,
+      "num": 206899,
       "word": "留几手喊话再见爱人",
       "onboard_time": 1764902960,
       "rank": 12,
@@ -132,7 +140,7 @@
     },
     {
       "raw_hot": 350810,
-      "num": 188318,
+      "num": 194851,
       "word": "痞幼分手仅20天火速上恋综",
       "onboard_time": 1764893059,
       "rank": 21,
@@ -163,6 +171,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 318201,
+      "num": 222146,
+      "word": "詹姆斯助攻",
+      "onboard_time": 1764904401,
+      "rank": 14,
+      "category": "体育"
+    },
+    {
       "raw_hot": 292924,
       "num": 292924,
       "word": "陈震名下公司因欠税被公告",
@@ -180,23 +196,15 @@
     },
     {
       "raw_hot": 276052,
-      "num": 198303,
+      "num": 198794,
       "word": "湖人战胜猛龙",
       "onboard_time": 1764904160,
       "rank": 13,
       "category": "体育"
     },
     {
-      "raw_hot": 275070,
-      "num": 198114,
-      "word": "詹姆斯助攻",
-      "onboard_time": 1764904401,
-      "rank": 14,
-      "category": "体育"
-    },
-    {
       "raw_hot": 264463,
-      "num": 202666,
+      "num": 204285,
       "word": "姐弟恋在家里好刺激",
       "onboard_time": 1764898760,
       "rank": 30,
@@ -251,6 +259,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239423,
+      "num": 205677,
+      "word": "白鹿听到恭迎爱奇艺女王的反应",
+      "onboard_time": 1764905061,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 239150,
+      "num": 233948,
+      "word": "马克龙总统抵达成都",
+      "onboard_time": 1764857482,
+      "rank": 6,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 236063,
       "num": 201845,
       "word": "黄圣依在大理酒馆唱歌",
@@ -259,20 +283,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234608,
+      "num": 234608,
+      "word": "摩尔线程",
+      "onboard_time": 1764899838,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 234384,
+      "num": 204621,
+      "word": "陈震同学的同学",
+      "onboard_time": 1764904521,
+      "rank": 18,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 231030,
       "num": 231030,
       "word": "陈震全网粉丝超2400万",
       "onboard_time": 1764896300,
       "rank": 8,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 228553,
-      "num": 228553,
-      "word": "摩尔线程",
-      "onboard_time": 1764899838,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 221030,
@@ -339,28 +371,36 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 194896,
-      "num": 194896,
-      "word": "陈震同学的同学",
-      "onboard_time": 1764904521,
-      "rank": 18,
-      "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 194015,
-      "num": 201199,
-      "word": "马克龙总统抵达成都",
-      "onboard_time": 1764857482,
-      "rank": 6,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "桃黑黑觉得错了就是错了",
       "onboard_time": 1764902660,
       "rank": 19,
       "category": "游戏,网红"
+    },
+    {
+      "raw_hot": 193226,
+      "num": 193226,
+      "word": "詹姆斯连续得分上双纪录终结",
+      "onboard_time": 1764905600,
+      "rank": 21,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 187673,
+      "num": 187673,
+      "word": "八村垒绝杀猛龙",
+      "onboard_time": 1764904820,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 186422,
+      "num": 186422,
+      "word": "李嘉格男友耳朵都红了",
+      "onboard_time": 1764905181,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 185810,
@@ -387,12 +427,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 177510,
-      "num": 177510,
-      "word": "白鹿听到恭迎爱奇艺女王的反应",
-      "onboard_time": 1764905061,
+      "raw_hot": 180584,
+      "num": 180584,
+      "word": "杨瀚森三分",
+      "onboard_time": 1764905301,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 177040,
+      "num": 177040,
+      "word": "动画三线轮洄今日开播",
+      "onboard_time": 1764905840,
       "rank": 25,
-      "category": "艺人"
+      "category": "动漫"
     },
     {
       "raw_hot": 173650,
@@ -411,20 +459,28 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 167706,
-      "num": 150263,
-      "word": "李嘉格男友耳朵都红了",
-      "onboard_time": 1764905181,
-      "rank": 27,
+      "raw_hot": 167179,
+      "num": 167179,
+      "word": "新华社发文疯狂盗摄城",
+      "onboard_time": 1764903919,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 156621,
+      "num": 156621,
+      "word": "宋茜给自己剪短发",
+      "onboard_time": 1764905900,
+      "rank": 30,
       "category": "艺人"
     },
     {
-      "raw_hot": 158344,
-      "num": 158344,
-      "word": "八村垒绝杀猛龙",
-      "onboard_time": 1764904820,
-      "rank": 26,
-      "category": "体育"
+      "raw_hot": 150743,
+      "num": 150743,
+      "word": "摩尔线程最高飙涨超500%",
+      "onboard_time": 1764905480,
+      "rank": 31,
+      "category": "财经"
     },
     {
       "raw_hot": 149616,
@@ -433,6 +489,14 @@
       "onboard_time": 1764832761,
       "rank": 15,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148215,
+      "num": 148215,
+      "word": "姐弟7万买相邻墓位下葬发现不相邻",
+      "onboard_time": 1764904401,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148023,
@@ -459,6 +523,22 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 138818,
+      "num": 138818,
+      "word": "女子踩狗屎后用狗爪刮中1万元",
+      "onboard_time": 1764903860,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 131345,
+      "num": 131345,
+      "word": "邢深你说你是许仙我可来劲了",
+      "onboard_time": 1764905001,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 129918,
       "num": 129918,
       "word": "朱亚文向涵之 鬼怪",
@@ -473,14 +553,6 @@
       "onboard_time": 1764855442,
       "rank": 18,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127806,
-      "num": 127806,
-      "word": "女子踩狗屎后用狗爪刮中1万元",
-      "onboard_time": 1764903860,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127662,
@@ -507,12 +579,28 @@
       "category": "情感"
     },
     {
+      "raw_hot": 122598,
+      "num": 122598,
+      "word": "NBA",
+      "onboard_time": 1764905240,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122272,
       "num": 320489,
       "word": "研究称烧秸秆能控制超级细菌传播",
       "onboard_time": 1764852681,
       "rank": 9,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 121685,
+      "num": 121685,
+      "word": "原来沈腾胡先煦说的是这个老丁头",
+      "onboard_time": 1764905061,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 121293,
@@ -523,12 +611,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 121162,
-      "num": 121162,
-      "word": "邢深你说你是许仙我可来劲了",
-      "onboard_time": 1764905001,
-      "rank": 34,
-      "category": "剧集"
+      "raw_hot": 119303,
+      "num": 119303,
+      "word": "又一批侵华日军暴行文物史料公布",
+      "onboard_time": 1764905480,
+      "rank": 40,
+      "category": "国内时政"
     },
     {
       "raw_hot": 118531,
@@ -536,14 +624,6 @@
       "word": "50元的安全套以后或涨为56.5元",
       "onboard_time": 1764860120,
       "rank": 19,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 117958,
-      "num": 117958,
-      "word": "姐弟7万买相邻墓位下葬发现不相邻",
-      "onboard_time": 1764904401,
-      "rank": 35,
       "category": "民生新闻"
     },
     {
@@ -579,6 +659,22 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 111259,
+      "num": 111259,
+      "word": "爱尔兰教师拒绝称呼男孩为女孩被解雇",
+      "onboard_time": 1764902718,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
+      "raw_hot": 109164,
+      "num": 109164,
+      "word": "肺结节出现这2点离肺癌可能就近了",
+      "onboard_time": 1764905480,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 108489,
       "num": 141518,
       "word": "奶皮子不是奶酪也不是酸奶",
@@ -609,6 +705,14 @@
       "onboard_time": 1764885254,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 106393,
+      "num": 106393,
+      "word": "月经不规律不推荐任何酒类",
+      "onboard_time": 1764905301,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 104850,
@@ -643,20 +747,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 103554,
-      "num": 103554,
-      "word": "新华社发文疯狂盗摄城",
-      "onboard_time": 1764903919,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103303,
       "num": 103303,
       "word": "papi说何美延梁淞的婚姻好拥挤",
       "onboard_time": 1764901819,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 103045,
+      "num": 103045,
+      "word": "无限暖暖伊赞之土",
+      "onboard_time": 1764905721,
+      "rank": 47,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 102062,
+      "num": 102062,
+      "word": "未定事件簿夏彦予爱未名",
+      "onboard_time": 1764906020,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 99245,
@@ -667,14 +779,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 98940,
-      "num": 98940,
-      "word": "爱尔兰教师拒绝称呼男孩为女孩被解雇",
-      "onboard_time": 1764902718,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 98882,
       "num": 98882,
       "word": "40岁后微胖才是长寿黄金体重",
@@ -683,12 +787,12 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 98728,
-      "num": 98728,
-      "word": "NBA",
-      "onboard_time": 1764905240,
-      "rank": 48,
-      "category": "体育"
+      "raw_hot": 97275,
+      "num": 121765,
+      "word": "王一博专挑破包背",
+      "onboard_time": 1764905900,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 96569,
@@ -731,12 +835,12 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 83906,
-      "num": 103560,
-      "word": "原来沈腾胡先煦说的是这个老丁头",
-      "onboard_time": 1764905061,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 84069,
+      "num": 195096,
+      "word": "法国总统在成都晨跑",
+      "onboard_time": 1764905540,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83805,
@@ -745,6 +849,14 @@
       "onboard_time": 1764897379,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83112,
+      "num": 158549,
+      "word": "任正非说未来的希望在青年",
+      "onboard_time": 1764902120,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 82180,
@@ -929,14 +1041,6 @@
       "onboard_time": 1764860723,
       "rank": 33,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 71958,
-      "num": 139349,
-      "word": "任正非说未来的希望在青年",
-      "onboard_time": 1764902120,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 70845,

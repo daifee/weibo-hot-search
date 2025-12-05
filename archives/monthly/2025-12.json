@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764905260341,
+  "endTime": 1764906040100,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -241,6 +241,14 @@
       "onboard_time": 1764572122,
       "rank": 46,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1351951,
+      "num": 204951,
+      "word": "周柯宇方回应国籍",
+      "onboard_time": 1764905480,
+      "rank": 15,
+      "category": "艺人"
     },
     {
       "raw_hot": 1347268,
@@ -987,6 +995,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 610219,
+      "num": 207441,
+      "word": "沈腾贾玲重聚",
+      "onboard_time": 1764903619,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 607906,
       "num": 1097264,
       "word": "24岁女生咳嗽不止查出肺癌",
@@ -1403,14 +1419,6 @@
       "category": "幽默,休闲"
     },
     {
-      "raw_hot": 505238,
-      "num": 199651,
-      "word": "沈腾贾玲重聚",
-      "onboard_time": 1764903619,
-      "rank": 11,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 503633,
       "num": 659747,
       "word": "狙击蝴蝶 误点小广告",
@@ -1428,7 +1436,7 @@
     },
     {
       "raw_hot": 502263,
-      "num": 283926,
+      "num": 1078167,
       "word": "村支书偷偷为全村交了8年保费",
       "onboard_time": 1764899479,
       "rank": 29,
@@ -1779,6 +1787,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 437488,
+      "num": 206899,
+      "word": "留几手喊话再见爱人",
+      "onboard_time": 1764902960,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 437136,
       "num": 218805,
       "word": "杨旭文方回应",
@@ -1809,14 +1825,6 @@
       "onboard_time": 1764809062,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 434010,
-      "num": 199167,
-      "word": "留几手喊话再见爱人",
-      "onboard_time": 1764902960,
-      "rank": 12,
-      "category": "综艺"
     },
     {
       "raw_hot": 433286,
@@ -2436,7 +2444,7 @@
     },
     {
       "raw_hot": 350810,
-      "num": 188318,
+      "num": 194851,
       "word": "痞幼分手仅20天火速上恋综",
       "onboard_time": 1764893059,
       "rank": 21,
@@ -2801,6 +2809,14 @@
       "onboard_time": 1764513082,
       "rank": 25,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 318201,
+      "num": 222146,
+      "word": "詹姆斯助攻",
+      "onboard_time": 1764904401,
+      "rank": 14,
+      "category": "体育"
     },
     {
       "raw_hot": 317000,
@@ -3244,7 +3260,7 @@
     },
     {
       "raw_hot": 276052,
-      "num": 198303,
+      "num": 198794,
       "word": "湖人战胜猛龙",
       "onboard_time": 1764904160,
       "rank": 13,
@@ -3257,14 +3273,6 @@
       "onboard_time": 1764507981,
       "rank": 16,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 275070,
-      "num": 198114,
-      "word": "詹姆斯助攻",
-      "onboard_time": 1764904401,
-      "rank": 14,
-      "category": "体育"
     },
     {
       "raw_hot": 274935,
@@ -3388,7 +3396,7 @@
     },
     {
       "raw_hot": 264463,
-      "num": 202666,
+      "num": 204285,
       "word": "姐弟恋在家里好刺激",
       "onboard_time": 1764898760,
       "rank": 30,
@@ -3731,6 +3739,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 239423,
+      "num": 205677,
+      "word": "白鹿听到恭迎爱奇艺女王的反应",
+      "onboard_time": 1764905061,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 238631,
       "num": 1390174,
       "word": "原神",
@@ -3827,6 +3843,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 234608,
+      "num": 234608,
+      "word": "摩尔线程",
+      "onboard_time": 1764899838,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 234384,
+      "num": 204621,
+      "word": "陈震同学的同学",
+      "onboard_time": 1764904521,
+      "rank": 18,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 233795,
       "num": 233795,
       "word": "男跳凤凰台女跳诛仙台",
@@ -3921,14 +3953,6 @@
       "onboard_time": 1764650062,
       "rank": 8,
       "category": "数码"
-    },
-    {
-      "raw_hot": 228553,
-      "num": 228553,
-      "word": "摩尔线程",
-      "onboard_time": 1764899838,
-      "rank": 18,
-      "category": "财经"
     },
     {
       "raw_hot": 228388,
@@ -4787,14 +4811,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 194896,
-      "num": 194896,
-      "word": "陈震同学的同学",
-      "onboard_time": 1764904521,
-      "rank": 18,
-      "category": "汽车,网红"
-    },
-    {
       "raw_hot": 194775,
       "num": 482405,
       "word": "官方通报广州沙园地铁站附近突发火情",
@@ -4857,6 +4873,14 @@
       "onboard_time": 1764654742,
       "rank": 4,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 193226,
+      "num": 193226,
+      "word": "詹姆斯连续得分上双纪录终结",
+      "onboard_time": 1764905600,
+      "rank": 21,
+      "category": "体育"
     },
     {
       "raw_hot": 192663,
@@ -4979,6 +5003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 187673,
+      "num": 187673,
+      "word": "八村垒绝杀猛龙",
+      "onboard_time": 1764904820,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 187581,
       "num": 187581,
       "word": "罗云熙四大平台作品集均",
@@ -5017,6 +5049,14 @@
       "onboard_time": 1764649822,
       "rank": 14,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 186422,
+      "num": 186422,
+      "word": "李嘉格男友耳朵都红了",
+      "onboard_time": 1764905181,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 186185,
@@ -5259,6 +5299,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 180584,
+      "num": 180584,
+      "word": "杨瀚森三分",
+      "onboard_time": 1764905301,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 179520,
       "num": 55534,
       "word": "香港火灾女子拍门救4人自己遇难",
@@ -5323,20 +5371,20 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 177510,
-      "num": 177510,
-      "word": "白鹿听到恭迎爱奇艺女王的反应",
-      "onboard_time": 1764905061,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 177217,
       "num": 177217,
       "word": "日本正武装菲律宾",
       "onboard_time": 1764653300,
       "rank": 40,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 177040,
+      "num": 177040,
+      "word": "动画三线轮洄今日开播",
+      "onboard_time": 1764905840,
+      "rank": 25,
+      "category": "动漫"
     },
     {
       "raw_hot": 176671,
@@ -5619,14 +5667,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 167706,
-      "num": 150263,
-      "word": "李嘉格男友耳朵都红了",
-      "onboard_time": 1764905181,
-      "rank": 27,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 167576,
       "num": 167576,
       "word": "原来脸小也不一定好看",
@@ -5665,6 +5705,14 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 167179,
+      "num": 167179,
+      "word": "新华社发文疯狂盗摄城",
+      "onboard_time": 1764903919,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 167003,
@@ -6027,14 +6075,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 158344,
-      "num": 158344,
-      "word": "八村垒绝杀猛龙",
-      "onboard_time": 1764904820,
-      "rank": 26,
-      "category": "体育"
-    },
-    {
       "raw_hot": 158246,
       "num": 158246,
       "word": "航天发展15天10板",
@@ -6137,6 +6177,14 @@
       "onboard_time": 1764572360,
       "rank": 27,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 156621,
+      "num": 156621,
+      "word": "宋茜给自己剪短发",
+      "onboard_time": 1764905900,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 156386,
@@ -6419,6 +6467,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 150743,
+      "num": 150743,
+      "word": "摩尔线程最高飙涨超500%",
+      "onboard_time": 1764905480,
+      "rank": 31,
+      "category": "财经"
+    },
+    {
       "raw_hot": 150585,
       "num": 150585,
       "word": "刘耀文 黄子韬灭燃器",
@@ -6521,6 +6577,14 @@
       "onboard_time": 1764597442,
       "rank": 29,
       "category": "电影"
+    },
+    {
+      "raw_hot": 148215,
+      "num": 148215,
+      "word": "姐弟7万买相邻墓位下葬发现不相邻",
+      "onboard_time": 1764904401,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 148171,
@@ -6929,6 +6993,14 @@
       "onboard_time": 1764677662,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138818,
+      "num": 138818,
+      "word": "女子踩狗屎后用狗爪刮中1万元",
+      "onboard_time": 1764903860,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 138593,
@@ -7459,6 +7531,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 131345,
+      "num": 131345,
+      "word": "邢深你说你是许仙我可来劲了",
+      "onboard_time": 1764905001,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 131340,
       "num": 131340,
       "word": "印度人凭什么认为印度菜天下无敌",
@@ -7673,14 +7753,6 @@
       "onboard_time": 1764671783,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 127806,
-      "num": 127806,
-      "word": "女子踩狗屎后用狗爪刮中1万元",
-      "onboard_time": 1764903860,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 127754,
@@ -8059,6 +8131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 122598,
+      "num": 122598,
+      "word": "NBA",
+      "onboard_time": 1764905240,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 122544,
       "num": 122544,
       "word": "张继科杯混团冠军奖金15万",
@@ -8147,6 +8227,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 121685,
+      "num": 121685,
+      "word": "原来沈腾胡先煦说的是这个老丁头",
+      "onboard_time": 1764905061,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 121683,
       "num": 340293,
       "word": "竞浪大会",
@@ -8225,14 +8313,6 @@
       "onboard_time": 1764579442,
       "rank": 35,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 121162,
-      "num": 121162,
-      "word": "邢深你说你是许仙我可来劲了",
-      "onboard_time": 1764905001,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 120978,
@@ -8379,6 +8459,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119303,
+      "num": 119303,
+      "word": "又一批侵华日军暴行文物史料公布",
+      "onboard_time": 1764905480,
+      "rank": 40,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 119273,
       "num": 160531,
       "word": "工作人员回应采购5台电脑预算2.95亿",
@@ -8505,14 +8593,6 @@
       "onboard_time": 1764667521,
       "rank": 48,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 117958,
-      "num": 117958,
-      "word": "姐弟7万买相邻墓位下葬发现不相邻",
-      "onboard_time": 1764904401,
-      "rank": 35,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 117911,
@@ -9003,6 +9083,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111259,
+      "num": 111259,
+      "word": "爱尔兰教师拒绝称呼男孩为女孩被解雇",
+      "onboard_time": 1764902718,
+      "rank": 45,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 111085,
       "num": 111085,
       "word": "陈星旭工作室找不到陈星旭了",
@@ -9153,6 +9241,14 @@
       "onboard_time": 1764771083,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 109164,
+      "num": 109164,
+      "word": "肺结节出现这2点离肺癌可能就近了",
+      "onboard_time": 1764905480,
+      "rank": 45,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 109068,
@@ -9369,6 +9465,14 @@
       "onboard_time": 1764649463,
       "rank": 37,
       "category": "体育"
+    },
+    {
+      "raw_hot": 106393,
+      "num": 106393,
+      "word": "月经不规律不推荐任何酒类",
+      "onboard_time": 1764905301,
+      "rank": 46,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 106181,
@@ -9619,14 +9723,6 @@
       "category": "互联网"
     },
     {
-      "raw_hot": 103554,
-      "num": 103554,
-      "word": "新华社发文疯狂盗摄城",
-      "onboard_time": 1764903919,
-      "rank": 40,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103534,
       "num": 225093,
       "word": "HPV可能导致多种癌症和相关疾病",
@@ -9657,6 +9753,14 @@
       "onboard_time": 1764807442,
       "rank": 32,
       "category": "体育"
+    },
+    {
+      "raw_hot": 103045,
+      "num": 103045,
+      "word": "无限暖暖伊赞之土",
+      "onboard_time": 1764905721,
+      "rank": 47,
+      "category": "游戏"
     },
     {
       "raw_hot": 102946,
@@ -9753,6 +9857,14 @@
       "onboard_time": 1764657020,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102062,
+      "num": 102062,
+      "word": "未定事件簿夏彦予爱未名",
+      "onboard_time": 1764906020,
+      "rank": 49,
+      "category": "游戏"
     },
     {
       "raw_hot": 101866,
@@ -10019,28 +10131,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 98940,
-      "num": 98940,
-      "word": "爱尔兰教师拒绝称呼男孩为女孩被解雇",
-      "onboard_time": 1764902718,
-      "rank": 45,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 98882,
       "num": 98882,
       "word": "40岁后微胖才是长寿黄金体重",
       "onboard_time": 1764903259,
       "rank": 47,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 98728,
-      "num": 98728,
-      "word": "NBA",
-      "onboard_time": 1764905240,
-      "rank": 48,
-      "category": "体育"
     },
     {
       "raw_hot": 98551,
@@ -10153,6 +10249,14 @@
       "onboard_time": 1764756321,
       "rank": 45,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 97275,
+      "num": 121765,
+      "word": "王一博专挑破包背",
+      "onboard_time": 1764905900,
+      "rank": 38,
+      "category": "综艺"
     },
     {
       "raw_hot": 97198,
@@ -11123,12 +11227,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 83906,
-      "num": 103560,
-      "word": "原来沈腾胡先煦说的是这个老丁头",
-      "onboard_time": 1764905061,
-      "rank": 39,
-      "category": "综艺"
+      "raw_hot": 84069,
+      "num": 195096,
+      "word": "法国总统在成都晨跑",
+      "onboard_time": 1764905540,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 83830,
@@ -11217,6 +11321,14 @@
       "onboard_time": 1764673462,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 83112,
+      "num": 158549,
+      "word": "任正非说未来的希望在青年",
+      "onboard_time": 1764902120,
+      "rank": 28,
+      "category": "互联网"
     },
     {
       "raw_hot": 83108,
@@ -11985,14 +12097,6 @@
       "onboard_time": 1764730161,
       "rank": 38,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 71958,
-      "num": 139349,
-      "word": "任正非说未来的希望在青年",
-      "onboard_time": 1764902120,
-      "rank": 28,
-      "category": "互联网"
     },
     {
       "raw_hot": 71898,
