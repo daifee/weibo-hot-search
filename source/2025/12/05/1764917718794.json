@@ -1,0 +1,410 @@
+{
+  "runTime": 1764917718794,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1840788,
+        "num": 1840788,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 0,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 255153,
+        "num": 255153,
+        "word": "王楚钦vs弗朗西斯卡",
+        "onboard_time": 1764912442,
+        "rank": 1,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4257,
+        "num": 254524,
+        "word": "大国重器拯救大国重器",
+        "onboard_time": 1764820160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 5930507,
+        "num": 5930507,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 292277,
+        "num": 252872,
+        "word": "日本再将7800吨核污染水排海",
+        "onboard_time": 1764910522,
+        "rank": 4,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 166287,
+        "num": 252412,
+        "word": "现在就出发投票",
+        "onboard_time": 1764894261,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145784,
+        "num": 251060,
+        "word": "世界之外",
+        "onboard_time": 1764913222,
+        "rank": 6,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 137810,
+        "num": 250788,
+        "word": "饿了么APP已更新为淘宝闪购",
+        "onboard_time": 1764896781,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 119111,
+        "num": 249582,
+        "word": "中国夫妻的金发碧眼女儿鉴定为亲生",
+        "onboard_time": 1764896961,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 114021,
+        "num": 248638,
+        "word": "中法元首非正式会晤",
+        "onboard_time": 1764914241,
+        "rank": 9,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 35377,
+        "num": 248195,
+        "word": "赖清德当局无耻无聊又一恶举",
+        "onboard_time": 1764916462,
+        "rank": 10,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 660951,
+        "num": 246937,
+        "word": "叶童 你完全不尊重",
+        "onboard_time": 1764912983,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 566640,
+        "num": 246225,
+        "word": "网红罗大美遗体已在太平间两年多",
+        "onboard_time": 1764910701,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 525952,
+        "num": 244984,
+        "word": "我决定以后每周五都请假",
+        "onboard_time": 1764913402,
+        "rank": 13,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 514420,
+        "num": 244705,
+        "word": "张凌赫自己都生不出这么像的",
+        "onboard_time": 1764908661,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 377415,
+        "num": 243285,
+        "word": "周柯宇 国籍",
+        "onboard_time": 1764897859,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 243238,
+        "num": 243238,
+        "word": "多明星上占道经营罚单文件连夜删除",
+        "onboard_time": 1764913462,
+        "rank": 16,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 44869,
+        "num": 231329,
+        "word": "华为MateX7开售氛围火爆",
+        "onboard_time": 1764913402,
+        "rank": 17,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 229280,
+        "num": 229280,
+        "word": "陈震同学的同学",
+        "onboard_time": 1764904521,
+        "rank": 18,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 27413,
+        "num": 224886,
+        "word": "入室抢婴案二审择期宣判",
+        "onboard_time": 1764916881,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 221371,
+        "num": 221371,
+        "word": "向华强称为捧向佐亏了几个亿",
+        "onboard_time": 1764907821,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 216064,
+        "num": 216064,
+        "word": "小洛熙妈妈",
+        "onboard_time": 1764916640,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188961,
+        "num": 188961,
+        "word": "时代峰峻造星签约模式曝光",
+        "onboard_time": 1764910822,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182795,
+        "num": 182795,
+        "word": "Milkyway回应永久禁赛",
+        "onboard_time": 1764916581,
+        "rank": 23,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 181016,
+        "num": 181016,
+        "word": "外卖平台集体声明",
+        "onboard_time": 1764916521,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169245,
+        "num": 169245,
+        "word": "王一博说我没办法给别人情绪价值",
+        "onboard_time": 1764908541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164200,
+        "num": 164200,
+        "word": "叶童说许仙是被白娘子蒙骗的",
+        "onboard_time": 1764914842,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157086,
+        "num": 157086,
+        "word": "普京说无权干涉中印关系",
+        "onboard_time": 1764916041,
+        "rank": 27,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 99049,
+        "num": 153483,
+        "word": "张柏芝宁静觉得一夜爆红蛮爽的",
+        "onboard_time": 1764917542,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152308,
+        "num": 152308,
+        "word": "许光汉张轩睿被曝兄弟反目",
+        "onboard_time": 1764915503,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94044,
+        "num": 150986,
+        "word": "哈尔滨大雪人要回归了",
+        "onboard_time": 1764915742,
+        "rank": 30,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 150939,
+        "num": 150939,
+        "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+        "onboard_time": 1764916822,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148414,
+        "num": 148414,
+        "word": "王子璇余承恩又有吻戏了",
+        "onboard_time": 1764917481,
+        "rank": 32,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154109,
+        "num": 148305,
+        "word": "刘嘉玲 宁静太早得志不考虑别人感受",
+        "onboard_time": 1764915141,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145969,
+        "num": 145969,
+        "word": "孙颖莎3比0胜米特兰姆",
+        "onboard_time": 1764916581,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 144292,
+        "num": 144292,
+        "word": "衣服成本价就在水洗标上",
+        "onboard_time": 1764906681,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 129067,
+        "num": 129067,
+        "word": "她的一天是小说都不敢写的程度",
+        "onboard_time": 1764913283,
+        "rank": 36,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 24998,
+        "num": 126528,
+        "word": "肖战跑到青筋暴起这段",
+        "onboard_time": 1764917542,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91963,
+        "num": 125670,
+        "word": "第一次感觉到我的命如此值钱",
+        "onboard_time": 1764916942,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 32512,
+        "num": 125335,
+        "word": "冲绳集会要求高市早苗谢罪",
+        "onboard_time": 1764917601,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 125092,
+        "num": 125092,
+        "word": "陈震同学的同学被禁言",
+        "onboard_time": 1764907101,
+        "rank": 40,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 122675,
+        "num": 122675,
+        "word": "周柯宇方回应国籍",
+        "onboard_time": 1764905480,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122182,
+        "num": 122182,
+        "word": "孟子义妈妈看孟子义的眼神",
+        "onboard_time": 1764911542,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88845,
+        "num": 122091,
+        "word": "秦岚王阳daddy妈咪级别",
+        "onboard_time": 1764916340,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 122055,
+        "num": 122055,
+        "word": "很多人意识不到气血是补不回来的",
+        "onboard_time": 1764917241,
+        "rank": 44,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 120697,
+        "num": 120697,
+        "word": "终于懂了为什么她是女主",
+        "onboard_time": 1764915503,
+        "rank": 45,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 117001,
+        "num": 117001,
+        "word": "杨瀚森20分7助攻7篮板",
+        "onboard_time": 1764911841,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 108205,
+        "num": 108205,
+        "word": "巴黎世家你想干啥啊",
+        "onboard_time": 1764915621,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 102684,
+        "num": 102684,
+        "word": "粉丝把助理认成杨幂",
+        "onboard_time": 1764909861,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 99740,
+        "num": 99740,
+        "word": "5只猫跑出了50只猫的效果",
+        "onboard_time": 1764911301,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中法在新甲子走得更稳更好#"
+    }
+  }
+}

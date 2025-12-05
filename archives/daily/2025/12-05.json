@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764916888254,
+  "endTime": 1764917718794,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -107,12 +107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 524717,
+      "raw_hot": 566640,
       "num": 524717,
       "word": "网红罗大美遗体已在太平间两年多",
       "onboard_time": 1764910701,
       "rank": 5,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 525952,
+      "num": 331596,
+      "word": "我决定以后每周五都请假",
+      "onboard_time": 1764913402,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 518110,
@@ -275,14 +283,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 331596,
-      "num": 331596,
-      "word": "我决定以后每周五都请假",
-      "onboard_time": 1764913402,
-      "rank": 44,
-      "category": "情感"
-    },
-    {
       "raw_hot": 321275,
       "num": 269241,
       "word": "王一博说我没办法给别人情绪价值",
@@ -371,6 +371,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 255153,
+      "num": 1140366,
+      "word": "王楚钦vs弗朗西斯卡",
+      "onboard_time": 1764912442,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 254377,
       "num": 160651,
       "word": "李嘉格直播男友出镜",
@@ -393,6 +401,14 @@
       "onboard_time": 1764893180,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 243238,
+      "num": 243238,
+      "word": "多明星上占道经营罚单文件连夜删除",
+      "onboard_time": 1764913462,
+      "rank": 23,
+      "category": "舆论监督,艺人"
     },
     {
       "raw_hot": 239450,
@@ -467,6 +483,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 216064,
+      "num": 216064,
+      "word": "小洛熙妈妈",
+      "onboard_time": 1764916640,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 214396,
       "num": 214396,
       "word": "詹姆斯连续得分上双纪录终结",
@@ -497,14 +521,6 @@
       "onboard_time": 1764910761,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 205634,
-      "num": 1140366,
-      "word": "王楚钦vs弗朗西斯卡",
-      "onboard_time": 1764912442,
-      "rank": 31,
-      "category": "体育"
     },
     {
       "raw_hot": 203236,
@@ -603,6 +619,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 182795,
+      "num": 182795,
+      "word": "Milkyway回应永久禁赛",
+      "onboard_time": 1764916581,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 181969,
       "num": 117962,
       "word": "网红王蓉仨娃妈卖货给粉丝送全家福",
@@ -617,6 +641,14 @@
       "onboard_time": 1764913283,
       "rank": 30,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 181016,
+      "num": 181016,
+      "word": "外卖平台集体声明",
+      "onboard_time": 1764916521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 180584,
@@ -715,14 +747,6 @@
       "category": "旅游"
     },
     {
-      "raw_hot": 164939,
-      "num": 164939,
-      "word": "小洛熙妈妈",
-      "onboard_time": 1764916640,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164793,
       "num": 164793,
       "word": "我赚钱方式的组成",
@@ -731,16 +755,16 @@
       "category": "情感"
     },
     {
-      "raw_hot": 164610,
-      "num": 164610,
-      "word": "多明星上占道经营罚单文件连夜删除",
-      "onboard_time": 1764913462,
-      "rank": 23,
-      "category": "舆论监督,艺人"
+      "raw_hot": 164200,
+      "num": 164200,
+      "word": "叶童说许仙是被白娘子蒙骗的",
+      "onboard_time": 1764914842,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 163795,
-      "num": 148887,
+      "num": 157086,
       "word": "普京说无权干涉中印关系",
       "onboard_time": 1764916041,
       "rank": 30,
@@ -803,6 +827,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 150939,
+      "num": 150939,
+      "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+      "onboard_time": 1764916822,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 150743,
       "num": 150743,
       "word": "摩尔线程最高飙涨超500%",
@@ -825,6 +857,14 @@
       "onboard_time": 1764911542,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148414,
+      "num": 148414,
+      "word": "王子璇余承恩又有吻戏了",
+      "onboard_time": 1764917481,
+      "rank": 32,
+      "category": "剧集"
     },
     {
       "raw_hot": 148023,
@@ -889,14 +929,6 @@
       "onboard_time": 1764903860,
       "rank": 31,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 137990,
-      "num": 137990,
-      "word": "Milkyway回应永久禁赛",
-      "onboard_time": 1764916581,
-      "rank": 32,
-      "category": "电竞"
     },
     {
       "raw_hot": 137410,
@@ -971,16 +1003,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 125898,
-      "num": 125898,
-      "word": "外卖平台集体声明",
-      "onboard_time": 1764916521,
-      "rank": 33,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 123078,
-      "num": 123078,
+      "num": 248638,
       "word": "中法元首非正式会晤",
       "onboard_time": 1764914241,
       "rank": 35,
@@ -1027,6 +1051,14 @@
       "category": "科学科普"
     },
     {
+      "raw_hot": 122055,
+      "num": 122055,
+      "word": "很多人意识不到气血是补不回来的",
+      "onboard_time": 1764917241,
+      "rank": 44,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 121685,
       "num": 121685,
       "word": "原来沈腾胡先煦说的是这个老丁头",
@@ -1043,8 +1075,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 120522,
-      "num": 120522,
+      "raw_hot": 120697,
+      "num": 120697,
       "word": "终于懂了为什么她是女主",
       "onboard_time": 1764915503,
       "rank": 36,
@@ -1115,14 +1147,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 114890,
-      "num": 114890,
-      "word": "叶童说许仙是被白娘子蒙骗的",
-      "onboard_time": 1764914842,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 114677,
       "num": 114677,
       "word": "蔡徐坤 PUBG",
@@ -1137,14 +1161,6 @@
       "onboard_time": 1764915921,
       "rank": 43,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 114208,
-      "num": 114208,
-      "word": "爱奇艺尖叫之夜破亿角色人形立牌",
-      "onboard_time": 1764916822,
-      "rank": 44,
-      "category": "综艺"
     },
     {
       "raw_hot": 114070,
@@ -1164,7 +1180,7 @@
     },
     {
       "raw_hot": 112081,
-      "num": 116185,
+      "num": 122091,
       "word": "秦岚王阳daddy妈咪级别",
       "onboard_time": 1764916340,
       "rank": 39,
@@ -1347,6 +1363,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 99049,
+      "num": 153483,
+      "word": "张柏芝宁静觉得一夜爆红蛮爽的",
+      "onboard_time": 1764917542,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 98882,
       "num": 98882,
       "word": "40岁后微胖才是长寿黄金体重",
@@ -1393,6 +1417,14 @@
       "onboard_time": 1764898879,
       "rank": 37,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 91963,
+      "num": 125670,
+      "word": "第一次感觉到我的命如此值钱",
+      "onboard_time": 1764916942,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 91373,
@@ -1716,7 +1748,7 @@
     },
     {
       "raw_hot": 56615,
-      "num": 225354,
+      "num": 231329,
       "word": "华为MateX7开售氛围火爆",
       "onboard_time": 1764913402,
       "rank": 40,
@@ -1915,6 +1947,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 35377,
+      "num": 546217,
+      "word": "赖清德当局无耻无聊又一恶举",
+      "onboard_time": 1764916462,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 34039,
       "num": 62220,
       "word": "得闲谨制微博观影团限时票选",
@@ -1929,6 +1969,14 @@
       "onboard_time": 1764900440,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 32512,
+      "num": 125335,
+      "word": "冲绳集会要求高市早苗谢罪",
+      "onboard_time": 1764917601,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 31875,
@@ -1963,6 +2011,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 27413,
+      "num": 224886,
+      "word": "入室抢婴案二审择期宣判",
+      "onboard_time": 1764916881,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 25781,
       "num": 138802,
       "word": "国产剧拍了年轻人的生长痛",
@@ -1977,6 +2033,14 @@
       "onboard_time": 1764869656,
       "rank": 47,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 24998,
+      "num": 126528,
+      "word": "肖战跑到青筋暴起这段",
+      "onboard_time": 1764917542,
+      "rank": 37,
+      "category": "电影"
     },
     {
       "raw_hot": 24706,
@@ -2041,14 +2105,6 @@
       "onboard_time": 1764868036,
       "rank": 42,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 14992,
-      "num": 546217,
-      "word": "赖清德当局无耻无聊又一恶举",
-      "onboard_time": 1764916462,
-      "rank": 12,
-      "category": "国内时政"
     },
     {
       "raw_hot": 12082,
