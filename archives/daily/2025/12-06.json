@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764960630104,
+  "endTime": 1764962646810,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -219,20 +219,20 @@
       "category": "电影"
     },
     {
+      "raw_hot": 99638,
+      "num": 111930,
+      "word": "狙击蝴蝶",
+      "onboard_time": 1764930681,
+      "rank": 25,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 97707,
       "num": 111845,
       "word": "香港通报火灾调查最新进展",
       "onboard_time": 1764945022,
       "rank": 24,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 94839,
-      "num": 111930,
-      "word": "狙击蝴蝶",
-      "onboard_time": 1764930681,
-      "rank": 25,
-      "category": "剧集"
     },
     {
       "raw_hot": 89549,
@@ -459,6 +459,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 32635,
+      "num": 35479,
+      "word": "经纪人写以犬之名辱骂张柏芝",
+      "onboard_time": 1764959895,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30489,
       "num": 36918,
       "word": "十人部落",
@@ -491,20 +499,20 @@
       "category": "网红"
     },
     {
-      "raw_hot": 22491,
-      "num": 35479,
-      "word": "经纪人写以犬之名辱骂张柏芝",
-      "onboard_time": 1764959895,
-      "rank": 35,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 21931,
       "num": 36771,
       "word": "陈震曾说逃税是最可耻的",
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 20289,
+      "num": 25480,
+      "word": "狙击蝴蝶李嘉格真人版",
+      "onboard_time": 1764960736,
+      "rank": 28,
+      "category": "剧集"
     }
   ],
   "hotgov_list": [
