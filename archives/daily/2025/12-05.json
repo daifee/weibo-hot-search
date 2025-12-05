@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764941938874,
+  "endTime": 1764942654536,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1796508,
-      "num": 334149,
+      "num": 405173,
       "word": "金晨 医美",
       "onboard_time": 1764934880,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1454772,
-      "num": 332707,
+      "num": 388156,
       "word": "金晨怎么变这样了",
       "onboard_time": 1764932002,
       "rank": 10,
@@ -140,7 +140,7 @@
     },
     {
       "raw_hot": 976648,
-      "num": 333261,
+      "num": 403325,
       "word": "陈哲远晒手术取出的钢钉",
       "onboard_time": 1764938242,
       "rank": 14,
@@ -177,6 +177,14 @@
       "onboard_time": 1764928702,
       "rank": 12,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 693053,
+      "num": 393178,
+      "word": "时代少年团卫衣 贵",
+      "onboard_time": 1764940703,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 678141,
@@ -260,7 +268,7 @@
     },
     {
       "raw_hot": 558950,
-      "num": 558950,
+      "num": 1084271,
       "word": "爱奇艺尖叫之夜",
       "onboard_time": 1764928702,
       "rank": 25,
@@ -323,20 +331,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 459442,
+      "num": 459442,
+      "word": "豆包手机 微信",
+      "onboard_time": 1764938122,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 456873,
       "num": 456873,
       "word": "周柯宇国籍变更",
       "onboard_time": 1764927502,
       "rank": 31,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 456194,
-      "num": 456194,
-      "word": "豆包手机 微信",
-      "onboard_time": 1764938122,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 447979,
@@ -353,6 +361,14 @@
       "onboard_time": 1764927261,
       "rank": 18,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 446266,
+      "num": 438568,
+      "word": "抽血显示怀孕子宫里却找不到胎儿",
+      "onboard_time": 1764939502,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 445411,
@@ -419,14 +435,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 422368,
-      "num": 331610,
-      "word": "时代少年团卫衣 贵",
-      "onboard_time": 1764940703,
-      "rank": 13,
-      "category": "作品衍生"
-    },
-    {
       "raw_hot": 421339,
       "num": 927737,
       "word": "马克龙访问四川大学",
@@ -465,6 +473,30 @@
       "onboard_time": 1764859522,
       "rank": 3,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 385892,
+      "num": 385892,
+      "word": "邹明轩14岁身高175cm",
+      "onboard_time": 1764938962,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 373137,
+      "num": 373137,
+      "word": "马克龙喊孙颖莎打乒乓球",
+      "onboard_time": 1764942022,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 370215,
+      "num": 370215,
+      "word": "张本智和生气了",
+      "onboard_time": 1764941060,
+      "rank": 24,
+      "category": "体育"
     },
     {
       "raw_hot": 368590,
@@ -547,28 +579,12 @@
       "category": "艺人,体育"
     },
     {
-      "raw_hot": 336875,
-      "num": 336875,
-      "word": "抽血显示怀孕子宫里却找不到胎儿",
-      "onboard_time": 1764939502,
-      "rank": 17,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 336548,
       "num": 336548,
       "word": "寻梦环游记2终于来了",
       "onboard_time": 1764892159,
       "rank": 5,
       "category": "电影"
-    },
-    {
-      "raw_hot": 331136,
-      "num": 331136,
-      "word": "邹明轩14岁身高175cm",
-      "onboard_time": 1764938962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 321275,
@@ -601,6 +617,14 @@
       "onboard_time": 1764900680,
       "rank": 5,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 288844,
+      "num": 288844,
+      "word": "杨幂 爽文",
+      "onboard_time": 1764940762,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 281777,
@@ -641,14 +665,6 @@
       "onboard_time": 1764923841,
       "rank": 7,
       "category": "体育"
-    },
-    {
-      "raw_hot": 271347,
-      "num": 271347,
-      "word": "杨幂 爽文",
-      "onboard_time": 1764940762,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 268392,
@@ -779,6 +795,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 236810,
+      "num": 236810,
+      "word": "孟子义李昀锐一起看代拍",
+      "onboard_time": 1764938901,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 236063,
       "num": 201845,
       "word": "黄圣依在大理酒馆唱歌",
@@ -857,14 +881,6 @@
       "onboard_time": 1764860061,
       "rank": 4,
       "category": "教育,民生新闻"
-    },
-    {
-      "raw_hot": 213953,
-      "num": 213953,
-      "word": "孟子义李昀锐一起看代拍",
-      "onboard_time": 1764938901,
-      "rank": 34,
-      "category": "剧集"
     },
     {
       "raw_hot": 213922,
@@ -1105,14 +1121,6 @@
       "onboard_time": 1764908121,
       "rank": 19,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 185013,
-      "num": 185013,
-      "word": "张本智和生气了",
-      "onboard_time": 1764941060,
-      "rank": 24,
-      "category": "体育"
     },
     {
       "raw_hot": 184798,
@@ -1484,7 +1492,7 @@
     },
     {
       "raw_hot": 149020,
-      "num": 139192,
+      "num": 144340,
       "word": "73岁的唐国强37岁的我自愧不如",
       "onboard_time": 1764939743,
       "rank": 30,
@@ -1657,6 +1665,14 @@
       "onboard_time": 1764908541,
       "rank": 36,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 133876,
+      "num": 133876,
+      "word": "京城大师赛",
+      "onboard_time": 1764942503,
+      "rank": 35,
+      "category": "游戏"
     },
     {
       "raw_hot": 133677,
@@ -1947,6 +1963,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118413,
+      "num": 118413,
+      "word": "法国总统马克龙与孙颖莎等互动",
+      "onboard_time": 1764942323,
+      "rank": 41,
+      "category": "国际时政,体育"
+    },
+    {
       "raw_hot": 117655,
       "num": 117655,
       "word": "雷军请网友提意见",
@@ -2132,7 +2156,7 @@
     },
     {
       "raw_hot": 107496,
-      "num": 336864,
+      "num": 416492,
       "word": "冬天起床不要太猛",
       "onboard_time": 1764898340,
       "rank": 28,
@@ -2265,6 +2289,14 @@
       "onboard_time": 1764920121,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102572,
+      "num": 102572,
+      "word": "张一山自曝曾无人约戏",
+      "onboard_time": 1764941842,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 102385,
@@ -2411,6 +2443,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 97790,
+      "num": 97790,
+      "word": "泰兰尼斯一双鞋1500是智商税吗",
+      "onboard_time": 1764942562,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97541,
       "num": 97541,
       "word": "饭后4个动作减脂又耗糖",
@@ -2528,14 +2568,6 @@
       "word": "都在香港偶遇黄景瑜",
       "onboard_time": 1764939082,
       "rank": 45,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 91923,
-      "num": 91923,
-      "word": "张一山自曝曾无人约戏",
-      "onboard_time": 1764941842,
-      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2657,6 +2689,14 @@
       "onboard_time": 1764907940,
       "rank": 47,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 85061,
+      "num": 327226,
+      "word": "别克世家内能停一辆车",
+      "onboard_time": 1764940522,
+      "rank": 18,
+      "category": "汽车"
     },
     {
       "raw_hot": 84512,
@@ -2841,14 +2881,6 @@
       "onboard_time": 1764901220,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 74254,
-      "num": 271523,
-      "word": "别克世家内能停一辆车",
-      "onboard_time": 1764940522,
-      "rank": 18,
-      "category": "汽车"
     },
     {
       "raw_hot": 73939,
@@ -3073,6 +3105,14 @@
       "onboard_time": 1764853341,
       "rank": 42,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 54093,
+      "num": 271407,
+      "word": "高市错误言论如不撤回将有哪些后患",
+      "onboard_time": 1764940821,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 53157,
@@ -3395,6 +3435,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 30828,
+      "num": 295791,
+      "word": "雅迪是电动车新国标起草单位之一",
+      "onboard_time": 1764942022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 30736,
       "num": 227116,
       "word": "更新饿了么APP有免单橙意礼",
@@ -3419,14 +3467,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 29777,
-      "num": 271407,
-      "word": "高市错误言论如不撤回将有哪些后患",
-      "onboard_time": 1764940821,
-      "rank": 19,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 28460,
       "num": 125223,
       "word": "三大航中日航线免费退改签延长",
@@ -3441,6 +3481,14 @@
       "onboard_time": 1764912262,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 27753,
+      "num": 119783,
+      "word": "外卖员称骑自行车都比那快",
+      "onboard_time": 1764941962,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 27413,
@@ -3666,6 +3714,9 @@
     },
     {
       "word": "#中法元首在成都进行友好交流#"
+    },
+    {
+      "word": "#习近平介绍都江堰历史和意义#"
     }
   ]
 }
