@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764891611121,
+  "endTime": 1764900169024,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -65,6 +65,14 @@
       "onboard_time": 1764757341,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1970748,
+      "num": 210160,
+      "word": "周柯宇 国籍",
+      "onboard_time": 1764897859,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 1925223,
@@ -233,6 +241,14 @@
       "onboard_time": 1764572122,
       "rank": 46,
       "category": "艺人,体育"
+    },
+    {
+      "raw_hot": 1347268,
+      "num": 1347268,
+      "word": "陈震多平台被禁言",
+      "onboard_time": 1764891560,
+      "rank": 1,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 1338523,
@@ -819,6 +835,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 659389,
+      "num": 659389,
+      "word": "陈震回应被全平台禁言",
+      "onboard_time": 1764899780,
+      "rank": 1,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 658503,
       "num": 333248,
       "word": "桃黑黑14件事的澄清与回应",
@@ -1049,6 +1073,14 @@
       "onboard_time": 1764599002,
       "rank": 16,
       "category": "电影"
+    },
+    {
+      "raw_hot": 577400,
+      "num": 577400,
+      "word": "中国夫妻的金发碧眼女儿鉴定为亲生",
+      "onboard_time": 1764896961,
+      "rank": 3,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 575001,
@@ -1787,6 +1819,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 428061,
+      "num": 155363,
+      "word": "李嘉格与男友初次见面主动邀约散步",
+      "onboard_time": 1764897799,
+      "rank": 20,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 427575,
       "num": 257806,
       "word": "温峥嵘删除声明",
@@ -1913,14 +1953,6 @@
       "onboard_time": 1764592282,
       "rank": 14,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 408064,
-      "num": 408064,
-      "word": "陈震多平台被禁言",
-      "onboard_time": 1764891560,
-      "rank": 1,
-      "category": "汽车,网红"
     },
     {
       "raw_hot": 403739,
@@ -2371,12 +2403,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 350810,
+      "num": 153092,
+      "word": "痞幼分手仅20天火速上恋综",
+      "onboard_time": 1764893059,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 350263,
       "num": 350263,
       "word": "和大冰连麦过的粉丝现状",
       "onboard_time": 1764733102,
       "rank": 41,
       "category": "网红"
+    },
+    {
+      "raw_hot": 350213,
+      "num": 350213,
+      "word": "饿了么APP已更新为淘宝闪购",
+      "onboard_time": 1764896781,
+      "rank": 4,
+      "category": "互联网"
     },
     {
       "raw_hot": 349201,
@@ -2412,7 +2460,7 @@
     },
     {
       "raw_hot": 347387,
-      "num": 192269,
+      "num": 274039,
       "word": "生育津贴成唐僧肉暴露规则漏洞",
       "onboard_time": 1764856223,
       "rank": 44,
@@ -2457,6 +2505,14 @@
       "onboard_time": 1764567442,
       "rank": 30,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 336548,
+      "num": 336548,
+      "word": "寻梦环游记2终于来了",
+      "onboard_time": 1764892159,
+      "rank": 5,
+      "category": "电影"
     },
     {
       "raw_hot": 336224,
@@ -3403,6 +3459,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 255552,
+      "num": 202259,
+      "word": "黄子韬徐艺洋cos尼克朱迪",
+      "onboard_time": 1764893601,
+      "rank": 12,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 255541,
       "num": 922971,
       "word": "张继科强调从未宣布退役",
@@ -3417,6 +3481,14 @@
       "onboard_time": 1764556760,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 254377,
+      "num": 126827,
+      "word": "李嘉格直播男友出镜",
+      "onboard_time": 1764898942,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 253978,
@@ -3491,6 +3563,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 243985,
+      "num": 196546,
+      "word": "年会上的李沁",
+      "onboard_time": 1764893180,
+      "rank": 13,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 243334,
       "num": 243334,
       "word": "王一博辛芷蕾聊啥呢",
@@ -3563,6 +3643,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 239450,
+      "num": 239450,
+      "word": "现在就出发",
+      "onboard_time": 1764862760,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238631,
       "num": 1390174,
       "word": "原神",
@@ -3617,6 +3705,14 @@
       "onboard_time": 1764678022,
       "rank": 13,
       "category": "电影"
+    },
+    {
+      "raw_hot": 236063,
+      "num": 192944,
+      "word": "黄圣依在大理酒馆唱歌",
+      "onboard_time": 1764896180,
+      "rank": 14,
+      "category": "艺人"
     },
     {
       "raw_hot": 235607,
@@ -3681,6 +3777,14 @@
       "onboard_time": 1764844281,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 231030,
+      "num": 231030,
+      "word": "陈震全网粉丝超2400万",
+      "onboard_time": 1764896300,
+      "rank": 8,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 231006,
@@ -3945,6 +4049,14 @@
       "onboard_time": 1764651621,
       "rank": 7,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 213922,
+      "num": 213922,
+      "word": "现在就出发投票",
+      "onboard_time": 1764894261,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 213141,
@@ -4331,6 +4443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 202920,
+      "num": 190594,
+      "word": "清华学生兼职家教被白嫖300元",
+      "onboard_time": 1764892639,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 202888,
       "num": 193408,
       "word": "杨紫将登上港版VOGUE封面",
@@ -4635,6 +4755,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190594,
+      "num": 190594,
+      "word": "齐达内晒和樊振东打乒乓照",
+      "onboard_time": 1764898760,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 190292,
       "num": 190292,
       "word": "新音 三亚",
@@ -4705,14 +4833,6 @@
       "onboard_time": 1764665301,
       "rank": 25,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 188109,
-      "num": 176159,
-      "word": "现在就出发",
-      "onboard_time": 1764862760,
-      "rank": 22,
-      "category": "综艺"
     },
     {
       "raw_hot": 187879,
@@ -4873,6 +4993,14 @@
       "onboard_time": 1764811821,
       "rank": 18,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183515,
+      "num": 152177,
+      "word": "当狗咖最后一个顾客走后",
+      "onboard_time": 1764891618,
+      "rank": 22,
+      "category": "幽默"
     },
     {
       "raw_hot": 182857,
@@ -5153,6 +5281,14 @@
       "onboard_time": 1764878714,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173572,
+      "num": 105899,
+      "word": "姐弟恋在家里好刺激",
+      "onboard_time": 1764898760,
+      "rank": 30,
+      "category": "剧集"
     },
     {
       "raw_hot": 173495,
@@ -5697,6 +5833,14 @@
       "onboard_time": 1764598104,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 160205,
+      "num": 160205,
+      "word": "摩尔线程",
+      "onboard_time": 1764899838,
+      "rank": 18,
+      "category": "财经"
     },
     {
       "raw_hot": 160099,
@@ -8227,6 +8371,14 @@
       "category": "情感,幽默"
     },
     {
+      "raw_hot": 117468,
+      "num": 117468,
+      "word": "终于知道为啥手工的东西贵了",
+      "onboard_time": 1764893420,
+      "rank": 26,
+      "category": "情感"
+    },
+    {
       "raw_hot": 117425,
       "num": 117425,
       "word": "陈少熙直播",
@@ -8931,6 +9083,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 107496,
+      "num": 107496,
+      "word": "冬天起床不要太猛",
+      "onboard_time": 1764898340,
+      "rank": 28,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 107458,
       "num": 106624,
       "word": "田曦薇新剧",
@@ -9051,6 +9211,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 106061,
+      "num": 106061,
+      "word": "村支书偷偷为全村交了8年保费",
+      "onboard_time": 1764899479,
+      "rank": 29,
+      "category": "正能量"
+    },
+    {
       "raw_hot": 105895,
       "num": 105895,
       "word": "胡歌说在吴磊身上看到了国际化",
@@ -9161,6 +9329,14 @@
       "onboard_time": 1764632539,
       "rank": 27,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 104850,
+      "num": 104850,
+      "word": "最近怎么这么干燥",
+      "onboard_time": 1764898999,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 104708,
@@ -9811,6 +9987,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 96216,
+      "num": 96216,
+      "word": "陈坤儿子23岁了",
+      "onboard_time": 1764898760,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 96184,
       "num": 124128,
       "word": "最期待提名白玉兰的电视剧",
@@ -10177,6 +10361,14 @@
       "onboard_time": 1764857602,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 91373,
+      "num": 91373,
+      "word": "这5类人请立刻停止热水泡脚",
+      "onboard_time": 1764893360,
+      "rank": 33,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 91351,
@@ -10587,6 +10779,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 85554,
+      "num": 591783,
+      "word": "买卖账号赚快钱已有人获刑",
+      "onboard_time": 1764895703,
+      "rank": 2,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 85543,
       "num": 228015,
       "word": "妻子婚内与人同居被判赔丈夫8000元",
@@ -10665,6 +10865,14 @@
       "onboard_time": 1764762560,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 83805,
+      "num": 83805,
+      "word": "刘雨辰黄雅琼中式婚礼",
+      "onboard_time": 1764897379,
+      "rank": 35,
+      "category": "体育"
     },
     {
       "raw_hot": 83569,
@@ -10793,6 +11001,22 @@
       "onboard_time": 1764684263,
       "rank": 48,
       "category": "辟谣/通报"
+    },
+    {
+      "raw_hot": 82180,
+      "num": 82180,
+      "word": "当有人问我今年存了多少",
+      "onboard_time": 1764895581,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 82099,
+      "num": 82099,
+      "word": "马克龙称此次访华之行很棒",
+      "onboard_time": 1764898879,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 82073,
@@ -10979,6 +11203,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 79217,
+      "num": 79217,
+      "word": "中国援助1亿美元推动加沙重建",
+      "onboard_time": 1764892099,
+      "rank": 38,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 79130,
       "num": 144851,
       "word": "艾滋病自愿咨询检测结果仅本人可查",
@@ -11123,12 +11355,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 77272,
+      "num": 77272,
+      "word": "吹得挺干的就是吹完浑身疼",
+      "onboard_time": 1764898459,
+      "rank": 40,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 77257,
       "num": 358017,
       "word": "黄土高原变绿了",
       "onboard_time": 1764507263,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 77065,
+      "num": 77065,
+      "word": "万达赎回一座万达广场释放什么信号",
+      "onboard_time": 1764891678,
+      "rank": 41,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 77037,
@@ -11275,12 +11523,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 74838,
+      "num": 74838,
+      "word": "世界黄金协会预计明年金价再涨30%",
+      "onboard_time": 1764899660,
+      "rank": 43,
+      "category": "财经"
+    },
+    {
       "raw_hot": 74723,
       "num": 124812,
       "word": "智界R7十万公里电池安全挑战",
       "onboard_time": 1764641121,
       "rank": 29,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 74615,
+      "num": 74615,
+      "word": "多睡10分钟vs多玩5分钟",
+      "onboard_time": 1764897740,
+      "rank": 44,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 74460,
+      "num": 74460,
+      "word": "研究生遗憾排行",
+      "onboard_time": 1764896540,
+      "rank": 45,
+      "category": "教育"
     },
     {
       "raw_hot": 74413,
@@ -11323,11 +11595,27 @@
       "category": "剧集,作品衍生"
     },
     {
+      "raw_hot": 73862,
+      "num": 73862,
+      "word": "德国又给高市早苗上了一课",
+      "onboard_time": 1764899540,
+      "rank": 46,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73824,
       "num": 73824,
       "word": "这么粗的尾巴一定非常凶猛吧",
       "onboard_time": 1764889217,
       "rank": 25,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 73086,
+      "num": 73086,
+      "word": "小猫也会嫌弃自己的脚臭",
+      "onboard_time": 1764891678,
+      "rank": 47,
       "category": "幽默"
     },
     {
@@ -11465,6 +11753,14 @@
       "onboard_time": 1764698895,
       "rank": 31,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 70309,
+      "num": 70309,
+      "word": "当结婚后和老公分居住",
+      "onboard_time": 1764891678,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 70210,
@@ -13755,6 +14051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22192,
+      "num": 159367,
+      "word": "哈里王子上脱口秀讥讽特朗普",
+      "onboard_time": 1764899360,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 21116,
       "num": 121470,
       "word": "小米辣涨至28元1斤",
@@ -13815,6 +14119,14 @@
       "num": 127329,
       "word": "郑州5岁男童传甲流致全家感染",
       "onboard_time": 1764685163,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19823,
+      "num": 77519,
+      "word": "副教授小区遇害案二审开庭",
+      "onboard_time": 1764899240,
       "rank": 39,
       "category": "民生新闻"
     },
