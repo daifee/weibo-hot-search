@@ -1,0 +1,410 @@
+{
+  "runTime": 1764920506516,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 877187,
+        "num": 1140349,
+        "word": "王楚钦1比2弗朗西斯卡",
+        "onboard_time": 1764918321,
+        "rank": 0,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 205707,
+        "num": 1132429,
+        "word": "八仙子",
+        "onboard_time": 1764919340,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4696,
+        "num": 1033601,
+        "word": "大国重器拯救大国重器",
+        "onboard_time": 1764820160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 191798,
+        "num": 984731,
+        "word": "国乒8比4德国",
+        "onboard_time": 1764919820,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 4068680,
+        "num": 913922,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 4,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 1187345,
+        "num": 882006,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 5,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 284376,
+        "num": 804584,
+        "word": "日本再将7800吨核污染水排海",
+        "onboard_time": 1764910522,
+        "rank": 6,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 152032,
+        "num": 783397,
+        "word": "世界之外",
+        "onboard_time": 1764913222,
+        "rank": 7,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 183179,
+        "num": 690304,
+        "word": "Milkyway回应永久禁赛",
+        "onboard_time": 1764916581,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112196,
+        "num": 630623,
+        "word": "现在就出发投票",
+        "onboard_time": 1764894261,
+        "rank": 9,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 628659,
+        "num": 628659,
+        "word": "王楚钦不敌对手",
+        "onboard_time": 1764918682,
+        "rank": 10,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 521651,
+        "num": 521651,
+        "word": "我决定以后每周五都请假",
+        "onboard_time": 1764913402,
+        "rank": 11,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 439063,
+        "num": 439063,
+        "word": "张凌赫自己都生不出这么像的",
+        "onboard_time": 1764908661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 396879,
+        "num": 396879,
+        "word": "很多人意识不到气血是补不回来的",
+        "onboard_time": 1764917241,
+        "rank": 13,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 960378,
+        "num": 396464,
+        "word": "小洛熙妈妈",
+        "onboard_time": 1764916640,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 385280,
+        "num": 385280,
+        "word": "叶童 你完全不尊重",
+        "onboard_time": 1764912983,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 324353,
+        "num": 324353,
+        "word": "陈梦黄晓明合照",
+        "onboard_time": 1764918620,
+        "rank": 16,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 309195,
+        "num": 309195,
+        "word": "周柯宇 国籍",
+        "onboard_time": 1764897859,
+        "rank": 17,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 286092,
+        "num": 286092,
+        "word": "雅迪电动车致歉",
+        "onboard_time": 1764919221,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 233390,
+        "num": 233390,
+        "word": "杨幂 我都僵硬了",
+        "onboard_time": 1764919521,
+        "rank": 19,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228107,
+        "num": 228107,
+        "word": "小酒窝给白鹿拼了拼豆",
+        "onboard_time": 1764919701,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 211826,
+        "num": 211826,
+        "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+        "onboard_time": 1764916822,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 199981,
+        "num": 199981,
+        "word": "何赛飞一直在发火",
+        "onboard_time": 1764919282,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 190887,
+        "num": 190887,
+        "word": "外卖平台集体声明",
+        "onboard_time": 1764916521,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229285,
+        "num": 185404,
+        "word": "杨幂热依扎活动拥抱",
+        "onboard_time": 1764918381,
+        "rank": 24,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 157420,
+        "num": 180854,
+        "word": "政府文件还要薅多少人名大全",
+        "onboard_time": 1764918981,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 179855,
+        "num": 179855,
+        "word": "向华强称为捧向佐亏了几个亿",
+        "onboard_time": 1764907821,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 177505,
+        "num": 177505,
+        "word": "陈震同学的同学",
+        "onboard_time": 1764904521,
+        "rank": 27,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 151676,
+        "num": 151676,
+        "word": "孙颖莎 这球就算擦网吧",
+        "onboard_time": 1764919581,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151640,
+        "num": 151640,
+        "word": "孙颖莎让一分照样赢",
+        "onboard_time": 1764919040,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 195260,
+        "num": 146918,
+        "word": "王楚钦梁靖崑11比2杜达邱党",
+        "onboard_time": 1764919701,
+        "rank": 30,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136214,
+        "num": 136214,
+        "word": "叶童说许仙是被白娘子蒙骗的",
+        "onboard_time": 1764914842,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133677,
+        "num": 133677,
+        "word": "肖战到达宜昌路演",
+        "onboard_time": 1764920002,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 122198,
+        "num": 122198,
+        "word": "王一博说我没办法给别人情绪价值",
+        "onboard_time": 1764908541,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120037,
+        "num": 120037,
+        "word": "李施嬅 上一个对猴这么耐心的是唐僧",
+        "onboard_time": 1764918140,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 116512,
+        "num": 116512,
+        "word": "多明星上占道经营罚单文件连夜删除",
+        "onboard_time": 1764913462,
+        "rank": 35,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 116281,
+        "num": 116281,
+        "word": "普京说无权干涉中印关系",
+        "onboard_time": 1764916041,
+        "rank": 36,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 41397,
+        "num": 114184,
+        "word": "女子乳腺癌晚期被骗85万救命钱",
+        "onboard_time": 1764920181,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20135,
+        "num": 112485,
+        "word": "怎么看家长让小孩站洗手池上小便",
+        "onboard_time": 1764919820,
+        "rank": 38,
+        "category": "议题讨论"
+      },
+      {
+        "raw_hot": 50704,
+        "num": 112395,
+        "word": "孙颖莎的暴挑永远看不腻",
+        "onboard_time": 1764920002,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 112368,
+        "num": 112368,
+        "word": "时代峰峻造星签约模式曝光",
+        "onboard_time": 1764910822,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 107034,
+        "num": 107034,
+        "word": "中法元首非正式会晤",
+        "onboard_time": 1764914241,
+        "rank": 41,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 102616,
+        "num": 102616,
+        "word": "喜人奇妙夜 好哭",
+        "onboard_time": 1764920121,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101694,
+        "num": 101694,
+        "word": "王者荣耀消失的东西",
+        "onboard_time": 1764920301,
+        "rank": 43,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 99180,
+        "num": 99180,
+        "word": "许光汉张轩睿被曝兄弟反目",
+        "onboard_time": 1764915503,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 98143,
+        "num": 98143,
+        "word": "林诗栋蒯曼0比7落后逆转",
+        "onboard_time": 1764919521,
+        "rank": 45,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92624,
+        "num": 92624,
+        "word": "国乒混团世界杯七连胜",
+        "onboard_time": 1764920421,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 92604,
+        "num": 92604,
+        "word": "衣服成本价就在水洗标上",
+        "onboard_time": 1764906681,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92491,
+        "num": 92491,
+        "word": "里夫斯44分绝杀猛龙",
+        "onboard_time": 1764920480,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74465,
+        "num": 91714,
+        "word": "日本特色白粥盖浇米饭",
+        "onboard_time": 1764918800,
+        "rank": 49,
+        "category": "海外新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中法在新甲子走得更稳更好#"
+    }
+  }
+}
