@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764923815379,
+  "endTime": 1764927036851,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -137,6 +137,14 @@
       "onboard_time": 1764723621,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1632037,
+      "num": 1632037,
+      "word": "抖音直播 禁止过度美颜",
+      "onboard_time": 1764922401,
+      "rank": 1,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 1605556,
@@ -515,6 +523,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 989538,
+      "num": 222441,
+      "word": "高考你没考吗 北大不包邮",
+      "onboard_time": 1764924202,
+      "rank": 10,
+      "category": "情感"
+    },
+    {
       "raw_hot": 983316,
       "num": 1157330,
       "word": "网信部门通报处置张雪峰",
@@ -796,7 +812,7 @@
     },
     {
       "raw_hot": 711598,
-      "num": 440966,
+      "num": 478852,
       "word": "男子存100万退休3年后剩105万",
       "onboard_time": 1764921921,
       "rank": 7,
@@ -1057,6 +1073,14 @@
       "onboard_time": 1764513022,
       "rank": 8,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 618856,
+      "num": 219968,
+      "word": "丁程鑫改了张国荣的歌词",
+      "onboard_time": 1764921200,
+      "rank": 27,
+      "category": "音乐"
     },
     {
       "raw_hot": 617946,
@@ -1571,6 +1595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 499933,
+      "num": 253380,
+      "word": "伊能静首尔做医美",
+      "onboard_time": 1764922581,
+      "rank": 21,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 496725,
       "num": 1079476,
       "word": "中俄就涉日本问题进行战略对表",
@@ -1649,6 +1681,14 @@
       "onboard_time": 1764729261,
       "rank": 3,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 481298,
+      "num": 481298,
+      "word": "雅迪毛豆车型",
+      "onboard_time": 1764923001,
+      "rank": 6,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 480183,
@@ -1883,14 +1923,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 441801,
-      "num": 441801,
-      "word": "抖音直播 禁止过度美颜",
-      "onboard_time": 1764922401,
-      "rank": 1,
-      "category": "互联网,网红"
-    },
-    {
       "raw_hot": 441578,
       "num": 339408,
       "word": "霍建华朱珠 好标准的男人和女人",
@@ -2089,6 +2121,14 @@
       "onboard_time": 1764642800,
       "rank": 22,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 421339,
+      "num": 421339,
+      "word": "马克龙访问四川大学",
+      "onboard_time": 1764922521,
+      "rank": 20,
+      "category": "国内时政,国际时政"
     },
     {
       "raw_hot": 420610,
@@ -2995,14 +3035,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 319860,
-      "num": 319860,
-      "word": "马克龙访问四川大学",
-      "onboard_time": 1764922521,
-      "rank": 20,
-      "category": "国内时政,国际时政"
-    },
-    {
       "raw_hot": 319739,
       "num": 256355,
       "word": "会化妆的人嘴真严啊",
@@ -3827,14 +3859,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 253380,
-      "num": 253380,
-      "word": "伊能静首尔做医美",
-      "onboard_time": 1764922581,
-      "rank": 21,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 253373,
       "num": 253373,
       "word": "尖叫之夜全员走心官宣",
@@ -4283,6 +4307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 225203,
+      "num": 225203,
+      "word": "王楚钦回应1比2弗朗西斯卡",
+      "onboard_time": 1764923841,
+      "rank": 7,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224651,
       "num": 224651,
       "word": "枭起青壤热度为什么上不去",
@@ -4691,19 +4723,19 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 206888,
+      "num": 206888,
+      "word": "杨幂身穿全套Prada",
+      "onboard_time": 1764925941,
+      "rank": 22,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 206886,
       "num": 227935,
       "word": "顾客买鞋子仅退款发AI图",
       "onboard_time": 1764590602,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 206477,
-      "num": 441185,
-      "word": "雅迪毛豆车型",
-      "onboard_time": 1764923001,
-      "rank": 6,
       "category": "民生新闻"
     },
     {
@@ -5009,6 +5041,14 @@
       "onboard_time": 1764761781,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199045,
+      "num": 199045,
+      "word": "国家铁路局原局长被双开",
+      "onboard_time": 1764925221,
+      "rank": 24,
+      "category": "国内时政"
     },
     {
       "raw_hot": 199018,
@@ -5497,6 +5537,14 @@
       "onboard_time": 1764561862,
       "rank": 9,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 184798,
+      "num": 184798,
+      "word": "具俊晔陪小S录跨年宣传片",
+      "onboard_time": 1764925042,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 184639,
@@ -6515,6 +6563,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 160042,
+      "num": 160042,
+      "word": "马克龙将在四川大学演讲",
+      "onboard_time": 1764926121,
+      "rank": 28,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 159898,
       "num": 159898,
       "word": "许昕直播全红婵是榜一",
@@ -6809,14 +6865,6 @@
       "onboard_time": 1764755842,
       "rank": 35,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 153479,
-      "num": 153479,
-      "word": "丁程鑫改了张国荣的歌词",
-      "onboard_time": 1764921200,
-      "rank": 27,
-      "category": "音乐"
     },
     {
       "raw_hot": 153375,
@@ -7217,6 +7265,14 @@
       "onboard_time": 1764648141,
       "rank": 9,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 146086,
+      "num": 146086,
+      "word": "李煜东官娃",
+      "onboard_time": 1764926061,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 145849,
@@ -7899,6 +7955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134410,
+      "num": 134410,
+      "word": "王皓安慰王楚钦",
+      "onboard_time": 1764925101,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 134350,
       "num": 829990,
       "word": "治沙人种下的10万株玫瑰长大了",
@@ -8137,6 +8201,14 @@
       "onboard_time": 1764572842,
       "rank": 33,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 131747,
+      "num": 210248,
+      "word": "妈妈的拼多多评价里全是我",
+      "onboard_time": 1764925821,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 131662,
@@ -9011,6 +9083,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 120836,
+      "num": 120836,
+      "word": "雅迪争议电动车已下架",
+      "onboard_time": 1764926540,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 120752,
       "num": 120752,
       "word": "邓为晒素颜自拍",
@@ -9505,6 +9585,14 @@
       "onboard_time": 1764680723,
       "rank": 46,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 116306,
+      "num": 223197,
+      "word": "调整保险公司相关业务风险因子",
+      "onboard_time": 1764926421,
+      "rank": 9,
+      "category": "财经,民生新闻"
     },
     {
       "raw_hot": 116114,
@@ -10227,6 +10315,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 106762,
+      "num": 106762,
+      "word": "周柯宇没见过父母几面",
+      "onboard_time": 1764924081,
+      "rank": 34,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 106634,
       "num": 99859,
       "word": "狙击蝴蝶处处吻",
@@ -10537,6 +10633,14 @@
       "onboard_time": 1764561801,
       "rank": 29,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 103532,
+      "num": 103532,
+      "word": "一进公司就能看到老板的族谱",
+      "onboard_time": 1764925941,
+      "rank": 40,
+      "category": "幽默"
     },
     {
       "raw_hot": 103303,
@@ -10899,6 +11003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 99741,
+      "num": 99741,
+      "word": "狙击蝴蝶第1集哇第4集哇塞",
+      "onboard_time": 1764926540,
+      "rank": 42,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 99606,
       "num": 99606,
       "word": "朱雀三号意外引爆香飘飘涨停",
@@ -10961,6 +11073,14 @@
       "onboard_time": 1764904160,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99119,
+      "num": 99119,
+      "word": "喜人奇妙夜2总决赛",
+      "onboard_time": 1764926902,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 99049,
@@ -11083,6 +11203,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 97541,
+      "num": 97541,
+      "word": "饭后4个动作减脂又耗糖",
+      "onboard_time": 1764925701,
+      "rank": 47,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 97520,
       "num": 167880,
       "word": "热巴30岁后对周围一切都好奇",
@@ -11121,6 +11249,14 @@
       "onboard_time": 1764811999,
       "rank": 35,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 97055,
+      "num": 99291,
+      "word": "Scout回到LCK谈JDG",
+      "onboard_time": 1764924261,
+      "rank": 43,
+      "category": "电竞"
     },
     {
       "raw_hot": 96818,
@@ -11729,6 +11865,14 @@
       "onboard_time": 1764814700,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90484,
+      "num": 90484,
+      "word": "这种肉能不能走出大学食堂",
+      "onboard_time": 1764924560,
+      "rank": 48,
+      "category": "美食"
     },
     {
       "raw_hot": 90332,
@@ -14403,6 +14547,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 43007,
+      "num": 105055,
+      "word": "劲酒回应被称为月经神仙水",
+      "onboard_time": 1764926481,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 42992,
       "num": 101006,
       "word": "周依然摸肖战脸镜头",
@@ -14441,6 +14593,14 @@
       "onboard_time": 1764714255,
       "rank": 35,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 42368,
+      "num": 104264,
+      "word": "李现喝假酒了吗",
+      "onboard_time": 1764925881,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 42222,
@@ -14681,6 +14841,14 @@
       "onboard_time": 1764777200,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 38808,
+      "num": 608342,
+      "word": "卫健委介绍节气与健康有关情况",
+      "onboard_time": 1764924624,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 38721,
@@ -15195,6 +15363,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 29105,
+      "num": 216068,
+      "word": "更新饿了么APP有免单橙意礼",
+      "onboard_time": 1764925821,
+      "rank": 14,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 28816,
       "num": 152129,
       "word": "109人的炒股群108个托",
@@ -15521,6 +15697,14 @@
       "onboard_time": 1764824482,
       "rank": 46,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 23409,
+      "num": 103729,
+      "word": "印度花20亿美元租赁俄核潜艇",
+      "onboard_time": 1764926001,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 23343,
@@ -15939,6 +16123,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14287,
+      "num": 105436,
+      "word": "男子因质问遛狗不牵绳被打案二审",
+      "onboard_time": 1764926481,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 13772,
       "num": 234332,
       "word": "开罗宣言发表82周年",
@@ -16123,6 +16315,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 7850,
+      "num": 163037,
+      "word": "骑手称电动车限速送单量可能减半",
+      "onboard_time": 1764926781,
+      "rank": 26,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7298,
       "num": 154014,
       "word": "灵隐寺免门票首日预约已满",
@@ -16192,6 +16392,9 @@
     },
     {
       "word": "#让中法在新甲子走得更稳更好#"
+    },
+    {
+      "word": "#习近平同马克龙举行非正式会晤#"
     }
   ]
 }
