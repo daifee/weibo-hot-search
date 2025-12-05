@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 20:55:47
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 21:09:27
 </p>
 </blockquote>
 <p>
@@ -567,6 +567,12 @@ G7凭什么对中国提3个不许（热度：1030362）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%99%92%E6%89%8B%E6%9C%AF%E5%8F%96%E5%87%BA%E7%9A%84%E9%92%A2%E9%92%89%23" target="weibo">
+陈哲远晒手术取出的钢钉（热度：814207）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3%E9%AB%98%E7%AE%A1%E7%96%91%E4%BC%BC%E9%9B%86%E4%BD%93%E9%81%AD%E9%81%87%E7%9F%AD%E4%BF%A1%E8%BD%B0%E7%82%B8%23" target="weibo">
 小米高管疑似集体遭遇短信轰炸（热度：805945）
 </a>
@@ -879,6 +885,12 @@ Uzi 复出（热度：686462）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%92%8C%E9%A9%AC%E5%85%8B%E9%BE%99%E6%89%93%E4%B9%92%E4%B9%93%E7%90%83%23" target="weibo">
+王楚钦和马克龙打乒乓球（热度：614968）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%AF%8F%E4%B8%AA%E5%AD%A9%E5%AD%90%E5%B8%A63%E6%96%A4%E4%BA%94%E8%8A%B1%E8%82%89%E5%8E%BB%E5%B9%BC%E5%84%BF%E5%9B%AD%23" target="weibo">
 每个孩子带3斤五花肉去幼儿园（热度：612624）
 </a>
@@ -941,12 +953,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%90%9D%E8%8E%89%E5%B2%9B%E8%B1%AA%E5%AE%85%E5%86%85%E6%8C%82%E8%AF%A1%E5%BC%82%E9%9D%A2%E5%85%B7%23" target="weibo">
 爱泼斯坦萝莉岛豪宅内挂诡异面具（热度：587224）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%8E%8B%E6%A5%9A%E9%92%A6%E5%92%8C%E9%A9%AC%E5%85%8B%E9%BE%99%E6%89%93%E4%B9%92%E4%B9%93%E7%90%83%23" target="weibo">
-王楚钦和马克龙打乒乓球（热度：587050）
 </a>
 </li>
 
@@ -1235,6 +1241,12 @@ BLG Viper（热度：551905）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%A2%AB%E6%80%A7%E6%81%8B%23" target="weibo">
 被性恋（热度：508174）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BC%85%E5%8C%97%E9%80%83%E8%B7%91%E5%A4%B1%E8%B4%A5%E8%A2%AB%E6%8E%B0%E6%96%AD%E6%89%8B%E6%8C%87%E8%84%9A%E8%B6%BE%23" target="weibo">
+小伙缅北逃跑失败被掰断手指脚趾（热度：506952）
 </a>
 </li>
 
@@ -2679,12 +2691,6 @@ Viper上线（热度：286982）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E5%93%B2%E8%BF%9C%E6%99%92%E6%89%8B%E6%9C%AF%E5%8F%96%E5%87%BA%E7%9A%84%E9%92%A2%E9%92%89%23" target="weibo">
-陈哲远晒手术取出的钢钉（热度：282861）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23Gala%E5%9C%A8iG%E9%98%9F%E5%86%85%E5%90%90%E9%9C%B2%E5%BF%83%E5%A3%B0%23" target="weibo">
 Gala在iG队内吐露心声（热度：282515）
 </a>
@@ -2693,12 +2699,6 @@ Gala在iG队内吐露心声（热度：282515）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%84%E7%BD%AE%E5%BC%A0%E9%9B%AA%E5%B3%B0%E7%AD%89%E8%B4%A6%E5%8F%B7%E6%98%AF%E4%B8%80%E6%AC%A1%E5%8F%8A%E6%97%B6%E7%A5%9B%E9%AD%85%23" target="weibo">
 处置张雪峰等账号是一次及时祛魅（热度：282481）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%B0%8F%E4%BC%99%E7%BC%85%E5%8C%97%E9%80%83%E8%B7%91%E5%A4%B1%E8%B4%A5%E8%A2%AB%E6%8E%B0%E6%96%AD%E6%89%8B%E6%8C%87%E8%84%9A%E8%B6%BE%23" target="weibo">
-小伙缅北逃跑失败被掰断手指脚趾（热度：282333）
 </a>
 </li>
 
@@ -2831,6 +2831,12 @@ LCK引入教练语音机制（热度：280680）
 <li>
 <a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%92%8C26%E5%B2%81%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%A7%23" target="weibo">
 21岁和26岁差距真的很大（热度：271043）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%20%E5%BE%AE%E4%BF%A1%23" target="weibo">
+豆包手机 微信（热度：269912）
 </a>
 </li>
 
@@ -3555,6 +3561,12 @@ iPad中国市场份额大跌（热度：230094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%82%B9%E6%98%8E%E8%BD%A914%E5%B2%81%E8%BA%AB%E9%AB%98175cm%23" target="weibo">
+邹明轩14岁身高175cm（热度：212093）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E9%92%A7%E7%94%AF%E5%9B%9E%E5%BA%94%E9%82%B1%E6%B3%BD%E8%AE%B8%E7%8E%AE%E7%94%AF%E7%BB%93%E5%A9%9A%23" target="weibo">
 张钧甯回应邱泽许玮甯结婚（热度：211874）
 </a>
@@ -4275,6 +4287,12 @@ vivo 女性用户（热度：186823）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AD%9F%E5%AD%90%E4%B9%89%E6%9D%8E%E6%98%80%E9%94%90%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%BB%A3%E6%8B%8D%23" target="weibo">
+孟子义李昀锐一起看代拍（热度：186079）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23Prada%E5%AE%98%E5%AE%A3%E6%9D%A8%E5%B9%82%23" target="weibo">
 Prada官宣杨幂（热度：185972）
 </a>
@@ -4719,6 +4737,12 @@ Angelababy后援会将恢复工作（热度：171002）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%8A%BD%E8%A1%80%E6%98%BE%E7%A4%BA%E6%80%80%E5%AD%95%E5%AD%90%E5%AE%AB%E9%87%8C%E5%8D%B4%E6%89%BE%E4%B8%8D%E5%88%B0%E8%83%8E%E5%84%BF%23" target="weibo">
+抽血显示怀孕子宫里却找不到胎儿（热度：170706）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%AF%E4%BD%A0%E5%90%97%E6%9D%8E%E7%8E%B0%23" target="weibo">
 是你吗李现（热度：170404）
 </a>
@@ -4905,6 +4929,12 @@ JDG宣布GALA入队（热度：169345）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E8%A6%81%E7%9C%81%E7%9D%80%E7%94%A8%E8%BA%AB%E4%BD%93%23" target="weibo">
+气血不足的人要省着用身体（热度：164841）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%88%91%E8%B5%9A%E9%92%B1%E6%96%B9%E5%BC%8F%E7%9A%84%E7%BB%84%E6%88%90%23" target="weibo">
 我赚钱方式的组成（热度：164793）
 </a>
@@ -4973,12 +5003,6 @@ JDG宣布GALA入队（热度：169345）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%98%B4%E9%98%B3%E5%B8%88%23" target="weibo">
 阴阳师（热度：162432）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%B0%94%E8%A1%80%E4%B8%8D%E8%B6%B3%E7%9A%84%E4%BA%BA%E8%A6%81%E7%9C%81%E7%9D%80%E7%94%A8%E8%BA%AB%E4%BD%93%23" target="weibo">
-气血不足的人要省着用身体（热度：162300）
 </a>
 </li>
 
@@ -5081,12 +5105,6 @@ Kanavi说要整顿队内纪律（热度：161786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B5%81%E6%84%9F%E7%97%85%E6%AF%92%E6%9C%89%E6%95%88%E8%8D%AF%E7%89%A9%23" target="weibo">
 流感病毒有效药物（热度：161238）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%20%E5%BE%AE%E4%BF%A1%23" target="weibo">
-豆包手机 微信（热度：161096）
 </a>
 </li>
 
@@ -5595,6 +5613,12 @@ Viper回应重返LPL（热度：154360）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%2373%E5%B2%81%E7%9A%84%E5%94%90%E5%9B%BD%E5%BC%BA37%E5%B2%81%E7%9A%84%E6%88%91%E8%87%AA%E6%84%A7%E4%B8%8D%E5%A6%82%23" target="weibo">
+73岁的唐国强37岁的我自愧不如（热度：149020）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E5%88%9A%E4%B8%80%E5%AE%A1%E8%A2%AB%E5%88%A415%E5%B9%B4%23" target="weibo">
 李刚一审被判15年（热度：148944）
 </a>
@@ -5987,30 +6011,6 @@ Rookie回应和jiejie争论（热度：143838）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B2%A1%E6%83%B3%E5%88%B0%E9%BB%84%E6%99%93%E6%98%8E%E4%B9%9F%E5%BC%80%E5%A7%8B%E8%B5%B0%E4%B8%AD%E5%BC%8F%E8%80%81%E9%92%B1%E9%A3%8E%E4%BA%86%23" target="weibo">
 没想到黄晓明也开始走中式老钱风了（热度：138558）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%8B%B1%E5%9B%BD%E5%A5%B3%E5%AD%90%E8%A2%AB%E8%AF%AF%E5%88%A4%E6%AD%BB%E4%BA%A1%E5%90%8E%E9%80%81%E8%BF%9B%E5%A4%AA%E5%B9%B3%E9%97%B4%23" target="weibo">
-英国女子被误判死亡后送进太平间（热度：138264）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E5%9B%A0%E5%90%B8%E6%AF%925%E5%B9%B4%E5%86%853%E6%AC%A1%E8%A2%AB%E6%9F%A5%E5%A4%84%23" target="weibo">
-男子因吸毒5年内3次被查处（热度：138166）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B9%E8%BF%99%E4%B8%80%E5%A5%97%E6%8D%A2%E4%B8%8B%E6%9D%A5%E6%88%91%E8%A6%81%E4%BC%91%E6%81%AF%E4%B8%80%E5%B9%B4%23" target="weibo">
-她这一套换下来我要休息一年（热度：138035）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E6%97%AD%E6%96%87%E9%A2%86%E5%A5%96%E5%8F%B0%E4%B8%8B%E9%83%BD%E5%9C%A8%E5%96%8A%E5%94%90%E7%8A%9F%E5%AE%97%23" target="weibo">
-杨旭文领奖台下都在喊唐犟宗（热度：137979）
 </a>
 </li>
 

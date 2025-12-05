@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764939347175,
+  "endTime": 1764940167907,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -739,6 +739,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 814207,
+      "num": 282861,
+      "word": "陈哲远晒手术取出的钢钉",
+      "onboard_time": 1764938242,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 805945,
       "num": 1403154,
       "word": "小米高管疑似集体遭遇短信轰炸",
@@ -1155,6 +1163,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 614968,
+      "num": 513001,
+      "word": "王楚钦和马克龙打乒乓球",
+      "onboard_time": 1764937102,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 612624,
       "num": 1096749,
       "word": "每个孩子带3斤五花肉去幼儿园",
@@ -1241,14 +1257,6 @@
       "onboard_time": 1764838461,
       "rank": 15,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 587050,
-      "num": 464270,
-      "word": "王楚钦和马克龙打乒乓球",
-      "onboard_time": 1764937102,
-      "rank": 4,
-      "category": "体育"
     },
     {
       "raw_hot": 583286,
@@ -1633,6 +1641,14 @@
       "onboard_time": 1764564504,
       "rank": 15,
       "category": "幽默,休闲"
+    },
+    {
+      "raw_hot": 506952,
+      "num": 506952,
+      "word": "小伙缅北逃跑失败被掰断手指脚趾",
+      "onboard_time": 1764935961,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 503633,
@@ -3555,14 +3571,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 282861,
-      "num": 282861,
-      "word": "陈哲远晒手术取出的钢钉",
-      "onboard_time": 1764938242,
-      "rank": 14,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 282515,
       "num": 675165,
       "word": "Gala在iG队内吐露心声",
@@ -3577,14 +3585,6 @@
       "onboard_time": 1764759861,
       "rank": 17,
       "category": "民生新闻,教育"
-    },
-    {
-      "raw_hot": 282333,
-      "num": 282333,
-      "word": "小伙缅北逃跑失败被掰断手指脚趾",
-      "onboard_time": 1764935961,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 282130,
@@ -3761,6 +3761,14 @@
       "onboard_time": 1764679823,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269912,
+      "num": 296863,
+      "word": "豆包手机 微信",
+      "onboard_time": 1764938122,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 268392,
@@ -4723,6 +4731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 212093,
+      "num": 212093,
+      "word": "邹明轩14岁身高175cm",
+      "onboard_time": 1764938962,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 211874,
       "num": 183387,
       "word": "张钧甯回应邱泽许玮甯结婚",
@@ -5683,6 +5699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 186079,
+      "num": 186079,
+      "word": "孟子义李昀锐一起看代拍",
+      "onboard_time": 1764938901,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 185972,
       "num": 476561,
       "word": "Prada官宣杨幂",
@@ -6275,6 +6299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170706,
+      "num": 211816,
+      "word": "抽血显示怀孕子宫里却找不到胎儿",
+      "onboard_time": 1764939502,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 170404,
       "num": 170404,
       "word": "是你吗李现",
@@ -6523,6 +6555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 164841,
+      "num": 164841,
+      "word": "气血不足的人要省着用身体",
+      "onboard_time": 1764932303,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 164793,
       "num": 164793,
       "word": "我赚钱方式的组成",
@@ -6617,14 +6657,6 @@
       "onboard_time": 1764911722,
       "rank": 29,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 162300,
-      "num": 162300,
-      "word": "气血不足的人要省着用身体",
-      "onboard_time": 1764932303,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 162286,
@@ -6761,14 +6793,6 @@
       "onboard_time": 1764646521,
       "rank": 34,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 161096,
-      "num": 296863,
-      "word": "豆包手机 微信",
-      "onboard_time": 1764938122,
-      "rank": 9,
-      "category": "数码"
     },
     {
       "raw_hot": 161011,
@@ -7441,6 +7465,14 @@
       "onboard_time": 1764749601,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 149020,
+      "num": 125729,
+      "word": "73岁的唐国强37岁的我自愧不如",
+      "onboard_time": 1764939743,
+      "rank": 30,
+      "category": "艺人"
     },
     {
       "raw_hot": 148944,
@@ -8619,6 +8651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 130939,
+      "num": 125610,
+      "word": "王橹杰propose求婚舞cha",
+      "onboard_time": 1764939261,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 130573,
       "num": 130573,
       "word": "情侣婚前先后坠楼身亡双方家属回应",
@@ -8761,14 +8801,6 @@
       "onboard_time": 1764804078,
       "rank": 9,
       "category": "体育"
-    },
-    {
-      "raw_hot": 128632,
-      "num": 128632,
-      "word": "邹明轩14岁身高175cm",
-      "onboard_time": 1764938962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 128464,
@@ -8979,12 +9011,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 125780,
+      "num": 125780,
+      "word": "2025LPL全明星公益日",
+      "onboard_time": 1764939681,
+      "rank": 29,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 125748,
       "num": 125748,
       "word": "安徽文旅让朱亚文别打合肥了",
       "onboard_time": 1764735082,
       "rank": 44,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 125577,
+      "num": 125577,
+      "word": "金晨自己化的妆",
+      "onboard_time": 1764939562,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 125540,
@@ -9155,14 +9203,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 123266,
-      "num": 123266,
-      "word": "孟子义李昀锐一起看代拍",
-      "onboard_time": 1764938901,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 123208,
       "num": 123208,
       "word": "从微信躲到微博 从大号躲到小号",
@@ -9177,6 +9217,14 @@
       "onboard_time": 1764918860,
       "rank": 35,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 123052,
+      "num": 238306,
+      "word": "马克龙在川大与学生握手开心到蹦起",
+      "onboard_time": 1764938422,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 122984,
@@ -9755,6 +9803,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118484,
+      "num": 118484,
+      "word": "周深哼了两句薛之谦眼睛都瞪大了",
+      "onboard_time": 1764936981,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 118480,
       "num": 164816,
       "word": "华为MateX7全色售罄",
@@ -10049,6 +10105,14 @@
       "onboard_time": 1764769823,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 115190,
+      "num": 115190,
+      "word": "TheShy和Rookie搭猫屋",
+      "onboard_time": 1764939681,
+      "rank": 42,
+      "category": "电竞"
     },
     {
       "raw_hot": 115145,
@@ -10363,6 +10427,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 111293,
+      "num": 113538,
+      "word": "主持人念了30秒花海的title",
+      "onboard_time": 1764939743,
+      "rank": 44,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 111259,
       "num": 111259,
       "word": "爱尔兰教师拒绝称呼男孩为女孩被解雇",
@@ -10417,14 +10489,6 @@
       "onboard_time": 1764826041,
       "rank": 49,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 110555,
-      "num": 110555,
-      "word": "周深哼了两句薛之谦眼睛都瞪大了",
-      "onboard_time": 1764936981,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 110420,
@@ -11331,6 +11395,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 101432,
+      "num": 113519,
+      "word": "原来学中医的理由可以这么治愈",
+      "onboard_time": 1764939443,
+      "rank": 45,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 101308,
       "num": 101308,
       "word": "张凌赫尖叫之夜大屏",
@@ -11353,6 +11425,14 @@
       "onboard_time": 1764737362,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 100938,
+      "num": 113504,
+      "word": "X平台被罚1.2亿欧元",
+      "onboard_time": 1764940043,
+      "rank": 46,
+      "category": "互联网"
     },
     {
       "raw_hot": 100855,
@@ -12155,14 +12235,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 92540,
-      "num": 110547,
-      "word": "王橹杰propose求婚舞cha",
-      "onboard_time": 1764939261,
-      "rank": 44,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 92501,
       "num": 92501,
       "word": "陈晓古装杀死了比赛",
@@ -12209,6 +12281,14 @@
       "onboard_time": 1764759562,
       "rank": 47,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 91945,
+      "num": 113433,
+      "word": "都在香港偶遇黄景瑜",
+      "onboard_time": 1764939082,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 91910,
@@ -12361,14 +12441,6 @@
       "onboard_time": 1764675382,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 90757,
-      "num": 110546,
-      "word": "都在香港偶遇黄景瑜",
-      "onboard_time": 1764939082,
-      "rank": 45,
-      "category": "艺人"
     },
     {
       "raw_hot": 90754,
@@ -13811,14 +13883,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 71055,
-      "num": 238306,
-      "word": "马克龙在川大与学生握手开心到蹦起",
-      "onboard_time": 1764938422,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 70941,
       "num": 80094,
       "word": "江西上饶一工地挖出一对石狮",
@@ -14449,6 +14513,14 @@
       "onboard_time": 1764510921,
       "rank": 42,
       "category": "情感"
+    },
+    {
+      "raw_hot": 57267,
+      "num": 211593,
+      "word": "云南一基地将水性杨花改名冰清玉洁",
+      "onboard_time": 1764939622,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 57232,
@@ -16865,6 +16937,14 @@
       "onboard_time": 1764619934,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 13098,
+      "num": 118496,
+      "word": "外卖平台促销成本自担不可转嫁",
+      "onboard_time": 1764939562,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 13047,
