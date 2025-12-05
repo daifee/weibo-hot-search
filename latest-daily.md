@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/06 00:35:28 ~ 2025/12/06 03:37:27
+本榜单时间：2025/12/06 00:35:28 ~ 2025/12/06 04:31:51
 </p>
 </blockquote>
 <p>
@@ -339,6 +339,12 @@ Prada官宣杨幂（热度：71670）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%86%99%E4%BB%A5%E7%8A%AC%E4%B9%8B%E5%90%8D%E8%BE%B1%E9%AA%82%E5%BC%A0%E6%9F%8F%E8%8A%9D%23" target="weibo">
+经纪人写以犬之名辱骂张柏芝（热度：45315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%90%B4%E5%8D%83%E8%AF%AD%E7%9B%B4%E6%92%AD%E6%97%B6%E8%B5%B6%E6%96%BD%E4%BC%AF%E9%9B%84%E8%B5%B0%23" target="weibo">
 吴千语直播时赶施伯雄走（热度：39463）
 </a>
@@ -353,12 +359,6 @@ Prada官宣杨幂（热度：71670）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%85%89%E4%B8%8E%E5%A4%9C%E4%B9%8B%E6%81%8B%23" target="weibo">
 光与夜之恋（热度：38950）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%86%99%E4%BB%A5%E7%8A%AC%E4%B9%8B%E5%90%8D%E8%BE%B1%E9%AA%82%E5%BC%A0%E6%9F%8F%E8%8A%9D%23" target="weibo">
-经纪人写以犬之名辱骂张柏芝（热度：37207）
 </a>
 </li>
 
@@ -395,6 +395,24 @@ Prada官宣杨幂（热度：71670）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%8B%99%E5%87%BB%E8%9D%B4%E8%9D%B6%E6%9D%8E%E5%98%89%E6%A0%BC%E7%9C%9F%E4%BA%BA%E7%89%88%23" target="weibo">
 狙击蝴蝶李嘉格真人版（热度：20289）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%83%AD%E4%BE%9D%E6%89%8E%E8%AE%A4%E8%AF%8624%E5%B9%B4%E4%BA%86%23" target="weibo">
+杨幂热依扎认识24年了（热度：13193）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9D%A6%E7%99%BD%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0%23" target="weibo">
+薛之谦坦白唱跳舞台（热度：11652）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E5%98%89%E5%B9%B4%E5%8D%8E%E4%BA%92%E5%8A%A8%E8%88%9E%E5%8F%B0%E5%98%89%E5%AE%BE%23" target="weibo">
+爱奇艺尖叫嘉年华互动舞台嘉宾（热度：11412）
 </a>
 </li>
 

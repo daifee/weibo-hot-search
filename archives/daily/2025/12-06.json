@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764963447281,
+  "endTime": 1764966711866,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -435,6 +435,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 45315,
+      "num": 35992,
+      "word": "经纪人写以犬之名辱骂张柏芝",
+      "onboard_time": 1764959895,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39463,
       "num": 59469,
       "word": "吴千语直播时赶施伯雄走",
@@ -457,14 +465,6 @@
       "onboard_time": 1764952879,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 37207,
-      "num": 35992,
-      "word": "经纪人写以犬之名辱骂张柏芝",
-      "onboard_time": 1764959895,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 30489,
@@ -508,11 +508,35 @@
     },
     {
       "raw_hot": 20289,
-      "num": 28345,
+      "num": 31883,
       "word": "狙击蝴蝶李嘉格真人版",
       "onboard_time": 1764960736,
       "rank": 28,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 13193,
+      "num": 30639,
+      "word": "杨幂热依扎认识24年了",
+      "onboard_time": 1764966554,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 11652,
+      "num": 30254,
+      "word": "薛之谦坦白唱跳舞台",
+      "onboard_time": 1764965534,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11412,
+      "num": 30077,
+      "word": "爱奇艺尖叫嘉年华互动舞台嘉宾",
+      "onboard_time": 1764964094,
+      "rank": 47,
+      "category": "综艺"
     }
   ],
   "hotgov_list": [

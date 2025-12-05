@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/06 03:37:27
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/06 04:31:51
 </p>
 </blockquote>
 <p>
@@ -14037,6 +14037,12 @@ GALA无愧于ADC之名（热度：53032）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%86%99%E4%BB%A5%E7%8A%AC%E4%B9%8B%E5%90%8D%E8%BE%B1%E9%AA%82%E5%BC%A0%E6%9F%8F%E8%8A%9D%23" target="weibo">
+经纪人写以犬之名辱骂张柏芝（热度：45315）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%B0%B4%E9%BE%99%E5%90%9F%E7%8C%AB%E7%9C%BC%E5%B9%B4%E6%A6%9C%E7%AC%AC4%23" target="weibo">
 水龙吟猫眼年榜第4（热度：45288）
 </a>
@@ -14537,12 +14543,6 @@ Jasper问应采儿陈小春帅还是我帅（热度：42016）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%9B%B7%E5%86%9B%E5%9B%9E%E5%BA%94%E5%B0%8F%E7%B1%B3YU7%E8%8E%B7%E4%B8%80%E7%BA%A7%E8%83%BD%E6%95%88%E8%AE%A4%E8%AF%81%23" target="weibo">
 雷军回应小米YU7获一级能效认证（热度：37285）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BB%8F%E7%BA%AA%E4%BA%BA%E5%86%99%E4%BB%A5%E7%8A%AC%E4%B9%8B%E5%90%8D%E8%BE%B1%E9%AA%82%E5%BC%A0%E6%9F%8F%E8%8A%9D%23" target="weibo">
-经纪人写以犬之名辱骂张柏芝（热度：37207）
 </a>
 </li>
 
@@ -15651,6 +15651,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%A8%E5%B9%82%E7%83%AD%E4%BE%9D%E6%89%8E%E8%AE%A4%E8%AF%8624%E5%B9%B4%E4%BA%86%23" target="weibo">
+杨幂热依扎认识24年了（热度：13193）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E5%B9%B3%E5%8F%B0%E4%BF%83%E9%94%80%E6%88%90%E6%9C%AC%E8%87%AA%E6%8B%85%E4%B8%8D%E5%8F%AF%E8%BD%AC%E5%AB%81%23" target="weibo">
 外卖平台促销成本自担不可转嫁（热度：13098）
 </a>
@@ -15729,6 +15735,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E8%96%9B%E4%B9%8B%E8%B0%A6%E5%9D%A6%E7%99%BD%E5%94%B1%E8%B7%B3%E8%88%9E%E5%8F%B0%23" target="weibo">
+薛之谦坦白唱跳舞台（热度：11652）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%99%BD%E9%B8%AD%E7%BB%92%E6%9A%B4%E6%B6%A8%E5%B1%A0%E5%AE%B0%E5%9C%BA1%E4%B8%AA%E6%9C%88%E6%8F%90%E4%BB%B73%E6%AC%A1%23" target="weibo">
 白鸭绒暴涨屠宰场1个月提价3次（热度：11641）
 </a>
@@ -15743,6 +15755,12 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%232024%E6%88%91%E5%9B%BD%E5%85%A8%E7%A4%BE%E4%BC%9A%E7%A0%94%E5%8F%91%E6%8A%95%E5%85%A5%E8%B6%853.6%E4%B8%87%E4%BA%BF%23" target="weibo">
 2024我国全社会研发投入超3.6万亿（热度：11592）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%88%B1%E5%A5%87%E8%89%BA%E5%B0%96%E5%8F%AB%E5%98%89%E5%B9%B4%E5%8D%8E%E4%BA%92%E5%8A%A8%E8%88%9E%E5%8F%B0%E5%98%89%E5%AE%BE%23" target="weibo">
+爱奇艺尖叫嘉年华互动舞台嘉宾（热度：11412）
 </a>
 </li>
 
