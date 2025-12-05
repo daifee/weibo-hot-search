@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764956605001,
+  "endTime": 1764959841866,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -339,6 +339,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 64183,
+      "num": 64183,
+      "word": "哈利波特等经典IP都归网飞了",
+      "onboard_time": 1764958334,
+      "rank": 12,
+      "category": "电影"
+    },
+    {
       "raw_hot": 62873,
       "num": 111391,
       "word": "气血不足的人要省着用身体",
@@ -451,12 +459,44 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 30489,
+      "num": 36918,
+      "word": "十人部落",
+      "onboard_time": 1764957796,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 27999,
       "num": 47763,
       "word": "大生意人1晚死了461个人",
       "onboard_time": 1764943583,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 26885,
+      "num": 36861,
+      "word": "张杰佛山演唱会",
+      "onboard_time": 1764958995,
+      "rank": 33,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 23863,
+      "num": 36840,
+      "word": "方圆日均睡五个小时",
+      "onboard_time": 1764959235,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
+      "raw_hot": 21931,
+      "num": 36771,
+      "word": "陈震曾说逃税是最可耻的",
+      "onboard_time": 1764958935,
+      "rank": 44,
+      "category": "民生新闻,汽车"
     }
   ],
   "hotgov_list": [
