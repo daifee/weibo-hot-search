@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764959841866,
+  "endTime": 1764960630104,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -16891,6 +16891,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 25672,
+      "num": 36840,
+      "word": "方圆日均睡五个小时",
+      "onboard_time": 1764959235,
+      "rank": 36,
+      "category": "网红"
+    },
+    {
       "raw_hot": 25655,
       "num": 36317,
       "word": "周深家里家外2主题曲",
@@ -17001,14 +17009,6 @@
       "onboard_time": 1764528015,
       "rank": 35,
       "category": "演出"
-    },
-    {
-      "raw_hot": 23863,
-      "num": 36840,
-      "word": "方圆日均睡五个小时",
-      "onboard_time": 1764959235,
-      "rank": 36,
-      "category": "网红"
     },
     {
       "raw_hot": 23707,
@@ -17145,6 +17145,14 @@
       "onboard_time": 1764926781,
       "rank": 26,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 22491,
+      "num": 35479,
+      "word": "经纪人写以犬之名辱骂张柏芝",
+      "onboard_time": 1764959895,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 22314,

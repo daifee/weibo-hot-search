@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764959841866,
+  "endTime": 1764960630104,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -483,12 +483,20 @@
       "category": "演出"
     },
     {
-      "raw_hot": 23863,
+      "raw_hot": 25672,
       "num": 36840,
       "word": "方圆日均睡五个小时",
       "onboard_time": 1764959235,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 22491,
+      "num": 35479,
+      "word": "经纪人写以犬之名辱骂张柏芝",
+      "onboard_time": 1764959895,
+      "rank": 35,
+      "category": "艺人"
     },
     {
       "raw_hot": 21931,
