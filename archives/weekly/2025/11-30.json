@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764945945548,
+  "endTime": 1764948670719,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -505,6 +505,14 @@
       "onboard_time": 1764479542,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 1107733,
+      "num": 260657,
+      "word": "张雪峰复播后仍污言秽语",
+      "onboard_time": 1764947003,
+      "rank": 5,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1107113,
@@ -1755,6 +1763,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 551399,
+      "num": 348220,
+      "word": "安徽一男子掉入草场粉碎机身亡",
+      "onboard_time": 1764943283,
+      "rank": 16,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 549066,
       "num": 209871,
       "word": "杨旭文辟谣的是恋情还是订婚",
@@ -1793,14 +1809,6 @@
       "onboard_time": 1764680723,
       "rank": 27,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 544451,
-      "num": 348220,
-      "word": "安徽一男子掉入草场粉碎机身亡",
-      "onboard_time": 1764943283,
-      "rank": 16,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 543614,
@@ -2825,6 +2833,14 @@
       "onboard_time": 1764499402,
       "rank": 12,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409260,
+      "num": 198907,
+      "word": "陈妍希周柯宇坐腿吻",
+      "onboard_time": 1764945983,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 408186,
@@ -4539,12 +4555,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 271684,
+      "num": 197579,
+      "word": "疑似主持人喊错张本智和的名字",
+      "onboard_time": 1764945920,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 271043,
       "num": 211292,
       "word": "21岁和26岁差距真的很大",
       "onboard_time": 1764679823,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 269150,
+      "num": 269150,
+      "word": "VOGUE预告",
+      "onboard_time": 1764946342,
+      "rank": 4,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 268392,
@@ -6691,6 +6723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 187922,
+      "num": 187922,
+      "word": "骄阳似我定档",
+      "onboard_time": 1764946702,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
@@ -6801,6 +6841,14 @@
       "onboard_time": 1764908961,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185981,
+      "num": 270474,
+      "word": "新生儿出生证明被盖死亡证明章",
+      "onboard_time": 1764945203,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185972,
@@ -6977,6 +7025,14 @@
       "onboard_time": 1764511641,
       "rank": 24,
       "category": "网红"
+    },
+    {
+      "raw_hot": 182406,
+      "num": 182406,
+      "word": "严浩翔别让霸总跳这些",
+      "onboard_time": 1764947543,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 182389,
@@ -7361,6 +7417,14 @@
       "onboard_time": 1764726981,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 173844,
+      "num": 173844,
+      "word": "鞠婧祎生图vs精修图",
+      "onboard_time": 1764947182,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 173799,
@@ -8595,6 +8659,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153578,
+      "num": 153578,
+      "word": "今天星期五",
+      "onboard_time": 1764947482,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
       "raw_hot": 153375,
       "num": 153375,
       "word": "欧阳娜娜妆造真的没有瓶颈期",
@@ -8625,6 +8697,14 @@
       "onboard_time": 1764664702,
       "rank": 47,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 153083,
+      "num": 153083,
+      "word": "内娱留给这位影帝的角色不多了",
+      "onboard_time": 1764946702,
+      "rank": 25,
+      "category": "电影"
     },
     {
       "raw_hot": 153071,
@@ -8864,6 +8944,14 @@
       "word": "28岁妈妈和3岁女儿失联1个月",
       "onboard_time": 1764733283,
       "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150259,
+      "num": 150259,
+      "word": "男子掉入粉碎机身亡",
+      "onboard_time": 1764948381,
+      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -9561,6 +9649,14 @@
       "onboard_time": 1764677662,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 138938,
+      "num": 138938,
+      "word": "陈妍希这46秒梦回13年前的沈佳宜",
+      "onboard_time": 1764946582,
+      "rank": 28,
+      "category": "剧集"
     },
     {
       "raw_hot": 138818,
@@ -10329,6 +10425,14 @@
       "onboard_time": 1764568041,
       "rank": 47,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131119,
+      "num": 131119,
+      "word": "王力宏扎了12月的第一刀",
+      "onboard_time": 1764947961,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 130939,
@@ -14315,6 +14419,14 @@
       "category": "健康医疗,休闲"
     },
     {
+      "raw_hot": 97342,
+      "num": 97342,
+      "word": "深圳公积金提取新规12月15日施行",
+      "onboard_time": 1764946222,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97288,
       "num": 97288,
       "word": "Viper曾帮陌生女生搬行李",
@@ -14481,6 +14593,14 @@
       "onboard_time": 1764841103,
       "rank": 49,
       "category": "母婴育儿,民生新闻"
+    },
+    {
+      "raw_hot": 96384,
+      "num": 270327,
+      "word": "国企通报高管KTV接受有偿陪侍",
+      "onboard_time": 1764944782,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 96353,
@@ -15571,14 +15691,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 86981,
-      "num": 270327,
-      "word": "国企通报高管KTV接受有偿陪侍",
-      "onboard_time": 1764944782,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 86912,
       "num": 86912,
       "word": "孙颖莎王楚钦走得像军训",
@@ -15689,6 +15801,14 @@
       "onboard_time": 1764726860,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85901,
+      "num": 96095,
+      "word": "原来蛋糕上的图案是这样做出来的",
+      "onboard_time": 1764946042,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 85882,
@@ -16179,6 +16299,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 81788,
+      "num": 324399,
+      "word": "朱一龙白月光在身边",
+      "onboard_time": 1764944602,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81781,
       "num": 110535,
       "word": "石宇奇提名国际最佳男运动员",
@@ -16249,6 +16377,14 @@
       "onboard_time": 1764663681,
       "rank": 29,
       "category": "时尚,数码"
+    },
+    {
+      "raw_hot": 81029,
+      "num": 96066,
+      "word": "侯鸿亮看肖战的眼神",
+      "onboard_time": 1764945502,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 81028,
@@ -17651,6 +17787,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 58261,
+      "num": 404436,
+      "word": "流感超过一周还有传染性吗",
+      "onboard_time": 1764941123,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 58222,
       "num": 131383,
       "word": "华为MateX7升级到底有多大",
@@ -17777,14 +17921,6 @@
       "onboard_time": 1764899360,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56354,
-      "num": 404436,
-      "word": "流感超过一周还有传染性吗",
-      "onboard_time": 1764941123,
-      "rank": 26,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 56249,
@@ -18129,14 +18265,6 @@
       "onboard_time": 1764861321,
       "rank": 19,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 51143,
-      "num": 324399,
-      "word": "朱一龙白月光在身边",
-      "onboard_time": 1764944602,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 51081,
@@ -18635,14 +18763,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43289,
-      "num": 270474,
-      "word": "新生儿出生证明被盖死亡证明章",
-      "onboard_time": 1764945203,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43270,
       "num": 223918,
       "word": "马克龙在成都主动与路人打招呼",
@@ -18721,6 +18841,14 @@
       "onboard_time": 1764414742,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 42384,
+      "num": 96083,
+      "word": "房子被大火烧光女子微笑与废墟合影",
+      "onboard_time": 1764947062,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 42368,
@@ -19369,6 +19497,14 @@
       "onboard_time": 1764679881,
       "rank": 39,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 33070,
+      "num": 151119,
+      "word": "公益项目受助名单照搬人名大全",
+      "onboard_time": 1764947062,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 33011,

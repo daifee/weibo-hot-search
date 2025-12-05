@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764945945548,
+  "endTime": 1764948670719,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -105,6 +105,14 @@
       "onboard_time": 1764905540,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1107733,
+      "num": 260657,
+      "word": "张雪峰复播后仍污言秽语",
+      "onboard_time": 1764947003,
+      "rank": 5,
+      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1079816,
@@ -299,7 +307,7 @@
       "category": "互联网,网红"
     },
     {
-      "raw_hot": 544451,
+      "raw_hot": 551399,
       "num": 348220,
       "word": "安徽一男子掉入草场粉碎机身亡",
       "onboard_time": 1764943283,
@@ -481,6 +489,14 @@
       "onboard_time": 1764945022,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 409260,
+      "num": 198907,
+      "word": "陈妍希周柯宇坐腿吻",
+      "onboard_time": 1764945983,
+      "rank": 11,
+      "category": "剧集"
     },
     {
       "raw_hot": 407881,
@@ -681,6 +697,22 @@
       "onboard_time": 1764923841,
       "rank": 7,
       "category": "体育"
+    },
+    {
+      "raw_hot": 271684,
+      "num": 197579,
+      "word": "疑似主持人喊错张本智和的名字",
+      "onboard_time": 1764945920,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 269150,
+      "num": 269150,
+      "word": "VOGUE预告",
+      "onboard_time": 1764946342,
+      "rank": 4,
+      "category": "时尚,作品衍生"
     },
     {
       "raw_hot": 268392,
@@ -1091,6 +1123,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 187922,
+      "num": 187922,
+      "word": "骄阳似我定档",
+      "onboard_time": 1764946702,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 187673,
       "num": 187673,
       "word": "八村垒绝杀猛龙",
@@ -1129,6 +1169,14 @@
       "onboard_time": 1764908961,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185981,
+      "num": 270474,
+      "word": "新生儿出生证明被盖死亡证明章",
+      "onboard_time": 1764945203,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 185972,
@@ -1177,6 +1225,14 @@
       "onboard_time": 1764891618,
       "rank": 22,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 182406,
+      "num": 182406,
+      "word": "严浩翔别让霸总跳这些",
+      "onboard_time": 1764947543,
+      "rank": 22,
+      "category": "演出"
     },
     {
       "raw_hot": 181969,
@@ -1248,6 +1304,14 @@
       "word": "鞠婧祎直播",
       "onboard_time": 1764937462,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 173844,
+      "num": 173844,
+      "word": "鞠婧祎生图vs精修图",
+      "onboard_time": 1764947182,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1475,6 +1539,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153578,
+      "num": 153578,
+      "word": "今天星期五",
+      "onboard_time": 1764947482,
+      "rank": 24,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 153083,
+      "num": 153083,
+      "word": "内娱留给这位影帝的角色不多了",
+      "onboard_time": 1764946702,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153071,
       "num": 153071,
       "word": "孟子义妈妈看孟子义的眼神",
@@ -1537,6 +1617,14 @@
       "onboard_time": 1764905480,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150259,
+      "num": 150259,
+      "word": "男子掉入粉碎机身亡",
+      "onboard_time": 1764948381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 149616,
@@ -1675,6 +1763,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138938,
+      "num": 138938,
+      "word": "陈妍希这46秒梦回13年前的沈佳宜",
+      "onboard_time": 1764946582,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 138818,
       "num": 138818,
       "word": "女子踩狗屎后用狗爪刮中1万元",
@@ -1801,6 +1897,14 @@
       "onboard_time": 1764928763,
       "rank": 43,
       "category": "军事"
+    },
+    {
+      "raw_hot": 131119,
+      "num": 131119,
+      "word": "王力宏扎了12月的第一刀",
+      "onboard_time": 1764947961,
+      "rank": 29,
+      "category": "演出"
     },
     {
       "raw_hot": 130939,
@@ -2088,6 +2192,14 @@
       "word": "林心如状态满40减20",
       "onboard_time": 1764906861,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 116971,
+      "num": 116971,
+      "word": "喜人奇妙夜",
+      "onboard_time": 1764947003,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -2587,6 +2699,14 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 97342,
+      "num": 97342,
+      "word": "深圳公积金提取新规12月15日施行",
+      "onboard_time": 1764946222,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 97275,
       "num": 121765,
       "word": "王一博专挑破包背",
@@ -2641,6 +2761,14 @@
       "onboard_time": 1764923960,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 96384,
+      "num": 270327,
+      "word": "国企通报高管KTV接受有偿陪侍",
+      "onboard_time": 1764944782,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 96005,
@@ -2771,14 +2899,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 86981,
-      "num": 270327,
-      "word": "国企通报高管KTV接受有偿陪侍",
-      "onboard_time": 1764944782,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 86908,
       "num": 86908,
       "word": "国乒vs德国",
@@ -2809,6 +2929,14 @@
       "onboard_time": 1764930803,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85901,
+      "num": 96095,
+      "word": "原来蛋糕上的图案是这样做出来的",
+      "onboard_time": 1764946042,
+      "rank": 46,
+      "category": "美食"
     },
     {
       "raw_hot": 85554,
@@ -2899,6 +3027,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 81788,
+      "num": 324399,
+      "word": "朱一龙白月光在身边",
+      "onboard_time": 1764944602,
+      "rank": 18,
+      "category": "电影"
+    },
+    {
       "raw_hot": 81781,
       "num": 110535,
       "word": "石宇奇提名国际最佳男运动员",
@@ -2913,6 +3049,14 @@
       "onboard_time": 1764844281,
       "rank": 24,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 81029,
+      "num": 96066,
+      "word": "侯鸿亮看肖战的眼神",
+      "onboard_time": 1764945502,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 80663,
@@ -3211,6 +3355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 58261,
+      "num": 404436,
+      "word": "流感超过一周还有传染性吗",
+      "onboard_time": 1764941123,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 56615,
       "num": 231329,
       "word": "华为MateX7开售氛围火爆",
@@ -3225,14 +3377,6 @@
       "onboard_time": 1764899360,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 56354,
-      "num": 404436,
-      "word": "流感超过一周还有传染性吗",
-      "onboard_time": 1764941123,
-      "rank": 26,
-      "category": "民生新闻,健康医疗"
     },
     {
       "raw_hot": 55447,
@@ -3305,14 +3449,6 @@
       "onboard_time": 1764853341,
       "rank": 45,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 51143,
-      "num": 324399,
-      "word": "朱一龙白月光在身边",
-      "onboard_time": 1764944602,
-      "rank": 18,
-      "category": "电影"
     },
     {
       "raw_hot": 50704,
@@ -3411,14 +3547,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 43289,
-      "num": 270474,
-      "word": "新生儿出生证明被盖死亡证明章",
-      "onboard_time": 1764945203,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 43270,
       "num": 223918,
       "word": "马克龙在成都主动与路人打招呼",
@@ -3432,6 +3560,14 @@
       "word": "劲酒回应被称为月经神仙水",
       "onboard_time": 1764926481,
       "rank": 37,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 42384,
+      "num": 96083,
+      "word": "房子被大火烧光女子微笑与废墟合影",
+      "onboard_time": 1764947062,
+      "rank": 47,
       "category": "民生新闻"
     },
     {
@@ -3577,6 +3713,14 @@
       "onboard_time": 1764900440,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 33070,
+      "num": 151119,
+      "word": "公益项目受助名单照搬人名大全",
+      "onboard_time": 1764947062,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32512,
