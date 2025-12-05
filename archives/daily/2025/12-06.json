@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764969973369,
+  "endTime": 1764970812599,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 127593,
-      "num": 131515,
+      "num": 176818,
       "word": "小伙缅北逃跑失败被掰断手指脚趾",
       "onboard_time": 1764935961,
       "rank": 18,
@@ -515,6 +515,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15640,
+      "num": 20128,
+      "word": "研究称宇宙大爆炸之前就有意识",
+      "onboard_time": 1764968054,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
+      "raw_hot": 14871,
+      "num": 20128,
+      "word": "张小斐团队里有梦女",
+      "onboard_time": 1764968413,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14846,
       "num": 34264,
       "word": "杨幂热依扎认识24年了",
@@ -523,20 +539,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14659,
-      "num": 20128,
-      "word": "张小斐团队里有梦女",
-      "onboard_time": 1764968413,
-      "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 13756,
-      "num": 20128,
-      "word": "研究称宇宙大爆炸之前就有意识",
-      "onboard_time": 1764968054,
-      "rank": 33,
-      "category": "科学科普"
+      "raw_hot": 11709,
+      "num": 20127,
+      "word": "酷酷的陈梦碰到了帅帅的哥",
+      "onboard_time": 1764968594,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 11652,
@@ -544,6 +552,14 @@
       "word": "薛之谦坦白唱跳舞台",
       "onboard_time": 1764965534,
       "rank": 44,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 11479,
+      "num": 20127,
+      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
+      "onboard_time": 1764967693,
+      "rank": 42,
       "category": "综艺"
     },
     {
@@ -555,23 +571,15 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 10965,
-      "num": 20127,
-      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
-      "onboard_time": 1764967693,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 10667,
-      "num": 20127,
-      "word": "酷酷的陈梦碰到了帅帅的哥",
-      "onboard_time": 1764968594,
+      "raw_hot": 11141,
+      "num": 20052,
+      "word": "减肥千万不要只吃水煮菜了",
+      "onboard_time": 1764970214,
       "rank": 44,
-      "category": "体育,艺人"
+      "category": "运动健身"
     },
     {
-      "raw_hot": 10274,
+      "raw_hot": 10637,
       "num": 20127,
       "word": "别克世家内能停一辆车",
       "onboard_time": 1764940522,

@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764969973369,
+  "endTime": 1764970812599,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -17483,6 +17483,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 15640,
+      "num": 20128,
+      "word": "研究称宇宙大爆炸之前就有意识",
+      "onboard_time": 1764968054,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 15471,
       "num": 78837,
       "word": "枭起青壤细节",
@@ -17515,19 +17523,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 14871,
+      "num": 20128,
+      "word": "张小斐团队里有梦女",
+      "onboard_time": 1764968413,
+      "rank": 29,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 14846,
       "num": 34264,
       "word": "杨幂热依扎认识24年了",
       "onboard_time": 1764966554,
       "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14659,
-      "num": 20128,
-      "word": "张小斐团队里有梦女",
-      "onboard_time": 1764968413,
-      "rank": 29,
       "category": "艺人"
     },
     {
@@ -17553,14 +17561,6 @@
       "onboard_time": 1764562822,
       "rank": 18,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 13756,
-      "num": 20128,
-      "word": "研究称宇宙大爆炸之前就有意识",
-      "onboard_time": 1764968054,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 13582,
@@ -17651,6 +17651,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 11709,
+      "num": 20127,
+      "word": "酷酷的陈梦碰到了帅帅的哥",
+      "onboard_time": 1764968594,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 11706,
       "num": 23853,
       "word": "古风发簪折纸教程",
@@ -17699,6 +17707,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 11479,
+      "num": 20127,
+      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
+      "onboard_time": 1764967693,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 11412,
       "num": 34246,
       "word": "爱奇艺尖叫嘉年华互动舞台嘉宾",
@@ -17731,6 +17747,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 11141,
+      "num": 20052,
+      "word": "减肥千万不要只吃水煮菜了",
+      "onboard_time": 1764970214,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 11043,
       "num": 19672,
       "word": "熊黑 永远怀疑永远被骗",
@@ -17739,28 +17763,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 10965,
-      "num": 20127,
-      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
-      "onboard_time": 1764967693,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 10814,
       "num": 414381,
       "word": "美好生活宪给你",
       "onboard_time": 1764943522,
       "rank": 2,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 10667,
-      "num": 20127,
-      "word": "酷酷的陈梦碰到了帅帅的哥",
-      "onboard_time": 1764968594,
-      "rank": 44,
-      "category": "体育,艺人"
     },
     {
       "raw_hot": 10266,
