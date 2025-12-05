@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764930641883,
+  "endTime": 1764931596953,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -19,7 +19,7 @@
       "category": "辟谣/通报,汽车"
     },
     {
-      "raw_hot": 2183320,
+      "raw_hot": 2286005,
       "num": 893964,
       "word": "官方通报孙俪李现等占道经营被处罚",
       "onboard_time": 1764927441,
@@ -139,6 +139,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 708037,
+      "num": 527251,
+      "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
+      "onboard_time": 1764928702,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 677571,
       "num": 677571,
       "word": "叶童 你完全不尊重",
@@ -203,14 +211,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 527251,
-      "num": 527251,
-      "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
-      "onboard_time": 1764928702,
-      "rank": 12,
-      "category": "音乐"
-    },
-    {
       "raw_hot": 518110,
       "num": 282662,
       "word": "衣服成本价就在水洗标上",
@@ -233,6 +233,14 @@
       "onboard_time": 1764922581,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 484931,
+      "num": 791304,
+      "word": "团播 美颜拉腿",
+      "onboard_time": 1764929782,
+      "rank": 7,
+      "category": "互联网,网红"
     },
     {
       "raw_hot": 481298,
@@ -355,6 +363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 398445,
+      "num": 220098,
+      "word": "月亮",
+      "onboard_time": 1764930381,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 397745,
       "num": 397745,
       "word": "日本高官公开道歉",
@@ -473,6 +489,14 @@
       "onboard_time": 1764900680,
       "rank": 5,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 281777,
+      "num": 212651,
+      "word": "小酒窝呕吐舞一出手就是专业的",
+      "onboard_time": 1764930322,
+      "rank": 41,
+      "category": "艺人"
     },
     {
       "raw_hot": 280066,
@@ -643,20 +667,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 231053,
+      "num": 231053,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1764928702,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 231030,
       "num": 231030,
       "word": "陈震全网粉丝超2400万",
       "onboard_time": 1764896300,
       "rank": 8,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 229573,
-      "num": 229573,
-      "word": "爱奇艺尖叫之夜",
-      "onboard_time": 1764928702,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 229285,
@@ -747,12 +771,12 @@
       "category": "作品衍生"
     },
     {
-      "raw_hot": 203735,
-      "num": 791304,
-      "word": "团播 美颜拉腿",
-      "onboard_time": 1764929782,
-      "rank": 7,
-      "category": "互联网,网红"
+      "raw_hot": 206454,
+      "num": 165672,
+      "word": "孙颖莎获年度最佳女运动员提名",
+      "onboard_time": 1764931222,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 203236,
@@ -971,14 +995,6 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 175732,
-      "num": 175732,
-      "word": "月亮",
-      "onboard_time": 1764930381,
-      "rank": 31,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173650,
       "num": 173650,
       "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
@@ -1171,6 +1187,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 151255,
+      "num": 1067847,
+      "word": "中国香港8比7法国",
+      "onboard_time": 1764927202,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 150743,
       "num": 150743,
       "word": "摩尔线程最高飙涨超500%",
@@ -1283,14 +1307,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 139723,
-      "num": 139723,
-      "word": "小酒窝呕吐舞一出手就是专业的",
-      "onboard_time": 1764930322,
-      "rank": 41,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 138818,
       "num": 138818,
       "word": "女子踩狗屎后用狗爪刮中1万元",
@@ -1299,12 +1315,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 137735,
-      "num": 1067847,
-      "word": "中国香港8比7法国",
-      "onboard_time": 1764927202,
-      "rank": 9,
-      "category": "体育"
+      "raw_hot": 137815,
+      "num": 137815,
+      "word": "A股行情",
+      "onboard_time": 1764930502,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 137410,
@@ -1313,6 +1329,14 @@
       "onboard_time": 1764913283,
       "rank": 43,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 135698,
+      "num": 141745,
+      "word": "得闲谨制 四个犟种坚决不改名字",
+      "onboard_time": 1764930081,
+      "rank": 38,
+      "category": "电影"
     },
     {
       "raw_hot": 134495,
@@ -1787,14 +1811,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 103828,
-      "num": 141745,
-      "word": "得闲谨制 四个犟种坚决不改名字",
-      "onboard_time": 1764930081,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 103644,
       "num": 103644,
       "word": "逆战未来",
@@ -1875,12 +1891,28 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 100444,
-      "num": 100444,
-      "word": "A股行情",
-      "onboard_time": 1764930502,
+      "raw_hot": 101577,
+      "num": 101577,
+      "word": "得闲谨制",
+      "onboard_time": 1764931522,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 101308,
+      "num": 101308,
+      "word": "张凌赫尖叫之夜大屏",
+      "onboard_time": 1764930620,
       "rank": 48,
-      "category": "财经"
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99879,
+      "num": 229611,
+      "word": "多品牌手机涨价上市",
+      "onboard_time": 1764928461,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 99741,
@@ -1937,6 +1969,14 @@
       "onboard_time": 1764905900,
       "rank": 38,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 97272,
+      "num": 248986,
+      "word": "墨西哥一球场附近现456袋人体残骸",
+      "onboard_time": 1764929181,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 97055,
@@ -2075,6 +2115,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87627,
+      "num": 476561,
+      "word": "Prada官宣杨幂",
+      "onboard_time": 1764929002,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 86908,
       "num": 86908,
       "word": "国乒vs德国",
@@ -2088,6 +2136,14 @@
       "word": "黄子韬刘耀文TF四代合照",
       "onboard_time": 1764900920,
       "rank": 40,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 86216,
+      "num": 134917,
+      "word": "刘同女装",
+      "onboard_time": 1764930803,
+      "rank": 39,
       "category": "综艺"
     },
     {
@@ -2129,14 +2185,6 @@
       "onboard_time": 1764897379,
       "rank": 35,
       "category": "体育"
-    },
-    {
-      "raw_hot": 83224,
-      "num": 476561,
-      "word": "Prada官宣杨幂",
-      "onboard_time": 1764929002,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 83112,
@@ -2403,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64953,
+      "num": 661614,
+      "word": "高市当局洗脑竟连儿童都不放过",
+      "onboard_time": 1764930022,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 63206,
       "num": 83717,
       "word": "淘宝崩了",
@@ -2441,14 +2497,6 @@
       "onboard_time": 1764847460,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 56760,
-      "num": 248986,
-      "word": "墨西哥一球场附近现456袋人体残骸",
-      "onboard_time": 1764929181,
-      "rank": 23,
-      "category": "海外新闻"
     },
     {
       "raw_hot": 56615,
@@ -2659,12 +2707,28 @@
       "category": "军事"
     },
     {
+      "raw_hot": 40966,
+      "num": 251367,
+      "word": "马克龙访华将影响中欧未来",
+      "onboard_time": 1764930381,
+      "rank": 22,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 40323,
       "num": 68264,
       "word": "拍出了迪丽热巴30岁最美的样子",
       "onboard_time": 1764891560,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40073,
+      "num": 141793,
+      "word": "山上彻也首次向安倍遗属道歉",
+      "onboard_time": 1764929901,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 39155,
@@ -2731,20 +2795,20 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 34042,
+      "num": 135071,
+      "word": "胖东来100万年薪招50岁以下专家",
+      "onboard_time": 1764931102,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 34039,
       "num": 62220,
       "word": "得闲谨制微博观影团限时票选",
       "onboard_time": 1764884294,
       "rank": 11,
       "category": "电影"
-    },
-    {
-      "raw_hot": 34000,
-      "num": 141793,
-      "word": "山上彻也首次向安倍遗属道歉",
-      "onboard_time": 1764929901,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 33560,
@@ -2939,14 +3003,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 15966,
-      "num": 661614,
-      "word": "高市当局洗脑竟连儿童都不放过",
-      "onboard_time": 1764930022,
-      "rank": 9,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 12082,
       "num": 17850,
       "word": "张小斐 时尚战绩",
@@ -2969,14 +3025,6 @@
       "onboard_time": 1764879734,
       "rank": 49,
       "category": "情感"
-    },
-    {
-      "raw_hot": 9728,
-      "num": 251367,
-      "word": "马克龙访华将影响中欧未来",
-      "onboard_time": 1764930381,
-      "rank": 22,
-      "category": "国际时政"
     },
     {
       "raw_hot": 9681,
