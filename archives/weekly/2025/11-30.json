@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764973612908,
+  "endTime": 1764974571340,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -20019,6 +20019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 27503,
+      "num": 27503,
+      "word": "减肥千万不要只吃水煮菜了",
+      "onboard_time": 1764970214,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 27413,
       "num": 224886,
       "word": "入室抢婴案二审择期宣判",
@@ -20147,6 +20155,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 25335,
+      "num": 34278,
+      "word": "狙击蝴蝶李嘉格真人版",
+      "onboard_time": 1764960736,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 25149,
       "num": 234630,
       "word": "在建大桥垮塌致2死3伤整改通报",
@@ -20236,7 +20252,7 @@
     },
     {
       "raw_hot": 24307,
-      "num": 24307,
+      "num": 25334,
       "word": "研究称宇宙大爆炸之前就有意识",
       "onboard_time": 1764968054,
       "rank": 33,
@@ -20475,6 +20491,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22193,
+      "num": 25334,
+      "word": "得闲谨制观影口碑",
+      "onboard_time": 1764973154,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 21931,
       "num": 36771,
       "word": "陈震曾说逃税是最可耻的",
@@ -20489,14 +20513,6 @@
       "onboard_time": 1764832042,
       "rank": 43,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 21024,
-      "num": 34278,
-      "word": "狙击蝴蝶李嘉格真人版",
-      "onboard_time": 1764960736,
-      "rank": 28,
-      "category": "剧集"
     },
     {
       "raw_hot": 20982,
@@ -20569,14 +20585,6 @@
       "onboard_time": 1764685163,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 19844,
-      "num": 24306,
-      "word": "减肥千万不要只吃水煮菜了",
-      "onboard_time": 1764970214,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 19823,
@@ -20707,12 +20715,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 17178,
+      "num": 25332,
+      "word": "酷酷的陈梦碰到了帅帅的哥",
+      "onboard_time": 1764968594,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
       "raw_hot": 17130,
       "num": 132269,
       "word": "疯狂动物城2反派是猫的原因",
       "onboard_time": 1764596422,
       "rank": 39,
       "category": "电影"
+    },
+    {
+      "raw_hot": 17112,
+      "num": 34264,
+      "word": "杨幂热依扎认识24年了",
+      "onboard_time": 1764966554,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 16873,
@@ -20723,12 +20747,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16796,
-      "num": 34264,
-      "word": "杨幂热依扎认识24年了",
-      "onboard_time": 1764966554,
-      "rank": 38,
-      "category": "艺人"
+      "raw_hot": 16527,
+      "num": 25332,
+      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
+      "onboard_time": 1764967693,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 16515,
@@ -20779,14 +20803,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 16196,
-      "num": 24300,
-      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
-      "onboard_time": 1764967693,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 16144,
       "num": 25991,
       "word": "日本搞事背后",
@@ -20795,28 +20811,12 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 15998,
-      "num": 24299,
-      "word": "酷酷的陈梦碰到了帅帅的哥",
-      "onboard_time": 1764968594,
-      "rank": 44,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 15909,
       "num": 222681,
       "word": "去世女硕士驻村干部好友发声",
       "onboard_time": 1764674842,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 15681,
-      "num": 24298,
-      "word": "得闲谨制观影口碑",
-      "onboard_time": 1764973154,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 15669,
@@ -20865,6 +20865,14 @@
       "onboard_time": 1764968413,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14698,
+      "num": 25331,
+      "word": "金晨回应配音疯狂动物城",
+      "onboard_time": 1764973996,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 14588,

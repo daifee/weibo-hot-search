@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764973612908,
+  "endTime": 1764974571340,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 127593,
-      "num": 378853,
+      "num": 467163,
       "word": "小伙缅北逃跑失败被掰断手指脚趾",
       "onboard_time": 1764935961,
       "rank": 18,
@@ -403,6 +403,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 48159,
+      "num": 48159,
+      "word": "大生意人1晚死了461个人",
+      "onboard_time": 1764943583,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 47072,
       "num": 97483,
       "word": "白鲨止步小组赛",
@@ -443,14 +451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 44750,
-      "num": 47763,
-      "word": "大生意人1晚死了461个人",
-      "onboard_time": 1764943583,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 39463,
       "num": 59469,
       "word": "吴千语直播时赶施伯雄走",
@@ -483,6 +483,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 27503,
+      "num": 27503,
+      "word": "减肥千万不要只吃水煮菜了",
+      "onboard_time": 1764970214,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
       "raw_hot": 26885,
       "num": 36861,
       "word": "张杰佛山演唱会",
@@ -499,12 +507,28 @@
       "category": "网红"
     },
     {
+      "raw_hot": 25335,
+      "num": 34278,
+      "word": "狙击蝴蝶李嘉格真人版",
+      "onboard_time": 1764960736,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 24307,
-      "num": 24307,
+      "num": 25334,
       "word": "研究称宇宙大爆炸之前就有意识",
       "onboard_time": 1764968054,
       "rank": 33,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 22193,
+      "num": 25334,
+      "word": "得闲谨制观影口碑",
+      "onboard_time": 1764973154,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 21931,
@@ -515,23 +539,15 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 21024,
-      "num": 34278,
-      "word": "狙击蝴蝶李嘉格真人版",
-      "onboard_time": 1764960736,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 19844,
-      "num": 24306,
-      "word": "减肥千万不要只吃水煮菜了",
-      "onboard_time": 1764970214,
+      "raw_hot": 17178,
+      "num": 25332,
+      "word": "酷酷的陈梦碰到了帅帅的哥",
+      "onboard_time": 1764968594,
       "rank": 44,
-      "category": "运动健身"
+      "category": "体育,艺人"
     },
     {
-      "raw_hot": 16796,
+      "raw_hot": 17112,
       "num": 34264,
       "word": "杨幂热依扎认识24年了",
       "onboard_time": 1764966554,
@@ -539,28 +555,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 16196,
-      "num": 24300,
+      "raw_hot": 16527,
+      "num": 25332,
       "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
       "onboard_time": 1764967693,
       "rank": 42,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 15998,
-      "num": 24299,
-      "word": "酷酷的陈梦碰到了帅帅的哥",
-      "onboard_time": 1764968594,
-      "rank": 44,
-      "category": "体育,艺人"
-    },
-    {
-      "raw_hot": 15681,
-      "num": 24298,
-      "word": "得闲谨制观影口碑",
-      "onboard_time": 1764973154,
-      "rank": 41,
-      "category": "电影"
     },
     {
       "raw_hot": 14871,
@@ -569,6 +569,14 @@
       "onboard_time": 1764968413,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 14698,
+      "num": 25331,
+      "word": "金晨回应配音疯狂动物城",
+      "onboard_time": 1764973996,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 11652,

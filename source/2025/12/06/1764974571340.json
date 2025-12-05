@@ -1,0 +1,410 @@
+{
+  "runTime": 1764974571340,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 72115,
+        "num": 467163,
+        "word": "小伙缅北逃跑失败被掰断手指脚趾",
+        "onboard_time": 1764935961,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 48159,
+        "num": 48159,
+        "word": "大生意人1晚死了461个人",
+        "onboard_time": 1764943583,
+        "rank": 1,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 21144,
+        "num": 47891,
+        "word": "流感超过一周还有传染性吗",
+        "onboard_time": 1764941123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 109172,
+        "num": 47446,
+        "word": "柬埔寨公主大婚",
+        "onboard_time": 1764953899,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 17513,
+        "num": 46940,
+        "word": "VOGUE预告",
+        "onboard_time": 1764946342,
+        "rank": 4,
+        "category": "时尚,作品衍生"
+      },
+      {
+        "raw_hot": 226467,
+        "num": 46376,
+        "word": "张雪峰复播后仍污言秽语",
+        "onboard_time": 1764947003,
+        "rank": 5,
+        "category": "教育,民生新闻"
+      },
+      {
+        "raw_hot": 147594,
+        "num": 46204,
+        "word": "张本智和一直站在原地不动",
+        "onboard_time": 1764952999,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 104321,
+        "num": 45764,
+        "word": "陈妍希周柯宇坐腿吻",
+        "onboard_time": 1764945983,
+        "rank": 7,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 53391,
+        "num": 45265,
+        "word": "抽血显示怀孕子宫里却找不到胎儿",
+        "onboard_time": 1764939502,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51468,
+        "num": 44792,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 9,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 166070,
+        "num": 44428,
+        "word": "男子掉入粉碎机身亡",
+        "onboard_time": 1764948381,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 63488,
+        "num": 43837,
+        "word": "阻挠中国出席G7峰会日本想多了",
+        "onboard_time": 1764948681,
+        "rank": 11,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 49917,
+        "num": 43482,
+        "word": "新生儿出生证明被盖死亡证明章",
+        "onboard_time": 1764945203,
+        "rank": 12,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 43222,
+        "num": 43222,
+        "word": "马克龙喊孙颖莎打乒乓球",
+        "onboard_time": 1764942022,
+        "rank": 13,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34030,
+        "num": 34030,
+        "word": "陈震用空壳工作室偷税",
+        "onboard_time": 1764935422,
+        "rank": 14,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 32129,
+        "num": 32129,
+        "word": "经纪人写以犬之名辱骂张柏芝",
+        "onboard_time": 1764959895,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 31376,
+        "num": 31376,
+        "word": "陈妍希这46秒梦回13年前的沈佳宜",
+        "onboard_time": 1764946582,
+        "rank": 16,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 31019,
+        "num": 31019,
+        "word": "国企通报高管KTV接受有偿陪侍",
+        "onboard_time": 1764944782,
+        "rank": 17,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 30974,
+        "num": 30974,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 18,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 30800,
+        "num": 30800,
+        "word": "骄阳似我定档",
+        "onboard_time": 1764946702,
+        "rank": 19,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 83317,
+        "num": 30177,
+        "word": "阚清子下台阶老公贴心搀扶",
+        "onboard_time": 1764949761,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 30857,
+        "num": 29818,
+        "word": "气血不足的人要省着用身体",
+        "onboard_time": 1764932303,
+        "rank": 21,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 29455,
+        "num": 29455,
+        "word": "邹明轩14岁身高175cm",
+        "onboard_time": 1764938962,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 27890,
+        "num": 27890,
+        "word": "张本智和生气了",
+        "onboard_time": 1764941060,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 27503,
+        "num": 27503,
+        "word": "减肥千万不要只吃水煮菜了",
+        "onboard_time": 1764970214,
+        "rank": 24,
+        "category": "运动健身"
+      },
+      {
+        "raw_hot": 25335,
+        "num": 25335,
+        "word": "狙击蝴蝶李嘉格真人版",
+        "onboard_time": 1764960736,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 23350,
+        "num": 25335,
+        "word": "有手机已进入负毛利状态",
+        "onboard_time": 1764948861,
+        "rank": 26,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 22936,
+        "num": 25335,
+        "word": "肖战让小朋友别喊哥哥喊叔叔",
+        "onboard_time": 1764934880,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 22149,
+        "num": 25334,
+        "word": "原来蛋糕上的图案是这样做出来的",
+        "onboard_time": 1764946042,
+        "rank": 28,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 22193,
+        "num": 25334,
+        "word": "得闲谨制观影口碑",
+        "onboard_time": 1764973154,
+        "rank": 29,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 48126,
+        "num": 25334,
+        "word": "马克龙夫人认出在法出生的熊猫胖了",
+        "onboard_time": 1764949221,
+        "rank": 30,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 21863,
+        "num": 25334,
+        "word": "香港通报火灾调查最新进展",
+        "onboard_time": 1764945022,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20634,
+        "num": 25334,
+        "word": "研究称宇宙大爆炸之前就有意识",
+        "onboard_time": 1764968054,
+        "rank": 32,
+        "category": "科学科普"
+      },
+      {
+        "raw_hot": 20228,
+        "num": 25334,
+        "word": "安徽一男子掉入草场粉碎机身亡",
+        "onboard_time": 1764943283,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 20052,
+        "num": 25333,
+        "word": "爱奇艺尖叫之夜",
+        "onboard_time": 1764928702,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 19702,
+        "num": 25333,
+        "word": "马克龙在川大与学生握手开心到蹦起",
+        "onboard_time": 1764938422,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 19060,
+        "num": 25333,
+        "word": "杨幂 爽文",
+        "onboard_time": 1764940762,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 17256,
+        "num": 25333,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764930681,
+        "rank": 37,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17178,
+        "num": 25332,
+        "word": "酷酷的陈梦碰到了帅帅的哥",
+        "onboard_time": 1764968594,
+        "rank": 38,
+        "category": "体育,艺人"
+      },
+      {
+        "raw_hot": 16681,
+        "num": 25332,
+        "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
+        "onboard_time": 1764928702,
+        "rank": 39,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 16679,
+        "num": 25332,
+        "word": "尚公主",
+        "onboard_time": 1764944064,
+        "rank": 40,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 17112,
+        "num": 25332,
+        "word": "杨幂热依扎认识24年了",
+        "onboard_time": 1764966554,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 16527,
+        "num": 25332,
+        "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
+        "onboard_time": 1764967693,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 16491,
+        "num": 25331,
+        "word": "金晨自己化的妆",
+        "onboard_time": 1764939562,
+        "rank": 43,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15868,
+        "num": 25331,
+        "word": "周柯宇国籍变更",
+        "onboard_time": 1764927502,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 15473,
+        "num": 25331,
+        "word": "光与夜之恋",
+        "onboard_time": 1764952879,
+        "rank": 45,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 14786,
+        "num": 25331,
+        "word": "方圆日均睡五个小时",
+        "onboard_time": 1764959235,
+        "rank": 46,
+        "category": "网红"
+      },
+      {
+        "raw_hot": 14698,
+        "num": 25331,
+        "word": "金晨回应配音疯狂动物城",
+        "onboard_time": 1764973996,
+        "rank": 47,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 13760,
+        "num": 25330,
+        "word": "陈震曾说逃税是最可耻的",
+        "onboard_time": 1764958935,
+        "rank": 48,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 13645,
+        "num": 25330,
+        "word": "给自己营造一个有益的舒适圈",
+        "onboard_time": 1764952221,
+        "rank": 49,
+        "category": "情感"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平介绍都江堰历史和意义#"
+    }
+  }
+}
