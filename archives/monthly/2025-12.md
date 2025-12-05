@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 22:29:35
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 22:45:45
 </p>
 </blockquote>
 <p>
@@ -1131,6 +1131,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E4%B8%80%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E8%8D%89%E5%9C%BA%E7%B2%89%E7%A2%8E%E6%9C%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
+安徽一男子掉入草场粉碎机身亡（热度：544451）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E8%8F%B2%E5%BE%8B%E5%AE%BE%E5%8B%BE%E7%BB%93%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%8F%8D%E5%8D%8E%23" target="weibo">
 菲律宾勾结高市早苗反华（热度：543614）
 </a>
@@ -1749,6 +1755,12 @@ BLG Viper（热度：551905）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E9%80%9A%E6%8A%A5%E7%81%AB%E7%81%BE%E8%B0%83%E6%9F%A5%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
+香港通报火灾调查最新进展（热度：418303）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%9B%96%E7%91%9E%20%E6%95%96%E4%B8%99%23" target="weibo">
 盖瑞 敖丙（热度：418070）
 </a>
@@ -2183,12 +2195,6 @@ iG 0等五（热度：365253）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23vivo%E5%9B%9E%E5%BA%94%E7%9B%B4%E6%92%AD%E9%97%B4%E9%A3%8E%E6%B3%A2%23" target="weibo">
 vivo回应直播间风波（热度：348356）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AE%89%E5%BE%BD%E4%B8%80%E7%94%B7%E5%AD%90%E6%8E%89%E5%85%A5%E8%8D%89%E5%9C%BA%E7%B2%89%E7%A2%8E%E6%9C%BA%E8%BA%AB%E4%BA%A1%23" target="weibo">
-安徽一男子掉入草场粉碎机身亡（热度：348220）
 </a>
 </li>
 
@@ -5193,6 +5199,12 @@ Kanavi说要整顿队内纪律（热度：161786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A4%90%E9%A6%86%E8%BE%A3%E6%A4%92%E7%82%92%E8%82%89%E5%8F%98%E8%82%89%E7%82%92%E8%BE%A3%E6%A4%92%23" target="weibo">
+餐馆辣椒炒肉变肉炒辣椒（热度：160725）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%B6%E9%9B%AA%E6%BC%AB%E6%8A%8A%E7%9F%AD%E5%89%A7%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 饶雪漫把短剧氛围感卷起来了（热度：160718）
 </a>
@@ -5997,20 +6009,8 @@ Rookie回应和jiejie争论（热度：143838）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%BE%8B%E5%B8%88%E8%A2%AB%E7%A0%B8%E8%BA%AB%E4%BA%A1%E5%90%8E%E5%AE%B6%E5%B1%9E%E4%B8%8D%E6%95%A2%E5%8D%95%E7%8B%AC%E5%87%BA%E9%97%A8%23" target="weibo">
-女律师被砸身亡后家属不敢单独出门（热度：140947）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A4%96%E5%8D%96%E6%96%B0%E5%9B%BD%E6%A0%87%23" target="weibo">
-外卖新国标（热度：140943）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%B8%AD%E6%88%8F05%E7%BA%A7%E5%87%BA%E4%BA%86%E8%BF%99%E4%B9%88%E5%A4%9A%E6%98%8E%E6%98%9F%23" target="weibo">
-中戏05级出了这么多明星（热度：140838）
+<a href="https://s.weibo.com/weibo?q=%23%E5%8E%9F%E6%9D%A5%E8%BF%99%E4%B8%8D%E6%98%AF%E8%8A%A6%E8%8D%9F%E5%95%8A%23" target="weibo">
+原来这不是芦荟啊（热度：141017）
 </a>
 </li>
 
