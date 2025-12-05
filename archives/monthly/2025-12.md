@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/06 00:50:38
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/06 01:26:31
 </p>
 </blockquote>
 <p>
@@ -2919,6 +2919,12 @@ LCK引入教练语音机制（热度：280680）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9F%AC%E5%9F%94%E5%AF%A8%E5%85%AC%E4%B8%BB%E5%A4%A7%E5%A9%9A%23" target="weibo">
+柬埔寨公主大婚（热度：271405）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%2321%E5%B2%81%E5%92%8C26%E5%B2%81%E5%B7%AE%E8%B7%9D%E7%9C%9F%E7%9A%84%E5%BE%88%E5%A4%A7%23" target="weibo">
 21岁和26岁差距真的很大（热度：271043）
 </a>
@@ -4439,6 +4445,12 @@ Prada官宣杨幂（热度：185972）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E7%96%86%E9%98%BF%E5%90%88%E5%A5%876%E7%BA%A7%E5%9C%B0%E9%9C%87%23" target="weibo">
 新疆阿合奇6级地震（热度：185292）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%9C%AC%E6%99%BA%E5%92%8C%E4%B8%80%E7%9B%B4%E7%AB%99%E5%9C%A8%E5%8E%9F%E5%9C%B0%E4%B8%8D%E5%8A%A8%23" target="weibo">
+张本智和一直站在原地不动（热度：185205）
 </a>
 </li>
 
@@ -5999,18 +6011,6 @@ Peanut直播力挺Faker（热度：145553）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23Rookie%E5%9B%9E%E5%BA%94%E5%92%8Cjiejie%E4%BA%89%E8%AE%BA%23" target="weibo">
 Rookie回应和jiejie争论（热度：143838）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E8%B0%83%E4%BE%83%E8%9B%87%E7%9B%96%E7%91%9E%E7%81%AB%E4%BA%86%E6%89%8D%E7%9C%8B%E6%B8%85%E6%A5%9A%E8%84%B8%23" target="weibo">
-网友调侃蛇盖瑞火了才看清楚脸（热度：143421）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E8%82%96%E6%88%98%E6%90%93%E5%AE%8C%E4%BD%A0%E7%9A%84%E6%90%93%E4%BD%A0%E7%9A%84%23" target="weibo">
-肖战搓完你的搓你的（热度：143343）
 </a>
 </li>
 
