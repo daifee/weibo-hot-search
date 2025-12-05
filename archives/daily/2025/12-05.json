@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764948670719,
+  "endTime": 1764949547457,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -75,6 +75,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1409236,
+      "num": 260657,
+      "word": "张雪峰复播后仍污言秽语",
+      "onboard_time": 1764947003,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 1351951,
       "num": 238441,
       "word": "周柯宇方回应国籍",
@@ -105,14 +113,6 @@
       "onboard_time": 1764905540,
       "rank": 19,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 1107733,
-      "num": 260657,
-      "word": "张雪峰复播后仍污言秽语",
-      "onboard_time": 1764947003,
-      "rank": 5,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1079816,
@@ -492,7 +492,7 @@
     },
     {
       "raw_hot": 409260,
-      "num": 198907,
+      "num": 231946,
       "word": "陈妍希周柯宇坐腿吻",
       "onboard_time": 1764945983,
       "rank": 11,
@@ -569,6 +569,14 @@
       "onboard_time": 1764908241,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 358519,
+      "num": 231535,
+      "word": "疑似主持人喊错张本智和的名字",
+      "onboard_time": 1764945920,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 352205,
@@ -696,14 +704,6 @@
       "word": "王楚钦回应1比2弗朗西斯卡",
       "onboard_time": 1764923841,
       "rank": 7,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 271684,
-      "num": 197579,
-      "word": "疑似主持人喊错张本智和的名字",
-      "onboard_time": 1764945920,
-      "rank": 15,
       "category": "体育"
     },
     {
@@ -899,6 +899,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 218744,
+      "num": 218744,
+      "word": "骄阳似我定档",
+      "onboard_time": 1764946702,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218170,
       "num": 178789,
       "word": "宋茜给自己剪短发",
@@ -953,6 +961,14 @@
       "onboard_time": 1764916822,
       "rank": 44,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 210319,
+      "num": 210319,
+      "word": "男子掉入粉碎机身亡",
+      "onboard_time": 1764948381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210049,
@@ -1123,14 +1139,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 187922,
-      "num": 187922,
-      "word": "骄阳似我定档",
-      "onboard_time": 1764946702,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187673,
       "num": 187673,
       "word": "八村垒绝杀猛龙",
@@ -1208,6 +1216,14 @@
       "word": "具俊晔陪小S录跨年宣传片",
       "onboard_time": 1764925042,
       "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 183945,
+      "num": 183945,
+      "word": "鞠婧祎生图vs精修图",
+      "onboard_time": 1764947182,
+      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1304,14 +1320,6 @@
       "word": "鞠婧祎直播",
       "onboard_time": 1764937462,
       "rank": 27,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 173844,
-      "num": 173844,
-      "word": "鞠婧祎生图vs精修图",
-      "onboard_time": 1764947182,
-      "rank": 23,
       "category": "艺人"
     },
     {
@@ -1547,8 +1555,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 153083,
-      "num": 153083,
+      "raw_hot": 153422,
+      "num": 153422,
       "word": "内娱留给这位影帝的角色不多了",
       "onboard_time": 1764946702,
       "rank": 25,
@@ -1619,14 +1627,6 @@
       "category": "财经"
     },
     {
-      "raw_hot": 150259,
-      "num": 150259,
-      "word": "男子掉入粉碎机身亡",
-      "onboard_time": 1764948381,
-      "rank": 27,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 149616,
       "num": 130014,
       "word": "工资到账以为是退款",
@@ -1681,6 +1681,14 @@
       "onboard_time": 1764858442,
       "rank": 34,
       "category": "财经,民生新闻"
+    },
+    {
+      "raw_hot": 146171,
+      "num": 543091,
+      "word": "国企通报高管KTV接受有偿陪侍",
+      "onboard_time": 1764944782,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 146086,
@@ -2291,6 +2299,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 112803,
+      "num": 112803,
+      "word": "阻挠中国出席G7峰会日本想多了",
+      "onboard_time": 1764948681,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112081,
       "num": 122091,
       "word": "秦岚王阳daddy妈咪级别",
@@ -2377,6 +2393,14 @@
       "onboard_time": 1764934042,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107330,
+      "num": 107330,
+      "word": "侯鸿亮看肖战的眼神",
+      "onboard_time": 1764945502,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 106884,
@@ -2603,6 +2627,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101102,
+      "num": 383634,
+      "word": "奈飞回应收购华纳兄弟",
+      "onboard_time": 1764945862,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100938,
       "num": 113504,
       "word": "X平台被罚1.2亿欧元",
@@ -2763,20 +2795,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 96384,
-      "num": 270327,
-      "word": "国企通报高管KTV接受有偿陪侍",
-      "onboard_time": 1764944782,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 96005,
       "num": 96005,
       "word": "任正非建议年轻人能摸高就不要摸低",
       "onboard_time": 1764922161,
       "rank": 38,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 95939,
+      "num": 95939,
+      "word": "马克龙夫人认出在法出生的熊猫胖了",
+      "onboard_time": 1764949221,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 95857,
+      "num": 95857,
+      "word": "星穹铁道3.8版本前瞻",
+      "onboard_time": 1764949161,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 94233,
@@ -2867,6 +2907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90731,
+      "num": 96095,
+      "word": "原来蛋糕上的图案是这样做出来的",
+      "onboard_time": 1764946042,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90484,
       "num": 90484,
       "word": "这种肉能不能走出大学食堂",
@@ -2897,6 +2945,14 @@
       "onboard_time": 1764923721,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 87348,
+      "num": 87348,
+      "word": "有手机已进入负毛利状态",
+      "onboard_time": 1764948861,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 86908,
@@ -2931,20 +2987,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 85901,
-      "num": 96095,
-      "word": "原来蛋糕上的图案是这样做出来的",
-      "onboard_time": 1764946042,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 85554,
       "num": 591783,
       "word": "买卖账号赚快钱已有人获刑",
       "onboard_time": 1764895703,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 85428,
+      "num": 87336,
+      "word": "女子查出肝脏妊娠",
+      "onboard_time": 1764949341,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85097,
@@ -3051,14 +3107,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 81029,
-      "num": 96066,
-      "word": "侯鸿亮看肖战的眼神",
-      "onboard_time": 1764945502,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 80663,
       "num": 83957,
       "word": "陈妍希娱乐圈人缘",
@@ -3121,14 +3169,6 @@
       "onboard_time": 1764859582,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 75534,
-      "num": 383634,
-      "word": "奈飞回应收购华纳兄弟",
-      "onboard_time": 1764945862,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 74838,
@@ -3356,7 +3396,7 @@
     },
     {
       "raw_hot": 58261,
-      "num": 404436,
+      "num": 424448,
       "word": "流感超过一周还有传染性吗",
       "onboard_time": 1764941123,
       "rank": 26,

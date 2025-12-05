@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764948670719,
+  "endTime": 1764949547457,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -275,6 +275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 1409236,
+      "num": 260657,
+      "word": "张雪峰复播后仍污言秽语",
+      "onboard_time": 1764947003,
+      "rank": 5,
+      "category": "教育,民生新闻"
+    },
+    {
       "raw_hot": 1404746,
       "num": 206116,
       "word": "李诞首度自曝为什么不要孩子",
@@ -505,14 +513,6 @@
       "onboard_time": 1764479542,
       "rank": 11,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 1107733,
-      "num": 260657,
-      "word": "张雪峰复播后仍污言秽语",
-      "onboard_time": 1764947003,
-      "rank": 5,
-      "category": "教育,民生新闻"
     },
     {
       "raw_hot": 1107113,
@@ -2836,7 +2836,7 @@
     },
     {
       "raw_hot": 409260,
-      "num": 198907,
+      "num": 231946,
       "word": "陈妍希周柯宇坐腿吻",
       "onboard_time": 1764945983,
       "rank": 11,
@@ -3377,6 +3377,14 @@
       "onboard_time": 1764509843,
       "rank": 35,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 358519,
+      "num": 231535,
+      "word": "疑似主持人喊错张本智和的名字",
+      "onboard_time": 1764945920,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 357905,
@@ -4555,14 +4563,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 271684,
-      "num": 197579,
-      "word": "疑似主持人喊错张本智和的名字",
-      "onboard_time": 1764945920,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
       "raw_hot": 271043,
       "num": 211292,
       "word": "21岁和26岁差距真的很大",
@@ -5499,6 +5499,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 218744,
+      "num": 218744,
+      "word": "骄阳似我定档",
+      "onboard_time": 1764946702,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 218342,
       "num": 205245,
       "word": "假奶粉",
@@ -5761,6 +5769,14 @@
       "onboard_time": 1764774922,
       "rank": 17,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 210319,
+      "num": 210319,
+      "word": "男子掉入粉碎机身亡",
+      "onboard_time": 1764948381,
+      "rank": 27,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 210096,
@@ -6723,14 +6739,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 187922,
-      "num": 187922,
-      "word": "骄阳似我定档",
-      "onboard_time": 1764946702,
-      "rank": 19,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 187879,
       "num": 187879,
       "word": "胡歌回应过气",
@@ -6969,6 +6977,14 @@
       "onboard_time": 1764561742,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183945,
+      "num": 183945,
+      "word": "鞠婧祎生图vs精修图",
+      "onboard_time": 1764947182,
+      "rank": 23,
+      "category": "艺人"
     },
     {
       "raw_hot": 183654,
@@ -7417,14 +7433,6 @@
       "onboard_time": 1764726981,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 173844,
-      "num": 173844,
-      "word": "鞠婧祎生图vs精修图",
-      "onboard_time": 1764947182,
-      "rank": 23,
-      "category": "艺人"
     },
     {
       "raw_hot": 173799,
@@ -8667,6 +8675,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 153422,
+      "num": 153422,
+      "word": "内娱留给这位影帝的角色不多了",
+      "onboard_time": 1764946702,
+      "rank": 25,
+      "category": "电影"
+    },
+    {
       "raw_hot": 153375,
       "num": 153375,
       "word": "欧阳娜娜妆造真的没有瓶颈期",
@@ -8697,14 +8713,6 @@
       "onboard_time": 1764664702,
       "rank": 47,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 153083,
-      "num": 153083,
-      "word": "内娱留给这位影帝的角色不多了",
-      "onboard_time": 1764946702,
-      "rank": 25,
-      "category": "电影"
     },
     {
       "raw_hot": 153071,
@@ -8944,14 +8952,6 @@
       "word": "28岁妈妈和3岁女儿失联1个月",
       "onboard_time": 1764733283,
       "rank": 34,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 150259,
-      "num": 150259,
-      "word": "男子掉入粉碎机身亡",
-      "onboard_time": 1764948381,
-      "rank": 27,
       "category": "民生新闻"
     },
     {
@@ -9201,6 +9201,14 @@
       "onboard_time": 1764476781,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 146171,
+      "num": 543091,
+      "word": "国企通报高管KTV接受有偿陪侍",
+      "onboard_time": 1764944782,
+      "rank": 32,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 146086,
@@ -12619,6 +12627,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 112803,
+      "num": 112803,
+      "word": "阻挠中国出席G7峰会日本想多了",
+      "onboard_time": 1764948681,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112642,
       "num": 1220228,
       "word": "静电可以给手机充电吗",
@@ -13145,6 +13161,14 @@
       "onboard_time": 1764934042,
       "rank": 37,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 107330,
+      "num": 107330,
+      "word": "侯鸿亮看肖战的眼神",
+      "onboard_time": 1764945502,
+      "rank": 49,
+      "category": "电影"
     },
     {
       "raw_hot": 107152,
@@ -13979,6 +14003,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 101102,
+      "num": 383634,
+      "word": "奈飞回应收购华纳兄弟",
+      "onboard_time": 1764945862,
+      "rank": 4,
+      "category": "财经"
+    },
+    {
       "raw_hot": 100996,
       "num": 100996,
       "word": "开心果老冒充抹茶",
@@ -14595,14 +14627,6 @@
       "category": "母婴育儿,民生新闻"
     },
     {
-      "raw_hot": 96384,
-      "num": 270327,
-      "word": "国企通报高管KTV接受有偿陪侍",
-      "onboard_time": 1764944782,
-      "rank": 32,
-      "category": "辟谣/通报"
-    },
-    {
       "raw_hot": 96353,
       "num": 96353,
       "word": "王曼昱说身体在积极康复",
@@ -14675,12 +14699,28 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 95939,
+      "num": 95939,
+      "word": "马克龙夫人认出在法出生的熊猫胖了",
+      "onboard_time": 1764949221,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 95936,
       "num": 205253,
       "word": "奶精和淀粉做的假奶粉都流向了哪里",
       "onboard_time": 1764490581,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 95857,
+      "num": 95857,
+      "word": "星穹铁道3.8版本前瞻",
+      "onboard_time": 1764949161,
+      "rank": 39,
+      "category": "游戏"
     },
     {
       "raw_hot": 95831,
@@ -15259,6 +15299,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 90731,
+      "num": 96095,
+      "word": "原来蛋糕上的图案是这样做出来的",
+      "onboard_time": 1764946042,
+      "rank": 46,
+      "category": "美食"
+    },
+    {
       "raw_hot": 90721,
       "num": 90721,
       "word": "zhuo 往日种种",
@@ -15675,6 +15723,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 87348,
+      "num": 87348,
+      "word": "有手机已进入负毛利状态",
+      "onboard_time": 1764948861,
+      "rank": 45,
+      "category": "数码"
+    },
+    {
       "raw_hot": 87314,
       "num": 92972,
       "word": "时代峰峻说朱志鑫单飞纯属造谣",
@@ -15803,14 +15859,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 85901,
-      "num": 96095,
-      "word": "原来蛋糕上的图案是这样做出来的",
-      "onboard_time": 1764946042,
-      "rank": 46,
-      "category": "美食"
-    },
-    {
       "raw_hot": 85882,
       "num": 131430,
       "word": "维斯塔潘夺f1卡塔尔站冠军",
@@ -15865,6 +15913,14 @@
       "onboard_time": 1764482779,
       "rank": 48,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 85428,
+      "num": 87336,
+      "word": "女子查出肝脏妊娠",
+      "onboard_time": 1764949341,
+      "rank": 47,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 85340,
@@ -16379,14 +16435,6 @@
       "category": "时尚,数码"
     },
     {
-      "raw_hot": 81029,
-      "num": 96066,
-      "word": "侯鸿亮看肖战的眼神",
-      "onboard_time": 1764945502,
-      "rank": 49,
-      "category": "电影"
-    },
-    {
       "raw_hot": 81028,
       "num": 99720,
       "word": "Zeus让HLE全队一起减肥",
@@ -16777,14 +16825,6 @@
       "onboard_time": 1764767242,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 75534,
-      "num": 383634,
-      "word": "奈飞回应收购华纳兄弟",
-      "onboard_time": 1764945862,
-      "rank": 4,
-      "category": "财经"
     },
     {
       "raw_hot": 75454,
@@ -17788,7 +17828,7 @@
     },
     {
       "raw_hot": 58261,
-      "num": 404436,
+      "num": 424448,
       "word": "流感超过一周还有传染性吗",
       "onboard_time": 1764941123,
       "rank": 26,
