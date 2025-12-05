@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764934776281,
+  "endTime": 1764939347175,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -139,6 +139,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 1796508,
+      "num": 293628,
+      "word": "金晨 医美",
+      "onboard_time": 1764934880,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 1763620,
       "num": 353570,
       "word": "胡歌首谈二胎儿子",
@@ -244,7 +252,7 @@
     },
     {
       "raw_hot": 1454772,
-      "num": 285943,
+      "num": 290713,
       "word": "金晨怎么变这样了",
       "onboard_time": 1764932002,
       "rank": 10,
@@ -1147,6 +1155,14 @@
       "category": "舆论监督"
     },
     {
+      "raw_hot": 678141,
+      "num": 1108502,
+      "word": "陈震用空壳工作室偷税",
+      "onboard_time": 1764935422,
+      "rank": 0,
+      "category": "民生新闻,汽车"
+    },
+    {
       "raw_hot": 677571,
       "num": 677571,
       "word": "叶童 你完全不尊重",
@@ -1467,6 +1483,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 587050,
+      "num": 464270,
+      "word": "王楚钦和马克龙打乒乓球",
+      "onboard_time": 1764937102,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 586012,
       "num": 574914,
       "word": "哥的全宇宙 抄袭",
@@ -1625,6 +1649,14 @@
       "onboard_time": 1764664402,
       "rank": 32,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 558950,
+      "num": 558950,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1764928702,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 557276,
@@ -2329,6 +2361,14 @@
       "onboard_time": 1764767961,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 447979,
+      "num": 447979,
+      "word": "36岁快男遭中国唱将淘汰",
+      "onboard_time": 1764935841,
+      "rank": 5,
+      "category": "综艺"
     },
     {
       "raw_hot": 447665,
@@ -3867,14 +3907,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 308749,
-      "num": 296590,
-      "word": "爱奇艺尖叫之夜",
-      "onboard_time": 1764928702,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 308679,
       "num": 256785,
       "word": "王鹤棣沈月现实版尼克朱迪",
@@ -3905,6 +3937,14 @@
       "onboard_time": 1764771503,
       "rank": 21,
       "category": "演出"
+    },
+    {
+      "raw_hot": 305448,
+      "num": 305448,
+      "word": "肖战让小朋友别喊哥哥喊叔叔",
+      "onboard_time": 1764934880,
+      "rank": 6,
+      "category": "电影"
     },
     {
       "raw_hot": 304118,
@@ -4187,6 +4227,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 282861,
+      "num": 282861,
+      "word": "陈哲远晒手术取出的钢钉",
+      "onboard_time": 1764938242,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 282515,
       "num": 675165,
       "word": "Gala在iG队内吐露心声",
@@ -4201,6 +4249,14 @@
       "onboard_time": 1764759861,
       "rank": 17,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 282333,
+      "num": 282333,
+      "word": "小伙缅北逃跑失败被掰断手指脚趾",
+      "onboard_time": 1764935961,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 282130,
@@ -4268,7 +4324,7 @@
     },
     {
       "raw_hot": 279429,
-      "num": 251394,
+      "num": 274153,
       "word": "迪丽热巴 豆瓣分型",
       "onboard_time": 1764933260,
       "rank": 19,
@@ -5619,6 +5675,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209889,
+      "num": 209889,
+      "word": "张柏芝今日出庭",
+      "onboard_time": 1764933981,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 209772,
+      "num": 209772,
+      "word": "苏新皓到底送了朱志鑫什么礼物",
+      "onboard_time": 1764938061,
+      "rank": 22,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 209531,
       "num": 227385,
       "word": "TF家族冒泡",
@@ -6627,6 +6699,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 185972,
+      "num": 476561,
+      "word": "Prada官宣杨幂",
+      "onboard_time": 1764929002,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 185810,
       "num": 185810,
       "word": "马克龙访华",
@@ -7113,6 +7193,14 @@
       "onboard_time": 1764465682,
       "rank": 25,
       "category": "美妆"
+    },
+    {
+      "raw_hot": 175127,
+      "num": 175127,
+      "word": "鞠婧祎直播",
+      "onboard_time": 1764937462,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 174554,
@@ -7603,6 +7691,14 @@
       "category": "旅游"
     },
     {
+      "raw_hot": 165364,
+      "num": 282585,
+      "word": "王楚钦林诗栋与马克龙对练",
+      "onboard_time": 1764937102,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 165305,
       "num": 165305,
       "word": "宋茜回头一看身后空无一人",
@@ -7731,6 +7827,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162300,
+      "num": 162300,
+      "word": "气血不足的人要省着用身体",
+      "onboard_time": 1764932303,
+      "rank": 30,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 162286,
       "num": 162286,
       "word": "代号鸢",
@@ -7801,14 +7905,6 @@
       "onboard_time": 1764840202,
       "rank": 29,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 161819,
-      "num": 476561,
-      "word": "Prada官宣杨幂",
-      "onboard_time": 1764929002,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 161786,
@@ -7897,6 +7993,14 @@
       "onboard_time": 1764507263,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 161096,
+      "num": 296863,
+      "word": "豆包手机 微信",
+      "onboard_time": 1764938122,
+      "rank": 9,
+      "category": "数码"
     },
     {
       "raw_hot": 161011,
@@ -8177,14 +8281,6 @@
       "onboard_time": 1764732742,
       "rank": 27,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 156072,
-      "num": 156072,
-      "word": "气血不足的人要省着用身体",
-      "onboard_time": 1764932303,
-      "rank": 30,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 156004,
@@ -9315,6 +9411,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 138264,
+      "num": 138264,
+      "word": "英国女子被误判死亡后送进太平间",
+      "onboard_time": 1764934760,
+      "rank": 31,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 138166,
       "num": 172830,
       "word": "男子因吸毒5年内3次被查处",
@@ -9528,6 +9632,14 @@
       "word": "恋与深空新日卡再度双榜登顶",
       "onboard_time": 1764666561,
       "rank": 41,
+      "category": "游戏"
+    },
+    {
+      "raw_hot": 136461,
+      "num": 287357,
+      "word": "崩坏星穹铁道",
+      "onboard_time": 1764938843,
+      "rank": 12,
       "category": "游戏"
     },
     {
@@ -10187,6 +10299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 128632,
+      "num": 128632,
+      "word": "邹明轩14岁身高175cm",
+      "onboard_time": 1764938962,
+      "rank": 33,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 128464,
       "num": 128464,
       "word": "央企合资插混N6上市9.19万起",
@@ -10697,6 +10817,14 @@
       "onboard_time": 1764625873,
       "rank": 3,
       "category": "电影"
+    },
+    {
+      "raw_hot": 123266,
+      "num": 123266,
+      "word": "孟子义李昀锐一起看代拍",
+      "onboard_time": 1764938901,
+      "rank": 34,
+      "category": "剧集"
     },
     {
       "raw_hot": 123208,
@@ -12075,6 +12203,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 113506,
+      "num": 113506,
+      "word": "聂九罗吃下疯刀药",
+      "onboard_time": 1764935301,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 113437,
       "num": 227248,
       "word": "杨迪的公关速度有多快",
@@ -12313,6 +12449,14 @@
       "onboard_time": 1764826041,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 110555,
+      "num": 110555,
+      "word": "周深哼了两句薛之谦眼睛都瞪大了",
+      "onboard_time": 1764936981,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 110420,
@@ -12817,14 +12961,6 @@
       "onboard_time": 1764913761,
       "rank": 48,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 106045,
-      "num": 106045,
-      "word": "张柏芝今日出庭",
-      "onboard_time": 1764933981,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 105966,
@@ -13499,6 +13635,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 100494,
+      "num": 110542,
+      "word": "薛之谦周深耳返失灵被迫盲唱",
+      "onboard_time": 1764936682,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 100467,
       "num": 232853,
       "word": "美团给骑手小哥发不闯红灯奖",
@@ -13657,6 +13801,14 @@
       "onboard_time": 1764904160,
       "rank": 44,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 99199,
+      "num": 110553,
+      "word": "朱一龙曾黎高圆圆同框了",
+      "onboard_time": 1764937161,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 99049,
@@ -13908,7 +14060,7 @@
     },
     {
       "raw_hot": 96989,
-      "num": 96989,
+      "num": 110541,
       "word": "税务部门2次约谈陈震",
       "onboard_time": 1764934580,
       "rank": 42,
@@ -14443,6 +14595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 92540,
+      "num": 110547,
+      "word": "王橹杰propose求婚舞cha",
+      "onboard_time": 1764939261,
+      "rank": 44,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 92501,
       "num": 92501,
       "word": "陈晓古装杀死了比赛",
@@ -14657,6 +14817,14 @@
       "onboard_time": 1764675382,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 90757,
+      "num": 110546,
+      "word": "都在香港偶遇黄景瑜",
+      "onboard_time": 1764939082,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 90754,
@@ -14905,6 +15073,14 @@
       "onboard_time": 1764745461,
       "rank": 47,
       "category": "数码"
+    },
+    {
+      "raw_hot": 88750,
+      "num": 175368,
+      "word": "王楚钦入选年度最佳运动员提名",
+      "onboard_time": 1764937280,
+      "rank": 26,
+      "category": "体育"
     },
     {
       "raw_hot": 88691,
@@ -15563,6 +15739,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 82906,
+      "num": 120747,
+      "word": "日本大米涨价再刷新纪录",
+      "onboard_time": 1764937221,
+      "rank": 36,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 82888,
       "num": 268386,
       "word": "联合国3个词为中国方案点赞",
@@ -15577,6 +15761,14 @@
       "onboard_time": 1764918800,
       "rank": 39,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 82631,
+      "num": 115248,
+      "word": "高铁乘务员被指洗手池洗售卖水果",
+      "onboard_time": 1764938362,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 82594,
@@ -15665,6 +15857,14 @@
       "onboard_time": 1764695776,
       "rank": 27,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 81781,
+      "num": 110535,
+      "word": "石宇奇提名国际最佳男运动员",
+      "onboard_time": 1764938122,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 81719,
@@ -16441,6 +16641,14 @@
       "onboard_time": 1764555020,
       "rank": 48,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 71055,
+      "num": 238306,
+      "word": "马克龙在川大与学生握手开心到蹦起",
+      "onboard_time": 1764938422,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 70947,
@@ -18969,6 +19177,14 @@
       "onboard_time": 1764831262,
       "rank": 41,
       "category": "体育"
+    },
+    {
+      "raw_hot": 29902,
+      "num": 236592,
+      "word": "杨幂Prada高智感",
+      "onboard_time": 1764936621,
+      "rank": 19,
+      "category": "艺人"
     },
     {
       "raw_hot": 29859,
