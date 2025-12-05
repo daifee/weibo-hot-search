@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764942654536,
+  "endTime": 1764944975909,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -147,6 +147,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 909951,
+      "num": 370215,
+      "word": "张本智和生气了",
+      "onboard_time": 1764941060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 771061,
       "num": 569916,
       "word": "张凌赫自己都生不出这么像的",
@@ -179,6 +187,14 @@
       "category": "音乐"
     },
     {
+      "raw_hot": 706554,
+      "num": 378243,
+      "word": "马克龙喊孙颖莎打乒乓球",
+      "onboard_time": 1764942022,
+      "rank": 15,
+      "category": "体育"
+    },
+    {
       "raw_hot": 693053,
       "num": 393178,
       "word": "时代少年团卫衣 贵",
@@ -209,6 +225,14 @@
       "onboard_time": 1764902900,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 640063,
+      "num": 1102410,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1764928702,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 636234,
@@ -267,14 +291,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 558950,
-      "num": 1084271,
-      "word": "爱奇艺尖叫之夜",
-      "onboard_time": 1764928702,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 553598,
       "num": 791304,
       "word": "团播 美颜拉腿",
@@ -289,6 +305,14 @@
       "onboard_time": 1764906681,
       "rank": 11,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 513032,
+      "num": 349193,
+      "word": "杨幂 爽文",
+      "onboard_time": 1764940762,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 506952,
@@ -313,6 +337,14 @@
       "onboard_time": 1764922581,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 487555,
+      "num": 438568,
+      "word": "抽血显示怀孕子宫里却找不到胎儿",
+      "onboard_time": 1764939502,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 481298,
@@ -361,14 +393,6 @@
       "onboard_time": 1764927261,
       "rank": 18,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 446266,
-      "num": 438568,
-      "word": "抽血显示怀孕子宫里却找不到胎儿",
-      "onboard_time": 1764939502,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 445411,
@@ -483,22 +507,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 373137,
-      "num": 373137,
-      "word": "马克龙喊孙颖莎打乒乓球",
-      "onboard_time": 1764942022,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 370215,
-      "num": 370215,
-      "word": "张本智和生气了",
-      "onboard_time": 1764941060,
-      "rank": 24,
-      "category": "体育"
-    },
-    {
       "raw_hot": 368590,
       "num": 659747,
       "word": "狙击蝴蝶 误点小广告",
@@ -553,6 +561,14 @@
       "onboard_time": 1764896781,
       "rank": 4,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 348220,
+      "num": 348220,
+      "word": "安徽一男子掉入草场粉碎机身亡",
+      "onboard_time": 1764943283,
+      "rank": 16,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 347387,
@@ -617,14 +633,6 @@
       "onboard_time": 1764900680,
       "rank": 5,
       "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 288844,
-      "num": 288844,
-      "word": "杨幂 爽文",
-      "onboard_time": 1764940762,
-      "rank": 20,
-      "category": "艺人"
     },
     {
       "raw_hot": 281777,
@@ -987,6 +995,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 196141,
+      "num": 196141,
+      "word": "尚公主",
+      "onboard_time": 1764944064,
+      "rank": 24,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 195329,
       "num": 690304,
       "word": "Milkyway回应永久禁赛",
@@ -1073,6 +1089,14 @@
       "onboard_time": 1764904820,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 187392,
+      "num": 187392,
+      "word": "大生意人1晚死了461个人",
+      "onboard_time": 1764943583,
+      "rank": 25,
+      "category": "剧集"
     },
     {
       "raw_hot": 186567,
@@ -1251,6 +1275,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 170107,
+      "num": 170107,
+      "word": "法国第一夫人亲自当大熊猫圆梦教母",
+      "onboard_time": 1764943103,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 169830,
+      "num": 169830,
+      "word": "周柯宇陈妍希体型差",
+      "onboard_time": 1764943222,
+      "rank": 29,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 169626,
       "num": 117557,
       "word": "章泽天 刘亦菲妈妈年轻时候",
@@ -1379,6 +1419,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 158134,
+      "num": 360175,
+      "word": "和平精英",
+      "onboard_time": 1764942922,
+      "rank": 9,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 157661,
       "num": 157661,
       "word": "刘宇宁终于闯进主持人赛道了",
@@ -1489,6 +1537,14 @@
       "onboard_time": 1764929721,
       "rank": 34,
       "category": "电影"
+    },
+    {
+      "raw_hot": 149146,
+      "num": 149146,
+      "word": "李在明当场纠正女翻译口误",
+      "onboard_time": 1764943943,
+      "rank": 33,
+      "category": "国际时政"
     },
     {
       "raw_hot": 149020,
@@ -2195,6 +2251,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 106526,
+      "num": 106526,
+      "word": "泰兰尼斯一双鞋1500是智商税吗",
+      "onboard_time": 1764942562,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106393,
       "num": 106393,
       "word": "月经不规律不推荐任何酒类",
@@ -2217,6 +2281,22 @@
       "onboard_time": 1764913761,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 105900,
+      "num": 295791,
+      "word": "雅迪是电动车新国标起草单位之一",
+      "onboard_time": 1764942022,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 105710,
+      "num": 105710,
+      "word": "沈梦辰来了也救不了的场",
+      "onboard_time": 1764943943,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 104959,
@@ -2363,6 +2443,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 101170,
+      "num": 101170,
+      "word": "现实版小猫咪找妈妈",
+      "onboard_time": 1764944481,
+      "rank": 48,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 100938,
       "num": 113504,
       "word": "X平台被罚1.2亿欧元",
@@ -2441,14 +2529,6 @@
       "onboard_time": 1764909982,
       "rank": 46,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 97790,
-      "num": 97790,
-      "word": "泰兰尼斯一双鞋1500是智商税吗",
-      "onboard_time": 1764942562,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 97541,
@@ -2643,6 +2723,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87714,
+      "num": 323504,
+      "word": "餐馆辣椒炒肉变肉炒辣椒",
+      "onboard_time": 1764944304,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 86908,
       "num": 86908,
       "word": "国乒vs德国",
@@ -2692,7 +2780,7 @@
     },
     {
       "raw_hot": 85061,
-      "num": 327226,
+      "num": 333895,
       "word": "别克世家内能停一辆车",
       "onboard_time": 1764940522,
       "rank": 18,
@@ -3091,6 +3179,14 @@
       "category": "民生新闻,网红"
     },
     {
+      "raw_hot": 54792,
+      "num": 149408,
+      "word": "国企通报高管KTV接受有偿陪侍",
+      "onboard_time": 1764944782,
+      "rank": 32,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 54773,
       "num": 90838,
       "word": "王楚钦气的跳起来了",
@@ -3153,6 +3249,14 @@
       "onboard_time": 1764853341,
       "rank": 45,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 51143,
+      "num": 324399,
+      "word": "朱一龙白月光在身边",
+      "onboard_time": 1764944602,
+      "rank": 18,
+      "category": "电影"
     },
     {
       "raw_hot": 50704,
@@ -3240,6 +3344,14 @@
       "word": "寒武纪发严正声明",
       "onboard_time": 1764866838,
       "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 43816,
+      "num": 99202,
+      "word": "罗大美案主犯女友辩称自己涉世未深",
+      "onboard_time": 1764943163,
+      "rank": 49,
       "category": "民生新闻"
     },
     {
@@ -3435,14 +3547,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 30828,
-      "num": 295791,
-      "word": "雅迪是电动车新国标起草单位之一",
-      "onboard_time": 1764942022,
-      "rank": 19,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 30736,
       "num": 227116,
       "word": "更新饿了么APP有免单橙意礼",
@@ -3563,6 +3667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 22430,
+      "num": 124791,
+      "word": "王楚钦弗朗西斯卡赛后热聊",
+      "onboard_time": 1764944242,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 22196,
       "num": 31311,
       "word": "10公斤奶仅有不到1公斤奶皮子",
@@ -3657,6 +3769,14 @@
       "onboard_time": 1764876434,
       "rank": 49,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 10814,
+      "num": 414381,
+      "word": "美好生活宪给你",
+      "onboard_time": 1764943522,
+      "rank": 2,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 10266,

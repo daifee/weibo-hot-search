@@ -1,0 +1,410 @@
+{
+  "runTime": 1764944975909,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 640063,
+        "num": 1102410,
+        "word": "爱奇艺尖叫之夜",
+        "onboard_time": 1764928702,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 419284,
+        "num": 419284,
+        "word": "小伙缅北逃跑失败被掰断手指脚趾",
+        "onboard_time": 1764935961,
+        "rank": 1,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 10814,
+        "num": 414381,
+        "word": "美好生活宪给你",
+        "onboard_time": 1764943522,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 558637,
+        "num": 401833,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 243029,
+        "num": 394110,
+        "word": "王楚钦和马克龙打乒乓球",
+        "onboard_time": 1764937102,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 706554,
+        "num": 378243,
+        "word": "马克龙喊孙颖莎打乒乓球",
+        "onboard_time": 1764942022,
+        "rank": 5,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 487555,
+        "num": 364239,
+        "word": "抽血显示怀孕子宫里却找不到胎儿",
+        "onboard_time": 1764939502,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363638,
+        "num": 363638,
+        "word": "陈震用空壳工作室偷税",
+        "onboard_time": 1764935422,
+        "rank": 7,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 10464,
+        "num": 361882,
+        "word": "冬天起床不要太猛",
+        "onboard_time": 1764898340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 158134,
+        "num": 360175,
+        "word": "和平精英",
+        "onboard_time": 1764942922,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1127133,
+        "num": 358931,
+        "word": "金晨 医美",
+        "onboard_time": 1764934880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 909951,
+        "num": 356285,
+        "word": "张本智和生气了",
+        "onboard_time": 1764941060,
+        "rank": 11,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 584895,
+        "num": 355878,
+        "word": "时代少年团卫衣 贵",
+        "onboard_time": 1764940703,
+        "rank": 12,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 521896,
+        "num": 352973,
+        "word": "陈哲远晒手术取出的钢钉",
+        "onboard_time": 1764938242,
+        "rank": 13,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 517328,
+        "num": 350720,
+        "word": "金晨怎么变这样了",
+        "onboard_time": 1764932002,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 513032,
+        "num": 349193,
+        "word": "杨幂 爽文",
+        "onboard_time": 1764940762,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 348220,
+        "num": 348220,
+        "word": "安徽一男子掉入草场粉碎机身亡",
+        "onboard_time": 1764943283,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 71674,
+        "num": 333895,
+        "word": "别克世家内能停一辆车",
+        "onboard_time": 1764940522,
+        "rank": 17,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 51143,
+        "num": 324399,
+        "word": "朱一龙白月光在身边",
+        "onboard_time": 1764944602,
+        "rank": 18,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 87714,
+        "num": 323504,
+        "word": "餐馆辣椒炒肉变肉炒辣椒",
+        "onboard_time": 1764944304,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 322702,
+        "num": 322702,
+        "word": "豆包手机 微信",
+        "onboard_time": 1764938122,
+        "rank": 20,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 323483,
+        "num": 306385,
+        "word": "邹明轩14岁身高175cm",
+        "onboard_time": 1764938962,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 284673,
+        "num": 284673,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 22,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 201118,
+        "num": 201118,
+        "word": "周柯宇国籍变更",
+        "onboard_time": 1764927502,
+        "rank": 23,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 196141,
+        "num": 196141,
+        "word": "尚公主",
+        "onboard_time": 1764944064,
+        "rank": 24,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 187392,
+        "num": 187392,
+        "word": "大生意人1晚死了461个人",
+        "onboard_time": 1764943583,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 176283,
+        "num": 176283,
+        "word": "孟子义李昀锐一起看代拍",
+        "onboard_time": 1764938901,
+        "rank": 26,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 173781,
+        "num": 173781,
+        "word": "Prada官宣杨幂",
+        "onboard_time": 1764929002,
+        "rank": 27,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 170107,
+        "num": 170107,
+        "word": "法国第一夫人亲自当大熊猫圆梦教母",
+        "onboard_time": 1764943103,
+        "rank": 28,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 169830,
+        "num": 169830,
+        "word": "周柯宇陈妍希体型差",
+        "onboard_time": 1764943222,
+        "rank": 29,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 156092,
+        "num": 156092,
+        "word": "肖战让小朋友别喊哥哥喊叔叔",
+        "onboard_time": 1764934880,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150498,
+        "num": 150498,
+        "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
+        "onboard_time": 1764928702,
+        "rank": 31,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 54792,
+        "num": 149408,
+        "word": "国企通报高管KTV接受有偿陪侍",
+        "onboard_time": 1764944782,
+        "rank": 32,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 149146,
+        "num": 149146,
+        "word": "李在明当场纠正女翻译口误",
+        "onboard_time": 1764943943,
+        "rank": 33,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 138457,
+        "num": 138457,
+        "word": "73岁的唐国强37岁的我自愧不如",
+        "onboard_time": 1764939743,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 138137,
+        "num": 138137,
+        "word": "雅迪争议电动车已下架",
+        "onboard_time": 1764926540,
+        "rank": 35,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136894,
+        "num": 136894,
+        "word": "马克龙访问四川大学",
+        "onboard_time": 1764922521,
+        "rank": 36,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 131266,
+        "num": 131266,
+        "word": "气血不足的人要省着用身体",
+        "onboard_time": 1764932303,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 125660,
+        "num": 125660,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764930681,
+        "rank": 38,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 22430,
+        "num": 124791,
+        "word": "王楚钦弗朗西斯卡赛后热聊",
+        "onboard_time": 1764944242,
+        "rank": 39,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 124756,
+        "num": 124756,
+        "word": "雅迪电动车致歉",
+        "onboard_time": 1764919221,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117053,
+        "num": 117053,
+        "word": "36岁快男遭中国唱将淘汰",
+        "onboard_time": 1764935841,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 113208,
+        "num": 113208,
+        "word": "金晨自己化的妆",
+        "onboard_time": 1764939562,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111548,
+        "num": 111548,
+        "word": "马克龙在川大与学生握手开心到蹦起",
+        "onboard_time": 1764938422,
+        "rank": 43,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107104,
+        "num": 107104,
+        "word": "小酒窝呕吐舞一出手就是专业的",
+        "onboard_time": 1764930322,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 106526,
+        "num": 106526,
+        "word": "泰兰尼斯一双鞋1500是智商税吗",
+        "onboard_time": 1764942562,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105900,
+        "num": 105900,
+        "word": "雅迪是电动车新国标起草单位之一",
+        "onboard_time": 1764942022,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 105710,
+        "num": 105710,
+        "word": "沈梦辰来了也救不了的场",
+        "onboard_time": 1764943943,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 101170,
+        "num": 101170,
+        "word": "现实版小猫咪找妈妈",
+        "onboard_time": 1764944481,
+        "rank": 48,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 43816,
+        "num": 99202,
+        "word": "罗大美案主犯女友辩称自己涉世未深",
+        "onboard_time": 1764943163,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首在成都进行友好交流#"
+    }
+  }
+}
