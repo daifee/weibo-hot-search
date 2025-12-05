@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764977161356,
+  "endTime": 1764977956016,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -3763,6 +3763,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 327540,
+      "num": 227098,
+      "word": "马克龙说此行只有一个遗憾",
+      "onboard_time": 1764975977,
+      "rank": 3,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 326655,
       "num": 199674,
       "word": "巴西女子产下双胞胎孩子父亲却不同",
@@ -4265,14 +4273,6 @@
       "onboard_time": 1764830062,
       "rank": 37,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 290299,
-      "num": 154356,
-      "word": "马克龙说此行只有一个遗憾",
-      "onboard_time": 1764975977,
-      "rank": 3,
-      "category": "国内时政"
     },
     {
       "raw_hot": 289383,
@@ -4907,6 +4907,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 252817,
+      "num": 107328,
+      "word": "刘亦菲洪世贤 全女回家的诱惑",
+      "onboard_time": 1764976157,
+      "rank": 11,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 250387,
       "num": 250387,
       "word": "国乒8比2法国",
@@ -5363,6 +5371,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 227728,
+      "num": 861505,
+      "word": "驻日美军猥亵少女日本不予起诉",
+      "onboard_time": 1764976096,
+      "rank": 1,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 227646,
       "num": 215939,
       "word": "拜托那可是陈妍希",
@@ -5377,6 +5393,14 @@
       "onboard_time": 1764485299,
       "rank": 35,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 227247,
+      "num": 763501,
+      "word": "世界杯抽签",
+      "onboard_time": 1764976157,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 227156,
@@ -5745,14 +5769,6 @@
       "onboard_time": 1764679281,
       "rank": 9,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 211879,
-      "num": 763501,
-      "word": "世界杯抽签",
-      "onboard_time": 1764976157,
-      "rank": 0,
-      "category": "体育"
     },
     {
       "raw_hot": 211874,
@@ -6225,14 +6241,6 @@
       "onboard_time": 1764832883,
       "rank": 36,
       "category": "作品衍生,时尚"
-    },
-    {
-      "raw_hot": 202541,
-      "num": 103195,
-      "word": "刘亦菲洪世贤 全女回家的诱惑",
-      "onboard_time": 1764976157,
-      "rank": 11,
-      "category": "艺人"
     },
     {
       "raw_hot": 202148,
@@ -8171,14 +8179,6 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 161727,
-      "num": 161727,
-      "word": "驻日美军猥亵少女日本不予起诉",
-      "onboard_time": 1764976096,
-      "rank": 1,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 161725,
       "num": 161725,
       "word": "爱马仕继承人被曝坐廉航出行",
@@ -9433,6 +9433,14 @@
       "onboard_time": 1764829582,
       "rank": 43,
       "category": "电影"
+    },
+    {
+      "raw_hot": 143323,
+      "num": 73969,
+      "word": "这样玩手机严重可能失明",
+      "onboard_time": 1764976157,
+      "rank": 20,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 143309,
@@ -13563,14 +13571,6 @@
       "category": "游戏,艺人"
     },
     {
-      "raw_hot": 104906,
-      "num": 54568,
-      "word": "这样玩手机严重可能失明",
-      "onboard_time": 1764976157,
-      "rank": 20,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 104869,
       "num": 162337,
       "word": "中方致函古特雷斯批驳日方无理狡辩",
@@ -16347,6 +16347,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 82403,
+      "num": 69100,
+      "word": "政务公示用明星和人名大全名字太荒诞",
+      "onboard_time": 1764977298,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 82370,
       "num": 82370,
       "word": "TF家族四代纪录片",
@@ -16923,6 +16931,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 75208,
+      "num": 75208,
+      "word": "刘宇宁 让我宣传进来",
+      "onboard_time": 1764976877,
+      "rank": 43,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 75179,
       "num": 78485,
       "word": "罗大美遇害29个月还未下葬",
@@ -17025,6 +17041,14 @@
       "onboard_time": 1764897740,
       "rank": 44,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 74599,
+      "num": 74599,
+      "word": "马克龙夸孙颖莎非常厉害",
+      "onboard_time": 1764976277,
+      "rank": 18,
+      "category": "国际时政,体育"
     },
     {
       "raw_hot": 74460,
@@ -17795,14 +17819,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 61367,
-      "num": 61367,
-      "word": "马克龙夸孙颖莎非常厉害",
-      "onboard_time": 1764976277,
-      "rank": 18,
-      "category": "国际时政,体育"
-    },
-    {
       "raw_hot": 61186,
       "num": 68272,
       "word": "程十安回应与前公司解约",
@@ -17852,7 +17868,7 @@
     },
     {
       "raw_hot": 59914,
-      "num": 42956,
+      "num": 51956,
       "word": "凯特佩戴2600颗钻石王冠亮相国宴",
       "onboard_time": 1764976996,
       "rank": 30,
@@ -17961,6 +17977,14 @@
       "onboard_time": 1764468260,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 57921,
+      "num": 57921,
+      "word": "无限暖暖",
+      "onboard_time": 1764976636,
+      "rank": 24,
+      "category": "游戏"
     },
     {
       "raw_hot": 57891,
@@ -18283,6 +18307,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 53215,
+      "num": 53215,
+      "word": "谁把外卖点到老君山山顶了",
+      "onboard_time": 1764977177,
+      "rank": 28,
+      "category": "情感"
+    },
+    {
       "raw_hot": 53032,
       "num": 114347,
       "word": "GALA无愧于ADC之名",
@@ -18323,14 +18355,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 52871,
-      "num": 52871,
-      "word": "无限暖暖",
-      "onboard_time": 1764976636,
-      "rank": 24,
-      "category": "游戏"
-    },
-    {
       "raw_hot": 52835,
       "num": 147867,
       "word": "男子钓上罕见113斤大鱼卖了6500块",
@@ -18363,6 +18387,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 52202,
+      "num": 51953,
+      "word": "Uzi调侃水晶哥说TheShy不在",
+      "onboard_time": 1764976937,
+      "rank": 31,
+      "category": "电竞"
+    },
+    {
+      "raw_hot": 52095,
+      "num": 52095,
+      "word": "地铁回应女子打翻奶茶用围巾擦净",
+      "onboard_time": 1764977358,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 51908,
       "num": 60882,
       "word": "年薪435万董事长反对自己当选董事长",
@@ -18393,6 +18433,14 @@
       "onboard_time": 1764628155,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 51687,
+      "num": 51687,
+      "word": "金晨回应配音疯狂动物城",
+      "onboard_time": 1764973996,
+      "rank": 47,
+      "category": "电影"
     },
     {
       "raw_hot": 51582,
@@ -18451,6 +18499,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 50780,
+      "num": 50780,
+      "word": "中方愿同俄方配合坚决遏制日本挑衅",
+      "onboard_time": 1764977057,
+      "rank": 37,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 50725,
       "num": 148097,
       "word": "37岁重庆嬢嬢在比利时摆摊月入6万",
@@ -18481,14 +18537,6 @@
       "onboard_time": 1764665363,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 50387,
-      "num": 50387,
-      "word": "金晨回应配音疯狂动物城",
-      "onboard_time": 1764973996,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 50373,
@@ -18555,6 +18603,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 49026,
+      "num": 49026,
+      "word": "狙击蝴蝶李嘉格真人版",
+      "onboard_time": 1764960736,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 48982,
       "num": 118343,
       "word": "马琳一个球也没打中",
@@ -18585,6 +18641,14 @@
       "onboard_time": 1764667521,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 48442,
+      "num": 48442,
+      "word": "王楚钦和法国总统握手拥抱",
+      "onboard_time": 1764976456,
+      "rank": 35,
+      "category": "国际时政,体育"
     },
     {
       "raw_hot": 48432,
@@ -18851,22 +18915,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 44937,
-      "num": 41662,
-      "word": "Uzi调侃水晶哥说TheShy不在",
-      "onboard_time": 1764976937,
-      "rank": 31,
-      "category": "电竞"
-    },
-    {
-      "raw_hot": 44900,
-      "num": 44900,
-      "word": "狙击蝴蝶李嘉格真人版",
-      "onboard_time": 1764960736,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 44880,
       "num": 143030,
       "word": "官方通报初中生在校体测倒地后猝死",
@@ -18897,6 +18945,14 @@
       "onboard_time": 1764485061,
       "rank": 39,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 44488,
+      "num": 44488,
+      "word": "减肥千万不要只吃水煮菜了",
+      "onboard_time": 1764970214,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 44440,
@@ -19171,6 +19227,14 @@
       "category": "军事"
     },
     {
+      "raw_hot": 41332,
+      "num": 41332,
+      "word": "以为会长胖其实帮助减肥的主食",
+      "onboard_time": 1764977419,
+      "rank": 43,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 41205,
       "num": 108664,
       "word": "成毅长安二十四计repo",
@@ -19219,6 +19283,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 40427,
+      "num": 40427,
+      "word": "疯狂动物城集体拥抱尼克",
+      "onboard_time": 1764976877,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 40426,
       "num": 55054,
       "word": "宁静选择上综艺不拍戏",
@@ -19241,6 +19313,14 @@
       "onboard_time": 1764891560,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 40319,
+      "num": 40319,
+      "word": "阿根廷 好签",
+      "onboard_time": 1764977598,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 40315,
@@ -19313,6 +19393,14 @@
       "onboard_time": 1764840682,
       "rank": 45,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 39673,
+      "num": 39673,
+      "word": "左奇函受伤",
+      "onboard_time": 1764977898,
+      "rank": 47,
+      "category": "艺人"
     },
     {
       "raw_hot": 39614,
@@ -19483,14 +19571,6 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 37077,
-      "num": 37077,
-      "word": "减肥千万不要只吃水煮菜了",
-      "onboard_time": 1764970214,
-      "rank": 44,
-      "category": "运动健身"
-    },
-    {
       "raw_hot": 36985,
       "num": 137124,
       "word": "深圳望郎归80天内3人徒步遇难",
@@ -19563,14 +19643,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 35315,
-      "num": 35315,
-      "word": "王楚钦和法国总统握手拥抱",
-      "onboard_time": 1764976456,
-      "rank": 35,
-      "category": "国际时政,体育"
-    },
-    {
       "raw_hot": 34989,
       "num": 136339,
       "word": "偶遇董卿看疯狂动物城",
@@ -19585,14 +19657,6 @@
       "onboard_time": 1764585082,
       "rank": 38,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 34873,
-      "num": 34873,
-      "word": "中方愿同俄方配合坚决遏制日本挑衅",
-      "onboard_time": 1764977057,
-      "rank": 37,
-      "category": "国内时政"
     },
     {
       "raw_hot": 34849,
@@ -19819,14 +19883,6 @@
       "category": "美妆"
     },
     {
-      "raw_hot": 32374,
-      "num": 32170,
-      "word": "刘宇宁 让我宣传进来",
-      "onboard_time": 1764976877,
-      "rank": 43,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 32360,
       "num": 246037,
       "word": "高市早苗必然撞上南墙",
@@ -19921,14 +19977,6 @@
       "onboard_time": 1764925821,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 30716,
-      "num": 30716,
-      "word": "疯狂动物城集体拥抱尼克",
-      "onboard_time": 1764976877,
-      "rank": 47,
-      "category": "电影"
     },
     {
       "raw_hot": 30504,
