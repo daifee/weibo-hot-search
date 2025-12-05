@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764900169024,
+  "endTime": 1764901504148,
   "band_list": [
     {
       "raw_hot": 1970748,
@@ -19,8 +19,8 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 659389,
-      "num": 659389,
+      "raw_hot": 1346413,
+      "num": 1346413,
       "word": "陈震回应被全平台禁言",
       "onboard_time": 1764899780,
       "rank": 1,
@@ -60,7 +60,7 @@
     },
     {
       "raw_hot": 428061,
-      "num": 155363,
+      "num": 187196,
       "word": "李嘉格与男友初次见面主动邀约散步",
       "onboard_time": 1764897799,
       "rank": 20,
@@ -100,7 +100,7 @@
     },
     {
       "raw_hot": 350810,
-      "num": 153092,
+      "num": 185832,
       "word": "痞幼分手仅20天火速上恋综",
       "onboard_time": 1764893059,
       "rank": 21,
@@ -131,6 +131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 284627,
+      "num": 284627,
+      "word": "陈震名下公司因欠税被公告",
+      "onboard_time": 1764900680,
+      "rank": 5,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 259418,
       "num": 224764,
       "word": "狙击蝴蝶",
@@ -140,7 +148,7 @@
     },
     {
       "raw_hot": 255552,
-      "num": 202259,
+      "num": 202477,
       "word": "黄子韬徐艺洋cos尼克朱迪",
       "onboard_time": 1764893601,
       "rank": 12,
@@ -148,7 +156,7 @@
     },
     {
       "raw_hot": 254377,
-      "num": 126827,
+      "num": 160651,
       "word": "李嘉格直播男友出镜",
       "onboard_time": 1764898942,
       "rank": 25,
@@ -163,6 +171,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 242511,
+      "num": 202666,
+      "word": "姐弟恋在家里好刺激",
+      "onboard_time": 1764898760,
+      "rank": 30,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 239450,
       "num": 239450,
       "word": "现在就出发",
@@ -172,7 +188,7 @@
     },
     {
       "raw_hot": 236063,
-      "num": 192944,
+      "num": 201845,
       "word": "黄圣依在大理酒馆唱歌",
       "onboard_time": 1764896180,
       "rank": 14,
@@ -185,6 +201,14 @@
       "onboard_time": 1764896300,
       "rank": 8,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 221030,
+      "num": 221030,
+      "word": "齐达内晒和樊振东打乒乓照",
+      "onboard_time": 1764898760,
+      "rank": 15,
+      "category": "体育"
     },
     {
       "raw_hot": 213956,
@@ -203,6 +227,22 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 209403,
+      "num": 209403,
+      "word": "摩尔线程",
+      "onboard_time": 1764899838,
+      "rank": 18,
+      "category": "财经"
+    },
+    {
+      "raw_hot": 203236,
+      "num": 203236,
+      "word": "陈震60秒视频报价80万",
+      "onboard_time": 1764901400,
+      "rank": 9,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 202920,
       "num": 190594,
       "word": "清华学生兼职家教被白嫖300元",
@@ -219,19 +259,19 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 190594,
-      "num": 190594,
-      "word": "齐达内晒和樊振东打乒乓照",
-      "onboard_time": 1764898760,
-      "rank": 15,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 188542,
-      "num": 188542,
+      "raw_hot": 193802,
+      "num": 193802,
       "word": "马克龙总统抵达成都",
       "onboard_time": 1764857482,
       "rank": 6,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 185810,
+      "num": 185810,
+      "word": "马克龙访华",
+      "onboard_time": 1764900739,
+      "rank": 22,
       "category": "国际时政"
     },
     {
@@ -259,14 +299,6 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 173572,
-      "num": 105899,
-      "word": "姐弟恋在家里好刺激",
-      "onboard_time": 1764898760,
-      "rank": 30,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 169626,
       "num": 117557,
       "word": "章泽天 刘亦菲妈妈年轻时候",
@@ -275,12 +307,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 160205,
-      "num": 160205,
-      "word": "摩尔线程",
-      "onboard_time": 1764899838,
-      "rank": 18,
-      "category": "财经"
+      "raw_hot": 160785,
+      "num": 160785,
+      "word": "村支书偷偷为全村交了8年保费",
+      "onboard_time": 1764899479,
+      "rank": 29,
+      "category": "正能量"
     },
     {
       "raw_hot": 149616,
@@ -371,6 +403,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 116565,
+      "num": 116565,
+      "word": "小S回应录跨年宣传片崩溃大哭",
+      "onboard_time": 1764900620,
+      "rank": 28,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 114677,
       "num": 114677,
       "word": "蔡徐坤 PUBG",
@@ -403,20 +443,20 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 106884,
+      "num": 106884,
+      "word": "雅迪回应电动自行车新国标",
+      "onboard_time": 1764900321,
+      "rank": 30,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 106634,
       "num": 99859,
       "word": "狙击蝴蝶处处吻",
       "onboard_time": 1764885254,
       "rank": 31,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 106061,
-      "num": 106061,
-      "word": "村支书偷偷为全村交了8年保费",
-      "onboard_time": 1764899479,
-      "rank": 29,
-      "category": "正能量"
     },
     {
       "raw_hot": 104850,
@@ -427,6 +467,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 104731,
+      "num": 104731,
+      "word": "陈坤儿子23岁了",
+      "onboard_time": 1764898760,
+      "rank": 32,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 103939,
       "num": 96841,
       "word": "看到了五十多岁的孟子义",
@@ -435,12 +483,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 96216,
-      "num": 96216,
-      "word": "陈坤儿子23岁了",
-      "onboard_time": 1764898760,
-      "rank": 32,
-      "category": "艺人"
+      "raw_hot": 94228,
+      "num": 189010,
+      "word": "中公教育以物抵债退落榜考生学费",
+      "onboard_time": 1764900739,
+      "rank": 19,
+      "category": "舆论监督"
     },
     {
       "raw_hot": 91373,
@@ -449,6 +497,14 @@
       "onboard_time": 1764893360,
       "rank": 33,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 86612,
+      "num": 86612,
+      "word": "黄子韬刘耀文TF四代合照",
+      "onboard_time": 1764900920,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 85554,
@@ -497,6 +553,14 @@
       "onboard_time": 1764844341,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 80602,
+      "num": 80602,
+      "word": "陈震 韩路",
+      "onboard_time": 1764900499,
+      "rank": 41,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 79217,
@@ -579,6 +643,14 @@
       "category": "教育"
     },
     {
+      "raw_hot": 74341,
+      "num": 74341,
+      "word": "马克龙携夫人抵达成都",
+      "onboard_time": 1764901220,
+      "rank": 43,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 73939,
       "num": 83932,
       "word": "婚房被改小三婴儿房",
@@ -611,6 +683,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 73058,
+      "num": 73058,
+      "word": "郭敬明给月鳞绮纪写了19首歌",
+      "onboard_time": 1764898280,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 73057,
       "num": 83830,
       "word": "敖瑞鹏沈羽洁不二之臣新婚吻",
@@ -641,6 +721,14 @@
       "onboard_time": 1764891678,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 69793,
+      "num": 69793,
+      "word": "WTT香港总决赛倒计时5天",
+      "onboard_time": 1764900920,
+      "rank": 48,
+      "category": "体育"
     },
     {
       "raw_hot": 69034,
@@ -697,6 +785,22 @@
       "onboard_time": 1764847460,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56389,
+      "num": 159367,
+      "word": "哈里王子上脱口秀讥讽特朗普",
+      "onboard_time": 1764899360,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 55447,
+      "num": 190989,
+      "word": "网红罗大美被害案二审开庭",
+      "onboard_time": 1764900560,
+      "rank": 18,
+      "category": "民生新闻,网红"
     },
     {
       "raw_hot": 54181,
@@ -803,6 +907,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 39155,
+      "num": 86617,
+      "word": "美军将采购超30万架自杀式无人机",
+      "onboard_time": 1764900739,
+      "rank": 39,
+      "category": "军事"
+    },
+    {
+      "raw_hot": 38721,
+      "num": 86676,
+      "word": "硅谷巨头大裁员",
+      "onboard_time": 1764900680,
+      "rank": 38,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 38610,
       "num": 68250,
       "word": "谢娜参加跳跳运动会",
@@ -835,6 +955,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 33560,
+      "num": 86798,
+      "word": "日本军国主义死而不僵",
+      "onboard_time": 1764900440,
+      "rank": 37,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 30843,
       "num": 68218,
       "word": "丁俊晖vs唐纳森",
@@ -865,14 +993,6 @@
       "onboard_time": 1764863840,
       "rank": 39,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 22192,
-      "num": 159367,
-      "word": "哈里王子上脱口秀讥讽特朗普",
-      "onboard_time": 1764899360,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 19823,

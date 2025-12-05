@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 10:02:49
+本榜单时间：2025/12/01 00:31:49 ~ 2025/12/05 10:25:04
 </p>
 </blockquote>
 <p>
@@ -197,6 +197,12 @@
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%A4%9A%E5%B9%B3%E5%8F%B0%E8%A2%AB%E7%A6%81%E8%A8%80%23" target="weibo">
 陈震多平台被禁言（热度：1347268）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%A6%81%E8%A8%80%23" target="weibo">
+陈震回应被全平台禁言（热度：1346413）
 </a>
 </li>
 
@@ -635,12 +641,6 @@ Uzi 复出（热度：686462）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%AE%81%E5%BE%B7%E6%97%B6%E4%BB%A3%E5%8F%91%E5%B8%83%E6%B6%A8%E8%96%AA%E9%80%9A%E7%9F%A5%23" target="weibo">
 宁德时代发布涨薪通知（热度：660106）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%9B%9E%E5%BA%94%E8%A2%AB%E5%85%A8%E5%B9%B3%E5%8F%B0%E7%A6%81%E8%A8%80%23" target="weibo">
-陈震回应被全平台禁言（热度：659389）
 </a>
 </li>
 
@@ -2343,6 +2343,12 @@ Viper上线（热度：286982）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%87%E5%90%8D%E4%B8%8B%E5%85%AC%E5%8F%B8%E5%9B%A0%E6%AC%A0%E7%A8%8E%E8%A2%AB%E5%85%AC%E5%91%8A%23" target="weibo">
+陈震名下公司因欠税被公告（热度：284627）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E6%8A%B5%E4%BA%AC%E5%90%8E%E5%8F%91%E6%96%87%23" target="weibo">
 马克龙抵京后发文（热度：284344）
 </a>
@@ -2703,6 +2709,12 @@ iPhone用户的尴尬瞬间（热度：257861）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E6%81%8B%E5%9C%A8%E5%AE%B6%E9%87%8C%E5%A5%BD%E5%88%BA%E6%BF%80%23" target="weibo">
+姐弟恋在家里好刺激（热度：242511）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%91%A8%E9%B8%BF%E7%A5%8E%E7%A7%B0%E8%B1%86%E5%8C%85%E6%89%8B%E6%9C%BA%E5%86%B2%E5%9E%AE%E5%A4%A7%E5%8E%82%E6%8A%A4%E5%9F%8E%E6%B2%B3%23" target="weibo">
 周鸿祎称豆包手机冲垮大厂护城河（热度：242493）
 </a>
@@ -2973,6 +2985,12 @@ iPad中国市场份额大跌（热度：230094）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%BE%BE%E5%86%85%E6%99%92%E5%92%8C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%89%93%E4%B9%92%E4%B9%93%E7%85%A7%23" target="weibo">
+齐达内晒和樊振东打乒乓照（热度：221030）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%BB%84%E9%9B%85%E7%90%BC%E5%A9%9A%E7%A4%BC%E7%9A%84%E9%92%BB%E6%88%92%E4%B8%8D%E4%BC%9A%E8%A2%AB%E6%95%99%E7%BB%83%E8%AF%B4%E5%B0%8F%E4%BA%86%23" target="weibo">
 黄雅琼婚礼的钻戒不会被教练说小了（热度：220446）
 </a>
@@ -3131,6 +3149,12 @@ iPad中国市场份额大跌（热度：230094）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23TF%E5%AE%B6%E6%97%8F%E5%86%92%E6%B3%A1%23" target="weibo">
 TF家族冒泡（热度：209531）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%23" target="weibo">
+摩尔线程（热度：209403）
 </a>
 </li>
 
@@ -3329,6 +3353,12 @@ Uzi上线吃瓜（热度：204513）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%93%A5%E5%93%A5%E6%9D%A5%E6%B3%A1%E8%8C%B6%E7%A7%B0%E4%B8%8E%E7%88%B7%E7%88%B7%E4%B8%8D%E6%B3%A1%E8%8C%B6%E6%97%A0%E5%85%B3%23" target="weibo">
 哥哥来泡茶称与爷爷不泡茶无关（热度：203277）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%99%88%E9%9C%8760%E7%A7%92%E8%A7%86%E9%A2%91%E6%8A%A5%E4%BB%B780%E4%B8%87%23" target="weibo">
+陈震60秒视频报价80万（热度：203236）
 </a>
 </li>
 
@@ -3579,12 +3609,6 @@ WBG官宣Elk加入（热度：195046）
 </li>
 
 <li>
-<a href="https://s.weibo.com/weibo?q=%23%E9%BD%90%E8%BE%BE%E5%86%85%E6%99%92%E5%92%8C%E6%A8%8A%E6%8C%AF%E4%B8%9C%E6%89%93%E4%B9%92%E4%B9%93%E7%85%A7%23" target="weibo">
-齐达内晒和樊振东打乒乓照（热度：190594）
-</a>
-</li>
-
-<li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E9%9F%B3%20%E4%B8%89%E4%BA%9A%23" target="weibo">
 新音 三亚（热度：190292）
 </a>
@@ -3683,6 +3707,12 @@ vivo 女性用户（热度：186823）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%94%B5%E5%BD%B1%E5%BE%97%E9%97%B2%E8%B0%A8%E5%88%B6%E7%BE%8E%E5%9B%BD%E4%B8%8A%E6%98%A0%23" target="weibo">
 电影得闲谨制美国上映（热度：186185）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%A9%AC%E5%85%8B%E9%BE%99%E8%AE%BF%E5%8D%8E%23" target="weibo">
+马克龙访华（热度：185810）
 </a>
 </li>
 
@@ -3971,12 +4001,6 @@ jjking说Uzi大概率复出（热度：183997）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%B1%85%E6%B0%91%E5%BA%9F%E5%BC%83%E9%85%92%E7%93%B6%E4%B8%AD%E7%A0%B8%E5%87%BA%E8%BF%87%E5%86%AC%E7%9C%BC%E9%95%9C%E8%9B%87%23" target="weibo">
 居民废弃酒瓶中砸出过冬眼镜蛇（热度：173650）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%A7%90%E5%BC%9F%E6%81%8B%E5%9C%A8%E5%AE%B6%E9%87%8C%E5%A5%BD%E5%88%BA%E6%BF%80%23" target="weibo">
-姐弟恋在家里好刺激（热度：173572）
 </a>
 </li>
 
@@ -4359,6 +4383,12 @@ Kanavi说要整顿队内纪律（热度：161786）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E6%9D%91%E6%94%AF%E4%B9%A6%E5%81%B7%E5%81%B7%E4%B8%BA%E5%85%A8%E6%9D%91%E4%BA%A4%E4%BA%868%E5%B9%B4%E4%BF%9D%E8%B4%B9%23" target="weibo">
+村支书偷偷为全村交了8年保费（热度：160785）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E9%A5%B6%E9%9B%AA%E6%BC%AB%E6%8A%8A%E7%9F%AD%E5%89%A7%E6%B0%9B%E5%9B%B4%E6%84%9F%E5%8D%B7%E8%B5%B7%E6%9D%A5%E4%BA%86%23" target="weibo">
 饶雪漫把短剧氛围感卷起来了（热度：160718）
 </a>
@@ -4385,12 +4415,6 @@ Kanavi说要整顿队内纪律（热度：161786）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%98%9F%E5%85%89%E5%A4%A7%E8%B5%8F%E9%A1%B6%E6%B5%81%E8%81%9A%E9%9B%86%E6%9C%80%E9%BD%90%E7%9A%84%E4%B8%80%E5%B9%B4%23" target="weibo">
 星光大赏顶流聚集最齐的一年（热度：160440）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%91%A9%E5%B0%94%E7%BA%BF%E7%A8%8B%23" target="weibo">
-摩尔线程（热度：160205）
 </a>
 </li>
 
@@ -5987,30 +6011,6 @@ iPhone17Pro移除关键相机功能（热度：125198）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E6%9D%8E%E6%98%80%E9%94%90%E7%8E%8B%E6%A5%9A%E7%84%B6%20%E5%BD%92%E8%89%AF%E8%BE%B0%23" target="weibo">
 李昀锐王楚然 归良辰（热度：121848）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E4%BA%AC%E5%9F%8E%E5%A4%A7%E5%B8%88%E8%B5%9B%23" target="weibo">
-京城大师赛（热度：121731）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E5%AF%92%E6%BD%AE%23" target="weibo">
-寒潮（热度：121696）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E7%AB%9E%E6%B5%AA%E5%A4%A7%E4%BC%9A%23" target="weibo">
-竞浪大会（热度：121683）
-</a>
-</li>
-
-<li>
-<a href="https://s.weibo.com/weibo?q=%23%E6%96%B0%E4%B8%9C%E6%96%B9%E5%91%98%E5%B7%A5%E5%90%90%E6%A7%BD%E5%8A%A0%E7%8F%AD%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81%23" target="weibo">
-新东方员工吐槽加班账号被封（热度：121615）
 </a>
 </li>
 
