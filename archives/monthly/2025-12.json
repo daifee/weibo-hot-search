@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764906040100,
+  "endTime": 1764909395474,
   "band_list": [
     {
       "raw_hot": 2440776,
@@ -273,6 +273,14 @@
       "onboard_time": 1764656841,
       "rank": 14,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1322847,
+      "num": 1322847,
+      "word": "法国总统在成都晨跑",
+      "onboard_time": 1764905540,
+      "rank": 19,
+      "category": "国际时政"
     },
     {
       "raw_hot": 1286220,
@@ -1379,6 +1387,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 518110,
+      "num": 204096,
+      "word": "衣服成本价就在水洗标上",
+      "onboard_time": 1764906681,
+      "rank": 11,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 517707,
       "num": 517707,
       "word": "27岁瞒着所有人买了一套房",
@@ -2003,6 +2019,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 403238,
+      "num": 196976,
+      "word": "向华强称为捧向佐亏了几个亿",
+      "onboard_time": 1764907821,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 401839,
       "num": 219773,
       "word": "25岁小伙离世2小时后被公司设为离职",
@@ -2177,6 +2201,14 @@
       "onboard_time": 1764645079,
       "rank": 8,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 380228,
+      "num": 184940,
+      "word": "李嘉格男朋友是01年的",
+      "onboard_time": 1764907101,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 380106,
@@ -2433,6 +2465,14 @@
       "onboard_time": 1764773242,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 351214,
+      "num": 191090,
+      "word": "沈佳润 路人缘是一种玄的东西",
+      "onboard_time": 1764907400,
+      "rank": 16,
+      "category": "艺人"
     },
     {
       "raw_hot": 350960,
@@ -3219,6 +3259,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 281438,
+      "num": 204621,
+      "word": "陈震同学的同学",
+      "onboard_time": 1764904521,
+      "rank": 18,
+      "category": "汽车,网红"
+    },
+    {
       "raw_hot": 280680,
       "num": 926059,
       "word": "LCK引入教练语音机制",
@@ -3353,6 +3401,14 @@
       "onboard_time": 1764679823,
       "rank": 29,
       "category": "情感"
+    },
+    {
+      "raw_hot": 268392,
+      "num": 205677,
+      "word": "白鹿听到恭迎爱奇艺女王的反应",
+      "onboard_time": 1764905061,
+      "rank": 25,
+      "category": "艺人"
     },
     {
       "raw_hot": 267550,
@@ -3619,6 +3675,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 246187,
+      "num": 183630,
+      "word": "张凌赫自己都生不出这么像的",
+      "onboard_time": 1764908661,
+      "rank": 24,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 246009,
       "num": 230876,
       "word": "张子枫给谭松韵做了发圈",
@@ -3739,14 +3803,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 239423,
-      "num": 205677,
-      "word": "白鹿听到恭迎爱奇艺女王的反应",
-      "onboard_time": 1764905061,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 238631,
       "num": 1390174,
       "word": "原神",
@@ -3835,6 +3891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 234781,
+      "num": 181424,
+      "word": "刘嘉玲问时代峰峻怎么赚钱",
+      "onboard_time": 1764908241,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 234626,
       "num": 234626,
       "word": "方圆拍短剧花钱找配音",
@@ -3849,14 +3913,6 @@
       "onboard_time": 1764899838,
       "rank": 18,
       "category": "财经"
-    },
-    {
-      "raw_hot": 234384,
-      "num": 204621,
-      "word": "陈震同学的同学",
-      "onboard_time": 1764904521,
-      "rank": 18,
-      "category": "汽车,网红"
     },
     {
       "raw_hot": 233795,
@@ -4115,6 +4171,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 218170,
+      "num": 178789,
+      "word": "宋茜给自己剪短发",
+      "onboard_time": 1764905900,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 218000,
       "num": 218000,
       "word": "枭起青壤 删减",
@@ -4168,6 +4232,14 @@
       "word": "陈梦表彰大会站C位",
       "onboard_time": 1764735082,
       "rank": 23,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 214396,
+      "num": 214396,
+      "word": "詹姆斯连续得分上双纪录终结",
+      "onboard_time": 1764905600,
+      "rank": 21,
       "category": "体育"
     },
     {
@@ -4803,6 +4875,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 195050,
+      "num": 176336,
+      "word": "王一博说我没办法给别人情绪价值",
+      "onboard_time": 1764908541,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195046,
       "num": 1092353,
       "word": "WBG官宣Elk加入",
@@ -4873,14 +4953,6 @@
       "onboard_time": 1764654742,
       "rank": 4,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 193226,
-      "num": 193226,
-      "word": "詹姆斯连续得分上双纪录终结",
-      "onboard_time": 1764905600,
-      "rank": 21,
-      "category": "体育"
     },
     {
       "raw_hot": 192663,
@@ -5075,6 +5147,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 185660,
+      "num": 185660,
+      "word": "长佩崩了",
+      "onboard_time": 1764649401,
+      "rank": 43,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 185594,
       "num": 185594,
       "word": "清清 谁给小胖改的ID",
@@ -5147,12 +5227,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 183678,
-      "num": 183678,
-      "word": "长佩崩了",
-      "onboard_time": 1764649401,
-      "rank": 43,
-      "category": "互联网"
+      "raw_hot": 183910,
+      "num": 183910,
+      "word": "陈震同学的同学被禁言",
+      "onboard_time": 1764907101,
+      "rank": 23,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 183582,
@@ -5523,6 +5603,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 171983,
+      "num": 171983,
+      "word": "新华社发文疯狂盗摄城",
+      "onboard_time": 1764903919,
+      "rank": 40,
+      "category": "电影"
+    },
+    {
       "raw_hot": 171832,
       "num": 171832,
       "word": "假性恋爱",
@@ -5545,6 +5633,14 @@
       "onboard_time": 1764734784,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 171543,
+      "num": 158712,
+      "word": "声生不息 版权",
+      "onboard_time": 1764908782,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 171541,
@@ -5675,6 +5771,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 167506,
+      "num": 167506,
+      "word": "宁静 柯淳你是渣男",
+      "onboard_time": 1764907281,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 167378,
       "num": 167378,
       "word": "女子采蘑菇意外发现一窝动物幼崽",
@@ -5705,14 +5809,6 @@
       "onboard_time": 1764729381,
       "rank": 26,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 167179,
-      "num": 167179,
-      "word": "新华社发文疯狂盗摄城",
-      "onboard_time": 1764903919,
-      "rank": 40,
-      "category": "电影"
     },
     {
       "raw_hot": 167003,
@@ -5793,6 +5889,22 @@
       "onboard_time": 1764774443,
       "rank": 40,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 165004,
+      "num": 172962,
+      "word": "姐弟7万买相邻墓位下葬发现不相邻",
+      "onboard_time": 1764904401,
+      "rank": 35,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 164793,
+      "num": 164793,
+      "word": "我赚钱方式的组成",
+      "onboard_time": 1764908421,
+      "rank": 32,
+      "category": "情感"
     },
     {
       "raw_hot": 164753,
@@ -6177,14 +6289,6 @@
       "onboard_time": 1764572360,
       "rank": 27,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 156621,
-      "num": 156621,
-      "word": "宋茜给自己剪短发",
-      "onboard_time": 1764905900,
-      "rank": 30,
-      "category": "艺人"
     },
     {
       "raw_hot": 156386,
@@ -6579,14 +6683,6 @@
       "category": "电影"
     },
     {
-      "raw_hot": 148215,
-      "num": 148215,
-      "word": "姐弟7万买相邻墓位下葬发现不相邻",
-      "onboard_time": 1764904401,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 148171,
       "num": 145122,
       "word": "香港火灾已致146人遇难",
@@ -6713,6 +6809,14 @@
       "onboard_time": 1764835941,
       "rank": 29,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 144785,
+      "num": 144785,
+      "word": "明星参加尖叫之夜路透",
+      "onboard_time": 1764908481,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 144745,
@@ -6905,6 +7009,14 @@
       "onboard_time": 1764732862,
       "rank": 32,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 140681,
+      "num": 120500,
+      "word": "黄子韬  TF一二三四代都笑纳了",
+      "onboard_time": 1764908961,
+      "rank": 39,
+      "category": "艺人"
     },
     {
       "raw_hot": 140635,
@@ -7275,6 +7387,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 134495,
+      "num": 134495,
+      "word": "老师是懂就地取材的",
+      "onboard_time": 1764908541,
+      "rank": 36,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 134489,
       "num": 236077,
       "word": "恋综是小爱豆的收留所吗",
@@ -7585,6 +7705,14 @@
       "onboard_time": 1764688283,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 130501,
+      "num": 147701,
+      "word": "三家主要外卖平台分别发声明",
+      "onboard_time": 1764907881,
+      "rank": 34,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 130465,
@@ -8419,6 +8547,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 119871,
+      "num": 119871,
+      "word": "外卖新国标",
+      "onboard_time": 1764908001,
+      "rank": 40,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 119844,
       "num": 119844,
       "word": "汶川地震女孩回应与施救军人结婚",
@@ -8579,6 +8715,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 118480,
+      "num": 118480,
+      "word": "华为MateX7全色售罄",
+      "onboard_time": 1764908481,
+      "rank": 42,
+      "category": "数码"
+    },
+    {
       "raw_hot": 118366,
       "num": 396778,
       "word": "林诗栋2比0普卡",
@@ -8643,6 +8787,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 117430,
+      "num": 117430,
+      "word": "带娃界来了个天才",
+      "onboard_time": 1764908782,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 117425,
       "num": 117425,
       "word": "陈少熙直播",
@@ -8705,6 +8857,14 @@
       "onboard_time": 1764852202,
       "rank": 37,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 117081,
+      "num": 117081,
+      "word": "林心如状态满40减20",
+      "onboard_time": 1764906861,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 116970,
@@ -9195,6 +9355,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 109487,
+      "num": 109487,
+      "word": "建议大家周末去做反差大的事",
+      "onboard_time": 1764906861,
+      "rank": 46,
+      "category": "情感"
+    },
+    {
       "raw_hot": 109405,
       "num": 109405,
       "word": "连老物件都在反复确认是不是你",
@@ -9473,6 +9641,14 @@
       "onboard_time": 1764905301,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106302,
+      "num": 106302,
+      "word": "遭毒蛇咬伤男子吃解毒丸后死亡",
+      "onboard_time": 1764907400,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 106181,
@@ -9857,6 +10033,14 @@
       "onboard_time": 1764657020,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 102101,
+      "num": 122237,
+      "word": "美国网友发现购买猪肉遍布气孔",
+      "onboard_time": 1764908302,
+      "rank": 37,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 102062,
@@ -11163,6 +11347,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85097,
+      "num": 107018,
+      "word": "四年被石昊惊艳了35次",
+      "onboard_time": 1764907940,
+      "rank": 47,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 85070,
       "num": 85070,
       "word": "蓝盈莹在东北尝试走路用腰发力",
@@ -11225,14 +11417,6 @@
       "onboard_time": 1764857783,
       "rank": 49,
       "category": "体育"
-    },
-    {
-      "raw_hot": 84069,
-      "num": 195096,
-      "word": "法国总统在成都晨跑",
-      "onboard_time": 1764905540,
-      "rank": 19,
-      "category": "国际时政"
     },
     {
       "raw_hot": 83830,
@@ -12171,6 +12355,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 70215,
+      "num": 118542,
+      "word": "入室抢婴案母亲说人贩怎么有脸上诉",
+      "onboard_time": 1764907281,
+      "rank": 41,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 70210,
       "num": 413999,
       "word": "博主实测千问是初中数学辅导天花板",
@@ -12921,6 +13113,14 @@
       "onboard_time": 1764656960,
       "rank": 39,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 53005,
+      "num": 183953,
+      "word": "肖战下颚线也有代言了",
+      "onboard_time": 1764907101,
+      "rank": 22,
+      "category": "艺人"
     },
     {
       "raw_hot": 52994,
@@ -14193,6 +14393,14 @@
       "onboard_time": 1764718698,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 27980,
+      "num": 120838,
+      "word": "东南亚低龄留学热开始退潮",
+      "onboard_time": 1764909141,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 27823,
