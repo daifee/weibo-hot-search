@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764940167907,
+  "endTime": 1764941938874,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -44,7 +44,7 @@
     },
     {
       "raw_hot": 1796508,
-      "num": 293628,
+      "num": 334149,
       "word": "金晨 医美",
       "onboard_time": 1764934880,
       "rank": 10,
@@ -68,7 +68,7 @@
     },
     {
       "raw_hot": 1454772,
-      "num": 290713,
+      "num": 332707,
       "word": "金晨怎么变这样了",
       "onboard_time": 1764932002,
       "rank": 10,
@@ -139,8 +139,8 @@
       "category": "情感"
     },
     {
-      "raw_hot": 814207,
-      "num": 282861,
+      "raw_hot": 976648,
+      "num": 333261,
       "word": "陈哲远晒手术取出的钢钉",
       "onboard_time": 1764938242,
       "rank": 14,
@@ -331,6 +331,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 456194,
+      "num": 456194,
+      "word": "豆包手机 微信",
+      "onboard_time": 1764938122,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 447979,
       "num": 447979,
       "word": "36岁快男遭中国唱将淘汰",
@@ -409,6 +417,14 @@
       "onboard_time": 1764897799,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 422368,
+      "num": 331610,
+      "word": "时代少年团卫衣 贵",
+      "onboard_time": 1764940703,
+      "rank": 13,
+      "category": "作品衍生"
     },
     {
       "raw_hot": 421339,
@@ -531,12 +547,28 @@
       "category": "艺人,体育"
     },
     {
+      "raw_hot": 336875,
+      "num": 336875,
+      "word": "抽血显示怀孕子宫里却找不到胎儿",
+      "onboard_time": 1764939502,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 336548,
       "num": 336548,
       "word": "寻梦环游记2终于来了",
       "onboard_time": 1764892159,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331136,
+      "num": 331136,
+      "word": "邹明轩14岁身高175cm",
+      "onboard_time": 1764938962,
+      "rank": 33,
+      "category": "艺人"
     },
     {
       "raw_hot": 321275,
@@ -611,12 +643,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 269912,
-      "num": 296863,
-      "word": "豆包手机 微信",
-      "onboard_time": 1764938122,
-      "rank": 9,
-      "category": "数码"
+      "raw_hot": 271347,
+      "num": 271347,
+      "word": "杨幂 爽文",
+      "onboard_time": 1764940762,
+      "rank": 20,
+      "category": "艺人"
     },
     {
       "raw_hot": 268392,
@@ -827,6 +859,14 @@
       "category": "教育,民生新闻"
     },
     {
+      "raw_hot": 213953,
+      "num": 213953,
+      "word": "孟子义李昀锐一起看代拍",
+      "onboard_time": 1764938901,
+      "rank": 34,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 213922,
       "num": 1896795,
       "word": "现在就出发投票",
@@ -841,14 +881,6 @@
       "onboard_time": 1764919340,
       "rank": 7,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 212093,
-      "num": 212093,
-      "word": "邹明轩14岁身高175cm",
-      "onboard_time": 1764938962,
-      "rank": 33,
-      "category": "艺人"
     },
     {
       "raw_hot": 211826,
@@ -1011,6 +1043,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 188707,
+      "num": 335091,
+      "word": "奈飞将收购华纳兄弟",
+      "onboard_time": 1764940641,
+      "rank": 9,
+      "category": "财经"
+    },
+    {
       "raw_hot": 187673,
       "num": 187673,
       "word": "八村垒绝杀猛龙",
@@ -1043,14 +1083,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 186079,
-      "num": 186079,
-      "word": "孟子义李昀锐一起看代拍",
-      "onboard_time": 1764938901,
-      "rank": 34,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 185972,
       "num": 476561,
       "word": "Prada官宣杨幂",
@@ -1075,12 +1107,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 185013,
+      "num": 185013,
+      "word": "张本智和生气了",
+      "onboard_time": 1764941060,
+      "rank": 24,
+      "category": "体育"
+    },
+    {
       "raw_hot": 184798,
       "num": 184798,
       "word": "具俊晔陪小S录跨年宣传片",
       "onboard_time": 1764925042,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 183638,
+      "num": 183638,
+      "word": "张杰 我怀念的",
+      "onboard_time": 1764940641,
+      "rank": 25,
+      "category": "演出"
     },
     {
       "raw_hot": 183515,
@@ -1121,6 +1169,14 @@
       "onboard_time": 1764915141,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 178263,
+      "num": 211593,
+      "word": "云南一基地将水性杨花改名冰清玉洁",
+      "onboard_time": 1764939622,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 177040,
@@ -1185,14 +1241,6 @@
       "onboard_time": 1764932962,
       "rank": 28,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 170706,
-      "num": 211816,
-      "word": "抽血显示怀孕子宫里却找不到胎儿",
-      "onboard_time": 1764939502,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 169626,
@@ -1323,6 +1371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 157661,
+      "num": 157661,
+      "word": "刘宇宁终于闯进主持人赛道了",
+      "onboard_time": 1764940703,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 157420,
       "num": 194220,
       "word": "政府文件还要薅多少人名大全",
@@ -1361,6 +1417,14 @@
       "onboard_time": 1764915742,
       "rank": 28,
       "category": "体育"
+    },
+    {
+      "raw_hot": 152234,
+      "num": 152234,
+      "word": "金晨自己化的妆",
+      "onboard_time": 1764939562,
+      "rank": 34,
+      "category": "艺人"
     },
     {
       "raw_hot": 151676,
@@ -1420,7 +1484,7 @@
     },
     {
       "raw_hot": 149020,
-      "num": 125729,
+      "num": 139192,
       "word": "73岁的唐国强37岁的我自愧不如",
       "onboard_time": 1764939743,
       "rank": 30,
@@ -1667,6 +1731,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 129855,
+      "num": 129855,
+      "word": "肖战嗓子都喊劈叉了",
+      "onboard_time": 1764941003,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 128339,
       "num": 119200,
       "word": "范玮琪 过去五六年我一直在疗伤",
@@ -1707,12 +1779,12 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 125577,
-      "num": 125577,
-      "word": "金晨自己化的妆",
-      "onboard_time": 1764939562,
-      "rank": 34,
-      "category": "艺人"
+      "raw_hot": 123183,
+      "num": 238306,
+      "word": "马克龙在川大与学生握手开心到蹦起",
+      "onboard_time": 1764938422,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 123158,
@@ -1721,14 +1793,6 @@
       "onboard_time": 1764918860,
       "rank": 35,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 123052,
-      "num": 238306,
-      "word": "马克龙在川大与学生握手开心到蹦起",
-      "onboard_time": 1764938422,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122984,
@@ -2068,7 +2132,7 @@
     },
     {
       "raw_hot": 107496,
-      "num": 107496,
+      "num": 336864,
       "word": "冬天起床不要太猛",
       "onboard_time": 1764898340,
       "rank": 28,
@@ -2283,6 +2347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 100425,
+      "num": 100425,
+      "word": "JackeyLove和Rookie亲切互动",
+      "onboard_time": 1764941422,
+      "rank": 45,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 99879,
       "num": 229611,
       "word": "多品牌手机涨价上市",
@@ -2456,6 +2528,14 @@
       "word": "都在香港偶遇黄景瑜",
       "onboard_time": 1764939082,
       "rank": 45,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 91923,
+      "num": 91923,
+      "word": "张一山自曝曾无人约戏",
+      "onboard_time": 1764941842,
+      "rank": 49,
       "category": "艺人"
     },
     {
@@ -2763,6 +2843,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 74254,
+      "num": 271523,
+      "word": "别克世家内能停一辆车",
+      "onboard_time": 1764940522,
+      "rank": 18,
+      "category": "汽车"
+    },
+    {
       "raw_hot": 73939,
       "num": 83932,
       "word": "婚房被改小三婴儿房",
@@ -2945,14 +3033,6 @@
       "onboard_time": 1764847460,
       "rank": 38,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 57267,
-      "num": 211593,
-      "word": "云南一基地将水性杨花改名冰清玉洁",
-      "onboard_time": 1764939622,
-      "rank": 18,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 56615,
@@ -3251,6 +3331,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 37205,
+      "num": 178426,
+      "word": "流感超过一周还有传染性吗",
+      "onboard_time": 1764941123,
+      "rank": 26,
+      "category": "民生新闻,健康医疗"
+    },
+    {
       "raw_hot": 35377,
       "num": 546217,
       "word": "赖清德当局无耻无聊又一恶举",
@@ -3329,6 +3417,22 @@
       "onboard_time": 1764909141,
       "rank": 38,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 29777,
+      "num": 271407,
+      "word": "高市错误言论如不撤回将有哪些后患",
+      "onboard_time": 1764940821,
+      "rank": 19,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 28460,
+      "num": 125223,
+      "word": "三大航中日航线免费退改签延长",
+      "onboard_time": 1764940762,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 28094,
@@ -3559,6 +3663,9 @@
     },
     {
       "word": "#习近平同马克龙举行非正式会晤#"
+    },
+    {
+      "word": "#中法元首在成都进行友好交流#"
     }
   ]
 }

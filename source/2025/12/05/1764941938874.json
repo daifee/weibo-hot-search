@@ -1,0 +1,410 @@
+{
+  "runTime": 1764941938874,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 520818,
+        "num": 1083331,
+        "word": "陈震用空壳工作室偷税",
+        "onboard_time": 1764935422,
+        "rank": 0,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 511865,
+        "num": 511865,
+        "word": "爱奇艺尖叫之夜",
+        "onboard_time": 1764928702,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 22356,
+        "num": 500095,
+        "word": "卫健委介绍节气与健康有关情况",
+        "onboard_time": 1764924624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 692552,
+        "num": 499985,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 494017,
+        "num": 494017,
+        "word": "王楚钦和马克龙打乒乓球",
+        "onboard_time": 1764937102,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 469193,
+        "num": 469193,
+        "word": "小伙缅北逃跑失败被掰断手指脚趾",
+        "onboard_time": 1764935961,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 456194,
+        "num": 456194,
+        "word": "豆包手机 微信",
+        "onboard_time": 1764938122,
+        "rank": 6,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 336875,
+        "num": 336875,
+        "word": "抽血显示怀孕子宫里却找不到胎儿",
+        "onboard_time": 1764939502,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 2921,
+        "num": 336864,
+        "word": "冬天起床不要太猛",
+        "onboard_time": 1764898340,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 188707,
+        "num": 335091,
+        "word": "奈飞将收购华纳兄弟",
+        "onboard_time": 1764940641,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1356876,
+        "num": 334149,
+        "word": "金晨 医美",
+        "onboard_time": 1764934880,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 976648,
+        "num": 333261,
+        "word": "陈哲远晒手术取出的钢钉",
+        "onboard_time": 1764938242,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 581565,
+        "num": 332707,
+        "word": "金晨怎么变这样了",
+        "onboard_time": 1764932002,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 422368,
+        "num": 331610,
+        "word": "时代少年团卫衣 贵",
+        "onboard_time": 1764940703,
+        "rank": 13,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 331136,
+        "num": 331136,
+        "word": "邹明轩14岁身高175cm",
+        "onboard_time": 1764938962,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 328854,
+        "num": 328854,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 15,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 293025,
+        "num": 293025,
+        "word": "36岁快男遭中国唱将淘汰",
+        "onboard_time": 1764935841,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272314,
+        "num": 272314,
+        "word": "雅迪电动车致歉",
+        "onboard_time": 1764919221,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 74254,
+        "num": 271523,
+        "word": "别克世家内能停一辆车",
+        "onboard_time": 1764940522,
+        "rank": 18,
+        "category": "汽车"
+      },
+      {
+        "raw_hot": 29777,
+        "num": 271407,
+        "word": "高市错误言论如不撤回将有哪些后患",
+        "onboard_time": 1764940821,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 271347,
+        "num": 271347,
+        "word": "杨幂 爽文",
+        "onboard_time": 1764940762,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 232200,
+        "num": 232200,
+        "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
+        "onboard_time": 1764928702,
+        "rank": 21,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 213953,
+        "num": 213953,
+        "word": "孟子义李昀锐一起看代拍",
+        "onboard_time": 1764938901,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 197380,
+        "num": 197380,
+        "word": "肖战让小朋友别喊哥哥喊叔叔",
+        "onboard_time": 1764934880,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 185013,
+        "num": 185013,
+        "word": "张本智和生气了",
+        "onboard_time": 1764941060,
+        "rank": 24,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 183638,
+        "num": 183638,
+        "word": "张杰 我怀念的",
+        "onboard_time": 1764940641,
+        "rank": 25,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 37205,
+        "num": 178426,
+        "word": "流感超过一周还有传染性吗",
+        "onboard_time": 1764941123,
+        "rank": 26,
+        "category": "民生新闻,健康医疗"
+      },
+      {
+        "raw_hot": 178263,
+        "num": 178263,
+        "word": "云南一基地将水性杨花改名冰清玉洁",
+        "onboard_time": 1764939622,
+        "rank": 27,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 171398,
+        "num": 171398,
+        "word": "Prada官宣杨幂",
+        "onboard_time": 1764929002,
+        "rank": 28,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 163106,
+        "num": 163106,
+        "word": "马克龙访问四川大学",
+        "onboard_time": 1764922521,
+        "rank": 29,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 157661,
+        "num": 157661,
+        "word": "刘宇宁终于闯进主持人赛道了",
+        "onboard_time": 1764940703,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157338,
+        "num": 157338,
+        "word": "A股为何突然大涨",
+        "onboard_time": 1764932661,
+        "rank": 31,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 152234,
+        "num": 152234,
+        "word": "金晨自己化的妆",
+        "onboard_time": 1764939562,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149084,
+        "num": 149084,
+        "word": "周柯宇国籍变更",
+        "onboard_time": 1764927502,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 148085,
+        "num": 148085,
+        "word": "迪丽热巴 豆瓣分型",
+        "onboard_time": 1764933260,
+        "rank": 34,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 139192,
+        "num": 139192,
+        "word": "73岁的唐国强37岁的我自愧不如",
+        "onboard_time": 1764939743,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136701,
+        "num": 136701,
+        "word": "雅迪争议电动车已下架",
+        "onboard_time": 1764926540,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132025,
+        "num": 132025,
+        "word": "气血不足的人要省着用身体",
+        "onboard_time": 1764932303,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 129855,
+        "num": 129855,
+        "word": "肖战嗓子都喊劈叉了",
+        "onboard_time": 1764941003,
+        "rank": 38,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 28460,
+        "num": 125223,
+        "word": "三大航中日航线免费退改签延长",
+        "onboard_time": 1764940762,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 123183,
+        "num": 123183,
+        "word": "马克龙在川大与学生握手开心到蹦起",
+        "onboard_time": 1764938422,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 121594,
+        "num": 121594,
+        "word": "苏新皓到底送了朱志鑫什么礼物",
+        "onboard_time": 1764938061,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 115026,
+        "num": 115026,
+        "word": "张柏芝今日出庭",
+        "onboard_time": 1764933981,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109108,
+        "num": 109108,
+        "word": "高考你没考吗 北大不包邮",
+        "onboard_time": 1764924202,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 101499,
+        "num": 101499,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764930681,
+        "rank": 44,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 100425,
+        "num": 100425,
+        "word": "JackeyLove和Rookie亲切互动",
+        "onboard_time": 1764941422,
+        "rank": 45,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 99633,
+        "num": 99633,
+        "word": "王楚钦林诗栋与马克龙对练",
+        "onboard_time": 1764937102,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 97024,
+        "num": 97024,
+        "word": "月亮",
+        "onboard_time": 1764930381,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96448,
+        "num": 96448,
+        "word": "男子存100万退休3年后剩105万",
+        "onboard_time": 1764921921,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 91923,
+        "num": 91923,
+        "word": "张一山自曝曾无人约戏",
+        "onboard_time": 1764941842,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首在成都进行友好交流#"
+    }
+  }
+}
