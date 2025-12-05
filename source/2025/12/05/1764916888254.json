@@ -1,0 +1,410 @@
+{
+  "runTime": 1764916888254,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1949625,
+        "num": 1949625,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 0,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 177899,
+        "num": 1896795,
+        "word": "现在就出发投票",
+        "onboard_time": 1764894261,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4691,
+        "num": 1784128,
+        "word": "大国重器拯救大国重器",
+        "onboard_time": 1764820160,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6682108,
+        "num": 6682108,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 165527,
+        "num": 1520677,
+        "word": "哈尔滨大雪人要回归了",
+        "onboard_time": 1764915742,
+        "rank": 4,
+        "category": "旅游"
+      },
+      {
+        "raw_hot": 340665,
+        "num": 1272129,
+        "word": "日本再将7800吨核污染水排海",
+        "onboard_time": 1764910522,
+        "rank": 5,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 159470,
+        "num": 1140366,
+        "word": "王楚钦vs弗朗西斯卡",
+        "onboard_time": 1764912442,
+        "rank": 6,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159050,
+        "num": 1000690,
+        "word": "饿了么APP已更新为淘宝闪购",
+        "onboard_time": 1764896781,
+        "rank": 7,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 150293,
+        "num": 941089,
+        "word": "世界之外",
+        "onboard_time": 1764913222,
+        "rank": 8,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 146739,
+        "num": 744718,
+        "word": "中国夫妻的金发碧眼女儿鉴定为亲生",
+        "onboard_time": 1764896961,
+        "rank": 9,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 677571,
+        "num": 677571,
+        "word": "叶童 你完全不尊重",
+        "onboard_time": 1764912983,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 569916,
+        "num": 569916,
+        "word": "张凌赫自己都生不出这么像的",
+        "onboard_time": 1764908661,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 14992,
+        "num": 546217,
+        "word": "赖清德当局无耻无聊又一恶举",
+        "onboard_time": 1764916462,
+        "rank": 12,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 524717,
+        "num": 524717,
+        "word": "网红罗大美遗体已在太平间两年多",
+        "onboard_time": 1764910701,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 363982,
+        "num": 363982,
+        "word": "周柯宇 国籍",
+        "onboard_time": 1764897859,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 331596,
+        "num": 331596,
+        "word": "我决定以后每周五都请假",
+        "onboard_time": 1764913402,
+        "rank": 15,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 266870,
+        "num": 266870,
+        "word": "向华强称为捧向佐亏了几个亿",
+        "onboard_time": 1764907821,
+        "rank": 16,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 254179,
+        "num": 254179,
+        "word": "陈震同学的同学",
+        "onboard_time": 1764904521,
+        "rank": 17,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 37269,
+        "num": 225354,
+        "word": "华为MateX7开售氛围火爆",
+        "onboard_time": 1764913402,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 216496,
+        "num": 216496,
+        "word": "时代峰峻造星签约模式曝光",
+        "onboard_time": 1764910822,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 184159,
+        "num": 184159,
+        "word": "王一博说我没办法给别人情绪价值",
+        "onboard_time": 1764908541,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179205,
+        "num": 179205,
+        "word": "刘嘉玲 宁静太早得志不考虑别人感受",
+        "onboard_time": 1764915141,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 164939,
+        "num": 164939,
+        "word": "小洛熙妈妈",
+        "onboard_time": 1764916640,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164610,
+        "num": 164610,
+        "word": "多明星上占道经营罚单文件连夜删除",
+        "onboard_time": 1764913462,
+        "rank": 23,
+        "category": "舆论监督,艺人"
+      },
+      {
+        "raw_hot": 161623,
+        "num": 161623,
+        "word": "衣服成本价就在水洗标上",
+        "onboard_time": 1764906681,
+        "rank": 24,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 154668,
+        "num": 159637,
+        "word": "许光汉张轩睿被曝兄弟反目",
+        "onboard_time": 1764915503,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 158758,
+        "num": 158758,
+        "word": "孙颖莎3比0胜米特兰姆",
+        "onboard_time": 1764916581,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 154672,
+        "num": 154672,
+        "word": "杨瀚森20分7助攻7篮板",
+        "onboard_time": 1764911841,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 152824,
+        "num": 152824,
+        "word": "开拓者队记透露杨瀚森下放原因",
+        "onboard_time": 1764915742,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 151907,
+        "num": 151907,
+        "word": "她的一天是小说都不敢写的程度",
+        "onboard_time": 1764913283,
+        "rank": 29,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 163795,
+        "num": 148887,
+        "word": "普京说无权干涉中印关系",
+        "onboard_time": 1764916041,
+        "rank": 30,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 142612,
+        "num": 142612,
+        "word": "孟子义妈妈看孟子义的眼神",
+        "onboard_time": 1764911542,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 137990,
+        "num": 137990,
+        "word": "Milkyway回应永久禁赛",
+        "onboard_time": 1764916581,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 125898,
+        "num": 125898,
+        "word": "外卖平台集体声明",
+        "onboard_time": 1764916521,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124676,
+        "num": 124676,
+        "word": "周柯宇方回应国籍",
+        "onboard_time": 1764905480,
+        "rank": 34,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123078,
+        "num": 123078,
+        "word": "中法元首非正式会晤",
+        "onboard_time": 1764914241,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 120522,
+        "num": 120522,
+        "word": "终于懂了为什么她是女主",
+        "onboard_time": 1764915503,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120049,
+        "num": 120049,
+        "word": "5只猫跑出了50只猫的效果",
+        "onboard_time": 1764911301,
+        "rank": 37,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 31875,
+        "num": 117025,
+        "word": "纽约时报起诉美国防部",
+        "onboard_time": 1764914661,
+        "rank": 38,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 112081,
+        "num": 116185,
+        "word": "秦岚王阳daddy妈咪级别",
+        "onboard_time": 1764916340,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 116149,
+        "num": 116149,
+        "word": "粉丝把助理认成杨幂",
+        "onboard_time": 1764909861,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 114890,
+        "num": 114890,
+        "word": "叶童说许仙是被白娘子蒙骗的",
+        "onboard_time": 1764914842,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114842,
+        "num": 114842,
+        "word": "陈震同学的同学被禁言",
+        "onboard_time": 1764907101,
+        "rank": 42,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 114646,
+        "num": 114646,
+        "word": "以前当老师vs现在当老师",
+        "onboard_time": 1764915921,
+        "rank": 43,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 114208,
+        "num": 114208,
+        "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+        "onboard_time": 1764916822,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 110234,
+        "num": 110234,
+        "word": "湖南卫视跨年演唱会官宣",
+        "onboard_time": 1764910761,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 108414,
+        "num": 108414,
+        "word": "巴黎世家你想干啥啊",
+        "onboard_time": 1764915621,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 38180,
+        "num": 106985,
+        "word": "职场是这种会来事的人才能混得开",
+        "onboard_time": 1764915141,
+        "rank": 47,
+        "category": "剧集,作品衍生"
+      },
+      {
+        "raw_hot": 106051,
+        "num": 106051,
+        "word": "七天不洗头的发型邪修大法",
+        "onboard_time": 1764913761,
+        "rank": 48,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 105345,
+        "num": 105345,
+        "word": "陈牧驰宣布与经纪人终止合作",
+        "onboard_time": 1764911062,
+        "rank": 49,
+        "category": "艺人"
+      }
+    ],
+    "hotgov": {
+      "word": "#让中法在新甲子走得更稳更好#"
+    }
+  }
+}

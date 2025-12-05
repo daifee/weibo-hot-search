@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764913479145,
+  "endTime": 1764916888254,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -12,7 +12,7 @@
     },
     {
       "raw_hot": 3249130,
-      "num": 290297,
+      "num": 1949625,
       "word": "陈震偷税追缴并罚共计247.48万元",
       "onboard_time": 1764910701,
       "rank": 3,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1970748,
-      "num": 284903,
+      "num": 363982,
       "word": "周柯宇 国籍",
       "onboard_time": 1764897859,
       "rank": 10,
@@ -60,11 +60,19 @@
     },
     {
       "raw_hot": 771061,
-      "num": 285795,
+      "num": 569916,
       "word": "张凌赫自己都生不出这么像的",
       "onboard_time": 1764908661,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 677571,
+      "num": 677571,
+      "word": "叶童 你完全不尊重",
+      "onboard_time": 1764912983,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 672680,
@@ -99,8 +107,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 522261,
-      "num": 289070,
+      "raw_hot": 524717,
+      "num": 524717,
       "word": "网红罗大美遗体已在太平间两年多",
       "onboard_time": 1764910701,
       "rank": 5,
@@ -236,7 +244,7 @@
     },
     {
       "raw_hot": 350213,
-      "num": 350213,
+      "num": 1000690,
       "word": "饿了么APP已更新为淘宝闪购",
       "onboard_time": 1764896781,
       "rank": 4,
@@ -251,12 +259,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 340665,
+      "num": 1272129,
+      "word": "日本再将7800吨核污染水排海",
+      "onboard_time": 1764910522,
+      "rank": 28,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 336548,
       "num": 336548,
       "word": "寻梦环游记2终于来了",
       "onboard_time": 1764892159,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 331596,
+      "num": 331596,
+      "word": "我决定以后每周五都请假",
+      "onboard_time": 1764913402,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 321275,
@@ -273,14 +297,6 @@
       "onboard_time": 1764904401,
       "rank": 14,
       "category": "体育"
-    },
-    {
-      "raw_hot": 299999,
-      "num": 269344,
-      "word": "日本再将7800吨核污染水排海",
-      "onboard_time": 1764910522,
-      "rank": 28,
-      "category": "国际时政"
     },
     {
       "raw_hot": 292924,
@@ -468,7 +484,7 @@
     },
     {
       "raw_hot": 213922,
-      "num": 213922,
+      "num": 1896795,
       "word": "现在就出发投票",
       "onboard_time": 1764894261,
       "rank": 9,
@@ -484,7 +500,7 @@
     },
     {
       "raw_hot": 205634,
-      "num": 269813,
+      "num": 1140366,
       "word": "王楚钦vs弗朗西斯卡",
       "onboard_time": 1764912442,
       "rank": 31,
@@ -513,14 +529,6 @@
       "onboard_time": 1764858742,
       "rank": 12,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 197942,
-      "num": 197942,
-      "word": "叶童 你完全不尊重",
-      "onboard_time": 1764912983,
-      "rank": 25,
-      "category": "综艺"
     },
     {
       "raw_hot": 196240,
@@ -619,6 +627,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 179205,
+      "num": 179205,
+      "word": "刘嘉玲 宁静太早得志不考虑别人感受",
+      "onboard_time": 1764915141,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 177040,
       "num": 177040,
       "word": "动画三线轮洄今日开播",
@@ -684,11 +700,27 @@
     },
     {
       "raw_hot": 166246,
-      "num": 166246,
+      "num": 941089,
       "word": "世界之外",
       "onboard_time": 1764913222,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 165527,
+      "num": 1520677,
+      "word": "哈尔滨大雪人要回归了",
+      "onboard_time": 1764915742,
+      "rank": 4,
+      "category": "旅游"
+    },
+    {
+      "raw_hot": 164939,
+      "num": 164939,
+      "word": "小洛熙妈妈",
+      "onboard_time": 1764916640,
+      "rank": 22,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 164793,
@@ -697,6 +729,22 @@
       "onboard_time": 1764908421,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 164610,
+      "num": 164610,
+      "word": "多明星上占道经营罚单文件连夜删除",
+      "onboard_time": 1764913462,
+      "rank": 23,
+      "category": "舆论监督,艺人"
+    },
+    {
+      "raw_hot": 163795,
+      "num": 148887,
+      "word": "普京说无权干涉中印关系",
+      "onboard_time": 1764916041,
+      "rank": 30,
+      "category": "国内时政"
     },
     {
       "raw_hot": 162739,
@@ -715,12 +763,36 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 158758,
+      "num": 158758,
+      "word": "孙颖莎3比0胜米特兰姆",
+      "onboard_time": 1764916581,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 154668,
+      "num": 159637,
+      "word": "许光汉张轩睿被曝兄弟反目",
+      "onboard_time": 1764915503,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 153071,
       "num": 153071,
       "word": "孟子义妈妈看孟子义的眼神",
       "onboard_time": 1764911542,
       "rank": 39,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 152824,
+      "num": 152824,
+      "word": "开拓者队记透露杨瀚森下放原因",
+      "onboard_time": 1764915742,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 151291,
@@ -819,20 +891,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 137990,
+      "num": 137990,
+      "word": "Milkyway回应永久禁赛",
+      "onboard_time": 1764916581,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 137410,
       "num": 137410,
       "word": "日本第17轮核污染水排海启动",
       "onboard_time": 1764913283,
       "rank": 43,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 134569,
-      "num": 134569,
-      "word": "我决定以后每周五都请假",
-      "onboard_time": 1764913402,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 134495,
@@ -899,6 +971,22 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 125898,
+      "num": 125898,
+      "word": "外卖平台集体声明",
+      "onboard_time": 1764916521,
+      "rank": 33,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 123078,
+      "num": 123078,
+      "word": "中法元首非正式会晤",
+      "onboard_time": 1764914241,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 122984,
       "num": 122984,
       "word": "王楚然生气也温柔",
@@ -953,6 +1041,14 @@
       "onboard_time": 1764901520,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 120522,
+      "num": 120522,
+      "word": "终于懂了为什么她是女主",
+      "onboard_time": 1764915503,
+      "rank": 36,
+      "category": "剧集"
     },
     {
       "raw_hot": 119303,
@@ -1019,12 +1115,36 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 114890,
+      "num": 114890,
+      "word": "叶童说许仙是被白娘子蒙骗的",
+      "onboard_time": 1764914842,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 114677,
       "num": 114677,
       "word": "蔡徐坤 PUBG",
       "onboard_time": 1764846802,
       "rank": 22,
       "category": "艺人,游戏"
+    },
+    {
+      "raw_hot": 114646,
+      "num": 114646,
+      "word": "以前当老师vs现在当老师",
+      "onboard_time": 1764915921,
+      "rank": 43,
+      "category": "幽默"
+    },
+    {
+      "raw_hot": 114208,
+      "num": 114208,
+      "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+      "onboard_time": 1764916822,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 114070,
@@ -1041,6 +1161,14 @@
       "onboard_time": 1764866838,
       "rank": 39,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 112081,
+      "num": 116185,
+      "word": "秦岚王阳daddy妈咪级别",
+      "onboard_time": 1764916340,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 111453,
@@ -1083,6 +1211,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 108414,
+      "num": 108414,
+      "word": "巴黎世家你想干啥啊",
+      "onboard_time": 1764915621,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 107496,
       "num": 107496,
       "word": "冬天起床不要太猛",
@@ -1113,6 +1249,14 @@
       "onboard_time": 1764905301,
       "rank": 46,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 106051,
+      "num": 106051,
+      "word": "七天不洗头的发型邪修大法",
+      "onboard_time": 1764913761,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 104959,
@@ -1572,7 +1716,7 @@
     },
     {
       "raw_hot": 56615,
-      "num": 138568,
+      "num": 225354,
       "word": "华为MateX7开售氛围火爆",
       "onboard_time": 1764913402,
       "rank": 40,
@@ -1747,6 +1891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 38180,
+      "num": 106985,
+      "word": "职场是这种会来事的人才能混得开",
+      "onboard_time": 1764915141,
+      "rank": 47,
+      "category": "剧集,作品衍生"
+    },
+    {
       "raw_hot": 38167,
       "num": 68245,
       "word": "神似张碧晨的美女入殓师走红",
@@ -1777,6 +1929,14 @@
       "onboard_time": 1764900440,
       "rank": 37,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 31875,
+      "num": 117025,
+      "word": "纽约时报起诉美国防部",
+      "onboard_time": 1764914661,
+      "rank": 38,
+      "category": "国际时政"
     },
     {
       "raw_hot": 30843,
@@ -1883,6 +2043,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 14992,
+      "num": 546217,
+      "word": "赖清德当局无耻无聊又一恶举",
+      "onboard_time": 1764916462,
+      "rank": 12,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 12082,
       "num": 17850,
       "word": "张小斐 时尚战绩",
@@ -1915,8 +2083,8 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 2308,
-      "num": 291041,
+      "raw_hot": 4691,
+      "num": 1784128,
       "word": "大国重器拯救大国重器",
       "onboard_time": 1764820160,
       "rank": 2,
