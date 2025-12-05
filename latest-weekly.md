@@ -3,7 +3,7 @@
 </h1>
 <blockquote>
 <p>
-本榜单时间：2025/11/30 00:31:55 ~ 2025/12/06 04:45:23
+本榜单时间：2025/11/30 00:31:55 ~ 2025/12/06 05:26:13
 </p>
 </blockquote>
 <p>
@@ -15627,6 +15627,12 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BC%A0%E5%B0%8F%E6%96%90%E5%9B%A2%E9%98%9F%E9%87%8C%E6%9C%89%E6%A2%A6%E5%A5%B3%23" target="weibo">
+张小斐团队里有梦女（热度：14659）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%A5%B3%E5%A9%B4%E7%97%85%E5%8D%B1%E5%AE%B6%E9%95%BF%E8%B4%A8%E7%96%91%E6%9C%88%E5%AB%82%E7%85%A7%E9%A1%BE%E6%9C%80%E6%96%B0%E8%BF%9B%E5%B1%95%23" target="weibo">
 女婴病危家长质疑月嫂照顾最新进展（热度：14588）
 </a>
@@ -15641,6 +15647,12 @@ Upset曾收到iG邀请（热度：28483）
 <li>
 <a href="https://s.weibo.com/weibo?q=%23%E5%BC%80%E7%BD%97%E5%AE%A3%E8%A8%80%E5%8F%91%E8%A1%A882%E5%91%A8%E5%B9%B4%23" target="weibo">
 开罗宣言发表82周年（热度：13772）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E7%A0%94%E7%A9%B6%E7%A7%B0%E5%AE%87%E5%AE%99%E5%A4%A7%E7%88%86%E7%82%B8%E4%B9%8B%E5%89%8D%E5%B0%B1%E6%9C%89%E6%84%8F%E8%AF%86%23" target="weibo">
+研究称宇宙大爆炸之前就有意识（热度：13756）
 </a>
 </li>
 
@@ -15789,8 +15801,20 @@ Upset曾收到iG邀请（热度：28483）
 </li>
 
 <li>
+<a href="https://s.weibo.com/weibo?q=%23%E5%BE%81%E6%9C%8D%E9%BB%84%E5%AD%90%E9%9F%AC%E7%9A%84%E4%B8%8D%E6%98%AF%E5%BE%90%E8%89%BA%E6%B4%8B%20%E6%98%AF%E7%8E%8B%E9%B9%A4%E6%A3%A3%23" target="weibo">
+征服黄子韬的不是徐艺洋 是王鹤棣（热度：10965）
+</a>
+</li>
+
+<li>
 <a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%A5%BD%E7%94%9F%E6%B4%BB%E5%AE%AA%E7%BB%99%E4%BD%A0%23" target="weibo">
 美好生活宪给你（热度：10814）
+</a>
+</li>
+
+<li>
+<a href="https://s.weibo.com/weibo?q=%23%E9%85%B7%E9%85%B7%E7%9A%84%E9%99%88%E6%A2%A6%E7%A2%B0%E5%88%B0%E4%BA%86%E5%B8%85%E5%B8%85%E7%9A%84%E5%93%A5%23" target="weibo">
+酷酷的陈梦碰到了帅帅的哥（热度：10667）
 </a>
 </li>
 
