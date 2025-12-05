@@ -1,0 +1,410 @@
+{
+  "runTime": 1764934776281,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 521941,
+        "num": 1083510,
+        "word": "雅迪电动车致歉",
+        "onboard_time": 1764919221,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 253062,
+        "num": 253062,
+        "word": "A股为何突然大涨",
+        "onboard_time": 1764932661,
+        "rank": 1,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 31218,
+        "num": 252958,
+        "word": "卫健委介绍节气与健康有关情况",
+        "onboard_time": 1764924624,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1035269,
+        "num": 252854,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 3,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 345998,
+        "num": 252627,
+        "word": "月亮",
+        "onboard_time": 1764930381,
+        "rank": 4,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 401670,
+        "num": 252566,
+        "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
+        "onboard_time": 1764928702,
+        "rank": 5,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 308749,
+        "num": 252422,
+        "word": "爱奇艺尖叫之夜",
+        "onboard_time": 1764928702,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 290714,
+        "num": 252249,
+        "word": "孙俪李现等占道经营系使用虚假人名",
+        "onboard_time": 1764927441,
+        "rank": 7,
+        "category": "民生新闻,艺人"
+      },
+      {
+        "raw_hot": 78854,
+        "num": 252140,
+        "word": "孙颖莎获年度最佳女运动员提名",
+        "onboard_time": 1764931222,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 63595,
+        "num": 251952,
+        "word": "世界之外",
+        "onboard_time": 1764913222,
+        "rank": 9,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 1428459,
+        "num": 251862,
+        "word": "金晨怎么变这样了",
+        "onboard_time": 1764932002,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161819,
+        "num": 251604,
+        "word": "Prada官宣杨幂",
+        "onboard_time": 1764929002,
+        "rank": 11,
+        "category": "作品衍生"
+      },
+      {
+        "raw_hot": 532294,
+        "num": 251475,
+        "word": "陈震偷税追缴并罚共计247.48万元",
+        "onboard_time": 1764910701,
+        "rank": 12,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 279429,
+        "num": 251394,
+        "word": "迪丽热巴 豆瓣分型",
+        "onboard_time": 1764933260,
+        "rank": 13,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 63665,
+        "num": 251238,
+        "word": "妈妈的拼多多评价里全是我",
+        "onboard_time": 1764925821,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 268755,
+        "num": 251017,
+        "word": "周柯宇国籍变更",
+        "onboard_time": 1764927502,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 250969,
+        "num": 250969,
+        "word": "高考你没考吗 北大不包邮",
+        "onboard_time": 1764924202,
+        "rank": 16,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 238670,
+        "num": 238670,
+        "word": "马克龙访问四川大学",
+        "onboard_time": 1764922521,
+        "rank": 17,
+        "category": "国内时政,国际时政"
+      },
+      {
+        "raw_hot": 65319,
+        "num": 225697,
+        "word": "中国香港8比7法国",
+        "onboard_time": 1764927202,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 216049,
+        "num": 216049,
+        "word": "雅迪争议电动车已下架",
+        "onboard_time": 1764926540,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 262354,
+        "num": 215806,
+        "word": "小酒窝呕吐舞一出手就是专业的",
+        "onboard_time": 1764930322,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 186567,
+        "num": 186567,
+        "word": "中公教育1.7万退款分17年还",
+        "onboard_time": 1764932721,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 168672,
+        "num": 168672,
+        "word": "陈哲远回深圳做手术",
+        "onboard_time": 1764932781,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 161214,
+        "num": 161214,
+        "word": "男子存100万退休3年后剩105万",
+        "onboard_time": 1764921921,
+        "rank": 23,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 160786,
+        "num": 160786,
+        "word": "丁程鑫改了张国荣的歌词",
+        "onboard_time": 1764921200,
+        "rank": 24,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 152185,
+        "num": 152185,
+        "word": "狙击蝴蝶",
+        "onboard_time": 1764930681,
+        "rank": 25,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 152007,
+        "num": 152007,
+        "word": "气血不足的人要省着用身体",
+        "onboard_time": 1764932303,
+        "rank": 26,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 136620,
+        "num": 136620,
+        "word": "Peanut兵役推迟",
+        "onboard_time": 1764933862,
+        "rank": 27,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 129129,
+        "num": 129129,
+        "word": "胡先煦曝叫兽易小星曾写遗书",
+        "onboard_time": 1764927261,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 444392,
+        "num": 128466,
+        "word": "团播 美颜拉腿",
+        "onboard_time": 1764929782,
+        "rank": 29,
+        "category": "互联网,网红"
+      },
+      {
+        "raw_hot": 126968,
+        "num": 126968,
+        "word": "代号鸢",
+        "onboard_time": 1764933082,
+        "rank": 30,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 124522,
+        "num": 124522,
+        "word": "很多人意识不到气血是补不回来的",
+        "onboard_time": 1764917241,
+        "rank": 31,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 119680,
+        "num": 119680,
+        "word": "Peanut直播力挺Faker",
+        "onboard_time": 1764933862,
+        "rank": 32,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 112393,
+        "num": 112393,
+        "word": "唐朝诡事录之长安",
+        "onboard_time": 1764931641,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 111977,
+        "num": 111977,
+        "word": "王楚钦1比2弗朗西斯卡",
+        "onboard_time": 1764918321,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 110636,
+        "num": 110636,
+        "word": "得闲谨制",
+        "onboard_time": 1764931522,
+        "rank": 35,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 108823,
+        "num": 108823,
+        "word": "1.8万元钻戒回收价仅180元",
+        "onboard_time": 1764932421,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 107428,
+        "num": 107428,
+        "word": "中法元首夫妇边走边谈",
+        "onboard_time": 1764934042,
+        "rank": 37,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 106045,
+        "num": 106045,
+        "word": "张柏芝今日出庭",
+        "onboard_time": 1764933981,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 104599,
+        "num": 104599,
+        "word": "漂亮的李慧珍啥时候出2了",
+        "onboard_time": 1764933322,
+        "rank": 39,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 102555,
+        "num": 102555,
+        "word": "梁祯元沉冤得雪",
+        "onboard_time": 1764932962,
+        "rank": 40,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 97872,
+        "num": 97872,
+        "word": "王楚钦回应1比2弗朗西斯卡",
+        "onboard_time": 1764923841,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 96989,
+        "num": 96989,
+        "word": "税务部门2次约谈陈震",
+        "onboard_time": 1764934580,
+        "rank": 42,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 62767,
+        "num": 96525,
+        "word": "罗大美被害案主犯称自己罪不至死",
+        "onboard_time": 1764932421,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 96436,
+        "num": 96436,
+        "word": "马克龙将在四川大学演讲",
+        "onboard_time": 1764926121,
+        "rank": 44,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 94227,
+        "num": 94227,
+        "word": "得闲谨制 四个犟种坚决不改名字",
+        "onboard_time": 1764930081,
+        "rank": 45,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 91411,
+        "num": 91411,
+        "word": "还是以前的裤子省布料",
+        "onboard_time": 1764934521,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 90064,
+        "num": 90064,
+        "word": "发明饱了么的人真是个天才",
+        "onboard_time": 1764931460,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 89857,
+        "num": 89857,
+        "word": "王赫野卖惨",
+        "onboard_time": 1764928281,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 86645,
+        "num": 86645,
+        "word": "蛇和龙的区别",
+        "onboard_time": 1764934281,
+        "rank": 49,
+        "category": "电影"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平同马克龙举行非正式会晤#"
+    }
+  }
+}
