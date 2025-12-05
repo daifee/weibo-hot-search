@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764917718794,
+  "endTime": 1764919750034,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -601,6 +601,22 @@
       "onboard_time": 1764576322,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 993889,
+      "num": 243919,
+      "word": "小洛熙妈妈",
+      "onboard_time": 1764916640,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 991859,
+      "num": 1520767,
+      "word": "王楚钦1比2弗朗西斯卡",
+      "onboard_time": 1764918321,
+      "rank": 0,
+      "category": "体育"
     },
     {
       "raw_hot": 983316,
@@ -1419,6 +1435,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574534,
+      "num": 331596,
+      "word": "我决定以后每周五都请假",
+      "onboard_time": 1764913402,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 571514,
       "num": 353745,
       "word": "情趣娃娃厂商报价表惊现孕妇体型",
@@ -1713,14 +1737,6 @@
       "onboard_time": 1764826582,
       "rank": 18,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 525952,
-      "num": 331596,
-      "word": "我决定以后每周五都请假",
-      "onboard_time": 1764913402,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 523673,
@@ -3219,6 +3235,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 337060,
+      "num": 222051,
+      "word": "陈梦黄晓明合照",
+      "onboard_time": 1764918620,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 336922,
       "num": 187717,
       "word": "朱珠老公 下次我背个行车记录仪",
@@ -3257,6 +3281,14 @@
       "onboard_time": 1764570081,
       "rank": 24,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 335568,
+      "num": 218459,
+      "word": "很多人意识不到气血是补不回来的",
+      "onboard_time": 1764917241,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 335538,
@@ -3913,6 +3945,14 @@
       "onboard_time": 1764574402,
       "rank": 30,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 286428,
+      "num": 286428,
+      "word": "王楚钦不敌对手",
+      "onboard_time": 1764918682,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 286245,
@@ -5147,14 +5187,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216064,
-      "num": 216064,
-      "word": "小洛熙妈妈",
-      "onboard_time": 1764916640,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 216062,
       "num": 330300,
       "word": "iG纪录片",
@@ -5313,6 +5345,14 @@
       "onboard_time": 1764824962,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210530,
+      "num": 210530,
+      "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+      "onboard_time": 1764916822,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 210502,
@@ -5635,6 +5675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 203590,
+      "num": 203590,
+      "word": "杨幂热依扎活动拥抱",
+      "onboard_time": 1764918381,
+      "rank": 18,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 203474,
       "num": 203474,
       "word": "王一博选冲锋衣去晚宴",
@@ -5947,6 +5995,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 195329,
+      "num": 261677,
+      "word": "Milkyway回应永久禁赛",
+      "onboard_time": 1764916581,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 195267,
       "num": 195267,
       "word": "桃黑黑 因为我是异性恋",
@@ -6137,6 +6193,14 @@
       "onboard_time": 1764649702,
       "rank": 40,
       "category": "演出"
+    },
+    {
+      "raw_hot": 189506,
+      "num": 189506,
+      "word": "外卖平台集体声明",
+      "onboard_time": 1764916521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 189301,
@@ -6419,14 +6483,6 @@
       "category": "剧集,作品衍生"
     },
     {
-      "raw_hot": 182795,
-      "num": 182795,
-      "word": "Milkyway回应永久禁赛",
-      "onboard_time": 1764916581,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 182520,
       "num": 182520,
       "word": "韦雪前男友自曝喜欢的明星",
@@ -6569,14 +6625,6 @@
       "onboard_time": 1764480501,
       "rank": 23,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 181016,
-      "num": 181016,
-      "word": "外卖平台集体声明",
-      "onboard_time": 1764916521,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 181001,
@@ -7939,6 +7987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153538,
+      "num": 131904,
+      "word": "王楚钦梁靖崑11比2杜达邱党",
+      "onboard_time": 1764919701,
+      "rank": 30,
+      "category": "体育"
+    },
+    {
       "raw_hot": 153375,
       "num": 153375,
       "word": "欧阳娜娜妆造真的没有瓶颈期",
@@ -8115,14 +8171,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 150939,
-      "num": 150939,
-      "word": "爱奇艺尖叫之夜破亿角色人形立牌",
-      "onboard_time": 1764916822,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150937,
       "num": 150937,
       "word": "12岁的Jasper",
@@ -8177,6 +8225,14 @@
       "onboard_time": 1764738022,
       "rank": 27,
       "category": "剧集,作品衍生"
+    },
+    {
+      "raw_hot": 150269,
+      "num": 150269,
+      "word": "何赛飞一直在发火",
+      "onboard_time": 1764919282,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 150264,
@@ -8523,6 +8579,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144048,
+      "num": 144048,
+      "word": "李施嬅 上一个对猴这么耐心的是唐僧",
+      "onboard_time": 1764918140,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143838,
       "num": 612481,
       "word": "Rookie回应和jiejie争论",
@@ -8816,6 +8880,14 @@
       "word": "王励勤希望大家不仅关注明星运动员",
       "onboard_time": 1764586103,
       "rank": 25,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 139084,
+      "num": 139084,
+      "word": "孙颖莎让一分照样赢",
+      "onboard_time": 1764919040,
+      "rank": 26,
       "category": "体育"
     },
     {
@@ -9291,6 +9363,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 133280,
+      "num": 131678,
+      "word": "雅迪电动车致歉",
+      "onboard_time": 1764919221,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133247,
       "num": 137988,
       "word": "带娃界来了个天才",
@@ -9376,6 +9456,14 @@
       "word": "孙颖莎王楚钦蒯曼林诗栋赢了",
       "onboard_time": 1764478763,
       "rank": 45,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 132164,
+      "num": 132164,
+      "word": "孙颖莎 这球就算擦网吧",
+      "onboard_time": 1764919581,
+      "rank": 29,
       "category": "体育"
     },
     {
@@ -9587,6 +9675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 130084,
+      "num": 248638,
+      "word": "中法元首非正式会晤",
+      "onboard_time": 1764914241,
+      "rank": 35,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 129896,
       "num": 129896,
       "word": "林诗栋3比0林兆恒",
@@ -9769,6 +9865,14 @@
       "onboard_time": 1764750681,
       "rank": 37,
       "category": "民生新闻,教育"
+    },
+    {
+      "raw_hot": 127438,
+      "num": 127438,
+      "word": "孙颖莎为国乒拿下3分",
+      "onboard_time": 1764918321,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 127263,
@@ -10179,20 +10283,20 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 123158,
+      "num": 123158,
+      "word": "骑手回应外卖新国标",
+      "onboard_time": 1764918860,
+      "rank": 35,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 123127,
       "num": 321562,
       "word": "印尼洪水山体滑坡442人死亡",
       "onboard_time": 1764511823,
       "rank": 9,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 123078,
-      "num": 248638,
-      "word": "中法元首非正式会晤",
-      "onboard_time": 1764914241,
-      "rank": 35,
-      "category": "国际时政"
     },
     {
       "raw_hot": 122984,
@@ -10337,14 +10441,6 @@
       "onboard_time": 1764825923,
       "rank": 44,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 122055,
-      "num": 122055,
-      "word": "很多人意识不到气血是补不回来的",
-      "onboard_time": 1764917241,
-      "rank": 44,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 122031,
@@ -10513,6 +10609,14 @@
       "onboard_time": 1764423563,
       "rank": 18,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 121080,
+      "num": 121080,
+      "word": "林诗栋蒯曼0比7落后逆转",
+      "onboard_time": 1764919521,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 120978,
@@ -11641,6 +11745,14 @@
       "onboard_time": 1764577163,
       "rank": 47,
       "category": "情感"
+    },
+    {
+      "raw_hot": 111405,
+      "num": 111405,
+      "word": "杨幂 我都僵硬了",
+      "onboard_time": 1764919521,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 111259,
@@ -14267,6 +14379,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 86908,
+      "num": 86908,
+      "word": "国乒vs德国",
+      "onboard_time": 1764910881,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86888,
       "num": 86888,
       "word": "章莹颖被害8年父母未获1分钱赔偿",
@@ -14523,6 +14643,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 84310,
+      "num": 84310,
+      "word": "小酒窝给白鹿拼了拼豆",
+      "onboard_time": 1764919701,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84213,
       "num": 130764,
       "word": "156名民工遭一政府工程欠薪8年",
@@ -14705,6 +14833,14 @@
       "onboard_time": 1764581903,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 82727,
+      "num": 119762,
+      "word": "日本特色白粥盖浇米饭",
+      "onboard_time": 1764918800,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82594,
@@ -15961,6 +16097,14 @@
       "onboard_time": 1764801256,
       "rank": 40,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64361,
+      "num": 194220,
+      "word": "政府文件还要薅多少人名大全",
+      "onboard_time": 1764918981,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 64264,
@@ -17273,6 +17417,14 @@
       "onboard_time": 1764646760,
       "rank": 38,
       "category": "电影"
+    },
+    {
+      "raw_hot": 41342,
+      "num": 119842,
+      "word": "美军3架坠海超级大黄蜂战机未找回",
+      "onboard_time": 1764918620,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 41205,

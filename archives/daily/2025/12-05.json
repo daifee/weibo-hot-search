@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764917718794,
+  "endTime": 1764919750034,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -59,6 +59,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 993889,
+      "num": 243919,
+      "word": "小洛熙妈妈",
+      "onboard_time": 1764916640,
+      "rank": 22,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 991859,
+      "num": 1520767,
+      "word": "王楚钦1比2弗朗西斯卡",
+      "onboard_time": 1764918321,
+      "rank": 0,
+      "category": "体育"
+    },
+    {
       "raw_hot": 771061,
       "num": 569916,
       "word": "张凌赫自己都生不出这么像的",
@@ -107,20 +123,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 574534,
+      "num": 331596,
+      "word": "我决定以后每周五都请假",
+      "onboard_time": 1764913402,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
       "raw_hot": 566640,
       "num": 524717,
       "word": "网红罗大美遗体已在太平间两年多",
       "onboard_time": 1764910701,
       "rank": 5,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 525952,
-      "num": 331596,
-      "word": "我决定以后每周五都请假",
-      "onboard_time": 1764913402,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 518110,
@@ -275,12 +291,28 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 337060,
+      "num": 222051,
+      "word": "陈梦黄晓明合照",
+      "onboard_time": 1764918620,
+      "rank": 14,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 336548,
       "num": 336548,
       "word": "寻梦环游记2终于来了",
       "onboard_time": 1764892159,
       "rank": 5,
       "category": "电影"
+    },
+    {
+      "raw_hot": 335568,
+      "num": 218459,
+      "word": "很多人意识不到气血是补不回来的",
+      "onboard_time": 1764917241,
+      "rank": 44,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 321275,
@@ -305,6 +337,14 @@
       "onboard_time": 1764900680,
       "rank": 5,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 286428,
+      "num": 286428,
+      "word": "王楚钦不敌对手",
+      "onboard_time": 1764918682,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 280066,
@@ -483,14 +523,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 216064,
-      "num": 216064,
-      "word": "小洛熙妈妈",
-      "onboard_time": 1764916640,
-      "rank": 22,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 214396,
       "num": 214396,
       "word": "詹姆斯连续得分上双纪录终结",
@@ -515,12 +547,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 210530,
+      "num": 210530,
+      "word": "爱奇艺尖叫之夜破亿角色人形立牌",
+      "onboard_time": 1764916822,
+      "rank": 44,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 210049,
       "num": 210049,
       "word": "湖南卫视跨年演唱会官宣",
       "onboard_time": 1764910761,
       "rank": 25,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 203590,
+      "num": 203590,
+      "word": "杨幂热依扎活动拥抱",
+      "onboard_time": 1764918381,
+      "rank": 18,
+      "category": "艺人"
     },
     {
       "raw_hot": 203236,
@@ -555,6 +603,14 @@
       "category": "游戏,网红"
     },
     {
+      "raw_hot": 195329,
+      "num": 261677,
+      "word": "Milkyway回应永久禁赛",
+      "onboard_time": 1764916581,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "桃黑黑觉得错了就是错了",
@@ -569,6 +625,14 @@
       "onboard_time": 1764911841,
       "rank": 36,
       "category": "体育"
+    },
+    {
+      "raw_hot": 189506,
+      "num": 189506,
+      "word": "外卖平台集体声明",
+      "onboard_time": 1764916521,
+      "rank": 33,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 187673,
@@ -619,14 +683,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 182795,
-      "num": 182795,
-      "word": "Milkyway回应永久禁赛",
-      "onboard_time": 1764916581,
-      "rank": 32,
-      "category": "电竞"
-    },
-    {
       "raw_hot": 181969,
       "num": 117962,
       "word": "网红王蓉仨娃妈卖货给粉丝送全家福",
@@ -641,14 +697,6 @@
       "onboard_time": 1764913283,
       "rank": 30,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 181016,
-      "num": 181016,
-      "word": "外卖平台集体声明",
-      "onboard_time": 1764916521,
-      "rank": 33,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 180584,
@@ -787,6 +835,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 160492,
+      "num": 256344,
+      "word": "八仙子",
+      "onboard_time": 1764919340,
+      "rank": 7,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 158758,
       "num": 158758,
       "word": "孙颖莎3比0胜米特兰姆",
@@ -801,6 +857,14 @@
       "onboard_time": 1764915503,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 153538,
+      "num": 131904,
+      "word": "王楚钦梁靖崑11比2杜达邱党",
+      "onboard_time": 1764919701,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 153071,
@@ -827,20 +891,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 150939,
-      "num": 150939,
-      "word": "爱奇艺尖叫之夜破亿角色人形立牌",
-      "onboard_time": 1764916822,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 150743,
       "num": 150743,
       "word": "摩尔线程最高飙涨超500%",
       "onboard_time": 1764905480,
       "rank": 31,
       "category": "财经"
+    },
+    {
+      "raw_hot": 150269,
+      "num": 150269,
+      "word": "何赛飞一直在发火",
+      "onboard_time": 1764919282,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 149616,
@@ -891,6 +955,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 144048,
+      "num": 144048,
+      "word": "李施嬅 上一个对猴这么耐心的是唐僧",
+      "onboard_time": 1764918140,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 143198,
       "num": 112878,
       "word": "每个孩子带3斤五花肉去幼儿园",
@@ -923,6 +995,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139084,
+      "num": 139084,
+      "word": "孙颖莎让一分照样赢",
+      "onboard_time": 1764919040,
+      "rank": 26,
+      "category": "体育"
+    },
+    {
       "raw_hot": 138818,
       "num": 138818,
       "word": "女子踩狗屎后用狗爪刮中1万元",
@@ -947,12 +1027,28 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 133280,
+      "num": 131678,
+      "word": "雅迪电动车致歉",
+      "onboard_time": 1764919221,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 133247,
       "num": 137988,
       "word": "带娃界来了个天才",
       "onboard_time": 1764908782,
       "rank": 43,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 132164,
+      "num": 132164,
+      "word": "孙颖莎 这球就算擦网吧",
+      "onboard_time": 1764919581,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 131345,
@@ -969,6 +1065,14 @@
       "onboard_time": 1764907881,
       "rank": 34,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 130084,
+      "num": 248638,
+      "word": "中法元首非正式会晤",
+      "onboard_time": 1764914241,
+      "rank": 35,
+      "category": "国际时政"
     },
     {
       "raw_hot": 129918,
@@ -995,6 +1099,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 127438,
+      "num": 127438,
+      "word": "孙颖莎为国乒拿下3分",
+      "onboard_time": 1764918321,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 126576,
       "num": 126576,
       "word": "原来短剧不只是爽剧",
@@ -1003,12 +1115,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 123078,
-      "num": 248638,
-      "word": "中法元首非正式会晤",
-      "onboard_time": 1764914241,
+      "raw_hot": 123158,
+      "num": 123158,
+      "word": "骑手回应外卖新国标",
+      "onboard_time": 1764918860,
       "rank": 35,
-      "category": "国际时政"
+      "category": "互联网"
     },
     {
       "raw_hot": 122984,
@@ -1051,14 +1163,6 @@
       "category": "科学科普"
     },
     {
-      "raw_hot": 122055,
-      "num": 122055,
-      "word": "很多人意识不到气血是补不回来的",
-      "onboard_time": 1764917241,
-      "rank": 44,
-      "category": "健康医疗"
-    },
-    {
       "raw_hot": 121685,
       "num": 121685,
       "word": "原来沈腾胡先煦说的是这个老丁头",
@@ -1073,6 +1177,14 @@
       "onboard_time": 1764901520,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 121080,
+      "num": 121080,
+      "word": "林诗栋蒯曼0比7落后逆转",
+      "onboard_time": 1764919521,
+      "rank": 36,
+      "category": "体育"
     },
     {
       "raw_hot": 120697,
@@ -1193,6 +1305,14 @@
       "onboard_time": 1764913042,
       "rank": 48,
       "category": "财经"
+    },
+    {
+      "raw_hot": 111405,
+      "num": 111405,
+      "word": "杨幂 我都僵硬了",
+      "onboard_time": 1764919521,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 111259,
@@ -1435,6 +1555,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 86908,
+      "num": 86908,
+      "word": "国乒vs德国",
+      "onboard_time": 1764910881,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86612,
       "num": 86612,
       "word": "黄子韬刘耀文TF四代合照",
@@ -1459,6 +1587,14 @@
       "category": "动漫"
     },
     {
+      "raw_hot": 84310,
+      "num": 84310,
+      "word": "小酒窝给白鹿拼了拼豆",
+      "onboard_time": 1764919701,
+      "rank": 49,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 84093,
       "num": 139301,
       "word": "陈晓打的是灰太狼吧",
@@ -1481,6 +1617,14 @@
       "onboard_time": 1764902120,
       "rank": 28,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 82727,
+      "num": 119762,
+      "word": "日本特色白粥盖浇米饭",
+      "onboard_time": 1764918800,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 82180,
@@ -1707,6 +1851,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 64361,
+      "num": 194220,
+      "word": "政府文件还要薅多少人名大全",
+      "onboard_time": 1764918981,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 63206,
       "num": 83717,
       "word": "淘宝崩了",
@@ -1889,6 +2041,14 @@
       "onboard_time": 1764865638,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 41342,
+      "num": 119842,
+      "word": "美军3架坠海超级大黄蜂战机未找回",
+      "onboard_time": 1764918620,
+      "rank": 38,
+      "category": "军事"
     },
     {
       "raw_hot": 40323,
