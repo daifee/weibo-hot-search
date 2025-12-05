@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764970812599,
+  "endTime": 1764973612908,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -16987,6 +16987,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 24307,
+      "num": 24307,
+      "word": "研究称宇宙大爆炸之前就有意识",
+      "onboard_time": 1764968054,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 24264,
       "num": 210043,
       "word": "朱开曝Rookie不休息",
@@ -17195,6 +17203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 21024,
+      "num": 34278,
+      "word": "狙击蝴蝶李嘉格真人版",
+      "onboard_time": 1764960736,
+      "rank": 28,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 20982,
       "num": 116554,
       "word": "王楚钦向对手表示祝贺",
@@ -17243,14 +17259,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 20289,
-      "num": 34278,
-      "word": "狙击蝴蝶李嘉格真人版",
-      "onboard_time": 1764960736,
-      "rank": 28,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 20135,
       "num": 112485,
       "word": "怎么看家长让小孩站洗手池上小便",
@@ -17273,6 +17281,14 @@
       "onboard_time": 1764685163,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 19844,
+      "num": 24306,
+      "word": "减肥千万不要只吃水煮菜了",
+      "onboard_time": 1764970214,
+      "rank": 44,
+      "category": "运动健身"
     },
     {
       "raw_hot": 19823,
@@ -17411,6 +17427,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16796,
+      "num": 34264,
+      "word": "杨幂热依扎认识24年了",
+      "onboard_time": 1764966554,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 16515,
       "num": 153942,
       "word": "台海鲲号被爆无锚海试",
@@ -17459,12 +17483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16196,
+      "num": 24300,
+      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
+      "onboard_time": 1764967693,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 16144,
       "num": 25991,
       "word": "日本搞事背后",
       "onboard_time": 1764697817,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 15998,
+      "num": 24299,
+      "word": "酷酷的陈梦碰到了帅帅的哥",
+      "onboard_time": 1764968594,
+      "rank": 44,
+      "category": "体育,艺人"
     },
     {
       "raw_hot": 15909,
@@ -17475,20 +17515,20 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15681,
+      "num": 24298,
+      "word": "得闲谨制观影口碑",
+      "onboard_time": 1764973154,
+      "rank": 41,
+      "category": "电影"
+    },
+    {
       "raw_hot": 15669,
       "num": 106011,
       "word": "嗑上双强cp就发了狠忘了情",
       "onboard_time": 1764747260,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 15640,
-      "num": 20128,
-      "word": "研究称宇宙大爆炸之前就有意识",
-      "onboard_time": 1764968054,
-      "rank": 33,
-      "category": "科学科普"
     },
     {
       "raw_hot": 15471,
@@ -17528,14 +17568,6 @@
       "word": "张小斐团队里有梦女",
       "onboard_time": 1764968413,
       "rank": 29,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 14846,
-      "num": 34264,
-      "word": "杨幂热依扎认识24年了",
-      "onboard_time": 1764966554,
-      "rank": 38,
       "category": "艺人"
     },
     {
@@ -17651,14 +17683,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 11709,
-      "num": 20127,
-      "word": "酷酷的陈梦碰到了帅帅的哥",
-      "onboard_time": 1764968594,
-      "rank": 44,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 11706,
       "num": 23853,
       "word": "古风发簪折纸教程",
@@ -17707,14 +17731,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 11479,
-      "num": 20127,
-      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
-      "onboard_time": 1764967693,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 11412,
       "num": 34246,
       "word": "爱奇艺尖叫嘉年华互动舞台嘉宾",
@@ -17745,14 +17761,6 @@
       "onboard_time": 1764615914,
       "rank": 48,
       "category": "演出"
-    },
-    {
-      "raw_hot": 11141,
-      "num": 20052,
-      "word": "减肥千万不要只吃水煮菜了",
-      "onboard_time": 1764970214,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 11043,

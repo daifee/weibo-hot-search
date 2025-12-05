@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764970812599,
+  "endTime": 1764973612908,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -172,7 +172,7 @@
     },
     {
       "raw_hot": 127593,
-      "num": 176818,
+      "num": 378853,
       "word": "小伙缅北逃跑失败被掰断手指脚趾",
       "onboard_time": 1764935961,
       "rank": 18,
@@ -443,6 +443,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 44750,
+      "num": 47763,
+      "word": "大生意人1晚死了461个人",
+      "onboard_time": 1764943583,
+      "rank": 46,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 39463,
       "num": 59469,
       "word": "吴千语直播时赶施伯雄走",
@@ -475,14 +483,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 27999,
-      "num": 47763,
-      "word": "大生意人1晚死了461个人",
-      "onboard_time": 1764943583,
-      "rank": 46,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 26885,
       "num": 36861,
       "word": "张杰佛山演唱会",
@@ -499,6 +499,14 @@
       "category": "网红"
     },
     {
+      "raw_hot": 24307,
+      "num": 24307,
+      "word": "研究称宇宙大爆炸之前就有意识",
+      "onboard_time": 1764968054,
+      "rank": 33,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 21931,
       "num": 36771,
       "word": "陈震曾说逃税是最可耻的",
@@ -507,7 +515,7 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 20289,
+      "raw_hot": 21024,
       "num": 34278,
       "word": "狙击蝴蝶李嘉格真人版",
       "onboard_time": 1764960736,
@@ -515,12 +523,44 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 15640,
-      "num": 20128,
-      "word": "研究称宇宙大爆炸之前就有意识",
-      "onboard_time": 1764968054,
-      "rank": 33,
-      "category": "科学科普"
+      "raw_hot": 19844,
+      "num": 24306,
+      "word": "减肥千万不要只吃水煮菜了",
+      "onboard_time": 1764970214,
+      "rank": 44,
+      "category": "运动健身"
+    },
+    {
+      "raw_hot": 16796,
+      "num": 34264,
+      "word": "杨幂热依扎认识24年了",
+      "onboard_time": 1764966554,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 16196,
+      "num": 24300,
+      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
+      "onboard_time": 1764967693,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 15998,
+      "num": 24299,
+      "word": "酷酷的陈梦碰到了帅帅的哥",
+      "onboard_time": 1764968594,
+      "rank": 44,
+      "category": "体育,艺人"
+    },
+    {
+      "raw_hot": 15681,
+      "num": 24298,
+      "word": "得闲谨制观影口碑",
+      "onboard_time": 1764973154,
+      "rank": 41,
+      "category": "电影"
     },
     {
       "raw_hot": 14871,
@@ -531,35 +571,11 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 14846,
-      "num": 34264,
-      "word": "杨幂热依扎认识24年了",
-      "onboard_time": 1764966554,
-      "rank": 38,
-      "category": "艺人"
-    },
-    {
-      "raw_hot": 11709,
-      "num": 20127,
-      "word": "酷酷的陈梦碰到了帅帅的哥",
-      "onboard_time": 1764968594,
-      "rank": 44,
-      "category": "体育,艺人"
-    },
-    {
       "raw_hot": 11652,
       "num": 34246,
       "word": "薛之谦坦白唱跳舞台",
       "onboard_time": 1764965534,
       "rank": 44,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 11479,
-      "num": 20127,
-      "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
-      "onboard_time": 1764967693,
-      "rank": 42,
       "category": "综艺"
     },
     {
@@ -569,14 +585,6 @@
       "onboard_time": 1764964094,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 11141,
-      "num": 20052,
-      "word": "减肥千万不要只吃水煮菜了",
-      "onboard_time": 1764970214,
-      "rank": 44,
-      "category": "运动健身"
     },
     {
       "raw_hot": 10637,
