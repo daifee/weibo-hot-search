@@ -1,0 +1,410 @@
+{
+  "runTime": 1764910230837,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 297684,
+        "num": 1047629,
+        "word": "中国夫妻的金发碧眼女儿鉴定为亲生",
+        "onboard_time": 1764896961,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 273639,
+        "num": 273639,
+        "word": "饿了么APP已更新为淘宝闪购",
+        "onboard_time": 1764896781,
+        "rank": 1,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 63150,
+        "num": 263762,
+        "word": "买卖账号赚快钱已有人获刑",
+        "onboard_time": 1764895703,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1290495,
+        "num": 258024,
+        "word": "法国总统在成都晨跑",
+        "onboard_time": 1764905540,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 280597,
+        "num": 242983,
+        "word": "村支书偷偷为全村交了8年保费",
+        "onboard_time": 1764899479,
+        "rank": 4,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 159444,
+        "num": 232215,
+        "word": "中公教育以物抵债退落榜考生学费",
+        "onboard_time": 1764900739,
+        "rank": 5,
+        "category": "舆论监督"
+      },
+      {
+        "raw_hot": 154497,
+        "num": 219132,
+        "word": "尖叫之夜全员走心官宣",
+        "onboard_time": 1764902540,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148967,
+        "num": 207298,
+        "word": "现在就出发",
+        "onboard_time": 1764862760,
+        "rank": 7,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 197890,
+        "num": 197890,
+        "word": "詹姆斯连续得分上双纪录终结",
+        "onboard_time": 1764905600,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 136617,
+        "num": 196798,
+        "word": "摩尔线程",
+        "onboard_time": 1764899838,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 1063832,
+        "num": 193615,
+        "word": "周柯宇 国籍",
+        "onboard_time": 1764897859,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 636234,
+        "num": 187072,
+        "word": "向华强称为捧向佐亏了几个亿",
+        "onboard_time": 1764907821,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 572744,
+        "num": 184563,
+        "word": "张凌赫自己都生不出这么像的",
+        "onboard_time": 1764908661,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 468462,
+        "num": 179762,
+        "word": "衣服成本价就在水洗标上",
+        "onboard_time": 1764906681,
+        "rank": 13,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 443986,
+        "num": 175593,
+        "word": "沈佳润 路人缘是一种玄的东西",
+        "onboard_time": 1764907400,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 541674,
+        "num": 173843,
+        "word": "周柯宇方回应国籍",
+        "onboard_time": 1764905480,
+        "rank": 15,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 364601,
+        "num": 170320,
+        "word": "陈震同学的同学",
+        "onboard_time": 1764904521,
+        "rank": 16,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 167529,
+        "num": 167529,
+        "word": "姐弟7万买相邻墓位下葬发现不相邻",
+        "onboard_time": 1764904401,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 103285,
+        "num": 164816,
+        "word": "华为MateX7全色售罄",
+        "onboard_time": 1764908481,
+        "rank": 18,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 164621,
+        "num": 164621,
+        "word": "杨瀚森三分",
+        "onboard_time": 1764905301,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 405166,
+        "num": 162674,
+        "word": "李嘉格男朋友是01年的",
+        "onboard_time": 1764907101,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 400687,
+        "num": 161443,
+        "word": "沈腾贾玲重聚",
+        "onboard_time": 1764903619,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 359900,
+        "num": 157509,
+        "word": "刘嘉玲问时代峰峻怎么赚钱",
+        "onboard_time": 1764908241,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 321275,
+        "num": 155139,
+        "word": "王一博说我没办法给别人情绪价值",
+        "onboard_time": 1764908541,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 232142,
+        "num": 152938,
+        "word": "声生不息 版权",
+        "onboard_time": 1764908782,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224846,
+        "num": 149649,
+        "word": "留几手喊话再见爱人",
+        "onboard_time": 1764902960,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 202785,
+        "num": 146430,
+        "word": "白鹿听到恭迎爱奇艺女王的反应",
+        "onboard_time": 1764905061,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 51278,
+        "num": 143803,
+        "word": "肖战下颚线也有代言了",
+        "onboard_time": 1764907101,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 143672,
+        "num": 143672,
+        "word": "陈震同学的同学被禁言",
+        "onboard_time": 1764907101,
+        "rank": 28,
+        "category": "汽车,网红"
+      },
+      {
+        "raw_hot": 109672,
+        "num": 143070,
+        "word": "三家主要外卖平台分别发声明",
+        "onboard_time": 1764907881,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 186130,
+        "num": 142248,
+        "word": "黄子韬  TF一二三四代都笑纳了",
+        "onboard_time": 1764908961,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 165419,
+        "num": 139932,
+        "word": "宋茜给自己剪短发",
+        "onboard_time": 1764905900,
+        "rank": 31,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 151291,
+        "num": 138632,
+        "word": "疯狂动物城何以沦为疯狂盗摄城",
+        "onboard_time": 1764910102,
+        "rank": 32,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 138085,
+        "num": 138085,
+        "word": "长佩崩了",
+        "onboard_time": 1764908121,
+        "rank": 33,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 118227,
+        "num": 137988,
+        "word": "带娃界来了个天才",
+        "onboard_time": 1764908782,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 137957,
+        "num": 137957,
+        "word": "宁静 柯淳你是渣男",
+        "onboard_time": 1764907281,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117443,
+        "num": 137765,
+        "word": "遭毒蛇咬伤男子吃解毒丸后死亡",
+        "onboard_time": 1764907400,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106133,
+        "num": 137167,
+        "word": "外卖新国标",
+        "onboard_time": 1764908001,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 29859,
+        "num": 136711,
+        "word": "东南亚低龄留学热开始退潮",
+        "onboard_time": 1764909141,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 107913,
+        "num": 136329,
+        "word": "粉丝把助理认成杨幂",
+        "onboard_time": 1764909861,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136134,
+        "num": 136134,
+        "word": "新华社发文疯狂盗摄城",
+        "onboard_time": 1764903919,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 120820,
+        "num": 120820,
+        "word": "现在就出发投票",
+        "onboard_time": 1764894261,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 112321,
+        "num": 112321,
+        "word": "林心如状态满40减20",
+        "onboard_time": 1764906861,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 102504,
+        "num": 102504,
+        "word": "建议大家周末去做反差大的事",
+        "onboard_time": 1764906861,
+        "rank": 43,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 102385,
+        "num": 102385,
+        "word": "杨瀚森背靠背出战G联赛",
+        "onboard_time": 1764906921,
+        "rank": 44,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102241,
+        "num": 102241,
+        "word": "美国网友发现购买猪肉遍布气孔",
+        "onboard_time": 1764908302,
+        "rank": 45,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 98440,
+        "num": 98440,
+        "word": "早睡原来是早上睡觉吗",
+        "onboard_time": 1764909982,
+        "rank": 46,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 98293,
+        "num": 98293,
+        "word": "明星参加尖叫之夜路透",
+        "onboard_time": 1764908481,
+        "rank": 47,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 94688,
+        "num": 94688,
+        "word": "李嘉格男友耳朵都红了",
+        "onboard_time": 1764905181,
+        "rank": 48,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 94066,
+        "num": 94066,
+        "word": "马克龙称此次访华之行很棒",
+        "onboard_time": 1764898879,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#共同谱写中法合作更加美好的篇章#"
+    }
+  }
+}

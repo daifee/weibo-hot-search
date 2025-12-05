@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764909395474,
+  "endTime": 1764910230837,
   "band_list": [
     {
       "raw_hot": 1970748,
@@ -51,6 +51,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 636234,
+      "num": 196976,
+      "word": "向华强称为捧向佐亏了几个亿",
+      "onboard_time": 1764907821,
+      "rank": 14,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 610219,
       "num": 207441,
       "word": "沈腾贾玲重聚",
@@ -65,6 +73,14 @@
       "onboard_time": 1764896961,
       "rank": 3,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 572744,
+      "num": 184563,
+      "word": "张凌赫自己都生不出这么像的",
+      "onboard_time": 1764908661,
+      "rank": 24,
+      "category": "艺人"
     },
     {
       "raw_hot": 518110,
@@ -99,6 +115,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 443986,
+      "num": 191090,
+      "word": "沈佳润 路人缘是一种玄的东西",
+      "onboard_time": 1764907400,
+      "rank": 16,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 441429,
       "num": 801054,
       "word": "商家半年内被同一人仅退款225个快递",
@@ -131,11 +155,11 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 403238,
-      "num": 196976,
-      "word": "向华强称为捧向佐亏了几个亿",
-      "onboard_time": 1764907821,
-      "rank": 14,
+      "raw_hot": 405166,
+      "num": 184940,
+      "word": "李嘉格男朋友是01年的",
+      "onboard_time": 1764907101,
+      "rank": 20,
       "category": "艺人"
     },
     {
@@ -147,20 +171,20 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 380228,
-      "num": 184940,
-      "word": "李嘉格男朋友是01年的",
-      "onboard_time": 1764907101,
-      "rank": 20,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 368590,
       "num": 659747,
       "word": "狙击蝴蝶 误点小广告",
       "onboard_time": 1764858623,
       "rank": 1,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 364601,
+      "num": 204621,
+      "word": "陈震同学的同学",
+      "onboard_time": 1764904521,
+      "rank": 18,
+      "category": "汽车,网红"
     },
     {
       "raw_hot": 363335,
@@ -171,12 +195,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 351214,
-      "num": 191090,
-      "word": "沈佳润 路人缘是一种玄的东西",
-      "onboard_time": 1764907400,
-      "rank": 16,
-      "category": "艺人"
+      "raw_hot": 359900,
+      "num": 181424,
+      "word": "刘嘉玲问时代峰峻怎么赚钱",
+      "onboard_time": 1764908241,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 350810,
@@ -211,6 +235,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 321275,
+      "num": 176336,
+      "word": "王一博说我没办法给别人情绪价值",
+      "onboard_time": 1764908541,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 318201,
       "num": 222146,
       "word": "詹姆斯助攻",
@@ -224,14 +256,6 @@
       "word": "陈震名下公司因欠税被公告",
       "onboard_time": 1764900680,
       "rank": 5,
-      "category": "汽车,网红"
-    },
-    {
-      "raw_hot": 281438,
-      "num": 204621,
-      "word": "陈震同学的同学",
-      "onboard_time": 1764904521,
-      "rank": 18,
       "category": "汽车,网红"
     },
     {
@@ -299,14 +323,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 246187,
-      "num": 183630,
-      "word": "张凌赫自己都生不出这么像的",
-      "onboard_time": 1764908661,
-      "rank": 24,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 243985,
       "num": 196546,
       "word": "年会上的李沁",
@@ -339,20 +355,20 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 234781,
-      "num": 181424,
-      "word": "刘嘉玲问时代峰峻怎么赚钱",
-      "onboard_time": 1764908241,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 234608,
       "num": 234608,
       "word": "摩尔线程",
       "onboard_time": 1764899838,
       "rank": 18,
       "category": "财经"
+    },
+    {
+      "raw_hot": 232142,
+      "num": 158712,
+      "word": "声生不息 版权",
+      "onboard_time": 1764908782,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 231030,
@@ -443,14 +459,6 @@
       "category": "游戏,网红"
     },
     {
-      "raw_hot": 195050,
-      "num": 176336,
-      "word": "王一博说我没办法给别人情绪价值",
-      "onboard_time": 1764908541,
-      "rank": 27,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 193371,
       "num": 193371,
       "word": "桃黑黑觉得错了就是错了",
@@ -472,6 +480,14 @@
       "word": "李嘉格男友耳朵都红了",
       "onboard_time": 1764905181,
       "rank": 27,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 186130,
+      "num": 142248,
+      "word": "黄子韬  TF一二三四代都笑纳了",
+      "onboard_time": 1764908961,
+      "rank": 39,
       "category": "艺人"
     },
     {
@@ -547,20 +563,20 @@
       "category": "电影"
     },
     {
-      "raw_hot": 171543,
-      "num": 158712,
-      "word": "声生不息 版权",
-      "onboard_time": 1764908782,
-      "rank": 33,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 169626,
       "num": 117557,
       "word": "章泽天 刘亦菲妈妈年轻时候",
       "onboard_time": 1764856402,
       "rank": 21,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 167529,
+      "num": 172962,
+      "word": "姐弟7万买相邻墓位下葬发现不相邻",
+      "onboard_time": 1764904401,
+      "rank": 35,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 167506,
@@ -571,20 +587,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 165004,
-      "num": 172962,
-      "word": "姐弟7万买相邻墓位下葬发现不相邻",
-      "onboard_time": 1764904401,
-      "rank": 35,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 164793,
       "num": 164793,
       "word": "我赚钱方式的组成",
       "onboard_time": 1764908421,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 151291,
+      "num": 138632,
+      "word": "疯狂动物城何以沦为疯狂盗摄城",
+      "onboard_time": 1764910102,
+      "rank": 32,
+      "category": "电影"
     },
     {
       "raw_hot": 150743,
@@ -633,14 +649,6 @@
       "onboard_time": 1764850881,
       "rank": 7,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 140681,
-      "num": 120500,
-      "word": "黄子韬  TF一二三四代都笑纳了",
-      "onboard_time": 1764908961,
-      "rank": 39,
-      "category": "艺人"
     },
     {
       "raw_hot": 138818,
@@ -748,7 +756,7 @@
     },
     {
       "raw_hot": 119871,
-      "num": 119871,
+      "num": 137167,
       "word": "外卖新国标",
       "onboard_time": 1764908001,
       "rank": 40,
@@ -772,11 +780,19 @@
     },
     {
       "raw_hot": 118480,
-      "num": 118480,
+      "num": 164816,
       "word": "华为MateX7全色售罄",
       "onboard_time": 1764908481,
       "rank": 42,
       "category": "数码"
+    },
+    {
+      "raw_hot": 118227,
+      "num": 137988,
+      "word": "带娃界来了个天才",
+      "onboard_time": 1764908782,
+      "rank": 43,
+      "category": "幽默"
     },
     {
       "raw_hot": 117468,
@@ -787,12 +803,12 @@
       "category": "情感"
     },
     {
-      "raw_hot": 117430,
-      "num": 117430,
-      "word": "带娃界来了个天才",
-      "onboard_time": 1764908782,
-      "rank": 43,
-      "category": "幽默"
+      "raw_hot": 117443,
+      "num": 137765,
+      "word": "遭毒蛇咬伤男子吃解毒丸后死亡",
+      "onboard_time": 1764907400,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 117081,
@@ -859,6 +875,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 107913,
+      "num": 136329,
+      "word": "粉丝把助理认成杨幂",
+      "onboard_time": 1764909861,
+      "rank": 39,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 107496,
       "num": 107496,
       "word": "冬天起床不要太猛",
@@ -889,14 +913,6 @@
       "onboard_time": 1764905301,
       "rank": 46,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 106302,
-      "num": 106302,
-      "word": "遭毒蛇咬伤男子吃解毒丸后死亡",
-      "onboard_time": 1764907400,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 104850,
@@ -947,7 +963,15 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 102101,
+      "raw_hot": 102385,
+      "num": 102385,
+      "word": "杨瀚森背靠背出战G联赛",
+      "onboard_time": 1764906921,
+      "rank": 44,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 102241,
       "num": 122237,
       "word": "美国网友发现购买猪肉遍布气孔",
       "onboard_time": 1764908302,
@@ -979,6 +1003,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 98440,
+      "num": 98440,
+      "word": "早睡原来是早上睡觉吗",
+      "onboard_time": 1764909982,
+      "rank": 46,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 97275,
       "num": 121765,
       "word": "王一博专挑破包背",
@@ -1001,6 +1033,14 @@
       "onboard_time": 1764903860,
       "rank": 46,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 94066,
+      "num": 94066,
+      "word": "马克龙称此次访华之行很棒",
+      "onboard_time": 1764898879,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 91373,
@@ -1057,14 +1097,6 @@
       "onboard_time": 1764895581,
       "rank": 36,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 82099,
-      "num": 82099,
-      "word": "马克龙称此次访华之行很棒",
-      "onboard_time": 1764898879,
-      "rank": 37,
-      "category": "国际时政"
     },
     {
       "raw_hot": 81594,
@@ -1515,8 +1547,8 @@
       "category": "体育"
     },
     {
-      "raw_hot": 27980,
-      "num": 120838,
+      "raw_hot": 29859,
+      "num": 136711,
       "word": "东南亚低龄留学热开始退潮",
       "onboard_time": 1764909141,
       "rank": 38,
