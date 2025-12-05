@@ -1,6 +1,6 @@
 {
   "startTime": 1764433915295,
-  "endTime": 1764931596953,
+  "endTime": 1764933973018,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -240,6 +240,14 @@
       "word": "李嘉格回应恋情",
       "onboard_time": 1764755241,
       "rank": 21,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 1454772,
+      "num": 285943,
+      "word": "金晨怎么变这样了",
+      "onboard_time": 1764932002,
+      "rank": 10,
       "category": "艺人"
     },
     {
@@ -545,6 +553,14 @@
       "onboard_time": 1764475221,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 1079816,
+      "num": 1079816,
+      "word": "孙俪李现等占道经营系使用虚假人名",
+      "onboard_time": 1764927441,
+      "rank": 5,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 1073347,
@@ -1651,6 +1667,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 553598,
+      "num": 791304,
+      "word": "团播 美颜拉腿",
+      "onboard_time": 1764929782,
+      "rank": 7,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 552341,
       "num": 874172,
       "word": "BLG官宣Xun加入",
@@ -2033,14 +2057,6 @@
       "onboard_time": 1764507743,
       "rank": 41,
       "category": "艺人"
-    },
-    {
-      "raw_hot": 484931,
-      "num": 791304,
-      "word": "团播 美颜拉腿",
-      "onboard_time": 1764929782,
-      "rank": 7,
-      "category": "互联网,网红"
     },
     {
       "raw_hot": 484560,
@@ -2780,7 +2796,7 @@
     },
     {
       "raw_hot": 398445,
-      "num": 220098,
+      "num": 1079968,
       "word": "月亮",
       "onboard_time": 1764843321,
       "rank": 15,
@@ -3979,6 +3995,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 296590,
+      "num": 296590,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1764928702,
+      "rank": 25,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 296405,
       "num": 235700,
       "word": "朱志鑫的百度百科",
@@ -5027,14 +5051,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 231053,
-      "num": 231053,
-      "word": "爱奇艺尖叫之夜",
-      "onboard_time": 1764928702,
-      "rank": 25,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 231030,
       "num": 231030,
       "word": "陈震全网粉丝超2400万",
@@ -5177,6 +5193,14 @@
       "onboard_time": 1764820702,
       "rank": 23,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 225351,
+      "num": 1086619,
+      "word": "A股为何突然大涨",
+      "onboard_time": 1764932661,
+      "rank": 1,
+      "category": "财经"
     },
     {
       "raw_hot": 224651,
@@ -6387,6 +6411,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 190605,
+      "num": 190605,
+      "word": "迪丽热巴 豆瓣分型",
+      "onboard_time": 1764933260,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 190292,
       "num": 190292,
       "word": "新音 三亚",
@@ -7059,6 +7091,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175694,
+      "num": 175694,
+      "word": "陈哲远回深圳做手术",
+      "onboard_time": 1764932781,
+      "rank": 27,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 175326,
       "num": 164256,
       "word": "画梅回应退网",
@@ -7201,6 +7241,14 @@
       "onboard_time": 1764903919,
       "rank": 40,
       "category": "电影"
+    },
+    {
+      "raw_hot": 171965,
+      "num": 171965,
+      "word": "梁祯元沉冤得雪",
+      "onboard_time": 1764932962,
+      "rank": 28,
+      "category": "艺人"
     },
     {
       "raw_hot": 171832,
@@ -7675,6 +7723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 162286,
+      "num": 162286,
+      "word": "代号鸢",
+      "onboard_time": 1764933082,
+      "rank": 29,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 162226,
       "num": 162226,
       "word": "晚宴上的张婧仪 小说第几章",
@@ -8105,6 +8161,14 @@
       "onboard_time": 1764732742,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 156072,
+      "num": 156072,
+      "word": "气血不足的人要省着用身体",
+      "onboard_time": 1764932303,
+      "rank": 30,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 156004,
@@ -8795,6 +8859,14 @@
       "category": "演出"
     },
     {
+      "raw_hot": 145553,
+      "num": 145553,
+      "word": "Peanut直播力挺Faker",
+      "onboard_time": 1764933862,
+      "rank": 32,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 145500,
       "num": 145500,
       "word": "黄雅琼婚礼最热闹的一桌",
@@ -9163,6 +9235,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 139664,
+      "num": 476561,
+      "word": "Prada官宣杨幂",
+      "onboard_time": 1764929002,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 139596,
       "num": 139596,
       "word": "国考数量答案",
@@ -9305,6 +9385,14 @@
       "onboard_time": 1764779239,
       "rank": 39,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 137512,
+      "num": 137512,
+      "word": "声生不息认证张艺兴华流小骄傲",
+      "onboard_time": 1764932661,
+      "rank": 33,
+      "category": "综艺"
     },
     {
       "raw_hot": 137472,
@@ -9579,6 +9667,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 133957,
+      "num": 133957,
+      "word": "Peanut兵役推迟",
+      "onboard_time": 1764933862,
+      "rank": 34,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 133861,
       "num": 133861,
       "word": "敖瑞鹏不二之臣牵手奔跑路透",
@@ -9844,7 +9940,7 @@
     },
     {
       "raw_hot": 131747,
-      "num": 226167,
+      "num": 264622,
       "word": "妈妈的拼多多评价里全是我",
       "onboard_time": 1764925821,
       "rank": 19,
@@ -10827,6 +10923,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 121718,
+      "num": 121718,
+      "word": "得闲谨制",
+      "onboard_time": 1764931522,
+      "rank": 47,
+      "category": "电影"
+    },
+    {
       "raw_hot": 121696,
       "num": 665984,
       "word": "寒潮",
@@ -10883,12 +10987,28 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 121423,
+      "num": 178763,
+      "word": "1.8万元钻戒回收价仅180元",
+      "onboard_time": 1764932421,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 121372,
       "num": 121372,
       "word": "莫拉娱乐",
       "onboard_time": 1764673161,
       "rank": 36,
       "category": "演出"
+    },
+    {
+      "raw_hot": 121350,
+      "num": 121350,
+      "word": "唐朝诡事录之长安",
+      "onboard_time": 1764931641,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 121306,
@@ -11857,6 +11977,14 @@
       "onboard_time": 1764660502,
       "rank": 49,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 113941,
+      "num": 113941,
+      "word": "漂亮的李慧珍啥时候出2了",
+      "onboard_time": 1764933322,
+      "rank": 47,
+      "category": "剧集"
     },
     {
       "raw_hot": 113924,
@@ -13259,12 +13387,12 @@
       "category": "游戏"
     },
     {
-      "raw_hot": 101577,
-      "num": 101577,
-      "word": "得闲谨制",
-      "onboard_time": 1764931522,
-      "rank": 47,
-      "category": "电影"
+      "raw_hot": 101643,
+      "num": 101643,
+      "word": "发明饱了么的人真是个天才",
+      "onboard_time": 1764931460,
+      "rank": 49,
+      "category": "幽默"
     },
     {
       "raw_hot": 101511,
@@ -14067,6 +14195,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 94719,
+      "num": 188276,
+      "word": "中公教育1.7万退款分17年还",
+      "onboard_time": 1764932721,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 94628,
       "num": 94628,
       "word": "孙颖莎王楚钦递毛巾全靠默契",
@@ -14857,14 +14993,6 @@
       "onboard_time": 1764492141,
       "rank": 45,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 87627,
-      "num": 476561,
-      "word": "Prada官宣杨幂",
-      "onboard_time": 1764929002,
-      "rank": 13,
-      "category": "作品衍生"
     },
     {
       "raw_hot": 87558,
@@ -17523,6 +17651,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 48982,
+      "num": 118343,
+      "word": "马琳一个球也没打中",
+      "onboard_time": 1764932661,
+      "rank": 41,
+      "category": "体育"
+    },
+    {
       "raw_hot": 48887,
       "num": 130445,
       "word": "蔡依林看了都得楞3秒",
@@ -18252,7 +18388,7 @@
     },
     {
       "raw_hot": 38808,
-      "num": 1030178,
+      "num": 1084805,
       "word": "卫健委介绍节气与健康有关情况",
       "onboard_time": 1764924624,
       "rank": 2,
@@ -18625,6 +18761,14 @@
       "onboard_time": 1764830301,
       "rank": 24,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 32996,
+      "num": 175886,
+      "word": "罗大美被害案主犯称自己罪不至死",
+      "onboard_time": 1764932421,
+      "rank": 26,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 32640,
@@ -19411,6 +19555,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 20982,
+      "num": 116554,
+      "word": "王楚钦向对手表示祝贺",
+      "onboard_time": 1764932602,
+      "rank": 43,
+      "category": "体育"
+    },
+    {
       "raw_hot": 20846,
       "num": 121568,
       "word": "申裕斌采访禁止卖萌",
@@ -19921,6 +20073,14 @@
       "onboard_time": 1764447674,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 10266,
+      "num": 116211,
+      "word": "神秘无人机试图干扰泽连斯基专机",
+      "onboard_time": 1764932421,
+      "rank": 45,
+      "category": "国际时政"
     },
     {
       "raw_hot": 10075,
