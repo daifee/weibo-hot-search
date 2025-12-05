@@ -1,6 +1,6 @@
 {
   "startTime": 1764866339172,
-  "endTime": 1764927810087,
+  "endTime": 1764930641883,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -17,6 +17,14 @@
       "onboard_time": 1764910701,
       "rank": 3,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 2183320,
+      "num": 893964,
+      "word": "官方通报孙俪李现等占道经营被处罚",
+      "onboard_time": 1764927441,
+      "rank": 23,
+      "category": "民生新闻,艺人"
     },
     {
       "raw_hot": 2085096,
@@ -100,7 +108,7 @@
     },
     {
       "raw_hot": 990546,
-      "num": 230032,
+      "num": 631947,
       "word": "高考你没考吗 北大不包邮",
       "onboard_time": 1764924202,
       "rank": 10,
@@ -116,7 +124,7 @@
     },
     {
       "raw_hot": 743063,
-      "num": 229553,
+      "num": 442829,
       "word": "丁程鑫改了张国荣的歌词",
       "onboard_time": 1764921200,
       "rank": 27,
@@ -195,6 +203,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 527251,
+      "num": 527251,
+      "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
+      "onboard_time": 1764928702,
+      "rank": 12,
+      "category": "音乐"
+    },
+    {
       "raw_hot": 518110,
       "num": 282662,
       "word": "衣服成本价就在水洗标上",
@@ -220,7 +236,7 @@
     },
     {
       "raw_hot": 481298,
-      "num": 481298,
+      "num": 809883,
       "word": "雅迪毛豆车型",
       "onboard_time": 1764923001,
       "rank": 6,
@@ -233,6 +249,22 @@
       "onboard_time": 1764859642,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 456873,
+      "num": 456873,
+      "word": "周柯宇国籍变更",
+      "onboard_time": 1764927502,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 447665,
+      "num": 447665,
+      "word": "胡先煦曝叫兽易小星曾写遗书",
+      "onboard_time": 1764927261,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 445411,
@@ -283,6 +315,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 432242,
+      "num": 432242,
+      "word": "雅迪争议电动车已下架",
+      "onboard_time": 1764926540,
+      "rank": 32,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 428061,
       "num": 187196,
       "word": "李嘉格与男友初次见面主动邀约散步",
@@ -292,7 +332,7 @@
     },
     {
       "raw_hot": 421339,
-      "num": 421339,
+      "num": 927737,
       "word": "马克龙访问四川大学",
       "onboard_time": 1764922521,
       "rank": 20,
@@ -435,14 +475,6 @@
       "category": "汽车,网红"
     },
     {
-      "raw_hot": 284515,
-      "num": 220843,
-      "word": "官方通报孙俪李现等占道经营被处罚",
-      "onboard_time": 1764927441,
-      "rank": 23,
-      "category": "民生新闻,艺人"
-    },
-    {
       "raw_hot": 280066,
       "num": 280066,
       "word": "中公教育以物抵债退落榜考生学费",
@@ -459,12 +491,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 268600,
-      "num": 218882,
-      "word": "雅迪争议电动车已下架",
-      "onboard_time": 1764926540,
-      "rank": 32,
-      "category": "民生新闻"
+      "raw_hot": 273251,
+      "num": 273251,
+      "word": "王楚钦回应1比2弗朗西斯卡",
+      "onboard_time": 1764923841,
+      "rank": 7,
+      "category": "体育"
     },
     {
       "raw_hot": 268392,
@@ -529,6 +561,14 @@
       "onboard_time": 1764898942,
       "rank": 25,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 254330,
+      "num": 254330,
+      "word": "王赫野卖惨",
+      "onboard_time": 1764928281,
+      "rank": 21,
+      "category": "综艺"
     },
     {
       "raw_hot": 253373,
@@ -603,20 +643,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 232009,
-      "num": 232009,
-      "word": "王楚钦回应1比2弗朗西斯卡",
-      "onboard_time": 1764923841,
-      "rank": 7,
-      "category": "体育"
-    },
-    {
       "raw_hot": 231030,
       "num": 231030,
       "word": "陈震全网粉丝超2400万",
       "onboard_time": 1764896300,
       "rank": 8,
       "category": "汽车,网红"
+    },
+    {
+      "raw_hot": 229573,
+      "num": 229573,
+      "word": "爱奇艺尖叫之夜",
+      "onboard_time": 1764928702,
+      "rank": 25,
+      "category": "综艺"
     },
     {
       "raw_hot": 229285,
@@ -707,6 +747,14 @@
       "category": "作品衍生"
     },
     {
+      "raw_hot": 203735,
+      "num": 791304,
+      "word": "团播 美颜拉腿",
+      "onboard_time": 1764929782,
+      "rank": 7,
+      "category": "互联网,网红"
+    },
+    {
       "raw_hot": 203236,
       "num": 203236,
       "word": "陈震60秒视频报价80万",
@@ -793,6 +841,14 @@
       "onboard_time": 1764916521,
       "rank": 33,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 189890,
+      "num": 176369,
+      "word": "孙颖莎王楚钦有望获新荣誉",
+      "onboard_time": 1764929842,
+      "rank": 30,
+      "category": "体育"
     },
     {
       "raw_hot": 189813,
@@ -915,6 +971,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 175732,
+      "num": 175732,
+      "word": "月亮",
+      "onboard_time": 1764930381,
+      "rank": 31,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 173650,
       "num": 173650,
       "word": "居民废弃酒瓶中砸出过冬眼镜蛇",
@@ -937,14 +1001,6 @@
       "onboard_time": 1764903919,
       "rank": 40,
       "category": "电影"
-    },
-    {
-      "raw_hot": 170355,
-      "num": 170355,
-      "word": "周柯宇国籍变更",
-      "onboard_time": 1764927502,
-      "rank": 31,
-      "category": "艺人"
     },
     {
       "raw_hot": 169626,
@@ -1025,6 +1081,14 @@
       "onboard_time": 1764911722,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 161340,
+      "num": 161340,
+      "word": "李乃文一个坏消息一个好消息",
+      "onboard_time": 1764930022,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 160042,
@@ -1123,6 +1187,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 149461,
+      "num": 149461,
+      "word": "肖战为电影唱摇滚rap了",
+      "onboard_time": 1764929721,
+      "rank": 34,
+      "category": "电影"
+    },
+    {
       "raw_hot": 148702,
       "num": 148702,
       "word": "打工人休息最高配",
@@ -1211,6 +1283,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 139723,
+      "num": 139723,
+      "word": "小酒窝呕吐舞一出手就是专业的",
+      "onboard_time": 1764930322,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 138818,
       "num": 138818,
       "word": "女子踩狗屎后用狗爪刮中1万元",
@@ -1219,12 +1299,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 138114,
-      "num": 224111,
-      "word": "胡先煦曝叫兽易小星曾写遗书",
-      "onboard_time": 1764927261,
-      "rank": 18,
-      "category": "综艺"
+      "raw_hot": 137735,
+      "num": 1067847,
+      "word": "中国香港8比7法国",
+      "onboard_time": 1764927202,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 137410,
@@ -1259,14 +1339,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 132268,
-      "num": 230750,
-      "word": "中国香港8比7法国",
-      "onboard_time": 1764927202,
-      "rank": 9,
-      "category": "体育"
-    },
-    {
       "raw_hot": 131747,
       "num": 226167,
       "word": "妈妈的拼多多评价里全是我",
@@ -1281,6 +1353,14 @@
       "onboard_time": 1764905001,
       "rank": 34,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 131331,
+      "num": 131331,
+      "word": "美军在东太平洋发动致命打击",
+      "onboard_time": 1764928763,
+      "rank": 43,
+      "category": "军事"
     },
     {
       "raw_hot": 130501,
@@ -1385,6 +1465,14 @@
       "onboard_time": 1764852681,
       "rank": 9,
       "category": "科学科普"
+    },
+    {
+      "raw_hot": 121944,
+      "num": 208524,
+      "word": "中国首款自研量产TCR赛车亮相",
+      "onboard_time": 1764929181,
+      "rank": 26,
+      "category": "汽车"
     },
     {
       "raw_hot": 121685,
@@ -1699,6 +1787,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 103828,
+      "num": 141745,
+      "word": "得闲谨制 四个犟种坚决不改名字",
+      "onboard_time": 1764930081,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
       "raw_hot": 103644,
       "num": 103644,
       "word": "逆战未来",
@@ -1763,12 +1859,28 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 101965,
+      "num": 101965,
+      "word": "枭起青壤豆瓣开分6.3",
+      "onboard_time": 1764928522,
+      "rank": 47,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 101694,
       "num": 101694,
       "word": "王者荣耀消失的东西",
       "onboard_time": 1764920301,
       "rank": 43,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 100444,
+      "num": 100444,
+      "word": "A股行情",
+      "onboard_time": 1764930502,
+      "rank": 48,
+      "category": "财经"
     },
     {
       "raw_hot": 99741,
@@ -2019,6 +2131,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 83224,
+      "num": 476561,
+      "word": "Prada官宣杨幂",
+      "onboard_time": 1764929002,
+      "rank": 13,
+      "category": "作品衍生"
+    },
+    {
       "raw_hot": 83112,
       "num": 158549,
       "word": "任正非说未来的希望在青年",
@@ -2251,6 +2371,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69663,
+      "num": 434724,
+      "word": "MateX7开售多地名人现身华为门店",
+      "onboard_time": 1764929002,
+      "rank": 18,
+      "category": "数码"
+    },
+    {
       "raw_hot": 69034,
       "num": 83658,
       "word": "女子试新衣服被赞美后直接扯下吊牌",
@@ -2313,6 +2441,14 @@
       "onboard_time": 1764847460,
       "rank": 38,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 56760,
+      "num": 248986,
+      "word": "墨西哥一球场附近现456袋人体残骸",
+      "onboard_time": 1764929181,
+      "rank": 23,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 56615,
@@ -2417,6 +2553,14 @@
       "onboard_time": 1764860482,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 46793,
+      "num": 141738,
+      "word": "美军突袭误杀一卧底",
+      "onboard_time": 1764929601,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 46646,
@@ -2532,7 +2676,7 @@
     },
     {
       "raw_hot": 38808,
-      "num": 608342,
+      "num": 1030178,
       "word": "卫健委介绍节气与健康有关情况",
       "onboard_time": 1764924624,
       "rank": 2,
@@ -2593,6 +2737,14 @@
       "onboard_time": 1764884294,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 34000,
+      "num": 141793,
+      "word": "山上彻也首次向安倍遗属道歉",
+      "onboard_time": 1764929901,
+      "rank": 37,
+      "category": "国际时政"
     },
     {
       "raw_hot": 33560,
@@ -2787,6 +2939,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 15966,
+      "num": 661614,
+      "word": "高市当局洗脑竟连儿童都不放过",
+      "onboard_time": 1764930022,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 12082,
       "num": 17850,
       "word": "张小斐 时尚战绩",
@@ -2809,6 +2969,14 @@
       "onboard_time": 1764879734,
       "rank": 49,
       "category": "情感"
+    },
+    {
+      "raw_hot": 9728,
+      "num": 251367,
+      "word": "马克龙访华将影响中欧未来",
+      "onboard_time": 1764930381,
+      "rank": 22,
+      "category": "国际时政"
     },
     {
       "raw_hot": 9681,
