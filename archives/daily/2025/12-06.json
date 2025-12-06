@@ -1,10 +1,10 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765016833843,
+  "endTime": 1765017777716,
   "band_list": [
     {
-      "raw_hot": 3572813,
-      "num": 3572813,
+      "raw_hot": 4647608,
+      "num": 4647608,
       "word": "尖叫之夜红毯",
       "onboard_time": 1765003762,
       "rank": 45,
@@ -75,6 +75,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 944633,
+      "num": 944633,
+      "word": "杨幂 祖海女王",
+      "onboard_time": 1765017083,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 942206,
       "num": 1150753,
       "word": "得闲谨制",
@@ -108,7 +116,7 @@
     },
     {
       "raw_hot": 850737,
-      "num": 1136117,
+      "num": 2203234,
       "word": "警方通报52岁男子持刀伤人致3死",
       "onboard_time": 1765013482,
       "rank": 7,
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 621862,
-      "num": 240707,
+      "num": 562949,
       "word": "魏大勋孙千红毯牵手",
       "onboard_time": 1765016063,
       "rank": 10,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 543639,
-      "num": 543639,
+      "num": 571043,
       "word": "美军承认击落美军战机",
       "onboard_time": 1765005800,
       "rank": 36,
@@ -356,7 +364,7 @@
     },
     {
       "raw_hot": 410453,
-      "num": 1063936,
+      "num": 1850225,
       "word": "杭州师范大学通报调查结果",
       "onboard_time": 1765012283,
       "rank": 9,
@@ -448,6 +456,14 @@
       "word": "第一次有人火了之后不想当明星",
       "onboard_time": 1764990561,
       "rank": 18,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 362660,
+      "num": 209216,
+      "word": "向涵之美成啥了",
+      "onboard_time": 1765017322,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -596,7 +612,7 @@
     },
     {
       "raw_hot": 273732,
-      "num": 1127484,
+      "num": 4022064,
       "word": "大湾区大学正式成立",
       "onboard_time": 1765006221,
       "rank": 49,
@@ -612,7 +628,7 @@
     },
     {
       "raw_hot": 266790,
-      "num": 176210,
+      "num": 209008,
       "word": "田曦薇飞吻",
       "onboard_time": 1765015404,
       "rank": 25,
@@ -716,7 +732,7 @@
     },
     {
       "raw_hot": 240606,
-      "num": 177145,
+      "num": 209158,
       "word": "复旦大学官网变黑白",
       "onboard_time": 1765016123,
       "rank": 24,
@@ -787,6 +803,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 224681,
+      "num": 208934,
+      "word": "秦岚盘发",
+      "onboard_time": 1765017502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 224591,
       "num": 224591,
       "word": "尖叫之夜海报站位",
@@ -819,6 +843,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 214461,
+      "num": 208834,
+      "word": "林俊杰获AAA最佳艺人奖",
+      "onboard_time": 1765017201,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 214218,
       "num": 116274,
       "word": "安徽一男子掉入草场粉碎机身亡",
@@ -833,6 +865,14 @@
       "onboard_time": 1765005981,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 208604,
+      "num": 208604,
+      "word": "李现李一桐太配了",
+      "onboard_time": 1765017263,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 207241,
@@ -945,6 +985,14 @@
       "onboard_time": 1765005502,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193544,
+      "num": 678548,
+      "word": "LPL",
+      "onboard_time": 1765016903,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 193346,
@@ -1139,6 +1187,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 179617,
+      "num": 179617,
+      "word": "杨旭文说唐诡4快来了",
+      "onboard_time": 1765016363,
+      "rank": 35,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 179240,
       "num": 179240,
       "word": "仅用0秒就get到改编歌的权威了",
@@ -1235,6 +1291,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 164639,
+      "num": 209353,
+      "word": "孙颖莎获体育道德风尚奖",
+      "onboard_time": 1765016962,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 164234,
       "num": 164234,
       "word": "吴宣仪正脸图呢",
@@ -1281,14 +1345,6 @@
       "onboard_time": 1764983540,
       "rank": 27,
       "category": "情感"
-    },
-    {
-      "raw_hot": 159563,
-      "num": 159563,
-      "word": "杨旭文说唐诡4快来了",
-      "onboard_time": 1765016363,
-      "rank": 35,
-      "category": "艺人"
     },
     {
       "raw_hot": 158449,
@@ -1361,6 +1417,22 @@
       "onboard_time": 1764999441,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154033,
+      "num": 182585,
+      "word": "国乒vs瑞典",
+      "onboard_time": 1765014022,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 153467,
+      "num": 209102,
+      "word": "三亚发生一起故意伤害案致3死",
+      "onboard_time": 1765014862,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 153313,
@@ -1443,6 +1515,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 147173,
+      "num": 156719,
+      "word": "2025LPL",
+      "onboard_time": 1765016603,
+      "rank": 37,
+      "category": "电竞"
+    },
+    {
       "raw_hot": 146916,
       "num": 152093,
       "word": "特朗普与高市早苗通话措辞非常严厉",
@@ -1460,7 +1540,7 @@
     },
     {
       "raw_hot": 145902,
-      "num": 448521,
+      "num": 564952,
       "word": "泰兰尼斯童鞋卖600万双营收30亿",
       "onboard_time": 1765004421,
       "rank": 46,
@@ -1489,6 +1569,14 @@
       "onboard_time": 1765003762,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142330,
+      "num": 146198,
+      "word": "徐若晗签名简笔画看呆周柯宇",
+      "onboard_time": 1765014083,
+      "rank": 44,
+      "category": "综艺"
     },
     {
       "raw_hot": 142215,
@@ -1587,28 +1675,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 136213,
-      "num": 184305,
-      "word": "三亚发生一起故意伤害案致3死",
-      "onboard_time": 1765014862,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 135749,
       "num": 135749,
       "word": "枭起青壤云合掉到S级了",
       "onboard_time": 1764990020,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135698,
-      "num": 156719,
-      "word": "2025LPL",
-      "onboard_time": 1765016603,
-      "rank": 37,
-      "category": "电竞"
     },
     {
       "raw_hot": 135191,
@@ -1691,14 +1763,6 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 131453,
-      "num": 146198,
-      "word": "徐若晗签名简笔画看呆周柯宇",
-      "onboard_time": 1765014083,
-      "rank": 44,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 130990,
       "num": 130990,
       "word": "2026世界杯看点",
@@ -1755,6 +1819,22 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 127239,
+      "num": 127239,
+      "word": "140平爆改成7个独卫单间",
+      "onboard_time": 1765016543,
+      "rank": 44,
+      "category": "情感"
+    },
+    {
+      "raw_hot": 126913,
+      "num": 208629,
+      "word": "福建姑娘的硬核头饰",
+      "onboard_time": 1765016543,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 126377,
       "num": 126377,
       "word": "王力宏被歌迷讽刺到了",
@@ -1772,7 +1852,7 @@
     },
     {
       "raw_hot": 124931,
-      "num": 142905,
+      "num": 346354,
       "word": "Rita从冒火姐到老八泪",
       "onboard_time": 1765016063,
       "rank": 46,
@@ -1873,14 +1953,6 @@
       "onboard_time": 1764997581,
       "rank": 49,
       "category": "时尚"
-    },
-    {
-      "raw_hot": 115731,
-      "num": 182585,
-      "word": "国乒vs瑞典",
-      "onboard_time": 1765014022,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 115452,
@@ -2091,14 +2163,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 98539,
-      "num": 172122,
-      "word": "福建姑娘的硬核头饰",
-      "onboard_time": 1765016543,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 98266,
       "num": 132673,
       "word": "王楚钦给孙颖莎手动点赞",
@@ -2121,6 +2185,14 @@
       "onboard_time": 1764985701,
       "rank": 33,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 97415,
+      "num": 153523,
+      "word": "顾客支付现金无人值守便利店拒收",
+      "onboard_time": 1765015943,
+      "rank": 38,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 94786,
@@ -2281,6 +2353,14 @@
       "onboard_time": 1764992060,
       "rank": 36,
       "category": "汽车"
+    },
+    {
+      "raw_hot": 83058,
+      "num": 126603,
+      "word": "王艺迪2比1伯格斯特隆",
+      "onboard_time": 1765017023,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 82783,
@@ -2633,14 +2713,6 @@
       "onboard_time": 1764973154,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51028,
-      "num": 153523,
-      "word": "顾客支付现金无人值守便利店拒收",
-      "onboard_time": 1765015943,
-      "rank": 38,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 50780,
@@ -3083,19 +3155,19 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 2962,
+      "num": 3518983,
+      "word": "C909飞机已交付174架",
+      "onboard_time": 1764923901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 2961,
       "num": 403954,
       "word": "加快生产消费者满意的电动车新产品",
       "onboard_time": 1764894201,
       "rank": 8,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 2960,
-      "num": 1092993,
-      "word": "C909飞机已交付174架",
-      "onboard_time": 1764923901,
-      "rank": 2,
       "category": "民生新闻"
     }
   ],

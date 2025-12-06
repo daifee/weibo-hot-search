@@ -1,0 +1,410 @@
+{
+  "runTime": 1765017777716,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 4647608,
+        "num": 4647608,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1765003762,
+        "rank": 0,
+        "category": "民生新闻,综艺"
+      },
+      {
+        "raw_hot": 224955,
+        "num": 4022064,
+        "word": "大湾区大学正式成立",
+        "onboard_time": 1765006221,
+        "rank": 1,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 2962,
+        "num": 3518983,
+        "word": "C909飞机已交付174架",
+        "onboard_time": 1764923901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 704113,
+        "num": 2203234,
+        "word": "警方通报52岁男子持刀伤人致3死",
+        "onboard_time": 1765013482,
+        "rank": 3,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 345609,
+        "num": 1850225,
+        "word": "杭州师范大学通报调查结果",
+        "onboard_time": 1765012283,
+        "rank": 4,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 944633,
+        "num": 944633,
+        "word": "杨幂 祖海女王",
+        "onboard_time": 1765017083,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 810201,
+        "num": 810201,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193544,
+        "num": 678548,
+        "word": "LPL",
+        "onboard_time": 1765016903,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 177242,
+        "num": 571043,
+        "word": "美军承认击落美军战机",
+        "onboard_time": 1765005800,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 81858,
+        "num": 564952,
+        "word": "泰兰尼斯童鞋卖600万双营收30亿",
+        "onboard_time": 1765004421,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 562949,
+        "num": 562949,
+        "word": "魏大勋孙千红毯牵手",
+        "onboard_time": 1765016063,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 430012,
+        "num": 430012,
+        "word": "敖瑞鹏李兰迪沈羽洁 燃冬",
+        "onboard_time": 1765010782,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 114678,
+        "num": 346354,
+        "word": "Rita从冒火姐到老八泪",
+        "onboard_time": 1765016063,
+        "rank": 12,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 470458,
+        "num": 338634,
+        "word": "杨幂 C位",
+        "onboard_time": 1765006341,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 330047,
+        "num": 330047,
+        "word": "大家好我是尹正我演鬼子",
+        "onboard_time": 1765002561,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 406810,
+        "num": 324830,
+        "word": "刘宇宁李一桐 大哥大嫂风味儿",
+        "onboard_time": 1765011682,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 299736,
+        "num": 299736,
+        "word": "吕严发长文",
+        "onboard_time": 1765011563,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 209406,
+        "num": 209406,
+        "word": "库迪咖啡被指禁带其他品牌咖啡入座",
+        "onboard_time": 1765012342,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 164639,
+        "num": 209353,
+        "word": "孙颖莎获体育道德风尚奖",
+        "onboard_time": 1765016962,
+        "rank": 18,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159027,
+        "num": 209312,
+        "word": "陈梦回应是否参加洛杉矶奥运会",
+        "onboard_time": 1765009163,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 362660,
+        "num": 209216,
+        "word": "向涵之美成啥了",
+        "onboard_time": 1765017322,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 240172,
+        "num": 209158,
+        "word": "复旦大学官网变黑白",
+        "onboard_time": 1765016123,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 153467,
+        "num": 209102,
+        "word": "三亚发生一起故意伤害案致3死",
+        "onboard_time": 1765014862,
+        "rank": 22,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 229559,
+        "num": 209008,
+        "word": "田曦薇飞吻",
+        "onboard_time": 1765015404,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228913,
+        "num": 208950,
+        "word": "赵晴瘦成纸片人了",
+        "onboard_time": 1765008502,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224681,
+        "num": 208934,
+        "word": "秦岚盘发",
+        "onboard_time": 1765017502,
+        "rank": 25,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 214461,
+        "num": 208834,
+        "word": "林俊杰获AAA最佳艺人奖",
+        "onboard_time": 1765017201,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 213313,
+        "num": 208767,
+        "word": "张凌赫叫宝贝",
+        "onboard_time": 1765012403,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 210141,
+        "num": 208720,
+        "word": "男子掉入粉碎机身亡妻子发声",
+        "onboard_time": 1765011142,
+        "rank": 28,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 126913,
+        "num": 208629,
+        "word": "福建姑娘的硬核头饰",
+        "onboard_time": 1765016543,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 208604,
+        "num": 208604,
+        "word": "李现李一桐太配了",
+        "onboard_time": 1765017263,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182590,
+        "num": 182590,
+        "word": "王一博发了探索幕后",
+        "onboard_time": 1765012162,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179617,
+        "num": 179617,
+        "word": "杨旭文说唐诡4快来了",
+        "onboard_time": 1765016363,
+        "rank": 32,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 154174,
+        "num": 154174,
+        "word": "出场以为是群演后面没他没得演",
+        "onboard_time": 1765016482,
+        "rank": 33,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 154033,
+        "num": 154033,
+        "word": "国乒vs瑞典",
+        "onboard_time": 1765014022,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 159018,
+        "num": 153766,
+        "word": "蒋敦豪 幼崽版十个勤天合影",
+        "onboard_time": 1765013482,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 152065,
+        "num": 152065,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 36,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148503,
+        "num": 148503,
+        "word": "建议气血不足的人每天拍臀",
+        "onboard_time": 1765005621,
+        "rank": 37,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 147173,
+        "num": 147173,
+        "word": "2025LPL",
+        "onboard_time": 1765016603,
+        "rank": 38,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 135236,
+        "num": 142675,
+        "word": "三星堆一青铜造型雕塑被游客掰断",
+        "onboard_time": 1765011623,
+        "rank": 39,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284477,
+        "num": 142537,
+        "word": "王安宇生图",
+        "onboard_time": 1765012223,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 142330,
+        "num": 142330,
+        "word": "徐若晗签名简笔画看呆周柯宇",
+        "onboard_time": 1765014083,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 138859,
+        "num": 138859,
+        "word": "沈月百花鱼尾裙",
+        "onboard_time": 1765013302,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135371,
+        "num": 135371,
+        "word": "侯明昊 深v蛇骨链",
+        "onboard_time": 1765011502,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 127239,
+        "num": 127239,
+        "word": "140平爆改成7个独卫单间",
+        "onboard_time": 1765016543,
+        "rank": 44,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 127099,
+        "num": 127099,
+        "word": "十个勤天整整齐齐穿西装",
+        "onboard_time": 1765008202,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 97415,
+        "num": 127097,
+        "word": "顾客支付现金无人值守便利店拒收",
+        "onboard_time": 1765015943,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 58701,
+        "num": 126890,
+        "word": "2025LPL全明星红毯",
+        "onboard_time": 1765009822,
+        "rank": 47,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 87332,
+        "num": 126697,
+        "word": "国乒战胜日本",
+        "onboard_time": 1765003281,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 83058,
+        "num": 126603,
+        "word": "王艺迪2比1伯格斯特隆",
+        "onboard_time": 1765017023,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水之道汲取治国理政智慧#"
+    }
+  }
+}
