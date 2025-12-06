@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765035569476,
+  "endTime": 1765038733899,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -16,6 +16,14 @@
       "word": "尖叫之夜红毯",
       "onboard_time": 1765003762,
       "rank": 45,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 4021201,
+      "num": 317018,
+      "word": "杨幂尖叫年度演员",
+      "onboard_time": 1765037902,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -523,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 1101984,
+      "num": 312888,
+      "word": "刘宇宁尖叫男演员",
+      "onboard_time": 1765037004,
+      "rank": 5,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1081304,
       "num": 1081304,
       "word": "BLG官宣Viper加入",
@@ -537,6 +553,14 @@
       "onboard_time": 1764927441,
       "rank": 5,
       "category": "民生新闻,艺人"
+    },
+    {
+      "raw_hot": 1073597,
+      "num": 308582,
+      "word": "白鹿尖叫女演员",
+      "onboard_time": 1765037182,
+      "rank": 9,
+      "category": "综艺"
     },
     {
       "raw_hot": 1073347,
@@ -771,6 +795,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 928867,
+      "num": 306176,
+      "word": "尖叫之夜 无聊",
+      "onboard_time": 1765035983,
+      "rank": 10,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 926633,
       "num": 428916,
       "word": "木薯糖水中毒",
@@ -793,6 +825,14 @@
       "onboard_time": 1765028485,
       "rank": 49,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 912570,
+      "num": 304230,
+      "word": "爱奇艺道歉",
+      "onboard_time": 1765037902,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 909951,
@@ -1081,6 +1121,14 @@
       "onboard_time": 1764670282,
       "rank": 10,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 714566,
+      "num": 301433,
+      "word": "张凌赫晒与刘宇宁周柯宇合照",
+      "onboard_time": 1765036764,
+      "rank": 13,
+      "category": "综艺"
     },
     {
       "raw_hot": 711598,
@@ -3019,6 +3067,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406391,
+      "num": 398068,
+      "word": "红楼梦",
+      "onboard_time": 1765032625,
+      "rank": 19,
+      "category": "读书作家"
+    },
+    {
       "raw_hot": 406205,
       "num": 363766,
       "word": "宋祖儿粉色刺绣长裙",
@@ -3715,6 +3771,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348914,
+      "num": 288073,
+      "word": "枭起青壤大结局",
+      "onboard_time": 1765035742,
+      "rank": 23,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 348644,
       "num": 198544,
       "word": "得闲谨制票房倒挂",
@@ -4107,6 +4171,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 321108,
+      "num": 522355,
+      "word": "公考枪手替考89次敛财千万",
+      "onboard_time": 1765031004,
+      "rank": 37,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 321055,
       "num": 693456,
       "word": "王楚钦vs安宰贤",
@@ -4273,14 +4345,6 @@
       "onboard_time": 1764635301,
       "rank": 36,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 309405,
-      "num": 398068,
-      "word": "红楼梦",
-      "onboard_time": 1765032625,
-      "rank": 19,
-      "category": "读书作家"
     },
     {
       "raw_hot": 309309,
@@ -4659,20 +4723,20 @@
       "category": "电竞"
     },
     {
-      "raw_hot": 280378,
-      "num": 522355,
-      "word": "公考枪手替考89次敛财千万",
-      "onboard_time": 1765031004,
-      "rank": 37,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 280066,
       "num": 280066,
       "word": "中公教育以物抵债退落榜考生学费",
       "onboard_time": 1764900739,
       "rank": 19,
       "category": "舆论监督"
+    },
+    {
+      "raw_hot": 279451,
+      "num": 279451,
+      "word": "李逗逗 一切在我这里已经结束了",
+      "onboard_time": 1765034721,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 279429,
@@ -5979,14 +6043,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 217202,
-      "num": 217202,
-      "word": "李逗逗 一切在我这里已经结束了",
-      "onboard_time": 1765034721,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 216927,
       "num": 196312,
       "word": "埃奇库姆补篮绝杀勇士",
@@ -6161,6 +6217,14 @@
       "onboard_time": 1764824962,
       "rank": 16,
       "category": "音乐"
+    },
+    {
+      "raw_hot": 210796,
+      "num": 210796,
+      "word": "李兰迪替敖瑞鹏剧宣",
+      "onboard_time": 1765037482,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 210502,
@@ -6923,6 +6987,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 195781,
+      "num": 209129,
+      "word": "生万物年度剧王",
+      "onboard_time": 1765038021,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 195403,
       "num": 195403,
       "word": "朱亚文 反清赛道",
@@ -7585,6 +7657,14 @@
       "onboard_time": 1764561742,
       "rank": 7,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 183931,
+      "num": 208829,
+      "word": "李现年度演员",
+      "onboard_time": 1765035863,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 183696,
@@ -10755,6 +10835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 136302,
+      "num": 217670,
+      "word": "泰国弃婴遭巨蜥啃食",
+      "onboard_time": 1765037062,
+      "rank": 33,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 136279,
       "num": 122349,
       "word": "中俄达成新的共识",
@@ -13155,6 +13243,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 113241,
+      "num": 215604,
+      "word": "爱你老己是什么梗",
+      "onboard_time": 1765035805,
+      "rank": 34,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 113161,
       "num": 113161,
       "word": "大额存单转让火爆",
@@ -14105,6 +14201,14 @@
       "onboard_time": 1764847401,
       "rank": 49,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 104070,
+      "num": 207281,
+      "word": "关晓彤说一定会二刷得闲谨制",
+      "onboard_time": 1765037062,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 104004,
@@ -16321,6 +16425,14 @@
       "onboard_time": 1765013122,
       "rank": 48,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 83967,
+      "num": 314972,
+      "word": "法国8比7日本",
+      "onboard_time": 1765037603,
+      "rank": 4,
+      "category": "体育"
     },
     {
       "raw_hot": 83830,
