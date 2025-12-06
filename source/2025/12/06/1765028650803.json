@@ -1,0 +1,410 @@
+{
+  "runTime": 1765028650803,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 1280823,
+        "num": 1280823,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1765019601,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315730,
+        "num": 561414,
+        "word": "驻日美军猥亵少女日本也是帮凶",
+        "onboard_time": 1765019422,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 679,
+        "num": 458476,
+        "word": "盘点2025大国重器新突破",
+        "onboard_time": 1764982700,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 445069,
+        "num": 445069,
+        "word": "尖叫之夜 嗑CP",
+        "onboard_time": 1765025003,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 104022,
+        "num": 443746,
+        "word": "F1",
+        "onboard_time": 1765018703,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 468653,
+        "num": 439603,
+        "word": "水库冰面下发现13匹冰冻马",
+        "onboard_time": 1765020562,
+        "rank": 5,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 234141,
+        "num": 438289,
+        "word": "尖叫之夜座位",
+        "onboard_time": 1765019601,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 159609,
+        "num": 432119,
+        "word": "足协杯",
+        "onboard_time": 1765017801,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 7840,
+        "num": 429321,
+        "word": "中国航天又一次成功发射",
+        "onboard_time": 1765028425,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 86851,
+        "num": 427746,
+        "word": "徐瑛彬0比3卡尔伯格",
+        "onboard_time": 1765017861,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 1431048,
+        "num": 424430,
+        "word": "杨幂白鹿 内场双C",
+        "onboard_time": 1765021521,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 926633,
+        "num": 422072,
+        "word": "木薯糖水中毒",
+        "onboard_time": 1765024041,
+        "rank": 11,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 419095,
+        "num": 419095,
+        "word": "孟子义懵懵的好漂亮",
+        "onboard_time": 1765026084,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 379255,
+        "num": 379255,
+        "word": "木薯糖水",
+        "onboard_time": 1765023683,
+        "rank": 13,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 323578,
+        "num": 323578,
+        "word": "张凌赫刘宇宁 两个大长腿",
+        "onboard_time": 1765024464,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 417024,
+        "num": 309567,
+        "word": "白鹿尖叫之夜内场镜头",
+        "onboard_time": 1765027466,
+        "rank": 15,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230846,
+        "num": 292624,
+        "word": "镇政府让企业捐200万换正常经营",
+        "onboard_time": 1765024223,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 283773,
+        "num": 283773,
+        "word": "王楚然丞磊 没有不嗑的义务",
+        "onboard_time": 1765011803,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 272958,
+        "num": 272958,
+        "word": "香港初步确定起火点大致位置",
+        "onboard_time": 1765026024,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 24803,
+        "num": 270869,
+        "word": "白宫发布新版国家安全战略",
+        "onboard_time": 1765027402,
+        "rank": 19,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 14883,
+        "num": 267816,
+        "word": "光伏板一边发电一边治沙",
+        "onboard_time": 1765011861,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1537,
+        "num": 262424,
+        "word": "哈尔滨超大雪人居然不是堆的",
+        "onboard_time": 1764922042,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 1598746,
+        "num": 258345,
+        "word": "辣妹虞书欣我笑纳了",
+        "onboard_time": 1765026084,
+        "rank": 22,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 1546812,
+        "num": 251685,
+        "word": "尖叫之夜",
+        "onboard_time": 1765018101,
+        "rank": 23,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 459861,
+        "num": 249266,
+        "word": "檀健次尖叫之夜压轴",
+        "onboard_time": 1765018222,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375662,
+        "num": 243083,
+        "word": "赵今麦 好大气的五官",
+        "onboard_time": 1765018402,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 242435,
+        "num": 242435,
+        "word": "女版张凌赫",
+        "onboard_time": 1765021102,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 876856,
+        "num": 240426,
+        "word": "虞书欣雨爱",
+        "onboard_time": 1765028184,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 228880,
+        "num": 228880,
+        "word": "孟子义李昀锐未公开合照",
+        "onboard_time": 1765027705,
+        "rank": 28,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 198808,
+        "num": 212874,
+        "word": "北京国安3比0河南队",
+        "onboard_time": 1765028244,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 34179,
+        "num": 209555,
+        "word": "没人比杨幂更懂眸略",
+        "onboard_time": 1765024405,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 207597,
+        "num": 207597,
+        "word": "男子失踪240多天最后通话称没路了",
+        "onboard_time": 1765023022,
+        "rank": 31,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 205506,
+        "num": 205506,
+        "word": "侯明昊 好听",
+        "onboard_time": 1765028063,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 194071,
+        "num": 194071,
+        "word": "内场的宋祖儿",
+        "onboard_time": 1765027885,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 192768,
+        "num": 192768,
+        "word": "张本智和0比3F勒布伦",
+        "onboard_time": 1765027764,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 190262,
+        "num": 190262,
+        "word": "小时候以为很贵却很便宜的东西",
+        "onboard_time": 1765024164,
+        "rank": 35,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 12931,
+        "num": 190261,
+        "word": "高市早苗被曝自身难保",
+        "onboard_time": 1765028605,
+        "rank": 36,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 180739,
+        "num": 190234,
+        "word": "大家好我是尹正我演鬼子",
+        "onboard_time": 1765002561,
+        "rank": 37,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 90109,
+        "num": 190221,
+        "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
+        "onboard_time": 1765027466,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 111834,
+        "num": 190211,
+        "word": "周深举这牌班味一下就上来了",
+        "onboard_time": 1765028485,
+        "rank": 39,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 180320,
+        "num": 190197,
+        "word": "刘敏涛说肖战给你点个赞",
+        "onboard_time": 1765021521,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 159041,
+        "num": 190185,
+        "word": "杭州野生动物园黑熊突然袭击饲养员",
+        "onboard_time": 1765026204,
+        "rank": 41,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 170982,
+        "num": 190162,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117254,
+        "num": 190148,
+        "word": "杭州师范大学通报调查结果",
+        "onboard_time": 1765012283,
+        "rank": 43,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 158602,
+        "num": 190134,
+        "word": "吕严发长文",
+        "onboard_time": 1765011563,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 4888,
+        "num": 190113,
+        "word": "C909飞机已交付174架",
+        "onboard_time": 1764923901,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 157176,
+        "num": 190102,
+        "word": "影后春夏变化好大",
+        "onboard_time": 1765023564,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 153231,
+        "num": 190094,
+        "word": "这不是纸是薄到透光的肉片",
+        "onboard_time": 1765028184,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 191945,
+        "num": 190071,
+        "word": "刘宇宁像是要去收购爱奇艺的",
+        "onboard_time": 1765027643,
+        "rank": 48,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 151501,
+        "num": 190052,
+        "word": "女子裤子内藏2斤多活虫入境",
+        "onboard_time": 1765028485,
+        "rank": 49,
+        "category": "民生新闻"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水之道汲取治国理政智慧#"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765027990514,
+  "endTime": 1765028650803,
   "band_list": [
     {
       "raw_hot": 4647608,
@@ -20,7 +20,7 @@
     },
     {
       "raw_hot": 1893108,
-      "num": 347636,
+      "num": 424430,
       "word": "杨幂白鹿 内场双C",
       "onboard_time": 1765021521,
       "rank": 10,
@@ -139,6 +139,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 926633,
+      "num": 422072,
+      "word": "木薯糖水中毒",
+      "onboard_time": 1765024041,
+      "rank": 14,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 907156,
       "num": 1145145,
       "word": "九重紫",
@@ -153,6 +161,14 @@
       "onboard_time": 1765006341,
       "rank": 16,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 876856,
+      "num": 240426,
+      "word": "虞书欣雨爱",
+      "onboard_time": 1765028184,
+      "rank": 27,
+      "category": "艺人"
     },
     {
       "raw_hot": 855019,
@@ -177,14 +193,6 @@
       "onboard_time": 1764993442,
       "rank": 3,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 828951,
-      "num": 342068,
-      "word": "木薯糖水中毒",
-      "onboard_time": 1765024041,
-      "rank": 14,
-      "category": "健康医疗"
     },
     {
       "raw_hot": 758808,
@@ -212,7 +220,7 @@
     },
     {
       "raw_hot": 643839,
-      "num": 400643,
+      "num": 438289,
       "word": "尖叫之夜座位",
       "onboard_time": 1765019601,
       "rank": 13,
@@ -276,7 +284,7 @@
     },
     {
       "raw_hot": 570034,
-      "num": 415522,
+      "num": 439603,
       "word": "水库冰面下发现13匹冰冻马",
       "onboard_time": 1765020562,
       "rank": 39,
@@ -427,12 +435,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 459861,
+      "num": 360293,
+      "word": "檀健次尖叫之夜压轴",
+      "onboard_time": 1765018222,
+      "rank": 21,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 457629,
       "num": 356385,
       "word": "得闲谨制票房",
       "onboard_time": 1765001300,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 445069,
+      "num": 445069,
+      "word": "尖叫之夜 嗑CP",
+      "onboard_time": 1765025003,
+      "rank": 37,
+      "category": "综艺"
     },
     {
       "raw_hot": 437648,
@@ -443,20 +467,28 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 436015,
-      "num": 436015,
-      "word": "尖叫之夜 嗑CP",
-      "onboard_time": 1765025003,
-      "rank": 37,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 423077,
       "num": 351873,
       "word": "微信上的这个人戒烟了",
       "onboard_time": 1764999441,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 419095,
+      "num": 419095,
+      "word": "孟子义懵懵的好漂亮",
+      "onboard_time": 1765026084,
+      "rank": 46,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 417024,
+      "num": 320602,
+      "word": "白鹿尖叫之夜内场镜头",
+      "onboard_time": 1765027466,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 414967,
@@ -571,6 +603,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 379255,
+      "num": 379255,
+      "word": "木薯糖水",
+      "onboard_time": 1765023683,
+      "rank": 12,
+      "category": "美食"
+    },
+    {
       "raw_hot": 376043,
       "num": 376043,
       "word": "单身中女能有多爽",
@@ -608,22 +648,6 @@
       "word": "向涵之美成啥了",
       "onboard_time": 1765017322,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 360789,
-      "num": 360293,
-      "word": "檀健次尖叫之夜压轴",
-      "onboard_time": 1765018222,
-      "rank": 21,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 358066,
-      "num": 320602,
-      "word": "白鹿尖叫之夜内场镜头",
-      "onboard_time": 1765027466,
-      "rank": 15,
       "category": "综艺"
     },
     {
@@ -675,14 +699,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 340797,
-      "num": 322307,
-      "word": "木薯糖水",
-      "onboard_time": 1765023683,
-      "rank": 12,
-      "category": "美食"
-    },
-    {
       "raw_hot": 338420,
       "num": 452721,
       "word": "应届生公考前得知被误录社保",
@@ -696,14 +712,6 @@
       "word": "杨幂爱奇艺尖叫之夜海报C位",
       "onboard_time": 1764989481,
       "rank": 20,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 330029,
-      "num": 330029,
-      "word": "孟子义懵懵的好漂亮",
-      "onboard_time": 1765026084,
-      "rank": 46,
       "category": "综艺"
     },
     {
@@ -811,8 +819,16 @@
       "category": "教育"
     },
     {
+      "raw_hot": 272958,
+      "num": 315221,
+      "word": "香港初步确定起火点大致位置",
+      "onboard_time": 1765026024,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 272169,
-      "num": 272169,
+      "num": 292624,
       "word": "镇政府让企业捐200万换正常经营",
       "onboard_time": 1765024223,
       "rank": 17,
@@ -905,14 +921,6 @@
       "onboard_time": 1765012162,
       "rank": 35,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 250052,
-      "num": 315221,
-      "word": "香港初步确定起火点大致位置",
-      "onboard_time": 1765026024,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 249140,
@@ -1027,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 228880,
+      "num": 272096,
+      "word": "孟子义李昀锐未公开合照",
+      "onboard_time": 1765027705,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 227247,
       "num": 763501,
       "word": "世界杯抽签",
@@ -1091,20 +1107,20 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 213517,
-      "num": 272096,
-      "word": "孟子义李昀锐未公开合照",
-      "onboard_time": 1765027705,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 210091,
       "num": 210091,
       "word": "第一次见编商这么高的人",
       "onboard_time": 1765005981,
       "rank": 18,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207597,
+      "num": 309197,
+      "word": "男子失踪240多天最后通话称没路了",
+      "onboard_time": 1765023022,
+      "rank": 18,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 207241,
@@ -1145,6 +1161,14 @@
       "onboard_time": 1764941060,
       "rank": 12,
       "category": "体育"
+    },
+    {
+      "raw_hot": 205506,
+      "num": 205506,
+      "word": "侯明昊 好听",
+      "onboard_time": 1765028063,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 204723,
@@ -1225,6 +1249,14 @@
       "onboard_time": 1765002500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 198808,
+      "num": 212874,
+      "word": "北京国安3比0河南队",
+      "onboard_time": 1765028244,
+      "rank": 29,
+      "category": "体育"
     },
     {
       "raw_hot": 197191,
@@ -1315,6 +1347,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191945,
+      "num": 271975,
+      "word": "刘宇宁像是要去收购爱奇艺的",
+      "onboard_time": 1765027643,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 191852,
       "num": 191852,
       "word": "肖战凡尔赛了一下",
@@ -1329,6 +1369,14 @@
       "onboard_time": 1765000461,
       "rank": 18,
       "category": "体育"
+    },
+    {
+      "raw_hot": 190262,
+      "num": 272129,
+      "word": "小时候以为很贵却很便宜的东西",
+      "onboard_time": 1765024164,
+      "rank": 47,
+      "category": "情感,幽默"
     },
     {
       "raw_hot": 189354,
@@ -1539,14 +1587,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 173195,
-      "num": 309197,
-      "word": "男子失踪240多天最后通话称没路了",
-      "onboard_time": 1765023022,
-      "rank": 18,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 173133,
       "num": 269875,
       "word": "日本友人捐侵华日军家信内容残忍",
@@ -1588,7 +1628,7 @@
     },
     {
       "raw_hot": 166178,
-      "num": 384252,
+      "num": 432119,
       "word": "足协杯",
       "onboard_time": 1765017801,
       "rank": 49,
@@ -1691,6 +1731,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 159041,
+      "num": 272118,
+      "word": "杭州野生动物园黑熊突然袭击饲养员",
+      "onboard_time": 1765026204,
+      "rank": 39,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 158449,
       "num": 158449,
       "word": "丁禹兮艾米 沧海花开",
@@ -1771,28 +1819,12 @@
       "category": "海外新闻"
     },
     {
-      "raw_hot": 154251,
-      "num": 272129,
-      "word": "小时候以为很贵却很便宜的东西",
-      "onboard_time": 1765024164,
-      "rank": 47,
-      "category": "情感,幽默"
-    },
-    {
       "raw_hot": 154033,
       "num": 182585,
       "word": "国乒vs瑞典",
       "onboard_time": 1765014022,
       "rank": 19,
       "category": "体育"
-    },
-    {
-      "raw_hot": 153807,
-      "num": 271975,
-      "word": "刘宇宁像是要去收购爱奇艺的",
-      "onboard_time": 1765027643,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 153467,
@@ -1811,6 +1843,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 153231,
+      "num": 190094,
+      "word": "这不是纸是薄到透光的肉片",
+      "onboard_time": 1765028184,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 151795,
       "num": 151795,
       "word": "彭昱畅被肖战一把拽回来了",
@@ -1825,6 +1865,14 @@
       "onboard_time": 1765009822,
       "rank": 9,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 151501,
+      "num": 190052,
+      "word": "女子裤子内藏2斤多活虫入境",
+      "onboard_time": 1765028485,
+      "rank": 49,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 151322,
@@ -1948,7 +1996,7 @@
     },
     {
       "raw_hot": 143893,
-      "num": 433901,
+      "num": 443746,
       "word": "F1",
       "onboard_time": 1765018703,
       "rank": 20,
@@ -2057,14 +2105,6 @@
       "onboard_time": 1765025904,
       "rank": 17,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 137924,
-      "num": 272118,
-      "word": "杭州野生动物园黑熊突然袭击饲养员",
-      "onboard_time": 1765026204,
-      "rank": 39,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 137836,
@@ -2427,6 +2467,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 111834,
+      "num": 190211,
+      "word": "周深举这牌班味一下就上来了",
+      "onboard_time": 1765028485,
+      "rank": 39,
+      "category": "演出"
+    },
+    {
       "raw_hot": 111508,
       "num": 111508,
       "word": "王迅院士弟弟是两院院士王选",
@@ -2729,6 +2777,14 @@
       "onboard_time": 1764943583,
       "rank": 46,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 90109,
+      "num": 272011,
+      "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
+      "onboard_time": 1765027466,
+      "rank": 39,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 89549,
@@ -3579,6 +3635,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 24803,
+      "num": 306288,
+      "word": "白宫发布新版国家安全战略",
+      "onboard_time": 1765027402,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 24307,
       "num": 25334,
       "word": "研究称宇宙大爆炸之前就有意识",
@@ -3593,22 +3657,6 @@
       "onboard_time": 1764958935,
       "rank": 44,
       "category": "民生新闻,汽车"
-    },
-    {
-      "raw_hot": 21502,
-      "num": 272011,
-      "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
-      "onboard_time": 1765027466,
-      "rank": 39,
-      "category": "海外新闻"
-    },
-    {
-      "raw_hot": 17927,
-      "num": 306288,
-      "word": "白宫发布新版国家安全战略",
-      "onboard_time": 1765027402,
-      "rank": 18,
-      "category": "国际时政"
     },
     {
       "raw_hot": 17178,
@@ -3643,6 +3691,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 14883,
+      "num": 267816,
+      "word": "光伏板一边发电一边治沙",
+      "onboard_time": 1765011861,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14871,
       "num": 20128,
       "word": "张小斐团队里有梦女",
@@ -3665,6 +3721,14 @@
       "onboard_time": 1765006522,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 12931,
+      "num": 190261,
+      "word": "高市早苗被曝自身难保",
+      "onboard_time": 1765028605,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 12432,
@@ -3699,6 +3763,14 @@
       "category": "汽车"
     },
     {
+      "raw_hot": 7840,
+      "num": 429321,
+      "word": "中国航天又一次成功发射",
+      "onboard_time": 1765028425,
+      "rank": 8,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 7660,
       "num": 818780,
       "word": "做好6件事保护呼吸道",
@@ -3720,6 +3792,22 @@
       "word": "加快生产消费者满意的电动车新产品",
       "onboard_time": 1764894201,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1537,
+      "num": 262424,
+      "word": "哈尔滨超大雪人居然不是堆的",
+      "onboard_time": 1764922042,
+      "rank": 21,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 679,
+      "num": 458476,
+      "word": "盘点2025大国重器新突破",
+      "onboard_time": 1764982700,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],
