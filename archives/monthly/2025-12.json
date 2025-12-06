@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764996267809,
+  "endTime": 1764998815993,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -649,6 +649,14 @@
       "onboard_time": 1764565164,
       "rank": 21,
       "category": "体育"
+    },
+    {
+      "raw_hot": 949264,
+      "num": 1151882,
+      "word": "特朗普警告高市早苗别插手台海",
+      "onboard_time": 1764994939,
+      "rank": 9,
+      "category": "国际时政"
     },
     {
       "raw_hot": 942206,
@@ -1596,7 +1604,7 @@
     },
     {
       "raw_hot": 546584,
-      "num": 359931,
+      "num": 407358,
       "word": "尖叫之夜节目单",
       "onboard_time": 1764994579,
       "rank": 21,
@@ -1881,6 +1889,14 @@
       "onboard_time": 1764855681,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 495671,
+      "num": 185349,
+      "word": "肖战演技",
+      "onboard_time": 1764996799,
+      "rank": 13,
+      "category": "电影"
     },
     {
       "raw_hot": 491336,
@@ -2347,6 +2363,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 430028,
+      "num": 330550,
+      "word": "王一博徒手攀手滑掉海里了",
+      "onboard_time": 1764995901,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 429267,
       "num": 210133,
       "word": "司机鸣笛无效轧到睡狗",
@@ -2633,6 +2657,14 @@
       "onboard_time": 1764825500,
       "rank": 34,
       "category": "情感"
+    },
+    {
+      "raw_hot": 396158,
+      "num": 250515,
+      "word": "白鹿尖叫之夜最早出图",
+      "onboard_time": 1764995241,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 393267,
@@ -3329,6 +3361,14 @@
       "onboard_time": 1764991820,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 329369,
+      "num": 154535,
+      "word": "田曦薇 豹纹小猫",
+      "onboard_time": 1764996680,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 329245,
@@ -4411,14 +4451,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 250515,
-      "num": 250515,
-      "word": "白鹿尖叫之夜最早出图",
-      "onboard_time": 1764995241,
-      "rank": 35,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 250387,
       "num": 250387,
       "word": "国乒8比2法国",
@@ -4803,6 +4835,14 @@
       "category": "财经,数码"
     },
     {
+      "raw_hot": 230035,
+      "num": 153488,
+      "word": "孟子义尖叫之夜造型",
+      "onboard_time": 1764995121,
+      "rank": 28,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 229984,
       "num": 229984,
       "word": "再熬八周",
@@ -4915,6 +4955,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 224690,
+      "num": 153195,
+      "word": "艾米首穿高定",
+      "onboard_time": 1764998541,
+      "rank": 29,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 224651,
       "num": 224651,
       "word": "枭起青壤热度为什么上不去",
@@ -4945,6 +4993,14 @@
       "onboard_time": 1764599124,
       "rank": 48,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 222144,
+      "num": 222144,
+      "word": "国乒vs日本",
+      "onboard_time": 1764995362,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 222071,
@@ -5353,6 +5409,14 @@
       "onboard_time": 1764979100,
       "rank": 14,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 207072,
+      "num": 152679,
+      "word": "李兰迪敖瑞鹏合唱了此爱",
+      "onboard_time": 1764998181,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 206888,
@@ -5793,14 +5857,6 @@
       "onboard_time": 1764853341,
       "rank": 15,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 196275,
-      "num": 641703,
-      "word": "特朗普警告高市早苗别插手台海",
-      "onboard_time": 1764994939,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 196240,
@@ -6641,6 +6697,14 @@
       "onboard_time": 1764649907,
       "rank": 36,
       "category": "电影"
+    },
+    {
+      "raw_hot": 178205,
+      "num": 151161,
+      "word": "喜人奇妙夜2",
+      "onboard_time": 1764524115,
+      "rank": 43,
+      "category": "综艺"
     },
     {
       "raw_hot": 177602,
@@ -7795,6 +7859,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 155676,
+      "num": 155676,
+      "word": "二战战犯孙子正重掌日本兵权",
+      "onboard_time": 1764998241,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 155657,
+      "num": 155657,
+      "word": "多地通报疑似虚假人名凑数质疑",
+      "onboard_time": 1764997221,
+      "rank": 20,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 155533,
       "num": 155533,
       "word": "孩子考试不及格培训机构说尽力了",
@@ -7969,14 +8049,6 @@
       "onboard_time": 1764472221,
       "rank": 1,
       "category": "教育"
-    },
-    {
-      "raw_hot": 152537,
-      "num": 158679,
-      "word": "国乒vs日本",
-      "onboard_time": 1764995362,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 152507,
@@ -8169,6 +8241,14 @@
       "onboard_time": 1764671722,
       "rank": 4,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 149885,
+      "num": 149885,
+      "word": "得闲谨制 兰晓龙台词",
+      "onboard_time": 1764997402,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 149513,
@@ -8409,6 +8489,14 @@
       "onboard_time": 1764566002,
       "rank": 43,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 145053,
+      "num": 145053,
+      "word": "白鹿在逃黑天鹅",
+      "onboard_time": 1764998662,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 144954,
@@ -9179,6 +9267,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 134431,
+      "num": 154420,
+      "word": "杭师大通报福彩公益金名单事件",
+      "onboard_time": 1764997281,
+      "rank": 25,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 134350,
       "num": 829990,
       "word": "治沙人种下的10万株玫瑰长大了",
@@ -9793,6 +9889,14 @@
       "onboard_time": 1764643160,
       "rank": 26,
       "category": "教育"
+    },
+    {
+      "raw_hot": 127668,
+      "num": 151540,
+      "word": "八国外长发表联合声明",
+      "onboard_time": 1764997880,
+      "rank": 34,
+      "category": "国际时政"
     },
     {
       "raw_hot": 127456,
@@ -10755,6 +10859,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 118439,
+      "num": 118439,
+      "word": "得闲谨制 黑色幽默",
+      "onboard_time": 1764998782,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 118413,
       "num": 118413,
       "word": "法国总统马克龙与孙颖莎等互动",
@@ -10931,6 +11043,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 116868,
+      "num": 116868,
+      "word": "雅迪新车上市有前后座有车筐",
+      "onboard_time": 1764998662,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 116761,
       "num": 116761,
       "word": "国乒3连胜小组第一晋级",
@@ -11019,6 +11139,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 116091,
+      "num": 116091,
+      "word": "LV兵乓球拍挂饰",
+      "onboard_time": 1764997581,
+      "rank": 49,
+      "category": "时尚"
+    },
+    {
       "raw_hot": 116072,
       "num": 116072,
       "word": "中超国内球员年薪封顶500万",
@@ -11041,14 +11169,6 @@
       "onboard_time": 1764746902,
       "rank": 45,
       "category": "情感"
-    },
-    {
-      "raw_hot": 115783,
-      "num": 330550,
-      "word": "王一博徒手攀手滑掉海里了",
-      "onboard_time": 1764995901,
-      "rank": 19,
-      "category": "综艺"
     },
     {
       "raw_hot": 115497,
@@ -11801,6 +11921,14 @@
       "onboard_time": 1764815479,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 107130,
+      "num": 155661,
+      "word": "厂二代父亲无差别攻击老婆女儿",
+      "onboard_time": 1764998061,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 106947,
@@ -16947,6 +17075,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 41467,
+      "num": 165666,
+      "word": "9岁男孩校服被写2B班会勇敢反击",
+      "onboard_time": 1764998481,
+      "rank": 17,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 41397,
       "num": 114184,
       "word": "女子乳腺癌晚期被骗85万救命钱",
@@ -17137,14 +17273,6 @@
       "onboard_time": 1764840682,
       "rank": 45,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 39614,
-      "num": 55015,
-      "word": "喜人奇妙夜2",
-      "onboard_time": 1764524115,
-      "rank": 43,
-      "category": "综艺"
     },
     {
       "raw_hot": 39463,
@@ -17347,6 +17475,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 36457,
+      "num": 150393,
+      "word": "保罗训练不停歇",
+      "onboard_time": 1764998420,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 36380,
       "num": 178539,
       "word": "孙正义称哭着卖出英伟达",
@@ -17372,7 +17508,7 @@
     },
     {
       "raw_hot": 35275,
-      "num": 138744,
+      "num": 151001,
       "word": "67岁麦当娜街拍状态",
       "onboard_time": 1764996023,
       "rank": 37,
@@ -17651,6 +17787,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 30890,
+      "num": 188625,
+      "word": "鞠婧祎开箱过冬套装",
+      "onboard_time": 1764997521,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 30843,
       "num": 68218,
       "word": "丁俊晖vs唐纳森",
@@ -17689,6 +17833,14 @@
       "onboard_time": 1764925821,
       "rank": 14,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 30632,
+      "num": 191512,
+      "word": "治沙界又添一员猛将",
+      "onboard_time": 1764997041,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 30489,
@@ -17952,6 +18104,14 @@
       "word": "新国标实施有电动车门店3天没开单",
       "onboard_time": 1764843382,
       "rank": 38,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 26116,
+      "num": 150655,
+      "word": "中国航海家翟墨南极行途中遭洗劫",
+      "onboard_time": 1764997880,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
@@ -18579,6 +18739,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 16133,
+      "num": 150118,
+      "word": "美国打击所谓运毒船视频引哗然",
+      "onboard_time": 1764998061,
+      "rank": 39,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 15909,
       "num": 222681,
       "word": "去世女硕士驻村干部好友发声",
@@ -18905,6 +19073,14 @@
       "onboard_time": 1764820160,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1865,
+      "num": 490322,
+      "word": "做好6件事保护呼吸道",
+      "onboard_time": 1764924321,
+      "rank": 2,
+      "category": "国内时政"
     }
   ],
   "hotgov_list": [
@@ -18961,6 +19137,9 @@
     },
     {
       "word": "#习近平介绍都江堰历史和意义#"
+    },
+    {
+      "word": "#中法元首交流互动的经典瞬间#"
     }
   ]
 }

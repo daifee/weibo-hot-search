@@ -1,0 +1,410 @@
+{
+  "runTime": 1764998815993,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 949264,
+        "num": 1151882,
+        "word": "特朗普警告高市早苗别插手台海",
+        "onboard_time": 1764994939,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 794825,
+        "num": 794825,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 1865,
+        "num": 490322,
+        "word": "做好6件事保护呼吸道",
+        "onboard_time": 1764924321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 407358,
+        "num": 407358,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1764994579,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 222144,
+        "num": 222144,
+        "word": "国乒vs日本",
+        "onboard_time": 1764995362,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 673666,
+        "num": 212752,
+        "word": "尖叫之夜出图",
+        "onboard_time": 1764988460,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 352381,
+        "num": 204853,
+        "word": "南京大屠杀日军信中称真痛快",
+        "onboard_time": 1764992600,
+        "rank": 6,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192224,
+        "num": 192224,
+        "word": "豆包手机 溢价",
+        "onboard_time": 1764988999,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 30632,
+        "num": 191512,
+        "word": "治沙界又添一员猛将",
+        "onboard_time": 1764997041,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 134076,
+        "num": 190574,
+        "word": "王楚钦孙颖莎vs户上隼辅张本美和",
+        "onboard_time": 1764993442,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 30890,
+        "num": 188625,
+        "word": "鞠婧祎开箱过冬套装",
+        "onboard_time": 1764997521,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 618018,
+        "num": 187889,
+        "word": "徐若晗撞衫田曦薇",
+        "onboard_time": 1764993442,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 570919,
+        "num": 186831,
+        "word": "九重紫",
+        "onboard_time": 1764983660,
+        "rank": 12,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 495671,
+        "num": 185349,
+        "word": "肖战演技",
+        "onboard_time": 1764996799,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 349713,
+        "num": 184979,
+        "word": "少拿500可休10天员工称很开心",
+        "onboard_time": 1764991220,
+        "rank": 14,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 245024,
+        "num": 183320,
+        "word": "王楚钦回球不小心击中孙颖莎",
+        "onboard_time": 1764991820,
+        "rank": 15,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 182612,
+        "num": 182612,
+        "word": "美国女子被生母继父剖腹取婴致死",
+        "onboard_time": 1764992841,
+        "rank": 16,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 41467,
+        "num": 165666,
+        "word": "9岁男孩校服被写2B班会勇敢反击",
+        "onboard_time": 1764998481,
+        "rank": 17,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 155676,
+        "num": 155676,
+        "word": "二战战犯孙子正重掌日本兵权",
+        "onboard_time": 1764998241,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 107130,
+        "num": 155661,
+        "word": "厂二代父亲无差别攻击老婆女儿",
+        "onboard_time": 1764998061,
+        "rank": 19,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155657,
+        "num": 155657,
+        "word": "多地通报疑似虚假人名凑数质疑",
+        "onboard_time": 1764997221,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 475598,
+        "num": 155428,
+        "word": "妻子回应朱孝天被退出F4",
+        "onboard_time": 1764992000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 430028,
+        "num": 155094,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 396158,
+        "num": 154896,
+        "word": "白鹿尖叫之夜最早出图",
+        "onboard_time": 1764995241,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 329369,
+        "num": 154535,
+        "word": "田曦薇 豹纹小猫",
+        "onboard_time": 1764996680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 134431,
+        "num": 154420,
+        "word": "杭师大通报福彩公益金名单事件",
+        "onboard_time": 1764997281,
+        "rank": 25,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 286422,
+        "num": 153905,
+        "word": "男子掉入粉碎机身亡",
+        "onboard_time": 1764948381,
+        "rank": 26,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284388,
+        "num": 153698,
+        "word": "杨超越锁骨发",
+        "onboard_time": 1764994579,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 230035,
+        "num": 153488,
+        "word": "孟子义尖叫之夜造型",
+        "onboard_time": 1764995121,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 224690,
+        "num": 153195,
+        "word": "艾米首穿高定",
+        "onboard_time": 1764998541,
+        "rank": 29,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 207072,
+        "num": 152679,
+        "word": "李兰迪敖瑞鹏合唱了此爱",
+        "onboard_time": 1764998181,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177038,
+        "num": 152467,
+        "word": "美国博主在中国看病被检测费震惊",
+        "onboard_time": 1764991160,
+        "rank": 31,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 198781,
+        "num": 152170,
+        "word": "秦昊田嘉瑞的征信都坐不了高铁",
+        "onboard_time": 1764989300,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189078,
+        "num": 151808,
+        "word": "黄日华退出娱乐圈",
+        "onboard_time": 1764985280,
+        "rank": 33,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 127668,
+        "num": 151540,
+        "word": "八国外长发表联合声明",
+        "onboard_time": 1764997880,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 178205,
+        "num": 151161,
+        "word": "喜人奇妙夜2",
+        "onboard_time": 1764998360,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 32115,
+        "num": 151001,
+        "word": "67岁麦当娜街拍状态",
+        "onboard_time": 1764996023,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 26116,
+        "num": 150655,
+        "word": "中国航海家翟墨南极行途中遭洗劫",
+        "onboard_time": 1764997880,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 36457,
+        "num": 150393,
+        "word": "保罗训练不停歇",
+        "onboard_time": 1764998420,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 16133,
+        "num": 150118,
+        "word": "美国打击所谓运毒船视频引哗然",
+        "onboard_time": 1764998061,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 149885,
+        "num": 149885,
+        "word": "得闲谨制 兰晓龙台词",
+        "onboard_time": 1764997402,
+        "rank": 40,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 145053,
+        "num": 145053,
+        "word": "白鹿在逃黑天鹅",
+        "onboard_time": 1764998662,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 137852,
+        "num": 137852,
+        "word": "喜人奇妙夜2颁奖典礼",
+        "onboard_time": 1764996023,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133162,
+        "num": 133162,
+        "word": "沈梦辰说婚姻不能将就",
+        "onboard_time": 1764994761,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 126731,
+        "num": 126731,
+        "word": "仙剑奇侠传三动画定档",
+        "onboard_time": 1764992300,
+        "rank": 44,
+        "category": "动漫"
+      },
+      {
+        "raw_hot": 122045,
+        "num": 122045,
+        "word": "老干妈不需要创新",
+        "onboard_time": 1764993501,
+        "rank": 45,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 118439,
+        "num": 118439,
+        "word": "得闲谨制 黑色幽默",
+        "onboard_time": 1764998782,
+        "rank": 46,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 117628,
+        "num": 117628,
+        "word": "多家APP对豆包手机禁用",
+        "onboard_time": 1764988640,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 116868,
+        "num": 116868,
+        "word": "雅迪新车上市有前后座有车筐",
+        "onboard_time": 1764998662,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 116091,
+        "num": 116091,
+        "word": "LV兵乓球拍挂饰",
+        "onboard_time": 1764997581,
+        "rank": 49,
+        "category": "时尚"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首交流互动的经典瞬间#"
+    }
+  }
+}
