@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765059939073,
+  "endTime": 1765060914881,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -395,6 +395,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 87068,
+      "num": 87068,
+      "word": "专家回应日本要用电磁炮打中国航母",
+      "onboard_time": 1765045576,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 85940,
       "num": 210329,
       "word": "孙颖莎是王楚钦全肯定",
@@ -408,6 +416,14 @@
       "word": "喜人奇妙夜",
       "onboard_time": 1765045576,
       "rank": 25,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 76660,
+      "num": 76660,
+      "word": "朱丹主持",
+      "onboard_time": 1765048515,
+      "rank": 31,
       "category": "综艺"
     },
     {
@@ -435,28 +451,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 69009,
-      "num": 77380,
-      "word": "专家回应日本要用电磁炮打中国航母",
-      "onboard_time": 1765045576,
-      "rank": 47,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 67414,
       "num": 206340,
       "word": "大量铜被运往美国",
       "onboard_time": 1765029804,
       "rank": 46,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 63494,
-      "num": 63494,
-      "word": "朱丹主持",
-      "onboard_time": 1765048515,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 61943,
@@ -488,6 +488,14 @@
       "word": "游客偶遇用镜子反射光给大佛暖鼻子",
       "onboard_time": 1765029804,
       "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 50218,
+      "num": 71189,
+      "word": "下周大范围雨雨雨雪雪雪",
+      "onboard_time": 1765046777,
+      "rank": 48,
       "category": "民生新闻"
     },
     {
@@ -523,14 +531,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 40541,
-      "num": 71189,
-      "word": "下周大范围雨雨雨雪雪雪",
-      "onboard_time": 1765046777,
-      "rank": 48,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 36878,
       "num": 36878,
       "word": "工作室快点把檀健次的手机收了",
@@ -545,6 +545,14 @@
       "onboard_time": 1765041678,
       "rank": 49,
       "category": "财经"
+    },
+    {
+      "raw_hot": 22720,
+      "num": 26420,
+      "word": "虞书欣 全开麦",
+      "onboard_time": 1765060155,
+      "rank": 41,
+      "category": "演出"
     },
     {
       "raw_hot": 20556,
