@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765017777716,
+  "endTime": 1765020149155,
   "band_list": [
     {
       "raw_hot": 4647608,
@@ -9,6 +9,14 @@
       "onboard_time": 1765003762,
       "rank": 45,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 4012256,
+      "num": 4012256,
+      "word": "尖叫之夜",
+      "onboard_time": 1765018101,
+      "rank": 0,
+      "category": "民生新闻,综艺"
     },
     {
       "raw_hot": 1319314,
@@ -24,6 +32,14 @@
       "word": "林允红毯摔倒",
       "onboard_time": 1765007481,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 1049490,
+      "num": 527881,
+      "word": "赵今麦 好大气的五官",
+      "onboard_time": 1765018402,
+      "rank": 11,
       "category": "综艺"
     },
     {
@@ -104,6 +120,14 @@
       "word": "杨幂 C位",
       "onboard_time": 1765006341,
       "rank": 16,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 881039,
+      "num": 881039,
+      "word": "杨幂 妈幂降临",
+      "onboard_time": 1765019783,
+      "rank": 5,
       "category": "综艺"
     },
     {
@@ -267,6 +291,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 515489,
+      "num": 515489,
+      "word": "尖叫之夜内场",
+      "onboard_time": 1765019601,
+      "rank": 12,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 514580,
       "num": 514580,
       "word": "柬埔寨公主大婚",
@@ -296,6 +328,22 @@
       "word": "张凌赫叫宝贝",
       "onboard_time": 1765012403,
       "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 492466,
+      "num": 492466,
+      "word": "秦岚盘发",
+      "onboard_time": 1765017502,
+      "rank": 25,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 488673,
+      "num": 488673,
+      "word": "李现李一桐太配了",
+      "onboard_time": 1765017263,
+      "rank": 30,
       "category": "综艺"
     },
     {
@@ -364,7 +412,7 @@
     },
     {
       "raw_hot": 410453,
-      "num": 1850225,
+      "num": 1907234,
       "word": "杭州师范大学通报调查结果",
       "onboard_time": 1765012283,
       "rank": 9,
@@ -460,10 +508,18 @@
     },
     {
       "raw_hot": 362660,
-      "num": 209216,
+      "num": 358617,
       "word": "向涵之美成啥了",
       "onboard_time": 1765017322,
       "rank": 20,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 360293,
+      "num": 360293,
+      "word": "檀健次尖叫之夜压轴",
+      "onboard_time": 1765018222,
+      "rank": 21,
       "category": "综艺"
     },
     {
@@ -547,12 +603,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 315344,
+      "num": 151573,
+      "word": "白鹿走了三次红毯",
+      "onboard_time": 1765019844,
+      "rank": 43,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 311401,
       "num": 118826,
       "word": "阚清子下台阶老公贴心搀扶",
       "onboard_time": 1764949761,
       "rank": 20,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 309297,
+      "num": 3452357,
+      "word": "徐瑛彬0比3卡尔伯格",
+      "onboard_time": 1765017861,
+      "rank": 1,
+      "category": "体育"
     },
     {
       "raw_hot": 304229,
@@ -659,6 +731,14 @@
       "category": "辟谣/通报,汽车"
     },
     {
+      "raw_hot": 258176,
+      "num": 258176,
+      "word": "林俊杰获AAA最佳艺人奖",
+      "onboard_time": 1765017201,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
       "raw_hot": 254183,
       "num": 176857,
       "word": "张柏芝自曝患数字恐惧症",
@@ -705,6 +785,14 @@
       "onboard_time": 1764952999,
       "rank": 35,
       "category": "体育"
+    },
+    {
+      "raw_hot": 245631,
+      "num": 1522628,
+      "word": "LPL",
+      "onboard_time": 1765016903,
+      "rank": 7,
+      "category": "电竞"
     },
     {
       "raw_hot": 244847,
@@ -803,14 +891,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 224681,
-      "num": 208934,
-      "word": "秦岚盘发",
-      "onboard_time": 1765017502,
-      "rank": 25,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 224591,
       "num": 224591,
       "word": "尖叫之夜海报站位",
@@ -843,12 +923,20 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 214461,
-      "num": 208834,
-      "word": "林俊杰获AAA最佳艺人奖",
-      "onboard_time": 1765017201,
+      "raw_hot": 215358,
+      "num": 201441,
+      "word": "荷兰经济部长承认未能预见中方反击",
+      "onboard_time": 1765019243,
+      "rank": 30,
+      "category": "国际时政"
+    },
+    {
+      "raw_hot": 215030,
+      "num": 215030,
+      "word": "白月梵星红毯",
+      "onboard_time": 1765019302,
       "rank": 26,
-      "category": "演出"
+      "category": "综艺"
     },
     {
       "raw_hot": 214218,
@@ -865,14 +953,6 @@
       "onboard_time": 1765005981,
       "rank": 18,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 208604,
-      "num": 208604,
-      "word": "李现李一桐太配了",
-      "onboard_time": 1765017263,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 207241,
@@ -955,12 +1035,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 201198,
+      "num": 201198,
+      "word": "王以纶搂完刘宇宁搂侯明昊",
+      "onboard_time": 1765019182,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 200612,
       "num": 187100,
       "word": "陈妍希确定不是20吗",
       "onboard_time": 1765002500,
       "rank": 40,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 197215,
+      "num": 480446,
+      "word": "爸爸把女儿第一次上学拍成了纪录片",
+      "onboard_time": 1765018582,
+      "rank": 15,
+      "category": "情感"
     },
     {
       "raw_hot": 196477,
@@ -985,14 +1081,6 @@
       "onboard_time": 1765005502,
       "rank": 30,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 193544,
-      "num": 678548,
-      "word": "LPL",
-      "onboard_time": 1765016903,
-      "rank": 7,
-      "category": "电竞"
     },
     {
       "raw_hot": 193346,
@@ -1091,6 +1179,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 185923,
+      "num": 206682,
+      "word": "混团",
+      "onboard_time": 1765019663,
+      "rank": 27,
+      "category": "体育"
+    },
+    {
       "raw_hot": 185564,
       "num": 251756,
       "word": "美国女子被生母继父剖腹取婴致死",
@@ -1105,6 +1201,14 @@
       "onboard_time": 1765005800,
       "rank": 49,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 185182,
+      "num": 455262,
+      "word": "140平爆改成7个独卫单间",
+      "onboard_time": 1765016543,
+      "rank": 44,
+      "category": "情感"
     },
     {
       "raw_hot": 184524,
@@ -1387,6 +1491,14 @@
       "category": "辟谣/通报"
     },
     {
+      "raw_hot": 156525,
+      "num": 156525,
+      "word": "穆祉丞为陈妍希新歌新剧打call",
+      "onboard_time": 1765018944,
+      "rank": 35,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 156240,
       "num": 150178,
       "word": "得闲谨制预售票房8天1.47亿",
@@ -1441,6 +1553,14 @@
       "onboard_time": 1765002321,
       "rank": 45,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 151795,
+      "num": 151795,
+      "word": "彭昱畅被肖战一把拽回来了",
+      "onboard_time": 1765018763,
+      "rank": 40,
+      "category": "电影"
     },
     {
       "raw_hot": 151546,
@@ -1563,6 +1683,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143893,
+      "num": 378710,
+      "word": "F1",
+      "onboard_time": 1765018703,
+      "rank": 20,
+      "category": "体育"
+    },
+    {
       "raw_hot": 143007,
       "num": 143007,
       "word": "这还是我认识的DNF吗",
@@ -1619,12 +1747,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 141195,
+      "num": 152387,
+      "word": "这些食物二次加热危害极大",
+      "onboard_time": 1765018101,
+      "rank": 38,
+      "category": "科学科普"
+    },
+    {
       "raw_hot": 141166,
       "num": 141166,
       "word": "艾米 气血充盈的美",
       "onboard_time": 1765010242,
       "rank": 40,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 141143,
+      "num": 151784,
+      "word": "淮水竹亭",
+      "onboard_time": 1765018463,
+      "rank": 41,
+      "category": "剧集"
     },
     {
       "raw_hot": 139494,
@@ -1817,14 +1961,6 @@
       "onboard_time": 1764997880,
       "rank": 34,
       "category": "国际时政"
-    },
-    {
-      "raw_hot": 127239,
-      "num": 127239,
-      "word": "140平爆改成7个独卫单间",
-      "onboard_time": 1765016543,
-      "rank": 44,
-      "category": "情感"
     },
     {
       "raw_hot": 126913,
@@ -2139,6 +2275,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 101173,
+      "num": 151151,
+      "word": "职称公示58人中48人来自人名大全",
+      "onboard_time": 1765019422,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101095,
       "num": 101095,
       "word": "世界杯分组",
@@ -2153,6 +2297,14 @@
       "onboard_time": 1764998481,
       "rank": 17,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 99788,
+      "num": 151008,
+      "word": "足协杯",
+      "onboard_time": 1765017801,
+      "rank": 49,
+      "category": "体育"
     },
     {
       "raw_hot": 99638,
@@ -2387,6 +2539,14 @@
       "category": "幽默,情感"
     },
     {
+      "raw_hot": 81668,
+      "num": 564068,
+      "word": "国乒8比4瑞典",
+      "onboard_time": 1765019422,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 80661,
       "num": 80661,
       "word": "傅园慧妈妈帮她扎头发",
@@ -2585,6 +2745,14 @@
       "onboard_time": 1764932303,
       "rank": 40,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 62540,
+      "num": 201514,
+      "word": "高中生捐赠日军罪证",
+      "onboard_time": 1765018822,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 62366,
@@ -2979,6 +3147,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 31814,
+      "num": 388480,
+      "word": "于正回应没宣传陈妍希周柯宇新剧",
+      "onboard_time": 1765019783,
+      "rank": 19,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 30489,
       "num": 36918,
       "word": "十人部落",
@@ -3017,6 +3193,14 @@
       "onboard_time": 1764958995,
       "rank": 33,
       "category": "演出"
+    },
+    {
+      "raw_hot": 26567,
+      "num": 417292,
+      "word": "驻日美军猥亵少女日本也是帮凶",
+      "onboard_time": 1765019422,
+      "rank": 18,
+      "category": "国际时政"
     },
     {
       "raw_hot": 26116,
@@ -3155,7 +3339,7 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 2962,
+      "raw_hot": 4489,
       "num": 3518983,
       "word": "C909飞机已交付174架",
       "onboard_time": 1764923901,
