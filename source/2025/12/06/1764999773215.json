@@ -1,0 +1,410 @@
+{
+  "runTime": 1764999773215,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 989329,
+        "num": 1158292,
+        "word": "特朗普警告高市早苗别插手台海",
+        "onboard_time": 1764994939,
+        "rank": 0,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 684355,
+        "num": 684355,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 1,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 4648,
+        "num": 494720,
+        "word": "做好6件事保护呼吸道",
+        "onboard_time": 1764924321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 355511,
+        "num": 355511,
+        "word": "国乒vs日本",
+        "onboard_time": 1764995362,
+        "rank": 3,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 349660,
+        "num": 349660,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1764994579,
+        "rank": 4,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543392,
+        "num": 335622,
+        "word": "尖叫之夜出图",
+        "onboard_time": 1764988460,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 319069,
+        "num": 319069,
+        "word": "少拿500可休10天员工称很开心",
+        "onboard_time": 1764991220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 202046,
+        "num": 318319,
+        "word": "豆包手机 溢价",
+        "onboard_time": 1764988999,
+        "rank": 7,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 41708,
+        "num": 315728,
+        "word": "治沙界又添一员猛将",
+        "onboard_time": 1764997041,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 192098,
+        "num": 314125,
+        "word": "王曼昱2比1伊藤美诚",
+        "onboard_time": 1764999081,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 651019,
+        "num": 311220,
+        "word": "徐若晗撞衫田曦薇",
+        "onboard_time": 1764993442,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 31742,
+        "num": 309123,
+        "word": "鞠婧祎开箱过冬套装",
+        "onboard_time": 1764997521,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 552972,
+        "num": 308200,
+        "word": "白鹿在逃黑天鹅",
+        "onboard_time": 1764998662,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 472370,
+        "num": 306287,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 453289,
+        "num": 302868,
+        "word": "肖战演技",
+        "onboard_time": 1764996799,
+        "rank": 14,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 302317,
+        "num": 302317,
+        "word": "二战战犯孙子正重掌日本兵权",
+        "onboard_time": 1764998241,
+        "rank": 15,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 257408,
+        "num": 257408,
+        "word": "南京大屠杀日军信中称真痛快",
+        "onboard_time": 1764992600,
+        "rank": 16,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 207485,
+        "num": 255978,
+        "word": "王楚钦回球不小心击中孙颖莎",
+        "onboard_time": 1764991820,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 157061,
+        "num": 251756,
+        "word": "美国女子被生母继父剖腹取婴致死",
+        "onboard_time": 1764992841,
+        "rank": 18,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 151465,
+        "num": 248765,
+        "word": "美国博主在中国看病被检测费震惊",
+        "onboard_time": 1764991160,
+        "rank": 19,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 432382,
+        "num": 245452,
+        "word": "妻子回应朱孝天被退出F4",
+        "onboard_time": 1764992000,
+        "rank": 20,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 100583,
+        "num": 242854,
+        "word": "9岁男孩校服被写2B班会勇敢反击",
+        "onboard_time": 1764998481,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 425453,
+        "num": 241371,
+        "word": "九重紫",
+        "onboard_time": 1764983660,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 382067,
+        "num": 237696,
+        "word": "白鹿尖叫之夜最早出图",
+        "onboard_time": 1764995241,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 346423,
+        "num": 234656,
+        "word": "田曦薇 豹纹小猫",
+        "onboard_time": 1764996680,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 271935,
+        "num": 231974,
+        "word": "艾米首穿高定",
+        "onboard_time": 1764998541,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 229033,
+        "num": 229033,
+        "word": "李兰迪敖瑞鹏合唱了此爱",
+        "onboard_time": 1764998181,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 228769,
+        "num": 228769,
+        "word": "杨超越锁骨发",
+        "onboard_time": 1764994579,
+        "rank": 27,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 174987,
+        "num": 220170,
+        "word": "厂二代父亲无差别攻击老婆女儿",
+        "onboard_time": 1764998061,
+        "rank": 28,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 219309,
+        "num": 219309,
+        "word": "暖暖生日皮肤",
+        "onboard_time": 1764999199,
+        "rank": 29,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 182276,
+        "num": 182276,
+        "word": "得闲谨制 黑色幽默",
+        "onboard_time": 1764998782,
+        "rank": 30,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 180598,
+        "num": 180598,
+        "word": "单亲妈妈同时相亲63岁与29岁男",
+        "onboard_time": 1764999619,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 155321,
+        "num": 155321,
+        "word": "日本抓到一只380公斤巨型棕熊",
+        "onboard_time": 1764999441,
+        "rank": 32,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 155195,
+        "num": 155195,
+        "word": "微信上的这个人戒烟了",
+        "onboard_time": 1764999441,
+        "rank": 33,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 146916,
+        "num": 152093,
+        "word": "特朗普与高市早苗通话措辞非常严厉",
+        "onboard_time": 1764998901,
+        "rank": 34,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 174859,
+        "num": 151186,
+        "word": "黄日华退出娱乐圈",
+        "onboard_time": 1764985280,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149726,
+        "num": 149726,
+        "word": "喜人奇妙夜2",
+        "onboard_time": 1764998360,
+        "rank": 36,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 129883,
+        "num": 149673,
+        "word": "她哪里是想考研",
+        "onboard_time": 1764998541,
+        "rank": 37,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 28738,
+        "num": 149659,
+        "word": "日本冬瓜售卖方式",
+        "onboard_time": 1764999619,
+        "rank": 38,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 33066,
+        "num": 149650,
+        "word": "法国三男孩飙车冲进泳池被淹死",
+        "onboard_time": 1764999261,
+        "rank": 39,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 149648,
+        "num": 149648,
+        "word": "秦昊田嘉瑞的征信都坐不了高铁",
+        "onboard_time": 1764989300,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 141728,
+        "num": 141728,
+        "word": "范丞丞惦记凌晨三点跟陈伟霆玩",
+        "onboard_time": 1764999441,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35984,
+        "num": 138761,
+        "word": "保罗训练不停歇",
+        "onboard_time": 1764998420,
+        "rank": 42,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 123649,
+        "num": 137320,
+        "word": "多地通报疑似虚假人名凑数质疑",
+        "onboard_time": 1764997221,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 136311,
+        "num": 136311,
+        "word": "时代峰峻回应陈奕恒左奇函受伤",
+        "onboard_time": 1764999381,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 125920,
+        "num": 125920,
+        "word": "雅迪新车上市有前后座有车筐",
+        "onboard_time": 1764998662,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 124230,
+        "num": 124230,
+        "word": "吴尊爱女如养花的具象化",
+        "onboard_time": 1764999741,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 123711,
+        "num": 123711,
+        "word": "老自一杯 老己一杯",
+        "onboard_time": 1764999741,
+        "rank": 47,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 260355,
+        "num": 123666,
+        "word": "男子掉入粉碎机身亡",
+        "onboard_time": 1764948381,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 25665,
+        "num": 123543,
+        "word": "美国打击所谓运毒船视频引哗然",
+        "onboard_time": 1764998061,
+        "rank": 49,
+        "category": "国际时政"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首交流互动的经典瞬间#"
+    }
+  }
+}

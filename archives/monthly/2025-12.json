@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1764998815993,
+  "endTime": 1764999773215,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -595,6 +595,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 989329,
+      "num": 1158292,
+      "word": "特朗普警告高市早苗别插手台海",
+      "onboard_time": 1764994939,
+      "rank": 9,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 983316,
       "num": 1157330,
       "word": "网信部门通报处置张雪峰",
@@ -649,14 +657,6 @@
       "onboard_time": 1764565164,
       "rank": 21,
       "category": "体育"
-    },
-    {
-      "raw_hot": 949264,
-      "num": 1151882,
-      "word": "特朗普警告高市早苗别插手台海",
-      "onboard_time": 1764994939,
-      "rank": 9,
-      "category": "国际时政"
     },
     {
       "raw_hot": 942206,
@@ -1555,6 +1555,14 @@
       "category": "互联网,网红"
     },
     {
+      "raw_hot": 552972,
+      "num": 308200,
+      "word": "白鹿在逃黑天鹅",
+      "onboard_time": 1764998662,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 552341,
       "num": 874172,
       "word": "BLG官宣Xun加入",
@@ -1892,7 +1900,7 @@
     },
     {
       "raw_hot": 495671,
-      "num": 185349,
+      "num": 302868,
       "word": "肖战演技",
       "onboard_time": 1764996799,
       "rank": 13,
@@ -2041,6 +2049,14 @@
       "onboard_time": 1764838761,
       "rank": 5,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 472370,
+      "num": 330550,
+      "word": "王一博徒手攀手滑掉海里了",
+      "onboard_time": 1764995901,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 466813,
@@ -2360,14 +2376,6 @@
       "word": "庾澄庆看何炅的表情让我一品再品",
       "onboard_time": 1764657679,
       "rank": 30,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 430028,
-      "num": 330550,
-      "word": "王一博徒手攀手滑掉海里了",
-      "onboard_time": 1764995901,
-      "rank": 19,
       "category": "综艺"
     },
     {
@@ -3059,6 +3067,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 355511,
+      "num": 355511,
+      "word": "国乒vs日本",
+      "onboard_time": 1764995362,
+      "rank": 39,
+      "category": "体育"
+    },
+    {
       "raw_hot": 354615,
       "num": 166050,
       "word": "张继科说乒乓球热度是我带起来的",
@@ -3185,6 +3201,14 @@
       "onboard_time": 1764516441,
       "rank": 14,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 346423,
+      "num": 234656,
+      "word": "田曦薇 豹纹小猫",
+      "onboard_time": 1764996680,
+      "rank": 24,
+      "category": "综艺"
     },
     {
       "raw_hot": 346189,
@@ -3361,14 +3385,6 @@
       "onboard_time": 1764991820,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 329369,
-      "num": 154535,
-      "word": "田曦薇 豹纹小猫",
-      "onboard_time": 1764996680,
-      "rank": 24,
-      "category": "综艺"
     },
     {
       "raw_hot": 329245,
@@ -3755,6 +3771,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 302317,
+      "num": 302317,
+      "word": "二战战犯孙子正重掌日本兵权",
+      "onboard_time": 1764998241,
+      "rank": 18,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 302285,
       "num": 302285,
       "word": "李飞的早餐",
@@ -4121,6 +4145,14 @@
       "onboard_time": 1764751761,
       "rank": 47,
       "category": "财经"
+    },
+    {
+      "raw_hot": 271935,
+      "num": 231974,
+      "word": "艾米首穿高定",
+      "onboard_time": 1764998541,
+      "rank": 29,
+      "category": "综艺"
     },
     {
       "raw_hot": 271919,
@@ -4875,6 +4907,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 229033,
+      "num": 229033,
+      "word": "李兰迪敖瑞鹏合唱了此爱",
+      "onboard_time": 1764998181,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 228899,
       "num": 228899,
       "word": "老爹站",
@@ -4955,14 +4995,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 224690,
-      "num": 153195,
-      "word": "艾米首穿高定",
-      "onboard_time": 1764998541,
-      "rank": 29,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 224651,
       "num": 224651,
       "word": "枭起青壤热度为什么上不去",
@@ -4993,14 +5025,6 @@
       "onboard_time": 1764599124,
       "rank": 48,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 222144,
-      "num": 222144,
-      "word": "国乒vs日本",
-      "onboard_time": 1764995362,
-      "rank": 39,
-      "category": "体育"
     },
     {
       "raw_hot": 222071,
@@ -5057,6 +5081,14 @@
       "onboard_time": 1764846860,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 219309,
+      "num": 219309,
+      "word": "暖暖生日皮肤",
+      "onboard_time": 1764999199,
+      "rank": 29,
+      "category": "游戏"
     },
     {
       "raw_hot": 219050,
@@ -5409,14 +5441,6 @@
       "onboard_time": 1764979100,
       "rank": 14,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 207072,
-      "num": 152679,
-      "word": "李兰迪敖瑞鹏合唱了此爱",
-      "onboard_time": 1764998181,
-      "rank": 30,
-      "category": "综艺"
     },
     {
       "raw_hot": 206888,
@@ -6043,6 +6067,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 192098,
+      "num": 314125,
+      "word": "王曼昱2比1伊藤美诚",
+      "onboard_time": 1764999081,
+      "rank": 9,
+      "category": "体育"
+    },
+    {
       "raw_hot": 191809,
       "num": 118940,
       "word": "国乒对阵韩国孙颖莎轮休",
@@ -6324,7 +6356,7 @@
     },
     {
       "raw_hot": 185564,
-      "num": 232978,
+      "num": 251756,
       "word": "美国女子被生母继父剖腹取婴致死",
       "onboard_time": 1764992841,
       "rank": 32,
@@ -6483,6 +6515,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 182276,
+      "num": 182276,
+      "word": "得闲谨制 黑色幽默",
+      "onboard_time": 1764998782,
+      "rank": 46,
+      "category": "电影"
+    },
+    {
       "raw_hot": 182211,
       "num": 182211,
       "word": "吉克隽逸 露肤度高不等于擦边",
@@ -6601,6 +6641,14 @@
       "onboard_time": 1764567681,
       "rank": 28,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 180598,
+      "num": 180598,
+      "word": "单亲妈妈同时相亲63岁与29岁男",
+      "onboard_time": 1764999619,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 180588,
@@ -6801,6 +6849,14 @@
       "onboard_time": 1764937462,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 174987,
+      "num": 220170,
+      "word": "厂二代父亲无差别攻击老婆女儿",
+      "onboard_time": 1764998061,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 174554,
@@ -7859,14 +7915,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 155676,
-      "num": 155676,
-      "word": "二战战犯孙子正重掌日本兵权",
-      "onboard_time": 1764998241,
-      "rank": 18,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 155657,
       "num": 155657,
       "word": "多地通报疑似虚假人名凑数质疑",
@@ -7891,12 +7939,28 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155321,
+      "num": 155321,
+      "word": "日本抓到一只380公斤巨型棕熊",
+      "onboard_time": 1764999441,
+      "rank": 32,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 155245,
       "num": 155245,
       "word": "向佐来到康定心系郭碧婷和孩子",
       "onboard_time": 1764573982,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 155195,
+      "num": 155195,
+      "word": "微信上的这个人戒烟了",
+      "onboard_time": 1764999441,
+      "rank": 33,
+      "category": "情感"
     },
     {
       "raw_hot": 155127,
@@ -8387,6 +8451,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 146916,
+      "num": 152093,
+      "word": "特朗普与高市早苗通话措辞非常严厉",
+      "onboard_time": 1764998901,
+      "rank": 34,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 146766,
       "num": 146766,
       "word": "张继科疑似辟谣结婚生子",
@@ -8489,14 +8561,6 @@
       "onboard_time": 1764566002,
       "rank": 43,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 145053,
-      "num": 145053,
-      "word": "白鹿在逃黑天鹅",
-      "onboard_time": 1764998662,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 144954,
@@ -8713,6 +8777,14 @@
       "onboard_time": 1764989240,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141728,
+      "num": 141728,
+      "word": "范丞丞惦记凌晨三点跟陈伟霆玩",
+      "onboard_time": 1764999441,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 141719,
@@ -9129,6 +9201,14 @@
       "onboard_time": 1764855622,
       "rank": 48,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 136311,
+      "num": 136311,
+      "word": "时代峰峻回应陈奕恒左奇函受伤",
+      "onboard_time": 1764999381,
+      "rank": 44,
+      "category": "艺人"
     },
     {
       "raw_hot": 136279,
@@ -9747,6 +9827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 129883,
+      "num": 149673,
+      "word": "她哪里是想考研",
+      "onboard_time": 1764998541,
+      "rank": 37,
+      "category": "教育"
+    },
+    {
       "raw_hot": 129855,
       "num": 129855,
       "word": "肖战嗓子都喊劈叉了",
@@ -10019,6 +10107,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 125920,
+      "num": 125920,
+      "word": "雅迪新车上市有前后座有车筐",
+      "onboard_time": 1764998662,
+      "rank": 48,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 125895,
       "num": 125895,
       "word": "星光大赏公式照",
@@ -10171,6 +10267,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 124230,
+      "num": 124230,
+      "word": "吴尊爱女如养花的具象化",
+      "onboard_time": 1764999741,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 124065,
       "num": 139129,
       "word": "四川鼓励教师实行弹性上下班",
@@ -10201,6 +10305,14 @@
       "onboard_time": 1764655521,
       "rank": 33,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 123711,
+      "num": 123711,
+      "word": "老自一杯 老己一杯",
+      "onboard_time": 1764999741,
+      "rank": 47,
+      "category": "幽默"
     },
     {
       "raw_hot": 123584,
@@ -10859,14 +10971,6 @@
       "category": "数码"
     },
     {
-      "raw_hot": 118439,
-      "num": 118439,
-      "word": "得闲谨制 黑色幽默",
-      "onboard_time": 1764998782,
-      "rank": 46,
-      "category": "电影"
-    },
-    {
       "raw_hot": 118413,
       "num": 118413,
       "word": "法国总统马克龙与孙颖莎等互动",
@@ -11041,14 +11145,6 @@
       "onboard_time": 1764654981,
       "rank": 34,
       "category": "幽默,情感"
-    },
-    {
-      "raw_hot": 116868,
-      "num": 116868,
-      "word": "雅迪新车上市有前后座有车筐",
-      "onboard_time": 1764998662,
-      "rank": 48,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 116761,
@@ -11923,14 +12019,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 107130,
-      "num": 155661,
-      "word": "厂二代父亲无差别攻击老婆女儿",
-      "onboard_time": 1764998061,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 106947,
       "num": 208874,
       "word": "耳鸣其实是身体发出的警告",
@@ -12720,6 +12808,14 @@
       "word": "秦岭深处树在天上飞",
       "onboard_time": 1764857543,
       "rank": 42,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 100583,
+      "num": 242854,
+      "word": "9岁男孩校服被写2B班会勇敢反击",
+      "onboard_time": 1764998481,
+      "rank": 17,
       "category": "民生新闻"
     },
     {
@@ -17075,12 +17171,12 @@
       "category": "电影"
     },
     {
-      "raw_hot": 41467,
-      "num": 165666,
-      "word": "9岁男孩校服被写2B班会勇敢反击",
-      "onboard_time": 1764998481,
-      "rank": 17,
-      "category": "民生新闻"
+      "raw_hot": 41708,
+      "num": 315728,
+      "word": "治沙界又添一员猛将",
+      "onboard_time": 1764997041,
+      "rank": 8,
+      "category": "国内时政"
     },
     {
       "raw_hot": 41397,
@@ -17691,6 +17787,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 33066,
+      "num": 149650,
+      "word": "法国三男孩飙车冲进泳池被淹死",
+      "onboard_time": 1764999261,
+      "rank": 39,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 33011,
       "num": 234064,
       "word": "看喜人欠的皱纹不用还了",
@@ -17763,6 +17867,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 31742,
+      "num": 309123,
+      "word": "鞠婧祎开箱过冬套装",
+      "onboard_time": 1764997521,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 31076,
       "num": 232384,
       "word": "高空抛砖案死者家属起诉长春万达",
@@ -17785,14 +17897,6 @@
       "onboard_time": 1764758182,
       "rank": 37,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 30890,
-      "num": 188625,
-      "word": "鞠婧祎开箱过冬套装",
-      "onboard_time": 1764997521,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 30843,
@@ -17833,14 +17937,6 @@
       "onboard_time": 1764925821,
       "rank": 14,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 30632,
-      "num": 191512,
-      "word": "治沙界又添一员猛将",
-      "onboard_time": 1764997041,
-      "rank": 8,
-      "category": "国内时政"
     },
     {
       "raw_hot": 30489,
@@ -17937,6 +18033,14 @@
       "onboard_time": 1764566661,
       "rank": 38,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 28738,
+      "num": 149659,
+      "word": "日本冬瓜售卖方式",
+      "onboard_time": 1764999619,
+      "rank": 38,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 28540,
@@ -18153,6 +18257,14 @@
       "onboard_time": 1764959235,
       "rank": 36,
       "category": "网红"
+    },
+    {
+      "raw_hot": 25665,
+      "num": 150118,
+      "word": "美国打击所谓运毒船视频引哗然",
+      "onboard_time": 1764998061,
+      "rank": 39,
+      "category": "国际时政"
     },
     {
       "raw_hot": 25655,
@@ -18739,14 +18851,6 @@
       "category": "国际时政"
     },
     {
-      "raw_hot": 16133,
-      "num": 150118,
-      "word": "美国打击所谓运毒船视频引哗然",
-      "onboard_time": 1764998061,
-      "rank": 39,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 15909,
       "num": 222681,
       "word": "去世女硕士驻村干部好友发声",
@@ -19075,8 +19179,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1865,
-      "num": 490322,
+      "raw_hot": 4648,
+      "num": 494720,
       "word": "做好6件事保护呼吸道",
       "onboard_time": 1764924321,
       "rank": 2,
