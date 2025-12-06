@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764991963045,
+  "endTime": 1764993429517,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -9,6 +9,14 @@
       "onboard_time": 1764948381,
       "rank": 10,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1029680,
+      "num": 1164748,
+      "word": "尖叫之夜出图",
+      "onboard_time": 1764988460,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1005196,
@@ -35,20 +43,20 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 740298,
-      "num": 402938,
-      "word": "尖叫之夜出图",
-      "onboard_time": 1764988460,
-      "rank": 3,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 697538,
-      "num": 197334,
+      "num": 214771,
       "word": "吴昕维嘉聊天30秒牵手转了三次圈",
       "onboard_time": 1764988580,
       "rank": 11,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 652221,
+      "num": 300590,
+      "word": "少拿500可休10天员工称很开心",
+      "onboard_time": 1764991220,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 611026,
@@ -84,11 +92,19 @@
     },
     {
       "raw_hot": 479867,
-      "num": 250437,
+      "num": 263233,
       "word": "秦昊田嘉瑞的征信都坐不了高铁",
       "onboard_time": 1764989300,
       "rank": 14,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 473357,
+      "num": 211641,
+      "word": "妻子回应朱孝天被退出F4",
+      "onboard_time": 1764992000,
+      "rank": 11,
+      "category": "艺人"
     },
     {
       "raw_hot": 410496,
@@ -115,6 +131,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 365077,
+      "num": 200432,
+      "word": "第一次有人火了之后不想当明星",
+      "onboard_time": 1764990561,
+      "rank": 18,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355773,
       "num": 282593,
       "word": "马克龙说此行只有一个遗憾",
@@ -123,8 +147,8 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 335188,
-      "num": 190197,
+      "raw_hot": 335612,
+      "num": 197986,
       "word": "杨幂爱奇艺尖叫之夜海报C位",
       "onboard_time": 1764989481,
       "rank": 20,
@@ -139,12 +163,28 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 304229,
+      "num": 304229,
+      "word": "多家APP对豆包手机禁用",
+      "onboard_time": 1764988640,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
       "raw_hot": 293183,
       "num": 395991,
       "word": "世界杯死亡之组",
       "onboard_time": 1764978319,
       "rank": 4,
       "category": "体育"
+    },
+    {
+      "raw_hot": 288564,
+      "num": 136009,
+      "word": "美国博主在中国看病被检测费震惊",
+      "onboard_time": 1764991160,
+      "rank": 30,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 280674,
@@ -161,22 +201,6 @@
       "onboard_time": 1764946702,
       "rank": 11,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 269368,
-      "num": 269368,
-      "word": "多家APP对豆包手机禁用",
-      "onboard_time": 1764988640,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
-      "raw_hot": 265012,
-      "num": 191436,
-      "word": "第一次有人火了之后不想当明星",
-      "onboard_time": 1764990561,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 264666,
@@ -212,7 +236,7 @@
     },
     {
       "raw_hot": 248885,
-      "num": 183888,
+      "num": 192325,
       "word": "豆包手机",
       "onboard_time": 1764989240,
       "rank": 24,
@@ -275,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 222891,
+      "num": 222891,
+      "word": "仙剑奇侠传三动画定档",
+      "onboard_time": 1764992300,
+      "rank": 8,
+      "category": "动漫"
+    },
+    {
       "raw_hot": 220167,
       "num": 188895,
       "word": "得闲谨制",
@@ -331,6 +363,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 192227,
+      "num": 192227,
+      "word": "马克龙感谢中方热情款待",
+      "onboard_time": 1764987621,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 186739,
       "num": 186739,
       "word": "时代少年团卫衣 贵",
@@ -379,6 +419,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 178223,
+      "num": 135982,
+      "word": "王楚钦回球不小心击中孙颖莎",
+      "onboard_time": 1764991820,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
       "raw_hot": 171224,
       "num": 171224,
       "word": "东莞小学女生校内受伤流血家长报警",
@@ -387,12 +435,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 165385,
-      "num": 136009,
-      "word": "美国博主在中国看病被检测费震惊",
-      "onboard_time": 1764991160,
-      "rank": 30,
-      "category": "海外新闻"
+      "raw_hot": 164709,
+      "num": 156827,
+      "word": "国产剧终于出现小镇做题家了",
+      "onboard_time": 1764991881,
+      "rank": 42,
+      "category": "剧集"
     },
     {
       "raw_hot": 161051,
@@ -419,6 +467,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 156636,
+      "num": 156636,
+      "word": "何瑞贤第一次帮粉丝带ID很紧张",
+      "onboard_time": 1764992962,
+      "rank": 26,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 156571,
       "num": 733611,
       "word": "国企通报高管KTV接受有偿陪侍",
@@ -433,14 +489,6 @@
       "onboard_time": 1764985280,
       "rank": 21,
       "category": "电影"
-    },
-    {
-      "raw_hot": 152481,
-      "num": 152481,
-      "word": "马克龙感谢中方热情款待",
-      "onboard_time": 1764987621,
-      "rank": 33,
-      "category": "国际时政"
     },
     {
       "raw_hot": 151322,
@@ -523,6 +571,14 @@
       "category": "民生新闻,汽车"
     },
     {
+      "raw_hot": 137154,
+      "num": 137154,
+      "word": "南京大屠杀日军信中称真痛快",
+      "onboard_time": 1764992600,
+      "rank": 27,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 136763,
       "num": 467163,
       "word": "小伙缅北逃跑失败被掰断手指脚趾",
@@ -531,12 +587,12 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 135982,
-      "num": 135982,
-      "word": "王楚钦回球不小心击中孙颖莎",
-      "onboard_time": 1764991820,
-      "rank": 31,
-      "category": "体育"
+      "raw_hot": 135749,
+      "num": 135749,
+      "word": "枭起青壤云合掉到S级了",
+      "onboard_time": 1764990020,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 135191,
@@ -553,6 +609,14 @@
       "onboard_time": 1764990500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132434,
+      "num": 132434,
+      "word": "陈妍希还是太全面了",
+      "onboard_time": 1764993261,
+      "rank": 33,
+      "category": "剧集"
     },
     {
       "raw_hot": 131951,
@@ -579,22 +643,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 122712,
-      "num": 122712,
-      "word": "国产剧终于出现小镇做题家了",
-      "onboard_time": 1764991881,
-      "rank": 42,
-      "category": "剧集"
-    },
-    {
-      "raw_hot": 120719,
-      "num": 120719,
-      "word": "枭起青壤云合掉到S级了",
-      "onboard_time": 1764990020,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 120002,
       "num": 120002,
       "word": "陈妍希演技",
@@ -611,12 +659,44 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 119102,
+      "num": 119102,
+      "word": "尖叫之夜预测",
+      "onboard_time": 1764989121,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 117407,
+      "num": 117407,
+      "word": "追妻第一步是搬到妻隔壁",
+      "onboard_time": 1764992721,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 117257,
       "num": 594827,
       "word": "VOGUE预告",
       "onboard_time": 1764946342,
       "rank": 4,
       "category": "时尚,作品衍生"
+    },
+    {
+      "raw_hot": 116123,
+      "num": 116123,
+      "word": "龚俊对嬷嬷的态度",
+      "onboard_time": 1764992660,
+      "rank": 41,
+      "category": "艺人"
+    },
+    {
+      "raw_hot": 115452,
+      "num": 115452,
+      "word": "曾黎高圆圆girlshelpgirls",
+      "onboard_time": 1764993261,
+      "rank": 42,
+      "category": "艺人"
     },
     {
       "raw_hot": 113244,
@@ -699,6 +779,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 104400,
+      "num": 104400,
+      "word": "前NBA球员埃尔登坎贝尔溺亡",
+      "onboard_time": 1764993141,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 103326,
       "num": 103326,
       "word": "黄仁勋称华为史上最强科技公司之一",
@@ -707,28 +795,28 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 102465,
+      "num": 101350,
+      "word": "李成白依梅有孩子",
+      "onboard_time": 1764992721,
+      "rank": 48,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 102281,
+      "num": 102281,
+      "word": "香港火灾79名伤者全部脱离危险",
+      "onboard_time": 1764982220,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 101095,
       "num": 101095,
       "word": "世界杯分组",
       "onboard_time": 1764976277,
       "rank": 12,
       "category": "体育"
-    },
-    {
-      "raw_hot": 100159,
-      "num": 100159,
-      "word": "尖叫之夜预测",
-      "onboard_time": 1764989121,
-      "rank": 41,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 99754,
-      "num": 99754,
-      "word": "香港火灾79名伤者全部脱离危险",
-      "onboard_time": 1764982220,
-      "rank": 47,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 99638,
@@ -833,6 +921,22 @@
       "onboard_time": 1764986120,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 83175,
+      "num": 119427,
+      "word": "smart精灵6号公告图发布",
+      "onboard_time": 1764992060,
+      "rank": 36,
+      "category": "汽车"
+    },
+    {
+      "raw_hot": 82783,
+      "num": 117615,
+      "word": "官方通报网传车站卫生间配4名所长",
+      "onboard_time": 1764992962,
+      "rank": 39,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 82724,
@@ -1051,6 +1155,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 58090,
+      "num": 132940,
+      "word": "张真源自信满满表演完没录上",
+      "onboard_time": 1764991820,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 57921,
       "num": 57921,
       "word": "无限暖暖",
@@ -1121,14 +1233,6 @@
       "onboard_time": 1764973154,
       "rank": 41,
       "category": "电影"
-    },
-    {
-      "raw_hot": 51276,
-      "num": 132940,
-      "word": "张真源自信满满表演完没录上",
-      "onboard_time": 1764991820,
-      "rank": 38,
-      "category": "综艺"
     },
     {
       "raw_hot": 50780,
@@ -1225,14 +1329,6 @@
       "onboard_time": 1764977419,
       "rank": 43,
       "category": "健康医疗"
-    },
-    {
-      "raw_hot": 40838,
-      "num": 151771,
-      "word": "少拿500可休10天员工称很开心",
-      "onboard_time": 1764991220,
-      "rank": 19,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 40709,
