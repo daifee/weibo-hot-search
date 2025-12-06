@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764990986158,
+  "endTime": 1764991963045,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -19,6 +19,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 907156,
+      "num": 1145145,
+      "word": "九重紫",
+      "onboard_time": 1764983660,
+      "rank": 6,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 855019,
       "num": 538758,
       "word": "张雪峰复播后仍污言秽语",
@@ -27,12 +35,12 @@
       "category": "教育,民生新闻"
     },
     {
-      "raw_hot": 761432,
-      "num": 1121829,
-      "word": "九重紫",
-      "onboard_time": 1764983660,
-      "rank": 6,
-      "category": "剧集"
+      "raw_hot": 740298,
+      "num": 402938,
+      "word": "尖叫之夜出图",
+      "onboard_time": 1764988460,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 697538,
@@ -40,14 +48,6 @@
       "word": "吴昕维嘉聊天30秒牵手转了三次圈",
       "onboard_time": 1764988580,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 694612,
-      "num": 402938,
-      "word": "尖叫之夜出图",
-      "onboard_time": 1764988460,
-      "rank": 3,
       "category": "综艺"
     },
     {
@@ -83,6 +83,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 479867,
+      "num": 250437,
+      "word": "秦昊田嘉瑞的征信都坐不了高铁",
+      "onboard_time": 1764989300,
+      "rank": 14,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 410496,
       "num": 230470,
       "word": "王者荣耀 疯狂动物城",
@@ -115,11 +123,11 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 346575,
-      "num": 194663,
-      "word": "秦昊田嘉瑞的征信都坐不了高铁",
-      "onboard_time": 1764989300,
-      "rank": 14,
+      "raw_hot": 335188,
+      "num": 190197,
+      "word": "杨幂爱奇艺尖叫之夜海报C位",
+      "onboard_time": 1764989481,
+      "rank": 20,
       "category": "综艺"
     },
     {
@@ -139,14 +147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 288116,
-      "num": 190197,
-      "word": "杨幂爱奇艺尖叫之夜海报C位",
-      "onboard_time": 1764989481,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 280674,
       "num": 781644,
       "word": "爱奇艺尖叫之夜",
@@ -161,6 +161,22 @@
       "onboard_time": 1764946702,
       "rank": 11,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 269368,
+      "num": 269368,
+      "word": "多家APP对豆包手机禁用",
+      "onboard_time": 1764988640,
+      "rank": 9,
+      "category": "数码"
+    },
+    {
+      "raw_hot": 265012,
+      "num": 191436,
+      "word": "第一次有人火了之后不想当明星",
+      "onboard_time": 1764990561,
+      "rank": 18,
+      "category": "综艺"
     },
     {
       "raw_hot": 264666,
@@ -193,6 +209,14 @@
       "onboard_time": 1764976157,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 248885,
+      "num": 183888,
+      "word": "豆包手机",
+      "onboard_time": 1764989240,
+      "rank": 24,
+      "category": "数码"
     },
     {
       "raw_hot": 247800,
@@ -299,14 +323,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 198304,
-      "num": 198304,
-      "word": "多家APP对豆包手机禁用",
-      "onboard_time": 1764988640,
-      "rank": 9,
-      "category": "数码"
-    },
-    {
       "raw_hot": 192304,
       "num": 192304,
       "word": "李昀锐纪念九重紫开播一周年",
@@ -371,6 +387,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 165385,
+      "num": 136009,
+      "word": "美国博主在中国看病被检测费震惊",
+      "onboard_time": 1764991160,
+      "rank": 30,
+      "category": "海外新闻"
+    },
+    {
       "raw_hot": 161051,
       "num": 161051,
       "word": "朱孝天 F4",
@@ -411,6 +435,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 152481,
+      "num": 152481,
+      "word": "马克龙感谢中方热情款待",
+      "onboard_time": 1764987621,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 151322,
       "num": 151322,
       "word": "政务公示用明星和人名大全名字太荒诞",
@@ -444,11 +476,27 @@
     },
     {
       "raw_hot": 144052,
-      "num": 126609,
+      "num": 135817,
       "word": "白鹿曾舜晞合唱唯一彩排路透",
       "onboard_time": 1764990320,
       "rank": 32,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 142215,
+      "num": 142215,
+      "word": "陶喆已经练成这样了",
+      "onboard_time": 1764991701,
+      "rank": 26,
+      "category": "演出"
+    },
+    {
+      "raw_hot": 141916,
+      "num": 152432,
+      "word": "美女入殓师修复最棘手遗体报价6万",
+      "onboard_time": 1764989240,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 141388,
@@ -467,14 +515,6 @@
       "category": "辟谣/通报,汽车"
     },
     {
-      "raw_hot": 137526,
-      "num": 183888,
-      "word": "豆包手机",
-      "onboard_time": 1764989240,
-      "rank": 24,
-      "category": "数码"
-    },
-    {
       "raw_hot": 137228,
       "num": 341165,
       "word": "陈震用空壳工作室偷税",
@@ -489,6 +529,30 @@
       "onboard_time": 1764935961,
       "rank": 18,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 135982,
+      "num": 135982,
+      "word": "王楚钦回球不小心击中孙颖莎",
+      "onboard_time": 1764991820,
+      "rank": 31,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 135191,
+      "num": 132853,
+      "word": "美国大叔来中国瞬间破防",
+      "onboard_time": 1764990200,
+      "rank": 34,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 132841,
+      "num": 132841,
+      "word": "刘宇宁澳门逛街",
+      "onboard_time": 1764990500,
+      "rank": 31,
+      "category": "艺人"
     },
     {
       "raw_hot": 131951,
@@ -515,20 +579,20 @@
       "category": "体育"
     },
     {
-      "raw_hot": 126657,
-      "num": 126657,
-      "word": "刘宇宁澳门逛街",
-      "onboard_time": 1764990500,
-      "rank": 31,
-      "category": "艺人"
+      "raw_hot": 122712,
+      "num": 122712,
+      "word": "国产剧终于出现小镇做题家了",
+      "onboard_time": 1764991881,
+      "rank": 42,
+      "category": "剧集"
     },
     {
-      "raw_hot": 126250,
-      "num": 126250,
-      "word": "马克龙感谢中方热情款待",
-      "onboard_time": 1764987621,
-      "rank": 33,
-      "category": "国际时政"
+      "raw_hot": 120719,
+      "num": 120719,
+      "word": "枭起青壤云合掉到S级了",
+      "onboard_time": 1764990020,
+      "rank": 39,
+      "category": "剧集"
     },
     {
       "raw_hot": 120002,
@@ -547,14 +611,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 119888,
-      "num": 119888,
-      "word": "美国大叔来中国瞬间破防",
-      "onboard_time": 1764990200,
-      "rank": 34,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 117257,
       "num": 594827,
       "word": "VOGUE预告",
@@ -563,20 +619,28 @@
       "category": "时尚,作品衍生"
     },
     {
-      "raw_hot": 114212,
-      "num": 127860,
-      "word": "美女入殓师修复最棘手遗体报价6万",
-      "onboard_time": 1764989240,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 113244,
       "num": 113244,
       "word": "杨幂 爽文",
       "onboard_time": 1764940762,
       "rank": 22,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 112847,
+      "num": 112847,
+      "word": "肖战一年5亿预售",
+      "onboard_time": 1764990260,
+      "rank": 38,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 111191,
+      "num": 136256,
+      "word": "闪耀暖暖",
+      "onboard_time": 1764990979,
+      "rank": 28,
+      "category": "游戏"
     },
     {
       "raw_hot": 109622,
@@ -593,14 +657,6 @@
       "onboard_time": 1764988520,
       "rank": 43,
       "category": "电影"
-    },
-    {
-      "raw_hot": 108159,
-      "num": 191436,
-      "word": "第一次有人火了之后不想当明星",
-      "onboard_time": 1764990561,
-      "rank": 18,
-      "category": "综艺"
     },
     {
       "raw_hot": 107770,
@@ -659,20 +715,28 @@
       "category": "体育"
     },
     {
+      "raw_hot": 100159,
+      "num": 100159,
+      "word": "尖叫之夜预测",
+      "onboard_time": 1764989121,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 99754,
+      "num": 99754,
+      "word": "香港火灾79名伤者全部脱离危险",
+      "onboard_time": 1764982220,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 99638,
       "num": 111930,
       "word": "狙击蝴蝶",
       "onboard_time": 1764930681,
       "rank": 25,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 99563,
-      "num": 99563,
-      "word": "尖叫之夜预测",
-      "onboard_time": 1764989121,
-      "rank": 41,
-      "category": "综艺"
     },
     {
       "raw_hot": 97707,
@@ -723,14 +787,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 88523,
-      "num": 100769,
-      "word": "枭起青壤云合掉到S级了",
-      "onboard_time": 1764990020,
-      "rank": 39,
-      "category": "剧集"
-    },
-    {
       "raw_hot": 88086,
       "num": 88086,
       "word": "左奇函受伤",
@@ -777,6 +833,14 @@
       "onboard_time": 1764986120,
       "rank": 48,
       "category": "体育"
+    },
+    {
+      "raw_hot": 82724,
+      "num": 132880,
+      "word": "徐志胜 我要告你骚扰我的",
+      "onboard_time": 1764991760,
+      "rank": 39,
+      "category": "综艺"
     },
     {
       "raw_hot": 80661,
@@ -859,14 +923,6 @@
       "category": "国际时政,体育"
     },
     {
-      "raw_hot": 74533,
-      "num": 100869,
-      "word": "肖战一年5亿预售",
-      "onboard_time": 1764990260,
-      "rank": 38,
-      "category": "电影"
-    },
-    {
       "raw_hot": 73662,
       "num": 111782,
       "word": "金晨自己化的妆",
@@ -915,6 +971,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 69251,
+      "num": 190945,
+      "word": "台独是新日本法西斯帮凶和走狗",
+      "onboard_time": 1764990020,
+      "rank": 19,
+      "category": "国内时政"
+    },
+    {
       "raw_hot": 67739,
       "num": 111434,
       "word": "尚公主",
@@ -945,6 +1009,14 @@
       "onboard_time": 1764949702,
       "rank": 42,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 64748,
+      "num": 192178,
+      "word": "iRobot爆雷欠中国代工厂超25亿元",
+      "onboard_time": 1764990020,
+      "rank": 17,
+      "category": "国际时政,互联网"
     },
     {
       "raw_hot": 64183,
@@ -1051,6 +1123,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 51276,
+      "num": 132940,
+      "word": "张真源自信满满表演完没录上",
+      "onboard_time": 1764991820,
+      "rank": 38,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 50780,
       "num": 50780,
       "word": "中方愿同俄方配合坚决遏制日本挑衅",
@@ -1131,12 +1211,28 @@
       "category": "运动健身"
     },
     {
+      "raw_hot": 42973,
+      "num": 104229,
+      "word": "印度总统为普京举行国宴",
+      "onboard_time": 1764990561,
+      "rank": 37,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 41332,
       "num": 41332,
       "word": "以为会长胖其实帮助减肥的主食",
       "onboard_time": 1764977419,
       "rank": 43,
       "category": "健康医疗"
+    },
+    {
+      "raw_hot": 40838,
+      "num": 151771,
+      "word": "少拿500可休10天员工称很开心",
+      "onboard_time": 1764991220,
+      "rank": 19,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 40709,
@@ -1211,28 +1307,12 @@
       "category": "财经"
     },
     {
-      "raw_hot": 32492,
-      "num": 192178,
-      "word": "iRobot爆雷欠中国代工厂超25亿元",
-      "onboard_time": 1764990020,
-      "rank": 17,
-      "category": "国际时政,互联网"
-    },
-    {
       "raw_hot": 30489,
       "num": 36918,
       "word": "十人部落",
       "onboard_time": 1764957796,
       "rank": 25,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 29908,
-      "num": 190945,
-      "word": "台独是新日本法西斯帮凶和走狗",
-      "onboard_time": 1764990020,
-      "rank": 19,
-      "category": "国内时政"
     },
     {
       "raw_hot": 29426,
@@ -1275,14 +1355,6 @@
       "category": "民生新闻,汽车"
     },
     {
-      "raw_hot": 17913,
-      "num": 101167,
-      "word": "印度总统为普京举行国宴",
-      "onboard_time": 1764990561,
-      "rank": 37,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 17178,
       "num": 25332,
       "word": "酷酷的陈梦碰到了帅帅的哥",
@@ -1313,6 +1385,14 @@
       "onboard_time": 1764968413,
       "rank": 29,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 12432,
+      "num": 132975,
+      "word": "四川一地规定涉彩礼环节要监管拍照",
+      "onboard_time": 1764991760,
+      "rank": 37,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 11652,

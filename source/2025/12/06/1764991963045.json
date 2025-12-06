@@ -1,0 +1,410 @@
+{
+  "runTime": 1764991963045,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 907156,
+        "num": 1145145,
+        "word": "九重紫",
+        "onboard_time": 1764983660,
+        "rank": 0,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 447836,
+        "num": 447836,
+        "word": "柬埔寨公主大婚",
+        "onboard_time": 1764953899,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 29312,
+        "num": 341542,
+        "word": "流感超过一周还有传染性吗",
+        "onboard_time": 1764941123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 740298,
+        "num": 314035,
+        "word": "尖叫之夜出图",
+        "onboard_time": 1764988460,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 269368,
+        "num": 269368,
+        "word": "多家APP对豆包手机禁用",
+        "onboard_time": 1764988640,
+        "rank": 4,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 507050,
+        "num": 258762,
+        "word": "豆包手机 溢价",
+        "onboard_time": 1764988999,
+        "rank": 5,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 479867,
+        "num": 250437,
+        "word": "秦昊田嘉瑞的征信都坐不了高铁",
+        "onboard_time": 1764989300,
+        "rank": 6,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 241559,
+        "num": 241559,
+        "word": "马克龙说此行只有一个遗憾",
+        "onboard_time": 1764975977,
+        "rank": 7,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 188166,
+        "num": 188166,
+        "word": "世界杯死亡之组",
+        "onboard_time": 1764978319,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 237631,
+        "num": 187142,
+        "word": "陈震回旋镖",
+        "onboard_time": 1764986840,
+        "rank": 9,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 670943,
+        "num": 183189,
+        "word": "吴昕维嘉聊天30秒牵手转了三次圈",
+        "onboard_time": 1764988580,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 579114,
+        "num": 174992,
+        "word": "黄日华退出娱乐圈",
+        "onboard_time": 1764985280,
+        "rank": 11,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 335188,
+        "num": 171920,
+        "word": "杨幂爱奇艺尖叫之夜海报C位",
+        "onboard_time": 1764989481,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 315403,
+        "num": 168921,
+        "word": "王者荣耀 疯狂动物城",
+        "onboard_time": 1764985221,
+        "rank": 13,
+        "category": "电影,游戏"
+      },
+      {
+        "raw_hot": 278496,
+        "num": 162243,
+        "word": "单身中女能有多爽",
+        "onboard_time": 1764988640,
+        "rank": 14,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 248885,
+        "num": 159094,
+        "word": "豆包手机",
+        "onboard_time": 1764989240,
+        "rank": 15,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 244108,
+        "num": 155108,
+        "word": "仅退款225个包裹后向商家转账求和解",
+        "onboard_time": 1764978737,
+        "rank": 16,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 152481,
+        "num": 152481,
+        "word": "马克龙感谢中方热情款待",
+        "onboard_time": 1764987621,
+        "rank": 17,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 141916,
+        "num": 152432,
+        "word": "美女入殓师修复最棘手遗体报价6万",
+        "onboard_time": 1764989240,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 40838,
+        "num": 151771,
+        "word": "少拿500可休10天员工称很开心",
+        "onboard_time": 1764991220,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 324274,
+        "num": 151716,
+        "word": "男子掉入粉碎机身亡",
+        "onboard_time": 1764948381,
+        "rank": 20,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 265012,
+        "num": 151282,
+        "word": "第一次有人火了之后不想当明星",
+        "onboard_time": 1764990561,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 208995,
+        "num": 150986,
+        "word": "湖南卫视跨年改名",
+        "onboard_time": 1764978378,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 189487,
+        "num": 150625,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 23,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 150256,
+        "num": 150256,
+        "word": "王橹杰穆祉丞 双人舞台",
+        "onboard_time": 1764980900,
+        "rank": 24,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 162636,
+        "num": 147409,
+        "word": "得闲谨制排片",
+        "onboard_time": 1764986601,
+        "rank": 25,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 142215,
+        "num": 142215,
+        "word": "陶喆已经练成这样了",
+        "onboard_time": 1764991701,
+        "rank": 26,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 136767,
+        "num": 136767,
+        "word": "白鹿凌晨两点半还在线翻牌粉丝",
+        "onboard_time": 1764985400,
+        "rank": 27,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 111191,
+        "num": 136256,
+        "word": "闪耀暖暖",
+        "onboard_time": 1764990979,
+        "rank": 28,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 111172,
+        "num": 136020,
+        "word": "马克龙也喊孙颖莎莎莎",
+        "onboard_time": 1764979520,
+        "rank": 29,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165385,
+        "num": 136009,
+        "word": "美国博主在中国看病被检测费震惊",
+        "onboard_time": 1764991160,
+        "rank": 30,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 135982,
+        "num": 135982,
+        "word": "王楚钦回球不小心击中孙颖莎",
+        "onboard_time": 1764991820,
+        "rank": 31,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 64748,
+        "num": 135825,
+        "word": "iRobot爆雷欠中国代工厂超25亿元",
+        "onboard_time": 1764990020,
+        "rank": 32,
+        "category": "国际时政,互联网"
+      },
+      {
+        "raw_hot": 136720,
+        "num": 135817,
+        "word": "白鹿曾舜晞合唱唯一彩排路透",
+        "onboard_time": 1764990320,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 69251,
+        "num": 135810,
+        "word": "台独是新日本法西斯帮凶和走狗",
+        "onboard_time": 1764990020,
+        "rank": 34,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 135806,
+        "num": 135806,
+        "word": "陈奕恒受伤",
+        "onboard_time": 1764987202,
+        "rank": 35,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 132989,
+        "num": 132989,
+        "word": "罗晋 巷子里不许骑马",
+        "onboard_time": 1764989661,
+        "rank": 36,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 12432,
+        "num": 132975,
+        "word": "四川一地规定涉彩礼环节要监管拍照",
+        "onboard_time": 1764991760,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 51276,
+        "num": 132940,
+        "word": "张真源自信满满表演完没录上",
+        "onboard_time": 1764991820,
+        "rank": 38,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 82724,
+        "num": 132880,
+        "word": "徐志胜 我要告你骚扰我的",
+        "onboard_time": 1764991760,
+        "rank": 39,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 135191,
+        "num": 132853,
+        "word": "美国大叔来中国瞬间破防",
+        "onboard_time": 1764990200,
+        "rank": 40,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 132841,
+        "num": 132841,
+        "word": "刘宇宁澳门逛街",
+        "onboard_time": 1764990500,
+        "rank": 41,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 122712,
+        "num": 122712,
+        "word": "国产剧终于出现小镇做题家了",
+        "onboard_time": 1764991881,
+        "rank": 42,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 120719,
+        "num": 120719,
+        "word": "枭起青壤云合掉到S级了",
+        "onboard_time": 1764990020,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 112847,
+        "num": 112847,
+        "word": "肖战一年5亿预售",
+        "onboard_time": 1764990260,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 42973,
+        "num": 104229,
+        "word": "印度总统为普京举行国宴",
+        "onboard_time": 1764990561,
+        "rank": 45,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 100159,
+        "num": 100159,
+        "word": "尖叫之夜预测",
+        "onboard_time": 1764989121,
+        "rank": 46,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 99754,
+        "num": 99754,
+        "word": "香港火灾79名伤者全部脱离危险",
+        "onboard_time": 1764982220,
+        "rank": 47,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 97706,
+        "num": 97706,
+        "word": "教资面试",
+        "onboard_time": 1764980479,
+        "rank": 48,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 87406,
+        "num": 96585,
+        "word": "这小猫胖得跟一房榴莲似的",
+        "onboard_time": 1764990140,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平介绍都江堰历史和意义#"
+    }
+  }
+}
