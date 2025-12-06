@@ -1,0 +1,410 @@
+{
+  "runTime": 1765034743365,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 3412177,
+        "num": 3412177,
+        "word": "尖叫之夜内场",
+        "onboard_time": 1765019601,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 553319,
+        "num": 553319,
+        "word": "高市早苗被曝自身难保",
+        "onboard_time": 1765028605,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 3242,
+        "num": 547119,
+        "word": "盘点2025大国重器新突破",
+        "onboard_time": 1764982700,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 595677,
+        "num": 543187,
+        "word": "爱奇艺年度喜爱女性角色",
+        "onboard_time": 1765031904,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 218873,
+        "num": 536921,
+        "word": "F1",
+        "onboard_time": 1765018703,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 592491,
+        "num": 528801,
+        "word": "兰迪变云迪",
+        "onboard_time": 1765032685,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 262192,
+        "num": 522355,
+        "word": "公考枪手替考89次敛财千万",
+        "onboard_time": 1765031004,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 194361,
+        "num": 511043,
+        "word": "张本智和连丢6局",
+        "onboard_time": 1765033644,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 26212,
+        "num": 503457,
+        "word": "中国航天又一次成功发射",
+        "onboard_time": 1765028425,
+        "rank": 8,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159560,
+        "num": 498192,
+        "word": "AG对战TE",
+        "onboard_time": 1765027705,
+        "rank": 9,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 957747,
+        "num": 492146,
+        "word": "杨幂白鹿 内场双C",
+        "onboard_time": 1765021521,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 599134,
+        "num": 477732,
+        "word": "女子裤子内藏2斤多活虫入境",
+        "onboard_time": 1765028485,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 575286,
+        "num": 476525,
+        "word": "于和伟 握烟",
+        "onboard_time": 1765030404,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 469444,
+        "num": 469444,
+        "word": "王安宇领奖这段路走得好意气风发",
+        "onboard_time": 1765030945,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 420647,
+        "num": 420647,
+        "word": "丁禹兮评论了张函瑞",
+        "onboard_time": 1765029984,
+        "rank": 14,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 171588,
+        "num": 404579,
+        "word": "百余名考生通过作弊入职政府等部门",
+        "onboard_time": 1765033224,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 404518,
+        "num": 404518,
+        "word": "得闲谨制 幕后制作王一博",
+        "onboard_time": 1765033524,
+        "rank": 16,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 240169,
+        "num": 401780,
+        "word": "木薯糖水中毒",
+        "onboard_time": 1765024041,
+        "rank": 17,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 195841,
+        "num": 401403,
+        "word": "小时候以为很贵却很便宜的东西",
+        "onboard_time": 1765024164,
+        "rank": 18,
+        "category": "情感,幽默"
+      },
+      {
+        "raw_hot": 191053,
+        "num": 398068,
+        "word": "红楼梦",
+        "onboard_time": 1765032625,
+        "rank": 19,
+        "category": "读书作家"
+      },
+      {
+        "raw_hot": 1250163,
+        "num": 394645,
+        "word": "尖叫之夜",
+        "onboard_time": 1765018101,
+        "rank": 20,
+        "category": "综艺,综艺"
+      },
+      {
+        "raw_hot": 71913,
+        "num": 390044,
+        "word": "律所招聘要求芝麻信用不低于730分",
+        "onboard_time": 1765033403,
+        "rank": 21,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 388983,
+        "num": 388983,
+        "word": "得闲谨制",
+        "onboard_time": 1765028664,
+        "rank": 22,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 684196,
+        "num": 386996,
+        "word": "辣妹虞书欣我笑纳了",
+        "onboard_time": 1765026084,
+        "rank": 23,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 461522,
+        "num": 386977,
+        "word": "杨幂 妈幂降临",
+        "onboard_time": 1765019783,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 383628,
+        "num": 383628,
+        "word": "小酒窝 白鹿",
+        "onboard_time": 1765030404,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 380818,
+        "num": 380818,
+        "word": "辛迪瑞拉",
+        "onboard_time": 1765030285,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 345460,
+        "num": 345460,
+        "word": "泰国女子产子后丢弃婴儿遭巨蜥啃食",
+        "onboard_time": 1765027466,
+        "rank": 27,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 507780,
+        "num": 341781,
+        "word": "虞书欣唱了小兰花角色歌",
+        "onboard_time": 1765031966,
+        "rank": 28,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 152375,
+        "num": 336916,
+        "word": "日本在与那国岛挖一锹土我军都能发现",
+        "onboard_time": 1765032986,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 346683,
+        "num": 336910,
+        "word": "刘宇宁藏了三包小饼干",
+        "onboard_time": 1765031845,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 335861,
+        "num": 335861,
+        "word": "常华森代露娃你们根本没解绑",
+        "onboard_time": 1765033403,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 231382,
+        "num": 231382,
+        "word": "有郭京飞这么给秦岚拎裙子的吗",
+        "onboard_time": 1765032265,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146297,
+        "num": 222221,
+        "word": "水库冰面下发现13匹冰冻马",
+        "onboard_time": 1765020562,
+        "rank": 33,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 145775,
+        "num": 221494,
+        "word": "孙颖莎是王楚钦全肯定",
+        "onboard_time": 1765027824,
+        "rank": 34,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 74182,
+        "num": 221328,
+        "word": "王者荣耀挑战者杯",
+        "onboard_time": 1765032025,
+        "rank": 35,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 221315,
+        "num": 221315,
+        "word": "苍兰诀失忆全场大合唱",
+        "onboard_time": 1765028904,
+        "rank": 36,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 209448,
+        "num": 209448,
+        "word": "赵今麦 好大气的五官",
+        "onboard_time": 1765018402,
+        "rank": 37,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 145079,
+        "num": 209443,
+        "word": "香港初步确定起火点大致位置",
+        "onboard_time": 1765026024,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 117149,
+        "num": 209279,
+        "word": "大量铜被运往美国",
+        "onboard_time": 1765029804,
+        "rank": 39,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 187517,
+        "num": 209269,
+        "word": "李一桐唱了TF四代的歌",
+        "onboard_time": 1765034185,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 179433,
+        "num": 209182,
+        "word": "无忧渡",
+        "onboard_time": 1765031666,
+        "rank": 41,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 168857,
+        "num": 209067,
+        "word": "檀健次直播",
+        "onboard_time": 1765031244,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 117667,
+        "num": 208936,
+        "word": "迪丽热巴好锋利的眼神变化",
+        "onboard_time": 1765033284,
+        "rank": 43,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 160148,
+        "num": 208861,
+        "word": "孟子义懵懵的好漂亮",
+        "onboard_time": 1765026084,
+        "rank": 44,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 106958,
+        "num": 208785,
+        "word": "游客偶遇用镜子反射光给大佛暖鼻子",
+        "onboard_time": 1765029804,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 106731,
+        "num": 208710,
+        "word": "阿斯顿维拉2比1阿森纳",
+        "onboard_time": 1765033703,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 99822,
+        "num": 208587,
+        "word": "陈梦以校长身份回校看望学子",
+        "onboard_time": 1765028964,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 90262,
+        "num": 208568,
+        "word": "中俄反导联合演习不针对第三方",
+        "onboard_time": 1765031845,
+        "rank": 48,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 88516,
+        "num": 208495,
+        "word": "妈妈复印的卷子我看不见",
+        "onboard_time": 1765031004,
+        "rank": 49,
+        "category": "幽默"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首外交佳话#"
+    }
+  }
+}
