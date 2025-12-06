@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765010013553,
+  "endTime": 1765010796845,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -379,6 +379,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 1283937,
+      "num": 457981,
+      "word": "林允红毯摔倒",
+      "onboard_time": 1765007481,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 1259028,
       "num": 1259028,
       "word": "新疆地震",
@@ -425,14 +433,6 @@
       "onboard_time": 1764581302,
       "rank": 8,
       "category": "突发/灾害"
-    },
-    {
-      "raw_hot": 1191535,
-      "num": 457981,
-      "word": "林允红毯摔倒",
-      "onboard_time": 1765007481,
-      "rank": 3,
-      "category": "综艺"
     },
     {
       "raw_hot": 1190318,
@@ -1299,20 +1299,20 @@
       "category": "数码"
     },
     {
+      "raw_hot": 617726,
+      "num": 444548,
+      "word": "赵晴瘦成纸片人了",
+      "onboard_time": 1765008502,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 616695,
       "num": 363005,
       "word": "婚房被改小三婴儿房",
       "onboard_time": 1764833540,
       "rank": 15,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 616168,
-      "num": 444548,
-      "word": "赵晴瘦成纸片人了",
-      "onboard_time": 1765008502,
-      "rank": 11,
-      "category": "综艺"
     },
     {
       "raw_hot": 615868,
@@ -1665,6 +1665,14 @@
       "onboard_time": 1764994579,
       "rank": 21,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 543639,
+      "num": 543639,
+      "word": "美军承认击落美军战机",
+      "onboard_time": 1765005800,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 543614,
@@ -2179,14 +2187,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 460751,
-      "num": 460751,
-      "word": "美军承认击落美军战机",
-      "onboard_time": 1765005800,
-      "rank": 36,
-      "category": "国际时政"
-    },
-    {
       "raw_hot": 459798,
       "num": 309812,
       "word": "建议不要把肉汤倒进下水道",
@@ -2675,6 +2675,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 406205,
+      "num": 363766,
+      "word": "宋祖儿粉色刺绣长裙",
+      "onboard_time": 1765008802,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 405166,
       "num": 225670,
       "word": "李嘉格男朋友是01年的",
@@ -3115,14 +3123,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 363766,
-      "num": 363766,
-      "word": "宋祖儿粉色刺绣长裙",
-      "onboard_time": 1765008802,
-      "rank": 20,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 363335,
       "num": 299021,
       "word": "巴奴新菜品 水性杨花",
@@ -3385,6 +3385,22 @@
       "onboard_time": 1764822383,
       "rank": 19,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 339443,
+      "num": 415020,
+      "word": "陈梦回应是否参加洛杉矶奥运会",
+      "onboard_time": 1765009163,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 338420,
+      "num": 452721,
+      "word": "应届生公考前得知被误录社保",
+      "onboard_time": 1765006522,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 337060,
@@ -3808,14 +3824,6 @@
       "word": "住客全季酒店洗完澡发现花洒有粪便",
       "onboard_time": 1764657560,
       "rank": 22,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 310094,
-      "num": 452721,
-      "word": "应届生公考前得知被误录社保",
-      "onboard_time": 1765006522,
-      "rank": 31,
       "category": "民生新闻"
     },
     {
@@ -4297,6 +4305,14 @@
       "onboard_time": 1764595764,
       "rank": 30,
       "category": "体育"
+    },
+    {
+      "raw_hot": 273732,
+      "num": 455512,
+      "word": "大湾区大学正式成立",
+      "onboard_time": 1765006221,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 273495,
@@ -4859,6 +4875,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 238330,
+      "num": 238330,
+      "word": "尖叫之夜红毯主持人",
+      "onboard_time": 1765009523,
+      "rank": 42,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 238128,
       "num": 238128,
       "word": "马克龙也喊孙颖莎莎莎",
@@ -5185,14 +5209,6 @@
       "onboard_time": 1764820702,
       "rank": 23,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 225152,
-      "num": 415020,
-      "word": "陈梦回应是否参加洛杉矶奥运会",
-      "onboard_time": 1765009163,
-      "rank": 17,
-      "category": "体育"
     },
     {
       "raw_hot": 224651,
@@ -5841,14 +5857,6 @@
       "onboard_time": 1764769523,
       "rank": 23,
       "category": "动漫"
-    },
-    {
-      "raw_hot": 203718,
-      "num": 455512,
-      "word": "大湾区大学正式成立",
-      "onboard_time": 1765006221,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 203701,
@@ -8379,14 +8387,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 154634,
-      "num": 116599,
-      "word": "尖叫之夜红毯主持人",
-      "onboard_time": 1765009523,
-      "rank": 42,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 154554,
       "num": 154554,
       "word": "甲流四个重症前兆症状",
@@ -8617,6 +8617,14 @@
       "onboard_time": 1764919040,
       "rank": 26,
       "category": "体育"
+    },
+    {
+      "raw_hot": 151546,
+      "num": 447529,
+      "word": "2025LPL全明星红毯",
+      "onboard_time": 1765009822,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 151502,
@@ -9172,7 +9180,7 @@
     },
     {
       "raw_hot": 142852,
-      "num": 175154,
+      "num": 193717,
       "word": "日本友人捐侵华日军家信内容残忍",
       "onboard_time": 1765007301,
       "rank": 29,
@@ -9273,6 +9281,14 @@
       "onboard_time": 1764743600,
       "rank": 19,
       "category": "体育"
+    },
+    {
+      "raw_hot": 141166,
+      "num": 141166,
+      "word": "艾米 气血充盈的美",
+      "onboard_time": 1765010242,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 141017,
@@ -9385,6 +9401,14 @@
       "onboard_time": 1764826521,
       "rank": 33,
       "category": "情感"
+    },
+    {
+      "raw_hot": 139494,
+      "num": 196652,
+      "word": "国乒男单男双各丢2分",
+      "onboard_time": 1765009044,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 139295,
@@ -9939,14 +9963,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 133299,
-      "num": 133299,
-      "word": "国乒男单男双各丢2分",
-      "onboard_time": 1765009044,
-      "rank": 34,
-      "category": "体育"
-    },
-    {
       "raw_hot": 133247,
       "num": 137988,
       "word": "带娃界来了个天才",
@@ -9993,14 +10009,6 @@
       "onboard_time": 1764589581,
       "rank": 32,
       "category": "作品衍生"
-    },
-    {
-      "raw_hot": 132749,
-      "num": 447529,
-      "word": "2025LPL全明星红毯",
-      "onboard_time": 1765009822,
-      "rank": 9,
-      "category": "电竞"
     },
     {
       "raw_hot": 132688,
@@ -10409,6 +10417,14 @@
       "onboard_time": 1764765201,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 128650,
+      "num": 209658,
+      "word": "王楚钦孙颖莎这一球对手教练沉默了",
+      "onboard_time": 1765005741,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 128632,
@@ -10833,14 +10849,6 @@
       "onboard_time": 1764727881,
       "rank": 31,
       "category": "互联网"
-    },
-    {
-      "raw_hot": 123518,
-      "num": 209658,
-      "word": "王楚钦孙颖莎这一球对手教练沉默了",
-      "onboard_time": 1765005741,
-      "rank": 34,
-      "category": "体育"
     },
     {
       "raw_hot": 123497,
@@ -12412,7 +12420,7 @@
     },
     {
       "raw_hot": 108817,
-      "num": 108817,
+      "num": 150275,
       "word": "ChatGPT评21世纪最伟大运动员",
       "onboard_time": 1765008442,
       "rank": 45,
@@ -12788,7 +12796,7 @@
     },
     {
       "raw_hot": 105557,
-      "num": 105557,
+      "num": 117487,
       "word": "国乒战胜日本收获8连胜",
       "onboard_time": 1765009943,
       "rank": 48,
@@ -14675,6 +14683,14 @@
       "category": "数码"
     },
     {
+      "raw_hot": 88559,
+      "num": 143111,
+      "word": "武则天半价外卖主理人",
+      "onboard_time": 1765008082,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 88453,
       "num": 88453,
       "word": "以为很懒其实很健康的行为",
@@ -14793,6 +14809,14 @@
       "onboard_time": 1764768622,
       "rank": 38,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 87261,
+      "num": 117587,
+      "word": "广东汕头一餐馆张贴歧视外卖员告示",
+      "onboard_time": 1765007061,
+      "rank": 46,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 87098,
@@ -16891,6 +16915,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 55795,
+      "num": 369158,
+      "word": "镇领导称机械式考核逼着他们造假",
+      "onboard_time": 1765008923,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55728,
       "num": 55728,
       "word": "宋佳获金狮大赏最佳女主角",
@@ -16939,6 +16971,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 55092,
+      "num": 147951,
+      "word": "娜扎姐姐颜值",
+      "onboard_time": 1765009822,
+      "rank": 38,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 55047,
       "num": 79363,
       "word": "李在明称不会在中日选边站",
@@ -16953,6 +16993,14 @@
       "onboard_time": 1764923782,
       "rank": 44,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54489,
+      "num": 123795,
+      "word": "多方回应男子掉进粉碎机身亡",
+      "onboard_time": 1765009222,
+      "rank": 36,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 54418,
@@ -17337,14 +17385,6 @@
       "onboard_time": 1764950061,
       "rank": 47,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 47066,
-      "num": 122835,
-      "word": "武则天半价外卖主理人",
-      "onboard_time": 1765008082,
-      "rank": 39,
-      "category": "互联网"
     },
     {
       "raw_hot": 47005,
@@ -17996,7 +18036,7 @@
     },
     {
       "raw_hot": 39623,
-      "num": 123544,
+      "num": 145966,
       "word": "沙溢胡可秀恩爱",
       "onboard_time": 1765009822,
       "rank": 37,
@@ -18139,6 +18179,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 37826,
+      "num": 248622,
+      "word": "雅迪新国标车原来这么多",
+      "onboard_time": 1765010063,
+      "rank": 15,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37763,
       "num": 686914,
       "word": "2025宪法宣传周",
@@ -18160,14 +18208,6 @@
       "word": "全网最忙五人组造假装都懒得装了",
       "onboard_time": 1765005381,
       "rank": 38,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 37582,
-      "num": 123795,
-      "word": "多方回应男子掉进粉碎机身亡",
-      "onboard_time": 1765009222,
-      "rank": 36,
       "category": "民生新闻"
     },
     {
@@ -18248,14 +18288,6 @@
       "word": "宝妈称网购爱他美奶粉开罐后变面粉",
       "onboard_time": 1765002020,
       "rank": 39,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 35679,
-      "num": 369158,
-      "word": "镇领导称机械式考核逼着他们造假",
-      "onboard_time": 1765008923,
-      "rank": 19,
       "category": "民生新闻"
     },
     {
@@ -18841,14 +18873,6 @@
       "onboard_time": 1764739342,
       "rank": 22,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 27736,
-      "num": 123295,
-      "word": "娜扎姐姐颜值",
-      "onboard_time": 1765009822,
-      "rank": 38,
-      "category": "艺人"
     },
     {
       "raw_hot": 27413,

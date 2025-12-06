@@ -1,0 +1,410 @@
+{
+  "runTime": 1765010796845,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2652450,
+        "num": 2652450,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1765003762,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 543639,
+        "num": 543639,
+        "word": "美军承认击落美军战机",
+        "onboard_time": 1765005800,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 5707,
+        "num": 352733,
+        "word": "做好6件事保护呼吸道",
+        "onboard_time": 1764924321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 1283937,
+        "num": 313400,
+        "word": "林允红毯摔倒",
+        "onboard_time": 1765007481,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 273732,
+        "num": 273732,
+        "word": "大湾区大学正式成立",
+        "onboard_time": 1765006221,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 692414,
+        "num": 272990,
+        "word": "大家好我是尹正我演鬼子",
+        "onboard_time": 1765002561,
+        "rank": 5,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 338420,
+        "num": 270307,
+        "word": "应届生公考前得知被误录社保",
+        "onboard_time": 1765006522,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 151546,
+        "num": 268214,
+        "word": "2025LPL全明星红毯",
+        "onboard_time": 1765009822,
+        "rank": 7,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 142507,
+        "num": 265476,
+        "word": "南京大屠杀日军信中称真痛快",
+        "onboard_time": 1764992600,
+        "rank": 8,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 139275,
+        "num": 263823,
+        "word": "泰兰尼斯童鞋卖600万双营收30亿",
+        "onboard_time": 1765004421,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 806076,
+        "num": 259709,
+        "word": "杨幂 C位",
+        "onboard_time": 1765006341,
+        "rank": 10,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 617726,
+        "num": 257412,
+        "word": "赵晴瘦成纸片人了",
+        "onboard_time": 1765008502,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 485166,
+        "num": 255239,
+        "word": "尖叫之夜红毯顺序",
+        "onboard_time": 1765008261,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 460177,
+        "num": 254486,
+        "word": "陈梦奶奶和黄晓明奶奶是亲姐妹",
+        "onboard_time": 1765006760,
+        "rank": 13,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 406205,
+        "num": 251384,
+        "word": "宋祖儿粉色刺绣长裙",
+        "onboard_time": 1765008802,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 37826,
+        "num": 248622,
+        "word": "雅迪新国标车原来这么多",
+        "onboard_time": 1765010063,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 339443,
+        "num": 246476,
+        "word": "陈梦回应是否参加洛杉矶奥运会",
+        "onboard_time": 1765009163,
+        "rank": 16,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 245200,
+        "num": 245200,
+        "word": "樊振东 我这西语还可以吗",
+        "onboard_time": 1765007842,
+        "rank": 17,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 165957,
+        "num": 244349,
+        "word": "微信上的这个人戒烟了",
+        "onboard_time": 1764999441,
+        "rank": 18,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 138811,
+        "num": 243424,
+        "word": "国乒战胜日本",
+        "onboard_time": 1765003281,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 386644,
+        "num": 242774,
+        "word": "十个勤天整整齐齐穿西装",
+        "onboard_time": 1765008202,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 375346,
+        "num": 241414,
+        "word": "白鹿在逃黑天鹅",
+        "onboard_time": 1764998662,
+        "rank": 21,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 288596,
+        "num": 241133,
+        "word": "王楚然 珍珠美人",
+        "onboard_time": 1765002622,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 282393,
+        "num": 239918,
+        "word": "建议气血不足的人每天拍臀",
+        "onboard_time": 1765005621,
+        "rank": 23,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 248920,
+        "num": 238627,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 24,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 238330,
+        "num": 238330,
+        "word": "尖叫之夜红毯主持人",
+        "onboard_time": 1765009523,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205983,
+        "num": 205983,
+        "word": "徐若晗撞衫田曦薇",
+        "onboard_time": 1764993442,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 139494,
+        "num": 196652,
+        "word": "国乒男单男双各丢2分",
+        "onboard_time": 1765009044,
+        "rank": 27,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 138377,
+        "num": 193717,
+        "word": "日本友人捐侵华日军家信内容残忍",
+        "onboard_time": 1765007301,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 105991,
+        "num": 191173,
+        "word": "为什么马克龙访华要看都江堰",
+        "onboard_time": 1765004421,
+        "rank": 29,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 191098,
+        "num": 191098,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 30,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 182826,
+        "num": 182826,
+        "word": "原来还有眼癌这一说",
+        "onboard_time": 1765008802,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 167845,
+        "num": 167845,
+        "word": "李兰迪敖瑞鹏合唱了此爱",
+        "onboard_time": 1764998181,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 158436,
+        "num": 158436,
+        "word": "田曦薇 豹纹小猫",
+        "onboard_time": 1764996680,
+        "rank": 33,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 55795,
+        "num": 155870,
+        "word": "镇领导称机械式考核逼着他们造假",
+        "onboard_time": 1765008923,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 128650,
+        "num": 155467,
+        "word": "王楚钦孙颖莎这一球对手教练沉默了",
+        "onboard_time": 1765005741,
+        "rank": 35,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102792,
+        "num": 150275,
+        "word": "ChatGPT评21世纪最伟大运动员",
+        "onboard_time": 1765008442,
+        "rank": 36,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 55092,
+        "num": 147951,
+        "word": "娜扎姐姐颜值",
+        "onboard_time": 1765009822,
+        "rank": 37,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 32142,
+        "num": 145966,
+        "word": "沙溢胡可秀恩爱",
+        "onboard_time": 1765009822,
+        "rank": 38,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 88559,
+        "num": 143111,
+        "word": "武则天半价外卖主理人",
+        "onboard_time": 1765008082,
+        "rank": 39,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 141166,
+        "num": 141166,
+        "word": "艾米 气血充盈的美",
+        "onboard_time": 1765010242,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 133202,
+        "num": 133202,
+        "word": "徐若晗换礼服了",
+        "onboard_time": 1765005021,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 131814,
+        "num": 131814,
+        "word": "吴宣仪正脸图呢",
+        "onboard_time": 1765005859,
+        "rank": 42,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 120574,
+        "num": 120574,
+        "word": "常华森 灰衣服绿内搭",
+        "onboard_time": 1765004361,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 117676,
+        "num": 117676,
+        "word": "檀健次 无惧顶光",
+        "onboard_time": 1765003581,
+        "rank": 44,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 54489,
+        "num": 117645,
+        "word": "多方回应男子掉进粉碎机身亡",
+        "onboard_time": 1765009222,
+        "rank": 45,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 87261,
+        "num": 117587,
+        "word": "广东汕头一餐馆张贴歧视外卖员告示",
+        "onboard_time": 1765007061,
+        "rank": 46,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 83839,
+        "num": 117568,
+        "word": "iPhone16登顶三季度畅销榜",
+        "onboard_time": 1765005321,
+        "rank": 47,
+        "category": "数码"
+      },
+      {
+        "raw_hot": 82933,
+        "num": 117516,
+        "word": "日本抓到一只380公斤巨型棕熊",
+        "onboard_time": 1764999441,
+        "rank": 48,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 81751,
+        "num": 117487,
+        "word": "国乒战胜日本收获8连胜",
+        "onboard_time": 1765009943,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首交流互动的经典瞬间#"
+    }
+  }
+}
