@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1764999773215,
+  "endTime": 1765003064742,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -107,11 +107,19 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 552972,
-      "num": 308200,
+      "raw_hot": 575581,
+      "num": 358223,
       "word": "白鹿在逃黑天鹅",
       "onboard_time": 1764998662,
       "rank": 41,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 556911,
+      "num": 556911,
+      "word": "白鹿曾舜晞十指相扣好自然",
+      "onboard_time": 1765001780,
+      "rank": 3,
       "category": "综艺"
     },
     {
@@ -156,7 +164,7 @@
     },
     {
       "raw_hot": 495671,
-      "num": 302868,
+      "num": 308046,
       "word": "肖战演技",
       "onboard_time": 1764996799,
       "rank": 13,
@@ -179,12 +187,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 457629,
+      "num": 356385,
+      "word": "得闲谨制票房",
+      "onboard_time": 1765001300,
+      "rank": 11,
+      "category": "电影"
+    },
+    {
+      "raw_hot": 420903,
+      "num": 351873,
+      "word": "微信上的这个人戒烟了",
+      "onboard_time": 1764999441,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 410496,
       "num": 230470,
       "word": "王者荣耀 疯狂动物城",
       "onboard_time": 1764985221,
       "rank": 16,
       "category": "电影,游戏"
+    },
+    {
+      "raw_hot": 400905,
+      "num": 400905,
+      "word": "国乒vs日本",
+      "onboard_time": 1764995362,
+      "rank": 39,
+      "category": "体育"
     },
     {
       "raw_hot": 396158,
@@ -235,14 +267,6 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 355511,
-      "num": 355511,
-      "word": "国乒vs日本",
-      "onboard_time": 1764995362,
-      "rank": 39,
-      "category": "体育"
-    },
-    {
       "raw_hot": 353939,
       "num": 353939,
       "word": "杨超越锁骨发",
@@ -252,7 +276,7 @@
     },
     {
       "raw_hot": 346423,
-      "num": 234656,
+      "num": 254201,
       "word": "田曦薇 豹纹小猫",
       "onboard_time": 1764996680,
       "rank": 24,
@@ -275,6 +299,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 322112,
+      "num": 365019,
+      "word": "男子掉入粉碎机身亡系维修未断电",
+      "onboard_time": 1765000642,
+      "rank": 7,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 311401,
       "num": 118826,
       "word": "阚清子下台阶老公贴心搀扶",
@@ -292,7 +324,7 @@
     },
     {
       "raw_hot": 302317,
-      "num": 302317,
+      "num": 344808,
       "word": "二战战犯孙子正重掌日本兵权",
       "onboard_time": 1764998241,
       "rank": 18,
@@ -443,12 +475,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 226392,
+      "num": 226392,
+      "word": "单亲妈妈同时相亲63岁与29岁男",
+      "onboard_time": 1764999619,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 224591,
+      "num": 224591,
+      "word": "尖叫之夜海报站位",
+      "onboard_time": 1765001901,
+      "rank": 30,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 223255,
       "num": 708916,
       "word": "仙剑奇侠传三动画定档",
       "onboard_time": 1764992300,
       "rank": 8,
       "category": "动漫"
+    },
+    {
+      "raw_hot": 219948,
+      "num": 219948,
+      "word": "大家好我是尹正我演鬼子",
+      "onboard_time": 1765002561,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 219309,
@@ -465,6 +521,22 @@
       "onboard_time": 1764943283,
       "rank": 21,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 213192,
+      "num": 213192,
+      "word": "王楚然 珍珠美人",
+      "onboard_time": 1765002622,
+      "rank": 32,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 210856,
+      "num": 338211,
+      "word": "吃商届来了个天才",
+      "onboard_time": 1765002200,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 207241,
@@ -523,6 +595,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 196477,
+      "num": 196477,
+      "word": "小力士第一名",
+      "onboard_time": 1765001961,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 192546,
       "num": 309796,
       "word": "吴敬平说樊振东的技术永远多一板",
@@ -555,12 +635,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 190914,
+      "num": 332261,
+      "word": "王楚钦林诗栋vs篠塚大登户上隼辅",
+      "onboard_time": 1765000461,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 189354,
+      "num": 326589,
+      "word": "放了很久的羊毛衫让我颜面尽失",
+      "onboard_time": 1765001780,
+      "rank": 19,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 186739,
       "num": 186739,
       "word": "时代少年团卫衣 贵",
       "onboard_time": 1764940703,
       "rank": 14,
       "category": "作品衍生"
+    },
+    {
+      "raw_hot": 186539,
+      "num": 186539,
+      "word": "父亲让女儿把自己身价放低些",
+      "onboard_time": 1765002142,
+      "rank": 36,
+      "category": "综艺"
     },
     {
       "raw_hot": 186423,
@@ -627,14 +731,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 180598,
-      "num": 180598,
-      "word": "单亲妈妈同时相亲63岁与29岁男",
-      "onboard_time": 1764999619,
-      "rank": 31,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 179240,
       "num": 179240,
       "word": "仅用0秒就get到改编歌的权威了",
@@ -651,6 +747,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 176471,
+      "num": 176471,
+      "word": "陈妍希确定不是20吗",
+      "onboard_time": 1765002500,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 174987,
       "num": 220170,
       "word": "厂二代父亲无差别攻击老婆女儿",
@@ -659,12 +763,36 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 174129,
+      "num": 174129,
+      "word": "吴尊爱女如养花的具象化",
+      "onboard_time": 1764999741,
+      "rank": 46,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 171224,
       "num": 171224,
       "word": "东莞小学女生校内受伤流血家长报警",
       "onboard_time": 1764980059,
       "rank": 15,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 170663,
+      "num": 224728,
+      "word": "老版1元人民币的女子已经65岁了",
+      "onboard_time": 1765001601,
+      "rank": 28,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 166115,
+      "num": 363056,
+      "word": "梁靖崑1比2松岛辉空",
+      "onboard_time": 1765000701,
+      "rank": 8,
+      "category": "体育"
     },
     {
       "raw_hot": 165619,
@@ -707,6 +835,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 158309,
+      "num": 158309,
+      "word": "得闲谨制票房倒挂",
+      "onboard_time": 1765002921,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 156636,
       "num": 156636,
       "word": "何瑞贤第一次帮粉丝带ID很紧张",
@@ -740,19 +876,19 @@
     },
     {
       "raw_hot": 155321,
-      "num": 155321,
+      "num": 198615,
       "word": "日本抓到一只380公斤巨型棕熊",
       "onboard_time": 1764999441,
       "rank": 32,
       "category": "海外新闻"
     },
     {
-      "raw_hot": 155195,
-      "num": 155195,
-      "word": "微信上的这个人戒烟了",
-      "onboard_time": 1764999441,
-      "rank": 33,
-      "category": "情感"
+      "raw_hot": 153313,
+      "num": 153313,
+      "word": "传下去李一桐上岸了",
+      "onboard_time": 1765002321,
+      "rank": 45,
+      "category": "艺人"
     },
     {
       "raw_hot": 151322,
@@ -761,6 +897,14 @@
       "onboard_time": 1764977298,
       "rank": 22,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 150551,
+      "num": 362081,
+      "word": "混团世界杯",
+      "onboard_time": 1765000281,
+      "rank": 9,
+      "category": "体育"
     },
     {
       "raw_hot": 149885,
@@ -784,6 +928,14 @@
       "word": "马克龙喊孙颖莎打乒乓球",
       "onboard_time": 1764942022,
       "rank": 8,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 147319,
+      "num": 202668,
+      "word": "国乒混双让日本队望球兴叹",
+      "onboard_time": 1765001540,
+      "rank": 33,
       "category": "体育"
     },
     {
@@ -851,6 +1003,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 140189,
+      "num": 179857,
+      "word": "在邪修出现前我们管这种人叫做天才",
+      "onboard_time": 1765002800,
+      "rank": 37,
+      "category": "幽默"
+    },
+    {
       "raw_hot": 138191,
       "num": 138191,
       "word": "得闲谨制清算两部抗日新片对打",
@@ -897,6 +1057,14 @@
       "onboard_time": 1764990020,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 135640,
+      "num": 176941,
+      "word": "刘雨辰黄雅琼衢州婚礼",
+      "onboard_time": 1765002261,
+      "rank": 38,
+      "category": "体育"
     },
     {
       "raw_hot": 135191,
@@ -1003,14 +1171,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 124230,
-      "num": 124230,
-      "word": "吴尊爱女如养花的具象化",
-      "onboard_time": 1764999741,
-      "rank": 46,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 123711,
       "num": 123711,
       "word": "老自一杯 老己一杯",
@@ -1033,6 +1193,14 @@
       "onboard_time": 1764947003,
       "rank": 19,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 119556,
+      "num": 119556,
+      "word": "国乒男双1比2日本组合",
+      "onboard_time": 1765002800,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 119387,
@@ -1115,6 +1283,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 111508,
+      "num": 111508,
+      "word": "王迅院士弟弟是两院院士王选",
+      "onboard_time": 1765001841,
+      "rank": 47,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 111404,
+      "num": 111404,
+      "word": "豆包手机10分钟帮用户投30份简历",
+      "onboard_time": 1765002622,
+      "rank": 48,
+      "category": "数码"
+    },
+    {
       "raw_hot": 111191,
       "num": 136256,
       "word": "闪耀暖暖",
@@ -1129,6 +1313,14 @@
       "onboard_time": 1764980180,
       "rank": 30,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 108930,
+      "num": 108930,
+      "word": "XYG挑杯淘汰",
+      "onboard_time": 1765002680,
+      "rank": 49,
+      "category": "电竞"
     },
     {
       "raw_hot": 108639,
@@ -1249,6 +1441,14 @@
       "onboard_time": 1764984919,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 91928,
+      "num": 224627,
+      "word": "AI带娃三个多月孩子厌学了",
+      "onboard_time": 1765002861,
+      "rank": 29,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90468,
@@ -1803,6 +2003,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 38100,
+      "num": 348801,
+      "word": "王嘉尔官宣世巡北美站",
+      "onboard_time": 1765000881,
+      "rank": 14,
+      "category": "演出"
+    },
+    {
       "raw_hot": 37187,
       "num": 39078,
       "word": "36岁快男遭中国唱将淘汰",
@@ -1811,12 +2019,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 36694,
+      "num": 309123,
+      "word": "鞠婧祎开箱过冬套装",
+      "onboard_time": 1764997521,
+      "rank": 10,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 36457,
       "num": 150393,
       "word": "保罗训练不停歇",
       "onboard_time": 1764998420,
       "rank": 38,
       "category": "体育"
+    },
+    {
+      "raw_hot": 36170,
+      "num": 176563,
+      "word": "宝妈称网购爱他美奶粉开罐后变面粉",
+      "onboard_time": 1765002020,
+      "rank": 39,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 35275,
@@ -1849,14 +2073,6 @@
       "onboard_time": 1764976757,
       "rank": 41,
       "category": "财经"
-    },
-    {
-      "raw_hot": 31742,
-      "num": 309123,
-      "word": "鞠婧祎开箱过冬套装",
-      "onboard_time": 1764997521,
-      "rank": 10,
-      "category": "艺人"
     },
     {
       "raw_hot": 30489,
@@ -1995,8 +2211,8 @@
       "category": "汽车"
     },
     {
-      "raw_hot": 4648,
-      "num": 494720,
+      "raw_hot": 7660,
+      "num": 613789,
       "word": "做好6件事保护呼吸道",
       "onboard_time": 1764924321,
       "rank": 2,
