@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765006690878,
+  "endTime": 1765010013553,
   "band_list": [
     {
       "raw_hot": 3572813,
@@ -17,6 +17,14 @@
       "onboard_time": 1765002561,
       "rank": 31,
       "category": "电影"
+    },
+    {
+      "raw_hot": 1191535,
+      "num": 457981,
+      "word": "林允红毯摔倒",
+      "onboard_time": 1765007481,
+      "rank": 3,
+      "category": "综艺"
     },
     {
       "raw_hot": 1033634,
@@ -67,6 +75,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 882234,
+      "num": 445487,
+      "word": "杨幂 C位",
+      "onboard_time": 1765006341,
+      "rank": 16,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 855019,
       "num": 538758,
       "word": "张雪峰复播后仍污言秽语",
@@ -105,6 +121,14 @@
       "onboard_time": 1764992000,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 616168,
+      "num": 444548,
+      "word": "赵晴瘦成纸片人了",
+      "onboard_time": 1765008502,
+      "rank": 11,
+      "category": "综艺"
     },
     {
       "raw_hot": 612019,
@@ -163,6 +187,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 524976,
+      "num": 442042,
+      "word": "陈梦奶奶和黄晓明奶奶是亲姐妹",
+      "onboard_time": 1765006760,
+      "rank": 12,
+      "category": "艺人,体育"
+    },
+    {
       "raw_hot": 516343,
       "num": 957824,
       "word": "南京大屠杀日军信中称真痛快",
@@ -177,6 +209,14 @@
       "onboard_time": 1764953899,
       "rank": 30,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 503755,
+      "num": 438479,
+      "word": "尖叫之夜红毯顺序",
+      "onboard_time": 1765008261,
+      "rank": 14,
+      "category": "综艺"
     },
     {
       "raw_hot": 495671,
@@ -203,12 +243,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 460751,
+      "num": 460751,
+      "word": "美军承认击落美军战机",
+      "onboard_time": 1765005800,
+      "rank": 36,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 457629,
       "num": 356385,
       "word": "得闲谨制票房",
       "onboard_time": 1765001300,
       "rank": 11,
       "category": "电影"
+    },
+    {
+      "raw_hot": 437648,
+      "num": 437648,
+      "word": "十个勤天整整齐齐穿西装",
+      "onboard_time": 1765008202,
+      "rank": 15,
+      "category": "综艺"
     },
     {
       "raw_hot": 423077,
@@ -236,7 +292,7 @@
     },
     {
       "raw_hot": 407723,
-      "num": 279719,
+      "num": 344559,
       "word": "王楚然 珍珠美人",
       "onboard_time": 1765002622,
       "rank": 32,
@@ -291,6 +347,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 363766,
+      "num": 363766,
+      "word": "宋祖儿粉色刺绣长裙",
+      "onboard_time": 1765008802,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 355773,
       "num": 379723,
       "word": "马克龙说此行只有一个遗憾",
@@ -331,6 +395,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 341056,
+      "num": 341056,
+      "word": "建议气血不足的人每天拍臀",
+      "onboard_time": 1765005621,
+      "rank": 21,
+      "category": "健康医疗"
+    },
+    {
       "raw_hot": 335612,
       "num": 263277,
       "word": "杨幂爱奇艺尖叫之夜海报C位",
@@ -363,12 +435,12 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 310231,
-      "num": 227131,
-      "word": "建议气血不足的人每天拍臀",
-      "onboard_time": 1765005621,
-      "rank": 21,
-      "category": "健康医疗"
+      "raw_hot": 310094,
+      "num": 452721,
+      "word": "应届生公考前得知被误录社保",
+      "onboard_time": 1765006522,
+      "rank": 31,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 304229,
@@ -385,6 +457,14 @@
       "onboard_time": 1764998241,
       "rank": 18,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 298011,
+      "num": 426647,
+      "word": "樊振东 我这西语还可以吗",
+      "onboard_time": 1765007842,
+      "rank": 16,
+      "category": "体育"
     },
     {
       "raw_hot": 293183,
@@ -468,19 +548,11 @@
     },
     {
       "raw_hot": 249140,
-      "num": 336725,
+      "num": 439876,
       "word": "豆包手机",
       "onboard_time": 1764989240,
       "rank": 24,
       "category": "数码"
-    },
-    {
-      "raw_hot": 248662,
-      "num": 220461,
-      "word": "杨幂 C位",
-      "onboard_time": 1765006341,
-      "rank": 16,
-      "category": "综艺"
     },
     {
       "raw_hot": 247800,
@@ -563,6 +635,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 225152,
+      "num": 415020,
+      "word": "陈梦回应是否参加洛杉矶奥运会",
+      "onboard_time": 1765009163,
+      "rank": 17,
+      "category": "体育"
+    },
+    {
       "raw_hot": 224591,
       "num": 224591,
       "word": "尖叫之夜海报站位",
@@ -633,6 +713,14 @@
       "onboard_time": 1764947182,
       "rank": 13,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 203718,
+      "num": 455512,
+      "word": "大湾区大学正式成立",
+      "onboard_time": 1765006221,
+      "rank": 49,
+      "category": "教育"
     },
     {
       "raw_hot": 202809,
@@ -803,6 +891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183696,
+      "num": 183696,
+      "word": "原来还有眼癌这一说",
+      "onboard_time": 1765008802,
+      "rank": 27,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 183574,
       "num": 159102,
       "word": "檀健次 无惧顶光",
@@ -835,6 +931,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 181950,
+      "num": 384069,
+      "word": "国乒战胜日本",
+      "onboard_time": 1765003281,
+      "rank": 18,
+      "category": "体育"
+    },
+    {
       "raw_hot": 181618,
       "num": 151026,
       "word": "这样玩手机严重可能失明",
@@ -865,14 +969,6 @@
       "onboard_time": 1764994401,
       "rank": 31,
       "category": "幽默"
-    },
-    {
-      "raw_hot": 178452,
-      "num": 178452,
-      "word": "美军承认击落美军战机",
-      "onboard_time": 1765005800,
-      "rank": 36,
-      "category": "国际时政"
     },
     {
       "raw_hot": 178205,
@@ -1035,6 +1131,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 155699,
+      "num": 119353,
+      "word": "成毅请的烤全羊",
+      "onboard_time": 1765008981,
+      "rank": 41,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 155657,
       "num": 155657,
       "word": "多地通报疑似虚假人名凑数质疑",
@@ -1049,6 +1153,14 @@
       "onboard_time": 1764999441,
       "rank": 32,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 154634,
+      "num": 116599,
+      "word": "尖叫之夜红毯主持人",
+      "onboard_time": 1765009523,
+      "rank": 42,
+      "category": "综艺"
     },
     {
       "raw_hot": 153313,
@@ -1139,6 +1251,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 145902,
+      "num": 448521,
+      "word": "泰兰尼斯童鞋卖600万双营收30亿",
+      "onboard_time": 1765004421,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 144238,
       "num": 429289,
       "word": "王楚钦孙颖莎vs户上隼辅张本美和",
@@ -1161,6 +1281,14 @@
       "onboard_time": 1765003762,
       "rank": 38,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 142852,
+      "num": 175154,
+      "word": "日本友人捐侵华日军家信内容残忍",
+      "onboard_time": 1765007301,
+      "rank": 29,
+      "category": "国内时政"
     },
     {
       "raw_hot": 142215,
@@ -1275,12 +1403,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 133299,
+      "num": 133299,
+      "word": "国乒男单男双各丢2分",
+      "onboard_time": 1765009044,
+      "rank": 34,
+      "category": "体育"
+    },
+    {
       "raw_hot": 132841,
       "num": 132841,
       "word": "刘宇宁澳门逛街",
       "onboard_time": 1764990500,
       "rank": 31,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 132749,
+      "num": 447529,
+      "word": "2025LPL全明星红毯",
+      "onboard_time": 1765009822,
+      "rank": 9,
+      "category": "电竞"
     },
     {
       "raw_hot": 132434,
@@ -1329,6 +1473,14 @@
       "onboard_time": 1764993501,
       "rank": 44,
       "category": "财经"
+    },
+    {
+      "raw_hot": 130129,
+      "num": 175033,
+      "word": "最难抢的东西出现了",
+      "onboard_time": 1765008382,
+      "rank": 30,
+      "category": "幽默"
     },
     {
       "raw_hot": 129883,
@@ -1531,6 +1683,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 108817,
+      "num": 108817,
+      "word": "ChatGPT评21世纪最伟大运动员",
+      "onboard_time": 1765008442,
+      "rank": 45,
+      "category": "体育"
+    },
+    {
       "raw_hot": 108639,
       "num": 97277,
       "word": "电影得闲谨制上座率",
@@ -1563,6 +1723,14 @@
       "category": "幽默"
     },
     {
+      "raw_hot": 105557,
+      "num": 105557,
+      "word": "国乒战胜日本收获8连胜",
+      "onboard_time": 1765009943,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 105365,
       "num": 105365,
       "word": "阿富汗巴基斯坦交火",
@@ -1587,6 +1755,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 104267,
+      "num": 104267,
+      "word": "00后失传的做饭公式",
+      "onboard_time": 1765007721,
+      "rank": 49,
+      "category": "美食"
+    },
+    {
       "raw_hot": 103326,
       "num": 103326,
       "word": "黄仁勋称华为史上最强科技公司之一",
@@ -1609,14 +1785,6 @@
       "onboard_time": 1764982220,
       "rank": 47,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 101821,
-      "num": 120441,
-      "word": "大湾区大学正式成立",
-      "onboard_time": 1765006221,
-      "rank": 49,
-      "category": "教育"
     },
     {
       "raw_hot": 101095,
@@ -1971,14 +2139,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 65577,
-      "num": 248524,
-      "word": "泰兰尼斯童鞋卖600万双营收30亿",
-      "onboard_time": 1765004421,
-      "rank": 46,
-      "category": "财经"
-    },
-    {
       "raw_hot": 64748,
       "num": 192178,
       "word": "iRobot爆雷欠中国代工厂超25亿元",
@@ -2139,6 +2299,14 @@
       "category": "电竞"
     },
     {
+      "raw_hot": 47066,
+      "num": 122835,
+      "word": "武则天半价外卖主理人",
+      "onboard_time": 1765008082,
+      "rank": 39,
+      "category": "互联网"
+    },
+    {
       "raw_hot": 47003,
       "num": 111306,
       "word": "马克龙访问四川大学",
@@ -2235,6 +2403,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 39623,
+      "num": 123544,
+      "word": "沙溢胡可秀恩爱",
+      "onboard_time": 1765009822,
+      "rank": 37,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 39463,
       "num": 59469,
       "word": "吴千语直播时赶施伯雄走",
@@ -2275,6 +2451,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 37582,
+      "num": 123795,
+      "word": "多方回应男子掉进粉碎机身亡",
+      "onboard_time": 1765009222,
+      "rank": 36,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 37187,
       "num": 39078,
       "word": "36岁快男遭中国唱将淘汰",
@@ -2299,12 +2483,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 35679,
+      "num": 369158,
+      "word": "镇领导称机械式考核逼着他们造假",
+      "onboard_time": 1765008923,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 35275,
       "num": 151001,
       "word": "67岁麦当娜街拍状态",
       "onboard_time": 1764996023,
       "rank": 37,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 35059,
+      "num": 113802,
+      "word": "瑞银称今年全球有2919名亿万富翁",
+      "onboard_time": 1765007721,
+      "rank": 43,
+      "category": "财经"
     },
     {
       "raw_hot": 33627,
@@ -2361,6 +2561,14 @@
       "onboard_time": 1765005260,
       "rank": 37,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 27736,
+      "num": 123295,
+      "word": "娜扎姐姐颜值",
+      "onboard_time": 1765009822,
+      "rank": 38,
+      "category": "艺人"
     },
     {
       "raw_hot": 26885,
@@ -2481,14 +2689,6 @@
       "onboard_time": 1764964094,
       "rank": 47,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 10861,
-      "num": 166170,
-      "word": "应届生公考前得知被误录社保",
-      "onboard_time": 1765006522,
-      "rank": 31,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 10637,
