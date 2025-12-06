@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765038733899,
+  "endTime": 1765039532059,
   "band_list": [
     {
       "raw_hot": 4021201,
@@ -8,6 +8,22 @@
       "word": "杨幂尖叫年度演员",
       "onboard_time": 1765037902,
       "rank": 3,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2802066,
+      "num": 2802066,
+      "word": "爱奇艺道歉",
+      "onboard_time": 1765037902,
+      "rank": 11,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 2424268,
+      "num": 308582,
+      "word": "白鹿尖叫女演员",
+      "onboard_time": 1765037182,
+      "rank": 9,
       "category": "综艺"
     },
     {
@@ -27,27 +43,11 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 1073597,
-      "num": 308582,
-      "word": "白鹿尖叫女演员",
-      "onboard_time": 1765037182,
-      "rank": 9,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 928867,
       "num": 306176,
       "word": "尖叫之夜 无聊",
       "onboard_time": 1765035983,
       "rank": 10,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 912570,
-      "num": 304230,
-      "word": "爱奇艺道歉",
-      "onboard_time": 1765037902,
-      "rank": 11,
       "category": "综艺"
     },
     {
@@ -63,6 +63,14 @@
       "num": 301433,
       "word": "张凌赫晒与刘宇宁周柯宇合照",
       "onboard_time": 1765036764,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 528316,
+      "num": 232082,
+      "word": "爱奇艺把刘诗诗的奖换成了白鹿",
+      "onboard_time": 1765039280,
       "rank": 13,
       "category": "综艺"
     },
@@ -121,6 +129,14 @@
       "onboard_time": 1765028605,
       "rank": 6,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 293456,
+      "num": 217670,
+      "word": "泰国弃婴遭巨蜥啃食",
+      "onboard_time": 1765037062,
+      "rank": 33,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 285211,
@@ -187,8 +203,8 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 210796,
-      "num": 210796,
+      "raw_hot": 212320,
+      "num": 212320,
       "word": "李兰迪替敖瑞鹏剧宣",
       "onboard_time": 1765037482,
       "rank": 36,
@@ -275,20 +291,20 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 136302,
-      "num": 217670,
-      "word": "泰国弃婴遭巨蜥啃食",
-      "onboard_time": 1765037062,
-      "rank": 33,
-      "category": "海外新闻"
-    },
-    {
       "raw_hot": 121191,
       "num": 207497,
       "word": "李一桐唱了TF四代的歌",
       "onboard_time": 1765034185,
       "rank": 43,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 117714,
+      "num": 142986,
+      "word": "邓为回应营业少",
+      "onboard_time": 1765038861,
+      "rank": 43,
+      "category": "艺人"
     },
     {
       "raw_hot": 113241,
@@ -315,6 +331,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 103209,
+      "num": 314972,
+      "word": "法国8比7日本",
+      "onboard_time": 1765037603,
+      "rank": 4,
+      "category": "体育"
+    },
+    {
       "raw_hot": 95375,
       "num": 205931,
       "word": "无忧渡",
@@ -328,14 +352,6 @@
       "word": "孙颖莎是王楚钦全肯定",
       "onboard_time": 1765027824,
       "rank": 37,
-      "category": "体育"
-    },
-    {
-      "raw_hot": 83967,
-      "num": 314972,
-      "word": "法国8比7日本",
-      "onboard_time": 1765037603,
-      "rank": 4,
       "category": "体育"
     },
     {
@@ -385,6 +401,22 @@
       "onboard_time": 1765018703,
       "rank": 49,
       "category": "体育"
+    },
+    {
+      "raw_hot": 54598,
+      "num": 142798,
+      "word": "游客偶遇用镜子反射光给大佛暖鼻子",
+      "onboard_time": 1765029804,
+      "rank": 45,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 49524,
+      "num": 142528,
+      "word": "香港初步确定起火点大致位置",
+      "onboard_time": 1765026024,
+      "rank": 48,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 20556,
