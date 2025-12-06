@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765003808826,
+  "endTime": 1765005935116,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -17,6 +17,14 @@
       "onboard_time": 1764910701,
       "rank": 3,
       "category": "辟谣/通报,汽车"
+    },
+    {
+      "raw_hot": 2644618,
+      "num": 2644618,
+      "word": "尖叫之夜红毯",
+      "onboard_time": 1765003762,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 2440776,
@@ -353,6 +361,14 @@
       "onboard_time": 1764905540,
       "rank": 19,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 1319314,
+      "num": 800383,
+      "word": "大家好我是尹正我演鬼子",
+      "onboard_time": 1765002561,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 1286220,
@@ -833,14 +849,6 @@
       "onboard_time": 1764679462,
       "rank": 7,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 800383,
-      "num": 800383,
-      "word": "大家好我是尹正我演鬼子",
-      "onboard_time": 1765002561,
-      "rank": 31,
-      "category": "电影"
     },
     {
       "raw_hot": 799524,
@@ -2555,6 +2563,14 @@
       "category": "民生新闻,健康医疗"
     },
     {
+      "raw_hot": 414967,
+      "num": 281401,
+      "word": "国乒8比5日本",
+      "onboard_time": 1765003281,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 413465,
       "num": 413465,
       "word": "手术前一定要多问一句",
@@ -2593,6 +2609,14 @@
       "onboard_time": 1764592282,
       "rank": 14,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 407723,
+      "num": 279719,
+      "word": "王楚然 珍珠美人",
+      "onboard_time": 1765002622,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 405166,
@@ -3187,6 +3211,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 350040,
+      "num": 227145,
+      "word": "徐若晗换礼服了",
+      "onboard_time": 1765005021,
+      "rank": 20,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 349201,
       "num": 235035,
       "word": "疯狂动物城2排片量",
@@ -3552,14 +3584,6 @@
       "word": "王一博说我没办法给别人情绪价值",
       "onboard_time": 1764908541,
       "rank": 27,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 321273,
-      "num": 213192,
-      "word": "王楚然 珍珠美人",
-      "onboard_time": 1765002622,
-      "rank": 32,
       "category": "综艺"
     },
     {
@@ -4811,6 +4835,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 235701,
+      "num": 235701,
+      "word": "常华森 灰衣服绿内搭",
+      "onboard_time": 1765004361,
+      "rank": 17,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 235607,
       "num": 230053,
       "word": "林峯你能不能体面的老去",
@@ -5017,6 +5049,14 @@
       "onboard_time": 1764976157,
       "rank": 0,
       "category": "体育"
+    },
+    {
+      "raw_hot": 227131,
+      "num": 227131,
+      "word": "建议气血不足的人每天拍臀",
+      "onboard_time": 1765005621,
+      "rank": 21,
+      "category": "健康医疗"
     },
     {
       "raw_hot": 227010,
@@ -5635,6 +5675,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 204723,
+      "num": 204723,
+      "word": "邓为暗夜贵公子",
+      "onboard_time": 1765004899,
+      "rank": 24,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 204681,
       "num": 204681,
       "word": "张俪外网评价",
@@ -5763,6 +5811,14 @@
       "category": "作品衍生,时尚"
     },
     {
+      "raw_hot": 202809,
+      "num": 193429,
+      "word": "曾舜晞去哪儿了",
+      "onboard_time": 1765004899,
+      "rank": 26,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202613,
       "num": 202613,
       "word": "沈梦辰说婚姻不能将就",
@@ -5889,14 +5945,6 @@
       "onboard_time": 1764761781,
       "rank": 17,
       "category": "电竞"
-    },
-    {
-      "raw_hot": 199094,
-      "num": 199094,
-      "word": "国乒8比5日本",
-      "onboard_time": 1765003281,
-      "rank": 19,
-      "category": "体育"
     },
     {
       "raw_hot": 199045,
@@ -6187,6 +6235,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 191852,
+      "num": 191852,
+      "word": "肖战凡尔赛了一下",
+      "onboard_time": 1765005081,
+      "rank": 27,
+      "category": "电影"
+    },
+    {
       "raw_hot": 191809,
       "num": 118940,
       "word": "国乒对阵韩国孙颖莎轮休",
@@ -6433,6 +6489,14 @@
       "onboard_time": 1764905181,
       "rank": 27,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 186271,
+      "num": 186271,
+      "word": "张凌赫工作室 图呢",
+      "onboard_time": 1765005502,
+      "rank": 30,
+      "category": "综艺"
     },
     {
       "raw_hot": 186185,
@@ -8595,14 +8659,6 @@
       "category": "幽默"
     },
     {
-      "raw_hot": 148526,
-      "num": 130809,
-      "word": "尖叫之夜红毯",
-      "onboard_time": 1765003762,
-      "rank": 45,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 148414,
       "num": 148414,
       "word": "王子璇余承恩又有吻戏了",
@@ -9219,6 +9275,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 138088,
+      "num": 138088,
+      "word": "不方便下楼的女艺人找周洁琼",
+      "onboard_time": 1765005260,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 138035,
       "num": 138035,
       "word": "她这一套换下来我要休息一年",
@@ -9353,6 +9417,14 @@
       "onboard_time": 1764667161,
       "rank": 40,
       "category": "互联网"
+    },
+    {
+      "raw_hot": 136877,
+      "num": 277617,
+      "word": "为什么马克龙访华要看都江堰",
+      "onboard_time": 1765004421,
+      "rank": 14,
+      "category": "国际时政"
     },
     {
       "raw_hot": 136752,
@@ -9579,6 +9651,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 134403,
+      "num": 134403,
+      "word": "章若楠在逃公主来的",
+      "onboard_time": 1765005321,
+      "rank": 41,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 134350,
       "num": 829990,
       "word": "治沙人种下的10万株玫瑰长大了",
@@ -9665,6 +9745,14 @@
       "onboard_time": 1764775941,
       "rank": 31,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 133452,
+      "num": 133452,
+      "word": "吴宣仪正脸图呢",
+      "onboard_time": 1765005859,
+      "rank": 47,
+      "category": "综艺"
     },
     {
       "raw_hot": 133438,
@@ -9825,6 +9913,14 @@
       "onboard_time": 1764949221,
       "rank": 36,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 131926,
+      "num": 131926,
+      "word": "周扬青承认自己很难搞",
+      "onboard_time": 1765005800,
+      "rank": 49,
+      "category": "艺人"
     },
     {
       "raw_hot": 131920,
@@ -11803,6 +11899,14 @@
       "category": "民生新闻,教育"
     },
     {
+      "raw_hot": 112401,
+      "num": 149341,
+      "word": "印度总统府地面还是黄土",
+      "onboard_time": 1765004721,
+      "rank": 33,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 112345,
       "num": 112345,
       "word": "罗晋谈孔乙己的长衫",
@@ -11961,6 +12065,14 @@
       "onboard_time": 1764591143,
       "rank": 48,
       "category": "电影"
+    },
+    {
+      "raw_hot": 110139,
+      "num": 138166,
+      "word": "王楚钦孙颖莎这一球对手教练沉默了",
+      "onboard_time": 1765005741,
+      "rank": 34,
+      "category": "体育"
     },
     {
       "raw_hot": 110074,
@@ -12569,6 +12681,14 @@
       "onboard_time": 1764844462,
       "rank": 40,
       "category": "情感,休闲"
+    },
+    {
+      "raw_hot": 104695,
+      "num": 137743,
+      "word": "美军承认击落美军战机",
+      "onboard_time": 1765005800,
+      "rank": 36,
+      "category": "国际时政"
     },
     {
       "raw_hot": 104679,
@@ -13323,6 +13443,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 98266,
+      "num": 132673,
+      "word": "王楚钦给孙颖莎手动点赞",
+      "onboard_time": 1765005081,
+      "rank": 48,
+      "category": "体育"
+    },
+    {
       "raw_hot": 98145,
       "num": 98145,
       "word": "王安宇大侦探首发",
@@ -13713,6 +13841,14 @@
       "onboard_time": 1764811220,
       "rank": 36,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 94786,
+      "num": 133561,
+      "word": "iPhone16登顶三季度畅销榜",
+      "onboard_time": 1765005321,
+      "rank": 45,
+      "category": "数码"
     },
     {
       "raw_hot": 94628,
@@ -16267,6 +16403,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 60467,
+      "num": 133505,
+      "word": "泰兰尼斯童鞋卖600万双营收30亿",
+      "onboard_time": 1765004421,
+      "rank": 46,
+      "category": "财经"
+    },
+    {
       "raw_hot": 60456,
       "num": 355611,
       "word": "本轮寒潮收尾",
@@ -16737,6 +16881,14 @@
       "onboard_time": 1764865998,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 52652,
+      "num": 227148,
+      "word": "中国女子日本被撞亡家属索赔637万",
+      "onboard_time": 1765005381,
+      "rank": 19,
+      "category": "海外新闻"
     },
     {
       "raw_hot": 52358,
@@ -18219,6 +18371,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 30222,
+      "num": 136340,
+      "word": "全网最忙五人组造假装都懒得装了",
+      "onboard_time": 1765005381,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 29977,
       "num": 140553,
       "word": "穆雷爆砍52分",
@@ -19136,6 +19296,14 @@
       "word": "去世女硕士驻村干部好友发声",
       "onboard_time": 1764674842,
       "rank": 18,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 15822,
+      "num": 137072,
+      "word": "邮政官网采购公告乱入聊天记录",
+      "onboard_time": 1765005260,
+      "rank": 37,
       "category": "民生新闻"
     },
     {
