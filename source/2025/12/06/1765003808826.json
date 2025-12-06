@@ -1,0 +1,410 @@
+{
+  "runTime": 1765003808826,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 575560,
+        "num": 1092089,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 0,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 176784,
+        "num": 863318,
+        "word": "南京大屠杀日军信中称真痛快",
+        "onboard_time": 1764992600,
+        "rank": 1,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 6168,
+        "num": 818780,
+        "word": "做好6件事保护呼吸道",
+        "onboard_time": 1764924321,
+        "rank": 2,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 800383,
+        "num": 800383,
+        "word": "大家好我是尹正我演鬼子",
+        "onboard_time": 1765002561,
+        "rank": 3,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132119,
+        "num": 644125,
+        "word": "梁靖崑1比2松岛辉空",
+        "onboard_time": 1765000701,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 546385,
+        "num": 546385,
+        "word": "白鹿曾舜晞十指相扣好自然",
+        "onboard_time": 1765001780,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 230398,
+        "num": 424239,
+        "word": "少拿500可休10天员工称很开心",
+        "onboard_time": 1764991220,
+        "rank": 6,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 284988,
+        "num": 317246,
+        "word": "男子掉入粉碎机身亡系维修未断电",
+        "onboard_time": 1765000642,
+        "rank": 7,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125771,
+        "num": 314281,
+        "word": "混团世界杯",
+        "onboard_time": 1765000281,
+        "rank": 8,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 311626,
+        "num": 311626,
+        "word": "国乒vs日本",
+        "onboard_time": 1764995362,
+        "rank": 9,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 626954,
+        "num": 307167,
+        "word": "特朗普警告高市早苗别插手台海",
+        "onboard_time": 1764994939,
+        "rank": 10,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 541399,
+        "num": 296833,
+        "word": "白鹿在逃黑天鹅",
+        "onboard_time": 1764998662,
+        "rank": 11,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 423077,
+        "num": 293098,
+        "word": "微信上的这个人戒烟了",
+        "onboard_time": 1764999441,
+        "rank": 12,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 403577,
+        "num": 282837,
+        "word": "徐若晗撞衫田曦薇",
+        "onboard_time": 1764993442,
+        "rank": 13,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 35026,
+        "num": 276579,
+        "word": "王嘉尔官宣世巡北美站",
+        "onboard_time": 1765000881,
+        "rank": 14,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 400008,
+        "num": 267334,
+        "word": "得闲谨制票房",
+        "onboard_time": 1765001300,
+        "rank": 15,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 352517,
+        "num": 259909,
+        "word": "尖叫之夜出图",
+        "onboard_time": 1764988460,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 252255,
+        "num": 252255,
+        "word": "吃商届来了个天才",
+        "onboard_time": 1765002200,
+        "rank": 17,
+        "category": "美食"
+      },
+      {
+        "raw_hot": 229733,
+        "num": 229733,
+        "word": "二战战犯孙子正重掌日本兵权",
+        "onboard_time": 1764998241,
+        "rank": 18,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 199094,
+        "num": 199094,
+        "word": "国乒8比5日本",
+        "onboard_time": 1765003281,
+        "rank": 19,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 348644,
+        "num": 198544,
+        "word": "得闲谨制票房倒挂",
+        "onboard_time": 1765002921,
+        "rank": 20,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 322269,
+        "num": 198088,
+        "word": "妻子回应朱孝天被退出F4",
+        "onboard_time": 1764992000,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 321537,
+        "num": 196789,
+        "word": "九重紫",
+        "onboard_time": 1764983660,
+        "rank": 22,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 321273,
+        "num": 196542,
+        "word": "王楚然 珍珠美人",
+        "onboard_time": 1765002622,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 195877,
+        "num": 195877,
+        "word": "在邪修出现前我们管这种人叫做天才",
+        "onboard_time": 1765002800,
+        "rank": 24,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 286970,
+        "num": 194864,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 25,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 237298,
+        "num": 193532,
+        "word": "田曦薇 豹纹小猫",
+        "onboard_time": 1764996680,
+        "rank": 26,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 233618,
+        "num": 191854,
+        "word": "肖战演技",
+        "onboard_time": 1764996799,
+        "rank": 27,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 162837,
+        "num": 191439,
+        "word": "国乒混团世界杯八连胜",
+        "onboard_time": 1765003221,
+        "rank": 28,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 102888,
+        "num": 189661,
+        "word": "AI带娃三个多月孩子厌学了",
+        "onboard_time": 1765002861,
+        "rank": 29,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 85728,
+        "num": 188025,
+        "word": "鞠婧祎开箱过冬套装",
+        "onboard_time": 1764997521,
+        "rank": 30,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 200612,
+        "num": 187100,
+        "word": "陈妍希确定不是20吗",
+        "onboard_time": 1765002500,
+        "rank": 31,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 186354,
+        "num": 186354,
+        "word": "尖叫之夜节目单",
+        "onboard_time": 1764994579,
+        "rank": 32,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 177427,
+        "num": 177427,
+        "word": "国乒众将起立鼓掌",
+        "onboard_time": 1765003762,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 167559,
+        "num": 167559,
+        "word": "放了很久的羊毛衫让我颜面尽失",
+        "onboard_time": 1765001780,
+        "rank": 34,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 184890,
+        "num": 165057,
+        "word": "单亲妈妈同时相亲63岁与29岁男",
+        "onboard_time": 1764999619,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 183574,
+        "num": 159102,
+        "word": "檀健次 无惧顶光",
+        "onboard_time": 1765003581,
+        "rank": 36,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 149162,
+        "num": 149162,
+        "word": "刘雨辰黄雅琼衢州婚礼",
+        "onboard_time": 1765002261,
+        "rank": 37,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 143007,
+        "num": 143007,
+        "word": "这还是我认识的DNF吗",
+        "onboard_time": 1765003762,
+        "rank": 38,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 16690,
+        "num": 142707,
+        "word": "特朗普想给美式足球改名",
+        "onboard_time": 1765003221,
+        "rank": 39,
+        "category": "海外新闻,体育"
+      },
+      {
+        "raw_hot": 183524,
+        "num": 139609,
+        "word": "尖叫之夜海报站位",
+        "onboard_time": 1765001901,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 157586,
+        "num": 135442,
+        "word": "十个勤天生来不让舞台",
+        "onboard_time": 1765003342,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 148967,
+        "num": 131706,
+        "word": "传下去李一桐上岸了",
+        "onboard_time": 1765002321,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130844,
+        "num": 130844,
+        "word": "老版1元人民币的女子已经65岁了",
+        "onboard_time": 1765001601,
+        "rank": 43,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 125533,
+        "num": 130814,
+        "word": "日本抓到一只380公斤巨型棕熊",
+        "onboard_time": 1764999441,
+        "rank": 44,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 148526,
+        "num": 130809,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1765003762,
+        "rank": 45,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 146333,
+        "num": 130806,
+        "word": "吴尊爱女如养花的具象化",
+        "onboard_time": 1764999741,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 130802,
+        "num": 130802,
+        "word": "国乒男双1比2日本组合",
+        "onboard_time": 1765002800,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 128749,
+        "num": 128749,
+        "word": "国乒混双让日本队望球兴叹",
+        "onboard_time": 1765001540,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 121793,
+        "num": 128226,
+        "word": "王楚钦林诗栋vs篠塚大登户上隼辅",
+        "onboard_time": 1765000461,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#中法元首交流互动的经典瞬间#"
+    }
+  }
+}

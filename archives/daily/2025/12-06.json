@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765003064742,
+  "endTime": 1765003808826,
   "band_list": [
     {
       "raw_hot": 1033634,
@@ -65,6 +65,14 @@
       "onboard_time": 1764993442,
       "rank": 3,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 800383,
+      "num": 800383,
+      "word": "大家好我是尹正我演鬼子",
+      "onboard_time": 1765002561,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 697538,
@@ -195,7 +203,7 @@
       "category": "电影"
     },
     {
-      "raw_hot": 420903,
+      "raw_hot": 423077,
       "num": 351873,
       "word": "微信上的这个人戒烟了",
       "onboard_time": 1764999441,
@@ -275,6 +283,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 348644,
+      "num": 198544,
+      "word": "得闲谨制票房倒挂",
+      "onboard_time": 1765002921,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 346423,
       "num": 254201,
       "word": "田曦薇 豹纹小猫",
@@ -305,6 +321,14 @@
       "onboard_time": 1765000642,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 321273,
+      "num": 213192,
+      "word": "王楚然 珍珠美人",
+      "onboard_time": 1765002622,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 311401,
@@ -393,6 +417,14 @@
       "onboard_time": 1764976157,
       "rank": 11,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 252255,
+      "num": 338211,
+      "word": "吃商届来了个天才",
+      "onboard_time": 1765002200,
+      "rank": 17,
+      "category": "美食"
     },
     {
       "raw_hot": 249140,
@@ -499,14 +531,6 @@
       "category": "动漫"
     },
     {
-      "raw_hot": 219948,
-      "num": 219948,
-      "word": "大家好我是尹正我演鬼子",
-      "onboard_time": 1765002561,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 219309,
       "num": 219309,
       "word": "暖暖生日皮肤",
@@ -521,22 +545,6 @@
       "onboard_time": 1764943283,
       "rank": 21,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 213192,
-      "num": 213192,
-      "word": "王楚然 珍珠美人",
-      "onboard_time": 1765002622,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 210856,
-      "num": 338211,
-      "word": "吃商届来了个天才",
-      "onboard_time": 1765002200,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 207241,
@@ -595,12 +603,36 @@
       "category": "体育"
     },
     {
+      "raw_hot": 200612,
+      "num": 187100,
+      "word": "陈妍希确定不是20吗",
+      "onboard_time": 1765002500,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
+      "raw_hot": 199094,
+      "num": 199094,
+      "word": "国乒8比5日本",
+      "onboard_time": 1765003281,
+      "rank": 19,
+      "category": "体育"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "小力士第一名",
       "onboard_time": 1765001961,
       "rank": 35,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 195877,
+      "num": 195877,
+      "word": "在邪修出现前我们管这种人叫做天才",
+      "onboard_time": 1765002800,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 192546,
@@ -683,6 +715,14 @@
       "category": "海外新闻"
     },
     {
+      "raw_hot": 183574,
+      "num": 159102,
+      "word": "檀健次 无惧顶光",
+      "onboard_time": 1765003581,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183338,
       "num": 183338,
       "word": "范志毅一口气颠了30个球",
@@ -747,12 +787,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 176471,
-      "num": 176471,
-      "word": "陈妍希确定不是20吗",
-      "onboard_time": 1765002500,
-      "rank": 40,
-      "category": "剧集"
+      "raw_hot": 177427,
+      "num": 177427,
+      "word": "国乒众将起立鼓掌",
+      "onboard_time": 1765003762,
+      "rank": 33,
+      "category": "体育"
     },
     {
       "raw_hot": 174987,
@@ -788,7 +828,7 @@
     },
     {
       "raw_hot": 166115,
-      "num": 363056,
+      "num": 644125,
       "word": "梁靖崑1比2松岛辉空",
       "onboard_time": 1765000701,
       "rank": 8,
@@ -809,6 +849,14 @@
       "onboard_time": 1764991881,
       "rank": 42,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 162837,
+      "num": 191439,
+      "word": "国乒混团世界杯八连胜",
+      "onboard_time": 1765003221,
+      "rank": 28,
+      "category": "体育"
     },
     {
       "raw_hot": 161051,
@@ -835,12 +883,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158309,
-      "num": 158309,
-      "word": "得闲谨制票房倒挂",
-      "onboard_time": 1765002921,
-      "rank": 44,
-      "category": "电影"
+      "raw_hot": 157586,
+      "num": 135442,
+      "word": "十个勤天生来不让舞台",
+      "onboard_time": 1765003342,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 156636,
@@ -915,6 +963,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 149162,
+      "num": 176941,
+      "word": "刘雨辰黄雅琼衢州婚礼",
+      "onboard_time": 1765002261,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 148526,
+      "num": 130809,
+      "word": "尖叫之夜红毯",
+      "onboard_time": 1765003762,
+      "rank": 45,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 147412,
       "num": 481928,
       "word": "周杰伦阿信言承旭吴建豪周渝民新歌",
@@ -971,6 +1035,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 143007,
+      "num": 143007,
+      "word": "这还是我认识的DNF吗",
+      "onboard_time": 1765003762,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142215,
       "num": 142215,
       "word": "陶喆已经练成这样了",
@@ -1001,14 +1073,6 @@
       "onboard_time": 1764939502,
       "rank": 16,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 140189,
-      "num": 179857,
-      "word": "在邪修出现前我们管这种人叫做天才",
-      "onboard_time": 1765002800,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 138191,
@@ -1057,14 +1121,6 @@
       "onboard_time": 1764990020,
       "rank": 39,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 135640,
-      "num": 176941,
-      "word": "刘雨辰黄雅琼衢州婚礼",
-      "onboard_time": 1765002261,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 135191,
@@ -1131,6 +1187,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 130802,
+      "num": 130802,
+      "word": "国乒男双1比2日本组合",
+      "onboard_time": 1765002800,
+      "rank": 46,
+      "category": "体育"
+    },
+    {
       "raw_hot": 130594,
       "num": 130594,
       "word": "老干妈不需要创新",
@@ -1193,14 +1257,6 @@
       "onboard_time": 1764947003,
       "rank": 19,
       "category": "综艺"
-    },
-    {
-      "raw_hot": 119556,
-      "num": 119556,
-      "word": "国乒男双1比2日本组合",
-      "onboard_time": 1765002800,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 119387,
@@ -1387,6 +1443,14 @@
       "category": "互联网"
     },
     {
+      "raw_hot": 102888,
+      "num": 224627,
+      "word": "AI带娃三个多月孩子厌学了",
+      "onboard_time": 1765002861,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102281,
       "num": 102281,
       "word": "香港火灾79名伤者全部脱离危险",
@@ -1443,14 +1507,6 @@
       "category": "情感"
     },
     {
-      "raw_hot": 91928,
-      "num": 224627,
-      "word": "AI带娃三个多月孩子厌学了",
-      "onboard_time": 1765002861,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 90468,
       "num": 90468,
       "word": "女生补气血多吃这种蒸鸡蛋",
@@ -1497,6 +1553,14 @@
       "onboard_time": 1764987501,
       "rank": 36,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 85728,
+      "num": 309123,
+      "word": "鞠婧祎开箱过冬套装",
+      "onboard_time": 1764997521,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 85080,
@@ -2019,14 +2083,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 36694,
-      "num": 309123,
-      "word": "鞠婧祎开箱过冬套装",
-      "onboard_time": 1764997521,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36457,
       "num": 150393,
       "word": "保罗训练不停歇",
@@ -2163,6 +2219,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 16690,
+      "num": 142707,
+      "word": "特朗普想给美式足球改名",
+      "onboard_time": 1765003221,
+      "rank": 39,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 16527,
       "num": 25332,
       "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
@@ -2212,7 +2276,7 @@
     },
     {
       "raw_hot": 7660,
-      "num": 613789,
+      "num": 818780,
       "word": "做好6件事保护呼吸道",
       "onboard_time": 1764924321,
       "rank": 2,

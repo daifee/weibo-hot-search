@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765003064742,
+  "endTime": 1765003808826,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -833,6 +833,14 @@
       "onboard_time": 1764679462,
       "rank": 7,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 800383,
+      "num": 800383,
+      "word": "大家好我是尹正我演鬼子",
+      "onboard_time": 1765002561,
+      "rank": 31,
+      "category": "电影"
     },
     {
       "raw_hot": 799524,
@@ -2467,6 +2475,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 423077,
+      "num": 351873,
+      "word": "微信上的这个人戒烟了",
+      "onboard_time": 1764999441,
+      "rank": 33,
+      "category": "情感"
+    },
+    {
       "raw_hot": 422234,
       "num": 422234,
       "word": "日本被曝迈向全领域作战",
@@ -2497,14 +2513,6 @@
       "onboard_time": 1764922521,
       "rank": 20,
       "category": "国内时政,国际时政"
-    },
-    {
-      "raw_hot": 420903,
-      "num": 351873,
-      "word": "微信上的这个人戒烟了",
-      "onboard_time": 1764999441,
-      "rank": 33,
-      "category": "情感"
     },
     {
       "raw_hot": 420610,
@@ -3187,6 +3195,14 @@
       "category": "电影"
     },
     {
+      "raw_hot": 348644,
+      "num": 198544,
+      "word": "得闲谨制票房倒挂",
+      "onboard_time": 1765002921,
+      "rank": 44,
+      "category": "电影"
+    },
+    {
       "raw_hot": 348534,
       "num": 694490,
       "word": "朱亚文 配角",
@@ -3536,6 +3552,14 @@
       "word": "王一博说我没办法给别人情绪价值",
       "onboard_time": 1764908541,
       "rank": 27,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 321273,
+      "num": 213192,
+      "word": "王楚然 珍珠美人",
+      "onboard_time": 1765002622,
+      "rank": 32,
       "category": "综艺"
     },
     {
@@ -4515,6 +4539,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 252255,
+      "num": 338211,
+      "word": "吃商届来了个天才",
+      "onboard_time": 1765002200,
+      "rank": 17,
+      "category": "美食"
+    },
+    {
       "raw_hot": 250387,
       "num": 250387,
       "word": "国乒8比2法国",
@@ -5115,14 +5147,6 @@
       "category": "体育"
     },
     {
-      "raw_hot": 219948,
-      "num": 219948,
-      "word": "大家好我是尹正我演鬼子",
-      "onboard_time": 1765002561,
-      "rank": 31,
-      "category": "电影"
-    },
-    {
       "raw_hot": 219537,
       "num": 776392,
       "word": "疯狂动物城2中国票房惊呆外媒",
@@ -5259,14 +5283,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 213192,
-      "num": 213192,
-      "word": "王楚然 珍珠美人",
-      "onboard_time": 1765002622,
-      "rank": 32,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 213141,
       "num": 231757,
       "word": "85花大花都没来",
@@ -5353,14 +5369,6 @@
       "onboard_time": 1764824962,
       "rank": 16,
       "category": "音乐"
-    },
-    {
-      "raw_hot": 210856,
-      "num": 338211,
-      "word": "吃商届来了个天才",
-      "onboard_time": 1765002200,
-      "rank": 17,
-      "category": "美食"
     },
     {
       "raw_hot": 210502,
@@ -5819,6 +5827,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 200612,
+      "num": 187100,
+      "word": "陈妍希确定不是20吗",
+      "onboard_time": 1765002500,
+      "rank": 40,
+      "category": "剧集"
+    },
+    {
       "raw_hot": 200578,
       "num": 199085,
       "word": "张凌赫已连续11个月换自动回复",
@@ -5873,6 +5889,14 @@
       "onboard_time": 1764761781,
       "rank": 17,
       "category": "电竞"
+    },
+    {
+      "raw_hot": 199094,
+      "num": 199094,
+      "word": "国乒8比5日本",
+      "onboard_time": 1765003281,
+      "rank": 19,
+      "category": "体育"
     },
     {
       "raw_hot": 199045,
@@ -5985,6 +6009,14 @@
       "onboard_time": 1764570501,
       "rank": 18,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 195877,
+      "num": 195877,
+      "word": "在邪修出现前我们管这种人叫做天才",
+      "onboard_time": 1765002800,
+      "rank": 37,
+      "category": "幽默"
     },
     {
       "raw_hot": 195403,
@@ -6563,6 +6595,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 183574,
+      "num": 159102,
+      "word": "檀健次 无惧顶光",
+      "onboard_time": 1765003581,
+      "rank": 36,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 183515,
       "num": 152177,
       "word": "当狗咖最后一个顾客走后",
@@ -6859,6 +6899,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 177427,
+      "num": 177427,
+      "word": "国乒众将起立鼓掌",
+      "onboard_time": 1765003762,
+      "rank": 33,
+      "category": "体育"
+    },
+    {
       "raw_hot": 177217,
       "num": 177217,
       "word": "日本正武装菲律宾",
@@ -6889,14 +6937,6 @@
       "onboard_time": 1764822924,
       "rank": 31,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 176471,
-      "num": 176471,
-      "word": "陈妍希确定不是20吗",
-      "onboard_time": 1765002500,
-      "rank": 40,
-      "category": "剧集"
     },
     {
       "raw_hot": 176445,
@@ -7380,7 +7420,7 @@
     },
     {
       "raw_hot": 166115,
-      "num": 363056,
+      "num": 644125,
       "word": "梁靖崑1比2松岛辉空",
       "onboard_time": 1765000701,
       "rank": 8,
@@ -7520,6 +7560,14 @@
       "word": "王楚钦林诗栋1比0勒布伦兄弟",
       "onboard_time": 1764850342,
       "rank": 7,
+      "category": "体育"
+    },
+    {
+      "raw_hot": 162837,
+      "num": 191439,
+      "word": "国乒混团世界杯八连胜",
+      "onboard_time": 1765003221,
+      "rank": 28,
       "category": "体育"
     },
     {
@@ -7827,14 +7875,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 158309,
-      "num": 158309,
-      "word": "得闲谨制票房倒挂",
-      "onboard_time": 1765002921,
-      "rank": 44,
-      "category": "电影"
-    },
-    {
       "raw_hot": 158246,
       "num": 158246,
       "word": "航天发展15天10板",
@@ -7904,6 +7944,14 @@
       "word": "刘宇宁终于闯进主持人赛道了",
       "onboard_time": 1764940703,
       "rank": 30,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 157586,
+      "num": 135442,
+      "word": "十个勤天生来不让舞台",
+      "onboard_time": 1765003342,
+      "rank": 41,
       "category": "综艺"
     },
     {
@@ -8499,6 +8547,14 @@
       "category": "情感"
     },
     {
+      "raw_hot": 149162,
+      "num": 176941,
+      "word": "刘雨辰黄雅琼衢州婚礼",
+      "onboard_time": 1765002261,
+      "rank": 38,
+      "category": "体育"
+    },
+    {
       "raw_hot": 149146,
       "num": 149146,
       "word": "李在明当场纠正女翻译口误",
@@ -8537,6 +8593,14 @@
       "onboard_time": 1764911542,
       "rank": 35,
       "category": "幽默"
+    },
+    {
+      "raw_hot": 148526,
+      "num": 130809,
+      "word": "尖叫之夜红毯",
+      "onboard_time": 1765003762,
+      "rank": 45,
+      "category": "综艺"
     },
     {
       "raw_hot": 148414,
@@ -8851,6 +8915,14 @@
       "category": "财经"
     },
     {
+      "raw_hot": 143007,
+      "num": 143007,
+      "word": "这还是我认识的DNF吗",
+      "onboard_time": 1765003762,
+      "rank": 38,
+      "category": "游戏"
+    },
+    {
       "raw_hot": 142882,
       "num": 227345,
       "word": "张若昀梳了丸子头",
@@ -9009,14 +9081,6 @@
       "onboard_time": 1764739640,
       "rank": 43,
       "category": "海外新闻"
-    },
-    {
-      "raw_hot": 140189,
-      "num": 179857,
-      "word": "在邪修出现前我们管这种人叫做天才",
-      "onboard_time": 1765002800,
-      "rank": 37,
-      "category": "幽默"
     },
     {
       "raw_hot": 140166,
@@ -9425,14 +9489,6 @@
       "onboard_time": 1764930081,
       "rank": 38,
       "category": "电影"
-    },
-    {
-      "raw_hot": 135640,
-      "num": 176941,
-      "word": "刘雨辰黄雅琼衢州婚礼",
-      "onboard_time": 1765002261,
-      "rank": 38,
-      "category": "体育"
     },
     {
       "raw_hot": 135522,
@@ -9905,6 +9961,14 @@
       "onboard_time": 1764939261,
       "rank": 44,
       "category": "艺人"
+    },
+    {
+      "raw_hot": 130802,
+      "num": 130802,
+      "word": "国乒男双1比2日本组合",
+      "onboard_time": 1765002800,
+      "rank": 46,
+      "category": "体育"
     },
     {
       "raw_hot": 130594,
@@ -10953,14 +11017,6 @@
       "onboard_time": 1764760522,
       "rank": 40,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 119556,
-      "num": 119556,
-      "word": "国乒男双1比2日本组合",
-      "onboard_time": 1765002800,
-      "rank": 46,
-      "category": "体育"
     },
     {
       "raw_hot": 119555,
@@ -12675,6 +12731,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 102888,
+      "num": 224627,
+      "word": "AI带娃三个多月孩子厌学了",
+      "onboard_time": 1765002861,
+      "rank": 29,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 102835,
       "num": 102835,
       "word": "Gala回复iG",
@@ -13875,14 +13939,6 @@
       "category": "艺人"
     },
     {
-      "raw_hot": 91928,
-      "num": 224627,
-      "word": "AI带娃三个多月孩子厌学了",
-      "onboard_time": 1765002861,
-      "rank": 29,
-      "category": "民生新闻"
-    },
-    {
       "raw_hot": 91910,
       "num": 213482,
       "word": "真毛就是比聚酯纤维好看",
@@ -14505,6 +14561,14 @@
       "onboard_time": 1764643399,
       "rank": 39,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 85728,
+      "num": 309123,
+      "word": "鞠婧祎开箱过冬套装",
+      "onboard_time": 1764997521,
+      "rank": 10,
+      "category": "艺人"
     },
     {
       "raw_hot": 85554,
@@ -17763,14 +17827,6 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 36694,
-      "num": 309123,
-      "word": "鞠婧祎开箱过冬套装",
-      "onboard_time": 1764997521,
-      "rank": 10,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 36566,
       "num": 91225,
       "word": "王昶陈旭君2比1刘毅曾维瀚",
@@ -19003,6 +19059,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 16690,
+      "num": 142707,
+      "word": "特朗普想给美式足球改名",
+      "onboard_time": 1765003221,
+      "rank": 39,
+      "category": "海外新闻,体育"
+    },
+    {
       "raw_hot": 16527,
       "num": 25332,
       "word": "征服黄子韬的不是徐艺洋 是王鹤棣",
@@ -19372,7 +19436,7 @@
     },
     {
       "raw_hot": 7660,
-      "num": 613789,
+      "num": 818780,
       "word": "做好6件事保护呼吸道",
       "onboard_time": 1764924321,
       "rank": 2,
