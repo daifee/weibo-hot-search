@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765013203588,
+  "endTime": 1765013968930,
   "band_list": [
     {
       "raw_hot": 3572813,
@@ -107,19 +107,27 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 760322,
+      "num": 403269,
+      "word": "王一博徒手攀手滑掉海里了",
+      "onboard_time": 1764995901,
+      "rank": 19,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 758808,
+      "num": 392518,
+      "word": "刘宇宁李一桐 大哥大嫂风味儿",
+      "onboard_time": 1765011682,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 697538,
       "num": 282427,
       "word": "吴昕维嘉聊天30秒牵手转了三次圈",
       "onboard_time": 1764988580,
       "rank": 11,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 677380,
-      "num": 377529,
-      "word": "刘宇宁李一桐 大哥大嫂风味儿",
-      "onboard_time": 1765011682,
-      "rank": 13,
       "category": "综艺"
     },
     {
@@ -163,16 +171,8 @@
       "category": "民生新闻"
     },
     {
-      "raw_hot": 605017,
-      "num": 380244,
-      "word": "王一博徒手攀手滑掉海里了",
-      "onboard_time": 1764995901,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 575581,
-      "num": 358223,
+      "num": 360115,
       "word": "白鹿在逃黑天鹅",
       "onboard_time": 1764998662,
       "rank": 41,
@@ -259,6 +259,22 @@
       "category": "电影"
     },
     {
+      "raw_hot": 495100,
+      "num": 386821,
+      "word": "张凌赫叫宝贝",
+      "onboard_time": 1765012403,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 483818,
+      "num": 377123,
+      "word": "王楚然丞磊 没有不嗑的义务",
+      "onboard_time": 1765011803,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 479867,
       "num": 325344,
       "word": "秦昊田嘉瑞的征信都坐不了高铁",
@@ -307,6 +323,14 @@
       "category": "电影,游戏"
     },
     {
+      "raw_hot": 410484,
+      "num": 370361,
+      "word": "王安宇生图",
+      "onboard_time": 1765012223,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 407723,
       "num": 344559,
       "word": "王楚然 珍珠美人",
@@ -347,20 +371,12 @@
       "category": "体育"
     },
     {
-      "raw_hot": 378256,
-      "num": 171382,
-      "word": "张凌赫叫宝贝",
-      "onboard_time": 1765012403,
-      "rank": 22,
-      "category": "综艺"
-    },
-    {
-      "raw_hot": 377904,
-      "num": 171153,
-      "word": "王楚然丞磊 没有不嗑的义务",
-      "onboard_time": 1765011803,
-      "rank": 23,
-      "category": "综艺"
+      "raw_hot": 386206,
+      "num": 386206,
+      "word": "男子掉入粉碎机身亡妻子发声",
+      "onboard_time": 1765011142,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 376043,
@@ -459,20 +475,20 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 332240,
+      "num": 332240,
+      "word": "吕严发长文",
+      "onboard_time": 1765011563,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 329549,
       "num": 650026,
       "word": "王楚钦回球不小心击中孙颖莎",
       "onboard_time": 1764991820,
       "rank": 31,
       "category": "体育"
-    },
-    {
-      "raw_hot": 325726,
-      "num": 325726,
-      "word": "男子掉入粉碎机身亡妻子发声",
-      "onboard_time": 1765011142,
-      "rank": 17,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 322112,
@@ -531,14 +547,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 281362,
-      "num": 167694,
-      "word": "王安宇生图",
-      "onboard_time": 1765012223,
-      "rank": 30,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 280674,
       "num": 781644,
       "word": "爱奇艺尖叫之夜",
@@ -571,14 +579,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 271209,
-      "num": 167312,
-      "word": "吕严发长文",
-      "onboard_time": 1765011563,
-      "rank": 31,
-      "category": "艺人"
-    },
-    {
       "raw_hot": 264666,
       "num": 192847,
       "word": "陈震回旋镖",
@@ -588,7 +588,7 @@
     },
     {
       "raw_hot": 259160,
-      "num": 166845,
+      "num": 205866,
       "word": "侯明昊 深v蛇骨链",
       "onboard_time": 1765011502,
       "rank": 32,
@@ -627,6 +627,14 @@
       "category": "美食"
     },
     {
+      "raw_hot": 250496,
+      "num": 250496,
+      "word": "王一博发了探索幕后",
+      "onboard_time": 1765012162,
+      "rank": 35,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 249140,
       "num": 439876,
       "word": "豆包手机",
@@ -659,12 +667,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 241613,
-      "num": 165052,
-      "word": "王一博发了探索幕后",
-      "onboard_time": 1765012162,
-      "rank": 35,
-      "category": "综艺"
+      "raw_hot": 243528,
+      "num": 400527,
+      "word": "杭州师范大学通报调查结果",
+      "onboard_time": 1765012283,
+      "rank": 9,
+      "category": "辟谣/通报"
     },
     {
       "raw_hot": 238330,
@@ -756,7 +764,7 @@
     },
     {
       "raw_hot": 215943,
-      "num": 162723,
+      "num": 175151,
       "word": "脱口秀演员 主持人",
       "onboard_time": 1765010782,
       "rank": 40,
@@ -819,6 +827,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 202642,
+      "num": 187257,
+      "word": "蒋敦豪 幼崽版十个勤天合影",
+      "onboard_time": 1765013482,
+      "rank": 40,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 202613,
       "num": 202613,
       "word": "沈梦辰说婚姻不能将就",
@@ -859,6 +875,14 @@
       "category": "剧集"
     },
     {
+      "raw_hot": 199444,
+      "num": 399311,
+      "word": "警方通报52岁男子持刀伤人致3死",
+      "onboard_time": 1765013482,
+      "rank": 7,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 196477,
       "num": 196477,
       "word": "小力士第一名",
@@ -881,6 +905,14 @@
       "onboard_time": 1765005502,
       "rank": 30,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 193346,
+      "num": 193346,
+      "word": "易烊千玺把红毛衣焊身上了",
+      "onboard_time": 1765013002,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 192546,
@@ -961,6 +993,14 @@
       "onboard_time": 1764945920,
       "rank": 15,
       "category": "体育"
+    },
+    {
+      "raw_hot": 186337,
+      "num": 186337,
+      "word": "沈月百花鱼尾裙",
+      "onboard_time": 1765013302,
+      "rank": 41,
+      "category": "综艺"
     },
     {
       "raw_hot": 185564,
@@ -1092,7 +1132,7 @@
     },
     {
       "raw_hot": 173133,
-      "num": 193717,
+      "num": 269875,
       "word": "日本友人捐侵华日军家信内容残忍",
       "onboard_time": 1765007301,
       "rank": 29,
@@ -1100,7 +1140,7 @@
     },
     {
       "raw_hot": 172792,
-      "num": 172792,
+      "num": 393903,
       "word": "三星堆一青铜造型雕塑被游客掰断",
       "onboard_time": 1765011623,
       "rank": 19,
@@ -1187,14 +1227,6 @@
       "category": "演出"
     },
     {
-      "raw_hot": 160495,
-      "num": 160495,
-      "word": "易烊千玺把红毛衣焊身上了",
-      "onboard_time": 1765013002,
-      "rank": 43,
-      "category": "作品衍生,时尚"
-    },
-    {
       "raw_hot": 159851,
       "num": 147376,
       "word": "为什么父母觉得结婚生子就稳定了",
@@ -1217,6 +1249,14 @@
       "onboard_time": 1765003342,
       "rank": 41,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 156950,
+      "num": 175123,
+      "word": "彭昱畅逗笑肖战了",
+      "onboard_time": 1765013842,
+      "rank": 44,
+      "category": "电影"
     },
     {
       "raw_hot": 156636,
@@ -1409,6 +1449,14 @@
       "onboard_time": 1764989240,
       "rank": 29,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 141746,
+      "num": 191753,
+      "word": "这届年轻人靠AI认知差赚了多少钱",
+      "onboard_time": 1765013662,
+      "rank": 37,
+      "category": "情感"
     },
     {
       "raw_hot": 141728,
@@ -1892,7 +1940,7 @@
     },
     {
       "raw_hot": 101476,
-      "num": 164361,
+      "num": 174574,
       "word": "存100万存20万利率一样透露啥信号",
       "onboard_time": 1765012643,
       "rank": 37,
@@ -1961,6 +2009,14 @@
       "onboard_time": 1764984919,
       "rank": 32,
       "category": "情感"
+    },
+    {
+      "raw_hot": 92850,
+      "num": 388691,
+      "word": "雅迪新国标车原来这么多",
+      "onboard_time": 1765010063,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 90468,
@@ -2049,14 +2105,6 @@
       "onboard_time": 1764977358,
       "rank": 29,
       "category": "民生新闻"
-    },
-    {
-      "raw_hot": 85039,
-      "num": 399965,
-      "word": "杭州师范大学通报调查结果",
-      "onboard_time": 1765012283,
-      "rank": 9,
-      "category": "辟谣/通报"
     },
     {
       "raw_hot": 84642,
@@ -2153,14 +2201,6 @@
       "onboard_time": 1764938901,
       "rank": 29,
       "category": "剧集"
-    },
-    {
-      "raw_hot": 76088,
-      "num": 340691,
-      "word": "雅迪新国标车原来这么多",
-      "onboard_time": 1765010063,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 75827,
@@ -2363,6 +2403,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 56369,
+      "num": 190878,
+      "word": "男子掉草场粉碎机身亡经营者发声",
+      "onboard_time": 1765013541,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 55795,
       "num": 369158,
       "word": "镇领导称机械式考核逼着他们造假",
@@ -2521,6 +2569,14 @@
       "onboard_time": 1764953180,
       "rank": 47,
       "category": "综艺"
+    },
+    {
+      "raw_hot": 45435,
+      "num": 188398,
+      "word": "地铁给用围巾擦地女子准备了新围巾",
+      "onboard_time": 1765013541,
+      "rank": 39,
+      "category": "正能量"
     },
     {
       "raw_hot": 45315,
@@ -2835,6 +2891,14 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 14760,
+      "num": 384231,
+      "word": "劲酒直播间称月经期间不能喝",
+      "onboard_time": 1765013422,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 14136,
       "num": 178836,
       "word": "餐馆贴狗与外卖员勿进",
@@ -2883,19 +2947,19 @@
       "category": "国内时政"
     },
     {
-      "raw_hot": 1957,
-      "num": 443169,
-      "word": "C909飞机已交付174架",
-      "onboard_time": 1764923901,
-      "rank": 2,
-      "category": "民生新闻"
-    },
-    {
-      "raw_hot": 1682,
+      "raw_hot": 2961,
       "num": 403954,
       "word": "加快生产消费者满意的电动车新产品",
       "onboard_time": 1764894201,
       "rank": 8,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 2598,
+      "num": 443169,
+      "word": "C909飞机已交付174架",
+      "onboard_time": 1764923901,
+      "rank": 2,
       "category": "民生新闻"
     }
   ],

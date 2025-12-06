@@ -1,0 +1,410 @@
+{
+  "runTime": 1765013968930,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 2307206,
+        "num": 2307206,
+        "word": "尖叫之夜红毯",
+        "onboard_time": 1765003762,
+        "rank": 0,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 405601,
+        "num": 405601,
+        "word": "美军承认击落美军战机",
+        "onboard_time": 1765005800,
+        "rank": 1,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 2598,
+        "num": 404575,
+        "word": "C909飞机已交付174架",
+        "onboard_time": 1764923901,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 760322,
+        "num": 403269,
+        "word": "王一博徒手攀手滑掉海里了",
+        "onboard_time": 1764995901,
+        "rank": 3,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 217283,
+        "num": 402979,
+        "word": "大湾区大学正式成立",
+        "onboard_time": 1765006221,
+        "rank": 4,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 877028,
+        "num": 401947,
+        "word": "敖瑞鹏李兰迪沈羽洁 燃冬",
+        "onboard_time": 1765010782,
+        "rank": 5,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 243528,
+        "num": 400527,
+        "word": "杭州师范大学通报调查结果",
+        "onboard_time": 1765012283,
+        "rank": 6,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 199444,
+        "num": 399311,
+        "word": "警方通报52岁男子持刀伤人致3死",
+        "onboard_time": 1765013482,
+        "rank": 7,
+        "category": "辟谣/通报"
+      },
+      {
+        "raw_hot": 115578,
+        "num": 397722,
+        "word": "2025LPL全明星红毯",
+        "onboard_time": 1765009822,
+        "rank": 8,
+        "category": "电竞"
+      },
+      {
+        "raw_hot": 102950,
+        "num": 396223,
+        "word": "泰兰尼斯童鞋卖600万双营收30亿",
+        "onboard_time": 1765004421,
+        "rank": 9,
+        "category": "财经"
+      },
+      {
+        "raw_hot": 198127,
+        "num": 395493,
+        "word": "应届生公考前得知被误录社保",
+        "onboard_time": 1765006522,
+        "rank": 10,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 159813,
+        "num": 393903,
+        "word": "三星堆一青铜造型雕塑被游客掰断",
+        "onboard_time": 1765011623,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 758808,
+        "num": 392518,
+        "word": "刘宇宁李一桐 大哥大嫂风味儿",
+        "onboard_time": 1765011682,
+        "rank": 12,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 655564,
+        "num": 391252,
+        "word": "大家好我是尹正我演鬼子",
+        "onboard_time": 1765002561,
+        "rank": 13,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 717487,
+        "num": 390457,
+        "word": "杨幂 C位",
+        "onboard_time": 1765006341,
+        "rank": 14,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 92850,
+        "num": 388691,
+        "word": "雅迪新国标车原来这么多",
+        "onboard_time": 1765010063,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 519894,
+        "num": 388514,
+        "word": "赵晴瘦成纸片人了",
+        "onboard_time": 1765008502,
+        "rank": 16,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 495100,
+        "num": 386821,
+        "word": "张凌赫叫宝贝",
+        "onboard_time": 1765012403,
+        "rank": 17,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 386206,
+        "num": 386206,
+        "word": "男子掉入粉碎机身亡妻子发声",
+        "onboard_time": 1765011142,
+        "rank": 18,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 14760,
+        "num": 384231,
+        "word": "劲酒直播间称月经期间不能喝",
+        "onboard_time": 1765013422,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 483818,
+        "num": 377123,
+        "word": "王楚然丞磊 没有不嗑的义务",
+        "onboard_time": 1765011803,
+        "rank": 20,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 410484,
+        "num": 370361,
+        "word": "王安宇生图",
+        "onboard_time": 1765012223,
+        "rank": 21,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 428428,
+        "num": 360115,
+        "word": "白鹿在逃黑天鹅",
+        "onboard_time": 1764998662,
+        "rank": 22,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 355421,
+        "num": 355421,
+        "word": "尖叫之夜红毯顺序",
+        "onboard_time": 1765008261,
+        "rank": 23,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 1100577,
+        "num": 354217,
+        "word": "林允红毯摔倒",
+        "onboard_time": 1765007481,
+        "rank": 24,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 351703,
+        "num": 351703,
+        "word": "陈梦回应是否参加洛杉矶奥运会",
+        "onboard_time": 1765009163,
+        "rank": 25,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 332240,
+        "num": 332240,
+        "word": "吕严发长文",
+        "onboard_time": 1765011563,
+        "rank": 26,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 323238,
+        "num": 323238,
+        "word": "宋祖儿粉色刺绣长裙",
+        "onboard_time": 1765008802,
+        "rank": 27,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 132496,
+        "num": 269875,
+        "word": "日本友人捐侵华日军家信内容残忍",
+        "onboard_time": 1765007301,
+        "rank": 28,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 66513,
+        "num": 251984,
+        "word": "南京大屠杀日军信中称真痛快",
+        "onboard_time": 1764992600,
+        "rank": 29,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 212165,
+        "num": 250514,
+        "word": "建议气血不足的人每天拍臀",
+        "onboard_time": 1765005621,
+        "rank": 30,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 250496,
+        "num": 250496,
+        "word": "王一博发了探索幕后",
+        "onboard_time": 1765012162,
+        "rank": 31,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 238164,
+        "num": 238164,
+        "word": "陈梦奶奶和黄晓明奶奶是亲姐妹",
+        "onboard_time": 1765006760,
+        "rank": 32,
+        "category": "艺人,体育"
+      },
+      {
+        "raw_hot": 141284,
+        "num": 235482,
+        "word": "国乒战胜日本",
+        "onboard_time": 1765003281,
+        "rank": 33,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 235345,
+        "num": 235345,
+        "word": "十个勤天整整齐齐穿西装",
+        "onboard_time": 1765008202,
+        "rank": 34,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 205866,
+        "num": 205866,
+        "word": "侯明昊 深v蛇骨链",
+        "onboard_time": 1765011502,
+        "rank": 35,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 193346,
+        "num": 193346,
+        "word": "易烊千玺把红毛衣焊身上了",
+        "onboard_time": 1765013002,
+        "rank": 36,
+        "category": "作品衍生,时尚"
+      },
+      {
+        "raw_hot": 141746,
+        "num": 191753,
+        "word": "这届年轻人靠AI认知差赚了多少钱",
+        "onboard_time": 1765013662,
+        "rank": 37,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 56369,
+        "num": 190878,
+        "word": "男子掉草场粉碎机身亡经营者发声",
+        "onboard_time": 1765013541,
+        "rank": 38,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 45435,
+        "num": 188398,
+        "word": "地铁给用围巾擦地女子准备了新围巾",
+        "onboard_time": 1765013541,
+        "rank": 39,
+        "category": "正能量"
+      },
+      {
+        "raw_hot": 202642,
+        "num": 187257,
+        "word": "蒋敦豪 幼崽版十个勤天合影",
+        "onboard_time": 1765013482,
+        "rank": 40,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 186337,
+        "num": 186337,
+        "word": "沈月百花鱼尾裙",
+        "onboard_time": 1765013302,
+        "rank": 41,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 181023,
+        "num": 181023,
+        "word": "得闲谨制",
+        "onboard_time": 1764988400,
+        "rank": 42,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 175151,
+        "num": 175151,
+        "word": "脱口秀演员 主持人",
+        "onboard_time": 1765010782,
+        "rank": 43,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 156950,
+        "num": 175123,
+        "word": "彭昱畅逗笑肖战了",
+        "onboard_time": 1765013842,
+        "rank": 44,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 132058,
+        "num": 174990,
+        "word": "微信上的这个人戒烟了",
+        "onboard_time": 1764999441,
+        "rank": 45,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 104210,
+        "num": 174846,
+        "word": "樊振东 我这西语还可以吗",
+        "onboard_time": 1765007842,
+        "rank": 46,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 93662,
+        "num": 174759,
+        "word": "国乒男单男双各丢2分",
+        "onboard_time": 1765009044,
+        "rank": 47,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 2961,
+        "num": 174661,
+        "word": "加快生产消费者满意的电动车新产品",
+        "onboard_time": 1764894201,
+        "rank": 48,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 89471,
+        "num": 174574,
+        "word": "存100万存20万利率一样透露啥信号",
+        "onboard_time": 1765012643,
+        "rank": 49,
+        "category": "财经"
+      }
+    ],
+    "hotgov": {
+      "word": "#从治水之道汲取治国理政智慧#"
+    }
+  }
+}
