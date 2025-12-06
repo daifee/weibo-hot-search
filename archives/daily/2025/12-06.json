@@ -1,6 +1,6 @@
 {
   "startTime": 1764952528182,
-  "endTime": 1765010796845,
+  "endTime": 1765013203588,
   "band_list": [
     {
       "raw_hot": 3572813,
@@ -59,6 +59,14 @@
       "category": "国际时政"
     },
     {
+      "raw_hot": 970123,
+      "num": 434418,
+      "word": "敖瑞鹏李兰迪沈羽洁 燃冬",
+      "onboard_time": 1765010782,
+      "rank": 3,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 942206,
       "num": 1150753,
       "word": "得闲谨制",
@@ -107,6 +115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 677380,
+      "num": 377529,
+      "word": "刘宇宁李一桐 大哥大嫂风味儿",
+      "onboard_time": 1765011682,
+      "rank": 13,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 673065,
       "num": 673065,
       "word": "少拿500可休10天员工称很开心",
@@ -145,6 +161,14 @@
       "onboard_time": 1764978737,
       "rank": 0,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 605017,
+      "num": 380244,
+      "word": "王一博徒手攀手滑掉海里了",
+      "onboard_time": 1764995901,
+      "rank": 19,
+      "category": "综艺"
     },
     {
       "raw_hot": 575581,
@@ -243,14 +267,6 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 472370,
-      "num": 330550,
-      "word": "王一博徒手攀手滑掉海里了",
-      "onboard_time": 1764995901,
-      "rank": 19,
-      "category": "综艺"
-    },
-    {
       "raw_hot": 457629,
       "num": 356385,
       "word": "得闲谨制票房",
@@ -331,6 +347,22 @@
       "category": "体育"
     },
     {
+      "raw_hot": 378256,
+      "num": 171382,
+      "word": "张凌赫叫宝贝",
+      "onboard_time": 1765012403,
+      "rank": 22,
+      "category": "综艺"
+    },
+    {
+      "raw_hot": 377904,
+      "num": 171153,
+      "word": "王楚然丞磊 没有不嗑的义务",
+      "onboard_time": 1765011803,
+      "rank": 23,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 376043,
       "num": 376043,
       "word": "单身中女能有多爽",
@@ -345,6 +377,14 @@
       "onboard_time": 1764991160,
       "rank": 30,
       "category": "海外新闻"
+    },
+    {
+      "raw_hot": 366433,
+      "num": 415020,
+      "word": "陈梦回应是否参加洛杉矶奥运会",
+      "onboard_time": 1765009163,
+      "rank": 17,
+      "category": "体育"
     },
     {
       "raw_hot": 365077,
@@ -403,14 +443,6 @@
       "category": "健康医疗"
     },
     {
-      "raw_hot": 339443,
-      "num": 415020,
-      "word": "陈梦回应是否参加洛杉矶奥运会",
-      "onboard_time": 1765009163,
-      "rank": 17,
-      "category": "体育"
-    },
-    {
       "raw_hot": 338420,
       "num": 452721,
       "word": "应届生公考前得知被误录社保",
@@ -433,6 +465,14 @@
       "onboard_time": 1764991820,
       "rank": 31,
       "category": "体育"
+    },
+    {
+      "raw_hot": 325726,
+      "num": 325726,
+      "word": "男子掉入粉碎机身亡妻子发声",
+      "onboard_time": 1765011142,
+      "rank": 17,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 322112,
@@ -491,6 +531,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 281362,
+      "num": 167694,
+      "word": "王安宇生图",
+      "onboard_time": 1765012223,
+      "rank": 30,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 280674,
       "num": 781644,
       "word": "爱奇艺尖叫之夜",
@@ -523,12 +571,28 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 271209,
+      "num": 167312,
+      "word": "吕严发长文",
+      "onboard_time": 1765011563,
+      "rank": 31,
+      "category": "艺人"
+    },
+    {
       "raw_hot": 264666,
       "num": 192847,
       "word": "陈震回旋镖",
       "onboard_time": 1764986840,
       "rank": 26,
       "category": "民生新闻,汽车"
+    },
+    {
+      "raw_hot": 259160,
+      "num": 166845,
+      "word": "侯明昊 深v蛇骨链",
+      "onboard_time": 1765011502,
+      "rank": 32,
+      "category": "综艺"
     },
     {
       "raw_hot": 258828,
@@ -593,6 +657,14 @@
       "onboard_time": 1764945983,
       "rank": 7,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 241613,
+      "num": 165052,
+      "word": "王一博发了探索幕后",
+      "onboard_time": 1765012162,
+      "rank": 35,
+      "category": "综艺"
     },
     {
       "raw_hot": 238330,
@@ -681,6 +753,14 @@
       "onboard_time": 1764999199,
       "rank": 29,
       "category": "游戏"
+    },
+    {
+      "raw_hot": 215943,
+      "num": 162723,
+      "word": "脱口秀演员 主持人",
+      "onboard_time": 1765010782,
+      "rank": 40,
+      "category": "综艺"
     },
     {
       "raw_hot": 214218,
@@ -1011,6 +1091,22 @@
       "category": "艺人"
     },
     {
+      "raw_hot": 173133,
+      "num": 193717,
+      "word": "日本友人捐侵华日军家信内容残忍",
+      "onboard_time": 1765007301,
+      "rank": 29,
+      "category": "国内时政"
+    },
+    {
+      "raw_hot": 172792,
+      "num": 172792,
+      "word": "三星堆一青铜造型雕塑被游客掰断",
+      "onboard_time": 1765011623,
+      "rank": 19,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 171224,
       "num": 171224,
       "word": "东莞小学女生校内受伤流血家长报警",
@@ -1089,6 +1185,14 @@
       "onboard_time": 1764978621,
       "rank": 17,
       "category": "演出"
+    },
+    {
+      "raw_hot": 160495,
+      "num": 160495,
+      "word": "易烊千玺把红毛衣焊身上了",
+      "onboard_time": 1765013002,
+      "rank": 43,
+      "category": "作品衍生,时尚"
     },
     {
       "raw_hot": 159851,
@@ -1289,14 +1393,6 @@
       "onboard_time": 1765003762,
       "rank": 38,
       "category": "游戏"
-    },
-    {
-      "raw_hot": 142852,
-      "num": 193717,
-      "word": "日本友人捐侵华日军家信内容残忍",
-      "onboard_time": 1765007301,
-      "rank": 29,
-      "category": "国内时政"
     },
     {
       "raw_hot": 142215,
@@ -1795,6 +1891,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 101476,
+      "num": 164361,
+      "word": "存100万存20万利率一样透露啥信号",
+      "onboard_time": 1765012643,
+      "rank": 37,
+      "category": "财经"
+    },
+    {
       "raw_hot": 101095,
       "num": 101095,
       "word": "世界杯分组",
@@ -1915,6 +2019,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 86779,
+      "num": 155362,
+      "word": "齐达内回应樊振东",
+      "onboard_time": 1765012043,
+      "rank": 47,
+      "category": "体育"
+    },
+    {
       "raw_hot": 86210,
       "num": 86210,
       "word": "白鹿动物塑是傲娇小狐狸",
@@ -1939,6 +2051,14 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 85039,
+      "num": 399965,
+      "word": "杭州师范大学通报调查结果",
+      "onboard_time": 1765012283,
+      "rank": 9,
+      "category": "辟谣/通报"
+    },
+    {
       "raw_hot": 84642,
       "num": 84642,
       "word": "感染流感有这些症状及时就医",
@@ -1953,6 +2073,14 @@
       "onboard_time": 1764988821,
       "rank": 44,
       "category": "民生新闻"
+    },
+    {
+      "raw_hot": 84064,
+      "num": 155293,
+      "word": "我虽然有肩膀但是个溜肩",
+      "onboard_time": 1765013122,
+      "rank": 48,
+      "category": "幽默"
     },
     {
       "raw_hot": 83679,
@@ -1987,6 +2115,14 @@
       "category": "综艺"
     },
     {
+      "raw_hot": 82340,
+      "num": 155262,
+      "word": "别再推荐可能认识的人了",
+      "onboard_time": 1765012823,
+      "rank": 49,
+      "category": "幽默,情感"
+    },
+    {
       "raw_hot": 80661,
       "num": 80661,
       "word": "傅园慧妈妈帮她扎头发",
@@ -2017,6 +2153,14 @@
       "onboard_time": 1764938901,
       "rank": 29,
       "category": "剧集"
+    },
+    {
+      "raw_hot": 76088,
+      "num": 340691,
+      "word": "雅迪新国标车原来这么多",
+      "onboard_time": 1765010063,
+      "rank": 15,
+      "category": "民生新闻"
     },
     {
       "raw_hot": 75827,
@@ -2315,6 +2459,14 @@
       "category": "国内时政"
     },
     {
+      "raw_hot": 50316,
+      "num": 163321,
+      "word": "十个勤天爱奇艺尖叫之夜红毯",
+      "onboard_time": 1765012104,
+      "rank": 39,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 49026,
       "num": 49026,
       "word": "狙击蝴蝶李嘉格真人版",
@@ -2419,6 +2571,14 @@
       "category": "健康医疗"
     },
     {
+      "raw_hot": 40722,
+      "num": 163837,
+      "word": "库迪咖啡被指禁带其他品牌咖啡入座",
+      "onboard_time": 1765012342,
+      "rank": 38,
+      "category": "民生新闻"
+    },
+    {
       "raw_hot": 40709,
       "num": 837481,
       "word": "流感超过一周还有传染性吗",
@@ -2481,14 +2641,6 @@
       "onboard_time": 1765000881,
       "rank": 14,
       "category": "演出"
-    },
-    {
-      "raw_hot": 37826,
-      "num": 248622,
-      "word": "雅迪新国标车原来这么多",
-      "onboard_time": 1765010063,
-      "rank": 15,
-      "category": "民生新闻"
     },
     {
       "raw_hot": 37636,
@@ -2729,6 +2881,22 @@
       "onboard_time": 1764924321,
       "rank": 2,
       "category": "国内时政"
+    },
+    {
+      "raw_hot": 1957,
+      "num": 443169,
+      "word": "C909飞机已交付174架",
+      "onboard_time": 1764923901,
+      "rank": 2,
+      "category": "民生新闻"
+    },
+    {
+      "raw_hot": 1682,
+      "num": 403954,
+      "word": "加快生产消费者满意的电动车新产品",
+      "onboard_time": 1764894201,
+      "rank": 8,
+      "category": "民生新闻"
     }
   ],
   "hotgov_list": [
@@ -2740,6 +2908,9 @@
     },
     {
       "word": "#中法元首交流互动的经典瞬间#"
+    },
+    {
+      "word": "#从治水之道汲取治国理政智慧#"
     }
   ]
 }
