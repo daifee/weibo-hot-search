@@ -1,0 +1,410 @@
+{
+  "runTime": 1764986190092,
+  "source": {
+    "band_list": [
+      {
+        "raw_hot": 611026,
+        "num": 1097764,
+        "word": "仅退款225个包裹后向商家转账求和解",
+        "onboard_time": 1764978737,
+        "rank": 0,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 535327,
+        "num": 535327,
+        "word": "湖南卫视跨年改名",
+        "onboard_time": 1764978378,
+        "rank": 1,
+        "category": "综艺"
+      },
+      {
+        "raw_hot": 38071,
+        "num": 524848,
+        "word": "流感超过一周还有传染性吗",
+        "onboard_time": 1764941123,
+        "rank": 2,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 514580,
+        "num": 514580,
+        "word": "柬埔寨公主大婚",
+        "onboard_time": 1764953899,
+        "rank": 3,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 293183,
+        "num": 293183,
+        "word": "世界杯死亡之组",
+        "onboard_time": 1764978319,
+        "rank": 4,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 355773,
+        "num": 282593,
+        "word": "马克龙说此行只有一个遗憾",
+        "onboard_time": 1764975977,
+        "rank": 5,
+        "category": "国内时政"
+      },
+      {
+        "raw_hot": 340890,
+        "num": 261787,
+        "word": "九重紫",
+        "onboard_time": 1764983660,
+        "rank": 6,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 238128,
+        "num": 238128,
+        "word": "马克龙也喊孙颖莎莎莎",
+        "onboard_time": 1764979520,
+        "rank": 7,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 234446,
+        "num": 234446,
+        "word": "驻日美军猥亵少女日本不予起诉",
+        "onboard_time": 1764976096,
+        "rank": 8,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 181207,
+        "num": 181207,
+        "word": "教资面试",
+        "onboard_time": 1764980479,
+        "rank": 9,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 537923,
+        "num": 179640,
+        "word": "黄日华退出娱乐圈",
+        "onboard_time": 1764985280,
+        "rank": 10,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 416123,
+        "num": 178460,
+        "word": "男子掉入粉碎机身亡",
+        "onboard_time": 1764948381,
+        "rank": 11,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 254183,
+        "num": 176857,
+        "word": "张柏芝自曝患数字恐惧症",
+        "onboard_time": 1764979760,
+        "rank": 12,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 244847,
+        "num": 173863,
+        "word": "王橹杰穆祉丞 双人舞台",
+        "onboard_time": 1764980900,
+        "rank": 13,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 207241,
+        "num": 172371,
+        "word": "这才是真的俩魔丸生了个灵珠",
+        "onboard_time": 1764979100,
+        "rank": 14,
+        "category": "幽默"
+      },
+      {
+        "raw_hot": 171224,
+        "num": 171224,
+        "word": "东莞小学女生校内受伤流血家长报警",
+        "onboard_time": 1764980059,
+        "rank": 15,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 169921,
+        "num": 169921,
+        "word": "王者荣耀 疯狂动物城",
+        "onboard_time": 1764985221,
+        "rank": 16,
+        "category": "电影,游戏"
+      },
+      {
+        "raw_hot": 161051,
+        "num": 161051,
+        "word": "朱孝天 F4",
+        "onboard_time": 1764978621,
+        "rank": 17,
+        "category": "演出"
+      },
+      {
+        "raw_hot": 158449,
+        "num": 158449,
+        "word": "丁禹兮艾米 沧海花开",
+        "onboard_time": 1764984981,
+        "rank": 18,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 151322,
+        "num": 151322,
+        "word": "政务公示用明星和人名大全名字太荒诞",
+        "onboard_time": 1764977298,
+        "rank": 19,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 181618,
+        "num": 151026,
+        "word": "这样玩手机严重可能失明",
+        "onboard_time": 1764976157,
+        "rank": 20,
+        "category": "健康医疗"
+      },
+      {
+        "raw_hot": 156240,
+        "num": 150178,
+        "word": "得闲谨制预售票房8天1.47亿",
+        "onboard_time": 1764985280,
+        "rank": 21,
+        "category": "电影"
+      },
+      {
+        "raw_hot": 148046,
+        "num": 148046,
+        "word": "刘亦菲洪世贤 全女回家的诱惑",
+        "onboard_time": 1764976157,
+        "rank": 22,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 136904,
+        "num": 136904,
+        "word": "张本智和一直站在原地不动",
+        "onboard_time": 1764952999,
+        "rank": 23,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 132879,
+        "num": 132879,
+        "word": "陈震偷税案",
+        "onboard_time": 1764910701,
+        "rank": 24,
+        "category": "辟谣/通报,汽车"
+      },
+      {
+        "raw_hot": 131547,
+        "num": 131547,
+        "word": "听说印度没有结尾款这一说",
+        "onboard_time": 1764982760,
+        "rank": 25,
+        "category": "海外新闻"
+      },
+      {
+        "raw_hot": 130990,
+        "num": 130990,
+        "word": "2026世界杯看点",
+        "onboard_time": 1764985580,
+        "rank": 26,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 130335,
+        "num": 130335,
+        "word": "为什么父母觉得结婚生子就稳定了",
+        "onboard_time": 1764983540,
+        "rank": 27,
+        "category": "情感"
+      },
+      {
+        "raw_hot": 120002,
+        "num": 120002,
+        "word": "陈妍希演技",
+        "onboard_time": 1764983120,
+        "rank": 28,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 118344,
+        "num": 118344,
+        "word": "白鹿凌晨两点半还在线翻牌粉丝",
+        "onboard_time": 1764985400,
+        "rank": 29,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 109622,
+        "num": 109622,
+        "word": "枭起青壤 6.3分",
+        "onboard_time": 1764980180,
+        "rank": 30,
+        "category": "剧集"
+      },
+      {
+        "raw_hot": 105365,
+        "num": 105365,
+        "word": "阿富汗巴基斯坦交火",
+        "onboard_time": 1764978678,
+        "rank": 31,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 103326,
+        "num": 103326,
+        "word": "黄仁勋称华为史上最强科技公司之一",
+        "onboard_time": 1764981739,
+        "rank": 32,
+        "category": "互联网"
+      },
+      {
+        "raw_hot": 97481,
+        "num": 97481,
+        "word": "新拳头游戏",
+        "onboard_time": 1764985701,
+        "rank": 33,
+        "category": "游戏"
+      },
+      {
+        "raw_hot": 93484,
+        "num": 93484,
+        "word": "抽血显示怀孕子宫里却找不到胎儿",
+        "onboard_time": 1764939502,
+        "rank": 34,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 92579,
+        "num": 92579,
+        "word": "马克龙夫人认出在法出生的熊猫胖了",
+        "onboard_time": 1764949221,
+        "rank": 35,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 82205,
+        "num": 82205,
+        "word": "新生儿出生证明被盖死亡证明章",
+        "onboard_time": 1764945203,
+        "rank": 36,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 81867,
+        "num": 81867,
+        "word": "地铁回应女子打翻奶茶用围巾擦净",
+        "onboard_time": 1764977358,
+        "rank": 37,
+        "category": "民生新闻"
+      },
+      {
+        "raw_hot": 80661,
+        "num": 80661,
+        "word": "傅园慧妈妈帮她扎头发",
+        "onboard_time": 1764984381,
+        "rank": 38,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 77548,
+        "num": 77548,
+        "word": "左奇函受伤",
+        "onboard_time": 1764977898,
+        "rank": 39,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 76085,
+        "num": 76085,
+        "word": "日本一地为南京大屠杀受害者默哀",
+        "onboard_time": 1764982220,
+        "rank": 40,
+        "category": "国际时政"
+      },
+      {
+        "raw_hot": 75805,
+        "num": 75805,
+        "word": "张继科疑似辟谣结婚生子",
+        "onboard_time": 1764985820,
+        "rank": 41,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75761,
+        "num": 75761,
+        "word": "高圆圆好美的颅顶",
+        "onboard_time": 1764983480,
+        "rank": 42,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 75639,
+        "num": 75639,
+        "word": "主持人喊了两遍张本美和名字",
+        "onboard_time": 1764986001,
+        "rank": 43,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 75498,
+        "num": 75498,
+        "word": "教资面试真题",
+        "onboard_time": 1764983601,
+        "rank": 44,
+        "category": "教育"
+      },
+      {
+        "raw_hot": 73291,
+        "num": 73291,
+        "word": "周杰伦阿信言承旭吴建豪周渝民同框",
+        "onboard_time": 1764982099,
+        "rank": 45,
+        "category": "音乐"
+      },
+      {
+        "raw_hot": 72895,
+        "num": 72895,
+        "word": "刘宇宁 让我宣传进来",
+        "onboard_time": 1764976877,
+        "rank": 46,
+        "category": "艺人"
+      },
+      {
+        "raw_hot": 72444,
+        "num": 72444,
+        "word": "陈震用空壳工作室偷税",
+        "onboard_time": 1764935422,
+        "rank": 47,
+        "category": "民生新闻,汽车"
+      },
+      {
+        "raw_hot": 70165,
+        "num": 70165,
+        "word": "孙颖莎演我上班突然被cue",
+        "onboard_time": 1764986120,
+        "rank": 48,
+        "category": "体育"
+      },
+      {
+        "raw_hot": 70072,
+        "num": 70072,
+        "word": "墨西哥vs南非",
+        "onboard_time": 1764986060,
+        "rank": 49,
+        "category": "体育"
+      }
+    ],
+    "hotgov": {
+      "word": "#习近平介绍都江堰历史和意义#"
+    }
+  }
+}
