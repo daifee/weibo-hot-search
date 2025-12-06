@@ -1,6 +1,6 @@
 {
   "startTime": 1765038733899,
-  "endTime": 1765057074422,
+  "endTime": 1765059939073,
   "band_list": [
     {
       "raw_hot": 4049212,
@@ -435,12 +435,28 @@
       "category": "民生新闻"
     },
     {
+      "raw_hot": 69009,
+      "num": 77380,
+      "word": "专家回应日本要用电磁炮打中国航母",
+      "onboard_time": 1765045576,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 67414,
       "num": 206340,
       "word": "大量铜被运往美国",
       "onboard_time": 1765029804,
       "rank": 46,
       "category": "国际时政"
+    },
+    {
+      "raw_hot": 63494,
+      "num": 63494,
+      "word": "朱丹主持",
+      "onboard_time": 1765048515,
+      "rank": 31,
+      "category": "综艺"
     },
     {
       "raw_hot": 61943,
@@ -457,14 +473,6 @@
       "onboard_time": 1765031845,
       "rank": 48,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60012,
-      "num": 49530,
-      "word": "朱丹主持",
-      "onboard_time": 1765048515,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 57695,
@@ -507,12 +515,12 @@
       "category": "综艺"
     },
     {
-      "raw_hot": 43665,
-      "num": 77380,
-      "word": "专家回应日本要用电磁炮打中国航母",
-      "onboard_time": 1765045576,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 43664,
+      "num": 43664,
+      "word": "尖叫之夜奖项",
+      "onboard_time": 1765058955,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 40541,

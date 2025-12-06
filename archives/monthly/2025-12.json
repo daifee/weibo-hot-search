@@ -1,6 +1,6 @@
 {
   "startTime": 1764520309108,
-  "endTime": 1765057074422,
+  "endTime": 1765059939073,
   "band_list": [
     {
       "raw_hot": 9862757,
@@ -17723,6 +17723,14 @@
       "category": "游戏"
     },
     {
+      "raw_hot": 69009,
+      "num": 77380,
+      "word": "专家回应日本要用电磁炮打中国航母",
+      "onboard_time": 1765045576,
+      "rank": 47,
+      "category": "国际时政"
+    },
+    {
       "raw_hot": 68988,
       "num": 120810,
       "word": "冲绳向高市政府提交请愿书",
@@ -17995,6 +18003,14 @@
       "category": "体育"
     },
     {
+      "raw_hot": 63494,
+      "num": 63494,
+      "word": "朱丹主持",
+      "onboard_time": 1765048515,
+      "rank": 31,
+      "category": "综艺"
+    },
+    {
       "raw_hot": 63308,
       "num": 1056099,
       "word": "zhe里太能装了",
@@ -18113,14 +18129,6 @@
       "onboard_time": 1764829041,
       "rank": 14,
       "category": "国内时政"
-    },
-    {
-      "raw_hot": 60012,
-      "num": 49530,
-      "word": "朱丹主持",
-      "onboard_time": 1765048515,
-      "rank": 31,
-      "category": "综艺"
     },
     {
       "raw_hot": 59999,
@@ -19171,12 +19179,12 @@
       "category": "剧集"
     },
     {
-      "raw_hot": 43665,
-      "num": 77380,
-      "word": "专家回应日本要用电磁炮打中国航母",
-      "onboard_time": 1765045576,
-      "rank": 47,
-      "category": "国际时政"
+      "raw_hot": 43664,
+      "num": 43664,
+      "word": "尖叫之夜奖项",
+      "onboard_time": 1765058955,
+      "rank": 16,
+      "category": "综艺"
     },
     {
       "raw_hot": 43475,
